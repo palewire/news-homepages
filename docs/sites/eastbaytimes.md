@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T05:00:04.939190-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T05:00:04.939190-07:00.jpg"
-     alt="East Bay Times at 2022-07-25 12:00:10-07:00 local time"
+     alt="East Bay Times at 2022-07-25 05:00:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T05:00:04.939190-07:00.jpg">July 25 at 12:00 PM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T05:00:04.939190-07:00.jpg">July 25 at 5:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T18:02:24.049706-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T18:02:24.049706-07:00.jpg"
-     alt="East Bay Times at 2022-07-25 01:02:25-07:00 local time"
+     alt="East Bay Times at 2022-07-24 18:02:25-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T18:02:24.049706-07:00.jpg">July 25 at 1:02 AM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T18:02:24.049706-07:00.jpg">July 24 at 6:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T04:57:56.323231-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T04:57:56.323231-07:00.jpg"
-     alt="East Bay Times at 2022-07-24 11:58:02-07:00 local time"
+     alt="East Bay Times at 2022-07-24 04:58:02-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T04:57:56.323231-07:00.jpg">July 24 at 11:58 AM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T04:57:56.323231-07:00.jpg">July 24 at 4:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T23:27:25.901365-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T23:27:25.901365-07:00.jpg"
-     alt="East Bay Times at 2022-07-24 06:27:29-07:00 local time"
+     alt="East Bay Times at 2022-07-23 23:27:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T23:27:25.901365-07:00.jpg">July 24 at 6:27 AM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T23:27:25.901365-07:00.jpg">July 23 at 11:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T06:56:39.175381-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T06:56:39.175381-07:00.jpg"
-     alt="East Bay Times at 2022-07-23 13:56:41-07:00 local time"
+     alt="East Bay Times at 2022-07-23 06:56:41-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T06:56:39.175381-07:00.jpg">July 23 at 1:56 PM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T06:56:39.175381-07:00.jpg">July 23 at 6:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-22T19:23:44.957430-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-22T19:23:44.957430-07:00.jpg"
-     alt="East Bay Times at 2022-07-23 02:23:46-07:00 local time"
+     alt="East Bay Times at 2022-07-22 19:23:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-22T19:23:44.957430-07:00.jpg">July 23 at 2:23 AM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-22T19:23:44.957430-07:00.jpg">July 22 at 7:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-22T06:59:36.700012-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-22T06:59:36.700012-07:00.jpg"
-     alt="East Bay Times at 2022-07-22 13:59:38-07:00 local time"
+     alt="East Bay Times at 2022-07-22 06:59:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-22T06:59:36.700012-07:00.jpg">July 22 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-22T06:59:36.700012-07:00.jpg">July 22 at 6:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-21T19:18:52.651560-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-21T19:18:52.651560-07:00.jpg"
-     alt="East Bay Times at 2022-07-22 02:18:53-07:00 local time"
+     alt="East Bay Times at 2022-07-21 19:18:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-21T19:18:52.651560-07:00.jpg">July 22 at 2:18 AM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-21T19:18:52.651560-07:00.jpg">July 21 at 7:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-21T07:04:23.763755-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-21T07:04:23.763755-07:00.jpg"
-     alt="East Bay Times at 2022-07-21 14:04:25-07:00 local time"
+     alt="East Bay Times at 2022-07-21 07:04:25-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-21T07:04:23.763755-07:00.jpg">July 21 at 2:04 PM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-21T07:04:23.763755-07:00.jpg">July 21 at 7:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-20T19:21:14.979361-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-20T19:21:14.979361-07:00.jpg"
-     alt="East Bay Times at 2022-07-21 02:21:18-07:00 local time"
+     alt="East Bay Times at 2022-07-20 19:21:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-20T19:21:14.979361-07:00.jpg">July 21 at 2:21 AM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-20T19:21:14.979361-07:00.jpg">July 20 at 7:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-20T07:23:03.963406-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-20T07:23:03.963406-07:00.jpg"
-     alt="East Bay Times at 2022-07-20 14:23:11-07:00 local time"
+     alt="East Bay Times at 2022-07-20 07:23:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-20T07:23:03.963406-07:00.jpg">July 20 at 2:23 PM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-20T07:23:03.963406-07:00.jpg">July 20 at 7:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-19T19:15:22.616874-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-19T19:15:22.616874-07:00.jpg"
-     alt="East Bay Times at 2022-07-20 02:15:26-07:00 local time"
+     alt="East Bay Times at 2022-07-19 19:15:26-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-19T19:15:22.616874-07:00.jpg">July 20 at 2:15 AM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-19T19:15:22.616874-07:00.jpg">July 19 at 7:15 PM</a></p>
 </div>
 
 </div>

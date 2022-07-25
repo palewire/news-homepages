@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-24T22:24:34.608613-05:00.jpg">
   <img src="https://archive.org/download/kccinews-2022/kccinews-2022-07-24T22:24:34.608613-05:00.jpg"
-     alt="KCCI at 2022-07-25 05:24:38-05:00 local time"
+     alt="KCCI at 2022-07-24 22:24:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-24T22:24:34.608613-05:00.jpg">July 25 at 5:24 AM</a></p>
+ <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-24T22:24:34.608613-05:00.jpg">July 24 at 10:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-24T07:59:13.591012-05:00.jpg">
   <img src="https://archive.org/download/kccinews-2022/kccinews-2022-07-24T07:59:13.591012-05:00.jpg"
-     alt="KCCI at 2022-07-24 14:59:15-05:00 local time"
+     alt="KCCI at 2022-07-24 07:59:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-24T07:59:13.591012-05:00.jpg">July 24 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-24T07:59:13.591012-05:00.jpg">July 24 at 7:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-23T23:14:07.150030-05:00.jpg">
   <img src="https://archive.org/download/kccinews-2022/kccinews-2022-07-23T23:14:07.150030-05:00.jpg"
-     alt="KCCI at 2022-07-24 06:14:11-05:00 local time"
+     alt="KCCI at 2022-07-23 23:14:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-23T23:14:07.150030-05:00.jpg">July 24 at 6:14 AM</a></p>
+ <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-23T23:14:07.150030-05:00.jpg">July 23 at 11:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-23T09:04:33.655223-05:00.jpg">
   <img src="https://archive.org/download/kccinews-2022/kccinews-2022-07-23T09:04:33.655223-05:00.jpg"
-     alt="KCCI at 2022-07-23 16:04:37-05:00 local time"
+     alt="KCCI at 2022-07-23 09:04:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-23T09:04:33.655223-05:00.jpg">July 23 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-23T09:04:33.655223-05:00.jpg">July 23 at 9:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T21:30:26.601804-05:00.jpg">
   <img src="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T21:30:26.601804-05:00.jpg"
-     alt="KCCI at 2022-07-23 04:30:27-05:00 local time"
+     alt="KCCI at 2022-07-22 21:30:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T21:30:26.601804-05:00.jpg">July 23 at 4:30 AM</a></p>
+ <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T21:30:26.601804-05:00.jpg">July 22 at 9:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T11:13:09.468146-05:00.jpg">
   <img src="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T11:13:09.468146-05:00.jpg"
-     alt="KCCI at 2022-07-22 18:13:10-05:00 local time"
+     alt="KCCI at 2022-07-22 11:13:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T11:13:09.468146-05:00.jpg">July 22 at 6:13 PM</a></p>
+ <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T11:13:09.468146-05:00.jpg">July 22 at 11:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T09:05:18.287664-05:00.jpg">
   <img src="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T09:05:18.287664-05:00.jpg"
-     alt="KCCI at 2022-07-22 16:05:23-05:00 local time"
+     alt="KCCI at 2022-07-22 09:05:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T09:05:18.287664-05:00.jpg">July 22 at 4:05 PM</a></p>
+ <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T09:05:18.287664-05:00.jpg">July 22 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-21T21:24:17.905206-05:00.jpg">
   <img src="https://archive.org/download/kccinews-2022/kccinews-2022-07-21T21:24:17.905206-05:00.jpg"
-     alt="KCCI at 2022-07-22 04:24:20-05:00 local time"
+     alt="KCCI at 2022-07-21 21:24:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-21T21:24:17.905206-05:00.jpg">July 22 at 4:24 AM</a></p>
+ <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-21T21:24:17.905206-05:00.jpg">July 21 at 9:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-21T09:14:24.503349-05:00.jpg">
   <img src="https://archive.org/download/kccinews-2022/kccinews-2022-07-21T09:14:24.503349-05:00.jpg"
-     alt="KCCI at 2022-07-21 16:14:25-05:00 local time"
+     alt="KCCI at 2022-07-21 09:14:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-21T09:14:24.503349-05:00.jpg">July 21 at 4:14 PM</a></p>
+ <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-21T09:14:24.503349-05:00.jpg">July 21 at 9:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-20T21:27:26.747609-05:00.jpg">
   <img src="https://archive.org/download/kccinews-2022/kccinews-2022-07-20T21:27:26.747609-05:00.jpg"
-     alt="KCCI at 2022-07-21 04:27:27-05:00 local time"
+     alt="KCCI at 2022-07-20 21:27:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-20T21:27:26.747609-05:00.jpg">July 21 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-20T21:27:26.747609-05:00.jpg">July 20 at 9:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-20T09:28:11.008047-05:00.jpg">
   <img src="https://archive.org/download/kccinews-2022/kccinews-2022-07-20T09:28:11.008047-05:00.jpg"
-     alt="KCCI at 2022-07-20 16:28:21-05:00 local time"
+     alt="KCCI at 2022-07-20 09:28:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-20T09:28:11.008047-05:00.jpg">July 20 at 4:28 PM</a></p>
+ <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-20T09:28:11.008047-05:00.jpg">July 20 at 9:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-19T21:20:19.456092-05:00.jpg">
   <img src="https://archive.org/download/kccinews-2022/kccinews-2022-07-19T21:20:19.456092-05:00.jpg"
-     alt="KCCI at 2022-07-20 04:20:21-05:00 local time"
+     alt="KCCI at 2022-07-19 21:20:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-19T21:20:19.456092-05:00.jpg">July 20 at 4:20 AM</a></p>
+ <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-19T21:20:19.456092-05:00.jpg">July 19 at 9:20 PM</a></p>
 </div>
 
 </div>

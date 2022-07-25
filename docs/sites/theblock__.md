@@ -31,10 +31,10 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/theblock__-2022/theblock__-2022-07-25T02:46:54.909238-04:00.jpg">
   <img src="https://archive.org/download/theblock__-2022/theblock__-2022-07-25T02:46:54.909238-04:00.jpg"
-     alt="Block at 2022-07-25 09:47:00-04:00 local time"
+     alt="Block at 2022-07-25 02:47:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theblock__-2022/theblock__-2022-07-25T02:46:54.909238-04:00.jpg">July 25 at 9:47 AM</a></p>
+ <p><a href="https://archive.org/download/theblock__-2022/theblock__-2022-07-25T02:46:54.909238-04:00.jpg">July 25 at 2:47 AM</a></p>
 </div>
 
 </div>

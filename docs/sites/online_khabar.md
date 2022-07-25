@@ -31,19 +31,19 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T09:24:07.879419+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T09:24:07.879419+05:45.jpg"
-     alt="Online Khabar at 2022-07-25 16:24:08+05:45 local time"
+     alt="Online Khabar at 2022-07-25 09:24:08+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T09:24:07.879419+05:45.jpg">July 25 at 4:24 PM</a></p>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T09:24:07.879419+05:45.jpg">July 25 at 9:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T02:23:38.885743+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T02:23:38.885743+05:45.jpg"
-     alt="Online Khabar at 2022-07-25 09:23:44+05:45 local time"
+     alt="Online Khabar at 2022-07-25 02:23:44+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T02:23:38.885743+05:45.jpg">July 25 at 9:23 AM</a></p>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T02:23:38.885743+05:45.jpg">July 25 at 2:23 AM</a></p>
 </div>
 
 </div>

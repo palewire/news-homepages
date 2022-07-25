@@ -31,19 +31,19 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-07-25T10:19:41.256465+05:45.jpg">
   <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-07-25T10:19:41.256465+05:45.jpg"
-     alt="Thaha Khabar at 2022-07-25 17:19:42+05:45 local time"
+     alt="Thaha Khabar at 2022-07-25 10:19:42+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-07-25T10:19:41.256465+05:45.jpg">July 25 at 5:19 PM</a></p>
+ <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-07-25T10:19:41.256465+05:45.jpg">July 25 at 10:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-07-25T02:24:24.758110+05:45.jpg">
   <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-07-25T02:24:24.758110+05:45.jpg"
-     alt="Thaha Khabar at 2022-07-25 09:24:30+05:45 local time"
+     alt="Thaha Khabar at 2022-07-25 02:24:30+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-07-25T02:24:24.758110+05:45.jpg">July 25 at 9:24 AM</a></p>
+ <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-07-25T02:24:24.758110+05:45.jpg">July 25 at 2:24 AM</a></p>
 </div>
 
 </div>

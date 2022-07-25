@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-24T23:41:26.320843-05:00.jpg">
   <img src="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-24T23:41:26.320843-05:00.jpg"
-     alt="Wisconsin State Journal at 2022-07-25 06:41:30-05:00 local time"
+     alt="Wisconsin State Journal at 2022-07-24 23:41:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-24T23:41:26.320843-05:00.jpg">July 25 at 6:41 AM</a></p>
+ <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-24T23:41:26.320843-05:00.jpg">July 24 at 11:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-24T10:11:34.712549-05:00.jpg">
   <img src="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-24T10:11:34.712549-05:00.jpg"
-     alt="Wisconsin State Journal at 2022-07-24 17:11:38-05:00 local time"
+     alt="Wisconsin State Journal at 2022-07-24 10:11:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-24T10:11:34.712549-05:00.jpg">July 24 at 5:11 PM</a></p>
+ <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-24T10:11:34.712549-05:00.jpg">July 24 at 10:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-23T22:47:22.136779-05:00.jpg">
   <img src="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-23T22:47:22.136779-05:00.jpg"
-     alt="Wisconsin State Journal at 2022-07-24 05:47:24-05:00 local time"
+     alt="Wisconsin State Journal at 2022-07-23 22:47:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-23T22:47:22.136779-05:00.jpg">July 24 at 5:47 AM</a></p>
+ <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-23T22:47:22.136779-05:00.jpg">July 23 at 10:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-23T11:09:21.095116-05:00.jpg">
   <img src="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-23T11:09:21.095116-05:00.jpg"
-     alt="Wisconsin State Journal at 2022-07-23 18:09:23-05:00 local time"
+     alt="Wisconsin State Journal at 2022-07-23 11:09:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-23T11:09:21.095116-05:00.jpg">July 23 at 6:09 PM</a></p>
+ <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-23T11:09:21.095116-05:00.jpg">July 23 at 11:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-22T23:29:32.407707-05:00.jpg">
   <img src="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-22T23:29:32.407707-05:00.jpg"
-     alt="Wisconsin State Journal at 2022-07-23 06:29:37-05:00 local time"
+     alt="Wisconsin State Journal at 2022-07-22 23:29:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-22T23:29:32.407707-05:00.jpg">July 23 at 6:29 AM</a></p>
+ <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-22T23:29:32.407707-05:00.jpg">July 22 at 11:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-22T11:22:06.360471-05:00.jpg">
   <img src="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-22T11:22:06.360471-05:00.jpg"
-     alt="Wisconsin State Journal at 2022-07-22 18:22:10-05:00 local time"
+     alt="Wisconsin State Journal at 2022-07-22 11:22:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-22T11:22:06.360471-05:00.jpg">July 22 at 6:22 PM</a></p>
+ <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-22T11:22:06.360471-05:00.jpg">July 22 at 11:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-21T23:35:40.227832-05:00.jpg">
   <img src="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-21T23:35:40.227832-05:00.jpg"
-     alt="Wisconsin State Journal at 2022-07-22 06:35:45-05:00 local time"
+     alt="Wisconsin State Journal at 2022-07-21 23:35:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-21T23:35:40.227832-05:00.jpg">July 22 at 6:35 AM</a></p>
+ <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-21T23:35:40.227832-05:00.jpg">July 21 at 11:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-21T12:00:13.969884-05:00.jpg">
   <img src="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-21T12:00:13.969884-05:00.jpg"
-     alt="Wisconsin State Journal at 2022-07-21 19:00:16-05:00 local time"
+     alt="Wisconsin State Journal at 2022-07-21 12:00:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-21T12:00:13.969884-05:00.jpg">July 21 at 7:00 PM</a></p>
+ <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-21T12:00:13.969884-05:00.jpg">July 21 at 12:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-20T23:33:33.296445-05:00.jpg">
   <img src="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-20T23:33:33.296445-05:00.jpg"
-     alt="Wisconsin State Journal at 2022-07-21 06:33:35-05:00 local time"
+     alt="Wisconsin State Journal at 2022-07-20 23:33:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-20T23:33:33.296445-05:00.jpg">July 21 at 6:33 AM</a></p>
+ <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-20T23:33:33.296445-05:00.jpg">July 20 at 11:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-20T11:50:57.345766-05:00.jpg">
   <img src="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-20T11:50:57.345766-05:00.jpg"
-     alt="Wisconsin State Journal at 2022-07-20 18:51:01-05:00 local time"
+     alt="Wisconsin State Journal at 2022-07-20 11:51:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-20T11:50:57.345766-05:00.jpg">July 20 at 6:51 PM</a></p>
+ <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-20T11:50:57.345766-05:00.jpg">July 20 at 11:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-19T23:24:55.745444-05:00.jpg">
   <img src="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-19T23:24:55.745444-05:00.jpg"
-     alt="Wisconsin State Journal at 2022-07-20 06:24:57-05:00 local time"
+     alt="Wisconsin State Journal at 2022-07-19 23:24:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-19T23:24:55.745444-05:00.jpg">July 20 at 6:24 AM</a></p>
+ <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-19T23:24:55.745444-05:00.jpg">July 19 at 11:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-19T12:05:43.304613-05:00.jpg">
   <img src="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-19T12:05:43.304613-05:00.jpg"
-     alt="Wisconsin State Journal at 2022-07-19 19:05:52-05:00 local time"
+     alt="Wisconsin State Journal at 2022-07-19 12:05:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-19T12:05:43.304613-05:00.jpg">July 19 at 7:05 PM</a></p>
+ <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-19T12:05:43.304613-05:00.jpg">July 19 at 12:05 PM</a></p>
 </div>
 
 </div>

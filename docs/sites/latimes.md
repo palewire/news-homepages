@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T20:35:52.730839-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-07-24T20:35:52.730839-07:00.jpg"
-     alt="Los Angeles Times at 2022-07-25 03:35:55-07:00 local time"
+     alt="Los Angeles Times at 2022-07-24 20:35:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T20:35:52.730839-07:00.jpg">July 25 at 3:35 AM</a></p>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T20:35:52.730839-07:00.jpg">July 24 at 8:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T20:28:31.129953-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-07-24T20:28:31.129953-07:00.jpg"
-     alt="Los Angeles Times at 2022-07-25 03:28:33-07:00 local time"
+     alt="Los Angeles Times at 2022-07-24 20:28:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T20:28:31.129953-07:00.jpg">July 25 at 3:28 AM</a></p>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T20:28:31.129953-07:00.jpg">July 24 at 8:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T12:06:26.579024-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-07-24T12:06:26.579024-07:00.jpg"
-     alt="Los Angeles Times at 2022-07-24 19:06:28-07:00 local time"
+     alt="Los Angeles Times at 2022-07-24 12:06:28-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T12:06:26.579024-07:00.jpg">July 24 at 7:06 PM</a></p>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T12:06:26.579024-07:00.jpg">July 24 at 12:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T11:20:34.237241-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-07-24T11:20:34.237241-07:00.jpg"
-     alt="Los Angeles Times at 2022-07-24 18:20:36-07:00 local time"
+     alt="Los Angeles Times at 2022-07-24 11:20:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T11:20:34.237241-07:00.jpg">July 24 at 6:20 PM</a></p>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T11:20:34.237241-07:00.jpg">July 24 at 11:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T06:57:50.637161-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-07-24T06:57:50.637161-07:00.jpg"
-     alt="Los Angeles Times at 2022-07-24 13:57:52-07:00 local time"
+     alt="Los Angeles Times at 2022-07-24 06:57:52-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T06:57:50.637161-07:00.jpg">July 24 at 1:57 PM</a></p>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T06:57:50.637161-07:00.jpg">July 24 at 6:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T06:01:18.105454-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-07-24T06:01:18.105454-07:00.jpg"
-     alt="Los Angeles Times at 2022-07-24 13:01:20-07:00 local time"
+     alt="Los Angeles Times at 2022-07-24 06:01:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T06:01:18.105454-07:00.jpg">July 24 at 1:01 PM</a></p>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T06:01:18.105454-07:00.jpg">July 24 at 6:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-07-23T21:16:26.952564-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-07-23T21:16:26.952564-07:00.jpg"
-     alt="Los Angeles Times at 2022-07-24 04:16:35-07:00 local time"
+     alt="Los Angeles Times at 2022-07-23 21:16:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-23T21:16:26.952564-07:00.jpg">July 24 at 4:16 AM</a></p>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-23T21:16:26.952564-07:00.jpg">July 23 at 9:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-07-23T19:25:21.399445-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-07-23T19:25:21.399445-07:00.jpg"
-     alt="Los Angeles Times at 2022-07-24 02:25:27-07:00 local time"
+     alt="Los Angeles Times at 2022-07-23 19:25:27-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-23T19:25:21.399445-07:00.jpg">July 24 at 2:25 AM</a></p>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-23T19:25:21.399445-07:00.jpg">July 23 at 7:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-07-23T12:04:48.413836-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-07-23T12:04:48.413836-07:00.jpg"
-     alt="Los Angeles Times at 2022-07-23 19:04:50-07:00 local time"
+     alt="Los Angeles Times at 2022-07-23 12:04:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-23T12:04:48.413836-07:00.jpg">July 23 at 7:04 PM</a></p>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-23T12:04:48.413836-07:00.jpg">July 23 at 12:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-07-23T11:24:06.304679-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-07-23T11:24:06.304679-07:00.jpg"
-     alt="Los Angeles Times at 2022-07-23 18:24:08-07:00 local time"
+     alt="Los Angeles Times at 2022-07-23 11:24:08-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-23T11:24:06.304679-07:00.jpg">July 23 at 6:24 PM</a></p>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-23T11:24:06.304679-07:00.jpg">July 23 at 11:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-07-23T07:06:57.242248-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-07-23T07:06:57.242248-07:00.jpg"
-     alt="Los Angeles Times at 2022-07-23 14:06:59-07:00 local time"
+     alt="Los Angeles Times at 2022-07-23 07:06:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-23T07:06:57.242248-07:00.jpg">July 23 at 2:06 PM</a></p>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-23T07:06:57.242248-07:00.jpg">July 23 at 7:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-07-23T06:11:10.728295-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-07-23T06:11:10.728295-07:00.jpg"
-     alt="Los Angeles Times at 2022-07-23 13:11:12-07:00 local time"
+     alt="Los Angeles Times at 2022-07-23 06:11:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-23T06:11:10.728295-07:00.jpg">July 23 at 1:11 PM</a></p>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-23T06:11:10.728295-07:00.jpg">July 23 at 6:11 AM</a></p>
 </div>
 
 </div>

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-24T22:34:27.554081-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-24T22:34:27.554081-05:00.jpg"
-     alt="NBC Chicago at 2022-07-25 05:34:28-05:00 local time"
+     alt="NBC Chicago at 2022-07-24 22:34:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-24T22:34:27.554081-05:00.jpg">July 25 at 5:34 AM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-24T22:34:27.554081-05:00.jpg">July 24 at 10:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-24T10:46:06.928070-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-24T10:46:06.928070-05:00.jpg"
-     alt="NBC Chicago at 2022-07-24 17:46:09-05:00 local time"
+     alt="NBC Chicago at 2022-07-24 10:46:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-24T10:46:06.928070-05:00.jpg">July 24 at 5:46 PM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-24T10:46:06.928070-05:00.jpg">July 24 at 10:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-24T08:04:26.104028-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-24T08:04:26.104028-05:00.jpg"
-     alt="NBC Chicago at 2022-07-24 15:04:29-05:00 local time"
+     alt="NBC Chicago at 2022-07-24 08:04:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-24T08:04:26.104028-05:00.jpg">July 24 at 3:04 PM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-24T08:04:26.104028-05:00.jpg">July 24 at 8:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-23T23:20:08.808156-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-23T23:20:08.808156-05:00.jpg"
-     alt="NBC Chicago at 2022-07-24 06:20:11-05:00 local time"
+     alt="NBC Chicago at 2022-07-23 23:20:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-23T23:20:08.808156-05:00.jpg">July 24 at 6:20 AM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-23T23:20:08.808156-05:00.jpg">July 23 at 11:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-23T10:03:21.756149-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-23T10:03:21.756149-05:00.jpg"
-     alt="NBC Chicago at 2022-07-23 17:03:22-05:00 local time"
+     alt="NBC Chicago at 2022-07-23 10:03:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-23T10:03:21.756149-05:00.jpg">July 23 at 5:03 PM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-23T10:03:21.756149-05:00.jpg">July 23 at 10:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-22T22:32:58.548238-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-22T22:32:58.548238-05:00.jpg"
-     alt="NBC Chicago at 2022-07-23 05:33:00-05:00 local time"
+     alt="NBC Chicago at 2022-07-22 22:33:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-22T22:32:58.548238-05:00.jpg">July 23 at 5:33 AM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-22T22:32:58.548238-05:00.jpg">July 22 at 10:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-22T11:24:02.336133-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-22T11:24:02.336133-05:00.jpg"
-     alt="NBC Chicago at 2022-07-22 18:24:04-05:00 local time"
+     alt="NBC Chicago at 2022-07-22 11:24:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-22T11:24:02.336133-05:00.jpg">July 22 at 6:24 PM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-22T11:24:02.336133-05:00.jpg">July 22 at 11:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-22T09:59:00.542558-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-22T09:59:00.542558-05:00.jpg"
-     alt="NBC Chicago at 2022-07-22 16:59:03-05:00 local time"
+     alt="NBC Chicago at 2022-07-22 09:59:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-22T09:59:00.542558-05:00.jpg">July 22 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-22T09:59:00.542558-05:00.jpg">July 22 at 9:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-21T22:36:58.449130-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-21T22:36:58.449130-05:00.jpg"
-     alt="NBC Chicago at 2022-07-22 05:37:00-05:00 local time"
+     alt="NBC Chicago at 2022-07-21 22:37:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-21T22:36:58.449130-05:00.jpg">July 22 at 5:37 AM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-21T22:36:58.449130-05:00.jpg">July 21 at 10:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-21T11:49:01.344919-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-21T11:49:01.344919-05:00.jpg"
-     alt="NBC Chicago at 2022-07-21 18:49:03-05:00 local time"
+     alt="NBC Chicago at 2022-07-21 11:49:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-21T11:49:01.344919-05:00.jpg">July 21 at 6:49 PM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-21T11:49:01.344919-05:00.jpg">July 21 at 11:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-21T10:32:36.851642-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-21T10:32:36.851642-05:00.jpg"
-     alt="NBC Chicago at 2022-07-21 17:32:39-05:00 local time"
+     alt="NBC Chicago at 2022-07-21 10:32:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-21T10:32:36.851642-05:00.jpg">July 21 at 5:32 PM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-21T10:32:36.851642-05:00.jpg">July 21 at 10:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-20T22:35:11.103049-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-20T22:35:11.103049-05:00.jpg"
-     alt="NBC Chicago at 2022-07-21 05:35:13-05:00 local time"
+     alt="NBC Chicago at 2022-07-20 22:35:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-20T22:35:11.103049-05:00.jpg">July 21 at 5:35 AM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-20T22:35:11.103049-05:00.jpg">July 20 at 10:35 PM</a></p>
 </div>
 
 </div>

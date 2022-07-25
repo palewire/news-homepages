@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-25T06:56:23.143541-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-25T06:56:23.143541-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-25 13:56:24-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-25 06:56:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-25T06:56:23.143541-04:00.jpg">July 25 at 1:56 PM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-25T06:56:23.143541-04:00.jpg">July 25 at 6:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T23:22:29.477628-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-24T23:22:29.477628-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-25 06:22:31-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-24 23:22:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T23:22:29.477628-04:00.jpg">July 25 at 6:22 AM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T23:22:29.477628-04:00.jpg">July 24 at 11:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T20:46:27.379807-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-24T20:46:27.379807-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-25 03:46:30-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-24 20:46:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T20:46:27.379807-04:00.jpg">July 25 at 3:46 AM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T20:46:27.379807-04:00.jpg">July 24 at 8:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T15:06:55.577218-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-24T15:06:55.577218-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-24 22:06:57-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-24 15:06:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T15:06:55.577218-04:00.jpg">July 24 at 10:06 PM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T15:06:55.577218-04:00.jpg">July 24 at 3:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T08:06:53.553762-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-24T08:06:53.553762-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-24 15:06:55-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-24 08:06:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T08:06:53.553762-04:00.jpg">July 24 at 3:06 PM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T08:06:53.553762-04:00.jpg">July 24 at 8:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T06:55:41.501081-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-24T06:55:41.501081-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-24 13:55:43-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-24 06:55:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T06:55:41.501081-04:00.jpg">July 24 at 1:55 PM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T06:55:41.501081-04:00.jpg">July 24 at 6:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T22:26:05.901600-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-23T22:26:05.901600-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-24 05:26:07-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-23 22:26:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T22:26:05.901600-04:00.jpg">July 24 at 5:26 AM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T22:26:05.901600-04:00.jpg">July 23 at 10:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T18:57:43.610464-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-23T18:57:43.610464-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-24 01:57:45-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-23 18:57:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T18:57:43.610464-04:00.jpg">July 24 at 1:57 AM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T18:57:43.610464-04:00.jpg">July 23 at 6:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T15:03:42.807334-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-23T15:03:42.807334-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-23 22:03:45-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-23 15:03:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T15:03:42.807334-04:00.jpg">July 23 at 10:03 PM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T15:03:42.807334-04:00.jpg">July 23 at 3:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T08:54:01.638726-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-23T08:54:01.638726-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-23 15:54:03-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-23 08:54:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T08:54:01.638726-04:00.jpg">July 23 at 3:54 PM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T08:54:01.638726-04:00.jpg">July 23 at 8:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T08:04:18.606236-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-23T08:04:18.606236-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-23 15:04:20-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-23 08:04:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T08:04:18.606236-04:00.jpg">July 23 at 3:04 PM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T08:04:18.606236-04:00.jpg">July 23 at 8:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-22T21:32:55.625499-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-22T21:32:55.625499-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-23 04:32:57-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-22 21:32:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-22T21:32:55.625499-04:00.jpg">July 23 at 4:32 AM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-22T21:32:55.625499-04:00.jpg">July 22 at 9:32 PM</a></p>
 </div>
 
 </div>

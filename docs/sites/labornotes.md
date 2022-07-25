@@ -31,64 +31,64 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-24T22:28:31.382807-05:00.jpg">
   <img src="https://archive.org/download/labornotes-2022/labornotes-2022-07-24T22:28:31.382807-05:00.jpg"
-     alt="Labor Notes at 2022-07-25 05:28:33-05:00 local time"
+     alt="Labor Notes at 2022-07-24 22:28:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-24T22:28:31.382807-05:00.jpg">July 25 at 5:28 AM</a></p>
+ <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-24T22:28:31.382807-05:00.jpg">July 24 at 10:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-24T10:42:40.181667-05:00.jpg">
   <img src="https://archive.org/download/labornotes-2022/labornotes-2022-07-24T10:42:40.181667-05:00.jpg"
-     alt="Labor Notes at 2022-07-24 17:42:42-05:00 local time"
+     alt="Labor Notes at 2022-07-24 10:42:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-24T10:42:40.181667-05:00.jpg">July 24 at 5:42 PM</a></p>
+ <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-24T10:42:40.181667-05:00.jpg">July 24 at 10:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-24T08:01:33.870100-05:00.jpg">
   <img src="https://archive.org/download/labornotes-2022/labornotes-2022-07-24T08:01:33.870100-05:00.jpg"
-     alt="Labor Notes at 2022-07-24 15:01:35-05:00 local time"
+     alt="Labor Notes at 2022-07-24 08:01:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-24T08:01:33.870100-05:00.jpg">July 24 at 3:01 PM</a></p>
+ <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-24T08:01:33.870100-05:00.jpg">July 24 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-23T23:16:11.018336-05:00.jpg">
   <img src="https://archive.org/download/labornotes-2022/labornotes-2022-07-23T23:16:11.018336-05:00.jpg"
-     alt="Labor Notes at 2022-07-24 06:16:13-05:00 local time"
+     alt="Labor Notes at 2022-07-23 23:16:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-23T23:16:11.018336-05:00.jpg">July 24 at 6:16 AM</a></p>
+ <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-23T23:16:11.018336-05:00.jpg">July 23 at 11:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-23T13:13:22.876036-05:00.jpg">
   <img src="https://archive.org/download/labornotes-2022/labornotes-2022-07-23T13:13:22.876036-05:00.jpg"
-     alt="Labor Notes at 2022-07-23 20:13:24-05:00 local time"
+     alt="Labor Notes at 2022-07-23 13:13:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-23T13:13:22.876036-05:00.jpg">July 23 at 8:13 PM</a></p>
+ <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-23T13:13:22.876036-05:00.jpg">July 23 at 1:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-23T09:06:09.924645-05:00.jpg">
   <img src="https://archive.org/download/labornotes-2022/labornotes-2022-07-23T09:06:09.924645-05:00.jpg"
-     alt="Labor Notes at 2022-07-23 16:06:11-05:00 local time"
+     alt="Labor Notes at 2022-07-23 09:06:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-23T09:06:09.924645-05:00.jpg">July 23 at 4:06 PM</a></p>
+ <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-23T09:06:09.924645-05:00.jpg">July 23 at 9:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-22T21:31:35.365525-05:00.jpg">
   <img src="https://archive.org/download/labornotes-2022/labornotes-2022-07-22T21:31:35.365525-05:00.jpg"
-     alt="Labor Notes at 2022-07-23 04:31:41-05:00 local time"
+     alt="Labor Notes at 2022-07-22 21:31:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-22T21:31:35.365525-05:00.jpg">July 23 at 4:31 AM</a></p>
+ <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-22T21:31:35.365525-05:00.jpg">July 22 at 9:31 PM</a></p>
 </div>
 
 </div>

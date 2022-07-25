@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-24T23:32:56.214499-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-24T23:32:56.214499-04:00.jpg"
-     alt="Montreal Gazette at 2022-07-25 06:33:00-04:00 local time"
+     alt="Montreal Gazette at 2022-07-24 23:33:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-24T23:32:56.214499-04:00.jpg">July 25 at 6:33 AM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-24T23:32:56.214499-04:00.jpg">July 24 at 11:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-24T09:04:17.524858-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-24T09:04:17.524858-04:00.jpg"
-     alt="Montreal Gazette at 2022-07-24 16:04:18-04:00 local time"
+     alt="Montreal Gazette at 2022-07-24 09:04:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-24T09:04:17.524858-04:00.jpg">July 24 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-24T09:04:17.524858-04:00.jpg">July 24 at 9:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-24T00:19:18.988664-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-24T00:19:18.988664-04:00.jpg"
-     alt="Montreal Gazette at 2022-07-24 07:19:20-04:00 local time"
+     alt="Montreal Gazette at 2022-07-24 00:19:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-24T00:19:18.988664-04:00.jpg">July 24 at 7:19 AM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-24T00:19:18.988664-04:00.jpg">July 24 at 12:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-23T11:02:16.649308-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-23T11:02:16.649308-04:00.jpg"
-     alt="Montreal Gazette at 2022-07-23 18:02:18-04:00 local time"
+     alt="Montreal Gazette at 2022-07-23 11:02:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-23T11:02:16.649308-04:00.jpg">July 23 at 6:02 PM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-23T11:02:16.649308-04:00.jpg">July 23 at 11:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-22T23:32:12.463142-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-22T23:32:12.463142-04:00.jpg"
-     alt="Montreal Gazette at 2022-07-23 06:32:13-04:00 local time"
+     alt="Montreal Gazette at 2022-07-22 23:32:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-22T23:32:12.463142-04:00.jpg">July 23 at 6:32 AM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-22T23:32:12.463142-04:00.jpg">July 22 at 11:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-22T10:57:57.309164-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-22T10:57:57.309164-04:00.jpg"
-     alt="Montreal Gazette at 2022-07-22 17:57:58-04:00 local time"
+     alt="Montreal Gazette at 2022-07-22 10:57:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-22T10:57:57.309164-04:00.jpg">July 22 at 5:57 PM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-22T10:57:57.309164-04:00.jpg">July 22 at 10:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-21T23:36:29.762370-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-21T23:36:29.762370-04:00.jpg"
-     alt="Montreal Gazette at 2022-07-22 06:36:35-04:00 local time"
+     alt="Montreal Gazette at 2022-07-21 23:36:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-21T23:36:29.762370-04:00.jpg">July 22 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-21T23:36:29.762370-04:00.jpg">July 21 at 11:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-21T11:30:45.469099-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-21T11:30:45.469099-04:00.jpg"
-     alt="Montreal Gazette at 2022-07-21 18:30:48-04:00 local time"
+     alt="Montreal Gazette at 2022-07-21 11:30:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-21T11:30:45.469099-04:00.jpg">July 21 at 6:30 PM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-21T11:30:45.469099-04:00.jpg">July 21 at 11:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-20T23:34:44.604825-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-20T23:34:44.604825-04:00.jpg"
-     alt="Montreal Gazette at 2022-07-21 06:34:47-04:00 local time"
+     alt="Montreal Gazette at 2022-07-20 23:34:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-20T23:34:44.604825-04:00.jpg">July 21 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-20T23:34:44.604825-04:00.jpg">July 20 at 11:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-20T12:08:36.910713-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-20T12:08:36.910713-04:00.jpg"
-     alt="Montreal Gazette at 2022-07-20 19:08:40-04:00 local time"
+     alt="Montreal Gazette at 2022-07-20 12:08:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-20T12:08:36.910713-04:00.jpg">July 20 at 7:08 PM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-20T12:08:36.910713-04:00.jpg">July 20 at 12:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-19T23:32:52.969013-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-19T23:32:52.969013-04:00.jpg"
-     alt="Montreal Gazette at 2022-07-20 06:32:56-04:00 local time"
+     alt="Montreal Gazette at 2022-07-19 23:32:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-19T23:32:52.969013-04:00.jpg">July 20 at 6:32 AM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-19T23:32:52.969013-04:00.jpg">July 19 at 11:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-19T11:43:03.755016-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-19T11:43:03.755016-04:00.jpg"
-     alt="Montreal Gazette at 2022-07-19 18:43:07-04:00 local time"
+     alt="Montreal Gazette at 2022-07-19 11:43:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-19T11:43:03.755016-04:00.jpg">July 19 at 6:43 PM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-19T11:43:03.755016-04:00.jpg">July 19 at 11:43 AM</a></p>
 </div>
 
 </div>

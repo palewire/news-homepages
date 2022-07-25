@@ -31,91 +31,91 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T23:42:59.524638-04:00.jpg">
   <img src="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T23:42:59.524638-04:00.jpg"
-     alt="Savannah Morning News at 2022-07-25 06:43:00-04:00 local time"
+     alt="Savannah Morning News at 2022-07-24 23:43:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T23:42:59.524638-04:00.jpg">July 25 at 6:43 AM</a></p>
+ <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T23:42:59.524638-04:00.jpg">July 24 at 11:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T10:02:52.375611-04:00.jpg">
   <img src="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T10:02:52.375611-04:00.jpg"
-     alt="Savannah Morning News at 2022-07-24 17:02:54-04:00 local time"
+     alt="Savannah Morning News at 2022-07-24 10:02:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T10:02:52.375611-04:00.jpg">July 24 at 5:02 PM</a></p>
+ <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T10:02:52.375611-04:00.jpg">July 24 at 10:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T02:21:51.055716-04:00.jpg">
   <img src="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T02:21:51.055716-04:00.jpg"
-     alt="Savannah Morning News at 2022-07-24 09:21:53-04:00 local time"
+     alt="Savannah Morning News at 2022-07-24 02:21:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T02:21:51.055716-04:00.jpg">July 24 at 9:21 AM</a></p>
+ <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T02:21:51.055716-04:00.jpg">July 24 at 2:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-23T11:09:21.376512-04:00.jpg">
   <img src="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-23T11:09:21.376512-04:00.jpg"
-     alt="Savannah Morning News at 2022-07-23 18:09:23-04:00 local time"
+     alt="Savannah Morning News at 2022-07-23 11:09:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-23T11:09:21.376512-04:00.jpg">July 23 at 6:09 PM</a></p>
+ <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-23T11:09:21.376512-04:00.jpg">July 23 at 11:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-22T23:39:12.608943-04:00.jpg">
   <img src="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-22T23:39:12.608943-04:00.jpg"
-     alt="Savannah Morning News at 2022-07-23 06:39:13-04:00 local time"
+     alt="Savannah Morning News at 2022-07-22 23:39:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-22T23:39:12.608943-04:00.jpg">July 23 at 6:39 AM</a></p>
+ <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-22T23:39:12.608943-04:00.jpg">July 22 at 11:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-22T11:05:04.106819-04:00.jpg">
   <img src="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-22T11:05:04.106819-04:00.jpg"
-     alt="Savannah Morning News at 2022-07-22 18:05:05-04:00 local time"
+     alt="Savannah Morning News at 2022-07-22 11:05:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-22T11:05:04.106819-04:00.jpg">July 22 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-22T11:05:04.106819-04:00.jpg">July 22 at 11:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-21T23:43:24.831656-04:00.jpg">
   <img src="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-21T23:43:24.831656-04:00.jpg"
-     alt="Savannah Morning News at 2022-07-22 06:43:26-04:00 local time"
+     alt="Savannah Morning News at 2022-07-21 23:43:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-21T23:43:24.831656-04:00.jpg">July 22 at 6:43 AM</a></p>
+ <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-21T23:43:24.831656-04:00.jpg">July 21 at 11:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-21T11:40:25.365765-04:00.jpg">
   <img src="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-21T11:40:25.365765-04:00.jpg"
-     alt="Savannah Morning News at 2022-07-21 18:40:26-04:00 local time"
+     alt="Savannah Morning News at 2022-07-21 11:40:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-21T11:40:25.365765-04:00.jpg">July 21 at 6:40 PM</a></p>
+ <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-21T11:40:25.365765-04:00.jpg">July 21 at 11:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-20T23:41:43.301850-04:00.jpg">
   <img src="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-20T23:41:43.301850-04:00.jpg"
-     alt="Savannah Morning News at 2022-07-21 06:41:45-04:00 local time"
+     alt="Savannah Morning News at 2022-07-20 23:41:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-20T23:41:43.301850-04:00.jpg">July 21 at 6:41 AM</a></p>
+ <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-20T23:41:43.301850-04:00.jpg">July 20 at 11:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-20T19:30:59.255173-04:00.jpg">
   <img src="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-20T19:30:59.255173-04:00.jpg"
-     alt="Savannah Morning News at 2022-07-21 02:31:04-04:00 local time"
+     alt="Savannah Morning News at 2022-07-20 19:31:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-20T19:30:59.255173-04:00.jpg">July 21 at 2:31 AM</a></p>
+ <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-20T19:30:59.255173-04:00.jpg">July 20 at 7:31 PM</a></p>
 </div>
 
 </div>

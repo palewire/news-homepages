@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-07-24T20:28:35.752718-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-07-24T20:28:35.752718-07:00.jpg"
-     alt="L.A. Taco at 2022-07-25 03:28:38-07:00 local time"
+     alt="L.A. Taco at 2022-07-24 20:28:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-24T20:28:35.752718-07:00.jpg">July 25 at 3:28 AM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-24T20:28:35.752718-07:00.jpg">July 24 at 8:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-07-24T11:20:37.482946-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-07-24T11:20:37.482946-07:00.jpg"
-     alt="L.A. Taco at 2022-07-24 18:20:39-07:00 local time"
+     alt="L.A. Taco at 2022-07-24 11:20:39-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-24T11:20:37.482946-07:00.jpg">July 24 at 6:20 PM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-24T11:20:37.482946-07:00.jpg">July 24 at 11:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-07-24T06:01:25.600629-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-07-24T06:01:25.600629-07:00.jpg"
-     alt="L.A. Taco at 2022-07-24 13:01:27-07:00 local time"
+     alt="L.A. Taco at 2022-07-24 06:01:27-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-24T06:01:25.600629-07:00.jpg">July 24 at 1:01 PM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-24T06:01:25.600629-07:00.jpg">July 24 at 6:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-07-23T21:16:17.115429-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-07-23T21:16:17.115429-07:00.jpg"
-     alt="L.A. Taco at 2022-07-24 04:16:18-07:00 local time"
+     alt="L.A. Taco at 2022-07-23 21:16:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-23T21:16:17.115429-07:00.jpg">July 24 at 4:16 AM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-23T21:16:17.115429-07:00.jpg">July 23 at 9:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-07-23T11:23:51.949441-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-07-23T11:23:51.949441-07:00.jpg"
-     alt="L.A. Taco at 2022-07-23 18:23:53-07:00 local time"
+     alt="L.A. Taco at 2022-07-23 11:23:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-23T11:23:51.949441-07:00.jpg">July 23 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-23T11:23:51.949441-07:00.jpg">July 23 at 11:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-07-23T07:06:41.081526-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-07-23T07:06:41.081526-07:00.jpg"
-     alt="L.A. Taco at 2022-07-23 14:06:43-07:00 local time"
+     alt="L.A. Taco at 2022-07-23 07:06:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-23T07:06:41.081526-07:00.jpg">July 23 at 2:06 PM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-23T07:06:41.081526-07:00.jpg">July 23 at 7:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-07-22T19:32:16.643972-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-07-22T19:32:16.643972-07:00.jpg"
-     alt="L.A. Taco at 2022-07-23 02:32:22-07:00 local time"
+     alt="L.A. Taco at 2022-07-22 19:32:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-22T19:32:16.643972-07:00.jpg">July 23 at 2:32 AM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-22T19:32:16.643972-07:00.jpg">July 22 at 7:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-07-22T11:08:41.861110-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-07-22T11:08:41.861110-07:00.jpg"
-     alt="L.A. Taco at 2022-07-22 18:08:52-07:00 local time"
+     alt="L.A. Taco at 2022-07-22 11:08:52-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-22T11:08:41.861110-07:00.jpg">July 22 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-22T11:08:41.861110-07:00.jpg">July 22 at 11:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-07-22T07:07:16.233521-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-07-22T07:07:16.233521-07:00.jpg"
-     alt="L.A. Taco at 2022-07-22 14:07:18-07:00 local time"
+     alt="L.A. Taco at 2022-07-22 07:07:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-22T07:07:16.233521-07:00.jpg">July 22 at 2:07 PM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-22T07:07:16.233521-07:00.jpg">July 22 at 7:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-07-21T19:26:13.450608-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-07-21T19:26:13.450608-07:00.jpg"
-     alt="L.A. Taco at 2022-07-22 02:26:15-07:00 local time"
+     alt="L.A. Taco at 2022-07-21 19:26:15-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-21T19:26:13.450608-07:00.jpg">July 22 at 2:26 AM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-21T19:26:13.450608-07:00.jpg">July 21 at 7:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-07-21T11:08:51.099542-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-07-21T11:08:51.099542-07:00.jpg"
-     alt="L.A. Taco at 2022-07-21 18:08:52-07:00 local time"
+     alt="L.A. Taco at 2022-07-21 11:08:52-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-21T11:08:51.099542-07:00.jpg">July 21 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-21T11:08:51.099542-07:00.jpg">July 21 at 11:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-07-21T07:17:09.321527-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-07-21T07:17:09.321527-07:00.jpg"
-     alt="L.A. Taco at 2022-07-21 14:17:10-07:00 local time"
+     alt="L.A. Taco at 2022-07-21 07:17:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-21T07:17:09.321527-07:00.jpg">July 21 at 2:17 PM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-21T07:17:09.321527-07:00.jpg">July 21 at 7:17 AM</a></p>
 </div>
 
 </div>

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-25T07:02:30.069689-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-25T07:02:30.069689-05:00.jpg"
-     alt="Fort Worth Report at 2022-07-25 14:02:32-05:00 local time"
+     alt="Fort Worth Report at 2022-07-25 07:02:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-25T07:02:30.069689-05:00.jpg">July 25 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-25T07:02:30.069689-05:00.jpg">July 25 at 7:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-24T20:05:13.308143-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-24T20:05:13.308143-05:00.jpg"
-     alt="Fort Worth Report at 2022-07-25 03:05:14-05:00 local time"
+     alt="Fort Worth Report at 2022-07-24 20:05:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-24T20:05:13.308143-05:00.jpg">July 25 at 3:05 AM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-24T20:05:13.308143-05:00.jpg">July 24 at 8:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-24T06:59:46.369540-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-24T06:59:46.369540-05:00.jpg"
-     alt="Fort Worth Report at 2022-07-24 13:59:48-05:00 local time"
+     alt="Fort Worth Report at 2022-07-24 06:59:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-24T06:59:46.369540-05:00.jpg">July 24 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-24T06:59:46.369540-05:00.jpg">July 24 at 6:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-24T01:29:51.006674-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-24T01:29:51.006674-05:00.jpg"
-     alt="Fort Worth Report at 2022-07-24 08:29:52-05:00 local time"
+     alt="Fort Worth Report at 2022-07-24 01:29:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-24T01:29:51.006674-05:00.jpg">July 24 at 8:29 AM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-24T01:29:51.006674-05:00.jpg">July 24 at 1:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-23T08:59:39.285821-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-23T08:59:39.285821-05:00.jpg"
-     alt="Fort Worth Report at 2022-07-23 15:59:40-05:00 local time"
+     alt="Fort Worth Report at 2022-07-23 08:59:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-23T08:59:39.285821-05:00.jpg">July 23 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-23T08:59:39.285821-05:00.jpg">July 23 at 8:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-22T21:26:01.898436-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-22T21:26:01.898436-05:00.jpg"
-     alt="Fort Worth Report at 2022-07-23 04:26:02-05:00 local time"
+     alt="Fort Worth Report at 2022-07-22 21:26:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-22T21:26:01.898436-05:00.jpg">July 23 at 4:26 AM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-22T21:26:01.898436-05:00.jpg">July 22 at 9:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-22T09:00:12.243328-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-22T09:00:12.243328-05:00.jpg"
-     alt="Fort Worth Report at 2022-07-22 16:00:18-05:00 local time"
+     alt="Fort Worth Report at 2022-07-22 09:00:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-22T09:00:12.243328-05:00.jpg">July 22 at 4:00 PM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-22T09:00:12.243328-05:00.jpg">July 22 at 9:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-21T21:19:48.437020-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-21T21:19:48.437020-05:00.jpg"
-     alt="Fort Worth Report at 2022-07-22 04:19:49-05:00 local time"
+     alt="Fort Worth Report at 2022-07-21 21:19:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-21T21:19:48.437020-05:00.jpg">July 22 at 4:19 AM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-21T21:19:48.437020-05:00.jpg">July 21 at 9:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-21T09:08:12.840031-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-21T09:08:12.840031-05:00.jpg"
-     alt="Fort Worth Report at 2022-07-21 16:08:13-05:00 local time"
+     alt="Fort Worth Report at 2022-07-21 09:08:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-21T09:08:12.840031-05:00.jpg">July 21 at 4:08 PM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-21T09:08:12.840031-05:00.jpg">July 21 at 9:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-20T21:22:36.756384-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-20T21:22:36.756384-05:00.jpg"
-     alt="Fort Worth Report at 2022-07-21 04:22:39-05:00 local time"
+     alt="Fort Worth Report at 2022-07-20 21:22:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-20T21:22:36.756384-05:00.jpg">July 21 at 4:22 AM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-20T21:22:36.756384-05:00.jpg">July 20 at 9:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-20T09:22:07.188404-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-20T09:22:07.188404-05:00.jpg"
-     alt="Fort Worth Report at 2022-07-20 16:22:08-05:00 local time"
+     alt="Fort Worth Report at 2022-07-20 09:22:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-20T09:22:07.188404-05:00.jpg">July 20 at 4:22 PM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-20T09:22:07.188404-05:00.jpg">July 20 at 9:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-19T21:17:20.187272-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-19T21:17:20.187272-05:00.jpg"
-     alt="Fort Worth Report at 2022-07-20 04:17:21-05:00 local time"
+     alt="Fort Worth Report at 2022-07-19 21:17:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-19T21:17:20.187272-05:00.jpg">July 20 at 4:17 AM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-19T21:17:20.187272-05:00.jpg">July 19 at 9:17 PM</a></p>
 </div>
 
 </div>

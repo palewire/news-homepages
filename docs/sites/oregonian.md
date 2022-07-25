@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-24T20:38:51.208226-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-07-24T20:38:51.208226-07:00.jpg"
-     alt="Oregonian at 2022-07-25 03:38:52-07:00 local time"
+     alt="Oregonian at 2022-07-24 20:38:52-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-24T20:38:51.208226-07:00.jpg">July 25 at 3:38 AM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-24T20:38:51.208226-07:00.jpg">July 24 at 8:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-24T07:00:06.824303-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-07-24T07:00:06.824303-07:00.jpg"
-     alt="Oregonian at 2022-07-24 14:00:07-07:00 local time"
+     alt="Oregonian at 2022-07-24 07:00:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-24T07:00:06.824303-07:00.jpg">July 24 at 2:00 PM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-24T07:00:06.824303-07:00.jpg">July 24 at 7:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-23T23:18:41.047931-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-07-23T23:18:41.047931-07:00.jpg"
-     alt="Oregonian at 2022-07-24 06:18:43-07:00 local time"
+     alt="Oregonian at 2022-07-23 23:18:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-23T23:18:41.047931-07:00.jpg">July 24 at 6:18 AM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-23T23:18:41.047931-07:00.jpg">July 23 at 11:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-23T08:05:24.995166-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-07-23T08:05:24.995166-07:00.jpg"
-     alt="Oregonian at 2022-07-23 15:05:26-07:00 local time"
+     alt="Oregonian at 2022-07-23 08:05:26-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-23T08:05:24.995166-07:00.jpg">July 23 at 3:05 PM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-23T08:05:24.995166-07:00.jpg">July 23 at 8:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-22T20:35:27.599175-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-07-22T20:35:27.599175-07:00.jpg"
-     alt="Oregonian at 2022-07-23 03:35:29-07:00 local time"
+     alt="Oregonian at 2022-07-22 20:35:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-22T20:35:27.599175-07:00.jpg">July 23 at 3:35 AM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-22T20:35:27.599175-07:00.jpg">July 22 at 8:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-22T08:01:25.735039-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-07-22T08:01:25.735039-07:00.jpg"
-     alt="Oregonian at 2022-07-22 15:01:27-07:00 local time"
+     alt="Oregonian at 2022-07-22 08:01:27-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-22T08:01:25.735039-07:00.jpg">July 22 at 3:01 PM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-22T08:01:25.735039-07:00.jpg">July 22 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-21T20:39:44.722239-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-07-21T20:39:44.722239-07:00.jpg"
-     alt="Oregonian at 2022-07-22 03:39:46-07:00 local time"
+     alt="Oregonian at 2022-07-21 20:39:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-21T20:39:44.722239-07:00.jpg">July 22 at 3:39 AM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-21T20:39:44.722239-07:00.jpg">July 21 at 8:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-21T08:36:15.559122-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-07-21T08:36:15.559122-07:00.jpg"
-     alt="Oregonian at 2022-07-21 15:36:16-07:00 local time"
+     alt="Oregonian at 2022-07-21 08:36:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-21T08:36:15.559122-07:00.jpg">July 21 at 3:36 PM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-21T08:36:15.559122-07:00.jpg">July 21 at 8:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-20T20:38:01.838308-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-07-20T20:38:01.838308-07:00.jpg"
-     alt="Oregonian at 2022-07-21 03:38:06-07:00 local time"
+     alt="Oregonian at 2022-07-20 20:38:06-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-20T20:38:01.838308-07:00.jpg">July 21 at 3:38 AM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-20T20:38:01.838308-07:00.jpg">July 20 at 8:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-20T09:12:21.809971-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-07-20T09:12:21.809971-07:00.jpg"
-     alt="Oregonian at 2022-07-20 16:12:23-07:00 local time"
+     alt="Oregonian at 2022-07-20 09:12:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-20T09:12:21.809971-07:00.jpg">July 20 at 4:12 PM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-20T09:12:21.809971-07:00.jpg">July 20 at 9:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-19T20:35:58.302656-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-07-19T20:35:58.302656-07:00.jpg"
-     alt="Oregonian at 2022-07-20 03:36:00-07:00 local time"
+     alt="Oregonian at 2022-07-19 20:36:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-19T20:35:58.302656-07:00.jpg">July 20 at 3:36 AM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-19T20:35:58.302656-07:00.jpg">July 19 at 8:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-19T08:45:51.970019-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-07-19T08:45:51.970019-07:00.jpg"
-     alt="Oregonian at 2022-07-19 15:45:53-07:00 local time"
+     alt="Oregonian at 2022-07-19 08:45:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-19T08:45:51.970019-07:00.jpg">July 19 at 3:45 PM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-19T08:45:51.970019-07:00.jpg">July 19 at 8:45 AM</a></p>
 </div>
 
 </div>

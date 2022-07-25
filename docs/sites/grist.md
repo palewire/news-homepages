@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-25T05:04:35.551575-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-25T05:04:35.551575-07:00.jpg"
-     alt="Grist at 2022-07-25 12:04:37-07:00 local time"
+     alt="Grist at 2022-07-25 05:04:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-25T05:04:35.551575-07:00.jpg">July 25 at 12:04 PM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-25T05:04:35.551575-07:00.jpg">July 25 at 5:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-24T18:09:17.850475-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-24T18:09:17.850475-07:00.jpg"
-     alt="Grist at 2022-07-25 01:09:19-07:00 local time"
+     alt="Grist at 2022-07-24 18:09:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-24T18:09:17.850475-07:00.jpg">July 25 at 1:09 AM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-24T18:09:17.850475-07:00.jpg">July 24 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-24T05:01:35.197623-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-24T05:01:35.197623-07:00.jpg"
-     alt="Grist at 2022-07-24 12:01:37-07:00 local time"
+     alt="Grist at 2022-07-24 05:01:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-24T05:01:35.197623-07:00.jpg">July 24 at 12:01 PM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-24T05:01:35.197623-07:00.jpg">July 24 at 5:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-23T23:32:28.232338-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-23T23:32:28.232338-07:00.jpg"
-     alt="Grist at 2022-07-24 06:32:29-07:00 local time"
+     alt="Grist at 2022-07-23 23:32:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-23T23:32:28.232338-07:00.jpg">July 24 at 6:32 AM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-23T23:32:28.232338-07:00.jpg">July 23 at 11:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-23T07:01:19.261371-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-23T07:01:19.261371-07:00.jpg"
-     alt="Grist at 2022-07-23 14:01:21-07:00 local time"
+     alt="Grist at 2022-07-23 07:01:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-23T07:01:19.261371-07:00.jpg">July 23 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-23T07:01:19.261371-07:00.jpg">July 23 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-22T19:27:28.561673-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-22T19:27:28.561673-07:00.jpg"
-     alt="Grist at 2022-07-23 02:27:30-07:00 local time"
+     alt="Grist at 2022-07-22 19:27:30-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-22T19:27:28.561673-07:00.jpg">July 23 at 2:27 AM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-22T19:27:28.561673-07:00.jpg">July 22 at 7:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-22T07:02:37.044409-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-22T07:02:37.044409-07:00.jpg"
-     alt="Grist at 2022-07-22 14:02:38-07:00 local time"
+     alt="Grist at 2022-07-22 07:02:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-22T07:02:37.044409-07:00.jpg">July 22 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-22T07:02:37.044409-07:00.jpg">July 22 at 7:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-21T19:22:18.281926-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-21T19:22:18.281926-07:00.jpg"
-     alt="Grist at 2022-07-22 02:22:19-07:00 local time"
+     alt="Grist at 2022-07-21 19:22:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-21T19:22:18.281926-07:00.jpg">July 22 at 2:22 AM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-21T19:22:18.281926-07:00.jpg">July 21 at 7:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-21T07:10:45.789474-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-21T07:10:45.789474-07:00.jpg"
-     alt="Grist at 2022-07-21 14:10:46-07:00 local time"
+     alt="Grist at 2022-07-21 07:10:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-21T07:10:45.789474-07:00.jpg">July 21 at 2:10 PM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-21T07:10:45.789474-07:00.jpg">July 21 at 7:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-20T19:24:35.473293-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-20T19:24:35.473293-07:00.jpg"
-     alt="Grist at 2022-07-21 02:24:37-07:00 local time"
+     alt="Grist at 2022-07-20 19:24:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-20T19:24:35.473293-07:00.jpg">July 21 at 2:24 AM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-20T19:24:35.473293-07:00.jpg">July 20 at 7:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-20T07:25:01.847196-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-20T07:25:01.847196-07:00.jpg"
-     alt="Grist at 2022-07-20 14:25:03-07:00 local time"
+     alt="Grist at 2022-07-20 07:25:03-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-20T07:25:01.847196-07:00.jpg">July 20 at 2:25 PM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-20T07:25:01.847196-07:00.jpg">July 20 at 7:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-19T19:18:48.602920-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-19T19:18:48.602920-07:00.jpg"
-     alt="Grist at 2022-07-20 02:18:50-07:00 local time"
+     alt="Grist at 2022-07-19 19:18:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-19T19:18:48.602920-07:00.jpg">July 20 at 2:18 AM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-19T19:18:48.602920-07:00.jpg">July 19 at 7:18 PM</a></p>
 </div>
 
 </div>

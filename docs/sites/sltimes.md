@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T22:43:51.662908-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T22:43:51.662908-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-25 05:43:53-05:00 local time"
+     alt="Storm Lake Times at 2022-07-24 22:43:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T22:43:51.662908-05:00.jpg">July 25 at 5:43 AM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T22:43:51.662908-05:00.jpg">July 24 at 10:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T09:04:48.076371-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T09:04:48.076371-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-24 16:04:49-05:00 local time"
+     alt="Storm Lake Times at 2022-07-24 09:04:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T09:04:48.076371-05:00.jpg">July 24 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T09:04:48.076371-05:00.jpg">July 24 at 9:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T01:23:14.446628-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T01:23:14.446628-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-24 08:23:16-05:00 local time"
+     alt="Storm Lake Times at 2022-07-24 01:23:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T01:23:14.446628-05:00.jpg">July 24 at 8:23 AM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T01:23:14.446628-05:00.jpg">July 24 at 1:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-23T11:02:04.671555-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-23T11:02:04.671555-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-23 18:02:06-05:00 local time"
+     alt="Storm Lake Times at 2022-07-23 11:02:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-23T11:02:04.671555-05:00.jpg">July 23 at 6:02 PM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-23T11:02:04.671555-05:00.jpg">July 23 at 11:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-22T23:22:02.893564-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-22T23:22:02.893564-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-23 06:22:07-05:00 local time"
+     alt="Storm Lake Times at 2022-07-22 23:22:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-22T23:22:02.893564-05:00.jpg">July 23 at 6:22 AM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-22T23:22:02.893564-05:00.jpg">July 22 at 11:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-22T11:14:26.745663-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-22T11:14:26.745663-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-22 18:14:28-05:00 local time"
+     alt="Storm Lake Times at 2022-07-22 11:14:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-22T11:14:26.745663-05:00.jpg">July 22 at 6:14 PM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-22T11:14:26.745663-05:00.jpg">July 22 at 11:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-22T11:13:37.213050-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-22T11:13:37.213050-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-22 18:13:41-05:00 local time"
+     alt="Storm Lake Times at 2022-07-22 11:13:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-22T11:13:37.213050-05:00.jpg">July 22 at 6:13 PM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-22T11:13:37.213050-05:00.jpg">July 22 at 11:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-21T23:28:14.871006-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-21T23:28:14.871006-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-22 06:28:17-05:00 local time"
+     alt="Storm Lake Times at 2022-07-21 23:28:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-21T23:28:14.871006-05:00.jpg">July 22 at 6:28 AM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-21T23:28:14.871006-05:00.jpg">July 21 at 11:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-21T11:52:16.433442-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-21T11:52:16.433442-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-21 18:52:19-05:00 local time"
+     alt="Storm Lake Times at 2022-07-21 11:52:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-21T11:52:16.433442-05:00.jpg">July 21 at 6:52 PM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-21T11:52:16.433442-05:00.jpg">July 21 at 11:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-20T23:26:26.608507-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-20T23:26:26.608507-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-21 06:26:29-05:00 local time"
+     alt="Storm Lake Times at 2022-07-20 23:26:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-20T23:26:26.608507-05:00.jpg">July 21 at 6:26 AM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-20T23:26:26.608507-05:00.jpg">July 20 at 11:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-20T11:42:48.484386-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-20T11:42:48.484386-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-20 18:42:50-05:00 local time"
+     alt="Storm Lake Times at 2022-07-20 11:42:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-20T11:42:48.484386-05:00.jpg">July 20 at 6:42 PM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-20T11:42:48.484386-05:00.jpg">July 20 at 11:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-19T23:19:05.145091-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-19T23:19:05.145091-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-20 06:19:08-05:00 local time"
+     alt="Storm Lake Times at 2022-07-19 23:19:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-19T23:19:05.145091-05:00.jpg">July 20 at 6:19 AM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-19T23:19:05.145091-05:00.jpg">July 19 at 11:19 PM</a></p>
 </div>
 
 </div>

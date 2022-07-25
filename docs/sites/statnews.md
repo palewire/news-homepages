@@ -31,46 +31,46 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/statnews-2022/statnews-2022-07-24T23:44:23.963313-04:00.jpg">
   <img src="https://archive.org/download/statnews-2022/statnews-2022-07-24T23:44:23.963313-04:00.jpg"
-     alt="STAT at 2022-07-25 06:44:25-04:00 local time"
+     alt="STAT at 2022-07-24 23:44:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-07-24T23:44:23.963313-04:00.jpg">July 25 at 6:44 AM</a></p>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-07-24T23:44:23.963313-04:00.jpg">July 24 at 11:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statnews-2022/statnews-2022-07-24T10:05:01.558500-04:00.jpg">
   <img src="https://archive.org/download/statnews-2022/statnews-2022-07-24T10:05:01.558500-04:00.jpg"
-     alt="STAT at 2022-07-24 17:05:03-04:00 local time"
+     alt="STAT at 2022-07-24 10:05:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-07-24T10:05:01.558500-04:00.jpg">July 24 at 5:05 PM</a></p>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-07-24T10:05:01.558500-04:00.jpg">July 24 at 10:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statnews-2022/statnews-2022-07-24T02:24:34.771955-04:00.jpg">
   <img src="https://archive.org/download/statnews-2022/statnews-2022-07-24T02:24:34.771955-04:00.jpg"
-     alt="STAT at 2022-07-24 09:24:36-04:00 local time"
+     alt="STAT at 2022-07-24 02:24:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-07-24T02:24:34.771955-04:00.jpg">July 24 at 9:24 AM</a></p>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-07-24T02:24:34.771955-04:00.jpg">July 24 at 2:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statnews-2022/statnews-2022-07-23T12:03:14.316151-04:00.jpg">
   <img src="https://archive.org/download/statnews-2022/statnews-2022-07-23T12:03:14.316151-04:00.jpg"
-     alt="STAT at 2022-07-23 19:03:15-04:00 local time"
+     alt="STAT at 2022-07-23 12:03:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-07-23T12:03:14.316151-04:00.jpg">July 23 at 7:03 PM</a></p>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-07-23T12:03:14.316151-04:00.jpg">July 23 at 12:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statnews-2022/statnews-2022-07-23T00:23:09.345601-04:00.jpg">
   <img src="https://archive.org/download/statnews-2022/statnews-2022-07-23T00:23:09.345601-04:00.jpg"
-     alt="STAT at 2022-07-23 07:23:15-04:00 local time"
+     alt="STAT at 2022-07-23 00:23:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-07-23T00:23:09.345601-04:00.jpg">July 23 at 7:23 AM</a></p>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-07-23T00:23:09.345601-04:00.jpg">July 23 at 12:23 AM</a></p>
 </div>
 
 </div>

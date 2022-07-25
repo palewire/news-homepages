@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-24T23:40:37.373488-04:00.jpg">
   <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-24T23:40:37.373488-04:00.jpg"
-     alt="Pulitzer Center at 2022-07-25 06:40:40-04:00 local time"
+     alt="Pulitzer Center at 2022-07-24 23:40:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-24T23:40:37.373488-04:00.jpg">July 25 at 6:40 AM</a></p>
+ <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-24T23:40:37.373488-04:00.jpg">July 24 at 11:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-24T10:00:55.982152-04:00.jpg">
   <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-24T10:00:55.982152-04:00.jpg"
-     alt="Pulitzer Center at 2022-07-24 17:00:57-04:00 local time"
+     alt="Pulitzer Center at 2022-07-24 10:00:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-24T10:00:55.982152-04:00.jpg">July 24 at 5:00 PM</a></p>
+ <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-24T10:00:55.982152-04:00.jpg">July 24 at 10:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-24T02:20:24.488940-04:00.jpg">
   <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-24T02:20:24.488940-04:00.jpg"
-     alt="Pulitzer Center at 2022-07-24 09:20:27-04:00 local time"
+     alt="Pulitzer Center at 2022-07-24 02:20:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-24T02:20:24.488940-04:00.jpg">July 24 at 9:20 AM</a></p>
+ <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-24T02:20:24.488940-04:00.jpg">July 24 at 2:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-23T11:07:00.898244-04:00.jpg">
   <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-23T11:07:00.898244-04:00.jpg"
-     alt="Pulitzer Center at 2022-07-23 18:07:02-04:00 local time"
+     alt="Pulitzer Center at 2022-07-23 11:07:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-23T11:07:00.898244-04:00.jpg">July 23 at 6:07 PM</a></p>
+ <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-23T11:07:00.898244-04:00.jpg">July 23 at 11:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-22T23:36:58.661097-04:00.jpg">
   <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-22T23:36:58.661097-04:00.jpg"
-     alt="Pulitzer Center at 2022-07-23 06:37:00-04:00 local time"
+     alt="Pulitzer Center at 2022-07-22 23:37:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-22T23:36:58.661097-04:00.jpg">July 23 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-22T23:36:58.661097-04:00.jpg">July 22 at 11:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-22T11:02:53.524548-04:00.jpg">
   <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-22T11:02:53.524548-04:00.jpg"
-     alt="Pulitzer Center at 2022-07-22 18:02:55-04:00 local time"
+     alt="Pulitzer Center at 2022-07-22 11:02:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-22T11:02:53.524548-04:00.jpg">July 22 at 6:02 PM</a></p>
+ <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-22T11:02:53.524548-04:00.jpg">July 22 at 11:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-21T23:42:06.713563-04:00.jpg">
   <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-21T23:42:06.713563-04:00.jpg"
-     alt="Pulitzer Center at 2022-07-22 06:42:08-04:00 local time"
+     alt="Pulitzer Center at 2022-07-21 23:42:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-21T23:42:06.713563-04:00.jpg">July 22 at 6:42 AM</a></p>
+ <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-21T23:42:06.713563-04:00.jpg">July 21 at 11:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-21T11:38:27.721570-04:00.jpg">
   <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-21T11:38:27.721570-04:00.jpg"
-     alt="Pulitzer Center at 2022-07-21 18:38:29-04:00 local time"
+     alt="Pulitzer Center at 2022-07-21 11:38:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-21T11:38:27.721570-04:00.jpg">July 21 at 6:38 PM</a></p>
+ <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-21T11:38:27.721570-04:00.jpg">July 21 at 11:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-20T23:40:24.413708-04:00.jpg">
   <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-20T23:40:24.413708-04:00.jpg"
-     alt="Pulitzer Center at 2022-07-21 06:40:26-04:00 local time"
+     alt="Pulitzer Center at 2022-07-20 23:40:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-20T23:40:24.413708-04:00.jpg">July 21 at 6:40 AM</a></p>
+ <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-20T23:40:24.413708-04:00.jpg">July 20 at 11:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-20T12:14:42.034880-04:00.jpg">
   <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-20T12:14:42.034880-04:00.jpg"
-     alt="Pulitzer Center at 2022-07-20 19:14:44-04:00 local time"
+     alt="Pulitzer Center at 2022-07-20 12:14:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-20T12:14:42.034880-04:00.jpg">July 20 at 7:14 PM</a></p>
+ <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-20T12:14:42.034880-04:00.jpg">July 20 at 12:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-19T23:37:30.014258-04:00.jpg">
   <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-19T23:37:30.014258-04:00.jpg"
-     alt="Pulitzer Center at 2022-07-20 06:37:32-04:00 local time"
+     alt="Pulitzer Center at 2022-07-19 23:37:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-19T23:37:30.014258-04:00.jpg">July 20 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-19T23:37:30.014258-04:00.jpg">July 19 at 11:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-19T11:48:16.553789-04:00.jpg">
   <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-19T11:48:16.553789-04:00.jpg"
-     alt="Pulitzer Center at 2022-07-19 18:48:19-04:00 local time"
+     alt="Pulitzer Center at 2022-07-19 11:48:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-19T11:48:16.553789-04:00.jpg">July 19 at 6:48 PM</a></p>
+ <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-19T11:48:16.553789-04:00.jpg">July 19 at 11:48 AM</a></p>
 </div>
 
 </div>

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T23:36:13.923626-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T23:36:13.923626-04:00.jpg"
-     alt="News & Observer at 2022-07-25 06:36:15-04:00 local time"
+     alt="News & Observer at 2022-07-24 23:36:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T23:36:13.923626-04:00.jpg">July 25 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T23:36:13.923626-04:00.jpg">July 24 at 11:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T09:05:19.949942-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T09:05:19.949942-04:00.jpg"
-     alt="News & Observer at 2022-07-24 16:05:21-04:00 local time"
+     alt="News & Observer at 2022-07-24 09:05:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T09:05:19.949942-04:00.jpg">July 24 at 4:05 PM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T09:05:19.949942-04:00.jpg">July 24 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T00:20:40.539327-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T00:20:40.539327-04:00.jpg"
-     alt="News & Observer at 2022-07-24 07:20:42-04:00 local time"
+     alt="News & Observer at 2022-07-24 00:20:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T00:20:40.539327-04:00.jpg">July 24 at 7:20 AM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T00:20:40.539327-04:00.jpg">July 24 at 12:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-23T11:03:13.015850-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-23T11:03:13.015850-04:00.jpg"
-     alt="News & Observer at 2022-07-23 18:03:14-04:00 local time"
+     alt="News & Observer at 2022-07-23 11:03:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-23T11:03:13.015850-04:00.jpg">July 23 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-23T11:03:13.015850-04:00.jpg">July 23 at 11:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T23:33:25.102247-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T23:33:25.102247-04:00.jpg"
-     alt="News & Observer at 2022-07-23 06:33:28-04:00 local time"
+     alt="News & Observer at 2022-07-22 23:33:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T23:33:25.102247-04:00.jpg">July 23 at 6:33 AM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T23:33:25.102247-04:00.jpg">July 22 at 11:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T10:59:07.502444-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T10:59:07.502444-04:00.jpg"
-     alt="News & Observer at 2022-07-22 17:59:09-04:00 local time"
+     alt="News & Observer at 2022-07-22 10:59:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T10:59:07.502444-04:00.jpg">July 22 at 5:59 PM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T10:59:07.502444-04:00.jpg">July 22 at 10:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-21T23:38:14.991001-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-21T23:38:14.991001-04:00.jpg"
-     alt="News & Observer at 2022-07-22 06:38:17-04:00 local time"
+     alt="News & Observer at 2022-07-21 23:38:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-21T23:38:14.991001-04:00.jpg">July 22 at 6:38 AM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-21T23:38:14.991001-04:00.jpg">July 21 at 11:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-21T11:33:31.476669-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-21T11:33:31.476669-04:00.jpg"
-     alt="News & Observer at 2022-07-21 18:33:33-04:00 local time"
+     alt="News & Observer at 2022-07-21 11:33:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-21T11:33:31.476669-04:00.jpg">July 21 at 6:33 PM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-21T11:33:31.476669-04:00.jpg">July 21 at 11:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-20T23:36:06.744627-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-20T23:36:06.744627-04:00.jpg"
-     alt="News & Observer at 2022-07-21 06:36:10-04:00 local time"
+     alt="News & Observer at 2022-07-20 23:36:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-20T23:36:06.744627-04:00.jpg">July 21 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-20T23:36:06.744627-04:00.jpg">July 20 at 11:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-20T12:10:17.429913-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-20T12:10:17.429913-04:00.jpg"
-     alt="News & Observer at 2022-07-20 19:10:20-04:00 local time"
+     alt="News & Observer at 2022-07-20 12:10:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-20T12:10:17.429913-04:00.jpg">July 20 at 7:10 PM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-20T12:10:17.429913-04:00.jpg">July 20 at 12:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-19T23:33:42.258041-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-19T23:33:42.258041-04:00.jpg"
-     alt="News & Observer at 2022-07-20 06:33:44-04:00 local time"
+     alt="News & Observer at 2022-07-19 23:33:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-19T23:33:42.258041-04:00.jpg">July 20 at 6:33 AM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-19T23:33:42.258041-04:00.jpg">July 19 at 11:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-19T11:44:31.162710-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-19T11:44:31.162710-04:00.jpg"
-     alt="News & Observer at 2022-07-19 18:44:32-04:00 local time"
+     alt="News & Observer at 2022-07-19 11:44:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-19T11:44:31.162710-04:00.jpg">July 19 at 6:44 PM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-19T11:44:31.162710-04:00.jpg">July 19 at 11:44 AM</a></p>
 </div>
 
 </div>
