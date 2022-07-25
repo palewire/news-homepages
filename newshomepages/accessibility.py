@@ -15,6 +15,7 @@ def cli(handle: str, output_dir: str):
     """Save the accessiblity JSON of a single site."""
     # Get metadata
     site = utils.get_site(handle)
+    print(f"Fetching a11y tree from {site['url']}")
 
     # Do the thing
     _get_accessibility(site, output_dir)
@@ -38,7 +39,6 @@ def _get_accessibility(data: dict, output_dir: str):
     javascript = utils.get_javascript(data["handle"])
     if javascript:
         command_list.extend(["--javascript", javascript])
-    print(f"Fetching a11y tree from {data['url']}")
     subprocess.run(command_list)
 
 
