@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has captured 20 screenshots stored at the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
