@@ -1,5 +1,5 @@
 {
-  "created": 1658664520,
+  "created": 1658710898,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/7/items/izvestia_ru-2022",
@@ -1044,31 +1044,83 @@
       "sha1": "976ca0c06fc57fb0fac4273b741e42432455dc3f"
     },
     {
+      "name": "izvestia_ru-2022-07-24T15:58:04.187729+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658667487",
+      "size": "134244",
+      "md5": "f6a38edadfcf8ea8d3c8b869b76c1e3c",
+      "crc32": "a250f7a8",
+      "sha1": "a7bfeaedbd49098140e89fce533cdf6291e62313",
+      "format": "JSON"
+    },
+    {
+      "name": "izvestia_ru-2022-07-24T15:58:04.187729+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658667489",
+      "size": "184045",
+      "md5": "875f4d45fef2116fafa87950ab21e315",
+      "crc32": "4ae7528b",
+      "sha1": "581d542ee4cb1b09ca27ddb04fcb08fa77529c01",
+      "format": "JSON"
+    },
+    {
+      "name": "izvestia_ru-2022-07-24T15:58:04.187729+03:00.jpg",
+      "source": "original",
+      "mtime": "1658667485",
+      "size": "283197",
+      "md5": "b478dd9e21979a86b9fcd63d87ffaeae",
+      "crc32": "02605886",
+      "sha1": "ab225292e464cf364001dee1f8c58e52404c7e8d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "izvestia_ru-2022-07-24T15:58:04.187729+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658667490",
+      "size": "1372",
+      "md5": "20d10369ab6ae2e5cb688c87ede90834",
+      "crc32": "212c2dd8",
+      "sha1": "908ac503d8fb963e648ffc03be6743e79231fa45",
+      "format": "JSON"
+    },
+    {
+      "name": "izvestia_ru-2022-07-24T15:58:04.187729+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "izvestia_ru-2022-07-24T15:58:04.187729+03:00.jpg",
+      "mtime": "1658667560",
+      "size": "10327",
+      "md5": "6751cf8c5a84f109a2a8023346d61f02",
+      "crc32": "a319409e",
+      "sha1": "8255854ae8ce8657fbb421f763a4718ad5b6dca8"
+    },
+    {
       "name": "izvestia_ru-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7238da9aa49a34701641508ce2f2779e4efdad53",
-      "mtime": "1658645422",
-      "size": "22684",
-      "md5": "242f8eaca1f6981e1ccb96ae8281a49b",
-      "crc32": "842311d6",
-      "sha1": "e09280e3d6ce5d92b7c7171972936ae5142a8db9",
+      "btih": "12d4553f03aa59bed7a5944a96eb691f8a27ca89",
+      "mtime": "1658667568",
+      "size": "23761",
+      "md5": "429cc8a79c43691b88dd5419439a0df5",
+      "crc32": "0df461d0",
+      "sha1": "f1a991e130b8cf23f2f1a8f3aba4c9832b78a3f7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "izvestia_ru-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bfb94d4b59a2869187b2feb9351d591f",
+      "md5": "7ee881a2b952560c26fdc56828e7bd11",
       "summation": "md5"
     },
     {
       "name": "izvestia_ru-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658645351",
-      "size": "139264",
-      "md5": "fc3b12fff711e67e0e29cbd890ee93f6",
-      "crc32": "0b2d1940",
-      "sha1": "a862488fec1e53d8a7cf92b637cc12b08c1ce1b4",
+      "mtime": "1658667493",
+      "size": "143360",
+      "md5": "9959e3d5ac729ce9475c63276d865bbb",
+      "crc32": "f77c2368",
+      "sha1": "7606246963b7a6621120ab8df2fd128140796282",
       "format": "Metadata"
     },
     {
@@ -1082,19 +1134,19 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 103,
-  "item_last_updated": 1658645422,
-  "item_size": 10850156,
+  "files_count": 108,
+  "item_last_updated": 1658667568,
+  "item_size": 11468514,
   "izvestia_ru-2022": [
     {
       "url": "https://iz.ru/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/iz_ru-_-2022_07_24_06_36_15.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/iz_ru-_-2022_07_24_06_36_15.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/iz_ru-_-2022_07_24_12_37_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/iz_ru-_-2022_07_24_12_37_39.report.json",
       "summary": {
-        "performance": 0.44,
+        "performance": 0.32,
         "accessibility": 0.82,
-        "best-practices": 0.83,
+        "best-practices": 0.92,
         "seo": 0.84,
         "pwa": 1
       }
@@ -1102,10 +1154,10 @@
     {
       "url": "https://iz.ru/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/iz_ru-_-2022_07_24_06_36_42.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/iz_ru-_-2022_07_24_06_36_42.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/iz_ru-_-2022_07_24_12_38_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/iz_ru-_-2022_07_24_12_38_55.report.json",
       "summary": {
-        "performance": 0.43,
+        "performance": 0.35,
         "accessibility": 0.82,
         "best-practices": 0.83,
         "seo": 0.84,
@@ -1115,12 +1167,12 @@
     {
       "url": "https://iz.ru/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/iz_ru-_-2022_07_24_06_37_07.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/iz_ru-_-2022_07_24_06_37_07.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/iz_ru-_-2022_07_24_12_38_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/iz_ru-_-2022_07_24_12_38_21.report.json",
       "summary": {
-        "performance": 0.47,
+        "performance": 0.35,
         "accessibility": 0.82,
-        "best-practices": 0.83,
+        "best-practices": 0.92,
         "seo": 0.84,
         "pwa": 1
       }
@@ -1143,7 +1195,7 @@
     "addeddate": "2022-07-16 20:48:55"
   },
   "server": "ia801508.us.archive.org",
-  "uniq": 1426047066,
+  "uniq": 696838681,
   "workable_servers": [
     "ia801508.us.archive.org",
     "ia601508.us.archive.org"

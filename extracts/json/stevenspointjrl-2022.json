@@ -1,5 +1,5 @@
 {
-  "created": 1658664926,
+  "created": 1658711317,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/21/items/stevenspointjrl-2022",
@@ -7562,31 +7562,73 @@
       "sha1": "ada893aae143b2af1314a69486df90c5db0a1457"
     },
     {
+      "name": "stevenspointjrl-2022-07-24T09:05:37.472645-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658671542",
+      "size": "22934",
+      "md5": "6555e32ba5b24a1fca5bddde18228da9",
+      "crc32": "b3414d36",
+      "sha1": "3c6610827e63433cd97548adea847fd87a343d32",
+      "format": "JSON"
+    },
+    {
+      "name": "stevenspointjrl-2022-07-24T09:05:37.472645-05:00.jpg",
+      "source": "original",
+      "mtime": "1658671541",
+      "size": "254362",
+      "md5": "f85e15a2f08496d1f190e572899aa91f",
+      "crc32": "cec524e6",
+      "sha1": "997527c0255dfb7c626d8ca0c4b092ca5cc60a3f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stevenspointjrl-2022-07-24T09:05:37.472645-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658671544",
+      "size": "1567",
+      "md5": "03f2444c9d795ee1a1fcd6b39582c1d0",
+      "crc32": "729d9e8b",
+      "sha1": "cbd75897eac8f3e812036502ed789b55fbe9d23e",
+      "format": "JSON"
+    },
+    {
+      "name": "stevenspointjrl-2022-07-24T09:05:37.472645-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stevenspointjrl-2022-07-24T09:05:37.472645-05:00.jpg",
+      "mtime": "1658671596",
+      "size": "9357",
+      "md5": "f2127f3021719a4d66e2c90296941759",
+      "crc32": "1649fbf8",
+      "sha1": "995940e98a2ee8639200d01c025c9fbf3620316a"
+    },
+    {
       "name": "stevenspointjrl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "699d28e67557ca9479abed4488b6eafe9902e559",
-      "mtime": "1658644316",
-      "size": "157851",
-      "md5": "e86c07a0f92b81a00f9a8b926944254d",
-      "crc32": "92b5ae9b",
-      "sha1": "f000994c0a8544b9e2e54aa2b020678792bddcb5",
+      "btih": "55c6e8e132a2c42120d189b30173c2614d3d125d",
+      "mtime": "1658671602",
+      "size": "158707",
+      "md5": "cc88e6a2cc06b9cdffc399decb2f7019",
+      "crc32": "ce2b6954",
+      "sha1": "4e8cbef857031534dafa371a2a527e72400f70f1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stevenspointjrl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "558cb85acf213688234aa084351fc6aa",
+      "md5": "04de017ef9afbc5559a91f4630e63362",
       "summation": "md5"
     },
     {
       "name": "stevenspointjrl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658643873",
-      "size": "843776",
-      "md5": "a4faa31ecf9998646ebc5e8a5f6db477",
-      "crc32": "63d177fd",
-      "sha1": "c6de105f915bbd9c768e16caef15ac8b0d6ebb30",
+      "mtime": "1658671546",
+      "size": "847872",
+      "md5": "6e6733f19839cfd533993c8bd91d5f35",
+      "crc32": "7bc0cff8",
+      "sha1": "d8e0889b07cf6085aa769f1d9cb9d30013081fef",
       "format": "Metadata"
     },
     {
@@ -7600,9 +7642,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 723,
-  "item_last_updated": 1658644316,
-  "item_size": 62663862,
+  "files_count": 727,
+  "item_last_updated": 1658671602,
+  "item_size": 62957034,
   "metadata": {
     "identifier": "stevenspointjrl-2022",
     "collection": [
@@ -7624,21 +7666,8 @@
     {
       "url": "https://www.stevenspointjournal.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stevenspointjournal_com-_-2022_07_24_05_24_14.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stevenspointjournal_com-_-2022_07_24_05_24_14.report.json",
-      "summary": {
-        "performance": 0.84,
-        "accessibility": 0.88,
-        "best-practices": 1,
-        "seo": 0.92,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.stevenspointjournal.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stevenspointjournal_com-_-2022_07_24_05_25_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stevenspointjournal_com-_-2022_07_24_05_25_44.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stevenspointjournal_com-_-2022_07_24_13_50_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stevenspointjournal_com-_-2022_07_24_13_50_00.report.json",
       "summary": {
         "performance": 0.82,
         "accessibility": 0.88,
@@ -7649,9 +7678,22 @@
     },
     {
       "url": "https://www.stevenspointjournal.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stevenspointjournal_com-_-2022_07_24_13_52_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stevenspointjournal_com-_-2022_07_24_13_52_19.report.json",
+      "summary": {
+        "performance": 0.84,
+        "accessibility": 0.88,
+        "best-practices": 1,
+        "seo": 0.92,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.stevenspointjournal.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stevenspointjournal_com-_-2022_07_24_05_25_00.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stevenspointjournal_com-_-2022_07_24_05_25_00.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stevenspointjournal_com-_-2022_07_24_13_51_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stevenspointjournal_com-_-2022_07_24_13_51_23.report.json",
       "summary": {
         "performance": 0.85,
         "accessibility": 0.88,
@@ -7661,7 +7703,7 @@
       }
     }
   ],
-  "uniq": 1504910768,
+  "uniq": 1552471790,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

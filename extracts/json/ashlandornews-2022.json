@@ -1,5 +1,5 @@
 {
-  "created": 1658660331,
+  "created": 1658710143,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/1/items/ashlandornews-2022",
@@ -1380,31 +1380,83 @@
       "sha1": "ed650229a2b3b6b2868bec53be8e016822fa7cfb"
     },
     {
+      "name": "ashlandornews-2022-07-24T17:46:46.732721-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658710010",
+      "size": "23546",
+      "md5": "014f9e239c6070f2654a3c3f5b07efce",
+      "crc32": "6a0fdc09",
+      "sha1": "e16de3f5a5ccaab36807220d1cea997a2adc419e",
+      "format": "JSON"
+    },
+    {
+      "name": "ashlandornews-2022-07-24T17:46:46.732721-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658710012",
+      "size": "20417",
+      "md5": "82e40d9c35dd76c0933c58daba5f6500",
+      "crc32": "e30970ef",
+      "sha1": "db46f3233ffade8f7300dfb62010d152b336a4db",
+      "format": "JSON"
+    },
+    {
+      "name": "ashlandornews-2022-07-24T17:46:46.732721-07:00.jpg",
+      "source": "original",
+      "mtime": "1658710008",
+      "size": "328595",
+      "md5": "cdcf9f3beec2e6d542b098b5192c52f8",
+      "crc32": "e79ecaa4",
+      "sha1": "a410a682d996b03556153c4179d000d85f429040",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ashlandornews-2022-07-24T17:46:46.732721-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658710014",
+      "size": "1432",
+      "md5": "f9271af9842b2dc68b0c3084e50ec2a3",
+      "crc32": "0e988b3d",
+      "sha1": "cea54ee6d29c5212beb783e05fc515f35f8e1d29",
+      "format": "JSON"
+    },
+    {
+      "name": "ashlandornews-2022-07-24T17:46:46.732721-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ashlandornews-2022-07-24T17:46:46.732721-07:00.jpg",
+      "mtime": "1658710122",
+      "size": "8974",
+      "md5": "2848757634a5984cb355bdc1a8020946",
+      "crc32": "8d0607e2",
+      "sha1": "dc5e9b6932e8aea1750a8e8efb4609b4173a73eb"
+    },
+    {
       "name": "ashlandornews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a9de9a1c7fcd29e8eba831024d8c06f722cd861f",
-      "mtime": "1658660297",
-      "size": "29770",
-      "md5": "4a4dde4182034c772aa651ee6d5f6f67",
-      "crc32": "69ae5b69",
-      "sha1": "eaeaf3bc0174c99b70f963b514dc6624c927238e",
+      "btih": "84887b1473cef3c515ceb64543ea29e66582557b",
+      "mtime": "1658710127",
+      "size": "30834",
+      "md5": "cc2341801147833c787c4335dcd90315",
+      "crc32": "11312be8",
+      "sha1": "be3aa6ca039f38d3929fe39fef92170c008a3580",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ashlandornews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a85aae04f1a12856590ba19e081a7c9f",
+      "md5": "f3d366d7e0db1ca083bf79097aa78aa7",
       "summation": "md5"
     },
     {
       "name": "ashlandornews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658660196",
-      "size": "172032",
-      "md5": "e2953974a52bc6bab04ea50281ce7b25",
-      "crc32": "bbf48a89",
-      "sha1": "5cd8879cee0f88f7740cbd156751b36d816ee667",
+      "mtime": "1658710016",
+      "size": "180224",
+      "md5": "8a5deeb3f69ac34689a526935b540a2d",
+      "crc32": "e124bf53",
+      "sha1": "19f3531ae170feb318efe810d6b2a225b9837b93",
       "format": "Metadata"
     },
     {
@@ -1418,9 +1470,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 135,
-  "item_last_updated": 1658660297,
-  "item_size": 13181572,
+  "files_count": 140,
+  "item_last_updated": 1658710127,
+  "item_size": 13573792,
   "metadata": {
     "identifier": "ashlandornews-2022",
     "collection": [
@@ -1437,10 +1489,10 @@
     "publicdate": "2022-07-09 03:55:50",
     "addeddate": "2022-07-09 03:55:50"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 36795956,
+  "server": "ia601408.us.archive.org",
+  "uniq": 573639022,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

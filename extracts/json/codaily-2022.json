@@ -1,5 +1,6 @@
 {
-  "created": 1658660662,
+  "conflict": 1658710679,
+  "created": 1658710679,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/codaily-2022",
@@ -1800,31 +1801,78 @@
       "sha1": "eb9ace68e61f6a5a904737a4d62b3eef23755a3f"
     },
     {
+      "name": "codaily-2022-07-24T17:55:22.451955-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658710527",
+      "size": "30474",
+      "md5": "b4fe1aff3c7d9abd1ec7aa43952b8227",
+      "crc32": "edf1adec",
+      "sha1": "abe24f4271cf6045ff0df7e0bdf5a1cfcfda156b",
+      "format": "JSON"
+    },
+    {
+      "name": "codaily-2022-07-24T17:55:22.451955-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658710529",
+      "size": "29649",
+      "md5": "3d97f3c2ca1f8c4b7ed6768c107a2560",
+      "crc32": "efc3aa9d",
+      "sha1": "4e62186f7fabeff38083c45889e0d233b93804bb",
+      "format": "JSON"
+    },
+    {
+      "name": "codaily-2022-07-24T17:55:22.451955-07:00.jpg",
+      "source": "original",
+      "mtime": "1658710525",
+      "size": "293601",
+      "md5": "a7393b6df7014ee45915d934118cd093",
+      "crc32": "3e73382b",
+      "sha1": "995111abf8cb5f1babc40aa3873ae9e39eb222f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "codaily-2022-07-24T17:55:22.451955-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658710530",
+      "size": "1531",
+      "md5": "83a320c05a9265e81a563e8f00c1b4d6",
+      "crc32": "56d1a15a",
+      "sha1": "e117be25534902040ad88f59ffe50d4dd0b82a33",
+      "format": "JSON"
+    },
+    {
+      "name": "codaily-2022-07-24T17:55:22.451955-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "codaily-2022-07-24T17:55:22.451955-07:00.jpg"
+    },
+    {
       "name": "codaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f827859a6bf42a33f8f33605df1430fbce4eb4c3",
-      "mtime": "1658660642",
-      "size": "37287",
-      "md5": "f1f2866f9cdf75d55004ed9af2baf039",
-      "crc32": "615c63e7",
-      "sha1": "c5d6ca14f5548a14b3aac6eee73dde3bf6c26b2e",
+      "btih": "ef7dbed2c7f15aa968d330e5cfa499b27b310227",
+      "mtime": "1658710572",
+      "size": "38138",
+      "md5": "6817dc8009b85b90a4f7ad91c199d4a3",
+      "crc32": "fb894cf3",
+      "sha1": "c4ee03e9f8e39c73799371cd9df25f90cbbc6c63",
       "format": "Archive BitTorrent"
     },
     {
       "name": "codaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e9d8b50fc04b56c3af74dc239ab9a9a1",
+      "md5": "6d2cadbc3fbc90f61f509a48b804749a",
       "summation": "md5"
     },
     {
       "name": "codaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658660556",
-      "size": "217088",
-      "md5": "60929abaf080b9732298237736266a8d",
-      "crc32": "f454c78f",
-      "sha1": "94ec676c30a54b8de62fbc17011684d9c2a63cbf",
+      "mtime": "1658710535",
+      "size": "221184",
+      "md5": "2ea35088c3270fff9e827031d2cbec07",
+      "crc32": "cb8db432",
+      "sha1": "849efc30bee7ffc602fb9a4e52a85bc0a382d911",
       "format": "Metadata"
     },
     {
@@ -1838,9 +1886,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 175,
-  "item_last_updated": 1658660642,
-  "item_size": 15189581,
+  "files_count": 180,
+  "item_last_updated": 1658710572,
+  "item_size": 15549783,
   "metadata": {
     "identifier": "codaily-2022",
     "collection": [
@@ -1857,10 +1905,21 @@
     "publicdate": "2022-07-04 20:47:15",
     "addeddate": "2022-07-04 20:47:15"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 370199524,
+  "pending_tasks": true,
+  "server": "ia902507.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3342806404,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1600576165,
   "workable_servers": [
-    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658664739,
+  "created": 1658711111,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/2/items/nhk_news-2022",
@@ -1772,31 +1772,73 @@
       "sha1": "70393e1355f387d08da8165ed5ecc27ff5c04387"
     },
     {
+      "name": "nhk_news-2022-07-24T22:05:14.946635+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658667918",
+      "size": "16069",
+      "md5": "45b96e29466c88a352794ff8a3ff3910",
+      "crc32": "da4a3e57",
+      "sha1": "f4ac01c345821b87ca3d5f86de8681757b696e0c",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-07-24T22:05:14.946635+09:00.jpg",
+      "source": "original",
+      "mtime": "1658667916",
+      "size": "274745",
+      "md5": "beb39c2313376161a8594a69cc3b1820",
+      "crc32": "ccf7bf49",
+      "sha1": "dc25fa03386a690a644f806059b9ab37b1027dd0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nhk_news-2022-07-24T22:05:14.946635+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658667920",
+      "size": "1504",
+      "md5": "32352cd8aa42c2579675cde7d4a6c3b6",
+      "crc32": "21895ed1",
+      "sha1": "06f18783fba673c409d118f874f93c54978a1eaf",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-07-24T22:05:14.946635+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nhk_news-2022-07-24T22:05:14.946635+09:00.jpg",
+      "mtime": "1658667986",
+      "size": "9283",
+      "md5": "20676825cda22489cca53ad702859480",
+      "crc32": "9a54b6db",
+      "sha1": "16dfe82f4a77af931eaa0323dfe0cd30cd0794b6"
+    },
+    {
       "name": "nhk_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d90b78c84fcc404c5de8e3caa5e89b28842aa65a",
-      "mtime": "1658636717",
-      "size": "36426",
-      "md5": "57ff1e3640c0b93a467424fbd4f5584f",
-      "crc32": "706db64c",
-      "sha1": "163c80bd195f2b0ee8f60bf4e6907a66dfd25494",
+      "btih": "1fe9e262e7457e85f566748027475f7e92c3bd5d",
+      "mtime": "1658667990",
+      "size": "37251",
+      "md5": "02fafbc7d5be32a1e7638ad8a0c2714f",
+      "crc32": "d2a4a973",
+      "sha1": "aee40193d4b373fdeb2af58b4e22cfb1995e77d0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nhk_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe8b94239ba147e1351f7c8db8f95c36",
+      "md5": "badd4332dce0afc5708714e28efe0eee",
       "summation": "md5"
     },
     {
       "name": "nhk_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658636495",
-      "size": "204800",
-      "md5": "5f3b7901ec21a3e5419bec13e25aa34d",
-      "crc32": "bf0a3473",
-      "sha1": "d90d7174bca5863f06439817cfd2b1d415343e10",
+      "mtime": "1658667923",
+      "size": "208896",
+      "md5": "234afba454aa262b8fce9f863ce37f58",
+      "crc32": "102a8e73",
+      "sha1": "83aa4a1648d8a24afc0ab16e99ff64c51d58914a",
       "format": "Metadata"
     },
     {
@@ -1810,9 +1852,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 171,
-  "item_last_updated": 1658636717,
-  "item_size": 15390260,
+  "files_count": 175,
+  "item_last_updated": 1658667990,
+  "item_size": 15696782,
   "metadata": {
     "identifier": "nhk_news-2022",
     "collection": [
@@ -1833,10 +1875,10 @@
     {
       "url": "https://www3.nhk.or.jp/news/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www3_nhk_or_jp-_news_-2022_07_24_01_12_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www3_nhk_or_jp-_news_-2022_07_24_01_12_31.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www3_nhk_or_jp-_news_-2022_07_24_12_50_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www3_nhk_or_jp-_news_-2022_07_24_12_50_46.report.json",
       "summary": {
-        "performance": 0.38,
+        "performance": 0.29,
         "accessibility": 0.96,
         "best-practices": 0.83,
         "seo": 0.99,
@@ -1846,10 +1888,10 @@
     {
       "url": "https://www3.nhk.or.jp/news/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www3_nhk_or_jp-_news_-2022_07_24_01_13_15.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www3_nhk_or_jp-_news_-2022_07_24_01_13_15.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www3_nhk_or_jp-_news_-2022_07_24_12_51_08.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www3_nhk_or_jp-_news_-2022_07_24_12_51_08.report.json",
       "summary": {
-        "performance": 0.37,
+        "performance": 0.35,
         "accessibility": 0.96,
         "best-practices": 0.83,
         "seo": 0.99,
@@ -1859,10 +1901,10 @@
     {
       "url": "https://www3.nhk.or.jp/news/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www3_nhk_or_jp-_news_-2022_07_24_01_12_53.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www3_nhk_or_jp-_news_-2022_07_24_01_12_53.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www3_nhk_or_jp-_news_-2022_07_24_12_51_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www3_nhk_or_jp-_news_-2022_07_24_12_51_28.report.json",
       "summary": {
-        "performance": 0.38,
+        "performance": 0.45,
         "accessibility": 0.96,
         "best-practices": 0.83,
         "seo": 0.99,
@@ -1870,10 +1912,10 @@
       }
     }
   ],
-  "server": "ia902506.us.archive.org",
-  "uniq": 1457867016,
+  "server": "ia802506.us.archive.org",
+  "uniq": 1954388946,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia802506.us.archive.org",
+    "ia902506.us.archive.org"
   ]
 }

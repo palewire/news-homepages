@@ -1,5 +1,5 @@
 {
-  "created": 1658664582,
+  "created": 1658710951,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/19/items/kxan_news-2022",
@@ -614,31 +614,73 @@
       "sha1": "f4b8fc2b21615f60fd11b1121562cb9f95470249"
     },
     {
+      "name": "kxan_news-2022-07-24T08:00:35.480128-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658667638",
+      "size": "51370",
+      "md5": "11f185e80e38be40a235a797cf77991a",
+      "crc32": "fe2ab083",
+      "sha1": "bb38aed5bb81b226f775e6dcc92af393a3363288",
+      "format": "JSON"
+    },
+    {
+      "name": "kxan_news-2022-07-24T08:00:35.480128-05:00.jpg",
+      "source": "original",
+      "mtime": "1658667636",
+      "size": "287657",
+      "md5": "cdddeee451a6542bba01cab23ea81075",
+      "crc32": "84182ddc",
+      "sha1": "2f660b8be2da0a14aae02c74d5cd1e83f9ee3316",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kxan_news-2022-07-24T08:00:35.480128-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658667639",
+      "size": "1441",
+      "md5": "2891f324409b26ee100557286b4636c3",
+      "crc32": "8bc27c12",
+      "sha1": "f3baa4b1131c87df24676dec585d091b00505463",
+      "format": "JSON"
+    },
+    {
+      "name": "kxan_news-2022-07-24T08:00:35.480128-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kxan_news-2022-07-24T08:00:35.480128-05:00.jpg",
+      "mtime": "1658667742",
+      "size": "10533",
+      "md5": "473e0903eff8a18e3923dde2073f70e4",
+      "crc32": "2898b4a8",
+      "sha1": "5cfd0b34b3b3c6d99eccf3e3d55c989bd2171295"
+    },
+    {
       "name": "kxan_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6b1a5d8e34f35a42c80474d2ce6672dfe3bebdba",
-      "mtime": "1658636259",
-      "size": "13765",
-      "md5": "1f316593c8ff0170bbc741a9ca902373",
-      "crc32": "4f4235eb",
-      "sha1": "1463410806e0f5cf9d6a6d43334d31a7df368ea3",
+      "btih": "9e4d0e29b973c9cae128bfd878b26a279f754dc6",
+      "mtime": "1658667757",
+      "size": "14618",
+      "md5": "6926f85193107f6a189e29d0f907f5f1",
+      "crc32": "9ce3621b",
+      "sha1": "24eef1414ed8c8c2a9dc0d161afa6da7712a47aa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kxan_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c56eb1029b2a9332dc65ee56f1fdac3e",
+      "md5": "71bdb7b6c17bbd205af8f44a6b6c3a7c",
       "summation": "md5"
     },
     {
       "name": "kxan_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658636179",
-      "size": "81920",
-      "md5": "b17c3c427c4bc3847e8ffdd0fafe33b2",
-      "crc32": "99e6b23e",
-      "sha1": "f3bbe5fa1705b5c794409a17d9f0a5ab008a0edc",
+      "mtime": "1658667643",
+      "size": "86016",
+      "md5": "6f945fbd7d2a761d8065270f31ba84ac",
+      "crc32": "6df7bce7",
+      "sha1": "0b174c82dec0dc3509f804629030594ff7a99407",
       "format": "Metadata"
     },
     {
@@ -652,28 +694,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 62,
-  "item_last_updated": 1658636259,
-  "item_size": 6502307,
+  "files_count": 66,
+  "item_last_updated": 1658667757,
+  "item_size": 6858257,
   "kxan_news-2022": [
     {
       "url": "https://www.kxan.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kxan_com-_-2022_07_24_01_04_29.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kxan_com-_-2022_07_24_01_04_29.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.78,
-        "best-practices": 0.92,
-        "seo": 0.83,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.kxan.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kxan_com-_-2022_07_24_01_05_11.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kxan_com-_-2022_07_24_01_05_11.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kxan_com-_-2022_07_24_12_41_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kxan_com-_-2022_07_24_12_41_34.report.json",
       "summary": {
         "performance": 0.16,
         "accessibility": 0.78,
@@ -684,11 +713,24 @@
     },
     {
       "url": "https://www.kxan.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kxan_com-_-2022_07_24_01_03_45.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kxan_com-_-2022_07_24_01_03_45.report.json",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kxan_com-_-2022_07_24_12_44_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kxan_com-_-2022_07_24_12_44_55.report.json",
       "summary": {
         "performance": 0.18,
+        "accessibility": 0.78,
+        "best-practices": 0.92,
+        "seo": 0.83,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.kxan.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kxan_com-_-2022_07_24_12_44_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kxan_com-_-2022_07_24_12_44_19.report.json",
+      "summary": {
+        "performance": 0.17,
         "accessibility": 0.78,
         "best-practices": 0.92,
         "seo": 0.83,
@@ -712,10 +754,10 @@
     "publicdate": "2022-07-18 00:05:12",
     "addeddate": "2022-07-18 00:05:12"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 479571000,
+  "server": "ia802501.us.archive.org",
+  "uniq": 1086717920,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }

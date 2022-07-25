@@ -1,5 +1,5 @@
 {
-  "created": 1658664757,
+  "created": 1658711131,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/29/items/nymag-2022",
@@ -1844,31 +1844,83 @@
       "sha1": "efc633726395fd85804c96df21583a31e850d0ea"
     },
     {
+      "name": "nymag-2022-07-24T09:58:12.166481-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658671095",
+      "size": "39003",
+      "md5": "a8b86141e57ddf9b99620a9f84cd5e44",
+      "crc32": "acac3620",
+      "sha1": "b03dc8674d7d715bba20e1158465258ea229e507",
+      "format": "JSON"
+    },
+    {
+      "name": "nymag-2022-07-24T09:58:12.166481-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658671097",
+      "size": "74890",
+      "md5": "11dff18c2f1170b9ba748930347b72bf",
+      "crc32": "aa506aec",
+      "sha1": "9d45a60456fda514a4e7d705757133096ee4d8ec",
+      "format": "JSON"
+    },
+    {
+      "name": "nymag-2022-07-24T09:58:12.166481-04:00.jpg",
+      "source": "original",
+      "mtime": "1658671094",
+      "size": "325032",
+      "md5": "22547371c0358ef777a9ad9c49ef0785",
+      "crc32": "2ae69776",
+      "sha1": "0d45cb74bec818ce7f36a2996c2a2bb0e0427a6c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nymag-2022-07-24T09:58:12.166481-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658671099",
+      "size": "1414",
+      "md5": "e2c5f4d226a4ae6d27f01efd4ee5d9a4",
+      "crc32": "1e872fe1",
+      "sha1": "5a976c2f7cab047a45039f82af871bf4584edf7f",
+      "format": "JSON"
+    },
+    {
+      "name": "nymag-2022-07-24T09:58:12.166481-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nymag-2022-07-24T09:58:12.166481-04:00.jpg",
+      "mtime": "1658671180",
+      "size": "9827",
+      "md5": "c5d557e6586217cfdaac03589f618151",
+      "crc32": "0f4ff5bd",
+      "sha1": "11c1c9b28077b4b6cc0eca0b9fffad3f254d33e0"
+    },
+    {
       "name": "nymag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4addcb95e8209d2018444ec2072cdf3334cca2f7",
-      "mtime": "1658643535",
-      "size": "37899",
-      "md5": "295287c241917668e62d7f49a12dc857",
-      "crc32": "725ebda0",
-      "sha1": "e1045163568c99d2043a139c5070fb66f10ad989",
+      "btih": "fc99e27d5d0d3cdd6c2adfe44f636cb731766cc6",
+      "mtime": "1658671190",
+      "size": "38943",
+      "md5": "e1fa1c6ad06b8fcd2078d691c4d5530c",
+      "crc32": "62fde953",
+      "sha1": "fdcde7e5ef311465fe3b6f08430588a8387c3415",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nymag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "40f4a7a9ff3a74d8d09de5ad6d4fefbb",
+      "md5": "23d2801a67bdace3e0190dafe72e2afd",
       "summation": "md5"
     },
     {
       "name": "nymag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658643460",
-      "size": "221184",
-      "md5": "570734002fc3b9f090dc11f30c912fac",
-      "crc32": "3d50f804",
-      "sha1": "8dfc93bc4e438c3a56834ef6b70dab4917634a31",
+      "mtime": "1658671102",
+      "size": "225280",
+      "md5": "810e701e1e79222ff2142fca2903348a",
+      "crc32": "a1daeb0f",
+      "sha1": "8ca517e4ec41990e65f97d18d8d9a632f174e110",
       "format": "Metadata"
     },
     {
@@ -1882,9 +1934,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 179,
-  "item_last_updated": 1658643535,
-  "item_size": 20383767,
+  "files_count": 184,
+  "item_last_updated": 1658671190,
+  "item_size": 20839073,
   "metadata": {
     "identifier": "nymag-2022",
     "collection": [
@@ -1905,10 +1957,10 @@
     {
       "url": "https://nymag.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nymag_com-_-2022_07_24_05_13_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nymag_com-_-2022_07_24_05_13_46.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nymag_com-_-2022_07_24_13_38_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nymag_com-_-2022_07_24_13_38_46.report.json",
       "summary": {
-        "performance": 0.18,
+        "performance": 0.21,
         "accessibility": 0.98,
         "best-practices": 0.92,
         "seo": 0.93,
@@ -1918,10 +1970,10 @@
     {
       "url": "https://nymag.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nymag_com-_-2022_07_24_05_14_12.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nymag_com-_-2022_07_24_05_14_12.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nymag_com-_-2022_07_24_13_39_33.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nymag_com-_-2022_07_24_13_39_33.report.json",
       "summary": {
-        "performance": 0.22,
+        "performance": 0.24,
         "accessibility": 0.98,
         "best-practices": 0.92,
         "seo": 0.93,
@@ -1931,10 +1983,10 @@
     {
       "url": "https://nymag.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nymag_com-_-2022_07_24_05_14_36.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nymag_com-_-2022_07_24_05_14_36.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nymag_com-_-2022_07_24_13_39_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nymag_com-_-2022_07_24_13_39_10.report.json",
       "summary": {
-        "performance": 0.2,
+        "performance": 0.22,
         "accessibility": 0.98,
         "best-practices": 0.92,
         "seo": 0.93,
@@ -1943,7 +1995,7 @@
     }
   ],
   "server": "ia601502.us.archive.org",
-  "uniq": 299806992,
+  "uniq": 393798578,
   "workable_servers": [
     "ia601502.us.archive.org",
     "ia801502.us.archive.org"

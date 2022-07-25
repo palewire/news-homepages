@@ -1,46 +1,5 @@
 {
-  "100reporters-2022": [
-    {
-      "url": "https://100r.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/100r_org-_-2022_07_24_10_33_52.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/100r_org-_-2022_07_24_10_33_52.report.json",
-      "summary": {
-        "performance": 0.13,
-        "accessibility": 0.89,
-        "best-practices": 0.5,
-        "seo": 0.87,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://100r.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/100r_org-_-2022_07_24_10_34_48.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/100r_org-_-2022_07_24_10_34_48.report.json",
-      "summary": {
-        "performance": 0.16,
-        "accessibility": 0.89,
-        "best-practices": 0.5,
-        "seo": 0.87,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://100r.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/100r_org-_-2022_07_24_10_34_21.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/100r_org-_-2022_07_24_10_34_21.report.json",
-      "summary": {
-        "performance": 0.15,
-        "accessibility": 0.89,
-        "best-practices": 0.5,
-        "seo": 0.87,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "created": 1658664332,
+  "created": 1658709842,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/18/items/100reporters-2022",
@@ -1400,31 +1359,83 @@
       "sha1": "567b9764ababc9c0d108de32662b3ad0cfbf69d4"
     },
     {
+      "name": "100reporters-2022-07-24T20:42:10.329862-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658709733",
+      "size": "21097",
+      "md5": "ebd25abed136b128d04e69608d09454d",
+      "crc32": "1fc5dce5",
+      "sha1": "60806ec335c5ddf0ba2d229f99c57a37fc7d4357",
+      "format": "JSON"
+    },
+    {
+      "name": "100reporters-2022-07-24T20:42:10.329862-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658709735",
+      "size": "19916",
+      "md5": "a9d7adbdb543a2af7d3270e95fef05b2",
+      "crc32": "59dda342",
+      "sha1": "388ef051f5074911825c932ba1e5bda7c88b76ac",
+      "format": "JSON"
+    },
+    {
+      "name": "100reporters-2022-07-24T20:42:10.329862-04:00.jpg",
+      "source": "original",
+      "mtime": "1658709732",
+      "size": "313902",
+      "md5": "f641478c1cda915a64960f94d1443319",
+      "crc32": "b2f2a4ea",
+      "sha1": "83b9d44b66219f77bc3c7afad26d67b398ccc880",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "100reporters-2022-07-24T20:42:10.329862-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658709737",
+      "size": "1402",
+      "md5": "3dd4f8c1b9f44e7209c88e242935a4ff",
+      "crc32": "5bab9808",
+      "sha1": "951eec4bc774a1ede521f8702f5b34b7e53e9a4b",
+      "format": "JSON"
+    },
+    {
+      "name": "100reporters-2022-07-24T20:42:10.329862-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "100reporters-2022-07-24T20:42:10.329862-04:00.jpg",
+      "mtime": "1658709828",
+      "size": "10748",
+      "md5": "bd59dba8ecf036d1a774f4d47ba97039",
+      "crc32": "2253fe7c",
+      "sha1": "567b9764ababc9c0d108de32662b3ad0cfbf69d4"
+    },
+    {
       "name": "100reporters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3c003cf41d484a3218e2afc8384037f7b15462ae",
-      "mtime": "1658660185",
-      "size": "29389",
-      "md5": "2ec0aae92792fc15aa6f84581c7a3704",
-      "crc32": "212ff862",
-      "sha1": "d229809a1e25a11a2612e1aba849516dc7d07db8",
+      "btih": "7939b71ff4e8b5df05b0e7206048556a1622b6c1",
+      "mtime": "1658709836",
+      "size": "30469",
+      "md5": "c5bd83651557123a7660d3fc2a83b87b",
+      "crc32": "85c7aacc",
+      "sha1": "2878e72e0c76b30ff3dbb49b121e401a31684c9e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "100reporters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "639cd1c2f3e40d2ca371e46f116f47d3",
+      "md5": "6d5882674c71e8eafdede8ce909c839a",
       "summation": "md5"
     },
     {
       "name": "100reporters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658660122",
-      "size": "172032",
-      "md5": "43b4d597bfbcf9c89df66ff0927abcd8",
-      "crc32": "0ee9ffd1",
-      "sha1": "b9db10ef3303cb3d24343cdb79abe0e3bb5c59e4",
+      "mtime": "1658709740",
+      "size": "176128",
+      "md5": "b5c9d4564bd03d262ee6ffce817cae8a",
+      "crc32": "9e7b11bd",
+      "sha1": "c65f8c5b432f6c589b5be3159944d5cda2054872",
       "format": "Metadata"
     },
     {
@@ -1449,9 +1460,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 134,
-  "item_last_updated": 1658660185,
-  "item_size": 11754053,
+  "files_count": 139,
+  "item_last_updated": 1658709836,
+  "item_size": 12126294,
   "metadata": {
     "identifier": "100reporters-2022",
     "collection": [
@@ -1468,10 +1479,10 @@
     "publicdate": "2022-07-09 03:55:34",
     "addeddate": "2022-07-09 03:55:34"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 1444341270,
+  "server": "ia902500.us.archive.org",
+  "uniq": 2007247725,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

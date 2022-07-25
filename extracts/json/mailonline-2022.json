@@ -1,5 +1,5 @@
 {
-  "created": 1658653982,
+  "created": 1658711023,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/11/items/mailonline-2022",
@@ -3650,31 +3650,83 @@
       "sha1": "1b0e0275d3c1b851c8ddb0e9403ede938a172dbb"
     },
     {
+      "name": "mailonline-2022-07-24T14:02:32.403340+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658667759",
+      "size": "200388",
+      "md5": "b0e930769ab2f670b51131671cc84231",
+      "crc32": "c5150640",
+      "sha1": "90e0f743d3e6523b2f650a262175d922e13a464e",
+      "format": "JSON"
+    },
+    {
+      "name": "mailonline-2022-07-24T14:02:32.403340+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658667761",
+      "size": "257172",
+      "md5": "009f85ca97fc2ce801fe132f4f654f18",
+      "crc32": "c538b8cc",
+      "sha1": "51d5bdeff49d123d0d66609adf228a2abf81db3f",
+      "format": "JSON"
+    },
+    {
+      "name": "mailonline-2022-07-24T14:02:32.403340+01:00.jpg",
+      "source": "original",
+      "mtime": "1658667758",
+      "size": "351622",
+      "md5": "83aa96a25bdcbe2fba42c6c8e8703492",
+      "crc32": "dd718efc",
+      "sha1": "a4822be689f8d823f82042e9dff77308983cc7ce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mailonline-2022-07-24T14:02:32.403340+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658667763",
+      "size": "1638",
+      "md5": "07dc1673f6c3c8f934ee369b38c7e502",
+      "crc32": "522744d8",
+      "sha1": "c8032d851f402aaf8382b48d9733ae4be7e8af29",
+      "format": "JSON"
+    },
+    {
+      "name": "mailonline-2022-07-24T14:02:32.403340+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mailonline-2022-07-24T14:02:32.403340+01:00.jpg",
+      "mtime": "1658667846",
+      "size": "10547",
+      "md5": "80ddd8ecbfaf8e58acc7bb91985432eb",
+      "crc32": "f3bcaa35",
+      "sha1": "c66c82dac0c7a117504cb0c9f19541733372e606"
+    },
+    {
       "name": "mailonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "43fa1553e9512985a7efd3435837a2863bad954b",
-      "mtime": "1658653961",
-      "size": "76851",
-      "md5": "f98b3ae5b3de8df05e0bb738de3aa740",
-      "crc32": "2bc7f87d",
-      "sha1": "9d94bebe5117cce66ea3f84d765e0ae9211319a4",
+      "btih": "aa5164753014a62fef5d37d0374ca2fe931b0623",
+      "mtime": "1658667856",
+      "size": "77943",
+      "md5": "c6fa6eeb30d21ba40a1fbb4256f95ba0",
+      "crc32": "9df40f57",
+      "sha1": "257cc43b22a49ed6e4bf4dc6f3e37466ed1121f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mailonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e0c3ff4e3773b25c5f5d99938da3e536",
+      "md5": "55c5ec5f602752adcad50d5b0a843a09",
       "summation": "md5"
     },
     {
       "name": "mailonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658653819",
-      "size": "409600",
-      "md5": "b5d2d990fc4cd61f49e5b34914d03aa8",
-      "crc32": "c7b21bc2",
-      "sha1": "05b29e6f966294caeeed2a20e077eddbd3cfad97",
+      "mtime": "1658667766",
+      "size": "413696",
+      "md5": "1363dedc1bf6896934df4c3f6e5d0f0f",
+      "crc32": "33a59f22",
+      "sha1": "bf5aa47e834e7d9b390915d403b6a89a4d1189f5",
       "format": "Metadata"
     },
     {
@@ -3688,9 +3740,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 350,
-  "item_last_updated": 1658653961,
-  "item_size": 75829408,
+  "files_count": 355,
+  "item_last_updated": 1658667856,
+  "item_size": 76655963,
+  "mailonline-2022": [
+    {
+      "url": "https://www.dailymail.co.uk/home/index.html",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailymail_co_uk-_home_index_html-2022_07_24_12_44_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailymail_co_uk-_home_index_html-2022_07_24_12_44_43.report.json",
+      "summary": {
+        "performance": 0.5,
+        "accessibility": 0.73,
+        "best-practices": 0.67,
+        "seo": 0.86,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.dailymail.co.uk/home/index.html",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailymail_co_uk-_home_index_html-2022_07_24_12_45_41.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailymail_co_uk-_home_index_html-2022_07_24_12_45_41.report.json",
+      "summary": {
+        "performance": 0.48,
+        "accessibility": 0.73,
+        "best-practices": 0.67,
+        "seo": 0.86,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.dailymail.co.uk/home/index.html",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailymail_co_uk-_home_index_html-2022_07_24_12_46_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailymail_co_uk-_home_index_html-2022_07_24_12_46_34.report.json",
+      "summary": {
+        "performance": 0.47,
+        "accessibility": 0.65,
+        "best-practices": 0.67,
+        "seo": 0.79,
+        "pwa": 0.6
+      }
+    }
+  ],
   "metadata": {
     "identifier": "mailonline-2022",
     "collection": [
@@ -3708,7 +3801,7 @@
     "addeddate": "2022-06-29 18:55:39"
   },
   "server": "ia601408.us.archive.org",
-  "uniq": 576449652,
+  "uniq": 888449314,
   "workable_servers": [
     "ia601408.us.archive.org",
     "ia801408.us.archive.org"

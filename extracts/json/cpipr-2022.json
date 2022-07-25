@@ -1,46 +1,6 @@
 {
-  "cpipr-2022": [
-    {
-      "url": "https://periodismoinvestigativo.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/periodismoinvestigativo_com-_-2022_07_24_10_47_24.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/periodismoinvestigativo_com-_-2022_07_24_10_47_24.report.json",
-      "summary": {
-        "performance": 0.2,
-        "accessibility": 0.8,
-        "best-practices": 0.92,
-        "seo": 0.9,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://periodismoinvestigativo.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/periodismoinvestigativo_com-_-2022_07_24_10_48_10.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/periodismoinvestigativo_com-_-2022_07_24_10_48_10.report.json",
-      "summary": {
-        "performance": 0.23,
-        "accessibility": 0.8,
-        "best-practices": 0.92,
-        "seo": 0.9,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://periodismoinvestigativo.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/periodismoinvestigativo_com-_-2022_07_24_10_47_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/periodismoinvestigativo_com-_-2022_07_24_10_47_47.report.json",
-      "summary": {
-        "performance": 0.2,
-        "accessibility": 0.8,
-        "best-practices": 0.92,
-        "seo": 0.9,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "created": 1658664447,
+  "conflict": 1658710690,
+  "created": 1658710690,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/14/items/cpipr-2022",
@@ -1421,31 +1381,72 @@
       "sha1": "6edb564afca9410bcc78098e311a8b44b4f16890"
     },
     {
+      "name": "cpipr-2022-07-24T20:57:04.096280-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658710628",
+      "size": "65165",
+      "md5": "666e36c901a16f9879175df6f2c0cbe2",
+      "crc32": "6a787a86",
+      "sha1": "d43478849a4d36230910f8453355b69a4478ac75",
+      "format": "JSON"
+    },
+    {
+      "name": "cpipr-2022-07-24T20:57:04.096280-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658710629",
+      "size": "68089",
+      "md5": "980c12da703f0c15c59476500a826f89",
+      "crc32": "84441806",
+      "sha1": "0f0026201ba1762151eb0834a1b7ec503b645114",
+      "format": "JSON"
+    },
+    {
+      "name": "cpipr-2022-07-24T20:57:04.096280-04:00.jpg",
+      "source": "original",
+      "mtime": "1658710626",
+      "size": "305549",
+      "md5": "36c332bf8a8f84cf4dc3370b7262926b",
+      "crc32": "df734a32",
+      "sha1": "17f1a3845d4e7782a72c11ca488789367705168a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cpipr-2022-07-24T20:57:04.096280-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658710630",
+      "size": "1570",
+      "md5": "b7adb6cad97e340f98e7047366af5ded",
+      "crc32": "c759159a",
+      "sha1": "b886e41e14a728e3a4cce68a4748e4fde7a31eca",
+      "format": "JSON"
+    },
+    {
       "name": "cpipr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cf55e1c01402ecb614d7849ffd24b40fd8ee8821",
-      "mtime": "1658660665",
-      "size": "28673",
-      "md5": "d02b7c4e2425a30695c66c003a71cc87",
-      "crc32": "91198647",
-      "sha1": "408bfffe0020b452585fcff1cf795e108d8b6b16",
+      "btih": "dc5ad1da6bc44ce113f3fb385ca3cf502aaf4ffd",
+      "mtime": "1658710667",
+      "size": "29516",
+      "md5": "332e8b390ead7bd7fa663038e2d50a9e",
+      "crc32": "4844553e",
+      "sha1": "48c9de4ad8d3ff5c8fe7e788f10597a2f5c35459",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cpipr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "27ff41eacfd081a340002491e5cb0066",
+      "md5": "cfbfc6f2aa4791c56576ab6183fbbf9b",
       "summation": "md5"
     },
     {
       "name": "cpipr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658660585",
-      "size": "172032",
-      "md5": "4cc406ea032705779bdbfc1e69909424",
-      "crc32": "206bfc17",
-      "sha1": "2e6bc9dbfd525968ee4a1f032b874a0c47898a76",
+      "mtime": "1658710633",
+      "size": "176128",
+      "md5": "5746d2066080c72d15cd5f8f9865d9f2",
+      "crc32": "d7bd91a5",
+      "sha1": "e35fb045264f141e538242e106b1c189521f0bff",
       "format": "Metadata"
     },
     {
@@ -1459,9 +1460,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 135,
-  "item_last_updated": 1658660665,
-  "item_size": 13438358,
+  "files_count": 139,
+  "item_last_updated": 1658710667,
+  "item_size": 13883670,
   "metadata": {
     "identifier": "cpipr-2022",
     "collection": [
@@ -1478,10 +1479,21 @@
     "publicdate": "2022-07-09 03:57:28",
     "addeddate": "2022-07-09 03:57:28"
   },
-  "server": "ia801402.us.archive.org",
-  "uniq": 1505737433,
+  "pending_tasks": true,
+  "server": "ia601402.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3342807361,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 399964185,
   "workable_servers": [
-    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

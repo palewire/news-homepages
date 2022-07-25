@@ -1,5 +1,5 @@
 {
-  "created": 1658660522,
+  "created": 1658710584,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/30/items/capgaznews-2022",
@@ -3332,31 +3332,83 @@
       "sha1": "a10837e93995adbad2bec5a7131f2d2d071106a2"
     },
     {
+      "name": "capgaznews-2022-07-24T20:53:00.073833-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658710385",
+      "size": "67016",
+      "md5": "2bfd5faecca627f0ec6430a5f4dde6e5",
+      "crc32": "463cf244",
+      "sha1": "5233875f673bc9ac206b360f6b7652649ad695ee",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-07-24T20:53:00.073833-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658710387",
+      "size": "74637",
+      "md5": "3ba02d527d69e4159ad5ff3cef808fa0",
+      "crc32": "e2795dba",
+      "sha1": "617ca859b09c9d34c5fcd3dd8ac89390a0971b54",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-07-24T20:53:00.073833-04:00.jpg",
+      "source": "original",
+      "mtime": "1658710384",
+      "size": "216074",
+      "md5": "3a80d3db5bc995021bf1f7446f25fc9a",
+      "crc32": "32bccb63",
+      "sha1": "62478ab6805100e69517130eb09a20efb61fb425",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capgaznews-2022-07-24T20:53:00.073833-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658710389",
+      "size": "1529",
+      "md5": "6ba19142cb00b37e2b2494dd9f55a0a2",
+      "crc32": "f7ade339",
+      "sha1": "08c49180123574cb4bd58754ee1a97ea85148b05",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-07-24T20:53:00.073833-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capgaznews-2022-07-24T20:53:00.073833-04:00.jpg",
+      "mtime": "1658710511",
+      "size": "8385",
+      "md5": "377daf272e7f5b345790e7a2f58d229e",
+      "crc32": "f1f45092",
+      "sha1": "66652f8d47a2e25bf09fc7f7bc17c32f2979a199"
+    },
+    {
       "name": "capgaznews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9c7e9d5b4f127828d6f74960aba0aa73f61b11fa",
-      "mtime": "1658660510",
-      "size": "68868",
-      "md5": "4611a1b2d0c88b5f798c99c993564370",
-      "crc32": "b5b06dd5",
-      "sha1": "e2f77af40a78428de7bd2040a524f67f0a33ca97",
+      "btih": "672d568d2a1de7f9b572ed0e5bbd74687da4b65f",
+      "mtime": "1658710517",
+      "size": "69917",
+      "md5": "29d13d2ffd496455e86e4d8e7b9e3864",
+      "crc32": "a7616ca2",
+      "sha1": "102baaa6a35133b25296957f543b42eb489f8689",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capgaznews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "be11d77d40b4805a2664b8a728d0db86",
+      "md5": "c9e81f1196aaa3080c5243d6f57c0aca",
       "summation": "md5"
     },
     {
       "name": "capgaznews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658660419",
-      "size": "385024",
-      "md5": "d289ad36b35e7d281ead4e8344ff9e44",
-      "crc32": "37195575",
-      "sha1": "2756a69a45930609e42598399042c43023fa9299",
+      "mtime": "1658710392",
+      "size": "389120",
+      "md5": "b43b67ab3e66513f2aa0840ab170749e",
+      "crc32": "7ef9a9a4",
+      "sha1": "42a50d562475da71cad3215b8e95fb4e0d019f0c",
       "format": "Metadata"
     },
     {
@@ -3370,9 +3422,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 321,
-  "item_last_updated": 1658660510,
-  "item_size": 28429694,
+  "files_count": 326,
+  "item_last_updated": 1658710517,
+  "item_size": 28802480,
   "metadata": {
     "identifier": "capgaznews-2022",
     "collection": [
@@ -3389,10 +3441,10 @@
     "publicdate": "2022-06-24 22:54:14",
     "addeddate": "2022-06-24 22:54:14"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1839967971,
+  "server": "ia601406.us.archive.org",
+  "uniq": 266982101,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

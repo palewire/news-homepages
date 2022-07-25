@@ -1,5 +1,6 @@
 {
-  "created": 1658663875,
+  "conflict": 1658710681,
+  "created": 1658710681,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/ctvnews-2022",
@@ -2859,10 +2860,21 @@
     "publicdate": "2022-06-30 22:35:40",
     "addeddate": "2022-06-30 22:35:40"
   },
+  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "uniq": 162993935,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3342807463,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1478331058,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia902505.us.archive.org"
   ]
 }

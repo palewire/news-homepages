@@ -1,5 +1,5 @@
 {
-  "created": 1658643660,
+  "created": 1658711173,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/17/items/ottumwacourier-2022",
@@ -2940,31 +2940,73 @@
       "sha1": "2135a30d8332cfa46643088658456e623ae0a93e"
     },
     {
+      "name": "ottumwacourier-2022-07-24T08:59:34.545174-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658671179",
+      "size": "53280",
+      "md5": "8a7c77a5f7303a41915c29060c0cabfe",
+      "crc32": "414c8e23",
+      "sha1": "5517cbe38df3e1b4fc953e5c18d06306d2edf64a",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-07-24T08:59:34.545174-05:00.jpg",
+      "source": "original",
+      "mtime": "1658671177",
+      "size": "357319",
+      "md5": "98775764b8c24ecee1e710c3e209333d",
+      "crc32": "fc5b66de",
+      "sha1": "4462cd2d04403f0482d6c7999cd9fcedbed18778",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ottumwacourier-2022-07-24T08:59:34.545174-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658671180",
+      "size": "1531",
+      "md5": "74bfffa776b0bf9f31ec417f713aa0fd",
+      "crc32": "5f441d84",
+      "sha1": "19d5c6a863ee4a8ed01792a8072299eb07c5d6e0",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-07-24T08:59:34.545174-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ottumwacourier-2022-07-24T08:59:34.545174-05:00.jpg",
+      "mtime": "1658671260",
+      "size": "10052",
+      "md5": "5a8722b536082967a952643f850870cd",
+      "crc32": "402e6627",
+      "sha1": "480f136c87ed58257b2e6e0cccdeccdf57c5a3d3"
+    },
+    {
       "name": "ottumwacourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "69f7d6e47d6ddb43632b24d64552eb3e43d1f304",
-      "mtime": "1658643641",
-      "size": "61660",
-      "md5": "f7c48218f68d94d59b3c0fe7130ce994",
-      "crc32": "9bb7d893",
-      "sha1": "77fd124190156631c03558bfb22c7c2a15f76bb6",
+      "btih": "5cb10ee0bf17d99728a19d25a83d2875db039eb3",
+      "mtime": "1658671266",
+      "size": "62533",
+      "md5": "4df7e4d2f8a04fe51db93d81a5d0c6c8",
+      "crc32": "cdc08c3f",
+      "sha1": "81018e36f8f7dc87fb1aad64fc6d7014b711477f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ottumwacourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "038314380f78b063639a2eac949e36b9",
+      "md5": "943a75c1c1409cfb6e399132ea35ac2a",
       "summation": "md5"
     },
     {
       "name": "ottumwacourier-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658643535",
-      "size": "319488",
-      "md5": "8b99d8ce98c78fc94f055e900ff25b95",
-      "crc32": "154ffea4",
-      "sha1": "5c8e943196d21489d4720dd28cd7ad1bc7a87548",
+      "mtime": "1658671185",
+      "size": "323584",
+      "md5": "f6fa098db3967f1b4785f6aa3dee18f3",
+      "crc32": "8435f86e",
+      "sha1": "269c8b506b1dc2d473fb001b02ea5fec2d2ad02a",
       "format": "Metadata"
     },
     {
@@ -2978,9 +3020,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 281,
-  "item_last_updated": 1658643641,
-  "item_size": 35857211,
+  "files_count": 285,
+  "item_last_updated": 1658671266,
+  "item_size": 36284362,
   "metadata": {
     "identifier": "ottumwacourier-2022",
     "collection": [
@@ -2997,8 +3039,49 @@
     "publicdate": "2022-06-24 22:59:27",
     "addeddate": "2022-06-24 22:59:27"
   },
+  "ottumwacourier-2022": [
+    {
+      "url": "https://www.ottumwacourier.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ottumwacourier_com-_-2022_07_24_13_41_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ottumwacourier_com-_-2022_07_24_13_41_51.report.json",
+      "summary": {
+        "performance": 0.13,
+        "accessibility": 0.72,
+        "best-practices": 0.83,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.ottumwacourier.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ottumwacourier_com-_-2022_07_24_13_43_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ottumwacourier_com-_-2022_07_24_13_43_05.report.json",
+      "summary": {
+        "performance": 0.11,
+        "accessibility": 0.72,
+        "best-practices": 0.83,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.ottumwacourier.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ottumwacourier_com-_-2022_07_24_13_40_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ottumwacourier_com-_-2022_07_24_13_40_39.report.json",
+      "summary": {
+        "performance": 0.11,
+        "accessibility": 0.72,
+        "best-practices": 0.83,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    }
+  ],
   "server": "ia902501.us.archive.org",
-  "uniq": 1522879337,
+  "uniq": 947746665,
   "workable_servers": [
     "ia902501.us.archive.org",
     "ia802501.us.archive.org"
