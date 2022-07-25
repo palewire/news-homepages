@@ -1,5 +1,5 @@
 {
-  "created": 1658696522,
+  "created": 1658751832,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/15/items/voguemagazine-2022",
@@ -624,31 +624,83 @@
       "sha1": "fbe4dfa6820a7694df9686923046fdceb83df34a"
     },
     {
+      "name": "voguemagazine-2022-07-25T00:40:15.932031-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658724019",
+      "size": "49815",
+      "md5": "8cd88efcdf3382dab0f7af0dd2b33b38",
+      "crc32": "4b16338c",
+      "sha1": "b235abb407e10c59d8270e405a3ef26c09c436e2",
+      "format": "JSON"
+    },
+    {
+      "name": "voguemagazine-2022-07-25T00:40:15.932031-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658724020",
+      "size": "30115",
+      "md5": "ab3ee6663215032da0217aee94a8b5c1",
+      "crc32": "07b0b8da",
+      "sha1": "86227fb12a438b27114018486cc6f3cb8b52b8d1",
+      "format": "JSON"
+    },
+    {
+      "name": "voguemagazine-2022-07-25T00:40:15.932031-04:00.jpg",
+      "source": "original",
+      "mtime": "1658724017",
+      "size": "272095",
+      "md5": "91babc004f5cfd388ddc9ef4e2c59041",
+      "crc32": "4efd0d1f",
+      "sha1": "05ceb73627280c40a9a5671bf6ba72546f9aa330",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voguemagazine-2022-07-25T00:40:15.932031-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658724022",
+      "size": "1450",
+      "md5": "ad024f83042bf77bb510b1d725eae9db",
+      "crc32": "629a0d1b",
+      "sha1": "ef8c989fe740c5fb4f388970eecc8e56b57cf9f4",
+      "format": "JSON"
+    },
+    {
+      "name": "voguemagazine-2022-07-25T00:40:15.932031-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voguemagazine-2022-07-25T00:40:15.932031-04:00.jpg",
+      "mtime": "1658724210",
+      "size": "8907",
+      "md5": "45358c2390e482962bbc8fc600e6400d",
+      "crc32": "022cab25",
+      "sha1": "17948c0b98d2cc1574eb33df5b29b1fa183d518c"
+    },
+    {
       "name": "voguemagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2ee8b4fccf63cfbbafd191ef3a7fd8a3294ce814",
-      "mtime": "1658675527",
-      "size": "14168",
-      "md5": "646093bea6402cfb29f40e4d84618534",
-      "crc32": "4c1dd8ce",
-      "sha1": "5f2090fff7c9b4476e1c0b42a781863f519d274b",
+      "btih": "3656f87eb71dda2f94167c68e7c85654697cd9fb",
+      "mtime": "1658724213",
+      "size": "15232",
+      "md5": "2f3127a47472d821154af15c369aacce",
+      "crc32": "601e37e1",
+      "sha1": "39852e9e86027ca090ee8b0c5f3fe78192c4b6bd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voguemagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f63d4eaae5ee0d17acd354d02e36320d",
+      "md5": "711d967e84507be06eb06dad23188788",
       "summation": "md5"
     },
     {
       "name": "voguemagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658675435",
-      "size": "81920",
-      "md5": "8aeaa1142bdd34f51de322d49bfbcc25",
-      "crc32": "52c0cf6b",
-      "sha1": "6137c95247f0ae0bc6be018553165ffdc3bd7f47",
+      "mtime": "1658724030",
+      "size": "86016",
+      "md5": "faeb6335e128c46c5e492e72d9cc538b",
+      "crc32": "3a4b5e58",
+      "sha1": "1ccb07cbc3a22e172d21d94234cde2e16f0851de",
       "format": "Metadata"
     },
     {
@@ -662,9 +714,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 63,
-  "item_last_updated": 1658675527,
-  "item_size": 4820124,
+  "files_count": 68,
+  "item_last_updated": 1658724213,
+  "item_size": 5187666,
   "metadata": {
     "identifier": "voguemagazine-2022",
     "collection": [
@@ -681,10 +733,51 @@
     "publicdate": "2022-07-18 04:20:39",
     "addeddate": "2022-07-18 04:20:39"
   },
-  "server": "ia902506.us.archive.org",
-  "uniq": 387307269,
+  "server": "ia802506.us.archive.org",
+  "uniq": 526137383,
+  "voguemagazine-2022": [
+    {
+      "url": "https://www.vogue.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vogue_com-_-2022_07_25_04_22_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vogue_com-_-2022_07_25_04_22_31.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.98,
+        "best-practices": 0.92,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.vogue.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vogue_com-_-2022_07_25_04_23_35.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vogue_com-_-2022_07_25_04_23_35.report.json",
+      "summary": {
+        "performance": 0.21,
+        "accessibility": 0.98,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.vogue.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vogue_com-_-2022_07_25_04_23_03.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vogue_com-_-2022_07_25_04_23_03.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.98,
+        "best-practices": 0.92,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    }
+  ],
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia802506.us.archive.org",
+    "ia902506.us.archive.org"
   ]
 }

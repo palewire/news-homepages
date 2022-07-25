@@ -1,5 +1,5 @@
 {
-  "created": 1658711286,
+  "created": 1658751565,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/9/items/scsentinel-2022",
@@ -1686,31 +1686,83 @@
       "sha1": "db611c878a9dc1a75215a9f2c65d5acd907fd5f0"
     },
     {
+      "name": "scsentinel-2022-07-24T20:42:45.823854-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658720568",
+      "size": "40150",
+      "md5": "77b6ee4615f5286e8c488e5095604ca2",
+      "crc32": "1e83c8e1",
+      "sha1": "ef83b71824135ad22a878939d887b86c1e6d7b68",
+      "format": "JSON"
+    },
+    {
+      "name": "scsentinel-2022-07-24T20:42:45.823854-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658720570",
+      "size": "51511",
+      "md5": "f65a3318f88690fa14dfa808ef72671e",
+      "crc32": "f473e5ff",
+      "sha1": "65bb75da5e0ad09577271704fb83f4f5d20c20a2",
+      "format": "JSON"
+    },
+    {
+      "name": "scsentinel-2022-07-24T20:42:45.823854-07:00.jpg",
+      "source": "original",
+      "mtime": "1658720567",
+      "size": "281719",
+      "md5": "5a29c137b1b17ac5e39a66b59f5eed94",
+      "crc32": "af6a3287",
+      "sha1": "a9d1f4ad7b9d2c026933e73897f1d688c2de6e05",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scsentinel-2022-07-24T20:42:45.823854-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658720571",
+      "size": "1558",
+      "md5": "a35c5f4ccbe2f818adffacc2accf2a86",
+      "crc32": "b6e2b878",
+      "sha1": "a3c6c8a77cfec2d755d6c9bc620a5629a23c3b71",
+      "format": "JSON"
+    },
+    {
+      "name": "scsentinel-2022-07-24T20:42:45.823854-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scsentinel-2022-07-24T20:42:45.823854-07:00.jpg",
+      "mtime": "1658720693",
+      "size": "9640",
+      "md5": "33dfcda6ac60d3ff56ed5c3ef9cabfbf",
+      "crc32": "6cc2467e",
+      "sha1": "8c6c1b0e320ebccfdae4b791ad167c77800a61af"
+    },
+    {
       "name": "scsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "56499821328a44e02c791be2f8dcdb8f6bc1412a",
-      "mtime": "1658671487",
-      "size": "35447",
-      "md5": "9c05e79d5ca66877b7e8b59e8ff273e2",
-      "crc32": "f728e72b",
-      "sha1": "74cd18cc0534b40c31f4bd2088baf446babfbcf0",
+      "btih": "d56cad66c4b92dc804408c32377c541f12b42590",
+      "mtime": "1658720702",
+      "size": "36516",
+      "md5": "f0b401c98d3532d9b1102dd145e11f6f",
+      "crc32": "fb987939",
+      "sha1": "e0d480be69212058f1fe8e9c9bb064c80cea3fab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "504cdc40567cfc3a0262fbb4899ebb7c",
+      "md5": "8368b0a22586496d1703d98ac57f7f2c",
       "summation": "md5"
     },
     {
       "name": "scsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658671411",
-      "size": "204800",
-      "md5": "ce0e09656a5c24a74803489f29bc3cbf",
-      "crc32": "a6598558",
-      "sha1": "76bf0858bbb991d561c9ed6475f4208d8d6c88c6",
+      "mtime": "1658720576",
+      "size": "208896",
+      "md5": "7da4381f4adf1055f7cf3ef4df317882",
+      "crc32": "57636c30",
+      "sha1": "dfaf25cb71763fd1a2150dd399f88821e2388ae3",
       "format": "Metadata"
     },
     {
@@ -1724,9 +1776,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 164,
-  "item_last_updated": 1658671487,
-  "item_size": 14369743,
+  "files_count": 169,
+  "item_last_updated": 1658720702,
+  "item_size": 14759486,
   "metadata": {
     "identifier": "scsentinel-2022",
     "collection": [
@@ -1747,21 +1799,8 @@
     {
       "url": "https://www.santacruzsentinel.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_24_13_47_13.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_24_13_47_13.report.json",
-      "summary": {
-        "performance": 0.06,
-        "accessibility": 0.84,
-        "best-practices": 0.92,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.santacruzsentinel.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_24_13_47_39.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_24_13_47_39.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_25_02_45_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_25_02_45_09.report.json",
       "summary": {
         "performance": 0.05,
         "accessibility": 0.84,
@@ -1772,22 +1811,35 @@
     },
     {
       "url": "https://www.santacruzsentinel.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_24_13_48_02.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_24_13_48_02.report.json",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_25_02_45_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_25_02_45_37.report.json",
       "summary": {
-        "performance": 0.15,
-        "accessibility": 0.82,
+        "performance": 0.06,
+        "accessibility": 0.84,
+        "best-practices": 0.92,
+        "seo": 0.84,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.santacruzsentinel.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_25_02_46_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_25_02_46_01.report.json",
+      "summary": {
+        "performance": 0.06,
+        "accessibility": 0.84,
         "best-practices": 0.92,
         "seo": 0.84,
         "pwa": 0.4
       }
     }
   ],
-  "server": "ia601400.us.archive.org",
-  "uniq": 227315953,
+  "server": "ia801400.us.archive.org",
+  "uniq": 1976633215,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

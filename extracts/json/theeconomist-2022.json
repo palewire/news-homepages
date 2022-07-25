@@ -1,5 +1,5 @@
 {
-  "created": 1658711368,
+  "created": 1658751670,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/32/items/theeconomist-2022",
@@ -1758,31 +1758,83 @@
       "sha1": "d6478f9905a609a347a9b68e40057f5ae65b5fd8"
     },
     {
+      "name": "theeconomist-2022-07-25T05:36:29.709579+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658723795",
+      "size": "19564",
+      "md5": "ca3a8d8ef3112171e3adaf239bd4f530",
+      "crc32": "ea7dfd58",
+      "sha1": "e1b4fb7826cd5b4b101f1ebc836f62bfab19fe88",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-07-25T05:36:29.709579+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658723796",
+      "size": "19347",
+      "md5": "5df627574e7c1f08b5038b13f32c45e1",
+      "crc32": "8c3e4985",
+      "sha1": "fad11ae017a06efd57b18ed423fab08c4015c0d4",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-07-25T05:36:29.709579+01:00.jpg",
+      "source": "original",
+      "mtime": "1658723794",
+      "size": "339447",
+      "md5": "901a17c20cfab63bae975fe4da747098",
+      "crc32": "7a2b985f",
+      "sha1": "5169b13a346fe63d6f2d34264ba19b0f4002b5ba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theeconomist-2022-07-25T05:36:29.709579+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658723798",
+      "size": "1468",
+      "md5": "c7727a4cf989ddbf365ce0abd310da51",
+      "crc32": "50dd15eb",
+      "sha1": "d4376c5a5cc355a05f2039efcfad07eafa55aac6",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-07-25T05:36:29.709579+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theeconomist-2022-07-25T05:36:29.709579+01:00.jpg",
+      "mtime": "1658724082",
+      "size": "9554",
+      "md5": "d18510577620266275754175d1bc293c",
+      "crc32": "75d13a8a",
+      "sha1": "4aa063640540927f315b0ae5bab698a42c28afbd"
+    },
+    {
       "name": "theeconomist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4a3dbb88db089b50eea075e3e8d15a03cc504533",
-      "mtime": "1658675233",
-      "size": "37240",
-      "md5": "0d172a26abce9e0fad645393ed982c4f",
-      "crc32": "92d2b762",
-      "sha1": "86b9d95b84a9fecd1ecdf962d39733dfe836808b",
+      "btih": "e39b3f9a806962789a81e57c9cb48bde4d00225f",
+      "mtime": "1658724086",
+      "size": "38319",
+      "md5": "23e1697ec73cf722b5fcdec22048d0ff",
+      "crc32": "0b304f99",
+      "sha1": "bd1defe379029082471fe74e17dc350803433374",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theeconomist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2335f75759eb283b6a6e165b4bf39477",
+      "md5": "2e1edec74dbd6f3c6b4d4b4f78893e72",
       "summation": "md5"
     },
     {
       "name": "theeconomist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658675186",
-      "size": "212992",
-      "md5": "1c5da1e763a8417a5750757ac64cef18",
-      "crc32": "78ef087b",
-      "sha1": "52e98e01d31150e8192b4521724f486ab5a7898f",
+      "mtime": "1658723803",
+      "size": "221184",
+      "md5": "7f3261eb011cb0a9f8bf0224536d9be0",
+      "crc32": "dc11bdd5",
+      "sha1": "adc386560bc86112b0410179f810aec0d540bc30",
       "format": "Metadata"
     },
     {
@@ -1796,9 +1848,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 171,
-  "item_last_updated": 1658675233,
-  "item_size": 13276925,
+  "files_count": 176,
+  "item_last_updated": 1658724086,
+  "item_size": 13675576,
   "metadata": {
     "identifier": "theeconomist-2022",
     "collection": [
@@ -1815,15 +1867,15 @@
     "publicdate": "2022-07-04 21:46:07",
     "addeddate": "2022-07-04 21:46:07"
   },
-  "server": "ia902505.us.archive.org",
+  "server": "ia802505.us.archive.org",
   "theeconomist-2022": [
     {
       "url": "https://www.economist.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_economist_com-_-2022_07_24_14_18_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_economist_com-_-2022_07_24_14_18_46.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_economist_com-_-2022_07_25_04_16_24.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_economist_com-_-2022_07_25_04_16_24.report.json",
       "summary": {
-        "performance": 0.11,
+        "performance": 0.09,
         "accessibility": 0.98,
         "best-practices": 1,
         "seo": 1,
@@ -1833,12 +1885,12 @@
     {
       "url": "https://www.economist.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_economist_com-_-2022_07_24_14_19_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_economist_com-_-2022_07_24_14_19_23.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_economist_com-_-2022_07_25_04_16_42.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_economist_com-_-2022_07_25_04_16_42.report.json",
       "summary": {
-        "performance": 0.13,
-        "accessibility": 0.98,
-        "best-practices": 0.92,
+        "performance": 0.11,
+        "accessibility": 0.99,
+        "best-practices": 1,
         "seo": 1,
         "pwa": 0.8
       }
@@ -1846,10 +1898,10 @@
     {
       "url": "https://www.economist.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_economist_com-_-2022_07_24_14_19_05.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_economist_com-_-2022_07_24_14_19_05.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_economist_com-_-2022_07_25_04_16_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_economist_com-_-2022_07_25_04_16_05.report.json",
       "summary": {
-        "performance": 0.12,
+        "performance": 0.11,
         "accessibility": 0.98,
         "best-practices": 1,
         "seo": 1,
@@ -1857,9 +1909,9 @@
       }
     }
   ],
-  "uniq": 116367053,
+  "uniq": 599814411,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }

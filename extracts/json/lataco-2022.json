@@ -1,5 +1,5 @@
 {
-  "created": 1658710975,
+  "created": 1658751181,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/35/items/lataco-2022",
@@ -2052,31 +2052,83 @@
       "sha1": "3ece8327dfddfe0ef50598bbdef6c4f86abfc90e"
     },
     {
+      "name": "lataco-2022-07-24T20:28:35.752718-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658719720",
+      "size": "18686",
+      "md5": "ca92fdf88d1b0ee33edac76a498ca4d3",
+      "crc32": "39edfd34",
+      "sha1": "50f9c431d8d7f9909fd6e7645a92811398927711",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-24T20:28:35.752718-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658719722",
+      "size": "12334",
+      "md5": "ea4f3b4cab81161715cec47a503a2a01",
+      "crc32": "d48064ff",
+      "sha1": "dfd28623799c4671062b8ba64c42b48038c4b57e",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-24T20:28:35.752718-07:00.jpg",
+      "source": "original",
+      "mtime": "1658719718",
+      "size": "277583",
+      "md5": "744ee1e3d72de6c9fc7a6288cd535c84",
+      "crc32": "adbe416e",
+      "sha1": "f0184b48ac3cf24bdbac65a0c1d9e6bafa6a0087",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lataco-2022-07-24T20:28:35.752718-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658719725",
+      "size": "1459",
+      "md5": "4095ee4ba8797c7c60c1b7c4f294d5d7",
+      "crc32": "25d9a5e5",
+      "sha1": "f66c97f186031f4151ef17104c14d9a26f098645",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-24T20:28:35.752718-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lataco-2022-07-24T20:28:35.752718-07:00.jpg",
+      "mtime": "1658719846",
+      "size": "10009",
+      "md5": "2c67507d23811075d76ca2c65ceaf52f",
+      "crc32": "80db15d5",
+      "sha1": "3ece8327dfddfe0ef50598bbdef6c4f86abfc90e"
+    },
+    {
       "name": "lataco-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a68b6bbf59a63f3f2312af35b0610aaeaa7cc6c7",
-      "mtime": "1658687108",
-      "size": "42020",
-      "md5": "5089479b3ffc45521cd3a89830c9e5ca",
-      "crc32": "c10bf9fd",
-      "sha1": "e32d822b2a7a7bd7e54a2f6a3bfc9f504a4f75d3",
+      "btih": "709950cbcca85aa699c5c791f1ce5bbe829b05fa",
+      "mtime": "1658719952",
+      "size": "43070",
+      "md5": "e8be9de81cb84bba8dd1914bc66f30b7",
+      "crc32": "7f743bc3",
+      "sha1": "5fd905de846b7a040d3d824ac5e47be1d030b908",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lataco-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "86364031f376c5fee0477a3b585f9a52",
+      "md5": "693bdd662278bf7ede843c09b3e09634",
       "summation": "md5"
     },
     {
       "name": "lataco-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658686850",
-      "size": "245760",
-      "md5": "708e666d7ff79bf2237b019706347716",
-      "crc32": "e032aa93",
-      "sha1": "fc4b5ed44967d91ae1c6bdc631c78afeb28e6f2a",
+      "mtime": "1658719728",
+      "size": "249856",
+      "md5": "803a0be1d2a40d9f711ddd155431c5d2",
+      "crc32": "fbe58834",
+      "sha1": "a75d2504ebf9f85ba618c2a42c1f9aa692135418",
       "format": "Metadata"
     },
     {
@@ -2090,17 +2142,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 199,
-  "item_last_updated": 1658687108,
-  "item_size": 15175296,
+  "files_count": 204,
+  "item_last_updated": 1658719952,
+  "item_size": 15500513,
   "lataco-2022": [
     {
       "url": "https://www.lataco.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lataco_com-_-2022_07_24_18_15_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lataco_com-_-2022_07_24_18_15_46.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lataco_com-_-2022_07_25_02_16_03.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lataco_com-_-2022_07_25_02_16_03.report.json",
       "summary": {
-        "performance": 0.37,
+        "performance": 0.38,
         "accessibility": 0.83,
         "best-practices": 0.83,
         "seo": 0.93,
@@ -2110,10 +2162,10 @@
     {
       "url": "https://www.lataco.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lataco_com-_-2022_07_24_18_16_53.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lataco_com-_-2022_07_24_18_16_53.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lataco_com-_-2022_07_25_02_17_57.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lataco_com-_-2022_07_25_02_17_57.report.json",
       "summary": {
-        "performance": 0.39,
+        "performance": 0.35,
         "accessibility": 0.83,
         "best-practices": 0.83,
         "seo": 0.93,
@@ -2123,10 +2175,10 @@
     {
       "url": "https://www.lataco.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lataco_com-_-2022_07_24_18_13_58.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lataco_com-_-2022_07_24_18_13_58.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lataco_com-_-2022_07_25_02_19_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lataco_com-_-2022_07_25_02_19_51.report.json",
       "summary": {
-        "performance": 0.35,
+        "performance": 0.36,
         "accessibility": 0.83,
         "best-practices": 0.83,
         "seo": 0.93,
@@ -2150,10 +2202,10 @@
     "publicdate": "2022-07-09 04:00:32",
     "addeddate": "2022-07-09 04:00:32"
   },
-  "server": "ia902509.us.archive.org",
-  "uniq": 1412743862,
+  "server": "ia802509.us.archive.org",
+  "uniq": 1395104798,
   "workable_servers": [
-    "ia902509.us.archive.org",
-    "ia802509.us.archive.org"
+    "ia802509.us.archive.org",
+    "ia902509.us.archive.org"
   ]
 }

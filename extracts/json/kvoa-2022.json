@@ -1,5 +1,5 @@
 {
-  "created": 1658710948,
+  "created": 1658751139,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/25/items/kvoa-2022",
@@ -1588,31 +1588,83 @@
       "sha1": "2093d85fb67644d221077494845e03b43b912070"
     },
     {
+      "name": "kvoa-2022-07-24T20:26:52.836257-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658719618",
+      "size": "36809",
+      "md5": "4e0b0b5db27c1b4f7d892cc541b44327",
+      "crc32": "1e058dee",
+      "sha1": "ebcc7a1407c34711998532f71631a984e4aed166",
+      "format": "JSON"
+    },
+    {
+      "name": "kvoa-2022-07-24T20:26:52.836257-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658719619",
+      "size": "62307",
+      "md5": "435f26af490c43ebff91349031abf5d8",
+      "crc32": "9c8e194f",
+      "sha1": "ff614db4c449a5472d8cce49516fd173810c4bc3",
+      "format": "JSON"
+    },
+    {
+      "name": "kvoa-2022-07-24T20:26:52.836257-07:00.jpg",
+      "source": "original",
+      "mtime": "1658719615",
+      "size": "259575",
+      "md5": "3f184700c4472e2c2315522ad6e556f5",
+      "crc32": "5e7714e9",
+      "sha1": "12a4242ad0f404e2bd7642f42e7113cb92b3bd43",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kvoa-2022-07-24T20:26:52.836257-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658719621",
+      "size": "1441",
+      "md5": "91c6a23c7877684631579c58c8936192",
+      "crc32": "97f938a8",
+      "sha1": "00b10d6f96b33015cef3f33853c0452c34430ca7",
+      "format": "JSON"
+    },
+    {
+      "name": "kvoa-2022-07-24T20:26:52.836257-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kvoa-2022-07-24T20:26:52.836257-07:00.jpg",
+      "mtime": "1658719707",
+      "size": "9847",
+      "md5": "64dbe4e19deb6b224ea8f105b430f4b6",
+      "crc32": "6f748192",
+      "sha1": "993fff11b64ace2f8305fefd9e39998ef737e96f"
+    },
+    {
       "name": "kvoa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4ec8974f9b9039f7349b6293bcc0e4ceff26f7cb",
-      "mtime": "1658667680",
-      "size": "32397",
-      "md5": "fdaec14fdd516e75e7c0c7ad3f9d1a74",
-      "crc32": "444da6a1",
-      "sha1": "32d17c6ea1e631417d047ac0eebd7569b2daba11",
+      "btih": "f6b29792292a566ad54df01948c9641e4291c6f1",
+      "mtime": "1658719713",
+      "size": "33436",
+      "md5": "d105b3d6219406fd444d84cfd3e835d1",
+      "crc32": "c45b2eaa",
+      "sha1": "4fde59401d61ee7b726e4a64219312c42f828aa8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kvoa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b62f23dc996d2da2f880f4388e68ae22",
+      "md5": "4c9826205b0090642940528316701647",
       "summation": "md5"
     },
     {
       "name": "kvoa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658667606",
-      "size": "184320",
-      "md5": "ca60f666cecc7a947f45d3517273c88b",
-      "crc32": "b3dcdea8",
-      "sha1": "897377e2a5c9dc1d994ce6d8701ce4a4dff80336",
+      "mtime": "1658719624",
+      "size": "192512",
+      "md5": "550f78d5a8755b099a833eea3e1fb285",
+      "crc32": "78df172b",
+      "sha1": "7101a79035c072c8c79bc05595189f75ae660311",
       "format": "Metadata"
     },
     {
@@ -1626,19 +1678,19 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 154,
-  "item_last_updated": 1658667680,
-  "item_size": 15576729,
+  "files_count": 159,
+  "item_last_updated": 1658719713,
+  "item_size": 15955939,
   "kvoa-2022": [
     {
       "url": "https://www.kvoa.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_24_12_41_28.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_24_12_41_28.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_25_02_13_41.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_25_02_13_41.report.json",
       "summary": {
-        "performance": 0.14,
+        "performance": 0.15,
         "accessibility": 0.81,
-        "best-practices": 0.75,
+        "best-practices": 0.83,
         "seo": 0.84,
         "pwa": 0.3
       }
@@ -1646,12 +1698,12 @@
     {
       "url": "https://www.kvoa.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_24_12_43_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_24_12_43_47.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_25_02_15_08.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_25_02_15_08.report.json",
       "summary": {
-        "performance": 0.15,
+        "performance": 0.14,
         "accessibility": 0.81,
-        "best-practices": 0.75,
+        "best-practices": 0.83,
         "seo": 0.84,
         "pwa": 0.3
       }
@@ -1659,12 +1711,12 @@
     {
       "url": "https://www.kvoa.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_24_12_42_40.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_24_12_42_40.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_25_02_14_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_25_02_14_25.report.json",
       "summary": {
-        "performance": 0.17,
+        "performance": 0.14,
         "accessibility": 0.81,
-        "best-practices": 0.75,
+        "best-practices": 0.83,
         "seo": 0.84,
         "pwa": 0.3
       }
@@ -1687,7 +1739,7 @@
     "addeddate": "2022-07-04 21:55:29"
   },
   "server": "ia601505.us.archive.org",
-  "uniq": 1741544015,
+  "uniq": 1292000298,
   "workable_servers": [
     "ia601505.us.archive.org",
     "ia801505.us.archive.org"

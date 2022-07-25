@@ -1,5 +1,5 @@
 {
-  "created": 1658711501,
+  "created": 1658751903,
   "d1": "ia902902.us.archive.org",
   "d2": "ia802902.us.archive.org",
   "dir": "/0/items/wistatejournal-2022",
@@ -7198,31 +7198,83 @@
       "sha1": "e76d537d092457d5e5a1e55e079d46dd3539e8b1"
     },
     {
+      "name": "wistatejournal-2022-07-24T23:41:26.320843-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658724091",
+      "size": "25696",
+      "md5": "9f1fd83b2a72895761c927c6c9ff1e05",
+      "crc32": "e3537a56",
+      "sha1": "c72443ae4c361049fd3512f8191061b1cc510d8c",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-07-24T23:41:26.320843-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658724093",
+      "size": "69981",
+      "md5": "1a92bcbdcc2c18ab1cba9d730f20f3b6",
+      "crc32": "355b2ff8",
+      "sha1": "d5799e97ad21e4db962f673c929537514a21e846",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-07-24T23:41:26.320843-05:00.jpg",
+      "source": "original",
+      "mtime": "1658724090",
+      "size": "307052",
+      "md5": "23d4876404a449d161d398ea35f6a7a5",
+      "crc32": "8fea4172",
+      "sha1": "7c8c514109c1a17512f357312a7d4b3efbb4f4ed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-07-24T23:41:26.320843-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658724094",
+      "size": "1468",
+      "md5": "059cf13a3c6c43bc7c8835d545433ba3",
+      "crc32": "809819be",
+      "sha1": "69394cfdec69ad475c6fec4bcd04632330dd8288",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-07-24T23:41:26.320843-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-07-24T23:41:26.320843-05:00.jpg",
+      "mtime": "1658724243",
+      "size": "12011",
+      "md5": "bd20c94a52bbd32f7e5723270a90e966",
+      "crc32": "f1645a58",
+      "sha1": "14c17600bc3204d9d046c6517bc6e53e33cdde1e"
+    },
+    {
       "name": "wistatejournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6c6329da8c2ff848242ac6a8e40e0a4da8d06444",
-      "mtime": "1658675749",
-      "size": "150309",
-      "md5": "50ab6e4d5c313069497d356e5fc29eba",
-      "crc32": "f8398019",
-      "sha1": "d5564ca0259dc9d6c365ee488a0a0500e3452731",
+      "btih": "78aaf7faaf90f3b04bca3e5e5de856064912119f",
+      "mtime": "1658724313",
+      "size": "151399",
+      "md5": "d8ea61b57318047e511d2ce34e7b20cf",
+      "crc32": "b2dd8e19",
+      "sha1": "c2215d79c11149cc4492a2a15c5468cd1db51088",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wistatejournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "45097eda0e731081c1f0872de2131021",
+      "md5": "ac451dc4b17830207f46f95c4b89fd9f",
       "summation": "md5"
     },
     {
       "name": "wistatejournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658675511",
-      "size": "798720",
-      "md5": "59593ee55209ebc9cacfe4055df8ef8e",
-      "crc32": "1817d325",
-      "sha1": "9e0983e979880ba33d679468e047d6d79dacf2b8",
+      "mtime": "1658724097",
+      "size": "806912",
+      "md5": "aaebe48ff4b4cb952884f74ed53b8366",
+      "crc32": "270cd8c3",
+      "sha1": "fdc8e19c08bf6faa82549f98aca6be5c2a2bc33a",
       "format": "Metadata"
     },
     {
@@ -7236,9 +7288,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 688,
-  "item_last_updated": 1658675749,
-  "item_size": 77060178,
+  "files_count": 693,
+  "item_last_updated": 1658724313,
+  "item_size": 77485668,
   "metadata": {
     "identifier": "wistatejournal-2022",
     "collection": [
@@ -7256,13 +7308,13 @@
     "addeddate": "2022-03-23 23:08:08"
   },
   "server": "ia802902.us.archive.org",
-  "uniq": 322004357,
+  "uniq": 650085139,
   "wistatejournal-2022": [
     {
       "url": "https://madison.com/wsj/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_24_14_29_27.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_24_14_29_27.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_25_04_25_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_25_04_25_07.report.json",
       "summary": {
         "performance": 0.02,
         "accessibility": 0.81,
@@ -7274,8 +7326,8 @@
     {
       "url": "https://madison.com/wsj/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_24_14_29_53.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_24_14_29_53.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_25_04_26_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_25_04_26_05.report.json",
       "summary": {
         "performance": 0.03,
         "accessibility": 0.81,
@@ -7287,12 +7339,12 @@
     {
       "url": "https://madison.com/wsj/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_24_14_30_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_24_14_30_17.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_25_04_25_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_25_04_25_37.report.json",
       "summary": {
         "performance": 0.03,
         "accessibility": 0.81,
-        "best-practices": 0.83,
+        "best-practices": 0.92,
         "seo": 0.83,
         "pwa": 0.6
       }

@@ -1,5 +1,5 @@
 {
-  "created": 1658711454,
+  "created": 1658751793,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/15/items/vancouversun-2022",
@@ -2840,31 +2840,83 @@
       "sha1": "50c6da3d45ba64f2ebabf123af41702d7d3ee55e"
     },
     {
+      "name": "vancouversun-2022-07-24T21:39:57.554341-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658724002",
+      "size": "73751",
+      "md5": "3b1a3f5196f5907abc4543769a60a655",
+      "crc32": "9bfe6d41",
+      "sha1": "1dcf6cfaf91d1fbc0620dbf8d06d0b02ae322121",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-07-24T21:39:57.554341-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658724003",
+      "size": "60899",
+      "md5": "e84a3141b3fe686abcf87d9bafc111cc",
+      "crc32": "8f1c4e25",
+      "sha1": "25cd150899b0a6c69b12bf6accd503ad5ece30de",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-07-24T21:39:57.554341-07:00.jpg",
+      "source": "original",
+      "mtime": "1658724000",
+      "size": "297834",
+      "md5": "04b6b06d0bd6337ac7c2da180d094252",
+      "crc32": "b7e0943e",
+      "sha1": "885e5caf339cd0b8f5783ed52f605050f04e8e4d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vancouversun-2022-07-24T21:39:57.554341-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658724005",
+      "size": "1476",
+      "md5": "22cfd04fb9e2e721361991ea48b5f6d8",
+      "crc32": "ea935e3d",
+      "sha1": "31b679c31fb323cd3136be1ee6ad599d7658cf10",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-07-24T21:39:57.554341-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vancouversun-2022-07-24T21:39:57.554341-07:00.jpg",
+      "mtime": "1658724085",
+      "size": "9931",
+      "md5": "f6b2ceaf311ee021cee18e152b8af794",
+      "crc32": "1f207c26",
+      "sha1": "cacce6cec3e2da3e2be728a158f8e8f76aee4cce"
+    },
+    {
       "name": "vancouversun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e31239544e1535dd15ff3fc6fcb60863d5cb39ee",
-      "mtime": "1658675443",
-      "size": "59696",
-      "md5": "15db5bef41407988dd2d0142fd54b6a2",
-      "crc32": "962137bc",
-      "sha1": "268c98fad3244d2d992de0981df410cfecd23d3f",
+      "btih": "2802fef3f07e2cebdce04254b117982f80a7e889",
+      "mtime": "1658724094",
+      "size": "60775",
+      "md5": "93af8712a9674458bd6ada81e27c60e7",
+      "crc32": "ed990b3c",
+      "sha1": "69fb7749992fea07019a8500b3ed9b5113890a5b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vancouversun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7d0192bbd95771ee927c4d6d800ed298",
+      "md5": "b4343b5a26ed4e551017769d7411e07c",
       "summation": "md5"
     },
     {
       "name": "vancouversun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658675385",
-      "size": "331776",
-      "md5": "9af22fe45e898e6cb01ee059f428841f",
-      "crc32": "decd2570",
-      "sha1": "f141ee27e92e7f34790ef52c885e6ab17d9f8e21",
+      "mtime": "1658724008",
+      "size": "339968",
+      "md5": "a8b0d506a6700c77f813f098ba348e86",
+      "crc32": "d8c3d241",
+      "sha1": "72669d3692600689e58b58e5d52806d009a8faf5",
       "format": "Metadata"
     },
     {
@@ -2878,9 +2930,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 274,
-  "item_last_updated": 1658675443,
-  "item_size": 30988577,
+  "files_count": 279,
+  "item_last_updated": 1658724094,
+  "item_size": 31441739,
   "metadata": {
     "identifier": "vancouversun-2022",
     "collection": [
@@ -2897,16 +2949,16 @@
     "publicdate": "2022-06-30 22:36:07",
     "addeddate": "2022-06-30 22:36:07"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1806354336,
+  "server": "ia601409.us.archive.org",
+  "uniq": 1348801595,
   "vancouversun-2022": [
     {
       "url": "https://vancouversun.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/vancouversun_com-_-2022_07_24_14_25_12.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/vancouversun_com-_-2022_07_24_14_25_12.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/vancouversun_com-_-2022_07_25_04_21_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/vancouversun_com-_-2022_07_25_04_21_48.report.json",
       "summary": {
-        "performance": 0.19,
+        "performance": 0.17,
         "accessibility": 0.93,
         "best-practices": 0.92,
         "seo": 0.97,
@@ -2916,8 +2968,8 @@
     {
       "url": "https://vancouversun.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/vancouversun_com-_-2022_07_24_14_26_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/vancouversun_com-_-2022_07_24_14_26_17.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/vancouversun_com-_-2022_07_25_04_22_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/vancouversun_com-_-2022_07_25_04_22_48.report.json",
       "summary": {
         "performance": 0.19,
         "accessibility": 0.93,
@@ -2929,10 +2981,10 @@
     {
       "url": "https://vancouversun.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/vancouversun_com-_-2022_07_24_14_24_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/vancouversun_com-_-2022_07_24_14_24_46.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/vancouversun_com-_-2022_07_25_04_22_18.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/vancouversun_com-_-2022_07_25_04_22_18.report.json",
       "summary": {
-        "performance": 0.18,
+        "performance": 0.2,
         "accessibility": 0.93,
         "best-practices": 0.92,
         "seo": 0.97,
@@ -2941,7 +2993,7 @@
     }
   ],
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

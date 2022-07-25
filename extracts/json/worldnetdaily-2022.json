@@ -1,5 +1,5 @@
 {
-  "created": 1658711506,
+  "created": 1658751911,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/13/items/worldnetdaily-2022",
@@ -910,31 +910,83 @@
       "sha1": "ff0a28b195aaa1a2da9d27c6ad533df3280ec7d4"
     },
     {
+      "name": "worldnetdaily-2022-07-25T00:42:32.457689-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658724155",
+      "size": "22386",
+      "md5": "4c33f309fb8fa91e643fe01a281ee05a",
+      "crc32": "33f2d9f0",
+      "sha1": "8de154653ec5969e743d70f1020439623cc7ef74",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-07-25T00:42:32.457689-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658724156",
+      "size": "51610",
+      "md5": "c1339c380856eba4908ba028c5623758",
+      "crc32": "c22cbee6",
+      "sha1": "94d93c2df3087ad6d6129be1f2150869ed5df101",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-07-25T00:42:32.457689-04:00.jpg",
+      "source": "original",
+      "mtime": "1658724153",
+      "size": "396384",
+      "md5": "8ae3f9dc9d3bec6d3dfcdd44642a0f85",
+      "crc32": "cb10f1bd",
+      "sha1": "20c7f5b2b0522ff6b589210a74377298a35e446e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "worldnetdaily-2022-07-25T00:42:32.457689-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658724157",
+      "size": "1432",
+      "md5": "2ecdfedaba81498e04ebdb3a5b9d10dd",
+      "crc32": "55cf102d",
+      "sha1": "d936f88058db3c6d2eda6afa87ebd7dc166a98f2",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-07-25T00:42:32.457689-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "worldnetdaily-2022-07-25T00:42:32.457689-04:00.jpg",
+      "mtime": "1658724287",
+      "size": "12346",
+      "md5": "113c49ec70731e1a21f14e4110472be1",
+      "crc32": "6d8e572f",
+      "sha1": "49ca76bb293106739cebd3e7dd399ee60360a681"
+    },
+    {
       "name": "worldnetdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "53846bd754c036c4f9d1a51a6ef11f3bfe182b31",
-      "mtime": "1658677591",
-      "size": "20053",
-      "md5": "2a65883b3998908d4f1405bf255515de",
-      "crc32": "2fc940fb",
-      "sha1": "69d711b806cfccaaf2ee85bcf4fbb27034bd2809",
+      "btih": "bcd09c0c580b66edb3d40b54fdf4dccd6711fa6d",
+      "mtime": "1658724299",
+      "size": "21138",
+      "md5": "f0d500c2fbd40732fae6756cdd2a4dc2",
+      "crc32": "42b9d112",
+      "sha1": "04f37ba9578e80e34e4e19808ed5b808ccb19e7a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "worldnetdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d7b030520f2950de8ea9d0679f4a7aaf",
+      "md5": "1f13c642b36611fb162252580833f5af",
       "summation": "md5"
     },
     {
       "name": "worldnetdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658677534",
-      "size": "122880",
-      "md5": "041103da3bece1d059291a7fb7bbdc56",
-      "crc32": "22f084d0",
-      "sha1": "f7989786fcae9e523189eb46c56fbddfab231ea6",
+      "mtime": "1658724161",
+      "size": "131072",
+      "md5": "0b141dec4b04a31ab3610bcda34d333e",
+      "crc32": "9661f36a",
+      "sha1": "2c558f92a8d60525636ac755b0697bb39f52aee0",
       "format": "Metadata"
     },
     {
@@ -948,9 +1000,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 90,
-  "item_last_updated": 1658677591,
-  "item_size": 9344676,
+  "files_count": 95,
+  "item_last_updated": 1658724299,
+  "item_size": 9838111,
   "metadata": {
     "identifier": "worldnetdaily-2022",
     "collection": [
@@ -968,7 +1020,7 @@
     "addeddate": "2022-07-17 15:04:09"
   },
   "server": "ia802500.us.archive.org",
-  "uniq": 519817669,
+  "uniq": 1965255847,
   "workable_servers": [
     "ia802500.us.archive.org",
     "ia902500.us.archive.org"
@@ -977,10 +1029,10 @@
     {
       "url": "https://www.wnd.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnd_com-_-2022_07_24_15_34_58.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnd_com-_-2022_07_24_15_34_58.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnd_com-_-2022_07_25_04_25_57.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnd_com-_-2022_07_25_04_25_57.report.json",
       "summary": {
-        "performance": 0.27,
+        "performance": 0.26,
         "accessibility": 0.86,
         "best-practices": 0.83,
         "seo": 0.85,
@@ -990,10 +1042,10 @@
     {
       "url": "https://www.wnd.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnd_com-_-2022_07_24_15_35_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnd_com-_-2022_07_24_15_35_19.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnd_com-_-2022_07_25_04_26_22.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnd_com-_-2022_07_25_04_26_22.report.json",
       "summary": {
-        "performance": 0.35,
+        "performance": 0.32,
         "accessibility": 0.86,
         "best-practices": 0.83,
         "seo": 0.85,
@@ -1003,10 +1055,10 @@
     {
       "url": "https://www.wnd.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnd_com-_-2022_07_24_15_34_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnd_com-_-2022_07_24_15_34_38.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnd_com-_-2022_07_25_04_25_30.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnd_com-_-2022_07_25_04_25_30.report.json",
       "summary": {
-        "performance": 0.28,
+        "performance": 0.26,
         "accessibility": 0.86,
         "best-practices": 0.83,
         "seo": 0.85,

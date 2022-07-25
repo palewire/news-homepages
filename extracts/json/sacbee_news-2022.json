@@ -1,5 +1,5 @@
 {
-  "created": 1658711275,
+  "created": 1658737541,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/4/items/sacbee_news-2022",
@@ -2234,31 +2234,83 @@
       "sha1": "5f68701a356bc87ef5165b31ee6e95caf3136b97"
     },
     {
+      "name": "sacbee_news-2022-07-24T20:42:26.720496-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658720549",
+      "size": "454",
+      "md5": "332c55d8b325564388b8b82652a2775f",
+      "crc32": "170a853e",
+      "sha1": "9567e4fc0aed78620f615d7cb13403b7536af5c3",
+      "format": "JSON"
+    },
+    {
+      "name": "sacbee_news-2022-07-24T20:42:26.720496-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658720550",
+      "size": "45361",
+      "md5": "5c21e6a04c89000322f71024a95a06ef",
+      "crc32": "44f97b71",
+      "sha1": "aac2a28c0db9c3b21d1de4b98ca607d70b736f73",
+      "format": "JSON"
+    },
+    {
+      "name": "sacbee_news-2022-07-24T20:42:26.720496-07:00.jpg",
+      "source": "original",
+      "mtime": "1658720547",
+      "size": "326508",
+      "md5": "6917559468d5636f8def13af3e856c5c",
+      "crc32": "fb0b05b3",
+      "sha1": "5dd4ef361700ab8eea2f437a951aee399c8fa296",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sacbee_news-2022-07-24T20:42:26.720496-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658720551",
+      "size": "1453",
+      "md5": "4d3e61ef138d8f132a554f2a62a81867",
+      "crc32": "2b289eb4",
+      "sha1": "15f8c11905fa64c92d21d59b98040871feda4800",
+      "format": "JSON"
+    },
+    {
+      "name": "sacbee_news-2022-07-24T20:42:26.720496-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sacbee_news-2022-07-24T20:42:26.720496-07:00.jpg",
+      "mtime": "1658720676",
+      "size": "9326",
+      "md5": "44b8e24467159e5dfb999a906b914950",
+      "crc32": "6f77002a",
+      "sha1": "bf53bf3e35326efad36b6770e746b688db49cde7"
+    },
+    {
       "name": "sacbee_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "40277cd65a7d078d5afaf051fad77303b4c1b4a6",
-      "mtime": "1658671519",
-      "size": "46374",
-      "md5": "aa664b0a62c444dcebb423e94d69e644",
-      "crc32": "d50834c7",
-      "sha1": "f6969b14c7bf4c499f9597e8bb37513e2112ff55",
+      "btih": "795195b0f0d8522109383c0d276bbffa920196a4",
+      "mtime": "1658720691",
+      "size": "47426",
+      "md5": "a1abb681e549afcb5cbdbe57394b9390",
+      "crc32": "a6fa3da8",
+      "sha1": "f579be51c09123be412a5904772f52481e620eb3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sacbee_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6a07ac98f73ccab7e1df7dc9ebe9f258",
+      "md5": "523c555978ada29ee831758cca59d8eb",
       "summation": "md5"
     },
     {
       "name": "sacbee_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658671416",
-      "size": "266240",
-      "md5": "a61888fb71c25823404c474ef1338b13",
-      "crc32": "1aa28888",
-      "sha1": "688782e7d59e1be4726021e2f2958bf5140ff4be",
+      "mtime": "1658720555",
+      "size": "270336",
+      "md5": "84ec52b4770aa8e72b458dfb3e45af93",
+      "crc32": "878bb9f2",
+      "sha1": "cb6989c410de83998b6bd143477ad433ce7e6215",
       "format": "Metadata"
     },
     {
@@ -2272,9 +2324,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 216,
-  "item_last_updated": 1658671519,
-  "item_size": 14847786,
+  "files_count": 221,
+  "item_last_updated": 1658720691,
+  "item_size": 15236036,
   "metadata": {
     "identifier": "sacbee_news-2022",
     "collection": [
@@ -2291,51 +2343,10 @@
     "publicdate": "2022-06-24 23:00:30",
     "addeddate": "2022-06-24 23:00:30"
   },
-  "sacbee_news-2022": [
-    {
-      "url": "https://www.sacbee.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sacbee_com-_-2022_07_24_13_46_14.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sacbee_com-_-2022_07_24_13_46_14.report.json",
-      "summary": {
-        "performance": 0.13,
-        "accessibility": 0.78,
-        "best-practices": null,
-        "seo": 0.83,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.sacbee.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sacbee_com-_-2022_07_24_13_46_41.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sacbee_com-_-2022_07_24_13_46_41.report.json",
-      "summary": {
-        "performance": 0.14,
-        "accessibility": 0.78,
-        "best-practices": null,
-        "seo": 0.83,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.sacbee.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sacbee_com-_-2022_07_24_13_47_06.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sacbee_com-_-2022_07_24_13_47_06.report.json",
-      "summary": {
-        "performance": 0.14,
-        "accessibility": 1,
-        "best-practices": null,
-        "seo": 0.91,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "server": "ia801506.us.archive.org",
-  "uniq": 540326347,
+  "server": "ia601506.us.archive.org",
+  "uniq": 603070077,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

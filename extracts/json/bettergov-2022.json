@@ -1,5 +1,5 @@
 {
-  "created": 1658710372,
+  "created": 1658749885,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/12/items/bettergov-2022",
@@ -2030,31 +2030,83 @@
       "sha1": "b46e5c30c2f2dfb1f0e135a9685d0e2a38425f79"
     },
     {
+      "name": "bettergov-2022-07-25T05:59:42.029615-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658746785",
+      "size": "13220",
+      "md5": "f06fec9c4ef7fcb0a85c694eebcbc5c5",
+      "crc32": "518614a3",
+      "sha1": "9cd006086e8cfbe7991fa2d315a37069977d1f28",
+      "format": "JSON"
+    },
+    {
+      "name": "bettergov-2022-07-25T05:59:42.029615-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658746787",
+      "size": "17431",
+      "md5": "f9700f083a2d006f88826b8c5f4d7115",
+      "crc32": "e97dd34b",
+      "sha1": "aa1a0e9bab930e3326cd8f954a1831dbc45260c5",
+      "format": "JSON"
+    },
+    {
+      "name": "bettergov-2022-07-25T05:59:42.029615-05:00.jpg",
+      "source": "original",
+      "mtime": "1658746784",
+      "size": "310010",
+      "md5": "df0951187d62b1db1eb16ca273fc7f4c",
+      "crc32": "c0255d5c",
+      "sha1": "35d99ae857a02ee5d4a83607c284082f363c7546",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bettergov-2022-07-25T05:59:42.029615-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658746788",
+      "size": "1485",
+      "md5": "fe69a6d3e38377cdd202a6aaaa06b9e6",
+      "crc32": "4bc5dc64",
+      "sha1": "ad4ed64fd528b75d1e757cdbdcbaf1c10d10d15a",
+      "format": "JSON"
+    },
+    {
+      "name": "bettergov-2022-07-25T05:59:42.029615-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bettergov-2022-07-25T05:59:42.029615-05:00.jpg",
+      "mtime": "1658749855",
+      "size": "10130",
+      "md5": "f1dc72c3478a6b6b9ca56a0c4f24f7b8",
+      "crc32": "33e0b477",
+      "sha1": "b46e5c30c2f2dfb1f0e135a9685d0e2a38425f79"
+    },
+    {
       "name": "bettergov-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6105e623269293387a5987dd12ae3d516109ff7f",
-      "mtime": "1658710347",
-      "size": "42299",
-      "md5": "95f826bed353abdcf6ba83b45857f1e2",
-      "crc32": "00d013c7",
-      "sha1": "0c6fd4e3f9a606e7f186db0348904d99e11c4bf3",
+      "btih": "e019779f58caa992c4480b11e4cf61e4ea70be86",
+      "mtime": "1658749865",
+      "size": "43364",
+      "md5": "40391cebd94a22217f755cfdfdd65fc0",
+      "crc32": "0f7ee591",
+      "sha1": "74e9d9bbe183dce9a289ff06d5a54abe5cfe6c30",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bettergov-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "41126515d54b0240b7390fbb5281637a",
+      "md5": "0cda017d1b852708867334e86d3f85ac",
       "summation": "md5"
     },
     {
       "name": "bettergov-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658710258",
-      "size": "245760",
-      "md5": "a27c0fa9be435a70bb8254f28ea04bb1",
-      "crc32": "58c48b4b",
-      "sha1": "6f967b87db1918933ccc0ea557110c264aac74bb",
+      "mtime": "1658746794",
+      "size": "249856",
+      "md5": "7cfa303d843fd105f0762aa3b970292c",
+      "crc32": "a046ab26",
+      "sha1": "9e68c2b81340f1a666b3a24444d04805e3f8e829",
       "format": "Metadata"
     },
     {
@@ -2068,9 +2120,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 197,
-  "item_last_updated": 1658710347,
-  "item_size": 16805217,
+  "files_count": 202,
+  "item_last_updated": 1658749865,
+  "item_size": 17162654,
   "metadata": {
     "identifier": "bettergov-2022",
     "collection": [
@@ -2087,10 +2139,10 @@
     "publicdate": "2022-07-09 03:56:41",
     "addeddate": "2022-07-09 03:56:41"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1307468480,
+  "server": "ia601406.us.archive.org",
+  "uniq": 185688197,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

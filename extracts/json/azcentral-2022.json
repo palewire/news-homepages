@@ -1,5 +1,5 @@
 {
-  "created": 1658710251,
+  "created": 1658749924,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/2/items/azcentral-2022",
@@ -1852,31 +1852,73 @@
       "sha1": "5176c53df3c9b9016e172d72bde36d68a08775c2"
     },
     {
+      "name": "azcentral-2022-07-25T03:58:17.563266-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658746701",
+      "size": "22623",
+      "md5": "0f93dd3fa303d78107a2fbaa2781a6ff",
+      "crc32": "577c9abd",
+      "sha1": "9a5b06d492e121e62375396c91f3d9a1105215b0",
+      "format": "JSON"
+    },
+    {
+      "name": "azcentral-2022-07-25T03:58:17.563266-07:00.jpg",
+      "source": "original",
+      "mtime": "1658746700",
+      "size": "260367",
+      "md5": "d84b6f2f21d40dabb325230e7599f39b",
+      "crc32": "28127f9f",
+      "sha1": "523bcb2681190a0c3faf9d441b1a41b78ae698a1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "azcentral-2022-07-25T03:58:17.563266-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658746703",
+      "size": "1486",
+      "md5": "707e4978695978f2439758c0064022d4",
+      "crc32": "a71e5d32",
+      "sha1": "70b3a9bd9bd7bd8d8ee1f0213a30cfc34c10c0cf",
+      "format": "JSON"
+    },
+    {
+      "name": "azcentral-2022-07-25T03:58:17.563266-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "azcentral-2022-07-25T03:58:17.563266-07:00.jpg",
+      "mtime": "1658749798",
+      "size": "8976",
+      "md5": "da1d095f1f65e207701614d1dc4e9f1c",
+      "crc32": "aae29477",
+      "sha1": "152132bf131c5df622456a72610d24ae570abbb8"
+    },
+    {
       "name": "azcentral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8e03fde2363a7e36c9c898a5980d014a372b6637",
-      "mtime": "1658710228",
-      "size": "38626",
-      "md5": "21e96d1190f16392adadc6692cc76e68",
-      "crc32": "318be78c",
-      "sha1": "3207d5def85ca4a7100089c809b11c8103d259f8",
+      "btih": "b60bb360c671440fff56031ca3ee96d877016cbd",
+      "mtime": "1658749854",
+      "size": "39458",
+      "md5": "8b23d7a0c90790717a75b98aed51a2b0",
+      "crc32": "59f16dd9",
+      "sha1": "330a9594db5bcae1923a4c812146e4903a72deb7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "azcentral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "daf8cb9b5599327fbbcc5fb392bb9b3e",
+      "md5": "2ed6249c3d6980a088575bc622eae672",
       "summation": "md5"
     },
     {
       "name": "azcentral-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658710135",
-      "size": "225280",
-      "md5": "f5fe8181c47963b58e5c6b2605eb9b5b",
-      "crc32": "1d3e27f0",
-      "sha1": "d2c35fd21aa1c60a1b47cd5816756866ba30ac0e",
+      "mtime": "1658746707",
+      "size": "229376",
+      "md5": "f970b86272c2ebd1230fab95c30a0647",
+      "crc32": "92b8d94b",
+      "sha1": "64f20973080f404d9b4c13e9f82bf3d3ebb29505",
       "format": "Metadata"
     },
     {
@@ -1890,9 +1932,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 180,
-  "item_last_updated": 1658710228,
-  "item_size": 14331658,
+  "files_count": 184,
+  "item_last_updated": 1658749854,
+  "item_size": 14630038,
   "metadata": {
     "identifier": "azcentral-2022",
     "collection": [
@@ -1909,10 +1951,10 @@
     "publicdate": "2022-07-04 20:45:20",
     "addeddate": "2022-07-04 20:45:20"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 176619326,
+  "server": "ia902502.us.archive.org",
+  "uniq": 840586248,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

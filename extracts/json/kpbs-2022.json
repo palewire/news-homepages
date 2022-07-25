@@ -1,5 +1,5 @@
 {
-  "created": 1658710936,
+  "created": 1658751124,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/6/items/kpbs-2022",
@@ -11564,31 +11564,83 @@
       "sha1": "4f7395229fe154f97bc841489074e911ac1918b0"
     },
     {
+      "name": "kpbs-2022-07-24T20:26:17.494380-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658719582",
+      "size": "35060",
+      "md5": "b963acbee44c6efb3609fa983abe82ac",
+      "crc32": "1f6fc419",
+      "sha1": "db15a534d0286d6f91bc68c5712d76271a372da1",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-07-24T20:26:17.494380-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658719584",
+      "size": "45813",
+      "md5": "0f7cbe3e534211f406b83696dedfda77",
+      "crc32": "4656a218",
+      "sha1": "72ca03f4dfc2128cf367bf2b81e90583ebbdf12a",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-07-24T20:26:17.494380-07:00.jpg",
+      "source": "original",
+      "mtime": "1658719579",
+      "size": "253949",
+      "md5": "727f583faa3162fbfc84eea7d3ccec6d",
+      "crc32": "c34222d0",
+      "sha1": "79da8035398f73b108e302f1a60319d1a3fce22c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-07-24T20:26:17.494380-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658719586",
+      "size": "1432",
+      "md5": "29ec8fed8d18670f06fc53f7768c348c",
+      "crc32": "9d130bdd",
+      "sha1": "774ab346256b945f154b7bc28dd4e0260740935c",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-07-24T20:26:17.494380-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-07-24T20:26:17.494380-07:00.jpg",
+      "mtime": "1658719688",
+      "size": "9792",
+      "md5": "002e0faa91166f1febba27d99f97443e",
+      "crc32": "d87dec8e",
+      "sha1": "03a5d4ab64020a1a2e6234fa10f16a69ce2b13f4"
+    },
+    {
       "name": "kpbs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dc55757f57eacd287fa120ce8c409df807b1830a",
-      "mtime": "1658686926",
-      "size": "229098",
-      "md5": "bcae3510ac404316b7755d5176ec1a31",
-      "crc32": "9eff787a",
-      "sha1": "e03aea7d93674bd1a3e92c73b8915a035690a101",
+      "btih": "8e2043c10a2d3229583a77b6e9cc90a79e0a4264",
+      "mtime": "1658719717",
+      "size": "230137",
+      "md5": "420bbc277496ace9c120497e9252662b",
+      "crc32": "e5fb74ce",
+      "sha1": "e01973d45ddff45419d779337ebe46bb70d1c293",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpbs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c2900014af1a67cfb56012255717ebeb",
+      "md5": "3c27431d97e967296f70d01840184c74",
       "summation": "md5"
     },
     {
       "name": "kpbs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658686839",
-      "size": "1257472",
-      "md5": "fdb4ab05c2c6fe13db0725139d9bb43d",
-      "crc32": "b63922ba",
-      "sha1": "8c0615457c311a8a5d3ec8d6b34d66bbb89d745a",
+      "mtime": "1658719590",
+      "size": "1261568",
+      "md5": "6832505d465dcefba28a271f50841472",
+      "crc32": "3de3d340",
+      "sha1": "1a6ad4c937ee4f1a64927fc4dcbab7199ebbc56c",
       "format": "Metadata"
     },
     {
@@ -11602,17 +11654,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1104,
-  "item_last_updated": 1658686926,
-  "item_size": 109694727,
+  "files_count": 1109,
+  "item_last_updated": 1658719717,
+  "item_size": 110045908,
   "kpbs-2022": [
     {
       "url": "https://www.kpbs.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_07_24_18_12_39.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_07_24_18_12_39.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_07_25_02_12_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_07_25_02_12_49.report.json",
       "summary": {
-        "performance": 0.3,
+        "performance": 0.26,
         "accessibility": 1,
         "best-practices": 0.92,
         "seo": 0.92,
@@ -11622,10 +11674,10 @@
     {
       "url": "https://www.kpbs.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_07_24_18_13_16.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_07_24_18_13_16.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_07_25_02_13_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_07_25_02_13_11.report.json",
       "summary": {
-        "performance": 0.48,
+        "performance": 0.35,
         "accessibility": 1,
         "best-practices": 0.92,
         "seo": 0.92,
@@ -11635,10 +11687,10 @@
     {
       "url": "https://www.kpbs.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_07_24_18_12_57.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_07_24_18_12_57.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_07_25_02_13_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_07_25_02_13_31.report.json",
       "summary": {
-        "performance": 0.34,
+        "performance": 0.43,
         "accessibility": 1,
         "best-practices": 0.92,
         "seo": 0.92,
@@ -11662,10 +11714,10 @@
     "publicdate": "2022-03-24 02:06:19",
     "addeddate": "2022-03-24 02:06:19"
   },
-  "server": "ia902500.us.archive.org",
-  "uniq": 82252934,
+  "server": "ia802500.us.archive.org",
+  "uniq": 1339531673,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia802500.us.archive.org",
+    "ia902500.us.archive.org"
   ]
 }

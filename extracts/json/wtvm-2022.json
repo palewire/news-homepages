@@ -1,5 +1,5 @@
 {
-  "created": 1658711522,
+  "created": 1658751930,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/18/items/wtvm-2022",
@@ -414,31 +414,83 @@
       "sha1": "e9740e2598dd82c42d7f09ad47975ee03afe4d36"
     },
     {
+      "name": "wtvm-2022-07-25T00:42:15.292320-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658724139",
+      "size": "37256",
+      "md5": "801d706c78c1bbd0e9b51a54308b4783",
+      "crc32": "6ca40717",
+      "sha1": "d3bfbf0e0a2213089e4e16289785c007614d39a4",
+      "format": "JSON"
+    },
+    {
+      "name": "wtvm-2022-07-25T00:42:15.292320-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658724141",
+      "size": "23486",
+      "md5": "5ab47c8b3ec9aa67fc883ea2e536459e",
+      "crc32": "8a081b21",
+      "sha1": "9dd4b6ad3f40f444842fda6aa7ef0598d08874ed",
+      "format": "JSON"
+    },
+    {
+      "name": "wtvm-2022-07-25T00:42:15.292320-04:00.jpg",
+      "source": "original",
+      "mtime": "1658724138",
+      "size": "345306",
+      "md5": "b1196bfe50c7441acbf872d927c73bf6",
+      "crc32": "221e3e74",
+      "sha1": "95f5246ae6052a93b77311fc606914ea569e7834",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wtvm-2022-07-25T00:42:15.292320-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658724143",
+      "size": "1440",
+      "md5": "d5de9be5430d60d8ff05c20a923e594b",
+      "crc32": "3a3f2294",
+      "sha1": "fa8955fe604698cd9ecdc75f50030d3b17402130",
+      "format": "JSON"
+    },
+    {
+      "name": "wtvm-2022-07-25T00:42:15.292320-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wtvm-2022-07-25T00:42:15.292320-04:00.jpg",
+      "mtime": "1658724252",
+      "size": "11018",
+      "md5": "4228f6e1f8922fd6fc8c70644e8933f3",
+      "crc32": "157e7ed0",
+      "sha1": "62b7948cedb95514f8e9a2a9c112b6278ed0a51e"
+    },
+    {
       "name": "wtvm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "46cfdf692c5b6c17d9edeedf4c113129b62644c6",
-      "mtime": "1658675655",
-      "size": "9467",
-      "md5": "cd01e004ea659fd83fc1583e1600bec2",
-      "crc32": "1f70ee4d",
-      "sha1": "2f36f0038b9fc9f5fc93e48f6ada3e880978c18f",
+      "btih": "d78119980b907338f54b3b1525ad0e4b6dec250e",
+      "mtime": "1658724261",
+      "size": "10507",
+      "md5": "0278115dfe60fcd395f173e42950356b",
+      "crc32": "26b71ac6",
+      "sha1": "c3bd0c21b4ac4433982a8bd88bc02dc2f5b7c8d3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wtvm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "378b40a88f949d6a0896b21c065cec47",
+      "md5": "0799e2b8dd05aaeb71789e97ff509a38",
       "summation": "md5"
     },
     {
       "name": "wtvm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658675547",
-      "size": "61440",
-      "md5": "4276f38f8123bac16674a5d74998dcc8",
-      "crc32": "3bff721f",
-      "sha1": "a9978926517b8aa4ec6bcdc9c2761b7d0ed2c27d",
+      "mtime": "1658724149",
+      "size": "65536",
+      "md5": "6573be1aed167b182619fca05a6fb87a",
+      "crc32": "c0bd56b4",
+      "sha1": "458df11d7c533b83740653039d51911690bd35bc",
       "format": "Metadata"
     },
     {
@@ -452,9 +504,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 43,
-  "item_last_updated": 1658675655,
-  "item_size": 3909674,
+  "files_count": 48,
+  "item_last_updated": 1658724261,
+  "item_size": 4333316,
   "metadata": {
     "identifier": "wtvm-2022",
     "collection": [
@@ -471,21 +523,21 @@
     "publicdate": "2022-07-20 23:32:24",
     "addeddate": "2022-07-20 23:32:24"
   },
-  "server": "ia902500.us.archive.org",
-  "uniq": 2063448204,
+  "server": "ia802500.us.archive.org",
+  "uniq": 1166494663,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia802500.us.archive.org",
+    "ia902500.us.archive.org"
   ],
   "wtvm-2022": [
     {
       "url": "https://www.wtvm.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtvm_com-_-2022_07_24_14_31_14.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtvm_com-_-2022_07_24_14_31_14.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtvm_com-_-2022_07_25_04_27_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtvm_com-_-2022_07_25_04_27_10.report.json",
       "summary": {
-        "performance": 0.3,
-        "accessibility": 0.85,
+        "performance": 0.33,
+        "accessibility": 0.83,
         "best-practices": 0.92,
         "seo": 0.91,
         "pwa": 0.3
@@ -494,11 +546,11 @@
     {
       "url": "https://www.wtvm.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtvm_com-_-2022_07_24_14_31_40.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtvm_com-_-2022_07_24_14_31_40.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtvm_com-_-2022_07_25_04_27_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtvm_com-_-2022_07_25_04_27_54.report.json",
       "summary": {
-        "performance": 0.25,
-        "accessibility": 0.85,
+        "performance": 0.31,
+        "accessibility": 0.83,
         "best-practices": 0.92,
         "seo": 0.91,
         "pwa": 0.3
@@ -507,11 +559,11 @@
     {
       "url": "https://www.wtvm.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtvm_com-_-2022_07_24_14_32_06.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtvm_com-_-2022_07_24_14_32_06.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtvm_com-_-2022_07_25_04_27_33.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtvm_com-_-2022_07_25_04_27_33.report.json",
       "summary": {
-        "performance": 0.4,
-        "accessibility": 0.85,
+        "performance": 0.3,
+        "accessibility": 0.83,
         "best-practices": 0.92,
         "seo": 0.91,
         "pwa": 0.3

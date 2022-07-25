@@ -1,5 +1,5 @@
 {
-  "created": 1658710304,
+  "created": 1658749857,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/24/items/14eastmag-2022",
@@ -5021,31 +5021,83 @@
       "sha1": "5fc869ae339dd257419f28d03603ed112f1f72ff"
     },
     {
+      "name": "14eastmag-2022-07-25T05:56:10.701825-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658746582",
+      "size": "25360",
+      "md5": "edfc3fc76ba4b189bea3425866e23016",
+      "crc32": "bf800d57",
+      "sha1": "c2da9bca50ff5181d4d6dd10925ab5a83d79c6f8",
+      "format": "JSON"
+    },
+    {
+      "name": "14eastmag-2022-07-25T05:56:10.701825-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658746584",
+      "size": "41601",
+      "md5": "b7305d193df3ce11f3ff883779f76399",
+      "crc32": "43d85ffc",
+      "sha1": "185d46b2e034a92761c8e19209656df9e28e00eb",
+      "format": "JSON"
+    },
+    {
+      "name": "14eastmag-2022-07-25T05:56:10.701825-05:00.jpg",
+      "source": "original",
+      "mtime": "1658746580",
+      "size": "297424",
+      "md5": "d97b960f70f751c47bde0565c167ddba",
+      "crc32": "b05cc944",
+      "sha1": "f1d82645c35f25fa585cd6e31c9cd04f911d0e77",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "14eastmag-2022-07-25T05:56:10.701825-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658746586",
+      "size": "1501",
+      "md5": "9a2f20f383cdc4bac29ec18575976081",
+      "crc32": "ec5f96af",
+      "sha1": "ab32f498477137337a2cc8161aeddf8a2faf894a",
+      "format": "JSON"
+    },
+    {
+      "name": "14eastmag-2022-07-25T05:56:10.701825-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "14eastmag-2022-07-25T05:56:10.701825-05:00.jpg",
+      "mtime": "1658749679",
+      "size": "9479",
+      "md5": "8d4a32fdd2fe42492d34d0dd943ef403",
+      "crc32": "1c444fb0",
+      "sha1": "5fc869ae339dd257419f28d03603ed112f1f72ff"
+    },
+    {
       "name": "14eastmag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3abe5aba540109c12cbc2a93484962bbd64b53e7",
-      "mtime": "1658710259",
-      "size": "102643",
-      "md5": "ac8f9dd73af6ee8a69a48e8e424441e5",
-      "crc32": "12e28472",
-      "sha1": "38ae82bd6166a063345ce8854299c555949e5cb8",
+      "btih": "a7872513a94d312110c47f7e700128984007afd0",
+      "mtime": "1658749800",
+      "size": "103687",
+      "md5": "2b84f52962097c1c91aafd35fd1ec9f5",
+      "crc32": "25dfc804",
+      "sha1": "ea209f2846d10820de1e9ee166ca2be830453e0d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "14eastmag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ad8d8befbc7d04b554d3c4879a019bea",
+      "md5": "6fd1623f3c7e72ca2ba8c400691a9357",
       "summation": "md5"
     },
     {
       "name": "14eastmag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658709925",
-      "size": "565248",
-      "md5": "aec836f229a7ed5519c9f6257124e23f",
-      "crc32": "5acf4e36",
-      "sha1": "a3735951ba3b061888e24281156ee7028a606690",
+      "mtime": "1658746592",
+      "size": "573440",
+      "md5": "f549b694375fdbe68a018b8d17a53f38",
+      "crc32": "a3d8a709",
+      "sha1": "018c42f47f7331f64e0c66733320449ac758b1ac",
       "format": "Metadata"
     },
     {
@@ -5070,9 +5122,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 483,
-  "item_last_updated": 1658710259,
-  "item_size": 37903035,
+  "files_count": 488,
+  "item_last_updated": 1658749800,
+  "item_size": 38287636,
   "metadata": {
     "identifier": "14eastmag-2022",
     "collection": [
@@ -5089,10 +5141,10 @@
     "publicdate": "2022-06-19 23:22:49",
     "addeddate": "2022-06-19 23:22:49"
   },
-  "server": "ia902505.us.archive.org",
-  "uniq": 1287629494,
+  "server": "ia802505.us.archive.org",
+  "uniq": 318663477,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }

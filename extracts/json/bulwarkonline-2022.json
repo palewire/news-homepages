@@ -1,5 +1,5 @@
 {
-  "created": 1658710521,
+  "created": 1658749972,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/10/items/bulwarkonline-2022",
@@ -980,31 +980,83 @@
       "sha1": "7cf77e1642f19135b620fb2e492c3c0a89f9c0c1"
     },
     {
+      "name": "bulwarkonline-2022-07-25T07:00:50.125248-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658746853",
+      "size": "8450",
+      "md5": "23dac6ba580f37c4fd91d3cac6acd3fd",
+      "crc32": "0d3b720f",
+      "sha1": "35f2fc55f162dcd0c99915f02a4dbc68e8ebac24",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-07-25T07:00:50.125248-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658746855",
+      "size": "7232",
+      "md5": "9ea853b18498d815cf0c332b52f4de17",
+      "crc32": "b268a4c0",
+      "sha1": "9fff956aafa35e15176b6947c2baddd4555de937",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-07-25T07:00:50.125248-04:00.jpg",
+      "source": "original",
+      "mtime": "1658746852",
+      "size": "275058",
+      "md5": "9be04f448909f8b4e25679978b5e3589",
+      "crc32": "beff2f3d",
+      "sha1": "0bbb668a3a55f92023e29f3b5069f866e2223a62",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bulwarkonline-2022-07-25T07:00:50.125248-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658746862",
+      "size": "1486",
+      "md5": "e9be1491504a3e9e02386e60f53e787d",
+      "crc32": "785d6e67",
+      "sha1": "b0255a080f9b6864b6af56dcea4b1d5585fee1d2",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-07-25T07:00:50.125248-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bulwarkonline-2022-07-25T07:00:50.125248-04:00.jpg",
+      "mtime": "1658749947",
+      "size": "11275",
+      "md5": "1a76a48bf09097b65019790a25a94bca",
+      "crc32": "d4e01ea7",
+      "sha1": "87e6c0c0fe3adf1e4be4c8ccb569bd944d1af0ce"
+    },
+    {
       "name": "bulwarkonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "20aa3321cd78b83765336a7bee0bdd68722348c0",
-      "mtime": "1658710495",
-      "size": "21489",
-      "md5": "a789da937906cf8596258612358ac094",
-      "crc32": "38938284",
-      "sha1": "ea16d5873146508bc21d7ccd58a4ad88054e1108",
+      "btih": "abdaf95fa36797d20760095039e695badbea5444",
+      "mtime": "1658749951",
+      "size": "22552",
+      "md5": "9ba1b2ba7afc2fc6969663838e774478",
+      "crc32": "400ad78a",
+      "sha1": "a88ee47b8cb65e2458201f4e5c969e09e3929f53",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bulwarkonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b7fd288aa19377f0fcfcc8eb05043e21",
+      "md5": "941327ccd856adf2c7d04af2eeb01d86",
       "summation": "md5"
     },
     {
       "name": "bulwarkonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658710378",
-      "size": "135168",
-      "md5": "b075ff7771939744e6b99d0016b0f519",
-      "crc32": "0c74a7e9",
-      "sha1": "522f4fb53a624d6c2f1e2bf9993cf9537b228d47",
+      "mtime": "1658746865",
+      "size": "139264",
+      "md5": "066932f8b55e2e13398c0000ae68c328",
+      "crc32": "086fb40c",
+      "sha1": "9e22fdb787f671ead29284e148f295b2a2e89b83",
       "format": "Metadata"
     },
     {
@@ -1018,9 +1070,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 97,
-  "item_last_updated": 1658710495,
-  "item_size": 7953840,
+  "files_count": 102,
+  "item_last_updated": 1658749951,
+  "item_size": 8262500,
   "metadata": {
     "identifier": "bulwarkonline-2022",
     "collection": [
@@ -1037,10 +1089,10 @@
     "publicdate": "2022-07-17 15:03:06",
     "addeddate": "2022-07-17 15:03:06"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1772849222,
+  "server": "ia601406.us.archive.org",
+  "uniq": 568591092,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }
