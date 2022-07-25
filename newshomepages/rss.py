@@ -145,6 +145,7 @@ def sites():
             fh.write(rss)
 
     # Create full feed
+    print("Creating RSS feed of latest 100 screenshots across all sites")
     final_list = []
     for file_ in screenshot_list[:100]:
         try:
@@ -162,7 +163,6 @@ def sites():
     # Write it out
     template = TEMPLATE_ENV.get_template("all.rss.tmpl")
     all_ = template.render(file_list=final_list, now=now)
-    click.echo("Writing out RSS feed of latest screenshots across all sites")
     with open(SITE_DIR / "all.xml", "w") as fh:
         fh.write(all_)
 
