@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 0 screenshots with the Internet Archive.
+The archiving routine has saved 1 screenshots with the Internet Archive.
 
 
 
@@ -28,3 +28,4 @@ The archiving routine has saved 0 screenshots with the Internet Archive.
 
 | Item  |
 | :---- |
+|[torrentfreak-2022](https://archive.org/details/torrentfreak-2022)|

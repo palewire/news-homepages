@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 176 screenshots with the Internet Archive.
+The archiving routine has saved 177 screenshots with the Internet Archive.
 
 
 <script src="https://cdn.jsdelivr.net/npm/vega@5.22.1"></script>
