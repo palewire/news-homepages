@@ -29,11 +29,8 @@ def latest_screenshots():
     site_list = sorted(utils.get_site_list(), key=lambda x: x["name"].lower())
     print(f":camera: Creating latest screenshots page with {len(site_list)} sites")
 
-    context = {
-        "site_list": site_list,
-    }
     template = TEMPLATE_ENV.get_template("latest.md.tmpl")
-    md = template.render(**context)
+    md = template.render(site_list=site_list)
 
     with open(PARENT_DIR / "docs" / "latest.md", "w") as fh:
         fh.write(md)
@@ -45,11 +42,8 @@ def source_list():
     site_list = sorted(utils.get_site_list(), key=lambda x: x["name"].lower())
     print(":basket: Creating site list page")
 
-    context = {
-        "site_list": site_list,
-    }
     template = TEMPLATE_ENV.get_template("sources.md.tmpl")
-    md = template.render(**context)
+    md = template.render(site_list=site_list)
 
     with open(PARENT_DIR / "docs" / "sources.md", "w") as fh:
         fh.write(md)
@@ -61,11 +55,8 @@ def bundle_list():
     bundle_list = sorted(utils.get_bundle_list(), key=lambda x: x["name"].lower())
     print(":basket: Creating bundle list page")
 
-    context = {
-        "bundle_list": bundle_list,
-    }
     template = TEMPLATE_ENV.get_template("bundles.md.tmpl")
-    md = template.render(**context)
+    md = template.render(bundle_list=bundle_list)
 
     with open(PARENT_DIR / "docs" / "bundles.md", "w") as fh:
         fh.write(md)
