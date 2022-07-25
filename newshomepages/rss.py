@@ -2,6 +2,7 @@ from datetime import datetime
 
 import click
 import jinja2
+import pandas as pd
 import pytz
 from rich import print
 from rich.progress import track
@@ -74,6 +75,8 @@ def bundles():
 @cli.command()
 def opml():
     """Create an OPML file with all site feeds."""
+    print(":newspaper: Creating file for sites")
+
     # Get a list of all sites
     site_list = utils.get_site_list()
 
@@ -82,7 +85,6 @@ def opml():
     opml = template.render(site_list=site_list)
 
     # Write it out
-    click.echo("Writing OPML file for sites")
     with open(RSS_DIR / "sites" / "opml.xml", "w") as fh:
         fh.write(opml)
 
@@ -95,6 +97,25 @@ def sites():
 
     # Get a list of all sites
     site_list = utils.get_site_list()
+    print(f":newspaper: Creating RSS for {len(site_list)} sites")
+
+    # Get all screenshots
+    screenshot_list = utils.get_screenshot_list()
+
+    # Convert into a big dataframe
+    site_df = pd.DataFrame(site_list)
+    screenshot_df = pd.DataFrame(screenshot_list)
+    merged_df = site_df.drop(["url"], axis=1).merge(
+        screenshot_df, on="handle", how="inner"
+    )
+    assert len(merged_df) == len(screenshot_df)
+
+    # Localize timestamps
+    def _localize(row):
+        site_tz = pytz.timezone(row["timezone"])
+        return row["mtime"].astimezone(site_tz)
+
+    merged_df["local_time"] = merged_df.apply(_localize, axis=1)
 
     # Set our output directory
     SITE_DIR = RSS_DIR / "sites"
@@ -103,25 +124,29 @@ def sites():
     template = TEMPLATE_ENV.get_template("site.rss.tmpl")
 
     # Loop through all sites
-    for site in site_list:
-        handle = site["handle"].lower()
-        click.echo(f"Building RSS for {handle}")
+    for site in track(site_list):
+        file_list = (
+            merged_df[merged_df.handle == site["handle"]]
+            .sort_values("mtime", ascending=False)
+            .head(25)
+            .to_dict("records")
+        )
 
         # Render the page
         rss = template.render(
             now=now,
             obj=site,
-            file_list=utils.get_screenshots_by_site(site)[:25],
+            file_list=file_list,
         )
 
         # Write it out
-        rss_path = SITE_DIR / f"{handle}.xml"
+        rss_path = SITE_DIR / f"{site['handle'].lower()}.xml"
         with open(rss_path, "w") as fh:
             fh.write(rss)
 
     # Create full feed
     final_list = []
-    for file_ in utils.get_screenshot_list()[:100]:
+    for file_ in screenshot_list[:100]:
         try:
             site = next(
                 s for s in site_list if s["handle"].lower() == file_["handle"].lower()

@@ -46,7 +46,7 @@ def get_site_list():
         site_list = list(site_reader)
 
     # Sort it alphabetically
-    sorted_list = sorted(site_list, key=lambda x: x["handle"].lower())
+    sorted_list = sorted(site_list, key=lambda x: x["handle"])
 
     # Split the bundles in a list
     for s in sorted_list:
