@@ -38,7 +38,7 @@ The archiving routine has saved 250 screenshots with the Internet Archive.
       "anchor": "start",
       "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
       "color": "#000000",
-      "fontSize": 20,
+      "fontSize": 18,
       "lineHeight": 26,
       "fontWeight": "bold",
       "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
