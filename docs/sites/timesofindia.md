@@ -18,7 +18,13 @@ orphan: true
 | Timezone       | Asia/Kolkata                                                                                                                              |
 | Bundles        | <a href="../bundles/india.html">India</a>  |
 
+## Screenshots
+
 The archiving routine has captured 2 screenshots stored at the Internet Archive.
+
+
+
+## Internet Archive
 
 | Item  |
 | :---- |

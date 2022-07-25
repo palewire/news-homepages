@@ -18,7 +18,13 @@ orphan: true
 | Timezone       | Asia/Kathmandu                                                                                                                              |
 | Bundles        | <a href="../bundles/nepal.html">Nepal</a>  |
 
+## Screenshots
+
 The archiving routine has captured 1 screenshots stored at the Internet Archive.
+
+
+
+## Internet Archive
 
 | Item  |
 | :---- |

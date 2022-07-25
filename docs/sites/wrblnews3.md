@@ -18,7 +18,13 @@ orphan: true
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        | <a href="../bundles/georgia.html">Georgia</a>  |
 
+## Screenshots
+
 The archiving routine has captured 5 screenshots stored at the Internet Archive.
+
+
+
+## Internet Archive
 
 | Item  |
 | :---- |

@@ -18,7 +18,13 @@ orphan: true
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        | <a href="../bundles/mississippi.html">Mississippi</a>  |
 
+## Screenshots
+
 The archiving routine has captured 6 screenshots stored at the Internet Archive.
+
+
+
+## Internet Archive
 
 | Item  |
 | :---- |

@@ -18,7 +18,13 @@ orphan: true
 | Timezone       | America/Los_Angeles                                                                                                                              |
 | Bundles        | <a href="../bundles/chess.html">Chess</a>  |
 
+## Screenshots
+
 The archiving routine has captured 11 screenshots stored at the Internet Archive.
+
+
+
+## Internet Archive
 
 | Item  |
 | :---- |

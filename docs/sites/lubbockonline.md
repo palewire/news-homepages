@@ -18,7 +18,13 @@ orphan: true
 | Timezone       | America/Chicago                                                                                                                              |
 | Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
+## Screenshots
+
 The archiving routine has captured 13 screenshots stored at the Internet Archive.
+
+
+
+## Internet Archive
 
 | Item  |
 | :---- |

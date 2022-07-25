@@ -18,7 +18,13 @@ orphan: true
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        | <a href="../bundles/us-right-wing.html">U.S. right wing</a>  |
 
+## Screenshots
+
 The archiving routine has captured 21 screenshots stored at the Internet Archive.
+
+
+
+## Internet Archive
 
 | Item  |
 | :---- |

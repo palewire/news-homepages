@@ -18,7 +18,13 @@ orphan: true
 | Timezone       | Europe/Moscow                                                                                                                              |
 | Bundles        | <a href="../bundles/russia.html">Russia</a>  |
 
+## Screenshots
+
 The archiving routine has captured 26 screenshots stored at the Internet Archive.
+
+
+
+## Internet Archive
 
 | Item  |
 | :---- |

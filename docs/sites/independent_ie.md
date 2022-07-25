@@ -18,7 +18,13 @@ orphan: true
 | Timezone       | Europe/Dublin                                                                                                                              |
 | Bundles        | <a href="../bundles/ireland.html">Ireland</a>  |
 
+## Screenshots
+
 The archiving routine has captured 14 screenshots stored at the Internet Archive.
+
+
+
+## Internet Archive
 
 | Item  |
 | :---- |
