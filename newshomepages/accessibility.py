@@ -3,6 +3,7 @@ import typing
 from pathlib import Path
 
 import click
+from rich import print
 
 from . import utils
 
@@ -37,7 +38,7 @@ def _get_accessibility(data: dict, output_dir: str):
     javascript = utils.get_javascript(data["handle"])
     if javascript:
         command_list.extend(["--javascript", javascript])
-    click.echo(f"Parsing {data['url']}")
+    print(f"Fetching a11y tree from {data['url']}")
     subprocess.run(command_list)
 
 
