@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 601 news sites.
+The most recent homepages captured from 611 news sites.
 
 <div class="latest-parent">
 
@@ -104,6 +104,15 @@ The most recent homepages captured from 601 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/the74.html">74th</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/9to5mac.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/9to5mac.jpg"
+     alt="9to5Mac"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/9to5mac.html">9to5Mac</a></p>
 </div>
 
 <div class="latest-child">
@@ -692,6 +701,24 @@ The most recent homepages captured from 601 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/bleepincomputer.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bleepincomputer.jpg"
+     alt="BleepingComputer"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/bleepincomputer.html">BleepingComputer</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theblock__.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theblock__.jpg"
+     alt="Block"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/theblock__.html">Block</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/blockclubchi.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/blockclubchi.jpg"
      alt="Block Club Chicago"
@@ -1139,6 +1166,15 @@ The most recent homepages captured from 601 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/cnn.html">CNN</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/coindesk.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/coindesk.jpg"
+     alt="CoinDesk"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/coindesk.html">CoinDesk</a></p>
 </div>
 
 <div class="latest-child">
@@ -2960,6 +2996,15 @@ The most recent homepages captured from 601 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/macrumors.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/macrumors.jpg"
+     alt="MacRumors"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/macrumors.html">MacRumors</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/marfaradio.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/marfaradio.jpg"
      alt="Marfa Public Radio"
@@ -3119,6 +3164,15 @@ The most recent homepages captured from 601 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/mo_independent.html">Missouri Independent</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/techreview.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/techreview.jpg"
+     alt="MIT Technology Review"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/techreview.html">MIT Technology Review</a></p>
 </div>
 
 <div class="latest-child">
@@ -3770,6 +3824,15 @@ The most recent homepages captured from 601 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/platformer.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/platformer.jpg"
+     alt="Platformer"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/platformer.html">Platformer</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/pointreyeslight.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pointreyeslight.jpg"
      alt="Point Reyes Light"
@@ -3983,6 +4046,15 @@ The most recent homepages captured from 601 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/redstate.html">RedState</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/restofworld.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/restofworld.jpg"
+     alt="Rest of World"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/restofworld.html">Rest of World</a></p>
 </div>
 
 <div class="latest-child">
@@ -4859,6 +4931,15 @@ The most recent homepages captured from 601 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/torrentfreak.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/torrentfreak.jpg"
+     alt="TorrentFreak"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/torrentfreak.html">TorrentFreak</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/townhallcom.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/townhallcom.jpg"
      alt="Townhall"
@@ -5252,6 +5333,15 @@ The most recent homepages captured from 601 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/whyynews.html">WHYY</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/windowscentral.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/windowscentral.jpg"
+     alt="Windows Central"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/windowscentral.html">Windows Central</a></p>
 </div>
 
 <div class="latest-child">
