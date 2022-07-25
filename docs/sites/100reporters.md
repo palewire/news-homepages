@@ -22,11 +22,6 @@ orphan: true
 
 The archiving routine has saved 34 screenshots with the Internet Archive.
 
-
-<script src="https://cdn.jsdelivr.net/npm/vega@5.22.1"></script>
-<script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
-<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.20.8"></script>
-
   <div id="vis" style="width: 100%; height: 250px;" />
   <script>
     const spec = {

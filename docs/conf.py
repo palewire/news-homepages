@@ -45,5 +45,10 @@ html_static_path = ["_static"]
 html_css_files = [
     "css/custom.css",
 ]
+html_js_files = [
+    "https://cdn.jsdelivr.net/npm/vega@5.22.1",
+    "https://cdn.jsdelivr.net/npm/vega-lite@5.2.0",
+    "https://cdn.jsdelivr.net/npm/vega-embed@6.20.8",
+]
 
 pygments_style = "sphinx"
