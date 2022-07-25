@@ -107,6 +107,120 @@ The archiving routine has saved 307 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thesun-2022/thesun-2022-07-25T10:09:33.682989+01:00.jpg">
+  <img src="https://archive.org/download/thesun-2022/thesun-2022-07-25T10:09:33.682989+01:00.jpg"
+     alt="The Sun at 2022-07-25 17:09:35+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thesun-2022/thesun-2022-07-25T10:09:33.682989+01:00.jpg">Jul 25 at 5:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thesun-2022/thesun-2022-07-25T05:37:57.669963+01:00.jpg">
+  <img src="https://archive.org/download/thesun-2022/thesun-2022-07-25T05:37:57.669963+01:00.jpg"
+     alt="The Sun at 2022-07-25 12:37:59+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thesun-2022/thesun-2022-07-25T05:37:57.669963+01:00.jpg">Jul 25 at 12:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thesun-2022/thesun-2022-07-24T16:07:30.712487+01:00.jpg">
+  <img src="https://archive.org/download/thesun-2022/thesun-2022-07-24T16:07:30.712487+01:00.jpg"
+     alt="The Sun at 2022-07-24 23:07:37+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thesun-2022/thesun-2022-07-24T16:07:30.712487+01:00.jpg">Jul 24 at 11:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thesun-2022/thesun-2022-07-24T10:10:02.152035+01:00.jpg">
+  <img src="https://archive.org/download/thesun-2022/thesun-2022-07-24T10:10:02.152035+01:00.jpg"
+     alt="The Sun at 2022-07-24 17:10:04+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thesun-2022/thesun-2022-07-24T10:10:02.152035+01:00.jpg">Jul 24 at 5:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thesun-2022/thesun-2022-07-24T04:42:57.010896+01:00.jpg">
+  <img src="https://archive.org/download/thesun-2022/thesun-2022-07-24T04:42:57.010896+01:00.jpg"
+     alt="The Sun at 2022-07-24 11:43:04+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thesun-2022/thesun-2022-07-24T04:42:57.010896+01:00.jpg">Jul 24 at 11:43 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thesun-2022/thesun-2022-07-23T17:06:36.365940+01:00.jpg">
+  <img src="https://archive.org/download/thesun-2022/thesun-2022-07-23T17:06:36.365940+01:00.jpg"
+     alt="The Sun at 2022-07-24 00:06:42+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thesun-2022/thesun-2022-07-23T17:06:36.365940+01:00.jpg">Jul 24 at 12:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thesun-2022/thesun-2022-07-23T10:06:20.446511+01:00.jpg">
+  <img src="https://archive.org/download/thesun-2022/thesun-2022-07-23T10:06:20.446511+01:00.jpg"
+     alt="The Sun at 2022-07-23 17:06:23+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thesun-2022/thesun-2022-07-23T10:06:20.446511+01:00.jpg">Jul 23 at 5:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thesun-2022/thesun-2022-07-23T05:25:57.825065+01:00.jpg">
+  <img src="https://archive.org/download/thesun-2022/thesun-2022-07-23T05:25:57.825065+01:00.jpg"
+     alt="The Sun at 2022-07-23 12:26:04+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thesun-2022/thesun-2022-07-23T05:25:57.825065+01:00.jpg">Jul 23 at 12:26 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thesun-2022/thesun-2022-07-22T17:19:09.581770+01:00.jpg">
+  <img src="https://archive.org/download/thesun-2022/thesun-2022-07-22T17:19:09.581770+01:00.jpg"
+     alt="The Sun at 2022-07-23 00:19:11+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thesun-2022/thesun-2022-07-22T17:19:09.581770+01:00.jpg">Jul 23 at 12:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thesun-2022/thesun-2022-07-22T10:07:03.316653+01:00.jpg">
+  <img src="https://archive.org/download/thesun-2022/thesun-2022-07-22T10:07:03.316653+01:00.jpg"
+     alt="The Sun at 2022-07-22 17:07:05+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thesun-2022/thesun-2022-07-22T10:07:03.316653+01:00.jpg">Jul 22 at 5:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thesun-2022/thesun-2022-07-22T05:32:21.972770+01:00.jpg">
+  <img src="https://archive.org/download/thesun-2022/thesun-2022-07-22T05:32:21.972770+01:00.jpg"
+     alt="The Sun at 2022-07-22 12:32:23+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thesun-2022/thesun-2022-07-22T05:32:21.972770+01:00.jpg">Jul 22 at 12:32 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thesun-2022/thesun-2022-07-21T17:55:57.976299+01:00.jpg">
+  <img src="https://archive.org/download/thesun-2022/thesun-2022-07-21T17:55:57.976299+01:00.jpg"
+     alt="The Sun at 2022-07-22 00:56:00+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thesun-2022/thesun-2022-07-21T17:55:57.976299+01:00.jpg">Jul 22 at 12:56 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

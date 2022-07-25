@@ -107,6 +107,120 @@ The archiving routine has saved 208 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T07:00:04.985571-04:00.jpg">
+  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T07:00:04.985571-04:00.jpg"
+     alt="Bongino Report at 2022-07-25 14:00:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T07:00:04.985571-04:00.jpg">Jul 25 at 2:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T20:51:58.399075-04:00.jpg">
+  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T20:51:58.399075-04:00.jpg"
+     alt="Bongino Report at 2022-07-25 03:52:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T20:51:58.399075-04:00.jpg">Jul 25 at 3:52 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T11:43:46.530251-04:00.jpg">
+  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T11:43:46.530251-04:00.jpg"
+     alt="Bongino Report at 2022-07-24 18:43:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T11:43:46.530251-04:00.jpg">Jul 24 at 6:43 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T06:59:21.065733-04:00.jpg">
+  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T06:59:21.065733-04:00.jpg"
+     alt="Bongino Report at 2022-07-24 13:59:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T06:59:21.065733-04:00.jpg">Jul 24 at 1:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T19:01:26.867831-04:00.jpg">
+  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T19:01:26.867831-04:00.jpg"
+     alt="Bongino Report at 2022-07-24 02:01:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T19:01:26.867831-04:00.jpg">Jul 24 at 2:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T12:10:36.420917-04:00.jpg">
+  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T12:10:36.420917-04:00.jpg"
+     alt="Bongino Report at 2022-07-23 19:10:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T12:10:36.420917-04:00.jpg">Jul 23 at 7:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T08:58:37.730788-04:00.jpg">
+  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T08:58:37.730788-04:00.jpg"
+     alt="Bongino Report at 2022-07-23 15:58:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T08:58:37.730788-04:00.jpg">Jul 23 at 3:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T20:58:57.046052-04:00.jpg">
+  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T20:58:57.046052-04:00.jpg"
+     alt="Bongino Report at 2022-07-23 03:58:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T20:58:57.046052-04:00.jpg">Jul 23 at 3:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T12:24:41.533460-04:00.jpg">
+  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T12:24:41.533460-04:00.jpg"
+     alt="Bongino Report at 2022-07-22 19:24:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T12:24:41.533460-04:00.jpg">Jul 22 at 7:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T08:58:57.528595-04:00.jpg">
+  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T08:58:57.528595-04:00.jpg"
+     alt="Bongino Report at 2022-07-22 15:58:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T08:58:57.528595-04:00.jpg">Jul 22 at 3:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-21T21:06:48.048340-04:00.jpg">
+  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-21T21:06:48.048340-04:00.jpg"
+     alt="Bongino Report at 2022-07-22 04:06:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-21T21:06:48.048340-04:00.jpg">Jul 22 at 4:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-21T13:02:12.116556-04:00.jpg">
+  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-21T13:02:12.116556-04:00.jpg"
+     alt="Bongino Report at 2022-07-21 20:02:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-21T13:02:12.116556-04:00.jpg">Jul 21 at 8:02 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

@@ -107,6 +107,120 @@ The archiving routine has saved 111 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T20:32:47.348368-07:00.jpg">
+  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T20:32:47.348368-07:00.jpg"
+     alt="Mother Jones at 2022-07-25 03:32:48-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T20:32:47.348368-07:00.jpg">Jul 25 at 3:32 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T08:42:48.686521-07:00.jpg">
+  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T08:42:48.686521-07:00.jpg"
+     alt="Mother Jones at 2022-07-24 15:42:50-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T08:42:48.686521-07:00.jpg">Jul 24 at 3:42 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T06:04:19.875091-07:00.jpg">
+  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T06:04:19.875091-07:00.jpg"
+     alt="Mother Jones at 2022-07-24 13:04:20-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T06:04:19.875091-07:00.jpg">Jul 24 at 1:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-23T21:18:56.455970-07:00.jpg">
+  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-23T21:18:56.455970-07:00.jpg"
+     alt="Mother Jones at 2022-07-24 04:19:00-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-23T21:18:56.455970-07:00.jpg">Jul 24 at 4:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-23T11:13:09.056616-07:00.jpg">
+  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-23T11:13:09.056616-07:00.jpg"
+     alt="Mother Jones at 2022-07-23 18:13:10-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-23T11:13:09.056616-07:00.jpg">Jul 23 at 6:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-23T08:01:55.897596-07:00.jpg">
+  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-23T08:01:55.897596-07:00.jpg"
+     alt="Mother Jones at 2022-07-23 15:01:59-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-23T08:01:55.897596-07:00.jpg">Jul 23 at 3:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-22T09:12:09.859231-07:00.jpg">
+  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-22T09:12:09.859231-07:00.jpg"
+     alt="Mother Jones at 2022-07-22 16:12:11-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-22T09:12:09.859231-07:00.jpg">Jul 22 at 4:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-22T07:57:26.305889-07:00.jpg">
+  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-22T07:57:26.305889-07:00.jpg"
+     alt="Mother Jones at 2022-07-22 14:57:31-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-22T07:57:26.305889-07:00.jpg">Jul 22 at 2:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-21T20:36:00.077210-07:00.jpg">
+  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-21T20:36:00.077210-07:00.jpg"
+     alt="Mother Jones at 2022-07-22 03:36:01-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-21T20:36:00.077210-07:00.jpg">Jul 22 at 3:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-21T09:50:07.233970-07:00.jpg">
+  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-21T09:50:07.233970-07:00.jpg"
+     alt="Mother Jones at 2022-07-21 16:50:09-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-21T09:50:07.233970-07:00.jpg">Jul 21 at 4:50 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-21T08:30:36.155719-07:00.jpg">
+  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-21T08:30:36.155719-07:00.jpg"
+     alt="Mother Jones at 2022-07-21 15:30:37-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-21T08:30:36.155719-07:00.jpg">Jul 21 at 3:30 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-20T20:34:33.864256-07:00.jpg">
+  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-20T20:34:33.864256-07:00.jpg"
+     alt="Mother Jones at 2022-07-21 03:34:38-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-20T20:34:33.864256-07:00.jpg">Jul 21 at 3:34 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

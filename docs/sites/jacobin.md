@@ -107,6 +107,120 @@ The archiving routine has saved 49 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-24T23:23:55.116947-04:00.jpg">
+  <img src="https://archive.org/download/jacobin-2022/jacobin-2022-07-24T23:23:55.116947-04:00.jpg"
+     alt="Jacobin at 2022-07-25 06:24:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-24T23:23:55.116947-04:00.jpg">Jul 25 at 6:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-24T11:42:21.731522-04:00.jpg">
+  <img src="https://archive.org/download/jacobin-2022/jacobin-2022-07-24T11:42:21.731522-04:00.jpg"
+     alt="Jacobin at 2022-07-24 18:42:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-24T11:42:21.731522-04:00.jpg">Jul 24 at 6:42 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-24T08:58:41.710457-04:00.jpg">
+  <img src="https://archive.org/download/jacobin-2022/jacobin-2022-07-24T08:58:41.710457-04:00.jpg"
+     alt="Jacobin at 2022-07-24 15:58:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-24T08:58:41.710457-04:00.jpg">Jul 24 at 3:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-24T00:13:45.011752-04:00.jpg">
+  <img src="https://archive.org/download/jacobin-2022/jacobin-2022-07-24T00:13:45.011752-04:00.jpg"
+     alt="Jacobin at 2022-07-24 07:13:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-24T00:13:45.011752-04:00.jpg">Jul 24 at 7:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-23T14:12:31.810402-04:00.jpg">
+  <img src="https://archive.org/download/jacobin-2022/jacobin-2022-07-23T14:12:31.810402-04:00.jpg"
+     alt="Jacobin at 2022-07-23 21:12:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-23T14:12:31.810402-04:00.jpg">Jul 23 at 9:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-23T10:04:15.644902-04:00.jpg">
+  <img src="https://archive.org/download/jacobin-2022/jacobin-2022-07-23T10:04:15.644902-04:00.jpg"
+     alt="Jacobin at 2022-07-23 17:04:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-23T10:04:15.644902-04:00.jpg">Jul 23 at 5:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-22T22:29:47.056032-04:00.jpg">
+  <img src="https://archive.org/download/jacobin-2022/jacobin-2022-07-22T22:29:47.056032-04:00.jpg"
+     alt="Jacobin at 2022-07-23 05:29:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-22T22:29:47.056032-04:00.jpg">Jul 23 at 5:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-22T12:11:59.407646-04:00.jpg">
+  <img src="https://archive.org/download/jacobin-2022/jacobin-2022-07-22T12:11:59.407646-04:00.jpg"
+     alt="Jacobin at 2022-07-22 19:12:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-22T12:11:59.407646-04:00.jpg">Jul 22 at 7:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-22T10:04:30.888084-04:00.jpg">
+  <img src="https://archive.org/download/jacobin-2022/jacobin-2022-07-22T10:04:30.888084-04:00.jpg"
+     alt="Jacobin at 2022-07-22 17:04:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-22T10:04:30.888084-04:00.jpg">Jul 22 at 5:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-21T22:24:05.341230-04:00.jpg">
+  <img src="https://archive.org/download/jacobin-2022/jacobin-2022-07-21T22:24:05.341230-04:00.jpg"
+     alt="Jacobin at 2022-07-22 05:24:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-21T22:24:05.341230-04:00.jpg">Jul 22 at 5:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-21T12:49:51.800085-04:00.jpg">
+  <img src="https://archive.org/download/jacobin-2022/jacobin-2022-07-21T12:49:51.800085-04:00.jpg"
+     alt="Jacobin at 2022-07-21 19:49:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-21T12:49:51.800085-04:00.jpg">Jul 21 at 7:49 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-21T10:13:19.639027-04:00.jpg">
+  <img src="https://archive.org/download/jacobin-2022/jacobin-2022-07-21T10:13:19.639027-04:00.jpg"
+     alt="Jacobin at 2022-07-21 17:13:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-21T10:13:19.639027-04:00.jpg">Jul 21 at 5:13 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

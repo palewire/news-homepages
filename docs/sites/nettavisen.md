@@ -24,6 +24,111 @@ The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-25T05:35:46.233942+02:00.jpg">
+  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-25T05:35:46.233942+02:00.jpg"
+     alt="Nettavisen at 2022-07-25 12:35:47+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-25T05:35:46.233942+02:00.jpg">Jul 25 at 12:35 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-24T15:04:54.619366+02:00.jpg">
+  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-24T15:04:54.619366+02:00.jpg"
+     alt="Nettavisen at 2022-07-24 22:04:55+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-24T15:04:54.619366+02:00.jpg">Jul 24 at 10:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-24T06:20:03.380219+02:00.jpg">
+  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-24T06:20:03.380219+02:00.jpg"
+     alt="Nettavisen at 2022-07-24 13:20:06+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-24T06:20:03.380219+02:00.jpg">Jul 24 at 1:20 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-23T17:03:16.242133+02:00.jpg">
+  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-23T17:03:16.242133+02:00.jpg"
+     alt="Nettavisen at 2022-07-24 00:03:17+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-23T17:03:16.242133+02:00.jpg">Jul 24 at 12:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-23T05:33:12.443853+02:00.jpg">
+  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-23T05:33:12.443853+02:00.jpg"
+     alt="Nettavisen at 2022-07-23 12:33:14+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-23T05:33:12.443853+02:00.jpg">Jul 23 at 12:33 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-22T16:58:45.950496+02:00.jpg">
+  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-22T16:58:45.950496+02:00.jpg"
+     alt="Nettavisen at 2022-07-22 23:58:47+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-22T16:58:45.950496+02:00.jpg">Jul 22 at 11:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-22T05:37:23.172128+02:00.jpg">
+  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-22T05:37:23.172128+02:00.jpg"
+     alt="Nettavisen at 2022-07-22 12:37:25+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-22T05:37:23.172128+02:00.jpg">Jul 22 at 12:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-21T17:32:31.394019+02:00.jpg">
+  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-21T17:32:31.394019+02:00.jpg"
+     alt="Nettavisen at 2022-07-22 00:32:33+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-21T17:32:31.394019+02:00.jpg">Jul 22 at 12:32 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-21T05:35:47.639447+02:00.jpg">
+  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-21T05:35:47.639447+02:00.jpg"
+     alt="Nettavisen at 2022-07-21 12:35:49+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-21T05:35:47.639447+02:00.jpg">Jul 21 at 12:35 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-20T18:10:20.116708+02:00.jpg">
+  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-20T18:10:20.116708+02:00.jpg"
+     alt="Nettavisen at 2022-07-21 01:10:21+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-20T18:10:20.116708+02:00.jpg">Jul 21 at 1:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-20T13:37:00.123722+02:00.jpg">
+  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-20T13:37:00.123722+02:00.jpg"
+     alt="Nettavisen at 2022-07-20 20:37:05+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-20T13:37:00.123722+02:00.jpg">Jul 20 at 8:37 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

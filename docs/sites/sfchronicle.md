@@ -107,6 +107,120 @@ The archiving routine has saved 216 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-24T20:43:06.517047-07:00.jpg">
+  <img src="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-24T20:43:06.517047-07:00.jpg"
+     alt="San Francisco Chronicle at 2022-07-25 03:43:18-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-24T20:43:06.517047-07:00.jpg">Jul 25 at 3:43 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-24T07:04:30.061544-07:00.jpg">
+  <img src="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-24T07:04:30.061544-07:00.jpg"
+     alt="San Francisco Chronicle at 2022-07-24 14:04:31-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-24T07:04:30.061544-07:00.jpg">Jul 24 at 2:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-23T09:01:49.689729-07:00.jpg">
+  <img src="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-23T09:01:49.689729-07:00.jpg"
+     alt="San Francisco Chronicle at 2022-07-23 16:01:54-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-23T09:01:49.689729-07:00.jpg">Jul 23 at 4:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-22T09:14:18.102936-07:00.jpg">
+  <img src="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-22T09:14:18.102936-07:00.jpg"
+     alt="San Francisco Chronicle at 2022-07-22 16:14:30-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-22T09:14:18.102936-07:00.jpg">Jul 22 at 4:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-21T21:28:06.631769-07:00.jpg">
+  <img src="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-21T21:28:06.631769-07:00.jpg"
+     alt="San Francisco Chronicle at 2022-07-22 04:28:08-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-21T21:28:06.631769-07:00.jpg">Jul 22 at 4:28 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-21T09:51:44.974936-07:00.jpg">
+  <img src="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-21T09:51:44.974936-07:00.jpg"
+     alt="San Francisco Chronicle at 2022-07-21 16:51:46-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-21T09:51:44.974936-07:00.jpg">Jul 21 at 4:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-20T21:26:45.944016-07:00.jpg">
+  <img src="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-20T21:26:45.944016-07:00.jpg"
+     alt="San Francisco Chronicle at 2022-07-21 04:26:55-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-20T21:26:45.944016-07:00.jpg">Jul 21 at 4:26 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-20T09:42:27.259414-07:00.jpg">
+  <img src="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-20T09:42:27.259414-07:00.jpg"
+     alt="San Francisco Chronicle at 2022-07-20 16:42:35-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-20T09:42:27.259414-07:00.jpg">Jul 20 at 4:42 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-19T21:18:28.770835-07:00.jpg">
+  <img src="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-19T21:18:28.770835-07:00.jpg"
+     alt="San Francisco Chronicle at 2022-07-20 04:18:30-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-19T21:18:28.770835-07:00.jpg">Jul 20 at 4:18 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-19T09:57:37.003772-07:00.jpg">
+  <img src="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-19T09:57:37.003772-07:00.jpg"
+     alt="San Francisco Chronicle at 2022-07-19 16:57:38-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-19T09:57:37.003772-07:00.jpg">Jul 19 at 4:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-18T21:23:11.384260-07:00.jpg">
+  <img src="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-18T21:23:11.384260-07:00.jpg"
+     alt="San Francisco Chronicle at 2022-07-19 04:23:19-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-18T21:23:11.384260-07:00.jpg">Jul 19 at 4:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-18T11:02:50.007421-07:00.jpg">
+  <img src="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-18T11:02:50.007421-07:00.jpg"
+     alt="San Francisco Chronicle at 2022-07-18 18:02:56-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-18T11:02:50.007421-07:00.jpg">Jul 18 at 6:02 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

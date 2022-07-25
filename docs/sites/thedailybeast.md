@@ -24,6 +24,48 @@ The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-25T00:37:03.522499-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-25T00:37:03.522499-04:00.jpg"
+     alt="Daily Beast at 2022-07-25 07:37:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-25T00:37:03.522499-04:00.jpg">Jul 25 at 7:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-24T11:06:25.876609-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-24T11:06:25.876609-04:00.jpg"
+     alt="Daily Beast at 2022-07-24 18:06:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-24T11:06:25.876609-04:00.jpg">Jul 24 at 6:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-23T23:41:05.582559-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-23T23:41:05.582559-04:00.jpg"
+     alt="Daily Beast at 2022-07-24 06:41:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-23T23:41:05.582559-04:00.jpg">Jul 24 at 6:41 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-23T12:04:08.647297-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-23T12:04:08.647297-04:00.jpg"
+     alt="Daily Beast at 2022-07-23 19:04:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-23T12:04:08.647297-04:00.jpg">Jul 23 at 7:04 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

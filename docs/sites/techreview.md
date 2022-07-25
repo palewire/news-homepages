@@ -24,6 +24,21 @@ The archiving routine has saved 1 screenshots with the Internet Archive.
 
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techreview-2022/techreview-2022-07-25T02:46:50.717534-04:00.jpg">
+  <img src="https://archive.org/download/techreview-2022/techreview-2022-07-25T02:46:50.717534-04:00.jpg"
+     alt="MIT Technology Review at 2022-07-25 09:46:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techreview-2022/techreview-2022-07-25T02:46:50.717534-04:00.jpg">Jul 25 at 9:46 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

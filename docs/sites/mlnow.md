@@ -107,6 +107,120 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-24T20:33:05.789278-07:00.jpg">
+  <img src="https://archive.org/download/mlnow-2022/mlnow-2022-07-24T20:33:05.789278-07:00.jpg"
+     alt="Mission Local at 2022-07-25 03:33:07-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-24T20:33:05.789278-07:00.jpg">Jul 25 at 3:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-24T06:02:46.401886-07:00.jpg">
+  <img src="https://archive.org/download/mlnow-2022/mlnow-2022-07-24T06:02:46.401886-07:00.jpg"
+     alt="Mission Local at 2022-07-24 13:02:47-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-24T06:02:46.401886-07:00.jpg">Jul 24 at 1:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-23T21:19:03.767912-07:00.jpg">
+  <img src="https://archive.org/download/mlnow-2022/mlnow-2022-07-23T21:19:03.767912-07:00.jpg"
+     alt="Mission Local at 2022-07-24 04:19:05-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-23T21:19:03.767912-07:00.jpg">Jul 24 at 4:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-23T08:01:42.264342-07:00.jpg">
+  <img src="https://archive.org/download/mlnow-2022/mlnow-2022-07-23T08:01:42.264342-07:00.jpg"
+     alt="Mission Local at 2022-07-23 15:01:44-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-23T08:01:42.264342-07:00.jpg">Jul 23 at 3:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-22T20:31:52.170309-07:00.jpg">
+  <img src="https://archive.org/download/mlnow-2022/mlnow-2022-07-22T20:31:52.170309-07:00.jpg"
+     alt="Mission Local at 2022-07-23 03:31:53-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-22T20:31:52.170309-07:00.jpg">Jul 23 at 3:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-22T07:57:22.112702-07:00.jpg">
+  <img src="https://archive.org/download/mlnow-2022/mlnow-2022-07-22T07:57:22.112702-07:00.jpg"
+     alt="Mission Local at 2022-07-22 14:57:25-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-22T07:57:22.112702-07:00.jpg">Jul 22 at 2:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-21T20:35:58.202157-07:00.jpg">
+  <img src="https://archive.org/download/mlnow-2022/mlnow-2022-07-21T20:35:58.202157-07:00.jpg"
+     alt="Mission Local at 2022-07-22 03:36:02-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-21T20:35:58.202157-07:00.jpg">Jul 22 at 3:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-21T08:34:53.131871-07:00.jpg">
+  <img src="https://archive.org/download/mlnow-2022/mlnow-2022-07-21T08:34:53.131871-07:00.jpg"
+     alt="Mission Local at 2022-07-21 15:34:55-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-21T08:34:53.131871-07:00.jpg">Jul 21 at 3:34 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-20T20:34:44.161435-07:00.jpg">
+  <img src="https://archive.org/download/mlnow-2022/mlnow-2022-07-20T20:34:44.161435-07:00.jpg"
+     alt="Mission Local at 2022-07-21 03:34:45-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-20T20:34:44.161435-07:00.jpg">Jul 21 at 3:34 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-20T09:07:35.180206-07:00.jpg">
+  <img src="https://archive.org/download/mlnow-2022/mlnow-2022-07-20T09:07:35.180206-07:00.jpg"
+     alt="Mission Local at 2022-07-20 16:07:37-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-20T09:07:35.180206-07:00.jpg">Jul 20 at 4:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-19T20:32:34.038617-07:00.jpg">
+  <img src="https://archive.org/download/mlnow-2022/mlnow-2022-07-19T20:32:34.038617-07:00.jpg"
+     alt="Mission Local at 2022-07-20 03:32:35-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-19T20:32:34.038617-07:00.jpg">Jul 20 at 3:32 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-19T08:42:24.463494-07:00.jpg">
+  <img src="https://archive.org/download/mlnow-2022/mlnow-2022-07-19T08:42:24.463494-07:00.jpg"
+     alt="Mission Local at 2022-07-19 15:42:26-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-19T08:42:24.463494-07:00.jpg">Jul 19 at 3:42 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

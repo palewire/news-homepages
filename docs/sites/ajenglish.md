@@ -107,6 +107,120 @@ The archiving routine has saved 79 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T13:56:43.173087+03:00.jpg">
+  <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T13:56:43.173087+03:00.jpg"
+     alt="Al Jazeera English at 2022-07-25 20:56:46+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T13:56:43.173087+03:00.jpg">Jul 25 at 8:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T03:46:02.941732+03:00.jpg">
+  <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T03:46:02.941732+03:00.jpg"
+     alt="Al Jazeera English at 2022-07-25 10:46:06+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T03:46:02.941732+03:00.jpg">Jul 25 at 10:46 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T13:56:38.053565+03:00.jpg">
+  <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T13:56:38.053565+03:00.jpg"
+     alt="Al Jazeera English at 2022-07-24 20:56:40+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T13:56:38.053565+03:00.jpg">Jul 24 at 8:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T01:57:58.084262+03:00.jpg">
+  <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T01:57:58.084262+03:00.jpg"
+     alt="Al Jazeera English at 2022-07-24 08:58:04+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T01:57:58.084262+03:00.jpg">Jul 24 at 8:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T15:54:18.108788+03:00.jpg">
+  <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T15:54:18.108788+03:00.jpg"
+     alt="Al Jazeera English at 2022-07-23 22:54:19+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T15:54:18.108788+03:00.jpg">Jul 23 at 10:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T03:55:39.852142+03:00.jpg">
+  <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T03:55:39.852142+03:00.jpg"
+     alt="Al Jazeera English at 2022-07-23 10:55:42+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T03:55:39.852142+03:00.jpg">Jul 23 at 10:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-22T15:54:31.999663+03:00.jpg">
+  <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-22T15:54:31.999663+03:00.jpg"
+     alt="Al Jazeera English at 2022-07-22 22:54:33+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-22T15:54:31.999663+03:00.jpg">Jul 22 at 10:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-22T04:02:46.324335+03:00.jpg">
+  <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-22T04:02:46.324335+03:00.jpg"
+     alt="Al Jazeera English at 2022-07-22 11:02:48+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-22T04:02:46.324335+03:00.jpg">Jul 22 at 11:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-21T15:49:28.314341+03:00.jpg">
+  <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-21T15:49:28.314341+03:00.jpg"
+     alt="Al Jazeera English at 2022-07-21 22:49:30+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-21T15:49:28.314341+03:00.jpg">Jul 21 at 10:49 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-21T04:02:27.860891+03:00.jpg">
+  <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-21T04:02:27.860891+03:00.jpg"
+     alt="Al Jazeera English at 2022-07-21 11:02:30+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-21T04:02:27.860891+03:00.jpg">Jul 21 at 11:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-20T15:50:24.943326+03:00.jpg">
+  <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-20T15:50:24.943326+03:00.jpg"
+     alt="Al Jazeera English at 2022-07-20 22:50:26+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-20T15:50:24.943326+03:00.jpg">Jul 20 at 10:50 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-20T03:57:56.480657+03:00.jpg">
+  <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-20T03:57:56.480657+03:00.jpg"
+     alt="Al Jazeera English at 2022-07-20 10:57:57+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-20T03:57:56.480657+03:00.jpg">Jul 20 at 10:57 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

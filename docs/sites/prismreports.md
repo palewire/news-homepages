@@ -107,6 +107,120 @@ The archiving routine has saved 33 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-24T20:40:13.871407-07:00.jpg">
+  <img src="https://archive.org/download/prismreports-2022/prismreports-2022-07-24T20:40:13.871407-07:00.jpg"
+     alt="Prism at 2022-07-25 03:40:15-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-24T20:40:13.871407-07:00.jpg">Jul 25 at 3:40 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-24T07:00:53.686784-07:00.jpg">
+  <img src="https://archive.org/download/prismreports-2022/prismreports-2022-07-24T07:00:53.686784-07:00.jpg"
+     alt="Prism at 2022-07-24 14:00:55-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-24T07:00:53.686784-07:00.jpg">Jul 24 at 2:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-23T23:20:07.816644-07:00.jpg">
+  <img src="https://archive.org/download/prismreports-2022/prismreports-2022-07-23T23:20:07.816644-07:00.jpg"
+     alt="Prism at 2022-07-24 06:20:10-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-23T23:20:07.816644-07:00.jpg">Jul 24 at 6:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-23T08:07:13.137508-07:00.jpg">
+  <img src="https://archive.org/download/prismreports-2022/prismreports-2022-07-23T08:07:13.137508-07:00.jpg"
+     alt="Prism at 2022-07-23 15:07:14-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-23T08:07:13.137508-07:00.jpg">Jul 23 at 3:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-22T20:36:47.686879-07:00.jpg">
+  <img src="https://archive.org/download/prismreports-2022/prismreports-2022-07-22T20:36:47.686879-07:00.jpg"
+     alt="Prism at 2022-07-23 03:36:49-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-22T20:36:47.686879-07:00.jpg">Jul 23 at 3:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-22T08:02:40.458238-07:00.jpg">
+  <img src="https://archive.org/download/prismreports-2022/prismreports-2022-07-22T08:02:40.458238-07:00.jpg"
+     alt="Prism at 2022-07-22 15:02:43-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-22T08:02:40.458238-07:00.jpg">Jul 22 at 3:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-21T20:41:46.737129-07:00.jpg">
+  <img src="https://archive.org/download/prismreports-2022/prismreports-2022-07-21T20:41:46.737129-07:00.jpg"
+     alt="Prism at 2022-07-22 03:41:49-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-21T20:41:46.737129-07:00.jpg">Jul 22 at 3:41 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-21T08:37:31.172213-07:00.jpg">
+  <img src="https://archive.org/download/prismreports-2022/prismreports-2022-07-21T08:37:31.172213-07:00.jpg"
+     alt="Prism at 2022-07-21 15:37:34-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-21T08:37:31.172213-07:00.jpg">Jul 21 at 3:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-20T20:39:24.135178-07:00.jpg">
+  <img src="https://archive.org/download/prismreports-2022/prismreports-2022-07-20T20:39:24.135178-07:00.jpg"
+     alt="Prism at 2022-07-21 03:39:26-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-20T20:39:24.135178-07:00.jpg">Jul 21 at 3:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-20T09:13:51.684818-07:00.jpg">
+  <img src="https://archive.org/download/prismreports-2022/prismreports-2022-07-20T09:13:51.684818-07:00.jpg"
+     alt="Prism at 2022-07-20 16:13:54-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-20T09:13:51.684818-07:00.jpg">Jul 20 at 4:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-19T20:37:19.766647-07:00.jpg">
+  <img src="https://archive.org/download/prismreports-2022/prismreports-2022-07-19T20:37:19.766647-07:00.jpg"
+     alt="Prism at 2022-07-20 03:37:21-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-19T20:37:19.766647-07:00.jpg">Jul 20 at 3:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-19T08:47:40.777854-07:00.jpg">
+  <img src="https://archive.org/download/prismreports-2022/prismreports-2022-07-19T08:47:40.777854-07:00.jpg"
+     alt="Prism at 2022-07-19 15:47:43-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prismreports-2022/prismreports-2022-07-19T08:47:40.777854-07:00.jpg">Jul 19 at 3:47 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

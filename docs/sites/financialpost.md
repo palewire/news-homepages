@@ -107,6 +107,120 @@ The archiving routine has saved 69 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-25T08:01:34.356225-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-07-25T08:01:34.356225-04:00.jpg"
+     alt="Financial Post at 2022-07-25 15:01:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-25T08:01:34.356225-04:00.jpg">Jul 25 at 3:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-24T21:04:38.875824-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-07-24T21:04:38.875824-04:00.jpg"
+     alt="Financial Post at 2022-07-25 04:04:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-24T21:04:38.875824-04:00.jpg">Jul 25 at 4:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-24T07:58:38.159826-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-07-24T07:58:38.159826-04:00.jpg"
+     alt="Financial Post at 2022-07-24 14:58:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-24T07:58:38.159826-04:00.jpg">Jul 24 at 2:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-24T02:28:43.911969-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-07-24T02:28:43.911969-04:00.jpg"
+     alt="Financial Post at 2022-07-24 09:28:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-24T02:28:43.911969-04:00.jpg">Jul 24 at 9:28 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-23T09:58:10.947751-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-07-23T09:58:10.947751-04:00.jpg"
+     alt="Financial Post at 2022-07-23 16:58:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-23T09:58:10.947751-04:00.jpg">Jul 23 at 4:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-22T22:24:46.760978-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-07-22T22:24:46.760978-04:00.jpg"
+     alt="Financial Post at 2022-07-23 05:24:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-22T22:24:46.760978-04:00.jpg">Jul 23 at 5:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-22T10:00:17.236995-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-07-22T10:00:17.236995-04:00.jpg"
+     alt="Financial Post at 2022-07-22 17:00:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-22T10:00:17.236995-04:00.jpg">Jul 22 at 5:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-21T22:19:11.930262-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-07-21T22:19:11.930262-04:00.jpg"
+     alt="Financial Post at 2022-07-22 05:19:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-21T22:19:11.930262-04:00.jpg">Jul 22 at 5:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-21T10:05:18.131641-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-07-21T10:05:18.131641-04:00.jpg"
+     alt="Financial Post at 2022-07-21 17:05:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-21T10:05:18.131641-04:00.jpg">Jul 21 at 5:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-20T22:22:34.288286-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-07-20T22:22:34.288286-04:00.jpg"
+     alt="Financial Post at 2022-07-21 05:22:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-20T22:22:34.288286-04:00.jpg">Jul 21 at 5:22 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-20T10:25:10.015412-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-07-20T10:25:10.015412-04:00.jpg"
+     alt="Financial Post at 2022-07-20 17:25:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-20T10:25:10.015412-04:00.jpg">Jul 20 at 5:25 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-19T22:16:05.936728-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-07-19T22:16:05.936728-04:00.jpg"
+     alt="Financial Post at 2022-07-20 05:16:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-19T22:16:05.936728-04:00.jpg">Jul 20 at 5:16 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

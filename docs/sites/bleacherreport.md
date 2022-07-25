@@ -107,6 +107,120 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-25T06:59:45.058547-04:00.jpg">
+  <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-25T06:59:45.058547-04:00.jpg"
+     alt="Bleacher Report at 2022-07-25 13:59:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-25T06:59:45.058547-04:00.jpg">Jul 25 at 1:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-24T20:51:31.577528-04:00.jpg">
+  <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-24T20:51:31.577528-04:00.jpg"
+     alt="Bleacher Report at 2022-07-25 03:51:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-24T20:51:31.577528-04:00.jpg">Jul 25 at 3:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-24T06:58:51.910755-04:00.jpg">
+  <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-24T06:58:51.910755-04:00.jpg"
+     alt="Bleacher Report at 2022-07-24 13:58:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-24T06:58:51.910755-04:00.jpg">Jul 24 at 1:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-23T19:01:12.577441-04:00.jpg">
+  <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-23T19:01:12.577441-04:00.jpg"
+     alt="Bleacher Report at 2022-07-24 02:01:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-23T19:01:12.577441-04:00.jpg">Jul 24 at 2:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-23T08:57:58.695758-04:00.jpg">
+  <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-23T08:57:58.695758-04:00.jpg"
+     alt="Bleacher Report at 2022-07-23 15:58:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-23T08:57:58.695758-04:00.jpg">Jul 23 at 3:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-22T20:58:46.041459-04:00.jpg">
+  <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-22T20:58:46.041459-04:00.jpg"
+     alt="Bleacher Report at 2022-07-23 03:58:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-22T20:58:46.041459-04:00.jpg">Jul 23 at 3:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-22T08:58:51.292820-04:00.jpg">
+  <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-22T08:58:51.292820-04:00.jpg"
+     alt="Bleacher Report at 2022-07-22 15:58:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-22T08:58:51.292820-04:00.jpg">Jul 22 at 3:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-21T21:05:55.507280-04:00.jpg">
+  <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-21T21:05:55.507280-04:00.jpg"
+     alt="Bleacher Report at 2022-07-22 04:05:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-21T21:05:55.507280-04:00.jpg">Jul 22 at 4:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-21T08:53:22.490737-04:00.jpg">
+  <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-21T08:53:22.490737-04:00.jpg"
+     alt="Bleacher Report at 2022-07-21 15:53:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-21T08:53:22.490737-04:00.jpg">Jul 21 at 3:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-20T21:05:39.371541-04:00.jpg">
+  <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-20T21:05:39.371541-04:00.jpg"
+     alt="Bleacher Report at 2022-07-21 04:05:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-20T21:05:39.371541-04:00.jpg">Jul 21 at 4:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-20T08:55:55.011638-04:00.jpg">
+  <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-20T08:55:55.011638-04:00.jpg"
+     alt="Bleacher Report at 2022-07-20 15:55:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-20T08:55:55.011638-04:00.jpg">Jul 20 at 3:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-19T21:00:30.267946-04:00.jpg">
+  <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-19T21:00:30.267946-04:00.jpg"
+     alt="Bleacher Report at 2022-07-20 04:00:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-19T21:00:30.267946-04:00.jpg">Jul 20 at 4:00 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

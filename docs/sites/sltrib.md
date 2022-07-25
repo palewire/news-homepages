@@ -107,6 +107,120 @@ The archiving routine has saved 32 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-24T21:43:51.247063-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-07-24T21:43:51.247063-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-07-25 04:43:53-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-24T21:43:51.247063-06:00.jpg">Jul 25 at 4:43 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-24T08:04:28.538511-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-07-24T08:04:28.538511-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-07-24 15:04:30-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-24T08:04:28.538511-06:00.jpg">Jul 24 at 3:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-24T00:23:06.679531-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-07-24T00:23:06.679531-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-07-24 07:23:08-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-24T00:23:06.679531-06:00.jpg">Jul 24 at 7:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-23T10:02:51.672899-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-07-23T10:02:51.672899-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-07-23 17:02:55-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-23T10:02:51.672899-06:00.jpg">Jul 23 at 5:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-22T22:21:56.831827-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-07-22T22:21:56.831827-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-07-23 05:21:58-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-22T22:21:56.831827-06:00.jpg">Jul 23 at 5:21 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-22T10:15:12.239089-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-07-22T10:15:12.239089-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-07-22 17:15:14-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-22T10:15:12.239089-06:00.jpg">Jul 22 at 5:15 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-21T22:28:14.723981-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-07-21T22:28:14.723981-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-07-22 05:28:17-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-21T22:28:14.723981-06:00.jpg">Jul 22 at 5:28 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-21T10:51:59.272400-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-07-21T10:51:59.272400-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-07-21 17:52:01-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-21T10:51:59.272400-06:00.jpg">Jul 21 at 5:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-20T10:42:38.577977-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-07-20T10:42:38.577977-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-07-20 17:42:41-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-20T10:42:38.577977-06:00.jpg">Jul 20 at 5:42 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-19T22:18:32.043993-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-07-19T22:18:32.043993-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-07-20 05:18:33-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-19T22:18:32.043993-06:00.jpg">Jul 20 at 5:18 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-19T10:58:09.126792-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-07-19T10:58:09.126792-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-07-19 17:58:10-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-19T10:58:09.126792-06:00.jpg">Jul 19 at 5:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-18T22:24:12.777078-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-07-18T22:24:12.777078-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-07-19 05:24:14-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-18T22:24:12.777078-06:00.jpg">Jul 19 at 5:24 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

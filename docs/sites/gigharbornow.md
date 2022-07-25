@@ -107,6 +107,120 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-25T05:05:25.093254-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-25T05:05:25.093254-07:00.jpg"
+     alt="Gig Harbor Now at 2022-07-25 12:05:29-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-25T05:05:25.093254-07:00.jpg">Jul 25 at 12:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-24T18:08:19.206598-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-24T18:08:19.206598-07:00.jpg"
+     alt="Gig Harbor Now at 2022-07-25 01:08:20-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-24T18:08:19.206598-07:00.jpg">Jul 25 at 1:08 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-24T05:01:48.485173-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-24T05:01:48.485173-07:00.jpg"
+     alt="Gig Harbor Now at 2022-07-24 12:01:49-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-24T05:01:48.485173-07:00.jpg">Jul 24 at 12:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-23T23:31:16.170384-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-23T23:31:16.170384-07:00.jpg"
+     alt="Gig Harbor Now at 2022-07-24 06:31:17-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-23T23:31:16.170384-07:00.jpg">Jul 24 at 6:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-23T07:01:08.480855-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-23T07:01:08.480855-07:00.jpg"
+     alt="Gig Harbor Now at 2022-07-23 14:01:10-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-23T07:01:08.480855-07:00.jpg">Jul 23 at 2:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-22T19:27:17.641159-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-22T19:27:17.641159-07:00.jpg"
+     alt="Gig Harbor Now at 2022-07-23 02:27:18-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-22T19:27:17.641159-07:00.jpg">Jul 23 at 2:27 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-22T07:02:26.125844-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-22T07:02:26.125844-07:00.jpg"
+     alt="Gig Harbor Now at 2022-07-22 14:02:28-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-22T07:02:26.125844-07:00.jpg">Jul 22 at 2:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-21T19:21:36.722592-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-21T19:21:36.722592-07:00.jpg"
+     alt="Gig Harbor Now at 2022-07-22 02:21:39-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-21T19:21:36.722592-07:00.jpg">Jul 22 at 2:21 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-21T07:08:40.113608-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-21T07:08:40.113608-07:00.jpg"
+     alt="Gig Harbor Now at 2022-07-21 14:08:41-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-21T07:08:40.113608-07:00.jpg">Jul 21 at 2:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-20T19:24:11.642531-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-20T19:24:11.642531-07:00.jpg"
+     alt="Gig Harbor Now at 2022-07-21 02:24:13-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-20T19:24:11.642531-07:00.jpg">Jul 21 at 2:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-20T07:24:15.489383-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-20T07:24:15.489383-07:00.jpg"
+     alt="Gig Harbor Now at 2022-07-20 14:24:17-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-20T07:24:15.489383-07:00.jpg">Jul 20 at 2:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-19T19:18:05.477195-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-19T19:18:05.477195-07:00.jpg"
+     alt="Gig Harbor Now at 2022-07-20 02:18:07-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-19T19:18:05.477195-07:00.jpg">Jul 20 at 2:18 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

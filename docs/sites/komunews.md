@@ -107,6 +107,120 @@ The archiving routine has saved 76 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/komunews-2022/komunews-2022-07-24T22:25:47.693771-05:00.jpg">
+  <img src="https://archive.org/download/komunews-2022/komunews-2022-07-24T22:25:47.693771-05:00.jpg"
+     alt="KOMU at 2022-07-25 05:25:49-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-24T22:25:47.693771-05:00.jpg">Jul 25 at 5:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/komunews-2022/komunews-2022-07-24T08:00:12.133486-05:00.jpg">
+  <img src="https://archive.org/download/komunews-2022/komunews-2022-07-24T08:00:12.133486-05:00.jpg"
+     alt="KOMU at 2022-07-24 15:00:15-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-24T08:00:12.133486-05:00.jpg">Jul 24 at 3:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/komunews-2022/komunews-2022-07-23T23:15:41.288419-05:00.jpg">
+  <img src="https://archive.org/download/komunews-2022/komunews-2022-07-23T23:15:41.288419-05:00.jpg"
+     alt="KOMU at 2022-07-24 06:15:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-23T23:15:41.288419-05:00.jpg">Jul 24 at 6:15 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/komunews-2022/komunews-2022-07-23T09:05:02.819178-05:00.jpg">
+  <img src="https://archive.org/download/komunews-2022/komunews-2022-07-23T09:05:02.819178-05:00.jpg"
+     alt="KOMU at 2022-07-23 16:05:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-23T09:05:02.819178-05:00.jpg">Jul 23 at 4:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/komunews-2022/komunews-2022-07-22T21:31:14.287310-05:00.jpg">
+  <img src="https://archive.org/download/komunews-2022/komunews-2022-07-22T21:31:14.287310-05:00.jpg"
+     alt="KOMU at 2022-07-23 04:31:16-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-22T21:31:14.287310-05:00.jpg">Jul 23 at 4:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/komunews-2022/komunews-2022-07-22T09:06:21.484608-05:00.jpg">
+  <img src="https://archive.org/download/komunews-2022/komunews-2022-07-22T09:06:21.484608-05:00.jpg"
+     alt="KOMU at 2022-07-22 16:06:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-22T09:06:21.484608-05:00.jpg">Jul 22 at 4:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/komunews-2022/komunews-2022-07-21T21:25:11.734968-05:00.jpg">
+  <img src="https://archive.org/download/komunews-2022/komunews-2022-07-21T21:25:11.734968-05:00.jpg"
+     alt="KOMU at 2022-07-22 04:25:13-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-21T21:25:11.734968-05:00.jpg">Jul 22 at 4:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/komunews-2022/komunews-2022-07-21T09:15:12.976883-05:00.jpg">
+  <img src="https://archive.org/download/komunews-2022/komunews-2022-07-21T09:15:12.976883-05:00.jpg"
+     alt="KOMU at 2022-07-21 16:15:15-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-21T09:15:12.976883-05:00.jpg">Jul 21 at 4:15 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/komunews-2022/komunews-2022-07-20T21:28:14.480395-05:00.jpg">
+  <img src="https://archive.org/download/komunews-2022/komunews-2022-07-20T21:28:14.480395-05:00.jpg"
+     alt="KOMU at 2022-07-21 04:28:15-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-20T21:28:14.480395-05:00.jpg">Jul 21 at 4:28 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/komunews-2022/komunews-2022-07-20T09:28:35.241246-05:00.jpg">
+  <img src="https://archive.org/download/komunews-2022/komunews-2022-07-20T09:28:35.241246-05:00.jpg"
+     alt="KOMU at 2022-07-20 16:28:38-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-20T09:28:35.241246-05:00.jpg">Jul 20 at 4:28 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/komunews-2022/komunews-2022-07-19T21:20:53.824548-05:00.jpg">
+  <img src="https://archive.org/download/komunews-2022/komunews-2022-07-19T21:20:53.824548-05:00.jpg"
+     alt="KOMU at 2022-07-20 04:20:55-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-19T21:20:53.824548-05:00.jpg">Jul 20 at 4:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/komunews-2022/komunews-2022-07-19T09:19:10.165637-05:00.jpg">
+  <img src="https://archive.org/download/komunews-2022/komunews-2022-07-19T09:19:10.165637-05:00.jpg"
+     alt="KOMU at 2022-07-19 16:19:11-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-19T09:19:10.165637-05:00.jpg">Jul 19 at 4:19 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

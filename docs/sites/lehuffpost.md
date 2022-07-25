@@ -107,6 +107,120 @@ The archiving routine has saved 205 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-25T10:09:10.445875+02:00.jpg">
+  <img src="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-25T10:09:10.445875+02:00.jpg"
+     alt="Le Huffington Post at 2022-07-25 17:09:11+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-25T10:09:10.445875+02:00.jpg">Jul 25 at 5:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-25T05:29:20.059084+02:00.jpg">
+  <img src="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-25T05:29:20.059084+02:00.jpg"
+     alt="Le Huffington Post at 2022-07-25 12:29:21+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-25T05:29:20.059084+02:00.jpg">Jul 25 at 12:29 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-24T15:01:46.760837+02:00.jpg">
+  <img src="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-24T15:01:46.760837+02:00.jpg"
+     alt="Le Huffington Post at 2022-07-24 22:01:48+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-24T15:01:46.760837+02:00.jpg">Jul 24 at 10:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-24T10:09:35.690202+02:00.jpg">
+  <img src="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-24T10:09:35.690202+02:00.jpg"
+     alt="Le Huffington Post at 2022-07-24 17:09:37+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-24T10:09:35.690202+02:00.jpg">Jul 24 at 5:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-24T06:17:46.357916+02:00.jpg">
+  <img src="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-24T06:17:46.357916+02:00.jpg"
+     alt="Le Huffington Post at 2022-07-24 13:17:50+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-24T06:17:46.357916+02:00.jpg">Jul 24 at 1:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-23T17:00:35.282878+02:00.jpg">
+  <img src="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-23T17:00:35.282878+02:00.jpg"
+     alt="Le Huffington Post at 2022-07-24 00:00:36+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-23T17:00:35.282878+02:00.jpg">Jul 24 at 12:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-23T10:07:04.031449+02:00.jpg">
+  <img src="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-23T10:07:04.031449+02:00.jpg"
+     alt="Le Huffington Post at 2022-07-23 17:07:08+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-23T10:07:04.031449+02:00.jpg">Jul 23 at 5:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-23T04:33:00.100201+02:00.jpg">
+  <img src="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-23T04:33:00.100201+02:00.jpg"
+     alt="Le Huffington Post at 2022-07-23 11:33:08+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-23T04:33:00.100201+02:00.jpg">Jul 23 at 11:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-22T16:56:07.482820+02:00.jpg">
+  <img src="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-22T16:56:07.482820+02:00.jpg"
+     alt="Le Huffington Post at 2022-07-22 23:56:08+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-22T16:56:07.482820+02:00.jpg">Jul 22 at 11:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-22T10:07:10.458724+02:00.jpg">
+  <img src="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-22T10:07:10.458724+02:00.jpg"
+     alt="Le Huffington Post at 2022-07-22 17:07:12+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-22T10:07:10.458724+02:00.jpg">Jul 22 at 5:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-22T05:34:56.482593+02:00.jpg">
+  <img src="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-22T05:34:56.482593+02:00.jpg"
+     alt="Le Huffington Post at 2022-07-22 12:34:57+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-22T05:34:56.482593+02:00.jpg">Jul 22 at 12:34 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-21T17:27:39.310599+02:00.jpg">
+  <img src="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-21T17:27:39.310599+02:00.jpg"
+     alt="Le Huffington Post at 2022-07-22 00:27:46+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-07-21T17:27:39.310599+02:00.jpg">Jul 22 at 12:27 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

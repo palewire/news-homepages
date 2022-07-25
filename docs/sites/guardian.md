@@ -107,6 +107,120 @@ The archiving routine has saved 313 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-07-25T13:05:16.924997+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-07-25T13:05:16.924997+01:00.jpg"
+     alt="The Guardian at 2022-07-25 20:05:24+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-25T13:05:16.924997+01:00.jpg">Jul 25 at 8:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-07-25T10:09:30.275525+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-07-25T10:09:30.275525+01:00.jpg"
+     alt="The Guardian at 2022-07-25 17:09:36+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-25T10:09:30.275525+01:00.jpg">Jul 25 at 5:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-07-25T02:09:19.911990+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-07-25T02:09:19.911990+01:00.jpg"
+     alt="The Guardian at 2022-07-25 09:09:21+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-25T02:09:19.911990+01:00.jpg">Jul 25 at 9:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-07-24T13:01:20.232700+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-07-24T13:01:20.232700+01:00.jpg"
+     alt="The Guardian at 2022-07-24 20:01:22+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-24T13:01:20.232700+01:00.jpg">Jul 24 at 8:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-07-24T10:09:59.059277+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-07-24T10:09:59.059277+01:00.jpg"
+     alt="The Guardian at 2022-07-24 17:10:01+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-24T10:09:59.059277+01:00.jpg">Jul 24 at 5:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-07-24T07:32:11.418027+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-07-24T07:32:11.418027+01:00.jpg"
+     alt="The Guardian at 2022-07-24 14:32:21+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-24T07:32:11.418027+01:00.jpg">Jul 24 at 2:32 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T15:02:25.261493+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-07-23T15:02:25.261493+01:00.jpg"
+     alt="The Guardian at 2022-07-23 22:02:28+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T15:02:25.261493+01:00.jpg">Jul 23 at 10:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T10:06:19.000831+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-07-23T10:06:19.000831+01:00.jpg"
+     alt="The Guardian at 2022-07-23 17:06:21+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T10:06:19.000831+01:00.jpg">Jul 23 at 5:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T03:27:31.879374+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-07-23T03:27:31.879374+01:00.jpg"
+     alt="The Guardian at 2022-07-23 10:27:33+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T03:27:31.879374+01:00.jpg">Jul 23 at 10:27 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-07-22T15:02:46.756811+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-07-22T15:02:46.756811+01:00.jpg"
+     alt="The Guardian at 2022-07-22 22:02:48+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-22T15:02:46.756811+01:00.jpg">Jul 22 at 10:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-07-22T10:07:03.745693+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-07-22T10:07:03.745693+01:00.jpg"
+     alt="The Guardian at 2022-07-22 17:07:05+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-22T10:07:03.745693+01:00.jpg">Jul 22 at 5:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-07-22T03:22:12.555858+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-07-22T03:22:12.555858+01:00.jpg"
+     alt="The Guardian at 2022-07-22 10:22:14+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-22T03:22:12.555858+01:00.jpg">Jul 22 at 10:22 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

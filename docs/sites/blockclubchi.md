@@ -107,6 +107,120 @@ The archiving routine has saved 118 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-25T06:00:13.966142-05:00.jpg">
+  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-25T06:00:13.966142-05:00.jpg"
+     alt="Block Club Chicago at 2022-07-25 13:00:18-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-25T06:00:13.966142-05:00.jpg">Jul 25 at 1:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-24T19:51:11.138717-05:00.jpg">
+  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-24T19:51:11.138717-05:00.jpg"
+     alt="Block Club Chicago at 2022-07-25 02:51:16-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-24T19:51:11.138717-05:00.jpg">Jul 25 at 2:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-24T10:45:43.806704-05:00.jpg">
+  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-24T10:45:43.806704-05:00.jpg"
+     alt="Block Club Chicago at 2022-07-24 17:45:47-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-24T10:45:43.806704-05:00.jpg">Jul 24 at 5:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-24T05:58:51.030812-05:00.jpg">
+  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-24T05:58:51.030812-05:00.jpg"
+     alt="Block Club Chicago at 2022-07-24 12:58:53-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-24T05:58:51.030812-05:00.jpg">Jul 24 at 12:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-23T18:00:41.377846-05:00.jpg">
+  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-23T18:00:41.377846-05:00.jpg"
+     alt="Block Club Chicago at 2022-07-24 01:00:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-23T18:00:41.377846-05:00.jpg">Jul 24 at 1:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-23T07:58:05.604830-05:00.jpg">
+  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-23T07:58:05.604830-05:00.jpg"
+     alt="Block Club Chicago at 2022-07-23 14:58:15-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-23T07:58:05.604830-05:00.jpg">Jul 23 at 2:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-22T19:58:45.012003-05:00.jpg">
+  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-22T19:58:45.012003-05:00.jpg"
+     alt="Block Club Chicago at 2022-07-23 02:58:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-22T19:58:45.012003-05:00.jpg">Jul 23 at 2:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-22T11:23:22.061289-05:00.jpg">
+  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-22T11:23:22.061289-05:00.jpg"
+     alt="Block Club Chicago at 2022-07-22 18:23:26-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-22T11:23:22.061289-05:00.jpg">Jul 22 at 6:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-22T07:58:42.491157-05:00.jpg">
+  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-22T07:58:42.491157-05:00.jpg"
+     alt="Block Club Chicago at 2022-07-22 14:58:44-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-22T07:58:42.491157-05:00.jpg">Jul 22 at 2:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-21T20:06:50.164727-05:00.jpg">
+  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-21T20:06:50.164727-05:00.jpg"
+     alt="Block Club Chicago at 2022-07-22 03:06:53-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-21T20:06:50.164727-05:00.jpg">Jul 22 at 3:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-21T11:48:02.246342-05:00.jpg">
+  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-21T11:48:02.246342-05:00.jpg"
+     alt="Block Club Chicago at 2022-07-21 18:48:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-21T11:48:02.246342-05:00.jpg">Jul 21 at 6:48 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-21T07:52:59.412012-05:00.jpg">
+  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-21T07:52:59.412012-05:00.jpg"
+     alt="Block Club Chicago at 2022-07-21 14:53:01-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-21T07:52:59.412012-05:00.jpg">Jul 21 at 2:53 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

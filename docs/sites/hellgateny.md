@@ -107,6 +107,120 @@ The archiving routine has saved 47 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-25T08:05:20.314866-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-25T08:05:20.314866-04:00.jpg"
+     alt="Hell Gate at 2022-07-25 15:05:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-25T08:05:20.314866-04:00.jpg">Jul 25 at 3:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-24T21:10:11.357430-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-24T21:10:11.357430-04:00.jpg"
+     alt="Hell Gate at 2022-07-25 04:10:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-24T21:10:11.357430-04:00.jpg">Jul 25 at 4:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-24T08:02:26.456723-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-24T08:02:26.456723-04:00.jpg"
+     alt="Hell Gate at 2022-07-24 15:02:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-24T08:02:26.456723-04:00.jpg">Jul 24 at 3:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-24T02:32:04.369238-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-24T02:32:04.369238-04:00.jpg"
+     alt="Hell Gate at 2022-07-24 09:32:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-24T02:32:04.369238-04:00.jpg">Jul 24 at 9:32 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-23T10:01:45.694891-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-23T10:01:45.694891-04:00.jpg"
+     alt="Hell Gate at 2022-07-23 17:01:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-23T10:01:45.694891-04:00.jpg">Jul 23 at 5:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-22T22:28:04.112032-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-22T22:28:04.112032-04:00.jpg"
+     alt="Hell Gate at 2022-07-23 05:28:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-22T22:28:04.112032-04:00.jpg">Jul 23 at 5:28 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-22T10:02:41.377941-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-22T10:02:41.377941-04:00.jpg"
+     alt="Hell Gate at 2022-07-22 17:02:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-22T10:02:41.377941-04:00.jpg">Jul 22 at 5:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-21T22:22:50.586533-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-21T22:22:50.586533-04:00.jpg"
+     alt="Hell Gate at 2022-07-22 05:22:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-21T22:22:50.586533-04:00.jpg">Jul 22 at 5:22 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-21T10:12:16.368582-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-21T10:12:16.368582-04:00.jpg"
+     alt="Hell Gate at 2022-07-21 17:12:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-21T10:12:16.368582-04:00.jpg">Jul 21 at 5:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-20T22:25:00.559006-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-20T22:25:00.559006-04:00.jpg"
+     alt="Hell Gate at 2022-07-21 05:25:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-20T22:25:00.559006-04:00.jpg">Jul 21 at 5:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-20T10:25:05.061842-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-20T10:25:05.061842-04:00.jpg"
+     alt="Hell Gate at 2022-07-20 17:25:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-20T10:25:05.061842-04:00.jpg">Jul 20 at 5:25 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-19T22:18:25.033210-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-19T22:18:25.033210-04:00.jpg"
+     alt="Hell Gate at 2022-07-20 05:18:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-19T22:18:25.033210-04:00.jpg">Jul 20 at 5:18 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

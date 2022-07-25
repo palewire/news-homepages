@@ -107,6 +107,120 @@ The archiving routine has saved 251 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-25T07:39:18.326005+03:00.jpg">
+  <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-25T07:39:18.326005+03:00.jpg"
+     alt="Ukrinform at 2022-07-25 14:39:24+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-25T07:39:18.326005+03:00.jpg">Jul 25 at 2:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-24T18:08:58.104034+03:00.jpg">
+  <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-24T18:08:58.104034+03:00.jpg"
+     alt="Ukrinform at 2022-07-25 01:09:07+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-24T18:08:58.104034+03:00.jpg">Jul 25 at 1:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-24T06:44:38.394644+03:00.jpg">
+  <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-24T06:44:38.394644+03:00.jpg"
+     alt="Ukrinform at 2022-07-24 13:44:43+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-24T06:44:38.394644+03:00.jpg">Jul 24 at 1:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-23T19:07:50.263301+03:00.jpg">
+  <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-23T19:07:50.263301+03:00.jpg"
+     alt="Ukrinform at 2022-07-24 02:07:54+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-23T19:07:50.263301+03:00.jpg">Jul 24 at 2:07 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-23T07:27:20.721762+03:00.jpg">
+  <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-23T07:27:20.721762+03:00.jpg"
+     alt="Ukrinform at 2022-07-23 14:27:22+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-23T07:27:20.721762+03:00.jpg">Jul 23 at 2:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-22T19:20:07.588459+03:00.jpg">
+  <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-22T19:20:07.588459+03:00.jpg"
+     alt="Ukrinform at 2022-07-23 02:20:12+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-22T19:20:07.588459+03:00.jpg">Jul 23 at 2:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-22T07:34:28.021017+03:00.jpg">
+  <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-22T07:34:28.021017+03:00.jpg"
+     alt="Ukrinform at 2022-07-22 14:34:30+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-22T07:34:28.021017+03:00.jpg">Jul 22 at 2:34 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-21T19:57:20.731341+03:00.jpg">
+  <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-21T19:57:20.731341+03:00.jpg"
+     alt="Ukrinform at 2022-07-22 02:57:33+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-21T19:57:20.731341+03:00.jpg">Jul 22 at 2:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-21T07:31:25.904703+03:00.jpg">
+  <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-21T07:31:25.904703+03:00.jpg"
+     alt="Ukrinform at 2022-07-21 14:31:32+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-21T07:31:25.904703+03:00.jpg">Jul 21 at 2:31 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-20T19:48:10.254727+03:00.jpg">
+  <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-20T19:48:10.254727+03:00.jpg"
+     alt="Ukrinform at 2022-07-21 02:48:12+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-20T19:48:10.254727+03:00.jpg">Jul 21 at 2:48 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-20T07:23:30.377050+03:00.jpg">
+  <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-20T07:23:30.377050+03:00.jpg"
+     alt="Ukrinform at 2022-07-20 14:23:47+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-20T07:23:30.377050+03:00.jpg">Jul 20 at 2:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-19T20:02:36.162363+03:00.jpg">
+  <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-19T20:02:36.162363+03:00.jpg"
+     alt="Ukrinform at 2022-07-20 03:02:40+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-07-19T20:02:36.162363+03:00.jpg">Jul 20 at 3:02 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

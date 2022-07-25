@@ -24,6 +24,39 @@ The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T00:40:01.428009-04:00.jpg">
+  <img src="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T00:40:01.428009-04:00.jpg"
+     alt="Western Gazette at 2022-07-25 07:40:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T00:40:01.428009-04:00.jpg">Jul 25 at 7:40 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-24T11:09:18.462751-04:00.jpg">
+  <img src="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-24T11:09:18.462751-04:00.jpg"
+     alt="Western Gazette at 2022-07-24 18:09:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-24T11:09:18.462751-04:00.jpg">Jul 24 at 6:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-23T23:45:19.538388-04:00.jpg">
+  <img src="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-23T23:45:19.538388-04:00.jpg"
+     alt="Western Gazette at 2022-07-24 06:45:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-23T23:45:19.538388-04:00.jpg">Jul 24 at 6:45 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

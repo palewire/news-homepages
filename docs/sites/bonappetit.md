@@ -107,6 +107,120 @@ The archiving routine has saved 77 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-25T07:00:38.601610-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-25T07:00:38.601610-04:00.jpg"
+     alt="Bon Appetit at 2022-07-25 14:00:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-25T07:00:38.601610-04:00.jpg">Jul 25 at 2:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-24T20:51:40.087039-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-24T20:51:40.087039-04:00.jpg"
+     alt="Bon Appetit at 2022-07-25 03:51:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-24T20:51:40.087039-04:00.jpg">Jul 25 at 3:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-24T06:59:19.545571-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-24T06:59:19.545571-04:00.jpg"
+     alt="Bon Appetit at 2022-07-24 13:59:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-24T06:59:19.545571-04:00.jpg">Jul 24 at 1:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-23T19:01:28.072486-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-23T19:01:28.072486-04:00.jpg"
+     alt="Bon Appetit at 2022-07-24 02:01:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-23T19:01:28.072486-04:00.jpg">Jul 24 at 2:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-23T08:58:45.362183-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-23T08:58:45.362183-04:00.jpg"
+     alt="Bon Appetit at 2022-07-23 15:58:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-23T08:58:45.362183-04:00.jpg">Jul 23 at 3:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-22T20:59:04.591598-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-22T20:59:04.591598-04:00.jpg"
+     alt="Bon Appetit at 2022-07-23 03:59:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-22T20:59:04.591598-04:00.jpg">Jul 23 at 3:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-22T08:58:39.919255-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-22T08:58:39.919255-04:00.jpg"
+     alt="Bon Appetit at 2022-07-22 15:58:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-22T08:58:39.919255-04:00.jpg">Jul 22 at 3:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-21T21:06:39.781520-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-21T21:06:39.781520-04:00.jpg"
+     alt="Bon Appetit at 2022-07-22 04:06:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-21T21:06:39.781520-04:00.jpg">Jul 22 at 4:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-21T08:52:57.935658-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-21T08:52:57.935658-04:00.jpg"
+     alt="Bon Appetit at 2022-07-21 15:52:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-21T08:52:57.935658-04:00.jpg">Jul 21 at 3:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-20T21:05:29.886499-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-20T21:05:29.886499-04:00.jpg"
+     alt="Bon Appetit at 2022-07-21 04:05:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-20T21:05:29.886499-04:00.jpg">Jul 21 at 4:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-20T08:53:53.625675-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-20T08:53:53.625675-04:00.jpg"
+     alt="Bon Appetit at 2022-07-20 15:53:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-20T08:53:53.625675-04:00.jpg">Jul 20 at 3:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-19T21:00:30.741974-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-19T21:00:30.741974-04:00.jpg"
+     alt="Bon Appetit at 2022-07-20 04:00:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-07-19T21:00:30.741974-04:00.jpg">Jul 20 at 4:00 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

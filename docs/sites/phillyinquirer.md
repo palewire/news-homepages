@@ -107,6 +107,120 @@ The archiving routine has saved 50 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-24T23:39:53.250632-04:00.jpg">
+  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-24T23:39:53.250632-04:00.jpg"
+     alt="Philadelphia Inquirer at 2022-07-25 06:39:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-24T23:39:53.250632-04:00.jpg">Jul 25 at 6:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-24T10:00:01.892672-04:00.jpg">
+  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-24T10:00:01.892672-04:00.jpg"
+     alt="Philadelphia Inquirer at 2022-07-24 17:00:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-24T10:00:01.892672-04:00.jpg">Jul 24 at 5:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-24T02:18:52.720358-04:00.jpg">
+  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-24T02:18:52.720358-04:00.jpg"
+     alt="Philadelphia Inquirer at 2022-07-24 09:18:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-24T02:18:52.720358-04:00.jpg">Jul 24 at 9:18 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-23T11:05:55.469794-04:00.jpg">
+  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-23T11:05:55.469794-04:00.jpg"
+     alt="Philadelphia Inquirer at 2022-07-23 18:05:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-23T11:05:55.469794-04:00.jpg">Jul 23 at 6:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-22T23:35:53.832017-04:00.jpg">
+  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-22T23:35:53.832017-04:00.jpg"
+     alt="Philadelphia Inquirer at 2022-07-23 06:35:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-22T23:35:53.832017-04:00.jpg">Jul 23 at 6:35 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-22T11:01:17.843362-04:00.jpg">
+  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-22T11:01:17.843362-04:00.jpg"
+     alt="Philadelphia Inquirer at 2022-07-22 18:01:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-22T11:01:17.843362-04:00.jpg">Jul 22 at 6:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-21T23:40:35.096123-04:00.jpg">
+  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-21T23:40:35.096123-04:00.jpg"
+     alt="Philadelphia Inquirer at 2022-07-22 06:40:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-21T23:40:35.096123-04:00.jpg">Jul 22 at 6:40 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-21T11:36:31.320510-04:00.jpg">
+  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-21T11:36:31.320510-04:00.jpg"
+     alt="Philadelphia Inquirer at 2022-07-21 18:36:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-21T11:36:31.320510-04:00.jpg">Jul 21 at 6:36 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-20T23:38:41.928608-04:00.jpg">
+  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-20T23:38:41.928608-04:00.jpg"
+     alt="Philadelphia Inquirer at 2022-07-21 06:38:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-20T23:38:41.928608-04:00.jpg">Jul 21 at 6:38 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-20T12:12:59.248173-04:00.jpg">
+  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-20T12:12:59.248173-04:00.jpg"
+     alt="Philadelphia Inquirer at 2022-07-20 19:13:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-20T12:12:59.248173-04:00.jpg">Jul 20 at 7:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-19T23:36:01.799394-04:00.jpg">
+  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-19T23:36:01.799394-04:00.jpg"
+     alt="Philadelphia Inquirer at 2022-07-20 06:36:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-19T23:36:01.799394-04:00.jpg">Jul 20 at 6:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-19T11:47:09.542229-04:00.jpg">
+  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-19T11:47:09.542229-04:00.jpg"
+     alt="Philadelphia Inquirer at 2022-07-19 18:47:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-07-19T11:47:09.542229-04:00.jpg">Jul 19 at 6:47 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

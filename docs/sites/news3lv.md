@@ -107,6 +107,120 @@ The archiving routine has saved 41 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-24T20:35:36.785532-07:00.jpg">
+  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-07-24T20:35:36.785532-07:00.jpg"
+     alt="KSNV News 3 at 2022-07-25 03:35:37-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-24T20:35:36.785532-07:00.jpg">Jul 25 at 3:35 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-24T06:05:03.187705-07:00.jpg">
+  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-07-24T06:05:03.187705-07:00.jpg"
+     alt="KSNV News 3 at 2022-07-24 13:05:04-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-24T06:05:03.187705-07:00.jpg">Jul 24 at 1:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-23T21:20:43.217071-07:00.jpg">
+  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-07-23T21:20:43.217071-07:00.jpg"
+     alt="KSNV News 3 at 2022-07-24 04:20:44-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-23T21:20:43.217071-07:00.jpg">Jul 24 at 4:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-23T08:03:11.812757-07:00.jpg">
+  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-07-23T08:03:11.812757-07:00.jpg"
+     alt="KSNV News 3 at 2022-07-23 15:03:13-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-23T08:03:11.812757-07:00.jpg">Jul 23 at 3:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-22T20:33:26.883339-07:00.jpg">
+  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-07-22T20:33:26.883339-07:00.jpg"
+     alt="KSNV News 3 at 2022-07-23 03:33:27-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-22T20:33:26.883339-07:00.jpg">Jul 23 at 3:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-22T07:58:37.788810-07:00.jpg">
+  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-07-22T07:58:37.788810-07:00.jpg"
+     alt="KSNV News 3 at 2022-07-22 14:58:39-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-22T07:58:37.788810-07:00.jpg">Jul 22 at 2:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-21T20:38:18.459375-07:00.jpg">
+  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-07-21T20:38:18.459375-07:00.jpg"
+     alt="KSNV News 3 at 2022-07-22 03:38:20-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-21T20:38:18.459375-07:00.jpg">Jul 22 at 3:38 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-21T08:32:17.254275-07:00.jpg">
+  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-07-21T08:32:17.254275-07:00.jpg"
+     alt="KSNV News 3 at 2022-07-21 15:32:20-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-21T08:32:17.254275-07:00.jpg">Jul 21 at 3:32 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-20T20:36:28.028393-07:00.jpg">
+  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-07-20T20:36:28.028393-07:00.jpg"
+     alt="KSNV News 3 at 2022-07-21 03:36:31-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-20T20:36:28.028393-07:00.jpg">Jul 21 at 3:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-20T09:10:26.922503-07:00.jpg">
+  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-07-20T09:10:26.922503-07:00.jpg"
+     alt="KSNV News 3 at 2022-07-20 16:10:27-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-20T09:10:26.922503-07:00.jpg">Jul 20 at 4:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-19T20:33:49.676987-07:00.jpg">
+  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-07-19T20:33:49.676987-07:00.jpg"
+     alt="KSNV News 3 at 2022-07-20 03:33:52-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-19T20:33:49.676987-07:00.jpg">Jul 20 at 3:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-19T08:43:35.006474-07:00.jpg">
+  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-07-19T08:43:35.006474-07:00.jpg"
+     alt="KSNV News 3 at 2022-07-19 15:43:37-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-19T08:43:35.006474-07:00.jpg">Jul 19 at 3:43 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

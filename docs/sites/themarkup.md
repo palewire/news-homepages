@@ -107,6 +107,120 @@ The archiving routine has saved 98 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-25T02:46:45.342966-04:00.jpg">
+  <img src="https://archive.org/download/themarkup-2022/themarkup-2022-07-25T02:46:45.342966-04:00.jpg"
+     alt="The Markup at 2022-07-25 09:46:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-25T02:46:45.342966-04:00.jpg">Jul 25 at 9:46 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-25T00:36:21.443905-04:00.jpg">
+  <img src="https://archive.org/download/themarkup-2022/themarkup-2022-07-25T00:36:21.443905-04:00.jpg"
+     alt="The Markup at 2022-07-25 07:36:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-25T00:36:21.443905-04:00.jpg">Jul 25 at 7:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-24T11:06:31.567546-04:00.jpg">
+  <img src="https://archive.org/download/themarkup-2022/themarkup-2022-07-24T11:06:31.567546-04:00.jpg"
+     alt="The Markup at 2022-07-24 18:06:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-24T11:06:31.567546-04:00.jpg">Jul 24 at 6:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-23T23:41:57.453614-04:00.jpg">
+  <img src="https://archive.org/download/themarkup-2022/themarkup-2022-07-23T23:41:57.453614-04:00.jpg"
+     alt="The Markup at 2022-07-24 06:41:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-23T23:41:57.453614-04:00.jpg">Jul 24 at 6:41 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-23T12:05:34.171032-04:00.jpg">
+  <img src="https://archive.org/download/themarkup-2022/themarkup-2022-07-23T12:05:34.171032-04:00.jpg"
+     alt="The Markup at 2022-07-23 19:05:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-23T12:05:34.171032-04:00.jpg">Jul 23 at 7:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-23T00:25:47.781558-04:00.jpg">
+  <img src="https://archive.org/download/themarkup-2022/themarkup-2022-07-23T00:25:47.781558-04:00.jpg"
+     alt="The Markup at 2022-07-23 07:25:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-23T00:25:47.781558-04:00.jpg">Jul 23 at 7:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-22T12:18:25.655671-04:00.jpg">
+  <img src="https://archive.org/download/themarkup-2022/themarkup-2022-07-22T12:18:25.655671-04:00.jpg"
+     alt="The Markup at 2022-07-22 19:18:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-22T12:18:25.655671-04:00.jpg">Jul 22 at 7:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-22T00:31:41.897646-04:00.jpg">
+  <img src="https://archive.org/download/themarkup-2022/themarkup-2022-07-22T00:31:41.897646-04:00.jpg"
+     alt="The Markup at 2022-07-22 07:31:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-22T00:31:41.897646-04:00.jpg">Jul 22 at 7:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-21T12:56:17.830290-04:00.jpg">
+  <img src="https://archive.org/download/themarkup-2022/themarkup-2022-07-21T12:56:17.830290-04:00.jpg"
+     alt="The Markup at 2022-07-21 19:56:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-21T12:56:17.830290-04:00.jpg">Jul 21 at 7:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-21T00:29:27.235723-04:00.jpg">
+  <img src="https://archive.org/download/themarkup-2022/themarkup-2022-07-21T00:29:27.235723-04:00.jpg"
+     alt="The Markup at 2022-07-21 07:29:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-21T00:29:27.235723-04:00.jpg">Jul 21 at 7:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-20T12:46:09.409582-04:00.jpg">
+  <img src="https://archive.org/download/themarkup-2022/themarkup-2022-07-20T12:46:09.409582-04:00.jpg"
+     alt="The Markup at 2022-07-20 19:46:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-20T12:46:09.409582-04:00.jpg">Jul 20 at 7:46 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-20T00:21:57.842606-04:00.jpg">
+  <img src="https://archive.org/download/themarkup-2022/themarkup-2022-07-20T00:21:57.842606-04:00.jpg"
+     alt="The Markup at 2022-07-20 07:21:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-20T00:21:57.842606-04:00.jpg">Jul 20 at 7:21 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

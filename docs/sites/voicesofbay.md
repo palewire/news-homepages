@@ -107,6 +107,120 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T21:41:10.929280-07:00.jpg">
+  <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T21:41:10.929280-07:00.jpg"
+     alt="Voices of Monterey Bay at 2022-07-25 04:41:12-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T21:41:10.929280-07:00.jpg">Jul 25 at 4:41 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T08:10:21.101228-07:00.jpg">
+  <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T08:10:21.101228-07:00.jpg"
+     alt="Voices of Monterey Bay at 2022-07-24 15:10:25-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T08:10:21.101228-07:00.jpg">Jul 24 at 3:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-23T20:45:47.277476-07:00.jpg">
+  <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-23T20:45:47.277476-07:00.jpg"
+     alt="Voices of Monterey Bay at 2022-07-24 03:45:49-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-23T20:45:47.277476-07:00.jpg">Jul 24 at 3:45 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-23T09:08:57.291347-07:00.jpg">
+  <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-23T09:08:57.291347-07:00.jpg"
+     alt="Voices of Monterey Bay at 2022-07-23 16:08:58-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-23T09:08:57.291347-07:00.jpg">Jul 23 at 4:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T21:28:28.845744-07:00.jpg">
+  <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T21:28:28.845744-07:00.jpg"
+     alt="Voices of Monterey Bay at 2022-07-23 04:28:31-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T21:28:28.845744-07:00.jpg">Jul 23 at 4:28 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T09:21:20.308404-07:00.jpg">
+  <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T09:21:20.308404-07:00.jpg"
+     alt="Voices of Monterey Bay at 2022-07-22 16:21:23-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T09:21:20.308404-07:00.jpg">Jul 22 at 4:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T21:35:14.531240-07:00.jpg">
+  <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T21:35:14.531240-07:00.jpg"
+     alt="Voices of Monterey Bay at 2022-07-22 04:35:16-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T21:35:14.531240-07:00.jpg">Jul 22 at 4:35 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T09:59:00.973089-07:00.jpg">
+  <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T09:59:00.973089-07:00.jpg"
+     alt="Voices of Monterey Bay at 2022-07-21 16:59:03-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T09:59:00.973089-07:00.jpg">Jul 21 at 4:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-20T21:32:49.436829-07:00.jpg">
+  <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-20T21:32:49.436829-07:00.jpg"
+     alt="Voices of Monterey Bay at 2022-07-21 04:32:50-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-20T21:32:49.436829-07:00.jpg">Jul 21 at 4:32 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-20T09:49:38.389294-07:00.jpg">
+  <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-20T09:49:38.389294-07:00.jpg"
+     alt="Voices of Monterey Bay at 2022-07-20 16:49:40-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-20T09:49:38.389294-07:00.jpg">Jul 20 at 4:49 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-19T21:24:19.075095-07:00.jpg">
+  <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-19T21:24:19.075095-07:00.jpg"
+     alt="Voices of Monterey Bay at 2022-07-20 04:24:20-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-19T21:24:19.075095-07:00.jpg">Jul 20 at 4:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-19T10:04:09.723501-07:00.jpg">
+  <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-19T10:04:09.723501-07:00.jpg"
+     alt="Voices of Monterey Bay at 2022-07-19 17:04:16-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-19T10:04:09.723501-07:00.jpg">Jul 19 at 5:04 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

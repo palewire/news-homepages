@@ -107,6 +107,120 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-25T08:00:27.577675-04:00.jpg">
+  <img src="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-25T08:00:27.577675-04:00.jpg"
+     alt="East Lansing Info at 2022-07-25 15:00:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-25T08:00:27.577675-04:00.jpg">Jul 25 at 3:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-24T21:02:01.866554-04:00.jpg">
+  <img src="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-24T21:02:01.866554-04:00.jpg"
+     alt="East Lansing Info at 2022-07-25 04:02:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-24T21:02:01.866554-04:00.jpg">Jul 25 at 4:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-24T07:57:38.202510-04:00.jpg">
+  <img src="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-24T07:57:38.202510-04:00.jpg"
+     alt="East Lansing Info at 2022-07-24 14:57:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-24T07:57:38.202510-04:00.jpg">Jul 24 at 2:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-24T02:27:34.431900-04:00.jpg">
+  <img src="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-24T02:27:34.431900-04:00.jpg"
+     alt="East Lansing Info at 2022-07-24 09:27:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-24T02:27:34.431900-04:00.jpg">Jul 24 at 9:27 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-23T09:56:45.820922-04:00.jpg">
+  <img src="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-23T09:56:45.820922-04:00.jpg"
+     alt="East Lansing Info at 2022-07-23 16:56:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-23T09:56:45.820922-04:00.jpg">Jul 23 at 4:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-22T22:23:36.714189-04:00.jpg">
+  <img src="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-22T22:23:36.714189-04:00.jpg"
+     alt="East Lansing Info at 2022-07-23 05:23:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-22T22:23:36.714189-04:00.jpg">Jul 23 at 5:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-22T09:59:33.104292-04:00.jpg">
+  <img src="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-22T09:59:33.104292-04:00.jpg"
+     alt="East Lansing Info at 2022-07-22 16:59:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-22T09:59:33.104292-04:00.jpg">Jul 22 at 4:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-21T22:18:30.923254-04:00.jpg">
+  <img src="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-21T22:18:30.923254-04:00.jpg"
+     alt="East Lansing Info at 2022-07-22 05:18:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-21T22:18:30.923254-04:00.jpg">Jul 22 at 5:18 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-21T10:08:27.738419-04:00.jpg">
+  <img src="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-21T10:08:27.738419-04:00.jpg"
+     alt="East Lansing Info at 2022-07-21 17:08:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-21T10:08:27.738419-04:00.jpg">Jul 21 at 5:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-20T22:21:56.966194-04:00.jpg">
+  <img src="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-20T22:21:56.966194-04:00.jpg"
+     alt="East Lansing Info at 2022-07-21 05:21:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-20T22:21:56.966194-04:00.jpg">Jul 21 at 5:21 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-20T10:18:49.995881-04:00.jpg">
+  <img src="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-20T10:18:49.995881-04:00.jpg"
+     alt="East Lansing Info at 2022-07-20 17:18:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-20T10:18:49.995881-04:00.jpg">Jul 20 at 5:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-19T22:15:24.555722-04:00.jpg">
+  <img src="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-19T22:15:24.555722-04:00.jpg"
+     alt="East Lansing Info at 2022-07-20 05:15:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-07-19T22:15:24.555722-04:00.jpg">Jul 20 at 5:15 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

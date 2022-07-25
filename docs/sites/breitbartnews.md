@@ -107,6 +107,120 @@ The archiving routine has saved 208 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-25T07:00:53.782210-04:00.jpg">
+  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-25T07:00:53.782210-04:00.jpg"
+     alt="Breitbart at 2022-07-25 14:01:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-25T07:00:53.782210-04:00.jpg">Jul 25 at 2:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-24T20:51:50.427247-04:00.jpg">
+  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-24T20:51:50.427247-04:00.jpg"
+     alt="Breitbart at 2022-07-25 03:52:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-24T20:51:50.427247-04:00.jpg">Jul 25 at 3:52 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-24T11:44:05.143454-04:00.jpg">
+  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-24T11:44:05.143454-04:00.jpg"
+     alt="Breitbart at 2022-07-24 18:44:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-24T11:44:05.143454-04:00.jpg">Jul 24 at 6:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-24T06:59:26.712590-04:00.jpg">
+  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-24T06:59:26.712590-04:00.jpg"
+     alt="Breitbart at 2022-07-24 13:59:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-24T06:59:26.712590-04:00.jpg">Jul 24 at 1:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-23T19:01:51.783380-04:00.jpg">
+  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-23T19:01:51.783380-04:00.jpg"
+     alt="Breitbart at 2022-07-24 02:01:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-23T19:01:51.783380-04:00.jpg">Jul 24 at 2:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-23T12:10:35.741958-04:00.jpg">
+  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-23T12:10:35.741958-04:00.jpg"
+     alt="Breitbart at 2022-07-23 19:10:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-23T12:10:35.741958-04:00.jpg">Jul 23 at 7:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-23T08:58:47.645051-04:00.jpg">
+  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-23T08:58:47.645051-04:00.jpg"
+     alt="Breitbart at 2022-07-23 15:58:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-23T08:58:47.645051-04:00.jpg">Jul 23 at 3:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-22T20:59:33.728351-04:00.jpg">
+  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-22T20:59:33.728351-04:00.jpg"
+     alt="Breitbart at 2022-07-23 03:59:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-22T20:59:33.728351-04:00.jpg">Jul 23 at 3:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-22T12:24:40.964175-04:00.jpg">
+  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-22T12:24:40.964175-04:00.jpg"
+     alt="Breitbart at 2022-07-22 19:24:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-22T12:24:40.964175-04:00.jpg">Jul 22 at 7:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-22T09:00:01.777127-04:00.jpg">
+  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-22T09:00:01.777127-04:00.jpg"
+     alt="Breitbart at 2022-07-22 16:00:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-22T09:00:01.777127-04:00.jpg">Jul 22 at 4:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-21T21:06:33.763731-04:00.jpg">
+  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-21T21:06:33.763731-04:00.jpg"
+     alt="Breitbart at 2022-07-22 04:06:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-21T21:06:33.763731-04:00.jpg">Jul 22 at 4:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-21T13:01:01.738257-04:00.jpg">
+  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-21T13:01:01.738257-04:00.jpg"
+     alt="Breitbart at 2022-07-21 20:01:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-21T13:01:01.738257-04:00.jpg">Jul 21 at 8:01 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

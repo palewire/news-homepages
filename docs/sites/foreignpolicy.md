@@ -107,6 +107,120 @@ The archiving routine has saved 99 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-25T08:03:30.696636-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-25T08:03:30.696636-04:00.jpg"
+     alt="Foreign Policy at 2022-07-25 15:03:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-25T08:03:30.696636-04:00.jpg">Jul 25 at 3:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-24T21:04:51.853146-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-24T21:04:51.853146-04:00.jpg"
+     alt="Foreign Policy at 2022-07-25 04:04:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-24T21:04:51.853146-04:00.jpg">Jul 25 at 4:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-24T07:59:31.482542-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-24T07:59:31.482542-04:00.jpg"
+     alt="Foreign Policy at 2022-07-24 14:59:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-24T07:59:31.482542-04:00.jpg">Jul 24 at 2:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-24T02:30:13.252330-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-24T02:30:13.252330-04:00.jpg"
+     alt="Foreign Policy at 2022-07-24 09:30:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-24T02:30:13.252330-04:00.jpg">Jul 24 at 9:30 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-23T09:59:20.963557-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-23T09:59:20.963557-04:00.jpg"
+     alt="Foreign Policy at 2022-07-23 16:59:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-23T09:59:20.963557-04:00.jpg">Jul 23 at 4:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-22T22:25:56.683002-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-22T22:25:56.683002-04:00.jpg"
+     alt="Foreign Policy at 2022-07-23 05:25:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-22T22:25:56.683002-04:00.jpg">Jul 23 at 5:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-22T10:00:57.066748-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-22T10:00:57.066748-04:00.jpg"
+     alt="Foreign Policy at 2022-07-22 17:01:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-22T10:00:57.066748-04:00.jpg">Jul 22 at 5:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-21T22:19:42.622792-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-21T22:19:42.622792-04:00.jpg"
+     alt="Foreign Policy at 2022-07-22 05:19:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-21T22:19:42.622792-04:00.jpg">Jul 22 at 5:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-21T10:07:18.015694-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-21T10:07:18.015694-04:00.jpg"
+     alt="Foreign Policy at 2022-07-21 17:07:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-21T10:07:18.015694-04:00.jpg">Jul 21 at 5:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-20T22:22:35.475466-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-20T22:22:35.475466-04:00.jpg"
+     alt="Foreign Policy at 2022-07-21 05:22:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-20T22:22:35.475466-04:00.jpg">Jul 21 at 5:22 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-20T10:22:04.969650-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-20T10:22:04.969650-04:00.jpg"
+     alt="Foreign Policy at 2022-07-20 17:22:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-20T10:22:04.969650-04:00.jpg">Jul 20 at 5:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-19T22:16:50.852721-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-19T22:16:50.852721-04:00.jpg"
+     alt="Foreign Policy at 2022-07-20 05:16:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-19T22:16:50.852721-04:00.jpg">Jul 20 at 5:16 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

@@ -107,6 +107,120 @@ The archiving routine has saved 109 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-24T23:46:47.716807-07:00.jpg">
+  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-24T23:46:47.716807-07:00.jpg"
+     alt="TechCrunch at 2022-07-25 06:46:50-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-24T23:46:47.716807-07:00.jpg">Jul 25 at 6:46 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-24T21:35:24.155095-07:00.jpg">
+  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-24T21:35:24.155095-07:00.jpg"
+     alt="TechCrunch at 2022-07-25 04:35:27-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-24T21:35:24.155095-07:00.jpg">Jul 25 at 4:35 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-24T08:04:29.106213-07:00.jpg">
+  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-24T08:04:29.106213-07:00.jpg"
+     alt="TechCrunch at 2022-07-24 15:04:31-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-24T08:04:29.106213-07:00.jpg">Jul 24 at 3:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-23T20:39:54.656611-07:00.jpg">
+  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-23T20:39:54.656611-07:00.jpg"
+     alt="TechCrunch at 2022-07-24 03:39:56-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-23T20:39:54.656611-07:00.jpg">Jul 24 at 3:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-23T09:03:05.409496-07:00.jpg">
+  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-23T09:03:05.409496-07:00.jpg"
+     alt="TechCrunch at 2022-07-23 16:03:09-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-23T09:03:05.409496-07:00.jpg">Jul 23 at 4:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-22T21:23:08.228394-07:00.jpg">
+  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-22T21:23:08.228394-07:00.jpg"
+     alt="TechCrunch at 2022-07-23 04:23:10-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-22T21:23:08.228394-07:00.jpg">Jul 23 at 4:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-22T09:16:32.778591-07:00.jpg">
+  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-22T09:16:32.778591-07:00.jpg"
+     alt="TechCrunch at 2022-07-22 16:16:34-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-22T09:16:32.778591-07:00.jpg">Jul 22 at 4:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-21T21:29:19.450290-07:00.jpg">
+  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-21T21:29:19.450290-07:00.jpg"
+     alt="TechCrunch at 2022-07-22 04:29:21-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-21T21:29:19.450290-07:00.jpg">Jul 22 at 4:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-21T09:53:02.964805-07:00.jpg">
+  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-21T09:53:02.964805-07:00.jpg"
+     alt="TechCrunch at 2022-07-21 16:53:06-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-21T09:53:02.964805-07:00.jpg">Jul 21 at 4:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-20T21:27:54.801110-07:00.jpg">
+  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-20T21:27:54.801110-07:00.jpg"
+     alt="TechCrunch at 2022-07-21 04:28:00-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-20T21:27:54.801110-07:00.jpg">Jul 21 at 4:28 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-20T09:43:31.434068-07:00.jpg">
+  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-20T09:43:31.434068-07:00.jpg"
+     alt="TechCrunch at 2022-07-20 16:43:37-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-20T09:43:31.434068-07:00.jpg">Jul 20 at 4:43 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-19T21:20:11.744380-07:00.jpg">
+  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-19T21:20:11.744380-07:00.jpg"
+     alt="TechCrunch at 2022-07-20 04:20:14-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-19T21:20:11.744380-07:00.jpg">Jul 20 at 4:20 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

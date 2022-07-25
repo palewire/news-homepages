@@ -107,6 +107,120 @@ The archiving routine has saved 83 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-24T22:30:45.184304-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-24T22:30:45.184304-05:00.jpg"
+     alt="Little Village at 2022-07-25 05:30:47-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-24T22:30:45.184304-05:00.jpg">Jul 25 at 5:30 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-24T08:01:13.720642-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-24T08:01:13.720642-05:00.jpg"
+     alt="Little Village at 2022-07-24 15:01:17-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-24T08:01:13.720642-05:00.jpg">Jul 24 at 3:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-23T23:17:33.951021-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-23T23:17:33.951021-05:00.jpg"
+     alt="Little Village at 2022-07-24 06:17:37-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-23T23:17:33.951021-05:00.jpg">Jul 24 at 6:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-23T10:00:14.477690-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-23T10:00:14.477690-05:00.jpg"
+     alt="Little Village at 2022-07-23 17:00:15-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-23T10:00:14.477690-05:00.jpg">Jul 23 at 5:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-22T22:30:27.886084-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-22T22:30:27.886084-05:00.jpg"
+     alt="Little Village at 2022-07-23 05:30:29-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-22T22:30:27.886084-05:00.jpg">Jul 23 at 5:30 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-22T11:12:54.617541-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-22T11:12:54.617541-05:00.jpg"
+     alt="Little Village at 2022-07-22 18:12:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-22T11:12:54.617541-05:00.jpg">Jul 22 at 6:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-22T09:56:47.687490-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-22T09:56:47.687490-05:00.jpg"
+     alt="Little Village at 2022-07-22 16:56:49-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-22T09:56:47.687490-05:00.jpg">Jul 22 at 4:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-21T22:34:35.086127-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-21T22:34:35.086127-05:00.jpg"
+     alt="Little Village at 2022-07-22 05:34:37-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-21T22:34:35.086127-05:00.jpg">Jul 22 at 5:34 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-21T10:27:38.441290-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-21T10:27:38.441290-05:00.jpg"
+     alt="Little Village at 2022-07-21 17:27:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-21T10:27:38.441290-05:00.jpg">Jul 21 at 5:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-20T22:33:30.480108-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-20T22:33:30.480108-05:00.jpg"
+     alt="Little Village at 2022-07-21 05:33:33-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-20T22:33:30.480108-05:00.jpg">Jul 21 at 5:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-20T11:55:11.073927-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-20T11:55:11.073927-05:00.jpg"
+     alt="Little Village at 2022-07-20 18:55:13-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-20T11:55:11.073927-05:00.jpg">Jul 20 at 6:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-20T11:06:14.117790-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-20T11:06:14.117790-05:00.jpg"
+     alt="Little Village at 2022-07-20 18:06:19-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-20T11:06:14.117790-05:00.jpg">Jul 20 at 6:06 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

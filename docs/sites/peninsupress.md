@@ -107,6 +107,120 @@ The archiving routine has saved 70 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T20:39:09.048292-07:00.jpg">
+  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T20:39:09.048292-07:00.jpg"
+     alt="Peninsula Press at 2022-07-25 03:39:10-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T20:39:09.048292-07:00.jpg">Jul 25 at 3:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T07:00:19.194933-07:00.jpg">
+  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T07:00:19.194933-07:00.jpg"
+     alt="Peninsula Press at 2022-07-24 14:00:20-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T07:00:19.194933-07:00.jpg">Jul 24 at 2:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T23:19:07.765764-07:00.jpg">
+  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T23:19:07.765764-07:00.jpg"
+     alt="Peninsula Press at 2022-07-24 06:19:14-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T23:19:07.765764-07:00.jpg">Jul 24 at 6:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T08:06:08.716103-07:00.jpg">
+  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T08:06:08.716103-07:00.jpg"
+     alt="Peninsula Press at 2022-07-23 15:06:09-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T08:06:08.716103-07:00.jpg">Jul 23 at 3:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-22T20:36:18.996922-07:00.jpg">
+  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-22T20:36:18.996922-07:00.jpg"
+     alt="Peninsula Press at 2022-07-23 03:36:20-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-22T20:36:18.996922-07:00.jpg">Jul 23 at 3:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-22T08:01:46.716490-07:00.jpg">
+  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-22T08:01:46.716490-07:00.jpg"
+     alt="Peninsula Press at 2022-07-22 15:01:48-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-22T08:01:46.716490-07:00.jpg">Jul 22 at 3:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-21T20:40:35.324881-07:00.jpg">
+  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-21T20:40:35.324881-07:00.jpg"
+     alt="Peninsula Press at 2022-07-22 03:40:37-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-21T20:40:35.324881-07:00.jpg">Jul 22 at 3:40 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-21T08:37:17.373837-07:00.jpg">
+  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-21T08:37:17.373837-07:00.jpg"
+     alt="Peninsula Press at 2022-07-21 15:37:19-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-21T08:37:17.373837-07:00.jpg">Jul 21 at 3:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-20T20:38:32.103592-07:00.jpg">
+  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-20T20:38:32.103592-07:00.jpg"
+     alt="Peninsula Press at 2022-07-21 03:38:35-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-20T20:38:32.103592-07:00.jpg">Jul 21 at 3:38 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-20T09:13:18.985987-07:00.jpg">
+  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-20T09:13:18.985987-07:00.jpg"
+     alt="Peninsula Press at 2022-07-20 16:13:22-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-20T09:13:18.985987-07:00.jpg">Jul 20 at 4:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-19T20:36:41.266638-07:00.jpg">
+  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-19T20:36:41.266638-07:00.jpg"
+     alt="Peninsula Press at 2022-07-20 03:36:43-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-19T20:36:41.266638-07:00.jpg">Jul 20 at 3:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-19T08:46:23.635133-07:00.jpg">
+  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-19T08:46:23.635133-07:00.jpg"
+     alt="Peninsula Press at 2022-07-19 15:46:25-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-19T08:46:23.635133-07:00.jpg">Jul 19 at 3:46 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

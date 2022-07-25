@@ -107,6 +107,120 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-24T22:36:42.110101-05:00.jpg">
+  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-24T22:36:42.110101-05:00.jpg"
+     alt="St. Joseph News Press at 2022-07-25 05:36:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-24T22:36:42.110101-05:00.jpg">Jul 25 at 5:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-24T08:05:46.823612-05:00.jpg">
+  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-24T08:05:46.823612-05:00.jpg"
+     alt="St. Joseph News Press at 2022-07-24 15:05:48-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-24T08:05:46.823612-05:00.jpg">Jul 24 at 3:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-23T23:20:57.299677-05:00.jpg">
+  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-23T23:20:57.299677-05:00.jpg"
+     alt="St. Joseph News Press at 2022-07-24 06:20:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-23T23:20:57.299677-05:00.jpg">Jul 24 at 6:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-23T10:03:25.844490-05:00.jpg">
+  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-23T10:03:25.844490-05:00.jpg"
+     alt="St. Joseph News Press at 2022-07-23 17:03:28-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-23T10:03:25.844490-05:00.jpg">Jul 23 at 5:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-22T22:33:40.449540-05:00.jpg">
+  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-22T22:33:40.449540-05:00.jpg"
+     alt="St. Joseph News Press at 2022-07-23 05:33:41-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-22T22:33:40.449540-05:00.jpg">Jul 23 at 5:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-22T09:59:05.924432-05:00.jpg">
+  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-22T09:59:05.924432-05:00.jpg"
+     alt="St. Joseph News Press at 2022-07-22 16:59:07-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-22T09:59:05.924432-05:00.jpg">Jul 22 at 4:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-21T22:37:34.915733-05:00.jpg">
+  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-21T22:37:34.915733-05:00.jpg"
+     alt="St. Joseph News Press at 2022-07-22 05:37:36-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-21T22:37:34.915733-05:00.jpg">Jul 22 at 5:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-21T10:33:07.555828-05:00.jpg">
+  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-21T10:33:07.555828-05:00.jpg"
+     alt="St. Joseph News Press at 2022-07-21 17:33:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-21T10:33:07.555828-05:00.jpg">Jul 21 at 5:33 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-20T22:36:07.606573-05:00.jpg">
+  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-20T22:36:07.606573-05:00.jpg"
+     alt="St. Joseph News Press at 2022-07-21 05:36:08-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-20T22:36:07.606573-05:00.jpg">Jul 21 at 5:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-20T11:09:41.716013-05:00.jpg">
+  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-20T11:09:41.716013-05:00.jpg"
+     alt="St. Joseph News Press at 2022-07-20 18:09:44-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-20T11:09:41.716013-05:00.jpg">Jul 20 at 6:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-19T22:33:53.517073-05:00.jpg">
+  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-19T22:33:53.517073-05:00.jpg"
+     alt="St. Joseph News Press at 2022-07-20 05:33:55-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-19T22:33:53.517073-05:00.jpg">Jul 20 at 5:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-19T10:44:32.983956-05:00.jpg">
+  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-19T10:44:32.983956-05:00.jpg"
+     alt="St. Joseph News Press at 2022-07-19 17:44:34-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-19T10:44:32.983956-05:00.jpg">Jul 19 at 5:44 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

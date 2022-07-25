@@ -107,6 +107,120 @@ The archiving routine has saved 182 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-24T23:41:14.162002-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-24T23:41:14.162002-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-07-25 06:41:17-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-24T23:41:14.162002-05:00.jpg">Jul 25 at 6:41 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-24T10:10:55.157965-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-24T10:10:55.157965-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-07-24 17:10:57-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-24T10:10:55.157965-05:00.jpg">Jul 24 at 5:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-23T22:47:06.811239-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-23T22:47:06.811239-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-07-24 05:47:08-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-23T22:47:06.811239-05:00.jpg">Jul 24 at 5:47 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-23T11:09:04.720060-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-23T11:09:04.720060-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-07-23 18:09:13-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-23T11:09:04.720060-05:00.jpg">Jul 23 at 6:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-22T23:29:28.417738-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-22T23:29:28.417738-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-07-23 06:29:32-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-22T23:29:28.417738-05:00.jpg">Jul 23 at 6:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-22T11:21:47.200003-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-22T11:21:47.200003-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-07-22 18:21:49-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-22T11:21:47.200003-05:00.jpg">Jul 22 at 6:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-21T23:36:07.402368-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-21T23:36:07.402368-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-07-22 06:36:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-21T23:36:07.402368-05:00.jpg">Jul 22 at 6:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-21T11:59:21.192128-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-21T11:59:21.192128-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-07-21 18:59:24-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-21T11:59:21.192128-05:00.jpg">Jul 21 at 6:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-20T23:33:15.795790-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-20T23:33:15.795790-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-07-21 06:33:20-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-20T23:33:15.795790-05:00.jpg">Jul 21 at 6:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-20T11:50:14.315852-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-20T11:50:14.315852-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-07-20 18:50:18-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-20T11:50:14.315852-05:00.jpg">Jul 20 at 6:50 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-19T23:24:29.348671-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-19T23:24:29.348671-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-07-20 06:24:32-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-19T23:24:29.348671-05:00.jpg">Jul 20 at 6:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-19T12:05:18.766377-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-19T12:05:18.766377-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-07-19 19:05:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-19T12:05:18.766377-05:00.jpg">Jul 19 at 7:05 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

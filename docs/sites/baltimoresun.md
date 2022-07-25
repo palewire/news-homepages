@@ -107,6 +107,120 @@ The archiving routine has saved 238 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T06:59:08.936205-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T06:59:08.936205-04:00.jpg"
+     alt="The Baltimore Sun at 2022-07-25 13:59:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T06:59:08.936205-04:00.jpg">Jul 25 at 1:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T06:55:16.680041-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T06:55:16.680041-04:00.jpg"
+     alt="The Baltimore Sun at 2022-07-25 13:55:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T06:55:16.680041-04:00.jpg">Jul 25 at 1:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T20:48:54.212403-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T20:48:54.212403-04:00.jpg"
+     alt="The Baltimore Sun at 2022-07-25 03:48:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T20:48:54.212403-04:00.jpg">Jul 25 at 3:48 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T19:25:08.539046-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T19:25:08.539046-04:00.jpg"
+     alt="The Baltimore Sun at 2022-07-25 02:25:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T19:25:08.539046-04:00.jpg">Jul 25 at 2:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T12:13:44.159659-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T12:13:44.159659-04:00.jpg"
+     alt="The Baltimore Sun at 2022-07-24 19:13:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T12:13:44.159659-04:00.jpg">Jul 24 at 7:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T06:57:33.067929-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T06:57:33.067929-04:00.jpg"
+     alt="The Baltimore Sun at 2022-07-24 13:57:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T06:57:33.067929-04:00.jpg">Jul 24 at 1:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T06:54:44.722720-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T06:54:44.722720-04:00.jpg"
+     alt="The Baltimore Sun at 2022-07-24 13:54:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T06:54:44.722720-04:00.jpg">Jul 24 at 1:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-23T19:00:16.718523-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-23T19:00:16.718523-04:00.jpg"
+     alt="The Baltimore Sun at 2022-07-24 02:00:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-23T19:00:16.718523-04:00.jpg">Jul 24 at 2:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-23T18:53:22.404876-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-23T18:53:22.404876-04:00.jpg"
+     alt="The Baltimore Sun at 2022-07-24 01:53:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-23T18:53:22.404876-04:00.jpg">Jul 24 at 1:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-23T13:03:53.597433-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-23T13:03:53.597433-04:00.jpg"
+     alt="The Baltimore Sun at 2022-07-23 20:04:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-23T13:03:53.597433-04:00.jpg">Jul 23 at 8:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-23T08:56:50.767826-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-23T08:56:50.767826-04:00.jpg"
+     alt="The Baltimore Sun at 2022-07-23 15:56:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-23T08:56:50.767826-04:00.jpg">Jul 23 at 3:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-23T06:07:38.880569-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-23T06:07:38.880569-04:00.jpg"
+     alt="The Baltimore Sun at 2022-07-23 13:07:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-23T06:07:38.880569-04:00.jpg">Jul 23 at 1:07 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

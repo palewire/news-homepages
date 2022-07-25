@@ -107,6 +107,120 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/azds-2022/azds-2022-07-25T03:58:43.018039-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-07-25T03:58:43.018039-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-07-25 10:58:44-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-07-25T03:58:43.018039-07:00.jpg">Jul 25 at 10:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/azds-2022/azds-2022-07-24T03:57:24.218425-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-07-24T03:57:24.218425-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-07-24 10:57:26-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-07-24T03:57:24.218425-07:00.jpg">Jul 24 at 10:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/azds-2022/azds-2022-07-23T15:59:32.178114-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-07-23T15:59:32.178114-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-07-23 22:59:33-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-07-23T15:59:32.178114-07:00.jpg">Jul 23 at 10:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/azds-2022/azds-2022-07-23T05:56:23.165751-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-07-23T05:56:23.165751-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-07-23 12:56:25-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-07-23T05:56:23.165751-07:00.jpg">Jul 23 at 12:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/azds-2022/azds-2022-07-22T17:57:19.097936-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-07-22T17:57:19.097936-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-07-23 00:57:20-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-07-22T17:57:19.097936-07:00.jpg">Jul 23 at 12:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/azds-2022/azds-2022-07-22T05:56:19.729615-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-07-22T05:56:19.729615-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-07-22 12:56:21-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-07-22T05:56:19.729615-07:00.jpg">Jul 22 at 12:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/azds-2022/azds-2022-07-21T18:05:12.647832-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-07-21T18:05:12.647832-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-07-22 01:05:14-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-07-21T18:05:12.647832-07:00.jpg">Jul 22 at 1:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/azds-2022/azds-2022-07-21T05:51:56.876736-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-07-21T05:51:56.876736-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-07-21 12:51:59-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-07-21T05:51:56.876736-07:00.jpg">Jul 21 at 12:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/azds-2022/azds-2022-07-20T18:04:00.167333-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-07-20T18:04:00.167333-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-07-21 01:04:02-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-07-20T18:04:00.167333-07:00.jpg">Jul 21 at 1:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/azds-2022/azds-2022-07-19T17:58:50.820991-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-07-19T17:58:50.820991-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-07-20 00:58:52-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-07-19T17:58:50.820991-07:00.jpg">Jul 20 at 12:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/azds-2022/azds-2022-07-19T05:48:54.360748-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-07-19T05:48:54.360748-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-07-19 12:48:56-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-07-19T05:48:54.360748-07:00.jpg">Jul 19 at 12:48 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/azds-2022/azds-2022-07-18T18:14:44.309026-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-07-18T18:14:44.309026-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-07-19 01:14:45-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-07-18T18:14:44.309026-07:00.jpg">Jul 19 at 1:14 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

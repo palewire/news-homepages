@@ -107,6 +107,120 @@ The archiving routine has saved 111 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T06:59:24.194781-04:00.jpg">
+  <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T06:59:24.194781-04:00.jpg"
+     alt="Baltimore Banner at 2022-07-25 13:59:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T06:59:24.194781-04:00.jpg">Jul 25 at 1:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T20:48:51.209241-04:00.jpg">
+  <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T20:48:51.209241-04:00.jpg"
+     alt="Baltimore Banner at 2022-07-25 03:48:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T20:48:51.209241-04:00.jpg">Jul 25 at 3:48 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T06:57:51.548644-04:00.jpg">
+  <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T06:57:51.548644-04:00.jpg"
+     alt="Baltimore Banner at 2022-07-24 13:57:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T06:57:51.548644-04:00.jpg">Jul 24 at 1:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T18:59:58.714986-04:00.jpg">
+  <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T18:59:58.714986-04:00.jpg"
+     alt="Baltimore Banner at 2022-07-24 02:00:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T18:59:58.714986-04:00.jpg">Jul 24 at 2:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T08:56:59.959956-04:00.jpg">
+  <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T08:56:59.959956-04:00.jpg"
+     alt="Baltimore Banner at 2022-07-23 15:57:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T08:56:59.959956-04:00.jpg">Jul 23 at 3:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-22T20:57:47.830523-04:00.jpg">
+  <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-22T20:57:47.830523-04:00.jpg"
+     alt="Baltimore Banner at 2022-07-23 03:57:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-22T20:57:47.830523-04:00.jpg">Jul 23 at 3:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-22T08:57:21.067397-04:00.jpg">
+  <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-22T08:57:21.067397-04:00.jpg"
+     alt="Baltimore Banner at 2022-07-22 15:57:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-22T08:57:21.067397-04:00.jpg">Jul 22 at 3:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-21T21:04:52.816922-04:00.jpg">
+  <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-21T21:04:52.816922-04:00.jpg"
+     alt="Baltimore Banner at 2022-07-22 04:04:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-21T21:04:52.816922-04:00.jpg">Jul 22 at 4:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-21T08:51:45.871010-04:00.jpg">
+  <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-21T08:51:45.871010-04:00.jpg"
+     alt="Baltimore Banner at 2022-07-21 15:51:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-21T08:51:45.871010-04:00.jpg">Jul 21 at 3:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-20T21:03:59.147035-04:00.jpg">
+  <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-20T21:03:59.147035-04:00.jpg"
+     alt="Baltimore Banner at 2022-07-21 04:04:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-20T21:03:59.147035-04:00.jpg">Jul 21 at 4:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-20T08:51:50.183787-04:00.jpg">
+  <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-20T08:51:50.183787-04:00.jpg"
+     alt="Baltimore Banner at 2022-07-20 15:51:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-20T08:51:50.183787-04:00.jpg">Jul 20 at 3:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-20T00:33:22.252481-04:00.jpg">
+  <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-20T00:33:22.252481-04:00.jpg"
+     alt="Baltimore Banner at 2022-07-20 07:33:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-20T00:33:22.252481-04:00.jpg">Jul 20 at 7:33 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

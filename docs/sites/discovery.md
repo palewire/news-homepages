@@ -107,6 +107,120 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/discovery-2022/discovery-2022-07-25T07:59:41.234360-04:00.jpg">
+  <img src="https://archive.org/download/discovery-2022/discovery-2022-07-25T07:59:41.234360-04:00.jpg"
+     alt="Discovery at 2022-07-25 14:59:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/discovery-2022/discovery-2022-07-25T07:59:41.234360-04:00.jpg">Jul 25 at 2:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/discovery-2022/discovery-2022-07-24T21:01:20.231195-04:00.jpg">
+  <img src="https://archive.org/download/discovery-2022/discovery-2022-07-24T21:01:20.231195-04:00.jpg"
+     alt="Discovery at 2022-07-25 04:01:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/discovery-2022/discovery-2022-07-24T21:01:20.231195-04:00.jpg">Jul 25 at 4:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/discovery-2022/discovery-2022-07-24T07:57:30.372959-04:00.jpg">
+  <img src="https://archive.org/download/discovery-2022/discovery-2022-07-24T07:57:30.372959-04:00.jpg"
+     alt="Discovery at 2022-07-24 14:57:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/discovery-2022/discovery-2022-07-24T07:57:30.372959-04:00.jpg">Jul 24 at 2:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/discovery-2022/discovery-2022-07-24T02:26:45.983278-04:00.jpg">
+  <img src="https://archive.org/download/discovery-2022/discovery-2022-07-24T02:26:45.983278-04:00.jpg"
+     alt="Discovery at 2022-07-24 09:26:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/discovery-2022/discovery-2022-07-24T02:26:45.983278-04:00.jpg">Jul 24 at 9:26 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/discovery-2022/discovery-2022-07-23T09:56:41.550214-04:00.jpg">
+  <img src="https://archive.org/download/discovery-2022/discovery-2022-07-23T09:56:41.550214-04:00.jpg"
+     alt="Discovery at 2022-07-23 16:56:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/discovery-2022/discovery-2022-07-23T09:56:41.550214-04:00.jpg">Jul 23 at 4:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/discovery-2022/discovery-2022-07-23T09:03:26.917641-04:00.jpg">
+  <img src="https://archive.org/download/discovery-2022/discovery-2022-07-23T09:03:26.917641-04:00.jpg"
+     alt="Discovery at 2022-07-23 16:03:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/discovery-2022/discovery-2022-07-23T09:03:26.917641-04:00.jpg">Jul 23 at 4:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/discovery-2022/discovery-2022-07-22T21:05:01.872488-04:00.jpg">
+  <img src="https://archive.org/download/discovery-2022/discovery-2022-07-22T21:05:01.872488-04:00.jpg"
+     alt="Discovery at 2022-07-23 04:05:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/discovery-2022/discovery-2022-07-22T21:05:01.872488-04:00.jpg">Jul 23 at 4:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/discovery-2022/discovery-2022-07-22T09:04:25.482519-04:00.jpg">
+  <img src="https://archive.org/download/discovery-2022/discovery-2022-07-22T09:04:25.482519-04:00.jpg"
+     alt="Discovery at 2022-07-22 16:04:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/discovery-2022/discovery-2022-07-22T09:04:25.482519-04:00.jpg">Jul 22 at 4:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/discovery-2022/discovery-2022-07-21T21:11:37.774876-04:00.jpg">
+  <img src="https://archive.org/download/discovery-2022/discovery-2022-07-21T21:11:37.774876-04:00.jpg"
+     alt="Discovery at 2022-07-22 04:11:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/discovery-2022/discovery-2022-07-21T21:11:37.774876-04:00.jpg">Jul 22 at 4:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/discovery-2022/discovery-2022-07-21T10:04:01.362386-04:00.jpg">
+  <img src="https://archive.org/download/discovery-2022/discovery-2022-07-21T10:04:01.362386-04:00.jpg"
+     alt="Discovery at 2022-07-21 17:04:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/discovery-2022/discovery-2022-07-21T10:04:01.362386-04:00.jpg">Jul 21 at 5:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/discovery-2022/discovery-2022-07-20T22:21:54.946889-04:00.jpg">
+  <img src="https://archive.org/download/discovery-2022/discovery-2022-07-20T22:21:54.946889-04:00.jpg"
+     alt="Discovery at 2022-07-21 05:21:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/discovery-2022/discovery-2022-07-20T22:21:54.946889-04:00.jpg">Jul 21 at 5:21 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/discovery-2022/discovery-2022-07-20T10:16:36.490807-04:00.jpg">
+  <img src="https://archive.org/download/discovery-2022/discovery-2022-07-20T10:16:36.490807-04:00.jpg"
+     alt="Discovery at 2022-07-20 17:16:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/discovery-2022/discovery-2022-07-20T10:16:36.490807-04:00.jpg">Jul 20 at 5:16 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

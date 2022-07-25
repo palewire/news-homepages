@@ -107,6 +107,120 @@ The archiving routine has saved 208 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-25T14:02:49.891991+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-07-25T14:02:49.891991+02:00.jpg"
+     alt="France 24 English at 2022-07-25 21:02:51+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-25T14:02:49.891991+02:00.jpg">Jul 25 at 9:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-25T10:09:12.916997+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-07-25T10:09:12.916997+02:00.jpg"
+     alt="France 24 English at 2022-07-25 17:09:17+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-25T10:09:12.916997+02:00.jpg">Jul 25 at 5:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-25T03:06:33.249337+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-07-25T03:06:33.249337+02:00.jpg"
+     alt="France 24 English at 2022-07-25 10:06:35+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-25T03:06:33.249337+02:00.jpg">Jul 25 at 10:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-24T14:00:13.562948+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-07-24T14:00:13.562948+02:00.jpg"
+     alt="France 24 English at 2022-07-24 21:00:17+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-24T14:00:13.562948+02:00.jpg">Jul 24 at 9:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-24T10:09:51.526324+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-07-24T10:09:51.526324+02:00.jpg"
+     alt="France 24 English at 2022-07-24 17:09:52+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-24T10:09:51.526324+02:00.jpg">Jul 24 at 5:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-24T08:30:29.405141+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-07-24T08:30:29.405141+02:00.jpg"
+     alt="France 24 English at 2022-07-24 15:30:32+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-24T08:30:29.405141+02:00.jpg">Jul 24 at 3:30 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-23T15:59:51.985551+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-07-23T15:59:51.985551+02:00.jpg"
+     alt="France 24 English at 2022-07-23 22:59:53+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-23T15:59:51.985551+02:00.jpg">Jul 23 at 10:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-23T10:07:10.106083+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-07-23T10:07:10.106083+02:00.jpg"
+     alt="France 24 English at 2022-07-23 17:07:12+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-23T10:07:10.106083+02:00.jpg">Jul 23 at 5:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-23T04:25:47.061928+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-07-23T04:25:47.061928+02:00.jpg"
+     alt="France 24 English at 2022-07-23 11:25:55+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-23T04:25:47.061928+02:00.jpg">Jul 23 at 11:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-22T16:01:14.161927+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-07-22T16:01:14.161927+02:00.jpg"
+     alt="France 24 English at 2022-07-22 23:01:16+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-22T16:01:14.161927+02:00.jpg">Jul 22 at 11:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-22T10:07:02.319180+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-07-22T10:07:02.319180+02:00.jpg"
+     alt="France 24 English at 2022-07-22 17:07:08+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-22T10:07:02.319180+02:00.jpg">Jul 22 at 5:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-22T04:20:57.989061+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-07-22T04:20:57.989061+02:00.jpg"
+     alt="France 24 English at 2022-07-22 11:20:59+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-22T04:20:57.989061+02:00.jpg">Jul 22 at 11:20 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

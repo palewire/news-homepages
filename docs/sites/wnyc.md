@@ -107,6 +107,120 @@ The archiving routine has saved 71 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-25T00:42:00.313907-04:00.jpg">
+  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-07-25T00:42:00.313907-04:00.jpg"
+     alt="WNYC at 2022-07-25 07:42:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-25T00:42:00.313907-04:00.jpg">Jul 25 at 7:42 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-24T11:11:20.540172-04:00.jpg">
+  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-07-24T11:11:20.540172-04:00.jpg"
+     alt="WNYC at 2022-07-24 18:11:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-24T11:11:20.540172-04:00.jpg">Jul 24 at 6:11 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-23T23:47:29.954809-04:00.jpg">
+  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-07-23T23:47:29.954809-04:00.jpg"
+     alt="WNYC at 2022-07-24 06:47:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-23T23:47:29.954809-04:00.jpg">Jul 24 at 6:47 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-23T12:09:53.870480-04:00.jpg">
+  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-07-23T12:09:53.870480-04:00.jpg"
+     alt="WNYC at 2022-07-23 19:09:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-23T12:09:53.870480-04:00.jpg">Jul 23 at 7:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-23T00:29:35.938455-04:00.jpg">
+  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-07-23T00:29:35.938455-04:00.jpg"
+     alt="WNYC at 2022-07-23 07:29:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-23T00:29:35.938455-04:00.jpg">Jul 23 at 7:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-22T12:22:45.840140-04:00.jpg">
+  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-07-22T12:22:45.840140-04:00.jpg"
+     alt="WNYC at 2022-07-22 19:22:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-22T12:22:45.840140-04:00.jpg">Jul 22 at 7:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-22T00:36:35.628165-04:00.jpg">
+  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-07-22T00:36:35.628165-04:00.jpg"
+     alt="WNYC at 2022-07-22 07:36:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-22T00:36:35.628165-04:00.jpg">Jul 22 at 7:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-21T13:00:19.907741-04:00.jpg">
+  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-07-21T13:00:19.907741-04:00.jpg"
+     alt="WNYC at 2022-07-21 20:00:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-21T13:00:19.907741-04:00.jpg">Jul 21 at 8:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-21T00:33:42.289474-04:00.jpg">
+  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-07-21T00:33:42.289474-04:00.jpg"
+     alt="WNYC at 2022-07-21 07:33:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-21T00:33:42.289474-04:00.jpg">Jul 21 at 7:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-20T12:49:41.191650-04:00.jpg">
+  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-07-20T12:49:41.191650-04:00.jpg"
+     alt="WNYC at 2022-07-20 19:49:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-20T12:49:41.191650-04:00.jpg">Jul 20 at 7:49 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-20T00:24:52.494993-04:00.jpg">
+  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-07-20T00:24:52.494993-04:00.jpg"
+     alt="WNYC at 2022-07-20 07:24:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-20T00:24:52.494993-04:00.jpg">Jul 20 at 7:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-19T13:05:33.378722-04:00.jpg">
+  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-07-19T13:05:33.378722-04:00.jpg"
+     alt="WNYC at 2022-07-19 20:05:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-19T13:05:33.378722-04:00.jpg">Jul 19 at 8:05 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

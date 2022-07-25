@@ -107,6 +107,120 @@ The archiving routine has saved 68 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-24T23:23:53.354497-04:00.jpg">
+  <img src="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-24T23:23:53.354497-04:00.jpg"
+     alt="La Journal de Montréal at 2022-07-25 06:23:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-24T23:23:53.354497-04:00.jpg">Jul 25 at 6:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-24T08:59:06.120935-04:00.jpg">
+  <img src="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-24T08:59:06.120935-04:00.jpg"
+     alt="La Journal de Montréal at 2022-07-24 15:59:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-24T08:59:06.120935-04:00.jpg">Jul 24 at 3:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-24T00:13:46.967022-04:00.jpg">
+  <img src="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-24T00:13:46.967022-04:00.jpg"
+     alt="La Journal de Montréal at 2022-07-24 07:13:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-24T00:13:46.967022-04:00.jpg">Jul 24 at 7:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-23T10:03:40.773454-04:00.jpg">
+  <img src="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-23T10:03:40.773454-04:00.jpg"
+     alt="La Journal de Montréal at 2022-07-23 17:03:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-23T10:03:40.773454-04:00.jpg">Jul 23 at 5:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-22T22:29:49.324322-04:00.jpg">
+  <img src="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-22T22:29:49.324322-04:00.jpg"
+     alt="La Journal de Montréal at 2022-07-23 05:29:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-22T22:29:49.324322-04:00.jpg">Jul 23 at 5:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-22T10:04:39.908073-04:00.jpg">
+  <img src="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-22T10:04:39.908073-04:00.jpg"
+     alt="La Journal de Montréal at 2022-07-22 17:04:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-22T10:04:39.908073-04:00.jpg">Jul 22 at 5:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-21T22:23:54.133960-04:00.jpg">
+  <img src="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-21T22:23:54.133960-04:00.jpg"
+     alt="La Journal de Montréal at 2022-07-22 05:23:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-21T22:23:54.133960-04:00.jpg">Jul 22 at 5:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-21T10:13:39.953914-04:00.jpg">
+  <img src="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-21T10:13:39.953914-04:00.jpg"
+     alt="La Journal de Montréal at 2022-07-21 17:13:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-21T10:13:39.953914-04:00.jpg">Jul 21 at 5:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-20T22:26:45.093237-04:00.jpg">
+  <img src="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-20T22:26:45.093237-04:00.jpg"
+     alt="La Journal de Montréal at 2022-07-21 05:26:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-20T22:26:45.093237-04:00.jpg">Jul 21 at 5:26 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-20T10:27:41.150682-04:00.jpg">
+  <img src="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-20T10:27:41.150682-04:00.jpg"
+     alt="La Journal de Montréal at 2022-07-20 17:27:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-20T10:27:41.150682-04:00.jpg">Jul 20 at 5:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-19T22:19:53.408817-04:00.jpg">
+  <img src="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-19T22:19:53.408817-04:00.jpg"
+     alt="La Journal de Montréal at 2022-07-20 05:19:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-19T22:19:53.408817-04:00.jpg">Jul 20 at 5:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-19T10:15:48.239029-04:00.jpg">
+  <img src="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-19T10:15:48.239029-04:00.jpg"
+     alt="La Journal de Montréal at 2022-07-19 17:15:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-19T10:15:48.239029-04:00.jpg">Jul 19 at 5:15 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

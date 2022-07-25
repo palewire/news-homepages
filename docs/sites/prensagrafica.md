@@ -107,6 +107,120 @@ The archiving routine has saved 76 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T21:40:08.788156-06:00.jpg">
+  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T21:40:08.788156-06:00.jpg"
+     alt="Prensa Grafica at 2022-07-25 04:40:15-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T21:40:08.788156-06:00.jpg">Jul 25 at 4:40 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T08:01:15.706196-06:00.jpg">
+  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T08:01:15.706196-06:00.jpg"
+     alt="Prensa Grafica at 2022-07-24 15:01:18-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T08:01:15.706196-06:00.jpg">Jul 24 at 3:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T00:20:11.544213-06:00.jpg">
+  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T00:20:11.544213-06:00.jpg"
+     alt="Prensa Grafica at 2022-07-24 07:20:13-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T00:20:11.544213-06:00.jpg">Jul 24 at 7:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-23T09:06:48.695563-06:00.jpg">
+  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-23T09:06:48.695563-06:00.jpg"
+     alt="Prensa Grafica at 2022-07-23 16:06:50-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-23T09:06:48.695563-06:00.jpg">Jul 23 at 4:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-22T21:37:00.119838-06:00.jpg">
+  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-22T21:37:00.119838-06:00.jpg"
+     alt="Prensa Grafica at 2022-07-23 04:37:01-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-22T21:37:00.119838-06:00.jpg">Jul 23 at 4:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-22T09:02:15.358050-06:00.jpg">
+  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-22T09:02:15.358050-06:00.jpg"
+     alt="Prensa Grafica at 2022-07-22 16:02:19-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-22T09:02:15.358050-06:00.jpg">Jul 22 at 4:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-21T21:40:59.117122-06:00.jpg">
+  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-21T21:40:59.117122-06:00.jpg"
+     alt="Prensa Grafica at 2022-07-22 04:41:02-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-21T21:40:59.117122-06:00.jpg">Jul 22 at 4:41 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-21T09:37:27.406463-06:00.jpg">
+  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-21T09:37:27.406463-06:00.jpg"
+     alt="Prensa Grafica at 2022-07-21 16:37:31-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-21T09:37:27.406463-06:00.jpg">Jul 21 at 4:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-20T21:39:30.569575-06:00.jpg">
+  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-20T21:39:30.569575-06:00.jpg"
+     alt="Prensa Grafica at 2022-07-21 04:39:34-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-20T21:39:30.569575-06:00.jpg">Jul 21 at 4:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-20T10:13:55.736634-06:00.jpg">
+  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-20T10:13:55.736634-06:00.jpg"
+     alt="Prensa Grafica at 2022-07-20 17:13:59-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-20T10:13:55.736634-06:00.jpg">Jul 20 at 5:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-19T21:37:04.142248-06:00.jpg">
+  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-19T21:37:04.142248-06:00.jpg"
+     alt="Prensa Grafica at 2022-07-20 04:37:05-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-19T21:37:04.142248-06:00.jpg">Jul 20 at 4:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-19T09:47:40.310001-06:00.jpg">
+  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-19T09:47:40.310001-06:00.jpg"
+     alt="Prensa Grafica at 2022-07-19 16:47:46-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-19T09:47:40.310001-06:00.jpg">Jul 19 at 4:47 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

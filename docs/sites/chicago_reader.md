@@ -107,6 +107,120 @@ The archiving routine has saved 99 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-25T06:02:13.248598-05:00.jpg">
+  <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-25T06:02:13.248598-05:00.jpg"
+     alt="Chicago Reader at 2022-07-25 13:02:17-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-25T06:02:13.248598-05:00.jpg">Jul 25 at 1:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-24T19:54:01.092158-05:00.jpg">
+  <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-24T19:54:01.092158-05:00.jpg"
+     alt="Chicago Reader at 2022-07-25 02:54:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-24T19:54:01.092158-05:00.jpg">Jul 25 at 2:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-24T10:45:32.112144-05:00.jpg">
+  <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-24T10:45:32.112144-05:00.jpg"
+     alt="Chicago Reader at 2022-07-24 17:45:33-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-24T10:45:32.112144-05:00.jpg">Jul 24 at 5:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-24T06:00:55.439581-05:00.jpg">
+  <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-24T06:00:55.439581-05:00.jpg"
+     alt="Chicago Reader at 2022-07-24 13:00:57-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-24T06:00:55.439581-05:00.jpg">Jul 24 at 1:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-23T18:03:29.758759-05:00.jpg">
+  <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-23T18:03:29.758759-05:00.jpg"
+     alt="Chicago Reader at 2022-07-24 01:03:30-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-23T18:03:29.758759-05:00.jpg">Jul 24 at 1:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-23T07:59:55.309318-05:00.jpg">
+  <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-23T07:59:55.309318-05:00.jpg"
+     alt="Chicago Reader at 2022-07-23 14:59:57-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-23T07:59:55.309318-05:00.jpg">Jul 23 at 2:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-22T20:01:16.874702-05:00.jpg">
+  <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-22T20:01:16.874702-05:00.jpg"
+     alt="Chicago Reader at 2022-07-23 03:01:19-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-22T20:01:16.874702-05:00.jpg">Jul 23 at 3:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-22T11:23:57.760465-05:00.jpg">
+  <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-22T11:23:57.760465-05:00.jpg"
+     alt="Chicago Reader at 2022-07-22 18:23:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-22T11:23:57.760465-05:00.jpg">Jul 22 at 6:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-22T08:00:16.566945-05:00.jpg">
+  <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-22T08:00:16.566945-05:00.jpg"
+     alt="Chicago Reader at 2022-07-22 15:00:18-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-22T08:00:16.566945-05:00.jpg">Jul 22 at 3:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-21T20:09:17.196580-05:00.jpg">
+  <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-21T20:09:17.196580-05:00.jpg"
+     alt="Chicago Reader at 2022-07-22 03:09:18-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-21T20:09:17.196580-05:00.jpg">Jul 22 at 3:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-21T11:48:35.861651-05:00.jpg">
+  <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-21T11:48:35.861651-05:00.jpg"
+     alt="Chicago Reader at 2022-07-21 18:48:39-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-21T11:48:35.861651-05:00.jpg">Jul 21 at 6:48 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-21T07:54:20.794950-05:00.jpg">
+  <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-21T07:54:20.794950-05:00.jpg"
+     alt="Chicago Reader at 2022-07-21 14:54:23-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-07-21T07:54:20.794950-05:00.jpg">Jul 21 at 2:54 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

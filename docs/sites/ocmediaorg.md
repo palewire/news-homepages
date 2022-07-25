@@ -107,6 +107,120 @@ The archiving routine has saved 98 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T07:38:42.117672+04:00.jpg">
+  <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T07:38:42.117672+04:00.jpg"
+     alt="Open Caucasus Media at 2022-07-25 14:38:43+04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T07:38:42.117672+04:00.jpg">Jul 25 at 2:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T17:58:39.602900+04:00.jpg">
+  <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T17:58:39.602900+04:00.jpg"
+     alt="Open Caucasus Media at 2022-07-25 00:58:41+04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T17:58:39.602900+04:00.jpg">Jul 25 at 12:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T10:17:14.787603+04:00.jpg">
+  <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T10:17:14.787603+04:00.jpg"
+     alt="Open Caucasus Media at 2022-07-24 17:17:16+04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T10:17:14.787603+04:00.jpg">Jul 24 at 5:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-23T19:05:17.624874+04:00.jpg">
+  <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-23T19:05:17.624874+04:00.jpg"
+     alt="Open Caucasus Media at 2022-07-24 02:05:19+04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-23T19:05:17.624874+04:00.jpg">Jul 24 at 2:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-23T07:34:51.378174+04:00.jpg">
+  <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-23T07:34:51.378174+04:00.jpg"
+     alt="Open Caucasus Media at 2022-07-23 14:34:53+04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-23T07:34:51.378174+04:00.jpg">Jul 23 at 2:34 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-22T19:00:44.327198+04:00.jpg">
+  <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-22T19:00:44.327198+04:00.jpg"
+     alt="Open Caucasus Media at 2022-07-23 02:00:52+04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-22T19:00:44.327198+04:00.jpg">Jul 23 at 2:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-22T07:39:52.702730+04:00.jpg">
+  <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-22T07:39:52.702730+04:00.jpg"
+     alt="Open Caucasus Media at 2022-07-22 14:39:54+04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-22T07:39:52.702730+04:00.jpg">Jul 22 at 2:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-21T19:37:09.852213+04:00.jpg">
+  <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-21T19:37:09.852213+04:00.jpg"
+     alt="Open Caucasus Media at 2022-07-22 02:37:11+04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-21T19:37:09.852213+04:00.jpg">Jul 22 at 2:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-21T07:37:29.265628+04:00.jpg">
+  <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-21T07:37:29.265628+04:00.jpg"
+     alt="Open Caucasus Media at 2022-07-21 14:37:33+04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-21T07:37:29.265628+04:00.jpg">Jul 21 at 2:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-20T20:11:55.706656+04:00.jpg">
+  <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-20T20:11:55.706656+04:00.jpg"
+     alt="Open Caucasus Media at 2022-07-21 03:11:56+04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-20T20:11:55.706656+04:00.jpg">Jul 21 at 3:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-20T07:35:17.903365+04:00.jpg">
+  <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-20T07:35:17.903365+04:00.jpg"
+     alt="Open Caucasus Media at 2022-07-20 14:35:19+04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-20T07:35:17.903365+04:00.jpg">Jul 20 at 2:35 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-19T19:45:42.841292+04:00.jpg">
+  <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-19T19:45:42.841292+04:00.jpg"
+     alt="Open Caucasus Media at 2022-07-20 02:45:44+04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-19T19:45:42.841292+04:00.jpg">Jul 20 at 2:45 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

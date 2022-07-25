@@ -107,6 +107,120 @@ The archiving routine has saved 43 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-25T04:59:53.078694-07:00.jpg">
+  <img src="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-25T04:59:53.078694-07:00.jpg"
+     alt="Desert Oracle at 2022-07-25 11:59:55-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-25T04:59:53.078694-07:00.jpg">Jul 25 at 11:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-24T18:00:23.209837-07:00.jpg">
+  <img src="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-24T18:00:23.209837-07:00.jpg"
+     alt="Desert Oracle at 2022-07-25 01:00:24-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-24T18:00:23.209837-07:00.jpg">Jul 25 at 1:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-24T04:57:54.476750-07:00.jpg">
+  <img src="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-24T04:57:54.476750-07:00.jpg"
+     alt="Desert Oracle at 2022-07-24 11:57:56-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-24T04:57:54.476750-07:00.jpg">Jul 24 at 11:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-23T23:27:35.903947-07:00.jpg">
+  <img src="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-23T23:27:35.903947-07:00.jpg"
+     alt="Desert Oracle at 2022-07-24 06:27:37-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-23T23:27:35.903947-07:00.jpg">Jul 24 at 6:27 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-23T06:03:31.016114-07:00.jpg">
+  <img src="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-23T06:03:31.016114-07:00.jpg"
+     alt="Desert Oracle at 2022-07-23 13:03:32-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-23T06:03:31.016114-07:00.jpg">Jul 23 at 1:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-22T18:04:13.982096-07:00.jpg">
+  <img src="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-22T18:04:13.982096-07:00.jpg"
+     alt="Desert Oracle at 2022-07-23 01:04:15-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-22T18:04:13.982096-07:00.jpg">Jul 23 at 1:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-22T06:04:37.010208-07:00.jpg">
+  <img src="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-22T06:04:37.010208-07:00.jpg"
+     alt="Desert Oracle at 2022-07-22 13:04:38-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-22T06:04:37.010208-07:00.jpg">Jul 22 at 1:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-21T18:12:01.446354-07:00.jpg">
+  <img src="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-21T18:12:01.446354-07:00.jpg"
+     alt="Desert Oracle at 2022-07-22 01:12:11-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-21T18:12:01.446354-07:00.jpg">Jul 22 at 1:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-21T05:57:50.574332-07:00.jpg">
+  <img src="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-21T05:57:50.574332-07:00.jpg"
+     alt="Desert Oracle at 2022-07-21 12:57:51-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-21T05:57:50.574332-07:00.jpg">Jul 21 at 12:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-20T18:10:57.183676-07:00.jpg">
+  <img src="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-20T18:10:57.183676-07:00.jpg"
+     alt="Desert Oracle at 2022-07-21 01:10:58-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-20T18:10:57.183676-07:00.jpg">Jul 21 at 1:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-20T05:58:15.423502-07:00.jpg">
+  <img src="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-20T05:58:15.423502-07:00.jpg"
+     alt="Desert Oracle at 2022-07-20 12:58:17-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-20T05:58:15.423502-07:00.jpg">Jul 20 at 12:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-19T18:05:18.021068-07:00.jpg">
+  <img src="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-19T18:05:18.021068-07:00.jpg"
+     alt="Desert Oracle at 2022-07-20 01:05:19-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-19T18:05:18.021068-07:00.jpg">Jul 20 at 1:05 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

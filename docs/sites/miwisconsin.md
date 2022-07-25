@@ -107,6 +107,120 @@ The archiving routine has saved 33 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-24T22:32:27.688269-05:00.jpg">
+  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-24T22:32:27.688269-05:00.jpg"
+     alt="mi wisconsin at 2022-07-25 05:32:29-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-24T22:32:27.688269-05:00.jpg">Jul 25 at 5:32 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-24T08:03:01.328531-05:00.jpg">
+  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-24T08:03:01.328531-05:00.jpg"
+     alt="mi wisconsin at 2022-07-24 15:03:03-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-24T08:03:01.328531-05:00.jpg">Jul 24 at 3:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-23T23:19:24.662515-05:00.jpg">
+  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-23T23:19:24.662515-05:00.jpg"
+     alt="mi wisconsin at 2022-07-24 06:19:28-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-23T23:19:24.662515-05:00.jpg">Jul 24 at 6:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-23T10:01:33.307402-05:00.jpg">
+  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-23T10:01:33.307402-05:00.jpg"
+     alt="mi wisconsin at 2022-07-23 17:01:35-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-23T10:01:33.307402-05:00.jpg">Jul 23 at 5:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-22T22:31:30.479655-05:00.jpg">
+  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-22T22:31:30.479655-05:00.jpg"
+     alt="mi wisconsin at 2022-07-23 05:31:32-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-22T22:31:30.479655-05:00.jpg">Jul 23 at 5:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-22T09:57:26.149372-05:00.jpg">
+  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-22T09:57:26.149372-05:00.jpg"
+     alt="mi wisconsin at 2022-07-22 16:57:28-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-22T09:57:26.149372-05:00.jpg">Jul 22 at 4:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-21T22:36:11.183408-05:00.jpg">
+  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-21T22:36:11.183408-05:00.jpg"
+     alt="mi wisconsin at 2022-07-22 05:36:12-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-21T22:36:11.183408-05:00.jpg">Jul 22 at 5:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-21T10:30:11.425677-05:00.jpg">
+  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-21T10:30:11.425677-05:00.jpg"
+     alt="mi wisconsin at 2022-07-21 17:30:13-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-21T10:30:11.425677-05:00.jpg">Jul 21 at 5:30 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-20T22:34:29.478460-05:00.jpg">
+  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-20T22:34:29.478460-05:00.jpg"
+     alt="mi wisconsin at 2022-07-21 05:34:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-20T22:34:29.478460-05:00.jpg">Jul 21 at 5:34 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-20T11:07:51.426149-05:00.jpg">
+  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-20T11:07:51.426149-05:00.jpg"
+     alt="mi wisconsin at 2022-07-20 18:07:53-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-20T11:07:51.426149-05:00.jpg">Jul 20 at 6:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-19T22:33:11.027694-05:00.jpg">
+  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-19T22:33:11.027694-05:00.jpg"
+     alt="mi wisconsin at 2022-07-20 05:33:13-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-19T22:33:11.027694-05:00.jpg">Jul 20 at 5:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-19T10:42:02.559458-05:00.jpg">
+  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-19T10:42:02.559458-05:00.jpg"
+     alt="mi wisconsin at 2022-07-19 17:42:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-19T10:42:02.559458-05:00.jpg">Jul 19 at 5:42 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

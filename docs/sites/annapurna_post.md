@@ -24,6 +24,30 @@ The archiving routine has saved 2 screenshots with the Internet Archive.
 
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T06:31:08.498425+05:45.jpg">
+  <img src="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T06:31:08.498425+05:45.jpg"
+     alt="Annapurna Post at 2022-07-25 13:31:10+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T06:31:08.498425+05:45.jpg">Jul 25 at 1:31 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T02:21:57.909910+05:45.jpg">
+  <img src="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T02:21:57.909910+05:45.jpg"
+     alt="Annapurna Post at 2022-07-25 09:22:04+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T02:21:57.909910+05:45.jpg">Jul 25 at 9:22 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

@@ -107,6 +107,120 @@ The archiving routine has saved 32 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-25T05:57:40.635515-05:00.jpg">
+  <img src="https://archive.org/download/austinvida-2022/austinvida-2022-07-25T05:57:40.635515-05:00.jpg"
+     alt="Austin Vida at 2022-07-25 12:57:48-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-25T05:57:40.635515-05:00.jpg">Jul 25 at 12:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-24T19:47:50.926886-05:00.jpg">
+  <img src="https://archive.org/download/austinvida-2022/austinvida-2022-07-24T19:47:50.926886-05:00.jpg"
+     alt="Austin Vida at 2022-07-25 02:47:52-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-24T19:47:50.926886-05:00.jpg">Jul 25 at 2:47 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-24T05:57:08.635501-05:00.jpg">
+  <img src="https://archive.org/download/austinvida-2022/austinvida-2022-07-24T05:57:08.635501-05:00.jpg"
+     alt="Austin Vida at 2022-07-24 12:57:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-24T05:57:08.635501-05:00.jpg">Jul 24 at 12:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-23T17:58:49.846413-05:00.jpg">
+  <img src="https://archive.org/download/austinvida-2022/austinvida-2022-07-23T17:58:49.846413-05:00.jpg"
+     alt="Austin Vida at 2022-07-24 00:58:51-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-23T17:58:49.846413-05:00.jpg">Jul 24 at 12:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-23T07:55:26.660750-05:00.jpg">
+  <img src="https://archive.org/download/austinvida-2022/austinvida-2022-07-23T07:55:26.660750-05:00.jpg"
+     alt="Austin Vida at 2022-07-23 14:55:28-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-23T07:55:26.660750-05:00.jpg">Jul 23 at 2:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-22T19:56:50.607836-05:00.jpg">
+  <img src="https://archive.org/download/austinvida-2022/austinvida-2022-07-22T19:56:50.607836-05:00.jpg"
+     alt="Austin Vida at 2022-07-23 02:56:52-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-22T19:56:50.607836-05:00.jpg">Jul 23 at 2:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-22T07:55:53.448222-05:00.jpg">
+  <img src="https://archive.org/download/austinvida-2022/austinvida-2022-07-22T07:55:53.448222-05:00.jpg"
+     alt="Austin Vida at 2022-07-22 14:55:55-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-22T07:55:53.448222-05:00.jpg">Jul 22 at 2:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-21T20:04:48.668340-05:00.jpg">
+  <img src="https://archive.org/download/austinvida-2022/austinvida-2022-07-21T20:04:48.668340-05:00.jpg"
+     alt="Austin Vida at 2022-07-22 03:04:50-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-21T20:04:48.668340-05:00.jpg">Jul 22 at 3:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-21T07:51:06.031793-05:00.jpg">
+  <img src="https://archive.org/download/austinvida-2022/austinvida-2022-07-21T07:51:06.031793-05:00.jpg"
+     alt="Austin Vida at 2022-07-21 14:51:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-21T07:51:06.031793-05:00.jpg">Jul 21 at 2:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-20T20:02:58.436122-05:00.jpg">
+  <img src="https://archive.org/download/austinvida-2022/austinvida-2022-07-20T20:02:58.436122-05:00.jpg"
+     alt="Austin Vida at 2022-07-21 03:02:59-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-20T20:02:58.436122-05:00.jpg">Jul 21 at 3:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-20T07:51:36.275881-05:00.jpg">
+  <img src="https://archive.org/download/austinvida-2022/austinvida-2022-07-20T07:51:36.275881-05:00.jpg"
+     alt="Austin Vida at 2022-07-20 14:51:37-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-20T07:51:36.275881-05:00.jpg">Jul 20 at 2:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-19T19:58:27.133553-05:00.jpg">
+  <img src="https://archive.org/download/austinvida-2022/austinvida-2022-07-19T19:58:27.133553-05:00.jpg"
+     alt="Austin Vida at 2022-07-20 02:58:28-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-19T19:58:27.133553-05:00.jpg">Jul 20 at 2:58 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

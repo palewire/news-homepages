@@ -5,7 +5,7 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# Politifact 
+# Politifact
 
 ![Politifact ](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/politifact.jpg)
 
@@ -106,6 +106,120 @@ The archiving routine has saved 77 screenshots with the Internet Archive.
     vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
+
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politifact-2022/politifact-2022-07-24T23:39:48.598723-04:00.jpg">
+  <img src="https://archive.org/download/politifact-2022/politifact-2022-07-24T23:39:48.598723-04:00.jpg"
+     alt="Politifact  at 2022-07-25 06:39:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-24T23:39:48.598723-04:00.jpg">Jul 25 at 6:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politifact-2022/politifact-2022-07-24T10:00:37.626706-04:00.jpg">
+  <img src="https://archive.org/download/politifact-2022/politifact-2022-07-24T10:00:37.626706-04:00.jpg"
+     alt="Politifact  at 2022-07-24 17:00:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-24T10:00:37.626706-04:00.jpg">Jul 24 at 5:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politifact-2022/politifact-2022-07-24T02:19:28.634488-04:00.jpg">
+  <img src="https://archive.org/download/politifact-2022/politifact-2022-07-24T02:19:28.634488-04:00.jpg"
+     alt="Politifact  at 2022-07-24 09:19:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-24T02:19:28.634488-04:00.jpg">Jul 24 at 9:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politifact-2022/politifact-2022-07-23T11:06:53.817654-04:00.jpg">
+  <img src="https://archive.org/download/politifact-2022/politifact-2022-07-23T11:06:53.817654-04:00.jpg"
+     alt="Politifact  at 2022-07-23 18:06:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-23T11:06:53.817654-04:00.jpg">Jul 23 at 6:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politifact-2022/politifact-2022-07-22T23:36:28.442733-04:00.jpg">
+  <img src="https://archive.org/download/politifact-2022/politifact-2022-07-22T23:36:28.442733-04:00.jpg"
+     alt="Politifact  at 2022-07-23 06:36:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-22T23:36:28.442733-04:00.jpg">Jul 23 at 6:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politifact-2022/politifact-2022-07-22T11:02:26.307052-04:00.jpg">
+  <img src="https://archive.org/download/politifact-2022/politifact-2022-07-22T11:02:26.307052-04:00.jpg"
+     alt="Politifact  at 2022-07-22 18:02:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-22T11:02:26.307052-04:00.jpg">Jul 22 at 6:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politifact-2022/politifact-2022-07-21T23:40:56.503544-04:00.jpg">
+  <img src="https://archive.org/download/politifact-2022/politifact-2022-07-21T23:40:56.503544-04:00.jpg"
+     alt="Politifact  at 2022-07-22 06:40:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-21T23:40:56.503544-04:00.jpg">Jul 22 at 6:40 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politifact-2022/politifact-2022-07-21T11:37:47.352037-04:00.jpg">
+  <img src="https://archive.org/download/politifact-2022/politifact-2022-07-21T11:37:47.352037-04:00.jpg"
+     alt="Politifact  at 2022-07-21 18:37:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-21T11:37:47.352037-04:00.jpg">Jul 21 at 6:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politifact-2022/politifact-2022-07-20T23:39:47.924281-04:00.jpg">
+  <img src="https://archive.org/download/politifact-2022/politifact-2022-07-20T23:39:47.924281-04:00.jpg"
+     alt="Politifact  at 2022-07-21 06:39:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-20T23:39:47.924281-04:00.jpg">Jul 21 at 6:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politifact-2022/politifact-2022-07-20T12:13:29.457253-04:00.jpg">
+  <img src="https://archive.org/download/politifact-2022/politifact-2022-07-20T12:13:29.457253-04:00.jpg"
+     alt="Politifact  at 2022-07-20 19:13:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-20T12:13:29.457253-04:00.jpg">Jul 20 at 7:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politifact-2022/politifact-2022-07-19T23:36:34.100926-04:00.jpg">
+  <img src="https://archive.org/download/politifact-2022/politifact-2022-07-19T23:36:34.100926-04:00.jpg"
+     alt="Politifact  at 2022-07-20 06:36:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-19T23:36:34.100926-04:00.jpg">Jul 20 at 6:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politifact-2022/politifact-2022-07-19T11:47:32.522554-04:00.jpg">
+  <img src="https://archive.org/download/politifact-2022/politifact-2022-07-19T11:47:32.522554-04:00.jpg"
+     alt="Politifact  at 2022-07-19 18:47:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-19T11:47:32.522554-04:00.jpg">Jul 19 at 6:47 PM</a></p>
+</div>
+
+</div>
 
 ## Internet Archive
 

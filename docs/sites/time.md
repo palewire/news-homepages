@@ -107,6 +107,120 @@ The archiving routine has saved 77 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-07-25T00:38:40.835532-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-07-25T00:38:40.835532-04:00.jpg"
+     alt="TIME at 2022-07-25 07:38:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-07-25T00:38:40.835532-04:00.jpg">Jul 25 at 7:38 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-07-24T11:07:51.743620-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-07-24T11:07:51.743620-04:00.jpg"
+     alt="TIME at 2022-07-24 18:07:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-07-24T11:07:51.743620-04:00.jpg">Jul 24 at 6:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-07-23T23:43:35.784909-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-07-23T23:43:35.784909-04:00.jpg"
+     alt="TIME at 2022-07-24 06:43:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-07-23T23:43:35.784909-04:00.jpg">Jul 24 at 6:43 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-07-23T12:06:42.304738-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-07-23T12:06:42.304738-04:00.jpg"
+     alt="TIME at 2022-07-23 19:06:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-07-23T12:06:42.304738-04:00.jpg">Jul 23 at 7:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-07-23T00:27:18.516989-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-07-23T00:27:18.516989-04:00.jpg"
+     alt="TIME at 2022-07-23 07:27:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-07-23T00:27:18.516989-04:00.jpg">Jul 23 at 7:27 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-07-22T12:19:14.340741-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-07-22T12:19:14.340741-04:00.jpg"
+     alt="TIME at 2022-07-22 19:19:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-07-22T12:19:14.340741-04:00.jpg">Jul 22 at 7:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-07-22T00:33:03.257423-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-07-22T00:33:03.257423-04:00.jpg"
+     alt="TIME at 2022-07-22 07:33:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-07-22T00:33:03.257423-04:00.jpg">Jul 22 at 7:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-07-21T12:56:39.012576-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-07-21T12:56:39.012576-04:00.jpg"
+     alt="TIME at 2022-07-21 19:56:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-07-21T12:56:39.012576-04:00.jpg">Jul 21 at 7:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-07-21T00:30:36.739736-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-07-21T00:30:36.739736-04:00.jpg"
+     alt="TIME at 2022-07-21 07:30:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-07-21T00:30:36.739736-04:00.jpg">Jul 21 at 7:30 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-07-20T12:47:29.721021-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-07-20T12:47:29.721021-04:00.jpg"
+     alt="TIME at 2022-07-20 19:47:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-07-20T12:47:29.721021-04:00.jpg">Jul 20 at 7:47 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-07-20T00:22:28.847233-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-07-20T00:22:28.847233-04:00.jpg"
+     alt="TIME at 2022-07-20 07:22:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-07-20T00:22:28.847233-04:00.jpg">Jul 20 at 7:22 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-07-19T13:03:17.151382-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-07-19T13:03:17.151382-04:00.jpg"
+     alt="TIME at 2022-07-19 20:03:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-07-19T13:03:17.151382-04:00.jpg">Jul 19 at 8:03 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

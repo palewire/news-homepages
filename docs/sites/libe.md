@@ -107,6 +107,120 @@ The archiving routine has saved 205 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/libe-2022/libe-2022-07-25T10:09:14.313438+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-07-25T10:09:14.313438+02:00.jpg"
+     alt="Libération at 2022-07-25 17:09:21+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-25T10:09:14.313438+02:00.jpg">Jul 25 at 5:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/libe-2022/libe-2022-07-25T05:30:10.703895+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-07-25T05:30:10.703895+02:00.jpg"
+     alt="Libération at 2022-07-25 12:30:12+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-25T05:30:10.703895+02:00.jpg">Jul 25 at 12:30 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/libe-2022/libe-2022-07-24T15:01:47.916697+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-07-24T15:01:47.916697+02:00.jpg"
+     alt="Libération at 2022-07-24 22:01:50+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-24T15:01:47.916697+02:00.jpg">Jul 24 at 10:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/libe-2022/libe-2022-07-24T10:09:50.626214+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-07-24T10:09:50.626214+02:00.jpg"
+     alt="Libération at 2022-07-24 17:09:51+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-24T10:09:50.626214+02:00.jpg">Jul 24 at 5:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/libe-2022/libe-2022-07-24T06:17:49.305341+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-07-24T06:17:49.305341+02:00.jpg"
+     alt="Libération at 2022-07-24 13:17:50+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-24T06:17:49.305341+02:00.jpg">Jul 24 at 1:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/libe-2022/libe-2022-07-23T17:00:14.335481+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-07-23T17:00:14.335481+02:00.jpg"
+     alt="Libération at 2022-07-24 00:00:21+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-23T17:00:14.335481+02:00.jpg">Jul 24 at 12:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/libe-2022/libe-2022-07-23T10:06:50.750448+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-07-23T10:06:50.750448+02:00.jpg"
+     alt="Libération at 2022-07-23 17:06:52+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-23T10:06:50.750448+02:00.jpg">Jul 23 at 5:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/libe-2022/libe-2022-07-23T05:30:53.419052+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-07-23T05:30:53.419052+02:00.jpg"
+     alt="Libération at 2022-07-23 12:30:59+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-23T05:30:53.419052+02:00.jpg">Jul 23 at 12:30 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/libe-2022/libe-2022-07-22T16:56:46.625129+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-07-22T16:56:46.625129+02:00.jpg"
+     alt="Libération at 2022-07-22 23:56:48+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-22T16:56:46.625129+02:00.jpg">Jul 22 at 11:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/libe-2022/libe-2022-07-22T10:07:00.904963+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-07-22T10:07:00.904963+02:00.jpg"
+     alt="Libération at 2022-07-22 17:07:02+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-22T10:07:00.904963+02:00.jpg">Jul 22 at 5:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/libe-2022/libe-2022-07-22T05:34:53.116028+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-07-22T05:34:53.116028+02:00.jpg"
+     alt="Libération at 2022-07-22 12:34:55+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-22T05:34:53.116028+02:00.jpg">Jul 22 at 12:34 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/libe-2022/libe-2022-07-21T17:27:26.622076+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-07-21T17:27:26.622076+02:00.jpg"
+     alt="Libération at 2022-07-22 00:27:29+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-21T17:27:26.622076+02:00.jpg">Jul 22 at 12:27 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

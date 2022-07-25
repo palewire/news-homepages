@@ -107,6 +107,120 @@ The archiving routine has saved 59 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnet-2022/cnet-2022-07-25T04:03:07.225271-07:00.jpg">
+  <img src="https://archive.org/download/cnet-2022/cnet-2022-07-25T04:03:07.225271-07:00.jpg"
+     alt="CNET at 2022-07-25 11:03:10-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnet-2022/cnet-2022-07-25T04:03:07.225271-07:00.jpg">Jul 25 at 11:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnet-2022/cnet-2022-07-24T23:46:44.427289-07:00.jpg">
+  <img src="https://archive.org/download/cnet-2022/cnet-2022-07-24T23:46:44.427289-07:00.jpg"
+     alt="CNET at 2022-07-25 06:46:47-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnet-2022/cnet-2022-07-24T23:46:44.427289-07:00.jpg">Jul 25 at 6:46 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnet-2022/cnet-2022-07-24T17:55:09.492921-07:00.jpg">
+  <img src="https://archive.org/download/cnet-2022/cnet-2022-07-24T17:55:09.492921-07:00.jpg"
+     alt="CNET at 2022-07-25 00:55:11-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnet-2022/cnet-2022-07-24T17:55:09.492921-07:00.jpg">Jul 25 at 12:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnet-2022/cnet-2022-07-24T04:02:24.511841-07:00.jpg">
+  <img src="https://archive.org/download/cnet-2022/cnet-2022-07-24T04:02:24.511841-07:00.jpg"
+     alt="CNET at 2022-07-24 11:02:28-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnet-2022/cnet-2022-07-24T04:02:24.511841-07:00.jpg">Jul 24 at 11:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnet-2022/cnet-2022-07-23T16:03:51.436382-07:00.jpg">
+  <img src="https://archive.org/download/cnet-2022/cnet-2022-07-23T16:03:51.436382-07:00.jpg"
+     alt="CNET at 2022-07-23 23:03:55-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnet-2022/cnet-2022-07-23T16:03:51.436382-07:00.jpg">Jul 23 at 11:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnet-2022/cnet-2022-07-23T06:00:38.573096-07:00.jpg">
+  <img src="https://archive.org/download/cnet-2022/cnet-2022-07-23T06:00:38.573096-07:00.jpg"
+     alt="CNET at 2022-07-23 13:00:40-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnet-2022/cnet-2022-07-23T06:00:38.573096-07:00.jpg">Jul 23 at 1:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnet-2022/cnet-2022-07-22T18:01:43.093932-07:00.jpg">
+  <img src="https://archive.org/download/cnet-2022/cnet-2022-07-22T18:01:43.093932-07:00.jpg"
+     alt="CNET at 2022-07-23 01:01:45-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnet-2022/cnet-2022-07-22T18:01:43.093932-07:00.jpg">Jul 23 at 1:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnet-2022/cnet-2022-07-22T06:01:16.591085-07:00.jpg">
+  <img src="https://archive.org/download/cnet-2022/cnet-2022-07-22T06:01:16.591085-07:00.jpg"
+     alt="CNET at 2022-07-22 13:01:18-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnet-2022/cnet-2022-07-22T06:01:16.591085-07:00.jpg">Jul 22 at 1:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnet-2022/cnet-2022-07-21T18:09:52.345243-07:00.jpg">
+  <img src="https://archive.org/download/cnet-2022/cnet-2022-07-21T18:09:52.345243-07:00.jpg"
+     alt="CNET at 2022-07-22 01:09:53-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnet-2022/cnet-2022-07-21T18:09:52.345243-07:00.jpg">Jul 22 at 1:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnet-2022/cnet-2022-07-21T05:55:23.495665-07:00.jpg">
+  <img src="https://archive.org/download/cnet-2022/cnet-2022-07-21T05:55:23.495665-07:00.jpg"
+     alt="CNET at 2022-07-21 12:55:25-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnet-2022/cnet-2022-07-21T05:55:23.495665-07:00.jpg">Jul 21 at 12:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnet-2022/cnet-2022-07-20T18:08:30.687463-07:00.jpg">
+  <img src="https://archive.org/download/cnet-2022/cnet-2022-07-20T18:08:30.687463-07:00.jpg"
+     alt="CNET at 2022-07-21 01:08:32-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnet-2022/cnet-2022-07-20T18:08:30.687463-07:00.jpg">Jul 21 at 1:08 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnet-2022/cnet-2022-07-20T05:55:52.915392-07:00.jpg">
+  <img src="https://archive.org/download/cnet-2022/cnet-2022-07-20T05:55:52.915392-07:00.jpg"
+     alt="CNET at 2022-07-20 12:55:54-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnet-2022/cnet-2022-07-20T05:55:52.915392-07:00.jpg">Jul 20 at 12:55 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

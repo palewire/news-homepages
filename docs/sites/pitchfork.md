@@ -107,6 +107,120 @@ The archiving routine has saved 97 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-24T22:39:41.107202-05:00.jpg">
+  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-24T22:39:41.107202-05:00.jpg"
+     alt="Pitchfork at 2022-07-25 05:39:44-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-24T22:39:41.107202-05:00.jpg">Jul 25 at 5:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-24T10:46:01.095609-05:00.jpg">
+  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-24T10:46:01.095609-05:00.jpg"
+     alt="Pitchfork at 2022-07-24 17:46:02-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-24T10:46:01.095609-05:00.jpg">Jul 24 at 5:46 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-24T09:00:16.730977-05:00.jpg">
+  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-24T09:00:16.730977-05:00.jpg"
+     alt="Pitchfork at 2022-07-24 16:00:18-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-24T09:00:16.730977-05:00.jpg">Jul 24 at 4:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-24T01:19:06.645444-05:00.jpg">
+  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-24T01:19:06.645444-05:00.jpg"
+     alt="Pitchfork at 2022-07-24 08:19:08-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-24T01:19:06.645444-05:00.jpg">Jul 24 at 8:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-23T10:05:51.252596-05:00.jpg">
+  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-23T10:05:51.252596-05:00.jpg"
+     alt="Pitchfork at 2022-07-23 17:05:53-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-23T10:05:51.252596-05:00.jpg">Jul 23 at 5:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-22T22:36:02.026087-05:00.jpg">
+  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-22T22:36:02.026087-05:00.jpg"
+     alt="Pitchfork at 2022-07-23 05:36:06-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-22T22:36:02.026087-05:00.jpg">Jul 23 at 5:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-22T11:23:57.475467-05:00.jpg">
+  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-22T11:23:57.475467-05:00.jpg"
+     alt="Pitchfork at 2022-07-22 18:23:59-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-22T11:23:57.475467-05:00.jpg">Jul 22 at 6:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-22T10:02:59.296057-05:00.jpg">
+  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-22T10:02:59.296057-05:00.jpg"
+     alt="Pitchfork at 2022-07-22 17:03:01-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-22T10:02:59.296057-05:00.jpg">Jul 22 at 5:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-21T22:41:04.464756-05:00.jpg">
+  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-21T22:41:04.464756-05:00.jpg"
+     alt="Pitchfork at 2022-07-22 05:41:07-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-21T22:41:04.464756-05:00.jpg">Jul 22 at 5:41 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-21T11:49:20.228659-05:00.jpg">
+  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-21T11:49:20.228659-05:00.jpg"
+     alt="Pitchfork at 2022-07-21 18:49:21-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-21T11:49:20.228659-05:00.jpg">Jul 21 at 6:49 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-21T10:37:18.204305-05:00.jpg">
+  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-21T10:37:18.204305-05:00.jpg"
+     alt="Pitchfork at 2022-07-21 17:37:21-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-21T10:37:18.204305-05:00.jpg">Jul 21 at 5:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-20T22:38:44.718394-05:00.jpg">
+  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-20T22:38:44.718394-05:00.jpg"
+     alt="Pitchfork at 2022-07-21 05:38:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-20T22:38:44.718394-05:00.jpg">Jul 21 at 5:38 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

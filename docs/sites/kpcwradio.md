@@ -107,6 +107,120 @@ The archiving routine has saved 32 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-24T21:26:18.267913-06:00.jpg">
+  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-24T21:26:18.267913-06:00.jpg"
+     alt="KPCW at 2022-07-25 04:26:20-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-24T21:26:18.267913-06:00.jpg">Jul 25 at 4:26 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-24T07:00:00.114930-06:00.jpg">
+  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-24T07:00:00.114930-06:00.jpg"
+     alt="KPCW at 2022-07-24 14:00:02-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-24T07:00:00.114930-06:00.jpg">Jul 24 at 2:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-23T22:15:01.302998-06:00.jpg">
+  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-23T22:15:01.302998-06:00.jpg"
+     alt="KPCW at 2022-07-24 05:15:03-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-23T22:15:01.302998-06:00.jpg">Jul 24 at 5:15 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-23T08:05:29.556613-06:00.jpg">
+  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-23T08:05:29.556613-06:00.jpg"
+     alt="KPCW at 2022-07-23 15:05:30-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-23T08:05:29.556613-06:00.jpg">Jul 23 at 3:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-22T20:31:03.019149-06:00.jpg">
+  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-22T20:31:03.019149-06:00.jpg"
+     alt="KPCW at 2022-07-23 03:31:04-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-22T20:31:03.019149-06:00.jpg">Jul 23 at 3:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-22T08:06:27.100698-06:00.jpg">
+  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-22T08:06:27.100698-06:00.jpg"
+     alt="KPCW at 2022-07-22 15:06:28-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-22T08:06:27.100698-06:00.jpg">Jul 22 at 3:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-21T20:25:53.051627-06:00.jpg">
+  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-21T20:25:53.051627-06:00.jpg"
+     alt="KPCW at 2022-07-22 03:25:55-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-21T20:25:53.051627-06:00.jpg">Jul 22 at 3:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-21T08:15:46.186104-06:00.jpg">
+  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-21T08:15:46.186104-06:00.jpg"
+     alt="KPCW at 2022-07-21 15:15:47-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-21T08:15:46.186104-06:00.jpg">Jul 21 at 3:15 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-20T20:27:42.904130-06:00.jpg">
+  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-20T20:27:42.904130-06:00.jpg"
+     alt="KPCW at 2022-07-21 03:27:44-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-20T20:27:42.904130-06:00.jpg">Jul 21 at 3:27 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-20T08:29:16.155058-06:00.jpg">
+  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-20T08:29:16.155058-06:00.jpg"
+     alt="KPCW at 2022-07-20 15:29:17-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-20T08:29:16.155058-06:00.jpg">Jul 20 at 3:29 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-19T20:20:57.965909-06:00.jpg">
+  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-19T20:20:57.965909-06:00.jpg"
+     alt="KPCW at 2022-07-20 03:20:59-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-19T20:20:57.965909-06:00.jpg">Jul 20 at 3:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-19T08:21:50.054655-06:00.jpg">
+  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-19T08:21:50.054655-06:00.jpg"
+     alt="KPCW at 2022-07-19 15:21:51-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-19T08:21:50.054655-06:00.jpg">Jul 19 at 3:21 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

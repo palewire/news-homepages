@@ -107,6 +107,120 @@ The archiving routine has saved 74 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-24T22:44:40.919636-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-07-24T22:44:40.919636-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-07-25 05:44:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-24T22:44:40.919636-05:00.jpg">Jul 25 at 5:44 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-24T09:05:24.652016-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-07-24T09:05:24.652016-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-07-24 16:05:26-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-24T09:05:24.652016-05:00.jpg">Jul 24 at 4:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-24T01:24:43.548719-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-07-24T01:24:43.548719-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-07-24 08:24:47-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-24T01:24:43.548719-05:00.jpg">Jul 24 at 8:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-23T11:03:02.359125-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-07-23T11:03:02.359125-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-07-23 18:03:05-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-23T11:03:02.359125-05:00.jpg">Jul 23 at 6:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-22T23:23:02.766343-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-07-22T23:23:02.766343-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-07-23 06:23:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-22T23:23:02.766343-05:00.jpg">Jul 23 at 6:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-22T11:15:31.655533-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-07-22T11:15:31.655533-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-07-22 18:15:38-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-22T11:15:31.655533-05:00.jpg">Jul 22 at 6:15 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-21T23:29:38.701431-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-07-21T23:29:38.701431-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-07-22 06:29:45-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-21T23:29:38.701431-05:00.jpg">Jul 22 at 6:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-21T11:53:07.663812-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-07-21T11:53:07.663812-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-07-21 18:53:13-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-21T11:53:07.663812-05:00.jpg">Jul 21 at 6:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-20T23:27:32.130172-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-07-20T23:27:32.130172-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-07-21 06:27:33-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-20T23:27:32.130172-05:00.jpg">Jul 21 at 6:27 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-20T11:44:22.270195-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-07-20T11:44:22.270195-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-07-20 18:44:24-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-20T11:44:22.270195-05:00.jpg">Jul 20 at 6:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-19T23:20:21.204485-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-07-19T23:20:21.204485-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-07-20 06:20:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-19T23:20:21.204485-05:00.jpg">Jul 20 at 6:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-19T11:59:34.005727-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-07-19T11:59:34.005727-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-07-19 18:59:35-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-19T11:59:34.005727-05:00.jpg">Jul 19 at 6:59 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

@@ -107,6 +107,120 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-07-24T23:39:34.938475-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-07-24T23:39:34.938475-04:00.jpg"
+     alt="People at 2022-07-25 06:39:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-07-24T23:39:34.938475-04:00.jpg">Jul 25 at 6:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-07-24T09:59:46.918012-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-07-24T09:59:46.918012-04:00.jpg"
+     alt="People at 2022-07-24 16:59:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-07-24T09:59:46.918012-04:00.jpg">Jul 24 at 4:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-07-24T02:19:07.169247-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-07-24T02:19:07.169247-04:00.jpg"
+     alt="People at 2022-07-24 09:19:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-07-24T02:19:07.169247-04:00.jpg">Jul 24 at 9:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-07-23T11:06:08.375546-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-07-23T11:06:08.375546-04:00.jpg"
+     alt="People at 2022-07-23 18:06:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-07-23T11:06:08.375546-04:00.jpg">Jul 23 at 6:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-07-22T23:35:54.936310-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-07-22T23:35:54.936310-04:00.jpg"
+     alt="People at 2022-07-23 06:35:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-07-22T23:35:54.936310-04:00.jpg">Jul 23 at 6:35 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-07-22T11:02:02.965711-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-07-22T11:02:02.965711-04:00.jpg"
+     alt="People at 2022-07-22 18:02:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-07-22T11:02:02.965711-04:00.jpg">Jul 22 at 6:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-07-21T23:40:28.749655-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-07-21T23:40:28.749655-04:00.jpg"
+     alt="People at 2022-07-22 06:40:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-07-21T23:40:28.749655-04:00.jpg">Jul 22 at 6:40 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-07-21T11:36:34.641424-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-07-21T11:36:34.641424-04:00.jpg"
+     alt="People at 2022-07-21 18:36:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-07-21T11:36:34.641424-04:00.jpg">Jul 21 at 6:36 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-07-20T23:38:46.918231-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-07-20T23:38:46.918231-04:00.jpg"
+     alt="People at 2022-07-21 06:38:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-07-20T23:38:46.918231-04:00.jpg">Jul 21 at 6:38 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-07-20T12:13:03.335157-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-07-20T12:13:03.335157-04:00.jpg"
+     alt="People at 2022-07-20 19:13:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-07-20T12:13:03.335157-04:00.jpg">Jul 20 at 7:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-07-19T23:35:46.144089-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-07-19T23:35:46.144089-04:00.jpg"
+     alt="People at 2022-07-20 06:35:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-07-19T23:35:46.144089-04:00.jpg">Jul 20 at 6:35 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-07-19T11:47:01.142284-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-07-19T11:47:01.142284-04:00.jpg"
+     alt="People at 2022-07-19 18:47:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-07-19T11:47:01.142284-04:00.jpg">Jul 19 at 6:47 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

@@ -107,6 +107,120 @@ The archiving routine has saved 208 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-07-25T14:02:43.345213+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-07-25T14:02:43.345213+02:00.jpg"
+     alt="FRANCE 24 at 2022-07-25 21:02:49+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-25T14:02:43.345213+02:00.jpg">Jul 25 at 9:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-07-25T10:09:11.690430+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-07-25T10:09:11.690430+02:00.jpg"
+     alt="FRANCE 24 at 2022-07-25 17:09:16+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-25T10:09:11.690430+02:00.jpg">Jul 25 at 5:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-07-25T03:06:58.514315+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-07-25T03:06:58.514315+02:00.jpg"
+     alt="FRANCE 24 at 2022-07-25 10:06:59+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-25T03:06:58.514315+02:00.jpg">Jul 25 at 10:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-07-24T14:00:23.645851+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-07-24T14:00:23.645851+02:00.jpg"
+     alt="FRANCE 24 at 2022-07-24 21:00:27+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-24T14:00:23.645851+02:00.jpg">Jul 24 at 9:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-07-24T10:10:36.133420+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-07-24T10:10:36.133420+02:00.jpg"
+     alt="FRANCE 24 at 2022-07-24 17:10:37+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-24T10:10:36.133420+02:00.jpg">Jul 24 at 5:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-07-24T08:29:58.423403+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-07-24T08:29:58.423403+02:00.jpg"
+     alt="FRANCE 24 at 2022-07-24 15:30:03+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-24T08:29:58.423403+02:00.jpg">Jul 24 at 3:30 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-07-23T15:59:11.540773+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-07-23T15:59:11.540773+02:00.jpg"
+     alt="FRANCE 24 at 2022-07-23 22:59:17+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-23T15:59:11.540773+02:00.jpg">Jul 23 at 10:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-07-23T10:07:04.111127+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-07-23T10:07:04.111127+02:00.jpg"
+     alt="FRANCE 24 at 2022-07-23 17:07:09+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-23T10:07:04.111127+02:00.jpg">Jul 23 at 5:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-07-23T04:25:43.266290+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-07-23T04:25:43.266290+02:00.jpg"
+     alt="FRANCE 24 at 2022-07-23 11:25:48+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-23T04:25:43.266290+02:00.jpg">Jul 23 at 11:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-07-22T16:00:56.814909+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-07-22T16:00:56.814909+02:00.jpg"
+     alt="FRANCE 24 at 2022-07-22 23:01:02+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-22T16:00:56.814909+02:00.jpg">Jul 22 at 11:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-07-22T10:07:17.451873+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-07-22T10:07:17.451873+02:00.jpg"
+     alt="FRANCE 24 at 2022-07-22 17:07:26+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-22T10:07:17.451873+02:00.jpg">Jul 22 at 5:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-07-22T04:20:29.631966+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-07-22T04:20:29.631966+02:00.jpg"
+     alt="FRANCE 24 at 2022-07-22 11:20:38+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-22T04:20:29.631966+02:00.jpg">Jul 22 at 11:20 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

@@ -107,6 +107,120 @@ The archiving routine has saved 33 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-24T20:26:03.315880-07:00.jpg">
+  <img src="https://archive.org/download/knprnews-2022/knprnews-2022-07-24T20:26:03.315880-07:00.jpg"
+     alt="Nevada Public Radio at 2022-07-25 03:26:05-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-24T20:26:03.315880-07:00.jpg">Jul 25 at 3:26 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-24T06:00:10.668014-07:00.jpg">
+  <img src="https://archive.org/download/knprnews-2022/knprnews-2022-07-24T06:00:10.668014-07:00.jpg"
+     alt="Nevada Public Radio at 2022-07-24 13:00:12-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-24T06:00:10.668014-07:00.jpg">Jul 24 at 1:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-23T21:15:18.193666-07:00.jpg">
+  <img src="https://archive.org/download/knprnews-2022/knprnews-2022-07-23T21:15:18.193666-07:00.jpg"
+     alt="Nevada Public Radio at 2022-07-24 04:15:19-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-23T21:15:18.193666-07:00.jpg">Jul 24 at 4:15 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-23T07:05:06.474627-07:00.jpg">
+  <img src="https://archive.org/download/knprnews-2022/knprnews-2022-07-23T07:05:06.474627-07:00.jpg"
+     alt="Nevada Public Radio at 2022-07-23 14:05:08-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-23T07:05:06.474627-07:00.jpg">Jul 23 at 2:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-22T19:31:48.569202-07:00.jpg">
+  <img src="https://archive.org/download/knprnews-2022/knprnews-2022-07-22T19:31:48.569202-07:00.jpg"
+     alt="Nevada Public Radio at 2022-07-23 02:31:52-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-22T19:31:48.569202-07:00.jpg">Jul 23 at 2:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-22T07:06:18.126310-07:00.jpg">
+  <img src="https://archive.org/download/knprnews-2022/knprnews-2022-07-22T07:06:18.126310-07:00.jpg"
+     alt="Nevada Public Radio at 2022-07-22 14:06:19-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-22T07:06:18.126310-07:00.jpg">Jul 22 at 2:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-21T19:25:14.599046-07:00.jpg">
+  <img src="https://archive.org/download/knprnews-2022/knprnews-2022-07-21T19:25:14.599046-07:00.jpg"
+     alt="Nevada Public Radio at 2022-07-22 02:25:16-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-21T19:25:14.599046-07:00.jpg">Jul 22 at 2:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-21T07:15:09.812296-07:00.jpg">
+  <img src="https://archive.org/download/knprnews-2022/knprnews-2022-07-21T07:15:09.812296-07:00.jpg"
+     alt="Nevada Public Radio at 2022-07-21 14:15:11-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-21T07:15:09.812296-07:00.jpg">Jul 21 at 2:15 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-20T19:27:53.092593-07:00.jpg">
+  <img src="https://archive.org/download/knprnews-2022/knprnews-2022-07-20T19:27:53.092593-07:00.jpg"
+     alt="Nevada Public Radio at 2022-07-21 02:27:54-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-20T19:27:53.092593-07:00.jpg">Jul 21 at 2:27 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-20T07:28:46.248491-07:00.jpg">
+  <img src="https://archive.org/download/knprnews-2022/knprnews-2022-07-20T07:28:46.248491-07:00.jpg"
+     alt="Nevada Public Radio at 2022-07-20 14:28:48-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-20T07:28:46.248491-07:00.jpg">Jul 20 at 2:28 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-19T19:21:25.203425-07:00.jpg">
+  <img src="https://archive.org/download/knprnews-2022/knprnews-2022-07-19T19:21:25.203425-07:00.jpg"
+     alt="Nevada Public Radio at 2022-07-20 02:21:26-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-19T19:21:25.203425-07:00.jpg">Jul 20 at 2:21 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-19T07:18:48.775254-07:00.jpg">
+  <img src="https://archive.org/download/knprnews-2022/knprnews-2022-07-19T07:18:48.775254-07:00.jpg"
+     alt="Nevada Public Radio at 2022-07-19 14:18:50-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-19T07:18:48.775254-07:00.jpg">Jul 19 at 2:18 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

@@ -107,6 +107,120 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-25T05:03:31.738513-06:00.jpg">
+  <img src="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-25T05:03:31.738513-06:00.jpg"
+     alt="Colorado News Collaborative at 2022-07-25 12:03:33-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-25T05:03:31.738513-06:00.jpg">Jul 25 at 12:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-24T18:56:02.928964-06:00.jpg">
+  <img src="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-24T18:56:02.928964-06:00.jpg"
+     alt="Colorado News Collaborative at 2022-07-25 01:56:05-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-24T18:56:02.928964-06:00.jpg">Jul 25 at 1:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-24T05:02:20.065415-06:00.jpg">
+  <img src="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-24T05:02:20.065415-06:00.jpg"
+     alt="Colorado News Collaborative at 2022-07-24 12:02:22-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-24T05:02:20.065415-06:00.jpg">Jul 24 at 12:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-23T17:04:26.652393-06:00.jpg">
+  <img src="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-23T17:04:26.652393-06:00.jpg"
+     alt="Colorado News Collaborative at 2022-07-24 00:04:28-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-23T17:04:26.652393-06:00.jpg">Jul 24 at 12:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-23T07:01:13.083642-06:00.jpg">
+  <img src="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-23T07:01:13.083642-06:00.jpg"
+     alt="Colorado News Collaborative at 2022-07-23 14:01:14-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-23T07:01:13.083642-06:00.jpg">Jul 23 at 2:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-22T19:01:58.569102-06:00.jpg">
+  <img src="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-22T19:01:58.569102-06:00.jpg"
+     alt="Colorado News Collaborative at 2022-07-23 02:02:00-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-22T19:01:58.569102-06:00.jpg">Jul 23 at 2:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-22T07:02:11.654818-06:00.jpg">
+  <img src="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-22T07:02:11.654818-06:00.jpg"
+     alt="Colorado News Collaborative at 2022-07-22 14:02:12-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-22T07:02:11.654818-06:00.jpg">Jul 22 at 2:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-21T19:09:20.848268-06:00.jpg">
+  <img src="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-21T19:09:20.848268-06:00.jpg"
+     alt="Colorado News Collaborative at 2022-07-22 02:09:22-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-21T19:09:20.848268-06:00.jpg">Jul 22 at 2:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-21T06:55:22.541706-06:00.jpg">
+  <img src="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-21T06:55:22.541706-06:00.jpg"
+     alt="Colorado News Collaborative at 2022-07-21 13:55:25-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-21T06:55:22.541706-06:00.jpg">Jul 21 at 1:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-20T19:08:26.421774-06:00.jpg">
+  <img src="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-20T19:08:26.421774-06:00.jpg"
+     alt="Colorado News Collaborative at 2022-07-21 02:08:28-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-20T19:08:26.421774-06:00.jpg">Jul 21 at 2:08 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-20T06:56:00.301872-06:00.jpg">
+  <img src="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-20T06:56:00.301872-06:00.jpg"
+     alt="Colorado News Collaborative at 2022-07-20 13:56:02-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-20T06:56:00.301872-06:00.jpg">Jul 20 at 1:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-19T19:02:57.140895-06:00.jpg">
+  <img src="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-19T19:02:57.140895-06:00.jpg"
+     alt="Colorado News Collaborative at 2022-07-20 02:02:58-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-19T19:02:57.140895-06:00.jpg">Jul 20 at 2:02 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

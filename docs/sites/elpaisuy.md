@@ -107,6 +107,120 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-25T09:00:59.904969-03:00.jpg">
+  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-25T09:00:59.904969-03:00.jpg"
+     alt="El Pais at 2022-07-25 16:01:03-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-25T09:00:59.904969-03:00.jpg">Jul 25 at 4:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T22:02:48.368083-03:00.jpg">
+  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T22:02:48.368083-03:00.jpg"
+     alt="El Pais at 2022-07-25 05:02:50-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T22:02:48.368083-03:00.jpg">Jul 25 at 5:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T08:57:57.462483-03:00.jpg">
+  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T08:57:57.462483-03:00.jpg"
+     alt="El Pais at 2022-07-24 15:58:01-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T08:57:57.462483-03:00.jpg">Jul 24 at 3:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T03:28:39.853866-03:00.jpg">
+  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T03:28:39.853866-03:00.jpg"
+     alt="El Pais at 2022-07-24 10:28:43-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T03:28:39.853866-03:00.jpg">Jul 24 at 10:28 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-23T10:58:17.669704-03:00.jpg">
+  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-23T10:58:17.669704-03:00.jpg"
+     alt="El Pais at 2022-07-23 17:58:21-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-23T10:58:17.669704-03:00.jpg">Jul 23 at 5:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-22T23:24:45.798704-03:00.jpg">
+  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-22T23:24:45.798704-03:00.jpg"
+     alt="El Pais at 2022-07-23 06:24:47-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-22T23:24:45.798704-03:00.jpg">Jul 23 at 6:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-22T10:59:21.061922-03:00.jpg">
+  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-22T10:59:21.061922-03:00.jpg"
+     alt="El Pais at 2022-07-22 17:59:28-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-22T10:59:21.061922-03:00.jpg">Jul 22 at 5:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-21T23:18:27.551249-03:00.jpg">
+  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-21T23:18:27.551249-03:00.jpg"
+     alt="El Pais at 2022-07-22 06:18:29-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-21T23:18:27.551249-03:00.jpg">Jul 22 at 6:18 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-21T11:04:02.664270-03:00.jpg">
+  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-21T11:04:02.664270-03:00.jpg"
+     alt="El Pais at 2022-07-21 18:04:04-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-21T11:04:02.664270-03:00.jpg">Jul 21 at 6:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-20T23:21:23.370458-03:00.jpg">
+  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-20T23:21:23.370458-03:00.jpg"
+     alt="El Pais at 2022-07-21 06:21:25-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-20T23:21:23.370458-03:00.jpg">Jul 21 at 6:21 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-20T11:18:41.974205-03:00.jpg">
+  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-20T11:18:41.974205-03:00.jpg"
+     alt="El Pais at 2022-07-20 18:18:44-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-20T11:18:41.974205-03:00.jpg">Jul 20 at 6:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-19T23:15:56.445606-03:00.jpg">
+  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-19T23:15:56.445606-03:00.jpg"
+     alt="El Pais at 2022-07-20 06:15:58-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-19T23:15:56.445606-03:00.jpg">Jul 20 at 6:15 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

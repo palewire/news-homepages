@@ -5,6 +5,7 @@ from pathlib import Path
 import click
 import jinja2
 import pandas as pd
+import pytz
 from rich import print
 from rich.progress import track
 from slugify import slugify
@@ -93,19 +94,34 @@ def site_detail():
 
     # Get all screenshots and items
     csv_dir = utils.EXTRACT_DIR / "csv"
-    screenshot_list = list(csv.DictReader(open(csv_dir / "screenshot-files.csv")))
+    screenshot_list = utils.get_screenshot_list()
     item_list = list(csv.DictReader(open(csv_dir / "items.csv")))
 
     # For each site ...
     for site in track(site_list):
+        # Get all the bundles linked to this site
         site["bundle_list"] = [utils.get_bundle(b) for b in site["bundle_list"] if b]
+
+        # Get the screenshots for this site
+        screenshots = [
+            s for s in screenshot_list if s["handle"].lower() == site["handle"].lower()
+        ]
+
+        # Get most 12 recent screenshots
+        most_recent_screenshots = sorted(
+            screenshots, key=lambda x: x["mtime"], reverse=True
+        )[:12]
+
+        # Set the local time
+        site_tz = pytz.timezone(site["timezone"])
+        for s in most_recent_screenshots:
+            s["local_time"] = s["local_time"] = s["mtime"].astimezone(site_tz)
+
+        # Render the template
         context = {
             "site": site,
-            "screenshots": [
-                s
-                for s in screenshot_list
-                if s["handle"].lower() == site["handle"].lower()
-            ],
+            "screenshots": len(screenshots),
+            "most_recent_screenshots": most_recent_screenshots,
             "items": [
                 i for i in item_list if i["handle"].lower() == site["handle"].lower()
             ],

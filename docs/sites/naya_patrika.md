@@ -24,6 +24,30 @@ The archiving routine has saved 2 screenshots with the Internet Archive.
 
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-25T09:19:00.349109+05:45.jpg">
+  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-25T09:19:00.349109+05:45.jpg"
+     alt="Naya Patrika at 2022-07-25 16:19:02+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-25T09:19:00.349109+05:45.jpg">Jul 25 at 4:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-25T02:23:04.767540+05:45.jpg">
+  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-25T02:23:04.767540+05:45.jpg"
+     alt="Naya Patrika at 2022-07-25 09:23:10+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-25T02:23:04.767540+05:45.jpg">Jul 25 at 9:23 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

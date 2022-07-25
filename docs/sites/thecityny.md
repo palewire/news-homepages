@@ -107,6 +107,120 @@ The archiving routine has saved 102 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T00:36:25.082588-04:00.jpg">
+  <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T00:36:25.082588-04:00.jpg"
+     alt="The City at 2022-07-25 07:36:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T00:36:25.082588-04:00.jpg">Jul 25 at 7:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-24T11:05:56.038237-04:00.jpg">
+  <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-24T11:05:56.038237-04:00.jpg"
+     alt="The City at 2022-07-24 18:05:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-24T11:05:56.038237-04:00.jpg">Jul 24 at 6:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T23:41:00.516051-04:00.jpg">
+  <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T23:41:00.516051-04:00.jpg"
+     alt="The City at 2022-07-24 06:41:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T23:41:00.516051-04:00.jpg">Jul 24 at 6:41 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T12:04:40.827265-04:00.jpg">
+  <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T12:04:40.827265-04:00.jpg"
+     alt="The City at 2022-07-23 19:04:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T12:04:40.827265-04:00.jpg">Jul 23 at 7:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T00:24:45.581926-04:00.jpg">
+  <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T00:24:45.581926-04:00.jpg"
+     alt="The City at 2022-07-23 07:24:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T00:24:45.581926-04:00.jpg">Jul 23 at 7:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-22T12:17:34.689220-04:00.jpg">
+  <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-22T12:17:34.689220-04:00.jpg"
+     alt="The City at 2022-07-22 19:17:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-22T12:17:34.689220-04:00.jpg">Jul 22 at 7:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-22T00:31:09.929674-04:00.jpg">
+  <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-22T00:31:09.929674-04:00.jpg"
+     alt="The City at 2022-07-22 07:31:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-22T00:31:09.929674-04:00.jpg">Jul 22 at 7:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-21T12:54:19.785948-04:00.jpg">
+  <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-21T12:54:19.785948-04:00.jpg"
+     alt="The City at 2022-07-21 19:54:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-21T12:54:19.785948-04:00.jpg">Jul 21 at 7:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-21T00:29:11.984534-04:00.jpg">
+  <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-21T00:29:11.984534-04:00.jpg"
+     alt="The City at 2022-07-21 07:29:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-21T00:29:11.984534-04:00.jpg">Jul 21 at 7:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-20T12:44:42.626124-04:00.jpg">
+  <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-20T12:44:42.626124-04:00.jpg"
+     alt="The City at 2022-07-20 19:44:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-20T12:44:42.626124-04:00.jpg">Jul 20 at 7:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-20T00:21:18.342746-04:00.jpg">
+  <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-20T00:21:18.342746-04:00.jpg"
+     alt="The City at 2022-07-20 07:21:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-20T00:21:18.342746-04:00.jpg">Jul 20 at 7:21 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-19T13:00:27.360932-04:00.jpg">
+  <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-19T13:00:27.360932-04:00.jpg"
+     alt="The City at 2022-07-19 20:00:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-19T13:00:27.360932-04:00.jpg">Jul 19 at 8:00 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

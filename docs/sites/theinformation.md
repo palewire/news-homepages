@@ -107,6 +107,120 @@ The archiving routine has saved 57 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-24T23:46:43.085904-07:00.jpg">
+  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-07-24T23:46:43.085904-07:00.jpg"
+     alt="The Information at 2022-07-25 06:46:45-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-24T23:46:43.085904-07:00.jpg">Jul 25 at 6:46 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-24T21:36:05.977696-07:00.jpg">
+  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-07-24T21:36:05.977696-07:00.jpg"
+     alt="The Information at 2022-07-25 04:36:07-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-24T21:36:05.977696-07:00.jpg">Jul 25 at 4:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-24T08:06:53.441679-07:00.jpg">
+  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-07-24T08:06:53.441679-07:00.jpg"
+     alt="The Information at 2022-07-24 15:06:55-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-24T08:06:53.441679-07:00.jpg">Jul 24 at 3:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-23T20:41:31.868588-07:00.jpg">
+  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-07-23T20:41:31.868588-07:00.jpg"
+     alt="The Information at 2022-07-24 03:41:34-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-23T20:41:31.868588-07:00.jpg">Jul 24 at 3:41 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-23T09:04:47.918407-07:00.jpg">
+  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-07-23T09:04:47.918407-07:00.jpg"
+     alt="The Information at 2022-07-23 16:04:49-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-23T09:04:47.918407-07:00.jpg">Jul 23 at 4:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-22T21:25:06.085201-07:00.jpg">
+  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-07-22T21:25:06.085201-07:00.jpg"
+     alt="The Information at 2022-07-23 04:25:07-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-22T21:25:06.085201-07:00.jpg">Jul 23 at 4:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-22T09:17:49.978231-07:00.jpg">
+  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-07-22T09:17:49.978231-07:00.jpg"
+     alt="The Information at 2022-07-22 16:17:51-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-22T09:17:49.978231-07:00.jpg">Jul 22 at 4:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-21T21:30:55.689202-07:00.jpg">
+  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-07-21T21:30:55.689202-07:00.jpg"
+     alt="The Information at 2022-07-22 04:30:57-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-21T21:30:55.689202-07:00.jpg">Jul 22 at 4:30 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-21T09:55:16.394665-07:00.jpg">
+  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-07-21T09:55:16.394665-07:00.jpg"
+     alt="The Information at 2022-07-21 16:55:17-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-21T09:55:16.394665-07:00.jpg">Jul 21 at 4:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-20T21:29:11.802618-07:00.jpg">
+  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-07-20T21:29:11.802618-07:00.jpg"
+     alt="The Information at 2022-07-21 04:29:14-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-20T21:29:11.802618-07:00.jpg">Jul 21 at 4:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-20T09:45:55.148801-07:00.jpg">
+  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-07-20T09:45:55.148801-07:00.jpg"
+     alt="The Information at 2022-07-20 16:45:56-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-20T09:45:55.148801-07:00.jpg">Jul 20 at 4:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-19T21:21:42.005902-07:00.jpg">
+  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-07-19T21:21:42.005902-07:00.jpg"
+     alt="The Information at 2022-07-20 04:21:43-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-19T21:21:42.005902-07:00.jpg">Jul 20 at 4:21 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

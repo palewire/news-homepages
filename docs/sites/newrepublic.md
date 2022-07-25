@@ -24,6 +24,120 @@ The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-24T23:35:37.023623-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-24T23:35:37.023623-04:00.jpg"
+     alt="New Republic at 2022-07-25 06:35:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-24T23:35:37.023623-04:00.jpg">Jul 25 at 6:35 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-24T11:42:49.437434-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-24T11:42:49.437434-04:00.jpg"
+     alt="New Republic at 2022-07-24 18:42:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-24T11:42:49.437434-04:00.jpg">Jul 24 at 6:42 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-24T09:05:04.208060-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-24T09:05:04.208060-04:00.jpg"
+     alt="New Republic at 2022-07-24 16:05:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-24T09:05:04.208060-04:00.jpg">Jul 24 at 4:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-24T00:20:05.179476-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-24T00:20:05.179476-04:00.jpg"
+     alt="New Republic at 2022-07-24 07:20:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-24T00:20:05.179476-04:00.jpg">Jul 24 at 7:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-23T14:13:28.351550-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-23T14:13:28.351550-04:00.jpg"
+     alt="New Republic at 2022-07-23 21:13:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-23T14:13:28.351550-04:00.jpg">Jul 23 at 9:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-23T11:02:42.368282-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-23T11:02:42.368282-04:00.jpg"
+     alt="New Republic at 2022-07-23 18:02:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-23T11:02:42.368282-04:00.jpg">Jul 23 at 6:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-22T23:33:10.518952-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-22T23:33:10.518952-04:00.jpg"
+     alt="New Republic at 2022-07-23 06:33:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-22T23:33:10.518952-04:00.jpg">Jul 23 at 6:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-22T12:12:04.484435-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-22T12:12:04.484435-04:00.jpg"
+     alt="New Republic at 2022-07-22 19:12:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-22T12:12:04.484435-04:00.jpg">Jul 22 at 7:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-22T10:58:47.323617-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-22T10:58:47.323617-04:00.jpg"
+     alt="New Republic at 2022-07-22 17:58:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-22T10:58:47.323617-04:00.jpg">Jul 22 at 5:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-21T23:37:32.995851-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-21T23:37:32.995851-04:00.jpg"
+     alt="New Republic at 2022-07-22 06:37:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-21T23:37:32.995851-04:00.jpg">Jul 22 at 6:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-21T12:50:13.190487-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-21T12:50:13.190487-04:00.jpg"
+     alt="New Republic at 2022-07-21 19:50:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-21T12:50:13.190487-04:00.jpg">Jul 21 at 7:50 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-21T11:32:09.788196-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-21T11:32:09.788196-04:00.jpg"
+     alt="New Republic at 2022-07-21 18:32:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-21T11:32:09.788196-04:00.jpg">Jul 21 at 6:32 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

@@ -107,6 +107,120 @@ The archiving routine has saved 43 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-25T08:03:45.185770-04:00.jpg">
+  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-07-25T08:03:45.185770-04:00.jpg"
+     alt="Fox Sports at 2022-07-25 15:03:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-25T08:03:45.185770-04:00.jpg">Jul 25 at 3:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-24T21:06:30.210157-04:00.jpg">
+  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-07-24T21:06:30.210157-04:00.jpg"
+     alt="Fox Sports at 2022-07-25 04:06:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-24T21:06:30.210157-04:00.jpg">Jul 25 at 4:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-24T07:59:53.357660-04:00.jpg">
+  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-07-24T07:59:53.357660-04:00.jpg"
+     alt="Fox Sports at 2022-07-24 14:59:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-24T07:59:53.357660-04:00.jpg">Jul 24 at 2:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-24T02:30:02.298815-04:00.jpg">
+  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-07-24T02:30:02.298815-04:00.jpg"
+     alt="Fox Sports at 2022-07-24 09:30:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-24T02:30:02.298815-04:00.jpg">Jul 24 at 9:30 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-23T09:59:12.107724-04:00.jpg">
+  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-07-23T09:59:12.107724-04:00.jpg"
+     alt="Fox Sports at 2022-07-23 16:59:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-23T09:59:12.107724-04:00.jpg">Jul 23 at 4:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-22T22:26:00.783173-04:00.jpg">
+  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-07-22T22:26:00.783173-04:00.jpg"
+     alt="Fox Sports at 2022-07-23 05:26:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-22T22:26:00.783173-04:00.jpg">Jul 23 at 5:26 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-22T10:01:12.572190-04:00.jpg">
+  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-07-22T10:01:12.572190-04:00.jpg"
+     alt="Fox Sports at 2022-07-22 17:01:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-22T10:01:12.572190-04:00.jpg">Jul 22 at 5:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-21T22:20:41.985329-04:00.jpg">
+  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-07-21T22:20:41.985329-04:00.jpg"
+     alt="Fox Sports at 2022-07-22 05:20:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-21T22:20:41.985329-04:00.jpg">Jul 22 at 5:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-21T10:11:06.002596-04:00.jpg">
+  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-07-21T10:11:06.002596-04:00.jpg"
+     alt="Fox Sports at 2022-07-21 17:11:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-21T10:11:06.002596-04:00.jpg">Jul 21 at 5:11 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-20T22:23:11.948052-04:00.jpg">
+  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-07-20T22:23:11.948052-04:00.jpg"
+     alt="Fox Sports at 2022-07-21 05:23:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-20T22:23:11.948052-04:00.jpg">Jul 21 at 5:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-20T10:23:23.057224-04:00.jpg">
+  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-07-20T10:23:23.057224-04:00.jpg"
+     alt="Fox Sports at 2022-07-20 17:23:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-20T10:23:23.057224-04:00.jpg">Jul 20 at 5:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-19T22:17:27.759628-04:00.jpg">
+  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-07-19T22:17:27.759628-04:00.jpg"
+     alt="Fox Sports at 2022-07-20 05:17:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-19T22:17:27.759628-04:00.jpg">Jul 20 at 5:17 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

@@ -107,6 +107,120 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-25T03:57:31.058919-07:00.jpg">
+  <img src="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-25T03:57:31.058919-07:00.jpg"
+     alt="Ashland.news at 2022-07-25 10:57:33-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-25T03:57:31.058919-07:00.jpg">Jul 25 at 10:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-24T17:46:46.732721-07:00.jpg">
+  <img src="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-24T17:46:46.732721-07:00.jpg"
+     alt="Ashland.news at 2022-07-25 00:46:48-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-24T17:46:46.732721-07:00.jpg">Jul 25 at 12:46 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-24T03:56:24.213637-07:00.jpg">
+  <img src="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-24T03:56:24.213637-07:00.jpg"
+     alt="Ashland.news at 2022-07-24 10:56:27-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-24T03:56:24.213637-07:00.jpg">Jul 24 at 10:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-23T15:59:04.482357-07:00.jpg">
+  <img src="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-23T15:59:04.482357-07:00.jpg"
+     alt="Ashland.news at 2022-07-23 22:59:06-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-23T15:59:04.482357-07:00.jpg">Jul 23 at 10:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-23T05:55:44.138767-07:00.jpg">
+  <img src="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-23T05:55:44.138767-07:00.jpg"
+     alt="Ashland.news at 2022-07-23 12:55:45-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-23T05:55:44.138767-07:00.jpg">Jul 23 at 12:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-22T17:56:26.400575-07:00.jpg">
+  <img src="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-22T17:56:26.400575-07:00.jpg"
+     alt="Ashland.news at 2022-07-23 00:56:28-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-22T17:56:26.400575-07:00.jpg">Jul 23 at 12:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-22T05:56:09.514699-07:00.jpg">
+  <img src="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-22T05:56:09.514699-07:00.jpg"
+     alt="Ashland.news at 2022-07-22 12:56:10-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-22T05:56:09.514699-07:00.jpg">Jul 22 at 12:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-21T18:03:59.900065-07:00.jpg">
+  <img src="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-21T18:03:59.900065-07:00.jpg"
+     alt="Ashland.news at 2022-07-22 01:04:06-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-21T18:03:59.900065-07:00.jpg">Jul 22 at 1:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-21T05:50:51.652116-07:00.jpg">
+  <img src="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-21T05:50:51.652116-07:00.jpg"
+     alt="Ashland.news at 2022-07-21 12:50:53-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-21T05:50:51.652116-07:00.jpg">Jul 21 at 12:50 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-20T18:03:04.575197-07:00.jpg">
+  <img src="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-20T18:03:04.575197-07:00.jpg"
+     alt="Ashland.news at 2022-07-21 01:03:05-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-20T18:03:04.575197-07:00.jpg">Jul 21 at 1:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-20T05:51:20.249912-07:00.jpg">
+  <img src="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-20T05:51:20.249912-07:00.jpg"
+     alt="Ashland.news at 2022-07-20 12:51:21-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-20T05:51:20.249912-07:00.jpg">Jul 20 at 12:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-19T17:58:42.662456-07:00.jpg">
+  <img src="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-19T17:58:42.662456-07:00.jpg"
+     alt="Ashland.news at 2022-07-20 00:58:43-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-07-19T17:58:42.662456-07:00.jpg">Jul 20 at 12:58 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

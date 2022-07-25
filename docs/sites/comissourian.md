@@ -107,6 +107,120 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-25T06:03:42.503649-05:00.jpg">
+  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-07-25T06:03:42.503649-05:00.jpg"
+     alt="Columbia Missourian at 2022-07-25 13:03:45-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-25T06:03:42.503649-05:00.jpg">Jul 25 at 1:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-24T19:57:13.570465-05:00.jpg">
+  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-07-24T19:57:13.570465-05:00.jpg"
+     alt="Columbia Missourian at 2022-07-25 02:57:16-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-24T19:57:13.570465-05:00.jpg">Jul 25 at 2:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-24T06:03:02.645556-05:00.jpg">
+  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-07-24T06:03:02.645556-05:00.jpg"
+     alt="Columbia Missourian at 2022-07-24 13:03:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-24T06:03:02.645556-05:00.jpg">Jul 24 at 1:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-23T18:04:08.903565-05:00.jpg">
+  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-07-23T18:04:08.903565-05:00.jpg"
+     alt="Columbia Missourian at 2022-07-24 01:04:13-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-23T18:04:08.903565-05:00.jpg">Jul 24 at 1:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-23T08:01:50.731938-05:00.jpg">
+  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-07-23T08:01:50.731938-05:00.jpg"
+     alt="Columbia Missourian at 2022-07-23 15:01:51-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-23T08:01:50.731938-05:00.jpg">Jul 23 at 3:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-22T20:02:04.171986-05:00.jpg">
+  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-07-22T20:02:04.171986-05:00.jpg"
+     alt="Columbia Missourian at 2022-07-23 03:02:05-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-22T20:02:04.171986-05:00.jpg">Jul 23 at 3:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-22T08:01:54.426298-05:00.jpg">
+  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-07-22T08:01:54.426298-05:00.jpg"
+     alt="Columbia Missourian at 2022-07-22 15:01:56-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-22T08:01:54.426298-05:00.jpg">Jul 22 at 3:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-21T20:09:28.471522-05:00.jpg">
+  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-07-21T20:09:28.471522-05:00.jpg"
+     alt="Columbia Missourian at 2022-07-22 03:09:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-21T20:09:28.471522-05:00.jpg">Jul 22 at 3:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-21T07:56:14.509443-05:00.jpg">
+  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-07-21T07:56:14.509443-05:00.jpg"
+     alt="Columbia Missourian at 2022-07-21 14:56:15-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-21T07:56:14.509443-05:00.jpg">Jul 21 at 2:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-20T20:08:52.895171-05:00.jpg">
+  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-07-20T20:08:52.895171-05:00.jpg"
+     alt="Columbia Missourian at 2022-07-21 03:08:53-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-20T20:08:52.895171-05:00.jpg">Jul 21 at 3:08 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-20T07:56:49.646264-05:00.jpg">
+  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-07-20T07:56:49.646264-05:00.jpg"
+     alt="Columbia Missourian at 2022-07-20 14:56:50-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-20T07:56:49.646264-05:00.jpg">Jul 20 at 2:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-19T20:03:07.818867-05:00.jpg">
+  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-07-19T20:03:07.818867-05:00.jpg"
+     alt="Columbia Missourian at 2022-07-20 03:03:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-19T20:03:07.818867-05:00.jpg">Jul 20 at 3:03 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

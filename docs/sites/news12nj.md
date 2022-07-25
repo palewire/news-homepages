@@ -24,6 +24,12 @@ The archiving routine has saved 0 screenshots with the Internet Archive.
 
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+</div>
+
 ## Internet Archive
 
 | Item  |

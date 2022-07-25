@@ -107,6 +107,120 @@ The archiving routine has saved 32 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-25T00:37:01.189354-04:00.jpg">
+  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-25T00:37:01.189354-04:00.jpg"
+     alt="Charlotte Observer at 2022-07-25 07:37:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-25T00:37:01.189354-04:00.jpg">Jul 25 at 7:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-24T11:07:03.560527-04:00.jpg">
+  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-24T11:07:03.560527-04:00.jpg"
+     alt="Charlotte Observer at 2022-07-24 18:07:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-24T11:07:03.560527-04:00.jpg">Jul 24 at 6:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T23:42:44.564226-04:00.jpg">
+  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T23:42:44.564226-04:00.jpg"
+     alt="Charlotte Observer at 2022-07-24 06:42:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T23:42:44.564226-04:00.jpg">Jul 24 at 6:42 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T12:05:34.426970-04:00.jpg">
+  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T12:05:34.426970-04:00.jpg"
+     alt="Charlotte Observer at 2022-07-23 19:05:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T12:05:34.426970-04:00.jpg">Jul 23 at 7:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T00:25:29.981207-04:00.jpg">
+  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T00:25:29.981207-04:00.jpg"
+     alt="Charlotte Observer at 2022-07-23 07:25:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T00:25:29.981207-04:00.jpg">Jul 23 at 7:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-22T12:18:32.611250-04:00.jpg">
+  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-22T12:18:32.611250-04:00.jpg"
+     alt="Charlotte Observer at 2022-07-22 19:18:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-22T12:18:32.611250-04:00.jpg">Jul 22 at 7:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-22T00:32:32.988890-04:00.jpg">
+  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-22T00:32:32.988890-04:00.jpg"
+     alt="Charlotte Observer at 2022-07-22 07:32:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-22T00:32:32.988890-04:00.jpg">Jul 22 at 7:32 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-21T12:55:54.423150-04:00.jpg">
+  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-21T12:55:54.423150-04:00.jpg"
+     alt="Charlotte Observer at 2022-07-21 19:55:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-21T12:55:54.423150-04:00.jpg">Jul 21 at 7:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-21T00:29:50.210753-04:00.jpg">
+  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-21T00:29:50.210753-04:00.jpg"
+     alt="Charlotte Observer at 2022-07-21 07:29:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-21T00:29:50.210753-04:00.jpg">Jul 21 at 7:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-20T00:22:00.194112-04:00.jpg">
+  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-20T00:22:00.194112-04:00.jpg"
+     alt="Charlotte Observer at 2022-07-20 07:22:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-20T00:22:00.194112-04:00.jpg">Jul 20 at 7:22 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-19T13:01:38.744111-04:00.jpg">
+  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-19T13:01:38.744111-04:00.jpg"
+     alt="Charlotte Observer at 2022-07-19 20:01:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-19T13:01:38.744111-04:00.jpg">Jul 19 at 8:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-19T00:27:11.314843-04:00.jpg">
+  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-19T00:27:11.314843-04:00.jpg"
+     alt="Charlotte Observer at 2022-07-19 07:27:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-19T00:27:11.314843-04:00.jpg">Jul 19 at 7:27 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

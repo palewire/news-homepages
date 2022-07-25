@@ -107,6 +107,120 @@ The archiving routine has saved 189 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-24T22:32:09.245438-05:00.jpg">
+  <img src="https://archive.org/download/minnpost-2022/minnpost-2022-07-24T22:32:09.245438-05:00.jpg"
+     alt="MinnPost at 2022-07-25 05:32:13-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-24T22:32:09.245438-05:00.jpg">Jul 25 at 5:32 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-24T08:02:40.482299-05:00.jpg">
+  <img src="https://archive.org/download/minnpost-2022/minnpost-2022-07-24T08:02:40.482299-05:00.jpg"
+     alt="MinnPost at 2022-07-24 15:02:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-24T08:02:40.482299-05:00.jpg">Jul 24 at 3:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-23T23:19:01.978765-05:00.jpg">
+  <img src="https://archive.org/download/minnpost-2022/minnpost-2022-07-23T23:19:01.978765-05:00.jpg"
+     alt="MinnPost at 2022-07-24 06:19:03-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-23T23:19:01.978765-05:00.jpg">Jul 24 at 6:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-23T10:01:39.800221-05:00.jpg">
+  <img src="https://archive.org/download/minnpost-2022/minnpost-2022-07-23T10:01:39.800221-05:00.jpg"
+     alt="MinnPost at 2022-07-23 17:01:41-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-23T10:01:39.800221-05:00.jpg">Jul 23 at 5:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-22T22:31:28.005152-05:00.jpg">
+  <img src="https://archive.org/download/minnpost-2022/minnpost-2022-07-22T22:31:28.005152-05:00.jpg"
+     alt="MinnPost at 2022-07-23 05:31:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-22T22:31:28.005152-05:00.jpg">Jul 23 at 5:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-22T09:56:58.917025-05:00.jpg">
+  <img src="https://archive.org/download/minnpost-2022/minnpost-2022-07-22T09:56:58.917025-05:00.jpg"
+     alt="MinnPost at 2022-07-22 16:57:07-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-22T09:56:58.917025-05:00.jpg">Jul 22 at 4:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-21T22:35:46.279162-05:00.jpg">
+  <img src="https://archive.org/download/minnpost-2022/minnpost-2022-07-21T22:35:46.279162-05:00.jpg"
+     alt="MinnPost at 2022-07-22 05:35:54-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-21T22:35:46.279162-05:00.jpg">Jul 22 at 5:35 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-21T10:30:30.635414-05:00.jpg">
+  <img src="https://archive.org/download/minnpost-2022/minnpost-2022-07-21T10:30:30.635414-05:00.jpg"
+     alt="MinnPost at 2022-07-21 17:30:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-21T10:30:30.635414-05:00.jpg">Jul 21 at 5:30 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-20T22:34:11.588732-05:00.jpg">
+  <img src="https://archive.org/download/minnpost-2022/minnpost-2022-07-20T22:34:11.588732-05:00.jpg"
+     alt="MinnPost at 2022-07-21 05:34:13-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-20T22:34:11.588732-05:00.jpg">Jul 21 at 5:34 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-20T11:08:25.078435-05:00.jpg">
+  <img src="https://archive.org/download/minnpost-2022/minnpost-2022-07-20T11:08:25.078435-05:00.jpg"
+     alt="MinnPost at 2022-07-20 18:08:27-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-20T11:08:25.078435-05:00.jpg">Jul 20 at 6:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-19T22:32:40.879574-05:00.jpg">
+  <img src="https://archive.org/download/minnpost-2022/minnpost-2022-07-19T22:32:40.879574-05:00.jpg"
+     alt="MinnPost at 2022-07-20 05:32:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-19T22:32:40.879574-05:00.jpg">Jul 20 at 5:32 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-19T10:41:56.441740-05:00.jpg">
+  <img src="https://archive.org/download/minnpost-2022/minnpost-2022-07-19T10:41:56.441740-05:00.jpg"
+     alt="MinnPost at 2022-07-19 17:41:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-19T10:41:56.441740-05:00.jpg">Jul 19 at 5:41 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

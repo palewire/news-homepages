@@ -107,6 +107,120 @@ The archiving routine has saved 32 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-25T00:35:06.888879-04:00.jpg">
+  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-25T00:35:06.888879-04:00.jpg"
+     alt="Trace at 2022-07-25 07:35:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-25T00:35:06.888879-04:00.jpg">Jul 25 at 7:35 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-24T10:05:32.120588-04:00.jpg">
+  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-24T10:05:32.120588-04:00.jpg"
+     alt="Trace at 2022-07-24 17:05:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-24T10:05:32.120588-04:00.jpg">Jul 24 at 5:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-24T02:24:45.485018-04:00.jpg">
+  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-24T02:24:45.485018-04:00.jpg"
+     alt="Trace at 2022-07-24 09:24:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-24T02:24:45.485018-04:00.jpg">Jul 24 at 9:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-23T12:03:38.382862-04:00.jpg">
+  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-23T12:03:38.382862-04:00.jpg"
+     alt="Trace at 2022-07-23 19:03:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-23T12:03:38.382862-04:00.jpg">Jul 23 at 7:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-23T00:23:25.030048-04:00.jpg">
+  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-23T00:23:25.030048-04:00.jpg"
+     alt="Trace at 2022-07-23 07:23:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-23T00:23:25.030048-04:00.jpg">Jul 23 at 7:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-22T12:15:44.895569-04:00.jpg">
+  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-22T12:15:44.895569-04:00.jpg"
+     alt="Trace at 2022-07-22 19:15:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-22T12:15:44.895569-04:00.jpg">Jul 22 at 7:15 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-22T00:29:31.532453-04:00.jpg">
+  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-22T00:29:31.532453-04:00.jpg"
+     alt="Trace at 2022-07-22 07:29:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-22T00:29:31.532453-04:00.jpg">Jul 22 at 7:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-21T12:53:17.813699-04:00.jpg">
+  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-21T12:53:17.813699-04:00.jpg"
+     alt="Trace at 2022-07-21 19:53:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-21T12:53:17.813699-04:00.jpg">Jul 21 at 7:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-21T00:27:57.547627-04:00.jpg">
+  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-21T00:27:57.547627-04:00.jpg"
+     alt="Trace at 2022-07-21 07:27:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-21T00:27:57.547627-04:00.jpg">Jul 21 at 7:27 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-20T12:44:12.825846-04:00.jpg">
+  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-20T12:44:12.825846-04:00.jpg"
+     alt="Trace at 2022-07-20 19:44:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-20T12:44:12.825846-04:00.jpg">Jul 20 at 7:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-20T00:20:18.567416-04:00.jpg">
+  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-20T00:20:18.567416-04:00.jpg"
+     alt="Trace at 2022-07-20 07:20:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-20T00:20:18.567416-04:00.jpg">Jul 20 at 7:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-19T12:59:11.758054-04:00.jpg">
+  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-19T12:59:11.758054-04:00.jpg"
+     alt="Trace at 2022-07-19 19:59:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-19T12:59:11.758054-04:00.jpg">Jul 19 at 7:59 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

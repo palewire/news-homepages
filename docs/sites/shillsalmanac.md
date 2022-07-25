@@ -15,7 +15,7 @@ orphan: true
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/shillsalmanac.xml)                                                              |
 | Twitter handle | [@SHillsAlmanac](https://www.twitter.com/SHillsAlmanac)                                                                                  |
 | Location       | South Hills                                                                                                                              |
-| Timezone       | American/New_York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
 | Bundles        |  |
 
 ## Screenshots
@@ -23,6 +23,12 @@ orphan: true
 The archiving routine has saved 0 screenshots with the Internet Archive.
 
 
+
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+</div>
 
 ## Internet Archive
 

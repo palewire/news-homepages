@@ -107,6 +107,120 @@ The archiving routine has saved 59 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T13:01:52.582409+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T13:01:52.582409+01:00.jpg"
+     alt="Evening Standard at 2022-07-25 20:01:54+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T13:01:52.582409+01:00.jpg">Jul 25 at 8:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T10:09:38.022202+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T10:09:38.022202+01:00.jpg"
+     alt="Evening Standard at 2022-07-25 17:09:39+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T10:09:38.022202+01:00.jpg">Jul 25 at 5:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T02:03:30.186554+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T02:03:30.186554+01:00.jpg"
+     alt="Evening Standard at 2022-07-25 09:03:31+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T02:03:30.186554+01:00.jpg">Jul 25 at 9:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T12:58:41.009689+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T12:58:41.009689+01:00.jpg"
+     alt="Evening Standard at 2022-07-24 19:58:43+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T12:58:41.009689+01:00.jpg">Jul 24 at 7:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T10:09:57.034151+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T10:09:57.034151+01:00.jpg"
+     alt="Evening Standard at 2022-07-24 17:10:02+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T10:09:57.034151+01:00.jpg">Jul 24 at 5:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T07:28:26.032970+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T07:28:26.032970+01:00.jpg"
+     alt="Evening Standard at 2022-07-24 14:28:28+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T07:28:26.032970+01:00.jpg">Jul 24 at 2:28 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T14:57:54.753789+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T14:57:54.753789+01:00.jpg"
+     alt="Evening Standard at 2022-07-23 21:58:00+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T14:57:54.753789+01:00.jpg">Jul 23 at 9:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T10:06:26.046911+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T10:06:26.046911+01:00.jpg"
+     alt="Evening Standard at 2022-07-23 17:06:27+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T10:06:26.046911+01:00.jpg">Jul 23 at 5:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T03:24:45.738979+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T03:24:45.738979+01:00.jpg"
+     alt="Evening Standard at 2022-07-23 10:24:49+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T03:24:45.738979+01:00.jpg">Jul 23 at 10:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-22T14:59:05.048203+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-22T14:59:05.048203+01:00.jpg"
+     alt="Evening Standard at 2022-07-22 21:59:08+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-22T14:59:05.048203+01:00.jpg">Jul 22 at 9:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-22T10:07:12.378370+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-22T10:07:12.378370+01:00.jpg"
+     alt="Evening Standard at 2022-07-22 17:07:17+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-22T10:07:12.378370+01:00.jpg">Jul 22 at 5:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-22T03:18:26.052985+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-22T03:18:26.052985+01:00.jpg"
+     alt="Evening Standard at 2022-07-22 10:18:27+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-22T03:18:26.052985+01:00.jpg">Jul 22 at 10:18 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

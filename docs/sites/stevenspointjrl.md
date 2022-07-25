@@ -107,6 +107,120 @@ The archiving routine has saved 185 screenshots with the Internet Archive.
 </script>
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-24T22:44:57.566606-05:00.jpg">
+  <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-24T22:44:57.566606-05:00.jpg"
+     alt="Stevens Point Journal at 2022-07-25 05:44:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-24T22:44:57.566606-05:00.jpg">Jul 25 at 5:44 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-24T09:05:37.472645-05:00.jpg">
+  <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-24T09:05:37.472645-05:00.jpg"
+     alt="Stevens Point Journal at 2022-07-24 16:05:41-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-24T09:05:37.472645-05:00.jpg">Jul 24 at 4:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-24T01:24:18.993612-05:00.jpg">
+  <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-24T01:24:18.993612-05:00.jpg"
+     alt="Stevens Point Journal at 2022-07-24 08:24:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-24T01:24:18.993612-05:00.jpg">Jul 24 at 8:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-23T11:02:56.107226-05:00.jpg">
+  <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-23T11:02:56.107226-05:00.jpg"
+     alt="Stevens Point Journal at 2022-07-23 18:03:01-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-23T11:02:56.107226-05:00.jpg">Jul 23 at 6:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-22T23:23:19.007522-05:00.jpg">
+  <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-22T23:23:19.007522-05:00.jpg"
+     alt="Stevens Point Journal at 2022-07-23 06:23:21-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-22T23:23:19.007522-05:00.jpg">Jul 23 at 6:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-22T11:16:48.890069-05:00.jpg">
+  <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-22T11:16:48.890069-05:00.jpg"
+     alt="Stevens Point Journal at 2022-07-22 18:16:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-22T11:16:48.890069-05:00.jpg">Jul 22 at 6:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-21T23:29:47.476830-05:00.jpg">
+  <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-21T23:29:47.476830-05:00.jpg"
+     alt="Stevens Point Journal at 2022-07-22 06:29:50-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-21T23:29:47.476830-05:00.jpg">Jul 22 at 6:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-21T11:53:00.125120-05:00.jpg">
+  <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-21T11:53:00.125120-05:00.jpg"
+     alt="Stevens Point Journal at 2022-07-21 18:53:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-21T11:53:00.125120-05:00.jpg">Jul 21 at 6:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-20T23:27:53.456499-05:00.jpg">
+  <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-20T23:27:53.456499-05:00.jpg"
+     alt="Stevens Point Journal at 2022-07-21 06:27:55-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-20T23:27:53.456499-05:00.jpg">Jul 21 at 6:27 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-20T11:44:17.584942-05:00.jpg">
+  <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-20T11:44:17.584942-05:00.jpg"
+     alt="Stevens Point Journal at 2022-07-20 18:44:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-20T11:44:17.584942-05:00.jpg">Jul 20 at 6:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-19T23:19:37.045577-05:00.jpg">
+  <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-19T23:19:37.045577-05:00.jpg"
+     alt="Stevens Point Journal at 2022-07-20 06:19:38-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-19T23:19:37.045577-05:00.jpg">Jul 20 at 6:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-19T11:59:23.203219-05:00.jpg">
+  <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-19T11:59:23.203219-05:00.jpg"
+     alt="Stevens Point Journal at 2022-07-19 18:59:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-19T11:59:23.203219-05:00.jpg">Jul 19 at 6:59 PM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |

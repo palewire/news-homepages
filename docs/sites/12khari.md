@@ -24,6 +24,39 @@ The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
+Here are the 12 most recent screenshots.
+
+<div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/12khari-2022/12khari-2022-07-25T16:40:23.482123+05:45.jpg">
+  <img src="https://archive.org/download/12khari-2022/12khari-2022-07-25T16:40:23.482123+05:45.jpg"
+     alt="Baahrakhari at 2022-07-25 23:40:25+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/12khari-2022/12khari-2022-07-25T16:40:23.482123+05:45.jpg">Jul 25 at 11:40 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/12khari-2022/12khari-2022-07-25T06:29:35.543357+05:45.jpg">
+  <img src="https://archive.org/download/12khari-2022/12khari-2022-07-25T06:29:35.543357+05:45.jpg"
+     alt="Baahrakhari at 2022-07-25 13:29:37+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/12khari-2022/12khari-2022-07-25T06:29:35.543357+05:45.jpg">Jul 25 at 1:29 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/12khari-2022/12khari-2022-07-25T02:21:29.950748+05:45.jpg">
+  <img src="https://archive.org/download/12khari-2022/12khari-2022-07-25T02:21:29.950748+05:45.jpg"
+     alt="Baahrakhari at 2022-07-25 09:21:35+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/12khari-2022/12khari-2022-07-25T02:21:29.950748+05:45.jpg">Jul 25 at 9:21 AM</a></p>
+</div>
+
+</div>
+
 ## Internet Archive
 
 | Item  |
