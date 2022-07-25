@@ -1,8 +1,10 @@
 import csv
+import warnings
 from pathlib import Path
 
 import click
 import jinja2
+import pandas as pd
 from slugify import slugify
 
 from . import utils
@@ -117,6 +119,66 @@ def site_detail():
             PARENT_DIR / "docs" / "sites" / f"{site['handle'].lower()}.md", "w"
         ) as fh:
             fh.write(md)
+
+
+@cli.command()
+def site_detail_screenshot_chart():
+    """Create the JSON data file for the site detail page's screenshots chart."""
+    # Get all sites
+    site_list = utils.get_site_list()
+
+    # Get all screenshots
+    screenshots_df = pd.read_csv(
+        utils.EXTRACT_DIR / "csv" / "screenshot-files.csv",
+        parse_dates=["mtime"],
+        usecols=["identifier", "handle", "file_name", "mtime"],
+    )
+    screenshots_df["date"] = pd.to_datetime(screenshots_df.mtime.dt.date)
+
+    # Ignore pandas warnings
+    warnings.filterwarnings("ignore")
+
+    # Make the out directory
+    out_dir = utils.DOCS_DIR / "_extra" / "charts" / "sites" / "screenshots"
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    # Loop through all sites
+    for site in site_list:
+        click.echo(f"Creating screenshot chart JSON for {site['handle']}")
+
+        # Get the screenshots for this site
+        site_df = screenshots_df[
+            screenshots_df.handle.str.lower() == site["handle"].lower()
+        ]
+
+        # Group and count by date
+        site_by_date = (
+            site_df.groupby("date").size().rename("screenshots").reset_index()
+        )
+
+        # Calculate the seven-day rolling average
+        site_by_date["value"] = site_by_date.screenshots.rolling(7).mean()
+
+        # Cut nulls
+        site_by_date_nonulls = site_by_date[~pd.isnull(site_by_date.value)]
+
+        # Cut the most recent day, which may be incomplete
+        site_by_date_qualified = site_by_date_nonulls.head(
+            len(site_by_date_nonulls) - 1
+        )
+
+        # Trim the columns
+        site_by_date_trimmed = site_by_date_qualified[["date", "value"]]
+
+        # Format the date for JSON
+        site_by_date_trimmed = site_by_date_trimmed["date"].dt.strftime("%Y-%m-%d")
+
+        # Write it out
+        site_by_date_trimmed.to_json(
+            out_dir / f"{site['handle'].lower()}.json",
+            indent=2,
+            orient="records",
+        )
 
 
 if __name__ == "__main__":

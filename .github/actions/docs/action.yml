@@ -28,6 +28,11 @@ runs:
       run: pipenv run python -m newshomepages.docs site-detail;
       shell: bash
 
+    - id: site-detail-screenshot-chart
+      name: Update site detail screenshot-chart
+      run: pipenv run python -m newshomepages.docs site-detail-screenshot-chart;
+      shell: bash
+
     - id: bundle-detail
       name: Update bundle detail
       run: pipenv run python -m newshomepages.docs bundle-detail;
