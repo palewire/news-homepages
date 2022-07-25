@@ -22,7 +22,8 @@ orphan: true
 
 The archiving routine has saved 34 screenshots with the Internet Archive.
 
-  <div id="vis" style="width: 100%; height: 250px;" />
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
     const spec = {
   "config": {
@@ -102,7 +103,7 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
