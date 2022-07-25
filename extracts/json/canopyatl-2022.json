@@ -1,5 +1,5 @@
 {
-  "created": 1658710624,
+  "created": 1658750132,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/canopyatl-2022",
@@ -1474,31 +1474,83 @@
       "sha1": "b24619a4f820f886de1b395c6edac2b1dfdad9f3"
     },
     {
+      "name": "canopyatl-2022-07-25T07:01:26.920614-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658746890",
+      "size": "6104",
+      "md5": "47d003f695e2644862f2500de3e86797",
+      "crc32": "fbdfba35",
+      "sha1": "a828897700d1a8fa74b1f25b1c6dc8026074f998",
+      "format": "JSON"
+    },
+    {
+      "name": "canopyatl-2022-07-25T07:01:26.920614-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658746892",
+      "size": "9869",
+      "md5": "629c8e80da36679a35736334a3db2bbe",
+      "crc32": "ca1d3b95",
+      "sha1": "08bdf350cb05306e8d4336d5027bae34809b55e7",
+      "format": "JSON"
+    },
+    {
+      "name": "canopyatl-2022-07-25T07:01:26.920614-04:00.jpg",
+      "source": "original",
+      "mtime": "1658746889",
+      "size": "178834",
+      "md5": "a94713e97df4d62fd72e787f3f11c5c7",
+      "crc32": "32b8ff54",
+      "sha1": "c63b640c8965bff73b0c10d48bc01485dfbccafb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "canopyatl-2022-07-25T07:01:26.920614-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658746894",
+      "size": "1483",
+      "md5": "abe2a8c5d4c1136e80cbf9f806a6eedc",
+      "crc32": "80068905",
+      "sha1": "8ae0317341e16ef042e54b6f492a22a8bb838578",
+      "format": "JSON"
+    },
+    {
+      "name": "canopyatl-2022-07-25T07:01:26.920614-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "canopyatl-2022-07-25T07:01:26.920614-04:00.jpg",
+      "mtime": "1658750062",
+      "size": "9522",
+      "md5": "ffd7bc2c2a8c4be9fe63ce224877d51b",
+      "crc32": "593e5c9e",
+      "sha1": "3baffec4ed69107982cfc246ba1de5784a2424da"
+    },
+    {
       "name": "canopyatl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aa3934ef1f6c98070fad70575fd9949ba8252a02",
-      "mtime": "1658710484",
-      "size": "30824",
-      "md5": "c23a02d4024d8a780d70fad024e286ba",
-      "crc32": "38b446db",
-      "sha1": "05044a24ced32f3a20c43df276324f79be7a52d3",
+      "btih": "fcdc6603bd40cd762b367b32d24bfde82f68e498",
+      "mtime": "1658750073",
+      "size": "31866",
+      "md5": "5e8f700c9fab4e5744bcd9296c92446d",
+      "crc32": "8de100a8",
+      "sha1": "86fd7d4e4fb6318402101d0db7a60cdcb6bdbfab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "canopyatl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "81171e5dbdd5c4ab3e2350d955f86926",
+      "md5": "99041498aa326e1245f10fdab25b36b7",
       "summation": "md5"
     },
     {
       "name": "canopyatl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658710375",
-      "size": "180224",
-      "md5": "50ae127775f184901d12af916a6c9d3a",
-      "crc32": "01413445",
-      "sha1": "39612dff0167883ef71a127774acc80bcd91e0e2",
+      "mtime": "1658746920",
+      "size": "192512",
+      "md5": "97e4c53f7c9de762412e6e0c5db2399e",
+      "crc32": "1513c884",
+      "sha1": "26dcb70e46bc982495b61a43915a82a9f532e373",
       "format": "Metadata"
     },
     {
@@ -1512,9 +1564,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 144,
-  "item_last_updated": 1658710484,
-  "item_size": 8044449,
+  "files_count": 149,
+  "item_last_updated": 1658750073,
+  "item_size": 8263591,
   "metadata": {
     "identifier": "canopyatl-2022",
     "collection": [
@@ -1531,10 +1583,10 @@
     "publicdate": "2022-07-09 03:56:21",
     "addeddate": "2022-07-09 03:56:21"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 1266344607,
+  "server": "ia601405.us.archive.org",
+  "uniq": 1727214712,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

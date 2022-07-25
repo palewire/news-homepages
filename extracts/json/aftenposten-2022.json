@@ -1,5 +1,5 @@
 {
-  "created": 1658710115,
+  "created": 1658749717,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/11/items/aftenposten-2022",
@@ -508,31 +508,83 @@
       "sha1": "6752b5a065466b52b19ec32183ffb0734206edfb"
     },
     {
+      "name": "aftenposten-2022-07-25T12:56:23.918927+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658746587",
+      "size": "31851",
+      "md5": "45b87c0371742adca66d9ddd713b9eaa",
+      "crc32": "de63e542",
+      "sha1": "98c46371f50d5911bc4594c13bea95c3e2c1e4fd",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-07-25T12:56:23.918927+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658746588",
+      "size": "30859",
+      "md5": "5a9f4772ef78faf5b7b87c0232f06e91",
+      "crc32": "5846ba75",
+      "sha1": "200e8770f0b45b492b5a90ff0a888552b30f82bf",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-07-25T12:56:23.918927+02:00.jpg",
+      "source": "original",
+      "mtime": "1658746585",
+      "size": "249991",
+      "md5": "89cb9c14d71a856c7e54a4e82517fe28",
+      "crc32": "7c0bbc48",
+      "sha1": "cbc2a7221ca24c8b6ab93e13c66a10600f14fed2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aftenposten-2022-07-25T12:56:23.918927+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658746590",
+      "size": "1495",
+      "md5": "8ae36fbaf42ccd7626b3a3c57ce5cf27",
+      "crc32": "bbadfea1",
+      "sha1": "45d5d5ef8e1e5a666f7ebf1bfed7d33b3adf52cc",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-07-25T12:56:23.918927+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aftenposten-2022-07-25T12:56:23.918927+02:00.jpg",
+      "mtime": "1658749603",
+      "size": "9500",
+      "md5": "064da72c61815cc2c53346937c8c5dc7",
+      "crc32": "b7542c93",
+      "sha1": "668a8bf4398d4b538e245fb78bfefbf836c9783e"
+    },
+    {
       "name": "aftenposten-2022_archive.torrent",
       "source": "metadata",
-      "btih": "223a951216a9663e92cc64006feeafc95dd8da84",
-      "mtime": "1658710057",
-      "size": "11684",
-      "md5": "1ceff915269d5fc9da4ea354e22dd3c3",
-      "crc32": "88436fe3",
-      "sha1": "4a64405d68c2c18fe3c98ba4c4943b305f61764b",
+      "btih": "5b21e9d035e9e9c6c50e38da3f8240e864dd7784",
+      "mtime": "1658749679",
+      "size": "12758",
+      "md5": "38da52be72e7a5477bc53fe5d7c3aa34",
+      "crc32": "17e2ac30",
+      "sha1": "8abc55d099e48e5d9b8d8ae3e039672f7267a452",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aftenposten-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3ac8f9f200eec1943e76f24983954670",
+      "md5": "eb307f5235024f47a5ff7c1c21018efa",
       "summation": "md5"
     },
     {
       "name": "aftenposten-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658709913",
-      "size": "69632",
-      "md5": "cdc31ef5675486eca9ab61544b49831f",
-      "crc32": "bd64aeb3",
-      "sha1": "f31763913c7ad10c55e2ce7b63e87e0ee9bd5643",
+      "mtime": "1658746595",
+      "size": "77824",
+      "md5": "ec709d48b841a5786ab5deef95a1b625",
+      "crc32": "8581e6da",
+      "sha1": "a35b2363f888018c94477ab6817b0349eeb7d7cd",
       "format": "Metadata"
     },
     {
@@ -546,9 +598,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 52,
-  "item_last_updated": 1658710057,
-  "item_size": 3909566,
+  "files_count": 57,
+  "item_last_updated": 1658749679,
+  "item_size": 4242528,
   "metadata": {
     "identifier": "aftenposten-2022",
     "collection": [
@@ -565,10 +617,10 @@
     "publicdate": "2022-07-20 11:37:13",
     "addeddate": "2022-07-20 11:37:13"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 357509462,
+  "server": "ia601507.us.archive.org",
+  "uniq": 838650007,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

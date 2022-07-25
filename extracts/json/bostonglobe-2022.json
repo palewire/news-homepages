@@ -1,5 +1,5 @@
 {
-  "created": 1658710388,
+  "created": 1658750138,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/11/items/bostonglobe-2022",
@@ -3312,31 +3312,83 @@
       "sha1": "bfbdff775449606be203327367a97d7570ef7113"
     },
     {
+      "name": "bostonglobe-2022-07-25T07:00:31.202920-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658746836",
+      "size": "46468",
+      "md5": "f52fc077bb2649b26f064e031f072293",
+      "crc32": "c8ab9a23",
+      "sha1": "0ce7df249d086e741340c3bde6a228a651b3d448",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonglobe-2022-07-25T07:00:31.202920-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658746837",
+      "size": "57219",
+      "md5": "34b68791310d9ffcab0a60b0417d266e",
+      "crc32": "9a38a499",
+      "sha1": "cb7c9ff98d695065c007a9ddf97d1a19ec94f3b0",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonglobe-2022-07-25T07:00:31.202920-04:00.jpg",
+      "source": "original",
+      "mtime": "1658746835",
+      "size": "433629",
+      "md5": "6ab23bd1beb29e60d3ebcca4d36ecb8e",
+      "crc32": "4decf373",
+      "sha1": "851c828f0110e6d766e2bbecca7af0cb6ca01c30",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bostonglobe-2022-07-25T07:00:31.202920-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658746839",
+      "size": "1504",
+      "md5": "e0e547ce926499f93e7cfb7b34e4e4a6",
+      "crc32": "bc868eb7",
+      "sha1": "1b8a1495da218d8d2e073d2a932319127da9980d",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonglobe-2022-07-25T07:00:31.202920-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bostonglobe-2022-07-25T07:00:31.202920-04:00.jpg",
+      "mtime": "1658750060",
+      "size": "10719",
+      "md5": "3fffe70a44e2314668ab5fd9edb48420",
+      "crc32": "09efd4d7",
+      "sha1": "5a7375c2d0410751ebd47391afa86befefc78e90"
+    },
+    {
       "name": "bostonglobe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3a9567c71ad86db2672d3fa7d23b2cc2346904f7",
-      "mtime": "1658710374",
-      "size": "69357",
-      "md5": "2c7c184967eb3509b995bef5ac5e6233",
-      "crc32": "4fe5151b",
-      "sha1": "c15bb54f3c7318083ec2d9e9c839e99300eb0f30",
+      "btih": "3c3e43ff7e803f19b2ad93b834f6ba12be8ad08c",
+      "mtime": "1658750089",
+      "size": "70432",
+      "md5": "e94bd7d49921b4672a2d25c0f35ed5eb",
+      "crc32": "6402bbf9",
+      "sha1": "fb2ebd82d464a63904f2d04f50e66af0c447a9e6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bostonglobe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d194f07ab7a9f9ea0ebf233d0b8bd430",
+      "md5": "e9d82b30d00369ab12c4fac32f319196",
       "summation": "md5"
     },
     {
       "name": "bostonglobe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658710293",
-      "size": "380928",
-      "md5": "75e29e0ee0b7073ca2f55e9ee1bc2d5b",
-      "crc32": "0a03b736",
-      "sha1": "3c0677c06bcbcae9eb98fdbb64ab352520fe6879",
+      "mtime": "1658746860",
+      "size": "385024",
+      "md5": "7d94714e8bba0d917179e509a2730480",
+      "crc32": "7ab51a93",
+      "sha1": "44954d4ff98751a3c697813435690f16f8c6f72e",
       "format": "Metadata"
     },
     {
@@ -3350,9 +3402,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 319,
-  "item_last_updated": 1658710374,
-  "item_size": 42460178,
+  "files_count": 324,
+  "item_last_updated": 1658750089,
+  "item_size": 43014888,
   "metadata": {
     "identifier": "bostonglobe-2022",
     "collection": [
@@ -3369,10 +3421,10 @@
     "publicdate": "2022-06-24 22:53:22",
     "addeddate": "2022-06-24 22:53:22"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 673789079,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1675048630,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658695326,
+  "created": 1658751111,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/24/items/khabarkendra-2022",
@@ -68,31 +68,83 @@
       "sha1": "9779cee086b5efebecc2168192032f13ef374440"
     },
     {
+      "name": "khabarkendra-2022-07-25T09:11:56.663229+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1658719620",
+      "size": "74427",
+      "md5": "c5f0934088eb6dcce502d531cf9dc397",
+      "crc32": "87bfe8eb",
+      "sha1": "0f7407d9c8a6c4a71bf3aef7532d481bf5b44cf7",
+      "format": "JSON"
+    },
+    {
+      "name": "khabarkendra-2022-07-25T09:11:56.663229+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658719622",
+      "size": "75679",
+      "md5": "169895bf1047a372c7f22ed4bdafa82d",
+      "crc32": "c4694ab8",
+      "sha1": "33de03b8a07885dfdc0a2b6a8687040a22140d7f",
+      "format": "JSON"
+    },
+    {
+      "name": "khabarkendra-2022-07-25T09:11:56.663229+05:45.jpg",
+      "source": "original",
+      "mtime": "1658719618",
+      "size": "248796",
+      "md5": "23e3d70bf39957188c3dc60d2e79528d",
+      "crc32": "fcef9021",
+      "sha1": "d1a37e210646970d1861c80a481ce3867268c6cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "khabarkendra-2022-07-25T09:11:56.663229+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1658719624",
+      "size": "1486",
+      "md5": "4d7bdee81d3be47fa408d85277529f5b",
+      "crc32": "0e4784f8",
+      "sha1": "8a1f18d38355fe6fb71c9aeab60a36007ace29dc",
+      "format": "JSON"
+    },
+    {
+      "name": "khabarkendra-2022-07-25T09:11:56.663229+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "khabarkendra-2022-07-25T09:11:56.663229+05:45.jpg",
+      "mtime": "1658719791",
+      "size": "10805",
+      "md5": "8d8a9093b695eb2e11ec2df209220549",
+      "crc32": "928e2c9f",
+      "sha1": "adf3342f9c521ca8c03d8546835d47d5b045fb96"
+    },
+    {
       "name": "khabarkendra-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c524349827a1fe4c909b5d2cc949f2b4a3d2da3c",
-      "mtime": "1658695309",
-      "size": "2722",
-      "md5": "2f8b7376dc009c837143cb885f38842f",
-      "crc32": "9de6054c",
-      "sha1": "7385c1708d7175e2feb6ac32f2b5a7a418512a63",
+      "btih": "a81bcaa4df6da7d92a16194af690596eb56f06aa",
+      "mtime": "1658719901",
+      "size": "3802",
+      "md5": "51e2f1a4acfc4f4a7c142ff71c5029a0",
+      "crc32": "8760c195",
+      "sha1": "c51285c16bba32bcf543f0f7108668fc17294e42",
       "format": "Archive BitTorrent"
     },
     {
       "name": "khabarkendra-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9e02a7d6301523412f7fdf6e0c720568",
+      "md5": "cc96e9d8ab80e3ff0ca22fbd3ac02443",
       "summation": "md5"
     },
     {
       "name": "khabarkendra-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658695134",
-      "size": "28672",
-      "md5": "5fc2dca0204ed9566393efadedce72ec",
-      "crc32": "2838296b",
-      "sha1": "5600d102b355d750a3250730b5359c3571c86525",
+      "mtime": "1658719628",
+      "size": "32768",
+      "md5": "2d1fe0154fa7c4e929dc9b0dd49edcb7",
+      "crc32": "c68c8674",
+      "sha1": "9ef27d614a29dde1fa529ead9538077e19b285b9",
       "format": "Metadata"
     },
     {
@@ -106,9 +158,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 10,
-  "item_last_updated": 1658695309,
-  "item_size": 468491,
+  "files_count": 15,
+  "item_last_updated": 1658719901,
+  "item_size": 884860,
+  "khabarkendra-2022": [
+    {
+      "url": "https://sancharkendra.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sancharkendra_com-_-2022_07_25_02_11_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sancharkendra_com-_-2022_07_25_02_11_43.report.json",
+      "summary": {
+        "performance": 0.58,
+        "accessibility": 0.67,
+        "best-practices": 0.83,
+        "seo": 0.84,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://sancharkendra.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sancharkendra_com-_-2022_07_25_02_12_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sancharkendra_com-_-2022_07_25_02_12_01.report.json",
+      "summary": {
+        "performance": 0.58,
+        "accessibility": 0.67,
+        "best-practices": 0.83,
+        "seo": 0.84,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://sancharkendra.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sancharkendra_com-_-2022_07_25_02_12_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sancharkendra_com-_-2022_07_25_02_12_19.report.json",
+      "summary": {
+        "performance": 0.62,
+        "accessibility": 0.67,
+        "best-practices": 0.83,
+        "seo": 0.84,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "khabarkendra-2022",
     "collection": [
@@ -125,10 +218,10 @@
     "publicdate": "2022-07-24 20:38:45",
     "addeddate": "2022-07-24 20:38:45"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 65937688,
+  "server": "ia801501.us.archive.org",
+  "uniq": 138964450,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

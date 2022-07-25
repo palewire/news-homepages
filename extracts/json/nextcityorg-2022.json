@@ -1,5 +1,5 @@
 {
-  "created": 1658711110,
+  "created": 1658751327,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/14/items/nextcityorg-2022",
@@ -1590,31 +1590,83 @@
       "sha1": "28c293f800f79b562ace9bfdc3f8b8f4a8c43231"
     },
     {
+      "name": "nextcityorg-2022-07-24T23:36:36.012362-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658720200",
+      "size": "19142",
+      "md5": "c396ec1a45e421c95d989c82e457c426",
+      "crc32": "76bfc0d7",
+      "sha1": "863dcf3da18b7b263c26faf14cc86b1810d61ab6",
+      "format": "JSON"
+    },
+    {
+      "name": "nextcityorg-2022-07-24T23:36:36.012362-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658720201",
+      "size": "19486",
+      "md5": "31408849ef63cfd14f32c041720404b1",
+      "crc32": "9d8afa66",
+      "sha1": "eb4d92a25cbbfb011bc0cc62b34f5256538cf661",
+      "format": "JSON"
+    },
+    {
+      "name": "nextcityorg-2022-07-24T23:36:36.012362-04:00.jpg",
+      "source": "original",
+      "mtime": "1658720198",
+      "size": "359586",
+      "md5": "ed0c5a1387250b7ee28ce6839b718208",
+      "crc32": "5b743682",
+      "sha1": "39ad2e3bab5e15a6d8058cb193e2815778002dc0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nextcityorg-2022-07-24T23:36:36.012362-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658720202",
+      "size": "1434",
+      "md5": "b5fdbcb6d50699e265b5c89f59d2b574",
+      "crc32": "3d74c300",
+      "sha1": "29cedc4e2c6b7471a752de39b96500791d55c999",
+      "format": "JSON"
+    },
+    {
+      "name": "nextcityorg-2022-07-24T23:36:36.012362-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nextcityorg-2022-07-24T23:36:36.012362-04:00.jpg",
+      "mtime": "1658720344",
+      "size": "10888",
+      "md5": "0375b0c96b5668b938f81a822a34d58f",
+      "crc32": "ac70625e",
+      "sha1": "28c293f800f79b562ace9bfdc3f8b8f4a8c43231"
+    },
+    {
       "name": "nextcityorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f3a76395192b5a093f12355a6a116d0537935aaf",
-      "mtime": "1658667986",
-      "size": "33795",
-      "md5": "60b753ad03a811f2bcc2a3caf0b1966b",
-      "crc32": "0d5c47ea",
-      "sha1": "80174c90d933a8e27a5c272177e749a6c59dc962",
+      "btih": "41e829cdcd7feec82e810e85e346f4305e83a657",
+      "mtime": "1658720434",
+      "size": "34870",
+      "md5": "fe805a94f97f376fa8160ed3ed44af3a",
+      "crc32": "1f18568f",
+      "sha1": "365c4bc22ef1900ccfa6738210c2d2067e7b29e7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nextcityorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e7c84af85240b74109060f6e5c379d96",
+      "md5": "b4e5bbf644e357403744bd9aff3e3cbd",
       "summation": "md5"
     },
     {
       "name": "nextcityorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658667936",
-      "size": "196608",
-      "md5": "9abd52d98fa2850b0940f190d1eb2172",
-      "crc32": "cb2181f2",
-      "sha1": "dbf518a897aa402227404f4735f3ecb42fc6376a",
+      "mtime": "1658720206",
+      "size": "200704",
+      "md5": "a0986a366079208b8db8ac8058d92c68",
+      "crc32": "80c80614",
+      "sha1": "4659c53ca7de4e919518aabc151d35f167e99e58",
       "format": "Metadata"
     },
     {
@@ -1628,9 +1680,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 155,
-  "item_last_updated": 1658667986,
-  "item_size": 15058197,
+  "files_count": 160,
+  "item_last_updated": 1658720434,
+  "item_size": 15473904,
   "metadata": {
     "identifier": "nextcityorg-2022",
     "collection": [
@@ -1651,12 +1703,12 @@
     {
       "url": "https://nextcity.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nextcity_org-_-2022_07_24_12_50_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nextcity_org-_-2022_07_24_12_50_46.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nextcity_org-_-2022_07_25_02_27_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nextcity_org-_-2022_07_25_02_27_01.report.json",
       "summary": {
-        "performance": 0.27,
+        "performance": 0.38,
         "accessibility": 0.96,
-        "best-practices": 1,
+        "best-practices": 0.92,
         "seo": 0.91,
         "pwa": 0.3
       }
@@ -1664,10 +1716,10 @@
     {
       "url": "https://nextcity.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nextcity_org-_-2022_07_24_12_51_18.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nextcity_org-_-2022_07_24_12_51_18.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nextcity_org-_-2022_07_25_02_27_16.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nextcity_org-_-2022_07_25_02_27_16.report.json",
       "summary": {
-        "performance": 0.49,
+        "performance": 0.5,
         "accessibility": 0.96,
         "best-practices": 1,
         "seo": 0.91,
@@ -1677,10 +1729,10 @@
     {
       "url": "https://nextcity.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nextcity_org-_-2022_07_24_12_51_03.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nextcity_org-_-2022_07_24_12_51_03.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nextcity_org-_-2022_07_25_02_27_30.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nextcity_org-_-2022_07_25_02_27_30.report.json",
       "summary": {
-        "performance": 0.46,
+        "performance": 0.48,
         "accessibility": 0.96,
         "best-practices": 1,
         "seo": 0.91,
@@ -1689,7 +1741,7 @@
     }
   ],
   "server": "ia801504.us.archive.org",
-  "uniq": 1971854868,
+  "uniq": 821450316,
   "workable_servers": [
     "ia801504.us.archive.org",
     "ia601504.us.archive.org"

@@ -5,7 +5,7 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# In These Times
+# In These Times 
 
 ![In These Times ](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/inthesetimesmag.jpg)
 
@@ -38,7 +38,7 @@ The archiving routine has saved 39 screenshots with the Internet Archive.
       "anchor": "start",
       "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
       "color": "#000000",
-      "fontSize": 20,
+      "fontSize": 18,
       "lineHeight": 26,
       "fontWeight": "bold",
       "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",

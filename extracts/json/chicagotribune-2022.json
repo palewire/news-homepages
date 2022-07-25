@@ -1,6 +1,5 @@
 {
-  "conflict": 1658710684,
-  "created": 1658710684,
+  "created": 1658750217,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/30/items/chicagotribune-2022",
@@ -4087,31 +4086,83 @@
       "sha1": "c929212612eb6f8a593b6cb5014a28da5d8c4f1c"
     },
     {
+      "name": "chicagotribune-2022-07-25T06:02:49.149912-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658746973",
+      "size": "58544",
+      "md5": "8a71fb2d731feca08ca40a96c1b1227d",
+      "crc32": "432eebd2",
+      "sha1": "b3fbec91ffa670114410d027985e077b66ffdf42",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagotribune-2022-07-25T06:02:49.149912-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658746980",
+      "size": "61546",
+      "md5": "f3feede8248170b78aae14c7ba4caefa",
+      "crc32": "8601077f",
+      "sha1": "e03f1f782c00497b7849eefe3108940789977f7b",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagotribune-2022-07-25T06:02:49.149912-05:00.jpg",
+      "source": "original",
+      "mtime": "1658746971",
+      "size": "287590",
+      "md5": "44d22e901f4454256bc01ddee9f5a625",
+      "crc32": "51a5ee4d",
+      "sha1": "271c66c5531712a0028932a1f69b46a851c76932",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chicagotribune-2022-07-25T06:02:49.149912-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658746981",
+      "size": "1531",
+      "md5": "1d0b1d4a8ad1414504f7497864a1d7e5",
+      "crc32": "4f85a240",
+      "sha1": "675e265ad6b0653ef633a76902de422dace3a18e",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagotribune-2022-07-25T06:02:49.149912-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chicagotribune-2022-07-25T06:02:49.149912-05:00.jpg",
+      "mtime": "1658750191",
+      "size": "9476",
+      "md5": "f4c4addd77090c34f11f1928fad9e811",
+      "crc32": "34e2da6c",
+      "sha1": "c7b1abd8c541f4b7c583b0c90a94b772b9a1fd5b"
+    },
+    {
       "name": "chicagotribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "232d833ccb2afc2b2872445a27642b724522ec52",
-      "mtime": "1658710681",
-      "size": "85899",
-      "md5": "fd636eca37e190aa89b32ca49cc257e1",
-      "crc32": "a3728c67",
-      "sha1": "11aeb8ceaf8a6b2723f8f4775e8b11fd5e00c573",
+      "btih": "4872dd38829f1894ed4d7e243a2a3e2bd5a48826",
+      "mtime": "1658750201",
+      "size": "86988",
+      "md5": "148120d7af30fc3f38468ffbd07aad50",
+      "crc32": "6c8e0e22",
+      "sha1": "48debd0b4426eb4fb8099bfa244bf0685fe96905",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chicagotribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6a8b0204f042ddaeb81dbed1920166bb",
+      "md5": "ab23f7b51efb71bab6c8a96866da20e5",
       "summation": "md5"
     },
     {
       "name": "chicagotribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658710474",
-      "size": "471040",
-      "md5": "e62b9eeb7c34b2e48f16f978017f6a19",
-      "crc32": "de2ea562",
-      "sha1": "4b897f94655be634e3306cb322549c7aa82c4d6b",
+      "mtime": "1658746985",
+      "size": "479232",
+      "md5": "be7d7147e35a1f6353c871be96439e56",
+      "crc32": "2ba73aa4",
+      "sha1": "c7db0c995f762586b719d3b680db30c5269ef8b4",
       "format": "Metadata"
     },
     {
@@ -4125,9 +4176,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 393,
-  "item_last_updated": 1658710681,
-  "item_size": 38149453,
+  "files_count": 398,
+  "item_last_updated": 1658750201,
+  "item_size": 38577421,
   "metadata": {
     "identifier": "chicagotribune-2022",
     "collection": [
@@ -4144,29 +4195,10 @@
     "publicdate": "2022-06-24 22:54:07",
     "addeddate": "2022-06-24 22:54:07"
   },
-  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3342805449,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3342807506,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1080479603,
+  "uniq": 745962096,
   "workable_servers": [
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

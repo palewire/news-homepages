@@ -1,5 +1,5 @@
 {
-  "created": 1658677841,
+  "created": 1658751724,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/0/items/townhallcom-2022",
@@ -950,31 +950,83 @@
       "sha1": "fe7f838f6448e18678031bf6c9619b288e855df4"
     },
     {
+      "name": "townhallcom-2022-07-25T00:38:32.665938-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658723915",
+      "size": "37816",
+      "md5": "c414046fe7c3ae29c418bb6d646b3bde",
+      "crc32": "790fbe00",
+      "sha1": "3d07ccceee34d7135e1818f6ab48d4adc24c2d0d",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-07-25T00:38:32.665938-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658723917",
+      "size": "36688",
+      "md5": "bb8779563d27e0deefed99b8260b11dc",
+      "crc32": "8b8f0d5a",
+      "sha1": "8dc44ae61c8915c8dd83d985888067a9decbac15",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-07-25T00:38:32.665938-04:00.jpg",
+      "source": "original",
+      "mtime": "1658723914",
+      "size": "221157",
+      "md5": "119b334cfa76b7e26be573bd0954445e",
+      "crc32": "32f0ff72",
+      "sha1": "8d6abddbcde8b67813252c0eca2fe4c3e69b5c4d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "townhallcom-2022-07-25T00:38:32.665938-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658723918",
+      "size": "1441",
+      "md5": "c85e72b3646d10605746b7a354e82ca2",
+      "crc32": "57964a0d",
+      "sha1": "50b4f023ea677ea71b0d685266996d86d386e757",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-07-25T00:38:32.665938-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "townhallcom-2022-07-25T00:38:32.665938-04:00.jpg",
+      "mtime": "1658724082",
+      "size": "9146",
+      "md5": "625b98328aced15712440eb5512e2455",
+      "crc32": "d6b7c408",
+      "sha1": "044db6316e6b6f186e6b19951088c8a3cefa659d"
+    },
+    {
       "name": "townhallcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "259eadd7c0e5fd36bec5c2b6ea1c0b0dfbf60675",
-      "mtime": "1658677786",
-      "size": "20625",
-      "md5": "e44756f41def43c150ba73332a0833a5",
-      "crc32": "218b873c",
-      "sha1": "e4b73f8c834628db10a6414102d2800f2bccfdcb",
+      "btih": "b77b126830d4eab453ee2ffa54ecdb72bd94cfee",
+      "mtime": "1658724087",
+      "size": "21699",
+      "md5": "18e01f7a4a0ac46bba90e09efc2f8d94",
+      "crc32": "2de1cc65",
+      "sha1": "51b1a8609a98c1d4d34ffb3d02e947c122544109",
       "format": "Archive BitTorrent"
     },
     {
       "name": "townhallcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bef837afd2bcf6d632ef81d24c8b6a46",
+      "md5": "9a6ed98284299bc3e579ce7c07e17f04",
       "summation": "md5"
     },
     {
       "name": "townhallcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658677546",
-      "size": "131072",
-      "md5": "cdd4ac5a3bfe2511fbec68688c29cc96",
-      "crc32": "32d2a820",
-      "sha1": "348368f387ced54bbc32ff2c467ba850fe024af2",
+      "mtime": "1658723921",
+      "size": "135168",
+      "md5": "fc07b23a70d64880915541042fb88812",
+      "crc32": "acffd277",
+      "sha1": "53463e946b086576ab0ce17a72a55fb710b7443e",
       "format": "Metadata"
     },
     {
@@ -988,9 +1040,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 94,
-  "item_last_updated": 1658677786,
-  "item_size": 7276540,
+  "files_count": 99,
+  "item_last_updated": 1658724087,
+  "item_size": 7587958,
   "metadata": {
     "identifier": "townhallcom-2022",
     "collection": [
@@ -1007,10 +1059,51 @@
     "publicdate": "2022-07-17 15:04:11",
     "addeddate": "2022-07-17 15:04:11"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1016445008,
+  "server": "ia601508.us.archive.org",
+  "townhallcom-2022": [
+    {
+      "url": "https://townhall.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/townhall_com-_-2022_07_25_04_20_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/townhall_com-_-2022_07_25_04_20_11.report.json",
+      "summary": {
+        "performance": 0.27,
+        "accessibility": 0.85,
+        "best-practices": 0.75,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://townhall.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/townhall_com-_-2022_07_25_04_20_29.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/townhall_com-_-2022_07_25_04_20_29.report.json",
+      "summary": {
+        "performance": 0.26,
+        "accessibility": 0.85,
+        "best-practices": 0.75,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://townhall.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/townhall_com-_-2022_07_25_04_19_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/townhall_com-_-2022_07_25_04_19_51.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.85,
+        "best-practices": 0.75,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "uniq": 1121868106,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

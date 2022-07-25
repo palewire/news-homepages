@@ -1,5 +1,5 @@
 {
-  "created": 1658710318,
+  "created": 1658749840,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/9/items/bcn_foundation-2022",
@@ -1810,31 +1810,83 @@
       "sha1": "6e8f284ce6a22589f07531cfe9a0a75ee078be66"
     },
     {
+      "name": "bcn_foundation-2022-07-25T03:58:57.870851-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658746740",
+      "size": "63691",
+      "md5": "c250af3163049b00fbaad19f0e7dd908",
+      "crc32": "99f41a70",
+      "sha1": "cf3de405ef251f8371d53bcbccd2945391161d28",
+      "format": "JSON"
+    },
+    {
+      "name": "bcn_foundation-2022-07-25T03:58:57.870851-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658746742",
+      "size": "71027",
+      "md5": "6971054e703e756af4b3d5f8fe529c33",
+      "crc32": "3905a27d",
+      "sha1": "a7d6309ffbee2350b1d6b57e92dfce696aba87c4",
+      "format": "JSON"
+    },
+    {
+      "name": "bcn_foundation-2022-07-25T03:58:57.870851-07:00.jpg",
+      "source": "original",
+      "mtime": "1658746739",
+      "size": "217662",
+      "md5": "36731b99333328ad17fa5dd2cee66b8f",
+      "crc32": "8d499dd5",
+      "sha1": "9b0bdd2cb69434d85adceb37a7ddbc0395a368b2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bcn_foundation-2022-07-25T03:58:57.870851-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658746744",
+      "size": "1510",
+      "md5": "e3bef6ed597d4f6be142cab332b0b898",
+      "crc32": "d736f0b8",
+      "sha1": "5f7f9e4ccebcc4916d609fc98d726384ba275edd",
+      "format": "JSON"
+    },
+    {
+      "name": "bcn_foundation-2022-07-25T03:58:57.870851-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bcn_foundation-2022-07-25T03:58:57.870851-07:00.jpg",
+      "mtime": "1658749804",
+      "size": "9372",
+      "md5": "bd222a193e99b44cbd20190f9388d08e",
+      "crc32": "f2a18b60",
+      "sha1": "78247affb25e4a0a12df098f607e4677754c0af6"
+    },
+    {
       "name": "bcn_foundation-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e4e1da2745f308af6e8774cb25c58684bcee6c2c",
-      "mtime": "1658710283",
-      "size": "38734",
-      "md5": "340dc19f79f3d63b5de00276d4129eb9",
-      "crc32": "ae11ada7",
-      "sha1": "bc7e4223f9e5a0f6cf4f1aab13b23cbba42f4c0d",
+      "btih": "cb1a8a5361249af1355ed92d1384b5f9dc9eddd0",
+      "mtime": "1658749813",
+      "size": "39823",
+      "md5": "55140f36b3852120ff21d86225e2ee9c",
+      "crc32": "d1f80757",
+      "sha1": "75485e00af78aff1c25bbc04e9cfffcb6a6606aa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bcn_foundation-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe2933ab5304817149bb0ba22f0acb78",
+      "md5": "c390c6c78c27293e9b1c0fe8072a7998",
       "summation": "md5"
     },
     {
       "name": "bcn_foundation-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658710176",
-      "size": "221184",
-      "md5": "1acf89b9e7f043b9f4976a34cdb04e1e",
-      "crc32": "48426304",
-      "sha1": "49be52aa93b4a7c20610287de18f6530f1bd3468",
+      "mtime": "1658746746",
+      "size": "229376",
+      "md5": "8290e7448d00cb9fe08908ad2e2c9ec9",
+      "crc32": "caad3601",
+      "sha1": "76e8ae2efb205c57c82d7967423c368daffbbc5f",
       "format": "Metadata"
     },
     {
@@ -1848,9 +1900,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 176,
-  "item_last_updated": 1658710283,
-  "item_size": 15504678,
+  "files_count": 181,
+  "item_last_updated": 1658749813,
+  "item_size": 15877221,
   "metadata": {
     "identifier": "bcn_foundation-2022",
     "collection": [
@@ -1867,10 +1919,10 @@
     "publicdate": "2022-07-09 03:56:17",
     "addeddate": "2022-07-09 03:56:17"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 899287818,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1368287458,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

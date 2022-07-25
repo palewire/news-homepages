@@ -1,5 +1,5 @@
 {
-  "created": 1658698056,
+  "created": 1658742647,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/4/items/usatoday-2022",
@@ -13314,31 +13314,83 @@
       "sha1": "57a18d3e5a478bb139c73a1076eab5fc7aa7421e"
     },
     {
+      "name": "usatoday-2022-07-25T00:39:48.676354-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658723998",
+      "size": "31336",
+      "md5": "560345759e3ad24ea60bafe4ebbef1f5",
+      "crc32": "7fa9bf35",
+      "sha1": "9bdd865017f1e916a0091e55a60a56fb7e4b486f",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-07-25T00:39:48.676354-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658723999",
+      "size": "36147",
+      "md5": "c0c57a3f028bc237d7218e12e9ee0255",
+      "crc32": "25c6a42e",
+      "sha1": "7c3fb1780dcfb4efb990acf27b714451881173da",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-07-25T00:39:48.676354-04:00.jpg",
+      "source": "original",
+      "mtime": "1658723996",
+      "size": "307562",
+      "md5": "91a303cae1ba70d576f611caffbb43c3",
+      "crc32": "a9112038",
+      "sha1": "2d8b40b4581e2eb3990715334d36774119b5f37b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "usatoday-2022-07-25T00:39:48.676354-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658724001",
+      "size": "1476",
+      "md5": "42592a2a5983bb3babc2a297e5d57d02",
+      "crc32": "03378d72",
+      "sha1": "ec2798f30e81f87026fbc116d0e930a69be3dace",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-07-25T00:39:48.676354-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usatoday-2022-07-25T00:39:48.676354-04:00.jpg",
+      "mtime": "1658724147",
+      "size": "9572",
+      "md5": "d50017070e31a7a5929aa23f76be62bc",
+      "crc32": "d66a83be",
+      "sha1": "71f455d0a29b21bf1a2c364e4ffbed8a72905035"
+    },
+    {
       "name": "usatoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7b6f18b816f9c02828240238d5b4e6d45e730dbc",
-      "mtime": "1658697986",
-      "size": "268620",
-      "md5": "662ba301f1b32393c4e5d20e7b16d393",
-      "crc32": "d4d5af57",
-      "sha1": "50e273e20d3ff6db13d82c6463f50c5889683828",
+      "btih": "0b961601aa1a2b4c694ff99193071e511ba57028",
+      "mtime": "1658724164",
+      "size": "269679",
+      "md5": "69bf223c89518a6ad12a4241d8204ff8",
+      "crc32": "b1c493f5",
+      "sha1": "e46f18e4ace769b97aca2503a009f192a39b0936",
       "format": "Archive BitTorrent"
     },
     {
       "name": "usatoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5ea8d51458f0ebaf8fca3b9eee6a20c9",
+      "md5": "ccb2c90cd202800dcf74b2de5a7d202d",
       "summation": "md5"
     },
     {
       "name": "usatoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658697638",
-      "size": "1445888",
-      "md5": "8a4ed71cc7626119433e8758a7b57d7d",
-      "crc32": "43d5f91c",
-      "sha1": "600ea59696dc91ef190e2238acf1b7b83236a74b",
+      "mtime": "1658724007",
+      "size": "1449984",
+      "md5": "182e090a623f07246eeaee2923e4b151",
+      "crc32": "d5b160c3",
+      "sha1": "421dea58b9396549ebe15611c010e269224da73a",
       "format": "Metadata"
     },
     {
@@ -13352,9 +13404,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1270,
-  "item_last_updated": 1658697986,
-  "item_size": 131864862,
+  "files_count": 1275,
+  "item_last_updated": 1658724164,
+  "item_size": 132256110,
   "metadata": {
     "identifier": "usatoday-2022",
     "collection": [
@@ -13371,10 +13423,10 @@
     "publicdate": "2022-03-23 12:05:23",
     "addeddate": "2022-03-23 12:05:23"
   },
-  "server": "ia802501.us.archive.org",
-  "uniq": 1926402853,
+  "server": "ia902501.us.archive.org",
+  "uniq": 1853870604,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

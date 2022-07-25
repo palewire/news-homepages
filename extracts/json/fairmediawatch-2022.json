@@ -1,49 +1,8 @@
 {
-  "created": 1658710754,
+  "created": 1658750555,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/3/items/fairmediawatch-2022",
-  "fairmediawatch-2022": [
-    {
-      "url": "https://fair.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/fair_org-_-2022_07_24_15_21_59.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/fair_org-_-2022_07_24_15_21_59.report.json",
-      "summary": {
-        "performance": 0.46,
-        "accessibility": 0.87,
-        "best-practices": 0.92,
-        "seo": 0.83,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://fair.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/fair_org-_-2022_07_24_15_22_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/fair_org-_-2022_07_24_15_22_31.report.json",
-      "summary": {
-        "performance": 0.49,
-        "accessibility": 0.87,
-        "best-practices": 0.92,
-        "seo": 0.83,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://fair.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/fair_org-_-2022_07_24_15_22_16.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/fair_org-_-2022_07_24_15_22_16.report.json",
-      "summary": {
-        "performance": 0.47,
-        "accessibility": 0.87,
-        "best-practices": 0.92,
-        "seo": 0.83,
-        "pwa": 0.7
-      }
-    }
-  ],
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -895,31 +854,124 @@
       "sha1": "5c1062acab443cf548eba9ea784821f22a825fcc"
     },
     {
+      "name": "fairmediawatch-2022-07-24T21:04:07.481892-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658711050",
+      "size": "28075",
+      "md5": "f68f4e26b2ec23de452e4c9f3826f897",
+      "crc32": "6dbc0c14",
+      "sha1": "6b259a4c4989184ee5ee527b1cc74d8e7d03700f",
+      "format": "JSON"
+    },
+    {
+      "name": "fairmediawatch-2022-07-24T21:04:07.481892-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658711052",
+      "size": "18608",
+      "md5": "de50822131aae2faae2f084c5ddcef31",
+      "crc32": "88dc969f",
+      "sha1": "ab7a62cea8bd7f61738fb5234dd29209ea1245f3",
+      "format": "JSON"
+    },
+    {
+      "name": "fairmediawatch-2022-07-24T21:04:07.481892-04:00.jpg",
+      "source": "original",
+      "mtime": "1658711049",
+      "size": "266586",
+      "md5": "c84428e29055c38b2db4b886b8df8e9e",
+      "crc32": "2b3a1ff9",
+      "sha1": "f1aea7b3d671340d4d48b6996cca18bfa105d814",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fairmediawatch-2022-07-24T21:04:07.481892-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658711053",
+      "size": "1404",
+      "md5": "58e558135dcaa9965957a07758fc9c1b",
+      "crc32": "70571df8",
+      "sha1": "965060efc791bfb54ad216ab68f9336d259e22de",
+      "format": "JSON"
+    },
+    {
+      "name": "fairmediawatch-2022-07-24T21:04:07.481892-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fairmediawatch-2022-07-24T21:04:07.481892-04:00.jpg",
+      "mtime": "1658711144",
+      "size": "9741",
+      "md5": "9c73cdc7a735b2ee23baad66f5a3b60d",
+      "crc32": "06530488",
+      "sha1": "92a9da82e92803b7d15fa86f9ea29289abbb28c6"
+    },
+    {
+      "name": "fairmediawatch-2022-07-25T08:01:48.693729-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658750512",
+      "size": "27895",
+      "md5": "959634432711076c2312b16cb4230750",
+      "crc32": "5a474153",
+      "sha1": "bfce31ed6c03fb90ad3b12c2c5529fbbc07d7251",
+      "format": "JSON"
+    },
+    {
+      "name": "fairmediawatch-2022-07-25T08:01:48.693729-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658750513",
+      "size": "18770",
+      "md5": "66a47d98c10f512b82794af29acfa8c8",
+      "crc32": "98525041",
+      "sha1": "8469e3c1060fac5810dc8bab0b5a4e3971f20d06",
+      "format": "JSON"
+    },
+    {
+      "name": "fairmediawatch-2022-07-25T08:01:48.693729-04:00.jpg",
+      "source": "original",
+      "mtime": "1658750510",
+      "size": "266954",
+      "md5": "35373fb52e6c7d135992b34c37878210",
+      "crc32": "2762b2be",
+      "sha1": "358556d2b8fddb25f225e23ba5bcb55e4d4f3ec2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fairmediawatch-2022-07-25T08:01:48.693729-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658750514",
+      "size": "1404",
+      "md5": "7a2e12d72b7246b255bab360b7ceadad",
+      "crc32": "d90cc713",
+      "sha1": "e1267103e55e539664a5a8f3fc2b388963ad6587",
+      "format": "JSON"
+    },
+    {
       "name": "fairmediawatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "68b798dd220501fb879c7399f8668cf70df20d89",
-      "mtime": "1658677482",
-      "size": "18990",
-      "md5": "2bd6f7e5a42a57280cfd0f6dd998e588",
-      "crc32": "dc29a974",
-      "sha1": "b2da3d559b1b2bc41ce142f6f88be78a9c824909",
+      "btih": "77438f37a44cd3d14321d8313e4d28767f6c7b82",
+      "mtime": "1658750553",
+      "size": "20938",
+      "md5": "b7bb28375b66d06b76cf8213260de5a6",
+      "crc32": "8e040c49",
+      "sha1": "cf86f4ba2b111735843160dbef82dc8b7cc5b888",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fairmediawatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d94a02ebf4b3693f568bccfcfa18d315",
+      "md5": "9a82cf23f9184b4335c615fc39c5bd6a",
       "summation": "md5"
     },
     {
       "name": "fairmediawatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658677364",
-      "size": "122880",
-      "md5": "9e4b4581ce33645189ea93b71d33808c",
-      "crc32": "31ecd1ce",
-      "sha1": "c310b0a92b98358708562bd210d767fc00a2545b",
+      "mtime": "1658750519",
+      "size": "131072",
+      "md5": "bb350fdf393fa65a8980802c209c1cb7",
+      "crc32": "192bfde3",
+      "sha1": "47caf3d6a4de9ebe3ace312fa4846d1a0f30e24e",
       "format": "Metadata"
     },
     {
@@ -933,9 +985,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 85,
-  "item_last_updated": 1658677482,
-  "item_size": 6419958,
+  "files_count": 94,
+  "item_last_updated": 1658750553,
+  "item_size": 7069535,
   "metadata": {
     "identifier": "fairmediawatch-2022",
     "collection": [
@@ -952,10 +1004,21 @@
     "publicdate": "2022-07-18 17:45:07",
     "addeddate": "2022-07-18 17:45:07"
   },
+  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "uniq": 1929592577,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3343294120,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2103755224,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia601501.us.archive.org"
   ]
 }
