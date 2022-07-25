@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/Los_Angeles                                                                                                                              |
 | Bundles        | <a href="../bundles/bay-area.html">California Bay Area</a>  |
 
-The archiving routine has captured 216 screenshots stored at the Internet Archive.
+The archiving routine has captured 217 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

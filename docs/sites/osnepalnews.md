@@ -18,7 +18,8 @@ orphan: true
 | Timezone       | Asia/Kathmandu                                                                                                                              |
 | Bundles        | <a href="../bundles/nepal.html">Nepal</a>  |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[osnepalnews-2022](https://archive.org/details/osnepalnews-2022)|

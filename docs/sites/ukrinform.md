@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Europe/Kiev                                                                                                                              |
 | Bundles        | <a href="../bundles/eastern-europe.html">Eastern Europe</a>  |
 
-The archiving routine has captured 249 screenshots stored at the Internet Archive.
+The archiving routine has captured 250 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

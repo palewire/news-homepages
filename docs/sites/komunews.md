@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/Chicago                                                                                                                              |
 | Bundles        | <a href="../bundles/missouri.html">Missouri</a>  |
 
-The archiving routine has captured 74 screenshots stored at the Internet Archive.
+The archiving routine has captured 75 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

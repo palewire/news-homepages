@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        | <a href="../bundles/us-national.html">U.S. national news</a>,  <a href="../bundles/us-right-wing.html">U.S. right wing</a>  |
 
-The archiving routine has captured 474 screenshots stored at the Internet Archive.
+The archiving routine has captured 477 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

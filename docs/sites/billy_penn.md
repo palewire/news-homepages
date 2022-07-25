@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        | <a href="../bundles/philadelphia.html">Philadelphia</a>  |
 
-The archiving routine has captured 52 screenshots stored at the Internet Archive.
+The archiving routine has captured 53 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

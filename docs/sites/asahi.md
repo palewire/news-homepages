@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Asia/Tokyo                                                                                                                              |
 | Bundles        | <a href="../bundles/japan.html">Japan</a>  |
 
-The archiving routine has captured 49 screenshots stored at the Internet Archive.
+The archiving routine has captured 50 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

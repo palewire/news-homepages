@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Europe/Paris                                                                                                                              |
 | Bundles        | <a href="../bundles/france.html">France</a>  |
 
-The archiving routine has captured 74 screenshots stored at the Internet Archive.
+The archiving routine has captured 75 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/Denver                                                                                                                              |
 | Bundles        | <a href="../bundles/new-mexico.html">New Mexico</a>  |
 
-The archiving routine has captured 96 screenshots stored at the Internet Archive.
+The archiving routine has captured 97 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

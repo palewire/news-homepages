@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/Los_Angeles                                                                                                                              |
 | Bundles        | <a href="../bundles/arizona.html">Arizona</a>  |
 
-The archiving routine has captured 97 screenshots stored at the Internet Archive.
+The archiving routine has captured 98 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

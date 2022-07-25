@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        |  |
 
-The archiving routine has captured 106 screenshots stored at the Internet Archive.
+The archiving routine has captured 107 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

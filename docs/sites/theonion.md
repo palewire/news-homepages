@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/Chicago                                                                                                                              |
 | Bundles        | <a href="../bundles/satire.html">Satire</a>  |
 
-The archiving routine has captured 134 screenshots stored at the Internet Archive.
+The archiving routine has captured 135 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

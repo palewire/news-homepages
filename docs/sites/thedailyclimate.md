@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/Denver                                                                                                                              |
 | Bundles        | <a href="../bundles/science.html">Science</a>  |
 
-The archiving routine has captured 3 screenshots stored at the Internet Archive.
+The archiving routine has captured 4 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

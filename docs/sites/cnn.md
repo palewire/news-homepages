@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | US/Eastern                                                                                                                              |
 | Bundles        | <a href="../bundles/us-national.html">U.S. national news</a>  |
 
-The archiving routine has captured 616 screenshots stored at the Internet Archive.
+The archiving routine has captured 619 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
