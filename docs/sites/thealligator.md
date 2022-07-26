@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-25T11:45:55.600794-04:00.jpg">
   <img src="https://archive.org/download/thealligator-2022/thealligator-2022-07-25T11:45:55.600794-04:00.jpg"
-     alt="Alligator at 2022-07-25 18:45:58-04:00 local time"
+     alt="Alligator at 2022-07-25 11:45:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-25T11:45:55.600794-04:00.jpg">July 25 at 6:45 PM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-25T11:45:55.600794-04:00.jpg">July 25 at 11:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-25T00:35:00.366269-04:00.jpg">
   <img src="https://archive.org/download/thealligator-2022/thealligator-2022-07-25T00:35:00.366269-04:00.jpg"
-     alt="Alligator at 2022-07-25 07:35:02-04:00 local time"
+     alt="Alligator at 2022-07-25 00:35:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-25T00:35:00.366269-04:00.jpg">July 25 at 7:35 AM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-25T00:35:00.366269-04:00.jpg">July 25 at 12:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-24T11:05:00.545395-04:00.jpg">
   <img src="https://archive.org/download/thealligator-2022/thealligator-2022-07-24T11:05:00.545395-04:00.jpg"
-     alt="Alligator at 2022-07-24 18:05:03-04:00 local time"
+     alt="Alligator at 2022-07-24 11:05:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-24T11:05:00.545395-04:00.jpg">July 24 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-24T11:05:00.545395-04:00.jpg">July 24 at 11:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-23T23:40:02.982687-04:00.jpg">
   <img src="https://archive.org/download/thealligator-2022/thealligator-2022-07-23T23:40:02.982687-04:00.jpg"
-     alt="Alligator at 2022-07-24 06:40:04-04:00 local time"
+     alt="Alligator at 2022-07-23 23:40:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-23T23:40:02.982687-04:00.jpg">July 24 at 6:40 AM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-23T23:40:02.982687-04:00.jpg">July 23 at 11:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-23T12:04:16.933948-04:00.jpg">
   <img src="https://archive.org/download/thealligator-2022/thealligator-2022-07-23T12:04:16.933948-04:00.jpg"
-     alt="Alligator at 2022-07-23 19:04:20-04:00 local time"
+     alt="Alligator at 2022-07-23 12:04:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-23T12:04:16.933948-04:00.jpg">July 23 at 7:04 PM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-23T12:04:16.933948-04:00.jpg">July 23 at 12:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-23T00:24:38.168119-04:00.jpg">
   <img src="https://archive.org/download/thealligator-2022/thealligator-2022-07-23T00:24:38.168119-04:00.jpg"
-     alt="Alligator at 2022-07-23 07:24:39-04:00 local time"
+     alt="Alligator at 2022-07-23 00:24:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-23T00:24:38.168119-04:00.jpg">July 23 at 7:24 AM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-23T00:24:38.168119-04:00.jpg">July 23 at 12:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-22T12:16:42.732646-04:00.jpg">
   <img src="https://archive.org/download/thealligator-2022/thealligator-2022-07-22T12:16:42.732646-04:00.jpg"
-     alt="Alligator at 2022-07-22 19:16:46-04:00 local time"
+     alt="Alligator at 2022-07-22 12:16:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-22T12:16:42.732646-04:00.jpg">July 22 at 7:16 PM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-22T12:16:42.732646-04:00.jpg">July 22 at 12:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-22T00:30:36.998342-04:00.jpg">
   <img src="https://archive.org/download/thealligator-2022/thealligator-2022-07-22T00:30:36.998342-04:00.jpg"
-     alt="Alligator at 2022-07-22 07:30:39-04:00 local time"
+     alt="Alligator at 2022-07-22 00:30:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-22T00:30:36.998342-04:00.jpg">July 22 at 7:30 AM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-22T00:30:36.998342-04:00.jpg">July 22 at 12:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-21T12:54:33.600340-04:00.jpg">
   <img src="https://archive.org/download/thealligator-2022/thealligator-2022-07-21T12:54:33.600340-04:00.jpg"
-     alt="Alligator at 2022-07-21 19:54:36-04:00 local time"
+     alt="Alligator at 2022-07-21 12:54:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-21T12:54:33.600340-04:00.jpg">July 21 at 7:54 PM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-21T12:54:33.600340-04:00.jpg">July 21 at 12:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-21T00:28:50.648922-04:00.jpg">
   <img src="https://archive.org/download/thealligator-2022/thealligator-2022-07-21T00:28:50.648922-04:00.jpg"
-     alt="Alligator at 2022-07-21 07:28:53-04:00 local time"
+     alt="Alligator at 2022-07-21 00:28:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-21T00:28:50.648922-04:00.jpg">July 21 at 7:28 AM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-21T00:28:50.648922-04:00.jpg">July 21 at 12:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-20T12:45:42.168109-04:00.jpg">
   <img src="https://archive.org/download/thealligator-2022/thealligator-2022-07-20T12:45:42.168109-04:00.jpg"
-     alt="Alligator at 2022-07-20 19:45:43-04:00 local time"
+     alt="Alligator at 2022-07-20 12:45:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-20T12:45:42.168109-04:00.jpg">July 20 at 7:45 PM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-20T12:45:42.168109-04:00.jpg">July 20 at 12:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-20T00:20:59.704403-04:00.jpg">
   <img src="https://archive.org/download/thealligator-2022/thealligator-2022-07-20T00:20:59.704403-04:00.jpg"
-     alt="Alligator at 2022-07-20 07:21:02-04:00 local time"
+     alt="Alligator at 2022-07-20 00:21:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-20T00:20:59.704403-04:00.jpg">July 20 at 7:21 AM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-20T00:20:59.704403-04:00.jpg">July 20 at 12:21 AM</a></p>
 </div>
 
 </div>

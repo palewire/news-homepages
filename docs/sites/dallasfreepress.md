@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-25T06:58:28.669205-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-25T06:58:28.669205-05:00.jpg"
-     alt="Dallas Free Press at 2022-07-25 13:58:31-05:00 local time"
+     alt="Dallas Free Press at 2022-07-25 06:58:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-25T06:58:28.669205-05:00.jpg">July 25 at 1:58 PM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-25T06:58:28.669205-05:00.jpg">July 25 at 6:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-24T19:59:36.633078-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-24T19:59:36.633078-05:00.jpg"
-     alt="Dallas Free Press at 2022-07-25 02:59:38-05:00 local time"
+     alt="Dallas Free Press at 2022-07-24 19:59:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-24T19:59:36.633078-05:00.jpg">July 25 at 2:59 AM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-24T19:59:36.633078-05:00.jpg">July 24 at 7:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-24T06:56:29.357172-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-24T06:56:29.357172-05:00.jpg"
-     alt="Dallas Free Press at 2022-07-24 13:56:31-05:00 local time"
+     alt="Dallas Free Press at 2022-07-24 06:56:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-24T06:56:29.357172-05:00.jpg">July 24 at 1:56 PM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-24T06:56:29.357172-05:00.jpg">July 24 at 6:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-24T01:25:53.756996-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-24T01:25:53.756996-05:00.jpg"
-     alt="Dallas Free Press at 2022-07-24 08:25:55-05:00 local time"
+     alt="Dallas Free Press at 2022-07-24 01:25:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-24T01:25:53.756996-05:00.jpg">July 24 at 8:25 AM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-24T01:25:53.756996-05:00.jpg">July 24 at 1:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-23T08:04:18.593892-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-23T08:04:18.593892-05:00.jpg"
-     alt="Dallas Free Press at 2022-07-23 15:04:20-05:00 local time"
+     alt="Dallas Free Press at 2022-07-23 08:04:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-23T08:04:18.593892-05:00.jpg">July 23 at 3:04 PM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-23T08:04:18.593892-05:00.jpg">July 23 at 8:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-22T20:03:54.017687-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-22T20:03:54.017687-05:00.jpg"
-     alt="Dallas Free Press at 2022-07-23 03:03:55-05:00 local time"
+     alt="Dallas Free Press at 2022-07-22 20:03:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-22T20:03:54.017687-05:00.jpg">July 23 at 3:03 AM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-22T20:03:54.017687-05:00.jpg">July 22 at 8:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-22T08:03:54.224546-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-22T08:03:54.224546-05:00.jpg"
-     alt="Dallas Free Press at 2022-07-22 15:03:55-05:00 local time"
+     alt="Dallas Free Press at 2022-07-22 08:03:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-22T08:03:54.224546-05:00.jpg">July 22 at 3:03 PM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-22T08:03:54.224546-05:00.jpg">July 22 at 8:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-21T20:11:23.274493-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-21T20:11:23.274493-05:00.jpg"
-     alt="Dallas Free Press at 2022-07-22 03:11:24-05:00 local time"
+     alt="Dallas Free Press at 2022-07-21 20:11:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-21T20:11:23.274493-05:00.jpg">July 22 at 3:11 AM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-21T20:11:23.274493-05:00.jpg">July 21 at 8:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-21T07:56:56.910553-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-21T07:56:56.910553-05:00.jpg"
-     alt="Dallas Free Press at 2022-07-21 14:56:58-05:00 local time"
+     alt="Dallas Free Press at 2022-07-21 07:56:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-21T07:56:56.910553-05:00.jpg">July 21 at 2:56 PM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-21T07:56:56.910553-05:00.jpg">July 21 at 7:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-20T20:09:44.764708-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-20T20:09:44.764708-05:00.jpg"
-     alt="Dallas Free Press at 2022-07-21 03:09:46-05:00 local time"
+     alt="Dallas Free Press at 2022-07-20 20:09:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-20T20:09:44.764708-05:00.jpg">July 21 at 3:09 AM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-20T20:09:44.764708-05:00.jpg">July 20 at 8:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-20T07:57:14.650861-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-20T07:57:14.650861-05:00.jpg"
-     alt="Dallas Free Press at 2022-07-20 14:57:16-05:00 local time"
+     alt="Dallas Free Press at 2022-07-20 07:57:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-20T07:57:14.650861-05:00.jpg">July 20 at 2:57 PM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-20T07:57:14.650861-05:00.jpg">July 20 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-19T20:05:13.655049-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-19T20:05:13.655049-05:00.jpg"
-     alt="Dallas Free Press at 2022-07-20 03:05:14-05:00 local time"
+     alt="Dallas Free Press at 2022-07-19 20:05:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-19T20:05:13.655049-05:00.jpg">July 20 at 3:05 AM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-07-19T20:05:13.655049-05:00.jpg">July 19 at 8:05 PM</a></p>
 </div>
 
 </div>

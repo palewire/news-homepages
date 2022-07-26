@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/cjr-2022/cjr-2022-07-25T19:09:55.442629-04:00.jpg">
   <img src="https://archive.org/download/cjr-2022/cjr-2022-07-25T19:09:55.442629-04:00.jpg"
-     alt="Columbia Journalism Review at 2022-07-26 02:09:58-04:00 local time"
+     alt="Columbia Journalism Review at 2022-07-25 19:09:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-25T19:09:55.442629-04:00.jpg">July 26 at 2:09 AM</a></p>
+ <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-25T19:09:55.442629-04:00.jpg">July 25 at 7:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cjr-2022/cjr-2022-07-25T07:02:46.045950-04:00.jpg">
   <img src="https://archive.org/download/cjr-2022/cjr-2022-07-25T07:02:46.045950-04:00.jpg"
-     alt="Columbia Journalism Review at 2022-07-25 14:02:48-04:00 local time"
+     alt="Columbia Journalism Review at 2022-07-25 07:02:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-25T07:02:46.045950-04:00.jpg">July 25 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-25T07:02:46.045950-04:00.jpg">July 25 at 7:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cjr-2022/cjr-2022-07-24T20:56:07.246379-04:00.jpg">
   <img src="https://archive.org/download/cjr-2022/cjr-2022-07-24T20:56:07.246379-04:00.jpg"
-     alt="Columbia Journalism Review at 2022-07-25 03:56:13-04:00 local time"
+     alt="Columbia Journalism Review at 2022-07-24 20:56:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-24T20:56:07.246379-04:00.jpg">July 25 at 3:56 AM</a></p>
+ <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-24T20:56:07.246379-04:00.jpg">July 24 at 8:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cjr-2022/cjr-2022-07-24T07:01:32.699249-04:00.jpg">
   <img src="https://archive.org/download/cjr-2022/cjr-2022-07-24T07:01:32.699249-04:00.jpg"
-     alt="Columbia Journalism Review at 2022-07-24 14:01:35-04:00 local time"
+     alt="Columbia Journalism Review at 2022-07-24 07:01:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-24T07:01:32.699249-04:00.jpg">July 24 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-24T07:01:32.699249-04:00.jpg">July 24 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cjr-2022/cjr-2022-07-23T19:03:57.150479-04:00.jpg">
   <img src="https://archive.org/download/cjr-2022/cjr-2022-07-23T19:03:57.150479-04:00.jpg"
-     alt="Columbia Journalism Review at 2022-07-24 02:03:58-04:00 local time"
+     alt="Columbia Journalism Review at 2022-07-23 19:03:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-23T19:03:57.150479-04:00.jpg">July 24 at 2:03 AM</a></p>
+ <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-23T19:03:57.150479-04:00.jpg">July 23 at 7:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cjr-2022/cjr-2022-07-23T09:01:18.964628-04:00.jpg">
   <img src="https://archive.org/download/cjr-2022/cjr-2022-07-23T09:01:18.964628-04:00.jpg"
-     alt="Columbia Journalism Review at 2022-07-23 16:01:19-04:00 local time"
+     alt="Columbia Journalism Review at 2022-07-23 09:01:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-23T09:01:18.964628-04:00.jpg">July 23 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-23T09:01:18.964628-04:00.jpg">July 23 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cjr-2022/cjr-2022-07-22T21:01:59.322800-04:00.jpg">
   <img src="https://archive.org/download/cjr-2022/cjr-2022-07-22T21:01:59.322800-04:00.jpg"
-     alt="Columbia Journalism Review at 2022-07-23 04:02:01-04:00 local time"
+     alt="Columbia Journalism Review at 2022-07-22 21:02:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-22T21:01:59.322800-04:00.jpg">July 23 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-22T21:01:59.322800-04:00.jpg">July 22 at 9:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cjr-2022/cjr-2022-07-22T09:01:17.976005-04:00.jpg">
   <img src="https://archive.org/download/cjr-2022/cjr-2022-07-22T09:01:17.976005-04:00.jpg"
-     alt="Columbia Journalism Review at 2022-07-22 16:01:21-04:00 local time"
+     alt="Columbia Journalism Review at 2022-07-22 09:01:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-22T09:01:17.976005-04:00.jpg">July 22 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-22T09:01:17.976005-04:00.jpg">July 22 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cjr-2022/cjr-2022-07-21T21:08:55.651659-04:00.jpg">
   <img src="https://archive.org/download/cjr-2022/cjr-2022-07-21T21:08:55.651659-04:00.jpg"
-     alt="Columbia Journalism Review at 2022-07-22 04:08:57-04:00 local time"
+     alt="Columbia Journalism Review at 2022-07-21 21:08:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-21T21:08:55.651659-04:00.jpg">July 22 at 4:08 AM</a></p>
+ <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-21T21:08:55.651659-04:00.jpg">July 21 at 9:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cjr-2022/cjr-2022-07-21T08:55:31.102007-04:00.jpg">
   <img src="https://archive.org/download/cjr-2022/cjr-2022-07-21T08:55:31.102007-04:00.jpg"
-     alt="Columbia Journalism Review at 2022-07-21 15:55:32-04:00 local time"
+     alt="Columbia Journalism Review at 2022-07-21 08:55:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-21T08:55:31.102007-04:00.jpg">July 21 at 3:55 PM</a></p>
+ <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-21T08:55:31.102007-04:00.jpg">July 21 at 8:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cjr-2022/cjr-2022-07-20T21:07:37.741985-04:00.jpg">
   <img src="https://archive.org/download/cjr-2022/cjr-2022-07-20T21:07:37.741985-04:00.jpg"
-     alt="Columbia Journalism Review at 2022-07-21 04:07:39-04:00 local time"
+     alt="Columbia Journalism Review at 2022-07-20 21:07:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-20T21:07:37.741985-04:00.jpg">July 21 at 4:07 AM</a></p>
+ <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-20T21:07:37.741985-04:00.jpg">July 20 at 9:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cjr-2022/cjr-2022-07-20T08:55:43.178511-04:00.jpg">
   <img src="https://archive.org/download/cjr-2022/cjr-2022-07-20T08:55:43.178511-04:00.jpg"
-     alt="Columbia Journalism Review at 2022-07-20 15:55:44-04:00 local time"
+     alt="Columbia Journalism Review at 2022-07-20 08:55:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-20T08:55:43.178511-04:00.jpg">July 20 at 3:55 PM</a></p>
+ <p><a href="https://archive.org/download/cjr-2022/cjr-2022-07-20T08:55:43.178511-04:00.jpg">July 20 at 8:55 AM</a></p>
 </div>
 
 </div>

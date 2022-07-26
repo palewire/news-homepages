@@ -31,37 +31,37 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/12khari-2022/12khari-2022-07-26T04:49:54.292554+05:45.jpg">
   <img src="https://archive.org/download/12khari-2022/12khari-2022-07-26T04:49:54.292554+05:45.jpg"
-     alt="Baahrakhari at 2022-07-26 11:49:56+05:45 local time"
+     alt="Baahrakhari at 2022-07-26 04:49:56+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/12khari-2022/12khari-2022-07-26T04:49:54.292554+05:45.jpg">July 26 at 11:49 AM</a></p>
+ <p><a href="https://archive.org/download/12khari-2022/12khari-2022-07-26T04:49:54.292554+05:45.jpg">July 26 at 4:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/12khari-2022/12khari-2022-07-25T16:40:23.482123+05:45.jpg">
   <img src="https://archive.org/download/12khari-2022/12khari-2022-07-25T16:40:23.482123+05:45.jpg"
-     alt="Baahrakhari at 2022-07-25 23:40:25+05:45 local time"
+     alt="Baahrakhari at 2022-07-25 16:40:25+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/12khari-2022/12khari-2022-07-25T16:40:23.482123+05:45.jpg">July 25 at 11:40 PM</a></p>
+ <p><a href="https://archive.org/download/12khari-2022/12khari-2022-07-25T16:40:23.482123+05:45.jpg">July 25 at 4:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/12khari-2022/12khari-2022-07-25T06:29:35.543357+05:45.jpg">
   <img src="https://archive.org/download/12khari-2022/12khari-2022-07-25T06:29:35.543357+05:45.jpg"
-     alt="Baahrakhari at 2022-07-25 13:29:37+05:45 local time"
+     alt="Baahrakhari at 2022-07-25 06:29:37+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/12khari-2022/12khari-2022-07-25T06:29:35.543357+05:45.jpg">July 25 at 1:29 PM</a></p>
+ <p><a href="https://archive.org/download/12khari-2022/12khari-2022-07-25T06:29:35.543357+05:45.jpg">July 25 at 6:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/12khari-2022/12khari-2022-07-25T02:21:29.950748+05:45.jpg">
   <img src="https://archive.org/download/12khari-2022/12khari-2022-07-25T02:21:29.950748+05:45.jpg"
-     alt="Baahrakhari at 2022-07-25 09:21:35+05:45 local time"
+     alt="Baahrakhari at 2022-07-25 02:21:35+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/12khari-2022/12khari-2022-07-25T02:21:29.950748+05:45.jpg">July 25 at 9:21 AM</a></p>
+ <p><a href="https://archive.org/download/12khari-2022/12khari-2022-07-25T02:21:29.950748+05:45.jpg">July 25 at 2:21 AM</a></p>
 </div>
 
 </div>

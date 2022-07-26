@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T09:47:47.351149-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T09:47:47.351149-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-25 16:47:51-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-25 09:47:51-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T09:47:47.351149-06:00.jpg">July 25 at 4:47 PM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T09:47:47.351149-06:00.jpg">July 25 at 9:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T22:36:51.428252-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T22:36:51.428252-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-25 05:37:00-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-24 22:37:00-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T22:36:51.428252-06:00.jpg">July 25 at 5:37 AM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T22:36:51.428252-06:00.jpg">July 24 at 10:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T09:06:44.754730-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T09:06:44.754730-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-24 16:06:48-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-24 09:06:48-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T09:06:44.754730-06:00.jpg">July 24 at 4:06 PM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T09:06:44.754730-06:00.jpg">July 24 at 9:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T21:42:17.171671-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T21:42:17.171671-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-24 04:42:20-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-23 21:42:20-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T21:42:17.171671-06:00.jpg">July 24 at 4:42 AM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T21:42:17.171671-06:00.jpg">July 23 at 9:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T10:05:33.541768-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T10:05:33.541768-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-23 17:05:34-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-23 10:05:34-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T10:05:33.541768-06:00.jpg">July 23 at 5:05 PM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T10:05:33.541768-06:00.jpg">July 23 at 10:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-22T22:25:45.004623-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-22T22:25:45.004623-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-23 05:25:49-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-22 22:25:49-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-22T22:25:45.004623-06:00.jpg">July 23 at 5:25 AM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-22T22:25:45.004623-06:00.jpg">July 22 at 10:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-22T10:18:00.555178-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-22T10:18:00.555178-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-22 17:18:05-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-22 10:18:05-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-22T10:18:00.555178-06:00.jpg">July 22 at 5:18 PM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-22T10:18:00.555178-06:00.jpg">July 22 at 10:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-21T22:32:32.071150-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-21T22:32:32.071150-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-22 05:32:35-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-21 22:32:35-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-21T22:32:32.071150-06:00.jpg">July 22 at 5:32 AM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-21T22:32:32.071150-06:00.jpg">July 21 at 10:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-21T10:55:25.112080-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-21T10:55:25.112080-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-21 17:55:27-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-21 10:55:27-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-21T10:55:25.112080-06:00.jpg">July 21 at 5:55 PM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-21T10:55:25.112080-06:00.jpg">July 21 at 10:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-20T22:30:05.622313-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-20T22:30:05.622313-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-21 05:30:09-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-20 22:30:09-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-20T22:30:05.622313-06:00.jpg">July 21 at 5:30 AM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-20T22:30:05.622313-06:00.jpg">July 20 at 10:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-20T10:46:31.039453-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-20T10:46:31.039453-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-20 17:46:39-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-20 10:46:39-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-20T10:46:31.039453-06:00.jpg">July 20 at 5:46 PM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-20T10:46:31.039453-06:00.jpg">July 20 at 10:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-19T22:22:07.828733-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-19T22:22:07.828733-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-20 05:22:18-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-19 22:22:18-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-19T22:22:07.828733-06:00.jpg">July 20 at 5:22 AM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-19T22:22:07.828733-06:00.jpg">July 19 at 10:22 PM</a></p>
 </div>
 
 </div>

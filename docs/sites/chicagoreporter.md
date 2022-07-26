@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T18:10:36.960963-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T18:10:36.960963-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-26 01:10:38-05:00 local time"
+     alt="Chicago Reporter at 2022-07-25 18:10:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T18:10:36.960963-05:00.jpg">July 26 at 1:10 AM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T18:10:36.960963-05:00.jpg">July 25 at 6:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T11:35:12.767011-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T11:35:12.767011-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-25 18:35:16-05:00 local time"
+     alt="Chicago Reporter at 2022-07-25 11:35:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T11:35:12.767011-05:00.jpg">July 25 at 6:35 PM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T11:35:12.767011-05:00.jpg">July 25 at 11:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T06:02:17.944958-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T06:02:17.944958-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-25 13:02:23-05:00 local time"
+     alt="Chicago Reporter at 2022-07-25 06:02:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T06:02:17.944958-05:00.jpg">July 25 at 1:02 PM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T06:02:17.944958-05:00.jpg">July 25 at 6:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T19:54:40.276029-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T19:54:40.276029-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-25 02:54:44-05:00 local time"
+     alt="Chicago Reporter at 2022-07-24 19:54:44-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T19:54:40.276029-05:00.jpg">July 25 at 2:54 AM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T19:54:40.276029-05:00.jpg">July 24 at 7:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T10:46:33.923444-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T10:46:33.923444-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-24 17:46:35-05:00 local time"
+     alt="Chicago Reporter at 2022-07-24 10:46:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T10:46:33.923444-05:00.jpg">July 24 at 5:46 PM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T10:46:33.923444-05:00.jpg">July 24 at 10:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T06:02:01.656749-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T06:02:01.656749-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-24 13:02:08-05:00 local time"
+     alt="Chicago Reporter at 2022-07-24 06:02:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T06:02:01.656749-05:00.jpg">July 24 at 1:02 PM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T06:02:01.656749-05:00.jpg">July 24 at 6:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-23T18:03:12.543519-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-23T18:03:12.543519-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-24 01:03:13-05:00 local time"
+     alt="Chicago Reporter at 2022-07-23 18:03:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-23T18:03:12.543519-05:00.jpg">July 24 at 1:03 AM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-23T18:03:12.543519-05:00.jpg">July 23 at 6:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-23T07:59:59.025721-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-23T07:59:59.025721-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-23 15:00:00-05:00 local time"
+     alt="Chicago Reporter at 2022-07-23 08:00:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-23T07:59:59.025721-05:00.jpg">July 23 at 3:00 PM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-23T07:59:59.025721-05:00.jpg">July 23 at 8:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T20:01:17.942782-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T20:01:17.942782-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-23 03:01:18-05:00 local time"
+     alt="Chicago Reporter at 2022-07-22 20:01:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T20:01:17.942782-05:00.jpg">July 23 at 3:01 AM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T20:01:17.942782-05:00.jpg">July 22 at 8:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T11:23:41.670934-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T11:23:41.670934-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-22 18:23:42-05:00 local time"
+     alt="Chicago Reporter at 2022-07-22 11:23:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T11:23:41.670934-05:00.jpg">July 22 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T11:23:41.670934-05:00.jpg">July 22 at 11:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T08:00:51.686120-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T08:00:51.686120-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-22 15:00:53-05:00 local time"
+     alt="Chicago Reporter at 2022-07-22 08:00:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T08:00:51.686120-05:00.jpg">July 22 at 3:00 PM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T08:00:51.686120-05:00.jpg">July 22 at 8:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-21T20:08:50.046762-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-21T20:08:50.046762-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-22 03:08:51-05:00 local time"
+     alt="Chicago Reporter at 2022-07-21 20:08:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-21T20:08:50.046762-05:00.jpg">July 22 at 3:08 AM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-21T20:08:50.046762-05:00.jpg">July 21 at 8:08 PM</a></p>
 </div>
 
 </div>
