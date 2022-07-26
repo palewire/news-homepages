@@ -123,12 +123,18 @@ def site_detail():
             h for h in hyperlink_list if h["handle"].lower() == site["handle"].lower()
         ]
 
+        # Get most 10 recent hyperlinks
+        most_recent_hyperlinks = sorted(
+            hyperlinks, key=lambda x: x["mtime"], reverse=True
+        )[:10]
+
         # Render the template
         context = {
             "site": site,
             "screenshots": len(screenshots),
             "most_recent_screenshots": most_recent_screenshots,
             "hyperlinks": len(hyperlinks),
+            "most_recent_hyperlinks": most_recent_hyperlinks,
             "items": [
                 i for i in item_list if i["handle"].lower() == site["handle"].lower()
             ],

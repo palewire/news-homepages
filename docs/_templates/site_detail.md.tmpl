@@ -211,6 +211,14 @@ The archiving routine has saved {{ hyperlinks }} hyperlink lists with the Intern
 </script>
 {% endif %}
 
+Here are the 10 most recent hyperlink lists.
+
+| Item  |
+| :---- |
+{% for obj in hyperlinks -%}
+|[{{ obj.identifier }}]({{ obj.url }})|
+{% endfor %}
+
 ## Internet Archive
 
 Assets are stored in the following collections at archive.org:
