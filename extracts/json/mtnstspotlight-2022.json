@@ -1,5 +1,5 @@
 {
-  "created": 1658795662,
+  "created": 1658805104,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/4/items/mtnstspotlight-2022",
@@ -4422,31 +4422,83 @@
       "format": "JSON"
     },
     {
+      "name": "mtnstspotlight-2022-07-25T22:48:53.132474-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658803735",
+      "size": "9815",
+      "md5": "39461281b78b49ebc9fecb4cd4a6565b",
+      "crc32": "3b2ab9e4",
+      "sha1": "be31ec54666bd402bc1e3ff086d908cf263338ea",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-07-25T22:48:53.132474-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658803737",
+      "size": "10722",
+      "md5": "6551a93dfe0a6139fa6f56aa50187a8a",
+      "crc32": "2b5a924b",
+      "sha1": "1464047b5b00842d890fddd4db1f6e949934fa4f",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-07-25T22:48:53.132474-04:00.jpg",
+      "source": "original",
+      "mtime": "1658803734",
+      "size": "235239",
+      "md5": "aab32435de3646ea630359de41335a4a",
+      "crc32": "b4f14c44",
+      "sha1": "6138b3192ad8696c4deeaa969fe8c3c9788e515e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtnstspotlight-2022-07-25T22:48:53.132474-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658803738",
+      "size": "1558",
+      "md5": "26ae65a466b8d1e71032712e4974a78e",
+      "crc32": "bee8c682",
+      "sha1": "1032ac8154807e122dd083f53b23b145b62082d3",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-07-25T22:48:53.132474-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtnstspotlight-2022-07-25T22:48:53.132474-04:00.jpg",
+      "mtime": "1658805078",
+      "size": "8933",
+      "md5": "7d301047ff77f5c07e875d4f380cf942",
+      "crc32": "70493635",
+      "sha1": "4c8cf5a36cb7fd0881930f0d738df4348bee02d6"
+    },
+    {
       "name": "mtnstspotlight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "40cc6e3cc7fbb6c887b0a82c05ff614d6850a3b4",
-      "mtime": "1658754966",
-      "size": "92297",
-      "md5": "d836d7858f321bb779dbcc555ebb7659",
-      "crc32": "a712c726",
-      "sha1": "4853d6bb110a63c51fd0216c81d2289a4f8d2127",
+      "btih": "e9d7145a77abd659a50d39735d75429e2f41fcc6",
+      "mtime": "1658805085",
+      "size": "93385",
+      "md5": "d9dc3bd3a163c4e631c441f091c566d4",
+      "crc32": "8fbfcb11",
+      "sha1": "23ee8357a13adc21f8013ba7a72fa793c8263bb5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtnstspotlight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4f5e822fad73b290f90e17f0036ca9d3",
+      "md5": "c45d703ae5e8c5e4e67cea43b985db84",
       "summation": "md5"
     },
     {
       "name": "mtnstspotlight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658754928",
-      "size": "507904",
-      "md5": "9947fc2edc27757492abac15c31d48d3",
-      "crc32": "908cc6e9",
-      "sha1": "d57c1f712fef4223647055d47954f05713052a19",
+      "mtime": "1658803746",
+      "size": "512000",
+      "md5": "9602a41977ef81816eb3471beb8148f9",
+      "crc32": "0da21db1",
+      "sha1": "2058bf50b66d4bcb1a37e4a214b429d80a61c798",
       "format": "Metadata"
     },
     {
@@ -4460,9 +4512,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 425,
-  "item_last_updated": 1658754966,
-  "item_size": 28219765,
+  "files_count": 430,
+  "item_last_updated": 1658805085,
+  "item_size": 28491216,
   "metadata": {
     "identifier": "mtnstspotlight-2022",
     "collection": [
@@ -4479,51 +4531,10 @@
     "publicdate": "2022-06-18 21:04:13",
     "addeddate": "2022-06-18 21:04:13"
   },
-  "mtnstspotlight-2022": [
-    {
-      "url": "https://mountainstatespotlight.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/mountainstatespotlight_org-_-2022_07_25_13_01_42.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/mountainstatespotlight_org-_-2022_07_25_13_01_42.report.json",
-      "summary": {
-        "performance": 0.59,
-        "accessibility": 0.84,
-        "best-practices": 1,
-        "seo": 0.98,
-        "pwa": 0.9
-      }
-    },
-    {
-      "url": "https://mountainstatespotlight.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/mountainstatespotlight_org-_-2022_07_25_13_01_57.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/mountainstatespotlight_org-_-2022_07_25_13_01_57.report.json",
-      "summary": {
-        "performance": 0.8,
-        "accessibility": 0.84,
-        "best-practices": 1,
-        "seo": 0.98,
-        "pwa": 0.9
-      }
-    },
-    {
-      "url": "https://mountainstatespotlight.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/mountainstatespotlight_org-_-2022_07_25_13_02_12.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/mountainstatespotlight_org-_-2022_07_25_13_02_12.report.json",
-      "summary": {
-        "performance": 0.79,
-        "accessibility": 0.84,
-        "best-practices": 1,
-        "seo": 0.98,
-        "pwa": 0.9
-      }
-    }
-  ],
-  "server": "ia601507.us.archive.org",
-  "uniq": 1081134278,
+  "server": "ia801507.us.archive.org",
+  "uniq": 1773609415,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia801507.us.archive.org",
+    "ia601507.us.archive.org"
   ]
 }

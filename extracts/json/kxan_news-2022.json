@@ -1,5 +1,5 @@
 {
-  "created": 1658795229,
+  "created": 1658838233,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/19/items/kxan_news-2022",
@@ -812,31 +812,72 @@
       "sha1": "1754fd0cca96962c24418da713811b0dd2a92ffb"
     },
     {
+      "name": "kxan_news-2022-07-26T07:22:39.842699-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658838166",
+      "size": "53835",
+      "md5": "dd97f8ab551b13e73990176137101f0b",
+      "crc32": "7ae2185f",
+      "sha1": "a9d942149af29754fce7f22da14a4a5c08dcf023",
+      "format": "JSON"
+    },
+    {
+      "name": "kxan_news-2022-07-26T07:22:39.842699-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658838168",
+      "size": "99403",
+      "md5": "b148a169b2122745387ae39b3dce6a0a",
+      "crc32": "a84a2684",
+      "sha1": "b76025a0a051621d62d30513a768257246b306dd",
+      "format": "JSON"
+    },
+    {
+      "name": "kxan_news-2022-07-26T07:22:39.842699-05:00.jpg",
+      "source": "original",
+      "mtime": "1658838163",
+      "size": "281672",
+      "md5": "46f972279f4082c29d8b80371f52ad5f",
+      "crc32": "aaa691b7",
+      "sha1": "fac513f7d4417b8d42170352f50141761a3cddb0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kxan_news-2022-07-26T07:22:39.842699-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658838171",
+      "size": "1441",
+      "md5": "56d1ed356ab5363b1fe9a158ffc9df19",
+      "crc32": "7b0d5ff3",
+      "sha1": "b0d06a48be9d98fb3f3752f383429b2e32554890",
+      "format": "JSON"
+    },
+    {
       "name": "kxan_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4cee72ae5b4612085d06265a44182d09453660f1",
-      "mtime": "1658795199",
-      "size": "17794",
-      "md5": "6f34209a1dd1c866d77e72b8c09bbe93",
-      "crc32": "d21ca4c6",
-      "sha1": "3f143b0d3ab4ed55f564c08e275aa5182e50eae6",
+      "btih": "bd178fe895744007236d9b442cfb000dccb66f04",
+      "mtime": "1658838230",
+      "size": "18653",
+      "md5": "4fa6fe81fdfb8c455a84ab134bd45605",
+      "crc32": "5adce4b7",
+      "sha1": "1b3fd1b65cd3be888beb8bd7f6cb28413466619d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kxan_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f2607192a64f3239c92805abed251320",
+      "md5": "86f4a3e46eb3a7a4afde27e8f221ec0f",
       "summation": "md5"
     },
     {
       "name": "kxan_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658794637",
-      "size": "110592",
-      "md5": "1fcb316b876ac20a625df21f74485c7d",
-      "crc32": "85651830",
-      "sha1": "927c89ebf866cd58add96a97036ef867198701b0",
+      "mtime": "1658838192",
+      "size": "114688",
+      "md5": "516147c5f97034ef07a4d49fde776996",
+      "crc32": "6efa1479",
+      "sha1": "3f85a9e4eade06669d17eebe7b4c7a49c717a79b",
       "format": "Metadata"
     },
     {
@@ -850,9 +891,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 81,
-  "item_last_updated": 1658795199,
-  "item_size": 8276835,
+  "files_count": 85,
+  "item_last_updated": 1658838230,
+  "item_size": 8718141,
   "metadata": {
     "identifier": "kxan_news-2022",
     "collection": [
@@ -869,10 +910,21 @@
     "publicdate": "2022-07-18 00:05:12",
     "addeddate": "2022-07-18 00:05:12"
   },
-  "server": "ia802501.us.archive.org",
-  "uniq": 1571831794,
+  "pending_tasks": true,
+  "server": "ia902501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3344322122,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 437627403,
   "workable_servers": [
-    "ia802501.us.archive.org",
     "ia902501.us.archive.org"
   ]
 }

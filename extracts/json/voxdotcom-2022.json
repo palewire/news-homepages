@@ -1,5 +1,5 @@
 {
-  "created": 1658796009,
+  "created": 1658838960,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/22/items/voxdotcom-2022",
@@ -4146,31 +4146,83 @@
       "sha1": "b474d0f91e9c3792ebd61fa831df2b1f38c236cb"
     },
     {
+      "name": "voxdotcom-2022-07-26T00:01:53.194578-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658808118",
+      "size": "40707",
+      "md5": "81322f39b45a2cda42edf257f6d62e38",
+      "crc32": "8f244f3e",
+      "sha1": "b29ad2c12cc20b024fa1e83fd02c84e28a3b6ea7",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-07-26T00:01:53.194578-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658808121",
+      "size": "49764",
+      "md5": "da416c38eb5e946f3d11c7b22e5dcf55",
+      "crc32": "ae8701bc",
+      "sha1": "9fb3877915e7884de88f880ee384efe3cbb0cc7f",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-07-26T00:01:53.194578-04:00.jpg",
+      "source": "original",
+      "mtime": "1658808116",
+      "size": "240940",
+      "md5": "455737f71230692933924b1bf8a83de6",
+      "crc32": "35589257",
+      "sha1": "e8e9af8d761487c904e4ef907a2a8dc2fa1dd418",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voxdotcom-2022-07-26T00:01:53.194578-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658808123",
+      "size": "1430",
+      "md5": "8827c35fe6ace844e9f64ac406b27796",
+      "crc32": "67372568",
+      "sha1": "d0b4c5ac98d23a55f687e361a5d510a824247afc",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-07-26T00:01:53.194578-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voxdotcom-2022-07-26T00:01:53.194578-04:00.jpg",
+      "mtime": "1658810450",
+      "size": "8594",
+      "md5": "7baf991960ad5f77d28684a138e76abc",
+      "crc32": "447eb591",
+      "sha1": "80f0ec0761406515c62ee1267aed4b6e7bfac581"
+    },
+    {
       "name": "voxdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "21828ff1bb49ab1bb9589351f5a7a55b02feee92",
-      "mtime": "1658778981",
-      "size": "85002",
-      "md5": "3a8603f02b0067fdb37bd5de458bf650",
-      "crc32": "226a09a3",
-      "sha1": "66f66231ec9f3ccc49e25db6875bb563af4a2bd9",
+      "btih": "dd3c0bf8ea3c76554a89f7287bdcbc2387a83847",
+      "mtime": "1658810533",
+      "size": "86066",
+      "md5": "ed930c7597b56587acfe14ca33f629a7",
+      "crc32": "f3c43713",
+      "sha1": "cff410e9d93eaad8e0c2ace2327bc2a98711d321",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voxdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "db813b0463dfe3c959e3259a2da279af",
+      "md5": "5769c7b01cc52f3aa7287718354590c4",
       "summation": "md5"
     },
     {
       "name": "voxdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658774493",
-      "size": "475136",
-      "md5": "b68fff0ef885eeb74a8215c10b96d28c",
-      "crc32": "fbcd141a",
-      "sha1": "aee6fcefb842dcf62cf98c8ae95c33fce3b117e0",
+      "mtime": "1658808126",
+      "size": "479232",
+      "md5": "b01136a044defb4eb1cc9966fd66f9f2",
+      "crc32": "aef27c1c",
+      "sha1": "6721c03d7eb9a59b452fcb0f64bff86fffd6c5a2",
       "format": "Metadata"
     },
     {
@@ -4184,9 +4236,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 399,
-  "item_last_updated": 1658778981,
-  "item_size": 33321778,
+  "files_count": 404,
+  "item_last_updated": 1658810533,
+  "item_size": 33668373,
   "metadata": {
     "identifier": "voxdotcom-2022",
     "collection": [
@@ -4204,28 +4256,28 @@
     "addeddate": "2022-06-19 23:29:34"
   },
   "server": "ia601506.us.archive.org",
-  "uniq": 188667281,
+  "uniq": 1122009177,
   "voxdotcom-2022": [
     {
       "url": "https://www.vox.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vox_com-_-2022_07_25_18_35_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vox_com-_-2022_07_25_18_35_23.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vox_com-_-2022_07_26_03_42_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vox_com-_-2022_07_26_03_42_55.report.json",
       "summary": {
-        "performance": 0.34,
-        "accessibility": 0.8,
-        "best-practices": 0.83,
-        "seo": 0.84,
+        "performance": 0.31,
+        "accessibility": 0.89,
+        "best-practices": 0.75,
+        "seo": 0.91,
         "pwa": 0.4
       }
     },
     {
       "url": "https://www.vox.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vox_com-_-2022_07_25_18_36_13.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vox_com-_-2022_07_25_18_36_13.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vox_com-_-2022_07_26_03_43_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vox_com-_-2022_07_26_03_43_27.report.json",
       "summary": {
-        "performance": 0.34,
+        "performance": 0.31,
         "accessibility": 0.8,
         "best-practices": 0.83,
         "seo": 0.84,
@@ -4235,8 +4287,8 @@
     {
       "url": "https://www.vox.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vox_com-_-2022_07_25_18_35_49.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vox_com-_-2022_07_25_18_35_49.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vox_com-_-2022_07_26_03_43_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vox_com-_-2022_07_26_03_43_56.report.json",
       "summary": {
         "performance": 0.33,
         "accessibility": 0.8,

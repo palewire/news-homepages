@@ -1,5 +1,5 @@
 {
-  "created": 1658778815,
+  "created": 1658810383,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/13/items/worldnetdaily-2022",
@@ -1118,31 +1118,83 @@
       "sha1": "b75b35cb4707d503622a55adb808f9c3dc8ba454"
     },
     {
+      "name": "worldnetdaily-2022-07-26T00:01:50.870694-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658808119",
+      "size": "22804",
+      "md5": "e4e57748916db53b973a2bf21e764e05",
+      "crc32": "c601e142",
+      "sha1": "a5dd03cde5271272a08254bec866b578c08d92e9",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-07-26T00:01:50.870694-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658808123",
+      "size": "46592",
+      "md5": "39e726ddeda41e022747c66879d667f3",
+      "crc32": "c22eb89a",
+      "sha1": "f426ec30f1906948b1ff81259e88f5999588816d",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-07-26T00:01:50.870694-04:00.jpg",
+      "source": "original",
+      "mtime": "1658808117",
+      "size": "364149",
+      "md5": "2f61411f44b1d0aa3f3db9242cd7c993",
+      "crc32": "9eefcfbd",
+      "sha1": "f2454555921ee95752e197a13b7f5fd9be9faa5b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "worldnetdaily-2022-07-26T00:01:50.870694-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658808126",
+      "size": "1432",
+      "md5": "8317431b0c7c1f91ed5d92108829ecfd",
+      "crc32": "7dd90f68",
+      "sha1": "51823d621242eb105f4afef9f1c4ce084e12ddbc",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-07-26T00:01:50.870694-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "worldnetdaily-2022-07-26T00:01:50.870694-04:00.jpg",
+      "mtime": "1658810356",
+      "size": "12171",
+      "md5": "4afef4fe196a37ae9dc720586fd0aa92",
+      "crc32": "1bcd4c78",
+      "sha1": "b994c6f5f27c35e4cfe26b0c3ebd4711a465dc2e"
+    },
+    {
       "name": "worldnetdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a26bead403c5da0277dbd52f3cc9e4af7f1c6fe5",
-      "mtime": "1658778809",
-      "size": "24393",
-      "md5": "0b369cdf29217473330933d7eb6f2a2a",
-      "crc32": "ebd999fe",
-      "sha1": "8eb184be64e0d863ce816330f70f188448070fa3",
+      "btih": "7ee502e5a39011a69d331a0c5a996e0b0d3645cc",
+      "mtime": "1658810362",
+      "size": "25478",
+      "md5": "049891e395c40475acdf16c8a7237dee",
+      "crc32": "d0243d8c",
+      "sha1": "ddc80f13d44b6c4beb531d9ac53495806f87f9e6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "worldnetdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e6c4fc7544f3a1db17dcf11b2a63fb32",
+      "md5": "eeffed5fc92fc761e3aacf64fef7f5c8",
       "summation": "md5"
     },
     {
       "name": "worldnetdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658774409",
-      "size": "147456",
-      "md5": "60a9038d486d735419f556c827408d80",
-      "crc32": "5a5d7a6d",
-      "sha1": "c1b9e1b5b6302e0b0d5ee55389844e4a4d7c4e85",
+      "mtime": "1658808130",
+      "size": "151552",
+      "md5": "af18d1beeac89d4e8fc57542e05da773",
+      "crc32": "e2d4ea32",
+      "sha1": "721913bdfe31e512494fc0823b0e03038af1c9a7",
       "format": "Metadata"
     },
     {
@@ -1156,9 +1208,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 110,
-  "item_last_updated": 1658778809,
-  "item_size": 11189773,
+  "files_count": 115,
+  "item_last_updated": 1658810362,
+  "item_size": 11642102,
   "metadata": {
     "identifier": "worldnetdaily-2022",
     "collection": [
@@ -1175,10 +1227,10 @@
     "publicdate": "2022-07-17 15:04:09",
     "addeddate": "2022-07-17 15:04:09"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 243305447,
+  "server": "ia902500.us.archive.org",
+  "uniq": 1608102431,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

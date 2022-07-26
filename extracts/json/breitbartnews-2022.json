@@ -1,5 +1,5 @@
 {
-  "created": 1658791517,
+  "created": 1658834122,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/breitbartnews-2022",
@@ -8868,31 +8868,72 @@
       "sha1": "3dc6bffe69d5092a2a85477018fdb543322b81cb"
     },
     {
+      "name": "breitbartnews-2022-07-26T07:14:24.184750-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658834070",
+      "size": "71325",
+      "md5": "333dbe754781b771dec3edb52053f6de",
+      "crc32": "ecd5c64a",
+      "sha1": "dbf4d1e1147ba348ed7afc725ac6bc8bfbe9cae5",
+      "format": "JSON"
+    },
+    {
+      "name": "breitbartnews-2022-07-26T07:14:24.184750-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658834072",
+      "size": "75192",
+      "md5": "ed6c6a9ed6f76c41d19c48a7813bf3c3",
+      "crc32": "557c1317",
+      "sha1": "ea96c4d157024c8abf59ccbd1dfa8d8dc7a06e29",
+      "format": "JSON"
+    },
+    {
+      "name": "breitbartnews-2022-07-26T07:14:24.184750-04:00.jpg",
+      "source": "original",
+      "mtime": "1658834069",
+      "size": "319121",
+      "md5": "c1d874ab7e9ae1b78d361970977dd085",
+      "crc32": "81eb718a",
+      "sha1": "88532d06ed11ecad2a4c6a976c82476c19dcf42d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "breitbartnews-2022-07-26T07:14:24.184750-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658834073",
+      "size": "1486",
+      "md5": "8ee06523619b0334d178b9f3c2b1cb55",
+      "crc32": "71699b67",
+      "sha1": "62d897007d6130b08981889581df505bc1d26cc9",
+      "format": "JSON"
+    },
+    {
       "name": "breitbartnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f410f0b126f0c0a4c0a0c377cf370c4318da9316",
-      "mtime": "1658791444",
-      "size": "184147",
-      "md5": "48afb1c9f4daf26d44ab1326714b232d",
-      "crc32": "7b01d033",
-      "sha1": "9a99afb75d6cd74a31b88186ecf2ae82cfdae82b",
+      "btih": "0357853d7c371667fdf9691d68254e9be433f550",
+      "mtime": "1658834119",
+      "size": "185022",
+      "md5": "735f1a8644b75ebd297e00aba211893b",
+      "crc32": "d16ff790",
+      "sha1": "1f5755d5ad4293f2078222e524c96dbbd6939dcf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "breitbartnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f0b45681813ae754c6f2827497d11403",
+      "md5": "1acb9694c1baadd3f8dd90cfe11c01a3",
       "summation": "md5"
     },
     {
       "name": "breitbartnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658790547",
-      "size": "987136",
-      "md5": "84847755534bc33ebc3b85886f0189c5",
-      "crc32": "7327a1b3",
-      "sha1": "bd73b4df9dd00f6a9647d77de1d237772c810e6e",
+      "mtime": "1658834077",
+      "size": "991232",
+      "md5": "3fcacad84098cd28abde51fb328c0118",
+      "crc32": "e1fe0749",
+      "sha1": "ab23bcb82fa0364cc652982fda27b5d8c01413f0",
       "format": "Metadata"
     },
     {
@@ -8906,9 +8947,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 848,
-  "item_last_updated": 1658791444,
-  "item_size": 90647489,
+  "files_count": 852,
+  "item_last_updated": 1658834119,
+  "item_size": 91119584,
   "metadata": {
     "identifier": "breitbartnews-2022",
     "collection": [
@@ -8925,10 +8966,21 @@
     "publicdate": "2022-03-25 18:46:45",
     "addeddate": "2022-03-25 18:46:45"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 1258446602,
+  "pending_tasks": true,
+  "server": "ia902505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3344285297,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 205701922,
   "workable_servers": [
-    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

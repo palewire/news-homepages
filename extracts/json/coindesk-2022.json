@@ -1,5 +1,46 @@
 {
-  "created": 1658791534,
+  "coindesk-2022": [
+    {
+      "url": "https://www.coindesk.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_coindesk_com-_-2022_07_26_10_53_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_coindesk_com-_-2022_07_26_10_53_39.report.json",
+      "summary": {
+        "performance": 0.08,
+        "accessibility": 0.79,
+        "best-practices": 0.92,
+        "seo": 0.86,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_coindesk_com-_-2022_07_26_10_54_41.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_coindesk_com-_-2022_07_26_10_54_41.report.json",
+      "summary": {
+        "performance": 0.12,
+        "accessibility": 0.79,
+        "best-practices": 0.92,
+        "seo": 0.86,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_coindesk_com-_-2022_07_26_10_54_12.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_coindesk_com-_-2022_07_26_10_54_12.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.79,
+        "best-practices": 0.92,
+        "seo": 0.86,
+        "pwa": 0.6
+      }
+    }
+  ],
+  "created": 1658838161,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/0/items/coindesk-2022",
@@ -172,31 +213,72 @@
       "sha1": "ad414a086becfd5f3cc0d2ebdb02ce98ccfa9433"
     },
     {
+      "name": "coindesk-2022-07-26T07:14:58.511540-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658834101",
+      "size": "71496",
+      "md5": "a1f93848fc9f06680fc26b9d46200c41",
+      "crc32": "7a509073",
+      "sha1": "b0f37f7891f99a764110d343801ba4dd884e88a7",
+      "format": "JSON"
+    },
+    {
+      "name": "coindesk-2022-07-26T07:14:58.511540-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658834103",
+      "size": "83203",
+      "md5": "fe2f908db78402b6a45402036cd6f574",
+      "crc32": "e523437f",
+      "sha1": "46c24fff2075019ff2f428405ee5f561b21b56ed",
+      "format": "JSON"
+    },
+    {
+      "name": "coindesk-2022-07-26T07:14:58.511540-04:00.jpg",
+      "source": "original",
+      "mtime": "1658834100",
+      "size": "306423",
+      "md5": "8b68a4284debb31e59546977970f9b4c",
+      "crc32": "d08bd095",
+      "sha1": "6a953a13f1003de6ca742f949c63339d11946044",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coindesk-2022-07-26T07:14:58.511540-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658834104",
+      "size": "1477",
+      "md5": "d335525f8c9b090b6b9e0b3da252fc8b",
+      "crc32": "e0668f29",
+      "sha1": "838cbd349d8c314148b89d4f983fb9239e948986",
+      "format": "JSON"
+    },
+    {
       "name": "coindesk-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0cdee5a9ea31accbb3b78a2a7eca59024231bc3a",
-      "mtime": "1658791510",
-      "size": "4782",
-      "md5": "9bc96fe21280d301ade8fd3c2f0adfa2",
-      "crc32": "9956737e",
-      "sha1": "7738e2060f43d7d2272d6bb3d795398627e2d679",
+      "btih": "ba16252f57de613e92b954ad74f863180c9d16d7",
+      "mtime": "1658834148",
+      "size": "5637",
+      "md5": "4b79d0cc3b5580f6706da67f5eeb310b",
+      "crc32": "3bb797d8",
+      "sha1": "aa2be90885340e3a48efb4ecca73c6c8f78f2c6c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "coindesk-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "743d0e2f01637f879132a25c93fdf8fe",
+      "md5": "c603ff4b8eb57fd4441c3520375df136",
       "summation": "md5"
     },
     {
       "name": "coindesk-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658790733",
-      "size": "36864",
-      "md5": "489b112d25afbc8feaf1056f17de3cd8",
-      "crc32": "2576b4d3",
-      "sha1": "a14eb7950bc3b8ee5d4b934d1ae2b371b09edfac",
+      "mtime": "1658834109",
+      "size": "45056",
+      "md5": "f8afdfbff6263e659876f88f778d8ab4",
+      "crc32": "bc5654ae",
+      "sha1": "ed37b6434460a5cea6b3d1043332cf2a03e93340",
       "format": "Metadata"
     },
     {
@@ -210,9 +292,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 20,
-  "item_last_updated": 1658791510,
-  "item_size": 1363280,
+  "files_count": 24,
+  "item_last_updated": 1658834148,
+  "item_size": 1834926,
   "metadata": {
     "identifier": "coindesk-2022",
     "collection": [
@@ -229,10 +311,21 @@
     "publicdate": "2022-07-25 06:46:58",
     "addeddate": "2022-07-25 06:46:58"
   },
+  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "uniq": 313584376,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3344285630,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2117376991,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia601509.us.archive.org"
   ]
 }

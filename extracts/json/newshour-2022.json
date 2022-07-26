@@ -1,6 +1,5 @@
 {
-  "conflict": 1658795673,
-  "created": 1658795673,
+  "created": 1658838464,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/newshour-2022",
@@ -5805,31 +5804,72 @@
       "sha1": "7a349447918eebb3010a28547a91e3d30d45a408"
     },
     {
+      "name": "newshour-2022-07-26T08:26:43.798956-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658838413",
+      "size": "33439",
+      "md5": "ec3e64937fc7f7c46af698c32fe4787c",
+      "crc32": "05bd6e2e",
+      "sha1": "c4d8ed96f6f0a64455101fa4bbdced0f441f41a2",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-07-26T08:26:43.798956-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658838415",
+      "size": "41613",
+      "md5": "c91c7b9cdb1388d445d0bcb312b1777a",
+      "crc32": "a633b0ce",
+      "sha1": "f81b9a247a37fd7e95117dfa644140cdf27668c5",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-07-26T08:26:43.798956-04:00.jpg",
+      "source": "original",
+      "mtime": "1658838412",
+      "size": "317582",
+      "md5": "614b579c0c5f81ce0e1fb48156208202",
+      "crc32": "669cc351",
+      "sha1": "a4d4933b7cace6ba9c02373593caa33738adc5f8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-07-26T08:26:43.798956-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658838417",
+      "size": "1512",
+      "md5": "76485c3fa52a51a0f3923bc713503cf9",
+      "crc32": "90e917a8",
+      "sha1": "01ab1b92257d6201b36e94071ad92bd62d27fd19",
+      "format": "JSON"
+    },
+    {
       "name": "newshour-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5750fab7e1d1c62bd5404d247fadba6cbb67d224",
-      "mtime": "1658795668",
-      "size": "118256",
-      "md5": "b3d4846ae62d1c5e8f2f3ce99ce603ed",
-      "crc32": "410a037f",
-      "sha1": "f1be26cba7319599252aa982343454d46734ec68",
+      "btih": "b95cb1deef6e603ef301d9f9696f1dee5fcd43e9",
+      "mtime": "1658838461",
+      "size": "119111",
+      "md5": "c4162ef671469b1d9fec52c899e4288a",
+      "crc32": "352f1dcf",
+      "sha1": "7a06c2dd48dd29fa6ded0a0eaf7159302790b080",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newshour-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e39d1c57defd1bd36a8be59d9487723b",
+      "md5": "80b9ee34288d55c2d9314cab41c4cf54",
       "summation": "md5"
     },
     {
       "name": "newshour-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658794882",
-      "size": "655360",
-      "md5": "28d042565e7fbd89023db783472dc6a2",
-      "crc32": "37e08ddb",
-      "sha1": "8cf815d379216ca6855998ef426a87cba7c1c8ce",
+      "mtime": "1658838422",
+      "size": "659456",
+      "md5": "b73954fb41b56f6b8ac24ab58da220b6",
+      "crc32": "d26a5f69",
+      "sha1": "fa54b406b7e1012ef5d0144de444dbfef2f538f0",
       "format": "Metadata"
     },
     {
@@ -5843,9 +5883,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 557,
-  "item_last_updated": 1658795668,
-  "item_size": 53887737,
+  "files_count": 561,
+  "item_last_updated": 1658838461,
+  "item_size": 54286834,
   "metadata": {
     "identifier": "newshour-2022",
     "collection": [
@@ -5867,23 +5907,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3343830875,
+      "task_id": 3344324153,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3343841225,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 977106266,
+  "uniq": 1276993783,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

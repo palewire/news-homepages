@@ -1,5 +1,5 @@
 {
-  "created": 1658795455,
+  "created": 1658838325,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/3/items/mo_independent-2022",
@@ -1914,31 +1914,72 @@
       "sha1": "87e4d259c101a9c82f81753d8eed952a35c06198"
     },
     {
+      "name": "mo_independent-2022-07-26T07:24:20.103317-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658838266",
+      "size": "15928",
+      "md5": "69f250829538f7e060abcfc40697f293",
+      "crc32": "89774268",
+      "sha1": "6c9cce24963bee93c428397b5fb23c9731cbe8a8",
+      "format": "JSON"
+    },
+    {
+      "name": "mo_independent-2022-07-26T07:24:20.103317-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658838269",
+      "size": "13696",
+      "md5": "657d611122170ab48ab62addd30d6a9b",
+      "crc32": "831c6789",
+      "sha1": "9f024b68f356f2e030d95782e9351a45b84946b4",
+      "format": "JSON"
+    },
+    {
+      "name": "mo_independent-2022-07-26T07:24:20.103317-05:00.jpg",
+      "source": "original",
+      "mtime": "1658838263",
+      "size": "340730",
+      "md5": "a513265b52194519039fd78c127c9009",
+      "crc32": "055b8f66",
+      "sha1": "d1d30ff51c2e5bf7241570111efb92bad7f8da82",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mo_independent-2022-07-26T07:24:20.103317-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658838274",
+      "size": "1539",
+      "md5": "8e460e1fd341a9195ad5df26204a5f10",
+      "crc32": "85753b22",
+      "sha1": "f430f6ced7803a6d1984b46312c1c230800cf48b",
+      "format": "JSON"
+    },
+    {
       "name": "mo_independent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eca6b91400d858898a035a64c37451f7f78ff1a1",
-      "mtime": "1658795437",
-      "size": "40931",
-      "md5": "9810b317d5493441fa4c552f7ffe3dd4",
-      "crc32": "46b7e3e7",
-      "sha1": "c94c25f99f52f0052129c39e842f64a42da67cba",
+      "btih": "6829e5602843676373544041eaf4722e4bae1ebe",
+      "mtime": "1658838319",
+      "size": "41810",
+      "md5": "c9d1337121866f57470549f08f693dec",
+      "crc32": "8b5f4105",
+      "sha1": "79ebce0400aff50bc7847ab0c515102bad05bce3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mo_independent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1de48c3d312ba1752532f8749d3d10ad",
+      "md5": "8d426649b43976600f6d986f7a92a4d1",
       "summation": "md5"
     },
     {
       "name": "mo_independent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658794774",
-      "size": "233472",
-      "md5": "3e770896b8a6d5b79431d9d6447482b1",
-      "crc32": "1d3424b7",
-      "sha1": "970bd72ca7934bd92e05e9a475de5f3b607f489b",
+      "mtime": "1658838280",
+      "size": "237568",
+      "md5": "58a1a203fdf543e58cc75e53a266b1e9",
+      "crc32": "aff51af2",
+      "sha1": "a81c34f7e8f9de4a91e6e2ef6c5e9a292602e73f",
       "format": "Metadata"
     },
     {
@@ -1952,9 +1993,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 186,
-  "item_last_updated": 1658795437,
-  "item_size": 15920571,
+  "files_count": 190,
+  "item_last_updated": 1658838319,
+  "item_size": 16297439,
   "metadata": {
     "identifier": "mo_independent-2022",
     "collection": [
@@ -1971,10 +2012,21 @@
     "publicdate": "2022-07-04 21:56:43",
     "addeddate": "2022-07-04 21:56:43"
   },
+  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "uniq": 1461487172,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3344322981,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 401966547,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia601405.us.archive.org"
   ]
 }

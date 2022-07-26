@@ -1,5 +1,5 @@
 {
-  "created": 1658791450,
+  "created": 1658834093,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/27/items/calmatters-2022",
@@ -486,31 +486,72 @@
       "sha1": "b1e72f32a2321bc296e515d173afc18a60a24917"
     },
     {
+      "name": "calmatters-2022-07-26T04:14:09.087219-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658834051",
+      "size": "49979",
+      "md5": "9d338d33c3447f0141f5b4f14e1de22b",
+      "crc32": "d7f7377c",
+      "sha1": "44d89616a0e8928bb2575d5cf3c896880f595788",
+      "format": "JSON"
+    },
+    {
+      "name": "calmatters-2022-07-26T04:14:09.087219-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658834053",
+      "size": "63920",
+      "md5": "c66602655b8d3864c803c57aaa5d8f84",
+      "crc32": "e4d9a7c4",
+      "sha1": "84312e623464d193ca73361f333dd79400ef132b",
+      "format": "JSON"
+    },
+    {
+      "name": "calmatters-2022-07-26T04:14:09.087219-07:00.jpg",
+      "source": "original",
+      "mtime": "1658834050",
+      "size": "285711",
+      "md5": "26473391b95df0a70ffd25a1e0415ac9",
+      "crc32": "2af9f9f6",
+      "sha1": "9984d312c433be7237ec1d92d5e6d2e2a5dbbced",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "calmatters-2022-07-26T04:14:09.087219-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658834054",
+      "size": "1459",
+      "md5": "909190b6db0466fa4971dedfcdbfe0a2",
+      "crc32": "230f8d5f",
+      "sha1": "f7b9a1ab5dd8bcfae0020f8e2bab8922ea758f00",
+      "format": "JSON"
+    },
+    {
       "name": "calmatters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "139e7495a8304e428bcaa2f4dee1128691d58d1b",
-      "mtime": "1658791365",
-      "size": "11225",
-      "md5": "f24b8326485859f60e4f57611c8f6c5c",
-      "crc32": "32aabacf",
-      "sha1": "574e7127c31cbfa768b9ebfa7d086c834e83796b",
+      "btih": "7d82b5e450f29bf5ad677772bf530186b3955aa7",
+      "mtime": "1658834092",
+      "size": "12088",
+      "md5": "ededd3dd998f18c4c49aa126e87aaa4c",
+      "crc32": "a9255486",
+      "sha1": "5c5eae09a76c6c883219040f4967d29541533363",
       "format": "Archive BitTorrent"
     },
     {
       "name": "calmatters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b935b1eae865be377aec33c35137cd31",
+      "md5": "2138e07d148adbe39c8e15eff75d4091",
       "summation": "md5"
     },
     {
       "name": "calmatters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658790594",
-      "size": "69632",
-      "md5": "fe3d0b030cc6e9de3b61b383fa5a080b",
-      "crc32": "ede367e7",
-      "sha1": "ba3ee7aca51cb889e84f1637ebf8ffd765d34a50",
+      "mtime": "1658834058",
+      "size": "73728",
+      "md5": "d7e552dd63b464d34d6f7abd6166aecd",
+      "crc32": "36048045",
+      "sha1": "f2cce64c1fa418a36738608f43aeabba7889d21f",
       "format": "Metadata"
     },
     {
@@ -524,9 +565,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 50,
-  "item_last_updated": 1658791365,
-  "item_size": 3971349,
+  "files_count": 54,
+  "item_last_updated": 1658834092,
+  "item_size": 4377377,
   "metadata": {
     "identifier": "calmatters-2022",
     "collection": [
@@ -543,10 +584,21 @@
     "publicdate": "2022-07-21 12:54:12",
     "addeddate": "2022-07-21 12:54:12"
   },
-  "server": "ia802509.us.archive.org",
-  "uniq": 2022066562,
+  "pending_tasks": true,
+  "server": "ia902509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3344285055,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 796162033,
   "workable_servers": [
-    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658791174,
+  "created": 1658833908,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/22/items/appalachia100-2022",
@@ -1536,31 +1536,72 @@
       "sha1": "f23ff8f7ed95803fa7aaab6e16ae2c256f03c17a"
     },
     {
+      "name": "appalachia100-2022-07-26T07:10:59.502537-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658833865",
+      "size": "925",
+      "md5": "1fb7df9fd0c4ae5f137f007e951b2850",
+      "crc32": "fc9965f1",
+      "sha1": "e470bec8680e2eb31825ae9b2bd3e230d32349c2",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-07-26T07:10:59.502537-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658833867",
+      "size": "40779",
+      "md5": "489a07fef3c1f45416ac228e1499b346",
+      "crc32": "fcc4a72a",
+      "sha1": "da6ec0f07bde21c3976e933b8e9dcd3ba43fa76c",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-07-26T07:10:59.502537-04:00.jpg",
+      "source": "original",
+      "mtime": "1658833863",
+      "size": "314056",
+      "md5": "c1cefe48a696c48a902ea4dd70fc1c4c",
+      "crc32": "5a8fa405",
+      "sha1": "66a9da384d313ba9ce4b6a21d337bc0ae5907b92",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-07-26T07:10:59.502537-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658833869",
+      "size": "1576",
+      "md5": "68095c1ac77ed89ffa4fff56976bd57d",
+      "crc32": "338a53ac",
+      "sha1": "2a42e3575f719e7e5a02c8dc173a05979c42ddc0",
+      "format": "JSON"
+    },
+    {
       "name": "appalachia100-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b3575bdd783484bbea54156bbce84d8513326dff",
-      "mtime": "1658791121",
-      "size": "32883",
-      "md5": "c01136c1f07a5804eb2b3334628bff37",
-      "crc32": "ceeaf13d",
-      "sha1": "f438def8bcbc32d68394a219ce35d52701040681",
+      "btih": "cc4f296e87516e3d4fa3eed7c60bd3c1c479f655",
+      "mtime": "1658833906",
+      "size": "33756",
+      "md5": "cabc5a0e6795d4ad61a8d5914707cfb9",
+      "crc32": "2a9e09b1",
+      "sha1": "66bc941a37414bbfe2e31aaa0abb2b2a4b121bab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "appalachia100-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "70f2a57f0253ca8c76a08fd470819dd4",
+      "md5": "9024c51758108ff33f38d55b00dcaeb7",
       "summation": "md5"
     },
     {
       "name": "appalachia100-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658790371",
-      "size": "192512",
-      "md5": "2c7aaf23ec4e5126d9e41d90dec4ce7b",
-      "crc32": "8a33fae1",
-      "sha1": "74a24e38edd1e4d751df0fa6b598547b6a371ab4",
+      "mtime": "1658833871",
+      "size": "196608",
+      "md5": "dde7e67fd90489c9bfd82e0740abb1af",
+      "crc32": "e61b6641",
+      "sha1": "96c744df10528f1593c8ac3a5926faa055cee21e",
       "format": "Metadata"
     },
     {
@@ -1574,9 +1615,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 150,
-  "item_last_updated": 1658791121,
-  "item_size": 12863000,
+  "files_count": 154,
+  "item_last_updated": 1658833906,
+  "item_size": 13225305,
   "metadata": {
     "identifier": "appalachia100-2022",
     "collection": [
@@ -1593,10 +1634,21 @@
     "publicdate": "2022-07-09 03:55:39",
     "addeddate": "2022-07-09 03:55:39"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 1586674996,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3344283489,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 129857107,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

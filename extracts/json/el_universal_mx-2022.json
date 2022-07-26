@@ -1,49 +1,8 @@
 {
-  "created": 1658795368,
+  "created": 1658834368,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/el_universal_mx-2022",
-  "el_universal_mx-2022": [
-    {
-      "url": "https://www.eluniversal.com.mx/mobile",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eluniversal_com_mx-_mobile-2022_07_25_22_52_05.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eluniversal_com_mx-_mobile-2022_07_25_22_52_05.report.json",
-      "summary": {
-        "performance": 0.22,
-        "accessibility": 0.68,
-        "best-practices": 0.5,
-        "seo": 0.93,
-        "pwa": 0.5
-      }
-    },
-    {
-      "url": "https://www.eluniversal.com.mx/mobile",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eluniversal_com_mx-_mobile-2022_07_25_22_54_36.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eluniversal_com_mx-_mobile-2022_07_25_22_54_36.report.json",
-      "summary": {
-        "performance": 0.24,
-        "accessibility": 0.68,
-        "best-practices": 0.5,
-        "seo": 0.93,
-        "pwa": 0.5
-      }
-    },
-    {
-      "url": "https://www.eluniversal.com.mx/mobile",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eluniversal_com_mx-_mobile-2022_07_25_22_53_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eluniversal_com_mx-_mobile-2022_07_25_22_53_31.report.json",
-      "summary": {
-        "performance": 0.22,
-        "accessibility": 0.68,
-        "best-practices": 0.5,
-        "seo": 0.93,
-        "pwa": 0.5
-      }
-    }
-  ],
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -19301,31 +19260,72 @@
       "sha1": "f278af393836af20c613c3bd5e94123f63e3af3a"
     },
     {
+      "name": "el_universal_mx-2022-07-26T06:17:13.762963-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658834245",
+      "size": "50265",
+      "md5": "16d658fc81aee89eea50c15ff2b1a797",
+      "crc32": "2d4956bc",
+      "sha1": "e1ba55debbe75c30a5d8ab01333f60652e937b1a",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-07-26T06:17:13.762963-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658834247",
+      "size": "55610",
+      "md5": "7d2e8d626ad4e9b8a9567e15e98ef67e",
+      "crc32": "8b15c310",
+      "sha1": "ce2483ab2d6a8c9aa1f664e115a6f101228432d0",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-07-26T06:17:13.762963-05:00.jpg",
+      "source": "original",
+      "mtime": "1658834244",
+      "size": "315721",
+      "md5": "6a723a8ef9e7b41dbedc06a71637dad0",
+      "crc32": "9df27ca5",
+      "sha1": "93e07e632fdca44d5c272d7c64dc4a4148147bde",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_universal_mx-2022-07-26T06:17:13.762963-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658834248",
+      "size": "1581",
+      "md5": "ba285c03db2438a4f0ccae530f03e17e",
+      "crc32": "76e46248",
+      "sha1": "69a17bc3df10d626db4eb4b28a4c699e6455f60f",
+      "format": "JSON"
+    },
+    {
       "name": "el_universal_mx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a54094d8a9d3eb699a7712405be6eb0e4b3c2f5",
-      "mtime": "1658791860",
-      "size": "402179",
-      "md5": "678cd23cff068ad83294541e798fd0ef",
-      "crc32": "c6848d9e",
-      "sha1": "bb094967a983e6fe785e95e223491cdf7f6bbab4",
+      "btih": "8e25286df06617ad65533ba0064920b55944ec2d",
+      "mtime": "1658834359",
+      "size": "403042",
+      "md5": "32b5edbbef9cef1ee13ebc5fb760fc66",
+      "crc32": "3ca2778f",
+      "sha1": "2f3dff96d282ac3d1296fb7724133055390981a6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_universal_mx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b95bfce79ae5c6d79f61d8c7de333f1e",
+      "md5": "8cd534cfd37b2ef9e5dd208c82fcb23f",
       "summation": "md5"
     },
     {
       "name": "el_universal_mx-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658790830",
-      "size": "2125824",
-      "md5": "b26a2f7ddb89c10eaed1f5b3047162b6",
-      "crc32": "66d588fa",
-      "sha1": "62b61e3c951389e7cb1c3fa5f77275a43808d8ac",
+      "mtime": "1658834271",
+      "size": "2134016",
+      "md5": "83e8ecaf0b219ef64f5cf897090826c4",
+      "crc32": "1f30f8e5",
+      "sha1": "9909554b377d44088629229834f7be3ab2c9e155",
       "format": "Metadata"
     },
     {
@@ -19339,9 +19339,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1838,
-  "item_last_updated": 1658791860,
-  "item_size": 193880984,
+  "files_count": 1842,
+  "item_last_updated": 1658834359,
+  "item_size": 194313216,
   "metadata": {
     "identifier": "el_universal_mx-2022",
     "collection": [
@@ -19358,10 +19358,21 @@
     "publicdate": "2022-04-15 20:40:16",
     "addeddate": "2022-04-15 20:40:16"
   },
+  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "uniq": 80009330,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3344287309,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1248374078,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia902507.us.archive.org"
   ]
 }

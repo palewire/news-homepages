@@ -1,6 +1,5 @@
 {
-  "conflict": 1658795771,
-  "created": 1658795771,
+  "created": 1658838573,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/19/items/rawstory-2022",
@@ -1179,31 +1178,72 @@
       "sha1": "e4bde5f9a463d87b2a84ec017915756344f09bb7"
     },
     {
+      "name": "rawstory-2022-07-26T08:28:36.819119-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658838520",
+      "size": "32234",
+      "md5": "fbd2c584acbb774c8a4b54c2a5812c86",
+      "crc32": "a598cbef",
+      "sha1": "b9f0c6b2cd2048f578eedbb15200edd00739a8c9",
+      "format": "JSON"
+    },
+    {
+      "name": "rawstory-2022-07-26T08:28:36.819119-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658838525",
+      "size": "62159",
+      "md5": "ec24458d0940fd0a267a5392857eb382",
+      "crc32": "a2fed547",
+      "sha1": "843d399c6fc93cc6cd7515fab726c13a09cffcb5",
+      "format": "JSON"
+    },
+    {
+      "name": "rawstory-2022-07-26T08:28:36.819119-04:00.jpg",
+      "source": "original",
+      "mtime": "1658838518",
+      "size": "351322",
+      "md5": "c9c8d04b49b18911a013831bb1ddee2a",
+      "crc32": "c194a006",
+      "sha1": "eb421f24bf479a98fb9018beb9c46b12e124604e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rawstory-2022-07-26T08:28:36.819119-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658838527",
+      "size": "1477",
+      "md5": "9c1f8afb5b23cc1d146d1c9db6b2dba0",
+      "crc32": "4d51e529",
+      "sha1": "bca66d96d5e85633c69ccc68a09c88ab4ce90e88",
+      "format": "JSON"
+    },
+    {
       "name": "rawstory-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8ae1e1c36df0189e698cc008ed115659b0ddd2ff",
-      "mtime": "1658795769",
-      "size": "25116",
-      "md5": "c304fb779b613caedfb9742baafb9df9",
-      "crc32": "f0f01d16",
-      "sha1": "f4cd0e4ed467e7f71eaf7e6e6c3fde4862214b59",
+      "btih": "586f244250325700ef6f746d17d0d40abfcdcdb7",
+      "mtime": "1658838569",
+      "size": "25951",
+      "md5": "6367e5bc0dc4e4c4594ef5f205ad869c",
+      "crc32": "497d4fe4",
+      "sha1": "5057c2d595de72013928f7004b7440de3abab679",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rawstory-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "67a67b3df6129633a5ed663fcc6efca3",
+      "md5": "dc4cc7c893f225675c3ef1c6a6b8c5ae",
       "summation": "md5"
     },
     {
       "name": "rawstory-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658795059",
-      "size": "155648",
-      "md5": "87740ecec949bc4ba1a41ca9aef94d95",
-      "crc32": "52d50ab0",
-      "sha1": "18c344f71a386b8eeb45b36205beaac33fc86d23",
+      "mtime": "1658838531",
+      "size": "159744",
+      "md5": "ab227da9482e278689655c64c28422f4",
+      "crc32": "9cf1313b",
+      "sha1": "1483b99beaa7bbef54e43c224b55bf458b6da83f",
       "format": "Metadata"
     },
     {
@@ -1217,9 +1257,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 116,
-  "item_last_updated": 1658795769,
-  "item_size": 11573238,
+  "files_count": 120,
+  "item_last_updated": 1658838569,
+  "item_size": 12025361,
   "metadata": {
     "identifier": "rawstory-2022",
     "collection": [
@@ -1241,23 +1281,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3343832624,
+      "task_id": 3344325106,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3343842734,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 467652107,
+  "uniq": 218538038,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1658795377,
+  "created": 1658838259,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/2/items/espn-2022",
@@ -7,12 +7,12 @@
     {
       "url": "https://www.espn.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_07_25_11_46_08.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_07_25_11_46_08.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_07_26_02_24_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_07_26_02_24_17.report.json",
       "summary": {
-        "performance": 0.16,
+        "performance": 0.15,
         "accessibility": 0.83,
-        "best-practices": 0.5,
+        "best-practices": 0.67,
         "seo": 0.84,
         "pwa": 0.4
       }
@@ -20,12 +20,12 @@
     {
       "url": "https://www.espn.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_07_25_11_46_42.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_07_25_11_46_42.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_07_26_02_24_44.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_07_26_02_24_44.report.json",
       "summary": {
         "performance": 0.15,
         "accessibility": 0.83,
-        "best-practices": 0.5,
+        "best-practices": 0.67,
         "seo": 0.84,
         "pwa": 0.4
       }
@@ -33,12 +33,12 @@
     {
       "url": "https://www.espn.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_07_25_11_45_30.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_07_25_11_45_30.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_07_26_02_23_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_07_26_02_23_49.report.json",
       "summary": {
         "performance": 0.15,
         "accessibility": 0.83,
-        "best-practices": 0.5,
+        "best-practices": 0.67,
         "seo": 0.84,
         "pwa": 0.4
       }
@@ -1923,31 +1923,83 @@
       "sha1": "df993fb6cca4b1e1ebcd87df7d60d25098911096"
     },
     {
+      "name": "espn-2022-07-25T22:42:02.403560-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658803325",
+      "size": "35001",
+      "md5": "edd3b1683193e4c9ffbf26c22cbde879",
+      "crc32": "ab2edafb",
+      "sha1": "b8b06ed346d867e5a2e11d2edaf3263e8d3e046b",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-07-25T22:42:02.403560-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658803326",
+      "size": "112161",
+      "md5": "95a282dbe43e35789df900012d0ce2a3",
+      "crc32": "4181effd",
+      "sha1": "0831127112cbb06602f4a6a686e000e37ee6556b",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-07-25T22:42:02.403560-04:00.jpg",
+      "source": "original",
+      "mtime": "1658803323",
+      "size": "327819",
+      "md5": "2c645fb87e834bf0c67087e57483776d",
+      "crc32": "5dad93a2",
+      "sha1": "62a113b024adbee31c64fcc9abca559791641a30",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "espn-2022-07-25T22:42:02.403560-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658803328",
+      "size": "1441",
+      "md5": "3d07471fbea694ea6253b3a61833ef53",
+      "crc32": "a7952a96",
+      "sha1": "ed96792c13da84475258959ed48c581b80fa1815",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-07-25T22:42:02.403560-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "espn-2022-07-25T22:42:02.403560-04:00.jpg",
+      "mtime": "1658804601",
+      "size": "10418",
+      "md5": "098a944a440ff6b6153dde862ed71bdb",
+      "crc32": "2838565a",
+      "sha1": "0f761cb901e889fd3bcdd09955ec3cd1eb0c64f1"
+    },
+    {
       "name": "espn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "84ba0ececb5e15c599cb21f9958085bfb9ea1706",
-      "mtime": "1658758202",
-      "size": "38658",
-      "md5": "481e8f90f93bc5fb395946f5dce3f843",
-      "crc32": "5225b6dd",
-      "sha1": "1086fafc445fdf5194c54e708ecc43fbb30985e0",
+      "btih": "18e7347b7f20f993ae93b2622fa546b64593a31b",
+      "mtime": "1658804621",
+      "size": "39699",
+      "md5": "030a0c9dbee049c4126e214d65448c16",
+      "crc32": "0140ded0",
+      "sha1": "2d5521b3250a4273eb78de16dd07d5b28bcf08cf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "espn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ef235b2a05e2a2ee3dfdd74de83a7d00",
+      "md5": "f5355dc50a614a814159b66746657f40",
       "summation": "md5"
     },
     {
       "name": "espn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658750500",
-      "size": "225280",
-      "md5": "9c69497dfbfc6d6bac95d50bb9184e20",
-      "crc32": "d6b5058f",
-      "sha1": "07e4190800cd1dc373f5a8c4d412c9831441282d",
+      "mtime": "1658803334",
+      "size": "233472",
+      "md5": "db7586a243f071c395943edb20e3b15d",
+      "crc32": "4d290ac0",
+      "sha1": "43653fa3c2a3714dca7fbdfe12da2a4b9e60d754",
       "format": "Metadata"
     },
     {
@@ -1961,9 +2013,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 183,
-  "item_last_updated": 1658758202,
-  "item_size": 21229195,
+  "files_count": 188,
+  "item_last_updated": 1658804621,
+  "item_size": 21725268,
   "metadata": {
     "identifier": "espn-2022",
     "collection": [
@@ -1980,10 +2032,10 @@
     "publicdate": "2022-07-04 20:48:15",
     "addeddate": "2022-07-04 20:48:15"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 1734426672,
+  "server": "ia802503.us.archive.org",
+  "uniq": 509703206,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

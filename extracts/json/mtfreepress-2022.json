@@ -1,5 +1,5 @@
 {
-  "created": 1658762666,
+  "created": 1658805222,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/21/items/mtfreepress-2022",
@@ -1462,31 +1462,83 @@
       "sha1": "170ae09c7d50e35a925a7d5da9da07d91cd483c5"
     },
     {
+      "name": "mtfreepress-2022-07-25T21:48:19.514579-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658803702",
+      "size": "21008",
+      "md5": "6fb6254a2af8287abe86add3131f269b",
+      "crc32": "b8748b4b",
+      "sha1": "4d910cca9627cb9f4404ebd6eb3d505e47c5f310",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-07-25T21:48:19.514579-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658803704",
+      "size": "20823",
+      "md5": "005bdd03a34fb69d9ad8b376e518fd88",
+      "crc32": "ee52e0bc",
+      "sha1": "7b3d84caae16968313444caaeb9118cf729b98d3",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-07-25T21:48:19.514579-05:00.jpg",
+      "source": "original",
+      "mtime": "1658803700",
+      "size": "279008",
+      "md5": "520df3b0aebe6aef27e306eebc6d7191",
+      "crc32": "85c979c4",
+      "sha1": "0bb64266bf63b7c55dd73d374cc8681d878485f8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtfreepress-2022-07-25T21:48:19.514579-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658803706",
+      "size": "1513",
+      "md5": "36a64a2d69bc6e24111cd7ba4061cac6",
+      "crc32": "2d27ab26",
+      "sha1": "bf075b46dcf2acc6880e8d10a3a2a2bdfcad84c7",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-07-25T21:48:19.514579-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtfreepress-2022-07-25T21:48:19.514579-05:00.jpg",
+      "mtime": "1658805170",
+      "size": "9619",
+      "md5": "820f95f08caa9208f6edb3db173c34fe",
+      "crc32": "3ca30dc3",
+      "sha1": "d3301ad2fcdcdbe642f99db18c2d2570fc9cf918"
+    },
+    {
       "name": "mtfreepress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f7a803ac93a2206d35c0c11e9021f088b704857",
-      "mtime": "1658762651",
-      "size": "31111",
-      "md5": "2197833269cf9e8e74ff7e5281dfa25f",
-      "crc32": "4c5d8eb5",
-      "sha1": "433de4d6d16f4a5a489a0ee27908a70140bd5a7b",
+      "btih": "d78dd9c3e46a05a1eb396ad31a207bfd5298c57d",
+      "mtime": "1658805192",
+      "size": "32185",
+      "md5": "2cd0f12e864b534d21491dc5260a1cb2",
+      "crc32": "5ef6b3e1",
+      "sha1": "7b69ceb69b6d7ca0ac7bba6863f1b631314c0c28",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtfreepress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3c6dfeda6494b38b7ee133b773ee28ff",
+      "md5": "cf994e503b72db285afe5e4f2a9823ea",
       "summation": "md5"
     },
     {
       "name": "mtfreepress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658754929",
-      "size": "184320",
-      "md5": "a605cd6595d69e541e017fac728ce9c3",
-      "crc32": "9c552378",
-      "sha1": "0cafda985e70402e1d5f85bed26dc2c50be05741",
+      "mtime": "1658803710",
+      "size": "192512",
+      "md5": "92087d163d06297950ec9abc845efa58",
+      "crc32": "6f20b3cc",
+      "sha1": "1aadf676082c1727a551573ed9eee67996b6a2e4",
       "format": "Metadata"
     },
     {
@@ -1500,9 +1552,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 143,
-  "item_last_updated": 1658762651,
-  "item_size": 11479153,
+  "files_count": 148,
+  "item_last_updated": 1658805192,
+  "item_size": 11820390,
   "metadata": {
     "identifier": "mtfreepress-2022",
     "collection": [
@@ -1519,10 +1571,10 @@
     "publicdate": "2022-07-09 04:03:32",
     "addeddate": "2022-07-09 04:03:32"
   },
-  "server": "ia601507.us.archive.org",
-  "uniq": 1449505834,
+  "server": "ia801507.us.archive.org",
+  "uniq": 1795564895,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia801507.us.archive.org",
+    "ia601507.us.archive.org"
   ]
 }
