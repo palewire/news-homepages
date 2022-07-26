@@ -31,10 +31,10 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/lesoir-2022/lesoir-2022-07-26T04:46:46.113252+02:00.jpg">
   <img src="https://archive.org/download/lesoir-2022/lesoir-2022-07-26T04:46:46.113252+02:00.jpg"
-     alt="Le Soir at 2022-07-26 11:46:52+02:00 local time"
+     alt="Le Soir at 2022-07-26 04:46:52+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lesoir-2022/lesoir-2022-07-26T04:46:46.113252+02:00.jpg">July 26 at 11:46 AM</a></p>
+ <p><a href="https://archive.org/download/lesoir-2022/lesoir-2022-07-26T04:46:46.113252+02:00.jpg">July 26 at 4:46 AM</a></p>
 </div>
 
 </div>
@@ -49,7 +49,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 11:47:04 AM](https://archive.org/download/lesoir-2022/lesoir-2022-07-26T04:46:46.113252+02:00.hyperlinks.json) |
+| [July 26 at 4:47 AM](https://archive.org/download/lesoir-2022/lesoir-2022-07-26T04:46:46.113252+02:00.hyperlinks.json) |
 
 
 ## Internet Archive

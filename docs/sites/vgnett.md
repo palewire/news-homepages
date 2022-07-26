@@ -31,109 +31,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-26T06:00:26.797056+02:00.jpg">
   <img src="https://archive.org/download/vgnett-2022/vgnett-2022-07-26T06:00:26.797056+02:00.jpg"
-     alt="VG at 2022-07-26 13:00:28+02:00 local time"
+     alt="VG at 2022-07-26 06:00:28+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-26T06:00:26.797056+02:00.jpg">July 26 at 1:00 PM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-26T06:00:26.797056+02:00.jpg">July 26 at 6:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-25T17:51:40.973853+02:00.jpg">
   <img src="https://archive.org/download/vgnett-2022/vgnett-2022-07-25T17:51:40.973853+02:00.jpg"
-     alt="VG at 2022-07-26 00:51:43+02:00 local time"
+     alt="VG at 2022-07-25 17:51:43+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-25T17:51:40.973853+02:00.jpg">July 26 at 12:51 AM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-25T17:51:40.973853+02:00.jpg">July 25 at 5:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-25T06:40:02.679981+02:00.jpg">
   <img src="https://archive.org/download/vgnett-2022/vgnett-2022-07-25T06:40:02.679981+02:00.jpg"
-     alt="VG at 2022-07-25 13:40:05+02:00 local time"
+     alt="VG at 2022-07-25 06:40:05+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-25T06:40:02.679981+02:00.jpg">July 25 at 1:40 PM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-25T06:40:02.679981+02:00.jpg">July 25 at 6:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-24T17:09:53.623650+02:00.jpg">
   <img src="https://archive.org/download/vgnett-2022/vgnett-2022-07-24T17:09:53.623650+02:00.jpg"
-     alt="VG at 2022-07-25 00:09:55+02:00 local time"
+     alt="VG at 2022-07-24 17:09:55+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-24T17:09:53.623650+02:00.jpg">July 25 at 12:09 AM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-24T17:09:53.623650+02:00.jpg">July 24 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-24T05:45:49.866394+02:00.jpg">
   <img src="https://archive.org/download/vgnett-2022/vgnett-2022-07-24T05:45:49.866394+02:00.jpg"
-     alt="VG at 2022-07-24 12:45:51+02:00 local time"
+     alt="VG at 2022-07-24 05:45:51+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-24T05:45:49.866394+02:00.jpg">July 24 at 12:45 PM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-24T05:45:49.866394+02:00.jpg">July 24 at 5:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-23T18:08:17.911722+02:00.jpg">
   <img src="https://archive.org/download/vgnett-2022/vgnett-2022-07-23T18:08:17.911722+02:00.jpg"
-     alt="VG at 2022-07-24 01:08:20+02:00 local time"
+     alt="VG at 2022-07-23 18:08:20+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-23T18:08:17.911722+02:00.jpg">July 24 at 1:08 AM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-23T18:08:17.911722+02:00.jpg">July 23 at 6:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-23T06:28:06.205071+02:00.jpg">
   <img src="https://archive.org/download/vgnett-2022/vgnett-2022-07-23T06:28:06.205071+02:00.jpg"
-     alt="VG at 2022-07-23 13:28:07+02:00 local time"
+     alt="VG at 2022-07-23 06:28:07+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-23T06:28:06.205071+02:00.jpg">July 23 at 1:28 PM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-23T06:28:06.205071+02:00.jpg">July 23 at 6:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-22T18:21:08.485881+02:00.jpg">
   <img src="https://archive.org/download/vgnett-2022/vgnett-2022-07-22T18:21:08.485881+02:00.jpg"
-     alt="VG at 2022-07-23 01:21:10+02:00 local time"
+     alt="VG at 2022-07-22 18:21:10+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-22T18:21:08.485881+02:00.jpg">July 23 at 1:21 AM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-22T18:21:08.485881+02:00.jpg">July 22 at 6:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-22T06:34:52.512232+02:00.jpg">
   <img src="https://archive.org/download/vgnett-2022/vgnett-2022-07-22T06:34:52.512232+02:00.jpg"
-     alt="VG at 2022-07-22 13:34:55+02:00 local time"
+     alt="VG at 2022-07-22 06:34:55+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-22T06:34:52.512232+02:00.jpg">July 22 at 1:34 PM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-22T06:34:52.512232+02:00.jpg">July 22 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-21T18:58:04.240393+02:00.jpg">
   <img src="https://archive.org/download/vgnett-2022/vgnett-2022-07-21T18:58:04.240393+02:00.jpg"
-     alt="VG at 2022-07-22 01:58:05+02:00 local time"
+     alt="VG at 2022-07-21 18:58:05+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-21T18:58:04.240393+02:00.jpg">July 22 at 1:58 AM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-21T18:58:04.240393+02:00.jpg">July 21 at 6:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-21T06:32:32.539192+02:00.jpg">
   <img src="https://archive.org/download/vgnett-2022/vgnett-2022-07-21T06:32:32.539192+02:00.jpg"
-     alt="VG at 2022-07-21 13:32:34+02:00 local time"
+     alt="VG at 2022-07-21 06:32:34+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-21T06:32:32.539192+02:00.jpg">July 21 at 1:32 PM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-21T06:32:32.539192+02:00.jpg">July 21 at 6:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-20T18:49:18.815072+02:00.jpg">
   <img src="https://archive.org/download/vgnett-2022/vgnett-2022-07-20T18:49:18.815072+02:00.jpg"
-     alt="VG at 2022-07-21 01:49:20+02:00 local time"
+     alt="VG at 2022-07-20 18:49:20+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-20T18:49:18.815072+02:00.jpg">July 21 at 1:49 AM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-20T18:49:18.815072+02:00.jpg">July 20 at 6:49 PM</a></p>
 </div>
 
 </div>
@@ -148,16 +148,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 13:00:35 PM](https://archive.org/download/vgnett-2022/vgnett-2022-07-26T06:00:26.797056+02:00.hyperlinks.json) |
-| [2022-07-26 00:51:46 AM](https://archive.org/download/vgnett-2022/vgnett-2022-07-25T17:51:40.973853+02:00.hyperlinks.json) |
-| [2022-07-25 13:40:08 PM](https://archive.org/download/vgnett-2022/vgnett-2022-07-25T06:40:02.679981+02:00.hyperlinks.json) |
-| [2022-07-25 00:09:58 AM](https://archive.org/download/vgnett-2022/vgnett-2022-07-24T17:09:53.623650+02:00.hyperlinks.json) |
-| [2022-07-24 12:45:54 PM](https://archive.org/download/vgnett-2022/vgnett-2022-07-24T05:45:49.866394+02:00.hyperlinks.json) |
-| [2022-07-24 01:08:23 AM](https://archive.org/download/vgnett-2022/vgnett-2022-07-23T18:08:17.911722+02:00.hyperlinks.json) |
-| [2022-07-23 13:28:10 PM](https://archive.org/download/vgnett-2022/vgnett-2022-07-23T06:28:06.205071+02:00.hyperlinks.json) |
-| [2022-07-23 01:21:13 AM](https://archive.org/download/vgnett-2022/vgnett-2022-07-22T18:21:08.485881+02:00.hyperlinks.json) |
-| [2022-07-22 13:35:00 PM](https://archive.org/download/vgnett-2022/vgnett-2022-07-22T06:34:52.512232+02:00.hyperlinks.json) |
-| [2022-07-22 01:58:10 AM](https://archive.org/download/vgnett-2022/vgnett-2022-07-21T18:58:04.240393+02:00.hyperlinks.json) |
+| [July 26 at 6:00 AM](https://archive.org/download/vgnett-2022/vgnett-2022-07-26T06:00:26.797056+02:00.hyperlinks.json) |
+| [July 25 at 5:51 PM](https://archive.org/download/vgnett-2022/vgnett-2022-07-25T17:51:40.973853+02:00.hyperlinks.json) |
+| [July 25 at 6:40 AM](https://archive.org/download/vgnett-2022/vgnett-2022-07-25T06:40:02.679981+02:00.hyperlinks.json) |
+| [July 24 at 5:09 PM](https://archive.org/download/vgnett-2022/vgnett-2022-07-24T17:09:53.623650+02:00.hyperlinks.json) |
+| [July 24 at 5:45 AM](https://archive.org/download/vgnett-2022/vgnett-2022-07-24T05:45:49.866394+02:00.hyperlinks.json) |
+| [July 23 at 6:08 PM](https://archive.org/download/vgnett-2022/vgnett-2022-07-23T18:08:17.911722+02:00.hyperlinks.json) |
+| [July 23 at 6:28 AM](https://archive.org/download/vgnett-2022/vgnett-2022-07-23T06:28:06.205071+02:00.hyperlinks.json) |
+| [July 22 at 6:21 PM](https://archive.org/download/vgnett-2022/vgnett-2022-07-22T18:21:08.485881+02:00.hyperlinks.json) |
+| [July 22 at 6:35 AM](https://archive.org/download/vgnett-2022/vgnett-2022-07-22T06:34:52.512232+02:00.hyperlinks.json) |
+| [July 21 at 6:58 PM](https://archive.org/download/vgnett-2022/vgnett-2022-07-21T18:58:04.240393+02:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -31,28 +31,28 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T14:24:20.713952+02:00.jpg">
   <img src="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T14:24:20.713952+02:00.jpg"
-     alt="Mediapart at 2022-07-26 21:24:22+02:00 local time"
+     alt="Mediapart at 2022-07-26 14:24:22+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T14:24:20.713952+02:00.jpg">July 26 at 9:24 PM</a></p>
+ <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T14:24:20.713952+02:00.jpg">July 26 at 2:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T10:09:14.858679+02:00.jpg">
   <img src="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T10:09:14.858679+02:00.jpg"
-     alt="Mediapart at 2022-07-26 17:09:16+02:00 local time"
+     alt="Mediapart at 2022-07-26 10:09:16+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T10:09:14.858679+02:00.jpg">July 26 at 5:09 PM</a></p>
+ <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T10:09:14.858679+02:00.jpg">July 26 at 10:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.jpg">
   <img src="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.jpg"
-     alt="Mediapart at 2022-07-26 09:19:36+02:00 local time"
+     alt="Mediapart at 2022-07-26 02:19:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.jpg">July 26 at 9:19 AM</a></p>
+ <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.jpg">July 26 at 2:19 AM</a></p>
 </div>
 
 </div>
@@ -67,9 +67,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 21:24:25 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T14:24:20.713952+02:00.hyperlinks.json) |
-| [2022-07-26 17:09:18 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T10:09:14.858679+02:00.hyperlinks.json) |
-| [2022-07-26 09:19:52 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.hyperlinks.json) |
+| [July 26 at 2:24 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T14:24:20.713952+02:00.hyperlinks.json) |
+| [July 26 at 10:09 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T10:09:14.858679+02:00.hyperlinks.json) |
+| [July 26 at 2:19 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.hyperlinks.json) |
 
 
 ## Internet Archive

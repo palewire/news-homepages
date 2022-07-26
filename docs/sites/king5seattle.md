@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-26T05:22:29.941003-07:00.jpg">
   <img src="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-26T05:22:29.941003-07:00.jpg"
-     alt="KING5 at 2022-07-26 12:22:36-07:00 local time"
+     alt="KING5 at 2022-07-26 05:22:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-26T05:22:29.941003-07:00.jpg">July 26 at 12:22 PM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-26T05:22:29.941003-07:00.jpg">July 26 at 5:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-25T17:17:24.516283-07:00.jpg">
   <img src="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-25T17:17:24.516283-07:00.jpg"
-     alt="KING5 at 2022-07-26 00:17:27-07:00 local time"
+     alt="KING5 at 2022-07-25 17:17:27-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-25T17:17:24.516283-07:00.jpg">July 26 at 12:17 AM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-25T17:17:24.516283-07:00.jpg">July 25 at 5:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-25T06:11:13.732150-07:00.jpg">
   <img src="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-25T06:11:13.732150-07:00.jpg"
-     alt="KING5 at 2022-07-25 13:11:15-07:00 local time"
+     alt="KING5 at 2022-07-25 06:11:15-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-25T06:11:13.732150-07:00.jpg">July 25 at 1:11 PM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-25T06:11:13.732150-07:00.jpg">July 25 at 6:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-24T20:26:23.081396-07:00.jpg">
   <img src="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-24T20:26:23.081396-07:00.jpg"
-     alt="KING5 at 2022-07-25 03:26:24-07:00 local time"
+     alt="KING5 at 2022-07-24 20:26:24-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-24T20:26:23.081396-07:00.jpg">July 25 at 3:26 AM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-24T20:26:23.081396-07:00.jpg">July 24 at 8:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-24T06:00:13.357206-07:00.jpg">
   <img src="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-24T06:00:13.357206-07:00.jpg"
-     alt="KING5 at 2022-07-24 13:00:14-07:00 local time"
+     alt="KING5 at 2022-07-24 06:00:14-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-24T06:00:13.357206-07:00.jpg">July 24 at 1:00 PM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-24T06:00:13.357206-07:00.jpg">July 24 at 6:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-23T21:15:42.171005-07:00.jpg">
   <img src="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-23T21:15:42.171005-07:00.jpg"
-     alt="KING5 at 2022-07-24 04:15:46-07:00 local time"
+     alt="KING5 at 2022-07-23 21:15:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-23T21:15:42.171005-07:00.jpg">July 24 at 4:15 AM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-23T21:15:42.171005-07:00.jpg">July 23 at 9:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-23T07:05:03.402094-07:00.jpg">
   <img src="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-23T07:05:03.402094-07:00.jpg"
-     alt="KING5 at 2022-07-23 14:05:05-07:00 local time"
+     alt="KING5 at 2022-07-23 07:05:05-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-23T07:05:03.402094-07:00.jpg">July 23 at 2:05 PM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-23T07:05:03.402094-07:00.jpg">July 23 at 7:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-22T19:31:18.047293-07:00.jpg">
   <img src="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-22T19:31:18.047293-07:00.jpg"
-     alt="KING5 at 2022-07-23 02:31:20-07:00 local time"
+     alt="KING5 at 2022-07-22 19:31:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-22T19:31:18.047293-07:00.jpg">July 23 at 2:31 AM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-22T19:31:18.047293-07:00.jpg">July 22 at 7:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-22T07:06:14.844242-07:00.jpg">
   <img src="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-22T07:06:14.844242-07:00.jpg"
-     alt="KING5 at 2022-07-22 14:06:17-07:00 local time"
+     alt="KING5 at 2022-07-22 07:06:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-22T07:06:14.844242-07:00.jpg">July 22 at 2:06 PM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-22T07:06:14.844242-07:00.jpg">July 22 at 7:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-21T19:24:57.096092-07:00.jpg">
   <img src="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-21T19:24:57.096092-07:00.jpg"
-     alt="KING5 at 2022-07-22 02:25:00-07:00 local time"
+     alt="KING5 at 2022-07-21 19:25:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-21T19:24:57.096092-07:00.jpg">July 22 at 2:25 AM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-21T19:24:57.096092-07:00.jpg">July 21 at 7:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-21T07:18:05.602288-07:00.jpg">
   <img src="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-21T07:18:05.602288-07:00.jpg"
-     alt="KING5 at 2022-07-21 14:18:08-07:00 local time"
+     alt="KING5 at 2022-07-21 07:18:08-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-21T07:18:05.602288-07:00.jpg">July 21 at 2:18 PM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-21T07:18:05.602288-07:00.jpg">July 21 at 7:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-20T19:27:33.504802-07:00.jpg">
   <img src="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-20T19:27:33.504802-07:00.jpg"
-     alt="KING5 at 2022-07-21 02:27:36-07:00 local time"
+     alt="KING5 at 2022-07-20 19:27:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-20T19:27:33.504802-07:00.jpg">July 21 at 2:27 AM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-20T19:27:33.504802-07:00.jpg">July 20 at 7:27 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 12:22:45 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-26T05:22:29.941003-07:00.hyperlinks.json) |
-| [2022-07-26 00:17:30 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-25T17:17:24.516283-07:00.hyperlinks.json) |
-| [2022-07-25 13:11:18 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-25T06:11:13.732150-07:00.hyperlinks.json) |
-| [2022-07-25 03:26:28 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-24T20:26:23.081396-07:00.hyperlinks.json) |
-| [2022-07-24 13:00:16 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-24T06:00:13.357206-07:00.hyperlinks.json) |
-| [2022-07-24 04:15:49 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-23T21:15:42.171005-07:00.hyperlinks.json) |
-| [2022-07-23 14:05:08 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-23T07:05:03.402094-07:00.hyperlinks.json) |
-| [2022-07-23 02:31:24 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-22T19:31:18.047293-07:00.hyperlinks.json) |
-| [2022-07-22 14:06:20 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-22T07:06:14.844242-07:00.hyperlinks.json) |
-| [2022-07-22 02:25:06 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-21T19:24:57.096092-07:00.hyperlinks.json) |
+| [July 26 at 5:22 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-26T05:22:29.941003-07:00.hyperlinks.json) |
+| [July 25 at 5:17 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-25T17:17:24.516283-07:00.hyperlinks.json) |
+| [July 25 at 6:11 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-25T06:11:13.732150-07:00.hyperlinks.json) |
+| [July 24 at 8:26 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-24T20:26:23.081396-07:00.hyperlinks.json) |
+| [July 24 at 6:00 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-24T06:00:13.357206-07:00.hyperlinks.json) |
+| [July 23 at 9:15 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-23T21:15:42.171005-07:00.hyperlinks.json) |
+| [July 23 at 7:05 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-23T07:05:03.402094-07:00.hyperlinks.json) |
+| [July 22 at 7:31 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-22T19:31:18.047293-07:00.hyperlinks.json) |
+| [July 22 at 7:06 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-22T07:06:14.844242-07:00.hyperlinks.json) |
+| [July 21 at 7:25 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-21T19:24:57.096092-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

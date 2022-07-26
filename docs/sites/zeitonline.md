@@ -31,10 +31,10 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-07-26T06:02:34.355483+02:00.jpg">
   <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-07-26T06:02:34.355483+02:00.jpg"
-     alt="Zeit at 2022-07-26 13:02:40+02:00 local time"
+     alt="Zeit at 2022-07-26 06:02:40+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-07-26T06:02:34.355483+02:00.jpg">July 26 at 1:02 PM</a></p>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-07-26T06:02:34.355483+02:00.jpg">July 26 at 6:02 AM</a></p>
 </div>
 
 </div>
@@ -49,7 +49,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 13:02:56 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-26T06:02:34.355483+02:00.hyperlinks.json) |
+| [July 26 at 6:02 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-26T06:02:34.355483+02:00.hyperlinks.json) |
 
 
 ## Internet Archive

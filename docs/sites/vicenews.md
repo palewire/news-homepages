@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-25T22:54:06.948366-04:00.jpg">
   <img src="https://archive.org/download/vicenews-2022/vicenews-2022-07-25T22:54:06.948366-04:00.jpg"
-     alt="Vice News at 2022-07-26 05:54:08-04:00 local time"
+     alt="Vice News at 2022-07-25 22:54:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-25T22:54:06.948366-04:00.jpg">July 26 at 5:54 AM</a></p>
+ <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-25T22:54:06.948366-04:00.jpg">July 25 at 10:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-25T21:38:05.093593-04:00.jpg">
   <img src="https://archive.org/download/vicenews-2022/vicenews-2022-07-25T21:38:05.093593-04:00.jpg"
-     alt="Vice News at 2022-07-26 04:38:06-04:00 local time"
+     alt="Vice News at 2022-07-25 21:38:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-25T21:38:05.093593-04:00.jpg">July 26 at 4:38 AM</a></p>
+ <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-25T21:38:05.093593-04:00.jpg">July 25 at 9:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-25T11:52:08.101767-04:00.jpg">
   <img src="https://archive.org/download/vicenews-2022/vicenews-2022-07-25T11:52:08.101767-04:00.jpg"
-     alt="Vice News at 2022-07-25 18:52:14-04:00 local time"
+     alt="Vice News at 2022-07-25 11:52:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-25T11:52:08.101767-04:00.jpg">July 25 at 6:52 PM</a></p>
+ <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-25T11:52:08.101767-04:00.jpg">July 25 at 11:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-25T00:39:56.188672-04:00.jpg">
   <img src="https://archive.org/download/vicenews-2022/vicenews-2022-07-25T00:39:56.188672-04:00.jpg"
-     alt="Vice News at 2022-07-25 07:40:01-04:00 local time"
+     alt="Vice News at 2022-07-25 00:40:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-25T00:39:56.188672-04:00.jpg">July 25 at 7:40 AM</a></p>
+ <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-25T00:39:56.188672-04:00.jpg">July 25 at 12:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-24T11:10:25.054205-04:00.jpg">
   <img src="https://archive.org/download/vicenews-2022/vicenews-2022-07-24T11:10:25.054205-04:00.jpg"
-     alt="Vice News at 2022-07-24 18:10:31-04:00 local time"
+     alt="Vice News at 2022-07-24 11:10:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-24T11:10:25.054205-04:00.jpg">July 24 at 6:10 PM</a></p>
+ <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-24T11:10:25.054205-04:00.jpg">July 24 at 11:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-23T23:45:55.195264-04:00.jpg">
   <img src="https://archive.org/download/vicenews-2022/vicenews-2022-07-23T23:45:55.195264-04:00.jpg"
-     alt="Vice News at 2022-07-24 06:45:56-04:00 local time"
+     alt="Vice News at 2022-07-23 23:45:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-23T23:45:55.195264-04:00.jpg">July 24 at 6:45 AM</a></p>
+ <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-23T23:45:55.195264-04:00.jpg">July 23 at 11:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-23T12:08:15.245618-04:00.jpg">
   <img src="https://archive.org/download/vicenews-2022/vicenews-2022-07-23T12:08:15.245618-04:00.jpg"
-     alt="Vice News at 2022-07-23 19:08:18-04:00 local time"
+     alt="Vice News at 2022-07-23 12:08:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-23T12:08:15.245618-04:00.jpg">July 23 at 7:08 PM</a></p>
+ <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-23T12:08:15.245618-04:00.jpg">July 23 at 12:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-23T00:28:18.834726-04:00.jpg">
   <img src="https://archive.org/download/vicenews-2022/vicenews-2022-07-23T00:28:18.834726-04:00.jpg"
-     alt="Vice News at 2022-07-23 07:28:20-04:00 local time"
+     alt="Vice News at 2022-07-23 00:28:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-23T00:28:18.834726-04:00.jpg">July 23 at 7:28 AM</a></p>
+ <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-23T00:28:18.834726-04:00.jpg">July 23 at 12:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-22T12:21:29.912890-04:00.jpg">
   <img src="https://archive.org/download/vicenews-2022/vicenews-2022-07-22T12:21:29.912890-04:00.jpg"
-     alt="Vice News at 2022-07-22 19:21:31-04:00 local time"
+     alt="Vice News at 2022-07-22 12:21:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-22T12:21:29.912890-04:00.jpg">July 22 at 7:21 PM</a></p>
+ <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-22T12:21:29.912890-04:00.jpg">July 22 at 12:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-22T00:34:51.014123-04:00.jpg">
   <img src="https://archive.org/download/vicenews-2022/vicenews-2022-07-22T00:34:51.014123-04:00.jpg"
-     alt="Vice News at 2022-07-22 07:34:52-04:00 local time"
+     alt="Vice News at 2022-07-22 00:34:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-22T00:34:51.014123-04:00.jpg">July 22 at 7:34 AM</a></p>
+ <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-22T00:34:51.014123-04:00.jpg">July 22 at 12:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-21T12:59:15.874333-04:00.jpg">
   <img src="https://archive.org/download/vicenews-2022/vicenews-2022-07-21T12:59:15.874333-04:00.jpg"
-     alt="Vice News at 2022-07-21 19:59:18-04:00 local time"
+     alt="Vice News at 2022-07-21 12:59:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-21T12:59:15.874333-04:00.jpg">July 21 at 7:59 PM</a></p>
+ <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-21T12:59:15.874333-04:00.jpg">July 21 at 12:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-21T00:32:38.412380-04:00.jpg">
   <img src="https://archive.org/download/vicenews-2022/vicenews-2022-07-21T00:32:38.412380-04:00.jpg"
-     alt="Vice News at 2022-07-21 07:32:39-04:00 local time"
+     alt="Vice News at 2022-07-21 00:32:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-21T00:32:38.412380-04:00.jpg">July 21 at 7:32 AM</a></p>
+ <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-21T00:32:38.412380-04:00.jpg">July 21 at 12:32 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 05:54:12 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-25T22:54:06.948366-04:00.hyperlinks.json) |
-| [2022-07-26 04:38:10 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-25T21:38:05.093593-04:00.hyperlinks.json) |
-| [2022-07-25 18:52:17 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-25T11:52:08.101767-04:00.hyperlinks.json) |
-| [2022-07-25 07:40:04 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-25T00:39:56.188672-04:00.hyperlinks.json) |
-| [2022-07-24 18:10:34 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-24T11:10:25.054205-04:00.hyperlinks.json) |
-| [2022-07-24 06:45:59 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-23T23:45:55.195264-04:00.hyperlinks.json) |
-| [2022-07-23 19:08:21 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-23T12:08:15.245618-04:00.hyperlinks.json) |
-| [2022-07-23 07:28:23 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-23T00:28:18.834726-04:00.hyperlinks.json) |
-| [2022-07-22 19:21:34 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-22T12:21:29.912890-04:00.hyperlinks.json) |
-| [2022-07-22 07:34:56 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-22T00:34:51.014123-04:00.hyperlinks.json) |
+| [July 25 at 10:54 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-25T22:54:06.948366-04:00.hyperlinks.json) |
+| [July 25 at 9:38 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-25T21:38:05.093593-04:00.hyperlinks.json) |
+| [July 25 at 11:52 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-25T11:52:08.101767-04:00.hyperlinks.json) |
+| [July 25 at 12:40 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-25T00:39:56.188672-04:00.hyperlinks.json) |
+| [July 24 at 11:10 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-24T11:10:25.054205-04:00.hyperlinks.json) |
+| [July 23 at 11:45 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-23T23:45:55.195264-04:00.hyperlinks.json) |
+| [July 23 at 12:08 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-23T12:08:15.245618-04:00.hyperlinks.json) |
+| [July 23 at 12:28 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-23T00:28:18.834726-04:00.hyperlinks.json) |
+| [July 22 at 12:21 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-22T12:21:29.912890-04:00.hyperlinks.json) |
+| [July 22 at 12:34 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-22T00:34:51.014123-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

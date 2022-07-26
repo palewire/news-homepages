@@ -31,37 +31,37 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-26T08:31:27.519654+05:45.jpg">
   <img src="https://archive.org/download/lokpath-2022/lokpath-2022-07-26T08:31:27.519654+05:45.jpg"
-     alt="Lokpath at 2022-07-26 15:31:29+05:45 local time"
+     alt="Lokpath at 2022-07-26 08:31:29+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-26T08:31:27.519654+05:45.jpg">July 26 at 3:31 PM</a></p>
+ <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-26T08:31:27.519654+05:45.jpg">July 26 at 8:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T18:58:47.659810+05:45.jpg">
   <img src="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T18:58:47.659810+05:45.jpg"
-     alt="Lokpath at 2022-07-26 01:58:48+05:45 local time"
+     alt="Lokpath at 2022-07-25 18:58:48+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T18:58:47.659810+05:45.jpg">July 26 at 1:58 AM</a></p>
+ <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T18:58:47.659810+05:45.jpg">July 25 at 6:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T09:15:17.705011+05:45.jpg">
   <img src="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T09:15:17.705011+05:45.jpg"
-     alt="Lokpath at 2022-07-25 16:15:18+05:45 local time"
+     alt="Lokpath at 2022-07-25 09:15:18+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T09:15:17.705011+05:45.jpg">July 25 at 4:15 PM</a></p>
+ <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T09:15:17.705011+05:45.jpg">July 25 at 9:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T02:22:58.745553+05:45.jpg">
   <img src="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T02:22:58.745553+05:45.jpg"
-     alt="Lokpath at 2022-07-25 09:23:04+05:45 local time"
+     alt="Lokpath at 2022-07-25 02:23:04+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T02:22:58.745553+05:45.jpg">July 25 at 9:23 AM</a></p>
+ <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T02:22:58.745553+05:45.jpg">July 25 at 2:23 AM</a></p>
 </div>
 
 </div>
@@ -76,10 +76,10 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 15:31:30 PM](https://archive.org/download/lokpath-2022/lokpath-2022-07-26T08:31:27.519654+05:45.hyperlinks.json) |
-| [2022-07-26 01:58:51 AM](https://archive.org/download/lokpath-2022/lokpath-2022-07-25T18:58:47.659810+05:45.hyperlinks.json) |
-| [2022-07-25 16:15:21 PM](https://archive.org/download/lokpath-2022/lokpath-2022-07-25T09:15:17.705011+05:45.hyperlinks.json) |
-| [2022-07-25 09:23:17 AM](https://archive.org/download/lokpath-2022/lokpath-2022-07-25T02:22:58.745553+05:45.hyperlinks.json) |
+| [July 26 at 8:31 AM](https://archive.org/download/lokpath-2022/lokpath-2022-07-26T08:31:27.519654+05:45.hyperlinks.json) |
+| [July 25 at 6:58 PM](https://archive.org/download/lokpath-2022/lokpath-2022-07-25T18:58:47.659810+05:45.hyperlinks.json) |
+| [July 25 at 9:15 AM](https://archive.org/download/lokpath-2022/lokpath-2022-07-25T09:15:17.705011+05:45.hyperlinks.json) |
+| [July 25 at 2:23 AM](https://archive.org/download/lokpath-2022/lokpath-2022-07-25T02:22:58.745553+05:45.hyperlinks.json) |
 
 
 ## Internet Archive

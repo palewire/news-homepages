@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-26T08:18:48.060148-04:00.jpg">
   <img src="https://archive.org/download/humanevents-2022/humanevents-2022-07-26T08:18:48.060148-04:00.jpg"
-     alt="Human Events at 2022-07-26 15:18:54-04:00 local time"
+     alt="Human Events at 2022-07-26 08:18:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-26T08:18:48.060148-04:00.jpg">July 26 at 3:18 PM</a></p>
+ <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-26T08:18:48.060148-04:00.jpg">July 26 at 8:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T20:15:24.905594-04:00.jpg">
   <img src="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T20:15:24.905594-04:00.jpg"
-     alt="Human Events at 2022-07-26 03:15:28-04:00 local time"
+     alt="Human Events at 2022-07-25 20:15:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T20:15:24.905594-04:00.jpg">July 26 at 3:15 AM</a></p>
+ <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T20:15:24.905594-04:00.jpg">July 25 at 8:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T14:38:27.469077-04:00.jpg">
   <img src="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T14:38:27.469077-04:00.jpg"
-     alt="Human Events at 2022-07-25 21:38:32-04:00 local time"
+     alt="Human Events at 2022-07-25 14:38:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T14:38:27.469077-04:00.jpg">July 25 at 9:38 PM</a></p>
+ <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T14:38:27.469077-04:00.jpg">July 25 at 2:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T12:41:35.504771-04:00.jpg">
   <img src="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T12:41:35.504771-04:00.jpg"
-     alt="Human Events at 2022-07-25 19:41:36-04:00 local time"
+     alt="Human Events at 2022-07-25 12:41:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T12:41:35.504771-04:00.jpg">July 25 at 7:41 PM</a></p>
+ <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T12:41:35.504771-04:00.jpg">July 25 at 12:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T08:06:24.708812-04:00.jpg">
   <img src="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T08:06:24.708812-04:00.jpg"
-     alt="Human Events at 2022-07-25 15:06:29-04:00 local time"
+     alt="Human Events at 2022-07-25 08:06:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T08:06:24.708812-04:00.jpg">July 25 at 3:06 PM</a></p>
+ <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T08:06:24.708812-04:00.jpg">July 25 at 8:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-24T21:11:14.879704-04:00.jpg">
   <img src="https://archive.org/download/humanevents-2022/humanevents-2022-07-24T21:11:14.879704-04:00.jpg"
-     alt="Human Events at 2022-07-25 04:11:16-04:00 local time"
+     alt="Human Events at 2022-07-24 21:11:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-24T21:11:14.879704-04:00.jpg">July 25 at 4:11 AM</a></p>
+ <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-24T21:11:14.879704-04:00.jpg">July 24 at 9:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-24T11:44:37.233709-04:00.jpg">
   <img src="https://archive.org/download/humanevents-2022/humanevents-2022-07-24T11:44:37.233709-04:00.jpg"
-     alt="Human Events at 2022-07-24 18:44:38-04:00 local time"
+     alt="Human Events at 2022-07-24 11:44:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-24T11:44:37.233709-04:00.jpg">July 24 at 6:44 PM</a></p>
+ <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-24T11:44:37.233709-04:00.jpg">July 24 at 11:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-24T08:02:47.593828-04:00.jpg">
   <img src="https://archive.org/download/humanevents-2022/humanevents-2022-07-24T08:02:47.593828-04:00.jpg"
-     alt="Human Events at 2022-07-24 15:02:53-04:00 local time"
+     alt="Human Events at 2022-07-24 08:02:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-24T08:02:47.593828-04:00.jpg">July 24 at 3:02 PM</a></p>
+ <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-24T08:02:47.593828-04:00.jpg">July 24 at 8:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-24T02:32:58.840941-04:00.jpg">
   <img src="https://archive.org/download/humanevents-2022/humanevents-2022-07-24T02:32:58.840941-04:00.jpg"
-     alt="Human Events at 2022-07-24 09:33:03-04:00 local time"
+     alt="Human Events at 2022-07-24 02:33:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-24T02:32:58.840941-04:00.jpg">July 24 at 9:33 AM</a></p>
+ <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-24T02:32:58.840941-04:00.jpg">July 24 at 2:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-23T12:11:26.690630-04:00.jpg">
   <img src="https://archive.org/download/humanevents-2022/humanevents-2022-07-23T12:11:26.690630-04:00.jpg"
-     alt="Human Events at 2022-07-23 19:11:28-04:00 local time"
+     alt="Human Events at 2022-07-23 12:11:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-23T12:11:26.690630-04:00.jpg">July 23 at 7:11 PM</a></p>
+ <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-23T12:11:26.690630-04:00.jpg">July 23 at 12:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-23T10:02:33.463235-04:00.jpg">
   <img src="https://archive.org/download/humanevents-2022/humanevents-2022-07-23T10:02:33.463235-04:00.jpg"
-     alt="Human Events at 2022-07-23 17:02:39-04:00 local time"
+     alt="Human Events at 2022-07-23 10:02:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-23T10:02:33.463235-04:00.jpg">July 23 at 5:02 PM</a></p>
+ <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-23T10:02:33.463235-04:00.jpg">July 23 at 10:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-22T22:28:20.723554-04:00.jpg">
   <img src="https://archive.org/download/humanevents-2022/humanevents-2022-07-22T22:28:20.723554-04:00.jpg"
-     alt="Human Events at 2022-07-23 05:28:22-04:00 local time"
+     alt="Human Events at 2022-07-22 22:28:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-22T22:28:20.723554-04:00.jpg">July 23 at 5:28 AM</a></p>
+ <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-22T22:28:20.723554-04:00.jpg">July 22 at 10:28 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 15:18:58 PM](https://archive.org/download/humanevents-2022/humanevents-2022-07-26T08:18:48.060148-04:00.hyperlinks.json) |
-| [2022-07-26 03:15:31 AM](https://archive.org/download/humanevents-2022/humanevents-2022-07-25T20:15:24.905594-04:00.hyperlinks.json) |
-| [2022-07-25 21:38:35 PM](https://archive.org/download/humanevents-2022/humanevents-2022-07-25T14:38:27.469077-04:00.hyperlinks.json) |
-| [2022-07-25 19:41:40 PM](https://archive.org/download/humanevents-2022/humanevents-2022-07-25T12:41:35.504771-04:00.hyperlinks.json) |
-| [2022-07-25 15:06:32 PM](https://archive.org/download/humanevents-2022/humanevents-2022-07-25T08:06:24.708812-04:00.hyperlinks.json) |
-| [2022-07-25 04:11:20 AM](https://archive.org/download/humanevents-2022/humanevents-2022-07-24T21:11:14.879704-04:00.hyperlinks.json) |
-| [2022-07-24 18:44:41 PM](https://archive.org/download/humanevents-2022/humanevents-2022-07-24T11:44:37.233709-04:00.hyperlinks.json) |
-| [2022-07-24 15:02:56 PM](https://archive.org/download/humanevents-2022/humanevents-2022-07-24T08:02:47.593828-04:00.hyperlinks.json) |
-| [2022-07-24 09:33:06 AM](https://archive.org/download/humanevents-2022/humanevents-2022-07-24T02:32:58.840941-04:00.hyperlinks.json) |
-| [2022-07-23 19:11:32 PM](https://archive.org/download/humanevents-2022/humanevents-2022-07-23T12:11:26.690630-04:00.hyperlinks.json) |
+| [July 26 at 8:18 AM](https://archive.org/download/humanevents-2022/humanevents-2022-07-26T08:18:48.060148-04:00.hyperlinks.json) |
+| [July 25 at 8:15 PM](https://archive.org/download/humanevents-2022/humanevents-2022-07-25T20:15:24.905594-04:00.hyperlinks.json) |
+| [July 25 at 2:38 PM](https://archive.org/download/humanevents-2022/humanevents-2022-07-25T14:38:27.469077-04:00.hyperlinks.json) |
+| [July 25 at 12:41 PM](https://archive.org/download/humanevents-2022/humanevents-2022-07-25T12:41:35.504771-04:00.hyperlinks.json) |
+| [July 25 at 8:06 AM](https://archive.org/download/humanevents-2022/humanevents-2022-07-25T08:06:24.708812-04:00.hyperlinks.json) |
+| [July 24 at 9:11 PM](https://archive.org/download/humanevents-2022/humanevents-2022-07-24T21:11:14.879704-04:00.hyperlinks.json) |
+| [July 24 at 11:44 AM](https://archive.org/download/humanevents-2022/humanevents-2022-07-24T11:44:37.233709-04:00.hyperlinks.json) |
+| [July 24 at 8:02 AM](https://archive.org/download/humanevents-2022/humanevents-2022-07-24T08:02:47.593828-04:00.hyperlinks.json) |
+| [July 24 at 2:33 AM](https://archive.org/download/humanevents-2022/humanevents-2022-07-24T02:32:58.840941-04:00.hyperlinks.json) |
+| [July 23 at 12:11 PM](https://archive.org/download/humanevents-2022/humanevents-2022-07-23T12:11:26.690630-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

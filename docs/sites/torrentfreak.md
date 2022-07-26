@@ -31,28 +31,28 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-25T21:00:55.529052-07:00.jpg">
   <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-25T21:00:55.529052-07:00.jpg"
-     alt="TorrentFreak at 2022-07-26 04:00:57-07:00 local time"
+     alt="TorrentFreak at 2022-07-25 21:00:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-25T21:00:55.529052-07:00.jpg">July 26 at 4:00 AM</a></p>
+ <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-25T21:00:55.529052-07:00.jpg">July 25 at 9:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-25T08:49:19.223597-07:00.jpg">
   <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-25T08:49:19.223597-07:00.jpg"
-     alt="TorrentFreak at 2022-07-25 15:49:20-07:00 local time"
+     alt="TorrentFreak at 2022-07-25 08:49:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-25T08:49:19.223597-07:00.jpg">July 25 at 3:49 PM</a></p>
+ <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-25T08:49:19.223597-07:00.jpg">July 25 at 8:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-24T23:46:41.475794-07:00.jpg">
   <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-24T23:46:41.475794-07:00.jpg"
-     alt="TorrentFreak at 2022-07-25 06:46:47-07:00 local time"
+     alt="TorrentFreak at 2022-07-24 23:46:47-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-24T23:46:41.475794-07:00.jpg">July 25 at 6:46 AM</a></p>
+ <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-24T23:46:41.475794-07:00.jpg">July 24 at 11:46 PM</a></p>
 </div>
 
 </div>
@@ -67,9 +67,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 04:01:01 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-25T21:00:55.529052-07:00.hyperlinks.json) |
-| [2022-07-25 15:49:23 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-25T08:49:19.223597-07:00.hyperlinks.json) |
-| [2022-07-25 06:47:01 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-24T23:46:41.475794-07:00.hyperlinks.json) |
+| [July 25 at 9:01 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-25T21:00:55.529052-07:00.hyperlinks.json) |
+| [July 25 at 8:49 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-25T08:49:19.223597-07:00.hyperlinks.json) |
+| [July 24 at 11:47 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-24T23:46:41.475794-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

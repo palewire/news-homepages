@@ -31,19 +31,19 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-07-26T08:29:16.162499-04:00.jpg">
   <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-07-26T08:29:16.162499-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-07-26 15:29:18-04:00 local time"
+     alt="Richmond Times-Dispatch at 2022-07-26 08:29:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-07-26T08:29:16.162499-04:00.jpg">July 26 at 3:29 PM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-07-26T08:29:16.162499-04:00.jpg">July 26 at 8:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-07-25T20:24:37.587483-04:00.jpg">
   <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-07-25T20:24:37.587483-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-07-26 03:24:43-04:00 local time"
+     alt="Richmond Times-Dispatch at 2022-07-25 20:24:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-07-25T20:24:37.587483-04:00.jpg">July 26 at 3:24 AM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-07-25T20:24:37.587483-04:00.jpg">July 25 at 8:24 PM</a></p>
 </div>
 
 </div>
@@ -58,8 +58,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 15:29:21 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-07-26T08:29:16.162499-04:00.hyperlinks.json) |
-| [2022-07-26 03:24:57 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-07-25T20:24:37.587483-04:00.hyperlinks.json) |
+| [July 26 at 8:29 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-07-26T08:29:16.162499-04:00.hyperlinks.json) |
+| [July 25 at 8:24 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-07-25T20:24:37.587483-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

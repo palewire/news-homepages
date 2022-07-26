@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 650 news sites.
+The most recent homepages captured from 651 news sites.
 
 <div class="latest-parent">
 
@@ -2921,6 +2921,15 @@ The most recent homepages captured from 650 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/jdemontreal.html">La Journal de Montréal</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/laopinioncoruna.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/laopinioncoruna.jpg"
+     alt="La Opinión A Coruña"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/laopinioncoruna.html">La Opinión A Coruña</a></p>
 </div>
 
 <div class="latest-child">

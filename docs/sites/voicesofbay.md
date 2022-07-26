@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-25T21:01:46.969284-07:00.jpg">
   <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-25T21:01:46.969284-07:00.jpg"
-     alt="Voices of Monterey Bay at 2022-07-26 04:01:49-07:00 local time"
+     alt="Voices of Monterey Bay at 2022-07-25 21:01:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-25T21:01:46.969284-07:00.jpg">July 26 at 4:01 AM</a></p>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-25T21:01:46.969284-07:00.jpg">July 25 at 9:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-25T08:52:14.254883-07:00.jpg">
   <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-25T08:52:14.254883-07:00.jpg"
-     alt="Voices of Monterey Bay at 2022-07-25 15:52:16-07:00 local time"
+     alt="Voices of Monterey Bay at 2022-07-25 08:52:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-25T08:52:14.254883-07:00.jpg">July 25 at 3:52 PM</a></p>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-25T08:52:14.254883-07:00.jpg">July 25 at 8:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T21:41:10.929280-07:00.jpg">
   <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T21:41:10.929280-07:00.jpg"
-     alt="Voices of Monterey Bay at 2022-07-25 04:41:12-07:00 local time"
+     alt="Voices of Monterey Bay at 2022-07-24 21:41:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T21:41:10.929280-07:00.jpg">July 25 at 4:41 AM</a></p>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T21:41:10.929280-07:00.jpg">July 24 at 9:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T08:10:21.101228-07:00.jpg">
   <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T08:10:21.101228-07:00.jpg"
-     alt="Voices of Monterey Bay at 2022-07-24 15:10:25-07:00 local time"
+     alt="Voices of Monterey Bay at 2022-07-24 08:10:25-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T08:10:21.101228-07:00.jpg">July 24 at 3:10 PM</a></p>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T08:10:21.101228-07:00.jpg">July 24 at 8:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-23T20:45:47.277476-07:00.jpg">
   <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-23T20:45:47.277476-07:00.jpg"
-     alt="Voices of Monterey Bay at 2022-07-24 03:45:49-07:00 local time"
+     alt="Voices of Monterey Bay at 2022-07-23 20:45:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-23T20:45:47.277476-07:00.jpg">July 24 at 3:45 AM</a></p>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-23T20:45:47.277476-07:00.jpg">July 23 at 8:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-23T09:08:57.291347-07:00.jpg">
   <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-23T09:08:57.291347-07:00.jpg"
-     alt="Voices of Monterey Bay at 2022-07-23 16:08:58-07:00 local time"
+     alt="Voices of Monterey Bay at 2022-07-23 09:08:58-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-23T09:08:57.291347-07:00.jpg">July 23 at 4:08 PM</a></p>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-23T09:08:57.291347-07:00.jpg">July 23 at 9:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T21:28:28.845744-07:00.jpg">
   <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T21:28:28.845744-07:00.jpg"
-     alt="Voices of Monterey Bay at 2022-07-23 04:28:31-07:00 local time"
+     alt="Voices of Monterey Bay at 2022-07-22 21:28:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T21:28:28.845744-07:00.jpg">July 23 at 4:28 AM</a></p>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T21:28:28.845744-07:00.jpg">July 22 at 9:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T09:21:20.308404-07:00.jpg">
   <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T09:21:20.308404-07:00.jpg"
-     alt="Voices of Monterey Bay at 2022-07-22 16:21:23-07:00 local time"
+     alt="Voices of Monterey Bay at 2022-07-22 09:21:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T09:21:20.308404-07:00.jpg">July 22 at 4:21 PM</a></p>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T09:21:20.308404-07:00.jpg">July 22 at 9:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T21:35:14.531240-07:00.jpg">
   <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T21:35:14.531240-07:00.jpg"
-     alt="Voices of Monterey Bay at 2022-07-22 04:35:16-07:00 local time"
+     alt="Voices of Monterey Bay at 2022-07-21 21:35:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T21:35:14.531240-07:00.jpg">July 22 at 4:35 AM</a></p>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T21:35:14.531240-07:00.jpg">July 21 at 9:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T09:59:00.973089-07:00.jpg">
   <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T09:59:00.973089-07:00.jpg"
-     alt="Voices of Monterey Bay at 2022-07-21 16:59:03-07:00 local time"
+     alt="Voices of Monterey Bay at 2022-07-21 09:59:03-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T09:59:00.973089-07:00.jpg">July 21 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T09:59:00.973089-07:00.jpg">July 21 at 9:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-20T21:32:49.436829-07:00.jpg">
   <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-20T21:32:49.436829-07:00.jpg"
-     alt="Voices of Monterey Bay at 2022-07-21 04:32:50-07:00 local time"
+     alt="Voices of Monterey Bay at 2022-07-20 21:32:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-20T21:32:49.436829-07:00.jpg">July 21 at 4:32 AM</a></p>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-20T21:32:49.436829-07:00.jpg">July 20 at 9:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-20T09:49:38.389294-07:00.jpg">
   <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-20T09:49:38.389294-07:00.jpg"
-     alt="Voices of Monterey Bay at 2022-07-20 16:49:40-07:00 local time"
+     alt="Voices of Monterey Bay at 2022-07-20 09:49:40-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-20T09:49:38.389294-07:00.jpg">July 20 at 4:49 PM</a></p>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-20T09:49:38.389294-07:00.jpg">July 20 at 9:49 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 04:01:52 AM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-25T21:01:46.969284-07:00.hyperlinks.json) |
-| [2022-07-25 15:52:19 PM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-25T08:52:14.254883-07:00.hyperlinks.json) |
-| [2022-07-25 04:41:15 AM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T21:41:10.929280-07:00.hyperlinks.json) |
-| [2022-07-24 15:10:29 PM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T08:10:21.101228-07:00.hyperlinks.json) |
-| [2022-07-24 03:45:52 AM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-23T20:45:47.277476-07:00.hyperlinks.json) |
-| [2022-07-23 16:09:02 PM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-23T09:08:57.291347-07:00.hyperlinks.json) |
-| [2022-07-23 04:28:35 AM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T21:28:28.845744-07:00.hyperlinks.json) |
-| [2022-07-22 16:21:27 PM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T09:21:20.308404-07:00.hyperlinks.json) |
-| [2022-07-22 04:35:23 AM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T21:35:14.531240-07:00.hyperlinks.json) |
-| [2022-07-21 16:59:07 PM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T09:59:00.973089-07:00.hyperlinks.json) |
+| [July 25 at 9:01 PM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-25T21:01:46.969284-07:00.hyperlinks.json) |
+| [July 25 at 8:52 AM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-25T08:52:14.254883-07:00.hyperlinks.json) |
+| [July 24 at 9:41 PM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T21:41:10.929280-07:00.hyperlinks.json) |
+| [July 24 at 8:10 AM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T08:10:21.101228-07:00.hyperlinks.json) |
+| [July 23 at 8:45 PM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-23T20:45:47.277476-07:00.hyperlinks.json) |
+| [July 23 at 9:09 AM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-23T09:08:57.291347-07:00.hyperlinks.json) |
+| [July 22 at 9:28 PM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T21:28:28.845744-07:00.hyperlinks.json) |
+| [July 22 at 9:21 AM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T09:21:20.308404-07:00.hyperlinks.json) |
+| [July 21 at 9:35 PM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T21:35:14.531240-07:00.hyperlinks.json) |
+| [July 21 at 9:59 AM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T09:59:00.973089-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

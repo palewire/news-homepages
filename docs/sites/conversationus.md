@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-25T22:58:07.060790-04:00.jpg">
   <img src="https://archive.org/download/conversationus-2022/conversationus-2022-07-25T22:58:07.060790-04:00.jpg"
-     alt="Conversation U.S. at 2022-07-26 05:58:08-04:00 local time"
+     alt="Conversation U.S. at 2022-07-25 22:58:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-25T22:58:07.060790-04:00.jpg">July 26 at 5:58 AM</a></p>
+ <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-25T22:58:07.060790-04:00.jpg">July 25 at 10:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-25T21:33:08.692352-04:00.jpg">
   <img src="https://archive.org/download/conversationus-2022/conversationus-2022-07-25T21:33:08.692352-04:00.jpg"
-     alt="Conversation U.S. at 2022-07-26 04:33:10-04:00 local time"
+     alt="Conversation U.S. at 2022-07-25 21:33:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-25T21:33:08.692352-04:00.jpg">July 26 at 4:33 AM</a></p>
+ <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-25T21:33:08.692352-04:00.jpg">July 25 at 9:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-25T07:03:31.691403-04:00.jpg">
   <img src="https://archive.org/download/conversationus-2022/conversationus-2022-07-25T07:03:31.691403-04:00.jpg"
-     alt="Conversation U.S. at 2022-07-25 14:03:33-04:00 local time"
+     alt="Conversation U.S. at 2022-07-25 07:03:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-25T07:03:31.691403-04:00.jpg">July 25 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-25T07:03:31.691403-04:00.jpg">July 25 at 7:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-24T20:56:47.413143-04:00.jpg">
   <img src="https://archive.org/download/conversationus-2022/conversationus-2022-07-24T20:56:47.413143-04:00.jpg"
-     alt="Conversation U.S. at 2022-07-25 03:56:49-04:00 local time"
+     alt="Conversation U.S. at 2022-07-24 20:56:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-24T20:56:47.413143-04:00.jpg">July 25 at 3:56 AM</a></p>
+ <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-24T20:56:47.413143-04:00.jpg">July 24 at 8:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-24T07:03:23.472451-04:00.jpg">
   <img src="https://archive.org/download/conversationus-2022/conversationus-2022-07-24T07:03:23.472451-04:00.jpg"
-     alt="Conversation U.S. at 2022-07-24 14:03:25-04:00 local time"
+     alt="Conversation U.S. at 2022-07-24 07:03:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-24T07:03:23.472451-04:00.jpg">July 24 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-24T07:03:23.472451-04:00.jpg">July 24 at 7:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-23T19:04:45.499879-04:00.jpg">
   <img src="https://archive.org/download/conversationus-2022/conversationus-2022-07-23T19:04:45.499879-04:00.jpg"
-     alt="Conversation U.S. at 2022-07-24 02:04:48-04:00 local time"
+     alt="Conversation U.S. at 2022-07-23 19:04:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-23T19:04:45.499879-04:00.jpg">July 24 at 2:04 AM</a></p>
+ <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-23T19:04:45.499879-04:00.jpg">July 23 at 7:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-23T09:01:37.214599-04:00.jpg">
   <img src="https://archive.org/download/conversationus-2022/conversationus-2022-07-23T09:01:37.214599-04:00.jpg"
-     alt="Conversation U.S. at 2022-07-23 16:01:38-04:00 local time"
+     alt="Conversation U.S. at 2022-07-23 09:01:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-23T09:01:37.214599-04:00.jpg">July 23 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-23T09:01:37.214599-04:00.jpg">July 23 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-22T21:02:39.610132-04:00.jpg">
   <img src="https://archive.org/download/conversationus-2022/conversationus-2022-07-22T21:02:39.610132-04:00.jpg"
-     alt="Conversation U.S. at 2022-07-23 04:02:41-04:00 local time"
+     alt="Conversation U.S. at 2022-07-22 21:02:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-22T21:02:39.610132-04:00.jpg">July 23 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-22T21:02:39.610132-04:00.jpg">July 22 at 9:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-22T09:01:45.610934-04:00.jpg">
   <img src="https://archive.org/download/conversationus-2022/conversationus-2022-07-22T09:01:45.610934-04:00.jpg"
-     alt="Conversation U.S. at 2022-07-22 16:01:47-04:00 local time"
+     alt="Conversation U.S. at 2022-07-22 09:01:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-22T09:01:45.610934-04:00.jpg">July 22 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-22T09:01:45.610934-04:00.jpg">July 22 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-21T21:10:16.284594-04:00.jpg">
   <img src="https://archive.org/download/conversationus-2022/conversationus-2022-07-21T21:10:16.284594-04:00.jpg"
-     alt="Conversation U.S. at 2022-07-22 04:10:18-04:00 local time"
+     alt="Conversation U.S. at 2022-07-21 21:10:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-21T21:10:16.284594-04:00.jpg">July 22 at 4:10 AM</a></p>
+ <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-21T21:10:16.284594-04:00.jpg">July 21 at 9:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-21T08:56:48.221986-04:00.jpg">
   <img src="https://archive.org/download/conversationus-2022/conversationus-2022-07-21T08:56:48.221986-04:00.jpg"
-     alt="Conversation U.S. at 2022-07-21 15:56:50-04:00 local time"
+     alt="Conversation U.S. at 2022-07-21 08:56:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-21T08:56:48.221986-04:00.jpg">July 21 at 3:56 PM</a></p>
+ <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-21T08:56:48.221986-04:00.jpg">July 21 at 8:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-20T21:08:33.119628-04:00.jpg">
   <img src="https://archive.org/download/conversationus-2022/conversationus-2022-07-20T21:08:33.119628-04:00.jpg"
-     alt="Conversation U.S. at 2022-07-21 04:08:34-04:00 local time"
+     alt="Conversation U.S. at 2022-07-20 21:08:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-20T21:08:33.119628-04:00.jpg">July 21 at 4:08 AM</a></p>
+ <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-07-20T21:08:33.119628-04:00.jpg">July 20 at 9:08 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 05:58:11 AM](https://archive.org/download/conversationus-2022/conversationus-2022-07-25T22:58:07.060790-04:00.hyperlinks.json) |
-| [2022-07-26 04:33:15 AM](https://archive.org/download/conversationus-2022/conversationus-2022-07-25T21:33:08.692352-04:00.hyperlinks.json) |
-| [2022-07-25 14:03:38 PM](https://archive.org/download/conversationus-2022/conversationus-2022-07-25T07:03:31.691403-04:00.hyperlinks.json) |
-| [2022-07-25 03:56:52 AM](https://archive.org/download/conversationus-2022/conversationus-2022-07-24T20:56:47.413143-04:00.hyperlinks.json) |
-| [2022-07-24 14:03:28 PM](https://archive.org/download/conversationus-2022/conversationus-2022-07-24T07:03:23.472451-04:00.hyperlinks.json) |
-| [2022-07-24 02:04:51 AM](https://archive.org/download/conversationus-2022/conversationus-2022-07-23T19:04:45.499879-04:00.hyperlinks.json) |
-| [2022-07-23 16:01:43 PM](https://archive.org/download/conversationus-2022/conversationus-2022-07-23T09:01:37.214599-04:00.hyperlinks.json) |
-| [2022-07-23 04:02:43 AM](https://archive.org/download/conversationus-2022/conversationus-2022-07-22T21:02:39.610132-04:00.hyperlinks.json) |
-| [2022-07-22 16:01:50 PM](https://archive.org/download/conversationus-2022/conversationus-2022-07-22T09:01:45.610934-04:00.hyperlinks.json) |
-| [2022-07-22 04:10:22 AM](https://archive.org/download/conversationus-2022/conversationus-2022-07-21T21:10:16.284594-04:00.hyperlinks.json) |
+| [July 25 at 10:58 PM](https://archive.org/download/conversationus-2022/conversationus-2022-07-25T22:58:07.060790-04:00.hyperlinks.json) |
+| [July 25 at 9:33 PM](https://archive.org/download/conversationus-2022/conversationus-2022-07-25T21:33:08.692352-04:00.hyperlinks.json) |
+| [July 25 at 7:03 AM](https://archive.org/download/conversationus-2022/conversationus-2022-07-25T07:03:31.691403-04:00.hyperlinks.json) |
+| [July 24 at 8:56 PM](https://archive.org/download/conversationus-2022/conversationus-2022-07-24T20:56:47.413143-04:00.hyperlinks.json) |
+| [July 24 at 7:03 AM](https://archive.org/download/conversationus-2022/conversationus-2022-07-24T07:03:23.472451-04:00.hyperlinks.json) |
+| [July 23 at 7:04 PM](https://archive.org/download/conversationus-2022/conversationus-2022-07-23T19:04:45.499879-04:00.hyperlinks.json) |
+| [July 23 at 9:01 AM](https://archive.org/download/conversationus-2022/conversationus-2022-07-23T09:01:37.214599-04:00.hyperlinks.json) |
+| [July 22 at 9:02 PM](https://archive.org/download/conversationus-2022/conversationus-2022-07-22T21:02:39.610132-04:00.hyperlinks.json) |
+| [July 22 at 9:01 AM](https://archive.org/download/conversationus-2022/conversationus-2022-07-22T09:01:45.610934-04:00.hyperlinks.json) |
+| [July 21 at 9:10 PM](https://archive.org/download/conversationus-2022/conversationus-2022-07-21T21:10:16.284594-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

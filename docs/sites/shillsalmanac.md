@@ -31,19 +31,19 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-07-26T08:30:13.572379-04:00.jpg">
   <img src="https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-07-26T08:30:13.572379-04:00.jpg"
-     alt="South Hills Almanac at 2022-07-26 15:30:14-04:00 local time"
+     alt="South Hills Almanac at 2022-07-26 08:30:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-07-26T08:30:13.572379-04:00.jpg">July 26 at 3:30 PM</a></p>
+ <p><a href="https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-07-26T08:30:13.572379-04:00.jpg">July 26 at 8:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-07-25T20:24:47.271068-04:00.jpg">
   <img src="https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-07-25T20:24:47.271068-04:00.jpg"
-     alt="South Hills Almanac at 2022-07-26 03:24:53-04:00 local time"
+     alt="South Hills Almanac at 2022-07-25 20:24:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-07-25T20:24:47.271068-04:00.jpg">July 26 at 3:24 AM</a></p>
+ <p><a href="https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-07-25T20:24:47.271068-04:00.jpg">July 25 at 8:24 PM</a></p>
 </div>
 
 </div>
@@ -58,8 +58,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 15:30:17 PM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-07-26T08:30:13.572379-04:00.hyperlinks.json) |
-| [2022-07-26 03:25:07 AM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-07-25T20:24:47.271068-04:00.hyperlinks.json) |
+| [July 26 at 8:30 AM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-07-26T08:30:13.572379-04:00.hyperlinks.json) |
+| [July 25 at 8:25 PM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-07-25T20:24:47.271068-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -31,46 +31,46 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-26T08:38:43.584704+05:45.jpg">
   <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-26T08:38:43.584704+05:45.jpg"
-     alt="Ujyaalo at 2022-07-26 15:38:45+05:45 local time"
+     alt="Ujyaalo at 2022-07-26 08:38:45+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-26T08:38:43.584704+05:45.jpg">July 26 at 3:38 PM</a></p>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-26T08:38:43.584704+05:45.jpg">July 26 at 8:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-26T07:22:51.485724+05:45.jpg">
   <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-26T07:22:51.485724+05:45.jpg"
-     alt="Ujyaalo at 2022-07-26 14:22:53+05:45 local time"
+     alt="Ujyaalo at 2022-07-26 07:22:53+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-26T07:22:51.485724+05:45.jpg">July 26 at 2:22 PM</a></p>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-26T07:22:51.485724+05:45.jpg">July 26 at 7:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T21:35:38.406010+05:45.jpg">
   <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T21:35:38.406010+05:45.jpg"
-     alt="Ujyaalo at 2022-07-26 04:35:39+05:45 local time"
+     alt="Ujyaalo at 2022-07-25 21:35:39+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T21:35:38.406010+05:45.jpg">July 26 at 4:35 AM</a></p>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T21:35:38.406010+05:45.jpg">July 25 at 9:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T10:24:42.529571+05:45.jpg">
   <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T10:24:42.529571+05:45.jpg"
-     alt="Ujyaalo at 2022-07-25 17:24:43+05:45 local time"
+     alt="Ujyaalo at 2022-07-25 10:24:43+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T10:24:42.529571+05:45.jpg">July 25 at 5:24 PM</a></p>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T10:24:42.529571+05:45.jpg">July 25 at 10:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T02:24:36.390848+05:45.jpg">
   <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T02:24:36.390848+05:45.jpg"
-     alt="Ujyaalo at 2022-07-25 09:24:42+05:45 local time"
+     alt="Ujyaalo at 2022-07-25 02:24:42+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T02:24:36.390848+05:45.jpg">July 25 at 9:24 AM</a></p>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T02:24:36.390848+05:45.jpg">July 25 at 2:24 AM</a></p>
 </div>
 
 </div>
@@ -85,11 +85,11 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 15:38:48 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-26T08:38:43.584704+05:45.hyperlinks.json) |
-| [2022-07-26 14:22:57 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-26T07:22:51.485724+05:45.hyperlinks.json) |
-| [2022-07-26 04:35:43 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T21:35:38.406010+05:45.hyperlinks.json) |
-| [2022-07-25 17:24:46 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T10:24:42.529571+05:45.hyperlinks.json) |
-| [2022-07-25 09:24:55 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T02:24:36.390848+05:45.hyperlinks.json) |
+| [July 26 at 8:38 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-26T08:38:43.584704+05:45.hyperlinks.json) |
+| [July 26 at 7:22 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-26T07:22:51.485724+05:45.hyperlinks.json) |
+| [July 25 at 9:35 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T21:35:38.406010+05:45.hyperlinks.json) |
+| [July 25 at 10:24 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T10:24:42.529571+05:45.hyperlinks.json) |
+| [July 25 at 2:24 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T02:24:36.390848+05:45.hyperlinks.json) |
 
 
 ## Internet Archive

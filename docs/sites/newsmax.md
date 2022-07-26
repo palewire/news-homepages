@@ -31,10 +31,10 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/newsmax-2022/newsmax-2022-07-25T22:48:51.962144-04:00.jpg">
   <img src="https://archive.org/download/newsmax-2022/newsmax-2022-07-25T22:48:51.962144-04:00.jpg"
-     alt="Newsmax at 2022-07-26 05:48:58-04:00 local time"
+     alt="Newsmax at 2022-07-25 22:48:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-07-25T22:48:51.962144-04:00.jpg">July 26 at 5:48 AM</a></p>
+ <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-07-25T22:48:51.962144-04:00.jpg">July 25 at 10:48 PM</a></p>
 </div>
 
 </div>
@@ -49,7 +49,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 05:49:13 AM](https://archive.org/download/newsmax-2022/newsmax-2022-07-25T22:48:51.962144-04:00.hyperlinks.json) |
+| [July 25 at 10:49 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-25T22:48:51.962144-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

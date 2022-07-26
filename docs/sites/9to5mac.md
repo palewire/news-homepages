@@ -31,37 +31,37 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-26T04:10:09.828106-07:00.jpg">
   <img src="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-26T04:10:09.828106-07:00.jpg"
-     alt="9to5Mac at 2022-07-26 11:10:10-07:00 local time"
+     alt="9to5Mac at 2022-07-26 04:10:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-26T04:10:09.828106-07:00.jpg">July 26 at 11:10 AM</a></p>
+ <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-26T04:10:09.828106-07:00.jpg">July 26 at 4:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T16:05:33.560105-07:00.jpg">
   <img src="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T16:05:33.560105-07:00.jpg"
-     alt="9to5Mac at 2022-07-25 23:05:35-07:00 local time"
+     alt="9to5Mac at 2022-07-25 16:05:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T16:05:33.560105-07:00.jpg">July 25 at 11:05 PM</a></p>
+ <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T16:05:33.560105-07:00.jpg">July 25 at 4:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T03:56:21.013694-07:00.jpg">
   <img src="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T03:56:21.013694-07:00.jpg"
-     alt="9to5Mac at 2022-07-25 10:56:22-07:00 local time"
+     alt="9to5Mac at 2022-07-25 03:56:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T03:56:21.013694-07:00.jpg">July 25 at 10:56 AM</a></p>
+ <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T03:56:21.013694-07:00.jpg">July 25 at 3:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-24T23:46:50.095729-07:00.jpg">
   <img src="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-24T23:46:50.095729-07:00.jpg"
-     alt="9to5Mac at 2022-07-25 06:46:55-07:00 local time"
+     alt="9to5Mac at 2022-07-24 23:46:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-24T23:46:50.095729-07:00.jpg">July 25 at 6:46 AM</a></p>
+ <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-24T23:46:50.095729-07:00.jpg">July 24 at 11:46 PM</a></p>
 </div>
 
 </div>
@@ -76,10 +76,10 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 11:10:13 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-26T04:10:09.828106-07:00.hyperlinks.json) |
-| [2022-07-25 23:05:39 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T16:05:33.560105-07:00.hyperlinks.json) |
-| [2022-07-25 10:56:25 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T03:56:21.013694-07:00.hyperlinks.json) |
-| [2022-07-25 06:47:09 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-24T23:46:50.095729-07:00.hyperlinks.json) |
+| [July 26 at 4:10 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-26T04:10:09.828106-07:00.hyperlinks.json) |
+| [July 25 at 4:05 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T16:05:33.560105-07:00.hyperlinks.json) |
+| [July 25 at 3:56 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T03:56:21.013694-07:00.hyperlinks.json) |
+| [July 24 at 11:47 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-24T23:46:50.095729-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

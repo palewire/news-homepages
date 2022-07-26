@@ -31,10 +31,10 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/sternde-2022/sternde-2022-07-26T05:57:19.510378+02:00.jpg">
   <img src="https://archive.org/download/sternde-2022/sternde-2022-07-26T05:57:19.510378+02:00.jpg"
-     alt="Stern at 2022-07-26 12:57:25+02:00 local time"
+     alt="Stern at 2022-07-26 05:57:25+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sternde-2022/sternde-2022-07-26T05:57:19.510378+02:00.jpg">July 26 at 12:57 PM</a></p>
+ <p><a href="https://archive.org/download/sternde-2022/sternde-2022-07-26T05:57:19.510378+02:00.jpg">July 26 at 5:57 AM</a></p>
 </div>
 
 </div>
@@ -49,7 +49,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 12:57:41 PM](https://archive.org/download/sternde-2022/sternde-2022-07-26T05:57:19.510378+02:00.hyperlinks.json) |
+| [July 26 at 5:57 AM](https://archive.org/download/sternde-2022/sternde-2022-07-26T05:57:19.510378+02:00.hyperlinks.json) |
 
 
 ## Internet Archive

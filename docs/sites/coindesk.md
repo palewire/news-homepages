@@ -31,37 +31,37 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-26T07:14:58.511540-04:00.jpg">
   <img src="https://archive.org/download/coindesk-2022/coindesk-2022-07-26T07:14:58.511540-04:00.jpg"
-     alt="CoinDesk at 2022-07-26 14:15:00-04:00 local time"
+     alt="CoinDesk at 2022-07-26 07:15:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-26T07:14:58.511540-04:00.jpg">July 26 at 2:15 PM</a></p>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-26T07:14:58.511540-04:00.jpg">July 26 at 7:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T19:12:02.116054-04:00.jpg">
   <img src="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T19:12:02.116054-04:00.jpg"
-     alt="CoinDesk at 2022-07-26 02:12:03-04:00 local time"
+     alt="CoinDesk at 2022-07-25 19:12:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T19:12:02.116054-04:00.jpg">July 26 at 2:12 AM</a></p>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T19:12:02.116054-04:00.jpg">July 25 at 7:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T07:03:03.739211-04:00.jpg">
   <img src="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T07:03:03.739211-04:00.jpg"
-     alt="CoinDesk at 2022-07-25 14:03:05-04:00 local time"
+     alt="CoinDesk at 2022-07-25 07:03:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T07:03:03.739211-04:00.jpg">July 25 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T07:03:03.739211-04:00.jpg">July 25 at 7:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T02:46:43.427323-04:00.jpg">
   <img src="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T02:46:43.427323-04:00.jpg"
-     alt="CoinDesk at 2022-07-25 09:46:49-04:00 local time"
+     alt="CoinDesk at 2022-07-25 02:46:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T02:46:43.427323-04:00.jpg">July 25 at 9:46 AM</a></p>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T02:46:43.427323-04:00.jpg">July 25 at 2:46 AM</a></p>
 </div>
 
 </div>
@@ -76,10 +76,10 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 14:15:03 PM](https://archive.org/download/coindesk-2022/coindesk-2022-07-26T07:14:58.511540-04:00.hyperlinks.json) |
-| [2022-07-26 02:12:06 AM](https://archive.org/download/coindesk-2022/coindesk-2022-07-25T19:12:02.116054-04:00.hyperlinks.json) |
-| [2022-07-25 14:03:07 PM](https://archive.org/download/coindesk-2022/coindesk-2022-07-25T07:03:03.739211-04:00.hyperlinks.json) |
-| [2022-07-25 09:47:01 AM](https://archive.org/download/coindesk-2022/coindesk-2022-07-25T02:46:43.427323-04:00.hyperlinks.json) |
+| [July 26 at 7:15 AM](https://archive.org/download/coindesk-2022/coindesk-2022-07-26T07:14:58.511540-04:00.hyperlinks.json) |
+| [July 25 at 7:12 PM](https://archive.org/download/coindesk-2022/coindesk-2022-07-25T19:12:02.116054-04:00.hyperlinks.json) |
+| [July 25 at 7:03 AM](https://archive.org/download/coindesk-2022/coindesk-2022-07-25T07:03:03.739211-04:00.hyperlinks.json) |
+| [July 25 at 2:47 AM](https://archive.org/download/coindesk-2022/coindesk-2022-07-25T02:46:43.427323-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

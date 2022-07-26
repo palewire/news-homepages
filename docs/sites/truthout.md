@@ -31,109 +31,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/truthout-2022/truthout-2022-07-25T21:00:07.393630-07:00.jpg">
   <img src="https://archive.org/download/truthout-2022/truthout-2022-07-25T21:00:07.393630-07:00.jpg"
-     alt="Truthout at 2022-07-26 04:00:09-07:00 local time"
+     alt="Truthout at 2022-07-25 21:00:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-25T21:00:07.393630-07:00.jpg">July 26 at 4:00 AM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-25T21:00:07.393630-07:00.jpg">July 25 at 9:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/truthout-2022/truthout-2022-07-25T11:41:35.330019-07:00.jpg">
   <img src="https://archive.org/download/truthout-2022/truthout-2022-07-25T11:41:35.330019-07:00.jpg"
-     alt="Truthout at 2022-07-25 18:41:37-07:00 local time"
+     alt="Truthout at 2022-07-25 11:41:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-25T11:41:35.330019-07:00.jpg">July 25 at 6:41 PM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-25T11:41:35.330019-07:00.jpg">July 25 at 11:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/truthout-2022/truthout-2022-07-25T09:39:35.720629-07:00.jpg">
   <img src="https://archive.org/download/truthout-2022/truthout-2022-07-25T09:39:35.720629-07:00.jpg"
-     alt="Truthout at 2022-07-25 16:39:39-07:00 local time"
+     alt="Truthout at 2022-07-25 09:39:39-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-25T09:39:35.720629-07:00.jpg">July 25 at 4:39 PM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-25T09:39:35.720629-07:00.jpg">July 25 at 9:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/truthout-2022/truthout-2022-07-25T08:50:03.645233-07:00.jpg">
   <img src="https://archive.org/download/truthout-2022/truthout-2022-07-25T08:50:03.645233-07:00.jpg"
-     alt="Truthout at 2022-07-25 15:50:05-07:00 local time"
+     alt="Truthout at 2022-07-25 08:50:05-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-25T08:50:03.645233-07:00.jpg">July 25 at 3:50 PM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-25T08:50:03.645233-07:00.jpg">July 25 at 8:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/truthout-2022/truthout-2022-07-24T21:38:36.563948-07:00.jpg">
   <img src="https://archive.org/download/truthout-2022/truthout-2022-07-24T21:38:36.563948-07:00.jpg"
-     alt="Truthout at 2022-07-25 04:38:37-07:00 local time"
+     alt="Truthout at 2022-07-24 21:38:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-24T21:38:36.563948-07:00.jpg">July 25 at 4:38 AM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-24T21:38:36.563948-07:00.jpg">July 24 at 9:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/truthout-2022/truthout-2022-07-24T08:43:20.749210-07:00.jpg">
   <img src="https://archive.org/download/truthout-2022/truthout-2022-07-24T08:43:20.749210-07:00.jpg"
-     alt="Truthout at 2022-07-24 15:43:22-07:00 local time"
+     alt="Truthout at 2022-07-24 08:43:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-24T08:43:20.749210-07:00.jpg">July 24 at 3:43 PM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-24T08:43:20.749210-07:00.jpg">July 24 at 8:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/truthout-2022/truthout-2022-07-24T08:08:33.317453-07:00.jpg">
   <img src="https://archive.org/download/truthout-2022/truthout-2022-07-24T08:08:33.317453-07:00.jpg"
-     alt="Truthout at 2022-07-24 15:08:35-07:00 local time"
+     alt="Truthout at 2022-07-24 08:08:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-24T08:08:33.317453-07:00.jpg">July 24 at 3:08 PM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-24T08:08:33.317453-07:00.jpg">July 24 at 8:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/truthout-2022/truthout-2022-07-23T20:44:16.184902-07:00.jpg">
   <img src="https://archive.org/download/truthout-2022/truthout-2022-07-23T20:44:16.184902-07:00.jpg"
-     alt="Truthout at 2022-07-24 03:44:18-07:00 local time"
+     alt="Truthout at 2022-07-23 20:44:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-23T20:44:16.184902-07:00.jpg">July 24 at 3:44 AM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-23T20:44:16.184902-07:00.jpg">July 23 at 8:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/truthout-2022/truthout-2022-07-23T11:14:10.163463-07:00.jpg">
   <img src="https://archive.org/download/truthout-2022/truthout-2022-07-23T11:14:10.163463-07:00.jpg"
-     alt="Truthout at 2022-07-23 18:14:12-07:00 local time"
+     alt="Truthout at 2022-07-23 11:14:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-23T11:14:10.163463-07:00.jpg">July 23 at 6:14 PM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-23T11:14:10.163463-07:00.jpg">July 23 at 11:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/truthout-2022/truthout-2022-07-23T09:07:30.821780-07:00.jpg">
   <img src="https://archive.org/download/truthout-2022/truthout-2022-07-23T09:07:30.821780-07:00.jpg"
-     alt="Truthout at 2022-07-23 16:07:33-07:00 local time"
+     alt="Truthout at 2022-07-23 09:07:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-23T09:07:30.821780-07:00.jpg">July 23 at 4:07 PM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-23T09:07:30.821780-07:00.jpg">July 23 at 9:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/truthout-2022/truthout-2022-07-22T21:27:18.430867-07:00.jpg">
   <img src="https://archive.org/download/truthout-2022/truthout-2022-07-22T21:27:18.430867-07:00.jpg"
-     alt="Truthout at 2022-07-23 04:27:19-07:00 local time"
+     alt="Truthout at 2022-07-22 21:27:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-22T21:27:18.430867-07:00.jpg">July 23 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-22T21:27:18.430867-07:00.jpg">July 22 at 9:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/truthout-2022/truthout-2022-07-22T09:20:17.564204-07:00.jpg">
   <img src="https://archive.org/download/truthout-2022/truthout-2022-07-22T09:20:17.564204-07:00.jpg"
-     alt="Truthout at 2022-07-22 16:20:19-07:00 local time"
+     alt="Truthout at 2022-07-22 09:20:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-22T09:20:17.564204-07:00.jpg">July 22 at 4:20 PM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-22T09:20:17.564204-07:00.jpg">July 22 at 9:20 AM</a></p>
 </div>
 
 </div>
@@ -148,16 +148,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 04:00:12 AM](https://archive.org/download/truthout-2022/truthout-2022-07-25T21:00:07.393630-07:00.hyperlinks.json) |
-| [2022-07-25 18:41:40 PM](https://archive.org/download/truthout-2022/truthout-2022-07-25T11:41:35.330019-07:00.hyperlinks.json) |
-| [2022-07-25 16:39:42 PM](https://archive.org/download/truthout-2022/truthout-2022-07-25T09:39:35.720629-07:00.hyperlinks.json) |
-| [2022-07-25 15:50:09 PM](https://archive.org/download/truthout-2022/truthout-2022-07-25T08:50:03.645233-07:00.hyperlinks.json) |
-| [2022-07-25 04:38:40 AM](https://archive.org/download/truthout-2022/truthout-2022-07-24T21:38:36.563948-07:00.hyperlinks.json) |
-| [2022-07-24 15:43:25 PM](https://archive.org/download/truthout-2022/truthout-2022-07-24T08:43:20.749210-07:00.hyperlinks.json) |
-| [2022-07-24 15:08:40 PM](https://archive.org/download/truthout-2022/truthout-2022-07-24T08:08:33.317453-07:00.hyperlinks.json) |
-| [2022-07-24 03:44:24 AM](https://archive.org/download/truthout-2022/truthout-2022-07-23T20:44:16.184902-07:00.hyperlinks.json) |
-| [2022-07-23 18:14:19 PM](https://archive.org/download/truthout-2022/truthout-2022-07-23T11:14:10.163463-07:00.hyperlinks.json) |
-| [2022-07-23 16:07:36 PM](https://archive.org/download/truthout-2022/truthout-2022-07-23T09:07:30.821780-07:00.hyperlinks.json) |
+| [July 25 at 9:00 PM](https://archive.org/download/truthout-2022/truthout-2022-07-25T21:00:07.393630-07:00.hyperlinks.json) |
+| [July 25 at 11:41 AM](https://archive.org/download/truthout-2022/truthout-2022-07-25T11:41:35.330019-07:00.hyperlinks.json) |
+| [July 25 at 9:39 AM](https://archive.org/download/truthout-2022/truthout-2022-07-25T09:39:35.720629-07:00.hyperlinks.json) |
+| [July 25 at 8:50 AM](https://archive.org/download/truthout-2022/truthout-2022-07-25T08:50:03.645233-07:00.hyperlinks.json) |
+| [July 24 at 9:38 PM](https://archive.org/download/truthout-2022/truthout-2022-07-24T21:38:36.563948-07:00.hyperlinks.json) |
+| [July 24 at 8:43 AM](https://archive.org/download/truthout-2022/truthout-2022-07-24T08:43:20.749210-07:00.hyperlinks.json) |
+| [July 24 at 8:08 AM](https://archive.org/download/truthout-2022/truthout-2022-07-24T08:08:33.317453-07:00.hyperlinks.json) |
+| [July 23 at 8:44 PM](https://archive.org/download/truthout-2022/truthout-2022-07-23T20:44:16.184902-07:00.hyperlinks.json) |
+| [July 23 at 11:14 AM](https://archive.org/download/truthout-2022/truthout-2022-07-23T11:14:10.163463-07:00.hyperlinks.json) |
+| [July 23 at 9:07 AM](https://archive.org/download/truthout-2022/truthout-2022-07-23T09:07:30.821780-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

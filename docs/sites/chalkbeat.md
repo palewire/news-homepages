@@ -31,10 +31,10 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T07:13:43.463430-04:00.jpg">
   <img src="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T07:13:43.463430-04:00.jpg"
-     alt="Chalkbeat at 2022-07-26 14:13:51-04:00 local time"
+     alt="Chalkbeat at 2022-07-26 07:13:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T07:13:43.463430-04:00.jpg">July 26 at 2:13 PM</a></p>
+ <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T07:13:43.463430-04:00.jpg">July 26 at 7:13 AM</a></p>
 </div>
 
 </div>
@@ -49,7 +49,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 14:14:04 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T07:13:43.463430-04:00.hyperlinks.json) |
+| [July 26 at 7:14 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T07:13:43.463430-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

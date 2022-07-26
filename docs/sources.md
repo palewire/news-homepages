@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 650 sites.
+The archiving routine is currently capturing 651 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -333,6 +333,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[L.A. Taco](https://palewi.re/docs/news-homepages/sites/lataco.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lataco.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lataco.xml)|
 |[La Jornada](https://palewi.re/docs/news-homepages/sites/lajornada.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lajornada.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lajornada.xml)|
 |[La Journal de Montréal](https://palewi.re/docs/news-homepages/sites/jdemontreal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jdemontreal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jdemontreal.xml)|
+|[La Opinión A Coruña](https://palewi.re/docs/news-homepages/sites/laopinioncoruna.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/laopinioncoruna.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/laopinioncoruna.xml)|
 |[La Presse](https://palewi.re/docs/news-homepages/sites/lp_lapresse.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lp_lapresse.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lp_lapresse.xml)|
 |[Labor Notes](https://palewi.re/docs/news-homepages/sites/labornotes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/labornotes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/labornotes.xml)|
 |[LaCrosse Tribune](https://palewi.re/docs/news-homepages/sites/lacrossetribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lacrossetribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lacrossetribune.xml)|

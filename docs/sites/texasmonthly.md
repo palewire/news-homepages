@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-25T21:51:22.209412-05:00.jpg">
   <img src="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-25T21:51:22.209412-05:00.jpg"
-     alt="Texas Monthly at 2022-07-26 04:51:24-05:00 local time"
+     alt="Texas Monthly at 2022-07-25 21:51:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-25T21:51:22.209412-05:00.jpg">July 26 at 4:51 AM</a></p>
+ <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-25T21:51:22.209412-05:00.jpg">July 25 at 9:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-25T20:34:33.496451-05:00.jpg">
   <img src="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-25T20:34:33.496451-05:00.jpg"
-     alt="Texas Monthly at 2022-07-26 03:34:35-05:00 local time"
+     alt="Texas Monthly at 2022-07-25 20:34:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-25T20:34:33.496451-05:00.jpg">July 26 at 3:34 AM</a></p>
+ <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-25T20:34:33.496451-05:00.jpg">July 25 at 8:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-25T10:44:50.613595-05:00.jpg">
   <img src="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-25T10:44:50.613595-05:00.jpg"
-     alt="Texas Monthly at 2022-07-25 17:44:51-05:00 local time"
+     alt="Texas Monthly at 2022-07-25 10:44:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-25T10:44:50.613595-05:00.jpg">July 25 at 5:44 PM</a></p>
+ <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-25T10:44:50.613595-05:00.jpg">July 25 at 10:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-24T23:34:46.343910-05:00.jpg">
   <img src="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-24T23:34:46.343910-05:00.jpg"
-     alt="Texas Monthly at 2022-07-25 06:34:48-05:00 local time"
+     alt="Texas Monthly at 2022-07-24 23:34:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-24T23:34:46.343910-05:00.jpg">July 25 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-24T23:34:46.343910-05:00.jpg">July 24 at 11:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-24T10:04:40.230037-05:00.jpg">
   <img src="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-24T10:04:40.230037-05:00.jpg"
-     alt="Texas Monthly at 2022-07-24 17:04:43-05:00 local time"
+     alt="Texas Monthly at 2022-07-24 10:04:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-24T10:04:40.230037-05:00.jpg">July 24 at 5:04 PM</a></p>
+ <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-24T10:04:40.230037-05:00.jpg">July 24 at 10:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-23T22:39:56.064969-05:00.jpg">
   <img src="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-23T22:39:56.064969-05:00.jpg"
-     alt="Texas Monthly at 2022-07-24 05:39:57-05:00 local time"
+     alt="Texas Monthly at 2022-07-23 22:39:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-23T22:39:56.064969-05:00.jpg">July 24 at 5:39 AM</a></p>
+ <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-23T22:39:56.064969-05:00.jpg">July 23 at 10:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-23T11:03:40.939674-05:00.jpg">
   <img src="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-23T11:03:40.939674-05:00.jpg"
-     alt="Texas Monthly at 2022-07-23 18:03:42-05:00 local time"
+     alt="Texas Monthly at 2022-07-23 11:03:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-23T11:03:40.939674-05:00.jpg">July 23 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-23T11:03:40.939674-05:00.jpg">July 23 at 11:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-22T23:24:09.881119-05:00.jpg">
   <img src="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-22T23:24:09.881119-05:00.jpg"
-     alt="Texas Monthly at 2022-07-23 06:24:11-05:00 local time"
+     alt="Texas Monthly at 2022-07-22 23:24:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-22T23:24:09.881119-05:00.jpg">July 23 at 6:24 AM</a></p>
+ <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-22T23:24:09.881119-05:00.jpg">July 22 at 11:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-22T11:16:30.766849-05:00.jpg">
   <img src="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-22T11:16:30.766849-05:00.jpg"
-     alt="Texas Monthly at 2022-07-22 18:16:32-05:00 local time"
+     alt="Texas Monthly at 2022-07-22 11:16:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-22T11:16:30.766849-05:00.jpg">July 22 at 6:16 PM</a></p>
+ <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-22T11:16:30.766849-05:00.jpg">July 22 at 11:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-21T23:30:51.726153-05:00.jpg">
   <img src="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-21T23:30:51.726153-05:00.jpg"
-     alt="Texas Monthly at 2022-07-22 06:30:53-05:00 local time"
+     alt="Texas Monthly at 2022-07-21 23:30:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-21T23:30:51.726153-05:00.jpg">July 22 at 6:30 AM</a></p>
+ <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-21T23:30:51.726153-05:00.jpg">July 21 at 11:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-21T11:54:13.004591-05:00.jpg">
   <img src="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-21T11:54:13.004591-05:00.jpg"
-     alt="Texas Monthly at 2022-07-21 18:54:15-05:00 local time"
+     alt="Texas Monthly at 2022-07-21 11:54:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-21T11:54:13.004591-05:00.jpg">July 21 at 6:54 PM</a></p>
+ <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-21T11:54:13.004591-05:00.jpg">July 21 at 11:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-20T23:28:01.331501-05:00.jpg">
   <img src="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-20T23:28:01.331501-05:00.jpg"
-     alt="Texas Monthly at 2022-07-21 06:28:02-05:00 local time"
+     alt="Texas Monthly at 2022-07-20 23:28:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-20T23:28:01.331501-05:00.jpg">July 21 at 6:28 AM</a></p>
+ <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-20T23:28:01.331501-05:00.jpg">July 20 at 11:28 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 04:51:27 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-25T21:51:22.209412-05:00.hyperlinks.json) |
-| [2022-07-26 03:34:38 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-25T20:34:33.496451-05:00.hyperlinks.json) |
-| [2022-07-25 17:44:55 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-25T10:44:50.613595-05:00.hyperlinks.json) |
-| [2022-07-25 06:34:51 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-24T23:34:46.343910-05:00.hyperlinks.json) |
-| [2022-07-24 17:04:46 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-24T10:04:40.230037-05:00.hyperlinks.json) |
-| [2022-07-24 05:40:01 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-23T22:39:56.064969-05:00.hyperlinks.json) |
-| [2022-07-23 18:03:48 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-23T11:03:40.939674-05:00.hyperlinks.json) |
-| [2022-07-23 06:24:14 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-22T23:24:09.881119-05:00.hyperlinks.json) |
-| [2022-07-22 18:16:37 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-22T11:16:30.766849-05:00.hyperlinks.json) |
-| [2022-07-22 06:30:56 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-21T23:30:51.726153-05:00.hyperlinks.json) |
+| [July 25 at 9:51 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-25T21:51:22.209412-05:00.hyperlinks.json) |
+| [July 25 at 8:34 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-25T20:34:33.496451-05:00.hyperlinks.json) |
+| [July 25 at 10:44 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-25T10:44:50.613595-05:00.hyperlinks.json) |
+| [July 24 at 11:34 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-24T23:34:46.343910-05:00.hyperlinks.json) |
+| [July 24 at 10:04 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-24T10:04:40.230037-05:00.hyperlinks.json) |
+| [July 23 at 10:40 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-23T22:39:56.064969-05:00.hyperlinks.json) |
+| [July 23 at 11:03 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-23T11:03:40.939674-05:00.hyperlinks.json) |
+| [July 22 at 11:24 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-22T23:24:09.881119-05:00.hyperlinks.json) |
+| [July 22 at 11:16 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-22T11:16:30.766849-05:00.hyperlinks.json) |
+| [July 21 at 11:30 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-07-21T23:30:51.726153-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/bbc-2022/bbc-2022-07-26T10:08:32.414041+01:00.jpg">
   <img src="https://archive.org/download/bbc-2022/bbc-2022-07-26T10:08:32.414041+01:00.jpg"
-     alt="BBC at 2022-07-26 17:08:36+01:00 local time"
+     alt="BBC at 2022-07-26 10:08:36+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-26T10:08:32.414041+01:00.jpg">July 26 at 5:08 PM</a></p>
+ <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-26T10:08:32.414041+01:00.jpg">July 26 at 10:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bbc-2022/bbc-2022-07-26T03:57:44.931560+01:00.jpg">
   <img src="https://archive.org/download/bbc-2022/bbc-2022-07-26T03:57:44.931560+01:00.jpg"
-     alt="BBC at 2022-07-26 10:57:46+01:00 local time"
+     alt="BBC at 2022-07-26 03:57:46+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-26T03:57:44.931560+01:00.jpg">July 26 at 10:57 AM</a></p>
+ <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-26T03:57:44.931560+01:00.jpg">July 26 at 3:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bbc-2022/bbc-2022-07-26T02:31:20.929344+01:00.jpg">
   <img src="https://archive.org/download/bbc-2022/bbc-2022-07-26T02:31:20.929344+01:00.jpg"
-     alt="BBC at 2022-07-26 09:31:22+01:00 local time"
+     alt="BBC at 2022-07-26 02:31:22+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-26T02:31:20.929344+01:00.jpg">July 26 at 9:31 AM</a></p>
+ <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-26T02:31:20.929344+01:00.jpg">July 26 at 2:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bbc-2022/bbc-2022-07-25T11:58:46.676536+01:00.jpg">
   <img src="https://archive.org/download/bbc-2022/bbc-2022-07-25T11:58:46.676536+01:00.jpg"
-     alt="BBC at 2022-07-25 18:58:48+01:00 local time"
+     alt="BBC at 2022-07-25 11:58:48+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-25T11:58:46.676536+01:00.jpg">July 25 at 6:58 PM</a></p>
+ <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-25T11:58:46.676536+01:00.jpg">July 25 at 11:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bbc-2022/bbc-2022-07-25T10:09:34.457439+01:00.jpg">
   <img src="https://archive.org/download/bbc-2022/bbc-2022-07-25T10:09:34.457439+01:00.jpg"
-     alt="BBC at 2022-07-25 17:09:40+01:00 local time"
+     alt="BBC at 2022-07-25 10:09:40+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-25T10:09:34.457439+01:00.jpg">July 25 at 5:09 PM</a></p>
+ <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-25T10:09:34.457439+01:00.jpg">July 25 at 10:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bbc-2022/bbc-2022-07-25T01:49:20.794919+01:00.jpg">
   <img src="https://archive.org/download/bbc-2022/bbc-2022-07-25T01:49:20.794919+01:00.jpg"
-     alt="BBC at 2022-07-25 08:49:28+01:00 local time"
+     alt="BBC at 2022-07-25 01:49:28+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-25T01:49:20.794919+01:00.jpg">July 25 at 8:49 AM</a></p>
+ <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-25T01:49:20.794919+01:00.jpg">July 25 at 1:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bbc-2022/bbc-2022-07-24T11:57:50.394478+01:00.jpg">
   <img src="https://archive.org/download/bbc-2022/bbc-2022-07-24T11:57:50.394478+01:00.jpg"
-     alt="BBC at 2022-07-24 18:57:56+01:00 local time"
+     alt="BBC at 2022-07-24 11:57:56+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-24T11:57:50.394478+01:00.jpg">July 24 at 6:57 PM</a></p>
+ <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-24T11:57:50.394478+01:00.jpg">July 24 at 11:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bbc-2022/bbc-2022-07-24T10:10:02.372883+01:00.jpg">
   <img src="https://archive.org/download/bbc-2022/bbc-2022-07-24T10:10:02.372883+01:00.jpg"
-     alt="BBC at 2022-07-24 17:10:06+01:00 local time"
+     alt="BBC at 2022-07-24 10:10:06+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-24T10:10:02.372883+01:00.jpg">July 24 at 5:10 PM</a></p>
+ <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-24T10:10:02.372883+01:00.jpg">July 24 at 10:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bbc-2022/bbc-2022-07-24T00:00:11.706583+01:00.jpg">
   <img src="https://archive.org/download/bbc-2022/bbc-2022-07-24T00:00:11.706583+01:00.jpg"
-     alt="BBC at 2022-07-24 07:00:13+01:00 local time"
+     alt="BBC at 2022-07-24 00:00:13+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-24T00:00:11.706583+01:00.jpg">July 24 at 7:00 AM</a></p>
+ <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-24T00:00:11.706583+01:00.jpg">July 24 at 12:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bbc-2022/bbc-2022-07-23T13:57:22.171575+01:00.jpg">
   <img src="https://archive.org/download/bbc-2022/bbc-2022-07-23T13:57:22.171575+01:00.jpg"
-     alt="BBC at 2022-07-23 20:57:23+01:00 local time"
+     alt="BBC at 2022-07-23 13:57:23+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-23T13:57:22.171575+01:00.jpg">July 23 at 8:57 PM</a></p>
+ <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-23T13:57:22.171575+01:00.jpg">July 23 at 1:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bbc-2022/bbc-2022-07-23T10:06:27.965452+01:00.jpg">
   <img src="https://archive.org/download/bbc-2022/bbc-2022-07-23T10:06:27.965452+01:00.jpg"
-     alt="BBC at 2022-07-23 17:06:32+01:00 local time"
+     alt="BBC at 2022-07-23 10:06:32+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-23T10:06:27.965452+01:00.jpg">July 23 at 5:06 PM</a></p>
+ <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-23T10:06:27.965452+01:00.jpg">July 23 at 10:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bbc-2022/bbc-2022-07-23T01:57:51.599526+01:00.jpg">
   <img src="https://archive.org/download/bbc-2022/bbc-2022-07-23T01:57:51.599526+01:00.jpg"
-     alt="BBC at 2022-07-23 08:57:53+01:00 local time"
+     alt="BBC at 2022-07-23 01:57:53+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-23T01:57:51.599526+01:00.jpg">July 23 at 8:57 AM</a></p>
+ <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-23T01:57:51.599526+01:00.jpg">July 23 at 1:57 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 17:08:41 PM](https://archive.org/download/bbc-2022/bbc-2022-07-26T10:08:32.414041+01:00.hyperlinks.json) |
-| [2022-07-26 10:57:50 AM](https://archive.org/download/bbc-2022/bbc-2022-07-26T03:57:44.931560+01:00.hyperlinks.json) |
-| [2022-07-26 09:31:26 AM](https://archive.org/download/bbc-2022/bbc-2022-07-26T02:31:20.929344+01:00.hyperlinks.json) |
-| [2022-07-25 18:58:52 PM](https://archive.org/download/bbc-2022/bbc-2022-07-25T11:58:46.676536+01:00.hyperlinks.json) |
-| [2022-07-25 17:09:45 PM](https://archive.org/download/bbc-2022/bbc-2022-07-25T10:09:34.457439+01:00.hyperlinks.json) |
-| [2022-07-25 08:49:31 AM](https://archive.org/download/bbc-2022/bbc-2022-07-25T01:49:20.794919+01:00.hyperlinks.json) |
-| [2022-07-24 18:57:59 PM](https://archive.org/download/bbc-2022/bbc-2022-07-24T11:57:50.394478+01:00.hyperlinks.json) |
-| [2022-07-24 17:10:09 PM](https://archive.org/download/bbc-2022/bbc-2022-07-24T10:10:02.372883+01:00.hyperlinks.json) |
-| [2022-07-24 07:00:17 AM](https://archive.org/download/bbc-2022/bbc-2022-07-24T00:00:11.706583+01:00.hyperlinks.json) |
-| [2022-07-23 20:57:26 PM](https://archive.org/download/bbc-2022/bbc-2022-07-23T13:57:22.171575+01:00.hyperlinks.json) |
+| [July 26 at 10:08 AM](https://archive.org/download/bbc-2022/bbc-2022-07-26T10:08:32.414041+01:00.hyperlinks.json) |
+| [July 26 at 3:57 AM](https://archive.org/download/bbc-2022/bbc-2022-07-26T03:57:44.931560+01:00.hyperlinks.json) |
+| [July 26 at 2:31 AM](https://archive.org/download/bbc-2022/bbc-2022-07-26T02:31:20.929344+01:00.hyperlinks.json) |
+| [July 25 at 11:58 AM](https://archive.org/download/bbc-2022/bbc-2022-07-25T11:58:46.676536+01:00.hyperlinks.json) |
+| [July 25 at 10:09 AM](https://archive.org/download/bbc-2022/bbc-2022-07-25T10:09:34.457439+01:00.hyperlinks.json) |
+| [July 25 at 1:49 AM](https://archive.org/download/bbc-2022/bbc-2022-07-25T01:49:20.794919+01:00.hyperlinks.json) |
+| [July 24 at 11:57 AM](https://archive.org/download/bbc-2022/bbc-2022-07-24T11:57:50.394478+01:00.hyperlinks.json) |
+| [July 24 at 10:10 AM](https://archive.org/download/bbc-2022/bbc-2022-07-24T10:10:02.372883+01:00.hyperlinks.json) |
+| [July 24 at 12:00 AM](https://archive.org/download/bbc-2022/bbc-2022-07-24T00:00:11.706583+01:00.hyperlinks.json) |
+| [July 23 at 1:57 PM](https://archive.org/download/bbc-2022/bbc-2022-07-23T13:57:22.171575+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-26T07:16:19.527989-04:00.jpg">
   <img src="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-26T07:16:19.527989-04:00.jpg"
-     alt="Decision Desk HQ at 2022-07-26 14:16:22-04:00 local time"
+     alt="Decision Desk HQ at 2022-07-26 07:16:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-26T07:16:19.527989-04:00.jpg">July 26 at 2:16 PM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-26T07:16:19.527989-04:00.jpg">July 26 at 7:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-25T19:12:31.382481-04:00.jpg">
   <img src="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-25T19:12:31.382481-04:00.jpg"
-     alt="Decision Desk HQ at 2022-07-26 02:12:36-04:00 local time"
+     alt="Decision Desk HQ at 2022-07-25 19:12:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-25T19:12:31.382481-04:00.jpg">July 26 at 2:12 AM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-25T19:12:31.382481-04:00.jpg">July 25 at 7:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-25T07:59:41.075055-04:00.jpg">
   <img src="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-25T07:59:41.075055-04:00.jpg"
-     alt="Decision Desk HQ at 2022-07-25 14:59:44-04:00 local time"
+     alt="Decision Desk HQ at 2022-07-25 07:59:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-25T07:59:41.075055-04:00.jpg">July 25 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-25T07:59:41.075055-04:00.jpg">July 25 at 7:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T21:01:12.268770-04:00.jpg">
   <img src="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T21:01:12.268770-04:00.jpg"
-     alt="Decision Desk HQ at 2022-07-25 04:01:13-04:00 local time"
+     alt="Decision Desk HQ at 2022-07-24 21:01:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T21:01:12.268770-04:00.jpg">July 25 at 4:01 AM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T21:01:12.268770-04:00.jpg">July 24 at 9:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T07:57:39.263386-04:00.jpg">
   <img src="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T07:57:39.263386-04:00.jpg"
-     alt="Decision Desk HQ at 2022-07-24 14:57:41-04:00 local time"
+     alt="Decision Desk HQ at 2022-07-24 07:57:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T07:57:39.263386-04:00.jpg">July 24 at 2:57 PM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T07:57:39.263386-04:00.jpg">July 24 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T02:27:23.594468-04:00.jpg">
   <img src="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T02:27:23.594468-04:00.jpg"
-     alt="Decision Desk HQ at 2022-07-24 09:27:25-04:00 local time"
+     alt="Decision Desk HQ at 2022-07-24 02:27:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T02:27:23.594468-04:00.jpg">July 24 at 9:27 AM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T02:27:23.594468-04:00.jpg">July 24 at 2:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-23T09:04:43.621210-04:00.jpg">
   <img src="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-23T09:04:43.621210-04:00.jpg"
-     alt="Decision Desk HQ at 2022-07-23 16:04:45-04:00 local time"
+     alt="Decision Desk HQ at 2022-07-23 09:04:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-23T09:04:43.621210-04:00.jpg">July 23 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-23T09:04:43.621210-04:00.jpg">July 23 at 9:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-22T21:04:00.136526-04:00.jpg">
   <img src="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-22T21:04:00.136526-04:00.jpg"
-     alt="Decision Desk HQ at 2022-07-23 04:04:01-04:00 local time"
+     alt="Decision Desk HQ at 2022-07-22 21:04:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-22T21:04:00.136526-04:00.jpg">July 23 at 4:04 AM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-22T21:04:00.136526-04:00.jpg">July 22 at 9:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-22T09:03:46.227115-04:00.jpg">
   <img src="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-22T09:03:46.227115-04:00.jpg"
-     alt="Decision Desk HQ at 2022-07-22 16:03:48-04:00 local time"
+     alt="Decision Desk HQ at 2022-07-22 09:03:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-22T09:03:46.227115-04:00.jpg">July 22 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-22T09:03:46.227115-04:00.jpg">July 22 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-21T21:11:49.296472-04:00.jpg">
   <img src="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-21T21:11:49.296472-04:00.jpg"
-     alt="Decision Desk HQ at 2022-07-22 04:11:53-04:00 local time"
+     alt="Decision Desk HQ at 2022-07-21 21:11:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-21T21:11:49.296472-04:00.jpg">July 22 at 4:11 AM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-21T21:11:49.296472-04:00.jpg">July 21 at 9:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-21T08:57:14.477478-04:00.jpg">
   <img src="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-21T08:57:14.477478-04:00.jpg"
-     alt="Decision Desk HQ at 2022-07-21 15:57:17-04:00 local time"
+     alt="Decision Desk HQ at 2022-07-21 08:57:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-21T08:57:14.477478-04:00.jpg">July 21 at 3:57 PM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-21T08:57:14.477478-04:00.jpg">July 21 at 8:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-20T21:10:47.202604-04:00.jpg">
   <img src="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-20T21:10:47.202604-04:00.jpg"
-     alt="Decision Desk HQ at 2022-07-21 04:10:48-04:00 local time"
+     alt="Decision Desk HQ at 2022-07-20 21:10:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-20T21:10:47.202604-04:00.jpg">July 21 at 4:10 AM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-20T21:10:47.202604-04:00.jpg">July 20 at 9:10 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 14:16:26 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-26T07:16:19.527989-04:00.hyperlinks.json) |
-| [2022-07-26 02:12:39 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-25T19:12:31.382481-04:00.hyperlinks.json) |
-| [2022-07-25 14:59:47 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-25T07:59:41.075055-04:00.hyperlinks.json) |
-| [2022-07-25 04:01:16 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T21:01:12.268770-04:00.hyperlinks.json) |
-| [2022-07-24 14:57:44 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T07:57:39.263386-04:00.hyperlinks.json) |
-| [2022-07-24 09:27:28 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T02:27:23.594468-04:00.hyperlinks.json) |
-| [2022-07-23 16:04:49 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-23T09:04:43.621210-04:00.hyperlinks.json) |
-| [2022-07-23 04:04:05 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-22T21:04:00.136526-04:00.hyperlinks.json) |
-| [2022-07-22 16:03:52 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-22T09:03:46.227115-04:00.hyperlinks.json) |
-| [2022-07-22 04:11:55 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-21T21:11:49.296472-04:00.hyperlinks.json) |
+| [July 26 at 7:16 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-26T07:16:19.527989-04:00.hyperlinks.json) |
+| [July 25 at 7:12 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-25T19:12:31.382481-04:00.hyperlinks.json) |
+| [July 25 at 7:59 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-25T07:59:41.075055-04:00.hyperlinks.json) |
+| [July 24 at 9:01 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T21:01:12.268770-04:00.hyperlinks.json) |
+| [July 24 at 7:57 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T07:57:39.263386-04:00.hyperlinks.json) |
+| [July 24 at 2:27 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T02:27:23.594468-04:00.hyperlinks.json) |
+| [July 23 at 9:04 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-23T09:04:43.621210-04:00.hyperlinks.json) |
+| [July 22 at 9:04 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-22T21:04:00.136526-04:00.hyperlinks.json) |
+| [July 22 at 9:03 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-22T09:03:46.227115-04:00.hyperlinks.json) |
+| [July 21 at 9:11 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-21T21:11:49.296472-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

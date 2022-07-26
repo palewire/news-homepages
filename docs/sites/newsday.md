@@ -31,19 +31,19 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/newsday-2022/newsday-2022-07-26T08:25:44.484950-04:00.jpg">
   <img src="https://archive.org/download/newsday-2022/newsday-2022-07-26T08:25:44.484950-04:00.jpg"
-     alt="Newsday at 2022-07-26 15:25:46-04:00 local time"
+     alt="Newsday at 2022-07-26 08:25:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsday-2022/newsday-2022-07-26T08:25:44.484950-04:00.jpg">July 26 at 3:25 PM</a></p>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-07-26T08:25:44.484950-04:00.jpg">July 26 at 8:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsday-2022/newsday-2022-07-25T20:21:10.843544-04:00.jpg">
   <img src="https://archive.org/download/newsday-2022/newsday-2022-07-25T20:21:10.843544-04:00.jpg"
-     alt="Newsday at 2022-07-26 03:21:16-04:00 local time"
+     alt="Newsday at 2022-07-25 20:21:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsday-2022/newsday-2022-07-25T20:21:10.843544-04:00.jpg">July 26 at 3:21 AM</a></p>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-07-25T20:21:10.843544-04:00.jpg">July 25 at 8:21 PM</a></p>
 </div>
 
 </div>
@@ -58,8 +58,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 15:25:49 PM](https://archive.org/download/newsday-2022/newsday-2022-07-26T08:25:44.484950-04:00.hyperlinks.json) |
-| [2022-07-26 03:21:29 AM](https://archive.org/download/newsday-2022/newsday-2022-07-25T20:21:10.843544-04:00.hyperlinks.json) |
+| [July 26 at 8:25 AM](https://archive.org/download/newsday-2022/newsday-2022-07-26T08:25:44.484950-04:00.hyperlinks.json) |
+| [July 25 at 8:21 PM](https://archive.org/download/newsday-2022/newsday-2022-07-25T20:21:10.843544-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

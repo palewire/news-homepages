@@ -31,109 +31,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-26T13:16:27.960799+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-07-26T13:16:27.960799+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-07-26 20:16:30+02:00 local time"
+     alt="Dagens Næringsliv at 2022-07-26 13:16:30+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-26T13:16:27.960799+02:00.jpg">July 26 at 8:16 PM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-26T13:16:27.960799+02:00.jpg">July 26 at 1:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-26T01:12:49.446835+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-07-26T01:12:49.446835+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-07-26 08:12:51+02:00 local time"
+     alt="Dagens Næringsliv at 2022-07-26 01:12:51+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-26T01:12:49.446835+02:00.jpg">July 26 at 8:12 AM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-26T01:12:49.446835+02:00.jpg">July 26 at 1:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-25T14:00:02.047429+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-07-25T14:00:02.047429+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-07-25 21:00:03+02:00 local time"
+     alt="Dagens Næringsliv at 2022-07-25 14:00:03+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-25T14:00:02.047429+02:00.jpg">July 25 at 9:00 PM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-25T14:00:02.047429+02:00.jpg">July 25 at 2:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-25T03:01:09.380068+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-07-25T03:01:09.380068+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-07-25 10:01:11+02:00 local time"
+     alt="Dagens Næringsliv at 2022-07-25 03:01:11+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-25T03:01:09.380068+02:00.jpg">July 25 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-25T03:01:09.380068+02:00.jpg">July 25 at 3:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-24T13:57:36.439884+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-07-24T13:57:36.439884+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-07-24 20:57:39+02:00 local time"
+     alt="Dagens Næringsliv at 2022-07-24 13:57:39+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-24T13:57:36.439884+02:00.jpg">July 24 at 8:57 PM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-24T13:57:36.439884+02:00.jpg">July 24 at 1:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-24T08:27:13.578049+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-07-24T08:27:13.578049+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-07-24 15:27:14+02:00 local time"
+     alt="Dagens Næringsliv at 2022-07-24 08:27:14+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-24T08:27:13.578049+02:00.jpg">July 24 at 3:27 PM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-24T08:27:13.578049+02:00.jpg">July 24 at 8:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-23T15:56:59.464509+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-07-23T15:56:59.464509+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-07-23 22:57:01+02:00 local time"
+     alt="Dagens Næringsliv at 2022-07-23 15:57:01+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-23T15:56:59.464509+02:00.jpg">July 23 at 10:57 PM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-23T15:56:59.464509+02:00.jpg">July 23 at 3:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-23T04:23:49.378874+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-07-23T04:23:49.378874+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-07-23 11:23:50+02:00 local time"
+     alt="Dagens Næringsliv at 2022-07-23 04:23:50+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-23T04:23:49.378874+02:00.jpg">July 23 at 11:23 AM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-23T04:23:49.378874+02:00.jpg">July 23 at 4:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-22T15:59:20.750781+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-07-22T15:59:20.750781+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-07-22 22:59:21+02:00 local time"
+     alt="Dagens Næringsliv at 2022-07-22 15:59:21+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-22T15:59:20.750781+02:00.jpg">July 22 at 10:59 PM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-22T15:59:20.750781+02:00.jpg">July 22 at 3:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-22T04:18:33.508249+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-07-22T04:18:33.508249+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-07-22 11:18:35+02:00 local time"
+     alt="Dagens Næringsliv at 2022-07-22 04:18:35+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-22T04:18:33.508249+02:00.jpg">July 22 at 11:18 AM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-22T04:18:33.508249+02:00.jpg">July 22 at 4:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-21T16:04:04.517222+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-07-21T16:04:04.517222+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-07-21 23:04:06+02:00 local time"
+     alt="Dagens Næringsliv at 2022-07-21 16:04:06+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-21T16:04:04.517222+02:00.jpg">July 21 at 11:04 PM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-21T16:04:04.517222+02:00.jpg">July 21 at 4:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-21T04:21:16.728490+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-07-21T04:21:16.728490+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-07-21 11:21:18+02:00 local time"
+     alt="Dagens Næringsliv at 2022-07-21 04:21:18+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-21T04:21:16.728490+02:00.jpg">July 21 at 11:21 AM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-07-21T04:21:16.728490+02:00.jpg">July 21 at 4:21 AM</a></p>
 </div>
 
 </div>
@@ -148,16 +148,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 20:16:33 PM](https://archive.org/download/dn_no-2022/dn_no-2022-07-26T13:16:27.960799+02:00.hyperlinks.json) |
-| [2022-07-26 08:12:54 AM](https://archive.org/download/dn_no-2022/dn_no-2022-07-26T01:12:49.446835+02:00.hyperlinks.json) |
-| [2022-07-25 21:00:06 PM](https://archive.org/download/dn_no-2022/dn_no-2022-07-25T14:00:02.047429+02:00.hyperlinks.json) |
-| [2022-07-25 10:01:14 AM](https://archive.org/download/dn_no-2022/dn_no-2022-07-25T03:01:09.380068+02:00.hyperlinks.json) |
-| [2022-07-24 20:57:43 PM](https://archive.org/download/dn_no-2022/dn_no-2022-07-24T13:57:36.439884+02:00.hyperlinks.json) |
-| [2022-07-24 15:27:17 PM](https://archive.org/download/dn_no-2022/dn_no-2022-07-24T08:27:13.578049+02:00.hyperlinks.json) |
-| [2022-07-23 22:57:03 PM](https://archive.org/download/dn_no-2022/dn_no-2022-07-23T15:56:59.464509+02:00.hyperlinks.json) |
-| [2022-07-23 11:23:53 AM](https://archive.org/download/dn_no-2022/dn_no-2022-07-23T04:23:49.378874+02:00.hyperlinks.json) |
-| [2022-07-22 22:59:25 PM](https://archive.org/download/dn_no-2022/dn_no-2022-07-22T15:59:20.750781+02:00.hyperlinks.json) |
-| [2022-07-22 11:18:39 AM](https://archive.org/download/dn_no-2022/dn_no-2022-07-22T04:18:33.508249+02:00.hyperlinks.json) |
+| [July 26 at 1:16 PM](https://archive.org/download/dn_no-2022/dn_no-2022-07-26T13:16:27.960799+02:00.hyperlinks.json) |
+| [July 26 at 1:12 AM](https://archive.org/download/dn_no-2022/dn_no-2022-07-26T01:12:49.446835+02:00.hyperlinks.json) |
+| [July 25 at 2:00 PM](https://archive.org/download/dn_no-2022/dn_no-2022-07-25T14:00:02.047429+02:00.hyperlinks.json) |
+| [July 25 at 3:01 AM](https://archive.org/download/dn_no-2022/dn_no-2022-07-25T03:01:09.380068+02:00.hyperlinks.json) |
+| [July 24 at 1:57 PM](https://archive.org/download/dn_no-2022/dn_no-2022-07-24T13:57:36.439884+02:00.hyperlinks.json) |
+| [July 24 at 8:27 AM](https://archive.org/download/dn_no-2022/dn_no-2022-07-24T08:27:13.578049+02:00.hyperlinks.json) |
+| [July 23 at 3:57 PM](https://archive.org/download/dn_no-2022/dn_no-2022-07-23T15:56:59.464509+02:00.hyperlinks.json) |
+| [July 23 at 4:23 AM](https://archive.org/download/dn_no-2022/dn_no-2022-07-23T04:23:49.378874+02:00.hyperlinks.json) |
+| [July 22 at 3:59 PM](https://archive.org/download/dn_no-2022/dn_no-2022-07-22T15:59:20.750781+02:00.hyperlinks.json) |
+| [July 22 at 4:18 AM](https://archive.org/download/dn_no-2022/dn_no-2022-07-22T04:18:33.508249+02:00.hyperlinks.json) |
 
 
 ## Internet Archive

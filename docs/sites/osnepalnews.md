@@ -31,37 +31,37 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-26T09:39:04.508893+05:45.jpg">
   <img src="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-26T09:39:04.508893+05:45.jpg"
-     alt="OSNepal at 2022-07-26 16:39:06+05:45 local time"
+     alt="OSNepal at 2022-07-26 09:39:06+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-26T09:39:04.508893+05:45.jpg">July 26 at 4:39 PM</a></p>
+ <p><a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-26T09:39:04.508893+05:45.jpg">July 26 at 9:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T21:21:07.457877+05:45.jpg">
   <img src="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T21:21:07.457877+05:45.jpg"
-     alt="OSNepal at 2022-07-26 04:21:08+05:45 local time"
+     alt="OSNepal at 2022-07-25 21:21:08+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T21:21:07.457877+05:45.jpg">July 26 at 4:21 AM</a></p>
+ <p><a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T21:21:07.457877+05:45.jpg">July 25 at 9:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T09:23:33.488950+05:45.jpg">
   <img src="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T09:23:33.488950+05:45.jpg"
-     alt="OSNepal at 2022-07-25 16:23:35+05:45 local time"
+     alt="OSNepal at 2022-07-25 09:23:35+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T09:23:33.488950+05:45.jpg">July 25 at 4:23 PM</a></p>
+ <p><a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T09:23:33.488950+05:45.jpg">July 25 at 9:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T02:23:40.333371+05:45.jpg">
   <img src="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T02:23:40.333371+05:45.jpg"
-     alt="OSNepal at 2022-07-25 09:23:46+05:45 local time"
+     alt="OSNepal at 2022-07-25 02:23:46+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T02:23:40.333371+05:45.jpg">July 25 at 9:23 AM</a></p>
+ <p><a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T02:23:40.333371+05:45.jpg">July 25 at 2:23 AM</a></p>
 </div>
 
 </div>
@@ -76,10 +76,10 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 16:39:10 PM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-26T09:39:04.508893+05:45.hyperlinks.json) |
-| [2022-07-26 04:21:11 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T21:21:07.457877+05:45.hyperlinks.json) |
-| [2022-07-25 16:23:38 PM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T09:23:33.488950+05:45.hyperlinks.json) |
-| [2022-07-25 09:23:57 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T02:23:40.333371+05:45.hyperlinks.json) |
+| [July 26 at 9:39 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-26T09:39:04.508893+05:45.hyperlinks.json) |
+| [July 25 at 9:21 PM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T21:21:07.457877+05:45.hyperlinks.json) |
+| [July 25 at 9:23 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T09:23:33.488950+05:45.hyperlinks.json) |
+| [July 25 at 2:23 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T02:23:40.333371+05:45.hyperlinks.json) |
 
 
 ## Internet Archive

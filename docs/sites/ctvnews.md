@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T22:59:56.908855-04:00.jpg">
   <img src="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T22:59:56.908855-04:00.jpg"
-     alt="CTV News at 2022-07-26 05:59:57-04:00 local time"
+     alt="CTV News at 2022-07-25 22:59:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T22:59:56.908855-04:00.jpg">July 26 at 5:59 AM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T22:59:56.908855-04:00.jpg">July 25 at 10:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T21:32:24.550965-04:00.jpg">
   <img src="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T21:32:24.550965-04:00.jpg"
-     alt="CTV News at 2022-07-26 04:32:27-04:00 local time"
+     alt="CTV News at 2022-07-25 21:32:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T21:32:24.550965-04:00.jpg">July 26 at 4:32 AM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T21:32:24.550965-04:00.jpg">July 25 at 9:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T07:58:41.966177-04:00.jpg">
   <img src="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T07:58:41.966177-04:00.jpg"
-     alt="CTV News at 2022-07-25 14:58:48-04:00 local time"
+     alt="CTV News at 2022-07-25 07:58:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T07:58:41.966177-04:00.jpg">July 25 at 2:58 PM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T07:58:41.966177-04:00.jpg">July 25 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T20:57:54.464942-04:00.jpg">
   <img src="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T20:57:54.464942-04:00.jpg"
-     alt="CTV News at 2022-07-25 03:57:59-04:00 local time"
+     alt="CTV News at 2022-07-24 20:57:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T20:57:54.464942-04:00.jpg">July 25 at 3:57 AM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T20:57:54.464942-04:00.jpg">July 24 at 8:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T07:56:10.145792-04:00.jpg">
   <img src="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T07:56:10.145792-04:00.jpg"
-     alt="CTV News at 2022-07-24 14:56:11-04:00 local time"
+     alt="CTV News at 2022-07-24 07:56:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T07:56:10.145792-04:00.jpg">July 24 at 2:56 PM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T07:56:10.145792-04:00.jpg">July 24 at 7:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T02:25:55.478427-04:00.jpg">
   <img src="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T02:25:55.478427-04:00.jpg"
-     alt="CTV News at 2022-07-24 09:25:57-04:00 local time"
+     alt="CTV News at 2022-07-24 02:25:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T02:25:55.478427-04:00.jpg">July 24 at 9:25 AM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T02:25:55.478427-04:00.jpg">July 24 at 2:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-23T09:02:10.134718-04:00.jpg">
   <img src="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-23T09:02:10.134718-04:00.jpg"
-     alt="CTV News at 2022-07-23 16:02:11-04:00 local time"
+     alt="CTV News at 2022-07-23 09:02:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-23T09:02:10.134718-04:00.jpg">July 23 at 4:02 PM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-23T09:02:10.134718-04:00.jpg">July 23 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-22T21:02:56.222154-04:00.jpg">
   <img src="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-22T21:02:56.222154-04:00.jpg"
-     alt="CTV News at 2022-07-23 04:02:58-04:00 local time"
+     alt="CTV News at 2022-07-22 21:02:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-22T21:02:56.222154-04:00.jpg">July 23 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-22T21:02:56.222154-04:00.jpg">July 22 at 9:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-22T09:02:44.574772-04:00.jpg">
   <img src="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-22T09:02:44.574772-04:00.jpg"
-     alt="CTV News at 2022-07-22 16:02:46-04:00 local time"
+     alt="CTV News at 2022-07-22 09:02:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-22T09:02:44.574772-04:00.jpg">July 22 at 4:02 PM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-22T09:02:44.574772-04:00.jpg">July 22 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-21T21:10:15.554896-04:00.jpg">
   <img src="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-21T21:10:15.554896-04:00.jpg"
-     alt="CTV News at 2022-07-22 04:10:16-04:00 local time"
+     alt="CTV News at 2022-07-21 21:10:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-21T21:10:15.554896-04:00.jpg">July 22 at 4:10 AM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-21T21:10:15.554896-04:00.jpg">July 21 at 9:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-21T08:56:26.811562-04:00.jpg">
   <img src="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-21T08:56:26.811562-04:00.jpg"
-     alt="CTV News at 2022-07-21 15:56:28-04:00 local time"
+     alt="CTV News at 2022-07-21 08:56:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-21T08:56:26.811562-04:00.jpg">July 21 at 3:56 PM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-21T08:56:26.811562-04:00.jpg">July 21 at 8:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-20T21:09:10.378921-04:00.jpg">
   <img src="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-20T21:09:10.378921-04:00.jpg"
-     alt="CTV News at 2022-07-21 04:09:11-04:00 local time"
+     alt="CTV News at 2022-07-20 21:09:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-20T21:09:10.378921-04:00.jpg">July 21 at 4:09 AM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-20T21:09:10.378921-04:00.jpg">July 20 at 9:09 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 06:00:00 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T22:59:56.908855-04:00.hyperlinks.json) |
-| [2022-07-26 04:32:31 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T21:32:24.550965-04:00.hyperlinks.json) |
-| [2022-07-25 14:58:52 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T07:58:41.966177-04:00.hyperlinks.json) |
-| [2022-07-25 03:58:02 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T20:57:54.464942-04:00.hyperlinks.json) |
-| [2022-07-24 14:56:15 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T07:56:10.145792-04:00.hyperlinks.json) |
-| [2022-07-24 09:26:00 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T02:25:55.478427-04:00.hyperlinks.json) |
-| [2022-07-23 16:02:16 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-23T09:02:10.134718-04:00.hyperlinks.json) |
-| [2022-07-23 04:03:01 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-22T21:02:56.222154-04:00.hyperlinks.json) |
-| [2022-07-22 16:02:50 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-22T09:02:44.574772-04:00.hyperlinks.json) |
-| [2022-07-22 04:10:20 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-21T21:10:15.554896-04:00.hyperlinks.json) |
+| [July 25 at 11:00 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T22:59:56.908855-04:00.hyperlinks.json) |
+| [July 25 at 9:32 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T21:32:24.550965-04:00.hyperlinks.json) |
+| [July 25 at 7:58 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T07:58:41.966177-04:00.hyperlinks.json) |
+| [July 24 at 8:58 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T20:57:54.464942-04:00.hyperlinks.json) |
+| [July 24 at 7:56 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T07:56:10.145792-04:00.hyperlinks.json) |
+| [July 24 at 2:26 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T02:25:55.478427-04:00.hyperlinks.json) |
+| [July 23 at 9:02 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-23T09:02:10.134718-04:00.hyperlinks.json) |
+| [July 22 at 9:03 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-22T21:02:56.222154-04:00.hyperlinks.json) |
+| [July 22 at 9:02 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-22T09:02:44.574772-04:00.hyperlinks.json) |
+| [July 21 at 9:10 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-21T21:10:15.554896-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

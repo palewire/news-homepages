@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-26T15:18:49.845579+03:00.jpg">
   <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-26T15:18:49.845579+03:00.jpg"
-     alt="hromadske at 2022-07-26 22:18:55+03:00 local time"
+     alt="hromadske at 2022-07-26 15:18:55+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-26T15:18:49.845579+03:00.jpg">July 26 at 10:18 PM</a></p>
+ <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-26T15:18:49.845579+03:00.jpg">July 26 at 3:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-26T03:14:32.633450+03:00.jpg">
   <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-26T03:14:32.633450+03:00.jpg"
-     alt="hromadske at 2022-07-26 10:14:41+03:00 local time"
+     alt="hromadske at 2022-07-26 03:14:41+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-26T03:14:32.633450+03:00.jpg">July 26 at 10:14 AM</a></p>
+ <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-26T03:14:32.633450+03:00.jpg">July 26 at 3:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-25T15:05:38.141202+03:00.jpg">
   <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-25T15:05:38.141202+03:00.jpg"
-     alt="hromadske at 2022-07-25 22:05:44+03:00 local time"
+     alt="hromadske at 2022-07-25 15:05:44+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-25T15:05:38.141202+03:00.jpg">July 25 at 10:05 PM</a></p>
+ <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-25T15:05:38.141202+03:00.jpg">July 25 at 3:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-25T04:10:55.048217+03:00.jpg">
   <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-25T04:10:55.048217+03:00.jpg"
-     alt="hromadske at 2022-07-25 11:10:56+03:00 local time"
+     alt="hromadske at 2022-07-25 04:10:56+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-25T04:10:55.048217+03:00.jpg">July 25 at 11:10 AM</a></p>
+ <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-25T04:10:55.048217+03:00.jpg">July 25 at 4:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-24T15:02:38.520114+03:00.jpg">
   <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-24T15:02:38.520114+03:00.jpg"
-     alt="hromadske at 2022-07-24 22:02:40+03:00 local time"
+     alt="hromadske at 2022-07-24 15:02:40+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-24T15:02:38.520114+03:00.jpg">July 24 at 10:02 PM</a></p>
+ <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-24T15:02:38.520114+03:00.jpg">July 24 at 3:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-24T09:32:35.563286+03:00.jpg">
   <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-24T09:32:35.563286+03:00.jpg"
-     alt="hromadske at 2022-07-24 16:32:40+03:00 local time"
+     alt="hromadske at 2022-07-24 09:32:40+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-24T09:32:35.563286+03:00.jpg">July 24 at 4:32 PM</a></p>
+ <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-24T09:32:35.563286+03:00.jpg">July 24 at 9:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-23T17:02:25.863088+03:00.jpg">
   <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-23T17:02:25.863088+03:00.jpg"
-     alt="hromadske at 2022-07-24 00:02:31+03:00 local time"
+     alt="hromadske at 2022-07-23 17:02:31+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-23T17:02:25.863088+03:00.jpg">July 24 at 12:02 AM</a></p>
+ <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-23T17:02:25.863088+03:00.jpg">July 23 at 5:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-23T05:28:22.012601+03:00.jpg">
   <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-23T05:28:22.012601+03:00.jpg"
-     alt="hromadske at 2022-07-23 12:28:23+03:00 local time"
+     alt="hromadske at 2022-07-23 05:28:23+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-23T05:28:22.012601+03:00.jpg">July 23 at 12:28 PM</a></p>
+ <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-23T05:28:22.012601+03:00.jpg">July 23 at 5:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-22T17:03:04.744499+03:00.jpg">
   <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-22T17:03:04.744499+03:00.jpg"
-     alt="hromadske at 2022-07-23 00:03:06+03:00 local time"
+     alt="hromadske at 2022-07-22 17:03:06+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-22T17:03:04.744499+03:00.jpg">July 23 at 12:03 AM</a></p>
+ <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-22T17:03:04.744499+03:00.jpg">July 22 at 5:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-22T05:22:12.493357+03:00.jpg">
   <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-22T05:22:12.493357+03:00.jpg"
-     alt="hromadske at 2022-07-22 12:22:17+03:00 local time"
+     alt="hromadske at 2022-07-22 05:22:17+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-22T05:22:12.493357+03:00.jpg">July 22 at 12:22 PM</a></p>
+ <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-22T05:22:12.493357+03:00.jpg">July 22 at 5:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-21T17:12:08.808681+03:00.jpg">
   <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-21T17:12:08.808681+03:00.jpg"
-     alt="hromadske at 2022-07-22 00:12:10+03:00 local time"
+     alt="hromadske at 2022-07-21 17:12:10+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-21T17:12:08.808681+03:00.jpg">July 22 at 12:12 AM</a></p>
+ <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-21T17:12:08.808681+03:00.jpg">July 21 at 5:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-21T05:25:15.162181+03:00.jpg">
   <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-21T05:25:15.162181+03:00.jpg"
-     alt="hromadske at 2022-07-21 12:25:16+03:00 local time"
+     alt="hromadske at 2022-07-21 05:25:16+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-21T05:25:15.162181+03:00.jpg">July 21 at 12:25 PM</a></p>
+ <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-21T05:25:15.162181+03:00.jpg">July 21 at 5:25 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 22:19:00 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-26T15:18:49.845579+03:00.hyperlinks.json) |
-| [2022-07-26 10:14:45 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-26T03:14:32.633450+03:00.hyperlinks.json) |
-| [2022-07-25 22:05:47 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-25T15:05:38.141202+03:00.hyperlinks.json) |
-| [2022-07-25 11:11:00 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-25T04:10:55.048217+03:00.hyperlinks.json) |
-| [2022-07-24 22:02:45 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-24T15:02:38.520114+03:00.hyperlinks.json) |
-| [2022-07-24 16:32:49 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-24T09:32:35.563286+03:00.hyperlinks.json) |
-| [2022-07-24 00:02:34 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-23T17:02:25.863088+03:00.hyperlinks.json) |
-| [2022-07-23 12:28:26 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-23T05:28:22.012601+03:00.hyperlinks.json) |
-| [2022-07-23 00:03:11 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-22T17:03:04.744499+03:00.hyperlinks.json) |
-| [2022-07-22 12:22:20 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-22T05:22:12.493357+03:00.hyperlinks.json) |
+| [July 26 at 3:19 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-26T15:18:49.845579+03:00.hyperlinks.json) |
+| [July 26 at 3:14 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-26T03:14:32.633450+03:00.hyperlinks.json) |
+| [July 25 at 3:05 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-25T15:05:38.141202+03:00.hyperlinks.json) |
+| [July 25 at 4:11 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-25T04:10:55.048217+03:00.hyperlinks.json) |
+| [July 24 at 3:02 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-24T15:02:38.520114+03:00.hyperlinks.json) |
+| [July 24 at 9:32 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-24T09:32:35.563286+03:00.hyperlinks.json) |
+| [July 23 at 5:02 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-23T17:02:25.863088+03:00.hyperlinks.json) |
+| [July 23 at 5:28 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-23T05:28:22.012601+03:00.hyperlinks.json) |
+| [July 22 at 5:03 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-22T17:03:04.744499+03:00.hyperlinks.json) |
+| [July 22 at 5:22 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-22T05:22:12.493357+03:00.hyperlinks.json) |
 
 
 ## Internet Archive

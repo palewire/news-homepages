@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-25T19:43:29.052000-07:00.jpg">
   <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-25T19:43:29.052000-07:00.jpg"
-     alt="The Georgia Straight at 2022-07-26 02:43:33-07:00 local time"
+     alt="The Georgia Straight at 2022-07-25 19:43:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-25T19:43:29.052000-07:00.jpg">July 26 at 2:43 AM</a></p>
+ <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-25T19:43:29.052000-07:00.jpg">July 25 at 7:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-25T05:04:08.464108-07:00.jpg">
   <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-25T05:04:08.464108-07:00.jpg"
-     alt="The Georgia Straight at 2022-07-25 12:04:11-07:00 local time"
+     alt="The Georgia Straight at 2022-07-25 05:04:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-25T05:04:08.464108-07:00.jpg">July 25 at 12:04 PM</a></p>
+ <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-25T05:04:08.464108-07:00.jpg">July 25 at 5:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-24T18:09:39.542023-07:00.jpg">
   <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-24T18:09:39.542023-07:00.jpg"
-     alt="The Georgia Straight at 2022-07-25 01:09:40-07:00 local time"
+     alt="The Georgia Straight at 2022-07-24 18:09:40-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-24T18:09:39.542023-07:00.jpg">July 25 at 1:09 AM</a></p>
+ <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-24T18:09:39.542023-07:00.jpg">July 24 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-24T05:01:04.278802-07:00.jpg">
   <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-24T05:01:04.278802-07:00.jpg"
-     alt="The Georgia Straight at 2022-07-24 12:01:07-07:00 local time"
+     alt="The Georgia Straight at 2022-07-24 05:01:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-24T05:01:04.278802-07:00.jpg">July 24 at 12:01 PM</a></p>
+ <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-24T05:01:04.278802-07:00.jpg">July 24 at 5:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-23T23:31:03.382582-07:00.jpg">
   <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-23T23:31:03.382582-07:00.jpg"
-     alt="The Georgia Straight at 2022-07-24 06:31:05-07:00 local time"
+     alt="The Georgia Straight at 2022-07-23 23:31:05-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-23T23:31:03.382582-07:00.jpg">July 24 at 6:31 AM</a></p>
+ <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-23T23:31:03.382582-07:00.jpg">July 23 at 11:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-23T07:00:31.143971-07:00.jpg">
   <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-23T07:00:31.143971-07:00.jpg"
-     alt="The Georgia Straight at 2022-07-23 14:00:33-07:00 local time"
+     alt="The Georgia Straight at 2022-07-23 07:00:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-23T07:00:31.143971-07:00.jpg">July 23 at 2:00 PM</a></p>
+ <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-23T07:00:31.143971-07:00.jpg">July 23 at 7:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-22T19:28:09.393915-07:00.jpg">
   <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-22T19:28:09.393915-07:00.jpg"
-     alt="The Georgia Straight at 2022-07-23 02:28:10-07:00 local time"
+     alt="The Georgia Straight at 2022-07-22 19:28:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-22T19:28:09.393915-07:00.jpg">July 23 at 2:28 AM</a></p>
+ <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-22T19:28:09.393915-07:00.jpg">July 22 at 7:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-22T07:02:08.967746-07:00.jpg">
   <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-22T07:02:08.967746-07:00.jpg"
-     alt="The Georgia Straight at 2022-07-22 14:02:11-07:00 local time"
+     alt="The Georgia Straight at 2022-07-22 07:02:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-22T07:02:08.967746-07:00.jpg">July 22 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-22T07:02:08.967746-07:00.jpg">July 22 at 7:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-21T19:20:58.118993-07:00.jpg">
   <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-21T19:20:58.118993-07:00.jpg"
-     alt="The Georgia Straight at 2022-07-22 02:21:00-07:00 local time"
+     alt="The Georgia Straight at 2022-07-21 19:21:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-21T19:20:58.118993-07:00.jpg">July 22 at 2:21 AM</a></p>
+ <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-21T19:20:58.118993-07:00.jpg">July 21 at 7:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-21T07:08:46.855971-07:00.jpg">
   <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-21T07:08:46.855971-07:00.jpg"
-     alt="The Georgia Straight at 2022-07-21 14:08:49-07:00 local time"
+     alt="The Georgia Straight at 2022-07-21 07:08:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-21T07:08:46.855971-07:00.jpg">July 21 at 2:08 PM</a></p>
+ <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-21T07:08:46.855971-07:00.jpg">July 21 at 7:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-20T19:24:05.990157-07:00.jpg">
   <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-20T19:24:05.990157-07:00.jpg"
-     alt="The Georgia Straight at 2022-07-21 02:24:10-07:00 local time"
+     alt="The Georgia Straight at 2022-07-20 19:24:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-20T19:24:05.990157-07:00.jpg">July 21 at 2:24 AM</a></p>
+ <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-20T19:24:05.990157-07:00.jpg">July 20 at 7:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-20T07:24:12.491240-07:00.jpg">
   <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-20T07:24:12.491240-07:00.jpg"
-     alt="The Georgia Straight at 2022-07-20 14:24:15-07:00 local time"
+     alt="The Georgia Straight at 2022-07-20 07:24:15-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-20T07:24:12.491240-07:00.jpg">July 20 at 2:24 PM</a></p>
+ <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-20T07:24:12.491240-07:00.jpg">July 20 at 7:24 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 02:43:36 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-25T19:43:29.052000-07:00.hyperlinks.json) |
-| [2022-07-25 12:04:14 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-25T05:04:08.464108-07:00.hyperlinks.json) |
-| [2022-07-25 01:09:43 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-24T18:09:39.542023-07:00.hyperlinks.json) |
-| [2022-07-24 12:01:10 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-24T05:01:04.278802-07:00.hyperlinks.json) |
-| [2022-07-24 06:31:07 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-23T23:31:03.382582-07:00.hyperlinks.json) |
-| [2022-07-23 14:00:36 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-23T07:00:31.143971-07:00.hyperlinks.json) |
-| [2022-07-23 02:28:14 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-22T19:28:09.393915-07:00.hyperlinks.json) |
-| [2022-07-22 14:02:14 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-22T07:02:08.967746-07:00.hyperlinks.json) |
-| [2022-07-22 02:21:04 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-21T19:20:58.118993-07:00.hyperlinks.json) |
-| [2022-07-21 14:08:52 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-21T07:08:46.855971-07:00.hyperlinks.json) |
+| [July 25 at 7:43 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-25T19:43:29.052000-07:00.hyperlinks.json) |
+| [July 25 at 5:04 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-25T05:04:08.464108-07:00.hyperlinks.json) |
+| [July 24 at 6:09 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-24T18:09:39.542023-07:00.hyperlinks.json) |
+| [July 24 at 5:01 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-24T05:01:04.278802-07:00.hyperlinks.json) |
+| [July 23 at 11:31 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-23T23:31:03.382582-07:00.hyperlinks.json) |
+| [July 23 at 7:00 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-23T07:00:31.143971-07:00.hyperlinks.json) |
+| [July 22 at 7:28 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-22T19:28:09.393915-07:00.hyperlinks.json) |
+| [July 22 at 7:02 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-22T07:02:08.967746-07:00.hyperlinks.json) |
+| [July 21 at 7:21 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-21T19:20:58.118993-07:00.hyperlinks.json) |
+| [July 21 at 7:08 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-07-21T07:08:46.855971-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -31,10 +31,10 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/dailypenn-2022/dailypenn-2022-07-25T22:41:09.047364-04:00.jpg">
   <img src="https://archive.org/download/dailypenn-2022/dailypenn-2022-07-25T22:41:09.047364-04:00.jpg"
-     alt="Daily Penn at 2022-07-26 05:41:14-04:00 local time"
+     alt="Daily Penn at 2022-07-25 22:41:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailypenn-2022/dailypenn-2022-07-25T22:41:09.047364-04:00.jpg">July 26 at 5:41 AM</a></p>
+ <p><a href="https://archive.org/download/dailypenn-2022/dailypenn-2022-07-25T22:41:09.047364-04:00.jpg">July 25 at 10:41 PM</a></p>
 </div>
 
 </div>
@@ -49,7 +49,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 05:41:33 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-07-25T22:41:09.047364-04:00.hyperlinks.json) |
+| [July 25 at 10:41 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-07-25T22:41:09.047364-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

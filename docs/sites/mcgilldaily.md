@@ -31,19 +31,19 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-07-25T22:48:04.841307-04:00.jpg">
   <img src="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-07-25T22:48:04.841307-04:00.jpg"
-     alt="McGill Daily at 2022-07-26 05:48:06-04:00 local time"
+     alt="McGill Daily at 2022-07-25 22:48:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-07-25T22:48:04.841307-04:00.jpg">July 26 at 5:48 AM</a></p>
+ <p><a href="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-07-25T22:48:04.841307-04:00.jpg">July 25 at 10:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-07-25T17:24:19.624306-04:00.jpg">
   <img src="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-07-25T17:24:19.624306-04:00.jpg"
-     alt="McGill Daily at 2022-07-26 00:24:25-04:00 local time"
+     alt="McGill Daily at 2022-07-25 17:24:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-07-25T17:24:19.624306-04:00.jpg">July 26 at 12:24 AM</a></p>
+ <p><a href="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-07-25T17:24:19.624306-04:00.jpg">July 25 at 5:24 PM</a></p>
 </div>
 
 </div>
@@ -58,8 +58,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 05:48:08 AM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-07-25T22:48:04.841307-04:00.hyperlinks.json) |
-| [2022-07-26 00:24:39 AM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-07-25T17:24:19.624306-04:00.hyperlinks.json) |
+| [July 25 at 10:48 PM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-07-25T22:48:04.841307-04:00.hyperlinks.json) |
+| [July 25 at 5:24 PM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-07-25T17:24:19.624306-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

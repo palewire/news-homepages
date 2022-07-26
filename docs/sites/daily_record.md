@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-26T12:15:58.379286+01:00.jpg">
   <img src="https://archive.org/download/daily_record-2022/daily_record-2022-07-26T12:15:58.379286+01:00.jpg"
-     alt="Daily Record at 2022-07-26 19:16:00+01:00 local time"
+     alt="Daily Record at 2022-07-26 12:16:00+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-26T12:15:58.379286+01:00.jpg">July 26 at 7:16 PM</a></p>
+ <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-26T12:15:58.379286+01:00.jpg">July 26 at 12:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-26T00:11:23.760445+01:00.jpg">
   <img src="https://archive.org/download/daily_record-2022/daily_record-2022-07-26T00:11:23.760445+01:00.jpg"
-     alt="Daily Record at 2022-07-26 07:11:28+01:00 local time"
+     alt="Daily Record at 2022-07-26 00:11:28+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-26T00:11:23.760445+01:00.jpg">July 26 at 7:11 AM</a></p>
+ <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-26T00:11:23.760445+01:00.jpg">July 26 at 12:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-25T12:58:25.899645+01:00.jpg">
   <img src="https://archive.org/download/daily_record-2022/daily_record-2022-07-25T12:58:25.899645+01:00.jpg"
-     alt="Daily Record at 2022-07-25 19:58:27+01:00 local time"
+     alt="Daily Record at 2022-07-25 12:58:27+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-25T12:58:25.899645+01:00.jpg">July 25 at 7:58 PM</a></p>
+ <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-25T12:58:25.899645+01:00.jpg">July 25 at 12:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-25T01:58:19.131240+01:00.jpg">
   <img src="https://archive.org/download/daily_record-2022/daily_record-2022-07-25T01:58:19.131240+01:00.jpg"
-     alt="Daily Record at 2022-07-25 08:58:20+01:00 local time"
+     alt="Daily Record at 2022-07-25 01:58:20+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-25T01:58:19.131240+01:00.jpg">July 25 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-25T01:58:19.131240+01:00.jpg">July 25 at 1:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-24T12:56:06.836002+01:00.jpg">
   <img src="https://archive.org/download/daily_record-2022/daily_record-2022-07-24T12:56:06.836002+01:00.jpg"
-     alt="Daily Record at 2022-07-24 19:56:08+01:00 local time"
+     alt="Daily Record at 2022-07-24 12:56:08+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-24T12:56:06.836002+01:00.jpg">July 24 at 7:56 PM</a></p>
+ <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-24T12:56:06.836002+01:00.jpg">July 24 at 12:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-24T07:26:11.339136+01:00.jpg">
   <img src="https://archive.org/download/daily_record-2022/daily_record-2022-07-24T07:26:11.339136+01:00.jpg"
-     alt="Daily Record at 2022-07-24 14:26:12+01:00 local time"
+     alt="Daily Record at 2022-07-24 07:26:12+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-24T07:26:11.339136+01:00.jpg">July 24 at 2:26 PM</a></p>
+ <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-24T07:26:11.339136+01:00.jpg">July 24 at 7:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-23T14:02:07.368498+01:00.jpg">
   <img src="https://archive.org/download/daily_record-2022/daily_record-2022-07-23T14:02:07.368498+01:00.jpg"
-     alt="Daily Record at 2022-07-23 21:02:09+01:00 local time"
+     alt="Daily Record at 2022-07-23 14:02:09+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-23T14:02:07.368498+01:00.jpg">July 23 at 9:02 PM</a></p>
+ <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-23T14:02:07.368498+01:00.jpg">July 23 at 2:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-23T02:03:03.625599+01:00.jpg">
   <img src="https://archive.org/download/daily_record-2022/daily_record-2022-07-23T02:03:03.625599+01:00.jpg"
-     alt="Daily Record at 2022-07-23 09:03:05+01:00 local time"
+     alt="Daily Record at 2022-07-23 02:03:05+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-23T02:03:03.625599+01:00.jpg">July 23 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-23T02:03:03.625599+01:00.jpg">July 23 at 2:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-22T14:02:49.531097+01:00.jpg">
   <img src="https://archive.org/download/daily_record-2022/daily_record-2022-07-22T14:02:49.531097+01:00.jpg"
-     alt="Daily Record at 2022-07-22 21:02:51+01:00 local time"
+     alt="Daily Record at 2022-07-22 14:02:51+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-22T14:02:49.531097+01:00.jpg">July 22 at 9:02 PM</a></p>
+ <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-22T14:02:49.531097+01:00.jpg">July 22 at 2:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-22T02:10:38.842290+01:00.jpg">
   <img src="https://archive.org/download/daily_record-2022/daily_record-2022-07-22T02:10:38.842290+01:00.jpg"
-     alt="Daily Record at 2022-07-22 09:10:40+01:00 local time"
+     alt="Daily Record at 2022-07-22 02:10:40+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-22T02:10:38.842290+01:00.jpg">July 22 at 9:10 AM</a></p>
+ <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-22T02:10:38.842290+01:00.jpg">July 22 at 2:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-21T13:57:04.710330+01:00.jpg">
   <img src="https://archive.org/download/daily_record-2022/daily_record-2022-07-21T13:57:04.710330+01:00.jpg"
-     alt="Daily Record at 2022-07-21 20:57:06+01:00 local time"
+     alt="Daily Record at 2022-07-21 13:57:06+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-21T13:57:04.710330+01:00.jpg">July 21 at 8:57 PM</a></p>
+ <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-21T13:57:04.710330+01:00.jpg">July 21 at 1:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-21T02:09:44.404364+01:00.jpg">
   <img src="https://archive.org/download/daily_record-2022/daily_record-2022-07-21T02:09:44.404364+01:00.jpg"
-     alt="Daily Record at 2022-07-21 09:09:45+01:00 local time"
+     alt="Daily Record at 2022-07-21 02:09:45+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-21T02:09:44.404364+01:00.jpg">July 21 at 9:09 AM</a></p>
+ <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-21T02:09:44.404364+01:00.jpg">July 21 at 2:09 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 19:16:04 PM](https://archive.org/download/daily_record-2022/daily_record-2022-07-26T12:15:58.379286+01:00.hyperlinks.json) |
-| [2022-07-26 07:11:31 AM](https://archive.org/download/daily_record-2022/daily_record-2022-07-26T00:11:23.760445+01:00.hyperlinks.json) |
-| [2022-07-25 19:58:31 PM](https://archive.org/download/daily_record-2022/daily_record-2022-07-25T12:58:25.899645+01:00.hyperlinks.json) |
-| [2022-07-25 08:58:23 AM](https://archive.org/download/daily_record-2022/daily_record-2022-07-25T01:58:19.131240+01:00.hyperlinks.json) |
-| [2022-07-24 19:56:12 PM](https://archive.org/download/daily_record-2022/daily_record-2022-07-24T12:56:06.836002+01:00.hyperlinks.json) |
-| [2022-07-24 14:26:15 PM](https://archive.org/download/daily_record-2022/daily_record-2022-07-24T07:26:11.339136+01:00.hyperlinks.json) |
-| [2022-07-23 21:02:12 PM](https://archive.org/download/daily_record-2022/daily_record-2022-07-23T14:02:07.368498+01:00.hyperlinks.json) |
-| [2022-07-23 09:03:12 AM](https://archive.org/download/daily_record-2022/daily_record-2022-07-23T02:03:03.625599+01:00.hyperlinks.json) |
-| [2022-07-22 21:02:55 PM](https://archive.org/download/daily_record-2022/daily_record-2022-07-22T14:02:49.531097+01:00.hyperlinks.json) |
-| [2022-07-22 09:10:43 AM](https://archive.org/download/daily_record-2022/daily_record-2022-07-22T02:10:38.842290+01:00.hyperlinks.json) |
+| [July 26 at 12:16 PM](https://archive.org/download/daily_record-2022/daily_record-2022-07-26T12:15:58.379286+01:00.hyperlinks.json) |
+| [July 26 at 12:11 AM](https://archive.org/download/daily_record-2022/daily_record-2022-07-26T00:11:23.760445+01:00.hyperlinks.json) |
+| [July 25 at 12:58 PM](https://archive.org/download/daily_record-2022/daily_record-2022-07-25T12:58:25.899645+01:00.hyperlinks.json) |
+| [July 25 at 1:58 AM](https://archive.org/download/daily_record-2022/daily_record-2022-07-25T01:58:19.131240+01:00.hyperlinks.json) |
+| [July 24 at 12:56 PM](https://archive.org/download/daily_record-2022/daily_record-2022-07-24T12:56:06.836002+01:00.hyperlinks.json) |
+| [July 24 at 7:26 AM](https://archive.org/download/daily_record-2022/daily_record-2022-07-24T07:26:11.339136+01:00.hyperlinks.json) |
+| [July 23 at 2:02 PM](https://archive.org/download/daily_record-2022/daily_record-2022-07-23T14:02:07.368498+01:00.hyperlinks.json) |
+| [July 23 at 2:03 AM](https://archive.org/download/daily_record-2022/daily_record-2022-07-23T02:03:03.625599+01:00.hyperlinks.json) |
+| [July 22 at 2:02 PM](https://archive.org/download/daily_record-2022/daily_record-2022-07-22T14:02:49.531097+01:00.hyperlinks.json) |
+| [July 22 at 2:10 AM](https://archive.org/download/daily_record-2022/daily_record-2022-07-22T02:10:38.842290+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -31,19 +31,19 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T17:49:59.888185+05:30.jpg">
   <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T17:49:59.888185+05:30.jpg"
-     alt="India Today at 2022-07-27 00:50:13+05:30 local time"
+     alt="India Today at 2022-07-26 17:50:13+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T17:49:59.888185+05:30.jpg">July 27 at 12:50 AM</a></p>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T17:49:59.888185+05:30.jpg">July 26 at 5:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T05:46:22.506962+05:30.jpg">
   <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T05:46:22.506962+05:30.jpg"
-     alt="India Today at 2022-07-26 12:46:28+05:30 local time"
+     alt="India Today at 2022-07-26 05:46:28+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T05:46:22.506962+05:30.jpg">July 26 at 12:46 PM</a></p>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T05:46:22.506962+05:30.jpg">July 26 at 5:46 AM</a></p>
 </div>
 
 </div>
@@ -58,8 +58,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-27 00:50:52 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T17:49:59.888185+05:30.hyperlinks.json) |
-| [2022-07-26 12:46:45 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T05:46:22.506962+05:30.hyperlinks.json) |
+| [July 26 at 5:50 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T17:49:59.888185+05:30.hyperlinks.json) |
+| [July 26 at 5:46 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T05:46:22.506962+05:30.hyperlinks.json) |
 
 
 ## Internet Archive

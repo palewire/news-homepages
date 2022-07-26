@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-26T07:08:43.610999-04:00.jpg">
   <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-26T07:08:43.610999-04:00.jpg"
-     alt="The Baltimore Sun at 2022-07-26 14:08:49-04:00 local time"
+     alt="The Baltimore Sun at 2022-07-26 07:08:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-26T07:08:43.610999-04:00.jpg">July 26 at 2:08 PM</a></p>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-26T07:08:43.610999-04:00.jpg">July 26 at 7:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T22:56:52.661519-04:00.jpg">
   <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T22:56:52.661519-04:00.jpg"
-     alt="The Baltimore Sun at 2022-07-26 05:56:54-04:00 local time"
+     alt="The Baltimore Sun at 2022-07-25 22:56:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T22:56:52.661519-04:00.jpg">July 26 at 5:56 AM</a></p>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T22:56:52.661519-04:00.jpg">July 25 at 10:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T21:29:47.100063-04:00.jpg">
   <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T21:29:47.100063-04:00.jpg"
-     alt="The Baltimore Sun at 2022-07-26 04:29:49-04:00 local time"
+     alt="The Baltimore Sun at 2022-07-25 21:29:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T21:29:47.100063-04:00.jpg">July 26 at 4:29 AM</a></p>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T21:29:47.100063-04:00.jpg">July 25 at 9:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T19:04:35.894198-04:00.jpg">
   <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T19:04:35.894198-04:00.jpg"
-     alt="The Baltimore Sun at 2022-07-26 02:04:37-04:00 local time"
+     alt="The Baltimore Sun at 2022-07-25 19:04:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T19:04:35.894198-04:00.jpg">July 26 at 2:04 AM</a></p>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T19:04:35.894198-04:00.jpg">July 25 at 7:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T12:42:44.238809-04:00.jpg">
   <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T12:42:44.238809-04:00.jpg"
-     alt="The Baltimore Sun at 2022-07-25 19:42:46-04:00 local time"
+     alt="The Baltimore Sun at 2022-07-25 12:42:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T12:42:44.238809-04:00.jpg">July 25 at 7:42 PM</a></p>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T12:42:44.238809-04:00.jpg">July 25 at 12:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T06:59:08.936205-04:00.jpg">
   <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T06:59:08.936205-04:00.jpg"
-     alt="The Baltimore Sun at 2022-07-25 13:59:10-04:00 local time"
+     alt="The Baltimore Sun at 2022-07-25 06:59:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T06:59:08.936205-04:00.jpg">July 25 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T06:59:08.936205-04:00.jpg">July 25 at 6:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T06:55:16.680041-04:00.jpg">
   <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T06:55:16.680041-04:00.jpg"
-     alt="The Baltimore Sun at 2022-07-25 13:55:22-04:00 local time"
+     alt="The Baltimore Sun at 2022-07-25 06:55:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T06:55:16.680041-04:00.jpg">July 25 at 1:55 PM</a></p>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T06:55:16.680041-04:00.jpg">July 25 at 6:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T20:48:54.212403-04:00.jpg">
   <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T20:48:54.212403-04:00.jpg"
-     alt="The Baltimore Sun at 2022-07-25 03:48:56-04:00 local time"
+     alt="The Baltimore Sun at 2022-07-24 20:48:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T20:48:54.212403-04:00.jpg">July 25 at 3:48 AM</a></p>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T20:48:54.212403-04:00.jpg">July 24 at 8:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T19:25:08.539046-04:00.jpg">
   <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T19:25:08.539046-04:00.jpg"
-     alt="The Baltimore Sun at 2022-07-25 02:25:14-04:00 local time"
+     alt="The Baltimore Sun at 2022-07-24 19:25:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T19:25:08.539046-04:00.jpg">July 25 at 2:25 AM</a></p>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T19:25:08.539046-04:00.jpg">July 24 at 7:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T12:13:44.159659-04:00.jpg">
   <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T12:13:44.159659-04:00.jpg"
-     alt="The Baltimore Sun at 2022-07-24 19:13:46-04:00 local time"
+     alt="The Baltimore Sun at 2022-07-24 12:13:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T12:13:44.159659-04:00.jpg">July 24 at 7:13 PM</a></p>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T12:13:44.159659-04:00.jpg">July 24 at 12:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T06:57:33.067929-04:00.jpg">
   <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T06:57:33.067929-04:00.jpg"
-     alt="The Baltimore Sun at 2022-07-24 13:57:35-04:00 local time"
+     alt="The Baltimore Sun at 2022-07-24 06:57:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T06:57:33.067929-04:00.jpg">July 24 at 1:57 PM</a></p>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T06:57:33.067929-04:00.jpg">July 24 at 6:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T06:54:44.722720-04:00.jpg">
   <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T06:54:44.722720-04:00.jpg"
-     alt="The Baltimore Sun at 2022-07-24 13:54:50-04:00 local time"
+     alt="The Baltimore Sun at 2022-07-24 06:54:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T06:54:44.722720-04:00.jpg">July 24 at 1:54 PM</a></p>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T06:54:44.722720-04:00.jpg">July 24 at 6:54 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 14:08:53 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-26T07:08:43.610999-04:00.hyperlinks.json) |
-| [2022-07-26 05:57:00 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T22:56:52.661519-04:00.hyperlinks.json) |
-| [2022-07-26 04:29:53 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T21:29:47.100063-04:00.hyperlinks.json) |
-| [2022-07-26 02:04:40 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T19:04:35.894198-04:00.hyperlinks.json) |
-| [2022-07-25 19:42:50 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T12:42:44.238809-04:00.hyperlinks.json) |
-| [2022-07-25 13:59:13 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T06:59:08.936205-04:00.hyperlinks.json) |
-| [2022-07-25 13:55:25 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T06:55:16.680041-04:00.hyperlinks.json) |
-| [2022-07-25 03:48:59 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T20:48:54.212403-04:00.hyperlinks.json) |
-| [2022-07-25 02:25:18 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T19:25:08.539046-04:00.hyperlinks.json) |
-| [2022-07-24 19:13:50 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T12:13:44.159659-04:00.hyperlinks.json) |
+| [July 26 at 7:08 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-26T07:08:43.610999-04:00.hyperlinks.json) |
+| [July 25 at 10:57 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T22:56:52.661519-04:00.hyperlinks.json) |
+| [July 25 at 9:29 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T21:29:47.100063-04:00.hyperlinks.json) |
+| [July 25 at 7:04 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T19:04:35.894198-04:00.hyperlinks.json) |
+| [July 25 at 12:42 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T12:42:44.238809-04:00.hyperlinks.json) |
+| [July 25 at 6:59 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T06:59:08.936205-04:00.hyperlinks.json) |
+| [July 25 at 6:55 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-25T06:55:16.680041-04:00.hyperlinks.json) |
+| [July 24 at 8:48 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T20:48:54.212403-04:00.hyperlinks.json) |
+| [July 24 at 7:25 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T19:25:08.539046-04:00.hyperlinks.json) |
+| [July 24 at 12:13 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-07-24T12:13:44.159659-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

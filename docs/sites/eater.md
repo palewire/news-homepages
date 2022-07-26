@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/eater-2022/eater-2022-07-25T22:40:26.634405-04:00.jpg">
   <img src="https://archive.org/download/eater-2022/eater-2022-07-25T22:40:26.634405-04:00.jpg"
-     alt="Eater at 2022-07-26 05:40:28-04:00 local time"
+     alt="Eater at 2022-07-25 22:40:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eater-2022/eater-2022-07-25T22:40:26.634405-04:00.jpg">July 26 at 5:40 AM</a></p>
+ <p><a href="https://archive.org/download/eater-2022/eater-2022-07-25T22:40:26.634405-04:00.jpg">July 25 at 10:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eater-2022/eater-2022-07-25T08:00:04.131308-04:00.jpg">
   <img src="https://archive.org/download/eater-2022/eater-2022-07-25T08:00:04.131308-04:00.jpg"
-     alt="Eater at 2022-07-25 15:00:05-04:00 local time"
+     alt="Eater at 2022-07-25 08:00:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eater-2022/eater-2022-07-25T08:00:04.131308-04:00.jpg">July 25 at 3:00 PM</a></p>
+ <p><a href="https://archive.org/download/eater-2022/eater-2022-07-25T08:00:04.131308-04:00.jpg">July 25 at 8:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eater-2022/eater-2022-07-24T21:02:09.181592-04:00.jpg">
   <img src="https://archive.org/download/eater-2022/eater-2022-07-24T21:02:09.181592-04:00.jpg"
-     alt="Eater at 2022-07-25 04:02:11-04:00 local time"
+     alt="Eater at 2022-07-24 21:02:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eater-2022/eater-2022-07-24T21:02:09.181592-04:00.jpg">July 25 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/eater-2022/eater-2022-07-24T21:02:09.181592-04:00.jpg">July 24 at 9:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eater-2022/eater-2022-07-24T07:57:25.214646-04:00.jpg">
   <img src="https://archive.org/download/eater-2022/eater-2022-07-24T07:57:25.214646-04:00.jpg"
-     alt="Eater at 2022-07-24 14:57:28-04:00 local time"
+     alt="Eater at 2022-07-24 07:57:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eater-2022/eater-2022-07-24T07:57:25.214646-04:00.jpg">July 24 at 2:57 PM</a></p>
+ <p><a href="https://archive.org/download/eater-2022/eater-2022-07-24T07:57:25.214646-04:00.jpg">July 24 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eater-2022/eater-2022-07-24T02:27:40.134460-04:00.jpg">
   <img src="https://archive.org/download/eater-2022/eater-2022-07-24T02:27:40.134460-04:00.jpg"
-     alt="Eater at 2022-07-24 09:27:42-04:00 local time"
+     alt="Eater at 2022-07-24 02:27:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eater-2022/eater-2022-07-24T02:27:40.134460-04:00.jpg">July 24 at 9:27 AM</a></p>
+ <p><a href="https://archive.org/download/eater-2022/eater-2022-07-24T02:27:40.134460-04:00.jpg">July 24 at 2:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eater-2022/eater-2022-07-23T09:57:42.623761-04:00.jpg">
   <img src="https://archive.org/download/eater-2022/eater-2022-07-23T09:57:42.623761-04:00.jpg"
-     alt="Eater at 2022-07-23 16:57:44-04:00 local time"
+     alt="Eater at 2022-07-23 09:57:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eater-2022/eater-2022-07-23T09:57:42.623761-04:00.jpg">July 23 at 4:57 PM</a></p>
+ <p><a href="https://archive.org/download/eater-2022/eater-2022-07-23T09:57:42.623761-04:00.jpg">July 23 at 9:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eater-2022/eater-2022-07-22T22:24:30.594224-04:00.jpg">
   <img src="https://archive.org/download/eater-2022/eater-2022-07-22T22:24:30.594224-04:00.jpg"
-     alt="Eater at 2022-07-23 05:24:34-04:00 local time"
+     alt="Eater at 2022-07-22 22:24:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eater-2022/eater-2022-07-22T22:24:30.594224-04:00.jpg">July 23 at 5:24 AM</a></p>
+ <p><a href="https://archive.org/download/eater-2022/eater-2022-07-22T22:24:30.594224-04:00.jpg">July 22 at 10:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eater-2022/eater-2022-07-22T09:59:09.079043-04:00.jpg">
   <img src="https://archive.org/download/eater-2022/eater-2022-07-22T09:59:09.079043-04:00.jpg"
-     alt="Eater at 2022-07-22 16:59:11-04:00 local time"
+     alt="Eater at 2022-07-22 09:59:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eater-2022/eater-2022-07-22T09:59:09.079043-04:00.jpg">July 22 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/eater-2022/eater-2022-07-22T09:59:09.079043-04:00.jpg">July 22 at 9:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eater-2022/eater-2022-07-21T22:18:26.357699-04:00.jpg">
   <img src="https://archive.org/download/eater-2022/eater-2022-07-21T22:18:26.357699-04:00.jpg"
-     alt="Eater at 2022-07-22 05:18:29-04:00 local time"
+     alt="Eater at 2022-07-21 22:18:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eater-2022/eater-2022-07-21T22:18:26.357699-04:00.jpg">July 22 at 5:18 AM</a></p>
+ <p><a href="https://archive.org/download/eater-2022/eater-2022-07-21T22:18:26.357699-04:00.jpg">July 21 at 10:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eater-2022/eater-2022-07-21T10:07:58.635256-04:00.jpg">
   <img src="https://archive.org/download/eater-2022/eater-2022-07-21T10:07:58.635256-04:00.jpg"
-     alt="Eater at 2022-07-21 17:08:00-04:00 local time"
+     alt="Eater at 2022-07-21 10:08:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eater-2022/eater-2022-07-21T10:07:58.635256-04:00.jpg">July 21 at 5:08 PM</a></p>
+ <p><a href="https://archive.org/download/eater-2022/eater-2022-07-21T10:07:58.635256-04:00.jpg">July 21 at 10:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eater-2022/eater-2022-07-20T22:21:26.380001-04:00.jpg">
   <img src="https://archive.org/download/eater-2022/eater-2022-07-20T22:21:26.380001-04:00.jpg"
-     alt="Eater at 2022-07-21 05:21:28-04:00 local time"
+     alt="Eater at 2022-07-20 22:21:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eater-2022/eater-2022-07-20T22:21:26.380001-04:00.jpg">July 21 at 5:21 AM</a></p>
+ <p><a href="https://archive.org/download/eater-2022/eater-2022-07-20T22:21:26.380001-04:00.jpg">July 20 at 10:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eater-2022/eater-2022-07-20T10:19:19.397235-04:00.jpg">
   <img src="https://archive.org/download/eater-2022/eater-2022-07-20T10:19:19.397235-04:00.jpg"
-     alt="Eater at 2022-07-20 17:19:21-04:00 local time"
+     alt="Eater at 2022-07-20 10:19:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eater-2022/eater-2022-07-20T10:19:19.397235-04:00.jpg">July 20 at 5:19 PM</a></p>
+ <p><a href="https://archive.org/download/eater-2022/eater-2022-07-20T10:19:19.397235-04:00.jpg">July 20 at 10:19 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 05:40:32 AM](https://archive.org/download/eater-2022/eater-2022-07-25T22:40:26.634405-04:00.hyperlinks.json) |
-| [2022-07-25 15:00:08 PM](https://archive.org/download/eater-2022/eater-2022-07-25T08:00:04.131308-04:00.hyperlinks.json) |
-| [2022-07-25 04:02:14 AM](https://archive.org/download/eater-2022/eater-2022-07-24T21:02:09.181592-04:00.hyperlinks.json) |
-| [2022-07-24 14:57:32 PM](https://archive.org/download/eater-2022/eater-2022-07-24T07:57:25.214646-04:00.hyperlinks.json) |
-| [2022-07-24 09:27:45 AM](https://archive.org/download/eater-2022/eater-2022-07-24T02:27:40.134460-04:00.hyperlinks.json) |
-| [2022-07-23 16:57:48 PM](https://archive.org/download/eater-2022/eater-2022-07-23T09:57:42.623761-04:00.hyperlinks.json) |
-| [2022-07-23 05:24:35 AM](https://archive.org/download/eater-2022/eater-2022-07-22T22:24:30.594224-04:00.hyperlinks.json) |
-| [2022-07-22 16:59:16 PM](https://archive.org/download/eater-2022/eater-2022-07-22T09:59:09.079043-04:00.hyperlinks.json) |
-| [2022-07-22 05:18:32 AM](https://archive.org/download/eater-2022/eater-2022-07-21T22:18:26.357699-04:00.hyperlinks.json) |
-| [2022-07-21 17:08:04 PM](https://archive.org/download/eater-2022/eater-2022-07-21T10:07:58.635256-04:00.hyperlinks.json) |
+| [July 25 at 10:40 PM](https://archive.org/download/eater-2022/eater-2022-07-25T22:40:26.634405-04:00.hyperlinks.json) |
+| [July 25 at 8:00 AM](https://archive.org/download/eater-2022/eater-2022-07-25T08:00:04.131308-04:00.hyperlinks.json) |
+| [July 24 at 9:02 PM](https://archive.org/download/eater-2022/eater-2022-07-24T21:02:09.181592-04:00.hyperlinks.json) |
+| [July 24 at 7:57 AM](https://archive.org/download/eater-2022/eater-2022-07-24T07:57:25.214646-04:00.hyperlinks.json) |
+| [July 24 at 2:27 AM](https://archive.org/download/eater-2022/eater-2022-07-24T02:27:40.134460-04:00.hyperlinks.json) |
+| [July 23 at 9:57 AM](https://archive.org/download/eater-2022/eater-2022-07-23T09:57:42.623761-04:00.hyperlinks.json) |
+| [July 22 at 10:24 PM](https://archive.org/download/eater-2022/eater-2022-07-22T22:24:30.594224-04:00.hyperlinks.json) |
+| [July 22 at 9:59 AM](https://archive.org/download/eater-2022/eater-2022-07-22T09:59:09.079043-04:00.hyperlinks.json) |
+| [July 21 at 10:18 PM](https://archive.org/download/eater-2022/eater-2022-07-21T22:18:26.357699-04:00.hyperlinks.json) |
+| [July 21 at 10:08 AM](https://archive.org/download/eater-2022/eater-2022-07-21T10:07:58.635256-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-25T22:59:31.324939-04:00.jpg">
   <img src="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-25T22:59:31.324939-04:00.jpg"
-     alt="City Limits at 2022-07-26 05:59:32-04:00 local time"
+     alt="City Limits at 2022-07-25 22:59:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-25T22:59:31.324939-04:00.jpg">July 26 at 5:59 AM</a></p>
+ <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-25T22:59:31.324939-04:00.jpg">July 25 at 10:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-25T21:33:25.723895-04:00.jpg">
   <img src="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-25T21:33:25.723895-04:00.jpg"
-     alt="City Limits at 2022-07-26 04:33:26-04:00 local time"
+     alt="City Limits at 2022-07-25 21:33:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-25T21:33:25.723895-04:00.jpg">July 26 at 4:33 AM</a></p>
+ <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-25T21:33:25.723895-04:00.jpg">July 25 at 9:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-25T07:03:04.408768-04:00.jpg">
   <img src="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-25T07:03:04.408768-04:00.jpg"
-     alt="City Limits at 2022-07-25 14:03:05-04:00 local time"
+     alt="City Limits at 2022-07-25 07:03:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-25T07:03:04.408768-04:00.jpg">July 25 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-25T07:03:04.408768-04:00.jpg">July 25 at 7:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-24T20:55:51.868190-04:00.jpg">
   <img src="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-24T20:55:51.868190-04:00.jpg"
-     alt="City Limits at 2022-07-25 03:55:53-04:00 local time"
+     alt="City Limits at 2022-07-24 20:55:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-24T20:55:51.868190-04:00.jpg">July 25 at 3:55 AM</a></p>
+ <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-24T20:55:51.868190-04:00.jpg">July 24 at 8:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-24T07:01:37.378743-04:00.jpg">
   <img src="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-24T07:01:37.378743-04:00.jpg"
-     alt="City Limits at 2022-07-24 14:01:39-04:00 local time"
+     alt="City Limits at 2022-07-24 07:01:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-24T07:01:37.378743-04:00.jpg">July 24 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-24T07:01:37.378743-04:00.jpg">July 24 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-23T19:03:14.927840-04:00.jpg">
   <img src="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-23T19:03:14.927840-04:00.jpg"
-     alt="City Limits at 2022-07-24 02:03:17-04:00 local time"
+     alt="City Limits at 2022-07-23 19:03:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-23T19:03:14.927840-04:00.jpg">July 24 at 2:03 AM</a></p>
+ <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-23T19:03:14.927840-04:00.jpg">July 23 at 7:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-23T09:00:54.799454-04:00.jpg">
   <img src="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-23T09:00:54.799454-04:00.jpg"
-     alt="City Limits at 2022-07-23 16:00:56-04:00 local time"
+     alt="City Limits at 2022-07-23 09:00:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-23T09:00:54.799454-04:00.jpg">July 23 at 4:00 PM</a></p>
+ <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-23T09:00:54.799454-04:00.jpg">July 23 at 9:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-22T21:01:01.814045-04:00.jpg">
   <img src="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-22T21:01:01.814045-04:00.jpg"
-     alt="City Limits at 2022-07-23 04:01:03-04:00 local time"
+     alt="City Limits at 2022-07-22 21:01:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-22T21:01:01.814045-04:00.jpg">July 23 at 4:01 AM</a></p>
+ <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-22T21:01:01.814045-04:00.jpg">July 22 at 9:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-22T09:01:15.822001-04:00.jpg">
   <img src="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-22T09:01:15.822001-04:00.jpg"
-     alt="City Limits at 2022-07-22 16:01:17-04:00 local time"
+     alt="City Limits at 2022-07-22 09:01:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-22T09:01:15.822001-04:00.jpg">July 22 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-22T09:01:15.822001-04:00.jpg">July 22 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-21T21:09:01.848140-04:00.jpg">
   <img src="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-21T21:09:01.848140-04:00.jpg"
-     alt="City Limits at 2022-07-22 04:09:03-04:00 local time"
+     alt="City Limits at 2022-07-21 21:09:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-21T21:09:01.848140-04:00.jpg">July 22 at 4:09 AM</a></p>
+ <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-21T21:09:01.848140-04:00.jpg">July 21 at 9:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-21T08:55:25.512656-04:00.jpg">
   <img src="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-21T08:55:25.512656-04:00.jpg"
-     alt="City Limits at 2022-07-21 15:55:26-04:00 local time"
+     alt="City Limits at 2022-07-21 08:55:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-21T08:55:25.512656-04:00.jpg">July 21 at 3:55 PM</a></p>
+ <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-21T08:55:25.512656-04:00.jpg">July 21 at 8:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-20T21:07:52.460598-04:00.jpg">
   <img src="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-20T21:07:52.460598-04:00.jpg"
-     alt="City Limits at 2022-07-21 04:07:53-04:00 local time"
+     alt="City Limits at 2022-07-20 21:07:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-20T21:07:52.460598-04:00.jpg">July 21 at 4:07 AM</a></p>
+ <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-20T21:07:52.460598-04:00.jpg">July 20 at 9:07 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 05:59:37 AM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-25T22:59:31.324939-04:00.hyperlinks.json) |
-| [2022-07-26 04:33:29 AM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-25T21:33:25.723895-04:00.hyperlinks.json) |
-| [2022-07-25 14:03:08 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-25T07:03:04.408768-04:00.hyperlinks.json) |
-| [2022-07-25 03:55:56 AM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-24T20:55:51.868190-04:00.hyperlinks.json) |
-| [2022-07-24 14:01:42 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-24T07:01:37.378743-04:00.hyperlinks.json) |
-| [2022-07-24 02:03:22 AM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-23T19:03:14.927840-04:00.hyperlinks.json) |
-| [2022-07-23 16:01:00 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-23T09:00:54.799454-04:00.hyperlinks.json) |
-| [2022-07-23 04:01:06 AM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-22T21:01:01.814045-04:00.hyperlinks.json) |
-| [2022-07-22 16:01:23 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-22T09:01:15.822001-04:00.hyperlinks.json) |
-| [2022-07-22 04:09:09 AM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-21T21:09:01.848140-04:00.hyperlinks.json) |
+| [July 25 at 10:59 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-25T22:59:31.324939-04:00.hyperlinks.json) |
+| [July 25 at 9:33 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-25T21:33:25.723895-04:00.hyperlinks.json) |
+| [July 25 at 7:03 AM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-25T07:03:04.408768-04:00.hyperlinks.json) |
+| [July 24 at 8:55 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-24T20:55:51.868190-04:00.hyperlinks.json) |
+| [July 24 at 7:01 AM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-24T07:01:37.378743-04:00.hyperlinks.json) |
+| [July 23 at 7:03 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-23T19:03:14.927840-04:00.hyperlinks.json) |
+| [July 23 at 9:01 AM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-23T09:00:54.799454-04:00.hyperlinks.json) |
+| [July 22 at 9:01 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-22T21:01:01.814045-04:00.hyperlinks.json) |
+| [July 22 at 9:01 AM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-22T09:01:15.822001-04:00.hyperlinks.json) |
+| [July 21 at 9:09 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-07-21T21:09:01.848140-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

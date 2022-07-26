@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-25T22:45:16.929558-04:00.jpg">
   <img src="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-25T22:45:16.929558-04:00.jpg"
-     alt="Inside Climate News at 2022-07-26 05:45:18-04:00 local time"
+     alt="Inside Climate News at 2022-07-25 22:45:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-25T22:45:16.929558-04:00.jpg">July 26 at 5:45 AM</a></p>
+ <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-25T22:45:16.929558-04:00.jpg">July 25 at 10:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-25T08:06:49.711524-04:00.jpg">
   <img src="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-25T08:06:49.711524-04:00.jpg"
-     alt="Inside Climate News at 2022-07-25 15:06:52-04:00 local time"
+     alt="Inside Climate News at 2022-07-25 08:06:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-25T08:06:49.711524-04:00.jpg">July 25 at 3:06 PM</a></p>
+ <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-25T08:06:49.711524-04:00.jpg">July 25 at 8:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T21:12:04.386872-04:00.jpg">
   <img src="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T21:12:04.386872-04:00.jpg"
-     alt="Inside Climate News at 2022-07-25 04:12:10-04:00 local time"
+     alt="Inside Climate News at 2022-07-24 21:12:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T21:12:04.386872-04:00.jpg">July 25 at 4:12 AM</a></p>
+ <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T21:12:04.386872-04:00.jpg">July 24 at 9:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T08:03:39.343524-04:00.jpg">
   <img src="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T08:03:39.343524-04:00.jpg"
-     alt="Inside Climate News at 2022-07-24 15:03:41-04:00 local time"
+     alt="Inside Climate News at 2022-07-24 08:03:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T08:03:39.343524-04:00.jpg">July 24 at 3:03 PM</a></p>
+ <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T08:03:39.343524-04:00.jpg">July 24 at 8:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T02:33:38.136391-04:00.jpg">
   <img src="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T02:33:38.136391-04:00.jpg"
-     alt="Inside Climate News at 2022-07-24 09:33:39-04:00 local time"
+     alt="Inside Climate News at 2022-07-24 02:33:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T02:33:38.136391-04:00.jpg">July 24 at 9:33 AM</a></p>
+ <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T02:33:38.136391-04:00.jpg">July 24 at 2:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-23T10:03:18.583508-04:00.jpg">
   <img src="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-23T10:03:18.583508-04:00.jpg"
-     alt="Inside Climate News at 2022-07-23 17:03:20-04:00 local time"
+     alt="Inside Climate News at 2022-07-23 10:03:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-23T10:03:18.583508-04:00.jpg">July 23 at 5:03 PM</a></p>
+ <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-23T10:03:18.583508-04:00.jpg">July 23 at 10:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-22T22:29:25.205869-04:00.jpg">
   <img src="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-22T22:29:25.205869-04:00.jpg"
-     alt="Inside Climate News at 2022-07-23 05:29:26-04:00 local time"
+     alt="Inside Climate News at 2022-07-22 22:29:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-22T22:29:25.205869-04:00.jpg">July 23 at 5:29 AM</a></p>
+ <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-22T22:29:25.205869-04:00.jpg">July 22 at 10:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-22T10:04:09.168587-04:00.jpg">
   <img src="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-22T10:04:09.168587-04:00.jpg"
-     alt="Inside Climate News at 2022-07-22 17:04:11-04:00 local time"
+     alt="Inside Climate News at 2022-07-22 10:04:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-22T10:04:09.168587-04:00.jpg">July 22 at 5:04 PM</a></p>
+ <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-22T10:04:09.168587-04:00.jpg">July 22 at 10:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-21T22:23:21.428995-04:00.jpg">
   <img src="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-21T22:23:21.428995-04:00.jpg"
-     alt="Inside Climate News at 2022-07-22 05:23:23-04:00 local time"
+     alt="Inside Climate News at 2022-07-21 22:23:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-21T22:23:21.428995-04:00.jpg">July 22 at 5:23 AM</a></p>
+ <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-21T22:23:21.428995-04:00.jpg">July 21 at 10:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-21T10:17:47.703966-04:00.jpg">
   <img src="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-21T10:17:47.703966-04:00.jpg"
-     alt="Inside Climate News at 2022-07-21 17:17:49-04:00 local time"
+     alt="Inside Climate News at 2022-07-21 10:17:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-21T10:17:47.703966-04:00.jpg">July 21 at 5:17 PM</a></p>
+ <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-21T10:17:47.703966-04:00.jpg">July 21 at 10:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-20T22:26:06.354077-04:00.jpg">
   <img src="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-20T22:26:06.354077-04:00.jpg"
-     alt="Inside Climate News at 2022-07-21 05:26:07-04:00 local time"
+     alt="Inside Climate News at 2022-07-20 22:26:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-20T22:26:06.354077-04:00.jpg">July 21 at 5:26 AM</a></p>
+ <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-20T22:26:06.354077-04:00.jpg">July 20 at 10:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-20T10:26:33.513113-04:00.jpg">
   <img src="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-20T10:26:33.513113-04:00.jpg"
-     alt="Inside Climate News at 2022-07-20 17:26:35-04:00 local time"
+     alt="Inside Climate News at 2022-07-20 10:26:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-20T10:26:33.513113-04:00.jpg">July 20 at 5:26 PM</a></p>
+ <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-20T10:26:33.513113-04:00.jpg">July 20 at 10:26 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 05:45:24 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-25T22:45:16.929558-04:00.hyperlinks.json) |
-| [2022-07-25 15:06:55 PM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-25T08:06:49.711524-04:00.hyperlinks.json) |
-| [2022-07-25 04:12:14 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T21:12:04.386872-04:00.hyperlinks.json) |
-| [2022-07-24 15:03:44 PM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T08:03:39.343524-04:00.hyperlinks.json) |
-| [2022-07-24 09:33:42 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T02:33:38.136391-04:00.hyperlinks.json) |
-| [2022-07-23 17:03:24 PM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-23T10:03:18.583508-04:00.hyperlinks.json) |
-| [2022-07-23 05:29:31 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-22T22:29:25.205869-04:00.hyperlinks.json) |
-| [2022-07-22 17:04:14 PM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-22T10:04:09.168587-04:00.hyperlinks.json) |
-| [2022-07-22 05:23:27 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-21T22:23:21.428995-04:00.hyperlinks.json) |
-| [2022-07-21 17:17:54 PM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-21T10:17:47.703966-04:00.hyperlinks.json) |
+| [July 25 at 10:45 PM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-25T22:45:16.929558-04:00.hyperlinks.json) |
+| [July 25 at 8:06 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-25T08:06:49.711524-04:00.hyperlinks.json) |
+| [July 24 at 9:12 PM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T21:12:04.386872-04:00.hyperlinks.json) |
+| [July 24 at 8:03 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T08:03:39.343524-04:00.hyperlinks.json) |
+| [July 24 at 2:33 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T02:33:38.136391-04:00.hyperlinks.json) |
+| [July 23 at 10:03 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-23T10:03:18.583508-04:00.hyperlinks.json) |
+| [July 22 at 10:29 PM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-22T22:29:25.205869-04:00.hyperlinks.json) |
+| [July 22 at 10:04 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-22T10:04:09.168587-04:00.hyperlinks.json) |
+| [July 21 at 10:23 PM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-21T22:23:21.428995-04:00.hyperlinks.json) |
+| [July 21 at 10:17 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-21T10:17:47.703966-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

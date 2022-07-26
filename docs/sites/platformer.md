@@ -31,28 +31,28 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/platformer-2022/platformer-2022-07-25T20:54:31.072224-07:00.jpg">
   <img src="https://archive.org/download/platformer-2022/platformer-2022-07-25T20:54:31.072224-07:00.jpg"
-     alt="Platformer at 2022-07-26 03:54:32-07:00 local time"
+     alt="Platformer at 2022-07-25 20:54:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/platformer-2022/platformer-2022-07-25T20:54:31.072224-07:00.jpg">July 26 at 3:54 AM</a></p>
+ <p><a href="https://archive.org/download/platformer-2022/platformer-2022-07-25T20:54:31.072224-07:00.jpg">July 25 at 8:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/platformer-2022/platformer-2022-07-25T08:37:49.199892-07:00.jpg">
   <img src="https://archive.org/download/platformer-2022/platformer-2022-07-25T08:37:49.199892-07:00.jpg"
-     alt="Platformer at 2022-07-25 15:37:50-07:00 local time"
+     alt="Platformer at 2022-07-25 08:37:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/platformer-2022/platformer-2022-07-25T08:37:49.199892-07:00.jpg">July 25 at 3:37 PM</a></p>
+ <p><a href="https://archive.org/download/platformer-2022/platformer-2022-07-25T08:37:49.199892-07:00.jpg">July 25 at 8:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/platformer-2022/platformer-2022-07-24T23:47:01.810346-07:00.jpg">
   <img src="https://archive.org/download/platformer-2022/platformer-2022-07-24T23:47:01.810346-07:00.jpg"
-     alt="Platformer at 2022-07-25 06:47:07-07:00 local time"
+     alt="Platformer at 2022-07-24 23:47:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/platformer-2022/platformer-2022-07-24T23:47:01.810346-07:00.jpg">July 25 at 6:47 AM</a></p>
+ <p><a href="https://archive.org/download/platformer-2022/platformer-2022-07-24T23:47:01.810346-07:00.jpg">July 24 at 11:47 PM</a></p>
 </div>
 
 </div>
@@ -67,9 +67,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 03:54:36 AM](https://archive.org/download/platformer-2022/platformer-2022-07-25T20:54:31.072224-07:00.hyperlinks.json) |
-| [2022-07-25 15:37:53 PM](https://archive.org/download/platformer-2022/platformer-2022-07-25T08:37:49.199892-07:00.hyperlinks.json) |
-| [2022-07-25 06:47:20 AM](https://archive.org/download/platformer-2022/platformer-2022-07-24T23:47:01.810346-07:00.hyperlinks.json) |
+| [July 25 at 8:54 PM](https://archive.org/download/platformer-2022/platformer-2022-07-25T20:54:31.072224-07:00.hyperlinks.json) |
+| [July 25 at 8:37 AM](https://archive.org/download/platformer-2022/platformer-2022-07-25T08:37:49.199892-07:00.hyperlinks.json) |
+| [July 24 at 11:47 PM](https://archive.org/download/platformer-2022/platformer-2022-07-24T23:47:01.810346-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-26T07:15:31.993280-04:00.jpg">
   <img src="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-26T07:15:31.993280-04:00.jpg"
-     alt="Cook Political Report at 2022-07-26 14:15:34-04:00 local time"
+     alt="Cook Political Report at 2022-07-26 07:15:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-26T07:15:31.993280-04:00.jpg">July 26 at 2:15 PM</a></p>
+ <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-26T07:15:31.993280-04:00.jpg">July 26 at 7:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-25T19:11:27.286968-04:00.jpg">
   <img src="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-25T19:11:27.286968-04:00.jpg"
-     alt="Cook Political Report at 2022-07-26 02:11:30-04:00 local time"
+     alt="Cook Political Report at 2022-07-25 19:11:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-25T19:11:27.286968-04:00.jpg">July 26 at 2:11 AM</a></p>
+ <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-25T19:11:27.286968-04:00.jpg">July 25 at 7:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-25T07:03:34.571300-04:00.jpg">
   <img src="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-25T07:03:34.571300-04:00.jpg"
-     alt="Cook Political Report at 2022-07-25 14:03:38-04:00 local time"
+     alt="Cook Political Report at 2022-07-25 07:03:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-25T07:03:34.571300-04:00.jpg">July 25 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-25T07:03:34.571300-04:00.jpg">July 25 at 7:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-24T20:56:40.686779-04:00.jpg">
   <img src="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-24T20:56:40.686779-04:00.jpg"
-     alt="Cook Political Report at 2022-07-25 03:56:43-04:00 local time"
+     alt="Cook Political Report at 2022-07-24 20:56:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-24T20:56:40.686779-04:00.jpg">July 25 at 3:56 AM</a></p>
+ <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-24T20:56:40.686779-04:00.jpg">July 24 at 8:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-24T07:03:42.064177-04:00.jpg">
   <img src="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-24T07:03:42.064177-04:00.jpg"
-     alt="Cook Political Report at 2022-07-24 14:03:44-04:00 local time"
+     alt="Cook Political Report at 2022-07-24 07:03:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-24T07:03:42.064177-04:00.jpg">July 24 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-24T07:03:42.064177-04:00.jpg">July 24 at 7:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-23T19:04:51.704180-04:00.jpg">
   <img src="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-23T19:04:51.704180-04:00.jpg"
-     alt="Cook Political Report at 2022-07-24 02:04:52-04:00 local time"
+     alt="Cook Political Report at 2022-07-23 19:04:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-23T19:04:51.704180-04:00.jpg">July 24 at 2:04 AM</a></p>
+ <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-23T19:04:51.704180-04:00.jpg">July 23 at 7:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-23T09:01:54.294047-04:00.jpg">
   <img src="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-23T09:01:54.294047-04:00.jpg"
-     alt="Cook Political Report at 2022-07-23 16:01:55-04:00 local time"
+     alt="Cook Political Report at 2022-07-23 09:01:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-23T09:01:54.294047-04:00.jpg">July 23 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-23T09:01:54.294047-04:00.jpg">July 23 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-22T21:02:34.444903-04:00.jpg">
   <img src="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-22T21:02:34.444903-04:00.jpg"
-     alt="Cook Political Report at 2022-07-23 04:02:35-04:00 local time"
+     alt="Cook Political Report at 2022-07-22 21:02:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-22T21:02:34.444903-04:00.jpg">July 23 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-22T21:02:34.444903-04:00.jpg">July 22 at 9:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-22T09:01:42.632909-04:00.jpg">
   <img src="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-22T09:01:42.632909-04:00.jpg"
-     alt="Cook Political Report at 2022-07-22 16:01:44-04:00 local time"
+     alt="Cook Political Report at 2022-07-22 09:01:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-22T09:01:42.632909-04:00.jpg">July 22 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-22T09:01:42.632909-04:00.jpg">July 22 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-21T21:10:00.547368-04:00.jpg">
   <img src="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-21T21:10:00.547368-04:00.jpg"
-     alt="Cook Political Report at 2022-07-22 04:10:02-04:00 local time"
+     alt="Cook Political Report at 2022-07-21 21:10:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-21T21:10:00.547368-04:00.jpg">July 22 at 4:10 AM</a></p>
+ <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-21T21:10:00.547368-04:00.jpg">July 21 at 9:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-21T08:56:09.251236-04:00.jpg">
   <img src="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-21T08:56:09.251236-04:00.jpg"
-     alt="Cook Political Report at 2022-07-21 15:56:10-04:00 local time"
+     alt="Cook Political Report at 2022-07-21 08:56:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-21T08:56:09.251236-04:00.jpg">July 21 at 3:56 PM</a></p>
+ <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-21T08:56:09.251236-04:00.jpg">July 21 at 8:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-20T21:08:11.886027-04:00.jpg">
   <img src="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-20T21:08:11.886027-04:00.jpg"
-     alt="Cook Political Report at 2022-07-21 04:08:13-04:00 local time"
+     alt="Cook Political Report at 2022-07-20 21:08:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-20T21:08:11.886027-04:00.jpg">July 21 at 4:08 AM</a></p>
+ <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-20T21:08:11.886027-04:00.jpg">July 20 at 9:08 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 14:15:37 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-26T07:15:31.993280-04:00.hyperlinks.json) |
-| [2022-07-26 02:11:34 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-25T19:11:27.286968-04:00.hyperlinks.json) |
-| [2022-07-25 14:03:41 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-25T07:03:34.571300-04:00.hyperlinks.json) |
-| [2022-07-25 03:56:46 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-24T20:56:40.686779-04:00.hyperlinks.json) |
-| [2022-07-24 14:03:48 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-24T07:03:42.064177-04:00.hyperlinks.json) |
-| [2022-07-24 02:04:55 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-23T19:04:51.704180-04:00.hyperlinks.json) |
-| [2022-07-23 16:01:58 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-23T09:01:54.294047-04:00.hyperlinks.json) |
-| [2022-07-23 04:02:39 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-22T21:02:34.444903-04:00.hyperlinks.json) |
-| [2022-07-22 16:01:47 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-22T09:01:42.632909-04:00.hyperlinks.json) |
-| [2022-07-22 04:10:08 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-21T21:10:00.547368-04:00.hyperlinks.json) |
+| [July 26 at 7:15 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-26T07:15:31.993280-04:00.hyperlinks.json) |
+| [July 25 at 7:11 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-25T19:11:27.286968-04:00.hyperlinks.json) |
+| [July 25 at 7:03 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-25T07:03:34.571300-04:00.hyperlinks.json) |
+| [July 24 at 8:56 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-24T20:56:40.686779-04:00.hyperlinks.json) |
+| [July 24 at 7:03 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-24T07:03:42.064177-04:00.hyperlinks.json) |
+| [July 23 at 7:04 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-23T19:04:51.704180-04:00.hyperlinks.json) |
+| [July 23 at 9:01 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-23T09:01:54.294047-04:00.hyperlinks.json) |
+| [July 22 at 9:02 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-22T21:02:34.444903-04:00.hyperlinks.json) |
+| [July 22 at 9:01 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-22T09:01:42.632909-04:00.hyperlinks.json) |
+| [July 21 at 9:10 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-21T21:10:00.547368-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

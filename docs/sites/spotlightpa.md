@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-25T22:50:29.211576-04:00.jpg">
   <img src="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-25T22:50:29.211576-04:00.jpg"
-     alt="Spotlight PA at 2022-07-26 05:50:31-04:00 local time"
+     alt="Spotlight PA at 2022-07-25 22:50:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-25T22:50:29.211576-04:00.jpg">July 26 at 5:50 AM</a></p>
+ <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-25T22:50:29.211576-04:00.jpg">July 25 at 10:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-25T21:33:51.949732-04:00.jpg">
   <img src="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-25T21:33:51.949732-04:00.jpg"
-     alt="Spotlight PA at 2022-07-26 04:33:53-04:00 local time"
+     alt="Spotlight PA at 2022-07-25 21:33:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-25T21:33:51.949732-04:00.jpg">July 26 at 4:33 AM</a></p>
+ <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-25T21:33:51.949732-04:00.jpg">July 25 at 9:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-25T11:42:37.133102-04:00.jpg">
   <img src="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-25T11:42:37.133102-04:00.jpg"
-     alt="Spotlight PA at 2022-07-25 18:42:39-04:00 local time"
+     alt="Spotlight PA at 2022-07-25 11:42:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-25T11:42:37.133102-04:00.jpg">July 25 at 6:42 PM</a></p>
+ <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-25T11:42:37.133102-04:00.jpg">July 25 at 11:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-24T23:44:30.832556-04:00.jpg">
   <img src="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-24T23:44:30.832556-04:00.jpg"
-     alt="Spotlight PA at 2022-07-25 06:44:32-04:00 local time"
+     alt="Spotlight PA at 2022-07-24 23:44:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-24T23:44:30.832556-04:00.jpg">July 25 at 6:44 AM</a></p>
+ <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-24T23:44:30.832556-04:00.jpg">July 24 at 11:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-24T10:04:43.192710-04:00.jpg">
   <img src="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-24T10:04:43.192710-04:00.jpg"
-     alt="Spotlight PA at 2022-07-24 17:04:45-04:00 local time"
+     alt="Spotlight PA at 2022-07-24 10:04:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-24T10:04:43.192710-04:00.jpg">July 24 at 5:04 PM</a></p>
+ <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-24T10:04:43.192710-04:00.jpg">July 24 at 10:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-24T02:24:39.744609-04:00.jpg">
   <img src="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-24T02:24:39.744609-04:00.jpg"
-     alt="Spotlight PA at 2022-07-24 09:24:40-04:00 local time"
+     alt="Spotlight PA at 2022-07-24 02:24:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-24T02:24:39.744609-04:00.jpg">July 24 at 9:24 AM</a></p>
+ <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-24T02:24:39.744609-04:00.jpg">July 24 at 2:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-23T12:02:33.249688-04:00.jpg">
   <img src="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-23T12:02:33.249688-04:00.jpg"
-     alt="Spotlight PA at 2022-07-23 19:02:35-04:00 local time"
+     alt="Spotlight PA at 2022-07-23 12:02:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-23T12:02:33.249688-04:00.jpg">July 23 at 7:02 PM</a></p>
+ <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-23T12:02:33.249688-04:00.jpg">July 23 at 12:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-23T00:22:56.941543-04:00.jpg">
   <img src="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-23T00:22:56.941543-04:00.jpg"
-     alt="Spotlight PA at 2022-07-23 07:22:58-04:00 local time"
+     alt="Spotlight PA at 2022-07-23 00:22:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-23T00:22:56.941543-04:00.jpg">July 23 at 7:22 AM</a></p>
+ <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-23T00:22:56.941543-04:00.jpg">July 23 at 12:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-22T12:15:00.251160-04:00.jpg">
   <img src="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-22T12:15:00.251160-04:00.jpg"
-     alt="Spotlight PA at 2022-07-22 19:15:03-04:00 local time"
+     alt="Spotlight PA at 2022-07-22 12:15:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-22T12:15:00.251160-04:00.jpg">July 22 at 7:15 PM</a></p>
+ <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-22T12:15:00.251160-04:00.jpg">July 22 at 12:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-22T00:29:39.824880-04:00.jpg">
   <img src="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-22T00:29:39.824880-04:00.jpg"
-     alt="Spotlight PA at 2022-07-22 07:29:42-04:00 local time"
+     alt="Spotlight PA at 2022-07-22 00:29:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-22T00:29:39.824880-04:00.jpg">July 22 at 7:29 AM</a></p>
+ <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-22T00:29:39.824880-04:00.jpg">July 22 at 12:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-21T12:52:55.084325-04:00.jpg">
   <img src="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-21T12:52:55.084325-04:00.jpg"
-     alt="Spotlight PA at 2022-07-21 19:52:57-04:00 local time"
+     alt="Spotlight PA at 2022-07-21 12:52:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-21T12:52:55.084325-04:00.jpg">July 21 at 7:52 PM</a></p>
+ <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-21T12:52:55.084325-04:00.jpg">July 21 at 12:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-21T00:27:02.754924-04:00.jpg">
   <img src="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-21T00:27:02.754924-04:00.jpg"
-     alt="Spotlight PA at 2022-07-21 07:27:04-04:00 local time"
+     alt="Spotlight PA at 2022-07-21 00:27:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-21T00:27:02.754924-04:00.jpg">July 21 at 7:27 AM</a></p>
+ <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-21T00:27:02.754924-04:00.jpg">July 21 at 12:27 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 05:50:40 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-25T22:50:29.211576-04:00.hyperlinks.json) |
-| [2022-07-26 04:33:57 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-25T21:33:51.949732-04:00.hyperlinks.json) |
-| [2022-07-25 18:42:42 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-25T11:42:37.133102-04:00.hyperlinks.json) |
-| [2022-07-25 06:44:35 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-24T23:44:30.832556-04:00.hyperlinks.json) |
-| [2022-07-24 17:04:48 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-24T10:04:43.192710-04:00.hyperlinks.json) |
-| [2022-07-24 09:24:43 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-24T02:24:39.744609-04:00.hyperlinks.json) |
-| [2022-07-23 19:02:39 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-23T12:02:33.249688-04:00.hyperlinks.json) |
-| [2022-07-23 07:23:02 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-23T00:22:56.941543-04:00.hyperlinks.json) |
-| [2022-07-22 19:15:07 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-22T12:15:00.251160-04:00.hyperlinks.json) |
-| [2022-07-22 07:29:45 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-22T00:29:39.824880-04:00.hyperlinks.json) |
+| [July 25 at 10:50 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-25T22:50:29.211576-04:00.hyperlinks.json) |
+| [July 25 at 9:33 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-25T21:33:51.949732-04:00.hyperlinks.json) |
+| [July 25 at 11:42 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-25T11:42:37.133102-04:00.hyperlinks.json) |
+| [July 24 at 11:44 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-24T23:44:30.832556-04:00.hyperlinks.json) |
+| [July 24 at 10:04 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-24T10:04:43.192710-04:00.hyperlinks.json) |
+| [July 24 at 2:24 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-24T02:24:39.744609-04:00.hyperlinks.json) |
+| [July 23 at 12:02 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-23T12:02:33.249688-04:00.hyperlinks.json) |
+| [July 23 at 12:23 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-23T00:22:56.941543-04:00.hyperlinks.json) |
+| [July 22 at 12:15 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-22T12:15:00.251160-04:00.hyperlinks.json) |
+| [July 22 at 12:29 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-07-22T00:29:39.824880-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

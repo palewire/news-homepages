@@ -31,19 +31,19 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-07-26T06:11:15.682144-05:00.jpg">
   <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-07-26T06:11:15.682144-05:00.jpg"
-     alt="Al Dia Dallas at 2022-07-26 13:11:17-05:00 local time"
+     alt="Al Dia Dallas at 2022-07-26 06:11:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-07-26T06:11:15.682144-05:00.jpg">July 26 at 1:11 PM</a></p>
+ <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-07-26T06:11:15.682144-05:00.jpg">July 26 at 6:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-07-25T18:06:06.884656-05:00.jpg">
   <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-07-25T18:06:06.884656-05:00.jpg"
-     alt="Al Dia Dallas at 2022-07-26 01:06:12-05:00 local time"
+     alt="Al Dia Dallas at 2022-07-25 18:06:12-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-07-25T18:06:06.884656-05:00.jpg">July 26 at 1:06 AM</a></p>
+ <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-07-25T18:06:06.884656-05:00.jpg">July 25 at 6:06 PM</a></p>
 </div>
 
 </div>
@@ -58,8 +58,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 13:11:20 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-07-26T06:11:15.682144-05:00.hyperlinks.json) |
-| [2022-07-26 01:06:25 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-07-25T18:06:06.884656-05:00.hyperlinks.json) |
+| [July 26 at 6:11 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-07-26T06:11:15.682144-05:00.hyperlinks.json) |
+| [July 25 at 6:06 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-07-25T18:06:06.884656-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

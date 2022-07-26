@@ -31,10 +31,10 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-25T23:54:13.205305-04:00.jpg">
   <img src="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-25T23:54:13.205305-04:00.jpg"
-     alt="Pittsburgh Post-Gazette at 2022-07-26 06:54:18-04:00 local time"
+     alt="Pittsburgh Post-Gazette at 2022-07-25 23:54:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-25T23:54:13.205305-04:00.jpg">July 26 at 6:54 AM</a></p>
+ <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-25T23:54:13.205305-04:00.jpg">July 25 at 11:54 PM</a></p>
 </div>
 
 </div>
@@ -49,7 +49,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 06:54:33 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-25T23:54:13.205305-04:00.hyperlinks.json) |
+| [July 25 at 11:54 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-25T23:54:13.205305-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

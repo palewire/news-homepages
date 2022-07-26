@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-25T19:56:55.713534-07:00.jpg">
   <img src="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-25T19:56:55.713534-07:00.jpg"
-     alt="Local News Matters at 2022-07-26 02:56:57-07:00 local time"
+     alt="Local News Matters at 2022-07-25 19:56:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-25T19:56:55.713534-07:00.jpg">July 26 at 2:56 AM</a></p>
+ <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-25T19:56:55.713534-07:00.jpg">July 25 at 7:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-25T18:30:02.007771-07:00.jpg">
   <img src="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-25T18:30:02.007771-07:00.jpg"
-     alt="Local News Matters at 2022-07-26 01:30:04-07:00 local time"
+     alt="Local News Matters at 2022-07-25 18:30:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-25T18:30:02.007771-07:00.jpg">July 26 at 1:30 AM</a></p>
+ <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-25T18:30:02.007771-07:00.jpg">July 25 at 6:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-25T03:58:57.870851-07:00.jpg">
   <img src="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-25T03:58:57.870851-07:00.jpg"
-     alt="Local News Matters at 2022-07-25 10:58:59-07:00 local time"
+     alt="Local News Matters at 2022-07-25 03:58:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-25T03:58:57.870851-07:00.jpg">July 25 at 10:58 AM</a></p>
+ <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-25T03:58:57.870851-07:00.jpg">July 25 at 3:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-24T17:49:27.025226-07:00.jpg">
   <img src="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-24T17:49:27.025226-07:00.jpg"
-     alt="Local News Matters at 2022-07-25 00:49:29-07:00 local time"
+     alt="Local News Matters at 2022-07-24 17:49:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-24T17:49:27.025226-07:00.jpg">July 25 at 12:49 AM</a></p>
+ <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-24T17:49:27.025226-07:00.jpg">July 24 at 5:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-24T03:58:21.428239-07:00.jpg">
   <img src="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-24T03:58:21.428239-07:00.jpg"
-     alt="Local News Matters at 2022-07-24 10:58:22-07:00 local time"
+     alt="Local News Matters at 2022-07-24 03:58:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-24T03:58:21.428239-07:00.jpg">July 24 at 10:58 AM</a></p>
+ <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-24T03:58:21.428239-07:00.jpg">July 24 at 3:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-23T16:00:34.292275-07:00.jpg">
   <img src="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-23T16:00:34.292275-07:00.jpg"
-     alt="Local News Matters at 2022-07-23 23:00:35-07:00 local time"
+     alt="Local News Matters at 2022-07-23 16:00:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-23T16:00:34.292275-07:00.jpg">July 23 at 11:00 PM</a></p>
+ <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-23T16:00:34.292275-07:00.jpg">July 23 at 4:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-23T05:57:16.327368-07:00.jpg">
   <img src="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-23T05:57:16.327368-07:00.jpg"
-     alt="Local News Matters at 2022-07-23 12:57:17-07:00 local time"
+     alt="Local News Matters at 2022-07-23 05:57:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-23T05:57:16.327368-07:00.jpg">July 23 at 12:57 PM</a></p>
+ <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-23T05:57:16.327368-07:00.jpg">July 23 at 5:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-22T17:58:39.549910-07:00.jpg">
   <img src="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-22T17:58:39.549910-07:00.jpg"
-     alt="Local News Matters at 2022-07-23 00:58:40-07:00 local time"
+     alt="Local News Matters at 2022-07-22 17:58:40-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-22T17:58:39.549910-07:00.jpg">July 23 at 12:58 AM</a></p>
+ <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-22T17:58:39.549910-07:00.jpg">July 22 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-22T05:57:21.375314-07:00.jpg">
   <img src="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-22T05:57:21.375314-07:00.jpg"
-     alt="Local News Matters at 2022-07-22 12:57:22-07:00 local time"
+     alt="Local News Matters at 2022-07-22 05:57:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-22T05:57:21.375314-07:00.jpg">July 22 at 12:57 PM</a></p>
+ <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-22T05:57:21.375314-07:00.jpg">July 22 at 5:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-21T18:05:50.336303-07:00.jpg">
   <img src="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-21T18:05:50.336303-07:00.jpg"
-     alt="Local News Matters at 2022-07-22 01:05:51-07:00 local time"
+     alt="Local News Matters at 2022-07-21 18:05:51-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-21T18:05:50.336303-07:00.jpg">July 22 at 1:05 AM</a></p>
+ <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-21T18:05:50.336303-07:00.jpg">July 21 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-21T05:51:53.043056-07:00.jpg">
   <img src="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-21T05:51:53.043056-07:00.jpg"
-     alt="Local News Matters at 2022-07-21 12:51:54-07:00 local time"
+     alt="Local News Matters at 2022-07-21 05:51:54-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-21T05:51:53.043056-07:00.jpg">July 21 at 12:51 PM</a></p>
+ <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-21T05:51:53.043056-07:00.jpg">July 21 at 5:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-20T18:04:07.008599-07:00.jpg">
   <img src="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-20T18:04:07.008599-07:00.jpg"
-     alt="Local News Matters at 2022-07-21 01:04:08-07:00 local time"
+     alt="Local News Matters at 2022-07-20 18:04:08-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-20T18:04:07.008599-07:00.jpg">July 21 at 1:04 AM</a></p>
+ <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-20T18:04:07.008599-07:00.jpg">July 20 at 6:04 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 02:57:00 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-25T19:56:55.713534-07:00.hyperlinks.json) |
-| [2022-07-26 01:30:08 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-25T18:30:02.007771-07:00.hyperlinks.json) |
-| [2022-07-25 10:59:02 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-25T03:58:57.870851-07:00.hyperlinks.json) |
-| [2022-07-25 00:49:32 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-24T17:49:27.025226-07:00.hyperlinks.json) |
-| [2022-07-24 10:58:27 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-24T03:58:21.428239-07:00.hyperlinks.json) |
-| [2022-07-23 23:00:38 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-23T16:00:34.292275-07:00.hyperlinks.json) |
-| [2022-07-23 12:57:20 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-23T05:57:16.327368-07:00.hyperlinks.json) |
-| [2022-07-23 00:58:43 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-22T17:58:39.549910-07:00.hyperlinks.json) |
-| [2022-07-22 12:57:26 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-22T05:57:21.375314-07:00.hyperlinks.json) |
-| [2022-07-22 01:05:57 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-21T18:05:50.336303-07:00.hyperlinks.json) |
+| [July 25 at 7:57 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-25T19:56:55.713534-07:00.hyperlinks.json) |
+| [July 25 at 6:30 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-25T18:30:02.007771-07:00.hyperlinks.json) |
+| [July 25 at 3:59 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-25T03:58:57.870851-07:00.hyperlinks.json) |
+| [July 24 at 5:49 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-24T17:49:27.025226-07:00.hyperlinks.json) |
+| [July 24 at 3:58 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-24T03:58:21.428239-07:00.hyperlinks.json) |
+| [July 23 at 4:00 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-23T16:00:34.292275-07:00.hyperlinks.json) |
+| [July 23 at 5:57 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-23T05:57:16.327368-07:00.hyperlinks.json) |
+| [July 22 at 5:58 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-22T17:58:39.549910-07:00.hyperlinks.json) |
+| [July 22 at 5:57 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-22T05:57:21.375314-07:00.hyperlinks.json) |
+| [July 21 at 6:05 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-21T18:05:50.336303-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

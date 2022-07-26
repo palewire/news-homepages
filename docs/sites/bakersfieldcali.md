@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-26T04:11:54.195739-07:00.jpg">
   <img src="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-26T04:11:54.195739-07:00.jpg"
-     alt="Bakersfield Californian at 2022-07-26 11:11:58-07:00 local time"
+     alt="Bakersfield Californian at 2022-07-26 04:11:58-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-26T04:11:54.195739-07:00.jpg">July 26 at 11:11 AM</a></p>
+ <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-26T04:11:54.195739-07:00.jpg">July 26 at 4:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-25T16:07:40.314753-07:00.jpg">
   <img src="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-25T16:07:40.314753-07:00.jpg"
-     alt="Bakersfield Californian at 2022-07-25 23:07:42-07:00 local time"
+     alt="Bakersfield Californian at 2022-07-25 16:07:42-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-25T16:07:40.314753-07:00.jpg">July 25 at 11:07 PM</a></p>
+ <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-25T16:07:40.314753-07:00.jpg">July 25 at 4:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-25T03:58:28.519777-07:00.jpg">
   <img src="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-25T03:58:28.519777-07:00.jpg"
-     alt="Bakersfield Californian at 2022-07-25 10:58:31-07:00 local time"
+     alt="Bakersfield Californian at 2022-07-25 03:58:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-25T03:58:28.519777-07:00.jpg">July 25 at 10:58 AM</a></p>
+ <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-25T03:58:28.519777-07:00.jpg">July 25 at 3:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-24T17:48:40.377582-07:00.jpg">
   <img src="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-24T17:48:40.377582-07:00.jpg"
-     alt="Bakersfield Californian at 2022-07-25 00:48:43-07:00 local time"
+     alt="Bakersfield Californian at 2022-07-24 17:48:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-24T17:48:40.377582-07:00.jpg">July 25 at 12:48 AM</a></p>
+ <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-24T17:48:40.377582-07:00.jpg">July 24 at 5:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-24T03:57:33.395743-07:00.jpg">
   <img src="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-24T03:57:33.395743-07:00.jpg"
-     alt="Bakersfield Californian at 2022-07-24 10:57:36-07:00 local time"
+     alt="Bakersfield Californian at 2022-07-24 03:57:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-24T03:57:33.395743-07:00.jpg">July 24 at 10:57 AM</a></p>
+ <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-24T03:57:33.395743-07:00.jpg">July 24 at 3:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-23T15:59:28.320271-07:00.jpg">
   <img src="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-23T15:59:28.320271-07:00.jpg"
-     alt="Bakersfield Californian at 2022-07-23 22:59:30-07:00 local time"
+     alt="Bakersfield Californian at 2022-07-23 15:59:30-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-23T15:59:28.320271-07:00.jpg">July 23 at 10:59 PM</a></p>
+ <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-23T15:59:28.320271-07:00.jpg">July 23 at 3:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-23T05:56:41.696733-07:00.jpg">
   <img src="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-23T05:56:41.696733-07:00.jpg"
-     alt="Bakersfield Californian at 2022-07-23 12:56:43-07:00 local time"
+     alt="Bakersfield Californian at 2022-07-23 05:56:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-23T05:56:41.696733-07:00.jpg">July 23 at 12:56 PM</a></p>
+ <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-23T05:56:41.696733-07:00.jpg">July 23 at 5:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-22T17:57:05.447372-07:00.jpg">
   <img src="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-22T17:57:05.447372-07:00.jpg"
-     alt="Bakersfield Californian at 2022-07-23 00:57:07-07:00 local time"
+     alt="Bakersfield Californian at 2022-07-22 17:57:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-22T17:57:05.447372-07:00.jpg">July 23 at 12:57 AM</a></p>
+ <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-22T17:57:05.447372-07:00.jpg">July 22 at 5:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-22T05:57:36.364826-07:00.jpg">
   <img src="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-22T05:57:36.364826-07:00.jpg"
-     alt="Bakersfield Californian at 2022-07-22 12:57:37-07:00 local time"
+     alt="Bakersfield Californian at 2022-07-22 05:57:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-22T05:57:36.364826-07:00.jpg">July 22 at 12:57 PM</a></p>
+ <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-22T05:57:36.364826-07:00.jpg">July 22 at 5:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-21T18:04:53.039176-07:00.jpg">
   <img src="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-21T18:04:53.039176-07:00.jpg"
-     alt="Bakersfield Californian at 2022-07-22 01:04:55-07:00 local time"
+     alt="Bakersfield Californian at 2022-07-21 18:04:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-21T18:04:53.039176-07:00.jpg">July 22 at 1:04 AM</a></p>
+ <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-21T18:04:53.039176-07:00.jpg">July 21 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-21T05:50:57.885057-07:00.jpg">
   <img src="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-21T05:50:57.885057-07:00.jpg"
-     alt="Bakersfield Californian at 2022-07-21 12:50:59-07:00 local time"
+     alt="Bakersfield Californian at 2022-07-21 05:50:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-21T05:50:57.885057-07:00.jpg">July 21 at 12:50 PM</a></p>
+ <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-21T05:50:57.885057-07:00.jpg">July 21 at 5:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-20T18:04:00.401072-07:00.jpg">
   <img src="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-20T18:04:00.401072-07:00.jpg"
-     alt="Bakersfield Californian at 2022-07-21 01:04:02-07:00 local time"
+     alt="Bakersfield Californian at 2022-07-20 18:04:02-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-20T18:04:00.401072-07:00.jpg">July 21 at 1:04 AM</a></p>
+ <p><a href="https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-20T18:04:00.401072-07:00.jpg">July 20 at 6:04 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 11:12:02 AM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-26T04:11:54.195739-07:00.hyperlinks.json) |
-| [2022-07-25 23:07:44 PM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-25T16:07:40.314753-07:00.hyperlinks.json) |
-| [2022-07-25 10:58:34 AM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-25T03:58:28.519777-07:00.hyperlinks.json) |
-| [2022-07-25 00:48:46 AM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-24T17:48:40.377582-07:00.hyperlinks.json) |
-| [2022-07-24 10:57:39 AM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-24T03:57:33.395743-07:00.hyperlinks.json) |
-| [2022-07-23 22:59:33 PM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-23T15:59:28.320271-07:00.hyperlinks.json) |
-| [2022-07-23 12:56:46 PM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-23T05:56:41.696733-07:00.hyperlinks.json) |
-| [2022-07-23 00:57:12 AM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-22T17:57:05.447372-07:00.hyperlinks.json) |
-| [2022-07-22 12:57:40 PM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-22T05:57:36.364826-07:00.hyperlinks.json) |
-| [2022-07-22 01:04:58 AM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-21T18:04:53.039176-07:00.hyperlinks.json) |
+| [July 26 at 4:12 AM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-26T04:11:54.195739-07:00.hyperlinks.json) |
+| [July 25 at 4:07 PM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-25T16:07:40.314753-07:00.hyperlinks.json) |
+| [July 25 at 3:58 AM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-25T03:58:28.519777-07:00.hyperlinks.json) |
+| [July 24 at 5:48 PM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-24T17:48:40.377582-07:00.hyperlinks.json) |
+| [July 24 at 3:57 AM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-24T03:57:33.395743-07:00.hyperlinks.json) |
+| [July 23 at 3:59 PM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-23T15:59:28.320271-07:00.hyperlinks.json) |
+| [July 23 at 5:56 AM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-23T05:56:41.696733-07:00.hyperlinks.json) |
+| [July 22 at 5:57 PM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-22T17:57:05.447372-07:00.hyperlinks.json) |
+| [July 22 at 5:57 AM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-22T05:57:36.364826-07:00.hyperlinks.json) |
+| [July 21 at 6:04 PM](https://archive.org/download/bakersfieldcali-2022/bakersfieldcali-2022-07-21T18:04:53.039176-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -31,19 +31,19 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/khnews-2022/khnews-2022-07-26T08:22:32.772071-04:00.jpg">
   <img src="https://archive.org/download/khnews-2022/khnews-2022-07-26T08:22:32.772071-04:00.jpg"
-     alt="Kaiser Health News at 2022-07-26 15:22:37-04:00 local time"
+     alt="Kaiser Health News at 2022-07-26 08:22:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khnews-2022/khnews-2022-07-26T08:22:32.772071-04:00.jpg">July 26 at 3:22 PM</a></p>
+ <p><a href="https://archive.org/download/khnews-2022/khnews-2022-07-26T08:22:32.772071-04:00.jpg">July 26 at 8:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khnews-2022/khnews-2022-07-25T20:17:12.336652-04:00.jpg">
   <img src="https://archive.org/download/khnews-2022/khnews-2022-07-25T20:17:12.336652-04:00.jpg"
-     alt="Kaiser Health News at 2022-07-26 03:17:18-04:00 local time"
+     alt="Kaiser Health News at 2022-07-25 20:17:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khnews-2022/khnews-2022-07-25T20:17:12.336652-04:00.jpg">July 26 at 3:17 AM</a></p>
+ <p><a href="https://archive.org/download/khnews-2022/khnews-2022-07-25T20:17:12.336652-04:00.jpg">July 25 at 8:17 PM</a></p>
 </div>
 
 </div>
@@ -58,8 +58,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 15:22:45 PM](https://archive.org/download/khnews-2022/khnews-2022-07-26T08:22:32.772071-04:00.hyperlinks.json) |
-| [2022-07-26 03:17:32 AM](https://archive.org/download/khnews-2022/khnews-2022-07-25T20:17:12.336652-04:00.hyperlinks.json) |
+| [July 26 at 8:22 AM](https://archive.org/download/khnews-2022/khnews-2022-07-26T08:22:32.772071-04:00.hyperlinks.json) |
+| [July 25 at 8:17 PM](https://archive.org/download/khnews-2022/khnews-2022-07-25T20:17:12.336652-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

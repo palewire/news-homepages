@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-26T03:48:55.158276+01:00.jpg">
   <img src="https://archive.org/download/newscientist-2022/newscientist-2022-07-26T03:48:55.158276+01:00.jpg"
-     alt="New Scientist at 2022-07-26 10:48:56+01:00 local time"
+     alt="New Scientist at 2022-07-26 03:48:56+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-26T03:48:55.158276+01:00.jpg">July 26 at 10:48 AM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-26T03:48:55.158276+01:00.jpg">July 26 at 3:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-25T14:16:36.615614+01:00.jpg">
   <img src="https://archive.org/download/newscientist-2022/newscientist-2022-07-25T14:16:36.615614+01:00.jpg"
-     alt="New Scientist at 2022-07-25 21:16:39+01:00 local time"
+     alt="New Scientist at 2022-07-25 14:16:39+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-25T14:16:36.615614+01:00.jpg">July 25 at 9:16 PM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-25T14:16:36.615614+01:00.jpg">July 25 at 2:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-25T04:35:39.892925+01:00.jpg">
   <img src="https://archive.org/download/newscientist-2022/newscientist-2022-07-25T04:35:39.892925+01:00.jpg"
-     alt="New Scientist at 2022-07-25 11:35:41+01:00 local time"
+     alt="New Scientist at 2022-07-25 04:35:41+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-25T04:35:39.892925+01:00.jpg">July 25 at 11:35 AM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-25T04:35:39.892925+01:00.jpg">July 25 at 4:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-24T14:05:02.828735+01:00.jpg">
   <img src="https://archive.org/download/newscientist-2022/newscientist-2022-07-24T14:05:02.828735+01:00.jpg"
-     alt="New Scientist at 2022-07-24 21:05:05+01:00 local time"
+     alt="New Scientist at 2022-07-24 14:05:05+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-24T14:05:02.828735+01:00.jpg">July 24 at 9:05 PM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-24T14:05:02.828735+01:00.jpg">July 24 at 2:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-24T05:20:38.354978+01:00.jpg">
   <img src="https://archive.org/download/newscientist-2022/newscientist-2022-07-24T05:20:38.354978+01:00.jpg"
-     alt="New Scientist at 2022-07-24 12:20:40+01:00 local time"
+     alt="New Scientist at 2022-07-24 05:20:40+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-24T05:20:38.354978+01:00.jpg">July 24 at 12:20 PM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-24T05:20:38.354978+01:00.jpg">July 24 at 5:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-23T16:03:18.636555+01:00.jpg">
   <img src="https://archive.org/download/newscientist-2022/newscientist-2022-07-23T16:03:18.636555+01:00.jpg"
-     alt="New Scientist at 2022-07-23 23:03:21+01:00 local time"
+     alt="New Scientist at 2022-07-23 16:03:21+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-23T16:03:18.636555+01:00.jpg">July 23 at 11:03 PM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-23T16:03:18.636555+01:00.jpg">July 23 at 4:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-23T04:33:13.794594+01:00.jpg">
   <img src="https://archive.org/download/newscientist-2022/newscientist-2022-07-23T04:33:13.794594+01:00.jpg"
-     alt="New Scientist at 2022-07-23 11:33:16+01:00 local time"
+     alt="New Scientist at 2022-07-23 04:33:16+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-23T04:33:13.794594+01:00.jpg">July 23 at 11:33 AM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-23T04:33:13.794594+01:00.jpg">July 23 at 4:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-22T15:58:58.972154+01:00.jpg">
   <img src="https://archive.org/download/newscientist-2022/newscientist-2022-07-22T15:58:58.972154+01:00.jpg"
-     alt="New Scientist at 2022-07-22 22:59:02+01:00 local time"
+     alt="New Scientist at 2022-07-22 15:59:02+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-22T15:58:58.972154+01:00.jpg">July 22 at 10:59 PM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-22T15:58:58.972154+01:00.jpg">July 22 at 3:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-22T04:37:34.883181+01:00.jpg">
   <img src="https://archive.org/download/newscientist-2022/newscientist-2022-07-22T04:37:34.883181+01:00.jpg"
-     alt="New Scientist at 2022-07-22 11:37:37+01:00 local time"
+     alt="New Scientist at 2022-07-22 04:37:37+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-22T04:37:34.883181+01:00.jpg">July 22 at 11:37 AM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-22T04:37:34.883181+01:00.jpg">July 22 at 4:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-21T16:32:15.160855+01:00.jpg">
   <img src="https://archive.org/download/newscientist-2022/newscientist-2022-07-21T16:32:15.160855+01:00.jpg"
-     alt="New Scientist at 2022-07-21 23:32:19+01:00 local time"
+     alt="New Scientist at 2022-07-21 16:32:19+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-21T16:32:15.160855+01:00.jpg">July 21 at 11:32 PM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-21T16:32:15.160855+01:00.jpg">July 21 at 4:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-21T04:35:51.210949+01:00.jpg">
   <img src="https://archive.org/download/newscientist-2022/newscientist-2022-07-21T04:35:51.210949+01:00.jpg"
-     alt="New Scientist at 2022-07-21 11:35:54+01:00 local time"
+     alt="New Scientist at 2022-07-21 04:35:54+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-21T04:35:51.210949+01:00.jpg">July 21 at 11:35 AM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-21T04:35:51.210949+01:00.jpg">July 21 at 4:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-20T17:10:06.800480+01:00.jpg">
   <img src="https://archive.org/download/newscientist-2022/newscientist-2022-07-20T17:10:06.800480+01:00.jpg"
-     alt="New Scientist at 2022-07-21 00:10:08+01:00 local time"
+     alt="New Scientist at 2022-07-20 17:10:08+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-20T17:10:06.800480+01:00.jpg">July 21 at 12:10 AM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-20T17:10:06.800480+01:00.jpg">July 20 at 5:10 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 10:49:04 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-26T03:48:55.158276+01:00.hyperlinks.json) |
-| [2022-07-25 21:16:42 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-25T14:16:36.615614+01:00.hyperlinks.json) |
-| [2022-07-25 11:35:44 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-25T04:35:39.892925+01:00.hyperlinks.json) |
-| [2022-07-24 21:05:08 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-24T14:05:02.828735+01:00.hyperlinks.json) |
-| [2022-07-24 12:20:43 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-24T05:20:38.354978+01:00.hyperlinks.json) |
-| [2022-07-23 23:03:24 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-23T16:03:18.636555+01:00.hyperlinks.json) |
-| [2022-07-23 11:33:19 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-23T04:33:13.794594+01:00.hyperlinks.json) |
-| [2022-07-22 22:59:05 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-22T15:58:58.972154+01:00.hyperlinks.json) |
-| [2022-07-22 11:37:41 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-22T04:37:34.883181+01:00.hyperlinks.json) |
-| [2022-07-21 23:32:22 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-21T16:32:15.160855+01:00.hyperlinks.json) |
+| [July 26 at 3:49 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-26T03:48:55.158276+01:00.hyperlinks.json) |
+| [July 25 at 2:16 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-25T14:16:36.615614+01:00.hyperlinks.json) |
+| [July 25 at 4:35 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-25T04:35:39.892925+01:00.hyperlinks.json) |
+| [July 24 at 2:05 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-24T14:05:02.828735+01:00.hyperlinks.json) |
+| [July 24 at 5:20 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-24T05:20:38.354978+01:00.hyperlinks.json) |
+| [July 23 at 4:03 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-23T16:03:18.636555+01:00.hyperlinks.json) |
+| [July 23 at 4:33 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-23T04:33:13.794594+01:00.hyperlinks.json) |
+| [July 22 at 3:59 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-22T15:58:58.972154+01:00.hyperlinks.json) |
+| [July 22 at 4:37 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-22T04:37:34.883181+01:00.hyperlinks.json) |
+| [July 21 at 4:32 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-21T16:32:15.160855+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

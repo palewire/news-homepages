@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T21:42:43.191447-05:00.jpg">
   <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T21:42:43.191447-05:00.jpg"
-     alt="Cedar Rapids Gazette at 2022-07-26 04:42:45-05:00 local time"
+     alt="Cedar Rapids Gazette at 2022-07-25 21:42:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T21:42:43.191447-05:00.jpg">July 26 at 4:42 AM</a></p>
+ <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T21:42:43.191447-05:00.jpg">July 25 at 9:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T11:38:27.139462-05:00.jpg">
   <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T11:38:27.139462-05:00.jpg"
-     alt="Cedar Rapids Gazette at 2022-07-25 18:38:28-05:00 local time"
+     alt="Cedar Rapids Gazette at 2022-07-25 11:38:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T11:38:27.139462-05:00.jpg">July 25 at 6:38 PM</a></p>
+ <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T11:38:27.139462-05:00.jpg">July 25 at 11:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T07:04:56.529974-05:00.jpg">
   <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T07:04:56.529974-05:00.jpg"
-     alt="Cedar Rapids Gazette at 2022-07-25 14:05:01-05:00 local time"
+     alt="Cedar Rapids Gazette at 2022-07-25 07:05:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T07:04:56.529974-05:00.jpg">July 25 at 2:05 PM</a></p>
+ <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T07:04:56.529974-05:00.jpg">July 25 at 7:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-24T20:08:35.141450-05:00.jpg">
   <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-24T20:08:35.141450-05:00.jpg"
-     alt="Cedar Rapids Gazette at 2022-07-25 03:08:37-05:00 local time"
+     alt="Cedar Rapids Gazette at 2022-07-24 20:08:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-24T20:08:35.141450-05:00.jpg">July 25 at 3:08 AM</a></p>
+ <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-24T20:08:35.141450-05:00.jpg">July 24 at 8:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-24T07:01:01.667019-05:00.jpg">
   <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-24T07:01:01.667019-05:00.jpg"
-     alt="Cedar Rapids Gazette at 2022-07-24 14:01:11-05:00 local time"
+     alt="Cedar Rapids Gazette at 2022-07-24 07:01:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-24T07:01:01.667019-05:00.jpg">July 24 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-24T07:01:01.667019-05:00.jpg">July 24 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-24T01:31:12.666686-05:00.jpg">
   <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-24T01:31:12.666686-05:00.jpg"
-     alt="Cedar Rapids Gazette at 2022-07-24 08:31:23-05:00 local time"
+     alt="Cedar Rapids Gazette at 2022-07-24 01:31:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-24T01:31:12.666686-05:00.jpg">July 24 at 8:31 AM</a></p>
+ <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-24T01:31:12.666686-05:00.jpg">July 24 at 1:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-23T09:00:36.302362-05:00.jpg">
   <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-23T09:00:36.302362-05:00.jpg"
-     alt="Cedar Rapids Gazette at 2022-07-23 16:00:38-05:00 local time"
+     alt="Cedar Rapids Gazette at 2022-07-23 09:00:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-23T09:00:36.302362-05:00.jpg">July 23 at 4:00 PM</a></p>
+ <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-23T09:00:36.302362-05:00.jpg">July 23 at 9:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T21:27:09.568709-05:00.jpg">
   <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T21:27:09.568709-05:00.jpg"
-     alt="Cedar Rapids Gazette at 2022-07-23 04:27:11-05:00 local time"
+     alt="Cedar Rapids Gazette at 2022-07-22 21:27:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T21:27:09.568709-05:00.jpg">July 23 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T21:27:09.568709-05:00.jpg">July 22 at 9:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T11:13:15.958303-05:00.jpg">
   <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T11:13:15.958303-05:00.jpg"
-     alt="Cedar Rapids Gazette at 2022-07-22 18:13:22-05:00 local time"
+     alt="Cedar Rapids Gazette at 2022-07-22 11:13:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T11:13:15.958303-05:00.jpg">July 22 at 6:13 PM</a></p>
+ <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T11:13:15.958303-05:00.jpg">July 22 at 11:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T09:01:33.686746-05:00.jpg">
   <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T09:01:33.686746-05:00.jpg"
-     alt="Cedar Rapids Gazette at 2022-07-22 16:01:38-05:00 local time"
+     alt="Cedar Rapids Gazette at 2022-07-22 09:01:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T09:01:33.686746-05:00.jpg">July 22 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T09:01:33.686746-05:00.jpg">July 22 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-21T21:20:45.463849-05:00.jpg">
   <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-21T21:20:45.463849-05:00.jpg"
-     alt="Cedar Rapids Gazette at 2022-07-22 04:20:47-05:00 local time"
+     alt="Cedar Rapids Gazette at 2022-07-21 21:20:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-21T21:20:45.463849-05:00.jpg">July 22 at 4:20 AM</a></p>
+ <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-21T21:20:45.463849-05:00.jpg">July 21 at 9:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-21T09:10:33.618588-05:00.jpg">
   <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-21T09:10:33.618588-05:00.jpg"
-     alt="Cedar Rapids Gazette at 2022-07-21 16:10:35-05:00 local time"
+     alt="Cedar Rapids Gazette at 2022-07-21 09:10:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-21T09:10:33.618588-05:00.jpg">July 21 at 4:10 PM</a></p>
+ <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-21T09:10:33.618588-05:00.jpg">July 21 at 9:10 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 04:42:48 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T21:42:43.191447-05:00.hyperlinks.json) |
-| [2022-07-25 18:38:30 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T11:38:27.139462-05:00.hyperlinks.json) |
-| [2022-07-25 14:05:05 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T07:04:56.529974-05:00.hyperlinks.json) |
-| [2022-07-25 03:08:40 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-24T20:08:35.141450-05:00.hyperlinks.json) |
-| [2022-07-24 14:01:15 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-24T07:01:01.667019-05:00.hyperlinks.json) |
-| [2022-07-24 08:31:26 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-24T01:31:12.666686-05:00.hyperlinks.json) |
-| [2022-07-23 16:00:41 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-23T09:00:36.302362-05:00.hyperlinks.json) |
-| [2022-07-23 04:27:15 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T21:27:09.568709-05:00.hyperlinks.json) |
-| [2022-07-22 18:13:25 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T11:13:15.958303-05:00.hyperlinks.json) |
-| [2022-07-22 16:01:43 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T09:01:33.686746-05:00.hyperlinks.json) |
+| [July 25 at 9:42 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T21:42:43.191447-05:00.hyperlinks.json) |
+| [July 25 at 11:38 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T11:38:27.139462-05:00.hyperlinks.json) |
+| [July 25 at 7:05 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T07:04:56.529974-05:00.hyperlinks.json) |
+| [July 24 at 8:08 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-24T20:08:35.141450-05:00.hyperlinks.json) |
+| [July 24 at 7:01 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-24T07:01:01.667019-05:00.hyperlinks.json) |
+| [July 24 at 1:31 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-24T01:31:12.666686-05:00.hyperlinks.json) |
+| [July 23 at 9:00 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-23T09:00:36.302362-05:00.hyperlinks.json) |
+| [July 22 at 9:27 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T21:27:09.568709-05:00.hyperlinks.json) |
+| [July 22 at 11:13 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T11:13:15.958303-05:00.hyperlinks.json) |
+| [July 22 at 9:01 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T09:01:33.686746-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

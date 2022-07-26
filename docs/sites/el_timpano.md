@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-25T19:40:47.123337-07:00.jpg">
   <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-25T19:40:47.123337-07:00.jpg"
-     alt="El Tímpano at 2022-07-26 02:40:49-07:00 local time"
+     alt="El Tímpano at 2022-07-25 19:40:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-25T19:40:47.123337-07:00.jpg">July 26 at 2:40 AM</a></p>
+ <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-25T19:40:47.123337-07:00.jpg">July 25 at 7:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-25T05:00:59.573072-07:00.jpg">
   <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-25T05:00:59.573072-07:00.jpg"
-     alt="El Tímpano at 2022-07-25 12:01:04-07:00 local time"
+     alt="El Tímpano at 2022-07-25 05:01:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-25T05:00:59.573072-07:00.jpg">July 25 at 12:01 PM</a></p>
+ <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-25T05:00:59.573072-07:00.jpg">July 25 at 5:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-24T18:02:25.024330-07:00.jpg">
   <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-24T18:02:25.024330-07:00.jpg"
-     alt="El Tímpano at 2022-07-25 01:02:26-07:00 local time"
+     alt="El Tímpano at 2022-07-24 18:02:26-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-24T18:02:25.024330-07:00.jpg">July 25 at 1:02 AM</a></p>
+ <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-24T18:02:25.024330-07:00.jpg">July 24 at 6:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-24T04:58:29.716892-07:00.jpg">
   <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-24T04:58:29.716892-07:00.jpg"
-     alt="El Tímpano at 2022-07-24 11:58:32-07:00 local time"
+     alt="El Tímpano at 2022-07-24 04:58:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-24T04:58:29.716892-07:00.jpg">July 24 at 11:58 AM</a></p>
+ <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-24T04:58:29.716892-07:00.jpg">July 24 at 4:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-23T23:28:06.516535-07:00.jpg">
   <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-23T23:28:06.516535-07:00.jpg"
-     alt="El Tímpano at 2022-07-24 06:28:09-07:00 local time"
+     alt="El Tímpano at 2022-07-23 23:28:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-23T23:28:06.516535-07:00.jpg">July 24 at 6:28 AM</a></p>
+ <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-23T23:28:06.516535-07:00.jpg">July 23 at 11:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-23T06:57:44.528315-07:00.jpg">
   <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-23T06:57:44.528315-07:00.jpg"
-     alt="El Tímpano at 2022-07-23 13:57:45-07:00 local time"
+     alt="El Tímpano at 2022-07-23 06:57:45-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-23T06:57:44.528315-07:00.jpg">July 23 at 1:57 PM</a></p>
+ <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-23T06:57:44.528315-07:00.jpg">July 23 at 6:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-22T19:24:48.542526-07:00.jpg">
   <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-22T19:24:48.542526-07:00.jpg"
-     alt="El Tímpano at 2022-07-23 02:24:50-07:00 local time"
+     alt="El Tímpano at 2022-07-22 19:24:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-22T19:24:48.542526-07:00.jpg">July 23 at 2:24 AM</a></p>
+ <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-22T19:24:48.542526-07:00.jpg">July 22 at 7:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-22T06:59:19.139225-07:00.jpg">
   <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-22T06:59:19.139225-07:00.jpg"
-     alt="El Tímpano at 2022-07-22 13:59:20-07:00 local time"
+     alt="El Tímpano at 2022-07-22 06:59:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-22T06:59:19.139225-07:00.jpg">July 22 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-22T06:59:19.139225-07:00.jpg">July 22 at 6:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-21T19:18:36.442482-07:00.jpg">
   <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-21T19:18:36.442482-07:00.jpg"
-     alt="El Tímpano at 2022-07-22 02:18:39-07:00 local time"
+     alt="El Tímpano at 2022-07-21 19:18:39-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-21T19:18:36.442482-07:00.jpg">July 22 at 2:18 AM</a></p>
+ <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-21T19:18:36.442482-07:00.jpg">July 21 at 7:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-21T07:04:01.461602-07:00.jpg">
   <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-21T07:04:01.461602-07:00.jpg"
-     alt="El Tímpano at 2022-07-21 14:04:04-07:00 local time"
+     alt="El Tímpano at 2022-07-21 07:04:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-21T07:04:01.461602-07:00.jpg">July 21 at 2:04 PM</a></p>
+ <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-21T07:04:01.461602-07:00.jpg">July 21 at 7:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-20T19:21:26.398963-07:00.jpg">
   <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-20T19:21:26.398963-07:00.jpg"
-     alt="El Tímpano at 2022-07-21 02:21:28-07:00 local time"
+     alt="El Tímpano at 2022-07-20 19:21:28-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-20T19:21:26.398963-07:00.jpg">July 21 at 2:21 AM</a></p>
+ <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-20T19:21:26.398963-07:00.jpg">July 20 at 7:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-20T07:22:41.879417-07:00.jpg">
   <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-20T07:22:41.879417-07:00.jpg"
-     alt="El Tímpano at 2022-07-20 14:22:43-07:00 local time"
+     alt="El Tímpano at 2022-07-20 07:22:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-20T07:22:41.879417-07:00.jpg">July 20 at 2:22 PM</a></p>
+ <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-20T07:22:41.879417-07:00.jpg">July 20 at 7:22 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 02:40:52 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-25T19:40:47.123337-07:00.hyperlinks.json) |
-| [2022-07-25 12:01:08 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-25T05:00:59.573072-07:00.hyperlinks.json) |
-| [2022-07-25 01:02:29 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-24T18:02:25.024330-07:00.hyperlinks.json) |
-| [2022-07-24 11:58:40 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-24T04:58:29.716892-07:00.hyperlinks.json) |
-| [2022-07-24 06:28:12 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-23T23:28:06.516535-07:00.hyperlinks.json) |
-| [2022-07-23 13:57:49 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-23T06:57:44.528315-07:00.hyperlinks.json) |
-| [2022-07-23 02:24:54 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-22T19:24:48.542526-07:00.hyperlinks.json) |
-| [2022-07-22 13:59:28 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-22T06:59:19.139225-07:00.hyperlinks.json) |
-| [2022-07-22 02:18:42 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-21T19:18:36.442482-07:00.hyperlinks.json) |
-| [2022-07-21 14:04:07 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-21T07:04:01.461602-07:00.hyperlinks.json) |
+| [July 25 at 7:40 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-25T19:40:47.123337-07:00.hyperlinks.json) |
+| [July 25 at 5:01 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-25T05:00:59.573072-07:00.hyperlinks.json) |
+| [July 24 at 6:02 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-24T18:02:25.024330-07:00.hyperlinks.json) |
+| [July 24 at 4:58 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-24T04:58:29.716892-07:00.hyperlinks.json) |
+| [July 23 at 11:28 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-23T23:28:06.516535-07:00.hyperlinks.json) |
+| [July 23 at 6:57 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-23T06:57:44.528315-07:00.hyperlinks.json) |
+| [July 22 at 7:24 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-22T19:24:48.542526-07:00.hyperlinks.json) |
+| [July 22 at 6:59 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-22T06:59:19.139225-07:00.hyperlinks.json) |
+| [July 21 at 7:18 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-21T19:18:36.442482-07:00.hyperlinks.json) |
+| [July 21 at 7:04 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-21T07:04:01.461602-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

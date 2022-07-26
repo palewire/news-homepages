@@ -31,19 +31,19 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-25T19:55:24.239376-07:00.jpg">
   <img src="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-25T19:55:24.239376-07:00.jpg"
-     alt="ABC7 News at 2022-07-26 02:55:26-07:00 local time"
+     alt="ABC7 News at 2022-07-25 19:55:26-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-25T19:55:24.239376-07:00.jpg">July 26 at 2:55 AM</a></p>
+ <p><a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-25T19:55:24.239376-07:00.jpg">July 25 at 7:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-25T18:29:47.384803-07:00.jpg">
   <img src="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-25T18:29:47.384803-07:00.jpg"
-     alt="ABC7 News at 2022-07-26 01:29:53-07:00 local time"
+     alt="ABC7 News at 2022-07-25 18:29:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-25T18:29:47.384803-07:00.jpg">July 26 at 1:29 AM</a></p>
+ <p><a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-25T18:29:47.384803-07:00.jpg">July 25 at 6:29 PM</a></p>
 </div>
 
 </div>
@@ -58,8 +58,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 02:55:31 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-25T19:55:24.239376-07:00.hyperlinks.json) |
-| [2022-07-26 01:30:07 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-25T18:29:47.384803-07:00.hyperlinks.json) |
+| [July 25 at 7:55 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-25T19:55:24.239376-07:00.hyperlinks.json) |
+| [July 25 at 6:30 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-25T18:29:47.384803-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

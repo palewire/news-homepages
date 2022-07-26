@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-26T07:13:30.392445-04:00.jpg">
   <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-26T07:13:30.392445-04:00.jpg"
-     alt="Buzzfeed News at 2022-07-26 14:13:34-04:00 local time"
+     alt="Buzzfeed News at 2022-07-26 07:13:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-26T07:13:30.392445-04:00.jpg">July 26 at 2:13 PM</a></p>
+ <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-26T07:13:30.392445-04:00.jpg">July 26 at 7:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-25T19:09:24.515265-04:00.jpg">
   <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-25T19:09:24.515265-04:00.jpg"
-     alt="Buzzfeed News at 2022-07-26 02:09:28-04:00 local time"
+     alt="Buzzfeed News at 2022-07-25 19:09:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-25T19:09:24.515265-04:00.jpg">July 26 at 2:09 AM</a></p>
+ <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-25T19:09:24.515265-04:00.jpg">July 25 at 7:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-25T07:00:42.351750-04:00.jpg">
   <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-25T07:00:42.351750-04:00.jpg"
-     alt="Buzzfeed News at 2022-07-25 14:00:46-04:00 local time"
+     alt="Buzzfeed News at 2022-07-25 07:00:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-25T07:00:42.351750-04:00.jpg">July 25 at 2:00 PM</a></p>
+ <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-25T07:00:42.351750-04:00.jpg">July 25 at 7:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-24T20:53:10.180433-04:00.jpg">
   <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-24T20:53:10.180433-04:00.jpg"
-     alt="Buzzfeed News at 2022-07-25 03:53:11-04:00 local time"
+     alt="Buzzfeed News at 2022-07-24 20:53:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-24T20:53:10.180433-04:00.jpg">July 25 at 3:53 AM</a></p>
+ <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-24T20:53:10.180433-04:00.jpg">July 24 at 8:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-24T07:00:20.577732-04:00.jpg">
   <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-24T07:00:20.577732-04:00.jpg"
-     alt="Buzzfeed News at 2022-07-24 14:00:22-04:00 local time"
+     alt="Buzzfeed News at 2022-07-24 07:00:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-24T07:00:20.577732-04:00.jpg">July 24 at 2:00 PM</a></p>
+ <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-24T07:00:20.577732-04:00.jpg">July 24 at 7:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-23T19:01:50.078796-04:00.jpg">
   <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-23T19:01:50.078796-04:00.jpg"
-     alt="Buzzfeed News at 2022-07-24 02:01:51-04:00 local time"
+     alt="Buzzfeed News at 2022-07-23 19:01:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-23T19:01:50.078796-04:00.jpg">July 24 at 2:01 AM</a></p>
+ <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-23T19:01:50.078796-04:00.jpg">July 23 at 7:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-23T08:59:40.236739-04:00.jpg">
   <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-23T08:59:40.236739-04:00.jpg"
-     alt="Buzzfeed News at 2022-07-23 15:59:41-04:00 local time"
+     alt="Buzzfeed News at 2022-07-23 08:59:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-23T08:59:40.236739-04:00.jpg">July 23 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-23T08:59:40.236739-04:00.jpg">July 23 at 8:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-22T20:59:29.376086-04:00.jpg">
   <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-22T20:59:29.376086-04:00.jpg"
-     alt="Buzzfeed News at 2022-07-23 03:59:31-04:00 local time"
+     alt="Buzzfeed News at 2022-07-22 20:59:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-22T20:59:29.376086-04:00.jpg">July 23 at 3:59 AM</a></p>
+ <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-22T20:59:29.376086-04:00.jpg">July 22 at 8:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-22T08:59:14.448568-04:00.jpg">
   <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-22T08:59:14.448568-04:00.jpg"
-     alt="Buzzfeed News at 2022-07-22 15:59:15-04:00 local time"
+     alt="Buzzfeed News at 2022-07-22 08:59:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-22T08:59:14.448568-04:00.jpg">July 22 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-22T08:59:14.448568-04:00.jpg">July 22 at 8:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-21T21:07:57.520569-04:00.jpg">
   <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-21T21:07:57.520569-04:00.jpg"
-     alt="Buzzfeed News at 2022-07-22 04:07:59-04:00 local time"
+     alt="Buzzfeed News at 2022-07-21 21:07:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-21T21:07:57.520569-04:00.jpg">July 22 at 4:07 AM</a></p>
+ <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-21T21:07:57.520569-04:00.jpg">July 21 at 9:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-21T08:54:06.686515-04:00.jpg">
   <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-21T08:54:06.686515-04:00.jpg"
-     alt="Buzzfeed News at 2022-07-21 15:54:07-04:00 local time"
+     alt="Buzzfeed News at 2022-07-21 08:54:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-21T08:54:06.686515-04:00.jpg">July 21 at 3:54 PM</a></p>
+ <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-21T08:54:06.686515-04:00.jpg">July 21 at 8:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-20T21:07:16.108071-04:00.jpg">
   <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-20T21:07:16.108071-04:00.jpg"
-     alt="Buzzfeed News at 2022-07-21 04:07:18-04:00 local time"
+     alt="Buzzfeed News at 2022-07-20 21:07:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-20T21:07:16.108071-04:00.jpg">July 21 at 4:07 AM</a></p>
+ <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-20T21:07:16.108071-04:00.jpg">July 20 at 9:07 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 14:13:37 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-26T07:13:30.392445-04:00.hyperlinks.json) |
-| [2022-07-26 02:09:32 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-25T19:09:24.515265-04:00.hyperlinks.json) |
-| [2022-07-25 14:00:49 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-25T07:00:42.351750-04:00.hyperlinks.json) |
-| [2022-07-25 03:53:14 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-24T20:53:10.180433-04:00.hyperlinks.json) |
-| [2022-07-24 14:00:25 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-24T07:00:20.577732-04:00.hyperlinks.json) |
-| [2022-07-24 02:01:54 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-23T19:01:50.078796-04:00.hyperlinks.json) |
-| [2022-07-23 15:59:44 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-23T08:59:40.236739-04:00.hyperlinks.json) |
-| [2022-07-23 03:59:35 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-22T20:59:29.376086-04:00.hyperlinks.json) |
-| [2022-07-22 15:59:19 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-22T08:59:14.448568-04:00.hyperlinks.json) |
-| [2022-07-22 04:08:03 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-21T21:07:57.520569-04:00.hyperlinks.json) |
+| [July 26 at 7:13 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-26T07:13:30.392445-04:00.hyperlinks.json) |
+| [July 25 at 7:09 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-25T19:09:24.515265-04:00.hyperlinks.json) |
+| [July 25 at 7:00 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-25T07:00:42.351750-04:00.hyperlinks.json) |
+| [July 24 at 8:53 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-24T20:53:10.180433-04:00.hyperlinks.json) |
+| [July 24 at 7:00 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-24T07:00:20.577732-04:00.hyperlinks.json) |
+| [July 23 at 7:01 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-23T19:01:50.078796-04:00.hyperlinks.json) |
+| [July 23 at 8:59 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-23T08:59:40.236739-04:00.hyperlinks.json) |
+| [July 22 at 8:59 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-22T20:59:29.376086-04:00.hyperlinks.json) |
+| [July 22 at 8:59 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-22T08:59:14.448568-04:00.hyperlinks.json) |
+| [July 21 at 9:08 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-21T21:07:57.520569-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

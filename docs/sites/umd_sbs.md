@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T22:54:23.510589-04:00.jpg">
   <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T22:54:23.510589-04:00.jpg"
-     alt="Stories Beneath the Shell at 2022-07-26 05:54:24-04:00 local time"
+     alt="Stories Beneath the Shell at 2022-07-25 22:54:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T22:54:23.510589-04:00.jpg">July 26 at 5:54 AM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T22:54:23.510589-04:00.jpg">July 25 at 10:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T21:37:35.662098-04:00.jpg">
   <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T21:37:35.662098-04:00.jpg"
-     alt="Stories Beneath the Shell at 2022-07-26 04:37:37-04:00 local time"
+     alt="Stories Beneath the Shell at 2022-07-25 21:37:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T21:37:35.662098-04:00.jpg">July 26 at 4:37 AM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T21:37:35.662098-04:00.jpg">July 25 at 9:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T11:50:37.231257-04:00.jpg">
   <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T11:50:37.231257-04:00.jpg"
-     alt="Stories Beneath the Shell at 2022-07-25 18:50:39-04:00 local time"
+     alt="Stories Beneath the Shell at 2022-07-25 11:50:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T11:50:37.231257-04:00.jpg">July 25 at 6:50 PM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T11:50:37.231257-04:00.jpg">July 25 at 11:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T00:39:13.818554-04:00.jpg">
   <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T00:39:13.818554-04:00.jpg"
-     alt="Stories Beneath the Shell at 2022-07-25 07:39:15-04:00 local time"
+     alt="Stories Beneath the Shell at 2022-07-25 00:39:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T00:39:13.818554-04:00.jpg">July 25 at 7:39 AM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T00:39:13.818554-04:00.jpg">July 25 at 12:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-24T11:09:40.443011-04:00.jpg">
   <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-24T11:09:40.443011-04:00.jpg"
-     alt="Stories Beneath the Shell at 2022-07-24 18:09:41-04:00 local time"
+     alt="Stories Beneath the Shell at 2022-07-24 11:09:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-24T11:09:40.443011-04:00.jpg">July 24 at 6:09 PM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-24T11:09:40.443011-04:00.jpg">July 24 at 11:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T23:44:27.899029-04:00.jpg">
   <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T23:44:27.899029-04:00.jpg"
-     alt="Stories Beneath the Shell at 2022-07-24 06:44:29-04:00 local time"
+     alt="Stories Beneath the Shell at 2022-07-23 23:44:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T23:44:27.899029-04:00.jpg">July 24 at 6:44 AM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T23:44:27.899029-04:00.jpg">July 23 at 11:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T12:08:01.542305-04:00.jpg">
   <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T12:08:01.542305-04:00.jpg"
-     alt="Stories Beneath the Shell at 2022-07-23 19:08:03-04:00 local time"
+     alt="Stories Beneath the Shell at 2022-07-23 12:08:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T12:08:01.542305-04:00.jpg">July 23 at 7:08 PM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T12:08:01.542305-04:00.jpg">July 23 at 12:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T00:27:00.463321-04:00.jpg">
   <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T00:27:00.463321-04:00.jpg"
-     alt="Stories Beneath the Shell at 2022-07-23 07:27:03-04:00 local time"
+     alt="Stories Beneath the Shell at 2022-07-23 00:27:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T00:27:00.463321-04:00.jpg">July 23 at 7:27 AM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T00:27:00.463321-04:00.jpg">July 23 at 12:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T12:20:23.579626-04:00.jpg">
   <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T12:20:23.579626-04:00.jpg"
-     alt="Stories Beneath the Shell at 2022-07-22 19:20:25-04:00 local time"
+     alt="Stories Beneath the Shell at 2022-07-22 12:20:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T12:20:23.579626-04:00.jpg">July 22 at 7:20 PM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T12:20:23.579626-04:00.jpg">July 22 at 12:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T00:34:04.896705-04:00.jpg">
   <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T00:34:04.896705-04:00.jpg"
-     alt="Stories Beneath the Shell at 2022-07-22 07:34:06-04:00 local time"
+     alt="Stories Beneath the Shell at 2022-07-22 00:34:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T00:34:04.896705-04:00.jpg">July 22 at 7:34 AM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T00:34:04.896705-04:00.jpg">July 22 at 12:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-21T12:57:42.594946-04:00.jpg">
   <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-21T12:57:42.594946-04:00.jpg"
-     alt="Stories Beneath the Shell at 2022-07-21 19:57:44-04:00 local time"
+     alt="Stories Beneath the Shell at 2022-07-21 12:57:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-21T12:57:42.594946-04:00.jpg">July 21 at 7:57 PM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-21T12:57:42.594946-04:00.jpg">July 21 at 12:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-21T00:31:13.341797-04:00.jpg">
   <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-21T00:31:13.341797-04:00.jpg"
-     alt="Stories Beneath the Shell at 2022-07-21 07:31:15-04:00 local time"
+     alt="Stories Beneath the Shell at 2022-07-21 00:31:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-21T00:31:13.341797-04:00.jpg">July 21 at 7:31 AM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-21T00:31:13.341797-04:00.jpg">July 21 at 12:31 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [2022-07-26 05:54:27 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T22:54:23.510589-04:00.hyperlinks.json) |
-| [2022-07-26 04:37:40 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T21:37:35.662098-04:00.hyperlinks.json) |
-| [2022-07-25 18:50:42 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T11:50:37.231257-04:00.hyperlinks.json) |
-| [2022-07-25 07:39:22 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T00:39:13.818554-04:00.hyperlinks.json) |
-| [2022-07-24 18:09:49 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-24T11:09:40.443011-04:00.hyperlinks.json) |
-| [2022-07-24 06:44:35 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T23:44:27.899029-04:00.hyperlinks.json) |
-| [2022-07-23 19:08:07 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T12:08:01.542305-04:00.hyperlinks.json) |
-| [2022-07-23 07:27:09 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T00:27:00.463321-04:00.hyperlinks.json) |
-| [2022-07-22 19:20:28 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T12:20:23.579626-04:00.hyperlinks.json) |
-| [2022-07-22 07:34:10 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T00:34:04.896705-04:00.hyperlinks.json) |
+| [July 25 at 10:54 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T22:54:23.510589-04:00.hyperlinks.json) |
+| [July 25 at 9:37 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T21:37:35.662098-04:00.hyperlinks.json) |
+| [July 25 at 11:50 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T11:50:37.231257-04:00.hyperlinks.json) |
+| [July 25 at 12:39 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T00:39:13.818554-04:00.hyperlinks.json) |
+| [July 24 at 11:09 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-24T11:09:40.443011-04:00.hyperlinks.json) |
+| [July 23 at 11:44 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T23:44:27.899029-04:00.hyperlinks.json) |
+| [July 23 at 12:08 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T12:08:01.542305-04:00.hyperlinks.json) |
+| [July 23 at 12:27 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T00:27:00.463321-04:00.hyperlinks.json) |
+| [July 22 at 12:20 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T12:20:23.579626-04:00.hyperlinks.json) |
+| [July 22 at 12:34 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T00:34:04.896705-04:00.hyperlinks.json) |
 
 
 ## Internet Archive
