@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 33 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-25T19:21:48.279631-05:00.jpg">
+  <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-25T19:21:48.279631-05:00.jpg"
+     alt="Oklahoma Watch at 2022-07-25 19:21:50-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-25T19:21:48.279631-05:00.jpg">July 25 at 7:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-25T10:35:32.550551-05:00.jpg">
+  <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-25T10:35:32.550551-05:00.jpg"
+     alt="Oklahoma Watch at 2022-07-25 10:35:34-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-25T10:35:32.550551-05:00.jpg">July 25 at 10:35 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-24T22:38:52.908966-05:00.jpg">
   <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-24T22:38:52.908966-05:00.jpg"
      alt="Oklahoma Watch at 2022-07-24 22:38:54-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-20T11:12:05.297289-05:00.jpg">July 20 at 11:12 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-19T22:35:40.116792-05:00.jpg">
-  <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-19T22:35:40.116792-05:00.jpg"
-     alt="Oklahoma Watch at 2022-07-19 22:35:41-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-19T22:35:40.116792-05:00.jpg">July 19 at 10:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-19T10:45:41.182148-05:00.jpg">
-  <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-19T10:45:41.182148-05:00.jpg"
-     alt="Oklahoma Watch at 2022-07-19 10:45:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-19T10:45:41.182148-05:00.jpg">July 19 at 10:45 AM</a></p>
 </div>
 
 </div>

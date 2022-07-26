@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tpm-2022/tpm-2022-07-25T11:49:40.453053-04:00.jpg">
+  <img src="https://archive.org/download/tpm-2022/tpm-2022-07-25T11:49:40.453053-04:00.jpg"
+     alt="TPM at 2022-07-25 11:49:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tpm-2022/tpm-2022-07-25T11:49:40.453053-04:00.jpg">July 25 at 11:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tpm-2022/tpm-2022-07-25T00:38:35.667468-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/tpm-2022/tpm-2022-07-20T00:22:54.911912-04:00.jpg">July 20 at 12:22 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tpm-2022/tpm-2022-07-19T13:02:50.747671-04:00.jpg">
-  <img src="https://archive.org/download/tpm-2022/tpm-2022-07-19T13:02:50.747671-04:00.jpg"
-     alt="TPM at 2022-07-19 13:02:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tpm-2022/tpm-2022-07-19T13:02:50.747671-04:00.jpg">July 19 at 1:02 PM</a></p>
 </div>
 
 </div>

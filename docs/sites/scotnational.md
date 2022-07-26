@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 41 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-26T01:24:19.721884+01:00.jpg">
+  <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-26T01:24:19.721884+01:00.jpg"
+     alt="National at 2022-07-26 01:24:21+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-26T01:24:19.721884+01:00.jpg">July 26 at 1:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-25T16:41:14.974047+01:00.jpg">
+  <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-25T16:41:14.974047+01:00.jpg"
+     alt="National at 2022-07-25 16:41:16+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-25T16:41:14.974047+01:00.jpg">July 25 at 4:41 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-25T04:42:54.143106+01:00.jpg">
   <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-25T04:42:54.143106+01:00.jpg"
      alt="National at 2022-07-25 04:42:55+01:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-20T17:41:15.344001+01:00.jpg">July 20 at 5:41 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-19T17:56:23.295592+01:00.jpg">
-  <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-19T17:56:23.295592+01:00.jpg"
-     alt="National at 2022-07-19 17:56:25+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-19T17:56:23.295592+01:00.jpg">July 19 at 5:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-19T05:22:27.425883+01:00.jpg">
-  <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-19T05:22:27.425883+01:00.jpg"
-     alt="National at 2022-07-19 05:22:29+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-19T05:22:27.425883+01:00.jpg">July 19 at 5:22 AM</a></p>
 </div>
 
 </div>

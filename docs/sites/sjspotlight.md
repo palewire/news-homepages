@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T17:25:18.856648-07:00.jpg">
+  <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T17:25:18.856648-07:00.jpg"
+     alt="San José Spotlight at 2022-07-25 17:25:21-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T17:25:18.856648-07:00.jpg">July 25 at 5:25 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T08:41:40.438571-07:00.jpg">
+  <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T08:41:40.438571-07:00.jpg"
+     alt="San José Spotlight at 2022-07-25 08:41:43-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T08:41:40.438571-07:00.jpg">July 25 at 8:41 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T20:43:45.587886-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T20:43:45.587886-07:00.jpg"
      alt="San José Spotlight at 2022-07-24 20:43:46-07:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-20T09:42:34.686577-07:00.jpg">July 20 at 9:42 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-19T21:19:36.482745-07:00.jpg">
-  <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-19T21:19:36.482745-07:00.jpg"
-     alt="San José Spotlight at 2022-07-19 21:19:38-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-19T21:19:36.482745-07:00.jpg">July 19 at 9:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-19T09:57:46.739531-07:00.jpg">
-  <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-19T09:57:46.739531-07:00.jpg"
-     alt="San José Spotlight at 2022-07-19 09:57:48-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-19T09:57:46.739531-07:00.jpg">July 19 at 9:57 AM</a></p>
 </div>
 
 </div>

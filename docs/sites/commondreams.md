@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T14:40:03.151030-04:00.jpg">
+  <img src="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T14:40:03.151030-04:00.jpg"
+     alt="Common Dreams at 2022-07-25 14:40:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T14:40:03.151030-04:00.jpg">July 25 at 2:40 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T12:36:47.895273-04:00.jpg">
+  <img src="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T12:36:47.895273-04:00.jpg"
+     alt="Common Dreams at 2022-07-25 12:36:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T12:36:47.895273-04:00.jpg">July 25 at 12:36 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T07:03:52.146082-04:00.jpg">
@@ -116,24 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-22T09:02:04.594862-04:00.jpg">July 22 at 9:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-21T21:10:00.311877-04:00.jpg">
-  <img src="https://archive.org/download/commondreams-2022/commondreams-2022-07-21T21:10:00.311877-04:00.jpg"
-     alt="Common Dreams at 2022-07-21 21:10:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-21T21:10:00.311877-04:00.jpg">July 21 at 9:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-21T12:49:52.794251-04:00.jpg">
-  <img src="https://archive.org/download/commondreams-2022/commondreams-2022-07-21T12:49:52.794251-04:00.jpg"
-     alt="Common Dreams at 2022-07-21 12:49:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-21T12:49:52.794251-04:00.jpg">July 21 at 12:49 PM</a></p>
 </div>
 
 </div>

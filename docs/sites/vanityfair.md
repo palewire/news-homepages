@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 41 screenshots with the Internet Archive.
+The archiving routine has saved 42 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 41 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-25T11:52:03.001278-04:00.jpg">
+  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-25T11:52:03.001278-04:00.jpg"
+     alt="Vanity Fair at 2022-07-25 11:52:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-25T11:52:03.001278-04:00.jpg">July 25 at 11:52 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-25T00:39:51.794049-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-20T00:23:41.572013-04:00.jpg">July 20 at 12:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-19T00:28:04.788460-04:00.jpg">
-  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-19T00:28:04.788460-04:00.jpg"
-     alt="Vanity Fair at 2022-07-19 00:28:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-19T00:28:04.788460-04:00.jpg">July 19 at 12:28 AM</a></p>
 </div>
 
 </div>

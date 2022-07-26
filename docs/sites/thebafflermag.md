@@ -20,13 +20,40 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-25T14:40:38.396978-04:00.jpg">
+  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-25T14:40:38.396978-04:00.jpg"
+     alt="Baffler at 2022-07-25 14:40:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-25T14:40:38.396978-04:00.jpg">July 25 at 2:40 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-25T12:38:14.748604-04:00.jpg">
+  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-25T12:38:14.748604-04:00.jpg"
+     alt="Baffler at 2022-07-25 12:38:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-25T12:38:14.748604-04:00.jpg">July 25 at 12:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-25T11:45:56.553070-04:00.jpg">
+  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-25T11:45:56.553070-04:00.jpg"
+     alt="Baffler at 2022-07-25 11:45:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-25T11:45:56.553070-04:00.jpg">July 25 at 11:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-25T00:35:54.359950-04:00.jpg">
@@ -107,33 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-22T12:12:07.517946-04:00.jpg">July 22 at 12:12 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-22T00:30:40.864093-04:00.jpg">
-  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-22T00:30:40.864093-04:00.jpg"
-     alt="Baffler at 2022-07-22 00:30:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-22T00:30:40.864093-04:00.jpg">July 22 at 12:30 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-21T12:54:38.091701-04:00.jpg">
-  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-21T12:54:38.091701-04:00.jpg"
-     alt="Baffler at 2022-07-21 12:54:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-21T12:54:38.091701-04:00.jpg">July 21 at 12:54 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-21T12:49:58.730814-04:00.jpg">
-  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-21T12:49:58.730814-04:00.jpg"
-     alt="Baffler at 2022-07-21 12:50:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-21T12:49:58.730814-04:00.jpg">July 21 at 12:50 PM</a></p>
 </div>
 
 </div>

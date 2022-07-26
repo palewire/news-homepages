@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 118 screenshots with the Internet Archive.
+The archiving routine has saved 120 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-25T18:08:25.429389-05:00.jpg">
+  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-25T18:08:25.429389-05:00.jpg"
+     alt="Block Club Chicago at 2022-07-25 18:08:27-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-25T18:08:25.429389-05:00.jpg">July 25 at 6:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-25T11:35:26.964600-05:00.jpg">
+  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-25T11:35:26.964600-05:00.jpg"
+     alt="Block Club Chicago at 2022-07-25 11:35:28-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-25T11:35:26.964600-05:00.jpg">July 25 at 11:35 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-25T06:00:13.966142-05:00.jpg">
   <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-25T06:00:13.966142-05:00.jpg"
      alt="Block Club Chicago at 2022-07-25 06:00:18-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-21T20:06:50.164727-05:00.jpg">July 21 at 8:06 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-21T11:48:02.246342-05:00.jpg">
-  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-21T11:48:02.246342-05:00.jpg"
-     alt="Block Club Chicago at 2022-07-21 11:48:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-21T11:48:02.246342-05:00.jpg">July 21 at 11:48 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-21T07:52:59.412012-05:00.jpg">
-  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-21T07:52:59.412012-05:00.jpg"
-     alt="Block Club Chicago at 2022-07-21 07:53:01-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-21T07:52:59.412012-05:00.jpg">July 21 at 7:53 AM</a></p>
 </div>
 
 </div>

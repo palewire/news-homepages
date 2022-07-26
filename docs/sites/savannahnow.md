@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 12 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-25T20:24:33.123786-04:00.jpg">
+  <img src="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-25T20:24:33.123786-04:00.jpg"
+     alt="Savannah Morning News at 2022-07-25 20:24:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-25T20:24:33.123786-04:00.jpg">July 25 at 8:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-25T11:41:01.943986-04:00.jpg">
+  <img src="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-25T11:41:01.943986-04:00.jpg"
+     alt="Savannah Morning News at 2022-07-25 11:41:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-25T11:41:01.943986-04:00.jpg">July 25 at 11:41 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T23:42:59.524638-04:00.jpg">

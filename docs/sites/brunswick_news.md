@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 11 screenshots with the Internet Archive.
+The archiving routine has saved 12 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-07-25T19:09:18.587444-04:00.jpg">
+  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-07-25T19:09:18.587444-04:00.jpg"
+     alt="The Brunswick News at 2022-07-25 19:09:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-07-25T19:09:18.587444-04:00.jpg">July 25 at 7:09 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-07-25T07:00:48.189974-04:00.jpg">

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 92 screenshots with the Internet Archive.
+The archiving routine has saved 93 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 92 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-25T09:17:15.957211-04:00.jpg">
+  <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-25T09:17:15.957211-04:00.jpg"
+     alt="National Post at 2022-07-25 09:17:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-25T09:17:15.957211-04:00.jpg">July 25 at 9:17 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-24T23:34:00.317071-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-19T23:33:28.804755-04:00.jpg">July 19 at 11:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-19T11:44:12.479475-04:00.jpg">
-  <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-19T11:44:12.479475-04:00.jpg"
-     alt="National Post at 2022-07-19 11:44:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-19T11:44:12.479475-04:00.jpg">July 19 at 11:44 AM</a></p>
 </div>
 
 </div>

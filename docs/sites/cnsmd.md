@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-07-25T19:10:16.183880-04:00.jpg">
+  <img src="https://archive.org/download/cnsmd-2022/cnsmd-2022-07-25T19:10:16.183880-04:00.jpg"
+     alt="Capital News Service at 2022-07-25 19:10:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-07-25T19:10:16.183880-04:00.jpg">July 25 at 7:10 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-07-25T07:03:37.914648-04:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-07-20T08:55:57.267569-04:00.jpg">July 20 at 8:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-07-20T00:33:22.943764-04:00.jpg">
-  <img src="https://archive.org/download/cnsmd-2022/cnsmd-2022-07-20T00:33:22.943764-04:00.jpg"
-     alt="Capital News Service at 2022-07-20 00:33:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-07-20T00:33:22.943764-04:00.jpg">July 20 at 12:33 AM</a></p>
 </div>
 
 </div>

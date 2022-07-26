@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 823 screenshots with the Internet Archive.
+The archiving routine has saved 826 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T17:14:16.098405-04:00.jpg">
+  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T17:14:16.098405-04:00.jpg"
+     alt="New York Times at 2022-07-25 17:14:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T17:14:16.098405-04:00.jpg">July 25 at 5:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T11:55:55.204985-04:00.jpg">
+  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T11:55:55.204985-04:00.jpg"
+     alt="New York Times at 2022-07-25 11:55:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T11:55:55.204985-04:00.jpg">July 25 at 11:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T11:34:25.234492-04:00.jpg">
+  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T11:34:25.234492-04:00.jpg"
+     alt="New York Times at 2022-07-25 11:34:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T11:34:25.234492-04:00.jpg">July 25 at 11:34 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-24T23:37:39.460553-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-07-24T23:37:39.460553-04:00.jpg"
      alt="New York Times at 2022-07-24 23:37:54-04:00 local time"
@@ -190,33 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-22T23:34:14.539769-04:00.jpg">July 22 at 11:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-22T17:09:04.906126-04:00.jpg">
-  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-07-22T17:09:04.906126-04:00.jpg"
-     alt="New York Times at 2022-07-22 17:09:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-22T17:09:04.906126-04:00.jpg">July 22 at 5:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-22T11:05:39.103124-04:00.jpg">
-  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-07-22T11:05:39.103124-04:00.jpg"
-     alt="New York Times at 2022-07-22 11:05:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-22T11:05:39.103124-04:00.jpg">July 22 at 11:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-22T11:00:41.451534-04:00.jpg">
-  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-07-22T11:00:41.451534-04:00.jpg"
-     alt="New York Times at 2022-07-22 11:00:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-22T11:00:41.451534-04:00.jpg">July 22 at 11:00 AM</a></p>
 </div>
 
 </div>

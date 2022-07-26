@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-07-25T11:38:10.851118-07:00.jpg">
+  <img src="https://archive.org/download/bariweiss-2022/bariweiss-2022-07-25T11:38:10.851118-07:00.jpg"
+     alt="Common Sense at 2022-07-25 11:38:12-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-07-25T11:38:10.851118-07:00.jpg">July 25 at 11:38 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-07-25T09:39:36.906061-07:00.jpg">
+  <img src="https://archive.org/download/bariweiss-2022/bariweiss-2022-07-25T09:39:36.906061-07:00.jpg"
+     alt="Common Sense at 2022-07-25 09:39:39-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-07-25T09:39:36.906061-07:00.jpg">July 25 at 9:39 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-07-25T03:59:02.791652-07:00.jpg">
@@ -116,24 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-07-22T05:57:22.305066-07:00.jpg">July 22 at 5:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-07-21T18:05:12.899272-07:00.jpg">
-  <img src="https://archive.org/download/bariweiss-2022/bariweiss-2022-07-21T18:05:12.899272-07:00.jpg"
-     alt="Common Sense at 2022-07-21 18:05:14-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-07-21T18:05:12.899272-07:00.jpg">July 21 at 6:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-07-21T10:01:01.807236-07:00.jpg">
-  <img src="https://archive.org/download/bariweiss-2022/bariweiss-2022-07-21T10:01:01.807236-07:00.jpg"
-     alt="Common Sense at 2022-07-21 10:01:04-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-07-21T10:01:01.807236-07:00.jpg">July 21 at 10:01 AM</a></p>
 </div>
 
 </div>

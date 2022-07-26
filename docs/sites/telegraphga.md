@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/telegraphga-2022/telegraphga-2022-07-25T11:44:54.646555-04:00.jpg">
+  <img src="https://archive.org/download/telegraphga-2022/telegraphga-2022-07-25T11:44:54.646555-04:00.jpg"
+     alt="The Telegraph at 2022-07-25 11:44:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegraphga-2022/telegraphga-2022-07-25T11:44:54.646555-04:00.jpg">July 25 at 11:44 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraphga-2022/telegraphga-2022-07-25T00:34:59.265830-04:00.jpg">

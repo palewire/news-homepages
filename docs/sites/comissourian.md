@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-25T18:11:16.750119-05:00.jpg">
+  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-07-25T18:11:16.750119-05:00.jpg"
+     alt="Columbia Missourian at 2022-07-25 18:11:18-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-25T18:11:16.750119-05:00.jpg">July 25 at 6:11 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-25T06:03:42.503649-05:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-20T07:56:49.646264-05:00.jpg">July 20 at 7:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-19T20:03:07.818867-05:00.jpg">
-  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-07-19T20:03:07.818867-05:00.jpg"
-     alt="Columbia Missourian at 2022-07-19 20:03:09-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-19T20:03:07.818867-05:00.jpg">July 19 at 8:03 PM</a></p>
 </div>
 
 </div>

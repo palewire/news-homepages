@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 11 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-26T02:20:02.243908+02:00.jpg">
+  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-26T02:20:02.243908+02:00.jpg"
+     alt="Nettavisen at 2022-07-26 02:20:05+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-26T02:20:02.243908+02:00.jpg">July 26 at 2:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-25T15:16:08.341557+02:00.jpg">
+  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-25T15:16:08.341557+02:00.jpg"
+     alt="Nettavisen at 2022-07-25 15:16:10+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-25T15:16:08.341557+02:00.jpg">July 25 at 3:16 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-25T05:35:46.233942+02:00.jpg">
@@ -116,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-20T18:10:20.116708+02:00.jpg">July 20 at 6:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-20T13:37:00.123722+02:00.jpg">
-  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-20T13:37:00.123722+02:00.jpg"
-     alt="Nettavisen at 2022-07-20 13:37:05+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-20T13:37:00.123722+02:00.jpg">July 20 at 1:37 PM</a></p>
 </div>
 
 </div>

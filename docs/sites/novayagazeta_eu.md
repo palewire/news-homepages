@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-07-25T18:33:42.841120+03:00.jpg">
+  <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-07-25T18:33:42.841120+03:00.jpg"
+     alt="Novaya Gazeta at 2022-07-25 18:33:44+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-07-25T18:33:42.841120+03:00.jpg">July 25 at 6:33 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-07-25T08:22:59.126834+03:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-07-22T06:38:33.263301+03:00.jpg">July 22 at 6:38 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-07-21T18:33:38.433064+03:00.jpg">
-  <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-07-21T18:33:38.433064+03:00.jpg"
-     alt="Novaya Gazeta at 2022-07-21 18:33:40+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-07-21T18:33:38.433064+03:00.jpg">July 21 at 6:33 PM</a></p>
 </div>
 
 </div>

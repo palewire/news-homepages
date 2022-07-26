@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-07-25T11:49:16.346787-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-07-25T11:49:16.346787-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-07-25 11:49:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-07-25T11:49:16.346787-04:00.jpg">July 25 at 11:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thevdt-2022/thevdt-2022-07-25T00:38:11.862340-04:00.jpg">

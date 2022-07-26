@@ -20,13 +20,40 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 21 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T19:13:53.285114-04:00.jpg">
+  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T19:13:53.285114-04:00.jpg"
+     alt="Fairness and Accuracy in Reporting at 2022-07-25 19:13:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T19:13:53.285114-04:00.jpg">July 25 at 7:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T14:39:48.251735-04:00.jpg">
+  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T14:39:48.251735-04:00.jpg"
+     alt="Fairness and Accuracy in Reporting at 2022-07-25 14:39:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T14:39:48.251735-04:00.jpg">July 25 at 2:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T12:36:49.666325-04:00.jpg">
+  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T12:36:49.666325-04:00.jpg"
+     alt="Fairness and Accuracy in Reporting at 2022-07-25 12:36:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T12:36:49.666325-04:00.jpg">July 25 at 12:36 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T08:01:48.693729-04:00.jpg">
@@ -107,33 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-22T12:11:59.607916-04:00.jpg">July 22 at 12:12 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-22T10:00:02.649439-04:00.jpg">
-  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-22T10:00:02.649439-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-07-22 10:00:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-22T10:00:02.649439-04:00.jpg">July 22 at 10:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-21T22:19:17.892918-04:00.jpg">
-  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-21T22:19:17.892918-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-07-21 22:19:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-21T22:19:17.892918-04:00.jpg">July 21 at 10:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-21T12:49:45.291790-04:00.jpg">
-  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-21T12:49:45.291790-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-07-21 12:49:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-21T12:49:45.291790-04:00.jpg">July 21 at 12:49 PM</a></p>
 </div>
 
 </div>

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 52 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-07-25T20:20:43.826525-04:00.jpg">
+  <img src="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-07-25T20:20:43.826525-04:00.jpg"
+     alt="NBC10 Philadelphia at 2022-07-25 20:20:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-07-25T20:20:43.826525-04:00.jpg">July 25 at 8:20 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-07-25T09:16:37.110070-04:00.jpg">
+  <img src="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-07-25T09:16:37.110070-04:00.jpg"
+     alt="NBC10 Philadelphia at 2022-07-25 09:16:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-07-25T09:16:37.110070-04:00.jpg">July 25 at 9:16 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-07-24T23:34:41.176505-04:00.jpg">
   <img src="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-07-24T23:34:41.176505-04:00.jpg"
      alt="NBC10 Philadelphia at 2022-07-24 23:34:43-04:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-07-20T12:10:00.216404-04:00.jpg">July 20 at 12:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-07-19T23:33:41.638401-04:00.jpg">
-  <img src="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-07-19T23:33:41.638401-04:00.jpg"
-     alt="NBC10 Philadelphia at 2022-07-19 23:33:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-07-19T23:33:41.638401-04:00.jpg">July 19 at 11:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-07-19T11:44:37.004490-04:00.jpg">
-  <img src="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-07-19T11:44:37.004490-04:00.jpg"
-     alt="NBC10 Philadelphia at 2022-07-19 11:44:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-07-19T11:44:37.004490-04:00.jpg">July 19 at 11:44 AM</a></p>
 </div>
 
 </div>

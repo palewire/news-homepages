@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 20 screenshots with the Internet Archive.
+The archiving routine has saved 22 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-25T14:39:39.946849-04:00.jpg">
+  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-07-25T14:39:39.946849-04:00.jpg"
+     alt="Above the Law at 2022-07-25 14:39:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-25T14:39:39.946849-04:00.jpg">July 25 at 2:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-25T12:37:02.874132-04:00.jpg">
+  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-07-25T12:37:02.874132-04:00.jpg"
+     alt="Above the Law at 2022-07-25 12:37:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-25T12:37:02.874132-04:00.jpg">July 25 at 12:37 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-25T06:57:31.163710-04:00.jpg">
@@ -116,24 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-22T08:55:46.348950-04:00.jpg">July 22 at 8:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-21T21:04:10.330364-04:00.jpg">
-  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-07-21T21:04:10.330364-04:00.jpg"
-     alt="Above the Law at 2022-07-21 21:04:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-21T21:04:10.330364-04:00.jpg">July 21 at 9:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-21T12:49:10.432883-04:00.jpg">
-  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-07-21T12:49:10.432883-04:00.jpg"
-     alt="Above the Law at 2022-07-21 12:49:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-21T12:49:10.432883-04:00.jpg">July 21 at 12:49 PM</a></p>
 </div>
 
 </div>

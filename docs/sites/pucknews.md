@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 106 screenshots with the Internet Archive.
+The archiving routine has saved 108 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/pucknews-2022/pucknews-2022-07-25T20:23:24.789292-04:00.jpg">
+  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-07-25T20:23:24.789292-04:00.jpg"
+     alt="Puck at 2022-07-25 20:23:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-07-25T20:23:24.789292-04:00.jpg">July 25 at 8:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pucknews-2022/pucknews-2022-07-25T11:37:52.468628-04:00.jpg">
+  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-07-25T11:37:52.468628-04:00.jpg"
+     alt="Puck at 2022-07-25 11:37:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-07-25T11:37:52.468628-04:00.jpg">July 25 at 11:37 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/pucknews-2022/pucknews-2022-07-24T23:40:34.265305-04:00.jpg">
   <img src="https://archive.org/download/pucknews-2022/pucknews-2022-07-24T23:40:34.265305-04:00.jpg"
      alt="Puck at 2022-07-24 23:40:35-04:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-07-20T12:14:39.154769-04:00.jpg">July 20 at 12:14 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pucknews-2022/pucknews-2022-07-19T23:37:24.437623-04:00.jpg">
-  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-07-19T23:37:24.437623-04:00.jpg"
-     alt="Puck at 2022-07-19 23:37:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-07-19T23:37:24.437623-04:00.jpg">July 19 at 11:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pucknews-2022/pucknews-2022-07-19T11:48:21.391035-04:00.jpg">
-  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-07-19T11:48:21.391035-04:00.jpg"
-     alt="Puck at 2022-07-19 11:48:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-07-19T11:48:21.391035-04:00.jpg">July 19 at 11:48 AM</a></p>
 </div>
 
 </div>

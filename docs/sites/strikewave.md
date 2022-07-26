@@ -20,13 +20,40 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 7 screenshots with the Internet Archive.
+The archiving routine has saved 10 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/strikewave-2022/strikewave-2022-07-25T14:40:49.444506-04:00.jpg">
+  <img src="https://archive.org/download/strikewave-2022/strikewave-2022-07-25T14:40:49.444506-04:00.jpg"
+     alt="Strikewave at 2022-07-25 14:40:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/strikewave-2022/strikewave-2022-07-25T14:40:49.444506-04:00.jpg">July 25 at 2:40 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/strikewave-2022/strikewave-2022-07-25T12:38:08.415807-04:00.jpg">
+  <img src="https://archive.org/download/strikewave-2022/strikewave-2022-07-25T12:38:08.415807-04:00.jpg"
+     alt="Strikewave at 2022-07-25 12:38:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/strikewave-2022/strikewave-2022-07-25T12:38:08.415807-04:00.jpg">July 25 at 12:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/strikewave-2022/strikewave-2022-07-25T11:43:05.686651-04:00.jpg">
+  <img src="https://archive.org/download/strikewave-2022/strikewave-2022-07-25T11:43:05.686651-04:00.jpg"
+     alt="Strikewave at 2022-07-25 11:43:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/strikewave-2022/strikewave-2022-07-25T11:43:05.686651-04:00.jpg">July 25 at 11:43 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/strikewave-2022/strikewave-2022-07-24T23:44:43.053685-04:00.jpg">

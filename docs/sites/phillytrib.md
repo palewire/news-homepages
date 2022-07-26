@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 52 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T20:22:30.760251-04:00.jpg">
+  <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T20:22:30.760251-04:00.jpg"
+     alt="Philadelphia Tribune at 2022-07-25 20:22:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T20:22:30.760251-04:00.jpg">July 25 at 8:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T11:37:22.961514-04:00.jpg">
+  <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T11:37:22.961514-04:00.jpg"
+     alt="Philadelphia Tribune at 2022-07-25 11:37:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T11:37:22.961514-04:00.jpg">July 25 at 11:37 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T23:39:37.947170-04:00.jpg">
   <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T23:39:37.947170-04:00.jpg"
      alt="Philadelphia Tribune at 2022-07-24 23:39:41-04:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-20T12:13:02.927426-04:00.jpg">July 20 at 12:13 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-19T23:36:17.607308-04:00.jpg">
-  <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-19T23:36:17.607308-04:00.jpg"
-     alt="Philadelphia Tribune at 2022-07-19 23:36:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-19T23:36:17.607308-04:00.jpg">July 19 at 11:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-19T11:46:55.241574-04:00.jpg">
-  <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-19T11:46:55.241574-04:00.jpg"
-     alt="Philadelphia Tribune at 2022-07-19 11:46:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-19T11:46:55.241574-04:00.jpg">July 19 at 11:46 AM</a></p>
 </div>
 
 </div>

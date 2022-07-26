@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-25T17:22:29.033287-07:00.jpg">
+  <img src="https://archive.org/download/oregonian-2022/oregonian-2022-07-25T17:22:29.033287-07:00.jpg"
+     alt="Oregonian at 2022-07-25 17:22:30-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-25T17:22:29.033287-07:00.jpg">July 25 at 5:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-25T08:36:16.539151-07:00.jpg">
+  <img src="https://archive.org/download/oregonian-2022/oregonian-2022-07-25T08:36:16.539151-07:00.jpg"
+     alt="Oregonian at 2022-07-25 08:36:18-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-25T08:36:16.539151-07:00.jpg">July 25 at 8:36 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-24T20:38:51.208226-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-07-24T20:38:51.208226-07:00.jpg"
      alt="Oregonian at 2022-07-24 20:38:52-07:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-20T09:12:21.809971-07:00.jpg">July 20 at 9:12 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-19T20:35:58.302656-07:00.jpg">
-  <img src="https://archive.org/download/oregonian-2022/oregonian-2022-07-19T20:35:58.302656-07:00.jpg"
-     alt="Oregonian at 2022-07-19 20:36:00-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-19T20:35:58.302656-07:00.jpg">July 19 at 8:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-19T08:45:51.970019-07:00.jpg">
-  <img src="https://archive.org/download/oregonian-2022/oregonian-2022-07-19T08:45:51.970019-07:00.jpg"
-     alt="Oregonian at 2022-07-19 08:45:53-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-07-19T08:45:51.970019-07:00.jpg">July 19 at 8:45 AM</a></p>
 </div>
 
 </div>

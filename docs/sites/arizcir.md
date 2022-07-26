@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 99 screenshots with the Internet Archive.
+The archiving routine has saved 100 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 99 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-25T16:07:02.296616-07:00.jpg">
+  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-07-25T16:07:02.296616-07:00.jpg"
+     alt="Arizona Center for Investigative Reporting at 2022-07-25 16:07:04-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-25T16:07:02.296616-07:00.jpg">July 25 at 4:07 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-25T03:57:41.884609-07:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-20T05:51:14.810674-07:00.jpg">July 20 at 5:51 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-19T17:58:24.285549-07:00.jpg">
-  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-07-19T17:58:24.285549-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-07-19 17:58:25-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-19T17:58:24.285549-07:00.jpg">July 19 at 5:58 PM</a></p>
 </div>
 
 </div>

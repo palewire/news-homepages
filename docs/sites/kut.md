@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kut-2022/kut-2022-07-25T19:16:58.163693-05:00.jpg">
+  <img src="https://archive.org/download/kut-2022/kut-2022-07-25T19:16:58.163693-05:00.jpg"
+     alt="KUT at 2022-07-25 19:17:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-07-25T19:16:58.163693-05:00.jpg">July 25 at 7:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kut-2022/kut-2022-07-25T08:10:57.476873-05:00.jpg">
+  <img src="https://archive.org/download/kut-2022/kut-2022-07-25T08:10:57.476873-05:00.jpg"
+     alt="KUT at 2022-07-25 08:10:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-07-25T08:10:57.476873-05:00.jpg">July 25 at 8:10 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kut-2022/kut-2022-07-24T22:26:37.678148-05:00.jpg">
@@ -116,24 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/kut-2022/kut-2022-07-20T09:29:05.143172-05:00.jpg">July 20 at 9:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kut-2022/kut-2022-07-19T21:21:38.348138-05:00.jpg">
-  <img src="https://archive.org/download/kut-2022/kut-2022-07-19T21:21:38.348138-05:00.jpg"
-     alt="KUT at 2022-07-19 21:21:39-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-07-19T21:21:38.348138-05:00.jpg">July 19 at 9:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kut-2022/kut-2022-07-19T09:27:33.593651-05:00.jpg">
-  <img src="https://archive.org/download/kut-2022/kut-2022-07-19T09:27:33.593651-05:00.jpg"
-     alt="KUT at 2022-07-19 09:27:35-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-07-19T09:27:33.593651-05:00.jpg">July 19 at 9:27 AM</a></p>
 </div>
 
 </div>

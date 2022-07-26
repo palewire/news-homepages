@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 57 screenshots with the Internet Archive.
+The archiving routine has saved 58 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 57 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-25T08:51:12.584320-07:00.jpg">
+  <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-25T08:51:12.584320-07:00.jpg"
+     alt="VentureBeat at 2022-07-25 08:51:16-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-25T08:51:12.584320-07:00.jpg">July 25 at 8:51 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-24T23:47:42.560293-07:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-20T09:49:07.198836-07:00.jpg">July 20 at 9:49 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-19T21:23:56.429789-07:00.jpg">
-  <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-19T21:23:56.429789-07:00.jpg"
-     alt="VentureBeat at 2022-07-19 21:23:58-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-19T21:23:56.429789-07:00.jpg">July 19 at 9:23 PM</a></p>
 </div>
 
 </div>

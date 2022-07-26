@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 74 screenshots with the Internet Archive.
+The archiving routine has saved 76 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-25T20:24:45.788516-04:00.jpg">
+  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-25T20:24:45.788516-04:00.jpg"
+     alt="SCOTUS Blog at 2022-07-25 20:24:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-25T20:24:45.788516-04:00.jpg">July 25 at 8:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-25T11:42:13.765272-04:00.jpg">
+  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-25T11:42:13.765272-04:00.jpg"
+     alt="SCOTUS Blog at 2022-07-25 11:42:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-25T11:42:13.765272-04:00.jpg">July 25 at 11:42 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T23:42:56.209448-04:00.jpg">
   <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T23:42:56.209448-04:00.jpg"
      alt="SCOTUS Blog at 2022-07-24 23:42:57-04:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-20T00:18:11.135732-04:00.jpg">July 20 at 12:18 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-19T12:56:51.130701-04:00.jpg">
-  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-19T12:56:51.130701-04:00.jpg"
-     alt="SCOTUS Blog at 2022-07-19 12:56:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-19T12:56:51.130701-04:00.jpg">July 19 at 12:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-19T00:22:32.277215-04:00.jpg">
-  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-19T00:22:32.277215-04:00.jpg"
-     alt="SCOTUS Blog at 2022-07-19 00:22:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-19T00:22:32.277215-04:00.jpg">July 19 at 12:22 AM</a></p>
 </div>
 
 </div>

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 317 screenshots with the Internet Archive.
+The archiving routine has saved 320 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wsj-2022/wsj-2022-07-25T17:14:20.592396-04:00.jpg">
+  <img src="https://archive.org/download/wsj-2022/wsj-2022-07-25T17:14:20.592396-04:00.jpg"
+     alt="Wall Street Journal at 2022-07-25 17:14:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-25T17:14:20.592396-04:00.jpg">July 25 at 5:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wsj-2022/wsj-2022-07-25T11:56:14.198294-04:00.jpg">
+  <img src="https://archive.org/download/wsj-2022/wsj-2022-07-25T11:56:14.198294-04:00.jpg"
+     alt="Wall Street Journal at 2022-07-25 11:56:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-25T11:56:14.198294-04:00.jpg">July 25 at 11:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wsj-2022/wsj-2022-07-25T11:53:54.218758-04:00.jpg">
+  <img src="https://archive.org/download/wsj-2022/wsj-2022-07-25T11:53:54.218758-04:00.jpg"
+     alt="Wall Street Journal at 2022-07-25 11:54:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-25T11:53:54.218758-04:00.jpg">July 25 at 11:54 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wsj-2022/wsj-2022-07-25T00:42:14.640339-04:00.jpg">
   <img src="https://archive.org/download/wsj-2022/wsj-2022-07-25T00:42:14.640339-04:00.jpg"
      alt="Wall Street Journal at 2022-07-25 00:42:16-04:00 local time"
@@ -190,33 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-23T12:10:27.132274-04:00.jpg">July 23 at 12:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wsj-2022/wsj-2022-07-23T10:59:26.716031-04:00.jpg">
-  <img src="https://archive.org/download/wsj-2022/wsj-2022-07-23T10:59:26.716031-04:00.jpg"
-     alt="Wall Street Journal at 2022-07-23 10:59:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-23T10:59:26.716031-04:00.jpg">July 23 at 10:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wsj-2022/wsj-2022-07-23T00:29:31.361636-04:00.jpg">
-  <img src="https://archive.org/download/wsj-2022/wsj-2022-07-23T00:29:31.361636-04:00.jpg"
-     alt="Wall Street Journal at 2022-07-23 00:29:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-23T00:29:31.361636-04:00.jpg">July 23 at 12:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wsj-2022/wsj-2022-07-22T17:09:08.265385-04:00.jpg">
-  <img src="https://archive.org/download/wsj-2022/wsj-2022-07-22T17:09:08.265385-04:00.jpg"
-     alt="Wall Street Journal at 2022-07-22 17:09:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-22T17:09:08.265385-04:00.jpg">July 22 at 5:09 PM</a></p>
 </div>
 
 </div>

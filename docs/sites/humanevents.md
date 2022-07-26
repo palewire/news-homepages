@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 207 screenshots with the Internet Archive.
+The archiving routine has saved 210 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T20:15:24.905594-04:00.jpg">
+  <img src="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T20:15:24.905594-04:00.jpg"
+     alt="Human Events at 2022-07-25 20:15:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T20:15:24.905594-04:00.jpg">July 25 at 8:15 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T14:38:27.469077-04:00.jpg">
+  <img src="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T14:38:27.469077-04:00.jpg"
+     alt="Human Events at 2022-07-25 14:38:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T14:38:27.469077-04:00.jpg">July 25 at 2:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T12:41:35.504771-04:00.jpg">
+  <img src="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T12:41:35.504771-04:00.jpg"
+     alt="Human Events at 2022-07-25 12:41:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T12:41:35.504771-04:00.jpg">July 25 at 12:41 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T08:06:24.708812-04:00.jpg">
   <img src="https://archive.org/download/humanevents-2022/humanevents-2022-07-25T08:06:24.708812-04:00.jpg"
      alt="Human Events at 2022-07-25 08:06:29-04:00 local time"
@@ -190,33 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-22T12:25:13.825607-04:00.jpg">July 22 at 12:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-22T10:03:32.980290-04:00.jpg">
-  <img src="https://archive.org/download/humanevents-2022/humanevents-2022-07-22T10:03:32.980290-04:00.jpg"
-     alt="Human Events at 2022-07-22 10:03:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-22T10:03:32.980290-04:00.jpg">July 22 at 10:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-21T22:23:00.948981-04:00.jpg">
-  <img src="https://archive.org/download/humanevents-2022/humanevents-2022-07-21T22:23:00.948981-04:00.jpg"
-     alt="Human Events at 2022-07-21 22:23:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-21T22:23:00.948981-04:00.jpg">July 21 at 10:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-21T13:01:54.052751-04:00.jpg">
-  <img src="https://archive.org/download/humanevents-2022/humanevents-2022-07-21T13:01:54.052751-04:00.jpg"
-     alt="Human Events at 2022-07-21 13:01:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-07-21T13:01:54.052751-04:00.jpg">July 21 at 1:01 PM</a></p>
 </div>
 
 </div>

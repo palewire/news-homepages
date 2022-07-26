@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 124 screenshots with the Internet Archive.
+The archiving routine has saved 125 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 124 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rianru-2022/rianru-2022-07-25T18:40:00.002054+03:00.jpg">
+  <img src="https://archive.org/download/rianru-2022/rianru-2022-07-25T18:40:00.002054+03:00.jpg"
+     alt="RIA Novosti at 2022-07-25 18:40:05+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rianru-2022/rianru-2022-07-25T18:40:00.002054+03:00.jpg">July 25 at 6:40 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rianru-2022/rianru-2022-07-25T08:23:03.042219+03:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/rianru-2022/rianru-2022-07-22T06:43:00.359347+03:00.jpg">July 22 at 6:43 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rianru-2022/rianru-2022-07-21T18:39:22.428113+03:00.jpg">
-  <img src="https://archive.org/download/rianru-2022/rianru-2022-07-21T18:39:22.428113+03:00.jpg"
-     alt="RIA Novosti at 2022-07-21 18:39:24+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rianru-2022/rianru-2022-07-21T18:39:22.428113+03:00.jpg">July 21 at 6:39 PM</a></p>
 </div>
 
 </div>

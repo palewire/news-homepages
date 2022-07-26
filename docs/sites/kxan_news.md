@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-07-25T19:17:03.918804-05:00.jpg">
+  <img src="https://archive.org/download/kxan_news-2022/kxan_news-2022-07-25T19:17:03.918804-05:00.jpg"
+     alt="KXAN at 2022-07-25 19:17:07-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-07-25T19:17:03.918804-05:00.jpg">July 25 at 7:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-07-25T08:11:01.828581-05:00.jpg">
+  <img src="https://archive.org/download/kxan_news-2022/kxan_news-2022-07-25T08:11:01.828581-05:00.jpg"
+     alt="KXAN at 2022-07-25 08:11:03-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-07-25T08:11:01.828581-05:00.jpg">July 25 at 8:11 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-07-24T22:27:45.184050-05:00.jpg">
@@ -116,24 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-07-20T09:29:04.935151-05:00.jpg">July 20 at 9:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-07-19T21:21:36.201161-05:00.jpg">
-  <img src="https://archive.org/download/kxan_news-2022/kxan_news-2022-07-19T21:21:36.201161-05:00.jpg"
-     alt="KXAN at 2022-07-19 21:21:37-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-07-19T21:21:36.201161-05:00.jpg">July 19 at 9:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-07-19T09:20:29.579957-05:00.jpg">
-  <img src="https://archive.org/download/kxan_news-2022/kxan_news-2022-07-19T09:20:29.579957-05:00.jpg"
-     alt="KXAN at 2022-07-19 09:20:30-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-07-19T09:20:29.579957-05:00.jpg">July 19 at 9:20 AM</a></p>
 </div>
 
 </div>

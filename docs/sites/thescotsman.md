@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 38 screenshots with the Internet Archive.
+The archiving routine has saved 39 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 38 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T16:48:10.301022+01:00.jpg">
+  <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T16:48:10.301022+01:00.jpg"
+     alt="Scotsman at 2022-07-25 16:48:12+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T16:48:10.301022+01:00.jpg">July 25 at 4:48 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T05:37:15.371317+01:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-18T19:07:36.418335+01:00.jpg">July 18 at 7:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-18T11:14:43.696252+01:00.jpg">
-  <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-18T11:14:43.696252+01:00.jpg"
-     alt="Scotsman at 2022-07-18 11:14:45+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-18T11:14:43.696252+01:00.jpg">July 18 at 11:14 AM</a></p>
 </div>
 
 </div>

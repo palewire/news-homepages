@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 13 screenshots with the Internet Archive.
+The archiving routine has saved 15 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-26T01:20:23.418473+01:00.jpg">
+  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-07-26T01:20:23.418473+01:00.jpg"
+     alt="Belfast News Letter at 2022-07-26 01:20:24+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-26T01:20:23.418473+01:00.jpg">July 26 at 1:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-25T14:16:36.908786+01:00.jpg">
+  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-07-25T14:16:36.908786+01:00.jpg"
+     alt="Belfast News Letter at 2022-07-25 14:16:38+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-25T14:16:36.908786+01:00.jpg">July 25 at 2:16 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-25T04:35:01.110876+01:00.jpg">
@@ -116,24 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-19T16:43:34.732001+01:00.jpg">July 19 at 4:43 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-19T04:37:20.777566+01:00.jpg">
-  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-07-19T04:37:20.777566+01:00.jpg"
-     alt="Belfast News Letter at 2022-07-19 04:37:22+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-19T04:37:20.777566+01:00.jpg">July 19 at 4:37 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-18T18:56:19.946932+01:00.jpg">
-  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-07-18T18:56:19.946932+01:00.jpg"
-     alt="Belfast News Letter at 2022-07-18 18:56:21+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-18T18:56:19.946932+01:00.jpg">July 18 at 6:56 PM</a></p>
 </div>
 
 </div>

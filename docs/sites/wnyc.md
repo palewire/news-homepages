@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 71 screenshots with the Internet Archive.
+The archiving routine has saved 72 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 71 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-25T11:53:14.942955-04:00.jpg">
+  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-07-25T11:53:14.942955-04:00.jpg"
+     alt="WNYC at 2022-07-25 11:53:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-25T11:53:14.942955-04:00.jpg">July 25 at 11:53 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-25T00:42:00.313907-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-20T00:24:52.494993-04:00.jpg">July 20 at 12:24 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-19T13:05:33.378722-04:00.jpg">
-  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-07-19T13:05:33.378722-04:00.jpg"
-     alt="WNYC at 2022-07-19 13:05:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-19T13:05:33.378722-04:00.jpg">July 19 at 1:05 PM</a></p>
 </div>
 
 </div>

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 76 screenshots with the Internet Archive.
+The archiving routine has saved 78 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/komunews-2022/komunews-2022-07-25T19:16:43.297795-05:00.jpg">
+  <img src="https://archive.org/download/komunews-2022/komunews-2022-07-25T19:16:43.297795-05:00.jpg"
+     alt="KOMU at 2022-07-25 19:16:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-25T19:16:43.297795-05:00.jpg">July 25 at 7:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/komunews-2022/komunews-2022-07-25T08:11:01.257552-05:00.jpg">
+  <img src="https://archive.org/download/komunews-2022/komunews-2022-07-25T08:11:01.257552-05:00.jpg"
+     alt="KOMU at 2022-07-25 08:11:02-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-25T08:11:01.257552-05:00.jpg">July 25 at 8:11 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/komunews-2022/komunews-2022-07-24T22:25:47.693771-05:00.jpg">
   <img src="https://archive.org/download/komunews-2022/komunews-2022-07-24T22:25:47.693771-05:00.jpg"
      alt="KOMU at 2022-07-24 22:25:49-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-20T09:28:35.241246-05:00.jpg">July 20 at 9:28 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/komunews-2022/komunews-2022-07-19T21:20:53.824548-05:00.jpg">
-  <img src="https://archive.org/download/komunews-2022/komunews-2022-07-19T21:20:53.824548-05:00.jpg"
-     alt="KOMU at 2022-07-19 21:20:55-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-19T21:20:53.824548-05:00.jpg">July 19 at 9:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/komunews-2022/komunews-2022-07-19T09:19:10.165637-05:00.jpg">
-  <img src="https://archive.org/download/komunews-2022/komunews-2022-07-19T09:19:10.165637-05:00.jpg"
-     alt="KOMU at 2022-07-19 09:19:11-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-19T09:19:10.165637-05:00.jpg">July 19 at 9:19 AM</a></p>
 </div>
 
 </div>

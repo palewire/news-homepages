@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 302 screenshots with the Internet Archive.
+The archiving routine has saved 303 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 302 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/independent-2022/independent-2022-07-26T01:15:48.901884+01:00.jpg">
+  <img src="https://archive.org/download/independent-2022/independent-2022-07-26T01:15:48.901884+01:00.jpg"
+     alt="The Independent at 2022-07-26 01:15:50+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/independent-2022/independent-2022-07-26T01:15:48.901884+01:00.jpg">July 26 at 1:15 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/independent-2022/independent-2022-07-25T13:06:35.569359+01:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/independent-2022/independent-2022-07-22T10:07:13.824815+01:00.jpg">July 22 at 10:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/independent-2022/independent-2022-07-22T03:23:14.500783+01:00.jpg">
-  <img src="https://archive.org/download/independent-2022/independent-2022-07-22T03:23:14.500783+01:00.jpg"
-     alt="The Independent at 2022-07-22 03:23:22+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/independent-2022/independent-2022-07-22T03:23:14.500783+01:00.jpg">July 22 at 3:23 AM</a></p>
 </div>
 
 </div>

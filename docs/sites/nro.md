@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 204 screenshots with the Internet Archive.
+The archiving routine has saved 208 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nro-2022/nro-2022-07-25T20:21:04.303862-04:00.jpg">
+  <img src="https://archive.org/download/nro-2022/nro-2022-07-25T20:21:04.303862-04:00.jpg"
+     alt="National Review at 2022-07-25 20:21:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-07-25T20:21:04.303862-04:00.jpg">July 25 at 8:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nro-2022/nro-2022-07-25T14:38:58.972433-04:00.jpg">
+  <img src="https://archive.org/download/nro-2022/nro-2022-07-25T14:38:58.972433-04:00.jpg"
+     alt="National Review at 2022-07-25 14:39:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-07-25T14:38:58.972433-04:00.jpg">July 25 at 2:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nro-2022/nro-2022-07-25T12:41:17.488278-04:00.jpg">
+  <img src="https://archive.org/download/nro-2022/nro-2022-07-25T12:41:17.488278-04:00.jpg"
+     alt="National Review at 2022-07-25 12:41:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-07-25T12:41:17.488278-04:00.jpg">July 25 at 12:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nro-2022/nro-2022-07-25T11:33:29.918302-04:00.jpg">
+  <img src="https://archive.org/download/nro-2022/nro-2022-07-25T11:33:29.918302-04:00.jpg"
+     alt="National Review at 2022-07-25 11:33:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-07-25T11:33:29.918302-04:00.jpg">July 25 at 11:33 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nro-2022/nro-2022-07-24T23:37:16.880255-04:00.jpg">
   <img src="https://archive.org/download/nro-2022/nro-2022-07-24T23:37:16.880255-04:00.jpg"
      alt="National Review at 2022-07-24 23:37:18-04:00 local time"
@@ -181,42 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/nro-2022/nro-2022-07-22T12:25:29.065294-04:00.jpg">July 22 at 12:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nro-2022/nro-2022-07-22T11:00:00.717067-04:00.jpg">
-  <img src="https://archive.org/download/nro-2022/nro-2022-07-22T11:00:00.717067-04:00.jpg"
-     alt="National Review at 2022-07-22 11:00:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-07-22T11:00:00.717067-04:00.jpg">July 22 at 11:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nro-2022/nro-2022-07-21T23:38:35.710424-04:00.jpg">
-  <img src="https://archive.org/download/nro-2022/nro-2022-07-21T23:38:35.710424-04:00.jpg"
-     alt="National Review at 2022-07-21 23:38:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-07-21T23:38:35.710424-04:00.jpg">July 21 at 11:38 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nro-2022/nro-2022-07-21T13:02:14.875036-04:00.jpg">
-  <img src="https://archive.org/download/nro-2022/nro-2022-07-21T13:02:14.875036-04:00.jpg"
-     alt="National Review at 2022-07-21 13:02:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-07-21T13:02:14.875036-04:00.jpg">July 21 at 1:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nro-2022/nro-2022-07-21T11:34:55.840595-04:00.jpg">
-  <img src="https://archive.org/download/nro-2022/nro-2022-07-21T11:34:55.840595-04:00.jpg"
-     alt="National Review at 2022-07-21 11:35:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-07-21T11:34:55.840595-04:00.jpg">July 21 at 11:35 AM</a></p>
 </div>
 
 </div>

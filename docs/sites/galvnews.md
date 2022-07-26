@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/galvnews-2022/galvnews-2022-07-25T18:15:17.322773-05:00.jpg">
+  <img src="https://archive.org/download/galvnews-2022/galvnews-2022-07-25T18:15:17.322773-05:00.jpg"
+     alt="Galveston County Daily News at 2022-07-25 18:15:18-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-07-25T18:15:17.322773-05:00.jpg">July 25 at 6:15 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/galvnews-2022/galvnews-2022-07-25T07:02:59.496192-05:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-07-20T09:23:52.593313-05:00.jpg">July 20 at 9:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/galvnews-2022/galvnews-2022-07-19T21:17:39.059189-05:00.jpg">
-  <img src="https://archive.org/download/galvnews-2022/galvnews-2022-07-19T21:17:39.059189-05:00.jpg"
-     alt="Galveston County Daily News at 2022-07-19 21:17:40-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-07-19T21:17:39.059189-05:00.jpg">July 19 at 9:17 PM</a></p>
 </div>
 
 </div>

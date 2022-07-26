@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 211 screenshots with the Internet Archive.
+The archiving routine has saved 214 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/drudge-2022/drudge-2022-07-25T19:12:59.679099-04:00.jpg">
+  <img src="https://archive.org/download/drudge-2022/drudge-2022-07-25T19:12:59.679099-04:00.jpg"
+     alt="Drudge Report at 2022-07-25 19:13:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-25T19:12:59.679099-04:00.jpg">July 25 at 7:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/drudge-2022/drudge-2022-07-25T14:38:34.512022-04:00.jpg">
+  <img src="https://archive.org/download/drudge-2022/drudge-2022-07-25T14:38:34.512022-04:00.jpg"
+     alt="Drudge Report at 2022-07-25 14:38:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-25T14:38:34.512022-04:00.jpg">July 25 at 2:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/drudge-2022/drudge-2022-07-25T12:40:46.235953-04:00.jpg">
+  <img src="https://archive.org/download/drudge-2022/drudge-2022-07-25T12:40:46.235953-04:00.jpg"
+     alt="Drudge Report at 2022-07-25 12:40:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-25T12:40:46.235953-04:00.jpg">July 25 at 12:40 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/drudge-2022/drudge-2022-07-25T08:00:29.845634-04:00.jpg">
   <img src="https://archive.org/download/drudge-2022/drudge-2022-07-25T08:00:29.845634-04:00.jpg"
      alt="Drudge Report at 2022-07-25 08:00:34-04:00 local time"
@@ -190,33 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-22T12:25:06.054935-04:00.jpg">July 22 at 12:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/drudge-2022/drudge-2022-07-22T09:59:00.640184-04:00.jpg">
-  <img src="https://archive.org/download/drudge-2022/drudge-2022-07-22T09:59:00.640184-04:00.jpg"
-     alt="Drudge Report at 2022-07-22 09:59:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-22T09:59:00.640184-04:00.jpg">July 22 at 9:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/drudge-2022/drudge-2022-07-21T22:18:23.746131-04:00.jpg">
-  <img src="https://archive.org/download/drudge-2022/drudge-2022-07-21T22:18:23.746131-04:00.jpg"
-     alt="Drudge Report at 2022-07-21 22:18:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-21T22:18:23.746131-04:00.jpg">July 21 at 10:18 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/drudge-2022/drudge-2022-07-21T13:01:01.298011-04:00.jpg">
-  <img src="https://archive.org/download/drudge-2022/drudge-2022-07-21T13:01:01.298011-04:00.jpg"
-     alt="Drudge Report at 2022-07-21 13:01:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-21T13:01:01.298011-04:00.jpg">July 21 at 1:01 PM</a></p>
 </div>
 
 </div>

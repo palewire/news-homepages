@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 207 screenshots with the Internet Archive.
+The archiving routine has saved 209 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-26T02:18:44.868886+02:00.jpg">
+  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-26T02:18:44.868886+02:00.jpg"
+     alt="Le Monde in English at 2022-07-26 02:18:52+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-26T02:18:44.868886+02:00.jpg">July 26 at 2:18 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-25T15:12:39.936722+02:00.jpg">
+  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-25T15:12:39.936722+02:00.jpg"
+     alt="Le Monde in English at 2022-07-25 15:12:41+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-25T15:12:39.936722+02:00.jpg">July 25 at 3:12 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-25T10:09:08.525635+02:00.jpg">
   <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-25T10:09:08.525635+02:00.jpg"
      alt="Le Monde in English at 2022-07-25 10:09:10+02:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-22T10:07:02.193672+02:00.jpg">July 22 at 10:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-22T05:34:35.306961+02:00.jpg">
-  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-22T05:34:35.306961+02:00.jpg"
-     alt="Le Monde in English at 2022-07-22 05:34:41+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-22T05:34:35.306961+02:00.jpg">July 22 at 5:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-21T17:27:34.047744+02:00.jpg">
-  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-21T17:27:34.047744+02:00.jpg"
-     alt="Le Monde in English at 2022-07-21 17:27:35+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-21T17:27:34.047744+02:00.jpg">July 21 at 5:27 PM</a></p>
 </div>
 
 </div>

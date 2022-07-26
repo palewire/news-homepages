@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 281 screenshots with the Internet Archive.
+The archiving routine has saved 283 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sdut-2022/sdut-2022-07-25T11:14:39.727568-07:00.jpg">
+  <img src="https://archive.org/download/sdut-2022/sdut-2022-07-25T11:14:39.727568-07:00.jpg"
+     alt="San Diego Union Tribune at 2022-07-25 11:14:40-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-25T11:14:39.727568-07:00.jpg">July 25 at 11:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sdut-2022/sdut-2022-07-25T08:41:38.664395-07:00.jpg">
+  <img src="https://archive.org/download/sdut-2022/sdut-2022-07-25T08:41:38.664395-07:00.jpg"
+     alt="San Diego Union Tribune at 2022-07-25 08:41:40-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-25T08:41:38.664395-07:00.jpg">July 25 at 8:41 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sdut-2022/sdut-2022-07-24T20:43:02.427133-07:00.jpg">
   <img src="https://archive.org/download/sdut-2022/sdut-2022-07-24T20:43:02.427133-07:00.jpg"
      alt="San Diego Union Tribune at 2022-07-24 20:43:04-07:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-21T21:28:11.580544-07:00.jpg">July 21 at 9:28 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sdut-2022/sdut-2022-07-21T11:08:35.818781-07:00.jpg">
-  <img src="https://archive.org/download/sdut-2022/sdut-2022-07-21T11:08:35.818781-07:00.jpg"
-     alt="San Diego Union Tribune at 2022-07-21 11:08:38-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-21T11:08:35.818781-07:00.jpg">July 21 at 11:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sdut-2022/sdut-2022-07-21T09:51:17.668135-07:00.jpg">
-  <img src="https://archive.org/download/sdut-2022/sdut-2022-07-21T09:51:17.668135-07:00.jpg"
-     alt="San Diego Union Tribune at 2022-07-21 09:51:19-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-21T09:51:17.668135-07:00.jpg">July 21 at 9:51 AM</a></p>
 </div>
 
 </div>

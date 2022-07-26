@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-07-25T18:06:57.669437-05:00.jpg">
+  <img src="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-07-25T18:06:57.669437-05:00.jpg"
+     alt="Austin Chronicle at 2022-07-25 18:06:59-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-07-25T18:06:57.669437-05:00.jpg">July 25 at 6:06 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-07-25T05:57:35.083309-05:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-07-20T07:51:50.425470-05:00.jpg">July 20 at 7:51 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-07-19T19:58:24.380867-05:00.jpg">
-  <img src="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-07-19T19:58:24.380867-05:00.jpg"
-     alt="Austin Chronicle at 2022-07-19 19:58:26-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-07-19T19:58:24.380867-05:00.jpg">July 19 at 7:58 PM</a></p>
 </div>
 
 </div>

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-07-25T08:15:15.406587-05:00.jpg">
+  <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-07-25T08:15:15.406587-05:00.jpg"
+     alt="Midland Reporter-Telegram at 2022-07-25 08:15:17-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-07-25T08:15:15.406587-05:00.jpg">July 25 at 8:15 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-07-24T22:33:09.984921-05:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-07-19T22:33:18.516019-05:00.jpg">July 19 at 10:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-07-19T10:43:59.780314-05:00.jpg">
-  <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-07-19T10:43:59.780314-05:00.jpg"
-     alt="Midland Reporter-Telegram at 2022-07-19 10:44:00-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-07-19T10:43:59.780314-05:00.jpg">July 19 at 10:44 AM</a></p>
 </div>
 
 </div>

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T11:48:38.338964-04:00.jpg">
+  <img src="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T11:48:38.338964-04:00.jpg"
+     alt="Real News at 2022-07-25 11:48:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T11:48:38.338964-04:00.jpg">July 25 at 11:48 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T00:37:14.265502-04:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-20T00:33:43.617800-04:00.jpg">July 20 at 12:33 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-20T00:21:56.833598-04:00.jpg">
-  <img src="https://archive.org/download/therealnews-2022/therealnews-2022-07-20T00:21:56.833598-04:00.jpg"
-     alt="Real News at 2022-07-20 00:21:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-20T00:21:56.833598-04:00.jpg">July 20 at 12:21 AM</a></p>
 </div>
 
 </div>

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 77 screenshots with the Internet Archive.
+The archiving routine has saved 79 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/reuters-2022/reuters-2022-07-25T20:24:15.212459-04:00.jpg">
+  <img src="https://archive.org/download/reuters-2022/reuters-2022-07-25T20:24:15.212459-04:00.jpg"
+     alt="Reuters at 2022-07-25 20:24:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reuters-2022/reuters-2022-07-25T20:24:15.212459-04:00.jpg">July 25 at 8:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reuters-2022/reuters-2022-07-25T11:39:25.973238-04:00.jpg">
+  <img src="https://archive.org/download/reuters-2022/reuters-2022-07-25T11:39:25.973238-04:00.jpg"
+     alt="Reuters at 2022-07-25 11:39:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reuters-2022/reuters-2022-07-25T11:39:25.973238-04:00.jpg">July 25 at 11:39 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/reuters-2022/reuters-2022-07-24T23:41:59.192146-04:00.jpg">
   <img src="https://archive.org/download/reuters-2022/reuters-2022-07-24T23:41:59.192146-04:00.jpg"
      alt="Reuters at 2022-07-24 23:42:04-04:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/reuters-2022/reuters-2022-07-20T12:14:58.011751-04:00.jpg">July 20 at 12:15 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reuters-2022/reuters-2022-07-19T23:38:35.681670-04:00.jpg">
-  <img src="https://archive.org/download/reuters-2022/reuters-2022-07-19T23:38:35.681670-04:00.jpg"
-     alt="Reuters at 2022-07-19 23:38:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reuters-2022/reuters-2022-07-19T23:38:35.681670-04:00.jpg">July 19 at 11:38 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reuters-2022/reuters-2022-07-19T11:48:54.481793-04:00.jpg">
-  <img src="https://archive.org/download/reuters-2022/reuters-2022-07-19T11:48:54.481793-04:00.jpg"
-     alt="Reuters at 2022-07-19 11:49:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reuters-2022/reuters-2022-07-19T11:48:54.481793-04:00.jpg">July 19 at 11:49 AM</a></p>
 </div>
 
 </div>

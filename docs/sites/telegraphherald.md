@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 187 screenshots with the Internet Archive.
+The archiving routine has saved 189 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T11:39:31.220848-05:00.jpg">
+  <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T11:39:31.220848-05:00.jpg"
+     alt="Dubuque Telegraph Herald at 2022-07-25 11:39:33-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T11:39:31.220848-05:00.jpg">July 25 at 11:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T10:44:31.658111-05:00.jpg">
+  <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T10:44:31.658111-05:00.jpg"
+     alt="Dubuque Telegraph Herald at 2022-07-25 10:44:35-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T10:44:31.658111-05:00.jpg">July 25 at 10:44 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-24T23:34:41.214226-05:00.jpg">
   <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-24T23:34:41.214226-05:00.jpg"
      alt="Dubuque Telegraph Herald at 2022-07-24 23:34:43-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-20T23:27:53.142688-05:00.jpg">July 20 at 11:27 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-20T11:55:42.089207-05:00.jpg">
-  <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-20T11:55:42.089207-05:00.jpg"
-     alt="Dubuque Telegraph Herald at 2022-07-20 11:55:44-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-20T11:55:42.089207-05:00.jpg">July 20 at 11:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-20T11:44:52.288825-05:00.jpg">
-  <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-20T11:44:52.288825-05:00.jpg"
-     alt="Dubuque Telegraph Herald at 2022-07-20 11:44:56-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-20T11:44:52.288825-05:00.jpg">July 20 at 11:44 AM</a></p>
 </div>
 
 </div>

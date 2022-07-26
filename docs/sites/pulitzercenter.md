@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 33 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-25T20:23:24.609405-04:00.jpg">
+  <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-25T20:23:24.609405-04:00.jpg"
+     alt="Pulitzer Center at 2022-07-25 20:23:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-25T20:23:24.609405-04:00.jpg">July 25 at 8:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-25T11:37:59.919833-04:00.jpg">
+  <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-25T11:37:59.919833-04:00.jpg"
+     alt="Pulitzer Center at 2022-07-25 11:38:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-25T11:37:59.919833-04:00.jpg">July 25 at 11:38 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-24T23:40:37.373488-04:00.jpg">
   <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-24T23:40:37.373488-04:00.jpg"
      alt="Pulitzer Center at 2022-07-24 23:40:40-04:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-20T12:14:42.034880-04:00.jpg">July 20 at 12:14 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-19T23:37:30.014258-04:00.jpg">
-  <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-19T23:37:30.014258-04:00.jpg"
-     alt="Pulitzer Center at 2022-07-19 23:37:32-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-19T23:37:30.014258-04:00.jpg">July 19 at 11:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-19T11:48:16.553789-04:00.jpg">
-  <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-19T11:48:16.553789-04:00.jpg"
-     alt="Pulitzer Center at 2022-07-19 11:48:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-19T11:48:16.553789-04:00.jpg">July 19 at 11:48 AM</a></p>
 </div>
 
 </div>

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wfxl-2022/wfxl-2022-07-25T11:52:50.753184-04:00.jpg">
+  <img src="https://archive.org/download/wfxl-2022/wfxl-2022-07-25T11:52:50.753184-04:00.jpg"
+     alt="Fox 31 WFXL-TV at 2022-07-25 11:52:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wfxl-2022/wfxl-2022-07-25T11:52:50.753184-04:00.jpg">July 25 at 11:52 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wfxl-2022/wfxl-2022-07-25T00:41:07.324152-04:00.jpg">

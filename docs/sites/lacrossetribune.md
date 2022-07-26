@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 180 screenshots with the Internet Archive.
+The archiving routine has saved 182 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T19:18:33.758653-05:00.jpg">
+  <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T19:18:33.758653-05:00.jpg"
+     alt="LaCrosse Tribune at 2022-07-25 19:18:38-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T19:18:33.758653-05:00.jpg">July 25 at 7:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T08:12:04.790876-05:00.jpg">
+  <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T08:12:04.790876-05:00.jpg"
+     alt="LaCrosse Tribune at 2022-07-25 08:12:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T08:12:04.790876-05:00.jpg">July 25 at 8:12 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T22:28:30.894824-05:00.jpg">
   <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T22:28:30.894824-05:00.jpg"
      alt="LaCrosse Tribune at 2022-07-24 22:28:32-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-20T09:29:23.451308-05:00.jpg">July 20 at 9:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-19T21:21:50.687447-05:00.jpg">
-  <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-19T21:21:50.687447-05:00.jpg"
-     alt="LaCrosse Tribune at 2022-07-19 21:21:55-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-19T21:21:50.687447-05:00.jpg">July 19 at 9:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-19T09:21:29.622376-05:00.jpg">
-  <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-19T09:21:29.622376-05:00.jpg"
-     alt="LaCrosse Tribune at 2022-07-19 09:21:31-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-19T09:21:29.622376-05:00.jpg">July 19 at 9:21 AM</a></p>
 </div>
 
 </div>

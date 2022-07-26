@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 208 screenshots with the Internet Archive.
+The archiving routine has saved 209 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 208 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T02:17:56.210117+02:00.jpg">
+  <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T02:17:56.210117+02:00.jpg"
+     alt="Le Figaro at 2022-07-26 02:18:02+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T02:17:56.210117+02:00.jpg">July 26 at 2:18 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T10:09:21.043722+02:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-22T04:26:51.922307+02:00.jpg">July 22 at 4:26 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-21T16:17:09.221397+02:00.jpg">
-  <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-21T16:17:09.221397+02:00.jpg"
-     alt="Le Figaro at 2022-07-21 16:17:17+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-21T16:17:09.221397+02:00.jpg">July 21 at 4:17 PM</a></p>
 </div>
 
 </div>

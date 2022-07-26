@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 77 screenshots with the Internet Archive.
+The archiving routine has saved 78 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 77 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-25T09:43:01.427226-06:00.jpg">
+  <img src="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-25T09:43:01.427226-06:00.jpg"
+     alt="The Spectrum at 2022-07-25 09:43:05-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-25T09:43:01.427226-06:00.jpg">July 25 at 9:43 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-24T21:44:09.834185-06:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-19T22:19:20.854502-06:00.jpg">July 19 at 10:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-19T10:58:26.529699-06:00.jpg">
-  <img src="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-19T10:58:26.529699-06:00.jpg"
-     alt="The Spectrum at 2022-07-19 10:58:27-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-19T10:58:26.529699-06:00.jpg">July 19 at 10:58 AM</a></p>
 </div>
 
 </div>

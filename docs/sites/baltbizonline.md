@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 26 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-25T19:08:27.028540-04:00.jpg">
+  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-25T19:08:27.028540-04:00.jpg"
+     alt="Baltimore Business Journal at 2022-07-25 19:08:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-25T19:08:27.028540-04:00.jpg">July 25 at 7:08 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-25T06:59:18.662199-04:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-20T00:33:36.326589-04:00.jpg">July 20 at 12:33 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-19T20:59:11.972930-04:00.jpg">
-  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-19T20:59:11.972930-04:00.jpg"
-     alt="Baltimore Business Journal at 2022-07-19 20:59:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-19T20:59:11.972930-04:00.jpg">July 19 at 8:59 PM</a></p>
 </div>
 
 </div>

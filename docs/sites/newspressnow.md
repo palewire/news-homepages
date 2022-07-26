@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-25T08:17:13.565873-05:00.jpg">
+  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-25T08:17:13.565873-05:00.jpg"
+     alt="St. Joseph News Press at 2022-07-25 08:17:15-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-25T08:17:13.565873-05:00.jpg">July 25 at 8:17 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-24T22:36:42.110101-05:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-19T22:33:53.517073-05:00.jpg">July 19 at 10:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-19T10:44:32.983956-05:00.jpg">
-  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-19T10:44:32.983956-05:00.jpg"
-     alt="St. Joseph News Press at 2022-07-19 10:44:34-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-19T10:44:32.983956-05:00.jpg">July 19 at 10:44 AM</a></p>
 </div>
 
 </div>

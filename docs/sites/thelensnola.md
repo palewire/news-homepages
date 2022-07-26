@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 33 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 33 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-25T10:47:56.085295-05:00.jpg">
+  <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-25T10:47:56.085295-05:00.jpg"
+     alt="Lens at 2022-07-25 10:47:57-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-25T10:47:56.085295-05:00.jpg">July 25 at 10:47 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-24T23:36:40.100982-05:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-19T23:21:37.522092-05:00.jpg">July 19 at 11:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-19T12:01:24.103658-05:00.jpg">
-  <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-19T12:01:24.103658-05:00.jpg"
-     alt="Lens at 2022-07-19 12:01:25-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-19T12:01:24.103658-05:00.jpg">July 19 at 12:01 PM</a></p>
 </div>
 
 </div>

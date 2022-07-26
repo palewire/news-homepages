@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 71 screenshots with the Internet Archive.
+The archiving routine has saved 73 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-25T17:23:24.916740-07:00.jpg">
+  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-25T17:23:24.916740-07:00.jpg"
+     alt="Point Reyes Light at 2022-07-25 17:23:27-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-25T17:23:24.916740-07:00.jpg">July 25 at 5:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-25T08:36:46.147026-07:00.jpg">
+  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-25T08:36:46.147026-07:00.jpg"
+     alt="Point Reyes Light at 2022-07-25 08:36:49-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-25T08:36:46.147026-07:00.jpg">July 25 at 8:36 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-24T20:40:16.892204-07:00.jpg">
   <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-24T20:40:16.892204-07:00.jpg"
      alt="Point Reyes Light at 2022-07-24 20:40:18-07:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-20T09:13:20.461008-07:00.jpg">July 20 at 9:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-19T20:36:47.411354-07:00.jpg">
-  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-19T20:36:47.411354-07:00.jpg"
-     alt="Point Reyes Light at 2022-07-19 20:36:52-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-19T20:36:47.411354-07:00.jpg">July 19 at 8:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-19T08:47:02.920511-07:00.jpg">
-  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-19T08:47:02.920511-07:00.jpg"
-     alt="Point Reyes Light at 2022-07-19 08:47:05-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-19T08:47:02.920511-07:00.jpg">July 19 at 8:47 AM</a></p>
 </div>
 
 </div>

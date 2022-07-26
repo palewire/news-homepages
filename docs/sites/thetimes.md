@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 308 screenshots with the Internet Archive.
+The archiving routine has saved 309 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 308 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-25T16:48:51.173695+01:00.jpg">
+  <img src="https://archive.org/download/thetimes-2022/thetimes-2022-07-25T16:48:51.173695+01:00.jpg"
+     alt="The Times at 2022-07-25 16:49:01+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-25T16:48:51.173695+01:00.jpg">July 25 at 4:49 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-25T10:09:51.223489+01:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-22T05:32:38.198310+01:00.jpg">July 22 at 5:32 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-21T17:55:51.670076+01:00.jpg">
-  <img src="https://archive.org/download/thetimes-2022/thetimes-2022-07-21T17:55:51.670076+01:00.jpg"
-     alt="The Times at 2022-07-21 17:55:53+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-21T17:55:51.670076+01:00.jpg">July 21 at 5:55 PM</a></p>
 </div>
 
 </div>

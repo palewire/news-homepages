@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 117 screenshots with the Internet Archive.
+The archiving routine has saved 119 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-25T11:36:03.577701-05:00.jpg">
+  <img src="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-25T11:36:03.577701-05:00.jpg"
+     alt="South Side Weekly at 2022-07-25 11:36:05-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-25T11:36:03.577701-05:00.jpg">July 25 at 11:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-25T10:42:42.623303-05:00.jpg">
+  <img src="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-25T10:42:42.623303-05:00.jpg"
+     alt="South Side Weekly at 2022-07-25 10:42:44-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-25T10:42:42.623303-05:00.jpg">July 25 at 10:42 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-24T22:44:16.788878-05:00.jpg">
   <img src="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-24T22:44:16.788878-05:00.jpg"
      alt="South Side Weekly at 2022-07-24 22:44:21-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-21T11:52:24.626827-05:00.jpg">July 21 at 11:52 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-21T11:49:02.495793-05:00.jpg">
-  <img src="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-21T11:49:02.495793-05:00.jpg"
-     alt="South Side Weekly at 2022-07-21 11:49:13-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-21T11:49:02.495793-05:00.jpg">July 21 at 11:49 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-20T23:26:36.902233-05:00.jpg">
-  <img src="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-20T23:26:36.902233-05:00.jpg"
-     alt="South Side Weekly at 2022-07-20 23:26:38-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-20T23:26:36.902233-05:00.jpg">July 20 at 11:26 PM</a></p>
 </div>
 
 </div>

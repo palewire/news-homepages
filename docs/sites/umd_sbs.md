@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T11:50:37.231257-04:00.jpg">
+  <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T11:50:37.231257-04:00.jpg"
+     alt="Stories Beneath the Shell at 2022-07-25 11:50:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T11:50:37.231257-04:00.jpg">July 25 at 11:50 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T00:39:13.818554-04:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-20T00:33:30.879797-04:00.jpg">July 20 at 12:33 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-20T00:23:39.891640-04:00.jpg">
-  <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-20T00:23:39.891640-04:00.jpg"
-     alt="Stories Beneath the Shell at 2022-07-20 00:23:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-20T00:23:39.891640-04:00.jpg">July 20 at 12:23 AM</a></p>
 </div>
 
 </div>

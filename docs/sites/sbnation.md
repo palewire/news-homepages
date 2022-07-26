@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 76 screenshots with the Internet Archive.
+The archiving routine has saved 78 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-25T20:25:04.034798-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-25T20:25:04.034798-04:00.jpg"
+     alt="SB Nation at 2022-07-25 20:25:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-25T20:25:04.034798-04:00.jpg">July 25 at 8:25 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-25T11:40:49.579605-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-25T11:40:49.579605-04:00.jpg"
+     alt="SB Nation at 2022-07-25 11:40:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-25T11:40:49.579605-04:00.jpg">July 25 at 11:40 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T23:42:48.763782-04:00.jpg">
   <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T23:42:48.763782-04:00.jpg"
      alt="SB Nation at 2022-07-24 23:42:51-04:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T12:41:06.667666-04:00.jpg">July 20 at 12:41 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T00:18:15.267664-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T00:18:15.267664-04:00.jpg"
-     alt="SB Nation at 2022-07-20 00:18:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T00:18:15.267664-04:00.jpg">July 20 at 12:18 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-19T12:56:15.517637-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-19T12:56:15.517637-04:00.jpg"
-     alt="SB Nation at 2022-07-19 12:56:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-19T12:56:15.517637-04:00.jpg">July 19 at 12:56 PM</a></p>
 </div>
 
 </div>

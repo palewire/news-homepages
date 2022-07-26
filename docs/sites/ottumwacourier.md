@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 84 screenshots with the Internet Archive.
+The archiving routine has saved 87 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T19:22:33.131146-05:00.jpg">
+  <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T19:22:33.131146-05:00.jpg"
+     alt="Ottumwa Courier at 2022-07-25 19:22:35-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T19:22:33.131146-05:00.jpg">July 25 at 7:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T11:39:49.128913-05:00.jpg">
+  <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T11:39:49.128913-05:00.jpg"
+     alt="Ottumwa Courier at 2022-07-25 11:39:50-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T11:39:49.128913-05:00.jpg">July 25 at 11:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T10:36:09.796874-05:00.jpg">
+  <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T10:36:09.796874-05:00.jpg"
+     alt="Ottumwa Courier at 2022-07-25 10:36:14-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T10:36:09.796874-05:00.jpg">July 25 at 10:36 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T22:38:48.502833-05:00.jpg">
   <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T22:38:48.502833-05:00.jpg"
      alt="Ottumwa Courier at 2022-07-24 22:38:49-05:00 local time"
@@ -190,33 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-21T10:36:02.189744-05:00.jpg">July 21 at 10:36 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-20T22:38:55.955328-05:00.jpg">
-  <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-20T22:38:55.955328-05:00.jpg"
-     alt="Ottumwa Courier at 2022-07-20 22:38:57-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-20T22:38:55.955328-05:00.jpg">July 20 at 10:38 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-20T11:55:04.298343-05:00.jpg">
-  <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-20T11:55:04.298343-05:00.jpg"
-     alt="Ottumwa Courier at 2022-07-20 11:55:06-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-20T11:55:04.298343-05:00.jpg">July 20 at 11:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-20T11:12:55.041278-05:00.jpg">
-  <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-20T11:12:55.041278-05:00.jpg"
-     alt="Ottumwa Courier at 2022-07-20 11:12:57-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-20T11:12:55.041278-05:00.jpg">July 20 at 11:12 AM</a></p>
 </div>
 
 </div>

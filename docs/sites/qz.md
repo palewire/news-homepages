@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 97 screenshots with the Internet Archive.
+The archiving routine has saved 98 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 97 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/qz-2022/qz-2022-07-25T11:38:46.189358-04:00.jpg">
+  <img src="https://archive.org/download/qz-2022/qz-2022-07-25T11:38:46.189358-04:00.jpg"
+     alt="Quartz at 2022-07-25 11:38:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/qz-2022/qz-2022-07-25T11:38:46.189358-04:00.jpg">July 25 at 11:38 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/qz-2022/qz-2022-07-24T23:41:42.272158-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/qz-2022/qz-2022-07-19T23:38:19.454789-04:00.jpg">July 19 at 11:38 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/qz-2022/qz-2022-07-19T11:48:13.626335-04:00.jpg">
-  <img src="https://archive.org/download/qz-2022/qz-2022-07-19T11:48:13.626335-04:00.jpg"
-     alt="Quartz at 2022-07-19 11:48:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/qz-2022/qz-2022-07-19T11:48:13.626335-04:00.jpg">July 19 at 11:48 AM</a></p>
 </div>
 
 </div>

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T16:05:33.560105-07:00.jpg">
+  <img src="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T16:05:33.560105-07:00.jpg"
+     alt="9to5Mac at 2022-07-25 16:05:35-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T16:05:33.560105-07:00.jpg">July 25 at 4:05 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T03:56:21.013694-07:00.jpg">

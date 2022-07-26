@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 26 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-25T11:47:29.945232-04:00.jpg">
+  <img src="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-25T11:47:29.945232-04:00.jpg"
+     alt="Left Bench at 2022-07-25 11:47:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-25T11:47:29.945232-04:00.jpg">July 25 at 11:47 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-23T23:41:58.770747-04:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-19T13:01:15.857961-04:00.jpg">July 19 at 1:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-19T00:26:13.803169-04:00.jpg">
-  <img src="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-19T00:26:13.803169-04:00.jpg"
-     alt="Left Bench at 2022-07-19 00:26:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-19T00:26:13.803169-04:00.jpg">July 19 at 12:26 AM</a></p>
 </div>
 
 </div>

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-25T11:52:17.486250-04:00.jpg">
+  <img src="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-25T11:52:17.486250-04:00.jpg"
+     alt="Vogue at 2022-07-25 11:52:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-25T11:52:17.486250-04:00.jpg">July 25 at 11:52 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-25T00:40:15.932031-04:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-20T00:24:01.220137-04:00.jpg">July 20 at 12:24 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-19T13:02:59.861975-04:00.jpg">
-  <img src="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-19T13:02:59.861975-04:00.jpg"
-     alt="Vogue at 2022-07-19 13:03:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-19T13:02:59.861975-04:00.jpg">July 19 at 1:03 PM</a></p>
 </div>
 
 </div>

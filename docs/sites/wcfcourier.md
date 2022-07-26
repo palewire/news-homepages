@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 182 screenshots with the Internet Archive.
+The archiving routine has saved 184 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-25T11:39:36.661653-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-25T11:39:36.661653-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-07-25 11:39:47-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-25T11:39:36.661653-05:00.jpg">July 25 at 11:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-25T10:53:11.966351-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-25T10:53:11.966351-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-07-25 10:53:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-25T10:53:11.966351-05:00.jpg">July 25 at 10:53 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-24T23:41:14.162002-05:00.jpg">
   <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-24T23:41:14.162002-05:00.jpg"
      alt="Waterloo-Cedar Falls Courier at 2022-07-24 23:41:17-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-20T11:50:14.315852-05:00.jpg">July 20 at 11:50 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-19T23:24:29.348671-05:00.jpg">
-  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-19T23:24:29.348671-05:00.jpg"
-     alt="Waterloo-Cedar Falls Courier at 2022-07-19 23:24:32-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-19T23:24:29.348671-05:00.jpg">July 19 at 11:24 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-19T12:05:18.766377-05:00.jpg">
-  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-19T12:05:18.766377-05:00.jpg"
-     alt="Waterloo-Cedar Falls Courier at 2022-07-19 12:05:25-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-19T12:05:18.766377-05:00.jpg">July 19 at 12:05 PM</a></p>
 </div>
 
 </div>

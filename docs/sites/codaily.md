@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/codaily-2022/codaily-2022-07-25T16:11:12.973613-07:00.jpg">
+  <img src="https://archive.org/download/codaily-2022/codaily-2022-07-25T16:11:12.973613-07:00.jpg"
+     alt="Central Oregon Daily at 2022-07-25 16:11:15-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-25T16:11:12.973613-07:00.jpg">July 25 at 4:11 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/codaily-2022/codaily-2022-07-25T04:03:23.707751-07:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-20T05:56:01.696933-07:00.jpg">July 20 at 5:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/codaily-2022/codaily-2022-07-19T18:03:25.892973-07:00.jpg">
-  <img src="https://archive.org/download/codaily-2022/codaily-2022-07-19T18:03:25.892973-07:00.jpg"
-     alt="Central Oregon Daily at 2022-07-19 18:03:26-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-19T18:03:25.892973-07:00.jpg">July 19 at 6:03 PM</a></p>
 </div>
 
 </div>

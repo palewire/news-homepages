@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-07-25T10:50:31.446445-05:00.jpg">
+  <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-07-25T10:50:31.446445-05:00.jpg"
+     alt="Tyler Morning Telegraph at 2022-07-25 10:50:33-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-07-25T10:50:31.446445-05:00.jpg">July 25 at 10:50 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-07-24T23:39:05.217403-05:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-07-19T23:23:16.150615-05:00.jpg">July 19 at 11:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-07-19T12:03:05.736373-05:00.jpg">
-  <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-07-19T12:03:05.736373-05:00.jpg"
-     alt="Tyler Morning Telegraph at 2022-07-19 12:03:07-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-07-19T12:03:05.736373-05:00.jpg">July 19 at 12:03 PM</a></p>
 </div>
 
 </div>

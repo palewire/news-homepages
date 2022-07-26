@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/quillette-2022/quillette-2022-07-26T01:23:28.175367+01:00.jpg">
+  <img src="https://archive.org/download/quillette-2022/quillette-2022-07-26T01:23:28.175367+01:00.jpg"
+     alt="Quillette at 2022-07-26 01:23:30+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/quillette-2022/quillette-2022-07-26T01:23:28.175367+01:00.jpg">July 26 at 1:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/quillette-2022/quillette-2022-07-25T16:38:30.103532+01:00.jpg">
+  <img src="https://archive.org/download/quillette-2022/quillette-2022-07-25T16:38:30.103532+01:00.jpg"
+     alt="Quillette at 2022-07-25 16:38:32+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/quillette-2022/quillette-2022-07-25T16:38:30.103532+01:00.jpg">July 25 at 4:38 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/quillette-2022/quillette-2022-07-25T04:41:00.063815+01:00.jpg">
@@ -116,24 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/quillette-2022/quillette-2022-07-20T17:14:56.743975+01:00.jpg">July 20 at 5:14 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/quillette-2022/quillette-2022-07-20T04:37:53.657064+01:00.jpg">
-  <img src="https://archive.org/download/quillette-2022/quillette-2022-07-20T04:37:53.657064+01:00.jpg"
-     alt="Quillette at 2022-07-20 04:37:55+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/quillette-2022/quillette-2022-07-20T04:37:53.657064+01:00.jpg">July 20 at 4:37 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/quillette-2022/quillette-2022-07-19T16:48:43.875978+01:00.jpg">
-  <img src="https://archive.org/download/quillette-2022/quillette-2022-07-19T16:48:43.875978+01:00.jpg"
-     alt="Quillette at 2022-07-19 16:48:44+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/quillette-2022/quillette-2022-07-19T16:48:43.875978+01:00.jpg">July 19 at 4:48 PM</a></p>
 </div>
 
 </div>

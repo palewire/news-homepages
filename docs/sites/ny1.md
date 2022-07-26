@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 48 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ny1-2022/ny1-2022-07-25T20:22:39.268061-04:00.jpg">
+  <img src="https://archive.org/download/ny1-2022/ny1-2022-07-25T20:22:39.268061-04:00.jpg"
+     alt="NY1 at 2022-07-25 20:22:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-25T20:22:39.268061-04:00.jpg">July 25 at 8:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ny1-2022/ny1-2022-07-25T11:33:35.237991-04:00.jpg">
+  <img src="https://archive.org/download/ny1-2022/ny1-2022-07-25T11:33:35.237991-04:00.jpg"
+     alt="NY1 at 2022-07-25 11:33:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-25T11:33:35.237991-04:00.jpg">July 25 at 11:33 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ny1-2022/ny1-2022-07-24T23:37:07.729146-04:00.jpg">
   <img src="https://archive.org/download/ny1-2022/ny1-2022-07-24T23:37:07.729146-04:00.jpg"
      alt="NY1 at 2022-07-24 23:37:09-04:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-20T12:11:42.608295-04:00.jpg">July 20 at 12:11 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ny1-2022/ny1-2022-07-19T23:34:49.934735-04:00.jpg">
-  <img src="https://archive.org/download/ny1-2022/ny1-2022-07-19T23:34:49.934735-04:00.jpg"
-     alt="NY1 at 2022-07-19 23:34:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-19T23:34:49.934735-04:00.jpg">July 19 at 11:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ny1-2022/ny1-2022-07-19T11:44:49.057509-04:00.jpg">
-  <img src="https://archive.org/download/ny1-2022/ny1-2022-07-19T11:44:49.057509-04:00.jpg"
-     alt="NY1 at 2022-07-19 11:44:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-19T11:44:49.057509-04:00.jpg">July 19 at 11:44 AM</a></p>
 </div>
 
 </div>

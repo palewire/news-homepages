@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-07-25T10:45:07.053155-05:00.jpg">
+  <img src="https://archive.org/download/texasobserver-2022/texasobserver-2022-07-25T10:45:07.053155-05:00.jpg"
+     alt="Texas Observer at 2022-07-25 10:45:08-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-07-25T10:45:07.053155-05:00.jpg">July 25 at 10:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-07-24T23:35:07.112040-05:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-07-19T23:20:45.054721-05:00.jpg">July 19 at 11:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-07-19T11:59:55.208368-05:00.jpg">
-  <img src="https://archive.org/download/texasobserver-2022/texasobserver-2022-07-19T11:59:55.208368-05:00.jpg"
-     alt="Texas Observer at 2022-07-19 11:59:56-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-07-19T11:59:55.208368-05:00.jpg">July 19 at 11:59 AM</a></p>
 </div>
 
 </div>

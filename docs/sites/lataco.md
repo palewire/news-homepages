@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 49 screenshots with the Internet Archive.
+The archiving routine has saved 52 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lataco-2022/lataco-2022-07-25T17:18:08.501992-07:00.jpg">
+  <img src="https://archive.org/download/lataco-2022/lataco-2022-07-25T17:18:08.501992-07:00.jpg"
+     alt="L.A. Taco at 2022-07-25 17:18:10-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-25T17:18:08.501992-07:00.jpg">July 25 at 5:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lataco-2022/lataco-2022-07-25T11:13:37.266545-07:00.jpg">
+  <img src="https://archive.org/download/lataco-2022/lataco-2022-07-25T11:13:37.266545-07:00.jpg"
+     alt="L.A. Taco at 2022-07-25 11:13:42-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-25T11:13:37.266545-07:00.jpg">July 25 at 11:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lataco-2022/lataco-2022-07-25T06:12:42.258261-07:00.jpg">
+  <img src="https://archive.org/download/lataco-2022/lataco-2022-07-25T06:12:42.258261-07:00.jpg"
+     alt="L.A. Taco at 2022-07-25 06:12:45-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-25T06:12:42.258261-07:00.jpg">July 25 at 6:12 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-07-24T20:28:35.752718-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-07-24T20:28:35.752718-07:00.jpg"
      alt="L.A. Taco at 2022-07-24 20:28:38-07:00 local time"
@@ -190,33 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-22T07:07:16.233521-07:00.jpg">July 22 at 7:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lataco-2022/lataco-2022-07-21T19:26:13.450608-07:00.jpg">
-  <img src="https://archive.org/download/lataco-2022/lataco-2022-07-21T19:26:13.450608-07:00.jpg"
-     alt="L.A. Taco at 2022-07-21 19:26:15-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-21T19:26:13.450608-07:00.jpg">July 21 at 7:26 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lataco-2022/lataco-2022-07-21T11:08:51.099542-07:00.jpg">
-  <img src="https://archive.org/download/lataco-2022/lataco-2022-07-21T11:08:51.099542-07:00.jpg"
-     alt="L.A. Taco at 2022-07-21 11:08:52-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-21T11:08:51.099542-07:00.jpg">July 21 at 11:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lataco-2022/lataco-2022-07-21T07:17:09.321527-07:00.jpg">
-  <img src="https://archive.org/download/lataco-2022/lataco-2022-07-21T07:17:09.321527-07:00.jpg"
-     alt="L.A. Taco at 2022-07-21 07:17:10-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-07-21T07:17:09.321527-07:00.jpg">July 21 at 7:17 AM</a></p>
 </div>
 
 </div>

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-07-25T10:40:16.770325-05:00.jpg">
+  <img src="https://archive.org/download/rgvfox-2022/rgvfox-2022-07-25T10:40:16.770325-05:00.jpg"
+     alt="Fox South Texas at 2022-07-25 10:40:17-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-07-25T10:40:16.770325-05:00.jpg">July 25 at 10:40 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-07-24T22:41:51.207945-05:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-07-19T22:38:23.077275-05:00.jpg">July 19 at 10:38 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-07-19T10:49:40.570918-05:00.jpg">
-  <img src="https://archive.org/download/rgvfox-2022/rgvfox-2022-07-19T10:49:40.570918-05:00.jpg"
-     alt="Fox South Texas at 2022-07-19 10:49:42-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-07-19T10:49:40.570918-05:00.jpg">July 19 at 10:49 AM</a></p>
 </div>
 
 </div>

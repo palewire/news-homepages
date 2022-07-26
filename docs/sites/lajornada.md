@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 440 screenshots with the Internet Archive.
+The archiving routine has saved 442 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-25T19:17:23.230988-05:00.jpg">
+  <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-25T19:17:23.230988-05:00.jpg"
+     alt="La Jornada at 2022-07-25 19:17:37-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-25T19:17:23.230988-05:00.jpg">July 25 at 7:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.jpg">
+  <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.jpg"
+     alt="La Jornada at 2022-07-25 08:12:20-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.jpg">July 25 at 8:12 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-24T22:28:01.743571-05:00.jpg">
   <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-24T22:28:01.743571-05:00.jpg"
      alt="La Jornada at 2022-07-24 22:28:16-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-20T09:30:21.239450-05:00.jpg">July 20 at 9:30 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-19T21:21:56.799999-05:00.jpg">
-  <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-19T21:21:56.799999-05:00.jpg"
-     alt="La Jornada at 2022-07-19 21:21:58-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-19T21:21:56.799999-05:00.jpg">July 19 at 9:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-19T09:20:15.640409-05:00.jpg">
-  <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-19T09:20:15.640409-05:00.jpg"
-     alt="La Jornada at 2022-07-19 09:20:17-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-19T09:20:15.640409-05:00.jpg">July 19 at 9:20 AM</a></p>
 </div>
 
 </div>

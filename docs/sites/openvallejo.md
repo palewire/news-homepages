@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-25T17:22:25.880354-07:00.jpg">
+  <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-25T17:22:25.880354-07:00.jpg"
+     alt="Open Vallejo at 2022-07-25 17:22:27-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-25T17:22:25.880354-07:00.jpg">July 25 at 5:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-25T08:36:08.946708-07:00.jpg">
+  <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-25T08:36:08.946708-07:00.jpg"
+     alt="Open Vallejo at 2022-07-25 08:36:11-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-25T08:36:08.946708-07:00.jpg">July 25 at 8:36 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-24T20:39:08.922495-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-24T20:39:08.922495-07:00.jpg"
      alt="Open Vallejo at 2022-07-24 20:39:09-07:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-20T09:12:23.162570-07:00.jpg">July 20 at 9:12 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-19T20:35:34.991449-07:00.jpg">
-  <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-19T20:35:34.991449-07:00.jpg"
-     alt="Open Vallejo at 2022-07-19 20:35:36-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-19T20:35:34.991449-07:00.jpg">July 19 at 8:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-19T08:45:46.871790-07:00.jpg">
-  <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-19T08:45:46.871790-07:00.jpg"
-     alt="Open Vallejo at 2022-07-19 08:45:48-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-19T08:45:46.871790-07:00.jpg">July 19 at 8:45 AM</a></p>
 </div>
 
 </div>

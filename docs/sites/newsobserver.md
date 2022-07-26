@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T09:16:49.098854-04:00.jpg">
+  <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T09:16:49.098854-04:00.jpg"
+     alt="News & Observer at 2022-07-25 09:16:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T09:16:49.098854-04:00.jpg">July 25 at 9:16 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T23:36:13.923626-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-19T23:33:42.258041-04:00.jpg">July 19 at 11:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-19T11:44:31.162710-04:00.jpg">
-  <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-19T11:44:31.162710-04:00.jpg"
-     alt="News & Observer at 2022-07-19 11:44:32-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-19T11:44:31.162710-04:00.jpg">July 19 at 11:44 AM</a></p>
 </div>
 
 </div>

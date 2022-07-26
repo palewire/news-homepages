@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 83 screenshots with the Internet Archive.
+The archiving routine has saved 86 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-25T19:18:49.915370-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-25T19:18:49.915370-05:00.jpg"
+     alt="Little Village at 2022-07-25 19:18:51-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-25T19:18:49.915370-05:00.jpg">July 25 at 7:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-25T11:40:00.288400-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-25T11:40:00.288400-05:00.jpg"
+     alt="Little Village at 2022-07-25 11:40:02-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-25T11:40:00.288400-05:00.jpg">July 25 at 11:40 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-25T08:13:40.689051-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-25T08:13:40.689051-05:00.jpg"
+     alt="Little Village at 2022-07-25 08:13:44-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-25T08:13:40.689051-05:00.jpg">July 25 at 8:13 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-24T22:30:45.184304-05:00.jpg">
   <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-24T22:30:45.184304-05:00.jpg"
      alt="Little Village at 2022-07-24 22:30:47-05:00 local time"
@@ -190,33 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-21T10:27:38.441290-05:00.jpg">July 21 at 10:27 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-20T22:33:30.480108-05:00.jpg">
-  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-20T22:33:30.480108-05:00.jpg"
-     alt="Little Village at 2022-07-20 22:33:33-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-20T22:33:30.480108-05:00.jpg">July 20 at 10:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-20T11:55:11.073927-05:00.jpg">
-  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-20T11:55:11.073927-05:00.jpg"
-     alt="Little Village at 2022-07-20 11:55:13-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-20T11:55:11.073927-05:00.jpg">July 20 at 11:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-20T11:06:14.117790-05:00.jpg">
-  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-20T11:06:14.117790-05:00.jpg"
-     alt="Little Village at 2022-07-20 11:06:19-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-07-20T11:06:14.117790-05:00.jpg">July 20 at 11:06 AM</a></p>
 </div>
 
 </div>

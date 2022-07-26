@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tmz-2022/tmz-2022-07-25T08:49:40.297498-07:00.jpg">
+  <img src="https://archive.org/download/tmz-2022/tmz-2022-07-25T08:49:40.297498-07:00.jpg"
+     alt="TMZ at 2022-07-25 08:49:41-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-25T08:49:40.297498-07:00.jpg">July 25 at 8:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tmz-2022/tmz-2022-07-24T21:38:56.813877-07:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-19T21:22:56.173341-07:00.jpg">July 19 at 9:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tmz-2022/tmz-2022-07-19T10:02:37.135551-07:00.jpg">
-  <img src="https://archive.org/download/tmz-2022/tmz-2022-07-19T10:02:37.135551-07:00.jpg"
-     alt="TMZ at 2022-07-19 10:02:39-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-19T10:02:37.135551-07:00.jpg">July 19 at 10:02 AM</a></p>
 </div>
 
 </div>

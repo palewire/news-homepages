@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 23 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-25T18:41:32.547774+03:00.jpg">
+  <img src="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-25T18:41:32.547774+03:00.jpg"
+     alt="Segodnya at 2022-07-25 18:41:34+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-25T18:41:32.547774+03:00.jpg">July 25 at 6:41 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-25T06:43:14.938059+03:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-20T07:18:22.443555+03:00.jpg">July 20 at 7:18 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-19T19:57:49.660424+03:00.jpg">
-  <img src="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-19T19:57:49.660424+03:00.jpg"
-     alt="Segodnya at 2022-07-19 19:57:51+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-19T19:57:49.660424+03:00.jpg">July 19 at 7:57 PM</a></p>
 </div>
 
 </div>

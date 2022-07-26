@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 7 screenshots with the Internet Archive.
+The archiving routine has saved 9 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-25T20:19:40.890648-04:00.jpg">
+  <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-25T20:19:40.890648-04:00.jpg"
+     alt="Mississippi Today at 2022-07-25 20:19:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-25T20:19:40.890648-04:00.jpg">July 25 at 8:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-25T09:14:53.495362-04:00.jpg">
+  <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-25T09:14:53.495362-04:00.jpg"
+     alt="Mississippi Today at 2022-07-25 09:14:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-25T09:14:53.495362-04:00.jpg">July 25 at 9:14 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-24T23:32:47.585256-04:00.jpg">

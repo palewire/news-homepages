@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T19:19:47.464264-05:00.jpg">
+  <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T19:19:47.464264-05:00.jpg"
+     alt="Marfa Public Radio at 2022-07-25 19:19:49-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T19:19:47.464264-05:00.jpg">July 25 at 7:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T08:14:05.429898-05:00.jpg">
+  <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T08:14:05.429898-05:00.jpg"
+     alt="Marfa Public Radio at 2022-07-25 08:14:06-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T08:14:05.429898-05:00.jpg">July 25 at 8:14 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-24T22:30:14.630247-05:00.jpg">
@@ -116,24 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-20T11:07:01.821798-05:00.jpg">July 20 at 11:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-19T22:31:27.429725-05:00.jpg">
-  <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-19T22:31:27.429725-05:00.jpg"
-     alt="Marfa Public Radio at 2022-07-19 22:31:29-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-19T22:31:27.429725-05:00.jpg">July 19 at 10:31 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-19T10:41:13.158787-05:00.jpg">
-  <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-19T10:41:13.158787-05:00.jpg"
-     alt="Marfa Public Radio at 2022-07-19 10:41:14-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-19T10:41:13.158787-05:00.jpg">July 19 at 10:41 AM</a></p>
 </div>
 
 </div>

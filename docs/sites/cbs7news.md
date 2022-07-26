@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-25T18:09:55.418215-05:00.jpg">
+  <img src="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-25T18:09:55.418215-05:00.jpg"
+     alt="CBS7 at 2022-07-25 18:09:57-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-25T18:09:55.418215-05:00.jpg">July 25 at 6:09 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-25T06:01:38.712304-05:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-20T07:55:09.354746-05:00.jpg">July 20 at 7:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-19T20:01:51.884258-05:00.jpg">
-  <img src="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-19T20:01:51.884258-05:00.jpg"
-     alt="CBS7 at 2022-07-19 20:01:53-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-19T20:01:51.884258-05:00.jpg">July 19 at 8:01 PM</a></p>
 </div>
 
 </div>

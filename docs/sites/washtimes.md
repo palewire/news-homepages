@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 206 screenshots with the Internet Archive.
+The archiving routine has saved 209 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T14:39:25.163861-04:00.jpg">
+  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T14:39:25.163861-04:00.jpg"
+     alt="Washington Times at 2022-07-25 14:39:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T14:39:25.163861-04:00.jpg">July 25 at 2:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T12:42:02.156424-04:00.jpg">
+  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T12:42:02.156424-04:00.jpg"
+     alt="Washington Times at 2022-07-25 12:42:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T12:42:02.156424-04:00.jpg">July 25 at 12:42 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T11:53:13.053534-04:00.jpg">
+  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T11:53:13.053534-04:00.jpg"
+     alt="Washington Times at 2022-07-25 11:53:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T11:53:13.053534-04:00.jpg">July 25 at 11:53 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T00:41:04.334981-04:00.jpg">
   <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T00:41:04.334981-04:00.jpg"
      alt="Washington Times at 2022-07-25 00:41:06-04:00 local time"
@@ -190,33 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-22T12:21:24.882669-04:00.jpg">July 22 at 12:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-22T00:35:48.023681-04:00.jpg">
-  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-22T00:35:48.023681-04:00.jpg"
-     alt="Washington Times at 2022-07-22 00:35:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-22T00:35:48.023681-04:00.jpg">July 22 at 12:35 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-21T13:02:21.477339-04:00.jpg">
-  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-21T13:02:21.477339-04:00.jpg"
-     alt="Washington Times at 2022-07-21 13:02:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-21T13:02:21.477339-04:00.jpg">July 21 at 1:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-21T12:59:19.169920-04:00.jpg">
-  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-21T12:59:19.169920-04:00.jpg"
-     alt="Washington Times at 2022-07-21 12:59:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-21T12:59:19.169920-04:00.jpg">July 21 at 12:59 PM</a></p>
 </div>
 
 </div>

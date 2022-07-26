@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 188 screenshots with the Internet Archive.
+The archiving routine has saved 190 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-25T11:39:29.779759-05:00.jpg">
+  <img src="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-25T11:39:29.779759-05:00.jpg"
+     alt="Iowa City Press-Citizen at 2022-07-25 11:39:36-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-25T11:39:29.779759-05:00.jpg">July 25 at 11:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-25T10:38:14.354259-05:00.jpg">
+  <img src="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-25T10:38:14.354259-05:00.jpg"
+     alt="Iowa City Press-Citizen at 2022-07-25 10:38:18-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-25T10:38:14.354259-05:00.jpg">July 25 at 10:38 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-24T22:40:07.115778-05:00.jpg">
   <img src="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-24T22:40:07.115778-05:00.jpg"
      alt="Iowa City Press-Citizen at 2022-07-24 22:40:08-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-20T22:39:27.888820-05:00.jpg">July 20 at 10:39 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-20T11:54:56.377063-05:00.jpg">
-  <img src="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-20T11:54:56.377063-05:00.jpg"
-     alt="Iowa City Press-Citizen at 2022-07-20 11:54:58-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-20T11:54:56.377063-05:00.jpg">July 20 at 11:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-20T11:14:27.070087-05:00.jpg">
-  <img src="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-20T11:14:27.070087-05:00.jpg"
-     alt="Iowa City Press-Citizen at 2022-07-20 11:14:31-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-20T11:14:27.070087-05:00.jpg">July 20 at 11:14 AM</a></p>
 </div>
 
 </div>

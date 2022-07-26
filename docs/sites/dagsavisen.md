@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 12 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-26T01:11:34.197276+02:00.jpg">
+  <img src="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-26T01:11:34.197276+02:00.jpg"
+     alt="Dagsavisen at 2022-07-26 01:11:36+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-26T01:11:34.197276+02:00.jpg">July 26 at 1:11 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-25T13:58:32.173624+02:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-20T14:57:17.543878+02:00.jpg">July 20 at 2:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-20T13:37:03.946451+02:00.jpg">
-  <img src="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-20T13:37:03.946451+02:00.jpg"
-     alt="Dagsavisen at 2022-07-20 13:37:09+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-20T13:37:03.946451+02:00.jpg">July 20 at 1:37 PM</a></p>
 </div>
 
 </div>

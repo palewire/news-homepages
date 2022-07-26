@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-07-25T14:38:24.955878-04:00.jpg">
+  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-07-25T14:38:24.955878-04:00.jpg"
+     alt="First Things at 2022-07-25 14:38:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-07-25T14:38:24.955878-04:00.jpg">July 25 at 2:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-07-25T12:40:55.374257-04:00.jpg">
+  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-07-25T12:40:55.374257-04:00.jpg"
+     alt="First Things at 2022-07-25 12:40:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-07-25T12:40:55.374257-04:00.jpg">July 25 at 12:40 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-07-25T08:01:44.071381-04:00.jpg">
@@ -116,24 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-07-22T10:00:27.611048-04:00.jpg">July 22 at 10:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-07-21T22:19:47.569897-04:00.jpg">
-  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-07-21T22:19:47.569897-04:00.jpg"
-     alt="First Things at 2022-07-21 22:19:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-07-21T22:19:47.569897-04:00.jpg">July 21 at 10:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-07-21T13:01:24.195927-04:00.jpg">
-  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-07-21T13:01:24.195927-04:00.jpg"
-     alt="First Things at 2022-07-21 13:01:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-07-21T13:01:24.195927-04:00.jpg">July 21 at 1:01 PM</a></p>
 </div>
 
 </div>

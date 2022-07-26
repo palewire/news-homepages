@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/independent_ie-2022/independent_ie-2022-07-26T01:15:56.479193+01:00.jpg">
+  <img src="https://archive.org/download/independent_ie-2022/independent_ie-2022-07-26T01:15:56.479193+01:00.jpg"
+     alt="Independent.ie at 2022-07-26 01:15:59+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/independent_ie-2022/independent_ie-2022-07-26T01:15:56.479193+01:00.jpg">July 26 at 1:15 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/independent_ie-2022/independent_ie-2022-07-25T13:06:46.675337+01:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/independent_ie-2022/independent_ie-2022-07-20T15:26:19.885875+01:00.jpg">July 20 at 3:26 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/independent_ie-2022/independent_ie-2022-07-20T03:19:05.550075+01:00.jpg">
-  <img src="https://archive.org/download/independent_ie-2022/independent_ie-2022-07-20T03:19:05.550075+01:00.jpg"
-     alt="Independent.ie at 2022-07-20 03:19:07+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/independent_ie-2022/independent_ie-2022-07-20T03:19:05.550075+01:00.jpg">July 20 at 3:19 AM</a></p>
 </div>
 
 </div>

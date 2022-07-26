@@ -20,13 +20,40 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 7 screenshots with the Internet Archive.
+The archiving routine has saved 10 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-25T13:41:38.136787-05:00.jpg">
+  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-07-25T13:41:38.136787-05:00.jpg"
+     alt="Labor Notes at 2022-07-25 13:41:39-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-25T13:41:38.136787-05:00.jpg">July 25 at 1:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-25T11:37:42.076884-05:00.jpg">
+  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-07-25T11:37:42.076884-05:00.jpg"
+     alt="Labor Notes at 2022-07-25 11:37:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-25T11:37:42.076884-05:00.jpg">July 25 at 11:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-25T08:12:38.380175-05:00.jpg">
+  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-07-25T08:12:38.380175-05:00.jpg"
+     alt="Labor Notes at 2022-07-25 08:12:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-25T08:12:38.380175-05:00.jpg">July 25 at 8:12 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-24T22:28:31.382807-05:00.jpg">

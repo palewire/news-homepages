@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 3 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T11:51:51.531982-04:00.jpg">
+  <img src="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T11:51:51.531982-04:00.jpg"
+     alt="Western Gazette at 2022-07-25 11:51:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T11:51:51.531982-04:00.jpg">July 25 at 11:51 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T00:40:01.428009-04:00.jpg">

@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-25T20:21:16.220794-04:00.jpg">
+  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-25T20:21:16.220794-04:00.jpg"
+     alt="Nieman Lab at 2022-07-25 20:21:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-25T20:21:16.220794-04:00.jpg">July 25 at 8:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-25T09:17:24.871892-04:00.jpg">
+  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-25T09:17:24.871892-04:00.jpg"
+     alt="Nieman Lab at 2022-07-25 09:17:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-25T09:17:24.871892-04:00.jpg">July 25 at 9:17 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-24T23:37:06.662719-04:00.jpg">
@@ -116,24 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-20T12:10:49.425795-04:00.jpg">July 20 at 12:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-19T23:34:16.441553-04:00.jpg">
-  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-19T23:34:16.441553-04:00.jpg"
-     alt="Nieman Lab at 2022-07-19 23:34:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-19T23:34:16.441553-04:00.jpg">July 19 at 11:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-19T11:44:35.298014-04:00.jpg">
-  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-19T11:44:35.298014-04:00.jpg"
-     alt="Nieman Lab at 2022-07-19 11:44:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-19T11:44:35.298014-04:00.jpg">July 19 at 11:44 AM</a></p>
 </div>
 
 </div>

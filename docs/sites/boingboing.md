@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 80 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 80 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-25T16:09:59.825368-07:00.jpg">
+  <img src="https://archive.org/download/boingboing-2022/boingboing-2022-07-25T16:09:59.825368-07:00.jpg"
+     alt="Boing Boing at 2022-07-25 16:10:03-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-25T16:09:59.825368-07:00.jpg">July 25 at 4:10 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-25T04:00:05.073213-07:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-20T18:05:46.203619-07:00.jpg">July 20 at 6:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-20T05:53:53.939136-07:00.jpg">
-  <img src="https://archive.org/download/boingboing-2022/boingboing-2022-07-20T05:53:53.939136-07:00.jpg"
-     alt="Boing Boing at 2022-07-20 05:53:55-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-20T05:53:53.939136-07:00.jpg">July 20 at 5:53 AM</a></p>
 </div>
 
 </div>

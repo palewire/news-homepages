@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T18:58:47.659810+05:45.jpg">
+  <img src="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T18:58:47.659810+05:45.jpg"
+     alt="Lokpath at 2022-07-25 18:58:48+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T18:58:47.659810+05:45.jpg">July 25 at 6:58 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T09:15:17.705011+05:45.jpg">

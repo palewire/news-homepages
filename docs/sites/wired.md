@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 57 screenshots with the Internet Archive.
+The archiving routine has saved 58 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 57 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wired-2022/wired-2022-07-25T08:53:23.816492-07:00.jpg">
+  <img src="https://archive.org/download/wired-2022/wired-2022-07-25T08:53:23.816492-07:00.jpg"
+     alt="Wired at 2022-07-25 08:53:25-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wired-2022/wired-2022-07-25T08:53:23.816492-07:00.jpg">July 25 at 8:53 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wired-2022/wired-2022-07-24T23:47:41.210641-07:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/wired-2022/wired-2022-07-20T09:51:27.525720-07:00.jpg">July 20 at 9:51 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wired-2022/wired-2022-07-19T21:24:50.649000-07:00.jpg">
-  <img src="https://archive.org/download/wired-2022/wired-2022-07-19T21:24:50.649000-07:00.jpg"
-     alt="Wired at 2022-07-19 21:24:52-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wired-2022/wired-2022-07-19T21:24:50.649000-07:00.jpg">July 19 at 9:24 PM</a></p>
 </div>
 
 </div>

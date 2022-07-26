@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 77 screenshots with the Internet Archive.
+The archiving routine has saved 79 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/newyorker-2022/newyorker-2022-07-25T20:21:13.194468-04:00.jpg">
+  <img src="https://archive.org/download/newyorker-2022/newyorker-2022-07-25T20:21:13.194468-04:00.jpg"
+     alt="New Yorker at 2022-07-25 20:21:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newyorker-2022/newyorker-2022-07-25T20:21:13.194468-04:00.jpg">July 25 at 8:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newyorker-2022/newyorker-2022-07-25T09:17:26.998194-04:00.jpg">
+  <img src="https://archive.org/download/newyorker-2022/newyorker-2022-07-25T09:17:26.998194-04:00.jpg"
+     alt="New Yorker at 2022-07-25 09:17:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newyorker-2022/newyorker-2022-07-25T09:17:26.998194-04:00.jpg">July 25 at 9:17 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/newyorker-2022/newyorker-2022-07-24T23:35:51.769018-04:00.jpg">
   <img src="https://archive.org/download/newyorker-2022/newyorker-2022-07-24T23:35:51.769018-04:00.jpg"
      alt="New Yorker at 2022-07-24 23:35:53-04:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/newyorker-2022/newyorker-2022-07-20T12:10:32.741628-04:00.jpg">July 20 at 12:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newyorker-2022/newyorker-2022-07-19T23:34:18.196162-04:00.jpg">
-  <img src="https://archive.org/download/newyorker-2022/newyorker-2022-07-19T23:34:18.196162-04:00.jpg"
-     alt="New Yorker at 2022-07-19 23:34:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newyorker-2022/newyorker-2022-07-19T23:34:18.196162-04:00.jpg">July 19 at 11:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newyorker-2022/newyorker-2022-07-19T11:44:52.202606-04:00.jpg">
-  <img src="https://archive.org/download/newyorker-2022/newyorker-2022-07-19T11:44:52.202606-04:00.jpg"
-     alt="New Yorker at 2022-07-19 11:44:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newyorker-2022/newyorker-2022-07-19T11:44:52.202606-04:00.jpg">July 19 at 11:44 AM</a></p>
 </div>
 
 </div>

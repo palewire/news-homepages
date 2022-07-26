@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 3 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/usnews-2022/usnews-2022-07-25T11:50:49.040245-04:00.jpg">
+  <img src="https://archive.org/download/usnews-2022/usnews-2022-07-25T11:50:49.040245-04:00.jpg"
+     alt="U.S. News & World Report at 2022-07-25 11:50:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-07-25T11:50:49.040245-04:00.jpg">July 25 at 11:50 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usnews-2022/usnews-2022-07-25T00:39:45.548204-04:00.jpg">

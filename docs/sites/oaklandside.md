@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 220 screenshots with the Internet Archive.
+The archiving routine has saved 222 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T17:21:57.645667-07:00.jpg">
+  <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T17:21:57.645667-07:00.jpg"
+     alt="The Oaklandside at 2022-07-25 17:22:01-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T17:21:57.645667-07:00.jpg">July 25 at 5:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T08:35:17.151242-07:00.jpg">
+  <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T08:35:17.151242-07:00.jpg"
+     alt="The Oaklandside at 2022-07-25 08:35:18-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T08:35:17.151242-07:00.jpg">July 25 at 8:35 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T20:37:56.970910-07:00.jpg">
   <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T20:37:56.970910-07:00.jpg"
      alt="The Oaklandside at 2022-07-24 20:37:58-07:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-20T09:11:38.720981-07:00.jpg">July 20 at 9:11 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-19T20:35:28.690287-07:00.jpg">
-  <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-19T20:35:28.690287-07:00.jpg"
-     alt="The Oaklandside at 2022-07-19 20:35:29-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-19T20:35:28.690287-07:00.jpg">July 19 at 8:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-19T08:45:50.238487-07:00.jpg">
-  <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-19T08:45:50.238487-07:00.jpg"
-     alt="The Oaklandside at 2022-07-19 08:45:51-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-19T08:45:50.238487-07:00.jpg">July 19 at 8:45 AM</a></p>
 </div>
 
 </div>

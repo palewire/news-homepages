@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sinow-2022/sinow-2022-07-25T20:24:48.573213-04:00.jpg">
+  <img src="https://archive.org/download/sinow-2022/sinow-2022-07-25T20:24:48.573213-04:00.jpg"
+     alt="Sports Illustrated at 2022-07-25 20:24:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-25T20:24:48.573213-04:00.jpg">July 25 at 8:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sinow-2022/sinow-2022-07-25T11:41:44.902935-04:00.jpg">
+  <img src="https://archive.org/download/sinow-2022/sinow-2022-07-25T11:41:44.902935-04:00.jpg"
+     alt="Sports Illustrated at 2022-07-25 11:41:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-25T11:41:44.902935-04:00.jpg">July 25 at 11:41 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sinow-2022/sinow-2022-07-24T23:44:06.056230-04:00.jpg">
   <img src="https://archive.org/download/sinow-2022/sinow-2022-07-24T23:44:06.056230-04:00.jpg"
      alt="Sports Illustrated at 2022-07-24 23:44:09-04:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-20T12:42:14.436031-04:00.jpg">July 20 at 12:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sinow-2022/sinow-2022-07-20T00:18:38.296432-04:00.jpg">
-  <img src="https://archive.org/download/sinow-2022/sinow-2022-07-20T00:18:38.296432-04:00.jpg"
-     alt="Sports Illustrated at 2022-07-20 00:18:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-20T00:18:38.296432-04:00.jpg">July 20 at 12:18 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sinow-2022/sinow-2022-07-19T12:57:36.829945-04:00.jpg">
-  <img src="https://archive.org/download/sinow-2022/sinow-2022-07-19T12:57:36.829945-04:00.jpg"
-     alt="Sports Illustrated at 2022-07-19 12:57:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-19T12:57:36.829945-04:00.jpg">July 19 at 12:57 PM</a></p>
 </div>
 
 </div>

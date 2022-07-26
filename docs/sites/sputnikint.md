@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-25T18:43:40.823587+03:00.jpg">
+  <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-25T18:43:40.823587+03:00.jpg"
+     alt="Sputnik at 2022-07-25 18:43:43+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-25T18:43:40.823587+03:00.jpg">July 25 at 6:43 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-25T08:23:03.958330+03:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-22T07:29:21.843868+03:00.jpg">July 22 at 7:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-21T19:53:33.760338+03:00.jpg">
-  <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-21T19:53:33.760338+03:00.jpg"
-     alt="Sputnik at 2022-07-21 19:53:35+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-21T19:53:33.760338+03:00.jpg">July 21 at 7:53 PM</a></p>
 </div>
 
 </div>

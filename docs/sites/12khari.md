@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 3 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/12khari-2022/12khari-2022-07-26T04:49:54.292554+05:45.jpg">
+  <img src="https://archive.org/download/12khari-2022/12khari-2022-07-26T04:49:54.292554+05:45.jpg"
+     alt="Baahrakhari at 2022-07-26 04:49:56+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/12khari-2022/12khari-2022-07-26T04:49:54.292554+05:45.jpg">July 26 at 4:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/12khari-2022/12khari-2022-07-25T16:40:23.482123+05:45.jpg">

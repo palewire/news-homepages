@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-07-25T11:54:10.622414-04:00.jpg">
+  <img src="https://archive.org/download/wtoc11-2022/wtoc11-2022-07-25T11:54:10.622414-04:00.jpg"
+     alt="WTOC at 2022-07-25 11:54:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-07-25T11:54:10.622414-04:00.jpg">July 25 at 11:54 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-07-25T00:42:13.410535-04:00.jpg">

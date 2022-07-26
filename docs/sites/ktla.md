@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 253 screenshots with the Internet Archive.
+The archiving routine has saved 256 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ktla-2022/ktla-2022-07-25T17:17:36.330691-07:00.jpg">
+  <img src="https://archive.org/download/ktla-2022/ktla-2022-07-25T17:17:36.330691-07:00.jpg"
+     alt="KTLA at 2022-07-25 17:17:39-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ktla-2022/ktla-2022-07-25T17:17:36.330691-07:00.jpg">July 25 at 5:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ktla-2022/ktla-2022-07-25T11:13:40.187216-07:00.jpg">
+  <img src="https://archive.org/download/ktla-2022/ktla-2022-07-25T11:13:40.187216-07:00.jpg"
+     alt="KTLA at 2022-07-25 11:13:42-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ktla-2022/ktla-2022-07-25T11:13:40.187216-07:00.jpg">July 25 at 11:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ktla-2022/ktla-2022-07-25T06:10:57.078385-07:00.jpg">
+  <img src="https://archive.org/download/ktla-2022/ktla-2022-07-25T06:10:57.078385-07:00.jpg"
+     alt="KTLA at 2022-07-25 06:10:58-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ktla-2022/ktla-2022-07-25T06:10:57.078385-07:00.jpg">July 25 at 6:10 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ktla-2022/ktla-2022-07-24T20:26:09.491108-07:00.jpg">
   <img src="https://archive.org/download/ktla-2022/ktla-2022-07-24T20:26:09.491108-07:00.jpg"
      alt="KTLA at 2022-07-24 20:26:16-07:00 local time"
@@ -190,33 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/ktla-2022/ktla-2022-07-22T07:06:24.010710-07:00.jpg">July 22 at 7:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ktla-2022/ktla-2022-07-21T19:25:48.549404-07:00.jpg">
-  <img src="https://archive.org/download/ktla-2022/ktla-2022-07-21T19:25:48.549404-07:00.jpg"
-     alt="KTLA at 2022-07-21 19:25:55-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ktla-2022/ktla-2022-07-21T19:25:48.549404-07:00.jpg">July 21 at 7:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ktla-2022/ktla-2022-07-21T11:08:34.231695-07:00.jpg">
-  <img src="https://archive.org/download/ktla-2022/ktla-2022-07-21T11:08:34.231695-07:00.jpg"
-     alt="KTLA at 2022-07-21 11:08:45-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ktla-2022/ktla-2022-07-21T11:08:34.231695-07:00.jpg">July 21 at 11:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ktla-2022/ktla-2022-07-21T07:18:20.271121-07:00.jpg">
-  <img src="https://archive.org/download/ktla-2022/ktla-2022-07-21T07:18:20.271121-07:00.jpg"
-     alt="KTLA at 2022-07-21 07:18:27-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ktla-2022/ktla-2022-07-21T07:18:20.271121-07:00.jpg">July 21 at 7:18 AM</a></p>
 </div>
 
 </div>

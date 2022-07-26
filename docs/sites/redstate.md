@@ -20,13 +20,49 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 26 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T20:25:03.167755-04:00.jpg">
+  <img src="https://archive.org/download/redstate-2022/redstate-2022-07-25T20:25:03.167755-04:00.jpg"
+     alt="RedState at 2022-07-25 20:25:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T20:25:03.167755-04:00.jpg">July 25 at 8:25 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T14:39:13.174060-04:00.jpg">
+  <img src="https://archive.org/download/redstate-2022/redstate-2022-07-25T14:39:13.174060-04:00.jpg"
+     alt="RedState at 2022-07-25 14:39:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T14:39:13.174060-04:00.jpg">July 25 at 2:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T12:41:18.026530-04:00.jpg">
+  <img src="https://archive.org/download/redstate-2022/redstate-2022-07-25T12:41:18.026530-04:00.jpg"
+     alt="RedState at 2022-07-25 12:41:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T12:41:18.026530-04:00.jpg">July 25 at 12:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T11:39:25.243868-04:00.jpg">
+  <img src="https://archive.org/download/redstate-2022/redstate-2022-07-25T11:39:25.243868-04:00.jpg"
+     alt="RedState at 2022-07-25 11:39:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T11:39:25.243868-04:00.jpg">July 25 at 11:39 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/redstate-2022/redstate-2022-07-24T23:41:24.959680-04:00.jpg">
@@ -98,42 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-22T12:25:56.218414-04:00.jpg">July 22 at 12:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/redstate-2022/redstate-2022-07-22T11:03:58.356212-04:00.jpg">
-  <img src="https://archive.org/download/redstate-2022/redstate-2022-07-22T11:03:58.356212-04:00.jpg"
-     alt="RedState at 2022-07-22 11:04:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-22T11:03:58.356212-04:00.jpg">July 22 at 11:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/redstate-2022/redstate-2022-07-21T23:42:16.882208-04:00.jpg">
-  <img src="https://archive.org/download/redstate-2022/redstate-2022-07-21T23:42:16.882208-04:00.jpg"
-     alt="RedState at 2022-07-21 23:42:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-21T23:42:16.882208-04:00.jpg">July 21 at 11:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/redstate-2022/redstate-2022-07-21T13:02:30.555575-04:00.jpg">
-  <img src="https://archive.org/download/redstate-2022/redstate-2022-07-21T13:02:30.555575-04:00.jpg"
-     alt="RedState at 2022-07-21 13:02:32-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-21T13:02:30.555575-04:00.jpg">July 21 at 1:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/redstate-2022/redstate-2022-07-21T11:39:28.889400-04:00.jpg">
-  <img src="https://archive.org/download/redstate-2022/redstate-2022-07-21T11:39:28.889400-04:00.jpg"
-     alt="RedState at 2022-07-21 11:39:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-21T11:39:28.889400-04:00.jpg">July 21 at 11:39 AM</a></p>
 </div>
 
 </div>

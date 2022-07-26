@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-25T18:43:08.872929+03:00.jpg">
+  <img src="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-25T18:43:08.872929+03:00.jpg"
+     alt="TASS at 2022-07-25 18:43:12+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-25T18:43:08.872929+03:00.jpg">July 25 at 6:43 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-25T08:23:04.842857+03:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-22T07:29:25.922478+03:00.jpg">July 22 at 7:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-21T19:52:51.371679+03:00.jpg">
-  <img src="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-21T19:52:51.371679+03:00.jpg"
-     alt="TASS at 2022-07-21 19:52:53+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-21T19:52:51.371679+03:00.jpg">July 21 at 7:52 PM</a></p>
 </div>
 
 </div>

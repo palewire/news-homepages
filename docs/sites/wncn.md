@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 180 screenshots with the Internet Archive.
+The archiving routine has saved 181 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 180 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wncn-2022/wncn-2022-07-25T11:54:05.340103-04:00.jpg">
+  <img src="https://archive.org/download/wncn-2022/wncn-2022-07-25T11:54:05.340103-04:00.jpg"
+     alt="CBS 17 at 2022-07-25 11:54:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wncn-2022/wncn-2022-07-25T11:54:05.340103-04:00.jpg">July 25 at 11:54 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wncn-2022/wncn-2022-07-25T00:41:08.722313-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/wncn-2022/wncn-2022-07-20T00:25:01.155122-04:00.jpg">July 20 at 12:25 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wncn-2022/wncn-2022-07-19T13:06:52.455625-04:00.jpg">
-  <img src="https://archive.org/download/wncn-2022/wncn-2022-07-19T13:06:52.455625-04:00.jpg"
-     alt="CBS 17 at 2022-07-19 13:06:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wncn-2022/wncn-2022-07-19T13:06:52.455625-04:00.jpg">July 19 at 1:06 PM</a></p>
 </div>
 
 </div>

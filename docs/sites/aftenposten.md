@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 12 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/aftenposten-2022/aftenposten-2022-07-26T01:06:18.280002+02:00.jpg">
+  <img src="https://archive.org/download/aftenposten-2022/aftenposten-2022-07-26T01:06:18.280002+02:00.jpg"
+     alt="Aftenposten at 2022-07-26 01:06:19+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aftenposten-2022/aftenposten-2022-07-26T01:06:18.280002+02:00.jpg">July 26 at 1:06 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/aftenposten-2022/aftenposten-2022-07-25T12:56:23.918927+02:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/aftenposten-2022/aftenposten-2022-07-20T14:50:07.899336+02:00.jpg">July 20 at 2:50 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/aftenposten-2022/aftenposten-2022-07-20T13:36:58.260266+02:00.jpg">
-  <img src="https://archive.org/download/aftenposten-2022/aftenposten-2022-07-20T13:36:58.260266+02:00.jpg"
-     alt="Aftenposten at 2022-07-20 13:37:03+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/aftenposten-2022/aftenposten-2022-07-20T13:36:58.260266+02:00.jpg">July 20 at 1:37 PM</a></p>
 </div>
 
 </div>

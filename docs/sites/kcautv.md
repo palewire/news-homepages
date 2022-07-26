@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 185 screenshots with the Internet Archive.
+The archiving routine has saved 187 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kcautv-2022/kcautv-2022-07-25T11:38:20.026093-05:00.jpg">
+  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-07-25T11:38:20.026093-05:00.jpg"
+     alt="KCAU at 2022-07-25 11:38:24-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-07-25T11:38:20.026093-05:00.jpg">July 25 at 11:38 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcautv-2022/kcautv-2022-07-25T08:09:34.138053-05:00.jpg">
+  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-07-25T08:09:34.138053-05:00.jpg"
+     alt="KCAU at 2022-07-25 08:09:36-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-07-25T08:09:34.138053-05:00.jpg">July 25 at 8:09 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kcautv-2022/kcautv-2022-07-24T22:25:21.176694-05:00.jpg">
   <img src="https://archive.org/download/kcautv-2022/kcautv-2022-07-24T22:25:21.176694-05:00.jpg"
      alt="KCAU at 2022-07-24 22:25:22-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-07-20T21:26:52.325998-05:00.jpg">July 20 at 9:26 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kcautv-2022/kcautv-2022-07-20T11:54:33.057084-05:00.jpg">
-  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-07-20T11:54:33.057084-05:00.jpg"
-     alt="KCAU at 2022-07-20 11:54:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-07-20T11:54:33.057084-05:00.jpg">July 20 at 11:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kcautv-2022/kcautv-2022-07-20T09:28:18.345307-05:00.jpg">
-  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-07-20T09:28:18.345307-05:00.jpg"
-     alt="KCAU at 2022-07-20 09:28:19-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-07-20T09:28:18.345307-05:00.jpg">July 20 at 9:28 AM</a></p>
 </div>
 
 </div>

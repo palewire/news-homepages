@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 33 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-25T19:18:14.037446-05:00.jpg">
+  <img src="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-25T19:18:14.037446-05:00.jpg"
+     alt="Kansas City Defender at 2022-07-25 19:18:15-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-25T19:18:14.037446-05:00.jpg">July 25 at 7:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-25T08:09:28.580480-05:00.jpg">
+  <img src="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-25T08:09:28.580480-05:00.jpg"
+     alt="Kansas City Defender at 2022-07-25 08:09:30-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-25T08:09:28.580480-05:00.jpg">July 25 at 8:09 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-24T22:23:59.802977-05:00.jpg">
   <img src="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-24T22:23:59.802977-05:00.jpg"
      alt="Kansas City Defender at 2022-07-24 22:24:01-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-20T09:28:15.315070-05:00.jpg">July 20 at 9:28 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-19T21:20:31.206577-05:00.jpg">
-  <img src="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-19T21:20:31.206577-05:00.jpg"
-     alt="Kansas City Defender at 2022-07-19 21:20:33-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-19T21:20:31.206577-05:00.jpg">July 19 at 9:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-19T09:16:42.047354-05:00.jpg">
-  <img src="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-19T09:16:42.047354-05:00.jpg"
-     alt="Kansas City Defender at 2022-07-19 09:16:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-19T09:16:42.047354-05:00.jpg">July 19 at 9:16 AM</a></p>
 </div>
 
 </div>

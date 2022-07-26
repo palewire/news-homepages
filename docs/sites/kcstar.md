@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-25T19:16:04.682027-05:00.jpg">
+  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-25T19:16:04.682027-05:00.jpg"
+     alt="Kansas City Star at 2022-07-25 19:16:07-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-25T19:16:04.682027-05:00.jpg">July 25 at 7:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-25T08:09:38.235694-05:00.jpg">
+  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-25T08:09:38.235694-05:00.jpg"
+     alt="Kansas City Star at 2022-07-25 08:09:39-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-25T08:09:38.235694-05:00.jpg">July 25 at 8:09 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-24T22:26:37.487377-05:00.jpg">
   <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-24T22:26:37.487377-05:00.jpg"
      alt="Kansas City Star at 2022-07-24 22:26:38-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-20T09:27:55.326721-05:00.jpg">July 20 at 9:27 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-19T21:20:48.032735-05:00.jpg">
-  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-19T21:20:48.032735-05:00.jpg"
-     alt="Kansas City Star at 2022-07-19 21:20:50-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-19T21:20:48.032735-05:00.jpg">July 19 at 9:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-19T09:18:59.331710-05:00.jpg">
-  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-19T09:18:59.331710-05:00.jpg"
-     alt="Kansas City Star at 2022-07-19 09:19:00-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-19T09:18:59.331710-05:00.jpg">July 19 at 9:19 AM</a></p>
 </div>
 
 </div>

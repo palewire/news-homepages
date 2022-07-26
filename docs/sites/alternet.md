@@ -20,13 +20,40 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 26 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alternet-2022/alternet-2022-07-25T19:05:51.288770-04:00.jpg">
+  <img src="https://archive.org/download/alternet-2022/alternet-2022-07-25T19:05:51.288770-04:00.jpg"
+     alt="AlterNet at 2022-07-25 19:05:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alternet-2022/alternet-2022-07-25T19:05:51.288770-04:00.jpg">July 25 at 7:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alternet-2022/alternet-2022-07-25T14:39:54.574115-04:00.jpg">
+  <img src="https://archive.org/download/alternet-2022/alternet-2022-07-25T14:39:54.574115-04:00.jpg"
+     alt="AlterNet at 2022-07-25 14:39:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alternet-2022/alternet-2022-07-25T14:39:54.574115-04:00.jpg">July 25 at 2:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alternet-2022/alternet-2022-07-25T12:39:05.662030-04:00.jpg">
+  <img src="https://archive.org/download/alternet-2022/alternet-2022-07-25T12:39:05.662030-04:00.jpg"
+     alt="AlterNet at 2022-07-25 12:39:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alternet-2022/alternet-2022-07-25T12:39:05.662030-04:00.jpg">July 25 at 12:39 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/alternet-2022/alternet-2022-07-25T06:56:36.756134-04:00.jpg">
@@ -107,33 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/alternet-2022/alternet-2022-07-22T12:11:38.214184-04:00.jpg">July 22 at 12:11 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/alternet-2022/alternet-2022-07-22T08:56:05.931426-04:00.jpg">
-  <img src="https://archive.org/download/alternet-2022/alternet-2022-07-22T08:56:05.931426-04:00.jpg"
-     alt="AlterNet at 2022-07-22 08:56:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/alternet-2022/alternet-2022-07-22T08:56:05.931426-04:00.jpg">July 22 at 8:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/alternet-2022/alternet-2022-07-21T21:03:22.625280-04:00.jpg">
-  <img src="https://archive.org/download/alternet-2022/alternet-2022-07-21T21:03:22.625280-04:00.jpg"
-     alt="AlterNet at 2022-07-21 21:03:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/alternet-2022/alternet-2022-07-21T21:03:22.625280-04:00.jpg">July 21 at 9:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/alternet-2022/alternet-2022-07-21T12:49:45.129389-04:00.jpg">
-  <img src="https://archive.org/download/alternet-2022/alternet-2022-07-21T12:49:45.129389-04:00.jpg"
-     alt="AlterNet at 2022-07-21 12:49:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/alternet-2022/alternet-2022-07-21T12:49:45.129389-04:00.jpg">July 21 at 12:49 PM</a></p>
 </div>
 
 </div>

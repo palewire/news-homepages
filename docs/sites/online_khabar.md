@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-26T06:07:50.140901+05:45.jpg">
+  <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-26T06:07:50.140901+05:45.jpg"
+     alt="Online Khabar at 2022-07-26 06:07:52+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-26T06:07:50.140901+05:45.jpg">July 26 at 6:07 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T21:20:06.756373+05:45.jpg">
+  <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T21:20:06.756373+05:45.jpg"
+     alt="Online Khabar at 2022-07-25 21:20:09+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T21:20:06.756373+05:45.jpg">July 25 at 9:20 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T09:24:07.879419+05:45.jpg">

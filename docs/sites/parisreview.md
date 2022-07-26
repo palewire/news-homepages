@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-25T17:36:26.043335+02:00.jpg">
+  <img src="https://archive.org/download/parisreview-2022/parisreview-2022-07-25T17:36:26.043335+02:00.jpg"
+     alt="Paris Review at 2022-07-25 17:36:27+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-25T17:36:26.043335+02:00.jpg">July 25 at 5:36 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-25T05:39:12.769316+02:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-20T05:35:58.387645+02:00.jpg">July 20 at 5:36 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-19T17:46:45.644355+02:00.jpg">
-  <img src="https://archive.org/download/parisreview-2022/parisreview-2022-07-19T17:46:45.644355+02:00.jpg"
-     alt="Paris Review at 2022-07-19 17:46:46+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-19T17:46:45.644355+02:00.jpg">July 19 at 5:46 PM</a></p>
 </div>
 
 </div>

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 201 screenshots with the Internet Archive.
+The archiving routine has saved 205 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/oann-2022/oann-2022-07-25T20:21:46.437861-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-07-25T20:21:46.437861-04:00.jpg"
+     alt="One America News Network at 2022-07-25 20:21:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-07-25T20:21:46.437861-04:00.jpg">July 25 at 8:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oann-2022/oann-2022-07-25T14:39:03.243732-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-07-25T14:39:03.243732-04:00.jpg"
+     alt="One America News Network at 2022-07-25 14:39:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-07-25T14:39:03.243732-04:00.jpg">July 25 at 2:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oann-2022/oann-2022-07-25T12:41:13.406786-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-07-25T12:41:13.406786-04:00.jpg"
+     alt="One America News Network at 2022-07-25 12:41:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-07-25T12:41:13.406786-04:00.jpg">July 25 at 12:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oann-2022/oann-2022-07-25T11:34:42.521999-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-07-25T11:34:42.521999-04:00.jpg"
+     alt="One America News Network at 2022-07-25 11:34:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-07-25T11:34:42.521999-04:00.jpg">July 25 at 11:34 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/oann-2022/oann-2022-07-24T23:38:39.137800-04:00.jpg">
   <img src="https://archive.org/download/oann-2022/oann-2022-07-24T23:38:39.137800-04:00.jpg"
      alt="One America News Network at 2022-07-24 23:38:42-04:00 local time"
@@ -181,42 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/oann-2022/oann-2022-07-22T12:25:21.103985-04:00.jpg">July 22 at 12:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-07-22T11:00:46.837949-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-07-22T11:00:46.837949-04:00.jpg"
-     alt="One America News Network at 2022-07-22 11:00:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-07-22T11:00:46.837949-04:00.jpg">July 22 at 11:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-07-21T23:40:02.142003-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-07-21T23:40:02.142003-04:00.jpg"
-     alt="One America News Network at 2022-07-21 23:40:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-07-21T23:40:02.142003-04:00.jpg">July 21 at 11:40 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-07-21T13:02:02.549820-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-07-21T13:02:02.549820-04:00.jpg"
-     alt="One America News Network at 2022-07-21 13:02:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-07-21T13:02:02.549820-04:00.jpg">July 21 at 1:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-07-21T11:35:26.977952-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-07-21T11:35:26.977952-04:00.jpg"
-     alt="One America News Network at 2022-07-21 11:35:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-07-21T11:35:26.977952-04:00.jpg">July 21 at 11:35 AM</a></p>
 </div>
 
 </div>

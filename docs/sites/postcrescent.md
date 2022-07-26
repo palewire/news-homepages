@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 186 screenshots with the Internet Archive.
+The archiving routine has saved 188 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-07-25T19:23:56.137188-05:00.jpg">
+  <img src="https://archive.org/download/postcrescent-2022/postcrescent-2022-07-25T19:23:56.137188-05:00.jpg"
+     alt="Appleton Post Crescent at 2022-07-25 19:24:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-07-25T19:23:56.137188-05:00.jpg">July 25 at 7:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-07-25T10:37:37.667780-05:00.jpg">
+  <img src="https://archive.org/download/postcrescent-2022/postcrescent-2022-07-25T10:37:37.667780-05:00.jpg"
+     alt="Appleton Post Crescent at 2022-07-25 10:37:39-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-07-25T10:37:37.667780-05:00.jpg">July 25 at 10:37 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-07-24T22:40:12.577386-05:00.jpg">
   <img src="https://archive.org/download/postcrescent-2022/postcrescent-2022-07-24T22:40:12.577386-05:00.jpg"
      alt="Appleton Post Crescent at 2022-07-24 22:40:14-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-07-20T11:13:48.894888-05:00.jpg">July 20 at 11:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-07-19T22:36:56.511786-05:00.jpg">
-  <img src="https://archive.org/download/postcrescent-2022/postcrescent-2022-07-19T22:36:56.511786-05:00.jpg"
-     alt="Appleton Post Crescent at 2022-07-19 22:36:59-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-07-19T22:36:56.511786-05:00.jpg">July 19 at 10:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-07-19T10:47:07.106363-05:00.jpg">
-  <img src="https://archive.org/download/postcrescent-2022/postcrescent-2022-07-19T10:47:07.106363-05:00.jpg"
-     alt="Appleton Post Crescent at 2022-07-19 10:47:10-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-07-19T10:47:07.106363-05:00.jpg">July 19 at 10:47 AM</a></p>
 </div>
 
 </div>

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T19:12:02.116054-04:00.jpg">
+  <img src="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T19:12:02.116054-04:00.jpg"
+     alt="CoinDesk at 2022-07-25 19:12:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T19:12:02.116054-04:00.jpg">July 25 at 7:12 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T07:03:03.739211-04:00.jpg">

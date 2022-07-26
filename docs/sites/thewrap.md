@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thewrap-2022/thewrap-2022-07-25T08:48:55.623499-07:00.jpg">
+  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-07-25T08:48:55.623499-07:00.jpg"
+     alt="Wrap at 2022-07-25 08:48:57-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-07-25T08:48:55.623499-07:00.jpg">July 25 at 8:48 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thewrap-2022/thewrap-2022-07-24T21:37:35.510400-07:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-07-19T21:22:42.007553-07:00.jpg">July 19 at 9:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thewrap-2022/thewrap-2022-07-19T10:02:41.076111-07:00.jpg">
-  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-07-19T10:02:41.076111-07:00.jpg"
-     alt="Wrap at 2022-07-19 10:02:42-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-07-19T10:02:41.076111-07:00.jpg">July 19 at 10:02 AM</a></p>
 </div>
 
 </div>

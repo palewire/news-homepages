@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 280 screenshots with the Internet Archive.
+The archiving routine has saved 282 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-25T11:14:34.342189-07:00.jpg">
+  <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-25T11:14:34.342189-07:00.jpg"
+     alt="Riverside Press-Enterprise at 2022-07-25 11:14:39-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-25T11:14:34.342189-07:00.jpg">July 25 at 11:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-25T08:37:38.571144-07:00.jpg">
+  <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-25T08:37:38.571144-07:00.jpg"
+     alt="Riverside Press-Enterprise at 2022-07-25 08:37:40-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-25T08:37:38.571144-07:00.jpg">July 25 at 8:37 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-24T20:40:15.791540-07:00.jpg">
   <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-24T20:40:15.791540-07:00.jpg"
      alt="Riverside Press-Enterprise at 2022-07-24 20:40:21-07:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-21T20:41:18.607403-07:00.jpg">July 21 at 8:41 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-21T11:08:34.178396-07:00.jpg">
-  <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-21T11:08:34.178396-07:00.jpg"
-     alt="Riverside Press-Enterprise at 2022-07-21 11:08:36-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-21T11:08:34.178396-07:00.jpg">July 21 at 11:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-21T08:37:44.603279-07:00.jpg">
-  <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-21T08:37:44.603279-07:00.jpg"
-     alt="Riverside Press-Enterprise at 2022-07-21 08:37:46-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-21T08:37:44.603279-07:00.jpg">July 21 at 8:37 AM</a></p>
 </div>
 
 </div>

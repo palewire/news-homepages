@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-25T08:52:14.254883-07:00.jpg">
+  <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-25T08:52:14.254883-07:00.jpg"
+     alt="Voices of Monterey Bay at 2022-07-25 08:52:16-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-25T08:52:14.254883-07:00.jpg">July 25 at 8:52 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T21:41:10.929280-07:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-19T21:24:19.075095-07:00.jpg">July 19 at 9:24 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-19T10:04:09.723501-07:00.jpg">
-  <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-19T10:04:09.723501-07:00.jpg"
-     alt="Voices of Monterey Bay at 2022-07-19 10:04:16-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-19T10:04:09.723501-07:00.jpg">July 19 at 10:04 AM</a></p>
 </div>
 
 </div>

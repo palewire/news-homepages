@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-25T18:04:49.761445-05:00.jpg">
+  <img src="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-25T18:04:49.761445-05:00.jpg"
+     alt="12 News Now at 2022-07-25 18:04:51-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-25T18:04:49.761445-05:00.jpg">July 25 at 6:04 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-25T05:56:43.795672-05:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-20T07:50:06.920256-05:00.jpg">July 20 at 7:50 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-19T19:57:12.560608-05:00.jpg">
-  <img src="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-19T19:57:12.560608-05:00.jpg"
-     alt="12 News Now at 2022-07-19 19:57:13-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-19T19:57:12.560608-05:00.jpg">July 19 at 7:57 PM</a></p>
 </div>
 
 </div>

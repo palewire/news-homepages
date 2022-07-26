@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 41 screenshots with the Internet Archive.
+The archiving routine has saved 42 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 41 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-07-25T08:40:41.472143-07:00.jpg">
+  <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-07-25T08:40:41.472143-07:00.jpg"
+     alt="Santa Cruz Sentinel at 2022-07-25 08:40:44-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-07-25T08:40:41.472143-07:00.jpg">July 25 at 8:40 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-07-24T20:42:45.823854-07:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-07-19T09:56:53.009485-07:00.jpg">July 19 at 9:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-07-18T21:22:36.021270-07:00.jpg">
-  <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-07-18T21:22:36.021270-07:00.jpg"
-     alt="Santa Cruz Sentinel at 2022-07-18 21:22:38-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-07-18T21:22:36.021270-07:00.jpg">July 18 at 9:22 PM</a></p>
 </div>
 
 </div>

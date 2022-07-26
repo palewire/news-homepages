@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 188 screenshots with the Internet Archive.
+The archiving routine has saved 190 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-25T19:24:28.392950-05:00.jpg">
+  <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-25T19:24:28.392950-05:00.jpg"
+     alt="Sahan Journal at 2022-07-25 19:24:33-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-25T19:24:28.392950-05:00.jpg">July 25 at 7:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-25T10:40:23.811235-05:00.jpg">
+  <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-25T10:40:23.811235-05:00.jpg"
+     alt="Sahan Journal at 2022-07-25 10:40:27-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-25T10:40:23.811235-05:00.jpg">July 25 at 10:40 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-24T22:42:06.632810-05:00.jpg">
   <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-24T22:42:06.632810-05:00.jpg"
      alt="Sahan Journal at 2022-07-24 22:42:10-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-20T11:42:20.062338-05:00.jpg">July 20 at 11:42 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-19T22:38:41.585824-05:00.jpg">
-  <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-19T22:38:41.585824-05:00.jpg"
-     alt="Sahan Journal at 2022-07-19 22:38:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-19T22:38:41.585824-05:00.jpg">July 19 at 10:38 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-19T10:49:32.377033-05:00.jpg">
-  <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-19T10:49:32.377033-05:00.jpg"
-     alt="Sahan Journal at 2022-07-19 10:49:34-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-19T10:49:32.377033-05:00.jpg">July 19 at 10:49 AM</a></p>
 </div>
 
 </div>

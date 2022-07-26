@@ -20,13 +20,40 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 26 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-25T14:39:38.359550-04:00.jpg">
+  <img src="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-25T14:39:38.359550-04:00.jpg"
+     alt="Townhall at 2022-07-25 14:39:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-25T14:39:38.359550-04:00.jpg">July 25 at 2:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-25T12:41:57.843695-04:00.jpg">
+  <img src="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-25T12:41:57.843695-04:00.jpg"
+     alt="Townhall at 2022-07-25 12:41:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-25T12:41:57.843695-04:00.jpg">July 25 at 12:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-25T11:49:27.140242-04:00.jpg">
+  <img src="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-25T11:49:27.140242-04:00.jpg"
+     alt="Townhall at 2022-07-25 11:49:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-25T11:49:27.140242-04:00.jpg">July 25 at 11:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-25T00:38:32.665938-04:00.jpg">
@@ -107,33 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-22T12:19:54.205405-04:00.jpg">July 22 at 12:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-22T00:33:36.349143-04:00.jpg">
-  <img src="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-22T00:33:36.349143-04:00.jpg"
-     alt="Townhall at 2022-07-22 00:33:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-22T00:33:36.349143-04:00.jpg">July 22 at 12:33 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-21T13:02:12.811486-04:00.jpg">
-  <img src="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-21T13:02:12.811486-04:00.jpg"
-     alt="Townhall at 2022-07-21 13:02:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-21T13:02:12.811486-04:00.jpg">July 21 at 1:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-21T12:57:06.293278-04:00.jpg">
-  <img src="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-21T12:57:06.293278-04:00.jpg"
-     alt="Townhall at 2022-07-21 12:57:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-21T12:57:06.293278-04:00.jpg">July 21 at 12:57 PM</a></p>
 </div>
 
 </div>

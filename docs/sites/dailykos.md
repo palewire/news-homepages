@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-25T14:40:03.041821-04:00.jpg">
+  <img src="https://archive.org/download/dailykos-2022/dailykos-2022-07-25T14:40:03.041821-04:00.jpg"
+     alt="Daily Kos at 2022-07-25 14:40:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-25T14:40:03.041821-04:00.jpg">July 25 at 2:40 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-25T12:39:46.753041-04:00.jpg">
+  <img src="https://archive.org/download/dailykos-2022/dailykos-2022-07-25T12:39:46.753041-04:00.jpg"
+     alt="Daily Kos at 2022-07-25 12:39:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-25T12:39:46.753041-04:00.jpg">July 25 at 12:39 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-25T07:58:32.633649-04:00.jpg">
@@ -116,24 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-22T09:03:03.426693-04:00.jpg">July 22 at 9:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-21T21:10:41.819950-04:00.jpg">
-  <img src="https://archive.org/download/dailykos-2022/dailykos-2022-07-21T21:10:41.819950-04:00.jpg"
-     alt="Daily Kos at 2022-07-21 21:10:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-21T21:10:41.819950-04:00.jpg">July 21 at 9:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-21T12:49:57.905422-04:00.jpg">
-  <img src="https://archive.org/download/dailykos-2022/dailykos-2022-07-21T12:49:57.905422-04:00.jpg"
-     alt="Daily Kos at 2022-07-21 12:49:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-21T12:49:57.905422-04:00.jpg">July 21 at 12:49 PM</a></p>
 </div>
 
 </div>

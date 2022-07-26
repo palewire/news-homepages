@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 77 screenshots with the Internet Archive.
+The archiving routine has saved 79 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/rfi-2022/rfi-2022-07-26T02:23:58.594091+02:00.jpg">
+  <img src="https://archive.org/download/rfi-2022/rfi-2022-07-26T02:23:58.594091+02:00.jpg"
+     alt="RFI at 2022-07-26 02:24:01+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-26T02:23:58.594091+02:00.jpg">July 26 at 2:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rfi-2022/rfi-2022-07-25T17:39:09.214139+02:00.jpg">
+  <img src="https://archive.org/download/rfi-2022/rfi-2022-07-25T17:39:09.214139+02:00.jpg"
+     alt="RFI at 2022-07-25 17:39:10+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-25T17:39:09.214139+02:00.jpg">July 25 at 5:39 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/rfi-2022/rfi-2022-07-25T10:09:07.464354+02:00.jpg">
   <img src="https://archive.org/download/rfi-2022/rfi-2022-07-25T10:09:07.464354+02:00.jpg"
      alt="RFI at 2022-07-25 10:09:09+02:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-22T10:07:04.957249+02:00.jpg">July 22 at 10:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rfi-2022/rfi-2022-07-22T05:42:39.609119+02:00.jpg">
-  <img src="https://archive.org/download/rfi-2022/rfi-2022-07-22T05:42:39.609119+02:00.jpg"
-     alt="RFI at 2022-07-22 05:42:41+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-22T05:42:39.609119+02:00.jpg">July 22 at 5:42 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rfi-2022/rfi-2022-07-21T17:38:49.672644+02:00.jpg">
-  <img src="https://archive.org/download/rfi-2022/rfi-2022-07-21T17:38:49.672644+02:00.jpg"
-     alt="RFI at 2022-07-21 17:38:53+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-21T17:38:49.672644+02:00.jpg">July 21 at 5:38 PM</a></p>
 </div>
 
 </div>

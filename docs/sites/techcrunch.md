@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 109 screenshots with the Internet Archive.
+The archiving routine has saved 110 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 109 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-25T08:44:46.017177-07:00.jpg">
+  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-25T08:44:46.017177-07:00.jpg"
+     alt="TechCrunch at 2022-07-25 08:44:47-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-25T08:44:46.017177-07:00.jpg">July 25 at 8:44 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-24T23:46:47.716807-07:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-20T09:43:31.434068-07:00.jpg">July 20 at 9:43 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-19T21:20:11.744380-07:00.jpg">
-  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-19T21:20:11.744380-07:00.jpg"
-     alt="TechCrunch at 2022-07-19 21:20:14-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-19T21:20:11.744380-07:00.jpg">July 19 at 9:20 PM</a></p>
 </div>
 
 </div>

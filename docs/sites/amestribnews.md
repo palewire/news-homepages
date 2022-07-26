@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 106 screenshots with the Internet Archive.
+The archiving routine has saved 108 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-25T18:05:59.814125-05:00.jpg">
+  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-25T18:05:59.814125-05:00.jpg"
+     alt="Ames Tribune at 2022-07-25 18:06:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-25T18:05:59.814125-05:00.jpg">July 25 at 6:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-25T11:38:23.829161-05:00.jpg">
+  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-25T11:38:23.829161-05:00.jpg"
+     alt="Ames Tribune at 2022-07-25 11:38:27-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-25T11:38:23.829161-05:00.jpg">July 25 at 11:38 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-25T05:57:20.011879-05:00.jpg">
   <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-25T05:57:20.011879-05:00.jpg"
      alt="Ames Tribune at 2022-07-25 05:57:29-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-21T07:50:42.617493-05:00.jpg">July 21 at 7:50 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-20T20:02:51.060238-05:00.jpg">
-  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-20T20:02:51.060238-05:00.jpg"
-     alt="Ames Tribune at 2022-07-20 20:02:52-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-20T20:02:51.060238-05:00.jpg">July 20 at 8:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-20T11:54:26.072249-05:00.jpg">
-  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-20T11:54:26.072249-05:00.jpg"
-     alt="Ames Tribune at 2022-07-20 11:54:28-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-20T11:54:26.072249-05:00.jpg">July 20 at 11:54 AM</a></p>
 </div>
 
 </div>

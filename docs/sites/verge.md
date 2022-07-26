@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 91 screenshots with the Internet Archive.
+The archiving routine has saved 92 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 91 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/verge-2022/verge-2022-07-25T11:52:12.323033-04:00.jpg">
+  <img src="https://archive.org/download/verge-2022/verge-2022-07-25T11:52:12.323033-04:00.jpg"
+     alt="Verge at 2022-07-25 11:52:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/verge-2022/verge-2022-07-25T11:52:12.323033-04:00.jpg">July 25 at 11:52 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/verge-2022/verge-2022-07-25T02:47:53.060519-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/verge-2022/verge-2022-07-20T12:48:40.376648-04:00.jpg">July 20 at 12:48 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/verge-2022/verge-2022-07-20T00:23:54.099395-04:00.jpg">
-  <img src="https://archive.org/download/verge-2022/verge-2022-07-20T00:23:54.099395-04:00.jpg"
-     alt="Verge at 2022-07-20 00:23:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/verge-2022/verge-2022-07-20T00:23:54.099395-04:00.jpg">July 20 at 12:23 AM</a></p>
 </div>
 
 </div>

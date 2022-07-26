@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 98 screenshots with the Internet Archive.
+The archiving routine has saved 99 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 98 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-25T11:47:32.328597-04:00.jpg">
+  <img src="https://archive.org/download/themarkup-2022/themarkup-2022-07-25T11:47:32.328597-04:00.jpg"
+     alt="The Markup at 2022-07-25 11:47:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-25T11:47:32.328597-04:00.jpg">July 25 at 11:47 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-25T02:46:45.342966-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-20T12:46:09.409582-04:00.jpg">July 20 at 12:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-20T00:21:57.842606-04:00.jpg">
-  <img src="https://archive.org/download/themarkup-2022/themarkup-2022-07-20T00:21:57.842606-04:00.jpg"
-     alt="The Markup at 2022-07-20 00:21:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-20T00:21:57.842606-04:00.jpg">July 20 at 12:21 AM</a></p>
 </div>
 
 </div>

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 131 screenshots with the Internet Archive.
+The archiving routine has saved 134 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-25T17:14:31.886082-04:00.jpg">
+  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-25T17:14:31.886082-04:00.jpg"
+     alt="Yahoo! News at 2022-07-25 17:14:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-25T17:14:31.886082-04:00.jpg">July 25 at 5:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-25T11:55:55.917478-04:00.jpg">
+  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-25T11:55:55.917478-04:00.jpg"
+     alt="Yahoo! News at 2022-07-25 11:55:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-25T11:55:55.917478-04:00.jpg">July 25 at 11:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-25T11:54:31.417605-04:00.jpg">
+  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-25T11:54:31.417605-04:00.jpg"
+     alt="Yahoo! News at 2022-07-25 11:54:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-25T11:54:31.417605-04:00.jpg">July 25 at 11:54 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-25T00:42:17.235682-04:00.jpg">
   <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-25T00:42:17.235682-04:00.jpg"
      alt="Yahoo! News at 2022-07-25 00:42:18-04:00 local time"
@@ -190,33 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-23T00:31:39.566588-04:00.jpg">July 23 at 12:31 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-22T17:09:03.222198-04:00.jpg">
-  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-22T17:09:03.222198-04:00.jpg"
-     alt="Yahoo! News at 2022-07-22 17:09:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-22T17:09:03.222198-04:00.jpg">July 22 at 5:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-22T12:23:54.195152-04:00.jpg">
-  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-22T12:23:54.195152-04:00.jpg"
-     alt="Yahoo! News at 2022-07-22 12:24:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-22T12:23:54.195152-04:00.jpg">July 22 at 12:24 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-22T11:05:54.168133-04:00.jpg">
-  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-22T11:05:54.168133-04:00.jpg"
-     alt="Yahoo! News at 2022-07-22 11:06:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-22T11:05:54.168133-04:00.jpg">July 22 at 11:06 AM</a></p>
 </div>
 
 </div>

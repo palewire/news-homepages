@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-07-25T16:13:04.558068+03:00.jpg">
+  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-07-25T16:13:04.558068+03:00.jpg"
+     alt="Lenta.ru at 2022-07-25 16:13:06+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-07-25T16:13:04.558068+03:00.jpg">July 25 at 4:13 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-07-25T08:23:03.703506+03:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-07-22T06:35:15.423642+03:00.jpg">July 22 at 6:35 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-07-21T18:27:46.134805+03:00.jpg">
-  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-07-21T18:27:46.134805+03:00.jpg"
-     alt="Lenta.ru at 2022-07-21 18:27:48+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-07-21T18:27:46.134805+03:00.jpg">July 21 at 6:27 PM</a></p>
 </div>
 
 </div>

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 282 screenshots with the Internet Archive.
+The archiving routine has saved 284 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T11:13:19.949635-07:00.jpg">
+  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T11:13:19.949635-07:00.jpg"
+     alt="KPCC at 2022-07-25 11:13:22-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T11:13:19.949635-07:00.jpg">July 25 at 11:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T06:11:49.994696-07:00.jpg">
+  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T06:11:49.994696-07:00.jpg"
+     alt="KPCC at 2022-07-25 06:11:51-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T06:11:49.994696-07:00.jpg">July 25 at 6:11 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-24T20:26:33.902745-07:00.jpg">
   <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-24T20:26:33.902745-07:00.jpg"
      alt="KPCC at 2022-07-24 20:26:35-07:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-21T19:25:25.661986-07:00.jpg">July 21 at 7:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-21T11:09:01.038409-07:00.jpg">
-  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-21T11:09:01.038409-07:00.jpg"
-     alt="KPCC at 2022-07-21 11:09:08-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-21T11:09:01.038409-07:00.jpg">July 21 at 11:09 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-21T07:15:08.071464-07:00.jpg">
-  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-21T07:15:08.071464-07:00.jpg"
-     alt="KPCC at 2022-07-21 07:15:10-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-21T07:15:08.071464-07:00.jpg">July 21 at 7:15 AM</a></p>
 </div>
 
 </div>

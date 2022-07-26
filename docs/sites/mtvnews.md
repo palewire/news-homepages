@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-25T20:19:52.010346-04:00.jpg">
+  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-25T20:19:52.010346-04:00.jpg"
+     alt="MTV News at 2022-07-25 20:19:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-25T20:19:52.010346-04:00.jpg">July 25 at 8:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-25T09:15:11.489753-04:00.jpg">
+  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-25T09:15:11.489753-04:00.jpg"
+     alt="MTV News at 2022-07-25 09:15:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-25T09:15:11.489753-04:00.jpg">July 25 at 9:15 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-24T23:33:33.061500-04:00.jpg">
@@ -116,24 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-20T12:08:15.934889-04:00.jpg">July 20 at 12:08 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-19T23:33:00.244416-04:00.jpg">
-  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-19T23:33:00.244416-04:00.jpg"
-     alt="MTV News at 2022-07-19 23:33:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-19T23:33:00.244416-04:00.jpg">July 19 at 11:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-19T11:43:06.435057-04:00.jpg">
-  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-19T11:43:06.435057-04:00.jpg"
-     alt="MTV News at 2022-07-19 11:43:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-19T11:43:06.435057-04:00.jpg">July 19 at 11:43 AM</a></p>
 </div>
 
 </div>

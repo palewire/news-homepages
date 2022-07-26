@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 280 screenshots with the Internet Archive.
+The archiving routine has saved 282 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-25T11:14:32.613317-07:00.jpg">
+  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-07-25T11:14:32.613317-07:00.jpg"
+     alt="Ventura County Star at 2022-07-25 11:14:34-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-25T11:14:32.613317-07:00.jpg">July 25 at 11:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-25T08:51:24.271449-07:00.jpg">
+  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-07-25T08:51:24.271449-07:00.jpg"
+     alt="Ventura County Star at 2022-07-25 08:51:28-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-25T08:51:24.271449-07:00.jpg">July 25 at 8:51 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-24T21:39:46.612503-07:00.jpg">
   <img src="https://archive.org/download/vcstar-2022/vcstar-2022-07-24T21:39:46.612503-07:00.jpg"
      alt="Ventura County Star at 2022-07-24 21:39:57-07:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-21T21:34:30.736104-07:00.jpg">July 21 at 9:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-21T11:09:47.951069-07:00.jpg">
-  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-07-21T11:09:47.951069-07:00.jpg"
-     alt="Ventura County Star at 2022-07-21 11:09:50-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-21T11:09:47.951069-07:00.jpg">July 21 at 11:09 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-21T09:58:20.904069-07:00.jpg">
-  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-07-21T09:58:20.904069-07:00.jpg"
-     alt="Ventura County Star at 2022-07-21 09:58:22-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-21T09:58:20.904069-07:00.jpg">July 21 at 9:58 AM</a></p>
 </div>
 
 </div>

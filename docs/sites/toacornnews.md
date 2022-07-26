@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 123 screenshots with the Internet Archive.
+The archiving routine has saved 125 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-25T11:14:27.613310-07:00.jpg">
+  <img src="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-25T11:14:27.613310-07:00.jpg"
+     alt="Thousand Oaks Acorn at 2022-07-25 11:14:29-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-25T11:14:27.613310-07:00.jpg">July 25 at 11:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-25T08:49:59.248886-07:00.jpg">
+  <img src="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-25T08:49:59.248886-07:00.jpg"
+     alt="Thousand Oaks Acorn at 2022-07-25 08:50:04-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-25T08:49:59.248886-07:00.jpg">July 25 at 8:50 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-24T21:38:45.458292-07:00.jpg">
   <img src="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-24T21:38:45.458292-07:00.jpg"
      alt="Thousand Oaks Acorn at 2022-07-24 21:38:51-07:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-21T21:33:23.930180-07:00.jpg">July 21 at 9:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-21T11:09:44.705474-07:00.jpg">
-  <img src="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-21T11:09:44.705474-07:00.jpg"
-     alt="Thousand Oaks Acorn at 2022-07-21 11:09:54-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-21T11:09:44.705474-07:00.jpg">July 21 at 11:09 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-21T09:57:05.989937-07:00.jpg">
-  <img src="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-21T09:57:05.989937-07:00.jpg"
-     alt="Thousand Oaks Acorn at 2022-07-21 09:57:07-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-21T09:57:05.989937-07:00.jpg">July 21 at 9:57 AM</a></p>
 </div>
 
 </div>

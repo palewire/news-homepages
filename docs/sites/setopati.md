@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/setopati-2022/setopati-2022-07-25T21:26:42.636116+05:45.jpg">
+  <img src="https://archive.org/download/setopati-2022/setopati-2022-07-25T21:26:42.636116+05:45.jpg"
+     alt="Setopati at 2022-07-25 21:26:44+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/setopati-2022/setopati-2022-07-25T21:26:42.636116+05:45.jpg">July 25 at 9:26 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/setopati-2022/setopati-2022-07-25T09:28:12.225560+05:45.jpg">

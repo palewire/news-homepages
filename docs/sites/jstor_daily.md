@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 0 screenshots with the Internet Archive.
+The archiving routine has saved 1 screenshots with the Internet Archive.
 
 
 
@@ -28,9 +28,19 @@ Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
 
+<div class="latest-child">
+ <a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-25T20:15:35.918536-04:00.jpg">
+  <img src="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-25T20:15:35.918536-04:00.jpg"
+     alt="JSTOR Daily at 2022-07-25 20:15:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-25T20:15:35.918536-04:00.jpg">July 25 at 8:15 PM</a></p>
+</div>
+
 </div>
 
 ## Internet Archive
 
 | Item  |
 | :---- |
+|[jstor_daily-2022](https://archive.org/details/jstor_daily-2022)|

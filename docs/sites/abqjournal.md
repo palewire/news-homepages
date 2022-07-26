@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 190 screenshots with the Internet Archive.
+The archiving routine has saved 191 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 190 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T17:05:51.403974-06:00.jpg">
+  <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T17:05:51.403974-06:00.jpg"
+     alt="Albuquerque Journal at 2022-07-25 17:05:57-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T17:05:51.403974-06:00.jpg">July 25 at 5:05 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T04:56:16.169444-06:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-20T06:50:48.489604-06:00.jpg">July 20 at 6:50 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-19T18:57:02.645061-06:00.jpg">
-  <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-19T18:57:02.645061-06:00.jpg"
-     alt="Albuquerque Journal at 2022-07-19 18:57:04-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-19T18:57:02.645061-06:00.jpg">July 19 at 6:57 PM</a></p>
 </div>
 
 </div>

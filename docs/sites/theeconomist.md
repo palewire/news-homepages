@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-07-25T16:46:13.551999+01:00.jpg">
+  <img src="https://archive.org/download/theeconomist-2022/theeconomist-2022-07-25T16:46:13.551999+01:00.jpg"
+     alt="Economist at 2022-07-25 16:46:15+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-07-25T16:46:13.551999+01:00.jpg">July 25 at 4:46 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-07-25T05:36:29.709579+01:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-07-20T05:20:56.908490+01:00.jpg">July 20 at 5:20 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-07-19T18:00:21.582098+01:00.jpg">
-  <img src="https://archive.org/download/theeconomist-2022/theeconomist-2022-07-19T18:00:21.582098+01:00.jpg"
-     alt="Economist at 2022-07-19 18:00:22+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-07-19T18:00:21.582098+01:00.jpg">July 19 at 6:00 PM</a></p>
 </div>
 
 </div>

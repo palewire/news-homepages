@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 620 screenshots with the Internet Archive.
+The archiving routine has saved 622 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/cnn-2022/cnn-2022-07-25T17:14:15.534852-04:00.jpg">
+  <img src="https://archive.org/download/cnn-2022/cnn-2022-07-25T17:14:15.534852-04:00.jpg"
+     alt="CNN at 2022-07-25 17:14:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-25T17:14:15.534852-04:00.jpg">July 25 at 5:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnn-2022/cnn-2022-07-25T11:55:14.985072-04:00.jpg">
+  <img src="https://archive.org/download/cnn-2022/cnn-2022-07-25T11:55:14.985072-04:00.jpg"
+     alt="CNN at 2022-07-25 11:55:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-25T11:55:14.985072-04:00.jpg">July 25 at 11:55 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/cnn-2022/cnn-2022-07-25T07:03:04.760809-04:00.jpg">
   <img src="https://archive.org/download/cnn-2022/cnn-2022-07-25T07:03:04.760809-04:00.jpg"
      alt="CNN at 2022-07-25 07:03:17-04:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-22T21:02:22.292026-04:00.jpg">July 22 at 9:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cnn-2022/cnn-2022-07-22T17:09:02.791956-04:00.jpg">
-  <img src="https://archive.org/download/cnn-2022/cnn-2022-07-22T17:09:02.791956-04:00.jpg"
-     alt="CNN at 2022-07-22 17:09:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-22T17:09:02.791956-04:00.jpg">July 22 at 5:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cnn-2022/cnn-2022-07-22T11:05:26.858603-04:00.jpg">
-  <img src="https://archive.org/download/cnn-2022/cnn-2022-07-22T11:05:26.858603-04:00.jpg"
-     alt="CNN at 2022-07-22 11:05:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-22T11:05:26.858603-04:00.jpg">July 22 at 11:05 AM</a></p>
 </div>
 
 </div>

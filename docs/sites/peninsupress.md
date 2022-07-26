@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 70 screenshots with the Internet Archive.
+The archiving routine has saved 72 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T17:22:57.258659-07:00.jpg">
+  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T17:22:57.258659-07:00.jpg"
+     alt="Peninsula Press at 2022-07-25 17:22:58-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T17:22:57.258659-07:00.jpg">July 25 at 5:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T08:36:39.191165-07:00.jpg">
+  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T08:36:39.191165-07:00.jpg"
+     alt="Peninsula Press at 2022-07-25 08:36:42-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T08:36:39.191165-07:00.jpg">July 25 at 8:36 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T20:39:09.048292-07:00.jpg">
   <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T20:39:09.048292-07:00.jpg"
      alt="Peninsula Press at 2022-07-24 20:39:10-07:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-20T09:13:18.985987-07:00.jpg">July 20 at 9:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-19T20:36:41.266638-07:00.jpg">
-  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-19T20:36:41.266638-07:00.jpg"
-     alt="Peninsula Press at 2022-07-19 20:36:43-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-19T20:36:41.266638-07:00.jpg">July 19 at 8:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-19T08:46:23.635133-07:00.jpg">
-  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-19T08:46:23.635133-07:00.jpg"
-     alt="Peninsula Press at 2022-07-19 08:46:25-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-19T08:46:23.635133-07:00.jpg">July 19 at 8:46 AM</a></p>
 </div>
 
 </div>

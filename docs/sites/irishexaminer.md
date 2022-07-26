@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-25T14:09:39.096383+01:00.jpg">
+  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-25T14:09:39.096383+01:00.jpg"
+     alt="Irish Examiner at 2022-07-25 14:09:40+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-25T14:09:39.096383+01:00.jpg">July 25 at 2:09 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-25T04:24:15.330932+01:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-20T03:19:53.473236+01:00.jpg">July 20 at 3:19 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-19T15:21:31.345587+01:00.jpg">
-  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-19T15:21:31.345587+01:00.jpg"
-     alt="Irish Examiner at 2022-07-19 15:21:32+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-19T15:21:31.345587+01:00.jpg">July 19 at 3:21 PM</a></p>
 </div>
 
 </div>

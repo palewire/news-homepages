@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 33 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 32 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-25T11:44:46.510105-04:00.jpg">
+  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-25T11:44:46.510105-04:00.jpg"
+     alt="Trace at 2022-07-25 11:44:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-25T11:44:46.510105-04:00.jpg">July 25 at 11:44 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-25T00:35:06.888879-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-20T00:20:18.567416-04:00.jpg">July 20 at 12:20 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-19T12:59:11.758054-04:00.jpg">
-  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-19T12:59:11.758054-04:00.jpg"
-     alt="Trace at 2022-07-19 12:59:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-19T12:59:11.758054-04:00.jpg">July 19 at 12:59 PM</a></p>
 </div>
 
 </div>

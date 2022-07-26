@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 3 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/occrp-2022/occrp-2022-07-25T17:36:50.539530+02:00.jpg">
+  <img src="https://archive.org/download/occrp-2022/occrp-2022-07-25T17:36:50.539530+02:00.jpg"
+     alt="Organized Crime and Corruption Reporting Project at 2022-07-25 17:36:52+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/occrp-2022/occrp-2022-07-25T17:36:50.539530+02:00.jpg">July 25 at 5:36 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/occrp-2022/occrp-2022-07-25T05:38:44.242579+02:00.jpg">

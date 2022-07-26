@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 281 screenshots with the Internet Archive.
+The archiving routine has saved 283 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-25T11:14:19.076070-07:00.jpg">
+  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-07-25T11:14:19.076070-07:00.jpg"
+     alt="Orange County Register at 2022-07-25 11:14:21-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-25T11:14:19.076070-07:00.jpg">July 25 at 11:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-25T08:35:55.550628-07:00.jpg">
+  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-07-25T08:35:55.550628-07:00.jpg"
+     alt="Orange County Register at 2022-07-25 08:35:57-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-25T08:35:55.550628-07:00.jpg">July 25 at 8:35 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-24T20:38:49.691016-07:00.jpg">
   <img src="https://archive.org/download/ocregister-2022/ocregister-2022-07-24T20:38:49.691016-07:00.jpg"
      alt="Orange County Register at 2022-07-24 20:38:55-07:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-21T20:39:39.536334-07:00.jpg">July 21 at 8:39 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-21T11:08:44.822831-07:00.jpg">
-  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-07-21T11:08:44.822831-07:00.jpg"
-     alt="Orange County Register at 2022-07-21 11:08:46-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-21T11:08:44.822831-07:00.jpg">July 21 at 11:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-21T08:35:22.051999-07:00.jpg">
-  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-07-21T08:35:22.051999-07:00.jpg"
-     alt="Orange County Register at 2022-07-21 08:35:27-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-21T08:35:22.051999-07:00.jpg">July 21 at 8:35 AM</a></p>
 </div>
 
 </div>

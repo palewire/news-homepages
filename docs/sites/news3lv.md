@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 41 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-25T17:21:08.424482-07:00.jpg">
+  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-07-25T17:21:08.424482-07:00.jpg"
+     alt="KSNV News 3 at 2022-07-25 17:21:10-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-25T17:21:08.424482-07:00.jpg">July 25 at 5:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-25T06:16:27.991019-07:00.jpg">
+  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-07-25T06:16:27.991019-07:00.jpg"
+     alt="KSNV News 3 at 2022-07-25 06:16:30-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-25T06:16:27.991019-07:00.jpg">July 25 at 6:16 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-24T20:35:36.785532-07:00.jpg">
   <img src="https://archive.org/download/news3lv-2022/news3lv-2022-07-24T20:35:36.785532-07:00.jpg"
      alt="KSNV News 3 at 2022-07-24 20:35:37-07:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-20T09:10:26.922503-07:00.jpg">July 20 at 9:10 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-19T20:33:49.676987-07:00.jpg">
-  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-07-19T20:33:49.676987-07:00.jpg"
-     alt="KSNV News 3 at 2022-07-19 20:33:52-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-19T20:33:49.676987-07:00.jpg">July 19 at 8:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-19T08:43:35.006474-07:00.jpg">
-  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-07-19T08:43:35.006474-07:00.jpg"
-     alt="KSNV News 3 at 2022-07-19 08:43:37-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-19T08:43:35.006474-07:00.jpg">July 19 at 8:43 AM</a></p>
 </div>
 
 </div>

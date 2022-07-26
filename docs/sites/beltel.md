@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/beltel-2022/beltel-2022-07-26T00:07:49.466746+01:00.jpg">
+  <img src="https://archive.org/download/beltel-2022/beltel-2022-07-26T00:07:49.466746+01:00.jpg"
+     alt="Belfast Telegraph at 2022-07-26 00:07:51+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-26T00:07:49.466746+01:00.jpg">July 26 at 12:07 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beltel-2022/beltel-2022-07-25T11:59:40.042464+01:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-20T13:52:43.519308+01:00.jpg">July 20 at 1:52 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/beltel-2022/beltel-2022-07-20T02:00:02.900579+01:00.jpg">
-  <img src="https://archive.org/download/beltel-2022/beltel-2022-07-20T02:00:02.900579+01:00.jpg"
-     alt="Belfast Telegraph at 2022-07-20 02:00:04+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-20T02:00:02.900579+01:00.jpg">July 20 at 2:00 AM</a></p>
 </div>
 
 </div>

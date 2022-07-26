@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 51 screenshots with the Internet Archive.
+The archiving routine has saved 53 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-26T09:16:00.964744+09:00.jpg">
+  <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-26T09:16:00.964744+09:00.jpg"
+     alt="Yomiuri shinbun at 2022-07-26 09:16:03+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-26T09:16:00.964744+09:00.jpg">July 26 at 9:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-25T22:09:27.799683+09:00.jpg">
+  <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-25T22:09:27.799683+09:00.jpg"
+     alt="Yomiuri shinbun at 2022-07-25 22:09:29+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-25T22:09:27.799683+09:00.jpg">July 25 at 10:09 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-25T12:36:10.863242+09:00.jpg">
   <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-25T12:36:10.863242+09:00.jpg"
      alt="Yomiuri shinbun at 2022-07-25 12:36:12+09:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-22T11:24:33.226569+09:00.jpg">July 22 at 11:24 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-22T10:34:08.814446+09:00.jpg">
-  <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-22T10:34:08.814446+09:00.jpg"
-     alt="Yomiuri shinbun at 2022-07-22 10:34:10+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-22T10:34:08.814446+09:00.jpg">July 22 at 10:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-21T23:13:51.394399+09:00.jpg">
-  <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-21T23:13:51.394399+09:00.jpg"
-     alt="Yomiuri shinbun at 2022-07-21 23:13:55+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-21T23:13:51.394399+09:00.jpg">July 21 at 11:13 PM</a></p>
 </div>
 
 </div>

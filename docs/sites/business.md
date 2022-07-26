@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 130 screenshots with the Internet Archive.
+The archiving routine has saved 132 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/business-2022/business-2022-07-25T17:14:19.206230-04:00.jpg">
+  <img src="https://archive.org/download/business-2022/business-2022-07-25T17:14:19.206230-04:00.jpg"
+     alt="Bloomberg at 2022-07-25 17:14:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-25T17:14:19.206230-04:00.jpg">July 25 at 5:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/business-2022/business-2022-07-25T11:54:30.098788-04:00.jpg">
+  <img src="https://archive.org/download/business-2022/business-2022-07-25T11:54:30.098788-04:00.jpg"
+     alt="Bloomberg at 2022-07-25 11:54:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-25T11:54:30.098788-04:00.jpg">July 25 at 11:54 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/business-2022/business-2022-07-25T07:01:09.117438-04:00.jpg">
   <img src="https://archive.org/download/business-2022/business-2022-07-25T07:01:09.117438-04:00.jpg"
      alt="Bloomberg at 2022-07-25 07:01:12-04:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/business-2022/business-2022-07-22T20:59:53.723680-04:00.jpg">July 22 at 8:59 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/business-2022/business-2022-07-22T17:09:10.969339-04:00.jpg">
-  <img src="https://archive.org/download/business-2022/business-2022-07-22T17:09:10.969339-04:00.jpg"
-     alt="Bloomberg at 2022-07-22 17:09:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-22T17:09:10.969339-04:00.jpg">July 22 at 5:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/business-2022/business-2022-07-22T11:04:44.484297-04:00.jpg">
-  <img src="https://archive.org/download/business-2022/business-2022-07-22T11:04:44.484297-04:00.jpg"
-     alt="Bloomberg at 2022-07-22 11:04:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-22T11:04:44.484297-04:00.jpg">July 22 at 11:04 AM</a></p>
 </div>
 
 </div>

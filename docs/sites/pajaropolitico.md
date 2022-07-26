@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 453 screenshots with the Internet Archive.
+The archiving routine has saved 455 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-25T19:22:31.945701-05:00.jpg">
+  <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-25T19:22:31.945701-05:00.jpg"
+     alt="Animal Político at 2022-07-25 19:23:21-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-25T19:22:31.945701-05:00.jpg">July 25 at 7:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-25T10:36:12.958731-05:00.jpg">
+  <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-25T10:36:12.958731-05:00.jpg"
+     alt="Animal Político at 2022-07-25 10:36:32-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-25T10:36:12.958731-05:00.jpg">July 25 at 10:36 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-24T22:39:01.814535-05:00.jpg">
   <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-24T22:39:01.814535-05:00.jpg"
      alt="Animal Político at 2022-07-24 22:39:03-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-20T11:12:55.404250-05:00.jpg">July 20 at 11:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-19T22:36:05.611852-05:00.jpg">
-  <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-19T22:36:05.611852-05:00.jpg"
-     alt="Animal Político at 2022-07-19 22:36:19-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-19T22:36:05.611852-05:00.jpg">July 19 at 10:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-19T10:46:23.425063-05:00.jpg">
-  <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-19T10:46:23.425063-05:00.jpg"
-     alt="Animal Político at 2022-07-19 10:46:24-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-19T10:46:23.425063-05:00.jpg">July 19 at 10:46 AM</a></p>
 </div>
 
 </div>

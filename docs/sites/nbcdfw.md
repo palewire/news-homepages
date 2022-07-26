@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T19:20:29.877977-05:00.jpg">
+  <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T19:20:29.877977-05:00.jpg"
+     alt="NBC DFW at 2022-07-25 19:20:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T19:20:29.877977-05:00.jpg">July 25 at 7:20 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T08:16:19.906377-05:00.jpg">
+  <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T08:16:19.906377-05:00.jpg"
+     alt="NBC DFW at 2022-07-25 08:16:21-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T08:16:19.906377-05:00.jpg">July 25 at 8:16 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T22:35:37.687847-05:00.jpg">
@@ -116,24 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-20T11:09:06.624779-05:00.jpg">July 20 at 11:09 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-19T22:33:59.108765-05:00.jpg">
-  <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-19T22:33:59.108765-05:00.jpg"
-     alt="NBC DFW at 2022-07-19 22:34:00-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-19T22:33:59.108765-05:00.jpg">July 19 at 10:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-19T10:43:12.858648-05:00.jpg">
-  <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-19T10:43:12.858648-05:00.jpg"
-     alt="NBC DFW at 2022-07-19 10:43:15-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-19T10:43:12.858648-05:00.jpg">July 19 at 10:43 AM</a></p>
 </div>
 
 </div>

@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T13:38:26.250036-05:00.jpg">
+  <img src="https://archive.org/download/infowars-2022/infowars-2022-07-25T13:38:26.250036-05:00.jpg"
+     alt="Infowars at 2022-07-25 13:38:29-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T13:38:26.250036-05:00.jpg">July 25 at 1:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T11:41:11.621005-05:00.jpg">
+  <img src="https://archive.org/download/infowars-2022/infowars-2022-07-25T11:41:11.621005-05:00.jpg"
+     alt="Infowars at 2022-07-25 11:41:13-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T11:41:11.621005-05:00.jpg">July 25 at 11:41 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T07:06:28.353666-05:00.jpg">
@@ -116,24 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-22T09:04:04.978965-05:00.jpg">July 22 at 9:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/infowars-2022/infowars-2022-07-21T21:23:27.414350-05:00.jpg">
-  <img src="https://archive.org/download/infowars-2022/infowars-2022-07-21T21:23:27.414350-05:00.jpg"
-     alt="Infowars at 2022-07-21 21:23:29-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-21T21:23:27.414350-05:00.jpg">July 21 at 9:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/infowars-2022/infowars-2022-07-21T12:01:58.970781-05:00.jpg">
-  <img src="https://archive.org/download/infowars-2022/infowars-2022-07-21T12:01:58.970781-05:00.jpg"
-     alt="Infowars at 2022-07-21 12:02:01-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-21T12:01:58.970781-05:00.jpg">July 21 at 12:02 PM</a></p>
 </div>
 
 </div>

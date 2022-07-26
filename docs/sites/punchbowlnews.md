@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T20:23:41.064674-04:00.jpg">
+  <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T20:23:41.064674-04:00.jpg"
+     alt="Punchbowl News at 2022-07-25 20:23:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T20:23:41.064674-04:00.jpg">July 25 at 8:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T11:39:01.105163-04:00.jpg">
+  <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T11:39:01.105163-04:00.jpg"
+     alt="Punchbowl News at 2022-07-25 11:39:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T11:39:01.105163-04:00.jpg">July 25 at 11:39 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T23:41:02.600627-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T23:41:02.600627-04:00.jpg"
      alt="Punchbowl News at 2022-07-24 23:41:04-04:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-20T12:14:27.185531-04:00.jpg">July 20 at 12:14 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-19T23:37:23.816249-04:00.jpg">
-  <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-19T23:37:23.816249-04:00.jpg"
-     alt="Punchbowl News at 2022-07-19 23:37:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-19T23:37:23.816249-04:00.jpg">July 19 at 11:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-19T11:48:18.154908-04:00.jpg">
-  <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-19T11:48:18.154908-04:00.jpg"
-     alt="Punchbowl News at 2022-07-19 11:48:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-19T11:48:18.154908-04:00.jpg">July 19 at 11:48 AM</a></p>
 </div>
 
 </div>

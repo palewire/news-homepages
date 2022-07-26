@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 96 screenshots with the Internet Archive.
+The archiving routine has saved 98 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wbez-2022/wbez-2022-07-25T11:36:05.645597-05:00.jpg">
+  <img src="https://archive.org/download/wbez-2022/wbez-2022-07-25T11:36:05.645597-05:00.jpg"
+     alt="WBEZ at 2022-07-25 11:36:08-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wbez-2022/wbez-2022-07-25T11:36:05.645597-05:00.jpg">July 25 at 11:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wbez-2022/wbez-2022-07-25T10:53:31.850610-05:00.jpg">
+  <img src="https://archive.org/download/wbez-2022/wbez-2022-07-25T10:53:31.850610-05:00.jpg"
+     alt="WBEZ at 2022-07-25 10:53:32-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wbez-2022/wbez-2022-07-25T10:53:31.850610-05:00.jpg">July 25 at 10:53 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wbez-2022/wbez-2022-07-24T23:41:17.865123-05:00.jpg">
   <img src="https://archive.org/download/wbez-2022/wbez-2022-07-24T23:41:17.865123-05:00.jpg"
      alt="WBEZ at 2022-07-24 23:41:19-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/wbez-2022/wbez-2022-07-21T11:59:24.188683-05:00.jpg">July 21 at 11:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wbez-2022/wbez-2022-07-21T11:49:03.594878-05:00.jpg">
-  <img src="https://archive.org/download/wbez-2022/wbez-2022-07-21T11:49:03.594878-05:00.jpg"
-     alt="WBEZ at 2022-07-21 11:49:07-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wbez-2022/wbez-2022-07-21T11:49:03.594878-05:00.jpg">July 21 at 11:49 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wbez-2022/wbez-2022-07-20T23:33:35.678852-05:00.jpg">
-  <img src="https://archive.org/download/wbez-2022/wbez-2022-07-20T23:33:35.678852-05:00.jpg"
-     alt="WBEZ at 2022-07-20 23:33:39-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wbez-2022/wbez-2022-07-20T23:33:35.678852-05:00.jpg">July 20 at 11:33 PM</a></p>
 </div>
 
 </div>

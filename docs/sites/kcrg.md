@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 184 screenshots with the Internet Archive.
+The archiving routine has saved 187 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T19:15:55.225476-05:00.jpg">
+  <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T19:15:55.225476-05:00.jpg"
+     alt="KCRG at 2022-07-25 19:15:56-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T19:15:55.225476-05:00.jpg">July 25 at 7:15 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T11:39:44.896885-05:00.jpg">
+  <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T11:39:44.896885-05:00.jpg"
+     alt="KCRG at 2022-07-25 11:39:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T11:39:44.896885-05:00.jpg">July 25 at 11:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T08:09:54.221352-05:00.jpg">
+  <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T08:09:54.221352-05:00.jpg"
+     alt="KCRG at 2022-07-25 08:09:59-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T08:09:54.221352-05:00.jpg">July 25 at 8:09 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-24T22:24:35.573769-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-24T22:24:35.573769-05:00.jpg"
      alt="KCRG at 2022-07-24 22:24:40-05:00 local time"
@@ -190,33 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-21T09:14:38.901266-05:00.jpg">July 21 at 9:14 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-20T21:27:11.744515-05:00.jpg">
-  <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-20T21:27:11.744515-05:00.jpg"
-     alt="KCRG at 2022-07-20 21:27:16-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-20T21:27:11.744515-05:00.jpg">July 20 at 9:27 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-20T11:54:52.383222-05:00.jpg">
-  <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-20T11:54:52.383222-05:00.jpg"
-     alt="KCRG at 2022-07-20 11:54:54-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-20T11:54:52.383222-05:00.jpg">July 20 at 11:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-20T09:28:00.777137-05:00.jpg">
-  <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-20T09:28:00.777137-05:00.jpg"
-     alt="KCRG at 2022-07-20 09:28:06-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-20T09:28:00.777137-05:00.jpg">July 20 at 9:28 AM</a></p>
 </div>
 
 </div>

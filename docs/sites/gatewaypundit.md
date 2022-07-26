@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 69 screenshots with the Internet Archive.
+The archiving routine has saved 71 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-25T13:38:31.365071-05:00.jpg">
+  <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-25T13:38:31.365071-05:00.jpg"
+     alt="Gateway Pundit at 2022-07-25 13:38:32-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-25T13:38:31.365071-05:00.jpg">July 25 at 1:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-25T11:40:55.939533-05:00.jpg">
+  <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-25T11:40:55.939533-05:00.jpg"
+     alt="Gateway Pundit at 2022-07-25 11:41:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-25T11:40:55.939533-05:00.jpg">July 25 at 11:41 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-25T07:04:18.718718-05:00.jpg">
   <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-25T07:04:18.718718-05:00.jpg"
      alt="Gateway Pundit at 2022-07-25 07:04:23-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-22T09:01:37.206613-05:00.jpg">July 22 at 9:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-21T21:20:58.070058-05:00.jpg">
-  <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-21T21:20:58.070058-05:00.jpg"
-     alt="Gateway Pundit at 2022-07-21 21:21:01-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-21T21:20:58.070058-05:00.jpg">July 21 at 9:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-21T12:01:18.684469-05:00.jpg">
-  <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-21T12:01:18.684469-05:00.jpg"
-     alt="Gateway Pundit at 2022-07-21 12:01:21-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-21T12:01:18.684469-05:00.jpg">July 21 at 12:01 PM</a></p>
 </div>
 
 </div>

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 41 screenshots with the Internet Archive.
+The archiving routine has saved 42 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 41 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-25T06:13:47.469537-07:00.jpg">
+  <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-25T06:13:47.469537-07:00.jpg"
+     alt="Lookout Santa Cruz at 2022-07-25 06:13:49-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-25T06:13:47.469537-07:00.jpg">July 25 at 6:13 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-24T20:30:23.432245-07:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-19T20:31:38.654263-07:00.jpg">July 19 at 8:31 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-19T08:40:30.120608-07:00.jpg">
-  <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-19T08:40:30.120608-07:00.jpg"
-     alt="Lookout Santa Cruz at 2022-07-19 08:40:34-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-19T08:40:30.120608-07:00.jpg">July 19 at 8:40 AM</a></p>
 </div>
 
 </div>

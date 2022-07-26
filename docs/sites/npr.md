@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 132 screenshots with the Internet Archive.
+The archiving routine has saved 136 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/npr-2022/npr-2022-07-25T20:21:05.934577-04:00.jpg">
+  <img src="https://archive.org/download/npr-2022/npr-2022-07-25T20:21:05.934577-04:00.jpg"
+     alt="NPR at 2022-07-25 20:21:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-07-25T20:21:05.934577-04:00.jpg">July 25 at 8:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/npr-2022/npr-2022-07-25T17:14:12.034714-04:00.jpg">
+  <img src="https://archive.org/download/npr-2022/npr-2022-07-25T17:14:12.034714-04:00.jpg"
+     alt="NPR at 2022-07-25 17:14:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-07-25T17:14:12.034714-04:00.jpg">July 25 at 5:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/npr-2022/npr-2022-07-25T11:55:29.104570-04:00.jpg">
+  <img src="https://archive.org/download/npr-2022/npr-2022-07-25T11:55:29.104570-04:00.jpg"
+     alt="NPR at 2022-07-25 11:55:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-07-25T11:55:29.104570-04:00.jpg">July 25 at 11:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/npr-2022/npr-2022-07-25T11:33:41.845679-04:00.jpg">
+  <img src="https://archive.org/download/npr-2022/npr-2022-07-25T11:33:41.845679-04:00.jpg"
+     alt="NPR at 2022-07-25 11:33:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-07-25T11:33:41.845679-04:00.jpg">July 25 at 11:33 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/npr-2022/npr-2022-07-24T23:37:20.964617-04:00.jpg">
   <img src="https://archive.org/download/npr-2022/npr-2022-07-24T23:37:20.964617-04:00.jpg"
      alt="NPR at 2022-07-24 23:37:24-04:00 local time"
@@ -181,42 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/npr-2022/npr-2022-07-23T10:58:18.142604-04:00.jpg">July 23 at 10:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/npr-2022/npr-2022-07-22T23:34:18.158771-04:00.jpg">
-  <img src="https://archive.org/download/npr-2022/npr-2022-07-22T23:34:18.158771-04:00.jpg"
-     alt="NPR at 2022-07-22 23:34:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-07-22T23:34:18.158771-04:00.jpg">July 22 at 11:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/npr-2022/npr-2022-07-22T17:09:18.563225-04:00.jpg">
-  <img src="https://archive.org/download/npr-2022/npr-2022-07-22T17:09:18.563225-04:00.jpg"
-     alt="NPR at 2022-07-22 17:09:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-07-22T17:09:18.563225-04:00.jpg">July 22 at 5:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/npr-2022/npr-2022-07-22T11:05:45.405089-04:00.jpg">
-  <img src="https://archive.org/download/npr-2022/npr-2022-07-22T11:05:45.405089-04:00.jpg"
-     alt="NPR at 2022-07-22 11:05:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-07-22T11:05:45.405089-04:00.jpg">July 22 at 11:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/npr-2022/npr-2022-07-22T10:59:56.522681-04:00.jpg">
-  <img src="https://archive.org/download/npr-2022/npr-2022-07-22T10:59:56.522681-04:00.jpg"
-     alt="NPR at 2022-07-22 11:00:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-07-22T10:59:56.522681-04:00.jpg">July 22 at 11:00 AM</a></p>
 </div>
 
 </div>

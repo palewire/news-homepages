@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-07-25T11:45:12.989073-04:00.jpg">
+  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-07-25T11:45:12.989073-04:00.jpg"
+     alt="Teen Vogue at 2022-07-25 11:45:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-07-25T11:45:12.989073-04:00.jpg">July 25 at 11:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-07-25T00:35:00.014678-04:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-07-20T00:20:05.137277-04:00.jpg">July 20 at 12:20 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-07-19T13:00:22.412719-04:00.jpg">
-  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-07-19T13:00:22.412719-04:00.jpg"
-     alt="Teen Vogue at 2022-07-19 13:00:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-07-19T13:00:22.412719-04:00.jpg">July 19 at 1:00 PM</a></p>
 </div>
 
 </div>

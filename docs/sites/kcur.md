@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 33 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 33 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcur-2022/kcur-2022-07-25T08:10:50.690037-05:00.jpg">
+  <img src="https://archive.org/download/kcur-2022/kcur-2022-07-25T08:10:50.690037-05:00.jpg"
+     alt="KCUR at 2022-07-25 08:10:52-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-25T08:10:50.690037-05:00.jpg">July 25 at 8:10 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcur-2022/kcur-2022-07-24T22:25:53.577372-05:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-19T21:20:41.919637-05:00.jpg">July 19 at 9:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kcur-2022/kcur-2022-07-19T09:17:59.954228-05:00.jpg">
-  <img src="https://archive.org/download/kcur-2022/kcur-2022-07-19T09:17:59.954228-05:00.jpg"
-     alt="KCUR at 2022-07-19 09:18:02-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-19T09:17:59.954228-05:00.jpg">July 19 at 9:18 AM</a></p>
 </div>
 
 </div>

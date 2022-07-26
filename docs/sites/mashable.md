@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 57 screenshots with the Internet Archive.
+The archiving routine has saved 58 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 57 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mashable-2022/mashable-2022-07-25T06:13:52.979245-07:00.jpg">
+  <img src="https://archive.org/download/mashable-2022/mashable-2022-07-25T06:13:52.979245-07:00.jpg"
+     alt="Mashable at 2022-07-25 06:13:54-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mashable-2022/mashable-2022-07-25T06:13:52.979245-07:00.jpg">July 25 at 6:13 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mashable-2022/mashable-2022-07-24T23:46:43.609368-07:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/mashable-2022/mashable-2022-07-20T09:09:49.536148-07:00.jpg">July 20 at 9:09 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mashable-2022/mashable-2022-07-19T20:31:57.032217-07:00.jpg">
-  <img src="https://archive.org/download/mashable-2022/mashable-2022-07-19T20:31:57.032217-07:00.jpg"
-     alt="Mashable at 2022-07-19 20:31:58-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mashable-2022/mashable-2022-07-19T20:31:57.032217-07:00.jpg">July 19 at 8:31 PM</a></p>
 </div>
 
 </div>

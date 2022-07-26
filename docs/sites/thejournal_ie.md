@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-25T16:46:42.141957+01:00.jpg">
+  <img src="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-25T16:46:42.141957+01:00.jpg"
+     alt="Journal.ie at 2022-07-25 16:46:44+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-25T16:46:42.141957+01:00.jpg">July 25 at 4:46 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-25T05:36:05.213019+01:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-20T05:21:26.217358+01:00.jpg">July 20 at 5:21 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-19T18:01:43.750232+01:00.jpg">
-  <img src="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-19T18:01:43.750232+01:00.jpg"
-     alt="Journal.ie at 2022-07-19 18:01:45+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-19T18:01:43.750232+01:00.jpg">July 19 at 6:01 PM</a></p>
 </div>
 
 </div>

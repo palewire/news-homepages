@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 110 screenshots with the Internet Archive.
+The archiving routine has saved 112 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-25T20:18:32.265355-04:00.jpg">
+  <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-25T20:18:32.265355-04:00.jpg"
+     alt="Marshall Project at 2022-07-25 20:18:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-25T20:18:32.265355-04:00.jpg">July 25 at 8:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-25T09:14:15.593587-04:00.jpg">
+  <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-25T09:14:15.593587-04:00.jpg"
+     alt="Marshall Project at 2022-07-25 09:14:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-25T09:14:15.593587-04:00.jpg">July 25 at 9:14 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-24T23:30:55.095438-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-24T23:30:55.095438-04:00.jpg"
      alt="Marshall Project at 2022-07-24 23:30:56-04:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-20T12:10:49.296068-04:00.jpg">July 20 at 12:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-19T23:31:58.049407-04:00.jpg">
-  <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-19T23:31:58.049407-04:00.jpg"
-     alt="Marshall Project at 2022-07-19 23:31:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-19T23:31:58.049407-04:00.jpg">July 19 at 11:31 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-19T11:42:00.260665-04:00.jpg">
-  <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-19T11:42:00.260665-04:00.jpg"
-     alt="Marshall Project at 2022-07-19 11:42:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-19T11:42:00.260665-04:00.jpg">July 19 at 11:42 AM</a></p>
 </div>
 
 </div>

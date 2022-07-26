@@ -20,13 +20,40 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 20 screenshots with the Internet Archive.
+The archiving routine has saved 23 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salon-2022/salon-2022-07-25T14:40:54.258299-04:00.jpg">
+  <img src="https://archive.org/download/salon-2022/salon-2022-07-25T14:40:54.258299-04:00.jpg"
+     alt="Salon at 2022-07-25 14:40:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salon-2022/salon-2022-07-25T14:40:54.258299-04:00.jpg">July 25 at 2:40 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salon-2022/salon-2022-07-25T12:37:31.690849-04:00.jpg">
+  <img src="https://archive.org/download/salon-2022/salon-2022-07-25T12:37:31.690849-04:00.jpg"
+     alt="Salon at 2022-07-25 12:37:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salon-2022/salon-2022-07-25T12:37:31.690849-04:00.jpg">July 25 at 12:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salon-2022/salon-2022-07-25T11:40:21.099839-04:00.jpg">
+  <img src="https://archive.org/download/salon-2022/salon-2022-07-25T11:40:21.099839-04:00.jpg"
+     alt="Salon at 2022-07-25 11:40:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salon-2022/salon-2022-07-25T11:40:21.099839-04:00.jpg">July 25 at 11:40 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/salon-2022/salon-2022-07-24T23:42:51.745660-04:00.jpg">
@@ -107,33 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/salon-2022/salon-2022-07-22T11:04:56.514034-04:00.jpg">July 22 at 11:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/salon-2022/salon-2022-07-21T23:43:17.059462-04:00.jpg">
-  <img src="https://archive.org/download/salon-2022/salon-2022-07-21T23:43:17.059462-04:00.jpg"
-     alt="Salon at 2022-07-21 23:43:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salon-2022/salon-2022-07-21T23:43:17.059462-04:00.jpg">July 21 at 11:43 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/salon-2022/salon-2022-07-21T12:50:24.953267-04:00.jpg">
-  <img src="https://archive.org/download/salon-2022/salon-2022-07-21T12:50:24.953267-04:00.jpg"
-     alt="Salon at 2022-07-21 12:50:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salon-2022/salon-2022-07-21T12:50:24.953267-04:00.jpg">July 21 at 12:50 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/salon-2022/salon-2022-07-21T11:39:36.743317-04:00.jpg">
-  <img src="https://archive.org/download/salon-2022/salon-2022-07-21T11:39:36.743317-04:00.jpg"
-     alt="Salon at 2022-07-21 11:39:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salon-2022/salon-2022-07-21T11:39:36.743317-04:00.jpg">July 21 at 11:39 AM</a></p>
 </div>
 
 </div>

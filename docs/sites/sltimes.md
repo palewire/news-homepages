@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 102 screenshots with the Internet Archive.
+The archiving routine has saved 105 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T19:25:10.318556-05:00.jpg">
+  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T19:25:10.318556-05:00.jpg"
+     alt="Storm Lake Times at 2022-07-25 19:25:13-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T19:25:10.318556-05:00.jpg">July 25 at 7:25 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T11:39:54.176454-05:00.jpg">
+  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T11:39:54.176454-05:00.jpg"
+     alt="Storm Lake Times at 2022-07-25 11:39:55-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T11:39:54.176454-05:00.jpg">July 25 at 11:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T10:42:34.878282-05:00.jpg">
+  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T10:42:34.878282-05:00.jpg"
+     alt="Storm Lake Times at 2022-07-25 10:42:37-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T10:42:34.878282-05:00.jpg">July 25 at 10:42 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T22:43:51.662908-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T22:43:51.662908-05:00.jpg"
      alt="Storm Lake Times at 2022-07-24 22:43:53-05:00 local time"
@@ -190,33 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-21T11:52:16.433442-05:00.jpg">July 21 at 11:52 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-20T23:26:26.608507-05:00.jpg">
-  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-20T23:26:26.608507-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-20 23:26:29-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-20T23:26:26.608507-05:00.jpg">July 20 at 11:26 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-20T11:42:48.484386-05:00.jpg">
-  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-20T11:42:48.484386-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-20 11:42:50-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-20T11:42:48.484386-05:00.jpg">July 20 at 11:42 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-19T23:19:05.145091-05:00.jpg">
-  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-19T23:19:05.145091-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-19 23:19:08-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-19T23:19:05.145091-05:00.jpg">July 19 at 11:19 PM</a></p>
 </div>
 
 </div>

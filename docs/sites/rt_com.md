@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rt_com-2022/rt_com-2022-07-25T18:40:09.843876+03:00.jpg">
+  <img src="https://archive.org/download/rt_com-2022/rt_com-2022-07-25T18:40:09.843876+03:00.jpg"
+     alt="RT at 2022-07-25 18:40:11+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-07-25T18:40:09.843876+03:00.jpg">July 25 at 6:40 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rt_com-2022/rt_com-2022-07-25T08:23:05.915149+03:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-07-22T06:43:16.926008+03:00.jpg">July 22 at 6:43 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rt_com-2022/rt_com-2022-07-21T18:39:40.744467+03:00.jpg">
-  <img src="https://archive.org/download/rt_com-2022/rt_com-2022-07-21T18:39:40.744467+03:00.jpg"
-     alt="RT at 2022-07-21 18:39:42+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-07-21T18:39:40.744467+03:00.jpg">July 21 at 6:39 PM</a></p>
 </div>
 
 </div>

@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 12 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nrk-2022/nrk-2022-07-26T02:21:44.875883+02:00.jpg">
+  <img src="https://archive.org/download/nrk-2022/nrk-2022-07-26T02:21:44.875883+02:00.jpg"
+     alt="NRK at 2022-07-26 02:21:47+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nrk-2022/nrk-2022-07-26T02:21:44.875883+02:00.jpg">July 26 at 2:21 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nrk-2022/nrk-2022-07-25T17:33:54.112425+02:00.jpg">
+  <img src="https://archive.org/download/nrk-2022/nrk-2022-07-25T17:33:54.112425+02:00.jpg"
+     alt="NRK at 2022-07-25 17:33:56+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nrk-2022/nrk-2022-07-25T17:33:54.112425+02:00.jpg">July 25 at 5:33 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nrk-2022/nrk-2022-07-25T05:37:22.098065+02:00.jpg">

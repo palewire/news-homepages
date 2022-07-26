@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 0 screenshots with the Internet Archive.
+The archiving routine has saved 1 screenshots with the Internet Archive.
 
 
 
@@ -28,9 +28,19 @@ Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
 
+<div class="latest-child">
+ <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T05:46:22.506962+05:30.jpg">
+  <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T05:46:22.506962+05:30.jpg"
+     alt="India Today at 2022-07-26 05:46:28+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T05:46:22.506962+05:30.jpg">July 26 at 5:46 AM</a></p>
+</div>
+
 </div>
 
 ## Internet Archive
 
 | Item  |
 | :---- |
+|[indiatoday-2022](https://archive.org/details/indiatoday-2022)|

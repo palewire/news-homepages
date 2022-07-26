@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 38 screenshots with the Internet Archive.
+The archiving routine has saved 40 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ajc-2022/ajc-2022-07-25T15:06:09.945927-04:00.jpg">
+  <img src="https://archive.org/download/ajc-2022/ajc-2022-07-25T15:06:09.945927-04:00.jpg"
+     alt="Atlanta Journal-Constitution at 2022-07-25 15:06:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-25T15:06:09.945927-04:00.jpg">July 25 at 3:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ajc-2022/ajc-2022-07-25T09:05:37.720558-04:00.jpg">
+  <img src="https://archive.org/download/ajc-2022/ajc-2022-07-25T09:05:37.720558-04:00.jpg"
+     alt="Atlanta Journal-Constitution at 2022-07-25 09:05:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-25T09:05:37.720558-04:00.jpg">July 25 at 9:05 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-25T06:56:23.143541-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-25T06:56:23.143541-04:00.jpg"
      alt="Atlanta Journal-Constitution at 2022-07-25 06:56:24-04:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T08:54:01.638726-04:00.jpg">July 23 at 8:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T08:04:18.606236-04:00.jpg">
-  <img src="https://archive.org/download/ajc-2022/ajc-2022-07-23T08:04:18.606236-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-23 08:04:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T08:04:18.606236-04:00.jpg">July 23 at 8:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ajc-2022/ajc-2022-07-22T21:32:55.625499-04:00.jpg">
-  <img src="https://archive.org/download/ajc-2022/ajc-2022-07-22T21:32:55.625499-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-22 21:32:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-22T21:32:55.625499-04:00.jpg">July 22 at 9:32 PM</a></p>
 </div>
 
 </div>

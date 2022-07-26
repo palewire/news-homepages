@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/deadline-2022/deadline-2022-07-25T16:11:46.484884-07:00.jpg">
+  <img src="https://archive.org/download/deadline-2022/deadline-2022-07-25T16:11:46.484884-07:00.jpg"
+     alt="Deadline at 2022-07-25 16:11:48-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deadline-2022/deadline-2022-07-25T16:11:46.484884-07:00.jpg">July 25 at 4:11 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deadline-2022/deadline-2022-07-25T04:58:41.767056-07:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/deadline-2022/deadline-2022-07-20T05:57:48.166344-07:00.jpg">July 20 at 5:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/deadline-2022/deadline-2022-07-19T18:05:09.289111-07:00.jpg">
-  <img src="https://archive.org/download/deadline-2022/deadline-2022-07-19T18:05:09.289111-07:00.jpg"
-     alt="Deadline at 2022-07-19 18:05:10-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deadline-2022/deadline-2022-07-19T18:05:09.289111-07:00.jpg">July 19 at 6:05 PM</a></p>
 </div>
 
 </div>

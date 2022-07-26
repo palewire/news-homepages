@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 38 screenshots with the Internet Archive.
+The archiving routine has saved 39 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 38 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-25T09:17:59.827581-04:00.jpg">
+  <img src="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-25T09:17:59.827581-04:00.jpg"
+     alt="Next City at 2022-07-25 09:18:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-25T09:17:59.827581-04:00.jpg">July 25 at 9:18 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-24T23:36:36.012362-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-19T23:34:47.002869-04:00.jpg">July 19 at 11:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-19T11:44:33.640212-04:00.jpg">
-  <img src="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-19T11:44:33.640212-04:00.jpg"
-     alt="Next City at 2022-07-19 11:44:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-19T11:44:33.640212-04:00.jpg">July 19 at 11:44 AM</a></p>
 </div>
 
 </div>

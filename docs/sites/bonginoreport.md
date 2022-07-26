@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 208 screenshots with the Internet Archive.
+The archiving routine has saved 211 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T19:09:15.762986-04:00.jpg">
+  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T19:09:15.762986-04:00.jpg"
+     alt="Bongino Report at 2022-07-25 19:09:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T19:09:15.762986-04:00.jpg">July 25 at 7:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T14:37:54.660935-04:00.jpg">
+  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T14:37:54.660935-04:00.jpg"
+     alt="Bongino Report at 2022-07-25 14:37:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T14:37:54.660935-04:00.jpg">July 25 at 2:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T12:39:44.190804-04:00.jpg">
+  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T12:39:44.190804-04:00.jpg"
+     alt="Bongino Report at 2022-07-25 12:39:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T12:39:44.190804-04:00.jpg">July 25 at 12:39 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T07:00:04.985571-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T07:00:04.985571-04:00.jpg"
      alt="Bongino Report at 2022-07-25 07:00:11-04:00 local time"
@@ -190,33 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T12:24:41.533460-04:00.jpg">July 22 at 12:24 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T08:58:57.528595-04:00.jpg">
-  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T08:58:57.528595-04:00.jpg"
-     alt="Bongino Report at 2022-07-22 08:58:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T08:58:57.528595-04:00.jpg">July 22 at 8:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-21T21:06:48.048340-04:00.jpg">
-  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-21T21:06:48.048340-04:00.jpg"
-     alt="Bongino Report at 2022-07-21 21:06:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-21T21:06:48.048340-04:00.jpg">July 21 at 9:06 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-21T13:02:12.116556-04:00.jpg">
-  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-21T13:02:12.116556-04:00.jpg"
-     alt="Bongino Report at 2022-07-21 13:02:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-21T13:02:12.116556-04:00.jpg">July 21 at 1:02 PM</a></p>
 </div>
 
 </div>

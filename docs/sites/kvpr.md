@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 33 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-25T17:17:06.620874-07:00.jpg">
+  <img src="https://archive.org/download/kvpr-2022/kvpr-2022-07-25T17:17:06.620874-07:00.jpg"
+     alt="Valley Public Radio at 2022-07-25 17:17:09-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-25T17:17:06.620874-07:00.jpg">July 25 at 5:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-25T06:11:11.854814-07:00.jpg">
+  <img src="https://archive.org/download/kvpr-2022/kvpr-2022-07-25T06:11:11.854814-07:00.jpg"
+     alt="Valley Public Radio at 2022-07-25 06:11:13-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-25T06:11:11.854814-07:00.jpg">July 25 at 6:11 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-24T20:26:57.575870-07:00.jpg">
   <img src="https://archive.org/download/kvpr-2022/kvpr-2022-07-24T20:26:57.575870-07:00.jpg"
      alt="Valley Public Radio at 2022-07-24 20:26:59-07:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-20T07:29:10.896969-07:00.jpg">July 20 at 7:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-19T19:21:52.423802-07:00.jpg">
-  <img src="https://archive.org/download/kvpr-2022/kvpr-2022-07-19T19:21:52.423802-07:00.jpg"
-     alt="Valley Public Radio at 2022-07-19 19:21:54-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-19T19:21:52.423802-07:00.jpg">July 19 at 7:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-19T07:24:18.988104-07:00.jpg">
-  <img src="https://archive.org/download/kvpr-2022/kvpr-2022-07-19T07:24:18.988104-07:00.jpg"
-     alt="Valley Public Radio at 2022-07-19 07:24:20-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-19T07:24:18.988104-07:00.jpg">July 19 at 7:24 AM</a></p>
 </div>
 
 </div>

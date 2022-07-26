@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 307 screenshots with the Internet Archive.
+The archiving routine has saved 308 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 307 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-25T16:44:50.941330+01:00.jpg">
+  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-25T16:44:50.941330+01:00.jpg"
+     alt="The Telegraph at 2022-07-25 16:44:56+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-25T16:44:50.941330+01:00.jpg">July 25 at 4:44 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-25T10:09:58.257851+01:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-22T05:29:57.992920+01:00.jpg">July 22 at 5:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-21T17:53:56.063752+01:00.jpg">
-  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-21T17:53:56.063752+01:00.jpg"
-     alt="The Telegraph at 2022-07-21 17:54:04+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-21T17:53:56.063752+01:00.jpg">July 21 at 5:54 PM</a></p>
 </div>
 
 </div>

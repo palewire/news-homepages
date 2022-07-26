@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 456 screenshots with the Internet Archive.
+The archiving routine has saved 457 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 456 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-25T18:13:33.143683-05:00.jpg">
+  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-25T18:13:33.143683-05:00.jpg"
+     alt="El Universal at 2022-07-25 18:13:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-25T18:13:33.143683-05:00.jpg">July 25 at 6:13 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-25T07:01:23.650469-05:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-20T09:21:30.873572-05:00.jpg">July 20 at 9:21 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-19T21:16:17.545290-05:00.jpg">
-  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-19T21:16:17.545290-05:00.jpg"
-     alt="El Universal at 2022-07-19 21:16:18-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-19T21:16:17.545290-05:00.jpg">July 19 at 9:16 PM</a></p>
 </div>
 
 </div>

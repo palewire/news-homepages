@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 287 screenshots with the Internet Archive.
+The archiving routine has saved 289 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/abc7-2022/abc7-2022-07-25T16:06:09.193452-07:00.jpg">
+  <img src="https://archive.org/download/abc7-2022/abc7-2022-07-25T16:06:09.193452-07:00.jpg"
+     alt="ABC7 at 2022-07-25 16:06:11-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abc7-2022/abc7-2022-07-25T16:06:09.193452-07:00.jpg">July 25 at 4:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abc7-2022/abc7-2022-07-25T11:13:45.752420-07:00.jpg">
+  <img src="https://archive.org/download/abc7-2022/abc7-2022-07-25T11:13:45.752420-07:00.jpg"
+     alt="ABC7 at 2022-07-25 11:13:53-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abc7-2022/abc7-2022-07-25T11:13:45.752420-07:00.jpg">July 25 at 11:13 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/abc7-2022/abc7-2022-07-25T03:56:23.216557-07:00.jpg">
   <img src="https://archive.org/download/abc7-2022/abc7-2022-07-25T03:56:23.216557-07:00.jpg"
      alt="ABC7 at 2022-07-25 03:56:26-07:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/abc7-2022/abc7-2022-07-22T05:55:05.375954-07:00.jpg">July 22 at 5:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/abc7-2022/abc7-2022-07-21T18:02:26.581216-07:00.jpg">
-  <img src="https://archive.org/download/abc7-2022/abc7-2022-07-21T18:02:26.581216-07:00.jpg"
-     alt="ABC7 at 2022-07-21 18:02:29-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abc7-2022/abc7-2022-07-21T18:02:26.581216-07:00.jpg">July 21 at 6:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/abc7-2022/abc7-2022-07-21T11:08:49.410487-07:00.jpg">
-  <img src="https://archive.org/download/abc7-2022/abc7-2022-07-21T11:08:49.410487-07:00.jpg"
-     alt="ABC7 at 2022-07-21 11:08:52-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abc7-2022/abc7-2022-07-21T11:08:49.410487-07:00.jpg">July 21 at 11:08 AM</a></p>
 </div>
 
 </div>

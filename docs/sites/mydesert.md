@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 276 screenshots with the Internet Archive.
+The archiving routine has saved 279 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T17:19:59.519532-07:00.jpg">
+  <img src="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T17:19:59.519532-07:00.jpg"
+     alt="The Desert Sun at 2022-07-25 17:20:01-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T17:19:59.519532-07:00.jpg">July 25 at 5:20 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T11:14:33.796728-07:00.jpg">
+  <img src="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T11:14:33.796728-07:00.jpg"
+     alt="The Desert Sun at 2022-07-25 11:14:37-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T11:14:33.796728-07:00.jpg">July 25 at 11:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T06:15:43.365706-07:00.jpg">
+  <img src="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T06:15:43.365706-07:00.jpg"
+     alt="The Desert Sun at 2022-07-25 06:15:54-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T06:15:43.365706-07:00.jpg">July 25 at 6:15 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-24T20:34:08.502183-07:00.jpg">
   <img src="https://archive.org/download/mydesert-2022/mydesert-2022-07-24T20:34:08.502183-07:00.jpg"
      alt="The Desert Sun at 2022-07-24 20:34:09-07:00 local time"
@@ -190,33 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-22T07:57:42.493087-07:00.jpg">July 22 at 7:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-21T20:36:25.955216-07:00.jpg">
-  <img src="https://archive.org/download/mydesert-2022/mydesert-2022-07-21T20:36:25.955216-07:00.jpg"
-     alt="The Desert Sun at 2022-07-21 20:36:30-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-21T20:36:25.955216-07:00.jpg">July 21 at 8:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-21T11:08:35.052693-07:00.jpg">
-  <img src="https://archive.org/download/mydesert-2022/mydesert-2022-07-21T11:08:35.052693-07:00.jpg"
-     alt="The Desert Sun at 2022-07-21 11:08:37-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-21T11:08:35.052693-07:00.jpg">July 21 at 11:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-21T08:32:07.236873-07:00.jpg">
-  <img src="https://archive.org/download/mydesert-2022/mydesert-2022-07-21T08:32:07.236873-07:00.jpg"
-     alt="The Desert Sun at 2022-07-21 08:32:16-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-21T08:32:07.236873-07:00.jpg">July 21 at 8:32 AM</a></p>
 </div>
 
 </div>

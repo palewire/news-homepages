@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-25T19:11:18.868797-04:00.jpg">
+  <img src="https://archive.org/download/cqnow-2022/cqnow-2022-07-25T19:11:18.868797-04:00.jpg"
+     alt="CQ at 2022-07-25 19:11:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-25T19:11:18.868797-04:00.jpg">July 25 at 7:11 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-25T07:04:29.118281-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-20T08:56:30.355853-04:00.jpg">July 20 at 8:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-19T21:03:57.403402-04:00.jpg">
-  <img src="https://archive.org/download/cqnow-2022/cqnow-2022-07-19T21:03:57.403402-04:00.jpg"
-     alt="CQ at 2022-07-19 21:03:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-19T21:03:57.403402-04:00.jpg">July 19 at 9:03 PM</a></p>
 </div>
 
 </div>

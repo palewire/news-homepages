@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-07-25T19:06:01.535955-04:00.jpg">
+  <img src="https://archive.org/download/appalachia100-2022/appalachia100-2022-07-25T19:06:01.535955-04:00.jpg"
+     alt="100 Days in Appalachia at 2022-07-25 19:06:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-07-25T19:06:01.535955-04:00.jpg">July 25 at 7:06 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-07-25T06:57:38.559832-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-07-20T08:51:07.463856-04:00.jpg">July 20 at 8:51 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-07-19T20:57:48.607725-04:00.jpg">
-  <img src="https://archive.org/download/appalachia100-2022/appalachia100-2022-07-19T20:57:48.607725-04:00.jpg"
-     alt="100 Days in Appalachia at 2022-07-19 20:57:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-07-19T20:57:48.607725-04:00.jpg">July 19 at 8:57 PM</a></p>
 </div>
 
 </div>

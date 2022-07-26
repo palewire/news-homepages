@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-25T18:08:05.499901-05:00.jpg">
+  <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-25T18:08:05.499901-05:00.jpg"
+     alt="Arkansas Nonprofit News Network at 2022-07-25 18:08:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-25T18:08:05.499901-05:00.jpg">July 25 at 6:08 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-25T05:57:35.392453-05:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-20T07:51:29.647979-05:00.jpg">July 20 at 7:51 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-19T19:57:41.419113-05:00.jpg">
-  <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-19T19:57:41.419113-05:00.jpg"
-     alt="Arkansas Nonprofit News Network at 2022-07-19 19:57:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-19T19:57:41.419113-05:00.jpg">July 19 at 7:57 PM</a></p>
 </div>
 
 </div>

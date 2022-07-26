@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 1 screenshots with the Internet Archive.
+The archiving routine has saved 2 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/platformer-2022/platformer-2022-07-25T08:37:49.199892-07:00.jpg">
+  <img src="https://archive.org/download/platformer-2022/platformer-2022-07-25T08:37:49.199892-07:00.jpg"
+     alt="Platformer at 2022-07-25 08:37:50-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/platformer-2022/platformer-2022-07-25T08:37:49.199892-07:00.jpg">July 25 at 8:37 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/platformer-2022/platformer-2022-07-24T23:47:01.810346-07:00.jpg">

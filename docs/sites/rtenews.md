@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rtenews-2022/rtenews-2022-07-25T16:40:16.984422+01:00.jpg">
+  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-07-25T16:40:16.984422+01:00.jpg"
+     alt="RTE at 2022-07-25 16:40:18+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-07-25T16:40:16.984422+01:00.jpg">July 25 at 4:40 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rtenews-2022/rtenews-2022-07-25T04:42:08.595091+01:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-07-20T04:38:50.064446+01:00.jpg">July 20 at 4:38 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rtenews-2022/rtenews-2022-07-19T16:49:40.414934+01:00.jpg">
-  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-07-19T16:49:40.414934+01:00.jpg"
-     alt="RTE at 2022-07-19 16:49:42+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-07-19T16:49:40.414934+01:00.jpg">July 19 at 4:49 PM</a></p>
 </div>
 
 </div>

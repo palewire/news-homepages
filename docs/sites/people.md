@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-07-25T11:36:27.222392-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-07-25T11:36:27.222392-04:00.jpg"
+     alt="People at 2022-07-25 11:36:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-07-25T11:36:27.222392-04:00.jpg">July 25 at 11:36 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/people-2022/people-2022-07-24T23:39:34.938475-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/people-2022/people-2022-07-19T23:35:46.144089-04:00.jpg">July 19 at 11:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/people-2022/people-2022-07-19T11:47:01.142284-04:00.jpg">
-  <img src="https://archive.org/download/people-2022/people-2022-07-19T11:47:01.142284-04:00.jpg"
-     alt="People at 2022-07-19 11:47:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/people-2022/people-2022-07-19T11:47:01.142284-04:00.jpg">July 19 at 11:47 AM</a></p>
 </div>
 
 </div>

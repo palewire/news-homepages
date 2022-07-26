@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reporternews-2022/reporternews-2022-07-25T19:23:41.730222-05:00.jpg">
+  <img src="https://archive.org/download/reporternews-2022/reporternews-2022-07-25T19:23:41.730222-05:00.jpg"
+     alt="Abilene Reporter News at 2022-07-25 19:23:44-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-07-25T19:23:41.730222-05:00.jpg">July 25 at 7:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reporternews-2022/reporternews-2022-07-25T10:39:28.970031-05:00.jpg">
+  <img src="https://archive.org/download/reporternews-2022/reporternews-2022-07-25T10:39:28.970031-05:00.jpg"
+     alt="Abilene Reporter News at 2022-07-25 10:39:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-07-25T10:39:28.970031-05:00.jpg">July 25 at 10:39 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reporternews-2022/reporternews-2022-07-24T22:41:35.684226-05:00.jpg">
@@ -116,24 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-07-20T11:15:19.942349-05:00.jpg">July 20 at 11:15 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reporternews-2022/reporternews-2022-07-19T22:37:49.822481-05:00.jpg">
-  <img src="https://archive.org/download/reporternews-2022/reporternews-2022-07-19T22:37:49.822481-05:00.jpg"
-     alt="Abilene Reporter News at 2022-07-19 22:37:51-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-07-19T22:37:49.822481-05:00.jpg">July 19 at 10:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reporternews-2022/reporternews-2022-07-19T10:48:38.132562-05:00.jpg">
-  <img src="https://archive.org/download/reporternews-2022/reporternews-2022-07-19T10:48:38.132562-05:00.jpg"
-     alt="Abilene Reporter News at 2022-07-19 10:48:39-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-07-19T10:48:38.132562-05:00.jpg">July 19 at 10:48 AM</a></p>
 </div>
 
 </div>

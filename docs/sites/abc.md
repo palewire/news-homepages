@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 463 screenshots with the Internet Archive.
+The archiving routine has saved 466 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/abc-2022/abc-2022-07-25T19:06:21.256537-04:00.jpg">
+  <img src="https://archive.org/download/abc-2022/abc-2022-07-25T19:06:21.256537-04:00.jpg"
+     alt="ABC News at 2022-07-25 19:06:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-25T19:06:21.256537-04:00.jpg">July 25 at 7:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abc-2022/abc-2022-07-25T17:14:32.831164-04:00.jpg">
+  <img src="https://archive.org/download/abc-2022/abc-2022-07-25T17:14:32.831164-04:00.jpg"
+     alt="ABC News at 2022-07-25 17:14:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-25T17:14:32.831164-04:00.jpg">July 25 at 5:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abc-2022/abc-2022-07-25T11:54:47.171515-04:00.jpg">
+  <img src="https://archive.org/download/abc-2022/abc-2022-07-25T11:54:47.171515-04:00.jpg"
+     alt="ABC News at 2022-07-25 11:54:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-25T11:54:47.171515-04:00.jpg">July 25 at 11:54 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-25T06:56:41.923019-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-25T06:56:41.923019-04:00.jpg"
      alt="ABC News at 2022-07-25 06:56:43-04:00 local time"
@@ -190,33 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/abc-2022/abc-2022-07-23T08:54:01.014470-04:00.jpg">July 23 at 8:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/abc-2022/abc-2022-07-22T20:55:14.431041-04:00.jpg">
-  <img src="https://archive.org/download/abc-2022/abc-2022-07-22T20:55:14.431041-04:00.jpg"
-     alt="ABC News at 2022-07-22 20:55:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-22T20:55:14.431041-04:00.jpg">July 22 at 8:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/abc-2022/abc-2022-07-22T17:09:16.627428-04:00.jpg">
-  <img src="https://archive.org/download/abc-2022/abc-2022-07-22T17:09:16.627428-04:00.jpg"
-     alt="ABC News at 2022-07-22 17:09:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-22T17:09:16.627428-04:00.jpg">July 22 at 5:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/abc-2022/abc-2022-07-22T11:04:51.853071-04:00.jpg">
-  <img src="https://archive.org/download/abc-2022/abc-2022-07-22T11:04:51.853071-04:00.jpg"
-     alt="ABC News at 2022-07-22 11:05:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-22T11:04:51.853071-04:00.jpg">July 22 at 11:05 AM</a></p>
 </div>
 
 </div>

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 183 screenshots with the Internet Archive.
+The archiving routine has saved 185 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-25T11:39:39.522593-05:00.jpg">
+  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-07-25T11:39:39.522593-05:00.jpg"
+     alt="Quad City Times at 2022-07-25 11:39:41-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-25T11:39:39.522593-05:00.jpg">July 25 at 11:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-25T10:38:42.487372-05:00.jpg">
+  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-07-25T10:38:42.487372-05:00.jpg"
+     alt="Quad City Times at 2022-07-25 10:38:49-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-25T10:38:42.487372-05:00.jpg">July 25 at 10:38 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-24T22:40:53.888049-05:00.jpg">
   <img src="https://archive.org/download/qctimes-2022/qctimes-2022-07-24T22:40:53.888049-05:00.jpg"
      alt="Quad City Times at 2022-07-24 22:40:58-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-20T11:55:20.531476-05:00.jpg">July 20 at 11:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-20T11:14:28.602116-05:00.jpg">
-  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-07-20T11:14:28.602116-05:00.jpg"
-     alt="Quad City Times at 2022-07-20 11:14:32-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-20T11:14:28.602116-05:00.jpg">July 20 at 11:14 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-19T22:37:37.821022-05:00.jpg">
-  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-07-19T22:37:37.821022-05:00.jpg"
-     alt="Quad City Times at 2022-07-19 22:37:41-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-19T22:37:37.821022-05:00.jpg">July 19 at 10:37 PM</a></p>
 </div>
 
 </div>

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 33 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 33 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mongabay-2022/mongabay-2022-07-25T06:14:54.565804-07:00.jpg">
+  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-07-25T06:14:54.565804-07:00.jpg"
+     alt="Mongabay at 2022-07-25 06:14:56-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-07-25T06:14:54.565804-07:00.jpg">July 25 at 6:14 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mongabay-2022/mongabay-2022-07-24T20:32:49.212171-07:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-07-19T20:32:39.360367-07:00.jpg">July 19 at 8:32 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mongabay-2022/mongabay-2022-07-19T08:42:03.765166-07:00.jpg">
-  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-07-19T08:42:03.765166-07:00.jpg"
-     alt="Mongabay at 2022-07-19 08:42:06-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-07-19T08:42:03.765166-07:00.jpg">July 19 at 8:42 AM</a></p>
 </div>
 
 </div>

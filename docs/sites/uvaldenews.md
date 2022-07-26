@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-25T10:51:19.089805-05:00.jpg">
+  <img src="https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-25T10:51:19.089805-05:00.jpg"
+     alt="Uvalde News-Leader at 2022-07-25 10:51:20-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-25T10:51:19.089805-05:00.jpg">July 25 at 10:51 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-24T23:39:39.691790-05:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-19T23:23:39.571185-05:00.jpg">July 19 at 11:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-19T12:04:06.831572-05:00.jpg">
-  <img src="https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-19T12:04:06.831572-05:00.jpg"
-     alt="Uvalde News-Leader at 2022-07-19 12:04:08-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-19T12:04:06.831572-05:00.jpg">July 19 at 12:04 PM</a></p>
 </div>
 
 </div>

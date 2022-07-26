@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 192 screenshots with the Internet Archive.
+The archiving routine has saved 194 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dmregister-2022/dmregister-2022-07-25T18:12:48.982045-05:00.jpg">
+  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-07-25T18:12:48.982045-05:00.jpg"
+     alt="Des Moines Register at 2022-07-25 18:12:50-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-07-25T18:12:48.982045-05:00.jpg">July 25 at 6:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dmregister-2022/dmregister-2022-07-25T11:38:26.007689-05:00.jpg">
+  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-07-25T11:38:26.007689-05:00.jpg"
+     alt="Des Moines Register at 2022-07-25 11:38:35-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-07-25T11:38:26.007689-05:00.jpg">July 25 at 11:38 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dmregister-2022/dmregister-2022-07-25T07:00:56.176658-05:00.jpg">
   <img src="https://archive.org/download/dmregister-2022/dmregister-2022-07-25T07:00:56.176658-05:00.jpg"
      alt="Des Moines Register at 2022-07-25 07:01:06-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-07-21T09:03:53.586640-05:00.jpg">July 21 at 9:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dmregister-2022/dmregister-2022-07-20T21:21:25.454092-05:00.jpg">
-  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-07-20T21:21:25.454092-05:00.jpg"
-     alt="Des Moines Register at 2022-07-20 21:21:28-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-07-20T21:21:25.454092-05:00.jpg">July 20 at 9:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dmregister-2022/dmregister-2022-07-20T11:54:13.639576-05:00.jpg">
-  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-07-20T11:54:13.639576-05:00.jpg"
-     alt="Des Moines Register at 2022-07-20 11:54:15-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-07-20T11:54:13.639576-05:00.jpg">July 20 at 11:54 AM</a></p>
 </div>
 
 </div>

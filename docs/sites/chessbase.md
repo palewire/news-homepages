@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 12 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chessbase-2022/chessbase-2022-07-26T01:09:36.665678+02:00.jpg">
+  <img src="https://archive.org/download/chessbase-2022/chessbase-2022-07-26T01:09:36.665678+02:00.jpg"
+     alt="ChessBase at 2022-07-26 01:09:38+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chessbase-2022/chessbase-2022-07-26T01:09:36.665678+02:00.jpg">July 26 at 1:09 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chessbase-2022/chessbase-2022-07-25T13:01:59.252278+02:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/chessbase-2022/chessbase-2022-07-20T14:55:04.343172+02:00.jpg">July 20 at 2:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chessbase-2022/chessbase-2022-07-20T13:23:08.974222+02:00.jpg">
-  <img src="https://archive.org/download/chessbase-2022/chessbase-2022-07-20T13:23:08.974222+02:00.jpg"
-     alt="ChessBase at 2022-07-20 13:23:14+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chessbase-2022/chessbase-2022-07-20T13:23:08.974222+02:00.jpg">July 20 at 1:23 PM</a></p>
 </div>
 
 </div>

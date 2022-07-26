@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 98 screenshots with the Internet Archive.
+The archiving routine has saved 100 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T04:22:59.269907+04:00.jpg">
+  <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T04:22:59.269907+04:00.jpg"
+     alt="Open Caucasus Media at 2022-07-26 04:23:01+04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T04:22:59.269907+04:00.jpg">July 26 at 4:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T19:34:36.463453+04:00.jpg">
+  <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T19:34:36.463453+04:00.jpg"
+     alt="Open Caucasus Media at 2022-07-25 19:34:40+04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T19:34:36.463453+04:00.jpg">July 25 at 7:34 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T07:38:42.117672+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T07:38:42.117672+04:00.jpg"
      alt="Open Caucasus Media at 2022-07-25 07:38:43+04:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-20T20:11:55.706656+04:00.jpg">July 20 at 8:11 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-20T07:35:17.903365+04:00.jpg">
-  <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-20T07:35:17.903365+04:00.jpg"
-     alt="Open Caucasus Media at 2022-07-20 07:35:19+04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-20T07:35:17.903365+04:00.jpg">July 20 at 7:35 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-19T19:45:42.841292+04:00.jpg">
-  <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-19T19:45:42.841292+04:00.jpg"
-     alt="Open Caucasus Media at 2022-07-19 19:45:44+04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-19T19:45:42.841292+04:00.jpg">July 19 at 7:45 PM</a></p>
 </div>
 
 </div>

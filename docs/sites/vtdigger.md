@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 98 screenshots with the Internet Archive.
+The archiving routine has saved 99 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 98 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-25T11:51:50.463314-04:00.jpg">
+  <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-25T11:51:50.463314-04:00.jpg"
+     alt="VT Digger at 2022-07-25 11:51:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-25T11:51:50.463314-04:00.jpg">July 25 at 11:51 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-25T00:41:25.734502-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-20T00:24:45.565433-04:00.jpg">July 20 at 12:24 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-19T13:04:48.679141-04:00.jpg">
-  <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-19T13:04:48.679141-04:00.jpg"
-     alt="VT Digger at 2022-07-19 13:04:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-19T13:04:48.679141-04:00.jpg">July 19 at 1:04 PM</a></p>
 </div>
 
 </div>

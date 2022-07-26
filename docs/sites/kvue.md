@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kvue-2022/kvue-2022-07-25T19:17:41.196036-05:00.jpg">
+  <img src="https://archive.org/download/kvue-2022/kvue-2022-07-25T19:17:41.196036-05:00.jpg"
+     alt="KVUE at 2022-07-25 19:17:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-25T19:17:41.196036-05:00.jpg">July 25 at 7:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kvue-2022/kvue-2022-07-25T08:11:29.364955-05:00.jpg">
+  <img src="https://archive.org/download/kvue-2022/kvue-2022-07-25T08:11:29.364955-05:00.jpg"
+     alt="KVUE at 2022-07-25 08:11:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-25T08:11:29.364955-05:00.jpg">July 25 at 8:11 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kvue-2022/kvue-2022-07-24T22:27:38.496707-05:00.jpg">
@@ -116,24 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-20T09:29:02.660377-05:00.jpg">July 20 at 9:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kvue-2022/kvue-2022-07-19T21:21:48.035795-05:00.jpg">
-  <img src="https://archive.org/download/kvue-2022/kvue-2022-07-19T21:21:48.035795-05:00.jpg"
-     alt="KVUE at 2022-07-19 21:21:49-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-19T21:21:48.035795-05:00.jpg">July 19 at 9:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kvue-2022/kvue-2022-07-19T09:19:47.066587-05:00.jpg">
-  <img src="https://archive.org/download/kvue-2022/kvue-2022-07-19T09:19:47.066587-05:00.jpg"
-     alt="KVUE at 2022-07-19 09:19:48-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-19T09:19:47.066587-05:00.jpg">July 19 at 9:19 AM</a></p>
 </div>
 
 </div>

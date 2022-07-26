@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 100 screenshots with the Internet Archive.
+The archiving routine has saved 101 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 100 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-25T20:09:53.696202-03:00.jpg">
+  <img src="https://archive.org/download/chequeado-2022/chequeado-2022-07-25T20:09:53.696202-03:00.jpg"
+     alt="Chequeado at 2022-07-25 20:09:55-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-25T20:09:53.696202-03:00.jpg">July 25 at 8:09 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-25T08:01:33.441047-03:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-20T09:54:31.920260-03:00.jpg">July 20 at 9:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-19T22:01:56.127293-03:00.jpg">
-  <img src="https://archive.org/download/chequeado-2022/chequeado-2022-07-19T22:01:56.127293-03:00.jpg"
-     alt="Chequeado at 2022-07-19 22:01:57-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-19T22:01:56.127293-03:00.jpg">July 19 at 10:01 PM</a></p>
 </div>
 
 </div>

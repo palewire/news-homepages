@@ -20,13 +20,40 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mmfa-2022/mmfa-2022-07-25T14:40:35.225162-04:00.jpg">
+  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-07-25T14:40:35.225162-04:00.jpg"
+     alt="Media Matters at 2022-07-25 14:40:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-07-25T14:40:35.225162-04:00.jpg">July 25 at 2:40 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mmfa-2022/mmfa-2022-07-25T12:36:55.559478-04:00.jpg">
+  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-07-25T12:36:55.559478-04:00.jpg"
+     alt="Media Matters at 2022-07-25 12:36:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-07-25T12:36:55.559478-04:00.jpg">July 25 at 12:36 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mmfa-2022/mmfa-2022-07-25T09:15:04.582124-04:00.jpg">
+  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-07-25T09:15:04.582124-04:00.jpg"
+     alt="Media Matters at 2022-07-25 09:15:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-07-25T09:15:04.582124-04:00.jpg">July 25 at 9:15 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mmfa-2022/mmfa-2022-07-24T23:33:11.864656-04:00.jpg">
@@ -107,33 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-07-22T10:57:18.702596-04:00.jpg">July 22 at 10:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mmfa-2022/mmfa-2022-07-21T23:36:08.670452-04:00.jpg">
-  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-07-21T23:36:08.670452-04:00.jpg"
-     alt="Media Matters at 2022-07-21 23:36:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-07-21T23:36:08.670452-04:00.jpg">July 21 at 11:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mmfa-2022/mmfa-2022-07-21T12:50:14.208604-04:00.jpg">
-  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-07-21T12:50:14.208604-04:00.jpg"
-     alt="Media Matters at 2022-07-21 12:50:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-07-21T12:50:14.208604-04:00.jpg">July 21 at 12:50 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mmfa-2022/mmfa-2022-07-21T11:30:16.482786-04:00.jpg">
-  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-07-21T11:30:16.482786-04:00.jpg"
-     alt="Media Matters at 2022-07-21 11:30:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-07-21T11:30:16.482786-04:00.jpg">July 21 at 11:30 AM</a></p>
 </div>
 
 </div>

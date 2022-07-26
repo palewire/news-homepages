@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-07-25T09:13:57.855538-04:00.jpg">
+  <img src="https://archive.org/download/mdjonline-2022/mdjonline-2022-07-25T09:13:57.855538-04:00.jpg"
+     alt="Marietta Daily Journal at 2022-07-25 09:13:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-07-25T09:13:57.855538-04:00.jpg">July 25 at 9:13 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-07-24T23:30:49.274816-04:00.jpg">

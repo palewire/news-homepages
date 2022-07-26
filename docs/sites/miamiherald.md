@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-25T20:19:37.842902-04:00.jpg">
+  <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-25T20:19:37.842902-04:00.jpg"
+     alt="Miami Herald at 2022-07-25 20:19:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-25T20:19:37.842902-04:00.jpg">July 25 at 8:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-25T09:14:33.551532-04:00.jpg">
+  <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-25T09:14:33.551532-04:00.jpg"
+     alt="Miami Herald at 2022-07-25 09:14:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-25T09:14:33.551532-04:00.jpg">July 25 at 9:14 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-24T23:31:58.436058-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-24T23:31:58.436058-04:00.jpg"
      alt="Miami Herald at 2022-07-24 23:32:00-04:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-20T12:07:49.842713-04:00.jpg">July 20 at 12:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-19T23:32:32.447068-04:00.jpg">
-  <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-19T23:32:32.447068-04:00.jpg"
-     alt="Miami Herald at 2022-07-19 23:32:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-19T23:32:32.447068-04:00.jpg">July 19 at 11:32 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-19T11:41:49.186187-04:00.jpg">
-  <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-19T11:41:49.186187-04:00.jpg"
-     alt="Miami Herald at 2022-07-19 11:41:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-19T11:41:49.186187-04:00.jpg">July 19 at 11:41 AM</a></p>
 </div>
 
 </div>

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 11 screenshots with the Internet Archive.
+The archiving routine has saved 12 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-25T17:51:40.973853+02:00.jpg">
+  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-07-25T17:51:40.973853+02:00.jpg"
+     alt="VG at 2022-07-25 17:51:43+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-25T17:51:40.973853+02:00.jpg">July 25 at 5:51 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-25T06:40:02.679981+02:00.jpg">

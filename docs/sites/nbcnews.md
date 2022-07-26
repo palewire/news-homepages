@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 460 screenshots with the Internet Archive.
+The archiving routine has saved 464 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-25T20:20:09.121954-04:00.jpg">
+  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-25T20:20:09.121954-04:00.jpg"
+     alt="NBC News at 2022-07-25 20:20:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-25T20:20:09.121954-04:00.jpg">July 25 at 8:20 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-25T17:14:42.323344-04:00.jpg">
+  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-25T17:14:42.323344-04:00.jpg"
+     alt="NBC News at 2022-07-25 17:14:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-25T17:14:42.323344-04:00.jpg">July 25 at 5:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-25T11:55:51.506426-04:00.jpg">
+  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-25T11:55:51.506426-04:00.jpg"
+     alt="NBC News at 2022-07-25 11:55:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-25T11:55:51.506426-04:00.jpg">July 25 at 11:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-25T09:16:12.634162-04:00.jpg">
+  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-25T09:16:12.634162-04:00.jpg"
+     alt="NBC News at 2022-07-25 09:16:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-25T09:16:12.634162-04:00.jpg">July 25 at 9:16 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-24T23:34:58.420239-04:00.jpg">
   <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-24T23:34:58.420239-04:00.jpg"
      alt="NBC News at 2022-07-24 23:35:07-04:00 local time"
@@ -181,42 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-23T10:58:17.461102-04:00.jpg">July 23 at 10:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T23:32:42.522004-04:00.jpg">
-  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T23:32:42.522004-04:00.jpg"
-     alt="NBC News at 2022-07-22 23:32:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T23:32:42.522004-04:00.jpg">July 22 at 11:32 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T17:09:15.976003-04:00.jpg">
-  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T17:09:15.976003-04:00.jpg"
-     alt="NBC News at 2022-07-22 17:09:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T17:09:15.976003-04:00.jpg">July 22 at 5:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T11:05:36.366601-04:00.jpg">
-  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T11:05:36.366601-04:00.jpg"
-     alt="NBC News at 2022-07-22 11:05:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T11:05:36.366601-04:00.jpg">July 22 at 11:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T10:58:36.236336-04:00.jpg">
-  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T10:58:36.236336-04:00.jpg"
-     alt="NBC News at 2022-07-22 10:58:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T10:58:36.236336-04:00.jpg">July 22 at 10:58 AM</a></p>
 </div>
 
 </div>

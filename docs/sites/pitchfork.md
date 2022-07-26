@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 97 screenshots with the Internet Archive.
+The archiving routine has saved 99 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-25T11:36:06.788591-05:00.jpg">
+  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-25T11:36:06.788591-05:00.jpg"
+     alt="Pitchfork at 2022-07-25 11:36:08-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-25T11:36:06.788591-05:00.jpg">July 25 at 11:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-25T10:38:23.392005-05:00.jpg">
+  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-25T10:38:23.392005-05:00.jpg"
+     alt="Pitchfork at 2022-07-25 10:38:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-25T10:38:23.392005-05:00.jpg">July 25 at 10:38 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-24T22:39:41.107202-05:00.jpg">
   <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-24T22:39:41.107202-05:00.jpg"
      alt="Pitchfork at 2022-07-24 22:39:44-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-21T11:49:20.228659-05:00.jpg">July 21 at 11:49 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-21T10:37:18.204305-05:00.jpg">
-  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-21T10:37:18.204305-05:00.jpg"
-     alt="Pitchfork at 2022-07-21 10:37:21-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-21T10:37:18.204305-05:00.jpg">July 21 at 10:37 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-20T22:38:44.718394-05:00.jpg">
-  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-20T22:38:44.718394-05:00.jpg"
-     alt="Pitchfork at 2022-07-20 22:38:46-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-20T22:38:44.718394-05:00.jpg">July 20 at 10:38 PM</a></p>
 </div>
 
 </div>

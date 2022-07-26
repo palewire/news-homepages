@@ -20,13 +20,40 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-25T14:39:48.626467-04:00.jpg">
+  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-25T14:39:48.626467-04:00.jpg"
+     alt="ZeroHedge at 2022-07-25 14:39:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-25T14:39:48.626467-04:00.jpg">July 25 at 2:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-25T12:42:13.713258-04:00.jpg">
+  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-25T12:42:13.713258-04:00.jpg"
+     alt="ZeroHedge at 2022-07-25 12:42:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-25T12:42:13.713258-04:00.jpg">July 25 at 12:42 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-25T11:55:00.885462-04:00.jpg">
+  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-25T11:55:00.885462-04:00.jpg"
+     alt="ZeroHedge at 2022-07-25 11:55:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-25T11:55:00.885462-04:00.jpg">July 25 at 11:55 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-25T00:42:39.853536-04:00.jpg">
@@ -107,33 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-22T12:23:20.298272-04:00.jpg">July 22 at 12:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-22T00:37:04.169204-04:00.jpg">
-  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-22T00:37:04.169204-04:00.jpg"
-     alt="ZeroHedge at 2022-07-22 00:37:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-22T00:37:04.169204-04:00.jpg">July 22 at 12:37 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-21T13:02:42.189177-04:00.jpg">
-  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-21T13:02:42.189177-04:00.jpg"
-     alt="ZeroHedge at 2022-07-21 13:02:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-21T13:02:42.189177-04:00.jpg">July 21 at 1:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-21T13:00:58.189409-04:00.jpg">
-  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-21T13:00:58.189409-04:00.jpg"
-     alt="ZeroHedge at 2022-07-21 13:00:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-07-21T13:00:58.189409-04:00.jpg">July 21 at 1:00 PM</a></p>
 </div>
 
 </div>

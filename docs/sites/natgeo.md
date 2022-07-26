@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-25T20:20:04.738334-04:00.jpg">
+  <img src="https://archive.org/download/natgeo-2022/natgeo-2022-07-25T20:20:04.738334-04:00.jpg"
+     alt="National Geographic at 2022-07-25 20:20:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-25T20:20:04.738334-04:00.jpg">July 25 at 8:20 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-25T09:15:45.431505-04:00.jpg">
+  <img src="https://archive.org/download/natgeo-2022/natgeo-2022-07-25T09:15:45.431505-04:00.jpg"
+     alt="National Geographic at 2022-07-25 09:15:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-25T09:15:45.431505-04:00.jpg">July 25 at 9:15 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T23:33:53.364161-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T23:33:53.364161-04:00.jpg"
      alt="National Geographic at 2022-07-24 23:33:56-04:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-20T12:08:57.570150-04:00.jpg">July 20 at 12:08 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-19T23:33:03.857127-04:00.jpg">
-  <img src="https://archive.org/download/natgeo-2022/natgeo-2022-07-19T23:33:03.857127-04:00.jpg"
-     alt="National Geographic at 2022-07-19 23:33:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-19T23:33:03.857127-04:00.jpg">July 19 at 11:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-19T11:43:24.611784-04:00.jpg">
-  <img src="https://archive.org/download/natgeo-2022/natgeo-2022-07-19T11:43:24.611784-04:00.jpg"
-     alt="National Geographic at 2022-07-19 11:43:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-19T11:43:24.611784-04:00.jpg">July 19 at 11:43 AM</a></p>
 </div>
 
 </div>

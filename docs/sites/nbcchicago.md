@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 64 screenshots with the Internet Archive.
+The archiving routine has saved 66 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-25T11:36:07.382998-05:00.jpg">
+  <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-25T11:36:07.382998-05:00.jpg"
+     alt="NBC Chicago at 2022-07-25 11:36:12-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-25T11:36:07.382998-05:00.jpg">July 25 at 11:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-25T08:16:35.029284-05:00.jpg">
+  <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-25T08:16:35.029284-05:00.jpg"
+     alt="NBC Chicago at 2022-07-25 08:16:35-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-25T08:16:35.029284-05:00.jpg">July 25 at 8:16 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-24T22:34:27.554081-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-24T22:34:27.554081-05:00.jpg"
      alt="NBC Chicago at 2022-07-24 22:34:28-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-21T11:49:01.344919-05:00.jpg">July 21 at 11:49 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-21T10:32:36.851642-05:00.jpg">
-  <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-21T10:32:36.851642-05:00.jpg"
-     alt="NBC Chicago at 2022-07-21 10:32:39-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-21T10:32:36.851642-05:00.jpg">July 21 at 10:32 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-20T22:35:11.103049-05:00.jpg">
-  <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-20T22:35:11.103049-05:00.jpg"
-     alt="NBC Chicago at 2022-07-20 22:35:13-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-20T22:35:11.103049-05:00.jpg">July 20 at 10:35 PM</a></p>
 </div>
 
 </div>

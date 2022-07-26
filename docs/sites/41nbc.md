@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 11 screenshots with the Internet Archive.
+The archiving routine has saved 12 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/41nbc-2022/41nbc-2022-07-25T19:04:52.690426-04:00.jpg">
+  <img src="https://archive.org/download/41nbc-2022/41nbc-2022-07-25T19:04:52.690426-04:00.jpg"
+     alt="41NBC / WMGT at 2022-07-25 19:04:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-07-25T19:04:52.690426-04:00.jpg">July 25 at 7:04 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/41nbc-2022/41nbc-2022-07-25T06:56:14.610770-04:00.jpg">

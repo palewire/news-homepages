@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 205 screenshots with the Internet Archive.
+The archiving routine has saved 206 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 205 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/libe-2022/libe-2022-07-25T15:13:04.616404+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-07-25T15:13:04.616404+02:00.jpg"
+     alt="Libération at 2022-07-25 15:13:06+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-25T15:13:04.616404+02:00.jpg">July 25 at 3:13 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/libe-2022/libe-2022-07-25T10:09:14.313438+02:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/libe-2022/libe-2022-07-22T05:34:53.116028+02:00.jpg">July 22 at 5:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/libe-2022/libe-2022-07-21T17:27:26.622076+02:00.jpg">
-  <img src="https://archive.org/download/libe-2022/libe-2022-07-21T17:27:26.622076+02:00.jpg"
-     alt="Libération at 2022-07-21 17:27:29+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-07-21T17:27:26.622076+02:00.jpg">July 21 at 5:27 PM</a></p>
 </div>
 
 </div>

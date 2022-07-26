@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-25T08:10:50.094769-05:00.jpg">
+  <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-25T08:10:50.094769-05:00.jpg"
+     alt="Kerrville Daily Times at 2022-07-25 08:10:51-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-25T08:10:50.094769-05:00.jpg">July 25 at 8:10 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-24T22:26:45.127761-05:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-19T21:20:47.858221-05:00.jpg">July 19 at 9:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-19T09:17:52.202540-05:00.jpg">
-  <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-19T09:17:52.202540-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-19 09:17:54-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-19T09:17:52.202540-05:00.jpg">July 19 at 9:17 AM</a></p>
 </div>
 
 </div>

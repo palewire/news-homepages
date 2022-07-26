@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 51 screenshots with the Internet Archive.
+The archiving routine has saved 53 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T09:21:07.457092+09:00.jpg">
+  <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T09:21:07.457092+09:00.jpg"
+     alt="NHK at 2022-07-26 09:21:11+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T09:21:07.457092+09:00.jpg">July 26 at 9:21 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T22:18:22.638483+09:00.jpg">
+  <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T22:18:22.638483+09:00.jpg"
+     alt="NHK at 2022-07-25 22:18:23+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T22:18:22.638483+09:00.jpg">July 25 at 10:18 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T12:36:41.296496+09:00.jpg">
   <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T12:36:41.296496+09:00.jpg"
      alt="NHK at 2022-07-25 12:36:43+09:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-22T12:38:43.652077+09:00.jpg">July 22 at 12:38 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-22T10:34:00.006613+09:00.jpg">
-  <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-22T10:34:00.006613+09:00.jpg"
-     alt="NHK at 2022-07-22 10:34:03+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-22T10:34:00.006613+09:00.jpg">July 22 at 10:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-22T00:33:29.989638+09:00.jpg">
-  <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-22T00:33:29.989638+09:00.jpg"
-     alt="NHK at 2022-07-22 00:33:32+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-22T00:33:29.989638+09:00.jpg">July 22 at 12:33 AM</a></p>
 </div>
 
 </div>

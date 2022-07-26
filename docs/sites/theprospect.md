@@ -20,13 +20,40 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theprospect-2022/theprospect-2022-07-25T14:41:13.326407-04:00.jpg">
+  <img src="https://archive.org/download/theprospect-2022/theprospect-2022-07-25T14:41:13.326407-04:00.jpg"
+     alt="American Prospect at 2022-07-25 14:41:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theprospect-2022/theprospect-2022-07-25T14:41:13.326407-04:00.jpg">July 25 at 2:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theprospect-2022/theprospect-2022-07-25T12:38:10.164492-04:00.jpg">
+  <img src="https://archive.org/download/theprospect-2022/theprospect-2022-07-25T12:38:10.164492-04:00.jpg"
+     alt="American Prospect at 2022-07-25 12:38:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theprospect-2022/theprospect-2022-07-25T12:38:10.164492-04:00.jpg">July 25 at 12:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theprospect-2022/theprospect-2022-07-25T11:47:43.556336-04:00.jpg">
+  <img src="https://archive.org/download/theprospect-2022/theprospect-2022-07-25T11:47:43.556336-04:00.jpg"
+     alt="American Prospect at 2022-07-25 11:47:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theprospect-2022/theprospect-2022-07-25T11:47:43.556336-04:00.jpg">July 25 at 11:47 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theprospect-2022/theprospect-2022-07-25T00:37:20.725136-04:00.jpg">
@@ -107,33 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/theprospect-2022/theprospect-2022-07-22T12:12:44.782357-04:00.jpg">July 22 at 12:12 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theprospect-2022/theprospect-2022-07-22T00:31:48.191630-04:00.jpg">
-  <img src="https://archive.org/download/theprospect-2022/theprospect-2022-07-22T00:31:48.191630-04:00.jpg"
-     alt="American Prospect at 2022-07-22 00:31:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theprospect-2022/theprospect-2022-07-22T00:31:48.191630-04:00.jpg">July 22 at 12:31 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theprospect-2022/theprospect-2022-07-21T12:55:33.276913-04:00.jpg">
-  <img src="https://archive.org/download/theprospect-2022/theprospect-2022-07-21T12:55:33.276913-04:00.jpg"
-     alt="American Prospect at 2022-07-21 12:55:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theprospect-2022/theprospect-2022-07-21T12:55:33.276913-04:00.jpg">July 21 at 12:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theprospect-2022/theprospect-2022-07-21T12:50:39.768269-04:00.jpg">
-  <img src="https://archive.org/download/theprospect-2022/theprospect-2022-07-21T12:50:39.768269-04:00.jpg"
-     alt="American Prospect at 2022-07-21 12:50:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theprospect-2022/theprospect-2022-07-21T12:50:39.768269-04:00.jpg">July 21 at 12:50 PM</a></p>
 </div>
 
 </div>

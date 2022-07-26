@@ -20,13 +20,40 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 26 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-25T19:13:12.924222-04:00.jpg">
+  <img src="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-25T19:13:12.924222-04:00.jpg"
+     alt="Federalist at 2022-07-25 19:13:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-25T19:13:12.924222-04:00.jpg">July 25 at 7:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-25T14:38:28.116931-04:00.jpg">
+  <img src="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-25T14:38:28.116931-04:00.jpg"
+     alt="Federalist at 2022-07-25 14:38:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-25T14:38:28.116931-04:00.jpg">July 25 at 2:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-25T12:41:05.978419-04:00.jpg">
+  <img src="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-25T12:41:05.978419-04:00.jpg"
+     alt="Federalist at 2022-07-25 12:41:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-25T12:41:05.978419-04:00.jpg">July 25 at 12:41 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-25T08:01:47.270107-04:00.jpg">
@@ -107,33 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-22T12:24:49.887776-04:00.jpg">July 22 at 12:24 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-22T10:00:04.964990-04:00.jpg">
-  <img src="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-22T10:00:04.964990-04:00.jpg"
-     alt="Federalist at 2022-07-22 10:00:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-22T10:00:04.964990-04:00.jpg">July 22 at 10:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-21T22:19:19.954259-04:00.jpg">
-  <img src="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-21T22:19:19.954259-04:00.jpg"
-     alt="Federalist at 2022-07-21 22:19:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-21T22:19:19.954259-04:00.jpg">July 21 at 10:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-21T13:01:13.753050-04:00.jpg">
-  <img src="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-21T13:01:13.753050-04:00.jpg"
-     alt="Federalist at 2022-07-21 13:01:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-21T13:01:13.753050-04:00.jpg">July 21 at 1:01 PM</a></p>
 </div>
 
 </div>

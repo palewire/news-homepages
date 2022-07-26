@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 48 screenshots with the Internet Archive.
+The archiving routine has saved 50 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-25T18:14:27.963926-05:00.jpg">
+  <img src="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-25T18:14:27.963926-05:00.jpg"
+     alt="Austin Weekly News at 2022-07-25 18:14:29-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-25T18:14:27.963926-05:00.jpg">July 25 at 6:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-25T11:36:21.952099-05:00.jpg">
+  <img src="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-25T11:36:21.952099-05:00.jpg"
+     alt="Austin Weekly News at 2022-07-25 11:36:23-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-25T11:36:21.952099-05:00.jpg">July 25 at 11:36 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-25T07:04:16.886247-05:00.jpg">
   <img src="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-25T07:04:16.886247-05:00.jpg"
      alt="Austin Weekly News at 2022-07-25 07:04:19-05:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-21T21:21:05.365717-05:00.jpg">July 21 at 9:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-21T11:49:10.618140-05:00.jpg">
-  <img src="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-21T11:49:10.618140-05:00.jpg"
-     alt="Austin Weekly News at 2022-07-21 11:49:12-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-21T11:49:10.618140-05:00.jpg">July 21 at 11:49 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-21T09:08:27.769207-05:00.jpg">
-  <img src="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-21T09:08:27.769207-05:00.jpg"
-     alt="Austin Weekly News at 2022-07-21 09:08:28-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-21T09:08:27.769207-05:00.jpg">July 21 at 9:08 AM</a></p>
 </div>
 
 </div>

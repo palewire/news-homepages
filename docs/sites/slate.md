@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 83 screenshots with the Internet Archive.
+The archiving routine has saved 86 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/slate-2022/slate-2022-07-25T14:40:43.880298-04:00.jpg">
+  <img src="https://archive.org/download/slate-2022/slate-2022-07-25T14:40:43.880298-04:00.jpg"
+     alt="Slate at 2022-07-25 14:40:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-25T14:40:43.880298-04:00.jpg">July 25 at 2:40 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/slate-2022/slate-2022-07-25T12:37:58.205185-04:00.jpg">
+  <img src="https://archive.org/download/slate-2022/slate-2022-07-25T12:37:58.205185-04:00.jpg"
+     alt="Slate at 2022-07-25 12:38:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-25T12:37:58.205185-04:00.jpg">July 25 at 12:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/slate-2022/slate-2022-07-25T11:42:09.418106-04:00.jpg">
+  <img src="https://archive.org/download/slate-2022/slate-2022-07-25T11:42:09.418106-04:00.jpg"
+     alt="Slate at 2022-07-25 11:42:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-25T11:42:09.418106-04:00.jpg">July 25 at 11:42 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/slate-2022/slate-2022-07-24T23:43:57.086923-04:00.jpg">
   <img src="https://archive.org/download/slate-2022/slate-2022-07-24T23:43:57.086923-04:00.jpg"
      alt="Slate at 2022-07-24 23:43:58-04:00 local time"
@@ -190,33 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/slate-2022/slate-2022-07-22T12:11:58.726232-04:00.jpg">July 22 at 12:12 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/slate-2022/slate-2022-07-22T00:28:13.112688-04:00.jpg">
-  <img src="https://archive.org/download/slate-2022/slate-2022-07-22T00:28:13.112688-04:00.jpg"
-     alt="Slate at 2022-07-22 00:28:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-22T00:28:13.112688-04:00.jpg">July 22 at 12:28 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/slate-2022/slate-2022-07-21T12:51:51.485535-04:00.jpg">
-  <img src="https://archive.org/download/slate-2022/slate-2022-07-21T12:51:51.485535-04:00.jpg"
-     alt="Slate at 2022-07-21 12:51:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-21T12:51:51.485535-04:00.jpg">July 21 at 12:51 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/slate-2022/slate-2022-07-21T12:49:59.187214-04:00.jpg">
-  <img src="https://archive.org/download/slate-2022/slate-2022-07-21T12:49:59.187214-04:00.jpg"
-     alt="Slate at 2022-07-21 12:50:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-21T12:49:59.187214-04:00.jpg">July 21 at 12:50 PM</a></p>
 </div>
 
 </div>

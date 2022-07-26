@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 109 screenshots with the Internet Archive.
+The archiving routine has saved 110 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 109 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/propublica-2022/propublica-2022-07-25T11:37:56.037119-04:00.jpg">
+  <img src="https://archive.org/download/propublica-2022/propublica-2022-07-25T11:37:56.037119-04:00.jpg"
+     alt="ProPublica at 2022-07-25 11:38:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-25T11:37:56.037119-04:00.jpg">July 25 at 11:38 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/propublica-2022/propublica-2022-07-24T23:40:18.472828-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-19T23:37:10.121505-04:00.jpg">July 19 at 11:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/propublica-2022/propublica-2022-07-19T11:47:31.821393-04:00.jpg">
-  <img src="https://archive.org/download/propublica-2022/propublica-2022-07-19T11:47:31.821393-04:00.jpg"
-     alt="ProPublica at 2022-07-19 11:47:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-19T11:47:31.821393-04:00.jpg">July 19 at 11:47 AM</a></p>
 </div>
 
 </div>

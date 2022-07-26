@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-07-25T14:38:50.243411-04:00.jpg">
+  <img src="https://archive.org/download/hotairblog-2022/hotairblog-2022-07-25T14:38:50.243411-04:00.jpg"
+     alt="HotAir at 2022-07-25 14:38:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-07-25T14:38:50.243411-04:00.jpg">July 25 at 2:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-07-25T12:41:14.536755-04:00.jpg">
+  <img src="https://archive.org/download/hotairblog-2022/hotairblog-2022-07-25T12:41:14.536755-04:00.jpg"
+     alt="HotAir at 2022-07-25 12:41:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-07-25T12:41:14.536755-04:00.jpg">July 25 at 12:41 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-07-25T08:05:09.916112-04:00.jpg">
@@ -116,24 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-07-22T10:02:53.713591-04:00.jpg">July 22 at 10:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-07-21T22:22:25.576856-04:00.jpg">
-  <img src="https://archive.org/download/hotairblog-2022/hotairblog-2022-07-21T22:22:25.576856-04:00.jpg"
-     alt="HotAir at 2022-07-21 22:22:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-07-21T22:22:25.576856-04:00.jpg">July 21 at 10:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-07-21T13:01:24.884452-04:00.jpg">
-  <img src="https://archive.org/download/hotairblog-2022/hotairblog-2022-07-21T13:01:24.884452-04:00.jpg"
-     alt="HotAir at 2022-07-21 13:01:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-07-21T13:01:24.884452-04:00.jpg">July 21 at 1:01 PM</a></p>
 </div>
 
 </div>

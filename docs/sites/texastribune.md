@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 77 screenshots with the Internet Archive.
+The archiving routine has saved 78 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 77 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-25T10:45:02.155122-05:00.jpg">
+  <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-25T10:45:02.155122-05:00.jpg"
+     alt="Texas Tribune at 2022-07-25 10:45:03-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-25T10:45:02.155122-05:00.jpg">July 25 at 10:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-24T23:34:43.487327-05:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-19T11:59:41.133923-05:00.jpg">July 19 at 11:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-18T23:25:22.572523-05:00.jpg">
-  <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-18T23:25:22.572523-05:00.jpg"
-     alt="Texas Tribune at 2022-07-18 23:25:24-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-18T23:25:22.572523-05:00.jpg">July 18 at 11:25 PM</a></p>
 </div>
 
 </div>

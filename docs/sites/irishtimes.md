@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-07-26T01:15:40.724613+01:00.jpg">
+  <img src="https://archive.org/download/irishtimes-2022/irishtimes-2022-07-26T01:15:40.724613+01:00.jpg"
+     alt="Irish Times at 2022-07-26 01:15:43+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-07-26T01:15:40.724613+01:00.jpg">July 26 at 1:15 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-07-25T14:10:36.806993+01:00.jpg">
+  <img src="https://archive.org/download/irishtimes-2022/irishtimes-2022-07-25T14:10:36.806993+01:00.jpg"
+     alt="Irish Times at 2022-07-25 14:10:38+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-07-25T14:10:36.806993+01:00.jpg">July 25 at 2:10 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-07-25T04:24:05.948940+01:00.jpg">
@@ -116,24 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-07-20T15:26:57.846594+01:00.jpg">July 20 at 3:26 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-07-20T03:19:43.246032+01:00.jpg">
-  <img src="https://archive.org/download/irishtimes-2022/irishtimes-2022-07-20T03:19:43.246032+01:00.jpg"
-     alt="Irish Times at 2022-07-20 03:19:44+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-07-20T03:19:43.246032+01:00.jpg">July 20 at 3:19 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-07-19T15:19:47.677303+01:00.jpg">
-  <img src="https://archive.org/download/irishtimes-2022/irishtimes-2022-07-19T15:19:47.677303+01:00.jpg"
-     alt="Irish Times at 2022-07-19 15:19:48+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-07-19T15:19:47.677303+01:00.jpg">July 19 at 3:19 PM</a></p>
 </div>
 
 </div>

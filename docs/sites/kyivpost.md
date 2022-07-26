@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 264 screenshots with the Internet Archive.
+The archiving routine has saved 266 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-26T03:17:20.025544+03:00.jpg">
+  <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-26T03:17:20.025544+03:00.jpg"
+     alt="KyivPost at 2022-07-26 03:17:23+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-26T03:17:20.025544+03:00.jpg">July 26 at 3:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-25T16:12:39.986770+03:00.jpg">
+  <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-25T16:12:39.986770+03:00.jpg"
+     alt="KyivPost at 2022-07-25 16:12:45+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-25T16:12:39.986770+03:00.jpg">July 25 at 4:12 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-25T06:28:14.140938+03:00.jpg">
   <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-25T06:28:14.140938+03:00.jpg"
      alt="KyivPost at 2022-07-25 06:28:15+03:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-20T17:29:55.946787+03:00.jpg">July 20 at 5:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-20T05:21:46.508783+03:00.jpg">
-  <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-20T05:21:46.508783+03:00.jpg"
-     alt="KyivPost at 2022-07-20 05:21:47+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-20T05:21:46.508783+03:00.jpg">July 20 at 5:21 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-19T17:20:44.008683+03:00.jpg">
-  <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-19T17:20:44.008683+03:00.jpg"
-     alt="KyivPost at 2022-07-19 17:20:49+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-19T17:20:44.008683+03:00.jpg">July 19 at 5:20 PM</a></p>
 </div>
 
 </div>

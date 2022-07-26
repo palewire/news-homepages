@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 130 screenshots with the Internet Archive.
+The archiving routine has saved 134 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/newshour-2022/newshour-2022-07-25T20:21:02.092056-04:00.jpg">
+  <img src="https://archive.org/download/newshour-2022/newshour-2022-07-25T20:21:02.092056-04:00.jpg"
+     alt="PBS News Hour at 2022-07-25 20:21:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-07-25T20:21:02.092056-04:00.jpg">July 25 at 8:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newshour-2022/newshour-2022-07-25T17:14:12.254297-04:00.jpg">
+  <img src="https://archive.org/download/newshour-2022/newshour-2022-07-25T17:14:12.254297-04:00.jpg"
+     alt="PBS News Hour at 2022-07-25 17:14:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-07-25T17:14:12.254297-04:00.jpg">July 25 at 5:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newshour-2022/newshour-2022-07-25T11:55:29.817972-04:00.jpg">
+  <img src="https://archive.org/download/newshour-2022/newshour-2022-07-25T11:55:29.817972-04:00.jpg"
+     alt="PBS News Hour at 2022-07-25 11:55:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-07-25T11:55:29.817972-04:00.jpg">July 25 at 11:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newshour-2022/newshour-2022-07-25T09:16:25.526397-04:00.jpg">
+  <img src="https://archive.org/download/newshour-2022/newshour-2022-07-25T09:16:25.526397-04:00.jpg"
+     alt="PBS News Hour at 2022-07-25 09:16:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-07-25T09:16:25.526397-04:00.jpg">July 25 at 9:16 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/newshour-2022/newshour-2022-07-24T23:36:27.744427-04:00.jpg">
   <img src="https://archive.org/download/newshour-2022/newshour-2022-07-24T23:36:27.744427-04:00.jpg"
      alt="PBS News Hour at 2022-07-24 23:36:40-04:00 local time"
@@ -181,42 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/newshour-2022/newshour-2022-07-23T10:58:19.568932-04:00.jpg">July 23 at 10:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newshour-2022/newshour-2022-07-22T23:33:08.905549-04:00.jpg">
-  <img src="https://archive.org/download/newshour-2022/newshour-2022-07-22T23:33:08.905549-04:00.jpg"
-     alt="PBS News Hour at 2022-07-22 23:33:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-07-22T23:33:08.905549-04:00.jpg">July 22 at 11:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newshour-2022/newshour-2022-07-22T17:09:07.019380-04:00.jpg">
-  <img src="https://archive.org/download/newshour-2022/newshour-2022-07-22T17:09:07.019380-04:00.jpg"
-     alt="PBS News Hour at 2022-07-22 17:09:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-07-22T17:09:07.019380-04:00.jpg">July 22 at 5:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newshour-2022/newshour-2022-07-22T11:05:50.441254-04:00.jpg">
-  <img src="https://archive.org/download/newshour-2022/newshour-2022-07-22T11:05:50.441254-04:00.jpg"
-     alt="PBS News Hour at 2022-07-22 11:05:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-07-22T11:05:50.441254-04:00.jpg">July 22 at 11:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newshour-2022/newshour-2022-07-22T10:58:51.346345-04:00.jpg">
-  <img src="https://archive.org/download/newshour-2022/newshour-2022-07-22T10:58:51.346345-04:00.jpg"
-     alt="PBS News Hour at 2022-07-22 10:58:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-07-22T10:58:51.346345-04:00.jpg">July 22 at 10:58 AM</a></p>
 </div>
 
 </div>

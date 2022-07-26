@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 75 screenshots with the Internet Archive.
+The archiving routine has saved 76 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 75 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/harpers-2022/harpers-2022-07-25T19:15:25.546679-04:00.jpg">
+  <img src="https://archive.org/download/harpers-2022/harpers-2022-07-25T19:15:25.546679-04:00.jpg"
+     alt="Harper’s at 2022-07-25 19:15:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-25T19:15:25.546679-04:00.jpg">July 25 at 7:15 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/harpers-2022/harpers-2022-07-25T08:05:20.847621-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-20T10:27:31.163919-04:00.jpg">July 20 at 10:27 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/harpers-2022/harpers-2022-07-19T22:18:33.584882-04:00.jpg">
-  <img src="https://archive.org/download/harpers-2022/harpers-2022-07-19T22:18:33.584882-04:00.jpg"
-     alt="Harper’s at 2022-07-19 22:18:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-19T22:18:33.584882-04:00.jpg">July 19 at 10:18 PM</a></p>
 </div>
 
 </div>
