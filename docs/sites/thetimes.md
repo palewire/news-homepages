@@ -114,114 +114,205 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-25T16:48:51.173695+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-07-25T16:48:51.173695+01:00.jpg"
-     alt="The Times at 2022-07-25 16:49:01+01:00 local time"
+     alt="The Times at 2022-07-25 23:49:01+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-25T16:48:51.173695+01:00.jpg">July 25 at 4:49 PM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-25T16:48:51.173695+01:00.jpg">July 25 at 11:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-25T10:09:51.223489+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-07-25T10:09:51.223489+01:00.jpg"
-     alt="The Times at 2022-07-25 10:09:52+01:00 local time"
+     alt="The Times at 2022-07-25 17:09:52+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-25T10:09:51.223489+01:00.jpg">July 25 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-25T10:09:51.223489+01:00.jpg">July 25 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-25T05:37:16.712203+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-07-25T05:37:16.712203+01:00.jpg"
-     alt="The Times at 2022-07-25 05:37:18+01:00 local time"
+     alt="The Times at 2022-07-25 12:37:18+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-25T05:37:16.712203+01:00.jpg">July 25 at 5:37 AM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-25T05:37:16.712203+01:00.jpg">July 25 at 12:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-24T16:08:00.245968+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-07-24T16:08:00.245968+01:00.jpg"
-     alt="The Times at 2022-07-24 16:08:01+01:00 local time"
+     alt="The Times at 2022-07-24 23:08:01+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-24T16:08:00.245968+01:00.jpg">July 24 at 4:08 PM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-24T16:08:00.245968+01:00.jpg">July 24 at 11:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-24T10:10:00.781427+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-07-24T10:10:00.781427+01:00.jpg"
-     alt="The Times at 2022-07-24 10:10:02+01:00 local time"
+     alt="The Times at 2022-07-24 17:10:02+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-24T10:10:00.781427+01:00.jpg">July 24 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-24T10:10:00.781427+01:00.jpg">July 24 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-24T04:42:46.455790+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-07-24T04:42:46.455790+01:00.jpg"
-     alt="The Times at 2022-07-24 04:43:08+01:00 local time"
+     alt="The Times at 2022-07-24 11:43:08+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-24T04:42:46.455790+01:00.jpg">July 24 at 4:43 AM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-24T04:42:46.455790+01:00.jpg">July 24 at 11:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-23T17:06:17.406629+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-07-23T17:06:17.406629+01:00.jpg"
-     alt="The Times at 2022-07-23 17:06:18+01:00 local time"
+     alt="The Times at 2022-07-24 00:06:18+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-23T17:06:17.406629+01:00.jpg">July 23 at 5:06 PM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-23T17:06:17.406629+01:00.jpg">July 24 at 12:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-23T10:07:26.676802+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-07-23T10:07:26.676802+01:00.jpg"
-     alt="The Times at 2022-07-23 10:07:27+01:00 local time"
+     alt="The Times at 2022-07-23 17:07:27+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-23T10:07:26.676802+01:00.jpg">July 23 at 10:07 AM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-23T10:07:26.676802+01:00.jpg">July 23 at 5:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-23T05:26:04.374035+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-07-23T05:26:04.374035+01:00.jpg"
-     alt="The Times at 2022-07-23 05:26:14+01:00 local time"
+     alt="The Times at 2022-07-23 12:26:14+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-23T05:26:04.374035+01:00.jpg">July 23 at 5:26 AM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-23T05:26:04.374035+01:00.jpg">July 23 at 12:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-22T17:18:53.846130+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-07-22T17:18:53.846130+01:00.jpg"
-     alt="The Times at 2022-07-22 17:18:56+01:00 local time"
+     alt="The Times at 2022-07-23 00:18:56+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-22T17:18:53.846130+01:00.jpg">July 22 at 5:18 PM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-22T17:18:53.846130+01:00.jpg">July 23 at 12:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-22T10:07:15.164831+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-07-22T10:07:15.164831+01:00.jpg"
-     alt="The Times at 2022-07-22 10:07:16+01:00 local time"
+     alt="The Times at 2022-07-22 17:07:16+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-22T10:07:15.164831+01:00.jpg">July 22 at 10:07 AM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-22T10:07:15.164831+01:00.jpg">July 22 at 5:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-22T05:32:38.198310+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-07-22T05:32:38.198310+01:00.jpg"
-     alt="The Times at 2022-07-22 05:32:40+01:00 local time"
+     alt="The Times at 2022-07-22 12:32:40+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-22T05:32:38.198310+01:00.jpg">July 22 at 5:32 AM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-07-22T05:32:38.198310+01:00.jpg">July 22 at 12:32 PM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 292 hyperlink lists with the Internet Archive.
+
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const spec = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/thetimes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

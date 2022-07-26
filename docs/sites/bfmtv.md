@@ -31,15 +31,23 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-07-26T01:07:42.605474+02:00.jpg">
   <img src="https://archive.org/download/bfmtv-2022/bfmtv-2022-07-26T01:07:42.605474+02:00.jpg"
-     alt="BFMTV at 2022-07-26 01:07:48+02:00 local time"
+     alt="BFMTV at 2022-07-26 08:07:48+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-07-26T01:07:42.605474+02:00.jpg">July 26 at 1:07 AM</a></p>
+ <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-07-26T01:07:42.605474+02:00.jpg">July 26 at 8:07 AM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 1 hyperlink lists with the Internet Archive.
+
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

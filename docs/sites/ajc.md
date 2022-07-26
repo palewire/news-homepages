@@ -114,114 +114,205 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-25T15:06:09.945927-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-25T15:06:09.945927-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-25 15:06:11-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-25 22:06:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-25T15:06:09.945927-04:00.jpg">July 25 at 3:06 PM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-25T15:06:09.945927-04:00.jpg">July 25 at 10:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-25T09:05:37.720558-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-25T09:05:37.720558-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-25 09:05:39-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-25 16:05:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-25T09:05:37.720558-04:00.jpg">July 25 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-25T09:05:37.720558-04:00.jpg">July 25 at 4:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-25T06:56:23.143541-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-25T06:56:23.143541-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-25 06:56:24-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-25 13:56:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-25T06:56:23.143541-04:00.jpg">July 25 at 6:56 AM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-25T06:56:23.143541-04:00.jpg">July 25 at 1:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T23:22:29.477628-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-24T23:22:29.477628-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-24 23:22:31-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-25 06:22:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T23:22:29.477628-04:00.jpg">July 24 at 11:22 PM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T23:22:29.477628-04:00.jpg">July 25 at 6:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T20:46:27.379807-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-24T20:46:27.379807-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-24 20:46:30-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-25 03:46:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T20:46:27.379807-04:00.jpg">July 24 at 8:46 PM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T20:46:27.379807-04:00.jpg">July 25 at 3:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T15:06:55.577218-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-24T15:06:55.577218-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-24 15:06:57-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-24 22:06:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T15:06:55.577218-04:00.jpg">July 24 at 3:06 PM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T15:06:55.577218-04:00.jpg">July 24 at 10:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T08:06:53.553762-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-24T08:06:53.553762-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-24 08:06:55-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-24 15:06:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T08:06:53.553762-04:00.jpg">July 24 at 8:06 AM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T08:06:53.553762-04:00.jpg">July 24 at 3:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T06:55:41.501081-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-24T06:55:41.501081-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-24 06:55:43-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-24 13:55:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T06:55:41.501081-04:00.jpg">July 24 at 6:55 AM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-24T06:55:41.501081-04:00.jpg">July 24 at 1:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T22:26:05.901600-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-23T22:26:05.901600-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-23 22:26:07-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-24 05:26:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T22:26:05.901600-04:00.jpg">July 23 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T22:26:05.901600-04:00.jpg">July 24 at 5:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T18:57:43.610464-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-23T18:57:43.610464-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-23 18:57:45-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-24 01:57:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T18:57:43.610464-04:00.jpg">July 23 at 6:57 PM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T18:57:43.610464-04:00.jpg">July 24 at 1:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T15:03:42.807334-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-23T15:03:42.807334-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-23 15:03:45-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-23 22:03:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T15:03:42.807334-04:00.jpg">July 23 at 3:03 PM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T15:03:42.807334-04:00.jpg">July 23 at 10:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T08:54:01.638726-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-07-23T08:54:01.638726-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-07-23 08:54:03-04:00 local time"
+     alt="Atlanta Journal-Constitution at 2022-07-23 15:54:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T08:54:01.638726-04:00.jpg">July 23 at 8:54 AM</a></p>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-07-23T08:54:01.638726-04:00.jpg">July 23 at 3:54 PM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 40 hyperlink lists with the Internet Archive.
+
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const spec = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/ajc.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

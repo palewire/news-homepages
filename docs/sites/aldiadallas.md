@@ -31,15 +31,23 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-07-25T18:06:06.884656-05:00.jpg">
   <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-07-25T18:06:06.884656-05:00.jpg"
-     alt="Al Dia Dallas at 2022-07-25 18:06:12-05:00 local time"
+     alt="Al Dia Dallas at 2022-07-26 01:06:12-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-07-25T18:06:06.884656-05:00.jpg">July 25 at 6:06 PM</a></p>
+ <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-07-25T18:06:06.884656-05:00.jpg">July 26 at 1:06 AM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 1 hyperlink lists with the Internet Archive.
+
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

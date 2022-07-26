@@ -31,24 +31,32 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-25T08:49:19.223597-07:00.jpg">
   <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-25T08:49:19.223597-07:00.jpg"
-     alt="TorrentFreak at 2022-07-25 08:49:20-07:00 local time"
+     alt="TorrentFreak at 2022-07-25 15:49:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-25T08:49:19.223597-07:00.jpg">July 25 at 8:49 AM</a></p>
+ <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-25T08:49:19.223597-07:00.jpg">July 25 at 3:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-24T23:46:41.475794-07:00.jpg">
   <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-24T23:46:41.475794-07:00.jpg"
-     alt="TorrentFreak at 2022-07-24 23:46:47-07:00 local time"
+     alt="TorrentFreak at 2022-07-25 06:46:47-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-24T23:46:41.475794-07:00.jpg">July 24 at 11:46 PM</a></p>
+ <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-07-24T23:46:41.475794-07:00.jpg">July 25 at 6:46 AM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 2 hyperlink lists with the Internet Archive.
+
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

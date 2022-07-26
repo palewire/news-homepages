@@ -31,33 +31,41 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T19:10:16.677418-04:00.jpg">
   <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T19:10:16.677418-04:00.jpg"
-     alt="BleepingComputer at 2022-07-25 19:10:17-04:00 local time"
+     alt="BleepingComputer at 2022-07-26 02:10:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T19:10:16.677418-04:00.jpg">July 25 at 7:10 PM</a></p>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T19:10:16.677418-04:00.jpg">July 26 at 2:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T07:00:03.880024-04:00.jpg">
   <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T07:00:03.880024-04:00.jpg"
-     alt="BleepingComputer at 2022-07-25 07:00:05-04:00 local time"
+     alt="BleepingComputer at 2022-07-25 14:00:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T07:00:03.880024-04:00.jpg">July 25 at 7:00 AM</a></p>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T07:00:03.880024-04:00.jpg">July 25 at 2:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T02:46:51.395111-04:00.jpg">
   <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T02:46:51.395111-04:00.jpg"
-     alt="BleepingComputer at 2022-07-25 02:46:57-04:00 local time"
+     alt="BleepingComputer at 2022-07-25 09:46:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T02:46:51.395111-04:00.jpg">July 25 at 2:46 AM</a></p>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T02:46:51.395111-04:00.jpg">July 25 at 9:46 AM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 3 hyperlink lists with the Internet Archive.
+
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

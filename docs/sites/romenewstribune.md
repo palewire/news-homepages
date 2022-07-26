@@ -31,105 +31,113 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-25T11:40:24.002610-04:00.jpg">
   <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-25T11:40:24.002610-04:00.jpg"
-     alt="Rome News-Tribune at 2022-07-25 11:40:25-04:00 local time"
+     alt="Rome News-Tribune at 2022-07-25 18:40:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-25T11:40:24.002610-04:00.jpg">July 25 at 11:40 AM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-25T11:40:24.002610-04:00.jpg">July 25 at 6:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-24T23:42:02.331842-04:00.jpg">
   <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-24T23:42:02.331842-04:00.jpg"
-     alt="Rome News-Tribune at 2022-07-24 23:42:04-04:00 local time"
+     alt="Rome News-Tribune at 2022-07-25 06:42:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-24T23:42:02.331842-04:00.jpg">July 24 at 11:42 PM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-24T23:42:02.331842-04:00.jpg">July 25 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-24T10:02:58.306214-04:00.jpg">
   <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-24T10:02:58.306214-04:00.jpg"
-     alt="Rome News-Tribune at 2022-07-24 10:02:59-04:00 local time"
+     alt="Rome News-Tribune at 2022-07-24 17:02:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-24T10:02:58.306214-04:00.jpg">July 24 at 10:02 AM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-24T10:02:58.306214-04:00.jpg">July 24 at 5:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-24T02:21:52.171935-04:00.jpg">
   <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-24T02:21:52.171935-04:00.jpg"
-     alt="Rome News-Tribune at 2022-07-24 02:21:54-04:00 local time"
+     alt="Rome News-Tribune at 2022-07-24 09:21:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-24T02:21:52.171935-04:00.jpg">July 24 at 2:21 AM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-24T02:21:52.171935-04:00.jpg">July 24 at 9:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-23T11:08:36.502450-04:00.jpg">
   <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-23T11:08:36.502450-04:00.jpg"
-     alt="Rome News-Tribune at 2022-07-23 11:08:38-04:00 local time"
+     alt="Rome News-Tribune at 2022-07-23 18:08:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-23T11:08:36.502450-04:00.jpg">July 23 at 11:08 AM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-23T11:08:36.502450-04:00.jpg">July 23 at 6:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-22T23:38:29.157142-04:00.jpg">
   <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-22T23:38:29.157142-04:00.jpg"
-     alt="Rome News-Tribune at 2022-07-22 23:38:30-04:00 local time"
+     alt="Rome News-Tribune at 2022-07-23 06:38:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-22T23:38:29.157142-04:00.jpg">July 22 at 11:38 PM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-22T23:38:29.157142-04:00.jpg">July 23 at 6:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-22T11:04:33.231135-04:00.jpg">
   <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-22T11:04:33.231135-04:00.jpg"
-     alt="Rome News-Tribune at 2022-07-22 11:04:35-04:00 local time"
+     alt="Rome News-Tribune at 2022-07-22 18:04:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-22T11:04:33.231135-04:00.jpg">July 22 at 11:04 AM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-22T11:04:33.231135-04:00.jpg">July 22 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-21T23:43:28.327652-04:00.jpg">
   <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-21T23:43:28.327652-04:00.jpg"
-     alt="Rome News-Tribune at 2022-07-21 23:43:31-04:00 local time"
+     alt="Rome News-Tribune at 2022-07-22 06:43:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-21T23:43:28.327652-04:00.jpg">July 21 at 11:43 PM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-21T23:43:28.327652-04:00.jpg">July 22 at 6:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-21T11:39:51.552671-04:00.jpg">
   <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-21T11:39:51.552671-04:00.jpg"
-     alt="Rome News-Tribune at 2022-07-21 11:39:53-04:00 local time"
+     alt="Rome News-Tribune at 2022-07-21 18:39:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-21T11:39:51.552671-04:00.jpg">July 21 at 11:39 AM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-21T11:39:51.552671-04:00.jpg">July 21 at 6:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-20T23:41:21.764795-04:00.jpg">
   <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-20T23:41:21.764795-04:00.jpg"
-     alt="Rome News-Tribune at 2022-07-20 23:41:23-04:00 local time"
+     alt="Rome News-Tribune at 2022-07-21 06:41:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-20T23:41:21.764795-04:00.jpg">July 20 at 11:41 PM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-20T23:41:21.764795-04:00.jpg">July 21 at 6:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-20T19:30:54.747660-04:00.jpg">
   <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-20T19:30:54.747660-04:00.jpg"
-     alt="Rome News-Tribune at 2022-07-20 19:31:00-04:00 local time"
+     alt="Rome News-Tribune at 2022-07-21 02:31:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-20T19:30:54.747660-04:00.jpg">July 20 at 7:31 PM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-20T19:30:54.747660-04:00.jpg">July 21 at 2:31 AM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 10 hyperlink lists with the Internet Archive.
+
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

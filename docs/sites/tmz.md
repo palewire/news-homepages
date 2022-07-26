@@ -31,114 +31,122 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/tmz-2022/tmz-2022-07-25T08:49:40.297498-07:00.jpg">
   <img src="https://archive.org/download/tmz-2022/tmz-2022-07-25T08:49:40.297498-07:00.jpg"
-     alt="TMZ at 2022-07-25 08:49:41-07:00 local time"
+     alt="TMZ at 2022-07-25 15:49:41-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-25T08:49:40.297498-07:00.jpg">July 25 at 8:49 AM</a></p>
+ <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-25T08:49:40.297498-07:00.jpg">July 25 at 3:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tmz-2022/tmz-2022-07-24T21:38:56.813877-07:00.jpg">
   <img src="https://archive.org/download/tmz-2022/tmz-2022-07-24T21:38:56.813877-07:00.jpg"
-     alt="TMZ at 2022-07-24 21:38:58-07:00 local time"
+     alt="TMZ at 2022-07-25 04:38:58-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-24T21:38:56.813877-07:00.jpg">July 24 at 9:38 PM</a></p>
+ <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-24T21:38:56.813877-07:00.jpg">July 25 at 4:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tmz-2022/tmz-2022-07-24T08:08:28.661597-07:00.jpg">
   <img src="https://archive.org/download/tmz-2022/tmz-2022-07-24T08:08:28.661597-07:00.jpg"
-     alt="TMZ at 2022-07-24 08:08:30-07:00 local time"
+     alt="TMZ at 2022-07-24 15:08:30-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-24T08:08:28.661597-07:00.jpg">July 24 at 8:08 AM</a></p>
+ <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-24T08:08:28.661597-07:00.jpg">July 24 at 3:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tmz-2022/tmz-2022-07-23T20:43:47.200318-07:00.jpg">
   <img src="https://archive.org/download/tmz-2022/tmz-2022-07-23T20:43:47.200318-07:00.jpg"
-     alt="TMZ at 2022-07-23 20:43:49-07:00 local time"
+     alt="TMZ at 2022-07-24 03:43:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-23T20:43:47.200318-07:00.jpg">July 23 at 8:43 PM</a></p>
+ <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-23T20:43:47.200318-07:00.jpg">July 24 at 3:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tmz-2022/tmz-2022-07-23T09:06:50.466378-07:00.jpg">
   <img src="https://archive.org/download/tmz-2022/tmz-2022-07-23T09:06:50.466378-07:00.jpg"
-     alt="TMZ at 2022-07-23 09:06:53-07:00 local time"
+     alt="TMZ at 2022-07-23 16:06:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-23T09:06:50.466378-07:00.jpg">July 23 at 9:06 AM</a></p>
+ <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-23T09:06:50.466378-07:00.jpg">July 23 at 4:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tmz-2022/tmz-2022-07-22T21:27:08.763329-07:00.jpg">
   <img src="https://archive.org/download/tmz-2022/tmz-2022-07-22T21:27:08.763329-07:00.jpg"
-     alt="TMZ at 2022-07-22 21:27:10-07:00 local time"
+     alt="TMZ at 2022-07-23 04:27:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-22T21:27:08.763329-07:00.jpg">July 22 at 9:27 PM</a></p>
+ <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-22T21:27:08.763329-07:00.jpg">July 23 at 4:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tmz-2022/tmz-2022-07-22T09:19:34.289926-07:00.jpg">
   <img src="https://archive.org/download/tmz-2022/tmz-2022-07-22T09:19:34.289926-07:00.jpg"
-     alt="TMZ at 2022-07-22 09:19:35-07:00 local time"
+     alt="TMZ at 2022-07-22 16:19:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-22T09:19:34.289926-07:00.jpg">July 22 at 9:19 AM</a></p>
+ <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-22T09:19:34.289926-07:00.jpg">July 22 at 4:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tmz-2022/tmz-2022-07-21T21:33:30.128095-07:00.jpg">
   <img src="https://archive.org/download/tmz-2022/tmz-2022-07-21T21:33:30.128095-07:00.jpg"
-     alt="TMZ at 2022-07-21 21:33:32-07:00 local time"
+     alt="TMZ at 2022-07-22 04:33:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-21T21:33:30.128095-07:00.jpg">July 21 at 9:33 PM</a></p>
+ <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-21T21:33:30.128095-07:00.jpg">July 22 at 4:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tmz-2022/tmz-2022-07-21T09:56:49.143715-07:00.jpg">
   <img src="https://archive.org/download/tmz-2022/tmz-2022-07-21T09:56:49.143715-07:00.jpg"
-     alt="TMZ at 2022-07-21 09:56:52-07:00 local time"
+     alt="TMZ at 2022-07-21 16:56:52-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-21T09:56:49.143715-07:00.jpg">July 21 at 9:56 AM</a></p>
+ <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-21T09:56:49.143715-07:00.jpg">July 21 at 4:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tmz-2022/tmz-2022-07-20T21:32:13.552661-07:00.jpg">
   <img src="https://archive.org/download/tmz-2022/tmz-2022-07-20T21:32:13.552661-07:00.jpg"
-     alt="TMZ at 2022-07-20 21:32:15-07:00 local time"
+     alt="TMZ at 2022-07-21 04:32:15-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-20T21:32:13.552661-07:00.jpg">July 20 at 9:32 PM</a></p>
+ <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-20T21:32:13.552661-07:00.jpg">July 21 at 4:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tmz-2022/tmz-2022-07-20T09:47:51.544293-07:00.jpg">
   <img src="https://archive.org/download/tmz-2022/tmz-2022-07-20T09:47:51.544293-07:00.jpg"
-     alt="TMZ at 2022-07-20 09:47:53-07:00 local time"
+     alt="TMZ at 2022-07-20 16:47:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-20T09:47:51.544293-07:00.jpg">July 20 at 9:47 AM</a></p>
+ <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-20T09:47:51.544293-07:00.jpg">July 20 at 4:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tmz-2022/tmz-2022-07-19T21:22:56.173341-07:00.jpg">
   <img src="https://archive.org/download/tmz-2022/tmz-2022-07-19T21:22:56.173341-07:00.jpg"
-     alt="TMZ at 2022-07-19 21:22:57-07:00 local time"
+     alt="TMZ at 2022-07-20 04:22:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-19T21:22:56.173341-07:00.jpg">July 19 at 9:22 PM</a></p>
+ <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-19T21:22:56.173341-07:00.jpg">July 20 at 4:22 AM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 15 hyperlink lists with the Internet Archive.
+
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

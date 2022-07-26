@@ -31,33 +31,41 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T18:58:47.659810+05:45.jpg">
   <img src="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T18:58:47.659810+05:45.jpg"
-     alt="Lokpath at 2022-07-25 18:58:48+05:45 local time"
+     alt="Lokpath at 2022-07-26 01:58:48+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T18:58:47.659810+05:45.jpg">July 25 at 6:58 PM</a></p>
+ <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T18:58:47.659810+05:45.jpg">July 26 at 1:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T09:15:17.705011+05:45.jpg">
   <img src="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T09:15:17.705011+05:45.jpg"
-     alt="Lokpath at 2022-07-25 09:15:18+05:45 local time"
+     alt="Lokpath at 2022-07-25 16:15:18+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T09:15:17.705011+05:45.jpg">July 25 at 9:15 AM</a></p>
+ <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T09:15:17.705011+05:45.jpg">July 25 at 4:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T02:22:58.745553+05:45.jpg">
   <img src="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T02:22:58.745553+05:45.jpg"
-     alt="Lokpath at 2022-07-25 02:23:04+05:45 local time"
+     alt="Lokpath at 2022-07-25 09:23:04+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T02:22:58.745553+05:45.jpg">July 25 at 2:23 AM</a></p>
+ <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-07-25T02:22:58.745553+05:45.jpg">July 25 at 9:23 AM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 3 hyperlink lists with the Internet Archive.
+
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

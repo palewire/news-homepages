@@ -30,7 +30,15 @@ Here are the 12 most recent screenshots.
 
 </div>
 
+## Hyperlinks
+
+The archiving routine has saved 0 hyperlink lists with the Internet Archive.
+
+
+
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

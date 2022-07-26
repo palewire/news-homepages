@@ -31,15 +31,23 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/mdr_san-2022/mdr_san-2022-07-26T02:18:45.386029+02:00.jpg">
   <img src="https://archive.org/download/mdr_san-2022/mdr_san-2022-07-26T02:18:45.386029+02:00.jpg"
-     alt="MDR Sachsen-Anhalt at 2022-07-26 02:18:51+02:00 local time"
+     alt="MDR Sachsen-Anhalt at 2022-07-26 09:18:51+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mdr_san-2022/mdr_san-2022-07-26T02:18:45.386029+02:00.jpg">July 26 at 2:18 AM</a></p>
+ <p><a href="https://archive.org/download/mdr_san-2022/mdr_san-2022-07-26T02:18:45.386029+02:00.jpg">July 26 at 9:18 AM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 1 hyperlink lists with the Internet Archive.
+
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

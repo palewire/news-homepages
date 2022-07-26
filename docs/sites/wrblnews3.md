@@ -31,69 +31,77 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-25T11:53:12.076931-04:00.jpg">
   <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-25T11:53:12.076931-04:00.jpg"
-     alt="WRBL News 3 at 2022-07-25 11:53:13-04:00 local time"
+     alt="WRBL News 3 at 2022-07-25 18:53:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-25T11:53:12.076931-04:00.jpg">July 25 at 11:53 AM</a></p>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-25T11:53:12.076931-04:00.jpg">July 25 at 6:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-25T00:42:02.368892-04:00.jpg">
   <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-25T00:42:02.368892-04:00.jpg"
-     alt="WRBL News 3 at 2022-07-25 00:42:04-04:00 local time"
+     alt="WRBL News 3 at 2022-07-25 07:42:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-25T00:42:02.368892-04:00.jpg">July 25 at 12:42 AM</a></p>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-25T00:42:02.368892-04:00.jpg">July 25 at 7:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-24T11:12:02.580192-04:00.jpg">
   <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-24T11:12:02.580192-04:00.jpg"
-     alt="WRBL News 3 at 2022-07-24 11:12:03-04:00 local time"
+     alt="WRBL News 3 at 2022-07-24 18:12:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-24T11:12:02.580192-04:00.jpg">July 24 at 11:12 AM</a></p>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-24T11:12:02.580192-04:00.jpg">July 24 at 6:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-23T23:46:56.802102-04:00.jpg">
   <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-23T23:46:56.802102-04:00.jpg"
-     alt="WRBL News 3 at 2022-07-23 23:46:58-04:00 local time"
+     alt="WRBL News 3 at 2022-07-24 06:46:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-23T23:46:56.802102-04:00.jpg">July 23 at 11:46 PM</a></p>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-23T23:46:56.802102-04:00.jpg">July 24 at 6:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-23T12:10:16.023183-04:00.jpg">
   <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-23T12:10:16.023183-04:00.jpg"
-     alt="WRBL News 3 at 2022-07-23 12:10:17-04:00 local time"
+     alt="WRBL News 3 at 2022-07-23 19:10:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-23T12:10:16.023183-04:00.jpg">July 23 at 12:10 PM</a></p>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-23T12:10:16.023183-04:00.jpg">July 23 at 7:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-23T00:29:33.723264-04:00.jpg">
   <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-23T00:29:33.723264-04:00.jpg"
-     alt="WRBL News 3 at 2022-07-23 00:29:35-04:00 local time"
+     alt="WRBL News 3 at 2022-07-23 07:29:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-23T00:29:33.723264-04:00.jpg">July 23 at 12:29 AM</a></p>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-23T00:29:33.723264-04:00.jpg">July 23 at 7:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-22T12:22:48.413372-04:00.jpg">
   <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-22T12:22:48.413372-04:00.jpg"
-     alt="WRBL News 3 at 2022-07-22 12:22:57-04:00 local time"
+     alt="WRBL News 3 at 2022-07-22 19:22:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-22T12:22:48.413372-04:00.jpg">July 22 at 12:22 PM</a></p>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-22T12:22:48.413372-04:00.jpg">July 22 at 7:22 PM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

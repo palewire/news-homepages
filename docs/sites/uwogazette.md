@@ -31,42 +31,50 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T11:51:51.531982-04:00.jpg">
   <img src="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T11:51:51.531982-04:00.jpg"
-     alt="Western Gazette at 2022-07-25 11:51:53-04:00 local time"
+     alt="Western Gazette at 2022-07-25 18:51:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T11:51:51.531982-04:00.jpg">July 25 at 11:51 AM</a></p>
+ <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T11:51:51.531982-04:00.jpg">July 25 at 6:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T00:40:01.428009-04:00.jpg">
   <img src="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T00:40:01.428009-04:00.jpg"
-     alt="Western Gazette at 2022-07-25 00:40:03-04:00 local time"
+     alt="Western Gazette at 2022-07-25 07:40:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T00:40:01.428009-04:00.jpg">July 25 at 12:40 AM</a></p>
+ <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T00:40:01.428009-04:00.jpg">July 25 at 7:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-24T11:09:18.462751-04:00.jpg">
   <img src="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-24T11:09:18.462751-04:00.jpg"
-     alt="Western Gazette at 2022-07-24 11:09:21-04:00 local time"
+     alt="Western Gazette at 2022-07-24 18:09:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-24T11:09:18.462751-04:00.jpg">July 24 at 11:09 AM</a></p>
+ <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-24T11:09:18.462751-04:00.jpg">July 24 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-23T23:45:19.538388-04:00.jpg">
   <img src="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-23T23:45:19.538388-04:00.jpg"
-     alt="Western Gazette at 2022-07-23 23:45:24-04:00 local time"
+     alt="Western Gazette at 2022-07-24 06:45:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-23T23:45:19.538388-04:00.jpg">July 23 at 11:45 PM</a></p>
+ <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-23T23:45:19.538388-04:00.jpg">July 24 at 6:45 AM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 3 hyperlink lists with the Internet Archive.
+
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

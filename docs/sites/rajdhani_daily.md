@@ -31,42 +31,50 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-26T06:08:25.831521+05:45.jpg">
   <img src="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-26T06:08:25.831521+05:45.jpg"
-     alt="Rajdhani Daily at 2022-07-26 06:08:27+05:45 local time"
+     alt="Rajdhani Daily at 2022-07-26 13:08:27+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-26T06:08:25.831521+05:45.jpg">July 26 at 6:08 AM</a></p>
+ <p><a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-26T06:08:25.831521+05:45.jpg">July 26 at 1:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-25T21:23:42.660417+05:45.jpg">
   <img src="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-25T21:23:42.660417+05:45.jpg"
-     alt="Rajdhani Daily at 2022-07-25 21:23:44+05:45 local time"
+     alt="Rajdhani Daily at 2022-07-26 04:23:44+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-25T21:23:42.660417+05:45.jpg">July 25 at 9:23 PM</a></p>
+ <p><a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-25T21:23:42.660417+05:45.jpg">July 26 at 4:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-25T09:25:52.425303+05:45.jpg">
   <img src="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-25T09:25:52.425303+05:45.jpg"
-     alt="Rajdhani Daily at 2022-07-25 09:25:54+05:45 local time"
+     alt="Rajdhani Daily at 2022-07-25 16:25:54+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-25T09:25:52.425303+05:45.jpg">July 25 at 9:25 AM</a></p>
+ <p><a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-25T09:25:52.425303+05:45.jpg">July 25 at 4:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-25T02:23:41.119849+05:45.jpg">
   <img src="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-25T02:23:41.119849+05:45.jpg"
-     alt="Rajdhani Daily at 2022-07-25 02:23:47+05:45 local time"
+     alt="Rajdhani Daily at 2022-07-25 09:23:47+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-25T02:23:41.119849+05:45.jpg">July 25 at 2:23 AM</a></p>
+ <p><a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-25T02:23:41.119849+05:45.jpg">July 25 at 9:23 AM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

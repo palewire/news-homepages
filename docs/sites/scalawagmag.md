@@ -31,42 +31,50 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-25T11:40:49.442519-04:00.jpg">
   <img src="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-25T11:40:49.442519-04:00.jpg"
-     alt="Scalawag at 2022-07-25 11:40:51-04:00 local time"
+     alt="Scalawag at 2022-07-25 18:40:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-25T11:40:49.442519-04:00.jpg">July 25 at 11:40 AM</a></p>
+ <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-25T11:40:49.442519-04:00.jpg">July 25 at 6:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-24T23:43:07.660344-04:00.jpg">
   <img src="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-24T23:43:07.660344-04:00.jpg"
-     alt="Scalawag at 2022-07-24 23:43:08-04:00 local time"
+     alt="Scalawag at 2022-07-25 06:43:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-24T23:43:07.660344-04:00.jpg">July 24 at 11:43 PM</a></p>
+ <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-24T23:43:07.660344-04:00.jpg">July 25 at 6:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-24T10:03:03.148648-04:00.jpg">
   <img src="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-24T10:03:03.148648-04:00.jpg"
-     alt="Scalawag at 2022-07-24 10:03:05-04:00 local time"
+     alt="Scalawag at 2022-07-24 17:03:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-24T10:03:03.148648-04:00.jpg">July 24 at 10:03 AM</a></p>
+ <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-24T10:03:03.148648-04:00.jpg">July 24 at 5:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-24T02:22:38.522046-04:00.jpg">
   <img src="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-24T02:22:38.522046-04:00.jpg"
-     alt="Scalawag at 2022-07-24 02:22:44-04:00 local time"
+     alt="Scalawag at 2022-07-24 09:22:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-24T02:22:38.522046-04:00.jpg">July 24 at 2:22 AM</a></p>
+ <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-24T02:22:38.522046-04:00.jpg">July 24 at 9:22 AM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

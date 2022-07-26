@@ -31,114 +31,122 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-25T08:10:50.094769-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-25T08:10:50.094769-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-25 08:10:51-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-25 15:10:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-25T08:10:50.094769-05:00.jpg">July 25 at 8:10 AM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-25T08:10:50.094769-05:00.jpg">July 25 at 3:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-24T22:26:45.127761-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-24T22:26:45.127761-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-24 22:26:47-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-25 05:26:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-24T22:26:45.127761-05:00.jpg">July 24 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-24T22:26:45.127761-05:00.jpg">July 25 at 5:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-24T07:59:52.284289-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-24T07:59:52.284289-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-24 07:59:53-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-24 14:59:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-24T07:59:52.284289-05:00.jpg">July 24 at 7:59 AM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-24T07:59:52.284289-05:00.jpg">July 24 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-23T23:15:01.534098-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-23T23:15:01.534098-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-23 23:15:03-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-24 06:15:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-23T23:15:01.534098-05:00.jpg">July 23 at 11:15 PM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-23T23:15:01.534098-05:00.jpg">July 24 at 6:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-23T09:04:55.122262-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-23T09:04:55.122262-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-23 09:04:56-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-23 16:04:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-23T09:04:55.122262-05:00.jpg">July 23 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-23T09:04:55.122262-05:00.jpg">July 23 at 4:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-22T21:31:42.175850-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-22T21:31:42.175850-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-22 21:31:43-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-23 04:31:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-22T21:31:42.175850-05:00.jpg">July 22 at 9:31 PM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-22T21:31:42.175850-05:00.jpg">July 23 at 4:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-22T09:05:36.233446-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-22T09:05:36.233446-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-22 09:05:38-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-22 16:05:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-22T09:05:36.233446-05:00.jpg">July 22 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-22T09:05:36.233446-05:00.jpg">July 22 at 4:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-21T21:25:04.491721-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-21T21:25:04.491721-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-21 21:25:06-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-22 04:25:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-21T21:25:04.491721-05:00.jpg">July 21 at 9:25 PM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-21T21:25:04.491721-05:00.jpg">July 22 at 4:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-21T09:15:16.037799-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-21T09:15:16.037799-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-21 09:15:18-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-21 16:15:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-21T09:15:16.037799-05:00.jpg">July 21 at 9:15 AM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-21T09:15:16.037799-05:00.jpg">July 21 at 4:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-20T21:27:57.211789-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-20T21:27:57.211789-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-20 21:27:58-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-21 04:27:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-20T21:27:57.211789-05:00.jpg">July 20 at 9:27 PM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-20T21:27:57.211789-05:00.jpg">July 21 at 4:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-20T09:28:02.182691-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-20T09:28:02.182691-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-20 09:28:04-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-20 16:28:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-20T09:28:02.182691-05:00.jpg">July 20 at 9:28 AM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-20T09:28:02.182691-05:00.jpg">July 20 at 4:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-19T21:20:47.858221-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-19T21:20:47.858221-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-19 21:20:49-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-20 04:20:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-19T21:20:47.858221-05:00.jpg">July 19 at 9:20 PM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-19T21:20:47.858221-05:00.jpg">July 20 at 4:20 AM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 15 hyperlink lists with the Internet Archive.
+
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

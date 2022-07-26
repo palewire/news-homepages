@@ -31,15 +31,23 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T05:46:22.506962+05:30.jpg">
   <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T05:46:22.506962+05:30.jpg"
-     alt="India Today at 2022-07-26 05:46:28+05:30 local time"
+     alt="India Today at 2022-07-26 12:46:28+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T05:46:22.506962+05:30.jpg">July 26 at 5:46 AM</a></p>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T05:46:22.506962+05:30.jpg">July 26 at 12:46 PM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 1 hyperlink lists with the Internet Archive.
+
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

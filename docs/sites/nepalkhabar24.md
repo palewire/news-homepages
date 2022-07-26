@@ -31,42 +31,50 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-26T06:05:07.620109+05:45.jpg">
   <img src="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-26T06:05:07.620109+05:45.jpg"
-     alt="Nepal Khabar at 2022-07-26 06:05:09+05:45 local time"
+     alt="Nepal Khabar at 2022-07-26 13:05:09+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-26T06:05:07.620109+05:45.jpg">July 26 at 6:05 AM</a></p>
+ <p><a href="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-26T06:05:07.620109+05:45.jpg">July 26 at 1:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T19:01:39.194304+05:45.jpg">
   <img src="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T19:01:39.194304+05:45.jpg"
-     alt="Nepal Khabar at 2022-07-25 19:01:40+05:45 local time"
+     alt="Nepal Khabar at 2022-07-26 02:01:40+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T19:01:39.194304+05:45.jpg">July 25 at 7:01 PM</a></p>
+ <p><a href="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T19:01:39.194304+05:45.jpg">July 26 at 2:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T09:20:06.467216+05:45.jpg">
   <img src="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T09:20:06.467216+05:45.jpg"
-     alt="Nepal Khabar at 2022-07-25 09:20:07+05:45 local time"
+     alt="Nepal Khabar at 2022-07-25 16:20:07+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T09:20:06.467216+05:45.jpg">July 25 at 9:20 AM</a></p>
+ <p><a href="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T09:20:06.467216+05:45.jpg">July 25 at 4:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T02:23:19.209992+05:45.jpg">
   <img src="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T02:23:19.209992+05:45.jpg"
-     alt="Nepal Khabar at 2022-07-25 02:23:24+05:45 local time"
+     alt="Nepal Khabar at 2022-07-25 09:23:24+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T02:23:19.209992+05:45.jpg">July 25 at 2:23 AM</a></p>
+ <p><a href="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T02:23:19.209992+05:45.jpg">July 25 at 9:23 AM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

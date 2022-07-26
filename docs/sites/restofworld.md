@@ -31,15 +31,23 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/restofworld-2022/restofworld-2022-07-25T11:39:29.827919-04:00.jpg">
   <img src="https://archive.org/download/restofworld-2022/restofworld-2022-07-25T11:39:29.827919-04:00.jpg"
-     alt="Rest of World at 2022-07-25 11:39:35-04:00 local time"
+     alt="Rest of World at 2022-07-25 18:39:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/restofworld-2022/restofworld-2022-07-25T11:39:29.827919-04:00.jpg">July 25 at 11:39 AM</a></p>
+ <p><a href="https://archive.org/download/restofworld-2022/restofworld-2022-07-25T11:39:29.827919-04:00.jpg">July 25 at 6:39 PM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 1 hyperlink lists with the Internet Archive.
+
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

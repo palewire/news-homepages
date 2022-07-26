@@ -31,42 +31,50 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/usnews-2022/usnews-2022-07-25T11:50:49.040245-04:00.jpg">
   <img src="https://archive.org/download/usnews-2022/usnews-2022-07-25T11:50:49.040245-04:00.jpg"
-     alt="U.S. News & World Report at 2022-07-25 11:50:50-04:00 local time"
+     alt="U.S. News & World Report at 2022-07-25 18:50:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usnews-2022/usnews-2022-07-25T11:50:49.040245-04:00.jpg">July 25 at 11:50 AM</a></p>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-07-25T11:50:49.040245-04:00.jpg">July 25 at 6:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usnews-2022/usnews-2022-07-25T00:39:45.548204-04:00.jpg">
   <img src="https://archive.org/download/usnews-2022/usnews-2022-07-25T00:39:45.548204-04:00.jpg"
-     alt="U.S. News & World Report at 2022-07-25 00:39:46-04:00 local time"
+     alt="U.S. News & World Report at 2022-07-25 07:39:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usnews-2022/usnews-2022-07-25T00:39:45.548204-04:00.jpg">July 25 at 12:39 AM</a></p>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-07-25T00:39:45.548204-04:00.jpg">July 25 at 7:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usnews-2022/usnews-2022-07-24T11:09:19.398410-04:00.jpg">
   <img src="https://archive.org/download/usnews-2022/usnews-2022-07-24T11:09:19.398410-04:00.jpg"
-     alt="U.S. News & World Report at 2022-07-24 11:09:21-04:00 local time"
+     alt="U.S. News & World Report at 2022-07-24 18:09:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usnews-2022/usnews-2022-07-24T11:09:19.398410-04:00.jpg">July 24 at 11:09 AM</a></p>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-07-24T11:09:19.398410-04:00.jpg">July 24 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usnews-2022/usnews-2022-07-23T23:44:18.958529-04:00.jpg">
   <img src="https://archive.org/download/usnews-2022/usnews-2022-07-23T23:44:18.958529-04:00.jpg"
-     alt="U.S. News & World Report at 2022-07-23 23:44:24-04:00 local time"
+     alt="U.S. News & World Report at 2022-07-24 06:44:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usnews-2022/usnews-2022-07-23T23:44:18.958529-04:00.jpg">July 23 at 11:44 PM</a></p>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-07-23T23:44:18.958529-04:00.jpg">July 24 at 6:44 AM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 3 hyperlink lists with the Internet Archive.
+
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

@@ -95,6 +95,7 @@ def site_detail():
     # Get all screenshots and items
     csv_dir = utils.EXTRACT_DIR / "csv"
     screenshot_list = utils.get_screenshot_list()
+    hyperlink_list = utils.get_hyperlink_list()
     item_list = list(csv.DictReader(open(csv_dir / "items.csv")))
 
     # For each site ...
@@ -117,11 +118,17 @@ def site_detail():
         for s in most_recent_screenshots:
             s["local_time"] = s["local_time"] = s["mtime"].astimezone(site_tz)
 
+        # Get the hyperlinks for this site
+        hyperlinks = [
+            h for h in hyperlink_list if h["handle"].lower() == site["handle"].lower()
+        ]
+
         # Render the template
         context = {
             "site": site,
             "screenshots": len(screenshots),
             "most_recent_screenshots": most_recent_screenshots,
+            "hyperlinks": len(hyperlinks),
             "items": [
                 i for i in item_list if i["handle"].lower() == site["handle"].lower()
             ],
@@ -173,6 +180,67 @@ def site_detail_screenshot_chart():
 
         # Calculate the seven-day rolling average
         site_by_date["value"] = site_by_date.screenshots.rolling(7).mean()
+
+        # Cut nulls
+        site_by_date_nonulls = site_by_date[~pd.isnull(site_by_date.value)]
+
+        # Cut the most recent day, which may be incomplete
+        site_by_date_qualified = site_by_date_nonulls.head(
+            len(site_by_date_nonulls) - 1
+        )
+
+        # Trim the columns
+        site_by_date_trimmed = site_by_date_qualified[["date", "value"]]
+
+        # Format the date for JSON
+        site_by_date_trimmed["date"] = site_by_date_trimmed["date"].dt.strftime(
+            "%Y-%m-%d"
+        )
+
+        # Write it out
+        site_by_date_trimmed.to_json(
+            out_dir / f"{site['handle'].lower()}.json",
+            indent=2,
+            orient="records",
+        )
+
+
+@cli.command()
+def site_detail_hyperlink_chart():
+    """Create the JSON data file for the site detail page's hyperlinks chart."""
+    # Get all sites
+    site_list = utils.get_site_list()
+    print(
+        f":link: Creating hyperlinks chart JSON files for {len(site_list)} site detail pages"
+    )
+
+    # Get all screenshots
+    screenshots_df = pd.read_csv(
+        utils.EXTRACT_DIR / "csv" / "hyperlink-files.csv",
+        parse_dates=["mtime"],
+        usecols=["identifier", "handle", "file_name", "mtime"],
+    )
+    screenshots_df["date"] = pd.to_datetime(screenshots_df.mtime.dt.date)
+
+    # Ignore pandas warnings
+    warnings.filterwarnings("ignore")
+
+    # Make the out directory
+    out_dir = utils.DOCS_DIR / "_extra" / "charts" / "sites" / "hyperlinks"
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    # Loop through all sites
+    for site in track(site_list):
+        # Get the screenshots for this site
+        site_df = screenshots_df[
+            screenshots_df.handle.str.lower() == site["handle"].lower()
+        ]
+
+        # Group and count by date
+        site_by_date = site_df.groupby("date").size().rename("hyperlinks").reset_index()
+
+        # Calculate the seven-day rolling average
+        site_by_date["value"] = site_by_date.hyperlinks.rolling(7).mean()
 
         # Cut nulls
         site_by_date_nonulls = site_by_date[~pd.isnull(site_by_date.value)]

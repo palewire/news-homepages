@@ -114,114 +114,205 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-25T20:18:32.265355-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-25T20:18:32.265355-04:00.jpg"
-     alt="Marshall Project at 2022-07-25 20:18:36-04:00 local time"
+     alt="Marshall Project at 2022-07-26 03:18:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-25T20:18:32.265355-04:00.jpg">July 25 at 8:18 PM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-25T20:18:32.265355-04:00.jpg">July 26 at 3:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-25T09:14:15.593587-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-25T09:14:15.593587-04:00.jpg"
-     alt="Marshall Project at 2022-07-25 09:14:16-04:00 local time"
+     alt="Marshall Project at 2022-07-25 16:14:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-25T09:14:15.593587-04:00.jpg">July 25 at 9:14 AM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-25T09:14:15.593587-04:00.jpg">July 25 at 4:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-24T23:30:55.095438-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-24T23:30:55.095438-04:00.jpg"
-     alt="Marshall Project at 2022-07-24 23:30:56-04:00 local time"
+     alt="Marshall Project at 2022-07-25 06:30:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-24T23:30:55.095438-04:00.jpg">July 24 at 11:30 PM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-24T23:30:55.095438-04:00.jpg">July 25 at 6:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-24T09:02:33.139820-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-24T09:02:33.139820-04:00.jpg"
-     alt="Marshall Project at 2022-07-24 09:02:35-04:00 local time"
+     alt="Marshall Project at 2022-07-24 16:02:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-24T09:02:33.139820-04:00.jpg">July 24 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-24T09:02:33.139820-04:00.jpg">July 24 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-24T00:17:52.577170-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-24T00:17:52.577170-04:00.jpg"
-     alt="Marshall Project at 2022-07-24 00:17:56-04:00 local time"
+     alt="Marshall Project at 2022-07-24 07:17:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-24T00:17:52.577170-04:00.jpg">July 24 at 12:17 AM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-24T00:17:52.577170-04:00.jpg">July 24 at 7:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-23T11:00:46.031426-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-23T11:00:46.031426-04:00.jpg"
-     alt="Marshall Project at 2022-07-23 11:00:49-04:00 local time"
+     alt="Marshall Project at 2022-07-23 18:00:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-23T11:00:46.031426-04:00.jpg">July 23 at 11:00 AM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-23T11:00:46.031426-04:00.jpg">July 23 at 6:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-22T23:30:19.376444-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-22T23:30:19.376444-04:00.jpg"
-     alt="Marshall Project at 2022-07-22 23:30:21-04:00 local time"
+     alt="Marshall Project at 2022-07-23 06:30:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-22T23:30:19.376444-04:00.jpg">July 22 at 11:30 PM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-22T23:30:19.376444-04:00.jpg">July 23 at 6:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-22T10:56:21.664438-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-22T10:56:21.664438-04:00.jpg"
-     alt="Marshall Project at 2022-07-22 10:56:23-04:00 local time"
+     alt="Marshall Project at 2022-07-22 17:56:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-22T10:56:21.664438-04:00.jpg">July 22 at 10:56 AM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-22T10:56:21.664438-04:00.jpg">July 22 at 5:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-21T23:34:45.423569-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-21T23:34:45.423569-04:00.jpg"
-     alt="Marshall Project at 2022-07-21 23:34:49-04:00 local time"
+     alt="Marshall Project at 2022-07-22 06:34:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-21T23:34:45.423569-04:00.jpg">July 21 at 11:34 PM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-21T23:34:45.423569-04:00.jpg">July 22 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-21T11:33:16.568340-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-21T11:33:16.568340-04:00.jpg"
-     alt="Marshall Project at 2022-07-21 11:33:26-04:00 local time"
+     alt="Marshall Project at 2022-07-21 18:33:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-21T11:33:16.568340-04:00.jpg">July 21 at 11:33 AM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-21T11:33:16.568340-04:00.jpg">July 21 at 6:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-20T23:34:11.131425-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-20T23:34:11.131425-04:00.jpg"
-     alt="Marshall Project at 2022-07-20 23:34:12-04:00 local time"
+     alt="Marshall Project at 2022-07-21 06:34:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-20T23:34:11.131425-04:00.jpg">July 20 at 11:34 PM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-20T23:34:11.131425-04:00.jpg">July 21 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-20T12:10:49.296068-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-20T12:10:49.296068-04:00.jpg"
-     alt="Marshall Project at 2022-07-20 12:10:52-04:00 local time"
+     alt="Marshall Project at 2022-07-20 19:10:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-20T12:10:49.296068-04:00.jpg">July 20 at 12:10 PM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-07-20T12:10:49.296068-04:00.jpg">July 20 at 7:10 PM</a></p>
 </div>
 
 </div>
+
+## Hyperlinks
+
+The archiving routine has saved 113 hyperlink lists with the Internet Archive.
+
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const spec = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/marshallproj.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
 
 ## Internet Archive
+
+Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |

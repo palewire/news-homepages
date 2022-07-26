@@ -131,6 +131,27 @@ def get_screenshot_list() -> typing.List[typing.Dict[str, typing.Any]]:
     return sorted_list
 
 
+def get_hyperlink_list() -> typing.List[typing.Dict[str, typing.Any]]:
+    """Get the full list of hyperlink from our extracts.
+
+    Returns a list of dictionaries.
+    """
+    # Open the screenshot list
+    with open(EXTRACT_DIR / "csv" / "hyperlink-files.csv") as fh:
+        obj_list: typing.List[typing.Dict[str, typing.Any]] = list(csv.DictReader(fh))
+
+    # Convert the timestamps to Python datetime objects
+    for obj in obj_list:
+        dt = datetime.strptime(obj["mtime"], "%Y-%m-%d %H:%M:%S")
+        obj["mtime"] = dt.astimezone(pytz.utc)
+
+    # Sort it reverse chron
+    sorted_list = sorted(obj_list, key=lambda x: x["mtime"], reverse=True)
+
+    # Return it
+    return sorted_list
+
+
 def get_screenshots_by_site(site: typing.Dict) -> typing.List[typing.Dict]:
     """Get the list of screenshots for the provided site.
 
