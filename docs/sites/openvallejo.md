@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-25T17:22:25.880354-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-25T17:22:25.880354-07:00.jpg"
-     alt="Open Vallejo at 2022-07-26 00:22:27-07:00 local time"
+     alt="Open Vallejo at 2022-07-25 17:22:27-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-25T17:22:25.880354-07:00.jpg">July 26 at 12:22 AM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-25T17:22:25.880354-07:00.jpg">July 25 at 5:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-25T08:36:08.946708-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-25T08:36:08.946708-07:00.jpg"
-     alt="Open Vallejo at 2022-07-25 15:36:11-07:00 local time"
+     alt="Open Vallejo at 2022-07-25 08:36:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-25T08:36:08.946708-07:00.jpg">July 25 at 3:36 PM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-25T08:36:08.946708-07:00.jpg">July 25 at 8:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-24T20:39:08.922495-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-24T20:39:08.922495-07:00.jpg"
-     alt="Open Vallejo at 2022-07-25 03:39:09-07:00 local time"
+     alt="Open Vallejo at 2022-07-24 20:39:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-24T20:39:08.922495-07:00.jpg">July 25 at 3:39 AM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-24T20:39:08.922495-07:00.jpg">July 24 at 8:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-24T06:59:35.862196-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-24T06:59:35.862196-07:00.jpg"
-     alt="Open Vallejo at 2022-07-24 13:59:37-07:00 local time"
+     alt="Open Vallejo at 2022-07-24 06:59:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-24T06:59:35.862196-07:00.jpg">July 24 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-24T06:59:35.862196-07:00.jpg">July 24 at 6:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-23T23:17:53.203088-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-23T23:17:53.203088-07:00.jpg"
-     alt="Open Vallejo at 2022-07-24 06:17:54-07:00 local time"
+     alt="Open Vallejo at 2022-07-23 23:17:54-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-23T23:17:53.203088-07:00.jpg">July 24 at 6:17 AM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-23T23:17:53.203088-07:00.jpg">July 23 at 11:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-23T08:06:55.025135-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-23T08:06:55.025135-07:00.jpg"
-     alt="Open Vallejo at 2022-07-23 15:06:59-07:00 local time"
+     alt="Open Vallejo at 2022-07-23 08:06:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-23T08:06:55.025135-07:00.jpg">July 23 at 3:06 PM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-23T08:06:55.025135-07:00.jpg">July 23 at 8:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-22T20:35:32.190291-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-22T20:35:32.190291-07:00.jpg"
-     alt="Open Vallejo at 2022-07-23 03:35:33-07:00 local time"
+     alt="Open Vallejo at 2022-07-22 20:35:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-22T20:35:32.190291-07:00.jpg">July 23 at 3:35 AM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-22T20:35:32.190291-07:00.jpg">July 22 at 8:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-22T08:01:37.335563-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-22T08:01:37.335563-07:00.jpg"
-     alt="Open Vallejo at 2022-07-22 15:01:38-07:00 local time"
+     alt="Open Vallejo at 2022-07-22 08:01:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-22T08:01:37.335563-07:00.jpg">July 22 at 3:01 PM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-22T08:01:37.335563-07:00.jpg">July 22 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-21T20:39:58.533619-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-21T20:39:58.533619-07:00.jpg"
-     alt="Open Vallejo at 2022-07-22 03:39:59-07:00 local time"
+     alt="Open Vallejo at 2022-07-21 20:39:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-21T20:39:58.533619-07:00.jpg">July 22 at 3:39 AM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-21T20:39:58.533619-07:00.jpg">July 21 at 8:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-21T08:36:10.878035-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-21T08:36:10.878035-07:00.jpg"
-     alt="Open Vallejo at 2022-07-21 15:36:12-07:00 local time"
+     alt="Open Vallejo at 2022-07-21 08:36:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-21T08:36:10.878035-07:00.jpg">July 21 at 3:36 PM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-21T08:36:10.878035-07:00.jpg">July 21 at 8:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-20T20:38:17.517760-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-20T20:38:17.517760-07:00.jpg"
-     alt="Open Vallejo at 2022-07-21 03:38:19-07:00 local time"
+     alt="Open Vallejo at 2022-07-20 20:38:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-20T20:38:17.517760-07:00.jpg">July 21 at 3:38 AM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-20T20:38:17.517760-07:00.jpg">July 20 at 8:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-20T09:12:23.162570-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-20T09:12:23.162570-07:00.jpg"
-     alt="Open Vallejo at 2022-07-20 16:12:27-07:00 local time"
+     alt="Open Vallejo at 2022-07-20 09:12:27-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-20T09:12:23.162570-07:00.jpg">July 20 at 4:12 PM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-07-20T09:12:23.162570-07:00.jpg">July 20 at 9:12 AM</a></p>
 </div>
 
 </div>

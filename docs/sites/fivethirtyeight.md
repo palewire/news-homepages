@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-25T19:13:08.156979-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-25T19:13:08.156979-04:00.jpg"
-     alt="FiveThirtyEight at 2022-07-26 02:13:09-04:00 local time"
+     alt="FiveThirtyEight at 2022-07-25 19:13:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-25T19:13:08.156979-04:00.jpg">July 26 at 2:13 AM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-25T19:13:08.156979-04:00.jpg">July 25 at 7:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-25T08:01:53.977107-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-25T08:01:53.977107-04:00.jpg"
-     alt="FiveThirtyEight at 2022-07-25 15:01:55-04:00 local time"
+     alt="FiveThirtyEight at 2022-07-25 08:01:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-25T08:01:53.977107-04:00.jpg">July 25 at 3:01 PM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-25T08:01:53.977107-04:00.jpg">July 25 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-24T21:04:38.336428-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-24T21:04:38.336428-04:00.jpg"
-     alt="FiveThirtyEight at 2022-07-25 04:04:40-04:00 local time"
+     alt="FiveThirtyEight at 2022-07-24 21:04:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-24T21:04:38.336428-04:00.jpg">July 25 at 4:04 AM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-24T21:04:38.336428-04:00.jpg">July 24 at 9:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-24T07:58:56.192109-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-24T07:58:56.192109-04:00.jpg"
-     alt="FiveThirtyEight at 2022-07-24 14:58:59-04:00 local time"
+     alt="FiveThirtyEight at 2022-07-24 07:58:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-24T07:58:56.192109-04:00.jpg">July 24 at 2:58 PM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-24T07:58:56.192109-04:00.jpg">July 24 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-24T02:28:36.157376-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-24T02:28:36.157376-04:00.jpg"
-     alt="FiveThirtyEight at 2022-07-24 09:28:39-04:00 local time"
+     alt="FiveThirtyEight at 2022-07-24 02:28:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-24T02:28:36.157376-04:00.jpg">July 24 at 9:28 AM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-24T02:28:36.157376-04:00.jpg">July 24 at 2:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-23T09:59:14.762923-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-23T09:59:14.762923-04:00.jpg"
-     alt="FiveThirtyEight at 2022-07-23 16:59:18-04:00 local time"
+     alt="FiveThirtyEight at 2022-07-23 09:59:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-23T09:59:14.762923-04:00.jpg">July 23 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-23T09:59:14.762923-04:00.jpg">July 23 at 9:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-22T22:25:15.242423-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-22T22:25:15.242423-04:00.jpg"
-     alt="FiveThirtyEight at 2022-07-23 05:25:16-04:00 local time"
+     alt="FiveThirtyEight at 2022-07-22 22:25:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-22T22:25:15.242423-04:00.jpg">July 23 at 5:25 AM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-22T22:25:15.242423-04:00.jpg">July 22 at 10:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-22T10:00:22.582781-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-22T10:00:22.582781-04:00.jpg"
-     alt="FiveThirtyEight at 2022-07-22 17:00:28-04:00 local time"
+     alt="FiveThirtyEight at 2022-07-22 10:00:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-22T10:00:22.582781-04:00.jpg">July 22 at 5:00 PM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-22T10:00:22.582781-04:00.jpg">July 22 at 10:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-21T22:19:28.867762-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-21T22:19:28.867762-04:00.jpg"
-     alt="FiveThirtyEight at 2022-07-22 05:19:32-04:00 local time"
+     alt="FiveThirtyEight at 2022-07-21 22:19:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-21T22:19:28.867762-04:00.jpg">July 22 at 5:19 AM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-21T22:19:28.867762-04:00.jpg">July 21 at 10:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-21T10:07:32.432080-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-21T10:07:32.432080-04:00.jpg"
-     alt="FiveThirtyEight at 2022-07-21 17:07:36-04:00 local time"
+     alt="FiveThirtyEight at 2022-07-21 10:07:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-21T10:07:32.432080-04:00.jpg">July 21 at 5:07 PM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-21T10:07:32.432080-04:00.jpg">July 21 at 10:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-20T22:22:22.332660-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-20T22:22:22.332660-04:00.jpg"
-     alt="FiveThirtyEight at 2022-07-21 05:22:24-04:00 local time"
+     alt="FiveThirtyEight at 2022-07-20 22:22:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-20T22:22:22.332660-04:00.jpg">July 21 at 5:22 AM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-20T22:22:22.332660-04:00.jpg">July 20 at 10:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-20T10:21:27.531030-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-20T10:21:27.531030-04:00.jpg"
-     alt="FiveThirtyEight at 2022-07-20 17:21:28-04:00 local time"
+     alt="FiveThirtyEight at 2022-07-20 10:21:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-20T10:21:27.531030-04:00.jpg">July 20 at 5:21 PM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-20T10:21:27.531030-04:00.jpg">July 20 at 10:21 AM</a></p>
 </div>
 
 </div>

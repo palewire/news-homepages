@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-25T17:36:26.043335+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-07-25T17:36:26.043335+02:00.jpg"
-     alt="Paris Review at 2022-07-26 00:36:27+02:00 local time"
+     alt="Paris Review at 2022-07-25 17:36:27+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-25T17:36:26.043335+02:00.jpg">July 26 at 12:36 AM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-25T17:36:26.043335+02:00.jpg">July 25 at 5:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-25T05:39:12.769316+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-07-25T05:39:12.769316+02:00.jpg"
-     alt="Paris Review at 2022-07-25 12:39:15+02:00 local time"
+     alt="Paris Review at 2022-07-25 05:39:15+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-25T05:39:12.769316+02:00.jpg">July 25 at 12:39 PM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-25T05:39:12.769316+02:00.jpg">July 25 at 5:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-24T15:59:44.177843+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-07-24T15:59:44.177843+02:00.jpg"
-     alt="Paris Review at 2022-07-24 22:59:48+02:00 local time"
+     alt="Paris Review at 2022-07-24 15:59:48+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-24T15:59:44.177843+02:00.jpg">July 24 at 10:59 PM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-24T15:59:44.177843+02:00.jpg">July 24 at 3:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-24T08:18:44.631192+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-07-24T08:18:44.631192+02:00.jpg"
-     alt="Paris Review at 2022-07-24 15:18:46+02:00 local time"
+     alt="Paris Review at 2022-07-24 08:18:46+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-24T08:18:44.631192+02:00.jpg">July 24 at 3:18 PM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-24T08:18:44.631192+02:00.jpg">July 24 at 8:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-23T17:05:56.454893+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-07-23T17:05:56.454893+02:00.jpg"
-     alt="Paris Review at 2022-07-24 00:05:59+02:00 local time"
+     alt="Paris Review at 2022-07-23 17:05:59+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-23T17:05:56.454893+02:00.jpg">July 24 at 12:05 AM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-23T17:05:56.454893+02:00.jpg">July 23 at 5:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-23T05:35:27.763633+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-07-23T05:35:27.763633+02:00.jpg"
-     alt="Paris Review at 2022-07-23 12:35:29+02:00 local time"
+     alt="Paris Review at 2022-07-23 05:35:29+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-23T05:35:27.763633+02:00.jpg">July 23 at 12:35 PM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-23T05:35:27.763633+02:00.jpg">July 23 at 5:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-22T17:01:13.158170+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-07-22T17:01:13.158170+02:00.jpg"
-     alt="Paris Review at 2022-07-23 00:01:14+02:00 local time"
+     alt="Paris Review at 2022-07-22 17:01:14+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-22T17:01:13.158170+02:00.jpg">July 23 at 12:01 AM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-22T17:01:13.158170+02:00.jpg">July 22 at 5:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-22T05:40:34.822536+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-07-22T05:40:34.822536+02:00.jpg"
-     alt="Paris Review at 2022-07-22 12:40:36+02:00 local time"
+     alt="Paris Review at 2022-07-22 05:40:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-22T05:40:34.822536+02:00.jpg">July 22 at 12:40 PM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-22T05:40:34.822536+02:00.jpg">July 22 at 5:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-21T17:36:42.585441+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-07-21T17:36:42.585441+02:00.jpg"
-     alt="Paris Review at 2022-07-22 00:36:43+02:00 local time"
+     alt="Paris Review at 2022-07-21 17:36:43+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-21T17:36:42.585441+02:00.jpg">July 22 at 12:36 AM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-21T17:36:42.585441+02:00.jpg">July 21 at 5:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-21T05:38:27.529324+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-07-21T05:38:27.529324+02:00.jpg"
-     alt="Paris Review at 2022-07-21 12:38:29+02:00 local time"
+     alt="Paris Review at 2022-07-21 05:38:29+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-21T05:38:27.529324+02:00.jpg">July 21 at 12:38 PM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-21T05:38:27.529324+02:00.jpg">July 21 at 5:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-20T18:12:35.777965+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-07-20T18:12:35.777965+02:00.jpg"
-     alt="Paris Review at 2022-07-21 01:12:37+02:00 local time"
+     alt="Paris Review at 2022-07-20 18:12:37+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-20T18:12:35.777965+02:00.jpg">July 21 at 1:12 AM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-20T18:12:35.777965+02:00.jpg">July 20 at 6:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-20T05:35:58.387645+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-07-20T05:35:58.387645+02:00.jpg"
-     alt="Paris Review at 2022-07-20 12:36:00+02:00 local time"
+     alt="Paris Review at 2022-07-20 05:36:00+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-20T05:35:58.387645+02:00.jpg">July 20 at 12:36 PM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-20T05:35:58.387645+02:00.jpg">July 20 at 5:36 AM</a></p>
 </div>
 
 </div>

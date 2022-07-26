@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-25T08:09:20.355400-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-25T08:09:20.355400-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-07-25 15:09:23-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-07-25 08:09:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-25T08:09:20.355400-05:00.jpg">July 25 at 3:09 PM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-25T08:09:20.355400-05:00.jpg">July 25 at 8:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-24T22:24:57.264778-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-24T22:24:57.264778-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-07-25 05:25:00-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-07-24 22:25:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-24T22:24:57.264778-05:00.jpg">July 25 at 5:25 AM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-24T22:24:57.264778-05:00.jpg">July 24 at 10:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-24T07:58:59.878911-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-24T07:58:59.878911-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-07-24 14:59:02-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-07-24 07:59:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-24T07:58:59.878911-05:00.jpg">July 24 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-24T07:58:59.878911-05:00.jpg">July 24 at 7:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-23T23:13:45.053052-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-23T23:13:45.053052-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-07-24 06:13:54-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-07-23 23:13:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-23T23:13:45.053052-05:00.jpg">July 24 at 6:13 AM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-23T23:13:45.053052-05:00.jpg">July 23 at 11:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-23T09:04:19.081708-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-23T09:04:19.081708-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-07-23 16:04:20-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-07-23 09:04:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-23T09:04:19.081708-05:00.jpg">July 23 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-23T09:04:19.081708-05:00.jpg">July 23 at 9:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-22T21:30:09.663328-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-22T21:30:09.663328-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-07-23 04:30:11-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-07-22 21:30:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-22T21:30:09.663328-05:00.jpg">July 23 at 4:30 AM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-22T21:30:09.663328-05:00.jpg">July 22 at 9:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-22T09:05:08.270892-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-22T09:05:08.270892-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-07-22 16:05:11-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-07-22 09:05:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-22T09:05:08.270892-05:00.jpg">July 22 at 4:05 PM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-22T09:05:08.270892-05:00.jpg">July 22 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-21T21:24:59.482865-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-21T21:24:59.482865-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-07-22 04:25:03-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-07-21 21:25:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-21T21:24:59.482865-05:00.jpg">July 22 at 4:25 AM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-21T21:24:59.482865-05:00.jpg">July 21 at 9:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-21T09:14:29.529950-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-21T09:14:29.529950-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-07-21 16:14:36-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-07-21 09:14:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-21T09:14:29.529950-05:00.jpg">July 21 at 4:14 PM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-21T09:14:29.529950-05:00.jpg">July 21 at 9:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-20T21:27:02.638269-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-20T21:27:02.638269-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-07-21 04:27:04-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-07-20 21:27:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-20T21:27:02.638269-05:00.jpg">July 21 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-20T21:27:02.638269-05:00.jpg">July 20 at 9:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-20T09:27:30.013417-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-20T09:27:30.013417-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-07-20 16:27:33-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-07-20 09:27:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-20T09:27:30.013417-05:00.jpg">July 20 at 4:27 PM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-20T09:27:30.013417-05:00.jpg">July 20 at 9:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-19T21:20:12.388480-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-19T21:20:12.388480-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-07-20 04:20:14-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-07-19 21:20:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-19T21:20:12.388480-05:00.jpg">July 20 at 4:20 AM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-19T21:20:12.388480-05:00.jpg">July 19 at 9:20 PM</a></p>
 </div>
 
 </div>

@@ -31,10 +31,10 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/abc15-2022/abc15-2022-07-25T16:06:09.421412-07:00.jpg">
   <img src="https://archive.org/download/abc15-2022/abc15-2022-07-25T16:06:09.421412-07:00.jpg"
-     alt="ABC15 Arizona at 2022-07-25 23:06:15-07:00 local time"
+     alt="ABC15 Arizona at 2022-07-25 16:06:15-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc15-2022/abc15-2022-07-25T16:06:09.421412-07:00.jpg">July 25 at 11:06 PM</a></p>
+ <p><a href="https://archive.org/download/abc15-2022/abc15-2022-07-25T16:06:09.421412-07:00.jpg">July 25 at 4:06 PM</a></p>
 </div>
 
 </div>

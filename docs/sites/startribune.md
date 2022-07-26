@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-07-25T10:43:12.494886-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-07-25T10:43:12.494886-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-07-25 17:43:14-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-07-25 10:43:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-25T10:43:12.494886-05:00.jpg">July 25 at 5:43 PM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-25T10:43:12.494886-05:00.jpg">July 25 at 10:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-07-24T22:44:07.763649-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-07-24T22:44:07.763649-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-07-25 05:44:11-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-07-24 22:44:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-24T22:44:07.763649-05:00.jpg">July 25 at 5:44 AM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-24T22:44:07.763649-05:00.jpg">July 24 at 10:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-07-24T09:05:01.309228-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-07-24T09:05:01.309228-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-07-24 16:05:06-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-07-24 09:05:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-24T09:05:01.309228-05:00.jpg">July 24 at 4:05 PM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-24T09:05:01.309228-05:00.jpg">July 24 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-07-24T01:24:36.221828-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-07-24T01:24:36.221828-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-07-24 08:24:40-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-07-24 01:24:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-24T01:24:36.221828-05:00.jpg">July 24 at 8:24 AM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-24T01:24:36.221828-05:00.jpg">July 24 at 1:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-07-23T11:03:16.197027-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-07-23T11:03:16.197027-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-07-23 18:03:24-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-07-23 11:03:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-23T11:03:16.197027-05:00.jpg">July 23 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-23T11:03:16.197027-05:00.jpg">July 23 at 11:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-07-22T23:23:23.543504-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-07-22T23:23:23.543504-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-07-23 06:23:27-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-07-22 23:23:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-22T23:23:23.543504-05:00.jpg">July 23 at 6:23 AM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-22T23:23:23.543504-05:00.jpg">July 22 at 11:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-07-22T11:16:05.483616-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-07-22T11:16:05.483616-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-07-22 18:16:09-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-07-22 11:16:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-22T11:16:05.483616-05:00.jpg">July 22 at 6:16 PM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-22T11:16:05.483616-05:00.jpg">July 22 at 11:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-07-21T23:29:28.488093-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-07-21T23:29:28.488093-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-07-22 06:29:33-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-07-21 23:29:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-21T23:29:28.488093-05:00.jpg">July 22 at 6:29 AM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-21T23:29:28.488093-05:00.jpg">July 21 at 11:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-07-21T11:52:48.103041-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-07-21T11:52:48.103041-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-07-21 18:52:49-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-07-21 11:52:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-21T11:52:48.103041-05:00.jpg">July 21 at 6:52 PM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-21T11:52:48.103041-05:00.jpg">July 21 at 11:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-07-20T23:27:29.860645-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-07-20T23:27:29.860645-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-07-21 06:27:34-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-07-20 23:27:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-20T23:27:29.860645-05:00.jpg">July 21 at 6:27 AM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-20T23:27:29.860645-05:00.jpg">July 20 at 11:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-07-20T11:43:22.680738-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-07-20T11:43:22.680738-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-07-20 18:43:29-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-07-20 11:43:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-20T11:43:22.680738-05:00.jpg">July 20 at 6:43 PM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-20T11:43:22.680738-05:00.jpg">July 20 at 11:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-07-19T23:19:21.694090-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-07-19T23:19:21.694090-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-07-20 06:19:25-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-07-19 23:19:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-19T23:19:21.694090-05:00.jpg">July 20 at 6:19 AM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-19T23:19:21.694090-05:00.jpg">July 19 at 11:19 PM</a></p>
 </div>
 
 </div>

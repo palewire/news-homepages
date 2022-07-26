@@ -31,109 +31,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/beltel-2022/beltel-2022-07-26T00:07:49.466746+01:00.jpg">
   <img src="https://archive.org/download/beltel-2022/beltel-2022-07-26T00:07:49.466746+01:00.jpg"
-     alt="Belfast Telegraph at 2022-07-26 07:07:51+01:00 local time"
+     alt="Belfast Telegraph at 2022-07-26 00:07:51+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-26T00:07:49.466746+01:00.jpg">July 26 at 7:07 AM</a></p>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-26T00:07:49.466746+01:00.jpg">July 26 at 12:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beltel-2022/beltel-2022-07-25T11:59:40.042464+01:00.jpg">
   <img src="https://archive.org/download/beltel-2022/beltel-2022-07-25T11:59:40.042464+01:00.jpg"
-     alt="Belfast Telegraph at 2022-07-25 18:59:41+01:00 local time"
+     alt="Belfast Telegraph at 2022-07-25 11:59:41+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-25T11:59:40.042464+01:00.jpg">July 25 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-25T11:59:40.042464+01:00.jpg">July 25 at 11:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beltel-2022/beltel-2022-07-25T01:50:33.657437+01:00.jpg">
   <img src="https://archive.org/download/beltel-2022/beltel-2022-07-25T01:50:33.657437+01:00.jpg"
-     alt="Belfast Telegraph at 2022-07-25 08:50:35+01:00 local time"
+     alt="Belfast Telegraph at 2022-07-25 01:50:35+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-25T01:50:33.657437+01:00.jpg">July 25 at 8:50 AM</a></p>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-25T01:50:33.657437+01:00.jpg">July 25 at 1:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beltel-2022/beltel-2022-07-24T11:58:45.742839+01:00.jpg">
   <img src="https://archive.org/download/beltel-2022/beltel-2022-07-24T11:58:45.742839+01:00.jpg"
-     alt="Belfast Telegraph at 2022-07-24 18:58:47+01:00 local time"
+     alt="Belfast Telegraph at 2022-07-24 11:58:47+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-24T11:58:45.742839+01:00.jpg">July 24 at 6:58 PM</a></p>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-24T11:58:45.742839+01:00.jpg">July 24 at 11:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beltel-2022/beltel-2022-07-24T00:00:25.055322+01:00.jpg">
   <img src="https://archive.org/download/beltel-2022/beltel-2022-07-24T00:00:25.055322+01:00.jpg"
-     alt="Belfast Telegraph at 2022-07-24 07:00:26+01:00 local time"
+     alt="Belfast Telegraph at 2022-07-24 00:00:26+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-24T00:00:25.055322+01:00.jpg">July 24 at 7:00 AM</a></p>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-24T00:00:25.055322+01:00.jpg">July 24 at 12:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beltel-2022/beltel-2022-07-23T13:57:09.144221+01:00.jpg">
   <img src="https://archive.org/download/beltel-2022/beltel-2022-07-23T13:57:09.144221+01:00.jpg"
-     alt="Belfast Telegraph at 2022-07-23 20:57:10+01:00 local time"
+     alt="Belfast Telegraph at 2022-07-23 13:57:10+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-23T13:57:09.144221+01:00.jpg">July 23 at 8:57 PM</a></p>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-23T13:57:09.144221+01:00.jpg">July 23 at 1:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beltel-2022/beltel-2022-07-23T01:58:38.126021+01:00.jpg">
   <img src="https://archive.org/download/beltel-2022/beltel-2022-07-23T01:58:38.126021+01:00.jpg"
-     alt="Belfast Telegraph at 2022-07-23 08:58:39+01:00 local time"
+     alt="Belfast Telegraph at 2022-07-23 01:58:39+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-23T01:58:38.126021+01:00.jpg">July 23 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-23T01:58:38.126021+01:00.jpg">July 23 at 1:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beltel-2022/beltel-2022-07-22T13:57:18.645485+01:00.jpg">
   <img src="https://archive.org/download/beltel-2022/beltel-2022-07-22T13:57:18.645485+01:00.jpg"
-     alt="Belfast Telegraph at 2022-07-22 20:57:20+01:00 local time"
+     alt="Belfast Telegraph at 2022-07-22 13:57:20+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-22T13:57:18.645485+01:00.jpg">July 22 at 8:57 PM</a></p>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-22T13:57:18.645485+01:00.jpg">July 22 at 1:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beltel-2022/beltel-2022-07-22T02:05:55.117461+01:00.jpg">
   <img src="https://archive.org/download/beltel-2022/beltel-2022-07-22T02:05:55.117461+01:00.jpg"
-     alt="Belfast Telegraph at 2022-07-22 09:05:56+01:00 local time"
+     alt="Belfast Telegraph at 2022-07-22 02:05:56+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-22T02:05:55.117461+01:00.jpg">July 22 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-22T02:05:55.117461+01:00.jpg">July 22 at 2:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beltel-2022/beltel-2022-07-21T13:52:19.273694+01:00.jpg">
   <img src="https://archive.org/download/beltel-2022/beltel-2022-07-21T13:52:19.273694+01:00.jpg"
-     alt="Belfast Telegraph at 2022-07-21 20:52:20+01:00 local time"
+     alt="Belfast Telegraph at 2022-07-21 13:52:20+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-21T13:52:19.273694+01:00.jpg">July 21 at 8:52 PM</a></p>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-21T13:52:19.273694+01:00.jpg">July 21 at 1:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beltel-2022/beltel-2022-07-21T02:04:03.750214+01:00.jpg">
   <img src="https://archive.org/download/beltel-2022/beltel-2022-07-21T02:04:03.750214+01:00.jpg"
-     alt="Belfast Telegraph at 2022-07-21 09:04:05+01:00 local time"
+     alt="Belfast Telegraph at 2022-07-21 02:04:05+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-21T02:04:03.750214+01:00.jpg">July 21 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-21T02:04:03.750214+01:00.jpg">July 21 at 2:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beltel-2022/beltel-2022-07-20T13:52:43.519308+01:00.jpg">
   <img src="https://archive.org/download/beltel-2022/beltel-2022-07-20T13:52:43.519308+01:00.jpg"
-     alt="Belfast Telegraph at 2022-07-20 20:52:45+01:00 local time"
+     alt="Belfast Telegraph at 2022-07-20 13:52:45+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-20T13:52:43.519308+01:00.jpg">July 20 at 8:52 PM</a></p>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-20T13:52:43.519308+01:00.jpg">July 20 at 1:52 PM</a></p>
 </div>
 
 </div>

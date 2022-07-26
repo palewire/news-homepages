@@ -31,46 +31,46 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-25T11:46:14.443782-04:00.jpg">
   <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-25T11:46:14.443782-04:00.jpg"
-     alt="Daily Beast at 2022-07-25 18:46:16-04:00 local time"
+     alt="Daily Beast at 2022-07-25 11:46:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-25T11:46:14.443782-04:00.jpg">July 25 at 6:46 PM</a></p>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-25T11:46:14.443782-04:00.jpg">July 25 at 11:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-25T00:37:03.522499-04:00.jpg">
   <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-25T00:37:03.522499-04:00.jpg"
-     alt="Daily Beast at 2022-07-25 07:37:05-04:00 local time"
+     alt="Daily Beast at 2022-07-25 00:37:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-25T00:37:03.522499-04:00.jpg">July 25 at 7:37 AM</a></p>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-25T00:37:03.522499-04:00.jpg">July 25 at 12:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-24T11:06:25.876609-04:00.jpg">
   <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-24T11:06:25.876609-04:00.jpg"
-     alt="Daily Beast at 2022-07-24 18:06:27-04:00 local time"
+     alt="Daily Beast at 2022-07-24 11:06:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-24T11:06:25.876609-04:00.jpg">July 24 at 6:06 PM</a></p>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-24T11:06:25.876609-04:00.jpg">July 24 at 11:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-23T23:41:05.582559-04:00.jpg">
   <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-23T23:41:05.582559-04:00.jpg"
-     alt="Daily Beast at 2022-07-24 06:41:07-04:00 local time"
+     alt="Daily Beast at 2022-07-23 23:41:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-23T23:41:05.582559-04:00.jpg">July 24 at 6:41 AM</a></p>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-23T23:41:05.582559-04:00.jpg">July 23 at 11:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-23T12:04:08.647297-04:00.jpg">
   <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-23T12:04:08.647297-04:00.jpg"
-     alt="Daily Beast at 2022-07-23 19:04:14-04:00 local time"
+     alt="Daily Beast at 2022-07-23 12:04:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-23T12:04:08.647297-04:00.jpg">July 23 at 7:04 PM</a></p>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-23T12:04:08.647297-04:00.jpg">July 23 at 12:04 PM</a></p>
 </div>
 
 </div>

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T07:01:49.101099-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T07:01:49.101099-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-25 14:01:51-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-25 07:01:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T07:01:49.101099-04:00.jpg">July 25 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T07:01:49.101099-04:00.jpg">July 25 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T20:54:37.877529-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T20:54:37.877529-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-25 03:54:39-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-24 20:54:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T20:54:37.877529-04:00.jpg">July 25 at 3:54 AM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T20:54:37.877529-04:00.jpg">July 24 at 8:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T07:01:00.844777-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T07:01:00.844777-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-24 14:01:03-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-24 07:01:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T07:01:00.844777-04:00.jpg">July 24 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T07:01:00.844777-04:00.jpg">July 24 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T19:03:30.669877-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T19:03:30.669877-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-24 02:03:31-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-23 19:03:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T19:03:30.669877-04:00.jpg">July 24 at 2:03 AM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T19:03:30.669877-04:00.jpg">July 23 at 7:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T08:59:35.364126-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T08:59:35.364126-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-23 15:59:37-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-23 08:59:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T08:59:35.364126-04:00.jpg">July 23 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T08:59:35.364126-04:00.jpg">July 23 at 8:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-22T21:00:56.971492-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-22T21:00:56.971492-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-23 04:00:59-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-22 21:00:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-22T21:00:56.971492-04:00.jpg">July 23 at 4:00 AM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-22T21:00:56.971492-04:00.jpg">July 22 at 9:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-22T09:00:05.168218-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-22T09:00:05.168218-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-22 16:00:07-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-22 09:00:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-22T09:00:05.168218-04:00.jpg">July 22 at 4:00 PM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-22T09:00:05.168218-04:00.jpg">July 22 at 9:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-21T21:08:01.768289-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-21T21:08:01.768289-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-22 04:08:05-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-21 21:08:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-21T21:08:01.768289-04:00.jpg">July 22 at 4:08 AM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-21T21:08:01.768289-04:00.jpg">July 21 at 9:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-21T08:54:15.677953-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-21T08:54:15.677953-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-21 15:54:18-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-21 08:54:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-21T08:54:15.677953-04:00.jpg">July 21 at 3:54 PM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-21T08:54:15.677953-04:00.jpg">July 21 at 8:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-20T21:07:06.139896-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-20T21:07:06.139896-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-21 04:07:07-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-20 21:07:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-20T21:07:06.139896-04:00.jpg">July 21 at 4:07 AM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-20T21:07:06.139896-04:00.jpg">July 20 at 9:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-20T08:55:19.286183-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-20T08:55:19.286183-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-20 15:55:20-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-20 08:55:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-20T08:55:19.286183-04:00.jpg">July 20 at 3:55 PM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-20T08:55:19.286183-04:00.jpg">July 20 at 8:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-19T21:02:13.341890-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-19T21:02:13.341890-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-20 04:02:14-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-19 21:02:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-19T21:02:13.341890-04:00.jpg">July 20 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-19T21:02:13.341890-04:00.jpg">July 19 at 9:02 PM</a></p>
 </div>
 
 </div>

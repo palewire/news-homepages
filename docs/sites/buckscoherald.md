@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-25T19:08:35.847156-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-25T19:08:35.847156-04:00.jpg"
-     alt="Bucks County Herald at 2022-07-26 02:08:38-04:00 local time"
+     alt="Bucks County Herald at 2022-07-25 19:08:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-25T19:08:35.847156-04:00.jpg">July 26 at 2:08 AM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-25T19:08:35.847156-04:00.jpg">July 25 at 7:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-25T07:01:14.437300-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-25T07:01:14.437300-04:00.jpg"
-     alt="Bucks County Herald at 2022-07-25 14:01:16-04:00 local time"
+     alt="Bucks County Herald at 2022-07-25 07:01:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-25T07:01:14.437300-04:00.jpg">July 25 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-25T07:01:14.437300-04:00.jpg">July 25 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-24T20:52:20.812099-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-24T20:52:20.812099-04:00.jpg"
-     alt="Bucks County Herald at 2022-07-25 03:52:22-04:00 local time"
+     alt="Bucks County Herald at 2022-07-24 20:52:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-24T20:52:20.812099-04:00.jpg">July 25 at 3:52 AM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-24T20:52:20.812099-04:00.jpg">July 24 at 8:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-24T07:00:02.922958-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-24T07:00:02.922958-04:00.jpg"
-     alt="Bucks County Herald at 2022-07-24 14:00:04-04:00 local time"
+     alt="Bucks County Herald at 2022-07-24 07:00:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-24T07:00:02.922958-04:00.jpg">July 24 at 2:00 PM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-24T07:00:02.922958-04:00.jpg">July 24 at 7:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-23T19:01:35.821268-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-23T19:01:35.821268-04:00.jpg"
-     alt="Bucks County Herald at 2022-07-24 02:01:38-04:00 local time"
+     alt="Bucks County Herald at 2022-07-23 19:01:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-23T19:01:35.821268-04:00.jpg">July 24 at 2:01 AM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-23T19:01:35.821268-04:00.jpg">July 23 at 7:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-23T08:58:13.894817-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-23T08:58:13.894817-04:00.jpg"
-     alt="Bucks County Herald at 2022-07-23 15:58:15-04:00 local time"
+     alt="Bucks County Herald at 2022-07-23 08:58:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-23T08:58:13.894817-04:00.jpg">July 23 at 3:58 PM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-23T08:58:13.894817-04:00.jpg">July 23 at 8:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-22T20:59:30.662329-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-22T20:59:30.662329-04:00.jpg"
-     alt="Bucks County Herald at 2022-07-23 03:59:32-04:00 local time"
+     alt="Bucks County Herald at 2022-07-22 20:59:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-22T20:59:30.662329-04:00.jpg">July 23 at 3:59 AM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-22T20:59:30.662329-04:00.jpg">July 22 at 8:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-22T08:59:18.033553-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-22T08:59:18.033553-04:00.jpg"
-     alt="Bucks County Herald at 2022-07-22 15:59:19-04:00 local time"
+     alt="Bucks County Herald at 2022-07-22 08:59:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-22T08:59:18.033553-04:00.jpg">July 22 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-22T08:59:18.033553-04:00.jpg">July 22 at 8:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-21T21:07:36.087968-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-21T21:07:36.087968-04:00.jpg"
-     alt="Bucks County Herald at 2022-07-22 04:07:41-04:00 local time"
+     alt="Bucks County Herald at 2022-07-21 21:07:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-21T21:07:36.087968-04:00.jpg">July 22 at 4:07 AM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-21T21:07:36.087968-04:00.jpg">July 21 at 9:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-21T08:53:09.964724-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-21T08:53:09.964724-04:00.jpg"
-     alt="Bucks County Herald at 2022-07-21 15:53:12-04:00 local time"
+     alt="Bucks County Herald at 2022-07-21 08:53:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-21T08:53:09.964724-04:00.jpg">July 21 at 3:53 PM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-21T08:53:09.964724-04:00.jpg">July 21 at 8:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-20T21:05:18.984849-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-20T21:05:18.984849-04:00.jpg"
-     alt="Bucks County Herald at 2022-07-21 04:05:20-04:00 local time"
+     alt="Bucks County Herald at 2022-07-20 21:05:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-20T21:05:18.984849-04:00.jpg">July 21 at 4:05 AM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-20T21:05:18.984849-04:00.jpg">July 20 at 9:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-20T08:53:42.287759-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-20T08:53:42.287759-04:00.jpg"
-     alt="Bucks County Herald at 2022-07-20 15:53:43-04:00 local time"
+     alt="Bucks County Herald at 2022-07-20 08:53:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-20T08:53:42.287759-04:00.jpg">July 20 at 3:53 PM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-20T08:53:42.287759-04:00.jpg">July 20 at 8:53 AM</a></p>
 </div>
 
 </div>

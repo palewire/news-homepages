@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-25T19:15:41.605320-05:00.jpg">
   <img src="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-25T19:15:41.605320-05:00.jpg"
-     alt="Iowa Public Radio at 2022-07-26 02:15:46-05:00 local time"
+     alt="Iowa Public Radio at 2022-07-25 19:15:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-25T19:15:41.605320-05:00.jpg">July 26 at 2:15 AM</a></p>
+ <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-25T19:15:41.605320-05:00.jpg">July 25 at 7:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-25T11:38:37.824490-05:00.jpg">
   <img src="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-25T11:38:37.824490-05:00.jpg"
-     alt="Iowa Public Radio at 2022-07-25 18:38:47-05:00 local time"
+     alt="Iowa Public Radio at 2022-07-25 11:38:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-25T11:38:37.824490-05:00.jpg">July 25 at 6:38 PM</a></p>
+ <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-25T11:38:37.824490-05:00.jpg">July 25 at 11:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-25T07:07:14.992162-05:00.jpg">
   <img src="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-25T07:07:14.992162-05:00.jpg"
-     alt="Iowa Public Radio at 2022-07-25 14:07:24-05:00 local time"
+     alt="Iowa Public Radio at 2022-07-25 07:07:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-25T07:07:14.992162-05:00.jpg">July 25 at 2:07 PM</a></p>
+ <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-25T07:07:14.992162-05:00.jpg">July 25 at 7:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-24T22:23:33.570119-05:00.jpg">
   <img src="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-24T22:23:33.570119-05:00.jpg"
-     alt="Iowa Public Radio at 2022-07-25 05:23:35-05:00 local time"
+     alt="Iowa Public Radio at 2022-07-24 22:23:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-24T22:23:33.570119-05:00.jpg">July 25 at 5:23 AM</a></p>
+ <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-24T22:23:33.570119-05:00.jpg">July 24 at 10:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-24T07:58:46.218791-05:00.jpg">
   <img src="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-24T07:58:46.218791-05:00.jpg"
-     alt="Iowa Public Radio at 2022-07-24 14:58:47-05:00 local time"
+     alt="Iowa Public Radio at 2022-07-24 07:58:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-24T07:58:46.218791-05:00.jpg">July 24 at 2:58 PM</a></p>
+ <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-24T07:58:46.218791-05:00.jpg">July 24 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-23T23:13:49.164641-05:00.jpg">
   <img src="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-23T23:13:49.164641-05:00.jpg"
-     alt="Iowa Public Radio at 2022-07-24 06:13:54-05:00 local time"
+     alt="Iowa Public Radio at 2022-07-23 23:13:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-23T23:13:49.164641-05:00.jpg">July 24 at 6:13 AM</a></p>
+ <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-23T23:13:49.164641-05:00.jpg">July 23 at 11:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-23T09:03:00.118461-05:00.jpg">
   <img src="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-23T09:03:00.118461-05:00.jpg"
-     alt="Iowa Public Radio at 2022-07-23 16:03:01-05:00 local time"
+     alt="Iowa Public Radio at 2022-07-23 09:03:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-23T09:03:00.118461-05:00.jpg">July 23 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-23T09:03:00.118461-05:00.jpg">July 23 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-22T21:29:28.375177-05:00.jpg">
   <img src="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-22T21:29:28.375177-05:00.jpg"
-     alt="Iowa Public Radio at 2022-07-23 04:29:30-05:00 local time"
+     alt="Iowa Public Radio at 2022-07-22 21:29:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-22T21:29:28.375177-05:00.jpg">July 23 at 4:29 AM</a></p>
+ <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-22T21:29:28.375177-05:00.jpg">July 22 at 9:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-22T11:12:55.061815-05:00.jpg">
   <img src="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-22T11:12:55.061815-05:00.jpg"
-     alt="Iowa Public Radio at 2022-07-22 18:13:00-05:00 local time"
+     alt="Iowa Public Radio at 2022-07-22 11:13:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-22T11:12:55.061815-05:00.jpg">July 22 at 6:13 PM</a></p>
+ <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-22T11:12:55.061815-05:00.jpg">July 22 at 11:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-22T09:03:52.809210-05:00.jpg">
   <img src="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-22T09:03:52.809210-05:00.jpg"
-     alt="Iowa Public Radio at 2022-07-22 16:03:55-05:00 local time"
+     alt="Iowa Public Radio at 2022-07-22 09:03:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-22T09:03:52.809210-05:00.jpg">July 22 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-22T09:03:52.809210-05:00.jpg">July 22 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-21T21:23:50.058288-05:00.jpg">
   <img src="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-21T21:23:50.058288-05:00.jpg"
-     alt="Iowa Public Radio at 2022-07-22 04:23:53-05:00 local time"
+     alt="Iowa Public Radio at 2022-07-21 21:23:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-21T21:23:50.058288-05:00.jpg">July 22 at 4:23 AM</a></p>
+ <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-21T21:23:50.058288-05:00.jpg">July 21 at 9:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-21T09:13:41.335367-05:00.jpg">
   <img src="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-21T09:13:41.335367-05:00.jpg"
-     alt="Iowa Public Radio at 2022-07-21 16:13:43-05:00 local time"
+     alt="Iowa Public Radio at 2022-07-21 09:13:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-21T09:13:41.335367-05:00.jpg">July 21 at 4:13 PM</a></p>
+ <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-21T09:13:41.335367-05:00.jpg">July 21 at 9:13 AM</a></p>
 </div>
 
 </div>

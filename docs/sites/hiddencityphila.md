@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T20:16:13.182216-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T20:16:13.182216-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-26 03:16:15-04:00 local time"
+     alt="Hidden City Daily at 2022-07-25 20:16:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T20:16:13.182216-04:00.jpg">July 26 at 3:16 AM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T20:16:13.182216-04:00.jpg">July 25 at 8:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T08:06:34.881131-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T08:06:34.881131-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-25 15:06:38-04:00 local time"
+     alt="Hidden City Daily at 2022-07-25 08:06:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T08:06:34.881131-04:00.jpg">July 25 at 3:06 PM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T08:06:34.881131-04:00.jpg">July 25 at 8:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T21:10:09.329171-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T21:10:09.329171-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-25 04:10:10-04:00 local time"
+     alt="Hidden City Daily at 2022-07-24 21:10:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T21:10:09.329171-04:00.jpg">July 25 at 4:10 AM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T21:10:09.329171-04:00.jpg">July 24 at 9:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T08:02:47.912105-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T08:02:47.912105-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-24 15:02:49-04:00 local time"
+     alt="Hidden City Daily at 2022-07-24 08:02:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T08:02:47.912105-04:00.jpg">July 24 at 3:02 PM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T08:02:47.912105-04:00.jpg">July 24 at 8:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T02:32:22.221876-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T02:32:22.221876-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-24 09:32:24-04:00 local time"
+     alt="Hidden City Daily at 2022-07-24 02:32:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T02:32:22.221876-04:00.jpg">July 24 at 9:32 AM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T02:32:22.221876-04:00.jpg">July 24 at 2:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-23T10:01:55.844510-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-23T10:01:55.844510-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-23 17:01:57-04:00 local time"
+     alt="Hidden City Daily at 2022-07-23 10:01:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-23T10:01:55.844510-04:00.jpg">July 23 at 5:01 PM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-23T10:01:55.844510-04:00.jpg">July 23 at 10:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-22T22:28:25.077377-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-22T22:28:25.077377-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-23 05:28:27-04:00 local time"
+     alt="Hidden City Daily at 2022-07-22 22:28:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-22T22:28:25.077377-04:00.jpg">July 23 at 5:28 AM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-22T22:28:25.077377-04:00.jpg">July 22 at 10:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-22T10:02:47.278112-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-22T10:02:47.278112-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-22 17:02:49-04:00 local time"
+     alt="Hidden City Daily at 2022-07-22 10:02:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-22T10:02:47.278112-04:00.jpg">July 22 at 5:02 PM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-22T10:02:47.278112-04:00.jpg">July 22 at 10:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-21T22:22:41.847882-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-21T22:22:41.847882-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-22 05:22:42-04:00 local time"
+     alt="Hidden City Daily at 2022-07-21 22:22:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-21T22:22:41.847882-04:00.jpg">July 22 at 5:22 AM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-21T22:22:41.847882-04:00.jpg">July 21 at 10:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-21T10:10:51.246742-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-21T10:10:51.246742-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-21 17:10:53-04:00 local time"
+     alt="Hidden City Daily at 2022-07-21 10:10:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-21T10:10:51.246742-04:00.jpg">July 21 at 5:10 PM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-21T10:10:51.246742-04:00.jpg">July 21 at 10:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-20T22:25:06.569775-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-20T22:25:06.569775-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-21 05:25:08-04:00 local time"
+     alt="Hidden City Daily at 2022-07-20 22:25:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-20T22:25:06.569775-04:00.jpg">July 21 at 5:25 AM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-20T22:25:06.569775-04:00.jpg">July 20 at 10:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-20T10:26:39.019483-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-20T10:26:39.019483-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-20 17:26:41-04:00 local time"
+     alt="Hidden City Daily at 2022-07-20 10:26:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-20T10:26:39.019483-04:00.jpg">July 20 at 5:26 PM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-20T10:26:39.019483-04:00.jpg">July 20 at 10:26 AM</a></p>
 </div>
 
 </div>
