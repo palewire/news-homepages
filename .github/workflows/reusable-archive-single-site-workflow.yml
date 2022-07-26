@@ -28,6 +28,7 @@ jobs:
     name: a11y
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    continue-on-error: true
     steps:
       - id: checkout
         name: Checkout
@@ -43,6 +44,7 @@ jobs:
     name: Hyperlinks
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    continue-on-error: true
     steps:
       - id: checkout
         name: Checkout
@@ -58,6 +60,7 @@ jobs:
     name: Wayback Machine
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    continue-on-error: true
     steps:
       - id: checkout
         name: Checkout
@@ -75,6 +78,7 @@ jobs:
     name: Lighthouse audit
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    continue-on-error: true
     steps:
       - id: checkout
         name: Checkout
