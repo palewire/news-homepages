@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/codaily-2022/codaily-2022-07-25T16:11:12.973613-07:00.jpg">
-  <img src="https://archive.org/download/codaily-2022/codaily-2022-07-25T16:11:12.973613-07:00.jpg"
-     alt="Central Oregon Daily at 2022-07-25 16:11:15-07:00 local time"
+ <a href="https://archive.org/download/codaily-2022/codaily-2022-07-26T04:14:56.751551-07:00.jpg">
+  <img src="https://archive.org/download/codaily-2022/codaily-2022-07-26T04:14:56.751551-07:00.jpg"
+     alt="Central Oregon Daily at 2022-07-26 11:14:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-25T16:11:12.973613-07:00.jpg">July 25 at 4:11 PM</a></p>
+ <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-26T04:14:56.751551-07:00.jpg">July 26 at 11:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/codaily-2022/codaily-2022-07-25T16:11:12.973613-07:00.jpg">
+  <img src="https://archive.org/download/codaily-2022/codaily-2022-07-25T16:11:12.973613-07:00.jpg"
+     alt="Central Oregon Daily at 2022-07-25 23:11:15-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-25T16:11:12.973613-07:00.jpg">July 25 at 11:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/codaily-2022/codaily-2022-07-25T04:03:23.707751-07:00.jpg">
   <img src="https://archive.org/download/codaily-2022/codaily-2022-07-25T04:03:23.707751-07:00.jpg"
-     alt="Central Oregon Daily at 2022-07-25 04:03:26-07:00 local time"
+     alt="Central Oregon Daily at 2022-07-25 11:03:26-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-25T04:03:23.707751-07:00.jpg">July 25 at 4:03 AM</a></p>
+ <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-25T04:03:23.707751-07:00.jpg">July 25 at 11:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/codaily-2022/codaily-2022-07-24T17:55:22.451955-07:00.jpg">
   <img src="https://archive.org/download/codaily-2022/codaily-2022-07-24T17:55:22.451955-07:00.jpg"
-     alt="Central Oregon Daily at 2022-07-24 17:55:25-07:00 local time"
+     alt="Central Oregon Daily at 2022-07-25 00:55:25-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-24T17:55:22.451955-07:00.jpg">July 24 at 5:55 PM</a></p>
+ <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-24T17:55:22.451955-07:00.jpg">July 25 at 12:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/codaily-2022/codaily-2022-07-24T04:02:21.008970-07:00.jpg">
   <img src="https://archive.org/download/codaily-2022/codaily-2022-07-24T04:02:21.008970-07:00.jpg"
-     alt="Central Oregon Daily at 2022-07-24 04:02:26-07:00 local time"
+     alt="Central Oregon Daily at 2022-07-24 11:02:26-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-24T04:02:21.008970-07:00.jpg">July 24 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-24T04:02:21.008970-07:00.jpg">July 24 at 11:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/codaily-2022/codaily-2022-07-23T16:04:19.626265-07:00.jpg">
   <img src="https://archive.org/download/codaily-2022/codaily-2022-07-23T16:04:19.626265-07:00.jpg"
-     alt="Central Oregon Daily at 2022-07-23 16:04:22-07:00 local time"
+     alt="Central Oregon Daily at 2022-07-23 23:04:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-23T16:04:19.626265-07:00.jpg">July 23 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-23T16:04:19.626265-07:00.jpg">July 23 at 11:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/codaily-2022/codaily-2022-07-23T06:01:08.692707-07:00.jpg">
   <img src="https://archive.org/download/codaily-2022/codaily-2022-07-23T06:01:08.692707-07:00.jpg"
-     alt="Central Oregon Daily at 2022-07-23 06:01:10-07:00 local time"
+     alt="Central Oregon Daily at 2022-07-23 13:01:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-23T06:01:08.692707-07:00.jpg">July 23 at 6:01 AM</a></p>
+ <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-23T06:01:08.692707-07:00.jpg">July 23 at 1:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/codaily-2022/codaily-2022-07-22T18:01:58.440403-07:00.jpg">
   <img src="https://archive.org/download/codaily-2022/codaily-2022-07-22T18:01:58.440403-07:00.jpg"
-     alt="Central Oregon Daily at 2022-07-22 18:02:00-07:00 local time"
+     alt="Central Oregon Daily at 2022-07-23 01:02:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-22T18:01:58.440403-07:00.jpg">July 22 at 6:02 PM</a></p>
+ <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-22T18:01:58.440403-07:00.jpg">July 23 at 1:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/codaily-2022/codaily-2022-07-22T06:01:41.803278-07:00.jpg">
   <img src="https://archive.org/download/codaily-2022/codaily-2022-07-22T06:01:41.803278-07:00.jpg"
-     alt="Central Oregon Daily at 2022-07-22 06:01:42-07:00 local time"
+     alt="Central Oregon Daily at 2022-07-22 13:01:42-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-22T06:01:41.803278-07:00.jpg">July 22 at 6:01 AM</a></p>
+ <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-22T06:01:41.803278-07:00.jpg">July 22 at 1:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/codaily-2022/codaily-2022-07-21T18:09:30.181505-07:00.jpg">
   <img src="https://archive.org/download/codaily-2022/codaily-2022-07-21T18:09:30.181505-07:00.jpg"
-     alt="Central Oregon Daily at 2022-07-21 18:09:32-07:00 local time"
+     alt="Central Oregon Daily at 2022-07-22 01:09:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-21T18:09:30.181505-07:00.jpg">July 21 at 6:09 PM</a></p>
+ <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-21T18:09:30.181505-07:00.jpg">July 22 at 1:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/codaily-2022/codaily-2022-07-21T05:55:36.469876-07:00.jpg">
   <img src="https://archive.org/download/codaily-2022/codaily-2022-07-21T05:55:36.469876-07:00.jpg"
-     alt="Central Oregon Daily at 2022-07-21 05:55:38-07:00 local time"
+     alt="Central Oregon Daily at 2022-07-21 12:55:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-21T05:55:36.469876-07:00.jpg">July 21 at 5:55 AM</a></p>
+ <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-21T05:55:36.469876-07:00.jpg">July 21 at 12:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/codaily-2022/codaily-2022-07-20T18:08:24.432205-07:00.jpg">
   <img src="https://archive.org/download/codaily-2022/codaily-2022-07-20T18:08:24.432205-07:00.jpg"
-     alt="Central Oregon Daily at 2022-07-20 18:08:26-07:00 local time"
+     alt="Central Oregon Daily at 2022-07-21 01:08:26-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-20T18:08:24.432205-07:00.jpg">July 20 at 6:08 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/codaily-2022/codaily-2022-07-20T05:56:01.696933-07:00.jpg">
-  <img src="https://archive.org/download/codaily-2022/codaily-2022-07-20T05:56:01.696933-07:00.jpg"
-     alt="Central Oregon Daily at 2022-07-20 05:56:03-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-20T05:56:01.696933-07:00.jpg">July 20 at 5:56 AM</a></p>
+ <p><a href="https://archive.org/download/codaily-2022/codaily-2022-07-20T18:08:24.432205-07:00.jpg">July 21 at 1:08 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -308,6 +308,22 @@ The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 11:15:02 AM](https://archive.org/download/codaily-2022/codaily-2022-07-26T04:14:56.751551-07:00.hyperlinks.json) |
+| [2022-07-25 23:11:18 PM](https://archive.org/download/codaily-2022/codaily-2022-07-25T16:11:12.973613-07:00.hyperlinks.json) |
+| [2022-07-25 11:03:29 AM](https://archive.org/download/codaily-2022/codaily-2022-07-25T04:03:23.707751-07:00.hyperlinks.json) |
+| [2022-07-25 00:55:29 AM](https://archive.org/download/codaily-2022/codaily-2022-07-24T17:55:22.451955-07:00.hyperlinks.json) |
+| [2022-07-24 11:02:31 AM](https://archive.org/download/codaily-2022/codaily-2022-07-24T04:02:21.008970-07:00.hyperlinks.json) |
+| [2022-07-23 23:04:25 PM](https://archive.org/download/codaily-2022/codaily-2022-07-23T16:04:19.626265-07:00.hyperlinks.json) |
+| [2022-07-23 13:01:13 PM](https://archive.org/download/codaily-2022/codaily-2022-07-23T06:01:08.692707-07:00.hyperlinks.json) |
+| [2022-07-23 01:02:05 AM](https://archive.org/download/codaily-2022/codaily-2022-07-22T18:01:58.440403-07:00.hyperlinks.json) |
+| [2022-07-22 13:01:45 PM](https://archive.org/download/codaily-2022/codaily-2022-07-22T06:01:41.803278-07:00.hyperlinks.json) |
+| [2022-07-22 01:09:35 AM](https://archive.org/download/codaily-2022/codaily-2022-07-21T18:09:30.181505-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

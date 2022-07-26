@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 1 screenshots with the Internet Archive.
+The archiving routine has saved 2 screenshots with the Internet Archive.
 
 
 
@@ -29,20 +29,37 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/newsday-2022/newsday-2022-07-25T20:21:10.843544-04:00.jpg">
-  <img src="https://archive.org/download/newsday-2022/newsday-2022-07-25T20:21:10.843544-04:00.jpg"
-     alt="Newsday at 2022-07-25 20:21:16-04:00 local time"
+ <a href="https://archive.org/download/newsday-2022/newsday-2022-07-26T08:25:44.484950-04:00.jpg">
+  <img src="https://archive.org/download/newsday-2022/newsday-2022-07-26T08:25:44.484950-04:00.jpg"
+     alt="Newsday at 2022-07-26 15:25:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsday-2022/newsday-2022-07-25T20:21:10.843544-04:00.jpg">July 25 at 8:21 PM</a></p>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-07-26T08:25:44.484950-04:00.jpg">July 26 at 3:25 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsday-2022/newsday-2022-07-25T20:21:10.843544-04:00.jpg">
+  <img src="https://archive.org/download/newsday-2022/newsday-2022-07-25T20:21:10.843544-04:00.jpg"
+     alt="Newsday at 2022-07-26 03:21:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-07-25T20:21:10.843544-04:00.jpg">July 26 at 3:21 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 1 hyperlink lists with the Internet Archive.
+The archiving routine has saved 2 hyperlink lists with the Internet Archive.
 
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 15:25:49 PM](https://archive.org/download/newsday-2022/newsday-2022-07-26T08:25:44.484950-04:00.hyperlinks.json) |
+| [2022-07-26 03:21:29 AM](https://archive.org/download/newsday-2022/newsday-2022-07-25T20:21:10.843544-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

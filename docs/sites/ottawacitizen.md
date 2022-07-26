@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 69 screenshots with the Internet Archive.
+The archiving routine has saved 70 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-25T11:36:15.070344-04:00.jpg">
-  <img src="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-25T11:36:15.070344-04:00.jpg"
-     alt="Ottawa Citizen at 2022-07-25 11:36:16-04:00 local time"
+ <a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-25T23:54:05.228356-04:00.jpg">
+  <img src="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-25T23:54:05.228356-04:00.jpg"
+     alt="Ottawa Citizen at 2022-07-26 06:54:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-25T11:36:15.070344-04:00.jpg">July 25 at 11:36 AM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-25T23:54:05.228356-04:00.jpg">July 26 at 6:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-25T11:36:15.070344-04:00.jpg">
+  <img src="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-25T11:36:15.070344-04:00.jpg"
+     alt="Ottawa Citizen at 2022-07-25 18:36:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-25T11:36:15.070344-04:00.jpg">July 25 at 6:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T23:38:30.876687-04:00.jpg">
   <img src="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T23:38:30.876687-04:00.jpg"
-     alt="Ottawa Citizen at 2022-07-24 23:38:32-04:00 local time"
+     alt="Ottawa Citizen at 2022-07-25 06:38:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T23:38:30.876687-04:00.jpg">July 24 at 11:38 PM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T23:38:30.876687-04:00.jpg">July 25 at 6:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T09:59:44.099530-04:00.jpg">
   <img src="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T09:59:44.099530-04:00.jpg"
-     alt="Ottawa Citizen at 2022-07-24 09:59:47-04:00 local time"
+     alt="Ottawa Citizen at 2022-07-24 16:59:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T09:59:44.099530-04:00.jpg">July 24 at 9:59 AM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T09:59:44.099530-04:00.jpg">July 24 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T02:19:12.103458-04:00.jpg">
   <img src="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T02:19:12.103458-04:00.jpg"
-     alt="Ottawa Citizen at 2022-07-24 02:19:15-04:00 local time"
+     alt="Ottawa Citizen at 2022-07-24 09:19:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T02:19:12.103458-04:00.jpg">July 24 at 2:19 AM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T02:19:12.103458-04:00.jpg">July 24 at 9:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-23T11:05:55.210054-04:00.jpg">
   <img src="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-23T11:05:55.210054-04:00.jpg"
-     alt="Ottawa Citizen at 2022-07-23 11:05:57-04:00 local time"
+     alt="Ottawa Citizen at 2022-07-23 18:05:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-23T11:05:55.210054-04:00.jpg">July 23 at 11:05 AM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-23T11:05:55.210054-04:00.jpg">July 23 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-22T23:35:36.622235-04:00.jpg">
   <img src="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-22T23:35:36.622235-04:00.jpg"
-     alt="Ottawa Citizen at 2022-07-22 23:35:38-04:00 local time"
+     alt="Ottawa Citizen at 2022-07-23 06:35:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-22T23:35:36.622235-04:00.jpg">July 22 at 11:35 PM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-22T23:35:36.622235-04:00.jpg">July 23 at 6:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-22T11:01:45.961889-04:00.jpg">
   <img src="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-22T11:01:45.961889-04:00.jpg"
-     alt="Ottawa Citizen at 2022-07-22 11:01:48-04:00 local time"
+     alt="Ottawa Citizen at 2022-07-22 18:01:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-22T11:01:45.961889-04:00.jpg">July 22 at 11:01 AM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-22T11:01:45.961889-04:00.jpg">July 22 at 6:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-21T23:39:58.044131-04:00.jpg">
   <img src="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-21T23:39:58.044131-04:00.jpg"
-     alt="Ottawa Citizen at 2022-07-21 23:39:59-04:00 local time"
+     alt="Ottawa Citizen at 2022-07-22 06:39:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-21T23:39:58.044131-04:00.jpg">July 21 at 11:39 PM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-21T23:39:58.044131-04:00.jpg">July 22 at 6:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-21T11:36:23.069082-04:00.jpg">
   <img src="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-21T11:36:23.069082-04:00.jpg"
-     alt="Ottawa Citizen at 2022-07-21 11:36:24-04:00 local time"
+     alt="Ottawa Citizen at 2022-07-21 18:36:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-21T11:36:23.069082-04:00.jpg">July 21 at 11:36 AM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-21T11:36:23.069082-04:00.jpg">July 21 at 6:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-20T23:38:02.935441-04:00.jpg">
   <img src="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-20T23:38:02.935441-04:00.jpg"
-     alt="Ottawa Citizen at 2022-07-20 23:38:08-04:00 local time"
+     alt="Ottawa Citizen at 2022-07-21 06:38:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-20T23:38:02.935441-04:00.jpg">July 20 at 11:38 PM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-20T23:38:02.935441-04:00.jpg">July 21 at 6:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-20T12:13:04.722245-04:00.jpg">
   <img src="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-20T12:13:04.722245-04:00.jpg"
-     alt="Ottawa Citizen at 2022-07-20 12:13:10-04:00 local time"
+     alt="Ottawa Citizen at 2022-07-20 19:13:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-20T12:13:04.722245-04:00.jpg">July 20 at 12:13 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-19T23:35:56.917429-04:00.jpg">
-  <img src="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-19T23:35:56.917429-04:00.jpg"
-     alt="Ottawa Citizen at 2022-07-19 23:35:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-19T23:35:56.917429-04:00.jpg">July 19 at 11:35 PM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-20T12:13:04.722245-04:00.jpg">July 20 at 7:13 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 69 hyperlink lists with the Internet Archive.
+The archiving routine has saved 70 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -308,6 +308,22 @@ The archiving routine has saved 69 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 06:54:11 AM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-25T23:54:05.228356-04:00.hyperlinks.json) |
+| [2022-07-25 18:36:19 PM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-25T11:36:15.070344-04:00.hyperlinks.json) |
+| [2022-07-25 06:38:36 AM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T23:38:30.876687-04:00.hyperlinks.json) |
+| [2022-07-24 16:59:50 PM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T09:59:44.099530-04:00.hyperlinks.json) |
+| [2022-07-24 09:19:18 AM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T02:19:12.103458-04:00.hyperlinks.json) |
+| [2022-07-23 18:06:00 PM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-23T11:05:55.210054-04:00.hyperlinks.json) |
+| [2022-07-23 06:35:41 AM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-22T23:35:36.622235-04:00.hyperlinks.json) |
+| [2022-07-22 18:01:51 PM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-22T11:01:45.961889-04:00.hyperlinks.json) |
+| [2022-07-22 06:40:03 AM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-21T23:39:58.044131-04:00.hyperlinks.json) |
+| [2022-07-21 18:36:27 PM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-21T11:36:23.069082-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

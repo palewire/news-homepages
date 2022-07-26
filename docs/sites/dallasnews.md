@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 75 screenshots with the Internet Archive.
+The archiving routine has saved 76 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-25T06:58:31.139937-05:00.jpg">
-  <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-25T06:58:31.139937-05:00.jpg"
-     alt="Dallas Morning News at 2022-07-25 06:58:38-05:00 local time"
+ <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-25T21:40:44.879518-05:00.jpg">
+  <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-25T21:40:44.879518-05:00.jpg"
+     alt="Dallas Morning News at 2022-07-26 04:40:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-25T06:58:31.139937-05:00.jpg">July 25 at 6:58 AM</a></p>
+ <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-25T21:40:44.879518-05:00.jpg">July 26 at 4:40 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-25T06:58:31.139937-05:00.jpg">
+  <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-25T06:58:31.139937-05:00.jpg"
+     alt="Dallas Morning News at 2022-07-25 13:58:38-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-25T06:58:31.139937-05:00.jpg">July 25 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-24T19:59:18.984325-05:00.jpg">
   <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-24T19:59:18.984325-05:00.jpg"
-     alt="Dallas Morning News at 2022-07-24 19:59:20-05:00 local time"
+     alt="Dallas Morning News at 2022-07-25 02:59:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-24T19:59:18.984325-05:00.jpg">July 24 at 7:59 PM</a></p>
+ <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-24T19:59:18.984325-05:00.jpg">July 25 at 2:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-24T06:56:27.796740-05:00.jpg">
   <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-24T06:56:27.796740-05:00.jpg"
-     alt="Dallas Morning News at 2022-07-24 06:56:36-05:00 local time"
+     alt="Dallas Morning News at 2022-07-24 13:56:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-24T06:56:27.796740-05:00.jpg">July 24 at 6:56 AM</a></p>
+ <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-24T06:56:27.796740-05:00.jpg">July 24 at 1:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-24T01:26:05.816554-05:00.jpg">
   <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-24T01:26:05.816554-05:00.jpg"
-     alt="Dallas Morning News at 2022-07-24 01:26:08-05:00 local time"
+     alt="Dallas Morning News at 2022-07-24 08:26:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-24T01:26:05.816554-05:00.jpg">July 24 at 1:26 AM</a></p>
+ <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-24T01:26:05.816554-05:00.jpg">July 24 at 8:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-23T08:03:21.828353-05:00.jpg">
   <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-23T08:03:21.828353-05:00.jpg"
-     alt="Dallas Morning News at 2022-07-23 08:03:23-05:00 local time"
+     alt="Dallas Morning News at 2022-07-23 15:03:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-23T08:03:21.828353-05:00.jpg">July 23 at 8:03 AM</a></p>
+ <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-23T08:03:21.828353-05:00.jpg">July 23 at 3:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-22T20:04:06.285833-05:00.jpg">
   <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-22T20:04:06.285833-05:00.jpg"
-     alt="Dallas Morning News at 2022-07-22 20:04:07-05:00 local time"
+     alt="Dallas Morning News at 2022-07-23 03:04:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-22T20:04:06.285833-05:00.jpg">July 22 at 8:04 PM</a></p>
+ <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-22T20:04:06.285833-05:00.jpg">July 23 at 3:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-22T08:03:29.990497-05:00.jpg">
   <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-22T08:03:29.990497-05:00.jpg"
-     alt="Dallas Morning News at 2022-07-22 08:03:31-05:00 local time"
+     alt="Dallas Morning News at 2022-07-22 15:03:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-22T08:03:29.990497-05:00.jpg">July 22 at 8:03 AM</a></p>
+ <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-22T08:03:29.990497-05:00.jpg">July 22 at 3:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-21T20:10:58.713050-05:00.jpg">
   <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-21T20:10:58.713050-05:00.jpg"
-     alt="Dallas Morning News at 2022-07-21 20:11:01-05:00 local time"
+     alt="Dallas Morning News at 2022-07-22 03:11:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-21T20:10:58.713050-05:00.jpg">July 21 at 8:11 PM</a></p>
+ <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-21T20:10:58.713050-05:00.jpg">July 22 at 3:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-21T07:57:04.591061-05:00.jpg">
   <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-21T07:57:04.591061-05:00.jpg"
-     alt="Dallas Morning News at 2022-07-21 07:57:06-05:00 local time"
+     alt="Dallas Morning News at 2022-07-21 14:57:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-21T07:57:04.591061-05:00.jpg">July 21 at 7:57 AM</a></p>
+ <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-21T07:57:04.591061-05:00.jpg">July 21 at 2:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-20T20:09:43.484982-05:00.jpg">
   <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-20T20:09:43.484982-05:00.jpg"
-     alt="Dallas Morning News at 2022-07-20 20:09:45-05:00 local time"
+     alt="Dallas Morning News at 2022-07-21 03:09:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-20T20:09:43.484982-05:00.jpg">July 20 at 8:09 PM</a></p>
+ <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-20T20:09:43.484982-05:00.jpg">July 21 at 3:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-20T07:58:10.583009-05:00.jpg">
   <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-20T07:58:10.583009-05:00.jpg"
-     alt="Dallas Morning News at 2022-07-20 07:58:11-05:00 local time"
+     alt="Dallas Morning News at 2022-07-20 14:58:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-20T07:58:10.583009-05:00.jpg">July 20 at 7:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-19T20:05:07.233056-05:00.jpg">
-  <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-19T20:05:07.233056-05:00.jpg"
-     alt="Dallas Morning News at 2022-07-19 20:05:09-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-19T20:05:07.233056-05:00.jpg">July 19 at 8:05 PM</a></p>
+ <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-20T07:58:10.583009-05:00.jpg">July 20 at 2:58 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 77 hyperlink lists with the Internet Archive.
+The archiving routine has saved 78 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -308,6 +308,22 @@ The archiving routine has saved 77 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 04:40:50 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-07-25T21:40:44.879518-05:00.hyperlinks.json) |
+| [2022-07-25 13:58:43 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-07-25T06:58:31.139937-05:00.hyperlinks.json) |
+| [2022-07-25 02:59:23 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-07-24T19:59:18.984325-05:00.hyperlinks.json) |
+| [2022-07-24 13:56:45 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-07-24T06:56:27.796740-05:00.hyperlinks.json) |
+| [2022-07-24 08:26:11 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-07-24T01:26:05.816554-05:00.hyperlinks.json) |
+| [2022-07-23 15:03:26 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-07-23T08:03:21.828353-05:00.hyperlinks.json) |
+| [2022-07-23 03:04:11 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-07-22T20:04:06.285833-05:00.hyperlinks.json) |
+| [2022-07-22 15:03:35 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-07-22T08:03:29.990497-05:00.hyperlinks.json) |
+| [2022-07-22 03:11:10 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-07-21T20:10:58.713050-05:00.hyperlinks.json) |
+| [2022-07-21 14:57:09 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-07-21T07:57:04.591061-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

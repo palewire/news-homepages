@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 77 screenshots with the Internet Archive.
+The archiving routine has saved 78 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,111 +112,111 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/kqed-2022/kqed-2022-07-25T17:17:22.374398-07:00.jpg">
-  <img src="https://archive.org/download/kqed-2022/kqed-2022-07-25T17:17:22.374398-07:00.jpg"
-     alt="KQED at 2022-07-25 17:17:25-07:00 local time"
+ <a href="https://archive.org/download/kqed-2022/kqed-2022-07-26T05:21:48.696080-07:00.jpg">
+  <img src="https://archive.org/download/kqed-2022/kqed-2022-07-26T05:21:48.696080-07:00.jpg"
+     alt="KQED at 2022-07-26 12:21:52-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-25T17:17:22.374398-07:00.jpg">July 25 at 5:17 PM</a></p>
+ <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-26T05:21:48.696080-07:00.jpg">July 26 at 12:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kqed-2022/kqed-2022-07-25T17:17:22.374398-07:00.jpg">
+  <img src="https://archive.org/download/kqed-2022/kqed-2022-07-25T17:17:22.374398-07:00.jpg"
+     alt="KQED at 2022-07-26 00:17:25-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-25T17:17:22.374398-07:00.jpg">July 26 at 12:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kqed-2022/kqed-2022-07-25T06:10:59.732994-07:00.jpg">
   <img src="https://archive.org/download/kqed-2022/kqed-2022-07-25T06:10:59.732994-07:00.jpg"
-     alt="KQED at 2022-07-25 06:11:01-07:00 local time"
+     alt="KQED at 2022-07-25 13:11:01-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-25T06:10:59.732994-07:00.jpg">July 25 at 6:11 AM</a></p>
+ <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-25T06:10:59.732994-07:00.jpg">July 25 at 1:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kqed-2022/kqed-2022-07-24T20:26:47.127373-07:00.jpg">
   <img src="https://archive.org/download/kqed-2022/kqed-2022-07-24T20:26:47.127373-07:00.jpg"
-     alt="KQED at 2022-07-24 20:26:50-07:00 local time"
+     alt="KQED at 2022-07-25 03:26:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-24T20:26:47.127373-07:00.jpg">July 24 at 8:26 PM</a></p>
+ <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-24T20:26:47.127373-07:00.jpg">July 25 at 3:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kqed-2022/kqed-2022-07-24T06:00:14.868962-07:00.jpg">
   <img src="https://archive.org/download/kqed-2022/kqed-2022-07-24T06:00:14.868962-07:00.jpg"
-     alt="KQED at 2022-07-24 06:00:18-07:00 local time"
+     alt="KQED at 2022-07-24 13:00:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-24T06:00:14.868962-07:00.jpg">July 24 at 6:00 AM</a></p>
+ <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-24T06:00:14.868962-07:00.jpg">July 24 at 1:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kqed-2022/kqed-2022-07-23T21:15:13.108943-07:00.jpg">
   <img src="https://archive.org/download/kqed-2022/kqed-2022-07-23T21:15:13.108943-07:00.jpg"
-     alt="KQED at 2022-07-23 21:15:14-07:00 local time"
+     alt="KQED at 2022-07-24 04:15:14-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-23T21:15:13.108943-07:00.jpg">July 23 at 9:15 PM</a></p>
+ <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-23T21:15:13.108943-07:00.jpg">July 24 at 4:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kqed-2022/kqed-2022-07-23T07:05:40.643647-07:00.jpg">
   <img src="https://archive.org/download/kqed-2022/kqed-2022-07-23T07:05:40.643647-07:00.jpg"
-     alt="KQED at 2022-07-23 07:05:42-07:00 local time"
+     alt="KQED at 2022-07-23 14:05:42-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-23T07:05:40.643647-07:00.jpg">July 23 at 7:05 AM</a></p>
+ <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-23T07:05:40.643647-07:00.jpg">July 23 at 2:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kqed-2022/kqed-2022-07-22T19:31:03.829871-07:00.jpg">
   <img src="https://archive.org/download/kqed-2022/kqed-2022-07-22T19:31:03.829871-07:00.jpg"
-     alt="KQED at 2022-07-22 19:31:06-07:00 local time"
+     alt="KQED at 2022-07-23 02:31:06-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-22T19:31:03.829871-07:00.jpg">July 22 at 7:31 PM</a></p>
+ <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-22T19:31:03.829871-07:00.jpg">July 23 at 2:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kqed-2022/kqed-2022-07-22T07:06:49.256712-07:00.jpg">
   <img src="https://archive.org/download/kqed-2022/kqed-2022-07-22T07:06:49.256712-07:00.jpg"
-     alt="KQED at 2022-07-22 07:06:50-07:00 local time"
+     alt="KQED at 2022-07-22 14:06:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-22T07:06:49.256712-07:00.jpg">July 22 at 7:06 AM</a></p>
+ <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-22T07:06:49.256712-07:00.jpg">July 22 at 2:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kqed-2022/kqed-2022-07-21T19:25:51.783044-07:00.jpg">
   <img src="https://archive.org/download/kqed-2022/kqed-2022-07-21T19:25:51.783044-07:00.jpg"
-     alt="KQED at 2022-07-21 19:25:53-07:00 local time"
+     alt="KQED at 2022-07-22 02:25:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-21T19:25:51.783044-07:00.jpg">July 21 at 7:25 PM</a></p>
+ <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-21T19:25:51.783044-07:00.jpg">July 22 at 2:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kqed-2022/kqed-2022-07-21T07:15:46.708250-07:00.jpg">
   <img src="https://archive.org/download/kqed-2022/kqed-2022-07-21T07:15:46.708250-07:00.jpg"
-     alt="KQED at 2022-07-21 07:15:48-07:00 local time"
+     alt="KQED at 2022-07-21 14:15:48-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-21T07:15:46.708250-07:00.jpg">July 21 at 7:15 AM</a></p>
+ <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-21T07:15:46.708250-07:00.jpg">July 21 at 2:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kqed-2022/kqed-2022-07-20T19:27:52.053472-07:00.jpg">
   <img src="https://archive.org/download/kqed-2022/kqed-2022-07-20T19:27:52.053472-07:00.jpg"
-     alt="KQED at 2022-07-20 19:27:53-07:00 local time"
+     alt="KQED at 2022-07-21 02:27:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-20T19:27:52.053472-07:00.jpg">July 20 at 7:27 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kqed-2022/kqed-2022-07-20T07:29:03.970641-07:00.jpg">
-  <img src="https://archive.org/download/kqed-2022/kqed-2022-07-20T07:29:03.970641-07:00.jpg"
-     alt="KQED at 2022-07-20 07:29:05-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-20T07:29:03.970641-07:00.jpg">July 20 at 7:29 AM</a></p>
+ <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-20T19:27:52.053472-07:00.jpg">July 21 at 2:27 AM</a></p>
 </div>
 
 </div>
@@ -308,6 +308,22 @@ The archiving routine has saved 75 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 00:17:28 AM](https://archive.org/download/kqed-2022/kqed-2022-07-25T17:17:22.374398-07:00.hyperlinks.json) |
+| [2022-07-25 03:26:53 AM](https://archive.org/download/kqed-2022/kqed-2022-07-24T20:26:47.127373-07:00.hyperlinks.json) |
+| [2022-07-24 13:00:22 PM](https://archive.org/download/kqed-2022/kqed-2022-07-24T06:00:14.868962-07:00.hyperlinks.json) |
+| [2022-07-24 04:15:17 AM](https://archive.org/download/kqed-2022/kqed-2022-07-23T21:15:13.108943-07:00.hyperlinks.json) |
+| [2022-07-23 14:05:45 PM](https://archive.org/download/kqed-2022/kqed-2022-07-23T07:05:40.643647-07:00.hyperlinks.json) |
+| [2022-07-23 02:31:09 AM](https://archive.org/download/kqed-2022/kqed-2022-07-22T19:31:03.829871-07:00.hyperlinks.json) |
+| [2022-07-22 14:06:53 PM](https://archive.org/download/kqed-2022/kqed-2022-07-22T07:06:49.256712-07:00.hyperlinks.json) |
+| [2022-07-22 02:25:56 AM](https://archive.org/download/kqed-2022/kqed-2022-07-21T19:25:51.783044-07:00.hyperlinks.json) |
+| [2022-07-21 14:15:50 PM](https://archive.org/download/kqed-2022/kqed-2022-07-21T07:15:46.708250-07:00.hyperlinks.json) |
+| [2022-07-21 02:27:56 AM](https://archive.org/download/kqed-2022/kqed-2022-07-20T19:27:52.053472-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-25T17:15:37.955488-07:00.jpg">
-  <img src="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-25T17:15:37.955488-07:00.jpg"
-     alt="Indian Country Today at 2022-07-25 17:15:39-07:00 local time"
+ <a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-26T05:19:38.901114-07:00.jpg">
+  <img src="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-26T05:19:38.901114-07:00.jpg"
+     alt="Indian Country Today at 2022-07-26 12:19:45-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-25T17:15:37.955488-07:00.jpg">July 25 at 5:15 PM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-26T05:19:38.901114-07:00.jpg">July 26 at 12:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-25T17:15:37.955488-07:00.jpg">
+  <img src="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-25T17:15:37.955488-07:00.jpg"
+     alt="Indian Country Today at 2022-07-26 00:15:39-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-25T17:15:37.955488-07:00.jpg">July 26 at 12:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-25T05:06:32.332943-07:00.jpg">
   <img src="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-25T05:06:32.332943-07:00.jpg"
-     alt="Indian Country Today at 2022-07-25 05:06:34-07:00 local time"
+     alt="Indian Country Today at 2022-07-25 12:06:34-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-25T05:06:32.332943-07:00.jpg">July 25 at 5:06 AM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-25T05:06:32.332943-07:00.jpg">July 25 at 12:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-24T18:12:11.371694-07:00.jpg">
   <img src="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-24T18:12:11.371694-07:00.jpg"
-     alt="Indian Country Today at 2022-07-24 18:12:12-07:00 local time"
+     alt="Indian Country Today at 2022-07-25 01:12:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-24T18:12:11.371694-07:00.jpg">July 24 at 6:12 PM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-24T18:12:11.371694-07:00.jpg">July 25 at 1:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-24T05:03:10.736679-07:00.jpg">
   <img src="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-24T05:03:10.736679-07:00.jpg"
-     alt="Indian Country Today at 2022-07-24 05:03:13-07:00 local time"
+     alt="Indian Country Today at 2022-07-24 12:03:13-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-24T05:03:10.736679-07:00.jpg">July 24 at 5:03 AM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-24T05:03:10.736679-07:00.jpg">July 24 at 12:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-23T23:33:41.477762-07:00.jpg">
   <img src="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-23T23:33:41.477762-07:00.jpg"
-     alt="Indian Country Today at 2022-07-23 23:33:43-07:00 local time"
+     alt="Indian Country Today at 2022-07-24 06:33:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-23T23:33:41.477762-07:00.jpg">July 23 at 11:33 PM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-23T23:33:41.477762-07:00.jpg">July 24 at 6:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-23T07:02:31.248162-07:00.jpg">
   <img src="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-23T07:02:31.248162-07:00.jpg"
-     alt="Indian Country Today at 2022-07-23 07:02:32-07:00 local time"
+     alt="Indian Country Today at 2022-07-23 14:02:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-23T07:02:31.248162-07:00.jpg">July 23 at 7:02 AM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-23T07:02:31.248162-07:00.jpg">July 23 at 2:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-22T19:28:53.844014-07:00.jpg">
   <img src="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-22T19:28:53.844014-07:00.jpg"
-     alt="Indian Country Today at 2022-07-22 19:28:55-07:00 local time"
+     alt="Indian Country Today at 2022-07-23 02:28:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-22T19:28:53.844014-07:00.jpg">July 22 at 7:28 PM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-22T19:28:53.844014-07:00.jpg">July 23 at 2:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-22T07:03:59.482614-07:00.jpg">
   <img src="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-22T07:03:59.482614-07:00.jpg"
-     alt="Indian Country Today at 2022-07-22 07:04:00-07:00 local time"
+     alt="Indian Country Today at 2022-07-22 14:04:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-22T07:03:59.482614-07:00.jpg">July 22 at 7:04 AM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-22T07:03:59.482614-07:00.jpg">July 22 at 2:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-21T19:23:29.788062-07:00.jpg">
   <img src="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-21T19:23:29.788062-07:00.jpg"
-     alt="Indian Country Today at 2022-07-21 19:23:31-07:00 local time"
+     alt="Indian Country Today at 2022-07-22 02:23:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-21T19:23:29.788062-07:00.jpg">July 21 at 7:23 PM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-21T19:23:29.788062-07:00.jpg">July 22 at 2:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-21T07:12:55.641149-07:00.jpg">
   <img src="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-21T07:12:55.641149-07:00.jpg"
-     alt="Indian Country Today at 2022-07-21 07:12:57-07:00 local time"
+     alt="Indian Country Today at 2022-07-21 14:12:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-21T07:12:55.641149-07:00.jpg">July 21 at 7:12 AM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-21T07:12:55.641149-07:00.jpg">July 21 at 2:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-20T19:25:43.047568-07:00.jpg">
   <img src="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-20T19:25:43.047568-07:00.jpg"
-     alt="Indian Country Today at 2022-07-20 19:25:44-07:00 local time"
+     alt="Indian Country Today at 2022-07-21 02:25:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-20T19:25:43.047568-07:00.jpg">July 20 at 7:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-20T07:26:45.837726-07:00.jpg">
-  <img src="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-20T07:26:45.837726-07:00.jpg"
-     alt="Indian Country Today at 2022-07-20 07:26:47-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-20T07:26:45.837726-07:00.jpg">July 20 at 7:26 AM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-20T19:25:43.047568-07:00.jpg">July 21 at 2:25 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 34 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -308,6 +308,22 @@ The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 12:20:25 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-07-26T05:19:38.901114-07:00.hyperlinks.json) |
+| [2022-07-26 00:15:42 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-07-25T17:15:37.955488-07:00.hyperlinks.json) |
+| [2022-07-25 12:06:37 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-07-25T05:06:32.332943-07:00.hyperlinks.json) |
+| [2022-07-25 01:12:16 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-07-24T18:12:11.371694-07:00.hyperlinks.json) |
+| [2022-07-24 12:03:16 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-07-24T05:03:10.736679-07:00.hyperlinks.json) |
+| [2022-07-24 06:33:46 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-07-23T23:33:41.477762-07:00.hyperlinks.json) |
+| [2022-07-23 14:02:36 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-07-23T07:02:31.248162-07:00.hyperlinks.json) |
+| [2022-07-23 02:28:59 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-07-22T19:28:53.844014-07:00.hyperlinks.json) |
+| [2022-07-22 14:04:03 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-07-22T07:03:59.482614-07:00.hyperlinks.json) |
+| [2022-07-22 02:23:34 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-07-21T19:23:29.788062-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

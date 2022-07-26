@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 78 screenshots with the Internet Archive.
+The archiving routine has saved 80 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-25T10:47:59.901663-05:00.jpg">
-  <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-25T10:47:59.901663-05:00.jpg"
-     alt="Oklahoman at 2022-07-25 10:48:01-05:00 local time"
+ <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-25T21:51:45.283970-05:00.jpg">
+  <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-25T21:51:45.283970-05:00.jpg"
+     alt="Oklahoman at 2022-07-26 04:51:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-25T10:47:59.901663-05:00.jpg">July 25 at 10:48 AM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-25T21:51:45.283970-05:00.jpg">July 26 at 4:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-25T20:35:04.422196-05:00.jpg">
+  <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-25T20:35:04.422196-05:00.jpg"
+     alt="Oklahoman at 2022-07-26 03:35:07-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-25T20:35:04.422196-05:00.jpg">July 26 at 3:35 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-25T10:47:59.901663-05:00.jpg">
+  <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-25T10:47:59.901663-05:00.jpg"
+     alt="Oklahoman at 2022-07-25 17:48:01-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-25T10:47:59.901663-05:00.jpg">July 25 at 5:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-24T23:37:11.135722-05:00.jpg">
   <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-24T23:37:11.135722-05:00.jpg"
-     alt="Oklahoman at 2022-07-24 23:37:13-05:00 local time"
+     alt="Oklahoman at 2022-07-25 06:37:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-24T23:37:11.135722-05:00.jpg">July 24 at 11:37 PM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-24T23:37:11.135722-05:00.jpg">July 25 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-24T10:06:54.917810-05:00.jpg">
   <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-24T10:06:54.917810-05:00.jpg"
-     alt="Oklahoman at 2022-07-24 10:06:56-05:00 local time"
+     alt="Oklahoman at 2022-07-24 17:06:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-24T10:06:54.917810-05:00.jpg">July 24 at 10:06 AM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-24T10:06:54.917810-05:00.jpg">July 24 at 5:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-23T22:42:38.803485-05:00.jpg">
   <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-23T22:42:38.803485-05:00.jpg"
-     alt="Oklahoman at 2022-07-23 22:42:43-05:00 local time"
+     alt="Oklahoman at 2022-07-24 05:42:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-23T22:42:38.803485-05:00.jpg">July 23 at 10:42 PM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-23T22:42:38.803485-05:00.jpg">July 24 at 5:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-23T11:06:36.724182-05:00.jpg">
   <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-23T11:06:36.724182-05:00.jpg"
-     alt="Oklahoman at 2022-07-23 11:06:42-05:00 local time"
+     alt="Oklahoman at 2022-07-23 18:06:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-23T11:06:36.724182-05:00.jpg">July 23 at 11:06 AM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-23T11:06:36.724182-05:00.jpg">July 23 at 6:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-22T23:25:38.373353-05:00.jpg">
   <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-22T23:25:38.373353-05:00.jpg"
-     alt="Oklahoman at 2022-07-22 23:25:41-05:00 local time"
+     alt="Oklahoman at 2022-07-23 06:25:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-22T23:25:38.373353-05:00.jpg">July 22 at 11:25 PM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-22T23:25:38.373353-05:00.jpg">July 23 at 6:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-22T11:18:12.272115-05:00.jpg">
   <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-22T11:18:12.272115-05:00.jpg"
-     alt="Oklahoman at 2022-07-22 11:18:13-05:00 local time"
+     alt="Oklahoman at 2022-07-22 18:18:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-22T11:18:12.272115-05:00.jpg">July 22 at 11:18 AM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-22T11:18:12.272115-05:00.jpg">July 22 at 6:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-21T23:32:10.261216-05:00.jpg">
   <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-21T23:32:10.261216-05:00.jpg"
-     alt="Oklahoman at 2022-07-21 23:32:11-05:00 local time"
+     alt="Oklahoman at 2022-07-22 06:32:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-21T23:32:10.261216-05:00.jpg">July 21 at 11:32 PM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-21T23:32:10.261216-05:00.jpg">July 22 at 6:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-21T11:55:40.833738-05:00.jpg">
   <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-21T11:55:40.833738-05:00.jpg"
-     alt="Oklahoman at 2022-07-21 11:55:43-05:00 local time"
+     alt="Oklahoman at 2022-07-21 18:55:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-21T11:55:40.833738-05:00.jpg">July 21 at 11:55 AM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-21T11:55:40.833738-05:00.jpg">July 21 at 6:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-20T23:29:49.397501-05:00.jpg">
   <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-20T23:29:49.397501-05:00.jpg"
-     alt="Oklahoman at 2022-07-20 23:29:51-05:00 local time"
+     alt="Oklahoman at 2022-07-21 06:29:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-20T23:29:49.397501-05:00.jpg">July 20 at 11:29 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-20T11:46:27.046968-05:00.jpg">
-  <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-20T11:46:27.046968-05:00.jpg"
-     alt="Oklahoman at 2022-07-20 11:46:28-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-20T11:46:27.046968-05:00.jpg">July 20 at 11:46 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-19T23:22:23.070117-05:00.jpg">
-  <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-19T23:22:23.070117-05:00.jpg"
-     alt="Oklahoman at 2022-07-19 23:22:25-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-19T23:22:23.070117-05:00.jpg">July 19 at 11:22 PM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-20T23:29:49.397501-05:00.jpg">July 21 at 6:29 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 74 hyperlink lists with the Internet Archive.
+The archiving routine has saved 76 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -308,6 +308,22 @@ The archiving routine has saved 74 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 04:51:50 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-25T21:51:45.283970-05:00.hyperlinks.json) |
+| [2022-07-26 03:35:10 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-25T20:35:04.422196-05:00.hyperlinks.json) |
+| [2022-07-25 17:48:04 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-25T10:47:59.901663-05:00.hyperlinks.json) |
+| [2022-07-25 06:37:16 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-24T23:37:11.135722-05:00.hyperlinks.json) |
+| [2022-07-24 05:42:45 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-23T22:42:38.803485-05:00.hyperlinks.json) |
+| [2022-07-23 18:06:46 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-23T11:06:36.724182-05:00.hyperlinks.json) |
+| [2022-07-23 06:25:45 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-22T23:25:38.373353-05:00.hyperlinks.json) |
+| [2022-07-22 06:32:15 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-21T23:32:10.261216-05:00.hyperlinks.json) |
+| [2022-07-21 18:55:46 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-21T11:55:40.833738-05:00.hyperlinks.json) |
+| [2022-07-21 06:29:53 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-20T23:29:49.397501-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

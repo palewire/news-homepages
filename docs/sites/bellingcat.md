@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-25T11:59:22.187081+01:00.jpg">
-  <img src="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-25T11:59:22.187081+01:00.jpg"
-     alt="Bellingcat at 2022-07-25 11:59:23+01:00 local time"
+ <a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-26T03:57:48.092681+01:00.jpg">
+  <img src="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-26T03:57:48.092681+01:00.jpg"
+     alt="Bellingcat at 2022-07-26 10:57:51+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-25T11:59:22.187081+01:00.jpg">July 25 at 11:59 AM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-26T03:57:48.092681+01:00.jpg">July 26 at 10:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-26T02:31:49.246476+01:00.jpg">
+  <img src="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-26T02:31:49.246476+01:00.jpg"
+     alt="Bellingcat at 2022-07-26 09:31:50+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-26T02:31:49.246476+01:00.jpg">July 26 at 9:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-25T11:59:22.187081+01:00.jpg">
+  <img src="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-25T11:59:22.187081+01:00.jpg"
+     alt="Bellingcat at 2022-07-25 18:59:23+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-25T11:59:22.187081+01:00.jpg">July 25 at 6:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-25T01:49:55.050610+01:00.jpg">
   <img src="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-25T01:49:55.050610+01:00.jpg"
-     alt="Bellingcat at 2022-07-25 01:49:57+01:00 local time"
+     alt="Bellingcat at 2022-07-25 08:49:57+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-25T01:49:55.050610+01:00.jpg">July 25 at 1:49 AM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-25T01:49:55.050610+01:00.jpg">July 25 at 8:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-24T11:58:16.884458+01:00.jpg">
   <img src="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-24T11:58:16.884458+01:00.jpg"
-     alt="Bellingcat at 2022-07-24 11:58:18+01:00 local time"
+     alt="Bellingcat at 2022-07-24 18:58:18+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-24T11:58:16.884458+01:00.jpg">July 24 at 11:58 AM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-24T11:58:16.884458+01:00.jpg">July 24 at 6:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-24T00:00:08.231036+01:00.jpg">
   <img src="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-24T00:00:08.231036+01:00.jpg"
-     alt="Bellingcat at 2022-07-24 00:00:10+01:00 local time"
+     alt="Bellingcat at 2022-07-24 07:00:10+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-24T00:00:08.231036+01:00.jpg">July 24 at 12:00 AM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-24T00:00:08.231036+01:00.jpg">July 24 at 7:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-23T13:57:22.522056+01:00.jpg">
   <img src="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-23T13:57:22.522056+01:00.jpg"
-     alt="Bellingcat at 2022-07-23 13:57:23+01:00 local time"
+     alt="Bellingcat at 2022-07-23 20:57:23+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-23T13:57:22.522056+01:00.jpg">July 23 at 1:57 PM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-23T13:57:22.522056+01:00.jpg">July 23 at 8:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-23T01:58:05.759408+01:00.jpg">
   <img src="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-23T01:58:05.759408+01:00.jpg"
-     alt="Bellingcat at 2022-07-23 01:58:07+01:00 local time"
+     alt="Bellingcat at 2022-07-23 08:58:07+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-23T01:58:05.759408+01:00.jpg">July 23 at 1:58 AM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-23T01:58:05.759408+01:00.jpg">July 23 at 8:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-22T13:57:24.497763+01:00.jpg">
   <img src="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-22T13:57:24.497763+01:00.jpg"
-     alt="Bellingcat at 2022-07-22 13:57:26+01:00 local time"
+     alt="Bellingcat at 2022-07-22 20:57:26+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-22T13:57:24.497763+01:00.jpg">July 22 at 1:57 PM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-22T13:57:24.497763+01:00.jpg">July 22 at 8:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-22T02:05:33.754654+01:00.jpg">
   <img src="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-22T02:05:33.754654+01:00.jpg"
-     alt="Bellingcat at 2022-07-22 02:05:35+01:00 local time"
+     alt="Bellingcat at 2022-07-22 09:05:35+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-22T02:05:33.754654+01:00.jpg">July 22 at 2:05 AM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-22T02:05:33.754654+01:00.jpg">July 22 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-21T13:52:14.879816+01:00.jpg">
   <img src="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-21T13:52:14.879816+01:00.jpg"
-     alt="Bellingcat at 2022-07-21 13:52:16+01:00 local time"
+     alt="Bellingcat at 2022-07-21 20:52:16+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-21T13:52:14.879816+01:00.jpg">July 21 at 1:52 PM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-21T13:52:14.879816+01:00.jpg">July 21 at 8:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-21T02:04:07.632205+01:00.jpg">
   <img src="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-21T02:04:07.632205+01:00.jpg"
-     alt="Bellingcat at 2022-07-21 02:04:09+01:00 local time"
+     alt="Bellingcat at 2022-07-21 09:04:09+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-21T02:04:07.632205+01:00.jpg">July 21 at 2:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-20T13:52:47.678801+01:00.jpg">
-  <img src="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-20T13:52:47.678801+01:00.jpg"
-     alt="Bellingcat at 2022-07-20 13:52:49+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-20T13:52:47.678801+01:00.jpg">July 20 at 1:52 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-20T01:59:34.835852+01:00.jpg">
-  <img src="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-20T01:59:34.835852+01:00.jpg"
-     alt="Bellingcat at 2022-07-20 01:59:36+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-20T01:59:34.835852+01:00.jpg">July 20 at 1:59 AM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-21T02:04:07.632205+01:00.jpg">July 21 at 9:04 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 32 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -308,6 +308,22 @@ The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 10:57:55 AM](https://archive.org/download/bellingcat-2022/bellingcat-2022-07-26T03:57:48.092681+01:00.hyperlinks.json) |
+| [2022-07-26 09:31:53 AM](https://archive.org/download/bellingcat-2022/bellingcat-2022-07-26T02:31:49.246476+01:00.hyperlinks.json) |
+| [2022-07-25 18:59:27 PM](https://archive.org/download/bellingcat-2022/bellingcat-2022-07-25T11:59:22.187081+01:00.hyperlinks.json) |
+| [2022-07-25 08:50:00 AM](https://archive.org/download/bellingcat-2022/bellingcat-2022-07-25T01:49:55.050610+01:00.hyperlinks.json) |
+| [2022-07-24 18:58:22 PM](https://archive.org/download/bellingcat-2022/bellingcat-2022-07-24T11:58:16.884458+01:00.hyperlinks.json) |
+| [2022-07-24 07:00:13 AM](https://archive.org/download/bellingcat-2022/bellingcat-2022-07-24T00:00:08.231036+01:00.hyperlinks.json) |
+| [2022-07-23 20:57:26 PM](https://archive.org/download/bellingcat-2022/bellingcat-2022-07-23T13:57:22.522056+01:00.hyperlinks.json) |
+| [2022-07-23 08:58:14 AM](https://archive.org/download/bellingcat-2022/bellingcat-2022-07-23T01:58:05.759408+01:00.hyperlinks.json) |
+| [2022-07-22 20:57:30 PM](https://archive.org/download/bellingcat-2022/bellingcat-2022-07-22T13:57:24.497763+01:00.hyperlinks.json) |
+| [2022-07-22 09:05:39 AM](https://archive.org/download/bellingcat-2022/bellingcat-2022-07-22T02:05:33.754654+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

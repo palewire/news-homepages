@@ -116,7 +116,7 @@ def site_detail():
         # Set the local time
         site_tz = pytz.timezone(site["timezone"])
         for s in most_recent_screenshots:
-            s["local_time"] = s["local_time"] = s["mtime"].astimezone(site_tz)
+            s["local_time"] = s["mtime"].astimezone(site_tz)
 
         # Get the hyperlinks for this site
         hyperlinks = [
@@ -127,6 +127,8 @@ def site_detail():
         most_recent_hyperlinks = sorted(
             hyperlinks, key=lambda x: x["mtime"], reverse=True
         )[:10]
+        for s in most_recent_hyperlinks:
+            s["local_time"] = s["mtime"].astimezone(site_tz)
 
         # Render the template
         context = {

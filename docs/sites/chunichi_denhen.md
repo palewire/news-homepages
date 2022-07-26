@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 52 screenshots with the Internet Archive.
+The archiving routine has saved 55 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-25T20:02:37.549073+09:00.jpg">
-  <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-25T20:02:37.549073+09:00.jpg"
-     alt="Chunichi Shimbun at 2022-07-25 20:02:38+09:00 local time"
+ <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T11:59:21.118827+09:00.jpg">
+  <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T11:59:21.118827+09:00.jpg"
+     alt="Chunichi Shimbun at 2022-07-26 18:59:22+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-25T20:02:37.549073+09:00.jpg">July 25 at 8:02 PM</a></p>
+ <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T11:59:21.118827+09:00.jpg">July 26 at 6:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T11:36:21.992135+09:00.jpg">
+  <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T11:36:21.992135+09:00.jpg"
+     alt="Chunichi Shimbun at 2022-07-26 18:36:23+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T11:36:21.992135+09:00.jpg">July 26 at 6:36 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T10:32:11.651474+09:00.jpg">
+  <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T10:32:11.651474+09:00.jpg"
+     alt="Chunichi Shimbun at 2022-07-26 17:32:13+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T10:32:11.651474+09:00.jpg">July 26 at 5:32 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-25T20:02:37.549073+09:00.jpg">
+  <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-25T20:02:37.549073+09:00.jpg"
+     alt="Chunichi Shimbun at 2022-07-26 03:02:38+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-25T20:02:37.549073+09:00.jpg">July 26 at 3:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-25T12:36:00.367057+09:00.jpg">
   <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-25T12:36:00.367057+09:00.jpg"
-     alt="Chunichi Shimbun at 2022-07-25 12:36:03+09:00 local time"
+     alt="Chunichi Shimbun at 2022-07-25 19:36:03+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-25T12:36:00.367057+09:00.jpg">July 25 at 12:36 PM</a></p>
+ <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-25T12:36:00.367057+09:00.jpg">July 25 at 7:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-25T09:54:54.049428+09:00.jpg">
   <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-25T09:54:54.049428+09:00.jpg"
-     alt="Chunichi Shimbun at 2022-07-25 09:54:56+09:00 local time"
+     alt="Chunichi Shimbun at 2022-07-25 16:54:56+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-25T09:54:54.049428+09:00.jpg">July 25 at 9:54 AM</a></p>
+ <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-25T09:54:54.049428+09:00.jpg">July 25 at 4:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-24T20:01:42.746560+09:00.jpg">
   <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-24T20:01:42.746560+09:00.jpg"
-     alt="Chunichi Shimbun at 2022-07-24 20:01:44+09:00 local time"
+     alt="Chunichi Shimbun at 2022-07-25 03:01:44+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-24T20:01:42.746560+09:00.jpg">July 24 at 8:01 PM</a></p>
+ <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-24T20:01:42.746560+09:00.jpg">July 25 at 3:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-24T11:25:08.376428+09:00.jpg">
   <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-24T11:25:08.376428+09:00.jpg"
-     alt="Chunichi Shimbun at 2022-07-24 11:25:13+09:00 local time"
+     alt="Chunichi Shimbun at 2022-07-24 18:25:13+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-24T11:25:08.376428+09:00.jpg">July 24 at 11:25 AM</a></p>
+ <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-24T11:25:08.376428+09:00.jpg">July 24 at 6:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-24T08:03:18.698613+09:00.jpg">
   <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-24T08:03:18.698613+09:00.jpg"
-     alt="Chunichi Shimbun at 2022-07-24 08:03:20+09:00 local time"
+     alt="Chunichi Shimbun at 2022-07-24 15:03:20+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-24T08:03:18.698613+09:00.jpg">July 24 at 8:03 AM</a></p>
+ <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-24T08:03:18.698613+09:00.jpg">July 24 at 3:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-23T22:00:50.179287+09:00.jpg">
   <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-23T22:00:50.179287+09:00.jpg"
-     alt="Chunichi Shimbun at 2022-07-23 22:00:52+09:00 local time"
+     alt="Chunichi Shimbun at 2022-07-24 05:00:52+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-23T22:00:50.179287+09:00.jpg">July 23 at 10:00 PM</a></p>
+ <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-23T22:00:50.179287+09:00.jpg">July 24 at 5:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-23T10:35:01.736297+09:00.jpg">
   <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-23T10:35:01.736297+09:00.jpg"
-     alt="Chunichi Shimbun at 2022-07-23 10:35:04+09:00 local time"
+     alt="Chunichi Shimbun at 2022-07-23 17:35:04+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-23T10:35:01.736297+09:00.jpg">July 23 at 10:35 AM</a></p>
+ <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-23T10:35:01.736297+09:00.jpg">July 23 at 5:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-23T10:01:14.745008+09:00.jpg">
   <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-23T10:01:14.745008+09:00.jpg"
-     alt="Chunichi Shimbun at 2022-07-23 10:01:15+09:00 local time"
+     alt="Chunichi Shimbun at 2022-07-23 17:01:15+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-23T10:01:14.745008+09:00.jpg">July 23 at 10:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-22T22:01:06.703354+09:00.jpg">
-  <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-22T22:01:06.703354+09:00.jpg"
-     alt="Chunichi Shimbun at 2022-07-22 22:01:07+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-22T22:01:06.703354+09:00.jpg">July 22 at 10:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-22T10:33:55.557306+09:00.jpg">
-  <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-22T10:33:55.557306+09:00.jpg"
-     alt="Chunichi Shimbun at 2022-07-22 10:33:57+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-22T10:33:55.557306+09:00.jpg">July 22 at 10:33 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-22T10:08:56.634414+09:00.jpg">
-  <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-22T10:08:56.634414+09:00.jpg"
-     alt="Chunichi Shimbun at 2022-07-22 10:09:00+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-22T10:08:56.634414+09:00.jpg">July 22 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-23T10:01:14.745008+09:00.jpg">July 23 at 5:01 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 50 hyperlink lists with the Internet Archive.
+The archiving routine has saved 53 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -308,6 +308,22 @@ The archiving routine has saved 50 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 18:59:26 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T11:59:21.118827+09:00.hyperlinks.json) |
+| [2022-07-26 18:36:27 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T11:36:21.992135+09:00.hyperlinks.json) |
+| [2022-07-26 17:32:16 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T10:32:11.651474+09:00.hyperlinks.json) |
+| [2022-07-26 03:02:42 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-25T20:02:37.549073+09:00.hyperlinks.json) |
+| [2022-07-25 19:36:06 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-25T12:36:00.367057+09:00.hyperlinks.json) |
+| [2022-07-25 16:54:59 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-25T09:54:54.049428+09:00.hyperlinks.json) |
+| [2022-07-25 03:01:48 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-24T20:01:42.746560+09:00.hyperlinks.json) |
+| [2022-07-24 18:25:17 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-24T11:25:08.376428+09:00.hyperlinks.json) |
+| [2022-07-24 15:03:23 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-24T08:03:18.698613+09:00.hyperlinks.json) |
+| [2022-07-24 05:00:59 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-23T22:00:50.179287+09:00.hyperlinks.json) |
 
 
 ## Internet Archive

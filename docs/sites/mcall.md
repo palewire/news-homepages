@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 75 screenshots with the Internet Archive.
+The archiving routine has saved 76 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/mcall-2022/mcall-2022-07-25T09:13:57.202554-04:00.jpg">
-  <img src="https://archive.org/download/mcall-2022/mcall-2022-07-25T09:13:57.202554-04:00.jpg"
-     alt="The Morning Call at 2022-07-25 09:13:59-04:00 local time"
+ <a href="https://archive.org/download/mcall-2022/mcall-2022-07-25T22:48:03.727790-04:00.jpg">
+  <img src="https://archive.org/download/mcall-2022/mcall-2022-07-25T22:48:03.727790-04:00.jpg"
+     alt="The Morning Call at 2022-07-26 05:48:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-25T09:13:57.202554-04:00.jpg">July 25 at 9:13 AM</a></p>
+ <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-25T22:48:03.727790-04:00.jpg">July 26 at 5:48 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mcall-2022/mcall-2022-07-25T09:13:57.202554-04:00.jpg">
+  <img src="https://archive.org/download/mcall-2022/mcall-2022-07-25T09:13:57.202554-04:00.jpg"
+     alt="The Morning Call at 2022-07-25 16:13:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-25T09:13:57.202554-04:00.jpg">July 25 at 4:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mcall-2022/mcall-2022-07-24T23:31:02.958405-04:00.jpg">
   <img src="https://archive.org/download/mcall-2022/mcall-2022-07-24T23:31:02.958405-04:00.jpg"
-     alt="The Morning Call at 2022-07-24 23:31:06-04:00 local time"
+     alt="The Morning Call at 2022-07-25 06:31:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-24T23:31:02.958405-04:00.jpg">July 24 at 11:31 PM</a></p>
+ <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-24T23:31:02.958405-04:00.jpg">July 25 at 6:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mcall-2022/mcall-2022-07-24T09:02:33.751123-04:00.jpg">
   <img src="https://archive.org/download/mcall-2022/mcall-2022-07-24T09:02:33.751123-04:00.jpg"
-     alt="The Morning Call at 2022-07-24 09:02:35-04:00 local time"
+     alt="The Morning Call at 2022-07-24 16:02:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-24T09:02:33.751123-04:00.jpg">July 24 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-24T09:02:33.751123-04:00.jpg">July 24 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mcall-2022/mcall-2022-07-24T00:18:15.040852-04:00.jpg">
   <img src="https://archive.org/download/mcall-2022/mcall-2022-07-24T00:18:15.040852-04:00.jpg"
-     alt="The Morning Call at 2022-07-24 00:18:16-04:00 local time"
+     alt="The Morning Call at 2022-07-24 07:18:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-24T00:18:15.040852-04:00.jpg">July 24 at 12:18 AM</a></p>
+ <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-24T00:18:15.040852-04:00.jpg">July 24 at 7:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mcall-2022/mcall-2022-07-23T11:00:37.500185-04:00.jpg">
   <img src="https://archive.org/download/mcall-2022/mcall-2022-07-23T11:00:37.500185-04:00.jpg"
-     alt="The Morning Call at 2022-07-23 11:00:40-04:00 local time"
+     alt="The Morning Call at 2022-07-23 18:00:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-23T11:00:37.500185-04:00.jpg">July 23 at 11:00 AM</a></p>
+ <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-23T11:00:37.500185-04:00.jpg">July 23 at 6:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mcall-2022/mcall-2022-07-22T23:30:54.401137-04:00.jpg">
   <img src="https://archive.org/download/mcall-2022/mcall-2022-07-22T23:30:54.401137-04:00.jpg"
-     alt="The Morning Call at 2022-07-22 23:30:57-04:00 local time"
+     alt="The Morning Call at 2022-07-23 06:30:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-22T23:30:54.401137-04:00.jpg">July 22 at 11:30 PM</a></p>
+ <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-22T23:30:54.401137-04:00.jpg">July 23 at 6:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mcall-2022/mcall-2022-07-22T10:56:36.430832-04:00.jpg">
   <img src="https://archive.org/download/mcall-2022/mcall-2022-07-22T10:56:36.430832-04:00.jpg"
-     alt="The Morning Call at 2022-07-22 10:56:37-04:00 local time"
+     alt="The Morning Call at 2022-07-22 17:56:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-22T10:56:36.430832-04:00.jpg">July 22 at 10:56 AM</a></p>
+ <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-22T10:56:36.430832-04:00.jpg">July 22 at 5:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mcall-2022/mcall-2022-07-21T23:34:38.731966-04:00.jpg">
   <img src="https://archive.org/download/mcall-2022/mcall-2022-07-21T23:34:38.731966-04:00.jpg"
-     alt="The Morning Call at 2022-07-21 23:34:42-04:00 local time"
+     alt="The Morning Call at 2022-07-22 06:34:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-21T23:34:38.731966-04:00.jpg">July 21 at 11:34 PM</a></p>
+ <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-21T23:34:38.731966-04:00.jpg">July 22 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mcall-2022/mcall-2022-07-21T11:30:11.765615-04:00.jpg">
   <img src="https://archive.org/download/mcall-2022/mcall-2022-07-21T11:30:11.765615-04:00.jpg"
-     alt="The Morning Call at 2022-07-21 11:30:18-04:00 local time"
+     alt="The Morning Call at 2022-07-21 18:30:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-21T11:30:11.765615-04:00.jpg">July 21 at 11:30 AM</a></p>
+ <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-21T11:30:11.765615-04:00.jpg">July 21 at 6:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mcall-2022/mcall-2022-07-20T23:34:14.557058-04:00.jpg">
   <img src="https://archive.org/download/mcall-2022/mcall-2022-07-20T23:34:14.557058-04:00.jpg"
-     alt="The Morning Call at 2022-07-20 23:34:16-04:00 local time"
+     alt="The Morning Call at 2022-07-21 06:34:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-20T23:34:14.557058-04:00.jpg">July 20 at 11:34 PM</a></p>
+ <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-20T23:34:14.557058-04:00.jpg">July 21 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mcall-2022/mcall-2022-07-20T12:07:04.262062-04:00.jpg">
   <img src="https://archive.org/download/mcall-2022/mcall-2022-07-20T12:07:04.262062-04:00.jpg"
-     alt="The Morning Call at 2022-07-20 12:07:09-04:00 local time"
+     alt="The Morning Call at 2022-07-20 19:07:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-20T12:07:04.262062-04:00.jpg">July 20 at 12:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mcall-2022/mcall-2022-07-19T23:31:45.959866-04:00.jpg">
-  <img src="https://archive.org/download/mcall-2022/mcall-2022-07-19T23:31:45.959866-04:00.jpg"
-     alt="The Morning Call at 2022-07-19 23:31:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-19T23:31:45.959866-04:00.jpg">July 19 at 11:31 PM</a></p>
+ <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-20T12:07:04.262062-04:00.jpg">July 20 at 7:07 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 75 hyperlink lists with the Internet Archive.
+The archiving routine has saved 76 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -308,6 +308,22 @@ The archiving routine has saved 75 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 05:48:09 AM](https://archive.org/download/mcall-2022/mcall-2022-07-25T22:48:03.727790-04:00.hyperlinks.json) |
+| [2022-07-25 16:14:02 PM](https://archive.org/download/mcall-2022/mcall-2022-07-25T09:13:57.202554-04:00.hyperlinks.json) |
+| [2022-07-25 06:31:09 AM](https://archive.org/download/mcall-2022/mcall-2022-07-24T23:31:02.958405-04:00.hyperlinks.json) |
+| [2022-07-24 16:02:39 PM](https://archive.org/download/mcall-2022/mcall-2022-07-24T09:02:33.751123-04:00.hyperlinks.json) |
+| [2022-07-24 07:18:18 AM](https://archive.org/download/mcall-2022/mcall-2022-07-24T00:18:15.040852-04:00.hyperlinks.json) |
+| [2022-07-23 18:00:44 PM](https://archive.org/download/mcall-2022/mcall-2022-07-23T11:00:37.500185-04:00.hyperlinks.json) |
+| [2022-07-23 06:30:59 AM](https://archive.org/download/mcall-2022/mcall-2022-07-22T23:30:54.401137-04:00.hyperlinks.json) |
+| [2022-07-22 17:56:40 PM](https://archive.org/download/mcall-2022/mcall-2022-07-22T10:56:36.430832-04:00.hyperlinks.json) |
+| [2022-07-22 06:34:47 AM](https://archive.org/download/mcall-2022/mcall-2022-07-21T23:34:38.731966-04:00.hyperlinks.json) |
+| [2022-07-21 18:30:21 PM](https://archive.org/download/mcall-2022/mcall-2022-07-21T11:30:11.765615-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

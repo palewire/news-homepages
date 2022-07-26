@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/sinow-2022/sinow-2022-07-25T20:24:48.573213-04:00.jpg">
-  <img src="https://archive.org/download/sinow-2022/sinow-2022-07-25T20:24:48.573213-04:00.jpg"
-     alt="Sports Illustrated at 2022-07-25 20:24:50-04:00 local time"
+ <a href="https://archive.org/download/sinow-2022/sinow-2022-07-26T08:29:38.164326-04:00.jpg">
+  <img src="https://archive.org/download/sinow-2022/sinow-2022-07-26T08:29:38.164326-04:00.jpg"
+     alt="Sports Illustrated at 2022-07-26 15:29:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-25T20:24:48.573213-04:00.jpg">July 25 at 8:24 PM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-26T08:29:38.164326-04:00.jpg">July 26 at 3:29 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sinow-2022/sinow-2022-07-25T20:24:48.573213-04:00.jpg">
+  <img src="https://archive.org/download/sinow-2022/sinow-2022-07-25T20:24:48.573213-04:00.jpg"
+     alt="Sports Illustrated at 2022-07-26 03:24:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-25T20:24:48.573213-04:00.jpg">July 26 at 3:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sinow-2022/sinow-2022-07-25T11:41:44.902935-04:00.jpg">
   <img src="https://archive.org/download/sinow-2022/sinow-2022-07-25T11:41:44.902935-04:00.jpg"
-     alt="Sports Illustrated at 2022-07-25 11:41:47-04:00 local time"
+     alt="Sports Illustrated at 2022-07-25 18:41:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-25T11:41:44.902935-04:00.jpg">July 25 at 11:41 AM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-25T11:41:44.902935-04:00.jpg">July 25 at 6:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sinow-2022/sinow-2022-07-24T23:44:06.056230-04:00.jpg">
   <img src="https://archive.org/download/sinow-2022/sinow-2022-07-24T23:44:06.056230-04:00.jpg"
-     alt="Sports Illustrated at 2022-07-24 23:44:09-04:00 local time"
+     alt="Sports Illustrated at 2022-07-25 06:44:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-24T23:44:06.056230-04:00.jpg">July 24 at 11:44 PM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-24T23:44:06.056230-04:00.jpg">July 25 at 6:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sinow-2022/sinow-2022-07-24T10:03:53.804424-04:00.jpg">
   <img src="https://archive.org/download/sinow-2022/sinow-2022-07-24T10:03:53.804424-04:00.jpg"
-     alt="Sports Illustrated at 2022-07-24 10:03:55-04:00 local time"
+     alt="Sports Illustrated at 2022-07-24 17:03:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-24T10:03:53.804424-04:00.jpg">July 24 at 10:03 AM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-24T10:03:53.804424-04:00.jpg">July 24 at 5:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sinow-2022/sinow-2022-07-24T02:23:35.341528-04:00.jpg">
   <img src="https://archive.org/download/sinow-2022/sinow-2022-07-24T02:23:35.341528-04:00.jpg"
-     alt="Sports Illustrated at 2022-07-24 02:23:37-04:00 local time"
+     alt="Sports Illustrated at 2022-07-24 09:23:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-24T02:23:35.341528-04:00.jpg">July 24 at 2:23 AM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-24T02:23:35.341528-04:00.jpg">July 24 at 9:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sinow-2022/sinow-2022-07-23T12:01:47.567673-04:00.jpg">
   <img src="https://archive.org/download/sinow-2022/sinow-2022-07-23T12:01:47.567673-04:00.jpg"
-     alt="Sports Illustrated at 2022-07-23 12:01:50-04:00 local time"
+     alt="Sports Illustrated at 2022-07-23 19:01:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-23T12:01:47.567673-04:00.jpg">July 23 at 12:01 PM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-23T12:01:47.567673-04:00.jpg">July 23 at 7:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sinow-2022/sinow-2022-07-23T00:22:04.025744-04:00.jpg">
   <img src="https://archive.org/download/sinow-2022/sinow-2022-07-23T00:22:04.025744-04:00.jpg"
-     alt="Sports Illustrated at 2022-07-23 00:22:05-04:00 local time"
+     alt="Sports Illustrated at 2022-07-23 07:22:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-23T00:22:04.025744-04:00.jpg">July 23 at 12:22 AM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-23T00:22:04.025744-04:00.jpg">July 23 at 7:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sinow-2022/sinow-2022-07-22T12:14:11.459526-04:00.jpg">
   <img src="https://archive.org/download/sinow-2022/sinow-2022-07-22T12:14:11.459526-04:00.jpg"
-     alt="Sports Illustrated at 2022-07-22 12:14:14-04:00 local time"
+     alt="Sports Illustrated at 2022-07-22 19:14:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-22T12:14:11.459526-04:00.jpg">July 22 at 12:14 PM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-22T12:14:11.459526-04:00.jpg">July 22 at 7:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sinow-2022/sinow-2022-07-22T00:28:08.901903-04:00.jpg">
   <img src="https://archive.org/download/sinow-2022/sinow-2022-07-22T00:28:08.901903-04:00.jpg"
-     alt="Sports Illustrated at 2022-07-22 00:28:10-04:00 local time"
+     alt="Sports Illustrated at 2022-07-22 07:28:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-22T00:28:08.901903-04:00.jpg">July 22 at 12:28 AM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-22T00:28:08.901903-04:00.jpg">July 22 at 7:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sinow-2022/sinow-2022-07-21T12:51:54.440636-04:00.jpg">
   <img src="https://archive.org/download/sinow-2022/sinow-2022-07-21T12:51:54.440636-04:00.jpg"
-     alt="Sports Illustrated at 2022-07-21 12:51:56-04:00 local time"
+     alt="Sports Illustrated at 2022-07-21 19:51:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-21T12:51:54.440636-04:00.jpg">July 21 at 12:51 PM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-21T12:51:54.440636-04:00.jpg">July 21 at 7:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sinow-2022/sinow-2022-07-21T00:26:47.417935-04:00.jpg">
   <img src="https://archive.org/download/sinow-2022/sinow-2022-07-21T00:26:47.417935-04:00.jpg"
-     alt="Sports Illustrated at 2022-07-21 00:26:48-04:00 local time"
+     alt="Sports Illustrated at 2022-07-21 07:26:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-21T00:26:47.417935-04:00.jpg">July 21 at 12:26 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sinow-2022/sinow-2022-07-20T12:42:14.436031-04:00.jpg">
-  <img src="https://archive.org/download/sinow-2022/sinow-2022-07-20T12:42:14.436031-04:00.jpg"
-     alt="Sports Illustrated at 2022-07-20 12:42:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-20T12:42:14.436031-04:00.jpg">July 20 at 12:42 PM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-21T00:26:47.417935-04:00.jpg">July 21 at 7:26 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -308,6 +308,22 @@ The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 15:29:44 PM](https://archive.org/download/sinow-2022/sinow-2022-07-26T08:29:38.164326-04:00.hyperlinks.json) |
+| [2022-07-26 03:24:54 AM](https://archive.org/download/sinow-2022/sinow-2022-07-25T20:24:48.573213-04:00.hyperlinks.json) |
+| [2022-07-25 18:41:51 PM](https://archive.org/download/sinow-2022/sinow-2022-07-25T11:41:44.902935-04:00.hyperlinks.json) |
+| [2022-07-25 06:44:13 AM](https://archive.org/download/sinow-2022/sinow-2022-07-24T23:44:06.056230-04:00.hyperlinks.json) |
+| [2022-07-24 17:03:59 PM](https://archive.org/download/sinow-2022/sinow-2022-07-24T10:03:53.804424-04:00.hyperlinks.json) |
+| [2022-07-24 09:23:40 AM](https://archive.org/download/sinow-2022/sinow-2022-07-24T02:23:35.341528-04:00.hyperlinks.json) |
+| [2022-07-23 19:01:54 PM](https://archive.org/download/sinow-2022/sinow-2022-07-23T12:01:47.567673-04:00.hyperlinks.json) |
+| [2022-07-23 07:22:09 AM](https://archive.org/download/sinow-2022/sinow-2022-07-23T00:22:04.025744-04:00.hyperlinks.json) |
+| [2022-07-22 19:14:17 PM](https://archive.org/download/sinow-2022/sinow-2022-07-22T12:14:11.459526-04:00.hyperlinks.json) |
+| [2022-07-22 07:28:14 AM](https://archive.org/download/sinow-2022/sinow-2022-07-22T00:28:08.901903-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

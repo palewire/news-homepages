@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 76 screenshots with the Internet Archive.
+The archiving routine has saved 78 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T11:46:10.492576-04:00.jpg">
-  <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T11:46:10.492576-04:00.jpg"
-     alt="Atlantic at 2022-07-25 11:46:12-04:00 local time"
+ <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T22:51:41.954659-04:00.jpg">
+  <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T22:51:41.954659-04:00.jpg"
+     alt="Atlantic at 2022-07-26 05:51:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T11:46:10.492576-04:00.jpg">July 25 at 11:46 AM</a></p>
+ <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T22:51:41.954659-04:00.jpg">July 26 at 5:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T21:34:49.377029-04:00.jpg">
+  <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T21:34:49.377029-04:00.jpg"
+     alt="Atlantic at 2022-07-26 04:34:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T21:34:49.377029-04:00.jpg">July 26 at 4:34 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T11:46:10.492576-04:00.jpg">
+  <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T11:46:10.492576-04:00.jpg"
+     alt="Atlantic at 2022-07-25 18:46:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T11:46:10.492576-04:00.jpg">July 25 at 6:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T00:35:00.960160-04:00.jpg">
   <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T00:35:00.960160-04:00.jpg"
-     alt="Atlantic at 2022-07-25 00:35:02-04:00 local time"
+     alt="Atlantic at 2022-07-25 07:35:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T00:35:00.960160-04:00.jpg">July 25 at 12:35 AM</a></p>
+ <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T00:35:00.960160-04:00.jpg">July 25 at 7:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-24T11:05:36.769120-04:00.jpg">
   <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-24T11:05:36.769120-04:00.jpg"
-     alt="Atlantic at 2022-07-24 11:05:38-04:00 local time"
+     alt="Atlantic at 2022-07-24 18:05:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-24T11:05:36.769120-04:00.jpg">July 24 at 11:05 AM</a></p>
+ <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-24T11:05:36.769120-04:00.jpg">July 24 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T23:40:16.464256-04:00.jpg">
   <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T23:40:16.464256-04:00.jpg"
-     alt="Atlantic at 2022-07-23 23:40:18-04:00 local time"
+     alt="Atlantic at 2022-07-24 06:40:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T23:40:16.464256-04:00.jpg">July 23 at 11:40 PM</a></p>
+ <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T23:40:16.464256-04:00.jpg">July 24 at 6:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T12:04:08.903121-04:00.jpg">
   <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T12:04:08.903121-04:00.jpg"
-     alt="Atlantic at 2022-07-23 12:04:14-04:00 local time"
+     alt="Atlantic at 2022-07-23 19:04:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T12:04:08.903121-04:00.jpg">July 23 at 12:04 PM</a></p>
+ <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T12:04:08.903121-04:00.jpg">July 23 at 7:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T00:24:43.898572-04:00.jpg">
   <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T00:24:43.898572-04:00.jpg"
-     alt="Atlantic at 2022-07-23 00:24:44-04:00 local time"
+     alt="Atlantic at 2022-07-23 07:24:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T00:24:43.898572-04:00.jpg">July 23 at 12:24 AM</a></p>
+ <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T00:24:43.898572-04:00.jpg">July 23 at 7:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-22T12:17:40.539958-04:00.jpg">
   <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-22T12:17:40.539958-04:00.jpg"
-     alt="Atlantic at 2022-07-22 12:17:43-04:00 local time"
+     alt="Atlantic at 2022-07-22 19:17:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-22T12:17:40.539958-04:00.jpg">July 22 at 12:17 PM</a></p>
+ <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-22T12:17:40.539958-04:00.jpg">July 22 at 7:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-22T00:30:54.790861-04:00.jpg">
   <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-22T00:30:54.790861-04:00.jpg"
-     alt="Atlantic at 2022-07-22 00:30:56-04:00 local time"
+     alt="Atlantic at 2022-07-22 07:30:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-22T00:30:54.790861-04:00.jpg">July 22 at 12:30 AM</a></p>
+ <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-22T00:30:54.790861-04:00.jpg">July 22 at 7:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-21T12:54:20.270246-04:00.jpg">
   <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-21T12:54:20.270246-04:00.jpg"
-     alt="Atlantic at 2022-07-21 12:54:21-04:00 local time"
+     alt="Atlantic at 2022-07-21 19:54:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-21T12:54:20.270246-04:00.jpg">July 21 at 12:54 PM</a></p>
+ <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-21T12:54:20.270246-04:00.jpg">July 21 at 7:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-21T00:29:16.859952-04:00.jpg">
   <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-21T00:29:16.859952-04:00.jpg"
-     alt="Atlantic at 2022-07-21 00:29:18-04:00 local time"
+     alt="Atlantic at 2022-07-21 07:29:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-21T00:29:16.859952-04:00.jpg">July 21 at 12:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-20T12:44:52.353373-04:00.jpg">
-  <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-20T12:44:52.353373-04:00.jpg"
-     alt="Atlantic at 2022-07-20 12:44:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-20T12:44:52.353373-04:00.jpg">July 20 at 12:44 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-20T00:20:47.350010-04:00.jpg">
-  <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-20T00:20:47.350010-04:00.jpg"
-     alt="Atlantic at 2022-07-20 00:20:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-20T00:20:47.350010-04:00.jpg">July 20 at 12:20 AM</a></p>
+ <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-21T00:29:16.859952-04:00.jpg">July 21 at 7:29 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 78 hyperlink lists with the Internet Archive.
+The archiving routine has saved 80 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -308,6 +308,22 @@ The archiving routine has saved 78 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 05:51:48 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T22:51:41.954659-04:00.hyperlinks.json) |
+| [2022-07-26 04:34:55 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T21:34:49.377029-04:00.hyperlinks.json) |
+| [2022-07-25 18:46:15 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T11:46:10.492576-04:00.hyperlinks.json) |
+| [2022-07-25 07:35:06 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T00:35:00.960160-04:00.hyperlinks.json) |
+| [2022-07-24 18:05:41 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-24T11:05:36.769120-04:00.hyperlinks.json) |
+| [2022-07-24 06:40:21 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T23:40:16.464256-04:00.hyperlinks.json) |
+| [2022-07-23 19:04:18 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T12:04:08.903121-04:00.hyperlinks.json) |
+| [2022-07-23 07:24:47 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T00:24:43.898572-04:00.hyperlinks.json) |
+| [2022-07-22 19:17:48 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-22T12:17:40.539958-04:00.hyperlinks.json) |
+| [2022-07-22 07:30:59 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-22T00:30:54.790861-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

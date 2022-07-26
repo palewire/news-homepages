@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T07:59:05.270594-04:00.jpg">
-  <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T07:59:05.270594-04:00.jpg"
-     alt="Connecticut Mirror at 2022-07-25 07:59:07-04:00 local time"
+ <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T23:00:02.141909-04:00.jpg">
+  <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T23:00:02.141909-04:00.jpg"
+     alt="Connecticut Mirror at 2022-07-26 06:00:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T07:59:05.270594-04:00.jpg">July 25 at 7:59 AM</a></p>
+ <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T23:00:02.141909-04:00.jpg">July 26 at 6:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T21:33:04.001873-04:00.jpg">
+  <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T21:33:04.001873-04:00.jpg"
+     alt="Connecticut Mirror at 2022-07-26 04:33:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T21:33:04.001873-04:00.jpg">July 26 at 4:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T07:59:05.270594-04:00.jpg">
+  <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T07:59:05.270594-04:00.jpg"
+     alt="Connecticut Mirror at 2022-07-25 14:59:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T07:59:05.270594-04:00.jpg">July 25 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-24T20:57:51.972647-04:00.jpg">
   <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-24T20:57:51.972647-04:00.jpg"
-     alt="Connecticut Mirror at 2022-07-24 20:57:53-04:00 local time"
+     alt="Connecticut Mirror at 2022-07-25 03:57:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-24T20:57:51.972647-04:00.jpg">July 24 at 8:57 PM</a></p>
+ <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-24T20:57:51.972647-04:00.jpg">July 25 at 3:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-24T07:56:25.548737-04:00.jpg">
   <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-24T07:56:25.548737-04:00.jpg"
-     alt="Connecticut Mirror at 2022-07-24 07:56:27-04:00 local time"
+     alt="Connecticut Mirror at 2022-07-24 14:56:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-24T07:56:25.548737-04:00.jpg">July 24 at 7:56 AM</a></p>
+ <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-24T07:56:25.548737-04:00.jpg">July 24 at 2:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-24T02:25:21.440874-04:00.jpg">
   <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-24T02:25:21.440874-04:00.jpg"
-     alt="Connecticut Mirror at 2022-07-24 02:25:24-04:00 local time"
+     alt="Connecticut Mirror at 2022-07-24 09:25:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-24T02:25:21.440874-04:00.jpg">July 24 at 2:25 AM</a></p>
+ <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-24T02:25:21.440874-04:00.jpg">July 24 at 9:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-23T09:02:00.072121-04:00.jpg">
   <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-23T09:02:00.072121-04:00.jpg"
-     alt="Connecticut Mirror at 2022-07-23 09:02:02-04:00 local time"
+     alt="Connecticut Mirror at 2022-07-23 16:02:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-23T09:02:00.072121-04:00.jpg">July 23 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-23T09:02:00.072121-04:00.jpg">July 23 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-22T21:02:46.971992-04:00.jpg">
   <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-22T21:02:46.971992-04:00.jpg"
-     alt="Connecticut Mirror at 2022-07-22 21:02:48-04:00 local time"
+     alt="Connecticut Mirror at 2022-07-23 04:02:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-22T21:02:46.971992-04:00.jpg">July 22 at 9:02 PM</a></p>
+ <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-22T21:02:46.971992-04:00.jpg">July 23 at 4:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-22T09:02:46.095368-04:00.jpg">
   <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-22T09:02:46.095368-04:00.jpg"
-     alt="Connecticut Mirror at 2022-07-22 09:02:47-04:00 local time"
+     alt="Connecticut Mirror at 2022-07-22 16:02:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-22T09:02:46.095368-04:00.jpg">July 22 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-22T09:02:46.095368-04:00.jpg">July 22 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-21T21:10:37.337611-04:00.jpg">
   <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-21T21:10:37.337611-04:00.jpg"
-     alt="Connecticut Mirror at 2022-07-21 21:10:39-04:00 local time"
+     alt="Connecticut Mirror at 2022-07-22 04:10:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-21T21:10:37.337611-04:00.jpg">July 21 at 9:10 PM</a></p>
+ <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-21T21:10:37.337611-04:00.jpg">July 22 at 4:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-21T08:56:26.425668-04:00.jpg">
   <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-21T08:56:26.425668-04:00.jpg"
-     alt="Connecticut Mirror at 2022-07-21 08:56:28-04:00 local time"
+     alt="Connecticut Mirror at 2022-07-21 15:56:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-21T08:56:26.425668-04:00.jpg">July 21 at 8:56 AM</a></p>
+ <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-21T08:56:26.425668-04:00.jpg">July 21 at 3:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-20T21:08:55.749171-04:00.jpg">
   <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-20T21:08:55.749171-04:00.jpg"
-     alt="Connecticut Mirror at 2022-07-20 21:08:57-04:00 local time"
+     alt="Connecticut Mirror at 2022-07-21 04:08:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-20T21:08:55.749171-04:00.jpg">July 20 at 9:08 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-20T08:56:51.545422-04:00.jpg">
-  <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-20T08:56:51.545422-04:00.jpg"
-     alt="Connecticut Mirror at 2022-07-20 08:56:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-20T08:56:51.545422-04:00.jpg">July 20 at 8:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-19T21:03:49.921285-04:00.jpg">
-  <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-19T21:03:49.921285-04:00.jpg"
-     alt="Connecticut Mirror at 2022-07-19 21:03:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-19T21:03:49.921285-04:00.jpg">July 19 at 9:03 PM</a></p>
+ <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-20T21:08:55.749171-04:00.jpg">July 21 at 4:08 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 34 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -308,6 +308,22 @@ The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 06:00:09 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T23:00:02.141909-04:00.hyperlinks.json) |
+| [2022-07-26 04:33:09 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T21:33:04.001873-04:00.hyperlinks.json) |
+| [2022-07-25 14:59:10 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T07:59:05.270594-04:00.hyperlinks.json) |
+| [2022-07-25 03:57:55 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-24T20:57:51.972647-04:00.hyperlinks.json) |
+| [2022-07-24 14:56:30 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-24T07:56:25.548737-04:00.hyperlinks.json) |
+| [2022-07-24 09:25:27 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-24T02:25:21.440874-04:00.hyperlinks.json) |
+| [2022-07-23 16:02:05 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-23T09:02:00.072121-04:00.hyperlinks.json) |
+| [2022-07-23 04:02:52 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-22T21:02:46.971992-04:00.hyperlinks.json) |
+| [2022-07-22 16:02:50 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-22T09:02:46.095368-04:00.hyperlinks.json) |
+| [2022-07-22 04:10:43 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-21T21:10:37.337611-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 76 screenshots with the Internet Archive.
+The archiving routine has saved 77 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/harpers-2022/harpers-2022-07-25T19:15:25.546679-04:00.jpg">
-  <img src="https://archive.org/download/harpers-2022/harpers-2022-07-25T19:15:25.546679-04:00.jpg"
-     alt="Harper’s at 2022-07-25 19:15:28-04:00 local time"
+ <a href="https://archive.org/download/harpers-2022/harpers-2022-07-26T07:19:18.290203-04:00.jpg">
+  <img src="https://archive.org/download/harpers-2022/harpers-2022-07-26T07:19:18.290203-04:00.jpg"
+     alt="Harper’s at 2022-07-26 14:19:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-25T19:15:25.546679-04:00.jpg">July 25 at 7:15 PM</a></p>
+ <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-26T07:19:18.290203-04:00.jpg">July 26 at 2:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/harpers-2022/harpers-2022-07-25T19:15:25.546679-04:00.jpg">
+  <img src="https://archive.org/download/harpers-2022/harpers-2022-07-25T19:15:25.546679-04:00.jpg"
+     alt="Harper’s at 2022-07-26 02:15:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-25T19:15:25.546679-04:00.jpg">July 26 at 2:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/harpers-2022/harpers-2022-07-25T08:05:20.847621-04:00.jpg">
   <img src="https://archive.org/download/harpers-2022/harpers-2022-07-25T08:05:20.847621-04:00.jpg"
-     alt="Harper’s at 2022-07-25 08:05:24-04:00 local time"
+     alt="Harper’s at 2022-07-25 15:05:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-25T08:05:20.847621-04:00.jpg">July 25 at 8:05 AM</a></p>
+ <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-25T08:05:20.847621-04:00.jpg">July 25 at 3:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/harpers-2022/harpers-2022-07-24T21:10:16.151389-04:00.jpg">
   <img src="https://archive.org/download/harpers-2022/harpers-2022-07-24T21:10:16.151389-04:00.jpg"
-     alt="Harper’s at 2022-07-24 21:10:18-04:00 local time"
+     alt="Harper’s at 2022-07-25 04:10:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-24T21:10:16.151389-04:00.jpg">July 24 at 9:10 PM</a></p>
+ <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-24T21:10:16.151389-04:00.jpg">July 25 at 4:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/harpers-2022/harpers-2022-07-24T08:02:02.089505-04:00.jpg">
   <img src="https://archive.org/download/harpers-2022/harpers-2022-07-24T08:02:02.089505-04:00.jpg"
-     alt="Harper’s at 2022-07-24 08:02:03-04:00 local time"
+     alt="Harper’s at 2022-07-24 15:02:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-24T08:02:02.089505-04:00.jpg">July 24 at 8:02 AM</a></p>
+ <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-24T08:02:02.089505-04:00.jpg">July 24 at 3:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/harpers-2022/harpers-2022-07-24T02:32:16.766870-04:00.jpg">
   <img src="https://archive.org/download/harpers-2022/harpers-2022-07-24T02:32:16.766870-04:00.jpg"
-     alt="Harper’s at 2022-07-24 02:32:20-04:00 local time"
+     alt="Harper’s at 2022-07-24 09:32:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-24T02:32:16.766870-04:00.jpg">July 24 at 2:32 AM</a></p>
+ <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-24T02:32:16.766870-04:00.jpg">July 24 at 9:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/harpers-2022/harpers-2022-07-23T10:02:15.633162-04:00.jpg">
   <img src="https://archive.org/download/harpers-2022/harpers-2022-07-23T10:02:15.633162-04:00.jpg"
-     alt="Harper’s at 2022-07-23 10:02:21-04:00 local time"
+     alt="Harper’s at 2022-07-23 17:02:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-23T10:02:15.633162-04:00.jpg">July 23 at 10:02 AM</a></p>
+ <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-23T10:02:15.633162-04:00.jpg">July 23 at 5:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/harpers-2022/harpers-2022-07-22T22:27:37.111922-04:00.jpg">
   <img src="https://archive.org/download/harpers-2022/harpers-2022-07-22T22:27:37.111922-04:00.jpg"
-     alt="Harper’s at 2022-07-22 22:27:39-04:00 local time"
+     alt="Harper’s at 2022-07-23 05:27:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-22T22:27:37.111922-04:00.jpg">July 22 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-22T22:27:37.111922-04:00.jpg">July 23 at 5:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/harpers-2022/harpers-2022-07-22T10:02:55.589130-04:00.jpg">
   <img src="https://archive.org/download/harpers-2022/harpers-2022-07-22T10:02:55.589130-04:00.jpg"
-     alt="Harper’s at 2022-07-22 10:02:58-04:00 local time"
+     alt="Harper’s at 2022-07-22 17:02:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-22T10:02:55.589130-04:00.jpg">July 22 at 10:02 AM</a></p>
+ <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-22T10:02:55.589130-04:00.jpg">July 22 at 5:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/harpers-2022/harpers-2022-07-21T22:22:12.399139-04:00.jpg">
   <img src="https://archive.org/download/harpers-2022/harpers-2022-07-21T22:22:12.399139-04:00.jpg"
-     alt="Harper’s at 2022-07-21 22:22:14-04:00 local time"
+     alt="Harper’s at 2022-07-22 05:22:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-21T22:22:12.399139-04:00.jpg">July 21 at 10:22 PM</a></p>
+ <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-21T22:22:12.399139-04:00.jpg">July 22 at 5:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/harpers-2022/harpers-2022-07-21T10:09:44.006005-04:00.jpg">
   <img src="https://archive.org/download/harpers-2022/harpers-2022-07-21T10:09:44.006005-04:00.jpg"
-     alt="Harper’s at 2022-07-21 10:09:49-04:00 local time"
+     alt="Harper’s at 2022-07-21 17:09:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-21T10:09:44.006005-04:00.jpg">July 21 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-21T10:09:44.006005-04:00.jpg">July 21 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/harpers-2022/harpers-2022-07-20T22:25:16.385165-04:00.jpg">
   <img src="https://archive.org/download/harpers-2022/harpers-2022-07-20T22:25:16.385165-04:00.jpg"
-     alt="Harper’s at 2022-07-20 22:25:21-04:00 local time"
+     alt="Harper’s at 2022-07-21 05:25:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-20T22:25:16.385165-04:00.jpg">July 20 at 10:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/harpers-2022/harpers-2022-07-20T10:27:31.163919-04:00.jpg">
-  <img src="https://archive.org/download/harpers-2022/harpers-2022-07-20T10:27:31.163919-04:00.jpg"
-     alt="Harper’s at 2022-07-20 10:27:32-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-20T10:27:31.163919-04:00.jpg">July 20 at 10:27 AM</a></p>
+ <p><a href="https://archive.org/download/harpers-2022/harpers-2022-07-20T22:25:16.385165-04:00.jpg">July 21 at 5:25 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 79 hyperlink lists with the Internet Archive.
+The archiving routine has saved 80 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -308,6 +308,22 @@ The archiving routine has saved 79 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 14:19:25 PM](https://archive.org/download/harpers-2022/harpers-2022-07-26T07:19:18.290203-04:00.hyperlinks.json) |
+| [2022-07-26 02:15:31 AM](https://archive.org/download/harpers-2022/harpers-2022-07-25T19:15:25.546679-04:00.hyperlinks.json) |
+| [2022-07-25 15:05:27 PM](https://archive.org/download/harpers-2022/harpers-2022-07-25T08:05:20.847621-04:00.hyperlinks.json) |
+| [2022-07-25 04:10:28 AM](https://archive.org/download/harpers-2022/harpers-2022-07-24T21:10:16.151389-04:00.hyperlinks.json) |
+| [2022-07-24 15:02:07 PM](https://archive.org/download/harpers-2022/harpers-2022-07-24T08:02:02.089505-04:00.hyperlinks.json) |
+| [2022-07-24 09:32:23 AM](https://archive.org/download/harpers-2022/harpers-2022-07-24T02:32:16.766870-04:00.hyperlinks.json) |
+| [2022-07-23 17:02:24 PM](https://archive.org/download/harpers-2022/harpers-2022-07-23T10:02:15.633162-04:00.hyperlinks.json) |
+| [2022-07-23 05:27:43 AM](https://archive.org/download/harpers-2022/harpers-2022-07-22T22:27:37.111922-04:00.hyperlinks.json) |
+| [2022-07-22 17:03:01 PM](https://archive.org/download/harpers-2022/harpers-2022-07-22T10:02:55.589130-04:00.hyperlinks.json) |
+| [2022-07-22 05:22:17 AM](https://archive.org/download/harpers-2022/harpers-2022-07-21T22:22:12.399139-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

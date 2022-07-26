@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 12 screenshots with the Internet Archive.
+The archiving routine has saved 14 screenshots with the Internet Archive.
 
 
 
@@ -29,119 +29,135 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-25T13:58:24.763693+02:00.jpg">
-  <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-25T13:58:24.763693+02:00.jpg"
-     alt="Dagbladet at 2022-07-25 13:58:27+02:00 local time"
+ <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-26T05:00:12.507918+02:00.jpg">
+  <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-26T05:00:12.507918+02:00.jpg"
+     alt="Dagbladet at 2022-07-26 12:00:14+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-25T13:58:24.763693+02:00.jpg">July 25 at 1:58 PM</a></p>
+ <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-26T05:00:12.507918+02:00.jpg">July 26 at 12:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-26T03:33:10.142068+02:00.jpg">
+  <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-26T03:33:10.142068+02:00.jpg"
+     alt="Dagbladet at 2022-07-26 10:33:12+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-26T03:33:10.142068+02:00.jpg">July 26 at 10:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-25T13:58:24.763693+02:00.jpg">
+  <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-25T13:58:24.763693+02:00.jpg"
+     alt="Dagbladet at 2022-07-25 20:58:27+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-25T13:58:24.763693+02:00.jpg">July 25 at 8:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-25T02:58:01.573581+02:00.jpg">
   <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-25T02:58:01.573581+02:00.jpg"
-     alt="Dagbladet at 2022-07-25 02:58:03+02:00 local time"
+     alt="Dagbladet at 2022-07-25 09:58:03+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-25T02:58:01.573581+02:00.jpg">July 25 at 2:58 AM</a></p>
+ <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-25T02:58:01.573581+02:00.jpg">July 25 at 9:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-24T13:56:43.040624+02:00.jpg">
   <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-24T13:56:43.040624+02:00.jpg"
-     alt="Dagbladet at 2022-07-24 13:56:44+02:00 local time"
+     alt="Dagbladet at 2022-07-24 20:56:44+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-24T13:56:43.040624+02:00.jpg">July 24 at 1:56 PM</a></p>
+ <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-24T13:56:43.040624+02:00.jpg">July 24 at 8:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-24T08:25:34.639355+02:00.jpg">
   <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-24T08:25:34.639355+02:00.jpg"
-     alt="Dagbladet at 2022-07-24 08:25:36+02:00 local time"
+     alt="Dagbladet at 2022-07-24 15:25:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-24T08:25:34.639355+02:00.jpg">July 24 at 8:25 AM</a></p>
+ <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-24T08:25:34.639355+02:00.jpg">July 24 at 3:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-23T15:02:54.626073+02:00.jpg">
   <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-23T15:02:54.626073+02:00.jpg"
-     alt="Dagbladet at 2022-07-23 15:02:55+02:00 local time"
+     alt="Dagbladet at 2022-07-23 22:02:55+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-23T15:02:54.626073+02:00.jpg">July 23 at 3:02 PM</a></p>
+ <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-23T15:02:54.626073+02:00.jpg">July 23 at 10:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-23T03:03:25.572450+02:00.jpg">
   <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-23T03:03:25.572450+02:00.jpg"
-     alt="Dagbladet at 2022-07-23 03:03:26+02:00 local time"
+     alt="Dagbladet at 2022-07-23 10:03:26+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-23T03:03:25.572450+02:00.jpg">July 23 at 3:03 AM</a></p>
+ <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-23T03:03:25.572450+02:00.jpg">July 23 at 10:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-22T15:02:35.415948+02:00.jpg">
   <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-22T15:02:35.415948+02:00.jpg"
-     alt="Dagbladet at 2022-07-22 15:02:37+02:00 local time"
+     alt="Dagbladet at 2022-07-22 22:02:37+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-22T15:02:35.415948+02:00.jpg">July 22 at 3:02 PM</a></p>
+ <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-22T15:02:35.415948+02:00.jpg">July 22 at 10:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-22T03:10:34.303180+02:00.jpg">
   <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-22T03:10:34.303180+02:00.jpg"
-     alt="Dagbladet at 2022-07-22 03:10:35+02:00 local time"
+     alt="Dagbladet at 2022-07-22 10:10:35+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-22T03:10:34.303180+02:00.jpg">July 22 at 3:10 AM</a></p>
+ <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-22T03:10:34.303180+02:00.jpg">July 22 at 10:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-21T14:56:59.261543+02:00.jpg">
   <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-21T14:56:59.261543+02:00.jpg"
-     alt="Dagbladet at 2022-07-21 14:57:00+02:00 local time"
+     alt="Dagbladet at 2022-07-21 21:57:00+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-21T14:56:59.261543+02:00.jpg">July 21 at 2:57 PM</a></p>
+ <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-21T14:56:59.261543+02:00.jpg">July 21 at 9:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-21T03:09:45.244611+02:00.jpg">
   <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-21T03:09:45.244611+02:00.jpg"
-     alt="Dagbladet at 2022-07-21 03:09:46+02:00 local time"
+     alt="Dagbladet at 2022-07-21 10:09:46+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-21T03:09:45.244611+02:00.jpg">July 21 at 3:09 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-20T14:56:52.271604+02:00.jpg">
-  <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-20T14:56:52.271604+02:00.jpg"
-     alt="Dagbladet at 2022-07-20 14:56:53+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-20T14:56:52.271604+02:00.jpg">July 20 at 2:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-20T13:37:02.618482+02:00.jpg">
-  <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-20T13:37:02.618482+02:00.jpg"
-     alt="Dagbladet at 2022-07-20 13:37:08+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-20T13:37:02.618482+02:00.jpg">July 20 at 1:37 PM</a></p>
+ <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-07-21T03:09:45.244611+02:00.jpg">July 21 at 10:09 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 12 hyperlink lists with the Internet Archive.
+The archiving routine has saved 14 hyperlink lists with the Internet Archive.
 
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 12:00:17 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-07-26T05:00:12.507918+02:00.hyperlinks.json) |
+| [2022-07-26 10:33:15 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-07-26T03:33:10.142068+02:00.hyperlinks.json) |
+| [2022-07-25 20:58:30 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-07-25T13:58:24.763693+02:00.hyperlinks.json) |
+| [2022-07-25 09:58:06 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-07-25T02:58:01.573581+02:00.hyperlinks.json) |
+| [2022-07-24 20:56:47 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-07-24T13:56:43.040624+02:00.hyperlinks.json) |
+| [2022-07-24 15:25:39 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-07-24T08:25:34.639355+02:00.hyperlinks.json) |
+| [2022-07-23 22:02:58 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-07-23T15:02:54.626073+02:00.hyperlinks.json) |
+| [2022-07-23 10:03:29 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-07-23T03:03:25.572450+02:00.hyperlinks.json) |
+| [2022-07-22 22:02:40 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-07-22T15:02:35.415948+02:00.hyperlinks.json) |
+| [2022-07-22 10:10:39 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-07-22T03:10:34.303180+02:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 1 screenshots with the Internet Archive.
+The archiving routine has saved 2 screenshots with the Internet Archive.
 
 
 
@@ -29,20 +29,37 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/news12nj-2022/news12nj-2022-07-25T20:20:22.289761-04:00.jpg">
-  <img src="https://archive.org/download/news12nj-2022/news12nj-2022-07-25T20:20:22.289761-04:00.jpg"
-     alt="News12NJ at 2022-07-25 20:20:28-04:00 local time"
+ <a href="https://archive.org/download/news12nj-2022/news12nj-2022-07-26T08:25:40.836971-04:00.jpg">
+  <img src="https://archive.org/download/news12nj-2022/news12nj-2022-07-26T08:25:40.836971-04:00.jpg"
+     alt="News12NJ at 2022-07-26 15:25:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news12nj-2022/news12nj-2022-07-25T20:20:22.289761-04:00.jpg">July 25 at 8:20 PM</a></p>
+ <p><a href="https://archive.org/download/news12nj-2022/news12nj-2022-07-26T08:25:40.836971-04:00.jpg">July 26 at 3:25 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news12nj-2022/news12nj-2022-07-25T20:20:22.289761-04:00.jpg">
+  <img src="https://archive.org/download/news12nj-2022/news12nj-2022-07-25T20:20:22.289761-04:00.jpg"
+     alt="News12NJ at 2022-07-26 03:20:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news12nj-2022/news12nj-2022-07-25T20:20:22.289761-04:00.jpg">July 26 at 3:20 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 1 hyperlink lists with the Internet Archive.
+The archiving routine has saved 2 hyperlink lists with the Internet Archive.
 
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 15:25:45 PM](https://archive.org/download/news12nj-2022/news12nj-2022-07-26T08:25:40.836971-04:00.hyperlinks.json) |
+| [2022-07-26 03:20:41 AM](https://archive.org/download/news12nj-2022/news12nj-2022-07-25T20:20:22.289761-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

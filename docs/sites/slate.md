@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 86 screenshots with the Internet Archive.
+The archiving routine has saved 88 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/slate-2022/slate-2022-07-25T14:40:43.880298-04:00.jpg">
-  <img src="https://archive.org/download/slate-2022/slate-2022-07-25T14:40:43.880298-04:00.jpg"
-     alt="Slate at 2022-07-25 14:40:45-04:00 local time"
+ <a href="https://archive.org/download/slate-2022/slate-2022-07-25T22:50:13.528448-04:00.jpg">
+  <img src="https://archive.org/download/slate-2022/slate-2022-07-25T22:50:13.528448-04:00.jpg"
+     alt="Slate at 2022-07-26 05:50:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-25T14:40:43.880298-04:00.jpg">July 25 at 2:40 PM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-25T22:50:13.528448-04:00.jpg">July 26 at 5:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/slate-2022/slate-2022-07-25T21:33:20.927024-04:00.jpg">
+  <img src="https://archive.org/download/slate-2022/slate-2022-07-25T21:33:20.927024-04:00.jpg"
+     alt="Slate at 2022-07-26 04:33:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-25T21:33:20.927024-04:00.jpg">July 26 at 4:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/slate-2022/slate-2022-07-25T14:40:43.880298-04:00.jpg">
+  <img src="https://archive.org/download/slate-2022/slate-2022-07-25T14:40:43.880298-04:00.jpg"
+     alt="Slate at 2022-07-25 21:40:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-25T14:40:43.880298-04:00.jpg">July 25 at 9:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/slate-2022/slate-2022-07-25T12:37:58.205185-04:00.jpg">
   <img src="https://archive.org/download/slate-2022/slate-2022-07-25T12:37:58.205185-04:00.jpg"
-     alt="Slate at 2022-07-25 12:38:02-04:00 local time"
+     alt="Slate at 2022-07-25 19:38:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-25T12:37:58.205185-04:00.jpg">July 25 at 12:38 PM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-25T12:37:58.205185-04:00.jpg">July 25 at 7:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/slate-2022/slate-2022-07-25T11:42:09.418106-04:00.jpg">
   <img src="https://archive.org/download/slate-2022/slate-2022-07-25T11:42:09.418106-04:00.jpg"
-     alt="Slate at 2022-07-25 11:42:12-04:00 local time"
+     alt="Slate at 2022-07-25 18:42:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-25T11:42:09.418106-04:00.jpg">July 25 at 11:42 AM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-25T11:42:09.418106-04:00.jpg">July 25 at 6:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/slate-2022/slate-2022-07-24T23:43:57.086923-04:00.jpg">
   <img src="https://archive.org/download/slate-2022/slate-2022-07-24T23:43:57.086923-04:00.jpg"
-     alt="Slate at 2022-07-24 23:43:58-04:00 local time"
+     alt="Slate at 2022-07-25 06:43:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-24T23:43:57.086923-04:00.jpg">July 24 at 11:43 PM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-24T23:43:57.086923-04:00.jpg">July 25 at 6:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/slate-2022/slate-2022-07-24T11:43:16.019586-04:00.jpg">
   <img src="https://archive.org/download/slate-2022/slate-2022-07-24T11:43:16.019586-04:00.jpg"
-     alt="Slate at 2022-07-24 11:43:17-04:00 local time"
+     alt="Slate at 2022-07-24 18:43:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-24T11:43:16.019586-04:00.jpg">July 24 at 11:43 AM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-24T11:43:16.019586-04:00.jpg">July 24 at 6:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/slate-2022/slate-2022-07-24T10:03:56.167997-04:00.jpg">
   <img src="https://archive.org/download/slate-2022/slate-2022-07-24T10:03:56.167997-04:00.jpg"
-     alt="Slate at 2022-07-24 10:03:57-04:00 local time"
+     alt="Slate at 2022-07-24 17:03:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-24T10:03:56.167997-04:00.jpg">July 24 at 10:03 AM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-24T10:03:56.167997-04:00.jpg">July 24 at 5:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/slate-2022/slate-2022-07-24T02:23:22.372756-04:00.jpg">
   <img src="https://archive.org/download/slate-2022/slate-2022-07-24T02:23:22.372756-04:00.jpg"
-     alt="Slate at 2022-07-24 02:23:24-04:00 local time"
+     alt="Slate at 2022-07-24 09:23:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-24T02:23:22.372756-04:00.jpg">July 24 at 2:23 AM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-24T02:23:22.372756-04:00.jpg">July 24 at 9:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/slate-2022/slate-2022-07-23T14:13:53.388927-04:00.jpg">
   <img src="https://archive.org/download/slate-2022/slate-2022-07-23T14:13:53.388927-04:00.jpg"
-     alt="Slate at 2022-07-23 14:13:55-04:00 local time"
+     alt="Slate at 2022-07-23 21:13:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-23T14:13:53.388927-04:00.jpg">July 23 at 2:13 PM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-23T14:13:53.388927-04:00.jpg">July 23 at 9:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/slate-2022/slate-2022-07-23T12:02:04.464165-04:00.jpg">
   <img src="https://archive.org/download/slate-2022/slate-2022-07-23T12:02:04.464165-04:00.jpg"
-     alt="Slate at 2022-07-23 12:02:06-04:00 local time"
+     alt="Slate at 2022-07-23 19:02:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-23T12:02:04.464165-04:00.jpg">July 23 at 12:02 PM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-23T12:02:04.464165-04:00.jpg">July 23 at 7:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/slate-2022/slate-2022-07-23T00:21:49.683818-04:00.jpg">
   <img src="https://archive.org/download/slate-2022/slate-2022-07-23T00:21:49.683818-04:00.jpg"
-     alt="Slate at 2022-07-23 00:21:51-04:00 local time"
+     alt="Slate at 2022-07-23 07:21:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-23T00:21:49.683818-04:00.jpg">July 23 at 12:21 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/slate-2022/slate-2022-07-22T12:14:31.045648-04:00.jpg">
-  <img src="https://archive.org/download/slate-2022/slate-2022-07-22T12:14:31.045648-04:00.jpg"
-     alt="Slate at 2022-07-22 12:14:32-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-22T12:14:31.045648-04:00.jpg">July 22 at 12:14 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/slate-2022/slate-2022-07-22T12:11:58.726232-04:00.jpg">
-  <img src="https://archive.org/download/slate-2022/slate-2022-07-22T12:11:58.726232-04:00.jpg"
-     alt="Slate at 2022-07-22 12:12:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-22T12:11:58.726232-04:00.jpg">July 22 at 12:12 PM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-23T00:21:49.683818-04:00.jpg">July 23 at 7:21 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 80 hyperlink lists with the Internet Archive.
+The archiving routine has saved 82 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -308,6 +308,22 @@ The archiving routine has saved 80 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 05:50:17 AM](https://archive.org/download/slate-2022/slate-2022-07-25T22:50:13.528448-04:00.hyperlinks.json) |
+| [2022-07-26 04:33:26 AM](https://archive.org/download/slate-2022/slate-2022-07-25T21:33:20.927024-04:00.hyperlinks.json) |
+| [2022-07-25 21:40:48 PM](https://archive.org/download/slate-2022/slate-2022-07-25T14:40:43.880298-04:00.hyperlinks.json) |
+| [2022-07-25 19:38:05 PM](https://archive.org/download/slate-2022/slate-2022-07-25T12:37:58.205185-04:00.hyperlinks.json) |
+| [2022-07-25 18:42:15 PM](https://archive.org/download/slate-2022/slate-2022-07-25T11:42:09.418106-04:00.hyperlinks.json) |
+| [2022-07-25 06:44:02 AM](https://archive.org/download/slate-2022/slate-2022-07-24T23:43:57.086923-04:00.hyperlinks.json) |
+| [2022-07-24 18:43:24 PM](https://archive.org/download/slate-2022/slate-2022-07-24T11:43:16.019586-04:00.hyperlinks.json) |
+| [2022-07-24 17:04:01 PM](https://archive.org/download/slate-2022/slate-2022-07-24T10:03:56.167997-04:00.hyperlinks.json) |
+| [2022-07-24 09:23:27 AM](https://archive.org/download/slate-2022/slate-2022-07-24T02:23:22.372756-04:00.hyperlinks.json) |
+| [2022-07-23 19:02:11 PM](https://archive.org/download/slate-2022/slate-2022-07-23T12:02:04.464165-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

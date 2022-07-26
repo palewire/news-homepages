@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 1 screenshots with the Internet Archive.
+The archiving routine has saved 2 screenshots with the Internet Archive.
 
 
 
@@ -29,20 +29,37 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/mdr_san-2022/mdr_san-2022-07-26T02:18:45.386029+02:00.jpg">
-  <img src="https://archive.org/download/mdr_san-2022/mdr_san-2022-07-26T02:18:45.386029+02:00.jpg"
-     alt="MDR Sachsen-Anhalt at 2022-07-26 02:18:51+02:00 local time"
+ <a href="https://archive.org/download/mdr_san-2022/mdr_san-2022-07-26T14:25:11.917309+02:00.jpg">
+  <img src="https://archive.org/download/mdr_san-2022/mdr_san-2022-07-26T14:25:11.917309+02:00.jpg"
+     alt="MDR Sachsen-Anhalt at 2022-07-26 21:25:13+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mdr_san-2022/mdr_san-2022-07-26T02:18:45.386029+02:00.jpg">July 26 at 2:18 AM</a></p>
+ <p><a href="https://archive.org/download/mdr_san-2022/mdr_san-2022-07-26T14:25:11.917309+02:00.jpg">July 26 at 9:25 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mdr_san-2022/mdr_san-2022-07-26T02:18:45.386029+02:00.jpg">
+  <img src="https://archive.org/download/mdr_san-2022/mdr_san-2022-07-26T02:18:45.386029+02:00.jpg"
+     alt="MDR Sachsen-Anhalt at 2022-07-26 09:18:51+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mdr_san-2022/mdr_san-2022-07-26T02:18:45.386029+02:00.jpg">July 26 at 9:18 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 1 hyperlink lists with the Internet Archive.
+The archiving routine has saved 2 hyperlink lists with the Internet Archive.
 
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 21:25:16 PM](https://archive.org/download/mdr_san-2022/mdr_san-2022-07-26T14:25:11.917309+02:00.hyperlinks.json) |
+| [2022-07-26 09:19:07 AM](https://archive.org/download/mdr_san-2022/mdr_san-2022-07-26T02:18:45.386029+02:00.hyperlinks.json) |
 
 
 ## Internet Archive

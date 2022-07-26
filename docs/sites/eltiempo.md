@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 80 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-25T18:13:57.294792-05:00.jpg">
-  <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-25T18:13:57.294792-05:00.jpg"
-     alt="Tiempo at 2022-07-25 18:14:00-05:00 local time"
+ <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-26T06:17:26.036290-05:00.jpg">
+  <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-26T06:17:26.036290-05:00.jpg"
+     alt="Tiempo at 2022-07-26 13:17:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-25T18:13:57.294792-05:00.jpg">July 25 at 6:14 PM</a></p>
+ <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-26T06:17:26.036290-05:00.jpg">July 26 at 1:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-25T18:13:57.294792-05:00.jpg">
+  <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-25T18:13:57.294792-05:00.jpg"
+     alt="Tiempo at 2022-07-26 01:14:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-25T18:13:57.294792-05:00.jpg">July 26 at 1:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-25T07:01:07.963484-05:00.jpg">
   <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-25T07:01:07.963484-05:00.jpg"
-     alt="Tiempo at 2022-07-25 07:01:12-05:00 local time"
+     alt="Tiempo at 2022-07-25 14:01:12-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-25T07:01:07.963484-05:00.jpg">July 25 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-25T07:01:07.963484-05:00.jpg">July 25 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-24T20:03:31.138593-05:00.jpg">
   <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-24T20:03:31.138593-05:00.jpg"
-     alt="Tiempo at 2022-07-24 20:03:32-05:00 local time"
+     alt="Tiempo at 2022-07-25 03:03:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-24T20:03:31.138593-05:00.jpg">July 24 at 8:03 PM</a></p>
+ <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-24T20:03:31.138593-05:00.jpg">July 25 at 3:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-24T06:58:47.562726-05:00.jpg">
   <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-24T06:58:47.562726-05:00.jpg"
-     alt="Tiempo at 2022-07-24 06:58:51-05:00 local time"
+     alt="Tiempo at 2022-07-24 13:58:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-24T06:58:47.562726-05:00.jpg">July 24 at 6:58 AM</a></p>
+ <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-24T06:58:47.562726-05:00.jpg">July 24 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-24T01:28:50.927331-05:00.jpg">
   <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-24T01:28:50.927331-05:00.jpg"
-     alt="Tiempo at 2022-07-24 01:28:54-05:00 local time"
+     alt="Tiempo at 2022-07-24 08:28:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-24T01:28:50.927331-05:00.jpg">July 24 at 1:28 AM</a></p>
+ <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-24T01:28:50.927331-05:00.jpg">July 24 at 8:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-23T08:57:44.852660-05:00.jpg">
   <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-23T08:57:44.852660-05:00.jpg"
-     alt="Tiempo at 2022-07-23 08:57:47-05:00 local time"
+     alt="Tiempo at 2022-07-23 15:57:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-23T08:57:44.852660-05:00.jpg">July 23 at 8:57 AM</a></p>
+ <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-23T08:57:44.852660-05:00.jpg">July 23 at 3:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-22T21:24:50.150976-05:00.jpg">
   <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-22T21:24:50.150976-05:00.jpg"
-     alt="Tiempo at 2022-07-22 21:24:51-05:00 local time"
+     alt="Tiempo at 2022-07-23 04:24:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-22T21:24:50.150976-05:00.jpg">July 22 at 9:24 PM</a></p>
+ <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-22T21:24:50.150976-05:00.jpg">July 23 at 4:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-22T08:58:59.941495-05:00.jpg">
   <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-22T08:58:59.941495-05:00.jpg"
-     alt="Tiempo at 2022-07-22 08:59:02-05:00 local time"
+     alt="Tiempo at 2022-07-22 15:59:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-22T08:58:59.941495-05:00.jpg">July 22 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-22T08:58:59.941495-05:00.jpg">July 22 at 3:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-21T21:18:16.205772-05:00.jpg">
   <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-21T21:18:16.205772-05:00.jpg"
-     alt="Tiempo at 2022-07-21 21:18:18-05:00 local time"
+     alt="Tiempo at 2022-07-22 04:18:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-21T21:18:16.205772-05:00.jpg">July 21 at 9:18 PM</a></p>
+ <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-21T21:18:16.205772-05:00.jpg">July 22 at 4:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-21T09:04:21.212579-05:00.jpg">
   <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-21T09:04:21.212579-05:00.jpg"
-     alt="Tiempo at 2022-07-21 09:04:23-05:00 local time"
+     alt="Tiempo at 2022-07-21 16:04:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-21T09:04:21.212579-05:00.jpg">July 21 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-21T09:04:21.212579-05:00.jpg">July 21 at 4:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-20T21:21:18.775819-05:00.jpg">
   <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-20T21:21:18.775819-05:00.jpg"
-     alt="Tiempo at 2022-07-20 21:21:20-05:00 local time"
+     alt="Tiempo at 2022-07-21 04:21:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-20T21:21:18.775819-05:00.jpg">July 20 at 9:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-20T09:19:10.472353-05:00.jpg">
-  <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-20T09:19:10.472353-05:00.jpg"
-     alt="Tiempo at 2022-07-20 09:19:13-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-20T09:19:10.472353-05:00.jpg">July 20 at 9:19 AM</a></p>
+ <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-20T21:21:18.775819-05:00.jpg">July 21 at 4:21 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 73 hyperlink lists with the Internet Archive.
+The archiving routine has saved 74 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -308,6 +308,22 @@ The archiving routine has saved 73 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 13:17:36 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-26T06:17:26.036290-05:00.hyperlinks.json) |
+| [2022-07-25 14:01:14 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-25T07:01:07.963484-05:00.hyperlinks.json) |
+| [2022-07-25 03:03:35 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-24T20:03:31.138593-05:00.hyperlinks.json) |
+| [2022-07-24 13:58:54 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-24T06:58:47.562726-05:00.hyperlinks.json) |
+| [2022-07-24 08:28:57 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-24T01:28:50.927331-05:00.hyperlinks.json) |
+| [2022-07-23 15:57:50 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-23T08:57:44.852660-05:00.hyperlinks.json) |
+| [2022-07-23 04:24:54 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-22T21:24:50.150976-05:00.hyperlinks.json) |
+| [2022-07-22 15:59:05 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-22T08:58:59.941495-05:00.hyperlinks.json) |
+| [2022-07-22 04:18:21 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-21T21:18:16.205772-05:00.hyperlinks.json) |
+| [2022-07-21 16:04:26 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-21T09:04:21.212579-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

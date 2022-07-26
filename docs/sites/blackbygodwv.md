@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 33 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T19:07:32.154312-04:00.jpg">
-  <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T19:07:32.154312-04:00.jpg"
-     alt="Black by God at 2022-07-25 19:07:34-04:00 local time"
+ <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T07:12:32.028184-04:00.jpg">
+  <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T07:12:32.028184-04:00.jpg"
+     alt="Black by God at 2022-07-26 14:12:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T19:07:32.154312-04:00.jpg">July 25 at 7:07 PM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T07:12:32.028184-04:00.jpg">July 26 at 2:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T19:07:32.154312-04:00.jpg">
+  <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T19:07:32.154312-04:00.jpg"
+     alt="Black by God at 2022-07-26 02:07:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T19:07:32.154312-04:00.jpg">July 26 at 2:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T06:59:59.169741-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T06:59:59.169741-04:00.jpg"
-     alt="Black by God at 2022-07-25 07:00:01-04:00 local time"
+     alt="Black by God at 2022-07-25 14:00:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T06:59:59.169741-04:00.jpg">July 25 at 7:00 AM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T06:59:59.169741-04:00.jpg">July 25 at 2:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T20:51:41.565144-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T20:51:41.565144-04:00.jpg"
-     alt="Black by God at 2022-07-24 20:51:43-04:00 local time"
+     alt="Black by God at 2022-07-25 03:51:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T20:51:41.565144-04:00.jpg">July 24 at 8:51 PM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T20:51:41.565144-04:00.jpg">July 25 at 3:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T06:58:45.034456-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T06:58:45.034456-04:00.jpg"
-     alt="Black by God at 2022-07-24 06:58:47-04:00 local time"
+     alt="Black by God at 2022-07-24 13:58:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T06:58:45.034456-04:00.jpg">July 24 at 6:58 AM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T06:58:45.034456-04:00.jpg">July 24 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T19:01:06.451619-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T19:01:06.451619-04:00.jpg"
-     alt="Black by God at 2022-07-23 19:01:07-04:00 local time"
+     alt="Black by God at 2022-07-24 02:01:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T19:01:06.451619-04:00.jpg">July 23 at 7:01 PM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T19:01:06.451619-04:00.jpg">July 24 at 2:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T08:58:30.668979-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T08:58:30.668979-04:00.jpg"
-     alt="Black by God at 2022-07-23 08:58:31-04:00 local time"
+     alt="Black by God at 2022-07-23 15:58:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T08:58:30.668979-04:00.jpg">July 23 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T08:58:30.668979-04:00.jpg">July 23 at 3:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-22T20:58:30.822799-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-22T20:58:30.822799-04:00.jpg"
-     alt="Black by God at 2022-07-22 20:58:32-04:00 local time"
+     alt="Black by God at 2022-07-23 03:58:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-22T20:58:30.822799-04:00.jpg">July 22 at 8:58 PM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-22T20:58:30.822799-04:00.jpg">July 23 at 3:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-22T08:59:14.668719-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-22T08:59:14.668719-04:00.jpg"
-     alt="Black by God at 2022-07-22 08:59:15-04:00 local time"
+     alt="Black by God at 2022-07-22 15:59:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-22T08:59:14.668719-04:00.jpg">July 22 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-22T08:59:14.668719-04:00.jpg">July 22 at 3:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-21T21:06:49.815042-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-21T21:06:49.815042-04:00.jpg"
-     alt="Black by God at 2022-07-21 21:06:51-04:00 local time"
+     alt="Black by God at 2022-07-22 04:06:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-21T21:06:49.815042-04:00.jpg">July 21 at 9:06 PM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-21T21:06:49.815042-04:00.jpg">July 22 at 4:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-21T08:53:23.100670-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-21T08:53:23.100670-04:00.jpg"
-     alt="Black by God at 2022-07-21 08:53:24-04:00 local time"
+     alt="Black by God at 2022-07-21 15:53:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-21T08:53:23.100670-04:00.jpg">July 21 at 8:53 AM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-21T08:53:23.100670-04:00.jpg">July 21 at 3:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-20T21:05:43.788816-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-20T21:05:43.788816-04:00.jpg"
-     alt="Black by God at 2022-07-20 21:05:45-04:00 local time"
+     alt="Black by God at 2022-07-21 04:05:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-20T21:05:43.788816-04:00.jpg">July 20 at 9:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-20T08:53:12.963713-04:00.jpg">
-  <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-20T08:53:12.963713-04:00.jpg"
-     alt="Black by God at 2022-07-20 08:53:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-20T08:53:12.963713-04:00.jpg">July 20 at 8:53 AM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-20T21:05:43.788816-04:00.jpg">July 21 at 4:05 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 33 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -308,6 +308,22 @@ The archiving routine has saved 33 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 14:12:38 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T07:12:32.028184-04:00.hyperlinks.json) |
+| [2022-07-26 02:07:38 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T19:07:32.154312-04:00.hyperlinks.json) |
+| [2022-07-25 14:00:05 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T06:59:59.169741-04:00.hyperlinks.json) |
+| [2022-07-25 03:51:46 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T20:51:41.565144-04:00.hyperlinks.json) |
+| [2022-07-24 13:58:50 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T06:58:45.034456-04:00.hyperlinks.json) |
+| [2022-07-24 02:01:11 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T19:01:06.451619-04:00.hyperlinks.json) |
+| [2022-07-23 15:58:34 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T08:58:30.668979-04:00.hyperlinks.json) |
+| [2022-07-23 03:58:35 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-22T20:58:30.822799-04:00.hyperlinks.json) |
+| [2022-07-22 15:59:18 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-22T08:59:14.668719-04:00.hyperlinks.json) |
+| [2022-07-22 04:06:55 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-21T21:06:49.815042-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

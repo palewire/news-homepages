@@ -213,10 +213,10 @@ The archiving routine has saved {{ hyperlinks }} hyperlink lists with the Intern
 
 Here are the 10 most recent hyperlink lists.
 
-| Item  |
+| Time  |
 | :---- |
-{% for obj in hyperlinks -%}
-|[{{ obj.identifier }}]({{ obj.url }})|
+{% for obj in most_recent_hyperlinks -%}
+| [{{ obj.local_time.strftime('%B %-d') }} at {{ obj.local_time.strftime('%-I:%M %p') }}]({{ obj.url }}) |
 {% endfor %}
 
 ## Internet Archive

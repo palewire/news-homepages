@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 313 screenshots with the Internet Archive.
+The archiving routine has saved 315 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/ft-2022/ft-2022-07-25T13:03:11.825962+01:00.jpg">
-  <img src="https://archive.org/download/ft-2022/ft-2022-07-25T13:03:11.825962+01:00.jpg"
-     alt="Financial Times at 2022-07-25 13:03:19+01:00 local time"
+ <a href="https://archive.org/download/ft-2022/ft-2022-07-26T10:08:50.366608+01:00.jpg">
+  <img src="https://archive.org/download/ft-2022/ft-2022-07-26T10:08:50.366608+01:00.jpg"
+     alt="Financial Times at 2022-07-26 17:08:58+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-07-25T13:03:11.825962+01:00.jpg">July 25 at 1:03 PM</a></p>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-07-26T10:08:50.366608+01:00.jpg">July 26 at 5:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ft-2022/ft-2022-07-26T03:41:52.364487+01:00.jpg">
+  <img src="https://archive.org/download/ft-2022/ft-2022-07-26T03:41:52.364487+01:00.jpg"
+     alt="Financial Times at 2022-07-26 10:41:54+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-07-26T03:41:52.364487+01:00.jpg">July 26 at 10:41 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ft-2022/ft-2022-07-25T13:03:11.825962+01:00.jpg">
+  <img src="https://archive.org/download/ft-2022/ft-2022-07-25T13:03:11.825962+01:00.jpg"
+     alt="Financial Times at 2022-07-25 20:03:19+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-07-25T13:03:11.825962+01:00.jpg">July 25 at 8:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ft-2022/ft-2022-07-25T10:09:54.050396+01:00.jpg">
   <img src="https://archive.org/download/ft-2022/ft-2022-07-25T10:09:54.050396+01:00.jpg"
-     alt="Financial Times at 2022-07-25 10:09:59+01:00 local time"
+     alt="Financial Times at 2022-07-25 17:09:59+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-07-25T10:09:54.050396+01:00.jpg">July 25 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-07-25T10:09:54.050396+01:00.jpg">July 25 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ft-2022/ft-2022-07-25T02:06:58.144076+01:00.jpg">
   <img src="https://archive.org/download/ft-2022/ft-2022-07-25T02:06:58.144076+01:00.jpg"
-     alt="Financial Times at 2022-07-25 02:07:00+01:00 local time"
+     alt="Financial Times at 2022-07-25 09:07:00+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-07-25T02:06:58.144076+01:00.jpg">July 25 at 2:07 AM</a></p>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-07-25T02:06:58.144076+01:00.jpg">July 25 at 9:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ft-2022/ft-2022-07-24T12:59:59.314535+01:00.jpg">
   <img src="https://archive.org/download/ft-2022/ft-2022-07-24T12:59:59.314535+01:00.jpg"
-     alt="Financial Times at 2022-07-24 13:00:04+01:00 local time"
+     alt="Financial Times at 2022-07-24 20:00:04+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-07-24T12:59:59.314535+01:00.jpg">July 24 at 1:00 PM</a></p>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-07-24T12:59:59.314535+01:00.jpg">July 24 at 8:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ft-2022/ft-2022-07-24T10:09:59.470294+01:00.jpg">
   <img src="https://archive.org/download/ft-2022/ft-2022-07-24T10:09:59.470294+01:00.jpg"
-     alt="Financial Times at 2022-07-24 10:10:06+01:00 local time"
+     alt="Financial Times at 2022-07-24 17:10:06+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-07-24T10:09:59.470294+01:00.jpg">July 24 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-07-24T10:09:59.470294+01:00.jpg">July 24 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ft-2022/ft-2022-07-24T07:30:31.643603+01:00.jpg">
   <img src="https://archive.org/download/ft-2022/ft-2022-07-24T07:30:31.643603+01:00.jpg"
-     alt="Financial Times at 2022-07-24 07:30:37+01:00 local time"
+     alt="Financial Times at 2022-07-24 14:30:37+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-07-24T07:30:31.643603+01:00.jpg">July 24 at 7:30 AM</a></p>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-07-24T07:30:31.643603+01:00.jpg">July 24 at 2:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ft-2022/ft-2022-07-23T15:01:04.918195+01:00.jpg">
   <img src="https://archive.org/download/ft-2022/ft-2022-07-23T15:01:04.918195+01:00.jpg"
-     alt="Financial Times at 2022-07-23 15:01:14+01:00 local time"
+     alt="Financial Times at 2022-07-23 22:01:14+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-07-23T15:01:04.918195+01:00.jpg">July 23 at 3:01 PM</a></p>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-07-23T15:01:04.918195+01:00.jpg">July 23 at 10:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ft-2022/ft-2022-07-23T10:06:33.040532+01:00.jpg">
   <img src="https://archive.org/download/ft-2022/ft-2022-07-23T10:06:33.040532+01:00.jpg"
-     alt="Financial Times at 2022-07-23 10:06:34+01:00 local time"
+     alt="Financial Times at 2022-07-23 17:06:34+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-07-23T10:06:33.040532+01:00.jpg">July 23 at 10:06 AM</a></p>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-07-23T10:06:33.040532+01:00.jpg">July 23 at 5:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ft-2022/ft-2022-07-23T03:26:28.177012+01:00.jpg">
   <img src="https://archive.org/download/ft-2022/ft-2022-07-23T03:26:28.177012+01:00.jpg"
-     alt="Financial Times at 2022-07-23 03:26:29+01:00 local time"
+     alt="Financial Times at 2022-07-23 10:26:29+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-07-23T03:26:28.177012+01:00.jpg">July 23 at 3:26 AM</a></p>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-07-23T03:26:28.177012+01:00.jpg">July 23 at 10:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ft-2022/ft-2022-07-22T15:01:40.336805+01:00.jpg">
   <img src="https://archive.org/download/ft-2022/ft-2022-07-22T15:01:40.336805+01:00.jpg"
-     alt="Financial Times at 2022-07-22 15:01:42+01:00 local time"
+     alt="Financial Times at 2022-07-22 22:01:42+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-07-22T15:01:40.336805+01:00.jpg">July 22 at 3:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ft-2022/ft-2022-07-22T10:07:00.081183+01:00.jpg">
-  <img src="https://archive.org/download/ft-2022/ft-2022-07-22T10:07:00.081183+01:00.jpg"
-     alt="Financial Times at 2022-07-22 10:07:12+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-07-22T10:07:00.081183+01:00.jpg">July 22 at 10:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ft-2022/ft-2022-07-22T03:21:11.182379+01:00.jpg">
-  <img src="https://archive.org/download/ft-2022/ft-2022-07-22T03:21:11.182379+01:00.jpg"
-     alt="Financial Times at 2022-07-22 03:21:12+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-07-22T03:21:11.182379+01:00.jpg">July 22 at 3:21 AM</a></p>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-07-22T15:01:40.336805+01:00.jpg">July 22 at 10:01 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 299 hyperlink lists with the Internet Archive.
+The archiving routine has saved 301 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -308,6 +308,22 @@ The archiving routine has saved 299 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 17:09:03 PM](https://archive.org/download/ft-2022/ft-2022-07-26T10:08:50.366608+01:00.hyperlinks.json) |
+| [2022-07-26 10:41:57 AM](https://archive.org/download/ft-2022/ft-2022-07-26T03:41:52.364487+01:00.hyperlinks.json) |
+| [2022-07-25 20:03:22 PM](https://archive.org/download/ft-2022/ft-2022-07-25T13:03:11.825962+01:00.hyperlinks.json) |
+| [2022-07-25 17:10:02 PM](https://archive.org/download/ft-2022/ft-2022-07-25T10:09:54.050396+01:00.hyperlinks.json) |
+| [2022-07-25 09:07:04 AM](https://archive.org/download/ft-2022/ft-2022-07-25T02:06:58.144076+01:00.hyperlinks.json) |
+| [2022-07-24 20:00:09 PM](https://archive.org/download/ft-2022/ft-2022-07-24T12:59:59.314535+01:00.hyperlinks.json) |
+| [2022-07-24 17:10:10 PM](https://archive.org/download/ft-2022/ft-2022-07-24T10:09:59.470294+01:00.hyperlinks.json) |
+| [2022-07-24 14:30:40 PM](https://archive.org/download/ft-2022/ft-2022-07-24T07:30:31.643603+01:00.hyperlinks.json) |
+| [2022-07-23 22:01:18 PM](https://archive.org/download/ft-2022/ft-2022-07-23T15:01:04.918195+01:00.hyperlinks.json) |
+| [2022-07-23 17:06:37 PM](https://archive.org/download/ft-2022/ft-2022-07-23T10:06:33.040532+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-25T19:21:52.610171-05:00.jpg">
-  <img src="https://archive.org/download/newstribune-2022/newstribune-2022-07-25T19:21:52.610171-05:00.jpg"
-     alt="Jefferson City News Tribune at 2022-07-25 19:21:54-05:00 local time"
+ <a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-26T07:26:39.786833-05:00.jpg">
+  <img src="https://archive.org/download/newstribune-2022/newstribune-2022-07-26T07:26:39.786833-05:00.jpg"
+     alt="Jefferson City News Tribune at 2022-07-26 14:26:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-25T19:21:52.610171-05:00.jpg">July 25 at 7:21 PM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-26T07:26:39.786833-05:00.jpg">July 26 at 2:26 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-25T19:21:52.610171-05:00.jpg">
+  <img src="https://archive.org/download/newstribune-2022/newstribune-2022-07-25T19:21:52.610171-05:00.jpg"
+     alt="Jefferson City News Tribune at 2022-07-26 02:21:54-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-25T19:21:52.610171-05:00.jpg">July 26 at 2:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-25T08:17:14.005238-05:00.jpg">
   <img src="https://archive.org/download/newstribune-2022/newstribune-2022-07-25T08:17:14.005238-05:00.jpg"
-     alt="Jefferson City News Tribune at 2022-07-25 08:17:16-05:00 local time"
+     alt="Jefferson City News Tribune at 2022-07-25 15:17:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-25T08:17:14.005238-05:00.jpg">July 25 at 8:17 AM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-25T08:17:14.005238-05:00.jpg">July 25 at 3:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-24T22:35:57.825947-05:00.jpg">
   <img src="https://archive.org/download/newstribune-2022/newstribune-2022-07-24T22:35:57.825947-05:00.jpg"
-     alt="Jefferson City News Tribune at 2022-07-24 22:35:59-05:00 local time"
+     alt="Jefferson City News Tribune at 2022-07-25 05:35:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-24T22:35:57.825947-05:00.jpg">July 24 at 10:35 PM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-24T22:35:57.825947-05:00.jpg">July 25 at 5:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-24T08:05:36.129307-05:00.jpg">
   <img src="https://archive.org/download/newstribune-2022/newstribune-2022-07-24T08:05:36.129307-05:00.jpg"
-     alt="Jefferson City News Tribune at 2022-07-24 08:05:38-05:00 local time"
+     alt="Jefferson City News Tribune at 2022-07-24 15:05:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-24T08:05:36.129307-05:00.jpg">July 24 at 8:05 AM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-24T08:05:36.129307-05:00.jpg">July 24 at 3:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-23T23:20:40.778358-05:00.jpg">
   <img src="https://archive.org/download/newstribune-2022/newstribune-2022-07-23T23:20:40.778358-05:00.jpg"
-     alt="Jefferson City News Tribune at 2022-07-23 23:20:43-05:00 local time"
+     alt="Jefferson City News Tribune at 2022-07-24 06:20:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-23T23:20:40.778358-05:00.jpg">July 23 at 11:20 PM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-23T23:20:40.778358-05:00.jpg">July 24 at 6:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-23T10:03:47.390155-05:00.jpg">
   <img src="https://archive.org/download/newstribune-2022/newstribune-2022-07-23T10:03:47.390155-05:00.jpg"
-     alt="Jefferson City News Tribune at 2022-07-23 10:03:48-05:00 local time"
+     alt="Jefferson City News Tribune at 2022-07-23 17:03:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-23T10:03:47.390155-05:00.jpg">July 23 at 10:03 AM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-23T10:03:47.390155-05:00.jpg">July 23 at 5:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-22T22:33:42.269527-05:00.jpg">
   <img src="https://archive.org/download/newstribune-2022/newstribune-2022-07-22T22:33:42.269527-05:00.jpg"
-     alt="Jefferson City News Tribune at 2022-07-22 22:33:43-05:00 local time"
+     alt="Jefferson City News Tribune at 2022-07-23 05:33:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-22T22:33:42.269527-05:00.jpg">July 22 at 10:33 PM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-22T22:33:42.269527-05:00.jpg">July 23 at 5:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-22T09:59:00.675997-05:00.jpg">
   <img src="https://archive.org/download/newstribune-2022/newstribune-2022-07-22T09:59:00.675997-05:00.jpg"
-     alt="Jefferson City News Tribune at 2022-07-22 09:59:02-05:00 local time"
+     alt="Jefferson City News Tribune at 2022-07-22 16:59:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-22T09:59:00.675997-05:00.jpg">July 22 at 9:59 AM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-22T09:59:00.675997-05:00.jpg">July 22 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-21T22:37:53.183720-05:00.jpg">
   <img src="https://archive.org/download/newstribune-2022/newstribune-2022-07-21T22:37:53.183720-05:00.jpg"
-     alt="Jefferson City News Tribune at 2022-07-21 22:37:54-05:00 local time"
+     alt="Jefferson City News Tribune at 2022-07-22 05:37:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-21T22:37:53.183720-05:00.jpg">July 21 at 10:37 PM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-21T22:37:53.183720-05:00.jpg">July 22 at 5:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-21T10:33:23.385582-05:00.jpg">
   <img src="https://archive.org/download/newstribune-2022/newstribune-2022-07-21T10:33:23.385582-05:00.jpg"
-     alt="Jefferson City News Tribune at 2022-07-21 10:33:28-05:00 local time"
+     alt="Jefferson City News Tribune at 2022-07-21 17:33:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-21T10:33:23.385582-05:00.jpg">July 21 at 10:33 AM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-21T10:33:23.385582-05:00.jpg">July 21 at 5:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-20T22:36:16.319310-05:00.jpg">
   <img src="https://archive.org/download/newstribune-2022/newstribune-2022-07-20T22:36:16.319310-05:00.jpg"
-     alt="Jefferson City News Tribune at 2022-07-20 22:36:18-05:00 local time"
+     alt="Jefferson City News Tribune at 2022-07-21 05:36:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-20T22:36:16.319310-05:00.jpg">July 20 at 10:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-20T11:10:10.160242-05:00.jpg">
-  <img src="https://archive.org/download/newstribune-2022/newstribune-2022-07-20T11:10:10.160242-05:00.jpg"
-     alt="Jefferson City News Tribune at 2022-07-20 11:10:11-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-20T11:10:10.160242-05:00.jpg">July 20 at 11:10 AM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-20T22:36:16.319310-05:00.jpg">July 21 at 5:36 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -308,6 +308,22 @@ The archiving routine has saved 42 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 14:26:44 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-26T07:26:39.786833-05:00.hyperlinks.json) |
+| [2022-07-26 02:21:57 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-25T19:21:52.610171-05:00.hyperlinks.json) |
+| [2022-07-25 05:36:02 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-24T22:35:57.825947-05:00.hyperlinks.json) |
+| [2022-07-24 15:05:41 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-24T08:05:36.129307-05:00.hyperlinks.json) |
+| [2022-07-24 06:20:46 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-23T23:20:40.778358-05:00.hyperlinks.json) |
+| [2022-07-23 17:03:52 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-23T10:03:47.390155-05:00.hyperlinks.json) |
+| [2022-07-23 05:33:47 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-22T22:33:42.269527-05:00.hyperlinks.json) |
+| [2022-07-22 16:59:06 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-22T09:59:00.675997-05:00.hyperlinks.json) |
+| [2022-07-22 05:37:57 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-21T22:37:53.183720-05:00.hyperlinks.json) |
+| [2022-07-21 17:33:31 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-21T10:33:23.385582-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

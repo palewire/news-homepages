@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 3 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
@@ -29,38 +29,57 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T19:10:16.677418-04:00.jpg">
-  <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T19:10:16.677418-04:00.jpg"
-     alt="BleepingComputer at 2022-07-25 19:10:17-04:00 local time"
+ <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-26T07:13:03.299196-04:00.jpg">
+  <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-26T07:13:03.299196-04:00.jpg"
+     alt="BleepingComputer at 2022-07-26 14:13:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T19:10:16.677418-04:00.jpg">July 25 at 7:10 PM</a></p>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-26T07:13:03.299196-04:00.jpg">July 26 at 2:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T19:10:16.677418-04:00.jpg">
+  <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T19:10:16.677418-04:00.jpg"
+     alt="BleepingComputer at 2022-07-26 02:10:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T19:10:16.677418-04:00.jpg">July 26 at 2:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T07:00:03.880024-04:00.jpg">
   <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T07:00:03.880024-04:00.jpg"
-     alt="BleepingComputer at 2022-07-25 07:00:05-04:00 local time"
+     alt="BleepingComputer at 2022-07-25 14:00:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T07:00:03.880024-04:00.jpg">July 25 at 7:00 AM</a></p>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T07:00:03.880024-04:00.jpg">July 25 at 2:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T02:46:51.395111-04:00.jpg">
   <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T02:46:51.395111-04:00.jpg"
-     alt="BleepingComputer at 2022-07-25 02:46:57-04:00 local time"
+     alt="BleepingComputer at 2022-07-25 09:46:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T02:46:51.395111-04:00.jpg">July 25 at 2:46 AM</a></p>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T02:46:51.395111-04:00.jpg">July 25 at 9:46 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 3 hyperlink lists with the Internet Archive.
+The archiving routine has saved 4 hyperlink lists with the Internet Archive.
 
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 14:13:08 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-26T07:13:03.299196-04:00.hyperlinks.json) |
+| [2022-07-26 02:10:21 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T19:10:16.677418-04:00.hyperlinks.json) |
+| [2022-07-25 14:00:08 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T07:00:03.880024-04:00.hyperlinks.json) |
+| [2022-07-25 09:47:13 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T02:46:51.395111-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

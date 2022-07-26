@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 3 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
@@ -29,38 +29,57 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T19:00:34.859713+05:45.jpg">
-  <img src="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T19:00:34.859713+05:45.jpg"
-     alt="Nagarik News at 2022-07-25 19:00:36+05:45 local time"
+ <a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-26T08:33:14.771961+05:45.jpg">
+  <img src="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-26T08:33:14.771961+05:45.jpg"
+     alt="Nagarik News at 2022-07-26 15:33:17+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T19:00:34.859713+05:45.jpg">July 25 at 7:00 PM</a></p>
+ <p><a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-26T08:33:14.771961+05:45.jpg">July 26 at 3:33 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T19:00:34.859713+05:45.jpg">
+  <img src="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T19:00:34.859713+05:45.jpg"
+     alt="Nagarik News at 2022-07-26 02:00:36+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T19:00:34.859713+05:45.jpg">July 26 at 2:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T09:19:04.859834+05:45.jpg">
   <img src="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T09:19:04.859834+05:45.jpg"
-     alt="Nagarik News at 2022-07-25 09:19:06+05:45 local time"
+     alt="Nagarik News at 2022-07-25 16:19:06+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T09:19:04.859834+05:45.jpg">July 25 at 9:19 AM</a></p>
+ <p><a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T09:19:04.859834+05:45.jpg">July 25 at 4:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T02:23:13.656785+05:45.jpg">
   <img src="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T02:23:13.656785+05:45.jpg"
-     alt="Nagarik News at 2022-07-25 02:23:19+05:45 local time"
+     alt="Nagarik News at 2022-07-25 09:23:19+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T02:23:13.656785+05:45.jpg">July 25 at 2:23 AM</a></p>
+ <p><a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T02:23:13.656785+05:45.jpg">July 25 at 9:23 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 3 hyperlink lists with the Internet Archive.
+The archiving routine has saved 4 hyperlink lists with the Internet Archive.
 
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 15:33:21 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-26T08:33:14.771961+05:45.hyperlinks.json) |
+| [2022-07-26 02:00:39 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T19:00:34.859713+05:45.hyperlinks.json) |
+| [2022-07-25 16:19:09 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T09:19:04.859834+05:45.hyperlinks.json) |
+| [2022-07-25 09:23:32 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T02:23:13.656785+05:45.hyperlinks.json) |
 
 
 ## Internet Archive

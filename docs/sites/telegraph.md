@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 308 screenshots with the Internet Archive.
+The archiving routine has saved 311 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-25T16:44:50.941330+01:00.jpg">
-  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-25T16:44:50.941330+01:00.jpg"
-     alt="The Telegraph at 2022-07-25 16:44:56+01:00 local time"
+ <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-26T10:09:42.264336+01:00.jpg">
+  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-26T10:09:42.264336+01:00.jpg"
+     alt="The Telegraph at 2022-07-26 17:09:44+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-25T16:44:50.941330+01:00.jpg">July 25 at 4:44 PM</a></p>
+ <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-26T10:09:42.264336+01:00.jpg">July 26 at 5:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-26T03:52:29.317792+01:00.jpg">
+  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-26T03:52:29.317792+01:00.jpg"
+     alt="The Telegraph at 2022-07-26 10:52:36+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-26T03:52:29.317792+01:00.jpg">July 26 at 10:52 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-26T02:34:30.490143+01:00.jpg">
+  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-26T02:34:30.490143+01:00.jpg"
+     alt="The Telegraph at 2022-07-26 09:34:35+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-26T02:34:30.490143+01:00.jpg">July 26 at 9:34 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-25T16:44:50.941330+01:00.jpg">
+  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-25T16:44:50.941330+01:00.jpg"
+     alt="The Telegraph at 2022-07-25 23:44:56+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-25T16:44:50.941330+01:00.jpg">July 25 at 11:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-25T10:09:58.257851+01:00.jpg">
   <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-25T10:09:58.257851+01:00.jpg"
-     alt="The Telegraph at 2022-07-25 10:09:59+01:00 local time"
+     alt="The Telegraph at 2022-07-25 17:09:59+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-25T10:09:58.257851+01:00.jpg">July 25 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-25T10:09:58.257851+01:00.jpg">July 25 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-25T05:34:44.121845+01:00.jpg">
   <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-25T05:34:44.121845+01:00.jpg"
-     alt="The Telegraph at 2022-07-25 05:34:49+01:00 local time"
+     alt="The Telegraph at 2022-07-25 12:34:49+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-25T05:34:44.121845+01:00.jpg">July 25 at 5:34 AM</a></p>
+ <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-25T05:34:44.121845+01:00.jpg">July 25 at 12:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-24T16:03:46.297988+01:00.jpg">
   <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-24T16:03:46.297988+01:00.jpg"
-     alt="The Telegraph at 2022-07-24 16:03:48+01:00 local time"
+     alt="The Telegraph at 2022-07-24 23:03:48+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-24T16:03:46.297988+01:00.jpg">July 24 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-24T16:03:46.297988+01:00.jpg">July 24 at 11:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-24T10:10:14.975411+01:00.jpg">
   <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-24T10:10:14.975411+01:00.jpg"
-     alt="The Telegraph at 2022-07-24 10:10:16+01:00 local time"
+     alt="The Telegraph at 2022-07-24 17:10:16+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-24T10:10:14.975411+01:00.jpg">July 24 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-24T10:10:14.975411+01:00.jpg">July 24 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-24T04:40:03.467387+01:00.jpg">
   <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-24T04:40:03.467387+01:00.jpg"
-     alt="The Telegraph at 2022-07-24 04:40:08+01:00 local time"
+     alt="The Telegraph at 2022-07-24 11:40:08+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-24T04:40:03.467387+01:00.jpg">July 24 at 4:40 AM</a></p>
+ <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-24T04:40:03.467387+01:00.jpg">July 24 at 11:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-23T17:03:14.966814+01:00.jpg">
   <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-23T17:03:14.966814+01:00.jpg"
-     alt="The Telegraph at 2022-07-23 17:03:20+01:00 local time"
+     alt="The Telegraph at 2022-07-24 00:03:20+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-23T17:03:14.966814+01:00.jpg">July 23 at 5:03 PM</a></p>
+ <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-23T17:03:14.966814+01:00.jpg">July 24 at 12:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-23T10:06:39.503514+01:00.jpg">
   <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-23T10:06:39.503514+01:00.jpg"
-     alt="The Telegraph at 2022-07-23 10:06:41+01:00 local time"
+     alt="The Telegraph at 2022-07-23 17:06:41+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-23T10:06:39.503514+01:00.jpg">July 23 at 10:06 AM</a></p>
+ <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-23T10:06:39.503514+01:00.jpg">July 23 at 5:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-23T05:24:19.626359+01:00.jpg">
   <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-23T05:24:19.626359+01:00.jpg"
-     alt="The Telegraph at 2022-07-23 05:24:28+01:00 local time"
+     alt="The Telegraph at 2022-07-23 12:24:28+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-23T05:24:19.626359+01:00.jpg">July 23 at 5:24 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-22T17:16:11.840786+01:00.jpg">
-  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-22T17:16:11.840786+01:00.jpg"
-     alt="The Telegraph at 2022-07-22 17:16:13+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-22T17:16:11.840786+01:00.jpg">July 22 at 5:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-22T10:07:08.066337+01:00.jpg">
-  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-22T10:07:08.066337+01:00.jpg"
-     alt="The Telegraph at 2022-07-22 10:07:09+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-22T10:07:08.066337+01:00.jpg">July 22 at 10:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-22T05:29:57.992920+01:00.jpg">
-  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-22T05:29:57.992920+01:00.jpg"
-     alt="The Telegraph at 2022-07-22 05:29:59+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-22T05:29:57.992920+01:00.jpg">July 22 at 5:29 AM</a></p>
+ <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-23T05:24:19.626359+01:00.jpg">July 23 at 12:24 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 293 hyperlink lists with the Internet Archive.
+The archiving routine has saved 296 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -308,6 +308,22 @@ The archiving routine has saved 293 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 17:09:58 PM](https://archive.org/download/telegraph-2022/telegraph-2022-07-26T10:09:42.264336+01:00.hyperlinks.json) |
+| [2022-07-26 10:52:39 AM](https://archive.org/download/telegraph-2022/telegraph-2022-07-26T03:52:29.317792+01:00.hyperlinks.json) |
+| [2022-07-26 09:34:38 AM](https://archive.org/download/telegraph-2022/telegraph-2022-07-26T02:34:30.490143+01:00.hyperlinks.json) |
+| [2022-07-25 23:45:00 PM](https://archive.org/download/telegraph-2022/telegraph-2022-07-25T16:44:50.941330+01:00.hyperlinks.json) |
+| [2022-07-25 17:10:02 PM](https://archive.org/download/telegraph-2022/telegraph-2022-07-25T10:09:58.257851+01:00.hyperlinks.json) |
+| [2022-07-25 12:34:53 PM](https://archive.org/download/telegraph-2022/telegraph-2022-07-25T05:34:44.121845+01:00.hyperlinks.json) |
+| [2022-07-24 23:03:52 PM](https://archive.org/download/telegraph-2022/telegraph-2022-07-24T16:03:46.297988+01:00.hyperlinks.json) |
+| [2022-07-24 17:10:19 PM](https://archive.org/download/telegraph-2022/telegraph-2022-07-24T10:10:14.975411+01:00.hyperlinks.json) |
+| [2022-07-24 11:40:11 AM](https://archive.org/download/telegraph-2022/telegraph-2022-07-24T04:40:03.467387+01:00.hyperlinks.json) |
+| [2022-07-24 00:03:24 AM](https://archive.org/download/telegraph-2022/telegraph-2022-07-23T17:03:14.966814+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 69 screenshots with the Internet Archive.
+The archiving routine has saved 70 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-25T11:46:31.790869-04:00.jpg">
-  <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-25T11:46:31.790869-04:00.jpg"
-     alt="The Hill Times at 2022-07-25 11:46:33-04:00 local time"
+ <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-25T23:58:50.069296-04:00.jpg">
+  <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-25T23:58:50.069296-04:00.jpg"
+     alt="The Hill Times at 2022-07-26 06:58:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-25T11:46:31.790869-04:00.jpg">July 25 at 11:46 AM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-25T23:58:50.069296-04:00.jpg">July 26 at 6:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-25T11:46:31.790869-04:00.jpg">
+  <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-25T11:46:31.790869-04:00.jpg"
+     alt="The Hill Times at 2022-07-25 18:46:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-25T11:46:31.790869-04:00.jpg">July 25 at 6:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-25T00:36:03.376967-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-25T00:36:03.376967-04:00.jpg"
-     alt="The Hill Times at 2022-07-25 00:36:05-04:00 local time"
+     alt="The Hill Times at 2022-07-25 07:36:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-25T00:36:03.376967-04:00.jpg">July 25 at 12:36 AM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-25T00:36:03.376967-04:00.jpg">July 25 at 7:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-24T11:06:10.453008-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-24T11:06:10.453008-04:00.jpg"
-     alt="The Hill Times at 2022-07-24 11:06:14-04:00 local time"
+     alt="The Hill Times at 2022-07-24 18:06:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-24T11:06:10.453008-04:00.jpg">July 24 at 11:06 AM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-24T11:06:10.453008-04:00.jpg">July 24 at 6:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-23T23:41:11.508039-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-23T23:41:11.508039-04:00.jpg"
-     alt="The Hill Times at 2022-07-23 23:41:14-04:00 local time"
+     alt="The Hill Times at 2022-07-24 06:41:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-23T23:41:11.508039-04:00.jpg">July 23 at 11:41 PM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-23T23:41:11.508039-04:00.jpg">July 24 at 6:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-23T12:05:00.393603-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-23T12:05:00.393603-04:00.jpg"
-     alt="The Hill Times at 2022-07-23 12:05:03-04:00 local time"
+     alt="The Hill Times at 2022-07-23 19:05:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-23T12:05:00.393603-04:00.jpg">July 23 at 12:05 PM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-23T12:05:00.393603-04:00.jpg">July 23 at 7:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-23T00:24:19.713618-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-23T00:24:19.713618-04:00.jpg"
-     alt="The Hill Times at 2022-07-23 00:24:21-04:00 local time"
+     alt="The Hill Times at 2022-07-23 07:24:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-23T00:24:19.713618-04:00.jpg">July 23 at 12:24 AM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-23T00:24:19.713618-04:00.jpg">July 23 at 7:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-22T12:17:32.599856-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-22T12:17:32.599856-04:00.jpg"
-     alt="The Hill Times at 2022-07-22 12:17:34-04:00 local time"
+     alt="The Hill Times at 2022-07-22 19:17:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-22T12:17:32.599856-04:00.jpg">July 22 at 12:17 PM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-22T12:17:32.599856-04:00.jpg">July 22 at 7:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-22T00:31:06.814892-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-22T00:31:06.814892-04:00.jpg"
-     alt="The Hill Times at 2022-07-22 00:31:08-04:00 local time"
+     alt="The Hill Times at 2022-07-22 07:31:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-22T00:31:06.814892-04:00.jpg">July 22 at 12:31 AM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-22T00:31:06.814892-04:00.jpg">July 22 at 7:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-21T12:54:42.804100-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-21T12:54:42.804100-04:00.jpg"
-     alt="The Hill Times at 2022-07-21 12:54:44-04:00 local time"
+     alt="The Hill Times at 2022-07-21 19:54:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-21T12:54:42.804100-04:00.jpg">July 21 at 12:54 PM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-21T12:54:42.804100-04:00.jpg">July 21 at 7:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-21T00:29:33.954629-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-21T00:29:33.954629-04:00.jpg"
-     alt="The Hill Times at 2022-07-21 00:29:35-04:00 local time"
+     alt="The Hill Times at 2022-07-21 07:29:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-21T00:29:33.954629-04:00.jpg">July 21 at 12:29 AM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-21T00:29:33.954629-04:00.jpg">July 21 at 7:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-20T12:46:05.573763-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-20T12:46:05.573763-04:00.jpg"
-     alt="The Hill Times at 2022-07-20 12:46:06-04:00 local time"
+     alt="The Hill Times at 2022-07-20 19:46:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-20T12:46:05.573763-04:00.jpg">July 20 at 12:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-20T00:21:21.911799-04:00.jpg">
-  <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-20T00:21:21.911799-04:00.jpg"
-     alt="The Hill Times at 2022-07-20 00:21:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-20T00:21:21.911799-04:00.jpg">July 20 at 12:21 AM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-20T12:46:05.573763-04:00.jpg">July 20 at 7:46 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 69 hyperlink lists with the Internet Archive.
+The archiving routine has saved 70 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -308,6 +308,22 @@ The archiving routine has saved 69 hyperlink lists with the Internet Archive.
 };
     vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
+
+
+Here are the 10 most recent hyperlink lists.
+
+| Time  |
+| :---- |
+| [2022-07-26 06:58:55 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-25T23:58:50.069296-04:00.hyperlinks.json) |
+| [2022-07-25 18:46:36 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-25T11:46:31.790869-04:00.hyperlinks.json) |
+| [2022-07-25 07:36:08 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-25T00:36:03.376967-04:00.hyperlinks.json) |
+| [2022-07-24 18:06:17 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-24T11:06:10.453008-04:00.hyperlinks.json) |
+| [2022-07-24 06:41:18 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-23T23:41:11.508039-04:00.hyperlinks.json) |
+| [2022-07-23 19:05:06 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-23T12:05:00.393603-04:00.hyperlinks.json) |
+| [2022-07-23 07:24:25 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-23T00:24:19.713618-04:00.hyperlinks.json) |
+| [2022-07-22 19:17:37 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-22T12:17:32.599856-04:00.hyperlinks.json) |
+| [2022-07-22 07:31:11 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-22T00:31:06.814892-04:00.hyperlinks.json) |
+| [2022-07-21 19:54:48 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-07-21T12:54:42.804100-04:00.hyperlinks.json) |
 
 
 ## Internet Archive
