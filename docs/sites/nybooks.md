@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-25T11:34:28.016783-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-25T11:34:28.016783-04:00.jpg"
-     alt="New York Review of Books at 2022-07-25 18:34:31-04:00 local time"
+     alt="New York Review of Books at 2022-07-25 11:34:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-25T11:34:28.016783-04:00.jpg">July 25 at 6:34 PM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-25T11:34:28.016783-04:00.jpg">July 25 at 11:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T23:37:23.976000-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T23:37:23.976000-04:00.jpg"
-     alt="New York Review of Books at 2022-07-25 06:37:26-04:00 local time"
+     alt="New York Review of Books at 2022-07-24 23:37:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T23:37:23.976000-04:00.jpg">July 25 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T23:37:23.976000-04:00.jpg">July 24 at 11:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T09:59:05.032901-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T09:59:05.032901-04:00.jpg"
-     alt="New York Review of Books at 2022-07-24 16:59:05-04:00 local time"
+     alt="New York Review of Books at 2022-07-24 09:59:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T09:59:05.032901-04:00.jpg">July 24 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T09:59:05.032901-04:00.jpg">July 24 at 9:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T02:17:54.096533-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T02:17:54.096533-04:00.jpg"
-     alt="New York Review of Books at 2022-07-24 09:17:55-04:00 local time"
+     alt="New York Review of Books at 2022-07-24 02:17:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T02:17:54.096533-04:00.jpg">July 24 at 9:17 AM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T02:17:54.096533-04:00.jpg">July 24 at 2:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-23T11:04:26.331359-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-23T11:04:26.331359-04:00.jpg"
-     alt="New York Review of Books at 2022-07-23 18:04:28-04:00 local time"
+     alt="New York Review of Books at 2022-07-23 11:04:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-23T11:04:26.331359-04:00.jpg">July 23 at 6:04 PM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-23T11:04:26.331359-04:00.jpg">July 23 at 11:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-22T23:34:39.783356-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-22T23:34:39.783356-04:00.jpg"
-     alt="New York Review of Books at 2022-07-23 06:34:43-04:00 local time"
+     alt="New York Review of Books at 2022-07-22 23:34:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-22T23:34:39.783356-04:00.jpg">July 23 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-22T23:34:39.783356-04:00.jpg">July 22 at 11:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-22T11:00:37.313998-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-22T11:00:37.313998-04:00.jpg"
-     alt="New York Review of Books at 2022-07-22 18:00:39-04:00 local time"
+     alt="New York Review of Books at 2022-07-22 11:00:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-22T11:00:37.313998-04:00.jpg">July 22 at 6:00 PM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-22T11:00:37.313998-04:00.jpg">July 22 at 11:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-21T23:38:46.778682-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-21T23:38:46.778682-04:00.jpg"
-     alt="New York Review of Books at 2022-07-22 06:38:48-04:00 local time"
+     alt="New York Review of Books at 2022-07-21 23:38:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-21T23:38:46.778682-04:00.jpg">July 22 at 6:38 AM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-21T23:38:46.778682-04:00.jpg">July 21 at 11:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-21T11:34:39.202040-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-21T11:34:39.202040-04:00.jpg"
-     alt="New York Review of Books at 2022-07-21 18:34:41-04:00 local time"
+     alt="New York Review of Books at 2022-07-21 11:34:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-21T11:34:39.202040-04:00.jpg">July 21 at 6:34 PM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-21T11:34:39.202040-04:00.jpg">July 21 at 11:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-20T23:37:16.132194-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-20T23:37:16.132194-04:00.jpg"
-     alt="New York Review of Books at 2022-07-21 06:37:18-04:00 local time"
+     alt="New York Review of Books at 2022-07-20 23:37:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-20T23:37:16.132194-04:00.jpg">July 21 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-20T23:37:16.132194-04:00.jpg">July 20 at 11:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-20T12:11:28.559770-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-20T12:11:28.559770-04:00.jpg"
-     alt="New York Review of Books at 2022-07-20 19:11:29-04:00 local time"
+     alt="New York Review of Books at 2022-07-20 12:11:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-20T12:11:28.559770-04:00.jpg">July 20 at 7:11 PM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-20T12:11:28.559770-04:00.jpg">July 20 at 12:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-19T23:34:32.333654-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-19T23:34:32.333654-04:00.jpg"
-     alt="New York Review of Books at 2022-07-20 06:34:34-04:00 local time"
+     alt="New York Review of Books at 2022-07-19 23:34:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-19T23:34:32.333654-04:00.jpg">July 20 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-19T23:34:32.333654-04:00.jpg">July 19 at 11:34 PM</a></p>
 </div>
 
 </div>

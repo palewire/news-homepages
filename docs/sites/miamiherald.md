@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-25T20:19:37.842902-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-25T20:19:37.842902-04:00.jpg"
-     alt="Miami Herald at 2022-07-26 03:19:40-04:00 local time"
+     alt="Miami Herald at 2022-07-25 20:19:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-25T20:19:37.842902-04:00.jpg">July 26 at 3:19 AM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-25T20:19:37.842902-04:00.jpg">July 25 at 8:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-25T09:14:33.551532-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-25T09:14:33.551532-04:00.jpg"
-     alt="Miami Herald at 2022-07-25 16:14:36-04:00 local time"
+     alt="Miami Herald at 2022-07-25 09:14:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-25T09:14:33.551532-04:00.jpg">July 25 at 4:14 PM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-25T09:14:33.551532-04:00.jpg">July 25 at 9:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-24T23:31:58.436058-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-24T23:31:58.436058-04:00.jpg"
-     alt="Miami Herald at 2022-07-25 06:32:00-04:00 local time"
+     alt="Miami Herald at 2022-07-24 23:32:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-24T23:31:58.436058-04:00.jpg">July 25 at 6:32 AM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-24T23:31:58.436058-04:00.jpg">July 24 at 11:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-24T09:02:42.558834-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-24T09:02:42.558834-04:00.jpg"
-     alt="Miami Herald at 2022-07-24 16:02:45-04:00 local time"
+     alt="Miami Herald at 2022-07-24 09:02:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-24T09:02:42.558834-04:00.jpg">July 24 at 4:02 PM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-24T09:02:42.558834-04:00.jpg">July 24 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-24T00:18:37.196638-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-24T00:18:37.196638-04:00.jpg"
-     alt="Miami Herald at 2022-07-24 07:18:39-04:00 local time"
+     alt="Miami Herald at 2022-07-24 00:18:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-24T00:18:37.196638-04:00.jpg">July 24 at 7:18 AM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-24T00:18:37.196638-04:00.jpg">July 24 at 12:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-23T11:01:46.618918-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-23T11:01:46.618918-04:00.jpg"
-     alt="Miami Herald at 2022-07-23 18:01:48-04:00 local time"
+     alt="Miami Herald at 2022-07-23 11:01:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-23T11:01:46.618918-04:00.jpg">July 23 at 6:01 PM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-23T11:01:46.618918-04:00.jpg">July 23 at 11:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-22T23:31:43.953190-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-22T23:31:43.953190-04:00.jpg"
-     alt="Miami Herald at 2022-07-23 06:31:47-04:00 local time"
+     alt="Miami Herald at 2022-07-22 23:31:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-22T23:31:43.953190-04:00.jpg">July 23 at 6:31 AM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-22T23:31:43.953190-04:00.jpg">July 22 at 11:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-22T10:57:26.410294-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-22T10:57:26.410294-04:00.jpg"
-     alt="Miami Herald at 2022-07-22 17:57:28-04:00 local time"
+     alt="Miami Herald at 2022-07-22 10:57:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-22T10:57:26.410294-04:00.jpg">July 22 at 5:57 PM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-22T10:57:26.410294-04:00.jpg">July 22 at 10:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-21T23:35:47.899294-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-21T23:35:47.899294-04:00.jpg"
-     alt="Miami Herald at 2022-07-22 06:35:49-04:00 local time"
+     alt="Miami Herald at 2022-07-21 23:35:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-21T23:35:47.899294-04:00.jpg">July 22 at 6:35 AM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-21T23:35:47.899294-04:00.jpg">July 21 at 11:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-21T11:29:04.681984-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-21T11:29:04.681984-04:00.jpg"
-     alt="Miami Herald at 2022-07-21 18:29:06-04:00 local time"
+     alt="Miami Herald at 2022-07-21 11:29:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-21T11:29:04.681984-04:00.jpg">July 21 at 6:29 PM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-21T11:29:04.681984-04:00.jpg">July 21 at 11:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-20T23:34:49.950744-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-20T23:34:49.950744-04:00.jpg"
-     alt="Miami Herald at 2022-07-21 06:34:53-04:00 local time"
+     alt="Miami Herald at 2022-07-20 23:34:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-20T23:34:49.950744-04:00.jpg">July 21 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-20T23:34:49.950744-04:00.jpg">July 20 at 11:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-20T12:07:49.842713-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-20T12:07:49.842713-04:00.jpg"
-     alt="Miami Herald at 2022-07-20 19:07:51-04:00 local time"
+     alt="Miami Herald at 2022-07-20 12:07:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-20T12:07:49.842713-04:00.jpg">July 20 at 7:07 PM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-20T12:07:49.842713-04:00.jpg">July 20 at 12:07 PM</a></p>
 </div>
 
 </div>

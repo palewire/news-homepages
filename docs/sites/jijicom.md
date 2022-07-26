@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-25T22:09:19.552897+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-07-25T22:09:19.552897+09:00.jpg"
-     alt="Jiji at 2022-07-26 05:09:22+09:00 local time"
+     alt="Jiji at 2022-07-25 22:09:22+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-25T22:09:19.552897+09:00.jpg">July 26 at 5:09 AM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-25T22:09:19.552897+09:00.jpg">July 25 at 10:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-25T12:36:03.942163+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-07-25T12:36:03.942163+09:00.jpg"
-     alt="Jiji at 2022-07-25 19:36:06+09:00 local time"
+     alt="Jiji at 2022-07-25 12:36:06+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-25T12:36:03.942163+09:00.jpg">July 25 at 7:36 PM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-25T12:36:03.942163+09:00.jpg">July 25 at 12:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-25T12:24:05.197918+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-07-25T12:24:05.197918+09:00.jpg"
-     alt="Jiji at 2022-07-25 19:24:07+09:00 local time"
+     alt="Jiji at 2022-07-25 12:24:07+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-25T12:24:05.197918+09:00.jpg">July 25 at 7:24 PM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-25T12:24:05.197918+09:00.jpg">July 25 at 12:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-24T21:58:47.373633+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-07-24T21:58:47.373633+09:00.jpg"
-     alt="Jiji at 2022-07-25 04:58:49+09:00 local time"
+     alt="Jiji at 2022-07-24 21:58:49+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-24T21:58:47.373633+09:00.jpg">July 25 at 4:58 AM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-24T21:58:47.373633+09:00.jpg">July 24 at 9:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-24T13:14:07.039031+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-07-24T13:14:07.039031+09:00.jpg"
-     alt="Jiji at 2022-07-24 20:14:08+09:00 local time"
+     alt="Jiji at 2022-07-24 13:14:08+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-24T13:14:07.039031+09:00.jpg">July 24 at 8:14 PM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-24T13:14:07.039031+09:00.jpg">July 24 at 1:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-24T11:25:49.195467+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-07-24T11:25:49.195467+09:00.jpg"
-     alt="Jiji at 2022-07-24 18:25:50+09:00 local time"
+     alt="Jiji at 2022-07-24 11:25:50+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-24T11:25:49.195467+09:00.jpg">July 24 at 6:25 PM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-24T11:25:49.195467+09:00.jpg">July 24 at 11:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-23T23:03:56.855090+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-07-23T23:03:56.855090+09:00.jpg"
-     alt="Jiji at 2022-07-24 06:03:58+09:00 local time"
+     alt="Jiji at 2022-07-23 23:03:58+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-23T23:03:56.855090+09:00.jpg">July 24 at 6:03 AM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-23T23:03:56.855090+09:00.jpg">July 23 at 11:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-23T11:29:50.637733+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-07-23T11:29:50.637733+09:00.jpg"
-     alt="Jiji at 2022-07-23 18:29:51+09:00 local time"
+     alt="Jiji at 2022-07-23 11:29:51+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-23T11:29:50.637733+09:00.jpg">July 23 at 6:29 PM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-23T11:29:50.637733+09:00.jpg">July 23 at 11:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-23T10:35:07.388469+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-07-23T10:35:07.388469+09:00.jpg"
-     alt="Jiji at 2022-07-23 17:35:08+09:00 local time"
+     alt="Jiji at 2022-07-23 10:35:08+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-23T10:35:07.388469+09:00.jpg">July 23 at 5:35 PM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-23T10:35:07.388469+09:00.jpg">July 23 at 10:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-22T23:04:48.908150+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-07-22T23:04:48.908150+09:00.jpg"
-     alt="Jiji at 2022-07-23 06:04:51+09:00 local time"
+     alt="Jiji at 2022-07-22 23:04:51+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-22T23:04:48.908150+09:00.jpg">July 23 at 6:04 AM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-22T23:04:48.908150+09:00.jpg">July 22 at 11:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-22T11:24:32.078677+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-07-22T11:24:32.078677+09:00.jpg"
-     alt="Jiji at 2022-07-22 18:24:33+09:00 local time"
+     alt="Jiji at 2022-07-22 11:24:33+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-22T11:24:32.078677+09:00.jpg">July 22 at 6:24 PM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-22T11:24:32.078677+09:00.jpg">July 22 at 11:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-22T10:33:51.523550+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-07-22T10:33:51.523550+09:00.jpg"
-     alt="Jiji at 2022-07-22 17:33:53+09:00 local time"
+     alt="Jiji at 2022-07-22 10:33:53+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-22T10:33:51.523550+09:00.jpg">July 22 at 5:33 PM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-22T10:33:51.523550+09:00.jpg">July 22 at 10:33 AM</a></p>
 </div>
 
 </div>

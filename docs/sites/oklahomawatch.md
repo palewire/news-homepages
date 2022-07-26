@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-25T19:21:48.279631-05:00.jpg">
   <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-25T19:21:48.279631-05:00.jpg"
-     alt="Oklahoma Watch at 2022-07-26 02:21:50-05:00 local time"
+     alt="Oklahoma Watch at 2022-07-25 19:21:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-25T19:21:48.279631-05:00.jpg">July 26 at 2:21 AM</a></p>
+ <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-25T19:21:48.279631-05:00.jpg">July 25 at 7:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-25T10:35:32.550551-05:00.jpg">
   <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-25T10:35:32.550551-05:00.jpg"
-     alt="Oklahoma Watch at 2022-07-25 17:35:34-05:00 local time"
+     alt="Oklahoma Watch at 2022-07-25 10:35:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-25T10:35:32.550551-05:00.jpg">July 25 at 5:35 PM</a></p>
+ <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-25T10:35:32.550551-05:00.jpg">July 25 at 10:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-24T22:38:52.908966-05:00.jpg">
   <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-24T22:38:52.908966-05:00.jpg"
-     alt="Oklahoma Watch at 2022-07-25 05:38:54-05:00 local time"
+     alt="Oklahoma Watch at 2022-07-24 22:38:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-24T22:38:52.908966-05:00.jpg">July 25 at 5:38 AM</a></p>
+ <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-24T22:38:52.908966-05:00.jpg">July 24 at 10:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-24T08:58:58.601610-05:00.jpg">
   <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-24T08:58:58.601610-05:00.jpg"
-     alt="Oklahoma Watch at 2022-07-24 15:59:00-05:00 local time"
+     alt="Oklahoma Watch at 2022-07-24 08:59:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-24T08:58:58.601610-05:00.jpg">July 24 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-24T08:58:58.601610-05:00.jpg">July 24 at 8:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-24T01:18:07.839954-05:00.jpg">
   <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-24T01:18:07.839954-05:00.jpg"
-     alt="Oklahoma Watch at 2022-07-24 08:18:11-05:00 local time"
+     alt="Oklahoma Watch at 2022-07-24 01:18:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-24T01:18:07.839954-05:00.jpg">July 24 at 8:18 AM</a></p>
+ <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-24T01:18:07.839954-05:00.jpg">July 24 at 1:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-23T10:05:35.133804-05:00.jpg">
   <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-23T10:05:35.133804-05:00.jpg"
-     alt="Oklahoma Watch at 2022-07-23 17:05:36-05:00 local time"
+     alt="Oklahoma Watch at 2022-07-23 10:05:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-23T10:05:35.133804-05:00.jpg">July 23 at 5:05 PM</a></p>
+ <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-23T10:05:35.133804-05:00.jpg">July 23 at 10:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-22T22:35:09.714450-05:00.jpg">
   <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-22T22:35:09.714450-05:00.jpg"
-     alt="Oklahoma Watch at 2022-07-23 05:35:11-05:00 local time"
+     alt="Oklahoma Watch at 2022-07-22 22:35:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-22T22:35:09.714450-05:00.jpg">July 23 at 5:35 AM</a></p>
+ <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-22T22:35:09.714450-05:00.jpg">July 22 at 10:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-22T10:00:31.459008-05:00.jpg">
   <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-22T10:00:31.459008-05:00.jpg"
-     alt="Oklahoma Watch at 2022-07-22 17:00:34-05:00 local time"
+     alt="Oklahoma Watch at 2022-07-22 10:00:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-22T10:00:31.459008-05:00.jpg">July 22 at 5:00 PM</a></p>
+ <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-22T10:00:31.459008-05:00.jpg">July 22 at 10:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-21T22:40:17.515861-05:00.jpg">
   <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-21T22:40:17.515861-05:00.jpg"
-     alt="Oklahoma Watch at 2022-07-22 05:40:18-05:00 local time"
+     alt="Oklahoma Watch at 2022-07-21 22:40:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-21T22:40:17.515861-05:00.jpg">July 22 at 5:40 AM</a></p>
+ <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-21T22:40:17.515861-05:00.jpg">July 21 at 10:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-21T10:36:16.966398-05:00.jpg">
   <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-21T10:36:16.966398-05:00.jpg"
-     alt="Oklahoma Watch at 2022-07-21 17:36:18-05:00 local time"
+     alt="Oklahoma Watch at 2022-07-21 10:36:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-21T10:36:16.966398-05:00.jpg">July 21 at 5:36 PM</a></p>
+ <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-21T10:36:16.966398-05:00.jpg">July 21 at 10:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-20T22:38:09.543599-05:00.jpg">
   <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-20T22:38:09.543599-05:00.jpg"
-     alt="Oklahoma Watch at 2022-07-21 05:38:11-05:00 local time"
+     alt="Oklahoma Watch at 2022-07-20 22:38:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-20T22:38:09.543599-05:00.jpg">July 21 at 5:38 AM</a></p>
+ <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-20T22:38:09.543599-05:00.jpg">July 20 at 10:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-20T11:12:05.297289-05:00.jpg">
   <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-20T11:12:05.297289-05:00.jpg"
-     alt="Oklahoma Watch at 2022-07-20 18:12:07-05:00 local time"
+     alt="Oklahoma Watch at 2022-07-20 11:12:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-20T11:12:05.297289-05:00.jpg">July 20 at 6:12 PM</a></p>
+ <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-07-20T11:12:05.297289-05:00.jpg">July 20 at 11:12 AM</a></p>
 </div>
 
 </div>

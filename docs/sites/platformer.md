@@ -31,19 +31,19 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/platformer-2022/platformer-2022-07-25T08:37:49.199892-07:00.jpg">
   <img src="https://archive.org/download/platformer-2022/platformer-2022-07-25T08:37:49.199892-07:00.jpg"
-     alt="Platformer at 2022-07-25 15:37:50-07:00 local time"
+     alt="Platformer at 2022-07-25 08:37:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/platformer-2022/platformer-2022-07-25T08:37:49.199892-07:00.jpg">July 25 at 3:37 PM</a></p>
+ <p><a href="https://archive.org/download/platformer-2022/platformer-2022-07-25T08:37:49.199892-07:00.jpg">July 25 at 8:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/platformer-2022/platformer-2022-07-24T23:47:01.810346-07:00.jpg">
   <img src="https://archive.org/download/platformer-2022/platformer-2022-07-24T23:47:01.810346-07:00.jpg"
-     alt="Platformer at 2022-07-25 06:47:07-07:00 local time"
+     alt="Platformer at 2022-07-24 23:47:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/platformer-2022/platformer-2022-07-24T23:47:01.810346-07:00.jpg">July 25 at 6:47 AM</a></p>
+ <p><a href="https://archive.org/download/platformer-2022/platformer-2022-07-24T23:47:01.810346-07:00.jpg">July 24 at 11:47 PM</a></p>
 </div>
 
 </div>

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-25T20:14:34.610775-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-25T20:14:34.610775-04:00.jpg"
-     alt="Jewish Currents at 2022-07-26 03:14:36-04:00 local time"
+     alt="Jewish Currents at 2022-07-25 20:14:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-25T20:14:34.610775-04:00.jpg">July 26 at 3:14 AM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-25T20:14:34.610775-04:00.jpg">July 25 at 8:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-25T09:09:25.860624-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-25T09:09:25.860624-04:00.jpg"
-     alt="Jewish Currents at 2022-07-25 16:09:27-04:00 local time"
+     alt="Jewish Currents at 2022-07-25 09:09:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-25T09:09:25.860624-04:00.jpg">July 25 at 4:09 PM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-25T09:09:25.860624-04:00.jpg">July 25 at 9:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-24T23:23:34.305847-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-24T23:23:34.305847-04:00.jpg"
-     alt="Jewish Currents at 2022-07-25 06:23:36-04:00 local time"
+     alt="Jewish Currents at 2022-07-24 23:23:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-24T23:23:34.305847-04:00.jpg">July 25 at 6:23 AM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-24T23:23:34.305847-04:00.jpg">July 24 at 11:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-24T08:58:42.039096-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-24T08:58:42.039096-04:00.jpg"
-     alt="Jewish Currents at 2022-07-24 15:58:43-04:00 local time"
+     alt="Jewish Currents at 2022-07-24 08:58:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-24T08:58:42.039096-04:00.jpg">July 24 at 3:58 PM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-24T08:58:42.039096-04:00.jpg">July 24 at 8:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-24T00:14:07.289447-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-24T00:14:07.289447-04:00.jpg"
-     alt="Jewish Currents at 2022-07-24 07:14:09-04:00 local time"
+     alt="Jewish Currents at 2022-07-24 00:14:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-24T00:14:07.289447-04:00.jpg">July 24 at 7:14 AM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-24T00:14:07.289447-04:00.jpg">July 24 at 12:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-23T10:03:44.268444-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-23T10:03:44.268444-04:00.jpg"
-     alt="Jewish Currents at 2022-07-23 17:03:45-04:00 local time"
+     alt="Jewish Currents at 2022-07-23 10:03:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-23T10:03:44.268444-04:00.jpg">July 23 at 5:03 PM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-23T10:03:44.268444-04:00.jpg">July 23 at 10:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-22T22:29:29.444399-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-22T22:29:29.444399-04:00.jpg"
-     alt="Jewish Currents at 2022-07-23 05:29:31-04:00 local time"
+     alt="Jewish Currents at 2022-07-22 22:29:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-22T22:29:29.444399-04:00.jpg">July 23 at 5:29 AM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-22T22:29:29.444399-04:00.jpg">July 22 at 10:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-22T10:04:54.365192-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-22T10:04:54.365192-04:00.jpg"
-     alt="Jewish Currents at 2022-07-22 17:04:56-04:00 local time"
+     alt="Jewish Currents at 2022-07-22 10:04:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-22T10:04:54.365192-04:00.jpg">July 22 at 5:04 PM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-22T10:04:54.365192-04:00.jpg">July 22 at 10:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-21T22:24:32.254232-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-21T22:24:32.254232-04:00.jpg"
-     alt="Jewish Currents at 2022-07-22 05:24:33-04:00 local time"
+     alt="Jewish Currents at 2022-07-21 22:24:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-21T22:24:32.254232-04:00.jpg">July 22 at 5:24 AM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-21T22:24:32.254232-04:00.jpg">July 21 at 10:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-21T10:13:21.981388-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-21T10:13:21.981388-04:00.jpg"
-     alt="Jewish Currents at 2022-07-21 17:13:25-04:00 local time"
+     alt="Jewish Currents at 2022-07-21 10:13:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-21T10:13:21.981388-04:00.jpg">July 21 at 5:13 PM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-21T10:13:21.981388-04:00.jpg">July 21 at 10:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-20T22:26:43.537929-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-20T22:26:43.537929-04:00.jpg"
-     alt="Jewish Currents at 2022-07-21 05:26:45-04:00 local time"
+     alt="Jewish Currents at 2022-07-20 22:26:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-20T22:26:43.537929-04:00.jpg">July 21 at 5:26 AM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-20T22:26:43.537929-04:00.jpg">July 20 at 10:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-20T10:27:48.061637-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-20T10:27:48.061637-04:00.jpg"
-     alt="Jewish Currents at 2022-07-20 17:27:50-04:00 local time"
+     alt="Jewish Currents at 2022-07-20 10:27:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-20T10:27:48.061637-04:00.jpg">July 20 at 5:27 PM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-07-20T10:27:48.061637-04:00.jpg">July 20 at 10:27 AM</a></p>
 </div>
 
 </div>
