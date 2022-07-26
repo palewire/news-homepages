@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 651 news sites.
+The most recent homepages captured from 653 news sites.
 
 <div class="latest-parent">
 
@@ -869,6 +869,15 @@ The most recent homepages captured from 651 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/buckscoherald.html">Bucks County Herald</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thebuffalonews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thebuffalonews.jpg"
+     alt="Buffalo News"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/thebuffalonews.html">Buffalo News</a></p>
 </div>
 
 <div class="latest-child">
@@ -2291,6 +2300,15 @@ The most recent homepages captured from 651 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/harpers.html">Harper’s</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/hartfordcourant.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hartfordcourant.jpg"
+     alt="Hartford Courant"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/hartfordcourant.html">Hartford Courant</a></p>
 </div>
 
 <div class="latest-child">

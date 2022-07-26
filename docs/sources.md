@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 651 sites.
+The archiving routine is currently capturing 653 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -105,6 +105,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Breckenridge Texan](https://palewi.re/docs/news-homepages/sites/brecktexan.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/brecktexan.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/brecktexan.xml)|
 |[Breitbart](https://palewi.re/docs/news-homepages/sites/breitbartnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/breitbartnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/breitbartnews.xml)|
 |[Bucks County Herald](https://palewi.re/docs/news-homepages/sites/buckscoherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/buckscoherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/buckscoherald.xml)|
+|[Buffalo News](https://palewi.re/docs/news-homepages/sites/thebuffalonews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thebuffalonews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thebuffalonews.xml)|
 |[Bulwark](https://palewi.re/docs/news-homepages/sites/bulwarkonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bulwarkonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bulwarkonline.xml)|
 |[Buzzfeed News](https://palewi.re/docs/news-homepages/sites/buzzfeednews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/buzzfeednews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/buzzfeednews.xml)|
 |[Cadena SER](https://palewi.re/docs/news-homepages/sites/la_ser.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/la_ser.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/la_ser.xml)|
@@ -263,6 +264,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Grist](https://palewi.re/docs/news-homepages/sites/grist.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/grist.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/grist.xml)|
 |[Gwinnett Daily Post](https://palewi.re/docs/news-homepages/sites/gwinnettdaily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gwinnettdaily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gwinnettdaily.xml)|
 |[Harper’s](https://palewi.re/docs/news-homepages/sites/harpers.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/harpers.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/harpers.xml)|
+|[Hartford Courant](https://palewi.re/docs/news-homepages/sites/hartfordcourant.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hartfordcourant.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hartfordcourant.xml)|
 |[Harvey World Herald](https://palewi.re/docs/news-homepages/sites/hwherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hwherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hwherald.xml)|
 |[Hell Gate](https://palewi.re/docs/news-homepages/sites/hellgateny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hellgateny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hellgateny.xml)|
 |[Herald Times Reporter](https://palewi.re/docs/news-homepages/sites/htrnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/htrnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/htrnews.xml)|
