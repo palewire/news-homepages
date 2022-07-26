@@ -7,7 +7,7 @@ orphan: true
 
 # New York City
 
-The most recent homepages from 15 news sites in this bundle.
+The most recent homepages from 16 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -120,6 +120,15 @@ The most recent homepages from 15 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/newsday.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsday.jpg"
+     alt="Newsday"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/newsday.html">Newsday</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/ny1.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ny1.jpg"
      alt="NY1"
@@ -173,6 +182,7 @@ The most recent homepages from 15 news sites in this bundle.
 |[New York Post](https://palewi.re/docs/news-homepages/sites/nypost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nypost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nypost.xml)|
 |[New York Times](https://palewi.re/docs/news-homepages/sites/nytimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nytimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nytimes.xml)|
 |[New Yorker](https://palewi.re/docs/news-homepages/sites/newyorker.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newyorker.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newyorker.xml)|
+|[Newsday](https://palewi.re/docs/news-homepages/sites/newsday.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsday.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newsday.xml)|
 |[NY1](https://palewi.re/docs/news-homepages/sites/ny1.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ny1.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ny1.xml)|
 |[The City](https://palewi.re/docs/news-homepages/sites/thecityny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thecityny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thecityny.xml)|
 |[WNYC](https://palewi.re/docs/news-homepages/sites/wnyc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wnyc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wnyc.xml)|

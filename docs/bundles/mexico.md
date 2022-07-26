@@ -7,7 +7,7 @@ orphan: true
 
 # Mexico
 
-The most recent homepages from 3 news sites in this bundle.
+The most recent homepages from 4 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -38,6 +38,15 @@ The most recent homepages from 3 news sites in this bundle.
  <p><a href="../sites/lajornada.html">La Jornada</a></p>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/quintoelab.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/quintoelab.jpg"
+     alt="Quinto Elemento Lab"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/quintoelab.html">Quinto Elemento Lab</a></p>
+</div>
+
 </div>
 
 ## About this bundle
@@ -56,3 +65,4 @@ The most recent homepages from 3 news sites in this bundle.
 |[Animal Político](https://palewi.re/docs/news-homepages/sites/pajaropolitico.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pajaropolitico.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pajaropolitico.xml)|
 |[El Universal](https://palewi.re/docs/news-homepages/sites/el_universal_mx.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/el_universal_mx.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/el_universal_mx.xml)|
 |[La Jornada](https://palewi.re/docs/news-homepages/sites/lajornada.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lajornada.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lajornada.xml)|
+|[Quinto Elemento Lab](https://palewi.re/docs/news-homepages/sites/quintoelab.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/quintoelab.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/quintoelab.xml)|

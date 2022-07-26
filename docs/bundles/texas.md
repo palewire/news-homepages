@@ -7,7 +7,7 @@ orphan: true
 
 # Texas
 
-The most recent homepages from 33 news sites in this bundle.
+The most recent homepages from 36 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -30,6 +30,15 @@ The most recent homepages from 33 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/aldiadallas.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aldiadallas.jpg"
+     alt="Al Dia Dallas"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/aldiadallas.html">Al Dia Dallas</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/austinchronicle.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/austinchronicle.jpg"
      alt="Austin Chronicle"
@@ -48,12 +57,30 @@ The most recent homepages from 33 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/austinvida.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/austinvida.jpg"
+     alt="Austin Vida"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/austinvida.html">Austin Vida</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/bmtenterprise.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bmtenterprise.jpg"
      alt="Beaumont Enterprise"
      loading="lazy">
  </a>
  <p><a href="../sites/bmtenterprise.html">Beaumont Enterprise</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/brecktexan.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/brecktexan.jpg"
+     alt="Breckenridge Texan"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/brecktexan.html">Breckenridge Texan</a></p>
 </div>
 
 <div class="latest-child">
@@ -325,9 +352,12 @@ The most recent homepages from 33 news sites in this bundle.
 | :---- | :---------------: | :-- |
 |[12 News Now](https://palewi.re/docs/news-homepages/sites/12newsnow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/12newsnow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/12newsnow.xml)|
 |[Abilene Reporter News](https://palewi.re/docs/news-homepages/sites/reporternews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reporternews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reporternews.xml)|
+|[Al Dia Dallas](https://palewi.re/docs/news-homepages/sites/aldiadallas.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aldiadallas.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/aldiadallas.xml)|
 |[Austin Chronicle](https://palewi.re/docs/news-homepages/sites/austinchronicle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/austinchronicle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/austinchronicle.xml)|
 |[Austin Statesman](https://palewi.re/docs/news-homepages/sites/statesman.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/statesman.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/statesman.xml)|
+|[Austin Vida](https://palewi.re/docs/news-homepages/sites/austinvida.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/austinvida.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/austinvida.xml)|
 |[Beaumont Enterprise](https://palewi.re/docs/news-homepages/sites/bmtenterprise.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bmtenterprise.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bmtenterprise.xml)|
+|[Breckenridge Texan](https://palewi.re/docs/news-homepages/sites/brecktexan.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/brecktexan.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/brecktexan.xml)|
 |[CBS7](https://palewi.re/docs/news-homepages/sites/cbs7news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cbs7news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cbs7news.xml)|
 |[Dallas Business Journal](https://palewi.re/docs/news-homepages/sites/dallasbiznews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasbiznews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dallasbiznews.xml)|
 |[Dallas Free Press](https://palewi.re/docs/news-homepages/sites/dallasfreepress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasfreepress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dallasfreepress.xml)|

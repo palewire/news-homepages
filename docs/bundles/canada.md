@@ -7,7 +7,7 @@ orphan: true
 
 # Canada
 
-The most recent homepages from 19 news sites in this bundle.
+The most recent homepages from 20 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -90,6 +90,15 @@ The most recent homepages from 19 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/ledevoir.html">Le Devoir</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/mcgilldaily.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mcgilldaily.jpg"
+     alt="McGill Daily"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/mcgilldaily.html">McGill Daily</a></p>
 </div>
 
 <div class="latest-child">
@@ -206,6 +215,7 @@ The most recent homepages from 19 news sites in this bundle.
 |[La Journal de Montréal](https://palewi.re/docs/news-homepages/sites/jdemontreal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jdemontreal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jdemontreal.xml)|
 |[La Presse](https://palewi.re/docs/news-homepages/sites/lp_lapresse.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lp_lapresse.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lp_lapresse.xml)|
 |[Le Devoir](https://palewi.re/docs/news-homepages/sites/ledevoir.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ledevoir.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ledevoir.xml)|
+|[McGill Daily](https://palewi.re/docs/news-homepages/sites/mcgilldaily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mcgilldaily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mcgilldaily.xml)|
 |[Montreal Gazette](https://palewi.re/docs/news-homepages/sites/mtlgazette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mtlgazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mtlgazette.xml)|
 |[National Post](https://palewi.re/docs/news-homepages/sites/nationalpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nationalpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nationalpost.xml)|
 |[Ottawa Citizen](https://palewi.re/docs/news-homepages/sites/ottawacitizen.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ottawacitizen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ottawacitizen.xml)|

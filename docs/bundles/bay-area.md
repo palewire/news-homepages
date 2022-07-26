@@ -7,9 +7,18 @@ orphan: true
 
 # California Bay Area
 
-The most recent homepages from 20 news sites in this bundle.
+The most recent homepages from 21 news sites in this bundle.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/abc7newsbayarea.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abc7newsbayarea.jpg"
+     alt="ABC7 News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/abc7newsbayarea.html">ABC7 News</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/baynature.html">
@@ -206,6 +215,7 @@ The most recent homepages from 20 news sites in this bundle.
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
+|[ABC7 News](https://palewi.re/docs/news-homepages/sites/abc7newsbayarea.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abc7newsbayarea.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abc7newsbayarea.xml)|
 |[Bay Nature](https://palewi.re/docs/news-homepages/sites/baynature.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baynature.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baynature.xml)|
 |[Calmatters](https://palewi.re/docs/news-homepages/sites/calmatters.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/calmatters.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/calmatters.xml)|
 |[East Bay Times](https://palewi.re/docs/news-homepages/sites/eastbaytimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eastbaytimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/eastbaytimes.xml)|

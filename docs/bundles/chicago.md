@@ -7,7 +7,7 @@ orphan: true
 
 # Chicago
 
-The most recent homepages from 18 news sites in this bundle.
+The most recent homepages from 19 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -111,6 +111,15 @@ The most recent homepages from 18 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/hwherald.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hwherald.jpg"
+     alt="Harvey World Herald"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/hwherald.html">Harvey World Herald</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/injusticewatch.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/injusticewatch.jpg"
      alt="Injustice Watch"
@@ -199,6 +208,7 @@ The most recent homepages from 18 news sites in this bundle.
 |[Cicero Independiente](https://palewi.re/docs/news-homepages/sites/ciceronoticias.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ciceronoticias.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ciceronoticias.xml)|
 |[DePaulia](https://palewi.re/docs/news-homepages/sites/thedepaulia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedepaulia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedepaulia.xml)|
 |[Evanston RoundTable](https://palewi.re/docs/news-homepages/sites/evroundtable.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/evroundtable.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/evroundtable.xml)|
+|[Harvey World Herald](https://palewi.re/docs/news-homepages/sites/hwherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hwherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hwherald.xml)|
 |[Injustice Watch](https://palewi.re/docs/news-homepages/sites/injusticewatch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/injusticewatch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/injusticewatch.xml)|
 |[NBC Chicago](https://palewi.re/docs/news-homepages/sites/nbcchicago.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcchicago.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcchicago.xml)|
 |[Pitchfork](https://palewi.re/docs/news-homepages/sites/pitchfork.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pitchfork.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pitchfork.xml)|

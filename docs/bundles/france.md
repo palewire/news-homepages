@@ -7,7 +7,7 @@ orphan: true
 
 # France
 
-The most recent homepages from 12 news sites in this bundle.
+The most recent homepages from 14 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -18,6 +18,15 @@ The most recent homepages from 12 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/20minutes.html">20 Minutes</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/bfmtv.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bfmtv.jpg"
+     alt="BFMTV"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/bfmtv.html">BFMTV</a></p>
 </div>
 
 <div class="latest-child">
@@ -111,6 +120,15 @@ The most recent homepages from 12 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/mediapart.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mediapart.jpg"
+     alt="Mediapart"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/mediapart.html">Mediapart</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/rfi.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rfi.jpg"
      alt="RFI"
@@ -135,6 +153,7 @@ The most recent homepages from 12 news sites in this bundle.
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
 |[20 Minutes](https://palewi.re/docs/news-homepages/sites/20minutes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/20minutes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/20minutes.xml)|
+|[BFMTV](https://palewi.re/docs/news-homepages/sites/bfmtv.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bfmtv.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bfmtv.xml)|
 |[FRANCE 24](https://palewi.re/docs/news-homepages/sites/france24.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/france24.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/france24.xml)|
 |[France 24 English](https://palewi.re/docs/news-homepages/sites/france24_en.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/france24_en.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/france24_en.xml)|
 |[franceinfo](https://palewi.re/docs/news-homepages/sites/franceinfo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/franceinfo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/franceinfo.xml)|
@@ -145,4 +164,5 @@ The most recent homepages from 12 news sites in this bundle.
 |[Le Parisien](https://palewi.re/docs/news-homepages/sites/le_parisien.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/le_parisien.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/le_parisien.xml)|
 |[Libération](https://palewi.re/docs/news-homepages/sites/libe.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/libe.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/libe.xml)|
 |[L’Obs](https://palewi.re/docs/news-homepages/sites/lobs.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lobs.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lobs.xml)|
+|[Mediapart](https://palewi.re/docs/news-homepages/sites/mediapart.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mediapart.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mediapart.xml)|
 |[RFI](https://palewi.re/docs/news-homepages/sites/rfi.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rfi.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rfi.xml)|

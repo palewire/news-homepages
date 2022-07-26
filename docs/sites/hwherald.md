@@ -16,7 +16,7 @@ orphan: true
 | Twitter handle | [@hwherald](https://www.twitter.com/hwherald)                                                                                  |
 | Location       | Harvey                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
-| Bundles        |  |
+| Bundles        | <a href="../bundles/chicago.html">Chicago</a>  |
 
 ## Screenshots
 

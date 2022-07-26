@@ -5,16 +5,16 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# Stern
+# MDR Sachsen-Anhalt
 
-![Stern](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sternde.jpg)
+![MDR Sachsen-Anhalt](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mdr_san.jpg)
 
 | Attribute      | Value                                                                                                                                            |
 | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Site           | [https://www.stern.de/](https://www.stern.de/)                                                                                                                 |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/sternde.xml)                                                              |
-| Twitter handle | [@sternde](https://www.twitter.com/sternde)                                                                                  |
-| Location       | Hamburg                                                                                                                              |
+| Site           | [https://www.mdr.de/nachrichten/index.html](https://www.mdr.de/nachrichten/index.html)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/mdr_san.xml)                                                              |
+| Twitter handle | [@MDR_SAN](https://www.twitter.com/MDR_SAN)                                                                                  |
+| Location       | Magdeburg                                                                                                                              |
 | Timezone       | Europe/Berlin                                                                                                                              |
 | Bundles        | <a href="../bundles/germany.html">Germany</a>  |
 

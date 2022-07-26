@@ -16,7 +16,7 @@ orphan: true
 | Twitter handle | [@quintoelab](https://www.twitter.com/quintoelab)                                                                                  |
 | Location       | Mexico City                                                                                                                              |
 | Timezone       | America/Mexico_City                                                                                                                              |
-| Bundles        |  |
+| Bundles        | <a href="../bundles/mexico.html">Mexico</a>  |
 
 ## Screenshots
 

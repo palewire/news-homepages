@@ -16,7 +16,7 @@ orphan: true
 | Twitter handle | [@Florida_Bulldog](https://www.twitter.com/Florida_Bulldog)                                                                                  |
 | Location       | Fort Lauderdale                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
-| Bundles        |  |
+| Bundles        | <a href="../bundles/florida.html">Florida</a>  |
 
 ## Screenshots
 

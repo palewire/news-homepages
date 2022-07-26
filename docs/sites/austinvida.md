@@ -16,7 +16,7 @@ orphan: true
 | Twitter handle | [@AustinVida](https://www.twitter.com/AustinVida)                                                                                  |
 | Location       | Austin                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
-| Bundles        |  |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
 ## Screenshots
 

@@ -5,16 +5,16 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# Stern
+# Zeit
 
-![Stern](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sternde.jpg)
+![Zeit](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/zeitonline.jpg)
 
 | Attribute      | Value                                                                                                                                            |
 | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Site           | [https://www.stern.de/](https://www.stern.de/)                                                                                                                 |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/sternde.xml)                                                              |
-| Twitter handle | [@sternde](https://www.twitter.com/sternde)                                                                                  |
-| Location       | Hamburg                                                                                                                              |
+| Site           | [https://www.zeit.de/](https://www.zeit.de/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/zeitonline.xml)                                                              |
+| Twitter handle | [@zeitonline](https://www.twitter.com/zeitonline)                                                                                  |
+| Location       | Berlin                                                                                                                              |
 | Timezone       | Europe/Berlin                                                                                                                              |
 | Bundles        | <a href="../bundles/germany.html">Germany</a>  |
 

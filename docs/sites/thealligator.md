@@ -16,7 +16,7 @@ orphan: true
 | Twitter handle | [@TheAlligator](https://www.twitter.com/TheAlligator)                                                                                  |
 | Location       | Gainesville                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
-| Bundles        |  |
+| Bundles        | <a href="../bundles/florida.html">Florida</a>,  <a href="../bundles/student.html">Student</a>  |
 
 ## Screenshots
 

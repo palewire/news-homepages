@@ -16,7 +16,7 @@ orphan: true
 | Twitter handle | [@BreckTexan](https://www.twitter.com/BreckTexan)                                                                                  |
 | Location       | Breckenridge                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
-| Bundles        |  |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
 ## Screenshots
 

@@ -7,9 +7,18 @@ orphan: true
 
 # Student
 
-The most recent homepages from 4 news sites in this bundle.
+The most recent homepages from 6 news sites in this bundle.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thealligator.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thealligator.jpg"
+     alt="Alligator"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thealligator.html">Alligator</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/dailypenn.html">
@@ -39,6 +48,15 @@ The most recent homepages from 4 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/mcgilldaily.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mcgilldaily.jpg"
+     alt="McGill Daily"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/mcgilldaily.html">McGill Daily</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/uwogazette.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/uwogazette.jpg"
      alt="Western Gazette"
@@ -62,7 +80,9 @@ The most recent homepages from 4 news sites in this bundle.
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
+|[Alligator](https://palewi.re/docs/news-homepages/sites/thealligator.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thealligator.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thealligator.xml)|
 |[Daily Penn](https://palewi.re/docs/news-homepages/sites/dailypenn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailypenn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailypenn.xml)|
 |[DePaulia](https://palewi.re/docs/news-homepages/sites/thedepaulia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedepaulia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedepaulia.xml)|
 |[Grady Newsource](https://palewi.re/docs/news-homepages/sites/gradynewsource.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gradynewsource.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gradynewsource.xml)|
+|[McGill Daily](https://palewi.re/docs/news-homepages/sites/mcgilldaily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mcgilldaily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mcgilldaily.xml)|
 |[Western Gazette](https://palewi.re/docs/news-homepages/sites/uwogazette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/uwogazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/uwogazette.xml)|
