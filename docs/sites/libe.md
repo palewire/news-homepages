@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/libe-2022/libe-2022-07-25T15:13:04.616404+02:00.jpg">
   <img src="https://archive.org/download/libe-2022/libe-2022-07-25T15:13:04.616404+02:00.jpg"
-     alt="Libération at 2022-07-25 22:13:06+02:00 local time"
+     alt="Libération at 2022-07-25 15:13:06+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-07-25T15:13:04.616404+02:00.jpg">July 25 at 10:13 PM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-25T15:13:04.616404+02:00.jpg">July 25 at 3:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/libe-2022/libe-2022-07-25T10:09:14.313438+02:00.jpg">
   <img src="https://archive.org/download/libe-2022/libe-2022-07-25T10:09:14.313438+02:00.jpg"
-     alt="Libération at 2022-07-25 17:09:21+02:00 local time"
+     alt="Libération at 2022-07-25 10:09:21+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-07-25T10:09:14.313438+02:00.jpg">July 25 at 5:09 PM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-25T10:09:14.313438+02:00.jpg">July 25 at 10:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/libe-2022/libe-2022-07-25T05:30:10.703895+02:00.jpg">
   <img src="https://archive.org/download/libe-2022/libe-2022-07-25T05:30:10.703895+02:00.jpg"
-     alt="Libération at 2022-07-25 12:30:12+02:00 local time"
+     alt="Libération at 2022-07-25 05:30:12+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-07-25T05:30:10.703895+02:00.jpg">July 25 at 12:30 PM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-25T05:30:10.703895+02:00.jpg">July 25 at 5:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/libe-2022/libe-2022-07-24T15:01:47.916697+02:00.jpg">
   <img src="https://archive.org/download/libe-2022/libe-2022-07-24T15:01:47.916697+02:00.jpg"
-     alt="Libération at 2022-07-24 22:01:50+02:00 local time"
+     alt="Libération at 2022-07-24 15:01:50+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-07-24T15:01:47.916697+02:00.jpg">July 24 at 10:01 PM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-24T15:01:47.916697+02:00.jpg">July 24 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/libe-2022/libe-2022-07-24T10:09:50.626214+02:00.jpg">
   <img src="https://archive.org/download/libe-2022/libe-2022-07-24T10:09:50.626214+02:00.jpg"
-     alt="Libération at 2022-07-24 17:09:51+02:00 local time"
+     alt="Libération at 2022-07-24 10:09:51+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-07-24T10:09:50.626214+02:00.jpg">July 24 at 5:09 PM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-24T10:09:50.626214+02:00.jpg">July 24 at 10:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/libe-2022/libe-2022-07-24T06:17:49.305341+02:00.jpg">
   <img src="https://archive.org/download/libe-2022/libe-2022-07-24T06:17:49.305341+02:00.jpg"
-     alt="Libération at 2022-07-24 13:17:50+02:00 local time"
+     alt="Libération at 2022-07-24 06:17:50+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-07-24T06:17:49.305341+02:00.jpg">July 24 at 1:17 PM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-24T06:17:49.305341+02:00.jpg">July 24 at 6:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/libe-2022/libe-2022-07-23T17:00:14.335481+02:00.jpg">
   <img src="https://archive.org/download/libe-2022/libe-2022-07-23T17:00:14.335481+02:00.jpg"
-     alt="Libération at 2022-07-24 00:00:21+02:00 local time"
+     alt="Libération at 2022-07-23 17:00:21+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-07-23T17:00:14.335481+02:00.jpg">July 24 at 12:00 AM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-23T17:00:14.335481+02:00.jpg">July 23 at 5:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/libe-2022/libe-2022-07-23T10:06:50.750448+02:00.jpg">
   <img src="https://archive.org/download/libe-2022/libe-2022-07-23T10:06:50.750448+02:00.jpg"
-     alt="Libération at 2022-07-23 17:06:52+02:00 local time"
+     alt="Libération at 2022-07-23 10:06:52+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-07-23T10:06:50.750448+02:00.jpg">July 23 at 5:06 PM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-23T10:06:50.750448+02:00.jpg">July 23 at 10:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/libe-2022/libe-2022-07-23T05:30:53.419052+02:00.jpg">
   <img src="https://archive.org/download/libe-2022/libe-2022-07-23T05:30:53.419052+02:00.jpg"
-     alt="Libération at 2022-07-23 12:30:59+02:00 local time"
+     alt="Libération at 2022-07-23 05:30:59+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-07-23T05:30:53.419052+02:00.jpg">July 23 at 12:30 PM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-23T05:30:53.419052+02:00.jpg">July 23 at 5:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/libe-2022/libe-2022-07-22T16:56:46.625129+02:00.jpg">
   <img src="https://archive.org/download/libe-2022/libe-2022-07-22T16:56:46.625129+02:00.jpg"
-     alt="Libération at 2022-07-22 23:56:48+02:00 local time"
+     alt="Libération at 2022-07-22 16:56:48+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-07-22T16:56:46.625129+02:00.jpg">July 22 at 11:56 PM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-22T16:56:46.625129+02:00.jpg">July 22 at 4:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/libe-2022/libe-2022-07-22T10:07:00.904963+02:00.jpg">
   <img src="https://archive.org/download/libe-2022/libe-2022-07-22T10:07:00.904963+02:00.jpg"
-     alt="Libération at 2022-07-22 17:07:02+02:00 local time"
+     alt="Libération at 2022-07-22 10:07:02+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-07-22T10:07:00.904963+02:00.jpg">July 22 at 5:07 PM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-22T10:07:00.904963+02:00.jpg">July 22 at 10:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/libe-2022/libe-2022-07-22T05:34:53.116028+02:00.jpg">
   <img src="https://archive.org/download/libe-2022/libe-2022-07-22T05:34:53.116028+02:00.jpg"
-     alt="Libération at 2022-07-22 12:34:55+02:00 local time"
+     alt="Libération at 2022-07-22 05:34:55+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-07-22T05:34:53.116028+02:00.jpg">July 22 at 12:34 PM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-07-22T05:34:53.116028+02:00.jpg">July 22 at 5:34 AM</a></p>
 </div>
 
 </div>

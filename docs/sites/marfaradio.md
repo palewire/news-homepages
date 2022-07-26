@@ -31,109 +31,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T19:19:47.464264-05:00.jpg">
   <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T19:19:47.464264-05:00.jpg"
-     alt="Marfa Public Radio at 2022-07-26 02:19:49-05:00 local time"
+     alt="Marfa Public Radio at 2022-07-25 19:19:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T19:19:47.464264-05:00.jpg">July 26 at 2:19 AM</a></p>
+ <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T19:19:47.464264-05:00.jpg">July 25 at 7:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T08:14:05.429898-05:00.jpg">
   <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T08:14:05.429898-05:00.jpg"
-     alt="Marfa Public Radio at 2022-07-25 15:14:06-05:00 local time"
+     alt="Marfa Public Radio at 2022-07-25 08:14:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T08:14:05.429898-05:00.jpg">July 25 at 3:14 PM</a></p>
+ <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T08:14:05.429898-05:00.jpg">July 25 at 8:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-24T22:30:14.630247-05:00.jpg">
   <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-24T22:30:14.630247-05:00.jpg"
-     alt="Marfa Public Radio at 2022-07-25 05:30:16-05:00 local time"
+     alt="Marfa Public Radio at 2022-07-24 22:30:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-24T22:30:14.630247-05:00.jpg">July 25 at 5:30 AM</a></p>
+ <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-24T22:30:14.630247-05:00.jpg">July 24 at 10:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-24T08:02:32.963582-05:00.jpg">
   <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-24T08:02:32.963582-05:00.jpg"
-     alt="Marfa Public Radio at 2022-07-24 15:02:34-05:00 local time"
+     alt="Marfa Public Radio at 2022-07-24 08:02:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-24T08:02:32.963582-05:00.jpg">July 24 at 3:02 PM</a></p>
+ <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-24T08:02:32.963582-05:00.jpg">July 24 at 8:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-23T23:17:48.235071-05:00.jpg">
   <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-23T23:17:48.235071-05:00.jpg"
-     alt="Marfa Public Radio at 2022-07-24 06:17:49-05:00 local time"
+     alt="Marfa Public Radio at 2022-07-23 23:17:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-23T23:17:48.235071-05:00.jpg">July 24 at 6:17 AM</a></p>
+ <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-23T23:17:48.235071-05:00.jpg">July 23 at 11:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-23T10:00:33.988110-05:00.jpg">
   <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-23T10:00:33.988110-05:00.jpg"
-     alt="Marfa Public Radio at 2022-07-23 17:00:35-05:00 local time"
+     alt="Marfa Public Radio at 2022-07-23 10:00:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-23T10:00:33.988110-05:00.jpg">July 23 at 5:00 PM</a></p>
+ <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-23T10:00:33.988110-05:00.jpg">July 23 at 10:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-22T22:30:36.035989-05:00.jpg">
   <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-22T22:30:36.035989-05:00.jpg"
-     alt="Marfa Public Radio at 2022-07-23 05:30:37-05:00 local time"
+     alt="Marfa Public Radio at 2022-07-22 22:30:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-22T22:30:36.035989-05:00.jpg">July 23 at 5:30 AM</a></p>
+ <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-22T22:30:36.035989-05:00.jpg">July 22 at 10:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-22T09:56:34.493066-05:00.jpg">
   <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-22T09:56:34.493066-05:00.jpg"
-     alt="Marfa Public Radio at 2022-07-22 16:56:35-05:00 local time"
+     alt="Marfa Public Radio at 2022-07-22 09:56:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-22T09:56:34.493066-05:00.jpg">July 22 at 4:56 PM</a></p>
+ <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-22T09:56:34.493066-05:00.jpg">July 22 at 9:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-21T22:34:57.674706-05:00.jpg">
   <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-21T22:34:57.674706-05:00.jpg"
-     alt="Marfa Public Radio at 2022-07-22 05:34:59-05:00 local time"
+     alt="Marfa Public Radio at 2022-07-21 22:34:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-21T22:34:57.674706-05:00.jpg">July 22 at 5:34 AM</a></p>
+ <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-21T22:34:57.674706-05:00.jpg">July 21 at 10:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-21T10:28:56.944525-05:00.jpg">
   <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-21T10:28:56.944525-05:00.jpg"
-     alt="Marfa Public Radio at 2022-07-21 17:28:58-05:00 local time"
+     alt="Marfa Public Radio at 2022-07-21 10:28:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-21T10:28:56.944525-05:00.jpg">July 21 at 5:28 PM</a></p>
+ <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-21T10:28:56.944525-05:00.jpg">July 21 at 10:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-20T22:33:42.147210-05:00.jpg">
   <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-20T22:33:42.147210-05:00.jpg"
-     alt="Marfa Public Radio at 2022-07-21 05:33:44-05:00 local time"
+     alt="Marfa Public Radio at 2022-07-20 22:33:44-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-20T22:33:42.147210-05:00.jpg">July 21 at 5:33 AM</a></p>
+ <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-20T22:33:42.147210-05:00.jpg">July 20 at 10:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-20T11:07:01.821798-05:00.jpg">
   <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-20T11:07:01.821798-05:00.jpg"
-     alt="Marfa Public Radio at 2022-07-20 18:07:03-05:00 local time"
+     alt="Marfa Public Radio at 2022-07-20 11:07:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-20T11:07:01.821798-05:00.jpg">July 20 at 6:07 PM</a></p>
+ <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-20T11:07:01.821798-05:00.jpg">July 20 at 11:07 AM</a></p>
 </div>
 
 </div>

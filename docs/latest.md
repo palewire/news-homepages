@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 644 news sites.
+The most recent homepages captured from 645 news sites.
 
 <div class="latest-parent">
 
@@ -1787,6 +1787,15 @@ The most recent homepages captured from 644 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/elpaisuy.html">El Pais</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/elpasotimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/elpasotimes.jpg"
+     alt="El Paso Times"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/elpasotimes.html">El Paso Times</a></p>
 </div>
 
 <div class="latest-child">

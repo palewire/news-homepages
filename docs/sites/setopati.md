@@ -31,28 +31,28 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/setopati-2022/setopati-2022-07-25T21:26:42.636116+05:45.jpg">
   <img src="https://archive.org/download/setopati-2022/setopati-2022-07-25T21:26:42.636116+05:45.jpg"
-     alt="Setopati at 2022-07-26 04:26:44+05:45 local time"
+     alt="Setopati at 2022-07-25 21:26:44+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/setopati-2022/setopati-2022-07-25T21:26:42.636116+05:45.jpg">July 26 at 4:26 AM</a></p>
+ <p><a href="https://archive.org/download/setopati-2022/setopati-2022-07-25T21:26:42.636116+05:45.jpg">July 25 at 9:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/setopati-2022/setopati-2022-07-25T09:28:12.225560+05:45.jpg">
   <img src="https://archive.org/download/setopati-2022/setopati-2022-07-25T09:28:12.225560+05:45.jpg"
-     alt="Setopati at 2022-07-25 16:28:13+05:45 local time"
+     alt="Setopati at 2022-07-25 09:28:13+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/setopati-2022/setopati-2022-07-25T09:28:12.225560+05:45.jpg">July 25 at 4:28 PM</a></p>
+ <p><a href="https://archive.org/download/setopati-2022/setopati-2022-07-25T09:28:12.225560+05:45.jpg">July 25 at 9:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/setopati-2022/setopati-2022-07-25T02:24:17.646796+05:45.jpg">
   <img src="https://archive.org/download/setopati-2022/setopati-2022-07-25T02:24:17.646796+05:45.jpg"
-     alt="Setopati at 2022-07-25 09:24:23+05:45 local time"
+     alt="Setopati at 2022-07-25 02:24:23+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/setopati-2022/setopati-2022-07-25T02:24:17.646796+05:45.jpg">July 25 at 9:24 AM</a></p>
+ <p><a href="https://archive.org/download/setopati-2022/setopati-2022-07-25T02:24:17.646796+05:45.jpg">July 25 at 2:24 AM</a></p>
 </div>
 
 </div>

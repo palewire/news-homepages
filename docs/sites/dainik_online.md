@@ -31,28 +31,28 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-25T17:43:40.498335+05:45.jpg">
   <img src="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-25T17:43:40.498335+05:45.jpg"
-     alt="Danik Online at 2022-07-26 00:43:42+05:45 local time"
+     alt="Danik Online at 2022-07-25 17:43:42+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-25T17:43:40.498335+05:45.jpg">July 26 at 12:43 AM</a></p>
+ <p><a href="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-25T17:43:40.498335+05:45.jpg">July 25 at 5:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-25T06:43:56.876889+05:45.jpg">
   <img src="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-25T06:43:56.876889+05:45.jpg"
-     alt="Danik Online at 2022-07-25 13:43:58+05:45 local time"
+     alt="Danik Online at 2022-07-25 06:43:58+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-25T06:43:56.876889+05:45.jpg">July 25 at 1:43 PM</a></p>
+ <p><a href="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-25T06:43:56.876889+05:45.jpg">July 25 at 6:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-25T02:21:59.885035+05:45.jpg">
   <img src="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-25T02:21:59.885035+05:45.jpg"
-     alt="Danik Online at 2022-07-25 09:22:05+05:45 local time"
+     alt="Danik Online at 2022-07-25 02:22:05+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-25T02:21:59.885035+05:45.jpg">July 25 at 9:22 AM</a></p>
+ <p><a href="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-25T02:21:59.885035+05:45.jpg">July 25 at 2:22 AM</a></p>
 </div>
 
 </div>

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/nypost-2022/nypost-2022-07-25T11:34:41.013253-04:00.jpg">
   <img src="https://archive.org/download/nypost-2022/nypost-2022-07-25T11:34:41.013253-04:00.jpg"
-     alt="New York Post at 2022-07-25 18:34:43-04:00 local time"
+     alt="New York Post at 2022-07-25 11:34:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-25T11:34:41.013253-04:00.jpg">July 25 at 6:34 PM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-25T11:34:41.013253-04:00.jpg">July 25 at 11:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nypost-2022/nypost-2022-07-24T23:37:37.711518-04:00.jpg">
   <img src="https://archive.org/download/nypost-2022/nypost-2022-07-24T23:37:37.711518-04:00.jpg"
-     alt="New York Post at 2022-07-25 06:37:39-04:00 local time"
+     alt="New York Post at 2022-07-24 23:37:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-24T23:37:37.711518-04:00.jpg">July 25 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-24T23:37:37.711518-04:00.jpg">July 24 at 11:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nypost-2022/nypost-2022-07-24T09:58:16.955454-04:00.jpg">
   <img src="https://archive.org/download/nypost-2022/nypost-2022-07-24T09:58:16.955454-04:00.jpg"
-     alt="New York Post at 2022-07-24 16:58:19-04:00 local time"
+     alt="New York Post at 2022-07-24 09:58:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-24T09:58:16.955454-04:00.jpg">July 24 at 4:58 PM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-24T09:58:16.955454-04:00.jpg">July 24 at 9:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nypost-2022/nypost-2022-07-24T02:17:50.996647-04:00.jpg">
   <img src="https://archive.org/download/nypost-2022/nypost-2022-07-24T02:17:50.996647-04:00.jpg"
-     alt="New York Post at 2022-07-24 09:17:53-04:00 local time"
+     alt="New York Post at 2022-07-24 02:17:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-24T02:17:50.996647-04:00.jpg">July 24 at 9:17 AM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-24T02:17:50.996647-04:00.jpg">July 24 at 2:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nypost-2022/nypost-2022-07-23T11:04:36.449391-04:00.jpg">
   <img src="https://archive.org/download/nypost-2022/nypost-2022-07-23T11:04:36.449391-04:00.jpg"
-     alt="New York Post at 2022-07-23 18:04:38-04:00 local time"
+     alt="New York Post at 2022-07-23 11:04:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-23T11:04:36.449391-04:00.jpg">July 23 at 6:04 PM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-23T11:04:36.449391-04:00.jpg">July 23 at 11:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nypost-2022/nypost-2022-07-22T23:34:59.300130-04:00.jpg">
   <img src="https://archive.org/download/nypost-2022/nypost-2022-07-22T23:34:59.300130-04:00.jpg"
-     alt="New York Post at 2022-07-23 06:35:00-04:00 local time"
+     alt="New York Post at 2022-07-22 23:35:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-22T23:34:59.300130-04:00.jpg">July 23 at 6:35 AM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-22T23:34:59.300130-04:00.jpg">July 22 at 11:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nypost-2022/nypost-2022-07-22T11:00:13.107618-04:00.jpg">
   <img src="https://archive.org/download/nypost-2022/nypost-2022-07-22T11:00:13.107618-04:00.jpg"
-     alt="New York Post at 2022-07-22 18:00:14-04:00 local time"
+     alt="New York Post at 2022-07-22 11:00:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-22T11:00:13.107618-04:00.jpg">July 22 at 6:00 PM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-22T11:00:13.107618-04:00.jpg">July 22 at 11:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nypost-2022/nypost-2022-07-21T23:39:02.501934-04:00.jpg">
   <img src="https://archive.org/download/nypost-2022/nypost-2022-07-21T23:39:02.501934-04:00.jpg"
-     alt="New York Post at 2022-07-22 06:39:06-04:00 local time"
+     alt="New York Post at 2022-07-21 23:39:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-21T23:39:02.501934-04:00.jpg">July 22 at 6:39 AM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-21T23:39:02.501934-04:00.jpg">July 21 at 11:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nypost-2022/nypost-2022-07-21T11:35:19.116647-04:00.jpg">
   <img src="https://archive.org/download/nypost-2022/nypost-2022-07-21T11:35:19.116647-04:00.jpg"
-     alt="New York Post at 2022-07-21 18:35:21-04:00 local time"
+     alt="New York Post at 2022-07-21 11:35:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-21T11:35:19.116647-04:00.jpg">July 21 at 6:35 PM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-21T11:35:19.116647-04:00.jpg">July 21 at 11:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nypost-2022/nypost-2022-07-20T23:37:32.133404-04:00.jpg">
   <img src="https://archive.org/download/nypost-2022/nypost-2022-07-20T23:37:32.133404-04:00.jpg"
-     alt="New York Post at 2022-07-21 06:37:34-04:00 local time"
+     alt="New York Post at 2022-07-20 23:37:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-20T23:37:32.133404-04:00.jpg">July 21 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-20T23:37:32.133404-04:00.jpg">July 20 at 11:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nypost-2022/nypost-2022-07-20T12:11:25.529328-04:00.jpg">
   <img src="https://archive.org/download/nypost-2022/nypost-2022-07-20T12:11:25.529328-04:00.jpg"
-     alt="New York Post at 2022-07-20 19:11:27-04:00 local time"
+     alt="New York Post at 2022-07-20 12:11:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-20T12:11:25.529328-04:00.jpg">July 20 at 7:11 PM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-20T12:11:25.529328-04:00.jpg">July 20 at 12:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nypost-2022/nypost-2022-07-19T23:35:30.740138-04:00.jpg">
   <img src="https://archive.org/download/nypost-2022/nypost-2022-07-19T23:35:30.740138-04:00.jpg"
-     alt="New York Post at 2022-07-20 06:35:34-04:00 local time"
+     alt="New York Post at 2022-07-19 23:35:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-19T23:35:30.740138-04:00.jpg">July 20 at 6:35 AM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-19T23:35:30.740138-04:00.jpg">July 19 at 11:35 PM</a></p>
 </div>
 
 </div>

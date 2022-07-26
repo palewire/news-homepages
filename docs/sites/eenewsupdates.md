@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T19:13:05.967872-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T19:13:05.967872-04:00.jpg"
-     alt="E&E News at 2022-07-26 02:13:07-04:00 local time"
+     alt="E&E News at 2022-07-25 19:13:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T19:13:05.967872-04:00.jpg">July 26 at 2:13 AM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T19:13:05.967872-04:00.jpg">July 25 at 7:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T08:00:16.998924-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T08:00:16.998924-04:00.jpg"
-     alt="E&E News at 2022-07-25 15:00:19-04:00 local time"
+     alt="E&E News at 2022-07-25 08:00:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T08:00:16.998924-04:00.jpg">July 25 at 3:00 PM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T08:00:16.998924-04:00.jpg">July 25 at 8:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T21:02:25.138615-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T21:02:25.138615-04:00.jpg"
-     alt="E&E News at 2022-07-25 04:02:26-04:00 local time"
+     alt="E&E News at 2022-07-24 21:02:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T21:02:25.138615-04:00.jpg">July 25 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T21:02:25.138615-04:00.jpg">July 24 at 9:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T07:58:07.542481-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T07:58:07.542481-04:00.jpg"
-     alt="E&E News at 2022-07-24 14:58:09-04:00 local time"
+     alt="E&E News at 2022-07-24 07:58:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T07:58:07.542481-04:00.jpg">July 24 at 2:58 PM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T07:58:07.542481-04:00.jpg">July 24 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T02:28:16.768727-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T02:28:16.768727-04:00.jpg"
-     alt="E&E News at 2022-07-24 09:28:20-04:00 local time"
+     alt="E&E News at 2022-07-24 02:28:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T02:28:16.768727-04:00.jpg">July 24 at 9:28 AM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T02:28:16.768727-04:00.jpg">July 24 at 2:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-23T09:57:42.738583-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-23T09:57:42.738583-04:00.jpg"
-     alt="E&E News at 2022-07-23 16:57:44-04:00 local time"
+     alt="E&E News at 2022-07-23 09:57:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-23T09:57:42.738583-04:00.jpg">July 23 at 4:57 PM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-23T09:57:42.738583-04:00.jpg">July 23 at 9:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-22T22:25:02.290946-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-22T22:25:02.290946-04:00.jpg"
-     alt="E&E News at 2022-07-23 05:25:03-04:00 local time"
+     alt="E&E News at 2022-07-22 22:25:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-22T22:25:02.290946-04:00.jpg">July 23 at 5:25 AM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-22T22:25:02.290946-04:00.jpg">July 22 at 10:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-22T09:59:17.403227-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-22T09:59:17.403227-04:00.jpg"
-     alt="E&E News at 2022-07-22 16:59:19-04:00 local time"
+     alt="E&E News at 2022-07-22 09:59:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-22T09:59:17.403227-04:00.jpg">July 22 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-22T09:59:17.403227-04:00.jpg">July 22 at 9:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-21T22:18:27.057219-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-21T22:18:27.057219-04:00.jpg"
-     alt="E&E News at 2022-07-22 05:18:28-04:00 local time"
+     alt="E&E News at 2022-07-21 22:18:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-21T22:18:27.057219-04:00.jpg">July 22 at 5:18 AM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-21T22:18:27.057219-04:00.jpg">July 21 at 10:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-21T10:04:01.494416-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-21T10:04:01.494416-04:00.jpg"
-     alt="E&E News at 2022-07-21 17:04:03-04:00 local time"
+     alt="E&E News at 2022-07-21 10:04:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-21T10:04:01.494416-04:00.jpg">July 21 at 5:04 PM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-21T10:04:01.494416-04:00.jpg">July 21 at 10:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-20T22:21:35.847862-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-20T22:21:35.847862-04:00.jpg"
-     alt="E&E News at 2022-07-21 05:21:37-04:00 local time"
+     alt="E&E News at 2022-07-20 22:21:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-20T22:21:35.847862-04:00.jpg">July 21 at 5:21 AM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-20T22:21:35.847862-04:00.jpg">July 20 at 10:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-20T10:18:26.788452-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-20T10:18:26.788452-04:00.jpg"
-     alt="E&E News at 2022-07-20 17:18:29-04:00 local time"
+     alt="E&E News at 2022-07-20 10:18:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-20T10:18:26.788452-04:00.jpg">July 20 at 5:18 PM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-20T10:18:26.788452-04:00.jpg">July 20 at 10:18 AM</a></p>
 </div>
 
 </div>

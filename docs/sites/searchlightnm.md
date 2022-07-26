@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-25T09:40:59.692519-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-25T09:40:59.692519-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-07-25 16:41:01-06:00 local time"
+     alt="Searchlight New Mexico at 2022-07-25 09:41:01-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-25T09:40:59.692519-06:00.jpg">July 25 at 4:41 PM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-25T09:40:59.692519-06:00.jpg">July 25 at 9:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-24T21:43:05.911088-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-24T21:43:05.911088-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-07-25 04:43:09-06:00 local time"
+     alt="Searchlight New Mexico at 2022-07-24 21:43:09-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-24T21:43:05.911088-06:00.jpg">July 25 at 4:43 AM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-24T21:43:05.911088-06:00.jpg">July 24 at 9:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-24T08:03:44.661388-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-24T08:03:44.661388-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-07-24 15:03:49-06:00 local time"
+     alt="Searchlight New Mexico at 2022-07-24 08:03:49-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-24T08:03:44.661388-06:00.jpg">July 24 at 3:03 PM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-24T08:03:44.661388-06:00.jpg">July 24 at 8:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-24T00:23:17.133404-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-24T00:23:17.133404-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-07-24 07:23:20-06:00 local time"
+     alt="Searchlight New Mexico at 2022-07-24 00:23:20-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-24T00:23:17.133404-06:00.jpg">July 24 at 7:23 AM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-24T00:23:17.133404-06:00.jpg">July 24 at 12:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-23T10:01:52.886743-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-23T10:01:52.886743-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-07-23 17:01:54-06:00 local time"
+     alt="Searchlight New Mexico at 2022-07-23 10:01:54-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-23T10:01:52.886743-06:00.jpg">July 23 at 5:01 PM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-23T10:01:52.886743-06:00.jpg">July 23 at 10:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-22T22:22:19.567201-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-22T22:22:19.567201-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-07-23 05:22:21-06:00 local time"
+     alt="Searchlight New Mexico at 2022-07-22 22:22:21-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-22T22:22:19.567201-06:00.jpg">July 23 at 5:22 AM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-22T22:22:19.567201-06:00.jpg">July 22 at 10:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-22T10:14:00.236938-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-22T10:14:00.236938-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-07-22 17:14:01-06:00 local time"
+     alt="Searchlight New Mexico at 2022-07-22 10:14:01-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-22T10:14:00.236938-06:00.jpg">July 22 at 5:14 PM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-22T10:14:00.236938-06:00.jpg">July 22 at 10:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-21T22:28:14.124239-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-21T22:28:14.124239-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-07-22 05:28:16-06:00 local time"
+     alt="Searchlight New Mexico at 2022-07-21 22:28:16-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-21T22:28:14.124239-06:00.jpg">July 22 at 5:28 AM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-21T22:28:14.124239-06:00.jpg">July 21 at 10:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-21T10:52:26.954468-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-21T10:52:26.954468-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-07-21 17:52:31-06:00 local time"
+     alt="Searchlight New Mexico at 2022-07-21 10:52:31-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-21T10:52:26.954468-06:00.jpg">July 21 at 5:52 PM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-21T10:52:26.954468-06:00.jpg">July 21 at 10:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-20T22:27:57.240078-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-20T22:27:57.240078-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-07-21 05:27:58-06:00 local time"
+     alt="Searchlight New Mexico at 2022-07-20 22:27:58-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-20T22:27:57.240078-06:00.jpg">July 21 at 5:27 AM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-20T22:27:57.240078-06:00.jpg">July 20 at 10:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-20T10:43:09.236861-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-20T10:43:09.236861-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-07-20 17:43:13-06:00 local time"
+     alt="Searchlight New Mexico at 2022-07-20 10:43:13-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-20T10:43:09.236861-06:00.jpg">July 20 at 5:43 PM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-20T10:43:09.236861-06:00.jpg">July 20 at 10:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-19T22:18:41.190234-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-19T22:18:41.190234-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-07-20 05:18:42-06:00 local time"
+     alt="Searchlight New Mexico at 2022-07-19 22:18:42-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-19T22:18:41.190234-06:00.jpg">July 20 at 5:18 AM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-19T22:18:41.190234-06:00.jpg">July 19 at 10:18 PM</a></p>
 </div>
 
 </div>

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T19:11:51.656065-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T19:11:51.656065-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-26 02:11:54-04:00 local time"
+     alt="Delaware Public Media at 2022-07-25 19:11:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T19:11:51.656065-04:00.jpg">July 26 at 2:11 AM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T19:11:51.656065-04:00.jpg">July 25 at 7:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T08:00:21.853427-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T08:00:21.853427-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-25 15:00:23-04:00 local time"
+     alt="Delaware Public Media at 2022-07-25 08:00:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T08:00:21.853427-04:00.jpg">July 25 at 3:00 PM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T08:00:21.853427-04:00.jpg">July 25 at 8:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T21:00:19.372491-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T21:00:19.372491-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-25 04:00:20-04:00 local time"
+     alt="Delaware Public Media at 2022-07-24 21:00:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T21:00:19.372491-04:00.jpg">July 25 at 4:00 AM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T21:00:19.372491-04:00.jpg">July 24 at 9:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T07:57:20.451446-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T07:57:20.451446-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-24 14:57:22-04:00 local time"
+     alt="Delaware Public Media at 2022-07-24 07:57:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T07:57:20.451446-04:00.jpg">July 24 at 2:57 PM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T07:57:20.451446-04:00.jpg">July 24 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T02:27:29.111911-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T02:27:29.111911-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-24 09:27:30-04:00 local time"
+     alt="Delaware Public Media at 2022-07-24 02:27:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T02:27:29.111911-04:00.jpg">July 24 at 9:27 AM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T02:27:29.111911-04:00.jpg">July 24 at 2:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-23T09:03:50.839951-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-23T09:03:50.839951-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-23 16:03:51-04:00 local time"
+     alt="Delaware Public Media at 2022-07-23 09:03:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-23T09:03:50.839951-04:00.jpg">July 23 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-23T09:03:50.839951-04:00.jpg">July 23 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-22T21:04:11.476680-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-22T21:04:11.476680-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-23 04:04:13-04:00 local time"
+     alt="Delaware Public Media at 2022-07-22 21:04:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-22T21:04:11.476680-04:00.jpg">July 23 at 4:04 AM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-22T21:04:11.476680-04:00.jpg">July 22 at 9:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-22T09:03:49.717131-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-22T09:03:49.717131-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-22 16:03:51-04:00 local time"
+     alt="Delaware Public Media at 2022-07-22 09:03:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-22T09:03:49.717131-04:00.jpg">July 22 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-22T09:03:49.717131-04:00.jpg">July 22 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-21T21:12:10.307347-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-21T21:12:10.307347-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-22 04:12:19-04:00 local time"
+     alt="Delaware Public Media at 2022-07-21 21:12:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-21T21:12:10.307347-04:00.jpg">July 22 at 4:12 AM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-21T21:12:10.307347-04:00.jpg">July 21 at 9:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-21T08:57:38.991863-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-21T08:57:38.991863-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-21 15:57:40-04:00 local time"
+     alt="Delaware Public Media at 2022-07-21 08:57:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-21T08:57:38.991863-04:00.jpg">July 21 at 3:57 PM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-21T08:57:38.991863-04:00.jpg">July 21 at 8:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-20T21:10:28.158152-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-20T21:10:28.158152-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-21 04:10:30-04:00 local time"
+     alt="Delaware Public Media at 2022-07-20 21:10:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-20T21:10:28.158152-04:00.jpg">July 21 at 4:10 AM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-20T21:10:28.158152-04:00.jpg">July 20 at 9:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-20T08:57:24.854281-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-20T08:57:24.854281-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-20 15:57:26-04:00 local time"
+     alt="Delaware Public Media at 2022-07-20 08:57:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-20T08:57:24.854281-04:00.jpg">July 20 at 3:57 PM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-20T08:57:24.854281-04:00.jpg">July 20 at 8:57 AM</a></p>
 </div>
 
 </div>

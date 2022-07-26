@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 644 sites.
+The archiving routine is currently capturing 645 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -207,6 +207,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[EdSource](https://palewi.re/docs/news-homepages/sites/edsource.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/edsource.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/edsource.xml)|
 |[Ekantipur](https://palewi.re/docs/news-homepages/sites/ek_business.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ek_business.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ek_business.xml)|
 |[El Pais](https://palewi.re/docs/news-homepages/sites/elpaisuy.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/elpaisuy.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/elpaisuy.xml)|
+|[El Paso Times](https://palewi.re/docs/news-homepages/sites/elpasotimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/elpasotimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/elpasotimes.xml)|
 |[El Periodico](https://palewi.re/docs/news-homepages/sites/elperiodico.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/elperiodico.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/elperiodico.xml)|
 |[El Tímpano](https://palewi.re/docs/news-homepages/sites/el_timpano.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/el_timpano.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/el_timpano.xml)|
 |[El Universal](https://palewi.re/docs/news-homepages/sites/el_universal_mx.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/el_universal_mx.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/el_universal_mx.xml)|
