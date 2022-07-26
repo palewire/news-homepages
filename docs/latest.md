@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 645 news sites.
+The most recent homepages captured from 650 news sites.
 
 <div class="latest-parent">
 
@@ -122,6 +122,15 @@ The most recent homepages captured from 645 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/abc.html">ABC News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/abcnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abcnews.jpg"
+     alt="ABC News"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/abcnews.html">ABC News</a></p>
 </div>
 
 <div class="latest-child">
@@ -1049,6 +1058,15 @@ The most recent homepages captured from 645 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/cpipr.html">Centro de Periodismo Investigativo</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/chalkbeat.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chalkbeat.jpg"
+     alt="Chalkbeat"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/chalkbeat.html">Chalkbeat</a></p>
 </div>
 
 <div class="latest-child">
@@ -4670,6 +4688,24 @@ The most recent homepages captured from 645 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/spacenews_inc.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spacenews_inc.jpg"
+     alt="Space News"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/spacenews_inc.html">Space News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/spacedotcom.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spacedotcom.jpg"
+     alt="Space.com"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/spacedotcom.html">Space.com</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/spokesmanreview.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spokesmanreview.jpg"
      alt="Spokesman-Review"
@@ -5594,6 +5630,15 @@ The most recent homepages captured from 645 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/wbez.html">WBEZ</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/weatherchannel.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/weatherchannel.jpg"
+     alt="Weather Channel"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/weatherchannel.html">Weather Channel</a></p>
 </div>
 
 <div class="latest-child">
