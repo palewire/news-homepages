@@ -1,5 +1,5 @@
 {
-  "created": 1658751755,
+  "created": 1658795979,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/3/items/umd_sbs-2022",
@@ -1222,31 +1222,83 @@
       "sha1": "262670ee6106e6ff292b71ececba30de2844fce9"
     },
     {
+      "name": "umd_sbs-2022-07-25T11:50:37.231257-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658764240",
+      "size": "17168",
+      "md5": "bc59e1cad7b8b8ae6bf81518d6095c14",
+      "crc32": "85eeee10",
+      "sha1": "53e697b323256762a10912db511d015a756a0d4c",
+      "format": "JSON"
+    },
+    {
+      "name": "umd_sbs-2022-07-25T11:50:37.231257-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658764242",
+      "size": "15487",
+      "md5": "0d40765e4a4d764b6804097a8ad99df2",
+      "crc32": "a98f21cd",
+      "sha1": "8dcabe03ebc1c557fcd0255efe6e46d8b582538b",
+      "format": "JSON"
+    },
+    {
+      "name": "umd_sbs-2022-07-25T11:50:37.231257-04:00.jpg",
+      "source": "original",
+      "mtime": "1658764239",
+      "size": "241868",
+      "md5": "779f5b2cb61aa9da82e82ce1fbfa7215",
+      "crc32": "864022ea",
+      "sha1": "50c630b2aae84eae1996178712f62e840646a23f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "umd_sbs-2022-07-25T11:50:37.231257-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658764244",
+      "size": "1504",
+      "md5": "9fba6d4a767a184b6c6416c6bee05c89",
+      "crc32": "49a9dcc3",
+      "sha1": "192d3d18d709413cb806ec8600ab78ff03568597",
+      "format": "JSON"
+    },
+    {
+      "name": "umd_sbs-2022-07-25T11:50:37.231257-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "umd_sbs-2022-07-25T11:50:37.231257-04:00.jpg",
+      "mtime": "1658770664",
+      "size": "7812",
+      "md5": "fbc371892577e554e53fb96691e2a30b",
+      "crc32": "39a889af",
+      "sha1": "262670ee6106e6ff292b71ececba30de2844fce9"
+    },
+    {
       "name": "umd_sbs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b0618acaf6439bb5881c80a0dbc8398f0147ba62",
-      "mtime": "1658724099",
-      "size": "25643",
-      "md5": "57aea1d7a77028a0931c2cb0be781c34",
-      "crc32": "fc8ba40c",
-      "sha1": "80e6f6bc4d60d89248a5541722198af317431b7b",
+      "btih": "d1645100d4ca0fc640bb749f45712a184aff55f6",
+      "mtime": "1658770667",
+      "size": "26677",
+      "md5": "9491a908806f74a9efdb0902dedbd424",
+      "crc32": "b25e9cd6",
+      "sha1": "40d36666498bb1b608c29893b7fb38f082513f26",
       "format": "Archive BitTorrent"
     },
     {
       "name": "umd_sbs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0d2fbe22b96facc6bd5be4084973b090",
+      "md5": "b02e51cfef66829ad7fbaf2d868c56dd",
       "summation": "md5"
     },
     {
       "name": "umd_sbs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658723968",
-      "size": "155648",
-      "md5": "4591be187a9a043b753d9a26459042e6",
-      "crc32": "47073dd6",
-      "sha1": "cc617692040f99cc58aa37bb5f5a0152d3ac0fb3",
+      "mtime": "1658764247",
+      "size": "163840",
+      "md5": "40a75c48fb6fe1ac18e9dfe3dcb80222",
+      "crc32": "2c390e76",
+      "sha1": "6e69bd55d6d3c9d07b92fef4fcd6c015ba5873a1",
       "format": "Metadata"
     },
     {
@@ -1260,9 +1312,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 120,
-  "item_last_updated": 1658724099,
-  "item_size": 8104081,
+  "files_count": 125,
+  "item_last_updated": 1658770667,
+  "item_size": 8397146,
   "metadata": {
     "identifier": "umd_sbs-2022",
     "collection": [
@@ -1284,10 +1336,10 @@
     {
       "url": "https://umdsbs.wordpress.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/umdsbs_wordpress_com-_-2022_07_25_04_21_02.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/umdsbs_wordpress_com-_-2022_07_25_04_21_02.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/umdsbs_wordpress_com-_-2022_07_25_15_08_45.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/umdsbs_wordpress_com-_-2022_07_25_15_08_45.report.json",
       "summary": {
-        "performance": 0.65,
+        "performance": 0.57,
         "accessibility": 0.96,
         "best-practices": 1,
         "seo": 0.88,
@@ -1297,10 +1349,10 @@
     {
       "url": "https://umdsbs.wordpress.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/umdsbs_wordpress_com-_-2022_07_25_04_21_14.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/umdsbs_wordpress_com-_-2022_07_25_04_21_14.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/umdsbs_wordpress_com-_-2022_07_25_15_09_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/umdsbs_wordpress_com-_-2022_07_25_15_09_11.report.json",
       "summary": {
-        "performance": 0.7,
+        "performance": 0.69,
         "accessibility": 0.96,
         "best-practices": 1,
         "seo": 0.88,
@@ -1310,10 +1362,10 @@
     {
       "url": "https://umdsbs.wordpress.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/umdsbs_wordpress_com-_-2022_07_25_04_20_51.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/umdsbs_wordpress_com-_-2022_07_25_04_20_51.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/umdsbs_wordpress_com-_-2022_07_25_15_08_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/umdsbs_wordpress_com-_-2022_07_25_15_08_59.report.json",
       "summary": {
-        "performance": 0.66,
+        "performance": 0.68,
         "accessibility": 0.96,
         "best-practices": 1,
         "seo": 0.88,
@@ -1321,7 +1373,7 @@
       }
     }
   ],
-  "uniq": 540636268,
+  "uniq": 1024179174,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

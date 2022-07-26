@@ -1,5 +1,5 @@
 {
-  "created": 1658750546,
+  "created": 1658758211,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/15/items/engadget-2022",
@@ -2533,21 +2533,32 @@
       "format": "JSON"
     },
     {
+      "name": "engadget-2022-07-25T05:01:23.142149-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "engadget-2022-07-25T05:01:23.142149-07:00.jpg",
+      "mtime": "1658758183",
+      "size": "9279",
+      "md5": "065b7bd58fd14f84d725d8ef3465ab9a",
+      "crc32": "4e749d3a",
+      "sha1": "e6a51f3c28ad6a2d4392ee6c2aa8681042588aa9"
+    },
+    {
       "name": "engadget-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e723649b2e8e96b2d655a2ddfa68072dbd11b39e",
-      "mtime": "1658750542",
-      "size": "52080",
-      "md5": "07127bfa4a76382c9a36ee12c9b4a2bb",
-      "crc32": "bebcf413",
-      "sha1": "3a318804eed7ae80c6b7930dd3bed3bd2785943f",
+      "btih": "40553776c0d91adb8c6000ad341f78b038e6a6e2",
+      "mtime": "1658758188",
+      "size": "52284",
+      "md5": "7d19c77c7a1374b107373f6f13f15f1e",
+      "crc32": "7200c2fa",
+      "sha1": "b6b81a621f7d4e572b36e5dff793f4f93a23ebe8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "engadget-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "39de8d0dabaeb75df1abc5ad8f5af2eb",
+      "md5": "5a6955211f934f529311af38ab9568d8",
       "summation": "md5"
     },
     {
@@ -2571,9 +2582,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 245,
-  "item_last_updated": 1658750542,
-  "item_size": 18010052,
+  "files_count": 246,
+  "item_last_updated": 1658758188,
+  "item_size": 18019535,
   "metadata": {
     "identifier": "engadget-2022",
     "collection": [
@@ -2590,21 +2601,10 @@
     "publicdate": "2022-07-04 20:17:31",
     "addeddate": "2022-07-04 20:17:31"
   },
-  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3343293913,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 615954529,
+  "uniq": 1275843925,
   "workable_servers": [
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

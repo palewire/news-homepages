@@ -1,5 +1,5 @@
 {
-  "created": 1658720327,
+  "created": 1658762555,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/0/items/lookoutscruz-2022",
@@ -1788,31 +1788,83 @@
       "sha1": "8aa2856866f7eae50c7f217f97ccea045baa4ea6"
     },
     {
+      "name": "lookoutscruz-2022-07-25T06:13:47.469537-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658754830",
+      "size": "14770",
+      "md5": "ce9b703f3f3af71a4955151bcd4cda00",
+      "crc32": "9a61ad5f",
+      "sha1": "ad0c3617531443bb914ab95babc97e8811b88a0f",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-07-25T06:13:47.469537-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658754832",
+      "size": "57672",
+      "md5": "fdaf87426668a87c3a937f3c7cc854ca",
+      "crc32": "5d2e0b6e",
+      "sha1": "4e750ee00cf229c942e15f453ff48a71cad75280",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-07-25T06:13:47.469537-07:00.jpg",
+      "source": "original",
+      "mtime": "1658754829",
+      "size": "291714",
+      "md5": "4f4ef9948bf4fdc0169fa46eced8303e",
+      "crc32": "e43db728",
+      "sha1": "f091571cfef79ef2e57c30f5e286ef0850fce00a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lookoutscruz-2022-07-25T06:13:47.469537-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658754834",
+      "size": "1510",
+      "md5": "b5af1bdd3441b0b15ba805ddf28021d6",
+      "crc32": "86ae1a51",
+      "sha1": "6f18f60a7bc4e4e81e6262954e58c95de5b00edc",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-07-25T06:13:47.469537-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lookoutscruz-2022-07-25T06:13:47.469537-07:00.jpg",
+      "mtime": "1658762536",
+      "size": "10911",
+      "md5": "a4cff39ab28f0317885766a237d5b15c",
+      "crc32": "a3fc8a82",
+      "sha1": "194245f956176288204a00517dc20bbee1b4fa31"
+    },
+    {
       "name": "lookoutscruz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3017aceb469d50d15045becfc5a7a15f10855f16",
-      "mtime": "1658720297",
-      "size": "38082",
-      "md5": "c5ac4911c45c796c113546713e7a54ae",
-      "crc32": "fb3609c4",
-      "sha1": "0e48802c6754e05941b247042e4fb526c5aabe0e",
+      "btih": "65bcf9b9d2fc60ee358e8763d892c4fe40393990",
+      "mtime": "1658762540",
+      "size": "39142",
+      "md5": "97bb346d8b921583726e5df42696a121",
+      "crc32": "5b06755f",
+      "sha1": "87e96140f5037da9e13c09c651f2bebf3829ccb9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lookoutscruz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "55e424da87638a8d08b657ce393ed84c",
+      "md5": "60427fafb8f29eed86d3e9f0e25f8e7f",
       "summation": "md5"
     },
     {
       "name": "lookoutscruz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658719834",
-      "size": "221184",
-      "md5": "e651b90f321a5cb47ed2f41d798887b9",
-      "crc32": "d77219f1",
-      "sha1": "7de73242d9b8be2cb89323f81ac31a696eeacc1c",
+      "mtime": "1658754838",
+      "size": "225280",
+      "md5": "40f21c4b26ff2db09691fd5ae83be90a",
+      "crc32": "f548bff4",
+      "sha1": "35b2ddbdbdf5d5a44b4d2f4df429b833ca2ded95",
       "format": "Metadata"
     },
     {
@@ -1826,9 +1878,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 174,
-  "item_last_updated": 1658720297,
-  "item_size": 17467353,
+  "files_count": 179,
+  "item_last_updated": 1658762540,
+  "item_size": 17849086,
   "metadata": {
     "identifier": "lookoutscruz-2022",
     "collection": [
@@ -1845,10 +1897,10 @@
     "publicdate": "2022-07-09 04:00:07",
     "addeddate": "2022-07-09 04:00:07"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 312077863,
+  "server": "ia801409.us.archive.org",
+  "uniq": 291846759,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658751436,
+  "created": 1658769864,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/0/items/people-2022",
@@ -1690,31 +1690,83 @@
       "sha1": "b78e97de86be35756361950485f0e9a8f236e0de"
     },
     {
+      "name": "people-2022-07-25T11:36:27.222392-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658763390",
+      "size": "35029",
+      "md5": "4b83ae2d0d1294d142185bb08d9071f5",
+      "crc32": "10a05187",
+      "sha1": "ebfad94c1d67de11abea024db581499352c7b6e0",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-07-25T11:36:27.222392-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658763392",
+      "size": "65543",
+      "md5": "c02405c28c5076a9bb03fa53e9407a0b",
+      "crc32": "2dc2110e",
+      "sha1": "c796c7ad70c303813dced7b4b208267953faa8c7",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-07-25T11:36:27.222392-04:00.jpg",
+      "source": "original",
+      "mtime": "1658763389",
+      "size": "304215",
+      "md5": "84f567e88c87530791688a043e0f7e3f",
+      "crc32": "e56e043f",
+      "sha1": "34d7247b0f683f248a51bbd893e59db48d351fde",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "people-2022-07-25T11:36:27.222392-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658763394",
+      "size": "1419",
+      "md5": "3d1eb4af3f39355da2552fbcee14a4c0",
+      "crc32": "ce9d7726",
+      "sha1": "976e45e7a1ac090d91042bdce3ebe4084ed79ccf",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-07-25T11:36:27.222392-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "people-2022-07-25T11:36:27.222392-04:00.jpg",
+      "mtime": "1658769815",
+      "size": "9972",
+      "md5": "93a08b20e13267cdecb4ab3ade9371bf",
+      "crc32": "651ca335",
+      "sha1": "ebbc23a6757adf835eb2834b134b810f39141337"
+    },
+    {
       "name": "people-2022_archive.torrent",
       "source": "metadata",
-      "btih": "208add80cd7cb34e1806f0272626f3d487c81680",
-      "mtime": "1658720952",
-      "size": "34886",
-      "md5": "8c57567d21dae91dd4c629c24ccf8c7f",
-      "crc32": "d714e53f",
-      "sha1": "aae4c18c91a9ad655d31cd482b992f4b6fb015a9",
+      "btih": "43ff8cff21442b9275f26643eafc4ad924c5a6b5",
+      "mtime": "1658769833",
+      "size": "35935",
+      "md5": "3dd47104ae03f2bf99aaa3635e44bb60",
+      "crc32": "107e7e70",
+      "sha1": "7087c30f3409cdca37b8184fed28dba1d3fca680",
       "format": "Archive BitTorrent"
     },
     {
       "name": "people-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c983b0755c5485bdf5e4b4ca20365706",
+      "md5": "edda20482d7905f97d3b47ba888dba2e",
       "summation": "md5"
     },
     {
       "name": "people-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658720411",
-      "size": "200704",
-      "md5": "59e57c9a6796393877512099eb223049",
-      "crc32": "bc7254b7",
-      "sha1": "be3bd6c9343a71a8afb638cb7ea5d16dab14b719",
+      "mtime": "1658763397",
+      "size": "208896",
+      "md5": "69f910607c5f71642f6500b29877e05a",
+      "crc32": "6fd7b868",
+      "sha1": "f1fc1d7a4ca032af985cda14c57f3e9354b80b9e",
       "format": "Metadata"
     },
     {
@@ -1728,9 +1780,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 164,
-  "item_last_updated": 1658720952,
-  "item_size": 17564877,
+  "files_count": 169,
+  "item_last_updated": 1658769833,
+  "item_size": 17990296,
   "metadata": {
     "identifier": "people-2022",
     "collection": [
@@ -1747,51 +1799,10 @@
     "publicdate": "2022-07-04 21:50:55",
     "addeddate": "2022-07-04 21:50:55"
   },
-  "people-2022": [
-    {
-      "url": "https://people.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/people_com-_-2022_07_25_02_39_21.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/people_com-_-2022_07_25_02_39_21.report.json",
-      "summary": {
-        "performance": 0.3,
-        "accessibility": 0.9,
-        "best-practices": 0.92,
-        "seo": 0.79,
-        "pwa": 0.9
-      }
-    },
-    {
-      "url": "https://people.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/people_com-_-2022_07_25_02_41_13.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/people_com-_-2022_07_25_02_41_13.report.json",
-      "summary": {
-        "performance": 0.35,
-        "accessibility": 0.9,
-        "best-practices": 0.92,
-        "seo": 0.79,
-        "pwa": 0.9
-      }
-    },
-    {
-      "url": "https://people.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/people_com-_-2022_07_25_02_40_36.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/people_com-_-2022_07_25_02_40_36.report.json",
-      "summary": {
-        "performance": 0.33,
-        "accessibility": 0.9,
-        "best-practices": 0.92,
-        "seo": 0.79,
-        "pwa": 0.9
-      }
-    }
-  ],
-  "server": "ia802507.us.archive.org",
-  "uniq": 297457395,
+  "server": "ia902507.us.archive.org",
+  "uniq": 566468451,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

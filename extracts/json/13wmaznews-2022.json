@@ -1,5 +1,5 @@
 {
-  "created": 1658749344,
+  "created": 1658790929,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/8/items/13wmaznews-2022",
@@ -497,31 +497,83 @@
       "sha1": "785ce8c41352d4c44fbebb54a9852953338d2912"
     },
     {
+      "name": "13wmaznews-2022-07-25T19:05:05.108774-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658790308",
+      "size": "23184",
+      "md5": "d8f77b1899ada6d8232b3a95049a0fb6",
+      "crc32": "ecb1518f",
+      "sha1": "a6ce03f7e78f18568f49419d11e255f9da05e719",
+      "format": "JSON"
+    },
+    {
+      "name": "13wmaznews-2022-07-25T19:05:05.108774-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658790309",
+      "size": "68507",
+      "md5": "da5b5850bdd9444c73b316fee2f4734e",
+      "crc32": "e6871a70",
+      "sha1": "9b966fda37d5407ee382cf075046b9fba27e7e1a",
+      "format": "JSON"
+    },
+    {
+      "name": "13wmaznews-2022-07-25T19:05:05.108774-04:00.jpg",
+      "source": "original",
+      "mtime": "1658790306",
+      "size": "255343",
+      "md5": "145edebec240421767a98ef357011d49",
+      "crc32": "98ade40e",
+      "sha1": "a75d3b81f95ada14913cef283e6c1903bfe5741d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "13wmaznews-2022-07-25T19:05:05.108774-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658790311",
+      "size": "1458",
+      "md5": "1f75e762a4c43731372a5656b9e087df",
+      "crc32": "359df2fa",
+      "sha1": "988b0caf01d40e417a1b1df1f56d057764d613db",
+      "format": "JSON"
+    },
+    {
+      "name": "13wmaznews-2022-07-25T19:05:05.108774-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "13wmaznews-2022-07-25T19:05:05.108774-04:00.jpg",
+      "mtime": "1658790913",
+      "size": "9278",
+      "md5": "fbd37363fa3f8d21906edb0fb5aff46d",
+      "crc32": "1fc98eab",
+      "sha1": "e5384d363fbbef6798035e336aee87876e53f208"
+    },
+    {
       "name": "13wmaznews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d432d76b00541cd801b94a496a92efad79563e72",
-      "mtime": "1658749326",
-      "size": "11615",
-      "md5": "12ca1c02856c04cb006eb98a9a2eafb2",
-      "crc32": "cbc516ee",
-      "sha1": "9d70a86ae326096f4c998403b6e814082ea3d793",
+      "btih": "31b6fc928fdc31c10844076f5dbbbff570030e7a",
+      "mtime": "1658790916",
+      "size": "12684",
+      "md5": "3967c81c447e6e727e34a0136757795b",
+      "crc32": "68071a9f",
+      "sha1": "7187fc14f79d057efd6a50991da4f87ecd71cf00",
       "format": "Archive BitTorrent"
     },
     {
       "name": "13wmaznews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b999ec8201b1c6db4739e1216b2c7a40",
+      "md5": "5bc1183776a3b7be59c56dbb1919a626",
       "summation": "md5"
     },
     {
       "name": "13wmaznews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658746558",
-      "size": "69632",
-      "md5": "806750987135901a9047eaf47885a67b",
-      "crc32": "0d63be4c",
-      "sha1": "395c8b4a45d297ccd5e50eca4940708d0f21bc63",
+      "mtime": "1658790315",
+      "size": "77824",
+      "md5": "5ba906758da2788d92cb9790278c62d0",
+      "crc32": "8f40a9fd",
+      "sha1": "1114730deb143a1c457b0a5a12a48578e62d8ebc",
       "format": "Metadata"
     },
     {
@@ -546,9 +598,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 52,
-  "item_last_updated": 1658749326,
-  "item_size": 3909636,
+  "files_count": 57,
+  "item_last_updated": 1658790916,
+  "item_size": 4276667,
   "metadata": {
     "identifier": "13wmaznews-2022",
     "collection": [
@@ -565,10 +617,10 @@
     "publicdate": "2022-07-20 23:30:33",
     "addeddate": "2022-07-20 23:30:33"
   },
-  "server": "ia802509.us.archive.org",
-  "uniq": 1308268357,
+  "server": "ia902509.us.archive.org",
+  "uniq": 563328961,
   "workable_servers": [
-    "ia802509.us.archive.org",
-    "ia902509.us.archive.org"
+    "ia902509.us.archive.org",
+    "ia802509.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658750777,
+  "created": 1658795494,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/13/items/heraldscotland-2022",
@@ -1715,6 +1715,47 @@
     }
   ],
   "files_count": 163,
+  "heraldscotland-2022": [
+    {
+      "url": "https://www.heraldscotland.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_heraldscotland_com-_-2022_07_25_11_52_33.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_heraldscotland_com-_-2022_07_25_11_52_33.report.json",
+      "summary": {
+        "performance": 0.19,
+        "accessibility": 0.73,
+        "best-practices": 0.58,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.heraldscotland.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_heraldscotland_com-_-2022_07_25_11_53_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_heraldscotland_com-_-2022_07_25_11_53_46.report.json",
+      "summary": {
+        "performance": 0.21,
+        "accessibility": 0.73,
+        "best-practices": 0.58,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.heraldscotland.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_heraldscotland_com-_-2022_07_25_11_54_22.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_heraldscotland_com-_-2022_07_25_11_54_22.report.json",
+      "summary": {
+        "performance": 0.22,
+        "accessibility": 0.73,
+        "best-practices": 0.58,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
+    }
+  ],
   "item_last_updated": 1658750775,
   "item_size": 14112463,
   "metadata": {
@@ -1733,21 +1774,10 @@
     "publicdate": "2022-07-06 21:13:21",
     "addeddate": "2022-07-06 21:13:21"
   },
-  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3343298644,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 197493772,
+  "uniq": 1244976516,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

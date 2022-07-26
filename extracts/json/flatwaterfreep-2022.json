@@ -1,5 +1,5 @@
 {
-  "created": 1658750546,
+  "created": 1658795388,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/8/items/flatwaterfreep-2022",
@@ -1473,21 +1473,32 @@
       "format": "JSON"
     },
     {
+      "name": "flatwaterfreep-2022-07-25T07:01:32.390609-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flatwaterfreep-2022-07-25T07:01:32.390609-05:00.jpg",
+      "mtime": "1658758193",
+      "size": "8854",
+      "md5": "2682cfeb2e27ce1150ca192ca765e64c",
+      "crc32": "ab0fa53c",
+      "sha1": "b466d743d2a636d9dec4a1fbb882003362eda576"
+    },
+    {
       "name": "flatwaterfreep-2022_archive.torrent",
       "source": "metadata",
-      "btih": "15ba8a6d8e66e68928b0d4d84a54886621e9953f",
-      "mtime": "1658750540",
-      "size": "31715",
-      "md5": "636b7464e1392bc165f695ee96e0289a",
-      "crc32": "e3818ed3",
-      "sha1": "6f1c8a45d999b3d9ae12261b2aec1d2c56de8dc0",
+      "btih": "b76a4dc44b00b6cdc11d04e962a5cc0628d93687",
+      "mtime": "1658758198",
+      "size": "31945",
+      "md5": "fa4cbaac0a6d185ceda5d3aedf07354d",
+      "crc32": "c290d502",
+      "sha1": "01aecfefede5e6f7b025543cac305958a3499248",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flatwaterfreep-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aaf0bc56037ec5a46f2113d292a72bd8",
+      "md5": "2fbb56d5c11c6e06b007ed61930c53cb",
       "summation": "md5"
     },
     {
@@ -1511,9 +1522,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 144,
-  "item_last_updated": 1658750540,
-  "item_size": 10516314,
+  "files_count": 145,
+  "flatwaterfreep-2022": [
+    {
+      "url": "https://flatwaterfreepress.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flatwaterfreepress_org-_-2022_07_25_11_46_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flatwaterfreepress_org-_-2022_07_25_11_46_43.report.json",
+      "summary": {
+        "performance": 0.38,
+        "accessibility": 0.91,
+        "best-practices": 1,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://flatwaterfreepress.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flatwaterfreepress_org-_-2022_07_25_11_46_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flatwaterfreepress_org-_-2022_07_25_11_46_56.report.json",
+      "summary": {
+        "performance": 0.44,
+        "accessibility": 0.91,
+        "best-practices": 1,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://flatwaterfreepress.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flatwaterfreepress_org-_-2022_07_25_11_47_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flatwaterfreepress_org-_-2022_07_25_11_47_09.report.json",
+      "summary": {
+        "performance": 0.44,
+        "accessibility": 0.91,
+        "best-practices": 1,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "item_last_updated": 1658758198,
+  "item_size": 10525398,
   "metadata": {
     "identifier": "flatwaterfreep-2022",
     "collection": [
@@ -1530,21 +1582,10 @@
     "publicdate": "2022-07-09 03:58:17",
     "addeddate": "2022-07-09 03:58:17"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3343293939,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 141491018,
+  "server": "ia801406.us.archive.org",
+  "uniq": 8891605,
   "workable_servers": [
+    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

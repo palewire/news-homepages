@@ -1,7 +1,48 @@
 {
-  "created": 1658750391,
+  "created": 1658795302,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
+  "dailymirror-2022": [
+    {
+      "url": "https://www.mirror.co.uk/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mirror_co_uk-_-2022_07_25_11_42_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mirror_co_uk-_-2022_07_25_11_42_20.report.json",
+      "summary": {
+        "performance": 0.24,
+        "accessibility": 0.68,
+        "best-practices": 0.67,
+        "seo": 0.82,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.mirror.co.uk/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mirror_co_uk-_-2022_07_25_11_42_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mirror_co_uk-_-2022_07_25_11_42_50.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.68,
+        "best-practices": 0.67,
+        "seo": 0.82,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.mirror.co.uk/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mirror_co_uk-_-2022_07_25_11_41_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mirror_co_uk-_-2022_07_25_11_41_13.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.68,
+        "best-practices": 0.67,
+        "seo": 0.82,
+        "pwa": 0.7
+      }
+    }
+  ],
   "dir": "/5/items/dailymirror-2022",
   "files": [
     {
@@ -2523,21 +2564,32 @@
       "format": "JSON"
     },
     {
+      "name": "dailymirror-2022-07-25T12:59:01.920933+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailymirror-2022-07-25T12:59:01.920933+01:00.jpg",
+      "mtime": "1658757987",
+      "size": "11313",
+      "md5": "2b68a5d54c3fd7893498e06be18b6bc3",
+      "crc32": "d52ccfc8",
+      "sha1": "ffc698a45a077b3461aae05c472c8270a57e6434"
+    },
+    {
       "name": "dailymirror-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e3ea1faf448a16bdc6be0da0ab94b24f1cf23789",
-      "mtime": "1658750388",
-      "size": "53251",
-      "md5": "d98cb015395fe093e86816c59c74ec2d",
-      "crc32": "766fa57b",
-      "sha1": "d62373c9758f4cc092e382e49b1185fc029adcc9",
+      "btih": "6adb27142d18f4f286b8abd10519cb1bfc5f54c4",
+      "mtime": "1658757996",
+      "size": "53459",
+      "md5": "c4c1e0b938d6763c1a82dddaa3469e5d",
+      "crc32": "19049792",
+      "sha1": "7f28621a47aaa9b55445be7385f40410c55aa17b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailymirror-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fa18aaafb66bb3db097a57e245e61ae3",
+      "md5": "76a93307d700bb334392f20f9dbbd6c5",
       "summation": "md5"
     },
     {
@@ -2561,9 +2613,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 244,
-  "item_last_updated": 1658750388,
-  "item_size": 33023012,
+  "files_count": 245,
+  "item_last_updated": 1658757996,
+  "item_size": 33034533,
   "metadata": {
     "identifier": "dailymirror-2022",
     "collection": [
@@ -2580,21 +2632,10 @@
     "publicdate": "2022-07-07 03:59:22",
     "addeddate": "2022-07-07 03:59:22"
   },
-  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3343291052,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 119429760,
+  "uniq": 356689373,
   "workable_servers": [
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

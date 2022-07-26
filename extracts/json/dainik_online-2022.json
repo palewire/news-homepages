@@ -1,7 +1,48 @@
 {
-  "created": 1658750368,
+  "created": 1658795310,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
+  "dainik_online-2022": [
+    {
+      "url": "https://www.dainikonline.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dainikonline_com-_-2022_07_25_11_41_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dainikonline_com-_-2022_07_25_11_41_34.report.json",
+      "summary": {
+        "performance": 0.65,
+        "accessibility": 0.92,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.dainikonline.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dainikonline_com-_-2022_07_25_11_42_03.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dainikonline_com-_-2022_07_25_11_42_03.report.json",
+      "summary": {
+        "performance": 0.66,
+        "accessibility": 0.92,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.dainikonline.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dainikonline_com-_-2022_07_25_11_41_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dainikonline_com-_-2022_07_25_11_41_48.report.json",
+      "summary": {
+        "performance": 0.64,
+        "accessibility": 0.92,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.4
+      }
+    }
+  ],
   "dir": "/13/items/dainik_online-2022",
   "files": [
     {
@@ -161,21 +202,32 @@
       "format": "JSON"
     },
     {
+      "name": "dainik_online-2022-07-25T17:43:40.498335+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dainik_online-2022-07-25T17:43:40.498335+05:45.jpg",
+      "mtime": "1658757898",
+      "size": "10102",
+      "md5": "0ac382e5bc0bdfa8b09084eb798881b7",
+      "crc32": "bff14d41",
+      "sha1": "fb903138f5d740303dc0c8d9c4848a82dc649512"
+    },
+    {
       "name": "dainik_online-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3603f9b7f4ee10876fd4c53f6391907d0c0708d7",
-      "mtime": "1658750365",
-      "size": "4696",
-      "md5": "46e33c2618e31b2c38fdeafdace6f06c",
-      "crc32": "0d18077c",
-      "sha1": "5000dc38e54632c2f428e419155a1b1f60daefc9",
+      "btih": "a0a2cbe6e048a2f366ea8416ccb474d35a7ecbd7",
+      "mtime": "1658757906",
+      "size": "4906",
+      "md5": "058489e0dab10cc03eb558bba3b17da2",
+      "crc32": "f15c5aa6",
+      "sha1": "f13dd46b54d23b2d8297832697d422f2c2f90345",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dainik_online-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "18f6b1dca8d36cf2375d63a3d92c562d",
+      "md5": "6d7225c9eb4e462ad272c7c5e6b5432c",
       "summation": "md5"
     },
     {
@@ -199,9 +251,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 19,
-  "item_last_updated": 1658750365,
-  "item_size": 1301593,
+  "files_count": 20,
+  "item_last_updated": 1658757906,
+  "item_size": 1311905,
   "metadata": {
     "identifier": "dainik_online-2022",
     "collection": [
@@ -218,21 +270,10 @@
     "publicdate": "2022-07-24 20:37:14",
     "addeddate": "2022-07-24 20:37:14"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3343290873,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 545951273,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1553116475,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658751639,
+  "created": 1658795868,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/7/items/texasmonthly-2022",
@@ -1842,31 +1842,83 @@
       "sha1": "9bae1adae486c63a56eb28e2ae6f5f465784b8f4"
     },
     {
+      "name": "texasmonthly-2022-07-25T10:44:50.613595-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658763893",
+      "size": "57057",
+      "md5": "c6d95bd799596df01750ff1465886854",
+      "crc32": "37f8b3f7",
+      "sha1": "89a15067c2a46e3623e934d78660b6f045cccb38",
+      "format": "JSON"
+    },
+    {
+      "name": "texasmonthly-2022-07-25T10:44:50.613595-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658763895",
+      "size": "60626",
+      "md5": "d7eabdea8f130de856e15ff8cb1716ae",
+      "crc32": "3953649b",
+      "sha1": "5878f3a7659288277d9d59f550633cfe47121e5d",
+      "format": "JSON"
+    },
+    {
+      "name": "texasmonthly-2022-07-25T10:44:50.613595-05:00.jpg",
+      "source": "original",
+      "mtime": "1658763891",
+      "size": "314886",
+      "md5": "096c6f18bf33b692f0ba51d93ee484ff",
+      "crc32": "1df09a35",
+      "sha1": "5571d61995efe79d99995011781c5c11fa6b33cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "texasmonthly-2022-07-25T10:44:50.613595-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658763896",
+      "size": "1510",
+      "md5": "3fb67f5aad892a850c250c41f0292509",
+      "crc32": "5e59bca0",
+      "sha1": "93b0ee9fc5f4f61c30fbbdbde9628e3073bfbfeb",
+      "format": "JSON"
+    },
+    {
+      "name": "texasmonthly-2022-07-25T10:44:50.613595-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "texasmonthly-2022-07-25T10:44:50.613595-05:00.jpg",
+      "mtime": "1658770322",
+      "size": "10254",
+      "md5": "febad86df202699b3b6b86145f137bc6",
+      "crc32": "3341284b",
+      "sha1": "5a0062ac5a70aba1b77959f45f2aa6440b6630d8"
+    },
+    {
       "name": "texasmonthly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cb277e97cd7a50243cdb6c3bec93e17c487a29f6",
-      "mtime": "1658723920",
-      "size": "39154",
-      "md5": "ec6a278f3643b1661682249aa1433305",
-      "crc32": "d443aece",
-      "sha1": "966ddbd30cea57f5ec5e877e6cc6991e1090cf5e",
+      "btih": "dd3092fad3a5b35a129b365b437f334c0e652fff",
+      "mtime": "1658770329",
+      "size": "40234",
+      "md5": "3e4e116f2a9a85808cbceaf3a690b578",
+      "crc32": "189dd7bd",
+      "sha1": "645441fa30fcb39e2b4639a5d09b05a753e65d84",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texasmonthly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ed828945da0960ed0a92fa6e37411e62",
+      "md5": "e76b10f1d6634b55fd073b03ada58051",
       "summation": "md5"
     },
     {
       "name": "texasmonthly-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658723695",
-      "size": "225280",
-      "md5": "0a32660a6152609b7ccb9976c87a8ca3",
-      "crc32": "d3646f34",
-      "sha1": "2e045deabda41677f5bebaeff904d79904ff3a86",
+      "mtime": "1658763900",
+      "size": "229376",
+      "md5": "e0537c433f6d782b96cccfc1bd208c8e",
+      "crc32": "ff6b9657",
+      "sha1": "053c9f790b27f1ee6470b2cf38da4d9e9b113aa3",
       "format": "Metadata"
     },
     {
@@ -1880,9 +1932,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 179,
-  "item_last_updated": 1658723920,
-  "item_size": 18484007,
+  "files_count": 184,
+  "item_last_updated": 1658770329,
+  "item_size": 18933516,
   "metadata": {
     "identifier": "texasmonthly-2022",
     "collection": [
@@ -1899,39 +1951,13 @@
     "publicdate": "2022-07-04 21:45:38",
     "addeddate": "2022-07-04 21:45:38"
   },
-  "server": "ia802509.us.archive.org",
+  "server": "ia902509.us.archive.org",
   "texasmonthly-2022": [
     {
       "url": "https://www.texasmonthly.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texasmonthly_com-_-2022_07_25_04_14_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texasmonthly_com-_-2022_07_25_04_14_26.report.json",
-      "summary": {
-        "performance": 0.14,
-        "accessibility": 0.9,
-        "best-practices": 0.83,
-        "seo": 0.91,
-        "pwa": 0.8
-      }
-    },
-    {
-      "url": "https://www.texasmonthly.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texasmonthly_com-_-2022_07_25_04_14_58.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texasmonthly_com-_-2022_07_25_04_14_58.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.9,
-        "best-practices": 0.83,
-        "seo": 0.84,
-        "pwa": 0.8
-      }
-    },
-    {
-      "url": "https://www.texasmonthly.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texasmonthly_com-_-2022_07_25_04_15_27.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texasmonthly_com-_-2022_07_25_04_15_27.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texasmonthly_com-_-2022_07_25_15_00_44.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texasmonthly_com-_-2022_07_25_15_00_44.report.json",
       "summary": {
         "performance": 0.16,
         "accessibility": 0.9,
@@ -1939,11 +1965,37 @@
         "seo": 0.91,
         "pwa": 0.8
       }
+    },
+    {
+      "url": "https://www.texasmonthly.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texasmonthly_com-_-2022_07_25_15_02_16.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texasmonthly_com-_-2022_07_25_15_02_16.report.json",
+      "summary": {
+        "performance": 0.17,
+        "accessibility": 0.9,
+        "best-practices": 0.83,
+        "seo": 0.91,
+        "pwa": 0.8
+      }
+    },
+    {
+      "url": "https://www.texasmonthly.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texasmonthly_com-_-2022_07_25_15_01_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texasmonthly_com-_-2022_07_25_15_01_36.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.9,
+        "best-practices": 0.83,
+        "seo": 0.91,
+        "pwa": 0.8
+      }
     }
   ],
-  "uniq": 1457689856,
+  "uniq": 526285492,
   "workable_servers": [
-    "ia802509.us.archive.org",
-    "ia902509.us.archive.org"
+    "ia902509.us.archive.org",
+    "ia802509.us.archive.org"
   ]
 }

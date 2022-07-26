@@ -1,5 +1,5 @@
 {
-  "created": 1658750719,
+  "created": 1658795484,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/2/items/globeandmail-2022",
@@ -2899,21 +2899,32 @@
       "format": "JSON"
     },
     {
+      "name": "globeandmail-2022-07-25T08:04:16.251699-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "globeandmail-2022-07-25T08:04:16.251699-04:00.jpg",
+      "mtime": "1658758371",
+      "size": "8681",
+      "md5": "29f44b5793c5a47e2ea55f5f3c5cdee2",
+      "crc32": "e6f8f09d",
+      "sha1": "ff2ecc139671bd631d324d4871aba8a01512b33b"
+    },
+    {
       "name": "globeandmail-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b7f17ce960d0666a03f81443de546d8c2fe2b850",
-      "mtime": "1658750714",
-      "size": "60710",
-      "md5": "77c26e1b26116fdf256a0e830b1153df",
-      "crc32": "10ed79ca",
-      "sha1": "6593113da6e64a2c2974c1b6716615042b8d11e0",
+      "btih": "91698598c039d34652ba0284063e13e9e26d34d4",
+      "mtime": "1658758404",
+      "size": "60918",
+      "md5": "cd7962ecc34c24a3db12e4231a504ef2",
+      "crc32": "86ad0ccd",
+      "sha1": "96e5dce942f3bb910e35b915f8f243334fb386ae",
       "format": "Archive BitTorrent"
     },
     {
       "name": "globeandmail-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3731c7ca9aef9286dd70cc2a971dcd68",
+      "md5": "047547643fcd37c60d4f16a794b91f2f",
       "summation": "md5"
     },
     {
@@ -2937,9 +2948,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 280,
-  "item_last_updated": 1658750714,
-  "item_size": 24681170,
+  "files_count": 281,
+  "globeandmail-2022": [
+    {
+      "url": "https://www.theglobeandmail.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theglobeandmail_com-_-2022_07_25_11_50_40.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theglobeandmail_com-_-2022_07_25_11_50_40.report.json",
+      "summary": {
+        "performance": 0.2,
+        "accessibility": 1,
+        "best-practices": 0.92,
+        "seo": 0.99,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.theglobeandmail.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theglobeandmail_com-_-2022_07_25_11_51_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theglobeandmail_com-_-2022_07_25_11_51_26.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 1,
+        "best-practices": 0.92,
+        "seo": 0.99,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.theglobeandmail.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theglobeandmail_com-_-2022_07_25_11_51_04.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theglobeandmail_com-_-2022_07_25_11_51_04.report.json",
+      "summary": {
+        "performance": 0.21,
+        "accessibility": 1,
+        "best-practices": 0.92,
+        "seo": 0.99,
+        "pwa": 0.6
+      }
+    }
+  ],
+  "item_last_updated": 1658758404,
+  "item_size": 24690059,
   "metadata": {
     "identifier": "globeandmail-2022",
     "collection": [
@@ -2956,21 +3008,10 @@
     "publicdate": "2022-06-30 22:35:43",
     "addeddate": "2022-06-30 22:35:43"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3343297625,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1298379556,
+  "uniq": 274878279,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

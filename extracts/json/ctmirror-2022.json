@@ -1,5 +1,46 @@
 {
-  "created": 1658750391,
+  "created": 1658795293,
+  "ctmirror-2022": [
+    {
+      "url": "https://ctmirror.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ctmirror_org-_-2022_07_25_11_40_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ctmirror_org-_-2022_07_25_11_40_55.report.json",
+      "summary": {
+        "performance": 0.2,
+        "accessibility": 0.81,
+        "best-practices": 1,
+        "seo": 0.98,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://ctmirror.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ctmirror_org-_-2022_07_25_11_41_38.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ctmirror_org-_-2022_07_25_11_41_38.report.json",
+      "summary": {
+        "performance": 0.39,
+        "accessibility": 0.81,
+        "best-practices": 1,
+        "seo": 0.98,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://ctmirror.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ctmirror_org-_-2022_07_25_11_41_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ctmirror_org-_-2022_07_25_11_41_17.report.json",
+      "summary": {
+        "performance": 0.4,
+        "accessibility": 0.81,
+        "best-practices": 1,
+        "seo": 0.98,
+        "pwa": 0.9
+      }
+    }
+  ],
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/3/items/ctmirror-2022",
@@ -1473,21 +1514,32 @@
       "format": "JSON"
     },
     {
+      "name": "ctmirror-2022-07-25T07:59:05.270594-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ctmirror-2022-07-25T07:59:05.270594-04:00.jpg",
+      "mtime": "1658757956",
+      "size": "10400",
+      "md5": "3d257a85bb88abcf2df03eacbba4a0c9",
+      "crc32": "921467e3",
+      "sha1": "0d0a5958bd0efc4f51c8d7f94febd27fd086549c"
+    },
+    {
       "name": "ctmirror-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a1d4d861c594dd5b388636f95d533cf45f688e1d",
-      "mtime": "1658750389",
-      "size": "30960",
-      "md5": "9eb54493b4d38e23bd13e27183a005b1",
-      "crc32": "968a391c",
-      "sha1": "81b0cfbf0af1d264929ec254969ed5a5979f621a",
+      "btih": "bd3f18c47fd3cd7c38e7d6f68f82df5f8be7f987",
+      "mtime": "1658757964",
+      "size": "31165",
+      "md5": "436d894c719ba2e154e3e04f042d4a6e",
+      "crc32": "067dbd53",
+      "sha1": "c93a8a2539b0bc458c68178fc6cedd503b545942",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ctmirror-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4c49f105742fd403c64dc1a8a78e1da5",
+      "md5": "c5cf70d122e20e779826bb1329ccbd98",
       "summation": "md5"
     },
     {
@@ -1511,9 +1563,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 144,
-  "item_last_updated": 1658750389,
-  "item_size": 12922214,
+  "files_count": 145,
+  "item_last_updated": 1658757964,
+  "item_size": 12932819,
   "metadata": {
     "identifier": "ctmirror-2022",
     "collection": [
@@ -1530,21 +1582,10 @@
     "publicdate": "2022-07-09 03:58:07",
     "addeddate": "2022-07-09 03:58:07"
   },
-  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3343291040,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1571912466,
+  "uniq": 113651573,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

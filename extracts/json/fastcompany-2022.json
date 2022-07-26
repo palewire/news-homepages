@@ -1,8 +1,49 @@
 {
-  "created": 1658750525,
+  "created": 1658795382,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/fastcompany-2022",
+  "fastcompany-2022": [
+    {
+      "url": "https://www.fastcompany.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fastcompany_com-_-2022_07_25_11_46_24.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fastcompany_com-_-2022_07_25_11_46_24.report.json",
+      "summary": {
+        "performance": 0.14,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.fastcompany.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fastcompany_com-_-2022_07_25_11_48_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fastcompany_com-_-2022_07_25_11_48_00.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.fastcompany.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fastcompany_com-_-2022_07_25_11_47_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fastcompany_com-_-2022_07_25_11_47_19.report.json",
+      "summary": {
+        "performance": 0.14,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.7
+      }
+    }
+  ],
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -1813,21 +1854,32 @@
       "format": "JSON"
     },
     {
+      "name": "fastcompany-2022-07-25T08:01:19.495270-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fastcompany-2022-07-25T08:01:19.495270-04:00.jpg",
+      "mtime": "1658758140",
+      "size": "9179",
+      "md5": "2b516fc761178cdf034f62557b014dfc",
+      "crc32": "ad5e017c",
+      "sha1": "c07e529b1da9b5cea4b9b71dda536b5dfadd9dbc"
+    },
+    {
       "name": "fastcompany-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0335becb988dae18e3d0d376c755f7f1afdb774f",
-      "mtime": "1658750523",
-      "size": "38359",
-      "md5": "099b8b6de8f948776d23bd38835f0ebd",
-      "crc32": "26d137b6",
-      "sha1": "dc94fe8533897de12b660d868fdb96075a181636",
+      "btih": "1003fdf3c8e149f3858c8bdfa94cf2f09fe858a9",
+      "mtime": "1658758166",
+      "size": "38566",
+      "md5": "2c871960c7f0512aedac03b0ec077928",
+      "crc32": "711e682f",
+      "sha1": "e44059d006fdd6e4fe4288b15f08eaecdd329ed9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fastcompany-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b72c9520c798008834e8c9ca5274c4b0",
+      "md5": "099796b74df3013db8eb5d749a0638d7",
       "summation": "md5"
     },
     {
@@ -1851,9 +1903,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 176,
-  "item_last_updated": 1658750523,
-  "item_size": 20428368,
+  "files_count": 177,
+  "item_last_updated": 1658758166,
+  "item_size": 20437754,
   "metadata": {
     "identifier": "fastcompany-2022",
     "collection": [
@@ -1870,21 +1922,10 @@
     "publicdate": "2022-07-04 20:48:13",
     "addeddate": "2022-07-04 20:48:13"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3343293517,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1395307663,
+  "server": "ia801505.us.archive.org",
+  "uniq": 220887144,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

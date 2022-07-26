@@ -1,5 +1,46 @@
 {
-  "created": 1658750835,
+  "cnn-2022": [
+    {
+      "url": "https://www.cnn.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cnn_com-_-2022_07_25_21_09_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cnn_com-_-2022_07_25_21_09_13.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.88,
+        "best-practices": 0.67,
+        "seo": 0.84,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.cnn.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cnn_com-_-2022_07_25_21_10_42.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cnn_com-_-2022_07_25_21_10_42.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.88,
+        "best-practices": 0.67,
+        "seo": 0.84,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.cnn.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cnn_com-_-2022_07_25_21_09_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cnn_com-_-2022_07_25_21_09_39.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.88,
+        "best-practices": 0.67,
+        "seo": 0.84,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "created": 1658795282,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/8/items/cnn-2022",
@@ -24996,31 +25037,115 @@
       "sha1": "b225db0d409468e7e2eec55a14f6fd698ae91ec4"
     },
     {
+      "name": "cnn-2022-07-25T11:55:14.985072-04:00.jpg",
+      "source": "original",
+      "mtime": "1658764524",
+      "size": "341833",
+      "md5": "d9c12ddf94fd31b81c49520d01ee95ee",
+      "crc32": "034ae373",
+      "sha1": "e48a51d4da4489f965cdbe8e548985d3109b9934",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cnn-2022-07-25T11:55:14.985072-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658764526",
+      "size": "1432",
+      "md5": "22bb60353ab00b099e0ef0529e4bff66",
+      "crc32": "bb3a331b",
+      "sha1": "52a7140881d99b0fb6e8b2f55d4c54770aaff446",
+      "format": "JSON"
+    },
+    {
+      "name": "cnn-2022-07-25T11:55:14.985072-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cnn-2022-07-25T11:55:14.985072-04:00.jpg",
+      "mtime": "1658771532",
+      "size": "9514",
+      "md5": "53315ba425038f3ad144841d7d50f012",
+      "crc32": "de21a55c",
+      "sha1": "fb1af616f527c00ba45fbc93a5333b8685ce3ba8"
+    },
+    {
+      "name": "cnn-2022-07-25T17:14:15.534852-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658783659",
+      "size": "32059",
+      "md5": "96f7297d288839659070e0558fb4619a",
+      "crc32": "190e3ea6",
+      "sha1": "3f5555735271b05243153f047cfa34ec0b0bd1e7",
+      "format": "JSON"
+    },
+    {
+      "name": "cnn-2022-07-25T17:14:15.534852-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658783661",
+      "size": "36564",
+      "md5": "b7ed60d46ffbbdc0522b564b1ac1df2f",
+      "crc32": "41696a7c",
+      "sha1": "7a148dfa79b1166f05975cbe83db009adf52a860",
+      "format": "JSON"
+    },
+    {
+      "name": "cnn-2022-07-25T17:14:15.534852-04:00.jpg",
+      "source": "original",
+      "mtime": "1658783657",
+      "size": "334055",
+      "md5": "da7f47168b2ea71932bb55c938dea910",
+      "crc32": "e6433eeb",
+      "sha1": "58187c86ec0fa388fd288926738fa9d005607e24",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cnn-2022-07-25T17:14:15.534852-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658783663",
+      "size": "1432",
+      "md5": "c28c9fe087b3460ea581d1c2bf9d39d7",
+      "crc32": "831b671a",
+      "sha1": "4f4cbd50cd4fe2b84ffb050b0424e7f4fb2aa179",
+      "format": "JSON"
+    },
+    {
+      "name": "cnn-2022-07-25T17:14:15.534852-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cnn-2022-07-25T17:14:15.534852-04:00.jpg",
+      "mtime": "1658785149",
+      "size": "9367",
+      "md5": "c93ce1b9caf4689f6a18c3d4070c0b7b",
+      "crc32": "6561d533",
+      "sha1": "ba7fb2c97b1696deb8179608dfbc50e03fed1a2d"
+    },
+    {
       "name": "cnn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3d8b480200a2f0de90bcfa234d11689e129efcfe",
-      "mtime": "1658750809",
-      "size": "491399",
-      "md5": "a3a9c5fbc9e4a1c15e30379732535fce",
-      "crc32": "c218fb3d",
-      "sha1": "44af807f908c57d52b9c5bc356d48adc2113a90c",
+      "btih": "4b98362d13d99e197be7aa1a2989cef038f8ec34",
+      "mtime": "1658785459",
+      "size": "493032",
+      "md5": "e2f4a1f53f8654367fe450b4a9b072b0",
+      "crc32": "a265d059",
+      "sha1": "b6a3b294e3e88f70df9aedd2ac088ab5c2caa488",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "423afa937750c3d7c5c286ceab0771aa",
+      "md5": "0d5b3376f7258f96fcb000ee71eec8e3",
       "summation": "md5"
     },
     {
       "name": "cnn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658747006",
-      "size": "2662400",
-      "md5": "27396fdf3d3898b4e737a883748019b8",
-      "crc32": "25c43007",
-      "sha1": "22133656f2e13e54687301278b5c6b1e5438d186",
+      "mtime": "1658783667",
+      "size": "2670592",
+      "md5": "0d4f04514ef63810c29d8266da6983da",
+      "crc32": "0c8968f8",
+      "sha1": "b8e1743b76894b4155e3e5e125874a27f8ed729e",
       "format": "Metadata"
     },
     {
@@ -25034,9 +25159,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2379,
-  "item_last_updated": 1658750809,
-  "item_size": 264771740,
+  "files_count": 2387,
+  "item_last_updated": 1658785459,
+  "item_size": 265547821,
   "metadata": {
     "identifier": "cnn-2022",
     "collection": [
@@ -25054,7 +25179,7 @@
     "addeddate": "2022-03-23 01:45:45"
   },
   "server": "ia802501.us.archive.org",
-  "uniq": 1796792106,
+  "uniq": 1579071649,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"

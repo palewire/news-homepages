@@ -1,7 +1,48 @@
 {
-  "created": 1658750360,
+  "created": 1658795306,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
+  "dailytarheel-2022": [
+    {
+      "url": "https://www.dailytarheel.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailytarheel_com-_-2022_07_25_11_41_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailytarheel_com-_-2022_07_25_11_41_25.report.json",
+      "summary": {
+        "performance": 0.24,
+        "accessibility": 0.82,
+        "best-practices": 0.92,
+        "seo": 0.89,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.dailytarheel.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailytarheel_com-_-2022_07_25_11_41_44.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailytarheel_com-_-2022_07_25_11_41_44.report.json",
+      "summary": {
+        "performance": 0.21,
+        "accessibility": 0.82,
+        "best-practices": 0.92,
+        "seo": 0.89,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.dailytarheel.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailytarheel_com-_-2022_07_25_11_42_02.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailytarheel_com-_-2022_07_25_11_42_02.report.json",
+      "summary": {
+        "performance": 0.31,
+        "accessibility": 0.82,
+        "best-practices": 0.92,
+        "seo": 0.89,
+        "pwa": 0.7
+      }
+    }
+  ],
   "dir": "/31/items/dailytarheel-2022",
   "files": [
     {
@@ -1599,21 +1640,32 @@
       "format": "JSON"
     },
     {
+      "name": "dailytarheel-2022-07-25T07:58:26.814214-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailytarheel-2022-07-25T07:58:26.814214-04:00.jpg",
+      "mtime": "1658757916",
+      "size": "9533",
+      "md5": "05c8eed6221656509683c64804ae221a",
+      "crc32": "8a81693a",
+      "sha1": "b9f163ab8eaec7965bc2fa879680a5c4e92d8b7b"
+    },
+    {
       "name": "dailytarheel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5edfb101d7fcf0e18b20b36d22d8d06ee8a097fe",
-      "mtime": "1658750357",
-      "size": "34137",
-      "md5": "de48b157c555a10c550c63e4184fbbae",
-      "crc32": "ea2ce941",
-      "sha1": "7ce1a41cff58468de9c0d9c84fefc5c49b8802ab",
+      "btih": "a86d031421dfc5b88d09d5a2a63c528e310e3b97",
+      "mtime": "1658757938",
+      "size": "34345",
+      "md5": "5f9fffe1280d05b29acf864a6d1a01af",
+      "crc32": "02ded1f3",
+      "sha1": "ecd8f24a074d14a214063cbbf11ad75ef137ffa3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailytarheel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ed462daf5a9330a2fde4d5cb2b5f78e2",
+      "md5": "bfdedd89e9fa5f25c5ec1328ff796d0a",
       "summation": "md5"
     },
     {
@@ -1637,9 +1689,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 156,
-  "item_last_updated": 1658750357,
-  "item_size": 15159432,
+  "files_count": 157,
+  "item_last_updated": 1658757938,
+  "item_size": 15169173,
   "metadata": {
     "identifier": "dailytarheel-2022",
     "collection": [
@@ -1656,21 +1708,10 @@
     "publicdate": "2022-07-09 03:57:38",
     "addeddate": "2022-07-09 03:57:38"
   },
-  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3343290818,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 650419068,
+  "uniq": 1596562053,
   "workable_servers": [
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

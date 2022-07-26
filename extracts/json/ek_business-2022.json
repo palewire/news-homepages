@@ -1,8 +1,49 @@
 {
-  "created": 1658750460,
+  "created": 1658795359,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/4/items/ek_business-2022",
+  "ek_business-2022": [
+    {
+      "url": "https://ekantipur.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_25_11_43_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_25_11_43_46.report.json",
+      "summary": {
+        "performance": 0.51,
+        "accessibility": 0.76,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://ekantipur.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_25_11_44_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_25_11_44_00.report.json",
+      "summary": {
+        "performance": 0.53,
+        "accessibility": 0.76,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://ekantipur.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_25_11_43_32.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_25_11_43_32.report.json",
+      "summary": {
+        "performance": 0.36,
+        "accessibility": 0.76,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    }
+  ],
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -161,21 +202,32 @@
       "format": "JSON"
     },
     {
+      "name": "ek_business-2022-07-25T17:45:13.774015+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ek_business-2022-07-25T17:45:13.774015+05:45.jpg",
+      "mtime": "1658758035",
+      "size": "10933",
+      "md5": "6caf554a7993e5a409ba60a4b63b1e2e",
+      "crc32": "7cc612d1",
+      "sha1": "0882e98670eef328b97f52ca2ae58d91763dca1b"
+    },
+    {
       "name": "ek_business-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e84a213fb5652e622421af583851a197e4762c60",
-      "mtime": "1658750457",
-      "size": "4670",
-      "md5": "e359525c74a9ed23b52a84712889a9ce",
-      "crc32": "091a735e",
-      "sha1": "e990bdff147b515a3d930bb648f05d9dcefa4d7a",
+      "btih": "98b166855587b0802333692b412a3306b3c48bda",
+      "mtime": "1658758039",
+      "size": "4878",
+      "md5": "7d31f6faaafc8c95e27531b75ce92f60",
+      "crc32": "ea569ca4",
+      "sha1": "3b80aa4486058190b1a90d44e680dc6f6aad7900",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ek_business-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "58db5a8947029e53aa90b9cbe7d02a56",
+      "md5": "680cd3d71e70a42cf40b89cb31a5c80c",
       "summation": "md5"
     },
     {
@@ -199,9 +251,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 19,
-  "item_last_updated": 1658750457,
-  "item_size": 1805562,
+  "files_count": 20,
+  "item_last_updated": 1658758039,
+  "item_size": 1816703,
   "metadata": {
     "identifier": "ek_business-2022",
     "collection": [
@@ -218,21 +270,10 @@
     "publicdate": "2022-07-24 20:37:50",
     "addeddate": "2022-07-24 20:37:50"
   },
-  "pending_tasks": true,
-  "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3343292314,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1106619049,
+  "server": "ia801503.us.archive.org",
+  "uniq": 1980772115,
   "workable_servers": [
+    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

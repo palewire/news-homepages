@@ -1,5 +1,5 @@
 {
-  "created": 1658749982,
+  "created": 1658790240,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/sfchronicle-2022",
@@ -8928,31 +8928,83 @@
       "sha1": "8b9665a7cde198ae83cc6184f5cc4cc5e7c7629a"
     },
     {
+      "name": "sfchronicle-2022-07-25T08:41:40.618368-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658763715",
+      "size": "94755",
+      "md5": "36990e7a17f8994cb737c95f6680e2d0",
+      "crc32": "23d153e4",
+      "sha1": "28fd00aa9b60250926ff1ed2e78704b1871ca619",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-07-25T08:41:40.618368-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658763718",
+      "size": "111854",
+      "md5": "82b405499a3813acbe4fea4f8e2791ee",
+      "crc32": "373edac9",
+      "sha1": "39fb7cfecec369e1b8fc9d4b2a748caf532d63b7",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-07-25T08:41:40.618368-07:00.jpg",
+      "source": "original",
+      "mtime": "1658763713",
+      "size": "331592",
+      "md5": "1b9119cc5ee7587f65e543e00b5df453",
+      "crc32": "7bf5c51e",
+      "sha1": "62cfbee0e88aa2cab04165e2a7d4e9f7cda59fbb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sfchronicle-2022-07-25T08:41:40.618368-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658763720",
+      "size": "1504",
+      "md5": "5a36e4fa23bbe88c3e3a45d15881f90a",
+      "crc32": "9f00b987",
+      "sha1": "071c6569fc6ef0c221e4d121de3965f53fc7fe4d",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-07-25T08:41:40.618368-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sfchronicle-2022-07-25T08:41:40.618368-07:00.jpg",
+      "mtime": "1658770309",
+      "size": "9783",
+      "md5": "f900c4bfd7efbbfd89845b07d10408fd",
+      "crc32": "b1415d04",
+      "sha1": "629a8f1fcc27f60041dcc4b1a77f6cade3900638"
+    },
+    {
       "name": "sfchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cbdc4edf20f5e9ff5509e84d67860bab91521e60",
-      "mtime": "1658720786",
-      "size": "184455",
-      "md5": "bc3fa90401dde52a5e492e9b448d2868",
-      "crc32": "57728e8a",
-      "sha1": "3cbdb5deee84794aafe499d3f2d3d0a02071a82d",
+      "btih": "a402b26e3ac63835070035fc7ea97ce2ee2e42ea",
+      "mtime": "1658770345",
+      "size": "185530",
+      "md5": "09e7006d513e0c19fd368fc809270cb1",
+      "crc32": "f6b309ae",
+      "sha1": "457cccc9f087307b6e6797129b119ea129d673d3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sfchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "396782a06f7eed99a5f91008eed433f8",
+      "md5": "018d35c4964fd0942aca69225f6cfa47",
       "summation": "md5"
     },
     {
       "name": "sfchronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658720614",
-      "size": "983040",
-      "md5": "5ca14dedda6837a0a5f1de1f0afb75be",
-      "crc32": "2fe4d702",
-      "sha1": "51ff2958e251b32ab13aeac1716b3a42c2bcc5d3",
+      "mtime": "1658763724",
+      "size": "987136",
+      "md5": "0b08f3f7570cfec59a98320a4786de1f",
+      "crc32": "c5938cb3",
+      "sha1": "4c9fd2462d8296b7ccef7ace72dc362938c24da6",
       "format": "Metadata"
     },
     {
@@ -8966,9 +9018,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 853,
-  "item_last_updated": 1658720786,
-  "item_size": 113992335,
+  "files_count": 858,
+  "item_last_updated": 1658770345,
+  "item_size": 114546994,
   "metadata": {
     "identifier": "sfchronicle-2022",
     "collection": [
@@ -8985,10 +9037,10 @@
     "publicdate": "2022-03-23 02:09:45",
     "addeddate": "2022-03-23 02:09:45"
   },
-  "server": "ia902504.us.archive.org",
-  "uniq": 1602336785,
+  "server": "ia802504.us.archive.org",
+  "uniq": 1312695163,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia802504.us.archive.org",
+    "ia902504.us.archive.org"
   ]
 }

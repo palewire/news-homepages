@@ -1,5 +1,5 @@
 {
-  "created": 1658750383,
+  "created": 1658758317,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/ctvnews-2022",
@@ -2875,21 +2875,32 @@
       "rotation": "0"
     },
     {
+      "name": "ctvnews-2022-07-25T07:58:41.966177-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ctvnews-2022-07-25T07:58:41.966177-04:00.jpg",
+      "mtime": "1658758094",
+      "size": "9807",
+      "md5": "4cb728f17d1133da6832716eb7173679",
+      "crc32": "7bc8e31c",
+      "sha1": "6c385fa9bfd5e5a0b66f5f9ee4175d98de828e9b"
+    },
+    {
       "name": "ctvnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "333b99439f929fbe8b4dbfb9867cfe987c3d9ab2",
-      "mtime": "1658750380",
-      "size": "59048",
-      "md5": "0569b40b332a5e169bae95417b2da747",
-      "crc32": "a8c796ed",
-      "sha1": "577b307d943f7840c95cc90ee0f57a8ca7ceb5be",
+      "btih": "7b30cc78af98de376f4c2aa2420e17dd8d9379a0",
+      "mtime": "1658758254",
+      "size": "59251",
+      "md5": "5987aa5f1f7ce17b7f5dd752f6938e19",
+      "crc32": "f1f1fe64",
+      "sha1": "ca67ca52ad657ceed1841866ac4277bf11c9b183",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ctvnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f7e91699bffc408ff88eeac64e0cec6f",
+      "md5": "b725597fb51e018a5e93d85a5689d6c5",
       "summation": "md5"
     },
     {
@@ -2913,9 +2924,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 277,
-  "item_last_updated": 1658750380,
-  "item_size": 35159387,
+  "files_count": 278,
+  "item_last_updated": 1658758254,
+  "item_size": 35169397,
   "metadata": {
     "identifier": "ctvnews-2022",
     "collection": [
@@ -2932,21 +2943,10 @@
     "publicdate": "2022-06-30 22:35:40",
     "addeddate": "2022-06-30 22:35:40"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3343290983,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1041686907,
+  "server": "ia802505.us.archive.org",
+  "uniq": 433874974,
   "workable_servers": [
+    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

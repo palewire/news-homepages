@@ -1,5 +1,5 @@
 {
-  "created": 1658751918,
+  "created": 1658796047,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/29/items/wsav-2022",
@@ -456,31 +456,83 @@
       "sha1": "3d760dd2de292e97ef0149110ac83180db2b1a53"
     },
     {
+      "name": "wsav-2022-07-25T11:53:51.705974-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658764435",
+      "size": "35934",
+      "md5": "82df527aaac3dfd32e6d6961ca86b467",
+      "crc32": "1af99378",
+      "sha1": "e80678e97a03a964b7d0b99afa4e17117eb979e8",
+      "format": "JSON"
+    },
+    {
+      "name": "wsav-2022-07-25T11:53:51.705974-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658764437",
+      "size": "78904",
+      "md5": "e8c8337b36fc69f3d5a03289fe4f7ea4",
+      "crc32": "321ae67f",
+      "sha1": "87a59798c30bedb9d7ca801e2ebe401f3259c694",
+      "format": "JSON"
+    },
+    {
+      "name": "wsav-2022-07-25T11:53:51.705974-04:00.jpg",
+      "source": "original",
+      "mtime": "1658764434",
+      "size": "263934",
+      "md5": "c1696a1fe9405a199f8f6279ffee098e",
+      "crc32": "c908f8cd",
+      "sha1": "d1ac67ca8477fda5eeb7d2dc1fdcc8a68599ff8e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wsav-2022-07-25T11:53:51.705974-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658764439",
+      "size": "1438",
+      "md5": "6d57d71fd873aad27bf049b2667d658e",
+      "crc32": "44f60fa4",
+      "sha1": "210907527610ea52aceb63803668ed8dbcfb51c7",
+      "format": "JSON"
+    },
+    {
+      "name": "wsav-2022-07-25T11:53:51.705974-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wsav-2022-07-25T11:53:51.705974-04:00.jpg",
+      "mtime": "1658770845",
+      "size": "10557",
+      "md5": "b6f735aeca502ace56c57e6246059f20",
+      "crc32": "4ca4869a",
+      "sha1": "2796bd30592910531f015f34696472d06670b911"
+    },
+    {
       "name": "wsav-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cdeb73e94cdcec0701125b2c3217ed9dca139247",
-      "mtime": "1658724187",
-      "size": "10277",
-      "md5": "91c240fea7fa480c5d2a443934b42165",
-      "crc32": "6e69b1ee",
-      "sha1": "e0cf9085df0b7c3b243663d528d861116cfa1205",
+      "btih": "ee5fbeedd49eab3e36d4bf2a95f97b0c35362af3",
+      "mtime": "1658770885",
+      "size": "11317",
+      "md5": "f037b598f6ba831b1a542db46f570e9d",
+      "crc32": "cd3c6070",
+      "sha1": "626c51a63eddd209cdc351ab8342199830a96453",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wsav-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cde986396059aeaa9e1a5cf67c5f16f7",
+      "md5": "b7e3b5f4dc49d5a4b3f2e4238c2e0487",
       "summation": "md5"
     },
     {
       "name": "wsav-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658724138",
-      "size": "65536",
-      "md5": "74a42d6e2a1a922c2395a8378363922b",
-      "crc32": "8b340c3a",
-      "sha1": "a3e1451f24fa08bccc196cafb1611e26b8150021",
+      "mtime": "1658764442",
+      "size": "69632",
+      "md5": "64d82112a2c7e2ca4825ad7dcbfc76e3",
+      "crc32": "51cacf61",
+      "sha1": "57dd48772cd1a135c6b438066e649c034a759a73",
       "format": "Metadata"
     },
     {
@@ -494,9 +546,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 47,
-  "item_last_updated": 1658724187,
-  "item_size": 4051576,
+  "files_count": 52,
+  "item_last_updated": 1658770885,
+  "item_size": 4447479,
   "metadata": {
     "identifier": "wsav-2022",
     "collection": [
@@ -514,7 +566,7 @@
     "addeddate": "2022-07-20 23:32:13"
   },
   "server": "ia601504.us.archive.org",
-  "uniq": 570502501,
+  "uniq": 450882817,
   "workable_servers": [
     "ia601504.us.archive.org",
     "ia801504.us.archive.org"
@@ -523,8 +575,8 @@
     {
       "url": "https://www.wsav.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsav_com-_-2022_07_25_04_26_04.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsav_com-_-2022_07_25_04_26_04.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsav_com-_-2022_07_25_15_14_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsav_com-_-2022_07_25_15_14_58.report.json",
       "summary": {
         "performance": 0.16,
         "accessibility": 0.8,
@@ -536,8 +588,8 @@
     {
       "url": "https://www.wsav.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsav_com-_-2022_07_25_04_28_06.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsav_com-_-2022_07_25_04_28_06.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsav_com-_-2022_07_25_15_16_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsav_com-_-2022_07_25_15_16_20.report.json",
       "summary": {
         "performance": 0.16,
         "accessibility": 0.8,
@@ -549,10 +601,10 @@
     {
       "url": "https://www.wsav.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsav_com-_-2022_07_25_04_27_28.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsav_com-_-2022_07_25_04_27_28.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsav_com-_-2022_07_25_15_15_41.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsav_com-_-2022_07_25_15_15_41.report.json",
       "summary": {
-        "performance": 0.19,
+        "performance": 0.16,
         "accessibility": 0.8,
         "best-practices": 0.92,
         "seo": 0.83,

@@ -1,5 +1,5 @@
 {
-  "created": 1658732019,
+  "created": 1658762545,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/22/items/mashable-2022",
@@ -2420,31 +2420,83 @@
       "sha1": "5a03bad26e8cf8cb0cd6c122053613b206a88188"
     },
     {
+      "name": "mashable-2022-07-25T06:13:52.979245-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658754836",
+      "size": "22531",
+      "md5": "1dc718511f45abdfc173deb1f7bef2b2",
+      "crc32": "ee8068fb",
+      "sha1": "ea282f90a30c4536325f77422a4bedbb9135a752",
+      "format": "JSON"
+    },
+    {
+      "name": "mashable-2022-07-25T06:13:52.979245-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658754837",
+      "size": "24707",
+      "md5": "adf9a91613ad5d579c9bd5204df575f4",
+      "crc32": "b402182a",
+      "sha1": "16b810368a5cb9a47e5d60d13406676d62472297",
+      "format": "JSON"
+    },
+    {
+      "name": "mashable-2022-07-25T06:13:52.979245-07:00.jpg",
+      "source": "original",
+      "mtime": "1658754834",
+      "size": "245342",
+      "md5": "e51e61e3c8c9addbbfc0a5f328fe9745",
+      "crc32": "fd3684f7",
+      "sha1": "7cb15cb5650079b2ffbee64b9137ec14c5808035",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mashable-2022-07-25T06:13:52.979245-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658754839",
+      "size": "1441",
+      "md5": "794aee2d8303a6ecbe18a1ff6932ee76",
+      "crc32": "619e3b1d",
+      "sha1": "5171694aa2ee3cd954175673525727014e8e7860",
+      "format": "JSON"
+    },
+    {
+      "name": "mashable-2022-07-25T06:13:52.979245-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mashable-2022-07-25T06:13:52.979245-07:00.jpg",
+      "mtime": "1658762524",
+      "size": "10562",
+      "md5": "b1ce44aca4236196440a25f432c82168",
+      "crc32": "8049f2fd",
+      "sha1": "a8b965a6eac3f8ae86959d73c26256bfae62e67e"
+    },
+    {
       "name": "mashable-2022_archive.torrent",
       "source": "metadata",
-      "btih": "497296aef458d1e986f5240634316a9faa470573",
-      "mtime": "1658731920",
-      "size": "49822",
-      "md5": "045f9e23941c8f48546b0527e3cb1340",
-      "crc32": "4adb7331",
-      "sha1": "18c3515091da755c640f1368c7df06ade5dfdd8c",
+      "btih": "6bd28bd8f196cde700a2d437fb573d9c2ca93eac",
+      "mtime": "1658762531",
+      "size": "50882",
+      "md5": "ef5c47874d2e8398ae14b04e48da3bf1",
+      "crc32": "3faec85b",
+      "sha1": "c98bbaebdc38479b9b9ff401d506b461003dd419",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mashable-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4bed3613c84af05dea4852066911a8e7",
+      "md5": "8deb189af6c9cdf0fb99048fb6302597",
       "summation": "md5"
     },
     {
       "name": "mashable-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658731624",
-      "size": "286720",
-      "md5": "36fd43802f61a268f91723fdcf73c63e",
-      "crc32": "61d0f8e2",
-      "sha1": "3d9fa9f892a148dbb7e80af9d42a19456608424d",
+      "mtime": "1658754843",
+      "size": "290816",
+      "md5": "e6ea6796a185178c93dc70912f3b8f98",
+      "crc32": "573f6217",
+      "sha1": "52f3727e54c05c624cc2e787ebf41f8daaf65117",
       "format": "Metadata"
     },
     {
@@ -2458,9 +2510,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 234,
-  "item_last_updated": 1658731920,
-  "item_size": 18291307,
+  "files_count": 239,
+  "item_last_updated": 1658762531,
+  "item_size": 18601046,
   "metadata": {
     "identifier": "mashable-2022",
     "collection": [
@@ -2477,10 +2529,10 @@
     "publicdate": "2022-07-04 20:17:39",
     "addeddate": "2022-07-04 20:17:39"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 432540504,
+  "server": "ia801400.us.archive.org",
+  "uniq": 1492415521,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658751631,
+  "created": 1658795863,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/32/items/telegraph-2022",
@@ -12680,31 +12680,83 @@
       "sha1": "e089f2dd7eefd2bb77e8a5657152c6f2bf9b96a5"
     },
     {
+      "name": "telegraph-2022-07-25T16:44:50.941330+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658763898",
+      "size": "30980",
+      "md5": "d8984f9e1eb8ac9d1641064aa8eea0bb",
+      "crc32": "8b1e62bc",
+      "sha1": "3c5482e9ed1e421c77761abec3309c613ebfe868",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-07-25T16:44:50.941330+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658763900",
+      "size": "28150",
+      "md5": "a0367493a6fa28fa3b099ad5bbc8065a",
+      "crc32": "9765612c",
+      "sha1": "2da9a43f92a6ce0f25d3be674aa268c3c4ffd2c4",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-07-25T16:44:50.941330+01:00.jpg",
+      "source": "original",
+      "mtime": "1658763896",
+      "size": "316852",
+      "md5": "80b9fcd73366e50f9f3d0e8cc1a76fac",
+      "crc32": "8708f18b",
+      "sha1": "1fc9badee395b64cf451323ccafa79164535fbae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraph-2022-07-25T16:44:50.941330+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658763903",
+      "size": "1504",
+      "md5": "c2bf03e96752f0888b9464fe0daaf6fc",
+      "crc32": "5ca7886c",
+      "sha1": "5155adc047dc7893d68fca013b02e99f9dc85eb5",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-07-25T16:44:50.941330+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraph-2022-07-25T16:44:50.941330+01:00.jpg",
+      "mtime": "1658770444",
+      "size": "9048",
+      "md5": "01284c98daa28dacea4c580e395832a8",
+      "crc32": "bdcf423d",
+      "sha1": "24d1f5fbf6cbb47bc1a450d012dc17d92afb3bd4"
+    },
+    {
       "name": "telegraph-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fda93efae29ed0b4488f39410004147cb84c9111",
-      "mtime": "1658742133",
-      "size": "257156",
-      "md5": "f62845107397a4efd9f2278ebc04ebc4",
-      "crc32": "c28c8146",
-      "sha1": "c772706ccd9047acc2f052ccb1b350a64310d045",
+      "btih": "eb403ba4118432b1524de82abf801ec56f731abf",
+      "mtime": "1658770488",
+      "size": "258220",
+      "md5": "ed90a9a8b196535d6d85b77c12320587",
+      "crc32": "a71753d1",
+      "sha1": "59525844c12188e23b901a35966f391b72b23f62",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegraph-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b97e4544c6aab2a51ef222f84782a50e",
+      "md5": "beac1afb655da26883558e3b2c314f8b",
       "summation": "md5"
     },
     {
       "name": "telegraph-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658740210",
-      "size": "1388544",
-      "md5": "2df955fa0f9ed75a4e3284cd8287d8d3",
-      "crc32": "4eac95e8",
-      "sha1": "4f3b8f10300bdf9d0764968d8c24218ccdfcf5d7",
+      "mtime": "1658763906",
+      "size": "1392640",
+      "md5": "945f346af5ddbbf365de3439c0b5643d",
+      "crc32": "e0cb0548",
+      "sha1": "f23694f999ca695722e193f927a9f0b8129889f6",
       "format": "Metadata"
     },
     {
@@ -12718,9 +12770,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1210,
-  "item_last_updated": 1658742133,
-  "item_size": 123710063,
+  "files_count": 1215,
+  "item_last_updated": 1658770488,
+  "item_size": 124101757,
   "metadata": {
     "identifier": "telegraph-2022",
     "collection": [
@@ -12737,15 +12789,15 @@
     "publicdate": "2022-03-23 08:03:49",
     "addeddate": "2022-03-23 08:03:49"
   },
-  "server": "ia802501.us.archive.org",
+  "server": "ia902501.us.archive.org",
   "telegraph-2022": [
     {
       "url": "https://www.telegraph.co.uk/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_telegraph_co_uk-_-2022_07_25_09_04_52.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_telegraph_co_uk-_-2022_07_25_09_04_52.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_telegraph_co_uk-_-2022_07_25_15_00_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_telegraph_co_uk-_-2022_07_25_15_00_37.report.json",
       "summary": {
-        "performance": 0.43,
+        "performance": 0.25,
         "accessibility": 0.96,
         "best-practices": 0.92,
         "seo": 0.99,
@@ -12755,10 +12807,10 @@
     {
       "url": "https://www.telegraph.co.uk/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_telegraph_co_uk-_-2022_07_25_09_05_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_telegraph_co_uk-_-2022_07_25_09_05_17.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_telegraph_co_uk-_-2022_07_25_15_01_02.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_telegraph_co_uk-_-2022_07_25_15_01_02.report.json",
       "summary": {
-        "performance": 0.5,
+        "performance": 0.26,
         "accessibility": 0.96,
         "best-practices": 0.92,
         "seo": 0.99,
@@ -12768,10 +12820,10 @@
     {
       "url": "https://www.telegraph.co.uk/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_telegraph_co_uk-_-2022_07_25_09_05_41.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_telegraph_co_uk-_-2022_07_25_09_05_41.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_telegraph_co_uk-_-2022_07_25_15_00_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_telegraph_co_uk-_-2022_07_25_15_00_11.report.json",
       "summary": {
-        "performance": 0.51,
+        "performance": 0.25,
         "accessibility": 0.96,
         "best-practices": 0.92,
         "seo": 0.99,
@@ -12779,9 +12831,9 @@
       }
     }
   ],
-  "uniq": 2076857904,
+  "uniq": 850355502,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

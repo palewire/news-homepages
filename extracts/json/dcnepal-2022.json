@@ -1,5 +1,5 @@
 {
-  "created": 1658750369,
+  "created": 1658758112,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/2/items/dcnepal-2022",
@@ -161,21 +161,32 @@
       "format": "JSON"
     },
     {
+      "name": "dcnepal-2022-07-25T17:43:39.717917+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dcnepal-2022-07-25T17:43:39.717917+05:45.jpg",
+      "mtime": "1658757950",
+      "size": "9511",
+      "md5": "233d87245f0ad0efbcf0ce9e24a13d74",
+      "crc32": "d37ef49d",
+      "sha1": "992b9ccdd844873d2606aa8f28c15e7bab9377e4"
+    },
+    {
       "name": "dcnepal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "98a65ccbcdcc5fb04fff46d0da77dac55bf6f912",
-      "mtime": "1658750366",
-      "size": "4559",
-      "md5": "f63d8bab810a2786724ac2e7aadcf6bb",
-      "crc32": "f40a3385",
-      "sha1": "cba778ef13673cb40d9ff6165a69dbcf14c208c7",
+      "btih": "69af4fb70f41e3f681b9ffcfd9f7306bfea75b81",
+      "mtime": "1658758056",
+      "size": "4762",
+      "md5": "716934a839ccdf08414aca1153805c0e",
+      "crc32": "ab74df62",
+      "sha1": "ed6bd45575d227eb8f10e471d86600eec89e155f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dcnepal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "79423dbc0a0cb6d6ba3e146757c7fc9e",
+      "md5": "6f8ba22b948dd245c4af6edb412f746e",
       "summation": "md5"
     },
     {
@@ -199,9 +210,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 19,
-  "item_last_updated": 1658750366,
-  "item_size": 1393004,
+  "files_count": 20,
+  "item_last_updated": 1658758056,
+  "item_size": 1402718,
   "metadata": {
     "identifier": "dcnepal-2022",
     "collection": [
@@ -218,21 +229,10 @@
     "publicdate": "2022-07-24 20:37:41",
     "addeddate": "2022-07-24 20:37:41"
   },
-  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3343290895,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2114574753,
+  "uniq": 1865348606,
   "workable_servers": [
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

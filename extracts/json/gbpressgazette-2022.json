@@ -1,5 +1,5 @@
 {
-  "created": 1658750694,
+  "created": 1658789530,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/7/items/gbpressgazette-2022",
@@ -7967,21 +7967,32 @@
       "format": "JSON"
     },
     {
+      "name": "gbpressgazette-2022-07-25T07:03:52.104994-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gbpressgazette-2022-07-25T07:03:52.104994-05:00.jpg",
+      "mtime": "1658758470",
+      "size": "9100",
+      "md5": "753d339d7dbd8faa1cc3e98a693a0c39",
+      "crc32": "a3632265",
+      "sha1": "143b4f87b71dc1dc7ad9965b6bb12e3f5561884a"
+    },
+    {
       "name": "gbpressgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "548b74b5e5c8bc2cde15289286fe528df93ddee1",
-      "mtime": "1658750691",
-      "size": "165566",
-      "md5": "06261cc6294fc69b67128aff6a3070f0",
-      "crc32": "28892889",
-      "sha1": "d5969184058bd51939a636f0c2ba7f7d7d336620",
+      "btih": "67cb8967ee8369d310c413df9eb9014b090995d4",
+      "mtime": "1658758480",
+      "size": "165776",
+      "md5": "7daf340cf2ff3a53a1dceeb26461e4da",
+      "crc32": "0fd7289d",
+      "sha1": "d0f3b29c8647c2992bde720fef7c1cdb9097e260",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gbpressgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2abd955b079e4582bb0b7d30bcdafb96",
+      "md5": "7df38b13e4d60359528b1fa1f10b4062",
       "summation": "md5"
     },
     {
@@ -8005,9 +8016,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 762,
-  "item_last_updated": 1658750691,
-  "item_size": 64692067,
+  "files_count": 763,
+  "item_last_updated": 1658758480,
+  "item_size": 64701377,
   "metadata": {
     "identifier": "gbpressgazette-2022",
     "collection": [
@@ -8024,21 +8035,10 @@
     "publicdate": "2022-03-23 23:06:20",
     "addeddate": "2022-03-23 23:06:20"
   },
-  "pending_tasks": true,
   "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3343297139,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1673021113,
+  "uniq": 97470622,
   "workable_servers": [
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

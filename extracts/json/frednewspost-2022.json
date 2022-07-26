@@ -1,5 +1,5 @@
 {
-  "created": 1658750650,
+  "created": 1658795449,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/15/items/frednewspost-2022",
@@ -8131,21 +8131,32 @@
       "format": "JSON"
     },
     {
+      "name": "frednewspost-2022-07-25T08:03:11.036179-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "frednewspost-2022-07-25T08:03:11.036179-04:00.jpg",
+      "mtime": "1658758344",
+      "size": "8924",
+      "md5": "61fdef53cfd5d5e63a4e8afc522c2586",
+      "crc32": "e31ed0ac",
+      "sha1": "1adcb452298a04d95d437d696bf0fa8e92865fe5"
+    },
+    {
       "name": "frednewspost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "57242b825d0a49235593d916c4428f95c4efa410",
-      "mtime": "1658750647",
-      "size": "168508",
-      "md5": "dec7cd369369bb30835a04b0ee3a0bd6",
-      "crc32": "35bf7faa",
-      "sha1": "620977c0fd875828ade39ccaff6aa0942bdf5fba",
+      "btih": "1361cbdd12585ef2aec5d18330a0743fc1b430be",
+      "mtime": "1658758393",
+      "size": "168716",
+      "md5": "a920c0404a23022eb8cf06742866ceff",
+      "crc32": "1ccd1e5f",
+      "sha1": "2649d845d8cdb56c5ff92c85d78b477b96d5d59c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "frednewspost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2ae22041e21487c36f7afe168204d5db",
+      "md5": "4d09410e2db5b449543a90b1188bc0ff",
       "summation": "md5"
     },
     {
@@ -8169,9 +8180,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 778,
-  "item_last_updated": 1658750647,
-  "item_size": 92814032,
+  "files_count": 779,
+  "frednewspost-2022": [
+    {
+      "url": "https://www.fredericknewspost.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fredericknewspost_com-_-2022_07_25_11_49_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fredericknewspost_com-_-2022_07_25_11_49_01.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.93,
+        "best-practices": 0.67,
+        "seo": 0.83,
+        "pwa": 0.2
+      }
+    },
+    {
+      "url": "https://www.fredericknewspost.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fredericknewspost_com-_-2022_07_25_11_51_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fredericknewspost_com-_-2022_07_25_11_51_52.report.json",
+      "summary": {
+        "performance": 0.2,
+        "accessibility": 0.93,
+        "best-practices": 0.67,
+        "seo": 0.83,
+        "pwa": 0.2
+      }
+    },
+    {
+      "url": "https://www.fredericknewspost.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fredericknewspost_com-_-2022_07_25_11_50_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fredericknewspost_com-_-2022_07_25_11_50_06.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.93,
+        "best-practices": 0.67,
+        "seo": 0.83,
+        "pwa": 0.2
+      }
+    }
+  ],
+  "item_last_updated": 1658758393,
+  "item_size": 92823164,
   "metadata": {
     "identifier": "frednewspost-2022",
     "collection": [
@@ -8188,21 +8240,10 @@
     "publicdate": "2022-04-01 13:18:01",
     "addeddate": "2022-04-01 13:18:01"
   },
-  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3343296360,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1804060664,
+  "uniq": 317807207,
   "workable_servers": [
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

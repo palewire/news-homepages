@@ -1,8 +1,49 @@
 {
-  "created": 1658750445,
+  "created": 1658795346,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/14/items/documentedny-2022",
+  "documentedny-2022": [
+    {
+      "url": "https://documentedny.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/documentedny_com-_-2022_07_25_11_43_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/documentedny_com-_-2022_07_25_11_43_52.report.json",
+      "summary": {
+        "performance": 0.3,
+        "accessibility": 0.75,
+        "best-practices": 0.83,
+        "seo": 0.73,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://documentedny.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/documentedny_com-_-2022_07_25_11_44_29.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/documentedny_com-_-2022_07_25_11_44_29.report.json",
+      "summary": {
+        "performance": 0.37,
+        "accessibility": 0.71,
+        "best-practices": 0.83,
+        "seo": 0.73,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://documentedny.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/documentedny_com-_-2022_07_25_11_44_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/documentedny_com-_-2022_07_25_11_44_11.report.json",
+      "summary": {
+        "performance": 0.36,
+        "accessibility": 0.71,
+        "best-practices": 0.83,
+        "seo": 0.73,
+        "pwa": 0.4
+      }
+    }
+  ],
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -1589,21 +1630,32 @@
       "format": "JSON"
     },
     {
+      "name": "documentedny-2022-07-25T07:59:55.323274-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "documentedny-2022-07-25T07:59:55.323274-04:00.jpg",
+      "mtime": "1658757988",
+      "size": "12767",
+      "md5": "642f7d54c9b50999d3d84ab9268c6268",
+      "crc32": "dd9e1fa9",
+      "sha1": "f537ac892fa363b7918c14e6fb3cd2b946072fdd"
+    },
+    {
       "name": "documentedny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "43de1abaf98ddf05f6a27704179006ec60899be0",
-      "mtime": "1658750442",
-      "size": "33974",
-      "md5": "f250b1817d959638377dc71a5290b39c",
-      "crc32": "4a7961e9",
-      "sha1": "c130118c7f6434255772369a2642248108a55eed",
+      "btih": "816c0f9891954d69c77b1a02bf47da05100cb8b8",
+      "mtime": "1658758000",
+      "size": "34183",
+      "md5": "c56ce765193c6cbc87bb96061d488d45",
+      "crc32": "7987ece9",
+      "sha1": "b2e1aba2f5011762242c6cb8f3cb9ed9e0dbd5e5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "documentedny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0563e437deb6c724ed8dc0b029808e00",
+      "md5": "eefe3b08e230a8709ae50daf5f15f1fa",
       "summation": "md5"
     },
     {
@@ -1627,9 +1679,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 155,
-  "item_last_updated": 1658750442,
-  "item_size": 15433831,
+  "files_count": 156,
+  "item_last_updated": 1658758000,
+  "item_size": 15446807,
   "metadata": {
     "identifier": "documentedny-2022",
     "collection": [
@@ -1646,21 +1698,10 @@
     "publicdate": "2022-07-09 03:58:14",
     "addeddate": "2022-07-09 03:58:14"
   },
-  "pending_tasks": true,
-  "server": "ia902503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3343292056,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 450303590,
+  "server": "ia802503.us.archive.org",
+  "uniq": 62900894,
   "workable_servers": [
+    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }

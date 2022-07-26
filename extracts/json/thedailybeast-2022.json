@@ -1,5 +1,5 @@
 {
-  "created": 1658751661,
+  "created": 1658795891,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/thedailybeast-2022",
@@ -194,31 +194,83 @@
       "sha1": "d65ed683e59d51cd3a774f52b499229b80aebfb4"
     },
     {
+      "name": "thedailybeast-2022-07-25T11:46:14.443782-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658763978",
+      "size": "19695",
+      "md5": "c88d01b9f155c09087e92a7e6142b3de",
+      "crc32": "76d0b2f7",
+      "sha1": "a5dd31ed3fdf45c6e0d1e86e409275009c5ac45c",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailybeast-2022-07-25T11:46:14.443782-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658763979",
+      "size": "18390",
+      "md5": "b3fbc4acf5f43f957a2ecd72d7c95e70",
+      "crc32": "1a7e31f1",
+      "sha1": "9ff86564735f29d5689bada4d05b15173e6c1113",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailybeast-2022-07-25T11:46:14.443782-04:00.jpg",
+      "source": "original",
+      "mtime": "1658763976",
+      "size": "288623",
+      "md5": "bd555560359e10cd4cfc18c99bb8d169",
+      "crc32": "f8b34068",
+      "sha1": "e8b8d0f45ca463866d1a7e4345ce914ace2488af",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailybeast-2022-07-25T11:46:14.443782-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658763981",
+      "size": "1521",
+      "md5": "82df68b3aad7d5c617d0d5719c7ad215",
+      "crc32": "f3fe881d",
+      "sha1": "40aba7cb189a165abe58386a175ed3d4f98e1131",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailybeast-2022-07-25T11:46:14.443782-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailybeast-2022-07-25T11:46:14.443782-04:00.jpg",
+      "mtime": "1658770405",
+      "size": "10313",
+      "md5": "df3eb4c265158c4d5ee8605db27c54ce",
+      "crc32": "ba4acede",
+      "sha1": "2a9d846b5c2dba67cc6fb36c9537daa1af0d80a6"
+    },
+    {
       "name": "thedailybeast-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a372892c2666c6c4772436e4bd1b77e797d2c614",
-      "mtime": "1658723960",
-      "size": "5321",
-      "md5": "3ee00565fa92cd52db094c2a3d90e23c",
-      "crc32": "f6ce3849",
-      "sha1": "f754326de3c0df7fa8394937f5c6e8cb37aaaec9",
+      "btih": "e03d0272b280eed6134e31156ae4abcccedb4893",
+      "mtime": "1658770432",
+      "size": "6406",
+      "md5": "9e8948df4048089ecca45e8264e99db9",
+      "crc32": "6483be75",
+      "sha1": "d3bba9658eaf765e63ffab18bec6ca6fbe360d53",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailybeast-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0d5cea0564c1813887ba24af5b321399",
+      "md5": "319250b5bb47daa325a507c7253c74c4",
       "summation": "md5"
     },
     {
       "name": "thedailybeast-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658723837",
-      "size": "40960",
-      "md5": "ef0fde8c445fc589ab406116ba7dc2e3",
-      "crc32": "039fac79",
-      "sha1": "862910ea004180ebd8023d45f4a4e2c887de0a9a",
+      "mtime": "1658763985",
+      "size": "45056",
+      "md5": "1c55ae6fb80e6c4a693c98bb137b8643",
+      "crc32": "6f69e9e1",
+      "sha1": "0bee5d8fb66c99f8aaa212015cad64981606fdd8",
       "format": "Metadata"
     },
     {
@@ -232,9 +284,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 22,
-  "item_last_updated": 1658723960,
-  "item_size": 1391276,
+  "files_count": 27,
+  "item_last_updated": 1658770432,
+  "item_size": 1734999,
   "metadata": {
     "identifier": "thedailybeast-2022",
     "collection": [
@@ -256,10 +308,10 @@
     {
       "url": "https://www.thedailybeast.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedailybeast_com-_-2022_07_25_04_15_43.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedailybeast_com-_-2022_07_25_04_15_43.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedailybeast_com-_-2022_07_25_15_02_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedailybeast_com-_-2022_07_25_15_02_21.report.json",
       "summary": {
-        "performance": 0.29,
+        "performance": 0.27,
         "accessibility": 0.74,
         "best-practices": 0.83,
         "seo": 0.93,
@@ -269,11 +321,11 @@
     {
       "url": "https://www.thedailybeast.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedailybeast_com-_-2022_07_25_04_16_41.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedailybeast_com-_-2022_07_25_04_16_41.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedailybeast_com-_-2022_07_25_15_03_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedailybeast_com-_-2022_07_25_15_03_48.report.json",
       "summary": {
-        "performance": 0.25,
-        "accessibility": 0.71,
+        "performance": 0.3,
+        "accessibility": 0.74,
         "best-practices": 0.83,
         "seo": 0.93,
         "pwa": 0.3
@@ -282,10 +334,10 @@
     {
       "url": "https://www.thedailybeast.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedailybeast_com-_-2022_07_25_04_16_13.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedailybeast_com-_-2022_07_25_04_16_13.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedailybeast_com-_-2022_07_25_15_03_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedailybeast_com-_-2022_07_25_15_03_23.report.json",
       "summary": {
-        "performance": 0.36,
+        "performance": 0.35,
         "accessibility": 0.74,
         "best-practices": 0.83,
         "seo": 0.93,
@@ -293,7 +345,7 @@
       }
     }
   ],
-  "uniq": 1306383813,
+  "uniq": 1667552903,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

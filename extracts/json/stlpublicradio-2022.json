@@ -1,5 +1,5 @@
 {
-  "created": 1658720795,
+  "created": 1658795844,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/7/items/stlpublicradio-2022",
@@ -1432,31 +1432,83 @@
       "sha1": "98b602c6a4d40d096b01758d457667ecbca8024e"
     },
     {
+      "name": "stlpublicradio-2022-07-25T10:43:20.919573-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658763806",
+      "size": "19814",
+      "md5": "03ba67659daba05675d015eefc098e39",
+      "crc32": "38f8e965",
+      "sha1": "2f7fda59a6aa39d0827baeb16e023f435a9427ff",
+      "format": "JSON"
+    },
+    {
+      "name": "stlpublicradio-2022-07-25T10:43:20.919573-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658763808",
+      "size": "40134",
+      "md5": "9fc5a7372e89dab880e2922dd6c01515",
+      "crc32": "e0b58412",
+      "sha1": "fa404923beca73f14c394f694da40a158aaa3692",
+      "format": "JSON"
+    },
+    {
+      "name": "stlpublicradio-2022-07-25T10:43:20.919573-05:00.jpg",
+      "source": "original",
+      "mtime": "1658763805",
+      "size": "298364",
+      "md5": "da477db6d373e1b4a0b2c47a162a6eac",
+      "crc32": "80d80784",
+      "sha1": "32b154c0a2f71c8691428809f2db2a3058445196",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stlpublicradio-2022-07-25T10:43:20.919573-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658763809",
+      "size": "1539",
+      "md5": "4e728ae0b82e0fca71ec0b610d3495d8",
+      "crc32": "ed12b170",
+      "sha1": "d8463145333db0406fec7bfd1f7949f0b3b6da80",
+      "format": "JSON"
+    },
+    {
+      "name": "stlpublicradio-2022-07-25T10:43:20.919573-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stlpublicradio-2022-07-25T10:43:20.919573-05:00.jpg",
+      "mtime": "1658770276",
+      "size": "10604",
+      "md5": "720c147395459ba8f7f4c6ec418e098a",
+      "crc32": "6cb3688b",
+      "sha1": "499540c1024edc1bfec79a24fd2276ccb1c44c62"
+    },
+    {
       "name": "stlpublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "61330b523df05736f247a6d288386c55aa2d543a",
-      "mtime": "1658720780",
-      "size": "30969",
-      "md5": "0bab183f561dc3190fb31e85867adf7e",
-      "crc32": "f6cf77bb",
-      "sha1": "0fd0d5fa40e3265d2b8e80ee4b8e6ebbd1238778",
+      "btih": "8c2c58e7a2cf58227a6aa923fe03df7c1ae1d112",
+      "mtime": "1658770280",
+      "size": "32059",
+      "md5": "646de552ce1ec052d414cb381a2c276d",
+      "crc32": "3130d57a",
+      "sha1": "68db17e55a9ffb403e12ea5fc63301466fcbf2e5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stlpublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e8d5dd96634c25246cf794b0f7885bf8",
+      "md5": "5899f07d7cf28182a57d2388420eb420",
       "summation": "md5"
     },
     {
       "name": "stlpublicradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658720706",
-      "size": "180224",
-      "md5": "33d69075d33272aff6b04e954fad4063",
-      "crc32": "acaf45a4",
-      "sha1": "f456f8c615977140a78eed9004bd949c6449003e",
+      "mtime": "1658763814",
+      "size": "188416",
+      "md5": "4575851efa3fe8aa71fd7e52ec268a47",
+      "crc32": "4beac6c0",
+      "sha1": "5c67d14cbdb728cd9720dcf15fabf9855079a9e4",
       "format": "Metadata"
     },
     {
@@ -1470,9 +1522,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 140,
-  "item_last_updated": 1658720780,
-  "item_size": 12450848,
+  "files_count": 145,
+  "item_last_updated": 1658770280,
+  "item_size": 12830585,
   "metadata": {
     "identifier": "stlpublicradio-2022",
     "collection": [
@@ -1489,10 +1541,51 @@
     "publicdate": "2022-07-09 04:04:48",
     "addeddate": "2022-07-09 04:04:48"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 484321407,
+  "server": "ia902505.us.archive.org",
+  "stlpublicradio-2022": [
+    {
+      "url": "https://news.stlpublicradio.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_stlpublicradio_org-_-2022_07_25_14_21_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_stlpublicradio_org-_-2022_07_25_14_21_27.report.json",
+      "summary": {
+        "performance": 0.2,
+        "accessibility": 0.92,
+        "best-practices": 0.83,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://news.stlpublicradio.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_stlpublicradio_org-_-2022_07_25_14_22_02.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_stlpublicradio_org-_-2022_07_25_14_22_02.report.json",
+      "summary": {
+        "performance": 0.33,
+        "accessibility": 0.92,
+        "best-practices": 0.83,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://news.stlpublicradio.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_stlpublicradio_org-_-2022_07_25_14_21_45.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_stlpublicradio_org-_-2022_07_25_14_21_45.report.json",
+      "summary": {
+        "performance": 0.32,
+        "accessibility": 0.92,
+        "best-practices": 0.83,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "uniq": 1375970705,
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

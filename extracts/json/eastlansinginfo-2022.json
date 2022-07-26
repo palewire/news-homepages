@@ -1,8 +1,49 @@
 {
-  "created": 1658750479,
+  "created": 1658795352,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/11/items/eastlansinginfo-2022",
+  "eastlansinginfo-2022": [
+    {
+      "url": "https://eastlansinginfo.news/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/eastlansinginfo_news-_-2022_07_25_11_44_42.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/eastlansinginfo_news-_-2022_07_25_11_44_42.report.json",
+      "summary": {
+        "performance": 0.55,
+        "accessibility": 0.82,
+        "best-practices": 0.92,
+        "seo": 0.82,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://eastlansinginfo.news/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/eastlansinginfo_news-_-2022_07_25_11_45_08.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/eastlansinginfo_news-_-2022_07_25_11_45_08.report.json",
+      "summary": {
+        "performance": 0.68,
+        "accessibility": 0.82,
+        "best-practices": 0.92,
+        "seo": 0.82,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://eastlansinginfo.news/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/eastlansinginfo_news-_-2022_07_25_11_44_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/eastlansinginfo_news-_-2022_07_25_11_44_55.report.json",
+      "summary": {
+        "performance": 0.67,
+        "accessibility": 0.82,
+        "best-practices": 0.92,
+        "seo": 0.82,
+        "pwa": 0.3
+      }
+    }
+  ],
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -1473,21 +1514,32 @@
       "format": "JSON"
     },
     {
+      "name": "eastlansinginfo-2022-07-25T08:00:27.577675-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eastlansinginfo-2022-07-25T08:00:27.577675-04:00.jpg",
+      "mtime": "1658758113",
+      "size": "9448",
+      "md5": "d89a66477501584919d7a40e62c7a7e1",
+      "crc32": "e57cb305",
+      "sha1": "211f64086f20ce1e84029d0cd744085f8999efc3"
+    },
+    {
       "name": "eastlansinginfo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5b82eaacdd6f4e18a22fd56e8deeccee60cda090",
-      "mtime": "1658750477",
-      "size": "31886",
-      "md5": "829d43522dc608fbae7bfb036aae126e",
-      "crc32": "e929e44e",
-      "sha1": "0ee7e255d0bc9f404eb766ca457d1aed2a99d785",
+      "btih": "6c4cb5e2211bfb3a65e08db075e0fed4ff0e0781",
+      "mtime": "1658758272",
+      "size": "32097",
+      "md5": "dbb3a6a9ac855e8cb1c48f7dbe8c8120",
+      "crc32": "b6838ada",
+      "sha1": "762a17a709253141bdea338304c628c32be97fd5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eastlansinginfo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6dab61943d6f395708faa459864cec6d",
+      "md5": "530d060b4dfa8b61b9ab617396572e48",
       "summation": "md5"
     },
     {
@@ -1511,9 +1563,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 144,
-  "item_last_updated": 1658750477,
-  "item_size": 10823861,
+  "files_count": 145,
+  "item_last_updated": 1658758272,
+  "item_size": 10833520,
   "metadata": {
     "identifier": "eastlansinginfo-2022",
     "collection": [
@@ -1530,21 +1582,10 @@
     "publicdate": "2022-07-09 03:58:21",
     "addeddate": "2022-07-09 03:58:21"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3343292595,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1459091501,
+  "server": "ia802505.us.archive.org",
+  "uniq": 1969749309,
   "workable_servers": [
+    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

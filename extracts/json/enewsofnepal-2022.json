@@ -1,8 +1,49 @@
 {
-  "created": 1658750550,
+  "created": 1658795374,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/24/items/enewsofnepal-2022",
+  "enewsofnepal-2022": [
+    {
+      "url": "https://www.newsofnepal.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newsofnepal_com-_-2022_07_25_11_45_04.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newsofnepal_com-_-2022_07_25_11_45_04.report.json",
+      "summary": {
+        "performance": 0.51,
+        "accessibility": 0.65,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.newsofnepal.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newsofnepal_com-_-2022_07_25_11_45_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newsofnepal_com-_-2022_07_25_11_45_21.report.json",
+      "summary": {
+        "performance": 0.59,
+        "accessibility": 0.65,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.newsofnepal.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newsofnepal_com-_-2022_07_25_11_45_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newsofnepal_com-_-2022_07_25_11_45_36.report.json",
+      "summary": {
+        "performance": 0.55,
+        "accessibility": 0.65,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    }
+  ],
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -161,21 +202,32 @@
       "format": "JSON"
     },
     {
+      "name": "enewsofnepal-2022-07-25T17:46:43.086235+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enewsofnepal-2022-07-25T17:46:43.086235+05:45.jpg",
+      "mtime": "1658758165",
+      "size": "10181",
+      "md5": "b46f02c44755bee354b00059d19146cf",
+      "crc32": "8be3f132",
+      "sha1": "7bdb515fe3fa112439e6aba542f1206fd2753dfa"
+    },
+    {
       "name": "enewsofnepal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "206f150c7f69f82d1134c58177d2458bfeaffd22",
-      "mtime": "1658750547",
-      "size": "4673",
-      "md5": "11fd808cdcedc08d9cbae97e14eb7a77",
-      "crc32": "85163571",
-      "sha1": "4b16fcc9aa8ddff28a1544d9de1e4e325e140202",
+      "btih": "eb4f5cb1d4c21a8cba9b34461d4e2ce5a239094b",
+      "mtime": "1658758225",
+      "size": "4882",
+      "md5": "03d09d555b5ac80af170afce926791be",
+      "crc32": "6017f409",
+      "sha1": "4142dc7c063a189cb8cc1d495abfa52b79ddfaaf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "enewsofnepal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a4e5a18d773fdc9ea21c2ae75adea265",
+      "md5": "eb94c3b42f634be428d5570909393e9c",
       "summation": "md5"
     },
     {
@@ -199,9 +251,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 19,
-  "item_last_updated": 1658750547,
-  "item_size": 1200116,
+  "files_count": 20,
+  "item_last_updated": 1658758225,
+  "item_size": 1210506,
   "metadata": {
     "identifier": "enewsofnepal-2022",
     "collection": [
@@ -218,21 +270,10 @@
     "publicdate": "2022-07-24 20:37:25",
     "addeddate": "2022-07-24 20:37:25"
   },
-  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3343294013,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 295603248,
+  "uniq": 1916537416,
   "workable_servers": [
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

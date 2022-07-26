@@ -1,5 +1,5 @@
 {
-  "created": 1658750661,
+  "created": 1658795454,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/17/items/ft-2022",
@@ -12941,21 +12941,32 @@
       "format": "JSON"
     },
     {
+      "name": "ft-2022-07-25T13:03:11.825962+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ft-2022-07-25T13:03:11.825962+01:00.jpg",
+      "mtime": "1658758494",
+      "size": "9791",
+      "md5": "ce96216525b0984fd6be27d20ba1bf97",
+      "crc32": "11e260a1",
+      "sha1": "b800c4d2f0d2c0b714209d15af903619ce91e257"
+    },
+    {
       "name": "ft-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8cc34414af7cc1234513a673e7aacefc1508c553",
-      "mtime": "1658750657",
-      "size": "254125",
-      "md5": "90ead254ef23b614cb5d630b83d63ab1",
-      "crc32": "b6834a76",
-      "sha1": "9b5d332d84916800eaf6d2ed25e74d2634b36cc6",
+      "btih": "681000f43e0c44ee8db913eac7dfc7ac6adc99c4",
+      "mtime": "1658758516",
+      "size": "254323",
+      "md5": "bcd57545e2928653608966f37b94268f",
+      "crc32": "aefb6b43",
+      "sha1": "01cfd133a2aabd73f2627e4cb98c7283532936a5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ft-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "215730110ff2a9d19d1a9fb6a20c88f9",
+      "md5": "b08aa9820b8957dcb65d968e3897ef51",
       "summation": "md5"
     },
     {
@@ -12979,9 +12990,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1235,
-  "item_last_updated": 1658750657,
-  "item_size": 131140041,
+  "files_count": 1236,
+  "ft-2022": [
+    {
+      "url": "https://www.ft.com/?edition=uk",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_07_25_11_49_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_07_25_11_49_17.report.json",
+      "summary": {
+        "performance": 0.47,
+        "accessibility": 1,
+        "best-practices": 1,
+        "seo": 0.99,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.ft.com/?edition=uk",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_07_25_11_49_32.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_07_25_11_49_32.report.json",
+      "summary": {
+        "performance": 0.54,
+        "accessibility": 1,
+        "best-practices": 1,
+        "seo": 0.99,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.ft.com/?edition=uk",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_07_25_11_49_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_07_25_11_49_01.report.json",
+      "summary": {
+        "performance": 0.38,
+        "accessibility": 1,
+        "best-practices": 1,
+        "seo": 0.99,
+        "pwa": 0.6
+      }
+    }
+  ],
+  "item_last_updated": 1658758516,
+  "item_size": 131150030,
   "metadata": {
     "identifier": "ft-2022",
     "collection": [
@@ -12998,21 +13050,10 @@
     "publicdate": "2022-03-23 08:03:16",
     "addeddate": "2022-03-23 08:03:16"
   },
-  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3343296573,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1642013528,
+  "uniq": 926440019,
   "workable_servers": [
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }
