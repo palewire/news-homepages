@@ -1,5 +1,5 @@
 {
-  "created": 1658795316,
+  "created": 1658838236,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/31/items/komunews-2022",
@@ -3342,31 +3342,72 @@
       "sha1": "ca99fe6d37bcdd30c2c8736bddf7f944df0934e7"
     },
     {
+      "name": "komunews-2022-07-26T07:22:39.593271-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658838168",
+      "size": "24627",
+      "md5": "502ffe95c1f466bba8a38c56f2bd5d01",
+      "crc32": "046f4ec4",
+      "sha1": "9cc919e70ce44616621fa8d7c309b9b0772f72a9",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-07-26T07:22:39.593271-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658838170",
+      "size": "45674",
+      "md5": "323859d4e8cfa4dc1fba4bdc9acc52db",
+      "crc32": "0f354e11",
+      "sha1": "593cf3a8ad97cfd20f35bd47283a4c5249a6fbc2",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-07-26T07:22:39.593271-05:00.jpg",
+      "source": "original",
+      "mtime": "1658838166",
+      "size": "306891",
+      "md5": "d15f81e83d75704b3050e43b5be502ac",
+      "crc32": "9fe5bba7",
+      "sha1": "a98b91c7efc447024bf772ff667a21d6b77ac2ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "komunews-2022-07-26T07:22:39.593271-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658838173",
+      "size": "1435",
+      "md5": "ad965ee60f2b23b23c82e8b6d4a09dc8",
+      "crc32": "b67737f0",
+      "sha1": "6020324d75419e019f721243918f05ad555db2fb",
+      "format": "JSON"
+    },
+    {
       "name": "komunews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dd364cccf034aa446b0f11e182cce25f92e81cda",
-      "mtime": "1658795255",
-      "size": "68572",
-      "md5": "210ae2e759f535f09003973280f41082",
-      "crc32": "aca04ff2",
-      "sha1": "25b40e10db7e20e40db0d2af15344a0f141abf5a",
+      "btih": "0baf5a4e1e734706b85890b53905b32d095c76cb",
+      "mtime": "1658838230",
+      "size": "69427",
+      "md5": "f862b0eb3102609f37f86e8bc0454280",
+      "crc32": "90050c75",
+      "sha1": "7584b6b63916ee40a0545581bff63f4cab18b56e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "komunews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6cc55be3b22f1f2e3a6fcbd2f3b39f03",
+      "md5": "e378bf507799b0b4f02f08c080aa98dc",
       "summation": "md5"
     },
     {
       "name": "komunews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658794617",
-      "size": "385024",
-      "md5": "be07a7c0b9f40f50248fe20906a34699",
-      "crc32": "16dfeeb2",
-      "sha1": "70d16ab46aa51eeb83fbdac50e249f055d386009",
+      "mtime": "1658838192",
+      "size": "389120",
+      "md5": "64cb9d7f87343ce5561b5d6da0be2c5f",
+      "crc32": "ab1f16b7",
+      "sha1": "55393efee9f97856a1136a998f78a305787f1537",
       "format": "Metadata"
     },
     {
@@ -3380,9 +3421,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 322,
-  "item_last_updated": 1658795255,
-  "item_size": 30841822,
+  "files_count": 326,
+  "item_last_updated": 1658838230,
+  "item_size": 31225400,
   "metadata": {
     "identifier": "komunews-2022",
     "collection": [
@@ -3399,10 +3440,21 @@
     "publicdate": "2022-06-24 22:57:45",
     "addeddate": "2022-06-24 22:57:45"
   },
+  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "uniq": 1379186041,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3344322153,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1143471590,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia601407.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658795577,
+  "created": 1658838283,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/13/items/ledgerenquirer-2022",
@@ -570,31 +570,72 @@
       "sha1": "b540eb52fded61a4c7e08244f2f39aa395952c66"
     },
     {
+      "name": "ledgerenquirer-2022-07-26T08:23:43.557838-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658838229",
+      "size": "464",
+      "md5": "8d70f5cd9452c0419dfebee1a2f5a552",
+      "crc32": "35bc05b1",
+      "sha1": "ca25d29e1f1a891ff1d969786e1e48b99ca44a76",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-07-26T08:23:43.557838-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658838231",
+      "size": "34715",
+      "md5": "9fbfb37d8e61a145793e197eb3f5dc57",
+      "crc32": "35704735",
+      "sha1": "9fec1ebcd0d3354c848ee78aef20ed1487b927c2",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-07-26T08:23:43.557838-04:00.jpg",
+      "source": "original",
+      "mtime": "1658838226",
+      "size": "287230",
+      "md5": "66f42db2a1e8ea7197bf749a2bae328e",
+      "crc32": "91313098",
+      "sha1": "adfefab94e14eff977d220794e623346aa316884",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ledgerenquirer-2022-07-26T08:23:43.557838-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658838235",
+      "size": "1540",
+      "md5": "b39ce62065a031a7fa9736f05de49034",
+      "crc32": "11fe9c9c",
+      "sha1": "25cb82dae143dfc9cb58779113f182bdaf604402",
+      "format": "JSON"
+    },
+    {
       "name": "ledgerenquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8fd8664ff3ce062893a33269de503660a094b87d",
-      "mtime": "1658795519",
-      "size": "13113",
-      "md5": "908d85874d90e225030ee03078264740",
-      "crc32": "18d135e2",
-      "sha1": "9ed08115f84a576e9d1fb047a55312bd1d34a9f2",
+      "btih": "27bb9d745d27d5431ea7f6426dc954cfaae144db",
+      "mtime": "1658838277",
+      "size": "13990",
+      "md5": "87a7f49881b1f0104e4284b737db2299",
+      "crc32": "f3330b63",
+      "sha1": "a85cea9c49a2a00100ad0c5a98da8d2767dd4a93",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ledgerenquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a783ae2a5f553966274da41d80748296",
+      "md5": "9a486d5fe506e283564c1e889676bcd2",
       "summation": "md5"
     },
     {
       "name": "ledgerenquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658794752",
-      "size": "77824",
-      "md5": "44f72e03ccc027702d2704fd16f4089d",
-      "crc32": "38ef9f40",
-      "sha1": "5d7812a4b9664deb134db46486ce27f719aa6362",
+      "mtime": "1658838240",
+      "size": "81920",
+      "md5": "3a48486bd2c88c6b48d15c1f90550344",
+      "crc32": "d8a0eb42",
+      "sha1": "a6f04e79fbe2188f975fed0b2ff30f2b9ef6ed1c",
       "format": "Metadata"
     },
     {
@@ -608,9 +649,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 58,
-  "item_last_updated": 1658795519,
-  "item_size": 4029178,
+  "files_count": 62,
+  "item_last_updated": 1658838277,
+  "item_size": 4358100,
   "metadata": {
     "identifier": "ledgerenquirer-2022",
     "collection": [
@@ -627,10 +668,21 @@
     "publicdate": "2022-07-20 23:31:19",
     "addeddate": "2022-07-20 23:31:19"
   },
+  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "uniq": 1252476766,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3344322603,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2144483654,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia601503.us.archive.org"
   ]
 }

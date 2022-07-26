@@ -1,5 +1,5 @@
 {
-  "created": 1658795146,
+  "created": 1658838628,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/sinow-2022",
@@ -1903,31 +1903,83 @@
       "format": "JSON"
     },
     {
+      "name": "sinow-2022-07-25T20:24:48.573213-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sinow-2022-07-25T20:24:48.573213-04:00.jpg",
+      "mtime": "1658795889",
+      "size": "10514",
+      "md5": "d74b253fc8ba79447002f398394caf24",
+      "crc32": "7f3d597c",
+      "sha1": "88d8ce40b6157c1be87c601b681869ed76d4c927"
+    },
+    {
+      "name": "sinow-2022-07-26T08:29:38.164326-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658838582",
+      "size": "27885",
+      "md5": "15c5f484b4e9b006b5c7045820e1bfc9",
+      "crc32": "7be67476",
+      "sha1": "7ccc397c84303e6468b5ea20d2563d88d721111e",
+      "format": "JSON"
+    },
+    {
+      "name": "sinow-2022-07-26T08:29:38.164326-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658838584",
+      "size": "30718",
+      "md5": "d55c2f0d0cfe1c0663fc090dde00f034",
+      "crc32": "42aab689",
+      "sha1": "fe0eb2e4cd152ddc2eb37928d84a414cfde991d2",
+      "format": "JSON"
+    },
+    {
+      "name": "sinow-2022-07-26T08:29:38.164326-04:00.jpg",
+      "source": "original",
+      "mtime": "1658838580",
+      "size": "289813",
+      "md5": "34e99df8f9d55915245af9e48831a9c4",
+      "crc32": "95303332",
+      "sha1": "f81930b6f0b0d0bc3707c28bc9200ba727c041dd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sinow-2022-07-26T08:29:38.164326-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658838586",
+      "size": "1423",
+      "md5": "f3bfbafcd3e76597d0a3f24a1d734a59",
+      "crc32": "40149b98",
+      "sha1": "8648da8d26aa8229667445fb19f209e7481ba6a3",
+      "format": "JSON"
+    },
+    {
       "name": "sinow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c7b5dd5e4819e22f7e9359bc897b0dcfa068d10a",
-      "mtime": "1658795142",
-      "size": "39045",
-      "md5": "ed459d51ab65c0cf057e5539b8682725",
-      "crc32": "202f91a1",
-      "sha1": "7eb1a01dafae48c4243414d245d0fbc3de7f4303",
+      "btih": "640fcc15e30b156ebab8cf875a422e8a14878022",
+      "mtime": "1658838625",
+      "size": "40070",
+      "md5": "e3b3ea919565cba75e6ae937b892b5f5",
+      "crc32": "cd772d22",
+      "sha1": "6de748a99800ecca82e419b7b54ab91ebdbd6387",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sinow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ca497ed4c9e4a0bec8efcc5265638e35",
+      "md5": "03ff5770b1622aea698c10b6c6d7bd98",
       "summation": "md5"
     },
     {
       "name": "sinow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658795101",
-      "size": "229376",
-      "md5": "8d7dea9f79c2625b623e91e43745b3df",
-      "crc32": "92fe319a",
-      "sha1": "dcdf9fa43a082a4c448a8ff75bbcbe66aa031527",
+      "mtime": "1658838590",
+      "size": "233472",
+      "md5": "2d03d813a4bc736b387a8d5683229fbe",
+      "crc32": "3da426d4",
+      "sha1": "224f4594071feb8fd712b5fcbf7bcf6628469935",
       "format": "Metadata"
     },
     {
@@ -1941,9 +1993,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 185,
-  "item_last_updated": 1658795142,
-  "item_size": 16314711,
+  "files_count": 190,
+  "item_last_updated": 1658838625,
+  "item_size": 16680185,
   "metadata": {
     "identifier": "sinow-2022",
     "collection": [
@@ -1965,15 +2017,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3343833296,
+      "task_id": 3344325592,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 205431928,
+  "uniq": 993533233,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

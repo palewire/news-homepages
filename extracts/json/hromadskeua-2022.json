@@ -1,5 +1,5 @@
 {
-  "created": 1658795341,
+  "created": 1658838040,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/17/items/hromadskeua-2022",
@@ -10896,31 +10896,72 @@
       "sha1": "193362e62fb21be9ca968d5fe5cbb83e8381551f"
     },
     {
+      "name": "hromadskeua-2022-07-26T15:18:49.845579+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658837937",
+      "size": "29629",
+      "md5": "25a94a881291f59a94caf64e49a3dc9a",
+      "crc32": "f0cbf12c",
+      "sha1": "791904d0b28c0aa0ea4e3cdb54cdd88ac7c26437",
+      "format": "JSON"
+    },
+    {
+      "name": "hromadskeua-2022-07-26T15:18:49.845579+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658837940",
+      "size": "23584",
+      "md5": "d397dd5659613fdf857e5e5cabcd72b0",
+      "crc32": "6ad2aacd",
+      "sha1": "4222399e1b0758eee0b13916c44da9645ab80073",
+      "format": "JSON"
+    },
+    {
+      "name": "hromadskeua-2022-07-26T15:18:49.845579+03:00.jpg",
+      "source": "original",
+      "mtime": "1658837935",
+      "size": "271671",
+      "md5": "b1c5b798dc55e0208ad3c79c79275f45",
+      "crc32": "fe844f42",
+      "sha1": "ac1a3ba9b97fce1dd792c3171f881d2dcfda77fb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hromadskeua-2022-07-26T15:18:49.845579+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658837942",
+      "size": "1431",
+      "md5": "38524d52abed2ba7674b19e466ea7095",
+      "crc32": "fa51cab2",
+      "sha1": "e2aac99e6f3a8ac803b587093bc4f431ea9655c3",
+      "format": "JSON"
+    },
+    {
       "name": "hromadskeua-2022_archive.torrent",
       "source": "metadata",
-      "btih": "03ed0de3e9547309557e4d746e5a4ef34900f112",
-      "mtime": "1658795159",
-      "size": "223017",
-      "md5": "2e7fb5897286b4bc954d81693156ecb5",
-      "crc32": "8859d806",
-      "sha1": "3d879d218c88cbb2283d2584c2b716ed51cd9bc6",
+      "btih": "1a702384f34eae42d5c7c8fd399ebafa6e28df27",
+      "mtime": "1658838030",
+      "size": "223884",
+      "md5": "2ca6ce898ab7175cbe8a42e2960e63b7",
+      "crc32": "c7fd961f",
+      "sha1": "2647ba898dfbb6fd80d30fe570f78bf4b74d1b9f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hromadskeua-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6e81e8b0310e9007adb9700a7cad546d",
+      "md5": "39e6d258f8f32c9c7f664a70bf81091a",
       "summation": "md5"
     },
     {
       "name": "hromadskeua-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658794490",
-      "size": "1196032",
-      "md5": "08763c88a4a0eeedecf7874665dfc8b3",
-      "crc32": "84a8bd8e",
-      "sha1": "a6042cee9c5bb2c4dde80a6b4b4cc393e6e1f890",
+      "mtime": "1658837946",
+      "size": "1200128",
+      "md5": "c7bcedf4573f50366d88cd1d3bedd2d5",
+      "crc32": "a926497b",
+      "sha1": "8ec529e6281b98037d742e7180c8c125ccda3d0d",
       "format": "Metadata"
     },
     {
@@ -10934,9 +10975,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1040,
-  "item_last_updated": 1658795159,
-  "item_size": 101219779,
+  "files_count": 1044,
+  "item_last_updated": 1658838030,
+  "item_size": 101551057,
   "metadata": {
     "identifier": "hromadskeua-2022",
     "collection": [
@@ -10953,10 +10994,21 @@
     "publicdate": "2022-03-23 17:49:24",
     "addeddate": "2022-03-23 17:49:24"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 2027685847,
+  "pending_tasks": true,
+  "server": "ia902505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3344320658,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 524897163,
   "workable_servers": [
-    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658785121,
+  "created": 1658810343,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/25/items/washingtonpost-2022",
@@ -2984,31 +2984,83 @@
       "sha1": "4445ad95acee827c89840fa5b515aca9903a64a0"
     },
     {
+      "name": "washingtonpost-2022-07-26T00:01:29.495996-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658808098",
+      "size": "63018",
+      "md5": "14d57bc968b1e18e869a461d6777e77a",
+      "crc32": "6199e8f3",
+      "sha1": "a6dfbbe3eed28de6d66c8e73011a70f60f8386d7",
+      "format": "JSON"
+    },
+    {
+      "name": "washingtonpost-2022-07-26T00:01:29.495996-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658808100",
+      "size": "60398",
+      "md5": "8f99027d28d166e3c96b2dfcf245fcfc",
+      "crc32": "3b4fcc9b",
+      "sha1": "cd88cef5a709a4a4668d1d8a3868931214e5b7f6",
+      "format": "JSON"
+    },
+    {
+      "name": "washingtonpost-2022-07-26T00:01:29.495996-04:00.jpg",
+      "source": "original",
+      "mtime": "1658808097",
+      "size": "265381",
+      "md5": "940d056aa945df5e85c8015e1295dc22",
+      "crc32": "847ed7d0",
+      "sha1": "06434d527be3feaa544ce5454cd0c513c4bd18b5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "washingtonpost-2022-07-26T00:01:29.495996-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658808102",
+      "size": "1529",
+      "md5": "6c81ef6f9b7298738bc9e955a00a3aca",
+      "crc32": "faeecac8",
+      "sha1": "d9056ba2acf75804decfded6394e91babeda58eb",
+      "format": "JSON"
+    },
+    {
+      "name": "washingtonpost-2022-07-26T00:01:29.495996-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "washingtonpost-2022-07-26T00:01:29.495996-04:00.jpg",
+      "mtime": "1658810318",
+      "size": "9302",
+      "md5": "5ae17b57d549d603fcd69d780af2b84f",
+      "crc32": "6e76610e",
+      "sha1": "d3bcedadf39747dd56218e871aad121222d19832"
+    },
+    {
       "name": "washingtonpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3ef76e0455cc843b125e752e1d2b0097f4d3d9ef",
-      "mtime": "1658785067",
-      "size": "63047",
-      "md5": "5677d23b78099b140ca6abeec8e32692",
-      "crc32": "41666c94",
-      "sha1": "f3d47933d832fba246f551d08d345a368a8ebbd7",
+      "btih": "623b93fe775d11d2f7ae961ed27c3ce58c48f0c0",
+      "mtime": "1658810323",
+      "size": "64136",
+      "md5": "c378ed4d0e76250cc2baf4708ee70bf6",
+      "crc32": "8f51e9a4",
+      "sha1": "48b5ec19dfb3f103f9664065921b9d964e9ff28b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "washingtonpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4cb55e2e5bc6b76c1d3ca506b2541b55",
+      "md5": "d27769fdcdc32c01d6c9072e4c102660",
       "summation": "md5"
     },
     {
       "name": "washingtonpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658783685",
-      "size": "352256",
-      "md5": "69a227eec57c22d4bbc517bebfed8843",
-      "crc32": "4ab2206f",
-      "sha1": "3e9a8e7df133e5f2034c73918003eebce1e82b6d",
+      "mtime": "1658808106",
+      "size": "356352",
+      "md5": "e6982f4c18749df247a38249d0151fde",
+      "crc32": "97be05fe",
+      "sha1": "0486387bc760c815aeaa72297a50836dd0af8135",
       "format": "Metadata"
     },
     {
@@ -3022,9 +3074,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 288,
-  "item_last_updated": 1658785067,
-  "item_size": 26674703,
+  "files_count": 293,
+  "item_last_updated": 1658810323,
+  "item_size": 27079516,
   "metadata": {
     "identifier": "washingtonpost-2022",
     "collection": [
@@ -3041,10 +3093,10 @@
     "publicdate": "2022-07-08 16:39:01",
     "addeddate": "2022-07-08 16:39:01"
   },
-  "server": "ia902505.us.archive.org",
-  "uniq": 2106819457,
+  "server": "ia802505.us.archive.org",
+  "uniq": 807672993,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }

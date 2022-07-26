@@ -1,5 +1,5 @@
 {
-  "created": 1658795011,
+  "created": 1658838534,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/29/items/phillytrib-2022",
@@ -2323,31 +2323,83 @@
       "format": "JSON"
     },
     {
+      "name": "phillytrib-2022-07-25T20:22:30.760251-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "phillytrib-2022-07-25T20:22:30.760251-04:00.jpg",
+      "mtime": "1658795888",
+      "size": "11125",
+      "md5": "23b6bf13b603e4d231d62c0a5d242280",
+      "crc32": "d91bd0d0",
+      "sha1": "6fa47f54d3408c5cea8d93232ff9ff6269c124ca"
+    },
+    {
+      "name": "phillytrib-2022-07-26T08:27:58.248923-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658838481",
+      "size": "26038",
+      "md5": "491da293e67d03b1ba6f28cba48fcddd",
+      "crc32": "5f660332",
+      "sha1": "2875711936bfbb451e46d80158a6bd51e344cdcb",
+      "format": "JSON"
+    },
+    {
+      "name": "phillytrib-2022-07-26T08:27:58.248923-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658838484",
+      "size": "53931",
+      "md5": "e2e1dd26e4d28a861771d2399f0c026c",
+      "crc32": "b5eb47d2",
+      "sha1": "aba7ea3989ef1f8d63b50b106bff5139f8be4e0d",
+      "format": "JSON"
+    },
+    {
+      "name": "phillytrib-2022-07-26T08:27:58.248923-04:00.jpg",
+      "source": "original",
+      "mtime": "1658838480",
+      "size": "349246",
+      "md5": "16e77220d4ea8d3ff1638a51887d26ca",
+      "crc32": "b9650055",
+      "sha1": "b376e83a8e5eb97602437cf8bd9e88ca813a1dc4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "phillytrib-2022-07-26T08:27:58.248923-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658838487",
+      "size": "1495",
+      "md5": "7d7835a1e56709ae2e9c3386174d73bc",
+      "crc32": "286e2212",
+      "sha1": "6fcdda3d46820df4c642788cca9dcbc332f2872f",
+      "format": "JSON"
+    },
+    {
       "name": "phillytrib-2022_archive.torrent",
       "source": "metadata",
-      "btih": "34fca0bcff3c9950cee539b406dcb5fbad8d74ee",
-      "mtime": "1658795006",
-      "size": "48631",
-      "md5": "522a18bf2d78f5633d6f6ef04f8f209f",
-      "crc32": "321672a9",
-      "sha1": "00a1680f2593d4ecd1f75fc1c878f0fefcef45d6",
+      "btih": "107bdd87f47e32607e6ce64f7f76b384d64b73b7",
+      "mtime": "1658838529",
+      "size": "49701",
+      "md5": "600249393e08c780365315c0b518fda5",
+      "crc32": "68c8bb0a",
+      "sha1": "368ce8cb3fac1d532bd6fe538c99700732137b3a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "phillytrib-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8ad7020c22b214d2acfb6ba55f3c3524",
+      "md5": "18732317f52ade06c0e9f4d978382520",
       "summation": "md5"
     },
     {
       "name": "phillytrib-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658794969",
-      "size": "278528",
-      "md5": "98883107037a26c943bce0e90f2f399d",
-      "crc32": "6cdad03b",
-      "sha1": "44c1603a65b8cc561c1c212ffa69bbf889388e06",
+      "mtime": "1658838491",
+      "size": "282624",
+      "md5": "c76c7c3f1070a82fbfb38cf1522c537c",
+      "crc32": "d9b2ad49",
+      "sha1": "bdcf44231fff7e334815a6702ee2d99ad3273af6",
       "format": "Metadata"
     },
     {
@@ -2361,9 +2413,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 225,
-  "item_last_updated": 1658795006,
-  "item_size": 23584004,
+  "files_count": 230,
+  "item_last_updated": 1658838529,
+  "item_size": 24031005,
   "metadata": {
     "identifier": "phillytrib-2022",
     "collection": [
@@ -2385,15 +2437,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3343831394,
+      "task_id": 3344324778,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 178482532,
+  "uniq": 1166767496,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

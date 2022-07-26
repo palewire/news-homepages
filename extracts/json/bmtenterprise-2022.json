@@ -1,5 +1,46 @@
 {
-  "created": 1658791381,
+  "bmtenterprise-2022": [
+    {
+      "url": "https://www.beaumontenterprise.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_beaumontenterprise_com-_-2022_07_26_10_50_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_beaumontenterprise_com-_-2022_07_26_10_50_17.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.57,
+        "best-practices": 0.75,
+        "seo": 0.84,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.beaumontenterprise.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_beaumontenterprise_com-_-2022_07_26_10_52_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_beaumontenterprise_com-_-2022_07_26_10_52_01.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.57,
+        "best-practices": 0.75,
+        "seo": 0.84,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.beaumontenterprise.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_beaumontenterprise_com-_-2022_07_26_10_51_12.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_beaumontenterprise_com-_-2022_07_26_10_51_12.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.61,
+        "best-practices": 0.75,
+        "seo": 0.84,
+        "pwa": 0.7
+      }
+    }
+  ],
+  "created": 1658838033,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/bmtenterprise-2022",
@@ -790,31 +831,72 @@
       "sha1": "8d6048e7cf14ad286e8cb119870a566bd62d9b19"
     },
     {
+      "name": "bmtenterprise-2022-07-26T06:12:36.389744-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658833960",
+      "size": "56247",
+      "md5": "8cb78bd2aeff70a3e7fea1281e6a89d7",
+      "crc32": "634772ee",
+      "sha1": "ab420be7a1c53ff15823d4a08a0c4ab9c68d30d5",
+      "format": "JSON"
+    },
+    {
+      "name": "bmtenterprise-2022-07-26T06:12:36.389744-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658833961",
+      "size": "63722",
+      "md5": "f0dfc698df1466d59c195938290c9322",
+      "crc32": "4c7e921c",
+      "sha1": "fed0e07948b94b644043e7961369479403632552",
+      "format": "JSON"
+    },
+    {
+      "name": "bmtenterprise-2022-07-26T06:12:36.389744-05:00.jpg",
+      "source": "original",
+      "mtime": "1658833958",
+      "size": "318940",
+      "md5": "c309ee15ec394e85fdd9ce59142f29d0",
+      "crc32": "5c0d5c8b",
+      "sha1": "259c4aef136c7118119a33af57bc4963aa48f684",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bmtenterprise-2022-07-26T06:12:36.389744-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658833963",
+      "size": "1567",
+      "md5": "e8f6ecea5128ec805d9b00d89b32b827",
+      "crc32": "43e74bd7",
+      "sha1": "5ea89cf7d2af30289af110941d95bf71012d8c8f",
+      "format": "JSON"
+    },
+    {
       "name": "bmtenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9b67e9c62c99fd8e02ae3f679d044324c8eebfe6",
-      "mtime": "1658791352",
-      "size": "17693",
-      "md5": "65931b46387450098276daac81ad8489",
-      "crc32": "8a1a53df",
-      "sha1": "2bffac6db79e3b30c26031d19b972b0d7f116af1",
+      "btih": "3c267736465f0dbcd20acef2ece65919cd59c9a9",
+      "mtime": "1658834000",
+      "size": "18568",
+      "md5": "6e70c290da21b50121d34662f5da1f5e",
+      "crc32": "df2a3279",
+      "sha1": "ff3c71bce26430250b4ce5089b877a2762577cec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bmtenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b3afb4dcab64f861d6e781de62b98083",
+      "md5": "cfc35f81fc983afd3871fbaa71dc51f5",
       "summation": "md5"
     },
     {
       "name": "bmtenterprise-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658790537",
-      "size": "106496",
-      "md5": "4e6b7329ac61b8ee52d0527e6a4c82e6",
-      "crc32": "8c4c5744",
-      "sha1": "53f96b264516e3719226dca3831c4c55bbb880d6",
+      "mtime": "1658833966",
+      "size": "122880",
+      "md5": "09ddeae7339b10daee4886cd8fb80669",
+      "crc32": "bb0af48b",
+      "sha1": "3ffefb9a69ceb65c3d9088fe0286e8000cfe1e7b",
       "format": "Metadata"
     },
     {
@@ -828,9 +910,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 79,
-  "item_last_updated": 1658791352,
-  "item_size": 7708114,
+  "files_count": 83,
+  "item_last_updated": 1658834000,
+  "item_size": 8165849,
   "metadata": {
     "identifier": "bmtenterprise-2022",
     "collection": [
@@ -847,10 +929,21 @@
     "publicdate": "2022-07-18 00:04:22",
     "addeddate": "2022-07-18 00:04:22"
   },
+  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "uniq": 187819663,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3344284455,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1499746002,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia601404.us.archive.org"
   ]
 }

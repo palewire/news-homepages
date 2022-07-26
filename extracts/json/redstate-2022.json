@@ -1,5 +1,5 @@
 {
-  "created": 1658795158,
+  "created": 1658838596,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/28/items/redstate-2022",
@@ -1147,31 +1147,83 @@
       "format": "JSON"
     },
     {
+      "name": "redstate-2022-07-25T20:25:03.167755-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "redstate-2022-07-25T20:25:03.167755-04:00.jpg",
+      "mtime": "1658795909",
+      "size": "10458",
+      "md5": "151891b67cdd1988d3732af9b877b748",
+      "crc32": "b52699ff",
+      "sha1": "861a2647aeaa34764db765b4c4cf25ea16183c2d"
+    },
+    {
+      "name": "redstate-2022-07-26T08:29:02.021492-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658838546",
+      "size": "31621",
+      "md5": "076c9772bbd36dd14b18eaca50d820b3",
+      "crc32": "b64c8fb9",
+      "sha1": "2acb6ae4c3165341db5f4c4de10f6255325f433b",
+      "format": "JSON"
+    },
+    {
+      "name": "redstate-2022-07-26T08:29:02.021492-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658838547",
+      "size": "28251",
+      "md5": "363c6c5ebe5eb5d1dd90ca4816eb2abd",
+      "crc32": "032f803f",
+      "sha1": "843e62675b06e8fee5af90f39102cbaddbd2be33",
+      "format": "JSON"
+    },
+    {
+      "name": "redstate-2022-07-26T08:29:02.021492-04:00.jpg",
+      "source": "original",
+      "mtime": "1658838545",
+      "size": "263653",
+      "md5": "16e873a4efad421db0af8c9f564133fc",
+      "crc32": "620677c2",
+      "sha1": "7a81680386fbd71f6f3405c9e98d764ae21dbaef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "redstate-2022-07-26T08:29:02.021492-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658838549",
+      "size": "1439",
+      "md5": "892196ac7794e0a2aeb2005c619596f3",
+      "crc32": "438c767a",
+      "sha1": "78d7efa6a12be7a4b9cd2fb6b2b9275573d0b181",
+      "format": "JSON"
+    },
+    {
       "name": "redstate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7282874f8be039ac3524d97f19a5baf98cc599e4",
-      "mtime": "1658795153",
-      "size": "24390",
-      "md5": "298378916aab4344b7d831520776c417",
-      "crc32": "e12c3aad",
-      "sha1": "9184a2e8e4a3dafd8a2943bf944fd8caf951e00d",
+      "btih": "c0b0d06ee8ab53ee3bb5007cca7bf806fc1b89f8",
+      "mtime": "1658838592",
+      "size": "25430",
+      "md5": "ea5e126d9e149dd9907c4a725db5f577",
+      "crc32": "d929ea9d",
+      "sha1": "ae830b3220c66b966eb71efe254a0976cdd7fab9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "redstate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d5d3020cb4f79911072d83db6701ae88",
+      "md5": "e255da4e657b83533a0da8c5e234d9ae",
       "summation": "md5"
     },
     {
       "name": "redstate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658795117",
-      "size": "151552",
-      "md5": "c0d62e09b9717c74d5dea4165da3d0da",
-      "crc32": "e209d301",
-      "sha1": "2328c1621ee5822f5b76303e1126db7e9f6d7a82",
+      "mtime": "1658838558",
+      "size": "155648",
+      "md5": "029b6487aaa6f3e7b7ae149200aa79c8",
+      "crc32": "da584059",
+      "sha1": "7afb4a563b42c7253cd84cc8be78131a840c2ce4",
       "format": "Metadata"
     },
     {
@@ -1185,9 +1237,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 113,
-  "item_last_updated": 1658795153,
-  "item_size": 9029336,
+  "files_count": 118,
+  "item_last_updated": 1658838592,
+  "item_size": 9369894,
   "metadata": {
     "identifier": "redstate-2022",
     "collection": [
@@ -1209,15 +1261,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3343833464,
+      "task_id": 3344325304,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1581115250,
+  "uniq": 521125106,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

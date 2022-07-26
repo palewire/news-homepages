@@ -1,5 +1,5 @@
 {
-  "created": 1658795541,
+  "created": 1658838370,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/32/items/nettavisen-2022",
@@ -612,31 +612,72 @@
       "sha1": "58cf8ea6e20930aaec31ae0e8050589e03c36b5f"
     },
     {
+      "name": "nettavisen-2022-07-26T14:25:22.438211+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658838326",
+      "size": "26150",
+      "md5": "ad53a42775803aaf29257492dc0c6a6c",
+      "crc32": "4696820f",
+      "sha1": "a579f4b340c37f76a565e7b4fde2e90836480b57",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-07-26T14:25:22.438211+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658838329",
+      "size": "83308",
+      "md5": "1a44f916e0d24d952e246a838d51061b",
+      "crc32": "3d2952d6",
+      "sha1": "58d54510d9dd88f3b48a702f8382908e8dfdfda6",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-07-26T14:25:22.438211+02:00.jpg",
+      "source": "original",
+      "mtime": "1658838324",
+      "size": "271315",
+      "md5": "dc43005f86e0f6203d8fe7b770d4b3d1",
+      "crc32": "3bd98ed4",
+      "sha1": "16334edbd3c8088ea118f6496a3f229b054a5826",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nettavisen-2022-07-26T14:25:22.438211+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658838331",
+      "size": "1486",
+      "md5": "0f3b25b9b9a25e93554885e6814cac9f",
+      "crc32": "5232872e",
+      "sha1": "405c5eafda6153363200d4f0435037af8df1a763",
+      "format": "JSON"
+    },
+    {
       "name": "nettavisen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "209fb0cd4af275e6efa392701f2296ffec673306",
-      "mtime": "1658795495",
-      "size": "13779",
-      "md5": "008a698ca894af1e2c95f2831ff66256",
-      "crc32": "7a3b2e8b",
-      "sha1": "825964c4af2de99326bfcd80b7c928ccf529c331",
+      "btih": "e5ff7f9b71742512a78bfefb6bacd1379c84a73a",
+      "mtime": "1658838368",
+      "size": "14642",
+      "md5": "2a9ffda4ab21de62347ddb90d304b210",
+      "crc32": "5a8d9795",
+      "sha1": "74acbba68aa600d0ef924fde948714aba57128b0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nettavisen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "721b0b92825ef3cadbb7e4b84ffa0c84",
+      "md5": "f367687faaa5efc40a73fb0f09ff8bb8",
       "summation": "md5"
     },
     {
       "name": "nettavisen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658794816",
-      "size": "81920",
-      "md5": "f02742cf2fcb3f6c4d2a063c7a313242",
-      "crc32": "2b352fd2",
-      "sha1": "4eef21919540b84604ab8fa2ed414c735c08e21b",
+      "mtime": "1658838334",
+      "size": "86016",
+      "md5": "3f0c06a974226b933c8d3ab173794ec9",
+      "crc32": "fe51c594",
+      "sha1": "c6c08357da43b93f80fd2aefe6d68ba57bd8ffc8",
       "format": "Metadata"
     },
     {
@@ -650,9 +691,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 62,
-  "item_last_updated": 1658795495,
-  "item_size": 5230538,
+  "files_count": 66,
+  "item_last_updated": 1658838368,
+  "item_size": 5617756,
   "metadata": {
     "identifier": "nettavisen-2022",
     "collection": [
@@ -669,10 +710,21 @@
     "publicdate": "2022-07-20 11:37:15",
     "addeddate": "2022-07-20 11:37:15"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 1021660469,
+  "pending_tasks": true,
+  "server": "ia601503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3344323400,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 941681624,
   "workable_servers": [
-    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

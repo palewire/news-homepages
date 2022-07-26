@@ -1,5 +1,5 @@
 {
-  "created": 1658791377,
+  "created": 1658834000,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/32/items/blockclubchi-2022",
@@ -5166,31 +5166,72 @@
       "sha1": "f266c57032cbecb842d11d4c4a0e7d17cd1f27a8"
     },
     {
+      "name": "blockclubchi-2022-07-26T06:12:24.474075-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658833951",
+      "size": "21256",
+      "md5": "5dcf1a0fbe04ba9b09e0ba131fd7635a",
+      "crc32": "2c54eae8",
+      "sha1": "e9d0359cc4d950885772eba28ba174844fbdacaa",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-07-26T06:12:24.474075-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658833952",
+      "size": "31353",
+      "md5": "4a6b591eeacd097b960964f9b054c256",
+      "crc32": "3d57d0c3",
+      "sha1": "6e265d1bedb9c743c81d5f0eb83d2896618a0ac4",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-07-26T06:12:24.474075-05:00.jpg",
+      "source": "original",
+      "mtime": "1658833949",
+      "size": "330900",
+      "md5": "7992f0b5c98cd85e0115f38592dbf32a",
+      "crc32": "a0575392",
+      "sha1": "1db5bd54bf0d23e8462c5c12610eb85515b6c160",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blockclubchi-2022-07-26T06:12:24.474075-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658833954",
+      "size": "1512",
+      "md5": "d677b978b57499f4a85d9e5eb7c1b1e7",
+      "crc32": "fd413da6",
+      "sha1": "3501e29086f22556b672c7a6b6dd0e794ecc6002",
+      "format": "JSON"
+    },
+    {
       "name": "blockclubchi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d447eae95b9184dcf40df5c368299a76c210b957",
-      "mtime": "1658791344",
-      "size": "107327",
-      "md5": "748151fe94e0663969a6656ebccdc726",
-      "crc32": "bdab2b2f",
-      "sha1": "b84d18b0bd5130f92af5234a34488e951ad88f61",
+      "btih": "d7118c7ae965f8e40ef694432860ea1fe91d19f8",
+      "mtime": "1658833995",
+      "size": "108178",
+      "md5": "bcfac317d280d53c2f348bb3be3030da",
+      "crc32": "837c1e43",
+      "sha1": "53e6689a2c58b2b2f7a7781ce136a6083135c0c3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blockclubchi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fa6ee48851cebda6b62feb0fa3a26ecb",
+      "md5": "5619ee8579fde0b2834a386fdd4c133b",
       "summation": "md5"
     },
     {
       "name": "blockclubchi-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658790516",
-      "size": "589824",
-      "md5": "9d2250a8e4ab1d59be26d79ded2843b2",
-      "crc32": "00963480",
-      "sha1": "cc5a19a1f1de5d44b8e515fe8c4ea6b3131e60ba",
+      "mtime": "1658833958",
+      "size": "593920",
+      "md5": "63a66e50faf67c67ecb01a3c567ca2ab",
+      "crc32": "f658c5cc",
+      "sha1": "10de455fc7aeb3302b087d9d826e2c3031f7436e",
       "format": "Metadata"
     },
     {
@@ -5204,9 +5245,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 496,
-  "item_last_updated": 1658791344,
-  "item_size": 47373368,
+  "files_count": 500,
+  "item_last_updated": 1658833995,
+  "item_size": 47763336,
   "metadata": {
     "identifier": "blockclubchi-2022",
     "collection": [
@@ -5223,10 +5264,21 @@
     "publicdate": "2022-06-19 23:23:08",
     "addeddate": "2022-06-19 23:23:08"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "uniq": 1074788084,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3344284431,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 753825732,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia601506.us.archive.org"
   ]
 }

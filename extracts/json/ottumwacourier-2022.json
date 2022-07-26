@@ -1,6 +1,5 @@
 {
-  "conflict": 1658795708,
-  "created": 1658795708,
+  "created": 1658838548,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/17/items/ottumwacourier-2022",
@@ -3170,31 +3169,83 @@
       "format": "JSON"
     },
     {
+      "name": "ottumwacourier-2022-07-25T19:22:33.131146-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ottumwacourier-2022-07-25T19:22:33.131146-05:00.jpg",
+      "mtime": "1658795822",
+      "size": "10130",
+      "md5": "a7fbe1bf4cdca3ee976a201641fbfa51",
+      "crc32": "43982a7c",
+      "sha1": "df7f936cd5ca835780be7a2df279c0027d56ad15"
+    },
+    {
+      "name": "ottumwacourier-2022-07-26T07:28:03.974482-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658838487",
+      "size": "53329",
+      "md5": "cf16da597b481273d817948361292182",
+      "crc32": "33c57d6f",
+      "sha1": "f68f0026972988e9b0239b9a43e47067162b8ce2",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-07-26T07:28:03.974482-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658838488",
+      "size": "78128",
+      "md5": "c699de61d38e8216be9df4e1175191b9",
+      "crc32": "0b706043",
+      "sha1": "03d04a08885444bd0af997490a7688fd78ed663c",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-07-26T07:28:03.974482-05:00.jpg",
+      "source": "original",
+      "mtime": "1658838485",
+      "size": "347124",
+      "md5": "2ba83d34dd5c798243ae25883106f9c8",
+      "crc32": "2d5fb960",
+      "sha1": "108dc7b77480b4b82e040e232c35afcd1e82b8bd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ottumwacourier-2022-07-26T07:28:03.974482-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658838490",
+      "size": "1530",
+      "md5": "9d506c15890bf7643f619f0907f5d66a",
+      "crc32": "480dd349",
+      "sha1": "2d4b995609cea148d751ebef85bfa77db527ce65",
+      "format": "JSON"
+    },
+    {
       "name": "ottumwacourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4d8202086889cde62c91b77c06e2005946b47d37",
-      "mtime": "1658795003",
-      "size": "66445",
-      "md5": "cfc092a1e796632bd75f73bfe66ebf61",
-      "crc32": "c088ac41",
-      "sha1": "f559187545e5758da361195d756c0c40d3ac36da",
+      "btih": "ad4adb24b57e517dd7462d2d8938966abe3fd9df",
+      "mtime": "1658838545",
+      "size": "67535",
+      "md5": "6d925ee80f342d6861e1e8253cbb6ade",
+      "crc32": "6fb8873f",
+      "sha1": "ffb6602869fe8d5d034bbf811602f23899e31779",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ottumwacourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "105f468f67c6b83a009d3220a7fdedc4",
+      "md5": "ea432030ab8163370f625b91d654d032",
       "summation": "md5"
     },
     {
       "name": "ottumwacourier-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658794964",
-      "size": "348160",
-      "md5": "32cae0b72dd4bb5e6d9f1708a727ba8b",
-      "crc32": "9054712b",
-      "sha1": "c3ad46e0aa0cf86cfce0a3b1b474eb6672f61f98",
+      "mtime": "1658838498",
+      "size": "352256",
+      "md5": "3b47412e37cc4b1c05b013fce4738e28",
+      "crc32": "6cbd9c75",
+      "sha1": "c38e449f6682a31795b90f62e98400000fb188cd",
       "format": "Metadata"
     },
     {
@@ -3208,9 +3259,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 303,
-  "item_last_updated": 1658795003,
-  "item_size": 38173268,
+  "files_count": 308,
+  "item_last_updated": 1658838545,
+  "item_size": 38668695,
   "metadata": {
     "identifier": "ottumwacourier-2022",
     "collection": [
@@ -3232,15 +3283,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3343831316,
+      "task_id": 3344324897,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 774012417,
+  "uniq": 1295102362,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

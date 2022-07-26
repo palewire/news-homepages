@@ -1,6 +1,5 @@
 {
-  "conflict": 1658795742,
-  "created": 1658795742,
+  "created": 1658838602,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/pulitzercenter-2022",
@@ -1529,34 +1528,80 @@
       "name": "pulitzercenter-2022-07-25T20:23:24.609405-04:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "pulitzercenter-2022-07-25T20:23:24.609405-04:00.jpg"
+      "original": "pulitzercenter-2022-07-25T20:23:24.609405-04:00.jpg",
+      "mtime": "1658795739",
+      "size": "9031",
+      "md5": "632d156650de676b44352014156570f8",
+      "crc32": "66a67044",
+      "sha1": "78652225b9afac8b3ffa047d65d027841d84c573"
+    },
+    {
+      "name": "pulitzercenter-2022-07-26T08:29:15.439802-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658838559",
+      "size": "9023",
+      "md5": "fbde935f7fc060de90e0bac33e0894f5",
+      "crc32": "17a66a8c",
+      "sha1": "207b02bfa29ce8c84c48562d979b68a89f1b6a94",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-07-26T08:29:15.439802-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658838560",
+      "size": "16268",
+      "md5": "606cda03166549e915816638aa37d02b",
+      "crc32": "3c33950e",
+      "sha1": "3f32dc50a203403b797400fb94381f82fa4f6f4d",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-07-26T08:29:15.439802-04:00.jpg",
+      "source": "original",
+      "mtime": "1658838557",
+      "size": "228146",
+      "md5": "ce319a59d7ce13d5fe5457d13883b555",
+      "crc32": "30d61e02",
+      "sha1": "c469c6dcbc954a71779dffeb9bf3deba4da4578a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pulitzercenter-2022-07-26T08:29:15.439802-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658838562",
+      "size": "1495",
+      "md5": "d5ca9cd7725537b844e9dc8d39375693",
+      "crc32": "4aa22dbd",
+      "sha1": "983a19764d629b6a683405108eb3ea2f768b8677",
+      "format": "JSON"
     },
     {
       "name": "pulitzercenter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0d05d6d2277bc8cf387c32bc7467e435beb2d610",
-      "mtime": "1658795051",
-      "size": "32672",
-      "md5": "877c37cffd5c6d8c891969e93d5bf3dc",
-      "crc32": "41e8f1af",
-      "sha1": "1af75b16debb64a065c87f91c966edafa6fe61de",
+      "btih": "6b6438272fa90df59e78c11fb8e48bdc1dcde7ef",
+      "mtime": "1658838600",
+      "size": "33740",
+      "md5": "c0a61733728365be2f6a9869789bf140",
+      "crc32": "4a969f6e",
+      "sha1": "f2591482a0172ed168cf4a4f16f9a19cba06a799",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pulitzercenter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "406b37ea497ba7ec3cde42f87589b00a",
+      "md5": "6696c5d5d6b18a183214c2765984f1a1",
       "summation": "md5"
     },
     {
       "name": "pulitzercenter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658795016",
-      "size": "192512",
-      "md5": "7e9b5ad248c9fb502399ea615f589386",
-      "crc32": "389563e2",
-      "sha1": "9a4ff1e020c80031262d06a36036314743bfac1f",
+      "mtime": "1658838565",
+      "size": "196608",
+      "md5": "0b7080734bce57616ca34524158af2cc",
+      "crc32": "7512a0d4",
+      "sha1": "d3212578a9e008dba31b51b5896892aac15ce8ba",
       "format": "Metadata"
     },
     {
@@ -1570,9 +1615,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 150,
-  "item_last_updated": 1658795051,
-  "item_size": 8120050,
+  "files_count": 154,
+  "item_last_updated": 1658838600,
+  "item_size": 8389177,
   "metadata": {
     "identifier": "pulitzercenter-2022",
     "collection": [
@@ -1594,15 +1639,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3343832026,
+      "task_id": 3344325365,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1407679728,
+  "uniq": 165820469,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

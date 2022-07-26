@@ -1,15 +1,15 @@
 {
-  "created": 1658795325,
+  "created": 1658838216,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dcexaminer-2022": [
     {
       "url": "https://www.washingtonexaminer.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_washingtonexaminer_com-_-2022_07_25_18_22_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_washingtonexaminer_com-_-2022_07_25_18_22_09.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_washingtonexaminer_com-_-2022_07_26_02_22_16.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_washingtonexaminer_com-_-2022_07_26_02_22_16.report.json",
       "summary": {
-        "performance": 0.67,
+        "performance": 0.68,
         "accessibility": 0.87,
         "best-practices": 0.92,
         "seo": 0.91,
@@ -19,10 +19,10 @@
     {
       "url": "https://www.washingtonexaminer.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_washingtonexaminer_com-_-2022_07_25_18_22_22.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_washingtonexaminer_com-_-2022_07_25_18_22_22.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_washingtonexaminer_com-_-2022_07_26_02_22_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_washingtonexaminer_com-_-2022_07_26_02_22_31.report.json",
       "summary": {
-        "performance": 0.67,
+        "performance": 0.7,
         "accessibility": 0.87,
         "best-practices": 0.92,
         "seo": 0.91,
@@ -32,10 +32,10 @@
     {
       "url": "https://www.washingtonexaminer.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_washingtonexaminer_com-_-2022_07_25_18_21_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_washingtonexaminer_com-_-2022_07_25_18_21_56.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_washingtonexaminer_com-_-2022_07_26_02_22_45.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_washingtonexaminer_com-_-2022_07_26_02_22_45.report.json",
       "summary": {
-        "performance": 0.63,
+        "performance": 0.71,
         "accessibility": 0.87,
         "best-practices": 0.92,
         "seo": 0.91,
@@ -8887,31 +8887,83 @@
       "sha1": "ef2bc434ddbc9f8d62aa4bd12c1a86efea49888c"
     },
     {
+      "name": "dcexaminer-2022-07-25T22:41:07.545864-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658803270",
+      "size": "34671",
+      "md5": "7a51ddbec9ea7fc59ab43d64bad656bb",
+      "crc32": "c5e53ed0",
+      "sha1": "15bd48adaefb21d2b25a5e929e1aa87b3c4c3017",
+      "format": "JSON"
+    },
+    {
+      "name": "dcexaminer-2022-07-25T22:41:07.545864-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658803271",
+      "size": "35260",
+      "md5": "19c89648ddd2d7119f0b935b12b02b05",
+      "crc32": "70236229",
+      "sha1": "93e363f9425ea784890d3a605b51d808a7ad909c",
+      "format": "JSON"
+    },
+    {
+      "name": "dcexaminer-2022-07-25T22:41:07.545864-04:00.jpg",
+      "source": "original",
+      "mtime": "1658803268",
+      "size": "315975",
+      "md5": "62cca7b41e84fdb712c994baa3a9fba6",
+      "crc32": "a8b252d3",
+      "sha1": "1db09c84242a20f77463b7d18230e2eecd357d6e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dcexaminer-2022-07-25T22:41:07.545864-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658803273",
+      "size": "1566",
+      "md5": "6694e56841bc76dc95b7742703d898ac",
+      "crc32": "271c6ddb",
+      "sha1": "1b0f523dbd947a00b4cc80adbd67c4e318eb06cc",
+      "format": "JSON"
+    },
+    {
+      "name": "dcexaminer-2022-07-25T22:41:07.545864-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dcexaminer-2022-07-25T22:41:07.545864-04:00.jpg",
+      "mtime": "1658804614",
+      "size": "9547",
+      "md5": "0dd0e462903285b718145b6dcd42d83b",
+      "crc32": "2ccad05b",
+      "sha1": "9f99633cbb0eaa98c773e75ebc86fce1e808c2e1"
+    },
+    {
       "name": "dcexaminer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d58b59867108ea57339b5d7737bd4d3cc64be989",
-      "mtime": "1658778511",
-      "size": "180939",
-      "md5": "71a17f170cdbc1d66ec48026e5b3b240",
-      "crc32": "a0f99d55",
-      "sha1": "f7a8dc244dc2aed6104fdd7b7bd1637aad5c5778",
+      "btih": "b0912874c3c297bf92ff34e15df9919c78be5dee",
+      "mtime": "1658804630",
+      "size": "182008",
+      "md5": "cbad04e5a087fe89c6bc75a94b7e5fbe",
+      "crc32": "341dc2c2",
+      "sha1": "32830fdc57f16e14c6dd335ec225f3f428dadc39",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dcexaminer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1aa024f8f8807987f246b40048d84b01",
+      "md5": "536953798aa1e4cd6ff18d9690389227",
       "summation": "md5"
     },
     {
       "name": "dcexaminer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658774280",
-      "size": "983040",
-      "md5": "5f981221d4e36b78a11b889a65103c9e",
-      "crc32": "b3dd6e4d",
-      "sha1": "ac274fd4cf18d894c48721cbfb7b97530e463cfc",
+      "mtime": "1658803279",
+      "size": "987136",
+      "md5": "d3036af9dbce36a1d516a045d80aef39",
+      "crc32": "30d6e561",
+      "sha1": "ece585194a4c58951260668c9d3a2451cfb7aa42",
       "format": "Metadata"
     },
     {
@@ -8925,9 +8977,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 846,
-  "item_last_updated": 1658778511,
-  "item_size": 87164377,
+  "files_count": 851,
+  "item_last_updated": 1658804630,
+  "item_size": 87566561,
   "metadata": {
     "identifier": "dcexaminer-2022",
     "collection": [
@@ -8945,7 +8997,7 @@
     "addeddate": "2022-03-25 18:45:33"
   },
   "server": "ia802508.us.archive.org",
-  "uniq": 278592801,
+  "uniq": 292670634,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1658795504,
+  "created": 1658838379,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/4/items/nbcphiladelphia-2022",
@@ -2334,31 +2334,72 @@
       "sha1": "26227e96f4dc9072740282f4815c207024e7de05"
     },
     {
+      "name": "nbcphiladelphia-2022-07-26T08:25:25.689231-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658838332",
+      "size": "49680",
+      "md5": "5e35cec8f758866ff024293204c7dc55",
+      "crc32": "6e1298d9",
+      "sha1": "58de8b36b2b6863920e3fc7b2a7f1d63db1f633b",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcphiladelphia-2022-07-26T08:25:25.689231-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658838333",
+      "size": "57986",
+      "md5": "aa46b8f2e9f1edbccfe28fa73f84dfb9",
+      "crc32": "1a5be7b2",
+      "sha1": "b77b4f96bf8252ede896e789d31aa08099173b2a",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcphiladelphia-2022-07-26T08:25:25.689231-04:00.jpg",
+      "source": "original",
+      "mtime": "1658838330",
+      "size": "282458",
+      "md5": "dbf3b98a09bf7e30c7c8a931e41a102b",
+      "crc32": "01847a72",
+      "sha1": "90c320e9fd98f98e528be02ef612c04a8109f0f3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcphiladelphia-2022-07-26T08:25:25.689231-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658838337",
+      "size": "1540",
+      "md5": "88a502ccab189fee55fce9709a029fca",
+      "crc32": "aa5f5a13",
+      "sha1": "396b274d93dc1de9b06667ccdbc8a3ef2a6c078e",
+      "format": "JSON"
+    },
+    {
       "name": "nbcphiladelphia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9604cbbdf9dc8398c8ecaa2db838d2d6c780d858",
-      "mtime": "1658795487",
-      "size": "49879",
-      "md5": "e91b27a082278fc53e6db0c4b90f9846",
-      "crc32": "e3e0b56b",
-      "sha1": "4c19d3ccc4e84a53dea186aa8d6e809cfaf52e2d",
+      "btih": "dbc319f2878e675d0074efaf48914e4bf66789df",
+      "mtime": "1658838376",
+      "size": "50762",
+      "md5": "a71f8e2a60d4706dc65e111b66f96458",
+      "crc32": "02b60ec6",
+      "sha1": "a29458a76066e3eb4118368628ea620dd8c27ceb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcphiladelphia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5ec9980a6d51a0c0a3f3095e98cf01cf",
+      "md5": "4cfb11688a4cd7e8452fcf39841ce813",
       "summation": "md5"
     },
     {
       "name": "nbcphiladelphia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658794855",
-      "size": "278528",
-      "md5": "86613262a73ae526d7fa65f2b94f39f7",
-      "crc32": "546a804b",
-      "sha1": "4e136f363f43ed3232572812aee460c92d65e227",
+      "mtime": "1658838341",
+      "size": "282624",
+      "md5": "491d9aaa3facf292a2de0bade29b7d0f",
+      "crc32": "50852a55",
+      "sha1": "3c712b41fe5f52df062b1aa0a70c3407fe079310",
       "format": "Metadata"
     },
     {
@@ -2372,9 +2413,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 226,
-  "item_last_updated": 1658795487,
-  "item_size": 21894740,
+  "files_count": 230,
+  "item_last_updated": 1658838376,
+  "item_size": 22291383,
   "metadata": {
     "identifier": "nbcphiladelphia-2022",
     "collection": [
@@ -2391,10 +2432,21 @@
     "publicdate": "2022-07-03 15:52:43",
     "addeddate": "2022-07-03 15:52:43"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 1717375150,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3344323474,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1513023942,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

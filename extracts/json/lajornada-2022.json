@@ -1,5 +1,5 @@
 {
-  "created": 1658795292,
+  "created": 1658838288,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/19/items/lajornada-2022",
@@ -18670,31 +18670,72 @@
       "sha1": "49f218f8190028a8d3a45eec45fd2f04d496efbe"
     },
     {
+      "name": "lajornada-2022-07-26T07:22:57.049281-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658838188",
+      "size": "4574",
+      "md5": "a5af1c38102bb0d0ed6039b1f10d9e30",
+      "crc32": "fd43d37a",
+      "sha1": "ac11ef7fb4dcf596c536db1c2f7db3a50bcf0d21",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-07-26T07:22:57.049281-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658838192",
+      "size": "8563",
+      "md5": "f05cbb1d65fdf554c21d2cca8d2201c3",
+      "crc32": "e5d72c40",
+      "sha1": "b2dfea5faeaa29fd527558b46659cb9df1a7a604",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-07-26T07:22:57.049281-05:00.jpg",
+      "source": "original",
+      "mtime": "1658838186",
+      "size": "184029",
+      "md5": "45e39f1e1e3c7e8b1460dd9c2fdfbf4b",
+      "crc32": "a4a25dd9",
+      "sha1": "d230a4c0738f5e9ab9fe6ec3853aea59da4eaae5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lajornada-2022-07-26T07:22:57.049281-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658838194",
+      "size": "1494",
+      "md5": "204052d252633fe05c7194f2fa272e6d",
+      "crc32": "c22e099f",
+      "sha1": "eec861f3febff9d468b49d2a0c0888ba99e82b32",
+      "format": "JSON"
+    },
+    {
       "name": "lajornada-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0ccc969c04b9884180e5774fba5514ec218f24e6",
-      "mtime": "1658795263",
-      "size": "379058",
-      "md5": "4776d31d39becce0357c6561c0b01371",
-      "crc32": "8952c931",
-      "sha1": "9ef6306bb52951fa2ac516dbe60e108f5dcadf28",
+      "btih": "ac8feef82a1a2c4a1dee104e2efa4529fb308c42",
+      "mtime": "1658838278",
+      "size": "379895",
+      "md5": "4bf2cefa9b630f525fd9bdbb0fb030de",
+      "crc32": "aff445eb",
+      "sha1": "7366fce7e3b14e0c5e4c102efacaeb732f8f1bb0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lajornada-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2f8e4e4262c01d09e00195bb7a9d83eb",
+      "md5": "9d24af9f2cdf648b351281da3d3755f5",
       "summation": "md5"
     },
     {
       "name": "lajornada-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658794668",
-      "size": "2043904",
-      "md5": "550d07bbe9daf7cd3d903d0d8c0af9ec",
-      "crc32": "0fa6d186",
-      "sha1": "694544548065779058e9fbccdbf41c3e6dad7958",
+      "mtime": "1658838205",
+      "size": "2052096",
+      "md5": "a7383473f33f772dfdbf81d08f84418f",
+      "crc32": "b4aea50a",
+      "sha1": "de5ad43a65f48edc7ab913a4342c12661f85be28",
       "format": "Metadata"
     },
     {
@@ -18708,9 +18749,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1782,
-  "item_last_updated": 1658795263,
-  "item_size": 196996634,
+  "files_count": 1786,
+  "item_last_updated": 1658838278,
+  "item_size": 197204323,
   "metadata": {
     "identifier": "lajornada-2022",
     "collection": [
@@ -18727,10 +18768,21 @@
     "publicdate": "2022-04-15 20:40:39",
     "addeddate": "2022-04-15 20:40:39"
   },
+  "pending_tasks": true,
   "server": "ia902501.us.archive.org",
-  "uniq": 400081912,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3344322675,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1046720316,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia902501.us.archive.org"
   ]
 }
