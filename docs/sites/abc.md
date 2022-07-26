@@ -25,7 +25,7 @@ The archiving routine has saved 466 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 466 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-25T19:06:21.256537-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-25T19:06:21.256537-04:00.jpg"
-     alt="ABC News at 2022-07-25 19:06:22-04:00 local time"
+     alt="ABC News at 2022-07-26 02:06:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-25T19:06:21.256537-04:00.jpg">July 25 at 7:06 PM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-25T19:06:21.256537-04:00.jpg">July 26 at 2:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-25T17:14:32.831164-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-25T17:14:32.831164-04:00.jpg"
-     alt="ABC News at 2022-07-25 17:14:34-04:00 local time"
+     alt="ABC News at 2022-07-26 00:14:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-25T17:14:32.831164-04:00.jpg">July 25 at 5:14 PM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-25T17:14:32.831164-04:00.jpg">July 26 at 12:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-25T11:54:47.171515-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-25T11:54:47.171515-04:00.jpg"
-     alt="ABC News at 2022-07-25 11:54:48-04:00 local time"
+     alt="ABC News at 2022-07-25 18:54:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-25T11:54:47.171515-04:00.jpg">July 25 at 11:54 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-25T11:54:47.171515-04:00.jpg">July 25 at 6:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-25T06:56:41.923019-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-25T06:56:41.923019-04:00.jpg"
-     alt="ABC News at 2022-07-25 06:56:43-04:00 local time"
+     alt="ABC News at 2022-07-25 13:56:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-25T06:56:41.923019-04:00.jpg">July 25 at 6:56 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-25T06:56:41.923019-04:00.jpg">July 25 at 1:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-24T20:44:51.798882-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-24T20:44:51.798882-04:00.jpg"
-     alt="ABC News at 2022-07-24 20:44:58-04:00 local time"
+     alt="ABC News at 2022-07-25 03:44:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-24T20:44:51.798882-04:00.jpg">July 24 at 8:44 PM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-24T20:44:51.798882-04:00.jpg">July 25 at 3:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-24T17:21:35.382982-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-24T17:21:35.382982-04:00.jpg"
-     alt="ABC News at 2022-07-24 17:21:38-04:00 local time"
+     alt="ABC News at 2022-07-25 00:21:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-24T17:21:35.382982-04:00.jpg">July 24 at 5:21 PM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-24T17:21:35.382982-04:00.jpg">July 25 at 12:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-24T11:12:52.420078-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-24T11:12:52.420078-04:00.jpg"
-     alt="ABC News at 2022-07-24 11:12:54-04:00 local time"
+     alt="ABC News at 2022-07-24 18:12:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-24T11:12:52.420078-04:00.jpg">July 24 at 11:12 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-24T11:12:52.420078-04:00.jpg">July 24 at 6:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-24T06:55:15.225041-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-24T06:55:15.225041-04:00.jpg"
-     alt="ABC News at 2022-07-24 06:55:25-04:00 local time"
+     alt="ABC News at 2022-07-24 13:55:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-24T06:55:15.225041-04:00.jpg">July 24 at 6:55 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-24T06:55:15.225041-04:00.jpg">July 24 at 1:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-23T18:57:37.825043-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-23T18:57:37.825043-04:00.jpg"
-     alt="ABC News at 2022-07-23 18:57:39-04:00 local time"
+     alt="ABC News at 2022-07-24 01:57:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-23T18:57:37.825043-04:00.jpg">July 23 at 6:57 PM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-23T18:57:37.825043-04:00.jpg">July 24 at 1:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-23T17:16:29.697076-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-23T17:16:29.697076-04:00.jpg"
-     alt="ABC News at 2022-07-23 17:16:31-04:00 local time"
+     alt="ABC News at 2022-07-24 00:16:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-23T17:16:29.697076-04:00.jpg">July 23 at 5:16 PM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-23T17:16:29.697076-04:00.jpg">July 24 at 12:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-23T10:58:26.632105-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-23T10:58:26.632105-04:00.jpg"
-     alt="ABC News at 2022-07-23 10:58:28-04:00 local time"
+     alt="ABC News at 2022-07-23 17:58:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-23T10:58:26.632105-04:00.jpg">July 23 at 10:58 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-23T10:58:26.632105-04:00.jpg">July 23 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-23T08:54:01.014470-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-23T08:54:01.014470-04:00.jpg"
-     alt="ABC News at 2022-07-23 08:54:03-04:00 local time"
+     alt="ABC News at 2022-07-23 15:54:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-23T08:54:01.014470-04:00.jpg">July 23 at 8:54 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-23T08:54:01.014470-04:00.jpg">July 23 at 3:54 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 445 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 445 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

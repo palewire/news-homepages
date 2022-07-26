@@ -25,7 +25,7 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-25T08:15:03.943587-05:00.jpg">
   <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-25T08:15:03.943587-05:00.jpg"
-     alt="mi wisconsin at 2022-07-25 08:15:05-05:00 local time"
+     alt="mi wisconsin at 2022-07-25 15:15:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-25T08:15:03.943587-05:00.jpg">July 25 at 8:15 AM</a></p>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-25T08:15:03.943587-05:00.jpg">July 25 at 3:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-24T22:32:27.688269-05:00.jpg">
   <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-24T22:32:27.688269-05:00.jpg"
-     alt="mi wisconsin at 2022-07-24 22:32:29-05:00 local time"
+     alt="mi wisconsin at 2022-07-25 05:32:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-24T22:32:27.688269-05:00.jpg">July 24 at 10:32 PM</a></p>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-24T22:32:27.688269-05:00.jpg">July 25 at 5:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-24T08:03:01.328531-05:00.jpg">
   <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-24T08:03:01.328531-05:00.jpg"
-     alt="mi wisconsin at 2022-07-24 08:03:03-05:00 local time"
+     alt="mi wisconsin at 2022-07-24 15:03:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-24T08:03:01.328531-05:00.jpg">July 24 at 8:03 AM</a></p>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-24T08:03:01.328531-05:00.jpg">July 24 at 3:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-23T23:19:24.662515-05:00.jpg">
   <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-23T23:19:24.662515-05:00.jpg"
-     alt="mi wisconsin at 2022-07-23 23:19:28-05:00 local time"
+     alt="mi wisconsin at 2022-07-24 06:19:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-23T23:19:24.662515-05:00.jpg">July 23 at 11:19 PM</a></p>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-23T23:19:24.662515-05:00.jpg">July 24 at 6:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-23T10:01:33.307402-05:00.jpg">
   <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-23T10:01:33.307402-05:00.jpg"
-     alt="mi wisconsin at 2022-07-23 10:01:35-05:00 local time"
+     alt="mi wisconsin at 2022-07-23 17:01:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-23T10:01:33.307402-05:00.jpg">July 23 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-23T10:01:33.307402-05:00.jpg">July 23 at 5:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-22T22:31:30.479655-05:00.jpg">
   <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-22T22:31:30.479655-05:00.jpg"
-     alt="mi wisconsin at 2022-07-22 22:31:32-05:00 local time"
+     alt="mi wisconsin at 2022-07-23 05:31:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-22T22:31:30.479655-05:00.jpg">July 22 at 10:31 PM</a></p>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-22T22:31:30.479655-05:00.jpg">July 23 at 5:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-22T09:57:26.149372-05:00.jpg">
   <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-22T09:57:26.149372-05:00.jpg"
-     alt="mi wisconsin at 2022-07-22 09:57:28-05:00 local time"
+     alt="mi wisconsin at 2022-07-22 16:57:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-22T09:57:26.149372-05:00.jpg">July 22 at 9:57 AM</a></p>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-22T09:57:26.149372-05:00.jpg">July 22 at 4:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-21T22:36:11.183408-05:00.jpg">
   <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-21T22:36:11.183408-05:00.jpg"
-     alt="mi wisconsin at 2022-07-21 22:36:12-05:00 local time"
+     alt="mi wisconsin at 2022-07-22 05:36:12-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-21T22:36:11.183408-05:00.jpg">July 21 at 10:36 PM</a></p>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-21T22:36:11.183408-05:00.jpg">July 22 at 5:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-21T10:30:11.425677-05:00.jpg">
   <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-21T10:30:11.425677-05:00.jpg"
-     alt="mi wisconsin at 2022-07-21 10:30:13-05:00 local time"
+     alt="mi wisconsin at 2022-07-21 17:30:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-21T10:30:11.425677-05:00.jpg">July 21 at 10:30 AM</a></p>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-21T10:30:11.425677-05:00.jpg">July 21 at 5:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-20T22:34:29.478460-05:00.jpg">
   <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-20T22:34:29.478460-05:00.jpg"
-     alt="mi wisconsin at 2022-07-20 22:34:31-05:00 local time"
+     alt="mi wisconsin at 2022-07-21 05:34:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-20T22:34:29.478460-05:00.jpg">July 20 at 10:34 PM</a></p>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-20T22:34:29.478460-05:00.jpg">July 21 at 5:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-20T11:07:51.426149-05:00.jpg">
   <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-20T11:07:51.426149-05:00.jpg"
-     alt="mi wisconsin at 2022-07-20 11:07:53-05:00 local time"
+     alt="mi wisconsin at 2022-07-20 18:07:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-20T11:07:51.426149-05:00.jpg">July 20 at 11:07 AM</a></p>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-20T11:07:51.426149-05:00.jpg">July 20 at 6:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-19T22:33:11.027694-05:00.jpg">
   <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-19T22:33:11.027694-05:00.jpg"
-     alt="mi wisconsin at 2022-07-19 22:33:13-05:00 local time"
+     alt="mi wisconsin at 2022-07-20 05:33:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-19T22:33:11.027694-05:00.jpg">July 19 at 10:33 PM</a></p>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-19T22:33:11.027694-05:00.jpg">July 20 at 5:33 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 34 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

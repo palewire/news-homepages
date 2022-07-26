@@ -31,28 +31,28 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-26T06:07:04.752639+05:45.jpg">
   <img src="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-26T06:07:04.752639+05:45.jpg"
-     alt="Gorakhapatra at 2022-07-26 06:07:06+05:45 local time"
+     alt="Gorakhapatra at 2022-07-26 13:07:06+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-26T06:07:04.752639+05:45.jpg">July 26 at 6:07 AM</a></p>
+ <p><a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-26T06:07:04.752639+05:45.jpg">July 26 at 1:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-25T09:20:19.382470+05:45.jpg">
   <img src="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-25T09:20:19.382470+05:45.jpg"
-     alt="Gorakhapatra at 2022-07-25 09:20:20+05:45 local time"
+     alt="Gorakhapatra at 2022-07-25 16:20:20+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-25T09:20:19.382470+05:45.jpg">July 25 at 9:20 AM</a></p>
+ <p><a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-25T09:20:19.382470+05:45.jpg">July 25 at 4:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-25T02:24:11.814958+05:45.jpg">
   <img src="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-25T02:24:11.814958+05:45.jpg"
-     alt="Gorakhapatra at 2022-07-25 02:24:17+05:45 local time"
+     alt="Gorakhapatra at 2022-07-25 09:24:17+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-25T02:24:11.814958+05:45.jpg">July 25 at 2:24 AM</a></p>
+ <p><a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-25T02:24:11.814958+05:45.jpg">July 25 at 9:24 AM</a></p>
 </div>
 
 </div>

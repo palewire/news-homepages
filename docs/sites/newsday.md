@@ -31,10 +31,10 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/newsday-2022/newsday-2022-07-25T20:21:10.843544-04:00.jpg">
   <img src="https://archive.org/download/newsday-2022/newsday-2022-07-25T20:21:10.843544-04:00.jpg"
-     alt="Newsday at 2022-07-25 20:21:16-04:00 local time"
+     alt="Newsday at 2022-07-26 03:21:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsday-2022/newsday-2022-07-25T20:21:10.843544-04:00.jpg">July 25 at 8:21 PM</a></p>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-07-25T20:21:10.843544-04:00.jpg">July 26 at 3:21 AM</a></p>
 </div>
 
 </div>

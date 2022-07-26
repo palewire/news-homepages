@@ -25,7 +25,7 @@ The archiving routine has saved 190 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 190 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-25T19:24:28.392950-05:00.jpg">
   <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-25T19:24:28.392950-05:00.jpg"
-     alt="Sahan Journal at 2022-07-25 19:24:33-05:00 local time"
+     alt="Sahan Journal at 2022-07-26 02:24:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-25T19:24:28.392950-05:00.jpg">July 25 at 7:24 PM</a></p>
+ <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-25T19:24:28.392950-05:00.jpg">July 26 at 2:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-25T10:40:23.811235-05:00.jpg">
   <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-25T10:40:23.811235-05:00.jpg"
-     alt="Sahan Journal at 2022-07-25 10:40:27-05:00 local time"
+     alt="Sahan Journal at 2022-07-25 17:40:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-25T10:40:23.811235-05:00.jpg">July 25 at 10:40 AM</a></p>
+ <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-25T10:40:23.811235-05:00.jpg">July 25 at 5:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-24T22:42:06.632810-05:00.jpg">
   <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-24T22:42:06.632810-05:00.jpg"
-     alt="Sahan Journal at 2022-07-24 22:42:10-05:00 local time"
+     alt="Sahan Journal at 2022-07-25 05:42:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-24T22:42:06.632810-05:00.jpg">July 24 at 10:42 PM</a></p>
+ <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-24T22:42:06.632810-05:00.jpg">July 25 at 5:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-24T09:02:44.867364-05:00.jpg">
   <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-24T09:02:44.867364-05:00.jpg"
-     alt="Sahan Journal at 2022-07-24 09:02:47-05:00 local time"
+     alt="Sahan Journal at 2022-07-24 16:02:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-24T09:02:44.867364-05:00.jpg">July 24 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-24T09:02:44.867364-05:00.jpg">July 24 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-24T01:21:48.701663-05:00.jpg">
   <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-24T01:21:48.701663-05:00.jpg"
-     alt="Sahan Journal at 2022-07-24 01:21:53-05:00 local time"
+     alt="Sahan Journal at 2022-07-24 08:21:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-24T01:21:48.701663-05:00.jpg">July 24 at 1:21 AM</a></p>
+ <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-24T01:21:48.701663-05:00.jpg">July 24 at 8:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-23T10:10:37.150533-05:00.jpg">
   <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-23T10:10:37.150533-05:00.jpg"
-     alt="Sahan Journal at 2022-07-23 10:10:41-05:00 local time"
+     alt="Sahan Journal at 2022-07-23 17:10:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-23T10:10:37.150533-05:00.jpg">July 23 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-23T10:10:37.150533-05:00.jpg">July 23 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-22T22:38:57.263652-05:00.jpg">
   <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-22T22:38:57.263652-05:00.jpg"
-     alt="Sahan Journal at 2022-07-22 22:39:00-05:00 local time"
+     alt="Sahan Journal at 2022-07-23 05:39:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-22T22:38:57.263652-05:00.jpg">July 22 at 10:39 PM</a></p>
+ <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-22T22:38:57.263652-05:00.jpg">July 23 at 5:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-22T10:04:54.049101-05:00.jpg">
   <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-22T10:04:54.049101-05:00.jpg"
-     alt="Sahan Journal at 2022-07-22 10:04:58-05:00 local time"
+     alt="Sahan Journal at 2022-07-22 17:04:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-22T10:04:54.049101-05:00.jpg">July 22 at 10:04 AM</a></p>
+ <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-22T10:04:54.049101-05:00.jpg">July 22 at 5:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-21T22:43:35.157073-05:00.jpg">
   <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-21T22:43:35.157073-05:00.jpg"
-     alt="Sahan Journal at 2022-07-21 22:43:36-05:00 local time"
+     alt="Sahan Journal at 2022-07-22 05:43:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-21T22:43:35.157073-05:00.jpg">July 21 at 10:43 PM</a></p>
+ <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-21T22:43:35.157073-05:00.jpg">July 22 at 5:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-21T10:40:22.859742-05:00.jpg">
   <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-21T10:40:22.859742-05:00.jpg"
-     alt="Sahan Journal at 2022-07-21 10:40:25-05:00 local time"
+     alt="Sahan Journal at 2022-07-21 17:40:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-21T10:40:22.859742-05:00.jpg">July 21 at 10:40 AM</a></p>
+ <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-21T10:40:22.859742-05:00.jpg">July 21 at 5:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-20T22:41:29.587577-05:00.jpg">
   <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-20T22:41:29.587577-05:00.jpg"
-     alt="Sahan Journal at 2022-07-20 22:41:31-05:00 local time"
+     alt="Sahan Journal at 2022-07-21 05:41:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-20T22:41:29.587577-05:00.jpg">July 20 at 10:41 PM</a></p>
+ <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-20T22:41:29.587577-05:00.jpg">July 21 at 5:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-20T11:42:20.062338-05:00.jpg">
   <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-20T11:42:20.062338-05:00.jpg"
-     alt="Sahan Journal at 2022-07-20 11:42:27-05:00 local time"
+     alt="Sahan Journal at 2022-07-20 18:42:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-20T11:42:20.062338-05:00.jpg">July 20 at 11:42 AM</a></p>
+ <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-20T11:42:20.062338-05:00.jpg">July 20 at 6:42 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 191 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 191 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

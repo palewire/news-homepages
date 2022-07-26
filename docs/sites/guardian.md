@@ -25,7 +25,7 @@ The archiving routine has saved 313 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 313 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/guardian-2022/guardian-2022-07-25T13:05:16.924997+01:00.jpg">
   <img src="https://archive.org/download/guardian-2022/guardian-2022-07-25T13:05:16.924997+01:00.jpg"
-     alt="The Guardian at 2022-07-25 13:05:24+01:00 local time"
+     alt="The Guardian at 2022-07-25 20:05:24+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-25T13:05:16.924997+01:00.jpg">July 25 at 1:05 PM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-25T13:05:16.924997+01:00.jpg">July 25 at 8:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/guardian-2022/guardian-2022-07-25T10:09:30.275525+01:00.jpg">
   <img src="https://archive.org/download/guardian-2022/guardian-2022-07-25T10:09:30.275525+01:00.jpg"
-     alt="The Guardian at 2022-07-25 10:09:36+01:00 local time"
+     alt="The Guardian at 2022-07-25 17:09:36+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-25T10:09:30.275525+01:00.jpg">July 25 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-25T10:09:30.275525+01:00.jpg">July 25 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/guardian-2022/guardian-2022-07-25T02:09:19.911990+01:00.jpg">
   <img src="https://archive.org/download/guardian-2022/guardian-2022-07-25T02:09:19.911990+01:00.jpg"
-     alt="The Guardian at 2022-07-25 02:09:21+01:00 local time"
+     alt="The Guardian at 2022-07-25 09:09:21+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-25T02:09:19.911990+01:00.jpg">July 25 at 2:09 AM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-25T02:09:19.911990+01:00.jpg">July 25 at 9:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/guardian-2022/guardian-2022-07-24T13:01:20.232700+01:00.jpg">
   <img src="https://archive.org/download/guardian-2022/guardian-2022-07-24T13:01:20.232700+01:00.jpg"
-     alt="The Guardian at 2022-07-24 13:01:22+01:00 local time"
+     alt="The Guardian at 2022-07-24 20:01:22+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-24T13:01:20.232700+01:00.jpg">July 24 at 1:01 PM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-24T13:01:20.232700+01:00.jpg">July 24 at 8:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/guardian-2022/guardian-2022-07-24T10:09:59.059277+01:00.jpg">
   <img src="https://archive.org/download/guardian-2022/guardian-2022-07-24T10:09:59.059277+01:00.jpg"
-     alt="The Guardian at 2022-07-24 10:10:01+01:00 local time"
+     alt="The Guardian at 2022-07-24 17:10:01+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-24T10:09:59.059277+01:00.jpg">July 24 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-24T10:09:59.059277+01:00.jpg">July 24 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/guardian-2022/guardian-2022-07-24T07:32:11.418027+01:00.jpg">
   <img src="https://archive.org/download/guardian-2022/guardian-2022-07-24T07:32:11.418027+01:00.jpg"
-     alt="The Guardian at 2022-07-24 07:32:21+01:00 local time"
+     alt="The Guardian at 2022-07-24 14:32:21+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-24T07:32:11.418027+01:00.jpg">July 24 at 7:32 AM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-24T07:32:11.418027+01:00.jpg">July 24 at 2:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T15:02:25.261493+01:00.jpg">
   <img src="https://archive.org/download/guardian-2022/guardian-2022-07-23T15:02:25.261493+01:00.jpg"
-     alt="The Guardian at 2022-07-23 15:02:28+01:00 local time"
+     alt="The Guardian at 2022-07-23 22:02:28+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T15:02:25.261493+01:00.jpg">July 23 at 3:02 PM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T15:02:25.261493+01:00.jpg">July 23 at 10:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T10:06:19.000831+01:00.jpg">
   <img src="https://archive.org/download/guardian-2022/guardian-2022-07-23T10:06:19.000831+01:00.jpg"
-     alt="The Guardian at 2022-07-23 10:06:21+01:00 local time"
+     alt="The Guardian at 2022-07-23 17:06:21+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T10:06:19.000831+01:00.jpg">July 23 at 10:06 AM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T10:06:19.000831+01:00.jpg">July 23 at 5:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T03:27:31.879374+01:00.jpg">
   <img src="https://archive.org/download/guardian-2022/guardian-2022-07-23T03:27:31.879374+01:00.jpg"
-     alt="The Guardian at 2022-07-23 03:27:33+01:00 local time"
+     alt="The Guardian at 2022-07-23 10:27:33+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T03:27:31.879374+01:00.jpg">July 23 at 3:27 AM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T03:27:31.879374+01:00.jpg">July 23 at 10:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/guardian-2022/guardian-2022-07-22T15:02:46.756811+01:00.jpg">
   <img src="https://archive.org/download/guardian-2022/guardian-2022-07-22T15:02:46.756811+01:00.jpg"
-     alt="The Guardian at 2022-07-22 15:02:48+01:00 local time"
+     alt="The Guardian at 2022-07-22 22:02:48+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-22T15:02:46.756811+01:00.jpg">July 22 at 3:02 PM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-22T15:02:46.756811+01:00.jpg">July 22 at 10:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/guardian-2022/guardian-2022-07-22T10:07:03.745693+01:00.jpg">
   <img src="https://archive.org/download/guardian-2022/guardian-2022-07-22T10:07:03.745693+01:00.jpg"
-     alt="The Guardian at 2022-07-22 10:07:05+01:00 local time"
+     alt="The Guardian at 2022-07-22 17:07:05+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-22T10:07:03.745693+01:00.jpg">July 22 at 10:07 AM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-22T10:07:03.745693+01:00.jpg">July 22 at 5:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/guardian-2022/guardian-2022-07-22T03:22:12.555858+01:00.jpg">
   <img src="https://archive.org/download/guardian-2022/guardian-2022-07-22T03:22:12.555858+01:00.jpg"
-     alt="The Guardian at 2022-07-22 03:22:14+01:00 local time"
+     alt="The Guardian at 2022-07-22 10:22:14+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-22T03:22:12.555858+01:00.jpg">July 22 at 3:22 AM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-22T03:22:12.555858+01:00.jpg">July 22 at 10:22 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 299 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 299 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

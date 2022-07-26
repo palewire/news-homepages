@@ -25,7 +25,7 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-25T10:50:24.489294-05:00.jpg">
   <img src="https://archive.org/download/tprnews-2022/tprnews-2022-07-25T10:50:24.489294-05:00.jpg"
-     alt="Texas Public Radio at 2022-07-25 10:50:26-05:00 local time"
+     alt="Texas Public Radio at 2022-07-25 17:50:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-25T10:50:24.489294-05:00.jpg">July 25 at 10:50 AM</a></p>
+ <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-25T10:50:24.489294-05:00.jpg">July 25 at 5:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-24T23:38:23.933662-05:00.jpg">
   <img src="https://archive.org/download/tprnews-2022/tprnews-2022-07-24T23:38:23.933662-05:00.jpg"
-     alt="Texas Public Radio at 2022-07-24 23:38:25-05:00 local time"
+     alt="Texas Public Radio at 2022-07-25 06:38:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-24T23:38:23.933662-05:00.jpg">July 24 at 11:38 PM</a></p>
+ <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-24T23:38:23.933662-05:00.jpg">July 25 at 6:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-24T10:08:54.446776-05:00.jpg">
   <img src="https://archive.org/download/tprnews-2022/tprnews-2022-07-24T10:08:54.446776-05:00.jpg"
-     alt="Texas Public Radio at 2022-07-24 10:08:56-05:00 local time"
+     alt="Texas Public Radio at 2022-07-24 17:08:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-24T10:08:54.446776-05:00.jpg">July 24 at 10:08 AM</a></p>
+ <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-24T10:08:54.446776-05:00.jpg">July 24 at 5:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-23T22:44:05.888407-05:00.jpg">
   <img src="https://archive.org/download/tprnews-2022/tprnews-2022-07-23T22:44:05.888407-05:00.jpg"
-     alt="Texas Public Radio at 2022-07-23 22:44:07-05:00 local time"
+     alt="Texas Public Radio at 2022-07-24 05:44:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-23T22:44:05.888407-05:00.jpg">July 23 at 10:44 PM</a></p>
+ <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-23T22:44:05.888407-05:00.jpg">July 24 at 5:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-23T11:07:09.824313-05:00.jpg">
   <img src="https://archive.org/download/tprnews-2022/tprnews-2022-07-23T11:07:09.824313-05:00.jpg"
-     alt="Texas Public Radio at 2022-07-23 11:07:13-05:00 local time"
+     alt="Texas Public Radio at 2022-07-23 18:07:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-23T11:07:09.824313-05:00.jpg">July 23 at 11:07 AM</a></p>
+ <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-23T11:07:09.824313-05:00.jpg">July 23 at 6:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-22T23:27:04.330126-05:00.jpg">
   <img src="https://archive.org/download/tprnews-2022/tprnews-2022-07-22T23:27:04.330126-05:00.jpg"
-     alt="Texas Public Radio at 2022-07-22 23:27:06-05:00 local time"
+     alt="Texas Public Radio at 2022-07-23 06:27:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-22T23:27:04.330126-05:00.jpg">July 22 at 11:27 PM</a></p>
+ <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-22T23:27:04.330126-05:00.jpg">July 23 at 6:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-22T11:20:14.730493-05:00.jpg">
   <img src="https://archive.org/download/tprnews-2022/tprnews-2022-07-22T11:20:14.730493-05:00.jpg"
-     alt="Texas Public Radio at 2022-07-22 11:20:15-05:00 local time"
+     alt="Texas Public Radio at 2022-07-22 18:20:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-22T11:20:14.730493-05:00.jpg">July 22 at 11:20 AM</a></p>
+ <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-22T11:20:14.730493-05:00.jpg">July 22 at 6:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-21T23:33:46.881389-05:00.jpg">
   <img src="https://archive.org/download/tprnews-2022/tprnews-2022-07-21T23:33:46.881389-05:00.jpg"
-     alt="Texas Public Radio at 2022-07-21 23:33:50-05:00 local time"
+     alt="Texas Public Radio at 2022-07-22 06:33:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-21T23:33:46.881389-05:00.jpg">July 21 at 11:33 PM</a></p>
+ <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-21T23:33:46.881389-05:00.jpg">July 22 at 6:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-21T11:57:03.586963-05:00.jpg">
   <img src="https://archive.org/download/tprnews-2022/tprnews-2022-07-21T11:57:03.586963-05:00.jpg"
-     alt="Texas Public Radio at 2022-07-21 11:57:07-05:00 local time"
+     alt="Texas Public Radio at 2022-07-21 18:57:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-21T11:57:03.586963-05:00.jpg">July 21 at 11:57 AM</a></p>
+ <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-21T11:57:03.586963-05:00.jpg">July 21 at 6:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-20T23:31:13.850897-05:00.jpg">
   <img src="https://archive.org/download/tprnews-2022/tprnews-2022-07-20T23:31:13.850897-05:00.jpg"
-     alt="Texas Public Radio at 2022-07-20 23:31:15-05:00 local time"
+     alt="Texas Public Radio at 2022-07-21 06:31:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-20T23:31:13.850897-05:00.jpg">July 20 at 11:31 PM</a></p>
+ <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-20T23:31:13.850897-05:00.jpg">July 21 at 6:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-20T11:48:15.766941-05:00.jpg">
   <img src="https://archive.org/download/tprnews-2022/tprnews-2022-07-20T11:48:15.766941-05:00.jpg"
-     alt="Texas Public Radio at 2022-07-20 11:48:17-05:00 local time"
+     alt="Texas Public Radio at 2022-07-20 18:48:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-20T11:48:15.766941-05:00.jpg">July 20 at 11:48 AM</a></p>
+ <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-20T11:48:15.766941-05:00.jpg">July 20 at 6:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-19T23:23:18.405229-05:00.jpg">
   <img src="https://archive.org/download/tprnews-2022/tprnews-2022-07-19T23:23:18.405229-05:00.jpg"
-     alt="Texas Public Radio at 2022-07-19 23:23:19-05:00 local time"
+     alt="Texas Public Radio at 2022-07-20 06:23:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-19T23:23:18.405229-05:00.jpg">July 19 at 11:23 PM</a></p>
+ <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-19T23:23:18.405229-05:00.jpg">July 20 at 6:23 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 44 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

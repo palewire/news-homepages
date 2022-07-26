@@ -31,10 +31,10 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.jpg">
   <img src="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.jpg"
-     alt="Mediapart at 2022-07-26 02:19:36+02:00 local time"
+     alt="Mediapart at 2022-07-26 09:19:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.jpg">July 26 at 2:19 AM</a></p>
+ <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.jpg">July 26 at 9:19 AM</a></p>
 </div>
 
 </div>

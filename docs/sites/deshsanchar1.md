@@ -31,28 +31,28 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-25T17:45:14.527146+05:45.jpg">
   <img src="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-25T17:45:14.527146+05:45.jpg"
-     alt="Deshsanchar at 2022-07-25 17:45:15+05:45 local time"
+     alt="Deshsanchar at 2022-07-26 00:45:15+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-25T17:45:14.527146+05:45.jpg">July 25 at 5:45 PM</a></p>
+ <p><a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-25T17:45:14.527146+05:45.jpg">July 26 at 12:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-25T06:45:35.725715+05:45.jpg">
   <img src="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-25T06:45:35.725715+05:45.jpg"
-     alt="Deshsanchar at 2022-07-25 06:45:37+05:45 local time"
+     alt="Deshsanchar at 2022-07-25 13:45:37+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-25T06:45:35.725715+05:45.jpg">July 25 at 6:45 AM</a></p>
+ <p><a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-25T06:45:35.725715+05:45.jpg">July 25 at 1:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-25T02:22:29.407695+05:45.jpg">
   <img src="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-25T02:22:29.407695+05:45.jpg"
-     alt="Deshsanchar at 2022-07-25 02:22:34+05:45 local time"
+     alt="Deshsanchar at 2022-07-25 09:22:34+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-25T02:22:29.407695+05:45.jpg">July 25 at 2:22 AM</a></p>
+ <p><a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-25T02:22:29.407695+05:45.jpg">July 25 at 9:22 AM</a></p>
 </div>
 
 </div>

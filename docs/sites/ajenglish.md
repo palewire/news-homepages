@@ -25,7 +25,7 @@ The archiving routine has saved 80 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 80 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T02:06:59.720280+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T02:06:59.720280+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-26 02:07:03+03:00 local time"
+     alt="Al Jazeera English at 2022-07-26 09:07:03+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T02:06:59.720280+03:00.jpg">July 26 at 2:07 AM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T02:06:59.720280+03:00.jpg">July 26 at 9:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T13:56:43.173087+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T13:56:43.173087+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-25 13:56:46+03:00 local time"
+     alt="Al Jazeera English at 2022-07-25 20:56:46+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T13:56:43.173087+03:00.jpg">July 25 at 1:56 PM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T13:56:43.173087+03:00.jpg">July 25 at 8:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T03:46:02.941732+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T03:46:02.941732+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-25 03:46:06+03:00 local time"
+     alt="Al Jazeera English at 2022-07-25 10:46:06+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T03:46:02.941732+03:00.jpg">July 25 at 3:46 AM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T03:46:02.941732+03:00.jpg">July 25 at 10:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T13:56:38.053565+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T13:56:38.053565+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-24 13:56:40+03:00 local time"
+     alt="Al Jazeera English at 2022-07-24 20:56:40+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T13:56:38.053565+03:00.jpg">July 24 at 1:56 PM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T13:56:38.053565+03:00.jpg">July 24 at 8:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T01:57:58.084262+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T01:57:58.084262+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-24 01:58:04+03:00 local time"
+     alt="Al Jazeera English at 2022-07-24 08:58:04+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T01:57:58.084262+03:00.jpg">July 24 at 1:58 AM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T01:57:58.084262+03:00.jpg">July 24 at 8:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T15:54:18.108788+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T15:54:18.108788+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-23 15:54:19+03:00 local time"
+     alt="Al Jazeera English at 2022-07-23 22:54:19+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T15:54:18.108788+03:00.jpg">July 23 at 3:54 PM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T15:54:18.108788+03:00.jpg">July 23 at 10:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T03:55:39.852142+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T03:55:39.852142+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-23 03:55:42+03:00 local time"
+     alt="Al Jazeera English at 2022-07-23 10:55:42+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T03:55:39.852142+03:00.jpg">July 23 at 3:55 AM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T03:55:39.852142+03:00.jpg">July 23 at 10:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-22T15:54:31.999663+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-22T15:54:31.999663+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-22 15:54:33+03:00 local time"
+     alt="Al Jazeera English at 2022-07-22 22:54:33+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-22T15:54:31.999663+03:00.jpg">July 22 at 3:54 PM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-22T15:54:31.999663+03:00.jpg">July 22 at 10:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-22T04:02:46.324335+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-22T04:02:46.324335+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-22 04:02:48+03:00 local time"
+     alt="Al Jazeera English at 2022-07-22 11:02:48+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-22T04:02:46.324335+03:00.jpg">July 22 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-22T04:02:46.324335+03:00.jpg">July 22 at 11:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-21T15:49:28.314341+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-21T15:49:28.314341+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-21 15:49:30+03:00 local time"
+     alt="Al Jazeera English at 2022-07-21 22:49:30+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-21T15:49:28.314341+03:00.jpg">July 21 at 3:49 PM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-21T15:49:28.314341+03:00.jpg">July 21 at 10:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-21T04:02:27.860891+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-21T04:02:27.860891+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-21 04:02:30+03:00 local time"
+     alt="Al Jazeera English at 2022-07-21 11:02:30+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-21T04:02:27.860891+03:00.jpg">July 21 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-21T04:02:27.860891+03:00.jpg">July 21 at 11:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-20T15:50:24.943326+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-20T15:50:24.943326+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-20 15:50:26+03:00 local time"
+     alt="Al Jazeera English at 2022-07-20 22:50:26+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-20T15:50:24.943326+03:00.jpg">July 20 at 3:50 PM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-20T15:50:24.943326+03:00.jpg">July 20 at 10:50 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 79 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 79 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

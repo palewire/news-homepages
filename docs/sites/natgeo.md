@@ -25,7 +25,7 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-25T20:20:04.738334-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-07-25T20:20:04.738334-04:00.jpg"
-     alt="National Geographic at 2022-07-25 20:20:09-04:00 local time"
+     alt="National Geographic at 2022-07-26 03:20:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-25T20:20:04.738334-04:00.jpg">July 25 at 8:20 PM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-25T20:20:04.738334-04:00.jpg">July 26 at 3:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-25T09:15:45.431505-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-07-25T09:15:45.431505-04:00.jpg"
-     alt="National Geographic at 2022-07-25 09:15:47-04:00 local time"
+     alt="National Geographic at 2022-07-25 16:15:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-25T09:15:45.431505-04:00.jpg">July 25 at 9:15 AM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-25T09:15:45.431505-04:00.jpg">July 25 at 4:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T23:33:53.364161-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T23:33:53.364161-04:00.jpg"
-     alt="National Geographic at 2022-07-24 23:33:56-04:00 local time"
+     alt="National Geographic at 2022-07-25 06:33:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T23:33:53.364161-04:00.jpg">July 24 at 11:33 PM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T23:33:53.364161-04:00.jpg">July 25 at 6:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T09:04:02.625696-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T09:04:02.625696-04:00.jpg"
-     alt="National Geographic at 2022-07-24 09:04:05-04:00 local time"
+     alt="National Geographic at 2022-07-24 16:04:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T09:04:02.625696-04:00.jpg">July 24 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T09:04:02.625696-04:00.jpg">July 24 at 4:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T00:19:29.406661-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T00:19:29.406661-04:00.jpg"
-     alt="National Geographic at 2022-07-24 00:19:31-04:00 local time"
+     alt="National Geographic at 2022-07-24 07:19:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T00:19:29.406661-04:00.jpg">July 24 at 12:19 AM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T00:19:29.406661-04:00.jpg">July 24 at 7:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-23T11:02:20.606442-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-07-23T11:02:20.606442-04:00.jpg"
-     alt="National Geographic at 2022-07-23 11:02:21-04:00 local time"
+     alt="National Geographic at 2022-07-23 18:02:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-23T11:02:20.606442-04:00.jpg">July 23 at 11:02 AM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-23T11:02:20.606442-04:00.jpg">July 23 at 6:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-22T23:32:28.726404-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-07-22T23:32:28.726404-04:00.jpg"
-     alt="National Geographic at 2022-07-22 23:32:30-04:00 local time"
+     alt="National Geographic at 2022-07-23 06:32:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-22T23:32:28.726404-04:00.jpg">July 22 at 11:32 PM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-22T23:32:28.726404-04:00.jpg">July 23 at 6:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-22T10:58:20.567145-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-07-22T10:58:20.567145-04:00.jpg"
-     alt="National Geographic at 2022-07-22 10:58:21-04:00 local time"
+     alt="National Geographic at 2022-07-22 17:58:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-22T10:58:20.567145-04:00.jpg">July 22 at 10:58 AM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-22T10:58:20.567145-04:00.jpg">July 22 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-21T23:36:53.094262-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-07-21T23:36:53.094262-04:00.jpg"
-     alt="National Geographic at 2022-07-21 23:36:55-04:00 local time"
+     alt="National Geographic at 2022-07-22 06:36:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-21T23:36:53.094262-04:00.jpg">July 21 at 11:36 PM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-21T23:36:53.094262-04:00.jpg">July 22 at 6:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-21T11:34:41.045053-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-07-21T11:34:41.045053-04:00.jpg"
-     alt="National Geographic at 2022-07-21 11:34:42-04:00 local time"
+     alt="National Geographic at 2022-07-21 18:34:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-21T11:34:41.045053-04:00.jpg">July 21 at 11:34 AM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-21T11:34:41.045053-04:00.jpg">July 21 at 6:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-20T23:35:12.430576-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-07-20T23:35:12.430576-04:00.jpg"
-     alt="National Geographic at 2022-07-20 23:35:14-04:00 local time"
+     alt="National Geographic at 2022-07-21 06:35:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-20T23:35:12.430576-04:00.jpg">July 20 at 11:35 PM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-20T23:35:12.430576-04:00.jpg">July 21 at 6:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-20T12:08:57.570150-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-07-20T12:08:57.570150-04:00.jpg"
-     alt="National Geographic at 2022-07-20 12:08:59-04:00 local time"
+     alt="National Geographic at 2022-07-20 19:08:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-20T12:08:57.570150-04:00.jpg">July 20 at 12:08 PM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-20T12:08:57.570150-04:00.jpg">July 20 at 7:08 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 44 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

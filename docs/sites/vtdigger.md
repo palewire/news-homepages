@@ -25,7 +25,7 @@ The archiving routine has saved 99 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 99 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-25T11:51:50.463314-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-25T11:51:50.463314-04:00.jpg"
-     alt="VT Digger at 2022-07-25 11:51:53-04:00 local time"
+     alt="VT Digger at 2022-07-25 18:51:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-25T11:51:50.463314-04:00.jpg">July 25 at 11:51 AM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-25T11:51:50.463314-04:00.jpg">July 25 at 6:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-25T00:41:25.734502-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-25T00:41:25.734502-04:00.jpg"
-     alt="VT Digger at 2022-07-25 00:41:27-04:00 local time"
+     alt="VT Digger at 2022-07-25 07:41:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-25T00:41:25.734502-04:00.jpg">July 25 at 12:41 AM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-25T00:41:25.734502-04:00.jpg">July 25 at 7:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-24T11:10:40.113074-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-24T11:10:40.113074-04:00.jpg"
-     alt="VT Digger at 2022-07-24 11:10:42-04:00 local time"
+     alt="VT Digger at 2022-07-24 18:10:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-24T11:10:40.113074-04:00.jpg">July 24 at 11:10 AM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-24T11:10:40.113074-04:00.jpg">July 24 at 6:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-23T23:46:04.652403-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-23T23:46:04.652403-04:00.jpg"
-     alt="VT Digger at 2022-07-23 23:46:05-04:00 local time"
+     alt="VT Digger at 2022-07-24 06:46:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-23T23:46:04.652403-04:00.jpg">July 23 at 11:46 PM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-23T23:46:04.652403-04:00.jpg">July 24 at 6:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-23T12:08:41.943173-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-23T12:08:41.943173-04:00.jpg"
-     alt="VT Digger at 2022-07-23 12:08:48-04:00 local time"
+     alt="VT Digger at 2022-07-23 19:08:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-23T12:08:41.943173-04:00.jpg">July 23 at 12:08 PM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-23T12:08:41.943173-04:00.jpg">July 23 at 7:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-23T00:28:11.225778-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-23T00:28:11.225778-04:00.jpg"
-     alt="VT Digger at 2022-07-23 00:28:16-04:00 local time"
+     alt="VT Digger at 2022-07-23 07:28:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-23T00:28:11.225778-04:00.jpg">July 23 at 12:28 AM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-23T00:28:11.225778-04:00.jpg">July 23 at 7:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-22T12:22:25.710555-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-22T12:22:25.710555-04:00.jpg"
-     alt="VT Digger at 2022-07-22 12:22:29-04:00 local time"
+     alt="VT Digger at 2022-07-22 19:22:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-22T12:22:25.710555-04:00.jpg">July 22 at 12:22 PM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-22T12:22:25.710555-04:00.jpg">July 22 at 7:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-22T00:35:39.795241-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-22T00:35:39.795241-04:00.jpg"
-     alt="VT Digger at 2022-07-22 00:35:42-04:00 local time"
+     alt="VT Digger at 2022-07-22 07:35:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-22T00:35:39.795241-04:00.jpg">July 22 at 12:35 AM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-22T00:35:39.795241-04:00.jpg">July 22 at 7:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-21T12:58:51.519172-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-21T12:58:51.519172-04:00.jpg"
-     alt="VT Digger at 2022-07-21 12:58:55-04:00 local time"
+     alt="VT Digger at 2022-07-21 19:58:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-21T12:58:51.519172-04:00.jpg">July 21 at 12:58 PM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-21T12:58:51.519172-04:00.jpg">July 21 at 7:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-21T00:32:17.144048-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-21T00:32:17.144048-04:00.jpg"
-     alt="VT Digger at 2022-07-21 00:32:18-04:00 local time"
+     alt="VT Digger at 2022-07-21 07:32:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-21T00:32:17.144048-04:00.jpg">July 21 at 12:32 AM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-21T00:32:17.144048-04:00.jpg">July 21 at 7:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-20T12:50:26.225680-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-20T12:50:26.225680-04:00.jpg"
-     alt="VT Digger at 2022-07-20 12:50:28-04:00 local time"
+     alt="VT Digger at 2022-07-20 19:50:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-20T12:50:26.225680-04:00.jpg">July 20 at 12:50 PM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-20T12:50:26.225680-04:00.jpg">July 20 at 7:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-20T00:24:45.565433-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-20T00:24:45.565433-04:00.jpg"
-     alt="VT Digger at 2022-07-20 00:24:48-04:00 local time"
+     alt="VT Digger at 2022-07-20 07:24:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-20T00:24:45.565433-04:00.jpg">July 20 at 12:24 AM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-20T00:24:45.565433-04:00.jpg">July 20 at 7:24 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 98 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 98 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

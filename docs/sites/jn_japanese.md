@@ -25,7 +25,7 @@ The archiving routine has saved 53 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 53 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-26T09:16:00.964744+09:00.jpg">
   <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-26T09:16:00.964744+09:00.jpg"
-     alt="Yomiuri shinbun at 2022-07-26 09:16:03+09:00 local time"
+     alt="Yomiuri shinbun at 2022-07-26 16:16:03+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-26T09:16:00.964744+09:00.jpg">July 26 at 9:16 AM</a></p>
+ <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-26T09:16:00.964744+09:00.jpg">July 26 at 4:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-25T22:09:27.799683+09:00.jpg">
   <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-25T22:09:27.799683+09:00.jpg"
-     alt="Yomiuri shinbun at 2022-07-25 22:09:29+09:00 local time"
+     alt="Yomiuri shinbun at 2022-07-26 05:09:29+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-25T22:09:27.799683+09:00.jpg">July 25 at 10:09 PM</a></p>
+ <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-25T22:09:27.799683+09:00.jpg">July 26 at 5:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-25T12:36:10.863242+09:00.jpg">
   <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-25T12:36:10.863242+09:00.jpg"
-     alt="Yomiuri shinbun at 2022-07-25 12:36:12+09:00 local time"
+     alt="Yomiuri shinbun at 2022-07-25 19:36:12+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-25T12:36:10.863242+09:00.jpg">July 25 at 12:36 PM</a></p>
+ <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-25T12:36:10.863242+09:00.jpg">July 25 at 7:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-25T12:24:04.528378+09:00.jpg">
   <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-25T12:24:04.528378+09:00.jpg"
-     alt="Yomiuri shinbun at 2022-07-25 12:24:06+09:00 local time"
+     alt="Yomiuri shinbun at 2022-07-25 19:24:06+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-25T12:24:04.528378+09:00.jpg">July 25 at 12:24 PM</a></p>
+ <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-25T12:24:04.528378+09:00.jpg">July 25 at 7:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-24T21:58:37.362340+09:00.jpg">
   <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-24T21:58:37.362340+09:00.jpg"
-     alt="Yomiuri shinbun at 2022-07-24 21:58:39+09:00 local time"
+     alt="Yomiuri shinbun at 2022-07-25 04:58:39+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-24T21:58:37.362340+09:00.jpg">July 24 at 9:58 PM</a></p>
+ <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-24T21:58:37.362340+09:00.jpg">July 25 at 4:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-24T13:13:48.499059+09:00.jpg">
   <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-24T13:13:48.499059+09:00.jpg"
-     alt="Yomiuri shinbun at 2022-07-24 13:13:50+09:00 local time"
+     alt="Yomiuri shinbun at 2022-07-24 20:13:50+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-24T13:13:48.499059+09:00.jpg">July 24 at 1:13 PM</a></p>
+ <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-24T13:13:48.499059+09:00.jpg">July 24 at 8:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-24T11:26:03.340655+09:00.jpg">
   <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-24T11:26:03.340655+09:00.jpg"
-     alt="Yomiuri shinbun at 2022-07-24 11:26:06+09:00 local time"
+     alt="Yomiuri shinbun at 2022-07-24 18:26:06+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-24T11:26:03.340655+09:00.jpg">July 24 at 11:26 AM</a></p>
+ <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-24T11:26:03.340655+09:00.jpg">July 24 at 6:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-23T23:03:59.767994+09:00.jpg">
   <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-23T23:03:59.767994+09:00.jpg"
-     alt="Yomiuri shinbun at 2022-07-23 23:04:01+09:00 local time"
+     alt="Yomiuri shinbun at 2022-07-24 06:04:01+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-23T23:03:59.767994+09:00.jpg">July 23 at 11:04 PM</a></p>
+ <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-23T23:03:59.767994+09:00.jpg">July 24 at 6:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-23T11:30:21.595454+09:00.jpg">
   <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-23T11:30:21.595454+09:00.jpg"
-     alt="Yomiuri shinbun at 2022-07-23 11:30:22+09:00 local time"
+     alt="Yomiuri shinbun at 2022-07-23 18:30:22+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-23T11:30:21.595454+09:00.jpg">July 23 at 11:30 AM</a></p>
+ <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-23T11:30:21.595454+09:00.jpg">July 23 at 6:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-23T10:34:56.277122+09:00.jpg">
   <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-23T10:34:56.277122+09:00.jpg"
-     alt="Yomiuri shinbun at 2022-07-23 10:34:57+09:00 local time"
+     alt="Yomiuri shinbun at 2022-07-23 17:34:57+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-23T10:34:56.277122+09:00.jpg">July 23 at 10:34 AM</a></p>
+ <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-23T10:34:56.277122+09:00.jpg">July 23 at 5:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-22T23:04:44.618344+09:00.jpg">
   <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-22T23:04:44.618344+09:00.jpg"
-     alt="Yomiuri shinbun at 2022-07-22 23:04:49+09:00 local time"
+     alt="Yomiuri shinbun at 2022-07-23 06:04:49+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-22T23:04:44.618344+09:00.jpg">July 22 at 11:04 PM</a></p>
+ <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-22T23:04:44.618344+09:00.jpg">July 23 at 6:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-22T11:24:33.226569+09:00.jpg">
   <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-22T11:24:33.226569+09:00.jpg"
-     alt="Yomiuri shinbun at 2022-07-22 11:24:34+09:00 local time"
+     alt="Yomiuri shinbun at 2022-07-22 18:24:34+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-22T11:24:33.226569+09:00.jpg">July 22 at 11:24 AM</a></p>
+ <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-07-22T11:24:33.226569+09:00.jpg">July 22 at 6:24 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 50 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 50 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

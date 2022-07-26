@@ -25,7 +25,7 @@ The archiving routine has saved 97 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 97 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-25T11:35:18.269700-05:00.jpg">
   <img src="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-25T11:35:18.269700-05:00.jpg"
-     alt="Chicago Tribune at 2022-07-25 11:35:19-05:00 local time"
+     alt="Chicago Tribune at 2022-07-25 18:35:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-25T11:35:18.269700-05:00.jpg">July 25 at 11:35 AM</a></p>
+ <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-25T11:35:18.269700-05:00.jpg">July 25 at 6:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-25T06:02:49.149912-05:00.jpg">
   <img src="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-25T06:02:49.149912-05:00.jpg"
-     alt="Chicago Tribune at 2022-07-25 06:02:51-05:00 local time"
+     alt="Chicago Tribune at 2022-07-25 13:02:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-25T06:02:49.149912-05:00.jpg">July 25 at 6:02 AM</a></p>
+ <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-25T06:02:49.149912-05:00.jpg">July 25 at 1:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-24T19:54:15.843965-05:00.jpg">
   <img src="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-24T19:54:15.843965-05:00.jpg"
-     alt="Chicago Tribune at 2022-07-24 19:54:26-05:00 local time"
+     alt="Chicago Tribune at 2022-07-25 02:54:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-24T19:54:15.843965-05:00.jpg">July 24 at 7:54 PM</a></p>
+ <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-24T19:54:15.843965-05:00.jpg">July 25 at 2:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-24T10:45:34.426317-05:00.jpg">
   <img src="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-24T10:45:34.426317-05:00.jpg"
-     alt="Chicago Tribune at 2022-07-24 10:45:36-05:00 local time"
+     alt="Chicago Tribune at 2022-07-24 17:45:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-24T10:45:34.426317-05:00.jpg">July 24 at 10:45 AM</a></p>
+ <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-24T10:45:34.426317-05:00.jpg">July 24 at 5:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-24T06:01:31.235677-05:00.jpg">
   <img src="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-24T06:01:31.235677-05:00.jpg"
-     alt="Chicago Tribune at 2022-07-24 06:01:34-05:00 local time"
+     alt="Chicago Tribune at 2022-07-24 13:01:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-24T06:01:31.235677-05:00.jpg">July 24 at 6:01 AM</a></p>
+ <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-24T06:01:31.235677-05:00.jpg">July 24 at 1:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-23T18:02:58.753154-05:00.jpg">
   <img src="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-23T18:02:58.753154-05:00.jpg"
-     alt="Chicago Tribune at 2022-07-23 18:03:03-05:00 local time"
+     alt="Chicago Tribune at 2022-07-24 01:03:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-23T18:02:58.753154-05:00.jpg">July 23 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-23T18:02:58.753154-05:00.jpg">July 24 at 1:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-23T08:01:06.858803-05:00.jpg">
   <img src="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-23T08:01:06.858803-05:00.jpg"
-     alt="Chicago Tribune at 2022-07-23 08:01:07-05:00 local time"
+     alt="Chicago Tribune at 2022-07-23 15:01:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-23T08:01:06.858803-05:00.jpg">July 23 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-23T08:01:06.858803-05:00.jpg">July 23 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-22T20:02:02.196521-05:00.jpg">
   <img src="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-22T20:02:02.196521-05:00.jpg"
-     alt="Chicago Tribune at 2022-07-22 20:02:03-05:00 local time"
+     alt="Chicago Tribune at 2022-07-23 03:02:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-22T20:02:02.196521-05:00.jpg">July 22 at 8:02 PM</a></p>
+ <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-22T20:02:02.196521-05:00.jpg">July 23 at 3:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-22T11:23:24.476939-05:00.jpg">
   <img src="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-22T11:23:24.476939-05:00.jpg"
-     alt="Chicago Tribune at 2022-07-22 11:23:27-05:00 local time"
+     alt="Chicago Tribune at 2022-07-22 18:23:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-22T11:23:24.476939-05:00.jpg">July 22 at 11:23 AM</a></p>
+ <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-22T11:23:24.476939-05:00.jpg">July 22 at 6:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-22T08:00:51.846415-05:00.jpg">
   <img src="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-22T08:00:51.846415-05:00.jpg"
-     alt="Chicago Tribune at 2022-07-22 08:00:58-05:00 local time"
+     alt="Chicago Tribune at 2022-07-22 15:00:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-22T08:00:51.846415-05:00.jpg">July 22 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-22T08:00:51.846415-05:00.jpg">July 22 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-21T20:08:49.715352-05:00.jpg">
   <img src="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-21T20:08:49.715352-05:00.jpg"
-     alt="Chicago Tribune at 2022-07-21 20:08:51-05:00 local time"
+     alt="Chicago Tribune at 2022-07-22 03:08:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-21T20:08:49.715352-05:00.jpg">July 21 at 8:08 PM</a></p>
+ <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-21T20:08:49.715352-05:00.jpg">July 22 at 3:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-21T11:48:38.905159-05:00.jpg">
   <img src="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-21T11:48:38.905159-05:00.jpg"
-     alt="Chicago Tribune at 2022-07-21 11:48:40-05:00 local time"
+     alt="Chicago Tribune at 2022-07-21 18:48:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-21T11:48:38.905159-05:00.jpg">July 21 at 11:48 AM</a></p>
+ <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-07-21T11:48:38.905159-05:00.jpg">July 21 at 6:48 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 98 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 98 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

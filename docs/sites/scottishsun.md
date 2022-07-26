@@ -25,7 +25,7 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-25T16:41:28.897078+01:00.jpg">
   <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-25T16:41:28.897078+01:00.jpg"
-     alt="Scottish Sun at 2022-07-25 16:41:30+01:00 local time"
+     alt="Scottish Sun at 2022-07-25 23:41:30+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-25T16:41:28.897078+01:00.jpg">July 25 at 4:41 PM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-25T16:41:28.897078+01:00.jpg">July 25 at 11:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-25T04:42:46.063093+01:00.jpg">
   <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-25T04:42:46.063093+01:00.jpg"
-     alt="Scottish Sun at 2022-07-25 04:42:47+01:00 local time"
+     alt="Scottish Sun at 2022-07-25 11:42:47+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-25T04:42:46.063093+01:00.jpg">July 25 at 4:42 AM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-25T04:42:46.063093+01:00.jpg">July 25 at 11:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-24T15:03:01.541986+01:00.jpg">
   <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-24T15:03:01.541986+01:00.jpg"
-     alt="Scottish Sun at 2022-07-24 15:03:03+01:00 local time"
+     alt="Scottish Sun at 2022-07-24 22:03:03+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-24T15:03:01.541986+01:00.jpg">July 24 at 3:03 PM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-24T15:03:01.541986+01:00.jpg">July 24 at 10:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-24T07:23:17.696301+01:00.jpg">
   <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-24T07:23:17.696301+01:00.jpg"
-     alt="Scottish Sun at 2022-07-24 07:23:19+01:00 local time"
+     alt="Scottish Sun at 2022-07-24 14:23:19+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-24T07:23:17.696301+01:00.jpg">July 24 at 7:23 AM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-24T07:23:17.696301+01:00.jpg">July 24 at 2:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-23T16:09:39.812540+01:00.jpg">
   <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-23T16:09:39.812540+01:00.jpg"
-     alt="Scottish Sun at 2022-07-23 16:09:41+01:00 local time"
+     alt="Scottish Sun at 2022-07-23 23:09:41+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-23T16:09:39.812540+01:00.jpg">July 23 at 4:09 PM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-23T16:09:39.812540+01:00.jpg">July 23 at 11:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-23T04:39:05.189595+01:00.jpg">
   <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-23T04:39:05.189595+01:00.jpg"
-     alt="Scottish Sun at 2022-07-23 04:39:07+01:00 local time"
+     alt="Scottish Sun at 2022-07-23 11:39:07+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-23T04:39:05.189595+01:00.jpg">July 23 at 4:39 AM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-23T04:39:05.189595+01:00.jpg">July 23 at 11:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-22T17:14:33.031896+01:00.jpg">
   <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-22T17:14:33.031896+01:00.jpg"
-     alt="Scottish Sun at 2022-07-22 17:14:34+01:00 local time"
+     alt="Scottish Sun at 2022-07-23 00:14:34+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-22T17:14:33.031896+01:00.jpg">July 22 at 5:14 PM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-22T17:14:33.031896+01:00.jpg">July 23 at 12:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-22T05:28:04.215174+01:00.jpg">
   <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-22T05:28:04.215174+01:00.jpg"
-     alt="Scottish Sun at 2022-07-22 05:28:06+01:00 local time"
+     alt="Scottish Sun at 2022-07-22 12:28:06+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-22T05:28:04.215174+01:00.jpg">July 22 at 5:28 AM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-22T05:28:04.215174+01:00.jpg">July 22 at 12:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-21T17:51:39.368164+01:00.jpg">
   <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-21T17:51:39.368164+01:00.jpg"
-     alt="Scottish Sun at 2022-07-21 17:51:40+01:00 local time"
+     alt="Scottish Sun at 2022-07-22 00:51:40+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-21T17:51:39.368164+01:00.jpg">July 21 at 5:51 PM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-21T17:51:39.368164+01:00.jpg">July 22 at 12:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-21T05:26:05.784884+01:00.jpg">
   <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-21T05:26:05.784884+01:00.jpg"
-     alt="Scottish Sun at 2022-07-21 05:26:06+01:00 local time"
+     alt="Scottish Sun at 2022-07-21 12:26:06+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-21T05:26:05.784884+01:00.jpg">July 21 at 5:26 AM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-21T05:26:05.784884+01:00.jpg">July 21 at 12:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-20T17:41:11.425526+01:00.jpg">
   <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-20T17:41:11.425526+01:00.jpg"
-     alt="Scottish Sun at 2022-07-20 17:41:13+01:00 local time"
+     alt="Scottish Sun at 2022-07-21 00:41:13+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-20T17:41:11.425526+01:00.jpg">July 20 at 5:41 PM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-20T17:41:11.425526+01:00.jpg">July 21 at 12:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-20T05:18:58.894974+01:00.jpg">
   <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-20T05:18:58.894974+01:00.jpg"
-     alt="Scottish Sun at 2022-07-20 05:19:01+01:00 local time"
+     alt="Scottish Sun at 2022-07-20 12:19:01+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-20T05:18:58.894974+01:00.jpg">July 20 at 5:19 AM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-07-20T05:18:58.894974+01:00.jpg">July 20 at 12:19 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 32 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

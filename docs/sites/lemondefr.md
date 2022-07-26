@@ -25,7 +25,7 @@ The archiving routine has saved 206 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 206 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T15:13:20.822507+02:00.jpg">
   <img src="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T15:13:20.822507+02:00.jpg"
-     alt="Le Monde at 2022-07-25 15:13:22+02:00 local time"
+     alt="Le Monde at 2022-07-25 22:13:22+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T15:13:20.822507+02:00.jpg">July 25 at 3:13 PM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T15:13:20.822507+02:00.jpg">July 25 at 10:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T10:09:19.050791+02:00.jpg">
   <img src="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T10:09:19.050791+02:00.jpg"
-     alt="Le Monde at 2022-07-25 10:09:20+02:00 local time"
+     alt="Le Monde at 2022-07-25 17:09:20+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T10:09:19.050791+02:00.jpg">July 25 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T10:09:19.050791+02:00.jpg">July 25 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T05:29:02.777522+02:00.jpg">
   <img src="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T05:29:02.777522+02:00.jpg"
-     alt="Le Monde at 2022-07-25 05:29:04+02:00 local time"
+     alt="Le Monde at 2022-07-25 12:29:04+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T05:29:02.777522+02:00.jpg">July 25 at 5:29 AM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T05:29:02.777522+02:00.jpg">July 25 at 12:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T15:01:30.501365+02:00.jpg">
   <img src="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T15:01:30.501365+02:00.jpg"
-     alt="Le Monde at 2022-07-24 15:01:32+02:00 local time"
+     alt="Le Monde at 2022-07-24 22:01:32+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T15:01:30.501365+02:00.jpg">July 24 at 3:01 PM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T15:01:30.501365+02:00.jpg">July 24 at 10:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T10:09:38.642350+02:00.jpg">
   <img src="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T10:09:38.642350+02:00.jpg"
-     alt="Le Monde at 2022-07-24 10:09:40+02:00 local time"
+     alt="Le Monde at 2022-07-24 17:09:40+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T10:09:38.642350+02:00.jpg">July 24 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T10:09:38.642350+02:00.jpg">July 24 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T06:17:33.108890+02:00.jpg">
   <img src="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T06:17:33.108890+02:00.jpg"
-     alt="Le Monde at 2022-07-24 06:17:46+02:00 local time"
+     alt="Le Monde at 2022-07-24 13:17:46+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T06:17:33.108890+02:00.jpg">July 24 at 6:17 AM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T06:17:33.108890+02:00.jpg">July 24 at 1:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T17:00:21.664550+02:00.jpg">
   <img src="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T17:00:21.664550+02:00.jpg"
-     alt="Le Monde at 2022-07-23 17:00:26+02:00 local time"
+     alt="Le Monde at 2022-07-24 00:00:26+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T17:00:21.664550+02:00.jpg">July 23 at 5:00 PM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T17:00:21.664550+02:00.jpg">July 24 at 12:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T10:10:09.196104+02:00.jpg">
   <img src="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T10:10:09.196104+02:00.jpg"
-     alt="Le Monde at 2022-07-23 10:10:14+02:00 local time"
+     alt="Le Monde at 2022-07-23 17:10:14+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T10:10:09.196104+02:00.jpg">July 23 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T10:10:09.196104+02:00.jpg">July 23 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T05:30:29.714977+02:00.jpg">
   <img src="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T05:30:29.714977+02:00.jpg"
-     alt="Le Monde at 2022-07-23 05:30:36+02:00 local time"
+     alt="Le Monde at 2022-07-23 12:30:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T05:30:29.714977+02:00.jpg">July 23 at 5:30 AM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T05:30:29.714977+02:00.jpg">July 23 at 12:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-22T16:55:31.956425+02:00.jpg">
   <img src="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-22T16:55:31.956425+02:00.jpg"
-     alt="Le Monde at 2022-07-22 16:55:35+02:00 local time"
+     alt="Le Monde at 2022-07-22 23:55:35+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-22T16:55:31.956425+02:00.jpg">July 22 at 4:55 PM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-22T16:55:31.956425+02:00.jpg">July 22 at 11:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-22T10:09:58.128275+02:00.jpg">
   <img src="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-22T10:09:58.128275+02:00.jpg"
-     alt="Le Monde at 2022-07-22 10:10:02+02:00 local time"
+     alt="Le Monde at 2022-07-22 17:10:02+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-22T10:09:58.128275+02:00.jpg">July 22 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-22T10:09:58.128275+02:00.jpg">July 22 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-22T05:34:57.449811+02:00.jpg">
   <img src="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-22T05:34:57.449811+02:00.jpg"
-     alt="Le Monde at 2022-07-22 05:35:02+02:00 local time"
+     alt="Le Monde at 2022-07-22 12:35:02+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-22T05:34:57.449811+02:00.jpg">July 22 at 5:35 AM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-22T05:34:57.449811+02:00.jpg">July 22 at 12:35 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 207 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 207 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

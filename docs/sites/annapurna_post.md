@@ -31,19 +31,19 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T06:31:08.498425+05:45.jpg">
   <img src="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T06:31:08.498425+05:45.jpg"
-     alt="Annapurna Post at 2022-07-25 06:31:10+05:45 local time"
+     alt="Annapurna Post at 2022-07-25 13:31:10+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T06:31:08.498425+05:45.jpg">July 25 at 6:31 AM</a></p>
+ <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T06:31:08.498425+05:45.jpg">July 25 at 1:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T02:21:57.909910+05:45.jpg">
   <img src="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T02:21:57.909910+05:45.jpg"
-     alt="Annapurna Post at 2022-07-25 02:22:04+05:45 local time"
+     alt="Annapurna Post at 2022-07-25 09:22:04+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T02:21:57.909910+05:45.jpg">July 25 at 2:22 AM</a></p>
+ <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T02:21:57.909910+05:45.jpg">July 25 at 9:22 AM</a></p>
 </div>
 
 </div>

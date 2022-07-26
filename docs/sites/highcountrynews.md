@@ -25,7 +25,7 @@ The archiving routine has saved 32 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 32 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-25T06:05:15.208170-06:00.jpg">
   <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-25T06:05:15.208170-06:00.jpg"
-     alt="High Country News at 2022-07-25 06:05:16-06:00 local time"
+     alt="High Country News at 2022-07-25 13:05:16-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-25T06:05:15.208170-06:00.jpg">July 25 at 6:05 AM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-25T06:05:15.208170-06:00.jpg">July 25 at 1:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-24T19:10:59.615085-06:00.jpg">
   <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-24T19:10:59.615085-06:00.jpg"
-     alt="High Country News at 2022-07-24 19:11:01-06:00 local time"
+     alt="High Country News at 2022-07-25 02:11:01-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-24T19:10:59.615085-06:00.jpg">July 24 at 7:11 PM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-24T19:10:59.615085-06:00.jpg">July 25 at 2:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-24T06:02:34.215147-06:00.jpg">
   <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-24T06:02:34.215147-06:00.jpg"
-     alt="High Country News at 2022-07-24 06:02:35-06:00 local time"
+     alt="High Country News at 2022-07-24 13:02:35-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-24T06:02:34.215147-06:00.jpg">July 24 at 6:02 AM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-24T06:02:34.215147-06:00.jpg">July 24 at 1:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-24T00:32:11.252061-06:00.jpg">
   <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-24T00:32:11.252061-06:00.jpg"
-     alt="High Country News at 2022-07-24 00:32:12-06:00 local time"
+     alt="High Country News at 2022-07-24 07:32:12-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-24T00:32:11.252061-06:00.jpg">July 24 at 12:32 AM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-24T00:32:11.252061-06:00.jpg">July 24 at 7:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-23T08:01:51.888303-06:00.jpg">
   <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-23T08:01:51.888303-06:00.jpg"
-     alt="High Country News at 2022-07-23 08:01:53-06:00 local time"
+     alt="High Country News at 2022-07-23 15:01:53-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-23T08:01:51.888303-06:00.jpg">July 23 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-23T08:01:51.888303-06:00.jpg">July 23 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-22T20:28:07.512260-06:00.jpg">
   <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-22T20:28:07.512260-06:00.jpg"
-     alt="High Country News at 2022-07-22 20:28:09-06:00 local time"
+     alt="High Country News at 2022-07-23 03:28:09-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-22T20:28:07.512260-06:00.jpg">July 22 at 8:28 PM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-22T20:28:07.512260-06:00.jpg">July 23 at 3:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-22T08:03:06.985351-06:00.jpg">
   <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-22T08:03:06.985351-06:00.jpg"
-     alt="High Country News at 2022-07-22 08:03:08-06:00 local time"
+     alt="High Country News at 2022-07-22 15:03:08-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-22T08:03:06.985351-06:00.jpg">July 22 at 8:03 AM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-22T08:03:06.985351-06:00.jpg">July 22 at 3:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-21T20:22:00.980517-06:00.jpg">
   <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-21T20:22:00.980517-06:00.jpg"
-     alt="High Country News at 2022-07-21 20:22:03-06:00 local time"
+     alt="High Country News at 2022-07-22 03:22:03-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-21T20:22:00.980517-06:00.jpg">July 21 at 8:22 PM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-21T20:22:00.980517-06:00.jpg">July 22 at 3:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-21T08:10:17.625428-06:00.jpg">
   <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-21T08:10:17.625428-06:00.jpg"
-     alt="High Country News at 2022-07-21 08:10:19-06:00 local time"
+     alt="High Country News at 2022-07-21 15:10:19-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-21T08:10:17.625428-06:00.jpg">July 21 at 8:10 AM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-21T08:10:17.625428-06:00.jpg">July 21 at 3:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-20T20:25:37.206552-06:00.jpg">
   <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-20T20:25:37.206552-06:00.jpg"
-     alt="High Country News at 2022-07-20 20:25:38-06:00 local time"
+     alt="High Country News at 2022-07-21 03:25:38-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-20T20:25:37.206552-06:00.jpg">July 20 at 8:25 PM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-20T20:25:37.206552-06:00.jpg">July 21 at 3:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-20T08:26:23.842487-06:00.jpg">
   <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-20T08:26:23.842487-06:00.jpg"
-     alt="High Country News at 2022-07-20 08:26:25-06:00 local time"
+     alt="High Country News at 2022-07-20 15:26:25-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-20T08:26:23.842487-06:00.jpg">July 20 at 8:26 AM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-20T08:26:23.842487-06:00.jpg">July 20 at 3:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-19T08:11:43.369842-06:00.jpg">
   <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-19T08:11:43.369842-06:00.jpg"
-     alt="High Country News at 2022-07-19 08:11:45-06:00 local time"
+     alt="High Country News at 2022-07-19 15:11:45-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-19T08:11:43.369842-06:00.jpg">July 19 at 8:11 AM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-19T08:11:43.369842-06:00.jpg">July 19 at 3:11 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 33 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 33 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

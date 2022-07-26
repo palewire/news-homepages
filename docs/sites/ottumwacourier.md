@@ -25,7 +25,7 @@ The archiving routine has saved 87 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 87 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T19:22:33.131146-05:00.jpg">
   <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T19:22:33.131146-05:00.jpg"
-     alt="Ottumwa Courier at 2022-07-25 19:22:35-05:00 local time"
+     alt="Ottumwa Courier at 2022-07-26 02:22:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T19:22:33.131146-05:00.jpg">July 25 at 7:22 PM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T19:22:33.131146-05:00.jpg">July 26 at 2:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T11:39:49.128913-05:00.jpg">
   <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T11:39:49.128913-05:00.jpg"
-     alt="Ottumwa Courier at 2022-07-25 11:39:50-05:00 local time"
+     alt="Ottumwa Courier at 2022-07-25 18:39:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T11:39:49.128913-05:00.jpg">July 25 at 11:39 AM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T11:39:49.128913-05:00.jpg">July 25 at 6:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T10:36:09.796874-05:00.jpg">
   <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T10:36:09.796874-05:00.jpg"
-     alt="Ottumwa Courier at 2022-07-25 10:36:14-05:00 local time"
+     alt="Ottumwa Courier at 2022-07-25 17:36:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T10:36:09.796874-05:00.jpg">July 25 at 10:36 AM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-25T10:36:09.796874-05:00.jpg">July 25 at 5:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T22:38:48.502833-05:00.jpg">
   <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T22:38:48.502833-05:00.jpg"
-     alt="Ottumwa Courier at 2022-07-24 22:38:49-05:00 local time"
+     alt="Ottumwa Courier at 2022-07-25 05:38:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T22:38:48.502833-05:00.jpg">July 24 at 10:38 PM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T22:38:48.502833-05:00.jpg">July 25 at 5:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T08:59:34.545174-05:00.jpg">
   <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T08:59:34.545174-05:00.jpg"
-     alt="Ottumwa Courier at 2022-07-24 08:59:37-05:00 local time"
+     alt="Ottumwa Courier at 2022-07-24 15:59:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T08:59:34.545174-05:00.jpg">July 24 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T08:59:34.545174-05:00.jpg">July 24 at 3:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T01:18:44.171363-05:00.jpg">
   <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T01:18:44.171363-05:00.jpg"
-     alt="Ottumwa Courier at 2022-07-24 01:18:46-05:00 local time"
+     alt="Ottumwa Courier at 2022-07-24 08:18:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T01:18:44.171363-05:00.jpg">July 24 at 1:18 AM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T01:18:44.171363-05:00.jpg">July 24 at 8:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-23T10:06:39.185355-05:00.jpg">
   <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-23T10:06:39.185355-05:00.jpg"
-     alt="Ottumwa Courier at 2022-07-23 10:06:40-05:00 local time"
+     alt="Ottumwa Courier at 2022-07-23 17:06:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-23T10:06:39.185355-05:00.jpg">July 23 at 10:06 AM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-23T10:06:39.185355-05:00.jpg">July 23 at 5:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-22T22:35:31.388238-05:00.jpg">
   <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-22T22:35:31.388238-05:00.jpg"
-     alt="Ottumwa Courier at 2022-07-22 22:35:33-05:00 local time"
+     alt="Ottumwa Courier at 2022-07-23 05:35:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-22T22:35:31.388238-05:00.jpg">July 22 at 10:35 PM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-22T22:35:31.388238-05:00.jpg">July 23 at 5:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-22T11:13:21.964690-05:00.jpg">
   <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-22T11:13:21.964690-05:00.jpg"
-     alt="Ottumwa Courier at 2022-07-22 11:13:23-05:00 local time"
+     alt="Ottumwa Courier at 2022-07-22 18:13:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-22T11:13:21.964690-05:00.jpg">July 22 at 11:13 AM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-22T11:13:21.964690-05:00.jpg">July 22 at 6:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-22T10:01:11.389072-05:00.jpg">
   <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-22T10:01:11.389072-05:00.jpg"
-     alt="Ottumwa Courier at 2022-07-22 10:01:14-05:00 local time"
+     alt="Ottumwa Courier at 2022-07-22 17:01:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-22T10:01:11.389072-05:00.jpg">July 22 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-22T10:01:11.389072-05:00.jpg">July 22 at 5:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-21T22:39:48.827433-05:00.jpg">
   <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-21T22:39:48.827433-05:00.jpg"
-     alt="Ottumwa Courier at 2022-07-21 22:39:50-05:00 local time"
+     alt="Ottumwa Courier at 2022-07-22 05:39:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-21T22:39:48.827433-05:00.jpg">July 21 at 10:39 PM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-21T22:39:48.827433-05:00.jpg">July 22 at 5:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-21T10:36:02.189744-05:00.jpg">
   <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-21T10:36:02.189744-05:00.jpg"
-     alt="Ottumwa Courier at 2022-07-21 10:36:03-05:00 local time"
+     alt="Ottumwa Courier at 2022-07-21 17:36:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-21T10:36:02.189744-05:00.jpg">July 21 at 10:36 AM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-21T10:36:02.189744-05:00.jpg">July 21 at 5:36 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 59 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 59 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

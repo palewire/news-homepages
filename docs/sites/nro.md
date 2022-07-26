@@ -25,7 +25,7 @@ The archiving routine has saved 208 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 208 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/nro-2022/nro-2022-07-25T20:21:04.303862-04:00.jpg">
   <img src="https://archive.org/download/nro-2022/nro-2022-07-25T20:21:04.303862-04:00.jpg"
-     alt="National Review at 2022-07-25 20:21:06-04:00 local time"
+     alt="National Review at 2022-07-26 03:21:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-07-25T20:21:04.303862-04:00.jpg">July 25 at 8:21 PM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-07-25T20:21:04.303862-04:00.jpg">July 26 at 3:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nro-2022/nro-2022-07-25T14:38:58.972433-04:00.jpg">
   <img src="https://archive.org/download/nro-2022/nro-2022-07-25T14:38:58.972433-04:00.jpg"
-     alt="National Review at 2022-07-25 14:39:00-04:00 local time"
+     alt="National Review at 2022-07-25 21:39:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-07-25T14:38:58.972433-04:00.jpg">July 25 at 2:39 PM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-07-25T14:38:58.972433-04:00.jpg">July 25 at 9:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nro-2022/nro-2022-07-25T12:41:17.488278-04:00.jpg">
   <img src="https://archive.org/download/nro-2022/nro-2022-07-25T12:41:17.488278-04:00.jpg"
-     alt="National Review at 2022-07-25 12:41:19-04:00 local time"
+     alt="National Review at 2022-07-25 19:41:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-07-25T12:41:17.488278-04:00.jpg">July 25 at 12:41 PM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-07-25T12:41:17.488278-04:00.jpg">July 25 at 7:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nro-2022/nro-2022-07-25T11:33:29.918302-04:00.jpg">
   <img src="https://archive.org/download/nro-2022/nro-2022-07-25T11:33:29.918302-04:00.jpg"
-     alt="National Review at 2022-07-25 11:33:37-04:00 local time"
+     alt="National Review at 2022-07-25 18:33:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-07-25T11:33:29.918302-04:00.jpg">July 25 at 11:33 AM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-07-25T11:33:29.918302-04:00.jpg">July 25 at 6:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nro-2022/nro-2022-07-24T23:37:16.880255-04:00.jpg">
   <img src="https://archive.org/download/nro-2022/nro-2022-07-24T23:37:16.880255-04:00.jpg"
-     alt="National Review at 2022-07-24 23:37:18-04:00 local time"
+     alt="National Review at 2022-07-25 06:37:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-07-24T23:37:16.880255-04:00.jpg">July 24 at 11:37 PM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-07-24T23:37:16.880255-04:00.jpg">July 25 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nro-2022/nro-2022-07-24T11:44:28.480227-04:00.jpg">
   <img src="https://archive.org/download/nro-2022/nro-2022-07-24T11:44:28.480227-04:00.jpg"
-     alt="National Review at 2022-07-24 11:44:31-04:00 local time"
+     alt="National Review at 2022-07-24 18:44:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-07-24T11:44:28.480227-04:00.jpg">July 24 at 11:44 AM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-07-24T11:44:28.480227-04:00.jpg">July 24 at 6:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nro-2022/nro-2022-07-24T09:58:54.789635-04:00.jpg">
   <img src="https://archive.org/download/nro-2022/nro-2022-07-24T09:58:54.789635-04:00.jpg"
-     alt="National Review at 2022-07-24 09:58:59-04:00 local time"
+     alt="National Review at 2022-07-24 16:58:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-07-24T09:58:54.789635-04:00.jpg">July 24 at 9:58 AM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-07-24T09:58:54.789635-04:00.jpg">July 24 at 4:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nro-2022/nro-2022-07-24T02:16:16.318448-04:00.jpg">
   <img src="https://archive.org/download/nro-2022/nro-2022-07-24T02:16:16.318448-04:00.jpg"
-     alt="National Review at 2022-07-24 02:16:18-04:00 local time"
+     alt="National Review at 2022-07-24 09:16:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-07-24T02:16:16.318448-04:00.jpg">July 24 at 2:16 AM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-07-24T02:16:16.318448-04:00.jpg">July 24 at 9:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nro-2022/nro-2022-07-23T12:11:31.789401-04:00.jpg">
   <img src="https://archive.org/download/nro-2022/nro-2022-07-23T12:11:31.789401-04:00.jpg"
-     alt="National Review at 2022-07-23 12:11:33-04:00 local time"
+     alt="National Review at 2022-07-23 19:11:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-07-23T12:11:31.789401-04:00.jpg">July 23 at 12:11 PM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-07-23T12:11:31.789401-04:00.jpg">July 23 at 7:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nro-2022/nro-2022-07-23T11:04:33.236025-04:00.jpg">
   <img src="https://archive.org/download/nro-2022/nro-2022-07-23T11:04:33.236025-04:00.jpg"
-     alt="National Review at 2022-07-23 11:04:39-04:00 local time"
+     alt="National Review at 2022-07-23 18:04:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-07-23T11:04:33.236025-04:00.jpg">July 23 at 11:04 AM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-07-23T11:04:33.236025-04:00.jpg">July 23 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nro-2022/nro-2022-07-22T23:34:06.916294-04:00.jpg">
   <img src="https://archive.org/download/nro-2022/nro-2022-07-22T23:34:06.916294-04:00.jpg"
-     alt="National Review at 2022-07-22 23:34:13-04:00 local time"
+     alt="National Review at 2022-07-23 06:34:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-07-22T23:34:06.916294-04:00.jpg">July 22 at 11:34 PM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-07-22T23:34:06.916294-04:00.jpg">July 23 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nro-2022/nro-2022-07-22T12:25:29.065294-04:00.jpg">
   <img src="https://archive.org/download/nro-2022/nro-2022-07-22T12:25:29.065294-04:00.jpg"
-     alt="National Review at 2022-07-22 12:25:36-04:00 local time"
+     alt="National Review at 2022-07-22 19:25:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-07-22T12:25:29.065294-04:00.jpg">July 22 at 12:25 PM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-07-22T12:25:29.065294-04:00.jpg">July 22 at 7:25 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 191 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 191 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

@@ -25,7 +25,7 @@ The archiving routine has saved 114 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 114 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-25T19:05:53.243820-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-25T19:05:53.243820-04:00.jpg"
-     alt="Associated Press at 2022-07-25 19:05:55-04:00 local time"
+     alt="Associated Press at 2022-07-26 02:05:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-25T19:05:53.243820-04:00.jpg">July 25 at 7:05 PM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-25T19:05:53.243820-04:00.jpg">July 26 at 2:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-25T17:14:15.244419-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-25T17:14:15.244419-04:00.jpg"
-     alt="Associated Press at 2022-07-25 17:14:19-04:00 local time"
+     alt="Associated Press at 2022-07-26 00:14:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-25T17:14:15.244419-04:00.jpg">July 25 at 5:14 PM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-25T17:14:15.244419-04:00.jpg">July 26 at 12:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-25T11:54:31.251756-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-25T11:54:31.251756-04:00.jpg"
-     alt="Associated Press at 2022-07-25 11:54:32-04:00 local time"
+     alt="Associated Press at 2022-07-25 18:54:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-25T11:54:31.251756-04:00.jpg">July 25 at 11:54 AM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-25T11:54:31.251756-04:00.jpg">July 25 at 6:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-25T06:57:14.155240-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-25T06:57:14.155240-04:00.jpg"
-     alt="Associated Press at 2022-07-25 06:57:16-04:00 local time"
+     alt="Associated Press at 2022-07-25 13:57:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-25T06:57:14.155240-04:00.jpg">July 25 at 6:57 AM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-25T06:57:14.155240-04:00.jpg">July 25 at 1:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-24T20:46:20.036831-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-24T20:46:20.036831-04:00.jpg"
-     alt="Associated Press at 2022-07-24 20:46:22-04:00 local time"
+     alt="Associated Press at 2022-07-25 03:46:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-24T20:46:20.036831-04:00.jpg">July 24 at 8:46 PM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-24T20:46:20.036831-04:00.jpg">July 25 at 3:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-24T17:20:16.708223-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-24T17:20:16.708223-04:00.jpg"
-     alt="Associated Press at 2022-07-24 17:20:19-04:00 local time"
+     alt="Associated Press at 2022-07-25 00:20:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-24T17:20:16.708223-04:00.jpg">July 24 at 5:20 PM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-24T17:20:16.708223-04:00.jpg">July 25 at 12:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-24T11:12:25.821043-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-24T11:12:25.821043-04:00.jpg"
-     alt="Associated Press at 2022-07-24 11:12:27-04:00 local time"
+     alt="Associated Press at 2022-07-24 18:12:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-24T11:12:25.821043-04:00.jpg">July 24 at 11:12 AM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-24T11:12:25.821043-04:00.jpg">July 24 at 6:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-24T06:56:21.973415-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-24T06:56:21.973415-04:00.jpg"
-     alt="Associated Press at 2022-07-24 06:56:32-04:00 local time"
+     alt="Associated Press at 2022-07-24 13:56:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-24T06:56:21.973415-04:00.jpg">July 24 at 6:56 AM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-24T06:56:21.973415-04:00.jpg">July 24 at 1:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-23T18:59:05.332866-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-23T18:59:05.332866-04:00.jpg"
-     alt="Associated Press at 2022-07-23 18:59:06-04:00 local time"
+     alt="Associated Press at 2022-07-24 01:59:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-23T18:59:05.332866-04:00.jpg">July 23 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-23T18:59:05.332866-04:00.jpg">July 24 at 1:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-23T17:16:24.500179-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-23T17:16:24.500179-04:00.jpg"
-     alt="Associated Press at 2022-07-23 17:16:26-04:00 local time"
+     alt="Associated Press at 2022-07-24 00:16:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-23T17:16:24.500179-04:00.jpg">July 23 at 5:16 PM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-23T17:16:24.500179-04:00.jpg">July 24 at 12:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-23T10:58:31.703395-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-23T10:58:31.703395-04:00.jpg"
-     alt="Associated Press at 2022-07-23 10:58:33-04:00 local time"
+     alt="Associated Press at 2022-07-23 17:58:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-23T10:58:31.703395-04:00.jpg">July 23 at 10:58 AM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-23T10:58:31.703395-04:00.jpg">July 23 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-23T08:55:11.520674-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-23T08:55:11.520674-04:00.jpg"
-     alt="Associated Press at 2022-07-23 08:55:13-04:00 local time"
+     alt="Associated Press at 2022-07-23 15:55:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-23T08:55:11.520674-04:00.jpg">July 23 at 8:55 AM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-23T08:55:11.520674-04:00.jpg">July 23 at 3:55 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 109 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 109 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

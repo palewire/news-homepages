@@ -25,7 +25,7 @@ The archiving routine has saved 76 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 76 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-25T20:24:45.788516-04:00.jpg">
   <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-25T20:24:45.788516-04:00.jpg"
-     alt="SCOTUS Blog at 2022-07-25 20:24:49-04:00 local time"
+     alt="SCOTUS Blog at 2022-07-26 03:24:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-25T20:24:45.788516-04:00.jpg">July 25 at 8:24 PM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-25T20:24:45.788516-04:00.jpg">July 26 at 3:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-25T11:42:13.765272-04:00.jpg">
   <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-25T11:42:13.765272-04:00.jpg"
-     alt="SCOTUS Blog at 2022-07-25 11:42:18-04:00 local time"
+     alt="SCOTUS Blog at 2022-07-25 18:42:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-25T11:42:13.765272-04:00.jpg">July 25 at 11:42 AM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-25T11:42:13.765272-04:00.jpg">July 25 at 6:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T23:42:56.209448-04:00.jpg">
   <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T23:42:56.209448-04:00.jpg"
-     alt="SCOTUS Blog at 2022-07-24 23:42:57-04:00 local time"
+     alt="SCOTUS Blog at 2022-07-25 06:42:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T23:42:56.209448-04:00.jpg">July 24 at 11:42 PM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T23:42:56.209448-04:00.jpg">July 25 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T10:03:13.976218-04:00.jpg">
   <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T10:03:13.976218-04:00.jpg"
-     alt="SCOTUS Blog at 2022-07-24 10:03:17-04:00 local time"
+     alt="SCOTUS Blog at 2022-07-24 17:03:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T10:03:13.976218-04:00.jpg">July 24 at 10:03 AM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T10:03:13.976218-04:00.jpg">July 24 at 5:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T02:22:46.110965-04:00.jpg">
   <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T02:22:46.110965-04:00.jpg"
-     alt="SCOTUS Blog at 2022-07-24 02:22:49-04:00 local time"
+     alt="SCOTUS Blog at 2022-07-24 09:22:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T02:22:46.110965-04:00.jpg">July 24 at 2:22 AM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T02:22:46.110965-04:00.jpg">July 24 at 9:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T23:39:06.703817-04:00.jpg">
   <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T23:39:06.703817-04:00.jpg"
-     alt="SCOTUS Blog at 2022-07-22 23:39:11-04:00 local time"
+     alt="SCOTUS Blog at 2022-07-23 06:39:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T23:39:06.703817-04:00.jpg">July 22 at 11:39 PM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T23:39:06.703817-04:00.jpg">July 23 at 6:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T12:13:55.309254-04:00.jpg">
   <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T12:13:55.309254-04:00.jpg"
-     alt="SCOTUS Blog at 2022-07-22 12:13:59-04:00 local time"
+     alt="SCOTUS Blog at 2022-07-22 19:13:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T12:13:55.309254-04:00.jpg">July 22 at 12:13 PM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T12:13:55.309254-04:00.jpg">July 22 at 7:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T00:28:25.476222-04:00.jpg">
   <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T00:28:25.476222-04:00.jpg"
-     alt="SCOTUS Blog at 2022-07-22 00:28:27-04:00 local time"
+     alt="SCOTUS Blog at 2022-07-22 07:28:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T00:28:25.476222-04:00.jpg">July 22 at 12:28 AM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T00:28:25.476222-04:00.jpg">July 22 at 7:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-21T12:50:57.994232-04:00.jpg">
   <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-21T12:50:57.994232-04:00.jpg"
-     alt="SCOTUS Blog at 2022-07-21 12:51:01-04:00 local time"
+     alt="SCOTUS Blog at 2022-07-21 19:51:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-21T12:50:57.994232-04:00.jpg">July 21 at 12:51 PM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-21T12:50:57.994232-04:00.jpg">July 21 at 7:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-21T00:25:33.212238-04:00.jpg">
   <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-21T00:25:33.212238-04:00.jpg"
-     alt="SCOTUS Blog at 2022-07-21 00:25:46-04:00 local time"
+     alt="SCOTUS Blog at 2022-07-21 07:25:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-21T00:25:33.212238-04:00.jpg">July 21 at 12:25 AM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-21T00:25:33.212238-04:00.jpg">July 21 at 7:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-20T12:42:00.374673-04:00.jpg">
   <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-20T12:42:00.374673-04:00.jpg"
-     alt="SCOTUS Blog at 2022-07-20 12:42:07-04:00 local time"
+     alt="SCOTUS Blog at 2022-07-20 19:42:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-20T12:42:00.374673-04:00.jpg">July 20 at 12:42 PM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-20T12:42:00.374673-04:00.jpg">July 20 at 7:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-20T00:18:11.135732-04:00.jpg">
   <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-20T00:18:11.135732-04:00.jpg"
-     alt="SCOTUS Blog at 2022-07-20 00:18:13-04:00 local time"
+     alt="SCOTUS Blog at 2022-07-20 07:18:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-20T00:18:11.135732-04:00.jpg">July 20 at 12:18 AM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-20T00:18:11.135732-04:00.jpg">July 20 at 7:18 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 78 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 78 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

@@ -25,7 +25,7 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T17:25:18.856648-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T17:25:18.856648-07:00.jpg"
-     alt="San José Spotlight at 2022-07-25 17:25:21-07:00 local time"
+     alt="San José Spotlight at 2022-07-26 00:25:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T17:25:18.856648-07:00.jpg">July 25 at 5:25 PM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T17:25:18.856648-07:00.jpg">July 26 at 12:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T08:41:40.438571-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T08:41:40.438571-07:00.jpg"
-     alt="San José Spotlight at 2022-07-25 08:41:43-07:00 local time"
+     alt="San José Spotlight at 2022-07-25 15:41:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T08:41:40.438571-07:00.jpg">July 25 at 8:41 AM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T08:41:40.438571-07:00.jpg">July 25 at 3:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T20:43:45.587886-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T20:43:45.587886-07:00.jpg"
-     alt="San José Spotlight at 2022-07-24 20:43:46-07:00 local time"
+     alt="San José Spotlight at 2022-07-25 03:43:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T20:43:45.587886-07:00.jpg">July 24 at 8:43 PM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T20:43:45.587886-07:00.jpg">July 25 at 3:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T07:03:59.235794-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T07:03:59.235794-07:00.jpg"
-     alt="San José Spotlight at 2022-07-24 07:04:01-07:00 local time"
+     alt="San José Spotlight at 2022-07-24 14:04:01-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T07:03:59.235794-07:00.jpg">July 24 at 7:04 AM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T07:03:59.235794-07:00.jpg">July 24 at 2:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T23:23:16.192465-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T23:23:16.192465-07:00.jpg"
-     alt="San José Spotlight at 2022-07-23 23:23:17-07:00 local time"
+     alt="San José Spotlight at 2022-07-24 06:23:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T23:23:16.192465-07:00.jpg">July 23 at 11:23 PM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T23:23:16.192465-07:00.jpg">July 24 at 6:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T09:02:09.257249-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T09:02:09.257249-07:00.jpg"
-     alt="San José Spotlight at 2022-07-23 09:02:10-07:00 local time"
+     alt="San José Spotlight at 2022-07-23 16:02:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T09:02:09.257249-07:00.jpg">July 23 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T09:02:09.257249-07:00.jpg">July 23 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-22T21:21:52.429498-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-22T21:21:52.429498-07:00.jpg"
-     alt="San José Spotlight at 2022-07-22 21:21:54-07:00 local time"
+     alt="San José Spotlight at 2022-07-23 04:21:54-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-22T21:21:52.429498-07:00.jpg">July 22 at 9:21 PM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-22T21:21:52.429498-07:00.jpg">July 23 at 4:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-22T09:14:49.522232-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-22T09:14:49.522232-07:00.jpg"
-     alt="San José Spotlight at 2022-07-22 09:14:50-07:00 local time"
+     alt="San José Spotlight at 2022-07-22 16:14:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-22T09:14:49.522232-07:00.jpg">July 22 at 9:14 AM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-22T09:14:49.522232-07:00.jpg">July 22 at 4:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-21T21:28:42.905446-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-21T21:28:42.905446-07:00.jpg"
-     alt="San José Spotlight at 2022-07-21 21:28:44-07:00 local time"
+     alt="San José Spotlight at 2022-07-22 04:28:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-21T21:28:42.905446-07:00.jpg">July 21 at 9:28 PM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-21T21:28:42.905446-07:00.jpg">July 22 at 4:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-21T09:51:53.975225-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-21T09:51:53.975225-07:00.jpg"
-     alt="San José Spotlight at 2022-07-21 09:51:55-07:00 local time"
+     alt="San José Spotlight at 2022-07-21 16:51:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-21T09:51:53.975225-07:00.jpg">July 21 at 9:51 AM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-21T09:51:53.975225-07:00.jpg">July 21 at 4:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-20T21:26:36.267492-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-20T21:26:36.267492-07:00.jpg"
-     alt="San José Spotlight at 2022-07-20 21:26:38-07:00 local time"
+     alt="San José Spotlight at 2022-07-21 04:26:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-20T21:26:36.267492-07:00.jpg">July 20 at 9:26 PM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-20T21:26:36.267492-07:00.jpg">July 21 at 4:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-20T09:42:34.686577-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-20T09:42:34.686577-07:00.jpg"
-     alt="San José Spotlight at 2022-07-20 09:42:36-07:00 local time"
+     alt="San José Spotlight at 2022-07-20 16:42:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-20T09:42:34.686577-07:00.jpg">July 20 at 9:42 AM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-20T09:42:34.686577-07:00.jpg">July 20 at 4:42 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 44 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

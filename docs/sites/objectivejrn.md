@@ -25,7 +25,7 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-25T08:34:46.866063-07:00.jpg">
   <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-25T08:34:46.866063-07:00.jpg"
-     alt="Objective at 2022-07-25 08:34:48-07:00 local time"
+     alt="Objective at 2022-07-25 15:34:48-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-25T08:34:46.866063-07:00.jpg">July 25 at 8:34 AM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-25T08:34:46.866063-07:00.jpg">July 25 at 3:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-24T20:38:27.118104-07:00.jpg">
   <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-24T20:38:27.118104-07:00.jpg"
-     alt="Objective at 2022-07-24 20:38:29-07:00 local time"
+     alt="Objective at 2022-07-25 03:38:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-24T20:38:27.118104-07:00.jpg">July 24 at 8:38 PM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-24T20:38:27.118104-07:00.jpg">July 25 at 3:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-24T06:58:38.763007-07:00.jpg">
   <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-24T06:58:38.763007-07:00.jpg"
-     alt="Objective at 2022-07-24 06:58:40-07:00 local time"
+     alt="Objective at 2022-07-24 13:58:40-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-24T06:58:38.763007-07:00.jpg">July 24 at 6:58 AM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-24T06:58:38.763007-07:00.jpg">July 24 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-23T23:17:30.007858-07:00.jpg">
   <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-23T23:17:30.007858-07:00.jpg"
-     alt="Objective at 2022-07-23 23:17:32-07:00 local time"
+     alt="Objective at 2022-07-24 06:17:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-23T23:17:30.007858-07:00.jpg">July 23 at 11:17 PM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-23T23:17:30.007858-07:00.jpg">July 24 at 6:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-23T08:04:53.481042-07:00.jpg">
   <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-23T08:04:53.481042-07:00.jpg"
-     alt="Objective at 2022-07-23 08:04:55-07:00 local time"
+     alt="Objective at 2022-07-23 15:04:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-23T08:04:53.481042-07:00.jpg">July 23 at 8:04 AM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-23T08:04:53.481042-07:00.jpg">July 23 at 3:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-22T20:35:00.135461-07:00.jpg">
   <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-22T20:35:00.135461-07:00.jpg"
-     alt="Objective at 2022-07-22 20:35:03-07:00 local time"
+     alt="Objective at 2022-07-23 03:35:03-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-22T20:35:00.135461-07:00.jpg">July 22 at 8:35 PM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-22T20:35:00.135461-07:00.jpg">July 23 at 3:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-22T08:00:21.899322-07:00.jpg">
   <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-22T08:00:21.899322-07:00.jpg"
-     alt="Objective at 2022-07-22 08:00:22-07:00 local time"
+     alt="Objective at 2022-07-22 15:00:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-22T08:00:21.899322-07:00.jpg">July 22 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-22T08:00:21.899322-07:00.jpg">July 22 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-21T20:40:06.065293-07:00.jpg">
   <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-21T20:40:06.065293-07:00.jpg"
-     alt="Objective at 2022-07-21 20:40:07-07:00 local time"
+     alt="Objective at 2022-07-22 03:40:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-21T20:40:06.065293-07:00.jpg">July 21 at 8:40 PM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-21T20:40:06.065293-07:00.jpg">July 22 at 3:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-21T08:34:55.592178-07:00.jpg">
   <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-21T08:34:55.592178-07:00.jpg"
-     alt="Objective at 2022-07-21 08:35:04-07:00 local time"
+     alt="Objective at 2022-07-21 15:35:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-21T08:34:55.592178-07:00.jpg">July 21 at 8:35 AM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-21T08:34:55.592178-07:00.jpg">July 21 at 3:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-20T20:38:21.142268-07:00.jpg">
   <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-20T20:38:21.142268-07:00.jpg"
-     alt="Objective at 2022-07-20 20:38:22-07:00 local time"
+     alt="Objective at 2022-07-21 03:38:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-20T20:38:21.142268-07:00.jpg">July 20 at 8:38 PM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-20T20:38:21.142268-07:00.jpg">July 21 at 3:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-20T09:12:07.163202-07:00.jpg">
   <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-20T09:12:07.163202-07:00.jpg"
-     alt="Objective at 2022-07-20 09:12:09-07:00 local time"
+     alt="Objective at 2022-07-20 16:12:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-20T09:12:07.163202-07:00.jpg">July 20 at 9:12 AM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-20T09:12:07.163202-07:00.jpg">July 20 at 4:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-19T20:35:18.892067-07:00.jpg">
   <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-19T20:35:18.892067-07:00.jpg"
-     alt="Objective at 2022-07-19 20:35:21-07:00 local time"
+     alt="Objective at 2022-07-20 03:35:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-19T20:35:18.892067-07:00.jpg">July 19 at 8:35 PM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-19T20:35:18.892067-07:00.jpg">July 20 at 3:35 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 34 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

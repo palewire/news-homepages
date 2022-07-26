@@ -25,7 +25,7 @@ The archiving routine has saved 100 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 100 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-25T16:07:02.296616-07:00.jpg">
   <img src="https://archive.org/download/arizcir-2022/arizcir-2022-07-25T16:07:02.296616-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-07-25 16:07:04-07:00 local time"
+     alt="Arizona Center for Investigative Reporting at 2022-07-25 23:07:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-25T16:07:02.296616-07:00.jpg">July 25 at 4:07 PM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-25T16:07:02.296616-07:00.jpg">July 25 at 11:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-25T03:57:41.884609-07:00.jpg">
   <img src="https://archive.org/download/arizcir-2022/arizcir-2022-07-25T03:57:41.884609-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-07-25 03:57:43-07:00 local time"
+     alt="Arizona Center for Investigative Reporting at 2022-07-25 10:57:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-25T03:57:41.884609-07:00.jpg">July 25 at 3:57 AM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-25T03:57:41.884609-07:00.jpg">July 25 at 10:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-24T17:46:28.822118-07:00.jpg">
   <img src="https://archive.org/download/arizcir-2022/arizcir-2022-07-24T17:46:28.822118-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-07-24 17:46:30-07:00 local time"
+     alt="Arizona Center for Investigative Reporting at 2022-07-25 00:46:30-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-24T17:46:28.822118-07:00.jpg">July 24 at 5:46 PM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-24T17:46:28.822118-07:00.jpg">July 25 at 12:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-24T03:56:15.815201-07:00.jpg">
   <img src="https://archive.org/download/arizcir-2022/arizcir-2022-07-24T03:56:15.815201-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-07-24 03:56:17-07:00 local time"
+     alt="Arizona Center for Investigative Reporting at 2022-07-24 10:56:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-24T03:56:15.815201-07:00.jpg">July 24 at 3:56 AM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-24T03:56:15.815201-07:00.jpg">July 24 at 10:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-23T15:58:46.531042-07:00.jpg">
   <img src="https://archive.org/download/arizcir-2022/arizcir-2022-07-23T15:58:46.531042-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-07-23 15:58:48-07:00 local time"
+     alt="Arizona Center for Investigative Reporting at 2022-07-23 22:58:48-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-23T15:58:46.531042-07:00.jpg">July 23 at 3:58 PM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-23T15:58:46.531042-07:00.jpg">July 23 at 10:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-23T05:55:13.417471-07:00.jpg">
   <img src="https://archive.org/download/arizcir-2022/arizcir-2022-07-23T05:55:13.417471-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-07-23 05:55:15-07:00 local time"
+     alt="Arizona Center for Investigative Reporting at 2022-07-23 12:55:15-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-23T05:55:13.417471-07:00.jpg">July 23 at 5:55 AM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-23T05:55:13.417471-07:00.jpg">July 23 at 12:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-22T17:56:20.380849-07:00.jpg">
   <img src="https://archive.org/download/arizcir-2022/arizcir-2022-07-22T17:56:20.380849-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-07-22 17:56:21-07:00 local time"
+     alt="Arizona Center for Investigative Reporting at 2022-07-23 00:56:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-22T17:56:20.380849-07:00.jpg">July 22 at 5:56 PM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-22T17:56:20.380849-07:00.jpg">July 23 at 12:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-22T05:55:49.029540-07:00.jpg">
   <img src="https://archive.org/download/arizcir-2022/arizcir-2022-07-22T05:55:49.029540-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-07-22 05:55:52-07:00 local time"
+     alt="Arizona Center for Investigative Reporting at 2022-07-22 12:55:52-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-22T05:55:49.029540-07:00.jpg">July 22 at 5:55 AM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-22T05:55:49.029540-07:00.jpg">July 22 at 12:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-21T18:03:50.081814-07:00.jpg">
   <img src="https://archive.org/download/arizcir-2022/arizcir-2022-07-21T18:03:50.081814-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-07-21 18:03:53-07:00 local time"
+     alt="Arizona Center for Investigative Reporting at 2022-07-22 01:03:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-21T18:03:50.081814-07:00.jpg">July 21 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-21T18:03:50.081814-07:00.jpg">July 22 at 1:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-21T05:50:27.725270-07:00.jpg">
   <img src="https://archive.org/download/arizcir-2022/arizcir-2022-07-21T05:50:27.725270-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-07-21 05:50:29-07:00 local time"
+     alt="Arizona Center for Investigative Reporting at 2022-07-21 12:50:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-21T05:50:27.725270-07:00.jpg">July 21 at 5:50 AM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-21T05:50:27.725270-07:00.jpg">July 21 at 12:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-20T18:03:11.606120-07:00.jpg">
   <img src="https://archive.org/download/arizcir-2022/arizcir-2022-07-20T18:03:11.606120-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-07-20 18:03:12-07:00 local time"
+     alt="Arizona Center for Investigative Reporting at 2022-07-21 01:03:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-20T18:03:11.606120-07:00.jpg">July 20 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-20T18:03:11.606120-07:00.jpg">July 21 at 1:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-20T05:51:14.810674-07:00.jpg">
   <img src="https://archive.org/download/arizcir-2022/arizcir-2022-07-20T05:51:14.810674-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-07-20 05:51:16-07:00 local time"
+     alt="Arizona Center for Investigative Reporting at 2022-07-20 12:51:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-20T05:51:14.810674-07:00.jpg">July 20 at 5:51 AM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-07-20T05:51:14.810674-07:00.jpg">July 20 at 12:51 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 100 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 100 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

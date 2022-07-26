@@ -25,7 +25,7 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T20:23:41.064674-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T20:23:41.064674-04:00.jpg"
-     alt="Punchbowl News at 2022-07-25 20:23:43-04:00 local time"
+     alt="Punchbowl News at 2022-07-26 03:23:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T20:23:41.064674-04:00.jpg">July 25 at 8:23 PM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T20:23:41.064674-04:00.jpg">July 26 at 3:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T11:39:01.105163-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T11:39:01.105163-04:00.jpg"
-     alt="Punchbowl News at 2022-07-25 11:39:02-04:00 local time"
+     alt="Punchbowl News at 2022-07-25 18:39:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T11:39:01.105163-04:00.jpg">July 25 at 11:39 AM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T11:39:01.105163-04:00.jpg">July 25 at 6:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T23:41:02.600627-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T23:41:02.600627-04:00.jpg"
-     alt="Punchbowl News at 2022-07-24 23:41:04-04:00 local time"
+     alt="Punchbowl News at 2022-07-25 06:41:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T23:41:02.600627-04:00.jpg">July 24 at 11:41 PM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T23:41:02.600627-04:00.jpg">July 25 at 6:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T10:02:15.600737-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T10:02:15.600737-04:00.jpg"
-     alt="Punchbowl News at 2022-07-24 10:02:17-04:00 local time"
+     alt="Punchbowl News at 2022-07-24 17:02:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T10:02:15.600737-04:00.jpg">July 24 at 10:02 AM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T10:02:15.600737-04:00.jpg">July 24 at 5:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T02:21:31.331110-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T02:21:31.331110-04:00.jpg"
-     alt="Punchbowl News at 2022-07-24 02:21:33-04:00 local time"
+     alt="Punchbowl News at 2022-07-24 09:21:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T02:21:31.331110-04:00.jpg">July 24 at 2:21 AM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T02:21:31.331110-04:00.jpg">July 24 at 9:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-23T11:08:26.384622-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-23T11:08:26.384622-04:00.jpg"
-     alt="Punchbowl News at 2022-07-23 11:08:29-04:00 local time"
+     alt="Punchbowl News at 2022-07-23 18:08:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-23T11:08:26.384622-04:00.jpg">July 23 at 11:08 AM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-23T11:08:26.384622-04:00.jpg">July 23 at 6:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T23:36:53.976452-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T23:36:53.976452-04:00.jpg"
-     alt="Punchbowl News at 2022-07-22 23:36:55-04:00 local time"
+     alt="Punchbowl News at 2022-07-23 06:36:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T23:36:53.976452-04:00.jpg">July 22 at 11:36 PM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T23:36:53.976452-04:00.jpg">July 23 at 6:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T11:03:13.518252-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T11:03:13.518252-04:00.jpg"
-     alt="Punchbowl News at 2022-07-22 11:03:15-04:00 local time"
+     alt="Punchbowl News at 2022-07-22 18:03:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T11:03:13.518252-04:00.jpg">July 22 at 11:03 AM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T11:03:13.518252-04:00.jpg">July 22 at 6:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-21T23:42:05.469053-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-21T23:42:05.469053-04:00.jpg"
-     alt="Punchbowl News at 2022-07-21 23:42:07-04:00 local time"
+     alt="Punchbowl News at 2022-07-22 06:42:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-21T23:42:05.469053-04:00.jpg">July 21 at 11:42 PM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-21T23:42:05.469053-04:00.jpg">July 22 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-21T11:38:19.728440-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-21T11:38:19.728440-04:00.jpg"
-     alt="Punchbowl News at 2022-07-21 11:38:22-04:00 local time"
+     alt="Punchbowl News at 2022-07-21 18:38:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-21T11:38:19.728440-04:00.jpg">July 21 at 11:38 AM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-21T11:38:19.728440-04:00.jpg">July 21 at 6:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-20T23:40:26.886472-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-20T23:40:26.886472-04:00.jpg"
-     alt="Punchbowl News at 2022-07-20 23:40:28-04:00 local time"
+     alt="Punchbowl News at 2022-07-21 06:40:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-20T23:40:26.886472-04:00.jpg">July 20 at 11:40 PM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-20T23:40:26.886472-04:00.jpg">July 21 at 6:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-20T12:14:27.185531-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-20T12:14:27.185531-04:00.jpg"
-     alt="Punchbowl News at 2022-07-20 12:14:29-04:00 local time"
+     alt="Punchbowl News at 2022-07-20 19:14:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-20T12:14:27.185531-04:00.jpg">July 20 at 12:14 PM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-20T12:14:27.185531-04:00.jpg">July 20 at 7:14 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 44 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

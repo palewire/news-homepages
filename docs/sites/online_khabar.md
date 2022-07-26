@@ -31,37 +31,37 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-26T06:07:50.140901+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-26T06:07:50.140901+05:45.jpg"
-     alt="Online Khabar at 2022-07-26 06:07:52+05:45 local time"
+     alt="Online Khabar at 2022-07-26 13:07:52+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-26T06:07:50.140901+05:45.jpg">July 26 at 6:07 AM</a></p>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-26T06:07:50.140901+05:45.jpg">July 26 at 1:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T21:20:06.756373+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T21:20:06.756373+05:45.jpg"
-     alt="Online Khabar at 2022-07-25 21:20:09+05:45 local time"
+     alt="Online Khabar at 2022-07-26 04:20:09+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T21:20:06.756373+05:45.jpg">July 25 at 9:20 PM</a></p>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T21:20:06.756373+05:45.jpg">July 26 at 4:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T09:24:07.879419+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T09:24:07.879419+05:45.jpg"
-     alt="Online Khabar at 2022-07-25 09:24:08+05:45 local time"
+     alt="Online Khabar at 2022-07-25 16:24:08+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T09:24:07.879419+05:45.jpg">July 25 at 9:24 AM</a></p>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T09:24:07.879419+05:45.jpg">July 25 at 4:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T02:23:38.885743+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T02:23:38.885743+05:45.jpg"
-     alt="Online Khabar at 2022-07-25 02:23:44+05:45 local time"
+     alt="Online Khabar at 2022-07-25 09:23:44+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T02:23:38.885743+05:45.jpg">July 25 at 2:23 AM</a></p>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T02:23:38.885743+05:45.jpg">July 25 at 9:23 AM</a></p>
 </div>
 
 </div>

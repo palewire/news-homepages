@@ -25,7 +25,7 @@ The archiving routine has saved 455 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 455 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-25T19:22:31.945701-05:00.jpg">
   <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-25T19:22:31.945701-05:00.jpg"
-     alt="Animal Político at 2022-07-25 19:23:21-05:00 local time"
+     alt="Animal Político at 2022-07-26 02:23:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-25T19:22:31.945701-05:00.jpg">July 25 at 7:23 PM</a></p>
+ <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-25T19:22:31.945701-05:00.jpg">July 26 at 2:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-25T10:36:12.958731-05:00.jpg">
   <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-25T10:36:12.958731-05:00.jpg"
-     alt="Animal Político at 2022-07-25 10:36:32-05:00 local time"
+     alt="Animal Político at 2022-07-25 17:36:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-25T10:36:12.958731-05:00.jpg">July 25 at 10:36 AM</a></p>
+ <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-25T10:36:12.958731-05:00.jpg">July 25 at 5:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-24T22:39:01.814535-05:00.jpg">
   <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-24T22:39:01.814535-05:00.jpg"
-     alt="Animal Político at 2022-07-24 22:39:03-05:00 local time"
+     alt="Animal Político at 2022-07-25 05:39:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-24T22:39:01.814535-05:00.jpg">July 24 at 10:39 PM</a></p>
+ <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-24T22:39:01.814535-05:00.jpg">July 25 at 5:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-24T08:59:39.480738-05:00.jpg">
   <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-24T08:59:39.480738-05:00.jpg"
-     alt="Animal Político at 2022-07-24 08:59:58-05:00 local time"
+     alt="Animal Político at 2022-07-24 15:59:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-24T08:59:39.480738-05:00.jpg">July 24 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-24T08:59:39.480738-05:00.jpg">July 24 at 3:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-24T01:18:52.717903-05:00.jpg">
   <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-24T01:18:52.717903-05:00.jpg"
-     alt="Animal Político at 2022-07-24 01:18:55-05:00 local time"
+     alt="Animal Político at 2022-07-24 08:18:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-24T01:18:52.717903-05:00.jpg">July 24 at 1:18 AM</a></p>
+ <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-24T01:18:52.717903-05:00.jpg">July 24 at 8:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-23T10:05:43.131529-05:00.jpg">
   <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-23T10:05:43.131529-05:00.jpg"
-     alt="Animal Político at 2022-07-23 10:05:45-05:00 local time"
+     alt="Animal Político at 2022-07-23 17:05:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-23T10:05:43.131529-05:00.jpg">July 23 at 10:05 AM</a></p>
+ <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-23T10:05:43.131529-05:00.jpg">July 23 at 5:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-22T22:35:50.849608-05:00.jpg">
   <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-22T22:35:50.849608-05:00.jpg"
-     alt="Animal Político at 2022-07-22 22:35:59-05:00 local time"
+     alt="Animal Político at 2022-07-23 05:35:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-22T22:35:50.849608-05:00.jpg">July 22 at 10:35 PM</a></p>
+ <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-22T22:35:50.849608-05:00.jpg">July 23 at 5:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-22T10:01:19.437588-05:00.jpg">
   <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-22T10:01:19.437588-05:00.jpg"
-     alt="Animal Político at 2022-07-22 10:01:26-05:00 local time"
+     alt="Animal Político at 2022-07-22 17:01:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-22T10:01:19.437588-05:00.jpg">July 22 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-22T10:01:19.437588-05:00.jpg">July 22 at 5:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-21T22:40:34.895929-05:00.jpg">
   <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-21T22:40:34.895929-05:00.jpg"
-     alt="Animal Político at 2022-07-21 22:40:36-05:00 local time"
+     alt="Animal Político at 2022-07-22 05:40:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-21T22:40:34.895929-05:00.jpg">July 21 at 10:40 PM</a></p>
+ <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-21T22:40:34.895929-05:00.jpg">July 22 at 5:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-21T10:36:16.171574-05:00.jpg">
   <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-21T10:36:16.171574-05:00.jpg"
-     alt="Animal Político at 2022-07-21 10:36:23-05:00 local time"
+     alt="Animal Político at 2022-07-21 17:36:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-21T10:36:16.171574-05:00.jpg">July 21 at 10:36 AM</a></p>
+ <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-21T10:36:16.171574-05:00.jpg">July 21 at 5:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-20T22:38:32.655663-05:00.jpg">
   <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-20T22:38:32.655663-05:00.jpg"
-     alt="Animal Político at 2022-07-20 22:38:40-05:00 local time"
+     alt="Animal Político at 2022-07-21 05:38:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-20T22:38:32.655663-05:00.jpg">July 20 at 10:38 PM</a></p>
+ <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-20T22:38:32.655663-05:00.jpg">July 21 at 5:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-20T11:12:55.404250-05:00.jpg">
   <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-20T11:12:55.404250-05:00.jpg"
-     alt="Animal Político at 2022-07-20 11:13:02-05:00 local time"
+     alt="Animal Político at 2022-07-20 18:13:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-20T11:12:55.404250-05:00.jpg">July 20 at 11:13 AM</a></p>
+ <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-20T11:12:55.404250-05:00.jpg">July 20 at 6:13 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 455 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 455 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

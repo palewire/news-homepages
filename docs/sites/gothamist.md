@@ -25,7 +25,7 @@ The archiving routine has saved 48 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 48 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-25T19:16:00.371760-04:00.jpg">
   <img src="https://archive.org/download/gothamist-2022/gothamist-2022-07-25T19:16:00.371760-04:00.jpg"
-     alt="Gothamist at 2022-07-25 19:16:05-04:00 local time"
+     alt="Gothamist at 2022-07-26 02:16:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-25T19:16:00.371760-04:00.jpg">July 25 at 7:16 PM</a></p>
+ <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-25T19:16:00.371760-04:00.jpg">July 26 at 2:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-25T08:04:41.633713-04:00.jpg">
   <img src="https://archive.org/download/gothamist-2022/gothamist-2022-07-25T08:04:41.633713-04:00.jpg"
-     alt="Gothamist at 2022-07-25 08:04:44-04:00 local time"
+     alt="Gothamist at 2022-07-25 15:04:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-25T08:04:41.633713-04:00.jpg">July 25 at 8:04 AM</a></p>
+ <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-25T08:04:41.633713-04:00.jpg">July 25 at 3:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-24T21:09:12.176315-04:00.jpg">
   <img src="https://archive.org/download/gothamist-2022/gothamist-2022-07-24T21:09:12.176315-04:00.jpg"
-     alt="Gothamist at 2022-07-24 21:09:13-04:00 local time"
+     alt="Gothamist at 2022-07-25 04:09:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-24T21:09:12.176315-04:00.jpg">July 24 at 9:09 PM</a></p>
+ <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-24T21:09:12.176315-04:00.jpg">July 25 at 4:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-24T08:01:35.845770-04:00.jpg">
   <img src="https://archive.org/download/gothamist-2022/gothamist-2022-07-24T08:01:35.845770-04:00.jpg"
-     alt="Gothamist at 2022-07-24 08:01:37-04:00 local time"
+     alt="Gothamist at 2022-07-24 15:01:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-24T08:01:35.845770-04:00.jpg">July 24 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-24T08:01:35.845770-04:00.jpg">July 24 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-24T02:31:30.726636-04:00.jpg">
   <img src="https://archive.org/download/gothamist-2022/gothamist-2022-07-24T02:31:30.726636-04:00.jpg"
-     alt="Gothamist at 2022-07-24 02:31:32-04:00 local time"
+     alt="Gothamist at 2022-07-24 09:31:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-24T02:31:30.726636-04:00.jpg">July 24 at 2:31 AM</a></p>
+ <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-24T02:31:30.726636-04:00.jpg">July 24 at 9:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-23T10:01:38.140471-04:00.jpg">
   <img src="https://archive.org/download/gothamist-2022/gothamist-2022-07-23T10:01:38.140471-04:00.jpg"
-     alt="Gothamist at 2022-07-23 10:01:39-04:00 local time"
+     alt="Gothamist at 2022-07-23 17:01:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-23T10:01:38.140471-04:00.jpg">July 23 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-23T10:01:38.140471-04:00.jpg">July 23 at 5:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-22T22:27:14.664847-04:00.jpg">
   <img src="https://archive.org/download/gothamist-2022/gothamist-2022-07-22T22:27:14.664847-04:00.jpg"
-     alt="Gothamist at 2022-07-22 22:27:16-04:00 local time"
+     alt="Gothamist at 2022-07-23 05:27:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-22T22:27:14.664847-04:00.jpg">July 22 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-22T22:27:14.664847-04:00.jpg">July 23 at 5:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-22T10:02:47.160095-04:00.jpg">
   <img src="https://archive.org/download/gothamist-2022/gothamist-2022-07-22T10:02:47.160095-04:00.jpg"
-     alt="Gothamist at 2022-07-22 10:02:48-04:00 local time"
+     alt="Gothamist at 2022-07-22 17:02:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-22T10:02:47.160095-04:00.jpg">July 22 at 10:02 AM</a></p>
+ <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-22T10:02:47.160095-04:00.jpg">July 22 at 5:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-21T22:21:54.396279-04:00.jpg">
   <img src="https://archive.org/download/gothamist-2022/gothamist-2022-07-21T22:21:54.396279-04:00.jpg"
-     alt="Gothamist at 2022-07-21 22:21:56-04:00 local time"
+     alt="Gothamist at 2022-07-22 05:21:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-21T22:21:54.396279-04:00.jpg">July 21 at 10:21 PM</a></p>
+ <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-21T22:21:54.396279-04:00.jpg">July 22 at 5:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-21T10:10:37.015135-04:00.jpg">
   <img src="https://archive.org/download/gothamist-2022/gothamist-2022-07-21T10:10:37.015135-04:00.jpg"
-     alt="Gothamist at 2022-07-21 10:10:39-04:00 local time"
+     alt="Gothamist at 2022-07-21 17:10:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-21T10:10:37.015135-04:00.jpg">July 21 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-21T10:10:37.015135-04:00.jpg">July 21 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-20T22:24:17.540858-04:00.jpg">
   <img src="https://archive.org/download/gothamist-2022/gothamist-2022-07-20T22:24:17.540858-04:00.jpg"
-     alt="Gothamist at 2022-07-20 22:24:19-04:00 local time"
+     alt="Gothamist at 2022-07-21 05:24:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-20T22:24:17.540858-04:00.jpg">July 20 at 10:24 PM</a></p>
+ <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-20T22:24:17.540858-04:00.jpg">July 21 at 5:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-20T10:24:49.774369-04:00.jpg">
   <img src="https://archive.org/download/gothamist-2022/gothamist-2022-07-20T10:24:49.774369-04:00.jpg"
-     alt="Gothamist at 2022-07-20 10:24:51-04:00 local time"
+     alt="Gothamist at 2022-07-20 17:24:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-20T10:24:49.774369-04:00.jpg">July 20 at 10:24 AM</a></p>
+ <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-20T10:24:49.774369-04:00.jpg">July 20 at 5:24 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 48 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 48 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

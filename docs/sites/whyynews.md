@@ -25,7 +25,7 @@ The archiving routine has saved 53 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 53 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-25T11:52:51.464387-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-07-25T11:52:51.464387-04:00.jpg"
-     alt="WHYY at 2022-07-25 11:52:56-04:00 local time"
+     alt="WHYY at 2022-07-25 18:52:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-25T11:52:51.464387-04:00.jpg">July 25 at 11:52 AM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-25T11:52:51.464387-04:00.jpg">July 25 at 6:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-25T00:40:57.482418-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-07-25T00:40:57.482418-04:00.jpg"
-     alt="WHYY at 2022-07-25 00:40:59-04:00 local time"
+     alt="WHYY at 2022-07-25 07:40:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-25T00:40:57.482418-04:00.jpg">July 25 at 12:40 AM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-25T00:40:57.482418-04:00.jpg">July 25 at 7:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-24T11:11:02.731271-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-07-24T11:11:02.731271-04:00.jpg"
-     alt="WHYY at 2022-07-24 11:11:04-04:00 local time"
+     alt="WHYY at 2022-07-24 18:11:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-24T11:11:02.731271-04:00.jpg">July 24 at 11:11 AM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-24T11:11:02.731271-04:00.jpg">July 24 at 6:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-23T23:46:56.638449-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-07-23T23:46:56.638449-04:00.jpg"
-     alt="WHYY at 2022-07-23 23:47:01-04:00 local time"
+     alt="WHYY at 2022-07-24 06:47:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-23T23:46:56.638449-04:00.jpg">July 23 at 11:47 PM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-23T23:46:56.638449-04:00.jpg">July 24 at 6:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-23T12:09:58.591844-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-07-23T12:09:58.591844-04:00.jpg"
-     alt="WHYY at 2022-07-23 12:10:00-04:00 local time"
+     alt="WHYY at 2022-07-23 19:10:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-23T12:09:58.591844-04:00.jpg">July 23 at 12:10 PM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-23T12:09:58.591844-04:00.jpg">July 23 at 7:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-23T00:29:46.001819-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-07-23T00:29:46.001819-04:00.jpg"
-     alt="WHYY at 2022-07-23 00:29:48-04:00 local time"
+     alt="WHYY at 2022-07-23 07:29:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-23T00:29:46.001819-04:00.jpg">July 23 at 12:29 AM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-23T00:29:46.001819-04:00.jpg">July 23 at 7:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-22T12:22:22.841988-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-07-22T12:22:22.841988-04:00.jpg"
-     alt="WHYY at 2022-07-22 12:22:25-04:00 local time"
+     alt="WHYY at 2022-07-22 19:22:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-22T12:22:22.841988-04:00.jpg">July 22 at 12:22 PM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-22T12:22:22.841988-04:00.jpg">July 22 at 7:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-22T00:36:14.854608-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-07-22T00:36:14.854608-04:00.jpg"
-     alt="WHYY at 2022-07-22 00:36:16-04:00 local time"
+     alt="WHYY at 2022-07-22 07:36:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-22T00:36:14.854608-04:00.jpg">July 22 at 12:36 AM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-22T00:36:14.854608-04:00.jpg">July 22 at 7:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-21T13:00:03.213467-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-07-21T13:00:03.213467-04:00.jpg"
-     alt="WHYY at 2022-07-21 13:00:06-04:00 local time"
+     alt="WHYY at 2022-07-21 20:00:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-21T13:00:03.213467-04:00.jpg">July 21 at 1:00 PM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-21T13:00:03.213467-04:00.jpg">July 21 at 8:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-21T00:33:32.284599-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-07-21T00:33:32.284599-04:00.jpg"
-     alt="WHYY at 2022-07-21 00:33:34-04:00 local time"
+     alt="WHYY at 2022-07-21 07:33:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-21T00:33:32.284599-04:00.jpg">July 21 at 12:33 AM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-21T00:33:32.284599-04:00.jpg">July 21 at 7:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-20T12:49:56.688865-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-07-20T12:49:56.688865-04:00.jpg"
-     alt="WHYY at 2022-07-20 12:49:58-04:00 local time"
+     alt="WHYY at 2022-07-20 19:49:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-20T12:49:56.688865-04:00.jpg">July 20 at 12:49 PM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-20T12:49:56.688865-04:00.jpg">July 20 at 7:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-20T00:25:07.024238-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-07-20T00:25:07.024238-04:00.jpg"
-     alt="WHYY at 2022-07-20 00:25:09-04:00 local time"
+     alt="WHYY at 2022-07-20 07:25:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-20T00:25:07.024238-04:00.jpg">July 20 at 12:25 AM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-20T00:25:07.024238-04:00.jpg">July 20 at 7:25 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 53 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 53 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

@@ -25,7 +25,7 @@ The archiving routine has saved 119 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 119 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-25T11:36:30.726489-05:00.jpg">
   <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-25T11:36:30.726489-05:00.jpg"
-     alt="The TriiBE at 2022-07-25 11:36:36-05:00 local time"
+     alt="The TriiBE at 2022-07-25 18:36:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-25T11:36:30.726489-05:00.jpg">July 25 at 11:36 AM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-25T11:36:30.726489-05:00.jpg">July 25 at 6:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-25T10:48:58.078337-05:00.jpg">
   <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-25T10:48:58.078337-05:00.jpg"
-     alt="The TriiBE at 2022-07-25 10:49:01-05:00 local time"
+     alt="The TriiBE at 2022-07-25 17:49:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-25T10:48:58.078337-05:00.jpg">July 25 at 10:49 AM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-25T10:48:58.078337-05:00.jpg">July 25 at 5:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-24T23:37:52.906184-05:00.jpg">
   <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-24T23:37:52.906184-05:00.jpg"
-     alt="The TriiBE at 2022-07-24 23:37:54-05:00 local time"
+     alt="The TriiBE at 2022-07-25 06:37:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-24T23:37:52.906184-05:00.jpg">July 24 at 11:37 PM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-24T23:37:52.906184-05:00.jpg">July 25 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-24T10:46:25.498616-05:00.jpg">
   <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-24T10:46:25.498616-05:00.jpg"
-     alt="The TriiBE at 2022-07-24 10:46:26-05:00 local time"
+     alt="The TriiBE at 2022-07-24 17:46:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-24T10:46:25.498616-05:00.jpg">July 24 at 10:46 AM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-24T10:46:25.498616-05:00.jpg">July 24 at 5:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-24T10:07:47.692205-05:00.jpg">
   <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-24T10:07:47.692205-05:00.jpg"
-     alt="The TriiBE at 2022-07-24 10:07:51-05:00 local time"
+     alt="The TriiBE at 2022-07-24 17:07:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-24T10:07:47.692205-05:00.jpg">July 24 at 10:07 AM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-24T10:07:47.692205-05:00.jpg">July 24 at 5:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-23T22:42:25.215070-05:00.jpg">
   <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-23T22:42:25.215070-05:00.jpg"
-     alt="The TriiBE at 2022-07-23 22:42:26-05:00 local time"
+     alt="The TriiBE at 2022-07-24 05:42:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-23T22:42:25.215070-05:00.jpg">July 23 at 10:42 PM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-23T22:42:25.215070-05:00.jpg">July 24 at 5:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-23T11:06:47.716056-05:00.jpg">
   <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-23T11:06:47.716056-05:00.jpg"
-     alt="The TriiBE at 2022-07-23 11:06:49-05:00 local time"
+     alt="The TriiBE at 2022-07-23 18:06:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-23T11:06:47.716056-05:00.jpg">July 23 at 11:06 AM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-23T11:06:47.716056-05:00.jpg">July 23 at 6:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-22T23:26:06.591621-05:00.jpg">
   <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-22T23:26:06.591621-05:00.jpg"
-     alt="The TriiBE at 2022-07-22 23:26:08-05:00 local time"
+     alt="The TriiBE at 2022-07-23 06:26:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-22T23:26:06.591621-05:00.jpg">July 22 at 11:26 PM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-22T23:26:06.591621-05:00.jpg">July 23 at 6:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-22T11:24:18.374917-05:00.jpg">
   <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-22T11:24:18.374917-05:00.jpg"
-     alt="The TriiBE at 2022-07-22 11:24:19-05:00 local time"
+     alt="The TriiBE at 2022-07-22 18:24:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-22T11:24:18.374917-05:00.jpg">July 22 at 11:24 AM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-22T11:24:18.374917-05:00.jpg">July 22 at 6:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-22T11:19:12.187673-05:00.jpg">
   <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-22T11:19:12.187673-05:00.jpg"
-     alt="The TriiBE at 2022-07-22 11:19:14-05:00 local time"
+     alt="The TriiBE at 2022-07-22 18:19:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-22T11:19:12.187673-05:00.jpg">July 22 at 11:19 AM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-22T11:19:12.187673-05:00.jpg">July 22 at 6:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-21T23:33:14.946611-05:00.jpg">
   <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-21T23:33:14.946611-05:00.jpg"
-     alt="The TriiBE at 2022-07-21 23:33:17-05:00 local time"
+     alt="The TriiBE at 2022-07-22 06:33:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-21T23:33:14.946611-05:00.jpg">July 21 at 11:33 PM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-21T23:33:14.946611-05:00.jpg">July 22 at 6:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-21T11:56:33.713486-05:00.jpg">
   <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-21T11:56:33.713486-05:00.jpg"
-     alt="The TriiBE at 2022-07-21 11:56:34-05:00 local time"
+     alt="The TriiBE at 2022-07-21 18:56:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-21T11:56:33.713486-05:00.jpg">July 21 at 11:56 AM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-21T11:56:33.713486-05:00.jpg">July 21 at 6:56 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 120 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 120 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

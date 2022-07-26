@@ -25,7 +25,7 @@ The archiving routine has saved 78 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 78 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-25T09:43:01.427226-06:00.jpg">
   <img src="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-25T09:43:01.427226-06:00.jpg"
-     alt="The Spectrum at 2022-07-25 09:43:05-06:00 local time"
+     alt="The Spectrum at 2022-07-25 16:43:05-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-25T09:43:01.427226-06:00.jpg">July 25 at 9:43 AM</a></p>
+ <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-25T09:43:01.427226-06:00.jpg">July 25 at 4:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-24T21:44:09.834185-06:00.jpg">
   <img src="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-24T21:44:09.834185-06:00.jpg"
-     alt="The Spectrum at 2022-07-24 21:44:12-06:00 local time"
+     alt="The Spectrum at 2022-07-25 04:44:12-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-24T21:44:09.834185-06:00.jpg">July 24 at 9:44 PM</a></p>
+ <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-24T21:44:09.834185-06:00.jpg">July 25 at 4:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-24T08:04:27.028351-06:00.jpg">
   <img src="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-24T08:04:27.028351-06:00.jpg"
-     alt="The Spectrum at 2022-07-24 08:04:28-06:00 local time"
+     alt="The Spectrum at 2022-07-24 15:04:28-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-24T08:04:27.028351-06:00.jpg">July 24 at 8:04 AM</a></p>
+ <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-24T08:04:27.028351-06:00.jpg">July 24 at 3:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-24T00:24:21.326114-06:00.jpg">
   <img src="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-24T00:24:21.326114-06:00.jpg"
-     alt="The Spectrum at 2022-07-24 00:24:24-06:00 local time"
+     alt="The Spectrum at 2022-07-24 07:24:24-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-24T00:24:21.326114-06:00.jpg">July 24 at 12:24 AM</a></p>
+ <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-24T00:24:21.326114-06:00.jpg">July 24 at 7:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-23T10:02:01.631191-06:00.jpg">
   <img src="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-23T10:02:01.631191-06:00.jpg"
-     alt="The Spectrum at 2022-07-23 10:02:04-06:00 local time"
+     alt="The Spectrum at 2022-07-23 17:02:04-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-23T10:02:01.631191-06:00.jpg">July 23 at 10:02 AM</a></p>
+ <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-23T10:02:01.631191-06:00.jpg">July 23 at 5:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-22T22:23:06.374015-06:00.jpg">
   <img src="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-22T22:23:06.374015-06:00.jpg"
-     alt="The Spectrum at 2022-07-22 22:23:07-06:00 local time"
+     alt="The Spectrum at 2022-07-23 05:23:07-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-22T22:23:06.374015-06:00.jpg">July 22 at 10:23 PM</a></p>
+ <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-22T22:23:06.374015-06:00.jpg">July 23 at 5:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-22T10:15:05.951673-06:00.jpg">
   <img src="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-22T10:15:05.951673-06:00.jpg"
-     alt="The Spectrum at 2022-07-22 10:15:07-06:00 local time"
+     alt="The Spectrum at 2022-07-22 17:15:07-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-22T10:15:05.951673-06:00.jpg">July 22 at 10:15 AM</a></p>
+ <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-22T10:15:05.951673-06:00.jpg">July 22 at 5:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-21T22:29:24.395875-06:00.jpg">
   <img src="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-21T22:29:24.395875-06:00.jpg"
-     alt="The Spectrum at 2022-07-21 22:29:26-06:00 local time"
+     alt="The Spectrum at 2022-07-22 05:29:26-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-21T22:29:24.395875-06:00.jpg">July 21 at 10:29 PM</a></p>
+ <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-21T22:29:24.395875-06:00.jpg">July 22 at 5:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-21T10:52:21.916767-06:00.jpg">
   <img src="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-21T10:52:21.916767-06:00.jpg"
-     alt="The Spectrum at 2022-07-21 10:52:24-06:00 local time"
+     alt="The Spectrum at 2022-07-21 17:52:24-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-21T10:52:21.916767-06:00.jpg">July 21 at 10:52 AM</a></p>
+ <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-21T10:52:21.916767-06:00.jpg">July 21 at 5:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-20T22:26:55.386790-06:00.jpg">
   <img src="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-20T22:26:55.386790-06:00.jpg"
-     alt="The Spectrum at 2022-07-20 22:26:57-06:00 local time"
+     alt="The Spectrum at 2022-07-21 05:26:57-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-20T22:26:55.386790-06:00.jpg">July 20 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-20T22:26:55.386790-06:00.jpg">July 21 at 5:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-20T10:42:33.810613-06:00.jpg">
   <img src="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-20T10:42:33.810613-06:00.jpg"
-     alt="The Spectrum at 2022-07-20 10:42:36-06:00 local time"
+     alt="The Spectrum at 2022-07-20 17:42:36-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-20T10:42:33.810613-06:00.jpg">July 20 at 10:42 AM</a></p>
+ <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-20T10:42:33.810613-06:00.jpg">July 20 at 5:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-19T22:19:20.854502-06:00.jpg">
   <img src="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-19T22:19:20.854502-06:00.jpg"
-     alt="The Spectrum at 2022-07-19 22:19:27-06:00 local time"
+     alt="The Spectrum at 2022-07-20 05:19:27-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-19T22:19:20.854502-06:00.jpg">July 19 at 10:19 PM</a></p>
+ <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-07-19T22:19:20.854502-06:00.jpg">July 20 at 5:19 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 77 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 77 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

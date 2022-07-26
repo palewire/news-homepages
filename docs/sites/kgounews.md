@@ -25,7 +25,7 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-25T08:10:46.368246-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-25T08:10:46.368246-05:00.jpg"
-     alt="KGOU at 2022-07-25 08:10:48-05:00 local time"
+     alt="KGOU at 2022-07-25 15:10:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-25T08:10:46.368246-05:00.jpg">July 25 at 8:10 AM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-25T08:10:46.368246-05:00.jpg">July 25 at 3:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T22:26:16.344567-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T22:26:16.344567-05:00.jpg"
-     alt="KGOU at 2022-07-24 22:26:29-05:00 local time"
+     alt="KGOU at 2022-07-25 05:26:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T22:26:16.344567-05:00.jpg">July 24 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T22:26:16.344567-05:00.jpg">July 25 at 5:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T08:00:09.195628-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T08:00:09.195628-05:00.jpg"
-     alt="KGOU at 2022-07-24 08:00:10-05:00 local time"
+     alt="KGOU at 2022-07-24 15:00:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T08:00:09.195628-05:00.jpg">July 24 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T08:00:09.195628-05:00.jpg">July 24 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T23:15:10.028434-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T23:15:10.028434-05:00.jpg"
-     alt="KGOU at 2022-07-23 23:15:11-05:00 local time"
+     alt="KGOU at 2022-07-24 06:15:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T23:15:10.028434-05:00.jpg">July 23 at 11:15 PM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T23:15:10.028434-05:00.jpg">July 24 at 6:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T09:05:05.769916-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T09:05:05.769916-05:00.jpg"
-     alt="KGOU at 2022-07-23 09:05:07-05:00 local time"
+     alt="KGOU at 2022-07-23 16:05:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T09:05:05.769916-05:00.jpg">July 23 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T09:05:05.769916-05:00.jpg">July 23 at 4:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T21:30:38.432135-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T21:30:38.432135-05:00.jpg"
-     alt="KGOU at 2022-07-22 21:30:40-05:00 local time"
+     alt="KGOU at 2022-07-23 04:30:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T21:30:38.432135-05:00.jpg">July 22 at 9:30 PM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T21:30:38.432135-05:00.jpg">July 23 at 4:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T09:05:26.065607-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T09:05:26.065607-05:00.jpg"
-     alt="KGOU at 2022-07-22 09:05:28-05:00 local time"
+     alt="KGOU at 2022-07-22 16:05:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T09:05:26.065607-05:00.jpg">July 22 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T09:05:26.065607-05:00.jpg">July 22 at 4:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-21T21:25:11.274185-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-21T21:25:11.274185-05:00.jpg"
-     alt="KGOU at 2022-07-21 21:25:12-05:00 local time"
+     alt="KGOU at 2022-07-22 04:25:12-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-21T21:25:11.274185-05:00.jpg">July 21 at 9:25 PM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-21T21:25:11.274185-05:00.jpg">July 22 at 4:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-21T09:14:42.714439-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-21T09:14:42.714439-05:00.jpg"
-     alt="KGOU at 2022-07-21 09:14:45-05:00 local time"
+     alt="KGOU at 2022-07-21 16:14:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-21T09:14:42.714439-05:00.jpg">July 21 at 9:14 AM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-21T09:14:42.714439-05:00.jpg">July 21 at 4:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-20T21:27:38.626403-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-20T21:27:38.626403-05:00.jpg"
-     alt="KGOU at 2022-07-20 21:27:40-05:00 local time"
+     alt="KGOU at 2022-07-21 04:27:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-20T21:27:38.626403-05:00.jpg">July 20 at 9:27 PM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-20T21:27:38.626403-05:00.jpg">July 21 at 4:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-20T09:28:31.255789-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-20T09:28:31.255789-05:00.jpg"
-     alt="KGOU at 2022-07-20 09:28:33-05:00 local time"
+     alt="KGOU at 2022-07-20 16:28:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-20T09:28:31.255789-05:00.jpg">July 20 at 9:28 AM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-20T09:28:31.255789-05:00.jpg">July 20 at 4:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-19T21:20:57.197740-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-19T21:20:57.197740-05:00.jpg"
-     alt="KGOU at 2022-07-19 21:20:58-05:00 local time"
+     alt="KGOU at 2022-07-20 04:20:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-19T21:20:57.197740-05:00.jpg">July 19 at 9:20 PM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-19T21:20:57.197740-05:00.jpg">July 20 at 4:20 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 34 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

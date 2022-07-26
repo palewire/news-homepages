@@ -31,28 +31,28 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-25T18:55:48.060423+05:45.jpg">
   <img src="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-25T18:55:48.060423+05:45.jpg"
-     alt="Sanchar Kendra at 2022-07-25 18:55:50+05:45 local time"
+     alt="Sanchar Kendra at 2022-07-26 01:55:50+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-25T18:55:48.060423+05:45.jpg">July 25 at 6:55 PM</a></p>
+ <p><a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-25T18:55:48.060423+05:45.jpg">July 26 at 1:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-25T09:11:56.663229+05:45.jpg">
   <img src="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-25T09:11:56.663229+05:45.jpg"
-     alt="Sanchar Kendra at 2022-07-25 09:11:58+05:45 local time"
+     alt="Sanchar Kendra at 2022-07-25 16:11:58+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-25T09:11:56.663229+05:45.jpg">July 25 at 9:11 AM</a></p>
+ <p><a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-25T09:11:56.663229+05:45.jpg">July 25 at 4:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-25T02:23:31.003507+05:45.jpg">
   <img src="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-25T02:23:31.003507+05:45.jpg"
-     alt="Sanchar Kendra at 2022-07-25 02:23:36+05:45 local time"
+     alt="Sanchar Kendra at 2022-07-25 09:23:36+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-25T02:23:31.003507+05:45.jpg">July 25 at 2:23 AM</a></p>
+ <p><a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-25T02:23:31.003507+05:45.jpg">July 25 at 9:23 AM</a></p>
 </div>
 
 </div>

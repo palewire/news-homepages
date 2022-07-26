@@ -25,7 +25,7 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T10:43:20.919573-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T10:43:20.919573-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-25 10:43:25-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-25 17:43:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T10:43:20.919573-05:00.jpg">July 25 at 10:43 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T10:43:20.919573-05:00.jpg">July 25 at 5:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T22:44:56.481755-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T22:44:56.481755-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-24 22:44:57-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-25 05:44:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T22:44:56.481755-05:00.jpg">July 24 at 10:44 PM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T22:44:56.481755-05:00.jpg">July 25 at 5:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T09:05:02.492365-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T09:05:02.492365-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-24 09:05:05-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-24 16:05:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T09:05:02.492365-05:00.jpg">July 24 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T09:05:02.492365-05:00.jpg">July 24 at 4:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T01:24:14.772357-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T01:24:14.772357-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-24 01:24:16-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-24 08:24:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T01:24:14.772357-05:00.jpg">July 24 at 1:24 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T01:24:14.772357-05:00.jpg">July 24 at 8:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-23T11:02:57.989403-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-23T11:02:57.989403-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-23 11:02:59-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-23 18:02:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-23T11:02:57.989403-05:00.jpg">July 23 at 11:02 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-23T11:02:57.989403-05:00.jpg">July 23 at 6:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T23:23:00.760454-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T23:23:00.760454-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-22 23:23:07-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-23 06:23:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T23:23:00.760454-05:00.jpg">July 22 at 11:23 PM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T23:23:00.760454-05:00.jpg">July 23 at 6:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T11:16:44.368037-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T11:16:44.368037-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-22 11:16:47-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-22 18:16:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T11:16:44.368037-05:00.jpg">July 22 at 11:16 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T11:16:44.368037-05:00.jpg">July 22 at 6:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-21T23:28:13.469603-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-21T23:28:13.469603-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-21 23:28:16-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-22 06:28:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-21T23:28:13.469603-05:00.jpg">July 21 at 11:28 PM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-21T23:28:13.469603-05:00.jpg">July 22 at 6:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-21T11:53:40.975090-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-21T11:53:40.975090-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-21 11:53:41-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-21 18:53:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-21T11:53:40.975090-05:00.jpg">July 21 at 11:53 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-21T11:53:40.975090-05:00.jpg">July 21 at 6:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-20T23:27:36.896515-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-20T23:27:36.896515-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-20 23:27:38-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-21 06:27:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-20T23:27:36.896515-05:00.jpg">July 20 at 11:27 PM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-20T23:27:36.896515-05:00.jpg">July 21 at 6:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-20T11:43:21.153068-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-20T11:43:21.153068-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-20 11:43:23-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-20 18:43:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-20T11:43:21.153068-05:00.jpg">July 20 at 11:43 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-20T11:43:21.153068-05:00.jpg">July 20 at 6:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-19T23:20:14.311601-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-19T23:20:14.311601-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-19 23:20:15-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-20 06:20:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-19T23:20:14.311601-05:00.jpg">July 19 at 11:20 PM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-19T23:20:14.311601-05:00.jpg">July 20 at 6:20 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 34 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

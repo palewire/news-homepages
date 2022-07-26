@@ -25,7 +25,7 @@ The archiving routine has saved 78 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 78 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-25T20:25:04.034798-04:00.jpg">
   <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-25T20:25:04.034798-04:00.jpg"
-     alt="SB Nation at 2022-07-25 20:25:09-04:00 local time"
+     alt="SB Nation at 2022-07-26 03:25:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-25T20:25:04.034798-04:00.jpg">July 25 at 8:25 PM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-25T20:25:04.034798-04:00.jpg">July 26 at 3:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-25T11:40:49.579605-04:00.jpg">
   <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-25T11:40:49.579605-04:00.jpg"
-     alt="SB Nation at 2022-07-25 11:40:53-04:00 local time"
+     alt="SB Nation at 2022-07-25 18:40:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-25T11:40:49.579605-04:00.jpg">July 25 at 11:40 AM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-25T11:40:49.579605-04:00.jpg">July 25 at 6:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T23:42:48.763782-04:00.jpg">
   <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T23:42:48.763782-04:00.jpg"
-     alt="SB Nation at 2022-07-24 23:42:51-04:00 local time"
+     alt="SB Nation at 2022-07-25 06:42:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T23:42:48.763782-04:00.jpg">July 24 at 11:42 PM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T23:42:48.763782-04:00.jpg">July 25 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T10:03:11.221047-04:00.jpg">
   <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T10:03:11.221047-04:00.jpg"
-     alt="SB Nation at 2022-07-24 10:03:15-04:00 local time"
+     alt="SB Nation at 2022-07-24 17:03:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T10:03:11.221047-04:00.jpg">July 24 at 10:03 AM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T10:03:11.221047-04:00.jpg">July 24 at 5:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T02:22:29.731017-04:00.jpg">
   <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T02:22:29.731017-04:00.jpg"
-     alt="SB Nation at 2022-07-24 02:22:32-04:00 local time"
+     alt="SB Nation at 2022-07-24 09:22:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T02:22:29.731017-04:00.jpg">July 24 at 2:22 AM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T02:22:29.731017-04:00.jpg">July 24 at 9:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-23T11:09:29.346840-04:00.jpg">
   <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-23T11:09:29.346840-04:00.jpg"
-     alt="SB Nation at 2022-07-23 11:09:32-04:00 local time"
+     alt="SB Nation at 2022-07-23 18:09:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-23T11:09:29.346840-04:00.jpg">July 23 at 11:09 AM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-23T11:09:29.346840-04:00.jpg">July 23 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-22T23:39:07.005230-04:00.jpg">
   <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-22T23:39:07.005230-04:00.jpg"
-     alt="SB Nation at 2022-07-22 23:39:10-04:00 local time"
+     alt="SB Nation at 2022-07-23 06:39:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-22T23:39:07.005230-04:00.jpg">July 22 at 11:39 PM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-22T23:39:07.005230-04:00.jpg">July 23 at 6:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-22T11:05:09.877907-04:00.jpg">
   <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-22T11:05:09.877907-04:00.jpg"
-     alt="SB Nation at 2022-07-22 11:05:12-04:00 local time"
+     alt="SB Nation at 2022-07-22 18:05:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-22T11:05:09.877907-04:00.jpg">July 22 at 11:05 AM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-22T11:05:09.877907-04:00.jpg">July 22 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-21T23:43:35.853375-04:00.jpg">
   <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-21T23:43:35.853375-04:00.jpg"
-     alt="SB Nation at 2022-07-21 23:43:42-04:00 local time"
+     alt="SB Nation at 2022-07-22 06:43:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-21T23:43:35.853375-04:00.jpg">July 21 at 11:43 PM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-21T23:43:35.853375-04:00.jpg">July 22 at 6:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-21T11:40:22.991053-04:00.jpg">
   <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-21T11:40:22.991053-04:00.jpg"
-     alt="SB Nation at 2022-07-21 11:40:25-04:00 local time"
+     alt="SB Nation at 2022-07-21 18:40:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-21T11:40:22.991053-04:00.jpg">July 21 at 11:40 AM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-21T11:40:22.991053-04:00.jpg">July 21 at 6:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T23:41:56.021579-04:00.jpg">
   <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T23:41:56.021579-04:00.jpg"
-     alt="SB Nation at 2022-07-20 23:41:59-04:00 local time"
+     alt="SB Nation at 2022-07-21 06:41:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T23:41:56.021579-04:00.jpg">July 20 at 11:41 PM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T23:41:56.021579-04:00.jpg">July 21 at 6:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T12:41:06.667666-04:00.jpg">
   <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T12:41:06.667666-04:00.jpg"
-     alt="SB Nation at 2022-07-20 12:41:12-04:00 local time"
+     alt="SB Nation at 2022-07-20 19:41:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T12:41:06.667666-04:00.jpg">July 20 at 12:41 PM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T12:41:06.667666-04:00.jpg">July 20 at 7:41 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 76 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 76 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

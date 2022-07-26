@@ -25,7 +25,7 @@ The archiving routine has saved 97 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 97 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-26T01:18:49.029532+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-26T01:18:49.029532+01:00.jpg"
-     alt="Daily Mail at 2022-07-26 01:18:55+01:00 local time"
+     alt="Daily Mail at 2022-07-26 08:18:55+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-26T01:18:49.029532+01:00.jpg">July 26 at 1:18 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-26T01:18:49.029532+01:00.jpg">July 26 at 8:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T14:13:49.143145+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T14:13:49.143145+01:00.jpg"
-     alt="Daily Mail at 2022-07-25 14:13:55+01:00 local time"
+     alt="Daily Mail at 2022-07-25 21:13:55+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T14:13:49.143145+01:00.jpg">July 25 at 2:13 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T14:13:49.143145+01:00.jpg">July 25 at 9:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T10:09:33.485321+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T10:09:33.485321+01:00.jpg"
-     alt="Daily Mail at 2022-07-25 10:09:40+01:00 local time"
+     alt="Daily Mail at 2022-07-25 17:09:40+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T10:09:33.485321+01:00.jpg">July 25 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T10:09:33.485321+01:00.jpg">July 25 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T04:30:38.423888+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T04:30:38.423888+01:00.jpg"
-     alt="Daily Mail at 2022-07-25 04:30:43+01:00 local time"
+     alt="Daily Mail at 2022-07-25 11:30:43+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T04:30:38.423888+01:00.jpg">July 25 at 4:30 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T04:30:38.423888+01:00.jpg">July 25 at 11:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T14:02:32.403340+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T14:02:32.403340+01:00.jpg"
-     alt="Daily Mail at 2022-07-24 14:02:38+01:00 local time"
+     alt="Daily Mail at 2022-07-24 21:02:38+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T14:02:32.403340+01:00.jpg">July 24 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T14:02:32.403340+01:00.jpg">July 24 at 9:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T10:10:07.901329+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T10:10:07.901329+01:00.jpg"
-     alt="Daily Mail at 2022-07-24 10:10:14+01:00 local time"
+     alt="Daily Mail at 2022-07-24 17:10:14+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T10:10:07.901329+01:00.jpg">July 24 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T10:10:07.901329+01:00.jpg">July 24 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T05:17:38.355076+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T05:17:38.355076+01:00.jpg"
-     alt="Daily Mail at 2022-07-24 05:17:40+01:00 local time"
+     alt="Daily Mail at 2022-07-24 12:17:40+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T05:17:38.355076+01:00.jpg">July 24 at 5:17 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T05:17:38.355076+01:00.jpg">July 24 at 12:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T16:00:48.687110+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T16:00:48.687110+01:00.jpg"
-     alt="Daily Mail at 2022-07-23 16:00:50+01:00 local time"
+     alt="Daily Mail at 2022-07-23 23:00:50+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T16:00:48.687110+01:00.jpg">July 23 at 4:00 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T16:00:48.687110+01:00.jpg">July 23 at 11:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T10:06:23.070273+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T10:06:23.070273+01:00.jpg"
-     alt="Daily Mail at 2022-07-23 10:06:30+01:00 local time"
+     alt="Daily Mail at 2022-07-23 17:06:30+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T10:06:23.070273+01:00.jpg">July 23 at 10:06 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T10:06:23.070273+01:00.jpg">July 23 at 5:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T04:30:56.222323+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T04:30:56.222323+01:00.jpg"
-     alt="Daily Mail at 2022-07-23 04:30:59+01:00 local time"
+     alt="Daily Mail at 2022-07-23 11:30:59+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T04:30:56.222323+01:00.jpg">July 23 at 4:30 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T04:30:56.222323+01:00.jpg">July 23 at 11:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-22T15:56:06.604844+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-22T15:56:06.604844+01:00.jpg"
-     alt="Daily Mail at 2022-07-22 15:56:10+01:00 local time"
+     alt="Daily Mail at 2022-07-22 22:56:10+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-22T15:56:06.604844+01:00.jpg">July 22 at 3:56 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-22T15:56:06.604844+01:00.jpg">July 22 at 10:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-22T10:07:12.118416+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-22T10:07:12.118416+01:00.jpg"
-     alt="Daily Mail at 2022-07-22 10:07:16+01:00 local time"
+     alt="Daily Mail at 2022-07-22 17:07:16+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-22T10:07:12.118416+01:00.jpg">July 22 at 10:07 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-22T10:07:12.118416+01:00.jpg">July 22 at 5:07 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 81 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 81 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

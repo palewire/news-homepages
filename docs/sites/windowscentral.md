@@ -31,19 +31,19 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-07-25T08:53:05.694830-07:00.jpg">
   <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-07-25T08:53:05.694830-07:00.jpg"
-     alt="Windows Central at 2022-07-25 08:53:07-07:00 local time"
+     alt="Windows Central at 2022-07-25 15:53:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-07-25T08:53:05.694830-07:00.jpg">July 25 at 8:53 AM</a></p>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-07-25T08:53:05.694830-07:00.jpg">July 25 at 3:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-07-24T23:47:46.515861-07:00.jpg">
   <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-07-24T23:47:46.515861-07:00.jpg"
-     alt="Windows Central at 2022-07-24 23:47:52-07:00 local time"
+     alt="Windows Central at 2022-07-25 06:47:52-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-07-24T23:47:46.515861-07:00.jpg">July 24 at 11:47 PM</a></p>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-07-24T23:47:46.515861-07:00.jpg">July 25 at 6:47 AM</a></p>
 </div>
 
 </div>

@@ -31,28 +31,28 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/macrumors-2022/macrumors-2022-07-25T20:18:48.267545-04:00.jpg">
   <img src="https://archive.org/download/macrumors-2022/macrumors-2022-07-25T20:18:48.267545-04:00.jpg"
-     alt="MacRumors at 2022-07-25 20:18:50-04:00 local time"
+     alt="MacRumors at 2022-07-26 03:18:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/macrumors-2022/macrumors-2022-07-25T20:18:48.267545-04:00.jpg">July 25 at 8:18 PM</a></p>
+ <p><a href="https://archive.org/download/macrumors-2022/macrumors-2022-07-25T20:18:48.267545-04:00.jpg">July 26 at 3:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/macrumors-2022/macrumors-2022-07-25T09:13:41.001466-04:00.jpg">
   <img src="https://archive.org/download/macrumors-2022/macrumors-2022-07-25T09:13:41.001466-04:00.jpg"
-     alt="MacRumors at 2022-07-25 09:13:42-04:00 local time"
+     alt="MacRumors at 2022-07-25 16:13:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/macrumors-2022/macrumors-2022-07-25T09:13:41.001466-04:00.jpg">July 25 at 9:13 AM</a></p>
+ <p><a href="https://archive.org/download/macrumors-2022/macrumors-2022-07-25T09:13:41.001466-04:00.jpg">July 25 at 4:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/macrumors-2022/macrumors-2022-07-25T02:46:50.093923-04:00.jpg">
   <img src="https://archive.org/download/macrumors-2022/macrumors-2022-07-25T02:46:50.093923-04:00.jpg"
-     alt="MacRumors at 2022-07-25 02:46:56-04:00 local time"
+     alt="MacRumors at 2022-07-25 09:46:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/macrumors-2022/macrumors-2022-07-25T02:46:50.093923-04:00.jpg">July 25 at 2:46 AM</a></p>
+ <p><a href="https://archive.org/download/macrumors-2022/macrumors-2022-07-25T02:46:50.093923-04:00.jpg">July 25 at 9:46 AM</a></p>
 </div>
 
 </div>

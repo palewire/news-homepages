@@ -25,7 +25,7 @@ The archiving routine has saved 41 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 41 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-26T01:24:19.721884+01:00.jpg">
   <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-26T01:24:19.721884+01:00.jpg"
-     alt="National at 2022-07-26 01:24:21+01:00 local time"
+     alt="National at 2022-07-26 08:24:21+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-26T01:24:19.721884+01:00.jpg">July 26 at 1:24 AM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-26T01:24:19.721884+01:00.jpg">July 26 at 8:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-25T16:41:14.974047+01:00.jpg">
   <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-25T16:41:14.974047+01:00.jpg"
-     alt="National at 2022-07-25 16:41:16+01:00 local time"
+     alt="National at 2022-07-25 23:41:16+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-25T16:41:14.974047+01:00.jpg">July 25 at 4:41 PM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-25T16:41:14.974047+01:00.jpg">July 25 at 11:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-25T04:42:54.143106+01:00.jpg">
   <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-25T04:42:54.143106+01:00.jpg"
-     alt="National at 2022-07-25 04:42:55+01:00 local time"
+     alt="National at 2022-07-25 11:42:55+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-25T04:42:54.143106+01:00.jpg">July 25 at 4:42 AM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-25T04:42:54.143106+01:00.jpg">July 25 at 11:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-24T15:02:54.003777+01:00.jpg">
   <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-24T15:02:54.003777+01:00.jpg"
-     alt="National at 2022-07-24 15:02:55+01:00 local time"
+     alt="National at 2022-07-24 22:02:55+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-24T15:02:54.003777+01:00.jpg">July 24 at 3:02 PM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-24T15:02:54.003777+01:00.jpg">July 24 at 10:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-24T07:23:02.080958+01:00.jpg">
   <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-24T07:23:02.080958+01:00.jpg"
-     alt="National at 2022-07-24 07:23:03+01:00 local time"
+     alt="National at 2022-07-24 14:23:03+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-24T07:23:02.080958+01:00.jpg">July 24 at 7:23 AM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-24T07:23:02.080958+01:00.jpg">July 24 at 2:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-23T16:09:18.846154+01:00.jpg">
   <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-23T16:09:18.846154+01:00.jpg"
-     alt="National at 2022-07-23 16:09:21+01:00 local time"
+     alt="National at 2022-07-23 23:09:21+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-23T16:09:18.846154+01:00.jpg">July 23 at 4:09 PM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-23T16:09:18.846154+01:00.jpg">July 23 at 11:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-23T04:39:06.872193+01:00.jpg">
   <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-23T04:39:06.872193+01:00.jpg"
-     alt="National at 2022-07-23 04:39:09+01:00 local time"
+     alt="National at 2022-07-23 11:39:09+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-23T04:39:06.872193+01:00.jpg">July 23 at 4:39 AM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-23T04:39:06.872193+01:00.jpg">July 23 at 11:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-22T16:04:52.118181+01:00.jpg">
   <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-22T16:04:52.118181+01:00.jpg"
-     alt="National at 2022-07-22 16:04:54+01:00 local time"
+     alt="National at 2022-07-22 23:04:54+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-22T16:04:52.118181+01:00.jpg">July 22 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-22T16:04:52.118181+01:00.jpg">July 22 at 11:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-22T04:43:23.583689+01:00.jpg">
   <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-22T04:43:23.583689+01:00.jpg"
-     alt="National at 2022-07-22 04:43:25+01:00 local time"
+     alt="National at 2022-07-22 11:43:25+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-22T04:43:23.583689+01:00.jpg">July 22 at 4:43 AM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-22T04:43:23.583689+01:00.jpg">July 22 at 11:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-21T16:40:14.229016+01:00.jpg">
   <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-21T16:40:14.229016+01:00.jpg"
-     alt="National at 2022-07-21 16:40:16+01:00 local time"
+     alt="National at 2022-07-21 23:40:16+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-21T16:40:14.229016+01:00.jpg">July 21 at 4:40 PM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-21T16:40:14.229016+01:00.jpg">July 21 at 11:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-21T04:42:01.250209+01:00.jpg">
   <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-21T04:42:01.250209+01:00.jpg"
-     alt="National at 2022-07-21 04:42:04+01:00 local time"
+     alt="National at 2022-07-21 11:42:04+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-21T04:42:01.250209+01:00.jpg">July 21 at 4:42 AM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-21T04:42:01.250209+01:00.jpg">July 21 at 11:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-20T17:41:15.344001+01:00.jpg">
   <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-20T17:41:15.344001+01:00.jpg"
-     alt="National at 2022-07-20 17:41:18+01:00 local time"
+     alt="National at 2022-07-21 00:41:18+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-20T17:41:15.344001+01:00.jpg">July 20 at 5:41 PM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-20T17:41:15.344001+01:00.jpg">July 21 at 12:41 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 39 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 39 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

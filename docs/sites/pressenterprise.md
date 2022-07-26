@@ -25,7 +25,7 @@ The archiving routine has saved 282 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 282 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-25T11:14:34.342189-07:00.jpg">
   <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-25T11:14:34.342189-07:00.jpg"
-     alt="Riverside Press-Enterprise at 2022-07-25 11:14:39-07:00 local time"
+     alt="Riverside Press-Enterprise at 2022-07-25 18:14:39-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-25T11:14:34.342189-07:00.jpg">July 25 at 11:14 AM</a></p>
+ <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-25T11:14:34.342189-07:00.jpg">July 25 at 6:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-25T08:37:38.571144-07:00.jpg">
   <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-25T08:37:38.571144-07:00.jpg"
-     alt="Riverside Press-Enterprise at 2022-07-25 08:37:40-07:00 local time"
+     alt="Riverside Press-Enterprise at 2022-07-25 15:37:40-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-25T08:37:38.571144-07:00.jpg">July 25 at 8:37 AM</a></p>
+ <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-25T08:37:38.571144-07:00.jpg">July 25 at 3:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-24T20:40:15.791540-07:00.jpg">
   <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-24T20:40:15.791540-07:00.jpg"
-     alt="Riverside Press-Enterprise at 2022-07-24 20:40:21-07:00 local time"
+     alt="Riverside Press-Enterprise at 2022-07-25 03:40:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-24T20:40:15.791540-07:00.jpg">July 24 at 8:40 PM</a></p>
+ <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-24T20:40:15.791540-07:00.jpg">July 25 at 3:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-24T11:20:48.576953-07:00.jpg">
   <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-24T11:20:48.576953-07:00.jpg"
-     alt="Riverside Press-Enterprise at 2022-07-24 11:20:50-07:00 local time"
+     alt="Riverside Press-Enterprise at 2022-07-24 18:20:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-24T11:20:48.576953-07:00.jpg">July 24 at 11:20 AM</a></p>
+ <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-24T11:20:48.576953-07:00.jpg">July 24 at 6:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-24T07:00:55.546598-07:00.jpg">
   <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-24T07:00:55.546598-07:00.jpg"
-     alt="Riverside Press-Enterprise at 2022-07-24 07:01:00-07:00 local time"
+     alt="Riverside Press-Enterprise at 2022-07-24 14:01:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-24T07:00:55.546598-07:00.jpg">July 24 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-24T07:00:55.546598-07:00.jpg">July 24 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-23T23:20:20.957619-07:00.jpg">
   <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-23T23:20:20.957619-07:00.jpg"
-     alt="Riverside Press-Enterprise at 2022-07-23 23:20:22-07:00 local time"
+     alt="Riverside Press-Enterprise at 2022-07-24 06:20:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-23T23:20:20.957619-07:00.jpg">July 23 at 11:20 PM</a></p>
+ <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-23T23:20:20.957619-07:00.jpg">July 24 at 6:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-23T11:24:05.505567-07:00.jpg">
   <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-23T11:24:05.505567-07:00.jpg"
-     alt="Riverside Press-Enterprise at 2022-07-23 11:24:07-07:00 local time"
+     alt="Riverside Press-Enterprise at 2022-07-23 18:24:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-23T11:24:05.505567-07:00.jpg">July 23 at 11:24 AM</a></p>
+ <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-23T11:24:05.505567-07:00.jpg">July 23 at 6:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-23T08:06:55.508908-07:00.jpg">
   <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-23T08:06:55.508908-07:00.jpg"
-     alt="Riverside Press-Enterprise at 2022-07-23 08:06:57-07:00 local time"
+     alt="Riverside Press-Enterprise at 2022-07-23 15:06:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-23T08:06:55.508908-07:00.jpg">July 23 at 8:06 AM</a></p>
+ <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-23T08:06:55.508908-07:00.jpg">July 23 at 3:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T20:37:13.040453-07:00.jpg">
   <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T20:37:13.040453-07:00.jpg"
-     alt="Riverside Press-Enterprise at 2022-07-22 20:37:14-07:00 local time"
+     alt="Riverside Press-Enterprise at 2022-07-23 03:37:14-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T20:37:13.040453-07:00.jpg">July 22 at 8:37 PM</a></p>
+ <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T20:37:13.040453-07:00.jpg">July 23 at 3:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T11:09:01.895111-07:00.jpg">
   <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T11:09:01.895111-07:00.jpg"
-     alt="Riverside Press-Enterprise at 2022-07-22 11:09:06-07:00 local time"
+     alt="Riverside Press-Enterprise at 2022-07-22 18:09:06-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T11:09:01.895111-07:00.jpg">July 22 at 11:09 AM</a></p>
+ <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T11:09:01.895111-07:00.jpg">July 22 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T08:02:31.069770-07:00.jpg">
   <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T08:02:31.069770-07:00.jpg"
-     alt="Riverside Press-Enterprise at 2022-07-22 08:02:42-07:00 local time"
+     alt="Riverside Press-Enterprise at 2022-07-22 15:02:42-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T08:02:31.069770-07:00.jpg">July 22 at 8:02 AM</a></p>
+ <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T08:02:31.069770-07:00.jpg">July 22 at 3:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-21T20:41:18.607403-07:00.jpg">
   <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-21T20:41:18.607403-07:00.jpg"
-     alt="Riverside Press-Enterprise at 2022-07-21 20:41:29-07:00 local time"
+     alt="Riverside Press-Enterprise at 2022-07-22 03:41:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-21T20:41:18.607403-07:00.jpg">July 21 at 8:41 PM</a></p>
+ <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-21T20:41:18.607403-07:00.jpg">July 22 at 3:41 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 265 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 265 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

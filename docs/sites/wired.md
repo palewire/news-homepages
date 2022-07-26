@@ -25,7 +25,7 @@ The archiving routine has saved 58 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 58 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/wired-2022/wired-2022-07-25T08:53:23.816492-07:00.jpg">
   <img src="https://archive.org/download/wired-2022/wired-2022-07-25T08:53:23.816492-07:00.jpg"
-     alt="Wired at 2022-07-25 08:53:25-07:00 local time"
+     alt="Wired at 2022-07-25 15:53:25-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wired-2022/wired-2022-07-25T08:53:23.816492-07:00.jpg">July 25 at 8:53 AM</a></p>
+ <p><a href="https://archive.org/download/wired-2022/wired-2022-07-25T08:53:23.816492-07:00.jpg">July 25 at 3:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wired-2022/wired-2022-07-24T23:47:41.210641-07:00.jpg">
   <img src="https://archive.org/download/wired-2022/wired-2022-07-24T23:47:41.210641-07:00.jpg"
-     alt="Wired at 2022-07-24 23:47:43-07:00 local time"
+     alt="Wired at 2022-07-25 06:47:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wired-2022/wired-2022-07-24T23:47:41.210641-07:00.jpg">July 24 at 11:47 PM</a></p>
+ <p><a href="https://archive.org/download/wired-2022/wired-2022-07-24T23:47:41.210641-07:00.jpg">July 25 at 6:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wired-2022/wired-2022-07-24T21:41:22.640143-07:00.jpg">
   <img src="https://archive.org/download/wired-2022/wired-2022-07-24T21:41:22.640143-07:00.jpg"
-     alt="Wired at 2022-07-24 21:41:24-07:00 local time"
+     alt="Wired at 2022-07-25 04:41:24-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wired-2022/wired-2022-07-24T21:41:22.640143-07:00.jpg">July 24 at 9:41 PM</a></p>
+ <p><a href="https://archive.org/download/wired-2022/wired-2022-07-24T21:41:22.640143-07:00.jpg">July 25 at 4:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wired-2022/wired-2022-07-24T08:11:36.196311-07:00.jpg">
   <img src="https://archive.org/download/wired-2022/wired-2022-07-24T08:11:36.196311-07:00.jpg"
-     alt="Wired at 2022-07-24 08:11:38-07:00 local time"
+     alt="Wired at 2022-07-24 15:11:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wired-2022/wired-2022-07-24T08:11:36.196311-07:00.jpg">July 24 at 8:11 AM</a></p>
+ <p><a href="https://archive.org/download/wired-2022/wired-2022-07-24T08:11:36.196311-07:00.jpg">July 24 at 3:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wired-2022/wired-2022-07-23T20:47:26.248900-07:00.jpg">
   <img src="https://archive.org/download/wired-2022/wired-2022-07-23T20:47:26.248900-07:00.jpg"
-     alt="Wired at 2022-07-23 20:47:27-07:00 local time"
+     alt="Wired at 2022-07-24 03:47:27-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wired-2022/wired-2022-07-23T20:47:26.248900-07:00.jpg">July 23 at 8:47 PM</a></p>
+ <p><a href="https://archive.org/download/wired-2022/wired-2022-07-23T20:47:26.248900-07:00.jpg">July 24 at 3:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wired-2022/wired-2022-07-23T09:09:30.718059-07:00.jpg">
   <img src="https://archive.org/download/wired-2022/wired-2022-07-23T09:09:30.718059-07:00.jpg"
-     alt="Wired at 2022-07-23 09:09:32-07:00 local time"
+     alt="Wired at 2022-07-23 16:09:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wired-2022/wired-2022-07-23T09:09:30.718059-07:00.jpg">July 23 at 9:09 AM</a></p>
+ <p><a href="https://archive.org/download/wired-2022/wired-2022-07-23T09:09:30.718059-07:00.jpg">July 23 at 4:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wired-2022/wired-2022-07-22T21:29:25.714868-07:00.jpg">
   <img src="https://archive.org/download/wired-2022/wired-2022-07-22T21:29:25.714868-07:00.jpg"
-     alt="Wired at 2022-07-22 21:29:27-07:00 local time"
+     alt="Wired at 2022-07-23 04:29:27-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wired-2022/wired-2022-07-22T21:29:25.714868-07:00.jpg">July 22 at 9:29 PM</a></p>
+ <p><a href="https://archive.org/download/wired-2022/wired-2022-07-22T21:29:25.714868-07:00.jpg">July 23 at 4:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wired-2022/wired-2022-07-22T09:22:18.977420-07:00.jpg">
   <img src="https://archive.org/download/wired-2022/wired-2022-07-22T09:22:18.977420-07:00.jpg"
-     alt="Wired at 2022-07-22 09:22:21-07:00 local time"
+     alt="Wired at 2022-07-22 16:22:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wired-2022/wired-2022-07-22T09:22:18.977420-07:00.jpg">July 22 at 9:22 AM</a></p>
+ <p><a href="https://archive.org/download/wired-2022/wired-2022-07-22T09:22:18.977420-07:00.jpg">July 22 at 4:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wired-2022/wired-2022-07-21T21:36:02.094439-07:00.jpg">
   <img src="https://archive.org/download/wired-2022/wired-2022-07-21T21:36:02.094439-07:00.jpg"
-     alt="Wired at 2022-07-21 21:36:04-07:00 local time"
+     alt="Wired at 2022-07-22 04:36:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wired-2022/wired-2022-07-21T21:36:02.094439-07:00.jpg">July 21 at 9:36 PM</a></p>
+ <p><a href="https://archive.org/download/wired-2022/wired-2022-07-21T21:36:02.094439-07:00.jpg">July 22 at 4:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wired-2022/wired-2022-07-21T10:00:07.467374-07:00.jpg">
   <img src="https://archive.org/download/wired-2022/wired-2022-07-21T10:00:07.467374-07:00.jpg"
-     alt="Wired at 2022-07-21 10:00:11-07:00 local time"
+     alt="Wired at 2022-07-21 17:00:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wired-2022/wired-2022-07-21T10:00:07.467374-07:00.jpg">July 21 at 10:00 AM</a></p>
+ <p><a href="https://archive.org/download/wired-2022/wired-2022-07-21T10:00:07.467374-07:00.jpg">July 21 at 5:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wired-2022/wired-2022-07-20T21:34:13.252737-07:00.jpg">
   <img src="https://archive.org/download/wired-2022/wired-2022-07-20T21:34:13.252737-07:00.jpg"
-     alt="Wired at 2022-07-20 21:34:15-07:00 local time"
+     alt="Wired at 2022-07-21 04:34:15-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wired-2022/wired-2022-07-20T21:34:13.252737-07:00.jpg">July 20 at 9:34 PM</a></p>
+ <p><a href="https://archive.org/download/wired-2022/wired-2022-07-20T21:34:13.252737-07:00.jpg">July 21 at 4:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wired-2022/wired-2022-07-20T09:51:27.525720-07:00.jpg">
   <img src="https://archive.org/download/wired-2022/wired-2022-07-20T09:51:27.525720-07:00.jpg"
-     alt="Wired at 2022-07-20 09:51:29-07:00 local time"
+     alt="Wired at 2022-07-20 16:51:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wired-2022/wired-2022-07-20T09:51:27.525720-07:00.jpg">July 20 at 9:51 AM</a></p>
+ <p><a href="https://archive.org/download/wired-2022/wired-2022-07-20T09:51:27.525720-07:00.jpg">July 20 at 4:51 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 58 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 58 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

@@ -31,109 +31,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-25T20:21:16.220794-04:00.jpg">
   <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-25T20:21:16.220794-04:00.jpg"
-     alt="Nieman Lab at 2022-07-25 20:21:18-04:00 local time"
+     alt="Nieman Lab at 2022-07-26 03:21:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-25T20:21:16.220794-04:00.jpg">July 25 at 8:21 PM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-25T20:21:16.220794-04:00.jpg">July 26 at 3:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-25T09:17:24.871892-04:00.jpg">
   <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-25T09:17:24.871892-04:00.jpg"
-     alt="Nieman Lab at 2022-07-25 09:17:26-04:00 local time"
+     alt="Nieman Lab at 2022-07-25 16:17:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-25T09:17:24.871892-04:00.jpg">July 25 at 9:17 AM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-25T09:17:24.871892-04:00.jpg">July 25 at 4:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-24T23:37:06.662719-04:00.jpg">
   <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-24T23:37:06.662719-04:00.jpg"
-     alt="Nieman Lab at 2022-07-24 23:37:08-04:00 local time"
+     alt="Nieman Lab at 2022-07-25 06:37:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-24T23:37:06.662719-04:00.jpg">July 24 at 11:37 PM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-24T23:37:06.662719-04:00.jpg">July 25 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-24T09:05:32.132671-04:00.jpg">
   <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-24T09:05:32.132671-04:00.jpg"
-     alt="Nieman Lab at 2022-07-24 09:05:33-04:00 local time"
+     alt="Nieman Lab at 2022-07-24 16:05:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-24T09:05:32.132671-04:00.jpg">July 24 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-24T09:05:32.132671-04:00.jpg">July 24 at 4:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-24T00:20:29.716907-04:00.jpg">
   <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-24T00:20:29.716907-04:00.jpg"
-     alt="Nieman Lab at 2022-07-24 00:20:31-04:00 local time"
+     alt="Nieman Lab at 2022-07-24 07:20:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-24T00:20:29.716907-04:00.jpg">July 24 at 12:20 AM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-24T00:20:29.716907-04:00.jpg">July 24 at 7:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-23T11:04:08.849260-04:00.jpg">
   <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-23T11:04:08.849260-04:00.jpg"
-     alt="Nieman Lab at 2022-07-23 11:04:10-04:00 local time"
+     alt="Nieman Lab at 2022-07-23 18:04:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-23T11:04:08.849260-04:00.jpg">July 23 at 11:04 AM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-23T11:04:08.849260-04:00.jpg">July 23 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-22T23:34:01.209209-04:00.jpg">
   <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-22T23:34:01.209209-04:00.jpg"
-     alt="Nieman Lab at 2022-07-22 23:34:02-04:00 local time"
+     alt="Nieman Lab at 2022-07-23 06:34:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-22T23:34:01.209209-04:00.jpg">July 22 at 11:34 PM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-22T23:34:01.209209-04:00.jpg">July 23 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-22T10:59:23.846618-04:00.jpg">
   <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-22T10:59:23.846618-04:00.jpg"
-     alt="Nieman Lab at 2022-07-22 10:59:25-04:00 local time"
+     alt="Nieman Lab at 2022-07-22 17:59:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-22T10:59:23.846618-04:00.jpg">July 22 at 10:59 AM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-22T10:59:23.846618-04:00.jpg">July 22 at 5:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-21T23:39:06.267571-04:00.jpg">
   <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-21T23:39:06.267571-04:00.jpg"
-     alt="Nieman Lab at 2022-07-21 23:39:07-04:00 local time"
+     alt="Nieman Lab at 2022-07-22 06:39:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-21T23:39:06.267571-04:00.jpg">July 21 at 11:39 PM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-21T23:39:06.267571-04:00.jpg">July 22 at 6:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-21T11:33:34.960387-04:00.jpg">
   <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-21T11:33:34.960387-04:00.jpg"
-     alt="Nieman Lab at 2022-07-21 11:33:36-04:00 local time"
+     alt="Nieman Lab at 2022-07-21 18:33:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-21T11:33:34.960387-04:00.jpg">July 21 at 11:33 AM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-21T11:33:34.960387-04:00.jpg">July 21 at 6:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-20T23:36:37.342115-04:00.jpg">
   <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-20T23:36:37.342115-04:00.jpg"
-     alt="Nieman Lab at 2022-07-20 23:36:39-04:00 local time"
+     alt="Nieman Lab at 2022-07-21 06:36:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-20T23:36:37.342115-04:00.jpg">July 20 at 11:36 PM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-20T23:36:37.342115-04:00.jpg">July 21 at 6:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-20T12:10:49.425795-04:00.jpg">
   <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-20T12:10:49.425795-04:00.jpg"
-     alt="Nieman Lab at 2022-07-20 12:10:50-04:00 local time"
+     alt="Nieman Lab at 2022-07-20 19:10:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-20T12:10:49.425795-04:00.jpg">July 20 at 12:10 PM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-20T12:10:49.425795-04:00.jpg">July 20 at 7:10 PM</a></p>
 </div>
 
 </div>

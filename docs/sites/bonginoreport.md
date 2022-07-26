@@ -25,7 +25,7 @@ The archiving routine has saved 211 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 211 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T19:09:15.762986-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T19:09:15.762986-04:00.jpg"
-     alt="Bongino Report at 2022-07-25 19:09:17-04:00 local time"
+     alt="Bongino Report at 2022-07-26 02:09:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T19:09:15.762986-04:00.jpg">July 25 at 7:09 PM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T19:09:15.762986-04:00.jpg">July 26 at 2:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T14:37:54.660935-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T14:37:54.660935-04:00.jpg"
-     alt="Bongino Report at 2022-07-25 14:37:56-04:00 local time"
+     alt="Bongino Report at 2022-07-25 21:37:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T14:37:54.660935-04:00.jpg">July 25 at 2:37 PM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T14:37:54.660935-04:00.jpg">July 25 at 9:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T12:39:44.190804-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T12:39:44.190804-04:00.jpg"
-     alt="Bongino Report at 2022-07-25 12:39:49-04:00 local time"
+     alt="Bongino Report at 2022-07-25 19:39:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T12:39:44.190804-04:00.jpg">July 25 at 12:39 PM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T12:39:44.190804-04:00.jpg">July 25 at 7:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T07:00:04.985571-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T07:00:04.985571-04:00.jpg"
-     alt="Bongino Report at 2022-07-25 07:00:11-04:00 local time"
+     alt="Bongino Report at 2022-07-25 14:00:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T07:00:04.985571-04:00.jpg">July 25 at 7:00 AM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T07:00:04.985571-04:00.jpg">July 25 at 2:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T20:51:58.399075-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T20:51:58.399075-04:00.jpg"
-     alt="Bongino Report at 2022-07-24 20:52:01-04:00 local time"
+     alt="Bongino Report at 2022-07-25 03:52:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T20:51:58.399075-04:00.jpg">July 24 at 8:52 PM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T20:51:58.399075-04:00.jpg">July 25 at 3:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T11:43:46.530251-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T11:43:46.530251-04:00.jpg"
-     alt="Bongino Report at 2022-07-24 11:43:51-04:00 local time"
+     alt="Bongino Report at 2022-07-24 18:43:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T11:43:46.530251-04:00.jpg">July 24 at 11:43 AM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T11:43:46.530251-04:00.jpg">July 24 at 6:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T06:59:21.065733-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T06:59:21.065733-04:00.jpg"
-     alt="Bongino Report at 2022-07-24 06:59:27-04:00 local time"
+     alt="Bongino Report at 2022-07-24 13:59:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T06:59:21.065733-04:00.jpg">July 24 at 6:59 AM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-24T06:59:21.065733-04:00.jpg">July 24 at 1:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T19:01:26.867831-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T19:01:26.867831-04:00.jpg"
-     alt="Bongino Report at 2022-07-23 19:01:28-04:00 local time"
+     alt="Bongino Report at 2022-07-24 02:01:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T19:01:26.867831-04:00.jpg">July 23 at 7:01 PM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T19:01:26.867831-04:00.jpg">July 24 at 2:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T12:10:36.420917-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T12:10:36.420917-04:00.jpg"
-     alt="Bongino Report at 2022-07-23 12:10:48-04:00 local time"
+     alt="Bongino Report at 2022-07-23 19:10:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T12:10:36.420917-04:00.jpg">July 23 at 12:10 PM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T12:10:36.420917-04:00.jpg">July 23 at 7:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T08:58:37.730788-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T08:58:37.730788-04:00.jpg"
-     alt="Bongino Report at 2022-07-23 08:58:39-04:00 local time"
+     alt="Bongino Report at 2022-07-23 15:58:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T08:58:37.730788-04:00.jpg">July 23 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-23T08:58:37.730788-04:00.jpg">July 23 at 3:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T20:58:57.046052-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T20:58:57.046052-04:00.jpg"
-     alt="Bongino Report at 2022-07-22 20:58:59-04:00 local time"
+     alt="Bongino Report at 2022-07-23 03:58:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T20:58:57.046052-04:00.jpg">July 22 at 8:58 PM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T20:58:57.046052-04:00.jpg">July 23 at 3:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T12:24:41.533460-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T12:24:41.533460-04:00.jpg"
-     alt="Bongino Report at 2022-07-22 12:24:43-04:00 local time"
+     alt="Bongino Report at 2022-07-22 19:24:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T12:24:41.533460-04:00.jpg">July 22 at 12:24 PM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-22T12:24:41.533460-04:00.jpg">July 22 at 7:24 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 208 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 208 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

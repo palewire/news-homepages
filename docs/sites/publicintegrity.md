@@ -25,7 +25,7 @@ The archiving routine has saved 109 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 109 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-25T11:37:56.576677-04:00.jpg">
   <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-25T11:37:56.576677-04:00.jpg"
-     alt="Center for Public Integrity at 2022-07-25 11:37:59-04:00 local time"
+     alt="Center for Public Integrity at 2022-07-25 18:37:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-25T11:37:56.576677-04:00.jpg">July 25 at 11:37 AM</a></p>
+ <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-25T11:37:56.576677-04:00.jpg">July 25 at 6:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-24T23:40:28.008023-04:00.jpg">
   <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-24T23:40:28.008023-04:00.jpg"
-     alt="Center for Public Integrity at 2022-07-24 23:40:31-04:00 local time"
+     alt="Center for Public Integrity at 2022-07-25 06:40:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-24T23:40:28.008023-04:00.jpg">July 24 at 11:40 PM</a></p>
+ <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-24T23:40:28.008023-04:00.jpg">July 25 at 6:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-24T10:00:53.073945-04:00.jpg">
   <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-24T10:00:53.073945-04:00.jpg"
-     alt="Center for Public Integrity at 2022-07-24 10:00:54-04:00 local time"
+     alt="Center for Public Integrity at 2022-07-24 17:00:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-24T10:00:53.073945-04:00.jpg">July 24 at 10:00 AM</a></p>
+ <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-24T10:00:53.073945-04:00.jpg">July 24 at 5:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-24T02:20:20.896297-04:00.jpg">
   <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-24T02:20:20.896297-04:00.jpg"
-     alt="Center for Public Integrity at 2022-07-24 02:20:23-04:00 local time"
+     alt="Center for Public Integrity at 2022-07-24 09:20:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-24T02:20:20.896297-04:00.jpg">July 24 at 2:20 AM</a></p>
+ <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-24T02:20:20.896297-04:00.jpg">July 24 at 9:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-23T11:07:14.564102-04:00.jpg">
   <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-23T11:07:14.564102-04:00.jpg"
-     alt="Center for Public Integrity at 2022-07-23 11:07:17-04:00 local time"
+     alt="Center for Public Integrity at 2022-07-23 18:07:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-23T11:07:14.564102-04:00.jpg">July 23 at 11:07 AM</a></p>
+ <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-23T11:07:14.564102-04:00.jpg">July 23 at 6:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-22T23:36:42.740458-04:00.jpg">
   <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-22T23:36:42.740458-04:00.jpg"
-     alt="Center for Public Integrity at 2022-07-22 23:36:44-04:00 local time"
+     alt="Center for Public Integrity at 2022-07-23 06:36:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-22T23:36:42.740458-04:00.jpg">July 22 at 11:36 PM</a></p>
+ <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-22T23:36:42.740458-04:00.jpg">July 23 at 6:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-22T11:03:03.248762-04:00.jpg">
   <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-22T11:03:03.248762-04:00.jpg"
-     alt="Center for Public Integrity at 2022-07-22 11:03:05-04:00 local time"
+     alt="Center for Public Integrity at 2022-07-22 18:03:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-22T11:03:03.248762-04:00.jpg">July 22 at 11:03 AM</a></p>
+ <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-22T11:03:03.248762-04:00.jpg">July 22 at 6:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-21T23:42:04.104621-04:00.jpg">
   <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-21T23:42:04.104621-04:00.jpg"
-     alt="Center for Public Integrity at 2022-07-21 23:42:07-04:00 local time"
+     alt="Center for Public Integrity at 2022-07-22 06:42:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-21T23:42:04.104621-04:00.jpg">July 21 at 11:42 PM</a></p>
+ <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-21T23:42:04.104621-04:00.jpg">July 22 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-21T11:41:09.112914-04:00.jpg">
   <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-21T11:41:09.112914-04:00.jpg"
-     alt="Center for Public Integrity at 2022-07-21 11:41:10-04:00 local time"
+     alt="Center for Public Integrity at 2022-07-21 18:41:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-21T11:41:09.112914-04:00.jpg">July 21 at 11:41 AM</a></p>
+ <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-21T11:41:09.112914-04:00.jpg">July 21 at 6:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-20T23:39:42.352335-04:00.jpg">
   <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-20T23:39:42.352335-04:00.jpg"
-     alt="Center for Public Integrity at 2022-07-20 23:39:45-04:00 local time"
+     alt="Center for Public Integrity at 2022-07-21 06:39:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-20T23:39:42.352335-04:00.jpg">July 20 at 11:39 PM</a></p>
+ <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-20T23:39:42.352335-04:00.jpg">July 21 at 6:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-20T12:14:00.731001-04:00.jpg">
   <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-20T12:14:00.731001-04:00.jpg"
-     alt="Center for Public Integrity at 2022-07-20 12:14:04-04:00 local time"
+     alt="Center for Public Integrity at 2022-07-20 19:14:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-20T12:14:00.731001-04:00.jpg">July 20 at 12:14 PM</a></p>
+ <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-20T12:14:00.731001-04:00.jpg">July 20 at 7:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-19T23:37:13.552386-04:00.jpg">
   <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-19T23:37:13.552386-04:00.jpg"
-     alt="Center for Public Integrity at 2022-07-19 23:37:15-04:00 local time"
+     alt="Center for Public Integrity at 2022-07-20 06:37:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-19T23:37:13.552386-04:00.jpg">July 19 at 11:37 PM</a></p>
+ <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-19T23:37:13.552386-04:00.jpg">July 20 at 6:37 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 111 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 111 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

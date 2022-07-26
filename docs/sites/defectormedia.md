@@ -25,7 +25,7 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T19:11:29.381905-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T19:11:29.381905-04:00.jpg"
-     alt="Defector at 2022-07-25 19:11:33-04:00 local time"
+     alt="Defector at 2022-07-26 02:11:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T19:11:29.381905-04:00.jpg">July 25 at 7:11 PM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T19:11:29.381905-04:00.jpg">July 26 at 2:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T08:00:13.488302-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T08:00:13.488302-04:00.jpg"
-     alt="Defector at 2022-07-25 08:00:17-04:00 local time"
+     alt="Defector at 2022-07-25 15:00:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T08:00:13.488302-04:00.jpg">July 25 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T08:00:13.488302-04:00.jpg">July 25 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T21:01:32.514785-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T21:01:32.514785-04:00.jpg"
-     alt="Defector at 2022-07-24 21:01:33-04:00 local time"
+     alt="Defector at 2022-07-25 04:01:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T21:01:32.514785-04:00.jpg">July 24 at 9:01 PM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T21:01:32.514785-04:00.jpg">July 25 at 4:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T07:57:29.912688-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T07:57:29.912688-04:00.jpg"
-     alt="Defector at 2022-07-24 07:57:32-04:00 local time"
+     alt="Defector at 2022-07-24 14:57:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T07:57:29.912688-04:00.jpg">July 24 at 7:57 AM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T07:57:29.912688-04:00.jpg">July 24 at 2:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T02:27:15.576068-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T02:27:15.576068-04:00.jpg"
-     alt="Defector at 2022-07-24 02:27:18-04:00 local time"
+     alt="Defector at 2022-07-24 09:27:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T02:27:15.576068-04:00.jpg">July 24 at 2:27 AM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T02:27:15.576068-04:00.jpg">July 24 at 9:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-23T09:03:20.909175-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-23T09:03:20.909175-04:00.jpg"
-     alt="Defector at 2022-07-23 09:03:23-04:00 local time"
+     alt="Defector at 2022-07-23 16:03:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-23T09:03:20.909175-04:00.jpg">July 23 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-23T09:03:20.909175-04:00.jpg">July 23 at 4:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-22T21:04:25.522500-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-22T21:04:25.522500-04:00.jpg"
-     alt="Defector at 2022-07-22 21:04:27-04:00 local time"
+     alt="Defector at 2022-07-23 04:04:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-22T21:04:25.522500-04:00.jpg">July 22 at 9:04 PM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-22T21:04:25.522500-04:00.jpg">July 23 at 4:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-22T09:04:28.652427-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-22T09:04:28.652427-04:00.jpg"
-     alt="Defector at 2022-07-22 09:04:30-04:00 local time"
+     alt="Defector at 2022-07-22 16:04:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-22T09:04:28.652427-04:00.jpg">July 22 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-22T09:04:28.652427-04:00.jpg">July 22 at 4:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-21T21:11:43.257143-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-21T21:11:43.257143-04:00.jpg"
-     alt="Defector at 2022-07-21 21:11:44-04:00 local time"
+     alt="Defector at 2022-07-22 04:11:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-21T21:11:43.257143-04:00.jpg">July 21 at 9:11 PM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-21T21:11:43.257143-04:00.jpg">July 22 at 4:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-21T08:57:35.998908-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-21T08:57:35.998908-04:00.jpg"
-     alt="Defector at 2022-07-21 08:57:37-04:00 local time"
+     alt="Defector at 2022-07-21 15:57:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-21T08:57:35.998908-04:00.jpg">July 21 at 8:57 AM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-21T08:57:35.998908-04:00.jpg">July 21 at 3:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-20T21:10:21.070259-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-20T21:10:21.070259-04:00.jpg"
-     alt="Defector at 2022-07-20 21:10:22-04:00 local time"
+     alt="Defector at 2022-07-21 04:10:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-20T21:10:21.070259-04:00.jpg">July 20 at 9:10 PM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-20T21:10:21.070259-04:00.jpg">July 21 at 4:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-20T08:57:38.835813-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-20T08:57:38.835813-04:00.jpg"
-     alt="Defector at 2022-07-20 08:57:40-04:00 local time"
+     alt="Defector at 2022-07-20 15:57:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-20T08:57:38.835813-04:00.jpg">July 20 at 8:57 AM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-20T08:57:38.835813-04:00.jpg">July 20 at 3:57 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 45 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

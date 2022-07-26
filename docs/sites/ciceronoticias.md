@@ -25,7 +25,7 @@ The archiving routine has saved 40 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 40 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-25T18:10:31.382409-05:00.jpg">
   <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-25T18:10:31.382409-05:00.jpg"
-     alt="Cicero Independiente at 2022-07-25 18:10:32-05:00 local time"
+     alt="Cicero Independiente at 2022-07-26 01:10:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-25T18:10:31.382409-05:00.jpg">July 25 at 6:10 PM</a></p>
+ <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-25T18:10:31.382409-05:00.jpg">July 26 at 1:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-25T11:36:00.198091-05:00.jpg">
   <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-25T11:36:00.198091-05:00.jpg"
-     alt="Cicero Independiente at 2022-07-25 11:36:02-05:00 local time"
+     alt="Cicero Independiente at 2022-07-25 18:36:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-25T11:36:00.198091-05:00.jpg">July 25 at 11:36 AM</a></p>
+ <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-25T11:36:00.198091-05:00.jpg">July 25 at 6:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-25T06:02:32.156569-05:00.jpg">
   <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-25T06:02:32.156569-05:00.jpg"
-     alt="Cicero Independiente at 2022-07-25 06:02:33-05:00 local time"
+     alt="Cicero Independiente at 2022-07-25 13:02:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-25T06:02:32.156569-05:00.jpg">July 25 at 6:02 AM</a></p>
+ <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-25T06:02:32.156569-05:00.jpg">July 25 at 1:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-24T19:54:54.524364-05:00.jpg">
   <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-24T19:54:54.524364-05:00.jpg"
-     alt="Cicero Independiente at 2022-07-24 19:54:55-05:00 local time"
+     alt="Cicero Independiente at 2022-07-25 02:54:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-24T19:54:54.524364-05:00.jpg">July 24 at 7:54 PM</a></p>
+ <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-24T19:54:54.524364-05:00.jpg">July 25 at 2:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-24T10:45:54.025788-05:00.jpg">
   <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-24T10:45:54.025788-05:00.jpg"
-     alt="Cicero Independiente at 2022-07-24 10:45:55-05:00 local time"
+     alt="Cicero Independiente at 2022-07-24 17:45:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-24T10:45:54.025788-05:00.jpg">July 24 at 10:45 AM</a></p>
+ <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-24T10:45:54.025788-05:00.jpg">July 24 at 5:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-24T06:01:54.851166-05:00.jpg">
   <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-24T06:01:54.851166-05:00.jpg"
-     alt="Cicero Independiente at 2022-07-24 06:01:58-05:00 local time"
+     alt="Cicero Independiente at 2022-07-24 13:01:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-24T06:01:54.851166-05:00.jpg">July 24 at 6:01 AM</a></p>
+ <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-24T06:01:54.851166-05:00.jpg">July 24 at 1:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-23T18:03:42.658203-05:00.jpg">
   <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-23T18:03:42.658203-05:00.jpg"
-     alt="Cicero Independiente at 2022-07-23 18:03:43-05:00 local time"
+     alt="Cicero Independiente at 2022-07-24 01:03:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-23T18:03:42.658203-05:00.jpg">July 23 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-23T18:03:42.658203-05:00.jpg">July 24 at 1:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-23T08:00:46.760241-05:00.jpg">
   <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-23T08:00:46.760241-05:00.jpg"
-     alt="Cicero Independiente at 2022-07-23 08:00:48-05:00 local time"
+     alt="Cicero Independiente at 2022-07-23 15:00:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-23T08:00:46.760241-05:00.jpg">July 23 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-23T08:00:46.760241-05:00.jpg">July 23 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T20:01:22.816598-05:00.jpg">
   <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T20:01:22.816598-05:00.jpg"
-     alt="Cicero Independiente at 2022-07-22 20:01:24-05:00 local time"
+     alt="Cicero Independiente at 2022-07-23 03:01:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T20:01:22.816598-05:00.jpg">July 22 at 8:01 PM</a></p>
+ <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T20:01:22.816598-05:00.jpg">July 23 at 3:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T11:23:38.325768-05:00.jpg">
   <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T11:23:38.325768-05:00.jpg"
-     alt="Cicero Independiente at 2022-07-22 11:23:40-05:00 local time"
+     alt="Cicero Independiente at 2022-07-22 18:23:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T11:23:38.325768-05:00.jpg">July 22 at 11:23 AM</a></p>
+ <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T11:23:38.325768-05:00.jpg">July 22 at 6:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T08:01:33.702714-05:00.jpg">
   <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T08:01:33.702714-05:00.jpg"
-     alt="Cicero Independiente at 2022-07-22 08:01:35-05:00 local time"
+     alt="Cicero Independiente at 2022-07-22 15:01:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T08:01:33.702714-05:00.jpg">July 22 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T08:01:33.702714-05:00.jpg">July 22 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-21T20:08:55.911780-05:00.jpg">
   <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-21T20:08:55.911780-05:00.jpg"
-     alt="Cicero Independiente at 2022-07-21 20:08:57-05:00 local time"
+     alt="Cicero Independiente at 2022-07-22 03:08:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-21T20:08:55.911780-05:00.jpg">July 21 at 8:08 PM</a></p>
+ <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-21T20:08:55.911780-05:00.jpg">July 22 at 3:08 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 40 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 40 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

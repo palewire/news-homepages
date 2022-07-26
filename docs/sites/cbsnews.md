@@ -25,7 +25,7 @@ The archiving routine has saved 469 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 469 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T19:09:50.919811-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T19:09:50.919811-04:00.jpg"
-     alt="CBS News at 2022-07-25 19:09:58-04:00 local time"
+     alt="CBS News at 2022-07-26 02:09:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T19:09:50.919811-04:00.jpg">July 25 at 7:09 PM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T19:09:50.919811-04:00.jpg">July 26 at 2:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T17:14:08.656210-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T17:14:08.656210-04:00.jpg"
-     alt="CBS News at 2022-07-25 17:14:19-04:00 local time"
+     alt="CBS News at 2022-07-26 00:14:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T17:14:08.656210-04:00.jpg">July 25 at 5:14 PM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T17:14:08.656210-04:00.jpg">July 26 at 12:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T11:55:58.222610-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T11:55:58.222610-04:00.jpg"
-     alt="CBS News at 2022-07-25 11:56:10-04:00 local time"
+     alt="CBS News at 2022-07-25 18:56:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T11:55:58.222610-04:00.jpg">July 25 at 11:56 AM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T11:55:58.222610-04:00.jpg">July 25 at 6:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T07:01:45.024272-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T07:01:45.024272-04:00.jpg"
-     alt="CBS News at 2022-07-25 07:01:52-04:00 local time"
+     alt="CBS News at 2022-07-25 14:01:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T07:01:45.024272-04:00.jpg">July 25 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T07:01:45.024272-04:00.jpg">July 25 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-24T20:53:15.178315-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-24T20:53:15.178315-04:00.jpg"
-     alt="CBS News at 2022-07-24 20:53:25-04:00 local time"
+     alt="CBS News at 2022-07-25 03:53:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-24T20:53:15.178315-04:00.jpg">July 24 at 8:53 PM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-24T20:53:15.178315-04:00.jpg">July 25 at 3:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-24T17:20:37.732991-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-24T17:20:37.732991-04:00.jpg"
-     alt="CBS News at 2022-07-24 17:20:39-04:00 local time"
+     alt="CBS News at 2022-07-25 00:20:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-24T17:20:37.732991-04:00.jpg">July 24 at 5:20 PM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-24T17:20:37.732991-04:00.jpg">July 25 at 12:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-24T11:13:04.431664-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-24T11:13:04.431664-04:00.jpg"
-     alt="CBS News at 2022-07-24 11:13:16-04:00 local time"
+     alt="CBS News at 2022-07-24 18:13:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-24T11:13:04.431664-04:00.jpg">July 24 at 11:13 AM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-24T11:13:04.431664-04:00.jpg">July 24 at 6:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-24T07:01:14.813150-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-24T07:01:14.813150-04:00.jpg"
-     alt="CBS News at 2022-07-24 07:01:25-04:00 local time"
+     alt="CBS News at 2022-07-24 14:01:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-24T07:01:14.813150-04:00.jpg">July 24 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-24T07:01:14.813150-04:00.jpg">July 24 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-23T19:02:44.519506-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-23T19:02:44.519506-04:00.jpg"
-     alt="CBS News at 2022-07-23 19:02:51-04:00 local time"
+     alt="CBS News at 2022-07-24 02:02:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-23T19:02:44.519506-04:00.jpg">July 23 at 7:02 PM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-23T19:02:44.519506-04:00.jpg">July 24 at 2:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-23T17:16:25.770600-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-23T17:16:25.770600-04:00.jpg"
-     alt="CBS News at 2022-07-23 17:16:34-04:00 local time"
+     alt="CBS News at 2022-07-24 00:16:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-23T17:16:25.770600-04:00.jpg">July 23 at 5:16 PM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-23T17:16:25.770600-04:00.jpg">July 24 at 12:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-23T10:58:16.068670-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-23T10:58:16.068670-04:00.jpg"
-     alt="CBS News at 2022-07-23 10:58:18-04:00 local time"
+     alt="CBS News at 2022-07-23 17:58:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-23T10:58:16.068670-04:00.jpg">July 23 at 10:58 AM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-23T10:58:16.068670-04:00.jpg">July 23 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-23T09:00:00.496249-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-23T09:00:00.496249-04:00.jpg"
-     alt="CBS News at 2022-07-23 09:00:03-04:00 local time"
+     alt="CBS News at 2022-07-23 16:00:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-23T09:00:00.496249-04:00.jpg">July 23 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-23T09:00:00.496249-04:00.jpg">July 23 at 4:00 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 445 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 445 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

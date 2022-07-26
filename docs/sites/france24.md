@@ -25,7 +25,7 @@ The archiving routine has saved 209 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 209 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/france24-2022/france24-2022-07-26T01:14:58.680421+02:00.jpg">
   <img src="https://archive.org/download/france24-2022/france24-2022-07-26T01:14:58.680421+02:00.jpg"
-     alt="FRANCE 24 at 2022-07-26 01:15:00+02:00 local time"
+     alt="FRANCE 24 at 2022-07-26 08:15:00+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-07-26T01:14:58.680421+02:00.jpg">July 26 at 1:15 AM</a></p>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-26T01:14:58.680421+02:00.jpg">July 26 at 8:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/france24-2022/france24-2022-07-25T14:02:43.345213+02:00.jpg">
   <img src="https://archive.org/download/france24-2022/france24-2022-07-25T14:02:43.345213+02:00.jpg"
-     alt="FRANCE 24 at 2022-07-25 14:02:49+02:00 local time"
+     alt="FRANCE 24 at 2022-07-25 21:02:49+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-07-25T14:02:43.345213+02:00.jpg">July 25 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-25T14:02:43.345213+02:00.jpg">July 25 at 9:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/france24-2022/france24-2022-07-25T10:09:11.690430+02:00.jpg">
   <img src="https://archive.org/download/france24-2022/france24-2022-07-25T10:09:11.690430+02:00.jpg"
-     alt="FRANCE 24 at 2022-07-25 10:09:16+02:00 local time"
+     alt="FRANCE 24 at 2022-07-25 17:09:16+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-07-25T10:09:11.690430+02:00.jpg">July 25 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-25T10:09:11.690430+02:00.jpg">July 25 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/france24-2022/france24-2022-07-25T03:06:58.514315+02:00.jpg">
   <img src="https://archive.org/download/france24-2022/france24-2022-07-25T03:06:58.514315+02:00.jpg"
-     alt="FRANCE 24 at 2022-07-25 03:06:59+02:00 local time"
+     alt="FRANCE 24 at 2022-07-25 10:06:59+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-07-25T03:06:58.514315+02:00.jpg">July 25 at 3:06 AM</a></p>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-25T03:06:58.514315+02:00.jpg">July 25 at 10:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/france24-2022/france24-2022-07-24T14:00:23.645851+02:00.jpg">
   <img src="https://archive.org/download/france24-2022/france24-2022-07-24T14:00:23.645851+02:00.jpg"
-     alt="FRANCE 24 at 2022-07-24 14:00:27+02:00 local time"
+     alt="FRANCE 24 at 2022-07-24 21:00:27+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-07-24T14:00:23.645851+02:00.jpg">July 24 at 2:00 PM</a></p>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-24T14:00:23.645851+02:00.jpg">July 24 at 9:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/france24-2022/france24-2022-07-24T10:10:36.133420+02:00.jpg">
   <img src="https://archive.org/download/france24-2022/france24-2022-07-24T10:10:36.133420+02:00.jpg"
-     alt="FRANCE 24 at 2022-07-24 10:10:37+02:00 local time"
+     alt="FRANCE 24 at 2022-07-24 17:10:37+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-07-24T10:10:36.133420+02:00.jpg">July 24 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-24T10:10:36.133420+02:00.jpg">July 24 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/france24-2022/france24-2022-07-24T08:29:58.423403+02:00.jpg">
   <img src="https://archive.org/download/france24-2022/france24-2022-07-24T08:29:58.423403+02:00.jpg"
-     alt="FRANCE 24 at 2022-07-24 08:30:03+02:00 local time"
+     alt="FRANCE 24 at 2022-07-24 15:30:03+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-07-24T08:29:58.423403+02:00.jpg">July 24 at 8:30 AM</a></p>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-24T08:29:58.423403+02:00.jpg">July 24 at 3:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/france24-2022/france24-2022-07-23T15:59:11.540773+02:00.jpg">
   <img src="https://archive.org/download/france24-2022/france24-2022-07-23T15:59:11.540773+02:00.jpg"
-     alt="FRANCE 24 at 2022-07-23 15:59:17+02:00 local time"
+     alt="FRANCE 24 at 2022-07-23 22:59:17+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-07-23T15:59:11.540773+02:00.jpg">July 23 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-23T15:59:11.540773+02:00.jpg">July 23 at 10:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/france24-2022/france24-2022-07-23T10:07:04.111127+02:00.jpg">
   <img src="https://archive.org/download/france24-2022/france24-2022-07-23T10:07:04.111127+02:00.jpg"
-     alt="FRANCE 24 at 2022-07-23 10:07:09+02:00 local time"
+     alt="FRANCE 24 at 2022-07-23 17:07:09+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-07-23T10:07:04.111127+02:00.jpg">July 23 at 10:07 AM</a></p>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-23T10:07:04.111127+02:00.jpg">July 23 at 5:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/france24-2022/france24-2022-07-23T04:25:43.266290+02:00.jpg">
   <img src="https://archive.org/download/france24-2022/france24-2022-07-23T04:25:43.266290+02:00.jpg"
-     alt="FRANCE 24 at 2022-07-23 04:25:48+02:00 local time"
+     alt="FRANCE 24 at 2022-07-23 11:25:48+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-07-23T04:25:43.266290+02:00.jpg">July 23 at 4:25 AM</a></p>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-23T04:25:43.266290+02:00.jpg">July 23 at 11:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/france24-2022/france24-2022-07-22T16:00:56.814909+02:00.jpg">
   <img src="https://archive.org/download/france24-2022/france24-2022-07-22T16:00:56.814909+02:00.jpg"
-     alt="FRANCE 24 at 2022-07-22 16:01:02+02:00 local time"
+     alt="FRANCE 24 at 2022-07-22 23:01:02+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-07-22T16:00:56.814909+02:00.jpg">July 22 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-22T16:00:56.814909+02:00.jpg">July 22 at 11:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/france24-2022/france24-2022-07-22T10:07:17.451873+02:00.jpg">
   <img src="https://archive.org/download/france24-2022/france24-2022-07-22T10:07:17.451873+02:00.jpg"
-     alt="FRANCE 24 at 2022-07-22 10:07:26+02:00 local time"
+     alt="FRANCE 24 at 2022-07-22 17:07:26+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-07-22T10:07:17.451873+02:00.jpg">July 22 at 10:07 AM</a></p>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-07-22T10:07:17.451873+02:00.jpg">July 22 at 5:07 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 209 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 209 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

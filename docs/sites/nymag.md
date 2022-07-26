@@ -25,7 +25,7 @@ The archiving routine has saved 48 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 48 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-25T20:21:42.348356-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-25T20:21:42.348356-04:00.jpg"
-     alt="New York at 2022-07-25 20:21:44-04:00 local time"
+     alt="New York at 2022-07-26 03:21:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-25T20:21:42.348356-04:00.jpg">July 25 at 8:21 PM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-25T20:21:42.348356-04:00.jpg">July 26 at 3:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-25T11:34:43.805849-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-25T11:34:43.805849-04:00.jpg"
-     alt="New York at 2022-07-25 11:34:45-04:00 local time"
+     alt="New York at 2022-07-25 18:34:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-25T11:34:43.805849-04:00.jpg">July 25 at 11:34 AM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-25T11:34:43.805849-04:00.jpg">July 25 at 6:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T23:37:34.889450-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-24T23:37:34.889450-04:00.jpg"
-     alt="New York at 2022-07-24 23:37:36-04:00 local time"
+     alt="New York at 2022-07-25 06:37:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T23:37:34.889450-04:00.jpg">July 24 at 11:37 PM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T23:37:34.889450-04:00.jpg">July 25 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T09:58:12.166481-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-24T09:58:12.166481-04:00.jpg"
-     alt="New York at 2022-07-24 09:58:14-04:00 local time"
+     alt="New York at 2022-07-24 16:58:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T09:58:12.166481-04:00.jpg">July 24 at 9:58 AM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T09:58:12.166481-04:00.jpg">July 24 at 4:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T02:17:27.522432-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-24T02:17:27.522432-04:00.jpg"
-     alt="New York at 2022-07-24 02:17:30-04:00 local time"
+     alt="New York at 2022-07-24 09:17:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T02:17:27.522432-04:00.jpg">July 24 at 2:17 AM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T02:17:27.522432-04:00.jpg">July 24 at 9:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-23T11:04:44.675159-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-23T11:04:44.675159-04:00.jpg"
-     alt="New York at 2022-07-23 11:04:46-04:00 local time"
+     alt="New York at 2022-07-23 18:04:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-23T11:04:44.675159-04:00.jpg">July 23 at 11:04 AM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-23T11:04:44.675159-04:00.jpg">July 23 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-22T23:34:37.529170-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-22T23:34:37.529170-04:00.jpg"
-     alt="New York at 2022-07-22 23:34:39-04:00 local time"
+     alt="New York at 2022-07-23 06:34:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-22T23:34:37.529170-04:00.jpg">July 22 at 11:34 PM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-22T23:34:37.529170-04:00.jpg">July 23 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-22T11:00:12.949201-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-22T11:00:12.949201-04:00.jpg"
-     alt="New York at 2022-07-22 11:00:15-04:00 local time"
+     alt="New York at 2022-07-22 18:00:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-22T11:00:12.949201-04:00.jpg">July 22 at 11:00 AM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-22T11:00:12.949201-04:00.jpg">July 22 at 6:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-21T23:39:18.711714-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-21T23:39:18.711714-04:00.jpg"
-     alt="New York at 2022-07-21 23:39:20-04:00 local time"
+     alt="New York at 2022-07-22 06:39:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-21T23:39:18.711714-04:00.jpg">July 21 at 11:39 PM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-21T23:39:18.711714-04:00.jpg">July 22 at 6:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-21T11:34:52.888266-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-21T11:34:52.888266-04:00.jpg"
-     alt="New York at 2022-07-21 11:34:54-04:00 local time"
+     alt="New York at 2022-07-21 18:34:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-21T11:34:52.888266-04:00.jpg">July 21 at 11:34 AM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-21T11:34:52.888266-04:00.jpg">July 21 at 6:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-20T23:37:08.362941-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-20T23:37:08.362941-04:00.jpg"
-     alt="New York at 2022-07-20 23:37:12-04:00 local time"
+     alt="New York at 2022-07-21 06:37:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-20T23:37:08.362941-04:00.jpg">July 20 at 11:37 PM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-20T23:37:08.362941-04:00.jpg">July 21 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-20T12:11:16.311567-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-20T12:11:16.311567-04:00.jpg"
-     alt="New York at 2022-07-20 12:11:19-04:00 local time"
+     alt="New York at 2022-07-20 19:11:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-20T12:11:16.311567-04:00.jpg">July 20 at 12:11 PM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-20T12:11:16.311567-04:00.jpg">July 20 at 7:11 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 45 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

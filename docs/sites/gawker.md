@@ -25,7 +25,7 @@ The archiving routine has saved 43 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 43 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-07-25T08:03:50.549485-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-07-25T08:03:50.549485-04:00.jpg"
-     alt="Gawker at 2022-07-25 08:03:55-04:00 local time"
+     alt="Gawker at 2022-07-25 15:03:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-25T08:03:50.549485-04:00.jpg">July 25 at 8:03 AM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-25T08:03:50.549485-04:00.jpg">July 25 at 3:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-07-24T21:08:32.588175-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-07-24T21:08:32.588175-04:00.jpg"
-     alt="Gawker at 2022-07-24 21:08:34-04:00 local time"
+     alt="Gawker at 2022-07-25 04:08:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-24T21:08:32.588175-04:00.jpg">July 24 at 9:08 PM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-24T21:08:32.588175-04:00.jpg">July 25 at 4:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-07-24T08:01:42.499626-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-07-24T08:01:42.499626-04:00.jpg"
-     alt="Gawker at 2022-07-24 08:01:43-04:00 local time"
+     alt="Gawker at 2022-07-24 15:01:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-24T08:01:42.499626-04:00.jpg">July 24 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-24T08:01:42.499626-04:00.jpg">July 24 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-07-24T02:31:13.904504-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-07-24T02:31:13.904504-04:00.jpg"
-     alt="Gawker at 2022-07-24 02:31:15-04:00 local time"
+     alt="Gawker at 2022-07-24 09:31:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-24T02:31:13.904504-04:00.jpg">July 24 at 2:31 AM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-24T02:31:13.904504-04:00.jpg">July 24 at 9:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-07-23T10:00:31.244913-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-07-23T10:00:31.244913-04:00.jpg"
-     alt="Gawker at 2022-07-23 10:00:34-04:00 local time"
+     alt="Gawker at 2022-07-23 17:00:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-23T10:00:31.244913-04:00.jpg">July 23 at 10:00 AM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-23T10:00:31.244913-04:00.jpg">July 23 at 5:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-07-22T22:27:01.115188-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-07-22T22:27:01.115188-04:00.jpg"
-     alt="Gawker at 2022-07-22 22:27:02-04:00 local time"
+     alt="Gawker at 2022-07-23 05:27:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-22T22:27:01.115188-04:00.jpg">July 22 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-22T22:27:01.115188-04:00.jpg">July 23 at 5:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-07-22T10:01:34.298315-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-07-22T10:01:34.298315-04:00.jpg"
-     alt="Gawker at 2022-07-22 10:01:36-04:00 local time"
+     alt="Gawker at 2022-07-22 17:01:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-22T10:01:34.298315-04:00.jpg">July 22 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-22T10:01:34.298315-04:00.jpg">July 22 at 5:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-07-21T22:21:05.005955-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-07-21T22:21:05.005955-04:00.jpg"
-     alt="Gawker at 2022-07-21 22:21:06-04:00 local time"
+     alt="Gawker at 2022-07-22 05:21:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-21T22:21:05.005955-04:00.jpg">July 21 at 10:21 PM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-21T22:21:05.005955-04:00.jpg">July 22 at 5:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-07-21T10:13:02.503312-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-07-21T10:13:02.503312-04:00.jpg"
-     alt="Gawker at 2022-07-21 10:13:04-04:00 local time"
+     alt="Gawker at 2022-07-21 17:13:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-21T10:13:02.503312-04:00.jpg">July 21 at 10:13 AM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-21T10:13:02.503312-04:00.jpg">July 21 at 5:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-07-20T22:23:37.532612-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-07-20T22:23:37.532612-04:00.jpg"
-     alt="Gawker at 2022-07-20 22:23:39-04:00 local time"
+     alt="Gawker at 2022-07-21 05:23:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-20T22:23:37.532612-04:00.jpg">July 20 at 10:23 PM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-20T22:23:37.532612-04:00.jpg">July 21 at 5:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-07-20T10:23:42.336314-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-07-20T10:23:42.336314-04:00.jpg"
-     alt="Gawker at 2022-07-20 10:23:44-04:00 local time"
+     alt="Gawker at 2022-07-20 17:23:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-20T10:23:42.336314-04:00.jpg">July 20 at 10:23 AM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-20T10:23:42.336314-04:00.jpg">July 20 at 5:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-07-19T22:17:35.742492-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-07-19T22:17:35.742492-04:00.jpg"
-     alt="Gawker at 2022-07-19 22:17:37-04:00 local time"
+     alt="Gawker at 2022-07-20 05:17:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-19T22:17:35.742492-04:00.jpg">July 19 at 10:17 PM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-19T22:17:35.742492-04:00.jpg">July 20 at 5:17 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 43 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

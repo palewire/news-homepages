@@ -25,7 +25,7 @@ The archiving routine has saved 57 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 57 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-24T23:46:48.942055-07:00.jpg">
   <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-24T23:46:48.942055-07:00.jpg"
-     alt="Gizmodo at 2022-07-24 23:46:53-07:00 local time"
+     alt="Gizmodo at 2022-07-25 06:46:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-24T23:46:48.942055-07:00.jpg">July 24 at 11:46 PM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-24T23:46:48.942055-07:00.jpg">July 25 at 6:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-24T18:09:06.593856-07:00.jpg">
   <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-24T18:09:06.593856-07:00.jpg"
-     alt="Gizmodo at 2022-07-24 18:09:08-07:00 local time"
+     alt="Gizmodo at 2022-07-25 01:09:08-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-24T18:09:06.593856-07:00.jpg">July 24 at 6:09 PM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-24T18:09:06.593856-07:00.jpg">July 25 at 1:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-24T05:02:15.074336-07:00.jpg">
   <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-24T05:02:15.074336-07:00.jpg"
-     alt="Gizmodo at 2022-07-24 05:02:17-07:00 local time"
+     alt="Gizmodo at 2022-07-24 12:02:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-24T05:02:15.074336-07:00.jpg">July 24 at 5:02 AM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-24T05:02:15.074336-07:00.jpg">July 24 at 12:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-23T23:31:29.547048-07:00.jpg">
   <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-23T23:31:29.547048-07:00.jpg"
-     alt="Gizmodo at 2022-07-23 23:31:30-07:00 local time"
+     alt="Gizmodo at 2022-07-24 06:31:30-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-23T23:31:29.547048-07:00.jpg">July 23 at 11:31 PM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-23T23:31:29.547048-07:00.jpg">July 24 at 6:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-23T07:01:18.334486-07:00.jpg">
   <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-23T07:01:18.334486-07:00.jpg"
-     alt="Gizmodo at 2022-07-23 07:01:20-07:00 local time"
+     alt="Gizmodo at 2022-07-23 14:01:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-23T07:01:18.334486-07:00.jpg">July 23 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-23T07:01:18.334486-07:00.jpg">July 23 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-22T19:27:35.845551-07:00.jpg">
   <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-22T19:27:35.845551-07:00.jpg"
-     alt="Gizmodo at 2022-07-22 19:27:37-07:00 local time"
+     alt="Gizmodo at 2022-07-23 02:27:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-22T19:27:35.845551-07:00.jpg">July 22 at 7:27 PM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-22T19:27:35.845551-07:00.jpg">July 23 at 2:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-22T07:02:08.945430-07:00.jpg">
   <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-22T07:02:08.945430-07:00.jpg"
-     alt="Gizmodo at 2022-07-22 07:02:10-07:00 local time"
+     alt="Gizmodo at 2022-07-22 14:02:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-22T07:02:08.945430-07:00.jpg">July 22 at 7:02 AM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-22T07:02:08.945430-07:00.jpg">July 22 at 2:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-21T19:21:47.482932-07:00.jpg">
   <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-21T19:21:47.482932-07:00.jpg"
-     alt="Gizmodo at 2022-07-21 19:21:48-07:00 local time"
+     alt="Gizmodo at 2022-07-22 02:21:48-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-21T19:21:47.482932-07:00.jpg">July 21 at 7:21 PM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-21T19:21:47.482932-07:00.jpg">July 22 at 2:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-21T07:10:22.960970-07:00.jpg">
   <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-21T07:10:22.960970-07:00.jpg"
-     alt="Gizmodo at 2022-07-21 07:10:25-07:00 local time"
+     alt="Gizmodo at 2022-07-21 14:10:25-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-21T07:10:22.960970-07:00.jpg">July 21 at 7:10 AM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-21T07:10:22.960970-07:00.jpg">July 21 at 2:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-20T19:24:43.427772-07:00.jpg">
   <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-20T19:24:43.427772-07:00.jpg"
-     alt="Gizmodo at 2022-07-20 19:24:44-07:00 local time"
+     alt="Gizmodo at 2022-07-21 02:24:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-20T19:24:43.427772-07:00.jpg">July 20 at 7:24 PM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-20T19:24:43.427772-07:00.jpg">July 21 at 2:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-20T07:24:11.930269-07:00.jpg">
   <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-20T07:24:11.930269-07:00.jpg"
-     alt="Gizmodo at 2022-07-20 07:24:14-07:00 local time"
+     alt="Gizmodo at 2022-07-20 14:24:14-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-20T07:24:11.930269-07:00.jpg">July 20 at 7:24 AM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-20T07:24:11.930269-07:00.jpg">July 20 at 2:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-19T19:18:13.790554-07:00.jpg">
   <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-19T19:18:13.790554-07:00.jpg"
-     alt="Gizmodo at 2022-07-19 19:18:15-07:00 local time"
+     alt="Gizmodo at 2022-07-20 02:18:15-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-19T19:18:13.790554-07:00.jpg">July 19 at 7:18 PM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-19T19:18:13.790554-07:00.jpg">July 20 at 2:18 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 40 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 40 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

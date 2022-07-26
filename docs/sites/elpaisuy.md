@@ -25,7 +25,7 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-25T09:00:59.904969-03:00.jpg">
   <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-25T09:00:59.904969-03:00.jpg"
-     alt="El Pais at 2022-07-25 09:01:03-03:00 local time"
+     alt="El Pais at 2022-07-25 16:01:03-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-25T09:00:59.904969-03:00.jpg">July 25 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-25T09:00:59.904969-03:00.jpg">July 25 at 4:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T22:02:48.368083-03:00.jpg">
   <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T22:02:48.368083-03:00.jpg"
-     alt="El Pais at 2022-07-24 22:02:50-03:00 local time"
+     alt="El Pais at 2022-07-25 05:02:50-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T22:02:48.368083-03:00.jpg">July 24 at 10:02 PM</a></p>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T22:02:48.368083-03:00.jpg">July 25 at 5:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T08:57:57.462483-03:00.jpg">
   <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T08:57:57.462483-03:00.jpg"
-     alt="El Pais at 2022-07-24 08:58:01-03:00 local time"
+     alt="El Pais at 2022-07-24 15:58:01-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T08:57:57.462483-03:00.jpg">July 24 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T08:57:57.462483-03:00.jpg">July 24 at 3:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T03:28:39.853866-03:00.jpg">
   <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T03:28:39.853866-03:00.jpg"
-     alt="El Pais at 2022-07-24 03:28:43-03:00 local time"
+     alt="El Pais at 2022-07-24 10:28:43-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T03:28:39.853866-03:00.jpg">July 24 at 3:28 AM</a></p>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T03:28:39.853866-03:00.jpg">July 24 at 10:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-23T10:58:17.669704-03:00.jpg">
   <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-23T10:58:17.669704-03:00.jpg"
-     alt="El Pais at 2022-07-23 10:58:21-03:00 local time"
+     alt="El Pais at 2022-07-23 17:58:21-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-23T10:58:17.669704-03:00.jpg">July 23 at 10:58 AM</a></p>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-23T10:58:17.669704-03:00.jpg">July 23 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-22T23:24:45.798704-03:00.jpg">
   <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-22T23:24:45.798704-03:00.jpg"
-     alt="El Pais at 2022-07-22 23:24:47-03:00 local time"
+     alt="El Pais at 2022-07-23 06:24:47-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-22T23:24:45.798704-03:00.jpg">July 22 at 11:24 PM</a></p>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-22T23:24:45.798704-03:00.jpg">July 23 at 6:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-22T10:59:21.061922-03:00.jpg">
   <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-22T10:59:21.061922-03:00.jpg"
-     alt="El Pais at 2022-07-22 10:59:28-03:00 local time"
+     alt="El Pais at 2022-07-22 17:59:28-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-22T10:59:21.061922-03:00.jpg">July 22 at 10:59 AM</a></p>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-22T10:59:21.061922-03:00.jpg">July 22 at 5:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-21T23:18:27.551249-03:00.jpg">
   <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-21T23:18:27.551249-03:00.jpg"
-     alt="El Pais at 2022-07-21 23:18:29-03:00 local time"
+     alt="El Pais at 2022-07-22 06:18:29-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-21T23:18:27.551249-03:00.jpg">July 21 at 11:18 PM</a></p>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-21T23:18:27.551249-03:00.jpg">July 22 at 6:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-21T11:04:02.664270-03:00.jpg">
   <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-21T11:04:02.664270-03:00.jpg"
-     alt="El Pais at 2022-07-21 11:04:04-03:00 local time"
+     alt="El Pais at 2022-07-21 18:04:04-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-21T11:04:02.664270-03:00.jpg">July 21 at 11:04 AM</a></p>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-21T11:04:02.664270-03:00.jpg">July 21 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-20T23:21:23.370458-03:00.jpg">
   <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-20T23:21:23.370458-03:00.jpg"
-     alt="El Pais at 2022-07-20 23:21:25-03:00 local time"
+     alt="El Pais at 2022-07-21 06:21:25-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-20T23:21:23.370458-03:00.jpg">July 20 at 11:21 PM</a></p>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-20T23:21:23.370458-03:00.jpg">July 21 at 6:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-20T11:18:41.974205-03:00.jpg">
   <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-20T11:18:41.974205-03:00.jpg"
-     alt="El Pais at 2022-07-20 11:18:44-03:00 local time"
+     alt="El Pais at 2022-07-20 18:18:44-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-20T11:18:41.974205-03:00.jpg">July 20 at 11:18 AM</a></p>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-20T11:18:41.974205-03:00.jpg">July 20 at 6:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-19T23:15:56.445606-03:00.jpg">
   <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-19T23:15:56.445606-03:00.jpg"
-     alt="El Pais at 2022-07-19 23:15:58-03:00 local time"
+     alt="El Pais at 2022-07-20 06:15:58-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-19T23:15:56.445606-03:00.jpg">July 19 at 11:15 PM</a></p>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-19T23:15:56.445606-03:00.jpg">July 20 at 6:15 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 34 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

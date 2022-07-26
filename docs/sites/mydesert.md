@@ -25,7 +25,7 @@ The archiving routine has saved 279 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 279 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T17:19:59.519532-07:00.jpg">
   <img src="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T17:19:59.519532-07:00.jpg"
-     alt="The Desert Sun at 2022-07-25 17:20:01-07:00 local time"
+     alt="The Desert Sun at 2022-07-26 00:20:01-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T17:19:59.519532-07:00.jpg">July 25 at 5:20 PM</a></p>
+ <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T17:19:59.519532-07:00.jpg">July 26 at 12:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T11:14:33.796728-07:00.jpg">
   <img src="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T11:14:33.796728-07:00.jpg"
-     alt="The Desert Sun at 2022-07-25 11:14:37-07:00 local time"
+     alt="The Desert Sun at 2022-07-25 18:14:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T11:14:33.796728-07:00.jpg">July 25 at 11:14 AM</a></p>
+ <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T11:14:33.796728-07:00.jpg">July 25 at 6:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T06:15:43.365706-07:00.jpg">
   <img src="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T06:15:43.365706-07:00.jpg"
-     alt="The Desert Sun at 2022-07-25 06:15:54-07:00 local time"
+     alt="The Desert Sun at 2022-07-25 13:15:54-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T06:15:43.365706-07:00.jpg">July 25 at 6:15 AM</a></p>
+ <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-25T06:15:43.365706-07:00.jpg">July 25 at 1:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-24T20:34:08.502183-07:00.jpg">
   <img src="https://archive.org/download/mydesert-2022/mydesert-2022-07-24T20:34:08.502183-07:00.jpg"
-     alt="The Desert Sun at 2022-07-24 20:34:09-07:00 local time"
+     alt="The Desert Sun at 2022-07-25 03:34:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-24T20:34:08.502183-07:00.jpg">July 24 at 8:34 PM</a></p>
+ <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-24T20:34:08.502183-07:00.jpg">July 25 at 3:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-24T11:20:42.567283-07:00.jpg">
   <img src="https://archive.org/download/mydesert-2022/mydesert-2022-07-24T11:20:42.567283-07:00.jpg"
-     alt="The Desert Sun at 2022-07-24 11:20:53-07:00 local time"
+     alt="The Desert Sun at 2022-07-24 18:20:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-24T11:20:42.567283-07:00.jpg">July 24 at 11:20 AM</a></p>
+ <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-24T11:20:42.567283-07:00.jpg">July 24 at 6:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-24T06:03:59.088626-07:00.jpg">
   <img src="https://archive.org/download/mydesert-2022/mydesert-2022-07-24T06:03:59.088626-07:00.jpg"
-     alt="The Desert Sun at 2022-07-24 06:04:00-07:00 local time"
+     alt="The Desert Sun at 2022-07-24 13:04:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-24T06:03:59.088626-07:00.jpg">July 24 at 6:04 AM</a></p>
+ <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-24T06:03:59.088626-07:00.jpg">July 24 at 1:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-23T21:20:09.015575-07:00.jpg">
   <img src="https://archive.org/download/mydesert-2022/mydesert-2022-07-23T21:20:09.015575-07:00.jpg"
-     alt="The Desert Sun at 2022-07-23 21:20:10-07:00 local time"
+     alt="The Desert Sun at 2022-07-24 04:20:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-23T21:20:09.015575-07:00.jpg">July 23 at 9:20 PM</a></p>
+ <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-23T21:20:09.015575-07:00.jpg">July 24 at 4:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-23T11:24:00.719459-07:00.jpg">
   <img src="https://archive.org/download/mydesert-2022/mydesert-2022-07-23T11:24:00.719459-07:00.jpg"
-     alt="The Desert Sun at 2022-07-23 11:24:03-07:00 local time"
+     alt="The Desert Sun at 2022-07-23 18:24:03-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-23T11:24:00.719459-07:00.jpg">July 23 at 11:24 AM</a></p>
+ <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-23T11:24:00.719459-07:00.jpg">July 23 at 6:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-23T08:02:24.031811-07:00.jpg">
   <img src="https://archive.org/download/mydesert-2022/mydesert-2022-07-23T08:02:24.031811-07:00.jpg"
-     alt="The Desert Sun at 2022-07-23 08:02:28-07:00 local time"
+     alt="The Desert Sun at 2022-07-23 15:02:28-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-23T08:02:24.031811-07:00.jpg">July 23 at 8:02 AM</a></p>
+ <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-23T08:02:24.031811-07:00.jpg">July 23 at 3:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-22T20:32:37.170843-07:00.jpg">
   <img src="https://archive.org/download/mydesert-2022/mydesert-2022-07-22T20:32:37.170843-07:00.jpg"
-     alt="The Desert Sun at 2022-07-22 20:32:38-07:00 local time"
+     alt="The Desert Sun at 2022-07-23 03:32:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-22T20:32:37.170843-07:00.jpg">July 22 at 8:32 PM</a></p>
+ <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-22T20:32:37.170843-07:00.jpg">July 23 at 3:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-22T11:08:37.893853-07:00.jpg">
   <img src="https://archive.org/download/mydesert-2022/mydesert-2022-07-22T11:08:37.893853-07:00.jpg"
-     alt="The Desert Sun at 2022-07-22 11:08:45-07:00 local time"
+     alt="The Desert Sun at 2022-07-22 18:08:45-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-22T11:08:37.893853-07:00.jpg">July 22 at 11:08 AM</a></p>
+ <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-22T11:08:37.893853-07:00.jpg">July 22 at 6:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-22T07:57:42.493087-07:00.jpg">
   <img src="https://archive.org/download/mydesert-2022/mydesert-2022-07-22T07:57:42.493087-07:00.jpg"
-     alt="The Desert Sun at 2022-07-22 07:57:48-07:00 local time"
+     alt="The Desert Sun at 2022-07-22 14:57:48-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-22T07:57:42.493087-07:00.jpg">July 22 at 7:57 AM</a></p>
+ <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-07-22T07:57:42.493087-07:00.jpg">July 22 at 2:57 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 268 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 268 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

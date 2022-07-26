@@ -25,7 +25,7 @@ The archiving routine has saved 48 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 48 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/ny1-2022/ny1-2022-07-25T20:22:39.268061-04:00.jpg">
   <img src="https://archive.org/download/ny1-2022/ny1-2022-07-25T20:22:39.268061-04:00.jpg"
-     alt="NY1 at 2022-07-25 20:22:41-04:00 local time"
+     alt="NY1 at 2022-07-26 03:22:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-25T20:22:39.268061-04:00.jpg">July 25 at 8:22 PM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-25T20:22:39.268061-04:00.jpg">July 26 at 3:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ny1-2022/ny1-2022-07-25T11:33:35.237991-04:00.jpg">
   <img src="https://archive.org/download/ny1-2022/ny1-2022-07-25T11:33:35.237991-04:00.jpg"
-     alt="NY1 at 2022-07-25 11:33:38-04:00 local time"
+     alt="NY1 at 2022-07-25 18:33:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-25T11:33:35.237991-04:00.jpg">July 25 at 11:33 AM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-25T11:33:35.237991-04:00.jpg">July 25 at 6:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ny1-2022/ny1-2022-07-24T23:37:07.729146-04:00.jpg">
   <img src="https://archive.org/download/ny1-2022/ny1-2022-07-24T23:37:07.729146-04:00.jpg"
-     alt="NY1 at 2022-07-24 23:37:09-04:00 local time"
+     alt="NY1 at 2022-07-25 06:37:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-24T23:37:07.729146-04:00.jpg">July 24 at 11:37 PM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-24T23:37:07.729146-04:00.jpg">July 25 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ny1-2022/ny1-2022-07-24T09:58:27.410915-04:00.jpg">
   <img src="https://archive.org/download/ny1-2022/ny1-2022-07-24T09:58:27.410915-04:00.jpg"
-     alt="NY1 at 2022-07-24 09:58:29-04:00 local time"
+     alt="NY1 at 2022-07-24 16:58:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-24T09:58:27.410915-04:00.jpg">July 24 at 9:58 AM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-24T09:58:27.410915-04:00.jpg">July 24 at 4:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ny1-2022/ny1-2022-07-24T02:16:38.989263-04:00.jpg">
   <img src="https://archive.org/download/ny1-2022/ny1-2022-07-24T02:16:38.989263-04:00.jpg"
-     alt="NY1 at 2022-07-24 02:16:40-04:00 local time"
+     alt="NY1 at 2022-07-24 09:16:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-24T02:16:38.989263-04:00.jpg">July 24 at 2:16 AM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-24T02:16:38.989263-04:00.jpg">July 24 at 9:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ny1-2022/ny1-2022-07-23T11:04:40.016970-04:00.jpg">
   <img src="https://archive.org/download/ny1-2022/ny1-2022-07-23T11:04:40.016970-04:00.jpg"
-     alt="NY1 at 2022-07-23 11:04:42-04:00 local time"
+     alt="NY1 at 2022-07-23 18:04:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-23T11:04:40.016970-04:00.jpg">July 23 at 11:04 AM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-23T11:04:40.016970-04:00.jpg">July 23 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ny1-2022/ny1-2022-07-22T23:34:17.100653-04:00.jpg">
   <img src="https://archive.org/download/ny1-2022/ny1-2022-07-22T23:34:17.100653-04:00.jpg"
-     alt="NY1 at 2022-07-22 23:34:18-04:00 local time"
+     alt="NY1 at 2022-07-23 06:34:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-22T23:34:17.100653-04:00.jpg">July 22 at 11:34 PM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-22T23:34:17.100653-04:00.jpg">July 23 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ny1-2022/ny1-2022-07-22T11:00:15.910792-04:00.jpg">
   <img src="https://archive.org/download/ny1-2022/ny1-2022-07-22T11:00:15.910792-04:00.jpg"
-     alt="NY1 at 2022-07-22 11:00:18-04:00 local time"
+     alt="NY1 at 2022-07-22 18:00:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-22T11:00:15.910792-04:00.jpg">July 22 at 11:00 AM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-22T11:00:15.910792-04:00.jpg">July 22 at 6:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ny1-2022/ny1-2022-07-21T23:38:47.686080-04:00.jpg">
   <img src="https://archive.org/download/ny1-2022/ny1-2022-07-21T23:38:47.686080-04:00.jpg"
-     alt="NY1 at 2022-07-21 23:38:50-04:00 local time"
+     alt="NY1 at 2022-07-22 06:38:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-21T23:38:47.686080-04:00.jpg">July 21 at 11:38 PM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-21T23:38:47.686080-04:00.jpg">July 22 at 6:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ny1-2022/ny1-2022-07-21T11:34:29.723258-04:00.jpg">
   <img src="https://archive.org/download/ny1-2022/ny1-2022-07-21T11:34:29.723258-04:00.jpg"
-     alt="NY1 at 2022-07-21 11:34:31-04:00 local time"
+     alt="NY1 at 2022-07-21 18:34:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-21T11:34:29.723258-04:00.jpg">July 21 at 11:34 AM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-21T11:34:29.723258-04:00.jpg">July 21 at 6:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ny1-2022/ny1-2022-07-20T23:36:57.835661-04:00.jpg">
   <img src="https://archive.org/download/ny1-2022/ny1-2022-07-20T23:36:57.835661-04:00.jpg"
-     alt="NY1 at 2022-07-20 23:36:59-04:00 local time"
+     alt="NY1 at 2022-07-21 06:36:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-20T23:36:57.835661-04:00.jpg">July 20 at 11:36 PM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-20T23:36:57.835661-04:00.jpg">July 21 at 6:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ny1-2022/ny1-2022-07-20T12:11:42.608295-04:00.jpg">
   <img src="https://archive.org/download/ny1-2022/ny1-2022-07-20T12:11:42.608295-04:00.jpg"
-     alt="NY1 at 2022-07-20 12:11:44-04:00 local time"
+     alt="NY1 at 2022-07-20 19:11:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-20T12:11:42.608295-04:00.jpg">July 20 at 12:11 PM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-20T12:11:42.608295-04:00.jpg">July 20 at 7:11 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 47 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

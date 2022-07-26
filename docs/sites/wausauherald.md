@@ -25,7 +25,7 @@ The archiving routine has saved 185 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 185 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-25T10:52:56.827637-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-25T10:52:56.827637-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-07-25 10:53:10-05:00 local time"
+     alt="Wausau Daily Herald at 2022-07-25 17:53:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-25T10:52:56.827637-05:00.jpg">July 25 at 10:53 AM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-25T10:52:56.827637-05:00.jpg">July 25 at 5:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-24T23:40:55.727327-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-24T23:40:55.727327-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-07-24 23:41:06-05:00 local time"
+     alt="Wausau Daily Herald at 2022-07-25 06:41:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-24T23:40:55.727327-05:00.jpg">July 24 at 11:41 PM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-24T23:40:55.727327-05:00.jpg">July 25 at 6:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-24T10:11:48.972260-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-24T10:11:48.972260-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-07-24 10:11:54-05:00 local time"
+     alt="Wausau Daily Herald at 2022-07-24 17:11:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-24T10:11:48.972260-05:00.jpg">July 24 at 10:11 AM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-24T10:11:48.972260-05:00.jpg">July 24 at 5:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-23T22:46:56.412008-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-23T22:46:56.412008-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-07-23 22:47:05-05:00 local time"
+     alt="Wausau Daily Herald at 2022-07-24 05:47:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-23T22:46:56.412008-05:00.jpg">July 23 at 10:47 PM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-23T22:46:56.412008-05:00.jpg">July 24 at 5:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-23T11:09:00.643086-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-23T11:09:00.643086-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-07-23 11:09:06-05:00 local time"
+     alt="Wausau Daily Herald at 2022-07-23 18:09:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-23T11:09:00.643086-05:00.jpg">July 23 at 11:09 AM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-23T11:09:00.643086-05:00.jpg">July 23 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-22T23:28:29.992503-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-22T23:28:29.992503-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-07-22 23:28:36-05:00 local time"
+     alt="Wausau Daily Herald at 2022-07-23 06:28:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-22T23:28:29.992503-05:00.jpg">July 22 at 11:28 PM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-22T23:28:29.992503-05:00.jpg">July 23 at 6:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-22T11:21:31.211906-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-22T11:21:31.211906-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-07-22 11:21:37-05:00 local time"
+     alt="Wausau Daily Herald at 2022-07-22 18:21:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-22T11:21:31.211906-05:00.jpg">July 22 at 11:21 AM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-22T11:21:31.211906-05:00.jpg">July 22 at 6:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-21T23:35:42.733861-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-21T23:35:42.733861-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-07-21 23:35:45-05:00 local time"
+     alt="Wausau Daily Herald at 2022-07-22 06:35:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-21T23:35:42.733861-05:00.jpg">July 21 at 11:35 PM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-21T23:35:42.733861-05:00.jpg">July 22 at 6:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-21T11:59:35.927946-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-21T11:59:35.927946-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-07-21 11:59:40-05:00 local time"
+     alt="Wausau Daily Herald at 2022-07-21 18:59:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-21T11:59:35.927946-05:00.jpg">July 21 at 11:59 AM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-21T11:59:35.927946-05:00.jpg">July 21 at 6:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-20T23:33:08.792112-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-20T23:33:08.792112-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-07-20 23:33:13-05:00 local time"
+     alt="Wausau Daily Herald at 2022-07-21 06:33:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-20T23:33:08.792112-05:00.jpg">July 20 at 11:33 PM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-20T23:33:08.792112-05:00.jpg">July 21 at 6:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-20T11:50:12.324913-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-20T11:50:12.324913-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-07-20 11:50:17-05:00 local time"
+     alt="Wausau Daily Herald at 2022-07-20 18:50:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-20T11:50:12.324913-05:00.jpg">July 20 at 11:50 AM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-20T11:50:12.324913-05:00.jpg">July 20 at 6:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-19T23:25:15.101613-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-19T23:25:15.101613-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-07-19 23:25:20-05:00 local time"
+     alt="Wausau Daily Herald at 2022-07-20 06:25:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-19T23:25:15.101613-05:00.jpg">July 19 at 11:25 PM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-19T23:25:15.101613-05:00.jpg">July 20 at 6:25 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 177 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 177 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

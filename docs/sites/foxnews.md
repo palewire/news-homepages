@@ -25,7 +25,7 @@ The archiving routine has saved 483 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 483 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T17:14:08.820975-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T17:14:08.820975-04:00.jpg"
-     alt="Fox News at 2022-07-25 17:14:22-04:00 local time"
+     alt="Fox News at 2022-07-26 00:14:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T17:14:08.820975-04:00.jpg">July 25 at 5:14 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T17:14:08.820975-04:00.jpg">July 26 at 12:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T14:38:27.672770-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T14:38:27.672770-04:00.jpg"
-     alt="Fox News at 2022-07-25 14:38:28-04:00 local time"
+     alt="Fox News at 2022-07-25 21:38:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T14:38:27.672770-04:00.jpg">July 25 at 2:38 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T14:38:27.672770-04:00.jpg">July 25 at 9:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T12:41:05.077219-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T12:41:05.077219-04:00.jpg"
-     alt="Fox News at 2022-07-25 12:41:06-04:00 local time"
+     alt="Fox News at 2022-07-25 19:41:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T12:41:05.077219-04:00.jpg">July 25 at 12:41 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T12:41:05.077219-04:00.jpg">July 25 at 7:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T11:54:39.958798-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T11:54:39.958798-04:00.jpg"
-     alt="Fox News at 2022-07-25 11:54:41-04:00 local time"
+     alt="Fox News at 2022-07-25 18:54:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T11:54:39.958798-04:00.jpg">July 25 at 11:54 AM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T11:54:39.958798-04:00.jpg">July 25 at 6:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T08:03:30.222887-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T08:03:30.222887-04:00.jpg"
-     alt="Fox News at 2022-07-25 08:03:55-04:00 local time"
+     alt="Fox News at 2022-07-25 15:03:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T08:03:30.222887-04:00.jpg">July 25 at 8:03 AM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T08:03:30.222887-04:00.jpg">July 25 at 3:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T21:07:04.496350-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T21:07:04.496350-04:00.jpg"
-     alt="Fox News at 2022-07-24 21:07:06-04:00 local time"
+     alt="Fox News at 2022-07-25 04:07:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T21:07:04.496350-04:00.jpg">July 24 at 9:07 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T21:07:04.496350-04:00.jpg">July 25 at 4:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T17:20:19.993434-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T17:20:19.993434-04:00.jpg"
-     alt="Fox News at 2022-07-24 17:20:41-04:00 local time"
+     alt="Fox News at 2022-07-25 00:20:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T17:20:19.993434-04:00.jpg">July 24 at 5:20 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T17:20:19.993434-04:00.jpg">July 25 at 12:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T11:44:31.689494-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T11:44:31.689494-04:00.jpg"
-     alt="Fox News at 2022-07-24 11:44:33-04:00 local time"
+     alt="Fox News at 2022-07-24 18:44:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T11:44:31.689494-04:00.jpg">July 24 at 11:44 AM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T11:44:31.689494-04:00.jpg">July 24 at 6:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T11:12:57.550693-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T11:12:57.550693-04:00.jpg"
-     alt="Fox News at 2022-07-24 11:13:21-04:00 local time"
+     alt="Fox News at 2022-07-24 18:13:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T11:12:57.550693-04:00.jpg">July 24 at 11:13 AM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T11:12:57.550693-04:00.jpg">July 24 at 6:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T08:00:39.621504-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T08:00:39.621504-04:00.jpg"
-     alt="Fox News at 2022-07-24 08:01:01-04:00 local time"
+     alt="Fox News at 2022-07-24 15:01:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T08:00:39.621504-04:00.jpg">July 24 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T08:00:39.621504-04:00.jpg">July 24 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T02:30:16.057549-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T02:30:16.057549-04:00.jpg"
-     alt="Fox News at 2022-07-24 02:30:39-04:00 local time"
+     alt="Fox News at 2022-07-24 09:30:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T02:30:16.057549-04:00.jpg">July 24 at 2:30 AM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T02:30:16.057549-04:00.jpg">July 24 at 9:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-23T17:16:36.138511-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-07-23T17:16:36.138511-04:00.jpg"
-     alt="Fox News at 2022-07-23 17:16:59-04:00 local time"
+     alt="Fox News at 2022-07-24 00:16:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-23T17:16:36.138511-04:00.jpg">July 23 at 5:16 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-23T17:16:36.138511-04:00.jpg">July 24 at 12:16 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 433 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 433 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

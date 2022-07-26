@@ -25,7 +25,7 @@ The archiving routine has saved 60 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 60 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-26T00:12:41.284385+01:00.jpg">
   <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-26T00:12:41.284385+01:00.jpg"
-     alt="Evening Standard at 2022-07-26 00:12:43+01:00 local time"
+     alt="Evening Standard at 2022-07-26 07:12:43+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-26T00:12:41.284385+01:00.jpg">July 26 at 12:12 AM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-26T00:12:41.284385+01:00.jpg">July 26 at 7:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T13:01:52.582409+01:00.jpg">
   <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T13:01:52.582409+01:00.jpg"
-     alt="Evening Standard at 2022-07-25 13:01:54+01:00 local time"
+     alt="Evening Standard at 2022-07-25 20:01:54+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T13:01:52.582409+01:00.jpg">July 25 at 1:01 PM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T13:01:52.582409+01:00.jpg">July 25 at 8:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T10:09:38.022202+01:00.jpg">
   <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T10:09:38.022202+01:00.jpg"
-     alt="Evening Standard at 2022-07-25 10:09:39+01:00 local time"
+     alt="Evening Standard at 2022-07-25 17:09:39+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T10:09:38.022202+01:00.jpg">July 25 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T10:09:38.022202+01:00.jpg">July 25 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T02:03:30.186554+01:00.jpg">
   <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T02:03:30.186554+01:00.jpg"
-     alt="Evening Standard at 2022-07-25 02:03:31+01:00 local time"
+     alt="Evening Standard at 2022-07-25 09:03:31+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T02:03:30.186554+01:00.jpg">July 25 at 2:03 AM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T02:03:30.186554+01:00.jpg">July 25 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T12:58:41.009689+01:00.jpg">
   <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T12:58:41.009689+01:00.jpg"
-     alt="Evening Standard at 2022-07-24 12:58:43+01:00 local time"
+     alt="Evening Standard at 2022-07-24 19:58:43+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T12:58:41.009689+01:00.jpg">July 24 at 12:58 PM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T12:58:41.009689+01:00.jpg">July 24 at 7:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T10:09:57.034151+01:00.jpg">
   <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T10:09:57.034151+01:00.jpg"
-     alt="Evening Standard at 2022-07-24 10:10:02+01:00 local time"
+     alt="Evening Standard at 2022-07-24 17:10:02+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T10:09:57.034151+01:00.jpg">July 24 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T10:09:57.034151+01:00.jpg">July 24 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T07:28:26.032970+01:00.jpg">
   <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T07:28:26.032970+01:00.jpg"
-     alt="Evening Standard at 2022-07-24 07:28:28+01:00 local time"
+     alt="Evening Standard at 2022-07-24 14:28:28+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T07:28:26.032970+01:00.jpg">July 24 at 7:28 AM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T07:28:26.032970+01:00.jpg">July 24 at 2:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T14:57:54.753789+01:00.jpg">
   <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T14:57:54.753789+01:00.jpg"
-     alt="Evening Standard at 2022-07-23 14:58:00+01:00 local time"
+     alt="Evening Standard at 2022-07-23 21:58:00+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T14:57:54.753789+01:00.jpg">July 23 at 2:58 PM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T14:57:54.753789+01:00.jpg">July 23 at 9:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T10:06:26.046911+01:00.jpg">
   <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T10:06:26.046911+01:00.jpg"
-     alt="Evening Standard at 2022-07-23 10:06:27+01:00 local time"
+     alt="Evening Standard at 2022-07-23 17:06:27+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T10:06:26.046911+01:00.jpg">July 23 at 10:06 AM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T10:06:26.046911+01:00.jpg">July 23 at 5:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T03:24:45.738979+01:00.jpg">
   <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T03:24:45.738979+01:00.jpg"
-     alt="Evening Standard at 2022-07-23 03:24:49+01:00 local time"
+     alt="Evening Standard at 2022-07-23 10:24:49+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T03:24:45.738979+01:00.jpg">July 23 at 3:24 AM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T03:24:45.738979+01:00.jpg">July 23 at 10:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-22T14:59:05.048203+01:00.jpg">
   <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-22T14:59:05.048203+01:00.jpg"
-     alt="Evening Standard at 2022-07-22 14:59:08+01:00 local time"
+     alt="Evening Standard at 2022-07-22 21:59:08+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-22T14:59:05.048203+01:00.jpg">July 22 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-22T14:59:05.048203+01:00.jpg">July 22 at 9:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-22T10:07:12.378370+01:00.jpg">
   <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-22T10:07:12.378370+01:00.jpg"
-     alt="Evening Standard at 2022-07-22 10:07:17+01:00 local time"
+     alt="Evening Standard at 2022-07-22 17:07:17+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-22T10:07:12.378370+01:00.jpg">July 22 at 10:07 AM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-22T10:07:12.378370+01:00.jpg">July 22 at 5:07 PM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 58 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 58 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 

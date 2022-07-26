@@ -31,109 +31,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-25T10:53:40.449143-05:00.jpg">
   <img src="https://archive.org/download/wfaa-2022/wfaa-2022-07-25T10:53:40.449143-05:00.jpg"
-     alt="WFAA at 2022-07-25 10:53:41-05:00 local time"
+     alt="WFAA at 2022-07-25 17:53:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-25T10:53:40.449143-05:00.jpg">July 25 at 10:53 AM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-25T10:53:40.449143-05:00.jpg">July 25 at 5:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-24T23:41:11.600801-05:00.jpg">
   <img src="https://archive.org/download/wfaa-2022/wfaa-2022-07-24T23:41:11.600801-05:00.jpg"
-     alt="WFAA at 2022-07-24 23:41:13-05:00 local time"
+     alt="WFAA at 2022-07-25 06:41:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-24T23:41:11.600801-05:00.jpg">July 24 at 11:41 PM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-24T23:41:11.600801-05:00.jpg">July 25 at 6:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-24T10:10:49.744896-05:00.jpg">
   <img src="https://archive.org/download/wfaa-2022/wfaa-2022-07-24T10:10:49.744896-05:00.jpg"
-     alt="WFAA at 2022-07-24 10:10:51-05:00 local time"
+     alt="WFAA at 2022-07-24 17:10:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-24T10:10:49.744896-05:00.jpg">July 24 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-24T10:10:49.744896-05:00.jpg">July 24 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-23T22:47:23.839065-05:00.jpg">
   <img src="https://archive.org/download/wfaa-2022/wfaa-2022-07-23T22:47:23.839065-05:00.jpg"
-     alt="WFAA at 2022-07-23 22:47:24-05:00 local time"
+     alt="WFAA at 2022-07-24 05:47:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-23T22:47:23.839065-05:00.jpg">July 23 at 10:47 PM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-23T22:47:23.839065-05:00.jpg">July 24 at 5:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-23T11:09:35.011013-05:00.jpg">
   <img src="https://archive.org/download/wfaa-2022/wfaa-2022-07-23T11:09:35.011013-05:00.jpg"
-     alt="WFAA at 2022-07-23 11:09:35-05:00 local time"
+     alt="WFAA at 2022-07-23 18:09:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-23T11:09:35.011013-05:00.jpg">July 23 at 11:09 AM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-23T11:09:35.011013-05:00.jpg">July 23 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-22T23:29:36.292855-05:00.jpg">
   <img src="https://archive.org/download/wfaa-2022/wfaa-2022-07-22T23:29:36.292855-05:00.jpg"
-     alt="WFAA at 2022-07-22 23:29:37-05:00 local time"
+     alt="WFAA at 2022-07-23 06:29:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-22T23:29:36.292855-05:00.jpg">July 22 at 11:29 PM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-22T23:29:36.292855-05:00.jpg">July 23 at 6:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-22T11:21:51.268680-05:00.jpg">
   <img src="https://archive.org/download/wfaa-2022/wfaa-2022-07-22T11:21:51.268680-05:00.jpg"
-     alt="WFAA at 2022-07-22 11:21:53-05:00 local time"
+     alt="WFAA at 2022-07-22 18:21:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-22T11:21:51.268680-05:00.jpg">July 22 at 11:21 AM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-22T11:21:51.268680-05:00.jpg">July 22 at 6:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-21T23:36:07.006133-05:00.jpg">
   <img src="https://archive.org/download/wfaa-2022/wfaa-2022-07-21T23:36:07.006133-05:00.jpg"
-     alt="WFAA at 2022-07-21 23:36:08-05:00 local time"
+     alt="WFAA at 2022-07-22 06:36:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-21T23:36:07.006133-05:00.jpg">July 21 at 11:36 PM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-21T23:36:07.006133-05:00.jpg">July 22 at 6:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-21T11:59:21.696689-05:00.jpg">
   <img src="https://archive.org/download/wfaa-2022/wfaa-2022-07-21T11:59:21.696689-05:00.jpg"
-     alt="WFAA at 2022-07-21 11:59:23-05:00 local time"
+     alt="WFAA at 2022-07-21 18:59:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-21T11:59:21.696689-05:00.jpg">July 21 at 11:59 AM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-21T11:59:21.696689-05:00.jpg">July 21 at 6:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-20T23:33:21.857223-05:00.jpg">
   <img src="https://archive.org/download/wfaa-2022/wfaa-2022-07-20T23:33:21.857223-05:00.jpg"
-     alt="WFAA at 2022-07-20 23:33:23-05:00 local time"
+     alt="WFAA at 2022-07-21 06:33:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-20T23:33:21.857223-05:00.jpg">July 20 at 11:33 PM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-20T23:33:21.857223-05:00.jpg">July 21 at 6:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-20T11:50:16.719300-05:00.jpg">
   <img src="https://archive.org/download/wfaa-2022/wfaa-2022-07-20T11:50:16.719300-05:00.jpg"
-     alt="WFAA at 2022-07-20 11:50:17-05:00 local time"
+     alt="WFAA at 2022-07-20 18:50:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-20T11:50:16.719300-05:00.jpg">July 20 at 11:50 AM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-20T11:50:16.719300-05:00.jpg">July 20 at 6:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-19T23:25:19.966634-05:00.jpg">
   <img src="https://archive.org/download/wfaa-2022/wfaa-2022-07-19T23:25:19.966634-05:00.jpg"
-     alt="WFAA at 2022-07-19 23:25:21-05:00 local time"
+     alt="WFAA at 2022-07-20 06:25:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-19T23:25:19.966634-05:00.jpg">July 19 at 11:25 PM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-07-19T23:25:19.966634-05:00.jpg">July 20 at 6:25 AM</a></p>
 </div>
 
 </div>

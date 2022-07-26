@@ -25,7 +25,7 @@ The archiving routine has saved 78 screenshots with the Internet Archive.
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specScreenshots = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -103,7 +103,7 @@ The archiving routine has saved 78 screenshots with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--screenshots", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-25T07:02:49.096713-04:00.jpg">
   <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-25T07:02:49.096713-04:00.jpg"
-     alt="Clarion Ledger at 2022-07-25 07:02:51-04:00 local time"
+     alt="Clarion Ledger at 2022-07-25 14:02:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-25T07:02:49.096713-04:00.jpg">July 25 at 7:02 AM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-25T07:02:49.096713-04:00.jpg">July 25 at 2:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-24T20:55:43.499158-04:00.jpg">
   <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-24T20:55:43.499158-04:00.jpg"
-     alt="Clarion Ledger at 2022-07-24 20:55:45-04:00 local time"
+     alt="Clarion Ledger at 2022-07-25 03:55:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-24T20:55:43.499158-04:00.jpg">July 24 at 8:55 PM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-24T20:55:43.499158-04:00.jpg">July 25 at 3:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-24T07:01:36.773499-04:00.jpg">
   <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-24T07:01:36.773499-04:00.jpg"
-     alt="Clarion Ledger at 2022-07-24 07:01:39-04:00 local time"
+     alt="Clarion Ledger at 2022-07-24 14:01:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-24T07:01:36.773499-04:00.jpg">July 24 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-24T07:01:36.773499-04:00.jpg">July 24 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-23T19:04:01.036968-04:00.jpg">
   <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-23T19:04:01.036968-04:00.jpg"
-     alt="Clarion Ledger at 2022-07-23 19:04:02-04:00 local time"
+     alt="Clarion Ledger at 2022-07-24 02:04:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-23T19:04:01.036968-04:00.jpg">July 23 at 7:04 PM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-23T19:04:01.036968-04:00.jpg">July 24 at 2:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-23T09:01:39.450417-04:00.jpg">
   <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-23T09:01:39.450417-04:00.jpg"
-     alt="Clarion Ledger at 2022-07-23 09:01:41-04:00 local time"
+     alt="Clarion Ledger at 2022-07-23 16:01:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-23T09:01:39.450417-04:00.jpg">July 23 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-23T09:01:39.450417-04:00.jpg">July 23 at 4:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-22T21:01:57.483612-04:00.jpg">
   <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-22T21:01:57.483612-04:00.jpg"
-     alt="Clarion Ledger at 2022-07-22 21:01:58-04:00 local time"
+     alt="Clarion Ledger at 2022-07-23 04:01:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-22T21:01:57.483612-04:00.jpg">July 22 at 9:01 PM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-22T21:01:57.483612-04:00.jpg">July 23 at 4:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-22T09:01:28.138213-04:00.jpg">
   <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-22T09:01:28.138213-04:00.jpg"
-     alt="Clarion Ledger at 2022-07-22 09:01:30-04:00 local time"
+     alt="Clarion Ledger at 2022-07-22 16:01:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-22T09:01:28.138213-04:00.jpg">July 22 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-22T09:01:28.138213-04:00.jpg">July 22 at 4:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-21T21:09:09.010353-04:00.jpg">
   <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-21T21:09:09.010353-04:00.jpg"
-     alt="Clarion Ledger at 2022-07-21 21:09:11-04:00 local time"
+     alt="Clarion Ledger at 2022-07-22 04:09:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-21T21:09:09.010353-04:00.jpg">July 21 at 9:09 PM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-21T21:09:09.010353-04:00.jpg">July 22 at 4:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-21T08:55:21.925284-04:00.jpg">
   <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-21T08:55:21.925284-04:00.jpg"
-     alt="Clarion Ledger at 2022-07-21 08:55:24-04:00 local time"
+     alt="Clarion Ledger at 2022-07-21 15:55:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-21T08:55:21.925284-04:00.jpg">July 21 at 8:55 AM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-21T08:55:21.925284-04:00.jpg">July 21 at 3:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-20T21:07:51.126432-04:00.jpg">
   <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-20T21:07:51.126432-04:00.jpg"
-     alt="Clarion Ledger at 2022-07-20 21:07:52-04:00 local time"
+     alt="Clarion Ledger at 2022-07-21 04:07:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-20T21:07:51.126432-04:00.jpg">July 20 at 9:07 PM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-20T21:07:51.126432-04:00.jpg">July 21 at 4:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-20T08:55:27.260691-04:00.jpg">
   <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-20T08:55:27.260691-04:00.jpg"
-     alt="Clarion Ledger at 2022-07-20 08:55:32-04:00 local time"
+     alt="Clarion Ledger at 2022-07-20 15:55:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-20T08:55:27.260691-04:00.jpg">July 20 at 8:55 AM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-20T08:55:27.260691-04:00.jpg">July 20 at 3:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-19T21:02:44.784063-04:00.jpg">
   <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-19T21:02:44.784063-04:00.jpg"
-     alt="Clarion Ledger at 2022-07-19 21:02:46-04:00 local time"
+     alt="Clarion Ledger at 2022-07-20 04:02:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-19T21:02:44.784063-04:00.jpg">July 19 at 9:02 PM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-19T21:02:44.784063-04:00.jpg">July 20 at 4:02 AM</a></p>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ The archiving routine has saved 78 hyperlink lists with the Internet Archive.
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
   <script>
-    const spec = {
+    const specHyperlinks = {
   "config": {
     "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
@@ -306,7 +306,7 @@ The archiving routine has saved 78 hyperlink lists with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--hyperlinks", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
