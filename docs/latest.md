@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 654 news sites.
+The most recent homepages captured from 661 news sites.
 
 <div class="latest-parent">
 
@@ -239,6 +239,15 @@ The most recent homepages captured from 654 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/alternet.html">AlterNet</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/amarujalanews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amarujalanews.jpg"
+     alt="Amar Ujala"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/amarujalanews.html">Amar Ujala</a></p>
 </div>
 
 <div class="latest-child">
@@ -1520,6 +1529,24 @@ The most recent homepages captured from 654 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dainikbhaskar.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dainikbhaskar.jpg"
+     alt="Dainik Bhaskar"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/dainikbhaskar.html">Dainik Bhaskar</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/jagrannews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jagrannews.jpg"
+     alt="Dainik Jagram"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/jagrannews.html">Dainik Jagram</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/dallasbiznews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasbiznews.jpg"
      alt="Dallas Business Journal"
@@ -2354,6 +2381,15 @@ The most recent homepages captured from 654 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/highcountrynews.html">High Country News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/live_hindustan.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/live_hindustan.jpg"
+     alt="Hindustan"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/live_hindustan.html">Hindustan</a></p>
 </div>
 
 <div class="latest-child">
@@ -4175,6 +4211,15 @@ The most recent homepages captured from 654 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/prabhatkhabar.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/prabhatkhabar.jpg"
+     alt="Prabhat Khabar"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/prabhatkhabar.html">Prabhat Khabar</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/prensagrafica.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/prensagrafica.jpg"
      alt="Prensa Grafica"
@@ -4247,6 +4292,15 @@ The most recent homepages captured from 654 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/punjabkesari.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/punjabkesari.jpg"
+     alt="Punjab Kesari"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/punjabkesari.html">Punjab Kesari</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/qctimes.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/qctimes.jpg"
      alt="Quad City Times"
@@ -4280,6 +4334,15 @@ The most recent homepages captured from 654 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/quintoelab.html">Quinto Elemento Lab</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/rpbreakingnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rpbreakingnews.jpg"
+     alt="Rajasthan Patrika"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/rpbreakingnews.html">Rajasthan Patrika</a></p>
 </div>
 
 <div class="latest-child">
