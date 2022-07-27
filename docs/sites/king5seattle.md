@@ -389,7 +389,7 @@ The archiving routine has saved 45 accessibility trees with the Internet Archive
     }
   },
   "data": {
-    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/king5seattle.json"
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/king5seattle.json"
   },
   "mark": {"type": "area", "line": true},
   "encoding": {

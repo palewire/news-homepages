@@ -389,7 +389,7 @@ The archiving routine has saved 301 accessibility trees with the Internet Archiv
     }
   },
   "data": {
-    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/thesun.json"
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/thesun.json"
   },
   "mark": {"type": "area", "line": true},
   "encoding": {

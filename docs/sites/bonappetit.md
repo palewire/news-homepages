@@ -389,7 +389,7 @@ The archiving routine has saved 83 accessibility trees with the Internet Archive
     }
   },
   "data": {
-    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/bonappetit.json"
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/bonappetit.json"
   },
   "mark": {"type": "area", "line": true},
   "encoding": {

@@ -389,7 +389,7 @@ The archiving routine has saved 214 accessibility trees with the Internet Archiv
     }
   },
   "data": {
-    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/le_parisien.json"
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/le_parisien.json"
   },
   "mark": {"type": "area", "line": true},
   "encoding": {
