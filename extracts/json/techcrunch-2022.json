@@ -1,5 +1,5 @@
 {
-  "created": 1658838770,
+  "created": 1658859873,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/30/items/techcrunch-2022",
@@ -4738,31 +4738,83 @@
       "sha1": "d2c5ad703a956cc7b963e2dcfe7e5fc56e263046"
     },
     {
+      "name": "techcrunch-2022-07-26T08:46:38.988148-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658850404",
+      "size": "30727",
+      "md5": "0ba8bb56ae2ecce758e350029c40872d",
+      "crc32": "dc449e1c",
+      "sha1": "4537159edd87145c36c19726253710b59f4b8a3e",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-07-26T08:46:38.988148-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658850406",
+      "size": "13620",
+      "md5": "4fa5b5adc3c5396c87d0cbb738463606",
+      "crc32": "d3b1db23",
+      "sha1": "68859c585ebd3518a39b361e9809112f388d517e",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-07-26T08:46:38.988148-07:00.jpg",
+      "source": "original",
+      "mtime": "1658850402",
+      "size": "235406",
+      "md5": "2932a20d31b1261477ae7e6d1c3c81d2",
+      "crc32": "0aa3678d",
+      "sha1": "20348d983cad040a6532497ee2bc36ae6ac8c77f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techcrunch-2022-07-26T08:46:38.988148-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658850407",
+      "size": "1456",
+      "md5": "21a1639d3df664ff2f52e6e5b1880e10",
+      "crc32": "4c9f78d1",
+      "sha1": "1230928df98f4525437779524a46c64c49f4b5a3",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-07-26T08:46:38.988148-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techcrunch-2022-07-26T08:46:38.988148-07:00.jpg",
+      "mtime": "1658859704",
+      "size": "8634",
+      "md5": "edd95a6c8eecea96098e4dc7c20bc6d7",
+      "crc32": "1f422a82",
+      "sha1": "6fd7adebd6e331daa8738fcba73d9e761590739e"
+    },
+    {
       "name": "techcrunch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4ba2701eaa14a19e9172be05bfebdbbcc3151979",
-      "mtime": "1658810003",
-      "size": "96985",
-      "md5": "bb5aa058093ddefebbdd3610654a8749",
-      "crc32": "349cc4dc",
-      "sha1": "9ccebffd8fd630dd43f83422f40a829c0b1f5617",
+      "btih": "55613e275e14601c54baa402acb86d36578f0ee0",
+      "mtime": "1658859731",
+      "size": "98054",
+      "md5": "3c4a4adfda512308f8ccc8321dc64988",
+      "crc32": "4166636b",
+      "sha1": "198d2b82b86081aefd18ea7af5e48c47cb170bec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "techcrunch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5a264d2f2234bbfa9ad6bc4b744caf5c",
+      "md5": "79a1ed9640549b3f20a0348cea90079b",
       "summation": "md5"
     },
     {
       "name": "techcrunch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658807905",
-      "size": "536576",
-      "md5": "0d1a291f06530ec9052fbc9626785e82",
-      "crc32": "a57976a3",
-      "sha1": "74650545e2f6aaeb77866f0c8c159fa45902cb9d",
+      "mtime": "1658850413",
+      "size": "544768",
+      "md5": "982b461b49466cbd80c2eeb98a63a2ca",
+      "crc32": "7922a489",
+      "sha1": "5d00a749f3c9378cd935d4ad20c49f16e43ebbe1",
       "format": "Metadata"
     },
     {
@@ -4776,9 +4828,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 455,
-  "item_last_updated": 1658810003,
-  "item_size": 30920232,
+  "files_count": 460,
+  "item_last_updated": 1658859731,
+  "item_size": 31219336,
   "metadata": {
     "identifier": "techcrunch-2022",
     "collection": [
@@ -4795,51 +4847,10 @@
     "publicdate": "2022-06-24 23:01:49",
     "addeddate": "2022-06-24 23:01:49"
   },
-  "server": "ia801505.us.archive.org",
-  "techcrunch-2022": [
-    {
-      "url": "https://techcrunch.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/techcrunch_com-_-2022_07_26_03_38_05.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/techcrunch_com-_-2022_07_26_03_38_05.report.json",
-      "summary": {
-        "performance": 0.1,
-        "accessibility": 0.81,
-        "best-practices": 0.92,
-        "seo": 0.89,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://techcrunch.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/techcrunch_com-_-2022_07_26_03_38_39.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/techcrunch_com-_-2022_07_26_03_38_39.report.json",
-      "summary": {
-        "performance": 0.22,
-        "accessibility": 0.81,
-        "best-practices": 0.92,
-        "seo": 0.89,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://techcrunch.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/techcrunch_com-_-2022_07_26_03_38_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/techcrunch_com-_-2022_07_26_03_38_23.report.json",
-      "summary": {
-        "performance": 0.19,
-        "accessibility": 0.81,
-        "best-practices": 0.92,
-        "seo": 0.89,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "uniq": 430804109,
+  "server": "ia601505.us.archive.org",
+  "uniq": 1631694545,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

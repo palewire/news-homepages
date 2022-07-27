@@ -1,5 +1,5 @@
 {
-  "created": 1658838297,
+  "created": 1658880928,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/16/items/marshallproj-2022",
@@ -4831,31 +4831,83 @@
       "format": "JSON"
     },
     {
+      "name": "marshallproj-2022-07-26T08:24:05.964987-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marshallproj-2022-07-26T08:24:05.964987-04:00.jpg",
+      "mtime": "1658850831",
+      "size": "8170",
+      "md5": "4741a0c6b1f85b5fb535024c4b5d7995",
+      "crc32": "e7f13bf1",
+      "sha1": "2a3004235e3abacf9a5ae352128e0fe7292c6533"
+    },
+    {
+      "name": "marshallproj-2022-07-26T20:14:30.465596-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658880879",
+      "size": "16485",
+      "md5": "578c5fc100352e2b45574761790dafc5",
+      "crc32": "11c02bc2",
+      "sha1": "6e03a00e4bb7881a285680a89115ff701e663dba",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-07-26T20:14:30.465596-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658880881",
+      "size": "20833",
+      "md5": "646b140a30481b4435c1c280af8badd3",
+      "crc32": "032f5272",
+      "sha1": "6786507d55faa088e26a3003c0706e3e015d73eb",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-07-26T20:14:30.465596-04:00.jpg",
+      "source": "original",
+      "mtime": "1658880875",
+      "size": "158178",
+      "md5": "f74598097a055e0d4b968a2fb7b7a5d8",
+      "crc32": "0ce539ed",
+      "sha1": "8219340bb843f3971e74b0aad6af9670f6e3ce4f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marshallproj-2022-07-26T20:14:30.465596-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658880882",
+      "size": "1558",
+      "md5": "31131ad9f218b6a47a67e7b8b43ab1bd",
+      "crc32": "8a26f9cb",
+      "sha1": "8ffe23f12f493356bf5c3a457c0f4dad4fe9625f",
+      "format": "JSON"
+    },
+    {
       "name": "marshallproj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0132fa6767cd984e0e03d5d8cf772d35811cac0d",
-      "mtime": "1658838295",
-      "size": "99659",
-      "md5": "95d9664962e2c47aac74e66076d2dfed",
-      "crc32": "a7504abc",
-      "sha1": "8a329a3d5eb08b76fe99171e86d47b87f44c3e14",
+      "btih": "5d49e26c522f4c1048fec3f79cf90f8ef32a1dac",
+      "mtime": "1658880925",
+      "size": "100738",
+      "md5": "93bc7671fdb969fc5c718fe14b0b0713",
+      "crc32": "34655c2f",
+      "sha1": "fa57754ca7eb351afe5b4aa0138ebd1479c67f27",
       "format": "Archive BitTorrent"
     },
     {
       "name": "marshallproj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c9a81da7c973ca55adc825f592f1abaa",
+      "md5": "5ed5f35ac86236adba2cd283751298f9",
       "summation": "md5"
     },
     {
       "name": "marshallproj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658838258",
-      "size": "548864",
-      "md5": "a0609f2c1e87d1c5eb433b99a0579c87",
-      "crc32": "08fdace0",
-      "sha1": "a3f39fd5d641094c290340bb4907ad33d37b9bee",
+      "mtime": "1658880886",
+      "size": "552960",
+      "md5": "cc18bc42d3fd466bd62beac5875ca752",
+      "crc32": "c2113698",
+      "sha1": "c4fe119a4337a154da719df38e257acfec7c56fd",
       "format": "Metadata"
     },
     {
@@ -4869,9 +4921,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 464,
-  "item_last_updated": 1658838295,
-  "item_size": 26666365,
+  "files_count": 469,
+  "item_last_updated": 1658880925,
+  "item_size": 26876764,
   "metadata": {
     "identifier": "marshallproj-2022",
     "collection": [
@@ -4893,7 +4945,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3344322756,
+      "task_id": 3344776789,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4901,7 +4953,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 723017703,
+  "uniq": 1193485118,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

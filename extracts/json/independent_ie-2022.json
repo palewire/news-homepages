@@ -1,5 +1,5 @@
 {
-  "created": 1658838082,
+  "created": 1658880749,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/10/items/independent_ie-2022",
@@ -821,31 +821,83 @@
       "format": "JSON"
     },
     {
+      "name": "independent_ie-2022-07-26T13:19:08.360686+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "independent_ie-2022-07-26T13:19:08.360686+01:00.jpg",
+      "mtime": "1658850534",
+      "size": "9179",
+      "md5": "e9da785f9522d77184e3e2b7ec5712fe",
+      "crc32": "fb383e6c",
+      "sha1": "51127d41177d478f9eebbf9808c5d29173bc43b2"
+    },
+    {
+      "name": "independent_ie-2022-07-27T01:11:43.198050+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658880706",
+      "size": "49328",
+      "md5": "0cdd6c3ffdee33485a63f9ed07d34719",
+      "crc32": "714825da",
+      "sha1": "b016730160b8662728760882c2acec06d7da9aaf",
+      "format": "JSON"
+    },
+    {
+      "name": "independent_ie-2022-07-27T01:11:43.198050+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658880708",
+      "size": "105119",
+      "md5": "eec631c89f2da2d9ce90ef3b3d76d51f",
+      "crc32": "d266d2b3",
+      "sha1": "6cb80feca074cf26e44fd5d097bbb9c4ea27f4eb",
+      "format": "JSON"
+    },
+    {
+      "name": "independent_ie-2022-07-27T01:11:43.198050+01:00.jpg",
+      "source": "original",
+      "mtime": "1658880705",
+      "size": "255396",
+      "md5": "f784ca13a6a4f46ea62bf57bb23a1ee4",
+      "crc32": "97089b3e",
+      "sha1": "afb5ebd288e2f69c8b2fda318da7ee2b684cb9da",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "independent_ie-2022-07-27T01:11:43.198050+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658880709",
+      "size": "1477",
+      "md5": "5f45a5d2996d0ddd5aacfa316a524039",
+      "crc32": "33b17b7e",
+      "sha1": "fb4a3dbbd866249042dd3ce8964b244febda1004",
+      "format": "JSON"
+    },
+    {
       "name": "independent_ie-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4330f670bd134de01cdf1830e6771abb18270082",
-      "mtime": "1658838067",
-      "size": "18420",
-      "md5": "273e8d57da0dce6a0a0b086b77ee0047",
-      "crc32": "43135448",
-      "sha1": "615f0d1c630141ed7bfd2c6cb71e641246a27bdb",
+      "btih": "d84b9b9506bbbd9819171d95d854fa117ecaead1",
+      "mtime": "1658880747",
+      "size": "19510",
+      "md5": "1e8289431fbc39039f0b3ebdfb05e286",
+      "crc32": "4b83a7ad",
+      "sha1": "a25c390d31eb8fa19c383c82b2875486d0b7afc7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "independent_ie-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2bdacd881ff79bddd2b6fbf37b8dc2a4",
+      "md5": "8c474a784f08a50a65cd6a46b5979436",
       "summation": "md5"
     },
     {
       "name": "independent_ie-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658837976",
-      "size": "110592",
-      "md5": "995976789e18e4e5d42217a4ad0362a0",
-      "crc32": "cdda63eb",
-      "sha1": "8c73642c1f791f5822e1081b23124fc2667b031f",
+      "mtime": "1658880712",
+      "size": "126976",
+      "md5": "192039d13c1d7eefb7419d4e9424d49b",
+      "crc32": "9fed63a1",
+      "sha1": "de93861c09b0fbafdba63c789c04081354da08e8",
       "format": "Metadata"
     },
     {
@@ -859,9 +911,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 82,
-  "item_last_updated": 1658838067,
-  "item_size": 7700621,
+  "files_count": 87,
+  "item_last_updated": 1658880747,
+  "item_size": 8138594,
   "metadata": {
     "identifier": "independent_ie-2022",
     "collection": [
@@ -883,7 +935,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3344320860,
+      "task_id": 3344774854,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -891,7 +943,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 30495317,
+  "uniq": 995849903,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

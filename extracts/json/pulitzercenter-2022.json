@@ -1,5 +1,5 @@
 {
-  "created": 1658838602,
+  "created": 1658881186,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/pulitzercenter-2022",
@@ -1577,31 +1577,83 @@
       "format": "JSON"
     },
     {
+      "name": "pulitzercenter-2022-07-26T08:29:15.439802-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pulitzercenter-2022-07-26T08:29:15.439802-04:00.jpg",
+      "mtime": "1658851046",
+      "size": "9011",
+      "md5": "11d5c64965c8733a023c6bae20f69eb4",
+      "crc32": "ea07a264",
+      "sha1": "974b4a3a97c59dfead07ae1c95eaffa6374e7b5c"
+    },
+    {
+      "name": "pulitzercenter-2022-07-26T20:18:50.206520-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658881135",
+      "size": "9100",
+      "md5": "2f9e1e12ed4b08ed47088ae693c1eb07",
+      "crc32": "b8c69b6b",
+      "sha1": "1d8d4ce76574f9ce8dc594a4621c7343fe84a862",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-07-26T20:18:50.206520-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658881137",
+      "size": "16234",
+      "md5": "ce592f6dd56f1caad36f9199309060c5",
+      "crc32": "37544ceb",
+      "sha1": "d1b7d620718e670faa2d161538e7c3528f51c0a5",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-07-26T20:18:50.206520-04:00.jpg",
+      "source": "original",
+      "mtime": "1658881132",
+      "size": "228683",
+      "md5": "747116479bcd70ae83f17ac454c9812e",
+      "crc32": "4c738401",
+      "sha1": "03036bcc0ddc80e206964fe2dabfaea798ab5343",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pulitzercenter-2022-07-26T20:18:50.206520-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658881140",
+      "size": "1495",
+      "md5": "414f88b3ad07d975d7f913cf9d787238",
+      "crc32": "d7888d56",
+      "sha1": "7819a6f012efca30e5f2872cd12ce89c00ff2255",
+      "format": "JSON"
+    },
+    {
       "name": "pulitzercenter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6b6438272fa90df59e78c11fb8e48bdc1dcde7ef",
-      "mtime": "1658838600",
-      "size": "33740",
-      "md5": "c0a61733728365be2f6a9869789bf140",
-      "crc32": "4a969f6e",
-      "sha1": "f2591482a0172ed168cf4a4f16f9a19cba06a799",
+      "btih": "606311993e446179c7989b57b049f8cacf06500c",
+      "mtime": "1658881182",
+      "size": "34828",
+      "md5": "edc8ac445b5d29b0552daf0e908b37ca",
+      "crc32": "52458260",
+      "sha1": "a98a293fb021319df2e32e5a07b64c9f78765718",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pulitzercenter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6696c5d5d6b18a183214c2765984f1a1",
+      "md5": "72e39f8275d71fbf5d264b5dd2c26f58",
       "summation": "md5"
     },
     {
       "name": "pulitzercenter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658838565",
-      "size": "196608",
-      "md5": "0b7080734bce57616ca34524158af2cc",
-      "crc32": "7512a0d4",
-      "sha1": "d3212578a9e008dba31b51b5896892aac15ce8ba",
+      "mtime": "1658881144",
+      "size": "204800",
+      "md5": "62c2919a980b7ce03b767b1dc68e7c23",
+      "crc32": "0796616d",
+      "sha1": "bd6c47ca75a4a83242a4628a3719a9e411441977",
       "format": "Metadata"
     },
     {
@@ -1615,9 +1667,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 154,
-  "item_last_updated": 1658838600,
-  "item_size": 8389177,
+  "files_count": 159,
+  "item_last_updated": 1658881182,
+  "item_size": 8662980,
   "metadata": {
     "identifier": "pulitzercenter-2022",
     "collection": [
@@ -1639,7 +1691,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3344325365,
+      "task_id": 3344779478,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1647,7 +1699,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 165820469,
+  "uniq": 1890505856,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

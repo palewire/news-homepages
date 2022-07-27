@@ -1,5 +1,5 @@
 {
-  "created": 1658838160,
+  "created": 1658880766,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/22/items/huffpostcanada-2022",
@@ -297,31 +297,83 @@
       "format": "JSON"
     },
     {
+      "name": "huffpostcanada-2022-07-26T08:19:28.327072-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpostcanada-2022-07-26T08:19:28.327072-04:00.jpg",
+      "mtime": "1658850564",
+      "size": "10199",
+      "md5": "ce99d76c1387779a58a094bf488a576a",
+      "crc32": "42caf404",
+      "sha1": "fa0634ccda0657fd9b0087aebe720124611a9642"
+    },
+    {
+      "name": "huffpostcanada-2022-07-26T20:11:59.017575-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658880722",
+      "size": "35053",
+      "md5": "71b7246f7537540403d16be707b1773d",
+      "crc32": "2a25355d",
+      "sha1": "91e1c3e86762dc67f9fd04a922743cab2ef60d01",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpostcanada-2022-07-26T20:11:59.017575-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658880724",
+      "size": "65443",
+      "md5": "ca556259c319b8a3da9837ddf1092cd4",
+      "crc32": "e6558623",
+      "sha1": "2f862c0b64fb83c18b6c8ad28990920166f5a1a8",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpostcanada-2022-07-26T20:11:59.017575-04:00.jpg",
+      "source": "original",
+      "mtime": "1658880720",
+      "size": "225274",
+      "md5": "17cd8e7fc478fe1d4ae884f7b25b49a9",
+      "crc32": "0782890d",
+      "sha1": "317a8b848755cf997dd606d4c640dee6698c19d0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "huffpostcanada-2022-07-26T20:11:59.017575-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658880725",
+      "size": "1477",
+      "md5": "65b8c4cf5cb1d6f961782d1f416fedbf",
+      "crc32": "ad470dab",
+      "sha1": "c244d0a8ffb5c4ef5b725af3749c5a9fefdaf0c3",
+      "format": "JSON"
+    },
+    {
       "name": "huffpostcanada-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c94b719eedb42ab0790d3740786e9634a9d3dbed",
-      "mtime": "1658838157",
-      "size": "7515",
-      "md5": "fab2813b81b82944a2089f7ad979f091",
-      "crc32": "9376cebc",
-      "sha1": "876dc522beb3cc322272a2e0613a679a9b24c01b",
+      "btih": "8d662d14811fa618a4e9e31f0afa8c6c8886e37d",
+      "mtime": "1658880763",
+      "size": "8606",
+      "md5": "7d253d2628ec5a62ff4b38090dfe73c9",
+      "crc32": "eb5ec63f",
+      "sha1": "60fd50d8a82c8cb82ea30f4ae18b37047931decf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "huffpostcanada-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d2eb27a0c68d7a701640de792c9412ea",
+      "md5": "315cd68d127f8269ac30b9d75239d3e9",
       "summation": "md5"
     },
     {
       "name": "huffpostcanada-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658838115",
-      "size": "53248",
-      "md5": "946f30328f3692aa98260e2572e8660f",
-      "crc32": "0e5257fe",
-      "sha1": "0d1a075b344f4fd72545bca6b762f2a5ffdac83e",
+      "mtime": "1658880729",
+      "size": "57344",
+      "md5": "5f90c47d5b84122cc9df2826165eab65",
+      "crc32": "fd12dcdb",
+      "sha1": "ab116fb6f4a4353bcd27dc6963cb637b8767cefb",
       "format": "Metadata"
     },
     {
@@ -335,9 +387,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 32,
-  "item_last_updated": 1658838157,
-  "item_size": 2071050,
+  "files_count": 37,
+  "item_last_updated": 1658880763,
+  "item_size": 2413683,
   "metadata": {
     "identifier": "huffpostcanada-2022",
     "collection": [
@@ -359,7 +411,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3344321368,
+      "task_id": 3344775025,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -367,7 +419,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1999818215,
+  "uniq": 36608105,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

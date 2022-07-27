@@ -1,5 +1,5 @@
 {
-  "created": 1658805052,
+  "created": 1658857072,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/35/items/lubbockonline-2022",
@@ -728,31 +728,83 @@
       "sha1": "9facc5066a3f4e2faf9501b1dfd4350ed27634c7"
     },
     {
+      "name": "lubbockonline-2022-07-26T09:39:50.781834-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658846395",
+      "size": "20777",
+      "md5": "a0e782b40a19f50737ab3be64f0ab320",
+      "crc32": "4b68ac10",
+      "sha1": "89aaf57868a2f4d7278e050a4b4d7ae0d357f699",
+      "format": "JSON"
+    },
+    {
+      "name": "lubbockonline-2022-07-26T09:39:50.781834-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658846396",
+      "size": "33536",
+      "md5": "cfd3d5057060b7d5ae107601e6113a7f",
+      "crc32": "4006aff7",
+      "sha1": "a8c7fa6e55516bb591ac3ef01b59cf321135e599",
+      "format": "JSON"
+    },
+    {
+      "name": "lubbockonline-2022-07-26T09:39:50.781834-05:00.jpg",
+      "source": "original",
+      "mtime": "1658846393",
+      "size": "225996",
+      "md5": "115dc9f14f29eb16a5679557c5a83e0e",
+      "crc32": "1f78b1b8",
+      "sha1": "bed154ac742837cfd29f204f907e5646d9bfe80b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lubbockonline-2022-07-26T09:39:50.781834-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658846398",
+      "size": "1516",
+      "md5": "39ae614f521bf4d99b6bc5a55083cadd",
+      "crc32": "aa655f03",
+      "sha1": "cdaa8c8e9a94625df014f464d7219b3dd4e8d440",
+      "format": "JSON"
+    },
+    {
+      "name": "lubbockonline-2022-07-26T09:39:50.781834-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lubbockonline-2022-07-26T09:39:50.781834-05:00.jpg",
+      "mtime": "1658857017",
+      "size": "9096",
+      "md5": "d52cc7049957af145b18cdc6ce25db5c",
+      "crc32": "f4de5920",
+      "sha1": "f9a7ce5728d7546f7e59b22ec5c379021f08c12e"
+    },
+    {
       "name": "lubbockonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "569e55a24ba2f6238793722df94af3f570314fe4",
-      "mtime": "1658805028",
-      "size": "16296",
-      "md5": "be5eaa1674ddd8a370a9e2377d99abac",
-      "crc32": "f43b79c0",
-      "sha1": "b813e161923d9bb045b6b1d3488de32a5e9269a7",
+      "btih": "552eac3dde95e326adb5b5502c85f3cee80efa0a",
+      "mtime": "1658857037",
+      "size": "17380",
+      "md5": "2987d7f5ca29a74b5af6f0d180995c0f",
+      "crc32": "76ae6bf3",
+      "sha1": "9fe7fe10f8884fc2e7ffb8d63c55887503584015",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lubbockonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6fdd31b08f0eb537c908caf74c752a1e",
+      "md5": "3cfb1335b3cdde950bf8d358ff8a8145",
       "summation": "md5"
     },
     {
       "name": "lubbockonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658803646",
-      "size": "102400",
-      "md5": "8cfebe4f1d6d2b5ab852dc4e21756080",
-      "crc32": "3fed0ef0",
-      "sha1": "2270b3a692d618cc1db31d73788635dcbd1665c2",
+      "mtime": "1658846401",
+      "size": "106496",
+      "md5": "7e5ee3cea721653041900c051e5ac485",
+      "crc32": "98590942",
+      "sha1": "479a2a9a74f1c95d980a21c6211be74665122961",
       "format": "Metadata"
     },
     {
@@ -766,9 +818,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 73,
-  "item_last_updated": 1658805028,
-  "item_size": 5045911,
+  "files_count": 78,
+  "item_last_updated": 1658857037,
+  "item_size": 5342012,
   "metadata": {
     "identifier": "lubbockonline-2022",
     "collection": [
@@ -785,10 +837,10 @@
     "publicdate": "2022-07-18 17:54:05",
     "addeddate": "2022-07-18 17:54:05"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 451534410,
+  "server": "ia601509.us.archive.org",
+  "uniq": 259209197,
   "workable_servers": [
-    "ia801509.us.archive.org",
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

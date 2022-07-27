@@ -1,5 +1,5 @@
 {
-  "created": 1658831165,
+  "created": 1658881627,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/5/items/libe-2022",
@@ -8862,31 +8862,83 @@
       "sha1": "95f67edf343531f6fa1e551c3f1d3227e3a6725c"
     },
     {
+      "name": "libe-2022-07-26T16:39:11.631794+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658846356",
+      "size": "99948",
+      "md5": "ed83fd98e10be06232fc6be78088d5fd",
+      "crc32": "01710593",
+      "sha1": "fec039b64e7e9d06dd7aa689106c236800281477",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-07-26T16:39:11.631794+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658846358",
+      "size": "62237",
+      "md5": "0c84be975ad94143f55fe0d10e8f32b9",
+      "crc32": "4c104a5e",
+      "sha1": "c4530dc97ce883018a3dede81cbb7aa0f2be68a0",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-07-26T16:39:11.631794+02:00.jpg",
+      "source": "original",
+      "mtime": "1658846354",
+      "size": "348789",
+      "md5": "8f69de67de9fa2ef8c4062dc1cfd08e0",
+      "crc32": "5e7ab60d",
+      "sha1": "1ddc6d39d4aa23247b910f42f276dcdeb8c09a8c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-07-26T16:39:11.631794+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658846359",
+      "size": "1468",
+      "md5": "f649f8203b9464424ee1e85f6824d58a",
+      "crc32": "efbb3bbe",
+      "sha1": "a6ee77d18803019001b7da051be0643d0becb5b8",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-07-26T16:39:11.631794+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-07-26T16:39:11.631794+02:00.jpg",
+      "mtime": "1658857122",
+      "size": "9809",
+      "md5": "2e3ad8da24cfc44a21fadfeaeab6f9ac",
+      "crc32": "f7c0ca1c",
+      "sha1": "b6348b67d68ff37a83de47fc4147c2929f5b7e6e"
+    },
+    {
       "name": "libe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dc41fd11c5733886f9844f10b604d4516e7174c5",
-      "mtime": "1658831105",
-      "size": "177264",
-      "md5": "26f02f787457457e20f1420145a8d802",
-      "crc32": "d23b9e23",
-      "sha1": "f5dc38a6783c7d4de9eb3b6c17ddaa9be8e900aa",
+      "btih": "db9330418e0d1b6a44d9e40bef7a688a0fe633e5",
+      "mtime": "1658857146",
+      "size": "178303",
+      "md5": "1511483361b613b3e60fd085226ad8f5",
+      "crc32": "3012228f",
+      "sha1": "24a6c414cd8cef66245f8412392163a90423b9ee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "libe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "106b9d105a51ef65ce91ac2e2c1ace15",
+      "md5": "de0fe6809ba32b77dfd89618356708e6",
       "summation": "md5"
     },
     {
       "name": "libe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658822968",
-      "size": "978944",
-      "md5": "b261599e1e3754bc7d75c21d85239ec9",
-      "crc32": "93dcbb9d",
-      "sha1": "67ec908bb8fc71c51b1b95259165a99893513369",
+      "mtime": "1658846368",
+      "size": "983040",
+      "md5": "9680b1483f61f8aa0863af2657900c82",
+      "crc32": "cb172330",
+      "sha1": "9db7757814411be7ce21c06ed9dc804921804da6",
       "format": "Metadata"
     },
     {
@@ -8900,9 +8952,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 848,
-  "item_last_updated": 1658831105,
-  "item_size": 107378259,
+  "files_count": 853,
+  "item_last_updated": 1658857146,
+  "item_size": 107905645,
+  "libe-2022": [
+    {
+      "url": "https://www.liberation.fr/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_liberation_fr-_-2022_07_26_14_18_30.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_liberation_fr-_-2022_07_26_14_18_30.report.json",
+      "summary": {
+        "performance": 0.31,
+        "accessibility": 0.92,
+        "best-practices": 1,
+        "seo": 1,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.liberation.fr/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_liberation_fr-_-2022_07_26_14_18_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_liberation_fr-_-2022_07_26_14_18_53.report.json",
+      "summary": {
+        "performance": 0.36,
+        "accessibility": 0.92,
+        "best-practices": 1,
+        "seo": 1,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.liberation.fr/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_liberation_fr-_-2022_07_26_14_19_12.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_liberation_fr-_-2022_07_26_14_19_12.report.json",
+      "summary": {
+        "performance": 0.35,
+        "accessibility": 0.92,
+        "best-practices": 1,
+        "seo": 1,
+        "pwa": 0.3
+      }
+    }
+  ],
   "metadata": {
     "identifier": "libe-2022",
     "collection": [
@@ -8919,10 +9012,10 @@
     "publicdate": "2022-04-09 13:43:11",
     "addeddate": "2022-04-09 13:43:11"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 405550868,
+  "server": "ia902507.us.archive.org",
+  "uniq": 1263717052,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

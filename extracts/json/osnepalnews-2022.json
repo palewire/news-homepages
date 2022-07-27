@@ -1,5 +1,5 @@
 {
-  "created": 1658809662,
+  "created": 1658881727,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/4/items/osnepalnews-2022",
@@ -224,31 +224,83 @@
       "sha1": "ae4981a6e9250ae0cd398b06c8e5dd543c05a220"
     },
     {
+      "name": "osnepalnews-2022-07-26T21:27:39.092651+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1658850162",
+      "size": "12339",
+      "md5": "4408acae514d9d4c5aac1944dd96df4b",
+      "crc32": "3adfced4",
+      "sha1": "25a8084888772a4fb6656d6b0ac6ce0f1e454b74",
+      "format": "JSON"
+    },
+    {
+      "name": "osnepalnews-2022-07-26T21:27:39.092651+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658850163",
+      "size": "10972",
+      "md5": "eef0b1ef173e087451fa6c474ce325b0",
+      "crc32": "918af32a",
+      "sha1": "b1c20b2849473e6c29363f38865f4bbb390df0cd",
+      "format": "JSON"
+    },
+    {
+      "name": "osnepalnews-2022-07-26T21:27:39.092651+05:45.jpg",
+      "source": "original",
+      "mtime": "1658850160",
+      "size": "250825",
+      "md5": "201b7ec1521a56eb77f369e389e5d428",
+      "crc32": "5470c0b5",
+      "sha1": "da2021edbc8b811b4e361665a73135f90956e07e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "osnepalnews-2022-07-26T21:27:39.092651+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1658850165",
+      "size": "1459",
+      "md5": "d0c11323e9f06cdae677f93aa39fd4aa",
+      "crc32": "648d9900",
+      "sha1": "023603fc642cf01f9261d9632209f9201500d24c",
+      "format": "JSON"
+    },
+    {
+      "name": "osnepalnews-2022-07-26T21:27:39.092651+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "osnepalnews-2022-07-26T21:27:39.092651+05:45.jpg",
+      "mtime": "1658859298",
+      "size": "10163",
+      "md5": "3f05c8c58e345f121ee44c223aac44ac",
+      "crc32": "d05730e8",
+      "sha1": "5d01c669d387bad5eadd97b5aa7daca7bd7af0b9"
+    },
+    {
       "name": "osnepalnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2096385f0176bafe06f26d0d38d178fead36b124",
-      "mtime": "1658809645",
-      "size": "5910",
-      "md5": "c5d8e79e79a0a29635d70b71c13af8f3",
-      "crc32": "1fc3f80b",
-      "sha1": "937c9544c054deb3acfa7402481fc819c3cdeff4",
+      "btih": "b3e61a2f66d46d31a3be58982b5aa8d7b97e819c",
+      "mtime": "1658859303",
+      "size": "6965",
+      "md5": "8a2a69a6f53b790095a4389d5bb4d7cf",
+      "crc32": "bfc546ad",
+      "sha1": "b7dcf15fd09ecf9aa032bb912871af2f5787b7f4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "osnepalnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1f56ae64a06270294b42839941f9602f",
+      "md5": "5a0967323f17889d4e4b4d90f76e5dc3",
       "summation": "md5"
     },
     {
       "name": "osnepalnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658807654",
-      "size": "45056",
-      "md5": "6ce79162ff6bc1193984ee24f3d43090",
-      "crc32": "b342265b",
-      "sha1": "9d40d9de86819a638e359b94c9ce8f55d661bb1b",
+      "mtime": "1658850169",
+      "size": "49152",
+      "md5": "385cbec9c652431160bed5d5deabae2a",
+      "crc32": "72ea87da",
+      "sha1": "c9b6205a596c2b6741d52a36481b5b0824a5d86c",
       "format": "Metadata"
     },
     {
@@ -262,9 +314,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 25,
-  "item_last_updated": 1658809645,
-  "item_size": 1279743,
+  "files_count": 30,
+  "item_last_updated": 1658859303,
+  "item_size": 1570652,
   "metadata": {
     "identifier": "osnepalnews-2022",
     "collection": [
@@ -281,8 +333,49 @@
     "publicdate": "2022-07-24 20:38:55",
     "addeddate": "2022-07-24 20:38:55"
   },
+  "osnepalnews-2022": [
+    {
+      "url": "https://www.osnepal.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_osnepal_com-_-2022_07_26_15_13_44.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_osnepal_com-_-2022_07_26_15_13_44.report.json",
+      "summary": {
+        "performance": 0.58,
+        "accessibility": 0.98,
+        "best-practices": 1,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.osnepal.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_osnepal_com-_-2022_07_26_15_14_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_osnepal_com-_-2022_07_26_15_14_01.report.json",
+      "summary": {
+        "performance": 0.81,
+        "accessibility": 0.97,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.osnepal.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_osnepal_com-_-2022_07_26_15_13_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_osnepal_com-_-2022_07_26_15_13_28.report.json",
+      "summary": {
+        "performance": 0.56,
+        "accessibility": 0.98,
+        "best-practices": 1,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    }
+  ],
   "server": "ia902503.us.archive.org",
-  "uniq": 1902510639,
+  "uniq": 954379402,
   "workable_servers": [
     "ia902503.us.archive.org",
     "ia802503.us.archive.org"

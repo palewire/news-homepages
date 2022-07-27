@@ -1,5 +1,5 @@
 {
-  "created": 1658809950,
+  "created": 1658859561,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/2/items/seattletimes-2022",
@@ -1914,31 +1914,83 @@
       "sha1": "697ffba26d39e24d38a408bbe833127b91835f50"
     },
     {
+      "name": "seattletimes-2022-07-26T08:45:12.211006-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658850315",
+      "size": "461",
+      "md5": "d97a934aac88dbed150f1f5234e6f891",
+      "crc32": "f3ac9c29",
+      "sha1": "fb5f962693b95eb72c93116c6ef73a36942abf78",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-07-26T08:45:12.211006-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658850317",
+      "size": "48101",
+      "md5": "5f88f12b05b3d2a86cb5770b674ae135",
+      "crc32": "ab970bac",
+      "sha1": "bf877a463dd43be931b92f46f254b944271f6035",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-07-26T08:45:12.211006-07:00.jpg",
+      "source": "original",
+      "mtime": "1658850313",
+      "size": "282796",
+      "md5": "45c9a302d438bd37d50504476f90172e",
+      "crc32": "2088501e",
+      "sha1": "a0e29e515261f8efa0bf9382c90d2e6d75bee940",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "seattletimes-2022-07-26T08:45:12.211006-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658850318",
+      "size": "1513",
+      "md5": "c92df3622f64399f1f33737f07ddd79d",
+      "crc32": "bf211906",
+      "sha1": "6baaa945468055e780641e90b1d7206e2bc46379",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-07-26T08:45:12.211006-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "seattletimes-2022-07-26T08:45:12.211006-07:00.jpg",
+      "mtime": "1658859524",
+      "size": "8773",
+      "md5": "a357048b6f70d95728577f061daac91c",
+      "crc32": "494ce8f4",
+      "sha1": "2b177e723e62795450d8000ec33df92c1efd4549"
+    },
+    {
       "name": "seattletimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "99a2089d6aff3ffbd20a97fbb42b9c81d43485f4",
-      "mtime": "1658809920",
-      "size": "40379",
-      "md5": "b2a07b01ae452a2a0f028ed8460d3272",
-      "crc32": "1236d106",
-      "sha1": "ea4e4933882ba6d6d7f17f4da92846ae596e923e",
+      "btih": "329fc7ade3f7f6de3b94ba66094fd947ae68eabf",
+      "mtime": "1658859530",
+      "size": "41436",
+      "md5": "2b1f799958da5b5eae9f83b64bbf5167",
+      "crc32": "a97ef4b8",
+      "sha1": "2839dc805159458deb67e1d7593a27f8782c7b35",
       "format": "Archive BitTorrent"
     },
     {
       "name": "seattletimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e804e04055d9833392e843daf90d70b0",
+      "md5": "9f68c6b8734c7b47bee4d4cbc6bd6e2d",
       "summation": "md5"
     },
     {
       "name": "seattletimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658807819",
-      "size": "233472",
-      "md5": "8231ca07ca6db409bc9b4cdbb488b43a",
-      "crc32": "51704d00",
-      "sha1": "f57ea44621eac49f5bd8012f438936a24cdc398e",
+      "mtime": "1658850322",
+      "size": "237568",
+      "md5": "e08867cb7f8847057bb798792e0919cc",
+      "crc32": "87e20e71",
+      "sha1": "f6057afd1304e6d1f4e06f1be00c25a6dc67430c",
       "format": "Metadata"
     },
     {
@@ -1952,9 +2004,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 186,
-  "item_last_updated": 1658809920,
-  "item_size": 15794268,
+  "files_count": 191,
+  "item_last_updated": 1658859530,
+  "item_size": 16141065,
   "metadata": {
     "identifier": "seattletimes-2022",
     "collection": [
@@ -1971,10 +2023,10 @@
     "publicdate": "2022-07-04 21:53:09",
     "addeddate": "2022-07-04 21:53:09"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 1417033520,
+  "server": "ia902500.us.archive.org",
+  "uniq": 1051551285,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

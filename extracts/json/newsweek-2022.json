@@ -1,5 +1,5 @@
 {
-  "created": 1658838424,
+  "created": 1658881081,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/13/items/newsweek-2022",
@@ -1955,31 +1955,83 @@
       "format": "JSON"
     },
     {
+      "name": "newsweek-2022-07-26T08:26:16.766459-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsweek-2022-07-26T08:26:16.766459-04:00.jpg",
+      "mtime": "1658851194",
+      "size": "11102",
+      "md5": "8695fdf9800f9601d99a0926fc5f2beb",
+      "crc32": "2c97b3bb",
+      "sha1": "31d51bdd2f043af6db839f00eb62208d7e028e0f"
+    },
+    {
+      "name": "newsweek-2022-07-26T20:17:07.349679-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658881030",
+      "size": "54828",
+      "md5": "6e650d7b4320f0269880b65fad2d03f3",
+      "crc32": "bae4ba4a",
+      "sha1": "77103ca21d9473194a26e4c11cc4026911577049",
+      "format": "JSON"
+    },
+    {
+      "name": "newsweek-2022-07-26T20:17:07.349679-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658881032",
+      "size": "45579",
+      "md5": "c4ab5cf635c6ce976354c1c7c1c06a8a",
+      "crc32": "78d93c3b",
+      "sha1": "8291fdcf914c9741ae601bd573169968f850c567",
+      "format": "JSON"
+    },
+    {
+      "name": "newsweek-2022-07-26T20:17:07.349679-04:00.jpg",
+      "source": "original",
+      "mtime": "1658881029",
+      "size": "368041",
+      "md5": "2a977452f20654878c0986ab9e1938eb",
+      "crc32": "80b71c1d",
+      "sha1": "5435fd92aec71f11729e0f4d7dfac16fb099b4b2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsweek-2022-07-26T20:17:07.349679-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658881034",
+      "size": "1472",
+      "md5": "0c955f726ea33667de0ca3a849013ff8",
+      "crc32": "2b41d55c",
+      "sha1": "e3af5513074fb132e352d4e7fafee28f16c1254a",
+      "format": "JSON"
+    },
+    {
       "name": "newsweek-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cb19b04df25fc1546110aa3facb2059e0a07a9d4",
-      "mtime": "1658838421",
-      "size": "40853",
-      "md5": "83ec15e19a944f2ec6c0fba5eccd403e",
-      "crc32": "a178f207",
-      "sha1": "3459cbdbde297e50bab93fc7d1ba02dbceec12d5",
+      "btih": "81ec9985d1f5e0933b148f196dd21bfa3b5c7021",
+      "mtime": "1658881076",
+      "size": "41913",
+      "md5": "e64ebc9ba452f3577b7212950e770ffe",
+      "crc32": "4e4eb0a7",
+      "sha1": "7ea9205ed598b450958f9dd71c8f1615c6f5c7dc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsweek-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bd09119d5c09301f0555a806be114814",
+      "md5": "fe48d515731942bc0dffeee4ac8afee2",
       "summation": "md5"
     },
     {
       "name": "newsweek-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658838386",
-      "size": "237568",
-      "md5": "ab23a4b17a3740b33f652a621d7b6dd9",
-      "crc32": "3f6631e8",
-      "sha1": "b6abeef58d443baab74a96aa46b3c8dbd20d835d",
+      "mtime": "1658881041",
+      "size": "245760",
+      "md5": "f5cdda7aa47a3430d43b1fa29b87a04b",
+      "crc32": "bde2f479",
+      "sha1": "e7760989ca6dd550e3cf0837c833fb6fafee757c",
       "format": "Metadata"
     },
     {
@@ -1993,9 +2045,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 190,
-  "item_last_updated": 1658838421,
-  "item_size": 22046869,
+  "files_count": 195,
+  "item_last_updated": 1658881076,
+  "item_size": 22537143,
   "metadata": {
     "identifier": "newsweek-2022",
     "collection": [
@@ -2017,7 +2069,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3344323832,
+      "task_id": 3344778462,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2025,7 +2077,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 3970981,
+  "uniq": 719873010,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

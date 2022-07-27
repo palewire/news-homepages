@@ -1,5 +1,5 @@
 {
-  "created": 1658828836,
+  "created": 1658881724,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/24/items/onlineathens-2022",
@@ -570,31 +570,83 @@
       "sha1": "967e006c34dfcef63daee93483e3de4192ecc45a"
     },
     {
+      "name": "onlineathens-2022-07-26T11:42:04.087913-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658850128",
+      "size": "20997",
+      "md5": "4803bcb3b16ac4962bf11da531f225fa",
+      "crc32": "ac2b1f13",
+      "sha1": "6e7ed708e76e77cbedcc36706a37eca4eef6af8e",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-07-26T11:42:04.087913-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658850129",
+      "size": "32640",
+      "md5": "8a5e7004ee6a8d6599df6c7eaf4002b2",
+      "crc32": "260146fb",
+      "sha1": "76914766dec8c69fa0fd802cafa05cbbce946fd2",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-07-26T11:42:04.087913-04:00.jpg",
+      "source": "original",
+      "mtime": "1658850126",
+      "size": "233233",
+      "md5": "e15a703a32d3ecbc33b82025acae6805",
+      "crc32": "62f8b397",
+      "sha1": "09ccb39005b922dd7a7cadc9e03b1e6e157d61b1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "onlineathens-2022-07-26T11:42:04.087913-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658850131",
+      "size": "1513",
+      "md5": "4e79891d290b12d2613a205ab9efd524",
+      "crc32": "03ca4a7f",
+      "sha1": "fd535ed29f7a9a589d7859d04fbeb577938458b0",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-07-26T11:42:04.087913-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "onlineathens-2022-07-26T11:42:04.087913-04:00.jpg",
+      "mtime": "1658859447",
+      "size": "9178",
+      "md5": "dae94e43267c76e22cf3da7c9e1ca63b",
+      "crc32": "bd237541",
+      "sha1": "b37431c4c7e10254bdc86b586ef9ab3c988f0aa3"
+    },
+    {
       "name": "onlineathens-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0373986f8e084cf8cfdf39b3425d16def01c93bf",
-      "mtime": "1658809679",
-      "size": "13013",
-      "md5": "6cfb07239c4d4d440b514f97ec8cccd2",
-      "crc32": "5acece62",
-      "sha1": "30487e4492fbfa9abd9ec1bc0d1a53b5c8958b31",
+      "btih": "6fb920b2d3fc0db368ba7caa7c276bb2aea84889",
+      "mtime": "1658859574",
+      "size": "14092",
+      "md5": "3db572abd17b28bececd23eadc33690d",
+      "crc32": "de082254",
+      "sha1": "1dd5ab8a23f120ed84121cfb823fc8ca088cac9d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "onlineathens-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c2918e15dd1858b2da1c6cd5dd1def1b",
+      "md5": "c48a84e8560018d958848ee42839bcd6",
       "summation": "md5"
     },
     {
       "name": "onlineathens-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658807666",
-      "size": "77824",
-      "md5": "1d22e60d59a7014aaf510a63c522c3fe",
-      "crc32": "6b2f347a",
-      "sha1": "6767f63dbefcdb2d14dc399fa38becb0e6768ff8",
+      "mtime": "1658850135",
+      "size": "81920",
+      "md5": "069de1e5ff68dcacc4358c95da85380a",
+      "crc32": "7f98b7c3",
+      "sha1": "f21d8e6d3d267700511b3b6c6924b8853f627687",
       "format": "Metadata"
     },
     {
@@ -608,9 +660,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 58,
-  "item_last_updated": 1658809679,
-  "item_size": 3979639,
+  "files_count": 63,
+  "item_last_updated": 1658859574,
+  "item_size": 4282375,
   "metadata": {
     "identifier": "onlineathens-2022",
     "collection": [
@@ -627,10 +679,51 @@
     "publicdate": "2022-07-20 23:31:11",
     "addeddate": "2022-07-20 23:31:11"
   },
-  "server": "ia601405.us.archive.org",
-  "uniq": 1122019448,
+  "onlineathens-2022": [
+    {
+      "url": "https://www.onlineathens.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_onlineathens_com-_-2022_07_26_15_13_33.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_onlineathens_com-_-2022_07_26_15_13_33.report.json",
+      "summary": {
+        "performance": 0.79,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.onlineathens.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_onlineathens_com-_-2022_07_26_15_14_29.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_onlineathens_com-_-2022_07_26_15_14_29.report.json",
+      "summary": {
+        "performance": 0.86,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.onlineathens.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_onlineathens_com-_-2022_07_26_15_15_15.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_onlineathens_com-_-2022_07_26_15_15_15.report.json",
+      "summary": {
+        "performance": 0.88,
+        "accessibility": 0.89,
+        "best-practices": 0.83,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "server": "ia801405.us.archive.org",
+  "uniq": 1317654822,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia801405.us.archive.org",
+    "ia601405.us.archive.org"
   ]
 }

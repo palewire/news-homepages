@@ -1,5 +1,5 @@
 {
-  "created": 1658838295,
+  "created": 1658880896,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/1/items/macrumors-2022",
@@ -193,31 +193,83 @@
       "format": "JSON"
     },
     {
+      "name": "macrumors-2022-07-26T08:24:06.319900-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "macrumors-2022-07-26T08:24:06.319900-04:00.jpg",
+      "mtime": "1658850856",
+      "size": "9604",
+      "md5": "9745ec8a34446066bc1634e90cc42566",
+      "crc32": "f4460223",
+      "sha1": "fe79c997a105c93116c0fbd49ba8cf966def15b4"
+    },
+    {
+      "name": "macrumors-2022-07-26T20:14:11.713191-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658880854",
+      "size": "164143",
+      "md5": "3245841874d5e6ca03a2c817951050d3",
+      "crc32": "5b020f59",
+      "sha1": "78ba70b9bcad03f17883a0e99cb352c5b2492828",
+      "format": "JSON"
+    },
+    {
+      "name": "macrumors-2022-07-26T20:14:11.713191-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658880855",
+      "size": "111102",
+      "md5": "f16a017ead0d1e53b68a4d59a0f4025a",
+      "crc32": "e8a33174",
+      "sha1": "4cda9902c2fe8b7d41ae34fde01a84541c8bdde4",
+      "format": "JSON"
+    },
+    {
+      "name": "macrumors-2022-07-26T20:14:11.713191-04:00.jpg",
+      "source": "original",
+      "mtime": "1658880853",
+      "size": "288117",
+      "md5": "246572f905f3381847bedcebe94b7dc8",
+      "crc32": "15cc6304",
+      "sha1": "12bc9d8d677208af5e0d7911829c0f16c6bdbcf7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "macrumors-2022-07-26T20:14:11.713191-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658880856",
+      "size": "1486",
+      "md5": "6be2caf94e3cea75937f4d93ecf73266",
+      "crc32": "f7874c79",
+      "sha1": "f89994d416bdfca94d7a39096965c0ffbb74e8e8",
+      "format": "JSON"
+    },
+    {
       "name": "macrumors-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fc2e927ba90fff2a943f72b969952b1e00c0c69f",
-      "mtime": "1658838292",
-      "size": "5264",
-      "md5": "3bc42bd979421168047d81719223aa86",
-      "crc32": "d384553a",
-      "sha1": "3c438165ee47de7a83e654373f3409e16a0e21ca",
+      "btih": "ad066ed3e1640f31ef46b2cd4e4d2acfaa06341d",
+      "mtime": "1658880894",
+      "size": "6330",
+      "md5": "1c3e922b89e80818dfa6780abb0fe744",
+      "crc32": "6f2b6f3a",
+      "sha1": "9534b4dfa00d7867fb77b6f0aea51181d66fda6e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "macrumors-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a0d1e539b290bd19606caf44731f226e",
+      "md5": "f94f02fe7978cd353af394fa5e4461c0",
       "summation": "md5"
     },
     {
       "name": "macrumors-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658838258",
-      "size": "40960",
-      "md5": "09c9173de0db69c2b2c0bb84a76c3e26",
-      "crc32": "6ce0a534",
-      "sha1": "f853edc5578f9c9deadf63e85608a4e375ddfc86",
+      "mtime": "1658880860",
+      "size": "45056",
+      "md5": "bae646431dc2fdcd92657537152ddad9",
+      "crc32": "f49a71be",
+      "sha1": "0804e8c23dd3ac9e3450b84421ac2c104afa17e2",
       "format": "Metadata"
     },
     {
@@ -231,9 +283,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 22,
-  "item_last_updated": 1658838292,
-  "item_size": 2117105,
+  "files_count": 27,
+  "item_last_updated": 1658880894,
+  "item_size": 2696719,
   "metadata": {
     "identifier": "macrumors-2022",
     "collection": [
@@ -255,7 +307,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3344322733,
+      "task_id": 3344776445,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -263,7 +315,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1510289023,
+  "uniq": 1104768467,
   "workable_servers": [
     "ia601402.us.archive.org"
   ]

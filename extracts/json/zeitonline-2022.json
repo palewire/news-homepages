@@ -1,5 +1,5 @@
 {
-  "created": 1658810609,
+  "created": 1658860017,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/28/items/zeitonline-2022",
@@ -68,31 +68,83 @@
       "sha1": "73db0ed22a8d7026251f7e1bf25067311ba1328f"
     },
     {
+      "name": "zeitonline-2022-07-26T17:50:50.826430+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658850653",
+      "size": "3862",
+      "md5": "58155f4cb5a06561409ebe1c2152a828",
+      "crc32": "fcf457de",
+      "sha1": "a4f2e046fcda71a98bb0516e812427ab68a50802",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-07-26T17:50:50.826430+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658850655",
+      "size": "1356",
+      "md5": "8599be210934a7f2e79545a91ea8097e",
+      "crc32": "d5b86723",
+      "sha1": "c4d55c33d771d4abbfd0fafe72b1aa9fcfac41ff",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-07-26T17:50:50.826430+02:00.jpg",
+      "source": "original",
+      "mtime": "1658850652",
+      "size": "115248",
+      "md5": "866f8712483f317ec7e52f279a79b00d",
+      "crc32": "6920dc5b",
+      "sha1": "15f2efd2c82cb2d410241cd51e167a7d283781cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zeitonline-2022-07-26T17:50:50.826430+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658850656",
+      "size": "1474",
+      "md5": "5afb32542d2490935385689c35f2f131",
+      "crc32": "0eda6803",
+      "sha1": "ebcdfdde82f91154b432a89a071937031090fd4e",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-07-26T17:50:50.826430+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zeitonline-2022-07-26T17:50:50.826430+02:00.jpg",
+      "mtime": "1658859993",
+      "size": "7311",
+      "md5": "dbdc3f8dbd04592e7068efb0e6e8ea39",
+      "crc32": "00967000",
+      "sha1": "9ad4b79dfc079fc36bc095b131d9ada4ee1e8858"
+    },
+    {
       "name": "zeitonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ccc59c07ebb3d47841e94686511120e779b13270",
-      "mtime": "1658810599",
-      "size": "2690",
-      "md5": "c390049a1c2f47407abef7682c19c4a0",
-      "crc32": "469fabe6",
-      "sha1": "3b7f6fa8198418103ac86df063d0dae054f2d534",
+      "btih": "3f4f1a380079024d42abfead3554c71b28919b75",
+      "mtime": "1658859997",
+      "size": "3737",
+      "md5": "a6f18e25920522598ead1d9aa495fbb6",
+      "crc32": "492b99a9",
+      "sha1": "6beda34d52caffef0c66dd0e65fd573a41f38f2e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zeitonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1da62a3906bd97e5db84d426be9c3d29",
+      "md5": "e4c33ca40cf4967f21e30b2c92860f42",
       "summation": "md5"
     },
     {
       "name": "zeitonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658808190",
-      "size": "28672",
-      "md5": "8fee07e9461afb4f60dfbf1ce093c79b",
-      "crc32": "831a3a99",
-      "sha1": "18870197e940b831c4fc03d57921513a13e18f12",
+      "mtime": "1658850660",
+      "size": "32768",
+      "md5": "b8d51d6d72ba50e0560d8891e4f49d99",
+      "crc32": "b296d66d",
+      "sha1": "7fc534a6b8deace151c5c285c938c0d1fcdf07b8",
       "format": "Metadata"
     },
     {
@@ -106,9 +158,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 10,
-  "item_last_updated": 1658810599,
-  "item_size": 169103,
+  "files_count": 15,
+  "item_last_updated": 1658859997,
+  "item_size": 303497,
   "metadata": {
     "identifier": "zeitonline-2022",
     "collection": [
@@ -125,10 +177,10 @@
     "publicdate": "2022-07-26 04:02:52",
     "addeddate": "2022-07-26 04:02:52"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1499556188,
+  "server": "ia601408.us.archive.org",
+  "uniq": 1093596799,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658838982,
+  "created": 1658882017,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/13/items/windowscentral-2022",
@@ -162,31 +162,63 @@
       "sha1": "2892444286300c442fdac61ae605a20a0d52d761"
     },
     {
+      "name": "windowscentral-2022-07-26T08:50:10.644090-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658850613",
+      "size": "14466",
+      "md5": "3a37fd574ec38ea57db27d94421c5ba0",
+      "crc32": "d473b8a5",
+      "sha1": "beb98dc116f96087a347aff2eb4a315418aae7c8",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-07-26T08:50:10.644090-07:00.jpg",
+      "source": "original",
+      "mtime": "1658850611",
+      "size": "241281",
+      "md5": "1fb5843ae60f0bd67a9eb5f8b70e2829",
+      "crc32": "e4745767",
+      "sha1": "3cf6e0b86ad935a5e3450487045096b25906845e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "windowscentral-2022-07-26T08:50:10.644090-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "windowscentral-2022-07-26T08:50:10.644090-07:00.jpg",
+      "mtime": "1658859924",
+      "size": "9944",
+      "md5": "15903fc67c4f5884f0d05f154cedec6e",
+      "crc32": "80891661",
+      "sha1": "7fb4b20f47f9dfaf24a2926f63e3f857545e47a2"
+    },
+    {
       "name": "windowscentral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0257b6bf930e0d4b9d7daa29ce4d2337443c0e3a",
-      "mtime": "1658810334",
-      "size": "4693",
-      "md5": "d9cfde2f1f9056b53cf3785fbff05943",
-      "crc32": "ff53f98f",
-      "sha1": "b3519a28649925b3392fc8a6176dc58621d4f2f4",
+      "btih": "b7a80940bd5cab99bc393be88fa735fcada035ce",
+      "mtime": "1658859937",
+      "size": "5349",
+      "md5": "d3ded7467a31299f7607f111a8af7a9c",
+      "crc32": "79a902b7",
+      "sha1": "27dddbf2f485ac41eaa60a08da23829bf6f17bd9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "windowscentral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bfb452e73d1712097cba226ff61641f0",
+      "md5": "4cfd45e0a287237990135ecd5305c5c2",
       "summation": "md5"
     },
     {
       "name": "windowscentral-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658808113",
-      "size": "36864",
-      "md5": "fb4697c38c248d97b73fbc64643ee8d2",
-      "crc32": "3e3c258d",
-      "sha1": "5710c122fbbeb423364073a3f9258b3205366489",
+      "mtime": "1658850616",
+      "size": "40960",
+      "md5": "6f2ec163e884ce72db0d2388ba91d589",
+      "crc32": "74cdbbb5",
+      "sha1": "531d411dada694d49679e3fe47d5a898c4a9ef88",
       "format": "Metadata"
     },
     {
@@ -200,9 +232,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 19,
-  "item_last_updated": 1658810334,
-  "item_size": 966933,
+  "files_count": 22,
+  "item_last_updated": 1658859937,
+  "item_size": 1237376,
   "metadata": {
     "identifier": "windowscentral-2022",
     "collection": [
@@ -220,48 +252,466 @@
     "addeddate": "2022-07-25 06:48:02"
   },
   "server": "ia802503.us.archive.org",
-  "uniq": 700824883,
-  "windowscentral-2022": [
-    {
-      "url": "https://www.windowscentral.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_windowscentral_com-_-2022_07_26_03_45_07.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_windowscentral_com-_-2022_07_26_03_45_07.report.json",
-      "summary": {
-        "performance": 0.32,
-        "accessibility": 0.9,
-        "best-practices": 0.92,
-        "seo": 0.99,
-        "pwa": 0.6
+  "uniq": 331684725,
+  "windowscentral-2022": {
+    "role": "WebArea",
+    "name": "Windows Central - News, Reviews & Help on Windows 10, Windows 11, Xbox & more",
+    "children": [
+      {
+        "role": "link",
+        "name": "Skip to main content"
+      },
+      {
+        "role": "link",
+        "name": "Windows Central"
+      },
+      {
+        "role": "text",
+        "name": "Search"
+      },
+      {
+        "role": "text",
+        "name": "Subscribe"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "\uf09e"
+      },
+      {
+        "role": "button",
+        "name": "US Edition"
+      },
+      {
+        "role": "link",
+        "name": "home"
+      },
+      {
+        "role": "link",
+        "name": "Windows 11"
+      },
+      {
+        "role": "link",
+        "name": "Laptops"
+      },
+      {
+        "role": "link",
+        "name": "Surface"
+      },
+      {
+        "role": "link",
+        "name": "Reviews"
+      },
+      {
+        "role": "link",
+        "name": "Gaming & Xbox"
+      },
+      {
+        "role": "link",
+        "name": "How To"
+      },
+      {
+        "role": "link",
+        "name": "Forums"
+      },
+      {
+        "role": "generic",
+        "name": "More \uf103"
+      },
+      {
+        "role": "link",
+        "name": "Skip advert"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "generic",
+        "name": "",
+        "children": [
+          {
+            "role": "text",
+            "name": "TRENDING"
+          },
+          {
+            "role": "link",
+            "name": "Best Laptops"
+          },
+          {
+            "role": "link",
+            "name": "Best Graphics Cards"
+          },
+          {
+            "role": "link",
+            "name": "Best Motherboards"
+          },
+          {
+            "role": "link",
+            "name": "Best Antivirus"
+          },
+          {
+            "role": "link",
+            "name": "Best VPN"
+          },
+          {
+            "role": "link",
+            "name": "Xbox Series X"
+          },
+          {
+            "role": "text",
+            "name": "Windows Central is supported by its audience. When you purchase through links on our site, we may earn an affiliate commission."
+          },
+          {
+            "role": "link",
+            "name": "Here\u2019s why you can trust us"
+          },
+          {
+            "role": "text",
+            "name": "."
+          },
+          {
+            "role": "link",
+            "name": "LATEST NEWS"
+          },
+          {
+            "role": "link",
+            "name": "Intel Raptor Lake CPUs could see a big boost from DDR5 RAM"
+          },
+          {
+            "role": "link",
+            "name": "Add immersive colors with Govee's Dreamview light bars on sale for $105"
+          },
+          {
+            "role": "link",
+            "name": "Microsoft Edge Collections not syncing? A fix is on the way."
+          },
+          {
+            "role": "link",
+            "name": "Dell Mobile Connect to be discontinued, here's when it will stop working"
+          },
+          {
+            "role": "link",
+            "name": "The state of Xbox in Japan"
+          },
+          {
+            "role": "link",
+            "name": "Falcon Northwest Talon review: The ultimate gaming machine"
+          },
+          {
+            "role": "link",
+            "name": "Could 'MultiVersus' be the Super Smash Bros. competitor Xbox and PC needs?"
+          },
+          {
+            "role": "link",
+            "name": "Discord voice chat is coming to Xbox consoles with today's Xbox Insider build"
+          },
+          {
+            "role": "link",
+            "name": "SteelSeries Apex Pro Mini wireless keyboard review: So close to perfection"
+          },
+          {
+            "role": "link",
+            "name": "Amazon's 4th-gen Echo smart speaker is back down to its Prime Day price"
+          },
+          {
+            "role": "link",
+            "name": "Skip advert"
+          },
+          {
+            "role": "heading",
+            "name": "WINDOWS & SOFTWARE",
+            "level": 2
+          },
+          {
+            "role": "link",
+            "name": "How to fix problems installing updates on Windows 11"
+          },
+          {
+            "role": "link",
+            "name": "How to use DISM to repair local image on Windows 11"
+          },
+          {
+            "role": "link",
+            "name": "Windows 11 version 22H2: Everything you need to know about Microsoft's next big OS update"
+          },
+          {
+            "role": "link",
+            "name": "At long last, Microsoft PowerPoint for iOS will let you highlight any text"
+          },
+          {
+            "role": "link",
+            "name": "Microsoft Office will block macros from the web by default, for real this time"
+          },
+          {
+            "role": "link",
+            "name": "VIEW MORE WINDOWS & SOFTWARE \uf0da"
+          },
+          {
+            "role": "heading",
+            "name": "PC HARDWARE",
+            "level": 2
+          },
+          {
+            "role": "link",
+            "name": "The best Dell XPS 15 and 17 deals for July 2022"
+          },
+          {
+            "role": "link",
+            "name": "The best Dell monitor prices and deals for July 2022"
+          },
+          {
+            "role": "link",
+            "name": "The best cheap gaming laptop deals in July 2022"
+          },
+          {
+            "role": "link",
+            "name": "The best cheap Windows laptop deals for students, work, and more in July 2022"
+          },
+          {
+            "role": "link",
+            "name": "Microsoft News Roundup: Canceled mid-range Surface Duo, Discord on Xbox, and more"
+          },
+          {
+            "role": "link",
+            "name": "Best Buy's best student deals in this 3-day Back-to-School sale"
+          },
+          {
+            "role": "link",
+            "name": "VIEW MORE PC HARDWARE \uf0da"
+          },
+          {
+            "role": "heading",
+            "name": "MEET THE TEAM",
+            "level": 2
+          },
+          {
+            "role": "text",
+            "name": "\uf105"
+          },
+          {
+            "role": "link",
+            "name": "Daniel Rubino Daniel Rubino Executive Editor \u2014 Windows & Laptops",
+            "description": "Daniel Rubino"
+          },
+          {
+            "role": "link",
+            "name": "Cale Hunt Cale Hunt Senior Editor \u2014 Laptop reviews",
+            "description": "Cale Hunt"
+          },
+          {
+            "role": "link",
+            "name": "Rich Edmonds Rich Edmonds Senior Editor \u2014 PC Build",
+            "description": "Rich Edmonds"
+          },
+          {
+            "role": "link",
+            "name": "Daniel Thorp-Lancaster Daniel Thorp-Lancaster Editor-in-Chief",
+            "description": "Daniel Thorp-Lancaster"
+          },
+          {
+            "role": "link",
+            "name": "Chuong Nguyen Chuong Nguyen Senior Editor \u2014 PC reviews",
+            "description": "Chuong Nguyen"
+          },
+          {
+            "role": "link",
+            "name": "Zac Bowden Zac Bowden Senior Editor \u2014 Windows",
+            "description": "Zac Bowden"
+          },
+          {
+            "role": "link",
+            "name": "Matt Brown Matt Brown Senior Editor \u2014 Xbox & Gaming",
+            "description": "Matt Brown"
+          },
+          {
+            "role": "link",
+            "name": "Sean Endicott Sean Endicott Staff Writer \u2014 News",
+            "description": "Sean Endicott"
+          },
+          {
+            "role": "link",
+            "name": "Jez Corden Jez Corden Senior Editor, Xbox",
+            "description": "Jez Corden"
+          },
+          {
+            "role": "link",
+            "name": "Skip advert"
+          },
+          {
+            "role": "heading",
+            "name": "XBOX & PC GAMING",
+            "level": 2
+          },
+          {
+            "role": "link",
+            "name": "Nacon Revolution X Pro Xbox controller review: A mediocre competitive joypad"
+          },
+          {
+            "role": "link",
+            "name": "EA is reportedly working on a Black Panther game"
+          },
+          {
+            "role": "link",
+            "name": "Best gaming PC deals for July 2022"
+          },
+          {
+            "role": "link",
+            "name": "Xbox Series X & Series S get shorter boot time in latest update"
+          },
+          {
+            "role": "link",
+            "name": "Halo Infinite is using more of your internet data than it's supposed to [Update]"
+          },
+          {
+            "role": "link",
+            "name": "VIEW MORE GAMING \uf0da"
+          },
+          {
+            "role": "heading",
+            "name": "ACCESSORIES",
+            "level": 2
+          },
+          {
+            "role": "link",
+            "name": "The best XPS 13 Plus prices and deals in July 2022"
+          },
+          {
+            "role": "link",
+            "name": "The best wireless keyboard deals in July 2022"
+          },
+          {
+            "role": "link",
+            "name": "Razer's HyperPolling Wireless dongle may be too fast to appreciate"
+          },
+          {
+            "role": "link",
+            "name": "ADATA Elite SE880 review: A compact, speedy external SSD that runs on the rare USB-C 3.2 (Gen 2x2) standard"
+          },
+          {
+            "role": "link",
+            "name": "The best monitor prices and deals for July 2022"
+          },
+          {
+            "role": "link",
+            "name": "Sabrent Rocket V90 SDXC review: Super-fast storage for photo and video work"
+          },
+          {
+            "role": "link",
+            "name": "VIEW MORE ACCESSORIES \uf0da"
+          }
+        ]
+      },
+      {
+        "role": "text",
+        "name": "Windows Central is part of Future US Inc, an international media group and leading digital publisher."
+      },
+      {
+        "role": "link",
+        "name": "Visit our corporate site"
+      },
+      {
+        "role": "text",
+        "name": "(opens in new tab)"
+      },
+      {
+        "role": "text",
+        "name": "."
+      },
+      {
+        "role": "link",
+        "name": "Terms and conditions"
+      },
+      {
+        "role": "text",
+        "name": "(opens in new tab)"
+      },
+      {
+        "role": "link",
+        "name": "Privacy policy"
+      },
+      {
+        "role": "text",
+        "name": "(opens in new tab)"
+      },
+      {
+        "role": "link",
+        "name": "Cookies policy"
+      },
+      {
+        "role": "text",
+        "name": "(opens in new tab)"
+      },
+      {
+        "role": "link",
+        "name": "Accessibility statement"
+      },
+      {
+        "role": "link",
+        "name": "Careers"
+      },
+      {
+        "role": "text",
+        "name": "(opens in new tab)"
+      },
+      {
+        "role": "link",
+        "name": "Licensing"
+      },
+      {
+        "role": "text",
+        "name": "(opens in new tab)"
+      },
+      {
+        "role": "link",
+        "name": "About us"
+      },
+      {
+        "role": "text",
+        "name": "(opens in new tab)"
+      },
+      {
+        "role": "link",
+        "name": "Newsletter"
+      },
+      {
+        "role": "text",
+        "name": "(opens in new tab)"
+      },
+      {
+        "role": "link",
+        "name": "Advertising inquiries"
+      },
+      {
+        "role": "text",
+        "name": "(opens in new tab)"
+      },
+      {
+        "role": "link",
+        "name": "Do not sell my info"
+      },
+      {
+        "role": "text",
+        "name": "\u00a9 Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036."
       }
-    },
-    {
-      "url": "https://www.windowscentral.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_windowscentral_com-_-2022_07_26_03_45_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_windowscentral_com-_-2022_07_26_03_45_46.report.json",
-      "summary": {
-        "performance": 0.23,
-        "accessibility": 0.9,
-        "best-practices": 0.92,
-        "seo": 0.99,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://www.windowscentral.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_windowscentral_com-_-2022_07_26_03_46_29.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_windowscentral_com-_-2022_07_26_03_46_29.report.json",
-      "summary": {
-        "performance": 0.32,
-        "accessibility": 0.9,
-        "best-practices": 0.92,
-        "seo": 0.99,
-        "pwa": 0.6
-      }
-    }
-  ],
+    ]
+  },
   "workable_servers": [
     "ia802503.us.archive.org",
     "ia902503.us.archive.org"

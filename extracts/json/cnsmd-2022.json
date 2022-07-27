@@ -1,46 +1,5 @@
 {
-  "cnsmd-2022": [
-    {
-      "url": "https://cnsmaryland.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/cnsmaryland_org-_-2022_07_26_10_53_54.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/cnsmaryland_org-_-2022_07_26_10_53_54.report.json",
-      "summary": {
-        "performance": 0.2,
-        "accessibility": 0.69,
-        "best-practices": 1,
-        "seo": 0.76,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://cnsmaryland.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/cnsmaryland_org-_-2022_07_26_10_54_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/cnsmaryland_org-_-2022_07_26_10_54_46.report.json",
-      "summary": {
-        "performance": 0.33,
-        "accessibility": 0.69,
-        "best-practices": 1,
-        "seo": 0.76,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://cnsmaryland.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/cnsmaryland_org-_-2022_07_26_10_54_21.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/cnsmaryland_org-_-2022_07_26_10_54_21.report.json",
-      "summary": {
-        "performance": 0.29,
-        "accessibility": 0.69,
-        "best-practices": 1,
-        "seo": 0.76,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "created": 1658838159,
+  "created": 1658879180,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/33/items/cnsmd-2022",
@@ -1408,31 +1367,94 @@
       "format": "JSON"
     },
     {
+      "name": "cnsmd-2022-07-26T07:15:00.630642-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cnsmd-2022-07-26T07:15:00.630642-04:00.jpg",
+      "mtime": "1658847461",
+      "size": "9451",
+      "md5": "7c51a5fe9de4168f1b67e684e842a9a0",
+      "crc32": "a3dfe45f",
+      "sha1": "5d8f21ac217ff8a8dd71f5fcd5e232b86d309af9"
+    },
+    {
+      "name": "cnsmd-2022-07-26T19:06:42.670919-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658876807",
+      "size": "31889",
+      "md5": "793cb329e5f4db2c01c74efc6fe39ea0",
+      "crc32": "aae3e8db",
+      "sha1": "57b53362bbafebe641acc67e62911bbd6ce96f7a",
+      "format": "JSON"
+    },
+    {
+      "name": "cnsmd-2022-07-26T19:06:42.670919-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658876808",
+      "size": "28484",
+      "md5": "801015b10e0d33ce0f748708473ff91d",
+      "crc32": "aae1088e",
+      "sha1": "6c1736b75166f5b130311cf56ea76929c73dc9cc",
+      "format": "JSON"
+    },
+    {
+      "name": "cnsmd-2022-07-26T19:06:42.670919-04:00.jpg",
+      "source": "original",
+      "mtime": "1658876805",
+      "size": "266912",
+      "md5": "d6d87e65e34029bdbb9575f74635b139",
+      "crc32": "acec90bf",
+      "sha1": "3ca515c3c1faa49de6e891ce547cc53f270574f8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cnsmd-2022-07-26T19:06:42.670919-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658876810",
+      "size": "1459",
+      "md5": "3ceff553584a5b12923fb2e9b333dacf",
+      "crc32": "325e6229",
+      "sha1": "ad6fff85664383c740db247148006dc2eaecb326",
+      "format": "JSON"
+    },
+    {
+      "name": "cnsmd-2022-07-26T19:06:42.670919-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cnsmd-2022-07-26T19:06:42.670919-04:00.jpg",
+      "mtime": "1658879053",
+      "size": "9433",
+      "md5": "e9b1b983def4a4d62b1e1f0a9dea2553",
+      "crc32": "68b47279",
+      "sha1": "d93b535277fd2975e224dfd1945fe5869c8edff5"
+    },
+    {
       "name": "cnsmd-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a8369d2556fd67028f0660aefd82e295d7b1d55f",
-      "mtime": "1658834148",
-      "size": "28389",
-      "md5": "8a96cbbc6976c62b3942d14c4573e8d2",
-      "crc32": "0db5fe30",
-      "sha1": "37f31be356ce24099b20bb24e098c7f6212adfc6",
+      "btih": "6c0c4f3757a34ddff40faf35352efd810aa42e9c",
+      "mtime": "1658879061",
+      "size": "29614",
+      "md5": "c56268317024e112a693bca8496f233d",
+      "crc32": "d8307d73",
+      "sha1": "50073663fc6603efacc6cbebcb5101a066b421bc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnsmd-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "782e97d0a8a3e1d68003e589c87f89d5",
+      "md5": "5b51e3c7309df42ffebf9770527eeb19",
       "summation": "md5"
     },
     {
       "name": "cnsmd-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658834114",
-      "size": "172032",
-      "md5": "75dfae043222a9737734594e0d01d571",
-      "crc32": "967c2168",
-      "sha1": "7b2f2869d8bb87e6ed473b7f015c3f28d84445a9",
+      "mtime": "1658876815",
+      "size": "180224",
+      "md5": "1955e95a2e91867f81788ac8e7310688",
+      "crc32": "c7a1df24",
+      "sha1": "93562fe28b132c790b19f56d0cd722b4a2e30314",
       "format": "Metadata"
     },
     {
@@ -1446,9 +1468,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 134,
-  "item_last_updated": 1658834148,
-  "item_size": 11138001,
+  "files_count": 140,
+  "item_last_updated": 1658879061,
+  "item_size": 11495046,
   "metadata": {
     "identifier": "cnsmd-2022",
     "collection": [
@@ -1465,21 +1487,10 @@
     "publicdate": "2022-07-12 20:46:24",
     "addeddate": "2022-07-12 20:46:24"
   },
-  "pending_tasks": true,
-  "server": "ia601402.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344285560,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1522780573,
+  "server": "ia801402.us.archive.org",
+  "uniq": 1222101150,
   "workable_servers": [
+    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

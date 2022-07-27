@@ -1,5 +1,5 @@
 {
-  "created": 1658838654,
+  "created": 1658881288,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/15/items/sltimes-2022",
@@ -4587,31 +4587,83 @@
       "format": "JSON"
     },
     {
+      "name": "sltimes-2022-07-26T07:30:01.925694-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltimes-2022-07-26T07:30:01.925694-05:00.jpg",
+      "mtime": "1658851126",
+      "size": "10850",
+      "md5": "14e9f3b4aca8617c1e07375c144177d3",
+      "crc32": "64d96a89",
+      "sha1": "38d8a17891fedc6f2bde4b761b984425175c41b1"
+    },
+    {
+      "name": "sltimes-2022-07-26T19:20:17.914083-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658881228",
+      "size": "27290",
+      "md5": "0b035dc4741e78b45d6a76154dfd69f1",
+      "crc32": "a9083df4",
+      "sha1": "e2104b3edad9ab7e0d1c28f0027d3c9afaca8321",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-07-26T19:20:17.914083-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658881230",
+      "size": "20362",
+      "md5": "82a88c026f59d99f11e72c57152a8682",
+      "crc32": "df18b67f",
+      "sha1": "76b4438e4efd688e8754b0f76c5bc7cb3bb3ef44",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-07-26T19:20:17.914083-05:00.jpg",
+      "source": "original",
+      "mtime": "1658881222",
+      "size": "402734",
+      "md5": "9f0b2659ff9c727f94b8163fcd5d3095",
+      "crc32": "2d571f49",
+      "sha1": "6d57fab8d2e33e09f0de8d548e3c89e3294475f8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltimes-2022-07-26T19:20:17.914083-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658881232",
+      "size": "1486",
+      "md5": "ee3d674539d7707cf6846163e2e840a3",
+      "crc32": "54fb8d7e",
+      "sha1": "e20819f37890fd3eedd2fd7cb6885de7c7a7342e",
+      "format": "JSON"
+    },
+    {
       "name": "sltimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8d13532c1523a551074b189853c94db2294b7193",
-      "mtime": "1658838652",
-      "size": "93524",
-      "md5": "79e32578f4d0ff930ff741a1f228c56b",
-      "crc32": "a80e2405",
-      "sha1": "33720fde442989b6e0115094c7306b339609afbd",
+      "btih": "dc31c623bb266f1dd4c5ca2d4427fa0058ac3cd2",
+      "mtime": "1658881282",
+      "size": "94579",
+      "md5": "48a1ddb5005144f11e490de9feb197dc",
+      "crc32": "bcb47288",
+      "sha1": "9746473712567b57b800bd5074e091a1706c9a8d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sltimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b23f62e333f6f8284a07c94e9bd28ebb",
+      "md5": "3a66ab7f6c4ffdfeee9b4ba0f2dc5b41",
       "summation": "md5"
     },
     {
       "name": "sltimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658838613",
-      "size": "528384",
-      "md5": "3a5a3f148612da2072bfec6ad72dd234",
-      "crc32": "bbb6c916",
-      "sha1": "741bb5b81007bd505b1b14bbe10fd75a5786f415",
+      "mtime": "1658881242",
+      "size": "532480",
+      "md5": "d515529a5a5b2bb7c2671f91026f7d30",
+      "crc32": "172495d5",
+      "sha1": "c3e9b9857a07ea7da178b16a71ff4e515d61d64f",
       "format": "Metadata"
     },
     {
@@ -4625,9 +4677,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 441,
-  "item_last_updated": 1658838652,
-  "item_size": 48186761,
+  "files_count": 446,
+  "item_last_updated": 1658881282,
+  "item_size": 48654634,
   "metadata": {
     "identifier": "sltimes-2022",
     "collection": [
@@ -4649,7 +4701,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3344325765,
+      "task_id": 3344780437,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4657,7 +4709,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1556973125,
+  "uniq": 369494685,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

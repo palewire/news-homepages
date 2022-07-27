@@ -1,5 +1,5 @@
 {
-  "created": 1658838637,
+  "created": 1658881760,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/31/items/propublica-2022",
@@ -4758,31 +4758,83 @@
       "sha1": "9e7ac4a242b3e8e189a4740d43bc3c54b7636e5b"
     },
     {
+      "name": "propublica-2022-07-26T11:43:15.371925-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658850201",
+      "size": "48193",
+      "md5": "ddbfd419fa82bd611cc7e20e4bd73bae",
+      "crc32": "db2b3573",
+      "sha1": "91aa6517981d6dfa9453723736818e2a54ee5c09",
+      "format": "JSON"
+    },
+    {
+      "name": "propublica-2022-07-26T11:43:15.371925-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658850203",
+      "size": "20438",
+      "md5": "c4270ca05694c6b2efe6bca5bd23cc08",
+      "crc32": "b00c5b22",
+      "sha1": "2de042215f6b9848b548aa453c6f37f3fa93d779",
+      "format": "JSON"
+    },
+    {
+      "name": "propublica-2022-07-26T11:43:15.371925-04:00.jpg",
+      "source": "original",
+      "mtime": "1658850199",
+      "size": "308539",
+      "md5": "e58310c0c59424220f1e5214379463a6",
+      "crc32": "5a637d98",
+      "sha1": "783bc42116cc153605333f0a5ef2435317a0cbb8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "propublica-2022-07-26T11:43:15.371925-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658850207",
+      "size": "1495",
+      "md5": "8924ce71f8eef2188a6600788a56352c",
+      "crc32": "1e2507b0",
+      "sha1": "a409d61d5d43da43fa02b553da42aa88e5f236bf",
+      "format": "JSON"
+    },
+    {
+      "name": "propublica-2022-07-26T11:43:15.371925-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "propublica-2022-07-26T11:43:15.371925-04:00.jpg",
+      "mtime": "1658859417",
+      "size": "9731",
+      "md5": "675fcd2e22ff6f4bd02a35d0056b6c16",
+      "crc32": "02c6e42d",
+      "sha1": "9e7ac4a242b3e8e189a4740d43bc3c54b7636e5b"
+    },
+    {
       "name": "propublica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3667f68da93ebff3033d825bf86f6f1ba1e3df0e",
-      "mtime": "1658809791",
-      "size": "97945",
-      "md5": "ac62dc2a7f152711e92c5f1b21930692",
-      "crc32": "8d017301",
-      "sha1": "7a5977d219e3d5253880aadc5954feca5423182d",
+      "btih": "24048c4c16a8b8b92ff42d662c708219f58521e6",
+      "mtime": "1658859507",
+      "size": "99014",
+      "md5": "5dcdb894f494889a9ce4d98de91e2167",
+      "crc32": "3b7cd424",
+      "sha1": "6b37e2058dd5a4bb56d145d3102072fed8610663",
       "format": "Archive BitTorrent"
     },
     {
       "name": "propublica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9686eebb663f8ad3365dabd6f19423b6",
+      "md5": "fc1e19add5bba216bf89039f2df7748f",
       "summation": "md5"
     },
     {
       "name": "propublica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658807734",
-      "size": "540672",
-      "md5": "e32c2a4ae9f52009c2b85b241aa05fea",
-      "crc32": "4ea69c1a",
-      "sha1": "31a0f0685bd24b473826e7e9ed217fcf47e442ce",
+      "mtime": "1658850211",
+      "size": "544768",
+      "md5": "ac9ad4c73c205abfda399475abccf198",
+      "crc32": "22efafc1",
+      "sha1": "7a6739989c692d9d086e3eac461d9badefc0e097",
       "format": "Metadata"
     },
     {
@@ -4796,9 +4848,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 457,
-  "item_last_updated": 1658809791,
-  "item_size": 43597459,
+  "files_count": 462,
+  "item_last_updated": 1658859507,
+  "item_size": 43991020,
   "metadata": {
     "identifier": "propublica-2022",
     "collection": [
@@ -4819,10 +4871,10 @@
     {
       "url": "https://www.propublica.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_propublica_org-_-2022_07_26_03_34_06.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_propublica_org-_-2022_07_26_03_34_06.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_propublica_org-_-2022_07_26_15_15_18.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_propublica_org-_-2022_07_26_15_15_18.report.json",
       "summary": {
-        "performance": 0.43,
+        "performance": 0.36,
         "accessibility": 0.84,
         "best-practices": 0.92,
         "seo": 0.86,
@@ -4832,10 +4884,10 @@
     {
       "url": "https://www.propublica.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_propublica_org-_-2022_07_26_03_34_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_propublica_org-_-2022_07_26_03_34_26.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_propublica_org-_-2022_07_26_15_15_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_propublica_org-_-2022_07_26_15_15_51.report.json",
       "summary": {
-        "performance": 0.35,
+        "performance": 0.51,
         "accessibility": 0.84,
         "best-practices": 0.92,
         "seo": 0.86,
@@ -4845,8 +4897,8 @@
     {
       "url": "https://www.propublica.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_propublica_org-_-2022_07_26_03_34_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_propublica_org-_-2022_07_26_03_34_44.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_propublica_org-_-2022_07_26_15_15_35.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_propublica_org-_-2022_07_26_15_15_35.report.json",
       "summary": {
         "performance": 0.41,
         "accessibility": 0.84,
@@ -4856,10 +4908,10 @@
       }
     }
   ],
-  "server": "ia601504.us.archive.org",
-  "uniq": 2020241778,
+  "server": "ia801504.us.archive.org",
+  "uniq": 973110208,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia801504.us.archive.org",
+    "ia601504.us.archive.org"
   ]
 }

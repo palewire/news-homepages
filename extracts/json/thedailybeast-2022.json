@@ -1,5 +1,5 @@
 {
-  "created": 1658833049,
+  "created": 1658859868,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/thedailybeast-2022",
@@ -298,31 +298,83 @@
       "sha1": "9e8df7281f39633077b432d3a1cc254380554289"
     },
     {
+      "name": "thedailybeast-2022-07-26T11:47:05.386718-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658850429",
+      "size": "19846",
+      "md5": "2d812c89cd9e5fec78b54d1ea36a9dad",
+      "crc32": "5ea14588",
+      "sha1": "c8d81c1b412559240d37c02dbd93dc1b76f4d59f",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailybeast-2022-07-26T11:47:05.386718-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658850430",
+      "size": "18147",
+      "md5": "e8259a8354a98741efa2b55549049b2f",
+      "crc32": "cfc150f0",
+      "sha1": "6291f9c94d6bdb390b4efd24b84b3885c5da34eb",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailybeast-2022-07-26T11:47:05.386718-04:00.jpg",
+      "source": "original",
+      "mtime": "1658850427",
+      "size": "329700",
+      "md5": "eb57e76fd8ecbdaf7519e0124f5a9382",
+      "crc32": "36001241",
+      "sha1": "e0c1b3332df154e50bb88f2bc0fd95802e97a9fc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailybeast-2022-07-26T11:47:05.386718-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658850432",
+      "size": "1522",
+      "md5": "bb4724a6f75b401d597ca7658c494f08",
+      "crc32": "c224b1b0",
+      "sha1": "9ce606b90b9a7631360b2a4c4bfd54bffc96b0a0",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailybeast-2022-07-26T11:47:05.386718-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailybeast-2022-07-26T11:47:05.386718-04:00.jpg",
+      "mtime": "1658859675",
+      "size": "10473",
+      "md5": "b2aa7c9084a716bfc85c44b0d0347162",
+      "crc32": "58cddddd",
+      "sha1": "f11f236625e27738b08c4f7a9006ce48707a2897"
+    },
+    {
       "name": "thedailybeast-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e2b387da6a419c7fd4cf182e7a4a0e8aa1c49290",
-      "mtime": "1658810024",
-      "size": "7492",
-      "md5": "fdf6795903507211ec5c707353c0f8f1",
-      "crc32": "4bbf0bc9",
-      "sha1": "eb578b0907b648c15ee1d99d38b4ea55bcd0354e",
+      "btih": "a48a983e2cd67edea023ffb23ce86a67a09817ba",
+      "mtime": "1658859695",
+      "size": "8557",
+      "md5": "3db7bdd407f325f3697df28f0f083670",
+      "crc32": "6c98d844",
+      "sha1": "59d2fefbc06a0390915349a6e7e5c67d7cdfe1b3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailybeast-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "648cb65f40b104e6b07a5f5d7f2af22c",
+      "md5": "a23f439e31ea8a58f4f6e326d999c07a",
       "summation": "md5"
     },
     {
       "name": "thedailybeast-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658807949",
-      "size": "49152",
-      "md5": "0f2762e105ded9d002a78862b9fedf86",
-      "crc32": "3eb6c822",
-      "sha1": "7f9d707298bb0c99ef03db256a6feb9498ec003e",
+      "mtime": "1658850435",
+      "size": "57344",
+      "md5": "cb00c36acecab1c574ae68d24ed30203",
+      "crc32": "029ed0ed",
+      "sha1": "4d777f7e20c91349b757e39ff54b766d106c6e50",
       "format": "Metadata"
     },
     {
@@ -336,9 +388,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 32,
-  "item_last_updated": 1658810024,
-  "item_size": 2104768,
+  "files_count": 37,
+  "item_last_updated": 1658859695,
+  "item_size": 2493713,
   "metadata": {
     "identifier": "thedailybeast-2022",
     "collection": [
@@ -355,10 +407,10 @@
     "publicdate": "2022-07-23 16:04:26",
     "addeddate": "2022-07-23 16:04:26"
   },
-  "server": "ia902505.us.archive.org",
-  "uniq": 1909095075,
+  "server": "ia802505.us.archive.org",
+  "uniq": 1894224372,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }

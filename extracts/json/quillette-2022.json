@@ -1,5 +1,5 @@
 {
-  "created": 1658838555,
+  "created": 1658881191,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/31/items/quillette-2022",
@@ -821,31 +821,83 @@
       "format": "JSON"
     },
     {
+      "name": "quillette-2022-07-26T13:28:28.884949+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "quillette-2022-07-26T13:28:28.884949+01:00.jpg",
+      "mtime": "1658850983",
+      "size": "9218",
+      "md5": "e3f34d2b2452f053a85307024e67a28e",
+      "crc32": "9b67eee5",
+      "sha1": "ec8294d8ccc358df58cab34d318376727c701e6e"
+    },
+    {
+      "name": "quillette-2022-07-27T01:19:00.160969+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658881143",
+      "size": "8903",
+      "md5": "dc914b83a6a307e762ff4fa4e0249a8b",
+      "crc32": "c39d9635",
+      "sha1": "38904f2817b5e1ba3140956fcaea682c3ee28d50",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-07-27T01:19:00.160969+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658881146",
+      "size": "5905",
+      "md5": "30cdc5d334d52c4afb725155a1858b6d",
+      "crc32": "8a1de320",
+      "sha1": "ec18eaa86535d1a0f391bcd02f91a70fb8c51540",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-07-27T01:19:00.160969+01:00.jpg",
+      "source": "original",
+      "mtime": "1658881141",
+      "size": "167232",
+      "md5": "101b39c6a6ff8cc013b12e6d06bafeea",
+      "crc32": "40011a70",
+      "sha1": "0127174a69784521c9458d8a899cf2081f88728f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "quillette-2022-07-27T01:19:00.160969+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658881148",
+      "size": "1450",
+      "md5": "6d60b243d7b0815576df10ef574e394f",
+      "crc32": "ae97d345",
+      "sha1": "e2006a6ecb13eca56fbab7e0fb220a62569f614f",
+      "format": "JSON"
+    },
+    {
       "name": "quillette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "66e65323e50a2aaa06a0043fdef6e8f151ae9147",
-      "mtime": "1658838553",
-      "size": "17816",
-      "md5": "e0601be018a9579851e608d6a7aea98d",
-      "crc32": "fa159fc9",
-      "sha1": "2fed2dec109f3fafeb50b173a5ededf97b212506",
+      "btih": "78a5010e1a2a90a5c4eb8941a86afd4e3a0d63fb",
+      "mtime": "1658881189",
+      "size": "18858",
+      "md5": "959d75cf0a5c52b5826ec6cbe30bb58c",
+      "crc32": "aceb3d50",
+      "sha1": "64d6ef507d963012fbf9a040199ac2454b424edf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "quillette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9f19eb59ab519d484af1b1b39b848438",
+      "md5": "b5243a5061452c2cf96fb55ee8ca15a9",
       "summation": "md5"
     },
     {
       "name": "quillette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658838519",
-      "size": "110592",
-      "md5": "7a711badc4a9d4c0af27b50b36c91f70",
-      "crc32": "56970c48",
-      "sha1": "124f9d01ee730afb4954578c8b7853d04aecd236",
+      "mtime": "1658881153",
+      "size": "118784",
+      "md5": "9a3c71752090477e7e36ab822f7e9e10",
+      "crc32": "fa472df5",
+      "sha1": "b5d83fc8e0d091178b8c3c02efcb6dd3007ae0f4",
       "format": "Metadata"
     },
     {
@@ -859,9 +911,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 82,
-  "item_last_updated": 1658838553,
-  "item_size": 4286294,
+  "files_count": 87,
+  "item_last_updated": 1658881189,
+  "item_size": 4488236,
   "metadata": {
     "identifier": "quillette-2022",
     "collection": [
@@ -883,7 +935,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3344324969,
+      "task_id": 3344779536,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -891,7 +943,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 278680847,
+  "uniq": 1963439503,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

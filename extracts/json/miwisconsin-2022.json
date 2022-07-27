@@ -1,5 +1,5 @@
 {
-  "created": 1658805195,
+  "created": 1658856950,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/15/items/miwisconsin-2022",
@@ -1536,31 +1536,83 @@
       "sha1": "9793ddc167ef9747e55218b339bfe458fe88e445"
     },
     {
+      "name": "miwisconsin-2022-07-26T09:40:29.524744-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658846436",
+      "size": "41514",
+      "md5": "0833430b27769fd653b3abba07dc38ec",
+      "crc32": "6ccadb34",
+      "sha1": "cd3c848eddadf8441af5cb40057ef9e0b3670f49",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-07-26T09:40:29.524744-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658846437",
+      "size": "58069",
+      "md5": "4be11350bf17af63baeb50f54bf3cd1a",
+      "crc32": "dca25cc0",
+      "sha1": "500aa6febfff5355cdc3bc1afef5a8af5719642b",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-07-26T09:40:29.524744-05:00.jpg",
+      "source": "original",
+      "mtime": "1658846434",
+      "size": "207015",
+      "md5": "9eb25ec28c321b04c845ba3b68c41fe7",
+      "crc32": "30460807",
+      "sha1": "37c9047f0ff22ee711d7d374f43a3388225dedfa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "miwisconsin-2022-07-26T09:40:29.524744-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658846439",
+      "size": "1468",
+      "md5": "5c101f203eb8602a8476a2e5d6ac7de0",
+      "crc32": "873d3ab7",
+      "sha1": "3fa77b56155b533517361bfa864be7d30ab54ba9",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-07-26T09:40:29.524744-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "miwisconsin-2022-07-26T09:40:29.524744-05:00.jpg",
+      "mtime": "1658856922",
+      "size": "9465",
+      "md5": "8accd7edf46e363cc774bd403f3118e7",
+      "crc32": "8f4106a6",
+      "sha1": "bc22892b9059f26867e653689bdf1ddd90a4d02e"
+    },
+    {
       "name": "miwisconsin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fd554e27814600a9e102e567e71fc2a984e511bf",
-      "mtime": "1658805149",
-      "size": "32595",
-      "md5": "29def94e6fc774e0b72728dbbb0a8756",
-      "crc32": "13adba47",
-      "sha1": "368ab28c0add95ce1252a76e28b9866100d9ffb9",
+      "btih": "2d4226b634fa02fab0c7a065bec7249af15a3f0d",
+      "mtime": "1658856929",
+      "size": "33669",
+      "md5": "528c6544e6aee6986a978cd5a791c432",
+      "crc32": "7dd043cc",
+      "sha1": "fde43790063df14ec8f118d25778ea88bfe7d622",
       "format": "Archive BitTorrent"
     },
     {
       "name": "miwisconsin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1a0260d14c1862cd3c344f117b3057b4",
+      "md5": "580b5fb9471ed6b25784df4f5181c03b",
       "summation": "md5"
     },
     {
       "name": "miwisconsin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658803687",
-      "size": "192512",
-      "md5": "c7899ac896b7e0bdc95cf80e4ccc2530",
-      "crc32": "d3950cfe",
-      "sha1": "cda0e2cc764740d6aab9be2beb9d214fda6b437d",
+      "mtime": "1658846446",
+      "size": "196608",
+      "md5": "0b1113a4b024f8504d2cd101230d0b6d",
+      "crc32": "d96af75c",
+      "sha1": "c91dcd0b6d6618c83ebebcc16dc7d3bf8e333e63",
       "format": "Metadata"
     },
     {
@@ -1574,9 +1626,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 150,
-  "item_last_updated": 1658805149,
-  "item_size": 11865246,
+  "files_count": 155,
+  "item_last_updated": 1658856929,
+  "item_size": 12187947,
   "metadata": {
     "identifier": "miwisconsin-2022",
     "collection": [
@@ -1593,10 +1645,10 @@
     "publicdate": "2022-07-09 04:00:37",
     "addeddate": "2022-07-09 04:00:37"
   },
-  "server": "ia601502.us.archive.org",
-  "uniq": 1562430887,
+  "server": "ia801502.us.archive.org",
+  "uniq": 403604417,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }

@@ -3,10 +3,10 @@
     {
       "url": "https://baltimorebeat.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/baltimorebeat_com-_-2022_07_26_01_09_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/baltimorebeat_com-_-2022_07_26_01_09_17.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/baltimorebeat_com-_-2022_07_26_13_01_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/baltimorebeat_com-_-2022_07_26_13_01_58.report.json",
       "summary": {
-        "performance": 0.46,
+        "performance": 0.26,
         "accessibility": 0.95,
         "best-practices": 1,
         "seo": 0.93,
@@ -16,10 +16,10 @@
     {
       "url": "https://baltimorebeat.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/baltimorebeat_com-_-2022_07_26_01_09_32.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/baltimorebeat_com-_-2022_07_26_01_09_32.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/baltimorebeat_com-_-2022_07_26_13_02_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/baltimorebeat_com-_-2022_07_26_13_02_37.report.json",
       "summary": {
-        "performance": 0.44,
+        "performance": 0.45,
         "accessibility": 0.95,
         "best-practices": 1,
         "seo": 0.93,
@@ -29,10 +29,10 @@
     {
       "url": "https://baltimorebeat.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/baltimorebeat_com-_-2022_07_26_01_09_01.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/baltimorebeat_com-_-2022_07_26_01_09_01.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/baltimorebeat_com-_-2022_07_26_13_02_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/baltimorebeat_com-_-2022_07_26_13_02_19.report.json",
       "summary": {
-        "performance": 0.4,
+        "performance": 0.42,
         "accessibility": 0.95,
         "best-practices": 1,
         "seo": 0.93,
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "created": 1658837967,
+  "created": 1658881282,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/30/items/baltbeat-2022",
@@ -1335,31 +1335,83 @@
       "sha1": "e227cdd3fda22c595365b0383ed9567f263c6c7b"
     },
     {
+      "name": "baltbeat-2022-07-26T09:25:28.855127-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658841932",
+      "size": "41805",
+      "md5": "92c362608b23fc7409aeef3e415e0e72",
+      "crc32": "a50879f0",
+      "sha1": "019d8602e3bbb8534696eb58ec85fb58039bf998",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbeat-2022-07-26T09:25:28.855127-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658841934",
+      "size": "3825",
+      "md5": "a09ccf4175b84bcc0626f9e90c5ae505",
+      "crc32": "647a289a",
+      "sha1": "ce84567c3da34ed71749d67d926ac264b4bd4ef4",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbeat-2022-07-26T09:25:28.855127-04:00.jpg",
+      "source": "original",
+      "mtime": "1658841930",
+      "size": "235831",
+      "md5": "5ae4b11f25582c63b91e7479583674b9",
+      "crc32": "7aa4b3c1",
+      "sha1": "ba8e7c9f2cd816ce04b1ae53a078ef671275a667",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbeat-2022-07-26T09:25:28.855127-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658841936",
+      "size": "1477",
+      "md5": "de8589175ea61dfb663d3e191a316af0",
+      "crc32": "d2a9a954",
+      "sha1": "8aae7dd970f30b2b4422016d0475eeeeabd8b5c0",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbeat-2022-07-26T09:25:28.855127-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbeat-2022-07-26T09:25:28.855127-04:00.jpg",
+      "mtime": "1658854430",
+      "size": "8528",
+      "md5": "a3999056a9faaa660463abf615633961",
+      "crc32": "994f0d0e",
+      "sha1": "e227cdd3fda22c595365b0383ed9567f263c6c7b"
+    },
+    {
       "name": "baltbeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "201ab80189b98dc6211ec0718e7000b690f1b5ed",
-      "mtime": "1658805819",
-      "size": "27220",
-      "md5": "3d05db083d4f875fcaa4b17c50ab010f",
-      "crc32": "a364a433",
-      "sha1": "c02ffd3fba03874a6e1f504214ef0eda91b05525",
+      "btih": "5d10b279529bda3339991291c0d69eed0f57918b",
+      "mtime": "1658854434",
+      "size": "28258",
+      "md5": "8ba840220ca6243707faa7ccb896f577",
+      "crc32": "80fc3694",
+      "sha1": "e72961ba30c1aca58f28cb869b05d473f81f9044",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltbeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fdfad1fe89ea07bd8a83f46137f89e67",
+      "md5": "033eb8094d4325c260b9c3513e41857d",
       "summation": "md5"
     },
     {
       "name": "baltbeat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658804200",
-      "size": "163840",
-      "md5": "d09a0bea45f3baa0c8599c72e9019b89",
-      "crc32": "ed474652",
-      "sha1": "271451cae20dc764754c973ee839579547b78e52",
+      "mtime": "1658841939",
+      "size": "172032",
+      "md5": "9ac0262096b23099bb7e70e3b95fc8c4",
+      "crc32": "18b49a67",
+      "sha1": "7998b1a975bb4502d9a9ab5c218711742970e378",
       "format": "Metadata"
     },
     {
@@ -1373,9 +1425,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 127,
-  "item_last_updated": 1658805819,
-  "item_size": 8623283,
+  "files_count": 132,
+  "item_last_updated": 1658854434,
+  "item_size": 8923979,
   "metadata": {
     "identifier": "baltbeat-2022",
     "collection": [
@@ -1392,10 +1444,10 @@
     "publicdate": "2022-07-13 02:24:28",
     "addeddate": "2022-07-13 02:24:28"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 1867903224,
+  "server": "ia902500.us.archive.org",
+  "uniq": 1439109531,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

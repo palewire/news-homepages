@@ -1,5 +1,5 @@
 {
-  "created": 1658838392,
+  "created": 1658881070,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/33/items/newsday-2022",
@@ -109,31 +109,83 @@
       "format": "JSON"
     },
     {
+      "name": "newsday-2022-07-26T08:25:44.484950-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsday-2022-07-26T08:25:44.484950-04:00.jpg",
+      "mtime": "1658850888",
+      "size": "9909",
+      "md5": "e8613c20cf45a5741cdd7efdae25e0cb",
+      "crc32": "ab5b36e5",
+      "sha1": "0c590af008e7ad4214e9b7841ab213026aa36cf8"
+    },
+    {
+      "name": "newsday-2022-07-26T20:16:59.392671-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658881023",
+      "size": "19457",
+      "md5": "e975a972e3cd7f4c088058add63be6ea",
+      "crc32": "649d4ed9",
+      "sha1": "dd1067c40b83aa91a4d3dc0ba37c93ff5a3cf64a",
+      "format": "JSON"
+    },
+    {
+      "name": "newsday-2022-07-26T20:16:59.392671-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658881026",
+      "size": "16686",
+      "md5": "d5860ad7bc5b71f3c2b6bbf2e1c29eed",
+      "crc32": "be4a6cec",
+      "sha1": "b5cd713d7eabf5ab1b11c8a8d50cabcdc445114c",
+      "format": "JSON"
+    },
+    {
+      "name": "newsday-2022-07-26T20:16:59.392671-04:00.jpg",
+      "source": "original",
+      "mtime": "1658881021",
+      "size": "349092",
+      "md5": "7780f0936b2695f3a9710db1b9031294",
+      "crc32": "7e5182c4",
+      "sha1": "7d61229ccaf4a4b3bd9637c86d044a50f237b75a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsday-2022-07-26T20:16:59.392671-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658881028",
+      "size": "1465",
+      "md5": "2bc1a07978a98d05556ccd4d8562c572",
+      "crc32": "8cad452b",
+      "sha1": "8a182ad6c993857f0aee9e02b1166092bd296bb6",
+      "format": "JSON"
+    },
+    {
       "name": "newsday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7a60a0f6d79c5f1af4252faae76e90e283fc2a35",
-      "mtime": "1658838390",
-      "size": "3502",
-      "md5": "0949d0b7cd2941775cbafd753f103d36",
-      "crc32": "77207c99",
-      "sha1": "78a691f3ef4f759361b271d8e25caa80814817ae",
+      "btih": "088665569ef63df1be4e578a7d7e0d00f3c10484",
+      "mtime": "1658881067",
+      "size": "4556",
+      "md5": "d9d2f5084856dbab4c9ed127b35fca80",
+      "crc32": "1a4fd67d",
+      "sha1": "29353fbd7f3310052e21468a7d62bedb40a1fd4c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "276768bce42dc31bec1a2124531750ad",
+      "md5": "29b7f2c0fbd1e9f04c51f922b8c0fac9",
       "summation": "md5"
     },
     {
       "name": "newsday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658838356",
-      "size": "32768",
-      "md5": "efadab4a8f4a8b42f251b46b886b5b31",
-      "crc32": "53cf34eb",
-      "sha1": "27465ebdc373170497e9d15fca23b64f98ec6302",
+      "mtime": "1658881033",
+      "size": "36864",
+      "md5": "416ebe21c6d930e5efb29130743189d8",
+      "crc32": "47abddaf",
+      "sha1": "4a938f9c2014489e891e08870d2bca0852282fd2",
       "format": "Metadata"
     },
     {
@@ -147,9 +199,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 14,
-  "item_last_updated": 1658838390,
-  "item_size": 801653,
+  "files_count": 19,
+  "item_last_updated": 1658881067,
+  "item_size": 1203412,
   "metadata": {
     "identifier": "newsday-2022",
     "collection": [
@@ -171,7 +223,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3344323578,
+      "task_id": 3344778346,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -179,7 +231,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 243049974,
+  "uniq": 1979716061,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

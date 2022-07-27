@@ -1,5 +1,46 @@
 {
-  "created": 1658833989,
+  "bfmtv-2022": [
+    {
+      "url": "https://www.bfmtv.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bfmtv_com-_-2022_07_26_22_42_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bfmtv_com-_-2022_07_26_22_42_34.report.json",
+      "summary": {
+        "performance": 0.5,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.bfmtv.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bfmtv_com-_-2022_07_26_22_42_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bfmtv_com-_-2022_07_26_22_42_58.report.json",
+      "summary": {
+        "performance": 0.52,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.bfmtv.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bfmtv_com-_-2022_07_26_22_43_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bfmtv_com-_-2022_07_26_22_43_21.report.json",
+      "summary": {
+        "performance": 0.48,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "created": 1658881303,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/34/items/bfmtv-2022",
@@ -161,31 +202,94 @@
       "format": "JSON"
     },
     {
+      "name": "bfmtv-2022-07-26T13:12:23.046427+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bfmtv-2022-07-26T13:12:23.046427+02:00.jpg",
+      "mtime": "1658847167",
+      "size": "11395",
+      "md5": "cce1c64889ab4f61813bc4eb3155be44",
+      "crc32": "4e343d24",
+      "sha1": "fa870959763691a825a7da91d4cf2224bf1986ef"
+    },
+    {
+      "name": "bfmtv-2022-07-27T01:04:41.638427+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658876684",
+      "size": "74974",
+      "md5": "4b4c1e95fcc49db531be644c7483edaf",
+      "crc32": "92f3f029",
+      "sha1": "9cf6ef98d8ffbef166ac9226f371ebc146a0c734",
+      "format": "JSON"
+    },
+    {
+      "name": "bfmtv-2022-07-27T01:04:41.638427+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658876687",
+      "size": "54001",
+      "md5": "1dcfe63227b4c99b1a1c7cf1e54ee283",
+      "crc32": "13842c5d",
+      "sha1": "12ea67a3b0aee39ce1b0887cdd95d65a039655f7",
+      "format": "JSON"
+    },
+    {
+      "name": "bfmtv-2022-07-27T01:04:41.638427+02:00.jpg",
+      "source": "original",
+      "mtime": "1658876682",
+      "size": "328878",
+      "md5": "039d33b5602a0adb8e4512ac392a342a",
+      "crc32": "18d60756",
+      "sha1": "a58f444c28d86e06496766fac9ec8d942862323f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bfmtv-2022-07-27T01:04:41.638427+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658876689",
+      "size": "1449",
+      "md5": "2c65255a43e542abfced9a1ae72d27fb",
+      "crc32": "89f0d6b9",
+      "sha1": "ba4f94ebbe5817234d0f7b7f63555855f3019992",
+      "format": "JSON"
+    },
+    {
+      "name": "bfmtv-2022-07-27T01:04:41.638427+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bfmtv-2022-07-27T01:04:41.638427+02:00.jpg",
+      "mtime": "1658878845",
+      "size": "10734",
+      "md5": "238797260a50fdf7e94c83fc949fe7ec",
+      "crc32": "a336af41",
+      "sha1": "a873c021a633afc743538175946f7e29ceb4bc14"
+    },
+    {
       "name": "bfmtv-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4d594884bbd9aa6b5ca5bf411890dde9632a91b0",
-      "mtime": "1658833987",
-      "size": "4512",
-      "md5": "e1598897c809ea179a80acad6859b041",
-      "crc32": "8adb4b06",
-      "sha1": "8b95da84d96413d4fa3e7be59164750bd6cc3806",
+      "btih": "f037815327b61dfa7d3110e6eb7c816a530bdc89",
+      "mtime": "1658878884",
+      "size": "5759",
+      "md5": "17bb9cf7bbdbcf121748257246545780",
+      "crc32": "cff3dad6",
+      "sha1": "1f9b74c66dc1b943e550d3948254339c3f694030",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bfmtv-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "86d05eb322246f340d5d7dcddfbc8347",
+      "md5": "a6e7dab6bec4619eff65e1d6d6157ed0",
       "summation": "md5"
     },
     {
       "name": "bfmtv-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658833953",
-      "size": "36864",
-      "md5": "7152172156cfcca3602d4a6fca49f5df",
-      "crc32": "3404db5d",
-      "sha1": "5c581026117dee26d0aba1a3d60762b65a01a940",
+      "mtime": "1658876692",
+      "size": "45056",
+      "md5": "480bb4bb88e042bcd4b2f75ca1b84769",
+      "crc32": "2e2b6734",
+      "sha1": "55d388d28e787c5cabb550e92b4bb6b16e752b6e",
       "format": "Metadata"
     },
     {
@@ -199,9 +303,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 19,
-  "item_last_updated": 1658833987,
-  "item_size": 1437085,
+  "files_count": 25,
+  "item_last_updated": 1658878884,
+  "item_size": 1927955,
   "metadata": {
     "identifier": "bfmtv-2022",
     "collection": [
@@ -218,21 +322,10 @@
     "publicdate": "2022-07-25 23:07:58",
     "addeddate": "2022-07-25 23:07:58"
   },
-  "pending_tasks": true,
-  "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344284330,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1734967385,
+  "server": "ia801404.us.archive.org",
+  "uniq": 47844510,
   "workable_servers": [
+    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

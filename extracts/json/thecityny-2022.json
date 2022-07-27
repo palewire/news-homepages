@@ -1,5 +1,5 @@
 {
-  "created": 1658838812,
+  "created": 1658854725,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/27/items/thecityny-2022",
@@ -4486,31 +4486,83 @@
       "sha1": "242e93edfbf7ea6187004e022a29d2518a85d059"
     },
     {
+      "name": "thecityny-2022-07-26T09:30:02.974657-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658842207",
+      "size": "31140",
+      "md5": "69f421066ac05b0aa7092a6b70158f2e",
+      "crc32": "d603c5eb",
+      "sha1": "5b653c214367601f797658fc6b9577309960095a",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-07-26T09:30:02.974657-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658842208",
+      "size": "38526",
+      "md5": "18ef41072cd432392691ed28d9b2901f",
+      "crc32": "fdd74ec2",
+      "sha1": "7eb4e65fd55f2e4925f03cf572ba01d78ab9c61e",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-07-26T09:30:02.974657-04:00.jpg",
+      "source": "original",
+      "mtime": "1658842205",
+      "size": "254192",
+      "md5": "09326297ba8b7c951df13ed8441db263",
+      "crc32": "9906d469",
+      "sha1": "804b5fa205f569bf4e43d445cae7e323b6c52c2a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecityny-2022-07-26T09:30:02.974657-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658842210",
+      "size": "1459",
+      "md5": "1e67cebbd3f0cc28cae264828f2431b6",
+      "crc32": "956ff79a",
+      "sha1": "2102ecf50bba88b3a04960978b8f43eb937535fd",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-07-26T09:30:02.974657-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecityny-2022-07-26T09:30:02.974657-04:00.jpg",
+      "mtime": "1658854696",
+      "size": "9304",
+      "md5": "7a71b75ca602b386612054bd577e9dd7",
+      "crc32": "ea3196aa",
+      "sha1": "7bccd751f9360faffd302994f86d098038b774e6"
+    },
+    {
       "name": "thecityny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "97879fad1187685c3bc5e456f63092379c1c0dfc",
-      "mtime": "1658805177",
-      "size": "91649",
-      "md5": "582a211b4ea0508fb5e561e9a0511309",
-      "crc32": "ce3296bb",
-      "sha1": "73f5ab8b221232a418c99e4b643fd0d6730b8e32",
+      "btih": "0554c7aa231ce3e1c3341d31a8e471f9c854a80f",
+      "mtime": "1658854707",
+      "size": "92693",
+      "md5": "7c643f0effcc417420e6f2d195fecbe8",
+      "crc32": "a6583a41",
+      "sha1": "de7cfea6be5c69b9d9249b32c06b593701993573",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thecityny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "492448f54eaef53b3b5ebbe09bbe019e",
+      "md5": "3308b260e63d81c950f84e231f829656",
       "summation": "md5"
     },
     {
       "name": "thecityny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658803845",
-      "size": "512000",
-      "md5": "b2fc1072c6cb84576471340362a1079f",
-      "crc32": "b5f10c09",
-      "sha1": "d0fb83855cb8a4e7c4f3eeeed2ce514cc4ad34e7",
+      "mtime": "1658842217",
+      "size": "520192",
+      "md5": "6afbf7d0d0307c6d51366668bb347942",
+      "crc32": "221f1b53",
+      "sha1": "c53127dadde2f94f3fbd76898c02ffeac3994674",
       "format": "Metadata"
     },
     {
@@ -4524,9 +4576,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 431,
-  "item_last_updated": 1658805177,
-  "item_size": 33827156,
+  "files_count": 436,
+  "item_last_updated": 1658854707,
+  "item_size": 34171013,
   "metadata": {
     "identifier": "thecityny-2022",
     "collection": [
@@ -4544,48 +4596,7 @@
     "addeddate": "2022-06-19 23:28:39"
   },
   "server": "ia601400.us.archive.org",
-  "thecityny-2022": [
-    {
-      "url": "https://www.thecity.nyc/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thecity_nyc-_-2022_07_26_01_16_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thecity_nyc-_-2022_07_26_01_16_47.report.json",
-      "summary": {
-        "performance": 0.46,
-        "accessibility": 0.88,
-        "best-practices": 1,
-        "seo": 0.83,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.thecity.nyc/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thecity_nyc-_-2022_07_26_01_17_13.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thecity_nyc-_-2022_07_26_01_17_13.report.json",
-      "summary": {
-        "performance": 0.62,
-        "accessibility": 0.88,
-        "best-practices": 1,
-        "seo": 0.83,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.thecity.nyc/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thecity_nyc-_-2022_07_26_01_17_01.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thecity_nyc-_-2022_07_26_01_17_01.report.json",
-      "summary": {
-        "performance": 0.58,
-        "accessibility": 0.88,
-        "best-practices": 1,
-        "seo": 0.83,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "uniq": 1520633346,
+  "uniq": 697771559,
   "workable_servers": [
     "ia601400.us.archive.org",
     "ia801400.us.archive.org"

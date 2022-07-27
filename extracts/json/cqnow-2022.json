@@ -1,46 +1,5 @@
 {
-  "cqnow-2022": [
-    {
-      "url": "https://info.cq.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/info_cq_com-_-2022_07_26_10_54_36.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/info_cq_com-_-2022_07_26_10_54_36.report.json",
-      "summary": {
-        "performance": 0.27,
-        "accessibility": 0.95,
-        "best-practices": 1,
-        "seo": 1,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://info.cq.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/info_cq_com-_-2022_07_26_10_55_15.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/info_cq_com-_-2022_07_26_10_55_15.report.json",
-      "summary": {
-        "performance": 0.39,
-        "accessibility": 0.95,
-        "best-practices": 1,
-        "seo": 1,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://info.cq.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/info_cq_com-_-2022_07_26_10_54_58.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/info_cq_com-_-2022_07_26_10_54_58.report.json",
-      "summary": {
-        "performance": 0.4,
-        "accessibility": 0.95,
-        "best-practices": 1,
-        "seo": 1,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "created": 1658838180,
+  "created": 1658879136,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/31/items/cqnow-2022",
@@ -2038,31 +1997,94 @@
       "format": "JSON"
     },
     {
+      "name": "cqnow-2022-07-26T07:15:40.614326-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cqnow-2022-07-26T07:15:40.614326-04:00.jpg",
+      "mtime": "1658847582",
+      "size": "10228",
+      "md5": "8f0525a427cef434df81139e5bfb5f12",
+      "crc32": "99b8ad15",
+      "sha1": "7ce0f46050a3a54e941907b57f1b715d38c591a2"
+    },
+    {
+      "name": "cqnow-2022-07-26T19:07:28.014869-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658876851",
+      "size": "42818",
+      "md5": "30dcb77153e9247ac20e7f25293d1b63",
+      "crc32": "7d38d79e",
+      "sha1": "7e419fcf9e4e42398ee29c07dc4cb5ea357fd823",
+      "format": "JSON"
+    },
+    {
+      "name": "cqnow-2022-07-26T19:07:28.014869-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658876853",
+      "size": "6342",
+      "md5": "75fe6061b20844435a443e1fc2ac17b2",
+      "crc32": "139b0c0c",
+      "sha1": "dd824a7510875c11ffd349519a4ce4b077751f8c",
+      "format": "JSON"
+    },
+    {
+      "name": "cqnow-2022-07-26T19:07:28.014869-04:00.jpg",
+      "source": "original",
+      "mtime": "1658876850",
+      "size": "248151",
+      "md5": "2d6cbff80af6ee32796811794a99caaf",
+      "crc32": "e682413f",
+      "sha1": "fd354a2c2e95af185212e7e435af870919bc0a22",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cqnow-2022-07-26T19:07:28.014869-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658876854",
+      "size": "1414",
+      "md5": "342b0ec4b351c2272affb3de4efa0420",
+      "crc32": "7c3f13f9",
+      "sha1": "e1478a8f08998220f6c8fe724d17745ce2c0af05",
+      "format": "JSON"
+    },
+    {
+      "name": "cqnow-2022-07-26T19:07:28.014869-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cqnow-2022-07-26T19:07:28.014869-04:00.jpg",
+      "mtime": "1658879045",
+      "size": "10236",
+      "md5": "4310f796ec33d8f3e68f40c5686572bb",
+      "crc32": "d9d06b11",
+      "sha1": "cb93e4b4ad4b1fd976a33d1b68ad1ddb70a89c31"
+    },
+    {
       "name": "cqnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "38abcfb36e3b368d8107233f7585166a35856f5a",
-      "mtime": "1658834187",
-      "size": "40757",
-      "md5": "52fde4fca1b2195ebf37d88341e8f0a4",
-      "crc32": "2b7ad8a8",
-      "sha1": "e9fca2887b3f650d89fa54d3afbe58c6f7560546",
+      "btih": "2417f52623a989a7868162b2d8f7365edd87aaf0",
+      "mtime": "1658879096",
+      "size": "41983",
+      "md5": "6dcd1175464199d13e09fa51f0197f97",
+      "crc32": "5dfcf424",
+      "sha1": "ab0ad811cef7667184f6e28aee9fc1abe165f18b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cqnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3749ac0b8c0aa37af76634a3eeccd2cf",
+      "md5": "591c0b1ffd89ae328945c7703c11df3f",
       "summation": "md5"
     },
     {
       "name": "cqnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658834151",
-      "size": "241664",
-      "md5": "5de3a9ffe38f1cc7c88d6c2c3a7a399f",
-      "crc32": "fb6494fb",
-      "sha1": "0d1946c1014627d1ae8bed1c4fdcae8b6f930924",
+      "mtime": "1658876864",
+      "size": "249856",
+      "md5": "5e2fc0b85b341c086cc94fc82b4320ba",
+      "crc32": "ee7e1eff",
+      "sha1": "bfafe665283994adc4e714bd9982cdefc5a15ac4",
       "format": "Metadata"
     },
     {
@@ -2076,9 +2098,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 194,
-  "item_last_updated": 1658834187,
-  "item_size": 14339416,
+  "files_count": 200,
+  "item_last_updated": 1658879096,
+  "item_size": 14668023,
   "metadata": {
     "identifier": "cqnow-2022",
     "collection": [
@@ -2095,21 +2117,10 @@
     "publicdate": "2022-07-04 20:47:06",
     "addeddate": "2022-07-04 20:47:06"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344285912,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1632499310,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1831746104,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

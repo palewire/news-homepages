@@ -1,5 +1,5 @@
 {
-  "created": 1658838750,
+  "created": 1658880899,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/0/items/sternde-2022",
@@ -68,31 +68,83 @@
       "sha1": "804d8ee5ee44b1267ae9597b11d2f07f5e01a4d7"
     },
     {
+      "name": "sternde-2022-07-26T17:46:19.787260+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658850384",
+      "size": "101626",
+      "md5": "cf82ac7dcb57dc035a7e3b275bdb0fff",
+      "crc32": "0aa0b904",
+      "sha1": "f63e2bbf64a4383cdef2e80fce9b4ccb633e9158",
+      "format": "JSON"
+    },
+    {
+      "name": "sternde-2022-07-26T17:46:19.787260+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658850386",
+      "size": "95131",
+      "md5": "4437d010d39b64877fae3996e6858019",
+      "crc32": "79c3994f",
+      "sha1": "41bfe534db6c44f61536c49729b96253f88ee4c0",
+      "format": "JSON"
+    },
+    {
+      "name": "sternde-2022-07-26T17:46:19.787260+02:00.jpg",
+      "source": "original",
+      "mtime": "1658850381",
+      "size": "222567",
+      "md5": "f9dafeb6b2f78e07dc06edbd49232903",
+      "crc32": "12396269",
+      "sha1": "278883e408e6a9a35966c0b499c95bfca9db59de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sternde-2022-07-26T17:46:19.787260+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658850387",
+      "size": "1432",
+      "md5": "8bdd84e4d26ef16c0df78f6cddf871e0",
+      "crc32": "69770310",
+      "sha1": "09399a68484d7c88fd352e4c22eef285a3f06ae6",
+      "format": "JSON"
+    },
+    {
+      "name": "sternde-2022-07-26T17:46:19.787260+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sternde-2022-07-26T17:46:19.787260+02:00.jpg",
+      "mtime": "1658859627",
+      "size": "9445",
+      "md5": "0523ca36edd0753e0264c953ecbed721",
+      "crc32": "26be5d26",
+      "sha1": "92fc7436751a4d4662783064e6cbeed272258557"
+    },
+    {
       "name": "sternde-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ee7e017318a3f7496ae5e9065ca332f64e583ed7",
-      "mtime": "1658809977",
-      "size": "2649",
-      "md5": "ec1e63d0273e189688d4e0947abe621e",
-      "crc32": "073b9627",
-      "sha1": "f35809e9a7a4b6743b19fe1ef90ce3b7b16ad967",
+      "btih": "4792c156fa184787767347bfe824faa3ae674486",
+      "mtime": "1658859637",
+      "size": "3704",
+      "md5": "726ad958542d51e521add0949351e7b3",
+      "crc32": "3d788c68",
+      "sha1": "571fdd63934d47b9c39166a42c9c5b504811cdc9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sternde-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "47a5bff9dc07e8ad6d91dc617d7231d3",
+      "md5": "6780abe4e0c828801b20adae143cdbe2",
       "summation": "md5"
     },
     {
       "name": "sternde-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658807866",
-      "size": "28672",
-      "md5": "e908bac734fede721ed5602f00b73808",
-      "crc32": "d4d326f5",
-      "sha1": "25744e0270520127550e44eb5248e11999e14da3",
+      "mtime": "1658850390",
+      "size": "32768",
+      "md5": "261442cb868960175e4a7ce499d55711",
+      "crc32": "29b27883",
+      "sha1": "1206285f31b6016eb8865018151f8d12721b1db5",
       "format": "Metadata"
     },
     {
@@ -106,9 +158,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 10,
-  "item_last_updated": 1658809977,
-  "item_size": 468676,
+  "files_count": 15,
+  "item_last_updated": 1658859637,
+  "item_size": 904028,
   "metadata": {
     "identifier": "sternde-2022",
     "collection": [
@@ -125,51 +177,10 @@
     "publicdate": "2022-07-26 03:57:37",
     "addeddate": "2022-07-26 03:57:37"
   },
-  "server": "ia802507.us.archive.org",
-  "sternde-2022": [
-    {
-      "url": "https://www.stern.de/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stern_de-_-2022_07_26_03_37_42.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stern_de-_-2022_07_26_03_37_42.report.json",
-      "summary": {
-        "performance": 0.51,
-        "accessibility": 0.88,
-        "best-practices": 0.83,
-        "seo": 1,
-        "pwa": 0.9
-      }
-    },
-    {
-      "url": "https://www.stern.de/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stern_de-_-2022_07_26_03_38_05.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stern_de-_-2022_07_26_03_38_05.report.json",
-      "summary": {
-        "performance": 0.59,
-        "accessibility": 0.88,
-        "best-practices": 0.83,
-        "seo": 1,
-        "pwa": 0.9
-      }
-    },
-    {
-      "url": "https://www.stern.de/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stern_de-_-2022_07_26_03_38_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stern_de-_-2022_07_26_03_38_23.report.json",
-      "summary": {
-        "performance": 0.57,
-        "accessibility": 0.88,
-        "best-practices": 0.83,
-        "seo": 1,
-        "pwa": 0.9
-      }
-    }
-  ],
-  "uniq": 2018842420,
+  "server": "ia902507.us.archive.org",
+  "uniq": 487130309,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

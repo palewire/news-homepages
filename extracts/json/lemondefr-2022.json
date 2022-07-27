@@ -1,5 +1,5 @@
 {
-  "created": 1658830913,
+  "created": 1658881614,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/lemondefr-2022",
@@ -8852,31 +8852,83 @@
       "sha1": "4d44d316a8c7954dccd24e9d2e1740bcaafa990b"
     },
     {
+      "name": "lemondefr-2022-07-26T16:39:13.399639+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658846360",
+      "size": "30768",
+      "md5": "af84c17d395c9e021362ebb19a598941",
+      "crc32": "ec15e105",
+      "sha1": "2114502364385cfa2a4dd4006e93733fd24cc637",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-07-26T16:39:13.399639+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658846362",
+      "size": "46771",
+      "md5": "2908f708574844715845b25aa21fb638",
+      "crc32": "fe84f749",
+      "sha1": "e83fe3805c99770cda0c8d04e72d7f7859e7537e",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-07-26T16:39:13.399639+02:00.jpg",
+      "source": "original",
+      "mtime": "1658846359",
+      "size": "286563",
+      "md5": "7de21a5b24087ade7c3ba1cea709bdc1",
+      "crc32": "dd4b8b8c",
+      "sha1": "3a79630082baee256ee410bbeebc5b937cc08bdd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lemondefr-2022-07-26T16:39:13.399639+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658846364",
+      "size": "1450",
+      "md5": "40840c6f1bdd8b0dc35a689c8d833469",
+      "crc32": "2e601156",
+      "sha1": "bf86bab1bdb805f87bdb8256a0f489552abbc1d5",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-07-26T16:39:13.399639+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lemondefr-2022-07-26T16:39:13.399639+02:00.jpg",
+      "mtime": "1658857090",
+      "size": "9013",
+      "md5": "88a766dc2822ae08d006b748040e3f7e",
+      "crc32": "72300e14",
+      "sha1": "accceb8126079dcd09503c4899e51616de589728"
+    },
+    {
       "name": "lemondefr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eb52fff41b77657f6a1ff7d4e380e8be9695d0a7",
-      "mtime": "1658830880",
-      "size": "179895",
-      "md5": "77ef62c6fc152337e4e4c3cb714ff925",
-      "crc32": "86154afb",
-      "sha1": "8ecba2e8b234c734abe37c99a2c9f45a4cbc5c44",
+      "btih": "e42cb4f96ecb0795a4989c6d8e609223382531ae",
+      "mtime": "1658857106",
+      "size": "180959",
+      "md5": "d63e79c2ee1d8ccc458f5197d2fa3bd0",
+      "crc32": "9e6a0d7b",
+      "sha1": "da03dc706831471689ce5554ccc0bb8df624dbab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lemondefr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8454272ec5b08163c16b181af1e72678",
+      "md5": "016562cc4cf19e815fba77602aad75ab",
       "summation": "md5"
     },
     {
       "name": "lemondefr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658822962",
-      "size": "987136",
-      "md5": "076495d43677fc55de82b5aeaa809ae6",
-      "crc32": "8246408f",
-      "sha1": "6c077dbe7a137e266b68524cc6d65436813a75f8",
+      "mtime": "1658846368",
+      "size": "991232",
+      "md5": "6d40099432a24d0b783866c82b80dfd3",
+      "crc32": "b0abf4b1",
+      "sha1": "9bd69a71670e3b319e6406eb8627080238c09169",
       "format": "Metadata"
     },
     {
@@ -8890,9 +8942,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 847,
-  "item_last_updated": 1658830880,
-  "item_size": 76099438,
+  "files_count": 852,
+  "item_last_updated": 1658857106,
+  "item_size": 76479163,
+  "lemondefr-2022": [
+    {
+      "url": "https://www.lemonde.fr/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lemonde_fr-_-2022_07_26_14_17_42.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lemonde_fr-_-2022_07_26_14_17_42.report.json",
+      "summary": {
+        "performance": 0.79,
+        "accessibility": 0.94,
+        "best-practices": 1,
+        "seo": 0.98,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://www.lemonde.fr/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lemonde_fr-_-2022_07_26_14_17_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lemonde_fr-_-2022_07_26_14_17_55.report.json",
+      "summary": {
+        "performance": 0.79,
+        "accessibility": 0.94,
+        "best-practices": 1,
+        "seo": 0.98,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://www.lemonde.fr/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lemonde_fr-_-2022_07_26_14_18_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lemonde_fr-_-2022_07_26_14_18_07.report.json",
+      "summary": {
+        "performance": 0.78,
+        "accessibility": 0.94,
+        "best-practices": 1,
+        "seo": 0.98,
+        "pwa": 0.9
+      }
+    }
+  ],
   "metadata": {
     "identifier": "lemondefr-2022",
     "collection": [
@@ -8909,10 +9002,10 @@
     "publicdate": "2022-04-09 13:41:01",
     "addeddate": "2022-04-09 13:41:01"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 233922293,
+  "server": "ia801501.us.archive.org",
+  "uniq": 652797459,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

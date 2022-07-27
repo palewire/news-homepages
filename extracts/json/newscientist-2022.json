@@ -1,5 +1,5 @@
 {
-  "created": 1658805176,
+  "created": 1658857212,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/33/items/newscientist-2022",
@@ -1914,31 +1914,83 @@
       "sha1": "24e6ef5ed4aea2fdf4f3b6813bb6f137e4d9600f"
     },
     {
+      "name": "newscientist-2022-07-26T15:41:29.597949+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658846494",
+      "size": "17433",
+      "md5": "e188f68a8533c70d9de217ac66da5cd8",
+      "crc32": "6ca37564",
+      "sha1": "fc82f6e121edd2e24af9382f337397497aeb0ffb",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-07-26T15:41:29.597949+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658846496",
+      "size": "14584",
+      "md5": "dea1979cedf60cc2607bba6d224ae72d",
+      "crc32": "3d80888a",
+      "sha1": "cc640a78f8356969d3708f30ca21f8620c16d36a",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-07-26T15:41:29.597949+01:00.jpg",
+      "source": "original",
+      "mtime": "1658846492",
+      "size": "307042",
+      "md5": "835b717b335c4cb9582c2a4735923f2a",
+      "crc32": "d8fa4c73",
+      "sha1": "69d4b9a61944297b937eded3257d26f98c19473e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newscientist-2022-07-26T15:41:29.597949+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658846498",
+      "size": "1512",
+      "md5": "0ad19d3d4e0cac20e66504da2cbcaa41",
+      "crc32": "5e97c00e",
+      "sha1": "e59266df7846a4546467506d467e8e327ed12ef3",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-07-26T15:41:29.597949+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newscientist-2022-07-26T15:41:29.597949+01:00.jpg",
+      "mtime": "1658857089",
+      "size": "10498",
+      "md5": "8e7c9646869a03a65c81066cc5909168",
+      "crc32": "4ada59ea",
+      "sha1": "d78f49efd3e7e4e3883d786753b790c8a1c772ab"
+    },
+    {
       "name": "newscientist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c010f6e2800f8491dc51b06a9d8e55e6b8c700d2",
-      "mtime": "1658805120",
-      "size": "40507",
-      "md5": "6c2bec9e2af0ea101bddb2c47b3d8720",
-      "crc32": "b5ddec7e",
-      "sha1": "37e4e68bc910b615cbbb8114b006694007e108eb",
+      "btih": "1aad1f1e5f71921d0433ea0106af620e409529a3",
+      "mtime": "1658857175",
+      "size": "41587",
+      "md5": "df71594162b00d7f77b2a21ec9e697a0",
+      "crc32": "d2be43ed",
+      "sha1": "2de665a1e4d6483ad24d15f481bac4576fc0d032",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newscientist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "32ef4543f381c79bec2c430b7cc7073c",
+      "md5": "4eb5eb019bb118c7b8c98dff40c2d21d",
       "summation": "md5"
     },
     {
       "name": "newscientist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658803752",
-      "size": "233472",
-      "md5": "db82015a28874d859ea12b3a49c0f45f",
-      "crc32": "f4cde85f",
-      "sha1": "e65dd1ba533df2cbafd922b8b29606a34dc87417",
+      "mtime": "1658846502",
+      "size": "237568",
+      "md5": "ed7b3a50ab141e2deaf6755b680bc026",
+      "crc32": "f559e1d4",
+      "sha1": "164498b256e782782b7ac0734353e39ed215ac95",
       "format": "Metadata"
     },
     {
@@ -1952,9 +2004,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 186,
-  "item_last_updated": 1658805120,
-  "item_size": 14928015,
+  "files_count": 191,
+  "item_last_updated": 1658857175,
+  "item_size": 15284260,
   "metadata": {
     "identifier": "newscientist-2022",
     "collection": [
@@ -1971,10 +2023,10 @@
     "publicdate": "2022-07-04 21:49:18",
     "addeddate": "2022-07-04 21:49:18"
   },
-  "server": "ia601402.us.archive.org",
-  "uniq": 1320736456,
+  "server": "ia801402.us.archive.org",
+  "uniq": 709939827,
   "workable_servers": [
-    "ia601402.us.archive.org",
-    "ia801402.us.archive.org"
+    "ia801402.us.archive.org",
+    "ia601402.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658838659,
+  "created": 1658881273,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/15/items/shillsalmanac-2022",
@@ -109,31 +109,83 @@
       "format": "JSON"
     },
     {
+      "name": "shillsalmanac-2022-07-26T08:30:13.572379-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shillsalmanac-2022-07-26T08:30:13.572379-04:00.jpg",
+      "mtime": "1658851102",
+      "size": "9729",
+      "md5": "c010ef69c0727bd9beddc2b0005adb7c",
+      "crc32": "54958243",
+      "sha1": "d21bc98321c52b36ea2cfdcb7375746a09726671"
+    },
+    {
+      "name": "shillsalmanac-2022-07-26T20:20:05.646791-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658881216",
+      "size": "25883",
+      "md5": "20eb930d95c1ece376cfe69e798d312b",
+      "crc32": "78b764ee",
+      "sha1": "4f61f20bab8aba5ca80326493a06706fff8857f5",
+      "format": "JSON"
+    },
+    {
+      "name": "shillsalmanac-2022-07-26T20:20:05.646791-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658881224",
+      "size": "39771",
+      "md5": "666e4fe8c3562373ccca5d4e10740651",
+      "crc32": "09df8039",
+      "sha1": "eeb865fcb281b3af4ba516db1f47bee002a6dd8e",
+      "format": "JSON"
+    },
+    {
+      "name": "shillsalmanac-2022-07-26T20:20:05.646791-04:00.jpg",
+      "source": "original",
+      "mtime": "1658881210",
+      "size": "250868",
+      "md5": "1784fa6a1de822f550dcb14a64f0ca68",
+      "crc32": "fafca40f",
+      "sha1": "611dce3a17651ae67d3b7ce79a7108fed0853ba6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "shillsalmanac-2022-07-26T20:20:05.646791-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658881229",
+      "size": "1459",
+      "md5": "86c96e8fed072e5e8657e48fd73d6da5",
+      "crc32": "7b124661",
+      "sha1": "4c664b6ab45e84bf6ab3541c212a0bf24a92d631",
+      "format": "JSON"
+    },
+    {
       "name": "shillsalmanac-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3e03f200ca77a76c9e45f2dc7ac8a60d6564d80f",
-      "mtime": "1658838657",
-      "size": "3610",
-      "md5": "f686d5f7a5596404f2a4348d1d8d160e",
-      "crc32": "94a2110c",
-      "sha1": "9fc380e3f1f1e77b2ba1229e49f6ca6e589d0e8a",
+      "btih": "2090ed88e090f1857f9ecf5626a604a81b3a7189",
+      "mtime": "1658881271",
+      "size": "4694",
+      "md5": "b9d4d84baa9ddaf7149d058476be8c1e",
+      "crc32": "52248573",
+      "sha1": "b1edf8724e09e6edc6df510738e796021ab013a3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "shillsalmanac-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ad84ef5308457d1b85b1363244aa25fb",
+      "md5": "ed0de27a3cc66232fb512dd6ec02db52",
       "summation": "md5"
     },
     {
       "name": "shillsalmanac-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658838624",
-      "size": "32768",
-      "md5": "a21f6539bd3fcb96c99f8ebbe8ed5030",
-      "crc32": "cbc56e53",
-      "sha1": "75dda9441a0273682ad5269abe396b270de142f0",
+      "mtime": "1658881237",
+      "size": "36864",
+      "md5": "7d6c4bb82729ba58c79eba3ba38097ba",
+      "crc32": "25fa8d14",
+      "sha1": "6a26101298330cbdb5ac0135c8c63cce9e5b8587",
       "format": "Metadata"
     },
     {
@@ -147,9 +199,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 14,
-  "item_last_updated": 1658838657,
-  "item_size": 779797,
+  "files_count": 19,
+  "item_last_updated": 1658881271,
+  "item_size": 1112687,
   "metadata": {
     "identifier": "shillsalmanac-2022",
     "collection": [
@@ -171,7 +223,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3344325800,
+      "task_id": 3344780285,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -179,7 +231,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1954773749,
+  "uniq": 358333408,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

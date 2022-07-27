@@ -1,5 +1,46 @@
 {
-  "created": 1658805999,
+  "citylimitsnews-2022": [
+    {
+      "url": "https://citylimits.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/citylimits_org-_-2022_07_26_13_04_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/citylimits_org-_-2022_07_26_13_04_46.report.json",
+      "summary": {
+        "performance": 0.27,
+        "accessibility": 0.72,
+        "best-practices": 0.75,
+        "seo": 0.77,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://citylimits.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/citylimits_org-_-2022_07_26_13_05_14.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/citylimits_org-_-2022_07_26_13_05_14.report.json",
+      "summary": {
+        "performance": 0.38,
+        "accessibility": 0.72,
+        "best-practices": 0.75,
+        "seo": 0.77,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://citylimits.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/citylimits_org-_-2022_07_26_13_05_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/citylimits_org-_-2022_07_26_13_05_00.report.json",
+      "summary": {
+        "performance": 0.39,
+        "accessibility": 0.72,
+        "best-practices": 0.75,
+        "seo": 0.77,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "created": 1658881349,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/16/items/citylimitsnews-2022",
@@ -1714,31 +1755,83 @@
       "sha1": "6179a2194e9eee4f0e861cee9896b8feee9b40ca"
     },
     {
+      "name": "citylimitsnews-2022-07-26T09:27:02.166102-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658842027",
+      "size": "25372",
+      "md5": "73d447c2371026bd110167a2bcfe1e4d",
+      "crc32": "792a583f",
+      "sha1": "3567233be64829f604220a6778e05aa7283733a0",
+      "format": "JSON"
+    },
+    {
+      "name": "citylimitsnews-2022-07-26T09:27:02.166102-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658842029",
+      "size": "25648",
+      "md5": "e4b498271c9980fc5f56094a2fe80118",
+      "crc32": "fb7d4c41",
+      "sha1": "57abede4253353ac74b04de6601c38cb2ba3e0ba",
+      "format": "JSON"
+    },
+    {
+      "name": "citylimitsnews-2022-07-26T09:27:02.166102-04:00.jpg",
+      "source": "original",
+      "mtime": "1658842024",
+      "size": "256035",
+      "md5": "6f39d6002b3d0a350d67ac4f1185d8d0",
+      "crc32": "1056d68b",
+      "sha1": "dde7c71fe6a5315b3bd3fc599fde7aa037c65f12",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "citylimitsnews-2022-07-26T09:27:02.166102-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658842031",
+      "size": "1459",
+      "md5": "9dce6674197a236e75100a4229219b23",
+      "crc32": "6743188f",
+      "sha1": "ed36eaaf1188956f02cef249b82f8f7f64f7ba9c",
+      "format": "JSON"
+    },
+    {
+      "name": "citylimitsnews-2022-07-26T09:27:02.166102-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "citylimitsnews-2022-07-26T09:27:02.166102-04:00.jpg",
+      "mtime": "1658854572",
+      "size": "9546",
+      "md5": "dbda37d19adb3529552c7657543dcba7",
+      "crc32": "ae34ffd5",
+      "sha1": "6179a2194e9eee4f0e861cee9896b8feee9b40ca"
+    },
+    {
       "name": "citylimitsnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d176a356c0d59cccb3877dabe4088f51276fb063",
-      "mtime": "1658805971",
-      "size": "36584",
-      "md5": "c342781a4fac31daf650724b4268ca35",
-      "crc32": "3a3612df",
-      "sha1": "a1a011f1a5746622c2bdb4e9ec12abcce9c91d92",
+      "btih": "4ec6f4637a2fb4bb8b72bfdf22167aaa55e330d0",
+      "mtime": "1658854580",
+      "size": "37673",
+      "md5": "dfb8af78d40d7b1be3f836dc172e140d",
+      "crc32": "e81e3293",
+      "sha1": "429086c23d5f676d280d028f89bd099413942097",
       "format": "Archive BitTorrent"
     },
     {
       "name": "citylimitsnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "07270c2ad041dcf3837884a89dae09d8",
+      "md5": "d110f8284f3e52d38b1cebe009f66422",
       "summation": "md5"
     },
     {
       "name": "citylimitsnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658804382",
-      "size": "212992",
-      "md5": "92f1d1ba7525300515480790da972d68",
-      "crc32": "28d4f0d0",
-      "sha1": "80b8cc3c471b6d5c9d671e1f4e676703fda5084d",
+      "mtime": "1658842035",
+      "size": "221184",
+      "md5": "7cd6a2116506d92e6968be2d5b2d78a5",
+      "crc32": "df2f826e",
+      "sha1": "3f26e2c396aadb9e8d59e67b22a3002c10748090",
       "format": "Metadata"
     },
     {
@@ -1752,9 +1845,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 167,
-  "item_last_updated": 1658805971,
-  "item_size": 9319121,
+  "files_count": 172,
+  "item_last_updated": 1658854580,
+  "item_size": 9646462,
   "metadata": {
     "identifier": "citylimitsnews-2022",
     "collection": [
@@ -1772,7 +1865,7 @@
     "addeddate": "2022-07-09 03:57:03"
   },
   "server": "ia802506.us.archive.org",
-  "uniq": 1884928907,
+  "uniq": 336945356,
   "workable_servers": [
     "ia802506.us.archive.org",
     "ia902506.us.archive.org"

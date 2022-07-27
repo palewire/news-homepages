@@ -1,5 +1,5 @@
 {
-  "created": 1658834281,
+  "created": 1658877316,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/8/items/democracynow-2022",
@@ -3800,31 +3800,135 @@
       "sha1": "7f2cb6580074db203a258c2544a4ad7d307f05a7"
     },
     {
+      "name": "democracynow-2022-07-26T10:32:21.647823-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658845944",
+      "size": "27642",
+      "md5": "3b42e49bbe5e2f27757ad18fb9bc58f6",
+      "crc32": "09038d26",
+      "sha1": "61e4c3ff19a2b61356e5df5dd880e0512edcfb54",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-07-26T10:32:21.647823-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658845946",
+      "size": "32869",
+      "md5": "f2425a4c7a3fcd548821ee2872242eaf",
+      "crc32": "ac1dd678",
+      "sha1": "e91d53e7c094b86e12549451ea85ceae52e05ef9",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-07-26T10:32:21.647823-04:00.jpg",
+      "source": "original",
+      "mtime": "1658845943",
+      "size": "317559",
+      "md5": "d36e4fe14e4cc74cea69221c7a3c8c6d",
+      "crc32": "4e5e291a",
+      "sha1": "8c8bd624d9ea8699fbef031af812e66a345b729b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "democracynow-2022-07-26T10:32:21.647823-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658845947",
+      "size": "1513",
+      "md5": "8640d10ecb849b4558edd28c1af3da08",
+      "crc32": "c7caaaa5",
+      "sha1": "abdf000b5d2dd696450ea6e9695f71addad44995",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-07-26T10:32:21.647823-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "democracynow-2022-07-26T10:32:21.647823-04:00.jpg",
+      "mtime": "1658856686",
+      "size": "10565",
+      "md5": "0becc03b5bf93d23a469995149d2a84b",
+      "crc32": "c6b9b8e8",
+      "sha1": "75874594aea7dd021dd09dd5d06a36afc01def52"
+    },
+    {
+      "name": "democracynow-2022-07-26T14:36:30.789792-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658860593",
+      "size": "29281",
+      "md5": "25f4ff63b5d249db6bdd091ecff7898d",
+      "crc32": "f11d8335",
+      "sha1": "23bfd6d8ac3ab676c21b16c33667119d22e3b762",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-07-26T14:36:30.789792-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658860597",
+      "size": "33377",
+      "md5": "7a79fc1e30c5da0e38917e3c04c6e364",
+      "crc32": "f27e9b60",
+      "sha1": "516aec1b090eeea4c76b5e9b394adc48007177f8",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-07-26T14:36:30.789792-04:00.jpg",
+      "source": "original",
+      "mtime": "1658860592",
+      "size": "256756",
+      "md5": "f6d8b268f24e91bccf6cd128637b6e7c",
+      "crc32": "016a121b",
+      "sha1": "41a59f47730732883e0dbc21fadab74a2bd031f1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "democracynow-2022-07-26T14:36:30.789792-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658860598",
+      "size": "1513",
+      "md5": "30cd82756a14ee8cb9eec36f5294c4ae",
+      "crc32": "058741c2",
+      "sha1": "decb6313baabec9c4d917acc3493ee2aeb9db608",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-07-26T14:36:30.789792-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "democracynow-2022-07-26T14:36:30.789792-04:00.jpg",
+      "mtime": "1658866745",
+      "size": "8873",
+      "md5": "12e29e4aafdaf620d6470d999eaa3ccc",
+      "crc32": "22eeb9d5",
+      "sha1": "69a2bfc74ea4a588e3fb0cbfa79eac577e0e4ddb"
+    },
+    {
       "name": "democracynow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "61f4eb7e42a6c985df267980afc9bda36d2b4827",
-      "mtime": "1658804549",
-      "size": "79336",
-      "md5": "8289d7857e6e197eb5f2aaf7812fb68a",
-      "crc32": "80c77476",
-      "sha1": "b209b0a147824015f98bd454d0e7c17f6bfd4b7a",
+      "btih": "b79c170e5bce74f8d3386527edf0007efb3beccf",
+      "mtime": "1658866754",
+      "size": "81475",
+      "md5": "b204655b8c16978398b1f6796bd14c14",
+      "crc32": "5539bc92",
+      "sha1": "ba401e47d5c0a078d3e87176a3ad821c0b6960e8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "democracynow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3528404d57fbe940b57da9d60a5605b7",
+      "md5": "6f880ad65f0b9b8c9d9b9731e0663bee",
       "summation": "md5"
     },
     {
       "name": "democracynow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658803256",
-      "size": "442368",
-      "md5": "5a78ff339ea6fde1b8303289cd449bb4",
-      "crc32": "7ffda29a",
-      "sha1": "5f260c049599155542a629cc170ada1109e97563",
+      "mtime": "1658860602",
+      "size": "450560",
+      "md5": "5c58fe1f0590779ee311d30d730ec0e9",
+      "crc32": "775bed40",
+      "sha1": "ba0344b7f080f612ca28d228a47339b0102997f2",
       "format": "Metadata"
     },
     {
@@ -3838,9 +3942,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 366,
-  "item_last_updated": 1658804549,
-  "item_size": 33734461,
+  "files_count": 376,
+  "item_last_updated": 1658866754,
+  "item_size": 34464740,
   "metadata": {
     "identifier": "democracynow-2022",
     "collection": [
@@ -3858,7 +3962,7 @@
     "addeddate": "2022-06-24 22:54:24"
   },
   "server": "ia801408.us.archive.org",
-  "uniq": 864294167,
+  "uniq": 1114395845,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"

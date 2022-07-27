@@ -1,5 +1,5 @@
 {
-  "created": 1658838856,
+  "created": 1658860001,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/15/items/thephilacitizen-2022",
@@ -2292,31 +2292,83 @@
       "sha1": "5fc45fc510f07fe27bcff081bc9070374626d98c"
     },
     {
+      "name": "thephilacitizen-2022-07-26T11:47:49.501771-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658850473",
+      "size": "13876",
+      "md5": "517565988aa160b0b1128ded63ac4251",
+      "crc32": "61782648",
+      "sha1": "18fff793523cfea7d2cb6bd4590024b1e0bf2a14",
+      "format": "JSON"
+    },
+    {
+      "name": "thephilacitizen-2022-07-26T11:47:49.501771-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658850475",
+      "size": "15928",
+      "md5": "c96fff601885c8da79f30e50c13024c9",
+      "crc32": "41f0706c",
+      "sha1": "c44a272c71dc74eed14f88c5d73bf1c238a3bc27",
+      "format": "JSON"
+    },
+    {
+      "name": "thephilacitizen-2022-07-26T11:47:49.501771-04:00.jpg",
+      "source": "original",
+      "mtime": "1658850472",
+      "size": "360952",
+      "md5": "4b56801894164ec6f25e51499d7848df",
+      "crc32": "5e925cdc",
+      "sha1": "1156f34e287c36e649e2a1fe97b5745198a6cefe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thephilacitizen-2022-07-26T11:47:49.501771-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658850476",
+      "size": "1567",
+      "md5": "4982b3dfeb8cac00f76c3a858421b826",
+      "crc32": "6ebd0625",
+      "sha1": "c791393d9c8a7b30b23fa595fb0adb218bac7b0f",
+      "format": "JSON"
+    },
+    {
+      "name": "thephilacitizen-2022-07-26T11:47:49.501771-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thephilacitizen-2022-07-26T11:47:49.501771-04:00.jpg",
+      "mtime": "1658859943",
+      "size": "10956",
+      "md5": "5c013c87789428bc6a4d2c8b91fabae0",
+      "crc32": "c21ab608",
+      "sha1": "b5389db476613196e5cef595ac8ca41606a045c5"
+    },
+    {
       "name": "thephilacitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "374ddd921a837101378d161cb845a8ac8e3beb6e",
-      "mtime": "1658810336",
-      "size": "48930",
-      "md5": "7412b12d22e2022832ad389ed80cadae",
-      "crc32": "4f674063",
-      "sha1": "4185a4d28aeb72e6aa54c5114223b7e58d8671eb",
+      "btih": "b66caa618a5dedcfa91a0eefc69a83c887dd3df0",
+      "mtime": "1658859961",
+      "size": "50005",
+      "md5": "10aee375cd667fd88bf480c2884c1c6d",
+      "crc32": "2654027a",
+      "sha1": "5548e7e59844e6268622d59ec42eb8007fa926cf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thephilacitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c5b84271cca792a3e3ad8543f9a950f1",
+      "md5": "b8888c5dafb39959b196225213620c82",
       "summation": "md5"
     },
     {
       "name": "thephilacitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658808028",
-      "size": "274432",
-      "md5": "6bc59def3876143dad5ff9f36cf871b8",
-      "crc32": "1cb7b81a",
-      "sha1": "e968b92ff1470741f68264d234179a47950fb97d",
+      "mtime": "1658850480",
+      "size": "278528",
+      "md5": "6b1378d894172c2e4992d2fcd8ac0da2",
+      "crc32": "4dd57625",
+      "sha1": "8bbcc1634e14054a637fd939387db6cf2d74f218",
       "format": "Metadata"
     },
     {
@@ -2330,9 +2382,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 222,
-  "item_last_updated": 1658810336,
-  "item_size": 17888878,
+  "files_count": 227,
+  "item_last_updated": 1658859961,
+  "item_size": 18297328,
   "metadata": {
     "identifier": "thephilacitizen-2022",
     "collection": [
@@ -2350,48 +2402,7 @@
     "addeddate": "2022-07-03 15:52:45"
   },
   "server": "ia801504.us.archive.org",
-  "thephilacitizen-2022": [
-    {
-      "url": "https://thephiladelphiacitizen.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thephiladelphiacitizen_org-_-2022_07_26_03_40_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thephiladelphiacitizen_org-_-2022_07_26_03_40_38.report.json",
-      "summary": {
-        "performance": 0.35,
-        "accessibility": 0.93,
-        "best-practices": 0.92,
-        "seo": 0.91,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://thephiladelphiacitizen.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thephiladelphiacitizen_org-_-2022_07_26_03_40_50.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thephiladelphiacitizen_org-_-2022_07_26_03_40_50.report.json",
-      "summary": {
-        "performance": 0.46,
-        "accessibility": 0.93,
-        "best-practices": 0.92,
-        "seo": 0.91,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://thephiladelphiacitizen.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thephiladelphiacitizen_org-_-2022_07_26_03_41_02.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thephiladelphiacitizen_org-_-2022_07_26_03_41_02.report.json",
-      "summary": {
-        "performance": 0.47,
-        "accessibility": 0.93,
-        "best-practices": 0.92,
-        "seo": 0.91,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "uniq": 1698799531,
+  "uniq": 1632004693,
   "workable_servers": [
     "ia801504.us.archive.org",
     "ia601504.us.archive.org"

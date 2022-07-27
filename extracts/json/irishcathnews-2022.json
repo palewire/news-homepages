@@ -1,5 +1,5 @@
 {
-  "created": 1658838197,
+  "created": 1658880765,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/17/items/irishcathnews-2022",
@@ -821,31 +821,83 @@
       "format": "JSON"
     },
     {
+      "name": "irishcathnews-2022-07-26T13:21:02.693865+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-07-26T13:21:02.693865+01:00.jpg",
+      "mtime": "1658850593",
+      "size": "9272",
+      "md5": "f852eb5c446b543bce37fda1dfa6c880",
+      "crc32": "f4e5e1d4",
+      "sha1": "663c5dc1a4736386c3ab9e9df9bdc2bbd2c6eb80"
+    },
+    {
+      "name": "irishcathnews-2022-07-27T01:11:41.449572+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658880704",
+      "size": "28344",
+      "md5": "96c26f0c12acb8258759b2945a8c6816",
+      "crc32": "baa56092",
+      "sha1": "1e3f2f490acd3b34b5d679d3c8c32d7c7323edfc",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-07-27T01:11:41.449572+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658880706",
+      "size": "27918",
+      "md5": "ed4ac2e1f533d288823a63798e2d8f68",
+      "crc32": "b3e10240",
+      "sha1": "fa4f93854516de273b347596fe6a2e62056680de",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-07-27T01:11:41.449572+01:00.jpg",
+      "source": "original",
+      "mtime": "1658880703",
+      "size": "266259",
+      "md5": "be9f945e5330c90a45f107295a1ce59b",
+      "crc32": "0b5bff24",
+      "sha1": "8882d56d6a8da89b28835b2ddeae2af295c939bc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishcathnews-2022-07-27T01:11:41.449572+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658880708",
+      "size": "1522",
+      "md5": "a182f4baa23ceef91eb4c6d28576db49",
+      "crc32": "efc146c7",
+      "sha1": "83ca2aad36391c34b79b17f0e263cdb8e9df2fa4",
+      "format": "JSON"
+    },
+    {
       "name": "irishcathnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c30d86908cdce4bfdd051f5ac25dba8292ff73db",
-      "mtime": "1658838194",
-      "size": "18256",
-      "md5": "cc21c8d81be128024a0d2afece6617f4",
-      "crc32": "49e85dbc",
-      "sha1": "bdbe8e800b9ea56b3adeeb4fa2d6f369609c74f7",
+      "btih": "64fefe3e219a431e76f945cd674d38d3200c9ffb",
+      "mtime": "1658880759",
+      "size": "19340",
+      "md5": "eb8547a813c3c2b60ae794abb349dec7",
+      "crc32": "6c69bca5",
+      "sha1": "9b1489248e40c5e9b94e18c26d49fd0b025b3f9b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishcathnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cbdc524c23026a2d836a3ea94d25d2a6",
+      "md5": "687cd40115278237dc23f0017f17ad88",
       "summation": "md5"
     },
     {
       "name": "irishcathnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658838158",
-      "size": "110592",
-      "md5": "581dd76659ba90881eb4758d7bc49e32",
-      "crc32": "4484bd13",
-      "sha1": "9d02dd635b5a5aae435160de581542f5e632ef90",
+      "mtime": "1658880713",
+      "size": "126976",
+      "md5": "90b9b06765a8f53ffad4ac517540137e",
+      "crc32": "2d4c40ae",
+      "sha1": "ab06a34e9ea4692d041b0920e253d4b4e56e4a16",
       "format": "Metadata"
     },
     {
@@ -859,9 +911,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 82,
-  "item_last_updated": 1658838194,
-  "item_size": 6203495,
+  "files_count": 87,
+  "item_last_updated": 1658880759,
+  "item_size": 6554278,
   "metadata": {
     "identifier": "irishcathnews-2022",
     "collection": [
@@ -883,7 +935,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3344321749,
+      "task_id": 3344775012,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -891,7 +943,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 549436907,
+  "uniq": 1725186528,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

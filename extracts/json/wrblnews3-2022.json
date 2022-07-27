@@ -1,5 +1,5 @@
 {
-  "created": 1658839006,
+  "created": 1658860137,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/10/items/wrblnews3-2022",
@@ -372,31 +372,83 @@
       "sha1": "8476ea583c966f66cb770726d1d369cce72761d6"
     },
     {
+      "name": "wrblnews3-2022-07-26T11:50:43.564940-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658850647",
+      "size": "39633",
+      "md5": "51bb2911411bcf519274a0982730d88f",
+      "crc32": "6425463e",
+      "sha1": "31146c853bb07f543d06b62971ce065600b332de",
+      "format": "JSON"
+    },
+    {
+      "name": "wrblnews3-2022-07-26T11:50:43.564940-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658850649",
+      "size": "91158",
+      "md5": "0ea3b8f8d8a07077f834fc0e0704c976",
+      "crc32": "a0a78e11",
+      "sha1": "43a41cd405ab9bf7108ebe6f364763cfb6e005d8",
+      "format": "JSON"
+    },
+    {
+      "name": "wrblnews3-2022-07-26T11:50:43.564940-04:00.jpg",
+      "source": "original",
+      "mtime": "1658850645",
+      "size": "291654",
+      "md5": "abd7d2230a4d603818ffd53172fbedc4",
+      "crc32": "27ba10a2",
+      "sha1": "c8bdc45fc085f0d468c6f2c5f13db9395eafbc59",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wrblnews3-2022-07-26T11:50:43.564940-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658850650",
+      "size": "1438",
+      "md5": "fac09260c864e24bfd1c211bf33e2223",
+      "crc32": "f84582b2",
+      "sha1": "aaa7344fab96bdf464ef4e4a0c88ea859e2e914c",
+      "format": "JSON"
+    },
+    {
+      "name": "wrblnews3-2022-07-26T11:50:43.564940-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wrblnews3-2022-07-26T11:50:43.564940-04:00.jpg",
+      "mtime": "1658860039",
+      "size": "10496",
+      "md5": "f0486c8c6aca32d6c07dd6109a538df2",
+      "crc32": "228f6af7",
+      "sha1": "cd2c6a7dab0028d383f7cc83945ee67acb10b2df"
+    },
+    {
       "name": "wrblnews3-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9128609ae4a7dd499ae6e856b67b81d412caa127",
-      "mtime": "1658810649",
-      "size": "8844",
-      "md5": "48897669c559c5a54e30827127de98c2",
-      "crc32": "1f756448",
-      "sha1": "da38fd69629dd23d94a9eb76f5b607d63a8bdd48",
+      "btih": "8aaea2282bef6708fca1ab13a0c2914cf690b2e9",
+      "mtime": "1658860087",
+      "size": "9909",
+      "md5": "da83f29217625ffeacae13320a0b98fa",
+      "crc32": "67dcc28b",
+      "sha1": "b5ddffe4143ac8ffb29a9a6b22f811f1ef0349e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wrblnews3-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "92913fc7187a03d1284980038c6549e0",
+      "md5": "14b19cc1e70de3e43d6cf84968b1bf6c",
       "summation": "md5"
     },
     {
       "name": "wrblnews3-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658808115",
-      "size": "57344",
-      "md5": "f765910f444e88fcf9ba3cfae0984816",
-      "crc32": "5ef87fa0",
-      "sha1": "d3d55d85d872b7b2e9c112b4bc056bc12d647dcf",
+      "mtime": "1658850653",
+      "size": "61440",
+      "md5": "81d3f5a29f75946cfc2732fe062a1b19",
+      "crc32": "d694bc8e",
+      "sha1": "ebb38ed1b07e48d12b2e791941c013feba7cfa78",
       "format": "Metadata"
     },
     {
@@ -410,9 +462,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 39,
-  "item_last_updated": 1658810649,
-  "item_size": 3386249,
+  "files_count": 44,
+  "item_last_updated": 1658860087,
+  "item_size": 3825789,
   "metadata": {
     "identifier": "wrblnews3-2022",
     "collection": [
@@ -430,50 +482,9 @@
     "addeddate": "2022-07-22 16:23:09"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 1828445087,
+  "uniq": 1637062272,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"
-  ],
-  "wrblnews3-2022": [
-    {
-      "url": "https://www.wrbl.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wrbl_com-_-2022_07_26_03_45_03.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wrbl_com-_-2022_07_26_03_45_03.report.json",
-      "summary": {
-        "performance": 0.19,
-        "accessibility": 0.8,
-        "best-practices": 0.92,
-        "seo": 0.76,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.wrbl.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wrbl_com-_-2022_07_26_03_45_45.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wrbl_com-_-2022_07_26_03_45_45.report.json",
-      "summary": {
-        "performance": 0.16,
-        "accessibility": 0.8,
-        "best-practices": 0.92,
-        "seo": 0.76,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.wrbl.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wrbl_com-_-2022_07_26_03_44_18.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wrbl_com-_-2022_07_26_03_44_18.report.json",
-      "summary": {
-        "performance": 0.16,
-        "accessibility": 0.8,
-        "best-practices": 0.92,
-        "seo": 0.76,
-        "pwa": 0.4
-      }
-    }
   ]
 }

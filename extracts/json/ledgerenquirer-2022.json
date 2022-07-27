@@ -1,5 +1,5 @@
 {
-  "created": 1658838283,
+  "created": 1658880896,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/13/items/ledgerenquirer-2022",
@@ -611,31 +611,83 @@
       "format": "JSON"
     },
     {
+      "name": "ledgerenquirer-2022-07-26T08:23:43.557838-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ledgerenquirer-2022-07-26T08:23:43.557838-04:00.jpg",
+      "mtime": "1658850746",
+      "size": "9392",
+      "md5": "68fa65ec8f1287f80ccad2428239e97a",
+      "crc32": "26392198",
+      "sha1": "14aec5149a0396d212bbeab447f05a193c549683"
+    },
+    {
+      "name": "ledgerenquirer-2022-07-26T20:14:07.482901-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658880851",
+      "size": "464",
+      "md5": "d9cc5611e8b378405bb4318304f7bc70",
+      "crc32": "9cffd99d",
+      "sha1": "cdd595bea03696de62a25d9208de6704dfb1f9be",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-07-26T20:14:07.482901-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658880853",
+      "size": "35512",
+      "md5": "3802a284d3ee6fe68e1bf31438fca8db",
+      "crc32": "935dcbfa",
+      "sha1": "bfbde88e12a95f0864bbf581ad7450138cacb97d",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-07-26T20:14:07.482901-04:00.jpg",
+      "source": "original",
+      "mtime": "1658880849",
+      "size": "262202",
+      "md5": "0c546aebdb91f3940b6c3e280a415739",
+      "crc32": "60926252",
+      "sha1": "69d38b42b10531d4a383408c0751aab3e7430a69",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ledgerenquirer-2022-07-26T20:14:07.482901-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658880855",
+      "size": "1540",
+      "md5": "940e8dd49a62be5c52f3de2a0d973303",
+      "crc32": "91d915fe",
+      "sha1": "ee305e558277b4594ef8db02a7cad95f32a3e358",
+      "format": "JSON"
+    },
+    {
       "name": "ledgerenquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "27bb9d745d27d5431ea7f6426dc954cfaae144db",
-      "mtime": "1658838277",
-      "size": "13990",
-      "md5": "87a7f49881b1f0104e4284b737db2299",
-      "crc32": "f3330b63",
-      "sha1": "a85cea9c49a2a00100ad0c5a98da8d2767dd4a93",
+      "btih": "3342ebdb3717814fa4274ea33a5ce01a442c742e",
+      "mtime": "1658880892",
+      "size": "15057",
+      "md5": "530d2ea1289e834ece4dfd86469d8203",
+      "crc32": "6bdfd355",
+      "sha1": "daa5dc3d42a5d3ba4df61cc148dabba189f558ba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ledgerenquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9a486d5fe506e283564c1e889676bcd2",
+      "md5": "24babd4ef18bb37315d4e0d8f612f16c",
       "summation": "md5"
     },
     {
       "name": "ledgerenquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658838240",
-      "size": "81920",
-      "md5": "3a48486bd2c88c6b48d15c1f90550344",
-      "crc32": "d8a0eb42",
-      "sha1": "a6f04e79fbe2188f975fed0b2ff30f2b9ef6ed1c",
+      "mtime": "1658880858",
+      "size": "90112",
+      "md5": "1e69dbc9f869799bb1b139c20f8a5b1a",
+      "crc32": "ea87c892",
+      "sha1": "f205a891d2248b2d074ac88bd03297a60343dc1f",
       "format": "Metadata"
     },
     {
@@ -649,9 +701,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 62,
-  "item_last_updated": 1658838277,
-  "item_size": 4358100,
+  "files_count": 67,
+  "item_last_updated": 1658880892,
+  "item_size": 4676469,
   "metadata": {
     "identifier": "ledgerenquirer-2022",
     "collection": [
@@ -673,7 +725,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3344322603,
+      "task_id": 3344776441,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -681,7 +733,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2144483654,
+  "uniq": 446785686,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

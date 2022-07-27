@@ -1,5 +1,5 @@
 {
-  "created": 1658837499,
+  "created": 1658881476,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/34/items/gainesvillesun-2022",
@@ -569,31 +569,94 @@
       "format": "JSON"
     },
     {
+      "name": "gainesvillesun-2022-07-26T07:19:02.395073-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-07-26T07:19:02.395073-04:00.jpg",
+      "mtime": "1658847740",
+      "size": "9350",
+      "md5": "42949fbfa5cf49dc2ce2998ba9fbe710",
+      "crc32": "fc534efb",
+      "sha1": "f951a76e765a8fda8c17d0f816c7e445af118922"
+    },
+    {
+      "name": "gainesvillesun-2022-07-26T19:10:12.968493-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658877017",
+      "size": "22208",
+      "md5": "1862fab95c6273a8f8e20a20d26100aa",
+      "crc32": "720bb59c",
+      "sha1": "3922d22491d283ce363397bc6e4d193d52e6adee",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-07-26T19:10:12.968493-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658877019",
+      "size": "32852",
+      "md5": "ce6cd25b4b3b44b0abd1173384431a9a",
+      "crc32": "ae49f0a0",
+      "sha1": "d30a622d7c14f142653c90f6851b1458545e90ef",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-07-26T19:10:12.968493-04:00.jpg",
+      "source": "original",
+      "mtime": "1658877014",
+      "size": "268345",
+      "md5": "a83d4c4ee535958811faabae578991f9",
+      "crc32": "f7d01a23",
+      "sha1": "cace0b8bd6a3e9c09516a52f4f141adb46bd1ba3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-07-26T19:10:12.968493-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658877020",
+      "size": "1497",
+      "md5": "cd493c12b4c081003136e8881afb3aba",
+      "crc32": "ec767d5e",
+      "sha1": "c816e6560653936e634978edf656166d01499feb",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-07-26T19:10:12.968493-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-07-26T19:10:12.968493-04:00.jpg",
+      "mtime": "1658879201",
+      "size": "9340",
+      "md5": "960eecaf41cda08c0df990b23e1e0771",
+      "crc32": "628ffd1e",
+      "sha1": "137813774d2be8d43395c1d8b1f20446555bf6d0"
+    },
+    {
       "name": "gainesvillesun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0ae925a02cfefc59e56bc83eddb3f6f1658941f8",
-      "mtime": "1658834387",
-      "size": "13143",
-      "md5": "c813fd5bb5b9b287d79630145835787b",
-      "crc32": "8d042433",
-      "sha1": "eb6dce7a014dc6d517675916600ef7aae3f284d1",
+      "btih": "7acdc81aaa605618dd156c3742de43d792affbf7",
+      "mtime": "1658879204",
+      "size": "14442",
+      "md5": "405b14c5f974673a4f94c309fbf38a17",
+      "crc32": "28f219e5",
+      "sha1": "97dd66b46d82cca078de05c1fb4d28e72d9d876e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gainesvillesun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "526430410419dce26105d820f5101d02",
+      "md5": "d69a42b4c2b5567ee805f04ac066bf36",
       "summation": "md5"
     },
     {
       "name": "gainesvillesun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658834353",
-      "size": "77824",
-      "md5": "2292e4550ec194f7d26e85f92fb753e5",
-      "crc32": "80b0dc6e",
-      "sha1": "ce876ee22c71a75da1c725ebf3f512471d839bf2",
+      "mtime": "1658877024",
+      "size": "86016",
+      "md5": "d06f33ba3484300e5e10b1769d4258a9",
+      "crc32": "1e5a4340",
+      "sha1": "0f291fbda06f9232c31276a20db1d365161b187c",
       "format": "Metadata"
     },
     {
@@ -607,9 +670,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 58,
-  "item_last_updated": 1658834387,
-  "item_size": 4129730,
+  "files_count": 64,
+  "gainesvillesun-2022": [
+    {
+      "url": "https://www.gainesville.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gainesville_com-_-2022_07_26_22_51_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gainesville_com-_-2022_07_26_22_51_58.report.json",
+      "summary": {
+        "performance": 0.77,
+        "accessibility": 0.88,
+        "best-practices": 1,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.gainesville.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gainesville_com-_-2022_07_26_22_52_42.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gainesville_com-_-2022_07_26_22_52_42.report.json",
+      "summary": {
+        "performance": 0.83,
+        "accessibility": 0.88,
+        "best-practices": 1,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.gainesville.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gainesville_com-_-2022_07_26_22_52_18.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gainesville_com-_-2022_07_26_22_52_18.report.json",
+      "summary": {
+        "performance": 0.8,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "item_last_updated": 1658879204,
+  "item_size": 4482813,
   "metadata": {
     "identifier": "gainesvillesun-2022",
     "collection": [
@@ -626,21 +730,10 @@
     "publicdate": "2022-07-21 02:23:50",
     "addeddate": "2022-07-21 02:23:50"
   },
-  "pending_tasks": true,
   "server": "ia902503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344287455,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 41851036,
+  "uniq": 751768649,
   "workable_servers": [
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

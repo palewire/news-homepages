@@ -1,5 +1,5 @@
 {
-  "created": 1658838740,
+  "created": 1658878526,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/3/items/spokesmanreview-2022",
@@ -1966,31 +1966,83 @@
       "sha1": "820b4b1923601513a7cbf4d9a784c7c55aa828e9"
     },
     {
+      "name": "spokesmanreview-2022-07-26T06:28:20.711676-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658842104",
+      "size": "1028",
+      "md5": "e58459aacb2eb35424be79b1e101c893",
+      "crc32": "76666518",
+      "sha1": "5f47cc6a6e25c7309d15324a5b65471e3367238e",
+      "format": "JSON"
+    },
+    {
+      "name": "spokesmanreview-2022-07-26T06:28:20.711676-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658842105",
+      "size": "49883",
+      "md5": "03c2c081db48d0a65336639cd32b5265",
+      "crc32": "4b7a1557",
+      "sha1": "a528419c739ceed0fa2e58a7a630782269992dac",
+      "format": "JSON"
+    },
+    {
+      "name": "spokesmanreview-2022-07-26T06:28:20.711676-07:00.jpg",
+      "source": "original",
+      "mtime": "1658842102",
+      "size": "334139",
+      "md5": "dde2d40169739528cad7a5cc651b65b6",
+      "crc32": "8f240fec",
+      "sha1": "cc8e5dfbf0299c6585bccf6193fd15df117325d4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spokesmanreview-2022-07-26T06:28:20.711676-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658842107",
+      "size": "1486",
+      "md5": "9846a0ee0cba6d41d39c61af0b225018",
+      "crc32": "ccf999be",
+      "sha1": "a9545681d7c392babf3beb46c27b5327a279c976",
+      "format": "JSON"
+    },
+    {
+      "name": "spokesmanreview-2022-07-26T06:28:20.711676-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spokesmanreview-2022-07-26T06:28:20.711676-07:00.jpg",
+      "mtime": "1658854607",
+      "size": "10124",
+      "md5": "2553c1c605cac9e70e76c8d5fcd626b3",
+      "crc32": "125e3d2c",
+      "sha1": "6deabdaa99285df95232887cf70e82b3b159fa47"
+    },
+    {
       "name": "spokesmanreview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f1e9da0cfb19886732b25a7cd76663544f66d62c",
-      "mtime": "1658805177",
-      "size": "42146",
-      "md5": "77b5b5fa937ee3f44d17d7c4d732feb1",
-      "crc32": "92cee7b3",
-      "sha1": "3ae825bdb484de13c625a28962538c477d295c97",
+      "btih": "5effe7cc0cb7d414c3154ca13b6ad3abd85d8819",
+      "mtime": "1658854676",
+      "size": "43240",
+      "md5": "90d8624724def039d5c75ae3f29e31c2",
+      "crc32": "9d58988e",
+      "sha1": "9486f78b1938ea46a677e4d7d87628038697f3d2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spokesmanreview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "58344544846823a9fd5b3ed571a5fb1a",
+      "md5": "e4a88caa8dfde6324abb709fc6835be7",
       "summation": "md5"
     },
     {
       "name": "spokesmanreview-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658803849",
-      "size": "237568",
-      "md5": "fe088bee2d709122cfaffdc75f268d69",
-      "crc32": "66ce26ad",
-      "sha1": "acfae202deffd5954e66bd19d56ffef85fbd5f53",
+      "mtime": "1658842111",
+      "size": "245760",
+      "md5": "97a77fc4f0284f1505c7a133612ae07d",
+      "crc32": "a478ea04",
+      "sha1": "6c8819f819168924169e5c98ec5f02d16e6b4520",
       "format": "Metadata"
     },
     {
@@ -2004,9 +2056,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 191,
-  "item_last_updated": 1658805177,
-  "item_size": 17191406,
+  "files_count": 196,
+  "item_last_updated": 1658854676,
+  "item_size": 17597352,
   "metadata": {
     "identifier": "spokesmanreview-2022",
     "collection": [
@@ -2023,51 +2075,10 @@
     "publicdate": "2022-07-04 21:45:27",
     "addeddate": "2022-07-04 21:45:27"
   },
-  "server": "ia801402.us.archive.org",
-  "spokesmanreview-2022": [
-    {
-      "url": "https://www.spokesman.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spokesman_com-_-2022_07_26_01_14_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spokesman_com-_-2022_07_26_01_14_38.report.json",
-      "summary": {
-        "performance": 0.12,
-        "accessibility": 0.88,
-        "best-practices": 0.92,
-        "seo": 0.81,
-        "pwa": 0.9
-      }
-    },
-    {
-      "url": "https://www.spokesman.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spokesman_com-_-2022_07_26_01_15_21.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spokesman_com-_-2022_07_26_01_15_21.report.json",
-      "summary": {
-        "performance": 0.26,
-        "accessibility": 0.88,
-        "best-practices": 0.92,
-        "seo": 0.81,
-        "pwa": 0.9
-      }
-    },
-    {
-      "url": "https://www.spokesman.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spokesman_com-_-2022_07_26_01_14_59.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spokesman_com-_-2022_07_26_01_14_59.report.json",
-      "summary": {
-        "performance": 0.26,
-        "accessibility": 0.88,
-        "best-practices": 0.92,
-        "seo": 0.81,
-        "pwa": 0.9
-      }
-    }
-  ],
-  "uniq": 275445798,
+  "server": "ia601402.us.archive.org",
+  "uniq": 181021286,
   "workable_servers": [
-    "ia801402.us.archive.org",
-    "ia601402.us.archive.org"
+    "ia601402.us.archive.org",
+    "ia801402.us.archive.org"
   ]
 }

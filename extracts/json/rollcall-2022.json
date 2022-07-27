@@ -1,5 +1,5 @@
 {
-  "created": 1658809962,
+  "created": 1658859556,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/18/items/rollcall-2022",
@@ -1810,31 +1810,83 @@
       "sha1": "dd791aa4cef97e7341b39bc217fa48b7117ef0a4"
     },
     {
+      "name": "rollcall-2022-07-26T11:44:40.832831-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658850286",
+      "size": "36037",
+      "md5": "24480b418287e65afa73bf1ced9fdba3",
+      "crc32": "35ef2a83",
+      "sha1": "155cde9fa1ec58ad1855545fa368894ed04454a8",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-07-26T11:44:40.832831-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658850287",
+      "size": "27318",
+      "md5": "6fa5d8351a5e4f2aef2e1a4666b72bb0",
+      "crc32": "69a4fa2b",
+      "sha1": "5139237b7c4096ea970b783295b8705aa7ae0951",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-07-26T11:44:40.832831-04:00.jpg",
+      "source": "original",
+      "mtime": "1658850284",
+      "size": "249761",
+      "md5": "5ed87e5a6b2852b322250163dc853a11",
+      "crc32": "a9dda6af",
+      "sha1": "f3c682af282283b8d8313c41c36c9fb65d992b65",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rollcall-2022-07-26T11:44:40.832831-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658850289",
+      "size": "1441",
+      "md5": "889b7e96c1d3dc7e2eeb5fda2ad69b0b",
+      "crc32": "63baa114",
+      "sha1": "e95dd87423c095b4e769d13347bd4eb07d16aa5b",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-07-26T11:44:40.832831-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollcall-2022-07-26T11:44:40.832831-04:00.jpg",
+      "mtime": "1658859486",
+      "size": "10802",
+      "md5": "aee6737a9f1e0a64c7facc41be1240fc",
+      "crc32": "849f9892",
+      "sha1": "934faed748f5a338f1cbebe90ac340c54327c264"
+    },
+    {
       "name": "rollcall-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ed586628dd4067e10b6718f7bf157b33632d0604",
-      "mtime": "1658809921",
-      "size": "37659",
-      "md5": "cf604f72c1dea1365db78da787eb3b50",
-      "crc32": "c39c73ac",
-      "sha1": "d707aa97372916b8a2add63b71c37cd94b40680b",
+      "btih": "8ee4e2cfba207d27665c8fc5f791f6f284b24533",
+      "mtime": "1658859503",
+      "size": "38719",
+      "md5": "7237e4083b947715c42ec32a3ad841e6",
+      "crc32": "f0d2d33d",
+      "sha1": "dda032cf19f65a3ec0c2a2dcdb194b03b63b3e15",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollcall-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "83e5b269cfee58f3cc0d7d77c95be32f",
+      "md5": "628ac418130d61c21b2b114baea61cbc",
       "summation": "md5"
     },
     {
       "name": "rollcall-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658807809",
-      "size": "217088",
-      "md5": "7cf35cf273c0cfef9df13be48e5b410c",
-      "crc32": "35bb2958",
-      "sha1": "9596b9f0a70e0ca10a70daa695f5d4f4bcc93fe8",
+      "mtime": "1658850292",
+      "size": "225280",
+      "md5": "9d59af6da13a8347d90886006468d27e",
+      "crc32": "83d5a3cb",
+      "sha1": "0fbc4a61ab8b6f894954bccd4916f8aeed18a1ae",
       "format": "Metadata"
     },
     {
@@ -1848,9 +1900,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 176,
-  "item_last_updated": 1658809921,
-  "item_size": 14482646,
+  "files_count": 181,
+  "item_last_updated": 1658859503,
+  "item_size": 14817257,
   "metadata": {
     "identifier": "rollcall-2022",
     "collection": [
@@ -1867,10 +1919,10 @@
     "publicdate": "2022-07-04 21:52:31",
     "addeddate": "2022-07-04 21:52:31"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 104722227,
+  "server": "ia601407.us.archive.org",
+  "uniq": 839171954,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

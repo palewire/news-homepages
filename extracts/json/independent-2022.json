@@ -1,5 +1,5 @@
 {
-  "created": 1658838036,
+  "created": 1658880754,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/20/items/independent-2022",
@@ -12705,31 +12705,83 @@
       "format": "JSON"
     },
     {
+      "name": "independent-2022-07-26T13:18:48.994962+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "independent-2022-07-26T13:18:48.994962+01:00.jpg",
+      "mtime": "1658850643",
+      "size": "9406",
+      "md5": "0b1718f94ad799c4e1e472e8aecc1a5e",
+      "crc32": "211672c8",
+      "sha1": "698af1bc24d3b98e9bb2e4cc239afb0f52a62b41"
+    },
+    {
+      "name": "independent-2022-07-27T01:11:29.034915+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658880697",
+      "size": "47535",
+      "md5": "dde445a0efe61ad59d4a6acb41c776f9",
+      "crc32": "83d84793",
+      "sha1": "b0dddfda0c854d8f4cfa97b1dc58dd76fff22da0",
+      "format": "JSON"
+    },
+    {
+      "name": "independent-2022-07-27T01:11:29.034915+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658880698",
+      "size": "53354",
+      "md5": "5b6a577ab4eb445baf4dbf34a7c523a7",
+      "crc32": "1407b630",
+      "sha1": "ee3880a376018d38b158baa82beb03e3bec985b7",
+      "format": "JSON"
+    },
+    {
+      "name": "independent-2022-07-27T01:11:29.034915+01:00.jpg",
+      "source": "original",
+      "mtime": "1658880695",
+      "size": "282625",
+      "md5": "7ee6312d9f9f850138a82114783da598",
+      "crc32": "3be7ba7a",
+      "sha1": "e8262d1038900ef444f04ad33d47e0c2c3b86f68",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "independent-2022-07-27T01:11:29.034915+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658880700",
+      "size": "1582",
+      "md5": "7dbcef9ca2f13e9045276435f119e9da",
+      "crc32": "9a966d1a",
+      "sha1": "188a74905c4314a23d8a1e80dc0a80f76468efea",
+      "format": "JSON"
+    },
+    {
       "name": "independent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "60cb832b4671527d00788c9635590fb7f3ab94dc",
-      "mtime": "1658838023",
-      "size": "260382",
-      "md5": "ee5a54a2385aac7e075ae6be2de18096",
-      "crc32": "7262a6ff",
-      "sha1": "0acbc5094e3009c9473ea1c5bc724be3ce1f031e",
+      "btih": "589a0d59cd98e96f28e04cdd257fd5ea25362f15",
+      "mtime": "1658880751",
+      "size": "261456",
+      "md5": "28b05bae13c330a214cff59a9445820a",
+      "crc32": "5c46ff04",
+      "sha1": "76ebaebfe20d815e37a5ae9fbf1e696df52ba692",
       "format": "Archive BitTorrent"
     },
     {
       "name": "independent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a7fb3b62e395df37ec3734c7975ac336",
+      "md5": "900c6226355015eb34a80954e0a4ac0d",
       "summation": "md5"
     },
     {
       "name": "independent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658837942",
-      "size": "1396736",
-      "md5": "16540593d9e9991209ec62ff19fdf6c0",
-      "crc32": "d6fc2acc",
-      "sha1": "045fec4d7ea6d344a00c5fb3e5d9d0197074d2fd",
+      "mtime": "1658880705",
+      "size": "1400832",
+      "md5": "d84a3cf00648e8388f937bbfc29714e8",
+      "crc32": "16e7a3b4",
+      "sha1": "814224bca866d6c951f4ec6c92b6dc4ae06efc1c",
       "format": "Metadata"
     },
     {
@@ -12743,9 +12795,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1213,
-  "item_last_updated": 1658838023,
-  "item_size": 122730697,
+  "files_count": 1218,
+  "item_last_updated": 1658880751,
+  "item_size": 123130369,
   "metadata": {
     "identifier": "independent-2022",
     "collection": [
@@ -12767,7 +12819,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3344320632,
+      "task_id": 3344774893,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12775,7 +12827,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 37084331,
+  "uniq": 2134098605,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

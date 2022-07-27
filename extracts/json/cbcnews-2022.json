@@ -1,5 +1,5 @@
 {
-  "created": 1658805896,
+  "created": 1658854506,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/8/items/cbcnews-2022",
@@ -2776,31 +2776,83 @@
       "sha1": "028282e3400274d07b6859404078053bf30cf671"
     },
     {
+      "name": "cbcnews-2022-07-26T09:26:44.050669-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658842010",
+      "size": "455",
+      "md5": "7ed09e687e32c3afa32203a9c9f43560",
+      "crc32": "436c049a",
+      "sha1": "d843b459550da256364dba53e30fc7a4e6d8575a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-07-26T09:26:44.050669-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658842011",
+      "size": "24118",
+      "md5": "56695663baae0f4cfd9e4a2e25b0eac3",
+      "crc32": "8da4066c",
+      "sha1": "d9d3181a3211931e5f7c58f86d197f9af35a0381",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-07-26T09:26:44.050669-04:00.jpg",
+      "source": "original",
+      "mtime": "1658842005",
+      "size": "322613",
+      "md5": "59b84da3eaad73f2fd1ce3e60a73a9b7",
+      "crc32": "ae8fb060",
+      "sha1": "b99d4f9a99cb3d93cdd3a3795b956c588a65cede",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbcnews-2022-07-26T09:26:44.050669-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658842013",
+      "size": "1447",
+      "md5": "54c2d83f39b42f8f112919bc2baa62df",
+      "crc32": "7c663cd9",
+      "sha1": "baa3419d67180f416c9f91e02744cd752a45dfbc",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-07-26T09:26:44.050669-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbcnews-2022-07-26T09:26:44.050669-04:00.jpg",
+      "mtime": "1658854481",
+      "size": "10254",
+      "md5": "f6eb249fb6cf6e9964293002a05d3925",
+      "crc32": "d2747f8b",
+      "sha1": "df50509cd5d8e59b8eed592adad0fd879b4c9f2c"
+    },
+    {
       "name": "cbcnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2c5598accc14ebf27953c609488c20ed3ce6b23d",
-      "mtime": "1658805884",
-      "size": "56372",
-      "md5": "ca6ef865e6671cf6327583a3853f542a",
-      "crc32": "7b4910b3",
-      "sha1": "a68bf5cf421c0a40896b5795f967dc61494a1d16",
+      "btih": "cf83b0feae4f39b95187a530d3c40b9ced75df4a",
+      "mtime": "1658854494",
+      "size": "57425",
+      "md5": "f29543717bf476c25fbb618a72ea46bb",
+      "crc32": "617e5e7a",
+      "sha1": "2d63b0b25fc4df75cbab8d33bcf7bc1ced3397e9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbcnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8420f4adbc6612190a49e8dbb4e6df90",
+      "md5": "49e2d3848d82b3f6baaec3d245ee12ca",
       "summation": "md5"
     },
     {
       "name": "cbcnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658804293",
-      "size": "319488",
-      "md5": "d3f73869648165c3bade2dedaffd5363",
-      "crc32": "66ab7659",
-      "sha1": "1ceddc17da60afddac0fe7150e5f9a32bee0e0a0",
+      "mtime": "1658842016",
+      "size": "327680",
+      "md5": "e932b95fc8925b3d77739d9d58f999d6",
+      "crc32": "f1fb90a7",
+      "sha1": "24ebbb896f94f040412d33010239f2e0170651bf",
       "format": "Metadata"
     },
     {
@@ -2814,9 +2866,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 268,
-  "item_last_updated": 1658805884,
-  "item_size": 18836385,
+  "files_count": 273,
+  "item_last_updated": 1658854494,
+  "item_size": 19204517,
   "metadata": {
     "identifier": "cbcnews-2022",
     "collection": [
@@ -2833,10 +2885,10 @@
     "publicdate": "2022-06-30 22:35:35",
     "addeddate": "2022-06-30 22:35:35"
   },
-  "server": "ia601508.us.archive.org",
-  "uniq": 288334560,
+  "server": "ia801508.us.archive.org",
+  "uniq": 2050696581,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }
