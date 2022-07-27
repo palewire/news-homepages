@@ -116,7 +116,7 @@ def site_detail():
         # Set the local time
         site_tz = pytz.timezone(site["timezone"])
         for s in most_recent_screenshots:
-            s["local_time"] = s["mtime"].astimezone(site_tz)
+            s["local_time"] = s["local_time"] = s["mtime"].astimezone(site_tz)
 
         # Get the hyperlinks for this site
         hyperlinks = [
@@ -127,8 +127,6 @@ def site_detail():
         most_recent_hyperlinks = sorted(
             hyperlinks, key=lambda x: x["mtime"], reverse=True
         )[:10]
-        for s in most_recent_hyperlinks:
-            s["local_time"] = s["mtime"].astimezone(site_tz)
 
         # Render the template
         context = {
@@ -249,6 +247,69 @@ def site_detail_hyperlink_chart():
 
         # Calculate the seven-day rolling average
         site_by_date["value"] = site_by_date.hyperlinks.rolling(7).mean()
+
+        # Cut nulls
+        site_by_date_nonulls = site_by_date[~pd.isnull(site_by_date.value)]
+
+        # Cut the most recent day, which may be incomplete
+        site_by_date_qualified = site_by_date_nonulls.head(
+            len(site_by_date_nonulls) - 1
+        )
+
+        # Trim the columns
+        site_by_date_trimmed = site_by_date_qualified[["date", "value"]]
+
+        # Format the date for JSON
+        site_by_date_trimmed["date"] = site_by_date_trimmed["date"].dt.strftime(
+            "%Y-%m-%d"
+        )
+
+        # Write it out
+        site_by_date_trimmed.to_json(
+            out_dir / f"{site['handle'].lower()}.json",
+            indent=2,
+            orient="records",
+        )
+
+
+@cli.command()
+def site_detail_accessibility_chart():
+    """Create the JSON data file for the site detail page's accessibility chart."""
+    # Get all sites
+    site_list = utils.get_site_list()
+    print(
+        f":link: Creating accessibility chart JSON files for {len(site_list)} site detail pages"
+    )
+
+    # Get all accessibility files
+    accessibility_df = pd.read_csv(
+        utils.EXTRACT_DIR / "csv" / "accessibility-files.csv",
+        parse_dates=["mtime"],
+        usecols=["identifier", "handle", "file_name", "mtime"],
+    )
+    accessibility_df["date"] = pd.to_datetime(accessibility_df.mtime.dt.date)
+
+    # Ignore pandas warnings
+    warnings.filterwarnings("ignore")
+
+    # Make the out directory
+    out_dir = utils.DOCS_DIR / "_extra" / "charts" / "sites" / "accessibility"
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    # Loop through all sites
+    for site in track(site_list):
+        # Get the screenshots for this site
+        site_df = accessibility_df[
+            accessibility_df.handle.str.lower() == site["handle"].lower()
+        ]
+
+        # Group and count by date
+        site_by_date = (
+            site_df.groupby("date").size().rename("accessibility").reset_index()
+        )
+
+        # Calculate the seven-day rolling average
+        site_by_date["value"] = site_by_date.accessibility.rolling(7).mean()
 
         # Cut nulls
         site_by_date_nonulls = site_by_date[~pd.isnull(site_by_date.value)]

@@ -38,6 +38,11 @@ runs:
       run: pipenv run python -m newshomepages.docs site-detail-hyperlink-chart;
       shell: bash
 
+    - id: site-detail-accessibility-chart
+      name: Update site detail accessibility-chart
+      run: pipenv run python -m newshomepages.docs site-detail-accessibility-chart;
+      shell: bash
+
     - id: bundle-detail
       name: Update bundle detail
       run: pipenv run python -m newshomepages.docs bundle-detail;
