@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 101 screenshots with the Internet Archive.
+The archiving routine has saved 102 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 101 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-26T19:09:54.334165-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-26T19:09:54.334165-04:00.jpg"
+     alt="Foreign Policy at 2022-07-26 19:10:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-26T19:09:54.334165-04:00.jpg">July 26 at 7:10 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-26T07:18:09.349463-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-21T10:07:18.015694-04:00.jpg">July 21 at 10:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-20T22:22:35.475466-04:00.jpg">
-  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-20T22:22:35.475466-04:00.jpg"
-     alt="Foreign Policy at 2022-07-20 22:22:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-20T22:22:35.475466-04:00.jpg">July 20 at 10:22 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 99 hyperlink lists with the Internet Archive.
+The archiving routine has saved 100 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:10 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-26T19:09:54.334165-04:00.hyperlinks.json) |
 | [July 26 at 7:18 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-26T07:18:09.349463-04:00.hyperlinks.json) |
 | [July 25 at 7:15 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-25T19:15:01.810734-04:00.hyperlinks.json) |
 | [July 25 at 8:03 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-25T08:03:30.696636-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 10:26 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-22T22:25:56.683002-04:00.hyperlinks.json) |
 | [July 22 at 10:01 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-22T10:00:57.066748-04:00.hyperlinks.json) |
 | [July 21 at 10:19 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-21T22:19:42.622792-04:00.hyperlinks.json) |
-| [July 21 at 10:07 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-21T10:07:18.015694-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

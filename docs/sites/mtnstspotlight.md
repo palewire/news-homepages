@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 104 screenshots with the Internet Archive.
+The archiving routine has saved 105 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 104 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-07-26T10:41:15.841235-04:00.jpg">
+  <img src="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-07-26T10:41:15.841235-04:00.jpg"
+     alt="Mountain State Spotlight at 2022-07-26 10:41:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-07-26T10:41:15.841235-04:00.jpg">July 26 at 10:41 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-07-25T22:48:53.132474-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-07-20T12:08:22.035388-04:00.jpg">July 20 at 12:08 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-07-19T23:33:27.982859-04:00.jpg">
-  <img src="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-07-19T23:33:27.982859-04:00.jpg"
-     alt="Mountain State Spotlight at 2022-07-19 23:33:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-07-19T23:33:27.982859-04:00.jpg">July 19 at 11:33 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 106 hyperlink lists with the Internet Archive.
+The archiving routine has saved 107 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:41 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-07-26T10:41:15.841235-04:00.hyperlinks.json) |
 | [July 25 at 10:48 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-07-25T22:48:53.132474-04:00.hyperlinks.json) |
 | [July 25 at 9:15 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-07-25T09:15:12.362962-04:00.hyperlinks.json) |
 | [July 24 at 11:33 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-07-24T23:33:01.654208-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:31 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-07-22T23:31:35.772585-04:00.hyperlinks.json) |
 | [July 22 at 10:57 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-07-22T10:57:43.205544-04:00.hyperlinks.json) |
 | [July 21 at 11:36 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-07-21T23:36:37.501987-04:00.hyperlinks.json) |
-| [July 21 at 11:30 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-07-21T11:30:40.280084-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

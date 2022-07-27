@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 191 screenshots with the Internet Archive.
+The archiving routine has saved 192 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 191 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T09:48:15.609833-06:00.jpg">
+  <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T09:48:15.609833-06:00.jpg"
+     alt="Santa Fe New Mexican at 2022-07-26 09:48:19-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T09:48:15.609833-06:00.jpg">July 26 at 9:48 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T21:59:28.032646-06:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-20T22:30:05.622313-06:00.jpg">July 20 at 10:30 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-20T10:46:31.039453-06:00.jpg">
-  <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-20T10:46:31.039453-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-20 10:46:39-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-20T10:46:31.039453-06:00.jpg">July 20 at 10:46 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 181 hyperlink lists with the Internet Archive.
+The archiving routine has saved 182 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:48 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T09:48:15.609833-06:00.hyperlinks.json) |
 | [July 25 at 9:59 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T21:59:28.032646-06:00.hyperlinks.json) |
 | [July 25 at 9:47 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T09:47:47.351149-06:00.hyperlinks.json) |
 | [July 24 at 10:37 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T22:36:51.428252-06:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 10:18 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-22T10:18:00.555178-06:00.hyperlinks.json) |
 | [July 21 at 10:32 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-21T22:32:32.071150-06:00.hyperlinks.json) |
 | [July 21 at 10:55 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-21T10:55:25.112080-06:00.hyperlinks.json) |
-| [July 20 at 10:30 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-20T22:30:05.622313-06:00.hyperlinks.json) |
 
 
 ## Internet Archive

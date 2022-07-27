@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-26T21:18:27.545109+05:30.jpg">
+  <img src="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-26T21:18:27.545109+05:30.jpg"
+     alt="Times of India at 2022-07-26 21:18:28+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-26T21:18:27.545109+05:30.jpg">July 26 at 9:18 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-26T09:29:39.343273+05:30.jpg">
@@ -77,7 +86,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
 
 
@@ -85,6 +94,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:18 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-26T21:18:27.545109+05:30.hyperlinks.json) |
 | [July 26 at 9:29 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-26T09:29:39.343273+05:30.hyperlinks.json) |
 | [July 25 at 9:19 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-25T21:19:21.105257+05:30.hyperlinks.json) |
 | [July 25 at 10:08 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-25T10:08:53.048910+05:30.hyperlinks.json) |

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 122 screenshots with the Internet Archive.
+The archiving routine has saved 124 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T18:01:49.932108-05:00.jpg">
+  <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T18:01:49.932108-05:00.jpg"
+     alt="14 East at 2022-07-26 18:01:54-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T18:01:49.932108-05:00.jpg">July 26 at 6:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T11:00:06.644982-05:00.jpg">
+  <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T11:00:06.644982-05:00.jpg"
+     alt="14 East at 2022-07-26 11:00:11-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T11:00:06.644982-05:00.jpg">July 26 at 11:00 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T06:09:27.896228-05:00.jpg">
   <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T06:09:27.896228-05:00.jpg"
      alt="14 East at 2022-07-26 06:09:29-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-22T19:55:20.515890-05:00.jpg">July 22 at 7:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-22T11:23:31.773820-05:00.jpg">
-  <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-22T11:23:31.773820-05:00.jpg"
-     alt="14 East at 2022-07-22 11:23:35-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-22T11:23:31.773820-05:00.jpg">July 22 at 11:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-22T07:54:32.296712-05:00.jpg">
-  <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-22T07:54:32.296712-05:00.jpg"
-     alt="14 East at 2022-07-22 07:54:37-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-22T07:54:32.296712-05:00.jpg">July 22 at 7:54 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 123 hyperlink lists with the Internet Archive.
+The archiving routine has saved 125 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 6:02 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T18:01:49.932108-05:00.hyperlinks.json) |
+| [July 26 at 11:00 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T11:00:06.644982-05:00.hyperlinks.json) |
 | [July 26 at 6:09 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T06:09:27.896228-05:00.hyperlinks.json) |
 | [July 25 at 6:04 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T18:04:43.407254-05:00.hyperlinks.json) |
 | [July 25 at 11:35 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T11:35:21.834718-05:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 10:45 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T10:45:26.623372-05:00.hyperlinks.json) |
 | [July 24 at 5:55 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T05:54:54.300547-05:00.hyperlinks.json) |
 | [July 23 at 5:57 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-23T17:57:39.090501-05:00.hyperlinks.json) |
-| [July 23 at 7:54 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-23T07:54:20.909705-05:00.hyperlinks.json) |
-| [July 22 at 7:55 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-22T19:55:20.515890-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

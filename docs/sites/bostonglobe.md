@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 81 screenshots with the Internet Archive.
+The archiving routine has saved 82 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 81 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-26T19:05:18.776861-04:00.jpg">
+  <img src="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-26T19:05:18.776861-04:00.jpg"
+     alt="Boston Globe at 2022-07-26 19:05:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-26T19:05:18.776861-04:00.jpg">July 26 at 7:05 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-26T07:13:34.485536-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-21T08:53:19.751686-04:00.jpg">July 21 at 8:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-20T21:05:07.652278-04:00.jpg">
-  <img src="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-20T21:05:07.652278-04:00.jpg"
-     alt="Boston Globe at 2022-07-20 21:05:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-20T21:05:07.652278-04:00.jpg">July 20 at 9:05 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 80 hyperlink lists with the Internet Archive.
+The archiving routine has saved 81 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:05 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-26T19:05:18.776861-04:00.hyperlinks.json) |
 | [July 26 at 7:13 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-26T07:13:34.485536-04:00.hyperlinks.json) |
 | [July 25 at 7:09 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-25T19:09:06.989907-04:00.hyperlinks.json) |
 | [July 25 at 7:00 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-25T07:00:31.202920-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:58 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-23T08:58:37.044757-04:00.hyperlinks.json) |
 | [July 22 at 8:59 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-22T20:59:02.440304-04:00.hyperlinks.json) |
 | [July 22 at 8:58 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-22T08:58:46.722871-04:00.hyperlinks.json) |
-| [July 21 at 9:06 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-21T21:06:50.314618-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

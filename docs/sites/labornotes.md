@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 11 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-26T13:37:12.369316-05:00.jpg">
+  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-07-26T13:37:12.369316-05:00.jpg"
+     alt="Labor Notes at 2022-07-26 13:37:14-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-26T13:37:12.369316-05:00.jpg">July 26 at 1:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-26T09:39:23.252802-05:00.jpg">
+  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-07-26T09:39:23.252802-05:00.jpg"
+     alt="Labor Notes at 2022-07-26 09:39:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-26T09:39:23.252802-05:00.jpg">July 26 at 9:39 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-25T21:46:05.195917-05:00.jpg">
@@ -118,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-23T09:06:09.924645-05:00.jpg">July 23 at 9:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-22T21:31:35.365525-05:00.jpg">
-  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-07-22T21:31:35.365525-05:00.jpg"
-     alt="Labor Notes at 2022-07-22 21:31:41-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-07-22T21:31:35.365525-05:00.jpg">July 22 at 9:31 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 11 hyperlink lists with the Internet Archive.
+The archiving routine has saved 13 hyperlink lists with the Internet Archive.
 
 
 
@@ -139,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 1:37 PM](https://archive.org/download/labornotes-2022/labornotes-2022-07-26T13:37:12.369316-05:00.hyperlinks.json) |
+| [July 26 at 9:39 AM](https://archive.org/download/labornotes-2022/labornotes-2022-07-26T09:39:23.252802-05:00.hyperlinks.json) |
 | [July 25 at 9:46 PM](https://archive.org/download/labornotes-2022/labornotes-2022-07-25T21:46:05.195917-05:00.hyperlinks.json) |
 | [July 25 at 1:41 PM](https://archive.org/download/labornotes-2022/labornotes-2022-07-25T13:41:38.136787-05:00.hyperlinks.json) |
 | [July 25 at 11:37 AM](https://archive.org/download/labornotes-2022/labornotes-2022-07-25T11:37:42.076884-05:00.hyperlinks.json) |
@@ -147,8 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 10:42 AM](https://archive.org/download/labornotes-2022/labornotes-2022-07-24T10:42:40.181667-05:00.hyperlinks.json) |
 | [July 24 at 8:01 AM](https://archive.org/download/labornotes-2022/labornotes-2022-07-24T08:01:33.870100-05:00.hyperlinks.json) |
 | [July 23 at 11:16 PM](https://archive.org/download/labornotes-2022/labornotes-2022-07-23T23:16:11.018336-05:00.hyperlinks.json) |
-| [July 23 at 1:13 PM](https://archive.org/download/labornotes-2022/labornotes-2022-07-23T13:13:22.876036-05:00.hyperlinks.json) |
-| [July 23 at 9:06 AM](https://archive.org/download/labornotes-2022/labornotes-2022-07-23T09:06:09.924645-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

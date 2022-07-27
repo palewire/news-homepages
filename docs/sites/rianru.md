@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 127 screenshots with the Internet Archive.
+The archiving routine has saved 128 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 127 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rianru-2022/rianru-2022-07-26T18:44:52.311474+03:00.jpg">
+  <img src="https://archive.org/download/rianru-2022/rianru-2022-07-26T18:44:52.311474+03:00.jpg"
+     alt="RIA Novosti at 2022-07-26 18:44:54+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rianru-2022/rianru-2022-07-26T18:44:52.311474+03:00.jpg">July 26 at 6:44 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rianru-2022/rianru-2022-07-26T08:30:13.904456+03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rianru-2022/rianru-2022-07-23T06:37:53.501999+03:00.jpg">July 23 at 6:37 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rianru-2022/rianru-2022-07-22T18:04:29.233613+03:00.jpg">
-  <img src="https://archive.org/download/rianru-2022/rianru-2022-07-22T18:04:29.233613+03:00.jpg"
-     alt="RIA Novosti at 2022-07-22 18:04:32+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rianru-2022/rianru-2022-07-22T18:04:29.233613+03:00.jpg">July 22 at 6:04 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 126 hyperlink lists with the Internet Archive.
+The archiving routine has saved 127 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 6:44 PM](https://archive.org/download/rianru-2022/rianru-2022-07-26T18:44:52.311474+03:00.hyperlinks.json) |
 | [July 26 at 8:30 AM](https://archive.org/download/rianru-2022/rianru-2022-07-26T08:30:13.904456+03:00.hyperlinks.json) |
 | [July 26 at 6:56 AM](https://archive.org/download/rianru-2022/rianru-2022-07-26T06:55:54.204806+03:00.hyperlinks.json) |
 | [July 25 at 6:40 PM](https://archive.org/download/rianru-2022/rianru-2022-07-25T18:40:00.002054+03:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 9:47 AM](https://archive.org/download/rianru-2022/rianru-2022-07-24T09:47:24.166235+03:00.hyperlinks.json) |
 | [July 24 at 9:21 AM](https://archive.org/download/rianru-2022/rianru-2022-07-24T09:21:51.677066+03:00.hyperlinks.json) |
 | [July 23 at 6:08 PM](https://archive.org/download/rianru-2022/rianru-2022-07-23T18:08:09.880036+03:00.hyperlinks.json) |
-| [July 23 at 8:11 AM](https://archive.org/download/rianru-2022/rianru-2022-07-23T08:11:27.140419+03:00.hyperlinks.json) |
 
 
 ## Internet Archive

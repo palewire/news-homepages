@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 13 screenshots with the Internet Archive.
+The archiving routine has saved 14 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-07-26T19:05:28.000564-04:00.jpg">
+  <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-07-26T19:05:28.000564-04:00.jpg"
+     alt="Capital B Atlanta at 2022-07-26 19:05:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-07-26T19:05:28.000564-04:00.jpg">July 26 at 7:05 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-07-26T07:14:02.376939-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-07-21T08:54:16.227226-04:00.jpg">July 21 at 8:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-07-20T21:06:52.596944-04:00.jpg">
-  <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-07-20T21:06:52.596944-04:00.jpg"
-     alt="Capital B Atlanta at 2022-07-20 21:06:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-07-20T21:06:52.596944-04:00.jpg">July 20 at 9:06 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 13 hyperlink lists with the Internet Archive.
+The archiving routine has saved 14 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:05 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-07-26T19:05:28.000564-04:00.hyperlinks.json) |
 | [July 26 at 7:14 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-07-26T07:14:02.376939-04:00.hyperlinks.json) |
 | [July 25 at 7:09 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-07-25T19:09:49.958524-04:00.hyperlinks.json) |
 | [July 25 at 7:01 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-07-25T07:01:06.212729-04:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:59 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-07-23T08:59:42.177100-04:00.hyperlinks.json) |
 | [July 22 at 8:59 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-07-22T20:59:46.614064-04:00.hyperlinks.json) |
 | [July 22 at 9:00 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-07-22T09:00:28.673781-04:00.hyperlinks.json) |
-| [July 21 at 9:07 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-07-21T21:07:34.189909-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

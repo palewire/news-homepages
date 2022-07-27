@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 209 screenshots with the Internet Archive.
+The archiving routine has saved 211 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nro-2022/nro-2022-07-26T20:17:32.197437-04:00.jpg">
+  <img src="https://archive.org/download/nro-2022/nro-2022-07-26T20:17:32.197437-04:00.jpg"
+     alt="National Review at 2022-07-26 20:17:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-07-26T20:17:32.197437-04:00.jpg">July 26 at 8:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nro-2022/nro-2022-07-26T14:35:21.309403-04:00.jpg">
+  <img src="https://archive.org/download/nro-2022/nro-2022-07-26T14:35:21.309403-04:00.jpg"
+     alt="National Review at 2022-07-26 14:35:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-07-26T14:35:21.309403-04:00.jpg">July 26 at 2:35 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nro-2022/nro-2022-07-26T08:26:49.813273-04:00.jpg">
   <img src="https://archive.org/download/nro-2022/nro-2022-07-26T08:26:49.813273-04:00.jpg"
      alt="National Review at 2022-07-26 08:26:56-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nro-2022/nro-2022-07-23T12:11:31.789401-04:00.jpg">July 23 at 12:11 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nro-2022/nro-2022-07-23T11:04:33.236025-04:00.jpg">
-  <img src="https://archive.org/download/nro-2022/nro-2022-07-23T11:04:33.236025-04:00.jpg"
-     alt="National Review at 2022-07-23 11:04:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-07-23T11:04:33.236025-04:00.jpg">July 23 at 11:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nro-2022/nro-2022-07-22T23:34:06.916294-04:00.jpg">
-  <img src="https://archive.org/download/nro-2022/nro-2022-07-22T23:34:06.916294-04:00.jpg"
-     alt="National Review at 2022-07-22 23:34:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-07-22T23:34:06.916294-04:00.jpg">July 22 at 11:34 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 192 hyperlink lists with the Internet Archive.
+The archiving routine has saved 193 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 2:35 PM](https://archive.org/download/nro-2022/nro-2022-07-26T14:35:21.309403-04:00.hyperlinks.json) |
 | [July 26 at 8:26 AM](https://archive.org/download/nro-2022/nro-2022-07-26T08:26:49.813273-04:00.hyperlinks.json) |
 | [July 25 at 2:39 PM](https://archive.org/download/nro-2022/nro-2022-07-25T14:38:58.972433-04:00.hyperlinks.json) |
 | [July 25 at 12:41 PM](https://archive.org/download/nro-2022/nro-2022-07-25T12:41:17.488278-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:04 AM](https://archive.org/download/nro-2022/nro-2022-07-23T11:04:33.236025-04:00.hyperlinks.json) |
 | [July 22 at 11:34 PM](https://archive.org/download/nro-2022/nro-2022-07-22T23:34:06.916294-04:00.hyperlinks.json) |
 | [July 22 at 12:25 PM](https://archive.org/download/nro-2022/nro-2022-07-22T12:25:29.065294-04:00.hyperlinks.json) |
-| [July 22 at 11:00 AM](https://archive.org/download/nro-2022/nro-2022-07-22T11:00:00.717067-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

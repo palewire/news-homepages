@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 55 screenshots with the Internet Archive.
+The archiving routine has saved 56 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 55 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/6abc-2022/6abc-2022-07-26T19:01:58.887954-04:00.jpg">
+  <img src="https://archive.org/download/6abc-2022/6abc-2022-07-26T19:01:58.887954-04:00.jpg"
+     alt="6abc at 2022-07-26 19:02:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-26T19:01:58.887954-04:00.jpg">July 26 at 7:02 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/6abc-2022/6abc-2022-07-26T07:09:50.702147-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-20T21:01:30.394168-04:00.jpg">July 20 at 9:01 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/6abc-2022/6abc-2022-07-20T08:50:26.666194-04:00.jpg">
-  <img src="https://archive.org/download/6abc-2022/6abc-2022-07-20T08:50:26.666194-04:00.jpg"
-     alt="6abc at 2022-07-20 08:50:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-20T08:50:26.666194-04:00.jpg">July 20 at 8:50 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 56 hyperlink lists with the Internet Archive.
+The archiving routine has saved 57 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:02 PM](https://archive.org/download/6abc-2022/6abc-2022-07-26T19:01:58.887954-04:00.hyperlinks.json) |
 | [July 26 at 7:09 AM](https://archive.org/download/6abc-2022/6abc-2022-07-26T07:09:50.702147-04:00.hyperlinks.json) |
 | [July 25 at 7:05 PM](https://archive.org/download/6abc-2022/6abc-2022-07-25T19:05:10.210404-04:00.hyperlinks.json) |
 | [July 25 at 6:56 AM](https://archive.org/download/6abc-2022/6abc-2022-07-25T06:56:12.723206-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:54 AM](https://archive.org/download/6abc-2022/6abc-2022-07-23T08:54:15.266519-04:00.hyperlinks.json) |
 | [July 22 at 8:55 PM](https://archive.org/download/6abc-2022/6abc-2022-07-22T20:55:09.011661-04:00.hyperlinks.json) |
 | [July 22 at 8:54 AM](https://archive.org/download/6abc-2022/6abc-2022-07-22T08:54:35.563246-04:00.hyperlinks.json) |
-| [July 21 at 9:03 PM](https://archive.org/download/6abc-2022/6abc-2022-07-21T21:02:53.799472-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 110 screenshots with the Internet Archive.
+The archiving routine has saved 111 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 110 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-26T11:43:42.131556-04:00.jpg">
+  <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-26T11:43:42.131556-04:00.jpg"
+     alt="Center for Public Integrity at 2022-07-26 11:43:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-26T11:43:42.131556-04:00.jpg">July 26 at 11:43 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-25T23:55:34.916996-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-20T23:39:42.352335-04:00.jpg">July 20 at 11:39 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-20T12:14:00.731001-04:00.jpg">
-  <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-20T12:14:00.731001-04:00.jpg"
-     alt="Center for Public Integrity at 2022-07-20 12:14:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-20T12:14:00.731001-04:00.jpg">July 20 at 12:14 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 112 hyperlink lists with the Internet Archive.
+The archiving routine has saved 113 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:43 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-26T11:43:42.131556-04:00.hyperlinks.json) |
 | [July 25 at 11:55 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-25T23:55:34.916996-04:00.hyperlinks.json) |
 | [July 25 at 11:38 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-25T11:37:56.576677-04:00.hyperlinks.json) |
 | [July 24 at 11:40 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-24T23:40:28.008023-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:36 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-22T23:36:42.740458-04:00.hyperlinks.json) |
 | [July 22 at 11:03 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-22T11:03:03.248762-04:00.hyperlinks.json) |
 | [July 21 at 11:42 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-21T23:42:04.104621-04:00.hyperlinks.json) |
-| [July 21 at 11:41 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-07-21T11:41:09.112914-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

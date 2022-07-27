@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 3 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-07-26T08:50:10.644090-07:00.jpg">
+  <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-07-26T08:50:10.644090-07:00.jpg"
+     alt="Windows Central at 2022-07-26 08:50:11-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-07-26T08:50:10.644090-07:00.jpg">July 26 at 8:50 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-07-25T21:01:41.589607-07:00.jpg">

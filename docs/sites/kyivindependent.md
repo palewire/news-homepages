@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 270 screenshots with the Internet Archive.
+The archiving routine has saved 271 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 270 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-26T17:38:36.516348+03:00.jpg">
+  <img src="https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-26T17:38:36.516348+03:00.jpg"
+     alt="Kyiv Independent at 2022-07-26 17:38:41+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-26T17:38:36.516348+03:00.jpg">July 26 at 5:38 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-26T05:47:05.276123+03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-21T05:28:16.129223+03:00.jpg">July 21 at 5:28 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-20T17:29:29.565806+03:00.jpg">
-  <img src="https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-20T17:29:29.565806+03:00.jpg"
-     alt="Kyiv Independent at 2022-07-20 17:29:30+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-20T17:29:29.565806+03:00.jpg">July 20 at 5:29 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 251 hyperlink lists with the Internet Archive.
+The archiving routine has saved 252 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 5:38 PM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-26T17:38:36.516348+03:00.hyperlinks.json) |
 | [July 26 at 5:47 AM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-26T05:47:05.276123+03:00.hyperlinks.json) |
 | [July 25 at 4:12 PM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-25T16:12:12.612376+03:00.hyperlinks.json) |
 | [July 25 at 6:27 AM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-25T06:27:27.176305+03:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 5:31 AM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-23T05:31:54.868200+03:00.hyperlinks.json) |
 | [July 22 at 5:06 PM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-22T17:06:50.639409+03:00.hyperlinks.json) |
 | [July 22 at 5:25 AM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-22T05:25:47.924116+03:00.hyperlinks.json) |
-| [July 21 at 5:16 PM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-21T17:16:14.251125+03:00.hyperlinks.json) |
 
 
 ## Internet Archive

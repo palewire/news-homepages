@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 78 screenshots with the Internet Archive.
+The archiving routine has saved 79 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 78 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-26T11:43:21.640566-04:00.jpg">
+  <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-26T11:43:21.640566-04:00.jpg"
+     alt="Post and Courier at 2022-07-26 11:43:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-26T11:43:21.640566-04:00.jpg">July 26 at 11:43 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-25T23:54:47.183376-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-20T23:39:46.369731-04:00.jpg">July 20 at 11:39 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-20T12:13:38.052174-04:00.jpg">
-  <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-20T12:13:38.052174-04:00.jpg"
-     alt="Post and Courier at 2022-07-20 12:13:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-20T12:13:38.052174-04:00.jpg">July 20 at 12:13 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 79 hyperlink lists with the Internet Archive.
+The archiving routine has saved 80 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:43 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-07-26T11:43:21.640566-04:00.hyperlinks.json) |
 | [July 25 at 11:54 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-07-25T23:54:47.183376-04:00.hyperlinks.json) |
 | [July 25 at 11:38 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-07-25T11:38:09.140355-04:00.hyperlinks.json) |
 | [July 24 at 11:40 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-07-24T23:40:04.638682-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:36 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-07-22T23:36:22.415834-04:00.hyperlinks.json) |
 | [July 22 at 11:02 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-07-22T11:02:31.763500-04:00.hyperlinks.json) |
 | [July 21 at 11:41 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-07-21T23:41:02.927606-04:00.hyperlinks.json) |
-| [July 21 at 11:37 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-07-21T11:37:09.184902-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

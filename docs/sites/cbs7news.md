@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-26T18:06:02.676447-05:00.jpg">
+  <img src="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-26T18:06:02.676447-05:00.jpg"
+     alt="CBS7 at 2022-07-26 18:06:05-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-26T18:06:02.676447-05:00.jpg">July 26 at 6:06 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-26T06:13:57.131734-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-21T07:54:08.055991-05:00.jpg">July 21 at 7:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-20T20:06:29.616086-05:00.jpg">
-  <img src="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-20T20:06:29.616086-05:00.jpg"
-     alt="CBS7 at 2022-07-20 20:06:32-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-20T20:06:29.616086-05:00.jpg">July 20 at 8:06 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 6:06 PM](https://archive.org/download/cbs7news-2022/cbs7news-2022-07-26T18:06:02.676447-05:00.hyperlinks.json) |
 | [July 26 at 6:14 AM](https://archive.org/download/cbs7news-2022/cbs7news-2022-07-26T06:13:57.131734-05:00.hyperlinks.json) |
 | [July 25 at 6:10 PM](https://archive.org/download/cbs7news-2022/cbs7news-2022-07-25T18:09:55.418215-05:00.hyperlinks.json) |
 | [July 25 at 6:01 AM](https://archive.org/download/cbs7news-2022/cbs7news-2022-07-25T06:01:38.712304-05:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 7:59 AM](https://archive.org/download/cbs7news-2022/cbs7news-2022-07-23T07:59:30.809608-05:00.hyperlinks.json) |
 | [July 22 at 8:00 PM](https://archive.org/download/cbs7news-2022/cbs7news-2022-07-22T20:00:28.017373-05:00.hyperlinks.json) |
 | [July 22 at 8:00 AM](https://archive.org/download/cbs7news-2022/cbs7news-2022-07-22T08:00:08.116883-05:00.hyperlinks.json) |
-| [July 21 at 8:08 PM](https://archive.org/download/cbs7news-2022/cbs7news-2022-07-21T20:08:04.409703-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

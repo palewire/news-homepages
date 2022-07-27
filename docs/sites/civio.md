@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 102 screenshots with the Internet Archive.
+The archiving routine has saved 103 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 102 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/civio-2022/civio-2022-07-26T15:27:05.708200+02:00.jpg">
+  <img src="https://archive.org/download/civio-2022/civio-2022-07-26T15:27:05.708200+02:00.jpg"
+     alt="Civio at 2022-07-26 15:27:07+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-07-26T15:27:05.708200+02:00.jpg">July 26 at 3:27 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civio-2022/civio-2022-07-26T04:59:06.964936+02:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/civio-2022/civio-2022-07-21T14:55:10.382015+02:00.jpg">July 21 at 2:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/civio-2022/civio-2022-07-21T03:07:37.606661+02:00.jpg">
-  <img src="https://archive.org/download/civio-2022/civio-2022-07-21T03:07:37.606661+02:00.jpg"
-     alt="Civio at 2022-07-21 03:07:39+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-07-21T03:07:37.606661+02:00.jpg">July 21 at 3:07 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 102 hyperlink lists with the Internet Archive.
+The archiving routine has saved 103 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 3:27 PM](https://archive.org/download/civio-2022/civio-2022-07-26T15:27:05.708200+02:00.hyperlinks.json) |
 | [July 26 at 4:59 AM](https://archive.org/download/civio-2022/civio-2022-07-26T04:59:06.964936+02:00.hyperlinks.json) |
 | [July 26 at 3:32 AM](https://archive.org/download/civio-2022/civio-2022-07-26T03:32:40.652988+02:00.hyperlinks.json) |
 | [July 25 at 1:03 PM](https://archive.org/download/civio-2022/civio-2022-07-25T13:03:11.323583+02:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 3:02 PM](https://archive.org/download/civio-2022/civio-2022-07-23T15:01:57.799326+02:00.hyperlinks.json) |
 | [July 23 at 3:01 AM](https://archive.org/download/civio-2022/civio-2022-07-23T03:01:37.844309+02:00.hyperlinks.json) |
 | [July 22 at 3:01 PM](https://archive.org/download/civio-2022/civio-2022-07-22T15:01:25.420518+02:00.hyperlinks.json) |
-| [July 22 at 3:09 AM](https://archive.org/download/civio-2022/civio-2022-07-22T03:09:30.689468+02:00.hyperlinks.json) |
 
 
 ## Internet Archive

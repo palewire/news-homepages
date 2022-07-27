@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-26T20:15:17.870599-04:00.jpg">
+  <img src="https://archive.org/download/natgeo-2022/natgeo-2022-07-26T20:15:17.870599-04:00.jpg"
+     alt="National Geographic at 2022-07-26 20:15:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-26T20:15:17.870599-04:00.jpg">July 26 at 8:15 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-26T08:25:42.519075-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-21T11:34:41.045053-04:00.jpg">July 21 at 11:34 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-20T23:35:12.430576-04:00.jpg">
-  <img src="https://archive.org/download/natgeo-2022/natgeo-2022-07-20T23:35:12.430576-04:00.jpg"
-     alt="National Geographic at 2022-07-20 23:35:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-20T23:35:12.430576-04:00.jpg">July 20 at 11:35 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:15 PM](https://archive.org/download/natgeo-2022/natgeo-2022-07-26T20:15:17.870599-04:00.hyperlinks.json) |
 | [July 26 at 8:25 AM](https://archive.org/download/natgeo-2022/natgeo-2022-07-26T08:25:42.519075-04:00.hyperlinks.json) |
 | [July 25 at 8:20 PM](https://archive.org/download/natgeo-2022/natgeo-2022-07-25T20:20:04.738334-04:00.hyperlinks.json) |
 | [July 25 at 9:15 AM](https://archive.org/download/natgeo-2022/natgeo-2022-07-25T09:15:45.431505-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:02 AM](https://archive.org/download/natgeo-2022/natgeo-2022-07-23T11:02:20.606442-04:00.hyperlinks.json) |
 | [July 22 at 11:32 PM](https://archive.org/download/natgeo-2022/natgeo-2022-07-22T23:32:28.726404-04:00.hyperlinks.json) |
 | [July 22 at 10:58 AM](https://archive.org/download/natgeo-2022/natgeo-2022-07-22T10:58:20.567145-04:00.hyperlinks.json) |
-| [July 21 at 11:36 PM](https://archive.org/download/natgeo-2022/natgeo-2022-07-21T23:36:53.094262-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

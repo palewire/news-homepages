@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 4 screenshots with the Internet Archive.
+The archiving routine has saved 5 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-26T19:04:58.046578-04:00.jpg">
+  <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-26T19:04:58.046578-04:00.jpg"
+     alt="BleepingComputer at 2022-07-26 19:04:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-26T19:04:58.046578-04:00.jpg">July 26 at 7:04 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-26T07:13:03.299196-04:00.jpg">
@@ -68,7 +77,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+The archiving routine has saved 5 hyperlink lists with the Internet Archive.
 
 
 
@@ -76,6 +85,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:05 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-26T19:04:58.046578-04:00.hyperlinks.json) |
 | [July 26 at 7:13 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-26T07:13:03.299196-04:00.hyperlinks.json) |
 | [July 25 at 7:10 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T19:10:16.677418-04:00.hyperlinks.json) |
 | [July 25 at 7:00 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-07-25T07:00:03.880024-04:00.hyperlinks.json) |

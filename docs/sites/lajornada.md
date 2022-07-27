@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 443 screenshots with the Internet Archive.
+The archiving routine has saved 444 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 443 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-26T19:14:23.027940-05:00.jpg">
+  <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-26T19:14:23.027940-05:00.jpg"
+     alt="La Jornada at 2022-07-26 19:14:35-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-26T19:14:23.027940-05:00.jpg">July 26 at 7:14 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-26T07:22:57.049281-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-21T09:16:41.080173-05:00.jpg">July 21 at 9:16 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-20T21:28:54.437463-05:00.jpg">
-  <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-20T21:28:54.437463-05:00.jpg"
-     alt="La Jornada at 2022-07-20 21:28:56-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-20T21:28:54.437463-05:00.jpg">July 20 at 9:28 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 452 hyperlink lists with the Internet Archive.
+The archiving routine has saved 453 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:14 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T19:14:23.027940-05:00.hyperlinks.json) |
 | [July 26 at 7:23 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T07:22:57.049281-05:00.hyperlinks.json) |
 | [July 25 at 7:17 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T19:17:23.230988-05:00.hyperlinks.json) |
 | [July 25 at 8:12 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:06 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-23T09:06:17.735680-05:00.hyperlinks.json) |
 | [July 22 at 9:34 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-22T21:34:27.572547-05:00.hyperlinks.json) |
 | [July 22 at 9:07 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-22T09:07:08.506373-05:00.hyperlinks.json) |
-| [July 21 at 9:26 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-21T21:26:53.332719-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

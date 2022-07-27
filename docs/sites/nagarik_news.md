@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 4 screenshots with the Internet Archive.
+The archiving routine has saved 5 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-26T20:25:53.754370+05:45.jpg">
+  <img src="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-26T20:25:53.754370+05:45.jpg"
+     alt="Nagarik News at 2022-07-26 20:25:55+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-26T20:25:53.754370+05:45.jpg">July 26 at 8:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-26T08:33:14.771961+05:45.jpg">
@@ -68,7 +77,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+The archiving routine has saved 5 hyperlink lists with the Internet Archive.
 
 
 
@@ -76,6 +85,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:25 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-26T20:25:53.754370+05:45.hyperlinks.json) |
 | [July 26 at 8:33 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-26T08:33:14.771961+05:45.hyperlinks.json) |
 | [July 25 at 7:00 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T19:00:34.859713+05:45.hyperlinks.json) |
 | [July 25 at 9:19 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T09:19:04.859834+05:45.hyperlinks.json) |

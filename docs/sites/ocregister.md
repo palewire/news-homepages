@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 284 screenshots with the Internet Archive.
+The archiving routine has saved 286 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-26T11:34:34.022345-07:00.jpg">
+  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-07-26T11:34:34.022345-07:00.jpg"
+     alt="Orange County Register at 2022-07-26 11:34:35-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-26T11:34:34.022345-07:00.jpg">July 26 at 11:34 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-26T08:42:00.454139-07:00.jpg">
+  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-07-26T08:42:00.454139-07:00.jpg"
+     alt="Orange County Register at 2022-07-26 08:42:02-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-26T08:42:00.454139-07:00.jpg">July 26 at 8:42 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-25T20:53:46.941935-07:00.jpg">
   <img src="https://archive.org/download/ocregister-2022/ocregister-2022-07-25T20:53:46.941935-07:00.jpg"
      alt="Orange County Register at 2022-07-25 20:53:54-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-22T20:35:16.979218-07:00.jpg">July 22 at 8:35 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-22T11:08:39.952866-07:00.jpg">
-  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-07-22T11:08:39.952866-07:00.jpg"
-     alt="Orange County Register at 2022-07-22 11:08:41-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-22T11:08:39.952866-07:00.jpg">July 22 at 11:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-22T08:00:34.403429-07:00.jpg">
-  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-07-22T08:00:34.403429-07:00.jpg"
-     alt="Orange County Register at 2022-07-22 08:00:47-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-07-22T08:00:34.403429-07:00.jpg">July 22 at 8:00 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 270 hyperlink lists with the Internet Archive.
+The archiving routine has saved 272 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:34 AM](https://archive.org/download/ocregister-2022/ocregister-2022-07-26T11:34:34.022345-07:00.hyperlinks.json) |
+| [July 26 at 8:42 AM](https://archive.org/download/ocregister-2022/ocregister-2022-07-26T08:42:00.454139-07:00.hyperlinks.json) |
 | [July 25 at 8:53 PM](https://archive.org/download/ocregister-2022/ocregister-2022-07-25T20:53:46.941935-07:00.hyperlinks.json) |
 | [July 25 at 11:14 AM](https://archive.org/download/ocregister-2022/ocregister-2022-07-25T11:14:19.076070-07:00.hyperlinks.json) |
 | [July 25 at 8:36 AM](https://archive.org/download/ocregister-2022/ocregister-2022-07-25T08:35:55.550628-07:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 6:58 AM](https://archive.org/download/ocregister-2022/ocregister-2022-07-24T06:58:45.481079-07:00.hyperlinks.json) |
 | [July 23 at 11:17 PM](https://archive.org/download/ocregister-2022/ocregister-2022-07-23T23:17:31.494390-07:00.hyperlinks.json) |
 | [July 23 at 11:24 AM](https://archive.org/download/ocregister-2022/ocregister-2022-07-23T11:24:18.720707-07:00.hyperlinks.json) |
-| [July 22 at 8:35 PM](https://archive.org/download/ocregister-2022/ocregister-2022-07-22T20:35:16.979218-07:00.hyperlinks.json) |
-| [July 22 at 11:08 AM](https://archive.org/download/ocregister-2022/ocregister-2022-07-22T11:08:39.952866-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

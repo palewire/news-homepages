@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-27T06:04:14.433463+05:45.jpg">
+  <img src="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-27T06:04:14.433463+05:45.jpg"
+     alt="Rajdhani Daily at 2022-07-27 06:04:17+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-27T06:04:14.433463+05:45.jpg">July 27 at 6:04 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-26T18:13:18.935636+05:45.jpg">
@@ -77,7 +86,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
 
 
@@ -85,6 +94,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 6:04 AM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-27T06:04:14.433463+05:45.hyperlinks.json) |
 | [July 26 at 6:13 PM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-26T18:13:18.935636+05:45.hyperlinks.json) |
 | [July 26 at 6:08 AM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-26T06:08:25.831521+05:45.hyperlinks.json) |
 | [July 25 at 9:23 PM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-25T21:23:42.660417+05:45.hyperlinks.json) |

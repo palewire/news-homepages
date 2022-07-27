@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 265 screenshots with the Internet Archive.
+The archiving routine has saved 266 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 265 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-07-26T18:50:28.333865+03:00.jpg">
+  <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-07-26T18:50:28.333865+03:00.jpg"
+     alt="ZN.UA at 2022-07-26 18:50:30+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-07-26T18:50:28.333865+03:00.jpg">July 26 at 6:50 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-07-26T07:02:38.939036+03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-07-21T07:34:30.875464+03:00.jpg">July 21 at 7:34 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-07-20T19:50:56.652383+03:00.jpg">
-  <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-07-20T19:50:56.652383+03:00.jpg"
-     alt="ZN.UA at 2022-07-20 19:51:07+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-07-20T19:50:56.652383+03:00.jpg">July 20 at 7:51 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 249 hyperlink lists with the Internet Archive.
+The archiving routine has saved 250 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 6:50 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-26T18:50:28.333865+03:00.hyperlinks.json) |
 | [July 26 at 7:02 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-26T07:02:38.939036+03:00.hyperlinks.json) |
 | [July 25 at 6:55 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-25T18:55:42.287207+03:00.hyperlinks.json) |
 | [July 25 at 7:42 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-25T07:42:16.340509+03:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 7:31 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-23T07:30:42.819664+03:00.hyperlinks.json) |
 | [July 22 at 7:23 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-22T19:23:12.927868+03:00.hyperlinks.json) |
 | [July 22 at 7:38 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-22T07:37:55.351121+03:00.hyperlinks.json) |
-| [July 21 at 8:01 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-21T20:01:26.804918+03:00.hyperlinks.json) |
 
 
 ## Internet Archive

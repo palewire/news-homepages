@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/deadspin-2022/deadspin-2022-07-26T19:08:04.047281-04:00.jpg">
+  <img src="https://archive.org/download/deadspin-2022/deadspin-2022-07-26T19:08:04.047281-04:00.jpg"
+     alt="Deadspin at 2022-07-26 19:08:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deadspin-2022/deadspin-2022-07-26T19:08:04.047281-04:00.jpg">July 26 at 7:08 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deadspin-2022/deadspin-2022-07-26T07:16:20.133826-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/deadspin-2022/deadspin-2022-07-21T08:57:33.242497-04:00.jpg">July 21 at 8:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/deadspin-2022/deadspin-2022-07-20T21:10:38.504263-04:00.jpg">
-  <img src="https://archive.org/download/deadspin-2022/deadspin-2022-07-20T21:10:38.504263-04:00.jpg"
-     alt="Deadspin at 2022-07-20 21:10:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deadspin-2022/deadspin-2022-07-20T21:10:38.504263-04:00.jpg">July 20 at 9:10 PM</a></p>
 </div>
 
 </div>

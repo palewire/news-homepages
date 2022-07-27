@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-26T08:37:52.747088-06:00.jpg">
+  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-26T08:37:52.747088-06:00.jpg"
+     alt="KPCW at 2022-07-26 08:37:55-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-26T08:37:52.747088-06:00.jpg">July 26 at 8:37 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-25T20:46:09.714031-06:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-20T20:27:42.904130-06:00.jpg">July 20 at 8:27 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-20T08:29:16.155058-06:00.jpg">
-  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-20T08:29:16.155058-06:00.jpg"
-     alt="KPCW at 2022-07-20 08:29:17-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-20T08:29:16.155058-06:00.jpg">July 20 at 8:29 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:37 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-26T08:37:52.747088-06:00.hyperlinks.json) |
 | [July 25 at 8:46 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-25T20:46:09.714031-06:00.hyperlinks.json) |
 | [July 25 at 7:11 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-25T07:10:56.492442-06:00.hyperlinks.json) |
 | [July 24 at 9:26 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-24T21:26:18.267913-06:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 8:31 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-22T20:31:03.019149-06:00.hyperlinks.json) |
 | [July 22 at 8:06 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-22T08:06:27.100698-06:00.hyperlinks.json) |
 | [July 21 at 8:25 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-21T20:25:53.051627-06:00.hyperlinks.json) |
-| [July 21 at 8:15 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-07-21T08:15:46.186104-06:00.hyperlinks.json) |
 
 
 ## Internet Archive

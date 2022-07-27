@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 290 screenshots with the Internet Archive.
+The archiving routine has saved 292 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/abc7-2022/abc7-2022-07-26T16:01:37.617507-07:00.jpg">
+  <img src="https://archive.org/download/abc7-2022/abc7-2022-07-26T16:01:37.617507-07:00.jpg"
+     alt="ABC7 at 2022-07-26 16:01:56-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abc7-2022/abc7-2022-07-26T16:01:37.617507-07:00.jpg">July 26 at 4:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abc7-2022/abc7-2022-07-26T11:33:20.979459-07:00.jpg">
+  <img src="https://archive.org/download/abc7-2022/abc7-2022-07-26T11:33:20.979459-07:00.jpg"
+     alt="ABC7 at 2022-07-26 11:33:22-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abc7-2022/abc7-2022-07-26T11:33:20.979459-07:00.jpg">July 26 at 11:33 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/abc7-2022/abc7-2022-07-26T04:10:06.563803-07:00.jpg">
   <img src="https://archive.org/download/abc7-2022/abc7-2022-07-26T04:10:06.563803-07:00.jpg"
      alt="ABC7 at 2022-07-26 04:10:12-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/abc7-2022/abc7-2022-07-23T05:54:09.233431-07:00.jpg">July 23 at 5:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/abc7-2022/abc7-2022-07-22T17:55:47.743078-07:00.jpg">
-  <img src="https://archive.org/download/abc7-2022/abc7-2022-07-22T17:55:47.743078-07:00.jpg"
-     alt="ABC7 at 2022-07-22 17:55:48-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abc7-2022/abc7-2022-07-22T17:55:47.743078-07:00.jpg">July 22 at 5:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/abc7-2022/abc7-2022-07-22T11:08:40.546516-07:00.jpg">
-  <img src="https://archive.org/download/abc7-2022/abc7-2022-07-22T11:08:40.546516-07:00.jpg"
-     alt="ABC7 at 2022-07-22 11:08:46-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abc7-2022/abc7-2022-07-22T11:08:40.546516-07:00.jpg">July 22 at 11:08 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 275 hyperlink lists with the Internet Archive.
+The archiving routine has saved 277 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 4:02 PM](https://archive.org/download/abc7-2022/abc7-2022-07-26T16:01:37.617507-07:00.hyperlinks.json) |
+| [July 26 at 11:33 AM](https://archive.org/download/abc7-2022/abc7-2022-07-26T11:33:20.979459-07:00.hyperlinks.json) |
 | [July 26 at 4:10 AM](https://archive.org/download/abc7-2022/abc7-2022-07-26T04:10:06.563803-07:00.hyperlinks.json) |
 | [July 25 at 4:06 PM](https://archive.org/download/abc7-2022/abc7-2022-07-25T16:06:09.193452-07:00.hyperlinks.json) |
 | [July 25 at 11:13 AM](https://archive.org/download/abc7-2022/abc7-2022-07-25T11:13:45.752420-07:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:20 AM](https://archive.org/download/abc7-2022/abc7-2022-07-24T11:20:22.861867-07:00.hyperlinks.json) |
 | [July 24 at 3:55 AM](https://archive.org/download/abc7-2022/abc7-2022-07-24T03:55:12.591342-07:00.hyperlinks.json) |
 | [July 23 at 3:57 PM](https://archive.org/download/abc7-2022/abc7-2022-07-23T15:57:39.263302-07:00.hyperlinks.json) |
-| [July 23 at 11:23 AM](https://archive.org/download/abc7-2022/abc7-2022-07-23T11:23:25.173253-07:00.hyperlinks.json) |
-| [July 23 at 5:54 AM](https://archive.org/download/abc7-2022/abc7-2022-07-23T05:54:09.233431-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

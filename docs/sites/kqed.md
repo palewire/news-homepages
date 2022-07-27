@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 78 screenshots with the Internet Archive.
+The archiving routine has saved 79 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 78 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kqed-2022/kqed-2022-07-26T17:13:10.792254-07:00.jpg">
+  <img src="https://archive.org/download/kqed-2022/kqed-2022-07-26T17:13:10.792254-07:00.jpg"
+     alt="KQED at 2022-07-26 17:13:13-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-26T17:13:10.792254-07:00.jpg">July 26 at 5:13 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kqed-2022/kqed-2022-07-26T05:21:48.696080-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-21T07:15:46.708250-07:00.jpg">July 21 at 7:15 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kqed-2022/kqed-2022-07-20T19:27:52.053472-07:00.jpg">
-  <img src="https://archive.org/download/kqed-2022/kqed-2022-07-20T19:27:52.053472-07:00.jpg"
-     alt="KQED at 2022-07-20 19:27:53-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kqed-2022/kqed-2022-07-20T19:27:52.053472-07:00.jpg">July 20 at 7:27 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 75 hyperlink lists with the Internet Archive.
+The archiving routine has saved 76 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 5:13 PM](https://archive.org/download/kqed-2022/kqed-2022-07-26T17:13:10.792254-07:00.hyperlinks.json) |
 | [July 25 at 5:17 PM](https://archive.org/download/kqed-2022/kqed-2022-07-25T17:17:22.374398-07:00.hyperlinks.json) |
 | [July 24 at 8:26 PM](https://archive.org/download/kqed-2022/kqed-2022-07-24T20:26:47.127373-07:00.hyperlinks.json) |
 | [July 24 at 6:00 AM](https://archive.org/download/kqed-2022/kqed-2022-07-24T06:00:14.868962-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 7:06 AM](https://archive.org/download/kqed-2022/kqed-2022-07-22T07:06:49.256712-07:00.hyperlinks.json) |
 | [July 21 at 7:25 PM](https://archive.org/download/kqed-2022/kqed-2022-07-21T19:25:51.783044-07:00.hyperlinks.json) |
 | [July 21 at 7:15 AM](https://archive.org/download/kqed-2022/kqed-2022-07-21T07:15:46.708250-07:00.hyperlinks.json) |
-| [July 20 at 7:27 PM](https://archive.org/download/kqed-2022/kqed-2022-07-20T19:27:52.053472-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

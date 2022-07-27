@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 311 screenshots with the Internet Archive.
+The archiving routine has saved 312 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 311 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-26T14:29:16.547821+01:00.jpg">
+  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-26T14:29:16.547821+01:00.jpg"
+     alt="The Telegraph at 2022-07-26 14:29:18+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-26T14:29:16.547821+01:00.jpg">July 26 at 2:29 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-26T10:09:42.264336+01:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-23T10:06:39.503514+01:00.jpg">July 23 at 10:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-23T05:24:19.626359+01:00.jpg">
-  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-07-23T05:24:19.626359+01:00.jpg"
-     alt="The Telegraph at 2022-07-23 05:24:28+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-07-23T05:24:19.626359+01:00.jpg">July 23 at 5:24 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 296 hyperlink lists with the Internet Archive.
+The archiving routine has saved 297 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 2:29 PM](https://archive.org/download/telegraph-2022/telegraph-2022-07-26T14:29:16.547821+01:00.hyperlinks.json) |
 | [July 26 at 10:09 AM](https://archive.org/download/telegraph-2022/telegraph-2022-07-26T10:09:42.264336+01:00.hyperlinks.json) |
 | [July 26 at 3:52 AM](https://archive.org/download/telegraph-2022/telegraph-2022-07-26T03:52:29.317792+01:00.hyperlinks.json) |
 | [July 26 at 2:34 AM](https://archive.org/download/telegraph-2022/telegraph-2022-07-26T02:34:30.490143+01:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 4:03 PM](https://archive.org/download/telegraph-2022/telegraph-2022-07-24T16:03:46.297988+01:00.hyperlinks.json) |
 | [July 24 at 10:10 AM](https://archive.org/download/telegraph-2022/telegraph-2022-07-24T10:10:14.975411+01:00.hyperlinks.json) |
 | [July 24 at 4:40 AM](https://archive.org/download/telegraph-2022/telegraph-2022-07-24T04:40:03.467387+01:00.hyperlinks.json) |
-| [July 23 at 5:03 PM](https://archive.org/download/telegraph-2022/telegraph-2022-07-23T17:03:14.966814+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

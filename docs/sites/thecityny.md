@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 105 screenshots with the Internet Archive.
+The archiving routine has saved 106 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 105 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-26T09:30:02.974657-04:00.jpg">
+  <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-26T09:30:02.974657-04:00.jpg"
+     alt="The City at 2022-07-26 09:30:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-26T09:30:02.974657-04:00.jpg">July 26 at 9:30 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T22:50:35.199012-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-21T12:54:19.785948-04:00.jpg">July 21 at 12:54 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-21T00:29:11.984534-04:00.jpg">
-  <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-21T00:29:11.984534-04:00.jpg"
-     alt="The City at 2022-07-21 00:29:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-21T00:29:11.984534-04:00.jpg">July 21 at 12:29 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 105 hyperlink lists with the Internet Archive.
+The archiving routine has saved 106 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:30 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-26T09:30:02.974657-04:00.hyperlinks.json) |
 | [July 25 at 10:50 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T22:50:35.199012-04:00.hyperlinks.json) |
 | [July 25 at 9:36 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T21:35:59.727492-04:00.hyperlinks.json) |
 | [July 25 at 11:46 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T11:46:52.403493-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 12:04 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-23T12:04:40.827265-04:00.hyperlinks.json) |
 | [July 23 at 12:24 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-23T00:24:45.581926-04:00.hyperlinks.json) |
 | [July 22 at 12:17 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-22T12:17:34.689220-04:00.hyperlinks.json) |
-| [July 22 at 12:31 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-22T00:31:09.929674-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

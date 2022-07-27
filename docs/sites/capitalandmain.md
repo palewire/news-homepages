@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 9 screenshots with the Internet Archive.
+The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-26T11:33:20.602495-07:00.jpg">
+  <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-26T11:33:20.602495-07:00.jpg"
+     alt="Capital & Main at 2022-07-26 11:33:22-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-26T11:33:20.602495-07:00.jpg">July 26 at 11:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-26T06:26:34.021210-07:00.jpg">
+  <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-26T06:26:34.021210-07:00.jpg"
+     alt="Capital & Main at 2022-07-26 06:26:35-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-26T06:26:34.021210-07:00.jpg">July 26 at 6:26 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-25T19:58:10.062628-07:00.jpg">
@@ -113,7 +131,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 9 hyperlink lists with the Internet Archive.
+The archiving routine has saved 11 hyperlink lists with the Internet Archive.
 
 
 
@@ -121,6 +139,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:33 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-26T11:33:20.602495-07:00.hyperlinks.json) |
+| [July 26 at 6:26 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-26T06:26:34.021210-07:00.hyperlinks.json) |
 | [July 25 at 7:58 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-25T19:58:10.062628-07:00.hyperlinks.json) |
 | [July 25 at 6:31 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-25T18:31:14.799909-07:00.hyperlinks.json) |
 | [July 25 at 11:13 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-25T11:13:39.615597-07:00.hyperlinks.json) |
@@ -129,7 +149,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:20 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-24T11:20:31.626996-07:00.hyperlinks.json) |
 | [July 24 at 4:00 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-24T04:00:20.554987-07:00.hyperlinks.json) |
 | [July 23 at 4:02 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-23T16:02:28.993734-07:00.hyperlinks.json) |
-| [July 23 at 11:23 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-23T11:23:38.895796-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

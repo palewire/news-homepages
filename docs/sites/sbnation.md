@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 79 screenshots with the Internet Archive.
+The archiving routine has saved 80 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 79 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-26T20:19:41.307454-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-26T20:19:41.307454-04:00.jpg"
+     alt="SB Nation at 2022-07-26 20:19:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-26T20:19:41.307454-04:00.jpg">July 26 at 8:19 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-26T08:29:34.296208-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-21T11:40:22.991053-04:00.jpg">July 21 at 11:40 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T23:41:56.021579-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T23:41:56.021579-04:00.jpg"
-     alt="SB Nation at 2022-07-20 23:41:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T23:41:56.021579-04:00.jpg">July 20 at 11:41 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 77 hyperlink lists with the Internet Archive.
+The archiving routine has saved 78 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:19 PM](https://archive.org/download/sbnation-2022/sbnation-2022-07-26T20:19:41.307454-04:00.hyperlinks.json) |
 | [July 26 at 8:29 AM](https://archive.org/download/sbnation-2022/sbnation-2022-07-26T08:29:34.296208-04:00.hyperlinks.json) |
 | [July 25 at 8:25 PM](https://archive.org/download/sbnation-2022/sbnation-2022-07-25T20:25:04.034798-04:00.hyperlinks.json) |
 | [July 25 at 11:40 AM](https://archive.org/download/sbnation-2022/sbnation-2022-07-25T11:40:49.579605-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:09 AM](https://archive.org/download/sbnation-2022/sbnation-2022-07-23T11:09:29.346840-04:00.hyperlinks.json) |
 | [July 22 at 11:39 PM](https://archive.org/download/sbnation-2022/sbnation-2022-07-22T23:39:07.005230-04:00.hyperlinks.json) |
 | [July 22 at 11:05 AM](https://archive.org/download/sbnation-2022/sbnation-2022-07-22T11:05:09.877907-04:00.hyperlinks.json) |
-| [July 21 at 11:43 PM](https://archive.org/download/sbnation-2022/sbnation-2022-07-21T23:43:35.853375-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

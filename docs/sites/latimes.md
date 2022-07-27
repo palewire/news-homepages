@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 489 screenshots with the Internet Archive.
+The archiving routine has saved 493 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/latimes-2022/latimes-2022-07-26T12:04:20.194112-07:00.jpg">
+  <img src="https://archive.org/download/latimes-2022/latimes-2022-07-26T12:04:20.194112-07:00.jpg"
+     alt="Los Angeles Times at 2022-07-26 12:04:22-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-26T12:04:20.194112-07:00.jpg">July 26 at 12:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/latimes-2022/latimes-2022-07-26T11:33:51.941313-07:00.jpg">
+  <img src="https://archive.org/download/latimes-2022/latimes-2022-07-26T11:33:51.941313-07:00.jpg"
+     alt="Los Angeles Times at 2022-07-26 11:33:54-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-26T11:33:51.941313-07:00.jpg">July 26 at 11:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/latimes-2022/latimes-2022-07-26T07:38:53.249053-07:00.jpg">
+  <img src="https://archive.org/download/latimes-2022/latimes-2022-07-26T07:38:53.249053-07:00.jpg"
+     alt="Los Angeles Times at 2022-07-26 07:38:55-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-26T07:38:53.249053-07:00.jpg">July 26 at 7:38 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/latimes-2022/latimes-2022-07-26T07:31:06.100331-07:00.jpg">
+  <img src="https://archive.org/download/latimes-2022/latimes-2022-07-26T07:31:06.100331-07:00.jpg"
+     alt="Los Angeles Times at 2022-07-26 07:31:07-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-26T07:31:06.100331-07:00.jpg">July 26 at 7:31 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-07-25T19:46:40.587309-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-07-25T19:46:40.587309-07:00.jpg"
      alt="Los Angeles Times at 2022-07-25 19:46:42-07:00 local time"
@@ -183,47 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T20:28:31.129953-07:00.jpg">July 24 at 8:28 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T12:06:26.579024-07:00.jpg">
-  <img src="https://archive.org/download/latimes-2022/latimes-2022-07-24T12:06:26.579024-07:00.jpg"
-     alt="Los Angeles Times at 2022-07-24 12:06:28-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T12:06:26.579024-07:00.jpg">July 24 at 12:06 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T11:20:34.237241-07:00.jpg">
-  <img src="https://archive.org/download/latimes-2022/latimes-2022-07-24T11:20:34.237241-07:00.jpg"
-     alt="Los Angeles Times at 2022-07-24 11:20:36-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T11:20:34.237241-07:00.jpg">July 24 at 11:20 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T06:57:50.637161-07:00.jpg">
-  <img src="https://archive.org/download/latimes-2022/latimes-2022-07-24T06:57:50.637161-07:00.jpg"
-     alt="Los Angeles Times at 2022-07-24 06:57:52-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T06:57:50.637161-07:00.jpg">July 24 at 6:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T06:01:18.105454-07:00.jpg">
-  <img src="https://archive.org/download/latimes-2022/latimes-2022-07-24T06:01:18.105454-07:00.jpg"
-     alt="Los Angeles Times at 2022-07-24 06:01:20-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-24T06:01:18.105454-07:00.jpg">July 24 at 6:01 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 452 hyperlink lists with the Internet Archive.
+The archiving routine has saved 456 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 12:04 PM](https://archive.org/download/latimes-2022/latimes-2022-07-26T12:04:20.194112-07:00.hyperlinks.json) |
+| [July 26 at 11:33 AM](https://archive.org/download/latimes-2022/latimes-2022-07-26T11:33:51.941313-07:00.hyperlinks.json) |
+| [July 26 at 7:38 AM](https://archive.org/download/latimes-2022/latimes-2022-07-26T07:38:53.249053-07:00.hyperlinks.json) |
+| [July 26 at 7:31 AM](https://archive.org/download/latimes-2022/latimes-2022-07-26T07:31:06.100331-07:00.hyperlinks.json) |
 | [July 25 at 7:46 PM](https://archive.org/download/latimes-2022/latimes-2022-07-25T19:46:40.587309-07:00.hyperlinks.json) |
 | [July 25 at 7:36 PM](https://archive.org/download/latimes-2022/latimes-2022-07-25T19:36:52.491340-07:00.hyperlinks.json) |
 | [July 25 at 12:05 PM](https://archive.org/download/latimes-2022/latimes-2022-07-25T12:05:03.934375-07:00.hyperlinks.json) |
 | [July 25 at 11:13 AM](https://archive.org/download/latimes-2022/latimes-2022-07-25T11:13:48.346443-07:00.hyperlinks.json) |
 | [July 25 at 7:22 AM](https://archive.org/download/latimes-2022/latimes-2022-07-25T07:22:13.790893-07:00.hyperlinks.json) |
 | [July 25 at 6:12 AM](https://archive.org/download/latimes-2022/latimes-2022-07-25T06:12:26.805311-07:00.hyperlinks.json) |
-| [July 24 at 8:35 PM](https://archive.org/download/latimes-2022/latimes-2022-07-24T20:35:52.730839-07:00.hyperlinks.json) |
-| [July 24 at 8:28 PM](https://archive.org/download/latimes-2022/latimes-2022-07-24T20:28:31.129953-07:00.hyperlinks.json) |
-| [July 24 at 12:06 PM](https://archive.org/download/latimes-2022/latimes-2022-07-24T12:06:26.579024-07:00.hyperlinks.json) |
-| [July 24 at 11:20 AM](https://archive.org/download/latimes-2022/latimes-2022-07-24T11:20:34.237241-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

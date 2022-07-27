@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 70 screenshots with the Internet Archive.
+The archiving routine has saved 71 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 70 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-26T10:33:43.702996-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-07-26T10:33:43.702996-04:00.jpg"
+     alt="Financial Post at 2022-07-26 10:33:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-26T10:33:43.702996-04:00.jpg">July 26 at 10:33 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-25T22:42:21.327327-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-20T22:22:34.288286-04:00.jpg">July 20 at 10:22 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-20T10:25:10.015412-04:00.jpg">
-  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-07-20T10:25:10.015412-04:00.jpg"
-     alt="Financial Post at 2022-07-20 10:25:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-07-20T10:25:10.015412-04:00.jpg">July 20 at 10:25 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 71 hyperlink lists with the Internet Archive.
+The archiving routine has saved 72 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:33 AM](https://archive.org/download/financialpost-2022/financialpost-2022-07-26T10:33:43.702996-04:00.hyperlinks.json) |
 | [July 25 at 10:42 PM](https://archive.org/download/financialpost-2022/financialpost-2022-07-25T22:42:21.327327-04:00.hyperlinks.json) |
 | [July 25 at 8:01 AM](https://archive.org/download/financialpost-2022/financialpost-2022-07-25T08:01:34.356225-04:00.hyperlinks.json) |
 | [July 24 at 9:04 PM](https://archive.org/download/financialpost-2022/financialpost-2022-07-24T21:04:38.875824-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 10:24 PM](https://archive.org/download/financialpost-2022/financialpost-2022-07-22T22:24:46.760978-04:00.hyperlinks.json) |
 | [July 22 at 10:00 AM](https://archive.org/download/financialpost-2022/financialpost-2022-07-22T10:00:17.236995-04:00.hyperlinks.json) |
 | [July 21 at 10:19 PM](https://archive.org/download/financialpost-2022/financialpost-2022-07-21T22:19:11.930262-04:00.hyperlinks.json) |
-| [July 21 at 10:05 AM](https://archive.org/download/financialpost-2022/financialpost-2022-07-21T10:05:18.131641-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

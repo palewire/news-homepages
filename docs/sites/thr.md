@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thr-2022/thr-2022-07-26T06:31:20.342354-07:00.jpg">
+  <img src="https://archive.org/download/thr-2022/thr-2022-07-26T06:31:20.342354-07:00.jpg"
+     alt="Hollywood Reporter at 2022-07-26 06:31:22-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thr-2022/thr-2022-07-26T06:31:20.342354-07:00.jpg">July 26 at 6:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thr-2022/thr-2022-07-25T19:51:13.511151-07:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thr-2022/thr-2022-07-21T09:56:36.554327-07:00.jpg">July 21 at 9:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thr-2022/thr-2022-07-20T21:30:42.607105-07:00.jpg">
-  <img src="https://archive.org/download/thr-2022/thr-2022-07-20T21:30:42.607105-07:00.jpg"
-     alt="Hollywood Reporter at 2022-07-20 21:30:44-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thr-2022/thr-2022-07-20T21:30:42.607105-07:00.jpg">July 20 at 9:30 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 15 hyperlink lists with the Internet Archive.
+The archiving routine has saved 16 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 6:31 AM](https://archive.org/download/thr-2022/thr-2022-07-26T06:31:20.342354-07:00.hyperlinks.json) |
 | [July 25 at 7:51 PM](https://archive.org/download/thr-2022/thr-2022-07-25T19:51:13.511151-07:00.hyperlinks.json) |
 | [July 25 at 6:36 PM](https://archive.org/download/thr-2022/thr-2022-07-25T18:36:41.803796-07:00.hyperlinks.json) |
 | [July 25 at 8:49 AM](https://archive.org/download/thr-2022/thr-2022-07-25T08:49:12.064646-07:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 9:19 AM](https://archive.org/download/thr-2022/thr-2022-07-22T09:19:36.039167-07:00.hyperlinks.json) |
 | [July 21 at 9:32 PM](https://archive.org/download/thr-2022/thr-2022-07-21T21:32:08.964788-07:00.hyperlinks.json) |
 | [July 21 at 9:56 AM](https://archive.org/download/thr-2022/thr-2022-07-21T09:56:36.554327-07:00.hyperlinks.json) |
-| [July 20 at 9:30 PM](https://archive.org/download/thr-2022/thr-2022-07-20T21:30:42.607105-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

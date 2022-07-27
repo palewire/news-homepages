@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 283 screenshots with the Internet Archive.
+The archiving routine has saved 285 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-26T11:35:19.476555-07:00.jpg">
+  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-07-26T11:35:19.476555-07:00.jpg"
+     alt="Ventura County Star at 2022-07-26 11:35:21-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-26T11:35:19.476555-07:00.jpg">July 26 at 11:35 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-26T08:50:01.401827-07:00.jpg">
+  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-07-26T08:50:01.401827-07:00.jpg"
+     alt="Ventura County Star at 2022-07-26 08:50:03-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-26T08:50:01.401827-07:00.jpg">July 26 at 8:50 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-25T20:59:58.582442-07:00.jpg">
   <img src="https://archive.org/download/vcstar-2022/vcstar-2022-07-25T20:59:58.582442-07:00.jpg"
      alt="Ventura County Star at 2022-07-25 21:00:01-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-22T21:28:06.424655-07:00.jpg">July 22 at 9:28 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-22T11:08:35.771047-07:00.jpg">
-  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-07-22T11:08:35.771047-07:00.jpg"
-     alt="Ventura County Star at 2022-07-22 11:08:38-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-22T11:08:35.771047-07:00.jpg">July 22 at 11:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-22T09:21:04.296616-07:00.jpg">
-  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-07-22T09:21:04.296616-07:00.jpg"
-     alt="Ventura County Star at 2022-07-22 09:21:05-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-22T09:21:04.296616-07:00.jpg">July 22 at 9:21 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 268 hyperlink lists with the Internet Archive.
+The archiving routine has saved 270 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:35 AM](https://archive.org/download/vcstar-2022/vcstar-2022-07-26T11:35:19.476555-07:00.hyperlinks.json) |
+| [July 26 at 8:50 AM](https://archive.org/download/vcstar-2022/vcstar-2022-07-26T08:50:01.401827-07:00.hyperlinks.json) |
 | [July 25 at 9:00 PM](https://archive.org/download/vcstar-2022/vcstar-2022-07-25T20:59:58.582442-07:00.hyperlinks.json) |
 | [July 25 at 11:14 AM](https://archive.org/download/vcstar-2022/vcstar-2022-07-25T11:14:32.613317-07:00.hyperlinks.json) |
 | [July 25 at 8:51 AM](https://archive.org/download/vcstar-2022/vcstar-2022-07-25T08:51:24.271449-07:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 8:09 AM](https://archive.org/download/vcstar-2022/vcstar-2022-07-24T08:09:46.056707-07:00.hyperlinks.json) |
 | [July 23 at 8:45 PM](https://archive.org/download/vcstar-2022/vcstar-2022-07-23T20:45:36.831687-07:00.hyperlinks.json) |
 | [July 23 at 11:24 AM](https://archive.org/download/vcstar-2022/vcstar-2022-07-23T11:24:35.325109-07:00.hyperlinks.json) |
-| [July 22 at 9:28 PM](https://archive.org/download/vcstar-2022/vcstar-2022-07-22T21:28:06.424655-07:00.hyperlinks.json) |
-| [July 22 at 11:08 AM](https://archive.org/download/vcstar-2022/vcstar-2022-07-22T11:08:35.771047-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

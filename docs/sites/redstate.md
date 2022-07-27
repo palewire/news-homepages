@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/redstate-2022/redstate-2022-07-26T20:18:46.572305-04:00.jpg">
+  <img src="https://archive.org/download/redstate-2022/redstate-2022-07-26T20:18:46.572305-04:00.jpg"
+     alt="RedState at 2022-07-26 20:18:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-26T20:18:46.572305-04:00.jpg">July 26 at 8:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/redstate-2022/redstate-2022-07-26T14:36:07.879315-04:00.jpg">
+  <img src="https://archive.org/download/redstate-2022/redstate-2022-07-26T14:36:07.879315-04:00.jpg"
+     alt="RedState at 2022-07-26 14:36:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-26T14:36:07.879315-04:00.jpg">July 26 at 2:36 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/redstate-2022/redstate-2022-07-26T08:29:02.021492-04:00.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-23T12:11:31.938869-04:00.jpg">July 23 at 12:11 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/redstate-2022/redstate-2022-07-23T11:08:03.992944-04:00.jpg">
-  <img src="https://archive.org/download/redstate-2022/redstate-2022-07-23T11:08:03.992944-04:00.jpg"
-     alt="RedState at 2022-07-23 11:08:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-23T11:08:03.992944-04:00.jpg">July 23 at 11:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/redstate-2022/redstate-2022-07-22T23:37:52.995684-04:00.jpg">
-  <img src="https://archive.org/download/redstate-2022/redstate-2022-07-22T23:37:52.995684-04:00.jpg"
-     alt="RedState at 2022-07-22 23:37:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-22T23:37:52.995684-04:00.jpg">July 22 at 11:37 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 24 hyperlink lists with the Internet Archive.
+The archiving routine has saved 26 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:18 PM](https://archive.org/download/redstate-2022/redstate-2022-07-26T20:18:46.572305-04:00.hyperlinks.json) |
+| [July 26 at 2:36 PM](https://archive.org/download/redstate-2022/redstate-2022-07-26T14:36:07.879315-04:00.hyperlinks.json) |
 | [July 26 at 8:29 AM](https://archive.org/download/redstate-2022/redstate-2022-07-26T08:29:02.021492-04:00.hyperlinks.json) |
 | [July 25 at 8:25 PM](https://archive.org/download/redstate-2022/redstate-2022-07-25T20:25:03.167755-04:00.hyperlinks.json) |
 | [July 25 at 2:39 PM](https://archive.org/download/redstate-2022/redstate-2022-07-25T14:39:13.174060-04:00.hyperlinks.json) |
@@ -156,8 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:44 AM](https://archive.org/download/redstate-2022/redstate-2022-07-24T11:44:38.412507-04:00.hyperlinks.json) |
 | [July 24 at 2:21 AM](https://archive.org/download/redstate-2022/redstate-2022-07-24T02:21:20.249819-04:00.hyperlinks.json) |
 | [July 23 at 12:11 PM](https://archive.org/download/redstate-2022/redstate-2022-07-23T12:11:31.938869-04:00.hyperlinks.json) |
-| [July 23 at 11:08 AM](https://archive.org/download/redstate-2022/redstate-2022-07-23T11:08:03.992944-04:00.hyperlinks.json) |
-| [July 22 at 11:37 PM](https://archive.org/download/redstate-2022/redstate-2022-07-22T23:37:52.995684-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

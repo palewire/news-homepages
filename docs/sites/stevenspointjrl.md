@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 188 screenshots with the Internet Archive.
+The archiving routine has saved 189 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 188 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-26T08:29:20.405270-05:00.jpg">
+  <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-26T08:29:20.405270-05:00.jpg"
+     alt="Stevens Point Journal at 2022-07-26 08:29:23-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-26T08:29:20.405270-05:00.jpg">July 26 at 8:29 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-25T21:50:43.229384-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-21T11:53:00.125120-05:00.jpg">July 21 at 11:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-20T23:27:53.456499-05:00.jpg">
-  <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-20T23:27:53.456499-05:00.jpg"
-     alt="Stevens Point Journal at 2022-07-20 23:27:55-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-20T23:27:53.456499-05:00.jpg">July 20 at 11:27 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 180 hyperlink lists with the Internet Archive.
+The archiving routine has saved 181 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:29 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-26T08:29:20.405270-05:00.hyperlinks.json) |
 | [July 25 at 9:50 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-25T21:50:43.229384-05:00.hyperlinks.json) |
 | [July 25 at 8:33 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-25T20:33:43.969604-05:00.hyperlinks.json) |
 | [July 25 at 10:43 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-25T10:42:57.420861-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:23 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-22T23:23:19.007522-05:00.hyperlinks.json) |
 | [July 22 at 11:17 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-22T11:16:48.890069-05:00.hyperlinks.json) |
 | [July 21 at 11:29 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-21T23:29:47.476830-05:00.hyperlinks.json) |
-| [July 21 at 11:53 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-07-21T11:53:00.125120-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

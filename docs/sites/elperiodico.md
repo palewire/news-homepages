@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 1 screenshots with the Internet Archive.
+The archiving routine has saved 2 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elperiodico-2022/elperiodico-2022-07-26T16:33:41.953728+02:00.jpg">
+  <img src="https://archive.org/download/elperiodico-2022/elperiodico-2022-07-26T16:33:41.953728+02:00.jpg"
+     alt="El Periodico at 2022-07-26 16:33:43+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elperiodico-2022/elperiodico-2022-07-26T16:33:41.953728+02:00.jpg">July 26 at 4:33 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elperiodico-2022/elperiodico-2022-07-26T04:41:43.981008+02:00.jpg">
@@ -41,7 +50,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 1 hyperlink lists with the Internet Archive.
+The archiving routine has saved 2 hyperlink lists with the Internet Archive.
 
 
 
@@ -49,6 +58,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 4:33 PM](https://archive.org/download/elperiodico-2022/elperiodico-2022-07-26T16:33:41.953728+02:00.hyperlinks.json) |
 | [July 26 at 4:42 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-07-26T04:41:43.981008+02:00.hyperlinks.json) |
 
 

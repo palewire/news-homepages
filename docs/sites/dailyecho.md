@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 31 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 31 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.jpg">
+  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.jpg"
+     alt="Daily Echo at 2022-07-26 15:32:46+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.jpg">July 26 at 3:32 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T03:40:45.095418+01:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-20T13:57:19.867623+01:00.jpg">July 20 at 1:57 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-20T02:04:05.059664+01:00.jpg">
-  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-20T02:04:05.059664+01:00.jpg"
-     alt="Daily Echo at 2022-07-20 02:04:07+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-20T02:04:05.059664+01:00.jpg">July 20 at 2:04 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -231,6 +231,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 3:32 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.hyperlinks.json) |
 | [July 25 at 12:58 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.hyperlinks.json) |
 | [July 25 at 1:59 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.hyperlinks.json) |
 | [July 24 at 12:56 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.hyperlinks.json) |
@@ -240,7 +241,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 2:11 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-22T02:11:19.135542+01:00.hyperlinks.json) |
 | [July 20 at 1:57 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-20T13:57:19.867623+01:00.hyperlinks.json) |
 | [July 19 at 1:53 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-19T13:53:34.023463+01:00.hyperlinks.json) |
-| [July 19 at 2:20 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-19T02:19:57.411508+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

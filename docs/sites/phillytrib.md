@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 55 screenshots with the Internet Archive.
+The archiving routine has saved 56 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 55 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T20:18:11.683280-04:00.jpg">
+  <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T20:18:11.683280-04:00.jpg"
+     alt="Philadelphia Tribune at 2022-07-26 20:18:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T20:18:11.683280-04:00.jpg">July 26 at 8:18 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T08:27:58.248923-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-21T11:37:18.044272-04:00.jpg">July 21 at 11:37 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-20T23:38:44.880592-04:00.jpg">
-  <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-20T23:38:44.880592-04:00.jpg"
-     alt="Philadelphia Tribune at 2022-07-20 23:38:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-20T23:38:44.880592-04:00.jpg">July 20 at 11:38 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 55 hyperlink lists with the Internet Archive.
+The archiving routine has saved 56 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:18 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T20:18:11.683280-04:00.hyperlinks.json) |
 | [July 26 at 8:28 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T08:27:58.248923-04:00.hyperlinks.json) |
 | [July 25 at 8:22 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T20:22:30.760251-04:00.hyperlinks.json) |
 | [July 25 at 11:37 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T11:37:22.961514-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:06 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-23T11:06:51.204446-04:00.hyperlinks.json) |
 | [July 22 at 11:35 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-22T23:35:51.005820-04:00.hyperlinks.json) |
 | [July 22 at 11:01 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-22T11:01:34.098932-04:00.hyperlinks.json) |
-| [July 21 at 11:40 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-21T23:40:24.649611-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

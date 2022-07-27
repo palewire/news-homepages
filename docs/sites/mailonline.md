@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 98 screenshots with the Internet Archive.
+The archiving routine has saved 99 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 98 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T01:14:06.053651+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T01:14:06.053651+01:00.jpg"
+     alt="Daily Mail at 2022-07-27 01:14:09+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T01:14:06.053651+01:00.jpg">July 27 at 1:14 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-26T13:24:10.003573+01:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T04:30:56.222323+01:00.jpg">July 23 at 4:30 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-22T15:56:06.604844+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-22T15:56:06.604844+01:00.jpg"
-     alt="Daily Mail at 2022-07-22 15:56:10+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-22T15:56:06.604844+01:00.jpg">July 22 at 3:56 PM</a></p>
 </div>
 
 </div>

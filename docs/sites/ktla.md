@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 257 screenshots with the Internet Archive.
+The archiving routine has saved 259 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ktla-2022/ktla-2022-07-26T17:13:32.882281-07:00.jpg">
+  <img src="https://archive.org/download/ktla-2022/ktla-2022-07-26T17:13:32.882281-07:00.jpg"
+     alt="KTLA at 2022-07-26 17:13:38-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ktla-2022/ktla-2022-07-26T17:13:32.882281-07:00.jpg">July 26 at 5:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ktla-2022/ktla-2022-07-26T11:33:49.144338-07:00.jpg">
+  <img src="https://archive.org/download/ktla-2022/ktla-2022-07-26T11:33:49.144338-07:00.jpg"
+     alt="KTLA at 2022-07-26 11:33:50-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ktla-2022/ktla-2022-07-26T11:33:49.144338-07:00.jpg">July 26 at 11:33 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ktla-2022/ktla-2022-07-26T05:20:48.486662-07:00.jpg">
   <img src="https://archive.org/download/ktla-2022/ktla-2022-07-26T05:20:48.486662-07:00.jpg"
      alt="KTLA at 2022-07-26 05:21:10-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ktla-2022/ktla-2022-07-23T07:05:50.167803-07:00.jpg">July 23 at 7:05 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ktla-2022/ktla-2022-07-22T19:31:32.234880-07:00.jpg">
-  <img src="https://archive.org/download/ktla-2022/ktla-2022-07-22T19:31:32.234880-07:00.jpg"
-     alt="KTLA at 2022-07-22 19:31:33-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ktla-2022/ktla-2022-07-22T19:31:32.234880-07:00.jpg">July 22 at 7:31 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ktla-2022/ktla-2022-07-22T11:08:52.200267-07:00.jpg">
-  <img src="https://archive.org/download/ktla-2022/ktla-2022-07-22T11:08:52.200267-07:00.jpg"
-     alt="KTLA at 2022-07-22 11:08:53-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ktla-2022/ktla-2022-07-22T11:08:52.200267-07:00.jpg">July 22 at 11:08 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 255 hyperlink lists with the Internet Archive.
+The archiving routine has saved 257 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 5:13 PM](https://archive.org/download/ktla-2022/ktla-2022-07-26T17:13:32.882281-07:00.hyperlinks.json) |
+| [July 26 at 11:33 AM](https://archive.org/download/ktla-2022/ktla-2022-07-26T11:33:49.144338-07:00.hyperlinks.json) |
 | [July 26 at 5:21 AM](https://archive.org/download/ktla-2022/ktla-2022-07-26T05:20:48.486662-07:00.hyperlinks.json) |
 | [July 25 at 5:17 PM](https://archive.org/download/ktla-2022/ktla-2022-07-25T17:17:36.330691-07:00.hyperlinks.json) |
 | [July 25 at 11:13 AM](https://archive.org/download/ktla-2022/ktla-2022-07-25T11:13:40.187216-07:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:20 AM](https://archive.org/download/ktla-2022/ktla-2022-07-24T11:20:52.273200-07:00.hyperlinks.json) |
 | [July 24 at 6:00 AM](https://archive.org/download/ktla-2022/ktla-2022-07-24T06:00:10.035673-07:00.hyperlinks.json) |
 | [July 23 at 9:15 PM](https://archive.org/download/ktla-2022/ktla-2022-07-23T21:15:38.519349-07:00.hyperlinks.json) |
-| [July 23 at 11:23 AM](https://archive.org/download/ktla-2022/ktla-2022-07-23T11:23:34.873011-07:00.hyperlinks.json) |
-| [July 23 at 7:05 AM](https://archive.org/download/ktla-2022/ktla-2022-07-23T07:05:50.167803-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

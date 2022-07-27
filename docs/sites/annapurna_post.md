@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 3 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-27T04:47:52.445211+05:45.jpg">
+  <img src="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-27T04:47:52.445211+05:45.jpg"
+     alt="Annapurna Post at 2022-07-27 04:47:54+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-27T04:47:52.445211+05:45.jpg">July 27 at 4:47 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-26T16:56:05.771547+05:45.jpg">
@@ -59,7 +68,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 3 hyperlink lists with the Internet Archive.
+The archiving routine has saved 4 hyperlink lists with the Internet Archive.
 
 
 
@@ -67,6 +76,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 4:47 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-27T04:47:52.445211+05:45.hyperlinks.json) |
 | [July 26 at 4:56 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-26T16:56:05.771547+05:45.hyperlinks.json) |
 | [July 25 at 6:31 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T06:31:08.498425+05:45.hyperlinks.json) |
 | [July 25 at 2:22 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T02:21:57.909910+05:45.hyperlinks.json) |

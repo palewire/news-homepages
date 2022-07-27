@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-26T19:11:45.721994-05:00.jpg">
+  <img src="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-26T19:11:45.721994-05:00.jpg"
+     alt="Kansas City Defender at 2022-07-26 19:11:48-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-26T19:11:45.721994-05:00.jpg">July 26 at 7:11 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-26T07:22:23.195115-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-21T09:14:34.155856-05:00.jpg">July 21 at 9:14 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-20T21:27:16.169171-05:00.jpg">
-  <img src="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-20T21:27:16.169171-05:00.jpg"
-     alt="Kansas City Defender at 2022-07-20 21:27:17-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-20T21:27:16.169171-05:00.jpg">July 20 at 9:27 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 37 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:11 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-07-26T19:11:45.721994-05:00.hyperlinks.json) |
 | [July 26 at 7:22 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-07-26T07:22:23.195115-05:00.hyperlinks.json) |
 | [July 25 at 7:18 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-07-25T19:18:14.037446-05:00.hyperlinks.json) |
 | [July 25 at 8:09 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-07-25T08:09:28.580480-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:04 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-07-23T09:04:46.961283-05:00.hyperlinks.json) |
 | [July 22 at 9:30 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-07-22T21:30:40.792187-05:00.hyperlinks.json) |
 | [July 22 at 9:05 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-07-22T09:05:14.410135-05:00.hyperlinks.json) |
-| [July 21 at 9:24 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-07-21T21:24:47.679755-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

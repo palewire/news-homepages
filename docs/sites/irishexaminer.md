@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-26T15:36:27.299864+01:00.jpg">
+  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-26T15:36:27.299864+01:00.jpg"
+     alt="Irish Examiner at 2022-07-26 15:36:28+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-26T15:36:27.299864+01:00.jpg">July 26 at 3:36 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-26T03:44:50.834184+01:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-21T03:26:30.025060+01:00.jpg">July 21 at 3:26 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-20T15:26:54.395247+01:00.jpg">
-  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-20T15:26:54.395247+01:00.jpg"
-     alt="Irish Examiner at 2022-07-20 15:26:56+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-20T15:26:54.395247+01:00.jpg">July 20 at 3:26 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 3:36 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-26T15:36:27.299864+01:00.hyperlinks.json) |
 | [July 26 at 3:44 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-26T03:44:50.834184+01:00.hyperlinks.json) |
 | [July 25 at 2:09 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-25T14:09:39.096383+01:00.hyperlinks.json) |
 | [July 25 at 4:24 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-25T04:24:15.330932+01:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 3:29 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-23T03:29:19.992648+01:00.hyperlinks.json) |
 | [July 22 at 3:04 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-22T15:04:09.468527+01:00.hyperlinks.json) |
 | [July 22 at 3:24 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-22T03:24:00.642317+01:00.hyperlinks.json) |
-| [July 21 at 3:13 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-21T15:13:25.229782+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

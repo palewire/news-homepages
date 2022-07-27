@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 37 screenshots with the Internet Archive.
+The archiving routine has saved 38 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 37 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-26T18:10:43.284130-05:00.jpg">
+  <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-26T18:10:43.284130-05:00.jpg"
+     alt="Fort Worth Report at 2022-07-26 18:10:45-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-26T18:10:43.284130-05:00.jpg">July 26 at 6:10 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-26T06:18:37.774430-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-21T09:08:12.840031-05:00.jpg">July 21 at 9:08 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-20T21:22:36.756384-05:00.jpg">
-  <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-20T21:22:36.756384-05:00.jpg"
-     alt="Fort Worth Report at 2022-07-20 21:22:39-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-20T21:22:36.756384-05:00.jpg">July 20 at 9:22 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 37 hyperlink lists with the Internet Archive.
+The archiving routine has saved 38 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 6:10 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-26T18:10:43.284130-05:00.hyperlinks.json) |
 | [July 26 at 6:18 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-26T06:18:37.774430-05:00.hyperlinks.json) |
 | [July 25 at 6:14 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-25T18:14:23.807073-05:00.hyperlinks.json) |
 | [July 25 at 7:02 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-25T07:02:30.069689-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:59 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-23T08:59:39.285821-05:00.hyperlinks.json) |
 | [July 22 at 9:26 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-22T21:26:01.898436-05:00.hyperlinks.json) |
 | [July 22 at 9:00 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-22T09:00:12.243328-05:00.hyperlinks.json) |
-| [July 21 at 9:19 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-07-21T21:19:48.437020-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

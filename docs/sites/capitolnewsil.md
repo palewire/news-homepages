@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-26T18:05:37.260875-05:00.jpg">
+  <img src="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-26T18:05:37.260875-05:00.jpg"
+     alt="Capitol News Illinois at 2022-07-26 18:05:39-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-26T18:05:37.260875-05:00.jpg">July 26 at 6:05 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-26T06:14:25.128970-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-21T07:54:37.978024-05:00.jpg">July 21 at 7:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-20T20:06:37.629156-05:00.jpg">
-  <img src="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-20T20:06:37.629156-05:00.jpg"
-     alt="Capitol News Illinois at 2022-07-20 20:06:41-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-20T20:06:37.629156-05:00.jpg">July 20 at 8:06 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 37 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 6:05 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-26T18:05:37.260875-05:00.hyperlinks.json) |
 | [July 26 at 6:14 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-26T06:14:25.128970-05:00.hyperlinks.json) |
 | [July 25 at 6:09 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-25T18:09:28.819182-05:00.hyperlinks.json) |
 | [July 25 at 6:01 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-25T06:01:34.010039-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 7:59 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-23T07:59:40.825869-05:00.hyperlinks.json) |
 | [July 22 at 7:59 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-22T19:59:46.119694-05:00.hyperlinks.json) |
 | [July 22 at 8:00 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-22T07:59:55.790346-05:00.hyperlinks.json) |
-| [July 21 at 8:07 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-21T20:07:48.103165-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

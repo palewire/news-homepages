@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 283 screenshots with the Internet Archive.
+The archiving routine has saved 285 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-26T11:34:12.614162-07:00.jpg">
+  <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-26T11:34:12.614162-07:00.jpg"
+     alt="Riverside Press-Enterprise at 2022-07-26 11:34:15-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-26T11:34:12.614162-07:00.jpg">July 26 at 11:34 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-26T08:43:15.502801-07:00.jpg">
+  <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-26T08:43:15.502801-07:00.jpg"
+     alt="Riverside Press-Enterprise at 2022-07-26 08:43:17-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-26T08:43:15.502801-07:00.jpg">July 26 at 8:43 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-25T20:54:55.399690-07:00.jpg">
   <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-25T20:54:55.399690-07:00.jpg"
      alt="Riverside Press-Enterprise at 2022-07-25 20:55:02-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T20:37:13.040453-07:00.jpg">July 22 at 8:37 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T11:09:01.895111-07:00.jpg">
-  <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T11:09:01.895111-07:00.jpg"
-     alt="Riverside Press-Enterprise at 2022-07-22 11:09:06-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T11:09:01.895111-07:00.jpg">July 22 at 11:09 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T08:02:31.069770-07:00.jpg">
-  <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T08:02:31.069770-07:00.jpg"
-     alt="Riverside Press-Enterprise at 2022-07-22 08:02:42-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T08:02:31.069770-07:00.jpg">July 22 at 8:02 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 266 hyperlink lists with the Internet Archive.
+The archiving routine has saved 268 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:34 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-26T11:34:12.614162-07:00.hyperlinks.json) |
+| [July 26 at 8:43 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-26T08:43:15.502801-07:00.hyperlinks.json) |
 | [July 25 at 8:55 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-25T20:54:55.399690-07:00.hyperlinks.json) |
 | [July 25 at 11:14 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-25T11:14:34.342189-07:00.hyperlinks.json) |
 | [July 24 at 8:40 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-24T20:40:15.791540-07:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:24 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-23T11:24:05.505567-07:00.hyperlinks.json) |
 | [July 23 at 8:07 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-23T08:06:55.508908-07:00.hyperlinks.json) |
 | [July 22 at 8:37 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T20:37:13.040453-07:00.hyperlinks.json) |
-| [July 22 at 11:09 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T11:09:01.895111-07:00.hyperlinks.json) |
-| [July 22 at 8:02 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-07-22T08:02:31.069770-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

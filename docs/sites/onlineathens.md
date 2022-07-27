@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 12 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-07-26T11:42:04.087913-04:00.jpg">
+  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-07-26T11:42:04.087913-04:00.jpg"
+     alt="Athens Banner-Herald at 2022-07-26 11:42:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-07-26T11:42:04.087913-04:00.jpg">July 26 at 11:42 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-07-25T23:54:17.240449-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-07-20T23:37:58.520827-04:00.jpg">July 20 at 11:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-07-20T19:30:53.910233-04:00.jpg">
-  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-07-20T19:30:53.910233-04:00.jpg"
-     alt="Athens Banner-Herald at 2022-07-20 19:30:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-07-20T19:30:53.910233-04:00.jpg">July 20 at 7:30 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 12 hyperlink lists with the Internet Archive.
+The archiving routine has saved 13 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:42 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-07-26T11:42:04.087913-04:00.hyperlinks.json) |
 | [July 25 at 11:54 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-07-25T23:54:17.240449-04:00.hyperlinks.json) |
 | [July 25 at 11:35 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-07-25T11:35:12.625541-04:00.hyperlinks.json) |
 | [July 24 at 11:38 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-07-24T23:38:32.042170-04:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:35 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-07-22T23:35:31.941543-04:00.hyperlinks.json) |
 | [July 22 at 11:01 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-07-22T11:01:02.686432-04:00.hyperlinks.json) |
 | [July 21 at 11:39 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-07-21T23:39:45.480291-04:00.hyperlinks.json) |
-| [July 21 at 11:37 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-07-21T11:37:17.531826-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

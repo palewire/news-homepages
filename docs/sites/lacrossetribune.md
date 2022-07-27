@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 183 screenshots with the Internet Archive.
+The archiving routine has saved 184 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 183 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T19:13:39.636460-05:00.jpg">
+  <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T19:13:39.636460-05:00.jpg"
+     alt="LaCrosse Tribune at 2022-07-26 19:13:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T19:13:39.636460-05:00.jpg">July 26 at 7:13 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T07:23:03.707340-05:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-21T09:21:03.150074-05:00.jpg">July 21 at 9:21 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-20T21:28:53.952701-05:00.jpg">
-  <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-20T21:28:53.952701-05:00.jpg"
-     alt="LaCrosse Tribune at 2022-07-20 21:28:55-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-20T21:28:53.952701-05:00.jpg">July 20 at 9:28 PM</a></p>
 </div>
 
 </div>

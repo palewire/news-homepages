@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 101 screenshots with the Internet Archive.
+The archiving routine has saved 102 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 101 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-26T08:24:10.991096-05:00.jpg">
+  <img src="https://archive.org/download/apmreports-2022/apmreports-2022-07-26T08:24:10.991096-05:00.jpg"
+     alt="APM Reports at 2022-07-26 08:24:21-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-26T08:24:10.991096-05:00.jpg">July 26 at 8:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-25T21:55:23.122375-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-21T07:50:27.611437-05:00.jpg">July 21 at 7:50 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-20T20:02:41.306593-05:00.jpg">
-  <img src="https://archive.org/download/apmreports-2022/apmreports-2022-07-20T20:02:41.306593-05:00.jpg"
-     alt="APM Reports at 2022-07-20 20:02:42-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-20T20:02:41.306593-05:00.jpg">July 20 at 8:02 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 102 hyperlink lists with the Internet Archive.
+The archiving routine has saved 103 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:24 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-26T08:24:10.991096-05:00.hyperlinks.json) |
 | [July 25 at 9:55 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T21:55:23.122375-05:00.hyperlinks.json) |
 | [July 25 at 8:29 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T20:29:46.082116-05:00.hyperlinks.json) |
 | [July 25 at 5:57 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T05:57:30.755702-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 7:55 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-23T07:55:33.164024-05:00.hyperlinks.json) |
 | [July 22 at 7:56 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-22T19:55:57.028604-05:00.hyperlinks.json) |
 | [July 22 at 7:56 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-22T07:56:03.427234-05:00.hyperlinks.json) |
-| [July 21 at 8:04 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-21T20:03:57.349594-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

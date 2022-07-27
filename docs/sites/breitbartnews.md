@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 212 screenshots with the Internet Archive.
+The archiving routine has saved 214 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-26T19:05:10.915557-04:00.jpg">
+  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-26T19:05:10.915557-04:00.jpg"
+     alt="Breitbart at 2022-07-26 19:05:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-26T19:05:10.915557-04:00.jpg">July 26 at 7:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-26T14:35:03.964951-04:00.jpg">
+  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-26T14:35:03.964951-04:00.jpg"
+     alt="Breitbart at 2022-07-26 14:35:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-26T14:35:03.964951-04:00.jpg">July 26 at 2:35 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-26T07:14:24.184750-04:00.jpg">
   <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-26T07:14:24.184750-04:00.jpg"
      alt="Breitbart at 2022-07-26 07:14:29-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-23T12:10:35.741958-04:00.jpg">July 23 at 12:10 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-23T08:58:47.645051-04:00.jpg">
-  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-23T08:58:47.645051-04:00.jpg"
-     alt="Breitbart at 2022-07-23 08:58:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-23T08:58:47.645051-04:00.jpg">July 23 at 8:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-22T20:59:33.728351-04:00.jpg">
-  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-22T20:59:33.728351-04:00.jpg"
-     alt="Breitbart at 2022-07-22 20:59:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-22T20:59:33.728351-04:00.jpg">July 22 at 8:59 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 209 hyperlink lists with the Internet Archive.
+The archiving routine has saved 211 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:05 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-26T19:05:10.915557-04:00.hyperlinks.json) |
+| [July 26 at 2:35 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-26T14:35:03.964951-04:00.hyperlinks.json) |
 | [July 26 at 7:14 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-26T07:14:24.184750-04:00.hyperlinks.json) |
 | [July 25 at 7:09 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-25T19:08:56.239651-04:00.hyperlinks.json) |
 | [July 25 at 2:38 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-25T14:38:34.839387-04:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 8:52 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-24T20:51:50.427247-04:00.hyperlinks.json) |
 | [July 24 at 11:44 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-24T11:44:05.143454-04:00.hyperlinks.json) |
 | [July 24 at 6:59 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-24T06:59:26.712590-04:00.hyperlinks.json) |
-| [July 23 at 7:01 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-23T19:01:51.783380-04:00.hyperlinks.json) |
-| [July 23 at 12:10 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-07-23T12:10:35.741958-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

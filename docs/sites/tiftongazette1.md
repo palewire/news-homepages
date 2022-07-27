@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 13 screenshots with the Internet Archive.
+The archiving routine has saved 14 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-26T09:31:36.357459-04:00.jpg">
+  <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-26T09:31:36.357459-04:00.jpg"
+     alt="Tifton Gazette at 2022-07-26 09:31:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-26T09:31:36.357459-04:00.jpg">July 26 at 9:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-25T22:53:03.055902-04:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-21T12:56:56.061082-04:00.jpg">July 21 at 12:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-21T00:30:27.614883-04:00.jpg">
-  <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-21T00:30:27.614883-04:00.jpg"
-     alt="Tifton Gazette at 2022-07-21 00:30:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-21T00:30:27.614883-04:00.jpg">July 21 at 12:30 AM</a></p>
 </div>
 
 </div>

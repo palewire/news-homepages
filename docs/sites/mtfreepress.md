@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-26T09:40:42.228080-05:00.jpg">
+  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-26T09:40:42.228080-05:00.jpg"
+     alt="Montana Free Press at 2022-07-26 09:40:44-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-26T09:40:42.228080-05:00.jpg">July 26 at 9:40 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-25T21:48:19.514579-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-20T22:34:49.519883-05:00.jpg">July 20 at 10:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-19T22:32:38.178564-05:00.jpg">
-  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-19T22:32:38.178564-05:00.jpg"
-     alt="Montana Free Press at 2022-07-19 22:32:40-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-19T22:32:38.178564-05:00.jpg">July 19 at 10:32 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:40 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-26T09:40:42.228080-05:00.hyperlinks.json) |
 | [July 25 at 9:48 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-25T21:48:19.514579-05:00.hyperlinks.json) |
 | [July 25 at 8:15 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-25T08:15:11.155297-05:00.hyperlinks.json) |
 | [July 24 at 10:33 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-24T22:33:16.382483-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 10:31 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-22T22:31:49.173972-05:00.hyperlinks.json) |
 | [July 22 at 9:57 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-22T09:57:36.562439-05:00.hyperlinks.json) |
 | [July 21 at 10:36 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-21T22:36:13.641296-05:00.hyperlinks.json) |
-| [July 21 at 10:31 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-21T10:30:58.975755-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

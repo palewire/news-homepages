@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 137 screenshots with the Internet Archive.
+The archiving routine has saved 140 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/npr-2022/npr-2022-07-26T20:16:49.627519-04:00.jpg">
+  <img src="https://archive.org/download/npr-2022/npr-2022-07-26T20:16:49.627519-04:00.jpg"
+     alt="NPR at 2022-07-26 20:16:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-07-26T20:16:49.627519-04:00.jpg">July 26 at 8:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/npr-2022/npr-2022-07-26T17:12:00.863540-04:00.jpg">
+  <img src="https://archive.org/download/npr-2022/npr-2022-07-26T17:12:00.863540-04:00.jpg"
+     alt="NPR at 2022-07-26 17:12:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-07-26T17:12:00.863540-04:00.jpg">July 26 at 5:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/npr-2022/npr-2022-07-26T11:58:33.470455-04:00.jpg">
+  <img src="https://archive.org/download/npr-2022/npr-2022-07-26T11:58:33.470455-04:00.jpg"
+     alt="NPR at 2022-07-26 11:58:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-07-26T11:58:33.470455-04:00.jpg">July 26 at 11:58 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/npr-2022/npr-2022-07-26T08:26:29.847544-04:00.jpg">
   <img src="https://archive.org/download/npr-2022/npr-2022-07-26T08:26:29.847544-04:00.jpg"
      alt="NPR at 2022-07-26 08:26:40-04:00 local time"
@@ -192,38 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/npr-2022/npr-2022-07-24T09:58:12.047304-04:00.jpg">July 24 at 9:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/npr-2022/npr-2022-07-24T02:16:35.762132-04:00.jpg">
-  <img src="https://archive.org/download/npr-2022/npr-2022-07-24T02:16:35.762132-04:00.jpg"
-     alt="NPR at 2022-07-24 02:16:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-07-24T02:16:35.762132-04:00.jpg">July 24 at 2:16 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/npr-2022/npr-2022-07-23T17:16:24.785073-04:00.jpg">
-  <img src="https://archive.org/download/npr-2022/npr-2022-07-23T17:16:24.785073-04:00.jpg"
-     alt="NPR at 2022-07-23 17:16:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-07-23T17:16:24.785073-04:00.jpg">July 23 at 5:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/npr-2022/npr-2022-07-23T11:04:16.018662-04:00.jpg">
-  <img src="https://archive.org/download/npr-2022/npr-2022-07-23T11:04:16.018662-04:00.jpg"
-     alt="NPR at 2022-07-23 11:04:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-07-23T11:04:16.018662-04:00.jpg">July 23 at 11:04 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 137 hyperlink lists with the Internet Archive.
+The archiving routine has saved 140 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:16 PM](https://archive.org/download/npr-2022/npr-2022-07-26T20:16:49.627519-04:00.hyperlinks.json) |
+| [July 26 at 5:12 PM](https://archive.org/download/npr-2022/npr-2022-07-26T17:12:00.863540-04:00.hyperlinks.json) |
+| [July 26 at 11:58 AM](https://archive.org/download/npr-2022/npr-2022-07-26T11:58:33.470455-04:00.hyperlinks.json) |
 | [July 26 at 8:26 AM](https://archive.org/download/npr-2022/npr-2022-07-26T08:26:29.847544-04:00.hyperlinks.json) |
 | [July 25 at 8:21 PM](https://archive.org/download/npr-2022/npr-2022-07-25T20:21:05.934577-04:00.hyperlinks.json) |
 | [July 25 at 5:14 PM](https://archive.org/download/npr-2022/npr-2022-07-25T17:14:12.034714-04:00.hyperlinks.json) |
@@ -321,9 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 11:33 AM](https://archive.org/download/npr-2022/npr-2022-07-25T11:33:41.845679-04:00.hyperlinks.json) |
 | [July 24 at 11:37 PM](https://archive.org/download/npr-2022/npr-2022-07-24T23:37:20.964617-04:00.hyperlinks.json) |
 | [July 24 at 5:20 PM](https://archive.org/download/npr-2022/npr-2022-07-24T17:20:32.272560-04:00.hyperlinks.json) |
-| [July 24 at 11:13 AM](https://archive.org/download/npr-2022/npr-2022-07-24T11:13:07.245501-04:00.hyperlinks.json) |
-| [July 24 at 9:58 AM](https://archive.org/download/npr-2022/npr-2022-07-24T09:58:12.047304-04:00.hyperlinks.json) |
-| [July 24 at 2:16 AM](https://archive.org/download/npr-2022/npr-2022-07-24T02:16:35.762132-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

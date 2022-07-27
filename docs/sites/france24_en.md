@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 211 screenshots with the Internet Archive.
+The archiving routine has saved 212 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 211 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-27T01:10:13.035672+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-07-27T01:10:13.035672+02:00.jpg"
+     alt="France 24 English at 2022-07-27 01:10:17+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-27T01:10:13.035672+02:00.jpg">July 27 at 1:10 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-26T13:18:41.418083+02:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-23T10:07:10.106083+02:00.jpg">July 23 at 10:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-23T04:25:47.061928+02:00.jpg">
-  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-07-23T04:25:47.061928+02:00.jpg"
-     alt="France 24 English at 2022-07-23 04:25:55+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-07-23T04:25:47.061928+02:00.jpg">July 23 at 4:25 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 211 hyperlink lists with the Internet Archive.
+The archiving routine has saved 212 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 1:10 AM](https://archive.org/download/france24_en-2022/france24_en-2022-07-27T01:10:13.035672+02:00.hyperlinks.json) |
 | [July 26 at 1:18 PM](https://archive.org/download/france24_en-2022/france24_en-2022-07-26T13:18:41.418083+02:00.hyperlinks.json) |
 | [July 26 at 10:09 AM](https://archive.org/download/france24_en-2022/france24_en-2022-07-26T10:08:47.912049+02:00.hyperlinks.json) |
 | [July 26 at 1:14 AM](https://archive.org/download/france24_en-2022/france24_en-2022-07-26T01:14:03.168809+02:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 2:00 PM](https://archive.org/download/france24_en-2022/france24_en-2022-07-24T14:00:13.562948+02:00.hyperlinks.json) |
 | [July 24 at 10:09 AM](https://archive.org/download/france24_en-2022/france24_en-2022-07-24T10:09:51.526324+02:00.hyperlinks.json) |
 | [July 24 at 8:30 AM](https://archive.org/download/france24_en-2022/france24_en-2022-07-24T08:30:29.405141+02:00.hyperlinks.json) |
-| [July 23 at 3:59 PM](https://archive.org/download/france24_en-2022/france24_en-2022-07-23T15:59:51.985551+02:00.hyperlinks.json) |
 
 
 ## Internet Archive

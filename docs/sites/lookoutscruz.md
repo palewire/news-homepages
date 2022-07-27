@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 43 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-26T07:39:31.019974-07:00.jpg">
+  <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-26T07:39:31.019974-07:00.jpg"
+     alt="Lookout Santa Cruz at 2022-07-26 07:39:32-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-26T07:39:31.019974-07:00.jpg">July 26 at 7:39 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-25T19:46:45.179394-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-20T20:33:29.781179-07:00.jpg">July 20 at 8:33 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-20T09:06:48.039936-07:00.jpg">
-  <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-20T09:06:48.039936-07:00.jpg"
-     alt="Lookout Santa Cruz at 2022-07-20 09:06:50-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-20T09:06:48.039936-07:00.jpg">July 20 at 9:06 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:39 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-26T07:39:31.019974-07:00.hyperlinks.json) |
 | [July 25 at 7:46 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-25T19:46:45.179394-07:00.hyperlinks.json) |
 | [July 25 at 6:13 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-25T06:13:47.469537-07:00.hyperlinks.json) |
 | [July 24 at 8:30 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-24T20:30:23.432245-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 8:31 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-22T20:31:02.574875-07:00.hyperlinks.json) |
 | [July 22 at 7:56 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-22T07:56:02.082806-07:00.hyperlinks.json) |
 | [July 21 at 8:35 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-21T20:34:58.372616-07:00.hyperlinks.json) |
-| [July 21 at 8:27 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-21T08:27:40.610094-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsday-2022/newsday-2022-07-26T20:16:59.392671-04:00.jpg">
+  <img src="https://archive.org/download/newsday-2022/newsday-2022-07-26T20:16:59.392671-04:00.jpg"
+     alt="Newsday at 2022-07-26 20:17:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-07-26T20:16:59.392671-04:00.jpg">July 26 at 8:17 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsday-2022/newsday-2022-07-26T08:25:44.484950-04:00.jpg">
@@ -50,7 +59,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 2 hyperlink lists with the Internet Archive.
+The archiving routine has saved 3 hyperlink lists with the Internet Archive.
 
 
 
@@ -58,6 +67,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:17 PM](https://archive.org/download/newsday-2022/newsday-2022-07-26T20:16:59.392671-04:00.hyperlinks.json) |
 | [July 26 at 8:25 AM](https://archive.org/download/newsday-2022/newsday-2022-07-26T08:25:44.484950-04:00.hyperlinks.json) |
 | [July 25 at 8:21 PM](https://archive.org/download/newsday-2022/newsday-2022-07-25T20:21:10.843544-04:00.hyperlinks.json) |
 

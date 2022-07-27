@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 13 screenshots with the Internet Archive.
+The archiving routine has saved 14 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wjbf-2022/wjbf-2022-07-26T09:34:06.132089-04:00.jpg">
+  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-07-26T09:34:06.132089-04:00.jpg"
+     alt="WJBF at 2022-07-26 09:34:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-07-26T09:34:06.132089-04:00.jpg">July 26 at 9:34 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wjbf-2022/wjbf-2022-07-25T22:55:25.867003-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-07-21T12:59:37.010076-04:00.jpg">July 21 at 12:59 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wjbf-2022/wjbf-2022-07-21T00:33:47.163224-04:00.jpg">
-  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-07-21T00:33:47.163224-04:00.jpg"
-     alt="WJBF at 2022-07-21 00:33:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-07-21T00:33:47.163224-04:00.jpg">July 21 at 12:33 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 13 hyperlink lists with the Internet Archive.
+The archiving routine has saved 14 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:34 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-26T09:34:06.132089-04:00.hyperlinks.json) |
 | [July 25 at 10:55 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-25T22:55:25.867003-04:00.hyperlinks.json) |
 | [July 25 at 9:39 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-25T21:39:11.885954-04:00.hyperlinks.json) |
 | [July 25 at 11:53 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-25T11:52:58.392722-04:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 12:09 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-23T12:09:28.444626-04:00.hyperlinks.json) |
 | [July 23 at 12:29 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-23T00:29:26.338440-04:00.hyperlinks.json) |
 | [July 22 at 12:22 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-22T12:22:36.759803-04:00.hyperlinks.json) |
-| [July 22 at 12:35 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-22T00:35:49.343975-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

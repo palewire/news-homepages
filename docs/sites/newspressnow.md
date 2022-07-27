@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-26T09:41:45.182218-05:00.jpg">
+  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-26T09:41:45.182218-05:00.jpg"
+     alt="St. Joseph News Press at 2022-07-26 09:41:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-26T09:41:45.182218-05:00.jpg">July 26 at 9:41 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-25T21:49:03.094386-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-20T22:36:07.606573-05:00.jpg">July 20 at 10:36 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-20T11:09:41.716013-05:00.jpg">
-  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-20T11:09:41.716013-05:00.jpg"
-     alt="St. Joseph News Press at 2022-07-20 11:09:44-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-20T11:09:41.716013-05:00.jpg">July 20 at 11:09 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -231,6 +231,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:41 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-26T09:41:45.182218-05:00.hyperlinks.json) |
 | [July 25 at 9:49 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-25T21:49:03.094386-05:00.hyperlinks.json) |
 | [July 24 at 8:05 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-24T08:05:46.823612-05:00.hyperlinks.json) |
 | [July 23 at 11:21 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-23T23:20:57.299677-05:00.hyperlinks.json) |
@@ -240,7 +241,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 20 at 10:36 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-20T22:36:07.606573-05:00.hyperlinks.json) |
 | [July 20 at 11:09 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-20T11:09:41.716013-05:00.hyperlinks.json) |
 | [July 16 at 10:27 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-16T22:27:52.374747-05:00.hyperlinks.json) |
-| [July 12 at 10:25 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-12T22:25:32.887048-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

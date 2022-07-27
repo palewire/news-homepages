@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 266 screenshots with the Internet Archive.
+The archiving routine has saved 267 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 266 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-27T03:12:10.604643+03:00.jpg">
+  <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-27T03:12:10.604643+03:00.jpg"
+     alt="hromadske at 2022-07-27 03:12:16+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-27T03:12:10.604643+03:00.jpg">July 27 at 3:12 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-26T15:18:49.845579+03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-21T17:12:08.808681+03:00.jpg">July 21 at 5:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-21T05:25:15.162181+03:00.jpg">
-  <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-21T05:25:15.162181+03:00.jpg"
-     alt="hromadske at 2022-07-21 05:25:16+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-21T05:25:15.162181+03:00.jpg">July 21 at 5:25 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 250 hyperlink lists with the Internet Archive.
+The archiving routine has saved 251 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 3:12 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-27T03:12:10.604643+03:00.hyperlinks.json) |
 | [July 26 at 3:19 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-26T15:18:49.845579+03:00.hyperlinks.json) |
 | [July 26 at 3:14 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-26T03:14:32.633450+03:00.hyperlinks.json) |
 | [July 25 at 3:05 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-25T15:05:38.141202+03:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 5:02 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-23T17:02:25.863088+03:00.hyperlinks.json) |
 | [July 23 at 5:28 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-23T05:28:22.012601+03:00.hyperlinks.json) |
 | [July 22 at 5:03 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-22T17:03:04.744499+03:00.hyperlinks.json) |
-| [July 22 at 5:22 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-07-22T05:22:12.493357+03:00.hyperlinks.json) |
 
 
 ## Internet Archive

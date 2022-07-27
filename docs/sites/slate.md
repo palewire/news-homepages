@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 88 screenshots with the Internet Archive.
+The archiving routine has saved 90 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/slate-2022/slate-2022-07-26T14:37:24.282175-04:00.jpg">
+  <img src="https://archive.org/download/slate-2022/slate-2022-07-26T14:37:24.282175-04:00.jpg"
+     alt="Slate at 2022-07-26 14:37:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-26T14:37:24.282175-04:00.jpg">July 26 at 2:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/slate-2022/slate-2022-07-26T09:28:04.835380-04:00.jpg">
+  <img src="https://archive.org/download/slate-2022/slate-2022-07-26T09:28:04.835380-04:00.jpg"
+     alt="Slate at 2022-07-26 09:28:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-26T09:28:04.835380-04:00.jpg">July 26 at 9:28 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/slate-2022/slate-2022-07-25T22:50:13.528448-04:00.jpg">
   <img src="https://archive.org/download/slate-2022/slate-2022-07-25T22:50:13.528448-04:00.jpg"
      alt="Slate at 2022-07-25 22:50:14-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/slate-2022/slate-2022-07-23T14:13:53.388927-04:00.jpg">July 23 at 2:13 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/slate-2022/slate-2022-07-23T12:02:04.464165-04:00.jpg">
-  <img src="https://archive.org/download/slate-2022/slate-2022-07-23T12:02:04.464165-04:00.jpg"
-     alt="Slate at 2022-07-23 12:02:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-23T12:02:04.464165-04:00.jpg">July 23 at 12:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/slate-2022/slate-2022-07-23T00:21:49.683818-04:00.jpg">
-  <img src="https://archive.org/download/slate-2022/slate-2022-07-23T00:21:49.683818-04:00.jpg"
-     alt="Slate at 2022-07-23 00:21:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-23T00:21:49.683818-04:00.jpg">July 23 at 12:21 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 82 hyperlink lists with the Internet Archive.
+The archiving routine has saved 84 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 2:37 PM](https://archive.org/download/slate-2022/slate-2022-07-26T14:37:24.282175-04:00.hyperlinks.json) |
+| [July 26 at 9:28 AM](https://archive.org/download/slate-2022/slate-2022-07-26T09:28:04.835380-04:00.hyperlinks.json) |
 | [July 25 at 10:50 PM](https://archive.org/download/slate-2022/slate-2022-07-25T22:50:13.528448-04:00.hyperlinks.json) |
 | [July 25 at 9:33 PM](https://archive.org/download/slate-2022/slate-2022-07-25T21:33:20.927024-04:00.hyperlinks.json) |
 | [July 25 at 2:40 PM](https://archive.org/download/slate-2022/slate-2022-07-25T14:40:43.880298-04:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:44 PM](https://archive.org/download/slate-2022/slate-2022-07-24T23:43:57.086923-04:00.hyperlinks.json) |
 | [July 24 at 11:43 AM](https://archive.org/download/slate-2022/slate-2022-07-24T11:43:16.019586-04:00.hyperlinks.json) |
 | [July 24 at 10:04 AM](https://archive.org/download/slate-2022/slate-2022-07-24T10:03:56.167997-04:00.hyperlinks.json) |
-| [July 24 at 2:23 AM](https://archive.org/download/slate-2022/slate-2022-07-24T02:23:22.372756-04:00.hyperlinks.json) |
-| [July 23 at 12:02 PM](https://archive.org/download/slate-2022/slate-2022-07-23T12:02:04.464165-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

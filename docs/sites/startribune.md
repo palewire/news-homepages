@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 193 screenshots with the Internet Archive.
+The archiving routine has saved 194 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 193 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/startribune-2022/startribune-2022-07-26T08:28:46.827223-05:00.jpg">
+  <img src="https://archive.org/download/startribune-2022/startribune-2022-07-26T08:28:46.827223-05:00.jpg"
+     alt="Minneapolis Star Tribune at 2022-07-26 08:28:52-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-26T08:28:46.827223-05:00.jpg">July 26 at 8:28 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-07-25T21:50:19.557211-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-21T11:52:48.103041-05:00.jpg">July 21 at 11:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/startribune-2022/startribune-2022-07-20T23:27:29.860645-05:00.jpg">
-  <img src="https://archive.org/download/startribune-2022/startribune-2022-07-20T23:27:29.860645-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-07-20 23:27:34-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-07-20T23:27:29.860645-05:00.jpg">July 20 at 11:27 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 190 hyperlink lists with the Internet Archive.
+The archiving routine has saved 191 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:28 AM](https://archive.org/download/startribune-2022/startribune-2022-07-26T08:28:46.827223-05:00.hyperlinks.json) |
 | [July 25 at 9:50 PM](https://archive.org/download/startribune-2022/startribune-2022-07-25T21:50:19.557211-05:00.hyperlinks.json) |
 | [July 25 at 8:33 PM](https://archive.org/download/startribune-2022/startribune-2022-07-25T20:33:40.726036-05:00.hyperlinks.json) |
 | [July 24 at 10:44 PM](https://archive.org/download/startribune-2022/startribune-2022-07-24T22:44:07.763649-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:23 PM](https://archive.org/download/startribune-2022/startribune-2022-07-22T23:23:23.543504-05:00.hyperlinks.json) |
 | [July 22 at 11:16 AM](https://archive.org/download/startribune-2022/startribune-2022-07-22T11:16:05.483616-05:00.hyperlinks.json) |
 | [July 21 at 11:29 PM](https://archive.org/download/startribune-2022/startribune-2022-07-21T23:29:28.488093-05:00.hyperlinks.json) |
-| [July 21 at 11:52 AM](https://archive.org/download/startribune-2022/startribune-2022-07-21T11:52:48.103041-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

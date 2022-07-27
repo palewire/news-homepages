@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 266 screenshots with the Internet Archive.
+The archiving routine has saved 267 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 266 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T17:40:37.267349+03:00.jpg">
+  <img src="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T17:40:37.267349+03:00.jpg"
+     alt="Meduza at 2022-07-26 17:40:46+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T17:40:37.267349+03:00.jpg">July 26 at 5:40 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T05:47:29.341335+03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-21T06:33:56.935583+03:00.jpg">July 21 at 6:33 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-20T19:07:12.349238+03:00.jpg">
-  <img src="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-20T19:07:12.349238+03:00.jpg"
-     alt="Meduza at 2022-07-20 19:07:17+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-20T19:07:12.349238+03:00.jpg">July 20 at 7:07 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 248 hyperlink lists with the Internet Archive.
+The archiving routine has saved 249 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 5:40 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T17:40:37.267349+03:00.hyperlinks.json) |
 | [July 26 at 5:47 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T05:47:29.341335+03:00.hyperlinks.json) |
 | [July 25 at 4:14 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T16:14:22.166196+03:00.hyperlinks.json) |
 | [July 25 at 6:31 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T06:31:45.839931+03:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 6:30 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-23T06:30:25.962153+03:00.hyperlinks.json) |
 | [July 22 at 5:57 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-22T17:56:51.140169+03:00.hyperlinks.json) |
 | [July 22 at 6:36 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-22T06:36:42.273047+03:00.hyperlinks.json) |
-| [July 21 at 6:29 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-21T18:28:58.119822+03:00.hyperlinks.json) |
 
 
 ## Internet Archive

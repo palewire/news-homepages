@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 70 screenshots with the Internet Archive.
+The archiving routine has saved 71 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 70 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-26T11:48:13.766223-04:00.jpg">
+  <img src="https://archive.org/download/torontostar-2022/torontostar-2022-07-26T11:48:13.766223-04:00.jpg"
+     alt="Toronto Star at 2022-07-26 11:48:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-26T11:48:13.766223-04:00.jpg">July 26 at 11:48 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-26T00:00:33.403710-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-21T00:31:32.326520-04:00.jpg">July 21 at 12:31 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-20T12:48:01.359739-04:00.jpg">
-  <img src="https://archive.org/download/torontostar-2022/torontostar-2022-07-20T12:48:01.359739-04:00.jpg"
-     alt="Toronto Star at 2022-07-20 12:48:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-20T12:48:01.359739-04:00.jpg">July 20 at 12:48 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 70 hyperlink lists with the Internet Archive.
+The archiving routine has saved 71 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:48 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-26T11:48:13.766223-04:00.hyperlinks.json) |
 | [July 26 at 12:00 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-26T00:00:33.403710-04:00.hyperlinks.json) |
 | [July 25 at 11:49 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-25T11:49:04.114617-04:00.hyperlinks.json) |
 | [July 25 at 12:38 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-25T00:38:33.046768-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 12:27 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-23T00:26:55.068476-04:00.hyperlinks.json) |
 | [July 22 at 12:19 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-22T12:19:48.677689-04:00.hyperlinks.json) |
 | [July 22 at 12:33 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-22T00:33:32.705409-04:00.hyperlinks.json) |
-| [July 21 at 12:57 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-21T12:56:59.836172-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

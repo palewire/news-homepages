@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 13 screenshots with the Internet Archive.
+The archiving routine has saved 14 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-26T19:01:38.685069-04:00.jpg">
+  <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-26T19:01:38.685069-04:00.jpg"
+     alt="13WMAZ News at 2022-07-26 19:01:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-26T19:01:38.685069-04:00.jpg">July 26 at 7:01 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-26T07:09:22.769224-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-21T08:49:40.620554-04:00.jpg">July 21 at 8:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-20T21:01:16.304433-04:00.jpg">
-  <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-20T21:01:16.304433-04:00.jpg"
-     alt="13WMAZ News at 2022-07-20 21:01:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-20T21:01:16.304433-04:00.jpg">July 20 at 9:01 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 12 hyperlink lists with the Internet Archive.
+The archiving routine has saved 13 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:01 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-26T19:01:38.685069-04:00.hyperlinks.json) |
 | [July 26 at 7:09 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-26T07:09:22.769224-04:00.hyperlinks.json) |
 | [July 25 at 7:05 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-25T19:05:05.108774-04:00.hyperlinks.json) |
 | [July 25 at 6:55 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-25T06:55:46.329289-04:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 8:54 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-22T20:54:46.837851-04:00.hyperlinks.json) |
 | [July 22 at 8:54 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-22T08:54:50.550956-04:00.hyperlinks.json) |
 | [July 21 at 9:02 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-21T21:02:23.620180-04:00.hyperlinks.json) |
-| [July 21 at 8:49 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-21T08:49:40.620554-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

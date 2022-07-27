@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/deadline-2022/deadline-2022-07-26T16:08:47.273895-07:00.jpg">
+  <img src="https://archive.org/download/deadline-2022/deadline-2022-07-26T16:08:47.273895-07:00.jpg"
+     alt="Deadline at 2022-07-26 16:08:49-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deadline-2022/deadline-2022-07-26T16:08:47.273895-07:00.jpg">July 26 at 4:08 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deadline-2022/deadline-2022-07-26T04:15:51.816885-07:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/deadline-2022/deadline-2022-07-21T05:57:19.031797-07:00.jpg">July 21 at 5:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/deadline-2022/deadline-2022-07-20T18:09:43.655089-07:00.jpg">
-  <img src="https://archive.org/download/deadline-2022/deadline-2022-07-20T18:09:43.655089-07:00.jpg"
-     alt="Deadline at 2022-07-20 18:09:45-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deadline-2022/deadline-2022-07-20T18:09:43.655089-07:00.jpg">July 20 at 6:09 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 4:08 PM](https://archive.org/download/deadline-2022/deadline-2022-07-26T16:08:47.273895-07:00.hyperlinks.json) |
 | [July 26 at 4:15 AM](https://archive.org/download/deadline-2022/deadline-2022-07-26T04:15:51.816885-07:00.hyperlinks.json) |
 | [July 25 at 4:11 PM](https://archive.org/download/deadline-2022/deadline-2022-07-25T16:11:46.484884-07:00.hyperlinks.json) |
 | [July 25 at 4:58 AM](https://archive.org/download/deadline-2022/deadline-2022-07-25T04:58:41.767056-07:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 6:03 PM](https://archive.org/download/deadline-2022/deadline-2022-07-22T18:03:50.709455-07:00.hyperlinks.json) |
 | [July 22 at 6:03 AM](https://archive.org/download/deadline-2022/deadline-2022-07-22T06:03:31.131777-07:00.hyperlinks.json) |
 | [July 21 at 6:11 PM](https://archive.org/download/deadline-2022/deadline-2022-07-21T18:11:38.745363-07:00.hyperlinks.json) |
-| [July 21 at 5:57 AM](https://archive.org/download/deadline-2022/deadline-2022-07-21T05:57:19.031797-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

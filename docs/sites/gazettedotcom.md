@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 194 screenshots with the Internet Archive.
+The archiving routine has saved 195 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 194 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-26T09:34:57.003504-05:00.jpg">
+  <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-26T09:34:57.003504-05:00.jpg"
+     alt="Cedar Rapids Gazette at 2022-07-26 09:34:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-26T09:34:57.003504-05:00.jpg">July 26 at 9:34 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T21:42:43.191447-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-21T21:20:45.463849-05:00.jpg">July 21 at 9:20 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-21T09:10:33.618588-05:00.jpg">
-  <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-21T09:10:33.618588-05:00.jpg"
-     alt="Cedar Rapids Gazette at 2022-07-21 09:10:35-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-21T09:10:33.618588-05:00.jpg">July 21 at 9:10 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 189 hyperlink lists with the Internet Archive.
+The archiving routine has saved 190 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:35 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-26T09:34:57.003504-05:00.hyperlinks.json) |
 | [July 25 at 9:42 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T21:42:43.191447-05:00.hyperlinks.json) |
 | [July 25 at 11:38 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T11:38:27.139462-05:00.hyperlinks.json) |
 | [July 25 at 7:05 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-25T07:04:56.529974-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:00 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-23T09:00:36.302362-05:00.hyperlinks.json) |
 | [July 22 at 9:27 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T21:27:09.568709-05:00.hyperlinks.json) |
 | [July 22 at 11:13 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T11:13:15.958303-05:00.hyperlinks.json) |
-| [July 22 at 9:01 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-22T09:01:33.686746-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

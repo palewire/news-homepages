@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/12khari-2022/12khari-2022-07-27T04:48:05.679531+05:45.jpg">
+  <img src="https://archive.org/download/12khari-2022/12khari-2022-07-27T04:48:05.679531+05:45.jpg"
+     alt="Baahrakhari at 2022-07-27 04:48:06+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/12khari-2022/12khari-2022-07-27T04:48:05.679531+05:45.jpg">July 27 at 4:48 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/12khari-2022/12khari-2022-07-26T16:54:23.338293+05:45.jpg">
@@ -77,7 +86,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
 
 
@@ -85,6 +94,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 4:48 AM](https://archive.org/download/12khari-2022/12khari-2022-07-27T04:48:05.679531+05:45.hyperlinks.json) |
 | [July 26 at 4:54 PM](https://archive.org/download/12khari-2022/12khari-2022-07-26T16:54:23.338293+05:45.hyperlinks.json) |
 | [July 26 at 4:49 AM](https://archive.org/download/12khari-2022/12khari-2022-07-26T04:49:54.292554+05:45.hyperlinks.json) |
 | [July 25 at 4:40 PM](https://archive.org/download/12khari-2022/12khari-2022-07-25T16:40:23.482123+05:45.hyperlinks.json) |

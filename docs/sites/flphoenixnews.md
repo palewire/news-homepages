@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 101 screenshots with the Internet Archive.
+The archiving routine has saved 102 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 101 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-26T19:09:33.526404-04:00.jpg">
+  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-26T19:09:33.526404-04:00.jpg"
+     alt="Florida Phoenix at 2022-07-26 19:09:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-26T19:09:33.526404-04:00.jpg">July 26 at 7:09 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-26T07:18:15.807640-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-21T10:06:19.066225-04:00.jpg">July 21 at 10:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-20T22:22:21.975910-04:00.jpg">
-  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-20T22:22:21.975910-04:00.jpg"
-     alt="Florida Phoenix at 2022-07-20 22:22:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-20T22:22:21.975910-04:00.jpg">July 20 at 10:22 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 102 hyperlink lists with the Internet Archive.
+The archiving routine has saved 103 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:09 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-26T19:09:33.526404-04:00.hyperlinks.json) |
 | [July 26 at 7:18 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-26T07:18:15.807640-04:00.hyperlinks.json) |
 | [July 25 at 7:14 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-25T19:14:17.581942-04:00.hyperlinks.json) |
 | [July 25 at 8:03 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-25T08:02:52.458385-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:59 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-23T09:59:24.593941-04:00.hyperlinks.json) |
 | [July 22 at 10:25 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-22T22:25:48.451414-04:00.hyperlinks.json) |
 | [July 22 at 10:00 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-22T10:00:32.685546-04:00.hyperlinks.json) |
-| [July 21 at 10:20 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-21T22:19:55.654103-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

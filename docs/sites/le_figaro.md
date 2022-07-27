@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 211 screenshots with the Internet Archive.
+The archiving routine has saved 212 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 211 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T02:13:54.237170+02:00.jpg">
+  <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T02:13:54.237170+02:00.jpg"
+     alt="Le Figaro at 2022-07-27 02:14:06+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T02:13:54.237170+02:00.jpg">July 27 at 2:14 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T14:23:40.644313+02:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-23T04:32:10.162361+02:00.jpg">July 23 at 4:32 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-22T16:07:41.876605+02:00.jpg">
-  <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-22T16:07:41.876605+02:00.jpg"
-     alt="Le Figaro at 2022-07-22 16:07:47+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-22T16:07:41.876605+02:00.jpg">July 22 at 4:07 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 211 hyperlink lists with the Internet Archive.
+The archiving routine has saved 212 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 2:14 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T02:13:54.237170+02:00.hyperlinks.json) |
 | [July 26 at 2:23 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T14:23:40.644313+02:00.hyperlinks.json) |
 | [July 26 at 10:09 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T10:08:58.789531+02:00.hyperlinks.json) |
 | [July 26 at 2:18 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T02:17:56.210117+02:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 3:01 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-24T15:01:28.068874+02:00.hyperlinks.json) |
 | [July 24 at 10:09 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-24T10:09:45.818528+02:00.hyperlinks.json) |
 | [July 24 at 6:16 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-24T06:16:30.657045+02:00.hyperlinks.json) |
-| [July 23 at 4:07 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-23T16:07:03.583006+02:00.hyperlinks.json) |
 
 
 ## Internet Archive

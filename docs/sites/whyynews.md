@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 55 screenshots with the Internet Archive.
+The archiving routine has saved 56 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 55 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-26T09:33:27.679581-04:00.jpg">
+  <img src="https://archive.org/download/whyynews-2022/whyynews-2022-07-26T09:33:27.679581-04:00.jpg"
+     alt="WHYY at 2022-07-26 09:33:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-26T09:33:27.679581-04:00.jpg">July 26 at 9:33 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-25T22:55:45.338706-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-21T13:00:03.213467-04:00.jpg">July 21 at 1:00 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-21T00:33:32.284599-04:00.jpg">
-  <img src="https://archive.org/download/whyynews-2022/whyynews-2022-07-21T00:33:32.284599-04:00.jpg"
-     alt="WHYY at 2022-07-21 00:33:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-21T00:33:32.284599-04:00.jpg">July 21 at 12:33 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 55 hyperlink lists with the Internet Archive.
+The archiving routine has saved 56 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:33 AM](https://archive.org/download/whyynews-2022/whyynews-2022-07-26T09:33:27.679581-04:00.hyperlinks.json) |
 | [July 25 at 10:55 PM](https://archive.org/download/whyynews-2022/whyynews-2022-07-25T22:55:45.338706-04:00.hyperlinks.json) |
 | [July 25 at 9:39 PM](https://archive.org/download/whyynews-2022/whyynews-2022-07-25T21:39:05.139304-04:00.hyperlinks.json) |
 | [July 25 at 11:52 AM](https://archive.org/download/whyynews-2022/whyynews-2022-07-25T11:52:51.464387-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 12:10 PM](https://archive.org/download/whyynews-2022/whyynews-2022-07-23T12:09:58.591844-04:00.hyperlinks.json) |
 | [July 23 at 12:29 AM](https://archive.org/download/whyynews-2022/whyynews-2022-07-23T00:29:46.001819-04:00.hyperlinks.json) |
 | [July 22 at 12:22 PM](https://archive.org/download/whyynews-2022/whyynews-2022-07-22T12:22:22.841988-04:00.hyperlinks.json) |
-| [July 22 at 12:36 AM](https://archive.org/download/whyynews-2022/whyynews-2022-07-22T00:36:14.854608-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

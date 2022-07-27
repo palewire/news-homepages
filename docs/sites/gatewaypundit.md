@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 72 screenshots with the Internet Archive.
+The archiving routine has saved 74 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-26T13:35:12.803017-05:00.jpg">
+  <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-26T13:35:12.803017-05:00.jpg"
+     alt="Gateway Pundit at 2022-07-26 13:35:14-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-26T13:35:12.803017-05:00.jpg">July 26 at 1:35 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-26T09:35:08.260723-05:00.jpg">
+  <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-26T09:35:08.260723-05:00.jpg"
+     alt="Gateway Pundit at 2022-07-26 09:35:11-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-26T09:35:08.260723-05:00.jpg">July 26 at 9:35 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-25T21:42:03.574522-05:00.jpg">
   <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-25T21:42:03.574522-05:00.jpg"
      alt="Gateway Pundit at 2022-07-25 21:42:08-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-23T09:00:58.012168-05:00.jpg">July 23 at 9:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-22T21:27:01.473943-05:00.jpg">
-  <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-22T21:27:01.473943-05:00.jpg"
-     alt="Gateway Pundit at 2022-07-22 21:27:03-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-22T21:27:01.473943-05:00.jpg">July 22 at 9:27 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-22T11:25:01.282107-05:00.jpg">
-  <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-22T11:25:01.282107-05:00.jpg"
-     alt="Gateway Pundit at 2022-07-22 11:25:03-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-22T11:25:01.282107-05:00.jpg">July 22 at 11:25 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 69 hyperlink lists with the Internet Archive.
+The archiving routine has saved 71 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 1:35 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-26T13:35:12.803017-05:00.hyperlinks.json) |
+| [July 26 at 9:35 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-26T09:35:08.260723-05:00.hyperlinks.json) |
 | [July 25 at 9:42 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-25T21:42:03.574522-05:00.hyperlinks.json) |
 | [July 25 at 1:38 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-25T13:38:31.365071-05:00.hyperlinks.json) |
 | [July 25 at 11:41 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-25T11:40:55.939533-05:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 10:44 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-24T10:44:34.773693-05:00.hyperlinks.json) |
 | [July 24 at 7:01 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-24T07:01:00.249527-05:00.hyperlinks.json) |
 | [July 24 at 1:31 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-24T01:31:08.453786-05:00.hyperlinks.json) |
-| [July 23 at 11:11 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-23T11:11:31.562012-05:00.hyperlinks.json) |
-| [July 23 at 9:01 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-23T09:00:58.012168-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

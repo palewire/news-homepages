@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/khnews-2022/khnews-2022-07-26T20:12:42.558110-04:00.jpg">
+  <img src="https://archive.org/download/khnews-2022/khnews-2022-07-26T20:12:42.558110-04:00.jpg"
+     alt="Kaiser Health News at 2022-07-26 20:12:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/khnews-2022/khnews-2022-07-26T20:12:42.558110-04:00.jpg">July 26 at 8:12 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khnews-2022/khnews-2022-07-26T08:22:32.772071-04:00.jpg">
@@ -50,7 +59,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 2 hyperlink lists with the Internet Archive.
+The archiving routine has saved 3 hyperlink lists with the Internet Archive.
 
 
 
@@ -58,6 +67,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:12 PM](https://archive.org/download/khnews-2022/khnews-2022-07-26T20:12:42.558110-04:00.hyperlinks.json) |
 | [July 26 at 8:22 AM](https://archive.org/download/khnews-2022/khnews-2022-07-26T08:22:32.772071-04:00.hyperlinks.json) |
 | [July 25 at 8:17 PM](https://archive.org/download/khnews-2022/khnews-2022-07-25T20:17:12.336652-04:00.hyperlinks.json) |
 

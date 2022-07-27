@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 218 screenshots with the Internet Archive.
+The archiving routine has saved 219 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 218 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-26T08:45:44.333237-07:00.jpg">
+  <img src="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-26T08:45:44.333237-07:00.jpg"
+     alt="San Francisco Chronicle at 2022-07-26 08:45:45-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-26T08:45:44.333237-07:00.jpg">July 26 at 8:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-25T20:57:19.488431-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-19T21:18:28.770835-07:00.jpg">July 19 at 9:18 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-19T09:57:37.003772-07:00.jpg">
-  <img src="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-19T09:57:37.003772-07:00.jpg"
-     alt="San Francisco Chronicle at 2022-07-19 09:57:38-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-19T09:57:37.003772-07:00.jpg">July 19 at 9:57 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 206 hyperlink lists with the Internet Archive.
+The archiving routine has saved 207 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:45 AM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-26T08:45:44.333237-07:00.hyperlinks.json) |
 | [July 25 at 8:57 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-25T20:57:19.488431-07:00.hyperlinks.json) |
 | [July 25 at 8:41 AM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-25T08:41:40.618368-07:00.hyperlinks.json) |
 | [July 24 at 8:43 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-24T20:43:06.517047-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 21 at 9:28 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-21T21:28:06.631769-07:00.hyperlinks.json) |
 | [July 21 at 9:51 AM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-21T09:51:44.974936-07:00.hyperlinks.json) |
 | [July 20 at 9:26 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-20T21:26:45.944016-07:00.hyperlinks.json) |
-| [July 19 at 9:18 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-07-19T21:18:28.770835-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

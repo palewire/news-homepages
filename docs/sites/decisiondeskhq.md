@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-26T19:09:08.654276-04:00.jpg">
+  <img src="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-26T19:09:08.654276-04:00.jpg"
+     alt="Decision Desk HQ at 2022-07-26 19:09:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-26T19:09:08.654276-04:00.jpg">July 26 at 7:09 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-26T07:16:19.527989-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-21T08:57:14.477478-04:00.jpg">July 21 at 8:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-20T21:10:47.202604-04:00.jpg">
-  <img src="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-20T21:10:47.202604-04:00.jpg"
-     alt="Decision Desk HQ at 2022-07-20 21:10:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-20T21:10:47.202604-04:00.jpg">July 20 at 9:10 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:09 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-26T19:09:08.654276-04:00.hyperlinks.json) |
 | [July 26 at 7:16 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-26T07:16:19.527989-04:00.hyperlinks.json) |
 | [July 25 at 7:12 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-25T19:12:31.382481-04:00.hyperlinks.json) |
 | [July 25 at 7:59 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-25T07:59:41.075055-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:04 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-23T09:04:43.621210-04:00.hyperlinks.json) |
 | [July 22 at 9:04 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-22T21:04:00.136526-04:00.hyperlinks.json) |
 | [July 22 at 9:03 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-22T09:03:46.227115-04:00.hyperlinks.json) |
-| [July 21 at 9:11 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-21T21:11:49.296472-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

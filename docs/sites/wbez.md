@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 100 screenshots with the Internet Archive.
+The archiving routine has saved 102 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wbez-2022/wbez-2022-07-26T10:59:56.880297-05:00.jpg">
+  <img src="https://archive.org/download/wbez-2022/wbez-2022-07-26T10:59:56.880297-05:00.jpg"
+     alt="WBEZ at 2022-07-26 11:00:01-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wbez-2022/wbez-2022-07-26T10:59:56.880297-05:00.jpg">July 26 at 11:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wbez-2022/wbez-2022-07-26T08:33:43.211989-05:00.jpg">
+  <img src="https://archive.org/download/wbez-2022/wbez-2022-07-26T08:33:43.211989-05:00.jpg"
+     alt="WBEZ at 2022-07-26 08:33:44-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wbez-2022/wbez-2022-07-26T08:33:43.211989-05:00.jpg">July 26 at 8:33 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wbez-2022/wbez-2022-07-25T21:54:40.396006-05:00.jpg">
   <img src="https://archive.org/download/wbez-2022/wbez-2022-07-25T21:54:40.396006-05:00.jpg"
      alt="WBEZ at 2022-07-25 21:54:42-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wbez-2022/wbez-2022-07-22T23:29:29.272285-05:00.jpg">July 22 at 11:29 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wbez-2022/wbez-2022-07-22T11:24:01.764588-05:00.jpg">
-  <img src="https://archive.org/download/wbez-2022/wbez-2022-07-22T11:24:01.764588-05:00.jpg"
-     alt="WBEZ at 2022-07-22 11:24:03-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wbez-2022/wbez-2022-07-22T11:24:01.764588-05:00.jpg">July 22 at 11:24 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wbez-2022/wbez-2022-07-22T11:22:01.369679-05:00.jpg">
-  <img src="https://archive.org/download/wbez-2022/wbez-2022-07-22T11:22:01.369679-05:00.jpg"
-     alt="WBEZ at 2022-07-22 11:22:07-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wbez-2022/wbez-2022-07-22T11:22:01.369679-05:00.jpg">July 22 at 11:22 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 101 hyperlink lists with the Internet Archive.
+The archiving routine has saved 103 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:00 AM](https://archive.org/download/wbez-2022/wbez-2022-07-26T10:59:56.880297-05:00.hyperlinks.json) |
+| [July 26 at 8:33 AM](https://archive.org/download/wbez-2022/wbez-2022-07-26T08:33:43.211989-05:00.hyperlinks.json) |
 | [July 25 at 9:54 PM](https://archive.org/download/wbez-2022/wbez-2022-07-25T21:54:40.396006-05:00.hyperlinks.json) |
 | [July 25 at 8:38 PM](https://archive.org/download/wbez-2022/wbez-2022-07-25T20:38:29.115348-05:00.hyperlinks.json) |
 | [July 25 at 11:36 AM](https://archive.org/download/wbez-2022/wbez-2022-07-25T11:36:05.645597-05:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 10:46 AM](https://archive.org/download/wbez-2022/wbez-2022-07-24T10:46:24.457068-05:00.hyperlinks.json) |
 | [July 24 at 10:10 AM](https://archive.org/download/wbez-2022/wbez-2022-07-24T10:10:46.310641-05:00.hyperlinks.json) |
 | [July 23 at 10:47 PM](https://archive.org/download/wbez-2022/wbez-2022-07-23T22:46:50.245985-05:00.hyperlinks.json) |
-| [July 23 at 11:09 AM](https://archive.org/download/wbez-2022/wbez-2022-07-23T11:09:04.415268-05:00.hyperlinks.json) |
-| [July 22 at 11:29 PM](https://archive.org/download/wbez-2022/wbez-2022-07-22T23:29:29.272285-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

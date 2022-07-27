@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 80 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 80 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-26T08:29:55.105811-05:00.jpg">
+  <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-26T08:29:55.105811-05:00.jpg"
+     alt="Texas Tribune at 2022-07-26 08:29:56-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-26T08:29:55.105811-05:00.jpg">July 26 at 8:29 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-25T21:51:42.756402-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-21T11:54:03.427978-05:00.jpg">July 21 at 11:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-20T23:28:07.995363-05:00.jpg">
-  <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-20T23:28:07.995363-05:00.jpg"
-     alt="Texas Tribune at 2022-07-20 23:28:13-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-20T23:28:07.995363-05:00.jpg">July 20 at 11:28 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 81 hyperlink lists with the Internet Archive.
+The archiving routine has saved 82 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:29 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-26T08:29:55.105811-05:00.hyperlinks.json) |
 | [July 25 at 9:51 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T21:51:42.756402-05:00.hyperlinks.json) |
 | [July 25 at 8:34 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T20:34:24.471323-05:00.hyperlinks.json) |
 | [July 25 at 10:45 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T10:45:02.155122-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:03 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-23T11:03:52.704411-05:00.hyperlinks.json) |
 | [July 22 at 11:24 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-22T23:24:22.907155-05:00.hyperlinks.json) |
 | [July 22 at 11:16 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-22T11:16:51.540568-05:00.hyperlinks.json) |
-| [July 21 at 11:30 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-21T23:30:53.395352-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

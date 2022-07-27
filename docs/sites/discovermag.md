@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-26T19:08:15.302242-04:00.jpg">
+  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-07-26T19:08:15.302242-04:00.jpg"
+     alt="Discover at 2022-07-26 19:08:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-26T19:08:15.302242-04:00.jpg">July 26 at 7:08 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-26T07:16:18.008526-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-21T08:57:39.722504-04:00.jpg">July 21 at 8:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-20T21:12:00.699677-04:00.jpg">
-  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-07-20T21:12:00.699677-04:00.jpg"
-     alt="Discover at 2022-07-20 21:12:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-20T21:12:00.699677-04:00.jpg">July 20 at 9:12 PM</a></p>
 </div>
 
 </div>

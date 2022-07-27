@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-26T06:28:20.711676-07:00.jpg">
+  <img src="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-26T06:28:20.711676-07:00.jpg"
+     alt="Spokesman-Review at 2022-07-26 06:28:22-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-26T06:28:20.711676-07:00.jpg">July 26 at 6:28 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-25T19:50:35.201284-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-21T09:53:06.928318-07:00.jpg">July 21 at 9:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-20T21:26:29.907971-07:00.jpg">
-  <img src="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-20T21:26:29.907971-07:00.jpg"
-     alt="Spokesman-Review at 2022-07-20 21:26:31-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-20T21:26:29.907971-07:00.jpg">July 20 at 9:26 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 6:28 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-26T06:28:20.711676-07:00.hyperlinks.json) |
 | [July 25 at 7:50 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-25T19:50:35.201284-07:00.hyperlinks.json) |
 | [July 25 at 6:34 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-25T18:34:41.770282-07:00.hyperlinks.json) |
 | [July 25 at 8:43 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-25T08:43:48.698498-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:02 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-23T09:02:12.572227-07:00.hyperlinks.json) |
 | [July 22 at 9:23 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-22T21:23:23.570307-07:00.hyperlinks.json) |
 | [July 22 at 9:15 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-22T09:15:13.105212-07:00.hyperlinks.json) |
-| [July 21 at 9:29 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-21T21:29:24.359084-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

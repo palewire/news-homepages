@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 41 screenshots with the Internet Archive.
+The archiving routine has saved 42 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 41 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T14:31:15.501019+01:00.jpg">
+  <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T14:31:15.501019+01:00.jpg"
+     alt="Scotsman at 2022-07-26 14:31:17+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T14:31:15.501019+01:00.jpg">July 26 at 2:31 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T03:53:49.701297+01:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-20T05:22:23.102745+01:00.jpg">July 20 at 5:22 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-19T18:01:40.045525+01:00.jpg">
-  <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-19T18:01:40.045525+01:00.jpg"
-     alt="Scotsman at 2022-07-19 18:01:43+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-19T18:01:40.045525+01:00.jpg">July 19 at 6:01 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 34 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 2:31 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T14:31:15.501019+01:00.hyperlinks.json) |
 | [July 26 at 3:53 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T03:53:49.701297+01:00.hyperlinks.json) |
 | [July 26 at 2:36 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T02:36:34.045336+01:00.hyperlinks.json) |
 | [July 25 at 4:48 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T16:48:10.301022+01:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 5:06 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-23T17:06:29.982715+01:00.hyperlinks.json) |
 | [July 23 at 5:25 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-23T05:25:48.835944+01:00.hyperlinks.json) |
 | [July 22 at 5:19 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-22T17:19:00.680523+01:00.hyperlinks.json) |
-| [July 22 at 5:32 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-22T05:32:35.531942+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

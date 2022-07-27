@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-26T11:46:47.928549-04:00.jpg">
+  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-26T11:46:47.928549-04:00.jpg"
+     alt="Trace at 2022-07-26 11:46:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-26T11:46:47.928549-04:00.jpg">July 26 at 11:46 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-25T23:58:07.967513-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-21T00:27:57.547627-04:00.jpg">July 21 at 12:27 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-20T12:44:12.825846-04:00.jpg">
-  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-20T12:44:12.825846-04:00.jpg"
-     alt="Trace at 2022-07-20 12:44:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-07-20T12:44:12.825846-04:00.jpg">July 20 at 12:44 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 34 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:46 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-07-26T11:46:47.928549-04:00.hyperlinks.json) |
 | [July 25 at 11:58 PM](https://archive.org/download/teamtrace-2022/teamtrace-2022-07-25T23:58:07.967513-04:00.hyperlinks.json) |
 | [July 25 at 11:44 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-07-25T11:44:46.510105-04:00.hyperlinks.json) |
 | [July 25 at 12:35 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-07-25T00:35:06.888879-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 12:23 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-07-23T00:23:25.030048-04:00.hyperlinks.json) |
 | [July 22 at 12:15 PM](https://archive.org/download/teamtrace-2022/teamtrace-2022-07-22T12:15:44.895569-04:00.hyperlinks.json) |
 | [July 22 at 12:29 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-07-22T00:29:31.532453-04:00.hyperlinks.json) |
-| [July 21 at 12:53 PM](https://archive.org/download/teamtrace-2022/teamtrace-2022-07-21T12:53:17.813699-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

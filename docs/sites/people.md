@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-07-26T11:42:37.065560-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-07-26T11:42:37.065560-04:00.jpg"
+     alt="People at 2022-07-26 11:42:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-07-26T11:42:37.065560-04:00.jpg">July 26 at 11:42 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/people-2022/people-2022-07-25T23:54:15.106570-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/people-2022/people-2022-07-20T23:38:46.918231-04:00.jpg">July 20 at 11:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/people-2022/people-2022-07-20T12:13:03.335157-04:00.jpg">
-  <img src="https://archive.org/download/people-2022/people-2022-07-20T12:13:03.335157-04:00.jpg"
-     alt="People at 2022-07-20 12:13:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/people-2022/people-2022-07-20T12:13:03.335157-04:00.jpg">July 20 at 12:13 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 38 hyperlink lists with the Internet Archive.
+The archiving routine has saved 39 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:42 AM](https://archive.org/download/people-2022/people-2022-07-26T11:42:37.065560-04:00.hyperlinks.json) |
 | [July 25 at 11:54 PM](https://archive.org/download/people-2022/people-2022-07-25T23:54:15.106570-04:00.hyperlinks.json) |
 | [July 25 at 11:36 AM](https://archive.org/download/people-2022/people-2022-07-25T11:36:27.222392-04:00.hyperlinks.json) |
 | [July 24 at 11:39 PM](https://archive.org/download/people-2022/people-2022-07-24T23:39:34.938475-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:02 AM](https://archive.org/download/people-2022/people-2022-07-22T11:02:02.965711-04:00.hyperlinks.json) |
 | [July 21 at 11:40 PM](https://archive.org/download/people-2022/people-2022-07-21T23:40:28.749655-04:00.hyperlinks.json) |
 | [July 21 at 11:36 AM](https://archive.org/download/people-2022/people-2022-07-21T11:36:34.641424-04:00.hyperlinks.json) |
-| [July 20 at 11:38 PM](https://archive.org/download/people-2022/people-2022-07-20T23:38:46.918231-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

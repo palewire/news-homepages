@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 13 screenshots with the Internet Archive.
+The archiving routine has saved 14 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-07-26T09:30:59.825549-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-07-26T09:30:59.825549-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-07-26 09:31:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-07-26T09:30:59.825549-04:00.jpg">July 26 at 9:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thevdt-2022/thevdt-2022-07-25T22:54:03.879864-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-07-21T12:56:18.400681-04:00.jpg">July 21 at 12:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thevdt-2022/thevdt-2022-07-21T00:30:17.973593-04:00.jpg">
-  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-07-21T00:30:17.973593-04:00.jpg"
-     alt="Valdosta Daily Times at 2022-07-21 00:30:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-07-21T00:30:17.973593-04:00.jpg">July 21 at 12:30 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 11 hyperlink lists with the Internet Archive.
+The archiving routine has saved 12 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:31 AM](https://archive.org/download/thevdt-2022/thevdt-2022-07-26T09:30:59.825549-04:00.hyperlinks.json) |
 | [July 25 at 10:54 PM](https://archive.org/download/thevdt-2022/thevdt-2022-07-25T22:54:03.879864-04:00.hyperlinks.json) |
 | [July 25 at 9:36 PM](https://archive.org/download/thevdt-2022/thevdt-2022-07-25T21:36:01.426062-04:00.hyperlinks.json) |
 | [July 25 at 11:49 AM](https://archive.org/download/thevdt-2022/thevdt-2022-07-25T11:49:16.346787-04:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 12:19 PM](https://archive.org/download/thevdt-2022/thevdt-2022-07-22T12:19:01.213545-04:00.hyperlinks.json) |
 | [July 22 at 12:32 AM](https://archive.org/download/thevdt-2022/thevdt-2022-07-22T00:32:51.669155-04:00.hyperlinks.json) |
 | [July 21 at 12:56 PM](https://archive.org/download/thevdt-2022/thevdt-2022-07-21T12:56:18.400681-04:00.hyperlinks.json) |
-| [July 21 at 12:30 AM](https://archive.org/download/thevdt-2022/thevdt-2022-07-21T00:30:17.973593-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

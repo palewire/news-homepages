@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 4 screenshots with the Internet Archive.
+The archiving routine has saved 5 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-26T20:17:03.687935+05:45.jpg">
+  <img src="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-26T20:17:03.687935+05:45.jpg"
+     alt="Danik Online at 2022-07-26 20:17:05+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-26T20:17:03.687935+05:45.jpg">July 26 at 8:17 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-26T08:25:24.565372+05:45.jpg">
@@ -68,7 +77,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+The archiving routine has saved 5 hyperlink lists with the Internet Archive.
 
 
 
@@ -76,6 +85,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:17 PM](https://archive.org/download/dainik_online-2022/dainik_online-2022-07-26T20:17:03.687935+05:45.hyperlinks.json) |
 | [July 26 at 8:25 AM](https://archive.org/download/dainik_online-2022/dainik_online-2022-07-26T08:25:24.565372+05:45.hyperlinks.json) |
 | [July 25 at 5:43 PM](https://archive.org/download/dainik_online-2022/dainik_online-2022-07-25T17:43:40.498335+05:45.hyperlinks.json) |
 | [July 25 at 6:44 AM](https://archive.org/download/dainik_online-2022/dainik_online-2022-07-25T06:43:56.876889+05:45.hyperlinks.json) |

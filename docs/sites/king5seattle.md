@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-26T17:12:57.661840-07:00.jpg">
+  <img src="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-26T17:12:57.661840-07:00.jpg"
+     alt="KING5 at 2022-07-26 17:13:00-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-26T17:12:57.661840-07:00.jpg">July 26 at 5:13 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-26T05:22:29.941003-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-21T07:18:05.602288-07:00.jpg">July 21 at 7:18 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-20T19:27:33.504802-07:00.jpg">
-  <img src="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-20T19:27:33.504802-07:00.jpg"
-     alt="KING5 at 2022-07-20 19:27:36-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-20T19:27:33.504802-07:00.jpg">July 20 at 7:27 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 5:13 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-26T17:12:57.661840-07:00.hyperlinks.json) |
 | [July 26 at 5:22 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-26T05:22:29.941003-07:00.hyperlinks.json) |
 | [July 25 at 5:17 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-25T17:17:24.516283-07:00.hyperlinks.json) |
 | [July 25 at 6:11 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-25T06:11:13.732150-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 7:05 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-23T07:05:03.402094-07:00.hyperlinks.json) |
 | [July 22 at 7:31 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-22T19:31:18.047293-07:00.hyperlinks.json) |
 | [July 22 at 7:06 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-22T07:06:14.844242-07:00.hyperlinks.json) |
-| [July 21 at 7:25 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-07-21T19:24:57.096092-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

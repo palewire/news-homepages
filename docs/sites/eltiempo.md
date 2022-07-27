@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 81 screenshots with the Internet Archive.
+The archiving routine has saved 82 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 81 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-26T18:09:25.543463-05:00.jpg">
+  <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-26T18:09:25.543463-05:00.jpg"
+     alt="Tiempo at 2022-07-26 18:09:29-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-26T18:09:25.543463-05:00.jpg">July 26 at 6:09 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-26T06:17:26.036290-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-21T09:04:21.212579-05:00.jpg">July 21 at 9:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-20T21:21:18.775819-05:00.jpg">
-  <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-20T21:21:18.775819-05:00.jpg"
-     alt="Tiempo at 2022-07-20 21:21:20-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-20T21:21:18.775819-05:00.jpg">July 20 at 9:21 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 74 hyperlink lists with the Internet Archive.
+The archiving routine has saved 75 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 6:09 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-26T18:09:25.543463-05:00.hyperlinks.json) |
 | [July 26 at 6:17 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-26T06:17:26.036290-05:00.hyperlinks.json) |
 | [July 25 at 7:01 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-25T07:01:07.963484-05:00.hyperlinks.json) |
 | [July 24 at 8:03 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-24T20:03:31.138593-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 9:24 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-22T21:24:50.150976-05:00.hyperlinks.json) |
 | [July 22 at 8:59 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-22T08:58:59.941495-05:00.hyperlinks.json) |
 | [July 21 at 9:18 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-21T21:18:16.205772-05:00.hyperlinks.json) |
-| [July 21 at 9:04 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-21T09:04:21.212579-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

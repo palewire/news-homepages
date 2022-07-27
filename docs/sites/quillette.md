@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/quillette-2022/quillette-2022-07-27T01:19:00.160969+01:00.jpg">
+  <img src="https://archive.org/download/quillette-2022/quillette-2022-07-27T01:19:00.160969+01:00.jpg"
+     alt="Quillette at 2022-07-27 01:19:01+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/quillette-2022/quillette-2022-07-27T01:19:00.160969+01:00.jpg">July 27 at 1:19 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/quillette-2022/quillette-2022-07-26T13:28:28.884949+01:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/quillette-2022/quillette-2022-07-21T16:39:01.822417+01:00.jpg">July 21 at 4:39 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/quillette-2022/quillette-2022-07-21T04:40:11.156113+01:00.jpg">
-  <img src="https://archive.org/download/quillette-2022/quillette-2022-07-21T04:40:11.156113+01:00.jpg"
-     alt="Quillette at 2022-07-21 04:40:12+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/quillette-2022/quillette-2022-07-21T04:40:11.156113+01:00.jpg">July 21 at 4:40 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 18 hyperlink lists with the Internet Archive.
+The archiving routine has saved 19 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 1:19 AM](https://archive.org/download/quillette-2022/quillette-2022-07-27T01:19:00.160969+01:00.hyperlinks.json) |
 | [July 26 at 1:28 PM](https://archive.org/download/quillette-2022/quillette-2022-07-26T13:28:28.884949+01:00.hyperlinks.json) |
 | [July 26 at 1:23 AM](https://archive.org/download/quillette-2022/quillette-2022-07-26T01:23:28.175367+01:00.hyperlinks.json) |
 | [July 25 at 4:38 PM](https://archive.org/download/quillette-2022/quillette-2022-07-25T16:38:30.103532+01:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 4:07 PM](https://archive.org/download/quillette-2022/quillette-2022-07-23T16:07:49.542665+01:00.hyperlinks.json) |
 | [July 23 at 4:37 AM](https://archive.org/download/quillette-2022/quillette-2022-07-23T04:37:42.045261+01:00.hyperlinks.json) |
 | [July 22 at 4:03 PM](https://archive.org/download/quillette-2022/quillette-2022-07-22T16:03:17.495599+01:00.hyperlinks.json) |
-| [July 22 at 4:41 AM](https://archive.org/download/quillette-2022/quillette-2022-07-22T04:41:44.686980+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

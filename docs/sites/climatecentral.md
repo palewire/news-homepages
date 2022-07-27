@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 7 screenshots with the Internet Archive.
+The archiving routine has saved 8 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-26T19:06:28.232843-04:00.jpg">
+  <img src="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-26T19:06:28.232843-04:00.jpg"
+     alt="Climate Central at 2022-07-26 19:06:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-26T19:06:28.232843-04:00.jpg">July 26 at 7:06 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-25T19:10:33.821151-04:00.jpg">
@@ -95,7 +104,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 7 hyperlink lists with the Internet Archive.
+The archiving routine has saved 8 hyperlink lists with the Internet Archive.
 
 
 
@@ -103,6 +112,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:06 PM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-26T19:06:28.232843-04:00.hyperlinks.json) |
 | [July 25 at 7:10 PM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-25T19:10:33.821151-04:00.hyperlinks.json) |
 | [July 25 at 7:02 AM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-25T07:02:54.076645-04:00.hyperlinks.json) |
 | [July 24 at 8:55 PM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-24T20:55:49.154866-04:00.hyperlinks.json) |

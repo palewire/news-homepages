@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 35 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mongabay-2022/mongabay-2022-07-26T07:42:00.476891-07:00.jpg">
+  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-07-26T07:42:00.476891-07:00.jpg"
+     alt="Mongabay at 2022-07-26 07:42:02-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-07-26T07:42:00.476891-07:00.jpg">July 26 at 7:42 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mongabay-2022/mongabay-2022-07-25T19:48:12.023434-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-07-20T20:34:48.166281-07:00.jpg">July 20 at 8:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mongabay-2022/mongabay-2022-07-20T09:08:20.816283-07:00.jpg">
-  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-07-20T09:08:20.816283-07:00.jpg"
-     alt="Mongabay at 2022-07-20 09:08:22-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-07-20T09:08:20.816283-07:00.jpg">July 20 at 9:08 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:42 AM](https://archive.org/download/mongabay-2022/mongabay-2022-07-26T07:42:00.476891-07:00.hyperlinks.json) |
 | [July 25 at 7:48 PM](https://archive.org/download/mongabay-2022/mongabay-2022-07-25T19:48:12.023434-07:00.hyperlinks.json) |
 | [July 25 at 6:14 AM](https://archive.org/download/mongabay-2022/mongabay-2022-07-25T06:14:54.565804-07:00.hyperlinks.json) |
 | [July 24 at 8:32 PM](https://archive.org/download/mongabay-2022/mongabay-2022-07-24T20:32:49.212171-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 8:31 PM](https://archive.org/download/mongabay-2022/mongabay-2022-07-22T20:31:39.847003-07:00.hyperlinks.json) |
 | [July 22 at 7:57 AM](https://archive.org/download/mongabay-2022/mongabay-2022-07-22T07:57:22.506361-07:00.hyperlinks.json) |
 | [July 21 at 8:36 PM](https://archive.org/download/mongabay-2022/mongabay-2022-07-21T20:36:18.972180-07:00.hyperlinks.json) |
-| [July 21 at 8:30 AM](https://archive.org/download/mongabay-2022/mongabay-2022-07-21T08:30:50.058787-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

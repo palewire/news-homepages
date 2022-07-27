@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 60 screenshots with the Internet Archive.
+The archiving routine has saved 61 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 60 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/engadget-2022/engadget-2022-07-26T07:33:22.427210-07:00.jpg">
+  <img src="https://archive.org/download/engadget-2022/engadget-2022-07-26T07:33:22.427210-07:00.jpg"
+     alt="Engadget at 2022-07-26 07:33:28-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-26T07:33:22.427210-07:00.jpg">July 26 at 7:33 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/engadget-2022/engadget-2022-07-25T19:42:20.851219-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-21T07:04:05.929703-07:00.jpg">July 21 at 7:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/engadget-2022/engadget-2022-07-20T19:21:34.960318-07:00.jpg">
-  <img src="https://archive.org/download/engadget-2022/engadget-2022-07-20T19:21:34.960318-07:00.jpg"
-     alt="Engadget at 2022-07-20 19:21:36-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-20T19:21:34.960318-07:00.jpg">July 20 at 7:21 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 60 hyperlink lists with the Internet Archive.
+The archiving routine has saved 61 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:33 AM](https://archive.org/download/engadget-2022/engadget-2022-07-26T07:33:22.427210-07:00.hyperlinks.json) |
 | [July 25 at 7:42 PM](https://archive.org/download/engadget-2022/engadget-2022-07-25T19:42:20.851219-07:00.hyperlinks.json) |
 | [July 25 at 5:01 AM](https://archive.org/download/engadget-2022/engadget-2022-07-25T05:01:23.142149-07:00.hyperlinks.json) |
 | [July 24 at 11:46 PM](https://archive.org/download/engadget-2022/engadget-2022-07-24T23:46:48.762115-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 6:57 AM](https://archive.org/download/engadget-2022/engadget-2022-07-23T06:57:47.046624-07:00.hyperlinks.json) |
 | [July 22 at 7:24 PM](https://archive.org/download/engadget-2022/engadget-2022-07-22T19:24:35.307456-07:00.hyperlinks.json) |
 | [July 22 at 6:59 AM](https://archive.org/download/engadget-2022/engadget-2022-07-22T06:59:19.091640-07:00.hyperlinks.json) |
-| [July 21 at 7:18 PM](https://archive.org/download/engadget-2022/engadget-2022-07-21T19:18:42.303544-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

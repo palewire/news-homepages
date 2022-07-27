@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 211 screenshots with the Internet Archive.
+The archiving routine has saved 213 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-26T14:34:53.054545-04:00.jpg">
+  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-26T14:34:53.054545-04:00.jpg"
+     alt="Washington Examiner at 2022-07-26 14:34:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-26T14:34:53.054545-04:00.jpg">July 26 at 2:34 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-26T10:33:02.258745-04:00.jpg">
+  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-26T10:33:02.258745-04:00.jpg"
+     alt="Washington Examiner at 2022-07-26 10:33:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-26T10:33:02.258745-04:00.jpg">July 26 at 10:33 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-25T22:41:07.545864-04:00.jpg">
   <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-25T22:41:07.545864-04:00.jpg"
      alt="Washington Examiner at 2022-07-25 22:41:08-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-23T09:04:29.665927-04:00.jpg">July 23 at 9:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-22T21:03:45.758088-04:00.jpg">
-  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-22T21:03:45.758088-04:00.jpg"
-     alt="Washington Examiner at 2022-07-22 21:03:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-22T21:03:45.758088-04:00.jpg">July 22 at 9:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-22T12:24:56.600243-04:00.jpg">
-  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-22T12:24:56.600243-04:00.jpg"
-     alt="Washington Examiner at 2022-07-22 12:25:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-22T12:24:56.600243-04:00.jpg">July 22 at 12:25 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 208 hyperlink lists with the Internet Archive.
+The archiving routine has saved 210 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 2:35 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-26T14:34:53.054545-04:00.hyperlinks.json) |
+| [July 26 at 10:33 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-26T10:33:02.258745-04:00.hyperlinks.json) |
 | [July 25 at 10:41 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-25T22:41:07.545864-04:00.hyperlinks.json) |
 | [July 25 at 2:37 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-25T14:37:49.166896-04:00.hyperlinks.json) |
 | [July 25 at 12:40 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-25T12:40:46.598195-04:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:44 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-24T11:44:17.640257-04:00.hyperlinks.json) |
 | [July 24 at 7:56 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-24T07:56:15.726082-04:00.hyperlinks.json) |
 | [July 24 at 2:25 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-24T02:25:41.309948-04:00.hyperlinks.json) |
-| [July 23 at 12:11 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-23T12:11:17.855531-04:00.hyperlinks.json) |
-| [July 23 at 9:04 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-07-23T09:04:29.665927-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/binjreports-2022/binjreports-2022-07-26T19:04:20.522471-04:00.jpg">
+  <img src="https://archive.org/download/binjreports-2022/binjreports-2022-07-26T19:04:20.522471-04:00.jpg"
+     alt="Boston Institute for Nonprofit Journalism at 2022-07-26 19:04:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-07-26T19:04:20.522471-04:00.jpg">July 26 at 7:04 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/binjreports-2022/binjreports-2022-07-26T07:12:23.208995-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-07-21T08:51:29.310219-04:00.jpg">July 21 at 8:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/binjreports-2022/binjreports-2022-07-20T21:05:37.217514-04:00.jpg">
-  <img src="https://archive.org/download/binjreports-2022/binjreports-2022-07-20T21:05:37.217514-04:00.jpg"
-     alt="Boston Institute for Nonprofit Journalism at 2022-07-20 21:05:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-07-20T21:05:37.217514-04:00.jpg">July 20 at 9:05 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 37 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:04 PM](https://archive.org/download/binjreports-2022/binjreports-2022-07-26T19:04:20.522471-04:00.hyperlinks.json) |
 | [July 26 at 7:12 AM](https://archive.org/download/binjreports-2022/binjreports-2022-07-26T07:12:23.208995-04:00.hyperlinks.json) |
 | [July 25 at 7:07 PM](https://archive.org/download/binjreports-2022/binjreports-2022-07-25T19:07:41.275000-04:00.hyperlinks.json) |
 | [July 25 at 7:00 AM](https://archive.org/download/binjreports-2022/binjreports-2022-07-25T07:00:05.752730-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:58 AM](https://archive.org/download/binjreports-2022/binjreports-2022-07-23T08:57:58.579409-04:00.hyperlinks.json) |
 | [July 22 at 8:58 PM](https://archive.org/download/binjreports-2022/binjreports-2022-07-22T20:58:23.614807-04:00.hyperlinks.json) |
 | [July 22 at 8:58 AM](https://archive.org/download/binjreports-2022/binjreports-2022-07-22T08:58:43.160681-04:00.hyperlinks.json) |
-| [July 21 at 9:06 PM](https://archive.org/download/binjreports-2022/binjreports-2022-07-21T21:06:28.318963-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

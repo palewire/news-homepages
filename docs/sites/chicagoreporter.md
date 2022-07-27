@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 102 screenshots with the Internet Archive.
+The archiving routine has saved 104 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T18:06:38.389025-05:00.jpg">
+  <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T18:06:38.389025-05:00.jpg"
+     alt="Chicago Reporter at 2022-07-26 18:06:39-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T18:06:38.389025-05:00.jpg">July 26 at 6:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T10:59:53.607063-05:00.jpg">
+  <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T10:59:53.607063-05:00.jpg"
+     alt="Chicago Reporter at 2022-07-26 10:59:55-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T10:59:53.607063-05:00.jpg">July 26 at 10:59 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T06:15:15.378818-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T06:15:15.378818-05:00.jpg"
      alt="Chicago Reporter at 2022-07-26 06:15:16-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T20:01:17.942782-05:00.jpg">July 22 at 8:01 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T11:23:41.670934-05:00.jpg">
-  <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T11:23:41.670934-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-22 11:23:42-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T11:23:41.670934-05:00.jpg">July 22 at 11:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T08:00:51.686120-05:00.jpg">
-  <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T08:00:51.686120-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-22 08:00:53-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T08:00:51.686120-05:00.jpg">July 22 at 8:00 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 102 hyperlink lists with the Internet Archive.
+The archiving routine has saved 104 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 6:06 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T18:06:38.389025-05:00.hyperlinks.json) |
+| [July 26 at 10:59 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T10:59:53.607063-05:00.hyperlinks.json) |
 | [July 26 at 6:15 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T06:15:15.378818-05:00.hyperlinks.json) |
 | [July 25 at 6:10 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T18:10:36.960963-05:00.hyperlinks.json) |
 | [July 25 at 11:35 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T11:35:12.767011-05:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 10:46 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T10:46:33.923444-05:00.hyperlinks.json) |
 | [July 24 at 6:02 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T06:02:01.656749-05:00.hyperlinks.json) |
 | [July 23 at 6:03 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-23T18:03:12.543519-05:00.hyperlinks.json) |
-| [July 23 at 8:00 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-23T07:59:59.025721-05:00.hyperlinks.json) |
-| [July 22 at 8:01 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-22T20:01:17.942782-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

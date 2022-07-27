@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 41 screenshots with the Internet Archive.
+The archiving routine has saved 42 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 41 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-07-26T15:35:27.040611+01:00.jpg">
+  <img src="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-07-26T15:35:27.040611+01:00.jpg"
+     alt="Daily Herald at 2022-07-26 15:35:28+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-07-26T15:35:27.040611+01:00.jpg">July 26 at 3:35 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-07-26T03:43:31.265106+01:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-07-20T15:25:11.022058+01:00.jpg">July 20 at 3:25 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-07-19T15:16:44.634906+01:00.jpg">
-  <img src="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-07-19T15:16:44.634906+01:00.jpg"
-     alt="Daily Herald at 2022-07-19 15:16:46+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-07-19T15:16:44.634906+01:00.jpg">July 19 at 3:16 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 37 hyperlink lists with the Internet Archive.
+The archiving routine has saved 38 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 3:35 PM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-07-26T15:35:27.040611+01:00.hyperlinks.json) |
 | [July 26 at 3:43 AM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-07-26T03:43:31.265106+01:00.hyperlinks.json) |
 | [July 25 at 1:05 PM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-07-25T13:05:30.038539+01:00.hyperlinks.json) |
 | [July 25 at 2:09 AM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-07-25T02:09:32.956834+01:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 3:22 AM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-07-22T03:22:21.964735+01:00.hyperlinks.json) |
 | [July 21 at 3:09 PM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-07-21T15:09:46.853372+01:00.hyperlinks.json) |
 | [July 21 at 3:24 AM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-07-21T03:24:39.672498+01:00.hyperlinks.json) |
-| [July 20 at 3:25 PM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-07-20T15:25:11.022058+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

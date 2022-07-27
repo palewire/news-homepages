@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 80 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 80 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-26T09:27:21.162856-04:00.jpg">
+  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-26T09:27:21.162856-04:00.jpg"
+     alt="Clarion Ledger at 2022-07-26 09:27:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-26T09:27:21.162856-04:00.jpg">July 26 at 9:27 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-25T22:59:29.229563-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-21T08:55:21.925284-04:00.jpg">July 21 at 8:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-20T21:07:51.126432-04:00.jpg">
-  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-20T21:07:51.126432-04:00.jpg"
-     alt="Clarion Ledger at 2022-07-20 21:07:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-20T21:07:51.126432-04:00.jpg">July 20 at 9:07 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 80 hyperlink lists with the Internet Archive.
+The archiving routine has saved 81 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:27 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-26T09:27:21.162856-04:00.hyperlinks.json) |
 | [July 25 at 10:59 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-25T22:59:29.229563-04:00.hyperlinks.json) |
 | [July 25 at 9:33 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-25T21:33:25.508454-04:00.hyperlinks.json) |
 | [July 25 at 7:02 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-25T07:02:49.096713-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 9:02 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-22T21:01:57.483612-04:00.hyperlinks.json) |
 | [July 22 at 9:01 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-22T09:01:28.138213-04:00.hyperlinks.json) |
 | [July 21 at 9:09 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-21T21:09:09.010353-04:00.hyperlinks.json) |
-| [July 21 at 8:55 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-21T08:55:21.925284-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

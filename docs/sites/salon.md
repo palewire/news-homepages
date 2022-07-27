@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 24 screenshots with the Internet Archive.
+The archiving routine has saved 26 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salon-2022/salon-2022-07-26T14:37:09.615955-04:00.jpg">
+  <img src="https://archive.org/download/salon-2022/salon-2022-07-26T14:37:09.615955-04:00.jpg"
+     alt="Salon at 2022-07-26 14:37:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salon-2022/salon-2022-07-26T14:37:09.615955-04:00.jpg">July 26 at 2:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salon-2022/salon-2022-07-26T11:44:53.566861-04:00.jpg">
+  <img src="https://archive.org/download/salon-2022/salon-2022-07-26T11:44:53.566861-04:00.jpg"
+     alt="Salon at 2022-07-26 11:44:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salon-2022/salon-2022-07-26T11:44:53.566861-04:00.jpg">July 26 at 11:44 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/salon-2022/salon-2022-07-25T23:56:17.251070-04:00.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/salon-2022/salon-2022-07-23T11:09:05.242610-04:00.jpg">July 23 at 11:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/salon-2022/salon-2022-07-22T23:38:41.793898-04:00.jpg">
-  <img src="https://archive.org/download/salon-2022/salon-2022-07-22T23:38:41.793898-04:00.jpg"
-     alt="Salon at 2022-07-22 23:38:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salon-2022/salon-2022-07-22T23:38:41.793898-04:00.jpg">July 22 at 11:38 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/salon-2022/salon-2022-07-22T12:12:06.046452-04:00.jpg">
-  <img src="https://archive.org/download/salon-2022/salon-2022-07-22T12:12:06.046452-04:00.jpg"
-     alt="Salon at 2022-07-22 12:12:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salon-2022/salon-2022-07-22T12:12:06.046452-04:00.jpg">July 22 at 12:12 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 24 hyperlink lists with the Internet Archive.
+The archiving routine has saved 26 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 2:37 PM](https://archive.org/download/salon-2022/salon-2022-07-26T14:37:09.615955-04:00.hyperlinks.json) |
+| [July 26 at 11:44 AM](https://archive.org/download/salon-2022/salon-2022-07-26T11:44:53.566861-04:00.hyperlinks.json) |
 | [July 25 at 11:56 PM](https://archive.org/download/salon-2022/salon-2022-07-25T23:56:17.251070-04:00.hyperlinks.json) |
 | [July 25 at 2:40 PM](https://archive.org/download/salon-2022/salon-2022-07-25T14:40:54.258299-04:00.hyperlinks.json) |
 | [July 25 at 12:37 PM](https://archive.org/download/salon-2022/salon-2022-07-25T12:37:31.690849-04:00.hyperlinks.json) |
@@ -156,8 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 10:03 AM](https://archive.org/download/salon-2022/salon-2022-07-24T10:02:59.264678-04:00.hyperlinks.json) |
 | [July 24 at 2:22 AM](https://archive.org/download/salon-2022/salon-2022-07-24T02:22:09.473261-04:00.hyperlinks.json) |
 | [July 23 at 2:13 PM](https://archive.org/download/salon-2022/salon-2022-07-23T14:13:17.515987-04:00.hyperlinks.json) |
-| [July 23 at 11:09 AM](https://archive.org/download/salon-2022/salon-2022-07-23T11:09:05.242610-04:00.hyperlinks.json) |
-| [July 22 at 11:38 PM](https://archive.org/download/salon-2022/salon-2022-07-22T23:38:41.793898-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

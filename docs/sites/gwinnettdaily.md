@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 13 screenshots with the Internet Archive.
+The archiving routine has saved 14 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-26T19:11:10.566497-04:00.jpg">
+  <img src="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-26T19:11:10.566497-04:00.jpg"
+     alt="Gwinnett Daily Post at 2022-07-26 19:11:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-26T19:11:10.566497-04:00.jpg">July 26 at 7:11 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-26T07:19:13.380829-04:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-21T10:11:41.239814-04:00.jpg">July 21 at 10:11 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-20T22:24:51.890811-04:00.jpg">
-  <img src="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-20T22:24:51.890811-04:00.jpg"
-     alt="Gwinnett Daily Post at 2022-07-20 22:24:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-20T22:24:51.890811-04:00.jpg">July 20 at 10:24 PM</a></p>
 </div>
 
 </div>

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-26T08:45:12.211006-07:00.jpg">
+  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-26T08:45:12.211006-07:00.jpg"
+     alt="Seattle Times at 2022-07-26 08:45:13-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-26T08:45:12.211006-07:00.jpg">July 26 at 8:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-25T20:56:39.410272-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-20T21:25:55.364382-07:00.jpg">July 20 at 9:25 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-20T09:42:44.352818-07:00.jpg">
-  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-20T09:42:44.352818-07:00.jpg"
-     alt="Seattle Times at 2022-07-20 09:42:45-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-20T09:42:44.352818-07:00.jpg">July 20 at 9:42 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:45 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-26T08:45:12.211006-07:00.hyperlinks.json) |
 | [July 25 at 8:56 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-25T20:56:39.410272-07:00.hyperlinks.json) |
 | [July 25 at 8:42 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-25T08:42:10.912306-07:00.hyperlinks.json) |
 | [July 24 at 8:43 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-24T20:43:23.981749-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 9:21 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-22T21:21:48.860726-07:00.hyperlinks.json) |
 | [July 22 at 9:14 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-22T09:14:25.752819-07:00.hyperlinks.json) |
 | [July 21 at 9:28 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-21T21:28:09.399211-07:00.hyperlinks.json) |
-| [July 21 at 9:51 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-21T09:51:41.506018-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

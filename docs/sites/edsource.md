@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/edsource-2022/edsource-2022-07-26T16:08:55.940914-07:00.jpg">
+  <img src="https://archive.org/download/edsource-2022/edsource-2022-07-26T16:08:55.940914-07:00.jpg"
+     alt="EdSource at 2022-07-26 16:09:00-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-26T16:08:55.940914-07:00.jpg">July 26 at 4:09 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/edsource-2022/edsource-2022-07-26T04:16:50.312200-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-21T07:04:04.828541-07:00.jpg">July 21 at 7:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/edsource-2022/edsource-2022-07-20T19:21:39.820201-07:00.jpg">
-  <img src="https://archive.org/download/edsource-2022/edsource-2022-07-20T19:21:39.820201-07:00.jpg"
-     alt="EdSource at 2022-07-20 19:21:42-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-20T19:21:39.820201-07:00.jpg">July 20 at 7:21 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 4:09 PM](https://archive.org/download/edsource-2022/edsource-2022-07-26T16:08:55.940914-07:00.hyperlinks.json) |
 | [July 26 at 4:16 AM](https://archive.org/download/edsource-2022/edsource-2022-07-26T04:16:50.312200-07:00.hyperlinks.json) |
 | [July 25 at 4:13 PM](https://archive.org/download/edsource-2022/edsource-2022-07-25T16:13:06.561440-07:00.hyperlinks.json) |
 | [July 25 at 5:00 AM](https://archive.org/download/edsource-2022/edsource-2022-07-25T05:00:10.675880-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 6:58 AM](https://archive.org/download/edsource-2022/edsource-2022-07-23T06:58:10.176707-07:00.hyperlinks.json) |
 | [July 22 at 7:24 PM](https://archive.org/download/edsource-2022/edsource-2022-07-22T19:24:29.987621-07:00.hyperlinks.json) |
 | [July 22 at 6:59 AM](https://archive.org/download/edsource-2022/edsource-2022-07-22T06:59:00.866205-07:00.hyperlinks.json) |
-| [July 21 at 7:18 PM](https://archive.org/download/edsource-2022/edsource-2022-07-21T19:18:17.200822-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

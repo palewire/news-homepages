@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 3 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-26T22:25:31.993073+09:00.jpg">
+  <img src="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-26T22:25:31.993073+09:00.jpg"
+     alt="Bloomberg Japan at 2022-07-26 22:25:38+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-26T22:25:31.993073+09:00.jpg">July 26 at 10:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-26T11:58:05.644261+09:00.jpg">
@@ -59,7 +68,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 3 hyperlink lists with the Internet Archive.
+The archiving routine has saved 4 hyperlink lists with the Internet Archive.
 
 
 
@@ -67,6 +76,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:25 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-26T22:25:31.993073+09:00.hyperlinks.json) |
 | [July 26 at 11:58 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-26T11:58:05.644261+09:00.hyperlinks.json) |
 | [July 26 at 11:36 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-26T11:36:24.714172+09:00.hyperlinks.json) |
 | [July 26 at 10:31 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-26T10:31:07.847626+09:00.hyperlinks.json) |

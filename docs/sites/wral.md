@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 189 screenshots with the Internet Archive.
+The archiving routine has saved 190 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 189 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wral-2022/wral-2022-07-26T11:50:05.976003-04:00.jpg">
+  <img src="https://archive.org/download/wral-2022/wral-2022-07-26T11:50:05.976003-04:00.jpg"
+     alt="WRAL at 2022-07-26 11:50:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wral-2022/wral-2022-07-26T11:50:05.976003-04:00.jpg">July 26 at 11:50 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wral-2022/wral-2022-07-26T00:01:54.977836-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wral-2022/wral-2022-07-21T00:33:57.678527-04:00.jpg">July 21 at 12:34 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wral-2022/wral-2022-07-20T12:50:37.037890-04:00.jpg">
-  <img src="https://archive.org/download/wral-2022/wral-2022-07-20T12:50:37.037890-04:00.jpg"
-     alt="WRAL at 2022-07-20 12:50:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wral-2022/wral-2022-07-20T12:50:37.037890-04:00.jpg">July 20 at 12:50 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 181 hyperlink lists with the Internet Archive.
+The archiving routine has saved 182 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:50 AM](https://archive.org/download/wral-2022/wral-2022-07-26T11:50:05.976003-04:00.hyperlinks.json) |
 | [July 26 at 12:02 AM](https://archive.org/download/wral-2022/wral-2022-07-26T00:01:54.977836-04:00.hyperlinks.json) |
 | [July 25 at 11:53 AM](https://archive.org/download/wral-2022/wral-2022-07-25T11:53:41.058109-04:00.hyperlinks.json) |
 | [July 25 at 12:42 AM](https://archive.org/download/wral-2022/wral-2022-07-25T00:42:00.050840-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 12:22 PM](https://archive.org/download/wral-2022/wral-2022-07-22T12:22:31.073643-04:00.hyperlinks.json) |
 | [July 22 at 12:36 AM](https://archive.org/download/wral-2022/wral-2022-07-22T00:36:18.148647-04:00.hyperlinks.json) |
 | [July 21 at 1:00 PM](https://archive.org/download/wral-2022/wral-2022-07-21T12:59:59.451004-04:00.hyperlinks.json) |
-| [July 21 at 12:34 AM](https://archive.org/download/wral-2022/wral-2022-07-21T00:33:57.678527-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

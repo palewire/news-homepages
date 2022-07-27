@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 283 screenshots with the Internet Archive.
+The archiving routine has saved 285 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-26T11:33:38.713571-07:00.jpg">
+  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-07-26T11:33:38.713571-07:00.jpg"
+     alt="KPBS at 2022-07-26 11:33:49-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-26T11:33:38.713571-07:00.jpg">July 26 at 11:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-26T07:37:48.280086-07:00.jpg">
+  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-07-26T07:37:48.280086-07:00.jpg"
+     alt="KPBS at 2022-07-26 07:37:50-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-26T07:37:48.280086-07:00.jpg">July 26 at 7:37 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-25T19:46:19.291785-07:00.jpg">
   <img src="https://archive.org/download/kpbs-2022/kpbs-2022-07-25T19:46:19.291785-07:00.jpg"
      alt="KPBS at 2022-07-25 19:46:21-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-22T19:31:32.175081-07:00.jpg">July 22 at 7:31 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-22T11:08:37.047759-07:00.jpg">
-  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-07-22T11:08:37.047759-07:00.jpg"
-     alt="KPBS at 2022-07-22 11:08:44-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-22T11:08:37.047759-07:00.jpg">July 22 at 11:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-22T07:05:51.657826-07:00.jpg">
-  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-07-22T07:05:51.657826-07:00.jpg"
-     alt="KPBS at 2022-07-22 07:06:02-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-22T07:05:51.657826-07:00.jpg">July 22 at 7:06 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 272 hyperlink lists with the Internet Archive.
+The archiving routine has saved 274 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:33 AM](https://archive.org/download/kpbs-2022/kpbs-2022-07-26T11:33:38.713571-07:00.hyperlinks.json) |
+| [July 26 at 7:37 AM](https://archive.org/download/kpbs-2022/kpbs-2022-07-26T07:37:48.280086-07:00.hyperlinks.json) |
 | [July 25 at 7:46 PM](https://archive.org/download/kpbs-2022/kpbs-2022-07-25T19:46:19.291785-07:00.hyperlinks.json) |
 | [July 25 at 11:14 AM](https://archive.org/download/kpbs-2022/kpbs-2022-07-25T11:13:49.852350-07:00.hyperlinks.json) |
 | [July 25 at 6:11 AM](https://archive.org/download/kpbs-2022/kpbs-2022-07-25T06:11:20.714284-07:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 6:00 AM](https://archive.org/download/kpbs-2022/kpbs-2022-07-24T05:59:59.813566-07:00.hyperlinks.json) |
 | [July 23 at 9:15 PM](https://archive.org/download/kpbs-2022/kpbs-2022-07-23T21:15:12.844625-07:00.hyperlinks.json) |
 | [July 23 at 11:23 AM](https://archive.org/download/kpbs-2022/kpbs-2022-07-23T11:23:38.925665-07:00.hyperlinks.json) |
-| [July 23 at 7:05 AM](https://archive.org/download/kpbs-2022/kpbs-2022-07-23T07:05:29.365340-07:00.hyperlinks.json) |
-| [July 22 at 7:31 PM](https://archive.org/download/kpbs-2022/kpbs-2022-07-22T19:31:32.175081-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

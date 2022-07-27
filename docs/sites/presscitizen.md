@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 191 screenshots with the Internet Archive.
+The archiving routine has saved 192 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 191 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-26T10:43:34.934344-05:00.jpg">
+  <img src="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-26T10:43:34.934344-05:00.jpg"
+     alt="Iowa City Press-Citizen at 2022-07-26 10:43:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-26T10:43:34.934344-05:00.jpg">July 26 at 10:43 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-25T22:55:02.416863-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-21T22:41:27.910081-05:00.jpg">July 21 at 10:41 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-21T10:37:17.562303-05:00.jpg">
-  <img src="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-21T10:37:17.562303-05:00.jpg"
-     alt="Iowa City Press-Citizen at 2022-07-21 10:37:19-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-21T10:37:17.562303-05:00.jpg">July 21 at 10:37 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 184 hyperlink lists with the Internet Archive.
+The archiving routine has saved 185 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:43 AM](https://archive.org/download/presscitizen-2022/presscitizen-2022-07-26T10:43:34.934344-05:00.hyperlinks.json) |
 | [July 25 at 10:55 PM](https://archive.org/download/presscitizen-2022/presscitizen-2022-07-25T22:55:02.416863-05:00.hyperlinks.json) |
 | [July 25 at 11:39 AM](https://archive.org/download/presscitizen-2022/presscitizen-2022-07-25T11:39:29.779759-05:00.hyperlinks.json) |
 | [July 25 at 10:38 AM](https://archive.org/download/presscitizen-2022/presscitizen-2022-07-25T10:38:14.354259-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 10:07 AM](https://archive.org/download/presscitizen-2022/presscitizen-2022-07-23T10:07:17.914471-05:00.hyperlinks.json) |
 | [July 22 at 10:36 PM](https://archive.org/download/presscitizen-2022/presscitizen-2022-07-22T22:36:34.537365-05:00.hyperlinks.json) |
 | [July 22 at 11:13 AM](https://archive.org/download/presscitizen-2022/presscitizen-2022-07-22T11:13:23.531082-05:00.hyperlinks.json) |
-| [July 22 at 10:02 AM](https://archive.org/download/presscitizen-2022/presscitizen-2022-07-22T10:02:27.525597-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

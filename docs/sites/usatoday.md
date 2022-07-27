@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 330 screenshots with the Internet Archive.
+The archiving routine has saved 333 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-26T17:12:11.250658-04:00.jpg">
+  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-07-26T17:12:11.250658-04:00.jpg"
+     alt="USA Today at 2022-07-26 17:12:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-26T17:12:11.250658-04:00.jpg">July 26 at 5:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-26T11:58:38.327783-04:00.jpg">
+  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-07-26T11:58:38.327783-04:00.jpg"
+     alt="USA Today at 2022-07-26 11:59:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-26T11:58:38.327783-04:00.jpg">July 26 at 11:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-26T09:32:20.965346-04:00.jpg">
+  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-07-26T09:32:20.965346-04:00.jpg"
+     alt="USA Today at 2022-07-26 09:32:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-26T09:32:20.965346-04:00.jpg">July 26 at 9:32 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-25T22:54:14.450588-04:00.jpg">
   <img src="https://archive.org/download/usatoday-2022/usatoday-2022-07-25T22:54:14.450588-04:00.jpg"
      alt="USA Today at 2022-07-25 22:54:15-04:00 local time"
@@ -192,38 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-24T11:09:04.107541-04:00.jpg">July 24 at 11:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-23T23:44:18.927869-04:00.jpg">
-  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-07-23T23:44:18.927869-04:00.jpg"
-     alt="USA Today at 2022-07-23 23:44:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-23T23:44:18.927869-04:00.jpg">July 23 at 11:44 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-23T17:16:27.947870-04:00.jpg">
-  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-07-23T17:16:27.947870-04:00.jpg"
-     alt="USA Today at 2022-07-23 17:16:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-23T17:16:27.947870-04:00.jpg">July 23 at 5:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-23T12:08:13.985231-04:00.jpg">
-  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-07-23T12:08:13.985231-04:00.jpg"
-     alt="USA Today at 2022-07-23 12:08:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-23T12:08:13.985231-04:00.jpg">July 23 at 12:08 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 313 hyperlink lists with the Internet Archive.
+The archiving routine has saved 316 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 5:12 PM](https://archive.org/download/usatoday-2022/usatoday-2022-07-26T17:12:11.250658-04:00.hyperlinks.json) |
+| [July 26 at 11:59 AM](https://archive.org/download/usatoday-2022/usatoday-2022-07-26T11:58:38.327783-04:00.hyperlinks.json) |
+| [July 26 at 9:32 AM](https://archive.org/download/usatoday-2022/usatoday-2022-07-26T09:32:20.965346-04:00.hyperlinks.json) |
 | [July 25 at 10:54 PM](https://archive.org/download/usatoday-2022/usatoday-2022-07-25T22:54:14.450588-04:00.hyperlinks.json) |
 | [July 25 at 9:37 PM](https://archive.org/download/usatoday-2022/usatoday-2022-07-25T21:37:43.405471-04:00.hyperlinks.json) |
 | [July 25 at 5:14 PM](https://archive.org/download/usatoday-2022/usatoday-2022-07-25T17:14:12.476771-04:00.hyperlinks.json) |
@@ -321,9 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 11:51 AM](https://archive.org/download/usatoday-2022/usatoday-2022-07-25T11:51:47.563820-04:00.hyperlinks.json) |
 | [July 25 at 12:39 AM](https://archive.org/download/usatoday-2022/usatoday-2022-07-25T00:39:48.676354-04:00.hyperlinks.json) |
 | [July 24 at 5:20 PM](https://archive.org/download/usatoday-2022/usatoday-2022-07-24T17:20:20.352041-04:00.hyperlinks.json) |
-| [July 24 at 11:13 AM](https://archive.org/download/usatoday-2022/usatoday-2022-07-24T11:13:41.553755-04:00.hyperlinks.json) |
-| [July 24 at 11:09 AM](https://archive.org/download/usatoday-2022/usatoday-2022-07-24T11:09:04.107541-04:00.hyperlinks.json) |
-| [July 23 at 11:44 PM](https://archive.org/download/usatoday-2022/usatoday-2022-07-23T23:44:18.927869-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

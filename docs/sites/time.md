@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 80 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 80 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-07-26T09:31:34.797704-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-07-26T09:31:34.797704-04:00.jpg"
+     alt="TIME at 2022-07-26 09:31:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-07-26T09:31:34.797704-04:00.jpg">July 26 at 9:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/time-2022/time-2022-07-25T22:50:59.963752-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/time-2022/time-2022-07-21T12:56:39.012576-04:00.jpg">July 21 at 12:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-07-21T00:30:36.739736-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-07-21T00:30:36.739736-04:00.jpg"
-     alt="TIME at 2022-07-21 00:30:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-07-21T00:30:36.739736-04:00.jpg">July 21 at 12:30 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 77 hyperlink lists with the Internet Archive.
+The archiving routine has saved 78 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:31 AM](https://archive.org/download/time-2022/time-2022-07-26T09:31:34.797704-04:00.hyperlinks.json) |
 | [July 25 at 10:51 PM](https://archive.org/download/time-2022/time-2022-07-25T22:50:59.963752-04:00.hyperlinks.json) |
 | [July 25 at 9:37 PM](https://archive.org/download/time-2022/time-2022-07-25T21:37:14.999651-04:00.hyperlinks.json) |
 | [July 25 at 11:49 AM](https://archive.org/download/time-2022/time-2022-07-25T11:49:43.142075-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 12:27 AM](https://archive.org/download/time-2022/time-2022-07-23T00:27:18.516989-04:00.hyperlinks.json) |
 | [July 22 at 12:19 PM](https://archive.org/download/time-2022/time-2022-07-22T12:19:14.340741-04:00.hyperlinks.json) |
 | [July 22 at 12:33 AM](https://archive.org/download/time-2022/time-2022-07-22T00:33:03.257423-04:00.hyperlinks.json) |
-| [July 21 at 12:56 PM](https://archive.org/download/time-2022/time-2022-07-21T12:56:39.012576-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

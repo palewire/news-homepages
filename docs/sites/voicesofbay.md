@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-26T08:49:16.585114-07:00.jpg">
+  <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-26T08:49:16.585114-07:00.jpg"
+     alt="Voices of Monterey Bay at 2022-07-26 08:49:18-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-26T08:49:16.585114-07:00.jpg">July 26 at 8:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-25T21:01:46.969284-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-20T21:32:49.436829-07:00.jpg">July 20 at 9:32 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-20T09:49:38.389294-07:00.jpg">
-  <img src="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-20T09:49:38.389294-07:00.jpg"
-     alt="Voices of Monterey Bay at 2022-07-20 09:49:40-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-20T09:49:38.389294-07:00.jpg">July 20 at 9:49 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:49 AM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-26T08:49:16.585114-07:00.hyperlinks.json) |
 | [July 25 at 9:01 PM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-25T21:01:46.969284-07:00.hyperlinks.json) |
 | [July 25 at 8:52 AM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-25T08:52:14.254883-07:00.hyperlinks.json) |
 | [July 24 at 9:41 PM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-24T21:41:10.929280-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 9:28 PM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T21:28:28.845744-07:00.hyperlinks.json) |
 | [July 22 at 9:21 AM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-22T09:21:20.308404-07:00.hyperlinks.json) |
 | [July 21 at 9:35 PM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T21:35:14.531240-07:00.hyperlinks.json) |
-| [July 21 at 9:59 AM](https://archive.org/download/voicesofbay-2022/voicesofbay-2022-07-21T09:59:00.973089-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

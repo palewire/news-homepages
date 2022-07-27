@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T14:36:31.019637-04:00.jpg">
+  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T14:36:31.019637-04:00.jpg"
+     alt="WND News at 2022-07-26 14:36:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T14:36:31.019637-04:00.jpg">July 26 at 2:36 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T11:50:20.690078-04:00.jpg">
+  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T11:50:20.690078-04:00.jpg"
+     alt="WND News at 2022-07-26 11:50:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T11:50:20.690078-04:00.jpg">July 26 at 11:50 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T00:01:50.870694-04:00.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-23T12:09:57.214402-04:00.jpg">July 23 at 12:09 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-23T00:29:14.450572-04:00.jpg">
-  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-23T00:29:14.450572-04:00.jpg"
-     alt="WND News at 2022-07-23 00:29:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-23T00:29:14.450572-04:00.jpg">July 23 at 12:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-22T12:25:47.269345-04:00.jpg">
-  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-22T12:25:47.269345-04:00.jpg"
-     alt="WND News at 2022-07-22 12:25:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-22T12:25:47.269345-04:00.jpg">July 22 at 12:25 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 24 hyperlink lists with the Internet Archive.
+The archiving routine has saved 26 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 2:36 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T14:36:31.019637-04:00.hyperlinks.json) |
+| [July 26 at 11:50 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T11:50:20.690078-04:00.hyperlinks.json) |
 | [July 26 at 12:02 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T00:01:50.870694-04:00.hyperlinks.json) |
 | [July 25 at 2:40 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T14:39:59.039455-04:00.hyperlinks.json) |
 | [July 25 at 12:42 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T12:42:24.059798-04:00.hyperlinks.json) |
@@ -156,8 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:45 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-24T11:45:26.885007-04:00.hyperlinks.json) |
 | [July 23 at 11:47 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-23T23:47:27.130110-04:00.hyperlinks.json) |
 | [July 23 at 12:12 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-23T12:11:56.386899-04:00.hyperlinks.json) |
-| [July 23 at 12:29 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-23T00:29:14.450572-04:00.hyperlinks.json) |
-| [July 22 at 12:25 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-22T12:25:47.269345-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

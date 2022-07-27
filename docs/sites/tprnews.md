@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-26T08:31:57.342116-05:00.jpg">
+  <img src="https://archive.org/download/tprnews-2022/tprnews-2022-07-26T08:31:57.342116-05:00.jpg"
+     alt="Texas Public Radio at 2022-07-26 08:31:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-26T08:31:57.342116-05:00.jpg">July 26 at 8:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-25T21:50:23.890851-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-21T11:57:03.586963-05:00.jpg">July 21 at 11:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-20T23:31:13.850897-05:00.jpg">
-  <img src="https://archive.org/download/tprnews-2022/tprnews-2022-07-20T23:31:13.850897-05:00.jpg"
-     alt="Texas Public Radio at 2022-07-20 23:31:15-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-07-20T23:31:13.850897-05:00.jpg">July 20 at 11:31 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:32 AM](https://archive.org/download/tprnews-2022/tprnews-2022-07-26T08:31:57.342116-05:00.hyperlinks.json) |
 | [July 25 at 9:50 PM](https://archive.org/download/tprnews-2022/tprnews-2022-07-25T21:50:23.890851-05:00.hyperlinks.json) |
 | [July 25 at 8:36 PM](https://archive.org/download/tprnews-2022/tprnews-2022-07-25T20:36:52.290143-05:00.hyperlinks.json) |
 | [July 25 at 10:50 AM](https://archive.org/download/tprnews-2022/tprnews-2022-07-25T10:50:24.489294-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:07 AM](https://archive.org/download/tprnews-2022/tprnews-2022-07-23T11:07:09.824313-05:00.hyperlinks.json) |
 | [July 22 at 11:27 PM](https://archive.org/download/tprnews-2022/tprnews-2022-07-22T23:27:04.330126-05:00.hyperlinks.json) |
 | [July 22 at 11:20 AM](https://archive.org/download/tprnews-2022/tprnews-2022-07-22T11:20:14.730493-05:00.hyperlinks.json) |
-| [July 21 at 11:33 PM](https://archive.org/download/tprnews-2022/tprnews-2022-07-21T23:33:46.881389-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 49 screenshots with the Internet Archive.
+The archiving routine has saved 50 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 49 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nymag-2022/nymag-2022-07-26T20:17:02.234818-04:00.jpg">
+  <img src="https://archive.org/download/nymag-2022/nymag-2022-07-26T20:17:02.234818-04:00.jpg"
+     alt="New York at 2022-07-26 20:17:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-26T20:17:02.234818-04:00.jpg">July 26 at 8:17 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-26T08:26:46.639457-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-21T11:34:52.888266-04:00.jpg">July 21 at 11:34 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nymag-2022/nymag-2022-07-20T23:37:08.362941-04:00.jpg">
-  <img src="https://archive.org/download/nymag-2022/nymag-2022-07-20T23:37:08.362941-04:00.jpg"
-     alt="New York at 2022-07-20 23:37:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-20T23:37:08.362941-04:00.jpg">July 20 at 11:37 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:17 PM](https://archive.org/download/nymag-2022/nymag-2022-07-26T20:17:02.234818-04:00.hyperlinks.json) |
 | [July 26 at 8:26 AM](https://archive.org/download/nymag-2022/nymag-2022-07-26T08:26:46.639457-04:00.hyperlinks.json) |
 | [July 25 at 8:21 PM](https://archive.org/download/nymag-2022/nymag-2022-07-25T20:21:42.348356-04:00.hyperlinks.json) |
 | [July 25 at 11:34 AM](https://archive.org/download/nymag-2022/nymag-2022-07-25T11:34:43.805849-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:04 AM](https://archive.org/download/nymag-2022/nymag-2022-07-23T11:04:44.675159-04:00.hyperlinks.json) |
 | [July 22 at 11:34 PM](https://archive.org/download/nymag-2022/nymag-2022-07-22T23:34:37.529170-04:00.hyperlinks.json) |
 | [July 22 at 11:00 AM](https://archive.org/download/nymag-2022/nymag-2022-07-22T11:00:12.949201-04:00.hyperlinks.json) |
-| [July 21 at 11:39 PM](https://archive.org/download/nymag-2022/nymag-2022-07-21T23:39:18.711714-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

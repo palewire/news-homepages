@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 59 screenshots with the Internet Archive.
+The archiving routine has saved 60 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 59 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mashable-2022/mashable-2022-07-26T07:39:36.486695-07:00.jpg">
+  <img src="https://archive.org/download/mashable-2022/mashable-2022-07-26T07:39:36.486695-07:00.jpg"
+     alt="Mashable at 2022-07-26 07:39:38-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mashable-2022/mashable-2022-07-26T07:39:36.486695-07:00.jpg">July 26 at 7:39 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mashable-2022/mashable-2022-07-25T19:47:38.687789-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mashable-2022/mashable-2022-07-21T08:29:16.601282-07:00.jpg">July 21 at 8:29 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mashable-2022/mashable-2022-07-20T20:33:48.940300-07:00.jpg">
-  <img src="https://archive.org/download/mashable-2022/mashable-2022-07-20T20:33:48.940300-07:00.jpg"
-     alt="Mashable at 2022-07-20 20:33:50-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mashable-2022/mashable-2022-07-20T20:33:48.940300-07:00.jpg">July 20 at 8:33 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 56 hyperlink lists with the Internet Archive.
+The archiving routine has saved 57 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:39 AM](https://archive.org/download/mashable-2022/mashable-2022-07-26T07:39:36.486695-07:00.hyperlinks.json) |
 | [July 25 at 7:47 PM](https://archive.org/download/mashable-2022/mashable-2022-07-25T19:47:38.687789-07:00.hyperlinks.json) |
 | [July 25 at 6:13 AM](https://archive.org/download/mashable-2022/mashable-2022-07-25T06:13:52.979245-07:00.hyperlinks.json) |
 | [July 24 at 11:46 PM](https://archive.org/download/mashable-2022/mashable-2022-07-24T23:46:43.609368-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:00 AM](https://archive.org/download/mashable-2022/mashable-2022-07-23T08:00:51.310742-07:00.hyperlinks.json) |
 | [July 22 at 8:31 PM](https://archive.org/download/mashable-2022/mashable-2022-07-22T20:31:01.413914-07:00.hyperlinks.json) |
 | [July 22 at 7:56 AM](https://archive.org/download/mashable-2022/mashable-2022-07-22T07:56:37.211576-07:00.hyperlinks.json) |
-| [July 21 at 8:35 PM](https://archive.org/download/mashable-2022/mashable-2022-07-21T20:34:55.718797-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

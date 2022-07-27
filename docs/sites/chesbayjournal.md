@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 35 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T19:06:32.581974-04:00.jpg">
+  <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T19:06:32.581974-04:00.jpg"
+     alt="Chesapeake Bay Journal at 2022-07-26 19:06:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T19:06:32.581974-04:00.jpg">July 26 at 7:06 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T07:14:06.071333-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-20T21:07:06.139896-04:00.jpg">July 20 at 9:07 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-20T08:55:19.286183-04:00.jpg">
-  <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-20T08:55:19.286183-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-20 08:55:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-20T08:55:19.286183-04:00.jpg">July 20 at 8:55 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 37 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:06 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T19:06:32.581974-04:00.hyperlinks.json) |
 | [July 26 at 7:14 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T07:14:06.071333-04:00.hyperlinks.json) |
 | [July 25 at 7:10 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T19:10:22.771653-04:00.hyperlinks.json) |
 | [July 25 at 7:01 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T07:01:49.101099-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:59 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T08:59:35.364126-04:00.hyperlinks.json) |
 | [July 22 at 9:01 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-22T21:00:56.971492-04:00.hyperlinks.json) |
 | [July 22 at 9:00 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-22T09:00:05.168218-04:00.hyperlinks.json) |
-| [July 21 at 9:08 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-21T21:08:01.768289-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

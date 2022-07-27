@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 267 screenshots with the Internet Archive.
+The archiving routine has saved 268 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 267 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-27T03:13:12.661691+03:00.jpg">
+  <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-27T03:13:12.661691+03:00.jpg"
+     alt="KyivPost at 2022-07-27 03:13:19+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-27T03:13:12.661691+03:00.jpg">July 27 at 3:13 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-26T15:22:41.310383+03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-21T17:16:46.919661+03:00.jpg">July 21 at 5:16 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-21T05:28:43.877651+03:00.jpg">
-  <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-21T05:28:43.877651+03:00.jpg"
-     alt="KyivPost at 2022-07-21 05:28:50+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-07-21T05:28:43.877651+03:00.jpg">July 21 at 5:28 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 247 hyperlink lists with the Internet Archive.
+The archiving routine has saved 248 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 3:13 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-07-27T03:13:12.661691+03:00.hyperlinks.json) |
 | [July 26 at 3:22 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-07-26T15:22:41.310383+03:00.hyperlinks.json) |
 | [July 26 at 3:17 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-07-26T03:17:20.025544+03:00.hyperlinks.json) |
 | [July 25 at 4:12 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-07-25T16:12:39.986770+03:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 5:06 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-07-23T17:06:27.810303+03:00.hyperlinks.json) |
 | [July 23 at 5:32 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-07-23T05:31:59.036611+03:00.hyperlinks.json) |
 | [July 22 at 5:06 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-07-22T17:06:28.019037+03:00.hyperlinks.json) |
-| [July 22 at 5:27 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-07-22T05:26:47.150923+03:00.hyperlinks.json) |
 
 
 ## Internet Archive

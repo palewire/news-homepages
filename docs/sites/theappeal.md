@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theappeal-2022/theappeal-2022-07-26T11:47:29.020436-04:00.jpg">
+  <img src="https://archive.org/download/theappeal-2022/theappeal-2022-07-26T11:47:29.020436-04:00.jpg"
+     alt="Appeal at 2022-07-26 11:47:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-07-26T11:47:29.020436-04:00.jpg">July 26 at 11:47 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theappeal-2022/theappeal-2022-07-25T23:58:39.924540-04:00.jpg">
@@ -77,7 +86,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
 
 
@@ -85,6 +94,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:47 AM](https://archive.org/download/theappeal-2022/theappeal-2022-07-26T11:47:29.020436-04:00.hyperlinks.json) |
 | [July 25 at 11:58 PM](https://archive.org/download/theappeal-2022/theappeal-2022-07-25T23:58:39.924540-04:00.hyperlinks.json) |
 | [July 25 at 11:46 AM](https://archive.org/download/theappeal-2022/theappeal-2022-07-25T11:46:03.305214-04:00.hyperlinks.json) |
 | [July 25 at 12:35 AM](https://archive.org/download/theappeal-2022/theappeal-2022-07-25T00:34:59.554211-04:00.hyperlinks.json) |

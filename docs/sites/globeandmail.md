@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 68 screenshots with the Internet Archive.
+The archiving routine has saved 69 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 68 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-07-26T10:35:20.914751-04:00.jpg">
+  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-07-26T10:35:20.914751-04:00.jpg"
+     alt="The Globe and Mail at 2022-07-26 10:35:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-07-26T10:35:20.914751-04:00.jpg">July 26 at 10:35 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-07-25T22:43:04.937750-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-07-20T22:24:44.286022-04:00.jpg">July 20 at 10:24 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-07-20T10:24:32.830101-04:00.jpg">
-  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-07-20T10:24:32.830101-04:00.jpg"
-     alt="The Globe and Mail at 2022-07-20 10:24:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-07-20T10:24:32.830101-04:00.jpg">July 20 at 10:24 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 70 hyperlink lists with the Internet Archive.
+The archiving routine has saved 71 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:35 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-07-26T10:35:20.914751-04:00.hyperlinks.json) |
 | [July 25 at 10:43 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-07-25T22:43:04.937750-04:00.hyperlinks.json) |
 | [July 25 at 8:04 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-07-25T08:04:16.251699-04:00.hyperlinks.json) |
 | [July 24 at 9:09 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-07-24T21:09:15.493244-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 10:27 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-07-22T22:27:42.204196-04:00.hyperlinks.json) |
 | [July 22 at 10:02 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-07-22T10:02:27.539594-04:00.hyperlinks.json) |
 | [July 21 at 10:22 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-07-21T22:22:26.865398-04:00.hyperlinks.json) |
-| [July 21 at 10:09 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-07-21T10:09:42.651417-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

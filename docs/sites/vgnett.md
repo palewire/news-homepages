@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 13 screenshots with the Internet Archive.
+The archiving routine has saved 14 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-26T17:49:01.511873+02:00.jpg">
+  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-07-26T17:49:01.511873+02:00.jpg"
+     alt="VG at 2022-07-26 17:49:03+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-26T17:49:01.511873+02:00.jpg">July 26 at 5:49 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-26T06:00:26.797056+02:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-21T06:32:32.539192+02:00.jpg">July 21 at 6:32 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-20T18:49:18.815072+02:00.jpg">
-  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-07-20T18:49:18.815072+02:00.jpg"
-     alt="VG at 2022-07-20 18:49:20+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-20T18:49:18.815072+02:00.jpg">July 20 at 6:49 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 13 hyperlink lists with the Internet Archive.
+The archiving routine has saved 14 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 5:49 PM](https://archive.org/download/vgnett-2022/vgnett-2022-07-26T17:49:01.511873+02:00.hyperlinks.json) |
 | [July 26 at 6:00 AM](https://archive.org/download/vgnett-2022/vgnett-2022-07-26T06:00:26.797056+02:00.hyperlinks.json) |
 | [July 25 at 5:51 PM](https://archive.org/download/vgnett-2022/vgnett-2022-07-25T17:51:40.973853+02:00.hyperlinks.json) |
 | [July 25 at 6:40 AM](https://archive.org/download/vgnett-2022/vgnett-2022-07-25T06:40:02.679981+02:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 6:28 AM](https://archive.org/download/vgnett-2022/vgnett-2022-07-23T06:28:06.205071+02:00.hyperlinks.json) |
 | [July 22 at 6:21 PM](https://archive.org/download/vgnett-2022/vgnett-2022-07-22T18:21:08.485881+02:00.hyperlinks.json) |
 | [July 22 at 6:35 AM](https://archive.org/download/vgnett-2022/vgnett-2022-07-22T06:34:52.512232+02:00.hyperlinks.json) |
-| [July 21 at 6:58 PM](https://archive.org/download/vgnett-2022/vgnett-2022-07-21T18:58:04.240393+02:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-26T19:05:33.082177-04:00.jpg">
+  <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-26T19:05:33.082177-04:00.jpg"
+     alt="Bucks County Herald at 2022-07-26 19:05:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-26T19:05:33.082177-04:00.jpg">July 26 at 7:05 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-26T07:13:40.084987-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-21T08:53:09.964724-04:00.jpg">July 21 at 8:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-20T21:05:18.984849-04:00.jpg">
-  <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-20T21:05:18.984849-04:00.jpg"
-     alt="Bucks County Herald at 2022-07-20 21:05:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-20T21:05:18.984849-04:00.jpg">July 20 at 9:05 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 37 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:05 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-26T19:05:33.082177-04:00.hyperlinks.json) |
 | [July 26 at 7:13 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-26T07:13:40.084987-04:00.hyperlinks.json) |
 | [July 25 at 7:08 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-25T19:08:35.847156-04:00.hyperlinks.json) |
 | [July 25 at 7:01 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-25T07:01:14.437300-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:58 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-23T08:58:13.894817-04:00.hyperlinks.json) |
 | [July 22 at 8:59 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-22T20:59:30.662329-04:00.hyperlinks.json) |
 | [July 22 at 8:59 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-22T08:59:18.033553-04:00.hyperlinks.json) |
-| [July 21 at 9:07 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-21T21:07:36.087968-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

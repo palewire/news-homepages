@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 35 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-26T10:48:08.681337-05:00.jpg">
+  <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-26T10:48:08.681337-05:00.jpg"
+     alt="Lens at 2022-07-26 10:48:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-26T10:48:08.681337-05:00.jpg">July 26 at 10:48 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-25T22:59:52.952285-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-20T23:29:10.072877-05:00.jpg">July 20 at 11:29 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-20T11:45:57.550406-05:00.jpg">
-  <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-20T11:45:57.550406-05:00.jpg"
-     alt="Lens at 2022-07-20 11:46:00-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-20T11:45:57.550406-05:00.jpg">July 20 at 11:46 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:48 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-26T10:48:08.681337-05:00.hyperlinks.json) |
 | [July 25 at 10:59 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-25T22:59:52.952285-05:00.hyperlinks.json) |
 | [July 25 at 10:47 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-25T10:47:56.085295-05:00.hyperlinks.json) |
 | [July 24 at 11:36 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-24T23:36:40.100982-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:25 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-22T23:25:48.125744-05:00.hyperlinks.json) |
 | [July 22 at 11:18 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-22T11:18:27.985155-05:00.hyperlinks.json) |
 | [July 21 at 11:31 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-21T23:31:50.329730-05:00.hyperlinks.json) |
-| [July 21 at 11:55 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-21T11:55:52.223931-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

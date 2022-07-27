@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-26T18:00:57.644347-05:00.jpg">
+  <img src="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-26T18:00:57.644347-05:00.jpg"
+     alt="12 News Now at 2022-07-26 18:01:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-26T18:00:57.644347-05:00.jpg">July 26 at 6:01 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-26T06:09:26.054286-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-21T07:49:51.600285-05:00.jpg">July 21 at 7:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-20T20:01:34.326315-05:00.jpg">
-  <img src="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-20T20:01:34.326315-05:00.jpg"
-     alt="12 News Now at 2022-07-20 20:01:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-20T20:01:34.326315-05:00.jpg">July 20 at 8:01 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 6:01 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-26T18:00:57.644347-05:00.hyperlinks.json) |
 | [July 26 at 6:09 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-26T06:09:26.054286-05:00.hyperlinks.json) |
 | [July 25 at 6:04 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-25T18:04:49.761445-05:00.hyperlinks.json) |
 | [July 25 at 5:56 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-25T05:56:43.795672-05:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 7:54 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-23T07:53:59.015886-05:00.hyperlinks.json) |
 | [July 22 at 7:54 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-22T19:54:46.799363-05:00.hyperlinks.json) |
 | [July 22 at 7:54 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-22T07:54:50.198999-05:00.hyperlinks.json) |
-| [July 21 at 8:03 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-21T20:03:28.070109-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

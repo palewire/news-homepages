@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 15 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-26T07:24:06.768448-06:00.jpg">
+  <img src="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-26T07:24:06.768448-06:00.jpg"
+     alt="Albuquerque Business First at 2022-07-26 07:24:08-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-26T07:24:06.768448-06:00.jpg">July 26 at 7:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-25T20:55:43.609934-06:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-20T06:50:21.153612-06:00.jpg">July 20 at 6:50 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-19T18:57:26.426957-06:00.jpg">
-  <img src="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-19T18:57:26.426957-06:00.jpg"
-     alt="Albuquerque Business First at 2022-07-19 18:57:28-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-19T18:57:26.426957-06:00.jpg">July 19 at 6:57 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 17 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:24 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-26T07:24:06.768448-06:00.hyperlinks.json) |
 | [July 25 at 8:55 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-25T20:55:43.609934-06:00.hyperlinks.json) |
 | [July 25 at 7:29 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-25T19:29:51.746489-06:00.hyperlinks.json) |
 | [July 25 at 4:56 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-25T04:56:07.772389-06:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 6:54 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-23T06:54:37.315394-06:00.hyperlinks.json) |
 | [July 22 at 6:55 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-22T18:55:00.762231-06:00.hyperlinks.json) |
 | [July 22 at 6:55 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-22T06:55:14.819440-06:00.hyperlinks.json) |
-| [July 21 at 7:03 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-21T19:02:56.664584-06:00.hyperlinks.json) |
 
 
 ## Internet Archive

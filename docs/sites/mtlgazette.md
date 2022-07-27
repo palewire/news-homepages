@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 70 screenshots with the Internet Archive.
+The archiving routine has saved 71 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 70 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-26T10:41:23.232132-04:00.jpg">
+  <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-26T10:41:23.232132-04:00.jpg"
+     alt="Montreal Gazette at 2022-07-26 10:41:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-26T10:41:23.232132-04:00.jpg">July 26 at 10:41 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-25T22:48:51.283311-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-20T23:34:44.604825-04:00.jpg">July 20 at 11:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-20T12:08:36.910713-04:00.jpg">
-  <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-20T12:08:36.910713-04:00.jpg"
-     alt="Montreal Gazette at 2022-07-20 12:08:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-20T12:08:36.910713-04:00.jpg">July 20 at 12:08 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 70 hyperlink lists with the Internet Archive.
+The archiving routine has saved 71 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:41 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-26T10:41:23.232132-04:00.hyperlinks.json) |
 | [July 25 at 10:49 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-25T22:48:51.283311-04:00.hyperlinks.json) |
 | [July 25 at 9:15 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-25T09:15:07.600185-04:00.hyperlinks.json) |
 | [July 24 at 11:33 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-24T23:32:56.214499-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:32 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-22T23:32:12.463142-04:00.hyperlinks.json) |
 | [July 22 at 10:58 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-22T10:57:57.309164-04:00.hyperlinks.json) |
 | [July 21 at 11:36 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-21T23:36:29.762370-04:00.hyperlinks.json) |
-| [July 21 at 11:30 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-21T11:30:45.469099-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

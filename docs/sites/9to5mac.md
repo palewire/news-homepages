@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 4 screenshots with the Internet Archive.
+The archiving routine has saved 5 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-26T16:01:43.667262-07:00.jpg">
+  <img src="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-26T16:01:43.667262-07:00.jpg"
+     alt="9to5Mac at 2022-07-26 16:01:46-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-26T16:01:43.667262-07:00.jpg">July 26 at 4:01 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-26T04:10:09.828106-07:00.jpg">
@@ -68,7 +77,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+The archiving routine has saved 5 hyperlink lists with the Internet Archive.
 
 
 
@@ -76,6 +85,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 4:01 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-26T16:01:43.667262-07:00.hyperlinks.json) |
 | [July 26 at 4:10 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-26T04:10:09.828106-07:00.hyperlinks.json) |
 | [July 25 at 4:05 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T16:05:33.560105-07:00.hyperlinks.json) |
 | [July 25 at 3:56 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T03:56:21.013694-07:00.hyperlinks.json) |

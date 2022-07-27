@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 121 screenshots with the Internet Archive.
+The archiving routine has saved 123 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-26T18:05:02.957228-05:00.jpg">
+  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-26T18:05:02.957228-05:00.jpg"
+     alt="Block Club Chicago at 2022-07-26 18:05:06-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-26T18:05:02.957228-05:00.jpg">July 26 at 6:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-26T10:59:57.644878-05:00.jpg">
+  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-26T10:59:57.644878-05:00.jpg"
+     alt="Block Club Chicago at 2022-07-26 11:00:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-26T10:59:57.644878-05:00.jpg">July 26 at 11:00 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-26T06:12:24.474075-05:00.jpg">
   <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-26T06:12:24.474075-05:00.jpg"
      alt="Block Club Chicago at 2022-07-26 06:12:29-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-22T19:58:45.012003-05:00.jpg">July 22 at 7:58 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-22T11:23:22.061289-05:00.jpg">
-  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-22T11:23:22.061289-05:00.jpg"
-     alt="Block Club Chicago at 2022-07-22 11:23:26-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-22T11:23:22.061289-05:00.jpg">July 22 at 11:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-22T07:58:42.491157-05:00.jpg">
-  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-22T07:58:42.491157-05:00.jpg"
-     alt="Block Club Chicago at 2022-07-22 07:58:44-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-22T07:58:42.491157-05:00.jpg">July 22 at 7:58 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 123 hyperlink lists with the Internet Archive.
+The archiving routine has saved 125 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 6:05 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-26T18:05:02.957228-05:00.hyperlinks.json) |
+| [July 26 at 11:00 AM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-26T10:59:57.644878-05:00.hyperlinks.json) |
 | [July 26 at 6:12 AM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-26T06:12:24.474075-05:00.hyperlinks.json) |
 | [July 25 at 6:08 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-25T18:08:25.429389-05:00.hyperlinks.json) |
 | [July 25 at 11:35 AM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-25T11:35:26.964600-05:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 10:45 AM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-24T10:45:43.806704-05:00.hyperlinks.json) |
 | [July 24 at 5:58 AM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-24T05:58:51.030812-05:00.hyperlinks.json) |
 | [July 23 at 6:00 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-23T18:00:41.377846-05:00.hyperlinks.json) |
-| [July 23 at 7:58 AM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-23T07:58:05.604830-05:00.hyperlinks.json) |
-| [July 22 at 7:58 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-07-22T19:58:45.012003-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

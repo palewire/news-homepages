@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-26T19:06:41.651521-04:00.jpg">
+  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-26T19:06:41.651521-04:00.jpg"
+     alt="Clayton Crescent at 2022-07-26 19:06:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-26T19:06:41.651521-04:00.jpg">July 26 at 7:06 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-26T07:14:39.856659-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-21T08:55:50.858156-04:00.jpg">July 21 at 8:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-20T21:08:20.191700-04:00.jpg">
-  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-20T21:08:20.191700-04:00.jpg"
-     alt="Clayton Crescent at 2022-07-20 21:08:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-20T21:08:20.191700-04:00.jpg">July 20 at 9:08 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 37 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:06 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-26T19:06:41.651521-04:00.hyperlinks.json) |
 | [July 26 at 7:14 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-26T07:14:39.856659-04:00.hyperlinks.json) |
 | [July 25 at 7:10 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-25T19:10:02.033315-04:00.hyperlinks.json) |
 | [July 25 at 7:03 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-25T07:03:02.747698-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:00 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-23T09:00:49.343389-04:00.hyperlinks.json) |
 | [July 22 at 9:02 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-22T21:02:06.025413-04:00.hyperlinks.json) |
 | [July 22 at 9:02 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-22T09:02:45.690820-04:00.hyperlinks.json) |
-| [July 21 at 9:09 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-21T21:09:07.023485-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

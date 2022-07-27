@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-26T19:09:55.416934-04:00.jpg">
+  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-07-26T19:09:55.416934-04:00.jpg"
+     alt="Fox Sports at 2022-07-26 19:09:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-26T19:09:55.416934-04:00.jpg">July 26 at 7:09 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-26T07:18:22.478890-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-21T10:11:06.002596-04:00.jpg">July 21 at 10:11 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-20T22:23:11.948052-04:00.jpg">
-  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-07-20T22:23:11.948052-04:00.jpg"
-     alt="Fox Sports at 2022-07-20 22:23:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-07-20T22:23:11.948052-04:00.jpg">July 20 at 10:23 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:10 PM](https://archive.org/download/foxsports-2022/foxsports-2022-07-26T19:09:55.416934-04:00.hyperlinks.json) |
 | [July 26 at 7:18 AM](https://archive.org/download/foxsports-2022/foxsports-2022-07-26T07:18:22.478890-04:00.hyperlinks.json) |
 | [July 25 at 7:14 PM](https://archive.org/download/foxsports-2022/foxsports-2022-07-25T19:14:12.590001-04:00.hyperlinks.json) |
 | [July 25 at 8:03 AM](https://archive.org/download/foxsports-2022/foxsports-2022-07-25T08:03:45.185770-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:59 AM](https://archive.org/download/foxsports-2022/foxsports-2022-07-23T09:59:12.107724-04:00.hyperlinks.json) |
 | [July 22 at 10:26 PM](https://archive.org/download/foxsports-2022/foxsports-2022-07-22T22:26:00.783173-04:00.hyperlinks.json) |
 | [July 22 at 10:01 AM](https://archive.org/download/foxsports-2022/foxsports-2022-07-22T10:01:12.572190-04:00.hyperlinks.json) |
-| [July 21 at 10:20 PM](https://archive.org/download/foxsports-2022/foxsports-2022-07-21T22:20:41.985329-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-07-26T10:33:42.137130-04:00.jpg">
+  <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-07-26T10:33:42.137130-04:00.jpg"
+     alt="Fast Company at 2022-07-26 10:33:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-07-26T10:33:42.137130-04:00.jpg">July 26 at 10:33 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-07-25T22:41:47.530937-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-07-20T22:22:33.225026-04:00.jpg">July 20 at 10:22 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-07-20T10:25:10.989018-04:00.jpg">
-  <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-07-20T10:25:10.989018-04:00.jpg"
-     alt="Fast Company at 2022-07-20 10:25:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-07-20T10:25:10.989018-04:00.jpg">July 20 at 10:25 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 41 hyperlink lists with the Internet Archive.
+The archiving routine has saved 42 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:33 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-07-26T10:33:42.137130-04:00.hyperlinks.json) |
 | [July 25 at 10:41 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-07-25T22:41:47.530937-04:00.hyperlinks.json) |
 | [July 25 at 8:01 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-07-25T08:01:19.495270-04:00.hyperlinks.json) |
 | [July 24 at 9:04 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-07-24T21:04:20.568233-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 10:23 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-07-22T22:23:53.271609-04:00.hyperlinks.json) |
 | [July 22 at 10:00 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-07-22T10:00:35.844205-04:00.hyperlinks.json) |
 | [July 21 at 10:19 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-07-21T22:19:44.329803-04:00.hyperlinks.json) |
-| [July 21 at 10:05 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-07-21T10:05:18.686564-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

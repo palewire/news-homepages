@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 280 screenshots with the Internet Archive.
+The archiving routine has saved 282 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-26T11:34:06.123710-07:00.jpg">
+  <img src="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-26T11:34:06.123710-07:00.jpg"
+     alt="Los Angeles Sentinel at 2022-07-26 11:34:07-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-26T11:34:06.123710-07:00.jpg">July 26 at 11:34 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-26T08:48:06.563642-07:00.jpg">
+  <img src="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-26T08:48:06.563642-07:00.jpg"
+     alt="Los Angeles Sentinel at 2022-07-26 08:48:07-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-26T08:48:06.563642-07:00.jpg">July 26 at 8:48 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-25T20:59:20.146372-07:00.jpg">
   <img src="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-25T20:59:20.146372-07:00.jpg"
      alt="Los Angeles Sentinel at 2022-07-25 20:59:22-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-22T21:25:33.224321-07:00.jpg">July 22 at 9:25 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-22T11:08:38.454437-07:00.jpg">
-  <img src="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-22T11:08:38.454437-07:00.jpg"
-     alt="Los Angeles Sentinel at 2022-07-22 11:08:41-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-22T11:08:38.454437-07:00.jpg">July 22 at 11:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-22T09:18:03.979339-07:00.jpg">
-  <img src="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-22T09:18:03.979339-07:00.jpg"
-     alt="Los Angeles Sentinel at 2022-07-22 09:18:08-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-22T09:18:03.979339-07:00.jpg">July 22 at 9:18 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 271 hyperlink lists with the Internet Archive.
+The archiving routine has saved 273 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:34 AM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-26T11:34:06.123710-07:00.hyperlinks.json) |
+| [July 26 at 8:48 AM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-26T08:48:06.563642-07:00.hyperlinks.json) |
 | [July 25 at 8:59 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-25T20:59:20.146372-07:00.hyperlinks.json) |
 | [July 25 at 11:14 AM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-25T11:14:35.825090-07:00.hyperlinks.json) |
 | [July 25 at 8:47 AM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-25T08:47:25.623286-07:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 8:06 AM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-24T08:06:25.824890-07:00.hyperlinks.json) |
 | [July 23 at 8:41 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-23T20:41:39.005845-07:00.hyperlinks.json) |
 | [July 23 at 11:25 AM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-23T11:24:44.893584-07:00.hyperlinks.json) |
-| [July 23 at 9:05 AM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-23T09:05:10.166730-07:00.hyperlinks.json) |
-| [July 22 at 9:25 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-07-22T21:25:33.224321-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

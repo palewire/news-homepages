@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 61 screenshots with the Internet Archive.
+The archiving routine has saved 62 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 61 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnet-2022/cnet-2022-07-26T16:06:17.465191-07:00.jpg">
+  <img src="https://archive.org/download/cnet-2022/cnet-2022-07-26T16:06:17.465191-07:00.jpg"
+     alt="CNET at 2022-07-26 16:06:19-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnet-2022/cnet-2022-07-26T16:06:17.465191-07:00.jpg">July 26 at 4:06 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cnet-2022/cnet-2022-07-26T04:14:58.371397-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cnet-2022/cnet-2022-07-21T18:09:52.345243-07:00.jpg">July 21 at 6:09 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cnet-2022/cnet-2022-07-21T05:55:23.495665-07:00.jpg">
-  <img src="https://archive.org/download/cnet-2022/cnet-2022-07-21T05:55:23.495665-07:00.jpg"
-     alt="CNET at 2022-07-21 05:55:25-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnet-2022/cnet-2022-07-21T05:55:23.495665-07:00.jpg">July 21 at 5:55 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 59 hyperlink lists with the Internet Archive.
+The archiving routine has saved 60 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 4:06 PM](https://archive.org/download/cnet-2022/cnet-2022-07-26T16:06:17.465191-07:00.hyperlinks.json) |
 | [July 26 at 4:15 AM](https://archive.org/download/cnet-2022/cnet-2022-07-26T04:14:58.371397-07:00.hyperlinks.json) |
 | [July 25 at 4:10 PM](https://archive.org/download/cnet-2022/cnet-2022-07-25T16:10:10.575646-07:00.hyperlinks.json) |
 | [July 25 at 4:03 AM](https://archive.org/download/cnet-2022/cnet-2022-07-25T04:03:07.225271-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 6:00 AM](https://archive.org/download/cnet-2022/cnet-2022-07-23T06:00:38.573096-07:00.hyperlinks.json) |
 | [July 22 at 6:01 PM](https://archive.org/download/cnet-2022/cnet-2022-07-22T18:01:43.093932-07:00.hyperlinks.json) |
 | [July 22 at 6:01 AM](https://archive.org/download/cnet-2022/cnet-2022-07-22T06:01:16.591085-07:00.hyperlinks.json) |
-| [July 21 at 6:09 PM](https://archive.org/download/cnet-2022/cnet-2022-07-21T18:09:52.345243-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

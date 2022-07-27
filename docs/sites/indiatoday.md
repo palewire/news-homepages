@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-07-27T05:41:40.999316+05:30.jpg">
+  <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-07-27T05:41:40.999316+05:30.jpg"
+     alt="India Today at 2022-07-27 05:41:43+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-07-27T05:41:40.999316+05:30.jpg">July 27 at 5:41 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T17:49:59.888185+05:30.jpg">
@@ -50,7 +59,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 2 hyperlink lists with the Internet Archive.
+The archiving routine has saved 3 hyperlink lists with the Internet Archive.
 
 
 
@@ -58,6 +67,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 5:41 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-07-27T05:41:40.999316+05:30.hyperlinks.json) |
 | [July 26 at 5:50 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T17:49:59.888185+05:30.hyperlinks.json) |
 | [July 26 at 5:46 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T05:46:22.506962+05:30.hyperlinks.json) |
 

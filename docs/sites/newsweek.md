@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-26T20:17:07.349679-04:00.jpg">
+  <img src="https://archive.org/download/newsweek-2022/newsweek-2022-07-26T20:17:07.349679-04:00.jpg"
+     alt="Newsweek at 2022-07-26 20:17:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-26T20:17:07.349679-04:00.jpg">July 26 at 8:17 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-26T08:26:16.766459-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-21T11:34:44.198929-04:00.jpg">July 21 at 11:34 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-20T23:36:41.461105-04:00.jpg">
-  <img src="https://archive.org/download/newsweek-2022/newsweek-2022-07-20T23:36:41.461105-04:00.jpg"
-     alt="Newsweek at 2022-07-20 23:36:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-20T23:36:41.461105-04:00.jpg">July 20 at 11:36 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:17 PM](https://archive.org/download/newsweek-2022/newsweek-2022-07-26T20:17:07.349679-04:00.hyperlinks.json) |
 | [July 26 at 8:26 AM](https://archive.org/download/newsweek-2022/newsweek-2022-07-26T08:26:16.766459-04:00.hyperlinks.json) |
 | [July 25 at 8:21 PM](https://archive.org/download/newsweek-2022/newsweek-2022-07-25T20:21:20.658012-04:00.hyperlinks.json) |
 | [July 25 at 9:17 AM](https://archive.org/download/newsweek-2022/newsweek-2022-07-25T09:17:25.054309-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:03 AM](https://archive.org/download/newsweek-2022/newsweek-2022-07-23T11:03:33.721255-04:00.hyperlinks.json) |
 | [July 22 at 11:34 PM](https://archive.org/download/newsweek-2022/newsweek-2022-07-22T23:34:07.288945-04:00.hyperlinks.json) |
 | [July 22 at 10:58 AM](https://archive.org/download/newsweek-2022/newsweek-2022-07-22T10:58:53.132077-04:00.hyperlinks.json) |
-| [July 21 at 11:37 PM](https://archive.org/download/newsweek-2022/newsweek-2022-07-21T23:37:49.524520-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 13 screenshots with the Internet Archive.
+The archiving routine has saved 14 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-07-26T19:01:37.919298-04:00.jpg">
+  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-07-26T19:01:37.919298-04:00.jpg"
+     alt="11Alive News at 2022-07-26 19:01:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-07-26T19:01:37.919298-04:00.jpg">July 26 at 7:01 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-07-26T07:09:14.799233-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-07-21T08:50:05.256072-04:00.jpg">July 21 at 8:50 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-07-20T21:01:12.557182-04:00.jpg">
-  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-07-20T21:01:12.557182-04:00.jpg"
-     alt="11Alive News at 2022-07-20 21:01:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-07-20T21:01:12.557182-04:00.jpg">July 20 at 9:01 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 13 hyperlink lists with the Internet Archive.
+The archiving routine has saved 14 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:01 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-07-26T19:01:37.919298-04:00.hyperlinks.json) |
 | [July 26 at 7:09 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-07-26T07:09:14.799233-04:00.hyperlinks.json) |
 | [July 25 at 7:04 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-07-25T19:04:49.036903-04:00.hyperlinks.json) |
 | [July 25 at 6:55 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-07-25T06:55:23.275936-04:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:54 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-07-23T08:54:10.318625-04:00.hyperlinks.json) |
 | [July 22 at 8:54 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-07-22T20:54:36.070520-04:00.hyperlinks.json) |
 | [July 22 at 8:54 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-07-22T08:54:31.889604-04:00.hyperlinks.json) |
-| [July 21 at 9:03 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-07-21T21:03:00.928225-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-26T19:04:55.100799-04:00.jpg">
+  <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-26T19:04:55.100799-04:00.jpg"
+     alt="Bleacher Report at 2022-07-26 19:04:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-26T19:04:55.100799-04:00.jpg">July 26 at 7:04 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-26T07:12:33.769215-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-21T08:53:22.490737-04:00.jpg">July 21 at 8:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-20T21:05:39.371541-04:00.jpg">
-  <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-20T21:05:39.371541-04:00.jpg"
-     alt="Bleacher Report at 2022-07-20 21:05:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-20T21:05:39.371541-04:00.jpg">July 20 at 9:05 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:05 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-26T19:04:55.100799-04:00.hyperlinks.json) |
 | [July 26 at 7:12 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-26T07:12:33.769215-04:00.hyperlinks.json) |
 | [July 25 at 7:08 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-25T19:08:46.063831-04:00.hyperlinks.json) |
 | [July 25 at 6:59 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-25T06:59:45.058547-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:58 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-23T08:57:58.695758-04:00.hyperlinks.json) |
 | [July 22 at 8:58 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-22T20:58:46.041459-04:00.hyperlinks.json) |
 | [July 22 at 8:58 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-22T08:58:51.292820-04:00.hyperlinks.json) |
-| [July 21 at 9:06 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-07-21T21:05:55.507280-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kvue-2022/kvue-2022-07-26T19:13:03.664594-05:00.jpg">
+  <img src="https://archive.org/download/kvue-2022/kvue-2022-07-26T19:13:03.664594-05:00.jpg"
+     alt="KVUE at 2022-07-26 19:13:05-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-26T19:13:03.664594-05:00.jpg">July 26 at 7:13 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kvue-2022/kvue-2022-07-26T07:22:37.331852-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-21T09:21:05.475735-05:00.jpg">July 21 at 9:21 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kvue-2022/kvue-2022-07-20T21:28:15.724545-05:00.jpg">
-  <img src="https://archive.org/download/kvue-2022/kvue-2022-07-20T21:28:15.724545-05:00.jpg"
-     alt="KVUE at 2022-07-20 21:28:17-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-20T21:28:15.724545-05:00.jpg">July 20 at 9:28 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:13 PM](https://archive.org/download/kvue-2022/kvue-2022-07-26T19:13:03.664594-05:00.hyperlinks.json) |
 | [July 26 at 7:22 AM](https://archive.org/download/kvue-2022/kvue-2022-07-26T07:22:37.331852-05:00.hyperlinks.json) |
 | [July 25 at 7:17 PM](https://archive.org/download/kvue-2022/kvue-2022-07-25T19:17:41.196036-05:00.hyperlinks.json) |
 | [July 25 at 8:11 AM](https://archive.org/download/kvue-2022/kvue-2022-07-25T08:11:29.364955-05:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:06 AM](https://archive.org/download/kvue-2022/kvue-2022-07-23T09:06:22.364677-05:00.hyperlinks.json) |
 | [July 22 at 9:32 PM](https://archive.org/download/kvue-2022/kvue-2022-07-22T21:32:01.706838-05:00.hyperlinks.json) |
 | [July 22 at 9:07 AM](https://archive.org/download/kvue-2022/kvue-2022-07-22T09:06:58.427247-05:00.hyperlinks.json) |
-| [July 21 at 9:26 PM](https://archive.org/download/kvue-2022/kvue-2022-07-21T21:25:56.017910-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

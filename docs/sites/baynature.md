@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baynature-2022/baynature-2022-07-26T06:25:28.798978-07:00.jpg">
+  <img src="https://archive.org/download/baynature-2022/baynature-2022-07-26T06:25:28.798978-07:00.jpg"
+     alt="Bay Nature at 2022-07-26 06:25:30-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-26T06:25:28.798978-07:00.jpg">July 26 at 6:25 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baynature-2022/baynature-2022-07-25T19:57:49.067236-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-21T05:52:02.290821-07:00.jpg">July 21 at 5:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/baynature-2022/baynature-2022-07-20T18:03:58.842044-07:00.jpg">
-  <img src="https://archive.org/download/baynature-2022/baynature-2022-07-20T18:03:58.842044-07:00.jpg"
-     alt="Bay Nature at 2022-07-20 18:04:00-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-20T18:03:58.842044-07:00.jpg">July 20 at 6:04 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 6:25 AM](https://archive.org/download/baynature-2022/baynature-2022-07-26T06:25:28.798978-07:00.hyperlinks.json) |
 | [July 25 at 7:57 PM](https://archive.org/download/baynature-2022/baynature-2022-07-25T19:57:49.067236-07:00.hyperlinks.json) |
 | [July 25 at 6:30 PM](https://archive.org/download/baynature-2022/baynature-2022-07-25T18:30:00.995775-07:00.hyperlinks.json) |
 | [July 25 at 3:59 AM](https://archive.org/download/baynature-2022/baynature-2022-07-25T03:59:14.650251-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 5:57 AM](https://archive.org/download/baynature-2022/baynature-2022-07-23T05:57:21.408154-07:00.hyperlinks.json) |
 | [July 22 at 5:57 PM](https://archive.org/download/baynature-2022/baynature-2022-07-22T17:57:37.486817-07:00.hyperlinks.json) |
 | [July 22 at 5:57 AM](https://archive.org/download/baynature-2022/baynature-2022-07-22T05:57:11.217053-07:00.hyperlinks.json) |
-| [July 21 at 6:05 PM](https://archive.org/download/baynature-2022/baynature-2022-07-21T18:05:31.126287-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

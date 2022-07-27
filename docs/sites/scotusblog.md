@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 77 screenshots with the Internet Archive.
+The archiving routine has saved 78 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 77 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-26T20:19:34.265622-04:00.jpg">
+  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-26T20:19:34.265622-04:00.jpg"
+     alt="SCOTUS Blog at 2022-07-26 20:19:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-26T20:19:34.265622-04:00.jpg">July 26 at 8:19 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-26T08:29:39.670870-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-21T00:25:33.212238-04:00.jpg">July 21 at 12:25 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-20T12:42:00.374673-04:00.jpg">
-  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-20T12:42:00.374673-04:00.jpg"
-     alt="SCOTUS Blog at 2022-07-20 12:42:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-20T12:42:00.374673-04:00.jpg">July 20 at 12:42 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 79 hyperlink lists with the Internet Archive.
+The archiving routine has saved 80 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:19 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-26T20:19:34.265622-04:00.hyperlinks.json) |
 | [July 26 at 8:29 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-26T08:29:39.670870-04:00.hyperlinks.json) |
 | [July 25 at 8:24 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-25T20:24:45.788516-04:00.hyperlinks.json) |
 | [July 25 at 11:42 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-25T11:42:13.765272-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:39 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T23:39:06.703817-04:00.hyperlinks.json) |
 | [July 22 at 12:14 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T12:13:55.309254-04:00.hyperlinks.json) |
 | [July 22 at 12:28 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T00:28:25.476222-04:00.hyperlinks.json) |
-| [July 21 at 12:51 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-21T12:50:57.994232-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

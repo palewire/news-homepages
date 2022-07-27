@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 212 screenshots with the Internet Archive.
+The archiving routine has saved 213 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 212 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-27T01:02:11.021241+02:00.jpg">
+  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-07-27T01:02:11.021241+02:00.jpg"
+     alt="20 Minutes at 2022-07-27 01:02:16+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-27T01:02:11.021241+02:00.jpg">July 27 at 1:02 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-26T13:09:49.544820+02:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-23T10:06:48.066051+02:00.jpg">July 23 at 10:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-23T02:55:00.942817+02:00.jpg">
-  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-07-23T02:55:00.942817+02:00.jpg"
-     alt="20 Minutes at 2022-07-23 02:55:02+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-23T02:55:00.942817+02:00.jpg">July 23 at 2:55 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 212 hyperlink lists with the Internet Archive.
+The archiving routine has saved 213 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 1:02 AM](https://archive.org/download/20minutes-2022/20minutes-2022-07-27T01:02:11.021241+02:00.hyperlinks.json) |
 | [July 26 at 1:09 PM](https://archive.org/download/20minutes-2022/20minutes-2022-07-26T13:09:49.544820+02:00.hyperlinks.json) |
 | [July 26 at 10:09 AM](https://archive.org/download/20minutes-2022/20minutes-2022-07-26T10:09:35.869933+02:00.hyperlinks.json) |
 | [July 26 at 1:05 AM](https://archive.org/download/20minutes-2022/20minutes-2022-07-26T01:05:09.337524+02:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 12:55 PM](https://archive.org/download/20minutes-2022/20minutes-2022-07-24T12:55:13.646309+02:00.hyperlinks.json) |
 | [July 24 at 10:10 AM](https://archive.org/download/20minutes-2022/20minutes-2022-07-24T10:10:20.705877+02:00.hyperlinks.json) |
 | [July 24 at 12:57 AM](https://archive.org/download/20minutes-2022/20minutes-2022-07-24T00:57:37.399411+02:00.hyperlinks.json) |
-| [July 23 at 2:54 PM](https://archive.org/download/20minutes-2022/20minutes-2022-07-23T14:54:17.154962+02:00.hyperlinks.json) |
 
 
 ## Internet Archive

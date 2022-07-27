@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 456 screenshots with the Internet Archive.
+The archiving routine has saved 457 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 456 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-26T19:18:00.356234-05:00.jpg">
+  <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-26T19:18:00.356234-05:00.jpg"
+     alt="Animal Político at 2022-07-26 19:18:19-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-26T19:18:00.356234-05:00.jpg">July 26 at 7:18 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-26T07:27:55.114447-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-21T10:36:16.171574-05:00.jpg">July 21 at 10:36 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-20T22:38:32.655663-05:00.jpg">
-  <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-20T22:38:32.655663-05:00.jpg"
-     alt="Animal Político at 2022-07-20 22:38:40-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-20T22:38:32.655663-05:00.jpg">July 20 at 10:38 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 456 hyperlink lists with the Internet Archive.
+The archiving routine has saved 457 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:18 PM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-26T19:18:00.356234-05:00.hyperlinks.json) |
 | [July 26 at 7:28 AM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-26T07:27:55.114447-05:00.hyperlinks.json) |
 | [July 25 at 10:36 AM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-25T10:36:12.958731-05:00.hyperlinks.json) |
 | [July 24 at 10:39 PM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-24T22:39:01.814535-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 10:36 PM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-22T22:35:50.849608-05:00.hyperlinks.json) |
 | [July 22 at 10:01 AM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-22T10:01:19.437588-05:00.hyperlinks.json) |
 | [July 21 at 10:40 PM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-21T22:40:34.895929-05:00.hyperlinks.json) |
-| [July 21 at 10:36 AM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-07-21T10:36:16.171574-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

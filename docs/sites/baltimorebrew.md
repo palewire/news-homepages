@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-07-26T19:04:00.522246-04:00.jpg">
+  <img src="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-07-26T19:04:00.522246-04:00.jpg"
+     alt="Baltimore Brew at 2022-07-26 19:04:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-07-26T19:04:00.522246-04:00.jpg">July 26 at 7:04 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-07-26T07:12:44.526468-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-07-21T08:51:51.606817-04:00.jpg">July 21 at 8:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-07-20T21:03:53.008946-04:00.jpg">
-  <img src="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-07-20T21:03:53.008946-04:00.jpg"
-     alt="Baltimore Brew at 2022-07-20 21:03:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-07-20T21:03:53.008946-04:00.jpg">July 20 at 9:03 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:04 PM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-07-26T19:04:00.522246-04:00.hyperlinks.json) |
 | [July 26 at 7:12 AM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-07-26T07:12:44.526468-04:00.hyperlinks.json) |
 | [July 25 at 7:08 PM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-07-25T19:08:32.833453-04:00.hyperlinks.json) |
 | [July 25 at 6:59 AM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-07-25T06:59:01.688231-04:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:56 AM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-07-23T08:56:43.308417-04:00.hyperlinks.json) |
 | [July 22 at 8:58 PM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-07-22T20:57:58.116042-04:00.hyperlinks.json) |
 | [July 22 at 8:57 AM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-07-22T08:57:24.674420-04:00.hyperlinks.json) |
-| [July 21 at 9:05 PM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-07-21T21:05:16.105071-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

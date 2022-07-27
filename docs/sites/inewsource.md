@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 52 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-26T11:34:01.419491-07:00.jpg">
+  <img src="https://archive.org/download/inewsource-2022/inewsource-2022-07-26T11:34:01.419491-07:00.jpg"
+     alt="inewsource at 2022-07-26 11:34:03-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-26T11:34:01.419491-07:00.jpg">July 26 at 11:34 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-26T07:36:26.894770-07:00.jpg">
+  <img src="https://archive.org/download/inewsource-2022/inewsource-2022-07-26T07:36:26.894770-07:00.jpg"
+     alt="inewsource at 2022-07-26 07:36:28-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-26T07:36:26.894770-07:00.jpg">July 26 at 7:36 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-25T19:44:49.462984-07:00.jpg">
   <img src="https://archive.org/download/inewsource-2022/inewsource-2022-07-25T19:44:49.462984-07:00.jpg"
      alt="inewsource at 2022-07-25 19:44:52-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-22T19:28:48.520622-07:00.jpg">July 22 at 7:28 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-22T11:08:52.461373-07:00.jpg">
-  <img src="https://archive.org/download/inewsource-2022/inewsource-2022-07-22T11:08:52.461373-07:00.jpg"
-     alt="inewsource at 2022-07-22 11:08:55-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-22T11:08:52.461373-07:00.jpg">July 22 at 11:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-22T07:03:52.817756-07:00.jpg">
-  <img src="https://archive.org/download/inewsource-2022/inewsource-2022-07-22T07:03:52.817756-07:00.jpg"
-     alt="inewsource at 2022-07-22 07:03:54-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-22T07:03:52.817756-07:00.jpg">July 22 at 7:03 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 52 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:34 AM](https://archive.org/download/inewsource-2022/inewsource-2022-07-26T11:34:01.419491-07:00.hyperlinks.json) |
+| [July 26 at 7:36 AM](https://archive.org/download/inewsource-2022/inewsource-2022-07-26T07:36:26.894770-07:00.hyperlinks.json) |
 | [July 25 at 7:44 PM](https://archive.org/download/inewsource-2022/inewsource-2022-07-25T19:44:49.462984-07:00.hyperlinks.json) |
 | [July 25 at 11:13 AM](https://archive.org/download/inewsource-2022/inewsource-2022-07-25T11:13:44.461696-07:00.hyperlinks.json) |
 | [July 25 at 5:06 AM](https://archive.org/download/inewsource-2022/inewsource-2022-07-25T05:06:30.134374-07:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 5:03 AM](https://archive.org/download/inewsource-2022/inewsource-2022-07-24T05:03:14.910964-07:00.hyperlinks.json) |
 | [July 23 at 11:33 PM](https://archive.org/download/inewsource-2022/inewsource-2022-07-23T23:33:47.367702-07:00.hyperlinks.json) |
 | [July 23 at 11:23 AM](https://archive.org/download/inewsource-2022/inewsource-2022-07-23T11:23:27.854245-07:00.hyperlinks.json) |
-| [July 23 at 7:02 AM](https://archive.org/download/inewsource-2022/inewsource-2022-07-23T07:02:47.466471-07:00.hyperlinks.json) |
-| [July 22 at 7:28 PM](https://archive.org/download/inewsource-2022/inewsource-2022-07-22T19:28:48.520622-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

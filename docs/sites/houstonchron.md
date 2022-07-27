@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 43 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T19:11:33.727450-05:00.jpg">
+  <img src="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T19:11:33.727450-05:00.jpg"
+     alt="Houston Chronicle at 2022-07-26 19:11:36-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T19:11:33.727450-05:00.jpg">July 26 at 7:11 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T07:19:22.408425-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-20T09:25:37.202871-05:00.jpg">July 20 at 9:25 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-19T21:18:45.629084-05:00.jpg">
-  <img src="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-19T21:18:45.629084-05:00.jpg"
-     alt="Houston Chronicle at 2022-07-19 21:18:47-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-19T21:18:45.629084-05:00.jpg">July 19 at 9:18 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:11 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T19:11:33.727450-05:00.hyperlinks.json) |
 | [July 26 at 7:20 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T07:19:22.408425-05:00.hyperlinks.json) |
 | [July 25 at 7:14 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T19:14:27.469956-05:00.hyperlinks.json) |
 | [July 25 at 7:05 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T07:05:27.362379-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 9:03 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-22T09:03:24.684705-05:00.hyperlinks.json) |
 | [July 21 at 9:22 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-21T21:22:24.009215-05:00.hyperlinks.json) |
 | [July 21 at 9:11 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-21T09:11:18.799404-05:00.hyperlinks.json) |
-| [July 20 at 9:25 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-20T21:25:10.583881-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

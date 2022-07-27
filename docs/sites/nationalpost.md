@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 94 screenshots with the Internet Archive.
+The archiving routine has saved 95 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 94 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-26T10:41:23.660051-04:00.jpg">
+  <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-26T10:41:23.660051-04:00.jpg"
+     alt="National Post at 2022-07-26 10:41:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-26T10:41:23.660051-04:00.jpg">July 26 at 10:41 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-25T22:48:52.145040-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-20T23:35:28.882359-04:00.jpg">July 20 at 11:35 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-20T12:09:11.641740-04:00.jpg">
-  <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-20T12:09:11.641740-04:00.jpg"
-     alt="National Post at 2022-07-20 12:09:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-20T12:09:11.641740-04:00.jpg">July 20 at 12:09 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 96 hyperlink lists with the Internet Archive.
+The archiving routine has saved 97 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:41 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-07-26T10:41:23.660051-04:00.hyperlinks.json) |
 | [July 25 at 10:49 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-07-25T22:48:52.145040-04:00.hyperlinks.json) |
 | [July 25 at 9:17 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-07-25T09:17:15.957211-04:00.hyperlinks.json) |
 | [July 24 at 11:34 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-07-24T23:34:00.317071-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:33 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-07-22T23:33:06.884028-04:00.hyperlinks.json) |
 | [July 22 at 10:58 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-07-22T10:58:19.389411-04:00.hyperlinks.json) |
 | [July 21 at 11:37 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-07-21T23:37:38.758892-04:00.hyperlinks.json) |
-| [July 21 at 11:31 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-07-21T11:31:50.949471-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

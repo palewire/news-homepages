@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 53 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 53 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-07-26T11:47:49.501771-04:00.jpg">
+  <img src="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-07-26T11:47:49.501771-04:00.jpg"
+     alt="Philadelphia Citizen at 2022-07-26 11:47:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-07-26T11:47:49.501771-04:00.jpg">July 26 at 11:47 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-07-26T00:00:15.285003-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-07-21T00:30:13.686415-04:00.jpg">July 21 at 12:30 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-07-20T12:46:35.773985-04:00.jpg">
-  <img src="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-07-20T12:46:35.773985-04:00.jpg"
-     alt="Philadelphia Citizen at 2022-07-20 12:46:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-07-20T12:46:35.773985-04:00.jpg">July 20 at 12:46 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 53 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:47 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-07-26T11:47:49.501771-04:00.hyperlinks.json) |
 | [July 26 at 12:00 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-07-26T00:00:15.285003-04:00.hyperlinks.json) |
 | [July 25 at 11:48 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-07-25T11:47:58.277410-04:00.hyperlinks.json) |
 | [July 25 at 12:37 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-07-25T00:37:20.802259-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 12:25 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-07-23T00:25:40.406616-04:00.hyperlinks.json) |
 | [July 22 at 12:19 PM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-07-22T12:19:22.968447-04:00.hyperlinks.json) |
 | [July 22 at 12:32 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-07-22T00:32:21.461824-04:00.hyperlinks.json) |
-| [July 21 at 12:55 PM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-07-21T12:55:25.280744-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

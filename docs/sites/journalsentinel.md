@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 192 screenshots with the Internet Archive.
+The archiving routine has saved 193 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 192 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-26T09:38:25.237883-05:00.jpg">
+  <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-26T09:38:25.237883-05:00.jpg"
+     alt="Milwaukee Journal Sentinel at 2022-07-26 09:38:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-26T09:38:25.237883-05:00.jpg">July 26 at 9:38 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-25T21:44:52.648400-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-20T21:27:02.638269-05:00.jpg">July 20 at 9:27 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-20T09:27:30.013417-05:00.jpg">
-  <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-20T09:27:30.013417-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-07-20 09:27:33-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-20T09:27:30.013417-05:00.jpg">July 20 at 9:27 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 186 hyperlink lists with the Internet Archive.
+The archiving routine has saved 187 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:38 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-26T09:38:25.237883-05:00.hyperlinks.json) |
 | [July 25 at 9:45 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-25T21:44:52.648400-05:00.hyperlinks.json) |
 | [July 25 at 8:09 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-25T08:09:20.355400-05:00.hyperlinks.json) |
 | [July 24 at 10:25 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-24T22:24:57.264778-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 9:30 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-22T21:30:09.663328-05:00.hyperlinks.json) |
 | [July 22 at 9:05 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-22T09:05:08.270892-05:00.hyperlinks.json) |
 | [July 21 at 9:25 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-21T21:24:59.482865-05:00.hyperlinks.json) |
-| [July 21 at 9:14 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-21T09:14:29.529950-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

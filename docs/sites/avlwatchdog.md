@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 38 screenshots with the Internet Archive.
+The archiving routine has saved 39 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 38 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-26T19:03:26.171784-04:00.jpg">
+  <img src="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-26T19:03:26.171784-04:00.jpg"
+     alt="Asheville Watchdog at 2022-07-26 19:03:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-26T19:03:26.171784-04:00.jpg">July 26 at 7:03 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-25T19:07:38.121672-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-20T21:02:42.350431-04:00.jpg">July 20 at 9:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-20T08:51:19.960168-04:00.jpg">
-  <img src="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-20T08:51:19.960168-04:00.jpg"
-     alt="Asheville Watchdog at 2022-07-20 08:51:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-20T08:51:19.960168-04:00.jpg">July 20 at 8:51 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 39 hyperlink lists with the Internet Archive.
+The archiving routine has saved 40 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:03 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-26T19:03:26.171784-04:00.hyperlinks.json) |
 | [July 26 at 7:12 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-26T07:12:20.153043-04:00.hyperlinks.json) |
 | [July 25 at 7:07 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-25T19:07:38.121672-04:00.hyperlinks.json) |
 | [July 25 at 6:58 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-25T06:58:14.328526-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:56 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-23T08:55:54.923747-04:00.hyperlinks.json) |
 | [July 22 at 8:57 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-22T20:57:04.723719-04:00.hyperlinks.json) |
 | [July 22 at 8:56 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-22T08:56:01.295859-04:00.hyperlinks.json) |
-| [July 21 at 9:04 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-21T21:04:14.091409-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

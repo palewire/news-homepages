@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-27T00:07:31.625366+01:00.jpg">
+  <img src="https://archive.org/download/daily_record-2022/daily_record-2022-07-27T00:07:31.625366+01:00.jpg"
+     alt="Daily Record at 2022-07-27 00:07:33+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-27T00:07:31.625366+01:00.jpg">July 27 at 12:07 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-26T12:15:58.379286+01:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-21T13:57:04.710330+01:00.jpg">July 21 at 1:57 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-21T02:09:44.404364+01:00.jpg">
-  <img src="https://archive.org/download/daily_record-2022/daily_record-2022-07-21T02:09:44.404364+01:00.jpg"
-     alt="Daily Record at 2022-07-21 02:09:45+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-07-21T02:09:44.404364+01:00.jpg">July 21 at 2:09 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 43 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 12:07 AM](https://archive.org/download/daily_record-2022/daily_record-2022-07-27T00:07:31.625366+01:00.hyperlinks.json) |
 | [July 26 at 12:16 PM](https://archive.org/download/daily_record-2022/daily_record-2022-07-26T12:15:58.379286+01:00.hyperlinks.json) |
 | [July 26 at 12:11 AM](https://archive.org/download/daily_record-2022/daily_record-2022-07-26T00:11:23.760445+01:00.hyperlinks.json) |
 | [July 25 at 12:58 PM](https://archive.org/download/daily_record-2022/daily_record-2022-07-25T12:58:25.899645+01:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 2:02 PM](https://archive.org/download/daily_record-2022/daily_record-2022-07-23T14:02:07.368498+01:00.hyperlinks.json) |
 | [July 23 at 2:03 AM](https://archive.org/download/daily_record-2022/daily_record-2022-07-23T02:03:03.625599+01:00.hyperlinks.json) |
 | [July 22 at 2:02 PM](https://archive.org/download/daily_record-2022/daily_record-2022-07-22T14:02:49.531097+01:00.hyperlinks.json) |
-| [July 22 at 2:10 AM](https://archive.org/download/daily_record-2022/daily_record-2022-07-22T02:10:38.842290+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

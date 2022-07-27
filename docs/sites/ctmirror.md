@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-26T09:28:24.612091-04:00.jpg">
+  <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-26T09:28:24.612091-04:00.jpg"
+     alt="Connecticut Mirror at 2022-07-26 09:28:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-26T09:28:24.612091-04:00.jpg">July 26 at 9:28 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T23:00:02.141909-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-21T08:56:26.425668-04:00.jpg">July 21 at 8:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-20T21:08:55.749171-04:00.jpg">
-  <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-20T21:08:55.749171-04:00.jpg"
-     alt="Connecticut Mirror at 2022-07-20 21:08:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-20T21:08:55.749171-04:00.jpg">July 20 at 9:08 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 37 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:28 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-26T09:28:24.612091-04:00.hyperlinks.json) |
 | [July 25 at 11:00 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T23:00:02.141909-04:00.hyperlinks.json) |
 | [July 25 at 9:33 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T21:33:04.001873-04:00.hyperlinks.json) |
 | [July 25 at 7:59 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T07:59:05.270594-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:02 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-23T09:02:00.072121-04:00.hyperlinks.json) |
 | [July 22 at 9:02 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-22T21:02:46.971992-04:00.hyperlinks.json) |
 | [July 22 at 9:02 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-22T09:02:46.095368-04:00.hyperlinks.json) |
-| [July 21 at 9:10 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-21T21:10:37.337611-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

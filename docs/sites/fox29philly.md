@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 55 screenshots with the Internet Archive.
+The archiving routine has saved 56 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 55 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-07-26T19:09:53.645933-04:00.jpg">
+  <img src="https://archive.org/download/fox29philly-2022/fox29philly-2022-07-26T19:09:53.645933-04:00.jpg"
+     alt="FOX29 Philly at 2022-07-26 19:09:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-07-26T19:09:53.645933-04:00.jpg">July 26 at 7:09 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-07-26T07:18:02.593800-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-07-21T10:10:35.914911-04:00.jpg">July 21 at 10:10 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-07-20T22:23:18.121344-04:00.jpg">
-  <img src="https://archive.org/download/fox29philly-2022/fox29philly-2022-07-20T22:23:18.121344-04:00.jpg"
-     alt="FOX29 Philly at 2022-07-20 22:23:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-07-20T22:23:18.121344-04:00.jpg">July 20 at 10:23 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 55 hyperlink lists with the Internet Archive.
+The archiving routine has saved 56 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:09 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-07-26T19:09:53.645933-04:00.hyperlinks.json) |
 | [July 26 at 7:18 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-07-26T07:18:02.593800-04:00.hyperlinks.json) |
 | [July 25 at 7:14 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-07-25T19:14:34.911224-04:00.hyperlinks.json) |
 | [July 25 at 8:02 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-07-25T08:02:40.298915-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:59 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-07-23T09:59:00.937322-04:00.hyperlinks.json) |
 | [July 22 at 10:26 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-07-22T22:25:57.977447-04:00.hyperlinks.json) |
 | [July 22 at 10:00 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-07-22T10:00:32.584088-04:00.hyperlinks.json) |
-| [July 21 at 10:19 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-07-21T22:19:32.068357-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

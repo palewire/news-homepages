@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 12 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gpbnews-2022/gpbnews-2022-07-26T10:35:16.286113-04:00.jpg">
+  <img src="https://archive.org/download/gpbnews-2022/gpbnews-2022-07-26T10:35:16.286113-04:00.jpg"
+     alt="Georgia Public Broadcasting at 2022-07-26 10:35:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gpbnews-2022/gpbnews-2022-07-26T10:35:16.286113-04:00.jpg">July 26 at 10:35 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gpbnews-2022/gpbnews-2022-07-25T22:43:09.862182-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gpbnews-2022/gpbnews-2022-07-20T22:24:38.944074-04:00.jpg">July 20 at 10:24 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gpbnews-2022/gpbnews-2022-07-20T19:31:04.396990-04:00.jpg">
-  <img src="https://archive.org/download/gpbnews-2022/gpbnews-2022-07-20T19:31:04.396990-04:00.jpg"
-     alt="Georgia Public Broadcasting at 2022-07-20 19:31:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gpbnews-2022/gpbnews-2022-07-20T19:31:04.396990-04:00.jpg">July 20 at 7:31 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 12 hyperlink lists with the Internet Archive.
+The archiving routine has saved 13 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:35 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-07-26T10:35:16.286113-04:00.hyperlinks.json) |
 | [July 25 at 10:43 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-07-25T22:43:09.862182-04:00.hyperlinks.json) |
 | [July 25 at 8:04 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-07-25T08:04:52.027479-04:00.hyperlinks.json) |
 | [July 24 at 9:09 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-07-24T21:09:27.899735-04:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 10:27 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-07-22T22:27:40.605868-04:00.hyperlinks.json) |
 | [July 22 at 10:02 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-07-22T10:02:48.132065-04:00.hyperlinks.json) |
 | [July 21 at 10:22 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-07-21T22:22:14.293630-04:00.hyperlinks.json) |
-| [July 21 at 10:12 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-07-21T10:12:35.495037-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

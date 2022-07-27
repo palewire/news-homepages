@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 99 screenshots with the Internet Archive.
+The archiving routine has saved 100 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 99 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ringer-2022/ringer-2022-07-26T08:44:58.246246-07:00.jpg">
+  <img src="https://archive.org/download/ringer-2022/ringer-2022-07-26T08:44:58.246246-07:00.jpg"
+     alt="Ringer at 2022-07-26 08:44:59-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ringer-2022/ringer-2022-07-26T08:44:58.246246-07:00.jpg">July 26 at 8:44 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ringer-2022/ringer-2022-07-25T20:55:42.206510-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ringer-2022/ringer-2022-07-20T20:41:13.656716-07:00.jpg">July 20 at 8:41 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ringer-2022/ringer-2022-07-20T09:15:41.920735-07:00.jpg">
-  <img src="https://archive.org/download/ringer-2022/ringer-2022-07-20T09:15:41.920735-07:00.jpg"
-     alt="Ringer at 2022-07-20 09:15:46-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ringer-2022/ringer-2022-07-20T09:15:41.920735-07:00.jpg">July 20 at 9:15 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 100 hyperlink lists with the Internet Archive.
+The archiving routine has saved 101 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:45 AM](https://archive.org/download/ringer-2022/ringer-2022-07-26T08:44:58.246246-07:00.hyperlinks.json) |
 | [July 25 at 8:55 PM](https://archive.org/download/ringer-2022/ringer-2022-07-25T20:55:42.206510-07:00.hyperlinks.json) |
 | [July 25 at 8:40 AM](https://archive.org/download/ringer-2022/ringer-2022-07-25T08:40:22.297358-07:00.hyperlinks.json) |
 | [July 24 at 8:42 PM](https://archive.org/download/ringer-2022/ringer-2022-07-24T20:42:12.589866-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 8:38 PM](https://archive.org/download/ringer-2022/ringer-2022-07-22T20:38:05.713198-07:00.hyperlinks.json) |
 | [July 22 at 8:03 AM](https://archive.org/download/ringer-2022/ringer-2022-07-22T08:03:40.856412-07:00.hyperlinks.json) |
 | [July 21 at 8:43 PM](https://archive.org/download/ringer-2022/ringer-2022-07-21T20:43:07.999916-07:00.hyperlinks.json) |
-| [July 21 at 8:40 AM](https://archive.org/download/ringer-2022/ringer-2022-07-21T08:39:49.573961-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

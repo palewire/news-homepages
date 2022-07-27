@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 6 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-26T11:47:05.386718-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-26T11:47:05.386718-04:00.jpg"
+     alt="Daily Beast at 2022-07-26 11:47:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-26T11:47:05.386718-04:00.jpg">July 26 at 11:47 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-25T23:59:00.229029-04:00.jpg">
@@ -86,7 +95,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
 
 
@@ -94,6 +103,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:47 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-26T11:47:05.386718-04:00.hyperlinks.json) |
 | [July 25 at 11:59 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-25T23:59:00.229029-04:00.hyperlinks.json) |
 | [July 25 at 11:46 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-25T11:46:14.443782-04:00.hyperlinks.json) |
 | [July 24 at 11:06 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-24T11:06:25.876609-04:00.hyperlinks.json) |

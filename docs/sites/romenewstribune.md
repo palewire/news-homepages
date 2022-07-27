@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 12 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-26T11:44:34.663275-04:00.jpg">
+  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-26T11:44:34.663275-04:00.jpg"
+     alt="Rome News-Tribune at 2022-07-26 11:44:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-26T11:44:34.663275-04:00.jpg">July 26 at 11:44 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-25T23:56:15.397402-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-20T23:41:21.764795-04:00.jpg">July 20 at 11:41 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-20T19:30:54.747660-04:00.jpg">
-  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-20T19:30:54.747660-04:00.jpg"
-     alt="Rome News-Tribune at 2022-07-20 19:31:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-20T19:30:54.747660-04:00.jpg">July 20 at 7:31 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 11 hyperlink lists with the Internet Archive.
+The archiving routine has saved 12 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:44 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-26T11:44:34.663275-04:00.hyperlinks.json) |
 | [July 25 at 11:56 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-25T23:56:15.397402-04:00.hyperlinks.json) |
 | [July 25 at 11:40 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-25T11:40:24.002610-04:00.hyperlinks.json) |
 | [July 24 at 11:42 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-24T23:42:02.331842-04:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:38 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-22T23:38:29.157142-04:00.hyperlinks.json) |
 | [July 22 at 11:04 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-22T11:04:33.231135-04:00.hyperlinks.json) |
 | [July 21 at 11:43 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-21T23:43:28.327652-04:00.hyperlinks.json) |
-| [July 20 at 11:41 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-20T23:41:21.764795-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

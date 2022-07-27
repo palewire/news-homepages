@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 191 screenshots with the Internet Archive.
+The archiving routine has saved 192 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 191 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T08:29:44.703700-05:00.jpg">
+  <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T08:29:44.703700-05:00.jpg"
+     alt="Dubuque Telegraph Herald at 2022-07-26 08:29:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T08:29:44.703700-05:00.jpg">July 26 at 8:29 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T21:51:32.738232-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-22T11:13:39.827245-05:00.jpg">July 22 at 11:13 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-21T23:30:36.719766-05:00.jpg">
-  <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-21T23:30:36.719766-05:00.jpg"
-     alt="Dubuque Telegraph Herald at 2022-07-21 23:30:38-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-21T23:30:36.719766-05:00.jpg">July 21 at 11:30 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 158 hyperlink lists with the Internet Archive.
+The archiving routine has saved 159 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:29 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T08:29:44.703700-05:00.hyperlinks.json) |
 | [July 25 at 9:51 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T21:51:32.738232-05:00.hyperlinks.json) |
 | [July 25 at 8:33 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T20:33:50.502884-05:00.hyperlinks.json) |
 | [July 25 at 11:39 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T11:39:31.220848-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 10:40 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-23T22:40:29.868545-05:00.hyperlinks.json) |
 | [July 23 at 11:03 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-23T11:03:43.074549-05:00.hyperlinks.json) |
 | [July 22 at 11:24 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-22T23:24:07.626825-05:00.hyperlinks.json) |
-| [July 22 at 11:16 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-22T11:16:25.900038-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

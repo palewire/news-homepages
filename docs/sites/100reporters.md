@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 35 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-26T19:02:05.997150-04:00.jpg">
+  <img src="https://archive.org/download/100reporters-2022/100reporters-2022-07-26T19:02:05.997150-04:00.jpg"
+     alt="100Reporters at 2022-07-26 19:02:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-26T19:02:05.997150-04:00.jpg">July 26 at 7:02 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-25T19:04:46.085646-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-20T21:01:27.302401-04:00.jpg">July 20 at 9:01 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-20T08:50:23.776299-04:00.jpg">
-  <img src="https://archive.org/download/100reporters-2022/100reporters-2022-07-20T08:50:23.776299-04:00.jpg"
-     alt="100Reporters at 2022-07-20 08:50:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-20T08:50:23.776299-04:00.jpg">July 20 at 8:50 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:02 PM](https://archive.org/download/100reporters-2022/100reporters-2022-07-26T19:02:05.997150-04:00.hyperlinks.json) |
 | [July 26 at 7:09 AM](https://archive.org/download/100reporters-2022/100reporters-2022-07-26T07:09:17.361552-04:00.hyperlinks.json) |
 | [July 25 at 7:04 PM](https://archive.org/download/100reporters-2022/100reporters-2022-07-25T19:04:46.085646-04:00.hyperlinks.json) |
 | [July 25 at 6:55 AM](https://archive.org/download/100reporters-2022/100reporters-2022-07-25T06:55:35.889244-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:54 AM](https://archive.org/download/100reporters-2022/100reporters-2022-07-23T08:54:17.398635-04:00.hyperlinks.json) |
 | [July 22 at 8:54 PM](https://archive.org/download/100reporters-2022/100reporters-2022-07-22T20:54:46.391782-04:00.hyperlinks.json) |
 | [July 22 at 8:54 AM](https://archive.org/download/100reporters-2022/100reporters-2022-07-22T08:54:41.185346-04:00.hyperlinks.json) |
-| [July 21 at 9:02 PM](https://archive.org/download/100reporters-2022/100reporters-2022-07-21T21:02:47.853938-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

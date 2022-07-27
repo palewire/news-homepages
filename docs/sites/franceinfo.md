@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 210 screenshots with the Internet Archive.
+The archiving routine has saved 211 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 210 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-26T16:33:49.900270+02:00.jpg">
+  <img src="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-26T16:33:49.900270+02:00.jpg"
+     alt="franceinfo at 2022-07-26 16:33:51+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-26T16:33:49.900270+02:00.jpg">July 26 at 4:33 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-26T10:08:51.650760+02:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-23T04:26:03.428683+02:00.jpg">July 23 at 4:26 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-22T16:01:06.964343+02:00.jpg">
-  <img src="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-22T16:01:06.964343+02:00.jpg"
-     alt="franceinfo at 2022-07-22 16:01:08+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-22T16:01:06.964343+02:00.jpg">July 22 at 4:01 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 210 hyperlink lists with the Internet Archive.
+The archiving routine has saved 211 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 4:33 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-26T16:33:49.900270+02:00.hyperlinks.json) |
 | [July 26 at 10:09 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-26T10:08:51.650760+02:00.hyperlinks.json) |
 | [July 26 at 4:42 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-26T04:42:06.412581+02:00.hyperlinks.json) |
 | [July 25 at 2:02 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-25T14:02:50.957557+02:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 10:09 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-24T10:09:44.296222+02:00.hyperlinks.json) |
 | [July 24 at 8:30 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-24T08:30:27.276991+02:00.hyperlinks.json) |
 | [July 23 at 3:59 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-23T15:59:46.509398+02:00.hyperlinks.json) |
-| [July 23 at 10:07 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-23T10:07:01.915623+02:00.hyperlinks.json) |
 
 
 ## Internet Archive

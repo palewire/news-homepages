@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 80 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 80 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-26T09:29:40.516893-04:00.jpg">
+  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-07-26T09:29:40.516893-04:00.jpg"
+     alt="Alligator at 2022-07-26 09:29:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-26T09:29:40.516893-04:00.jpg">July 26 at 9:29 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-25T22:51:58.201781-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-21T12:54:33.600340-04:00.jpg">July 21 at 12:54 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-21T00:28:50.648922-04:00.jpg">
-  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-07-21T00:28:50.648922-04:00.jpg"
-     alt="Alligator at 2022-07-21 00:28:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-21T00:28:50.648922-04:00.jpg">July 21 at 12:28 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 77 hyperlink lists with the Internet Archive.
+The archiving routine has saved 78 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:29 AM](https://archive.org/download/thealligator-2022/thealligator-2022-07-26T09:29:40.516893-04:00.hyperlinks.json) |
 | [July 25 at 10:52 PM](https://archive.org/download/thealligator-2022/thealligator-2022-07-25T22:51:58.201781-04:00.hyperlinks.json) |
 | [July 25 at 9:34 PM](https://archive.org/download/thealligator-2022/thealligator-2022-07-25T21:34:35.232398-04:00.hyperlinks.json) |
 | [July 25 at 11:46 AM](https://archive.org/download/thealligator-2022/thealligator-2022-07-25T11:45:55.600794-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 12:04 PM](https://archive.org/download/thealligator-2022/thealligator-2022-07-23T12:04:16.933948-04:00.hyperlinks.json) |
 | [July 23 at 12:24 AM](https://archive.org/download/thealligator-2022/thealligator-2022-07-23T00:24:38.168119-04:00.hyperlinks.json) |
 | [July 22 at 12:16 PM](https://archive.org/download/thealligator-2022/thealligator-2022-07-22T12:16:42.732646-04:00.hyperlinks.json) |
-| [July 22 at 12:30 AM](https://archive.org/download/thealligator-2022/thealligator-2022-07-22T00:30:36.998342-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

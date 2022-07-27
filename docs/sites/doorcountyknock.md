@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 35 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-26T09:33:21.518757-05:00.jpg">
+  <img src="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-26T09:33:21.518757-05:00.jpg"
+     alt="Door County Knock at 2022-07-26 09:33:23-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-26T09:33:21.518757-05:00.jpg">July 26 at 9:33 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-25T21:40:46.056089-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-20T21:21:16.693162-05:00.jpg">July 20 at 9:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-20T09:18:10.858159-05:00.jpg">
-  <img src="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-20T09:18:10.858159-05:00.jpg"
-     alt="Door County Knock at 2022-07-20 09:18:13-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-20T09:18:10.858159-05:00.jpg">July 20 at 9:18 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:33 AM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-26T09:33:21.518757-05:00.hyperlinks.json) |
 | [July 25 at 9:40 PM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-25T21:40:46.056089-05:00.hyperlinks.json) |
 | [July 25 at 7:00 AM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-25T06:59:55.926988-05:00.hyperlinks.json) |
 | [July 24 at 8:02 PM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-24T20:01:57.991537-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 9:24 PM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-22T21:24:04.445822-05:00.hyperlinks.json) |
 | [July 22 at 8:59 AM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-22T08:59:33.900768-05:00.hyperlinks.json) |
 | [July 21 at 9:18 PM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-21T21:18:17.117386-05:00.hyperlinks.json) |
-| [July 21 at 9:04 AM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-21T09:03:55.734202-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

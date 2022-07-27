@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/independent_ie-2022/independent_ie-2022-07-27T01:11:43.198050+01:00.jpg">
+  <img src="https://archive.org/download/independent_ie-2022/independent_ie-2022-07-27T01:11:43.198050+01:00.jpg"
+     alt="Independent.ie at 2022-07-27 01:11:45+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/independent_ie-2022/independent_ie-2022-07-27T01:11:43.198050+01:00.jpg">July 27 at 1:11 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/independent_ie-2022/independent_ie-2022-07-26T13:19:08.360686+01:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/independent_ie-2022/independent_ie-2022-07-21T15:11:54.773652+01:00.jpg">July 21 at 3:11 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/independent_ie-2022/independent_ie-2022-07-21T03:25:34.890520+01:00.jpg">
-  <img src="https://archive.org/download/independent_ie-2022/independent_ie-2022-07-21T03:25:34.890520+01:00.jpg"
-     alt="Independent.ie at 2022-07-21 03:25:36+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/independent_ie-2022/independent_ie-2022-07-21T03:25:34.890520+01:00.jpg">July 21 at 3:25 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 18 hyperlink lists with the Internet Archive.
+The archiving routine has saved 19 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 1:11 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-07-27T01:11:43.198050+01:00.hyperlinks.json) |
 | [July 26 at 1:19 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-07-26T13:19:08.360686+01:00.hyperlinks.json) |
 | [July 26 at 1:16 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-07-26T01:15:56.479193+01:00.hyperlinks.json) |
 | [July 25 at 1:06 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-07-25T13:06:46.675337+01:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 3:03 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-07-23T15:03:00.180539+01:00.hyperlinks.json) |
 | [July 23 at 3:28 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-07-23T03:28:38.727359+01:00.hyperlinks.json) |
 | [July 22 at 3:04 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-07-22T15:03:55.172619+01:00.hyperlinks.json) |
-| [July 22 at 3:23 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-07-22T03:23:21.636199+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

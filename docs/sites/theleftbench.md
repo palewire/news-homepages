@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-26T09:30:43.370671-04:00.jpg">
+  <img src="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-26T09:30:43.370671-04:00.jpg"
+     alt="Left Bench at 2022-07-26 09:30:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-26T09:30:43.370671-04:00.jpg">July 26 at 9:30 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-25T22:51:43.399088-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-20T12:46:50.770167-04:00.jpg">July 20 at 12:46 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-20T00:33:31.853296-04:00.jpg">
-  <img src="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-20T00:33:31.853296-04:00.jpg"
-     alt="Left Bench at 2022-07-20 00:33:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-20T00:33:31.853296-04:00.jpg">July 20 at 12:33 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -231,6 +231,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:30 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-26T09:30:43.370671-04:00.hyperlinks.json) |
 | [July 25 at 10:51 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-25T22:51:43.399088-04:00.hyperlinks.json) |
 | [July 25 at 9:35 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-25T21:35:22.232382-04:00.hyperlinks.json) |
 | [July 25 at 11:47 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-25T11:47:29.945232-04:00.hyperlinks.json) |
@@ -240,7 +241,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 12:05 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-23T12:04:56.308865-04:00.hyperlinks.json) |
 | [July 23 at 12:25 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-23T00:25:36.416826-04:00.hyperlinks.json) |
 | [July 22 at 12:17 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-22T12:17:49.080683-04:00.hyperlinks.json) |
-| [July 22 at 12:32 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-22T00:32:00.465020-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

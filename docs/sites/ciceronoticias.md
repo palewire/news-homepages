@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 41 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-26T18:06:43.010300-05:00.jpg">
+  <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-26T18:06:43.010300-05:00.jpg"
+     alt="Cicero Independiente at 2022-07-26 18:06:45-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-26T18:06:43.010300-05:00.jpg">July 26 at 6:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-26T11:00:08.437028-05:00.jpg">
+  <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-26T11:00:08.437028-05:00.jpg"
+     alt="Cicero Independiente at 2022-07-26 11:00:11-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-26T11:00:08.437028-05:00.jpg">July 26 at 11:00 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-26T06:14:58.403979-05:00.jpg">
   <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-26T06:14:58.403979-05:00.jpg"
      alt="Cicero Independiente at 2022-07-26 06:15:01-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T20:01:22.816598-05:00.jpg">July 22 at 8:01 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T11:23:38.325768-05:00.jpg">
-  <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T11:23:38.325768-05:00.jpg"
-     alt="Cicero Independiente at 2022-07-22 11:23:40-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T11:23:38.325768-05:00.jpg">July 22 at 11:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T08:01:33.702714-05:00.jpg">
-  <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T08:01:33.702714-05:00.jpg"
-     alt="Cicero Independiente at 2022-07-22 08:01:35-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T08:01:33.702714-05:00.jpg">July 22 at 8:01 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 41 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 6:06 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-26T18:06:43.010300-05:00.hyperlinks.json) |
+| [July 26 at 11:00 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-26T11:00:08.437028-05:00.hyperlinks.json) |
 | [July 26 at 6:15 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-26T06:14:58.403979-05:00.hyperlinks.json) |
 | [July 25 at 6:11 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-25T18:10:31.382409-05:00.hyperlinks.json) |
 | [July 25 at 11:36 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-25T11:36:00.198091-05:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 10:45 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-24T10:45:54.025788-05:00.hyperlinks.json) |
 | [July 24 at 6:02 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-24T06:01:54.851166-05:00.hyperlinks.json) |
 | [July 23 at 6:03 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-23T18:03:42.658203-05:00.hyperlinks.json) |
-| [July 23 at 8:00 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-23T08:00:46.760241-05:00.hyperlinks.json) |
-| [July 22 at 8:01 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-07-22T20:01:22.816598-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

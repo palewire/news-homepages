@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 31 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 31 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rt_com-2022/rt_com-2022-07-26T18:44:24.369869+03:00.jpg">
+  <img src="https://archive.org/download/rt_com-2022/rt_com-2022-07-26T18:44:24.369869+03:00.jpg"
+     alt="RT at 2022-07-26 18:44:28+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-07-26T18:44:24.369869+03:00.jpg">July 26 at 6:44 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rt_com-2022/rt_com-2022-07-26T08:30:07.598583+03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-07-23T06:38:35.910494+03:00.jpg">July 23 at 6:38 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rt_com-2022/rt_com-2022-07-22T18:04:22.730646+03:00.jpg">
-  <img src="https://archive.org/download/rt_com-2022/rt_com-2022-07-22T18:04:22.730646+03:00.jpg"
-     alt="RT at 2022-07-22 18:04:25+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-07-22T18:04:22.730646+03:00.jpg">July 22 at 6:04 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 6:44 PM](https://archive.org/download/rt_com-2022/rt_com-2022-07-26T18:44:24.369869+03:00.hyperlinks.json) |
 | [July 26 at 8:30 AM](https://archive.org/download/rt_com-2022/rt_com-2022-07-26T08:30:07.598583+03:00.hyperlinks.json) |
 | [July 26 at 6:56 AM](https://archive.org/download/rt_com-2022/rt_com-2022-07-26T06:56:14.921118+03:00.hyperlinks.json) |
 | [July 25 at 6:40 PM](https://archive.org/download/rt_com-2022/rt_com-2022-07-25T18:40:09.843876+03:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 9:47 AM](https://archive.org/download/rt_com-2022/rt_com-2022-07-24T09:47:27.309787+03:00.hyperlinks.json) |
 | [July 24 at 9:22 AM](https://archive.org/download/rt_com-2022/rt_com-2022-07-24T09:22:22.189466+03:00.hyperlinks.json) |
 | [July 23 at 6:09 PM](https://archive.org/download/rt_com-2022/rt_com-2022-07-23T18:09:10.205563+03:00.hyperlinks.json) |
-| [July 23 at 8:11 AM](https://archive.org/download/rt_com-2022/rt_com-2022-07-23T08:11:36.880533+03:00.hyperlinks.json) |
 
 
 ## Internet Archive

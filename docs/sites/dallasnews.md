@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 76 screenshots with the Internet Archive.
+The archiving routine has saved 77 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 76 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-26T09:32:20.848834-05:00.jpg">
+  <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-26T09:32:20.848834-05:00.jpg"
+     alt="Dallas Morning News at 2022-07-26 09:32:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-26T09:32:20.848834-05:00.jpg">July 26 at 9:32 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-25T21:40:44.879518-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-20T20:09:43.484982-05:00.jpg">July 20 at 8:09 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-20T07:58:10.583009-05:00.jpg">
-  <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-20T07:58:10.583009-05:00.jpg"
-     alt="Dallas Morning News at 2022-07-20 07:58:11-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-07-20T07:58:10.583009-05:00.jpg">July 20 at 7:58 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 78 hyperlink lists with the Internet Archive.
+The archiving routine has saved 79 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:32 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-07-26T09:32:20.848834-05:00.hyperlinks.json) |
 | [July 25 at 9:40 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-07-25T21:40:44.879518-05:00.hyperlinks.json) |
 | [July 25 at 6:58 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-07-25T06:58:31.139937-05:00.hyperlinks.json) |
 | [July 24 at 7:59 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-07-24T19:59:18.984325-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 8:04 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-07-22T20:04:06.285833-05:00.hyperlinks.json) |
 | [July 22 at 8:03 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-07-22T08:03:29.990497-05:00.hyperlinks.json) |
 | [July 21 at 8:11 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-07-21T20:10:58.713050-05:00.hyperlinks.json) |
-| [July 21 at 7:57 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-07-21T07:57:04.591061-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-07-26T13:07:02.206986-10:00.jpg">
+  <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-07-26T13:07:02.206986-10:00.jpg"
+     alt="Honolulu Civil Beat at 2022-07-26 13:07:04-10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-07-26T13:07:02.206986-10:00.jpg">July 26 at 1:07 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-07-26T01:15:00.081935-10:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-07-21T02:56:05.337709-10:00.jpg">July 21 at 2:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-07-20T15:08:28.345222-10:00.jpg">
-  <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-07-20T15:08:28.345222-10:00.jpg"
-     alt="Honolulu Civil Beat at 2022-07-20 15:08:30-10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-07-20T15:08:28.345222-10:00.jpg">July 20 at 3:08 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 37 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 1:07 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-07-26T13:07:02.206986-10:00.hyperlinks.json) |
 | [July 26 at 1:15 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-07-26T01:15:00.081935-10:00.hyperlinks.json) |
 | [July 25 at 1:10 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-07-25T13:10:22.445018-10:00.hyperlinks.json) |
 | [July 25 at 1:02 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-07-25T01:02:36.713932-10:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 3:01 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-07-23T03:01:06.881953-10:00.hyperlinks.json) |
 | [July 22 at 3:01 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-07-22T15:01:05.938350-10:00.hyperlinks.json) |
 | [July 22 at 3:01 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-07-22T03:01:18.352307-10:00.hyperlinks.json) |
-| [July 21 at 3:09 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-07-21T15:09:17.071428-10:00.hyperlinks.json) |
 
 
 ## Internet Archive

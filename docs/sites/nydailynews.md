@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 49 screenshots with the Internet Archive.
+The archiving routine has saved 50 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 49 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-26T20:17:02.946379-04:00.jpg">
+  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-26T20:17:02.946379-04:00.jpg"
+     alt="Daily News at 2022-07-26 20:17:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-26T20:17:02.946379-04:00.jpg">July 26 at 8:17 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-26T08:26:36.107553-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-21T11:34:39.243913-04:00.jpg">July 21 at 11:34 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-20T23:37:37.797793-04:00.jpg">
-  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-20T23:37:37.797793-04:00.jpg"
-     alt="Daily News at 2022-07-20 23:37:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-20T23:37:37.797793-04:00.jpg">July 20 at 11:37 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:17 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-26T20:17:02.946379-04:00.hyperlinks.json) |
 | [July 26 at 8:26 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-26T08:26:36.107553-04:00.hyperlinks.json) |
 | [July 25 at 8:21 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-25T20:21:33.515072-04:00.hyperlinks.json) |
 | [July 24 at 11:37 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-24T23:37:13.569094-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:00 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-22T10:59:59.134296-04:00.hyperlinks.json) |
 | [July 21 at 11:39 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-21T23:38:53.349664-04:00.hyperlinks.json) |
 | [July 21 at 11:34 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-21T11:34:39.243913-04:00.hyperlinks.json) |
-| [July 20 at 11:37 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-20T23:37:37.797793-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

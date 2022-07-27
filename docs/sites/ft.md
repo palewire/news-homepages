@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 315 screenshots with the Internet Archive.
+The archiving routine has saved 316 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 315 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ft-2022/ft-2022-07-26T15:39:13.880778+01:00.jpg">
+  <img src="https://archive.org/download/ft-2022/ft-2022-07-26T15:39:13.880778+01:00.jpg"
+     alt="Financial Times at 2022-07-26 15:39:15+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-07-26T15:39:13.880778+01:00.jpg">July 26 at 3:39 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ft-2022/ft-2022-07-26T10:08:50.366608+01:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ft-2022/ft-2022-07-23T03:26:28.177012+01:00.jpg">July 23 at 3:26 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ft-2022/ft-2022-07-22T15:01:40.336805+01:00.jpg">
-  <img src="https://archive.org/download/ft-2022/ft-2022-07-22T15:01:40.336805+01:00.jpg"
-     alt="Financial Times at 2022-07-22 15:01:42+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-07-22T15:01:40.336805+01:00.jpg">July 22 at 3:01 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 301 hyperlink lists with the Internet Archive.
+The archiving routine has saved 302 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 3:39 PM](https://archive.org/download/ft-2022/ft-2022-07-26T15:39:13.880778+01:00.hyperlinks.json) |
 | [July 26 at 10:09 AM](https://archive.org/download/ft-2022/ft-2022-07-26T10:08:50.366608+01:00.hyperlinks.json) |
 | [July 26 at 3:41 AM](https://archive.org/download/ft-2022/ft-2022-07-26T03:41:52.364487+01:00.hyperlinks.json) |
 | [July 25 at 1:03 PM](https://archive.org/download/ft-2022/ft-2022-07-25T13:03:11.825962+01:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 10:10 AM](https://archive.org/download/ft-2022/ft-2022-07-24T10:09:59.470294+01:00.hyperlinks.json) |
 | [July 24 at 7:30 AM](https://archive.org/download/ft-2022/ft-2022-07-24T07:30:31.643603+01:00.hyperlinks.json) |
 | [July 23 at 3:01 PM](https://archive.org/download/ft-2022/ft-2022-07-23T15:01:04.918195+01:00.hyperlinks.json) |
-| [July 23 at 10:06 AM](https://archive.org/download/ft-2022/ft-2022-07-23T10:06:33.040532+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

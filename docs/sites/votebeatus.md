@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 108 screenshots with the Internet Archive.
+The archiving routine has saved 109 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 108 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-26T09:33:37.013476-04:00.jpg">
+  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-26T09:33:37.013476-04:00.jpg"
+     alt="Votebeat at 2022-07-26 09:33:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-26T09:33:37.013476-04:00.jpg">July 26 at 9:33 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-25T22:54:49.156609-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-21T12:58:55.945407-04:00.jpg">July 21 at 12:59 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-21T00:32:42.899878-04:00.jpg">
-  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-21T00:32:42.899878-04:00.jpg"
-     alt="Votebeat at 2022-07-21 00:32:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-21T00:32:42.899878-04:00.jpg">July 21 at 12:32 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 109 hyperlink lists with the Internet Archive.
+The archiving routine has saved 110 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:33 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-26T09:33:37.013476-04:00.hyperlinks.json) |
 | [July 25 at 10:54 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-25T22:54:49.156609-04:00.hyperlinks.json) |
 | [July 25 at 9:38 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-25T21:38:50.401077-04:00.hyperlinks.json) |
 | [July 25 at 11:51 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-25T11:51:48.163388-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 12:09 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-23T12:09:15.287709-04:00.hyperlinks.json) |
 | [July 23 at 12:28 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-23T00:28:31.602343-04:00.hyperlinks.json) |
 | [July 22 at 12:22 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-22T12:22:17.214447-04:00.hyperlinks.json) |
-| [July 22 at 12:35 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-22T00:35:05.273389-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

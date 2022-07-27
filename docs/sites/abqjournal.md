@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 192 screenshots with the Internet Archive.
+The archiving routine has saved 193 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 192 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T17:01:55.343590-06:00.jpg">
+  <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T17:01:55.343590-06:00.jpg"
+     alt="Albuquerque Journal at 2022-07-26 17:01:59-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T17:01:55.343590-06:00.jpg">July 26 at 5:01 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T05:11:44.994020-06:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-21T06:49:42.884995-06:00.jpg">July 21 at 6:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-20T19:01:34.563642-06:00.jpg">
-  <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-20T19:01:34.563642-06:00.jpg"
-     alt="Albuquerque Journal at 2022-07-20 19:01:36-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-20T19:01:34.563642-06:00.jpg">July 20 at 7:01 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 188 hyperlink lists with the Internet Archive.
+The archiving routine has saved 189 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 5:02 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T17:01:55.343590-06:00.hyperlinks.json) |
 | [July 26 at 5:11 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T05:11:44.994020-06:00.hyperlinks.json) |
 | [July 25 at 5:06 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T17:05:51.403974-06:00.hyperlinks.json) |
 | [July 25 at 4:56 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T04:56:16.169444-06:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 6:54 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T06:54:17.746605-06:00.hyperlinks.json) |
 | [July 22 at 6:56 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-22T18:56:05.851031-06:00.hyperlinks.json) |
 | [July 22 at 6:54 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-22T06:54:34.454059-06:00.hyperlinks.json) |
-| [July 21 at 7:02 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-21T19:02:38.109823-06:00.hyperlinks.json) |
 
 
 ## Internet Archive

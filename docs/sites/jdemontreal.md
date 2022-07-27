@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 70 screenshots with the Internet Archive.
+The archiving routine has saved 71 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 70 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-26T10:36:38.798303-04:00.jpg">
+  <img src="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-26T10:36:38.798303-04:00.jpg"
+     alt="La Journal de Montréal at 2022-07-26 10:36:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-26T10:36:38.798303-04:00.jpg">July 26 at 10:36 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-25T22:44:46.711445-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-20T22:26:45.093237-04:00.jpg">July 20 at 10:26 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-20T10:27:41.150682-04:00.jpg">
-  <img src="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-20T10:27:41.150682-04:00.jpg"
-     alt="La Journal de Montréal at 2022-07-20 10:27:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-20T10:27:41.150682-04:00.jpg">July 20 at 10:27 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 70 hyperlink lists with the Internet Archive.
+The archiving routine has saved 71 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:36 AM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-26T10:36:38.798303-04:00.hyperlinks.json) |
 | [July 25 at 10:44 PM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-25T22:44:46.711445-04:00.hyperlinks.json) |
 | [July 25 at 9:09 AM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-25T09:09:24.649888-04:00.hyperlinks.json) |
 | [July 24 at 11:23 PM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-24T23:23:53.354497-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 10:29 PM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-22T22:29:49.324322-04:00.hyperlinks.json) |
 | [July 22 at 10:04 AM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-22T10:04:39.908073-04:00.hyperlinks.json) |
 | [July 21 at 10:24 PM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-21T22:23:54.133960-04:00.hyperlinks.json) |
-| [July 21 at 10:13 AM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-21T10:13:39.953914-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

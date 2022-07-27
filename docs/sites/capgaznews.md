@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 82 screenshots with the Internet Archive.
+The archiving routine has saved 83 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 82 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T09:26:55.715698-04:00.jpg">
+  <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T09:26:55.715698-04:00.jpg"
+     alt="Capital Gazette at 2022-07-26 09:27:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T09:26:55.715698-04:00.jpg">July 26 at 9:27 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T22:57:56.265269-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-21T08:54:08.348964-04:00.jpg">July 21 at 8:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-20T21:06:40.337947-04:00.jpg">
-  <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-20T21:06:40.337947-04:00.jpg"
-     alt="Capital Gazette at 2022-07-20 21:06:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-20T21:06:40.337947-04:00.jpg">July 20 at 9:06 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 82 hyperlink lists with the Internet Archive.
+The archiving routine has saved 83 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:27 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T09:26:55.715698-04:00.hyperlinks.json) |
 | [July 25 at 10:58 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T22:57:56.265269-04:00.hyperlinks.json) |
 | [July 25 at 9:31 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T21:31:19.272851-04:00.hyperlinks.json) |
 | [July 25 at 7:01 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T07:01:12.124022-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 9:00 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-22T09:00:09.759640-04:00.hyperlinks.json) |
 | [July 21 at 9:08 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-21T21:08:08.326984-04:00.hyperlinks.json) |
 | [July 21 at 8:54 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-21T08:54:08.348964-04:00.hyperlinks.json) |
-| [July 20 at 9:06 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-20T21:06:40.337947-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

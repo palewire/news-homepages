@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-26T07:23:40.744255-06:00.jpg">
+  <img src="https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-26T07:23:40.744255-06:00.jpg"
+     alt="KVIA at 2022-07-26 07:23:43-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-26T07:23:40.744255-06:00.jpg">July 26 at 7:23 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-25T21:55:14.276672-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-21T07:49:30.438225-05:00.jpg">July 21 at 6:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-20T20:01:21.119322-05:00.jpg">
-  <img src="https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-20T20:01:21.119322-05:00.jpg"
-     alt="KVIA at 2022-07-20 19:01:22-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-20T20:01:21.119322-05:00.jpg">July 20 at 7:01 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:23 AM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-26T07:23:40.744255-06:00.hyperlinks.json) |
 | [July 25 at 8:55 PM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-25T21:55:14.276672-05:00.hyperlinks.json) |
 | [July 25 at 7:30 PM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-25T20:30:52.929818-05:00.hyperlinks.json) |
 | [July 25 at 4:56 AM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-25T05:56:28.599455-05:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 6:54 AM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-23T07:54:11.852534-05:00.hyperlinks.json) |
 | [July 22 at 6:55 PM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-22T19:55:03.991472-05:00.hyperlinks.json) |
 | [July 22 at 6:54 AM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-22T07:54:29.921734-05:00.hyperlinks.json) |
-| [July 21 at 7:02 PM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-21T20:02:18.544517-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

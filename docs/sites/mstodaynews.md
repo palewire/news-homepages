@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-26T20:15:19.400827-04:00.jpg">
+  <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-26T20:15:19.400827-04:00.jpg"
+     alt="Mississippi Today at 2022-07-26 20:15:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-26T20:15:19.400827-04:00.jpg">July 26 at 8:15 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-26T08:24:56.354549-04:00.jpg">
@@ -122,7 +131,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 10 hyperlink lists with the Internet Archive.
+The archiving routine has saved 11 hyperlink lists with the Internet Archive.
 
 
 
@@ -130,6 +139,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:15 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-26T20:15:19.400827-04:00.hyperlinks.json) |
 | [July 26 at 8:25 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-26T08:24:56.354549-04:00.hyperlinks.json) |
 | [July 25 at 8:19 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-25T20:19:40.890648-04:00.hyperlinks.json) |
 | [July 25 at 9:14 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-25T09:14:53.495362-04:00.hyperlinks.json) |
@@ -139,7 +149,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:01 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-23T11:01:37.028396-04:00.hyperlinks.json) |
 | [July 22 at 11:32 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-22T23:32:02.859357-04:00.hyperlinks.json) |
 | [July 22 at 10:57 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-22T10:57:47.046911-04:00.hyperlinks.json) |
-| [July 21 at 11:36 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-21T23:35:52.218253-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 61 screenshots with the Internet Archive.
+The archiving routine has saved 62 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 61 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-26T15:31:19.754750+01:00.jpg">
+  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-26T15:31:19.754750+01:00.jpg"
+     alt="Daily Mirror at 2022-07-26 15:31:23+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-26T15:31:19.754750+01:00.jpg">July 26 at 3:31 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-26T10:08:25.541156+01:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-23T02:03:15.511837+01:00.jpg">July 23 at 2:03 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-22T14:02:39.396856+01:00.jpg">
-  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-22T14:02:39.396856+01:00.jpg"
-     alt="Daily Mirror at 2022-07-22 14:02:41+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-22T14:02:39.396856+01:00.jpg">July 22 at 2:02 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 59 hyperlink lists with the Internet Archive.
+The archiving routine has saved 60 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 3:31 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-26T15:31:19.754750+01:00.hyperlinks.json) |
 | [July 26 at 10:08 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-26T10:08:25.541156+01:00.hyperlinks.json) |
 | [July 26 at 3:40 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-26T03:40:24.707760+01:00.hyperlinks.json) |
 | [July 25 at 12:59 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-25T12:59:01.920933+01:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 7:25 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-24T07:25:47.451903+01:00.hyperlinks.json) |
 | [July 23 at 2:03 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-23T14:03:03.427493+01:00.hyperlinks.json) |
 | [July 23 at 10:06 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-23T10:06:34.319591+01:00.hyperlinks.json) |
-| [July 23 at 2:03 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-23T02:03:15.511837+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 35 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T10:45:41.477922-05:00.jpg">
+  <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T10:45:41.477922-05:00.jpg"
+     alt="Springfield Daily Citizen at 2022-07-26 10:45:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T10:45:41.477922-05:00.jpg">July 26 at 10:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T22:56:50.738263-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-20T23:26:38.179412-05:00.jpg">July 20 at 11:26 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-20T11:42:02.125158-05:00.jpg">
-  <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-20T11:42:02.125158-05:00.jpg"
-     alt="Springfield Daily Citizen at 2022-07-20 11:42:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-20T11:42:02.125158-05:00.jpg">July 20 at 11:42 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:45 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T10:45:41.477922-05:00.hyperlinks.json) |
 | [July 25 at 10:56 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T22:56:50.738263-05:00.hyperlinks.json) |
 | [July 25 at 10:41 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T10:41:46.691358-05:00.hyperlinks.json) |
 | [July 24 at 10:44 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T22:44:04.687440-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:22 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-22T23:22:00.079885-05:00.hyperlinks.json) |
 | [July 22 at 11:14 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-22T11:14:26.359554-05:00.hyperlinks.json) |
 | [July 21 at 11:28 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-21T23:28:26.054216-05:00.hyperlinks.json) |
-| [July 21 at 11:51 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-21T11:51:37.247725-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 1 screenshots with the Internet Archive.
+The archiving routine has saved 2 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gradynewsource-2022/gradynewsource-2022-07-26T10:35:00.772258-04:00.jpg">
+  <img src="https://archive.org/download/gradynewsource-2022/gradynewsource-2022-07-26T10:35:00.772258-04:00.jpg"
+     alt="Grady Newsource at 2022-07-26 10:35:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gradynewsource-2022/gradynewsource-2022-07-26T10:35:00.772258-04:00.jpg">July 26 at 10:35 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gradynewsource-2022/gradynewsource-2022-07-25T22:43:04.189287-04:00.jpg">
@@ -41,7 +50,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 1 hyperlink lists with the Internet Archive.
+The archiving routine has saved 2 hyperlink lists with the Internet Archive.
 
 
 
@@ -49,6 +58,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:35 AM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-07-26T10:35:00.772258-04:00.hyperlinks.json) |
 | [July 25 at 10:43 PM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-07-25T22:43:04.189287-04:00.hyperlinks.json) |
 
 

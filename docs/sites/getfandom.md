@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/getfandom-2022/getfandom-2022-07-26T07:34:45.445066-07:00.jpg">
+  <img src="https://archive.org/download/getfandom-2022/getfandom-2022-07-26T07:34:45.445066-07:00.jpg"
+     alt="Fandom at 2022-07-26 07:34:46-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/getfandom-2022/getfandom-2022-07-26T07:34:45.445066-07:00.jpg">July 26 at 7:34 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/getfandom-2022/getfandom-2022-07-25T19:43:25.810247-07:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/getfandom-2022/getfandom-2022-07-20T19:24:41.877821-07:00.jpg">July 20 at 7:24 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/getfandom-2022/getfandom-2022-07-20T07:24:22.054568-07:00.jpg">
-  <img src="https://archive.org/download/getfandom-2022/getfandom-2022-07-20T07:24:22.054568-07:00.jpg"
-     alt="Fandom at 2022-07-20 07:24:23-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/getfandom-2022/getfandom-2022-07-20T07:24:22.054568-07:00.jpg">July 20 at 7:24 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:34 AM](https://archive.org/download/getfandom-2022/getfandom-2022-07-26T07:34:45.445066-07:00.hyperlinks.json) |
 | [July 25 at 7:43 PM](https://archive.org/download/getfandom-2022/getfandom-2022-07-25T19:43:25.810247-07:00.hyperlinks.json) |
 | [July 25 at 5:04 AM](https://archive.org/download/getfandom-2022/getfandom-2022-07-25T05:04:27.024088-07:00.hyperlinks.json) |
 | [July 24 at 6:07 PM](https://archive.org/download/getfandom-2022/getfandom-2022-07-24T18:07:29.017073-07:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 7:27 PM](https://archive.org/download/getfandom-2022/getfandom-2022-07-22T19:26:59.317092-07:00.hyperlinks.json) |
 | [July 22 at 7:02 AM](https://archive.org/download/getfandom-2022/getfandom-2022-07-22T07:02:15.679664-07:00.hyperlinks.json) |
 | [July 21 at 7:21 PM](https://archive.org/download/getfandom-2022/getfandom-2022-07-21T19:21:33.537628-07:00.hyperlinks.json) |
-| [July 21 at 7:08 AM](https://archive.org/download/getfandom-2022/getfandom-2022-07-21T07:08:30.360135-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

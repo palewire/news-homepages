@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-27T01:16:37.681262+01:00.jpg">
+  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-07-27T01:16:37.681262+01:00.jpg"
+     alt="Belfast News Letter at 2022-07-27 01:16:39+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-27T01:16:37.681262+01:00.jpg">July 27 at 1:16 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-26T13:25:33.154028+01:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-20T17:10:03.724008+01:00.jpg">July 20 at 5:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-20T04:34:08.980340+01:00.jpg">
-  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-07-20T04:34:08.980340+01:00.jpg"
-     alt="Belfast News Letter at 2022-07-20 04:34:10+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-20T04:34:08.980340+01:00.jpg">July 20 at 4:34 AM</a></p>
 </div>
 
 </div>

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 225 screenshots with the Internet Archive.
+The archiving routine has saved 226 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 225 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-26T16:04:16.432441-07:00.jpg">
+  <img src="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-26T16:04:16.432441-07:00.jpg"
+     alt="The Berkeleyside at 2022-07-26 16:04:23-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-26T16:04:16.432441-07:00.jpg">July 26 at 4:04 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-26T04:12:19.838856-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-21T05:52:24.814797-07:00.jpg">July 21 at 5:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-20T18:04:31.043475-07:00.jpg">
-  <img src="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-20T18:04:31.043475-07:00.jpg"
-     alt="The Berkeleyside at 2022-07-20 18:04:32-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-20T18:04:31.043475-07:00.jpg">July 20 at 6:04 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 215 hyperlink lists with the Internet Archive.
+The archiving routine has saved 216 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 4:04 PM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-26T16:04:16.432441-07:00.hyperlinks.json) |
 | [July 26 at 4:12 AM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-26T04:12:19.838856-07:00.hyperlinks.json) |
 | [July 25 at 4:07 PM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-25T16:07:27.265510-07:00.hyperlinks.json) |
 | [July 25 at 3:59 AM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-25T03:59:22.280440-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 5:57 AM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-23T05:57:37.935190-07:00.hyperlinks.json) |
 | [July 22 at 5:58 PM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-22T17:58:16.132192-07:00.hyperlinks.json) |
 | [July 22 at 5:58 AM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-22T05:57:56.598090-07:00.hyperlinks.json) |
-| [July 21 at 6:06 PM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-21T18:06:05.802719-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

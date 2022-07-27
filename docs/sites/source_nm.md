@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 192 screenshots with the Internet Archive.
+The archiving routine has saved 193 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 192 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-26T09:45:44.958537-06:00.jpg">
+  <img src="https://archive.org/download/source_nm-2022/source_nm-2022-07-26T09:45:44.958537-06:00.jpg"
+     alt="Source New Mexico at 2022-07-26 09:45:49-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-26T09:45:44.958537-06:00.jpg">July 26 at 9:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-25T21:57:25.919837-06:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-20T22:26:34.959337-06:00.jpg">July 20 at 10:26 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-20T10:42:23.381884-06:00.jpg">
-  <img src="https://archive.org/download/source_nm-2022/source_nm-2022-07-20T10:42:23.381884-06:00.jpg"
-     alt="Source New Mexico at 2022-07-20 10:42:25-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-20T10:42:23.381884-06:00.jpg">July 20 at 10:42 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 186 hyperlink lists with the Internet Archive.
+The archiving routine has saved 187 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:45 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-26T09:45:44.958537-06:00.hyperlinks.json) |
 | [July 25 at 9:57 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-25T21:57:25.919837-06:00.hyperlinks.json) |
 | [July 25 at 9:42 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-25T09:42:50.458363-06:00.hyperlinks.json) |
 | [July 24 at 9:44 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-24T21:44:14.030476-06:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 10:22 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-22T22:22:04.236403-06:00.hyperlinks.json) |
 | [July 22 at 10:16 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-22T10:16:52.118647-06:00.hyperlinks.json) |
 | [July 21 at 10:28 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-21T22:28:47.539151-06:00.hyperlinks.json) |
-| [July 21 at 10:53 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-21T10:52:55.647904-06:00.hyperlinks.json) |
 
 
 ## Internet Archive

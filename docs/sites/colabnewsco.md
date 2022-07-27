@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-26T07:27:10.146306-06:00.jpg">
+  <img src="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-26T07:27:10.146306-06:00.jpg"
+     alt="Colorado News Collaborative at 2022-07-26 07:27:14-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-26T07:27:10.146306-06:00.jpg">July 26 at 7:27 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-25T20:59:18.319034-06:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-21T06:55:22.541706-06:00.jpg">July 21 at 6:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-20T19:08:26.421774-06:00.jpg">
-  <img src="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-20T19:08:26.421774-06:00.jpg"
-     alt="Colorado News Collaborative at 2022-07-20 19:08:28-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-20T19:08:26.421774-06:00.jpg">July 20 at 7:08 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 37 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:27 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-26T07:27:10.146306-06:00.hyperlinks.json) |
 | [July 25 at 8:59 PM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-25T20:59:18.319034-06:00.hyperlinks.json) |
 | [July 25 at 7:33 PM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-25T19:32:59.386003-06:00.hyperlinks.json) |
 | [July 25 at 5:03 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-25T05:03:31.738513-06:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 7:01 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-23T07:01:13.083642-06:00.hyperlinks.json) |
 | [July 22 at 7:02 PM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-22T19:01:58.569102-06:00.hyperlinks.json) |
 | [July 22 at 7:02 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-22T07:02:11.654818-06:00.hyperlinks.json) |
-| [July 21 at 7:09 PM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-07-21T19:09:20.848268-06:00.hyperlinks.json) |
 
 
 ## Internet Archive

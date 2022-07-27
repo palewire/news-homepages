@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 13 screenshots with the Internet Archive.
+The archiving routine has saved 14 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbs46-2022/cbs46-2022-07-26T09:27:32.202902-04:00.jpg">
+  <img src="https://archive.org/download/cbs46-2022/cbs46-2022-07-26T09:27:32.202902-04:00.jpg"
+     alt="CBS46 at 2022-07-26 09:27:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-07-26T09:27:32.202902-04:00.jpg">July 26 at 9:27 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbs46-2022/cbs46-2022-07-25T22:58:26.338934-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-07-21T08:54:41.145100-04:00.jpg">July 21 at 8:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cbs46-2022/cbs46-2022-07-20T21:06:42.060800-04:00.jpg">
-  <img src="https://archive.org/download/cbs46-2022/cbs46-2022-07-20T21:06:42.060800-04:00.jpg"
-     alt="CBS46 at 2022-07-20 21:06:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-07-20T21:06:42.060800-04:00.jpg">July 20 at 9:06 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 13 hyperlink lists with the Internet Archive.
+The archiving routine has saved 14 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:27 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-26T09:27:32.202902-04:00.hyperlinks.json) |
 | [July 25 at 10:58 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-25T22:58:26.338934-04:00.hyperlinks.json) |
 | [July 25 at 9:31 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-25T21:31:30.444205-04:00.hyperlinks.json) |
 | [July 25 at 7:01 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-25T07:01:53.457931-04:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:59 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-23T08:59:36.761391-04:00.hyperlinks.json) |
 | [July 22 at 9:00 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-22T21:00:44.728215-04:00.hyperlinks.json) |
 | [July 22 at 9:00 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-22T09:00:13.577535-04:00.hyperlinks.json) |
-| [July 21 at 9:07 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-21T21:07:45.423085-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

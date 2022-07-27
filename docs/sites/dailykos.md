@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 25 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-26T14:36:24.543366-04:00.jpg">
+  <img src="https://archive.org/download/dailykos-2022/dailykos-2022-07-26T14:36:24.543366-04:00.jpg"
+     alt="Daily Kos at 2022-07-26 14:36:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-26T14:36:24.543366-04:00.jpg">July 26 at 2:36 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-26T10:31:13.591814-04:00.jpg">
+  <img src="https://archive.org/download/dailykos-2022/dailykos-2022-07-26T10:31:13.591814-04:00.jpg"
+     alt="Daily Kos at 2022-07-26 10:31:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-26T10:31:13.591814-04:00.jpg">July 26 at 10:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-25T22:40:47.278430-04:00.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-23T09:02:50.829123-04:00.jpg">July 23 at 9:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-22T21:03:16.017254-04:00.jpg">
-  <img src="https://archive.org/download/dailykos-2022/dailykos-2022-07-22T21:03:16.017254-04:00.jpg"
-     alt="Daily Kos at 2022-07-22 21:03:17-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-22T21:03:16.017254-04:00.jpg">July 22 at 9:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-22T12:11:46.978879-04:00.jpg">
-  <img src="https://archive.org/download/dailykos-2022/dailykos-2022-07-22T12:11:46.978879-04:00.jpg"
-     alt="Daily Kos at 2022-07-22 12:11:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailykos-2022/dailykos-2022-07-22T12:11:46.978879-04:00.jpg">July 22 at 12:11 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 2:36 PM](https://archive.org/download/dailykos-2022/dailykos-2022-07-26T14:36:24.543366-04:00.hyperlinks.json) |
+| [July 26 at 10:31 AM](https://archive.org/download/dailykos-2022/dailykos-2022-07-26T10:31:13.591814-04:00.hyperlinks.json) |
 | [July 25 at 10:40 PM](https://archive.org/download/dailykos-2022/dailykos-2022-07-25T22:40:47.278430-04:00.hyperlinks.json) |
 | [July 25 at 2:40 PM](https://archive.org/download/dailykos-2022/dailykos-2022-07-25T14:40:03.041821-04:00.hyperlinks.json) |
 | [July 25 at 12:39 PM](https://archive.org/download/dailykos-2022/dailykos-2022-07-25T12:39:46.753041-04:00.hyperlinks.json) |
@@ -156,8 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:42 AM](https://archive.org/download/dailykos-2022/dailykos-2022-07-24T11:42:14.212513-04:00.hyperlinks.json) |
 | [July 24 at 7:56 AM](https://archive.org/download/dailykos-2022/dailykos-2022-07-24T07:56:06.870092-04:00.hyperlinks.json) |
 | [July 24 at 2:25 AM](https://archive.org/download/dailykos-2022/dailykos-2022-07-24T02:25:40.033789-04:00.hyperlinks.json) |
-| [July 23 at 2:12 PM](https://archive.org/download/dailykos-2022/dailykos-2022-07-23T14:12:40.231410-04:00.hyperlinks.json) |
-| [July 23 at 9:02 AM](https://archive.org/download/dailykos-2022/dailykos-2022-07-23T09:02:50.829123-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

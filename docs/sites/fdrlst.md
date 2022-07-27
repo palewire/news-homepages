@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-26T19:09:24.302423-04:00.jpg">
+  <img src="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-26T19:09:24.302423-04:00.jpg"
+     alt="Federalist at 2022-07-26 19:09:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-26T19:09:24.302423-04:00.jpg">July 26 at 7:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-26T14:34:59.485442-04:00.jpg">
+  <img src="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-26T14:34:59.485442-04:00.jpg"
+     alt="Federalist at 2022-07-26 14:35:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-26T14:34:59.485442-04:00.jpg">July 26 at 2:35 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-26T07:18:05.563358-04:00.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-23T12:10:53.729464-04:00.jpg">July 23 at 12:10 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-23T09:57:58.566910-04:00.jpg">
-  <img src="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-23T09:57:58.566910-04:00.jpg"
-     alt="Federalist at 2022-07-23 09:58:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-23T09:57:58.566910-04:00.jpg">July 23 at 9:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-22T22:24:57.189551-04:00.jpg">
-  <img src="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-22T22:24:57.189551-04:00.jpg"
-     alt="Federalist at 2022-07-22 22:24:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-07-22T22:24:57.189551-04:00.jpg">July 22 at 10:24 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:09 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-07-26T19:09:24.302423-04:00.hyperlinks.json) |
+| [July 26 at 2:35 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-07-26T14:34:59.485442-04:00.hyperlinks.json) |
 | [July 26 at 7:18 AM](https://archive.org/download/fdrlst-2022/fdrlst-2022-07-26T07:18:05.563358-04:00.hyperlinks.json) |
 | [July 25 at 7:13 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-07-25T19:13:12.924222-04:00.hyperlinks.json) |
 | [July 25 at 2:38 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-07-25T14:38:28.116931-04:00.hyperlinks.json) |
@@ -156,8 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 9:04 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-07-24T21:04:21.392222-04:00.hyperlinks.json) |
 | [July 24 at 11:44 AM](https://archive.org/download/fdrlst-2022/fdrlst-2022-07-24T11:44:37.733161-04:00.hyperlinks.json) |
 | [July 24 at 7:58 AM](https://archive.org/download/fdrlst-2022/fdrlst-2022-07-24T07:58:38.019776-04:00.hyperlinks.json) |
-| [July 24 at 2:28 AM](https://archive.org/download/fdrlst-2022/fdrlst-2022-07-24T02:28:35.949659-04:00.hyperlinks.json) |
-| [July 23 at 12:10 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-07-23T12:10:53.729464-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 100 screenshots with the Internet Archive.
+The archiving routine has saved 101 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 100 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-26T11:47:54.645684-04:00.jpg">
+  <img src="https://archive.org/download/themarkup-2022/themarkup-2022-07-26T11:47:54.645684-04:00.jpg"
+     alt="The Markup at 2022-07-26 11:47:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-26T11:47:54.645684-04:00.jpg">July 26 at 11:47 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-25T23:59:29.758550-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-21T12:56:17.830290-04:00.jpg">July 21 at 12:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-21T00:29:27.235723-04:00.jpg">
-  <img src="https://archive.org/download/themarkup-2022/themarkup-2022-07-21T00:29:27.235723-04:00.jpg"
-     alt="The Markup at 2022-07-21 00:29:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-21T00:29:27.235723-04:00.jpg">July 21 at 12:29 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 100 hyperlink lists with the Internet Archive.
+The archiving routine has saved 101 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:47 AM](https://archive.org/download/themarkup-2022/themarkup-2022-07-26T11:47:54.645684-04:00.hyperlinks.json) |
 | [July 25 at 11:59 PM](https://archive.org/download/themarkup-2022/themarkup-2022-07-25T23:59:29.758550-04:00.hyperlinks.json) |
 | [July 25 at 11:47 AM](https://archive.org/download/themarkup-2022/themarkup-2022-07-25T11:47:32.328597-04:00.hyperlinks.json) |
 | [July 25 at 2:46 AM](https://archive.org/download/themarkup-2022/themarkup-2022-07-25T02:46:45.342966-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 12:05 PM](https://archive.org/download/themarkup-2022/themarkup-2022-07-23T12:05:34.171032-04:00.hyperlinks.json) |
 | [July 23 at 12:25 AM](https://archive.org/download/themarkup-2022/themarkup-2022-07-23T00:25:47.781558-04:00.hyperlinks.json) |
 | [July 22 at 12:18 PM](https://archive.org/download/themarkup-2022/themarkup-2022-07-22T12:18:25.655671-04:00.hyperlinks.json) |
-| [July 22 at 12:31 AM](https://archive.org/download/themarkup-2022/themarkup-2022-07-22T00:31:41.897646-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

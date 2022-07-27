@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 320 screenshots with the Internet Archive.
+The archiving routine has saved 321 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 320 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bbc-2022/bbc-2022-07-26T14:25:48.342507+01:00.jpg">
+  <img src="https://archive.org/download/bbc-2022/bbc-2022-07-26T14:25:48.342507+01:00.jpg"
+     alt="BBC at 2022-07-26 14:25:55+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-26T14:25:48.342507+01:00.jpg">July 26 at 2:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bbc-2022/bbc-2022-07-26T10:08:32.414041+01:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-23T10:06:27.965452+01:00.jpg">July 23 at 10:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bbc-2022/bbc-2022-07-23T01:57:51.599526+01:00.jpg">
-  <img src="https://archive.org/download/bbc-2022/bbc-2022-07-23T01:57:51.599526+01:00.jpg"
-     alt="BBC at 2022-07-23 01:57:53+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bbc-2022/bbc-2022-07-23T01:57:51.599526+01:00.jpg">July 23 at 1:57 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 304 hyperlink lists with the Internet Archive.
+The archiving routine has saved 305 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 2:25 PM](https://archive.org/download/bbc-2022/bbc-2022-07-26T14:25:48.342507+01:00.hyperlinks.json) |
 | [July 26 at 10:08 AM](https://archive.org/download/bbc-2022/bbc-2022-07-26T10:08:32.414041+01:00.hyperlinks.json) |
 | [July 26 at 3:57 AM](https://archive.org/download/bbc-2022/bbc-2022-07-26T03:57:44.931560+01:00.hyperlinks.json) |
 | [July 26 at 2:31 AM](https://archive.org/download/bbc-2022/bbc-2022-07-26T02:31:20.929344+01:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:57 AM](https://archive.org/download/bbc-2022/bbc-2022-07-24T11:57:50.394478+01:00.hyperlinks.json) |
 | [July 24 at 10:10 AM](https://archive.org/download/bbc-2022/bbc-2022-07-24T10:10:02.372883+01:00.hyperlinks.json) |
 | [July 24 at 12:00 AM](https://archive.org/download/bbc-2022/bbc-2022-07-24T00:00:11.706583+01:00.hyperlinks.json) |
-| [July 23 at 1:57 PM](https://archive.org/download/bbc-2022/bbc-2022-07-23T13:57:22.171575+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

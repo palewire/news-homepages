@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rtenews-2022/rtenews-2022-07-26T16:45:20.566386+01:00.jpg">
+  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-07-26T16:45:20.566386+01:00.jpg"
+     alt="RTE at 2022-07-26 16:45:21+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-07-26T16:45:20.566386+01:00.jpg">July 26 at 4:45 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rtenews-2022/rtenews-2022-07-26T04:56:11.579406+01:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-07-21T04:41:25.396063+01:00.jpg">July 21 at 4:41 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rtenews-2022/rtenews-2022-07-20T17:16:30.560412+01:00.jpg">
-  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-07-20T17:16:30.560412+01:00.jpg"
-     alt="RTE at 2022-07-20 17:16:32+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-07-20T17:16:30.560412+01:00.jpg">July 20 at 5:16 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 4:45 PM](https://archive.org/download/rtenews-2022/rtenews-2022-07-26T16:45:20.566386+01:00.hyperlinks.json) |
 | [July 26 at 4:56 AM](https://archive.org/download/rtenews-2022/rtenews-2022-07-26T04:56:11.579406+01:00.hyperlinks.json) |
 | [July 25 at 4:40 PM](https://archive.org/download/rtenews-2022/rtenews-2022-07-25T16:40:16.984422+01:00.hyperlinks.json) |
 | [July 25 at 4:42 AM](https://archive.org/download/rtenews-2022/rtenews-2022-07-25T04:42:08.595091+01:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 4:38 AM](https://archive.org/download/rtenews-2022/rtenews-2022-07-23T04:38:50.643561+01:00.hyperlinks.json) |
 | [July 22 at 4:04 PM](https://archive.org/download/rtenews-2022/rtenews-2022-07-22T16:04:37.229047+01:00.hyperlinks.json) |
 | [July 22 at 4:43 AM](https://archive.org/download/rtenews-2022/rtenews-2022-07-22T04:43:16.939705+01:00.hyperlinks.json) |
-| [July 21 at 4:39 PM](https://archive.org/download/rtenews-2022/rtenews-2022-07-21T16:39:46.552050+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

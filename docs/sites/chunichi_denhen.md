@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 55 screenshots with the Internet Archive.
+The archiving routine has saved 56 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 55 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T22:27:04.994575+09:00.jpg">
+  <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T22:27:04.994575+09:00.jpg"
+     alt="Chunichi Shimbun at 2022-07-26 22:27:08+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T22:27:04.994575+09:00.jpg">July 26 at 10:27 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T11:59:21.118827+09:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-23T10:35:01.736297+09:00.jpg">July 23 at 10:35 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-23T10:01:14.745008+09:00.jpg">
-  <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-23T10:01:14.745008+09:00.jpg"
-     alt="Chunichi Shimbun at 2022-07-23 10:01:15+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-23T10:01:14.745008+09:00.jpg">July 23 at 10:01 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 53 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:27 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T22:27:04.994575+09:00.hyperlinks.json) |
 | [July 26 at 11:59 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T11:59:21.118827+09:00.hyperlinks.json) |
 | [July 26 at 11:36 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T11:36:21.992135+09:00.hyperlinks.json) |
 | [July 26 at 10:32 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-26T10:32:11.651474+09:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 8:01 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-24T20:01:42.746560+09:00.hyperlinks.json) |
 | [July 24 at 11:25 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-24T11:25:08.376428+09:00.hyperlinks.json) |
 | [July 24 at 8:03 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-24T08:03:18.698613+09:00.hyperlinks.json) |
-| [July 23 at 10:00 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-07-23T22:00:50.179287+09:00.hyperlinks.json) |
 
 
 ## Internet Archive

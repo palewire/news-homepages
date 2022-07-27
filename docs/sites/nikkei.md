@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 54 screenshots with the Internet Archive.
+The archiving routine has saved 55 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 54 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-26T23:42:08.074224+09:00.jpg">
+  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-07-26T23:42:08.074224+09:00.jpg"
+     alt="Nikkei at 2022-07-26 23:42:09+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-26T23:42:08.074224+09:00.jpg">July 26 at 11:42 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-26T11:49:53.860645+09:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-23T10:34:53.618855+09:00.jpg">July 23 at 10:34 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-22T23:59:57.586764+09:00.jpg">
-  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-07-22T23:59:57.586764+09:00.jpg"
-     alt="Nikkei at 2022-07-22 23:59:58+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-22T23:59:57.586764+09:00.jpg">July 22 at 11:59 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 54 hyperlink lists with the Internet Archive.
+The archiving routine has saved 55 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:42 PM](https://archive.org/download/nikkei-2022/nikkei-2022-07-26T23:42:08.074224+09:00.hyperlinks.json) |
 | [July 26 at 11:49 AM](https://archive.org/download/nikkei-2022/nikkei-2022-07-26T11:49:53.860645+09:00.hyperlinks.json) |
 | [July 26 at 11:36 AM](https://archive.org/download/nikkei-2022/nikkei-2022-07-26T11:36:46.549445+09:00.hyperlinks.json) |
 | [July 26 at 12:33 AM](https://archive.org/download/nikkei-2022/nikkei-2022-07-26T00:33:45.147853+09:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 1:21 PM](https://archive.org/download/nikkei-2022/nikkei-2022-07-24T13:21:40.530734+09:00.hyperlinks.json) |
 | [July 24 at 11:26 AM](https://archive.org/download/nikkei-2022/nikkei-2022-07-24T11:26:05.529197+09:00.hyperlinks.json) |
 | [July 24 at 12:04 AM](https://archive.org/download/nikkei-2022/nikkei-2022-07-24T00:04:17.830999+09:00.hyperlinks.json) |
-| [July 23 at 12:34 PM](https://archive.org/download/nikkei-2022/nikkei-2022-07-23T12:34:03.637378+09:00.hyperlinks.json) |
 
 
 ## Internet Archive

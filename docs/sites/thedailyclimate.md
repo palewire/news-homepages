@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 8 screenshots with the Internet Archive.
+The archiving routine has saved 9 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-26T07:30:27.160284-06:00.jpg">
+  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-26T07:30:27.160284-06:00.jpg"
+     alt="Daily Climate at 2022-07-26 07:30:28-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-26T07:30:27.160284-06:00.jpg">July 26 at 7:30 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-25T20:51:27.351654-06:00.jpg">
@@ -104,7 +113,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 8 hyperlink lists with the Internet Archive.
+The archiving routine has saved 9 hyperlink lists with the Internet Archive.
 
 
 
@@ -112,6 +121,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:30 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-26T07:30:27.160284-06:00.hyperlinks.json) |
 | [July 25 at 8:51 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-25T20:51:27.351654-06:00.hyperlinks.json) |
 | [July 25 at 7:36 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-25T19:36:03.282182-06:00.hyperlinks.json) |
 | [July 25 at 9:46 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-25T09:46:17.612009-06:00.hyperlinks.json) |

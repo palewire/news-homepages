@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kut-2022/kut-2022-07-26T19:12:53.401163-05:00.jpg">
+  <img src="https://archive.org/download/kut-2022/kut-2022-07-26T19:12:53.401163-05:00.jpg"
+     alt="KUT at 2022-07-26 19:12:55-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-07-26T19:12:53.401163-05:00.jpg">July 26 at 7:12 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kut-2022/kut-2022-07-26T07:22:40.703527-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kut-2022/kut-2022-07-21T09:16:23.252096-05:00.jpg">July 21 at 9:16 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kut-2022/kut-2022-07-20T21:28:00.239773-05:00.jpg">
-  <img src="https://archive.org/download/kut-2022/kut-2022-07-20T21:28:00.239773-05:00.jpg"
-     alt="KUT at 2022-07-20 21:28:02-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-07-20T21:28:00.239773-05:00.jpg">July 20 at 9:28 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:13 PM](https://archive.org/download/kut-2022/kut-2022-07-26T19:12:53.401163-05:00.hyperlinks.json) |
 | [July 26 at 7:22 AM](https://archive.org/download/kut-2022/kut-2022-07-26T07:22:40.703527-05:00.hyperlinks.json) |
 | [July 25 at 7:17 PM](https://archive.org/download/kut-2022/kut-2022-07-25T19:16:58.163693-05:00.hyperlinks.json) |
 | [July 25 at 8:11 AM](https://archive.org/download/kut-2022/kut-2022-07-25T08:10:57.476873-05:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:06 AM](https://archive.org/download/kut-2022/kut-2022-07-23T09:06:17.432110-05:00.hyperlinks.json) |
 | [July 22 at 9:31 PM](https://archive.org/download/kut-2022/kut-2022-07-22T21:31:03.750283-05:00.hyperlinks.json) |
 | [July 22 at 9:06 AM](https://archive.org/download/kut-2022/kut-2022-07-22T09:06:34.343179-05:00.hyperlinks.json) |
-| [July 21 at 9:25 PM](https://archive.org/download/kut-2022/kut-2022-07-21T21:25:49.989198-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

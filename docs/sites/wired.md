@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 59 screenshots with the Internet Archive.
+The archiving routine has saved 60 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 59 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wired-2022/wired-2022-07-26T08:50:16.296920-07:00.jpg">
+  <img src="https://archive.org/download/wired-2022/wired-2022-07-26T08:50:16.296920-07:00.jpg"
+     alt="Wired at 2022-07-26 08:50:18-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wired-2022/wired-2022-07-26T08:50:16.296920-07:00.jpg">July 26 at 8:50 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wired-2022/wired-2022-07-25T21:01:49.015623-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wired-2022/wired-2022-07-21T10:00:07.467374-07:00.jpg">July 21 at 10:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wired-2022/wired-2022-07-20T21:34:13.252737-07:00.jpg">
-  <img src="https://archive.org/download/wired-2022/wired-2022-07-20T21:34:13.252737-07:00.jpg"
-     alt="Wired at 2022-07-20 21:34:15-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wired-2022/wired-2022-07-20T21:34:13.252737-07:00.jpg">July 20 at 9:34 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 59 hyperlink lists with the Internet Archive.
+The archiving routine has saved 60 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:50 AM](https://archive.org/download/wired-2022/wired-2022-07-26T08:50:16.296920-07:00.hyperlinks.json) |
 | [July 25 at 9:01 PM](https://archive.org/download/wired-2022/wired-2022-07-25T21:01:49.015623-07:00.hyperlinks.json) |
 | [July 25 at 8:53 AM](https://archive.org/download/wired-2022/wired-2022-07-25T08:53:23.816492-07:00.hyperlinks.json) |
 | [July 24 at 11:47 PM](https://archive.org/download/wired-2022/wired-2022-07-24T23:47:41.210641-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:09 AM](https://archive.org/download/wired-2022/wired-2022-07-23T09:09:30.718059-07:00.hyperlinks.json) |
 | [July 22 at 9:29 PM](https://archive.org/download/wired-2022/wired-2022-07-22T21:29:25.714868-07:00.hyperlinks.json) |
 | [July 22 at 9:22 AM](https://archive.org/download/wired-2022/wired-2022-07-22T09:22:18.977420-07:00.hyperlinks.json) |
-| [July 21 at 9:36 PM](https://archive.org/download/wired-2022/wired-2022-07-21T21:36:02.094439-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

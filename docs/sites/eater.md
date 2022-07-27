@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 35 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eater-2022/eater-2022-07-26T10:33:26.185712-04:00.jpg">
+  <img src="https://archive.org/download/eater-2022/eater-2022-07-26T10:33:26.185712-04:00.jpg"
+     alt="Eater at 2022-07-26 10:33:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eater-2022/eater-2022-07-26T10:33:26.185712-04:00.jpg">July 26 at 10:33 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eater-2022/eater-2022-07-25T22:40:26.634405-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eater-2022/eater-2022-07-20T22:21:26.380001-04:00.jpg">July 20 at 10:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eater-2022/eater-2022-07-20T10:19:19.397235-04:00.jpg">
-  <img src="https://archive.org/download/eater-2022/eater-2022-07-20T10:19:19.397235-04:00.jpg"
-     alt="Eater at 2022-07-20 10:19:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eater-2022/eater-2022-07-20T10:19:19.397235-04:00.jpg">July 20 at 10:19 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 33 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:33 AM](https://archive.org/download/eater-2022/eater-2022-07-26T10:33:26.185712-04:00.hyperlinks.json) |
 | [July 25 at 10:40 PM](https://archive.org/download/eater-2022/eater-2022-07-25T22:40:26.634405-04:00.hyperlinks.json) |
 | [July 25 at 8:00 AM](https://archive.org/download/eater-2022/eater-2022-07-25T08:00:04.131308-04:00.hyperlinks.json) |
 | [July 24 at 9:02 PM](https://archive.org/download/eater-2022/eater-2022-07-24T21:02:09.181592-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 10:24 PM](https://archive.org/download/eater-2022/eater-2022-07-22T22:24:30.594224-04:00.hyperlinks.json) |
 | [July 22 at 9:59 AM](https://archive.org/download/eater-2022/eater-2022-07-22T09:59:09.079043-04:00.hyperlinks.json) |
 | [July 21 at 10:18 PM](https://archive.org/download/eater-2022/eater-2022-07-21T22:18:26.357699-04:00.hyperlinks.json) |
-| [July 21 at 10:08 AM](https://archive.org/download/eater-2022/eater-2022-07-21T10:07:58.635256-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

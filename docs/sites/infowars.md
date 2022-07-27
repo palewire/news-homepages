@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 25 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/infowars-2022/infowars-2022-07-26T13:35:32.588098-05:00.jpg">
+  <img src="https://archive.org/download/infowars-2022/infowars-2022-07-26T13:35:32.588098-05:00.jpg"
+     alt="Infowars at 2022-07-26 13:35:34-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-26T13:35:32.588098-05:00.jpg">July 26 at 1:35 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/infowars-2022/infowars-2022-07-26T09:36:41.173712-05:00.jpg">
+  <img src="https://archive.org/download/infowars-2022/infowars-2022-07-26T09:36:41.173712-05:00.jpg"
+     alt="Infowars at 2022-07-26 09:36:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-26T09:36:41.173712-05:00.jpg">July 26 at 9:36 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T21:45:11.844862-05:00.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-23T09:03:17.812745-05:00.jpg">July 23 at 9:03 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/infowars-2022/infowars-2022-07-22T21:28:51.908468-05:00.jpg">
-  <img src="https://archive.org/download/infowars-2022/infowars-2022-07-22T21:28:51.908468-05:00.jpg"
-     alt="Infowars at 2022-07-22 21:28:53-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-22T21:28:51.908468-05:00.jpg">July 22 at 9:28 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/infowars-2022/infowars-2022-07-22T11:24:58.366140-05:00.jpg">
-  <img src="https://archive.org/download/infowars-2022/infowars-2022-07-22T11:24:58.366140-05:00.jpg"
-     alt="Infowars at 2022-07-22 11:25:00-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-22T11:24:58.366140-05:00.jpg">July 22 at 11:25 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 1:35 PM](https://archive.org/download/infowars-2022/infowars-2022-07-26T13:35:32.588098-05:00.hyperlinks.json) |
+| [July 26 at 9:36 AM](https://archive.org/download/infowars-2022/infowars-2022-07-26T09:36:41.173712-05:00.hyperlinks.json) |
 | [July 25 at 9:45 PM](https://archive.org/download/infowars-2022/infowars-2022-07-25T21:45:11.844862-05:00.hyperlinks.json) |
 | [July 25 at 1:38 PM](https://archive.org/download/infowars-2022/infowars-2022-07-25T13:38:26.250036-05:00.hyperlinks.json) |
 | [July 25 at 11:41 AM](https://archive.org/download/infowars-2022/infowars-2022-07-25T11:41:11.621005-05:00.hyperlinks.json) |
@@ -156,8 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 10:44 AM](https://archive.org/download/infowars-2022/infowars-2022-07-24T10:44:23.177878-05:00.hyperlinks.json) |
 | [July 24 at 7:03 AM](https://archive.org/download/infowars-2022/infowars-2022-07-24T07:03:30.328033-05:00.hyperlinks.json) |
 | [July 24 at 1:33 AM](https://archive.org/download/infowars-2022/infowars-2022-07-24T01:33:34.646579-05:00.hyperlinks.json) |
-| [July 23 at 11:11 AM](https://archive.org/download/infowars-2022/infowars-2022-07-23T11:11:27.195934-05:00.hyperlinks.json) |
-| [July 23 at 9:03 AM](https://archive.org/download/infowars-2022/infowars-2022-07-23T09:03:17.812745-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 49 screenshots with the Internet Archive.
+The archiving routine has saved 50 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 49 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-26T19:10:47.876627-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-26T19:10:47.876627-04:00.jpg"
+     alt="Hell Gate at 2022-07-26 19:10:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-26T19:10:47.876627-04:00.jpg">July 26 at 7:10 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-26T07:19:09.654032-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-21T10:12:16.368582-04:00.jpg">July 21 at 10:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-20T22:25:00.559006-04:00.jpg">
-  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-20T22:25:00.559006-04:00.jpg"
-     alt="Hell Gate at 2022-07-20 22:25:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-07-20T22:25:00.559006-04:00.jpg">July 20 at 10:25 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 49 hyperlink lists with the Internet Archive.
+The archiving routine has saved 50 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:10 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-07-26T19:10:47.876627-04:00.hyperlinks.json) |
 | [July 26 at 7:19 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-07-26T07:19:09.654032-04:00.hyperlinks.json) |
 | [July 25 at 7:15 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-07-25T19:15:04.226517-04:00.hyperlinks.json) |
 | [July 25 at 8:05 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-07-25T08:05:20.314866-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 10:01 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-07-23T10:01:45.694891-04:00.hyperlinks.json) |
 | [July 22 at 10:28 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-07-22T22:28:04.112032-04:00.hyperlinks.json) |
 | [July 22 at 10:02 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-07-22T10:02:41.377941-04:00.hyperlinks.json) |
-| [July 21 at 10:22 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-07-21T22:22:50.586533-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

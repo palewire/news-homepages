@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 12 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-26T11:49:15.798960-04:00.jpg">
+  <img src="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-26T11:49:15.798960-04:00.jpg"
+     alt="The Times-Enterprise at 2022-07-26 11:49:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-26T11:49:15.798960-04:00.jpg">July 26 at 11:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-25T23:59:35.632328-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-21T00:30:28.875628-04:00.jpg">July 21 at 12:30 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-20T19:31:18.060711-04:00.jpg">
-  <img src="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-20T19:31:18.060711-04:00.jpg"
-     alt="The Times-Enterprise at 2022-07-20 19:31:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-20T19:31:18.060711-04:00.jpg">July 20 at 7:31 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 8 hyperlink lists with the Internet Archive.
+The archiving routine has saved 9 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:49 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-26T11:49:15.798960-04:00.hyperlinks.json) |
 | [July 25 at 11:59 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-25T23:59:35.632328-04:00.hyperlinks.json) |
 | [July 25 at 11:49 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-25T11:49:00.229084-04:00.hyperlinks.json) |
 | [July 25 at 12:38 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-25T00:38:22.317084-04:00.hyperlinks.json) |

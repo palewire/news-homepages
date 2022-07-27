@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 35 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T10:46:45.975941-05:00.jpg">
+  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T10:46:45.975941-05:00.jpg"
+     alt="St. Louis Public Radio at 2022-07-26 10:46:47-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T10:46:45.975941-05:00.jpg">July 26 at 10:46 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T22:57:19.253224-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-20T23:27:36.896515-05:00.jpg">July 20 at 11:27 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-20T11:43:21.153068-05:00.jpg">
-  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-20T11:43:21.153068-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-20 11:43:23-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-20T11:43:21.153068-05:00.jpg">July 20 at 11:43 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:46 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T10:46:45.975941-05:00.hyperlinks.json) |
 | [July 25 at 10:57 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T22:57:19.253224-05:00.hyperlinks.json) |
 | [July 25 at 10:43 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T10:43:20.919573-05:00.hyperlinks.json) |
 | [July 24 at 10:45 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T22:44:56.481755-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:23 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T23:23:00.760454-05:00.hyperlinks.json) |
 | [July 22 at 11:16 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T11:16:44.368037-05:00.hyperlinks.json) |
 | [July 21 at 11:28 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-21T23:28:13.469603-05:00.hyperlinks.json) |
-| [July 21 at 11:53 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-21T11:53:40.975090-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

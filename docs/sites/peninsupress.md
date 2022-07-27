@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 73 screenshots with the Internet Archive.
+The archiving routine has saved 74 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 73 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T17:18:28.868946-07:00.jpg">
+  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T17:18:28.868946-07:00.jpg"
+     alt="Peninsula Press at 2022-07-26 17:18:31-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T17:18:28.868946-07:00.jpg">July 26 at 5:18 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T05:27:52.241536-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-21T08:37:17.373837-07:00.jpg">July 21 at 8:37 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-20T20:38:32.103592-07:00.jpg">
-  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-20T20:38:32.103592-07:00.jpg"
-     alt="Peninsula Press at 2022-07-20 20:38:35-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-20T20:38:32.103592-07:00.jpg">July 20 at 8:38 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 74 hyperlink lists with the Internet Archive.
+The archiving routine has saved 75 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 5:18 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T17:18:28.868946-07:00.hyperlinks.json) |
 | [July 26 at 5:28 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T05:27:52.241536-07:00.hyperlinks.json) |
 | [July 25 at 5:23 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T17:22:57.258659-07:00.hyperlinks.json) |
 | [July 25 at 8:36 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T08:36:39.191165-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:06 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T08:06:08.716103-07:00.hyperlinks.json) |
 | [July 22 at 8:36 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-22T20:36:18.996922-07:00.hyperlinks.json) |
 | [July 22 at 8:01 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-22T08:01:46.716490-07:00.hyperlinks.json) |
-| [July 21 at 8:40 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-21T20:40:35.324881-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

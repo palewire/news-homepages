@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 223 screenshots with the Internet Archive.
+The archiving routine has saved 224 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 223 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T16:08:55.356389-07:00.jpg">
+  <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T16:08:55.356389-07:00.jpg"
+     alt="East Bay Times at 2022-07-26 16:08:59-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T16:08:55.356389-07:00.jpg">July 26 at 4:08 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T04:17:57.604254-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-21T07:04:23.763755-07:00.jpg">July 21 at 7:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-20T19:21:14.979361-07:00.jpg">
-  <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-20T19:21:14.979361-07:00.jpg"
-     alt="East Bay Times at 2022-07-20 19:21:18-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-20T19:21:14.979361-07:00.jpg">July 20 at 7:21 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 211 hyperlink lists with the Internet Archive.
+The archiving routine has saved 212 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 4:09 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T16:08:55.356389-07:00.hyperlinks.json) |
 | [July 26 at 4:18 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T04:17:57.604254-07:00.hyperlinks.json) |
 | [July 25 at 4:13 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T16:13:04.988628-07:00.hyperlinks.json) |
 | [July 25 at 5:00 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T05:00:04.939190-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 7:23 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-22T19:23:44.957430-07:00.hyperlinks.json) |
 | [July 22 at 6:59 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-22T06:59:36.700012-07:00.hyperlinks.json) |
 | [July 21 at 7:18 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-21T19:18:52.651560-07:00.hyperlinks.json) |
-| [July 21 at 7:04 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-21T07:04:23.763755-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

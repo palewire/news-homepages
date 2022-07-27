@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 35 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-26T07:35:16.412232-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-26T07:35:16.412232-07:00.jpg"
+     alt="Gig Harbor Now at 2022-07-26 07:35:17-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-26T07:35:16.412232-07:00.jpg">July 26 at 7:35 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-25T19:43:11.510182-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-20T19:24:11.642531-07:00.jpg">July 20 at 7:24 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-20T07:24:15.489383-07:00.jpg">
-  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-20T07:24:15.489383-07:00.jpg"
-     alt="Gig Harbor Now at 2022-07-20 07:24:17-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-20T07:24:15.489383-07:00.jpg">July 20 at 7:24 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:35 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-26T07:35:16.412232-07:00.hyperlinks.json) |
 | [July 25 at 7:43 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-25T19:43:11.510182-07:00.hyperlinks.json) |
 | [July 25 at 5:05 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-25T05:05:25.093254-07:00.hyperlinks.json) |
 | [July 24 at 6:08 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-24T18:08:19.206598-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 7:27 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-22T19:27:17.641159-07:00.hyperlinks.json) |
 | [July 22 at 7:02 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-22T07:02:26.125844-07:00.hyperlinks.json) |
 | [July 21 at 7:21 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-21T19:21:36.722592-07:00.hyperlinks.json) |
-| [July 21 at 7:08 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-07-21T07:08:40.113608-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

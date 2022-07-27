@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-07-26T14:30:30.496402+01:00.jpg">
+  <img src="https://archive.org/download/theeconomist-2022/theeconomist-2022-07-26T14:30:30.496402+01:00.jpg"
+     alt="Economist at 2022-07-26 14:30:31+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-07-26T14:30:30.496402+01:00.jpg">July 26 at 2:30 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-07-26T03:52:18.010713+01:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-07-21T17:54:46.751195+01:00.jpg">July 21 at 5:54 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-07-21T05:28:52.143657+01:00.jpg">
-  <img src="https://archive.org/download/theeconomist-2022/theeconomist-2022-07-21T05:28:52.143657+01:00.jpg"
-     alt="Economist at 2022-07-21 05:28:55+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-07-21T05:28:52.143657+01:00.jpg">July 21 at 5:28 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 2:30 PM](https://archive.org/download/theeconomist-2022/theeconomist-2022-07-26T14:30:30.496402+01:00.hyperlinks.json) |
 | [July 26 at 3:52 AM](https://archive.org/download/theeconomist-2022/theeconomist-2022-07-26T03:52:18.010713+01:00.hyperlinks.json) |
 | [July 26 at 2:35 AM](https://archive.org/download/theeconomist-2022/theeconomist-2022-07-26T02:35:05.070095+01:00.hyperlinks.json) |
 | [July 25 at 4:46 PM](https://archive.org/download/theeconomist-2022/theeconomist-2022-07-25T16:46:13.551999+01:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 5:05 PM](https://archive.org/download/theeconomist-2022/theeconomist-2022-07-23T17:05:01.057384+01:00.hyperlinks.json) |
 | [July 23 at 5:24 AM](https://archive.org/download/theeconomist-2022/theeconomist-2022-07-23T05:24:35.408941+01:00.hyperlinks.json) |
 | [July 22 at 5:17 PM](https://archive.org/download/theeconomist-2022/theeconomist-2022-07-22T17:17:52.908416+01:00.hyperlinks.json) |
-| [July 22 at 5:31 AM](https://archive.org/download/theeconomist-2022/theeconomist-2022-07-22T05:31:45.880832+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

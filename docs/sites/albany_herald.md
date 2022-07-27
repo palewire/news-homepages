@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 12 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-26T19:02:00.007261-04:00.jpg">
+  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-26T19:02:00.007261-04:00.jpg"
+     alt="The Albany Herald at 2022-07-26 19:02:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-26T19:02:00.007261-04:00.jpg">July 26 at 7:02 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-26T07:11:04.820415-04:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-20T21:02:01.252548-04:00.jpg">July 20 at 9:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-20T19:30:15.707844-04:00.jpg">
-  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-20T19:30:15.707844-04:00.jpg"
-     alt="The Albany Herald at 2022-07-20 19:30:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-20T19:30:15.707844-04:00.jpg">July 20 at 7:30 PM</a></p>
 </div>
 
 </div>

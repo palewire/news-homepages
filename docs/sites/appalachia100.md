@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-07-26T19:03:10.231083-04:00.jpg">
+  <img src="https://archive.org/download/appalachia100-2022/appalachia100-2022-07-26T19:03:10.231083-04:00.jpg"
+     alt="100 Days in Appalachia at 2022-07-26 19:03:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-07-26T19:03:10.231083-04:00.jpg">July 26 at 7:03 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-07-26T07:10:59.502537-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-07-21T08:50:27.694411-04:00.jpg">July 21 at 8:50 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-07-20T21:02:54.767593-04:00.jpg">
-  <img src="https://archive.org/download/appalachia100-2022/appalachia100-2022-07-20T21:02:54.767593-04:00.jpg"
-     alt="100 Days in Appalachia at 2022-07-20 21:02:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-07-20T21:02:54.767593-04:00.jpg">July 20 at 9:02 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 37 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:03 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-07-26T19:03:10.231083-04:00.hyperlinks.json) |
 | [July 26 at 7:11 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-07-26T07:10:59.502537-04:00.hyperlinks.json) |
 | [July 25 at 7:06 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-07-25T19:06:01.535955-04:00.hyperlinks.json) |
 | [July 25 at 6:57 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-07-25T06:57:38.559832-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:55 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-07-23T08:55:16.660124-04:00.hyperlinks.json) |
 | [July 22 at 8:56 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-07-22T20:56:00.568621-04:00.hyperlinks.json) |
 | [July 22 at 8:55 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-07-22T08:55:49.334296-04:00.hyperlinks.json) |
-| [July 21 at 9:03 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-07-21T21:03:39.313116-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

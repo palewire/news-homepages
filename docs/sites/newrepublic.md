@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-26T14:37:10.495665-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-26T14:37:10.495665-04:00.jpg"
+     alt="New Republic at 2022-07-26 14:37:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-26T14:37:10.495665-04:00.jpg">July 26 at 2:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-26T10:41:47.145974-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-26T10:41:47.145974-04:00.jpg"
+     alt="New Republic at 2022-07-26 10:41:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-26T10:41:47.145974-04:00.jpg">July 26 at 10:41 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-25T22:48:53.877940-04:00.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-23T11:02:42.368282-04:00.jpg">July 23 at 11:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-22T23:33:10.518952-04:00.jpg">
-  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-22T23:33:10.518952-04:00.jpg"
-     alt="New Republic at 2022-07-22 23:33:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-22T23:33:10.518952-04:00.jpg">July 22 at 11:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-22T12:12:04.484435-04:00.jpg">
-  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-22T12:12:04.484435-04:00.jpg"
-     alt="New Republic at 2022-07-22 12:12:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-07-22T12:12:04.484435-04:00.jpg">July 22 at 12:12 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 19 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 2:37 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-07-26T14:37:10.495665-04:00.hyperlinks.json) |
+| [July 26 at 10:41 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-07-26T10:41:47.145974-04:00.hyperlinks.json) |
 | [July 25 at 10:48 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-07-25T22:48:53.877940-04:00.hyperlinks.json) |
 | [July 25 at 2:40 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-07-25T14:40:43.515872-04:00.hyperlinks.json) |
 | [July 25 at 12:37 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-07-25T12:37:21.171122-04:00.hyperlinks.json) |
@@ -156,8 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:42 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-07-24T11:42:49.437434-04:00.hyperlinks.json) |
 | [July 24 at 9:05 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-07-24T09:05:04.208060-04:00.hyperlinks.json) |
 | [July 24 at 12:20 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-07-24T00:20:05.179476-04:00.hyperlinks.json) |
-| [July 23 at 2:13 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-07-23T14:13:28.351550-04:00.hyperlinks.json) |
-| [July 23 at 11:02 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-07-23T11:02:42.368282-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

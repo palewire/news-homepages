@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 98 screenshots with the Internet Archive.
+The archiving routine has saved 99 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 98 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reveal-2022/reveal-2022-07-26T08:44:11.682816-07:00.jpg">
+  <img src="https://archive.org/download/reveal-2022/reveal-2022-07-26T08:44:11.682816-07:00.jpg"
+     alt="Reveal at 2022-07-26 08:44:22-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-26T08:44:11.682816-07:00.jpg">July 26 at 8:44 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reveal-2022/reveal-2022-07-25T20:55:43.513648-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-20T20:41:47.971472-07:00.jpg">July 20 at 8:41 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/reveal-2022/reveal-2022-07-20T09:15:51.350586-07:00.jpg">
-  <img src="https://archive.org/download/reveal-2022/reveal-2022-07-20T09:15:51.350586-07:00.jpg"
-     alt="Reveal at 2022-07-20 09:15:59-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-20T09:15:51.350586-07:00.jpg">July 20 at 9:15 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 100 hyperlink lists with the Internet Archive.
+The archiving routine has saved 101 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:44 AM](https://archive.org/download/reveal-2022/reveal-2022-07-26T08:44:11.682816-07:00.hyperlinks.json) |
 | [July 25 at 8:55 PM](https://archive.org/download/reveal-2022/reveal-2022-07-25T20:55:43.513648-07:00.hyperlinks.json) |
 | [July 25 at 8:39 AM](https://archive.org/download/reveal-2022/reveal-2022-07-25T08:39:25.856182-07:00.hyperlinks.json) |
 | [July 24 at 8:42 PM](https://archive.org/download/reveal-2022/reveal-2022-07-24T20:41:58.859073-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 8:37 PM](https://archive.org/download/reveal-2022/reveal-2022-07-22T20:37:55.921503-07:00.hyperlinks.json) |
 | [July 22 at 8:04 AM](https://archive.org/download/reveal-2022/reveal-2022-07-22T08:04:18.981519-07:00.hyperlinks.json) |
 | [July 21 at 8:42 PM](https://archive.org/download/reveal-2022/reveal-2022-07-21T20:42:15.780489-07:00.hyperlinks.json) |
-| [July 21 at 8:39 AM](https://archive.org/download/reveal-2022/reveal-2022-07-21T08:39:28.054148-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 35 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-26T11:39:18.100261-03:00.jpg">
+  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-26T11:39:18.100261-03:00.jpg"
+     alt="El Pais at 2022-07-26 11:39:19-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-26T11:39:18.100261-03:00.jpg">July 26 at 11:39 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-25T23:41:45.064822-03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-20T23:21:23.370458-03:00.jpg">July 20 at 11:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-20T11:18:41.974205-03:00.jpg">
-  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-20T11:18:41.974205-03:00.jpg"
-     alt="El Pais at 2022-07-20 11:18:44-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-20T11:18:41.974205-03:00.jpg">July 20 at 11:18 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:39 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-26T11:39:18.100261-03:00.hyperlinks.json) |
 | [July 25 at 11:41 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-25T23:41:45.064822-03:00.hyperlinks.json) |
 | [July 25 at 9:01 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-25T09:00:59.904969-03:00.hyperlinks.json) |
 | [July 24 at 10:02 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-24T22:02:48.368083-03:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:24 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-22T23:24:45.798704-03:00.hyperlinks.json) |
 | [July 22 at 10:59 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-22T10:59:21.061922-03:00.hyperlinks.json) |
 | [July 21 at 11:18 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-21T23:18:27.551249-03:00.hyperlinks.json) |
-| [July 21 at 11:04 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-21T11:04:02.664270-03:00.hyperlinks.json) |
 
 
 ## Internet Archive

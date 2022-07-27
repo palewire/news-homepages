@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 285 screenshots with the Internet Archive.
+The archiving routine has saved 287 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-26T11:33:37.116444-07:00.jpg">
+  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-26T11:33:37.116444-07:00.jpg"
+     alt="KPCC at 2022-07-26 11:33:38-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-26T11:33:37.116444-07:00.jpg">July 26 at 11:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-26T07:37:39.742064-07:00.jpg">
+  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-26T07:37:39.742064-07:00.jpg"
+     alt="KPCC at 2022-07-26 07:37:41-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-26T07:37:39.742064-07:00.jpg">July 26 at 7:37 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T19:46:07.639802-07:00.jpg">
   <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T19:46:07.639802-07:00.jpg"
      alt="KPCC at 2022-07-25 19:46:13-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-22T19:31:02.274155-07:00.jpg">July 22 at 7:31 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-22T11:08:50.872032-07:00.jpg">
-  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-22T11:08:50.872032-07:00.jpg"
-     alt="KPCC at 2022-07-22 11:08:52-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-22T11:08:50.872032-07:00.jpg">July 22 at 11:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-22T07:05:58.644332-07:00.jpg">
-  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-22T07:05:58.644332-07:00.jpg"
-     alt="KPCC at 2022-07-22 07:06:03-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-22T07:05:58.644332-07:00.jpg">July 22 at 7:06 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 271 hyperlink lists with the Internet Archive.
+The archiving routine has saved 273 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:33 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T11:33:37.116444-07:00.hyperlinks.json) |
+| [July 26 at 7:37 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T07:37:39.742064-07:00.hyperlinks.json) |
 | [July 25 at 7:46 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T19:46:07.639802-07:00.hyperlinks.json) |
 | [July 25 at 11:13 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T11:13:19.949635-07:00.hyperlinks.json) |
 | [July 25 at 6:11 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T06:11:49.994696-07:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 6:00 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-24T06:00:13.672391-07:00.hyperlinks.json) |
 | [July 23 at 9:15 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-23T21:15:15.045983-07:00.hyperlinks.json) |
 | [July 23 at 11:23 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-23T11:23:35.352458-07:00.hyperlinks.json) |
-| [July 23 at 7:05 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-23T07:05:41.400346-07:00.hyperlinks.json) |
-| [July 22 at 7:31 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-22T19:31:02.274155-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

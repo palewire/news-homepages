@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 139 screenshots with the Internet Archive.
+The archiving routine has saved 140 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 139 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theonion-2022/theonion-2022-07-26T08:30:39.640783-05:00.jpg">
+  <img src="https://archive.org/download/theonion-2022/theonion-2022-07-26T08:30:39.640783-05:00.jpg"
+     alt="Onion at 2022-07-26 08:30:41-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theonion-2022/theonion-2022-07-26T08:30:39.640783-05:00.jpg">July 26 at 8:30 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theonion-2022/theonion-2022-07-25T21:52:31.970708-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theonion-2022/theonion-2022-07-21T11:56:46.157562-05:00.jpg">July 21 at 11:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theonion-2022/theonion-2022-07-20T23:30:03.549030-05:00.jpg">
-  <img src="https://archive.org/download/theonion-2022/theonion-2022-07-20T23:30:03.549030-05:00.jpg"
-     alt="Onion at 2022-07-20 23:30:09-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theonion-2022/theonion-2022-07-20T23:30:03.549030-05:00.jpg">July 20 at 11:30 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 124 hyperlink lists with the Internet Archive.
+The archiving routine has saved 125 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:30 AM](https://archive.org/download/theonion-2022/theonion-2022-07-26T08:30:39.640783-05:00.hyperlinks.json) |
 | [July 25 at 9:52 PM](https://archive.org/download/theonion-2022/theonion-2022-07-25T21:52:31.970708-05:00.hyperlinks.json) |
 | [July 25 at 10:47 AM](https://archive.org/download/theonion-2022/theonion-2022-07-25T10:47:45.201793-05:00.hyperlinks.json) |
 | [July 24 at 11:37 PM](https://archive.org/download/theonion-2022/theonion-2022-07-24T23:37:12.766107-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:19 AM](https://archive.org/download/theonion-2022/theonion-2022-07-22T11:19:16.611677-05:00.hyperlinks.json) |
 | [July 21 at 11:32 PM](https://archive.org/download/theonion-2022/theonion-2022-07-21T23:32:44.120645-05:00.hyperlinks.json) |
 | [July 21 at 11:56 AM](https://archive.org/download/theonion-2022/theonion-2022-07-21T11:56:46.157562-05:00.hyperlinks.json) |
-| [July 20 at 11:30 PM](https://archive.org/download/theonion-2022/theonion-2022-07-20T23:30:03.549030-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

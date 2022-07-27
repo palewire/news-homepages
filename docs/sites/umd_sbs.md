@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 31 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 31 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-26T09:33:03.654759-04:00.jpg">
+  <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-26T09:33:03.654759-04:00.jpg"
+     alt="Stories Beneath the Shell at 2022-07-26 09:33:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-26T09:33:03.654759-04:00.jpg">July 26 at 9:33 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T22:54:23.510589-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-21T12:57:42.594946-04:00.jpg">July 21 at 12:57 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-21T00:31:13.341797-04:00.jpg">
-  <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-21T00:31:13.341797-04:00.jpg"
-     alt="Stories Beneath the Shell at 2022-07-21 00:31:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-21T00:31:13.341797-04:00.jpg">July 21 at 12:31 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:33 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-26T09:33:03.654759-04:00.hyperlinks.json) |
 | [July 25 at 10:54 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T22:54:23.510589-04:00.hyperlinks.json) |
 | [July 25 at 9:37 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T21:37:35.662098-04:00.hyperlinks.json) |
 | [July 25 at 11:50 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T11:50:37.231257-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 12:08 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T12:08:01.542305-04:00.hyperlinks.json) |
 | [July 23 at 12:27 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T00:27:00.463321-04:00.hyperlinks.json) |
 | [July 22 at 12:20 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T12:20:23.579626-04:00.hyperlinks.json) |
-| [July 22 at 12:34 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T00:34:04.896705-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

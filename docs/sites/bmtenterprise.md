@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-26T18:04:40.923701-05:00.jpg">
+  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-26T18:04:40.923701-05:00.jpg"
+     alt="Beaumont Enterprise at 2022-07-26 18:04:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-26T18:04:40.923701-05:00.jpg">July 26 at 6:04 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-26T06:12:36.389744-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-20T20:05:08.700253-05:00.jpg">July 20 at 8:05 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-20T07:53:32.261129-05:00.jpg">
-  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-20T07:53:32.261129-05:00.jpg"
-     alt="Beaumont Enterprise at 2022-07-20 07:53:34-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-20T07:53:32.261129-05:00.jpg">July 20 at 7:53 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 6:04 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-26T18:04:40.923701-05:00.hyperlinks.json) |
 | [July 26 at 6:12 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-26T06:12:36.389744-05:00.hyperlinks.json) |
 | [July 25 at 6:08 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-25T18:08:48.276407-05:00.hyperlinks.json) |
 | [July 25 at 6:00 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-25T06:00:35.113058-05:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 7:58 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-23T07:58:40.012456-05:00.hyperlinks.json) |
 | [July 22 at 7:58 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-22T19:58:43.639769-05:00.hyperlinks.json) |
 | [July 22 at 7:58 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-22T07:58:54.273991-05:00.hyperlinks.json) |
-| [July 21 at 8:07 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-21T20:07:03.870722-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

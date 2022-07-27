@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 61 screenshots with the Internet Archive.
+The archiving routine has saved 62 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 61 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-26T09:23:57.329014-04:00.jpg">
+  <img src="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-26T09:23:57.329014-04:00.jpg"
+     alt="Ars Technica at 2022-07-26 09:23:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-26T09:23:57.329014-04:00.jpg">July 26 at 9:23 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-25T22:55:39.758622-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-21T21:03:57.992805-04:00.jpg">July 21 at 9:03 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-21T08:50:53.840437-04:00.jpg">
-  <img src="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-21T08:50:53.840437-04:00.jpg"
-     alt="Ars Technica at 2022-07-21 08:50:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-21T08:50:53.840437-04:00.jpg">July 21 at 8:50 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 60 hyperlink lists with the Internet Archive.
+The archiving routine has saved 61 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:24 AM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-26T09:23:57.329014-04:00.hyperlinks.json) |
 | [July 25 at 10:55 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-25T22:55:39.758622-04:00.hyperlinks.json) |
 | [July 25 at 9:30 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-25T21:30:02.379979-04:00.hyperlinks.json) |
 | [July 25 at 6:57 AM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-25T06:57:15.993182-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 6:59 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-23T18:59:05.274540-04:00.hyperlinks.json) |
 | [July 23 at 8:55 AM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-23T08:55:34.246068-04:00.hyperlinks.json) |
 | [July 22 at 8:56 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-22T20:56:02.511040-04:00.hyperlinks.json) |
-| [July 22 at 8:56 AM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-22T08:56:19.457038-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

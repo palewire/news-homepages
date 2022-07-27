@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-07-26T09:25:28.855127-04:00.jpg">
+  <img src="https://archive.org/download/baltbeat-2022/baltbeat-2022-07-26T09:25:28.855127-04:00.jpg"
+     alt="Baltimore Beat at 2022-07-26 09:25:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-07-26T09:25:28.855127-04:00.jpg">July 26 at 9:25 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-07-25T22:56:29.506316-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-07-21T08:52:11.567879-04:00.jpg">July 21 at 8:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-07-20T21:04:00.977199-04:00.jpg">
-  <img src="https://archive.org/download/baltbeat-2022/baltbeat-2022-07-20T21:04:00.977199-04:00.jpg"
-     alt="Baltimore Beat at 2022-07-20 21:04:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-07-20T21:04:00.977199-04:00.jpg">July 20 at 9:04 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:25 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-07-26T09:25:28.855127-04:00.hyperlinks.json) |
 | [July 25 at 10:56 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-07-25T22:56:29.506316-04:00.hyperlinks.json) |
 | [July 25 at 9:29 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-07-25T21:29:46.100103-04:00.hyperlinks.json) |
 | [July 25 at 6:58 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-07-25T06:58:39.058753-04:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:56 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-07-23T08:56:35.020262-04:00.hyperlinks.json) |
 | [July 22 at 8:57 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-07-22T20:57:29.305350-04:00.hyperlinks.json) |
 | [July 22 at 8:57 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-07-22T08:57:17.420385-04:00.hyperlinks.json) |
-| [July 21 at 9:05 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-07-21T21:05:38.543658-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

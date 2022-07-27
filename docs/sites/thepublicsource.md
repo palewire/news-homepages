@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 100 screenshots with the Internet Archive.
+The archiving routine has saved 101 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 100 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-26T16:31:26.556445+03:00.jpg">
+  <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-26T16:31:26.556445+03:00.jpg"
+     alt="Public Source at 2022-07-26 16:31:29+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-26T16:31:26.556445+03:00.jpg">July 26 at 4:31 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-26T05:52:55.529319+03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-21T19:55:36.807963+03:00.jpg">July 21 at 7:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-21T07:30:13.364379+03:00.jpg">
-  <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-21T07:30:13.364379+03:00.jpg"
-     alt="Public Source at 2022-07-21 07:30:22+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-21T07:30:13.364379+03:00.jpg">July 21 at 7:30 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 101 hyperlink lists with the Internet Archive.
+The archiving routine has saved 102 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 4:31 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-26T16:31:26.556445+03:00.hyperlinks.json) |
 | [July 26 at 5:53 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-26T05:52:55.529319+03:00.hyperlinks.json) |
 | [July 26 at 4:35 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-26T04:35:17.288626+03:00.hyperlinks.json) |
 | [July 25 at 6:47 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-25T18:47:48.844544+03:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 7:05 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-23T19:05:40.084907+03:00.hyperlinks.json) |
 | [July 23 at 7:25 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-23T07:25:46.243025+03:00.hyperlinks.json) |
 | [July 22 at 7:18 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-22T19:18:53.479781+03:00.hyperlinks.json) |
-| [July 22 at 7:32 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-22T07:32:02.848637+03:00.hyperlinks.json) |
 
 
 ## Internet Archive

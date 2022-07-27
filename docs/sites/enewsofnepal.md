@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 4 screenshots with the Internet Archive.
+The archiving routine has saved 5 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-07-26T20:18:42.100393+05:45.jpg">
+  <img src="https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-07-26T20:18:42.100393+05:45.jpg"
+     alt="Nepal Samacharpatra at 2022-07-26 20:18:43+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-07-26T20:18:42.100393+05:45.jpg">July 26 at 8:18 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-07-26T08:27:08.938199+05:45.jpg">
@@ -68,7 +77,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+The archiving routine has saved 5 hyperlink lists with the Internet Archive.
 
 
 
@@ -76,6 +85,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:18 PM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-07-26T20:18:42.100393+05:45.hyperlinks.json) |
 | [July 26 at 8:27 AM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-07-26T08:27:08.938199+05:45.hyperlinks.json) |
 | [July 25 at 5:46 PM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-07-25T17:46:43.086235+05:45.hyperlinks.json) |
 | [July 25 at 6:48 AM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-07-25T06:48:17.790989+05:45.hyperlinks.json) |

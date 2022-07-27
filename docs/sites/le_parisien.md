@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 211 screenshots with the Internet Archive.
+The archiving routine has saved 212 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 211 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-07-26T16:39:18.659248+02:00.jpg">
+  <img src="https://archive.org/download/le_parisien-2022/le_parisien-2022-07-26T16:39:18.659248+02:00.jpg"
+     alt="Le Parisien at 2022-07-26 16:39:20+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-07-26T16:39:18.659248+02:00.jpg">July 26 at 4:39 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-07-26T10:08:52.592790+02:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-07-23T04:32:15.831179+02:00.jpg">July 23 at 4:32 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-07-22T16:07:47.162737+02:00.jpg">
-  <img src="https://archive.org/download/le_parisien-2022/le_parisien-2022-07-22T16:07:47.162737+02:00.jpg"
-     alt="Le Parisien at 2022-07-22 16:07:49+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-07-22T16:07:47.162737+02:00.jpg">July 22 at 4:07 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 211 hyperlink lists with the Internet Archive.
+The archiving routine has saved 212 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 4:39 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-26T16:39:18.659248+02:00.hyperlinks.json) |
 | [July 26 at 10:08 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-26T10:08:52.592790+02:00.hyperlinks.json) |
 | [July 26 at 4:46 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-26T04:46:00.740800+02:00.hyperlinks.json) |
 | [July 25 at 3:13 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-25T15:13:03.424301+02:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 10:09 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-24T10:09:40.144173+02:00.hyperlinks.json) |
 | [July 24 at 6:16 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-24T06:16:32.348211+02:00.hyperlinks.json) |
 | [July 23 at 4:07 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-23T16:07:17.432211+02:00.hyperlinks.json) |
-| [July 23 at 10:07 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-23T10:07:04.054727+02:00.hyperlinks.json) |
 
 
 ## Internet Archive

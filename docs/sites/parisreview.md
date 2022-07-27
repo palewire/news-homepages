@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-26T17:42:30.159018+02:00.jpg">
+  <img src="https://archive.org/download/parisreview-2022/parisreview-2022-07-26T17:42:30.159018+02:00.jpg"
+     alt="Paris Review at 2022-07-26 17:42:33+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-26T17:42:30.159018+02:00.jpg">July 26 at 5:42 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-26T05:54:06.699694+02:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-21T05:38:27.529324+02:00.jpg">July 21 at 5:38 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-20T18:12:35.777965+02:00.jpg">
-  <img src="https://archive.org/download/parisreview-2022/parisreview-2022-07-20T18:12:35.777965+02:00.jpg"
-     alt="Paris Review at 2022-07-20 18:12:37+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-07-20T18:12:35.777965+02:00.jpg">July 20 at 6:12 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 5:42 PM](https://archive.org/download/parisreview-2022/parisreview-2022-07-26T17:42:30.159018+02:00.hyperlinks.json) |
 | [July 26 at 5:54 AM](https://archive.org/download/parisreview-2022/parisreview-2022-07-26T05:54:06.699694+02:00.hyperlinks.json) |
 | [July 25 at 5:36 PM](https://archive.org/download/parisreview-2022/parisreview-2022-07-25T17:36:26.043335+02:00.hyperlinks.json) |
 | [July 25 at 5:39 AM](https://archive.org/download/parisreview-2022/parisreview-2022-07-25T05:39:12.769316+02:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 5:35 AM](https://archive.org/download/parisreview-2022/parisreview-2022-07-23T05:35:27.763633+02:00.hyperlinks.json) |
 | [July 22 at 5:01 PM](https://archive.org/download/parisreview-2022/parisreview-2022-07-22T17:01:13.158170+02:00.hyperlinks.json) |
 | [July 22 at 5:40 AM](https://archive.org/download/parisreview-2022/parisreview-2022-07-22T05:40:34.822536+02:00.hyperlinks.json) |
-| [July 21 at 5:36 PM](https://archive.org/download/parisreview-2022/parisreview-2022-07-21T17:36:42.585441+02:00.hyperlinks.json) |
 
 
 ## Internet Archive

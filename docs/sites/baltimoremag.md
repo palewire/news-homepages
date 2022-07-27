@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-26T19:04:12.309816-04:00.jpg">
+  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-26T19:04:12.309816-04:00.jpg"
+     alt="Baltimore Magazine at 2022-07-26 19:04:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-26T19:04:12.309816-04:00.jpg">July 26 at 7:04 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-26T07:12:25.498078-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-21T08:52:08.286220-04:00.jpg">July 21 at 8:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-20T21:03:57.602496-04:00.jpg">
-  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-20T21:03:57.602496-04:00.jpg"
-     alt="Baltimore Magazine at 2022-07-20 21:03:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-20T21:03:57.602496-04:00.jpg">July 20 at 9:03 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:04 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-26T19:04:12.309816-04:00.hyperlinks.json) |
 | [July 26 at 7:12 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-26T07:12:25.498078-04:00.hyperlinks.json) |
 | [July 25 at 7:08 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-25T19:08:34.417869-04:00.hyperlinks.json) |
 | [July 25 at 6:58 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-25T06:58:44.002922-04:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:57 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-23T08:57:18.788885-04:00.hyperlinks.json) |
 | [July 22 at 8:57 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-22T20:57:26.549317-04:00.hyperlinks.json) |
 | [July 22 at 8:57 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-22T08:57:23.075632-04:00.hyperlinks.json) |
-| [July 21 at 9:05 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-21T21:05:49.478266-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 211 screenshots with the Internet Archive.
+The archiving routine has saved 213 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-26T14:35:59.393382-04:00.jpg">
+  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-26T14:35:59.393382-04:00.jpg"
+     alt="Washington Times at 2022-07-26 14:36:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-26T14:35:59.393382-04:00.jpg">July 26 at 2:36 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-26T09:33:09.946722-04:00.jpg">
+  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-26T09:33:09.946722-04:00.jpg"
+     alt="Washington Times at 2022-07-26 09:33:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-26T09:33:09.946722-04:00.jpg">July 26 at 9:33 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T22:55:51.065571-04:00.jpg">
   <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T22:55:51.065571-04:00.jpg"
      alt="Washington Times at 2022-07-25 22:55:53-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-23T12:11:55.294820-04:00.jpg">July 23 at 12:11 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-23T12:09:02.140651-04:00.jpg">
-  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-23T12:09:02.140651-04:00.jpg"
-     alt="Washington Times at 2022-07-23 12:09:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-23T12:09:02.140651-04:00.jpg">July 23 at 12:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-23T00:29:52.377572-04:00.jpg">
-  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-23T00:29:52.377572-04:00.jpg"
-     alt="Washington Times at 2022-07-23 00:29:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-23T00:29:52.377572-04:00.jpg">July 23 at 12:29 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 207 hyperlink lists with the Internet Archive.
+The archiving routine has saved 209 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 2:36 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T14:35:59.393382-04:00.hyperlinks.json) |
+| [July 26 at 9:33 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T09:33:09.946722-04:00.hyperlinks.json) |
 | [July 25 at 10:55 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T22:55:51.065571-04:00.hyperlinks.json) |
 | [July 25 at 9:39 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T21:38:55.091176-04:00.hyperlinks.json) |
 | [July 25 at 2:39 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T14:39:25.163861-04:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 12:41 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T00:41:04.334981-04:00.hyperlinks.json) |
 | [July 24 at 11:45 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-24T11:45:19.400786-04:00.hyperlinks.json) |
 | [July 24 at 11:10 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-24T11:10:50.052090-04:00.hyperlinks.json) |
-| [July 23 at 11:46 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-23T23:46:47.571987-04:00.hyperlinks.json) |
-| [July 23 at 12:12 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-23T12:11:55.294820-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 13 screenshots with the Internet Archive.
+The archiving routine has saved 14 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nrk-2022/nrk-2022-07-27T02:16:39.007252+02:00.jpg">
+  <img src="https://archive.org/download/nrk-2022/nrk-2022-07-27T02:16:39.007252+02:00.jpg"
+     alt="NRK at 2022-07-27 02:16:41+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nrk-2022/nrk-2022-07-27T02:16:39.007252+02:00.jpg">July 27 at 2:16 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nrk-2022/nrk-2022-07-26T14:26:29.733209+02:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nrk-2022/nrk-2022-07-21T05:37:00.397415+02:00.jpg">July 21 at 5:37 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nrk-2022/nrk-2022-07-20T18:11:48.162574+02:00.jpg">
-  <img src="https://archive.org/download/nrk-2022/nrk-2022-07-20T18:11:48.162574+02:00.jpg"
-     alt="NRK at 2022-07-20 18:11:49+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nrk-2022/nrk-2022-07-20T18:11:48.162574+02:00.jpg">July 20 at 6:11 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 14 hyperlink lists with the Internet Archive.
+The archiving routine has saved 15 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 2:16 AM](https://archive.org/download/nrk-2022/nrk-2022-07-27T02:16:39.007252+02:00.hyperlinks.json) |
 | [July 26 at 2:26 PM](https://archive.org/download/nrk-2022/nrk-2022-07-26T14:26:29.733209+02:00.hyperlinks.json) |
 | [July 26 at 2:21 AM](https://archive.org/download/nrk-2022/nrk-2022-07-26T02:21:44.875883+02:00.hyperlinks.json) |
 | [July 25 at 5:34 PM](https://archive.org/download/nrk-2022/nrk-2022-07-25T17:33:54.112425+02:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 5:04 PM](https://archive.org/download/nrk-2022/nrk-2022-07-23T17:04:25.261120+02:00.hyperlinks.json) |
 | [July 23 at 5:34 AM](https://archive.org/download/nrk-2022/nrk-2022-07-23T05:34:15.575336+02:00.hyperlinks.json) |
 | [July 22 at 4:59 PM](https://archive.org/download/nrk-2022/nrk-2022-07-22T16:59:53.978248+02:00.hyperlinks.json) |
-| [July 22 at 5:39 AM](https://archive.org/download/nrk-2022/nrk-2022-07-22T05:39:10.577033+02:00.hyperlinks.json) |
 
 
 ## Internet Archive

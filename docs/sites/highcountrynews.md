@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 33 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 33 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-26T08:36:02.151850-06:00.jpg">
+  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-26T08:36:02.151850-06:00.jpg"
+     alt="High Country News at 2022-07-26 08:36:03-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-26T08:36:02.151850-06:00.jpg">July 26 at 8:36 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-25T20:43:34.676595-06:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-20T20:25:37.206552-06:00.jpg">July 20 at 8:25 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-20T08:26:23.842487-06:00.jpg">
-  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-20T08:26:23.842487-06:00.jpg"
-     alt="High Country News at 2022-07-20 08:26:25-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-20T08:26:23.842487-06:00.jpg">July 20 at 8:26 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 34 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:36 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-26T08:36:02.151850-06:00.hyperlinks.json) |
 | [July 25 at 8:43 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-25T20:43:34.676595-06:00.hyperlinks.json) |
 | [July 25 at 6:05 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-25T06:05:15.208170-06:00.hyperlinks.json) |
 | [July 24 at 7:11 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-24T19:10:59.615085-06:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 8:28 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-22T20:28:07.512260-06:00.hyperlinks.json) |
 | [July 22 at 8:03 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-22T08:03:06.985351-06:00.hyperlinks.json) |
 | [July 21 at 8:22 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-21T20:22:00.980517-06:00.hyperlinks.json) |
-| [July 21 at 8:10 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-07-21T08:10:17.625428-06:00.hyperlinks.json) |
 
 
 ## Internet Archive

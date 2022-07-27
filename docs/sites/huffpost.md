@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 121 screenshots with the Internet Archive.
+The archiving routine has saved 125 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-26T20:11:22.275542-04:00.jpg">
+  <img src="https://archive.org/download/huffpost-2022/huffpost-2022-07-26T20:11:22.275542-04:00.jpg"
+     alt="Huffington Post at 2022-07-26 20:11:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-26T20:11:22.275542-04:00.jpg">July 26 at 8:11 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-26T17:11:56.504165-04:00.jpg">
+  <img src="https://archive.org/download/huffpost-2022/huffpost-2022-07-26T17:11:56.504165-04:00.jpg"
+     alt="Huffington Post at 2022-07-26 17:11:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-26T17:11:56.504165-04:00.jpg">July 26 at 5:11 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-26T14:36:31.948636-04:00.jpg">
+  <img src="https://archive.org/download/huffpost-2022/huffpost-2022-07-26T14:36:31.948636-04:00.jpg"
+     alt="Huffington Post at 2022-07-26 14:36:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-26T14:36:31.948636-04:00.jpg">July 26 at 2:36 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-26T11:58:21.430171-04:00.jpg">
+  <img src="https://archive.org/download/huffpost-2022/huffpost-2022-07-26T11:58:21.430171-04:00.jpg"
+     alt="Huffington Post at 2022-07-26 11:58:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-26T11:58:21.430171-04:00.jpg">July 26 at 11:58 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-26T08:19:32.032519-04:00.jpg">
   <img src="https://archive.org/download/huffpost-2022/huffpost-2022-07-26T08:19:32.032519-04:00.jpg"
      alt="Huffington Post at 2022-07-26 08:19:41-04:00 local time"
@@ -183,47 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T21:11:38.889451-04:00.jpg">July 24 at 9:11 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T17:21:34.038040-04:00.jpg">
-  <img src="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T17:21:34.038040-04:00.jpg"
-     alt="Huffington Post at 2022-07-24 17:21:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T17:21:34.038040-04:00.jpg">July 24 at 5:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T11:42:39.794571-04:00.jpg">
-  <img src="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T11:42:39.794571-04:00.jpg"
-     alt="Huffington Post at 2022-07-24 11:42:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T11:42:39.794571-04:00.jpg">July 24 at 11:42 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T11:12:57.468759-04:00.jpg">
-  <img src="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T11:12:57.468759-04:00.jpg"
-     alt="Huffington Post at 2022-07-24 11:12:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T11:12:57.468759-04:00.jpg">July 24 at 11:12 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T08:02:53.209109-04:00.jpg">
-  <img src="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T08:02:53.209109-04:00.jpg"
-     alt="Huffington Post at 2022-07-24 08:02:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T08:02:53.209109-04:00.jpg">July 24 at 8:02 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 115 hyperlink lists with the Internet Archive.
+The archiving routine has saved 118 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 5:12 PM](https://archive.org/download/huffpost-2022/huffpost-2022-07-26T17:11:56.504165-04:00.hyperlinks.json) |
+| [July 26 at 2:36 PM](https://archive.org/download/huffpost-2022/huffpost-2022-07-26T14:36:31.948636-04:00.hyperlinks.json) |
+| [July 26 at 11:58 AM](https://archive.org/download/huffpost-2022/huffpost-2022-07-26T11:58:21.430171-04:00.hyperlinks.json) |
 | [July 26 at 8:20 AM](https://archive.org/download/huffpost-2022/huffpost-2022-07-26T08:19:32.032519-04:00.hyperlinks.json) |
 | [July 25 at 8:14 PM](https://archive.org/download/huffpost-2022/huffpost-2022-07-25T20:14:29.726943-04:00.hyperlinks.json) |
 | [July 25 at 5:14 PM](https://archive.org/download/huffpost-2022/huffpost-2022-07-25T17:14:14.746255-04:00.hyperlinks.json) |
@@ -321,9 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 12:37 PM](https://archive.org/download/huffpost-2022/huffpost-2022-07-25T12:37:20.040946-04:00.hyperlinks.json) |
 | [July 25 at 11:54 AM](https://archive.org/download/huffpost-2022/huffpost-2022-07-25T11:54:49.280995-04:00.hyperlinks.json) |
 | [July 24 at 9:11 PM](https://archive.org/download/huffpost-2022/huffpost-2022-07-24T21:11:38.889451-04:00.hyperlinks.json) |
-| [July 24 at 5:21 PM](https://archive.org/download/huffpost-2022/huffpost-2022-07-24T17:21:34.038040-04:00.hyperlinks.json) |
-| [July 24 at 11:13 AM](https://archive.org/download/huffpost-2022/huffpost-2022-07-24T11:12:57.468759-04:00.hyperlinks.json) |
-| [July 24 at 8:02 AM](https://archive.org/download/huffpost-2022/huffpost-2022-07-24T08:02:53.209109-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

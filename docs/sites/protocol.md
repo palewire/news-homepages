@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 59 screenshots with the Internet Archive.
+The archiving routine has saved 60 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 59 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/protocol-2022/protocol-2022-07-26T08:44:21.107698-07:00.jpg">
+  <img src="https://archive.org/download/protocol-2022/protocol-2022-07-26T08:44:21.107698-07:00.jpg"
+     alt="Protocol at 2022-07-26 08:44:22-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-26T08:44:21.107698-07:00.jpg">July 26 at 8:44 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/protocol-2022/protocol-2022-07-25T20:55:27.468070-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-21T08:38:13.667684-07:00.jpg">July 21 at 8:38 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/protocol-2022/protocol-2022-07-20T20:39:33.738443-07:00.jpg">
-  <img src="https://archive.org/download/protocol-2022/protocol-2022-07-20T20:39:33.738443-07:00.jpg"
-     alt="Protocol at 2022-07-20 20:39:36-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-20T20:39:33.738443-07:00.jpg">July 20 at 8:39 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 59 hyperlink lists with the Internet Archive.
+The archiving routine has saved 60 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:44 AM](https://archive.org/download/protocol-2022/protocol-2022-07-26T08:44:21.107698-07:00.hyperlinks.json) |
 | [July 25 at 8:55 PM](https://archive.org/download/protocol-2022/protocol-2022-07-25T20:55:27.468070-07:00.hyperlinks.json) |
 | [July 25 at 8:38 AM](https://archive.org/download/protocol-2022/protocol-2022-07-25T08:38:06.087500-07:00.hyperlinks.json) |
 | [July 24 at 11:46 PM](https://archive.org/download/protocol-2022/protocol-2022-07-24T23:46:47.963362-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:07 AM](https://archive.org/download/protocol-2022/protocol-2022-07-23T08:07:12.356850-07:00.hyperlinks.json) |
 | [July 22 at 8:37 PM](https://archive.org/download/protocol-2022/protocol-2022-07-22T20:36:56.985671-07:00.hyperlinks.json) |
 | [July 22 at 8:03 AM](https://archive.org/download/protocol-2022/protocol-2022-07-22T08:03:19.754176-07:00.hyperlinks.json) |
-| [July 21 at 8:41 PM](https://archive.org/download/protocol-2022/protocol-2022-07-21T20:41:08.301927-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

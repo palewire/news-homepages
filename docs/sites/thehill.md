@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thehill-2022/thehill-2022-07-26T11:47:53.800770-04:00.jpg">
+  <img src="https://archive.org/download/thehill-2022/thehill-2022-07-26T11:47:53.800770-04:00.jpg"
+     alt="The Hill at 2022-07-26 11:47:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thehill-2022/thehill-2022-07-26T11:47:53.800770-04:00.jpg">July 26 at 11:47 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehill-2022/thehill-2022-07-25T23:58:45.815702-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thehill-2022/thehill-2022-07-21T00:28:39.551455-04:00.jpg">July 21 at 12:28 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thehill-2022/thehill-2022-07-20T12:45:07.380125-04:00.jpg">
-  <img src="https://archive.org/download/thehill-2022/thehill-2022-07-20T12:45:07.380125-04:00.jpg"
-     alt="The Hill at 2022-07-20 12:45:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thehill-2022/thehill-2022-07-20T12:45:07.380125-04:00.jpg">July 20 at 12:45 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:48 AM](https://archive.org/download/thehill-2022/thehill-2022-07-26T11:47:53.800770-04:00.hyperlinks.json) |
 | [July 25 at 11:58 PM](https://archive.org/download/thehill-2022/thehill-2022-07-25T23:58:45.815702-04:00.hyperlinks.json) |
 | [July 25 at 11:46 AM](https://archive.org/download/thehill-2022/thehill-2022-07-25T11:46:37.484042-04:00.hyperlinks.json) |
 | [July 25 at 12:36 AM](https://archive.org/download/thehill-2022/thehill-2022-07-25T00:36:04.154124-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 12:31 AM](https://archive.org/download/thehill-2022/thehill-2022-07-22T00:31:06.161371-04:00.hyperlinks.json) |
 | [July 21 at 12:54 PM](https://archive.org/download/thehill-2022/thehill-2022-07-21T12:54:39.732571-04:00.hyperlinks.json) |
 | [July 21 at 12:28 AM](https://archive.org/download/thehill-2022/thehill-2022-07-21T00:28:39.551455-04:00.hyperlinks.json) |
-| [July 20 at 12:45 PM](https://archive.org/download/thehill-2022/thehill-2022-07-20T12:45:07.380125-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

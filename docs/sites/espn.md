@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/espn-2022/espn-2022-07-26T10:33:28.717156-04:00.jpg">
+  <img src="https://archive.org/download/espn-2022/espn-2022-07-26T10:33:28.717156-04:00.jpg"
+     alt="ESPN at 2022-07-26 10:33:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/espn-2022/espn-2022-07-26T10:33:28.717156-04:00.jpg">July 26 at 10:33 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/espn-2022/espn-2022-07-25T22:42:02.403560-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/espn-2022/espn-2022-07-20T22:21:15.019511-04:00.jpg">July 20 at 10:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/espn-2022/espn-2022-07-20T10:24:22.223828-04:00.jpg">
-  <img src="https://archive.org/download/espn-2022/espn-2022-07-20T10:24:22.223828-04:00.jpg"
-     alt="ESPN at 2022-07-20 10:24:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/espn-2022/espn-2022-07-20T10:24:22.223828-04:00.jpg">July 20 at 10:24 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:33 AM](https://archive.org/download/espn-2022/espn-2022-07-26T10:33:28.717156-04:00.hyperlinks.json) |
 | [July 25 at 10:42 PM](https://archive.org/download/espn-2022/espn-2022-07-25T22:42:02.403560-04:00.hyperlinks.json) |
 | [July 25 at 8:01 AM](https://archive.org/download/espn-2022/espn-2022-07-25T08:01:25.959274-04:00.hyperlinks.json) |
 | [July 24 at 9:03 PM](https://archive.org/download/espn-2022/espn-2022-07-24T21:03:22.490132-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 10:24 PM](https://archive.org/download/espn-2022/espn-2022-07-22T22:24:36.127661-04:00.hyperlinks.json) |
 | [July 22 at 9:59 AM](https://archive.org/download/espn-2022/espn-2022-07-22T09:59:04.163048-04:00.hyperlinks.json) |
 | [July 21 at 10:18 PM](https://archive.org/download/espn-2022/espn-2022-07-21T22:18:16.302737-04:00.hyperlinks.json) |
-| [July 21 at 10:04 AM](https://archive.org/download/espn-2022/espn-2022-07-21T10:04:03.549760-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

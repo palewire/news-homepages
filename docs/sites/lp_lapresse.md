@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 70 screenshots with the Internet Archive.
+The archiving routine has saved 71 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 70 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T10:39:38.726492-04:00.jpg">
+  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T10:39:38.726492-04:00.jpg"
+     alt="La Presse at 2022-07-26 10:39:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T10:39:38.726492-04:00.jpg">July 26 at 10:39 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T22:48:15.959110-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-20T23:33:20.023270-04:00.jpg">July 20 at 11:33 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-20T12:07:29.278666-04:00.jpg">
-  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-20T12:07:29.278666-04:00.jpg"
-     alt="La Presse at 2022-07-20 12:07:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-20T12:07:29.278666-04:00.jpg">July 20 at 12:07 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 70 hyperlink lists with the Internet Archive.
+The archiving routine has saved 71 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:39 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T10:39:38.726492-04:00.hyperlinks.json) |
 | [July 25 at 10:48 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T22:48:15.959110-04:00.hyperlinks.json) |
 | [July 25 at 9:13 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T09:13:18.794440-04:00.hyperlinks.json) |
 | [July 24 at 11:31 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T23:31:22.176762-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:30 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T23:30:37.420138-04:00.hyperlinks.json) |
 | [July 22 at 10:57 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T10:56:52.706452-04:00.hyperlinks.json) |
 | [July 21 at 11:34 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-21T23:34:36.031256-04:00.hyperlinks.json) |
-| [July 21 at 11:29 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-21T11:28:55.272228-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

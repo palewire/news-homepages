@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 97 screenshots with the Internet Archive.
+The archiving routine has saved 98 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 97 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-07-26T11:41:55.033101-04:00.jpg">
+  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-07-26T11:41:55.033101-04:00.jpg"
+     alt="okayplayer at 2022-07-26 11:41:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-07-26T11:41:55.033101-04:00.jpg">July 26 at 11:41 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-07-25T23:53:55.398001-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-07-20T23:38:25.930765-04:00.jpg">July 20 at 11:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-07-20T12:12:31.620324-04:00.jpg">
-  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-07-20T12:12:31.620324-04:00.jpg"
-     alt="okayplayer at 2022-07-20 12:12:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-07-20T12:12:31.620324-04:00.jpg">July 20 at 12:12 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 100 hyperlink lists with the Internet Archive.
+The archiving routine has saved 101 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:41 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-07-26T11:41:55.033101-04:00.hyperlinks.json) |
 | [July 25 at 11:54 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-07-25T23:53:55.398001-04:00.hyperlinks.json) |
 | [July 25 at 11:35 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-07-25T11:35:10.199973-04:00.hyperlinks.json) |
 | [July 24 at 11:38 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-07-24T23:38:43.703659-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:35 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-07-22T23:35:16.905791-04:00.hyperlinks.json) |
 | [July 22 at 11:01 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-07-22T11:01:47.045711-04:00.hyperlinks.json) |
 | [July 21 at 11:39 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-07-21T23:39:31.055844-04:00.hyperlinks.json) |
-| [July 21 at 11:35 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-07-21T11:35:39.395781-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

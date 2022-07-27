@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-26T06:25:41.176292-07:00.jpg">
+  <img src="https://archive.org/download/azcentral-2022/azcentral-2022-07-26T06:25:41.176292-07:00.jpg"
+     alt="Arizona Republic at 2022-07-26 06:25:42-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-26T06:25:41.176292-07:00.jpg">July 26 at 6:25 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-25T19:56:35.195078-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-21T05:51:03.590056-07:00.jpg">July 21 at 5:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-20T18:04:16.870434-07:00.jpg">
-  <img src="https://archive.org/download/azcentral-2022/azcentral-2022-07-20T18:04:16.870434-07:00.jpg"
-     alt="Arizona Republic at 2022-07-20 18:04:17-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-20T18:04:16.870434-07:00.jpg">July 20 at 6:04 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 6:25 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-26T06:25:41.176292-07:00.hyperlinks.json) |
 | [July 25 at 7:56 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-25T19:56:35.195078-07:00.hyperlinks.json) |
 | [July 25 at 6:29 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-25T18:29:51.183380-07:00.hyperlinks.json) |
 | [July 24 at 5:48 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-24T17:48:44.721522-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 5:57 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-22T17:57:22.095638-07:00.hyperlinks.json) |
 | [July 22 at 5:56 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-22T05:56:19.514768-07:00.hyperlinks.json) |
 | [July 21 at 6:04 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-21T18:04:27.672926-07:00.hyperlinks.json) |
-| [July 21 at 5:51 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-21T05:51:03.590056-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 38 screenshots with the Internet Archive.
+The archiving routine has saved 39 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 38 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-26T10:34:03.126499-04:00.jpg">
+  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-07-26T10:34:03.126499-04:00.jpg"
+     alt="Documented at 2022-07-26 10:34:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-26T10:34:03.126499-04:00.jpg">July 26 at 10:34 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-25T22:40:28.012146-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-20T22:21:46.483466-04:00.jpg">July 20 at 10:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-20T10:21:02.763419-04:00.jpg">
-  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-07-20T10:21:02.763419-04:00.jpg"
-     alt="Documented at 2022-07-20 10:21:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-20T10:21:02.763419-04:00.jpg">July 20 at 10:21 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 38 hyperlink lists with the Internet Archive.
+The archiving routine has saved 39 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:34 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-26T10:34:03.126499-04:00.hyperlinks.json) |
 | [July 25 at 10:40 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-25T22:40:28.012146-04:00.hyperlinks.json) |
 | [July 25 at 8:00 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-25T07:59:55.323274-04:00.hyperlinks.json) |
 | [July 24 at 9:02 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-24T21:02:16.793602-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 10:24 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-22T22:24:15.893448-04:00.hyperlinks.json) |
 | [July 22 at 9:59 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-22T09:59:17.320482-04:00.hyperlinks.json) |
 | [July 21 at 10:18 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-21T22:18:05.657831-04:00.hyperlinks.json) |
-| [July 21 at 10:05 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-21T10:04:57.011159-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

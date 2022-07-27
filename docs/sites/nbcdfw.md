@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T19:15:40.642990-05:00.jpg">
+  <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T19:15:40.642990-05:00.jpg"
+     alt="NBC DFW at 2022-07-26 19:15:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T19:15:40.642990-05:00.jpg">July 26 at 7:15 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T07:25:12.858755-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-21T10:32:05.658456-05:00.jpg">July 21 at 10:32 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-20T22:36:39.432271-05:00.jpg">
-  <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-20T22:36:39.432271-05:00.jpg"
-     alt="NBC DFW at 2022-07-20 22:36:41-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-20T22:36:39.432271-05:00.jpg">July 20 at 10:36 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:15 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T19:15:40.642990-05:00.hyperlinks.json) |
 | [July 26 at 7:25 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T07:25:12.858755-05:00.hyperlinks.json) |
 | [July 25 at 7:20 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T19:20:29.877977-05:00.hyperlinks.json) |
 | [July 25 at 8:16 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T08:16:19.906377-05:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 10:03 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T10:03:10.509584-05:00.hyperlinks.json) |
 | [July 22 at 10:33 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-22T22:32:55.924155-05:00.hyperlinks.json) |
 | [July 22 at 9:58 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-22T09:58:41.683304-05:00.hyperlinks.json) |
-| [July 21 at 10:37 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-21T22:37:10.406797-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

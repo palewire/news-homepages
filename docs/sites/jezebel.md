@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 25 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jezebel-2022/jezebel-2022-07-26T20:11:29.790737-04:00.jpg">
+  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-07-26T20:11:29.790737-04:00.jpg"
+     alt="Jezebel at 2022-07-26 20:11:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-07-26T20:11:29.790737-04:00.jpg">July 26 at 8:11 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jezebel-2022/jezebel-2022-07-26T14:37:07.694216-04:00.jpg">
+  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-07-26T14:37:07.694216-04:00.jpg"
+     alt="Jezebel at 2022-07-26 14:37:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-07-26T14:37:07.694216-04:00.jpg">July 26 at 2:37 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jezebel-2022/jezebel-2022-07-26T08:21:29.693042-04:00.jpg">
@@ -116,24 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-07-23T14:12:53.534491-04:00.jpg">July 23 at 2:12 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jezebel-2022/jezebel-2022-07-23T10:03:59.895652-04:00.jpg">
-  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-07-23T10:03:59.895652-04:00.jpg"
-     alt="Jezebel at 2022-07-23 10:04:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-07-23T10:03:59.895652-04:00.jpg">July 23 at 10:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jezebel-2022/jezebel-2022-07-22T22:29:41.977074-04:00.jpg">
-  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-07-22T22:29:41.977074-04:00.jpg"
-     alt="Jezebel at 2022-07-22 22:29:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-07-22T22:29:41.977074-04:00.jpg">July 22 at 10:29 PM</a></p>
 </div>
 
 </div>

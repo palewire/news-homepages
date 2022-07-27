@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 4 screenshots with the Internet Archive.
+The archiving routine has saved 5 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-26T20:22:40.541952+05:45.jpg">
+  <img src="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-26T20:22:40.541952+05:45.jpg"
+     alt="Sanchar Kendra at 2022-07-26 20:22:42+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-26T20:22:40.541952+05:45.jpg">July 26 at 8:22 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-26T08:32:00.990549+05:45.jpg">
@@ -68,7 +77,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+The archiving routine has saved 5 hyperlink lists with the Internet Archive.
 
 
 
@@ -76,6 +85,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:22 PM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-26T20:22:40.541952+05:45.hyperlinks.json) |
 | [July 26 at 8:32 AM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-26T08:32:00.990549+05:45.hyperlinks.json) |
 | [July 25 at 6:55 PM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-25T18:55:48.060423+05:45.hyperlinks.json) |
 | [July 25 at 9:12 AM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-07-25T09:11:56.663229+05:45.hyperlinks.json) |

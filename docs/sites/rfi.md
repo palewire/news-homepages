@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 81 screenshots with the Internet Archive.
+The archiving routine has saved 82 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 81 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rfi-2022/rfi-2022-07-27T02:19:11.500921+02:00.jpg">
+  <img src="https://archive.org/download/rfi-2022/rfi-2022-07-27T02:19:11.500921+02:00.jpg"
+     alt="RFI at 2022-07-27 02:19:16+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-27T02:19:11.500921+02:00.jpg">July 27 at 2:19 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rfi-2022/rfi-2022-07-26T14:29:05.384131+02:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-23T10:07:50.313036+02:00.jpg">July 23 at 10:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rfi-2022/rfi-2022-07-23T05:37:56.207725+02:00.jpg">
-  <img src="https://archive.org/download/rfi-2022/rfi-2022-07-23T05:37:56.207725+02:00.jpg"
-     alt="RFI at 2022-07-23 05:37:57+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-23T05:37:56.207725+02:00.jpg">July 23 at 5:37 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 81 hyperlink lists with the Internet Archive.
+The archiving routine has saved 82 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 2:19 AM](https://archive.org/download/rfi-2022/rfi-2022-07-27T02:19:11.500921+02:00.hyperlinks.json) |
 | [July 26 at 2:29 PM](https://archive.org/download/rfi-2022/rfi-2022-07-26T14:29:05.384131+02:00.hyperlinks.json) |
 | [July 26 at 10:09 AM](https://archive.org/download/rfi-2022/rfi-2022-07-26T10:08:50.930382+02:00.hyperlinks.json) |
 | [July 26 at 2:24 AM](https://archive.org/download/rfi-2022/rfi-2022-07-26T02:23:58.594091+02:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 4:02 PM](https://archive.org/download/rfi-2022/rfi-2022-07-24T16:02:03.133604+02:00.hyperlinks.json) |
 | [July 24 at 10:10 AM](https://archive.org/download/rfi-2022/rfi-2022-07-24T10:10:48.385113+02:00.hyperlinks.json) |
 | [July 24 at 8:22 AM](https://archive.org/download/rfi-2022/rfi-2022-07-24T08:21:59.435354+02:00.hyperlinks.json) |
-| [July 23 at 5:08 PM](https://archive.org/download/rfi-2022/rfi-2022-07-23T17:08:30.175217+02:00.hyperlinks.json) |
 
 
 ## Internet Archive

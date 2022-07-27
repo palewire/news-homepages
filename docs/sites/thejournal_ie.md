@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-26T16:47:46.505341+01:00.jpg">
+  <img src="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-26T16:47:46.505341+01:00.jpg"
+     alt="Journal.ie at 2022-07-26 16:47:48+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-26T16:47:46.505341+01:00.jpg">July 26 at 4:47 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-26T04:59:13.725242+01:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-21T05:28:51.684010+01:00.jpg">July 21 at 5:28 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-20T17:45:30.039733+01:00.jpg">
-  <img src="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-20T17:45:30.039733+01:00.jpg"
-     alt="Journal.ie at 2022-07-20 17:45:32+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-20T17:45:30.039733+01:00.jpg">July 20 at 5:45 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 4:47 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-26T16:47:46.505341+01:00.hyperlinks.json) |
 | [July 26 at 4:59 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-26T04:59:13.725242+01:00.hyperlinks.json) |
 | [July 25 at 4:46 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-25T16:46:42.141957+01:00.hyperlinks.json) |
 | [July 25 at 5:36 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-25T05:36:05.213019+01:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 5:25 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-23T05:25:17.588811+01:00.hyperlinks.json) |
 | [July 22 at 5:18 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-22T17:18:01.717347+01:00.hyperlinks.json) |
 | [July 22 at 5:31 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-22T05:31:25.212280+01:00.hyperlinks.json) |
-| [July 21 at 5:55 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-21T17:55:48.111048+01:00.hyperlinks.json) |
 
 
 ## Internet Archive

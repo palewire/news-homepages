@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/detroitnews-2022/detroitnews-2022-07-26T19:08:03.585577-04:00.jpg">
+  <img src="https://archive.org/download/detroitnews-2022/detroitnews-2022-07-26T19:08:03.585577-04:00.jpg"
+     alt="Detroit News at 2022-07-26 19:08:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/detroitnews-2022/detroitnews-2022-07-26T19:08:03.585577-04:00.jpg">July 26 at 7:08 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/detroitnews-2022/detroitnews-2022-07-26T07:16:19.094742-04:00.jpg">
@@ -50,7 +59,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 2 hyperlink lists with the Internet Archive.
+The archiving routine has saved 3 hyperlink lists with the Internet Archive.
 
 
 
@@ -58,6 +67,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:08 PM](https://archive.org/download/detroitnews-2022/detroitnews-2022-07-26T19:08:03.585577-04:00.hyperlinks.json) |
 | [July 26 at 7:16 AM](https://archive.org/download/detroitnews-2022/detroitnews-2022-07-26T07:16:19.094742-04:00.hyperlinks.json) |
 | [July 25 at 7:13 PM](https://archive.org/download/detroitnews-2022/detroitnews-2022-07-25T19:12:50.537936-04:00.hyperlinks.json) |
 

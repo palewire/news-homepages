@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-26T10:59:59.626434-05:00.jpg">
+  <img src="https://archive.org/download/hwherald-2022/hwherald-2022-07-26T10:59:59.626434-05:00.jpg"
+     alt="Harvey World Herald at 2022-07-26 11:00:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-26T10:59:59.626434-05:00.jpg">July 26 at 11:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-26T09:36:40.728330-05:00.jpg">
+  <img src="https://archive.org/download/hwherald-2022/hwherald-2022-07-26T09:36:40.728330-05:00.jpg"
+     alt="Harvey World Herald at 2022-07-26 09:36:41-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-26T09:36:40.728330-05:00.jpg">July 26 at 9:36 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-25T21:45:00.395912-05:00.jpg">
   <img src="https://archive.org/download/hwherald-2022/hwherald-2022-07-25T21:45:00.395912-05:00.jpg"
      alt="Harvey World Herald at 2022-07-25 21:45:02-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-21T09:16:14.867471-05:00.jpg">July 21 at 9:16 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-20T21:25:34.487316-05:00.jpg">
-  <img src="https://archive.org/download/hwherald-2022/hwherald-2022-07-20T21:25:34.487316-05:00.jpg"
-     alt="Harvey World Herald at 2022-07-20 21:25:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-20T21:25:34.487316-05:00.jpg">July 20 at 9:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-20T09:26:05.995470-05:00.jpg">
-  <img src="https://archive.org/download/hwherald-2022/hwherald-2022-07-20T09:26:05.995470-05:00.jpg"
-     alt="Harvey World Herald at 2022-07-20 09:26:07-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-20T09:26:05.995470-05:00.jpg">July 20 at 9:26 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 33 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:00 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-26T10:59:59.626434-05:00.hyperlinks.json) |
+| [July 26 at 9:36 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-26T09:36:40.728330-05:00.hyperlinks.json) |
 | [July 25 at 9:45 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-25T21:45:00.395912-05:00.hyperlinks.json) |
 | [July 25 at 7:07 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-25T07:06:56.832562-05:00.hyperlinks.json) |
 | [July 24 at 8:11 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-24T20:11:54.557233-05:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:02 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-23T09:02:29.650383-05:00.hyperlinks.json) |
 | [July 22 at 9:28 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-22T21:28:55.260982-05:00.hyperlinks.json) |
 | [July 22 at 9:04 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-22T09:04:06.660565-05:00.hyperlinks.json) |
-| [July 21 at 9:22 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-21T21:22:52.302879-05:00.hyperlinks.json) |
-| [July 21 at 9:16 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-21T09:16:14.867471-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

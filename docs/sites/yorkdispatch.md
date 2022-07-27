@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 6 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-07-26T11:50:34.608306-04:00.jpg">
+  <img src="https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-07-26T11:50:34.608306-04:00.jpg"
+     alt="York Dispatch at 2022-07-26 11:50:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-07-26T11:50:34.608306-04:00.jpg">July 26 at 11:50 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-07-26T00:02:29.913021-04:00.jpg">
@@ -86,7 +95,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 6 hyperlink lists with the Internet Archive.
+The archiving routine has saved 7 hyperlink lists with the Internet Archive.
 
 
 
@@ -94,6 +103,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:50 AM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-07-26T11:50:34.608306-04:00.hyperlinks.json) |
 | [July 26 at 12:02 AM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-07-26T00:02:29.913021-04:00.hyperlinks.json) |
 | [July 25 at 11:54 AM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-07-25T11:54:43.086099-04:00.hyperlinks.json) |
 | [July 25 at 12:42 AM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-07-25T00:42:33.245306-04:00.hyperlinks.json) |

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 59 screenshots with the Internet Archive.
+The archiving routine has saved 60 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 59 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-26T08:47:27.665037-07:00.jpg">
+  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-07-26T08:47:27.665037-07:00.jpg"
+     alt="The Information at 2022-07-26 08:47:30-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-26T08:47:27.665037-07:00.jpg">July 26 at 8:47 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-25T20:58:32.703384-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-21T09:55:16.394665-07:00.jpg">July 21 at 9:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-20T21:29:11.802618-07:00.jpg">
-  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-07-20T21:29:11.802618-07:00.jpg"
-     alt="The Information at 2022-07-20 21:29:14-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-07-20T21:29:11.802618-07:00.jpg">July 20 at 9:29 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 58 hyperlink lists with the Internet Archive.
+The archiving routine has saved 59 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:47 AM](https://archive.org/download/theinformation-2022/theinformation-2022-07-26T08:47:27.665037-07:00.hyperlinks.json) |
 | [July 25 at 8:58 PM](https://archive.org/download/theinformation-2022/theinformation-2022-07-25T20:58:32.703384-07:00.hyperlinks.json) |
 | [July 25 at 8:46 AM](https://archive.org/download/theinformation-2022/theinformation-2022-07-25T08:46:24.484047-07:00.hyperlinks.json) |
 | [July 24 at 11:46 PM](https://archive.org/download/theinformation-2022/theinformation-2022-07-24T23:46:43.085904-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:04 AM](https://archive.org/download/theinformation-2022/theinformation-2022-07-23T09:04:47.918407-07:00.hyperlinks.json) |
 | [July 22 at 9:25 PM](https://archive.org/download/theinformation-2022/theinformation-2022-07-22T21:25:06.085201-07:00.hyperlinks.json) |
 | [July 22 at 9:17 AM](https://archive.org/download/theinformation-2022/theinformation-2022-07-22T09:17:49.978231-07:00.hyperlinks.json) |
-| [July 21 at 9:31 PM](https://archive.org/download/theinformation-2022/theinformation-2022-07-21T21:30:55.689202-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

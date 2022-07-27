@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 188 screenshots with the Internet Archive.
+The archiving routine has saved 189 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 188 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-26T19:12:29.642870-05:00.jpg">
+  <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-26T19:12:29.642870-05:00.jpg"
+     alt="KCRG at 2022-07-26 19:12:36-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-26T19:12:29.642870-05:00.jpg">July 26 at 7:12 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-26T07:22:28.390510-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-22T09:05:19.879547-05:00.jpg">July 22 at 9:05 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-21T21:24:15.637750-05:00.jpg">
-  <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-21T21:24:15.637750-05:00.jpg"
-     alt="KCRG at 2022-07-21 21:24:26-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-21T21:24:15.637750-05:00.jpg">July 21 at 9:24 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 178 hyperlink lists with the Internet Archive.
+The archiving routine has saved 179 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:12 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-26T19:12:29.642870-05:00.hyperlinks.json) |
 | [July 26 at 7:22 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-26T07:22:28.390510-05:00.hyperlinks.json) |
 | [July 25 at 7:16 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-25T19:15:55.225476-05:00.hyperlinks.json) |
 | [July 25 at 11:39 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-25T11:39:44.896885-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:13 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-23T23:13:44.902105-05:00.hyperlinks.json) |
 | [July 23 at 9:04 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-23T09:04:35.397775-05:00.hyperlinks.json) |
 | [July 22 at 9:30 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-22T21:30:48.179970-05:00.hyperlinks.json) |
-| [July 22 at 11:13 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-22T11:13:12.761431-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

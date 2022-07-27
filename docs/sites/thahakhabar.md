@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-07-26T19:15:18.413461+05:45.jpg">
+  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-07-26T19:15:18.413461+05:45.jpg"
+     alt="Thaha Khabar at 2022-07-26 19:15:19+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-07-26T19:15:18.413461+05:45.jpg">July 26 at 7:15 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-07-26T08:36:29.256213+05:45.jpg">
@@ -77,7 +86,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
 
 
@@ -85,6 +94,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:15 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-07-26T19:15:18.413461+05:45.hyperlinks.json) |
 | [July 26 at 8:36 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-07-26T08:36:29.256213+05:45.hyperlinks.json) |
 | [July 26 at 7:19 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-07-26T07:19:21.646760+05:45.hyperlinks.json) |
 | [July 25 at 9:30 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-07-25T21:30:24.491858+05:45.hyperlinks.json) |

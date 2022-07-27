@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-26T09:46:25.496630-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-07-26T09:46:25.496630-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-07-26 09:46:26-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-26T09:46:25.496630-06:00.jpg">July 26 at 9:46 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-25T21:57:49.226299-06:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-20T10:42:38.577977-06:00.jpg">July 20 at 10:42 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-19T22:18:32.043993-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-07-19T22:18:32.043993-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-07-19 22:18:33-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-07-19T22:18:32.043993-06:00.jpg">July 19 at 10:18 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 33 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:46 AM](https://archive.org/download/sltrib-2022/sltrib-2022-07-26T09:46:25.496630-06:00.hyperlinks.json) |
 | [July 25 at 9:57 PM](https://archive.org/download/sltrib-2022/sltrib-2022-07-25T21:57:49.226299-06:00.hyperlinks.json) |
 | [July 24 at 9:43 PM](https://archive.org/download/sltrib-2022/sltrib-2022-07-24T21:43:51.247063-06:00.hyperlinks.json) |
 | [July 24 at 12:23 AM](https://archive.org/download/sltrib-2022/sltrib-2022-07-24T00:23:06.679531-06:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 21 at 10:28 PM](https://archive.org/download/sltrib-2022/sltrib-2022-07-21T22:28:14.723981-06:00.hyperlinks.json) |
 | [July 21 at 10:52 AM](https://archive.org/download/sltrib-2022/sltrib-2022-07-21T10:51:59.272400-06:00.hyperlinks.json) |
 | [July 20 at 10:26 PM](https://archive.org/download/sltrib-2022/sltrib-2022-07-20T22:26:41.654031-06:00.hyperlinks.json) |
-| [July 20 at 10:42 AM](https://archive.org/download/sltrib-2022/sltrib-2022-07-20T10:42:38.577977-06:00.hyperlinks.json) |
 
 
 ## Internet Archive

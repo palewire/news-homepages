@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-26T20:15:01.493267-04:00.jpg">
+  <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-26T20:15:01.493267-04:00.jpg"
+     alt="Miami Herald at 2022-07-26 20:15:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-26T20:15:01.493267-04:00.jpg">July 26 at 8:15 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-26T08:24:22.325101-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-21T11:29:04.681984-04:00.jpg">July 21 at 11:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-20T23:34:49.950744-04:00.jpg">
-  <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-20T23:34:49.950744-04:00.jpg"
-     alt="Miami Herald at 2022-07-20 23:34:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-07-20T23:34:49.950744-04:00.jpg">July 20 at 11:34 PM</a></p>
 </div>
 
 </div>

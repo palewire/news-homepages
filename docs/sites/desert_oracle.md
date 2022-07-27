@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-26T16:07:54.295950-07:00.jpg">
+  <img src="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-26T16:07:54.295950-07:00.jpg"
+     alt="Desert Oracle at 2022-07-26 16:07:56-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-26T16:07:54.295950-07:00.jpg">July 26 at 4:07 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-26T04:16:29.761401-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-21T05:57:50.574332-07:00.jpg">July 21 at 5:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-20T18:10:57.183676-07:00.jpg">
-  <img src="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-20T18:10:57.183676-07:00.jpg"
-     alt="Desert Oracle at 2022-07-20 18:10:58-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-20T18:10:57.183676-07:00.jpg">July 20 at 6:10 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 43 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 4:07 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-26T16:07:54.295950-07:00.hyperlinks.json) |
 | [July 26 at 4:16 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-26T04:16:29.761401-07:00.hyperlinks.json) |
 | [July 25 at 4:12 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-25T16:12:33.682583-07:00.hyperlinks.json) |
 | [July 25 at 4:59 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-25T04:59:53.078694-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 6:03 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-23T06:03:31.016114-07:00.hyperlinks.json) |
 | [July 22 at 6:04 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-22T18:04:13.982096-07:00.hyperlinks.json) |
 | [July 22 at 6:04 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-22T06:04:37.010208-07:00.hyperlinks.json) |
-| [July 21 at 6:12 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-21T18:12:01.446354-07:00.hyperlinks.json) |
 
 
 ## Internet Archive

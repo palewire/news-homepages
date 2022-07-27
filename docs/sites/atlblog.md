@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 24 screenshots with the Internet Archive.
+The archiving routine has saved 26 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-26T14:36:42.105603-04:00.jpg">
+  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-07-26T14:36:42.105603-04:00.jpg"
+     alt="Above the Law at 2022-07-26 14:36:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-26T14:36:42.105603-04:00.jpg">July 26 at 2:36 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-26T09:24:01.466327-04:00.jpg">
+  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-07-26T09:24:01.466327-04:00.jpg"
+     alt="Above the Law at 2022-07-26 09:24:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-26T09:24:01.466327-04:00.jpg">July 26 at 9:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-25T22:56:41.629912-04:00.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-23T14:12:36.309702-04:00.jpg">July 23 at 2:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-23T08:56:36.728973-04:00.jpg">
-  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-07-23T08:56:36.728973-04:00.jpg"
-     alt="Above the Law at 2022-07-23 08:56:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-23T08:56:36.728973-04:00.jpg">July 23 at 8:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-22T20:57:04.000718-04:00.jpg">
-  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-07-22T20:57:04.000718-04:00.jpg"
-     alt="Above the Law at 2022-07-22 20:57:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-22T20:57:04.000718-04:00.jpg">July 22 at 8:57 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 24 hyperlink lists with the Internet Archive.
+The archiving routine has saved 26 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 2:36 PM](https://archive.org/download/atlblog-2022/atlblog-2022-07-26T14:36:42.105603-04:00.hyperlinks.json) |
+| [July 26 at 9:24 AM](https://archive.org/download/atlblog-2022/atlblog-2022-07-26T09:24:01.466327-04:00.hyperlinks.json) |
 | [July 25 at 10:56 PM](https://archive.org/download/atlblog-2022/atlblog-2022-07-25T22:56:41.629912-04:00.hyperlinks.json) |
 | [July 25 at 9:30 PM](https://archive.org/download/atlblog-2022/atlblog-2022-07-25T21:30:10.063298-04:00.hyperlinks.json) |
 | [July 25 at 2:39 PM](https://archive.org/download/atlblog-2022/atlblog-2022-07-25T14:39:39.946849-04:00.hyperlinks.json) |
@@ -156,8 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 8:47 PM](https://archive.org/download/atlblog-2022/atlblog-2022-07-24T20:47:09.633192-04:00.hyperlinks.json) |
 | [July 24 at 11:42 AM](https://archive.org/download/atlblog-2022/atlblog-2022-07-24T11:42:21.188407-04:00.hyperlinks.json) |
 | [July 24 at 6:56 AM](https://archive.org/download/atlblog-2022/atlblog-2022-07-24T06:56:42.771879-04:00.hyperlinks.json) |
-| [July 23 at 6:58 PM](https://archive.org/download/atlblog-2022/atlblog-2022-07-23T18:58:44.787879-04:00.hyperlinks.json) |
-| [July 23 at 2:12 PM](https://archive.org/download/atlblog-2022/atlblog-2022-07-23T14:12:36.309702-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

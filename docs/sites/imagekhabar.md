@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 4 screenshots with the Internet Archive.
+The archiving routine has saved 5 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-26T20:23:14.857716+05:45.jpg">
+  <img src="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-26T20:23:14.857716+05:45.jpg"
+     alt="Imagekhabar at 2022-07-26 20:23:16+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-26T20:23:14.857716+05:45.jpg">July 26 at 8:23 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-26T08:29:48.521616+05:45.jpg">
@@ -68,7 +77,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+The archiving routine has saved 5 hyperlink lists with the Internet Archive.
 
 
 
@@ -76,6 +85,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:23 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-26T20:23:14.857716+05:45.hyperlinks.json) |
 | [July 26 at 8:29 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-26T08:29:48.521616+05:45.hyperlinks.json) |
 | [July 25 at 5:51 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-25T17:51:11.090896+05:45.hyperlinks.json) |
 | [July 25 at 6:56 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-25T06:56:24.063585+05:45.hyperlinks.json) |

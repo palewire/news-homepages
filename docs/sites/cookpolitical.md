@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-26T19:06:45.039819-04:00.jpg">
+  <img src="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-26T19:06:45.039819-04:00.jpg"
+     alt="Cook Political Report at 2022-07-26 19:06:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-26T19:06:45.039819-04:00.jpg">July 26 at 7:06 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-26T07:15:31.993280-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-21T08:56:09.251236-04:00.jpg">July 21 at 8:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-20T21:08:11.886027-04:00.jpg">
-  <img src="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-20T21:08:11.886027-04:00.jpg"
-     alt="Cook Political Report at 2022-07-20 21:08:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-20T21:08:11.886027-04:00.jpg">July 20 at 9:08 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 7:06 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-26T19:06:45.039819-04:00.hyperlinks.json) |
 | [July 26 at 7:15 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-26T07:15:31.993280-04:00.hyperlinks.json) |
 | [July 25 at 7:11 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-25T19:11:27.286968-04:00.hyperlinks.json) |
 | [July 25 at 7:03 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-25T07:03:34.571300-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:01 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-23T09:01:54.294047-04:00.hyperlinks.json) |
 | [July 22 at 9:02 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-22T21:02:34.444903-04:00.hyperlinks.json) |
 | [July 22 at 9:01 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-22T09:01:42.632909-04:00.hyperlinks.json) |
-| [July 21 at 9:10 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-07-21T21:10:00.547368-04:00.hyperlinks.json) |
 
 
 ## Internet Archive

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 7 screenshots with the Internet Archive.
+The archiving routine has saved 8 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/statnews-2022/statnews-2022-07-26T11:45:55.537730-04:00.jpg">
+  <img src="https://archive.org/download/statnews-2022/statnews-2022-07-26T11:45:55.537730-04:00.jpg"
+     alt="STAT at 2022-07-26 11:45:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-07-26T11:45:55.537730-04:00.jpg">July 26 at 11:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statnews-2022/statnews-2022-07-25T23:57:13.916141-04:00.jpg">
@@ -95,7 +104,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 7 hyperlink lists with the Internet Archive.
+The archiving routine has saved 8 hyperlink lists with the Internet Archive.
 
 
 
@@ -103,6 +112,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:46 AM](https://archive.org/download/statnews-2022/statnews-2022-07-26T11:45:55.537730-04:00.hyperlinks.json) |
 | [July 25 at 11:57 PM](https://archive.org/download/statnews-2022/statnews-2022-07-25T23:57:13.916141-04:00.hyperlinks.json) |
 | [July 25 at 11:43 AM](https://archive.org/download/statnews-2022/statnews-2022-07-25T11:42:57.669885-04:00.hyperlinks.json) |
 | [July 24 at 11:44 PM](https://archive.org/download/statnews-2022/statnews-2022-07-24T23:44:23.963313-04:00.hyperlinks.json) |

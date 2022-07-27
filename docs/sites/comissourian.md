@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-26T18:06:55.605995-05:00.jpg">
+  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-07-26T18:06:55.605995-05:00.jpg"
+     alt="Columbia Missourian at 2022-07-26 18:06:57-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-26T18:06:55.605995-05:00.jpg">July 26 at 6:06 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-26T06:15:20.970961-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-21T07:56:14.509443-05:00.jpg">July 21 at 7:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-20T20:08:52.895171-05:00.jpg">
-  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-07-20T20:08:52.895171-05:00.jpg"
-     alt="Columbia Missourian at 2022-07-20 20:08:53-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-07-20T20:08:52.895171-05:00.jpg">July 20 at 8:08 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 6:07 PM](https://archive.org/download/comissourian-2022/comissourian-2022-07-26T18:06:55.605995-05:00.hyperlinks.json) |
 | [July 26 at 6:15 AM](https://archive.org/download/comissourian-2022/comissourian-2022-07-26T06:15:20.970961-05:00.hyperlinks.json) |
 | [July 25 at 6:11 PM](https://archive.org/download/comissourian-2022/comissourian-2022-07-25T18:11:16.750119-05:00.hyperlinks.json) |
 | [July 25 at 6:03 AM](https://archive.org/download/comissourian-2022/comissourian-2022-07-25T06:03:42.503649-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:01 AM](https://archive.org/download/comissourian-2022/comissourian-2022-07-23T08:01:50.731938-05:00.hyperlinks.json) |
 | [July 22 at 8:02 PM](https://archive.org/download/comissourian-2022/comissourian-2022-07-22T20:02:04.171986-05:00.hyperlinks.json) |
 | [July 22 at 8:02 AM](https://archive.org/download/comissourian-2022/comissourian-2022-07-22T08:01:54.426298-05:00.hyperlinks.json) |
-| [July 21 at 8:09 PM](https://archive.org/download/comissourian-2022/comissourian-2022-07-21T20:09:28.471522-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

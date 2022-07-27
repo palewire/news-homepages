@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 186 screenshots with the Internet Archive.
+The archiving routine has saved 187 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 186 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-26T10:49:29.658219-05:00.jpg">
+  <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-26T10:49:29.658219-05:00.jpg"
+     alt="Wausau Daily Herald at 2022-07-26 10:49:36-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-26T10:49:29.658219-05:00.jpg">July 26 at 10:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-25T23:01:31.890718-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-20T23:33:08.792112-05:00.jpg">July 20 at 11:33 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-20T11:50:12.324913-05:00.jpg">
-  <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-20T11:50:12.324913-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-07-20 11:50:17-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-20T11:50:12.324913-05:00.jpg">July 20 at 11:50 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 178 hyperlink lists with the Internet Archive.
+The archiving routine has saved 179 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:49 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-07-26T10:49:29.658219-05:00.hyperlinks.json) |
 | [July 25 at 11:01 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-07-25T23:01:31.890718-05:00.hyperlinks.json) |
 | [July 25 at 10:53 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-07-25T10:52:56.827637-05:00.hyperlinks.json) |
 | [July 24 at 10:11 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-07-24T10:11:48.972260-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 21 at 11:35 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-07-21T23:35:42.733861-05:00.hyperlinks.json) |
 | [July 21 at 11:59 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-07-21T11:59:35.927946-05:00.hyperlinks.json) |
 | [July 20 at 11:33 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-07-20T23:33:08.792112-05:00.hyperlinks.json) |
-| [July 20 at 11:50 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-07-20T11:50:12.324913-05:00.hyperlinks.json) |
 
 
 ## Internet Archive

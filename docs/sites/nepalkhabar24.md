@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-27T06:00:50.519474+05:45.jpg">
+  <img src="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-27T06:00:50.519474+05:45.jpg"
+     alt="Nepal Khabar at 2022-07-27 06:00:52+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-27T06:00:50.519474+05:45.jpg">July 27 at 6:00 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-26T18:10:47.618119+05:45.jpg">
@@ -77,7 +86,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
 
 
@@ -85,6 +94,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 6:00 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-27T06:00:50.519474+05:45.hyperlinks.json) |
 | [July 26 at 6:10 PM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-26T18:10:47.618119+05:45.hyperlinks.json) |
 | [July 26 at 6:05 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-26T06:05:07.620109+05:45.hyperlinks.json) |
 | [July 25 at 7:01 PM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T19:01:39.194304+05:45.hyperlinks.json) |
