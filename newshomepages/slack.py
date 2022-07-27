@@ -31,8 +31,8 @@ def cli(artifact_path: str):
         # If it doesn't, wait 60 seconds
         # The most common problem here is that the Internet Archive
         # has fully processed the file yet.
-        click.echo("URL does not exist. Waiting 60 seconds to try again.")
-        time.sleep(60)
+        click.echo("URL does not exist. Waiting 180 seconds to try again.")
+        time.sleep(180)
         if not requests.get(jpg_url).ok:
             # If it still fails, throw an error
             click.echo("URL does not exist")
