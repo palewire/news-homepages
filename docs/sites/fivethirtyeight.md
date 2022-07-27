@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 102 screenshots with the Internet Archive.
+The archiving routine has saved 103 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 102 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-27T07:07:26.812356-04:00.jpg">
+  <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-27T07:07:26.812356-04:00.jpg"
+     alt="FiveThirtyEight at 2022-07-27 07:07:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-27T07:07:26.812356-04:00.jpg">July 27 at 7:07 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-26T19:09:17.670811-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-21T22:19:28.867762-04:00.jpg">July 21 at 10:19 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-21T10:07:32.432080-04:00.jpg">
-  <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-21T10:07:32.432080-04:00.jpg"
-     alt="FiveThirtyEight at 2022-07-21 10:07:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-21T10:07:32.432080-04:00.jpg">July 21 at 10:07 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 103 hyperlink lists with the Internet Archive.
+The archiving routine has saved 104 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:07 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-27T07:07:26.812356-04:00.hyperlinks.json) |
 | [July 26 at 7:09 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-26T19:09:17.670811-04:00.hyperlinks.json) |
 | [July 26 at 7:18 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-26T07:17:58.903789-04:00.hyperlinks.json) |
 | [July 25 at 7:13 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-25T19:13:08.156979-04:00.hyperlinks.json) |
@@ -323,10 +324,115 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 2:28 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-24T02:28:36.157376-04:00.hyperlinks.json) |
 | [July 23 at 9:59 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-23T09:59:14.762923-04:00.hyperlinks.json) |
 | [July 22 at 10:25 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-22T22:25:15.242423-04:00.hyperlinks.json) |
-| [July 22 at 10:00 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-22T10:00:22.582781-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 104 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/fivethirtyeight.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 7:07 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-27T07:07:26.812356-04:00.accessibility.json) |
+| [July 26 at 7:09 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-26T19:09:17.670811-04:00.accessibility.json) |
+| [July 26 at 7:18 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-26T07:17:58.903789-04:00.accessibility.json) |
+| [July 25 at 7:13 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-25T19:13:08.156979-04:00.accessibility.json) |
+| [July 25 at 8:01 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-25T08:01:53.977107-04:00.accessibility.json) |
+| [July 24 at 9:04 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-24T21:04:38.336428-04:00.accessibility.json) |
+| [July 24 at 7:59 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-24T07:58:56.192109-04:00.accessibility.json) |
+| [July 24 at 2:28 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-24T02:28:36.157376-04:00.accessibility.json) |
+| [July 23 at 9:59 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-23T09:59:14.762923-04:00.accessibility.json) |
+| [July 22 at 10:25 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-22T22:25:15.242423-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

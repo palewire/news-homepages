@@ -160,7 +160,30 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 4:59 PM](https://archive.org/download/nrk-2022/nrk-2022-07-22T16:59:53.978248+02:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 15 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 2:16 AM](https://archive.org/download/nrk-2022/nrk-2022-07-27T02:16:39.007252+02:00.accessibility.json) |
+| [July 26 at 2:26 PM](https://archive.org/download/nrk-2022/nrk-2022-07-26T14:26:29.733209+02:00.accessibility.json) |
+| [July 26 at 2:21 AM](https://archive.org/download/nrk-2022/nrk-2022-07-26T02:21:44.875883+02:00.accessibility.json) |
+| [July 25 at 5:33 PM](https://archive.org/download/nrk-2022/nrk-2022-07-25T17:33:54.112425+02:00.accessibility.json) |
+| [July 25 at 5:37 AM](https://archive.org/download/nrk-2022/nrk-2022-07-25T05:37:22.098065+02:00.accessibility.json) |
+| [July 24 at 3:58 PM](https://archive.org/download/nrk-2022/nrk-2022-07-24T15:58:28.002879+02:00.accessibility.json) |
+| [July 24 at 8:16 AM](https://archive.org/download/nrk-2022/nrk-2022-07-24T08:16:27.365166+02:00.accessibility.json) |
+| [July 23 at 5:04 PM](https://archive.org/download/nrk-2022/nrk-2022-07-23T17:04:25.261120+02:00.accessibility.json) |
+| [July 23 at 5:34 AM](https://archive.org/download/nrk-2022/nrk-2022-07-23T05:34:15.575336+02:00.accessibility.json) |
+| [July 22 at 4:59 PM](https://archive.org/download/nrk-2022/nrk-2022-07-22T16:59:53.978248+02:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

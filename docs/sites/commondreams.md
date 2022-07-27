@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-26T21:25:55.898940-04:00.jpg">
+  <img src="https://archive.org/download/commondreams-2022/commondreams-2022-07-26T21:25:55.898940-04:00.jpg"
+     alt="Common Dreams at 2022-07-26 21:25:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-26T21:25:55.898940-04:00.jpg">July 26 at 9:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-26T14:36:14.539410-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-23T19:04:28.287986-04:00.jpg">July 23 at 7:04 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-23T14:12:00.231535-04:00.jpg">
-  <img src="https://archive.org/download/commondreams-2022/commondreams-2022-07-23T14:12:00.231535-04:00.jpg"
-     alt="Common Dreams at 2022-07-23 14:12:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-23T14:12:00.231535-04:00.jpg">July 23 at 2:12 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:26 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T21:25:55.898940-04:00.hyperlinks.json) |
 | [July 26 at 2:36 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T14:36:14.539410-04:00.hyperlinks.json) |
 | [July 26 at 9:27 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T09:27:34.976110-04:00.hyperlinks.json) |
 | [July 25 at 10:59 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T22:59:15.357260-04:00.hyperlinks.json) |
@@ -157,10 +158,32 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 7:04 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T07:03:52.146082-04:00.hyperlinks.json) |
 | [July 24 at 8:56 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-24T20:56:28.876506-04:00.hyperlinks.json) |
 | [July 24 at 11:42 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-24T11:42:16.318480-04:00.hyperlinks.json) |
-| [July 24 at 7:02 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-24T07:02:48.434781-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 9:25 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T21:25:55.898940-04:00.accessibility.json) |
+| [July 26 at 2:36 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T14:36:14.539410-04:00.accessibility.json) |
+| [July 26 at 9:27 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T09:27:34.976110-04:00.accessibility.json) |
+| [July 25 at 10:59 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T22:59:15.357260-04:00.accessibility.json) |
+| [July 25 at 9:32 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T21:32:23.587422-04:00.accessibility.json) |
+| [July 25 at 2:40 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T14:40:03.151030-04:00.accessibility.json) |
+| [July 25 at 12:36 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T12:36:47.895273-04:00.accessibility.json) |
+| [July 25 at 7:03 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T07:03:52.146082-04:00.accessibility.json) |
+| [July 24 at 8:56 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-24T20:56:28.876506-04:00.accessibility.json) |
+| [July 24 at 11:42 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-24T11:42:16.318480-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-26T21:39:27.037284-05:00.jpg">
+  <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-26T21:39:27.037284-05:00.jpg"
+     alt="Kerrville Daily Times at 2022-07-26 21:39:29-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-26T21:39:27.037284-05:00.jpg">July 26 at 9:39 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-26T09:37:30.823615-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-21T09:15:16.037799-05:00.jpg">July 21 at 9:15 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-20T21:27:57.211789-05:00.jpg">
-  <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-20T21:27:57.211789-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-20 21:27:58-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-20T21:27:57.211789-05:00.jpg">July 20 at 9:27 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:39 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-26T21:39:27.037284-05:00.hyperlinks.json) |
 | [July 26 at 9:37 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-26T09:37:30.823615-05:00.hyperlinks.json) |
 | [July 25 at 9:45 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-25T21:45:00.441117-05:00.hyperlinks.json) |
 | [July 24 at 10:26 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-24T22:26:45.127761-05:00.hyperlinks.json) |
@@ -157,10 +158,32 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 9:31 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-22T21:31:42.175850-05:00.hyperlinks.json) |
 | [July 22 at 9:05 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-22T09:05:36.233446-05:00.hyperlinks.json) |
 | [July 21 at 9:25 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-21T21:25:04.491721-05:00.hyperlinks.json) |
-| [July 21 at 9:15 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-21T09:15:16.037799-05:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 20 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 9:39 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-26T21:39:27.037284-05:00.accessibility.json) |
+| [July 26 at 9:37 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-26T09:37:30.823615-05:00.accessibility.json) |
+| [July 25 at 9:45 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-25T21:45:00.441117-05:00.accessibility.json) |
+| [July 25 at 8:10 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-25T08:10:50.094769-05:00.accessibility.json) |
+| [July 24 at 10:26 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-24T22:26:45.127761-05:00.accessibility.json) |
+| [July 24 at 7:59 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-24T07:59:52.284289-05:00.accessibility.json) |
+| [July 23 at 11:15 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-23T23:15:01.534098-05:00.accessibility.json) |
+| [July 23 at 9:04 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-23T09:04:55.122262-05:00.accessibility.json) |
+| [July 22 at 9:31 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-22T21:31:42.175850-05:00.accessibility.json) |
+| [July 22 at 9:05 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-22T09:05:36.233446-05:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

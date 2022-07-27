@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/espn-2022/espn-2022-07-26T22:35:49.985651-04:00.jpg">
+  <img src="https://archive.org/download/espn-2022/espn-2022-07-26T22:35:49.985651-04:00.jpg"
+     alt="ESPN at 2022-07-26 22:35:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/espn-2022/espn-2022-07-26T22:35:49.985651-04:00.jpg">July 26 at 10:35 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/espn-2022/espn-2022-07-26T10:33:28.717156-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/espn-2022/espn-2022-07-21T10:04:03.549760-04:00.jpg">July 21 at 10:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/espn-2022/espn-2022-07-20T22:21:15.019511-04:00.jpg">
-  <img src="https://archive.org/download/espn-2022/espn-2022-07-20T22:21:15.019511-04:00.jpg"
-     alt="ESPN at 2022-07-20 22:21:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/espn-2022/espn-2022-07-20T22:21:15.019511-04:00.jpg">July 20 at 10:21 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:35 PM](https://archive.org/download/espn-2022/espn-2022-07-26T22:35:49.985651-04:00.hyperlinks.json) |
 | [July 26 at 10:33 AM](https://archive.org/download/espn-2022/espn-2022-07-26T10:33:28.717156-04:00.hyperlinks.json) |
 | [July 25 at 10:42 PM](https://archive.org/download/espn-2022/espn-2022-07-25T22:42:02.403560-04:00.hyperlinks.json) |
 | [July 25 at 8:01 AM](https://archive.org/download/espn-2022/espn-2022-07-25T08:01:25.959274-04:00.hyperlinks.json) |
@@ -323,10 +324,115 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:58 AM](https://archive.org/download/espn-2022/espn-2022-07-23T09:57:59.846677-04:00.hyperlinks.json) |
 | [July 22 at 10:24 PM](https://archive.org/download/espn-2022/espn-2022-07-22T22:24:36.127661-04:00.hyperlinks.json) |
 | [July 22 at 9:59 AM](https://archive.org/download/espn-2022/espn-2022-07-22T09:59:04.163048-04:00.hyperlinks.json) |
-| [July 21 at 10:18 PM](https://archive.org/download/espn-2022/espn-2022-07-21T22:18:16.302737-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/espn.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 10:35 PM](https://archive.org/download/espn-2022/espn-2022-07-26T22:35:49.985651-04:00.accessibility.json) |
+| [July 26 at 10:33 AM](https://archive.org/download/espn-2022/espn-2022-07-26T10:33:28.717156-04:00.accessibility.json) |
+| [July 25 at 10:42 PM](https://archive.org/download/espn-2022/espn-2022-07-25T22:42:02.403560-04:00.accessibility.json) |
+| [July 25 at 8:01 AM](https://archive.org/download/espn-2022/espn-2022-07-25T08:01:25.959274-04:00.accessibility.json) |
+| [July 24 at 9:03 PM](https://archive.org/download/espn-2022/espn-2022-07-24T21:03:22.490132-04:00.accessibility.json) |
+| [July 24 at 7:58 AM](https://archive.org/download/espn-2022/espn-2022-07-24T07:58:47.775663-04:00.accessibility.json) |
+| [July 24 at 2:28 AM](https://archive.org/download/espn-2022/espn-2022-07-24T02:28:23.300539-04:00.accessibility.json) |
+| [July 23 at 9:58 AM](https://archive.org/download/espn-2022/espn-2022-07-23T09:57:59.846677-04:00.accessibility.json) |
+| [July 22 at 10:24 PM](https://archive.org/download/espn-2022/espn-2022-07-22T22:24:36.127661-04:00.accessibility.json) |
+| [July 22 at 9:59 AM](https://archive.org/download/espn-2022/espn-2022-07-22T09:59:04.163048-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

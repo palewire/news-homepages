@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 102 screenshots with the Internet Archive.
+The archiving routine has saved 103 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 102 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-27T07:07:54.436400-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-27T07:07:54.436400-04:00.jpg"
+     alt="Foreign Policy at 2022-07-27 07:07:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-27T07:07:54.436400-04:00.jpg">July 27 at 7:07 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-26T19:09:54.334165-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-21T22:19:42.622792-04:00.jpg">July 21 at 10:19 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-21T10:07:18.015694-04:00.jpg">
-  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-21T10:07:18.015694-04:00.jpg"
-     alt="Foreign Policy at 2022-07-21 10:07:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-21T10:07:18.015694-04:00.jpg">July 21 at 10:07 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 100 hyperlink lists with the Internet Archive.
+The archiving routine has saved 101 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:07 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-27T07:07:54.436400-04:00.hyperlinks.json) |
 | [July 26 at 7:10 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-26T19:09:54.334165-04:00.hyperlinks.json) |
 | [July 26 at 7:18 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-26T07:18:09.349463-04:00.hyperlinks.json) |
 | [July 25 at 7:15 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-25T19:15:01.810734-04:00.hyperlinks.json) |
@@ -323,10 +324,115 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:59 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-23T09:59:20.963557-04:00.hyperlinks.json) |
 | [July 22 at 10:26 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-22T22:25:56.683002-04:00.hyperlinks.json) |
 | [July 22 at 10:01 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-22T10:00:57.066748-04:00.hyperlinks.json) |
-| [July 21 at 10:19 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-21T22:19:42.622792-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 101 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/foreignpolicy.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 7:07 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-27T07:07:54.436400-04:00.accessibility.json) |
+| [July 26 at 7:10 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-26T19:09:54.334165-04:00.accessibility.json) |
+| [July 26 at 7:18 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-26T07:18:09.349463-04:00.accessibility.json) |
+| [July 25 at 7:15 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-25T19:15:01.810734-04:00.accessibility.json) |
+| [July 25 at 8:03 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-25T08:03:30.696636-04:00.accessibility.json) |
+| [July 24 at 9:04 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-24T21:04:51.853146-04:00.accessibility.json) |
+| [July 24 at 7:59 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-24T07:59:31.482542-04:00.accessibility.json) |
+| [July 24 at 2:30 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-24T02:30:13.252330-04:00.accessibility.json) |
+| [July 23 at 9:59 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-23T09:59:20.963557-04:00.accessibility.json) |
+| [July 22 at 10:26 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-22T22:25:56.683002-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

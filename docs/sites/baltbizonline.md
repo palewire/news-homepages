@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-27T07:01:58.793490-04:00.jpg">
+  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-27T07:01:58.793490-04:00.jpg"
+     alt="Baltimore Business Journal at 2022-07-27 07:02:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-27T07:01:58.793490-04:00.jpg">July 27 at 7:02 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-26T19:03:29.965352-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-21T08:51:30.179190-04:00.jpg">July 21 at 8:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-20T21:04:07.450116-04:00.jpg">
-  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-20T21:04:07.450116-04:00.jpg"
-     alt="Baltimore Business Journal at 2022-07-20 21:04:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-20T21:04:07.450116-04:00.jpg">July 20 at 9:04 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:02 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-27T07:01:58.793490-04:00.hyperlinks.json) |
 | [July 26 at 7:03 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-26T19:03:29.965352-04:00.hyperlinks.json) |
 | [July 26 at 7:12 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-26T07:12:15.284771-04:00.hyperlinks.json) |
 | [July 25 at 7:08 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-25T19:08:27.028540-04:00.hyperlinks.json) |
@@ -157,10 +158,32 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 7:00 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-23T19:00:28.815961-04:00.hyperlinks.json) |
 | [July 23 at 8:56 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-23T08:56:26.706841-04:00.hyperlinks.json) |
 | [July 22 at 8:57 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-22T20:57:20.950398-04:00.hyperlinks.json) |
-| [July 22 at 8:57 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-22T08:57:12.076368-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 7:02 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-27T07:01:58.793490-04:00.accessibility.json) |
+| [July 26 at 7:03 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-26T19:03:29.965352-04:00.accessibility.json) |
+| [July 26 at 7:12 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-26T07:12:15.284771-04:00.accessibility.json) |
+| [July 25 at 7:08 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-25T19:08:27.028540-04:00.accessibility.json) |
+| [July 25 at 6:59 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-25T06:59:18.662199-04:00.accessibility.json) |
+| [July 24 at 8:49 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-24T20:49:03.773487-04:00.accessibility.json) |
+| [July 24 at 6:57 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-24T06:57:41.016868-04:00.accessibility.json) |
+| [July 23 at 7:00 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-23T19:00:28.815961-04:00.accessibility.json) |
+| [July 23 at 8:56 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-23T08:56:26.706841-04:00.accessibility.json) |
+| [July 22 at 8:57 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-07-22T20:57:20.950398-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

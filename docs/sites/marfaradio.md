@@ -160,7 +160,30 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 9:56 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-22T09:56:34.493066-05:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 7:14 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-26T19:14:21.924334-05:00.accessibility.json) |
+| [July 26 at 7:23 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-26T07:23:53.879328-05:00.accessibility.json) |
+| [July 25 at 7:19 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T19:19:47.464264-05:00.accessibility.json) |
+| [July 25 at 8:14 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T08:14:05.429898-05:00.accessibility.json) |
+| [July 24 at 10:30 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-24T22:30:14.630247-05:00.accessibility.json) |
+| [July 24 at 8:02 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-24T08:02:32.963582-05:00.accessibility.json) |
+| [July 23 at 11:17 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-23T23:17:48.235071-05:00.accessibility.json) |
+| [July 23 at 10:00 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-23T10:00:33.988110-05:00.accessibility.json) |
+| [July 22 at 10:30 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-22T22:30:36.035989-05:00.accessibility.json) |
+| [July 22 at 9:56 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-22T09:56:34.493066-05:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

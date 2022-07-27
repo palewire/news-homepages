@@ -102,7 +102,26 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 2:22 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-07-25T02:22:26.616585+05:45.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 6 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 5:59 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-07-27T05:59:29.202358+05:45.accessibility.json) |
+| [July 26 at 6:09 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-07-26T18:09:36.441671+05:45.accessibility.json) |
+| [July 26 at 6:04 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-07-26T06:04:41.405514+05:45.accessibility.json) |
+| [July 25 at 6:58 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-07-25T18:58:26.044900+05:45.accessibility.json) |
+| [July 25 at 9:15 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-07-25T09:15:42.689739+05:45.accessibility.json) |
+| [July 25 at 2:22 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-07-25T02:22:26.616585+05:45.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

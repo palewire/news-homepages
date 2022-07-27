@@ -102,7 +102,26 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 2:23 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T02:23:19.209992+05:45.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 6 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 6:00 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-27T06:00:50.519474+05:45.accessibility.json) |
+| [July 26 at 6:10 PM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-26T18:10:47.618119+05:45.accessibility.json) |
+| [July 26 at 6:05 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-26T06:05:07.620109+05:45.accessibility.json) |
+| [July 25 at 7:01 PM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T19:01:39.194304+05:45.accessibility.json) |
+| [July 25 at 9:20 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T09:20:06.467216+05:45.accessibility.json) |
+| [July 25 at 2:23 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T02:23:19.209992+05:45.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 7 screenshots with the Internet Archive.
+The archiving routine has saved 8 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/usnews-2022/usnews-2022-07-26T21:31:44.916980-04:00.jpg">
+  <img src="https://archive.org/download/usnews-2022/usnews-2022-07-26T21:31:44.916980-04:00.jpg"
+     alt="U.S. News & World Report at 2022-07-26 21:31:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-07-26T21:31:44.916980-04:00.jpg">July 26 at 9:31 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usnews-2022/usnews-2022-07-26T09:33:20.474118-04:00.jpg">
@@ -95,7 +104,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 6 hyperlink lists with the Internet Archive.
+The archiving routine has saved 7 hyperlink lists with the Internet Archive.
 
 
 
@@ -103,6 +112,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:31 PM](https://archive.org/download/usnews-2022/usnews-2022-07-26T21:31:44.916980-04:00.hyperlinks.json) |
 | [July 26 at 9:33 AM](https://archive.org/download/usnews-2022/usnews-2022-07-26T09:33:20.474118-04:00.hyperlinks.json) |
 | [July 25 at 10:54 PM](https://archive.org/download/usnews-2022/usnews-2022-07-25T22:54:13.818010-04:00.hyperlinks.json) |
 | [July 25 at 9:37 PM](https://archive.org/download/usnews-2022/usnews-2022-07-25T21:37:52.507806-04:00.hyperlinks.json) |
@@ -111,7 +121,28 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:44 PM](https://archive.org/download/usnews-2022/usnews-2022-07-23T23:44:18.958529-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 8 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 9:31 PM](https://archive.org/download/usnews-2022/usnews-2022-07-26T21:31:44.916980-04:00.accessibility.json) |
+| [July 26 at 9:33 AM](https://archive.org/download/usnews-2022/usnews-2022-07-26T09:33:20.474118-04:00.accessibility.json) |
+| [July 25 at 10:54 PM](https://archive.org/download/usnews-2022/usnews-2022-07-25T22:54:13.818010-04:00.accessibility.json) |
+| [July 25 at 9:37 PM](https://archive.org/download/usnews-2022/usnews-2022-07-25T21:37:52.507806-04:00.accessibility.json) |
+| [July 25 at 11:50 AM](https://archive.org/download/usnews-2022/usnews-2022-07-25T11:50:49.040245-04:00.accessibility.json) |
+| [July 25 at 12:39 AM](https://archive.org/download/usnews-2022/usnews-2022-07-25T00:39:45.548204-04:00.accessibility.json) |
+| [July 24 at 11:09 AM](https://archive.org/download/usnews-2022/usnews-2022-07-24T11:09:19.398410-04:00.accessibility.json) |
+| [July 23 at 11:44 PM](https://archive.org/download/usnews-2022/usnews-2022-07-23T23:44:18.958529-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

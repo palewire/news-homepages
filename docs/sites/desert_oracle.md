@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-27T04:06:35.896113-07:00.jpg">
+  <img src="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-27T04:06:35.896113-07:00.jpg"
+     alt="Desert Oracle at 2022-07-27 04:06:38-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-27T04:06:35.896113-07:00.jpg">July 27 at 4:06 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-26T16:07:54.295950-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-21T18:12:01.446354-07:00.jpg">July 21 at 6:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-21T05:57:50.574332-07:00.jpg">
-  <img src="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-21T05:57:50.574332-07:00.jpg"
-     alt="Desert Oracle at 2022-07-21 05:57:51-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-21T05:57:50.574332-07:00.jpg">July 21 at 5:57 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 4:06 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-27T04:06:35.896113-07:00.hyperlinks.json) |
 | [July 26 at 4:07 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-26T16:07:54.295950-07:00.hyperlinks.json) |
 | [July 26 at 4:16 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-26T04:16:29.761401-07:00.hyperlinks.json) |
 | [July 25 at 4:12 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-25T16:12:33.682583-07:00.hyperlinks.json) |
@@ -323,10 +324,115 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:27 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-23T23:27:35.903947-07:00.hyperlinks.json) |
 | [July 23 at 6:03 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-23T06:03:31.016114-07:00.hyperlinks.json) |
 | [July 22 at 6:04 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-22T18:04:13.982096-07:00.hyperlinks.json) |
-| [July 22 at 6:04 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-22T06:04:37.010208-07:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 46 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/desert_oracle.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 4:06 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-27T04:06:35.896113-07:00.accessibility.json) |
+| [July 26 at 4:07 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-26T16:07:54.295950-07:00.accessibility.json) |
+| [July 26 at 4:16 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-26T04:16:29.761401-07:00.accessibility.json) |
+| [July 25 at 4:12 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-25T16:12:33.682583-07:00.accessibility.json) |
+| [July 25 at 4:59 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-25T04:59:53.078694-07:00.accessibility.json) |
+| [July 24 at 6:00 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-24T18:00:23.209837-07:00.accessibility.json) |
+| [July 24 at 4:57 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-24T04:57:54.476750-07:00.accessibility.json) |
+| [July 23 at 11:27 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-23T23:27:35.903947-07:00.accessibility.json) |
+| [July 23 at 6:03 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-23T06:03:31.016114-07:00.accessibility.json) |
+| [July 22 at 6:04 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-07-22T18:04:13.982096-07:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

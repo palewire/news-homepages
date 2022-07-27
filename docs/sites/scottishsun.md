@@ -326,7 +326,113 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 5:14 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-07-22T17:14:33.031896+01:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 38 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/scottishsun.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 1:20 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-07-27T01:20:23.461901+01:00.accessibility.json) |
+| [July 26 at 2:28 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-07-26T14:28:26.580825+01:00.accessibility.json) |
+| [July 26 at 3:50 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-07-26T03:50:05.514001+01:00.accessibility.json) |
+| [July 26 at 2:32 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-07-26T02:32:53.806251+01:00.accessibility.json) |
+| [July 25 at 4:41 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-07-25T16:41:28.897078+01:00.accessibility.json) |
+| [July 25 at 4:42 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-07-25T04:42:46.063093+01:00.accessibility.json) |
+| [July 24 at 3:03 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-07-24T15:03:01.541986+01:00.accessibility.json) |
+| [July 24 at 7:23 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-07-24T07:23:17.696301+01:00.accessibility.json) |
+| [July 23 at 4:09 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-07-23T16:09:39.812540+01:00.accessibility.json) |
+| [July 23 at 4:39 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-07-23T04:39:05.189595+01:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

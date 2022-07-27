@@ -72,7 +72,23 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 5:46 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T05:46:22.506962+05:30.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 3 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 5:41 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-07-27T05:41:40.999316+05:30.accessibility.json) |
+| [July 26 at 5:50 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T17:49:59.888185+05:30.accessibility.json) |
+| [July 26 at 5:46 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-07-26T05:46:22.506962+05:30.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

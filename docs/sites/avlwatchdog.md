@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-27T07:01:52.559360-04:00.jpg">
   <img src="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-27T07:01:52.559360-04:00.jpg"
-     alt="Asheville Watchdog at 2022-07-27 14:01:55-04:00 local time"
+     alt="Asheville Watchdog at 2022-07-27 07:01:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-27T07:01:52.559360-04:00.jpg">July 27 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-27T07:01:52.559360-04:00.jpg">July 27 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-26T19:03:26.171784-04:00.jpg">
   <img src="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-26T19:03:26.171784-04:00.jpg"
-     alt="Asheville Watchdog at 2022-07-27 02:03:28-04:00 local time"
+     alt="Asheville Watchdog at 2022-07-26 19:03:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-26T19:03:26.171784-04:00.jpg">July 27 at 2:03 AM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-26T19:03:26.171784-04:00.jpg">July 26 at 7:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-25T19:07:38.121672-04:00.jpg">
   <img src="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-25T19:07:38.121672-04:00.jpg"
-     alt="Asheville Watchdog at 2022-07-26 02:07:40-04:00 local time"
+     alt="Asheville Watchdog at 2022-07-25 19:07:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-25T19:07:38.121672-04:00.jpg">July 26 at 2:07 AM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-25T19:07:38.121672-04:00.jpg">July 25 at 7:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-25T06:58:14.328526-04:00.jpg">
   <img src="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-25T06:58:14.328526-04:00.jpg"
-     alt="Asheville Watchdog at 2022-07-25 13:58:16-04:00 local time"
+     alt="Asheville Watchdog at 2022-07-25 06:58:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-25T06:58:14.328526-04:00.jpg">July 25 at 1:58 PM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-25T06:58:14.328526-04:00.jpg">July 25 at 6:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-24T20:47:59.435206-04:00.jpg">
   <img src="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-24T20:47:59.435206-04:00.jpg"
-     alt="Asheville Watchdog at 2022-07-25 03:48:01-04:00 local time"
+     alt="Asheville Watchdog at 2022-07-24 20:48:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-24T20:47:59.435206-04:00.jpg">July 25 at 3:48 AM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-24T20:47:59.435206-04:00.jpg">July 24 at 8:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-24T06:57:10.543251-04:00.jpg">
   <img src="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-24T06:57:10.543251-04:00.jpg"
-     alt="Asheville Watchdog at 2022-07-24 13:57:15-04:00 local time"
+     alt="Asheville Watchdog at 2022-07-24 06:57:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-24T06:57:10.543251-04:00.jpg">July 24 at 1:57 PM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-24T06:57:10.543251-04:00.jpg">July 24 at 6:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-23T18:59:04.601804-04:00.jpg">
   <img src="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-23T18:59:04.601804-04:00.jpg"
-     alt="Asheville Watchdog at 2022-07-24 01:59:06-04:00 local time"
+     alt="Asheville Watchdog at 2022-07-23 18:59:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-23T18:59:04.601804-04:00.jpg">July 24 at 1:59 AM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-23T18:59:04.601804-04:00.jpg">July 23 at 6:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-23T08:55:54.923747-04:00.jpg">
   <img src="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-23T08:55:54.923747-04:00.jpg"
-     alt="Asheville Watchdog at 2022-07-23 15:55:57-04:00 local time"
+     alt="Asheville Watchdog at 2022-07-23 08:55:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-23T08:55:54.923747-04:00.jpg">July 23 at 3:55 PM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-23T08:55:54.923747-04:00.jpg">July 23 at 8:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-22T20:57:04.723719-04:00.jpg">
   <img src="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-22T20:57:04.723719-04:00.jpg"
-     alt="Asheville Watchdog at 2022-07-23 03:57:06-04:00 local time"
+     alt="Asheville Watchdog at 2022-07-22 20:57:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-22T20:57:04.723719-04:00.jpg">July 23 at 3:57 AM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-22T20:57:04.723719-04:00.jpg">July 22 at 8:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-22T08:56:01.295859-04:00.jpg">
   <img src="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-22T08:56:01.295859-04:00.jpg"
-     alt="Asheville Watchdog at 2022-07-22 15:56:03-04:00 local time"
+     alt="Asheville Watchdog at 2022-07-22 08:56:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-22T08:56:01.295859-04:00.jpg">July 22 at 3:56 PM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-22T08:56:01.295859-04:00.jpg">July 22 at 8:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-21T21:04:14.091409-04:00.jpg">
   <img src="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-21T21:04:14.091409-04:00.jpg"
-     alt="Asheville Watchdog at 2022-07-22 04:04:16-04:00 local time"
+     alt="Asheville Watchdog at 2022-07-21 21:04:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-21T21:04:14.091409-04:00.jpg">July 22 at 4:04 AM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-21T21:04:14.091409-04:00.jpg">July 21 at 9:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-21T08:50:56.814459-04:00.jpg">
   <img src="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-21T08:50:56.814459-04:00.jpg"
-     alt="Asheville Watchdog at 2022-07-21 15:50:58-04:00 local time"
+     alt="Asheville Watchdog at 2022-07-21 08:50:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-21T08:50:56.814459-04:00.jpg">July 21 at 3:50 PM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-21T08:50:56.814459-04:00.jpg">July 21 at 8:50 AM</a></p>
 </div>
 
 </div>
@@ -314,19 +314,125 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 2:01 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-27T07:01:52.559360-04:00.hyperlinks.json) |
-| [July 27 at 2:03 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-26T19:03:26.171784-04:00.hyperlinks.json) |
-| [July 26 at 2:12 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-26T07:12:20.153043-04:00.hyperlinks.json) |
-| [July 26 at 2:07 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-25T19:07:38.121672-04:00.hyperlinks.json) |
-| [July 25 at 1:58 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-25T06:58:14.328526-04:00.hyperlinks.json) |
-| [July 25 at 3:48 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-24T20:47:59.435206-04:00.hyperlinks.json) |
-| [July 24 at 1:57 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-24T06:57:10.543251-04:00.hyperlinks.json) |
-| [July 24 at 1:59 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-23T18:59:04.601804-04:00.hyperlinks.json) |
-| [July 23 at 3:56 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-23T08:55:54.923747-04:00.hyperlinks.json) |
-| [July 23 at 3:57 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-22T20:57:04.723719-04:00.hyperlinks.json) |
+| [July 27 at 7:01 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-27T07:01:52.559360-04:00.hyperlinks.json) |
+| [July 26 at 7:03 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-26T19:03:26.171784-04:00.hyperlinks.json) |
+| [July 26 at 7:12 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-26T07:12:20.153043-04:00.hyperlinks.json) |
+| [July 25 at 7:07 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-25T19:07:38.121672-04:00.hyperlinks.json) |
+| [July 25 at 6:58 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-25T06:58:14.328526-04:00.hyperlinks.json) |
+| [July 24 at 8:48 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-24T20:47:59.435206-04:00.hyperlinks.json) |
+| [July 24 at 6:57 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-24T06:57:10.543251-04:00.hyperlinks.json) |
+| [July 23 at 6:59 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-23T18:59:04.601804-04:00.hyperlinks.json) |
+| [July 23 at 8:56 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-23T08:55:54.923747-04:00.hyperlinks.json) |
+| [July 22 at 8:57 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-22T20:57:04.723719-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 41 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/avlwatchdog.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 7:01 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-27T07:01:52.559360-04:00.accessibility.json) |
+| [July 26 at 7:03 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-26T19:03:26.171784-04:00.accessibility.json) |
+| [July 26 at 7:12 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-26T07:12:20.153043-04:00.accessibility.json) |
+| [July 25 at 7:07 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-25T19:07:38.121672-04:00.accessibility.json) |
+| [July 25 at 6:58 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-25T06:58:14.328526-04:00.accessibility.json) |
+| [July 24 at 8:48 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-24T20:47:59.435206-04:00.accessibility.json) |
+| [July 24 at 6:57 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-24T06:57:10.543251-04:00.accessibility.json) |
+| [July 23 at 6:59 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-23T18:59:04.601804-04:00.accessibility.json) |
+| [July 23 at 8:55 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-23T08:55:54.923747-04:00.accessibility.json) |
+| [July 22 at 8:57 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-22T20:57:04.723719-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

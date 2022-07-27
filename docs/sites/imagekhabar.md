@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-27T08:23:16.800342+05:45.jpg">
+  <img src="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-27T08:23:16.800342+05:45.jpg"
+     alt="Imagekhabar at 2022-07-27 08:23:19+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-27T08:23:16.800342+05:45.jpg">July 27 at 8:23 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-26T20:23:14.857716+05:45.jpg">
@@ -77,7 +86,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
 
 
@@ -85,6 +94,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 8:23 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-27T08:23:16.800342+05:45.hyperlinks.json) |
 | [July 26 at 8:23 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-26T20:23:14.857716+05:45.hyperlinks.json) |
 | [July 26 at 8:29 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-26T08:29:48.521616+05:45.hyperlinks.json) |
 | [July 25 at 5:51 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-25T17:51:11.090896+05:45.hyperlinks.json) |
@@ -92,7 +102,26 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 2:22 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-25T02:22:27.105698+05:45.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 6 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 8:23 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-27T08:23:16.800342+05:45.accessibility.json) |
+| [July 26 at 8:23 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-26T20:23:14.857716+05:45.accessibility.json) |
+| [July 26 at 8:29 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-26T08:29:48.521616+05:45.accessibility.json) |
+| [July 25 at 5:51 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-25T17:51:11.090896+05:45.accessibility.json) |
+| [July 25 at 6:56 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-25T06:56:24.063585+05:45.accessibility.json) |
+| [July 25 at 2:22 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-07-25T02:22:27.105698+05:45.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

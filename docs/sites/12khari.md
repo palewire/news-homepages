@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 6 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/12khari-2022/12khari-2022-07-27T16:45:16.405747+05:45.jpg">
+  <img src="https://archive.org/download/12khari-2022/12khari-2022-07-27T16:45:16.405747+05:45.jpg"
+     alt="Baahrakhari at 2022-07-27 16:45:18+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/12khari-2022/12khari-2022-07-27T16:45:16.405747+05:45.jpg">July 27 at 4:45 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/12khari-2022/12khari-2022-07-27T04:48:05.679531+05:45.jpg">
@@ -86,7 +95,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 6 hyperlink lists with the Internet Archive.
+The archiving routine has saved 7 hyperlink lists with the Internet Archive.
 
 
 
@@ -94,6 +103,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 4:45 PM](https://archive.org/download/12khari-2022/12khari-2022-07-27T16:45:16.405747+05:45.hyperlinks.json) |
 | [July 27 at 4:48 AM](https://archive.org/download/12khari-2022/12khari-2022-07-27T04:48:05.679531+05:45.hyperlinks.json) |
 | [July 26 at 4:54 PM](https://archive.org/download/12khari-2022/12khari-2022-07-26T16:54:23.338293+05:45.hyperlinks.json) |
 | [July 26 at 4:49 AM](https://archive.org/download/12khari-2022/12khari-2022-07-26T04:49:54.292554+05:45.hyperlinks.json) |
@@ -102,7 +112,27 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 2:21 AM](https://archive.org/download/12khari-2022/12khari-2022-07-25T02:21:29.950748+05:45.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 7 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 4:45 PM](https://archive.org/download/12khari-2022/12khari-2022-07-27T16:45:16.405747+05:45.accessibility.json) |
+| [July 27 at 4:48 AM](https://archive.org/download/12khari-2022/12khari-2022-07-27T04:48:05.679531+05:45.accessibility.json) |
+| [July 26 at 4:54 PM](https://archive.org/download/12khari-2022/12khari-2022-07-26T16:54:23.338293+05:45.accessibility.json) |
+| [July 26 at 4:49 AM](https://archive.org/download/12khari-2022/12khari-2022-07-26T04:49:54.292554+05:45.accessibility.json) |
+| [July 25 at 4:40 PM](https://archive.org/download/12khari-2022/12khari-2022-07-25T16:40:23.482123+05:45.accessibility.json) |
+| [July 25 at 6:29 AM](https://archive.org/download/12khari-2022/12khari-2022-07-25T06:29:35.543357+05:45.accessibility.json) |
+| [July 25 at 2:21 AM](https://archive.org/download/12khari-2022/12khari-2022-07-25T02:21:29.950748+05:45.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

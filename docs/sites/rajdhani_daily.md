@@ -102,7 +102,26 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 2:24 AM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-25T02:23:41.119849+05:45.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 6 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 6:04 AM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-27T06:04:14.433463+05:45.accessibility.json) |
+| [July 26 at 6:13 PM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-26T18:13:18.935636+05:45.accessibility.json) |
+| [July 26 at 6:08 AM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-26T06:08:25.831521+05:45.accessibility.json) |
+| [July 25 at 9:23 PM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-25T21:23:42.660417+05:45.accessibility.json) |
+| [July 25 at 9:25 AM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-25T09:25:52.425303+05:45.accessibility.json) |
+| [July 25 at 2:23 AM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-07-25T02:23:41.119849+05:45.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

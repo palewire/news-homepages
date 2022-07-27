@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-26T21:41:38.140995-05:00.jpg">
+  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-26T21:41:38.140995-05:00.jpg"
+     alt="mi wisconsin at 2022-07-26 21:41:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-26T21:41:38.140995-05:00.jpg">July 26 at 9:41 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-26T09:40:29.524744-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-21T10:30:11.425677-05:00.jpg">July 21 at 10:30 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-20T22:34:29.478460-05:00.jpg">
-  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-20T22:34:29.478460-05:00.jpg"
-     alt="mi wisconsin at 2022-07-20 22:34:31-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-20T22:34:29.478460-05:00.jpg">July 20 at 10:34 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 37 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:41 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-26T21:41:38.140995-05:00.hyperlinks.json) |
 | [July 26 at 9:40 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-26T09:40:29.524744-05:00.hyperlinks.json) |
 | [July 25 at 9:48 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-25T21:47:56.202493-05:00.hyperlinks.json) |
 | [July 25 at 8:15 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-25T08:15:03.943587-05:00.hyperlinks.json) |
@@ -323,10 +324,115 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 10:01 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-23T10:01:33.307402-05:00.hyperlinks.json) |
 | [July 22 at 10:31 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-22T22:31:30.479655-05:00.hyperlinks.json) |
 | [July 22 at 9:57 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-22T09:57:26.149372-05:00.hyperlinks.json) |
-| [July 21 at 10:36 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-21T22:36:11.183408-05:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 37 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/miwisconsin.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 9:41 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-26T21:41:38.140995-05:00.accessibility.json) |
+| [July 26 at 9:40 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-26T09:40:29.524744-05:00.accessibility.json) |
+| [July 25 at 9:47 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-25T21:47:56.202493-05:00.accessibility.json) |
+| [July 25 at 8:15 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-25T08:15:03.943587-05:00.accessibility.json) |
+| [July 24 at 10:32 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-24T22:32:27.688269-05:00.accessibility.json) |
+| [July 24 at 8:03 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-24T08:03:01.328531-05:00.accessibility.json) |
+| [July 23 at 11:19 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-23T23:19:24.662515-05:00.accessibility.json) |
+| [July 23 at 10:01 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-23T10:01:33.307402-05:00.accessibility.json) |
+| [July 22 at 10:31 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-22T22:31:30.479655-05:00.accessibility.json) |
+| [July 22 at 9:57 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-07-22T09:57:26.149372-05:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

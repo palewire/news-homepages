@@ -160,7 +160,30 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 10:57 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-22T10:57:37.659012-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 8:15 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-26T20:15:33.591940-04:00.accessibility.json) |
+| [July 26 at 8:25 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-26T08:24:59.242137-04:00.accessibility.json) |
+| [July 25 at 8:19 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-25T20:19:52.010346-04:00.accessibility.json) |
+| [July 25 at 9:15 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-25T09:15:11.489753-04:00.accessibility.json) |
+| [July 24 at 11:33 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-24T23:33:33.061500-04:00.accessibility.json) |
+| [July 24 at 9:03 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-24T09:03:47.393746-04:00.accessibility.json) |
+| [July 24 at 12:19 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-24T00:19:20.566591-04:00.accessibility.json) |
+| [July 23 at 11:01 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-23T11:01:48.467632-04:00.accessibility.json) |
+| [July 22 at 11:32 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-22T23:32:33.219174-04:00.accessibility.json) |
+| [July 22 at 10:57 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-22T10:57:37.659012-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

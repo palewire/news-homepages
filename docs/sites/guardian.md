@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 316 screenshots with the Internet Archive.
+The archiving routine has saved 318 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-07-27T10:09:46.935963+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-07-27T10:09:46.935963+01:00.jpg"
+     alt="The Guardian at 2022-07-27 10:09:52+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-27T10:09:46.935963+01:00.jpg">July 27 at 10:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-07-27T03:37:48.192448+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-07-27T03:37:48.192448+01:00.jpg"
+     alt="The Guardian at 2022-07-27 03:37:49+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-27T03:37:48.192448+01:00.jpg">July 27 at 3:37 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/guardian-2022/guardian-2022-07-26T15:35:54.968115+01:00.jpg">
   <img src="https://archive.org/download/guardian-2022/guardian-2022-07-26T15:35:54.968115+01:00.jpg"
      alt="The Guardian at 2022-07-26 15:35:56+01:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T15:02:25.261493+01:00.jpg">July 23 at 3:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T10:06:19.000831+01:00.jpg">
-  <img src="https://archive.org/download/guardian-2022/guardian-2022-07-23T10:06:19.000831+01:00.jpg"
-     alt="The Guardian at 2022-07-23 10:06:21+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T10:06:19.000831+01:00.jpg">July 23 at 10:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T03:27:31.879374+01:00.jpg">
-  <img src="https://archive.org/download/guardian-2022/guardian-2022-07-23T03:27:31.879374+01:00.jpg"
-     alt="The Guardian at 2022-07-23 03:27:33+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-07-23T03:27:31.879374+01:00.jpg">July 23 at 3:27 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 302 hyperlink lists with the Internet Archive.
+The archiving routine has saved 304 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 10:09 AM](https://archive.org/download/guardian-2022/guardian-2022-07-27T10:09:46.935963+01:00.hyperlinks.json) |
+| [July 27 at 3:37 AM](https://archive.org/download/guardian-2022/guardian-2022-07-27T03:37:48.192448+01:00.hyperlinks.json) |
 | [July 26 at 3:36 PM](https://archive.org/download/guardian-2022/guardian-2022-07-26T15:35:54.968115+01:00.hyperlinks.json) |
 | [July 26 at 10:09 AM](https://archive.org/download/guardian-2022/guardian-2022-07-26T10:09:40.841731+01:00.hyperlinks.json) |
 | [July 26 at 3:43 AM](https://archive.org/download/guardian-2022/guardian-2022-07-26T03:43:42.810269+01:00.hyperlinks.json) |
@@ -322,11 +324,115 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 2:09 AM](https://archive.org/download/guardian-2022/guardian-2022-07-25T02:09:19.911990+01:00.hyperlinks.json) |
 | [July 24 at 1:01 PM](https://archive.org/download/guardian-2022/guardian-2022-07-24T13:01:20.232700+01:00.hyperlinks.json) |
 | [July 24 at 10:10 AM](https://archive.org/download/guardian-2022/guardian-2022-07-24T10:09:59.059277+01:00.hyperlinks.json) |
-| [July 24 at 7:32 AM](https://archive.org/download/guardian-2022/guardian-2022-07-24T07:32:11.418027+01:00.hyperlinks.json) |
-| [July 23 at 3:02 PM](https://archive.org/download/guardian-2022/guardian-2022-07-23T15:02:25.261493+01:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 306 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/guardian.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 10:09 AM](https://archive.org/download/guardian-2022/guardian-2022-07-27T10:09:46.935963+01:00.accessibility.json) |
+| [July 27 at 3:37 AM](https://archive.org/download/guardian-2022/guardian-2022-07-27T03:37:48.192448+01:00.accessibility.json) |
+| [July 26 at 3:35 PM](https://archive.org/download/guardian-2022/guardian-2022-07-26T15:35:54.968115+01:00.accessibility.json) |
+| [July 26 at 10:09 AM](https://archive.org/download/guardian-2022/guardian-2022-07-26T10:09:40.841731+01:00.accessibility.json) |
+| [July 26 at 3:43 AM](https://archive.org/download/guardian-2022/guardian-2022-07-26T03:43:42.810269+01:00.accessibility.json) |
+| [July 25 at 1:05 PM](https://archive.org/download/guardian-2022/guardian-2022-07-25T13:05:16.924997+01:00.accessibility.json) |
+| [July 25 at 10:09 AM](https://archive.org/download/guardian-2022/guardian-2022-07-25T10:09:30.275525+01:00.accessibility.json) |
+| [July 25 at 2:09 AM](https://archive.org/download/guardian-2022/guardian-2022-07-25T02:09:19.911990+01:00.accessibility.json) |
+| [July 24 at 1:01 PM](https://archive.org/download/guardian-2022/guardian-2022-07-24T13:01:20.232700+01:00.accessibility.json) |
+| [July 24 at 10:10 AM](https://archive.org/download/guardian-2022/guardian-2022-07-24T10:09:59.059277+01:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

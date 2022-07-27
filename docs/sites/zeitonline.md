@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-07-27T05:59:44.441787+02:00.jpg">
+  <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-07-27T05:59:44.441787+02:00.jpg"
+     alt="Zeit at 2022-07-27 05:59:45+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-07-27T05:59:44.441787+02:00.jpg">July 27 at 5:59 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-07-26T17:50:50.826430+02:00.jpg">
@@ -50,7 +59,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 2 hyperlink lists with the Internet Archive.
+The archiving routine has saved 3 hyperlink lists with the Internet Archive.
 
 
 
@@ -58,11 +67,28 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 5:59 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-27T05:59:44.441787+02:00.hyperlinks.json) |
 | [July 26 at 5:50 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-26T17:50:50.826430+02:00.hyperlinks.json) |
 | [July 26 at 6:02 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-26T06:02:34.355483+02:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 3 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 5:59 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-27T05:59:44.441787+02:00.accessibility.json) |
+| [July 26 at 5:50 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-26T17:50:50.826430+02:00.accessibility.json) |
+| [July 26 at 6:02 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-26T06:02:34.355483+02:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

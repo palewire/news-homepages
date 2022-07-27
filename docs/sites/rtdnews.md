@@ -72,7 +72,23 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 8:24 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-07-25T20:24:37.587483-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 3 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 8:19 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-07-26T20:19:21.330709-04:00.accessibility.json) |
+| [July 26 at 8:29 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-07-26T08:29:16.162499-04:00.accessibility.json) |
+| [July 25 at 8:24 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-07-25T20:24:37.587483-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

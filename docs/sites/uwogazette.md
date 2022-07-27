@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 6 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-26T23:57:20.962936-04:00.jpg">
+  <img src="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-26T23:57:20.962936-04:00.jpg"
+     alt="Western Gazette at 2022-07-26 23:57:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-26T23:57:20.962936-04:00.jpg">July 26 at 11:57 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-26T11:48:29.353974-04:00.jpg">
@@ -101,7 +110,27 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:45 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-23T23:45:19.538388-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 7 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 11:57 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-26T23:57:20.962936-04:00.accessibility.json) |
+| [July 26 at 11:48 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-26T11:48:29.353974-04:00.accessibility.json) |
+| [July 26 at 12:00 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-26T00:00:03.240275-04:00.accessibility.json) |
+| [July 25 at 11:51 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T11:51:51.531982-04:00.accessibility.json) |
+| [July 25 at 12:40 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T00:40:01.428009-04:00.accessibility.json) |
+| [July 24 at 11:09 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-24T11:09:18.462751-04:00.accessibility.json) |
+| [July 23 at 11:45 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-23T23:45:19.538388-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

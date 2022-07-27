@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-27T09:35:45.431064+05:45.jpg">
+  <img src="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-27T09:35:45.431064+05:45.jpg"
+     alt="OSNepal at 2022-07-27 09:35:47+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-27T09:35:45.431064+05:45.jpg">July 27 at 9:35 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-26T21:27:39.092651+05:45.jpg">
@@ -77,7 +86,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
 
 
@@ -85,6 +94,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:35 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-27T09:35:45.431064+05:45.hyperlinks.json) |
 | [July 26 at 9:27 PM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-26T21:27:39.092651+05:45.hyperlinks.json) |
 | [July 26 at 9:39 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-26T09:39:04.508893+05:45.hyperlinks.json) |
 | [July 25 at 9:21 PM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T21:21:07.457877+05:45.hyperlinks.json) |
@@ -92,7 +102,26 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 2:23 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T02:23:40.333371+05:45.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 6 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 9:35 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-27T09:35:45.431064+05:45.accessibility.json) |
+| [July 26 at 9:27 PM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-26T21:27:39.092651+05:45.accessibility.json) |
+| [July 26 at 9:39 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-26T09:39:04.508893+05:45.accessibility.json) |
+| [July 25 at 9:21 PM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T21:21:07.457877+05:45.accessibility.json) |
+| [July 25 at 9:23 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T09:23:33.488950+05:45.accessibility.json) |
+| [July 25 at 2:23 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T02:23:40.333371+05:45.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

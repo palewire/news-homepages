@@ -160,7 +160,30 @@ Here are the 10 most recent hyperlink lists.
 | [July 21 at 11:40 AM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-21T11:40:25.365765-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 14 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 8:20 PM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-26T20:20:01.467240-04:00.accessibility.json) |
+| [July 26 at 8:29 AM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-26T08:29:21.273724-04:00.accessibility.json) |
+| [July 25 at 8:24 PM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-25T20:24:33.123786-04:00.accessibility.json) |
+| [July 25 at 11:41 AM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-25T11:41:01.943986-04:00.accessibility.json) |
+| [July 24 at 11:43 PM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T23:42:59.524638-04:00.accessibility.json) |
+| [July 24 at 10:02 AM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T10:02:52.375611-04:00.accessibility.json) |
+| [July 24 at 2:21 AM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T02:21:51.055716-04:00.accessibility.json) |
+| [July 23 at 11:09 AM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-23T11:09:21.376512-04:00.accessibility.json) |
+| [July 22 at 11:39 PM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-22T23:39:12.608943-04:00.accessibility.json) |
+| [July 22 at 11:05 AM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-22T11:05:04.106819-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

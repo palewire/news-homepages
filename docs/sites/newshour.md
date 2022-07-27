@@ -326,7 +326,113 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 5:21 PM](https://archive.org/download/newshour-2022/newshour-2022-07-24T17:20:59.628204-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 141 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/newshour.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 8:17 PM](https://archive.org/download/newshour-2022/newshour-2022-07-26T20:17:10.507180-04:00.accessibility.json) |
+| [July 26 at 5:12 PM](https://archive.org/download/newshour-2022/newshour-2022-07-26T17:11:57.878192-04:00.accessibility.json) |
+| [July 26 at 11:58 AM](https://archive.org/download/newshour-2022/newshour-2022-07-26T11:58:36.186122-04:00.accessibility.json) |
+| [July 26 at 8:26 AM](https://archive.org/download/newshour-2022/newshour-2022-07-26T08:26:43.798956-04:00.accessibility.json) |
+| [July 25 at 8:21 PM](https://archive.org/download/newshour-2022/newshour-2022-07-25T20:21:02.092056-04:00.accessibility.json) |
+| [July 25 at 5:14 PM](https://archive.org/download/newshour-2022/newshour-2022-07-25T17:14:12.254297-04:00.accessibility.json) |
+| [July 25 at 11:55 AM](https://archive.org/download/newshour-2022/newshour-2022-07-25T11:55:29.817972-04:00.accessibility.json) |
+| [July 25 at 9:16 AM](https://archive.org/download/newshour-2022/newshour-2022-07-25T09:16:25.526397-04:00.accessibility.json) |
+| [July 24 at 11:36 PM](https://archive.org/download/newshour-2022/newshour-2022-07-24T23:36:27.744427-04:00.accessibility.json) |
+| [July 24 at 5:21 PM](https://archive.org/download/newshour-2022/newshour-2022-07-24T17:20:59.628204-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

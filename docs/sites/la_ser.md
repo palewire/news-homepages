@@ -72,7 +72,23 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 2:17 AM](https://archive.org/download/la_ser-2022/la_ser-2022-07-26T02:17:14.045077+02:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 3 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 2:13 AM](https://archive.org/download/la_ser-2022/la_ser-2022-07-27T02:13:31.046149+02:00.accessibility.json) |
+| [July 26 at 2:22 PM](https://archive.org/download/la_ser-2022/la_ser-2022-07-26T14:22:38.228107+02:00.accessibility.json) |
+| [July 26 at 2:17 AM](https://archive.org/download/la_ser-2022/la_ser-2022-07-26T02:17:14.045077+02:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

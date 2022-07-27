@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/btno-2022/btno-2022-07-27T03:24:46.374072+02:00.jpg">
+  <img src="https://archive.org/download/btno-2022/btno-2022-07-27T03:24:46.374072+02:00.jpg"
+     alt="Bergens Tidende at 2022-07-27 03:24:48+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/btno-2022/btno-2022-07-27T03:24:46.374072+02:00.jpg">July 27 at 3:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/btno-2022/btno-2022-07-26T15:26:37.918926+02:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/btno-2022/btno-2022-07-22T03:07:56.527727+02:00.jpg">July 22 at 3:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/btno-2022/btno-2022-07-21T14:53:16.732842+02:00.jpg">
-  <img src="https://archive.org/download/btno-2022/btno-2022-07-21T14:53:16.732842+02:00.jpg"
-     alt="Bergens Tidende at 2022-07-21 14:53:18+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/btno-2022/btno-2022-07-21T14:53:16.732842+02:00.jpg">July 21 at 2:53 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 15 hyperlink lists with the Internet Archive.
+The archiving routine has saved 16 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 3:24 AM](https://archive.org/download/btno-2022/btno-2022-07-27T03:24:46.374072+02:00.hyperlinks.json) |
 | [July 26 at 3:26 PM](https://archive.org/download/btno-2022/btno-2022-07-26T15:26:37.918926+02:00.hyperlinks.json) |
 | [July 26 at 4:58 AM](https://archive.org/download/btno-2022/btno-2022-07-26T04:58:08.015787+02:00.hyperlinks.json) |
 | [July 26 at 3:31 AM](https://archive.org/download/btno-2022/btno-2022-07-26T03:31:22.286921+02:00.hyperlinks.json) |
@@ -157,10 +158,32 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 1:01 AM](https://archive.org/download/btno-2022/btno-2022-07-24T01:01:53.425843+02:00.hyperlinks.json) |
 | [July 23 at 2:58 PM](https://archive.org/download/btno-2022/btno-2022-07-23T14:58:16.466101+02:00.hyperlinks.json) |
 | [July 23 at 2:59 AM](https://archive.org/download/btno-2022/btno-2022-07-23T02:59:37.695246+02:00.hyperlinks.json) |
-| [July 22 at 2:59 PM](https://archive.org/download/btno-2022/btno-2022-07-22T14:59:21.013840+02:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 16 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 3:24 AM](https://archive.org/download/btno-2022/btno-2022-07-27T03:24:46.374072+02:00.accessibility.json) |
+| [July 26 at 3:26 PM](https://archive.org/download/btno-2022/btno-2022-07-26T15:26:37.918926+02:00.accessibility.json) |
+| [July 26 at 4:58 AM](https://archive.org/download/btno-2022/btno-2022-07-26T04:58:08.015787+02:00.accessibility.json) |
+| [July 26 at 3:31 AM](https://archive.org/download/btno-2022/btno-2022-07-26T03:31:22.286921+02:00.accessibility.json) |
+| [July 25 at 1:00 PM](https://archive.org/download/btno-2022/btno-2022-07-25T13:00:54.051142+02:00.accessibility.json) |
+| [July 25 at 2:51 AM](https://archive.org/download/btno-2022/btno-2022-07-25T02:51:30.322131+02:00.accessibility.json) |
+| [July 24 at 12:59 PM](https://archive.org/download/btno-2022/btno-2022-07-24T12:59:18.934350+02:00.accessibility.json) |
+| [July 24 at 1:01 AM](https://archive.org/download/btno-2022/btno-2022-07-24T01:01:53.425843+02:00.accessibility.json) |
+| [July 23 at 2:58 PM](https://archive.org/download/btno-2022/btno-2022-07-23T14:58:16.466101+02:00.accessibility.json) |
+| [July 23 at 2:59 AM](https://archive.org/download/btno-2022/btno-2022-07-23T02:59:37.695246+02:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

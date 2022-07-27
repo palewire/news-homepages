@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 181 screenshots with the Internet Archive.
+The archiving routine has saved 182 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 181 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-26T20:31:00.746220-05:00.jpg">
+  <img src="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-26T20:31:00.746220-05:00.jpg"
+     alt="Wisconsin State Journal at 2022-07-26 20:31:02-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-26T20:31:00.746220-05:00.jpg">July 26 at 8:31 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-26T08:34:01.424798-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-21T23:35:40.227832-05:00.jpg">July 21 at 11:35 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-21T12:00:13.969884-05:00.jpg">
-  <img src="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-21T12:00:13.969884-05:00.jpg"
-     alt="Wisconsin State Journal at 2022-07-21 12:00:16-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-21T12:00:13.969884-05:00.jpg">July 21 at 12:00 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 170 hyperlink lists with the Internet Archive.
+The archiving routine has saved 171 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:31 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-26T20:31:00.746220-05:00.hyperlinks.json) |
 | [July 26 at 8:34 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-26T08:34:01.424798-05:00.hyperlinks.json) |
 | [July 25 at 9:56 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-25T21:56:44.730046-05:00.hyperlinks.json) |
 | [July 25 at 8:39 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-25T20:39:19.123841-05:00.hyperlinks.json) |
@@ -323,10 +324,115 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 10:47 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-23T22:47:22.136779-05:00.hyperlinks.json) |
 | [July 23 at 11:09 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-23T11:09:21.095116-05:00.hyperlinks.json) |
 | [July 22 at 11:29 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-22T23:29:32.407707-05:00.hyperlinks.json) |
-| [July 22 at 11:22 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-22T11:22:06.360471-05:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 169 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/wistatejournal.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 8:31 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-26T20:31:00.746220-05:00.accessibility.json) |
+| [July 26 at 8:34 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-26T08:34:01.424798-05:00.accessibility.json) |
+| [July 25 at 9:56 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-25T21:56:44.730046-05:00.accessibility.json) |
+| [July 25 at 10:53 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-25T10:53:25.386008-05:00.accessibility.json) |
+| [July 24 at 11:41 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-24T23:41:26.320843-05:00.accessibility.json) |
+| [July 24 at 10:11 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-24T10:11:34.712549-05:00.accessibility.json) |
+| [July 23 at 10:47 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-23T22:47:22.136779-05:00.accessibility.json) |
+| [July 23 at 11:09 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-23T11:09:21.095116-05:00.accessibility.json) |
+| [July 22 at 11:29 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-22T23:29:32.407707-05:00.accessibility.json) |
+| [July 22 at 11:22 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-07-22T11:22:06.360471-05:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

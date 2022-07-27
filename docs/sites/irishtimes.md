@@ -160,7 +160,30 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 3:04 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-07-22T15:04:11.860902+01:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 1:11 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-07-27T01:11:44.498520+01:00.accessibility.json) |
+| [July 26 at 1:21 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-07-26T13:21:11.113200+01:00.accessibility.json) |
+| [July 26 at 1:15 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-07-26T01:15:40.724613+01:00.accessibility.json) |
+| [July 25 at 2:10 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-07-25T14:10:36.806993+01:00.accessibility.json) |
+| [July 25 at 4:24 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-07-25T04:24:05.948940+01:00.accessibility.json) |
+| [July 24 at 1:58 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-07-24T13:57:59.890781+01:00.accessibility.json) |
+| [July 24 at 5:13 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-07-24T05:13:44.895824+01:00.accessibility.json) |
+| [July 23 at 3:04 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-07-23T15:04:09.757424+01:00.accessibility.json) |
+| [July 23 at 3:29 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-07-23T03:29:25.675888+01:00.accessibility.json) |
+| [July 22 at 3:04 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-07-22T15:04:11.860902+01:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

@@ -160,7 +160,30 @@ Here are the 10 most recent hyperlink lists.
 | [July 21 at 9:26 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-07-21T21:26:48.383205-05:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 20 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 7:13 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-07-26T19:13:28.209671-05:00.accessibility.json) |
+| [July 26 at 7:22 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-07-26T07:22:39.842699-05:00.accessibility.json) |
+| [July 25 at 7:17 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-07-25T19:17:03.918804-05:00.accessibility.json) |
+| [July 25 at 8:11 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-07-25T08:11:01.828581-05:00.accessibility.json) |
+| [July 24 at 10:27 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-07-24T22:27:45.184050-05:00.accessibility.json) |
+| [July 24 at 8:00 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-07-24T08:00:35.480128-05:00.accessibility.json) |
+| [July 23 at 11:16 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-07-23T23:16:10.347293-05:00.accessibility.json) |
+| [July 23 at 9:06 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-07-23T09:06:06.030142-05:00.accessibility.json) |
+| [July 22 at 9:31 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-07-22T21:31:36.095259-05:00.accessibility.json) |
+| [July 22 at 9:07 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-07-22T09:07:05.781299-05:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

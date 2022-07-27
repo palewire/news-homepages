@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 81 screenshots with the Internet Archive.
+The archiving routine has saved 82 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 81 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-26T21:25:35.853929-04:00.jpg">
+  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-26T21:25:35.853929-04:00.jpg"
+     alt="Clarion Ledger at 2022-07-26 21:25:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-26T21:25:35.853929-04:00.jpg">July 26 at 9:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-26T09:27:21.162856-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-21T21:09:09.010353-04:00.jpg">July 21 at 9:09 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-21T08:55:21.925284-04:00.jpg">
-  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-21T08:55:21.925284-04:00.jpg"
-     alt="Clarion Ledger at 2022-07-21 08:55:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-07-21T08:55:21.925284-04:00.jpg">July 21 at 8:55 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 81 hyperlink lists with the Internet Archive.
+The archiving routine has saved 82 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:25 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-26T21:25:35.853929-04:00.hyperlinks.json) |
 | [July 26 at 9:27 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-26T09:27:21.162856-04:00.hyperlinks.json) |
 | [July 25 at 10:59 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-25T22:59:29.229563-04:00.hyperlinks.json) |
 | [July 25 at 9:33 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-25T21:33:25.508454-04:00.hyperlinks.json) |
@@ -323,10 +324,115 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:01 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-23T09:01:39.450417-04:00.hyperlinks.json) |
 | [July 22 at 9:02 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-22T21:01:57.483612-04:00.hyperlinks.json) |
 | [July 22 at 9:01 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-22T09:01:28.138213-04:00.hyperlinks.json) |
-| [July 21 at 9:09 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-21T21:09:09.010353-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 81 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/clarionledger.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 9:25 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-26T21:25:35.853929-04:00.accessibility.json) |
+| [July 26 at 9:27 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-26T09:27:21.162856-04:00.accessibility.json) |
+| [July 25 at 10:59 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-25T22:59:29.229563-04:00.accessibility.json) |
+| [July 25 at 9:33 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-25T21:33:25.508454-04:00.accessibility.json) |
+| [July 25 at 7:02 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-25T07:02:49.096713-04:00.accessibility.json) |
+| [July 24 at 8:55 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-24T20:55:43.499158-04:00.accessibility.json) |
+| [July 24 at 7:01 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-24T07:01:36.773499-04:00.accessibility.json) |
+| [July 23 at 7:04 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-23T19:04:01.036968-04:00.accessibility.json) |
+| [July 22 at 9:02 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-22T21:01:57.483612-04:00.accessibility.json) |
+| [July 22 at 9:01 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-07-22T09:01:28.138213-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

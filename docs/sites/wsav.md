@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 15 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wsav-2022/wsav-2022-07-26T21:32:19.501847-04:00.jpg">
+  <img src="https://archive.org/download/wsav-2022/wsav-2022-07-26T21:32:19.501847-04:00.jpg"
+     alt="WSAV News 3 at 2022-07-26 21:32:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wsav-2022/wsav-2022-07-26T21:32:19.501847-04:00.jpg">July 26 at 9:32 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsav-2022/wsav-2022-07-26T09:34:02.780546-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wsav-2022/wsav-2022-07-22T00:36:20.884998-04:00.jpg">July 22 at 12:36 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wsav-2022/wsav-2022-07-21T13:00:32.261005-04:00.jpg">
-  <img src="https://archive.org/download/wsav-2022/wsav-2022-07-21T13:00:32.261005-04:00.jpg"
-     alt="WSAV News 3 at 2022-07-21 13:00:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wsav-2022/wsav-2022-07-21T13:00:32.261005-04:00.jpg">July 21 at 1:00 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 14 hyperlink lists with the Internet Archive.
+The archiving routine has saved 15 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:32 PM](https://archive.org/download/wsav-2022/wsav-2022-07-26T21:32:19.501847-04:00.hyperlinks.json) |
 | [July 26 at 9:34 AM](https://archive.org/download/wsav-2022/wsav-2022-07-26T09:34:02.780546-04:00.hyperlinks.json) |
 | [July 25 at 10:56 PM](https://archive.org/download/wsav-2022/wsav-2022-07-25T22:56:42.888306-04:00.hyperlinks.json) |
 | [July 25 at 9:39 PM](https://archive.org/download/wsav-2022/wsav-2022-07-25T21:39:28.545415-04:00.hyperlinks.json) |
@@ -157,10 +158,32 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:47 PM](https://archive.org/download/wsav-2022/wsav-2022-07-23T23:47:26.891611-04:00.hyperlinks.json) |
 | [July 23 at 12:10 PM](https://archive.org/download/wsav-2022/wsav-2022-07-23T12:10:09.381457-04:00.hyperlinks.json) |
 | [July 23 at 12:29 AM](https://archive.org/download/wsav-2022/wsav-2022-07-23T00:29:36.008662-04:00.hyperlinks.json) |
-| [July 22 at 12:23 PM](https://archive.org/download/wsav-2022/wsav-2022-07-22T12:22:51.359955-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 14 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 9:32 PM](https://archive.org/download/wsav-2022/wsav-2022-07-26T21:32:19.501847-04:00.accessibility.json) |
+| [July 26 at 9:34 AM](https://archive.org/download/wsav-2022/wsav-2022-07-26T09:34:02.780546-04:00.accessibility.json) |
+| [July 25 at 10:56 PM](https://archive.org/download/wsav-2022/wsav-2022-07-25T22:56:42.888306-04:00.accessibility.json) |
+| [July 25 at 9:39 PM](https://archive.org/download/wsav-2022/wsav-2022-07-25T21:39:28.545415-04:00.accessibility.json) |
+| [July 25 at 11:53 AM](https://archive.org/download/wsav-2022/wsav-2022-07-25T11:53:51.705974-04:00.accessibility.json) |
+| [July 25 at 12:42 AM](https://archive.org/download/wsav-2022/wsav-2022-07-25T00:42:09.211499-04:00.accessibility.json) |
+| [July 23 at 11:47 PM](https://archive.org/download/wsav-2022/wsav-2022-07-23T23:47:26.891611-04:00.accessibility.json) |
+| [July 23 at 12:10 PM](https://archive.org/download/wsav-2022/wsav-2022-07-23T12:10:09.381457-04:00.accessibility.json) |
+| [July 23 at 12:29 AM](https://archive.org/download/wsav-2022/wsav-2022-07-23T00:29:36.008662-04:00.accessibility.json) |
+| [July 22 at 12:22 PM](https://archive.org/download/wsav-2022/wsav-2022-07-22T12:22:51.359955-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 
