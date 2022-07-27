@@ -1,5 +1,5 @@
 {
-  "created": 1658880893,
+  "created": 1658924010,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/0/items/ktla-2022",
@@ -10973,21 +10973,32 @@
       "format": "JSON"
     },
     {
+      "name": "ktla-2022-07-26T17:13:32.882281-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ktla-2022-07-26T17:13:32.882281-07:00.jpg",
+      "mtime": "1658882620",
+      "size": "10571",
+      "md5": "ce61c5d71e5d4d734718b5a69157c737",
+      "crc32": "e3a57dd5",
+      "sha1": "8ac69bac552e1987eff4b55ea6cfc02e3ec1b5ad"
+    },
+    {
       "name": "ktla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7e79b65557a0ded805d2a866e52887d475350761",
-      "mtime": "1658880890",
-      "size": "218626",
-      "md5": "4f42e4567feda7c9f5006428c0925add",
-      "crc32": "50d42ae8",
-      "sha1": "e21980d4a60f89772f4a097d7536fbb6eff8b18f",
+      "btih": "aee16d26acef2d1c14be8ea1a2138407f3842663",
+      "mtime": "1658882712",
+      "size": "218827",
+      "md5": "57f35df4e9753c7f3ee43a8f7ffdd8a8",
+      "crc32": "e8c5855a",
+      "sha1": "b96a88a4c9a5cb8f7f3759f2034285a2cb42b7d0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ktla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4c293ff0adb37a07a058dbc1a287a394",
+      "md5": "4fdfb241bf51c3ab70d42d4b261bd842",
       "summation": "md5"
     },
     {
@@ -11011,9 +11022,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1049,
-  "item_last_updated": 1658880890,
-  "item_size": 119789788,
+  "files_count": 1050,
+  "item_last_updated": 1658882712,
+  "item_size": 119800560,
+  "ktla-2022": [
+    {
+      "url": "https://ktla.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ktla_com-_-2022_07_26_23_53_32.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ktla_com-_-2022_07_26_23_53_32.report.json",
+      "summary": {
+        "performance": 0.14,
+        "accessibility": 0.8,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://ktla.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ktla_com-_-2022_07_26_23_54_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ktla_com-_-2022_07_26_23_54_17.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.8,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://ktla.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ktla_com-_-2022_07_26_23_54_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ktla_com-_-2022_07_26_23_54_56.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.8,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "ktla-2022",
     "collection": [
@@ -11030,21 +11082,10 @@
     "publicdate": "2022-03-23 02:07:50",
     "addeddate": "2022-03-23 02:07:50"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344776413,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 654251291,
+  "server": "ia802500.us.archive.org",
+  "uniq": 587900891,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

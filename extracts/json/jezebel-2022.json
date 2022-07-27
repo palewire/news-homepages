@@ -1,5 +1,5 @@
 {
-  "created": 1658880736,
+  "created": 1658923921,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/18/items/jezebel-2022",
@@ -1149,21 +1149,32 @@
       "format": "JSON"
     },
     {
+      "name": "jezebel-2022-07-26T20:11:29.790737-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jezebel-2022-07-26T20:11:29.790737-04:00.jpg",
+      "mtime": "1658882280",
+      "size": "9974",
+      "md5": "40b21fbfbdc00001009b87d8481a02cf",
+      "crc32": "6c0d7c13",
+      "sha1": "55a2a6d6a396fc507b86c7ddc79326f82c313872"
+    },
+    {
       "name": "jezebel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "03f01dedfc41b17d7cd8b8405e8eb16165217ade",
-      "mtime": "1658880734",
-      "size": "24243",
-      "md5": "48da81006d9d7eda9316f319871734fd",
-      "crc32": "7b4e3e90",
-      "sha1": "2261b2e006d410bdd5487de665e5678a0f3b9c86",
+      "btih": "d27b2ec679ffe9b0e4294f925eb3616e00c6413f",
+      "mtime": "1658882294",
+      "size": "24446",
+      "md5": "dc28cb14458b7b7af4bb481525bad9ff",
+      "crc32": "4a016af7",
+      "sha1": "1fcdf41367c6352ad4fafeb2531707fd6b7698de",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jezebel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dea8e011b599fcd940cdf92689d947ac",
+      "md5": "9e5655dc462070588a7de4950e9ea0b2",
       "summation": "md5"
     },
     {
@@ -1187,9 +1198,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 113,
-  "item_last_updated": 1658880734,
-  "item_size": 9082023,
+  "files_count": 114,
+  "item_last_updated": 1658882294,
+  "item_size": 9092200,
+  "jezebel-2022": [
+    {
+      "url": "https://jezebel.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/jezebel_com-_-2022_07_26_23_51_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/jezebel_com-_-2022_07_26_23_51_53.report.json",
+      "summary": {
+        "performance": 0.31,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.89,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://jezebel.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/jezebel_com-_-2022_07_26_23_54_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/jezebel_com-_-2022_07_26_23_54_06.report.json",
+      "summary": {
+        "performance": 0.35,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.89,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://jezebel.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/jezebel_com-_-2022_07_26_23_53_02.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/jezebel_com-_-2022_07_26_23_53_02.report.json",
+      "summary": {
+        "performance": 0.36,
+        "accessibility": 0.93,
+        "best-practices": 0.83,
+        "seo": 0.89,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "jezebel-2022",
     "collection": [
@@ -1206,21 +1258,10 @@
     "publicdate": "2022-07-18 17:50:14",
     "addeddate": "2022-07-18 17:50:14"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344774724,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 352825766,
+  "server": "ia802508.us.archive.org",
+  "uniq": 333734662,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658880853,
+  "created": 1658924028,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/33/items/kyivpost-2022",
@@ -10901,21 +10901,32 @@
       "format": "JSON"
     },
     {
+      "name": "kyivpost-2022-07-27T03:13:12.661691+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kyivpost-2022-07-27T03:13:12.661691+03:00.jpg",
+      "mtime": "1658882435",
+      "size": "9310",
+      "md5": "76f60a0aed1c2af34caf91b0852fe287",
+      "crc32": "664223b8",
+      "sha1": "7d186403efdd5b02e5644eecbad6201c0470baf3"
+    },
+    {
       "name": "kyivpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c28c7bfe39165c7034d941c1f58c8d38f4852caa",
-      "mtime": "1658880850",
-      "size": "219781",
-      "md5": "634ea3d3809d8b03b28da4873ad89636",
-      "crc32": "a893808e",
-      "sha1": "832eb1e7615a5e78229adb29c40553cb7ba614ae",
+      "btih": "7152c7a1fb38f09fd25bbc9809351060eaa775de",
+      "mtime": "1658882454",
+      "size": "220005",
+      "md5": "4845167304878f67967af9768a713fe7",
+      "crc32": "e01b7139",
+      "sha1": "fd9ece244b60f386ae78d8efc135358c4bf33724",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kyivpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "590a253ca86236adcb0de8a4a1bb6396",
+      "md5": "8df75fd23a2f1726536d71b696be3020",
       "summation": "md5"
     },
     {
@@ -10939,9 +10950,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1040,
-  "item_last_updated": 1658880850,
-  "item_size": 101926569,
+  "files_count": 1041,
+  "item_last_updated": 1658882454,
+  "item_size": 101936103,
+  "kyivpost-2022": [
+    {
+      "url": "https://www.kyivpost.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kyivpost_com-_-2022_07_26_23_53_35.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kyivpost_com-_-2022_07_26_23_53_35.report.json",
+      "summary": {
+        "performance": 0.13,
+        "accessibility": 0.68,
+        "best-practices": 0.67,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.kyivpost.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kyivpost_com-_-2022_07_26_23_54_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kyivpost_com-_-2022_07_26_23_54_01.report.json",
+      "summary": {
+        "performance": 0.13,
+        "accessibility": 0.68,
+        "best-practices": 0.67,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.kyivpost.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kyivpost_com-_-2022_07_26_23_54_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kyivpost_com-_-2022_07_26_23_54_27.report.json",
+      "summary": {
+        "performance": 0.13,
+        "accessibility": 0.68,
+        "best-practices": 0.67,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    }
+  ],
   "metadata": {
     "identifier": "kyivpost-2022",
     "collection": [
@@ -10958,21 +11010,10 @@
     "publicdate": "2022-03-23 02:09:01",
     "addeddate": "2022-03-23 02:09:01"
   },
-  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344775946,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1670278969,
+  "uniq": 1802394829,
   "workable_servers": [
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

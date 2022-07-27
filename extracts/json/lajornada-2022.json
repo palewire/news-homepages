@@ -1,5 +1,5 @@
 {
-  "created": 1658880972,
+  "created": 1658924053,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/19/items/lajornada-2022",
@@ -18763,21 +18763,32 @@
       "format": "JSON"
     },
     {
+      "name": "lajornada-2022-07-26T19:14:23.027940-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lajornada-2022-07-26T19:14:23.027940-05:00.jpg",
+      "mtime": "1658882975",
+      "size": "8360",
+      "md5": "0f1f42f6f68730a54ce1803c61fbb232",
+      "crc32": "88eba386",
+      "sha1": "1c9c20d81f1a117e5099f423e7606637d40f002e"
+    },
+    {
       "name": "lajornada-2022_archive.torrent",
       "source": "metadata",
-      "btih": "63c4052c97163558d4d61c018cc1a2beed031b07",
-      "mtime": "1658880960",
-      "size": "380937",
-      "md5": "218ae4fe3a95a55413bc0f561944de26",
-      "crc32": "6715b707",
-      "sha1": "1320ef6bd3db2e25ad13c7fbae36dbc656c8b26b",
+      "btih": "ceac64c9430ed44cca90eac6a66acc82c3212fd8",
+      "mtime": "1658883074",
+      "size": "381142",
+      "md5": "9158594d6137c3df46732562f42f3ef8",
+      "crc32": "71b4cc8c",
+      "sha1": "d7085e26293d0996ba62154e62c48a754e31a986",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lajornada-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d0f981e6dfcbf053992b93ad3683b04e",
+      "md5": "3ff924268df8557384cb53c89b95cd9e",
       "summation": "md5"
     },
     {
@@ -18801,9 +18812,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1791,
-  "item_last_updated": 1658880960,
-  "item_size": 197454001,
+  "files_count": 1792,
+  "item_last_updated": 1658883074,
+  "item_size": 197462566,
   "metadata": {
     "identifier": "lajornada-2022",
     "collection": [
@@ -18820,21 +18831,10 @@
     "publicdate": "2022-04-15 20:40:39",
     "addeddate": "2022-04-15 20:40:39"
   },
-  "pending_tasks": true,
-  "server": "ia902501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344777295,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1792499747,
+  "server": "ia802501.us.archive.org",
+  "uniq": 546128672,
   "workable_servers": [
+    "ia802501.us.archive.org",
     "ia902501.us.archive.org"
   ]
 }

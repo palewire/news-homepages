@@ -1,5 +1,5 @@
 {
-  "created": 1658881062,
+  "created": 1658924136,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/13/items/newstribune-2022",
@@ -1987,21 +1987,32 @@
       "format": "JSON"
     },
     {
+      "name": "newstribune-2022-07-26T19:16:45.372136-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newstribune-2022-07-26T19:16:45.372136-05:00.jpg",
+      "mtime": "1658882845",
+      "size": "9479",
+      "md5": "fbb493a0ad54daf81658748bc9b56457",
+      "crc32": "14037aa2",
+      "sha1": "3e6490b97f2c8d94e6052d1ae4bdd80e4c0e8cde"
+    },
+    {
       "name": "newstribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "58505de15e1d4108262c4b0cc5e400b3796f1c54",
-      "mtime": "1658881058",
-      "size": "41813",
-      "md5": "20cd92e4206086ecd110cd5c2716bf7e",
-      "crc32": "1656854a",
-      "sha1": "6c7b77de31647078fc1afca7cdbf70630ccf489c",
+      "btih": "a978372f514770cf0b69d2c8130e02eea33c5174",
+      "mtime": "1658882855",
+      "size": "42020",
+      "md5": "5cfc09850cca4c2ab84476636d0008cc",
+      "crc32": "c769b676",
+      "sha1": "e380757b776281e8a8ed31bf51af603ba686fd95",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newstribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "919360c31216d56ce4b7eda84fe07b2c",
+      "md5": "a0873e11194c169ed9998d3965605d35",
       "summation": "md5"
     },
     {
@@ -2025,9 +2036,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 193,
-  "item_last_updated": 1658881058,
-  "item_size": 16579430,
+  "files_count": 194,
+  "item_last_updated": 1658882855,
+  "item_size": 16589116,
   "metadata": {
     "identifier": "newstribune-2022",
     "collection": [
@@ -2044,21 +2055,10 @@
     "publicdate": "2022-07-04 21:49:35",
     "addeddate": "2022-07-04 21:49:35"
   },
-  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344778269,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1336093231,
+  "uniq": 1111774910,
   "workable_servers": [
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

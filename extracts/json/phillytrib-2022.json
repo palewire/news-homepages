@@ -1,5 +1,5 @@
 {
-  "created": 1658881155,
+  "created": 1658883041,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/29/items/phillytrib-2022",
@@ -2427,21 +2427,32 @@
       "format": "JSON"
     },
     {
+      "name": "phillytrib-2022-07-26T20:18:11.683280-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "phillytrib-2022-07-26T20:18:11.683280-04:00.jpg",
+      "mtime": "1658882847",
+      "size": "10769",
+      "md5": "5e6f10e2c83ed15fd3c3c2aee03bf811",
+      "crc32": "12f63fd5",
+      "sha1": "5de804ab1391d98de0ea8520eecaf3c894c3c197"
+    },
+    {
       "name": "phillytrib-2022_archive.torrent",
       "source": "metadata",
-      "btih": "98fddc019a327cb61a94ee1525919ecb7e4def9b",
-      "mtime": "1658881151",
-      "size": "50771",
-      "md5": "590c0c9156b0624ba3802cc34ee78e9e",
-      "crc32": "163c529f",
-      "sha1": "c6d064dcc56606a943e454235ebc5900e0e23038",
+      "btih": "04d44434f6b5e607efd0400485510a7edc585023",
+      "mtime": "1658882974",
+      "size": "50978",
+      "md5": "17b68a26a55cc32831df7964336b81b7",
+      "crc32": "c5582bd8",
+      "sha1": "e4148ef0f5bc15b18fc0be98e77a8a7b7e0ff61e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "phillytrib-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8a3be4a694c572a3e427516d83afa723",
+      "md5": "028df371215ed98aacb019cb4804d2db",
       "summation": "md5"
     },
     {
@@ -2465,9 +2476,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 235,
-  "item_last_updated": 1658881151,
-  "item_size": 24467999,
+  "files_count": 236,
+  "item_last_updated": 1658882974,
+  "item_size": 24478975,
   "metadata": {
     "identifier": "phillytrib-2022",
     "collection": [
@@ -2484,21 +2495,10 @@
     "publicdate": "2022-07-03 15:52:45",
     "addeddate": "2022-07-03 15:52:45"
   },
-  "pending_tasks": true,
-  "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344779193,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1937636297,
+  "server": "ia802506.us.archive.org",
+  "uniq": 522273064,
   "workable_servers": [
+    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

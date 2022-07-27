@@ -1,5 +1,5 @@
 {
-  "created": 1658880993,
+  "created": 1658924244,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/4/items/nbcphiladelphia-2022",
@@ -2427,21 +2427,32 @@
       "format": "JSON"
     },
     {
+      "name": "nbcphiladelphia-2022-07-26T20:15:37.475075-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcphiladelphia-2022-07-26T20:15:37.475075-04:00.jpg",
+      "mtime": "1658882711",
+      "size": "9525",
+      "md5": "e302d201ecdf665752e6608dd37dec3a",
+      "crc32": "d38fc206",
+      "sha1": "16361e9c41726d725b645870a0bbaccd19991139"
+    },
+    {
       "name": "nbcphiladelphia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "101a0c67e0026343d9098853c90fa385fbe4849d",
-      "mtime": "1658880989",
-      "size": "51856",
-      "md5": "004a50b38a1b3f89e9919a75cbf1cd43",
-      "crc32": "789af6ee",
-      "sha1": "d0fe735733efda0a1ead2a261084863c30543018",
+      "btih": "758cd9b06c6a4a7426c952adbcae3d566812ba0c",
+      "mtime": "1658882717",
+      "size": "52067",
+      "md5": "2823288f336192963c87b430f91befd0",
+      "crc32": "168b95b3",
+      "sha1": "8a98b71f283abdee6873b79c01c2dcd5edf14006",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcphiladelphia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bbea9928b335ad09e1ac54cb4ab7f08f",
+      "md5": "29715412fd1b467443939b29b95c3448",
       "summation": "md5"
     },
     {
@@ -2465,9 +2476,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 235,
-  "item_last_updated": 1658880989,
-  "item_size": 22691456,
+  "files_count": 236,
+  "item_last_updated": 1658882717,
+  "item_size": 22701192,
   "metadata": {
     "identifier": "nbcphiladelphia-2022",
     "collection": [
@@ -2484,21 +2495,51 @@
     "publicdate": "2022-07-03 15:52:43",
     "addeddate": "2022-07-03 15:52:43"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "nbcphiladelphia-2022": [
     {
-      "task_id": 3344777511,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.nbcphiladelphia.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcphiladelphia_com-_-2022_07_26_23_58_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcphiladelphia_com-_-2022_07_26_23_58_54.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.nbcphiladelphia.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcphiladelphia_com-_-2022_07_26_23_59_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcphiladelphia_com-_-2022_07_26_23_59_21.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.nbcphiladelphia.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcphiladelphia_com-_-2022_07_27_00_00_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcphiladelphia_com-_-2022_07_27_00_00_11.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 1387239140,
+  "server": "ia601401.us.archive.org",
+  "uniq": 480460556,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

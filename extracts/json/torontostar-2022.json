@@ -1,5 +1,5 @@
 {
-  "created": 1658881949,
+  "created": 1658924686,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/10/items/torontostar-2022",
@@ -3058,31 +3058,83 @@
       "sha1": "a056aba483c51ae9a8af85371f938ca9c69e7d4a"
     },
     {
+      "name": "torontostar-2022-07-26T23:57:07.971503-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658894231",
+      "size": "36100",
+      "md5": "854941db6660143d83656e1d4108c033",
+      "crc32": "a63140aa",
+      "sha1": "d2030d88a2b5cd1f3bd7cbde7b77590fa3a17809",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-07-26T23:57:07.971503-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658894232",
+      "size": "46192",
+      "md5": "cee86bfc9499f840e272cd0fa0cb4e08",
+      "crc32": "929a596c",
+      "sha1": "c1aa4a3b3daa3fea647b985243ccbd7ef386d322",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-07-26T23:57:07.971503-04:00.jpg",
+      "source": "original",
+      "mtime": "1658894229",
+      "size": "291274",
+      "md5": "e1518f1c36a449e4fb7f2e55c514b657",
+      "crc32": "96ea8f5a",
+      "sha1": "2b46c80540b0a9f1fcb5eba3efb8270d7a736530",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "torontostar-2022-07-26T23:57:07.971503-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658894234",
+      "size": "1510",
+      "md5": "625f00c9be9f10b22746dba34de87c7e",
+      "crc32": "7f1ddd9e",
+      "sha1": "66fa46c45201fc92c2f935f1f40be6b7719aa4ed",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-07-26T23:57:07.971503-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "torontostar-2022-07-26T23:57:07.971503-04:00.jpg",
+      "mtime": "1658898110",
+      "size": "9038",
+      "md5": "a2416a118c90acec59e3860022c187c7",
+      "crc32": "82fa6c01",
+      "sha1": "2cbc1718b8dca05aa4efe74fd560f81b33d5efb2"
+    },
+    {
       "name": "torontostar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "355cfd4c9dd973ebc53872191751983ebd1e9838",
-      "mtime": "1658860041",
-      "size": "63625",
-      "md5": "0c5caabf9ac9104d7697b9949db6ab74",
-      "crc32": "3f086b05",
-      "sha1": "0420971722d49e78e78042babbed5799a7764298",
+      "btih": "273c7b37a6b8e06fb135b66ae28945fae288c93b",
+      "mtime": "1658898146",
+      "size": "64699",
+      "md5": "f00b37c4f482958e4b6ab1fa337f3777",
+      "crc32": "0debd470",
+      "sha1": "6ff283ea8d422aa820a0882f4ac4708bfe0cc24f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "torontostar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9893074b6710d7f3a1ed6429e034bf47",
+      "md5": "c1135fa0078555716f9d0140a2e532c8",
       "summation": "md5"
     },
     {
       "name": "torontostar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658850509",
-      "size": "356352",
-      "md5": "bdf5898bcd50bb286ffa7aec6b688db9",
-      "crc32": "6345f527",
-      "sha1": "b50cc89394627f55d89ab74a0a89f3dfebc65526",
+      "mtime": "1658894238",
+      "size": "364544",
+      "md5": "226a114d6d6418203b5cc34f7ef8d719",
+      "crc32": "ec161455",
+      "sha1": "4b6d6189b5e20053688274e889126929e51e57b8",
       "format": "Metadata"
     },
     {
@@ -3096,9 +3148,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 295,
-  "item_last_updated": 1658860041,
-  "item_size": 26111653,
+  "files_count": 300,
+  "item_last_updated": 1658898146,
+  "item_size": 26505033,
   "metadata": {
     "identifier": "torontostar-2022",
     "collection": [
@@ -3115,17 +3167,17 @@
     "publicdate": "2022-06-30 22:36:07",
     "addeddate": "2022-06-30 22:36:07"
   },
-  "server": "ia801508.us.archive.org",
+  "server": "ia601508.us.archive.org",
   "torontostar-2022": [
     {
       "url": "https://www.thestar.com/?redirect=true",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestar_com-_-2022_07_26_15_23_12.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestar_com-_-2022_07_26_15_23_12.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestar_com-_-2022_07_27_03_41_24.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestar_com-_-2022_07_27_03_41_24.report.json",
       "summary": {
         "performance": 0.16,
         "accessibility": 0.88,
-        "best-practices": 0.75,
+        "best-practices": 0.83,
         "seo": 0.86,
         "pwa": 0.4
       }
@@ -3133,12 +3185,12 @@
     {
       "url": "https://www.thestar.com/?redirect=true",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestar_com-_-2022_07_26_15_24_01.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestar_com-_-2022_07_26_15_24_01.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestar_com-_-2022_07_27_03_42_30.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestar_com-_-2022_07_27_03_42_30.report.json",
       "summary": {
         "performance": 0.15,
         "accessibility": 0.88,
-        "best-practices": 0.75,
+        "best-practices": 0.83,
         "seo": 0.86,
         "pwa": 0.4
       }
@@ -3146,20 +3198,20 @@
     {
       "url": "https://www.thestar.com/?redirect=true",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestar_com-_-2022_07_26_15_22_34.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestar_com-_-2022_07_26_15_22_34.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestar_com-_-2022_07_27_03_41_57.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestar_com-_-2022_07_27_03_41_57.report.json",
       "summary": {
-        "performance": 0.16,
+        "performance": 0.15,
         "accessibility": 0.88,
-        "best-practices": 0.75,
+        "best-practices": 0.83,
         "seo": 0.86,
         "pwa": 0.4
       }
     }
   ],
-  "uniq": 2111879590,
+  "uniq": 2140948837,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

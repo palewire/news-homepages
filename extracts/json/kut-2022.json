@@ -1,5 +1,5 @@
 {
-  "created": 1658880824,
+  "created": 1658924011,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/5/items/kut-2022",
@@ -915,21 +915,32 @@
       "format": "JSON"
     },
     {
+      "name": "kut-2022-07-26T19:12:53.401163-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kut-2022-07-26T19:12:53.401163-05:00.jpg",
+      "mtime": "1658882709",
+      "size": "10721",
+      "md5": "76e852b509af7495f61bc25690b2be2c",
+      "crc32": "49ffe5b6",
+      "sha1": "6fba8b024b1f36ff3853d9b5c6c89cd0758d4cf8"
+    },
+    {
       "name": "kut-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f5cb21e6f66b6075ef6d7328510e8d01045527d7",
-      "mtime": "1658880821",
-      "size": "19293",
-      "md5": "66bb3329ca774151b21deb6605daf724",
-      "crc32": "63e31c45",
-      "sha1": "09be2e8299c64d825c0a3ffde80fd2c4b98ff637",
+      "btih": "3c37e4a966c45da2b4f7e07cb3fed0cdb11fe7cc",
+      "mtime": "1658882717",
+      "size": "19493",
+      "md5": "8916f8e6b1e20a602aa9965c836e59d7",
+      "crc32": "bf8dac9b",
+      "sha1": "d3a670aa6d270299227a6debc582f79288de928b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "906ffacc0aba3ead8b867a742b17372d",
+      "md5": "c22ee29fc47dc663039ac0414cab0da9",
       "summation": "md5"
     },
     {
@@ -953,9 +964,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 91,
-  "item_last_updated": 1658880821,
-  "item_size": 7417267,
+  "files_count": 92,
+  "item_last_updated": 1658882717,
+  "item_size": 7428188,
+  "kut-2022": [
+    {
+      "url": "https://www.kut.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kut_org-_-2022_07_26_23_53_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kut_org-_-2022_07_26_23_53_28.report.json",
+      "summary": {
+        "performance": 0.49,
+        "accessibility": 0.96,
+        "best-practices": 1,
+        "seo": 0.98,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.kut.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kut_org-_-2022_07_26_23_53_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kut_org-_-2022_07_26_23_53_56.report.json",
+      "summary": {
+        "performance": 0.6,
+        "accessibility": 0.96,
+        "best-practices": 1,
+        "seo": 0.98,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.kut.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kut_org-_-2022_07_26_23_53_42.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kut_org-_-2022_07_26_23_53_42.report.json",
+      "summary": {
+        "performance": 0.69,
+        "accessibility": 0.96,
+        "best-practices": 1,
+        "seo": 0.98,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "kut-2022",
     "collection": [
@@ -972,21 +1024,10 @@
     "publicdate": "2022-07-18 00:04:57",
     "addeddate": "2022-07-18 00:04:57"
   },
-  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344775670,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1931142233,
+  "uniq": 72943383,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

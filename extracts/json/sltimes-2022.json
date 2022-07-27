@@ -1,5 +1,5 @@
 {
-  "created": 1658881288,
+  "created": 1658924513,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/15/items/sltimes-2022",
@@ -4639,21 +4639,32 @@
       "format": "JSON"
     },
     {
+      "name": "sltimes-2022-07-26T19:20:17.914083-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltimes-2022-07-26T19:20:17.914083-05:00.jpg",
+      "mtime": "1658882966",
+      "size": "10696",
+      "md5": "cccf3ae7b722376d03a9e729ea862782",
+      "crc32": "642d52d1",
+      "sha1": "f606f68e798e66a4f4c57225e32883e1a51e3104"
+    },
+    {
       "name": "sltimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dc31c623bb266f1dd4c5ca2d4427fa0058ac3cd2",
-      "mtime": "1658881282",
-      "size": "94579",
-      "md5": "48a1ddb5005144f11e490de9feb197dc",
-      "crc32": "bcb47288",
-      "sha1": "9746473712567b57b800bd5074e091a1706c9a8d",
+      "btih": "362d65258f019d3122e3d77b7843000d3f1b2c65",
+      "mtime": "1658882977",
+      "size": "94783",
+      "md5": "c83ecbde0f928bbf0902c155712e004b",
+      "crc32": "577f9acd",
+      "sha1": "46e6aa80e6dd363a8f1ffb1e6a8fb34e5fb17527",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sltimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3a66ab7f6c4ffdfeee9b4ba0f2dc5b41",
+      "md5": "7efb7bd36a56147332cc82d5faa00f7a",
       "summation": "md5"
     },
     {
@@ -4677,9 +4688,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 446,
-  "item_last_updated": 1658881282,
-  "item_size": 48654634,
+  "files_count": 447,
+  "item_last_updated": 1658882977,
+  "item_size": 48665534,
   "metadata": {
     "identifier": "sltimes-2022",
     "collection": [
@@ -4696,21 +4707,51 @@
     "publicdate": "2022-06-19 23:28:16",
     "addeddate": "2022-06-19 23:28:16"
   },
-  "pending_tasks": true,
   "server": "ia902501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "sltimes-2022": [
     {
-      "task_id": 3344780437,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.stormlake.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stormlake_com-_-2022_07_27_00_05_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stormlake_com-_-2022_07_27_00_05_28.report.json",
+      "summary": {
+        "performance": 0.31,
+        "accessibility": 0.83,
+        "best-practices": 0.83,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.stormlake.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stormlake_com-_-2022_07_27_00_05_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stormlake_com-_-2022_07_27_00_05_46.report.json",
+      "summary": {
+        "performance": 0.41,
+        "accessibility": 0.83,
+        "best-practices": 0.83,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.stormlake.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stormlake_com-_-2022_07_27_00_06_03.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stormlake_com-_-2022_07_27_00_06_03.report.json",
+      "summary": {
+        "performance": 0.37,
+        "accessibility": 0.83,
+        "best-practices": 0.83,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 369494685,
+  "uniq": 178684997,
   "workable_servers": [
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

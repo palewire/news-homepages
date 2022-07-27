@@ -1,5 +1,5 @@
 {
-  "created": 1658881743,
+  "created": 1658917802,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/19/items/postandcourier-2022",
@@ -3414,31 +3414,83 @@
       "sha1": "8f68197d292124d3acce5802aaa28a536e48e966"
     },
     {
+      "name": "postandcourier-2022-07-26T23:51:48.029703-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658893911",
+      "size": "33911",
+      "md5": "607e82161458dd02795f974e0ddde87f",
+      "crc32": "0bb71605",
+      "sha1": "24450c3ceb228cec8a3525b4eef4fe8728913e27",
+      "format": "JSON"
+    },
+    {
+      "name": "postandcourier-2022-07-26T23:51:48.029703-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658893913",
+      "size": "60355",
+      "md5": "38b6154526f4b8f006a8ab58c5fc760a",
+      "crc32": "44b43570",
+      "sha1": "4462cdc3c245d20c6b525ef0a45a425e6149815b",
+      "format": "JSON"
+    },
+    {
+      "name": "postandcourier-2022-07-26T23:51:48.029703-04:00.jpg",
+      "source": "original",
+      "mtime": "1658893910",
+      "size": "280976",
+      "md5": "9124c1f3ffa6c82edb9eff717a1bfb86",
+      "crc32": "c83228b3",
+      "sha1": "60fc9232d8e17b4e3d7b46c553dcf784919a2b8b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "postandcourier-2022-07-26T23:51:48.029703-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658893914",
+      "size": "1528",
+      "md5": "111595db5a6d305a5a6200427eb0a890",
+      "crc32": "ba99b89e",
+      "sha1": "3631c715fcb921736574750a8de48c8235aaa377",
+      "format": "JSON"
+    },
+    {
+      "name": "postandcourier-2022-07-26T23:51:48.029703-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "postandcourier-2022-07-26T23:51:48.029703-04:00.jpg",
+      "mtime": "1658897589",
+      "size": "9698",
+      "md5": "d4606e222bc19ca8fc3563491283d372",
+      "crc32": "0c6f057c",
+      "sha1": "ee7d75715297f0c6a0391f17f5c69aa3d73eabb9"
+    },
+    {
       "name": "postandcourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "178b286196ee9dac3591bfa6b615bfa20b7e3ba1",
-      "mtime": "1658859380",
-      "size": "72064",
-      "md5": "f9df46a06d65d2d3c3d0933caa7414d9",
-      "crc32": "3f6113cd",
-      "sha1": "9f442b12c45cae413cbc85b86f3ff5c54e53d578",
+      "btih": "e3cf4987ad9cbd535464360ffb6f6622d0224d6d",
+      "mtime": "1658897661",
+      "size": "73133",
+      "md5": "2cafe9d2e8e439edc7f9633bc3176851",
+      "crc32": "01b11ff9",
+      "sha1": "6533c219f23fb92b2274e83a20c6bc3bada7e9c4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "postandcourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "13ae3d6a054b07aafe3c3ff6ea428f0d",
+      "md5": "3849f703a2c9efdfea1f1a212ad1c8b0",
       "summation": "md5"
     },
     {
       "name": "postandcourier-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658850213",
-      "size": "397312",
-      "md5": "c8b2e8684c36c3d76179c4e0d0c1341f",
-      "crc32": "c976c394",
-      "sha1": "c79a377079672713233ceff2180f0be28b9d3393",
+      "mtime": "1658893919",
+      "size": "405504",
+      "md5": "618822577d72f652a4fb8950ebea4a3c",
+      "crc32": "44613154",
+      "sha1": "367f4234c9ed0a3eea55137321332d86bd9537d4",
       "format": "Metadata"
     },
     {
@@ -3452,9 +3504,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 329,
-  "item_last_updated": 1658859380,
-  "item_size": 32067496,
+  "files_count": 334,
+  "item_last_updated": 1658897661,
+  "item_size": 32463225,
   "metadata": {
     "identifier": "postandcourier-2022",
     "collection": [
@@ -3471,51 +3523,10 @@
     "publicdate": "2022-06-24 22:59:39",
     "addeddate": "2022-06-24 22:59:39"
   },
-  "postandcourier-2022": [
-    {
-      "url": "https://www.postandcourier.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_postandcourier_com-_-2022_07_26_15_14_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_postandcourier_com-_-2022_07_26_15_14_31.report.json",
-      "summary": {
-        "performance": 0.16,
-        "accessibility": 0.8,
-        "best-practices": 0.92,
-        "seo": 0.77,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.postandcourier.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_postandcourier_com-_-2022_07_26_15_14_59.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_postandcourier_com-_-2022_07_26_15_14_59.report.json",
-      "summary": {
-        "performance": 0.19,
-        "accessibility": 0.8,
-        "best-practices": 0.92,
-        "seo": 0.77,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.postandcourier.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_postandcourier_com-_-2022_07_26_15_15_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_postandcourier_com-_-2022_07_26_15_15_23.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.8,
-        "best-practices": 0.92,
-        "seo": 0.77,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "server": "ia601403.us.archive.org",
-  "uniq": 1008038192,
+  "server": "ia801403.us.archive.org",
+  "uniq": 1126979733,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ]
 }

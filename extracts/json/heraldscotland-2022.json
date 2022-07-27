@@ -1,5 +1,5 @@
 {
-  "created": 1658857029,
+  "created": 1658892187,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/13/items/heraldscotland-2022",
@@ -1780,31 +1780,83 @@
       "sha1": "14fc4cdb1bee074f7dbadaa92edb105141ce486f"
     },
     {
+      "name": "heraldscotland-2022-07-27T03:37:53.404087+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658889476",
+      "size": "33218",
+      "md5": "2cee877cc072b7d68ad53b5e37351c9b",
+      "crc32": "84742525",
+      "sha1": "1d7984f3cc98925705532d5fabc70c98b9df0f6e",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldscotland-2022-07-27T03:37:53.404087+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658889477",
+      "size": "60473",
+      "md5": "d542ce3c1b7cd3e2122482182af95b68",
+      "crc32": "adda9ab5",
+      "sha1": "6cd5e0075245d409aa7c2ada2520cc9d5dd4a760",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldscotland-2022-07-27T03:37:53.404087+01:00.jpg",
+      "source": "original",
+      "mtime": "1658889475",
+      "size": "264811",
+      "md5": "4aefbb5ee376bffdd661ff6c5d386f48",
+      "crc32": "2f5e8edd",
+      "sha1": "754459513127a4a444ba5f44a665a9092b910050",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "heraldscotland-2022-07-27T03:37:53.404087+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658889479",
+      "size": "1530",
+      "md5": "1ac238b7d10c7c94d5267b4894b9fe39",
+      "crc32": "061c33ff",
+      "sha1": "7c147ec01df05fba823355f9ab72ccbf5b900fc7",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldscotland-2022-07-27T03:37:53.404087+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "heraldscotland-2022-07-27T03:37:53.404087+01:00.jpg",
+      "mtime": "1658892143",
+      "size": "9878",
+      "md5": "78fde8a87d4a17485f652d29b9d9433d",
+      "crc32": "0033fbee",
+      "sha1": "aeb7022970de13fc57711c1779732a91089df405"
+    },
+    {
       "name": "heraldscotland-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4a8f491bbaa54c5e976eef641f00783dd5e48afb",
-      "mtime": "1658856960",
-      "size": "38056",
-      "md5": "7649bf95e341419c871a45a2a0cf6ad6",
-      "crc32": "bdf67cca",
-      "sha1": "f156590110c06de3c8215978a4a687fd08fe71ba",
+      "btih": "2eef13d873eceac277ed732585b9b45276537925",
+      "mtime": "1658892162",
+      "size": "39125",
+      "md5": "abefc5975f4850a38babfbf1837e1d68",
+      "crc32": "1291e3c3",
+      "sha1": "af5f16de6557ef3c6bd60f5868c124908e2b8cbe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "heraldscotland-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6fd60f0db637099087fc9206054a8d93",
+      "md5": "0798c9cae05257ac6490b1cb99ac1bee",
       "summation": "md5"
     },
     {
       "name": "heraldscotland-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658846137",
-      "size": "217088",
-      "md5": "949dc378ce94ecd5b2fca8f56d34b605",
-      "crc32": "0c7b8f1e",
-      "sha1": "d21d24eacab8eb697ff08ef91e80b492aead2ace",
+      "mtime": "1658889484",
+      "size": "225280",
+      "md5": "d949e2b5038f4ad0646bcfd4c5622c58",
+      "crc32": "7744fe4f",
+      "sha1": "1512a702191a117fec81b02dc8311d9fd1428894",
       "format": "Metadata"
     },
     {
@@ -1818,9 +1870,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 173,
-  "item_last_updated": 1658856960,
-  "item_size": 14799808,
+  "files_count": 178,
+  "item_last_updated": 1658892162,
+  "item_size": 15178979,
   "metadata": {
     "identifier": "heraldscotland-2022",
     "collection": [
@@ -1837,10 +1889,10 @@
     "publicdate": "2022-07-06 21:13:21",
     "addeddate": "2022-07-06 21:13:21"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 286592223,
+  "server": "ia601406.us.archive.org",
+  "uniq": 245779514,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

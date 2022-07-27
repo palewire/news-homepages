@@ -1,5 +1,5 @@
 {
-  "created": 1658881140,
+  "created": 1658882852,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/22/items/phillyinquirer-2022",
@@ -2313,21 +2313,32 @@
       "format": "JSON"
     },
     {
+      "name": "phillyinquirer-2022-07-26T20:18:12.194852-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "phillyinquirer-2022-07-26T20:18:12.194852-04:00.jpg",
+      "mtime": "1658882750",
+      "size": "10003",
+      "md5": "e08b4c704cd912a891ec8ee084e2f748",
+      "crc32": "0a2e375b",
+      "sha1": "657eec4eb7b97c8019631eeec4fbc9b7dfb75b45"
+    },
+    {
       "name": "phillyinquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dc0e97a83af4f2f2b674d2d46eeb01bc094986b1",
-      "mtime": "1658881137",
-      "size": "49166",
-      "md5": "46926baf473122947ec23e8520087ce1",
-      "crc32": "589b6d58",
-      "sha1": "c87c4c68decc099230d96fe3637352581951be34",
+      "btih": "9d104e6ebb5b64db94417794d01c5f87302a32cf",
+      "mtime": "1658882770",
+      "size": "49377",
+      "md5": "a8c481d6e2821abc8a210a5b2d2b9711",
+      "crc32": "83be53a5",
+      "sha1": "d59d4638d194b522edb04db07e262067cb4f010b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "phillyinquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bc8f3eb645273a9a5e3fea2bf5122e26",
+      "md5": "8a89c9c23baf54b10aa001fb83207b37",
       "summation": "md5"
     },
     {
@@ -2351,9 +2362,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 224,
-  "item_last_updated": 1658881137,
-  "item_size": 20402196,
+  "files_count": 225,
+  "item_last_updated": 1658882770,
+  "item_size": 20412410,
   "metadata": {
     "identifier": "phillyinquirer-2022",
     "collection": [
@@ -2370,21 +2381,10 @@
     "publicdate": "2022-07-03 15:52:44",
     "addeddate": "2022-07-03 15:52:44"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344779047,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1019890315,
+  "uniq": 435504603,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

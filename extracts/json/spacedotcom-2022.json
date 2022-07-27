@@ -1,5 +1,5 @@
 {
-  "created": 1658881288,
+  "created": 1658924524,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/16/items/spacedotcom-2022",
@@ -69,21 +69,32 @@
       "rotation": "0"
     },
     {
+      "name": "spacedotcom-2022-07-26T20:20:47.833936-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spacedotcom-2022-07-26T20:20:47.833936-04:00.jpg",
+      "mtime": "1658882909",
+      "size": "9789",
+      "md5": "a426dd7a0b8819860cbcc4f14f0d84f7",
+      "crc32": "a7a4f9bb",
+      "sha1": "63d3adbae9f422ef6f5eb1733bc5793c6a0591be"
+    },
+    {
       "name": "spacedotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "266e72fdff1e85cbb1bfefcf1de6d79915ae735c",
-      "mtime": "1658881287",
-      "size": "2714",
-      "md5": "b014db37b0fab7687969c633791cfa5d",
-      "crc32": "ecc7521c",
-      "sha1": "e6b3bb82078072e905417c9866e8e7ce2d933264",
+      "btih": "05599974086cb826325f9c60a44f5ed4c38f9274",
+      "mtime": "1658882989",
+      "size": "2921",
+      "md5": "30fe035f18424759c0c6a5d1f1152475",
+      "crc32": "2ea4abc9",
+      "sha1": "47ef43e481f5eab9131813236cfbe073eb439cf9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spacedotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2f9b74855da3041f38bd0ff3a01228cb",
+      "md5": "4711d7bed537b41688d7420bf2e8178e",
       "summation": "md5"
     },
     {
@@ -107,9 +118,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 10,
-  "item_last_updated": 1658881287,
-  "item_size": 578205,
+  "files_count": 11,
+  "item_last_updated": 1658882989,
+  "item_size": 588201,
   "metadata": {
     "identifier": "spacedotcom-2022",
     "collection": [
@@ -126,21 +137,51 @@
     "publicdate": "2022-07-26 12:30:10",
     "addeddate": "2022-07-26 12:30:10"
   },
-  "pending_tasks": true,
-  "server": "ia601402.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "server": "ia801402.us.archive.org",
+  "spacedotcom-2022": [
     {
-      "task_id": 3344780439,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.space.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_space_com-_-2022_07_26_12_10_41.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_space_com-_-2022_07_26_12_10_41.report.json",
+      "summary": {
+        "performance": 0.4,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.space.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_space_com-_-2022_07_26_12_12_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_space_com-_-2022_07_26_12_12_58.report.json",
+      "summary": {
+        "performance": 0.4,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.space.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_space_com-_-2022_07_26_12_11_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_space_com-_-2022_07_26_12_11_51.report.json",
+      "summary": {
+        "performance": 0.38,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.6
+      }
     }
   ],
-  "uniq": 1113333740,
+  "uniq": 1588899589,
   "workable_servers": [
+    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658880766,
+  "created": 1658882497,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/22/items/huffpostcanada-2022",
@@ -349,21 +349,32 @@
       "format": "JSON"
     },
     {
+      "name": "huffpostcanada-2022-07-26T20:11:59.017575-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpostcanada-2022-07-26T20:11:59.017575-04:00.jpg",
+      "mtime": "1658882383",
+      "size": "10382",
+      "md5": "08112b64433dd7df56c2ee6e6e6724f4",
+      "crc32": "f6d97198",
+      "sha1": "c88efe8b5a6afd9a38f80ace89f226f3395ea227"
+    },
+    {
       "name": "huffpostcanada-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8d662d14811fa618a4e9e31f0afa8c6c8886e37d",
-      "mtime": "1658880763",
-      "size": "8606",
-      "md5": "7d253d2628ec5a62ff4b38090dfe73c9",
-      "crc32": "eb5ec63f",
-      "sha1": "60fd50d8a82c8cb82ea30f4ae18b37047931decf",
+      "btih": "021370e8622a68d0ecc0394cc6e669f2b87b0109",
+      "mtime": "1658882434",
+      "size": "8817",
+      "md5": "cbfafd23720277f43f0cf138f4b7807a",
+      "crc32": "dc193bd4",
+      "sha1": "f20831b2ffec64d9e935eb347fa05b5adcc8a447",
       "format": "Archive BitTorrent"
     },
     {
       "name": "huffpostcanada-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "315cd68d127f8269ac30b9d75239d3e9",
+      "md5": "722802f6ae1fe483187a18a5f3ab23a4",
       "summation": "md5"
     },
     {
@@ -387,9 +398,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 37,
-  "item_last_updated": 1658880763,
-  "item_size": 2413683,
+  "files_count": 38,
+  "item_last_updated": 1658882434,
+  "item_size": 2424276,
   "metadata": {
     "identifier": "huffpostcanada-2022",
     "collection": [
@@ -406,21 +417,10 @@
     "publicdate": "2022-07-24 06:33:07",
     "addeddate": "2022-07-24 06:33:07"
   },
-  "pending_tasks": true,
   "server": "ia902501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344775025,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 36608105,
+  "uniq": 1642687997,
   "workable_servers": [
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

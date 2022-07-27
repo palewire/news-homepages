@@ -1,5 +1,5 @@
 {
-  "created": 1658879280,
+  "created": 1658920119,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/5/items/florida_bulldog-2022",
@@ -1640,31 +1640,72 @@
       "sha1": "3bb31b8ed43f2f1d4fcc4e45d5000109c18922c0"
     },
     {
+      "name": "florida_bulldog-2022-07-27T07:07:50.185035-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658920074",
+      "size": "33929",
+      "md5": "a061aeba3a9dd37627f346cf36df35f2",
+      "crc32": "201a1a6d",
+      "sha1": "f35121702ca046d45f0e7118aa5764206788dced",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_bulldog-2022-07-27T07:07:50.185035-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658920075",
+      "size": "18403",
+      "md5": "51f8be3fb58ee66d80ffb6d3958d0edd",
+      "crc32": "488517e7",
+      "sha1": "5420e2fe7940b8cb2d136bfe1acf95f4d4e7e484",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_bulldog-2022-07-27T07:07:50.185035-04:00.jpg",
+      "source": "original",
+      "mtime": "1658920072",
+      "size": "271941",
+      "md5": "898e5bd5503c7af14f312d7e26d9b342",
+      "crc32": "4a3b95ba",
+      "sha1": "534fa9016e44aecb7c85ee5f1dd42952406eba17",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "florida_bulldog-2022-07-27T07:07:50.185035-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658920077",
+      "size": "1528",
+      "md5": "f10fe4ade36c5e177520b3219dd259c0",
+      "crc32": "c25dacad",
+      "sha1": "551561cdabdb6cc702bbf2f95a9e85aea1728ba1",
+      "format": "JSON"
+    },
+    {
       "name": "florida_bulldog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2d37a1c11b232430d9e0bdb88fe1275b6aded21d",
-      "mtime": "1658879209",
-      "size": "35361",
-      "md5": "d321673c82cf1d00d1a6e6c1a5599431",
-      "crc32": "e54ce6c1",
-      "sha1": "bd846eb453adb4a49106c6758c53fba23413017e",
+      "btih": "12ed18d5586261624bf267f2cfbb75a019915409",
+      "mtime": "1658920116",
+      "size": "36244",
+      "md5": "e88565947a94b09f01bd1d1a897f59dd",
+      "crc32": "b940c7ac",
+      "sha1": "800e62d86847658e64204c866579a8678d43f162",
       "format": "Archive BitTorrent"
     },
     {
       "name": "florida_bulldog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e0c64cc0bda59db2d825686ac4487fe9",
+      "md5": "a2574153e52a4a6707e294f2f493b741",
       "summation": "md5"
     },
     {
       "name": "florida_bulldog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658876978",
-      "size": "204800",
-      "md5": "ec4d201547c071090e702e8591da9b50",
-      "crc32": "6f3fc5c6",
-      "sha1": "61d47636db95ebd1a3f4ce08cacd7f64e880b963",
+      "mtime": "1658920081",
+      "size": "212992",
+      "md5": "553c3d1265db25fc5e0093c240bac58f",
+      "crc32": "6960e20d",
+      "sha1": "109c16778012857703a6798bf13a46ac784e4bbe",
       "format": "Metadata"
     },
     {
@@ -1678,9 +1719,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 160,
-  "item_last_updated": 1658879209,
-  "item_size": 11978819,
+  "files_count": 164,
+  "item_last_updated": 1658920116,
+  "item_size": 12313695,
   "metadata": {
     "identifier": "florida_bulldog-2022",
     "collection": [
@@ -1697,10 +1738,21 @@
     "publicdate": "2022-07-09 03:59:15",
     "addeddate": "2022-07-09 03:59:15"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1574146032,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3345209580,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1291743135,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

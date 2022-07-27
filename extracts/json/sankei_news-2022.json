@@ -1,5 +1,5 @@
 {
-  "created": 1658881239,
+  "created": 1658924459,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/26/items/sankei_news-2022",
@@ -2247,31 +2247,94 @@
       "format": "JSON"
     },
     {
+      "name": "sankei_news-2022-07-27T09:19:31.939667+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sankei_news-2022-07-27T09:19:31.939667+09:00.jpg",
+      "mtime": "1658882812",
+      "size": "10808",
+      "md5": "ab15472ce3b8696b7444580fcbf2a2c2",
+      "crc32": "ed426277",
+      "sha1": "86b2205d1324b1957870e740d9d3ddc5a5abd728"
+    },
+    {
+      "name": "sankei_news-2022-07-27T11:31:52.442073+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658889115",
+      "size": "54103",
+      "md5": "0c54dd6ebc445210ae10e5272d8b2e85",
+      "crc32": "5105eb88",
+      "sha1": "27d0f1b4bfebf19973939657e0aad3961ed93e64",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-07-27T11:31:52.442073+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658889117",
+      "size": "87117",
+      "md5": "3596d823627ce31dd36fff64946f147e",
+      "crc32": "1afdf09b",
+      "sha1": "06a70afa9caad7abdca7332dadc11c0b40967b6f",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-07-27T11:31:52.442073+09:00.jpg",
+      "source": "original",
+      "mtime": "1658889114",
+      "size": "383234",
+      "md5": "7630a33134d2f88b37108c060ce930d5",
+      "crc32": "75e2409f",
+      "sha1": "c5bbf3cd5156afab38a64cf4f52298d7ed80f7a0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sankei_news-2022-07-27T11:31:52.442073+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658889119",
+      "size": "1459",
+      "md5": "8ed62ba4402745e2c56aad87ce6a1c56",
+      "crc32": "8d998f43",
+      "sha1": "8e34886fc0fa31ebaed2fb02ea87df9fea9f5d9f",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-07-27T11:31:52.442073+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sankei_news-2022-07-27T11:31:52.442073+09:00.jpg",
+      "mtime": "1658891803",
+      "size": "11033",
+      "md5": "0d578b21a025fc633388ba2d02c945be",
+      "crc32": "a067ca35",
+      "sha1": "e3f363c1415b5ca050aefa299f9b1cffcf4d14b3"
+    },
+    {
       "name": "sankei_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3110bc1dd04d31ccf406ffd4af6d9f2fc0a16186",
-      "mtime": "1658881237",
-      "size": "47283",
-      "md5": "f335e5e1099c9297a6e0a28520ab305e",
-      "crc32": "44cd4191",
-      "sha1": "61a773793f787cf4417a9fb4d112664d1c94f607",
+      "btih": "d691cf7b0b3e799a3228193d4d63eca5028648d8",
+      "mtime": "1658891811",
+      "size": "48566",
+      "md5": "53d8ae411524e65e00528cd6a580e57b",
+      "crc32": "5cae7ef1",
+      "sha1": "9593f10da84dccfa9eed88f684a165471cde1e23",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sankei_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8d2d9120467d50ce33faf1ec530d069d",
+      "md5": "f86d0e3491c82242f887f63cff3de705",
       "summation": "md5"
     },
     {
       "name": "sankei_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658881188",
-      "size": "266240",
-      "md5": "3fb0860b4f02f3fcfd238dbff2e39683",
-      "crc32": "12c25fc9",
-      "sha1": "0fd3011a57ab6f48f30be43686082eb3cf1750b9",
+      "mtime": "1658889123",
+      "size": "270336",
+      "md5": "18033a1a05186a2fa4471fe8bd464c97",
+      "crc32": "5f89dc82",
+      "sha1": "ec5776be03f12a6f9baa72643b6bf86ba4411049",
       "format": "Metadata"
     },
     {
@@ -2285,9 +2348,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 217,
-  "item_last_updated": 1658881237,
-  "item_size": 28530965,
+  "files_count": 223,
+  "item_last_updated": 1658891811,
+  "item_size": 29084098,
   "metadata": {
     "identifier": "sankei_news-2022",
     "collection": [
@@ -2304,21 +2367,51 @@
     "publicdate": "2022-07-09 02:39:00",
     "addeddate": "2022-07-09 02:39:00"
   },
-  "pending_tasks": true,
-  "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "sankei_news-2022": [
     {
-      "task_id": 3344779931,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.sankei.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sankei_com-_-2022_07_27_01_37_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sankei_com-_-2022_07_27_01_37_34.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.79,
+        "best-practices": 0.75,
+        "seo": 0.82,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.sankei.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sankei_com-_-2022_07_27_01_38_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sankei_com-_-2022_07_27_01_38_06.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.79,
+        "best-practices": 0.75,
+        "seo": 0.82,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.sankei.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sankei_com-_-2022_07_27_01_36_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sankei_com-_-2022_07_27_01_36_11.report.json",
+      "summary": {
+        "performance": 0.21,
+        "accessibility": 0.79,
+        "best-practices": 0.75,
+        "seo": 0.82,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 1778896741,
+  "server": "ia802507.us.archive.org",
+  "uniq": 1824729363,
   "workable_servers": [
+    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }

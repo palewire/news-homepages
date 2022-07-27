@@ -1,5 +1,5 @@
 {
-  "created": 1658880918,
+  "created": 1658914526,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/24/items/marfaradio-2022",
@@ -905,21 +905,32 @@
       "format": "JSON"
     },
     {
+      "name": "marfaradio-2022-07-26T19:14:21.924334-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marfaradio-2022-07-26T19:14:21.924334-05:00.jpg",
+      "mtime": "1658882552",
+      "size": "8701",
+      "md5": "501b97af73adf191087f7229463fb89c",
+      "crc32": "90676a1c",
+      "sha1": "8b82b06e546a06056e4fae21613891abc98ffd44"
+    },
+    {
       "name": "marfaradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2646ef45d1d239df1371ba3679984efb5b874966",
-      "mtime": "1658880912",
-      "size": "19688",
-      "md5": "016740603280641547b7c44e25ba52e9",
-      "crc32": "82480ab2",
-      "sha1": "f257f21a5856172b641870257a533570342b4a01",
+      "btih": "813b8c76b12ceff3d43a3598179abca18392af31",
+      "mtime": "1658882564",
+      "size": "19894",
+      "md5": "a76bcc3b19845c401627d7887ecf229f",
+      "crc32": "2c6c624c",
+      "sha1": "5931de2abab0da47e04971d00868ae499c2fa7aa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "marfaradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "70664fba231546f781686033ed6a6387",
+      "md5": "6ffd292c980abfeebfbb754d32144fed",
       "summation": "md5"
     },
     {
@@ -943,9 +954,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 90,
-  "item_last_updated": 1658880912,
-  "item_size": 6452019,
+  "files_count": 91,
+  "item_last_updated": 1658882564,
+  "item_size": 6460926,
   "metadata": {
     "identifier": "marfaradio-2022",
     "collection": [
@@ -962,21 +973,10 @@
     "publicdate": "2022-07-18 00:04:45",
     "addeddate": "2022-07-18 00:04:45"
   },
-  "pending_tasks": true,
   "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344776691,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 161217609,
+  "uniq": 6899065,
   "workable_servers": [
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }

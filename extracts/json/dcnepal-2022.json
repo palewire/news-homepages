@@ -1,15 +1,15 @@
 {
-  "created": 1658881390,
+  "created": 1658923765,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dcnepal-2022": [
     {
       "url": "https://www.dcnepal.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dcnepal_com-_-2022_07_26_14_07_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dcnepal_com-_-2022_07_26_14_07_26.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dcnepal_com-_-2022_07_27_02_17_44.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dcnepal_com-_-2022_07_27_02_17_44.report.json",
       "summary": {
-        "performance": 0.04,
+        "performance": 0.03,
         "accessibility": 0.76,
         "best-practices": 0.83,
         "seo": 0.7,
@@ -19,10 +19,10 @@
     {
       "url": "https://www.dcnepal.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dcnepal_com-_-2022_07_26_14_08_22.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dcnepal_com-_-2022_07_26_14_08_22.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dcnepal_com-_-2022_07_27_02_18_16.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dcnepal_com-_-2022_07_27_02_18_16.report.json",
       "summary": {
-        "performance": 0.1,
+        "performance": 0.11,
         "accessibility": 0.76,
         "best-practices": 0.83,
         "seo": 0.7,
@@ -32,12 +32,12 @@
     {
       "url": "https://www.dcnepal.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dcnepal_com-_-2022_07_26_14_07_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dcnepal_com-_-2022_07_26_14_07_55.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dcnepal_com-_-2022_07_27_02_18_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dcnepal_com-_-2022_07_27_02_18_43.report.json",
       "summary": {
-        "performance": 0.08,
+        "performance": 0.1,
         "accessibility": 0.76,
-        "best-practices": 0.75,
+        "best-practices": 0.83,
         "seo": 0.7,
         "pwa": 0.4
       }
@@ -317,31 +317,83 @@
       "sha1": "ae5fe69d5f0c9e5ef3782afecbdfa04e9e3daaef"
     },
     {
+      "name": "dcnepal-2022-07-27T08:19:50.560424+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1658889294",
+      "size": "113594",
+      "md5": "842077233965cf2dcd9dc9e086a43f29",
+      "crc32": "cd2777ac",
+      "sha1": "8954bfefeb797e9326c4282ed6f92095986bb829",
+      "format": "JSON"
+    },
+    {
+      "name": "dcnepal-2022-07-27T08:19:50.560424+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658889295",
+      "size": "110909",
+      "md5": "fed446fe3d5a598498fa79de11466f82",
+      "crc32": "82565af2",
+      "sha1": "5171305a6dd5ae7115397cdfe6331884ec776aae",
+      "format": "JSON"
+    },
+    {
+      "name": "dcnepal-2022-07-27T08:19:50.560424+05:45.jpg",
+      "source": "original",
+      "mtime": "1658889292",
+      "size": "203077",
+      "md5": "5e1914c662f08651352daa810d615447",
+      "crc32": "4cc7ba04",
+      "sha1": "e0a84bf2a92cb0c5d2213cd22154b8e6677ed16e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dcnepal-2022-07-27T08:19:50.560424+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1658889297",
+      "size": "1464",
+      "md5": "fcabc07f34ffe9d7d3b4ba93e42bbe35",
+      "crc32": "b94d5f1e",
+      "sha1": "2cab266aef72e58c167b99afce7ac136ed6b3040",
+      "format": "JSON"
+    },
+    {
+      "name": "dcnepal-2022-07-27T08:19:50.560424+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dcnepal-2022-07-27T08:19:50.560424+05:45.jpg",
+      "mtime": "1658891944",
+      "size": "9390",
+      "md5": "396629b80f2cef302ec20c73edb6dd19",
+      "crc32": "f247a3a5",
+      "sha1": "36e01d4bfed8c1e3c0e94dcb75010645822314c0"
+    },
+    {
       "name": "dcnepal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4ef2edf9bc372512fd4eeaf64ea21c8917c618f7",
-      "mtime": "1658856681",
-      "size": "6877",
-      "md5": "ac22a829b36906bac6344b16ceaf45ed",
-      "crc32": "c865d4a5",
-      "sha1": "42ff07e0e89f57f9d455d5cda32fc14baad26928",
+      "btih": "db71c067bd14b33daf6307ac6ddfe9cea016372b",
+      "mtime": "1658891976",
+      "size": "7933",
+      "md5": "3298016b41393e1281f116cd48330383",
+      "crc32": "f33a62f9",
+      "sha1": "f9134c2c91c6d938e32f6906712c1e9172f31f8b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dcnepal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "057be2a1252147e7d253e58b6a743540",
+      "md5": "79bea345c56ab4eb736b84695edaa1eb",
       "summation": "md5"
     },
     {
       "name": "dcnepal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658845929",
-      "size": "49152",
-      "md5": "9aef388e5e68503c4bdb82f17d72cbfa",
-      "crc32": "f2f0ece6",
-      "sha1": "f335973986cd445ff8432cad249499ff46deed83",
+      "mtime": "1658889302",
+      "size": "53248",
+      "md5": "0c24ecc6e9718c5ac3ce4da4b6261136",
+      "crc32": "d25870b9",
+      "sha1": "9de3e2cb3396b03195e5613954303049dfb707af",
       "format": "Metadata"
     },
     {
@@ -355,9 +407,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 30,
-  "item_last_updated": 1658856681,
-  "item_size": 2434926,
+  "files_count": 35,
+  "item_last_updated": 1658891976,
+  "item_size": 2878512,
   "metadata": {
     "identifier": "dcnepal-2022",
     "collection": [
@@ -374,10 +426,10 @@
     "publicdate": "2022-07-24 20:37:41",
     "addeddate": "2022-07-24 20:37:41"
   },
-  "server": "ia601508.us.archive.org",
-  "uniq": 1701242266,
+  "server": "ia801508.us.archive.org",
+  "uniq": 819514749,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }

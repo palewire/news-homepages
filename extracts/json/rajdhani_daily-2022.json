@@ -1,5 +1,5 @@
 {
-  "created": 1658881213,
+  "created": 1658882882,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/34/items/rajdhani_daily-2022",
@@ -317,21 +317,32 @@
       "format": "JSON"
     },
     {
+      "name": "rajdhani_daily-2022-07-27T06:04:14.433463+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rajdhani_daily-2022-07-27T06:04:14.433463+05:45.jpg",
+      "mtime": "1658882846",
+      "size": "10372",
+      "md5": "3935d3ba231cdb9b16d052c0ee59bac8",
+      "crc32": "d0247063",
+      "sha1": "e48e71a8d043623285f6cb39a35d5479af600c89"
+    },
+    {
       "name": "rajdhani_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6ef9fd80cdafaffaabd2f250a1e1608fc1f7abe1",
-      "mtime": "1658881208",
-      "size": "7967",
-      "md5": "6ad3af08ffb18d2043475c3e48b19203",
-      "crc32": "103e63a8",
-      "sha1": "a60349a482823ee36436fc0de8dfbb3977f91dd9",
+      "btih": "dc7c594b2783ef7a671fe60810e5c0a644993e65",
+      "mtime": "1658882850",
+      "size": "8178",
+      "md5": "8a17b56bc5126b02353610d144259532",
+      "crc32": "6924433d",
+      "sha1": "7044c3bb674239a652bb1af4f7c68d3e7cfbc920",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rajdhani_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ef2d59dcc1470240175efd878b53f905",
+      "md5": "1ea99d0e51d21d7d150c7f05d5f11c3b",
       "summation": "md5"
     },
     {
@@ -355,9 +366,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 34,
-  "item_last_updated": 1658881208,
-  "item_size": 2414103,
+  "files_count": 35,
+  "item_last_updated": 1658882850,
+  "item_size": 2424686,
   "metadata": {
     "identifier": "rajdhani_daily-2022",
     "collection": [
@@ -374,21 +385,10 @@
     "publicdate": "2022-07-24 20:38:58",
     "addeddate": "2022-07-24 20:38:58"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344779702,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 865048572,
+  "server": "ia801408.us.archive.org",
+  "uniq": 311840303,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

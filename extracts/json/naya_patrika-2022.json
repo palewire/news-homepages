@@ -1,5 +1,5 @@
 {
-  "created": 1658880976,
+  "created": 1658924227,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/26/items/naya_patrika-2022",
@@ -317,21 +317,32 @@
       "format": "JSON"
     },
     {
+      "name": "naya_patrika-2022-07-27T06:00:24.041308+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "naya_patrika-2022-07-27T06:00:24.041308+05:45.jpg",
+      "mtime": "1658882678",
+      "size": "9722",
+      "md5": "0d973137c57eab418f784105ef25d67b",
+      "crc32": "7f4f1465",
+      "sha1": "ce186885cb055d47cf777f959551ad6ae5fcd4c3"
+    },
+    {
       "name": "naya_patrika-2022_archive.torrent",
       "source": "metadata",
-      "btih": "98291202c0dcaf539ce89a5224e4dc0ec50d5593",
-      "mtime": "1658880970",
-      "size": "7891",
-      "md5": "da97ab7ae2243ada710e2a71252d7d5e",
-      "crc32": "27cb93a7",
-      "sha1": "f3e7c7dd14f947c3572629323030880313ed940e",
+      "btih": "561b8c3f44016a979a24602b9b9ec455154306fd",
+      "mtime": "1658882682",
+      "size": "8099",
+      "md5": "cd129fa7ef3023d8ff64ffae50d48808",
+      "crc32": "0bd4e37d",
+      "sha1": "b2679a7dc7092474820e4dd292f6e912ace063d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "naya_patrika-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cda6eef719ceef0cf2b5e4b0224310b9",
+      "md5": "25c186de52d9c4aefb39dee58f492f98",
       "summation": "md5"
     },
     {
@@ -355,9 +366,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 34,
-  "item_last_updated": 1658880970,
-  "item_size": 2379777,
+  "files_count": 35,
+  "item_last_updated": 1658882682,
+  "item_size": 2389707,
   "metadata": {
     "identifier": "naya_patrika-2022",
     "collection": [
@@ -374,21 +385,51 @@
     "publicdate": "2022-07-24 20:38:21",
     "addeddate": "2022-07-24 20:38:21"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "naya_patrika-2022": [
     {
-      "task_id": 3344777322,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.nayapatrikadaily.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nayapatrikadaily_com-_-2022_07_26_23_57_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nayapatrikadaily_com-_-2022_07_26_23_57_56.report.json",
+      "summary": {
+        "performance": 0.48,
+        "accessibility": 0.76,
+        "best-practices": 0.75,
+        "seo": 0.75,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.nayapatrikadaily.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nayapatrikadaily_com-_-2022_07_26_23_58_22.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nayapatrikadaily_com-_-2022_07_26_23_58_22.report.json",
+      "summary": {
+        "performance": 0.59,
+        "accessibility": 0.76,
+        "best-practices": 0.75,
+        "seo": 0.75,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.nayapatrikadaily.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nayapatrikadaily_com-_-2022_07_26_23_57_30.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nayapatrikadaily_com-_-2022_07_26_23_57_30.report.json",
+      "summary": {
+        "performance": 0.5,
+        "accessibility": 0.76,
+        "best-practices": 0.75,
+        "seo": 0.75,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 1390768482,
+  "server": "ia601501.us.archive.org",
+  "uniq": 1795576834,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

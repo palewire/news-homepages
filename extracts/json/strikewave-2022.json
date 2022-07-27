@@ -1,5 +1,5 @@
 {
-  "created": 1658881840,
+  "created": 1658898016,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/33/items/strikewave-2022",
@@ -672,31 +672,83 @@
       "sha1": "63095ded40a5826f356fcbb62c63e2528d9b0695"
     },
     {
+      "name": "strikewave-2022-07-26T23:55:06.171763-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658894109",
+      "size": "17859",
+      "md5": "7e81e73831275329d61a0e5c79048b6f",
+      "crc32": "f60c9e87",
+      "sha1": "0e1686ee4d062184add9e826445f64d2ff3ca41a",
+      "format": "JSON"
+    },
+    {
+      "name": "strikewave-2022-07-26T23:55:06.171763-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658894110",
+      "size": "9498",
+      "md5": "d9eb25d637c10b7f3ee4920467199bdf",
+      "crc32": "5b878b97",
+      "sha1": "0b694aef894d66eb833471eb17da676a0b806c2b",
+      "format": "JSON"
+    },
+    {
+      "name": "strikewave-2022-07-26T23:55:06.171763-04:00.jpg",
+      "source": "original",
+      "mtime": "1658894107",
+      "size": "218388",
+      "md5": "989c35481b0e8214825d6a8be0643faa",
+      "crc32": "bd0f14a4",
+      "sha1": "85b93e88d4f8e87af9616fbab0eb0da5420e420d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "strikewave-2022-07-26T23:55:06.171763-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658894112",
+      "size": "1513",
+      "md5": "0148702112e7e85e79e5693af31cf5d8",
+      "crc32": "d4b3bbb5",
+      "sha1": "fe0349931d238e0d301c829e8786938d1cad30bb",
+      "format": "JSON"
+    },
+    {
+      "name": "strikewave-2022-07-26T23:55:06.171763-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "strikewave-2022-07-26T23:55:06.171763-04:00.jpg",
+      "mtime": "1658897941",
+      "size": "8856",
+      "md5": "1d733ea2e8165ff2211748235f5a7b40",
+      "crc32": "a8c6b86d",
+      "sha1": "63095ded40a5826f356fcbb62c63e2528d9b0695"
+    },
+    {
       "name": "strikewave-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5323c33ff8fc408cd9e07a45a16dc31ccf72d9ad",
-      "mtime": "1658866927",
-      "size": "14965",
-      "md5": "49ab16ecb4d7588de532cfa833368f31",
-      "crc32": "87e0dc25",
-      "sha1": "baab7999a45bd6b8890f31198f647fb06f97a66d",
+      "btih": "485821fcc9bbf64b9d1750d52e14ed5a9f53ef3a",
+      "mtime": "1658897947",
+      "size": "16034",
+      "md5": "48435ff17328b019334fa52063877fe5",
+      "crc32": "a5a41241",
+      "sha1": "4c1dae66b6e4aa87c91592dec9df42b28e9c235c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "strikewave-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "568530d64fad4f78cf3af3e4ce512d0e",
+      "md5": "b6db0e9e548e809ea99dd421dee1a891",
       "summation": "md5"
     },
     {
       "name": "strikewave-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658860669",
-      "size": "90112",
-      "md5": "18b24872c3a495406caedd55be372c5f",
-      "crc32": "97c7d41a",
-      "sha1": "474836a7252343ad32c79aa45440f6f24fc9ebb5",
+      "mtime": "1658894116",
+      "size": "102400",
+      "md5": "2a648896614bf03964b51f549f15475e",
+      "crc32": "4853c906",
+      "sha1": "14a046e8c62e41cfd8cc582b05c0cc06e8f0de4b",
       "format": "Metadata"
     },
     {
@@ -710,9 +762,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 68,
-  "item_last_updated": 1658866927,
-  "item_size": 3444389,
+  "files_count": 73,
+  "item_last_updated": 1658897947,
+  "item_size": 3713860,
   "metadata": {
     "identifier": "strikewave-2022",
     "collection": [
@@ -730,48 +782,7 @@
     "addeddate": "2022-07-23 04:23:41"
   },
   "server": "ia801402.us.archive.org",
-  "strikewave-2022": [
-    {
-      "url": "https://www.thestrikewave.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestrikewave_com-_-2022_07_26_18_30_43.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestrikewave_com-_-2022_07_26_18_30_43.report.json",
-      "summary": {
-        "performance": 0.14,
-        "accessibility": 0.91,
-        "best-practices": 1,
-        "seo": 0.84,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.thestrikewave.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestrikewave_com-_-2022_07_26_18_31_12.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestrikewave_com-_-2022_07_26_18_31_12.report.json",
-      "summary": {
-        "performance": 0.41,
-        "accessibility": 0.91,
-        "best-practices": 1,
-        "seo": 0.84,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.thestrikewave.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestrikewave_com-_-2022_07_26_18_31_00.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestrikewave_com-_-2022_07_26_18_31_00.report.json",
-      "summary": {
-        "performance": 0.33,
-        "accessibility": 0.91,
-        "best-practices": 1,
-        "seo": 0.84,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "uniq": 762688475,
+  "uniq": 57200196,
   "workable_servers": [
     "ia801402.us.archive.org",
     "ia601402.us.archive.org"

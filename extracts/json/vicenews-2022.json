@@ -1,5 +1,5 @@
 {
-  "created": 1658854703,
+  "created": 1658886955,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/16/items/vicenews-2022",
@@ -4348,31 +4348,83 @@
       "sha1": "9b009933cba6a6534df63d682f61c02972a6ae6a"
     },
     {
+      "name": "vicenews-2022-07-26T21:30:45.506894-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658885452",
+      "size": "4875",
+      "md5": "ea7f10927236b662af77573e5716c76a",
+      "crc32": "e5144644",
+      "sha1": "d8948ae55446cf0386858eee7741f22fc6f74fa4",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-07-26T21:30:45.506894-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658885454",
+      "size": "10652",
+      "md5": "623b1430aba25d14aad4770308e798b9",
+      "crc32": "8460a15e",
+      "sha1": "f9165b84761b05a234bfec25ac2e2c3819cb7d61",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-07-26T21:30:45.506894-04:00.jpg",
+      "source": "original",
+      "mtime": "1658885447",
+      "size": "172628",
+      "md5": "a24a7dd7ad3a3e7180814763a1e6f252",
+      "crc32": "3998b050",
+      "sha1": "169de5630943e09ee59a4c3eeabde4b61f8b5d86",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vicenews-2022-07-26T21:30:45.506894-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658885456",
+      "size": "1576",
+      "md5": "d6212a4995a46e15130710e98dea239e",
+      "crc32": "00991f1c",
+      "sha1": "373d3304bca3eb5ec8df2cbeccbbf2bfe051311d",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-07-26T21:30:45.506894-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vicenews-2022-07-26T21:30:45.506894-04:00.jpg",
+      "mtime": "1658886915",
+      "size": "8964",
+      "md5": "b94dbcb12692c315f1e1e52d5a40df45",
+      "crc32": "fe3204c9",
+      "sha1": "b421e25e76b150d2313c0c9889733319441fda8a"
+    },
+    {
       "name": "vicenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9071c1c5340ff7554ec7a0669b80ab32c5164d1b",
-      "mtime": "1658854685",
-      "size": "88040",
-      "md5": "1238d20a22fc8803e769ed11dbfe7ca6",
-      "crc32": "31c05447",
-      "sha1": "90eec8d5d879eddf3444153aa481aa5840c2f58a",
+      "btih": "b9612dba3f5fed6de5add20f305bb97e5e27b95f",
+      "mtime": "1658886922",
+      "size": "89098",
+      "md5": "66352c9a9ddbf38d0a1ce2008417a6ed",
+      "crc32": "197e5c54",
+      "sha1": "0cee5fd5e897026fc38e478e36a2b71d779c4a9f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vicenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f57d138ac939e40ad6af7ff93af5ccda",
+      "md5": "cbf292277b5417767f75f1a70e9bf116",
       "summation": "md5"
     },
     {
       "name": "vicenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658842386",
-      "size": "491520",
-      "md5": "883fd5a4aa267f7febea5419b4ac5b78",
-      "crc32": "bb7b24c1",
-      "sha1": "bc72c14577de3180dfe73aaaa6c34ba6dfdf3797",
+      "mtime": "1658885459",
+      "size": "499712",
+      "md5": "266de3aa1bbd2eac8854daa00989974e",
+      "crc32": "9e9aff85",
+      "sha1": "74f5e6aec6b0d7938c4cff3dd33a516e8057c17d",
       "format": "Metadata"
     },
     {
@@ -4386,9 +4438,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 418,
-  "item_last_updated": 1658854685,
-  "item_size": 23638720,
+  "files_count": 423,
+  "item_last_updated": 1658886922,
+  "item_size": 23846665,
   "metadata": {
     "identifier": "vicenews-2022",
     "collection": [
@@ -4405,10 +4457,10 @@
     "publicdate": "2022-06-19 23:29:15",
     "addeddate": "2022-06-19 23:29:15"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 2086021566,
+  "server": "ia601501.us.archive.org",
+  "uniq": 487392057,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658879268,
+  "created": 1658923808,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/25/items/fivethirtyeight-2022",
@@ -4390,31 +4390,72 @@
       "sha1": "2190d897611127ca46941747e814f907996479d0"
     },
     {
+      "name": "fivethirtyeight-2022-07-27T07:07:26.812356-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658920051",
+      "size": "18747",
+      "md5": "2392d93ed605da5c9787ad7300a1d6a7",
+      "crc32": "a7722c50",
+      "sha1": "c02384d3ad58aaa14b4a3a050f1b412e1248364b",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-07-27T07:07:26.812356-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658920053",
+      "size": "20685",
+      "md5": "89f29b02be7afbb4712251d59d5ee025",
+      "crc32": "a1c6293f",
+      "sha1": "cdd744b6bd9de862e8074187d2f2f72786cd4479",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-07-27T07:07:26.812356-04:00.jpg",
+      "source": "original",
+      "mtime": "1658920049",
+      "size": "268141",
+      "md5": "b394019fab55aa2e4d4402d151cab889",
+      "crc32": "7cd36bde",
+      "sha1": "3a199e33be80d67b6bf2a83858ad6c0febdb93b8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fivethirtyeight-2022-07-27T07:07:26.812356-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658920055",
+      "size": "1503",
+      "md5": "2b232ac5f23cecf70bc2a4a9b2dc8b31",
+      "crc32": "935e0ff9",
+      "sha1": "f5aecb80858bd89121716cedd2e71f6886a7833f",
+      "format": "JSON"
+    },
+    {
       "name": "fivethirtyeight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a1dfb10d2a209b62c3a627af46436a1fe01f3deb",
-      "mtime": "1658879203",
-      "size": "92284",
-      "md5": "5005eee914193477266c63f43b280c89",
-      "crc32": "d0222e54",
-      "sha1": "b3f6fa59deca194e5177b1ee5b136a25357dfc3a",
+      "btih": "f67ea86693ee27c267896a44a2da585ae9e68b54",
+      "mtime": "1658920112",
+      "size": "93147",
+      "md5": "ca613372d0596c6ff28da3ed1dc5b3df",
+      "crc32": "2263ead4",
+      "sha1": "9df4fd9d41b6b5ce6806a5bb71efe0df1433854a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fivethirtyeight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "75c7711793d44b1797739ef3bb463e4d",
+      "md5": "22a3b0344fcd1c5d47b8ceb42fe8b00a",
       "summation": "md5"
     },
     {
       "name": "fivethirtyeight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658876967",
-      "size": "503808",
-      "md5": "cdb8c622d00fbbfef84c58d1c1dc9659",
-      "crc32": "61e83324",
-      "sha1": "7abe1f95654f43ab05e0c149c9d447ba0307ff3d",
+      "mtime": "1658920071",
+      "size": "512000",
+      "md5": "b2c07d404f13745a8bd8bb382c219619",
+      "crc32": "089b104a",
+      "sha1": "d7c844326f16c22d66550771861080b41c825533",
       "format": "Metadata"
     },
     {
@@ -4428,9 +4469,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 422,
-  "item_last_updated": 1658879203,
-  "item_size": 32160614,
+  "files_count": 426,
+  "fivethirtyeight-2022": [
+    {
+      "url": "https://fivethirtyeight.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/fivethirtyeight_com-_-2022_07_27_10_49_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/fivethirtyeight_com-_-2022_07_27_10_49_05.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://fivethirtyeight.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/fivethirtyeight_com-_-2022_07_27_10_49_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/fivethirtyeight_com-_-2022_07_27_10_49_51.report.json",
+      "summary": {
+        "performance": 0.2,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://fivethirtyeight.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/fivethirtyeight_com-_-2022_07_27_10_49_29.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/fivethirtyeight_com-_-2022_07_27_10_49_29.report.json",
+      "summary": {
+        "performance": 0.19,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "item_last_updated": 1658920112,
+  "item_size": 32478745,
   "metadata": {
     "identifier": "fivethirtyeight-2022",
     "collection": [
@@ -4447,10 +4529,21 @@
     "publicdate": "2022-06-19 23:24:21",
     "addeddate": "2022-06-19 23:24:21"
   },
+  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "uniq": 847917355,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3345209558,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1542427317,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia601501.us.archive.org"
   ]
 }

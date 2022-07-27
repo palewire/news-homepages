@@ -1,5 +1,5 @@
 {
-  "created": 1658880735,
+  "created": 1658923935,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/8/items/joplinglobe-2022",
@@ -1447,21 +1447,32 @@
       "format": "JSON"
     },
     {
+      "name": "joplinglobe-2022-07-26T19:11:24.785526-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "joplinglobe-2022-07-26T19:11:24.785526-05:00.jpg",
+      "mtime": "1658882261",
+      "size": "9752",
+      "md5": "6bb668b4067525bf2ef03f359f9ca196",
+      "crc32": "f2c125be",
+      "sha1": "4d47dcd519f4450e2968745425dc1adccff0ce3e"
+    },
+    {
       "name": "joplinglobe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3a9720b50c8e9a05993175dd3d31671dcb6f6224",
-      "mtime": "1658880733",
-      "size": "30496",
-      "md5": "842b9b3aaf5a3fc3f29ec38570c7e434",
-      "crc32": "a61502bf",
-      "sha1": "ebdfa1ffadf19e8142a93d12dd979e0c939a442c",
+      "btih": "31c96db0c1c2d06013ff00e7289e3f0bb6d6d3a5",
+      "mtime": "1658882267",
+      "size": "30703",
+      "md5": "2601be0fc910263bdc407996cd0b7fcd",
+      "crc32": "36be2a1e",
+      "sha1": "ec7b255dbd10714d203f393eb123c205a0b19679",
       "format": "Archive BitTorrent"
     },
     {
       "name": "joplinglobe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4195d32e75a41c73d6f3f3aba78d5f30",
+      "md5": "a5f2a10d2713e577effabcd3e92a4ae2",
       "summation": "md5"
     },
     {
@@ -1485,9 +1496,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 140,
-  "item_last_updated": 1658880733,
-  "item_size": 16365929,
+  "files_count": 141,
+  "item_last_updated": 1658882267,
+  "item_size": 16375888,
+  "joplinglobe-2022": [
+    {
+      "url": "https://www.joplinglobe.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_joplinglobe_com-_-2022_07_26_23_52_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_joplinglobe_com-_-2022_07_26_23_52_07.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.72,
+        "best-practices": 0.58,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.joplinglobe.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_joplinglobe_com-_-2022_07_26_23_53_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_joplinglobe_com-_-2022_07_26_23_53_19.report.json",
+      "summary": {
+        "performance": 0.19,
+        "accessibility": 0.72,
+        "best-practices": 0.58,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.joplinglobe.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_joplinglobe_com-_-2022_07_26_23_54_30.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_joplinglobe_com-_-2022_07_26_23_54_30.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.72,
+        "best-practices": 0.58,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "joplinglobe-2022",
     "collection": [
@@ -1504,21 +1556,10 @@
     "publicdate": "2022-07-04 21:54:35",
     "addeddate": "2022-07-04 21:54:35"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344774712,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 940228583,
+  "server": "ia802500.us.archive.org",
+  "uniq": 2091284081,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

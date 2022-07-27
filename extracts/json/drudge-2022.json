@@ -1,5 +1,5 @@
 {
-  "created": 1658879530,
+  "created": 1658920085,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/10/items/drudge-2022",
@@ -9080,31 +9080,72 @@
       "sha1": "f50ae7951576b1a4407ca2eef2d06fcf17703cb8"
     },
     {
+      "name": "drudge-2022-07-27T07:07:09.014806-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658920032",
+      "size": "22948",
+      "md5": "8a6b0d8707f904d73f6f81245f5652d8",
+      "crc32": "e91a5701",
+      "sha1": "08ab7713fa63397129a2b72d5c84511470cc1c49",
+      "format": "JSON"
+    },
+    {
+      "name": "drudge-2022-07-27T07:07:09.014806-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658920033",
+      "size": "25180",
+      "md5": "6f2c45927bce1c81468fe7022cc02672",
+      "crc32": "bda1eb89",
+      "sha1": "afc34ae0b967db5a82177a5977138a61bcfaa9e1",
+      "format": "JSON"
+    },
+    {
+      "name": "drudge-2022-07-27T07:07:09.014806-04:00.jpg",
+      "source": "original",
+      "mtime": "1658920030",
+      "size": "287300",
+      "md5": "121e9c7d2822b237c406ca551c1e1610",
+      "crc32": "d2021351",
+      "sha1": "5f117992532b9a6b3a10bcdd054d678c22b2e13f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "drudge-2022-07-27T07:07:09.014806-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658920035",
+      "size": "1474",
+      "md5": "aafb2ca682c537fddbad0d0953595c5d",
+      "crc32": "2c05604c",
+      "sha1": "54d48c43145e12e4613d9b5d3b410a780ca4a9b2",
+      "format": "JSON"
+    },
+    {
       "name": "drudge-2022_archive.torrent",
       "source": "metadata",
-      "btih": "60b68edfac8a08e09d1da70d34ca7bbf51256c00",
-      "mtime": "1658879355",
-      "size": "181407",
-      "md5": "4ddd8032a7ec919bf5e3fde5e0b77eb6",
-      "crc32": "1c13f22a",
-      "sha1": "f6ea9fdc99ebed048716c965bf1845e9b6d11350",
+      "btih": "4e473c8d59d86549e72df75b8a1701352063a4e4",
+      "mtime": "1658920081",
+      "size": "182255",
+      "md5": "ec8e8318cfa18f8fe462897569d6fabe",
+      "crc32": "606f0338",
+      "sha1": "08b13fc5f9ee1949c4d7a16f1d3e882c9e52e476",
       "format": "Archive BitTorrent"
     },
     {
       "name": "drudge-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "14608f31f5af648149be6b5deeec3e0c",
+      "md5": "62e169b8e500277bb9387d061a13618b",
       "summation": "md5"
     },
     {
       "name": "drudge-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658876931",
-      "size": "999424",
-      "md5": "da41772938896ff5983a02c3a3c692f0",
-      "crc32": "b3833692",
-      "sha1": "e5d312b91f9e2d036b3050d735c211ff7b2c4729",
+      "mtime": "1658920039",
+      "size": "1003520",
+      "md5": "3e4a4a2fc9fcac2e80cc179363e1fa2d",
+      "crc32": "10cabe62",
+      "sha1": "a521339bfc7301214321970538db6914b342c45d",
       "format": "Metadata"
     },
     {
@@ -9118,9 +9159,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 868,
-  "item_last_updated": 1658879355,
-  "item_size": 71976640,
+  "files_count": 872,
+  "item_last_updated": 1658920081,
+  "item_size": 72318486,
   "metadata": {
     "identifier": "drudge-2022",
     "collection": [
@@ -9137,10 +9178,21 @@
     "publicdate": "2022-03-25 13:48:42",
     "addeddate": "2022-03-25 13:48:42"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 953667886,
+  "pending_tasks": true,
+  "server": "ia902502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3345209255,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1891220011,
   "workable_servers": [
-    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

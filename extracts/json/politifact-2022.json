@@ -1,5 +1,5 @@
 {
-  "created": 1658881157,
+  "created": 1658882851,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/19/items/politifact-2022",
@@ -3477,21 +3477,32 @@
       "format": "JSON"
     },
     {
+      "name": "politifact-2022-07-26T20:18:15.281332-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politifact-2022-07-26T20:18:15.281332-04:00.jpg",
+      "mtime": "1658882792",
+      "size": "8855",
+      "md5": "39ab1a35b6e3cdc682ed9ce21af558c0",
+      "crc32": "79be701a",
+      "sha1": "0cd0ddbbb4244de453d23e2d486c85a4ce0b0f75"
+    },
+    {
       "name": "politifact-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a89cf373e2fae8c5aa7e3012ad80b0c7679beefe",
-      "mtime": "1658881149",
-      "size": "71561",
-      "md5": "b2df33ff6c1d594a907852cfb180dce5",
-      "crc32": "6571e346",
-      "sha1": "ec40cd5de65fa512fdc38bfb3f1ca5084e2742e5",
+      "btih": "fd082e52d58571bcb8c4a59e78fedc86f194b439",
+      "mtime": "1658882815",
+      "size": "71767",
+      "md5": "4f0416212dde23da994102199d8cdec1",
+      "crc32": "7fec67dd",
+      "sha1": "ffbc731bd0981d83254e9a716b3bc3c595265786",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politifact-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e60d85e21f9956c3895bf867ca5d6719",
+      "md5": "68d9c4a127e87fb543464fec92f4f2bc",
       "summation": "md5"
     },
     {
@@ -3515,9 +3526,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 335,
-  "item_last_updated": 1658881149,
-  "item_size": 22198952,
+  "files_count": 336,
+  "item_last_updated": 1658882815,
+  "item_size": 22208013,
   "metadata": {
     "identifier": "politifact-2022",
     "collection": [
@@ -3534,21 +3545,10 @@
     "publicdate": "2022-06-24 22:59:30",
     "addeddate": "2022-06-24 22:59:30"
   },
-  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344779207,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1920399303,
+  "uniq": 1963183313,
   "workable_servers": [
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

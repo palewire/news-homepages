@@ -1,5 +1,5 @@
 {
-  "created": 1658881944,
+  "created": 1658924678,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/1/items/timesenterprise-2022",
@@ -562,31 +562,73 @@
       "sha1": "64d22bf0efd5360553ec83fb132d328ec42a64e6"
     },
     {
+      "name": "timesenterprise-2022-07-26T23:56:48.463286-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658894212",
+      "size": "70535",
+      "md5": "592e34a3cbb53237cb8eed20cc5c21ca",
+      "crc32": "db4d8009",
+      "sha1": "7d46b0e617d88df456ef0c969a67290ee9b81ab0",
+      "format": "JSON"
+    },
+    {
+      "name": "timesenterprise-2022-07-26T23:56:48.463286-04:00.jpg",
+      "source": "original",
+      "mtime": "1658894210",
+      "size": "322279",
+      "md5": "1701186d1d1eb3076ee76cff5d190cf4",
+      "crc32": "53a6a330",
+      "sha1": "590d7e1434f30557d60e09411d34b79ed2088ce8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesenterprise-2022-07-26T23:56:48.463286-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658894213",
+      "size": "1538",
+      "md5": "2ca652c20bc428f24670ff2452249f0a",
+      "crc32": "43d9b526",
+      "sha1": "84c00fbe694fdd4fb62cda65b98e1c5b002305a4",
+      "format": "JSON"
+    },
+    {
+      "name": "timesenterprise-2022-07-26T23:56:48.463286-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesenterprise-2022-07-26T23:56:48.463286-04:00.jpg",
+      "mtime": "1658898023",
+      "size": "9373",
+      "md5": "0a55eb2af03e76d8203bc6684e7af366",
+      "crc32": "02dc77a7",
+      "sha1": "12c8dc090381a0c645e512abe17563c89211c3fe"
+    },
+    {
       "name": "timesenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b0e2b6925bb79a9d36483ef4578ef4d2c6d184b5",
-      "mtime": "1658860053",
-      "size": "13016",
-      "md5": "277438731194e25fbc62eb437d06dd93",
-      "crc32": "0e0fd87b",
-      "sha1": "55bc9aadd066b7069b967f035ad161176e971153",
+      "btih": "9fc051c066c2336354bdc2dcd8b54ec99bdd4b3a",
+      "mtime": "1658898029",
+      "size": "13889",
+      "md5": "8763e33b8f7b00d6ad6e805f4d65375d",
+      "crc32": "e5b2fc6c",
+      "sha1": "b0142c43777f0518086f34ab69c22211e9da5ecd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d96ff8334ce47db6d650615c2d12c3ba",
+      "md5": "ee177e1f362afaf39ab4cc02d1c31324",
       "summation": "md5"
     },
     {
       "name": "timesenterprise-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658850561",
-      "size": "73728",
-      "md5": "e8b52e3688f440b440c27d66e5b4c1f8",
-      "crc32": "da082897",
-      "sha1": "018da6d6a25ba34d29caa486dbbe067c2ed833a7",
+      "mtime": "1658894220",
+      "size": "77824",
+      "md5": "4f99d580d756c66bc1a4ec03ca45004f",
+      "crc32": "a0bd9e1f",
+      "sha1": "ef5782dbbd89032c4f4c88295e3c16d788b31319",
       "format": "Metadata"
     },
     {
@@ -600,9 +642,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 57,
-  "item_last_updated": 1658860053,
-  "item_size": 5540012,
+  "files_count": 61,
+  "item_last_updated": 1658898029,
+  "item_size": 5948706,
   "metadata": {
     "identifier": "timesenterprise-2022",
     "collection": [
@@ -624,10 +666,10 @@
     {
       "url": "https://www.timesenterprise.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_26_15_23_01.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_26_15_23_01.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_27_03_40_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_27_03_40_48.report.json",
       "summary": {
-        "performance": 0.18,
+        "performance": 0.2,
         "accessibility": 0.72,
         "best-practices": 0.83,
         "seo": 0.76,
@@ -637,10 +679,10 @@
     {
       "url": "https://www.timesenterprise.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_26_15_23_39.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_26_15_23_39.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_27_03_41_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_27_03_41_20.report.json",
       "summary": {
-        "performance": 0.18,
+        "performance": 0.21,
         "accessibility": 0.72,
         "best-practices": 0.83,
         "seo": 0.76,
@@ -650,18 +692,18 @@
     {
       "url": "https://www.timesenterprise.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_26_15_22_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_26_15_22_09.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_27_03_41_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_27_03_41_50.report.json",
       "summary": {
-        "performance": 0.18,
+        "performance": 0.2,
         "accessibility": 0.72,
-        "best-practices": 0.83,
+        "best-practices": 0.67,
         "seo": 0.76,
         "pwa": 0.4
       }
     }
   ],
-  "uniq": 749079443,
+  "uniq": 1706392822,
   "workable_servers": [
     "ia601507.us.archive.org",
     "ia801507.us.archive.org"

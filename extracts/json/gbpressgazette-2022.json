@@ -1,5 +1,5 @@
 {
-  "created": 1658881492,
+  "created": 1658923849,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/7/items/gbpressgazette-2022",
@@ -8082,31 +8082,83 @@
       "sha1": "2079008d01a47f020cee7f9749d1b51fa18d4679"
     },
     {
+      "name": "gbpressgazette-2022-07-26T21:36:28.681283-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658889395",
+      "size": "21180",
+      "md5": "5a3215cfcff1d09188747723880b3b4e",
+      "crc32": "ccccc865",
+      "sha1": "60d4980a3480d31928478da6e77d4658295ef770",
+      "format": "JSON"
+    },
+    {
+      "name": "gbpressgazette-2022-07-26T21:36:28.681283-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658889397",
+      "size": "34729",
+      "md5": "caecbc3ff0492c610336d1795d704270",
+      "crc32": "c6597101",
+      "sha1": "7482cf4c98462f021a0e57c93e1228fabeac051d",
+      "format": "JSON"
+    },
+    {
+      "name": "gbpressgazette-2022-07-26T21:36:28.681283-05:00.jpg",
+      "source": "original",
+      "mtime": "1658889390",
+      "size": "246434",
+      "md5": "d9869818d40eec68988799ecbc00f341",
+      "crc32": "758dc45a",
+      "sha1": "82d6884ee3e27b33d15cf0a74d9dfc554ba084a4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gbpressgazette-2022-07-26T21:36:28.681283-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658889398",
+      "size": "1585",
+      "md5": "a4c5b3e8adc6e8005c9d3fa088b191f3",
+      "crc32": "8a565b9d",
+      "sha1": "f5256d23ec8c57d4395062f52c9cbf66f86628ed",
+      "format": "JSON"
+    },
+    {
+      "name": "gbpressgazette-2022-07-26T21:36:28.681283-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gbpressgazette-2022-07-26T21:36:28.681283-05:00.jpg",
+      "mtime": "1658892159",
+      "size": "9271",
+      "md5": "3a33c12ed38b1b2ceb70e3efeb9a51f4",
+      "crc32": "574e07b7",
+      "sha1": "d61dad58d1cabbb1589fb7c7b041e2c4dc58f637"
+    },
+    {
       "name": "gbpressgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aeec234dbb9f4ace9739821038140466d4be9596",
-      "mtime": "1658856829",
-      "size": "167934",
-      "md5": "069faa7fcccd74ff527aaa93d7935fe1",
-      "crc32": "4783d020",
-      "sha1": "075bfc12bac80a809c6512f85d6c6308598ca7a4",
+      "btih": "7907c19a61de909e4f6988c27b63e2d68bd3c269",
+      "mtime": "1658892170",
+      "size": "169003",
+      "md5": "322b684177f7a5503f03fa8864ad7034",
+      "crc32": "e3a3c8c6",
+      "sha1": "15ba75f12ce11df3b8e450c066de8896e968ba4d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gbpressgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b849010f477e87fc6eb9bdad9e4b1714",
+      "md5": "99f75e1c8a5615a90aa8e25943d851bb",
       "summation": "md5"
     },
     {
       "name": "gbpressgazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658846095",
-      "size": "901120",
-      "md5": "69aa105aa61bbbd29042368ca13a6832",
-      "crc32": "d77fc0fc",
-      "sha1": "44613be8eebef0fcaa0a86bbdbbb85c70cfea364",
+      "mtime": "1658889402",
+      "size": "905216",
+      "md5": "8a1c933ec324b04ec5192f85edff1fb0",
+      "crc32": "47cf9f70",
+      "sha1": "7c370a9683e50bbdc83186b80ffbc8227e3e2bd0",
       "format": "Metadata"
     },
     {
@@ -8120,50 +8172,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 773,
+  "files_count": 778,
   "gbpressgazette-2022": [
     {
       "url": "https://www.greenbaypressgazette.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_greenbaypressgazette_com-_-2022_07_26_14_11_24.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_greenbaypressgazette_com-_-2022_07_26_14_11_24.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_greenbaypressgazette_com-_-2022_07_27_02_20_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_greenbaypressgazette_com-_-2022_07_27_02_20_21.report.json",
       "summary": {
-        "performance": 0.83,
-        "accessibility": 0.87,
+        "performance": 0.77,
+        "accessibility": 0.88,
         "best-practices": 0.92,
-        "seo": 0.92,
+        "seo": 0.93,
         "pwa": 0.3
       }
     },
     {
       "url": "https://www.greenbaypressgazette.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_greenbaypressgazette_com-_-2022_07_26_14_12_13.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_greenbaypressgazette_com-_-2022_07_26_14_12_13.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_greenbaypressgazette_com-_-2022_07_27_02_21_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_greenbaypressgazette_com-_-2022_07_27_02_21_49.report.json",
       "summary": {
-        "performance": 0.82,
-        "accessibility": 0.87,
+        "performance": 0.87,
+        "accessibility": 0.92,
         "best-practices": 0.92,
-        "seo": 0.92,
+        "seo": 0.93,
         "pwa": 0.3
       }
     },
     {
       "url": "https://www.greenbaypressgazette.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_greenbaypressgazette_com-_-2022_07_26_14_12_36.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_greenbaypressgazette_com-_-2022_07_26_14_12_36.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_greenbaypressgazette_com-_-2022_07_27_02_21_04.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_greenbaypressgazette_com-_-2022_07_27_02_21_04.report.json",
       "summary": {
-        "performance": 0.84,
-        "accessibility": 0.87,
+        "performance": 0.83,
+        "accessibility": 0.88,
         "best-practices": 0.92,
-        "seo": 0.92,
+        "seo": 0.93,
         "pwa": 0.3
       }
     }
   ],
-  "item_last_updated": 1658856829,
-  "item_size": 65384448,
+  "item_last_updated": 1658892170,
+  "item_size": 65702812,
   "metadata": {
     "identifier": "gbpressgazette-2022",
     "collection": [
@@ -8181,7 +8233,7 @@
     "addeddate": "2022-03-23 23:06:20"
   },
   "server": "ia902508.us.archive.org",
-  "uniq": 1808884551,
+  "uniq": 1037781464,
   "workable_servers": [
     "ia902508.us.archive.org",
     "ia802508.us.archive.org"

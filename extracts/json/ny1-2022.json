@@ -1,5 +1,5 @@
 {
-  "created": 1658881083,
+  "created": 1658913485,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/14/items/ny1-2022",
@@ -2165,21 +2165,32 @@
       "format": "JSON"
     },
     {
+      "name": "ny1-2022-07-26T20:17:04.785173-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ny1-2022-07-26T20:17:04.785173-04:00.jpg",
+      "mtime": "1658882786",
+      "size": "9882",
+      "md5": "216ee490111c9fd3677b84b86acf3a63",
+      "crc32": "cbdab979",
+      "sha1": "32e2c6788d0ef9042b48935a348b8e8893c7927e"
+    },
+    {
       "name": "ny1-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b1a9e415d18f52d691953b375bab010818d2abfd",
-      "mtime": "1658881077",
-      "size": "43839",
-      "md5": "0cd0e8e42bcf6f494ec90bbd71c7b196",
-      "crc32": "fd62745a",
-      "sha1": "2815dc0b0999265520d851816340089ef9f00a35",
+      "btih": "aa566dfb1fd02c5810ff99222e8938c4901473d5",
+      "mtime": "1658882791",
+      "size": "44038",
+      "md5": "ac30a25f264a2ab97f8842954c3eff95",
+      "crc32": "6640d582",
+      "sha1": "93760eaeea3d43728d30259305167e2b86e4c965",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ny1-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "82e540f956f8848ecaf34ad408f86a06",
+      "md5": "48f993daeb411b4d0379c72c68afdb9c",
       "summation": "md5"
     },
     {
@@ -2203,9 +2214,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 210,
-  "item_last_updated": 1658881077,
-  "item_size": 20278839,
+  "files_count": 211,
+  "item_last_updated": 1658882791,
+  "item_size": 20288920,
   "metadata": {
     "identifier": "ny1-2022",
     "collection": [
@@ -2222,21 +2233,10 @@
     "publicdate": "2022-07-04 21:49:52",
     "addeddate": "2022-07-04 21:49:52"
   },
-  "pending_tasks": true,
-  "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344778470,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 790980478,
+  "server": "ia801503.us.archive.org",
+  "uniq": 2131206342,
   "workable_servers": [
+    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

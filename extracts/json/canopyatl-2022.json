@@ -3,10 +3,10 @@
     {
       "url": "https://canopyatlanta.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/canopyatlanta_org-_-2022_07_26_13_03_28.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/canopyatlanta_org-_-2022_07_26_13_03_28.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/canopyatlanta_org-_-2022_07_27_01_03_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/canopyatlanta_org-_-2022_07_27_01_03_58.report.json",
       "summary": {
-        "performance": 0.29,
+        "performance": 0.2,
         "accessibility": 0.7,
         "best-practices": 0.83,
         "seo": 0.92,
@@ -16,10 +16,10 @@
     {
       "url": "https://canopyatlanta.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/canopyatlanta_org-_-2022_07_26_13_03_51.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/canopyatlanta_org-_-2022_07_26_13_03_51.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/canopyatlanta_org-_-2022_07_27_01_04_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/canopyatlanta_org-_-2022_07_27_01_04_53.report.json",
       "summary": {
-        "performance": 0.33,
+        "performance": 0.24,
         "accessibility": 0.7,
         "best-practices": 0.83,
         "seo": 0.92,
@@ -29,10 +29,10 @@
     {
       "url": "https://canopyatlanta.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/canopyatlanta_org-_-2022_07_26_13_04_11.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/canopyatlanta_org-_-2022_07_26_13_04_11.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/canopyatlanta_org-_-2022_07_27_01_04_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/canopyatlanta_org-_-2022_07_27_01_04_27.report.json",
       "summary": {
-        "performance": 0.33,
+        "performance": 0.25,
         "accessibility": 0.7,
         "best-practices": 0.83,
         "seo": 0.92,
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "created": 1658881328,
+  "created": 1658923672,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/canopyatl-2022",
@@ -1723,31 +1723,83 @@
       "sha1": "b24619a4f820f886de1b395c6edac2b1dfdad9f3"
     },
     {
+      "name": "canopyatl-2022-07-26T21:24:47.440778-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658885090",
+      "size": "6104",
+      "md5": "47d003f695e2644862f2500de3e86797",
+      "crc32": "fbdfba35",
+      "sha1": "a828897700d1a8fa74b1f25b1c6dc8026074f998",
+      "format": "JSON"
+    },
+    {
+      "name": "canopyatl-2022-07-26T21:24:47.440778-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658885092",
+      "size": "9869",
+      "md5": "629c8e80da36679a35736334a3db2bbe",
+      "crc32": "ca1d3b95",
+      "sha1": "08bdf350cb05306e8d4336d5027bae34809b55e7",
+      "format": "JSON"
+    },
+    {
+      "name": "canopyatl-2022-07-26T21:24:47.440778-04:00.jpg",
+      "source": "original",
+      "mtime": "1658885088",
+      "size": "207214",
+      "md5": "66850d38dcd5b16b46ce1068af1266e3",
+      "crc32": "c3e2a16e",
+      "sha1": "038b3502e33d1f6a187cd58c425762bc84abdecb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "canopyatl-2022-07-26T21:24:47.440778-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658885093",
+      "size": "1482",
+      "md5": "155cf1e04d3eb7b7086647511297d639",
+      "crc32": "cc5323a1",
+      "sha1": "7f51629ebbea9db83b9af5013cf7daccb83c4ad1",
+      "format": "JSON"
+    },
+    {
+      "name": "canopyatl-2022-07-26T21:24:47.440778-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "canopyatl-2022-07-26T21:24:47.440778-04:00.jpg",
+      "mtime": "1658886610",
+      "size": "9175",
+      "md5": "61ac7da582112d25beaa596f43aa1a87",
+      "crc32": "98fd4374",
+      "sha1": "b24619a4f820f886de1b395c6edac2b1dfdad9f3"
+    },
+    {
       "name": "canopyatl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4f6a98e21268ea03f08ad7b43bdffd1417424cf3",
-      "mtime": "1658854524",
-      "size": "35032",
-      "md5": "edeac511562ea99f14ca477d5f6b4ff8",
-      "crc32": "93460c13",
-      "sha1": "c86295c0b36852e281606fe2f9bd31095958085e",
+      "btih": "3dae7215fe3ba340b6d8f6ae4e1d5c7337ff44b9",
+      "mtime": "1658886630",
+      "size": "36074",
+      "md5": "0a0450004dadd68d8fc00da06bf0c034",
+      "crc32": "12067076",
+      "sha1": "7b6e6947bdec7a38b88473c62219675673ee66a1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "canopyatl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b06351456be3d0c930acbc72b93b06f",
+      "md5": "bb796dde52d034e586ceaa76246e0c55",
       "summation": "md5"
     },
     {
       "name": "canopyatl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658842009",
-      "size": "208896",
-      "md5": "c5f6c90824d99a075b667675ebaf2c49",
-      "crc32": "0a92fa81",
-      "sha1": "4ce8dddc7288df450faa14273d61a5ca702bfe18",
+      "mtime": "1658885096",
+      "size": "212992",
+      "md5": "4771ad2e6b9d7812472feb32bfa6e839",
+      "crc32": "ac68ba40",
+      "sha1": "2ab659e3f88009ec438fec66fe80dd2c194a05b7",
       "format": "Metadata"
     },
     {
@@ -1761,9 +1813,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 164,
-  "item_last_updated": 1658854524,
-  "item_size": 8984674,
+  "files_count": 169,
+  "item_last_updated": 1658886630,
+  "item_size": 9223656,
   "metadata": {
     "identifier": "canopyatl-2022",
     "collection": [
@@ -1781,7 +1833,7 @@
     "addeddate": "2022-07-09 03:56:21"
   },
   "server": "ia601405.us.archive.org",
-  "uniq": 1553293926,
+  "uniq": 130394352,
   "workable_servers": [
     "ia601405.us.archive.org",
     "ia801405.us.archive.org"

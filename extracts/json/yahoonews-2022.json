@@ -1,5 +1,5 @@
 {
-  "created": 1658882058,
+  "created": 1658924810,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/yahoonews-2022",
@@ -6014,31 +6014,83 @@
       "sha1": "c0d1a159c720f6603da674ae83adc936c93986e1"
     },
     {
+      "name": "yahoonews-2022-07-26T21:32:05.885278-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658885529",
+      "size": "40030",
+      "md5": "f640f5eda6f8bb04b02af7688710a08b",
+      "crc32": "a5cb14a8",
+      "sha1": "183d31ba2c334dc829fe1d0872331df65af9ff66",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-26T21:32:05.885278-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658885531",
+      "size": "19328",
+      "md5": "d8940ee6bbed69970be04340c898d390",
+      "crc32": "e8269baa",
+      "sha1": "40fd3433b01ce0f61e6e47b109ef2b3cf2609389",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-26T21:32:05.885278-04:00.jpg",
+      "source": "original",
+      "mtime": "1658885528",
+      "size": "327719",
+      "md5": "870e7b31b7adfb733d2e5c1544f727cd",
+      "crc32": "4d5369b5",
+      "sha1": "d641326d8ec10723169c13b1aebb52e2a0f0b2aa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-26T21:32:05.885278-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658885533",
+      "size": "1456",
+      "md5": "ca978382f565008f9ee618ca566296cb",
+      "crc32": "409fa11f",
+      "sha1": "273f98f0e2552abc81a9f95267bb3cb6e4cb7d82",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-26T21:32:05.885278-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-26T21:32:05.885278-04:00.jpg",
+      "mtime": "1658887052",
+      "size": "10036",
+      "md5": "5af288cf1da132c79ee3dbe50d155c50",
+      "crc32": "888cccd6",
+      "sha1": "8db93306917bed8b162a785a475072e3be3624be"
+    },
+    {
       "name": "yahoonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b1264012113262e097aa79b6745a94daff9ccd5f",
-      "mtime": "1658873033",
-      "size": "122964",
-      "md5": "f7e7b76860af1e13eadcd8dc45845077",
-      "crc32": "f602c785",
-      "sha1": "3571f0193efe3e0d5fd489b6418d12d444eb7815",
+      "btih": "b19a42b9545a6575266b4ead86194893a671bb12",
+      "mtime": "1658887103",
+      "size": "124029",
+      "md5": "b2a9f7deb515fff5daf2b1e9f83385cc",
+      "crc32": "8762b66f",
+      "sha1": "18807e02179eefb00213aca186e629db44f9789f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yahoonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9d457d4982c17402d5c60830fa143b5a",
+      "md5": "068f462df6803ffc17a942cdfa04b0b5",
       "summation": "md5"
     },
     {
       "name": "yahoonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658869938",
-      "size": "684032",
-      "md5": "857a3dadd75d2fd28d9757dcf7228ecf",
-      "crc32": "fe00bcdd",
-      "sha1": "0a9609d792c0dff39d278836f205e11e760e39ea",
+      "mtime": "1658885538",
+      "size": "688128",
+      "md5": "c6b68c663ec4bf0b1440e266acff1b7e",
+      "crc32": "2746e821",
+      "sha1": "f68e0d957e0f1a2d690151cd30ad0c622e354117",
       "format": "Metadata"
     },
     {
@@ -6052,9 +6104,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 577,
-  "item_last_updated": 1658873033,
-  "item_size": 54289034,
+  "files_count": 582,
+  "item_last_updated": 1658887103,
+  "item_size": 54692764,
   "metadata": {
     "identifier": "yahoonews-2022",
     "collection": [
@@ -6071,20 +6123,20 @@
     "publicdate": "2022-06-24 23:04:11",
     "addeddate": "2022-06-24 23:04:11"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 86077712,
+  "server": "ia801403.us.archive.org",
+  "uniq": 296328702,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ],
   "yahoonews-2022": [
     {
       "url": "https://news.yahoo.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_yahoo_com-_-2022_07_26_21_07_03.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_yahoo_com-_-2022_07_26_21_07_03.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_yahoo_com-_-2022_07_27_01_14_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_yahoo_com-_-2022_07_27_01_14_39.report.json",
       "summary": {
-        "performance": 0.43,
+        "performance": 0.42,
         "accessibility": 0.87,
         "best-practices": 0.92,
         "seo": 0.9,
@@ -6094,10 +6146,10 @@
     {
       "url": "https://news.yahoo.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_yahoo_com-_-2022_07_26_21_07_28.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_yahoo_com-_-2022_07_26_21_07_28.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_yahoo_com-_-2022_07_27_01_14_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_yahoo_com-_-2022_07_27_01_14_54.report.json",
       "summary": {
-        "performance": 0.47,
+        "performance": 0.39,
         "accessibility": 0.87,
         "best-practices": 0.92,
         "seo": 0.9,
@@ -6107,10 +6159,10 @@
     {
       "url": "https://news.yahoo.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_yahoo_com-_-2022_07_26_21_07_15.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_yahoo_com-_-2022_07_26_21_07_15.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_yahoo_com-_-2022_07_27_01_15_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_yahoo_com-_-2022_07_27_01_15_09.report.json",
       "summary": {
-        "performance": 0.48,
+        "performance": 0.35,
         "accessibility": 0.87,
         "best-practices": 0.92,
         "seo": 0.9,

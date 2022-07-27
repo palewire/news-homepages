@@ -1,5 +1,5 @@
 {
-  "created": 1658880972,
+  "created": 1658918614,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/0/items/natgeo-2022",
@@ -2007,21 +2007,32 @@
       "format": "JSON"
     },
     {
+      "name": "natgeo-2022-07-26T20:15:17.870599-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "natgeo-2022-07-26T20:15:17.870599-04:00.jpg",
+      "mtime": "1658882630",
+      "size": "10310",
+      "md5": "4505fb7fe7edcdd831aeaa8f65948639",
+      "crc32": "a4a365da",
+      "sha1": "666c16cf44a1d438c3e562772b765b5e9631165c"
+    },
+    {
       "name": "natgeo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c1f0a55baebc650d26a6a104731ab74c44e55abc",
-      "mtime": "1658880968",
-      "size": "41202",
-      "md5": "771c6ddf0843ffa7add02fef48f91771",
-      "crc32": "95384175",
-      "sha1": "79da9390ae74c2ee7d7ff3834485ed3917fed088",
+      "btih": "526dd272e8eee2c6c41be020835ddad23e852e01",
+      "mtime": "1658882654",
+      "size": "41405",
+      "md5": "2edaa070a8f0c758560866a6e96f4be1",
+      "crc32": "031a4c34",
+      "sha1": "13d28e511cc4c2d9636894b41c99bf3f0be26161",
       "format": "Archive BitTorrent"
     },
     {
       "name": "natgeo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2b056d059ca1d65447109166a765ec6e",
+      "md5": "84a587a782576437487cb9066ed64600",
       "summation": "md5"
     },
     {
@@ -2045,9 +2056,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 195,
-  "item_last_updated": 1658880968,
-  "item_size": 14544997,
+  "files_count": 196,
+  "item_last_updated": 1658882654,
+  "item_size": 14555510,
   "metadata": {
     "identifier": "natgeo-2022",
     "collection": [
@@ -2064,21 +2075,10 @@
     "publicdate": "2022-07-04 21:49:06",
     "addeddate": "2022-07-04 21:49:06"
   },
-  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344777286,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2041130346,
+  "uniq": 1749617519,
   "workable_servers": [
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

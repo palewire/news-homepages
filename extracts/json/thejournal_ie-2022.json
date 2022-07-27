@@ -1,5 +1,5 @@
 {
-  "created": 1658860277,
+  "created": 1658898073,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/14/items/thejournal_ie-2022",
@@ -832,31 +832,83 @@
       "sha1": "70756f46f61ac3c0b6d7cf5dee64b8810baa5c6e"
     },
     {
+      "name": "thejournal_ie-2022-07-27T04:56:25.310568+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658894190",
+      "size": "64079",
+      "md5": "eb719a774d80503ba51f623ef0711728",
+      "crc32": "585c9700",
+      "sha1": "85880802f433784b40ccbceb87c52ce30fa73422",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-07-27T04:56:25.310568+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658894191",
+      "size": "61147",
+      "md5": "f6b320c0b59a623fdcbe9604ac3c288d",
+      "crc32": "b8cd26b6",
+      "sha1": "d190d753c3460669d64bbd6283c782ce66efc3df",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-07-27T04:56:25.310568+01:00.jpg",
+      "source": "original",
+      "mtime": "1658894187",
+      "size": "311546",
+      "md5": "43aa59b4f169e97e11b2a1c5ccd3a57a",
+      "crc32": "2e987210",
+      "sha1": "1eca7b57dda17b2e097a56e12f40e434a8367858",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thejournal_ie-2022-07-27T04:56:25.310568+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658894193",
+      "size": "1486",
+      "md5": "bf5a90e717a040bb5adfd5a29f1bcdf6",
+      "crc32": "7ca27d1a",
+      "sha1": "11a2e99561536051be92570a0b2b1ee3056fb2c4",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-07-27T04:56:25.310568+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thejournal_ie-2022-07-27T04:56:25.310568+01:00.jpg",
+      "mtime": "1658898019",
+      "size": "9432",
+      "md5": "f7ff70f7f31585cda2679661e2358873",
+      "crc32": "34c6137e",
+      "sha1": "596f756297e522f7c5bad3bcb53dec55a0703f3a"
+    },
+    {
       "name": "thejournal_ie-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c1483977eb77513b1f4965b04d187b854c1a21eb",
-      "mtime": "1658860163",
-      "size": "18545",
-      "md5": "0f240c7560b2b417b649ea1f42879ccb",
-      "crc32": "01ef31ca",
-      "sha1": "e6e33e42b7c3331485324c652642fe55fa4e02c4",
+      "btih": "62551f131764e1be5788979277582fa482ca3e29",
+      "mtime": "1658898046",
+      "size": "19629",
+      "md5": "2ed30aa2ef6fc70faf6c9f7033a1d86d",
+      "crc32": "c93082d3",
+      "sha1": "5cd5a2b759af931dfe2f9c4abb8d8537f6991b82",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thejournal_ie-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "46729657f5fe966072e2365e206109e0",
+      "md5": "34757cef2904ae001d576e478b9847a9",
       "summation": "md5"
     },
     {
       "name": "thejournal_ie-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658850481",
-      "size": "110592",
-      "md5": "dd625a1f2bd54307aeacef0b0a71c7a5",
-      "crc32": "f115577c",
-      "sha1": "6ab9feb9369a583f6e81e1c275460226428476f9",
+      "mtime": "1658894196",
+      "size": "126976",
+      "md5": "bac73e28633613efa5953686a59ef1e4",
+      "crc32": "90f91375",
+      "sha1": "7de9764ab0e36408f899a6c5e70820cd73f5cdae",
       "format": "Metadata"
     },
     {
@@ -870,9 +922,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 83,
-  "item_last_updated": 1658860163,
-  "item_size": 7984883,
+  "files_count": 88,
+  "item_last_updated": 1658898046,
+  "item_size": 8450041,
   "metadata": {
     "identifier": "thejournal_ie-2022",
     "collection": [
@@ -889,10 +941,10 @@
     "publicdate": "2022-07-18 04:17:36",
     "addeddate": "2022-07-18 04:17:36"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 228381692,
+  "server": "ia902502.us.archive.org",
+  "uniq": 276875272,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

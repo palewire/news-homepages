@@ -1,5 +1,5 @@
 {
-  "created": 1658881272,
+  "created": 1658883127,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/29/items/savannahnow-2022",
@@ -643,21 +643,32 @@
       "format": "JSON"
     },
     {
+      "name": "savannahnow-2022-07-26T20:20:01.467240-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "savannahnow-2022-07-26T20:20:01.467240-04:00.jpg",
+      "mtime": "1658882920",
+      "size": "8914",
+      "md5": "ba5a14896286df0ec2a46a5b9ef86f13",
+      "crc32": "c3ed7f16",
+      "sha1": "6882539064e30b445491df4cbb0debf27be3df3f"
+    },
+    {
       "name": "savannahnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f98e1cf4d87d2f661d2f2e9954fa8b84626c1d90",
-      "mtime": "1658881267",
-      "size": "14444",
-      "md5": "0adc0da60a727165edc9f2196c12a489",
-      "crc32": "bcc733ff",
-      "sha1": "315a47e83c074ff38c7264b32e565376bc2c0074",
+      "btih": "17fb0f3a7000c337efc903c69b904bfc71781253",
+      "mtime": "1658882993",
+      "size": "14651",
+      "md5": "0dc43d3f18a7ecded154ae80cf6247bd",
+      "crc32": "3316ec1a",
+      "sha1": "48ad9be84bf405ec4c56539bc9419f26c683cf6f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "savannahnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7d5462588657b42434c77ee2493c017c",
+      "md5": "d120f66a1d05050ad8baccfc304fc681",
       "summation": "md5"
     },
     {
@@ -681,9 +692,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 65,
-  "item_last_updated": 1658881267,
-  "item_size": 4642994,
+  "files_count": 66,
+  "item_last_updated": 1658882993,
+  "item_size": 4652115,
   "metadata": {
     "identifier": "savannahnow-2022",
     "collection": [
@@ -700,21 +711,10 @@
     "publicdate": "2022-07-20 23:31:15",
     "addeddate": "2022-07-20 23:31:15"
   },
-  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344780260,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 497208054,
+  "uniq": 950637304,
   "workable_servers": [
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

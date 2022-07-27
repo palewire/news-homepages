@@ -1,5 +1,5 @@
 {
-  "created": 1658881143,
+  "created": 1658924354,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/17/items/ottumwacourier-2022",
@@ -3253,21 +3253,32 @@
       "format": "JSON"
     },
     {
+      "name": "ottumwacourier-2022-07-26T19:18:01.694762-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ottumwacourier-2022-07-26T19:18:01.694762-05:00.jpg",
+      "mtime": "1658882835",
+      "size": "10062",
+      "md5": "366f572471f473cbcd5fbdc59154ca00",
+      "crc32": "b23c30e2",
+      "sha1": "9f73f558e73a74f71d6e43d86d42a01c7b8ddb82"
+    },
+    {
       "name": "ottumwacourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dbfc82c1fb1b194995289bde216a70d006eafe48",
-      "mtime": "1658881140",
-      "size": "68188",
-      "md5": "1dee39948e61ac0437981819e7652930",
-      "crc32": "659e93b3",
-      "sha1": "38c7e55c8af3d16604a618fe390764bb12ef2cc9",
+      "btih": "604d102a376f69bb09d45af03e6784027ee2c958",
+      "mtime": "1658882870",
+      "size": "68399",
+      "md5": "a6e91a98c6fa6766030ebd8d552e4ed0",
+      "crc32": "f4dcc5f8",
+      "sha1": "6c97e9d4faa1f5740f77c894065b744bb2977ade",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ottumwacourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "08f959413c069ae5a1808a81429cba92",
+      "md5": "e860f3888f8ddfa2db9691c1569b0d6f",
       "summation": "md5"
     },
     {
@@ -3291,9 +3302,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 311,
-  "item_last_updated": 1658881140,
-  "item_size": 39021530,
+  "files_count": 312,
+  "item_last_updated": 1658882870,
+  "item_size": 39031803,
   "metadata": {
     "identifier": "ottumwacourier-2022",
     "collection": [
@@ -3310,21 +3321,51 @@
     "publicdate": "2022-06-24 22:59:27",
     "addeddate": "2022-06-24 22:59:27"
   },
-  "pending_tasks": true,
-  "server": "ia902501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "ottumwacourier-2022": [
     {
-      "task_id": 3344779081,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.ottumwacourier.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ottumwacourier_com-_-2022_07_27_00_01_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ottumwacourier_com-_-2022_07_27_00_01_50.report.json",
+      "summary": {
+        "performance": 0.09,
+        "accessibility": 0.72,
+        "best-practices": 0.83,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.ottumwacourier.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ottumwacourier_com-_-2022_07_27_00_03_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ottumwacourier_com-_-2022_07_27_00_03_07.report.json",
+      "summary": {
+        "performance": 0.12,
+        "accessibility": 0.72,
+        "best-practices": 0.67,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.ottumwacourier.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ottumwacourier_com-_-2022_07_27_00_04_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ottumwacourier_com-_-2022_07_27_00_04_25.report.json",
+      "summary": {
+        "performance": 0.12,
+        "accessibility": 0.72,
+        "best-practices": 0.83,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 597503033,
+  "server": "ia802501.us.archive.org",
+  "uniq": 1953885562,
   "workable_servers": [
+    "ia802501.us.archive.org",
     "ia902501.us.archive.org"
   ]
 }

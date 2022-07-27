@@ -1,5 +1,5 @@
 {
-  "created": 1658880793,
+  "created": 1658923876,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/17/items/hromadskeua-2022",
@@ -10989,21 +10989,32 @@
       "format": "JSON"
     },
     {
+      "name": "hromadskeua-2022-07-27T03:12:10.604643+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hromadskeua-2022-07-27T03:12:10.604643+03:00.jpg",
+      "mtime": "1658882406",
+      "size": "9481",
+      "md5": "c98a9e910d1a71890671245096d239ee",
+      "crc32": "a7dd7bb0",
+      "sha1": "8dffd03c55d7980dc295557a16a485578584f2c3"
+    },
+    {
       "name": "hromadskeua-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a5077fd7d381b71fb87bb96c6bd801aeefad0f26",
-      "mtime": "1658880790",
-      "size": "224938",
-      "md5": "dc692e626ea89fd2edb512d07206db65",
-      "crc32": "f16821d2",
-      "sha1": "de07aa47b2c1805c5da67f5f7df4c9094e88fa2f",
+      "btih": "98cc454e18afe3b4d7c567b5602937adbeffcdd9",
+      "mtime": "1658882421",
+      "size": "225165",
+      "md5": "5fa4ba5d0e9e154f6fcf28c91a75ad0d",
+      "crc32": "28e01d01",
+      "sha1": "5be3bfb7c47e8179dba9cb2f308c075154a69dfc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hromadskeua-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6271f7b26b280868870ab9cbf176aa77",
+      "md5": "60d71e889d84f6c3ba70cf387fed9f94",
       "summation": "md5"
     },
     {
@@ -11027,9 +11038,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1049,
-  "item_last_updated": 1658880790,
-  "item_size": 101933140,
+  "files_count": 1050,
+  "hromadskeua-2022": [
+    {
+      "url": "https://hromadske.ua/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hromadske_ua-_-2022_07_26_23_50_14.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hromadske_ua-_-2022_07_26_23_50_14.report.json",
+      "summary": {
+        "performance": 0.37,
+        "accessibility": 0.84,
+        "best-practices": 0.92,
+        "seo": 1,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://hromadske.ua/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hromadske_ua-_-2022_07_26_23_50_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hromadske_ua-_-2022_07_26_23_50_26.report.json",
+      "summary": {
+        "performance": 0.43,
+        "accessibility": 0.84,
+        "best-practices": 0.92,
+        "seo": 1,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://hromadske.ua/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hromadske_ua-_-2022_07_26_23_50_38.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hromadske_ua-_-2022_07_26_23_50_38.report.json",
+      "summary": {
+        "performance": 0.38,
+        "accessibility": 0.84,
+        "best-practices": 0.92,
+        "seo": 1,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "item_last_updated": 1658882421,
+  "item_size": 101942848,
   "metadata": {
     "identifier": "hromadskeua-2022",
     "collection": [
@@ -11046,21 +11098,10 @@
     "publicdate": "2022-03-23 17:49:24",
     "addeddate": "2022-03-23 17:49:24"
   },
-  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344775340,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 656842056,
+  "uniq": 1041449877,
   "workable_servers": [
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658878889,
+  "created": 1658919800,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/19/items/blackbygodwv-2022",
@@ -1556,31 +1556,72 @@
       "sha1": "f51a348647419ae453af0d56a3fe29979d7a3990"
     },
     {
+      "name": "blackbygodwv-2022-07-27T07:02:31.289421-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658919755",
+      "size": "12510",
+      "md5": "e1f0e8cbd9030cdc51e8d0854bf81902",
+      "crc32": "3b3f734c",
+      "sha1": "f6eeed87565c019069856807c373ebbb4a0a02db",
+      "format": "JSON"
+    },
+    {
+      "name": "blackbygodwv-2022-07-27T07:02:31.289421-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658919757",
+      "size": "4879",
+      "md5": "be3347c771945b5c21b24e647b61a343",
+      "crc32": "5f4cec7f",
+      "sha1": "8da6e94aa9d8cd165f625004070d846a6224d167",
+      "format": "JSON"
+    },
+    {
+      "name": "blackbygodwv-2022-07-27T07:02:31.289421-04:00.jpg",
+      "source": "original",
+      "mtime": "1658919753",
+      "size": "244865",
+      "md5": "ef6a8ef935e2f855333d9bcfa3fbea0c",
+      "crc32": "c9e5be1b",
+      "sha1": "50e8c688907d0a0cc7432d24f8c72aeba641c75b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blackbygodwv-2022-07-27T07:02:31.289421-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658919759",
+      "size": "1447",
+      "md5": "c896b5d2f7a5a46724312658036e06a6",
+      "crc32": "88369a6f",
+      "sha1": "8dcd6b1deed89ae7e250439d3514de360e7aed12",
+      "format": "JSON"
+    },
+    {
       "name": "blackbygodwv-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9c837d772f61d7b76a3b1ac258f5bcc4dd362c19",
-      "mtime": "1658878853",
-      "size": "33022",
-      "md5": "65aa8c56c67126548cb508faf1d161f1",
-      "crc32": "e68a3d8d",
-      "sha1": "d7810fa5bbae755572b6935f8fa290b0f9a2cf49",
+      "btih": "53d98f8a18515740f76b8561de162daea796f7c7",
+      "mtime": "1658919798",
+      "size": "33892",
+      "md5": "213a49057f6f0d69cca5a06f773cfd67",
+      "crc32": "51f4e7c4",
+      "sha1": "a8a5a078fcd2bcc5c5638dee50342b62498ac53a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blackbygodwv-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5559c2d405cf36bf61b9250d89496414",
+      "md5": "bc2b15f860f036b46e43b8269c8c230d",
       "summation": "md5"
     },
     {
       "name": "blackbygodwv-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658876725",
-      "size": "196608",
-      "md5": "0a530cd141c9bfc8faf9b22668ccaefb",
-      "crc32": "3c92dc73",
-      "sha1": "5d0fcd3022ffcefa243a3ab6daf7b883c41a18ad",
+      "mtime": "1658919763",
+      "size": "200704",
+      "md5": "349475cbbb543f04c97fbd43963d07db",
+      "crc32": "988ff0bc",
+      "sha1": "1a73362faf1c6bbc587f51ba5250ccffd2f5a7bf",
       "format": "Metadata"
     },
     {
@@ -1594,9 +1635,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 152,
-  "item_last_updated": 1658878853,
-  "item_size": 8919045,
+  "files_count": 156,
+  "item_last_updated": 1658919798,
+  "item_size": 9187712,
   "metadata": {
     "identifier": "blackbygodwv-2022",
     "collection": [
@@ -1613,10 +1654,21 @@
     "publicdate": "2022-07-10 15:40:03",
     "addeddate": "2022-07-10 15:40:03"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 334011704,
+  "pending_tasks": true,
+  "server": "ia902502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3345204421,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1366217206,
   "workable_servers": [
-    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

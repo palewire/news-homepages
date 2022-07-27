@@ -1,5 +1,5 @@
 {
-  "created": 1658881209,
+  "created": 1658924362,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/pajaropolitico-2022",
@@ -19269,21 +19269,32 @@
       "format": "JSON"
     },
     {
+      "name": "pajaropolitico-2022-07-26T19:18:00.356234-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-07-26T19:18:00.356234-05:00.jpg",
+      "mtime": "1658883035",
+      "size": "10166",
+      "md5": "e607632d211d603c9115632254c70af3",
+      "crc32": "65293663",
+      "sha1": "be7c9ffc21a481885d7e9e74ead369d2c1d00257"
+    },
+    {
       "name": "pajaropolitico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7afb1941227a8777fc67ade906ca3b3fad91ba27",
-      "mtime": "1658881202",
-      "size": "398457",
-      "md5": "5cca8513541ecdcb4702f8729436e6e5",
-      "crc32": "75cc936c",
-      "sha1": "de411c0af3a5595f81a7d2e1b92001a848a35041",
+      "btih": "d136e378415f8c181b00c1faf901b0b556485a9b",
+      "mtime": "1658883085",
+      "size": "398668",
+      "md5": "1171a911d7c5d78ce03ac120ea49487b",
+      "crc32": "51c2393d",
+      "sha1": "f31b83c64bec2e28fbc9ba77cb51be772a52f57f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pajaropolitico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "68f4e1f97fe1c6d0988c727ec8294cd3",
+      "md5": "cb3827494a6c796a939382c771cd4a72",
       "summation": "md5"
     },
     {
@@ -19307,9 +19318,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1839,
-  "item_last_updated": 1658881202,
-  "item_size": 147298653,
+  "files_count": 1840,
+  "item_last_updated": 1658883085,
+  "item_size": 147309030,
   "metadata": {
     "identifier": "pajaropolitico-2022",
     "collection": [
@@ -19326,21 +19337,51 @@
     "publicdate": "2022-04-15 20:41:09",
     "addeddate": "2022-04-15 20:41:09"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "pajaropolitico-2022": [
     {
-      "task_id": 3344779676,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.animalpolitico.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_animalpolitico_com-_-2022_07_27_00_01_35.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_animalpolitico_com-_-2022_07_27_00_01_35.report.json",
+      "summary": {
+        "performance": 0.05,
+        "accessibility": 0.8,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.animalpolitico.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_animalpolitico_com-_-2022_07_27_00_02_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_animalpolitico_com-_-2022_07_27_00_02_05.report.json",
+      "summary": {
+        "performance": 0.09,
+        "accessibility": 0.8,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.animalpolitico.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_animalpolitico_com-_-2022_07_27_00_02_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_animalpolitico_com-_-2022_07_27_00_02_34.report.json",
+      "summary": {
+        "performance": 0.09,
+        "accessibility": 0.8,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.6
+      }
     }
   ],
-  "uniq": 1300299676,
+  "server": "ia802505.us.archive.org",
+  "uniq": 1826205734,
   "workable_servers": [
+    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658881117,
+  "created": 1658882776,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/22/items/openvallejo-2022",
@@ -2007,21 +2007,32 @@
       "format": "JSON"
     },
     {
+      "name": "openvallejo-2022-07-26T17:17:44.280619-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "openvallejo-2022-07-26T17:17:44.280619-07:00.jpg",
+      "mtime": "1658882752",
+      "size": "10990",
+      "md5": "48817ed6723b4167b3d356fec52fd6f3",
+      "crc32": "4c8c3beb",
+      "sha1": "e5dbd58a363a74f2e5786f93f5520b6b33991a93"
+    },
+    {
       "name": "openvallejo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3d8d3a30d4605585fadfd0ccb72ebe8c0123f278",
-      "mtime": "1658881113",
-      "size": "42246",
-      "md5": "b126f1ae5e710379827c3409e9e127af",
-      "crc32": "d0a71d60",
-      "sha1": "ea5a1c110efa8af41be54cf3280d3bf8033923c1",
+      "btih": "d14aa8b28d22e90ef39fbde53a3451d115db0dd8",
+      "mtime": "1658882757",
+      "size": "42454",
+      "md5": "f34dd7dff6bb5695efd5bb7f1b751e77",
+      "crc32": "663cde5a",
+      "sha1": "622678966928d046fa0b929af47f98e92c937e93",
       "format": "Archive BitTorrent"
     },
     {
       "name": "openvallejo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fdcd979a50e64b0484df7f0cbb8f70c8",
+      "md5": "5252b84969fa0b000e7197e89cd03c26",
       "summation": "md5"
     },
     {
@@ -2045,9 +2056,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 195,
-  "item_last_updated": 1658881113,
-  "item_size": 15559032,
+  "files_count": 196,
+  "item_last_updated": 1658882757,
+  "item_size": 15570230,
   "metadata": {
     "identifier": "openvallejo-2022",
     "collection": [
@@ -2064,21 +2075,10 @@
     "publicdate": "2022-07-09 04:01:53",
     "addeddate": "2022-07-09 04:01:53"
   },
-  "pending_tasks": true,
   "server": "ia902503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3344778799,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2113755286,
+  "uniq": 818577915,
   "workable_servers": [
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

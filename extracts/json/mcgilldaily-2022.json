@@ -1,5 +1,5 @@
 {
-  "created": 1658856952,
+  "created": 1658892302,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/10/items/mcgilldaily-2022",
@@ -172,31 +172,83 @@
       "sha1": "a10b563ef790528a03108f692d2734dfe8625f4b"
     },
     {
+      "name": "mcgilldaily-2022-07-26T22:41:07.272253-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658889670",
+      "size": "15074",
+      "md5": "c2f1a9e3fcc83eefd4e1d76ac830e9b3",
+      "crc32": "4852707b",
+      "sha1": "1e4c772383d633c2e9703afebfb0583dfe7210b8",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-07-26T22:41:07.272253-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658889672",
+      "size": "13802",
+      "md5": "077aa2dded0d4ff3aa8832266f07d518",
+      "crc32": "5d4ffc57",
+      "sha1": "7e0ad152509ed4250d1ee4a9245ba3dd6e52fe59",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-07-26T22:41:07.272253-04:00.jpg",
+      "source": "original",
+      "mtime": "1658889669",
+      "size": "244910",
+      "md5": "d13d28572281ed3be95770416d9b6118",
+      "crc32": "491ab882",
+      "sha1": "ef95ca8bbd2ec1880bfa33fae98a6d72f88d229a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mcgilldaily-2022-07-26T22:41:07.272253-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658889673",
+      "size": "1495",
+      "md5": "bb086560bba98bb79dc75abe3fb2b663",
+      "crc32": "b5d4f55c",
+      "sha1": "9c480f1a12f7901acfcbb089f53e322e82986dce",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-07-26T22:41:07.272253-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mcgilldaily-2022-07-26T22:41:07.272253-04:00.jpg",
+      "mtime": "1658892287",
+      "size": "9373",
+      "md5": "720fb12533a041646202b880d2a998db",
+      "crc32": "ab197f32",
+      "sha1": "f3abada1905b8b7331c2cdae0e12b318a36ecd7d"
+    },
+    {
       "name": "mcgilldaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1f325c3987b12d9412d353c95d063d024c93b172",
-      "mtime": "1658856935",
-      "size": "4835",
-      "md5": "bf664cdbfff4b39516cd23f184838303",
-      "crc32": "5e4abb80",
-      "sha1": "82b5e51223b575a58660de5ef82a62d769491483",
+      "btih": "abfb2e84da1f0ed9c6662e5f6fdda2be4108ec94",
+      "mtime": "1658892289",
+      "size": "5909",
+      "md5": "5886a0885267fbed70b7cf70d9f91118",
+      "crc32": "bdba62bd",
+      "sha1": "bdf92582c96e07ca062d6b38827ec61bf6cf91c1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mcgilldaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "66944d0eda5e09b96c0c3018bcaee8a9",
+      "md5": "573b55bb86a0faf760408dbacee8cbb3",
       "summation": "md5"
     },
     {
       "name": "mcgilldaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658846420",
-      "size": "36864",
-      "md5": "87288eb7b25ed522e641d5ac9dede605",
-      "crc32": "e108de1f",
-      "sha1": "86564b458f1c50e1f910f971c3210fb4c54955da",
+      "mtime": "1658889679",
+      "size": "45056",
+      "md5": "628165fbec1171f1f3357cd0aff1cecd",
+      "crc32": "38d76d9e",
+      "sha1": "a05545492347cad0465378157236d310462e7d5d",
       "format": "Metadata"
     },
     {
@@ -210,9 +262,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 20,
-  "item_last_updated": 1658856935,
-  "item_size": 937815,
+  "files_count": 25,
+  "item_last_updated": 1658892289,
+  "item_size": 1231735,
   "metadata": {
     "identifier": "mcgilldaily-2022",
     "collection": [
@@ -229,10 +281,10 @@
     "publicdate": "2022-07-25 21:24:37",
     "addeddate": "2022-07-25 21:24:37"
   },
-  "server": "ia601503.us.archive.org",
-  "uniq": 185376288,
+  "server": "ia801503.us.archive.org",
+  "uniq": 252732485,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia801503.us.archive.org",
+    "ia601503.us.archive.org"
   ]
 }
