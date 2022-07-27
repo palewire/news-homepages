@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 213 screenshots with the Internet Archive.
+The archiving routine has saved 215 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-27T01:02:11.021241+02:00.jpg">
-  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-07-27T01:02:11.021241+02:00.jpg"
-     alt="20 Minutes at 2022-07-27 01:02:16+02:00 local time"
+ <a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-27T13:00:13.686775+02:00.jpg">
+  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-07-27T13:00:13.686775+02:00.jpg"
+     alt="20 Minutes at 2022-07-27 20:00:19+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-27T01:02:11.021241+02:00.jpg">July 27 at 1:02 AM</a></p>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-27T13:00:13.686775+02:00.jpg">July 27 at 8:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-27T10:13:01.993454+02:00.jpg">
+  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-07-27T10:13:01.993454+02:00.jpg"
+     alt="20 Minutes at 2022-07-27 17:13:06+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-27T10:13:01.993454+02:00.jpg">July 27 at 5:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-27T01:02:11.021241+02:00.jpg">
+  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-07-27T01:02:11.021241+02:00.jpg"
+     alt="20 Minutes at 2022-07-27 08:02:16+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-27T01:02:11.021241+02:00.jpg">July 27 at 8:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-26T13:09:49.544820+02:00.jpg">
   <img src="https://archive.org/download/20minutes-2022/20minutes-2022-07-26T13:09:49.544820+02:00.jpg"
-     alt="20 Minutes at 2022-07-26 13:09:51+02:00 local time"
+     alt="20 Minutes at 2022-07-26 20:09:51+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-26T13:09:49.544820+02:00.jpg">July 26 at 1:09 PM</a></p>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-26T13:09:49.544820+02:00.jpg">July 26 at 8:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-26T10:09:35.869933+02:00.jpg">
   <img src="https://archive.org/download/20minutes-2022/20minutes-2022-07-26T10:09:35.869933+02:00.jpg"
-     alt="20 Minutes at 2022-07-26 10:09:40+02:00 local time"
+     alt="20 Minutes at 2022-07-26 17:09:40+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-26T10:09:35.869933+02:00.jpg">July 26 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-26T10:09:35.869933+02:00.jpg">July 26 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-26T01:05:09.337524+02:00.jpg">
   <img src="https://archive.org/download/20minutes-2022/20minutes-2022-07-26T01:05:09.337524+02:00.jpg"
-     alt="20 Minutes at 2022-07-26 01:05:13+02:00 local time"
+     alt="20 Minutes at 2022-07-26 08:05:13+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-26T01:05:09.337524+02:00.jpg">July 26 at 1:05 AM</a></p>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-26T01:05:09.337524+02:00.jpg">July 26 at 8:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-25T12:55:56.989468+02:00.jpg">
   <img src="https://archive.org/download/20minutes-2022/20minutes-2022-07-25T12:55:56.989468+02:00.jpg"
-     alt="20 Minutes at 2022-07-25 12:56:06+02:00 local time"
+     alt="20 Minutes at 2022-07-25 19:56:06+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-25T12:55:56.989468+02:00.jpg">July 25 at 12:56 PM</a></p>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-25T12:55:56.989468+02:00.jpg">July 25 at 7:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-25T10:09:15.950883+02:00.jpg">
   <img src="https://archive.org/download/20minutes-2022/20minutes-2022-07-25T10:09:15.950883+02:00.jpg"
-     alt="20 Minutes at 2022-07-25 10:09:21+02:00 local time"
+     alt="20 Minutes at 2022-07-25 17:09:21+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-25T10:09:15.950883+02:00.jpg">July 25 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-25T10:09:15.950883+02:00.jpg">July 25 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-25T02:44:46.829224+02:00.jpg">
   <img src="https://archive.org/download/20minutes-2022/20minutes-2022-07-25T02:44:46.829224+02:00.jpg"
-     alt="20 Minutes at 2022-07-25 02:44:50+02:00 local time"
+     alt="20 Minutes at 2022-07-25 09:44:50+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-25T02:44:46.829224+02:00.jpg">July 25 at 2:44 AM</a></p>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-25T02:44:46.829224+02:00.jpg">July 25 at 9:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-24T12:55:13.646309+02:00.jpg">
   <img src="https://archive.org/download/20minutes-2022/20minutes-2022-07-24T12:55:13.646309+02:00.jpg"
-     alt="20 Minutes at 2022-07-24 12:55:20+02:00 local time"
+     alt="20 Minutes at 2022-07-24 19:55:20+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-24T12:55:13.646309+02:00.jpg">July 24 at 12:55 PM</a></p>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-24T12:55:13.646309+02:00.jpg">July 24 at 7:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-24T10:10:20.705877+02:00.jpg">
   <img src="https://archive.org/download/20minutes-2022/20minutes-2022-07-24T10:10:20.705877+02:00.jpg"
-     alt="20 Minutes at 2022-07-24 10:10:36+02:00 local time"
+     alt="20 Minutes at 2022-07-24 17:10:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-24T10:10:20.705877+02:00.jpg">July 24 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-24T10:10:20.705877+02:00.jpg">July 24 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-24T00:57:37.399411+02:00.jpg">
   <img src="https://archive.org/download/20minutes-2022/20minutes-2022-07-24T00:57:37.399411+02:00.jpg"
-     alt="20 Minutes at 2022-07-24 00:57:45+02:00 local time"
+     alt="20 Minutes at 2022-07-24 07:57:45+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-24T00:57:37.399411+02:00.jpg">July 24 at 12:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-23T14:54:17.154962+02:00.jpg">
-  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-07-23T14:54:17.154962+02:00.jpg"
-     alt="20 Minutes at 2022-07-23 14:54:19+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-23T14:54:17.154962+02:00.jpg">July 23 at 2:54 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-23T10:06:48.066051+02:00.jpg">
-  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-07-23T10:06:48.066051+02:00.jpg"
-     alt="20 Minutes at 2022-07-23 10:06:49+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-23T10:06:48.066051+02:00.jpg">July 23 at 10:06 AM</a></p>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-07-24T00:57:37.399411+02:00.jpg">July 24 at 7:57 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 213 hyperlink lists with the Internet Archive.
+The archiving routine has saved 215 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 1:02 AM](https://archive.org/download/20minutes-2022/20minutes-2022-07-27T01:02:11.021241+02:00.hyperlinks.json) |
-| [July 26 at 1:09 PM](https://archive.org/download/20minutes-2022/20minutes-2022-07-26T13:09:49.544820+02:00.hyperlinks.json) |
-| [July 26 at 10:09 AM](https://archive.org/download/20minutes-2022/20minutes-2022-07-26T10:09:35.869933+02:00.hyperlinks.json) |
-| [July 26 at 1:05 AM](https://archive.org/download/20minutes-2022/20minutes-2022-07-26T01:05:09.337524+02:00.hyperlinks.json) |
-| [July 25 at 12:56 PM](https://archive.org/download/20minutes-2022/20minutes-2022-07-25T12:55:56.989468+02:00.hyperlinks.json) |
-| [July 25 at 10:09 AM](https://archive.org/download/20minutes-2022/20minutes-2022-07-25T10:09:15.950883+02:00.hyperlinks.json) |
-| [July 25 at 2:44 AM](https://archive.org/download/20minutes-2022/20minutes-2022-07-25T02:44:46.829224+02:00.hyperlinks.json) |
-| [July 24 at 12:55 PM](https://archive.org/download/20minutes-2022/20minutes-2022-07-24T12:55:13.646309+02:00.hyperlinks.json) |
-| [July 24 at 10:10 AM](https://archive.org/download/20minutes-2022/20minutes-2022-07-24T10:10:20.705877+02:00.hyperlinks.json) |
-| [July 24 at 12:57 AM](https://archive.org/download/20minutes-2022/20minutes-2022-07-24T00:57:37.399411+02:00.hyperlinks.json) |
+| [July 27 at 8:00 PM](https://archive.org/download/20minutes-2022/20minutes-2022-07-27T13:00:13.686775+02:00.hyperlinks.json) |
+| [July 27 at 5:13 PM](https://archive.org/download/20minutes-2022/20minutes-2022-07-27T10:13:01.993454+02:00.hyperlinks.json) |
+| [July 27 at 8:02 AM](https://archive.org/download/20minutes-2022/20minutes-2022-07-27T01:02:11.021241+02:00.hyperlinks.json) |
+| [July 26 at 8:09 PM](https://archive.org/download/20minutes-2022/20minutes-2022-07-26T13:09:49.544820+02:00.hyperlinks.json) |
+| [July 26 at 5:09 PM](https://archive.org/download/20minutes-2022/20minutes-2022-07-26T10:09:35.869933+02:00.hyperlinks.json) |
+| [July 26 at 8:05 AM](https://archive.org/download/20minutes-2022/20minutes-2022-07-26T01:05:09.337524+02:00.hyperlinks.json) |
+| [July 25 at 7:56 PM](https://archive.org/download/20minutes-2022/20minutes-2022-07-25T12:55:56.989468+02:00.hyperlinks.json) |
+| [July 25 at 5:09 PM](https://archive.org/download/20minutes-2022/20minutes-2022-07-25T10:09:15.950883+02:00.hyperlinks.json) |
+| [July 25 at 9:44 AM](https://archive.org/download/20minutes-2022/20minutes-2022-07-25T02:44:46.829224+02:00.hyperlinks.json) |
+| [July 24 at 7:55 PM](https://archive.org/download/20minutes-2022/20minutes-2022-07-24T12:55:13.646309+02:00.hyperlinks.json) |
 
 
 ## Internet Archive

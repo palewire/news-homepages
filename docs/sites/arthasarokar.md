@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 6 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
@@ -29,64 +29,73 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T19:08:57.912079+05:45.jpg">
-  <img src="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T19:08:57.912079+05:45.jpg"
-     alt="Artha Sarokar at 2022-07-26 19:08:59+05:45 local time"
+ <a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-27T07:07:44.586604+05:45.jpg">
+  <img src="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-27T07:07:44.586604+05:45.jpg"
+     alt="Artha Sarokar at 2022-07-27 14:07:46+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T19:08:57.912079+05:45.jpg">July 26 at 7:08 PM</a></p>
+ <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-27T07:07:44.586604+05:45.jpg">July 27 at 2:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T19:08:57.912079+05:45.jpg">
+  <img src="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T19:08:57.912079+05:45.jpg"
+     alt="Artha Sarokar at 2022-07-27 02:08:59+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T19:08:57.912079+05:45.jpg">July 27 at 2:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T08:40:27.984823+05:45.jpg">
   <img src="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T08:40:27.984823+05:45.jpg"
-     alt="Artha Sarokar at 2022-07-26 08:40:29+05:45 local time"
+     alt="Artha Sarokar at 2022-07-26 15:40:29+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T08:40:27.984823+05:45.jpg">July 26 at 8:40 AM</a></p>
+ <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T08:40:27.984823+05:45.jpg">July 26 at 3:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T07:15:00.757245+05:45.jpg">
   <img src="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T07:15:00.757245+05:45.jpg"
-     alt="Artha Sarokar at 2022-07-26 07:15:02+05:45 local time"
+     alt="Artha Sarokar at 2022-07-26 14:15:02+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T07:15:00.757245+05:45.jpg">July 26 at 7:15 AM</a></p>
+ <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T07:15:00.757245+05:45.jpg">July 26 at 2:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T16:42:50.781619+05:45.jpg">
   <img src="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T16:42:50.781619+05:45.jpg"
-     alt="Artha Sarokar at 2022-07-25 16:42:52+05:45 local time"
+     alt="Artha Sarokar at 2022-07-25 23:42:52+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T16:42:50.781619+05:45.jpg">July 25 at 4:42 PM</a></p>
+ <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T16:42:50.781619+05:45.jpg">July 25 at 11:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T06:32:00.383217+05:45.jpg">
   <img src="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T06:32:00.383217+05:45.jpg"
-     alt="Artha Sarokar at 2022-07-25 06:32:02+05:45 local time"
+     alt="Artha Sarokar at 2022-07-25 13:32:02+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T06:32:00.383217+05:45.jpg">July 25 at 6:32 AM</a></p>
+ <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T06:32:00.383217+05:45.jpg">July 25 at 1:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T02:21:29.135132+05:45.jpg">
   <img src="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T02:21:29.135132+05:45.jpg"
-     alt="Artha Sarokar at 2022-07-25 02:21:35+05:45 local time"
+     alt="Artha Sarokar at 2022-07-25 09:21:35+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T02:21:29.135132+05:45.jpg">July 25 at 2:21 AM</a></p>
+ <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T02:21:29.135132+05:45.jpg">July 25 at 9:21 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 6 hyperlink lists with the Internet Archive.
+The archiving routine has saved 7 hyperlink lists with the Internet Archive.
 
 
 
@@ -94,12 +103,13 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 26 at 7:09 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T19:08:57.912079+05:45.hyperlinks.json) |
-| [July 26 at 8:40 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T08:40:27.984823+05:45.hyperlinks.json) |
-| [July 26 at 7:15 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T07:15:00.757245+05:45.hyperlinks.json) |
-| [July 25 at 4:42 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T16:42:50.781619+05:45.hyperlinks.json) |
-| [July 25 at 6:32 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T06:32:00.383217+05:45.hyperlinks.json) |
-| [July 25 at 2:21 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T02:21:29.135132+05:45.hyperlinks.json) |
+| [July 27 at 2:07 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-27T07:07:44.586604+05:45.hyperlinks.json) |
+| [July 27 at 2:09 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T19:08:57.912079+05:45.hyperlinks.json) |
+| [July 26 at 3:40 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T08:40:27.984823+05:45.hyperlinks.json) |
+| [July 26 at 2:15 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T07:15:00.757245+05:45.hyperlinks.json) |
+| [July 25 at 11:42 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T16:42:50.781619+05:45.hyperlinks.json) |
+| [July 25 at 1:32 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T06:32:00.383217+05:45.hyperlinks.json) |
+| [July 25 at 9:21 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T02:21:29.135132+05:45.hyperlinks.json) |
 
 
 ## Internet Archive

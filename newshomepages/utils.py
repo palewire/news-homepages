@@ -110,6 +110,27 @@ def get_sites_in_bundle(slug: str) -> typing.List[typing.Dict]:
     return [s for s in site_list if bundle["slug"] in s["bundle_list"]]
 
 
+def get_accessibility_list() -> typing.List[typing.Dict[str, typing.Any]]:
+    """Get the full list of accessibility from our extracts.
+
+    Returns a list of dictionaries.
+    """
+    # Open the screenshot list
+    with open(EXTRACT_DIR / "csv" / "accessibility-files.csv") as fh:
+        obj_list: typing.List[typing.Dict[str, typing.Any]] = list(csv.DictReader(fh))
+
+    # Convert the timestamps to Python datetime objects
+    for obj in obj_list:
+        dt = datetime.strptime(obj["mtime"], "%Y-%m-%d %H:%M:%S")
+        obj["mtime"] = dt.astimezone(pytz.utc)
+
+    # Sort it reverse chron
+    sorted_list = sorted(obj_list, key=lambda x: x["mtime"], reverse=True)
+
+    # Return it
+    return sorted_list
+
+
 def get_screenshot_list() -> typing.List[typing.Dict[str, typing.Any]]:
     """Get the full list of screenshots from our extracts.
 

@@ -96,6 +96,7 @@ def site_detail():
     csv_dir = utils.EXTRACT_DIR / "csv"
     screenshot_list = utils.get_screenshot_list()
     hyperlink_list = utils.get_hyperlink_list()
+    accessibility_list = utils.get_accessibility_list()
     item_list = list(csv.DictReader(open(csv_dir / "items.csv")))
 
     # For each site ...
@@ -128,6 +129,28 @@ def site_detail():
             hyperlinks, key=lambda x: x["mtime"], reverse=True
         )[:10]
 
+        # Set the local time
+        site_tz = pytz.timezone(site["timezone"])
+        for s in most_recent_hyperlinks:
+            s["local_time"] = s["local_time"] = s["mtime"].astimezone(site_tz)
+
+        # Get the accessibility for this site
+        accessibility = [
+            h
+            for h in accessibility_list
+            if h["handle"].lower() == site["handle"].lower()
+        ]
+
+        # Get most 10 recent accessibility
+        most_recent_accessibility = sorted(
+            accessibility, key=lambda x: x["mtime"], reverse=True
+        )[:10]
+
+        # Set the local time
+        site_tz = pytz.timezone(site["timezone"])
+        for s in most_recent_accessibility:
+            s["local_time"] = s["local_time"] = s["mtime"].astimezone(site_tz)
+
         # Render the template
         context = {
             "site": site,
@@ -135,6 +158,8 @@ def site_detail():
             "most_recent_screenshots": most_recent_screenshots,
             "hyperlinks": len(hyperlinks),
             "most_recent_hyperlinks": most_recent_hyperlinks,
+            "accessibility": len(accessibility),
+            "most_recent_accessibility": most_recent_accessibility,
             "items": [
                 i for i in item_list if i["handle"].lower() == site["handle"].lower()
             ],
