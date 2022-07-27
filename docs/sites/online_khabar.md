@@ -102,7 +102,26 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 2:23 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T02:23:38.885743+05:45.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 6 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 6:03 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-07-27T06:03:02.112809+05:45.accessibility.json) |
+| [July 26 at 6:12 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-07-26T18:11:56.251390+05:45.accessibility.json) |
+| [July 26 at 6:07 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-07-26T06:07:50.140901+05:45.accessibility.json) |
+| [July 25 at 9:20 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T21:20:06.756373+05:45.accessibility.json) |
+| [July 25 at 9:24 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T09:24:07.879419+05:45.accessibility.json) |
+| [July 25 at 2:23 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-07-25T02:23:38.885743+05:45.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

@@ -72,7 +72,23 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 8:15 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-25T20:15:35.918536-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 3 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 8:11 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T20:11:20.237077-04:00.accessibility.json) |
+| [July 26 at 8:21 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T08:20:52.911639-04:00.accessibility.json) |
+| [July 25 at 8:15 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-25T20:15:35.918536-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

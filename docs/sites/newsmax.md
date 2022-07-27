@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 3 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsmax-2022/newsmax-2022-07-26T22:42:30.097541-04:00.jpg">
+  <img src="https://archive.org/download/newsmax-2022/newsmax-2022-07-26T22:42:30.097541-04:00.jpg"
+     alt="Newsmax at 2022-07-26 22:42:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-07-26T22:42:30.097541-04:00.jpg">July 26 at 10:42 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsmax-2022/newsmax-2022-07-26T14:35:13.861258-04:00.jpg">
@@ -59,7 +68,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 3 hyperlink lists with the Internet Archive.
+The archiving routine has saved 4 hyperlink lists with the Internet Archive.
 
 
 
@@ -67,12 +76,30 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:42 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-26T22:42:30.097541-04:00.hyperlinks.json) |
 | [July 26 at 2:35 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-26T14:35:13.861258-04:00.hyperlinks.json) |
 | [July 26 at 10:42 AM](https://archive.org/download/newsmax-2022/newsmax-2022-07-26T10:41:58.726405-04:00.hyperlinks.json) |
 | [July 25 at 10:49 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-25T22:48:51.962144-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 4 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 10:42 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-26T22:42:30.097541-04:00.accessibility.json) |
+| [July 26 at 2:35 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-26T14:35:13.861258-04:00.accessibility.json) |
+| [July 26 at 10:42 AM](https://archive.org/download/newsmax-2022/newsmax-2022-07-26T10:41:58.726405-04:00.accessibility.json) |
+| [July 25 at 10:49 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-25T22:48:51.962144-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

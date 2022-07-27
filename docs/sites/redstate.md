@@ -160,7 +160,30 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 12:11 PM](https://archive.org/download/redstate-2022/redstate-2022-07-23T12:11:31.938869-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 29 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 8:18 PM](https://archive.org/download/redstate-2022/redstate-2022-07-26T20:18:46.572305-04:00.accessibility.json) |
+| [July 26 at 2:36 PM](https://archive.org/download/redstate-2022/redstate-2022-07-26T14:36:07.879315-04:00.accessibility.json) |
+| [July 26 at 8:29 AM](https://archive.org/download/redstate-2022/redstate-2022-07-26T08:29:02.021492-04:00.accessibility.json) |
+| [July 25 at 8:25 PM](https://archive.org/download/redstate-2022/redstate-2022-07-25T20:25:03.167755-04:00.accessibility.json) |
+| [July 25 at 2:39 PM](https://archive.org/download/redstate-2022/redstate-2022-07-25T14:39:13.174060-04:00.accessibility.json) |
+| [July 25 at 12:41 PM](https://archive.org/download/redstate-2022/redstate-2022-07-25T12:41:18.026530-04:00.accessibility.json) |
+| [July 25 at 11:39 AM](https://archive.org/download/redstate-2022/redstate-2022-07-25T11:39:25.243868-04:00.accessibility.json) |
+| [July 24 at 11:41 PM](https://archive.org/download/redstate-2022/redstate-2022-07-24T23:41:24.959680-04:00.accessibility.json) |
+| [July 24 at 11:44 AM](https://archive.org/download/redstate-2022/redstate-2022-07-24T11:44:38.412507-04:00.accessibility.json) |
+| [July 24 at 10:01 AM](https://archive.org/download/redstate-2022/redstate-2022-07-24T10:01:36.460003-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

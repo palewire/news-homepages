@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 188 screenshots with the Internet Archive.
+The archiving routine has saved 189 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 188 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T21:39:52.954106-05:00.jpg">
+  <img src="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T21:39:52.954106-05:00.jpg"
+     alt="Eau Claire Leader-Telegram at 2022-07-26 21:39:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T21:39:52.954106-05:00.jpg">July 26 at 9:39 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T09:38:53.657891-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-21T09:17:34.025999-05:00.jpg">July 21 at 9:17 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-20T21:29:48.576321-05:00.jpg">
-  <img src="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-20T21:29:48.576321-05:00.jpg"
-     alt="Eau Claire Leader-Telegram at 2022-07-20 21:29:52-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-20T21:29:48.576321-05:00.jpg">July 20 at 9:29 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 183 hyperlink lists with the Internet Archive.
+The archiving routine has saved 184 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:40 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T21:39:52.954106-05:00.hyperlinks.json) |
 | [July 26 at 9:38 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T09:38:53.657891-05:00.hyperlinks.json) |
 | [July 25 at 9:46 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T21:46:14.455926-05:00.hyperlinks.json) |
 | [July 25 at 8:12 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T08:12:41.111840-05:00.hyperlinks.json) |
@@ -323,10 +324,115 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:07 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T09:07:01.518677-05:00.hyperlinks.json) |
 | [July 22 at 9:33 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-22T21:33:06.892864-05:00.hyperlinks.json) |
 | [July 22 at 9:07 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-22T09:07:32.153163-05:00.hyperlinks.json) |
-| [July 21 at 9:27 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-21T21:27:02.668726-05:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 185 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/leadertelegram.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 9:39 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T21:39:52.954106-05:00.accessibility.json) |
+| [July 26 at 9:38 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T09:38:53.657891-05:00.accessibility.json) |
+| [July 25 at 9:46 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T21:46:14.455926-05:00.accessibility.json) |
+| [July 25 at 8:12 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T08:12:41.111840-05:00.accessibility.json) |
+| [July 24 at 10:28 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T22:28:41.879560-05:00.accessibility.json) |
+| [July 24 at 8:01 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T08:01:15.538295-05:00.accessibility.json) |
+| [July 23 at 11:16 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T23:16:30.121570-05:00.accessibility.json) |
+| [July 23 at 9:07 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T09:07:01.518677-05:00.accessibility.json) |
+| [July 22 at 9:33 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-22T21:33:06.892864-05:00.accessibility.json) |
+| [July 22 at 9:07 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-22T09:07:32.153163-05:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

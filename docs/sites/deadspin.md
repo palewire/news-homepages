@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 47 screenshots with the Internet Archive.
+The archiving routine has saved 48 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 47 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/deadspin-2022/deadspin-2022-07-27T07:06:11.946781-04:00.jpg">
+  <img src="https://archive.org/download/deadspin-2022/deadspin-2022-07-27T07:06:11.946781-04:00.jpg"
+     alt="Deadspin at 2022-07-27 07:06:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deadspin-2022/deadspin-2022-07-27T07:06:11.946781-04:00.jpg">July 27 at 7:06 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deadspin-2022/deadspin-2022-07-26T19:08:04.047281-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/deadspin-2022/deadspin-2022-07-21T21:11:24.880899-04:00.jpg">July 21 at 9:11 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/deadspin-2022/deadspin-2022-07-21T08:57:33.242497-04:00.jpg">
-  <img src="https://archive.org/download/deadspin-2022/deadspin-2022-07-21T08:57:33.242497-04:00.jpg"
-     alt="Deadspin at 2022-07-21 08:57:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deadspin-2022/deadspin-2022-07-21T08:57:33.242497-04:00.jpg">July 21 at 8:57 AM</a></p>
 </div>
 
 </div>
@@ -326,7 +326,113 @@ Here are the 10 most recent hyperlink lists.
 | [July 19 at 8:54 AM](https://archive.org/download/deadspin-2022/deadspin-2022-07-19T08:54:10.642633-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/deadspin.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 7:06 AM](https://archive.org/download/deadspin-2022/deadspin-2022-07-27T07:06:11.946781-04:00.accessibility.json) |
+| [July 26 at 7:08 PM](https://archive.org/download/deadspin-2022/deadspin-2022-07-26T19:08:04.047281-04:00.accessibility.json) |
+| [July 25 at 7:12 PM](https://archive.org/download/deadspin-2022/deadspin-2022-07-25T19:12:10.885993-04:00.accessibility.json) |
+| [July 25 at 8:00 AM](https://archive.org/download/deadspin-2022/deadspin-2022-07-25T08:00:30.614405-04:00.accessibility.json) |
+| [July 24 at 9:00 PM](https://archive.org/download/deadspin-2022/deadspin-2022-07-24T21:00:00.327015-04:00.accessibility.json) |
+| [July 24 at 7:56 AM](https://archive.org/download/deadspin-2022/deadspin-2022-07-24T07:56:25.180000-04:00.accessibility.json) |
+| [July 24 at 2:26 AM](https://archive.org/download/deadspin-2022/deadspin-2022-07-24T02:26:46.831735-04:00.accessibility.json) |
+| [July 23 at 9:04 AM](https://archive.org/download/deadspin-2022/deadspin-2022-07-23T09:04:24.586575-04:00.accessibility.json) |
+| [July 22 at 9:04 PM](https://archive.org/download/deadspin-2022/deadspin-2022-07-22T21:04:03.999428-04:00.accessibility.json) |
+| [July 22 at 9:03 AM](https://archive.org/download/deadspin-2022/deadspin-2022-07-22T09:03:33.674816-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

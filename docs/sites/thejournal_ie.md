@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-27T04:56:25.310568+01:00.jpg">
+  <img src="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-27T04:56:25.310568+01:00.jpg"
+     alt="Journal.ie at 2022-07-27 04:56:27+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-27T04:56:25.310568+01:00.jpg">July 27 at 4:56 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-26T16:47:46.505341+01:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-21T17:55:48.111048+01:00.jpg">July 21 at 5:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-21T05:28:51.684010+01:00.jpg">
-  <img src="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-21T05:28:51.684010+01:00.jpg"
-     alt="Journal.ie at 2022-07-21 05:28:53+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-21T05:28:51.684010+01:00.jpg">July 21 at 5:28 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 18 hyperlink lists with the Internet Archive.
+The archiving routine has saved 19 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 4:56 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-27T04:56:25.310568+01:00.hyperlinks.json) |
 | [July 26 at 4:47 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-26T16:47:46.505341+01:00.hyperlinks.json) |
 | [July 26 at 4:59 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-26T04:59:13.725242+01:00.hyperlinks.json) |
 | [July 25 at 4:46 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-25T16:46:42.141957+01:00.hyperlinks.json) |
@@ -157,10 +158,32 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 5:05 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-23T17:04:56.181155+01:00.hyperlinks.json) |
 | [July 23 at 5:25 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-23T05:25:17.588811+01:00.hyperlinks.json) |
 | [July 22 at 5:18 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-22T17:18:01.717347+01:00.hyperlinks.json) |
-| [July 22 at 5:31 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-22T05:31:25.212280+01:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 4:56 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-27T04:56:25.310568+01:00.accessibility.json) |
+| [July 26 at 4:47 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-26T16:47:46.505341+01:00.accessibility.json) |
+| [July 26 at 4:59 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-26T04:59:13.725242+01:00.accessibility.json) |
+| [July 25 at 4:46 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-25T16:46:42.141957+01:00.accessibility.json) |
+| [July 25 at 5:36 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-25T05:36:05.213019+01:00.accessibility.json) |
+| [July 24 at 4:06 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-24T16:06:35.325922+01:00.accessibility.json) |
+| [July 24 at 4:41 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-24T04:41:20.177097+01:00.accessibility.json) |
+| [July 23 at 5:05 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-23T17:04:56.181155+01:00.accessibility.json) |
+| [July 23 at 5:25 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-23T05:25:17.588811+01:00.accessibility.json) |
+| [July 22 at 5:18 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-07-22T17:18:01.717347+01:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

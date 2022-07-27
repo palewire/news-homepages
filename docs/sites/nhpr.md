@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nhpr-2022/nhpr-2022-07-26T22:42:50.424123-04:00.jpg">
+  <img src="https://archive.org/download/nhpr-2022/nhpr-2022-07-26T22:42:50.424123-04:00.jpg"
+     alt="New Hampshire Public Radio at 2022-07-26 22:42:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-07-26T22:42:50.424123-04:00.jpg">July 26 at 10:42 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhpr-2022/nhpr-2022-07-26T10:41:45.155806-04:00.jpg">
@@ -50,7 +59,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 2 hyperlink lists with the Internet Archive.
+The archiving routine has saved 3 hyperlink lists with the Internet Archive.
 
 
 
@@ -58,11 +67,28 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:42 PM](https://archive.org/download/nhpr-2022/nhpr-2022-07-26T22:42:50.424123-04:00.hyperlinks.json) |
 | [July 26 at 10:41 AM](https://archive.org/download/nhpr-2022/nhpr-2022-07-26T10:41:45.155806-04:00.hyperlinks.json) |
 | [July 25 at 10:49 PM](https://archive.org/download/nhpr-2022/nhpr-2022-07-25T22:48:57.989891-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 3 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 10:42 PM](https://archive.org/download/nhpr-2022/nhpr-2022-07-26T22:42:50.424123-04:00.accessibility.json) |
+| [July 26 at 10:41 AM](https://archive.org/download/nhpr-2022/nhpr-2022-07-26T10:41:45.155806-04:00.accessibility.json) |
+| [July 25 at 10:49 PM](https://archive.org/download/nhpr-2022/nhpr-2022-07-25T22:48:57.989891-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

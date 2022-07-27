@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 56 screenshots with the Internet Archive.
+The archiving routine has saved 57 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 56 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-26T21:31:14.788458-04:00.jpg">
+  <img src="https://archive.org/download/whyynews-2022/whyynews-2022-07-26T21:31:14.788458-04:00.jpg"
+     alt="WHYY at 2022-07-26 21:31:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-26T21:31:14.788458-04:00.jpg">July 26 at 9:31 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-26T09:33:27.679581-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-22T00:36:14.854608-04:00.jpg">July 22 at 12:36 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-21T13:00:03.213467-04:00.jpg">
-  <img src="https://archive.org/download/whyynews-2022/whyynews-2022-07-21T13:00:03.213467-04:00.jpg"
-     alt="WHYY at 2022-07-21 13:00:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-07-21T13:00:03.213467-04:00.jpg">July 21 at 1:00 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 56 hyperlink lists with the Internet Archive.
+The archiving routine has saved 57 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:31 PM](https://archive.org/download/whyynews-2022/whyynews-2022-07-26T21:31:14.788458-04:00.hyperlinks.json) |
 | [July 26 at 9:33 AM](https://archive.org/download/whyynews-2022/whyynews-2022-07-26T09:33:27.679581-04:00.hyperlinks.json) |
 | [July 25 at 10:55 PM](https://archive.org/download/whyynews-2022/whyynews-2022-07-25T22:55:45.338706-04:00.hyperlinks.json) |
 | [July 25 at 9:39 PM](https://archive.org/download/whyynews-2022/whyynews-2022-07-25T21:39:05.139304-04:00.hyperlinks.json) |
@@ -323,10 +324,115 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:47 PM](https://archive.org/download/whyynews-2022/whyynews-2022-07-23T23:46:56.638449-04:00.hyperlinks.json) |
 | [July 23 at 12:10 PM](https://archive.org/download/whyynews-2022/whyynews-2022-07-23T12:09:58.591844-04:00.hyperlinks.json) |
 | [July 23 at 12:29 AM](https://archive.org/download/whyynews-2022/whyynews-2022-07-23T00:29:46.001819-04:00.hyperlinks.json) |
-| [July 22 at 12:22 PM](https://archive.org/download/whyynews-2022/whyynews-2022-07-22T12:22:22.841988-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 57 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/whyynews.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 9:31 PM](https://archive.org/download/whyynews-2022/whyynews-2022-07-26T21:31:14.788458-04:00.accessibility.json) |
+| [July 26 at 9:33 AM](https://archive.org/download/whyynews-2022/whyynews-2022-07-26T09:33:27.679581-04:00.accessibility.json) |
+| [July 25 at 10:55 PM](https://archive.org/download/whyynews-2022/whyynews-2022-07-25T22:55:45.338706-04:00.accessibility.json) |
+| [July 25 at 9:39 PM](https://archive.org/download/whyynews-2022/whyynews-2022-07-25T21:39:05.139304-04:00.accessibility.json) |
+| [July 25 at 11:52 AM](https://archive.org/download/whyynews-2022/whyynews-2022-07-25T11:52:51.464387-04:00.accessibility.json) |
+| [July 25 at 12:41 AM](https://archive.org/download/whyynews-2022/whyynews-2022-07-25T00:40:57.482418-04:00.accessibility.json) |
+| [July 24 at 11:11 AM](https://archive.org/download/whyynews-2022/whyynews-2022-07-24T11:11:02.731271-04:00.accessibility.json) |
+| [July 23 at 11:47 PM](https://archive.org/download/whyynews-2022/whyynews-2022-07-23T23:46:56.638449-04:00.accessibility.json) |
+| [July 23 at 12:10 PM](https://archive.org/download/whyynews-2022/whyynews-2022-07-23T12:09:58.591844-04:00.accessibility.json) |
+| [July 23 at 12:29 AM](https://archive.org/download/whyynews-2022/whyynews-2022-07-23T00:29:46.001819-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

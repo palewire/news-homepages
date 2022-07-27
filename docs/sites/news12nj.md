@@ -72,7 +72,23 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 8:20 PM](https://archive.org/download/news12nj-2022/news12nj-2022-07-25T20:20:22.289761-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 3 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 8:17 PM](https://archive.org/download/news12nj-2022/news12nj-2022-07-26T20:16:57.172723-04:00.accessibility.json) |
+| [July 26 at 8:25 AM](https://archive.org/download/news12nj-2022/news12nj-2022-07-26T08:25:40.836971-04:00.accessibility.json) |
+| [July 25 at 8:20 PM](https://archive.org/download/news12nj-2022/news12nj-2022-07-25T20:20:22.289761-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 26 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salon-2022/salon-2022-07-26T23:53:52.703464-04:00.jpg">
+  <img src="https://archive.org/download/salon-2022/salon-2022-07-26T23:53:52.703464-04:00.jpg"
+     alt="Salon at 2022-07-26 23:53:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salon-2022/salon-2022-07-26T23:53:52.703464-04:00.jpg">July 26 at 11:53 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/salon-2022/salon-2022-07-26T14:37:09.615955-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/salon-2022/salon-2022-07-23T14:13:17.515987-04:00.jpg">July 23 at 2:13 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/salon-2022/salon-2022-07-23T11:09:05.242610-04:00.jpg">
-  <img src="https://archive.org/download/salon-2022/salon-2022-07-23T11:09:05.242610-04:00.jpg"
-     alt="Salon at 2022-07-23 11:09:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salon-2022/salon-2022-07-23T11:09:05.242610-04:00.jpg">July 23 at 11:09 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:53 PM](https://archive.org/download/salon-2022/salon-2022-07-26T23:53:52.703464-04:00.hyperlinks.json) |
 | [July 26 at 2:37 PM](https://archive.org/download/salon-2022/salon-2022-07-26T14:37:09.615955-04:00.hyperlinks.json) |
 | [July 26 at 11:44 AM](https://archive.org/download/salon-2022/salon-2022-07-26T11:44:53.566861-04:00.hyperlinks.json) |
 | [July 25 at 11:56 PM](https://archive.org/download/salon-2022/salon-2022-07-25T23:56:17.251070-04:00.hyperlinks.json) |
@@ -157,10 +158,32 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:42 PM](https://archive.org/download/salon-2022/salon-2022-07-24T23:42:51.745660-04:00.hyperlinks.json) |
 | [July 24 at 10:03 AM](https://archive.org/download/salon-2022/salon-2022-07-24T10:02:59.264678-04:00.hyperlinks.json) |
 | [July 24 at 2:22 AM](https://archive.org/download/salon-2022/salon-2022-07-24T02:22:09.473261-04:00.hyperlinks.json) |
-| [July 23 at 2:13 PM](https://archive.org/download/salon-2022/salon-2022-07-23T14:13:17.515987-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 11:53 PM](https://archive.org/download/salon-2022/salon-2022-07-26T23:53:52.703464-04:00.accessibility.json) |
+| [July 26 at 2:37 PM](https://archive.org/download/salon-2022/salon-2022-07-26T14:37:09.615955-04:00.accessibility.json) |
+| [July 26 at 11:44 AM](https://archive.org/download/salon-2022/salon-2022-07-26T11:44:53.566861-04:00.accessibility.json) |
+| [July 25 at 11:56 PM](https://archive.org/download/salon-2022/salon-2022-07-25T23:56:17.251070-04:00.accessibility.json) |
+| [July 25 at 2:40 PM](https://archive.org/download/salon-2022/salon-2022-07-25T14:40:54.258299-04:00.accessibility.json) |
+| [July 25 at 12:37 PM](https://archive.org/download/salon-2022/salon-2022-07-25T12:37:31.690849-04:00.accessibility.json) |
+| [July 25 at 11:40 AM](https://archive.org/download/salon-2022/salon-2022-07-25T11:40:21.099839-04:00.accessibility.json) |
+| [July 24 at 11:42 PM](https://archive.org/download/salon-2022/salon-2022-07-24T23:42:51.745660-04:00.accessibility.json) |
+| [July 24 at 11:43 AM](https://archive.org/download/salon-2022/salon-2022-07-24T11:43:44.338726-04:00.accessibility.json) |
+| [July 24 at 10:03 AM](https://archive.org/download/salon-2022/salon-2022-07-24T10:02:59.264678-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

@@ -102,7 +102,26 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 2:23 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-07-25T02:23:35.619503+05:45.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 6 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 6:04 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-07-27T06:04:16.252264+05:45.accessibility.json) |
+| [July 26 at 6:13 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-07-26T18:13:39.082711+05:45.accessibility.json) |
+| [July 26 at 6:08 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-07-26T06:08:49.855604+05:45.accessibility.json) |
+| [July 25 at 9:24 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-07-25T21:24:14.468630+05:45.accessibility.json) |
+| [July 25 at 9:26 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-07-25T09:26:09.721277+05:45.accessibility.json) |
+| [July 25 at 2:23 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-07-25T02:23:35.619503+05:45.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

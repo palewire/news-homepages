@@ -91,7 +91,24 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 2:47 AM](https://archive.org/download/macrumors-2022/macrumors-2022-07-25T02:46:50.093923-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 4 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 8:14 PM](https://archive.org/download/macrumors-2022/macrumors-2022-07-26T20:14:11.713191-04:00.accessibility.json) |
+| [July 26 at 8:24 AM](https://archive.org/download/macrumors-2022/macrumors-2022-07-26T08:24:06.319900-04:00.accessibility.json) |
+| [July 25 at 8:18 PM](https://archive.org/download/macrumors-2022/macrumors-2022-07-25T20:18:48.267545-04:00.accessibility.json) |
+| [July 25 at 2:47 AM](https://archive.org/download/macrumors-2022/macrumors-2022-07-25T02:46:50.093923-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

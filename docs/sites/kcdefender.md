@@ -326,7 +326,113 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 9:05 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-07-22T09:05:14.410135-05:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 37 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/kcdefender.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 7:11 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-07-26T19:11:45.721994-05:00.accessibility.json) |
+| [July 26 at 7:22 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-07-26T07:22:23.195115-05:00.accessibility.json) |
+| [July 25 at 7:18 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-07-25T19:18:14.037446-05:00.accessibility.json) |
+| [July 25 at 8:09 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-07-25T08:09:28.580480-05:00.accessibility.json) |
+| [July 24 at 10:24 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-07-24T22:23:59.802977-05:00.accessibility.json) |
+| [July 24 at 7:58 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-07-24T07:58:55.356910-05:00.accessibility.json) |
+| [July 23 at 11:14 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-07-23T23:14:08.012635-05:00.accessibility.json) |
+| [July 23 at 9:04 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-07-23T09:04:46.961283-05:00.accessibility.json) |
+| [July 22 at 9:30 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-07-22T21:30:40.792187-05:00.accessibility.json) |
+| [July 22 at 9:05 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-07-22T09:05:14.410135-05:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

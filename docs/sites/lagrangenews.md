@@ -160,7 +160,30 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 10:07 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-07-22T10:06:55.240976-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 14 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 8:12 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-07-26T20:12:43.330858-04:00.accessibility.json) |
+| [July 26 at 8:23 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-07-26T08:23:04.907983-04:00.accessibility.json) |
+| [July 25 at 8:17 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-07-25T20:17:38.297110-04:00.accessibility.json) |
+| [July 25 at 9:12 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-07-25T09:12:01.931346-04:00.accessibility.json) |
+| [July 24 at 11:28 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-07-24T23:28:34.456691-04:00.accessibility.json) |
+| [July 24 at 9:01 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-07-24T09:01:16.028162-04:00.accessibility.json) |
+| [July 24 at 12:16 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-07-24T00:16:29.353419-04:00.accessibility.json) |
+| [July 23 at 10:06 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-07-23T10:06:25.600919-04:00.accessibility.json) |
+| [July 22 at 10:32 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-07-22T22:31:56.714909-04:00.accessibility.json) |
+| [July 22 at 10:06 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-07-22T10:06:55.240976-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

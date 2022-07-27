@@ -160,7 +160,30 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 4:58 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-22T16:58:45.950496+02:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 15 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 2:16 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-27T02:16:03.843484+02:00.accessibility.json) |
+| [July 26 at 2:25 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-26T14:25:22.438211+02:00.accessibility.json) |
+| [July 26 at 2:20 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-26T02:20:02.243908+02:00.accessibility.json) |
+| [July 25 at 3:16 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-25T15:16:08.341557+02:00.accessibility.json) |
+| [July 25 at 5:35 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-25T05:35:46.233942+02:00.accessibility.json) |
+| [July 24 at 3:04 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-24T15:04:54.619366+02:00.accessibility.json) |
+| [July 24 at 6:20 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-24T06:20:03.380219+02:00.accessibility.json) |
+| [July 23 at 5:03 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-23T17:03:16.242133+02:00.accessibility.json) |
+| [July 23 at 5:33 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-23T05:33:12.443853+02:00.accessibility.json) |
+| [July 22 at 4:58 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-22T16:58:45.950496+02:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

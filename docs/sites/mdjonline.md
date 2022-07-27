@@ -140,7 +140,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 13 hyperlink lists with the Internet Archive.
+The archiving routine has saved 14 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:41 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-26T22:41:32.125511-04:00.hyperlinks.json) |
 | [July 26 at 10:40 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-26T10:40:05.931293-04:00.hyperlinks.json) |
 | [July 25 at 10:47 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-25T22:47:34.476588-04:00.hyperlinks.json) |
 | [July 25 at 9:14 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-25T09:13:57.855538-04:00.hyperlinks.json) |
@@ -157,10 +158,32 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:00 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-23T11:00:38.566065-04:00.hyperlinks.json) |
 | [July 22 at 11:30 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-22T23:30:36.177262-04:00.hyperlinks.json) |
 | [July 22 at 10:56 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-22T10:56:32.461013-04:00.hyperlinks.json) |
-| [July 21 at 11:34 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-21T23:34:36.576212-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 13 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 10:41 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-26T22:41:32.125511-04:00.accessibility.json) |
+| [July 26 at 10:40 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-26T10:40:05.931293-04:00.accessibility.json) |
+| [July 25 at 10:47 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-25T22:47:34.476588-04:00.accessibility.json) |
+| [July 25 at 9:14 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-25T09:13:57.855538-04:00.accessibility.json) |
+| [July 24 at 11:30 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-24T23:30:49.274816-04:00.accessibility.json) |
+| [July 24 at 12:18 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-24T00:18:36.059905-04:00.accessibility.json) |
+| [July 23 at 11:00 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-23T11:00:38.566065-04:00.accessibility.json) |
+| [July 22 at 11:30 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-22T23:30:36.177262-04:00.accessibility.json) |
+| [July 22 at 10:56 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-22T10:56:32.461013-04:00.accessibility.json) |
+| [July 21 at 11:34 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-21T23:34:36.576212-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

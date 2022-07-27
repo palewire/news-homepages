@@ -160,7 +160,30 @@ Here are the 10 most recent hyperlink lists.
 | [July 20 at 5:10 PM](https://archive.org/download/news_letter-2022/news_letter-2022-07-20T17:10:03.724008+01:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 16 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 1:16 AM](https://archive.org/download/news_letter-2022/news_letter-2022-07-27T01:16:37.681262+01:00.accessibility.json) |
+| [July 26 at 1:25 PM](https://archive.org/download/news_letter-2022/news_letter-2022-07-26T13:25:33.154028+01:00.accessibility.json) |
+| [July 26 at 1:20 AM](https://archive.org/download/news_letter-2022/news_letter-2022-07-26T01:20:23.418473+01:00.accessibility.json) |
+| [July 25 at 2:16 PM](https://archive.org/download/news_letter-2022/news_letter-2022-07-25T14:16:36.908786+01:00.accessibility.json) |
+| [July 25 at 4:35 AM](https://archive.org/download/news_letter-2022/news_letter-2022-07-25T04:35:01.110876+01:00.accessibility.json) |
+| [July 24 at 5:21 AM](https://archive.org/download/news_letter-2022/news_letter-2022-07-24T05:21:09.913937+01:00.accessibility.json) |
+| [July 23 at 4:03 PM](https://archive.org/download/news_letter-2022/news_letter-2022-07-23T16:03:15.823513+01:00.accessibility.json) |
+| [July 23 at 4:33 AM](https://archive.org/download/news_letter-2022/news_letter-2022-07-23T04:33:08.329936+01:00.accessibility.json) |
+| [July 22 at 3:58 PM](https://archive.org/download/news_letter-2022/news_letter-2022-07-22T15:58:45.083610+01:00.accessibility.json) |
+| [July 22 at 4:37 AM](https://archive.org/download/news_letter-2022/news_letter-2022-07-22T04:37:14.810422+01:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

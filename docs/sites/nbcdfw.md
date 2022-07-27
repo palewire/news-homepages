@@ -160,7 +160,30 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 9:58 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-22T09:58:41.683304-05:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 20 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 7:15 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T19:15:40.642990-05:00.accessibility.json) |
+| [July 26 at 7:25 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T07:25:12.858755-05:00.accessibility.json) |
+| [July 25 at 7:20 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T19:20:29.877977-05:00.accessibility.json) |
+| [July 25 at 8:16 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T08:16:19.906377-05:00.accessibility.json) |
+| [July 24 at 10:35 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T22:35:37.687847-05:00.accessibility.json) |
+| [July 24 at 8:04 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T08:04:31.829355-05:00.accessibility.json) |
+| [July 23 at 11:20 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T23:20:14.233039-05:00.accessibility.json) |
+| [July 23 at 10:03 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T10:03:10.509584-05:00.accessibility.json) |
+| [July 22 at 10:32 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-22T22:32:55.924155-05:00.accessibility.json) |
+| [July 22 at 9:58 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-22T09:58:41.683304-05:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-27T08:24:52.969398+03:00.jpg">
+  <img src="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-27T08:24:52.969398+03:00.jpg"
+     alt="TASS at 2022-07-27 08:24:55+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-27T08:24:52.969398+03:00.jpg">July 27 at 8:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-27T06:54:57.979820+03:00.jpg">
+  <img src="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-27T06:54:57.979820+03:00.jpg"
+     alt="TASS at 2022-07-27 06:54:59+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-27T06:54:57.979820+03:00.jpg">July 27 at 6:54 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-26T18:46:45.510476+03:00.jpg">
   <img src="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-26T18:46:45.510476+03:00.jpg"
      alt="TASS at 2022-07-26 18:46:47+03:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-23T19:03:27.304283+03:00.jpg">July 23 at 7:03 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-23T08:11:30.275717+03:00.jpg">
-  <img src="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-23T08:11:30.275717+03:00.jpg"
-     alt="TASS at 2022-07-23 08:11:33+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-23T08:11:30.275717+03:00.jpg">July 23 at 8:11 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-23T07:23:07.886336+03:00.jpg">
-  <img src="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-23T07:23:07.886336+03:00.jpg"
-     alt="TASS at 2022-07-23 07:23:09+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-07-23T07:23:07.886336+03:00.jpg">July 23 at 7:23 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 32 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 8:25 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-27T08:24:52.969398+03:00.hyperlinks.json) |
+| [July 27 at 6:55 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-27T06:54:57.979820+03:00.hyperlinks.json) |
 | [July 26 at 6:46 PM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-26T18:46:45.510476+03:00.hyperlinks.json) |
 | [July 26 at 8:30 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-26T08:30:11.759112+03:00.hyperlinks.json) |
 | [July 26 at 6:58 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-26T06:58:22.133170+03:00.hyperlinks.json) |
@@ -322,11 +324,115 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 7:34 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-25T07:34:51.667757+03:00.hyperlinks.json) |
 | [July 24 at 5:06 PM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-24T17:05:57.209602+03:00.hyperlinks.json) |
 | [July 24 at 9:47 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-24T09:47:22.078919+03:00.hyperlinks.json) |
-| [July 24 at 9:25 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-24T09:25:05.855859+03:00.hyperlinks.json) |
-| [July 23 at 7:03 PM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-23T19:03:27.304283+03:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 34 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/tass_agency.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 8:25 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-27T08:24:52.969398+03:00.accessibility.json) |
+| [July 27 at 6:55 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-27T06:54:57.979820+03:00.accessibility.json) |
+| [July 26 at 6:46 PM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-26T18:46:45.510476+03:00.accessibility.json) |
+| [July 26 at 8:30 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-26T08:30:11.759112+03:00.accessibility.json) |
+| [July 26 at 6:58 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-26T06:58:22.133170+03:00.accessibility.json) |
+| [July 25 at 6:43 PM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-25T18:43:08.872929+03:00.accessibility.json) |
+| [July 25 at 8:23 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-25T08:23:04.842857+03:00.accessibility.json) |
+| [July 25 at 7:34 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-25T07:34:51.667757+03:00.accessibility.json) |
+| [July 24 at 5:06 PM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-24T17:05:57.209602+03:00.accessibility.json) |
+| [July 24 at 9:47 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-07-24T09:47:22.078919+03:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

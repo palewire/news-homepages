@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 63 screenshots with the Internet Archive.
+The archiving routine has saved 65 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-27T12:09:00.952101+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-27T12:09:00.952101+01:00.jpg"
+     alt="Evening Standard at 2022-07-27 12:09:02+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-27T12:09:00.952101+01:00.jpg">July 27 at 12:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-27T10:09:06.837894+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-27T10:09:06.837894+01:00.jpg"
+     alt="Evening Standard at 2022-07-27 10:09:10+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-27T10:09:06.837894+01:00.jpg">July 27 at 10:09 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-27T00:09:27.261523+01:00.jpg">
   <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-27T00:09:27.261523+01:00.jpg"
      alt="Evening Standard at 2022-07-27 00:09:32+01:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T07:28:26.032970+01:00.jpg">July 24 at 7:28 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T14:57:54.753789+01:00.jpg">
-  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T14:57:54.753789+01:00.jpg"
-     alt="Evening Standard at 2022-07-23 14:58:00+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T14:57:54.753789+01:00.jpg">July 23 at 2:58 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T10:06:26.046911+01:00.jpg">
-  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T10:06:26.046911+01:00.jpg"
-     alt="Evening Standard at 2022-07-23 10:06:27+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-23T10:06:26.046911+01:00.jpg">July 23 at 10:06 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 61 hyperlink lists with the Internet Archive.
+The archiving routine has saved 63 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 12:09 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-27T12:09:00.952101+01:00.hyperlinks.json) |
+| [July 27 at 10:09 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-27T10:09:06.837894+01:00.hyperlinks.json) |
 | [July 27 at 12:09 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-27T00:09:27.261523+01:00.hyperlinks.json) |
 | [July 26 at 12:17 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-26T12:17:08.663748+01:00.hyperlinks.json) |
 | [July 26 at 10:09 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-26T10:09:45.641014+01:00.hyperlinks.json) |
@@ -322,11 +324,115 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 10:09 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T10:09:38.022202+01:00.hyperlinks.json) |
 | [July 25 at 2:03 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T02:03:30.186554+01:00.hyperlinks.json) |
 | [July 24 at 12:58 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T12:58:41.009689+01:00.hyperlinks.json) |
-| [July 24 at 10:10 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T10:09:57.034151+01:00.hyperlinks.json) |
-| [July 24 at 7:28 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T07:28:26.032970+01:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 64 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/eveningstandard.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 12:09 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-27T12:09:00.952101+01:00.accessibility.json) |
+| [July 27 at 10:09 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-27T10:09:06.837894+01:00.accessibility.json) |
+| [July 27 at 12:09 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-27T00:09:27.261523+01:00.accessibility.json) |
+| [July 26 at 12:17 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-26T12:17:08.663748+01:00.accessibility.json) |
+| [July 26 at 10:09 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-26T10:09:45.641014+01:00.accessibility.json) |
+| [July 26 at 12:12 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-26T00:12:41.284385+01:00.accessibility.json) |
+| [July 25 at 1:01 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T13:01:52.582409+01:00.accessibility.json) |
+| [July 25 at 10:09 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T10:09:38.022202+01:00.accessibility.json) |
+| [July 25 at 2:03 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-25T02:03:30.186554+01:00.accessibility.json) |
+| [July 24 at 12:58 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-07-24T12:58:41.009689+01:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

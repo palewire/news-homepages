@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 37 screenshots with the Internet Archive.
+The archiving routine has saved 38 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 37 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T21:25:05.270351-04:00.jpg">
+  <img src="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T21:25:05.270351-04:00.jpg"
+     alt="CivicLex at 2022-07-26 21:25:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T21:25:05.270351-04:00.jpg">July 26 at 9:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T09:28:00.094293-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-21T21:09:08.527765-04:00.jpg">July 21 at 9:09 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-21T08:55:22.262425-04:00.jpg">
-  <img src="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-21T08:55:22.262425-04:00.jpg"
-     alt="CivicLex at 2022-07-21 08:55:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-21T08:55:22.262425-04:00.jpg">July 21 at 8:55 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 37 hyperlink lists with the Internet Archive.
+The archiving routine has saved 38 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:25 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T21:25:05.270351-04:00.hyperlinks.json) |
 | [July 26 at 9:28 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T09:28:00.094293-04:00.hyperlinks.json) |
 | [July 25 at 10:59 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T22:59:28.148162-04:00.hyperlinks.json) |
 | [July 25 at 9:33 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T21:32:58.945909-04:00.hyperlinks.json) |
@@ -323,10 +324,115 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 7:03 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-23T19:03:04.824625-04:00.hyperlinks.json) |
 | [July 23 at 9:00 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-23T09:00:50.173284-04:00.hyperlinks.json) |
 | [July 22 at 9:01 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-22T21:01:32.382350-04:00.hyperlinks.json) |
-| [July 22 at 9:00 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-22T09:00:12.497524-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 38 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/civic_lex.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 9:25 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T21:25:05.270351-04:00.accessibility.json) |
+| [July 26 at 9:28 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T09:28:00.094293-04:00.accessibility.json) |
+| [July 25 at 10:59 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T22:59:28.148162-04:00.accessibility.json) |
+| [July 25 at 9:33 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T21:32:58.945909-04:00.accessibility.json) |
+| [July 25 at 7:02 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T07:02:15.279602-04:00.accessibility.json) |
+| [July 24 at 8:55 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T20:55:31.641176-04:00.accessibility.json) |
+| [July 24 at 7:01 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T07:01:42.729775-04:00.accessibility.json) |
+| [July 23 at 7:03 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-23T19:03:04.824625-04:00.accessibility.json) |
+| [July 23 at 9:00 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-23T09:00:50.173284-04:00.accessibility.json) |
+| [July 22 at 9:01 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-22T21:01:32.382350-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/setopati-2022/setopati-2022-07-27T09:38:58.757394+05:45.jpg">
+  <img src="https://archive.org/download/setopati-2022/setopati-2022-07-27T09:38:58.757394+05:45.jpg"
+     alt="Setopati at 2022-07-27 09:39:00+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/setopati-2022/setopati-2022-07-27T09:38:58.757394+05:45.jpg">July 27 at 9:39 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/setopati-2022/setopati-2022-07-26T21:30:37.405613+05:45.jpg">
@@ -77,7 +86,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
 
 
@@ -85,6 +94,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:39 AM](https://archive.org/download/setopati-2022/setopati-2022-07-27T09:38:58.757394+05:45.hyperlinks.json) |
 | [July 26 at 9:30 PM](https://archive.org/download/setopati-2022/setopati-2022-07-26T21:30:37.405613+05:45.hyperlinks.json) |
 | [July 26 at 9:42 AM](https://archive.org/download/setopati-2022/setopati-2022-07-26T09:42:18.487298+05:45.hyperlinks.json) |
 | [July 25 at 9:26 PM](https://archive.org/download/setopati-2022/setopati-2022-07-25T21:26:42.636116+05:45.hyperlinks.json) |
@@ -92,7 +102,26 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 2:24 AM](https://archive.org/download/setopati-2022/setopati-2022-07-25T02:24:17.646796+05:45.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 6 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 9:39 AM](https://archive.org/download/setopati-2022/setopati-2022-07-27T09:38:58.757394+05:45.accessibility.json) |
+| [July 26 at 9:30 PM](https://archive.org/download/setopati-2022/setopati-2022-07-26T21:30:37.405613+05:45.accessibility.json) |
+| [July 26 at 9:42 AM](https://archive.org/download/setopati-2022/setopati-2022-07-26T09:42:18.487298+05:45.accessibility.json) |
+| [July 25 at 9:26 PM](https://archive.org/download/setopati-2022/setopati-2022-07-25T21:26:42.636116+05:45.accessibility.json) |
+| [July 25 at 9:28 AM](https://archive.org/download/setopati-2022/setopati-2022-07-25T09:28:12.225560+05:45.accessibility.json) |
+| [July 25 at 2:24 AM](https://archive.org/download/setopati-2022/setopati-2022-07-25T02:24:17.646796+05:45.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

@@ -160,7 +160,30 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 10:05 AM](https://archive.org/download/jezebel-2022/jezebel-2022-07-22T10:05:15.539459-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 23 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 8:11 PM](https://archive.org/download/jezebel-2022/jezebel-2022-07-26T20:11:29.790737-04:00.accessibility.json) |
+| [July 26 at 2:37 PM](https://archive.org/download/jezebel-2022/jezebel-2022-07-26T14:37:07.694216-04:00.accessibility.json) |
+| [July 26 at 8:21 AM](https://archive.org/download/jezebel-2022/jezebel-2022-07-26T08:21:29.693042-04:00.accessibility.json) |
+| [July 25 at 8:16 PM](https://archive.org/download/jezebel-2022/jezebel-2022-07-25T20:15:57.279649-04:00.accessibility.json) |
+| [July 25 at 2:40 PM](https://archive.org/download/jezebel-2022/jezebel-2022-07-25T14:40:24.343400-04:00.accessibility.json) |
+| [July 25 at 12:40 PM](https://archive.org/download/jezebel-2022/jezebel-2022-07-25T12:40:03.870521-04:00.accessibility.json) |
+| [July 25 at 9:09 AM](https://archive.org/download/jezebel-2022/jezebel-2022-07-25T09:09:22.596252-04:00.accessibility.json) |
+| [July 24 at 11:42 AM](https://archive.org/download/jezebel-2022/jezebel-2022-07-24T11:42:33.618996-04:00.accessibility.json) |
+| [July 24 at 12:15 AM](https://archive.org/download/jezebel-2022/jezebel-2022-07-24T00:14:57.798119-04:00.accessibility.json) |
+| [July 22 at 10:29 PM](https://archive.org/download/jezebel-2022/jezebel-2022-07-22T22:29:41.977074-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

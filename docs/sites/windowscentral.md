@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 4 screenshots with the Internet Archive.
+The archiving routine has saved 5 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-07-26T20:59:28.743442-07:00.jpg">
+  <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-07-26T20:59:28.743442-07:00.jpg"
+     alt="Windows Central at 2022-07-26 20:59:30-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-07-26T20:59:28.743442-07:00.jpg">July 26 at 8:59 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-07-26T08:50:10.644090-07:00.jpg">
@@ -68,7 +77,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 3 hyperlink lists with the Internet Archive.
+The archiving routine has saved 4 hyperlink lists with the Internet Archive.
 
 
 
@@ -76,12 +85,31 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 8:59 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-07-26T20:59:28.743442-07:00.hyperlinks.json) |
 | [July 25 at 9:01 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-07-25T21:01:41.589607-07:00.hyperlinks.json) |
 | [July 25 at 8:53 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-07-25T08:53:05.694830-07:00.hyperlinks.json) |
 | [July 24 at 11:48 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-07-24T23:47:46.515861-07:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 5 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 8:59 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-07-26T20:59:28.743442-07:00.accessibility.json) |
+| [July 26 at 8:50 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-07-26T08:50:10.644090-07:00.accessibility.json) |
+| [July 25 at 9:01 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-07-25T21:01:41.589607-07:00.accessibility.json) |
+| [July 25 at 8:53 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-07-25T08:53:05.694830-07:00.accessibility.json) |
+| [July 24 at 11:48 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-07-24T23:47:46.515861-07:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

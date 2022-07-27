@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T23:58:05.643542-04:00.jpg">
+  <img src="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T23:58:05.643542-04:00.jpg"
+     alt="Us Weekly at 2022-07-26 23:58:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T23:58:05.643542-04:00.jpg">July 26 at 11:58 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T11:49:17.909822-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-21T12:57:35.242468-04:00.jpg">July 21 at 12:57 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-21T00:31:17.586442-04:00.jpg">
-  <img src="https://archive.org/download/usweekly-2022/usweekly-2022-07-21T00:31:17.586442-04:00.jpg"
-     alt="Us Weekly at 2022-07-21 00:31:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-21T00:31:17.586442-04:00.jpg">July 21 at 12:31 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:58 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T23:58:05.643542-04:00.hyperlinks.json) |
 | [July 26 at 11:49 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T11:49:17.909822-04:00.hyperlinks.json) |
 | [July 26 at 12:01 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T00:01:01.185930-04:00.hyperlinks.json) |
 | [July 25 at 11:50 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-25T11:50:41.963054-04:00.hyperlinks.json) |
@@ -157,10 +158,32 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 12:28 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-23T00:28:03.485504-04:00.hyperlinks.json) |
 | [July 22 at 12:20 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-22T12:20:24.132849-04:00.hyperlinks.json) |
 | [July 22 at 12:34 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-22T00:34:26.499516-04:00.hyperlinks.json) |
-| [July 21 at 12:57 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-21T12:57:35.242468-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 18 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 11:58 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T23:58:05.643542-04:00.accessibility.json) |
+| [July 26 at 11:49 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T11:49:17.909822-04:00.accessibility.json) |
+| [July 26 at 12:01 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T00:01:01.185930-04:00.accessibility.json) |
+| [July 25 at 11:50 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-25T11:50:41.963054-04:00.accessibility.json) |
+| [July 25 at 12:39 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-25T00:39:36.407815-04:00.accessibility.json) |
+| [July 24 at 11:09 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-24T11:09:01.596881-04:00.accessibility.json) |
+| [July 23 at 11:44 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-23T23:44:51.702754-04:00.accessibility.json) |
+| [July 23 at 12:07 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-23T12:07:55.790991-04:00.accessibility.json) |
+| [July 23 at 12:28 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-23T00:28:03.485504-04:00.accessibility.json) |
+| [July 22 at 12:20 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-22T12:20:24.132849-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

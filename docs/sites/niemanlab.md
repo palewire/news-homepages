@@ -160,7 +160,30 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 10:59 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-22T10:59:23.846618-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 18 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 8:16 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-26T20:16:31.986719-04:00.accessibility.json) |
+| [July 26 at 8:27 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-26T08:27:08.444216-04:00.accessibility.json) |
+| [July 25 at 8:21 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-25T20:21:16.220794-04:00.accessibility.json) |
+| [July 25 at 9:17 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-25T09:17:24.871892-04:00.accessibility.json) |
+| [July 24 at 11:37 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-24T23:37:06.662719-04:00.accessibility.json) |
+| [July 24 at 9:05 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-24T09:05:32.132671-04:00.accessibility.json) |
+| [July 24 at 12:20 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-24T00:20:29.716907-04:00.accessibility.json) |
+| [July 23 at 11:04 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-23T11:04:08.849260-04:00.accessibility.json) |
+| [July 22 at 11:34 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-22T23:34:01.209209-04:00.accessibility.json) |
+| [July 22 at 10:59 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-22T10:59:23.846618-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

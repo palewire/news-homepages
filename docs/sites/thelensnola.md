@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-26T22:57:03.422670-05:00.jpg">
+  <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-26T22:57:03.422670-05:00.jpg"
+     alt="Lens at 2022-07-26 22:57:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-26T22:57:03.422670-05:00.jpg">July 26 at 10:57 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-26T10:48:08.681337-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-21T11:55:52.223931-05:00.jpg">July 21 at 11:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-20T23:29:10.072877-05:00.jpg">
-  <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-20T23:29:10.072877-05:00.jpg"
-     alt="Lens at 2022-07-20 23:29:12-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-20T23:29:10.072877-05:00.jpg">July 20 at 11:29 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 37 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 10:57 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-26T22:57:03.422670-05:00.hyperlinks.json) |
 | [July 26 at 10:48 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-26T10:48:08.681337-05:00.hyperlinks.json) |
 | [July 25 at 10:59 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-25T22:59:52.952285-05:00.hyperlinks.json) |
 | [July 25 at 10:47 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-25T10:47:56.085295-05:00.hyperlinks.json) |
@@ -323,10 +324,115 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:05 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-23T11:05:04.431829-05:00.hyperlinks.json) |
 | [July 22 at 11:25 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-22T23:25:48.125744-05:00.hyperlinks.json) |
 | [July 22 at 11:18 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-22T11:18:27.985155-05:00.hyperlinks.json) |
-| [July 21 at 11:31 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-21T23:31:50.329730-05:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 37 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/thelensnola.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 10:57 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-26T22:57:03.422670-05:00.accessibility.json) |
+| [July 26 at 10:48 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-26T10:48:08.681337-05:00.accessibility.json) |
+| [July 25 at 10:59 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-25T22:59:52.952285-05:00.accessibility.json) |
+| [July 25 at 10:47 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-25T10:47:56.085295-05:00.accessibility.json) |
+| [July 24 at 11:36 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-24T23:36:40.100982-05:00.accessibility.json) |
+| [July 24 at 10:06 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-24T10:06:47.197199-05:00.accessibility.json) |
+| [July 23 at 10:41 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-23T22:41:54.924635-05:00.accessibility.json) |
+| [July 23 at 11:05 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-23T11:05:04.431829-05:00.accessibility.json) |
+| [July 22 at 11:25 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-22T23:25:48.125744-05:00.accessibility.json) |
+| [July 22 at 11:18 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-07-22T11:18:27.985155-05:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

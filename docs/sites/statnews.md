@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 8 screenshots with the Internet Archive.
+The archiving routine has saved 9 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/statnews-2022/statnews-2022-07-26T23:55:13.392277-04:00.jpg">
+  <img src="https://archive.org/download/statnews-2022/statnews-2022-07-26T23:55:13.392277-04:00.jpg"
+     alt="STAT at 2022-07-26 23:55:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-07-26T23:55:13.392277-04:00.jpg">July 26 at 11:55 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statnews-2022/statnews-2022-07-26T11:45:55.537730-04:00.jpg">
@@ -104,7 +113,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 8 hyperlink lists with the Internet Archive.
+The archiving routine has saved 9 hyperlink lists with the Internet Archive.
 
 
 
@@ -112,6 +121,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 11:55 PM](https://archive.org/download/statnews-2022/statnews-2022-07-26T23:55:13.392277-04:00.hyperlinks.json) |
 | [July 26 at 11:46 AM](https://archive.org/download/statnews-2022/statnews-2022-07-26T11:45:55.537730-04:00.hyperlinks.json) |
 | [July 25 at 11:57 PM](https://archive.org/download/statnews-2022/statnews-2022-07-25T23:57:13.916141-04:00.hyperlinks.json) |
 | [July 25 at 11:43 AM](https://archive.org/download/statnews-2022/statnews-2022-07-25T11:42:57.669885-04:00.hyperlinks.json) |
@@ -122,7 +132,29 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 12:23 AM](https://archive.org/download/statnews-2022/statnews-2022-07-23T00:23:09.345601-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 9 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 11:55 PM](https://archive.org/download/statnews-2022/statnews-2022-07-26T23:55:13.392277-04:00.accessibility.json) |
+| [July 26 at 11:45 AM](https://archive.org/download/statnews-2022/statnews-2022-07-26T11:45:55.537730-04:00.accessibility.json) |
+| [July 25 at 11:57 PM](https://archive.org/download/statnews-2022/statnews-2022-07-25T23:57:13.916141-04:00.accessibility.json) |
+| [July 25 at 11:43 AM](https://archive.org/download/statnews-2022/statnews-2022-07-25T11:42:57.669885-04:00.accessibility.json) |
+| [July 24 at 11:44 PM](https://archive.org/download/statnews-2022/statnews-2022-07-24T23:44:23.963313-04:00.accessibility.json) |
+| [July 24 at 10:05 AM](https://archive.org/download/statnews-2022/statnews-2022-07-24T10:05:01.558500-04:00.accessibility.json) |
+| [July 24 at 2:24 AM](https://archive.org/download/statnews-2022/statnews-2022-07-24T02:24:34.771955-04:00.accessibility.json) |
+| [July 23 at 12:03 PM](https://archive.org/download/statnews-2022/statnews-2022-07-23T12:03:14.316151-04:00.accessibility.json) |
+| [July 23 at 12:23 AM](https://archive.org/download/statnews-2022/statnews-2022-07-23T00:23:09.345601-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

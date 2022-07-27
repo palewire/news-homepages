@@ -93,7 +93,26 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 2:24 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-25T02:24:11.814958+05:45.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 6 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 6:02 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-27T06:02:01.510850+05:45.accessibility.json) |
+| [July 26 at 6:11 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-26T18:11:01.967643+05:45.accessibility.json) |
+| [July 26 at 6:07 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-26T06:07:04.752639+05:45.accessibility.json) |
+| [July 25 at 7:01 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-25T19:01:22.184922+05:45.accessibility.json) |
+| [July 25 at 9:20 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-25T09:20:19.382470+05:45.accessibility.json) |
+| [July 25 at 2:24 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-25T02:24:11.814958+05:45.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

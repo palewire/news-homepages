@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 4 screenshots with the Internet Archive.
+The archiving routine has saved 5 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-27T10:13:24.082183+02:00.jpg">
+  <img src="https://archive.org/download/mediapart-2022/mediapart-2022-07-27T10:13:24.082183+02:00.jpg"
+     alt="Mediapart at 2022-07-27 10:13:26+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-27T10:13:24.082183+02:00.jpg">July 27 at 10:13 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-27T02:14:48.634484+02:00.jpg">
@@ -68,7 +77,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+The archiving routine has saved 5 hyperlink lists with the Internet Archive.
 
 
 
@@ -76,13 +85,32 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 10:13 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T10:13:24.082183+02:00.hyperlinks.json) |
 | [July 27 at 2:14 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T02:14:48.634484+02:00.hyperlinks.json) |
 | [July 26 at 2:24 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T14:24:20.713952+02:00.hyperlinks.json) |
 | [July 26 at 10:09 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T10:09:14.858679+02:00.hyperlinks.json) |
 | [July 26 at 2:19 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 5 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 10:13 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T10:13:24.082183+02:00.accessibility.json) |
+| [July 27 at 2:14 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T02:14:48.634484+02:00.accessibility.json) |
+| [July 26 at 2:24 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T14:24:20.713952+02:00.accessibility.json) |
+| [July 26 at 10:09 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T10:09:14.858679+02:00.accessibility.json) |
+| [July 26 at 2:19 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

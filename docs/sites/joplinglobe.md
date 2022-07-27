@@ -243,7 +243,30 @@ Here are the 10 most recent hyperlink lists.
 | [July 20 at 9:26 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-07-20T21:26:41.015623-05:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 7:21 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-07-26T07:21:16.084184-05:00.accessibility.json) |
+| [July 25 at 7:16 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-07-25T19:16:20.944239-05:00.accessibility.json) |
+| [July 25 at 8:09 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-07-25T08:09:28.950911-05:00.accessibility.json) |
+| [July 23 at 11:14 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-07-23T23:14:04.782563-05:00.accessibility.json) |
+| [July 23 at 9:04 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-07-23T09:04:48.665117-05:00.accessibility.json) |
+| [July 22 at 9:30 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-07-22T21:29:59.097917-05:00.accessibility.json) |
+| [July 22 at 9:05 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-07-22T09:04:59.002703-05:00.accessibility.json) |
+| [July 21 at 9:24 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-07-21T21:24:50.565967-05:00.accessibility.json) |
+| [July 21 at 9:14 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-07-21T09:14:05.068828-05:00.accessibility.json) |
+| [July 20 at 9:26 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-07-20T21:26:41.015623-05:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

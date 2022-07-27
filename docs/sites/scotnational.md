@@ -326,7 +326,113 @@ Here are the 10 most recent hyperlink lists.
 | [July 20 at 5:41 PM](https://archive.org/download/scotnational-2022/scotnational-2022-07-20T17:41:15.344001+01:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 38 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/scotnational.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 1:20 AM](https://archive.org/download/scotnational-2022/scotnational-2022-07-27T01:20:00.616080+01:00.accessibility.json) |
+| [July 26 at 1:29 PM](https://archive.org/download/scotnational-2022/scotnational-2022-07-26T13:29:29.948450+01:00.accessibility.json) |
+| [July 26 at 1:24 AM](https://archive.org/download/scotnational-2022/scotnational-2022-07-26T01:24:19.721884+01:00.accessibility.json) |
+| [July 25 at 4:41 PM](https://archive.org/download/scotnational-2022/scotnational-2022-07-25T16:41:14.974047+01:00.accessibility.json) |
+| [July 25 at 4:42 AM](https://archive.org/download/scotnational-2022/scotnational-2022-07-25T04:42:54.143106+01:00.accessibility.json) |
+| [July 24 at 7:23 AM](https://archive.org/download/scotnational-2022/scotnational-2022-07-24T07:23:02.080958+01:00.accessibility.json) |
+| [July 23 at 4:09 PM](https://archive.org/download/scotnational-2022/scotnational-2022-07-23T16:09:18.846154+01:00.accessibility.json) |
+| [July 23 at 4:39 AM](https://archive.org/download/scotnational-2022/scotnational-2022-07-23T04:39:06.872193+01:00.accessibility.json) |
+| [July 22 at 4:04 PM](https://archive.org/download/scotnational-2022/scotnational-2022-07-22T16:04:52.118181+01:00.accessibility.json) |
+| [July 22 at 4:43 AM](https://archive.org/download/scotnational-2022/scotnational-2022-07-22T04:43:23.583689+01:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

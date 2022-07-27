@@ -31,46 +31,46 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-27T16:46:15.659277+05:45.jpg">
   <img src="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-27T16:46:15.659277+05:45.jpg"
-     alt="Annapurna Post at 2022-07-27 23:46:18+05:45 local time"
+     alt="Annapurna Post at 2022-07-27 16:46:18+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-27T16:46:15.659277+05:45.jpg">July 27 at 11:46 PM</a></p>
+ <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-27T16:46:15.659277+05:45.jpg">July 27 at 4:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-27T04:47:52.445211+05:45.jpg">
   <img src="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-27T04:47:52.445211+05:45.jpg"
-     alt="Annapurna Post at 2022-07-27 11:47:54+05:45 local time"
+     alt="Annapurna Post at 2022-07-27 04:47:54+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-27T04:47:52.445211+05:45.jpg">July 27 at 11:47 AM</a></p>
+ <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-27T04:47:52.445211+05:45.jpg">July 27 at 4:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-26T16:56:05.771547+05:45.jpg">
   <img src="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-26T16:56:05.771547+05:45.jpg"
-     alt="Annapurna Post at 2022-07-26 23:56:08+05:45 local time"
+     alt="Annapurna Post at 2022-07-26 16:56:08+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-26T16:56:05.771547+05:45.jpg">July 26 at 11:56 PM</a></p>
+ <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-26T16:56:05.771547+05:45.jpg">July 26 at 4:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T06:31:08.498425+05:45.jpg">
   <img src="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T06:31:08.498425+05:45.jpg"
-     alt="Annapurna Post at 2022-07-25 13:31:10+05:45 local time"
+     alt="Annapurna Post at 2022-07-25 06:31:10+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T06:31:08.498425+05:45.jpg">July 25 at 1:31 PM</a></p>
+ <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T06:31:08.498425+05:45.jpg">July 25 at 6:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T02:21:57.909910+05:45.jpg">
   <img src="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T02:21:57.909910+05:45.jpg"
-     alt="Annapurna Post at 2022-07-25 09:22:04+05:45 local time"
+     alt="Annapurna Post at 2022-07-25 02:22:04+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T02:21:57.909910+05:45.jpg">July 25 at 9:22 AM</a></p>
+ <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T02:21:57.909910+05:45.jpg">July 25 at 2:22 AM</a></p>
 </div>
 
 </div>
@@ -85,14 +85,32 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 11:46 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-27T16:46:15.659277+05:45.hyperlinks.json) |
-| [July 27 at 11:47 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-27T04:47:52.445211+05:45.hyperlinks.json) |
-| [July 26 at 11:56 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-26T16:56:05.771547+05:45.hyperlinks.json) |
-| [July 25 at 1:31 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T06:31:08.498425+05:45.hyperlinks.json) |
-| [July 25 at 9:22 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T02:21:57.909910+05:45.hyperlinks.json) |
+| [July 27 at 4:46 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-27T16:46:15.659277+05:45.hyperlinks.json) |
+| [July 27 at 4:47 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-27T04:47:52.445211+05:45.hyperlinks.json) |
+| [July 26 at 4:56 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-26T16:56:05.771547+05:45.hyperlinks.json) |
+| [July 25 at 6:31 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T06:31:08.498425+05:45.hyperlinks.json) |
+| [July 25 at 2:22 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T02:21:57.909910+05:45.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 5 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 4:46 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-27T16:46:15.659277+05:45.accessibility.json) |
+| [July 27 at 4:47 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-27T04:47:52.445211+05:45.accessibility.json) |
+| [July 26 at 4:56 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-26T16:56:05.771547+05:45.accessibility.json) |
+| [July 25 at 6:31 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T06:31:08.498425+05:45.accessibility.json) |
+| [July 25 at 2:22 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T02:21:57.909910+05:45.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

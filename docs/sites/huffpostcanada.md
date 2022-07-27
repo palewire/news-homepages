@@ -110,7 +110,27 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 2:33 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-07-24T02:32:52.886307-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 7 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 8:12 PM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-07-26T20:11:59.017575-04:00.accessibility.json) |
+| [July 26 at 8:19 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-07-26T08:19:28.327072-04:00.accessibility.json) |
+| [July 25 at 8:15 PM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-07-25T20:15:30.130825-04:00.accessibility.json) |
+| [July 25 at 8:06 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-07-25T08:06:55.164202-04:00.accessibility.json) |
+| [July 24 at 9:11 PM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-07-24T21:11:41.298268-04:00.accessibility.json) |
+| [July 24 at 8:03 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-07-24T08:03:06.512354-04:00.accessibility.json) |
+| [July 24 at 2:33 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-07-24T02:32:52.886307-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

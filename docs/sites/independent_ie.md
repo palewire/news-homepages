@@ -160,7 +160,30 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 3:04 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-07-22T15:03:55.172619+01:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 1:11 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-07-27T01:11:43.198050+01:00.accessibility.json) |
+| [July 26 at 1:19 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-07-26T13:19:08.360686+01:00.accessibility.json) |
+| [July 26 at 1:16 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-07-26T01:15:56.479193+01:00.accessibility.json) |
+| [July 25 at 1:06 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-07-25T13:06:46.675337+01:00.accessibility.json) |
+| [July 25 at 2:12 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-07-25T02:12:10.615199+01:00.accessibility.json) |
+| [July 24 at 1:02 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-07-24T13:02:46.469483+01:00.accessibility.json) |
+| [July 24 at 7:33 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-07-24T07:33:32.971551+01:00.accessibility.json) |
+| [July 23 at 3:03 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-07-23T15:03:00.180539+01:00.accessibility.json) |
+| [July 23 at 3:28 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-07-23T03:28:38.727359+01:00.accessibility.json) |
+| [July 22 at 3:04 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-07-22T15:03:55.172619+01:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

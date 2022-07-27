@@ -72,7 +72,23 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 2:19 AM](https://archive.org/download/mdr_san-2022/mdr_san-2022-07-26T02:18:45.386029+02:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 3 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 27 at 2:14 AM](https://archive.org/download/mdr_san-2022/mdr_san-2022-07-27T02:14:42.569080+02:00.accessibility.json) |
+| [July 26 at 2:25 PM](https://archive.org/download/mdr_san-2022/mdr_san-2022-07-26T14:25:11.917309+02:00.accessibility.json) |
+| [July 26 at 2:19 AM](https://archive.org/download/mdr_san-2022/mdr_san-2022-07-26T02:18:45.386029+02:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

@@ -151,7 +151,30 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 10:57 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-22T10:57:47.046911-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 11 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 8:15 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-26T20:15:19.400827-04:00.accessibility.json) |
+| [July 26 at 8:25 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-26T08:24:56.354549-04:00.accessibility.json) |
+| [July 25 at 8:19 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-25T20:19:40.890648-04:00.accessibility.json) |
+| [July 25 at 9:14 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-25T09:14:53.495362-04:00.accessibility.json) |
+| [July 24 at 11:32 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-24T23:32:47.585256-04:00.accessibility.json) |
+| [July 24 at 9:03 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-24T09:03:47.991078-04:00.accessibility.json) |
+| [July 24 at 12:19 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-24T00:19:22.875882-04:00.accessibility.json) |
+| [July 23 at 11:01 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-23T11:01:37.028396-04:00.accessibility.json) |
+| [July 22 at 11:32 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-22T23:32:02.859357-04:00.accessibility.json) |
+| [July 22 at 10:57 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-07-22T10:57:47.046911-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

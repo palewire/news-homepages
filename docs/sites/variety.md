@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/variety-2022/variety-2022-07-26T18:31:50.585218-07:00.jpg">
+  <img src="https://archive.org/download/variety-2022/variety-2022-07-26T18:31:50.585218-07:00.jpg"
+     alt="Variety at 2022-07-26 18:31:52-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/variety-2022/variety-2022-07-26T18:31:50.585218-07:00.jpg">July 26 at 6:31 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/variety-2022/variety-2022-07-26T06:32:51.186932-07:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/variety-2022/variety-2022-07-21T21:34:00.978060-07:00.jpg">July 21 at 9:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/variety-2022/variety-2022-07-21T09:58:10.567285-07:00.jpg">
-  <img src="https://archive.org/download/variety-2022/variety-2022-07-21T09:58:10.567285-07:00.jpg"
-     alt="Variety at 2022-07-21 09:58:12-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/variety-2022/variety-2022-07-21T09:58:10.567285-07:00.jpg">July 21 at 9:58 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 15 hyperlink lists with the Internet Archive.
+The archiving routine has saved 16 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 6:31 PM](https://archive.org/download/variety-2022/variety-2022-07-26T18:31:50.585218-07:00.hyperlinks.json) |
 | [July 26 at 6:32 AM](https://archive.org/download/variety-2022/variety-2022-07-26T06:32:51.186932-07:00.hyperlinks.json) |
 | [July 25 at 7:54 PM](https://archive.org/download/variety-2022/variety-2022-07-25T19:54:29.063807-07:00.hyperlinks.json) |
 | [July 25 at 8:51 AM](https://archive.org/download/variety-2022/variety-2022-07-25T08:51:52.045283-07:00.hyperlinks.json) |
@@ -157,10 +158,32 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:08 AM](https://archive.org/download/variety-2022/variety-2022-07-23T09:08:11.240680-07:00.hyperlinks.json) |
 | [July 22 at 9:28 PM](https://archive.org/download/variety-2022/variety-2022-07-22T21:28:14.063784-07:00.hyperlinks.json) |
 | [July 22 at 9:20 AM](https://archive.org/download/variety-2022/variety-2022-07-22T09:20:41.602796-07:00.hyperlinks.json) |
-| [July 21 at 9:34 PM](https://archive.org/download/variety-2022/variety-2022-07-21T21:34:00.978060-07:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 6:31 PM](https://archive.org/download/variety-2022/variety-2022-07-26T18:31:50.585218-07:00.accessibility.json) |
+| [July 26 at 6:32 AM](https://archive.org/download/variety-2022/variety-2022-07-26T06:32:51.186932-07:00.accessibility.json) |
+| [July 25 at 7:54 PM](https://archive.org/download/variety-2022/variety-2022-07-25T19:54:29.063807-07:00.accessibility.json) |
+| [July 25 at 6:38 PM](https://archive.org/download/variety-2022/variety-2022-07-25T18:37:58.450589-07:00.accessibility.json) |
+| [July 25 at 8:51 AM](https://archive.org/download/variety-2022/variety-2022-07-25T08:51:52.045283-07:00.accessibility.json) |
+| [July 24 at 9:39 PM](https://archive.org/download/variety-2022/variety-2022-07-24T21:39:51.927599-07:00.accessibility.json) |
+| [July 24 at 8:09 AM](https://archive.org/download/variety-2022/variety-2022-07-24T08:09:40.154844-07:00.accessibility.json) |
+| [July 23 at 8:45 PM](https://archive.org/download/variety-2022/variety-2022-07-23T20:45:31.830750-07:00.accessibility.json) |
+| [July 23 at 9:08 AM](https://archive.org/download/variety-2022/variety-2022-07-23T09:08:11.240680-07:00.accessibility.json) |
+| [July 22 at 9:28 PM](https://archive.org/download/variety-2022/variety-2022-07-22T21:28:14.063784-07:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 627 screenshots with the Internet Archive.
+The archiving routine has saved 628 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 627 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnn-2022/cnn-2022-07-26T21:25:54.107355-04:00.jpg">
+  <img src="https://archive.org/download/cnn-2022/cnn-2022-07-26T21:25:54.107355-04:00.jpg"
+     alt="CNN at 2022-07-26 21:25:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-26T21:25:54.107355-04:00.jpg">July 26 at 9:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cnn-2022/cnn-2022-07-26T17:12:00.194357-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-24T11:12:59.215149-04:00.jpg">July 24 at 11:13 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cnn-2022/cnn-2022-07-24T07:02:50.767703-04:00.jpg">
-  <img src="https://archive.org/download/cnn-2022/cnn-2022-07-24T07:02:50.767703-04:00.jpg"
-     alt="CNN at 2022-07-24 07:03:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-24T07:02:50.767703-04:00.jpg">July 24 at 7:03 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 572 hyperlink lists with the Internet Archive.
+The archiving routine has saved 573 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:25 PM](https://archive.org/download/cnn-2022/cnn-2022-07-26T21:25:54.107355-04:00.hyperlinks.json) |
 | [July 26 at 5:12 PM](https://archive.org/download/cnn-2022/cnn-2022-07-26T17:12:00.194357-04:00.hyperlinks.json) |
 | [July 26 at 11:58 AM](https://archive.org/download/cnn-2022/cnn-2022-07-26T11:58:07.864963-04:00.hyperlinks.json) |
 | [July 26 at 9:28 AM](https://archive.org/download/cnn-2022/cnn-2022-07-26T09:28:05.788038-04:00.hyperlinks.json) |
@@ -323,10 +324,115 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 7:03 AM](https://archive.org/download/cnn-2022/cnn-2022-07-25T07:03:04.760809-04:00.hyperlinks.json) |
 | [July 24 at 8:56 PM](https://archive.org/download/cnn-2022/cnn-2022-07-24T20:55:55.499865-04:00.hyperlinks.json) |
 | [July 24 at 5:20 PM](https://archive.org/download/cnn-2022/cnn-2022-07-24T17:20:22.618823-04:00.hyperlinks.json) |
-| [July 23 at 7:03 PM](https://archive.org/download/cnn-2022/cnn-2022-07-23T19:03:49.785930-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 567 accessibility trees with the Internet Archive.
+
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/cnn.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 9:25 PM](https://archive.org/download/cnn-2022/cnn-2022-07-26T21:25:54.107355-04:00.accessibility.json) |
+| [July 26 at 5:12 PM](https://archive.org/download/cnn-2022/cnn-2022-07-26T17:12:00.194357-04:00.accessibility.json) |
+| [July 26 at 11:58 AM](https://archive.org/download/cnn-2022/cnn-2022-07-26T11:58:07.864963-04:00.accessibility.json) |
+| [July 26 at 9:28 AM](https://archive.org/download/cnn-2022/cnn-2022-07-26T09:28:05.788038-04:00.accessibility.json) |
+| [July 25 at 10:59 PM](https://archive.org/download/cnn-2022/cnn-2022-07-25T22:59:21.100203-04:00.accessibility.json) |
+| [July 25 at 5:14 PM](https://archive.org/download/cnn-2022/cnn-2022-07-25T17:14:15.534852-04:00.accessibility.json) |
+| [July 25 at 7:03 AM](https://archive.org/download/cnn-2022/cnn-2022-07-25T07:03:04.760809-04:00.accessibility.json) |
+| [July 24 at 8:56 PM](https://archive.org/download/cnn-2022/cnn-2022-07-24T20:55:55.499865-04:00.accessibility.json) |
+| [July 24 at 5:20 PM](https://archive.org/download/cnn-2022/cnn-2022-07-24T17:20:22.618823-04:00.accessibility.json) |
+| [July 24 at 7:03 AM](https://archive.org/download/cnn-2022/cnn-2022-07-24T07:02:50.767703-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

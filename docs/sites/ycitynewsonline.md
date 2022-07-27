@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 3 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-26T21:32:29.185646-04:00.jpg">
+  <img src="https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-26T21:32:29.185646-04:00.jpg"
+     alt="Y-City News at 2022-07-26 21:32:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-26T21:32:29.185646-04:00.jpg">July 26 at 9:32 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-26T09:34:29.274846-04:00.jpg">
@@ -59,7 +68,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 3 hyperlink lists with the Internet Archive.
+The archiving routine has saved 4 hyperlink lists with the Internet Archive.
 
 
 
@@ -67,12 +76,30 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 26 at 9:32 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-26T21:32:29.185646-04:00.hyperlinks.json) |
 | [July 26 at 9:34 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-26T09:34:29.274846-04:00.hyperlinks.json) |
 | [July 25 at 10:56 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-25T22:56:31.570147-04:00.hyperlinks.json) |
 | [July 25 at 9:40 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-25T21:40:14.256624-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 4 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 9:32 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-26T21:32:29.185646-04:00.accessibility.json) |
+| [July 26 at 9:34 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-26T09:34:29.274846-04:00.accessibility.json) |
+| [July 25 at 10:56 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-25T22:56:31.570147-04:00.accessibility.json) |
+| [July 25 at 9:40 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-25T21:40:14.256624-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

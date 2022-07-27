@@ -72,7 +72,23 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 8:17 PM](https://archive.org/download/khnews-2022/khnews-2022-07-25T20:17:12.336652-04:00.hyperlinks.json) |
 
 
-## Internet Archive
+## Accessibility
+
+The archiving routine has saved 3 accessibility trees with the Internet Archive.
+
+
+
+Here are the 10 most recent accessibility trees.
+
+| Time  |
+| :---- |
+| [July 26 at 8:12 PM](https://archive.org/download/khnews-2022/khnews-2022-07-26T20:12:42.558110-04:00.accessibility.json) |
+| [July 26 at 8:22 AM](https://archive.org/download/khnews-2022/khnews-2022-07-26T08:22:32.772071-04:00.accessibility.json) |
+| [July 25 at 8:17 PM](https://archive.org/download/khnews-2022/khnews-2022-07-25T20:17:12.336652-04:00.accessibility.json) |
+
+
+
+## Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 
