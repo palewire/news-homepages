@@ -27,7 +27,7 @@ jobs:
         name: Post to Slack
         uses: ./.github/actions/slack
         with:
-          handle: baltimoresun
+          handle: globeandmail
           webhook-url: ${{ secrets.SLACK_WEBHOOK_URL_GLOBEANDMAIL }}
 
   palewire-slack:
@@ -44,5 +44,5 @@ jobs:
         name: Post to Slack
         uses: ./.github/actions/slack
         with:
-          handle: baltimoresun
+          handle: globeandmail
           webhook-url: ${{ secrets.SLACK_WEBHOOK_URL_PALEWIRE }}
