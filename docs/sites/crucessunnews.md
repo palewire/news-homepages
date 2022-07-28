@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 195 screenshots with the Internet Archive.
+The archiving routine has saved 196 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 195 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-27T17:05:15.364794-06:00.jpg">
+  <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-27T17:05:15.364794-06:00.jpg"
+     alt="Las Cruces Sun News at 2022-07-27 17:05:18-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-27T17:05:15.364794-06:00.jpg">July 27 at 5:05 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-27T05:05:21.394134-06:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-22T07:02:07.950402-06:00.jpg">July 22 at 7:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-21T19:10:26.219581-06:00.jpg">
-  <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-21T19:10:26.219581-06:00.jpg"
-     alt="Las Cruces Sun News at 2022-07-21 19:10:29-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-21T19:10:26.219581-06:00.jpg">July 21 at 7:10 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 189 hyperlink lists with the Internet Archive.
+The archiving routine has saved 190 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 5:05 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-27T17:05:15.364794-06:00.hyperlinks.json) |
 | [July 27 at 5:05 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-27T05:05:21.394134-06:00.hyperlinks.json) |
 | [July 26 at 5:07 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-26T17:07:25.470055-06:00.hyperlinks.json) |
 | [July 26 at 5:16 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-26T05:16:15.837273-06:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 5:56 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-24T05:56:06.424717-06:00.hyperlinks.json) |
 | [July 24 at 12:26 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-24T00:26:52.796665-06:00.hyperlinks.json) |
 | [July 23 at 7:02 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-23T07:02:06.382789-06:00.hyperlinks.json) |
-| [July 22 at 7:02 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-22T19:02:51.875334-06:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 185 accessibility trees with the Internet Archive.
+The archiving routine has saved 186 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 5:05 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-27T17:05:15.364794-06:00.accessibility.json) |
 | [July 27 at 5:05 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-27T05:05:21.394134-06:00.accessibility.json) |
 | [July 26 at 5:07 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-26T17:07:25.470055-06:00.accessibility.json) |
 | [July 26 at 5:16 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-26T05:16:15.837273-06:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 5:56 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-24T05:56:06.424717-06:00.accessibility.json) |
 | [July 23 at 7:02 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-23T07:02:06.382789-06:00.accessibility.json) |
 | [July 22 at 7:02 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-22T19:02:51.875334-06:00.accessibility.json) |
-| [July 22 at 7:02 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-22T07:02:07.950402-06:00.accessibility.json) |
 
 
 

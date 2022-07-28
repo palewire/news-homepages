@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 661 news sites.
+The most recent homepages captured from 662 news sites.
 
 <div class="latest-parent">
 
@@ -842,6 +842,15 @@ The most recent homepages captured from 661 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/bostonglobe.html">Boston Globe</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/bostonherald.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bostonherald.jpg"
+     alt="Boston Herald"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/bostonherald.html">Boston Herald</a></p>
 </div>
 
 <div class="latest-child">

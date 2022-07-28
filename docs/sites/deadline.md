@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 20 screenshots with the Internet Archive.
+The archiving routine has saved 21 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/deadline-2022/deadline-2022-07-27T16:05:06.424112-07:00.jpg">
+  <img src="https://archive.org/download/deadline-2022/deadline-2022-07-27T16:05:06.424112-07:00.jpg"
+     alt="Deadline at 2022-07-27 16:05:08-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deadline-2022/deadline-2022-07-27T16:05:06.424112-07:00.jpg">July 27 at 4:05 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deadline-2022/deadline-2022-07-27T04:05:52.436581-07:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/deadline-2022/deadline-2022-07-22T06:03:31.131777-07:00.jpg">July 22 at 6:03 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/deadline-2022/deadline-2022-07-21T18:11:38.745363-07:00.jpg">
-  <img src="https://archive.org/download/deadline-2022/deadline-2022-07-21T18:11:38.745363-07:00.jpg"
-     alt="Deadline at 2022-07-21 18:11:39-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deadline-2022/deadline-2022-07-21T18:11:38.745363-07:00.jpg">July 21 at 6:11 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 4:05 PM](https://archive.org/download/deadline-2022/deadline-2022-07-27T16:05:06.424112-07:00.hyperlinks.json) |
 | [July 27 at 4:05 AM](https://archive.org/download/deadline-2022/deadline-2022-07-27T04:05:52.436581-07:00.hyperlinks.json) |
 | [July 26 at 4:08 PM](https://archive.org/download/deadline-2022/deadline-2022-07-26T16:08:47.273895-07:00.hyperlinks.json) |
 | [July 26 at 4:15 AM](https://archive.org/download/deadline-2022/deadline-2022-07-26T04:15:51.816885-07:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 4:56 AM](https://archive.org/download/deadline-2022/deadline-2022-07-24T04:56:08.361410-07:00.hyperlinks.json) |
 | [July 23 at 11:26 PM](https://archive.org/download/deadline-2022/deadline-2022-07-23T23:26:25.090949-07:00.hyperlinks.json) |
 | [July 22 at 6:03 PM](https://archive.org/download/deadline-2022/deadline-2022-07-22T18:03:50.709455-07:00.hyperlinks.json) |
-| [July 22 at 6:03 AM](https://archive.org/download/deadline-2022/deadline-2022-07-22T06:03:31.131777-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 20 accessibility trees with the Internet Archive.
+The archiving routine has saved 21 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 4:05 PM](https://archive.org/download/deadline-2022/deadline-2022-07-27T16:05:06.424112-07:00.accessibility.json) |
 | [July 27 at 4:05 AM](https://archive.org/download/deadline-2022/deadline-2022-07-27T04:05:52.436581-07:00.accessibility.json) |
 | [July 26 at 4:08 PM](https://archive.org/download/deadline-2022/deadline-2022-07-26T16:08:47.273895-07:00.accessibility.json) |
 | [July 26 at 4:15 AM](https://archive.org/download/deadline-2022/deadline-2022-07-26T04:15:51.816885-07:00.accessibility.json) |
@@ -179,7 +180,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 4:56 AM](https://archive.org/download/deadline-2022/deadline-2022-07-24T04:56:08.361410-07:00.accessibility.json) |
 | [July 23 at 11:26 PM](https://archive.org/download/deadline-2022/deadline-2022-07-23T23:26:25.090949-07:00.accessibility.json) |
 | [July 23 at 6:03 AM](https://archive.org/download/deadline-2022/deadline-2022-07-23T06:03:10.333812-07:00.accessibility.json) |
-| [July 22 at 6:03 PM](https://archive.org/download/deadline-2022/deadline-2022-07-22T18:03:50.709455-07:00.accessibility.json) |
 
 
 

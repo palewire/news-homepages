@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 103 screenshots with the Internet Archive.
+The archiving routine has saved 104 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 103 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-27T19:07:19.437861-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-27T19:07:19.437861-04:00.jpg"
+     alt="Foreign Policy at 2022-07-27 19:07:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-27T19:07:19.437861-04:00.jpg">July 27 at 7:07 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-27T07:07:54.436400-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-22T10:00:57.066748-04:00.jpg">July 22 at 10:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-21T22:19:42.622792-04:00.jpg">
-  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-21T22:19:42.622792-04:00.jpg"
-     alt="Foreign Policy at 2022-07-21 22:19:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-21T22:19:42.622792-04:00.jpg">July 21 at 10:19 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 101 hyperlink lists with the Internet Archive.
+The archiving routine has saved 102 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:07 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-27T19:07:19.437861-04:00.hyperlinks.json) |
 | [July 27 at 7:07 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-27T07:07:54.436400-04:00.hyperlinks.json) |
 | [July 26 at 7:10 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-26T19:09:54.334165-04:00.hyperlinks.json) |
 | [July 26 at 7:18 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-26T07:18:09.349463-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 2:30 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-24T02:30:13.252330-04:00.hyperlinks.json) |
 | [July 23 at 9:59 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-23T09:59:20.963557-04:00.hyperlinks.json) |
 | [July 22 at 10:26 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-22T22:25:56.683002-04:00.hyperlinks.json) |
-| [July 22 at 10:01 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-22T10:00:57.066748-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 101 accessibility trees with the Internet Archive.
+The archiving routine has saved 102 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 7:07 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-27T19:07:19.437861-04:00.accessibility.json) |
 | [July 27 at 7:07 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-27T07:07:54.436400-04:00.accessibility.json) |
 | [July 26 at 7:10 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-26T19:09:54.334165-04:00.accessibility.json) |
 | [July 26 at 7:18 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-26T07:18:09.349463-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 7:59 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-24T07:59:31.482542-04:00.accessibility.json) |
 | [July 24 at 2:30 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-24T02:30:13.252330-04:00.accessibility.json) |
 | [July 23 at 9:59 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-23T09:59:20.963557-04:00.accessibility.json) |
-| [July 22 at 10:26 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-07-22T22:25:56.683002-04:00.accessibility.json) |
 
 
 

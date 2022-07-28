@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 318 screenshots with the Internet Archive.
+The archiving routine has saved 319 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 318 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ft-2022/ft-2022-07-27T15:28:58.273623+01:00.jpg">
+  <img src="https://archive.org/download/ft-2022/ft-2022-07-27T15:28:58.273623+01:00.jpg"
+     alt="Financial Times at 2022-07-27 15:29:00+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-07-27T15:28:58.273623+01:00.jpg">July 27 at 3:29 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ft-2022/ft-2022-07-27T10:09:05.367268+01:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ft-2022/ft-2022-07-24T07:30:31.643603+01:00.jpg">July 24 at 7:30 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ft-2022/ft-2022-07-23T15:01:04.918195+01:00.jpg">
-  <img src="https://archive.org/download/ft-2022/ft-2022-07-23T15:01:04.918195+01:00.jpg"
-     alt="Financial Times at 2022-07-23 15:01:14+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-07-23T15:01:04.918195+01:00.jpg">July 23 at 3:01 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 304 hyperlink lists with the Internet Archive.
+The archiving routine has saved 305 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 3:29 PM](https://archive.org/download/ft-2022/ft-2022-07-27T15:28:58.273623+01:00.hyperlinks.json) |
 | [July 27 at 10:09 AM](https://archive.org/download/ft-2022/ft-2022-07-27T10:09:05.367268+01:00.hyperlinks.json) |
 | [July 27 at 3:36 AM](https://archive.org/download/ft-2022/ft-2022-07-27T03:36:07.218532+01:00.hyperlinks.json) |
 | [July 26 at 3:39 PM](https://archive.org/download/ft-2022/ft-2022-07-26T15:39:13.880778+01:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 10:10 AM](https://archive.org/download/ft-2022/ft-2022-07-25T10:09:54.050396+01:00.hyperlinks.json) |
 | [July 25 at 2:07 AM](https://archive.org/download/ft-2022/ft-2022-07-25T02:06:58.144076+01:00.hyperlinks.json) |
 | [July 24 at 1:00 PM](https://archive.org/download/ft-2022/ft-2022-07-24T12:59:59.314535+01:00.hyperlinks.json) |
-| [July 24 at 10:10 AM](https://archive.org/download/ft-2022/ft-2022-07-24T10:09:59.470294+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 305 accessibility trees with the Internet Archive.
+The archiving routine has saved 306 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 3:29 PM](https://archive.org/download/ft-2022/ft-2022-07-27T15:28:58.273623+01:00.accessibility.json) |
 | [July 27 at 10:09 AM](https://archive.org/download/ft-2022/ft-2022-07-27T10:09:05.367268+01:00.accessibility.json) |
 | [July 27 at 3:36 AM](https://archive.org/download/ft-2022/ft-2022-07-27T03:36:07.218532+01:00.accessibility.json) |
 | [July 26 at 3:39 PM](https://archive.org/download/ft-2022/ft-2022-07-26T15:39:13.880778+01:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 10:10 AM](https://archive.org/download/ft-2022/ft-2022-07-25T10:09:54.050396+01:00.accessibility.json) |
 | [July 25 at 2:07 AM](https://archive.org/download/ft-2022/ft-2022-07-25T02:06:58.144076+01:00.accessibility.json) |
 | [July 24 at 1:00 PM](https://archive.org/download/ft-2022/ft-2022-07-24T12:59:59.314535+01:00.accessibility.json) |
-| [July 24 at 10:10 AM](https://archive.org/download/ft-2022/ft-2022-07-24T10:09:59.470294+01:00.accessibility.json) |
 
 
 

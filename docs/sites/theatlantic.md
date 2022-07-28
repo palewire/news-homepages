@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 80 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 80 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-27T09:23:01.667223-04:00.jpg">
+  <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-27T09:23:01.667223-04:00.jpg"
+     alt="Atlantic at 2022-07-27 09:23:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-27T09:23:01.667223-04:00.jpg">July 27 at 9:23 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-26T21:27:51.102934-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-22T12:17:40.539958-04:00.jpg">July 22 at 12:17 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-22T00:30:54.790861-04:00.jpg">
-  <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-22T00:30:54.790861-04:00.jpg"
-     alt="Atlantic at 2022-07-22 00:30:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-07-22T00:30:54.790861-04:00.jpg">July 22 at 12:30 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 82 hyperlink lists with the Internet Archive.
+The archiving routine has saved 83 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:23 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-27T09:23:01.667223-04:00.hyperlinks.json) |
 | [July 26 at 9:27 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-26T21:27:51.102934-04:00.hyperlinks.json) |
 | [July 26 at 9:29 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-26T09:29:39.550808-04:00.hyperlinks.json) |
 | [July 25 at 10:51 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T22:51:41.954659-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:05 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-24T11:05:36.769120-04:00.hyperlinks.json) |
 | [July 23 at 11:40 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T23:40:16.464256-04:00.hyperlinks.json) |
 | [July 23 at 12:04 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T12:04:08.903121-04:00.hyperlinks.json) |
-| [July 23 at 12:24 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T00:24:43.898572-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 82 accessibility trees with the Internet Archive.
+The archiving routine has saved 83 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:23 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-27T09:23:01.667223-04:00.accessibility.json) |
 | [July 26 at 9:27 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-26T21:27:51.102934-04:00.accessibility.json) |
 | [July 26 at 9:29 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-26T09:29:39.550808-04:00.accessibility.json) |
 | [July 25 at 10:51 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-25T22:51:41.954659-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 11:05 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-24T11:05:36.769120-04:00.accessibility.json) |
 | [July 23 at 11:40 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T23:40:16.464256-04:00.accessibility.json) |
 | [July 23 at 12:04 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T12:04:08.903121-04:00.accessibility.json) |
-| [July 23 at 12:24 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-07-23T00:24:43.898572-04:00.accessibility.json) |
 
 
 

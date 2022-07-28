@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-27T09:34:38.891339-05:00.jpg">
+  <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-27T09:34:38.891339-05:00.jpg"
+     alt="Lubbock Avalanche-Journal at 2022-07-27 09:34:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-27T09:34:38.891339-05:00.jpg">July 27 at 9:34 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-26T21:41:24.336118-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-21T22:35:48.344904-05:00.jpg">July 21 at 10:35 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-21T10:32:12.577205-05:00.jpg">
-  <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-21T10:32:12.577205-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-07-21 10:32:15-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-21T10:32:12.577205-05:00.jpg">July 21 at 10:32 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:34 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-27T09:34:38.891339-05:00.hyperlinks.json) |
 | [July 26 at 9:41 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-26T21:41:24.336118-05:00.hyperlinks.json) |
 | [July 26 at 9:39 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-26T09:39:50.781834-05:00.hyperlinks.json) |
 | [July 25 at 9:47 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-25T21:47:12.774023-05:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:18 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-23T23:18:13.185847-05:00.hyperlinks.json) |
 | [July 23 at 10:01 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-23T10:00:56.447440-05:00.hyperlinks.json) |
 | [July 22 at 10:30 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-22T22:30:30.076133-05:00.hyperlinks.json) |
-| [July 22 at 9:56 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-22T09:55:58.362566-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 18 accessibility trees with the Internet Archive.
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:34 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-27T09:34:38.891339-05:00.accessibility.json) |
 | [July 26 at 9:41 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-26T21:41:24.336118-05:00.accessibility.json) |
 | [July 26 at 9:39 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-26T09:39:50.781834-05:00.accessibility.json) |
 | [July 25 at 9:47 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-25T21:47:12.774023-05:00.accessibility.json) |
@@ -179,7 +180,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 11:18 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-23T23:18:13.185847-05:00.accessibility.json) |
 | [July 23 at 10:00 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-23T10:00:56.447440-05:00.accessibility.json) |
 | [July 22 at 10:30 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-22T22:30:30.076133-05:00.accessibility.json) |
-| [July 22 at 9:56 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-22T09:55:58.362566-05:00.accessibility.json) |
 
 
 

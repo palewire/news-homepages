@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 35 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-27T10:26:32.014307-04:00.jpg">
+  <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-27T10:26:32.014307-04:00.jpg"
+     alt="Daily Yonder at 2022-07-27 10:26:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-27T10:26:32.014307-04:00.jpg">July 27 at 10:26 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-26T22:34:47.217894-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-21T08:56:48.311472-04:00.jpg">July 21 at 8:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-20T21:09:38.193091-04:00.jpg">
-  <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-20T21:09:38.193091-04:00.jpg"
-     alt="Daily Yonder at 2022-07-20 21:09:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-20T21:09:38.193091-04:00.jpg">July 20 at 9:09 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 37 hyperlink lists with the Internet Archive.
+The archiving routine has saved 38 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 10:26 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-27T10:26:32.014307-04:00.hyperlinks.json) |
 | [July 26 at 10:34 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-26T22:34:47.217894-04:00.hyperlinks.json) |
 | [July 26 at 10:31 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-26T10:31:50.167109-04:00.hyperlinks.json) |
 | [July 25 at 10:40 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-25T22:40:24.957122-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 2:25 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-24T02:25:43.813626-04:00.hyperlinks.json) |
 | [July 23 at 9:03 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-23T09:03:12.619342-04:00.hyperlinks.json) |
 | [July 22 at 9:03 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-22T21:03:40.453776-04:00.hyperlinks.json) |
-| [July 22 at 9:03 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-22T09:02:59.309591-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 37 accessibility trees with the Internet Archive.
+The archiving routine has saved 38 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 10:26 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-27T10:26:32.014307-04:00.accessibility.json) |
 | [July 26 at 10:34 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-26T22:34:47.217894-04:00.accessibility.json) |
 | [July 26 at 10:31 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-26T10:31:50.167109-04:00.accessibility.json) |
 | [July 25 at 10:40 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-25T22:40:24.957122-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 2:25 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-24T02:25:43.813626-04:00.accessibility.json) |
 | [July 23 at 9:03 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-23T09:03:12.619342-04:00.accessibility.json) |
 | [July 22 at 9:03 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-22T21:03:40.453776-04:00.accessibility.json) |
-| [July 22 at 9:03 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-22T09:02:59.309591-04:00.accessibility.json) |
 
 
 

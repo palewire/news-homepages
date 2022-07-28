@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-27T09:31:44.450072-05:00.jpg">
+  <img src="https://archive.org/download/johncombest-2022/johncombest-2022-07-27T09:31:44.450072-05:00.jpg"
+     alt="John Combest at 2022-07-27 09:31:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-27T09:31:44.450072-05:00.jpg">July 27 at 9:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-26T21:38:53.644569-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-21T21:23:28.058228-05:00.jpg">July 21 at 9:23 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-21T09:13:52.050956-05:00.jpg">
-  <img src="https://archive.org/download/johncombest-2022/johncombest-2022-07-21T09:13:52.050956-05:00.jpg"
-     alt="John Combest at 2022-07-21 09:14:02-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-21T09:13:52.050956-05:00.jpg">July 21 at 9:14 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:31 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-27T09:31:44.450072-05:00.hyperlinks.json) |
 | [July 26 at 9:39 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-26T21:38:53.644569-05:00.hyperlinks.json) |
 | [July 26 at 9:36 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-26T09:36:51.343718-05:00.hyperlinks.json) |
 | [July 25 at 9:44 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-25T21:44:36.749707-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:14 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-23T23:13:46.474828-05:00.hyperlinks.json) |
 | [July 23 at 9:03 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-23T09:03:41.651290-05:00.hyperlinks.json) |
 | [July 22 at 9:29 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-22T21:29:53.904655-05:00.hyperlinks.json) |
-| [July 22 at 9:05 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-22T09:05:17.657011-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:31 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-27T09:31:44.450072-05:00.accessibility.json) |
 | [July 26 at 9:39 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-26T21:38:53.644569-05:00.accessibility.json) |
 | [July 26 at 9:36 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-26T09:36:51.343718-05:00.accessibility.json) |
 | [July 25 at 9:44 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-25T21:44:36.749707-05:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 11:13 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-23T23:13:46.474828-05:00.accessibility.json) |
 | [July 23 at 9:03 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-23T09:03:41.651290-05:00.accessibility.json) |
 | [July 22 at 9:29 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-22T21:29:53.904655-05:00.accessibility.json) |
-| [July 22 at 9:05 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-22T09:05:17.657011-05:00.accessibility.json) |
 
 
 

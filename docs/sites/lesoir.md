@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 3 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lesoir-2022/lesoir-2022-07-27T16:33:39.881112+02:00.jpg">
+  <img src="https://archive.org/download/lesoir-2022/lesoir-2022-07-27T16:33:39.881112+02:00.jpg"
+     alt="Le Soir at 2022-07-27 16:33:42+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lesoir-2022/lesoir-2022-07-27T16:33:39.881112+02:00.jpg">July 27 at 4:33 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lesoir-2022/lesoir-2022-07-27T04:41:00.845038+02:00.jpg">
@@ -59,7 +68,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 3 hyperlink lists with the Internet Archive.
+The archiving routine has saved 4 hyperlink lists with the Internet Archive.
 
 
 
@@ -67,6 +76,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 4:33 PM](https://archive.org/download/lesoir-2022/lesoir-2022-07-27T16:33:39.881112+02:00.hyperlinks.json) |
 | [July 27 at 4:41 AM](https://archive.org/download/lesoir-2022/lesoir-2022-07-27T04:41:00.845038+02:00.hyperlinks.json) |
 | [July 26 at 4:39 PM](https://archive.org/download/lesoir-2022/lesoir-2022-07-26T16:39:40.163713+02:00.hyperlinks.json) |
 | [July 26 at 4:47 AM](https://archive.org/download/lesoir-2022/lesoir-2022-07-26T04:46:46.113252+02:00.hyperlinks.json) |
@@ -74,7 +84,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 3 accessibility trees with the Internet Archive.
+The archiving routine has saved 4 accessibility trees with the Internet Archive.
 
 
 
@@ -82,6 +92,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 4:33 PM](https://archive.org/download/lesoir-2022/lesoir-2022-07-27T16:33:39.881112+02:00.accessibility.json) |
 | [July 27 at 4:41 AM](https://archive.org/download/lesoir-2022/lesoir-2022-07-27T04:41:00.845038+02:00.accessibility.json) |
 | [July 26 at 4:39 PM](https://archive.org/download/lesoir-2022/lesoir-2022-07-26T16:39:40.163713+02:00.accessibility.json) |
 | [July 26 at 4:47 AM](https://archive.org/download/lesoir-2022/lesoir-2022-07-26T04:46:46.113252+02:00.accessibility.json) |

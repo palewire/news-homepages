@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 74 screenshots with the Internet Archive.
+The archiving routine has saved 75 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 74 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-27T07:36:20.775084-07:00.jpg">
+  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-27T07:36:20.775084-07:00.jpg"
+     alt="NBC Bay Area at 2022-07-27 07:36:22-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-27T07:36:20.775084-07:00.jpg">July 27 at 7:36 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-26T19:42:25.120397-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-21T20:38:15.862770-07:00.jpg">July 21 at 8:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-21T08:31:34.908599-07:00.jpg">
-  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-21T08:31:34.908599-07:00.jpg"
-     alt="NBC Bay Area at 2022-07-21 08:31:37-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-21T08:31:34.908599-07:00.jpg">July 21 at 8:31 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 75 hyperlink lists with the Internet Archive.
+The archiving routine has saved 76 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:36 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-27T07:36:20.775084-07:00.hyperlinks.json) |
 | [July 26 at 7:42 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-26T19:42:25.120397-07:00.hyperlinks.json) |
 | [July 26 at 7:41 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-26T07:41:52.042285-07:00.hyperlinks.json) |
 | [July 25 at 7:49 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-25T19:49:02.605895-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:20 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-23T21:20:35.214658-07:00.hyperlinks.json) |
 | [July 23 at 8:03 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-23T08:03:10.474413-07:00.hyperlinks.json) |
 | [July 22 at 8:33 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-22T20:32:56.929900-07:00.hyperlinks.json) |
-| [July 22 at 7:58 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-22T07:58:50.831001-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 75 accessibility trees with the Internet Archive.
+The archiving routine has saved 76 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 7:36 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-27T07:36:20.775084-07:00.accessibility.json) |
 | [July 26 at 7:42 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-26T19:42:25.120397-07:00.accessibility.json) |
 | [July 26 at 7:41 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-26T07:41:52.042285-07:00.accessibility.json) |
 | [July 25 at 7:49 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-25T19:49:02.605895-07:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 9:20 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-23T21:20:35.214658-07:00.accessibility.json) |
 | [July 23 at 8:03 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-23T08:03:10.474413-07:00.accessibility.json) |
 | [July 22 at 8:33 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-22T20:32:56.929900-07:00.accessibility.json) |
-| [July 22 at 7:58 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-22T07:58:50.831001-07:00.accessibility.json) |
 
 
 

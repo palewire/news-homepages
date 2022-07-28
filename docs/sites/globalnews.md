@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 72 screenshots with the Internet Archive.
+The archiving routine has saved 73 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 72 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-27T10:29:44.290642-04:00.jpg">
+  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-07-27T10:29:44.290642-04:00.jpg"
+     alt="Global News at 2022-07-27 10:29:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-27T10:29:44.290642-04:00.jpg">July 27 at 10:29 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-26T22:37:15.960876-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-21T22:22:06.776197-04:00.jpg">July 21 at 10:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-21T10:09:40.471969-04:00.jpg">
-  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-07-21T10:09:40.471969-04:00.jpg"
-     alt="Global News at 2022-07-21 10:09:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-21T10:09:40.471969-04:00.jpg">July 21 at 10:09 AM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 58 accessibility trees with the Internet Archive.
+The archiving routine has saved 59 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 10:29 AM](https://archive.org/download/globalnews-2022/globalnews-2022-07-27T10:29:44.290642-04:00.accessibility.json) |
 | [July 26 at 10:36 AM](https://archive.org/download/globalnews-2022/globalnews-2022-07-26T10:36:51.165542-04:00.accessibility.json) |
 | [July 25 at 10:43 PM](https://archive.org/download/globalnews-2022/globalnews-2022-07-25T22:43:05.700850-04:00.accessibility.json) |
 | [July 25 at 8:04 AM](https://archive.org/download/globalnews-2022/globalnews-2022-07-25T08:04:24.195762-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 22 at 10:27 PM](https://archive.org/download/globalnews-2022/globalnews-2022-07-22T22:27:34.301624-04:00.accessibility.json) |
 | [July 22 at 10:02 AM](https://archive.org/download/globalnews-2022/globalnews-2022-07-22T10:02:27.094524-04:00.accessibility.json) |
 | [July 21 at 10:22 PM](https://archive.org/download/globalnews-2022/globalnews-2022-07-21T22:22:06.776197-04:00.accessibility.json) |
-| [July 21 at 10:09 AM](https://archive.org/download/globalnews-2022/globalnews-2022-07-21T10:09:40.471969-04:00.accessibility.json) |
 
 
 

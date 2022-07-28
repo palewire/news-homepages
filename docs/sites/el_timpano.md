@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-27T07:27:50.615409-07:00.jpg">
+  <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-27T07:27:50.615409-07:00.jpg"
+     alt="El Tímpano at 2022-07-27 07:27:53-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-27T07:27:50.615409-07:00.jpg">July 27 at 7:27 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-26T19:34:37.875725-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-21T19:18:36.442482-07:00.jpg">July 21 at 7:18 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-21T07:04:01.461602-07:00.jpg">
-  <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-21T07:04:01.461602-07:00.jpg"
-     alt="El Tímpano at 2022-07-21 07:04:04-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-07-21T07:04:01.461602-07:00.jpg">July 21 at 7:04 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:27 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-27T07:27:50.615409-07:00.hyperlinks.json) |
 | [July 26 at 7:34 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-26T19:34:37.875725-07:00.hyperlinks.json) |
 | [July 26 at 7:32 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-26T07:32:23.807338-07:00.hyperlinks.json) |
 | [July 25 at 7:40 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-25T19:40:47.123337-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:28 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-23T23:28:06.516535-07:00.hyperlinks.json) |
 | [July 23 at 6:57 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-23T06:57:44.528315-07:00.hyperlinks.json) |
 | [July 22 at 7:24 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-22T19:24:48.542526-07:00.hyperlinks.json) |
-| [July 22 at 6:59 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-22T06:59:19.139225-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 7:27 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-27T07:27:50.615409-07:00.accessibility.json) |
 | [July 26 at 7:34 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-26T19:34:37.875725-07:00.accessibility.json) |
 | [July 26 at 7:32 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-26T07:32:23.807338-07:00.accessibility.json) |
 | [July 25 at 7:40 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-25T19:40:47.123337-07:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 11:28 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-23T23:28:06.516535-07:00.accessibility.json) |
 | [July 23 at 6:57 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-23T06:57:44.528315-07:00.accessibility.json) |
 | [July 22 at 7:24 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-22T19:24:48.542526-07:00.accessibility.json) |
-| [July 22 at 6:59 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-07-22T06:59:19.139225-07:00.accessibility.json) |
 
 
 

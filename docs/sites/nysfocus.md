@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 40 screenshots with the Internet Archive.
+The archiving routine has saved 41 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 40 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-27T11:42:43.632408-04:00.jpg">
+  <img src="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-27T11:42:43.632408-04:00.jpg"
+     alt="New York Focus at 2022-07-27 11:42:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-27T11:42:43.632408-04:00.jpg">July 27 at 11:42 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-26T23:51:38.193128-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-21T23:39:31.040275-04:00.jpg">July 21 at 11:39 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-21T11:34:56.673025-04:00.jpg">
-  <img src="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-21T11:34:56.673025-04:00.jpg"
-     alt="New York Focus at 2022-07-21 11:35:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-21T11:34:56.673025-04:00.jpg">July 21 at 11:35 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 40 hyperlink lists with the Internet Archive.
+The archiving routine has saved 41 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 11:42 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-07-27T11:42:43.632408-04:00.hyperlinks.json) |
 | [July 26 at 11:51 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-07-26T23:51:38.193128-04:00.hyperlinks.json) |
 | [July 26 at 11:41 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-07-26T11:41:49.550725-04:00.hyperlinks.json) |
 | [July 25 at 11:54 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-07-25T23:53:59.375337-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 2:17 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-07-24T02:17:27.698653-04:00.hyperlinks.json) |
 | [July 23 at 11:05 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-07-23T11:04:57.652039-04:00.hyperlinks.json) |
 | [July 22 at 11:34 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-07-22T23:34:45.694010-04:00.hyperlinks.json) |
-| [July 22 at 11:00 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-07-22T11:00:08.513421-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 40 accessibility trees with the Internet Archive.
+The archiving routine has saved 41 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 11:42 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-07-27T11:42:43.632408-04:00.accessibility.json) |
 | [July 26 at 11:51 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-07-26T23:51:38.193128-04:00.accessibility.json) |
 | [July 26 at 11:41 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-07-26T11:41:49.550725-04:00.accessibility.json) |
 | [July 25 at 11:54 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-07-25T23:53:59.375337-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 2:17 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-07-24T02:17:27.698653-04:00.accessibility.json) |
 | [July 23 at 11:05 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-07-23T11:04:57.652039-04:00.accessibility.json) |
 | [July 22 at 11:34 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-07-22T23:34:45.694010-04:00.accessibility.json) |
-| [July 22 at 11:00 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-07-22T11:00:08.513421-04:00.accessibility.json) |
 
 
 

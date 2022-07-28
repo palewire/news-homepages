@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-07-27T09:23:45.136597-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-07-27T09:23:45.136597-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-07-27 09:23:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-07-27T09:23:45.136597-04:00.jpg">July 27 at 9:23 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thevdt-2022/thevdt-2022-07-26T21:29:21.272939-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-07-22T12:19:01.213545-04:00.jpg">July 22 at 12:19 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thevdt-2022/thevdt-2022-07-22T00:32:51.669155-04:00.jpg">
-  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-07-22T00:32:51.669155-04:00.jpg"
-     alt="Valdosta Daily Times at 2022-07-22 00:32:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-07-22T00:32:51.669155-04:00.jpg">July 22 at 12:32 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 13 hyperlink lists with the Internet Archive.
+The archiving routine has saved 14 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:23 AM](https://archive.org/download/thevdt-2022/thevdt-2022-07-27T09:23:45.136597-04:00.hyperlinks.json) |
 | [July 26 at 9:29 PM](https://archive.org/download/thevdt-2022/thevdt-2022-07-26T21:29:21.272939-04:00.hyperlinks.json) |
 | [July 26 at 9:31 AM](https://archive.org/download/thevdt-2022/thevdt-2022-07-26T09:30:59.825549-04:00.hyperlinks.json) |
 | [July 25 at 10:54 PM](https://archive.org/download/thevdt-2022/thevdt-2022-07-25T22:54:03.879864-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 12:07 PM](https://archive.org/download/thevdt-2022/thevdt-2022-07-23T12:07:02.997130-04:00.hyperlinks.json) |
 | [July 23 at 12:27 AM](https://archive.org/download/thevdt-2022/thevdt-2022-07-23T00:27:03.365988-04:00.hyperlinks.json) |
 | [July 22 at 12:19 PM](https://archive.org/download/thevdt-2022/thevdt-2022-07-22T12:19:01.213545-04:00.hyperlinks.json) |
-| [July 22 at 12:32 AM](https://archive.org/download/thevdt-2022/thevdt-2022-07-22T00:32:51.669155-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 14 accessibility trees with the Internet Archive.
+The archiving routine has saved 15 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:23 AM](https://archive.org/download/thevdt-2022/thevdt-2022-07-27T09:23:45.136597-04:00.accessibility.json) |
 | [July 26 at 9:29 PM](https://archive.org/download/thevdt-2022/thevdt-2022-07-26T21:29:21.272939-04:00.accessibility.json) |
 | [July 26 at 9:31 AM](https://archive.org/download/thevdt-2022/thevdt-2022-07-26T09:30:59.825549-04:00.accessibility.json) |
 | [July 25 at 10:54 PM](https://archive.org/download/thevdt-2022/thevdt-2022-07-25T22:54:03.879864-04:00.accessibility.json) |
@@ -179,7 +180,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 11:43 PM](https://archive.org/download/thevdt-2022/thevdt-2022-07-23T23:43:06.384899-04:00.accessibility.json) |
 | [July 23 at 12:07 PM](https://archive.org/download/thevdt-2022/thevdt-2022-07-23T12:07:02.997130-04:00.accessibility.json) |
 | [July 23 at 12:27 AM](https://archive.org/download/thevdt-2022/thevdt-2022-07-23T00:27:03.365988-04:00.accessibility.json) |
-| [July 22 at 12:19 PM](https://archive.org/download/thevdt-2022/thevdt-2022-07-22T12:19:01.213545-04:00.accessibility.json) |
 
 
 

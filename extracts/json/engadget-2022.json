@@ -1,8 +1,49 @@
 {
-  "created": 1658892084,
+  "created": 1659010367,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/15/items/engadget-2022",
+  "engadget-2022": [
+    {
+      "url": "https://www.engadget.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_engadget_com-_-2022_07_28_02_13_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_engadget_com-_-2022_07_28_02_13_54.report.json",
+      "summary": {
+        "performance": 0.69,
+        "accessibility": 0.98,
+        "best-practices": 0.83,
+        "seo": 0.99,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.engadget.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_engadget_com-_-2022_07_28_02_14_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_engadget_com-_-2022_07_28_02_14_09.report.json",
+      "summary": {
+        "performance": 0.69,
+        "accessibility": 0.98,
+        "best-practices": 0.83,
+        "seo": 0.99,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.engadget.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_engadget_com-_-2022_07_28_02_14_22.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_engadget_com-_-2022_07_28_02_14_22.report.json",
+      "summary": {
+        "performance": 0.62,
+        "accessibility": 0.98,
+        "best-practices": 0.83,
+        "seo": 0.99,
+        "pwa": 0.4
+      }
+    }
+  ],
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -2700,31 +2741,135 @@
       "sha1": "5e0bd2c5d65d53c75cb698d0ec4c7c397f06bc62"
     },
     {
+      "name": "engadget-2022-07-27T07:28:01.532478-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658932084",
+      "size": "25529",
+      "md5": "fff551f215e3f4ca62981f34983e0a7f",
+      "crc32": "f9bde59a",
+      "sha1": "bc220858968e26cad3dc8653a42298286a501531",
+      "format": "JSON"
+    },
+    {
+      "name": "engadget-2022-07-27T07:28:01.532478-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658932086",
+      "size": "25122",
+      "md5": "04ea063992982ebeb6b7d19568283938",
+      "crc32": "0d4d0278",
+      "sha1": "57a67602dbf6c5aac2594815312f80d4bb237b71",
+      "format": "JSON"
+    },
+    {
+      "name": "engadget-2022-07-27T07:28:01.532478-07:00.jpg",
+      "source": "original",
+      "mtime": "1658932083",
+      "size": "232587",
+      "md5": "443a0bd699879f8d511ce9874df420ba",
+      "crc32": "fd7c506c",
+      "sha1": "4d9ed712bbaeea48a6eedb7a88c14f6b14083020",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "engadget-2022-07-27T07:28:01.532478-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658932088",
+      "size": "1477",
+      "md5": "78cc92309c4dbe4d3edd9bd9a264a1ce",
+      "crc32": "b6bbe548",
+      "sha1": "af4474749d97f0854830bb79c0d895a66a46a290",
+      "format": "JSON"
+    },
+    {
+      "name": "engadget-2022-07-27T07:28:01.532478-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "engadget-2022-07-27T07:28:01.532478-07:00.jpg",
+      "mtime": "1658952726",
+      "size": "9336",
+      "md5": "769b71ef766ddb0c0345faa76d1c7756",
+      "crc32": "ca0c72a0",
+      "sha1": "421884b9e5b23f767211c137ed2966821edcfb4e"
+    },
+    {
+      "name": "engadget-2022-07-27T19:35:58.822372-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658975762",
+      "size": "24307",
+      "md5": "9e79d5b7933b0b64c5abeba15ac2924d",
+      "crc32": "aff3cf1c",
+      "sha1": "20efce54a3bcd34f275307787123628dac02bb2d",
+      "format": "JSON"
+    },
+    {
+      "name": "engadget-2022-07-27T19:35:58.822372-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658975763",
+      "size": "35206",
+      "md5": "c1e7fca18f3d1eb79bdd40fff1476325",
+      "crc32": "39f13e73",
+      "sha1": "9a7ffc3a7f9e8cce5c0216a9106c034cb3b7682b",
+      "format": "JSON"
+    },
+    {
+      "name": "engadget-2022-07-27T19:35:58.822372-07:00.jpg",
+      "source": "original",
+      "mtime": "1658975760",
+      "size": "221973",
+      "md5": "fc6d90eecef3ff1691e5e4464b3e7281",
+      "crc32": "5cc3c684",
+      "sha1": "2862605fcf7704df35c7bf1f09338678e66e3fbf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "engadget-2022-07-27T19:35:58.822372-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658975765",
+      "size": "1477",
+      "md5": "97996bb1b7f5a55d812d5d5f2109f44c",
+      "crc32": "a748ff84",
+      "sha1": "94d513d3d0f8c0b252632abef1e7d590ca82d31f",
+      "format": "JSON"
+    },
+    {
+      "name": "engadget-2022-07-27T19:35:58.822372-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "engadget-2022-07-27T19:35:58.822372-07:00.jpg",
+      "mtime": "1658985483",
+      "size": "9405",
+      "md5": "7e05e28b97991be713e19d95b98144e1",
+      "crc32": "734039cf",
+      "sha1": "84d05e25d585f3be7c3a149529b95633657cda20"
+    },
+    {
       "name": "engadget-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b6ea9b1477bba6993bc5ab450c62731a27ef4ac9",
-      "mtime": "1658892050",
-      "size": "55421",
-      "md5": "f191dd2c7031eb7cd0773a4e6d3531df",
-      "crc32": "eef18f76",
-      "sha1": "7a2c823a5d259b6b2bb223fcb6ec0f7427b51de4",
+      "btih": "ad7f4ccec7281d6398fd4bb1b4b11d9e55a1d4cb",
+      "mtime": "1658985640",
+      "size": "57539",
+      "md5": "33af30594e0dd3c587e472864bfd8c02",
+      "crc32": "a78e5f86",
+      "sha1": "14ce3b65ef3e1fa4de84098aaf5c5e37bd7265a5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "engadget-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "59a995bd5d477a1947e723ffbf43622c",
+      "md5": "1e248ef1122db8d6c322a7e7451852b6",
       "summation": "md5"
     },
     {
       "name": "engadget-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658889362",
-      "size": "315392",
-      "md5": "8de787feb42424bd910768b59e78b721",
-      "crc32": "21d7818f",
-      "sha1": "b76f4c0d12f83d60199355962ac8f84719e65540",
+      "mtime": "1658975769",
+      "size": "331776",
+      "md5": "c35330d98db3e38b9888148b5ecdab73",
+      "crc32": "a3e2f5ff",
+      "sha1": "b7961a29372f3b79f2926ecce6ba0ecd458fce00",
       "format": "Metadata"
     },
     {
@@ -2738,9 +2883,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 261,
-  "item_last_updated": 1658892050,
-  "item_size": 18915980,
+  "files_count": 271,
+  "item_last_updated": 1658985640,
+  "item_size": 19520901,
   "metadata": {
     "identifier": "engadget-2022",
     "collection": [
@@ -2757,10 +2902,10 @@
     "publicdate": "2022-07-04 20:17:31",
     "addeddate": "2022-07-04 20:17:31"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 1435730940,
+  "server": "ia801409.us.archive.org",
+  "uniq": 413201871,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

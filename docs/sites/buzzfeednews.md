@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 103 screenshots with the Internet Archive.
+The archiving routine has saved 104 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 103 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-27T19:03:00.517531-04:00.jpg">
+  <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-27T19:03:00.517531-04:00.jpg"
+     alt="Buzzfeed News at 2022-07-27 19:03:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-27T19:03:00.517531-04:00.jpg">July 27 at 7:03 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-27T07:03:48.995194-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-22T08:59:14.448568-04:00.jpg">July 22 at 8:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-21T21:07:57.520569-04:00.jpg">
-  <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-21T21:07:57.520569-04:00.jpg"
-     alt="Buzzfeed News at 2022-07-21 21:07:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-21T21:07:57.520569-04:00.jpg">July 21 at 9:07 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 103 hyperlink lists with the Internet Archive.
+The archiving routine has saved 104 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:03 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-27T19:03:00.517531-04:00.hyperlinks.json) |
 | [July 27 at 7:03 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-27T07:03:48.995194-04:00.hyperlinks.json) |
 | [July 26 at 7:05 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-26T19:05:27.665094-04:00.hyperlinks.json) |
 | [July 26 at 7:13 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-26T07:13:30.392445-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 7:00 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-24T07:00:20.577732-04:00.hyperlinks.json) |
 | [July 23 at 7:01 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-23T19:01:50.078796-04:00.hyperlinks.json) |
 | [July 23 at 8:59 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-23T08:59:40.236739-04:00.hyperlinks.json) |
-| [July 22 at 8:59 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-22T20:59:29.376086-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 104 accessibility trees with the Internet Archive.
+The archiving routine has saved 105 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 7:03 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-27T19:03:00.517531-04:00.accessibility.json) |
 | [July 27 at 7:03 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-27T07:03:48.995194-04:00.accessibility.json) |
 | [July 26 at 7:05 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-26T19:05:27.665094-04:00.accessibility.json) |
 | [July 26 at 7:13 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-26T07:13:30.392445-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 7:00 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-24T07:00:20.577732-04:00.accessibility.json) |
 | [July 23 at 7:01 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-23T19:01:50.078796-04:00.accessibility.json) |
 | [July 23 at 8:59 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-23T08:59:40.236739-04:00.accessibility.json) |
-| [July 22 at 8:59 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-07-22T20:59:29.376086-04:00.accessibility.json) |
 
 
 

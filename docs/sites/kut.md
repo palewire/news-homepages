@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 20 screenshots with the Internet Archive.
+The archiving routine has saved 22 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kut-2022/kut-2022-07-27T19:05:00.717253-05:00.jpg">
+  <img src="https://archive.org/download/kut-2022/kut-2022-07-27T19:05:00.717253-05:00.jpg"
+     alt="KUT at 2022-07-27 19:05:03-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-07-27T19:05:00.717253-05:00.jpg">July 27 at 7:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kut-2022/kut-2022-07-27T08:08:41.139711-05:00.jpg">
+  <img src="https://archive.org/download/kut-2022/kut-2022-07-27T08:08:41.139711-05:00.jpg"
+     alt="KUT at 2022-07-27 08:08:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-07-27T08:08:41.139711-05:00.jpg">July 27 at 8:08 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kut-2022/kut-2022-07-26T19:12:53.401163-05:00.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kut-2022/kut-2022-07-22T09:06:34.343179-05:00.jpg">July 22 at 9:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kut-2022/kut-2022-07-21T21:25:49.989198-05:00.jpg">
-  <img src="https://archive.org/download/kut-2022/kut-2022-07-21T21:25:49.989198-05:00.jpg"
-     alt="KUT at 2022-07-21 21:25:51-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-07-21T21:25:49.989198-05:00.jpg">July 21 at 9:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kut-2022/kut-2022-07-21T09:16:23.252096-05:00.jpg">
-  <img src="https://archive.org/download/kut-2022/kut-2022-07-21T09:16:23.252096-05:00.jpg"
-     alt="KUT at 2022-07-21 09:16:24-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-07-21T09:16:23.252096-05:00.jpg">July 21 at 9:16 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 20 hyperlink lists with the Internet Archive.
+The archiving routine has saved 22 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:05 PM](https://archive.org/download/kut-2022/kut-2022-07-27T19:05:00.717253-05:00.hyperlinks.json) |
+| [July 27 at 8:08 AM](https://archive.org/download/kut-2022/kut-2022-07-27T08:08:41.139711-05:00.hyperlinks.json) |
 | [July 26 at 7:13 PM](https://archive.org/download/kut-2022/kut-2022-07-26T19:12:53.401163-05:00.hyperlinks.json) |
 | [July 26 at 7:22 AM](https://archive.org/download/kut-2022/kut-2022-07-26T07:22:40.703527-05:00.hyperlinks.json) |
 | [July 25 at 7:17 PM](https://archive.org/download/kut-2022/kut-2022-07-25T19:16:58.163693-05:00.hyperlinks.json) |
@@ -156,13 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 8:00 AM](https://archive.org/download/kut-2022/kut-2022-07-24T07:59:56.729704-05:00.hyperlinks.json) |
 | [July 23 at 11:15 PM](https://archive.org/download/kut-2022/kut-2022-07-23T23:15:06.629437-05:00.hyperlinks.json) |
 | [July 23 at 9:06 AM](https://archive.org/download/kut-2022/kut-2022-07-23T09:06:17.432110-05:00.hyperlinks.json) |
-| [July 22 at 9:31 PM](https://archive.org/download/kut-2022/kut-2022-07-22T21:31:03.750283-05:00.hyperlinks.json) |
-| [July 22 at 9:06 AM](https://archive.org/download/kut-2022/kut-2022-07-22T09:06:34.343179-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 20 accessibility trees with the Internet Archive.
+The archiving routine has saved 22 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 7:05 PM](https://archive.org/download/kut-2022/kut-2022-07-27T19:05:00.717253-05:00.accessibility.json) |
+| [July 27 at 8:08 AM](https://archive.org/download/kut-2022/kut-2022-07-27T08:08:41.139711-05:00.accessibility.json) |
 | [July 26 at 7:12 PM](https://archive.org/download/kut-2022/kut-2022-07-26T19:12:53.401163-05:00.accessibility.json) |
 | [July 26 at 7:22 AM](https://archive.org/download/kut-2022/kut-2022-07-26T07:22:40.703527-05:00.accessibility.json) |
 | [July 25 at 7:17 PM](https://archive.org/download/kut-2022/kut-2022-07-25T19:16:58.163693-05:00.accessibility.json) |
@@ -178,8 +180,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 8:00 AM](https://archive.org/download/kut-2022/kut-2022-07-24T07:59:56.729704-05:00.accessibility.json) |
 | [July 23 at 11:15 PM](https://archive.org/download/kut-2022/kut-2022-07-23T23:15:06.629437-05:00.accessibility.json) |
 | [July 23 at 9:06 AM](https://archive.org/download/kut-2022/kut-2022-07-23T09:06:17.432110-05:00.accessibility.json) |
-| [July 22 at 9:31 PM](https://archive.org/download/kut-2022/kut-2022-07-22T21:31:03.750283-05:00.accessibility.json) |
-| [July 22 at 9:06 AM](https://archive.org/download/kut-2022/kut-2022-07-22T09:06:34.343179-05:00.accessibility.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-27T06:24:45.608952-07:00.jpg">
+  <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-27T06:24:45.608952-07:00.jpg"
+     alt="Arizona Daily Star at 2022-07-27 06:24:47-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-27T06:24:45.608952-07:00.jpg">July 27 at 6:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-26T18:29:56.094462-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-21T21:33:48.991069-07:00.jpg">July 21 at 9:33 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-21T09:56:59.923508-07:00.jpg">
-  <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-21T09:56:59.923508-07:00.jpg"
-     alt="Arizona Daily Star at 2022-07-21 09:57:03-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-21T09:56:59.923508-07:00.jpg">July 21 at 9:57 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 43 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 6:24 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-27T06:24:45.608952-07:00.hyperlinks.json) |
 | [July 26 at 6:30 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-26T18:29:56.094462-07:00.hyperlinks.json) |
 | [July 26 at 6:34 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-26T06:34:00.261983-07:00.hyperlinks.json) |
 | [July 25 at 7:53 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-25T19:53:27.328653-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 8:09 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-24T08:08:58.137384-07:00.hyperlinks.json) |
 | [July 23 at 8:44 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-23T20:43:59.888484-07:00.hyperlinks.json) |
 | [July 23 at 9:07 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-23T09:07:32.653046-07:00.hyperlinks.json) |
-| [July 22 at 9:27 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-22T21:27:17.895588-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 45 accessibility trees with the Internet Archive.
+The archiving routine has saved 46 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 6:24 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-27T06:24:45.608952-07:00.accessibility.json) |
 | [July 26 at 6:29 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-26T18:29:56.094462-07:00.accessibility.json) |
 | [July 26 at 6:34 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-26T06:34:00.261983-07:00.accessibility.json) |
 | [July 25 at 7:53 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-25T19:53:27.328653-07:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 8:09 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-24T08:08:58.137384-07:00.accessibility.json) |
 | [July 23 at 8:44 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-23T20:43:59.888484-07:00.accessibility.json) |
 | [July 23 at 9:07 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-23T09:07:32.653046-07:00.accessibility.json) |
-| [July 22 at 9:27 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-22T21:27:17.895588-07:00.accessibility.json) |
 
 
 

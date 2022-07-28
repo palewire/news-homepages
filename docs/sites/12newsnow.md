@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 21 screenshots with the Internet Archive.
+The archiving routine has saved 22 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-27T17:59:40.465096-05:00.jpg">
+  <img src="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-27T17:59:40.465096-05:00.jpg"
+     alt="12 News Now at 2022-07-27 17:59:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-27T17:59:40.465096-05:00.jpg">July 27 at 5:59 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-27T06:00:40.960947-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-22T07:54:50.198999-05:00.jpg">July 22 at 7:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-21T20:03:28.070109-05:00.jpg">
-  <img src="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-21T20:03:28.070109-05:00.jpg"
-     alt="12 News Now at 2022-07-21 20:03:29-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-07-21T20:03:28.070109-05:00.jpg">July 21 at 8:03 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 21 hyperlink lists with the Internet Archive.
+The archiving routine has saved 22 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 5:59 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-27T17:59:40.465096-05:00.hyperlinks.json) |
 | [July 27 at 6:00 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-27T06:00:40.960947-05:00.hyperlinks.json) |
 | [July 26 at 6:01 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-26T18:00:57.644347-05:00.hyperlinks.json) |
 | [July 26 at 6:09 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-26T06:09:26.054286-05:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 5:55 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-24T05:55:12.549100-05:00.hyperlinks.json) |
 | [July 23 at 5:57 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-23T17:57:41.316190-05:00.hyperlinks.json) |
 | [July 23 at 7:54 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-23T07:53:59.015886-05:00.hyperlinks.json) |
-| [July 22 at 7:54 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-22T19:54:46.799363-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 21 accessibility trees with the Internet Archive.
+The archiving routine has saved 22 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 5:59 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-27T17:59:40.465096-05:00.accessibility.json) |
 | [July 27 at 6:00 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-27T06:00:40.960947-05:00.accessibility.json) |
 | [July 26 at 6:01 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-26T18:00:57.644347-05:00.accessibility.json) |
 | [July 26 at 6:09 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-26T06:09:26.054286-05:00.accessibility.json) |
@@ -179,7 +180,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 5:55 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-24T05:55:12.549100-05:00.accessibility.json) |
 | [July 23 at 5:57 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-23T17:57:41.316190-05:00.accessibility.json) |
 | [July 23 at 7:54 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-23T07:53:59.015886-05:00.accessibility.json) |
-| [July 22 at 7:54 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-07-22T19:54:46.799363-05:00.accessibility.json) |
 
 
 

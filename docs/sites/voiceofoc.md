@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 55 screenshots with the Internet Archive.
+The archiving routine has saved 56 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 55 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-27T08:50:33.243018-07:00.jpg">
+  <img src="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-27T08:50:33.243018-07:00.jpg"
+     alt="Voice of OC at 2022-07-27 08:50:35-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-27T08:50:33.243018-07:00.jpg">July 27 at 8:50 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-26T20:57:50.512738-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-23T11:24:55.348898-07:00.jpg">July 23 at 11:24 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-23T09:08:44.869608-07:00.jpg">
-  <img src="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-23T09:08:44.869608-07:00.jpg"
-     alt="Voice of OC at 2022-07-23 09:08:46-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-23T09:08:44.869608-07:00.jpg">July 23 at 9:08 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 55 hyperlink lists with the Internet Archive.
+The archiving routine has saved 56 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 8:50 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-27T08:50:33.243018-07:00.hyperlinks.json) |
 | [July 26 at 8:57 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-26T20:57:50.512738-07:00.hyperlinks.json) |
 | [July 26 at 11:34 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-26T11:34:16.233241-07:00.hyperlinks.json) |
 | [July 26 at 8:49 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-26T08:49:15.411054-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 9:40 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-24T21:40:32.588736-07:00.hyperlinks.json) |
 | [July 24 at 11:22 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-24T11:22:30.095297-07:00.hyperlinks.json) |
 | [July 24 at 8:10 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-24T08:10:10.716392-07:00.hyperlinks.json) |
-| [July 23 at 8:45 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-23T20:45:38.840055-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 54 accessibility trees with the Internet Archive.
+The archiving routine has saved 55 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 8:50 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-27T08:50:33.243018-07:00.accessibility.json) |
 | [July 26 at 8:57 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-26T20:57:50.512738-07:00.accessibility.json) |
 | [July 26 at 11:34 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-26T11:34:16.233241-07:00.accessibility.json) |
 | [July 26 at 8:49 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-26T08:49:15.411054-07:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 9:40 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-24T21:40:32.588736-07:00.accessibility.json) |
 | [July 24 at 11:22 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-24T11:22:30.095297-07:00.accessibility.json) |
 | [July 24 at 8:10 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-24T08:10:10.716392-07:00.accessibility.json) |
-| [July 23 at 8:45 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-23T20:45:38.840055-07:00.accessibility.json) |
 
 
 

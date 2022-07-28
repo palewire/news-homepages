@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 71 screenshots with the Internet Archive.
+The archiving routine has saved 72 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 71 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-27T11:49:17.138290-04:00.jpg">
+  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-27T11:49:17.138290-04:00.jpg"
+     alt="Toronto Sun at 2022-07-27 11:49:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-27T11:49:17.138290-04:00.jpg">July 27 at 11:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-26T23:57:01.197872-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-22T00:32:48.701801-04:00.jpg">July 22 at 12:32 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-21T12:55:52.517951-04:00.jpg">
-  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-21T12:55:52.517951-04:00.jpg"
-     alt="Toronto Sun at 2022-07-21 12:55:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-21T12:55:52.517951-04:00.jpg">July 21 at 12:55 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 71 hyperlink lists with the Internet Archive.
+The archiving routine has saved 72 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 11:49 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-27T11:49:17.138290-04:00.hyperlinks.json) |
 | [July 26 at 11:57 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-26T23:57:01.197872-04:00.hyperlinks.json) |
 | [July 26 at 11:48 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-26T11:48:25.033107-04:00.hyperlinks.json) |
 | [July 25 at 11:59 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-25T23:59:35.313640-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:42 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-23T23:42:24.537011-04:00.hyperlinks.json) |
 | [July 23 at 12:07 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-23T12:07:02.534093-04:00.hyperlinks.json) |
 | [July 23 at 12:26 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-23T00:26:02.831798-04:00.hyperlinks.json) |
-| [July 22 at 12:19 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-22T12:19:06.752663-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 72 accessibility trees with the Internet Archive.
+The archiving routine has saved 73 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 11:49 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-27T11:49:17.138290-04:00.accessibility.json) |
 | [July 26 at 11:57 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-26T23:57:01.197872-04:00.accessibility.json) |
 | [July 26 at 11:48 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-26T11:48:25.033107-04:00.accessibility.json) |
 | [July 25 at 11:59 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-25T23:59:35.313640-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 11:42 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-23T23:42:24.537011-04:00.accessibility.json) |
 | [July 23 at 12:07 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-23T12:07:02.534093-04:00.accessibility.json) |
 | [July 23 at 12:26 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-23T00:26:02.831798-04:00.accessibility.json) |
-| [July 22 at 12:19 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-22T12:19:06.752663-04:00.accessibility.json) |
 
 
 

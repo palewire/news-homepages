@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 50 screenshots with the Internet Archive.
+The archiving routine has saved 51 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 50 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nypost-2022/nypost-2022-07-27T11:42:26.558275-04:00.jpg">
+  <img src="https://archive.org/download/nypost-2022/nypost-2022-07-27T11:42:26.558275-04:00.jpg"
+     alt="New York Post at 2022-07-27 11:42:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-27T11:42:26.558275-04:00.jpg">July 27 at 11:42 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nypost-2022/nypost-2022-07-26T23:51:48.599150-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-21T23:39:02.501934-04:00.jpg">July 21 at 11:39 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nypost-2022/nypost-2022-07-21T11:35:19.116647-04:00.jpg">
-  <img src="https://archive.org/download/nypost-2022/nypost-2022-07-21T11:35:19.116647-04:00.jpg"
-     alt="New York Post at 2022-07-21 11:35:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-21T11:35:19.116647-04:00.jpg">July 21 at 11:35 AM</a></p>
 </div>
 
 </div>

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 110 screenshots with the Internet Archive.
+The archiving routine has saved 111 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 110 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-27T09:26:42.974681-04:00.jpg">
+  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-27T09:26:42.974681-04:00.jpg"
+     alt="Votebeat at 2022-07-27 09:26:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-27T09:26:42.974681-04:00.jpg">July 27 at 9:26 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-26T21:30:53.786983-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-22T12:22:17.214447-04:00.jpg">July 22 at 12:22 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-22T00:35:05.273389-04:00.jpg">
-  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-22T00:35:05.273389-04:00.jpg"
-     alt="Votebeat at 2022-07-22 00:35:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-22T00:35:05.273389-04:00.jpg">July 22 at 12:35 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 111 hyperlink lists with the Internet Archive.
+The archiving routine has saved 112 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:26 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-27T09:26:42.974681-04:00.hyperlinks.json) |
 | [July 26 at 9:30 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-26T21:30:53.786983-04:00.hyperlinks.json) |
 | [July 26 at 9:33 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-26T09:33:37.013476-04:00.hyperlinks.json) |
 | [July 25 at 10:54 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-25T22:54:49.156609-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:10 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-24T11:10:14.083373-04:00.hyperlinks.json) |
 | [July 23 at 11:45 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-23T23:45:35.071322-04:00.hyperlinks.json) |
 | [July 23 at 12:09 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-23T12:09:15.287709-04:00.hyperlinks.json) |
-| [July 23 at 12:28 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-23T00:28:31.602343-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 111 accessibility trees with the Internet Archive.
+The archiving routine has saved 112 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:26 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-27T09:26:42.974681-04:00.accessibility.json) |
 | [July 26 at 9:30 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-26T21:30:53.786983-04:00.accessibility.json) |
 | [July 26 at 9:33 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-26T09:33:37.013476-04:00.accessibility.json) |
 | [July 25 at 10:54 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-25T22:54:49.156609-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 11:10 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-24T11:10:14.083373-04:00.accessibility.json) |
 | [July 23 at 11:45 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-23T23:45:35.071322-04:00.accessibility.json) |
 | [July 23 at 12:09 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-23T12:09:15.287709-04:00.accessibility.json) |
-| [July 23 at 12:28 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-23T00:28:31.602343-04:00.accessibility.json) |
 
 
 

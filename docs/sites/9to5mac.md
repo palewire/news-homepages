@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 6 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-27T15:59:47.317087-07:00.jpg">
+  <img src="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-27T15:59:47.317087-07:00.jpg"
+     alt="9to5Mac at 2022-07-27 15:59:49-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-27T15:59:47.317087-07:00.jpg">July 27 at 3:59 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-27T04:00:11.740572-07:00.jpg">
@@ -86,7 +95,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 6 hyperlink lists with the Internet Archive.
+The archiving routine has saved 7 hyperlink lists with the Internet Archive.
 
 
 
@@ -94,6 +103,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 3:59 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-27T15:59:47.317087-07:00.hyperlinks.json) |
 | [July 27 at 4:00 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-27T04:00:11.740572-07:00.hyperlinks.json) |
 | [July 26 at 4:01 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-26T16:01:43.667262-07:00.hyperlinks.json) |
 | [July 26 at 4:10 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-26T04:10:09.828106-07:00.hyperlinks.json) |
@@ -104,7 +114,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 6 accessibility trees with the Internet Archive.
+The archiving routine has saved 7 accessibility trees with the Internet Archive.
 
 
 
@@ -112,6 +122,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 3:59 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-27T15:59:47.317087-07:00.accessibility.json) |
 | [July 27 at 4:00 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-27T04:00:11.740572-07:00.accessibility.json) |
 | [July 26 at 4:01 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-26T16:01:43.667262-07:00.accessibility.json) |
 | [July 26 at 4:10 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-07-26T04:10:09.828106-07:00.accessibility.json) |

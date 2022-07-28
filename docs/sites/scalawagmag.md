@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 7 screenshots with the Internet Archive.
+The archiving routine has saved 8 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-27T11:45:39.595114-04:00.jpg">
+  <img src="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-27T11:45:39.595114-04:00.jpg"
+     alt="Scalawag at 2022-07-27 11:45:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-27T11:45:39.595114-04:00.jpg">July 27 at 11:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-26T23:54:19.503275-04:00.jpg">
@@ -95,7 +104,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 7 hyperlink lists with the Internet Archive.
+The archiving routine has saved 8 hyperlink lists with the Internet Archive.
 
 
 
@@ -103,6 +112,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 11:45 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-27T11:45:39.595114-04:00.hyperlinks.json) |
 | [July 26 at 11:54 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-26T23:54:19.503275-04:00.hyperlinks.json) |
 | [July 26 at 11:45 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-26T11:45:07.318911-04:00.hyperlinks.json) |
 | [July 25 at 11:57 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-25T23:57:11.842658-04:00.hyperlinks.json) |
@@ -114,7 +124,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 7 accessibility trees with the Internet Archive.
+The archiving routine has saved 8 accessibility trees with the Internet Archive.
 
 
 
@@ -122,6 +132,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 11:45 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-27T11:45:39.595114-04:00.accessibility.json) |
 | [July 26 at 11:54 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-26T23:54:19.503275-04:00.accessibility.json) |
 | [July 26 at 11:45 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-26T11:45:07.318911-04:00.accessibility.json) |
 | [July 25 at 11:57 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-25T23:57:11.842658-04:00.accessibility.json) |

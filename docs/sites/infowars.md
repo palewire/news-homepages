@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/infowars-2022/infowars-2022-07-27T09:31:17.553074-05:00.jpg">
+  <img src="https://archive.org/download/infowars-2022/infowars-2022-07-27T09:31:17.553074-05:00.jpg"
+     alt="Infowars at 2022-07-27 09:31:19-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-27T09:31:17.553074-05:00.jpg">July 27 at 9:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/infowars-2022/infowars-2022-07-26T21:38:48.365197-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-24T01:33:34.646579-05:00.jpg">July 24 at 1:33 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/infowars-2022/infowars-2022-07-23T11:11:27.195934-05:00.jpg">
-  <img src="https://archive.org/download/infowars-2022/infowars-2022-07-23T11:11:27.195934-05:00.jpg"
-     alt="Infowars at 2022-07-23 11:11:30-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-23T11:11:27.195934-05:00.jpg">July 23 at 11:11 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:31 AM](https://archive.org/download/infowars-2022/infowars-2022-07-27T09:31:17.553074-05:00.hyperlinks.json) |
 | [July 26 at 9:38 PM](https://archive.org/download/infowars-2022/infowars-2022-07-26T21:38:48.365197-05:00.hyperlinks.json) |
 | [July 26 at 1:35 PM](https://archive.org/download/infowars-2022/infowars-2022-07-26T13:35:32.588098-05:00.hyperlinks.json) |
 | [July 26 at 9:36 AM](https://archive.org/download/infowars-2022/infowars-2022-07-26T09:36:41.173712-05:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 7:06 AM](https://archive.org/download/infowars-2022/infowars-2022-07-25T07:06:28.353666-05:00.hyperlinks.json) |
 | [July 24 at 8:11 PM](https://archive.org/download/infowars-2022/infowars-2022-07-24T20:11:55.437932-05:00.hyperlinks.json) |
 | [July 24 at 10:44 AM](https://archive.org/download/infowars-2022/infowars-2022-07-24T10:44:23.177878-05:00.hyperlinks.json) |
-| [July 24 at 7:03 AM](https://archive.org/download/infowars-2022/infowars-2022-07-24T07:03:30.328033-05:00.hyperlinks.json) |
 
 
 ## Accessibility

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 6 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-27T19:04:52.824891-04:00.jpg">
+  <img src="https://archive.org/download/coindesk-2022/coindesk-2022-07-27T19:04:52.824891-04:00.jpg"
+     alt="CoinDesk at 2022-07-27 19:04:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-27T19:04:52.824891-04:00.jpg">July 27 at 7:04 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-27T07:05:30.823050-04:00.jpg">
@@ -86,7 +95,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 6 hyperlink lists with the Internet Archive.
+The archiving routine has saved 7 hyperlink lists with the Internet Archive.
 
 
 
@@ -94,6 +103,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:04 PM](https://archive.org/download/coindesk-2022/coindesk-2022-07-27T19:04:52.824891-04:00.hyperlinks.json) |
 | [July 27 at 7:05 AM](https://archive.org/download/coindesk-2022/coindesk-2022-07-27T07:05:30.823050-04:00.hyperlinks.json) |
 | [July 26 at 7:07 PM](https://archive.org/download/coindesk-2022/coindesk-2022-07-26T19:07:35.637498-04:00.hyperlinks.json) |
 | [July 26 at 7:15 AM](https://archive.org/download/coindesk-2022/coindesk-2022-07-26T07:14:58.511540-04:00.hyperlinks.json) |
@@ -104,7 +114,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 6 accessibility trees with the Internet Archive.
+The archiving routine has saved 7 accessibility trees with the Internet Archive.
 
 
 
@@ -112,6 +122,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 7:04 PM](https://archive.org/download/coindesk-2022/coindesk-2022-07-27T19:04:52.824891-04:00.accessibility.json) |
 | [July 27 at 7:05 AM](https://archive.org/download/coindesk-2022/coindesk-2022-07-27T07:05:30.823050-04:00.accessibility.json) |
 | [July 26 at 7:07 PM](https://archive.org/download/coindesk-2022/coindesk-2022-07-26T19:07:35.637498-04:00.accessibility.json) |
 | [July 26 at 7:15 AM](https://archive.org/download/coindesk-2022/coindesk-2022-07-26T07:14:58.511540-04:00.accessibility.json) |

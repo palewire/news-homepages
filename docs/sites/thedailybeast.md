@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 8 screenshots with the Internet Archive.
+The archiving routine has saved 9 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-27T11:48:44.184118-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-27T11:48:44.184118-04:00.jpg"
+     alt="Daily Beast at 2022-07-27 11:48:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-27T11:48:44.184118-04:00.jpg">July 27 at 11:48 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-26T23:56:02.260071-04:00.jpg">
@@ -104,7 +113,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 7 hyperlink lists with the Internet Archive.
+The archiving routine has saved 8 hyperlink lists with the Internet Archive.
 
 
 
@@ -112,6 +121,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 11:48 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-27T11:48:44.184118-04:00.hyperlinks.json) |
 | [July 26 at 11:56 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-26T23:56:02.260071-04:00.hyperlinks.json) |
 | [July 26 at 11:47 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-26T11:47:05.386718-04:00.hyperlinks.json) |
 | [July 25 at 11:59 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-25T23:59:00.229029-04:00.hyperlinks.json) |
@@ -123,7 +133,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 7 accessibility trees with the Internet Archive.
+The archiving routine has saved 8 accessibility trees with the Internet Archive.
 
 
 
@@ -131,6 +141,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 11:48 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-27T11:48:44.184118-04:00.accessibility.json) |
 | [July 26 at 11:56 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-26T23:56:02.260071-04:00.accessibility.json) |
 | [July 26 at 11:47 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-26T11:47:05.386718-04:00.accessibility.json) |
 | [July 25 at 11:59 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-07-25T23:59:00.229029-04:00.accessibility.json) |

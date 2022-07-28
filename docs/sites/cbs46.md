@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbs46-2022/cbs46-2022-07-27T09:19:23.026220-04:00.jpg">
+  <img src="https://archive.org/download/cbs46-2022/cbs46-2022-07-27T09:19:23.026220-04:00.jpg"
+     alt="CBS46 at 2022-07-27 09:19:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-07-27T09:19:23.026220-04:00.jpg">July 27 at 9:19 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbs46-2022/cbs46-2022-07-26T21:25:03.966567-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-07-22T09:00:13.577535-04:00.jpg">July 22 at 9:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cbs46-2022/cbs46-2022-07-21T21:07:45.423085-04:00.jpg">
-  <img src="https://archive.org/download/cbs46-2022/cbs46-2022-07-21T21:07:45.423085-04:00.jpg"
-     alt="CBS46 at 2022-07-21 21:07:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-07-21T21:07:45.423085-04:00.jpg">July 21 at 9:07 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 15 hyperlink lists with the Internet Archive.
+The archiving routine has saved 16 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:19 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-27T09:19:23.026220-04:00.hyperlinks.json) |
 | [July 26 at 9:25 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-26T21:25:03.966567-04:00.hyperlinks.json) |
 | [July 26 at 9:27 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-26T09:27:32.202902-04:00.hyperlinks.json) |
 | [July 25 at 10:58 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-25T22:58:26.338934-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 7:01 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-24T07:01:11.078104-04:00.hyperlinks.json) |
 | [July 23 at 7:02 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-23T19:02:32.547036-04:00.hyperlinks.json) |
 | [July 23 at 8:59 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-23T08:59:36.761391-04:00.hyperlinks.json) |
-| [July 22 at 9:00 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-22T21:00:44.728215-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 15 accessibility trees with the Internet Archive.
+The archiving routine has saved 16 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:19 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-27T09:19:23.026220-04:00.accessibility.json) |
 | [July 26 at 9:25 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-26T21:25:03.966567-04:00.accessibility.json) |
 | [July 26 at 9:27 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-26T09:27:32.202902-04:00.accessibility.json) |
 | [July 25 at 10:58 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-25T22:58:26.338934-04:00.accessibility.json) |
@@ -179,7 +180,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 7:01 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-24T07:01:11.078104-04:00.accessibility.json) |
 | [July 23 at 7:02 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-23T19:02:32.547036-04:00.accessibility.json) |
 | [July 23 at 8:59 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-23T08:59:36.761391-04:00.accessibility.json) |
-| [July 22 at 9:00 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-22T21:00:44.728215-04:00.accessibility.json) |
 
 
 

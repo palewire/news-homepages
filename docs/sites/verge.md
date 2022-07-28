@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 95 screenshots with the Internet Archive.
+The archiving routine has saved 96 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 95 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/verge-2022/verge-2022-07-27T11:51:20.060547-04:00.jpg">
+  <img src="https://archive.org/download/verge-2022/verge-2022-07-27T11:51:20.060547-04:00.jpg"
+     alt="Verge at 2022-07-27 11:51:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/verge-2022/verge-2022-07-27T11:51:20.060547-04:00.jpg">July 27 at 11:51 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/verge-2022/verge-2022-07-26T23:57:48.069379-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/verge-2022/verge-2022-07-22T12:21:13.398144-04:00.jpg">July 22 at 12:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/verge-2022/verge-2022-07-22T00:34:44.275675-04:00.jpg">
-  <img src="https://archive.org/download/verge-2022/verge-2022-07-22T00:34:44.275675-04:00.jpg"
-     alt="Verge at 2022-07-22 00:34:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/verge-2022/verge-2022-07-22T00:34:44.275675-04:00.jpg">July 22 at 12:34 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 95 hyperlink lists with the Internet Archive.
+The archiving routine has saved 96 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 11:51 AM](https://archive.org/download/verge-2022/verge-2022-07-27T11:51:20.060547-04:00.hyperlinks.json) |
 | [July 26 at 11:57 PM](https://archive.org/download/verge-2022/verge-2022-07-26T23:57:48.069379-04:00.hyperlinks.json) |
 | [July 26 at 11:49 AM](https://archive.org/download/verge-2022/verge-2022-07-26T11:49:01.123328-04:00.hyperlinks.json) |
 | [July 26 at 12:00 AM](https://archive.org/download/verge-2022/verge-2022-07-26T00:00:55.255051-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:10 AM](https://archive.org/download/verge-2022/verge-2022-07-24T11:10:21.118584-04:00.hyperlinks.json) |
 | [July 23 at 11:45 PM](https://archive.org/download/verge-2022/verge-2022-07-23T23:45:49.225967-04:00.hyperlinks.json) |
 | [July 23 at 12:08 PM](https://archive.org/download/verge-2022/verge-2022-07-23T12:08:17.937995-04:00.hyperlinks.json) |
-| [July 23 at 12:28 AM](https://archive.org/download/verge-2022/verge-2022-07-23T00:28:20.104792-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 96 accessibility trees with the Internet Archive.
+The archiving routine has saved 97 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 11:51 AM](https://archive.org/download/verge-2022/verge-2022-07-27T11:51:20.060547-04:00.accessibility.json) |
 | [July 26 at 11:57 PM](https://archive.org/download/verge-2022/verge-2022-07-26T23:57:48.069379-04:00.accessibility.json) |
 | [July 26 at 11:49 AM](https://archive.org/download/verge-2022/verge-2022-07-26T11:49:01.123328-04:00.accessibility.json) |
 | [July 26 at 12:00 AM](https://archive.org/download/verge-2022/verge-2022-07-26T00:00:55.255051-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 11:10 AM](https://archive.org/download/verge-2022/verge-2022-07-24T11:10:21.118584-04:00.accessibility.json) |
 | [July 23 at 11:45 PM](https://archive.org/download/verge-2022/verge-2022-07-23T23:45:49.225967-04:00.accessibility.json) |
 | [July 23 at 12:08 PM](https://archive.org/download/verge-2022/verge-2022-07-23T12:08:17.937995-04:00.accessibility.json) |
-| [July 23 at 12:28 AM](https://archive.org/download/verge-2022/verge-2022-07-23T00:28:20.104792-04:00.accessibility.json) |
 
 
 

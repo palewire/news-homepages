@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 82 screenshots with the Internet Archive.
+The archiving routine has saved 83 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 82 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-07-27T09:25:24.794370-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-07-27T09:25:24.794370-04:00.jpg"
+     alt="TIME at 2022-07-27 09:25:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-07-27T09:25:24.794370-04:00.jpg">July 27 at 9:25 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/time-2022/time-2022-07-26T21:30:02.926986-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/time-2022/time-2022-07-22T12:19:14.340741-04:00.jpg">July 22 at 12:19 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-07-22T00:33:03.257423-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-07-22T00:33:03.257423-04:00.jpg"
-     alt="TIME at 2022-07-22 00:33:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-07-22T00:33:03.257423-04:00.jpg">July 22 at 12:33 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 79 hyperlink lists with the Internet Archive.
+The archiving routine has saved 80 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:25 AM](https://archive.org/download/time-2022/time-2022-07-27T09:25:24.794370-04:00.hyperlinks.json) |
 | [July 26 at 9:30 PM](https://archive.org/download/time-2022/time-2022-07-26T21:30:02.926986-04:00.hyperlinks.json) |
 | [July 26 at 9:31 AM](https://archive.org/download/time-2022/time-2022-07-26T09:31:34.797704-04:00.hyperlinks.json) |
 | [July 25 at 10:51 PM](https://archive.org/download/time-2022/time-2022-07-25T22:50:59.963752-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:07 AM](https://archive.org/download/time-2022/time-2022-07-24T11:07:51.743620-04:00.hyperlinks.json) |
 | [July 23 at 12:06 PM](https://archive.org/download/time-2022/time-2022-07-23T12:06:42.304738-04:00.hyperlinks.json) |
 | [July 23 at 12:27 AM](https://archive.org/download/time-2022/time-2022-07-23T00:27:18.516989-04:00.hyperlinks.json) |
-| [July 22 at 12:19 PM](https://archive.org/download/time-2022/time-2022-07-22T12:19:14.340741-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 82 accessibility trees with the Internet Archive.
+The archiving routine has saved 83 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:25 AM](https://archive.org/download/time-2022/time-2022-07-27T09:25:24.794370-04:00.accessibility.json) |
 | [July 26 at 9:30 PM](https://archive.org/download/time-2022/time-2022-07-26T21:30:02.926986-04:00.accessibility.json) |
 | [July 26 at 9:31 AM](https://archive.org/download/time-2022/time-2022-07-26T09:31:34.797704-04:00.accessibility.json) |
 | [July 25 at 10:51 PM](https://archive.org/download/time-2022/time-2022-07-25T22:50:59.963752-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 11:07 AM](https://archive.org/download/time-2022/time-2022-07-24T11:07:51.743620-04:00.accessibility.json) |
 | [July 23 at 11:43 PM](https://archive.org/download/time-2022/time-2022-07-23T23:43:35.784909-04:00.accessibility.json) |
 | [July 23 at 12:06 PM](https://archive.org/download/time-2022/time-2022-07-23T12:06:42.304738-04:00.accessibility.json) |
-| [July 23 at 12:27 AM](https://archive.org/download/time-2022/time-2022-07-23T00:27:18.516989-04:00.accessibility.json) |
 
 
 

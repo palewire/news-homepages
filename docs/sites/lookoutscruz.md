@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-27T07:34:11.148059-07:00.jpg">
+  <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-27T07:34:11.148059-07:00.jpg"
+     alt="Lookout Santa Cruz at 2022-07-27 07:34:12-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-27T07:34:11.148059-07:00.jpg">July 27 at 7:34 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-26T19:40:35.888930-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-21T20:34:58.372616-07:00.jpg">July 21 at 8:35 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-21T08:27:40.610094-07:00.jpg">
-  <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-21T08:27:40.610094-07:00.jpg"
-     alt="Lookout Santa Cruz at 2022-07-21 08:27:42-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-21T08:27:40.610094-07:00.jpg">July 21 at 8:27 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:34 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-27T07:34:11.148059-07:00.hyperlinks.json) |
 | [July 26 at 7:40 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-26T19:40:35.888930-07:00.hyperlinks.json) |
 | [July 26 at 7:39 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-26T07:39:31.019974-07:00.hyperlinks.json) |
 | [July 25 at 7:46 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-25T19:46:45.179394-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:17 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-23T21:17:13.152231-07:00.hyperlinks.json) |
 | [July 23 at 8:00 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-23T08:00:36.335430-07:00.hyperlinks.json) |
 | [July 22 at 8:31 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-22T20:31:02.574875-07:00.hyperlinks.json) |
-| [July 22 at 7:56 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-22T07:56:02.082806-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 7:34 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-27T07:34:11.148059-07:00.accessibility.json) |
 | [July 26 at 7:40 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-26T19:40:35.888930-07:00.accessibility.json) |
 | [July 26 at 7:39 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-26T07:39:31.019974-07:00.accessibility.json) |
 | [July 25 at 7:46 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-25T19:46:45.179394-07:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 9:17 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-23T21:17:13.152231-07:00.accessibility.json) |
 | [July 23 at 8:00 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-23T08:00:36.335430-07:00.accessibility.json) |
 | [July 22 at 8:31 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-22T20:31:02.574875-07:00.accessibility.json) |
-| [July 22 at 7:56 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-07-22T07:56:02.082806-07:00.accessibility.json) |
 
 
 

@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-27T20:06:39.135263-04:00.jpg">
+  <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-27T20:06:39.135263-04:00.jpg"
+     alt="The Ledger-Enquirer at 2022-07-27 20:06:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-27T20:06:39.135263-04:00.jpg">July 27 at 8:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-27T09:09:38.498580-04:00.jpg">
+  <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-27T09:09:38.498580-04:00.jpg"
+     alt="The Ledger-Enquirer at 2022-07-27 09:09:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-27T09:09:38.498580-04:00.jpg">July 27 at 9:09 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-26T20:14:07.482901-04:00.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-22T10:07:44.840501-04:00.jpg">July 22 at 10:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-21T22:27:36.315825-04:00.jpg">
-  <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-21T22:27:36.315825-04:00.jpg"
-     alt="The Ledger-Enquirer at 2022-07-21 22:27:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-21T22:27:36.315825-04:00.jpg">July 21 at 10:27 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-21T11:32:15.165637-04:00.jpg">
-  <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-21T11:32:15.165637-04:00.jpg"
-     alt="The Ledger-Enquirer at 2022-07-21 11:32:17-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-21T11:32:15.165637-04:00.jpg">July 21 at 11:32 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 14 hyperlink lists with the Internet Archive.
+The archiving routine has saved 16 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 8:06 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-27T20:06:39.135263-04:00.hyperlinks.json) |
+| [July 27 at 9:09 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-27T09:09:38.498580-04:00.hyperlinks.json) |
 | [July 26 at 8:14 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-26T20:14:07.482901-04:00.hyperlinks.json) |
 | [July 26 at 8:23 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-26T08:23:43.557838-04:00.hyperlinks.json) |
 | [July 25 at 8:19 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-25T20:19:01.215103-04:00.hyperlinks.json) |
@@ -156,13 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 9:01 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-24T09:01:16.047327-04:00.hyperlinks.json) |
 | [July 24 at 12:17 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-24T00:17:07.333026-04:00.hyperlinks.json) |
 | [July 23 at 10:07 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-23T10:07:41.776160-04:00.hyperlinks.json) |
-| [July 22 at 10:32 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-22T22:32:38.249979-04:00.hyperlinks.json) |
-| [July 22 at 10:07 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-22T10:07:44.840501-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 14 accessibility trees with the Internet Archive.
+The archiving routine has saved 16 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 8:06 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-27T20:06:39.135263-04:00.accessibility.json) |
+| [July 27 at 9:09 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-27T09:09:38.498580-04:00.accessibility.json) |
 | [July 26 at 8:14 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-26T20:14:07.482901-04:00.accessibility.json) |
 | [July 26 at 8:23 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-26T08:23:43.557838-04:00.accessibility.json) |
 | [July 25 at 8:19 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-25T20:19:01.215103-04:00.accessibility.json) |
@@ -178,8 +180,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 9:01 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-24T09:01:16.047327-04:00.accessibility.json) |
 | [July 24 at 12:17 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-24T00:17:07.333026-04:00.accessibility.json) |
 | [July 23 at 10:07 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-23T10:07:41.776160-04:00.accessibility.json) |
-| [July 22 at 10:32 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-22T22:32:38.249979-04:00.accessibility.json) |
-| [July 22 at 10:07 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-07-22T10:07:44.840501-04:00.accessibility.json) |
 
 
 

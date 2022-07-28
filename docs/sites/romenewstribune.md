@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 15 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-27T11:46:38.786428-04:00.jpg">
+  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-27T11:46:38.786428-04:00.jpg"
+     alt="Rome News-Tribune at 2022-07-27 11:46:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-27T11:46:38.786428-04:00.jpg">July 27 at 11:46 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-26T23:53:16.124768-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-21T23:43:28.327652-04:00.jpg">July 21 at 11:43 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-21T11:39:51.552671-04:00.jpg">
-  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-21T11:39:51.552671-04:00.jpg"
-     alt="Rome News-Tribune at 2022-07-21 11:39:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-21T11:39:51.552671-04:00.jpg">July 21 at 11:39 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 13 hyperlink lists with the Internet Archive.
+The archiving routine has saved 14 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 11:46 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-27T11:46:38.786428-04:00.hyperlinks.json) |
 | [July 26 at 11:53 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-26T23:53:16.124768-04:00.hyperlinks.json) |
 | [July 26 at 11:44 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-26T11:44:34.663275-04:00.hyperlinks.json) |
 | [July 25 at 11:56 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-25T23:56:15.397402-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 2:21 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-24T02:21:52.171935-04:00.hyperlinks.json) |
 | [July 23 at 11:08 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-23T11:08:36.502450-04:00.hyperlinks.json) |
 | [July 22 at 11:38 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-22T23:38:29.157142-04:00.hyperlinks.json) |
-| [July 22 at 11:04 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-22T11:04:33.231135-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 14 accessibility trees with the Internet Archive.
+The archiving routine has saved 15 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 11:46 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-27T11:46:38.786428-04:00.accessibility.json) |
 | [July 26 at 11:53 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-26T23:53:16.124768-04:00.accessibility.json) |
 | [July 26 at 11:44 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-26T11:44:34.663275-04:00.accessibility.json) |
 | [July 25 at 11:56 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-25T23:56:15.397402-04:00.accessibility.json) |
@@ -179,7 +180,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 2:21 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-24T02:21:52.171935-04:00.accessibility.json) |
 | [July 23 at 11:08 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-23T11:08:36.502450-04:00.accessibility.json) |
 | [July 22 at 11:38 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-22T23:38:29.157142-04:00.accessibility.json) |
-| [July 22 at 11:04 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-07-22T11:04:33.231135-04:00.accessibility.json) |
 
 
 

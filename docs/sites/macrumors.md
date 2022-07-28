@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/macrumors-2022/macrumors-2022-07-27T20:06:31.264912-04:00.jpg">
+  <img src="https://archive.org/download/macrumors-2022/macrumors-2022-07-27T20:06:31.264912-04:00.jpg"
+     alt="MacRumors at 2022-07-27 20:06:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/macrumors-2022/macrumors-2022-07-27T20:06:31.264912-04:00.jpg">July 27 at 8:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/macrumors-2022/macrumors-2022-07-27T09:10:25.657784-04:00.jpg">
+  <img src="https://archive.org/download/macrumors-2022/macrumors-2022-07-27T09:10:25.657784-04:00.jpg"
+     alt="MacRumors at 2022-07-27 09:10:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/macrumors-2022/macrumors-2022-07-27T09:10:25.657784-04:00.jpg">July 27 at 9:10 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/macrumors-2022/macrumors-2022-07-26T20:14:11.713191-04:00.jpg">
@@ -77,7 +95,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
 
 
@@ -85,6 +103,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 8:06 PM](https://archive.org/download/macrumors-2022/macrumors-2022-07-27T20:06:31.264912-04:00.hyperlinks.json) |
+| [July 27 at 9:10 AM](https://archive.org/download/macrumors-2022/macrumors-2022-07-27T09:10:25.657784-04:00.hyperlinks.json) |
 | [July 26 at 8:14 PM](https://archive.org/download/macrumors-2022/macrumors-2022-07-26T20:14:11.713191-04:00.hyperlinks.json) |
 | [July 26 at 8:24 AM](https://archive.org/download/macrumors-2022/macrumors-2022-07-26T08:24:06.319900-04:00.hyperlinks.json) |
 | [July 25 at 8:18 PM](https://archive.org/download/macrumors-2022/macrumors-2022-07-25T20:18:48.267545-04:00.hyperlinks.json) |
@@ -93,7 +113,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 4 accessibility trees with the Internet Archive.
+The archiving routine has saved 6 accessibility trees with the Internet Archive.
 
 
 
@@ -101,6 +121,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 8:06 PM](https://archive.org/download/macrumors-2022/macrumors-2022-07-27T20:06:31.264912-04:00.accessibility.json) |
+| [July 27 at 9:10 AM](https://archive.org/download/macrumors-2022/macrumors-2022-07-27T09:10:25.657784-04:00.accessibility.json) |
 | [July 26 at 8:14 PM](https://archive.org/download/macrumors-2022/macrumors-2022-07-26T20:14:11.713191-04:00.accessibility.json) |
 | [July 26 at 8:24 AM](https://archive.org/download/macrumors-2022/macrumors-2022-07-26T08:24:06.319900-04:00.accessibility.json) |
 | [July 25 at 8:18 PM](https://archive.org/download/macrumors-2022/macrumors-2022-07-25T20:18:48.267545-04:00.accessibility.json) |

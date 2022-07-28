@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 47 screenshots with the Internet Archive.
+The archiving routine has saved 48 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 47 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/enews-2022/enews-2022-07-27T07:27:56.589679-07:00.jpg">
+  <img src="https://archive.org/download/enews-2022/enews-2022-07-27T07:27:56.589679-07:00.jpg"
+     alt="E! at 2022-07-27 07:27:58-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-07-27T07:27:56.589679-07:00.jpg">July 27 at 7:27 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/enews-2022/enews-2022-07-26T19:36:12.766803-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/enews-2022/enews-2022-07-21T19:18:49.798511-07:00.jpg">July 21 at 7:18 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/enews-2022/enews-2022-07-21T07:04:05.041342-07:00.jpg">
-  <img src="https://archive.org/download/enews-2022/enews-2022-07-21T07:04:05.041342-07:00.jpg"
-     alt="E! at 2022-07-21 07:04:06-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-07-21T07:04:05.041342-07:00.jpg">July 21 at 7:04 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 47 hyperlink lists with the Internet Archive.
+The archiving routine has saved 48 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:28 AM](https://archive.org/download/enews-2022/enews-2022-07-27T07:27:56.589679-07:00.hyperlinks.json) |
 | [July 26 at 7:36 PM](https://archive.org/download/enews-2022/enews-2022-07-26T19:36:12.766803-07:00.hyperlinks.json) |
 | [July 26 at 7:33 AM](https://archive.org/download/enews-2022/enews-2022-07-26T07:33:24.173678-07:00.hyperlinks.json) |
 | [July 25 at 7:42 PM](https://archive.org/download/enews-2022/enews-2022-07-25T19:42:21.929055-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:29 PM](https://archive.org/download/enews-2022/enews-2022-07-23T23:28:55.424866-07:00.hyperlinks.json) |
 | [July 23 at 6:58 AM](https://archive.org/download/enews-2022/enews-2022-07-23T06:58:15.011155-07:00.hyperlinks.json) |
 | [July 22 at 7:24 PM](https://archive.org/download/enews-2022/enews-2022-07-22T19:24:46.065520-07:00.hyperlinks.json) |
-| [July 22 at 6:59 AM](https://archive.org/download/enews-2022/enews-2022-07-22T06:59:15.104744-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 47 accessibility trees with the Internet Archive.
+The archiving routine has saved 48 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 7:27 AM](https://archive.org/download/enews-2022/enews-2022-07-27T07:27:56.589679-07:00.accessibility.json) |
 | [July 26 at 7:36 PM](https://archive.org/download/enews-2022/enews-2022-07-26T19:36:12.766803-07:00.accessibility.json) |
 | [July 26 at 7:33 AM](https://archive.org/download/enews-2022/enews-2022-07-26T07:33:24.173678-07:00.accessibility.json) |
 | [July 25 at 7:42 PM](https://archive.org/download/enews-2022/enews-2022-07-25T19:42:21.929055-07:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 11:28 PM](https://archive.org/download/enews-2022/enews-2022-07-23T23:28:55.424866-07:00.accessibility.json) |
 | [July 23 at 6:58 AM](https://archive.org/download/enews-2022/enews-2022-07-23T06:58:15.011155-07:00.accessibility.json) |
 | [July 22 at 7:24 PM](https://archive.org/download/enews-2022/enews-2022-07-22T19:24:46.065520-07:00.accessibility.json) |
-| [July 22 at 6:59 AM](https://archive.org/download/enews-2022/enews-2022-07-22T06:59:15.104744-07:00.accessibility.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 76 screenshots with the Internet Archive.
+The archiving routine has saved 77 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 76 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-27T09:27:02.598186-04:00.jpg">
+  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-07-27T09:27:02.598186-04:00.jpg"
+     alt="WNYC at 2022-07-27 09:27:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-27T09:27:02.598186-04:00.jpg">July 27 at 9:27 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-26T21:31:27.962798-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-22T12:22:45.840140-04:00.jpg">July 22 at 12:22 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-22T00:36:35.628165-04:00.jpg">
-  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-07-22T00:36:35.628165-04:00.jpg"
-     alt="WNYC at 2022-07-22 00:36:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-07-22T00:36:35.628165-04:00.jpg">July 22 at 12:36 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 76 hyperlink lists with the Internet Archive.
+The archiving routine has saved 77 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:27 AM](https://archive.org/download/wnyc-2022/wnyc-2022-07-27T09:27:02.598186-04:00.hyperlinks.json) |
 | [July 26 at 9:31 PM](https://archive.org/download/wnyc-2022/wnyc-2022-07-26T21:31:27.962798-04:00.hyperlinks.json) |
 | [July 26 at 9:34 AM](https://archive.org/download/wnyc-2022/wnyc-2022-07-26T09:34:18.064565-04:00.hyperlinks.json) |
 | [July 25 at 10:55 PM](https://archive.org/download/wnyc-2022/wnyc-2022-07-25T22:55:31.260170-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:11 AM](https://archive.org/download/wnyc-2022/wnyc-2022-07-24T11:11:20.540172-04:00.hyperlinks.json) |
 | [July 23 at 11:47 PM](https://archive.org/download/wnyc-2022/wnyc-2022-07-23T23:47:29.954809-04:00.hyperlinks.json) |
 | [July 23 at 12:10 PM](https://archive.org/download/wnyc-2022/wnyc-2022-07-23T12:09:53.870480-04:00.hyperlinks.json) |
-| [July 23 at 12:29 AM](https://archive.org/download/wnyc-2022/wnyc-2022-07-23T00:29:35.938455-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 76 accessibility trees with the Internet Archive.
+The archiving routine has saved 77 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:27 AM](https://archive.org/download/wnyc-2022/wnyc-2022-07-27T09:27:02.598186-04:00.accessibility.json) |
 | [July 26 at 9:31 PM](https://archive.org/download/wnyc-2022/wnyc-2022-07-26T21:31:27.962798-04:00.accessibility.json) |
 | [July 26 at 9:34 AM](https://archive.org/download/wnyc-2022/wnyc-2022-07-26T09:34:18.064565-04:00.accessibility.json) |
 | [July 25 at 10:55 PM](https://archive.org/download/wnyc-2022/wnyc-2022-07-25T22:55:31.260170-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 11:11 AM](https://archive.org/download/wnyc-2022/wnyc-2022-07-24T11:11:20.540172-04:00.accessibility.json) |
 | [July 23 at 11:47 PM](https://archive.org/download/wnyc-2022/wnyc-2022-07-23T23:47:29.954809-04:00.accessibility.json) |
 | [July 23 at 12:09 PM](https://archive.org/download/wnyc-2022/wnyc-2022-07-23T12:09:53.870480-04:00.accessibility.json) |
-| [July 23 at 12:29 AM](https://archive.org/download/wnyc-2022/wnyc-2022-07-23T00:29:35.938455-04:00.accessibility.json) |
 
 
 

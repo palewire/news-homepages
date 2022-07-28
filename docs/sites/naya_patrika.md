@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 6 screenshots with the Internet Archive.
+The archiving routine has saved 8 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-28T05:52:39.959608+05:45.jpg">
+  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-28T05:52:39.959608+05:45.jpg"
+     alt="Naya Patrika at 2022-07-28 05:52:41+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-28T05:52:39.959608+05:45.jpg">July 28 at 5:52 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-27T18:56:48.151067+05:45.jpg">
+  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-27T18:56:48.151067+05:45.jpg"
+     alt="Naya Patrika at 2022-07-27 18:56:49+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-27T18:56:48.151067+05:45.jpg">July 27 at 6:56 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-27T06:00:24.041308+05:45.jpg">
@@ -86,7 +104,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 6 hyperlink lists with the Internet Archive.
+The archiving routine has saved 8 hyperlink lists with the Internet Archive.
 
 
 
@@ -94,6 +112,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 28 at 5:52 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-28T05:52:39.959608+05:45.hyperlinks.json) |
+| [July 27 at 6:56 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-27T18:56:48.151067+05:45.hyperlinks.json) |
 | [July 27 at 6:00 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-27T06:00:24.041308+05:45.hyperlinks.json) |
 | [July 26 at 6:10 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-26T18:10:24.061439+05:45.hyperlinks.json) |
 | [July 26 at 6:05 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-26T06:05:25.221593+05:45.hyperlinks.json) |
@@ -104,7 +124,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 6 accessibility trees with the Internet Archive.
+The archiving routine has saved 8 accessibility trees with the Internet Archive.
 
 
 
@@ -112,6 +132,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 28 at 5:52 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-28T05:52:39.959608+05:45.accessibility.json) |
+| [July 27 at 6:56 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-27T18:56:48.151067+05:45.accessibility.json) |
 | [July 27 at 6:00 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-27T06:00:24.041308+05:45.accessibility.json) |
 | [July 26 at 6:10 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-26T18:10:24.061439+05:45.accessibility.json) |
 | [July 26 at 6:05 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-26T06:05:25.221593+05:45.accessibility.json) |

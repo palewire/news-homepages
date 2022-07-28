@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/azds-2022/azds-2022-07-27T06:17:03.132093-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-07-27T06:17:03.132093-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-07-27 06:17:04-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-07-27T06:17:03.132093-07:00.jpg">July 27 at 6:17 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/azds-2022/azds-2022-07-26T06:26:05.959533-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/azds-2022/azds-2022-07-21T05:51:56.876736-07:00.jpg">July 21 at 5:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/azds-2022/azds-2022-07-20T18:04:00.167333-07:00.jpg">
-  <img src="https://archive.org/download/azds-2022/azds-2022-07-20T18:04:00.167333-07:00.jpg"
-     alt="Arizona Daily Sun at 2022-07-20 18:04:02-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/azds-2022/azds-2022-07-20T18:04:00.167333-07:00.jpg">July 20 at 6:04 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 6:17 AM](https://archive.org/download/azds-2022/azds-2022-07-27T06:17:03.132093-07:00.hyperlinks.json) |
 | [July 26 at 6:23 PM](https://archive.org/download/azds-2022/azds-2022-07-26T18:23:39.511817-07:00.hyperlinks.json) |
 | [July 26 at 6:26 AM](https://archive.org/download/azds-2022/azds-2022-07-26T06:26:05.959533-07:00.hyperlinks.json) |
 | [July 25 at 7:56 PM](https://archive.org/download/azds-2022/azds-2022-07-25T19:56:47.142040-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 3:57 AM](https://archive.org/download/azds-2022/azds-2022-07-24T03:57:24.218425-07:00.hyperlinks.json) |
 | [July 23 at 3:59 PM](https://archive.org/download/azds-2022/azds-2022-07-23T15:59:32.178114-07:00.hyperlinks.json) |
 | [July 23 at 5:56 AM](https://archive.org/download/azds-2022/azds-2022-07-23T05:56:23.165751-07:00.hyperlinks.json) |
-| [July 22 at 5:57 PM](https://archive.org/download/azds-2022/azds-2022-07-22T17:57:19.097936-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 44 accessibility trees with the Internet Archive.
+The archiving routine has saved 45 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 6:17 AM](https://archive.org/download/azds-2022/azds-2022-07-27T06:17:03.132093-07:00.accessibility.json) |
 | [July 26 at 6:23 PM](https://archive.org/download/azds-2022/azds-2022-07-26T18:23:39.511817-07:00.accessibility.json) |
 | [July 26 at 6:26 AM](https://archive.org/download/azds-2022/azds-2022-07-26T06:26:05.959533-07:00.accessibility.json) |
 | [July 25 at 7:56 PM](https://archive.org/download/azds-2022/azds-2022-07-25T19:56:47.142040-07:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 3:59 PM](https://archive.org/download/azds-2022/azds-2022-07-23T15:59:32.178114-07:00.accessibility.json) |
 | [July 22 at 5:57 PM](https://archive.org/download/azds-2022/azds-2022-07-22T17:57:19.097936-07:00.accessibility.json) |
 | [July 22 at 5:56 AM](https://archive.org/download/azds-2022/azds-2022-07-22T05:56:19.729615-07:00.accessibility.json) |
-| [July 21 at 6:05 PM](https://archive.org/download/azds-2022/azds-2022-07-21T18:05:12.647832-07:00.accessibility.json) |
 
 
 

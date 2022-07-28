@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-27T11:11:09.058899-05:00.jpg">
+  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-27T11:11:09.058899-05:00.jpg"
+     alt="DePaulia at 2022-07-27 11:11:11-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-27T11:11:09.058899-05:00.jpg">July 27 at 11:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-27T08:24:03.234893-05:00.jpg">
+  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-27T08:24:03.234893-05:00.jpg"
+     alt="DePaulia at 2022-07-27 08:24:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-27T08:24:03.234893-05:00.jpg">July 27 at 8:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-26T20:28:38.639245-05:00.jpg">
@@ -77,7 +95,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 7 hyperlink lists with the Internet Archive.
 
 
 
@@ -85,6 +103,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 11:11 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-27T11:11:09.058899-05:00.hyperlinks.json) |
+| [July 27 at 8:24 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-27T08:24:03.234893-05:00.hyperlinks.json) |
 | [July 26 at 8:28 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-26T20:28:38.639245-05:00.hyperlinks.json) |
 | [July 26 at 11:00 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-26T10:59:56.712546-05:00.hyperlinks.json) |
 | [July 26 at 8:30 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-26T08:30:31.030382-05:00.hyperlinks.json) |
@@ -94,7 +114,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 5 accessibility trees with the Internet Archive.
+The archiving routine has saved 7 accessibility trees with the Internet Archive.
 
 
 
@@ -102,6 +122,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 11:11 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-27T11:11:09.058899-05:00.accessibility.json) |
+| [July 27 at 8:24 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-27T08:24:03.234893-05:00.accessibility.json) |
 | [July 26 at 8:28 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-26T20:28:38.639245-05:00.accessibility.json) |
 | [July 26 at 11:00 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-26T10:59:56.712546-05:00.accessibility.json) |
 | [July 26 at 8:30 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-26T08:30:31.030382-05:00.accessibility.json) |

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-27T10:37:46.841550-04:00.jpg">
+  <img src="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-27T10:37:46.841550-04:00.jpg"
+     alt="Next City at 2022-07-27 10:37:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-27T10:37:46.841550-04:00.jpg">July 27 at 10:37 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-26T22:42:43.992254-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-21T23:38:03.612522-04:00.jpg">July 21 at 11:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-21T11:37:05.685859-04:00.jpg">
-  <img src="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-21T11:37:05.685859-04:00.jpg"
-     alt="Next City at 2022-07-21 11:37:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-21T11:37:05.685859-04:00.jpg">July 21 at 11:37 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 10:37 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-27T10:37:46.841550-04:00.hyperlinks.json) |
 | [July 26 at 10:42 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-26T22:42:43.992254-04:00.hyperlinks.json) |
 | [July 26 at 10:42 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-26T10:42:12.843334-04:00.hyperlinks.json) |
 | [July 25 at 10:49 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-25T22:49:04.801735-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 12:21 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-24T00:21:45.345136-04:00.hyperlinks.json) |
 | [July 23 at 11:03 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-23T11:03:38.018702-04:00.hyperlinks.json) |
 | [July 22 at 11:33 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-22T23:33:41.172232-04:00.hyperlinks.json) |
-| [July 22 at 10:59 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-22T10:59:18.484196-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 42 accessibility trees with the Internet Archive.
+The archiving routine has saved 43 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 10:37 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-27T10:37:46.841550-04:00.accessibility.json) |
 | [July 26 at 10:42 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-26T22:42:43.992254-04:00.accessibility.json) |
 | [July 26 at 10:42 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-26T10:42:12.843334-04:00.accessibility.json) |
 | [July 25 at 10:49 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-25T22:49:04.801735-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 12:21 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-24T00:21:45.345136-04:00.accessibility.json) |
 | [July 23 at 11:03 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-23T11:03:38.018702-04:00.accessibility.json) |
 | [July 22 at 11:33 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-22T23:33:41.172232-04:00.accessibility.json) |
-| [July 22 at 10:59 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-07-22T10:59:18.484196-04:00.accessibility.json) |
 
 
 

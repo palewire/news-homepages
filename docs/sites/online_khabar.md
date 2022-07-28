@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 6 screenshots with the Internet Archive.
+The archiving routine has saved 8 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-28T05:54:10.354876+05:45.jpg">
+  <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-28T05:54:10.354876+05:45.jpg"
+     alt="Online Khabar at 2022-07-28 05:54:12+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-28T05:54:10.354876+05:45.jpg">July 28 at 5:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-27T18:58:20.346170+05:45.jpg">
+  <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-27T18:58:20.346170+05:45.jpg"
+     alt="Online Khabar at 2022-07-27 18:58:21+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-27T18:58:20.346170+05:45.jpg">July 27 at 6:58 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-07-27T06:03:02.112809+05:45.jpg">
@@ -86,7 +104,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 6 hyperlink lists with the Internet Archive.
+The archiving routine has saved 8 hyperlink lists with the Internet Archive.
 
 
 
@@ -94,6 +112,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 28 at 5:54 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-07-28T05:54:10.354876+05:45.hyperlinks.json) |
+| [July 27 at 6:58 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-07-27T18:58:20.346170+05:45.hyperlinks.json) |
 | [July 27 at 6:03 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-07-27T06:03:02.112809+05:45.hyperlinks.json) |
 | [July 26 at 6:12 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-07-26T18:11:56.251390+05:45.hyperlinks.json) |
 | [July 26 at 6:07 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-07-26T06:07:50.140901+05:45.hyperlinks.json) |
@@ -104,7 +124,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 6 accessibility trees with the Internet Archive.
+The archiving routine has saved 8 accessibility trees with the Internet Archive.
 
 
 
@@ -112,6 +132,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 28 at 5:54 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-07-28T05:54:10.354876+05:45.accessibility.json) |
+| [July 27 at 6:58 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-07-27T18:58:20.346170+05:45.accessibility.json) |
 | [July 27 at 6:03 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-07-27T06:03:02.112809+05:45.accessibility.json) |
 | [July 26 at 6:12 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-07-26T18:11:56.251390+05:45.accessibility.json) |
 | [July 26 at 6:07 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-07-26T06:07:50.140901+05:45.accessibility.json) |

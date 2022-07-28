@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 82 screenshots with the Internet Archive.
+The archiving routine has saved 83 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 82 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-27T08:22:32.989429-05:00.jpg">
+  <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-27T08:22:32.989429-05:00.jpg"
+     alt="Texas Tribune at 2022-07-27 08:22:34-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-27T08:22:32.989429-05:00.jpg">July 27 at 8:22 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-26T20:28:10.929377-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-22T11:16:51.540568-05:00.jpg">July 22 at 11:16 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-21T23:30:53.395352-05:00.jpg">
-  <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-21T23:30:53.395352-05:00.jpg"
-     alt="Texas Tribune at 2022-07-21 23:30:54-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-21T23:30:53.395352-05:00.jpg">July 21 at 11:30 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 83 hyperlink lists with the Internet Archive.
+The archiving routine has saved 84 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 8:22 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-27T08:22:32.989429-05:00.hyperlinks.json) |
 | [July 26 at 8:28 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-26T20:28:10.929377-05:00.hyperlinks.json) |
 | [July 26 at 8:29 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-26T08:29:55.105811-05:00.hyperlinks.json) |
 | [July 25 at 9:51 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T21:51:42.756402-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 10:04 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-24T10:04:43.811064-05:00.hyperlinks.json) |
 | [July 23 at 10:41 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-23T22:41:29.148211-05:00.hyperlinks.json) |
 | [July 23 at 11:03 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-23T11:03:52.704411-05:00.hyperlinks.json) |
-| [July 22 at 11:24 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-22T23:24:22.907155-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 83 accessibility trees with the Internet Archive.
+The archiving routine has saved 84 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 8:22 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-27T08:22:32.989429-05:00.accessibility.json) |
 | [July 26 at 8:28 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-26T20:28:10.929377-05:00.accessibility.json) |
 | [July 26 at 8:29 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-26T08:29:55.105811-05:00.accessibility.json) |
 | [July 25 at 9:51 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T21:51:42.756402-05:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 10:04 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-24T10:04:43.811064-05:00.accessibility.json) |
 | [July 23 at 10:41 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-23T22:41:29.148211-05:00.accessibility.json) |
 | [July 23 at 11:03 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-23T11:03:52.704411-05:00.accessibility.json) |
-| [July 22 at 11:24 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-22T23:24:22.907155-05:00.accessibility.json) |
 
 
 

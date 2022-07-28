@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 64 screenshots with the Internet Archive.
+The archiving routine has saved 65 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 64 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-27T15:26:31.826280+01:00.jpg">
+  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-27T15:26:31.826280+01:00.jpg"
+     alt="Daily Mirror at 2022-07-27 15:26:34+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-27T15:26:31.826280+01:00.jpg">July 27 at 3:26 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-27T10:09:05.901129+01:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-24T07:25:47.451903+01:00.jpg">July 24 at 7:25 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-23T14:03:03.427493+01:00.jpg">
-  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-23T14:03:03.427493+01:00.jpg"
-     alt="Daily Mirror at 2022-07-23 14:03:04+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-23T14:03:03.427493+01:00.jpg">July 23 at 2:03 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 62 hyperlink lists with the Internet Archive.
+The archiving routine has saved 63 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 3:26 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-27T15:26:31.826280+01:00.hyperlinks.json) |
 | [July 27 at 10:09 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-27T10:09:05.901129+01:00.hyperlinks.json) |
 | [July 27 at 3:35 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-27T03:34:53.450058+01:00.hyperlinks.json) |
 | [July 26 at 3:31 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-26T15:31:19.754750+01:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 10:09 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-25T10:09:34.511098+01:00.hyperlinks.json) |
 | [July 25 at 1:58 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-25T01:58:47.537365+01:00.hyperlinks.json) |
 | [July 24 at 10:10 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-24T10:10:01.002170+01:00.hyperlinks.json) |
-| [July 24 at 7:25 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-24T07:25:47.451903+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 64 accessibility trees with the Internet Archive.
+The archiving routine has saved 65 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 3:26 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-27T15:26:31.826280+01:00.accessibility.json) |
 | [July 27 at 10:09 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-27T10:09:05.901129+01:00.accessibility.json) |
 | [July 27 at 3:34 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-27T03:34:53.450058+01:00.accessibility.json) |
 | [July 26 at 3:31 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-26T15:31:19.754750+01:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 10:09 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-25T10:09:34.511098+01:00.accessibility.json) |
 | [July 25 at 1:58 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-25T01:58:47.537365+01:00.accessibility.json) |
 | [July 24 at 12:56 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-24T12:56:42.235293+01:00.accessibility.json) |
-| [July 24 at 10:10 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-24T10:10:01.002170+01:00.accessibility.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 38 screenshots with the Internet Archive.
+The archiving routine has saved 39 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 38 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T09:19:16.155582-04:00.jpg">
+  <img src="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T09:19:16.155582-04:00.jpg"
+     alt="Belt Magazine at 2022-07-27 09:19:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T09:19:16.155582-04:00.jpg">July 27 at 9:19 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T21:23:55.470366-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-22T08:57:35.540738-04:00.jpg">July 22 at 8:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-21T21:05:41.800531-04:00.jpg">
-  <img src="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-21T21:05:41.800531-04:00.jpg"
-     alt="Belt Magazine at 2022-07-21 21:05:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-21T21:05:41.800531-04:00.jpg">July 21 at 9:05 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 38 hyperlink lists with the Internet Archive.
+The archiving routine has saved 39 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:19 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T09:19:16.155582-04:00.hyperlinks.json) |
 | [July 26 at 9:24 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T21:23:55.470366-04:00.hyperlinks.json) |
 | [July 26 at 9:25 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T09:25:41.043622-04:00.hyperlinks.json) |
 | [July 25 at 10:58 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T22:58:02.606296-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 6:58 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T06:58:12.296995-04:00.hyperlinks.json) |
 | [July 23 at 7:00 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-23T19:00:22.342962-04:00.hyperlinks.json) |
 | [July 23 at 8:57 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-23T08:57:05.535924-04:00.hyperlinks.json) |
-| [July 22 at 8:58 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-22T20:58:42.149188-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 38 accessibility trees with the Internet Archive.
+The archiving routine has saved 39 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:19 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T09:19:16.155582-04:00.accessibility.json) |
 | [July 26 at 9:23 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T21:23:55.470366-04:00.accessibility.json) |
 | [July 26 at 9:25 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T09:25:41.043622-04:00.accessibility.json) |
 | [July 25 at 10:58 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T22:58:02.606296-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 6:58 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T06:58:12.296995-04:00.accessibility.json) |
 | [July 23 at 7:00 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-23T19:00:22.342962-04:00.accessibility.json) |
 | [July 23 at 8:57 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-23T08:57:05.535924-04:00.accessibility.json) |
-| [July 22 at 8:58 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-22T20:58:42.149188-04:00.accessibility.json) |
 
 
 

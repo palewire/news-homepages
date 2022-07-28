@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 61 screenshots with the Internet Archive.
+The archiving routine has saved 62 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 61 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mashable-2022/mashable-2022-07-27T07:34:59.391572-07:00.jpg">
+  <img src="https://archive.org/download/mashable-2022/mashable-2022-07-27T07:34:59.391572-07:00.jpg"
+     alt="Mashable at 2022-07-27 07:35:01-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mashable-2022/mashable-2022-07-27T07:34:59.391572-07:00.jpg">July 27 at 7:35 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mashable-2022/mashable-2022-07-26T19:41:26.929049-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mashable-2022/mashable-2022-07-22T07:56:37.211576-07:00.jpg">July 22 at 7:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mashable-2022/mashable-2022-07-21T20:34:55.718797-07:00.jpg">
-  <img src="https://archive.org/download/mashable-2022/mashable-2022-07-21T20:34:55.718797-07:00.jpg"
-     alt="Mashable at 2022-07-21 20:34:57-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mashable-2022/mashable-2022-07-21T20:34:55.718797-07:00.jpg">July 21 at 8:34 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 58 hyperlink lists with the Internet Archive.
+The archiving routine has saved 59 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:35 AM](https://archive.org/download/mashable-2022/mashable-2022-07-27T07:34:59.391572-07:00.hyperlinks.json) |
 | [July 26 at 7:41 PM](https://archive.org/download/mashable-2022/mashable-2022-07-26T19:41:26.929049-07:00.hyperlinks.json) |
 | [July 26 at 7:39 AM](https://archive.org/download/mashable-2022/mashable-2022-07-26T07:39:36.486695-07:00.hyperlinks.json) |
 | [July 25 at 7:47 PM](https://archive.org/download/mashable-2022/mashable-2022-07-25T19:47:38.687789-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 6:02 AM](https://archive.org/download/mashable-2022/mashable-2022-07-24T06:02:45.664669-07:00.hyperlinks.json) |
 | [July 23 at 9:17 PM](https://archive.org/download/mashable-2022/mashable-2022-07-23T21:17:51.536923-07:00.hyperlinks.json) |
 | [July 23 at 8:00 AM](https://archive.org/download/mashable-2022/mashable-2022-07-23T08:00:51.310742-07:00.hyperlinks.json) |
-| [July 22 at 8:31 PM](https://archive.org/download/mashable-2022/mashable-2022-07-22T20:31:01.413914-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 61 accessibility trees with the Internet Archive.
+The archiving routine has saved 62 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 7:35 AM](https://archive.org/download/mashable-2022/mashable-2022-07-27T07:34:59.391572-07:00.accessibility.json) |
 | [July 26 at 7:41 PM](https://archive.org/download/mashable-2022/mashable-2022-07-26T19:41:26.929049-07:00.accessibility.json) |
 | [July 26 at 7:39 AM](https://archive.org/download/mashable-2022/mashable-2022-07-26T07:39:36.486695-07:00.accessibility.json) |
 | [July 25 at 7:47 PM](https://archive.org/download/mashable-2022/mashable-2022-07-25T19:47:38.687789-07:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 6:02 AM](https://archive.org/download/mashable-2022/mashable-2022-07-24T06:02:45.664669-07:00.accessibility.json) |
 | [July 23 at 9:17 PM](https://archive.org/download/mashable-2022/mashable-2022-07-23T21:17:51.536923-07:00.accessibility.json) |
 | [July 23 at 8:00 AM](https://archive.org/download/mashable-2022/mashable-2022-07-23T08:00:51.310742-07:00.accessibility.json) |
-| [July 22 at 8:31 PM](https://archive.org/download/mashable-2022/mashable-2022-07-22T20:31:01.413914-07:00.accessibility.json) |
 
 
 

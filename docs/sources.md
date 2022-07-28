@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 661 sites.
+The archiving routine is currently capturing 662 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -102,6 +102,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Bon Appetit](https://palewi.re/docs/news-homepages/sites/bonappetit.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bonappetit.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bonappetit.xml)|
 |[Bongino Report](https://palewi.re/docs/news-homepages/sites/bonginoreport.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bonginoreport.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bonginoreport.xml)|
 |[Boston Globe](https://palewi.re/docs/news-homepages/sites/bostonglobe.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bostonglobe.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bostonglobe.xml)|
+|[Boston Herald](https://palewi.re/docs/news-homepages/sites/bostonherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bostonherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bostonherald.xml)|
 |[Boston Institute for Nonprofit Journalism](https://palewi.re/docs/news-homepages/sites/binjreports.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/binjreports.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/binjreports.xml)|
 |[Breckenridge Texan](https://palewi.re/docs/news-homepages/sites/brecktexan.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/brecktexan.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/brecktexan.xml)|
 |[Breitbart](https://palewi.re/docs/news-homepages/sites/breitbartnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/breitbartnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/breitbartnews.xml)|

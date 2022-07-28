@@ -1,49 +1,8 @@
 {
-  "created": 1658923787,
+  "created": 1659006672,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/eastbaytimes-2022",
-  "eastbaytimes-2022": [
-    {
-      "url": "https://www.eastbaytimes.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eastbaytimes_com-_-2022_07_27_10_48_06.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eastbaytimes_com-_-2022_07_27_10_48_06.report.json",
-      "summary": {
-        "performance": 0.06,
-        "accessibility": 0.86,
-        "best-practices": 0.92,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.eastbaytimes.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eastbaytimes_com-_-2022_07_27_10_48_33.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eastbaytimes_com-_-2022_07_27_10_48_33.report.json",
-      "summary": {
-        "performance": 0.06,
-        "accessibility": 0.84,
-        "best-practices": 0.92,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.eastbaytimes.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eastbaytimes_com-_-2022_07_27_10_49_10.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eastbaytimes_com-_-2022_07_27_10_49_10.report.json",
-      "summary": {
-        "performance": 0.06,
-        "accessibility": 0.86,
-        "best-practices": 0.92,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    }
-  ],
   "files": [
     {
       "name": "EastBayTimes-2022-03-22T19:08:40.505350-07:00.jpg",
@@ -9366,31 +9325,135 @@
       "format": "JSON"
     },
     {
+      "name": "eastbaytimes-2022-07-27T04:06:52.201618-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eastbaytimes-2022-07-27T04:06:52.201618-07:00.jpg",
+      "mtime": "1658940098",
+      "size": "9599",
+      "md5": "04943e545da93588579d71af5fdb6d0d",
+      "crc32": "20c1e10e",
+      "sha1": "52c66d99f9c66e3580f2aea4ed986ebed38d2c2c"
+    },
+    {
+      "name": "eastbaytimes-2022-07-27T16:06:42.176080-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658963208",
+      "size": "37289",
+      "md5": "0e883bb1fa489b8a4bc9302c72b3ec60",
+      "crc32": "6d4f220f",
+      "sha1": "5b34f549bb2ef1997d339182728f050a2ab6a444",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-07-27T16:06:42.176080-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658963210",
+      "size": "49412",
+      "md5": "941b40b43df854cd6a5e3f480cd79b8d",
+      "crc32": "aba1771a",
+      "sha1": "f03ead55272dd825f8f5394a59d96b0194e66c95",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-07-27T16:06:42.176080-07:00.jpg",
+      "source": "original",
+      "mtime": "1658963206",
+      "size": "255532",
+      "md5": "7a04dee387f85606b59271949b714c44",
+      "crc32": "a062163e",
+      "sha1": "cc1869b955693009ca5816a2f1aac712230e86b5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eastbaytimes-2022-07-27T16:06:42.176080-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658963211",
+      "size": "1513",
+      "md5": "bcf208de0b86b57b276af158d3da9b0a",
+      "crc32": "8b8a4271",
+      "sha1": "ce8150e346c79c55b69da43e84ffd8cd78e2224c",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-07-27T16:06:42.176080-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eastbaytimes-2022-07-27T16:06:42.176080-07:00.jpg",
+      "mtime": "1658974493",
+      "size": "9356",
+      "md5": "a898d595b889ba82222e26b859f37743",
+      "crc32": "36835c94",
+      "sha1": "40c99a273007bb14fbfe3d96e28d9dc083512c09"
+    },
+    {
+      "name": "eastbaytimes-2022-07-28T04:10:12.509986-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659006619",
+      "size": "40313",
+      "md5": "4b78f14fe4fab7f787ec0dd8d94080a5",
+      "crc32": "057ad6ff",
+      "sha1": "ce36192cbeeba13663b869f0817dc6d1a3dce6db",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-07-28T04:10:12.509986-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659006621",
+      "size": "57089",
+      "md5": "dc3128f45e54f10ba2dd8d92b75931cd",
+      "crc32": "a6ae71fd",
+      "sha1": "47f7ff468cf00b41bf1b2d4eaac20de86f3766d0",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-07-28T04:10:12.509986-07:00.jpg",
+      "source": "original",
+      "mtime": "1659006617",
+      "size": "283171",
+      "md5": "ecc1340277f002ca4169087e6dd131e4",
+      "crc32": "92fa27bf",
+      "sha1": "9bb279ec745b35ce17a7fb826cf727428d83976b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eastbaytimes-2022-07-28T04:10:12.509986-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659006623",
+      "size": "1513",
+      "md5": "2db0654f5831e0bb9aaf3cf9ae8da6b4",
+      "crc32": "36d40a04",
+      "sha1": "3e57b9ea855e84c670d665b962d49843435020c8",
+      "format": "JSON"
+    },
+    {
       "name": "eastbaytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0214e0a5d4fd846117ae2564c9c0708c64d3ee3e",
-      "mtime": "1658920071",
-      "size": "192246",
-      "md5": "8f4fca8ce4f8a861fa16ec5dc440e72a",
-      "crc32": "6d183b7f",
-      "sha1": "4ee6bdb3b3437ee6032822c3454535c96a2d1c77",
+      "btih": "a438c67323198338171998f2d957e4aa768e2be0",
+      "mtime": "1659006669",
+      "size": "194404",
+      "md5": "1f8443798c576a5ff4c81fba39c228ab",
+      "crc32": "ce2decbf",
+      "sha1": "acb0fa7ff703e0bd4cec4d9ea85d73ae4fa53e50",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eastbaytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b5192c908436edb139a2f77ff37dba5d",
+      "md5": "ad8af2afd03062b305f38ed4821714fa",
       "summation": "md5"
     },
     {
       "name": "eastbaytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658920029",
-      "size": "1032192",
-      "md5": "3be9a09cce3d55fb7e9000f377cd1dda",
-      "crc32": "2bb0b86f",
-      "sha1": "b316da92caf1be1ac21c19fe23f05e482a599c20",
+      "mtime": "1659006627",
+      "size": "1044480",
+      "md5": "e070c5688060841d969dbf65245fe23d",
+      "crc32": "0049582f",
+      "sha1": "db79cdffee79d4da8cd12a5747134ca65fa3cc49",
       "format": "Metadata"
     },
     {
@@ -9404,9 +9467,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 891,
-  "item_last_updated": 1658920071,
-  "item_size": 90220395,
+  "files_count": 901,
+  "item_last_updated": 1659006669,
+  "item_size": 90979628,
   "metadata": {
     "identifier": "eastbaytimes-2022",
     "collection": [
@@ -9428,7 +9491,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345209132,
+      "task_id": 3346128534,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9436,7 +9499,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 464273688,
+  "uniq": 1621338526,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

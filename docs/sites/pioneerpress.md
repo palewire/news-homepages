@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 193 screenshots with the Internet Archive.
+The archiving routine has saved 195 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-27T19:10:10.606851-05:00.jpg">
+  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-27T19:10:10.606851-05:00.jpg"
+     alt="Twin Cities Pioneer Press at 2022-07-27 19:10:12-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-27T19:10:10.606851-05:00.jpg">July 27 at 7:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-27T08:14:14.721360-05:00.jpg">
+  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-27T08:14:14.721360-05:00.jpg"
+     alt="Twin Cities Pioneer Press at 2022-07-27 08:14:16-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-27T08:14:14.721360-05:00.jpg">July 27 at 8:14 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-26T19:18:28.486956-05:00.jpg">
   <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-26T19:18:28.486956-05:00.jpg"
      alt="Twin Cities Pioneer Press at 2022-07-26 19:18:35-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-22T10:01:42.221591-05:00.jpg">July 22 at 10:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-21T22:40:47.378928-05:00.jpg">
-  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-21T22:40:47.378928-05:00.jpg"
-     alt="Twin Cities Pioneer Press at 2022-07-21 22:40:51-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-21T22:40:47.378928-05:00.jpg">July 21 at 10:40 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-21T10:36:47.342546-05:00.jpg">
-  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-21T10:36:47.342546-05:00.jpg"
-     alt="Twin Cities Pioneer Press at 2022-07-21 10:36:49-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-21T10:36:47.342546-05:00.jpg">July 21 at 10:36 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 193 hyperlink lists with the Internet Archive.
+The archiving routine has saved 195 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:10 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-27T19:10:10.606851-05:00.hyperlinks.json) |
+| [July 27 at 8:14 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-27T08:14:14.721360-05:00.hyperlinks.json) |
 | [July 26 at 7:18 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-26T19:18:28.486956-05:00.hyperlinks.json) |
 | [July 26 at 7:28 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-26T07:28:31.625165-05:00.hyperlinks.json) |
 | [July 25 at 7:24 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-25T19:24:02.319295-05:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 9:00 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-24T09:00:20.889299-05:00.hyperlinks.json) |
 | [July 24 at 1:19 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-24T01:18:51.243264-05:00.hyperlinks.json) |
 | [July 23 at 10:06 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-23T10:06:47.930565-05:00.hyperlinks.json) |
-| [July 22 at 10:36 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-22T22:36:12.758638-05:00.hyperlinks.json) |
-| [July 22 at 10:01 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-22T10:01:42.221591-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 192 accessibility trees with the Internet Archive.
+The archiving routine has saved 194 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 7:10 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-27T19:10:10.606851-05:00.accessibility.json) |
+| [July 27 at 8:14 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-27T08:14:14.721360-05:00.accessibility.json) |
 | [July 26 at 7:18 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-26T19:18:28.486956-05:00.accessibility.json) |
 | [July 26 at 7:28 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-26T07:28:31.625165-05:00.accessibility.json) |
 | [July 25 at 7:24 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-25T19:24:02.319295-05:00.accessibility.json) |
@@ -427,8 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 9:00 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-24T09:00:20.889299-05:00.accessibility.json) |
 | [July 24 at 1:19 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-24T01:18:51.243264-05:00.accessibility.json) |
 | [July 23 at 10:06 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-23T10:06:47.930565-05:00.accessibility.json) |
-| [July 22 at 10:36 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-22T22:36:12.758638-05:00.accessibility.json) |
-| [July 22 at 10:01 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-22T10:01:42.221591-05:00.accessibility.json) |
 
 
 

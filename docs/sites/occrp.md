@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 7 screenshots with the Internet Archive.
+The archiving routine has saved 8 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/occrp-2022/occrp-2022-07-27T17:43:43.494043+02:00.jpg">
+  <img src="https://archive.org/download/occrp-2022/occrp-2022-07-27T17:43:43.494043+02:00.jpg"
+     alt="Organized Crime and Corruption Reporting Project at 2022-07-27 17:43:45+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/occrp-2022/occrp-2022-07-27T17:43:43.494043+02:00.jpg">July 27 at 5:43 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/occrp-2022/occrp-2022-07-27T05:50:45.227181+02:00.jpg">
@@ -95,7 +104,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 7 hyperlink lists with the Internet Archive.
+The archiving routine has saved 8 hyperlink lists with the Internet Archive.
 
 
 
@@ -103,6 +112,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 5:43 PM](https://archive.org/download/occrp-2022/occrp-2022-07-27T17:43:43.494043+02:00.hyperlinks.json) |
 | [July 27 at 5:50 AM](https://archive.org/download/occrp-2022/occrp-2022-07-27T05:50:45.227181+02:00.hyperlinks.json) |
 | [July 26 at 5:41 PM](https://archive.org/download/occrp-2022/occrp-2022-07-26T17:41:53.592406+02:00.hyperlinks.json) |
 | [July 26 at 5:53 AM](https://archive.org/download/occrp-2022/occrp-2022-07-26T05:53:33.267341+02:00.hyperlinks.json) |
@@ -114,7 +124,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 7 accessibility trees with the Internet Archive.
+The archiving routine has saved 8 accessibility trees with the Internet Archive.
 
 
 
@@ -122,6 +132,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 5:43 PM](https://archive.org/download/occrp-2022/occrp-2022-07-27T17:43:43.494043+02:00.accessibility.json) |
 | [July 27 at 5:50 AM](https://archive.org/download/occrp-2022/occrp-2022-07-27T05:50:45.227181+02:00.accessibility.json) |
 | [July 26 at 5:41 PM](https://archive.org/download/occrp-2022/occrp-2022-07-26T17:41:53.592406+02:00.accessibility.json) |
 | [July 26 at 5:53 AM](https://archive.org/download/occrp-2022/occrp-2022-07-26T05:53:33.267341+02:00.accessibility.json) |

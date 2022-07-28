@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 6 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-27T22:18:38.055405+09:00.jpg">
+  <img src="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-27T22:18:38.055405+09:00.jpg"
+     alt="Bloomberg Japan at 2022-07-27 22:18:40+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-27T22:18:38.055405+09:00.jpg">July 27 at 10:18 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-27T11:31:27.715776+09:00.jpg">
@@ -86,7 +95,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 6 hyperlink lists with the Internet Archive.
+The archiving routine has saved 7 hyperlink lists with the Internet Archive.
 
 
 
@@ -94,6 +103,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 10:18 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-27T22:18:38.055405+09:00.hyperlinks.json) |
 | [July 27 at 11:31 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-27T11:31:27.715776+09:00.hyperlinks.json) |
 | [July 27 at 10:24 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-27T10:24:26.031861+09:00.hyperlinks.json) |
 | [July 26 at 10:25 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-26T22:25:31.993073+09:00.hyperlinks.json) |
@@ -104,7 +114,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 6 accessibility trees with the Internet Archive.
+The archiving routine has saved 7 accessibility trees with the Internet Archive.
 
 
 
@@ -112,6 +122,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 10:18 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-27T22:18:38.055405+09:00.accessibility.json) |
 | [July 27 at 11:31 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-27T11:31:27.715776+09:00.accessibility.json) |
 | [July 27 at 10:24 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-27T10:24:26.031861+09:00.accessibility.json) |
 | [July 26 at 10:25 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-07-26T22:25:31.993073+09:00.accessibility.json) |

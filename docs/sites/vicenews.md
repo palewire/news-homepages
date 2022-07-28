@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 102 screenshots with the Internet Archive.
+The archiving routine has saved 103 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 102 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-27T09:26:33.853305-04:00.jpg">
+  <img src="https://archive.org/download/vicenews-2022/vicenews-2022-07-27T09:26:33.853305-04:00.jpg"
+     alt="Vice News at 2022-07-27 09:26:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-27T09:26:33.853305-04:00.jpg">July 27 at 9:26 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-26T21:30:45.506894-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-22T12:21:29.912890-04:00.jpg">July 22 at 12:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-22T00:34:51.014123-04:00.jpg">
-  <img src="https://archive.org/download/vicenews-2022/vicenews-2022-07-22T00:34:51.014123-04:00.jpg"
-     alt="Vice News at 2022-07-22 00:34:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-22T00:34:51.014123-04:00.jpg">July 22 at 12:34 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 103 hyperlink lists with the Internet Archive.
+The archiving routine has saved 104 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:26 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-27T09:26:33.853305-04:00.hyperlinks.json) |
 | [July 26 at 9:30 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-26T21:30:45.506894-04:00.hyperlinks.json) |
 | [July 26 at 9:33 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-26T09:32:56.022571-04:00.hyperlinks.json) |
 | [July 25 at 10:54 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-25T22:54:06.948366-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:10 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-24T11:10:25.054205-04:00.hyperlinks.json) |
 | [July 23 at 11:45 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-23T23:45:55.195264-04:00.hyperlinks.json) |
 | [July 23 at 12:08 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-23T12:08:15.245618-04:00.hyperlinks.json) |
-| [July 23 at 12:28 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-23T00:28:18.834726-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 103 accessibility trees with the Internet Archive.
+The archiving routine has saved 104 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:26 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-27T09:26:33.853305-04:00.accessibility.json) |
 | [July 26 at 9:30 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-26T21:30:45.506894-04:00.accessibility.json) |
 | [July 26 at 9:32 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-26T09:32:56.022571-04:00.accessibility.json) |
 | [July 25 at 10:54 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-25T22:54:06.948366-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 11:10 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-24T11:10:25.054205-04:00.accessibility.json) |
 | [July 23 at 11:45 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-23T23:45:55.195264-04:00.accessibility.json) |
 | [July 23 at 12:08 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-23T12:08:15.245618-04:00.accessibility.json) |
-| [July 23 at 12:28 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-23T00:28:18.834726-04:00.accessibility.json) |
 
 
 

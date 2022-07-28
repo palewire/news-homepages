@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 33 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 33 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-27T09:25:11.179192-04:00.jpg">
+  <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-27T09:25:11.179192-04:00.jpg"
+     alt="Stories Beneath the Shell at 2022-07-27 09:25:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-27T09:25:11.179192-04:00.jpg">July 27 at 9:25 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-26T21:29:58.056165-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T12:20:23.579626-04:00.jpg">July 22 at 12:20 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T00:34:04.896705-04:00.jpg">
-  <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T00:34:04.896705-04:00.jpg"
-     alt="Stories Beneath the Shell at 2022-07-22 00:34:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T00:34:04.896705-04:00.jpg">July 22 at 12:34 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 33 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:25 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-27T09:25:11.179192-04:00.hyperlinks.json) |
 | [July 26 at 9:30 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-26T21:29:58.056165-04:00.hyperlinks.json) |
 | [July 26 at 9:33 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-26T09:33:03.654759-04:00.hyperlinks.json) |
 | [July 25 at 10:54 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T22:54:23.510589-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:09 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-24T11:09:40.443011-04:00.hyperlinks.json) |
 | [July 23 at 11:44 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T23:44:27.899029-04:00.hyperlinks.json) |
 | [July 23 at 12:08 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T12:08:01.542305-04:00.hyperlinks.json) |
-| [July 23 at 12:27 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T00:27:00.463321-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 33 accessibility trees with the Internet Archive.
+The archiving routine has saved 34 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:25 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-27T09:25:11.179192-04:00.accessibility.json) |
 | [July 26 at 9:30 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-26T21:29:58.056165-04:00.accessibility.json) |
 | [July 26 at 9:33 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-26T09:33:03.654759-04:00.accessibility.json) |
 | [July 25 at 10:54 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T22:54:23.510589-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 11:09 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-24T11:09:40.443011-04:00.accessibility.json) |
 | [July 23 at 11:44 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T23:44:27.899029-04:00.accessibility.json) |
 | [July 23 at 12:08 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T12:08:01.542305-04:00.accessibility.json) |
-| [July 23 at 12:27 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T00:27:00.463321-04:00.accessibility.json) |
 
 
 

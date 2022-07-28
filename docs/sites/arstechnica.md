@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 63 screenshots with the Internet Archive.
+The archiving routine has saved 64 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 63 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-27T09:16:50.429019-04:00.jpg">
+  <img src="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-27T09:16:50.429019-04:00.jpg"
+     alt="Ars Technica at 2022-07-27 09:16:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-27T09:16:50.429019-04:00.jpg">July 27 at 9:16 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-26T21:23:04.542655-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-22T20:56:02.511040-04:00.jpg">July 22 at 8:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-22T08:56:19.457038-04:00.jpg">
-  <img src="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-22T08:56:19.457038-04:00.jpg"
-     alt="Ars Technica at 2022-07-22 08:56:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-22T08:56:19.457038-04:00.jpg">July 22 at 8:56 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 62 hyperlink lists with the Internet Archive.
+The archiving routine has saved 63 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:16 AM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-27T09:16:50.429019-04:00.hyperlinks.json) |
 | [July 26 at 9:23 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-26T21:23:04.542655-04:00.hyperlinks.json) |
 | [July 26 at 9:24 AM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-26T09:23:57.329014-04:00.hyperlinks.json) |
 | [July 25 at 10:55 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-25T22:55:39.758622-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 8:48 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-24T20:48:02.964908-04:00.hyperlinks.json) |
 | [July 24 at 6:56 AM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-24T06:56:28.756720-04:00.hyperlinks.json) |
 | [July 23 at 6:59 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-23T18:59:05.274540-04:00.hyperlinks.json) |
-| [July 23 at 8:55 AM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-23T08:55:34.246068-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 62 accessibility trees with the Internet Archive.
+The archiving routine has saved 63 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:16 AM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-27T09:16:50.429019-04:00.accessibility.json) |
 | [July 26 at 9:23 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-26T21:23:04.542655-04:00.accessibility.json) |
 | [July 26 at 9:24 AM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-26T09:23:57.329014-04:00.accessibility.json) |
 | [July 25 at 10:55 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-25T22:55:39.758622-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 8:48 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-24T20:48:02.964908-04:00.accessibility.json) |
 | [July 24 at 6:56 AM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-24T06:56:28.756720-04:00.accessibility.json) |
 | [July 23 at 6:59 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-23T18:59:05.274540-04:00.accessibility.json) |
-| [July 23 at 8:55 AM](https://archive.org/download/arstechnica-2022/arstechnica-2022-07-23T08:55:34.246068-04:00.accessibility.json) |
 
 
 

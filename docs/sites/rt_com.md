@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rt_com-2022/rt_com-2022-07-27T18:45:16.353107+03:00.jpg">
+  <img src="https://archive.org/download/rt_com-2022/rt_com-2022-07-27T18:45:16.353107+03:00.jpg"
+     alt="RT at 2022-07-27 18:45:18+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-07-27T18:45:16.353107+03:00.jpg">July 27 at 6:45 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rt_com-2022/rt_com-2022-07-27T08:25:15.716337+03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-07-24T09:22:22.189466+03:00.jpg">July 24 at 9:22 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rt_com-2022/rt_com-2022-07-23T18:09:10.205563+03:00.jpg">
-  <img src="https://archive.org/download/rt_com-2022/rt_com-2022-07-23T18:09:10.205563+03:00.jpg"
-     alt="RT at 2022-07-23 18:09:12+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-07-23T18:09:10.205563+03:00.jpg">July 23 at 6:09 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 34 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 6:45 PM](https://archive.org/download/rt_com-2022/rt_com-2022-07-27T18:45:16.353107+03:00.hyperlinks.json) |
 | [July 27 at 8:25 AM](https://archive.org/download/rt_com-2022/rt_com-2022-07-27T08:25:15.716337+03:00.hyperlinks.json) |
 | [July 27 at 6:53 AM](https://archive.org/download/rt_com-2022/rt_com-2022-07-27T06:53:42.242241+03:00.hyperlinks.json) |
 | [July 26 at 6:44 PM](https://archive.org/download/rt_com-2022/rt_com-2022-07-26T18:44:24.369869+03:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 8:23 AM](https://archive.org/download/rt_com-2022/rt_com-2022-07-25T08:23:05.915149+03:00.hyperlinks.json) |
 | [July 25 at 6:42 AM](https://archive.org/download/rt_com-2022/rt_com-2022-07-25T06:42:30.624309+03:00.hyperlinks.json) |
 | [July 24 at 5:03 PM](https://archive.org/download/rt_com-2022/rt_com-2022-07-24T17:03:11.678793+03:00.hyperlinks.json) |
-| [July 24 at 9:47 AM](https://archive.org/download/rt_com-2022/rt_com-2022-07-24T09:47:27.309787+03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 34 accessibility trees with the Internet Archive.
+The archiving routine has saved 35 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 6:45 PM](https://archive.org/download/rt_com-2022/rt_com-2022-07-27T18:45:16.353107+03:00.accessibility.json) |
 | [July 27 at 8:25 AM](https://archive.org/download/rt_com-2022/rt_com-2022-07-27T08:25:15.716337+03:00.accessibility.json) |
 | [July 27 at 6:53 AM](https://archive.org/download/rt_com-2022/rt_com-2022-07-27T06:53:42.242241+03:00.accessibility.json) |
 | [July 26 at 6:44 PM](https://archive.org/download/rt_com-2022/rt_com-2022-07-26T18:44:24.369869+03:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 8:23 AM](https://archive.org/download/rt_com-2022/rt_com-2022-07-25T08:23:05.915149+03:00.accessibility.json) |
 | [July 25 at 6:42 AM](https://archive.org/download/rt_com-2022/rt_com-2022-07-25T06:42:30.624309+03:00.accessibility.json) |
 | [July 24 at 5:03 PM](https://archive.org/download/rt_com-2022/rt_com-2022-07-24T17:03:11.678793+03:00.accessibility.json) |
-| [July 24 at 9:47 AM](https://archive.org/download/rt_com-2022/rt_com-2022-07-24T09:47:27.309787+03:00.accessibility.json) |
 
 
 

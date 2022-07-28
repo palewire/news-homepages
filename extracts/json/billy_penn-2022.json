@@ -1,46 +1,5 @@
 {
-  "billy_penn-2022": [
-    {
-      "url": "https://billypenn.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/billypenn_com-_-2022_07_27_01_03_08.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/billypenn_com-_-2022_07_27_01_03_08.report.json",
-      "summary": {
-        "performance": 0.48,
-        "accessibility": 0.88,
-        "best-practices": 0.92,
-        "seo": 0.98,
-        "pwa": 0.8
-      }
-    },
-    {
-      "url": "https://billypenn.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/billypenn_com-_-2022_07_27_01_03_24.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/billypenn_com-_-2022_07_27_01_03_24.report.json",
-      "summary": {
-        "performance": 0.47,
-        "accessibility": 0.88,
-        "best-practices": 0.92,
-        "seo": 0.98,
-        "pwa": 0.8
-      }
-    },
-    {
-      "url": "https://billypenn.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/billypenn_com-_-2022_07_27_01_03_41.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/billypenn_com-_-2022_07_27_01_03_41.report.json",
-      "summary": {
-        "performance": 0.31,
-        "accessibility": 0.88,
-        "best-practices": 0.92,
-        "seo": 0.98,
-        "pwa": 0.8
-      }
-    }
-  ],
-  "created": 1658923646,
+  "created": 1658981422,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/30/items/billy_penn-2022",
@@ -2573,31 +2532,135 @@
       "sha1": "f1640c506485a5f205cf26605280ea4d1e965796"
     },
     {
+      "name": "billy_penn-2022-07-27T09:18:51.573897-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658927935",
+      "size": "28272",
+      "md5": "68d32b3bce37c5390dac360c0465282e",
+      "crc32": "57a2709d",
+      "sha1": "3c84fce1782d2db1a5c957fa15db473b5dca60d7",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-07-27T09:18:51.573897-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658927936",
+      "size": "28852",
+      "md5": "1c4f599892e0b2fd53fb2048578c628d",
+      "crc32": "98ef6cd1",
+      "sha1": "879b6884d74c6637dbc557d6f7cd2bc05378e31e",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-07-27T09:18:51.573897-04:00.jpg",
+      "source": "original",
+      "mtime": "1658927934",
+      "size": "304181",
+      "md5": "36edd14477dc87bfd26d4fe0841c082c",
+      "crc32": "34a8fb71",
+      "sha1": "70520ed847506167cc73ffc8c1e00ab8b27c3821",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "billy_penn-2022-07-27T09:18:51.573897-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658927938",
+      "size": "1448",
+      "md5": "ea35babcdd96f2eadfc1ac5a4127bf5f",
+      "crc32": "970dac74",
+      "sha1": "2e67ac4ef06b9982032f1ce125b78fd42d6910e9",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-07-27T09:18:51.573897-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "billy_penn-2022-07-27T09:18:51.573897-04:00.jpg",
+      "mtime": "1658949699",
+      "size": "9838",
+      "md5": "967d18b2298e855df76c05f5a90b8814",
+      "crc32": "5f7c8f35",
+      "sha1": "adcb13c948ffafd7e445c77344b7ca4d80164292"
+    },
+    {
+      "name": "billy_penn-2022-07-27T21:27:18.579563-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658971641",
+      "size": "28169",
+      "md5": "ed91f0eb763cf68df858505397bcf39c",
+      "crc32": "9079b0d7",
+      "sha1": "55941f08af3d44e22d5b82f1c86db3383663c09b",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-07-27T21:27:18.579563-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658971642",
+      "size": "28852",
+      "md5": "1c4f599892e0b2fd53fb2048578c628d",
+      "crc32": "98ef6cd1",
+      "sha1": "879b6884d74c6637dbc557d6f7cd2bc05378e31e",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-07-27T21:27:18.579563-04:00.jpg",
+      "source": "original",
+      "mtime": "1658971639",
+      "size": "310302",
+      "md5": "90e755048068bfce7283f4b7ed150fa7",
+      "crc32": "2b87cc6f",
+      "sha1": "1a3d2cd6a61a0c49e3c4f69710351ced62dba971",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "billy_penn-2022-07-27T21:27:18.579563-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658971644",
+      "size": "1450",
+      "md5": "6d791dddc8316020a147037c73e1f2e3",
+      "crc32": "d70035ed",
+      "sha1": "d93fd879846dca8bf593448e8f6fc8fbad44e9f7",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-07-27T21:27:18.579563-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "billy_penn-2022-07-27T21:27:18.579563-04:00.jpg",
+      "mtime": "1658981387",
+      "size": "9623",
+      "md5": "f99ad2ac90e467cfd66d031b4caeaa05",
+      "crc32": "92815ff6",
+      "sha1": "67dab71b41256a9fa0b0e573e9b84f87203bfe92"
+    },
+    {
       "name": "billy_penn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5508ccb9f2236e12c6495add0a5dbbf57caedcb2",
-      "mtime": "1658886646",
-      "size": "52768",
-      "md5": "2afc6a897107f470ccabfd640f7f5e76",
-      "crc32": "3b16a03f",
-      "sha1": "9c02fd86abc9a0ff0ee39e88c29a571f378f7440",
+      "btih": "722a11514c5ffbdad566af752cbe64a1baeee3da",
+      "mtime": "1658981398",
+      "size": "54906",
+      "md5": "6e8f97c405c9008b144229f598d732d0",
+      "crc32": "f5e7b6ad",
+      "sha1": "f1af432cdca871dbd14a04de5293711c3e1e832b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "billy_penn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0334c6dda5e9007f97cfedf5034c7e75",
+      "md5": "ce4b00f9e07444cb033a79765962be34",
       "summation": "md5"
     },
     {
       "name": "billy_penn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658885048",
-      "size": "299008",
-      "md5": "1aa35f070c2312e750560037651d03b9",
-      "crc32": "8fe68b84",
-      "sha1": "86eeb8a999ce8703a1841b3e291411825c4b8f92",
+      "mtime": "1658971658",
+      "size": "311296",
+      "md5": "11a807311d1f221435b8e30a513d48ac",
+      "crc32": "a169553a",
+      "sha1": "0f0aa3d4168dbe034d0957853c50ac332d584be3",
       "format": "Metadata"
     },
     {
@@ -2611,9 +2674,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 245,
-  "item_last_updated": 1658886646,
-  "item_size": 23087708,
+  "files_count": 255,
+  "item_last_updated": 1658981398,
+  "item_size": 23853121,
   "metadata": {
     "identifier": "billy_penn-2022",
     "collection": [
@@ -2630,10 +2693,10 @@
     "publicdate": "2022-07-03 15:52:45",
     "addeddate": "2022-07-03 15:52:45"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 1267379439,
+  "server": "ia601506.us.archive.org",
+  "uniq": 1269351982,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

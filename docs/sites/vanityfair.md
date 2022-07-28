@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-27T09:26:11.084781-04:00.jpg">
+  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-27T09:26:11.084781-04:00.jpg"
+     alt="Vanity Fair at 2022-07-27 09:26:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-27T09:26:11.084781-04:00.jpg">July 27 at 9:26 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-26T21:30:58.244402-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-22T12:20:19.525260-04:00.jpg">July 22 at 12:20 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-22T00:34:12.369676-04:00.jpg">
-  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-22T00:34:12.369676-04:00.jpg"
-     alt="Vanity Fair at 2022-07-22 00:34:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-22T00:34:12.369676-04:00.jpg">July 22 at 12:34 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:26 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-27T09:26:11.084781-04:00.hyperlinks.json) |
 | [July 26 at 9:31 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-26T21:30:58.244402-04:00.hyperlinks.json) |
 | [July 26 at 9:32 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-26T09:32:48.126799-04:00.hyperlinks.json) |
 | [July 25 at 10:54 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-25T22:54:03.800157-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:09 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-24T11:09:42.354670-04:00.hyperlinks.json) |
 | [July 23 at 11:44 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-23T23:44:54.817033-04:00.hyperlinks.json) |
 | [July 23 at 12:08 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-23T12:07:56.732290-04:00.hyperlinks.json) |
-| [July 23 at 12:28 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-23T00:28:15.419052-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 47 accessibility trees with the Internet Archive.
+The archiving routine has saved 48 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:26 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-27T09:26:11.084781-04:00.accessibility.json) |
 | [July 26 at 9:31 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-26T21:30:58.244402-04:00.accessibility.json) |
 | [July 26 at 9:32 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-26T09:32:48.126799-04:00.accessibility.json) |
 | [July 25 at 10:54 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-25T22:54:03.800157-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 11:09 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-24T11:09:42.354670-04:00.accessibility.json) |
 | [July 23 at 11:44 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-23T23:44:54.817033-04:00.accessibility.json) |
 | [July 23 at 12:07 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-23T12:07:56.732290-04:00.accessibility.json) |
-| [July 23 at 12:28 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-23T00:28:15.419052-04:00.accessibility.json) |
 
 
 

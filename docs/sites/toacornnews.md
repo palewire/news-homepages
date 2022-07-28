@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 130 screenshots with the Internet Archive.
+The archiving routine has saved 131 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 130 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-27T06:25:35.915965-07:00.jpg">
+  <img src="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-27T06:25:35.915965-07:00.jpg"
+     alt="Thousand Oaks Acorn at 2022-07-27 06:25:37-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-27T06:25:35.915965-07:00.jpg">July 27 at 6:25 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-26T18:29:43.266197-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-23T20:43:56.721579-07:00.jpg">July 23 at 8:44 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-23T11:24:52.211489-07:00.jpg">
-  <img src="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-23T11:24:52.211489-07:00.jpg"
-     alt="Thousand Oaks Acorn at 2022-07-23 11:24:55-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-23T11:24:52.211489-07:00.jpg">July 23 at 11:24 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 131 hyperlink lists with the Internet Archive.
+The archiving routine has saved 132 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 6:25 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-27T06:25:35.915965-07:00.hyperlinks.json) |
 | [July 26 at 6:29 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-26T18:29:43.266197-07:00.hyperlinks.json) |
 | [July 26 at 11:34 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-26T11:34:04.081525-07:00.hyperlinks.json) |
 | [July 26 at 6:31 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-26T06:31:53.042157-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 8:50 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-25T08:49:59.248886-07:00.hyperlinks.json) |
 | [July 24 at 9:38 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-24T21:38:45.458292-07:00.hyperlinks.json) |
 | [July 24 at 11:21 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-24T11:21:16.627927-07:00.hyperlinks.json) |
-| [July 24 at 8:08 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-24T08:08:40.928319-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 131 accessibility trees with the Internet Archive.
+The archiving routine has saved 132 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 6:25 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-27T06:25:35.915965-07:00.accessibility.json) |
 | [July 26 at 6:29 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-26T18:29:43.266197-07:00.accessibility.json) |
 | [July 26 at 11:34 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-26T11:34:04.081525-07:00.accessibility.json) |
 | [July 26 at 6:31 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-26T06:31:53.042157-07:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 8:50 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-25T08:49:59.248886-07:00.accessibility.json) |
 | [July 24 at 9:38 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-24T21:38:45.458292-07:00.accessibility.json) |
 | [July 24 at 8:08 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-24T08:08:40.928319-07:00.accessibility.json) |
-| [July 23 at 8:44 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-23T20:43:56.721579-07:00.accessibility.json) |
 
 
 

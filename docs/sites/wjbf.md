@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wjbf-2022/wjbf-2022-07-27T09:27:41.456377-04:00.jpg">
+  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-07-27T09:27:41.456377-04:00.jpg"
+     alt="WJBF at 2022-07-27 09:27:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-07-27T09:27:41.456377-04:00.jpg">July 27 at 9:27 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wjbf-2022/wjbf-2022-07-26T21:31:29.208420-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-07-22T12:22:36.759803-04:00.jpg">July 22 at 12:22 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wjbf-2022/wjbf-2022-07-22T00:35:49.343975-04:00.jpg">
-  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-07-22T00:35:49.343975-04:00.jpg"
-     alt="WJBF at 2022-07-22 00:35:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-07-22T00:35:49.343975-04:00.jpg">July 22 at 12:35 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 15 hyperlink lists with the Internet Archive.
+The archiving routine has saved 16 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:27 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-27T09:27:41.456377-04:00.hyperlinks.json) |
 | [July 26 at 9:31 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-26T21:31:29.208420-04:00.hyperlinks.json) |
 | [July 26 at 9:34 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-26T09:34:06.132089-04:00.hyperlinks.json) |
 | [July 25 at 10:55 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-25T22:55:25.867003-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:11 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-24T11:11:30.027081-04:00.hyperlinks.json) |
 | [July 23 at 11:47 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-23T23:47:05.087568-04:00.hyperlinks.json) |
 | [July 23 at 12:09 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-23T12:09:28.444626-04:00.hyperlinks.json) |
-| [July 23 at 12:29 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-23T00:29:26.338440-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 15 accessibility trees with the Internet Archive.
+The archiving routine has saved 16 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:27 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-27T09:27:41.456377-04:00.accessibility.json) |
 | [July 26 at 9:31 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-26T21:31:29.208420-04:00.accessibility.json) |
 | [July 26 at 9:34 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-26T09:34:06.132089-04:00.accessibility.json) |
 | [July 25 at 10:55 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-25T22:55:25.867003-04:00.accessibility.json) |
@@ -179,7 +180,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 11:11 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-24T11:11:30.027081-04:00.accessibility.json) |
 | [July 23 at 11:47 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-23T23:47:05.087568-04:00.accessibility.json) |
 | [July 23 at 12:09 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-23T12:09:28.444626-04:00.accessibility.json) |
-| [July 23 at 12:29 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-23T00:29:26.338440-04:00.accessibility.json) |
 
 
 

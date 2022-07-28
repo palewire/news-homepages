@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 12 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-27T06:19:18.590492-07:00.jpg">
+  <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-27T06:19:18.590492-07:00.jpg"
+     alt="Capital & Main at 2022-07-27 06:19:21-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-27T06:19:18.590492-07:00.jpg">July 27 at 6:19 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-26T18:25:01.565065-07:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-23T16:02:28.993734-07:00.jpg">July 23 at 4:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-23T11:23:38.895796-07:00.jpg">
-  <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-23T11:23:38.895796-07:00.jpg"
-     alt="Capital & Main at 2022-07-23 11:23:44-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-23T11:23:38.895796-07:00.jpg">July 23 at 11:23 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 12 hyperlink lists with the Internet Archive.
+The archiving routine has saved 13 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 6:19 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-27T06:19:18.590492-07:00.hyperlinks.json) |
 | [July 26 at 6:25 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-26T18:25:01.565065-07:00.hyperlinks.json) |
 | [July 26 at 11:33 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-26T11:33:20.602495-07:00.hyperlinks.json) |
 | [July 26 at 6:26 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-26T06:26:34.021210-07:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 4:01 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-25T04:01:17.051898-07:00.hyperlinks.json) |
 | [July 24 at 5:53 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-24T17:52:59.146414-07:00.hyperlinks.json) |
 | [July 24 at 11:20 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-24T11:20:31.626996-07:00.hyperlinks.json) |
-| [July 24 at 4:00 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-24T04:00:20.554987-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 12 accessibility trees with the Internet Archive.
+The archiving routine has saved 13 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 6:19 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-27T06:19:18.590492-07:00.accessibility.json) |
 | [July 26 at 6:25 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-26T18:25:01.565065-07:00.accessibility.json) |
 | [July 26 at 11:33 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-26T11:33:20.602495-07:00.accessibility.json) |
 | [July 26 at 6:26 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-26T06:26:34.021210-07:00.accessibility.json) |
@@ -179,7 +180,6 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 4:01 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-25T04:01:17.051898-07:00.accessibility.json) |
 | [July 24 at 5:53 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-24T17:52:59.146414-07:00.accessibility.json) |
 | [July 24 at 11:20 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-24T11:20:31.626996-07:00.accessibility.json) |
-| [July 24 at 4:00 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-24T04:00:20.554987-07:00.accessibility.json) |
 
 
 

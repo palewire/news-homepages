@@ -3,10 +3,10 @@
     {
       "url": "https://www.cbc.ca/news",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbc_ca-_news-2022_07_27_01_04_18.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbc_ca-_news-2022_07_27_01_04_18.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbc_ca-_news-2022_07_28_01_07_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbc_ca-_news-2022_07_28_01_07_10.report.json",
       "summary": {
-        "performance": 0.26,
+        "performance": 0.25,
         "accessibility": 0.98,
         "best-practices": 0.92,
         "seo": 0.9,
@@ -16,10 +16,10 @@
     {
       "url": "https://www.cbc.ca/news",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbc_ca-_news-2022_07_27_01_04_40.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbc_ca-_news-2022_07_27_01_04_40.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbc_ca-_news-2022_07_28_01_07_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbc_ca-_news-2022_07_28_01_07_52.report.json",
       "summary": {
-        "performance": 0.32,
+        "performance": 0.3,
         "accessibility": 0.98,
         "best-practices": 0.92,
         "seo": 0.9,
@@ -29,10 +29,10 @@
     {
       "url": "https://www.cbc.ca/news",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbc_ca-_news-2022_07_27_01_03_53.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbc_ca-_news-2022_07_27_01_03_53.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbc_ca-_news-2022_07_28_01_07_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbc_ca-_news-2022_07_28_01_07_31.report.json",
       "summary": {
-        "performance": 0.25,
+        "performance": 0.36,
         "accessibility": 0.98,
         "best-practices": 0.92,
         "seo": 0.9,
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "created": 1658923679,
+  "created": 1659010243,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/8/items/cbcnews-2022",
@@ -2921,31 +2921,113 @@
       "sha1": "e2acecf6e9216e3dbcb703d9721f2ba170cf813d"
     },
     {
+      "name": "cbcnews-2022-07-27T09:19:05.087203-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658927948",
+      "size": "455",
+      "md5": "af71e2a118fc0f4e1e6ff810a23e605c",
+      "crc32": "f27b36df",
+      "sha1": "268e1c90ad70f28986e5c4e72e302366cc35ae4b",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-07-27T09:19:05.087203-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658927950",
+      "size": "25225",
+      "md5": "175e4d1be3f3b79e33d7ca16b65a59a2",
+      "crc32": "d4823a57",
+      "sha1": "4fd8255712bf347ce3d95b1c65581436c3504506",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-07-27T09:19:05.087203-04:00.jpg",
+      "source": "original",
+      "mtime": "1658927947",
+      "size": "345309",
+      "md5": "fb49877c8fbeadc87ae7aa62bae08960",
+      "crc32": "42460ba9",
+      "sha1": "6c1780e51562f6522d2545b7ccbbf625c4eba68e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbcnews-2022-07-27T09:19:05.087203-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658927952",
+      "size": "1456",
+      "md5": "6738cfc3f4b2025d68bfe39c13c4102d",
+      "crc32": "5c5dc530",
+      "sha1": "2ee8f5edf5d050f34cae514ea5f2bab6bcbc54bb",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-07-27T09:19:05.087203-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbcnews-2022-07-27T09:19:05.087203-04:00.jpg",
+      "mtime": "1658949733",
+      "size": "10351",
+      "md5": "1cc1d8a19edf478351200e8b37495e07",
+      "crc32": "4a31ec8f",
+      "sha1": "849740ac2f54bc53a1c8d15be690c3b75a01ed9e"
+    },
+    {
+      "name": "cbcnews-2022-07-27T21:27:07.188382-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658971628",
+      "size": "455",
+      "md5": "c0c4725db5e0a51a8b0d06f3328b3d33",
+      "crc32": "aeaae9eb",
+      "sha1": "8fa6a82c45a33a2531accf73ab11be7aae651055",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-07-27T21:27:07.188382-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658971629",
+      "size": "24580",
+      "md5": "86fac8be35994be220743b557171335f",
+      "crc32": "db67d2a8",
+      "sha1": "76455c8e0b97aa544a244d49dad46354e7e7d5d9",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-07-27T21:27:07.188382-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658971631",
+      "size": "1455",
+      "md5": "b200ff02b7d87264de1cded8702a7241",
+      "crc32": "89dc9d83",
+      "sha1": "931d908f346cb18ede5fc5320597ceaecdc968bd",
+      "format": "JSON"
+    },
+    {
       "name": "cbcnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "39aaeba8d6d4de692bf0f2d6de7fc7966decb33d",
-      "mtime": "1658886784",
-      "size": "58478",
-      "md5": "0c8083032c1186df6a9988b44c695d1c",
-      "crc32": "78bd41a7",
-      "sha1": "d4c0750d99fae51925b4a55e8e8ee4565f01d7f3",
+      "btih": "37e07c1b038020d9c6ce83519715980c80334918",
+      "mtime": "1658971678",
+      "size": "60161",
+      "md5": "f70298417d9c986f137e10ca45e52fd3",
+      "crc32": "826373da",
+      "sha1": "92001b7ff9e8305cfe9bdabbf04711b585571bcc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbcnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "81e0ea9821352cace6346e20a109a513",
+      "md5": "97f7a5b1180ed0029b1856d6bf044ad5",
       "summation": "md5"
     },
     {
       "name": "cbcnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658885149",
-      "size": "335872",
-      "md5": "6f85398f8bc57383ba5fb0eaf9659f89",
-      "crc32": "5d175a26",
-      "sha1": "385b50ee2110ed7608532bbc2d777c002955a779",
+      "mtime": "1658971640",
+      "size": "344064",
+      "md5": "5b906b1d8a03702f1ffac6060a04c8ff",
+      "crc32": "e6364ace",
+      "sha1": "47a48f6e2def904ec57b39426e39b439703636e0",
       "format": "Metadata"
     },
     {
@@ -2959,9 +3041,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 278,
-  "item_last_updated": 1658886784,
-  "item_size": 19576768,
+  "files_count": 286,
+  "item_last_updated": 1658971678,
+  "item_size": 19995929,
   "metadata": {
     "identifier": "cbcnews-2022",
     "collection": [
@@ -2979,7 +3061,7 @@
     "addeddate": "2022-06-30 22:35:35"
   },
   "server": "ia801508.us.archive.org",
-  "uniq": 1652364156,
+  "uniq": 2017257220,
   "workable_servers": [
     "ia801508.us.archive.org",
     "ia601508.us.archive.org"

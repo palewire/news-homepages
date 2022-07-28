@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-28T05:53:24.632829+05:45.jpg">
+  <img src="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-28T05:53:24.632829+05:45.jpg"
+     alt="Gorakhapatra at 2022-07-28 05:53:26+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-28T05:53:24.632829+05:45.jpg">July 28 at 5:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-27T18:57:09.230198+05:45.jpg">
+  <img src="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-27T18:57:09.230198+05:45.jpg"
+     alt="Gorakhapatra at 2022-07-27 18:57:10+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-27T18:57:09.230198+05:45.jpg">July 27 at 6:57 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-27T06:02:01.510850+05:45.jpg">
@@ -77,7 +95,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 6 hyperlink lists with the Internet Archive.
+The archiving routine has saved 8 hyperlink lists with the Internet Archive.
 
 
 
@@ -85,6 +103,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 28 at 5:53 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-28T05:53:24.632829+05:45.hyperlinks.json) |
+| [July 27 at 6:57 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-27T18:57:09.230198+05:45.hyperlinks.json) |
 | [July 27 at 6:02 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-27T06:02:01.510850+05:45.hyperlinks.json) |
 | [July 26 at 6:11 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-26T18:11:01.967643+05:45.hyperlinks.json) |
 | [July 26 at 6:07 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-26T06:07:04.752639+05:45.hyperlinks.json) |
@@ -95,7 +115,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 6 accessibility trees with the Internet Archive.
+The archiving routine has saved 8 accessibility trees with the Internet Archive.
 
 
 
@@ -103,6 +123,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 28 at 5:53 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-28T05:53:24.632829+05:45.accessibility.json) |
+| [July 27 at 6:57 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-27T18:57:09.230198+05:45.accessibility.json) |
 | [July 27 at 6:02 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-27T06:02:01.510850+05:45.accessibility.json) |
 | [July 26 at 6:11 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-26T18:11:01.967643+05:45.accessibility.json) |
 | [July 26 at 6:07 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-26T06:07:04.752639+05:45.accessibility.json) |
