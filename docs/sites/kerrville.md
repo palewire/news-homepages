@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 21 screenshots with the Internet Archive.
+The archiving routine has saved 22 screenshots with the Internet Archive.
 
 
 
@@ -29,118 +29,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-27T09:32:23.771056-05:00.jpg">
-  <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-27T09:32:23.771056-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-27 09:32:26-05:00 local time"
+ <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-27T21:39:55.906147-05:00.jpg">
+  <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-27T21:39:55.906147-05:00.jpg"
+     alt="Kerrville Daily Times at 2022-07-28 04:40:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-27T09:32:23.771056-05:00.jpg">July 27 at 9:32 AM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-27T21:39:55.906147-05:00.jpg">July 28 at 4:40 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-27T09:32:23.771056-05:00.jpg">
+  <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-27T09:32:23.771056-05:00.jpg"
+     alt="Kerrville Daily Times at 2022-07-27 16:32:26-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-27T09:32:23.771056-05:00.jpg">July 27 at 4:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-26T21:39:27.037284-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-26T21:39:27.037284-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-26 21:39:29-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-27 04:39:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-26T21:39:27.037284-05:00.jpg">July 26 at 9:39 PM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-26T21:39:27.037284-05:00.jpg">July 27 at 4:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-26T09:37:30.823615-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-26T09:37:30.823615-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-26 09:37:33-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-26 16:37:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-26T09:37:30.823615-05:00.jpg">July 26 at 9:37 AM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-26T09:37:30.823615-05:00.jpg">July 26 at 4:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-25T21:45:00.441117-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-25T21:45:00.441117-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-25 21:45:02-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-26 04:45:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-25T21:45:00.441117-05:00.jpg">July 25 at 9:45 PM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-25T21:45:00.441117-05:00.jpg">July 26 at 4:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-25T08:10:50.094769-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-25T08:10:50.094769-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-25 08:10:51-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-25 15:10:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-25T08:10:50.094769-05:00.jpg">July 25 at 8:10 AM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-25T08:10:50.094769-05:00.jpg">July 25 at 3:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-24T22:26:45.127761-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-24T22:26:45.127761-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-24 22:26:47-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-25 05:26:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-24T22:26:45.127761-05:00.jpg">July 24 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-24T22:26:45.127761-05:00.jpg">July 25 at 5:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-24T07:59:52.284289-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-24T07:59:52.284289-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-24 07:59:53-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-24 14:59:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-24T07:59:52.284289-05:00.jpg">July 24 at 7:59 AM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-24T07:59:52.284289-05:00.jpg">July 24 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-23T23:15:01.534098-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-23T23:15:01.534098-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-23 23:15:03-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-24 06:15:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-23T23:15:01.534098-05:00.jpg">July 23 at 11:15 PM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-23T23:15:01.534098-05:00.jpg">July 24 at 6:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-23T09:04:55.122262-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-23T09:04:55.122262-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-23 09:04:56-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-23 16:04:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-23T09:04:55.122262-05:00.jpg">July 23 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-23T09:04:55.122262-05:00.jpg">July 23 at 4:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-22T21:31:42.175850-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-22T21:31:42.175850-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-22 21:31:43-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-23 04:31:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-22T21:31:42.175850-05:00.jpg">July 22 at 9:31 PM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-22T21:31:42.175850-05:00.jpg">July 23 at 4:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-22T09:05:36.233446-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-22T09:05:36.233446-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-22 09:05:38-05:00 local time"
+     alt="Kerrville Daily Times at 2022-07-22 16:05:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-22T09:05:36.233446-05:00.jpg">July 22 at 9:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-21T21:25:04.491721-05:00.jpg">
-  <img src="https://archive.org/download/kerrville-2022/kerrville-2022-07-21T21:25:04.491721-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-07-21 21:25:06-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-21T21:25:04.491721-05:00.jpg">July 21 at 9:25 PM</a></p>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-07-22T09:05:36.233446-05:00.jpg">July 22 at 4:05 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,21 +148,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 9:32 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-27T09:32:23.771056-05:00.hyperlinks.json) |
-| [July 26 at 9:39 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-26T21:39:27.037284-05:00.hyperlinks.json) |
-| [July 26 at 9:37 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-26T09:37:30.823615-05:00.hyperlinks.json) |
-| [July 25 at 9:45 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-25T21:45:00.441117-05:00.hyperlinks.json) |
-| [July 24 at 10:26 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-24T22:26:45.127761-05:00.hyperlinks.json) |
-| [July 24 at 7:59 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-24T07:59:52.284289-05:00.hyperlinks.json) |
-| [July 23 at 11:15 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-23T23:15:01.534098-05:00.hyperlinks.json) |
-| [July 23 at 9:05 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-23T09:04:55.122262-05:00.hyperlinks.json) |
-| [July 22 at 9:31 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-22T21:31:42.175850-05:00.hyperlinks.json) |
-| [July 22 at 9:05 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-22T09:05:36.233446-05:00.hyperlinks.json) |
+| [July 28 at 4:40 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-27T21:39:55.906147-05:00.hyperlinks.json) |
+| [July 27 at 4:32 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-27T09:32:23.771056-05:00.hyperlinks.json) |
+| [July 27 at 4:39 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-26T21:39:27.037284-05:00.hyperlinks.json) |
+| [July 26 at 4:37 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-26T09:37:30.823615-05:00.hyperlinks.json) |
+| [July 26 at 4:45 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-25T21:45:00.441117-05:00.hyperlinks.json) |
+| [July 25 at 5:26 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-24T22:26:45.127761-05:00.hyperlinks.json) |
+| [July 24 at 2:59 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-24T07:59:52.284289-05:00.hyperlinks.json) |
+| [July 24 at 6:15 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-23T23:15:01.534098-05:00.hyperlinks.json) |
+| [July 23 at 4:05 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-23T09:04:55.122262-05:00.hyperlinks.json) |
+| [July 23 at 4:31 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-22T21:31:42.175850-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 21 accessibility trees with the Internet Archive.
+The archiving routine has saved 22 accessibility trees with the Internet Archive.
 
 
 
@@ -170,16 +170,38 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 9:32 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-27T09:32:23.771056-05:00.accessibility.json) |
-| [July 26 at 9:39 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-26T21:39:27.037284-05:00.accessibility.json) |
-| [July 26 at 9:37 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-26T09:37:30.823615-05:00.accessibility.json) |
-| [July 25 at 9:45 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-25T21:45:00.441117-05:00.accessibility.json) |
-| [July 25 at 8:10 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-25T08:10:50.094769-05:00.accessibility.json) |
-| [July 24 at 10:26 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-24T22:26:45.127761-05:00.accessibility.json) |
-| [July 24 at 7:59 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-24T07:59:52.284289-05:00.accessibility.json) |
-| [July 23 at 11:15 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-23T23:15:01.534098-05:00.accessibility.json) |
-| [July 23 at 9:04 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-23T09:04:55.122262-05:00.accessibility.json) |
-| [July 22 at 9:31 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-22T21:31:42.175850-05:00.accessibility.json) |
+| [July 28 at 4:40 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-27T21:39:55.906147-05:00.accessibility.json) |
+| [July 27 at 4:32 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-27T09:32:23.771056-05:00.accessibility.json) |
+| [July 27 at 4:39 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-26T21:39:27.037284-05:00.accessibility.json) |
+| [July 26 at 4:37 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-26T09:37:30.823615-05:00.accessibility.json) |
+| [July 26 at 4:45 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-25T21:45:00.441117-05:00.accessibility.json) |
+| [July 25 at 3:10 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-25T08:10:50.094769-05:00.accessibility.json) |
+| [July 25 at 5:26 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-24T22:26:45.127761-05:00.accessibility.json) |
+| [July 24 at 2:59 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-24T07:59:52.284289-05:00.accessibility.json) |
+| [July 24 at 6:15 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-23T23:15:01.534098-05:00.accessibility.json) |
+| [July 23 at 4:04 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-23T09:04:55.122262-05:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 4:40 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-27T21:39:55.906147-05:00.lighthouse.json) |
+| [July 27 at 4:32 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-27T09:32:23.771056-05:00.lighthouse.json) |
+| [July 27 at 4:39 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-26T21:39:27.037284-05:00.lighthouse.json) |
+| [July 26 at 4:37 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-26T09:37:30.823615-05:00.lighthouse.json) |
+| [July 26 at 4:45 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-25T21:45:00.441117-05:00.lighthouse.json) |
+| [July 25 at 3:10 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-25T08:10:50.094769-05:00.lighthouse.json) |
+| [July 25 at 5:26 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-24T22:26:45.127761-05:00.lighthouse.json) |
+| [July 24 at 2:59 PM](https://archive.org/download/kerrville-2022/kerrville-2022-07-24T07:59:52.284289-05:00.lighthouse.json) |
+| [July 24 at 6:15 AM](https://archive.org/download/kerrville-2022/kerrville-2022-07-23T23:15:01.534098-05:00.lighthouse.json) |
 
 
 

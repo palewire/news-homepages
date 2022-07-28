@@ -31,46 +31,46 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-27T20:04:10.715787-04:00.jpg">
   <img src="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-27T20:04:10.715787-04:00.jpg"
-     alt="JSTOR Daily at 2022-07-27 20:04:12-04:00 local time"
+     alt="JSTOR Daily at 2022-07-28 03:04:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-27T20:04:10.715787-04:00.jpg">July 27 at 8:04 PM</a></p>
+ <p><a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-27T20:04:10.715787-04:00.jpg">July 28 at 3:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-27T09:07:47.926666-04:00.jpg">
   <img src="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-27T09:07:47.926666-04:00.jpg"
-     alt="JSTOR Daily at 2022-07-27 09:07:49-04:00 local time"
+     alt="JSTOR Daily at 2022-07-27 16:07:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-27T09:07:47.926666-04:00.jpg">July 27 at 9:07 AM</a></p>
+ <p><a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-27T09:07:47.926666-04:00.jpg">July 27 at 4:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T20:11:20.237077-04:00.jpg">
   <img src="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T20:11:20.237077-04:00.jpg"
-     alt="JSTOR Daily at 2022-07-26 20:11:21-04:00 local time"
+     alt="JSTOR Daily at 2022-07-27 03:11:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T20:11:20.237077-04:00.jpg">July 26 at 8:11 PM</a></p>
+ <p><a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T20:11:20.237077-04:00.jpg">July 27 at 3:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T08:20:52.911639-04:00.jpg">
   <img src="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T08:20:52.911639-04:00.jpg"
-     alt="JSTOR Daily at 2022-07-26 08:21:11-04:00 local time"
+     alt="JSTOR Daily at 2022-07-26 15:21:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T08:20:52.911639-04:00.jpg">July 26 at 8:21 AM</a></p>
+ <p><a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T08:20:52.911639-04:00.jpg">July 26 at 3:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-25T20:15:35.918536-04:00.jpg">
   <img src="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-25T20:15:35.918536-04:00.jpg"
-     alt="JSTOR Daily at 2022-07-25 20:15:41-04:00 local time"
+     alt="JSTOR Daily at 2022-07-26 03:15:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-25T20:15:35.918536-04:00.jpg">July 25 at 8:15 PM</a></p>
+ <p><a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-25T20:15:35.918536-04:00.jpg">July 26 at 3:15 AM</a></p>
 </div>
 
 </div>
@@ -85,11 +85,11 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 8:04 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-27T20:04:10.715787-04:00.hyperlinks.json) |
-| [July 27 at 9:07 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-27T09:07:47.926666-04:00.hyperlinks.json) |
-| [July 26 at 8:11 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T20:11:20.237077-04:00.hyperlinks.json) |
-| [July 26 at 8:21 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T08:20:52.911639-04:00.hyperlinks.json) |
-| [July 25 at 8:15 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-25T20:15:35.918536-04:00.hyperlinks.json) |
+| [July 28 at 3:04 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-27T20:04:10.715787-04:00.hyperlinks.json) |
+| [July 27 at 4:07 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-27T09:07:47.926666-04:00.hyperlinks.json) |
+| [July 27 at 3:11 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T20:11:20.237077-04:00.hyperlinks.json) |
+| [July 26 at 3:21 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T08:20:52.911639-04:00.hyperlinks.json) |
+| [July 26 at 3:15 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-25T20:15:35.918536-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -102,11 +102,29 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 8:04 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-27T20:04:10.715787-04:00.accessibility.json) |
-| [July 27 at 9:07 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-27T09:07:47.926666-04:00.accessibility.json) |
-| [July 26 at 8:11 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T20:11:20.237077-04:00.accessibility.json) |
-| [July 26 at 8:21 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T08:20:52.911639-04:00.accessibility.json) |
-| [July 25 at 8:15 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-25T20:15:35.918536-04:00.accessibility.json) |
+| [July 28 at 3:04 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-27T20:04:10.715787-04:00.accessibility.json) |
+| [July 27 at 4:07 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-27T09:07:47.926666-04:00.accessibility.json) |
+| [July 27 at 3:11 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T20:11:20.237077-04:00.accessibility.json) |
+| [July 26 at 3:21 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T08:20:52.911639-04:00.accessibility.json) |
+| [July 26 at 3:15 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-25T20:15:35.918536-04:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 5 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 3:04 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-27T20:04:10.715787-04:00.lighthouse.json) |
+| [July 27 at 4:07 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-27T09:07:47.926666-04:00.lighthouse.json) |
+| [July 27 at 3:11 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T20:11:20.237077-04:00.lighthouse.json) |
+| [July 26 at 3:21 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-26T08:20:52.911639-04:00.lighthouse.json) |
+| [July 26 at 3:15 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-07-25T20:15:35.918536-04:00.lighthouse.json) |
 
 
 

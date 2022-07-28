@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T14:25:35.739850+01:00.jpg">
-  <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T14:25:35.739850+01:00.jpg"
-     alt="Scotsman at 2022-07-27 14:25:38+01:00 local time"
+ <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-28T02:31:52.344658+01:00.jpg">
+  <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-28T02:31:52.344658+01:00.jpg"
+     alt="Scotsman at 2022-07-28 09:31:53+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T14:25:35.739850+01:00.jpg">July 27 at 2:25 PM</a></p>
+ <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-28T02:31:52.344658+01:00.jpg">July 28 at 9:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T14:25:35.739850+01:00.jpg">
+  <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T14:25:35.739850+01:00.jpg"
+     alt="Scotsman at 2022-07-27 21:25:38+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T14:25:35.739850+01:00.jpg">July 27 at 9:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T02:29:34.547927+01:00.jpg">
   <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T02:29:34.547927+01:00.jpg"
-     alt="Scotsman at 2022-07-27 02:29:35+01:00 local time"
+     alt="Scotsman at 2022-07-27 09:29:35+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T02:29:34.547927+01:00.jpg">July 27 at 2:29 AM</a></p>
+ <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T02:29:34.547927+01:00.jpg">July 27 at 9:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T14:31:15.501019+01:00.jpg">
   <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T14:31:15.501019+01:00.jpg"
-     alt="Scotsman at 2022-07-26 14:31:17+01:00 local time"
+     alt="Scotsman at 2022-07-26 21:31:17+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T14:31:15.501019+01:00.jpg">July 26 at 2:31 PM</a></p>
+ <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T14:31:15.501019+01:00.jpg">July 26 at 9:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T03:53:49.701297+01:00.jpg">
   <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T03:53:49.701297+01:00.jpg"
-     alt="Scotsman at 2022-07-26 03:53:50+01:00 local time"
+     alt="Scotsman at 2022-07-26 10:53:50+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T03:53:49.701297+01:00.jpg">July 26 at 3:53 AM</a></p>
+ <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T03:53:49.701297+01:00.jpg">July 26 at 10:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T02:36:34.045336+01:00.jpg">
   <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T02:36:34.045336+01:00.jpg"
-     alt="Scotsman at 2022-07-26 02:36:35+01:00 local time"
+     alt="Scotsman at 2022-07-26 09:36:35+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T02:36:34.045336+01:00.jpg">July 26 at 2:36 AM</a></p>
+ <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T02:36:34.045336+01:00.jpg">July 26 at 9:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T16:48:10.301022+01:00.jpg">
   <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T16:48:10.301022+01:00.jpg"
-     alt="Scotsman at 2022-07-25 16:48:12+01:00 local time"
+     alt="Scotsman at 2022-07-25 23:48:12+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T16:48:10.301022+01:00.jpg">July 25 at 4:48 PM</a></p>
+ <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T16:48:10.301022+01:00.jpg">July 25 at 11:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T05:37:15.371317+01:00.jpg">
   <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T05:37:15.371317+01:00.jpg"
-     alt="Scotsman at 2022-07-25 05:37:18+01:00 local time"
+     alt="Scotsman at 2022-07-25 12:37:18+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T05:37:15.371317+01:00.jpg">July 25 at 5:37 AM</a></p>
+ <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T05:37:15.371317+01:00.jpg">July 25 at 12:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-24T16:07:57.072995+01:00.jpg">
   <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-24T16:07:57.072995+01:00.jpg"
-     alt="Scotsman at 2022-07-24 16:07:58+01:00 local time"
+     alt="Scotsman at 2022-07-24 23:07:58+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-24T16:07:57.072995+01:00.jpg">July 24 at 4:07 PM</a></p>
+ <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-24T16:07:57.072995+01:00.jpg">July 24 at 11:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-24T04:42:54.497690+01:00.jpg">
   <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-24T04:42:54.497690+01:00.jpg"
-     alt="Scotsman at 2022-07-24 04:42:57+01:00 local time"
+     alt="Scotsman at 2022-07-24 11:42:57+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-24T04:42:54.497690+01:00.jpg">July 24 at 4:42 AM</a></p>
+ <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-24T04:42:54.497690+01:00.jpg">July 24 at 11:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-22T05:32:35.531942+01:00.jpg">
   <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-22T05:32:35.531942+01:00.jpg"
-     alt="Scotsman at 2022-07-22 05:32:37+01:00 local time"
+     alt="Scotsman at 2022-07-22 12:32:37+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-22T05:32:35.531942+01:00.jpg">July 22 at 5:32 AM</a></p>
+ <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-22T05:32:35.531942+01:00.jpg">July 22 at 12:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-21T17:55:37.941152+01:00.jpg">
   <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-21T17:55:37.941152+01:00.jpg"
-     alt="Scotsman at 2022-07-21 17:55:41+01:00 local time"
+     alt="Scotsman at 2022-07-22 00:55:41+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-21T17:55:37.941152+01:00.jpg">July 21 at 5:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-21T05:30:05.234676+01:00.jpg">
-  <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-21T05:30:05.234676+01:00.jpg"
-     alt="Scotsman at 2022-07-21 05:30:07+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-21T05:30:05.234676+01:00.jpg">July 21 at 5:30 AM</a></p>
+ <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-21T17:55:37.941152+01:00.jpg">July 22 at 12:55 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 37 hyperlink lists with the Internet Archive.
+The archiving routine has saved 38 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 2:25 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T14:25:35.739850+01:00.hyperlinks.json) |
-| [July 27 at 2:29 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T02:29:34.547927+01:00.hyperlinks.json) |
-| [July 26 at 2:31 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T14:31:15.501019+01:00.hyperlinks.json) |
-| [July 26 at 3:53 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T03:53:49.701297+01:00.hyperlinks.json) |
-| [July 26 at 2:36 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T02:36:34.045336+01:00.hyperlinks.json) |
-| [July 25 at 4:48 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T16:48:10.301022+01:00.hyperlinks.json) |
-| [July 25 at 5:37 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T05:37:15.371317+01:00.hyperlinks.json) |
-| [July 24 at 4:08 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-24T16:07:57.072995+01:00.hyperlinks.json) |
-| [July 24 at 4:42 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-24T04:42:54.497690+01:00.hyperlinks.json) |
-| [July 23 at 5:06 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-23T17:06:29.982715+01:00.hyperlinks.json) |
+| [July 28 at 9:31 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-28T02:31:52.344658+01:00.hyperlinks.json) |
+| [July 27 at 9:25 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T14:25:35.739850+01:00.hyperlinks.json) |
+| [July 27 at 9:29 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T02:29:34.547927+01:00.hyperlinks.json) |
+| [July 26 at 9:31 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T14:31:15.501019+01:00.hyperlinks.json) |
+| [July 26 at 10:53 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T03:53:49.701297+01:00.hyperlinks.json) |
+| [July 26 at 9:36 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T02:36:34.045336+01:00.hyperlinks.json) |
+| [July 25 at 11:48 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T16:48:10.301022+01:00.hyperlinks.json) |
+| [July 25 at 12:37 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T05:37:15.371317+01:00.hyperlinks.json) |
+| [July 24 at 11:08 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-24T16:07:57.072995+01:00.hyperlinks.json) |
+| [July 24 at 11:42 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-24T04:42:54.497690+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 36 accessibility trees with the Internet Archive.
+The archiving routine has saved 37 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,16 +419,39 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 2:25 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T14:25:35.739850+01:00.accessibility.json) |
-| [July 27 at 2:29 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T02:29:34.547927+01:00.accessibility.json) |
-| [July 26 at 2:31 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T14:31:15.501019+01:00.accessibility.json) |
-| [July 26 at 3:53 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T03:53:49.701297+01:00.accessibility.json) |
-| [July 26 at 2:36 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T02:36:34.045336+01:00.accessibility.json) |
-| [July 25 at 4:48 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T16:48:10.301022+01:00.accessibility.json) |
-| [July 24 at 4:08 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-24T16:07:57.072995+01:00.accessibility.json) |
-| [July 23 at 5:06 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-23T17:06:29.982715+01:00.accessibility.json) |
-| [July 23 at 5:25 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-23T05:25:48.835944+01:00.accessibility.json) |
-| [July 22 at 5:19 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-22T17:19:00.680523+01:00.accessibility.json) |
+| [July 28 at 9:31 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-28T02:31:52.344658+01:00.accessibility.json) |
+| [July 27 at 9:25 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T14:25:35.739850+01:00.accessibility.json) |
+| [July 27 at 9:29 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T02:29:34.547927+01:00.accessibility.json) |
+| [July 26 at 9:31 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T14:31:15.501019+01:00.accessibility.json) |
+| [July 26 at 10:53 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T03:53:49.701297+01:00.accessibility.json) |
+| [July 26 at 9:36 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T02:36:34.045336+01:00.accessibility.json) |
+| [July 25 at 11:48 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T16:48:10.301022+01:00.accessibility.json) |
+| [July 24 at 11:08 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-24T16:07:57.072995+01:00.accessibility.json) |
+| [July 24 at 12:06 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-23T17:06:29.982715+01:00.accessibility.json) |
+| [July 23 at 12:25 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-23T05:25:48.835944+01:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 9:31 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-28T02:31:52.344658+01:00.lighthouse.json) |
+| [July 27 at 9:25 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T14:25:35.739850+01:00.lighthouse.json) |
+| [July 27 at 9:29 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T02:29:34.547927+01:00.lighthouse.json) |
+| [July 26 at 9:31 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T14:31:15.501019+01:00.lighthouse.json) |
+| [July 26 at 10:54 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T03:53:49.701297+01:00.lighthouse.json) |
+| [July 26 at 9:36 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T02:36:34.045336+01:00.lighthouse.json) |
+| [July 25 at 11:48 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T16:48:10.301022+01:00.lighthouse.json) |
+| [July 25 at 12:37 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T05:37:15.371317+01:00.lighthouse.json) |
+| [July 24 at 11:08 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-24T16:07:57.072995+01:00.lighthouse.json) |
+| [July 24 at 11:43 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-24T04:42:54.497690+01:00.lighthouse.json) |
 
 
 

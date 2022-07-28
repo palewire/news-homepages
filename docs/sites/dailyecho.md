@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,135 +112,218 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.jpg">
-  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.jpg"
-     alt="Daily Echo at 2022-07-27 14:20:41+01:00 local time"
+ <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T02:29:13.243026+01:00.jpg">
+  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T02:29:13.243026+01:00.jpg"
+     alt="Daily Echo at 2022-07-28 09:29:14+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.jpg">July 27 at 2:20 PM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T02:29:13.243026+01:00.jpg">July 28 at 9:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.jpg">
+  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.jpg"
+     alt="Daily Echo at 2022-07-27 21:20:41+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.jpg">July 27 at 9:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T02:26:51.055514+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T02:26:51.055514+01:00.jpg"
-     alt="Daily Echo at 2022-07-27 02:26:52+01:00 local time"
+     alt="Daily Echo at 2022-07-27 09:26:52+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T02:26:51.055514+01:00.jpg">July 27 at 2:26 AM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T02:26:51.055514+01:00.jpg">July 27 at 9:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.jpg"
-     alt="Daily Echo at 2022-07-26 15:32:46+01:00 local time"
+     alt="Daily Echo at 2022-07-26 22:32:46+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.jpg">July 26 at 3:32 PM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.jpg">July 26 at 10:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T03:40:45.095418+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T03:40:45.095418+01:00.jpg"
-     alt="Daily Echo at 2022-07-26 03:40:47+01:00 local time"
+     alt="Daily Echo at 2022-07-26 10:40:47+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T03:40:45.095418+01:00.jpg">July 26 at 3:40 AM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T03:40:45.095418+01:00.jpg">July 26 at 10:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.jpg"
-     alt="Daily Echo at 2022-07-25 12:58:31+01:00 local time"
+     alt="Daily Echo at 2022-07-25 19:58:31+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.jpg">July 25 at 12:58 PM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.jpg">July 25 at 7:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.jpg"
-     alt="Daily Echo at 2022-07-25 01:59:11+01:00 local time"
+     alt="Daily Echo at 2022-07-25 08:59:11+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.jpg">July 25 at 1:59 AM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.jpg">July 25 at 8:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.jpg"
-     alt="Daily Echo at 2022-07-24 12:56:10+01:00 local time"
+     alt="Daily Echo at 2022-07-24 19:56:10+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.jpg">July 24 at 12:56 PM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.jpg">July 24 at 7:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T07:25:42.553229+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T07:25:42.553229+01:00.jpg"
-     alt="Daily Echo at 2022-07-24 07:25:44+01:00 local time"
+     alt="Daily Echo at 2022-07-24 14:25:44+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T07:25:42.553229+01:00.jpg">July 24 at 7:25 AM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T07:25:42.553229+01:00.jpg">July 24 at 2:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T14:02:11.906283+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T14:02:11.906283+01:00.jpg"
-     alt="Daily Echo at 2022-07-23 14:02:13+01:00 local time"
+     alt="Daily Echo at 2022-07-23 21:02:13+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T14:02:11.906283+01:00.jpg">July 23 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T14:02:11.906283+01:00.jpg">July 23 at 9:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T02:03:07.669823+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T02:03:07.669823+01:00.jpg"
-     alt="Daily Echo at 2022-07-23 02:03:09+01:00 local time"
+     alt="Daily Echo at 2022-07-23 09:03:09+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T02:03:07.669823+01:00.jpg">July 23 at 2:03 AM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T02:03:07.669823+01:00.jpg">July 23 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-22T14:03:03.004184+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-22T14:03:03.004184+01:00.jpg"
-     alt="Daily Echo at 2022-07-22 14:03:04+01:00 local time"
+     alt="Daily Echo at 2022-07-22 21:03:04+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-22T14:03:03.004184+01:00.jpg">July 22 at 2:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-22T02:11:19.135542+01:00.jpg">
-  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-22T02:11:19.135542+01:00.jpg"
-     alt="Daily Echo at 2022-07-22 02:11:20+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-22T02:11:19.135542+01:00.jpg">July 22 at 2:11 AM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-22T14:03:03.004184+01:00.jpg">July 22 at 9:03 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/dailyecho.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 2:20 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.hyperlinks.json) |
-| [July 27 at 2:26 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T02:26:51.055514+01:00.hyperlinks.json) |
-| [July 26 at 3:32 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.hyperlinks.json) |
-| [July 25 at 12:58 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.hyperlinks.json) |
-| [July 25 at 1:59 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.hyperlinks.json) |
-| [July 24 at 12:56 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.hyperlinks.json) |
-| [July 24 at 7:25 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T07:25:42.553229+01:00.hyperlinks.json) |
-| [July 23 at 2:02 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T14:02:11.906283+01:00.hyperlinks.json) |
-| [July 23 at 2:03 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T02:03:07.669823+01:00.hyperlinks.json) |
-| [July 22 at 2:11 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-22T02:11:19.135542+01:00.hyperlinks.json) |
+| [July 28 at 9:29 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T02:29:13.243026+01:00.hyperlinks.json) |
+| [July 27 at 9:20 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.hyperlinks.json) |
+| [July 27 at 9:26 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T02:26:51.055514+01:00.hyperlinks.json) |
+| [July 26 at 10:32 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.hyperlinks.json) |
+| [July 25 at 7:58 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.hyperlinks.json) |
+| [July 25 at 8:59 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.hyperlinks.json) |
+| [July 24 at 7:56 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.hyperlinks.json) |
+| [July 24 at 2:25 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T07:25:42.553229+01:00.hyperlinks.json) |
+| [July 23 at 9:02 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T14:02:11.906283+01:00.hyperlinks.json) |
+| [July 23 at 9:03 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T02:03:07.669823+01:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -248,21 +331,126 @@ Here are the 10 most recent hyperlink lists.
 The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
 
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/dailyecho.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
+
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 2:20 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.accessibility.json) |
-| [July 27 at 2:26 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T02:26:51.055514+01:00.accessibility.json) |
-| [July 26 at 3:32 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.accessibility.json) |
-| [July 26 at 3:40 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T03:40:45.095418+01:00.accessibility.json) |
-| [July 25 at 12:58 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.accessibility.json) |
-| [July 25 at 1:59 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.accessibility.json) |
-| [July 24 at 12:56 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.accessibility.json) |
-| [July 24 at 7:25 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T07:25:42.553229+01:00.accessibility.json) |
-| [July 23 at 2:02 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T14:02:11.906283+01:00.accessibility.json) |
-| [July 23 at 2:03 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T02:03:07.669823+01:00.accessibility.json) |
+| [July 27 at 9:20 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.accessibility.json) |
+| [July 27 at 9:26 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T02:26:51.055514+01:00.accessibility.json) |
+| [July 26 at 10:32 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.accessibility.json) |
+| [July 26 at 10:40 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T03:40:45.095418+01:00.accessibility.json) |
+| [July 25 at 7:58 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.accessibility.json) |
+| [July 25 at 8:59 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.accessibility.json) |
+| [July 24 at 7:56 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.accessibility.json) |
+| [July 24 at 2:25 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T07:25:42.553229+01:00.accessibility.json) |
+| [July 23 at 9:02 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T14:02:11.906283+01:00.accessibility.json) |
+| [July 23 at 9:03 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T02:03:07.669823+01:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 9:29 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T02:29:13.243026+01:00.lighthouse.json) |
+| [July 27 at 9:20 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.lighthouse.json) |
+| [July 27 at 9:26 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T02:26:51.055514+01:00.lighthouse.json) |
+| [July 26 at 10:32 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.lighthouse.json) |
+| [July 26 at 10:40 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T03:40:45.095418+01:00.lighthouse.json) |
+| [July 25 at 7:58 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.lighthouse.json) |
+| [July 25 at 8:59 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.lighthouse.json) |
+| [July 24 at 7:56 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.lighthouse.json) |
+| [July 24 at 2:25 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T07:25:42.553229+01:00.lighthouse.json) |
 
 
 

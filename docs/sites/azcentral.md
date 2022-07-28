@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 49 screenshots with the Internet Archive.
+The archiving routine has saved 50 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-27T06:17:09.975176-07:00.jpg">
-  <img src="https://archive.org/download/azcentral-2022/azcentral-2022-07-27T06:17:09.975176-07:00.jpg"
-     alt="Arizona Republic at 2022-07-27 06:17:13-07:00 local time"
+ <a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-27T18:25:29.377441-07:00.jpg">
+  <img src="https://archive.org/download/azcentral-2022/azcentral-2022-07-27T18:25:29.377441-07:00.jpg"
+     alt="Arizona Republic at 2022-07-28 01:25:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-27T06:17:09.975176-07:00.jpg">July 27 at 6:17 AM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-27T18:25:29.377441-07:00.jpg">July 28 at 1:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-27T06:17:09.975176-07:00.jpg">
+  <img src="https://archive.org/download/azcentral-2022/azcentral-2022-07-27T06:17:09.975176-07:00.jpg"
+     alt="Arizona Republic at 2022-07-27 13:17:13-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-27T06:17:09.975176-07:00.jpg">July 27 at 1:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-26T18:23:33.143661-07:00.jpg">
   <img src="https://archive.org/download/azcentral-2022/azcentral-2022-07-26T18:23:33.143661-07:00.jpg"
-     alt="Arizona Republic at 2022-07-26 18:23:37-07:00 local time"
+     alt="Arizona Republic at 2022-07-27 01:23:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-26T18:23:33.143661-07:00.jpg">July 26 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-26T18:23:33.143661-07:00.jpg">July 27 at 1:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-26T06:25:41.176292-07:00.jpg">
   <img src="https://archive.org/download/azcentral-2022/azcentral-2022-07-26T06:25:41.176292-07:00.jpg"
-     alt="Arizona Republic at 2022-07-26 06:25:42-07:00 local time"
+     alt="Arizona Republic at 2022-07-26 13:25:42-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-26T06:25:41.176292-07:00.jpg">July 26 at 6:25 AM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-26T06:25:41.176292-07:00.jpg">July 26 at 1:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-25T19:56:35.195078-07:00.jpg">
   <img src="https://archive.org/download/azcentral-2022/azcentral-2022-07-25T19:56:35.195078-07:00.jpg"
-     alt="Arizona Republic at 2022-07-25 19:56:38-07:00 local time"
+     alt="Arizona Republic at 2022-07-26 02:56:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-25T19:56:35.195078-07:00.jpg">July 25 at 7:56 PM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-25T19:56:35.195078-07:00.jpg">July 26 at 2:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-25T18:29:51.183380-07:00.jpg">
   <img src="https://archive.org/download/azcentral-2022/azcentral-2022-07-25T18:29:51.183380-07:00.jpg"
-     alt="Arizona Republic at 2022-07-25 18:29:54-07:00 local time"
+     alt="Arizona Republic at 2022-07-26 01:29:54-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-25T18:29:51.183380-07:00.jpg">July 25 at 6:29 PM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-25T18:29:51.183380-07:00.jpg">July 26 at 1:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-25T03:58:17.563266-07:00.jpg">
   <img src="https://archive.org/download/azcentral-2022/azcentral-2022-07-25T03:58:17.563266-07:00.jpg"
-     alt="Arizona Republic at 2022-07-25 03:58:20-07:00 local time"
+     alt="Arizona Republic at 2022-07-25 10:58:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-25T03:58:17.563266-07:00.jpg">July 25 at 3:58 AM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-25T03:58:17.563266-07:00.jpg">July 25 at 10:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-24T17:48:44.721522-07:00.jpg">
   <img src="https://archive.org/download/azcentral-2022/azcentral-2022-07-24T17:48:44.721522-07:00.jpg"
-     alt="Arizona Republic at 2022-07-24 17:48:47-07:00 local time"
+     alt="Arizona Republic at 2022-07-25 00:48:47-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-24T17:48:44.721522-07:00.jpg">July 24 at 5:48 PM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-24T17:48:44.721522-07:00.jpg">July 25 at 12:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-24T03:57:04.544721-07:00.jpg">
   <img src="https://archive.org/download/azcentral-2022/azcentral-2022-07-24T03:57:04.544721-07:00.jpg"
-     alt="Arizona Republic at 2022-07-24 03:57:07-07:00 local time"
+     alt="Arizona Republic at 2022-07-24 10:57:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-24T03:57:04.544721-07:00.jpg">July 24 at 3:57 AM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-24T03:57:04.544721-07:00.jpg">July 24 at 10:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-23T15:59:12.428779-07:00.jpg">
   <img src="https://archive.org/download/azcentral-2022/azcentral-2022-07-23T15:59:12.428779-07:00.jpg"
-     alt="Arizona Republic at 2022-07-23 15:59:14-07:00 local time"
+     alt="Arizona Republic at 2022-07-23 22:59:14-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-23T15:59:12.428779-07:00.jpg">July 23 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-23T15:59:12.428779-07:00.jpg">July 23 at 10:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-23T05:56:01.702089-07:00.jpg">
   <img src="https://archive.org/download/azcentral-2022/azcentral-2022-07-23T05:56:01.702089-07:00.jpg"
-     alt="Arizona Republic at 2022-07-23 05:56:03-07:00 local time"
+     alt="Arizona Republic at 2022-07-23 12:56:03-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-23T05:56:01.702089-07:00.jpg">July 23 at 5:56 AM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-23T05:56:01.702089-07:00.jpg">July 23 at 12:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-22T17:57:22.095638-07:00.jpg">
   <img src="https://archive.org/download/azcentral-2022/azcentral-2022-07-22T17:57:22.095638-07:00.jpg"
-     alt="Arizona Republic at 2022-07-22 17:57:23-07:00 local time"
+     alt="Arizona Republic at 2022-07-23 00:57:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-22T17:57:22.095638-07:00.jpg">July 22 at 5:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-22T05:56:19.514768-07:00.jpg">
-  <img src="https://archive.org/download/azcentral-2022/azcentral-2022-07-22T05:56:19.514768-07:00.jpg"
-     alt="Arizona Republic at 2022-07-22 05:56:20-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-22T05:56:19.514768-07:00.jpg">July 22 at 5:56 AM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-22T17:57:22.095638-07:00.jpg">July 23 at 12:57 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 48 hyperlink lists with the Internet Archive.
+The archiving routine has saved 49 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 6:17 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-27T06:17:09.975176-07:00.hyperlinks.json) |
-| [July 26 at 6:23 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-26T18:23:33.143661-07:00.hyperlinks.json) |
-| [July 26 at 6:25 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-26T06:25:41.176292-07:00.hyperlinks.json) |
-| [July 25 at 7:56 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-25T19:56:35.195078-07:00.hyperlinks.json) |
-| [July 25 at 6:29 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-25T18:29:51.183380-07:00.hyperlinks.json) |
-| [July 24 at 5:48 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-24T17:48:44.721522-07:00.hyperlinks.json) |
-| [July 24 at 3:57 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-24T03:57:04.544721-07:00.hyperlinks.json) |
-| [July 23 at 3:59 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-23T15:59:12.428779-07:00.hyperlinks.json) |
-| [July 23 at 5:56 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-23T05:56:01.702089-07:00.hyperlinks.json) |
-| [July 22 at 5:57 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-22T17:57:22.095638-07:00.hyperlinks.json) |
+| [July 28 at 1:25 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-27T18:25:29.377441-07:00.hyperlinks.json) |
+| [July 27 at 1:17 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-27T06:17:09.975176-07:00.hyperlinks.json) |
+| [July 27 at 1:23 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-26T18:23:33.143661-07:00.hyperlinks.json) |
+| [July 26 at 1:25 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-26T06:25:41.176292-07:00.hyperlinks.json) |
+| [July 26 at 2:56 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-25T19:56:35.195078-07:00.hyperlinks.json) |
+| [July 26 at 1:29 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-25T18:29:51.183380-07:00.hyperlinks.json) |
+| [July 25 at 12:48 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-24T17:48:44.721522-07:00.hyperlinks.json) |
+| [July 24 at 10:57 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-24T03:57:04.544721-07:00.hyperlinks.json) |
+| [July 23 at 10:59 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-23T15:59:12.428779-07:00.hyperlinks.json) |
+| [July 23 at 12:56 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-23T05:56:01.702089-07:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,39 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 6:17 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-27T06:17:09.975176-07:00.accessibility.json) |
-| [July 26 at 6:23 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-26T18:23:33.143661-07:00.accessibility.json) |
-| [July 26 at 6:25 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-26T06:25:41.176292-07:00.accessibility.json) |
-| [July 25 at 7:56 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-25T19:56:35.195078-07:00.accessibility.json) |
-| [July 25 at 6:29 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-25T18:29:51.183380-07:00.accessibility.json) |
-| [July 25 at 3:58 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-25T03:58:17.563266-07:00.accessibility.json) |
-| [July 24 at 5:48 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-24T17:48:44.721522-07:00.accessibility.json) |
-| [July 24 at 3:57 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-24T03:57:04.544721-07:00.accessibility.json) |
-| [July 23 at 3:59 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-23T15:59:12.428779-07:00.accessibility.json) |
-| [July 23 at 5:56 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-23T05:56:01.702089-07:00.accessibility.json) |
+| [July 27 at 1:17 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-27T06:17:09.975176-07:00.accessibility.json) |
+| [July 27 at 1:23 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-26T18:23:33.143661-07:00.accessibility.json) |
+| [July 26 at 1:25 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-26T06:25:41.176292-07:00.accessibility.json) |
+| [July 26 at 2:56 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-25T19:56:35.195078-07:00.accessibility.json) |
+| [July 26 at 1:29 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-25T18:29:51.183380-07:00.accessibility.json) |
+| [July 25 at 10:58 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-25T03:58:17.563266-07:00.accessibility.json) |
+| [July 25 at 12:48 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-24T17:48:44.721522-07:00.accessibility.json) |
+| [July 24 at 10:57 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-24T03:57:04.544721-07:00.accessibility.json) |
+| [July 23 at 10:59 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-23T15:59:12.428779-07:00.accessibility.json) |
+| [July 23 at 12:56 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-23T05:56:01.702089-07:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 1:25 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-27T18:25:29.377441-07:00.lighthouse.json) |
+| [July 27 at 1:17 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-27T06:17:09.975176-07:00.lighthouse.json) |
+| [July 27 at 1:23 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-26T18:23:33.143661-07:00.lighthouse.json) |
+| [July 26 at 1:25 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-26T06:25:41.176292-07:00.lighthouse.json) |
+| [July 26 at 2:56 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-25T19:56:35.195078-07:00.lighthouse.json) |
+| [July 26 at 1:29 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-25T18:29:51.183380-07:00.lighthouse.json) |
+| [July 25 at 10:58 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-25T03:58:17.563266-07:00.lighthouse.json) |
+| [July 25 at 12:48 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-24T17:48:44.721522-07:00.lighthouse.json) |
+| [July 24 at 10:57 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-24T03:57:04.544721-07:00.lighthouse.json) |
+| [July 23 at 10:59 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-23T15:59:12.428779-07:00.lighthouse.json) |
 
 
 

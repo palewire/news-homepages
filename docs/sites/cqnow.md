@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 49 screenshots with the Internet Archive.
+The archiving routine has saved 50 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-27T19:05:29.461740-04:00.jpg">
-  <img src="https://archive.org/download/cqnow-2022/cqnow-2022-07-27T19:05:29.461740-04:00.jpg"
-     alt="CQ at 2022-07-27 19:05:31-04:00 local time"
+ <a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-28T07:09:02.685337-04:00.jpg">
+  <img src="https://archive.org/download/cqnow-2022/cqnow-2022-07-28T07:09:02.685337-04:00.jpg"
+     alt="CQ at 2022-07-28 14:09:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-27T19:05:29.461740-04:00.jpg">July 27 at 7:05 PM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-28T07:09:02.685337-04:00.jpg">July 28 at 2:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-27T19:05:29.461740-04:00.jpg">
+  <img src="https://archive.org/download/cqnow-2022/cqnow-2022-07-27T19:05:29.461740-04:00.jpg"
+     alt="CQ at 2022-07-28 02:05:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-27T19:05:29.461740-04:00.jpg">July 28 at 2:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-27T07:05:23.121796-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-07-27T07:05:23.121796-04:00.jpg"
-     alt="CQ at 2022-07-27 07:05:26-04:00 local time"
+     alt="CQ at 2022-07-27 14:05:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-27T07:05:23.121796-04:00.jpg">July 27 at 7:05 AM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-27T07:05:23.121796-04:00.jpg">July 27 at 2:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-26T19:07:28.014869-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-07-26T19:07:28.014869-04:00.jpg"
-     alt="CQ at 2022-07-26 19:07:30-04:00 local time"
+     alt="CQ at 2022-07-27 02:07:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-26T19:07:28.014869-04:00.jpg">July 26 at 7:07 PM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-26T19:07:28.014869-04:00.jpg">July 27 at 2:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-26T07:15:40.614326-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-07-26T07:15:40.614326-04:00.jpg"
-     alt="CQ at 2022-07-26 07:15:42-04:00 local time"
+     alt="CQ at 2022-07-26 14:15:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-26T07:15:40.614326-04:00.jpg">July 26 at 7:15 AM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-26T07:15:40.614326-04:00.jpg">July 26 at 2:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-25T19:11:18.868797-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-07-25T19:11:18.868797-04:00.jpg"
-     alt="CQ at 2022-07-25 19:11:21-04:00 local time"
+     alt="CQ at 2022-07-26 02:11:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-25T19:11:18.868797-04:00.jpg">July 25 at 7:11 PM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-25T19:11:18.868797-04:00.jpg">July 26 at 2:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-25T07:04:29.118281-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-07-25T07:04:29.118281-04:00.jpg"
-     alt="CQ at 2022-07-25 07:04:31-04:00 local time"
+     alt="CQ at 2022-07-25 14:04:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-25T07:04:29.118281-04:00.jpg">July 25 at 7:04 AM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-25T07:04:29.118281-04:00.jpg">July 25 at 2:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-24T20:56:56.308242-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-07-24T20:56:56.308242-04:00.jpg"
-     alt="CQ at 2022-07-24 20:57:00-04:00 local time"
+     alt="CQ at 2022-07-25 03:57:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-24T20:56:56.308242-04:00.jpg">July 24 at 8:57 PM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-24T20:56:56.308242-04:00.jpg">July 25 at 3:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-24T07:56:17.203313-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-07-24T07:56:17.203313-04:00.jpg"
-     alt="CQ at 2022-07-24 07:56:19-04:00 local time"
+     alt="CQ at 2022-07-24 14:56:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-24T07:56:17.203313-04:00.jpg">July 24 at 7:56 AM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-24T07:56:17.203313-04:00.jpg">July 24 at 2:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-24T02:26:17.180000-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-07-24T02:26:17.180000-04:00.jpg"
-     alt="CQ at 2022-07-24 02:26:19-04:00 local time"
+     alt="CQ at 2022-07-24 09:26:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-24T02:26:17.180000-04:00.jpg">July 24 at 2:26 AM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-24T02:26:17.180000-04:00.jpg">July 24 at 9:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-23T09:02:21.437340-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-07-23T09:02:21.437340-04:00.jpg"
-     alt="CQ at 2022-07-23 09:02:23-04:00 local time"
+     alt="CQ at 2022-07-23 16:02:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-23T09:02:21.437340-04:00.jpg">July 23 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-23T09:02:21.437340-04:00.jpg">July 23 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-22T21:03:01.368656-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-07-22T21:03:01.368656-04:00.jpg"
-     alt="CQ at 2022-07-22 21:03:03-04:00 local time"
+     alt="CQ at 2022-07-23 04:03:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-22T21:03:01.368656-04:00.jpg">July 22 at 9:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-22T09:02:16.892667-04:00.jpg">
-  <img src="https://archive.org/download/cqnow-2022/cqnow-2022-07-22T09:02:16.892667-04:00.jpg"
-     alt="CQ at 2022-07-22 09:02:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-22T09:02:16.892667-04:00.jpg">July 22 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-22T21:03:01.368656-04:00.jpg">July 23 at 4:03 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 49 hyperlink lists with the Internet Archive.
+The archiving routine has saved 50 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 7:05 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-27T19:05:29.461740-04:00.hyperlinks.json) |
-| [July 27 at 7:05 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-27T07:05:23.121796-04:00.hyperlinks.json) |
-| [July 26 at 7:07 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-26T19:07:28.014869-04:00.hyperlinks.json) |
-| [July 26 at 7:15 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-26T07:15:40.614326-04:00.hyperlinks.json) |
-| [July 25 at 7:11 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-25T19:11:18.868797-04:00.hyperlinks.json) |
-| [July 25 at 7:04 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-25T07:04:29.118281-04:00.hyperlinks.json) |
-| [July 24 at 8:57 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-24T20:56:56.308242-04:00.hyperlinks.json) |
-| [July 24 at 7:56 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-24T07:56:17.203313-04:00.hyperlinks.json) |
-| [July 24 at 2:26 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-24T02:26:17.180000-04:00.hyperlinks.json) |
-| [July 23 at 9:02 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-23T09:02:21.437340-04:00.hyperlinks.json) |
+| [July 28 at 2:09 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-28T07:09:02.685337-04:00.hyperlinks.json) |
+| [July 28 at 2:05 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-27T19:05:29.461740-04:00.hyperlinks.json) |
+| [July 27 at 2:05 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-27T07:05:23.121796-04:00.hyperlinks.json) |
+| [July 27 at 2:07 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-26T19:07:28.014869-04:00.hyperlinks.json) |
+| [July 26 at 2:15 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-26T07:15:40.614326-04:00.hyperlinks.json) |
+| [July 26 at 2:11 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-25T19:11:18.868797-04:00.hyperlinks.json) |
+| [July 25 at 2:04 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-25T07:04:29.118281-04:00.hyperlinks.json) |
+| [July 25 at 3:57 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-24T20:56:56.308242-04:00.hyperlinks.json) |
+| [July 24 at 2:56 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-24T07:56:17.203313-04:00.hyperlinks.json) |
+| [July 24 at 9:26 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-24T02:26:17.180000-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 49 accessibility trees with the Internet Archive.
+The archiving routine has saved 50 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,16 +419,39 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 7:05 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-27T19:05:29.461740-04:00.accessibility.json) |
-| [July 27 at 7:05 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-27T07:05:23.121796-04:00.accessibility.json) |
-| [July 26 at 7:07 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-26T19:07:28.014869-04:00.accessibility.json) |
-| [July 26 at 7:15 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-26T07:15:40.614326-04:00.accessibility.json) |
-| [July 25 at 7:11 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-25T19:11:18.868797-04:00.accessibility.json) |
-| [July 25 at 7:04 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-25T07:04:29.118281-04:00.accessibility.json) |
-| [July 24 at 8:57 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-24T20:56:56.308242-04:00.accessibility.json) |
-| [July 24 at 7:56 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-24T07:56:17.203313-04:00.accessibility.json) |
-| [July 24 at 2:26 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-24T02:26:17.180000-04:00.accessibility.json) |
-| [July 23 at 9:02 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-23T09:02:21.437340-04:00.accessibility.json) |
+| [July 28 at 2:09 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-28T07:09:02.685337-04:00.accessibility.json) |
+| [July 28 at 2:05 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-27T19:05:29.461740-04:00.accessibility.json) |
+| [July 27 at 2:05 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-27T07:05:23.121796-04:00.accessibility.json) |
+| [July 27 at 2:07 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-26T19:07:28.014869-04:00.accessibility.json) |
+| [July 26 at 2:15 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-26T07:15:40.614326-04:00.accessibility.json) |
+| [July 26 at 2:11 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-25T19:11:18.868797-04:00.accessibility.json) |
+| [July 25 at 2:04 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-25T07:04:29.118281-04:00.accessibility.json) |
+| [July 25 at 3:57 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-24T20:56:56.308242-04:00.accessibility.json) |
+| [July 24 at 2:56 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-24T07:56:17.203313-04:00.accessibility.json) |
+| [July 24 at 9:26 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-24T02:26:17.180000-04:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 2:09 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-28T07:09:02.685337-04:00.lighthouse.json) |
+| [July 28 at 2:05 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-27T19:05:29.461740-04:00.lighthouse.json) |
+| [July 27 at 2:05 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-27T07:05:23.121796-04:00.lighthouse.json) |
+| [July 27 at 2:07 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-26T19:07:28.014869-04:00.lighthouse.json) |
+| [July 26 at 2:15 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-26T07:15:40.614326-04:00.lighthouse.json) |
+| [July 26 at 2:11 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-25T19:11:18.868797-04:00.lighthouse.json) |
+| [July 25 at 2:04 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-25T07:04:29.118281-04:00.lighthouse.json) |
+| [July 25 at 3:57 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-24T20:56:56.308242-04:00.lighthouse.json) |
+| [July 24 at 2:56 PM](https://archive.org/download/cqnow-2022/cqnow-2022-07-24T07:56:17.203313-04:00.lighthouse.json) |
+| [July 24 at 9:26 AM](https://archive.org/download/cqnow-2022/cqnow-2022-07-24T02:26:17.180000-04:00.lighthouse.json) |
 
 
 

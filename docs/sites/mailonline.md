@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 102 screenshots with the Internet Archive.
+The archiving routine has saved 103 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-28T01:06:31.233243+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-28T01:06:31.233243+01:00.jpg"
-     alt="Daily Mail at 2022-07-28 01:06:36+01:00 local time"
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-28T10:11:19.062551+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-28T10:11:19.062551+01:00.jpg"
+     alt="Daily Mail at 2022-07-28 17:11:20+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-28T01:06:31.233243+01:00.jpg">July 28 at 1:06 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-28T10:11:19.062551+01:00.jpg">July 28 at 5:11 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-28T01:06:31.233243+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-28T01:06:31.233243+01:00.jpg"
+     alt="Daily Mail at 2022-07-28 08:06:36+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-28T01:06:31.233243+01:00.jpg">July 28 at 8:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T14:09:47.944461+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T14:09:47.944461+01:00.jpg"
-     alt="Daily Mail at 2022-07-27 14:09:54+01:00 local time"
+     alt="Daily Mail at 2022-07-27 21:09:54+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T14:09:47.944461+01:00.jpg">July 27 at 2:09 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T14:09:47.944461+01:00.jpg">July 27 at 9:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T10:09:02.441464+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T10:09:02.441464+01:00.jpg"
-     alt="Daily Mail at 2022-07-27 10:09:11+01:00 local time"
+     alt="Daily Mail at 2022-07-27 17:09:11+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T10:09:02.441464+01:00.jpg">July 27 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T10:09:02.441464+01:00.jpg">July 27 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T01:14:06.053651+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T01:14:06.053651+01:00.jpg"
-     alt="Daily Mail at 2022-07-27 01:14:09+01:00 local time"
+     alt="Daily Mail at 2022-07-27 08:14:09+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T01:14:06.053651+01:00.jpg">July 27 at 1:14 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T01:14:06.053651+01:00.jpg">July 27 at 8:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-26T13:24:10.003573+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-26T13:24:10.003573+01:00.jpg"
-     alt="Daily Mail at 2022-07-26 13:24:11+01:00 local time"
+     alt="Daily Mail at 2022-07-26 20:24:11+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-26T13:24:10.003573+01:00.jpg">July 26 at 1:24 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-26T13:24:10.003573+01:00.jpg">July 26 at 8:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-26T01:18:49.029532+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-26T01:18:49.029532+01:00.jpg"
-     alt="Daily Mail at 2022-07-26 01:18:55+01:00 local time"
+     alt="Daily Mail at 2022-07-26 08:18:55+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-26T01:18:49.029532+01:00.jpg">July 26 at 1:18 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-26T01:18:49.029532+01:00.jpg">July 26 at 8:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T14:13:49.143145+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T14:13:49.143145+01:00.jpg"
-     alt="Daily Mail at 2022-07-25 14:13:55+01:00 local time"
+     alt="Daily Mail at 2022-07-25 21:13:55+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T14:13:49.143145+01:00.jpg">July 25 at 2:13 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T14:13:49.143145+01:00.jpg">July 25 at 9:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T10:09:33.485321+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T10:09:33.485321+01:00.jpg"
-     alt="Daily Mail at 2022-07-25 10:09:40+01:00 local time"
+     alt="Daily Mail at 2022-07-25 17:09:40+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T10:09:33.485321+01:00.jpg">July 25 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T10:09:33.485321+01:00.jpg">July 25 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T04:30:38.423888+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T04:30:38.423888+01:00.jpg"
-     alt="Daily Mail at 2022-07-25 04:30:43+01:00 local time"
+     alt="Daily Mail at 2022-07-25 11:30:43+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T04:30:38.423888+01:00.jpg">July 25 at 4:30 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T04:30:38.423888+01:00.jpg">July 25 at 11:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T14:02:32.403340+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T14:02:32.403340+01:00.jpg"
-     alt="Daily Mail at 2022-07-24 14:02:38+01:00 local time"
+     alt="Daily Mail at 2022-07-24 21:02:38+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T14:02:32.403340+01:00.jpg">July 24 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T14:02:32.403340+01:00.jpg">July 24 at 9:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T10:10:07.901329+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T10:10:07.901329+01:00.jpg"
-     alt="Daily Mail at 2022-07-24 10:10:14+01:00 local time"
+     alt="Daily Mail at 2022-07-24 17:10:14+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T10:10:07.901329+01:00.jpg">July 24 at 10:10 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T05:17:38.355076+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T05:17:38.355076+01:00.jpg"
-     alt="Daily Mail at 2022-07-24 05:17:40+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T05:17:38.355076+01:00.jpg">July 24 at 5:17 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T10:10:07.901329+01:00.jpg">July 24 at 5:10 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 85 hyperlink lists with the Internet Archive.
+The archiving routine has saved 86 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 1:06 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-28T01:06:31.233243+01:00.hyperlinks.json) |
-| [July 27 at 2:09 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-27T14:09:47.944461+01:00.hyperlinks.json) |
-| [July 27 at 10:09 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-27T10:09:02.441464+01:00.hyperlinks.json) |
-| [July 26 at 10:08 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-26T10:08:29.132790+01:00.hyperlinks.json) |
-| [July 25 at 2:13 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-25T14:13:49.143145+01:00.hyperlinks.json) |
-| [July 25 at 10:09 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-25T10:09:33.485321+01:00.hyperlinks.json) |
-| [July 25 at 4:30 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-25T04:30:38.423888+01:00.hyperlinks.json) |
-| [July 24 at 2:02 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-24T14:02:32.403340+01:00.hyperlinks.json) |
-| [July 24 at 5:17 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-24T05:17:38.355076+01:00.hyperlinks.json) |
-| [July 23 at 4:00 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-23T16:00:48.687110+01:00.hyperlinks.json) |
+| [July 28 at 5:11 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-28T10:11:19.062551+01:00.hyperlinks.json) |
+| [July 28 at 8:06 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-28T01:06:31.233243+01:00.hyperlinks.json) |
+| [July 27 at 9:09 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-27T14:09:47.944461+01:00.hyperlinks.json) |
+| [July 27 at 5:09 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-27T10:09:02.441464+01:00.hyperlinks.json) |
+| [July 26 at 5:08 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-26T10:08:29.132790+01:00.hyperlinks.json) |
+| [July 25 at 9:13 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-25T14:13:49.143145+01:00.hyperlinks.json) |
+| [July 25 at 5:09 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-25T10:09:33.485321+01:00.hyperlinks.json) |
+| [July 25 at 11:30 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-25T04:30:38.423888+01:00.hyperlinks.json) |
+| [July 24 at 9:02 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-24T14:02:32.403340+01:00.hyperlinks.json) |
+| [July 24 at 12:17 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-24T05:17:38.355076+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 90 accessibility trees with the Internet Archive.
+The archiving routine has saved 91 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,16 +419,39 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 1:06 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-28T01:06:31.233243+01:00.accessibility.json) |
-| [July 27 at 2:09 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-27T14:09:47.944461+01:00.accessibility.json) |
-| [July 27 at 10:09 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-27T10:09:02.441464+01:00.accessibility.json) |
-| [July 26 at 1:24 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-26T13:24:10.003573+01:00.accessibility.json) |
-| [July 26 at 10:08 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-26T10:08:29.132790+01:00.accessibility.json) |
-| [July 25 at 10:09 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-25T10:09:33.485321+01:00.accessibility.json) |
-| [July 25 at 4:30 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-25T04:30:38.423888+01:00.accessibility.json) |
-| [July 24 at 2:02 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-24T14:02:32.403340+01:00.accessibility.json) |
-| [July 24 at 5:17 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-24T05:17:38.355076+01:00.accessibility.json) |
-| [July 23 at 4:00 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-23T16:00:48.687110+01:00.accessibility.json) |
+| [July 28 at 5:11 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-28T10:11:19.062551+01:00.accessibility.json) |
+| [July 28 at 8:06 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-28T01:06:31.233243+01:00.accessibility.json) |
+| [July 27 at 9:09 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-27T14:09:47.944461+01:00.accessibility.json) |
+| [July 27 at 5:09 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-27T10:09:02.441464+01:00.accessibility.json) |
+| [July 26 at 8:24 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-26T13:24:10.003573+01:00.accessibility.json) |
+| [July 26 at 5:08 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-26T10:08:29.132790+01:00.accessibility.json) |
+| [July 25 at 5:09 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-25T10:09:33.485321+01:00.accessibility.json) |
+| [July 25 at 11:30 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-25T04:30:38.423888+01:00.accessibility.json) |
+| [July 24 at 9:02 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-24T14:02:32.403340+01:00.accessibility.json) |
+| [July 24 at 12:17 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-24T05:17:38.355076+01:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 5:11 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-28T10:11:19.062551+01:00.lighthouse.json) |
+| [July 28 at 8:06 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-28T01:06:31.233243+01:00.lighthouse.json) |
+| [July 27 at 9:09 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-27T14:09:47.944461+01:00.lighthouse.json) |
+| [July 27 at 5:09 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-27T10:09:02.441464+01:00.lighthouse.json) |
+| [July 27 at 8:14 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-27T01:14:06.053651+01:00.lighthouse.json) |
+| [July 26 at 8:24 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-26T13:24:10.003573+01:00.lighthouse.json) |
+| [July 26 at 5:08 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-26T10:08:29.132790+01:00.lighthouse.json) |
+| [July 26 at 8:18 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-26T01:18:49.029532+01:00.lighthouse.json) |
+| [July 25 at 9:14 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-25T14:13:49.143145+01:00.lighthouse.json) |
+| [July 25 at 5:09 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-25T10:09:33.485321+01:00.lighthouse.json) |
 
 
 

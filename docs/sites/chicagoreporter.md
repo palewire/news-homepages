@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 107 screenshots with the Internet Archive.
+The archiving routine has saved 108 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T18:04:02.138486-05:00.jpg">
-  <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T18:04:02.138486-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-27 18:04:03-05:00 local time"
+ <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-28T06:08:14.406049-05:00.jpg">
+  <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-28T06:08:14.406049-05:00.jpg"
+     alt="Chicago Reporter at 2022-07-28 13:08:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T18:04:02.138486-05:00.jpg">July 27 at 6:04 PM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-28T06:08:14.406049-05:00.jpg">July 28 at 1:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T18:04:02.138486-05:00.jpg">
+  <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T18:04:02.138486-05:00.jpg"
+     alt="Chicago Reporter at 2022-07-28 01:04:03-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T18:04:02.138486-05:00.jpg">July 28 at 1:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T11:10:34.847125-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T11:10:34.847125-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-27 11:10:41-05:00 local time"
+     alt="Chicago Reporter at 2022-07-27 18:10:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T11:10:34.847125-05:00.jpg">July 27 at 11:10 AM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T11:10:34.847125-05:00.jpg">July 27 at 6:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T06:04:55.639245-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T06:04:55.639245-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-27 06:04:57-05:00 local time"
+     alt="Chicago Reporter at 2022-07-27 13:04:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T06:04:55.639245-05:00.jpg">July 27 at 6:04 AM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T06:04:55.639245-05:00.jpg">July 27 at 1:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T18:06:38.389025-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T18:06:38.389025-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-26 18:06:39-05:00 local time"
+     alt="Chicago Reporter at 2022-07-27 01:06:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T18:06:38.389025-05:00.jpg">July 26 at 6:06 PM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T18:06:38.389025-05:00.jpg">July 27 at 1:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T10:59:53.607063-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T10:59:53.607063-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-26 10:59:55-05:00 local time"
+     alt="Chicago Reporter at 2022-07-26 17:59:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T10:59:53.607063-05:00.jpg">July 26 at 10:59 AM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T10:59:53.607063-05:00.jpg">July 26 at 5:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T06:15:15.378818-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T06:15:15.378818-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-26 06:15:16-05:00 local time"
+     alt="Chicago Reporter at 2022-07-26 13:15:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T06:15:15.378818-05:00.jpg">July 26 at 6:15 AM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T06:15:15.378818-05:00.jpg">July 26 at 1:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T18:10:36.960963-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T18:10:36.960963-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-25 18:10:38-05:00 local time"
+     alt="Chicago Reporter at 2022-07-26 01:10:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T18:10:36.960963-05:00.jpg">July 25 at 6:10 PM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T18:10:36.960963-05:00.jpg">July 26 at 1:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T11:35:12.767011-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T11:35:12.767011-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-25 11:35:16-05:00 local time"
+     alt="Chicago Reporter at 2022-07-25 18:35:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T11:35:12.767011-05:00.jpg">July 25 at 11:35 AM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T11:35:12.767011-05:00.jpg">July 25 at 6:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T06:02:17.944958-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T06:02:17.944958-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-25 06:02:23-05:00 local time"
+     alt="Chicago Reporter at 2022-07-25 13:02:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T06:02:17.944958-05:00.jpg">July 25 at 6:02 AM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T06:02:17.944958-05:00.jpg">July 25 at 1:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T19:54:40.276029-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T19:54:40.276029-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-24 19:54:44-05:00 local time"
+     alt="Chicago Reporter at 2022-07-25 02:54:44-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T19:54:40.276029-05:00.jpg">July 24 at 7:54 PM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T19:54:40.276029-05:00.jpg">July 25 at 2:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T10:46:33.923444-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T10:46:33.923444-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-24 10:46:35-05:00 local time"
+     alt="Chicago Reporter at 2022-07-24 17:46:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T10:46:33.923444-05:00.jpg">July 24 at 10:46 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T06:02:01.656749-05:00.jpg">
-  <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T06:02:01.656749-05:00.jpg"
-     alt="Chicago Reporter at 2022-07-24 06:02:08-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T06:02:01.656749-05:00.jpg">July 24 at 6:02 AM</a></p>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T10:46:33.923444-05:00.jpg">July 24 at 5:46 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 107 hyperlink lists with the Internet Archive.
+The archiving routine has saved 108 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 6:04 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T18:04:02.138486-05:00.hyperlinks.json) |
-| [July 27 at 11:10 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T11:10:34.847125-05:00.hyperlinks.json) |
-| [July 27 at 6:05 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T06:04:55.639245-05:00.hyperlinks.json) |
-| [July 26 at 6:06 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T18:06:38.389025-05:00.hyperlinks.json) |
-| [July 26 at 10:59 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T10:59:53.607063-05:00.hyperlinks.json) |
-| [July 26 at 6:15 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T06:15:15.378818-05:00.hyperlinks.json) |
-| [July 25 at 6:10 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T18:10:36.960963-05:00.hyperlinks.json) |
-| [July 25 at 11:35 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T11:35:12.767011-05:00.hyperlinks.json) |
-| [July 25 at 6:02 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T06:02:17.944958-05:00.hyperlinks.json) |
-| [July 24 at 7:54 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T19:54:40.276029-05:00.hyperlinks.json) |
+| [July 28 at 1:08 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-28T06:08:14.406049-05:00.hyperlinks.json) |
+| [July 28 at 1:04 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T18:04:02.138486-05:00.hyperlinks.json) |
+| [July 27 at 6:10 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T11:10:34.847125-05:00.hyperlinks.json) |
+| [July 27 at 1:05 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T06:04:55.639245-05:00.hyperlinks.json) |
+| [July 27 at 1:06 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T18:06:38.389025-05:00.hyperlinks.json) |
+| [July 26 at 5:59 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T10:59:53.607063-05:00.hyperlinks.json) |
+| [July 26 at 1:15 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T06:15:15.378818-05:00.hyperlinks.json) |
+| [July 26 at 1:10 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T18:10:36.960963-05:00.hyperlinks.json) |
+| [July 25 at 6:35 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T11:35:12.767011-05:00.hyperlinks.json) |
+| [July 25 at 1:02 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T06:02:17.944958-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 107 accessibility trees with the Internet Archive.
+The archiving routine has saved 108 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,16 +419,39 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 6:04 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T18:04:02.138486-05:00.accessibility.json) |
-| [July 27 at 11:10 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T11:10:34.847125-05:00.accessibility.json) |
-| [July 27 at 6:04 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T06:04:55.639245-05:00.accessibility.json) |
-| [July 26 at 6:06 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T18:06:38.389025-05:00.accessibility.json) |
-| [July 26 at 10:59 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T10:59:53.607063-05:00.accessibility.json) |
-| [July 26 at 6:15 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T06:15:15.378818-05:00.accessibility.json) |
-| [July 25 at 6:10 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T18:10:36.960963-05:00.accessibility.json) |
-| [July 25 at 11:35 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T11:35:12.767011-05:00.accessibility.json) |
-| [July 25 at 6:02 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T06:02:17.944958-05:00.accessibility.json) |
-| [July 24 at 7:54 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-24T19:54:40.276029-05:00.accessibility.json) |
+| [July 28 at 1:08 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-28T06:08:14.406049-05:00.accessibility.json) |
+| [July 28 at 1:04 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T18:04:02.138486-05:00.accessibility.json) |
+| [July 27 at 6:10 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T11:10:34.847125-05:00.accessibility.json) |
+| [July 27 at 1:04 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T06:04:55.639245-05:00.accessibility.json) |
+| [July 27 at 1:06 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T18:06:38.389025-05:00.accessibility.json) |
+| [July 26 at 5:59 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T10:59:53.607063-05:00.accessibility.json) |
+| [July 26 at 1:15 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T06:15:15.378818-05:00.accessibility.json) |
+| [July 26 at 1:10 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T18:10:36.960963-05:00.accessibility.json) |
+| [July 25 at 6:35 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T11:35:12.767011-05:00.accessibility.json) |
+| [July 25 at 1:02 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T06:02:17.944958-05:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 1:08 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-28T06:08:14.406049-05:00.lighthouse.json) |
+| [July 28 at 1:04 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T18:04:02.138486-05:00.lighthouse.json) |
+| [July 27 at 6:10 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T11:10:34.847125-05:00.lighthouse.json) |
+| [July 27 at 1:05 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-27T06:04:55.639245-05:00.lighthouse.json) |
+| [July 27 at 1:06 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T18:06:38.389025-05:00.lighthouse.json) |
+| [July 26 at 6:00 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T10:59:53.607063-05:00.lighthouse.json) |
+| [July 26 at 1:15 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-26T06:15:15.378818-05:00.lighthouse.json) |
+| [July 26 at 1:10 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T18:10:36.960963-05:00.lighthouse.json) |
+| [July 25 at 6:35 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T11:35:12.767011-05:00.lighthouse.json) |
+| [July 25 at 1:02 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-07-25T06:02:17.944958-05:00.lighthouse.json) |
 
 
 

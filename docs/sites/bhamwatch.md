@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 40 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T18:02:14.908446-05:00.jpg">
-  <img src="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T18:02:14.908446-05:00.jpg"
-     alt="BirminghamWatch at 2022-07-27 18:02:22-05:00 local time"
+ <a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-28T06:05:45.745669-05:00.jpg">
+  <img src="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-28T06:05:45.745669-05:00.jpg"
+     alt="BirminghamWatch at 2022-07-28 13:05:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T18:02:14.908446-05:00.jpg">July 27 at 6:02 PM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-28T06:05:45.745669-05:00.jpg">July 28 at 1:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T18:02:14.908446-05:00.jpg">
+  <img src="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T18:02:14.908446-05:00.jpg"
+     alt="BirminghamWatch at 2022-07-28 01:02:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T18:02:14.908446-05:00.jpg">July 28 at 1:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T06:02:26.606427-05:00.jpg">
   <img src="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T06:02:26.606427-05:00.jpg"
-     alt="BirminghamWatch at 2022-07-27 06:02:29-05:00 local time"
+     alt="BirminghamWatch at 2022-07-27 13:02:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T06:02:26.606427-05:00.jpg">July 27 at 6:02 AM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T06:02:26.606427-05:00.jpg">July 27 at 1:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-26T18:04:16.421462-05:00.jpg">
   <img src="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-26T18:04:16.421462-05:00.jpg"
-     alt="BirminghamWatch at 2022-07-26 18:04:18-05:00 local time"
+     alt="BirminghamWatch at 2022-07-27 01:04:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-26T18:04:16.421462-05:00.jpg">July 26 at 6:04 PM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-26T18:04:16.421462-05:00.jpg">July 27 at 1:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-26T06:12:21.443541-05:00.jpg">
   <img src="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-26T06:12:21.443541-05:00.jpg"
-     alt="BirminghamWatch at 2022-07-26 06:12:24-05:00 local time"
+     alt="BirminghamWatch at 2022-07-26 13:12:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-26T06:12:21.443541-05:00.jpg">July 26 at 6:12 AM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-26T06:12:21.443541-05:00.jpg">July 26 at 1:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T18:07:23.822041-05:00.jpg">
   <img src="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T18:07:23.822041-05:00.jpg"
-     alt="BirminghamWatch at 2022-07-25 18:07:27-05:00 local time"
+     alt="BirminghamWatch at 2022-07-26 01:07:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T18:07:23.822041-05:00.jpg">July 25 at 6:07 PM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T18:07:23.822041-05:00.jpg">July 26 at 1:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T05:59:36.027069-05:00.jpg">
   <img src="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T05:59:36.027069-05:00.jpg"
-     alt="BirminghamWatch at 2022-07-25 05:59:39-05:00 local time"
+     alt="BirminghamWatch at 2022-07-25 12:59:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T05:59:36.027069-05:00.jpg">July 25 at 5:59 AM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T05:59:36.027069-05:00.jpg">July 25 at 12:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T19:50:44.431975-05:00.jpg">
   <img src="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T19:50:44.431975-05:00.jpg"
-     alt="BirminghamWatch at 2022-07-24 19:50:48-05:00 local time"
+     alt="BirminghamWatch at 2022-07-25 02:50:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T19:50:44.431975-05:00.jpg">July 24 at 7:50 PM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T19:50:44.431975-05:00.jpg">July 25 at 2:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T05:58:44.713313-05:00.jpg">
   <img src="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T05:58:44.713313-05:00.jpg"
-     alt="BirminghamWatch at 2022-07-24 05:58:47-05:00 local time"
+     alt="BirminghamWatch at 2022-07-24 12:58:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T05:58:44.713313-05:00.jpg">July 24 at 5:58 AM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T05:58:44.713313-05:00.jpg">July 24 at 12:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-23T18:01:46.735766-05:00.jpg">
   <img src="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-23T18:01:46.735766-05:00.jpg"
-     alt="BirminghamWatch at 2022-07-23 18:01:48-05:00 local time"
+     alt="BirminghamWatch at 2022-07-24 01:01:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-23T18:01:46.735766-05:00.jpg">July 23 at 6:01 PM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-23T18:01:46.735766-05:00.jpg">July 24 at 1:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-23T07:57:35.183220-05:00.jpg">
   <img src="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-23T07:57:35.183220-05:00.jpg"
-     alt="BirminghamWatch at 2022-07-23 07:57:36-05:00 local time"
+     alt="BirminghamWatch at 2022-07-23 14:57:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-23T07:57:35.183220-05:00.jpg">July 23 at 7:57 AM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-23T07:57:35.183220-05:00.jpg">July 23 at 2:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-22T19:58:18.758064-05:00.jpg">
   <img src="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-22T19:58:18.758064-05:00.jpg"
-     alt="BirminghamWatch at 2022-07-22 19:58:20-05:00 local time"
+     alt="BirminghamWatch at 2022-07-23 02:58:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-22T19:58:18.758064-05:00.jpg">July 22 at 7:58 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-22T07:58:02.432068-05:00.jpg">
-  <img src="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-22T07:58:02.432068-05:00.jpg"
-     alt="BirminghamWatch at 2022-07-22 07:58:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-22T07:58:02.432068-05:00.jpg">July 22 at 7:58 AM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-22T19:58:18.758064-05:00.jpg">July 23 at 2:58 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 39 hyperlink lists with the Internet Archive.
+The archiving routine has saved 40 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 6:02 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T18:02:14.908446-05:00.hyperlinks.json) |
-| [July 27 at 6:02 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T06:02:26.606427-05:00.hyperlinks.json) |
-| [July 26 at 6:04 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-26T18:04:16.421462-05:00.hyperlinks.json) |
-| [July 26 at 6:12 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-26T06:12:21.443541-05:00.hyperlinks.json) |
-| [July 25 at 6:07 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T18:07:23.822041-05:00.hyperlinks.json) |
-| [July 25 at 5:59 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T05:59:36.027069-05:00.hyperlinks.json) |
-| [July 24 at 7:50 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T19:50:44.431975-05:00.hyperlinks.json) |
-| [July 24 at 5:58 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T05:58:44.713313-05:00.hyperlinks.json) |
-| [July 23 at 6:01 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-23T18:01:46.735766-05:00.hyperlinks.json) |
-| [July 23 at 7:57 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-23T07:57:35.183220-05:00.hyperlinks.json) |
+| [July 28 at 1:05 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-28T06:05:45.745669-05:00.hyperlinks.json) |
+| [July 28 at 1:02 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T18:02:14.908446-05:00.hyperlinks.json) |
+| [July 27 at 1:02 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T06:02:26.606427-05:00.hyperlinks.json) |
+| [July 27 at 1:04 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-26T18:04:16.421462-05:00.hyperlinks.json) |
+| [July 26 at 1:12 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-26T06:12:21.443541-05:00.hyperlinks.json) |
+| [July 26 at 1:07 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T18:07:23.822041-05:00.hyperlinks.json) |
+| [July 25 at 12:59 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T05:59:36.027069-05:00.hyperlinks.json) |
+| [July 25 at 2:50 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T19:50:44.431975-05:00.hyperlinks.json) |
+| [July 24 at 12:58 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T05:58:44.713313-05:00.hyperlinks.json) |
+| [July 24 at 1:01 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-23T18:01:46.735766-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 39 accessibility trees with the Internet Archive.
+The archiving routine has saved 40 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,16 +419,39 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 6:02 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T18:02:14.908446-05:00.accessibility.json) |
-| [July 27 at 6:02 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T06:02:26.606427-05:00.accessibility.json) |
-| [July 26 at 6:04 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-26T18:04:16.421462-05:00.accessibility.json) |
-| [July 26 at 6:12 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-26T06:12:21.443541-05:00.accessibility.json) |
-| [July 25 at 6:07 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T18:07:23.822041-05:00.accessibility.json) |
-| [July 25 at 5:59 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T05:59:36.027069-05:00.accessibility.json) |
-| [July 24 at 7:50 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T19:50:44.431975-05:00.accessibility.json) |
-| [July 24 at 5:58 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T05:58:44.713313-05:00.accessibility.json) |
-| [July 23 at 6:01 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-23T18:01:46.735766-05:00.accessibility.json) |
-| [July 23 at 7:57 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-23T07:57:35.183220-05:00.accessibility.json) |
+| [July 28 at 1:05 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-28T06:05:45.745669-05:00.accessibility.json) |
+| [July 28 at 1:02 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T18:02:14.908446-05:00.accessibility.json) |
+| [July 27 at 1:02 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T06:02:26.606427-05:00.accessibility.json) |
+| [July 27 at 1:04 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-26T18:04:16.421462-05:00.accessibility.json) |
+| [July 26 at 1:12 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-26T06:12:21.443541-05:00.accessibility.json) |
+| [July 26 at 1:07 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T18:07:23.822041-05:00.accessibility.json) |
+| [July 25 at 12:59 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T05:59:36.027069-05:00.accessibility.json) |
+| [July 25 at 2:50 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T19:50:44.431975-05:00.accessibility.json) |
+| [July 24 at 12:58 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T05:58:44.713313-05:00.accessibility.json) |
+| [July 24 at 1:01 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-23T18:01:46.735766-05:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 1:05 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-28T06:05:45.745669-05:00.lighthouse.json) |
+| [July 28 at 1:02 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T18:02:14.908446-05:00.lighthouse.json) |
+| [July 27 at 1:02 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-27T06:02:26.606427-05:00.lighthouse.json) |
+| [July 27 at 1:04 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-26T18:04:16.421462-05:00.lighthouse.json) |
+| [July 26 at 1:12 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-26T06:12:21.443541-05:00.lighthouse.json) |
+| [July 26 at 1:07 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T18:07:23.822041-05:00.lighthouse.json) |
+| [July 25 at 12:59 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T05:59:36.027069-05:00.lighthouse.json) |
+| [July 25 at 2:50 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T19:50:44.431975-05:00.lighthouse.json) |
+| [July 24 at 12:58 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T05:58:44.713313-05:00.lighthouse.json) |
+| [July 24 at 1:01 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-23T18:01:46.735766-05:00.lighthouse.json) |
 
 
 

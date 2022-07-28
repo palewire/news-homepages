@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 38 screenshots with the Internet Archive.
+The archiving routine has saved 39 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T19:03:52.288103-04:00.jpg">
-  <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T19:03:52.288103-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-27 19:03:54-04:00 local time"
+ <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-28T07:08:15.773550-04:00.jpg">
+  <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-28T07:08:15.773550-04:00.jpg"
+     alt="Chesapeake Bay Journal at 2022-07-28 14:08:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T19:03:52.288103-04:00.jpg">July 27 at 7:03 PM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-28T07:08:15.773550-04:00.jpg">July 28 at 2:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T19:03:52.288103-04:00.jpg">
+  <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T19:03:52.288103-04:00.jpg"
+     alt="Chesapeake Bay Journal at 2022-07-28 02:03:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T19:03:52.288103-04:00.jpg">July 28 at 2:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T07:04:21.307264-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T07:04:21.307264-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-27 07:04:23-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-27 14:04:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T07:04:21.307264-04:00.jpg">July 27 at 7:04 AM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T07:04:21.307264-04:00.jpg">July 27 at 2:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T19:06:32.581974-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T19:06:32.581974-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-26 19:06:34-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-27 02:06:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T19:06:32.581974-04:00.jpg">July 26 at 7:06 PM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T19:06:32.581974-04:00.jpg">July 27 at 2:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T07:14:06.071333-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T07:14:06.071333-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-26 07:14:08-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-26 14:14:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T07:14:06.071333-04:00.jpg">July 26 at 7:14 AM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T07:14:06.071333-04:00.jpg">July 26 at 2:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T07:01:49.101099-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T07:01:49.101099-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-25 07:01:51-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-25 14:01:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T07:01:49.101099-04:00.jpg">July 25 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T07:01:49.101099-04:00.jpg">July 25 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T20:54:37.877529-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T20:54:37.877529-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-24 20:54:39-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-25 03:54:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T20:54:37.877529-04:00.jpg">July 24 at 8:54 PM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T20:54:37.877529-04:00.jpg">July 25 at 3:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T07:01:00.844777-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T07:01:00.844777-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-24 07:01:03-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-24 14:01:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T07:01:00.844777-04:00.jpg">July 24 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T07:01:00.844777-04:00.jpg">July 24 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T19:03:30.669877-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T19:03:30.669877-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-23 19:03:31-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-24 02:03:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T19:03:30.669877-04:00.jpg">July 23 at 7:03 PM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T19:03:30.669877-04:00.jpg">July 24 at 2:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T08:59:35.364126-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T08:59:35.364126-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-23 08:59:37-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-23 15:59:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T08:59:35.364126-04:00.jpg">July 23 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T08:59:35.364126-04:00.jpg">July 23 at 3:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-22T21:00:56.971492-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-22T21:00:56.971492-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-22 21:00:59-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-23 04:00:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-22T21:00:56.971492-04:00.jpg">July 22 at 9:00 PM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-22T21:00:56.971492-04:00.jpg">July 23 at 4:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-22T09:00:05.168218-04:00.jpg">
   <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-22T09:00:05.168218-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-22 09:00:07-04:00 local time"
+     alt="Chesapeake Bay Journal at 2022-07-22 16:00:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-22T09:00:05.168218-04:00.jpg">July 22 at 9:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-21T21:08:01.768289-04:00.jpg">
-  <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-21T21:08:01.768289-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-07-21 21:08:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-21T21:08:01.768289-04:00.jpg">July 21 at 9:08 PM</a></p>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-22T09:00:05.168218-04:00.jpg">July 22 at 4:00 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 39 hyperlink lists with the Internet Archive.
+The archiving routine has saved 40 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 7:03 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T19:03:52.288103-04:00.hyperlinks.json) |
-| [July 27 at 7:04 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T07:04:21.307264-04:00.hyperlinks.json) |
-| [July 26 at 7:06 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T19:06:32.581974-04:00.hyperlinks.json) |
-| [July 26 at 7:14 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T07:14:06.071333-04:00.hyperlinks.json) |
-| [July 25 at 7:10 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T19:10:22.771653-04:00.hyperlinks.json) |
-| [July 25 at 7:01 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T07:01:49.101099-04:00.hyperlinks.json) |
-| [July 24 at 8:54 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T20:54:37.877529-04:00.hyperlinks.json) |
-| [July 24 at 7:01 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T07:01:00.844777-04:00.hyperlinks.json) |
-| [July 23 at 7:03 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T19:03:30.669877-04:00.hyperlinks.json) |
-| [July 23 at 8:59 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T08:59:35.364126-04:00.hyperlinks.json) |
+| [July 28 at 2:08 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-28T07:08:15.773550-04:00.hyperlinks.json) |
+| [July 28 at 2:03 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T19:03:52.288103-04:00.hyperlinks.json) |
+| [July 27 at 2:04 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T07:04:21.307264-04:00.hyperlinks.json) |
+| [July 27 at 2:06 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T19:06:32.581974-04:00.hyperlinks.json) |
+| [July 26 at 2:14 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T07:14:06.071333-04:00.hyperlinks.json) |
+| [July 26 at 2:10 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T19:10:22.771653-04:00.hyperlinks.json) |
+| [July 25 at 2:01 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T07:01:49.101099-04:00.hyperlinks.json) |
+| [July 25 at 3:54 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T20:54:37.877529-04:00.hyperlinks.json) |
+| [July 24 at 2:01 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T07:01:00.844777-04:00.hyperlinks.json) |
+| [July 24 at 2:03 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T19:03:30.669877-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 39 accessibility trees with the Internet Archive.
+The archiving routine has saved 40 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,16 +419,39 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 7:03 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T19:03:52.288103-04:00.accessibility.json) |
-| [July 27 at 7:04 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T07:04:21.307264-04:00.accessibility.json) |
-| [July 26 at 7:06 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T19:06:32.581974-04:00.accessibility.json) |
-| [July 26 at 7:14 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T07:14:06.071333-04:00.accessibility.json) |
-| [July 25 at 7:10 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T19:10:22.771653-04:00.accessibility.json) |
-| [July 25 at 7:01 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T07:01:49.101099-04:00.accessibility.json) |
-| [July 24 at 8:54 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T20:54:37.877529-04:00.accessibility.json) |
-| [July 24 at 7:01 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T07:01:00.844777-04:00.accessibility.json) |
-| [July 23 at 7:03 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T19:03:30.669877-04:00.accessibility.json) |
-| [July 23 at 8:59 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T08:59:35.364126-04:00.accessibility.json) |
+| [July 28 at 2:08 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-28T07:08:15.773550-04:00.accessibility.json) |
+| [July 28 at 2:03 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T19:03:52.288103-04:00.accessibility.json) |
+| [July 27 at 2:04 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T07:04:21.307264-04:00.accessibility.json) |
+| [July 27 at 2:06 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T19:06:32.581974-04:00.accessibility.json) |
+| [July 26 at 2:14 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T07:14:06.071333-04:00.accessibility.json) |
+| [July 26 at 2:10 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T19:10:22.771653-04:00.accessibility.json) |
+| [July 25 at 2:01 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T07:01:49.101099-04:00.accessibility.json) |
+| [July 25 at 3:54 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T20:54:37.877529-04:00.accessibility.json) |
+| [July 24 at 2:01 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T07:01:00.844777-04:00.accessibility.json) |
+| [July 24 at 2:03 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T19:03:30.669877-04:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 2:08 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-28T07:08:15.773550-04:00.lighthouse.json) |
+| [July 28 at 2:03 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T19:03:52.288103-04:00.lighthouse.json) |
+| [July 27 at 2:04 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-27T07:04:21.307264-04:00.lighthouse.json) |
+| [July 27 at 2:06 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T19:06:32.581974-04:00.lighthouse.json) |
+| [July 26 at 2:14 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-26T07:14:06.071333-04:00.lighthouse.json) |
+| [July 26 at 2:10 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T19:10:22.771653-04:00.lighthouse.json) |
+| [July 25 at 2:01 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-25T07:01:49.101099-04:00.lighthouse.json) |
+| [July 25 at 3:54 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T20:54:37.877529-04:00.lighthouse.json) |
+| [July 24 at 2:01 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-24T07:01:00.844777-04:00.lighthouse.json) |
+| [July 24 at 2:03 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-07-23T19:03:30.669877-04:00.lighthouse.json) |
 
 
 

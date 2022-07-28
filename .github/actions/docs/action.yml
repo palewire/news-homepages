@@ -29,18 +29,23 @@ runs:
       shell: bash
 
     - id: site-detail-screenshot-chart
-      name: Update site detail screenshot-chart
+      name: Update site detail screenshot chart
       run: pipenv run python -m newshomepages.docs site-detail-screenshot-chart;
       shell: bash
 
     - id: site-detail-hyperlink-chart
-      name: Update site detail hyperlink-chart
+      name: Update site detail hyperlink chart
       run: pipenv run python -m newshomepages.docs site-detail-hyperlink-chart;
       shell: bash
 
     - id: site-detail-accessibility-chart
-      name: Update site detail accessibility-chart
+      name: Update site detail accessibility chart
       run: pipenv run python -m newshomepages.docs site-detail-accessibility-chart;
+      shell: bash
+
+    - id: site-detail-lighthouse-chart
+      name: Update site detail lighthouse chart
+      run: pipenv run python -m newshomepages.docs site-detail-lighthouse-chart;
       shell: bash
 
     - id: bundle-detail

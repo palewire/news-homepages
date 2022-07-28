@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 41 screenshots with the Internet Archive.
+The archiving routine has saved 42 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-27T10:26:24.042682-04:00.jpg">
-  <img src="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-27T10:26:24.042682-04:00.jpg"
-     alt="Daily Tarheel at 2022-07-27 10:26:27-04:00 local time"
+ <a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-27T22:34:57.076589-04:00.jpg">
+  <img src="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-27T22:34:57.076589-04:00.jpg"
+     alt="Daily Tarheel at 2022-07-28 05:34:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-27T10:26:24.042682-04:00.jpg">July 27 at 10:26 AM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-27T22:34:57.076589-04:00.jpg">July 28 at 5:34 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-27T10:26:24.042682-04:00.jpg">
+  <img src="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-27T10:26:24.042682-04:00.jpg"
+     alt="Daily Tarheel at 2022-07-27 17:26:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-27T10:26:24.042682-04:00.jpg">July 27 at 5:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-26T22:34:47.556452-04:00.jpg">
   <img src="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-26T22:34:47.556452-04:00.jpg"
-     alt="Daily Tarheel at 2022-07-26 22:34:49-04:00 local time"
+     alt="Daily Tarheel at 2022-07-27 05:34:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-26T22:34:47.556452-04:00.jpg">July 26 at 10:34 PM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-26T22:34:47.556452-04:00.jpg">July 27 at 5:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-26T10:31:46.518953-04:00.jpg">
   <img src="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-26T10:31:46.518953-04:00.jpg"
-     alt="Daily Tarheel at 2022-07-26 10:31:48-04:00 local time"
+     alt="Daily Tarheel at 2022-07-26 17:31:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-26T10:31:46.518953-04:00.jpg">July 26 at 10:31 AM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-26T10:31:46.518953-04:00.jpg">July 26 at 5:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T22:40:27.594307-04:00.jpg">
   <img src="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T22:40:27.594307-04:00.jpg"
-     alt="Daily Tarheel at 2022-07-25 22:40:30-04:00 local time"
+     alt="Daily Tarheel at 2022-07-26 05:40:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T22:40:27.594307-04:00.jpg">July 25 at 10:40 PM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T22:40:27.594307-04:00.jpg">July 26 at 5:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T07:58:26.814214-04:00.jpg">
   <img src="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T07:58:26.814214-04:00.jpg"
-     alt="Daily Tarheel at 2022-07-25 07:58:29-04:00 local time"
+     alt="Daily Tarheel at 2022-07-25 14:58:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T07:58:26.814214-04:00.jpg">July 25 at 7:58 AM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T07:58:26.814214-04:00.jpg">July 25 at 2:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T20:58:37.272180-04:00.jpg">
   <img src="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T20:58:37.272180-04:00.jpg"
-     alt="Daily Tarheel at 2022-07-24 20:58:38-04:00 local time"
+     alt="Daily Tarheel at 2022-07-25 03:58:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T20:58:37.272180-04:00.jpg">July 24 at 8:58 PM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T20:58:37.272180-04:00.jpg">July 25 at 3:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T07:56:08.157857-04:00.jpg">
   <img src="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T07:56:08.157857-04:00.jpg"
-     alt="Daily Tarheel at 2022-07-24 07:56:10-04:00 local time"
+     alt="Daily Tarheel at 2022-07-24 14:56:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T07:56:08.157857-04:00.jpg">July 24 at 7:56 AM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T07:56:08.157857-04:00.jpg">July 24 at 2:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T02:25:50.314342-04:00.jpg">
   <img src="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T02:25:50.314342-04:00.jpg"
-     alt="Daily Tarheel at 2022-07-24 02:25:55-04:00 local time"
+     alt="Daily Tarheel at 2022-07-24 09:25:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T02:25:50.314342-04:00.jpg">July 24 at 2:25 AM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T02:25:50.314342-04:00.jpg">July 24 at 9:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-23T09:02:49.660748-04:00.jpg">
   <img src="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-23T09:02:49.660748-04:00.jpg"
-     alt="Daily Tarheel at 2022-07-23 09:02:52-04:00 local time"
+     alt="Daily Tarheel at 2022-07-23 16:02:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-23T09:02:49.660748-04:00.jpg">July 23 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-23T09:02:49.660748-04:00.jpg">July 23 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-22T21:03:43.828317-04:00.jpg">
   <img src="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-22T21:03:43.828317-04:00.jpg"
-     alt="Daily Tarheel at 2022-07-22 21:03:45-04:00 local time"
+     alt="Daily Tarheel at 2022-07-23 04:03:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-22T21:03:43.828317-04:00.jpg">July 22 at 9:03 PM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-22T21:03:43.828317-04:00.jpg">July 23 at 4:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-22T09:02:51.383281-04:00.jpg">
   <img src="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-22T09:02:51.383281-04:00.jpg"
-     alt="Daily Tarheel at 2022-07-22 09:02:53-04:00 local time"
+     alt="Daily Tarheel at 2022-07-22 16:02:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-22T09:02:51.383281-04:00.jpg">July 22 at 9:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-21T21:11:03.291036-04:00.jpg">
-  <img src="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-21T21:11:03.291036-04:00.jpg"
-     alt="Daily Tarheel at 2022-07-21 21:11:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-21T21:11:03.291036-04:00.jpg">July 21 at 9:11 PM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-22T09:02:51.383281-04:00.jpg">July 22 at 4:02 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 41 hyperlink lists with the Internet Archive.
+The archiving routine has saved 42 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 10:26 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-27T10:26:24.042682-04:00.hyperlinks.json) |
-| [July 26 at 10:34 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-26T22:34:47.556452-04:00.hyperlinks.json) |
-| [July 26 at 10:31 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-26T10:31:46.518953-04:00.hyperlinks.json) |
-| [July 25 at 10:40 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T22:40:27.594307-04:00.hyperlinks.json) |
-| [July 25 at 7:58 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T07:58:26.814214-04:00.hyperlinks.json) |
-| [July 24 at 8:58 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T20:58:37.272180-04:00.hyperlinks.json) |
-| [July 24 at 7:56 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T07:56:08.157857-04:00.hyperlinks.json) |
-| [July 24 at 2:25 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T02:25:50.314342-04:00.hyperlinks.json) |
-| [July 23 at 9:02 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-23T09:02:49.660748-04:00.hyperlinks.json) |
-| [July 22 at 9:03 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-22T21:03:43.828317-04:00.hyperlinks.json) |
+| [July 28 at 5:35 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-27T22:34:57.076589-04:00.hyperlinks.json) |
+| [July 27 at 5:26 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-27T10:26:24.042682-04:00.hyperlinks.json) |
+| [July 27 at 5:34 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-26T22:34:47.556452-04:00.hyperlinks.json) |
+| [July 26 at 5:31 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-26T10:31:46.518953-04:00.hyperlinks.json) |
+| [July 26 at 5:40 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T22:40:27.594307-04:00.hyperlinks.json) |
+| [July 25 at 2:58 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T07:58:26.814214-04:00.hyperlinks.json) |
+| [July 25 at 3:58 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T20:58:37.272180-04:00.hyperlinks.json) |
+| [July 24 at 2:56 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T07:56:08.157857-04:00.hyperlinks.json) |
+| [July 24 at 9:25 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T02:25:50.314342-04:00.hyperlinks.json) |
+| [July 23 at 4:02 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-23T09:02:49.660748-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 41 accessibility trees with the Internet Archive.
+The archiving routine has saved 42 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,16 +419,38 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 10:26 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-27T10:26:24.042682-04:00.accessibility.json) |
-| [July 26 at 10:34 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-26T22:34:47.556452-04:00.accessibility.json) |
-| [July 26 at 10:31 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-26T10:31:46.518953-04:00.accessibility.json) |
-| [July 25 at 10:40 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T22:40:27.594307-04:00.accessibility.json) |
-| [July 25 at 7:58 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T07:58:26.814214-04:00.accessibility.json) |
-| [July 24 at 8:58 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T20:58:37.272180-04:00.accessibility.json) |
-| [July 24 at 7:56 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T07:56:08.157857-04:00.accessibility.json) |
-| [July 24 at 2:25 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T02:25:50.314342-04:00.accessibility.json) |
-| [July 23 at 9:02 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-23T09:02:49.660748-04:00.accessibility.json) |
-| [July 22 at 9:03 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-22T21:03:43.828317-04:00.accessibility.json) |
+| [July 28 at 5:34 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-27T22:34:57.076589-04:00.accessibility.json) |
+| [July 27 at 5:26 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-27T10:26:24.042682-04:00.accessibility.json) |
+| [July 27 at 5:34 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-26T22:34:47.556452-04:00.accessibility.json) |
+| [July 26 at 5:31 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-26T10:31:46.518953-04:00.accessibility.json) |
+| [July 26 at 5:40 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T22:40:27.594307-04:00.accessibility.json) |
+| [July 25 at 2:58 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T07:58:26.814214-04:00.accessibility.json) |
+| [July 25 at 3:58 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T20:58:37.272180-04:00.accessibility.json) |
+| [July 24 at 2:56 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T07:56:08.157857-04:00.accessibility.json) |
+| [July 24 at 9:25 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T02:25:50.314342-04:00.accessibility.json) |
+| [July 23 at 4:02 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-23T09:02:49.660748-04:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 5:35 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-27T22:34:57.076589-04:00.lighthouse.json) |
+| [July 27 at 5:26 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-27T10:26:24.042682-04:00.lighthouse.json) |
+| [July 27 at 5:34 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-26T22:34:47.556452-04:00.lighthouse.json) |
+| [July 26 at 5:31 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-26T10:31:46.518953-04:00.lighthouse.json) |
+| [July 26 at 5:40 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T22:40:27.594307-04:00.lighthouse.json) |
+| [July 25 at 2:58 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T07:58:26.814214-04:00.lighthouse.json) |
+| [July 25 at 3:58 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T20:58:37.272180-04:00.lighthouse.json) |
+| [July 24 at 2:56 PM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T07:56:08.157857-04:00.lighthouse.json) |
+| [July 24 at 9:26 AM](https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T02:25:50.314342-04:00.lighthouse.json) |
 
 
 

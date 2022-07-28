@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 73 screenshots with the Internet Archive.
+The archiving routine has saved 74 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T10:34:26.569690-04:00.jpg">
-  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T10:34:26.569690-04:00.jpg"
-     alt="La Presse at 2022-07-27 10:34:28-04:00 local time"
+ <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T22:41:02.230843-04:00.jpg">
+  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T22:41:02.230843-04:00.jpg"
+     alt="La Presse at 2022-07-28 05:41:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T10:34:26.569690-04:00.jpg">July 27 at 10:34 AM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T22:41:02.230843-04:00.jpg">July 28 at 5:41 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T10:34:26.569690-04:00.jpg">
+  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T10:34:26.569690-04:00.jpg"
+     alt="La Presse at 2022-07-27 17:34:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T10:34:26.569690-04:00.jpg">July 27 at 5:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T22:41:24.185876-04:00.jpg">
   <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T22:41:24.185876-04:00.jpg"
-     alt="La Presse at 2022-07-26 22:41:25-04:00 local time"
+     alt="La Presse at 2022-07-27 05:41:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T22:41:24.185876-04:00.jpg">July 26 at 10:41 PM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T22:41:24.185876-04:00.jpg">July 27 at 5:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T10:39:38.726492-04:00.jpg">
   <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T10:39:38.726492-04:00.jpg"
-     alt="La Presse at 2022-07-26 10:39:40-04:00 local time"
+     alt="La Presse at 2022-07-26 17:39:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T10:39:38.726492-04:00.jpg">July 26 at 10:39 AM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T10:39:38.726492-04:00.jpg">July 26 at 5:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T22:48:15.959110-04:00.jpg">
   <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T22:48:15.959110-04:00.jpg"
-     alt="La Presse at 2022-07-25 22:48:17-04:00 local time"
+     alt="La Presse at 2022-07-26 05:48:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T22:48:15.959110-04:00.jpg">July 25 at 10:48 PM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T22:48:15.959110-04:00.jpg">July 26 at 5:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T09:13:18.794440-04:00.jpg">
   <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T09:13:18.794440-04:00.jpg"
-     alt="La Presse at 2022-07-25 09:13:20-04:00 local time"
+     alt="La Presse at 2022-07-25 16:13:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T09:13:18.794440-04:00.jpg">July 25 at 9:13 AM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T09:13:18.794440-04:00.jpg">July 25 at 4:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T23:31:22.176762-04:00.jpg">
   <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T23:31:22.176762-04:00.jpg"
-     alt="La Presse at 2022-07-24 23:31:23-04:00 local time"
+     alt="La Presse at 2022-07-25 06:31:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T23:31:22.176762-04:00.jpg">July 24 at 11:31 PM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T23:31:22.176762-04:00.jpg">July 25 at 6:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T09:02:46.947836-04:00.jpg">
   <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T09:02:46.947836-04:00.jpg"
-     alt="La Presse at 2022-07-24 09:02:48-04:00 local time"
+     alt="La Presse at 2022-07-24 16:02:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T09:02:46.947836-04:00.jpg">July 24 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T09:02:46.947836-04:00.jpg">July 24 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T00:17:55.175380-04:00.jpg">
   <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T00:17:55.175380-04:00.jpg"
-     alt="La Presse at 2022-07-24 00:17:57-04:00 local time"
+     alt="La Presse at 2022-07-24 07:17:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T00:17:55.175380-04:00.jpg">July 24 at 12:17 AM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T00:17:55.175380-04:00.jpg">July 24 at 7:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-23T11:00:16.899606-04:00.jpg">
   <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-23T11:00:16.899606-04:00.jpg"
-     alt="La Presse at 2022-07-23 11:00:19-04:00 local time"
+     alt="La Presse at 2022-07-23 18:00:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-23T11:00:16.899606-04:00.jpg">July 23 at 11:00 AM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-23T11:00:16.899606-04:00.jpg">July 23 at 6:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T23:30:37.420138-04:00.jpg">
   <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T23:30:37.420138-04:00.jpg"
-     alt="La Presse at 2022-07-22 23:30:39-04:00 local time"
+     alt="La Presse at 2022-07-23 06:30:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T23:30:37.420138-04:00.jpg">July 22 at 11:30 PM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T23:30:37.420138-04:00.jpg">July 23 at 6:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T10:56:52.706452-04:00.jpg">
   <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T10:56:52.706452-04:00.jpg"
-     alt="La Presse at 2022-07-22 10:56:59-04:00 local time"
+     alt="La Presse at 2022-07-22 17:56:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T10:56:52.706452-04:00.jpg">July 22 at 10:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-21T23:34:36.031256-04:00.jpg">
-  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-21T23:34:36.031256-04:00.jpg"
-     alt="La Presse at 2022-07-21 23:34:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-21T23:34:36.031256-04:00.jpg">July 21 at 11:34 PM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T10:56:52.706452-04:00.jpg">July 22 at 5:56 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 73 hyperlink lists with the Internet Archive.
+The archiving routine has saved 74 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 10:34 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T10:34:26.569690-04:00.hyperlinks.json) |
-| [July 26 at 10:41 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T22:41:24.185876-04:00.hyperlinks.json) |
-| [July 26 at 10:39 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T10:39:38.726492-04:00.hyperlinks.json) |
-| [July 25 at 10:48 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T22:48:15.959110-04:00.hyperlinks.json) |
-| [July 25 at 9:13 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T09:13:18.794440-04:00.hyperlinks.json) |
-| [July 24 at 11:31 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T23:31:22.176762-04:00.hyperlinks.json) |
-| [July 24 at 9:02 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T09:02:46.947836-04:00.hyperlinks.json) |
-| [July 24 at 12:18 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T00:17:55.175380-04:00.hyperlinks.json) |
-| [July 23 at 11:00 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-23T11:00:16.899606-04:00.hyperlinks.json) |
-| [July 22 at 11:30 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T23:30:37.420138-04:00.hyperlinks.json) |
+| [July 28 at 5:41 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T22:41:02.230843-04:00.hyperlinks.json) |
+| [July 27 at 5:34 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T10:34:26.569690-04:00.hyperlinks.json) |
+| [July 27 at 5:41 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T22:41:24.185876-04:00.hyperlinks.json) |
+| [July 26 at 5:39 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T10:39:38.726492-04:00.hyperlinks.json) |
+| [July 26 at 5:48 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T22:48:15.959110-04:00.hyperlinks.json) |
+| [July 25 at 4:13 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T09:13:18.794440-04:00.hyperlinks.json) |
+| [July 25 at 6:31 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T23:31:22.176762-04:00.hyperlinks.json) |
+| [July 24 at 4:02 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T09:02:46.947836-04:00.hyperlinks.json) |
+| [July 24 at 7:18 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T00:17:55.175380-04:00.hyperlinks.json) |
+| [July 23 at 6:00 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-23T11:00:16.899606-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 72 accessibility trees with the Internet Archive.
+The archiving routine has saved 73 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,16 +419,38 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 10:34 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T10:34:26.569690-04:00.accessibility.json) |
-| [July 26 at 10:41 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T22:41:24.185876-04:00.accessibility.json) |
-| [July 26 at 10:39 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T10:39:38.726492-04:00.accessibility.json) |
-| [July 25 at 10:48 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T22:48:15.959110-04:00.accessibility.json) |
-| [July 24 at 11:31 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T23:31:22.176762-04:00.accessibility.json) |
-| [July 24 at 9:02 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T09:02:46.947836-04:00.accessibility.json) |
-| [July 24 at 12:17 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T00:17:55.175380-04:00.accessibility.json) |
-| [July 23 at 11:00 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-23T11:00:16.899606-04:00.accessibility.json) |
-| [July 22 at 11:30 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T23:30:37.420138-04:00.accessibility.json) |
-| [July 22 at 10:57 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T10:56:52.706452-04:00.accessibility.json) |
+| [July 28 at 5:41 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T22:41:02.230843-04:00.accessibility.json) |
+| [July 27 at 5:34 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T10:34:26.569690-04:00.accessibility.json) |
+| [July 27 at 5:41 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T22:41:24.185876-04:00.accessibility.json) |
+| [July 26 at 5:39 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T10:39:38.726492-04:00.accessibility.json) |
+| [July 26 at 5:48 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T22:48:15.959110-04:00.accessibility.json) |
+| [July 25 at 6:31 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T23:31:22.176762-04:00.accessibility.json) |
+| [July 24 at 4:02 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T09:02:46.947836-04:00.accessibility.json) |
+| [July 24 at 7:17 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T00:17:55.175380-04:00.accessibility.json) |
+| [July 23 at 6:00 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-23T11:00:16.899606-04:00.accessibility.json) |
+| [July 23 at 6:30 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T23:30:37.420138-04:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 5:41 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T22:41:02.230843-04:00.lighthouse.json) |
+| [July 27 at 5:34 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T10:34:26.569690-04:00.lighthouse.json) |
+| [July 27 at 5:41 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T22:41:24.185876-04:00.lighthouse.json) |
+| [July 26 at 5:39 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T10:39:38.726492-04:00.lighthouse.json) |
+| [July 26 at 5:48 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T22:48:15.959110-04:00.lighthouse.json) |
+| [July 25 at 4:13 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T09:13:18.794440-04:00.lighthouse.json) |
+| [July 25 at 6:31 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T23:31:22.176762-04:00.lighthouse.json) |
+| [July 24 at 4:02 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T09:02:46.947836-04:00.lighthouse.json) |
+| [July 24 at 7:18 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T00:17:55.175380-04:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 37 screenshots with the Internet Archive.
+The archiving routine has saved 38 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-27T11:10:58.809116-05:00.jpg">
-  <img src="https://archive.org/download/hwherald-2022/hwherald-2022-07-27T11:10:58.809116-05:00.jpg"
-     alt="Harvey World Herald at 2022-07-27 11:11:00-05:00 local time"
+ <a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-27T21:38:43.996962-05:00.jpg">
+  <img src="https://archive.org/download/hwherald-2022/hwherald-2022-07-27T21:38:43.996962-05:00.jpg"
+     alt="Harvey World Herald at 2022-07-28 04:38:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-27T11:10:58.809116-05:00.jpg">July 27 at 11:11 AM</a></p>
+ <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-27T21:38:43.996962-05:00.jpg">July 28 at 4:38 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-27T11:10:58.809116-05:00.jpg">
+  <img src="https://archive.org/download/hwherald-2022/hwherald-2022-07-27T11:10:58.809116-05:00.jpg"
+     alt="Harvey World Herald at 2022-07-27 18:11:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-27T11:10:58.809116-05:00.jpg">July 27 at 6:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-27T09:31:44.135604-05:00.jpg">
   <img src="https://archive.org/download/hwherald-2022/hwherald-2022-07-27T09:31:44.135604-05:00.jpg"
-     alt="Harvey World Herald at 2022-07-27 09:31:46-05:00 local time"
+     alt="Harvey World Herald at 2022-07-27 16:31:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-27T09:31:44.135604-05:00.jpg">July 27 at 9:31 AM</a></p>
+ <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-27T09:31:44.135604-05:00.jpg">July 27 at 4:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-26T21:37:40.443486-05:00.jpg">
   <img src="https://archive.org/download/hwherald-2022/hwherald-2022-07-26T21:37:40.443486-05:00.jpg"
-     alt="Harvey World Herald at 2022-07-26 21:37:42-05:00 local time"
+     alt="Harvey World Herald at 2022-07-27 04:37:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-26T21:37:40.443486-05:00.jpg">July 26 at 9:37 PM</a></p>
+ <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-26T21:37:40.443486-05:00.jpg">July 27 at 4:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-26T10:59:59.626434-05:00.jpg">
   <img src="https://archive.org/download/hwherald-2022/hwherald-2022-07-26T10:59:59.626434-05:00.jpg"
-     alt="Harvey World Herald at 2022-07-26 11:00:00-05:00 local time"
+     alt="Harvey World Herald at 2022-07-26 18:00:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-26T10:59:59.626434-05:00.jpg">July 26 at 11:00 AM</a></p>
+ <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-26T10:59:59.626434-05:00.jpg">July 26 at 6:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-26T09:36:40.728330-05:00.jpg">
   <img src="https://archive.org/download/hwherald-2022/hwherald-2022-07-26T09:36:40.728330-05:00.jpg"
-     alt="Harvey World Herald at 2022-07-26 09:36:41-05:00 local time"
+     alt="Harvey World Herald at 2022-07-26 16:36:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-26T09:36:40.728330-05:00.jpg">July 26 at 9:36 AM</a></p>
+ <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-26T09:36:40.728330-05:00.jpg">July 26 at 4:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-25T21:45:00.395912-05:00.jpg">
   <img src="https://archive.org/download/hwherald-2022/hwherald-2022-07-25T21:45:00.395912-05:00.jpg"
-     alt="Harvey World Herald at 2022-07-25 21:45:02-05:00 local time"
+     alt="Harvey World Herald at 2022-07-26 04:45:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-25T21:45:00.395912-05:00.jpg">July 25 at 9:45 PM</a></p>
+ <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-25T21:45:00.395912-05:00.jpg">July 26 at 4:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-25T07:06:56.832562-05:00.jpg">
   <img src="https://archive.org/download/hwherald-2022/hwherald-2022-07-25T07:06:56.832562-05:00.jpg"
-     alt="Harvey World Herald at 2022-07-25 07:06:58-05:00 local time"
+     alt="Harvey World Herald at 2022-07-25 14:06:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-25T07:06:56.832562-05:00.jpg">July 25 at 7:06 AM</a></p>
+ <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-25T07:06:56.832562-05:00.jpg">July 25 at 2:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-24T20:11:54.557233-05:00.jpg">
   <img src="https://archive.org/download/hwherald-2022/hwherald-2022-07-24T20:11:54.557233-05:00.jpg"
-     alt="Harvey World Herald at 2022-07-24 20:11:55-05:00 local time"
+     alt="Harvey World Herald at 2022-07-25 03:11:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-24T20:11:54.557233-05:00.jpg">July 24 at 8:11 PM</a></p>
+ <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-24T20:11:54.557233-05:00.jpg">July 25 at 3:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-24T07:02:34.716681-05:00.jpg">
   <img src="https://archive.org/download/hwherald-2022/hwherald-2022-07-24T07:02:34.716681-05:00.jpg"
-     alt="Harvey World Herald at 2022-07-24 07:02:36-05:00 local time"
+     alt="Harvey World Herald at 2022-07-24 14:02:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-24T07:02:34.716681-05:00.jpg">July 24 at 7:02 AM</a></p>
+ <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-24T07:02:34.716681-05:00.jpg">July 24 at 2:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-24T01:33:47.676515-05:00.jpg">
   <img src="https://archive.org/download/hwherald-2022/hwherald-2022-07-24T01:33:47.676515-05:00.jpg"
-     alt="Harvey World Herald at 2022-07-24 01:33:50-05:00 local time"
+     alt="Harvey World Herald at 2022-07-24 08:33:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-24T01:33:47.676515-05:00.jpg">July 24 at 1:33 AM</a></p>
+ <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-24T01:33:47.676515-05:00.jpg">July 24 at 8:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-23T09:02:29.650383-05:00.jpg">
   <img src="https://archive.org/download/hwherald-2022/hwherald-2022-07-23T09:02:29.650383-05:00.jpg"
-     alt="Harvey World Herald at 2022-07-23 09:02:32-05:00 local time"
+     alt="Harvey World Herald at 2022-07-23 16:02:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-23T09:02:29.650383-05:00.jpg">July 23 at 9:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-22T21:28:55.260982-05:00.jpg">
-  <img src="https://archive.org/download/hwherald-2022/hwherald-2022-07-22T21:28:55.260982-05:00.jpg"
-     alt="Harvey World Herald at 2022-07-22 21:28:56-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-22T21:28:55.260982-05:00.jpg">July 22 at 9:28 PM</a></p>
+ <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-07-23T09:02:29.650383-05:00.jpg">July 23 at 4:02 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 38 hyperlink lists with the Internet Archive.
+The archiving routine has saved 39 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 11:11 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-27T11:10:58.809116-05:00.hyperlinks.json) |
-| [July 27 at 9:31 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-27T09:31:44.135604-05:00.hyperlinks.json) |
-| [July 26 at 9:37 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-26T21:37:40.443486-05:00.hyperlinks.json) |
-| [July 26 at 11:00 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-26T10:59:59.626434-05:00.hyperlinks.json) |
-| [July 26 at 9:36 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-26T09:36:40.728330-05:00.hyperlinks.json) |
-| [July 25 at 9:45 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-25T21:45:00.395912-05:00.hyperlinks.json) |
-| [July 25 at 7:07 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-25T07:06:56.832562-05:00.hyperlinks.json) |
-| [July 24 at 8:11 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-24T20:11:54.557233-05:00.hyperlinks.json) |
-| [July 24 at 7:02 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-24T07:02:34.716681-05:00.hyperlinks.json) |
-| [July 24 at 1:33 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-24T01:33:47.676515-05:00.hyperlinks.json) |
+| [July 28 at 4:38 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-27T21:38:43.996962-05:00.hyperlinks.json) |
+| [July 27 at 6:11 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-27T11:10:58.809116-05:00.hyperlinks.json) |
+| [July 27 at 4:31 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-27T09:31:44.135604-05:00.hyperlinks.json) |
+| [July 27 at 4:37 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-26T21:37:40.443486-05:00.hyperlinks.json) |
+| [July 26 at 6:00 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-26T10:59:59.626434-05:00.hyperlinks.json) |
+| [July 26 at 4:36 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-26T09:36:40.728330-05:00.hyperlinks.json) |
+| [July 26 at 4:45 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-25T21:45:00.395912-05:00.hyperlinks.json) |
+| [July 25 at 2:07 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-25T07:06:56.832562-05:00.hyperlinks.json) |
+| [July 25 at 3:11 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-24T20:11:54.557233-05:00.hyperlinks.json) |
+| [July 24 at 2:02 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-24T07:02:34.716681-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 38 accessibility trees with the Internet Archive.
+The archiving routine has saved 39 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,16 +419,39 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 11:11 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-27T11:10:58.809116-05:00.accessibility.json) |
-| [July 27 at 9:31 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-27T09:31:44.135604-05:00.accessibility.json) |
-| [July 26 at 9:37 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-26T21:37:40.443486-05:00.accessibility.json) |
-| [July 26 at 11:00 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-26T10:59:59.626434-05:00.accessibility.json) |
-| [July 26 at 9:36 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-26T09:36:40.728330-05:00.accessibility.json) |
-| [July 25 at 9:45 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-25T21:45:00.395912-05:00.accessibility.json) |
-| [July 25 at 7:06 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-25T07:06:56.832562-05:00.accessibility.json) |
-| [July 24 at 8:11 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-24T20:11:54.557233-05:00.accessibility.json) |
-| [July 24 at 7:02 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-24T07:02:34.716681-05:00.accessibility.json) |
-| [July 24 at 1:33 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-24T01:33:47.676515-05:00.accessibility.json) |
+| [July 28 at 4:38 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-27T21:38:43.996962-05:00.accessibility.json) |
+| [July 27 at 6:11 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-27T11:10:58.809116-05:00.accessibility.json) |
+| [July 27 at 4:31 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-27T09:31:44.135604-05:00.accessibility.json) |
+| [July 27 at 4:37 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-26T21:37:40.443486-05:00.accessibility.json) |
+| [July 26 at 6:00 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-26T10:59:59.626434-05:00.accessibility.json) |
+| [July 26 at 4:36 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-26T09:36:40.728330-05:00.accessibility.json) |
+| [July 26 at 4:45 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-25T21:45:00.395912-05:00.accessibility.json) |
+| [July 25 at 2:06 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-25T07:06:56.832562-05:00.accessibility.json) |
+| [July 25 at 3:11 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-24T20:11:54.557233-05:00.accessibility.json) |
+| [July 24 at 2:02 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-24T07:02:34.716681-05:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 27 at 6:11 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-27T11:10:58.809116-05:00.lighthouse.json) |
+| [July 27 at 4:31 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-27T09:31:44.135604-05:00.lighthouse.json) |
+| [July 27 at 4:37 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-26T21:37:40.443486-05:00.lighthouse.json) |
+| [July 26 at 6:00 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-26T10:59:59.626434-05:00.lighthouse.json) |
+| [July 26 at 4:36 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-26T09:36:40.728330-05:00.lighthouse.json) |
+| [July 26 at 4:45 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-25T21:45:00.395912-05:00.lighthouse.json) |
+| [July 25 at 2:07 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-25T07:06:56.832562-05:00.lighthouse.json) |
+| [July 25 at 3:11 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-24T20:11:54.557233-05:00.lighthouse.json) |
+| [July 24 at 2:02 PM](https://archive.org/download/hwherald-2022/hwherald-2022-07-24T07:02:34.716681-05:00.lighthouse.json) |
+| [July 24 at 8:33 AM](https://archive.org/download/hwherald-2022/hwherald-2022-07-24T01:33:47.676515-05:00.lighthouse.json) |
 
 
 

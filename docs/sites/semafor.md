@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 80 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/semafor-2022/semafor-2022-07-27T11:46:20.070885-04:00.jpg">
-  <img src="https://archive.org/download/semafor-2022/semafor-2022-07-27T11:46:20.070885-04:00.jpg"
-     alt="Semafor at 2022-07-27 11:46:21-04:00 local time"
+ <a href="https://archive.org/download/semafor-2022/semafor-2022-07-27T23:44:51.038307-04:00.jpg">
+  <img src="https://archive.org/download/semafor-2022/semafor-2022-07-27T23:44:51.038307-04:00.jpg"
+     alt="Semafor at 2022-07-28 06:44:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-27T11:46:20.070885-04:00.jpg">July 27 at 11:46 AM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-27T23:44:51.038307-04:00.jpg">July 28 at 6:44 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/semafor-2022/semafor-2022-07-27T11:46:20.070885-04:00.jpg">
+  <img src="https://archive.org/download/semafor-2022/semafor-2022-07-27T11:46:20.070885-04:00.jpg"
+     alt="Semafor at 2022-07-27 18:46:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-27T11:46:20.070885-04:00.jpg">July 27 at 6:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/semafor-2022/semafor-2022-07-26T23:53:43.205590-04:00.jpg">
   <img src="https://archive.org/download/semafor-2022/semafor-2022-07-26T23:53:43.205590-04:00.jpg"
-     alt="Semafor at 2022-07-26 23:53:44-04:00 local time"
+     alt="Semafor at 2022-07-27 06:53:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-26T23:53:43.205590-04:00.jpg">July 26 at 11:53 PM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-26T23:53:43.205590-04:00.jpg">July 27 at 6:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/semafor-2022/semafor-2022-07-26T11:45:19.998630-04:00.jpg">
   <img src="https://archive.org/download/semafor-2022/semafor-2022-07-26T11:45:19.998630-04:00.jpg"
-     alt="Semafor at 2022-07-26 11:45:21-04:00 local time"
+     alt="Semafor at 2022-07-26 18:45:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-26T11:45:19.998630-04:00.jpg">July 26 at 11:45 AM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-26T11:45:19.998630-04:00.jpg">July 26 at 6:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/semafor-2022/semafor-2022-07-25T23:56:57.920323-04:00.jpg">
   <img src="https://archive.org/download/semafor-2022/semafor-2022-07-25T23:56:57.920323-04:00.jpg"
-     alt="Semafor at 2022-07-25 23:57:00-04:00 local time"
+     alt="Semafor at 2022-07-26 06:57:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-25T23:56:57.920323-04:00.jpg">July 25 at 11:57 PM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-25T23:56:57.920323-04:00.jpg">July 26 at 6:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/semafor-2022/semafor-2022-07-25T11:42:05.911603-04:00.jpg">
   <img src="https://archive.org/download/semafor-2022/semafor-2022-07-25T11:42:05.911603-04:00.jpg"
-     alt="Semafor at 2022-07-25 11:42:08-04:00 local time"
+     alt="Semafor at 2022-07-25 18:42:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-25T11:42:05.911603-04:00.jpg">July 25 at 11:42 AM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-25T11:42:05.911603-04:00.jpg">July 25 at 6:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/semafor-2022/semafor-2022-07-24T23:43:19.519764-04:00.jpg">
   <img src="https://archive.org/download/semafor-2022/semafor-2022-07-24T23:43:19.519764-04:00.jpg"
-     alt="Semafor at 2022-07-24 23:43:21-04:00 local time"
+     alt="Semafor at 2022-07-25 06:43:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-24T23:43:19.519764-04:00.jpg">July 24 at 11:43 PM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-24T23:43:19.519764-04:00.jpg">July 25 at 6:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/semafor-2022/semafor-2022-07-24T10:03:58.299176-04:00.jpg">
   <img src="https://archive.org/download/semafor-2022/semafor-2022-07-24T10:03:58.299176-04:00.jpg"
-     alt="Semafor at 2022-07-24 10:04:00-04:00 local time"
+     alt="Semafor at 2022-07-24 17:04:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-24T10:03:58.299176-04:00.jpg">July 24 at 10:04 AM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-24T10:03:58.299176-04:00.jpg">July 24 at 5:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/semafor-2022/semafor-2022-07-24T02:23:05.818816-04:00.jpg">
   <img src="https://archive.org/download/semafor-2022/semafor-2022-07-24T02:23:05.818816-04:00.jpg"
-     alt="Semafor at 2022-07-24 02:23:07-04:00 local time"
+     alt="Semafor at 2022-07-24 09:23:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-24T02:23:05.818816-04:00.jpg">July 24 at 2:23 AM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-24T02:23:05.818816-04:00.jpg">July 24 at 9:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/semafor-2022/semafor-2022-07-23T12:01:44.967039-04:00.jpg">
   <img src="https://archive.org/download/semafor-2022/semafor-2022-07-23T12:01:44.967039-04:00.jpg"
-     alt="Semafor at 2022-07-23 12:01:46-04:00 local time"
+     alt="Semafor at 2022-07-23 19:01:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-23T12:01:44.967039-04:00.jpg">July 23 at 12:01 PM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-23T12:01:44.967039-04:00.jpg">July 23 at 7:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/semafor-2022/semafor-2022-07-23T00:21:59.242032-04:00.jpg">
   <img src="https://archive.org/download/semafor-2022/semafor-2022-07-23T00:21:59.242032-04:00.jpg"
-     alt="Semafor at 2022-07-23 00:22:00-04:00 local time"
+     alt="Semafor at 2022-07-23 07:22:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-23T00:21:59.242032-04:00.jpg">July 23 at 12:22 AM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-23T00:21:59.242032-04:00.jpg">July 23 at 7:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/semafor-2022/semafor-2022-07-22T12:14:53.430065-04:00.jpg">
   <img src="https://archive.org/download/semafor-2022/semafor-2022-07-22T12:14:53.430065-04:00.jpg"
-     alt="Semafor at 2022-07-22 12:14:55-04:00 local time"
+     alt="Semafor at 2022-07-22 19:14:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-22T12:14:53.430065-04:00.jpg">July 22 at 12:14 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/semafor-2022/semafor-2022-07-22T00:28:07.927668-04:00.jpg">
-  <img src="https://archive.org/download/semafor-2022/semafor-2022-07-22T00:28:07.927668-04:00.jpg"
-     alt="Semafor at 2022-07-22 00:28:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-22T00:28:07.927668-04:00.jpg">July 22 at 12:28 AM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-22T12:14:53.430065-04:00.jpg">July 22 at 7:14 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 82 hyperlink lists with the Internet Archive.
+The archiving routine has saved 83 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 11:46 AM](https://archive.org/download/semafor-2022/semafor-2022-07-27T11:46:20.070885-04:00.hyperlinks.json) |
-| [July 26 at 11:53 PM](https://archive.org/download/semafor-2022/semafor-2022-07-26T23:53:43.205590-04:00.hyperlinks.json) |
-| [July 26 at 11:45 AM](https://archive.org/download/semafor-2022/semafor-2022-07-26T11:45:19.998630-04:00.hyperlinks.json) |
-| [July 25 at 11:57 PM](https://archive.org/download/semafor-2022/semafor-2022-07-25T23:56:57.920323-04:00.hyperlinks.json) |
-| [July 25 at 11:42 AM](https://archive.org/download/semafor-2022/semafor-2022-07-25T11:42:05.911603-04:00.hyperlinks.json) |
-| [July 24 at 11:43 PM](https://archive.org/download/semafor-2022/semafor-2022-07-24T23:43:19.519764-04:00.hyperlinks.json) |
-| [July 24 at 10:04 AM](https://archive.org/download/semafor-2022/semafor-2022-07-24T10:03:58.299176-04:00.hyperlinks.json) |
-| [July 24 at 2:23 AM](https://archive.org/download/semafor-2022/semafor-2022-07-24T02:23:05.818816-04:00.hyperlinks.json) |
-| [July 23 at 12:01 PM](https://archive.org/download/semafor-2022/semafor-2022-07-23T12:01:44.967039-04:00.hyperlinks.json) |
-| [July 23 at 12:22 AM](https://archive.org/download/semafor-2022/semafor-2022-07-23T00:21:59.242032-04:00.hyperlinks.json) |
+| [July 28 at 6:44 AM](https://archive.org/download/semafor-2022/semafor-2022-07-27T23:44:51.038307-04:00.hyperlinks.json) |
+| [July 27 at 6:46 PM](https://archive.org/download/semafor-2022/semafor-2022-07-27T11:46:20.070885-04:00.hyperlinks.json) |
+| [July 27 at 6:53 AM](https://archive.org/download/semafor-2022/semafor-2022-07-26T23:53:43.205590-04:00.hyperlinks.json) |
+| [July 26 at 6:45 PM](https://archive.org/download/semafor-2022/semafor-2022-07-26T11:45:19.998630-04:00.hyperlinks.json) |
+| [July 26 at 6:57 AM](https://archive.org/download/semafor-2022/semafor-2022-07-25T23:56:57.920323-04:00.hyperlinks.json) |
+| [July 25 at 6:42 PM](https://archive.org/download/semafor-2022/semafor-2022-07-25T11:42:05.911603-04:00.hyperlinks.json) |
+| [July 25 at 6:43 AM](https://archive.org/download/semafor-2022/semafor-2022-07-24T23:43:19.519764-04:00.hyperlinks.json) |
+| [July 24 at 5:04 PM](https://archive.org/download/semafor-2022/semafor-2022-07-24T10:03:58.299176-04:00.hyperlinks.json) |
+| [July 24 at 9:23 AM](https://archive.org/download/semafor-2022/semafor-2022-07-24T02:23:05.818816-04:00.hyperlinks.json) |
+| [July 23 at 7:01 PM](https://archive.org/download/semafor-2022/semafor-2022-07-23T12:01:44.967039-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 82 accessibility trees with the Internet Archive.
+The archiving routine has saved 83 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,16 +419,38 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 11:46 AM](https://archive.org/download/semafor-2022/semafor-2022-07-27T11:46:20.070885-04:00.accessibility.json) |
-| [July 26 at 11:53 PM](https://archive.org/download/semafor-2022/semafor-2022-07-26T23:53:43.205590-04:00.accessibility.json) |
-| [July 26 at 11:45 AM](https://archive.org/download/semafor-2022/semafor-2022-07-26T11:45:19.998630-04:00.accessibility.json) |
-| [July 25 at 11:57 PM](https://archive.org/download/semafor-2022/semafor-2022-07-25T23:56:57.920323-04:00.accessibility.json) |
-| [July 25 at 11:42 AM](https://archive.org/download/semafor-2022/semafor-2022-07-25T11:42:05.911603-04:00.accessibility.json) |
-| [July 24 at 11:43 PM](https://archive.org/download/semafor-2022/semafor-2022-07-24T23:43:19.519764-04:00.accessibility.json) |
-| [July 24 at 10:04 AM](https://archive.org/download/semafor-2022/semafor-2022-07-24T10:03:58.299176-04:00.accessibility.json) |
-| [July 24 at 2:23 AM](https://archive.org/download/semafor-2022/semafor-2022-07-24T02:23:05.818816-04:00.accessibility.json) |
-| [July 23 at 12:01 PM](https://archive.org/download/semafor-2022/semafor-2022-07-23T12:01:44.967039-04:00.accessibility.json) |
-| [July 23 at 12:22 AM](https://archive.org/download/semafor-2022/semafor-2022-07-23T00:21:59.242032-04:00.accessibility.json) |
+| [July 28 at 6:44 AM](https://archive.org/download/semafor-2022/semafor-2022-07-27T23:44:51.038307-04:00.accessibility.json) |
+| [July 27 at 6:46 PM](https://archive.org/download/semafor-2022/semafor-2022-07-27T11:46:20.070885-04:00.accessibility.json) |
+| [July 27 at 6:53 AM](https://archive.org/download/semafor-2022/semafor-2022-07-26T23:53:43.205590-04:00.accessibility.json) |
+| [July 26 at 6:45 PM](https://archive.org/download/semafor-2022/semafor-2022-07-26T11:45:19.998630-04:00.accessibility.json) |
+| [July 26 at 6:57 AM](https://archive.org/download/semafor-2022/semafor-2022-07-25T23:56:57.920323-04:00.accessibility.json) |
+| [July 25 at 6:42 PM](https://archive.org/download/semafor-2022/semafor-2022-07-25T11:42:05.911603-04:00.accessibility.json) |
+| [July 25 at 6:43 AM](https://archive.org/download/semafor-2022/semafor-2022-07-24T23:43:19.519764-04:00.accessibility.json) |
+| [July 24 at 5:04 PM](https://archive.org/download/semafor-2022/semafor-2022-07-24T10:03:58.299176-04:00.accessibility.json) |
+| [July 24 at 9:23 AM](https://archive.org/download/semafor-2022/semafor-2022-07-24T02:23:05.818816-04:00.accessibility.json) |
+| [July 23 at 7:01 PM](https://archive.org/download/semafor-2022/semafor-2022-07-23T12:01:44.967039-04:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 6:44 AM](https://archive.org/download/semafor-2022/semafor-2022-07-27T23:44:51.038307-04:00.lighthouse.json) |
+| [July 27 at 6:46 PM](https://archive.org/download/semafor-2022/semafor-2022-07-27T11:46:20.070885-04:00.lighthouse.json) |
+| [July 27 at 6:53 AM](https://archive.org/download/semafor-2022/semafor-2022-07-26T23:53:43.205590-04:00.lighthouse.json) |
+| [July 26 at 6:45 PM](https://archive.org/download/semafor-2022/semafor-2022-07-26T11:45:19.998630-04:00.lighthouse.json) |
+| [July 26 at 6:57 AM](https://archive.org/download/semafor-2022/semafor-2022-07-25T23:56:57.920323-04:00.lighthouse.json) |
+| [July 25 at 6:42 PM](https://archive.org/download/semafor-2022/semafor-2022-07-25T11:42:05.911603-04:00.lighthouse.json) |
+| [July 25 at 6:43 AM](https://archive.org/download/semafor-2022/semafor-2022-07-24T23:43:19.519764-04:00.lighthouse.json) |
+| [July 24 at 5:04 PM](https://archive.org/download/semafor-2022/semafor-2022-07-24T10:03:58.299176-04:00.lighthouse.json) |
+| [July 24 at 9:23 AM](https://archive.org/download/semafor-2022/semafor-2022-07-24T02:23:05.818816-04:00.lighthouse.json) |
 
 
 

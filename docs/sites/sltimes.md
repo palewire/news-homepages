@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-27T19:12:16.864095-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-27T19:12:16.864095-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-27 19:12:18-05:00 local time"
+     alt="Storm Lake Times at 2022-07-28 02:12:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-27T19:12:16.864095-05:00.jpg">July 27 at 7:12 PM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-27T19:12:16.864095-05:00.jpg">July 28 at 2:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-27T11:09:03.314766-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-27T11:09:03.314766-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-27 11:09:04-05:00 local time"
+     alt="Storm Lake Times at 2022-07-27 18:09:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-27T11:09:03.314766-05:00.jpg">July 27 at 11:09 AM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-27T11:09:03.314766-05:00.jpg">July 27 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-27T08:16:17.035172-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-27T08:16:17.035172-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-27 08:16:18-05:00 local time"
+     alt="Storm Lake Times at 2022-07-27 15:16:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-27T08:16:17.035172-05:00.jpg">July 27 at 8:16 AM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-27T08:16:17.035172-05:00.jpg">July 27 at 3:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-26T19:20:17.914083-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-26T19:20:17.914083-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-26 19:20:22-05:00 local time"
+     alt="Storm Lake Times at 2022-07-27 02:20:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-26T19:20:17.914083-05:00.jpg">July 26 at 7:20 PM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-26T19:20:17.914083-05:00.jpg">July 27 at 2:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-26T07:30:01.925694-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-26T07:30:01.925694-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-26 07:30:03-05:00 local time"
+     alt="Storm Lake Times at 2022-07-26 14:30:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-26T07:30:01.925694-05:00.jpg">July 26 at 7:30 AM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-26T07:30:01.925694-05:00.jpg">July 26 at 2:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T19:25:10.318556-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T19:25:10.318556-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-25 19:25:13-05:00 local time"
+     alt="Storm Lake Times at 2022-07-26 02:25:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T19:25:10.318556-05:00.jpg">July 25 at 7:25 PM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T19:25:10.318556-05:00.jpg">July 26 at 2:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T11:39:54.176454-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T11:39:54.176454-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-25 11:39:55-05:00 local time"
+     alt="Storm Lake Times at 2022-07-25 18:39:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T11:39:54.176454-05:00.jpg">July 25 at 11:39 AM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T11:39:54.176454-05:00.jpg">July 25 at 6:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T10:42:34.878282-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T10:42:34.878282-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-25 10:42:37-05:00 local time"
+     alt="Storm Lake Times at 2022-07-25 17:42:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T10:42:34.878282-05:00.jpg">July 25 at 10:42 AM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-25T10:42:34.878282-05:00.jpg">July 25 at 5:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T22:43:51.662908-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T22:43:51.662908-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-24 22:43:53-05:00 local time"
+     alt="Storm Lake Times at 2022-07-25 05:43:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T22:43:51.662908-05:00.jpg">July 24 at 10:43 PM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T22:43:51.662908-05:00.jpg">July 25 at 5:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T09:04:48.076371-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T09:04:48.076371-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-24 09:04:49-05:00 local time"
+     alt="Storm Lake Times at 2022-07-24 16:04:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T09:04:48.076371-05:00.jpg">July 24 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T09:04:48.076371-05:00.jpg">July 24 at 4:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T01:23:14.446628-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T01:23:14.446628-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-24 01:23:16-05:00 local time"
+     alt="Storm Lake Times at 2022-07-24 08:23:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T01:23:14.446628-05:00.jpg">July 24 at 1:23 AM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-24T01:23:14.446628-05:00.jpg">July 24 at 8:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-23T11:02:04.671555-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-07-23T11:02:04.671555-05:00.jpg"
-     alt="Storm Lake Times at 2022-07-23 11:02:06-05:00 local time"
+     alt="Storm Lake Times at 2022-07-23 18:02:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-23T11:02:04.671555-05:00.jpg">July 23 at 11:02 AM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-07-23T11:02:04.671555-05:00.jpg">July 23 at 6:02 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 7:12 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-27T19:12:16.864095-05:00.hyperlinks.json) |
-| [July 27 at 11:09 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-27T11:09:03.314766-05:00.hyperlinks.json) |
-| [July 27 at 8:16 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-27T08:16:17.035172-05:00.hyperlinks.json) |
-| [July 26 at 7:20 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-26T19:20:17.914083-05:00.hyperlinks.json) |
-| [July 26 at 7:30 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-26T07:30:01.925694-05:00.hyperlinks.json) |
-| [July 25 at 7:25 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-25T19:25:10.318556-05:00.hyperlinks.json) |
-| [July 25 at 11:39 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-25T11:39:54.176454-05:00.hyperlinks.json) |
-| [July 25 at 10:42 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-25T10:42:34.878282-05:00.hyperlinks.json) |
-| [July 24 at 10:43 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-24T22:43:51.662908-05:00.hyperlinks.json) |
-| [July 24 at 9:04 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-24T09:04:48.076371-05:00.hyperlinks.json) |
+| [July 28 at 2:12 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-27T19:12:16.864095-05:00.hyperlinks.json) |
+| [July 27 at 6:09 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-27T11:09:03.314766-05:00.hyperlinks.json) |
+| [July 27 at 3:16 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-27T08:16:17.035172-05:00.hyperlinks.json) |
+| [July 27 at 2:20 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-26T19:20:17.914083-05:00.hyperlinks.json) |
+| [July 26 at 2:30 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-26T07:30:01.925694-05:00.hyperlinks.json) |
+| [July 26 at 2:25 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-25T19:25:10.318556-05:00.hyperlinks.json) |
+| [July 25 at 6:39 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-25T11:39:54.176454-05:00.hyperlinks.json) |
+| [July 25 at 5:42 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-25T10:42:34.878282-05:00.hyperlinks.json) |
+| [July 25 at 5:43 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-24T22:43:51.662908-05:00.hyperlinks.json) |
+| [July 24 at 4:04 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-24T09:04:48.076371-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,39 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 7:12 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-27T19:12:16.864095-05:00.accessibility.json) |
-| [July 27 at 11:09 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-27T11:09:03.314766-05:00.accessibility.json) |
-| [July 27 at 8:16 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-27T08:16:17.035172-05:00.accessibility.json) |
-| [July 26 at 7:20 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-26T19:20:17.914083-05:00.accessibility.json) |
-| [July 26 at 7:30 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-26T07:30:01.925694-05:00.accessibility.json) |
-| [July 25 at 7:25 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-25T19:25:10.318556-05:00.accessibility.json) |
-| [July 25 at 11:39 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-25T11:39:54.176454-05:00.accessibility.json) |
-| [July 25 at 10:42 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-25T10:42:34.878282-05:00.accessibility.json) |
-| [July 24 at 10:43 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-24T22:43:51.662908-05:00.accessibility.json) |
-| [July 24 at 9:04 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-24T09:04:48.076371-05:00.accessibility.json) |
+| [July 28 at 2:12 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-27T19:12:16.864095-05:00.accessibility.json) |
+| [July 27 at 6:09 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-27T11:09:03.314766-05:00.accessibility.json) |
+| [July 27 at 3:16 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-27T08:16:17.035172-05:00.accessibility.json) |
+| [July 27 at 2:20 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-26T19:20:17.914083-05:00.accessibility.json) |
+| [July 26 at 2:30 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-26T07:30:01.925694-05:00.accessibility.json) |
+| [July 26 at 2:25 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-25T19:25:10.318556-05:00.accessibility.json) |
+| [July 25 at 6:39 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-25T11:39:54.176454-05:00.accessibility.json) |
+| [July 25 at 5:42 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-25T10:42:34.878282-05:00.accessibility.json) |
+| [July 25 at 5:43 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-24T22:43:51.662908-05:00.accessibility.json) |
+| [July 24 at 4:04 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-24T09:04:48.076371-05:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 2:12 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-27T19:12:16.864095-05:00.lighthouse.json) |
+| [July 27 at 6:09 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-27T11:09:03.314766-05:00.lighthouse.json) |
+| [July 27 at 3:16 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-27T08:16:17.035172-05:00.lighthouse.json) |
+| [July 27 at 2:20 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-26T19:20:17.914083-05:00.lighthouse.json) |
+| [July 26 at 2:30 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-26T07:30:01.925694-05:00.lighthouse.json) |
+| [July 26 at 2:25 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-25T19:25:10.318556-05:00.lighthouse.json) |
+| [July 25 at 6:40 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-25T11:39:54.176454-05:00.lighthouse.json) |
+| [July 25 at 5:42 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-25T10:42:34.878282-05:00.lighthouse.json) |
+| [July 25 at 5:43 AM](https://archive.org/download/sltimes-2022/sltimes-2022-07-24T22:43:51.662908-05:00.lighthouse.json) |
+| [July 24 at 4:04 PM](https://archive.org/download/sltimes-2022/sltimes-2022-07-24T09:04:48.076371-05:00.lighthouse.json) |
 
 
 

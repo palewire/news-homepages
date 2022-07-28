@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 219 screenshots with the Internet Archive.
+The archiving routine has saved 220 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/drudge-2022/drudge-2022-07-27T19:07:01.339387-04:00.jpg">
-  <img src="https://archive.org/download/drudge-2022/drudge-2022-07-27T19:07:01.339387-04:00.jpg"
-     alt="Drudge Report at 2022-07-27 19:07:05-04:00 local time"
+ <a href="https://archive.org/download/drudge-2022/drudge-2022-07-28T07:10:42.339090-04:00.jpg">
+  <img src="https://archive.org/download/drudge-2022/drudge-2022-07-28T07:10:42.339090-04:00.jpg"
+     alt="Drudge Report at 2022-07-28 14:10:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-27T19:07:01.339387-04:00.jpg">July 27 at 7:07 PM</a></p>
+ <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-28T07:10:42.339090-04:00.jpg">July 28 at 2:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/drudge-2022/drudge-2022-07-27T19:07:01.339387-04:00.jpg">
+  <img src="https://archive.org/download/drudge-2022/drudge-2022-07-27T19:07:01.339387-04:00.jpg"
+     alt="Drudge Report at 2022-07-28 02:07:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-27T19:07:01.339387-04:00.jpg">July 28 at 2:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/drudge-2022/drudge-2022-07-27T07:07:09.014806-04:00.jpg">
   <img src="https://archive.org/download/drudge-2022/drudge-2022-07-27T07:07:09.014806-04:00.jpg"
-     alt="Drudge Report at 2022-07-27 07:07:10-04:00 local time"
+     alt="Drudge Report at 2022-07-27 14:07:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-27T07:07:09.014806-04:00.jpg">July 27 at 7:07 AM</a></p>
+ <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-27T07:07:09.014806-04:00.jpg">July 27 at 2:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/drudge-2022/drudge-2022-07-26T19:08:38.133279-04:00.jpg">
   <img src="https://archive.org/download/drudge-2022/drudge-2022-07-26T19:08:38.133279-04:00.jpg"
-     alt="Drudge Report at 2022-07-26 19:08:40-04:00 local time"
+     alt="Drudge Report at 2022-07-27 02:08:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-26T19:08:38.133279-04:00.jpg">July 26 at 7:08 PM</a></p>
+ <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-26T19:08:38.133279-04:00.jpg">July 27 at 2:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/drudge-2022/drudge-2022-07-26T14:34:50.241026-04:00.jpg">
   <img src="https://archive.org/download/drudge-2022/drudge-2022-07-26T14:34:50.241026-04:00.jpg"
-     alt="Drudge Report at 2022-07-26 14:34:52-04:00 local time"
+     alt="Drudge Report at 2022-07-26 21:34:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-26T14:34:50.241026-04:00.jpg">July 26 at 2:34 PM</a></p>
+ <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-26T14:34:50.241026-04:00.jpg">July 26 at 9:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/drudge-2022/drudge-2022-07-26T07:16:21.691448-04:00.jpg">
   <img src="https://archive.org/download/drudge-2022/drudge-2022-07-26T07:16:21.691448-04:00.jpg"
-     alt="Drudge Report at 2022-07-26 07:16:23-04:00 local time"
+     alt="Drudge Report at 2022-07-26 14:16:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-26T07:16:21.691448-04:00.jpg">July 26 at 7:16 AM</a></p>
+ <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-26T07:16:21.691448-04:00.jpg">July 26 at 2:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/drudge-2022/drudge-2022-07-25T19:12:59.679099-04:00.jpg">
   <img src="https://archive.org/download/drudge-2022/drudge-2022-07-25T19:12:59.679099-04:00.jpg"
-     alt="Drudge Report at 2022-07-25 19:13:01-04:00 local time"
+     alt="Drudge Report at 2022-07-26 02:13:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-25T19:12:59.679099-04:00.jpg">July 25 at 7:13 PM</a></p>
+ <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-25T19:12:59.679099-04:00.jpg">July 26 at 2:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/drudge-2022/drudge-2022-07-25T14:38:34.512022-04:00.jpg">
   <img src="https://archive.org/download/drudge-2022/drudge-2022-07-25T14:38:34.512022-04:00.jpg"
-     alt="Drudge Report at 2022-07-25 14:38:35-04:00 local time"
+     alt="Drudge Report at 2022-07-25 21:38:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-25T14:38:34.512022-04:00.jpg">July 25 at 2:38 PM</a></p>
+ <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-25T14:38:34.512022-04:00.jpg">July 25 at 9:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/drudge-2022/drudge-2022-07-25T12:40:46.235953-04:00.jpg">
   <img src="https://archive.org/download/drudge-2022/drudge-2022-07-25T12:40:46.235953-04:00.jpg"
-     alt="Drudge Report at 2022-07-25 12:40:47-04:00 local time"
+     alt="Drudge Report at 2022-07-25 19:40:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-25T12:40:46.235953-04:00.jpg">July 25 at 12:40 PM</a></p>
+ <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-25T12:40:46.235953-04:00.jpg">July 25 at 7:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/drudge-2022/drudge-2022-07-25T08:00:29.845634-04:00.jpg">
   <img src="https://archive.org/download/drudge-2022/drudge-2022-07-25T08:00:29.845634-04:00.jpg"
-     alt="Drudge Report at 2022-07-25 08:00:34-04:00 local time"
+     alt="Drudge Report at 2022-07-25 15:00:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-25T08:00:29.845634-04:00.jpg">July 25 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-25T08:00:29.845634-04:00.jpg">July 25 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/drudge-2022/drudge-2022-07-24T21:01:10.514179-04:00.jpg">
   <img src="https://archive.org/download/drudge-2022/drudge-2022-07-24T21:01:10.514179-04:00.jpg"
-     alt="Drudge Report at 2022-07-24 21:01:12-04:00 local time"
+     alt="Drudge Report at 2022-07-25 04:01:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-24T21:01:10.514179-04:00.jpg">July 24 at 9:01 PM</a></p>
+ <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-24T21:01:10.514179-04:00.jpg">July 25 at 4:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/drudge-2022/drudge-2022-07-24T11:44:22.428869-04:00.jpg">
   <img src="https://archive.org/download/drudge-2022/drudge-2022-07-24T11:44:22.428869-04:00.jpg"
-     alt="Drudge Report at 2022-07-24 11:44:27-04:00 local time"
+     alt="Drudge Report at 2022-07-24 18:44:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-24T11:44:22.428869-04:00.jpg">July 24 at 11:44 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/drudge-2022/drudge-2022-07-24T07:57:23.779385-04:00.jpg">
-  <img src="https://archive.org/download/drudge-2022/drudge-2022-07-24T07:57:23.779385-04:00.jpg"
-     alt="Drudge Report at 2022-07-24 07:57:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-24T07:57:23.779385-04:00.jpg">July 24 at 7:57 AM</a></p>
+ <p><a href="https://archive.org/download/drudge-2022/drudge-2022-07-24T11:44:22.428869-04:00.jpg">July 24 at 6:44 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 212 hyperlink lists with the Internet Archive.
+The archiving routine has saved 213 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 7:07 PM](https://archive.org/download/drudge-2022/drudge-2022-07-27T19:07:01.339387-04:00.hyperlinks.json) |
-| [July 27 at 7:07 AM](https://archive.org/download/drudge-2022/drudge-2022-07-27T07:07:09.014806-04:00.hyperlinks.json) |
-| [July 26 at 7:08 PM](https://archive.org/download/drudge-2022/drudge-2022-07-26T19:08:38.133279-04:00.hyperlinks.json) |
-| [July 26 at 2:34 PM](https://archive.org/download/drudge-2022/drudge-2022-07-26T14:34:50.241026-04:00.hyperlinks.json) |
-| [July 26 at 7:16 AM](https://archive.org/download/drudge-2022/drudge-2022-07-26T07:16:21.691448-04:00.hyperlinks.json) |
-| [July 25 at 7:13 PM](https://archive.org/download/drudge-2022/drudge-2022-07-25T19:12:59.679099-04:00.hyperlinks.json) |
-| [July 25 at 2:38 PM](https://archive.org/download/drudge-2022/drudge-2022-07-25T14:38:34.512022-04:00.hyperlinks.json) |
-| [July 25 at 12:40 PM](https://archive.org/download/drudge-2022/drudge-2022-07-25T12:40:46.235953-04:00.hyperlinks.json) |
-| [July 25 at 8:00 AM](https://archive.org/download/drudge-2022/drudge-2022-07-25T08:00:29.845634-04:00.hyperlinks.json) |
-| [July 24 at 9:01 PM](https://archive.org/download/drudge-2022/drudge-2022-07-24T21:01:10.514179-04:00.hyperlinks.json) |
+| [July 28 at 2:10 PM](https://archive.org/download/drudge-2022/drudge-2022-07-28T07:10:42.339090-04:00.hyperlinks.json) |
+| [July 28 at 2:07 AM](https://archive.org/download/drudge-2022/drudge-2022-07-27T19:07:01.339387-04:00.hyperlinks.json) |
+| [July 27 at 2:07 PM](https://archive.org/download/drudge-2022/drudge-2022-07-27T07:07:09.014806-04:00.hyperlinks.json) |
+| [July 27 at 2:08 AM](https://archive.org/download/drudge-2022/drudge-2022-07-26T19:08:38.133279-04:00.hyperlinks.json) |
+| [July 26 at 9:34 PM](https://archive.org/download/drudge-2022/drudge-2022-07-26T14:34:50.241026-04:00.hyperlinks.json) |
+| [July 26 at 2:16 PM](https://archive.org/download/drudge-2022/drudge-2022-07-26T07:16:21.691448-04:00.hyperlinks.json) |
+| [July 26 at 2:13 AM](https://archive.org/download/drudge-2022/drudge-2022-07-25T19:12:59.679099-04:00.hyperlinks.json) |
+| [July 25 at 9:38 PM](https://archive.org/download/drudge-2022/drudge-2022-07-25T14:38:34.512022-04:00.hyperlinks.json) |
+| [July 25 at 7:40 PM](https://archive.org/download/drudge-2022/drudge-2022-07-25T12:40:46.235953-04:00.hyperlinks.json) |
+| [July 25 at 3:00 PM](https://archive.org/download/drudge-2022/drudge-2022-07-25T08:00:29.845634-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 210 accessibility trees with the Internet Archive.
+The archiving routine has saved 211 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,16 +419,39 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 7:07 PM](https://archive.org/download/drudge-2022/drudge-2022-07-27T19:07:01.339387-04:00.accessibility.json) |
-| [July 27 at 7:07 AM](https://archive.org/download/drudge-2022/drudge-2022-07-27T07:07:09.014806-04:00.accessibility.json) |
-| [July 26 at 7:08 PM](https://archive.org/download/drudge-2022/drudge-2022-07-26T19:08:38.133279-04:00.accessibility.json) |
-| [July 26 at 2:34 PM](https://archive.org/download/drudge-2022/drudge-2022-07-26T14:34:50.241026-04:00.accessibility.json) |
-| [July 26 at 7:16 AM](https://archive.org/download/drudge-2022/drudge-2022-07-26T07:16:21.691448-04:00.accessibility.json) |
-| [July 25 at 7:13 PM](https://archive.org/download/drudge-2022/drudge-2022-07-25T19:12:59.679099-04:00.accessibility.json) |
-| [July 25 at 2:38 PM](https://archive.org/download/drudge-2022/drudge-2022-07-25T14:38:34.512022-04:00.accessibility.json) |
-| [July 25 at 12:40 PM](https://archive.org/download/drudge-2022/drudge-2022-07-25T12:40:46.235953-04:00.accessibility.json) |
-| [July 25 at 8:00 AM](https://archive.org/download/drudge-2022/drudge-2022-07-25T08:00:29.845634-04:00.accessibility.json) |
-| [July 24 at 9:01 PM](https://archive.org/download/drudge-2022/drudge-2022-07-24T21:01:10.514179-04:00.accessibility.json) |
+| [July 28 at 2:10 PM](https://archive.org/download/drudge-2022/drudge-2022-07-28T07:10:42.339090-04:00.accessibility.json) |
+| [July 28 at 2:07 AM](https://archive.org/download/drudge-2022/drudge-2022-07-27T19:07:01.339387-04:00.accessibility.json) |
+| [July 27 at 2:07 PM](https://archive.org/download/drudge-2022/drudge-2022-07-27T07:07:09.014806-04:00.accessibility.json) |
+| [July 27 at 2:08 AM](https://archive.org/download/drudge-2022/drudge-2022-07-26T19:08:38.133279-04:00.accessibility.json) |
+| [July 26 at 9:34 PM](https://archive.org/download/drudge-2022/drudge-2022-07-26T14:34:50.241026-04:00.accessibility.json) |
+| [July 26 at 2:16 PM](https://archive.org/download/drudge-2022/drudge-2022-07-26T07:16:21.691448-04:00.accessibility.json) |
+| [July 26 at 2:13 AM](https://archive.org/download/drudge-2022/drudge-2022-07-25T19:12:59.679099-04:00.accessibility.json) |
+| [July 25 at 9:38 PM](https://archive.org/download/drudge-2022/drudge-2022-07-25T14:38:34.512022-04:00.accessibility.json) |
+| [July 25 at 7:40 PM](https://archive.org/download/drudge-2022/drudge-2022-07-25T12:40:46.235953-04:00.accessibility.json) |
+| [July 25 at 3:00 PM](https://archive.org/download/drudge-2022/drudge-2022-07-25T08:00:29.845634-04:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 2:10 PM](https://archive.org/download/drudge-2022/drudge-2022-07-28T07:10:42.339090-04:00.lighthouse.json) |
+| [July 28 at 2:07 AM](https://archive.org/download/drudge-2022/drudge-2022-07-27T19:07:01.339387-04:00.lighthouse.json) |
+| [July 27 at 2:07 PM](https://archive.org/download/drudge-2022/drudge-2022-07-27T07:07:09.014806-04:00.lighthouse.json) |
+| [July 27 at 2:08 AM](https://archive.org/download/drudge-2022/drudge-2022-07-26T19:08:38.133279-04:00.lighthouse.json) |
+| [July 26 at 9:34 PM](https://archive.org/download/drudge-2022/drudge-2022-07-26T14:34:50.241026-04:00.lighthouse.json) |
+| [July 26 at 2:16 PM](https://archive.org/download/drudge-2022/drudge-2022-07-26T07:16:21.691448-04:00.lighthouse.json) |
+| [July 26 at 2:13 AM](https://archive.org/download/drudge-2022/drudge-2022-07-25T19:12:59.679099-04:00.lighthouse.json) |
+| [July 25 at 9:38 PM](https://archive.org/download/drudge-2022/drudge-2022-07-25T14:38:34.512022-04:00.lighthouse.json) |
+| [July 25 at 7:40 PM](https://archive.org/download/drudge-2022/drudge-2022-07-25T12:40:46.235953-04:00.lighthouse.json) |
+| [July 25 at 3:00 PM](https://archive.org/download/drudge-2022/drudge-2022-07-25T08:00:29.845634-04:00.lighthouse.json) |
 
 
 

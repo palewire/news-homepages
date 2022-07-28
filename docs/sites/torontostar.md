@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 73 screenshots with the Internet Archive.
+The archiving routine has saved 74 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-27T11:49:31.644328-04:00.jpg">
-  <img src="https://archive.org/download/torontostar-2022/torontostar-2022-07-27T11:49:31.644328-04:00.jpg"
-     alt="Toronto Star at 2022-07-27 11:49:33-04:00 local time"
+ <a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-27T23:48:15.616825-04:00.jpg">
+  <img src="https://archive.org/download/torontostar-2022/torontostar-2022-07-27T23:48:15.616825-04:00.jpg"
+     alt="Toronto Star at 2022-07-28 06:48:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-27T11:49:31.644328-04:00.jpg">July 27 at 11:49 AM</a></p>
+ <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-27T23:48:15.616825-04:00.jpg">July 28 at 6:48 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-27T11:49:31.644328-04:00.jpg">
+  <img src="https://archive.org/download/torontostar-2022/torontostar-2022-07-27T11:49:31.644328-04:00.jpg"
+     alt="Toronto Star at 2022-07-27 18:49:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-27T11:49:31.644328-04:00.jpg">July 27 at 6:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-26T23:57:07.971503-04:00.jpg">
   <img src="https://archive.org/download/torontostar-2022/torontostar-2022-07-26T23:57:07.971503-04:00.jpg"
-     alt="Toronto Star at 2022-07-26 23:57:09-04:00 local time"
+     alt="Toronto Star at 2022-07-27 06:57:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-26T23:57:07.971503-04:00.jpg">July 26 at 11:57 PM</a></p>
+ <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-26T23:57:07.971503-04:00.jpg">July 27 at 6:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-26T11:48:13.766223-04:00.jpg">
   <img src="https://archive.org/download/torontostar-2022/torontostar-2022-07-26T11:48:13.766223-04:00.jpg"
-     alt="Toronto Star at 2022-07-26 11:48:16-04:00 local time"
+     alt="Toronto Star at 2022-07-26 18:48:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-26T11:48:13.766223-04:00.jpg">July 26 at 11:48 AM</a></p>
+ <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-26T11:48:13.766223-04:00.jpg">July 26 at 6:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-26T00:00:33.403710-04:00.jpg">
   <img src="https://archive.org/download/torontostar-2022/torontostar-2022-07-26T00:00:33.403710-04:00.jpg"
-     alt="Toronto Star at 2022-07-26 00:00:34-04:00 local time"
+     alt="Toronto Star at 2022-07-26 07:00:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-26T00:00:33.403710-04:00.jpg">July 26 at 12:00 AM</a></p>
+ <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-26T00:00:33.403710-04:00.jpg">July 26 at 7:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-25T11:49:04.114617-04:00.jpg">
   <img src="https://archive.org/download/torontostar-2022/torontostar-2022-07-25T11:49:04.114617-04:00.jpg"
-     alt="Toronto Star at 2022-07-25 11:49:05-04:00 local time"
+     alt="Toronto Star at 2022-07-25 18:49:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-25T11:49:04.114617-04:00.jpg">July 25 at 11:49 AM</a></p>
+ <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-25T11:49:04.114617-04:00.jpg">July 25 at 6:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-25T00:38:33.046768-04:00.jpg">
   <img src="https://archive.org/download/torontostar-2022/torontostar-2022-07-25T00:38:33.046768-04:00.jpg"
-     alt="Toronto Star at 2022-07-25 00:38:35-04:00 local time"
+     alt="Toronto Star at 2022-07-25 07:38:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-25T00:38:33.046768-04:00.jpg">July 25 at 12:38 AM</a></p>
+ <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-25T00:38:33.046768-04:00.jpg">July 25 at 7:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-24T11:08:45.556194-04:00.jpg">
   <img src="https://archive.org/download/torontostar-2022/torontostar-2022-07-24T11:08:45.556194-04:00.jpg"
-     alt="Toronto Star at 2022-07-24 11:08:48-04:00 local time"
+     alt="Toronto Star at 2022-07-24 18:08:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-24T11:08:45.556194-04:00.jpg">July 24 at 11:08 AM</a></p>
+ <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-24T11:08:45.556194-04:00.jpg">July 24 at 6:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-23T23:44:13.590425-04:00.jpg">
   <img src="https://archive.org/download/torontostar-2022/torontostar-2022-07-23T23:44:13.590425-04:00.jpg"
-     alt="Toronto Star at 2022-07-23 23:44:15-04:00 local time"
+     alt="Toronto Star at 2022-07-24 06:44:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-23T23:44:13.590425-04:00.jpg">July 23 at 11:44 PM</a></p>
+ <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-23T23:44:13.590425-04:00.jpg">July 24 at 6:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-23T12:06:42.956952-04:00.jpg">
   <img src="https://archive.org/download/torontostar-2022/torontostar-2022-07-23T12:06:42.956952-04:00.jpg"
-     alt="Toronto Star at 2022-07-23 12:06:45-04:00 local time"
+     alt="Toronto Star at 2022-07-23 19:06:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-23T12:06:42.956952-04:00.jpg">July 23 at 12:06 PM</a></p>
+ <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-23T12:06:42.956952-04:00.jpg">July 23 at 7:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-23T00:26:55.068476-04:00.jpg">
   <img src="https://archive.org/download/torontostar-2022/torontostar-2022-07-23T00:26:55.068476-04:00.jpg"
-     alt="Toronto Star at 2022-07-23 00:26:57-04:00 local time"
+     alt="Toronto Star at 2022-07-23 07:26:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-23T00:26:55.068476-04:00.jpg">July 23 at 12:26 AM</a></p>
+ <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-23T00:26:55.068476-04:00.jpg">July 23 at 7:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-22T12:19:48.677689-04:00.jpg">
   <img src="https://archive.org/download/torontostar-2022/torontostar-2022-07-22T12:19:48.677689-04:00.jpg"
-     alt="Toronto Star at 2022-07-22 12:19:49-04:00 local time"
+     alt="Toronto Star at 2022-07-22 19:19:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-22T12:19:48.677689-04:00.jpg">July 22 at 12:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-22T00:33:32.705409-04:00.jpg">
-  <img src="https://archive.org/download/torontostar-2022/torontostar-2022-07-22T00:33:32.705409-04:00.jpg"
-     alt="Toronto Star at 2022-07-22 00:33:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-22T00:33:32.705409-04:00.jpg">July 22 at 12:33 AM</a></p>
+ <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-07-22T12:19:48.677689-04:00.jpg">July 22 at 7:19 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 73 hyperlink lists with the Internet Archive.
+The archiving routine has saved 74 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 11:49 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-27T11:49:31.644328-04:00.hyperlinks.json) |
-| [July 26 at 11:57 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-26T23:57:07.971503-04:00.hyperlinks.json) |
-| [July 26 at 11:48 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-26T11:48:13.766223-04:00.hyperlinks.json) |
-| [July 26 at 12:00 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-26T00:00:33.403710-04:00.hyperlinks.json) |
-| [July 25 at 11:49 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-25T11:49:04.114617-04:00.hyperlinks.json) |
-| [July 25 at 12:38 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-25T00:38:33.046768-04:00.hyperlinks.json) |
-| [July 24 at 11:08 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-24T11:08:45.556194-04:00.hyperlinks.json) |
-| [July 23 at 11:44 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-23T23:44:13.590425-04:00.hyperlinks.json) |
-| [July 23 at 12:06 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-23T12:06:42.956952-04:00.hyperlinks.json) |
-| [July 23 at 12:27 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-23T00:26:55.068476-04:00.hyperlinks.json) |
+| [July 28 at 6:48 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-27T23:48:15.616825-04:00.hyperlinks.json) |
+| [July 27 at 6:49 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-27T11:49:31.644328-04:00.hyperlinks.json) |
+| [July 27 at 6:57 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-26T23:57:07.971503-04:00.hyperlinks.json) |
+| [July 26 at 6:48 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-26T11:48:13.766223-04:00.hyperlinks.json) |
+| [July 26 at 7:00 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-26T00:00:33.403710-04:00.hyperlinks.json) |
+| [July 25 at 6:49 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-25T11:49:04.114617-04:00.hyperlinks.json) |
+| [July 25 at 7:38 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-25T00:38:33.046768-04:00.hyperlinks.json) |
+| [July 24 at 6:08 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-24T11:08:45.556194-04:00.hyperlinks.json) |
+| [July 24 at 6:44 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-23T23:44:13.590425-04:00.hyperlinks.json) |
+| [July 23 at 7:06 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-23T12:06:42.956952-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 73 accessibility trees with the Internet Archive.
+The archiving routine has saved 74 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,16 +419,38 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 11:49 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-27T11:49:31.644328-04:00.accessibility.json) |
-| [July 26 at 11:57 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-26T23:57:07.971503-04:00.accessibility.json) |
-| [July 26 at 11:48 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-26T11:48:13.766223-04:00.accessibility.json) |
-| [July 26 at 12:00 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-26T00:00:33.403710-04:00.accessibility.json) |
-| [July 25 at 11:49 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-25T11:49:04.114617-04:00.accessibility.json) |
-| [July 25 at 12:38 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-25T00:38:33.046768-04:00.accessibility.json) |
-| [July 24 at 11:08 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-24T11:08:45.556194-04:00.accessibility.json) |
-| [July 23 at 11:44 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-23T23:44:13.590425-04:00.accessibility.json) |
-| [July 23 at 12:06 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-23T12:06:42.956952-04:00.accessibility.json) |
-| [July 23 at 12:26 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-23T00:26:55.068476-04:00.accessibility.json) |
+| [July 28 at 6:48 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-27T23:48:15.616825-04:00.accessibility.json) |
+| [July 27 at 6:49 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-27T11:49:31.644328-04:00.accessibility.json) |
+| [July 27 at 6:57 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-26T23:57:07.971503-04:00.accessibility.json) |
+| [July 26 at 6:48 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-26T11:48:13.766223-04:00.accessibility.json) |
+| [July 26 at 7:00 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-26T00:00:33.403710-04:00.accessibility.json) |
+| [July 25 at 6:49 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-25T11:49:04.114617-04:00.accessibility.json) |
+| [July 25 at 7:38 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-25T00:38:33.046768-04:00.accessibility.json) |
+| [July 24 at 6:08 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-24T11:08:45.556194-04:00.accessibility.json) |
+| [July 24 at 6:44 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-23T23:44:13.590425-04:00.accessibility.json) |
+| [July 23 at 7:06 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-23T12:06:42.956952-04:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 6:48 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-27T23:48:15.616825-04:00.lighthouse.json) |
+| [July 27 at 6:49 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-27T11:49:31.644328-04:00.lighthouse.json) |
+| [July 27 at 6:57 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-26T23:57:07.971503-04:00.lighthouse.json) |
+| [July 26 at 6:48 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-26T11:48:13.766223-04:00.lighthouse.json) |
+| [July 26 at 7:00 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-26T00:00:33.403710-04:00.lighthouse.json) |
+| [July 25 at 6:49 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-25T11:49:04.114617-04:00.lighthouse.json) |
+| [July 25 at 7:38 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-25T00:38:33.046768-04:00.lighthouse.json) |
+| [July 24 at 6:08 PM](https://archive.org/download/torontostar-2022/torontostar-2022-07-24T11:08:45.556194-04:00.lighthouse.json) |
+| [July 24 at 6:44 AM](https://archive.org/download/torontostar-2022/torontostar-2022-07-23T23:44:13.590425-04:00.lighthouse.json) |
 
 
 

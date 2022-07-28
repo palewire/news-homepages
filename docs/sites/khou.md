@@ -31,109 +31,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/khou-2022/khou-2022-07-27T19:04:20.326438-05:00.jpg">
   <img src="https://archive.org/download/khou-2022/khou-2022-07-27T19:04:20.326438-05:00.jpg"
-     alt="KHOU at 2022-07-27 19:04:22-05:00 local time"
+     alt="KHOU at 2022-07-28 02:04:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khou-2022/khou-2022-07-27T19:04:20.326438-05:00.jpg">July 27 at 7:04 PM</a></p>
+ <p><a href="https://archive.org/download/khou-2022/khou-2022-07-27T19:04:20.326438-05:00.jpg">July 28 at 2:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khou-2022/khou-2022-07-27T08:08:16.930576-05:00.jpg">
   <img src="https://archive.org/download/khou-2022/khou-2022-07-27T08:08:16.930576-05:00.jpg"
-     alt="KHOU at 2022-07-27 08:08:19-05:00 local time"
+     alt="KHOU at 2022-07-27 15:08:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khou-2022/khou-2022-07-27T08:08:16.930576-05:00.jpg">July 27 at 8:08 AM</a></p>
+ <p><a href="https://archive.org/download/khou-2022/khou-2022-07-27T08:08:16.930576-05:00.jpg">July 27 at 3:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khou-2022/khou-2022-07-26T19:12:39.851316-05:00.jpg">
   <img src="https://archive.org/download/khou-2022/khou-2022-07-26T19:12:39.851316-05:00.jpg"
-     alt="KHOU at 2022-07-26 19:12:43-05:00 local time"
+     alt="KHOU at 2022-07-27 02:12:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khou-2022/khou-2022-07-26T19:12:39.851316-05:00.jpg">July 26 at 7:12 PM</a></p>
+ <p><a href="https://archive.org/download/khou-2022/khou-2022-07-26T19:12:39.851316-05:00.jpg">July 27 at 2:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khou-2022/khou-2022-07-26T07:21:54.329890-05:00.jpg">
   <img src="https://archive.org/download/khou-2022/khou-2022-07-26T07:21:54.329890-05:00.jpg"
-     alt="KHOU at 2022-07-26 07:21:58-05:00 local time"
+     alt="KHOU at 2022-07-26 14:21:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khou-2022/khou-2022-07-26T07:21:54.329890-05:00.jpg">July 26 at 7:21 AM</a></p>
+ <p><a href="https://archive.org/download/khou-2022/khou-2022-07-26T07:21:54.329890-05:00.jpg">July 26 at 2:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khou-2022/khou-2022-07-25T19:17:10.099262-05:00.jpg">
   <img src="https://archive.org/download/khou-2022/khou-2022-07-25T19:17:10.099262-05:00.jpg"
-     alt="KHOU at 2022-07-25 19:17:12-05:00 local time"
+     alt="KHOU at 2022-07-26 02:17:12-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khou-2022/khou-2022-07-25T19:17:10.099262-05:00.jpg">July 25 at 7:17 PM</a></p>
+ <p><a href="https://archive.org/download/khou-2022/khou-2022-07-25T19:17:10.099262-05:00.jpg">July 26 at 2:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khou-2022/khou-2022-07-25T08:11:00.063082-05:00.jpg">
   <img src="https://archive.org/download/khou-2022/khou-2022-07-25T08:11:00.063082-05:00.jpg"
-     alt="KHOU at 2022-07-25 08:11:01-05:00 local time"
+     alt="KHOU at 2022-07-25 15:11:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khou-2022/khou-2022-07-25T08:11:00.063082-05:00.jpg">July 25 at 8:11 AM</a></p>
+ <p><a href="https://archive.org/download/khou-2022/khou-2022-07-25T08:11:00.063082-05:00.jpg">July 25 at 3:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khou-2022/khou-2022-07-24T22:26:12.246341-05:00.jpg">
   <img src="https://archive.org/download/khou-2022/khou-2022-07-24T22:26:12.246341-05:00.jpg"
-     alt="KHOU at 2022-07-24 22:26:13-05:00 local time"
+     alt="KHOU at 2022-07-25 05:26:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khou-2022/khou-2022-07-24T22:26:12.246341-05:00.jpg">July 24 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/khou-2022/khou-2022-07-24T22:26:12.246341-05:00.jpg">July 25 at 5:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khou-2022/khou-2022-07-24T07:59:52.831746-05:00.jpg">
   <img src="https://archive.org/download/khou-2022/khou-2022-07-24T07:59:52.831746-05:00.jpg"
-     alt="KHOU at 2022-07-24 07:59:54-05:00 local time"
+     alt="KHOU at 2022-07-24 14:59:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khou-2022/khou-2022-07-24T07:59:52.831746-05:00.jpg">July 24 at 7:59 AM</a></p>
+ <p><a href="https://archive.org/download/khou-2022/khou-2022-07-24T07:59:52.831746-05:00.jpg">July 24 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khou-2022/khou-2022-07-23T23:15:04.775917-05:00.jpg">
   <img src="https://archive.org/download/khou-2022/khou-2022-07-23T23:15:04.775917-05:00.jpg"
-     alt="KHOU at 2022-07-23 23:15:06-05:00 local time"
+     alt="KHOU at 2022-07-24 06:15:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khou-2022/khou-2022-07-23T23:15:04.775917-05:00.jpg">July 23 at 11:15 PM</a></p>
+ <p><a href="https://archive.org/download/khou-2022/khou-2022-07-23T23:15:04.775917-05:00.jpg">July 24 at 6:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khou-2022/khou-2022-07-23T09:04:52.744417-05:00.jpg">
   <img src="https://archive.org/download/khou-2022/khou-2022-07-23T09:04:52.744417-05:00.jpg"
-     alt="KHOU at 2022-07-23 09:04:55-05:00 local time"
+     alt="KHOU at 2022-07-23 16:04:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khou-2022/khou-2022-07-23T09:04:52.744417-05:00.jpg">July 23 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/khou-2022/khou-2022-07-23T09:04:52.744417-05:00.jpg">July 23 at 4:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khou-2022/khou-2022-07-22T21:30:31.698836-05:00.jpg">
   <img src="https://archive.org/download/khou-2022/khou-2022-07-22T21:30:31.698836-05:00.jpg"
-     alt="KHOU at 2022-07-22 21:30:33-05:00 local time"
+     alt="KHOU at 2022-07-23 04:30:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khou-2022/khou-2022-07-22T21:30:31.698836-05:00.jpg">July 22 at 9:30 PM</a></p>
+ <p><a href="https://archive.org/download/khou-2022/khou-2022-07-22T21:30:31.698836-05:00.jpg">July 23 at 4:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khou-2022/khou-2022-07-22T09:05:45.247773-05:00.jpg">
   <img src="https://archive.org/download/khou-2022/khou-2022-07-22T09:05:45.247773-05:00.jpg"
-     alt="KHOU at 2022-07-22 09:05:47-05:00 local time"
+     alt="KHOU at 2022-07-22 16:05:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khou-2022/khou-2022-07-22T09:05:45.247773-05:00.jpg">July 22 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/khou-2022/khou-2022-07-22T09:05:45.247773-05:00.jpg">July 22 at 4:05 PM</a></p>
 </div>
 
 </div>
@@ -148,16 +148,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 7:04 PM](https://archive.org/download/khou-2022/khou-2022-07-27T19:04:20.326438-05:00.hyperlinks.json) |
-| [July 27 at 8:08 AM](https://archive.org/download/khou-2022/khou-2022-07-27T08:08:16.930576-05:00.hyperlinks.json) |
-| [July 26 at 7:12 PM](https://archive.org/download/khou-2022/khou-2022-07-26T19:12:39.851316-05:00.hyperlinks.json) |
-| [July 26 at 7:22 AM](https://archive.org/download/khou-2022/khou-2022-07-26T07:21:54.329890-05:00.hyperlinks.json) |
-| [July 25 at 7:17 PM](https://archive.org/download/khou-2022/khou-2022-07-25T19:17:10.099262-05:00.hyperlinks.json) |
-| [July 25 at 8:11 AM](https://archive.org/download/khou-2022/khou-2022-07-25T08:11:00.063082-05:00.hyperlinks.json) |
-| [July 24 at 10:26 PM](https://archive.org/download/khou-2022/khou-2022-07-24T22:26:12.246341-05:00.hyperlinks.json) |
-| [July 24 at 7:59 AM](https://archive.org/download/khou-2022/khou-2022-07-24T07:59:52.831746-05:00.hyperlinks.json) |
-| [July 23 at 11:15 PM](https://archive.org/download/khou-2022/khou-2022-07-23T23:15:04.775917-05:00.hyperlinks.json) |
-| [July 23 at 9:04 AM](https://archive.org/download/khou-2022/khou-2022-07-23T09:04:52.744417-05:00.hyperlinks.json) |
+| [July 28 at 2:04 AM](https://archive.org/download/khou-2022/khou-2022-07-27T19:04:20.326438-05:00.hyperlinks.json) |
+| [July 27 at 3:08 PM](https://archive.org/download/khou-2022/khou-2022-07-27T08:08:16.930576-05:00.hyperlinks.json) |
+| [July 27 at 2:12 AM](https://archive.org/download/khou-2022/khou-2022-07-26T19:12:39.851316-05:00.hyperlinks.json) |
+| [July 26 at 2:22 PM](https://archive.org/download/khou-2022/khou-2022-07-26T07:21:54.329890-05:00.hyperlinks.json) |
+| [July 26 at 2:17 AM](https://archive.org/download/khou-2022/khou-2022-07-25T19:17:10.099262-05:00.hyperlinks.json) |
+| [July 25 at 3:11 PM](https://archive.org/download/khou-2022/khou-2022-07-25T08:11:00.063082-05:00.hyperlinks.json) |
+| [July 25 at 5:26 AM](https://archive.org/download/khou-2022/khou-2022-07-24T22:26:12.246341-05:00.hyperlinks.json) |
+| [July 24 at 2:59 PM](https://archive.org/download/khou-2022/khou-2022-07-24T07:59:52.831746-05:00.hyperlinks.json) |
+| [July 24 at 6:15 AM](https://archive.org/download/khou-2022/khou-2022-07-23T23:15:04.775917-05:00.hyperlinks.json) |
+| [July 23 at 4:04 PM](https://archive.org/download/khou-2022/khou-2022-07-23T09:04:52.744417-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -170,16 +170,37 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 7:04 PM](https://archive.org/download/khou-2022/khou-2022-07-27T19:04:20.326438-05:00.accessibility.json) |
-| [July 27 at 8:08 AM](https://archive.org/download/khou-2022/khou-2022-07-27T08:08:16.930576-05:00.accessibility.json) |
-| [July 26 at 7:12 PM](https://archive.org/download/khou-2022/khou-2022-07-26T19:12:39.851316-05:00.accessibility.json) |
-| [July 26 at 7:22 AM](https://archive.org/download/khou-2022/khou-2022-07-26T07:21:54.329890-05:00.accessibility.json) |
-| [July 25 at 7:17 PM](https://archive.org/download/khou-2022/khou-2022-07-25T19:17:10.099262-05:00.accessibility.json) |
-| [July 25 at 8:11 AM](https://archive.org/download/khou-2022/khou-2022-07-25T08:11:00.063082-05:00.accessibility.json) |
-| [July 24 at 10:26 PM](https://archive.org/download/khou-2022/khou-2022-07-24T22:26:12.246341-05:00.accessibility.json) |
-| [July 24 at 7:59 AM](https://archive.org/download/khou-2022/khou-2022-07-24T07:59:52.831746-05:00.accessibility.json) |
-| [July 23 at 11:15 PM](https://archive.org/download/khou-2022/khou-2022-07-23T23:15:04.775917-05:00.accessibility.json) |
-| [July 23 at 9:04 AM](https://archive.org/download/khou-2022/khou-2022-07-23T09:04:52.744417-05:00.accessibility.json) |
+| [July 28 at 2:04 AM](https://archive.org/download/khou-2022/khou-2022-07-27T19:04:20.326438-05:00.accessibility.json) |
+| [July 27 at 3:08 PM](https://archive.org/download/khou-2022/khou-2022-07-27T08:08:16.930576-05:00.accessibility.json) |
+| [July 27 at 2:12 AM](https://archive.org/download/khou-2022/khou-2022-07-26T19:12:39.851316-05:00.accessibility.json) |
+| [July 26 at 2:22 PM](https://archive.org/download/khou-2022/khou-2022-07-26T07:21:54.329890-05:00.accessibility.json) |
+| [July 26 at 2:17 AM](https://archive.org/download/khou-2022/khou-2022-07-25T19:17:10.099262-05:00.accessibility.json) |
+| [July 25 at 3:11 PM](https://archive.org/download/khou-2022/khou-2022-07-25T08:11:00.063082-05:00.accessibility.json) |
+| [July 25 at 5:26 AM](https://archive.org/download/khou-2022/khou-2022-07-24T22:26:12.246341-05:00.accessibility.json) |
+| [July 24 at 2:59 PM](https://archive.org/download/khou-2022/khou-2022-07-24T07:59:52.831746-05:00.accessibility.json) |
+| [July 24 at 6:15 AM](https://archive.org/download/khou-2022/khou-2022-07-23T23:15:04.775917-05:00.accessibility.json) |
+| [July 23 at 4:04 PM](https://archive.org/download/khou-2022/khou-2022-07-23T09:04:52.744417-05:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 8 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 2:04 AM](https://archive.org/download/khou-2022/khou-2022-07-27T19:04:20.326438-05:00.lighthouse.json) |
+| [July 27 at 3:08 PM](https://archive.org/download/khou-2022/khou-2022-07-27T08:08:16.930576-05:00.lighthouse.json) |
+| [July 27 at 2:12 AM](https://archive.org/download/khou-2022/khou-2022-07-26T19:12:39.851316-05:00.lighthouse.json) |
+| [July 26 at 2:22 PM](https://archive.org/download/khou-2022/khou-2022-07-26T07:21:54.329890-05:00.lighthouse.json) |
+| [July 26 at 2:17 AM](https://archive.org/download/khou-2022/khou-2022-07-25T19:17:10.099262-05:00.lighthouse.json) |
+| [July 25 at 5:26 AM](https://archive.org/download/khou-2022/khou-2022-07-24T22:26:12.246341-05:00.lighthouse.json) |
+| [July 24 at 3:00 PM](https://archive.org/download/khou-2022/khou-2022-07-24T07:59:52.831746-05:00.lighthouse.json) |
+| [July 24 at 6:15 AM](https://archive.org/download/khou-2022/khou-2022-07-23T23:15:04.775917-05:00.lighthouse.json) |
 
 
 

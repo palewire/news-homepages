@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/komunews-2022/komunews-2022-07-27T19:04:37.735929-05:00.jpg">
   <img src="https://archive.org/download/komunews-2022/komunews-2022-07-27T19:04:37.735929-05:00.jpg"
-     alt="KOMU at 2022-07-27 19:04:41-05:00 local time"
+     alt="KOMU at 2022-07-28 02:04:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-27T19:04:37.735929-05:00.jpg">July 27 at 7:04 PM</a></p>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-27T19:04:37.735929-05:00.jpg">July 28 at 2:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/komunews-2022/komunews-2022-07-27T08:08:00.542546-05:00.jpg">
   <img src="https://archive.org/download/komunews-2022/komunews-2022-07-27T08:08:00.542546-05:00.jpg"
-     alt="KOMU at 2022-07-27 08:08:03-05:00 local time"
+     alt="KOMU at 2022-07-27 15:08:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-27T08:08:00.542546-05:00.jpg">July 27 at 8:08 AM</a></p>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-27T08:08:00.542546-05:00.jpg">July 27 at 3:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/komunews-2022/komunews-2022-07-26T19:12:39.776087-05:00.jpg">
   <img src="https://archive.org/download/komunews-2022/komunews-2022-07-26T19:12:39.776087-05:00.jpg"
-     alt="KOMU at 2022-07-26 19:12:44-05:00 local time"
+     alt="KOMU at 2022-07-27 02:12:44-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-26T19:12:39.776087-05:00.jpg">July 26 at 7:12 PM</a></p>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-26T19:12:39.776087-05:00.jpg">July 27 at 2:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/komunews-2022/komunews-2022-07-26T07:22:39.593271-05:00.jpg">
   <img src="https://archive.org/download/komunews-2022/komunews-2022-07-26T07:22:39.593271-05:00.jpg"
-     alt="KOMU at 2022-07-26 07:22:46-05:00 local time"
+     alt="KOMU at 2022-07-26 14:22:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-26T07:22:39.593271-05:00.jpg">July 26 at 7:22 AM</a></p>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-26T07:22:39.593271-05:00.jpg">July 26 at 2:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/komunews-2022/komunews-2022-07-25T19:16:43.297795-05:00.jpg">
   <img src="https://archive.org/download/komunews-2022/komunews-2022-07-25T19:16:43.297795-05:00.jpg"
-     alt="KOMU at 2022-07-25 19:16:46-05:00 local time"
+     alt="KOMU at 2022-07-26 02:16:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-25T19:16:43.297795-05:00.jpg">July 25 at 7:16 PM</a></p>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-25T19:16:43.297795-05:00.jpg">July 26 at 2:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/komunews-2022/komunews-2022-07-25T08:11:01.257552-05:00.jpg">
   <img src="https://archive.org/download/komunews-2022/komunews-2022-07-25T08:11:01.257552-05:00.jpg"
-     alt="KOMU at 2022-07-25 08:11:02-05:00 local time"
+     alt="KOMU at 2022-07-25 15:11:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-25T08:11:01.257552-05:00.jpg">July 25 at 8:11 AM</a></p>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-25T08:11:01.257552-05:00.jpg">July 25 at 3:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/komunews-2022/komunews-2022-07-24T22:25:47.693771-05:00.jpg">
   <img src="https://archive.org/download/komunews-2022/komunews-2022-07-24T22:25:47.693771-05:00.jpg"
-     alt="KOMU at 2022-07-24 22:25:49-05:00 local time"
+     alt="KOMU at 2022-07-25 05:25:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-24T22:25:47.693771-05:00.jpg">July 24 at 10:25 PM</a></p>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-24T22:25:47.693771-05:00.jpg">July 25 at 5:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/komunews-2022/komunews-2022-07-24T08:00:12.133486-05:00.jpg">
   <img src="https://archive.org/download/komunews-2022/komunews-2022-07-24T08:00:12.133486-05:00.jpg"
-     alt="KOMU at 2022-07-24 08:00:15-05:00 local time"
+     alt="KOMU at 2022-07-24 15:00:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-24T08:00:12.133486-05:00.jpg">July 24 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-24T08:00:12.133486-05:00.jpg">July 24 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/komunews-2022/komunews-2022-07-23T23:15:41.288419-05:00.jpg">
   <img src="https://archive.org/download/komunews-2022/komunews-2022-07-23T23:15:41.288419-05:00.jpg"
-     alt="KOMU at 2022-07-23 23:15:42-05:00 local time"
+     alt="KOMU at 2022-07-24 06:15:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-23T23:15:41.288419-05:00.jpg">July 23 at 11:15 PM</a></p>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-23T23:15:41.288419-05:00.jpg">July 24 at 6:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/komunews-2022/komunews-2022-07-23T09:05:02.819178-05:00.jpg">
   <img src="https://archive.org/download/komunews-2022/komunews-2022-07-23T09:05:02.819178-05:00.jpg"
-     alt="KOMU at 2022-07-23 09:05:04-05:00 local time"
+     alt="KOMU at 2022-07-23 16:05:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-23T09:05:02.819178-05:00.jpg">July 23 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-23T09:05:02.819178-05:00.jpg">July 23 at 4:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/komunews-2022/komunews-2022-07-22T21:31:14.287310-05:00.jpg">
   <img src="https://archive.org/download/komunews-2022/komunews-2022-07-22T21:31:14.287310-05:00.jpg"
-     alt="KOMU at 2022-07-22 21:31:16-05:00 local time"
+     alt="KOMU at 2022-07-23 04:31:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-22T21:31:14.287310-05:00.jpg">July 22 at 9:31 PM</a></p>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-22T21:31:14.287310-05:00.jpg">July 23 at 4:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/komunews-2022/komunews-2022-07-22T09:06:21.484608-05:00.jpg">
   <img src="https://archive.org/download/komunews-2022/komunews-2022-07-22T09:06:21.484608-05:00.jpg"
-     alt="KOMU at 2022-07-22 09:06:22-05:00 local time"
+     alt="KOMU at 2022-07-22 16:06:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-22T09:06:21.484608-05:00.jpg">July 22 at 9:06 AM</a></p>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-07-22T09:06:21.484608-05:00.jpg">July 22 at 4:06 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 8:08 AM](https://archive.org/download/komunews-2022/komunews-2022-07-27T08:08:00.542546-05:00.hyperlinks.json) |
-| [July 26 at 7:12 PM](https://archive.org/download/komunews-2022/komunews-2022-07-26T19:12:39.776087-05:00.hyperlinks.json) |
-| [July 26 at 7:22 AM](https://archive.org/download/komunews-2022/komunews-2022-07-26T07:22:39.593271-05:00.hyperlinks.json) |
-| [July 25 at 7:16 PM](https://archive.org/download/komunews-2022/komunews-2022-07-25T19:16:43.297795-05:00.hyperlinks.json) |
-| [July 25 at 8:11 AM](https://archive.org/download/komunews-2022/komunews-2022-07-25T08:11:01.257552-05:00.hyperlinks.json) |
-| [July 24 at 10:25 PM](https://archive.org/download/komunews-2022/komunews-2022-07-24T22:25:47.693771-05:00.hyperlinks.json) |
-| [July 24 at 8:00 AM](https://archive.org/download/komunews-2022/komunews-2022-07-24T08:00:12.133486-05:00.hyperlinks.json) |
-| [July 23 at 11:15 PM](https://archive.org/download/komunews-2022/komunews-2022-07-23T23:15:41.288419-05:00.hyperlinks.json) |
-| [July 23 at 9:05 AM](https://archive.org/download/komunews-2022/komunews-2022-07-23T09:05:02.819178-05:00.hyperlinks.json) |
-| [July 22 at 9:31 PM](https://archive.org/download/komunews-2022/komunews-2022-07-22T21:31:14.287310-05:00.hyperlinks.json) |
+| [July 27 at 3:08 PM](https://archive.org/download/komunews-2022/komunews-2022-07-27T08:08:00.542546-05:00.hyperlinks.json) |
+| [July 27 at 2:12 AM](https://archive.org/download/komunews-2022/komunews-2022-07-26T19:12:39.776087-05:00.hyperlinks.json) |
+| [July 26 at 2:22 PM](https://archive.org/download/komunews-2022/komunews-2022-07-26T07:22:39.593271-05:00.hyperlinks.json) |
+| [July 26 at 2:16 AM](https://archive.org/download/komunews-2022/komunews-2022-07-25T19:16:43.297795-05:00.hyperlinks.json) |
+| [July 25 at 3:11 PM](https://archive.org/download/komunews-2022/komunews-2022-07-25T08:11:01.257552-05:00.hyperlinks.json) |
+| [July 25 at 5:25 AM](https://archive.org/download/komunews-2022/komunews-2022-07-24T22:25:47.693771-05:00.hyperlinks.json) |
+| [July 24 at 3:00 PM](https://archive.org/download/komunews-2022/komunews-2022-07-24T08:00:12.133486-05:00.hyperlinks.json) |
+| [July 24 at 6:15 AM](https://archive.org/download/komunews-2022/komunews-2022-07-23T23:15:41.288419-05:00.hyperlinks.json) |
+| [July 23 at 4:05 PM](https://archive.org/download/komunews-2022/komunews-2022-07-23T09:05:02.819178-05:00.hyperlinks.json) |
+| [July 23 at 4:31 AM](https://archive.org/download/komunews-2022/komunews-2022-07-22T21:31:14.287310-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,38 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 7:04 PM](https://archive.org/download/komunews-2022/komunews-2022-07-27T19:04:37.735929-05:00.accessibility.json) |
-| [July 27 at 8:08 AM](https://archive.org/download/komunews-2022/komunews-2022-07-27T08:08:00.542546-05:00.accessibility.json) |
-| [July 26 at 7:12 PM](https://archive.org/download/komunews-2022/komunews-2022-07-26T19:12:39.776087-05:00.accessibility.json) |
-| [July 26 at 7:22 AM](https://archive.org/download/komunews-2022/komunews-2022-07-26T07:22:39.593271-05:00.accessibility.json) |
-| [July 25 at 7:16 PM](https://archive.org/download/komunews-2022/komunews-2022-07-25T19:16:43.297795-05:00.accessibility.json) |
-| [July 25 at 8:11 AM](https://archive.org/download/komunews-2022/komunews-2022-07-25T08:11:01.257552-05:00.accessibility.json) |
-| [July 24 at 10:25 PM](https://archive.org/download/komunews-2022/komunews-2022-07-24T22:25:47.693771-05:00.accessibility.json) |
-| [July 24 at 8:00 AM](https://archive.org/download/komunews-2022/komunews-2022-07-24T08:00:12.133486-05:00.accessibility.json) |
-| [July 23 at 11:15 PM](https://archive.org/download/komunews-2022/komunews-2022-07-23T23:15:41.288419-05:00.accessibility.json) |
-| [July 23 at 9:05 AM](https://archive.org/download/komunews-2022/komunews-2022-07-23T09:05:02.819178-05:00.accessibility.json) |
+| [July 28 at 2:04 AM](https://archive.org/download/komunews-2022/komunews-2022-07-27T19:04:37.735929-05:00.accessibility.json) |
+| [July 27 at 3:08 PM](https://archive.org/download/komunews-2022/komunews-2022-07-27T08:08:00.542546-05:00.accessibility.json) |
+| [July 27 at 2:12 AM](https://archive.org/download/komunews-2022/komunews-2022-07-26T19:12:39.776087-05:00.accessibility.json) |
+| [July 26 at 2:22 PM](https://archive.org/download/komunews-2022/komunews-2022-07-26T07:22:39.593271-05:00.accessibility.json) |
+| [July 26 at 2:16 AM](https://archive.org/download/komunews-2022/komunews-2022-07-25T19:16:43.297795-05:00.accessibility.json) |
+| [July 25 at 3:11 PM](https://archive.org/download/komunews-2022/komunews-2022-07-25T08:11:01.257552-05:00.accessibility.json) |
+| [July 25 at 5:25 AM](https://archive.org/download/komunews-2022/komunews-2022-07-24T22:25:47.693771-05:00.accessibility.json) |
+| [July 24 at 3:00 PM](https://archive.org/download/komunews-2022/komunews-2022-07-24T08:00:12.133486-05:00.accessibility.json) |
+| [July 24 at 6:15 AM](https://archive.org/download/komunews-2022/komunews-2022-07-23T23:15:41.288419-05:00.accessibility.json) |
+| [July 23 at 4:05 PM](https://archive.org/download/komunews-2022/komunews-2022-07-23T09:05:02.819178-05:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 2:04 AM](https://archive.org/download/komunews-2022/komunews-2022-07-27T19:04:37.735929-05:00.lighthouse.json) |
+| [July 27 at 3:08 PM](https://archive.org/download/komunews-2022/komunews-2022-07-27T08:08:00.542546-05:00.lighthouse.json) |
+| [July 27 at 2:12 AM](https://archive.org/download/komunews-2022/komunews-2022-07-26T19:12:39.776087-05:00.lighthouse.json) |
+| [July 26 at 2:22 PM](https://archive.org/download/komunews-2022/komunews-2022-07-26T07:22:39.593271-05:00.lighthouse.json) |
+| [July 26 at 2:16 AM](https://archive.org/download/komunews-2022/komunews-2022-07-25T19:16:43.297795-05:00.lighthouse.json) |
+| [July 25 at 3:11 PM](https://archive.org/download/komunews-2022/komunews-2022-07-25T08:11:01.257552-05:00.lighthouse.json) |
+| [July 25 at 5:25 AM](https://archive.org/download/komunews-2022/komunews-2022-07-24T22:25:47.693771-05:00.lighthouse.json) |
+| [July 24 at 3:00 PM](https://archive.org/download/komunews-2022/komunews-2022-07-24T08:00:12.133486-05:00.lighthouse.json) |
+| [July 24 at 6:15 AM](https://archive.org/download/komunews-2022/komunews-2022-07-23T23:15:41.288419-05:00.lighthouse.json) |
 
 
 

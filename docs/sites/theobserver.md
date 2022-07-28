@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 37 screenshots with the Internet Archive.
+The archiving routine has saved 38 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-27T11:49:23.089377-04:00.jpg">
-  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-27T11:49:23.089377-04:00.jpg"
-     alt="Charlotte Observer at 2022-07-27 11:49:24-04:00 local time"
+ <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-27T23:47:52.207092-04:00.jpg">
+  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-27T23:47:52.207092-04:00.jpg"
+     alt="Charlotte Observer at 2022-07-28 06:47:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-27T11:49:23.089377-04:00.jpg">July 27 at 11:49 AM</a></p>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-27T23:47:52.207092-04:00.jpg">July 28 at 6:47 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-27T11:49:23.089377-04:00.jpg">
+  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-27T11:49:23.089377-04:00.jpg"
+     alt="Charlotte Observer at 2022-07-27 18:49:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-27T11:49:23.089377-04:00.jpg">July 27 at 6:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-26T23:56:46.956527-04:00.jpg">
   <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-26T23:56:46.956527-04:00.jpg"
-     alt="Charlotte Observer at 2022-07-26 23:56:48-04:00 local time"
+     alt="Charlotte Observer at 2022-07-27 06:56:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-26T23:56:46.956527-04:00.jpg">July 26 at 11:56 PM</a></p>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-26T23:56:46.956527-04:00.jpg">July 27 at 6:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-26T11:48:23.791264-04:00.jpg">
   <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-26T11:48:23.791264-04:00.jpg"
-     alt="Charlotte Observer at 2022-07-26 11:48:25-04:00 local time"
+     alt="Charlotte Observer at 2022-07-26 18:48:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-26T11:48:23.791264-04:00.jpg">July 26 at 11:48 AM</a></p>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-26T11:48:23.791264-04:00.jpg">July 26 at 6:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-25T23:59:48.233171-04:00.jpg">
   <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-25T23:59:48.233171-04:00.jpg"
-     alt="Charlotte Observer at 2022-07-25 23:59:50-04:00 local time"
+     alt="Charlotte Observer at 2022-07-26 06:59:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-25T23:59:48.233171-04:00.jpg">July 25 at 11:59 PM</a></p>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-25T23:59:48.233171-04:00.jpg">July 26 at 6:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-25T11:47:31.424007-04:00.jpg">
   <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-25T11:47:31.424007-04:00.jpg"
-     alt="Charlotte Observer at 2022-07-25 11:47:33-04:00 local time"
+     alt="Charlotte Observer at 2022-07-25 18:47:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-25T11:47:31.424007-04:00.jpg">July 25 at 11:47 AM</a></p>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-25T11:47:31.424007-04:00.jpg">July 25 at 6:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-25T00:37:01.189354-04:00.jpg">
   <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-25T00:37:01.189354-04:00.jpg"
-     alt="Charlotte Observer at 2022-07-25 00:37:03-04:00 local time"
+     alt="Charlotte Observer at 2022-07-25 07:37:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-25T00:37:01.189354-04:00.jpg">July 25 at 12:37 AM</a></p>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-25T00:37:01.189354-04:00.jpg">July 25 at 7:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-24T11:07:03.560527-04:00.jpg">
   <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-24T11:07:03.560527-04:00.jpg"
-     alt="Charlotte Observer at 2022-07-24 11:07:05-04:00 local time"
+     alt="Charlotte Observer at 2022-07-24 18:07:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-24T11:07:03.560527-04:00.jpg">July 24 at 11:07 AM</a></p>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-24T11:07:03.560527-04:00.jpg">July 24 at 6:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T23:42:44.564226-04:00.jpg">
   <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T23:42:44.564226-04:00.jpg"
-     alt="Charlotte Observer at 2022-07-23 23:42:51-04:00 local time"
+     alt="Charlotte Observer at 2022-07-24 06:42:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T23:42:44.564226-04:00.jpg">July 23 at 11:42 PM</a></p>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T23:42:44.564226-04:00.jpg">July 24 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T12:05:34.426970-04:00.jpg">
   <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T12:05:34.426970-04:00.jpg"
-     alt="Charlotte Observer at 2022-07-23 12:05:36-04:00 local time"
+     alt="Charlotte Observer at 2022-07-23 19:05:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T12:05:34.426970-04:00.jpg">July 23 at 12:05 PM</a></p>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T12:05:34.426970-04:00.jpg">July 23 at 7:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T00:25:29.981207-04:00.jpg">
   <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T00:25:29.981207-04:00.jpg"
-     alt="Charlotte Observer at 2022-07-23 00:25:31-04:00 local time"
+     alt="Charlotte Observer at 2022-07-23 07:25:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T00:25:29.981207-04:00.jpg">July 23 at 12:25 AM</a></p>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-23T00:25:29.981207-04:00.jpg">July 23 at 7:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-22T12:18:32.611250-04:00.jpg">
   <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-22T12:18:32.611250-04:00.jpg"
-     alt="Charlotte Observer at 2022-07-22 12:18:33-04:00 local time"
+     alt="Charlotte Observer at 2022-07-22 19:18:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-22T12:18:32.611250-04:00.jpg">July 22 at 12:18 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-22T00:32:32.988890-04:00.jpg">
-  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-22T00:32:32.988890-04:00.jpg"
-     alt="Charlotte Observer at 2022-07-22 00:32:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-22T00:32:32.988890-04:00.jpg">July 22 at 12:32 AM</a></p>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-22T12:18:32.611250-04:00.jpg">July 22 at 7:18 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 32 hyperlink lists with the Internet Archive.
+The archiving routine has saved 33 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 26 at 11:48 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-26T11:48:23.791264-04:00.hyperlinks.json) |
-| [July 25 at 11:59 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-25T23:59:48.233171-04:00.hyperlinks.json) |
-| [July 25 at 11:47 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-25T11:47:31.424007-04:00.hyperlinks.json) |
-| [July 24 at 11:07 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-24T11:07:03.560527-04:00.hyperlinks.json) |
-| [July 23 at 11:42 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-23T23:42:44.564226-04:00.hyperlinks.json) |
-| [July 23 at 12:05 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-23T12:05:34.426970-04:00.hyperlinks.json) |
-| [July 23 at 12:25 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-23T00:25:29.981207-04:00.hyperlinks.json) |
-| [July 22 at 12:18 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-22T12:18:32.611250-04:00.hyperlinks.json) |
-| [July 22 at 12:32 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-22T00:32:32.988890-04:00.hyperlinks.json) |
-| [July 21 at 12:55 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-21T12:55:54.423150-04:00.hyperlinks.json) |
+| [July 28 at 6:47 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-27T23:47:52.207092-04:00.hyperlinks.json) |
+| [July 26 at 6:48 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-26T11:48:23.791264-04:00.hyperlinks.json) |
+| [July 26 at 6:59 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-25T23:59:48.233171-04:00.hyperlinks.json) |
+| [July 25 at 6:47 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-25T11:47:31.424007-04:00.hyperlinks.json) |
+| [July 24 at 6:07 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-24T11:07:03.560527-04:00.hyperlinks.json) |
+| [July 24 at 6:42 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-23T23:42:44.564226-04:00.hyperlinks.json) |
+| [July 23 at 7:05 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-23T12:05:34.426970-04:00.hyperlinks.json) |
+| [July 23 at 7:25 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-23T00:25:29.981207-04:00.hyperlinks.json) |
+| [July 22 at 7:18 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-22T12:18:32.611250-04:00.hyperlinks.json) |
+| [July 22 at 7:32 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-22T00:32:32.988890-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 38 accessibility trees with the Internet Archive.
+The archiving routine has saved 39 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,16 +419,38 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 11:49 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-27T11:49:23.089377-04:00.accessibility.json) |
-| [July 26 at 11:56 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-26T23:56:46.956527-04:00.accessibility.json) |
-| [July 26 at 11:48 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-26T11:48:23.791264-04:00.accessibility.json) |
-| [July 25 at 11:59 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-25T23:59:48.233171-04:00.accessibility.json) |
-| [July 25 at 11:47 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-25T11:47:31.424007-04:00.accessibility.json) |
-| [July 25 at 12:37 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-25T00:37:01.189354-04:00.accessibility.json) |
-| [July 24 at 11:07 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-24T11:07:03.560527-04:00.accessibility.json) |
-| [July 23 at 11:42 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-23T23:42:44.564226-04:00.accessibility.json) |
-| [July 23 at 12:05 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-23T12:05:34.426970-04:00.accessibility.json) |
-| [July 23 at 12:25 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-23T00:25:29.981207-04:00.accessibility.json) |
+| [July 28 at 6:47 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-27T23:47:52.207092-04:00.accessibility.json) |
+| [July 27 at 6:49 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-27T11:49:23.089377-04:00.accessibility.json) |
+| [July 27 at 6:56 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-26T23:56:46.956527-04:00.accessibility.json) |
+| [July 26 at 6:48 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-26T11:48:23.791264-04:00.accessibility.json) |
+| [July 26 at 6:59 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-25T23:59:48.233171-04:00.accessibility.json) |
+| [July 25 at 6:47 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-25T11:47:31.424007-04:00.accessibility.json) |
+| [July 25 at 7:37 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-25T00:37:01.189354-04:00.accessibility.json) |
+| [July 24 at 6:07 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-24T11:07:03.560527-04:00.accessibility.json) |
+| [July 24 at 6:42 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-23T23:42:44.564226-04:00.accessibility.json) |
+| [July 23 at 7:05 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-23T12:05:34.426970-04:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 6:47 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-27T23:47:52.207092-04:00.lighthouse.json) |
+| [July 27 at 6:49 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-27T11:49:23.089377-04:00.lighthouse.json) |
+| [July 27 at 6:56 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-26T23:56:46.956527-04:00.lighthouse.json) |
+| [July 26 at 6:48 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-26T11:48:23.791264-04:00.lighthouse.json) |
+| [July 26 at 6:59 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-25T23:59:48.233171-04:00.lighthouse.json) |
+| [July 25 at 6:47 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-25T11:47:31.424007-04:00.lighthouse.json) |
+| [July 25 at 7:37 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-25T00:37:01.189354-04:00.lighthouse.json) |
+| [July 24 at 6:07 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-24T11:07:03.560527-04:00.lighthouse.json) |
+| [July 24 at 6:42 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-23T23:42:44.564226-04:00.lighthouse.json) |
 
 
 

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-27T19:04:24.446511-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-27T19:04:24.446511-05:00.jpg"
-     alt="KCRG at 2022-07-27 19:04:31-05:00 local time"
+     alt="KCRG at 2022-07-28 02:04:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-27T19:04:24.446511-05:00.jpg">July 27 at 7:04 PM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-27T19:04:24.446511-05:00.jpg">July 28 at 2:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-27T11:09:38.778225-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-27T11:09:38.778225-05:00.jpg"
-     alt="KCRG at 2022-07-27 11:09:43-05:00 local time"
+     alt="KCRG at 2022-07-27 18:09:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-27T11:09:38.778225-05:00.jpg">July 27 at 11:09 AM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-27T11:09:38.778225-05:00.jpg">July 27 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-27T08:08:19.932928-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-27T08:08:19.932928-05:00.jpg"
-     alt="KCRG at 2022-07-27 08:08:21-05:00 local time"
+     alt="KCRG at 2022-07-27 15:08:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-27T08:08:19.932928-05:00.jpg">July 27 at 8:08 AM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-27T08:08:19.932928-05:00.jpg">July 27 at 3:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-26T19:12:29.642870-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-26T19:12:29.642870-05:00.jpg"
-     alt="KCRG at 2022-07-26 19:12:36-05:00 local time"
+     alt="KCRG at 2022-07-27 02:12:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-26T19:12:29.642870-05:00.jpg">July 26 at 7:12 PM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-26T19:12:29.642870-05:00.jpg">July 27 at 2:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-26T07:22:28.390510-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-26T07:22:28.390510-05:00.jpg"
-     alt="KCRG at 2022-07-26 07:22:37-05:00 local time"
+     alt="KCRG at 2022-07-26 14:22:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-26T07:22:28.390510-05:00.jpg">July 26 at 7:22 AM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-26T07:22:28.390510-05:00.jpg">July 26 at 2:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T19:15:55.225476-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T19:15:55.225476-05:00.jpg"
-     alt="KCRG at 2022-07-25 19:15:56-05:00 local time"
+     alt="KCRG at 2022-07-26 02:15:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T19:15:55.225476-05:00.jpg">July 25 at 7:15 PM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T19:15:55.225476-05:00.jpg">July 26 at 2:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T11:39:44.896885-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T11:39:44.896885-05:00.jpg"
-     alt="KCRG at 2022-07-25 11:39:46-05:00 local time"
+     alt="KCRG at 2022-07-25 18:39:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T11:39:44.896885-05:00.jpg">July 25 at 11:39 AM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T11:39:44.896885-05:00.jpg">July 25 at 6:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T08:09:54.221352-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T08:09:54.221352-05:00.jpg"
-     alt="KCRG at 2022-07-25 08:09:59-05:00 local time"
+     alt="KCRG at 2022-07-25 15:09:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T08:09:54.221352-05:00.jpg">July 25 at 8:09 AM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-25T08:09:54.221352-05:00.jpg">July 25 at 3:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-24T22:24:35.573769-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-24T22:24:35.573769-05:00.jpg"
-     alt="KCRG at 2022-07-24 22:24:40-05:00 local time"
+     alt="KCRG at 2022-07-25 05:24:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-24T22:24:35.573769-05:00.jpg">July 24 at 10:24 PM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-24T22:24:35.573769-05:00.jpg">July 25 at 5:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-24T07:58:58.868902-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-24T07:58:58.868902-05:00.jpg"
-     alt="KCRG at 2022-07-24 07:59:00-05:00 local time"
+     alt="KCRG at 2022-07-24 14:59:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-24T07:58:58.868902-05:00.jpg">July 24 at 7:59 AM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-24T07:58:58.868902-05:00.jpg">July 24 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-23T23:13:44.902105-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-23T23:13:44.902105-05:00.jpg"
-     alt="KCRG at 2022-07-23 23:13:47-05:00 local time"
+     alt="KCRG at 2022-07-24 06:13:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-23T23:13:44.902105-05:00.jpg">July 23 at 11:13 PM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-23T23:13:44.902105-05:00.jpg">July 24 at 6:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-23T09:04:35.397775-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-07-23T09:04:35.397775-05:00.jpg"
-     alt="KCRG at 2022-07-23 09:04:37-05:00 local time"
+     alt="KCRG at 2022-07-23 16:04:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-23T09:04:35.397775-05:00.jpg">July 23 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-07-23T09:04:35.397775-05:00.jpg">July 23 at 4:04 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 7:04 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-27T19:04:24.446511-05:00.hyperlinks.json) |
-| [July 27 at 11:09 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-27T11:09:38.778225-05:00.hyperlinks.json) |
-| [July 27 at 8:08 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-27T08:08:19.932928-05:00.hyperlinks.json) |
-| [July 26 at 7:12 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-26T19:12:29.642870-05:00.hyperlinks.json) |
-| [July 26 at 7:22 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-26T07:22:28.390510-05:00.hyperlinks.json) |
-| [July 25 at 7:16 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-25T19:15:55.225476-05:00.hyperlinks.json) |
-| [July 25 at 11:39 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-25T11:39:44.896885-05:00.hyperlinks.json) |
-| [July 25 at 8:10 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-25T08:09:54.221352-05:00.hyperlinks.json) |
-| [July 24 at 10:24 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-24T22:24:35.573769-05:00.hyperlinks.json) |
-| [July 24 at 7:59 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-24T07:58:58.868902-05:00.hyperlinks.json) |
+| [July 28 at 2:04 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-27T19:04:24.446511-05:00.hyperlinks.json) |
+| [July 27 at 6:09 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-27T11:09:38.778225-05:00.hyperlinks.json) |
+| [July 27 at 3:08 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-27T08:08:19.932928-05:00.hyperlinks.json) |
+| [July 27 at 2:12 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-26T19:12:29.642870-05:00.hyperlinks.json) |
+| [July 26 at 2:22 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-26T07:22:28.390510-05:00.hyperlinks.json) |
+| [July 26 at 2:16 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-25T19:15:55.225476-05:00.hyperlinks.json) |
+| [July 25 at 6:39 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-25T11:39:44.896885-05:00.hyperlinks.json) |
+| [July 25 at 3:10 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-25T08:09:54.221352-05:00.hyperlinks.json) |
+| [July 25 at 5:24 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-24T22:24:35.573769-05:00.hyperlinks.json) |
+| [July 24 at 2:59 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-24T07:58:58.868902-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,39 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 7:04 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-27T19:04:24.446511-05:00.accessibility.json) |
-| [July 27 at 11:09 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-27T11:09:38.778225-05:00.accessibility.json) |
-| [July 27 at 8:08 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-27T08:08:19.932928-05:00.accessibility.json) |
-| [July 26 at 7:12 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-26T19:12:29.642870-05:00.accessibility.json) |
-| [July 26 at 7:22 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-26T07:22:28.390510-05:00.accessibility.json) |
-| [July 25 at 7:15 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-25T19:15:55.225476-05:00.accessibility.json) |
-| [July 25 at 11:39 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-25T11:39:44.896885-05:00.accessibility.json) |
-| [July 25 at 8:10 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-25T08:09:54.221352-05:00.accessibility.json) |
-| [July 24 at 10:24 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-24T22:24:35.573769-05:00.accessibility.json) |
-| [July 24 at 7:59 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-24T07:58:58.868902-05:00.accessibility.json) |
+| [July 28 at 2:04 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-27T19:04:24.446511-05:00.accessibility.json) |
+| [July 27 at 6:09 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-27T11:09:38.778225-05:00.accessibility.json) |
+| [July 27 at 3:08 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-27T08:08:19.932928-05:00.accessibility.json) |
+| [July 27 at 2:12 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-26T19:12:29.642870-05:00.accessibility.json) |
+| [July 26 at 2:22 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-26T07:22:28.390510-05:00.accessibility.json) |
+| [July 26 at 2:15 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-25T19:15:55.225476-05:00.accessibility.json) |
+| [July 25 at 6:39 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-25T11:39:44.896885-05:00.accessibility.json) |
+| [July 25 at 3:10 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-25T08:09:54.221352-05:00.accessibility.json) |
+| [July 25 at 5:24 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-24T22:24:35.573769-05:00.accessibility.json) |
+| [July 24 at 2:59 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-24T07:58:58.868902-05:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 2:04 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-27T19:04:24.446511-05:00.lighthouse.json) |
+| [July 27 at 6:09 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-27T11:09:38.778225-05:00.lighthouse.json) |
+| [July 27 at 3:08 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-27T08:08:19.932928-05:00.lighthouse.json) |
+| [July 27 at 2:12 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-26T19:12:29.642870-05:00.lighthouse.json) |
+| [July 26 at 2:22 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-26T07:22:28.390510-05:00.lighthouse.json) |
+| [July 26 at 2:16 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-25T19:15:55.225476-05:00.lighthouse.json) |
+| [July 25 at 6:39 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-25T11:39:44.896885-05:00.lighthouse.json) |
+| [July 25 at 3:10 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-25T08:09:54.221352-05:00.lighthouse.json) |
+| [July 25 at 5:24 AM](https://archive.org/download/kcrg-2022/kcrg-2022-07-24T22:24:35.573769-05:00.lighthouse.json) |
+| [July 24 at 2:59 PM](https://archive.org/download/kcrg-2022/kcrg-2022-07-24T07:58:58.868902-05:00.lighthouse.json) |
 
 
 

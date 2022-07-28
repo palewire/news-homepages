@@ -97,6 +97,7 @@ def site_detail():
     screenshot_list = utils.get_screenshot_list()
     hyperlink_list = utils.get_hyperlink_list()
     accessibility_list = utils.get_accessibility_list()
+    lighthouse_list = utils.get_lighthouse_list()
     item_list = list(csv.DictReader(open(csv_dir / "items.csv")))
 
     # For each site ...
@@ -151,6 +152,21 @@ def site_detail():
         for s in most_recent_accessibility:
             s["local_time"] = s["local_time"] = s["mtime"].astimezone(site_tz)
 
+        # Get the lighthouse for this site
+        lighthouse = [
+            h for h in lighthouse_list if h["handle"].lower() == site["handle"].lower()
+        ]
+
+        # Get most 10 recent accessibility
+        most_recent_lighthouse = sorted(
+            lighthouse, key=lambda x: x["mtime"], reverse=True
+        )[:10]
+
+        # Set the local time
+        site_tz = pytz.timezone(site["timezone"])
+        for s in most_recent_lighthouse:
+            s["local_time"] = s["local_time"] = s["mtime"].astimezone(site_tz)
+
         # Render the template
         context = {
             "site": site,
@@ -160,6 +176,8 @@ def site_detail():
             "most_recent_hyperlinks": most_recent_hyperlinks,
             "accessibility": len(accessibility),
             "most_recent_accessibility": most_recent_accessibility,
+            "lighthouse": len(lighthouse),
+            "most_recent_lighthouse": most_recent_lighthouse,
             "items": [
                 i for i in item_list if i["handle"].lower() == site["handle"].lower()
             ],
@@ -221,12 +239,12 @@ def site_detail_hyperlink_chart():
     )
 
     # Get all screenshots
-    screenshots_df = pd.read_csv(
+    hyperlinks_df = pd.read_csv(
         utils.EXTRACT_DIR / "csv" / "hyperlink-files.csv",
         parse_dates=["mtime"],
         usecols=["identifier", "handle", "file_name", "mtime"],
     )
-    screenshots_df["date"] = pd.to_datetime(screenshots_df.mtime.dt.date)
+    hyperlinks_df["date"] = pd.to_datetime(hyperlinks_df.mtime.dt.date)
 
     # Ignore pandas warnings
     warnings.filterwarnings("ignore")
@@ -238,8 +256,8 @@ def site_detail_hyperlink_chart():
     # Loop through all sites
     for site in track(site_list):
         # Get the screenshots for this site
-        site_df = screenshots_df[
-            screenshots_df.handle.str.lower() == site["handle"].lower()
+        site_df = hyperlinks_df[
+            hyperlinks_df.handle.str.lower() == site["handle"].lower()
         ]
 
         # Do the math

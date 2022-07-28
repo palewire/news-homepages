@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 111 screenshots with the Internet Archive.
+The archiving routine has saved 112 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-27T10:30:23.568248-04:00.jpg">
-  <img src="https://archive.org/download/gridnews-2022/gridnews-2022-07-27T10:30:23.568248-04:00.jpg"
-     alt="Grid at 2022-07-27 10:30:25-04:00 local time"
+ <a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-27T22:37:47.114877-04:00.jpg">
+  <img src="https://archive.org/download/gridnews-2022/gridnews-2022-07-27T22:37:47.114877-04:00.jpg"
+     alt="Grid at 2022-07-28 05:37:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-27T10:30:23.568248-04:00.jpg">July 27 at 10:30 AM</a></p>
+ <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-27T22:37:47.114877-04:00.jpg">July 28 at 5:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-27T10:30:23.568248-04:00.jpg">
+  <img src="https://archive.org/download/gridnews-2022/gridnews-2022-07-27T10:30:23.568248-04:00.jpg"
+     alt="Grid at 2022-07-27 17:30:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-27T10:30:23.568248-04:00.jpg">July 27 at 5:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-26T22:37:47.792971-04:00.jpg">
   <img src="https://archive.org/download/gridnews-2022/gridnews-2022-07-26T22:37:47.792971-04:00.jpg"
-     alt="Grid at 2022-07-26 22:37:51-04:00 local time"
+     alt="Grid at 2022-07-27 05:37:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-26T22:37:47.792971-04:00.jpg">July 26 at 10:37 PM</a></p>
+ <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-26T22:37:47.792971-04:00.jpg">July 27 at 5:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-26T10:35:34.980883-04:00.jpg">
   <img src="https://archive.org/download/gridnews-2022/gridnews-2022-07-26T10:35:34.980883-04:00.jpg"
-     alt="Grid at 2022-07-26 10:35:36-04:00 local time"
+     alt="Grid at 2022-07-26 17:35:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-26T10:35:34.980883-04:00.jpg">July 26 at 10:35 AM</a></p>
+ <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-26T10:35:34.980883-04:00.jpg">July 26 at 5:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-25T22:44:06.750860-04:00.jpg">
   <img src="https://archive.org/download/gridnews-2022/gridnews-2022-07-25T22:44:06.750860-04:00.jpg"
-     alt="Grid at 2022-07-25 22:44:08-04:00 local time"
+     alt="Grid at 2022-07-26 05:44:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-25T22:44:06.750860-04:00.jpg">July 25 at 10:44 PM</a></p>
+ <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-25T22:44:06.750860-04:00.jpg">July 26 at 5:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-25T08:04:47.817264-04:00.jpg">
   <img src="https://archive.org/download/gridnews-2022/gridnews-2022-07-25T08:04:47.817264-04:00.jpg"
-     alt="Grid at 2022-07-25 08:04:49-04:00 local time"
+     alt="Grid at 2022-07-25 15:04:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-25T08:04:47.817264-04:00.jpg">July 25 at 8:04 AM</a></p>
+ <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-25T08:04:47.817264-04:00.jpg">July 25 at 3:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-24T21:09:27.173384-04:00.jpg">
   <img src="https://archive.org/download/gridnews-2022/gridnews-2022-07-24T21:09:27.173384-04:00.jpg"
-     alt="Grid at 2022-07-24 21:09:28-04:00 local time"
+     alt="Grid at 2022-07-25 04:09:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-24T21:09:27.173384-04:00.jpg">July 24 at 9:09 PM</a></p>
+ <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-24T21:09:27.173384-04:00.jpg">July 25 at 4:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-24T08:01:38.219960-04:00.jpg">
   <img src="https://archive.org/download/gridnews-2022/gridnews-2022-07-24T08:01:38.219960-04:00.jpg"
-     alt="Grid at 2022-07-24 08:01:40-04:00 local time"
+     alt="Grid at 2022-07-24 15:01:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-24T08:01:38.219960-04:00.jpg">July 24 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-24T08:01:38.219960-04:00.jpg">July 24 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-24T02:32:08.701945-04:00.jpg">
   <img src="https://archive.org/download/gridnews-2022/gridnews-2022-07-24T02:32:08.701945-04:00.jpg"
-     alt="Grid at 2022-07-24 02:32:12-04:00 local time"
+     alt="Grid at 2022-07-24 09:32:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-24T02:32:08.701945-04:00.jpg">July 24 at 2:32 AM</a></p>
+ <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-24T02:32:08.701945-04:00.jpg">July 24 at 9:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-23T10:00:30.726463-04:00.jpg">
   <img src="https://archive.org/download/gridnews-2022/gridnews-2022-07-23T10:00:30.726463-04:00.jpg"
-     alt="Grid at 2022-07-23 10:00:32-04:00 local time"
+     alt="Grid at 2022-07-23 17:00:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-23T10:00:30.726463-04:00.jpg">July 23 at 10:00 AM</a></p>
+ <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-23T10:00:30.726463-04:00.jpg">July 23 at 5:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-22T22:27:09.468843-04:00.jpg">
   <img src="https://archive.org/download/gridnews-2022/gridnews-2022-07-22T22:27:09.468843-04:00.jpg"
-     alt="Grid at 2022-07-22 22:27:11-04:00 local time"
+     alt="Grid at 2022-07-23 05:27:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-22T22:27:09.468843-04:00.jpg">July 22 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-22T22:27:09.468843-04:00.jpg">July 23 at 5:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-22T10:02:38.608645-04:00.jpg">
   <img src="https://archive.org/download/gridnews-2022/gridnews-2022-07-22T10:02:38.608645-04:00.jpg"
-     alt="Grid at 2022-07-22 10:02:40-04:00 local time"
+     alt="Grid at 2022-07-22 17:02:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-22T10:02:38.608645-04:00.jpg">July 22 at 10:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-21T22:21:55.436726-04:00.jpg">
-  <img src="https://archive.org/download/gridnews-2022/gridnews-2022-07-21T22:21:55.436726-04:00.jpg"
-     alt="Grid at 2022-07-21 22:21:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-21T22:21:55.436726-04:00.jpg">July 21 at 10:21 PM</a></p>
+ <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-07-22T10:02:38.608645-04:00.jpg">July 22 at 5:02 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 111 hyperlink lists with the Internet Archive.
+The archiving routine has saved 112 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 10:30 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-27T10:30:23.568248-04:00.hyperlinks.json) |
-| [July 26 at 10:37 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-26T22:37:47.792971-04:00.hyperlinks.json) |
-| [July 26 at 10:35 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-26T10:35:34.980883-04:00.hyperlinks.json) |
-| [July 25 at 10:44 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-25T22:44:06.750860-04:00.hyperlinks.json) |
-| [July 25 at 8:04 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-25T08:04:47.817264-04:00.hyperlinks.json) |
-| [July 24 at 9:09 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-24T21:09:27.173384-04:00.hyperlinks.json) |
-| [July 24 at 8:01 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-24T08:01:38.219960-04:00.hyperlinks.json) |
-| [July 24 at 2:32 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-24T02:32:08.701945-04:00.hyperlinks.json) |
-| [July 23 at 10:00 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-23T10:00:30.726463-04:00.hyperlinks.json) |
-| [July 22 at 10:27 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-22T22:27:09.468843-04:00.hyperlinks.json) |
+| [July 28 at 5:37 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-27T22:37:47.114877-04:00.hyperlinks.json) |
+| [July 27 at 5:30 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-27T10:30:23.568248-04:00.hyperlinks.json) |
+| [July 27 at 5:37 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-26T22:37:47.792971-04:00.hyperlinks.json) |
+| [July 26 at 5:35 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-26T10:35:34.980883-04:00.hyperlinks.json) |
+| [July 26 at 5:44 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-25T22:44:06.750860-04:00.hyperlinks.json) |
+| [July 25 at 3:04 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-25T08:04:47.817264-04:00.hyperlinks.json) |
+| [July 25 at 4:09 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-24T21:09:27.173384-04:00.hyperlinks.json) |
+| [July 24 at 3:01 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-24T08:01:38.219960-04:00.hyperlinks.json) |
+| [July 24 at 9:32 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-24T02:32:08.701945-04:00.hyperlinks.json) |
+| [July 23 at 5:00 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-23T10:00:30.726463-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 110 accessibility trees with the Internet Archive.
+The archiving routine has saved 111 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,16 +419,38 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 10:30 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-27T10:30:23.568248-04:00.accessibility.json) |
-| [July 26 at 10:37 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-26T22:37:47.792971-04:00.accessibility.json) |
-| [July 26 at 10:35 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-26T10:35:34.980883-04:00.accessibility.json) |
-| [July 25 at 10:44 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-25T22:44:06.750860-04:00.accessibility.json) |
-| [July 25 at 8:04 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-25T08:04:47.817264-04:00.accessibility.json) |
-| [July 24 at 9:09 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-24T21:09:27.173384-04:00.accessibility.json) |
-| [July 24 at 8:01 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-24T08:01:38.219960-04:00.accessibility.json) |
-| [July 24 at 2:32 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-24T02:32:08.701945-04:00.accessibility.json) |
-| [July 23 at 10:00 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-23T10:00:30.726463-04:00.accessibility.json) |
-| [July 22 at 10:27 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-22T22:27:09.468843-04:00.accessibility.json) |
+| [July 28 at 5:37 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-27T22:37:47.114877-04:00.accessibility.json) |
+| [July 27 at 5:30 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-27T10:30:23.568248-04:00.accessibility.json) |
+| [July 27 at 5:37 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-26T22:37:47.792971-04:00.accessibility.json) |
+| [July 26 at 5:35 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-26T10:35:34.980883-04:00.accessibility.json) |
+| [July 26 at 5:44 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-25T22:44:06.750860-04:00.accessibility.json) |
+| [July 25 at 3:04 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-25T08:04:47.817264-04:00.accessibility.json) |
+| [July 25 at 4:09 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-24T21:09:27.173384-04:00.accessibility.json) |
+| [July 24 at 3:01 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-24T08:01:38.219960-04:00.accessibility.json) |
+| [July 24 at 9:32 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-24T02:32:08.701945-04:00.accessibility.json) |
+| [July 23 at 5:00 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-23T10:00:30.726463-04:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 5:37 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-27T22:37:47.114877-04:00.lighthouse.json) |
+| [July 27 at 5:30 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-27T10:30:23.568248-04:00.lighthouse.json) |
+| [July 27 at 5:37 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-26T22:37:47.792971-04:00.lighthouse.json) |
+| [July 26 at 5:35 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-26T10:35:34.980883-04:00.lighthouse.json) |
+| [July 26 at 5:44 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-25T22:44:06.750860-04:00.lighthouse.json) |
+| [July 25 at 3:04 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-25T08:04:47.817264-04:00.lighthouse.json) |
+| [July 25 at 4:09 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-24T21:09:27.173384-04:00.lighthouse.json) |
+| [July 24 at 3:01 PM](https://archive.org/download/gridnews-2022/gridnews-2022-07-24T08:01:38.219960-04:00.lighthouse.json) |
+| [July 24 at 9:32 AM](https://archive.org/download/gridnews-2022/gridnews-2022-07-24T02:32:08.701945-04:00.lighthouse.json) |
 
 
 

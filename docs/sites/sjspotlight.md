@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-27T17:12:04.956778-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-27T17:12:04.956778-07:00.jpg"
-     alt="San José Spotlight at 2022-07-27 17:12:07-07:00 local time"
+     alt="San José Spotlight at 2022-07-28 00:12:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-27T17:12:04.956778-07:00.jpg">July 27 at 5:12 PM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-27T17:12:04.956778-07:00.jpg">July 28 at 12:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-27T06:16:48.269594-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-27T06:16:48.269594-07:00.jpg"
-     alt="San José Spotlight at 2022-07-27 06:16:49-07:00 local time"
+     alt="San José Spotlight at 2022-07-27 13:16:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-27T06:16:48.269594-07:00.jpg">July 27 at 6:16 AM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-27T06:16:48.269594-07:00.jpg">July 27 at 1:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-26T17:20:11.569941-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-26T17:20:11.569941-07:00.jpg"
-     alt="San José Spotlight at 2022-07-26 17:20:16-07:00 local time"
+     alt="San José Spotlight at 2022-07-27 00:20:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-26T17:20:11.569941-07:00.jpg">July 26 at 5:20 PM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-26T17:20:11.569941-07:00.jpg">July 27 at 12:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-26T05:29:45.986167-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-26T05:29:45.986167-07:00.jpg"
-     alt="San José Spotlight at 2022-07-26 05:29:48-07:00 local time"
+     alt="San José Spotlight at 2022-07-26 12:29:48-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-26T05:29:45.986167-07:00.jpg">July 26 at 5:29 AM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-26T05:29:45.986167-07:00.jpg">July 26 at 12:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T17:25:18.856648-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T17:25:18.856648-07:00.jpg"
-     alt="San José Spotlight at 2022-07-25 17:25:21-07:00 local time"
+     alt="San José Spotlight at 2022-07-26 00:25:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T17:25:18.856648-07:00.jpg">July 25 at 5:25 PM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T17:25:18.856648-07:00.jpg">July 26 at 12:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T08:41:40.438571-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T08:41:40.438571-07:00.jpg"
-     alt="San José Spotlight at 2022-07-25 08:41:43-07:00 local time"
+     alt="San José Spotlight at 2022-07-25 15:41:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T08:41:40.438571-07:00.jpg">July 25 at 8:41 AM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T08:41:40.438571-07:00.jpg">July 25 at 3:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T20:43:45.587886-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T20:43:45.587886-07:00.jpg"
-     alt="San José Spotlight at 2022-07-24 20:43:46-07:00 local time"
+     alt="San José Spotlight at 2022-07-25 03:43:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T20:43:45.587886-07:00.jpg">July 24 at 8:43 PM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T20:43:45.587886-07:00.jpg">July 25 at 3:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T07:03:59.235794-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T07:03:59.235794-07:00.jpg"
-     alt="San José Spotlight at 2022-07-24 07:04:01-07:00 local time"
+     alt="San José Spotlight at 2022-07-24 14:04:01-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T07:03:59.235794-07:00.jpg">July 24 at 7:04 AM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T07:03:59.235794-07:00.jpg">July 24 at 2:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T23:23:16.192465-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T23:23:16.192465-07:00.jpg"
-     alt="San José Spotlight at 2022-07-23 23:23:17-07:00 local time"
+     alt="San José Spotlight at 2022-07-24 06:23:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T23:23:16.192465-07:00.jpg">July 23 at 11:23 PM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T23:23:16.192465-07:00.jpg">July 24 at 6:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T09:02:09.257249-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T09:02:09.257249-07:00.jpg"
-     alt="San José Spotlight at 2022-07-23 09:02:10-07:00 local time"
+     alt="San José Spotlight at 2022-07-23 16:02:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T09:02:09.257249-07:00.jpg">July 23 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T09:02:09.257249-07:00.jpg">July 23 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-22T21:21:52.429498-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-22T21:21:52.429498-07:00.jpg"
-     alt="San José Spotlight at 2022-07-22 21:21:54-07:00 local time"
+     alt="San José Spotlight at 2022-07-23 04:21:54-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-22T21:21:52.429498-07:00.jpg">July 22 at 9:21 PM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-22T21:21:52.429498-07:00.jpg">July 23 at 4:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-22T09:14:49.522232-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-22T09:14:49.522232-07:00.jpg"
-     alt="San José Spotlight at 2022-07-22 09:14:50-07:00 local time"
+     alt="San José Spotlight at 2022-07-22 16:14:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-22T09:14:49.522232-07:00.jpg">July 22 at 9:14 AM</a></p>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-22T09:14:49.522232-07:00.jpg">July 22 at 4:14 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 5:12 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-27T17:12:04.956778-07:00.hyperlinks.json) |
-| [July 27 at 6:16 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-27T06:16:48.269594-07:00.hyperlinks.json) |
-| [July 26 at 5:20 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-26T17:20:11.569941-07:00.hyperlinks.json) |
-| [July 26 at 5:29 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-26T05:29:45.986167-07:00.hyperlinks.json) |
-| [July 25 at 5:25 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T17:25:18.856648-07:00.hyperlinks.json) |
-| [July 25 at 8:41 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T08:41:40.438571-07:00.hyperlinks.json) |
-| [July 24 at 8:43 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T20:43:45.587886-07:00.hyperlinks.json) |
-| [July 24 at 7:04 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T07:03:59.235794-07:00.hyperlinks.json) |
-| [July 23 at 11:23 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T23:23:16.192465-07:00.hyperlinks.json) |
-| [July 23 at 9:02 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T09:02:09.257249-07:00.hyperlinks.json) |
+| [July 28 at 12:12 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-27T17:12:04.956778-07:00.hyperlinks.json) |
+| [July 27 at 1:16 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-27T06:16:48.269594-07:00.hyperlinks.json) |
+| [July 27 at 12:20 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-26T17:20:11.569941-07:00.hyperlinks.json) |
+| [July 26 at 12:29 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-26T05:29:45.986167-07:00.hyperlinks.json) |
+| [July 26 at 12:25 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T17:25:18.856648-07:00.hyperlinks.json) |
+| [July 25 at 3:41 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T08:41:40.438571-07:00.hyperlinks.json) |
+| [July 25 at 3:43 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T20:43:45.587886-07:00.hyperlinks.json) |
+| [July 24 at 2:04 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T07:03:59.235794-07:00.hyperlinks.json) |
+| [July 24 at 6:23 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T23:23:16.192465-07:00.hyperlinks.json) |
+| [July 23 at 4:02 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T09:02:09.257249-07:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,38 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 5:12 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-27T17:12:04.956778-07:00.accessibility.json) |
-| [July 27 at 6:16 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-27T06:16:48.269594-07:00.accessibility.json) |
-| [July 26 at 5:20 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-26T17:20:11.569941-07:00.accessibility.json) |
-| [July 26 at 5:29 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-26T05:29:45.986167-07:00.accessibility.json) |
-| [July 25 at 5:25 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T17:25:18.856648-07:00.accessibility.json) |
-| [July 25 at 8:41 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T08:41:40.438571-07:00.accessibility.json) |
-| [July 24 at 8:43 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T20:43:45.587886-07:00.accessibility.json) |
-| [July 24 at 7:04 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T07:03:59.235794-07:00.accessibility.json) |
-| [July 23 at 11:23 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T23:23:16.192465-07:00.accessibility.json) |
-| [July 23 at 9:02 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T09:02:09.257249-07:00.accessibility.json) |
+| [July 28 at 12:12 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-27T17:12:04.956778-07:00.accessibility.json) |
+| [July 27 at 1:16 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-27T06:16:48.269594-07:00.accessibility.json) |
+| [July 27 at 12:20 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-26T17:20:11.569941-07:00.accessibility.json) |
+| [July 26 at 12:29 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-26T05:29:45.986167-07:00.accessibility.json) |
+| [July 26 at 12:25 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T17:25:18.856648-07:00.accessibility.json) |
+| [July 25 at 3:41 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T08:41:40.438571-07:00.accessibility.json) |
+| [July 25 at 3:43 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T20:43:45.587886-07:00.accessibility.json) |
+| [July 24 at 2:04 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T07:03:59.235794-07:00.accessibility.json) |
+| [July 24 at 6:23 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T23:23:16.192465-07:00.accessibility.json) |
+| [July 23 at 4:02 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T09:02:09.257249-07:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 12:12 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-27T17:12:04.956778-07:00.lighthouse.json) |
+| [July 27 at 1:16 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-27T06:16:48.269594-07:00.lighthouse.json) |
+| [July 27 at 12:20 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-26T17:20:11.569941-07:00.lighthouse.json) |
+| [July 26 at 12:29 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-26T05:29:45.986167-07:00.lighthouse.json) |
+| [July 26 at 12:25 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T17:25:18.856648-07:00.lighthouse.json) |
+| [July 25 at 3:41 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-25T08:41:40.438571-07:00.lighthouse.json) |
+| [July 25 at 3:43 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T20:43:45.587886-07:00.lighthouse.json) |
+| [July 24 at 2:04 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-24T07:03:59.235794-07:00.lighthouse.json) |
+| [July 24 at 6:23 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-07-23T23:23:16.192465-07:00.lighthouse.json) |
 
 
 

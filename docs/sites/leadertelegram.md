@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 190 screenshots with the Internet Archive.
+The archiving routine has saved 191 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-27T09:33:18.963028-05:00.jpg">
-  <img src="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-27T09:33:18.963028-05:00.jpg"
-     alt="Eau Claire Leader-Telegram at 2022-07-27 09:33:20-05:00 local time"
+ <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-27T21:40:26.309840-05:00.jpg">
+  <img src="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-27T21:40:26.309840-05:00.jpg"
+     alt="Eau Claire Leader-Telegram at 2022-07-28 04:40:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-27T09:33:18.963028-05:00.jpg">July 27 at 9:33 AM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-27T21:40:26.309840-05:00.jpg">July 28 at 4:40 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-27T09:33:18.963028-05:00.jpg">
+  <img src="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-27T09:33:18.963028-05:00.jpg"
+     alt="Eau Claire Leader-Telegram at 2022-07-27 16:33:20-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-27T09:33:18.963028-05:00.jpg">July 27 at 4:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T21:39:52.954106-05:00.jpg">
   <img src="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T21:39:52.954106-05:00.jpg"
-     alt="Eau Claire Leader-Telegram at 2022-07-26 21:39:58-05:00 local time"
+     alt="Eau Claire Leader-Telegram at 2022-07-27 04:39:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T21:39:52.954106-05:00.jpg">July 26 at 9:39 PM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T21:39:52.954106-05:00.jpg">July 27 at 4:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T09:38:53.657891-05:00.jpg">
   <img src="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T09:38:53.657891-05:00.jpg"
-     alt="Eau Claire Leader-Telegram at 2022-07-26 09:38:55-05:00 local time"
+     alt="Eau Claire Leader-Telegram at 2022-07-26 16:38:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T09:38:53.657891-05:00.jpg">July 26 at 9:38 AM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T09:38:53.657891-05:00.jpg">July 26 at 4:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T21:46:14.455926-05:00.jpg">
   <img src="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T21:46:14.455926-05:00.jpg"
-     alt="Eau Claire Leader-Telegram at 2022-07-25 21:46:15-05:00 local time"
+     alt="Eau Claire Leader-Telegram at 2022-07-26 04:46:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T21:46:14.455926-05:00.jpg">July 25 at 9:46 PM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T21:46:14.455926-05:00.jpg">July 26 at 4:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T08:12:41.111840-05:00.jpg">
   <img src="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T08:12:41.111840-05:00.jpg"
-     alt="Eau Claire Leader-Telegram at 2022-07-25 08:12:42-05:00 local time"
+     alt="Eau Claire Leader-Telegram at 2022-07-25 15:12:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T08:12:41.111840-05:00.jpg">July 25 at 8:12 AM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T08:12:41.111840-05:00.jpg">July 25 at 3:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T22:28:41.879560-05:00.jpg">
   <img src="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T22:28:41.879560-05:00.jpg"
-     alt="Eau Claire Leader-Telegram at 2022-07-24 22:28:47-05:00 local time"
+     alt="Eau Claire Leader-Telegram at 2022-07-25 05:28:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T22:28:41.879560-05:00.jpg">July 24 at 10:28 PM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T22:28:41.879560-05:00.jpg">July 25 at 5:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T08:01:15.538295-05:00.jpg">
   <img src="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T08:01:15.538295-05:00.jpg"
-     alt="Eau Claire Leader-Telegram at 2022-07-24 08:01:17-05:00 local time"
+     alt="Eau Claire Leader-Telegram at 2022-07-24 15:01:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T08:01:15.538295-05:00.jpg">July 24 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T08:01:15.538295-05:00.jpg">July 24 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T23:16:30.121570-05:00.jpg">
   <img src="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T23:16:30.121570-05:00.jpg"
-     alt="Eau Claire Leader-Telegram at 2022-07-23 23:16:35-05:00 local time"
+     alt="Eau Claire Leader-Telegram at 2022-07-24 06:16:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T23:16:30.121570-05:00.jpg">July 23 at 11:16 PM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T23:16:30.121570-05:00.jpg">July 24 at 6:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T09:07:01.518677-05:00.jpg">
   <img src="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T09:07:01.518677-05:00.jpg"
-     alt="Eau Claire Leader-Telegram at 2022-07-23 09:07:04-05:00 local time"
+     alt="Eau Claire Leader-Telegram at 2022-07-23 16:07:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T09:07:01.518677-05:00.jpg">July 23 at 9:07 AM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T09:07:01.518677-05:00.jpg">July 23 at 4:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-22T21:33:06.892864-05:00.jpg">
   <img src="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-22T21:33:06.892864-05:00.jpg"
-     alt="Eau Claire Leader-Telegram at 2022-07-22 21:33:08-05:00 local time"
+     alt="Eau Claire Leader-Telegram at 2022-07-23 04:33:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-22T21:33:06.892864-05:00.jpg">July 22 at 9:33 PM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-22T21:33:06.892864-05:00.jpg">July 23 at 4:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-22T09:07:32.153163-05:00.jpg">
   <img src="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-22T09:07:32.153163-05:00.jpg"
-     alt="Eau Claire Leader-Telegram at 2022-07-22 09:07:34-05:00 local time"
+     alt="Eau Claire Leader-Telegram at 2022-07-22 16:07:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-22T09:07:32.153163-05:00.jpg">July 22 at 9:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-21T21:27:02.668726-05:00.jpg">
-  <img src="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-21T21:27:02.668726-05:00.jpg"
-     alt="Eau Claire Leader-Telegram at 2022-07-21 21:27:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-21T21:27:02.668726-05:00.jpg">July 21 at 9:27 PM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-22T09:07:32.153163-05:00.jpg">July 22 at 4:07 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 185 hyperlink lists with the Internet Archive.
+The archiving routine has saved 186 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 9:33 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-27T09:33:18.963028-05:00.hyperlinks.json) |
-| [July 26 at 9:40 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T21:39:52.954106-05:00.hyperlinks.json) |
-| [July 26 at 9:38 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T09:38:53.657891-05:00.hyperlinks.json) |
-| [July 25 at 9:46 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T21:46:14.455926-05:00.hyperlinks.json) |
-| [July 25 at 8:12 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T08:12:41.111840-05:00.hyperlinks.json) |
-| [July 24 at 10:28 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T22:28:41.879560-05:00.hyperlinks.json) |
-| [July 24 at 8:01 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T08:01:15.538295-05:00.hyperlinks.json) |
-| [July 23 at 11:16 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T23:16:30.121570-05:00.hyperlinks.json) |
-| [July 23 at 9:07 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T09:07:01.518677-05:00.hyperlinks.json) |
-| [July 22 at 9:33 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-22T21:33:06.892864-05:00.hyperlinks.json) |
+| [July 28 at 4:40 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-27T21:40:26.309840-05:00.hyperlinks.json) |
+| [July 27 at 4:33 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-27T09:33:18.963028-05:00.hyperlinks.json) |
+| [July 27 at 4:40 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T21:39:52.954106-05:00.hyperlinks.json) |
+| [July 26 at 4:38 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T09:38:53.657891-05:00.hyperlinks.json) |
+| [July 26 at 4:46 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T21:46:14.455926-05:00.hyperlinks.json) |
+| [July 25 at 3:12 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T08:12:41.111840-05:00.hyperlinks.json) |
+| [July 25 at 5:28 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T22:28:41.879560-05:00.hyperlinks.json) |
+| [July 24 at 3:01 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T08:01:15.538295-05:00.hyperlinks.json) |
+| [July 24 at 6:16 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T23:16:30.121570-05:00.hyperlinks.json) |
+| [July 23 at 4:07 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T09:07:01.518677-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 186 accessibility trees with the Internet Archive.
+The archiving routine has saved 187 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,16 +419,38 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 9:33 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-27T09:33:18.963028-05:00.accessibility.json) |
-| [July 26 at 9:39 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T21:39:52.954106-05:00.accessibility.json) |
-| [July 26 at 9:38 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T09:38:53.657891-05:00.accessibility.json) |
-| [July 25 at 9:46 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T21:46:14.455926-05:00.accessibility.json) |
-| [July 25 at 8:12 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T08:12:41.111840-05:00.accessibility.json) |
-| [July 24 at 10:28 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T22:28:41.879560-05:00.accessibility.json) |
-| [July 24 at 8:01 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T08:01:15.538295-05:00.accessibility.json) |
-| [July 23 at 11:16 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T23:16:30.121570-05:00.accessibility.json) |
-| [July 23 at 9:07 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T09:07:01.518677-05:00.accessibility.json) |
-| [July 22 at 9:33 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-22T21:33:06.892864-05:00.accessibility.json) |
+| [July 28 at 4:40 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-27T21:40:26.309840-05:00.accessibility.json) |
+| [July 27 at 4:33 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-27T09:33:18.963028-05:00.accessibility.json) |
+| [July 27 at 4:39 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T21:39:52.954106-05:00.accessibility.json) |
+| [July 26 at 4:38 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T09:38:53.657891-05:00.accessibility.json) |
+| [July 26 at 4:46 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T21:46:14.455926-05:00.accessibility.json) |
+| [July 25 at 3:12 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T08:12:41.111840-05:00.accessibility.json) |
+| [July 25 at 5:28 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T22:28:41.879560-05:00.accessibility.json) |
+| [July 24 at 3:01 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T08:01:15.538295-05:00.accessibility.json) |
+| [July 24 at 6:16 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T23:16:30.121570-05:00.accessibility.json) |
+| [July 23 at 4:07 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T09:07:01.518677-05:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 4:40 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-27T21:40:26.309840-05:00.lighthouse.json) |
+| [July 27 at 4:33 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-27T09:33:18.963028-05:00.lighthouse.json) |
+| [July 27 at 4:40 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T21:39:52.954106-05:00.lighthouse.json) |
+| [July 26 at 4:39 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-26T09:38:53.657891-05:00.lighthouse.json) |
+| [July 26 at 4:46 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T21:46:14.455926-05:00.lighthouse.json) |
+| [July 25 at 3:12 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-25T08:12:41.111840-05:00.lighthouse.json) |
+| [July 25 at 5:28 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T22:28:41.879560-05:00.lighthouse.json) |
+| [July 24 at 3:01 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T08:01:15.538295-05:00.lighthouse.json) |
+| [July 24 at 6:16 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T23:16:30.121570-05:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T17:29:15.604034+03:00.jpg">
-  <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T17:29:15.604034+03:00.jpg"
-     alt="Gazeta.Ru at 2022-07-27 17:29:20+03:00 local time"
+ <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-28T08:22:43.828746+03:00.jpg">
+  <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-28T08:22:43.828746+03:00.jpg"
+     alt="Gazeta.Ru at 2022-07-28 15:22:46+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T17:29:15.604034+03:00.jpg">July 27 at 5:29 PM</a></p>
+ <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-28T08:22:43.828746+03:00.jpg">July 28 at 3:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-28T05:36:33.683507+03:00.jpg">
+  <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-28T05:36:33.683507+03:00.jpg"
+     alt="Gazeta.Ru at 2022-07-28 12:36:35+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-28T05:36:33.683507+03:00.jpg">July 28 at 12:36 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T17:29:15.604034+03:00.jpg">
+  <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T17:29:15.604034+03:00.jpg"
+     alt="Gazeta.Ru at 2022-07-28 00:29:20+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T17:29:15.604034+03:00.jpg">July 28 at 12:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T08:24:56.820861+03:00.jpg">
   <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T08:24:56.820861+03:00.jpg"
-     alt="Gazeta.Ru at 2022-07-27 08:24:58+03:00 local time"
+     alt="Gazeta.Ru at 2022-07-27 15:24:58+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T08:24:56.820861+03:00.jpg">July 27 at 8:24 AM</a></p>
+ <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T08:24:56.820861+03:00.jpg">July 27 at 3:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T05:36:21.345509+03:00.jpg">
   <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T05:36:21.345509+03:00.jpg"
-     alt="Gazeta.Ru at 2022-07-27 05:36:22+03:00 local time"
+     alt="Gazeta.Ru at 2022-07-27 12:36:22+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T05:36:21.345509+03:00.jpg">July 27 at 5:36 AM</a></p>
+ <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T05:36:21.345509+03:00.jpg">July 27 at 12:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T17:34:31.933905+03:00.jpg">
   <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T17:34:31.933905+03:00.jpg"
-     alt="Gazeta.Ru at 2022-07-26 17:34:33+03:00 local time"
+     alt="Gazeta.Ru at 2022-07-27 00:34:33+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T17:34:31.933905+03:00.jpg">July 26 at 5:34 PM</a></p>
+ <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T17:34:31.933905+03:00.jpg">July 27 at 12:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T08:30:09.134369+03:00.jpg">
   <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T08:30:09.134369+03:00.jpg"
-     alt="Gazeta.Ru at 2022-07-26 08:30:11+03:00 local time"
+     alt="Gazeta.Ru at 2022-07-26 15:30:11+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T08:30:09.134369+03:00.jpg">July 26 at 8:30 AM</a></p>
+ <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T08:30:09.134369+03:00.jpg">July 26 at 3:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T05:42:55.059925+03:00.jpg">
   <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T05:42:55.059925+03:00.jpg"
-     alt="Gazeta.Ru at 2022-07-26 05:42:56+03:00 local time"
+     alt="Gazeta.Ru at 2022-07-26 12:42:56+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T05:42:55.059925+03:00.jpg">July 26 at 5:42 AM</a></p>
+ <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T05:42:55.059925+03:00.jpg">July 26 at 12:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T15:03:54.188106+03:00.jpg">
   <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T15:03:54.188106+03:00.jpg"
-     alt="Gazeta.Ru at 2022-07-25 15:03:55+03:00 local time"
+     alt="Gazeta.Ru at 2022-07-25 22:03:55+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T15:03:54.188106+03:00.jpg">July 25 at 3:03 PM</a></p>
+ <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T15:03:54.188106+03:00.jpg">July 25 at 10:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T08:23:14.472185+03:00.jpg">
   <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T08:23:14.472185+03:00.jpg"
-     alt="Gazeta.Ru at 2022-07-25 08:23:15+03:00 local time"
+     alt="Gazeta.Ru at 2022-07-25 15:23:15+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T08:23:14.472185+03:00.jpg">July 25 at 8:23 AM</a></p>
+ <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T08:23:14.472185+03:00.jpg">July 25 at 3:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T04:07:16.116257+03:00.jpg">
   <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T04:07:16.116257+03:00.jpg"
-     alt="Gazeta.Ru at 2022-07-25 04:07:18+03:00 local time"
+     alt="Gazeta.Ru at 2022-07-25 11:07:18+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T04:07:16.116257+03:00.jpg">July 25 at 4:07 AM</a></p>
+ <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T04:07:16.116257+03:00.jpg">July 25 at 11:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-24T15:01:41.746146+03:00.jpg">
   <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-24T15:01:41.746146+03:00.jpg"
-     alt="Gazeta.Ru at 2022-07-24 15:01:43+03:00 local time"
+     alt="Gazeta.Ru at 2022-07-24 22:01:43+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-24T15:01:41.746146+03:00.jpg">July 24 at 3:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-24T09:47:37.339604+03:00.jpg">
-  <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-24T09:47:37.339604+03:00.jpg"
-     alt="Gazeta.Ru at 2022-07-24 09:47:38+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-24T09:47:37.339604+03:00.jpg">July 24 at 9:47 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-24T09:31:16.821568+03:00.jpg">
-  <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-24T09:31:16.821568+03:00.jpg"
-     alt="Gazeta.Ru at 2022-07-24 09:31:18+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-24T09:31:16.821568+03:00.jpg">July 24 at 9:31 AM</a></p>
+ <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-07-24T15:01:41.746146+03:00.jpg">July 24 at 10:01 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 34 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 5:29 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T17:29:15.604034+03:00.hyperlinks.json) |
-| [July 27 at 8:25 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T08:24:56.820861+03:00.hyperlinks.json) |
-| [July 27 at 5:36 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T05:36:21.345509+03:00.hyperlinks.json) |
-| [July 26 at 5:34 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T17:34:31.933905+03:00.hyperlinks.json) |
-| [July 26 at 8:30 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T08:30:09.134369+03:00.hyperlinks.json) |
-| [July 26 at 5:43 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T05:42:55.059925+03:00.hyperlinks.json) |
-| [July 25 at 3:03 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T15:03:54.188106+03:00.hyperlinks.json) |
-| [July 25 at 8:23 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T08:23:14.472185+03:00.hyperlinks.json) |
-| [July 25 at 4:07 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T04:07:16.116257+03:00.hyperlinks.json) |
-| [July 24 at 3:01 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-24T15:01:41.746146+03:00.hyperlinks.json) |
+| [July 28 at 3:22 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-28T08:22:43.828746+03:00.hyperlinks.json) |
+| [July 28 at 12:36 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-28T05:36:33.683507+03:00.hyperlinks.json) |
+| [July 28 at 12:29 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T17:29:15.604034+03:00.hyperlinks.json) |
+| [July 27 at 3:25 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T08:24:56.820861+03:00.hyperlinks.json) |
+| [July 27 at 12:36 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T05:36:21.345509+03:00.hyperlinks.json) |
+| [July 27 at 12:34 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T17:34:31.933905+03:00.hyperlinks.json) |
+| [July 26 at 3:30 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T08:30:09.134369+03:00.hyperlinks.json) |
+| [July 26 at 12:43 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T05:42:55.059925+03:00.hyperlinks.json) |
+| [July 25 at 10:03 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T15:03:54.188106+03:00.hyperlinks.json) |
+| [July 25 at 3:23 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T08:23:14.472185+03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 34 accessibility trees with the Internet Archive.
+The archiving routine has saved 36 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,16 +419,39 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 5:29 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T17:29:15.604034+03:00.accessibility.json) |
-| [July 27 at 8:24 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T08:24:56.820861+03:00.accessibility.json) |
-| [July 27 at 5:36 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T05:36:21.345509+03:00.accessibility.json) |
-| [July 26 at 5:34 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T17:34:31.933905+03:00.accessibility.json) |
-| [July 26 at 8:30 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T08:30:09.134369+03:00.accessibility.json) |
-| [July 26 at 5:42 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T05:42:55.059925+03:00.accessibility.json) |
-| [July 25 at 3:03 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T15:03:54.188106+03:00.accessibility.json) |
-| [July 25 at 8:23 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T08:23:14.472185+03:00.accessibility.json) |
-| [July 25 at 4:07 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T04:07:16.116257+03:00.accessibility.json) |
-| [July 24 at 3:01 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-24T15:01:41.746146+03:00.accessibility.json) |
+| [July 28 at 3:22 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-28T08:22:43.828746+03:00.accessibility.json) |
+| [July 28 at 12:36 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-28T05:36:33.683507+03:00.accessibility.json) |
+| [July 28 at 12:29 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T17:29:15.604034+03:00.accessibility.json) |
+| [July 27 at 3:24 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T08:24:56.820861+03:00.accessibility.json) |
+| [July 27 at 12:36 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T05:36:21.345509+03:00.accessibility.json) |
+| [July 27 at 12:34 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T17:34:31.933905+03:00.accessibility.json) |
+| [July 26 at 3:30 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T08:30:09.134369+03:00.accessibility.json) |
+| [July 26 at 12:42 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T05:42:55.059925+03:00.accessibility.json) |
+| [July 25 at 10:03 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T15:03:54.188106+03:00.accessibility.json) |
+| [July 25 at 3:23 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T08:23:14.472185+03:00.accessibility.json) |
+
+
+
+## Lighthouse
+
+The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+
+
+
+Here are the 10 most recent Lighthouse audits.
+
+| Time  |
+| :---- |
+| [July 28 at 3:22 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-28T08:22:43.828746+03:00.lighthouse.json) |
+| [July 28 at 12:36 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-28T05:36:33.683507+03:00.lighthouse.json) |
+| [July 28 at 12:29 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T17:29:15.604034+03:00.lighthouse.json) |
+| [July 27 at 3:25 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T08:24:56.820861+03:00.lighthouse.json) |
+| [July 27 at 12:36 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-27T05:36:21.345509+03:00.lighthouse.json) |
+| [July 27 at 12:34 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T17:34:31.933905+03:00.lighthouse.json) |
+| [July 26 at 3:30 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T08:30:09.134369+03:00.lighthouse.json) |
+| [July 26 at 12:43 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-26T05:42:55.059925+03:00.lighthouse.json) |
+| [July 25 at 10:04 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T15:03:54.188106+03:00.lighthouse.json) |
+| [July 25 at 3:23 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-07-25T08:23:14.472185+03:00.lighthouse.json) |
 
 
 
