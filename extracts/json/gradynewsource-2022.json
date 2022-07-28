@@ -1,5 +1,5 @@
 {
-  "created": 1658917845,
+  "created": 1658960765,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/24/items/gradynewsource-2022",
@@ -172,31 +172,83 @@
       "sha1": "3dda5306a370ef20633d2dbe0dd92cdef6c889f1"
     },
     {
+      "name": "gradynewsource-2022-07-27T10:30:19.530259-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658932223",
+      "size": "51858",
+      "md5": "f49c812c2f39f297d903b30a888e6f6d",
+      "crc32": "d4d281be",
+      "sha1": "528735ed72b291382b27d30af0e52fd15b6dcf26",
+      "format": "JSON"
+    },
+    {
+      "name": "gradynewsource-2022-07-27T10:30:19.530259-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658932225",
+      "size": "44924",
+      "md5": "e6b04d8fffcaae738dbcbed21dca69ff",
+      "crc32": "e1cb5752",
+      "sha1": "7f78797c44f4dacf377758fc57327786c4ccfdf7",
+      "format": "JSON"
+    },
+    {
+      "name": "gradynewsource-2022-07-27T10:30:19.530259-04:00.jpg",
+      "source": "original",
+      "mtime": "1658932221",
+      "size": "243309",
+      "md5": "8cc542a0ec3579f16d526742800d546b",
+      "crc32": "fa520f83",
+      "sha1": "ec1d1a9b3d8754ac0e0e8868c5010e7883c29f94",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gradynewsource-2022-07-27T10:30:19.530259-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658932226",
+      "size": "1526",
+      "md5": "6ae2244273f219672f51c20126473b38",
+      "crc32": "bfa7d6d9",
+      "sha1": "9fe1720507569d45a928c00b955d114c12e64095",
+      "format": "JSON"
+    },
+    {
+      "name": "gradynewsource-2022-07-27T10:30:19.530259-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gradynewsource-2022-07-27T10:30:19.530259-04:00.jpg",
+      "mtime": "1658952830",
+      "size": "10271",
+      "md5": "3474779127fd74e4169ee7618038a1c9",
+      "crc32": "5d810ae0",
+      "sha1": "720f809d35f45edf5071a6c89c201ba05f4e9646"
+    },
+    {
       "name": "gradynewsource-2022_archive.torrent",
       "source": "metadata",
-      "btih": "74d5263b51c2eb095a85a6404adb5c61ec6cdac2",
-      "mtime": "1658892152",
-      "size": "4930",
-      "md5": "0b2f4da76322d1a33901fa655aa908ac",
-      "crc32": "dc99b055",
-      "sha1": "6d90139ac74684eeba7676b80729a1f18684141c",
+      "btih": "6a10f5eb5d7c5dcffccc7d2034572010d4e580ce",
+      "mtime": "1658952859",
+      "size": "6000",
+      "md5": "c168e0e65f93f41f870c1277d6081773",
+      "crc32": "7b11742f",
+      "sha1": "6ba7411252674add240221e8cb6cd9b7a6f3c7e3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gradynewsource-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3c6a93de5fd9b82589a134e504380107",
+      "md5": "30a5076944d997076a82a1e59ce11858",
       "summation": "md5"
     },
     {
       "name": "gradynewsource-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658889453",
-      "size": "36864",
-      "md5": "840fdd8727812904fe3c17dbe17eec21",
-      "crc32": "5679713e",
-      "sha1": "00d3bd0f86f48990071b778843f13d581b5a179b",
+      "mtime": "1658932233",
+      "size": "45056",
+      "md5": "d27d6b49881cd44da1d19d17c4a5941e",
+      "crc32": "f59eda50",
+      "sha1": "4733dc7e3efa7316e27928b5bb46419ddb150851",
       "format": "Metadata"
     },
     {
@@ -210,9 +262,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 20,
-  "item_last_updated": 1658892152,
-  "item_size": 1152096,
+  "files_count": 25,
+  "item_last_updated": 1658952859,
+  "item_size": 1513246,
   "metadata": {
     "identifier": "gradynewsource-2022",
     "collection": [
@@ -229,10 +281,10 @@
     "publicdate": "2022-07-26 02:43:21",
     "addeddate": "2022-07-26 02:43:21"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 34958273,
+  "server": "ia601506.us.archive.org",
+  "uniq": 363621560,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

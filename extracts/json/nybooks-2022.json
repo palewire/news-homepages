@@ -1,5 +1,5 @@
 {
-  "created": 1658924292,
+  "created": 1658956039,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/32/items/nybooks-2022",
@@ -2018,31 +2018,83 @@
       "sha1": "705ce21d06edf66b32c85d37bcd1e119ae77729d"
     },
     {
+      "name": "nybooks-2022-07-27T11:42:05.982978-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658936529",
+      "size": "20891",
+      "md5": "c75c6a0792aec48cb6e59bf72103cfa7",
+      "crc32": "de40dbfd",
+      "sha1": "a084bea41ef9cda703dff51f0e3ad6b0ed35a788",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-07-27T11:42:05.982978-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658936531",
+      "size": "45613",
+      "md5": "9b1afc7b8f1e34def7c5b040df085b8b",
+      "crc32": "ea55e8df",
+      "sha1": "de27bdf951d33df09a9c908ca889024f0a41a3ab",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-07-27T11:42:05.982978-04:00.jpg",
+      "source": "original",
+      "mtime": "1658936527",
+      "size": "320792",
+      "md5": "d0980012855b9da7075ee8e6ae13dbd7",
+      "crc32": "1ec9d856",
+      "sha1": "21a38f85d487e97d143f8be86a105e20f95cd531",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nybooks-2022-07-27T11:42:05.982978-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658936533",
+      "size": "1468",
+      "md5": "df3e941acaf9e5f8246b2bffb280f55e",
+      "crc32": "dfbc2888",
+      "sha1": "b540dd538ec1027765d1c0cba8199638fff95b19",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-07-27T11:42:05.982978-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nybooks-2022-07-27T11:42:05.982978-04:00.jpg",
+      "mtime": "1658955936",
+      "size": "9886",
+      "md5": "b7fa60d6a163e96092f07ee120e1a148",
+      "crc32": "4f4a3bdc",
+      "sha1": "1fc55cbd833c72c0619e08866ae8ac9dcbb31497"
+    },
+    {
       "name": "nybooks-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a5e2b37eb304de61e24e7b1962d70238bdc7be10",
-      "mtime": "1658897444",
-      "size": "41804",
-      "md5": "80c13d3fc4ee94926128abf684bf0409",
-      "crc32": "febe719f",
-      "sha1": "e0b13be828ca12bb4c9933eeecb9cc5d1d63af35",
+      "btih": "57bb6d2e83a631a396bc072c45f047ea783b07f3",
+      "mtime": "1658955989",
+      "size": "42858",
+      "md5": "480c65de045365f435272507d3521acf",
+      "crc32": "77ace597",
+      "sha1": "737b565b5b1df25437d14cfc4ac9af7cc317bf1c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nybooks-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e0b72ffabed3220d7e19412066873a62",
+      "md5": "afeda6494ecfb20db1e55826020d0736",
       "summation": "md5"
     },
     {
       "name": "nybooks-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658893858",
-      "size": "245760",
-      "md5": "aaab596ff2103892a6ab2b543eaf8df5",
-      "crc32": "ed0c3623",
-      "sha1": "4cb904abafde6dd5f97bec1b9e59db07f047df5d",
+      "mtime": "1658936537",
+      "size": "249856",
+      "md5": "6aa1e91c24bce6bfb2e16d37c33fb98b",
+      "crc32": "c4f14821",
+      "sha1": "f023f92f4d3acc61e359245a4462602547b492b6",
       "format": "Metadata"
     },
     {
@@ -2056,9 +2108,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 196,
-  "item_last_updated": 1658897444,
-  "item_size": 19945127,
+  "files_count": 201,
+  "item_last_updated": 1658955989,
+  "item_size": 20348927,
   "metadata": {
     "identifier": "nybooks-2022",
     "collection": [
@@ -2075,51 +2127,10 @@
     "publicdate": "2022-07-04 21:50:06",
     "addeddate": "2022-07-04 21:50:06"
   },
-  "nybooks-2022": [
-    {
-      "url": "https://www.nybooks.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nybooks_com-_-2022_07_27_03_31_07.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nybooks_com-_-2022_07_27_03_31_07.report.json",
-      "summary": {
-        "performance": 0.22,
-        "accessibility": 0.74,
-        "best-practices": 0.92,
-        "seo": 0.71,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.nybooks.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nybooks_com-_-2022_07_27_03_31_27.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nybooks_com-_-2022_07_27_03_31_27.report.json",
-      "summary": {
-        "performance": 0.24,
-        "accessibility": 0.74,
-        "best-practices": 0.92,
-        "seo": 0.71,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.nybooks.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nybooks_com-_-2022_07_27_03_31_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nybooks_com-_-2022_07_27_03_31_46.report.json",
-      "summary": {
-        "performance": 0.23,
-        "accessibility": 0.74,
-        "best-practices": 0.92,
-        "seo": 0.71,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "server": "ia802501.us.archive.org",
-  "uniq": 1202317813,
+  "server": "ia902501.us.archive.org",
+  "uniq": 1601158036,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658917802,
+  "created": 1658955996,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/19/items/postandcourier-2022",
@@ -3466,31 +3466,83 @@
       "sha1": "ee7d75715297f0c6a0391f17f5c69aa3d73eabb9"
     },
     {
+      "name": "postandcourier-2022-07-27T11:43:40.131410-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658936625",
+      "size": "33127",
+      "md5": "d9a2873e45da493916e753eb1c8ed664",
+      "crc32": "c3fc37ab",
+      "sha1": "4c2df953b12fa377fbc9434eefe1ec499efa0d99",
+      "format": "JSON"
+    },
+    {
+      "name": "postandcourier-2022-07-27T11:43:40.131410-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658936627",
+      "size": "59851",
+      "md5": "a6d0582a3b5c89f15b1db5ba8792bd05",
+      "crc32": "0806c496",
+      "sha1": "22687b9e52a668f4697767eba0f43f574cf6c502",
+      "format": "JSON"
+    },
+    {
+      "name": "postandcourier-2022-07-27T11:43:40.131410-04:00.jpg",
+      "source": "original",
+      "mtime": "1658936623",
+      "size": "308951",
+      "md5": "5e0b28699238b8675abefe307786ff0a",
+      "crc32": "45c2c8b5",
+      "sha1": "f1da205359785f11b8856c495086dada7566df59",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "postandcourier-2022-07-27T11:43:40.131410-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658936629",
+      "size": "1531",
+      "md5": "b068fca5d969db11cdcfdc2af9f29bec",
+      "crc32": "4a3fe5b4",
+      "sha1": "df6bbeacd1492b7411b4a9822edb6e51f4351737",
+      "format": "JSON"
+    },
+    {
+      "name": "postandcourier-2022-07-27T11:43:40.131410-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "postandcourier-2022-07-27T11:43:40.131410-04:00.jpg",
+      "mtime": "1658955969",
+      "size": "9679",
+      "md5": "64d422a720458493a578688043094c30",
+      "crc32": "ec1c0557",
+      "sha1": "ea5f06d888f23caa411310ea03b68be3c6e59472"
+    },
+    {
       "name": "postandcourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e3cf4987ad9cbd535464360ffb6f6622d0224d6d",
-      "mtime": "1658897661",
-      "size": "73133",
-      "md5": "2cafe9d2e8e439edc7f9633bc3176851",
-      "crc32": "01b11ff9",
-      "sha1": "6533c219f23fb92b2274e83a20c6bc3bada7e9c4",
+      "btih": "479ad787d008267d4c65b4e6465e740f4e04065a",
+      "mtime": "1658955979",
+      "size": "74222",
+      "md5": "02418d0cc0fb0443450a873030b0ec60",
+      "crc32": "e8ac5526",
+      "sha1": "812b6829896161a4b06d4fd643a27e7329c6847f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "postandcourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3849f703a2c9efdfea1f1a212ad1c8b0",
+      "md5": "1c09cde04f9c9e06dc24e8550437454e",
       "summation": "md5"
     },
     {
       "name": "postandcourier-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658893919",
-      "size": "405504",
-      "md5": "618822577d72f652a4fb8950ebea4a3c",
-      "crc32": "44613154",
-      "sha1": "367f4234c9ed0a3eea55137321332d86bd9537d4",
+      "mtime": "1658936633",
+      "size": "413696",
+      "md5": "579ca9adb4d29fb1dca7fcd8456d09a3",
+      "crc32": "f73e687c",
+      "sha1": "2a8d97d6da6d566d0904e1d0edc416aeca58ca94",
       "format": "Metadata"
     },
     {
@@ -3504,9 +3556,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 334,
-  "item_last_updated": 1658897661,
-  "item_size": 32463225,
+  "files_count": 339,
+  "item_last_updated": 1658955979,
+  "item_size": 32885645,
   "metadata": {
     "identifier": "postandcourier-2022",
     "collection": [
@@ -3523,10 +3575,10 @@
     "publicdate": "2022-06-24 22:59:39",
     "addeddate": "2022-06-24 22:59:39"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1126979733,
+  "server": "ia601403.us.archive.org",
+  "uniq": 960339879,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

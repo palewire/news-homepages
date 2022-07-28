@@ -1,5 +1,5 @@
 {
-  "created": 1658920214,
+  "created": 1658963375,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/31/items/harpers-2022",
@@ -3453,31 +3453,83 @@
       "format": "JSON"
     },
     {
+      "name": "harpers-2022-07-27T07:09:20.754045-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "harpers-2022-07-27T07:09:20.754045-04:00.jpg",
+      "mtime": "1658940337",
+      "size": "9021",
+      "md5": "214eab992fae26ec1e8b229bc545ff23",
+      "crc32": "98ffcd6a",
+      "sha1": "5b8a0bae23ac8ae024f09f241e3ccee0c1a47ba3"
+    },
+    {
+      "name": "harpers-2022-07-27T19:08:34.220227-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658963317",
+      "size": "64",
+      "md5": "7ecae99616d4d650954f4199e487a165",
+      "crc32": "8ba0f891",
+      "sha1": "e37f0c3aa8a3683c0eca8b3652bb286e169a298d",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-07-27T19:08:34.220227-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658963319",
+      "size": "130763",
+      "md5": "157063e31274ca8895c8d73f7081e517",
+      "crc32": "c9e4fd36",
+      "sha1": "34003b55862c8a23349e227f3d2bfdab8a6151f2",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-07-27T19:08:34.220227-04:00.jpg",
+      "source": "original",
+      "mtime": "1658963315",
+      "size": "273642",
+      "md5": "b061f413c5422e27bb96ad75282ebf78",
+      "crc32": "50221082",
+      "sha1": "faf777630e411e60d6411c7f76cfd8efa922d1ad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "harpers-2022-07-27T19:08:34.220227-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658963331",
+      "size": "1429",
+      "md5": "efb9cb5cada59f0fb656dd37b2f64baf",
+      "crc32": "de0f9bcf",
+      "sha1": "7679daac9b469ee2732774b3e3081baba7a1ded7",
+      "format": "JSON"
+    },
+    {
       "name": "harpers-2022_archive.torrent",
       "source": "metadata",
-      "btih": "990d5013a64b1900ac738e787b1c6ed7fd63493c",
-      "mtime": "1658920210",
-      "size": "70493",
-      "md5": "49647bde63be0d94821c137e53581cc8",
-      "crc32": "f62389aa",
-      "sha1": "f854af88422f3f9881ad14199625102070083941",
+      "btih": "2a2663378e8e7073729dd6b879a5483125ca4ab6",
+      "mtime": "1658963370",
+      "size": "71525",
+      "md5": "ef51374456873b51ff6a4ae26e137ca7",
+      "crc32": "dd2ac542",
+      "sha1": "221ee2a1ec07cccfbc427292349d4894a46b7cf7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "harpers-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ec6c2da8eef90c41c57ffa841464f9a0",
+      "md5": "5f99731f0b0dc74a0afa670dfc2f0610",
       "summation": "md5"
     },
     {
       "name": "harpers-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658920173",
-      "size": "401408",
-      "md5": "e55688007b44beecebf701f4748a8a0a",
-      "crc32": "fb71de07",
-      "sha1": "a0758d23419998a3a766ae846e7fc7a35a2cfeb7",
+      "mtime": "1658963334",
+      "size": "405504",
+      "md5": "27102f13a61c3b5b847aa2ef1a04aa75",
+      "crc32": "b069490a",
+      "sha1": "d5d2bbacec4e6561fa87d16d5f270137fdfd1b41",
       "format": "Metadata"
     },
     {
@@ -3491,9 +3543,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 333,
-  "item_last_updated": 1658920210,
-  "item_size": 33663527,
+  "files_count": 338,
+  "item_last_updated": 1658963370,
+  "item_size": 34083574,
   "metadata": {
     "identifier": "harpers-2022",
     "collection": [
@@ -3515,7 +3567,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345210512,
+      "task_id": 3345674297,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3523,7 +3575,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 874467040,
+  "uniq": 950040147,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

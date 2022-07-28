@@ -1,5 +1,5 @@
 {
-  "created": 1658923790,
+  "created": 1658967641,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/3/items/edsource-2022",
@@ -7,10 +7,10 @@
     {
       "url": "https://edsource.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/edsource_org-_-2022_07_27_10_48_16.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/edsource_org-_-2022_07_27_10_48_16.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/edsource_org-_-2022_07_27_22_48_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/edsource_org-_-2022_07_27_22_48_26.report.json",
       "summary": {
-        "performance": 0.19,
+        "performance": 0.16,
         "accessibility": 0.88,
         "best-practices": 0.75,
         "seo": 0.83,
@@ -20,10 +20,10 @@
     {
       "url": "https://edsource.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/edsource_org-_-2022_07_27_10_50_06.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/edsource_org-_-2022_07_27_10_50_06.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/edsource_org-_-2022_07_27_22_50_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/edsource_org-_-2022_07_27_22_50_55.report.json",
       "summary": {
-        "performance": 0.18,
+        "performance": 0.15,
         "accessibility": 0.88,
         "best-practices": 0.75,
         "seo": 0.83,
@@ -33,10 +33,10 @@
     {
       "url": "https://edsource.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/edsource_org-_-2022_07_27_10_48_54.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/edsource_org-_-2022_07_27_10_48_54.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/edsource_org-_-2022_07_27_22_49_40.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/edsource_org-_-2022_07_27_22_49_40.report.json",
       "summary": {
-        "performance": 0.17,
+        "performance": 0.16,
         "accessibility": 0.88,
         "best-practices": 0.75,
         "seo": 0.83,
@@ -1712,31 +1712,83 @@
       "format": "JSON"
     },
     {
+      "name": "edsource-2022-07-27T04:06:31.091013-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "edsource-2022-07-27T04:06:31.091013-07:00.jpg",
+      "mtime": "1658939934",
+      "size": "9799",
+      "md5": "050484f7462d237a09f994a39c883969",
+      "crc32": "69705f5f",
+      "sha1": "ef240cd9d4659a34296094b33ac1821ed7b3302e"
+    },
+    {
+      "name": "edsource-2022-07-27T16:07:28.427829-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658963252",
+      "size": "22461",
+      "md5": "dc4d8274ecfc75392ec593cb0eb03ea1",
+      "crc32": "0a71f781",
+      "sha1": "cdedab4b34b58a26591a4ab20eaf73ce23000a8c",
+      "format": "JSON"
+    },
+    {
+      "name": "edsource-2022-07-27T16:07:28.427829-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658963254",
+      "size": "27840",
+      "md5": "d6384c1212e5ee0fa6e2a2b563a6f3ba",
+      "crc32": "d868febb",
+      "sha1": "64fd4d3aafdebf0e68928e347a787042f8b2d22e",
+      "format": "JSON"
+    },
+    {
+      "name": "edsource-2022-07-27T16:07:28.427829-07:00.jpg",
+      "source": "original",
+      "mtime": "1658963251",
+      "size": "319665",
+      "md5": "157fd5d2a00b02404d461295550b2794",
+      "crc32": "00cd652d",
+      "sha1": "06bcce8c487c984ff1083b0a631771ba4ffc198f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "edsource-2022-07-27T16:07:28.427829-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658963256",
+      "size": "1441",
+      "md5": "e98bdb91a79faaff50a9057e69f7236e",
+      "crc32": "26881429",
+      "sha1": "f7b78cc357e95ad8441a39037c0049b5289bb214",
+      "format": "JSON"
+    },
+    {
       "name": "edsource-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c5232a660faf9995cd2493d0561709ecf9601069",
-      "mtime": "1658920036",
-      "size": "34952",
-      "md5": "c88206b791222dec09c470390d025006",
-      "crc32": "b6ac6fc0",
-      "sha1": "ae159664ef8b1d1381471408250804babd94ef81",
+      "btih": "0d608cbac52e1c8dee9cc0df64f9f21adf8aca2f",
+      "mtime": "1658963295",
+      "size": "35991",
+      "md5": "80217323da8dbd850367c88ecedc7e48",
+      "crc32": "be5a4efd",
+      "sha1": "1f268a6752385584b3d2ee9615c9f63af6db1dba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "edsource-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "288bf78fa88279e9bb15e92228c4bb17",
+      "md5": "e25b0ba09c53e6dbff9d985e96e2ae0a",
       "summation": "md5"
     },
     {
       "name": "edsource-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658920002",
-      "size": "208896",
-      "md5": "f94a0dad0e87b7753bcf52bbeba017e3",
-      "crc32": "6acb96ef",
-      "sha1": "a53a4896b6ce774ab858e3ffc14b13efa662b5c9",
+      "mtime": "1658963260",
+      "size": "212992",
+      "md5": "1f323107d5757d5a026a4e5e1823080d",
+      "crc32": "9f258d0f",
+      "sha1": "eccce51a0e00a5b56391f3f0522c5477a81de8d4",
       "format": "Metadata"
     },
     {
@@ -1750,9 +1802,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 163,
-  "item_last_updated": 1658920036,
-  "item_size": 14743396,
+  "files_count": 168,
+  "item_last_updated": 1658963295,
+  "item_size": 15129737,
   "metadata": {
     "identifier": "edsource-2022",
     "collection": [
@@ -1774,7 +1826,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345208715,
+      "task_id": 3345673478,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1782,7 +1834,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 628269903,
+  "uniq": 7612560,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

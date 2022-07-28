@@ -1,5 +1,5 @@
 {
-  "created": 1658919875,
+  "created": 1658962962,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/22/items/berkeleyside-2022",
@@ -9429,31 +9429,83 @@
       "format": "JSON"
     },
     {
+      "name": "berkeleyside-2022-07-27T04:03:30.629273-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-07-27T04:03:30.629273-07:00.jpg",
+      "mtime": "1658940023",
+      "size": "10439",
+      "md5": "0c3d8c7c087f996596a3401d6517d388",
+      "crc32": "73b82290",
+      "sha1": "58da8189a79d2e7f32e67003e383fb7e53e2dcb2"
+    },
+    {
+      "name": "berkeleyside-2022-07-27T16:01:41.854258-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658962909",
+      "size": "40067",
+      "md5": "0d3374cfee12bdc870905ff401eada66",
+      "crc32": "4e327c0b",
+      "sha1": "ae5ca0034d60a3e101589c09359064a78bb70bc7",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-07-27T16:01:41.854258-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658962911",
+      "size": "29919",
+      "md5": "be3cb891b1455962e4a2347b44756558",
+      "crc32": "28882057",
+      "sha1": "0f36a5027c94f983c38294b91efc0107ed53a103",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-07-27T16:01:41.854258-07:00.jpg",
+      "source": "original",
+      "mtime": "1658962907",
+      "size": "298689",
+      "md5": "d30912ed9ee07ffe5b4f986b9280a9bd",
+      "crc32": "9ec86c1c",
+      "sha1": "8170ae4c7ff5698081bf1f785404d8fbdc14cbc4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkeleyside-2022-07-27T16:01:41.854258-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658962913",
+      "size": "1512",
+      "md5": "4b527cb23e30b51a4bb54a9b8abe9bc9",
+      "crc32": "c698099a",
+      "sha1": "87f1fa6bae9f6c17d449a4e68c21ae52a7024b1f",
+      "format": "JSON"
+    },
+    {
       "name": "berkeleyside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4b90b1d3e4f4c986c39c52885e159b7c4cf89a8b",
-      "mtime": "1658919872",
-      "size": "194800",
-      "md5": "b1d74b5437f7930b4279ef4d60e1db9b",
-      "crc32": "21020f8c",
-      "sha1": "0072a5072388d203f9ba5138e452e0bf6a4b35c7",
+      "btih": "864a52cd25723c1805cf9cc2380e95c155fed725",
+      "mtime": "1658962959",
+      "size": "195860",
+      "md5": "d8dec6a39365f7eb3879ac4f4a87612a",
+      "crc32": "a2f4f0be",
+      "sha1": "9ca553800ab3aa68ded30035a8a2597942881c30",
       "format": "Archive BitTorrent"
     },
     {
       "name": "berkeleyside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cd8160dd0d5f91a2894bf5451fc14cd8",
+      "md5": "c2de82f2d8443b955c448588cc5a0275",
       "summation": "md5"
     },
     {
       "name": "berkeleyside-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658919823",
-      "size": "1044480",
-      "md5": "6e9625c939d617294d35bc7c9968aafe",
-      "crc32": "65158d62",
-      "sha1": "89cbbaaa3572d393eac90eabee0fcd380db0c423",
+      "mtime": "1658962917",
+      "size": "1048576",
+      "md5": "65f2931b8cc2412a96d393547ff1c4be",
+      "crc32": "53e61b2d",
+      "sha1": "1f28a528d85039fe2d2a40444e58f023c751f2f8",
       "format": "Metadata"
     },
     {
@@ -9467,9 +9519,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 901,
-  "item_last_updated": 1658919872,
-  "item_size": 98331303,
+  "files_count": 906,
+  "item_last_updated": 1658962959,
+  "item_size": 98717085,
   "metadata": {
     "identifier": "berkeleyside-2022",
     "collection": [
@@ -9492,7 +9544,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345205954,
+      "task_id": 3345667450,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9500,7 +9552,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1491117398,
+  "uniq": 7289021,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

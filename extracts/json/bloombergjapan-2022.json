@@ -1,5 +1,5 @@
 {
-  "created": 1658891725,
+  "created": 1658949939,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/34/items/bloombergjapan-2022",
@@ -328,31 +328,83 @@
       "sha1": "5f28f3b09fc8702716dd88401c1b8c074ce8ff5d"
     },
     {
+      "name": "bloombergjapan-2022-07-27T22:18:38.055405+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658927922",
+      "size": "10809",
+      "md5": "7b60caf3c6a9d56e8db39835fad65168",
+      "crc32": "e35158bb",
+      "sha1": "ea9423a9478aea06b71762be269787186603e013",
+      "format": "JSON"
+    },
+    {
+      "name": "bloombergjapan-2022-07-27T22:18:38.055405+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658927924",
+      "size": "9758",
+      "md5": "f82136b35616dfd36a33e1ee459adb60",
+      "crc32": "41e64947",
+      "sha1": "5b9ddffdf90f60c6a2a6826d691d706bc66e0540",
+      "format": "JSON"
+    },
+    {
+      "name": "bloombergjapan-2022-07-27T22:18:38.055405+09:00.jpg",
+      "source": "original",
+      "mtime": "1658927920",
+      "size": "233842",
+      "md5": "4f3a9e0eb686c615823e2f16eeb3fcb5",
+      "crc32": "90241519",
+      "sha1": "6885aab47ee9805c503ff608e608133618b5503a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bloombergjapan-2022-07-27T22:18:38.055405+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658927925",
+      "size": "1504",
+      "md5": "3de4e21f90c3f7807100161fb68210cd",
+      "crc32": "0fd66d4e",
+      "sha1": "610c05df08bc99e9d63e49f3de07999d71b0bb44",
+      "format": "JSON"
+    },
+    {
+      "name": "bloombergjapan-2022-07-27T22:18:38.055405+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bloombergjapan-2022-07-27T22:18:38.055405+09:00.jpg",
+      "mtime": "1658949772",
+      "size": "9255",
+      "md5": "599029f1d65c6cd00e993b14f2582924",
+      "crc32": "81d6bd98",
+      "sha1": "b9347901ba62a57b4c5470d4a3b7758043577a6c"
+    },
+    {
       "name": "bloombergjapan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5befdf2208454b8fe735279bc4563ad2165d91e7",
-      "mtime": "1658891718",
-      "size": "8148",
-      "md5": "408105ae78163ab6693e610bf06983b6",
-      "crc32": "09377ba6",
-      "sha1": "90112a7197befb1407fe1bbf46e2b53f41ab6f86",
+      "btih": "8b3b91c79ddcc45c75f5459270e310a2bb44ac8d",
+      "mtime": "1658949848",
+      "size": "9216",
+      "md5": "ddbd62f1459c725713557728bc4d21ad",
+      "crc32": "471f2401",
+      "sha1": "a2242f22fe6a8ec91aa405d77005d9596c2ceedb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bloombergjapan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e1f1d1872782c9dd04ee9f8adc2cb285",
+      "md5": "61b1bb146cb7bddabb7b5efdea1e3928",
       "summation": "md5"
     },
     {
       "name": "bloombergjapan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658889101",
-      "size": "53248",
-      "md5": "0f48c67301a206264f8927898156baea",
-      "crc32": "13a18652",
-      "sha1": "21b2293ce76987494ad1bc6e26171f737cf46831",
+      "mtime": "1658927931",
+      "size": "61440",
+      "md5": "be4a60e64c3335ef9a1a472a1da2485c",
+      "crc32": "72d0896b",
+      "sha1": "db2e19c111f2ef83c78b1fd195db077477352172",
       "format": "Metadata"
     },
     {
@@ -366,9 +418,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 35,
-  "item_last_updated": 1658891718,
-  "item_size": 1751993,
+  "files_count": 40,
+  "item_last_updated": 1658949848,
+  "item_size": 2026421,
   "metadata": {
     "identifier": "bloombergjapan-2022",
     "collection": [
@@ -385,10 +437,10 @@
     "publicdate": "2022-07-26 01:31:25",
     "addeddate": "2022-07-26 01:31:25"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 2057148502,
+  "server": "ia902507.us.archive.org",
+  "uniq": 1384115557,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

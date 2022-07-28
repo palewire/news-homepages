@@ -1,5 +1,5 @@
 {
-  "created": 1658892623,
+  "created": 1658953107,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/19/items/newspressnow-2022",
@@ -1508,31 +1508,83 @@
       "sha1": "734d4138b2a05e4fbccfbd2f74ba3c72dc93bb42"
     },
     {
+      "name": "newspressnow-2022-07-27T09:36:16.782908-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658932582",
+      "size": "29252",
+      "md5": "4be3e6824ed0c948f8f5de6378535223",
+      "crc32": "b7471318",
+      "sha1": "35fdc3ab6865859954d289ce30cf106f7e078d47",
+      "format": "JSON"
+    },
+    {
+      "name": "newspressnow-2022-07-27T09:36:16.782908-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658932583",
+      "size": "34617",
+      "md5": "1eb4efcef5989d8b23ea769d333ec6d7",
+      "crc32": "2223debd",
+      "sha1": "2362e0656df2ad457245de5f6ff506f3ffa0712d",
+      "format": "JSON"
+    },
+    {
+      "name": "newspressnow-2022-07-27T09:36:16.782908-05:00.jpg",
+      "source": "original",
+      "mtime": "1658932580",
+      "size": "381983",
+      "md5": "de7d2b266028ca7c08ef29fd052ee03a",
+      "crc32": "1cea887e",
+      "sha1": "ae2f567523c41e5338cd768501980463467f7443",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newspressnow-2022-07-27T09:36:16.782908-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658932585",
+      "size": "1513",
+      "md5": "8187f8defee90cf576a4370ac3d70d1c",
+      "crc32": "12b2f6e6",
+      "sha1": "b489487688cefd5250c047daf7bed99d443cf641",
+      "format": "JSON"
+    },
+    {
+      "name": "newspressnow-2022-07-27T09:36:16.782908-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newspressnow-2022-07-27T09:36:16.782908-05:00.jpg",
+      "mtime": "1658953083",
+      "size": "11114",
+      "md5": "df1aafcd7f9c9172ebd09255aac3a7a9",
+      "crc32": "99261d25",
+      "sha1": "1f071897f0a0c4202ab76c4d96db09e5c16c5363"
+    },
+    {
       "name": "newspressnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2d10b49e2ccfdd1257f04b59580edbc3b98f621a",
-      "mtime": "1658892574",
-      "size": "31720",
-      "md5": "7e21127a2d665311277400e840913c1c",
-      "crc32": "9a895381",
-      "sha1": "42c2d369188abde8fc7c201e7a7679ed424e57d8",
+      "btih": "a9cfafe27be5cb0696071ecd1d4a91caa63fefad",
+      "mtime": "1658953088",
+      "size": "32800",
+      "md5": "5591a57096c717cd1d84da6bcc73383c",
+      "crc32": "91226e05",
+      "sha1": "4465931dc440d3e8e0ebe789c001e1db69888090",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newspressnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "743e946a1c48bf08f6abcda2352a8ed0",
+      "md5": "7cc6966f9ea9f521eda192934f53e566",
       "summation": "md5"
     },
     {
       "name": "newspressnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658889799",
-      "size": "167936",
-      "md5": "cbb8824aa1e74e6f17fe37b1dcb8ddbf",
-      "crc32": "1cc275b9",
-      "sha1": "7c5468e238b89d224402fe02f1a1bc726994f3a5",
+      "mtime": "1658932590",
+      "size": "172032",
+      "md5": "2974e3dd009f30b0d961933e6977096b",
+      "crc32": "6096e2f2",
+      "sha1": "ae06d520ac272b848756cd10a2e5f98d51d5150e",
       "format": "Metadata"
     },
     {
@@ -1546,9 +1598,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 145,
-  "item_last_updated": 1658892574,
-  "item_size": 18370283,
+  "files_count": 150,
+  "item_last_updated": 1658953088,
+  "item_size": 18833938,
   "metadata": {
     "identifier": "newspressnow-2022",
     "collection": [
@@ -1565,10 +1617,10 @@
     "publicdate": "2022-07-04 21:49:25",
     "addeddate": "2022-07-04 21:49:25"
   },
-  "server": "ia601500.us.archive.org",
-  "uniq": 1623010711,
+  "server": "ia801500.us.archive.org",
+  "uniq": 833285831,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia801500.us.archive.org",
+    "ia601500.us.archive.org"
   ]
 }

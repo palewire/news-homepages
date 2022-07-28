@@ -1,5 +1,5 @@
 {
-  "created": 1658924678,
+  "created": 1658968220,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/1/items/timesenterprise-2022",
@@ -604,31 +604,73 @@
       "sha1": "12c8dc090381a0c645e512abe17563c89211c3fe"
     },
     {
+      "name": "timesenterprise-2022-07-27T11:49:35.335044-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658936979",
+      "size": "73476",
+      "md5": "2463925092190945419537b9e6e04849",
+      "crc32": "127b2204",
+      "sha1": "47d6c433db4380bf51da85b6d953252677cb2234",
+      "format": "JSON"
+    },
+    {
+      "name": "timesenterprise-2022-07-27T11:49:35.335044-04:00.jpg",
+      "source": "original",
+      "mtime": "1658936977",
+      "size": "324929",
+      "md5": "a7cf64f349a710f41b1ca90a3effaa32",
+      "crc32": "e426e55e",
+      "sha1": "ebe2429a10811ccf317df7118fc08089d5b836b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesenterprise-2022-07-27T11:49:35.335044-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658936980",
+      "size": "1539",
+      "md5": "afcc2df145de81ded91938198dce8f3e",
+      "crc32": "d6e2ca04",
+      "sha1": "bf1a51202a294b39351119265f5e307efb936b44",
+      "format": "JSON"
+    },
+    {
+      "name": "timesenterprise-2022-07-27T11:49:35.335044-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesenterprise-2022-07-27T11:49:35.335044-04:00.jpg",
+      "mtime": "1658957792",
+      "size": "9308",
+      "md5": "fff6f5c0df1b46be31d235a5ad35dea8",
+      "crc32": "0f1bbd27",
+      "sha1": "f7fe2e5ff8ca9bccb290439f5dde3e7c3090ee2f"
+    },
+    {
       "name": "timesenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9fc051c066c2336354bdc2dcd8b54ec99bdd4b3a",
-      "mtime": "1658898029",
-      "size": "13889",
-      "md5": "8763e33b8f7b00d6ad6e805f4d65375d",
-      "crc32": "e5b2fc6c",
-      "sha1": "b0142c43777f0518086f34ab69c22211e9da5ecd",
+      "btih": "be86047fae802fb374c59d14a4cb93242da1fd99",
+      "mtime": "1658957798",
+      "size": "14762",
+      "md5": "ca45d6c927ab933cb82be0a4a912ea12",
+      "crc32": "fd7922e2",
+      "sha1": "3046b539c970a84000f311bd1a904026b8c32017",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ee177e1f362afaf39ab4cc02d1c31324",
+      "md5": "f53157263d620f253caf141f46e8654b",
       "summation": "md5"
     },
     {
       "name": "timesenterprise-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658894220",
-      "size": "77824",
-      "md5": "4f99d580d756c66bc1a4ec03ca45004f",
-      "crc32": "a0bd9e1f",
-      "sha1": "ef5782dbbd89032c4f4c88295e3c16d788b31319",
+      "mtime": "1658936983",
+      "size": "81920",
+      "md5": "d1507b4e6bb9e9f6e50116f3fcc23e49",
+      "crc32": "4369c4e0",
+      "sha1": "1d10fc7d3e95a06fe5b40a2e7c81568f9ea750e0",
       "format": "Metadata"
     },
     {
@@ -642,9 +684,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 61,
-  "item_last_updated": 1658898029,
-  "item_size": 5948706,
+  "files_count": 65,
+  "item_last_updated": 1658957798,
+  "item_size": 6362927,
   "metadata": {
     "identifier": "timesenterprise-2022",
     "collection": [
@@ -661,15 +703,15 @@
     "publicdate": "2022-07-20 23:31:34",
     "addeddate": "2022-07-20 23:31:34"
   },
-  "server": "ia601507.us.archive.org",
+  "server": "ia801507.us.archive.org",
   "timesenterprise-2022": [
     {
       "url": "https://www.timesenterprise.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_27_03_40_48.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_27_03_40_48.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_27_15_21_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_27_15_21_54.report.json",
       "summary": {
-        "performance": 0.2,
+        "performance": 0.17,
         "accessibility": 0.72,
         "best-practices": 0.83,
         "seo": 0.76,
@@ -679,10 +721,10 @@
     {
       "url": "https://www.timesenterprise.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_27_03_41_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_27_03_41_20.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_27_15_23_14.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_27_15_23_14.report.json",
       "summary": {
-        "performance": 0.21,
+        "performance": 0.19,
         "accessibility": 0.72,
         "best-practices": 0.83,
         "seo": 0.76,
@@ -692,20 +734,20 @@
     {
       "url": "https://www.timesenterprise.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_27_03_41_50.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_27_03_41_50.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_27_15_22_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_27_15_22_37.report.json",
       "summary": {
         "performance": 0.2,
         "accessibility": 0.72,
-        "best-practices": 0.67,
+        "best-practices": 0.83,
         "seo": 0.76,
         "pwa": 0.4
       }
     }
   ],
-  "uniq": 1706392822,
+  "uniq": 1051570960,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia801507.us.archive.org",
+    "ia601507.us.archive.org"
   ]
 }

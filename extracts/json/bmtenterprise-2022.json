@@ -1,5 +1,5 @@
 {
-  "created": 1658919823,
+  "created": 1658963012,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/bmtenterprise-2022",
@@ -925,31 +925,63 @@
       "format": "JSON"
     },
     {
+      "name": "bmtenterprise-2022-07-27T06:02:55.866031-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bmtenterprise-2022-07-27T06:02:55.866031-05:00.jpg",
+      "mtime": "1658939768",
+      "size": "10489",
+      "md5": "548eee6383bcce2753e0cedc9ea172cd",
+      "crc32": "ae9363a9",
+      "sha1": "5cd0b3edb318235f693a1c9d247573167001a187"
+    },
+    {
+      "name": "bmtenterprise-2022-07-27T18:02:42.946621-05:00.jpg",
+      "source": "original",
+      "mtime": "1658962965",
+      "size": "333001",
+      "md5": "f9075cec1f4a1c1a4ee6b7f715aa75ee",
+      "crc32": "d90a0c7c",
+      "sha1": "f6c867120749dd7c0157b22b8e6d6bc81f0a09d6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bmtenterprise-2022-07-27T18:02:42.946621-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658962967",
+      "size": "1567",
+      "md5": "d2d2a8053465fbc3ff2fe0931da8c5af",
+      "crc32": "1e60fdd2",
+      "sha1": "b2f83a291c3f5d7d8fb097d7ce81cf5756e684d7",
+      "format": "JSON"
+    },
+    {
       "name": "bmtenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1689e8370842bd1292467da9cab977505911b84e",
-      "mtime": "1658919820",
-      "size": "20519",
-      "md5": "81581d10afdf1d5137b2729de0412c88",
-      "crc32": "0870b94c",
-      "sha1": "e7f7dd71aefa1a529c546bb4e0483b9b3a2a930a",
+      "btih": "32edca1313f47d770fb2ac172968c2f3a8c50dff",
+      "mtime": "1658963008",
+      "size": "21149",
+      "md5": "4004bdcd5978063fbde89ac5666dbbd8",
+      "crc32": "ae489587",
+      "sha1": "5ffacdf6533e390b3e4fc7418a7e579eda588a2e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bmtenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5cc374503498021fa6b215878d70b4f2",
+      "md5": "c9c4dae6ff0711ecf4ce1d8da99c580f",
       "summation": "md5"
     },
     {
       "name": "bmtenterprise-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658919785",
-      "size": "131072",
-      "md5": "82459a78d86d646861d71f894d2ca25f",
-      "crc32": "c1b5d83a",
-      "sha1": "fd75f83a816b977d3852bae0024a3a6067a296d8",
+      "mtime": "1658962975",
+      "size": "135168",
+      "md5": "8ea84a2ff0ea98da8adac8f17daa1feb",
+      "crc32": "b7aede53",
+      "sha1": "04f2f86a4a71e640507fe152e8a4aa062be993c9",
       "format": "Metadata"
     },
     {
@@ -963,9 +995,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 92,
-  "item_last_updated": 1658919820,
-  "item_size": 9057928,
+  "files_count": 95,
+  "item_last_updated": 1658963008,
+  "item_size": 9407711,
   "metadata": {
     "identifier": "bmtenterprise-2022",
     "collection": [
@@ -987,7 +1019,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345204857,
+      "task_id": 3345668532,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -995,7 +1027,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1434001831,
+  "uniq": 1495055976,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1658920032,
+  "created": 1658963225,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/delawarepublic-2022",
@@ -1681,31 +1681,83 @@
       "format": "JSON"
     },
     {
+      "name": "delawarepublic-2022-07-27T07:06:19.087774-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "delawarepublic-2022-07-27T07:06:19.087774-04:00.jpg",
+      "mtime": "1658939944",
+      "size": "10556",
+      "md5": "2f59480c4705b0a538569054ef5f5556",
+      "crc32": "44e6bc67",
+      "sha1": "612c679be80c47b0a284d7edda6f929ad5f5d051"
+    },
+    {
+      "name": "delawarepublic-2022-07-27T19:06:15.119942-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658963178",
+      "size": "18337",
+      "md5": "71e6eaa9bee1df535552ca0072507bac",
+      "crc32": "8817a0de",
+      "sha1": "fa4301fd81261400ad42e1795e9072adcd3b222a",
+      "format": "JSON"
+    },
+    {
+      "name": "delawarepublic-2022-07-27T19:06:15.119942-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658963179",
+      "size": "24484",
+      "md5": "b068b589016e718418a40100488eec1c",
+      "crc32": "99193cc9",
+      "sha1": "09bc73c68e18fb765fb46535222d7ae19cbe0315",
+      "format": "JSON"
+    },
+    {
+      "name": "delawarepublic-2022-07-27T19:06:15.119942-04:00.jpg",
+      "source": "original",
+      "mtime": "1658963176",
+      "size": "287222",
+      "md5": "2b51167086fa4f1a8f604494d284cc9e",
+      "crc32": "3d5b2f71",
+      "sha1": "7010b49a2edf389fd5b625e7280d51f31a789557",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "delawarepublic-2022-07-27T19:06:15.119942-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658963180",
+      "size": "1512",
+      "md5": "30e715cc259cf3342f3403ddca240ae9",
+      "crc32": "d04ecdc9",
+      "sha1": "4519aa5671a8e80bde6cef8aa578d3f3cc748361",
+      "format": "JSON"
+    },
+    {
       "name": "delawarepublic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b470c9f87edbd7dd5000fdbfb4ac2bb61522d9ac",
-      "mtime": "1658920029",
-      "size": "36121",
-      "md5": "083f431251f0c978ec6fdd017f9fd496",
-      "crc32": "b3cc47c7",
-      "sha1": "5626a2234774fcb54f790f95166d56a7d90966a7",
+      "btih": "fdc4a49c9d0b977ddff2000a147d8861995c8d04",
+      "mtime": "1658963223",
+      "size": "37191",
+      "md5": "71b344e824afc25f5539e7dcc701ebd3",
+      "crc32": "795878df",
+      "sha1": "7bb9c0185e9876a616f71fdb399934ae9a61af0b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "delawarepublic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c837936df98c1a96fddd1fdef344d36b",
+      "md5": "6d539623d2188ef819ca3ffaf33d190b",
       "summation": "md5"
     },
     {
       "name": "delawarepublic-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658919994",
-      "size": "212992",
-      "md5": "85c9d5fc229ca4b0341816432f94fb81",
-      "crc32": "6e66d1dd",
-      "sha1": "29ebaa59ea5423a28146d604cfaf4c8a794b591a",
+      "mtime": "1658963187",
+      "size": "217088",
+      "md5": "450fa7f946ef6ccdc205ec06277b7e40",
+      "crc32": "ae5d8d9a",
+      "sha1": "ff7759e658fee6413c72f2bedd7837d2b89d40d4",
       "format": "Metadata"
     },
     {
@@ -1719,9 +1771,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 164,
-  "item_last_updated": 1658920029,
-  "item_size": 12793763,
+  "files_count": 169,
+  "item_last_updated": 1658963223,
+  "item_size": 13141040,
   "metadata": {
     "identifier": "delawarepublic-2022",
     "collection": [
@@ -1743,7 +1795,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345208626,
+      "task_id": 3345672393,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1751,7 +1803,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1739149118,
+  "uniq": 1546447579,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1658920188,
+  "created": 1658963248,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/32/items/eveningstandard-2022",
@@ -2825,31 +2825,83 @@
       "format": "JSON"
     },
     {
+      "name": "eveningstandard-2022-07-27T12:09:00.952101+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eveningstandard-2022-07-27T12:09:00.952101+01:00.jpg",
+      "mtime": "1658940221",
+      "size": "8583",
+      "md5": "98ec6c398a6d6176bc3706fbd35fd863",
+      "crc32": "1c0c13d3",
+      "sha1": "138abb116d27810ef8d7260f187f2c7c7438abba"
+    },
+    {
+      "name": "eveningstandard-2022-07-28T00:06:35.101826+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658963198",
+      "size": "65481",
+      "md5": "f82e0091505527272046e0e4fff2fb04",
+      "crc32": "d26099cd",
+      "sha1": "d68306a52295016adead241ea74877c3e4040b9f",
+      "format": "JSON"
+    },
+    {
+      "name": "eveningstandard-2022-07-28T00:06:35.101826+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658963199",
+      "size": "77203",
+      "md5": "9e60771ac487e1e1b451f17d7a0fbf72",
+      "crc32": "95309849",
+      "sha1": "05cfb14e3b84691e86838fa4bd4376312b6396bc",
+      "format": "JSON"
+    },
+    {
+      "name": "eveningstandard-2022-07-28T00:06:35.101826+01:00.jpg",
+      "source": "original",
+      "mtime": "1658963196",
+      "size": "216798",
+      "md5": "62c81c093b73389177126059b7527018",
+      "crc32": "f236a18a",
+      "sha1": "47809a55c3cffd3e7bf1aedae61700a2719598e9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eveningstandard-2022-07-28T00:06:35.101826+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658963201",
+      "size": "1494",
+      "md5": "1ec5f2dcf42d5da197f4f3a9ae2f379a",
+      "crc32": "76ccb47d",
+      "sha1": "fbccb98cd4d05ada27e339b606354498ef629fb7",
+      "format": "JSON"
+    },
+    {
       "name": "eveningstandard-2022_archive.torrent",
       "source": "metadata",
-      "btih": "344c00d48f8eb9e2e5702dec04a63da2dd753813",
-      "mtime": "1658920181",
-      "size": "60052",
-      "md5": "5b671a37aa5894381df0486febe2fed2",
-      "crc32": "074dc8a1",
-      "sha1": "46aa5a7b39f9ad39c0f878938abea500415253fa",
+      "btih": "63fcd3c4317f32fa2479f62aaa1a2ab53ac7b1ba",
+      "mtime": "1658963243",
+      "size": "61126",
+      "md5": "457a02835c06c9ef700900eedd7499f2",
+      "crc32": "e19a1e1d",
+      "sha1": "b6525c26ef0913361465eadf42a157a3ebab3f05",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eveningstandard-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a21ed1c88eed5cff075da7a34de20d74",
+      "md5": "f1adf3d7ee41a3920d36abbd348dbfd7",
       "summation": "md5"
     },
     {
       "name": "eveningstandard-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658920177",
-      "size": "335872",
-      "md5": "5d1152cd88eb533ff8221d8765a1bb54",
-      "crc32": "79ff0e9d",
-      "sha1": "cf4716367bc8788f2cb52c60150c6d880931f4b1",
+      "mtime": "1658963206",
+      "size": "344064",
+      "md5": "aa9be40b2a98053a9b78a573c77c1233",
+      "crc32": "ad12ac75",
+      "sha1": "19c423a6beb955ae9c8cc125da7180f891d8ae36",
       "format": "Metadata"
     },
     {
@@ -2863,9 +2915,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 273,
-  "item_last_updated": 1658920181,
-  "item_size": 24219034,
+  "files_count": 278,
+  "item_last_updated": 1658963243,
+  "item_size": 24597859,
   "metadata": {
     "identifier": "eveningstandard-2022",
     "collection": [
@@ -2887,7 +2939,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345210244,
+      "task_id": 3345672920,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2895,7 +2947,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 241563462,
+  "uniq": 643635921,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

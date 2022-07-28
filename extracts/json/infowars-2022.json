@@ -1,5 +1,5 @@
 {
-  "created": 1658923903,
+  "created": 1658967784,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/10/items/infowars-2022",
@@ -1042,31 +1042,73 @@
       "sha1": "7d3fe80091b81a1b6951d774505d90742e213706"
     },
     {
+      "name": "infowars-2022-07-27T09:31:17.553074-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658932281",
+      "size": "14332",
+      "md5": "72a7741e15073912e3dc44bdddbec320",
+      "crc32": "d2e04676",
+      "sha1": "639e55ae9242ad0695cd97876410840c2c9d1cab",
+      "format": "JSON"
+    },
+    {
+      "name": "infowars-2022-07-27T09:31:17.553074-05:00.jpg",
+      "source": "original",
+      "mtime": "1658932279",
+      "size": "333910",
+      "md5": "54366eb0f1180c92784ecd81be74b33f",
+      "crc32": "2e593528",
+      "sha1": "7e7b1c6322f497b76284cbc2e9a291a80ee817d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "infowars-2022-07-27T09:31:17.553074-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658932283",
+      "size": "1477",
+      "md5": "d18f1e28d1ad03a4caf870cf15627033",
+      "crc32": "4903efda",
+      "sha1": "0abe67892a48b4802800aba9d0b9669ed4d8828e",
+      "format": "JSON"
+    },
+    {
+      "name": "infowars-2022-07-27T09:31:17.553074-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "infowars-2022-07-27T09:31:17.553074-05:00.jpg",
+      "mtime": "1658952865",
+      "size": "10141",
+      "md5": "1f2ec0f75b6a92e2fb3baee47feb123a",
+      "crc32": "948d82fc",
+      "sha1": "c9169b69d0499bc571a8a3f5ed5751235f4d99a9"
+    },
+    {
       "name": "infowars-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fbd01737f6a541b8998a1c9470fef503dbfaf130",
-      "mtime": "1658892227",
-      "size": "21948",
-      "md5": "829c0c938ef02c9db2604b283711097f",
-      "crc32": "ab1983af",
-      "sha1": "ebf8dbf96eac54e6ac73a4604b5c2c6234903beb",
+      "btih": "38cefb2196940aa38f230f17e1ad1ce5fc65caf2",
+      "mtime": "1658952898",
+      "size": "22774",
+      "md5": "eb6b6a6038eba576293f497dbb964fd8",
+      "crc32": "9bb36ca4",
+      "sha1": "36e8c12a370f3ca5d983e667282df524b1b94f3d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "infowars-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aa293feffff97d6a8b78029ff3967238",
+      "md5": "3097d42e2fcef9b54cd65efda0e2ff17",
       "summation": "md5"
     },
     {
       "name": "infowars-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658889536",
-      "size": "122880",
-      "md5": "88516ac47a8986e7f2b6544f8da222c2",
-      "crc32": "23c79791",
-      "sha1": "62929b57418720e896a008501a4c62da86113ee6",
+      "mtime": "1658932287",
+      "size": "135168",
+      "md5": "5f6cd08f04c75aa31f870ebc553d365e",
+      "crc32": "a6124ee2",
+      "sha1": "020e37a729f808ebbb9a609d9c20517e40d9e79c",
       "format": "Metadata"
     },
     {
@@ -1080,17 +1122,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 102,
+  "files_count": 106,
   "infowars-2022": [
     {
       "url": "https://www.infowars.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_07_27_02_23_01.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_07_27_02_23_01.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_07_27_14_09_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_07_27_14_09_49.report.json",
       "summary": {
-        "performance": 0.09,
+        "performance": 0.01,
         "accessibility": 0.76,
-        "best-practices": 0.75,
+        "best-practices": 0.83,
         "seo": 0.81,
         "pwa": 0.8
       }
@@ -1098,10 +1140,10 @@
     {
       "url": "https://www.infowars.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_07_27_02_23_29.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_07_27_02_23_29.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_07_27_14_10_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_07_27_14_10_53.report.json",
       "summary": {
-        "performance": 0.08,
+        "performance": 0.06,
         "accessibility": 0.76,
         "best-practices": 0.83,
         "seo": 0.81,
@@ -1111,19 +1153,19 @@
     {
       "url": "https://www.infowars.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_07_27_02_23_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_07_27_02_23_55.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_07_27_14_10_24.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_07_27_14_10_24.report.json",
       "summary": {
-        "performance": 0.12,
+        "performance": 0.03,
         "accessibility": 0.76,
-        "best-practices": 0.75,
+        "best-practices": 0.83,
         "seo": 0.81,
         "pwa": 0.8
       }
     }
   ],
-  "item_last_updated": 1658892227,
-  "item_size": 8949434,
+  "item_last_updated": 1658952898,
+  "item_size": 9322408,
   "metadata": {
     "identifier": "infowars-2022",
     "collection": [
@@ -1141,7 +1183,7 @@
     "addeddate": "2022-07-17 15:03:18"
   },
   "server": "ia802501.us.archive.org",
-  "uniq": 1073381952,
+  "uniq": 1136807624,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"

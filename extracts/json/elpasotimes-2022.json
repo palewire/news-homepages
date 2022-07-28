@@ -1,5 +1,5 @@
 {
-  "created": 1658892098,
+  "created": 1658952706,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/34/items/elpasotimes-2022",
@@ -120,31 +120,83 @@
       "sha1": "a54fad00abcaf43b14ef4fc1690ef7e56d661da0"
     },
     {
+      "name": "elpasotimes-2022-07-27T08:28:00.776634-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658932083",
+      "size": "20110",
+      "md5": "5fb728b391512e41ec7e50284824681d",
+      "crc32": "f5dbdbcd",
+      "sha1": "229259c9b9dfd49bd083e97e2d85092171be41f5",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasotimes-2022-07-27T08:28:00.776634-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658932085",
+      "size": "29852",
+      "md5": "f277db52425d6fe5c95b22bc48e4fd39",
+      "crc32": "881f69e4",
+      "sha1": "f0c75c2f037887b2da7a96c6a2f63d97c44ed8f8",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasotimes-2022-07-27T08:28:00.776634-06:00.jpg",
+      "source": "original",
+      "mtime": "1658932082",
+      "size": "289748",
+      "md5": "1fdc11293801c6eae5f1f5c51ce92f48",
+      "crc32": "9f631a26",
+      "sha1": "c3798cee3b052eddc57fa179a2d3dfac1f7961a8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpasotimes-2022-07-27T08:28:00.776634-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658932087",
+      "size": "1495",
+      "md5": "a065f67172477ce2d4784318915985b9",
+      "crc32": "0794e8ba",
+      "sha1": "eb4afc48474587cdd78c88aa6123de699b0de8f6",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasotimes-2022-07-27T08:28:00.776634-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpasotimes-2022-07-27T08:28:00.776634-06:00.jpg",
+      "mtime": "1658952680",
+      "size": "9171",
+      "md5": "4c59cec4c944fbd9466fb474703211f6",
+      "crc32": "962422d1",
+      "sha1": "c95fe6901e4ed6d8ff545ed29894c0c74a66d87e"
+    },
+    {
       "name": "elpasotimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "de35da60dac1f2a08bb5729f4043814305d99d1d",
-      "mtime": "1658892063",
-      "size": "3781",
-      "md5": "1f48a80814848f2ff93583df53101a50",
-      "crc32": "ce7ad435",
-      "sha1": "c3775cc72e31c768d68572e881306c918e244880",
+      "btih": "158f2996bc86884093ba8f105b9dd51ebc12156f",
+      "mtime": "1658952684",
+      "size": "4835",
+      "md5": "620d4ca065593c72c1c785dc6aad5fd6",
+      "crc32": "9cbbced1",
+      "sha1": "4abbc207bb2053786b23bdbeb2fe187180d0978f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elpasotimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ed481b7c7e80488f73188c885a86a524",
+      "md5": "03a1e481092b3e57896a824a46f421a1",
       "summation": "md5"
     },
     {
       "name": "elpasotimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658889374",
-      "size": "32768",
-      "md5": "ea19c4915f45c7bd2c6c9b56f2fbd7ef",
-      "crc32": "37b56e44",
-      "sha1": "2abf4cd30221256ea8efeb4e900eab6526c1ef3d",
+      "mtime": "1658932091",
+      "size": "36864",
+      "md5": "7b14c885cebf66588bbc9334ac262904",
+      "crc32": "9c5bd999",
+      "sha1": "9df4ee3e4abb0326fdabfcdc368f380c6c0e40cb",
       "format": "Metadata"
     },
     {
@@ -158,9 +210,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 15,
-  "item_last_updated": 1658892063,
-  "item_size": 682438,
+  "files_count": 20,
+  "item_last_updated": 1658952684,
+  "item_size": 1037964,
   "metadata": {
     "identifier": "elpasotimes-2022",
     "collection": [
@@ -177,10 +229,10 @@
     "publicdate": "2022-07-26 14:34:01",
     "addeddate": "2022-07-26 14:34:01"
   },
-  "server": "ia801402.us.archive.org",
-  "uniq": 1489478238,
+  "server": "ia601402.us.archive.org",
+  "uniq": 1196917257,
   "workable_servers": [
-    "ia801402.us.archive.org",
-    "ia601402.us.archive.org"
+    "ia601402.us.archive.org",
+    "ia801402.us.archive.org"
   ]
 }

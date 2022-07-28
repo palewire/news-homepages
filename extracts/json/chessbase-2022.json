@@ -1,5 +1,5 @@
 {
-  "created": 1658919921,
+  "created": 1658963106,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/35/items/chessbase-2022",
@@ -757,31 +757,83 @@
       "format": "JSON"
     },
     {
+      "name": "chessbase-2022-07-27T13:04:28.126371+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chessbase-2022-07-27T13:04:28.126371+02:00.jpg",
+      "mtime": "1658939852",
+      "size": "10693",
+      "md5": "2d1068a077e5e47f4e4f9d343666a0b6",
+      "crc32": "f887e91a",
+      "sha1": "0d80740b231da99e9a7cb9356c7d8b2b996fb352"
+    },
+    {
+      "name": "chessbase-2022-07-28T01:04:00.724617+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658963043",
+      "size": "47139",
+      "md5": "11eb762702d5db64679452cbc70edcb4",
+      "crc32": "a7627d34",
+      "sha1": "5ab853d7780cb5280829d0dcf70b4ff8de9eabe7",
+      "format": "JSON"
+    },
+    {
+      "name": "chessbase-2022-07-28T01:04:00.724617+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658963044",
+      "size": "41449",
+      "md5": "758784c8934ceac4843bff08512f3782",
+      "crc32": "b4abc998",
+      "sha1": "d72c11a91c1fa9bff908aa32d5fd32b6ee73422e",
+      "format": "JSON"
+    },
+    {
+      "name": "chessbase-2022-07-28T01:04:00.724617+02:00.jpg",
+      "source": "original",
+      "mtime": "1658963041",
+      "size": "381538",
+      "md5": "d91b56974c0c796c848b0f5dd98a0f43",
+      "crc32": "7d3d7b50",
+      "sha1": "6710b1277ddb5cd717889124ee0b4e4e142b800b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chessbase-2022-07-28T01:04:00.724617+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658963046",
+      "size": "1473",
+      "md5": "050bfd9f9755bd2f63ae1823d8d3ef46",
+      "crc32": "239c2f09",
+      "sha1": "ef174513f8a5adc502fbe4ec9ace81eb9d5a93c0",
+      "format": "JSON"
+    },
+    {
       "name": "chessbase-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a0de12ce69d79da1c6b057f2ea1207040c71e485",
-      "mtime": "1658919915",
-      "size": "16742",
-      "md5": "76cc633fb630651854b19418f0039268",
-      "crc32": "cc1f0db0",
-      "sha1": "69a26c7a1e2023b415f01085fe23e701b4e2b215",
+      "btih": "162622d3f1aa0d8501c57b269e1bc7b58021cd7e",
+      "mtime": "1658963104",
+      "size": "17807",
+      "md5": "9918db50687e02a09f2d9df3f6d694bd",
+      "crc32": "06d924ff",
+      "sha1": "7e6c9110805316c06e84fe2bc0ea674cb3b21c52",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chessbase-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "27241ce14ce360263418aa59b2c64fed",
+      "md5": "bb8152ea3952f302f44945b9043aecd4",
       "summation": "md5"
     },
     {
       "name": "chessbase-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658919879",
-      "size": "106496",
-      "md5": "99280562c87ee525ca33d1e975c328d2",
-      "crc32": "ec2a09d4",
-      "sha1": "b15ef395da0d0f907972976cdab909c0c8688e08",
+      "mtime": "1658963070",
+      "size": "110592",
+      "md5": "7cb4b86e5c151b28098597f8e5f8615e",
+      "crc32": "7df80373",
+      "sha1": "8e7d69c7a369f4adb5f42f71a164e0e7effc1287",
       "format": "Metadata"
     },
     {
@@ -795,9 +847,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 76,
-  "item_last_updated": 1658919915,
-  "item_size": 7480044,
+  "files_count": 81,
+  "item_last_updated": 1658963104,
+  "item_size": 7967497,
   "metadata": {
     "identifier": "chessbase-2022",
     "collection": [
@@ -819,7 +871,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345206965,
+      "task_id": 3345670387,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -827,7 +879,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1640666660,
+  "uniq": 88104522,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

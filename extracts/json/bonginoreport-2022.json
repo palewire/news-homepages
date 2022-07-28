@@ -1,5 +1,5 @@
 {
-  "created": 1658919874,
+  "created": 1658963020,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/28/items/bonginoreport-2022",
@@ -9095,31 +9095,83 @@
       "format": "JSON"
     },
     {
+      "name": "bonginoreport-2022-07-27T07:03:22.580221-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bonginoreport-2022-07-27T07:03:22.580221-04:00.jpg",
+      "mtime": "1658939818",
+      "size": "8625",
+      "md5": "9b782f32990ff8fe9cff9e2b9faa975f",
+      "crc32": "89638aaf",
+      "sha1": "05beff30ea622296a01c684b1175a1d544e1e91b"
+    },
+    {
+      "name": "bonginoreport-2022-07-27T19:02:36.321281-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658962963",
+      "size": "17303",
+      "md5": "aff014e7d07bd49344e6ce0637406f2c",
+      "crc32": "209f260a",
+      "sha1": "c9cd3bfb8789c2c5bfc5f5c9409a194e0bb946d8",
+      "format": "JSON"
+    },
+    {
+      "name": "bonginoreport-2022-07-27T19:02:36.321281-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658962965",
+      "size": "19509",
+      "md5": "f957098da5bccf979a3fb048331a3dc2",
+      "crc32": "7ced30e4",
+      "sha1": "62c5e6b9cf255020f40cdf45618228cdef859148",
+      "format": "JSON"
+    },
+    {
+      "name": "bonginoreport-2022-07-27T19:02:36.321281-04:00.jpg",
+      "source": "original",
+      "mtime": "1658962961",
+      "size": "273231",
+      "md5": "6e7d89448849e22d81e2c66db3f89491",
+      "crc32": "9190c8bf",
+      "sha1": "40cf2af655d0975c9e452e3a8eab74e5140d739a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bonginoreport-2022-07-27T19:02:36.321281-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658962967",
+      "size": "1486",
+      "md5": "65dddc1b71df5271f7323bbfa13789a8",
+      "crc32": "337f5490",
+      "sha1": "c9263fab5c6092cf2151dbbe4a805794556dfbb3",
+      "format": "JSON"
+    },
+    {
       "name": "bonginoreport-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ec2e0af9a43737f668ce924df944f0a1197efc75",
-      "mtime": "1658919870",
-      "size": "187832",
-      "md5": "41d826278317762f46f83b40cdeec1fa",
-      "crc32": "b0084420",
-      "sha1": "51e68edd896247f4fc632fd05bcb385dc1a0c321",
+      "btih": "57f3084bae1e790502e706c43a509806749a101c",
+      "mtime": "1658963015",
+      "size": "188896",
+      "md5": "5a56240e9d51761529f13365f14c8c07",
+      "crc32": "5874c528",
+      "sha1": "ec3cf8c6b764af49d0afff4a50b3c5075d8e2843",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bonginoreport-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3cb5f594552d32f4458532f9691941f1",
+      "md5": "3d071a849d74048d896b6d10092437c9",
       "summation": "md5"
     },
     {
       "name": "bonginoreport-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658919824",
-      "size": "1015808",
-      "md5": "cbe4654b3e0908a233a8909b0fd9ddd9",
-      "crc32": "f94d6056",
-      "sha1": "2f0472c1a9b48ef5d09d9903586c9094c9d07431",
+      "mtime": "1658962973",
+      "size": "1024000",
+      "md5": "f79c1685ff26907dfb4e58f3f0c71800",
+      "crc32": "9dd43cfe",
+      "sha1": "156795fea92bce35e4f574a4a88da9d1b072e065",
       "format": "Metadata"
     },
     {
@@ -9133,9 +9185,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 870,
-  "item_last_updated": 1658919870,
-  "item_size": 67367544,
+  "files_count": 875,
+  "item_last_updated": 1658963015,
+  "item_size": 67696954,
   "metadata": {
     "identifier": "bonginoreport-2022",
     "collection": [
@@ -9157,7 +9209,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345205919,
+      "task_id": 3345668703,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9165,7 +9217,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1359377757,
+  "uniq": 131092560,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

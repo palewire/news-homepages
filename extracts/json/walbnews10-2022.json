@@ -1,5 +1,5 @@
 {
-  "created": 1658887025,
+  "created": 1658950050,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/23/items/walbnews10-2022",
@@ -726,31 +726,83 @@
       "sha1": "2c77929865e32fad7edd5bfe58258cff762b9cc1"
     },
     {
+      "name": "walbnews10-2022-07-27T09:26:24.635045-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658928388",
+      "size": "34757",
+      "md5": "433e5d48d21ddfc305f6196a4bb33361",
+      "crc32": "3f3bce11",
+      "sha1": "1bd84c4b5fde5fb61d7ff5b45d553036719e96e0",
+      "format": "JSON"
+    },
+    {
+      "name": "walbnews10-2022-07-27T09:26:24.635045-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658928389",
+      "size": "21951",
+      "md5": "585158b80a7ac18ba4a72656bdaeb1c8",
+      "crc32": "2df66153",
+      "sha1": "9636caaa7180493766898b77b4c844061a72f69e",
+      "format": "JSON"
+    },
+    {
+      "name": "walbnews10-2022-07-27T09:26:24.635045-04:00.jpg",
+      "source": "original",
+      "mtime": "1658928386",
+      "size": "373245",
+      "md5": "0c1d0f4d74fd9fd748c48b74f1c2d2fa",
+      "crc32": "6b17c3e2",
+      "sha1": "cff655e212975220d3bc33a9a1d9e2f595abe8c0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "walbnews10-2022-07-27T09:26:24.635045-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658928391",
+      "size": "1441",
+      "md5": "f34edbf740cfbcb113aee31b096e9149",
+      "crc32": "5cba9700",
+      "sha1": "18e8163ec95b14099fbdf63743ed9226c83b0829",
+      "format": "JSON"
+    },
+    {
+      "name": "walbnews10-2022-07-27T09:26:24.635045-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "walbnews10-2022-07-27T09:26:24.635045-04:00.jpg",
+      "mtime": "1658950017",
+      "size": "11202",
+      "md5": "10a9eb5548d67788973e5aa6abc9056e",
+      "crc32": "4d567216",
+      "sha1": "a28f4b4e4bac437e12f775c233082f61e4e591ae"
+    },
+    {
       "name": "walbnews10-2022_archive.torrent",
       "source": "metadata",
-      "btih": "291080881897f9407dd87af5d3d0b62a4d3a0060",
-      "mtime": "1658886940",
-      "size": "16152",
-      "md5": "55a344ee7e08a6a89f0a2f03a4e54ee4",
-      "crc32": "1ab53d0f",
-      "sha1": "5754b8199d2ed452f912fb97691045de56243dc2",
+      "btih": "b8c8e28a36163d0426be8ad9bbae307241bf92c9",
+      "mtime": "1658950022",
+      "size": "17222",
+      "md5": "7b135980378a01947707ef4aa0619f8a",
+      "crc32": "d3f02054",
+      "sha1": "30fe2a8b5def8080af401865c232cbcc83557c37",
       "format": "Archive BitTorrent"
     },
     {
       "name": "walbnews10-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cf47ab5380dab4db51347a873479e883",
+      "md5": "c50aed07b0d42480dbad5971004a5680",
       "summation": "md5"
     },
     {
       "name": "walbnews10-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658885468",
-      "size": "102400",
-      "md5": "ae717d2a6294f377ca0e3e0ec4ee5ee9",
-      "crc32": "ae275888",
-      "sha1": "90d6547cacaab12f27034f2f378ccad10c0141c8",
+      "mtime": "1658928395",
+      "size": "106496",
+      "md5": "603d000be7ad35bd3d0aa546f222d6e0",
+      "crc32": "f0274f1b",
+      "sha1": "9c88ce70bc4abb451da23b86ccb530343e20a8d2",
       "format": "Metadata"
     },
     {
@@ -764,9 +816,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 73,
-  "item_last_updated": 1658886940,
-  "item_size": 6501055,
+  "files_count": 78,
+  "item_last_updated": 1658950022,
+  "item_size": 6948817,
   "metadata": {
     "identifier": "walbnews10-2022",
     "collection": [
@@ -783,10 +835,10 @@
     "publicdate": "2022-07-20 23:31:52",
     "addeddate": "2022-07-20 23:31:52"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1996640553,
+  "server": "ia601409.us.archive.org",
+  "uniq": 1556574307,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

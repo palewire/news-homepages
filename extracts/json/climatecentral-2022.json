@@ -1,5 +1,5 @@
 {
-  "created": 1658919968,
+  "created": 1658963117,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/13/items/climatecentral-2022",
@@ -473,31 +473,83 @@
       "format": "JSON"
     },
     {
+      "name": "climatecentral-2022-07-27T07:05:09.544070-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "climatecentral-2022-07-27T07:05:09.544070-04:00.jpg",
+      "mtime": "1658939989",
+      "size": "8464",
+      "md5": "1ea704d681328ce1e53a02e3120f1b98",
+      "crc32": "04172dd6",
+      "sha1": "12d2b07c85666b45e0cb7a6864121118e8b2f36d"
+    },
+    {
+      "name": "climatecentral-2022-07-27T19:04:30.735159-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658963074",
+      "size": "10598",
+      "md5": "00ddf87c9db06325ee62e482cea26ccd",
+      "crc32": "ed3353cb",
+      "sha1": "5c19481a8b9d18c268b07cea61c3e3753ee3136b",
+      "format": "JSON"
+    },
+    {
+      "name": "climatecentral-2022-07-27T19:04:30.735159-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658963075",
+      "size": "9519",
+      "md5": "db93dc8adeb909cc63f76054c0ac1cc7",
+      "crc32": "05e58ac2",
+      "sha1": "987708eabeb6eef1c3d55c8c178167fdd87a0fc4",
+      "format": "JSON"
+    },
+    {
+      "name": "climatecentral-2022-07-27T19:04:30.735159-04:00.jpg",
+      "source": "original",
+      "mtime": "1658963072",
+      "size": "193435",
+      "md5": "2e0c72002822e6011264c57bfca26bd8",
+      "crc32": "2c621404",
+      "sha1": "cc68aaed46ea78e11c12a463edbf7f080412d652",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "climatecentral-2022-07-27T19:04:30.735159-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658963077",
+      "size": "1522",
+      "md5": "5299aa94a74c6b726ac3990448e1d8b6",
+      "crc32": "c50d8d94",
+      "sha1": "2cc9e360d2feaf51825ee86baf35494943135d4e",
+      "format": "JSON"
+    },
+    {
       "name": "climatecentral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4e964478e1743fadcc3d1e627ffba2bdadf8b11a",
-      "mtime": "1658919962",
-      "size": "11146",
-      "md5": "1ae422893d9b3f2f56f5ef455ad88b95",
-      "crc32": "3f568615",
-      "sha1": "a4e75c9ef13410f0ba71919beddaa7943d913545",
+      "btih": "e146a159ed8253013863b2ab4fc2bb52d26318a0",
+      "mtime": "1658963115",
+      "size": "12235",
+      "md5": "6e18b22ea6f2b646841fe4e16f4bba70",
+      "crc32": "83762f7d",
+      "sha1": "384c6fdd10b21a1fdaaa0ad5622ceae851d98b01",
       "format": "Archive BitTorrent"
     },
     {
       "name": "climatecentral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "51b2429ae1c1a2fb76651197779b556c",
+      "md5": "b9fd0cc2ec47c49a93f86d9166858ac8",
       "summation": "md5"
     },
     {
       "name": "climatecentral-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658919925",
-      "size": "69632",
-      "md5": "4294e83fcf690f1ba00588e417937186",
-      "crc32": "45aa3080",
-      "sha1": "a8abc893403e070b3efa79a1f5055a259a272b8c",
+      "mtime": "1658963081",
+      "size": "77824",
+      "md5": "5ddbad76cb1ae54a632986382b2a4766",
+      "crc32": "0d077905",
+      "sha1": "728b9d41d939ad070f5b753393b3be55cd75760f",
       "format": "Metadata"
     },
     {
@@ -511,9 +563,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 49,
-  "item_last_updated": 1658919962,
-  "item_size": 2106565,
+  "files_count": 54,
+  "item_last_updated": 1658963115,
+  "item_size": 2339384,
   "metadata": {
     "identifier": "climatecentral-2022",
     "collection": [
@@ -535,7 +587,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345207620,
+      "task_id": 3345670587,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -543,7 +595,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1292576023,
+  "uniq": 785162496,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

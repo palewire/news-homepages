@@ -1,5 +1,5 @@
 {
-  "created": 1658924133,
+  "created": 1658953113,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/19/items/lobs-2022",
@@ -3601,31 +3601,94 @@
       "format": "JSON"
     },
     {
+      "name": "lobs-2022-07-27T10:12:52.831339+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lobs-2022-07-27T10:12:52.831339+02:00.jpg",
+      "mtime": "1658924381",
+      "size": "9315",
+      "md5": "9ebf7efb77e400226eb56acca4e377c9",
+      "crc32": "124f1ca1",
+      "sha1": "8b3af7cad93f499c242658e3b796097e3386c4e7"
+    },
+    {
+      "name": "lobs-2022-07-27T16:34:17.225262+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658932459",
+      "size": "95636",
+      "md5": "ba6d85501cf9a1cb6d49cb6581fe1e57",
+      "crc32": "7d889a60",
+      "sha1": "7ce7fb48f257fefa02342b960e1a6f4ec0d5109b",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-07-27T16:34:17.225262+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658932461",
+      "size": "84633",
+      "md5": "e2b5038ca8eaabcda16837d63b762a05",
+      "crc32": "6e3f42e1",
+      "sha1": "885e8d04673e57bec56fa6b2677f17e81e163f84",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-07-27T16:34:17.225262+02:00.jpg",
+      "source": "original",
+      "mtime": "1658932458",
+      "size": "249974",
+      "md5": "9755bd3f7bcb70cb79a799db29b90d87",
+      "crc32": "be084208",
+      "sha1": "039f649406c9ed0ad6a9fe049d531c2001117a21",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lobs-2022-07-27T16:34:17.225262+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658932462",
+      "size": "1477",
+      "md5": "201b169bb3266a8bbf3764e8afec6f10",
+      "crc32": "bca77655",
+      "sha1": "88ddeb13cc41a6ff5777232f8c4e688473ab66ba",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-07-27T16:34:17.225262+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lobs-2022-07-27T16:34:17.225262+02:00.jpg",
+      "mtime": "1658953075",
+      "size": "9073",
+      "md5": "09e854cb266ef9d79028056793d0f7ac",
+      "crc32": "de4a5170",
+      "sha1": "5ff7b71f6b1334044cc0a2efc412610a9ba622be"
+    },
+    {
       "name": "lobs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a9f78a91582cc67d25be12a0b16ebff6a7f99217",
-      "mtime": "1658909623",
-      "size": "72499",
-      "md5": "f74a9fccde5ca16f0bd50a3f38e172b4",
-      "crc32": "404e7ce5",
-      "sha1": "260aa021f7af26bfa2157fbd059c0135ea9b3fcd",
+      "btih": "f350a061486ff36304f2a384ef240e6bde174bb3",
+      "mtime": "1658953084",
+      "size": "73738",
+      "md5": "8e1e31ea1c506779eb6cc7df4136bca5",
+      "crc32": "1890f78b",
+      "sha1": "dd31f3b1a2dc5937a652bc04335ade5fa5c8f5d4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lobs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b52363d069ae7182c4c179dd8273286b",
+      "md5": "a62392ab48e80f89d6e0ecf51a984e19",
       "summation": "md5"
     },
     {
       "name": "lobs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658909586",
-      "size": "413696",
-      "md5": "a902c950559c830711ef027688e854a0",
-      "crc32": "c37062a3",
-      "sha1": "dcd71676286d36dc16b826feed674b1a501db99c",
+      "mtime": "1658932467",
+      "size": "417792",
+      "md5": "2b13c8c9cf7a61dedad984a949cf1a94",
+      "crc32": "2b3b62ab",
+      "sha1": "b10634d0561c73444e02028f687f039cdee16039",
       "format": "Metadata"
     },
     {
@@ -3639,50 +3702,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 347,
-  "item_last_updated": 1658909623,
-  "item_size": 36227803,
-  "lobs-2022": [
-    {
-      "url": "https://www.nouvelobs.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nouvelobs_com-_-2022_07_27_08_07_29.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nouvelobs_com-_-2022_07_27_08_07_29.report.json",
-      "summary": {
-        "performance": 0.69,
-        "accessibility": 0.82,
-        "best-practices": 1,
-        "seo": 0.92,
-        "pwa": 0.8
-      }
-    },
-    {
-      "url": "https://www.nouvelobs.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nouvelobs_com-_-2022_07_27_08_08_02.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nouvelobs_com-_-2022_07_27_08_08_02.report.json",
-      "summary": {
-        "performance": 0.89,
-        "accessibility": 0.82,
-        "best-practices": 1,
-        "seo": 0.92,
-        "pwa": 0.8
-      }
-    },
-    {
-      "url": "https://www.nouvelobs.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nouvelobs_com-_-2022_07_27_08_07_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nouvelobs_com-_-2022_07_27_08_07_46.report.json",
-      "summary": {
-        "performance": 0.81,
-        "accessibility": 0.82,
-        "best-practices": 1,
-        "seo": 0.92,
-        "pwa": 0.8
-      }
-    }
-  ],
+  "files_count": 353,
+  "item_last_updated": 1658953084,
+  "item_size": 36683246,
   "metadata": {
     "identifier": "lobs-2022",
     "collection": [
@@ -3699,21 +3721,10 @@
     "publicdate": "2022-06-30 22:26:27",
     "addeddate": "2022-06-30 22:26:27"
   },
-  "pending_tasks": true,
-  "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3345089562,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1201360747,
+  "server": "ia801404.us.archive.org",
+  "uniq": 2139743047,
   "workable_servers": [
+    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

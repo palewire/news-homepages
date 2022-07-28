@@ -1,5 +1,5 @@
 {
-  "created": 1658924734,
+  "created": 1658957798,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/13/items/voiceofoc-2022",
@@ -2426,31 +2426,83 @@
       "sha1": "b3d7efdde217cb94b07dfad0f9253bc0bed94da6"
     },
     {
+      "name": "voiceofoc-2022-07-27T08:50:33.243018-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658937037",
+      "size": "25172",
+      "md5": "d9c0a4b97fd116462bf3384c417d4eec",
+      "crc32": "fb083aa8",
+      "sha1": "d714044eb1eb83564d00f74d831245b836622c8c",
+      "format": "JSON"
+    },
+    {
+      "name": "voiceofoc-2022-07-27T08:50:33.243018-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658937038",
+      "size": "34271",
+      "md5": "df96c269ad06fdca3891cabcd9f80a0c",
+      "crc32": "ea9abf1f",
+      "sha1": "73d9cc7c5f5a7d7c8f511b6e021b01b0d9739111",
+      "format": "JSON"
+    },
+    {
+      "name": "voiceofoc-2022-07-27T08:50:33.243018-07:00.jpg",
+      "source": "original",
+      "mtime": "1658937035",
+      "size": "309952",
+      "md5": "72f84e0d1edcf2940eaaa9198be79df7",
+      "crc32": "31f4a83b",
+      "sha1": "2aa1bd43774d67234acfa9292272bd7a83a45a20",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voiceofoc-2022-07-27T08:50:33.243018-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658937040",
+      "size": "1441",
+      "md5": "87e858018b62da9e275098623ba640e7",
+      "crc32": "624838b3",
+      "sha1": "3cc348d4db7918501fef42d9d3c455ad30ad59a9",
+      "format": "JSON"
+    },
+    {
+      "name": "voiceofoc-2022-07-27T08:50:33.243018-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voiceofoc-2022-07-27T08:50:33.243018-07:00.jpg",
+      "mtime": "1658957781",
+      "size": "10525",
+      "md5": "3a9453e681a9f40a7ea0f57581d2a14d",
+      "crc32": "fe1c326c",
+      "sha1": "0158ba48cb1faa465bbdf992c774279ba9a4b108"
+    },
+    {
       "name": "voiceofoc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ba87be3a43309560985ddde5305553ac795884ff",
-      "mtime": "1658898236",
-      "size": "50408",
-      "md5": "47a3a37d8f36701d34956a7d9975534c",
-      "crc32": "ec889567",
-      "sha1": "cbe1ed5b21b33f57340cab337ea4a340b2eaf030",
+      "btih": "a84256190906cdf48178ea2e61284a85e48431db",
+      "mtime": "1658957785",
+      "size": "51473",
+      "md5": "2cc6255a16629c9b85fdece1a37d2b0e",
+      "crc32": "4cecc953",
+      "sha1": "d11932dfeea0602903aff9deafe79ced2e8b98f1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voiceofoc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c520aab4db07cb2b3c014bebd6dd1728",
+      "md5": "cc4057b4739b44708fe7b85db072a174",
       "summation": "md5"
     },
     {
       "name": "voiceofoc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658894282",
-      "size": "290816",
-      "md5": "5fcb9a533a59382fdc544d1b3a464bd0",
-      "crc32": "0e36affc",
-      "sha1": "ba7c2b4e3578e30c2b6a21d48471da7e9a0adf9c",
+      "mtime": "1658937044",
+      "size": "294912",
+      "md5": "1fdd6268fd10c312610b69694543bd26",
+      "crc32": "62b3806a",
+      "sha1": "eb01e380f0c5fe36346f07a03f7e70b13a018573",
       "format": "Metadata"
     },
     {
@@ -2464,9 +2516,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 235,
-  "item_last_updated": 1658898236,
-  "item_size": 21409474,
+  "files_count": 240,
+  "item_last_updated": 1658957785,
+  "item_size": 21795996,
   "metadata": {
     "identifier": "voiceofoc-2022",
     "collection": [
@@ -2484,48 +2536,7 @@
     "addeddate": "2022-07-09 04:04:32"
   },
   "server": "ia601408.us.archive.org",
-  "uniq": 550453431,
-  "voiceofoc-2022": [
-    {
-      "url": "https://voiceofoc.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voiceofoc_org-_-2022_07_27_03_42_35.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voiceofoc_org-_-2022_07_27_03_42_35.report.json",
-      "summary": {
-        "performance": 0.48,
-        "accessibility": 0.86,
-        "best-practices": 1,
-        "seo": 0.91,
-        "pwa": 0.9
-      }
-    },
-    {
-      "url": "https://voiceofoc.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voiceofoc_org-_-2022_07_27_03_42_50.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voiceofoc_org-_-2022_07_27_03_42_50.report.json",
-      "summary": {
-        "performance": 0.56,
-        "accessibility": 0.86,
-        "best-practices": 1,
-        "seo": 0.91,
-        "pwa": 0.9
-      }
-    },
-    {
-      "url": "https://voiceofoc.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voiceofoc_org-_-2022_07_27_03_43_04.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voiceofoc_org-_-2022_07_27_03_43_04.report.json",
-      "summary": {
-        "performance": 0.53,
-        "accessibility": 0.86,
-        "best-practices": 1,
-        "seo": 0.91,
-        "pwa": 0.9
-      }
-    }
-  ],
+  "uniq": 1356632656,
   "workable_servers": [
     "ia601408.us.archive.org",
     "ia801408.us.archive.org"

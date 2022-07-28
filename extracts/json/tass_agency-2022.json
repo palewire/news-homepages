@@ -1,5 +1,5 @@
 {
-  "created": 1658904110,
+  "created": 1658956263,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/17/items/tass_agency-2022",
@@ -1494,31 +1494,83 @@
       "sha1": "9917b47214a5b499add2b424f3adb4bed8bf30a3"
     },
     {
+      "name": "tass_agency-2022-07-27T18:47:06.527902+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658936830",
+      "size": "42",
+      "md5": "2c44e5332bbb2c8cce7db932cef2f7de",
+      "crc32": "320d6962",
+      "sha1": "4adf22edd6c4f5646546cf06832072268c0ced30",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-07-27T18:47:06.527902+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658936831",
+      "size": "2",
+      "md5": "d751713988987e9331980363e24189ce",
+      "crc32": "0d4cbb29",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-07-27T18:47:06.527902+03:00.jpg",
+      "source": "original",
+      "mtime": "1658936828",
+      "size": "117281",
+      "md5": "8d2a031137013fecf036613491574303",
+      "crc32": "fcb7db86",
+      "sha1": "b5f48e838df32e4651e73a9247686283420c91c5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tass_agency-2022-07-27T18:47:06.527902+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658936834",
+      "size": "1396",
+      "md5": "20d13aff881cc04b9511dcadb8653ae0",
+      "crc32": "679a7df4",
+      "sha1": "c58d833a1a06fc421879f3f93e23f6c2223390c8",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-07-27T18:47:06.527902+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tass_agency-2022-07-27T18:47:06.527902+03:00.jpg",
+      "mtime": "1658956200",
+      "size": "7208",
+      "md5": "6035c0afa1f96bb42666845f9c33549a",
+      "crc32": "1c2eca1e",
+      "sha1": "1f0129b2b6ef6b0b2431bd7233e2241454ce6ef6"
+    },
+    {
       "name": "tass_agency-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e8b32a1f84bdec1a779ae37fee2e6617f14143b5",
-      "mtime": "1658904037",
-      "size": "31267",
-      "md5": "0305782a7e224c3fddd619aef054ad3c",
-      "crc32": "57f617c2",
-      "sha1": "8ca8bfa7044a599da296d93e175c9e46c92f3c7e",
+      "btih": "c300c742e2ae2dabe0307073f0a00c1d22c57dc4",
+      "mtime": "1658956220",
+      "size": "32334",
+      "md5": "4ab10661c10c0cd9566bdd8e43be85e2",
+      "crc32": "ba02ff74",
+      "sha1": "085586b63f8df464c90e31060089281abf5e4f33",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tass_agency-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4807d3bcf6230303279079126dffdc56",
+      "md5": "8917d3f2e62488f5cdb3129ae02cb20a",
       "summation": "md5"
     },
     {
       "name": "tass_agency-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658899513",
-      "size": "188416",
-      "md5": "4d4ea69e49bb2cbd2e89eae52c38b9a4",
-      "crc32": "0bdec981",
-      "sha1": "7c4757ba6fbeaade77ef24a7a308dab27452d59a",
+      "mtime": "1658936840",
+      "size": "192512",
+      "md5": "f049e5fe0a2e87b4db774d2c1c8fef6a",
+      "crc32": "18200bdd",
+      "sha1": "9b739dac84f05c7886e350c55d64563f5f7216a7",
       "format": "Metadata"
     },
     {
@@ -1532,9 +1584,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 146,
-  "item_last_updated": 1658904037,
-  "item_size": 5240213,
+  "files_count": 151,
+  "item_last_updated": 1658956220,
+  "item_size": 5371305,
   "metadata": {
     "identifier": "tass_agency-2022",
     "collection": [
@@ -1551,10 +1603,10 @@
     "publicdate": "2022-07-16 20:29:00",
     "addeddate": "2022-07-16 20:29:00"
   },
-  "server": "ia601504.us.archive.org",
-  "uniq": 1161631616,
+  "server": "ia801504.us.archive.org",
+  "uniq": 1876299755,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia801504.us.archive.org",
+    "ia601504.us.archive.org"
   ]
 }

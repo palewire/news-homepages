@@ -1,5 +1,46 @@
 {
-  "created": 1658919768,
+  "bakersfieldcali-2022": [
+    {
+      "url": "https://www.bakersfield.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bakersfield_com-_-2022_07_27_22_39_41.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bakersfield_com-_-2022_07_27_22_39_41.report.json",
+      "summary": {
+        "performance": 0.11,
+        "accessibility": 0.74,
+        "best-practices": 0.75,
+        "seo": 0.76,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.bakersfield.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bakersfield_com-_-2022_07_27_22_42_40.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bakersfield_com-_-2022_07_27_22_42_40.report.json",
+      "summary": {
+        "performance": 0.12,
+        "accessibility": 0.74,
+        "best-practices": 0.92,
+        "seo": 0.76,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.bakersfield.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bakersfield_com-_-2022_07_27_22_41_15.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bakersfield_com-_-2022_07_27_22_41_15.report.json",
+      "summary": {
+        "performance": 0.13,
+        "accessibility": 0.74,
+        "best-practices": 0.83,
+        "seo": 0.76,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "created": 1658967474,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/22/items/bakersfieldcali-2022",
@@ -1661,31 +1702,83 @@
       "format": "JSON"
     },
     {
+      "name": "bakersfieldcali-2022-07-27T04:01:43.222712-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bakersfieldcali-2022-07-27T04:01:43.222712-07:00.jpg",
+      "mtime": "1658939710",
+      "size": "9512",
+      "md5": "b486d7fcaf8422963b6bacddbeb323b4",
+      "crc32": "169d25c1",
+      "sha1": "dc4a87b31ab6659ba54869d2e35576c8a337cc61"
+    },
+    {
+      "name": "bakersfieldcali-2022-07-27T16:02:50.800448-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658962974",
+      "size": "36159",
+      "md5": "35dd042213deb75f9c9f9220a0e05fc5",
+      "crc32": "02d3f69a",
+      "sha1": "2de9a21bbf82a60b2e3c1502b9f26e1f79747545",
+      "format": "JSON"
+    },
+    {
+      "name": "bakersfieldcali-2022-07-27T16:02:50.800448-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658962975",
+      "size": "81570",
+      "md5": "99e67d6b27c484ac0877e375151da863",
+      "crc32": "778e456f",
+      "sha1": "f067b902ca7c91ef0db0e6dbac2bcfdd9e9e318e",
+      "format": "JSON"
+    },
+    {
+      "name": "bakersfieldcali-2022-07-27T16:02:50.800448-07:00.jpg",
+      "source": "original",
+      "mtime": "1658962973",
+      "size": "271039",
+      "md5": "a53c84e46c49add6c42b173cd56605de",
+      "crc32": "836def26",
+      "sha1": "8fa065cf4e115f1f362c45e6790727c808ee6e20",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bakersfieldcali-2022-07-27T16:02:50.800448-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658962977",
+      "size": "1504",
+      "md5": "23ffeeb5f08a87ec2c34c849443c3003",
+      "crc32": "ac878137",
+      "sha1": "60cac7a1fd97a2bf0fe1395f20d18ce6cdd87ace",
+      "format": "JSON"
+    },
+    {
       "name": "bakersfieldcali-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d005b4f75ad0866e2d7e8cc1537617e56330157e",
-      "mtime": "1658919761",
-      "size": "35906",
-      "md5": "e9c9c0784382a95761fcb3e46c2895a4",
-      "crc32": "f7ffdfdb",
-      "sha1": "50723b0103f0e051da0b5c74d6395c68aaa66abe",
+      "btih": "c3c07629cee7f34ce21c74f0b80381b46d0688dd",
+      "mtime": "1658963017",
+      "size": "36980",
+      "md5": "9047d0d804d154cd779ea4aa558ad20a",
+      "crc32": "a046a93f",
+      "sha1": "e2a71b537759f0ccfe344aaea7b1b5e8a04a04e8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bakersfieldcali-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2ae475ed8b14b4cd65ac0e05316e4e0d",
+      "md5": "4ffc47487d65fead565ba2d57378a3f8",
       "summation": "md5"
     },
     {
       "name": "bakersfieldcali-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658919721",
-      "size": "208896",
-      "md5": "a68a2c91a72900eba98ccb4825d86602",
-      "crc32": "1776c3e7",
-      "sha1": "862a3828ccee2291f10678a92ccde9f6b3cc138c",
+      "mtime": "1658962981",
+      "size": "217088",
+      "md5": "bce6c229c0ddc8537bc53f65f3634687",
+      "crc32": "611239b9",
+      "sha1": "f0ae8c1854ea3dc78795225fdb890bd34fa97347",
       "format": "Metadata"
     },
     {
@@ -1699,9 +1792,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 162,
-  "item_last_updated": 1658919761,
-  "item_size": 14796393,
+  "files_count": 167,
+  "item_last_updated": 1658963017,
+  "item_size": 15205443,
   "metadata": {
     "identifier": "bakersfieldcali-2022",
     "collection": [
@@ -1723,7 +1816,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345203846,
+      "task_id": 3345668727,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1731,7 +1824,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1079748285,
+  "uniq": 320947888,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]
