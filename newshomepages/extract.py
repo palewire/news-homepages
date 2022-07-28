@@ -49,7 +49,7 @@ def download(year: str):
 @cli.command()
 def consolidate():
     """Consolidate Internet Archive metadata into CSV files."""
-    print(":knot: Consolidating extract files")
+    print("🪢 Consolidating extracts")
 
     # Get all of the JSON files
     json_dir = utils.EXTRACT_DIR / "json"
