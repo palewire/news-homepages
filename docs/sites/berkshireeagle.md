@@ -5,18 +5,18 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# WGN
+# Berkshire Eagle
 
-![WGN](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wgnnews.jpg)
+![Berkshire Eagle](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/berkshireeagle.jpg)
 
 | Attribute      | Value                                                                                                                                            |
 | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Site           | [https://wgntv.com/](https://wgntv.com/)                                                                                                                 |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wgnnews.xml)                                                              |
-| Twitter handle | [@WGNNews](https://www.twitter.com/WGNNews)                                                                                  |
-| Location       | Chicago                                                                                                                              |
-| Timezone       | America/Chicago                                                                                                                              |
-| Bundles        | <a href="../bundles/chicago.html">Chicago</a>  |
+| Site           | [https://www.berkshireeagle.com/](https://www.berkshireeagle.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/berkshireeagle.xml)                                                              |
+| Twitter handle | [@BerkshireEagle](https://www.twitter.com/BerkshireEagle)                                                                                  |
+| Location       | Pittsfield                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/massachusetts.html">Massachusetts</a>  |
 
 ## Screenshots
 

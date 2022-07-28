@@ -16,7 +16,7 @@ orphan: true
 | Twitter handle | [@NiemanLab](https://www.twitter.com/NiemanLab)                                                                                  |
 | Location       | Cambridge                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
-| Bundles        |  |
+| Bundles        | <a href="../bundles/massachusetts.html">Massachusetts</a>  |
 
 ## Screenshots
 

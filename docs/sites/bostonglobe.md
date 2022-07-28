@@ -16,7 +16,7 @@ orphan: true
 | Twitter handle | [@BostonGlobe](https://www.twitter.com/BostonGlobe)                                                                                  |
 | Location       | Boston                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
-| Bundles        |  |
+| Bundles        | <a href="../bundles/massachusetts.html">Massachusetts</a>  |
 
 ## Screenshots
 

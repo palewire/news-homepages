@@ -5,18 +5,18 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# WGN
+# El Mundo
 
-![WGN](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wgnnews.jpg)
+![El Mundo](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/elmundoes.jpg)
 
 | Attribute      | Value                                                                                                                                            |
 | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Site           | [https://wgntv.com/](https://wgntv.com/)                                                                                                                 |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wgnnews.xml)                                                              |
-| Twitter handle | [@WGNNews](https://www.twitter.com/WGNNews)                                                                                  |
-| Location       | Chicago                                                                                                                              |
-| Timezone       | America/Chicago                                                                                                                              |
-| Bundles        | <a href="../bundles/chicago.html">Chicago</a>  |
+| Site           | [https://www.elmundo.es/](https://www.elmundo.es/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/elmundoes.xml)                                                              |
+| Twitter handle | [@elmundoes](https://www.twitter.com/elmundoes)                                                                                  |
+| Location       | Madrid                                                                                                                              |
+| Timezone       | Europe/Madrid                                                                                                                              |
+| Bundles        | <a href="../bundles/spain.html">Spain</a>  |
 
 ## Screenshots
 

@@ -5,18 +5,18 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# WGN
+# La Voz de Galicia
 
-![WGN](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wgnnews.jpg)
+![La Voz de Galicia](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lavozdegalicia.jpg)
 
 | Attribute      | Value                                                                                                                                            |
 | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Site           | [https://wgntv.com/](https://wgntv.com/)                                                                                                                 |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wgnnews.xml)                                                              |
-| Twitter handle | [@WGNNews](https://www.twitter.com/WGNNews)                                                                                  |
-| Location       | Chicago                                                                                                                              |
-| Timezone       | America/Chicago                                                                                                                              |
-| Bundles        | <a href="../bundles/chicago.html">Chicago</a>  |
+| Site           | [https://www.lavozdegalicia.es/](https://www.lavozdegalicia.es/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/lavozdegalicia.xml)                                                              |
+| Twitter handle | [@lavozdegalicia](https://www.twitter.com/lavozdegalicia)                                                                                  |
+| Location       | A Coruña                                                                                                                              |
+| Timezone       | Europe/Madrid                                                                                                                              |
+| Bundles        | <a href="../bundles/spain.html">Spain</a>  |
 
 ## Screenshots
 

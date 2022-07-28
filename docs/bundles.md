@@ -3,7 +3,7 @@
 
 # Bundle directory
 
-The archiving routine is currently organized into 45 bundles of sites.
+The archiving routine is currently organized into 46 bundles of sites.
 
 | Bundle  | RSS |
 | :-----  | :-- |
@@ -25,6 +25,7 @@ The archiving routine is currently organized into 45 bundles of sites.
 |[Japan](https://palewi.re/docs/news-homepages/bundles/japan.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/japan.xml)|
 |[Las Vegas](https://palewi.re/docs/news-homepages/bundles/las-vegas.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/las-vegas.xml)|
 |[Maryland](https://palewi.re/docs/news-homepages/bundles/maryland.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/maryland.xml)|
+|[Massachusetts](https://palewi.re/docs/news-homepages/bundles/massachusetts.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/massachusetts.xml)|
 |[Mexico](https://palewi.re/docs/news-homepages/bundles/mexico.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/mexico.xml)|
 |[Minnesota](https://palewi.re/docs/news-homepages/bundles/minnesota.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/minnesota.xml)|
 |[Mississippi](https://palewi.re/docs/news-homepages/bundles/mississippi.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/mississippi.xml)|

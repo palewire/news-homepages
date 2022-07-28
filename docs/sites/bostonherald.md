@@ -16,7 +16,7 @@ orphan: true
 | Twitter handle | [@BostonHerald](https://www.twitter.com/BostonHerald)                                                                                  |
 | Location       | Boston                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
-| Bundles        |  |
+| Bundles        | <a href="../bundles/massachusetts.html">Massachusetts</a>  |
 
 ## Screenshots
 

@@ -5,15 +5,15 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# WGN
+# Univision Chicago
 
-![WGN](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wgnnews.jpg)
+![Univision Chicago](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/unichicago.jpg)
 
 | Attribute      | Value                                                                                                                                            |
 | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Site           | [https://wgntv.com/](https://wgntv.com/)                                                                                                                 |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wgnnews.xml)                                                              |
-| Twitter handle | [@WGNNews](https://www.twitter.com/WGNNews)                                                                                  |
+| Site           | [https://www.univision.com/local/chicago-wgbo](https://www.univision.com/local/chicago-wgbo)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/unichicago.xml)                                                              |
+| Twitter handle | [@unichicago](https://www.twitter.com/unichicago)                                                                                  |
 | Location       | Chicago                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
 | Bundles        | <a href="../bundles/chicago.html">Chicago</a>  |
