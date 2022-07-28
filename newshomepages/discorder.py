@@ -7,6 +7,7 @@ from pathlib import Path
 import click
 import discord
 import pytz
+from rich import print
 
 from . import utils
 
@@ -71,7 +72,7 @@ def cli(slug: str, input_dir: str):
 
     # Pull images from input directory
     image_paths = list(input_path.glob("*.jpg"))
-    click.echo(f"{len(image_paths)} images discovered in {input_path}")
+    print(f":camera: {len(image_paths)} images discovered in {input_path}")
 
     # Post
     c = BotClient(caption, image_paths)

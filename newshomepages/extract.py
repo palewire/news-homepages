@@ -6,6 +6,8 @@ from datetime import datetime
 
 import click
 import internetarchive
+from rich import print
+from rich.progress import track
 
 from . import utils
 
@@ -26,7 +28,7 @@ def cli():
 @click.option("-y", "--year", "year", default=CURRENT_YEAR)
 def download(year: str):
     """Download the full list of Internet Archive items as JSON."""
-    click.echo(
+    print(
         f"Extracting {year} metadata for the Internet Archive collection {IA_COLLECTION}"
     )
     collection = internetarchive.get_item(IA_COLLECTION)
@@ -37,8 +39,7 @@ def download(year: str):
     item_list = internetarchive.search_items(
         f"collection:{IA_COLLECTION} AND identifier:(*-{year})"
     ).iter_as_items()
-    for item in item_list:
-        click.echo(f"Extracting metadata for the {item.identifier} item")
+    for item in track(item_list):
         # Save it locally
         with open(utils.EXTRACT_DIR / "json" / f"{item.identifier}.json", "w") as fh:
             json.dump(item.item_metadata, fh, indent=2)
@@ -64,7 +65,7 @@ def consolidate():
     )
 
     # Loop through all the sites
-    for site in utils.get_site_list():
+    for site in track(utils.get_site_list()):
         # Pull out the data we like
         site_dict = dict(
             handle=site["handle"],
@@ -150,55 +151,23 @@ def consolidate():
                     )
 
     # Write out the data
+    _write_csv(site_output, "sites.csv")
+    _write_csv(utils.get_bundle_list(), "bundles.csv")
+    _write_csv(site2bundle_output, "site-bundle-relationships.csv")
+    _write_csv(items_output, "items.csv")
+    _write_csv(screenshot_output, "screenshot-files.csv")
+    _write_csv(a11y_output, "accessibility-files.csv")
+    _write_csv(hyperlinks_output, "hyperlink-files.csv")
+    _write_csv(lighthouse_output, "lighthouse-files.csv")
+
+
+def _write_csv(dict_list, name):
     csv_dir = utils.EXTRACT_DIR / "csv"
-
-    # Sites
-    with open(csv_dir / "sites.csv", "w") as fh:
-        writer = csv.DictWriter(fh, fieldnames=site_output[0].keys())
+    with open(csv_dir / name, "w") as fh:
+        fieldnames = dict_list[0].keys()
+        writer = csv.DictWriter(fh, fieldnames=fieldnames)
         writer.writeheader()
-        writer.writerows(site_output)
-
-    # Bundles
-    with open(csv_dir / "bundles.csv", "w") as fh:
-        writer = csv.DictWriter(fh, fieldnames=["slug", "name", "location", "timezone"])
-        writer.writeheader()
-        writer.writerows(utils.get_bundle_list())
-
-    # Links
-    with open(csv_dir / "site_bundle_relationships.csv", "w") as fh:
-        writer = csv.DictWriter(fh, fieldnames=["site_handle", "bundle_slug"])
-        writer.writeheader()
-        writer.writerows(site2bundle_output)
-
-    # Items
-    with open(csv_dir / "items.csv", "w") as fh:
-        writer = csv.DictWriter(fh, fieldnames=items_output[0].keys())
-        writer.writeheader()
-        writer.writerows(items_output)
-
-    # Screenshots
-    with open(csv_dir / "screenshot-files.csv", "w") as fh:
-        writer = csv.DictWriter(fh, fieldnames=screenshot_output[0].keys())
-        writer.writeheader()
-        writer.writerows(screenshot_output)
-
-    # Accessibility
-    with open(csv_dir / "accessibility-files.csv", "w") as fh:
-        writer = csv.DictWriter(fh, fieldnames=a11y_output[0].keys())
-        writer.writeheader()
-        writer.writerows(a11y_output)
-
-    # Hyperlinks
-    with open(csv_dir / "hyperlink-files.csv", "w") as fh:
-        writer = csv.DictWriter(fh, fieldnames=hyperlinks_output[0].keys())
-        writer.writeheader()
-        writer.writerows(hyperlinks_output)
-
-    # Lighthouse
-    with open(csv_dir / "lighthouse-files.csv", "w") as fh:
-        writer = csv.DictWriter(fh, fieldnames=lighthouse_output[0].keys())
-        writer.writeheader()
-        writer.writerows(lighthouse_output)
+        writer.writerows(dict_list)
 
 
 if __name__ == "__main__":

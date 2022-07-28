@@ -38,11 +38,11 @@ Field | Description
 `location` | The city where the site is based
 `timezone` | The timezone where the site is based
 
-## site_bundle_relationships.csv
+## site-bundle-relationships.csv
 
 The one-to-many relationship between sites and bundles. Used to join the `sites` and `bundles` files.
 
-URL: [raw.githubusercontent.com/palewire/news-homepages/main/extracts/csv/site_bundle_relationships.csv](https://raw.githubusercontent.com/palewire/news-homepages/main/extracts/csv/site_bundle_relationships.csv)
+URL: [raw.githubusercontent.com/palewire/news-homepages/main/extracts/csv/site-bundle-relationships.csv](https://raw.githubusercontent.com/palewire/news-homepages/main/extracts/csv/site-bundle-relationships.csv)
 
 Field | Description
 :---- | :----------
