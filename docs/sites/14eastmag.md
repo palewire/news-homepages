@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T18:00:34.000056-05:00.jpg">
   <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T18:00:34.000056-05:00.jpg"
-     alt="14 East at 2022-07-28 01:00:35-05:00 local time"
+     alt="14 East at 2022-07-27 18:00:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T18:00:34.000056-05:00.jpg">July 28 at 1:00 AM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T18:00:34.000056-05:00.jpg">July 27 at 6:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T11:10:13.956281-05:00.jpg">
   <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T11:10:13.956281-05:00.jpg"
-     alt="14 East at 2022-07-27 18:10:20-05:00 local time"
+     alt="14 East at 2022-07-27 11:10:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T11:10:13.956281-05:00.jpg">July 27 at 6:10 PM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T11:10:13.956281-05:00.jpg">July 27 at 11:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T06:00:12.337977-05:00.jpg">
   <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T06:00:12.337977-05:00.jpg"
-     alt="14 East at 2022-07-27 13:00:22-05:00 local time"
+     alt="14 East at 2022-07-27 06:00:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T06:00:12.337977-05:00.jpg">July 27 at 1:00 PM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T06:00:12.337977-05:00.jpg">July 27 at 6:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T18:01:49.932108-05:00.jpg">
   <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T18:01:49.932108-05:00.jpg"
-     alt="14 East at 2022-07-27 01:01:54-05:00 local time"
+     alt="14 East at 2022-07-26 18:01:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T18:01:49.932108-05:00.jpg">July 27 at 1:01 AM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T18:01:49.932108-05:00.jpg">July 26 at 6:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T11:00:06.644982-05:00.jpg">
   <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T11:00:06.644982-05:00.jpg"
-     alt="14 East at 2022-07-26 18:00:11-05:00 local time"
+     alt="14 East at 2022-07-26 11:00:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T11:00:06.644982-05:00.jpg">July 26 at 6:00 PM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T11:00:06.644982-05:00.jpg">July 26 at 11:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T06:09:27.896228-05:00.jpg">
   <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T06:09:27.896228-05:00.jpg"
-     alt="14 East at 2022-07-26 13:09:29-05:00 local time"
+     alt="14 East at 2022-07-26 06:09:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T06:09:27.896228-05:00.jpg">July 26 at 1:09 PM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T06:09:27.896228-05:00.jpg">July 26 at 6:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T18:04:43.407254-05:00.jpg">
   <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T18:04:43.407254-05:00.jpg"
-     alt="14 East at 2022-07-26 01:04:52-05:00 local time"
+     alt="14 East at 2022-07-25 18:04:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T18:04:43.407254-05:00.jpg">July 26 at 1:04 AM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T18:04:43.407254-05:00.jpg">July 25 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T11:35:21.834718-05:00.jpg">
   <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T11:35:21.834718-05:00.jpg"
-     alt="14 East at 2022-07-25 18:35:25-05:00 local time"
+     alt="14 East at 2022-07-25 11:35:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T11:35:21.834718-05:00.jpg">July 25 at 6:35 PM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T11:35:21.834718-05:00.jpg">July 25 at 11:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T05:56:10.701825-05:00.jpg">
   <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T05:56:10.701825-05:00.jpg"
-     alt="14 East at 2022-07-25 12:56:20-05:00 local time"
+     alt="14 East at 2022-07-25 05:56:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T05:56:10.701825-05:00.jpg">July 25 at 12:56 PM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T05:56:10.701825-05:00.jpg">July 25 at 5:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T19:44:59.768555-05:00.jpg">
   <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T19:44:59.768555-05:00.jpg"
-     alt="14 East at 2022-07-25 02:45:10-05:00 local time"
+     alt="14 East at 2022-07-24 19:45:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T19:44:59.768555-05:00.jpg">July 25 at 2:45 AM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T19:44:59.768555-05:00.jpg">July 24 at 7:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T10:45:26.623372-05:00.jpg">
   <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T10:45:26.623372-05:00.jpg"
-     alt="14 East at 2022-07-24 17:45:28-05:00 local time"
+     alt="14 East at 2022-07-24 10:45:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T10:45:26.623372-05:00.jpg">July 24 at 5:45 PM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T10:45:26.623372-05:00.jpg">July 24 at 10:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T05:54:54.300547-05:00.jpg">
   <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T05:54:54.300547-05:00.jpg"
-     alt="14 East at 2022-07-24 12:55:06-05:00 local time"
+     alt="14 East at 2022-07-24 05:55:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T05:54:54.300547-05:00.jpg">July 24 at 12:55 PM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T05:54:54.300547-05:00.jpg">July 24 at 5:55 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 1:00 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T18:00:34.000056-05:00.hyperlinks.json) |
-| [July 27 at 6:10 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T11:10:13.956281-05:00.hyperlinks.json) |
-| [July 27 at 1:00 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T06:00:12.337977-05:00.hyperlinks.json) |
-| [July 27 at 1:02 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T18:01:49.932108-05:00.hyperlinks.json) |
-| [July 26 at 6:00 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T11:00:06.644982-05:00.hyperlinks.json) |
-| [July 26 at 1:09 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T06:09:27.896228-05:00.hyperlinks.json) |
-| [July 26 at 1:04 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T18:04:43.407254-05:00.hyperlinks.json) |
-| [July 25 at 6:35 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T11:35:21.834718-05:00.hyperlinks.json) |
-| [July 25 at 12:56 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T05:56:10.701825-05:00.hyperlinks.json) |
-| [July 25 at 2:45 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T19:44:59.768555-05:00.hyperlinks.json) |
+| [July 27 at 6:00 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T18:00:34.000056-05:00.hyperlinks.json) |
+| [July 27 at 11:10 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T11:10:13.956281-05:00.hyperlinks.json) |
+| [July 27 at 6:00 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T06:00:12.337977-05:00.hyperlinks.json) |
+| [July 26 at 6:02 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T18:01:49.932108-05:00.hyperlinks.json) |
+| [July 26 at 11:00 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T11:00:06.644982-05:00.hyperlinks.json) |
+| [July 26 at 6:09 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T06:09:27.896228-05:00.hyperlinks.json) |
+| [July 25 at 6:04 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T18:04:43.407254-05:00.hyperlinks.json) |
+| [July 25 at 11:35 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T11:35:21.834718-05:00.hyperlinks.json) |
+| [July 25 at 5:56 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T05:56:10.701825-05:00.hyperlinks.json) |
+| [July 24 at 7:45 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T19:44:59.768555-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 1:00 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T18:00:34.000056-05:00.accessibility.json) |
-| [July 27 at 6:10 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T11:10:13.956281-05:00.accessibility.json) |
-| [July 27 at 1:00 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T06:00:12.337977-05:00.accessibility.json) |
-| [July 27 at 1:01 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T18:01:49.932108-05:00.accessibility.json) |
-| [July 26 at 6:00 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T11:00:06.644982-05:00.accessibility.json) |
-| [July 26 at 1:09 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T06:09:27.896228-05:00.accessibility.json) |
-| [July 26 at 1:04 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T18:04:43.407254-05:00.accessibility.json) |
-| [July 25 at 6:35 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T11:35:21.834718-05:00.accessibility.json) |
-| [July 25 at 12:56 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T05:56:10.701825-05:00.accessibility.json) |
-| [July 25 at 2:45 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T19:44:59.768555-05:00.accessibility.json) |
+| [July 27 at 6:00 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T18:00:34.000056-05:00.accessibility.json) |
+| [July 27 at 11:10 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T11:10:13.956281-05:00.accessibility.json) |
+| [July 27 at 6:00 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T06:00:12.337977-05:00.accessibility.json) |
+| [July 26 at 6:01 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T18:01:49.932108-05:00.accessibility.json) |
+| [July 26 at 11:00 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T11:00:06.644982-05:00.accessibility.json) |
+| [July 26 at 6:09 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T06:09:27.896228-05:00.accessibility.json) |
+| [July 25 at 6:04 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T18:04:43.407254-05:00.accessibility.json) |
+| [July 25 at 11:35 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T11:35:21.834718-05:00.accessibility.json) |
+| [July 25 at 5:56 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T05:56:10.701825-05:00.accessibility.json) |
+| [July 24 at 7:45 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T19:44:59.768555-05:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 1:00 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T18:00:34.000056-05:00.lighthouse.json) |
-| [July 27 at 6:10 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T11:10:13.956281-05:00.lighthouse.json) |
-| [July 27 at 1:00 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T06:00:12.337977-05:00.lighthouse.json) |
-| [July 27 at 1:02 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T18:01:49.932108-05:00.lighthouse.json) |
-| [July 26 at 6:00 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T11:00:06.644982-05:00.lighthouse.json) |
-| [July 26 at 1:09 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T06:09:27.896228-05:00.lighthouse.json) |
-| [July 26 at 1:04 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T18:04:43.407254-05:00.lighthouse.json) |
-| [July 25 at 6:35 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T11:35:21.834718-05:00.lighthouse.json) |
-| [July 25 at 12:56 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T05:56:10.701825-05:00.lighthouse.json) |
-| [July 25 at 2:45 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T19:44:59.768555-05:00.lighthouse.json) |
+| [July 27 at 6:00 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T18:00:34.000056-05:00.lighthouse.json) |
+| [July 27 at 11:10 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T11:10:13.956281-05:00.lighthouse.json) |
+| [July 27 at 6:00 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-27T06:00:12.337977-05:00.lighthouse.json) |
+| [July 26 at 6:02 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T18:01:49.932108-05:00.lighthouse.json) |
+| [July 26 at 11:00 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T11:00:06.644982-05:00.lighthouse.json) |
+| [July 26 at 6:09 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-26T06:09:27.896228-05:00.lighthouse.json) |
+| [July 25 at 6:04 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T18:04:43.407254-05:00.lighthouse.json) |
+| [July 25 at 11:35 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T11:35:21.834718-05:00.lighthouse.json) |
+| [July 25 at 5:56 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T05:56:10.701825-05:00.lighthouse.json) |
+| [July 24 at 7:45 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T19:44:59.768555-05:00.lighthouse.json) |
 
 
 

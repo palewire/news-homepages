@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-27T20:29:38.342802-05:00.jpg">
   <img src="https://archive.org/download/suntimes-2022/suntimes-2022-07-27T20:29:38.342802-05:00.jpg"
-     alt="Chicago Sun-Times at 2022-07-28 03:29:47-05:00 local time"
+     alt="Chicago Sun-Times at 2022-07-27 20:29:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-27T20:29:38.342802-05:00.jpg">July 28 at 3:29 AM</a></p>
+ <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-27T20:29:38.342802-05:00.jpg">July 27 at 8:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-27T11:10:56.875406-05:00.jpg">
   <img src="https://archive.org/download/suntimes-2022/suntimes-2022-07-27T11:10:56.875406-05:00.jpg"
-     alt="Chicago Sun-Times at 2022-07-27 18:10:58-05:00 local time"
+     alt="Chicago Sun-Times at 2022-07-27 11:10:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-27T11:10:56.875406-05:00.jpg">July 27 at 6:10 PM</a></p>
+ <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-27T11:10:56.875406-05:00.jpg">July 27 at 11:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-27T08:21:30.689392-05:00.jpg">
   <img src="https://archive.org/download/suntimes-2022/suntimes-2022-07-27T08:21:30.689392-05:00.jpg"
-     alt="Chicago Sun-Times at 2022-07-27 15:21:32-05:00 local time"
+     alt="Chicago Sun-Times at 2022-07-27 08:21:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-27T08:21:30.689392-05:00.jpg">July 27 at 3:21 PM</a></p>
+ <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-27T08:21:30.689392-05:00.jpg">July 27 at 8:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-26T20:27:18.221534-05:00.jpg">
   <img src="https://archive.org/download/suntimes-2022/suntimes-2022-07-26T20:27:18.221534-05:00.jpg"
-     alt="Chicago Sun-Times at 2022-07-27 03:27:19-05:00 local time"
+     alt="Chicago Sun-Times at 2022-07-26 20:27:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-26T20:27:18.221534-05:00.jpg">July 27 at 3:27 AM</a></p>
+ <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-26T20:27:18.221534-05:00.jpg">July 26 at 8:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-26T10:59:55.550616-05:00.jpg">
   <img src="https://archive.org/download/suntimes-2022/suntimes-2022-07-26T10:59:55.550616-05:00.jpg"
-     alt="Chicago Sun-Times at 2022-07-26 17:59:59-05:00 local time"
+     alt="Chicago Sun-Times at 2022-07-26 10:59:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-26T10:59:55.550616-05:00.jpg">July 26 at 5:59 PM</a></p>
+ <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-26T10:59:55.550616-05:00.jpg">July 26 at 10:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-26T08:29:22.676704-05:00.jpg">
   <img src="https://archive.org/download/suntimes-2022/suntimes-2022-07-26T08:29:22.676704-05:00.jpg"
-     alt="Chicago Sun-Times at 2022-07-26 15:29:24-05:00 local time"
+     alt="Chicago Sun-Times at 2022-07-26 08:29:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-26T08:29:22.676704-05:00.jpg">July 26 at 3:29 PM</a></p>
+ <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-26T08:29:22.676704-05:00.jpg">July 26 at 8:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-25T21:50:21.453406-05:00.jpg">
   <img src="https://archive.org/download/suntimes-2022/suntimes-2022-07-25T21:50:21.453406-05:00.jpg"
-     alt="Chicago Sun-Times at 2022-07-26 04:50:23-05:00 local time"
+     alt="Chicago Sun-Times at 2022-07-25 21:50:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-25T21:50:21.453406-05:00.jpg">July 26 at 4:50 AM</a></p>
+ <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-25T21:50:21.453406-05:00.jpg">July 25 at 9:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-25T20:33:55.600811-05:00.jpg">
   <img src="https://archive.org/download/suntimes-2022/suntimes-2022-07-25T20:33:55.600811-05:00.jpg"
-     alt="Chicago Sun-Times at 2022-07-26 03:33:57-05:00 local time"
+     alt="Chicago Sun-Times at 2022-07-25 20:33:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-25T20:33:55.600811-05:00.jpg">July 26 at 3:33 AM</a></p>
+ <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-25T20:33:55.600811-05:00.jpg">July 25 at 8:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-25T11:36:06.176838-05:00.jpg">
   <img src="https://archive.org/download/suntimes-2022/suntimes-2022-07-25T11:36:06.176838-05:00.jpg"
-     alt="Chicago Sun-Times at 2022-07-25 18:36:08-05:00 local time"
+     alt="Chicago Sun-Times at 2022-07-25 11:36:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-25T11:36:06.176838-05:00.jpg">July 25 at 6:36 PM</a></p>
+ <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-25T11:36:06.176838-05:00.jpg">July 25 at 11:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-25T10:43:46.257483-05:00.jpg">
   <img src="https://archive.org/download/suntimes-2022/suntimes-2022-07-25T10:43:46.257483-05:00.jpg"
-     alt="Chicago Sun-Times at 2022-07-25 17:43:47-05:00 local time"
+     alt="Chicago Sun-Times at 2022-07-25 10:43:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-25T10:43:46.257483-05:00.jpg">July 25 at 5:43 PM</a></p>
+ <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-25T10:43:46.257483-05:00.jpg">July 25 at 10:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-24T23:34:36.822211-05:00.jpg">
   <img src="https://archive.org/download/suntimes-2022/suntimes-2022-07-24T23:34:36.822211-05:00.jpg"
-     alt="Chicago Sun-Times at 2022-07-25 06:34:38-05:00 local time"
+     alt="Chicago Sun-Times at 2022-07-24 23:34:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-24T23:34:36.822211-05:00.jpg">July 25 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-24T23:34:36.822211-05:00.jpg">July 24 at 11:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-24T10:46:22.503377-05:00.jpg">
   <img src="https://archive.org/download/suntimes-2022/suntimes-2022-07-24T10:46:22.503377-05:00.jpg"
-     alt="Chicago Sun-Times at 2022-07-24 17:46:24-05:00 local time"
+     alt="Chicago Sun-Times at 2022-07-24 10:46:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-24T10:46:22.503377-05:00.jpg">July 24 at 5:46 PM</a></p>
+ <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-07-24T10:46:22.503377-05:00.jpg">July 24 at 10:46 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 3:29 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-27T20:29:38.342802-05:00.hyperlinks.json) |
-| [July 27 at 6:11 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-27T11:10:56.875406-05:00.hyperlinks.json) |
-| [July 27 at 3:21 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-27T08:21:30.689392-05:00.hyperlinks.json) |
-| [July 27 at 3:27 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-26T20:27:18.221534-05:00.hyperlinks.json) |
-| [July 26 at 6:00 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-26T10:59:55.550616-05:00.hyperlinks.json) |
-| [July 26 at 3:29 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-26T08:29:22.676704-05:00.hyperlinks.json) |
-| [July 26 at 4:50 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T21:50:21.453406-05:00.hyperlinks.json) |
-| [July 26 at 3:34 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T20:33:55.600811-05:00.hyperlinks.json) |
-| [July 25 at 6:36 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T11:36:06.176838-05:00.hyperlinks.json) |
-| [July 25 at 5:43 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T10:43:46.257483-05:00.hyperlinks.json) |
+| [July 27 at 8:29 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-27T20:29:38.342802-05:00.hyperlinks.json) |
+| [July 27 at 11:11 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-27T11:10:56.875406-05:00.hyperlinks.json) |
+| [July 27 at 8:21 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-27T08:21:30.689392-05:00.hyperlinks.json) |
+| [July 26 at 8:27 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-26T20:27:18.221534-05:00.hyperlinks.json) |
+| [July 26 at 11:00 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-26T10:59:55.550616-05:00.hyperlinks.json) |
+| [July 26 at 8:29 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-26T08:29:22.676704-05:00.hyperlinks.json) |
+| [July 25 at 9:50 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T21:50:21.453406-05:00.hyperlinks.json) |
+| [July 25 at 8:34 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T20:33:55.600811-05:00.hyperlinks.json) |
+| [July 25 at 11:36 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T11:36:06.176838-05:00.hyperlinks.json) |
+| [July 25 at 10:43 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T10:43:46.257483-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 3:29 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-27T20:29:38.342802-05:00.accessibility.json) |
-| [July 27 at 6:11 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-27T11:10:56.875406-05:00.accessibility.json) |
-| [July 27 at 3:21 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-27T08:21:30.689392-05:00.accessibility.json) |
-| [July 27 at 3:27 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-26T20:27:18.221534-05:00.accessibility.json) |
-| [July 26 at 6:00 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-26T10:59:55.550616-05:00.accessibility.json) |
-| [July 26 at 3:29 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-26T08:29:22.676704-05:00.accessibility.json) |
-| [July 26 at 4:50 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T21:50:21.453406-05:00.accessibility.json) |
-| [July 26 at 3:33 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T20:33:55.600811-05:00.accessibility.json) |
-| [July 25 at 6:36 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T11:36:06.176838-05:00.accessibility.json) |
-| [July 25 at 5:43 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T10:43:46.257483-05:00.accessibility.json) |
+| [July 27 at 8:29 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-27T20:29:38.342802-05:00.accessibility.json) |
+| [July 27 at 11:11 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-27T11:10:56.875406-05:00.accessibility.json) |
+| [July 27 at 8:21 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-27T08:21:30.689392-05:00.accessibility.json) |
+| [July 26 at 8:27 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-26T20:27:18.221534-05:00.accessibility.json) |
+| [July 26 at 11:00 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-26T10:59:55.550616-05:00.accessibility.json) |
+| [July 26 at 8:29 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-26T08:29:22.676704-05:00.accessibility.json) |
+| [July 25 at 9:50 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T21:50:21.453406-05:00.accessibility.json) |
+| [July 25 at 8:33 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T20:33:55.600811-05:00.accessibility.json) |
+| [July 25 at 11:36 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T11:36:06.176838-05:00.accessibility.json) |
+| [July 25 at 10:43 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T10:43:46.257483-05:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 3:29 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-27T20:29:38.342802-05:00.lighthouse.json) |
-| [July 27 at 6:11 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-27T11:10:56.875406-05:00.lighthouse.json) |
-| [July 27 at 3:21 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-27T08:21:30.689392-05:00.lighthouse.json) |
-| [July 27 at 3:27 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-26T20:27:18.221534-05:00.lighthouse.json) |
-| [July 26 at 6:00 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-26T10:59:55.550616-05:00.lighthouse.json) |
-| [July 26 at 3:29 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-26T08:29:22.676704-05:00.lighthouse.json) |
-| [July 26 at 4:50 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T21:50:21.453406-05:00.lighthouse.json) |
-| [July 26 at 3:34 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T20:33:55.600811-05:00.lighthouse.json) |
-| [July 25 at 6:36 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T11:36:06.176838-05:00.lighthouse.json) |
-| [July 25 at 5:43 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T10:43:46.257483-05:00.lighthouse.json) |
+| [July 27 at 8:29 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-27T20:29:38.342802-05:00.lighthouse.json) |
+| [July 27 at 11:11 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-27T11:10:56.875406-05:00.lighthouse.json) |
+| [July 27 at 8:21 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-27T08:21:30.689392-05:00.lighthouse.json) |
+| [July 26 at 8:27 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-26T20:27:18.221534-05:00.lighthouse.json) |
+| [July 26 at 11:00 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-26T10:59:55.550616-05:00.lighthouse.json) |
+| [July 26 at 8:29 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-26T08:29:22.676704-05:00.lighthouse.json) |
+| [July 25 at 9:50 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T21:50:21.453406-05:00.lighthouse.json) |
+| [July 25 at 8:34 PM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T20:33:55.600811-05:00.lighthouse.json) |
+| [July 25 at 11:36 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T11:36:06.176838-05:00.lighthouse.json) |
+| [July 25 at 10:43 AM](https://archive.org/download/suntimes-2022/suntimes-2022-07-25T10:43:46.257483-05:00.lighthouse.json) |
 
 
 

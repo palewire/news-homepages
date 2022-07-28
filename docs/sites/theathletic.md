@@ -31,109 +31,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-27T21:30:35.109826-04:00.jpg">
   <img src="https://archive.org/download/theathletic-2022/theathletic-2022-07-27T21:30:35.109826-04:00.jpg"
-     alt="Athletic at 2022-07-28 04:30:36-04:00 local time"
+     alt="Athletic at 2022-07-27 21:30:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-27T21:30:35.109826-04:00.jpg">July 28 at 4:30 AM</a></p>
+ <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-27T21:30:35.109826-04:00.jpg">July 27 at 9:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-27T09:22:08.876550-04:00.jpg">
   <img src="https://archive.org/download/theathletic-2022/theathletic-2022-07-27T09:22:08.876550-04:00.jpg"
-     alt="Athletic at 2022-07-27 16:22:10-04:00 local time"
+     alt="Athletic at 2022-07-27 09:22:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-27T09:22:08.876550-04:00.jpg">July 27 at 4:22 PM</a></p>
+ <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-27T09:22:08.876550-04:00.jpg">July 27 at 9:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-26T21:27:56.306894-04:00.jpg">
   <img src="https://archive.org/download/theathletic-2022/theathletic-2022-07-26T21:27:56.306894-04:00.jpg"
-     alt="Athletic at 2022-07-27 04:27:58-04:00 local time"
+     alt="Athletic at 2022-07-26 21:27:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-26T21:27:56.306894-04:00.jpg">July 27 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-26T21:27:56.306894-04:00.jpg">July 26 at 9:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-26T09:29:50.224471-04:00.jpg">
   <img src="https://archive.org/download/theathletic-2022/theathletic-2022-07-26T09:29:50.224471-04:00.jpg"
-     alt="Athletic at 2022-07-26 16:29:51-04:00 local time"
+     alt="Athletic at 2022-07-26 09:29:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-26T09:29:50.224471-04:00.jpg">July 26 at 4:29 PM</a></p>
+ <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-26T09:29:50.224471-04:00.jpg">July 26 at 9:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-25T22:52:36.937642-04:00.jpg">
   <img src="https://archive.org/download/theathletic-2022/theathletic-2022-07-25T22:52:36.937642-04:00.jpg"
-     alt="Athletic at 2022-07-26 05:52:37-04:00 local time"
+     alt="Athletic at 2022-07-25 22:52:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-25T22:52:36.937642-04:00.jpg">July 26 at 5:52 AM</a></p>
+ <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-25T22:52:36.937642-04:00.jpg">July 25 at 10:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-25T21:35:05.909765-04:00.jpg">
   <img src="https://archive.org/download/theathletic-2022/theathletic-2022-07-25T21:35:05.909765-04:00.jpg"
-     alt="Athletic at 2022-07-26 04:35:07-04:00 local time"
+     alt="Athletic at 2022-07-25 21:35:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-25T21:35:05.909765-04:00.jpg">July 26 at 4:35 AM</a></p>
+ <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-25T21:35:05.909765-04:00.jpg">July 25 at 9:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-25T11:46:12.569597-04:00.jpg">
   <img src="https://archive.org/download/theathletic-2022/theathletic-2022-07-25T11:46:12.569597-04:00.jpg"
-     alt="Athletic at 2022-07-25 18:46:15-04:00 local time"
+     alt="Athletic at 2022-07-25 11:46:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-25T11:46:12.569597-04:00.jpg">July 25 at 6:46 PM</a></p>
+ <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-25T11:46:12.569597-04:00.jpg">July 25 at 11:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-25T00:35:00.611611-04:00.jpg">
   <img src="https://archive.org/download/theathletic-2022/theathletic-2022-07-25T00:35:00.611611-04:00.jpg"
-     alt="Athletic at 2022-07-25 07:35:02-04:00 local time"
+     alt="Athletic at 2022-07-25 00:35:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-25T00:35:00.611611-04:00.jpg">July 25 at 7:35 AM</a></p>
+ <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-25T00:35:00.611611-04:00.jpg">July 25 at 12:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-24T11:05:12.327353-04:00.jpg">
   <img src="https://archive.org/download/theathletic-2022/theathletic-2022-07-24T11:05:12.327353-04:00.jpg"
-     alt="Athletic at 2022-07-24 18:05:14-04:00 local time"
+     alt="Athletic at 2022-07-24 11:05:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-24T11:05:12.327353-04:00.jpg">July 24 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-24T11:05:12.327353-04:00.jpg">July 24 at 11:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-23T23:40:03.299459-04:00.jpg">
   <img src="https://archive.org/download/theathletic-2022/theathletic-2022-07-23T23:40:03.299459-04:00.jpg"
-     alt="Athletic at 2022-07-24 06:40:05-04:00 local time"
+     alt="Athletic at 2022-07-23 23:40:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-23T23:40:03.299459-04:00.jpg">July 24 at 6:40 AM</a></p>
+ <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-23T23:40:03.299459-04:00.jpg">July 23 at 11:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-23T12:04:22.072567-04:00.jpg">
   <img src="https://archive.org/download/theathletic-2022/theathletic-2022-07-23T12:04:22.072567-04:00.jpg"
-     alt="Athletic at 2022-07-23 19:04:23-04:00 local time"
+     alt="Athletic at 2022-07-23 12:04:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-23T12:04:22.072567-04:00.jpg">July 23 at 7:04 PM</a></p>
+ <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-23T12:04:22.072567-04:00.jpg">July 23 at 12:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-23T00:24:32.712675-04:00.jpg">
   <img src="https://archive.org/download/theathletic-2022/theathletic-2022-07-23T00:24:32.712675-04:00.jpg"
-     alt="Athletic at 2022-07-23 07:24:34-04:00 local time"
+     alt="Athletic at 2022-07-23 00:24:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-23T00:24:32.712675-04:00.jpg">July 23 at 7:24 AM</a></p>
+ <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-07-23T00:24:32.712675-04:00.jpg">July 23 at 12:24 AM</a></p>
 </div>
 
 </div>
@@ -148,16 +148,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 4:30 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-27T21:30:35.109826-04:00.hyperlinks.json) |
-| [July 27 at 4:22 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-27T09:22:08.876550-04:00.hyperlinks.json) |
-| [July 27 at 4:28 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-26T21:27:56.306894-04:00.hyperlinks.json) |
-| [July 26 at 4:29 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-26T09:29:50.224471-04:00.hyperlinks.json) |
-| [July 26 at 5:52 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T22:52:36.937642-04:00.hyperlinks.json) |
-| [July 26 at 4:35 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T21:35:05.909765-04:00.hyperlinks.json) |
-| [July 25 at 6:46 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T11:46:12.569597-04:00.hyperlinks.json) |
-| [July 25 at 7:35 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T00:35:00.611611-04:00.hyperlinks.json) |
-| [July 24 at 6:05 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-24T11:05:12.327353-04:00.hyperlinks.json) |
-| [July 24 at 6:40 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-23T23:40:03.299459-04:00.hyperlinks.json) |
+| [July 27 at 9:30 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-27T21:30:35.109826-04:00.hyperlinks.json) |
+| [July 27 at 9:22 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-27T09:22:08.876550-04:00.hyperlinks.json) |
+| [July 26 at 9:28 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-26T21:27:56.306894-04:00.hyperlinks.json) |
+| [July 26 at 9:29 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-26T09:29:50.224471-04:00.hyperlinks.json) |
+| [July 25 at 10:52 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T22:52:36.937642-04:00.hyperlinks.json) |
+| [July 25 at 9:35 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T21:35:05.909765-04:00.hyperlinks.json) |
+| [July 25 at 11:46 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T11:46:12.569597-04:00.hyperlinks.json) |
+| [July 25 at 12:35 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T00:35:00.611611-04:00.hyperlinks.json) |
+| [July 24 at 11:05 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-24T11:05:12.327353-04:00.hyperlinks.json) |
+| [July 23 at 11:40 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-23T23:40:03.299459-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -170,16 +170,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 4:30 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-27T21:30:35.109826-04:00.accessibility.json) |
-| [July 27 at 4:22 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-27T09:22:08.876550-04:00.accessibility.json) |
-| [July 27 at 4:28 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-26T21:27:56.306894-04:00.accessibility.json) |
-| [July 26 at 4:29 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-26T09:29:50.224471-04:00.accessibility.json) |
-| [July 26 at 5:52 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T22:52:36.937642-04:00.accessibility.json) |
-| [July 26 at 4:35 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T21:35:05.909765-04:00.accessibility.json) |
-| [July 25 at 6:46 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T11:46:12.569597-04:00.accessibility.json) |
-| [July 25 at 7:35 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T00:35:00.611611-04:00.accessibility.json) |
-| [July 24 at 6:05 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-24T11:05:12.327353-04:00.accessibility.json) |
-| [July 24 at 6:40 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-23T23:40:03.299459-04:00.accessibility.json) |
+| [July 27 at 9:30 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-27T21:30:35.109826-04:00.accessibility.json) |
+| [July 27 at 9:22 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-27T09:22:08.876550-04:00.accessibility.json) |
+| [July 26 at 9:28 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-26T21:27:56.306894-04:00.accessibility.json) |
+| [July 26 at 9:29 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-26T09:29:50.224471-04:00.accessibility.json) |
+| [July 25 at 10:52 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T22:52:36.937642-04:00.accessibility.json) |
+| [July 25 at 9:35 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T21:35:05.909765-04:00.accessibility.json) |
+| [July 25 at 11:46 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T11:46:12.569597-04:00.accessibility.json) |
+| [July 25 at 12:35 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T00:35:00.611611-04:00.accessibility.json) |
+| [July 24 at 11:05 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-24T11:05:12.327353-04:00.accessibility.json) |
+| [July 23 at 11:40 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-23T23:40:03.299459-04:00.accessibility.json) |
 
 
 
@@ -193,16 +193,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 4:30 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-27T21:30:35.109826-04:00.lighthouse.json) |
-| [July 27 at 4:22 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-27T09:22:08.876550-04:00.lighthouse.json) |
-| [July 27 at 4:28 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-26T21:27:56.306894-04:00.lighthouse.json) |
-| [July 26 at 4:29 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-26T09:29:50.224471-04:00.lighthouse.json) |
-| [July 26 at 5:52 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T22:52:36.937642-04:00.lighthouse.json) |
-| [July 26 at 4:35 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T21:35:05.909765-04:00.lighthouse.json) |
-| [July 25 at 6:46 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T11:46:12.569597-04:00.lighthouse.json) |
-| [July 25 at 7:35 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T00:35:00.611611-04:00.lighthouse.json) |
-| [July 24 at 6:05 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-24T11:05:12.327353-04:00.lighthouse.json) |
-| [July 24 at 6:40 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-23T23:40:03.299459-04:00.lighthouse.json) |
+| [July 27 at 9:30 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-27T21:30:35.109826-04:00.lighthouse.json) |
+| [July 27 at 9:22 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-27T09:22:08.876550-04:00.lighthouse.json) |
+| [July 26 at 9:28 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-26T21:27:56.306894-04:00.lighthouse.json) |
+| [July 26 at 9:29 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-26T09:29:50.224471-04:00.lighthouse.json) |
+| [July 25 at 10:52 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T22:52:36.937642-04:00.lighthouse.json) |
+| [July 25 at 9:35 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T21:35:05.909765-04:00.lighthouse.json) |
+| [July 25 at 11:46 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T11:46:12.569597-04:00.lighthouse.json) |
+| [July 25 at 12:35 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-25T00:35:00.611611-04:00.lighthouse.json) |
+| [July 24 at 11:05 AM](https://archive.org/download/theathletic-2022/theathletic-2022-07-24T11:05:12.327353-04:00.lighthouse.json) |
+| [July 23 at 11:40 PM](https://archive.org/download/theathletic-2022/theathletic-2022-07-23T23:40:03.299459-04:00.lighthouse.json) |
 
 
 

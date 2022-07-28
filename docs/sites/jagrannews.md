@@ -31,19 +31,19 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-07-28T05:33:20.137466+05:30.jpg">
   <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-07-28T05:33:20.137466+05:30.jpg"
-     alt="Dainik Jagram at 2022-07-28 12:33:22+05:30 local time"
+     alt="Dainik Jagram at 2022-07-28 05:33:22+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-07-28T05:33:20.137466+05:30.jpg">July 28 at 12:33 PM</a></p>
+ <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-07-28T05:33:20.137466+05:30.jpg">July 28 at 5:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-07-27T22:48:20.155709+05:30.jpg">
   <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-07-27T22:48:20.155709+05:30.jpg"
-     alt="Dainik Jagram at 2022-07-28 05:48:25+05:30 local time"
+     alt="Dainik Jagram at 2022-07-27 22:48:25+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-07-27T22:48:20.155709+05:30.jpg">July 28 at 5:48 AM</a></p>
+ <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-07-27T22:48:20.155709+05:30.jpg">July 27 at 10:48 PM</a></p>
 </div>
 
 </div>
@@ -58,8 +58,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 12:33 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-28T05:33:20.137466+05:30.hyperlinks.json) |
-| [July 28 at 5:48 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-27T22:48:20.155709+05:30.hyperlinks.json) |
+| [July 28 at 5:33 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-28T05:33:20.137466+05:30.hyperlinks.json) |
+| [July 27 at 10:48 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-27T22:48:20.155709+05:30.hyperlinks.json) |
 
 
 ## Accessibility
@@ -72,8 +72,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 12:33 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-28T05:33:20.137466+05:30.accessibility.json) |
-| [July 28 at 5:48 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-27T22:48:20.155709+05:30.accessibility.json) |
+| [July 28 at 5:33 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-28T05:33:20.137466+05:30.accessibility.json) |
+| [July 27 at 10:48 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-27T22:48:20.155709+05:30.accessibility.json) |
 
 
 
@@ -87,8 +87,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 12:33 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-28T05:33:20.137466+05:30.lighthouse.json) |
-| [July 28 at 5:48 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-27T22:48:20.155709+05:30.lighthouse.json) |
+| [July 28 at 5:33 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-28T05:33:20.137466+05:30.lighthouse.json) |
+| [July 27 at 10:48 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-27T22:48:20.155709+05:30.lighthouse.json) |
 
 
 

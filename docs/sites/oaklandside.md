@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T17:08:59.515785-07:00.jpg">
   <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T17:08:59.515785-07:00.jpg"
-     alt="The Oaklandside at 2022-07-28 00:09:01-07:00 local time"
+     alt="The Oaklandside at 2022-07-27 17:09:01-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T17:08:59.515785-07:00.jpg">July 28 at 12:09 AM</a></p>
+ <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T17:08:59.515785-07:00.jpg">July 27 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T06:12:52.100353-07:00.jpg">
   <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T06:12:52.100353-07:00.jpg"
-     alt="The Oaklandside at 2022-07-27 13:12:53-07:00 local time"
+     alt="The Oaklandside at 2022-07-27 06:12:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T06:12:52.100353-07:00.jpg">July 27 at 1:12 PM</a></p>
+ <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T06:12:52.100353-07:00.jpg">July 27 at 6:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T17:17:27.326098-07:00.jpg">
   <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T17:17:27.326098-07:00.jpg"
-     alt="The Oaklandside at 2022-07-27 00:17:32-07:00 local time"
+     alt="The Oaklandside at 2022-07-26 17:17:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T17:17:27.326098-07:00.jpg">July 27 at 12:17 AM</a></p>
+ <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T17:17:27.326098-07:00.jpg">July 26 at 5:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T05:26:59.139242-07:00.jpg">
   <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T05:26:59.139242-07:00.jpg"
-     alt="The Oaklandside at 2022-07-26 12:27:03-07:00 local time"
+     alt="The Oaklandside at 2022-07-26 05:27:03-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T05:26:59.139242-07:00.jpg">July 26 at 12:27 PM</a></p>
+ <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T05:26:59.139242-07:00.jpg">July 26 at 5:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T17:21:57.645667-07:00.jpg">
   <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T17:21:57.645667-07:00.jpg"
-     alt="The Oaklandside at 2022-07-26 00:22:01-07:00 local time"
+     alt="The Oaklandside at 2022-07-25 17:22:01-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T17:21:57.645667-07:00.jpg">July 26 at 12:22 AM</a></p>
+ <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T17:21:57.645667-07:00.jpg">July 25 at 5:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T08:35:17.151242-07:00.jpg">
   <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T08:35:17.151242-07:00.jpg"
-     alt="The Oaklandside at 2022-07-25 15:35:18-07:00 local time"
+     alt="The Oaklandside at 2022-07-25 08:35:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T08:35:17.151242-07:00.jpg">July 25 at 3:35 PM</a></p>
+ <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T08:35:17.151242-07:00.jpg">July 25 at 8:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T20:37:56.970910-07:00.jpg">
   <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T20:37:56.970910-07:00.jpg"
-     alt="The Oaklandside at 2022-07-25 03:37:58-07:00 local time"
+     alt="The Oaklandside at 2022-07-24 20:37:58-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T20:37:56.970910-07:00.jpg">July 25 at 3:37 AM</a></p>
+ <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T20:37:56.970910-07:00.jpg">July 24 at 8:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T06:59:08.995850-07:00.jpg">
   <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T06:59:08.995850-07:00.jpg"
-     alt="The Oaklandside at 2022-07-24 13:59:17-07:00 local time"
+     alt="The Oaklandside at 2022-07-24 06:59:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T06:59:08.995850-07:00.jpg">July 24 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T06:59:08.995850-07:00.jpg">July 24 at 6:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-23T23:17:48.741075-07:00.jpg">
   <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-23T23:17:48.741075-07:00.jpg"
-     alt="The Oaklandside at 2022-07-24 06:17:54-07:00 local time"
+     alt="The Oaklandside at 2022-07-23 23:17:54-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-23T23:17:48.741075-07:00.jpg">July 24 at 6:17 AM</a></p>
+ <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-23T23:17:48.741075-07:00.jpg">July 23 at 11:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-23T08:05:15.512385-07:00.jpg">
   <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-23T08:05:15.512385-07:00.jpg"
-     alt="The Oaklandside at 2022-07-23 15:05:16-07:00 local time"
+     alt="The Oaklandside at 2022-07-23 08:05:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-23T08:05:15.512385-07:00.jpg">July 23 at 3:05 PM</a></p>
+ <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-23T08:05:15.512385-07:00.jpg">July 23 at 8:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-22T20:35:03.722079-07:00.jpg">
   <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-22T20:35:03.722079-07:00.jpg"
-     alt="The Oaklandside at 2022-07-23 03:35:05-07:00 local time"
+     alt="The Oaklandside at 2022-07-22 20:35:05-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-22T20:35:03.722079-07:00.jpg">July 23 at 3:35 AM</a></p>
+ <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-22T20:35:03.722079-07:00.jpg">July 22 at 8:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-22T08:00:18.718955-07:00.jpg">
   <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-22T08:00:18.718955-07:00.jpg"
-     alt="The Oaklandside at 2022-07-22 15:00:22-07:00 local time"
+     alt="The Oaklandside at 2022-07-22 08:00:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-22T08:00:18.718955-07:00.jpg">July 22 at 3:00 PM</a></p>
+ <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-07-22T08:00:18.718955-07:00.jpg">July 22 at 8:00 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 12:09 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T17:08:59.515785-07:00.hyperlinks.json) |
-| [July 27 at 1:12 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T06:12:52.100353-07:00.hyperlinks.json) |
-| [July 27 at 12:17 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T17:17:27.326098-07:00.hyperlinks.json) |
-| [July 26 at 12:27 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T05:26:59.139242-07:00.hyperlinks.json) |
-| [July 26 at 12:22 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T17:21:57.645667-07:00.hyperlinks.json) |
-| [July 25 at 3:35 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T08:35:17.151242-07:00.hyperlinks.json) |
-| [July 25 at 3:38 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T20:37:56.970910-07:00.hyperlinks.json) |
-| [July 24 at 1:59 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T06:59:08.995850-07:00.hyperlinks.json) |
-| [July 24 at 6:18 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-23T23:17:48.741075-07:00.hyperlinks.json) |
-| [July 23 at 3:05 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-23T08:05:15.512385-07:00.hyperlinks.json) |
+| [July 27 at 5:09 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T17:08:59.515785-07:00.hyperlinks.json) |
+| [July 27 at 6:12 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T06:12:52.100353-07:00.hyperlinks.json) |
+| [July 26 at 5:17 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T17:17:27.326098-07:00.hyperlinks.json) |
+| [July 26 at 5:27 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T05:26:59.139242-07:00.hyperlinks.json) |
+| [July 25 at 5:22 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T17:21:57.645667-07:00.hyperlinks.json) |
+| [July 25 at 8:35 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T08:35:17.151242-07:00.hyperlinks.json) |
+| [July 24 at 8:38 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T20:37:56.970910-07:00.hyperlinks.json) |
+| [July 24 at 6:59 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T06:59:08.995850-07:00.hyperlinks.json) |
+| [July 23 at 11:18 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-23T23:17:48.741075-07:00.hyperlinks.json) |
+| [July 23 at 8:05 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-23T08:05:15.512385-07:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 12:09 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T17:08:59.515785-07:00.accessibility.json) |
-| [July 27 at 1:12 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T06:12:52.100353-07:00.accessibility.json) |
-| [July 27 at 12:17 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T17:17:27.326098-07:00.accessibility.json) |
-| [July 26 at 12:27 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T05:26:59.139242-07:00.accessibility.json) |
-| [July 26 at 12:22 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T17:21:57.645667-07:00.accessibility.json) |
-| [July 25 at 3:35 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T08:35:17.151242-07:00.accessibility.json) |
-| [July 25 at 3:37 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T20:37:56.970910-07:00.accessibility.json) |
-| [July 24 at 1:59 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T06:59:08.995850-07:00.accessibility.json) |
-| [July 24 at 6:17 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-23T23:17:48.741075-07:00.accessibility.json) |
-| [July 23 at 3:05 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-23T08:05:15.512385-07:00.accessibility.json) |
+| [July 27 at 5:09 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T17:08:59.515785-07:00.accessibility.json) |
+| [July 27 at 6:12 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T06:12:52.100353-07:00.accessibility.json) |
+| [July 26 at 5:17 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T17:17:27.326098-07:00.accessibility.json) |
+| [July 26 at 5:27 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T05:26:59.139242-07:00.accessibility.json) |
+| [July 25 at 5:22 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T17:21:57.645667-07:00.accessibility.json) |
+| [July 25 at 8:35 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T08:35:17.151242-07:00.accessibility.json) |
+| [July 24 at 8:37 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T20:37:56.970910-07:00.accessibility.json) |
+| [July 24 at 6:59 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T06:59:08.995850-07:00.accessibility.json) |
+| [July 23 at 11:17 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-23T23:17:48.741075-07:00.accessibility.json) |
+| [July 23 at 8:05 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-23T08:05:15.512385-07:00.accessibility.json) |
 
 
 
@@ -442,15 +442,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 12:09 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T17:08:59.515785-07:00.lighthouse.json) |
-| [July 27 at 1:13 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T06:12:52.100353-07:00.lighthouse.json) |
-| [July 27 at 12:17 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T17:17:27.326098-07:00.lighthouse.json) |
-| [July 26 at 12:27 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T05:26:59.139242-07:00.lighthouse.json) |
-| [July 26 at 12:22 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T17:21:57.645667-07:00.lighthouse.json) |
-| [July 25 at 3:35 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T08:35:17.151242-07:00.lighthouse.json) |
-| [July 25 at 3:38 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T20:37:56.970910-07:00.lighthouse.json) |
-| [July 24 at 1:59 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T06:59:08.995850-07:00.lighthouse.json) |
-| [July 24 at 6:18 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-23T23:17:48.741075-07:00.lighthouse.json) |
+| [July 27 at 5:09 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T17:08:59.515785-07:00.lighthouse.json) |
+| [July 27 at 6:13 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-27T06:12:52.100353-07:00.lighthouse.json) |
+| [July 26 at 5:17 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T17:17:27.326098-07:00.lighthouse.json) |
+| [July 26 at 5:27 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-26T05:26:59.139242-07:00.lighthouse.json) |
+| [July 25 at 5:22 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T17:21:57.645667-07:00.lighthouse.json) |
+| [July 25 at 8:35 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-25T08:35:17.151242-07:00.lighthouse.json) |
+| [July 24 at 8:38 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T20:37:56.970910-07:00.lighthouse.json) |
+| [July 24 at 6:59 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-24T06:59:08.995850-07:00.lighthouse.json) |
+| [July 23 at 11:18 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-07-23T23:17:48.741075-07:00.lighthouse.json) |
 
 
 

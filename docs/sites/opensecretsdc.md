@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T20:09:46.715641-04:00.jpg">
   <img src="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T20:09:46.715641-04:00.jpg"
-     alt="OpenSecrets at 2022-07-28 03:09:49-04:00 local time"
+     alt="OpenSecrets at 2022-07-27 20:09:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T20:09:46.715641-04:00.jpg">July 28 at 3:09 AM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T20:09:46.715641-04:00.jpg">July 27 at 8:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T09:13:24.451306-04:00.jpg">
   <img src="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T09:13:24.451306-04:00.jpg"
-     alt="OpenSecrets at 2022-07-27 16:13:26-04:00 local time"
+     alt="OpenSecrets at 2022-07-27 09:13:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T09:13:24.451306-04:00.jpg">July 27 at 4:13 PM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T09:13:24.451306-04:00.jpg">July 27 at 9:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T20:17:48.287342-04:00.jpg">
   <img src="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T20:17:48.287342-04:00.jpg"
-     alt="OpenSecrets at 2022-07-27 03:17:50-04:00 local time"
+     alt="OpenSecrets at 2022-07-26 20:17:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T20:17:48.287342-04:00.jpg">July 27 at 3:17 AM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T20:17:48.287342-04:00.jpg">July 26 at 8:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T08:27:01.524127-04:00.jpg">
   <img src="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T08:27:01.524127-04:00.jpg"
-     alt="OpenSecrets at 2022-07-26 15:27:04-04:00 local time"
+     alt="OpenSecrets at 2022-07-26 08:27:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T08:27:01.524127-04:00.jpg">July 26 at 3:27 PM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T08:27:01.524127-04:00.jpg">July 26 at 8:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T20:22:22.638200-04:00.jpg">
   <img src="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T20:22:22.638200-04:00.jpg"
-     alt="OpenSecrets at 2022-07-26 03:22:25-04:00 local time"
+     alt="OpenSecrets at 2022-07-25 20:22:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T20:22:22.638200-04:00.jpg">July 26 at 3:22 AM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T20:22:22.638200-04:00.jpg">July 25 at 8:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T11:35:24.362638-04:00.jpg">
   <img src="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T11:35:24.362638-04:00.jpg"
-     alt="OpenSecrets at 2022-07-25 18:35:25-04:00 local time"
+     alt="OpenSecrets at 2022-07-25 11:35:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T11:35:24.362638-04:00.jpg">July 25 at 6:35 PM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T11:35:24.362638-04:00.jpg">July 25 at 11:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T23:38:47.284605-04:00.jpg">
   <img src="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T23:38:47.284605-04:00.jpg"
-     alt="OpenSecrets at 2022-07-25 06:38:50-04:00 local time"
+     alt="OpenSecrets at 2022-07-24 23:38:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T23:38:47.284605-04:00.jpg">July 25 at 6:38 AM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T23:38:47.284605-04:00.jpg">July 24 at 11:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T09:59:31.715069-04:00.jpg">
   <img src="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T09:59:31.715069-04:00.jpg"
-     alt="OpenSecrets at 2022-07-24 16:59:33-04:00 local time"
+     alt="OpenSecrets at 2022-07-24 09:59:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T09:59:31.715069-04:00.jpg">July 24 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T09:59:31.715069-04:00.jpg">July 24 at 9:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T02:17:53.046037-04:00.jpg">
   <img src="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T02:17:53.046037-04:00.jpg"
-     alt="OpenSecrets at 2022-07-24 09:17:55-04:00 local time"
+     alt="OpenSecrets at 2022-07-24 02:17:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T02:17:53.046037-04:00.jpg">July 24 at 9:17 AM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T02:17:53.046037-04:00.jpg">July 24 at 2:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-23T11:05:25.395423-04:00.jpg">
   <img src="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-23T11:05:25.395423-04:00.jpg"
-     alt="OpenSecrets at 2022-07-23 18:05:27-04:00 local time"
+     alt="OpenSecrets at 2022-07-23 11:05:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-23T11:05:25.395423-04:00.jpg">July 23 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-23T11:05:25.395423-04:00.jpg">July 23 at 11:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-22T23:35:22.412873-04:00.jpg">
   <img src="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-22T23:35:22.412873-04:00.jpg"
-     alt="OpenSecrets at 2022-07-23 06:35:24-04:00 local time"
+     alt="OpenSecrets at 2022-07-22 23:35:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-22T23:35:22.412873-04:00.jpg">July 23 at 6:35 AM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-22T23:35:22.412873-04:00.jpg">July 22 at 11:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-22T11:01:12.090888-04:00.jpg">
   <img src="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-22T11:01:12.090888-04:00.jpg"
-     alt="OpenSecrets at 2022-07-22 18:01:14-04:00 local time"
+     alt="OpenSecrets at 2022-07-22 11:01:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-22T11:01:12.090888-04:00.jpg">July 22 at 6:01 PM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-22T11:01:12.090888-04:00.jpg">July 22 at 11:01 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 3:09 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T20:09:46.715641-04:00.hyperlinks.json) |
-| [July 27 at 4:13 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T09:13:24.451306-04:00.hyperlinks.json) |
-| [July 27 at 3:17 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T20:17:48.287342-04:00.hyperlinks.json) |
-| [July 26 at 3:27 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T08:27:01.524127-04:00.hyperlinks.json) |
-| [July 26 at 3:22 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T20:22:22.638200-04:00.hyperlinks.json) |
-| [July 25 at 6:35 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T11:35:24.362638-04:00.hyperlinks.json) |
-| [July 25 at 6:38 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T23:38:47.284605-04:00.hyperlinks.json) |
-| [July 24 at 4:59 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T09:59:31.715069-04:00.hyperlinks.json) |
-| [July 24 at 9:17 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T02:17:53.046037-04:00.hyperlinks.json) |
-| [July 23 at 6:05 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-23T11:05:25.395423-04:00.hyperlinks.json) |
+| [July 27 at 8:09 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T20:09:46.715641-04:00.hyperlinks.json) |
+| [July 27 at 9:13 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T09:13:24.451306-04:00.hyperlinks.json) |
+| [July 26 at 8:17 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T20:17:48.287342-04:00.hyperlinks.json) |
+| [July 26 at 8:27 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T08:27:01.524127-04:00.hyperlinks.json) |
+| [July 25 at 8:22 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T20:22:22.638200-04:00.hyperlinks.json) |
+| [July 25 at 11:35 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T11:35:24.362638-04:00.hyperlinks.json) |
+| [July 24 at 11:38 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T23:38:47.284605-04:00.hyperlinks.json) |
+| [July 24 at 9:59 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T09:59:31.715069-04:00.hyperlinks.json) |
+| [July 24 at 2:17 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T02:17:53.046037-04:00.hyperlinks.json) |
+| [July 23 at 11:05 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-23T11:05:25.395423-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 3:09 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T20:09:46.715641-04:00.accessibility.json) |
-| [July 27 at 4:13 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T09:13:24.451306-04:00.accessibility.json) |
-| [July 27 at 3:17 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T20:17:48.287342-04:00.accessibility.json) |
-| [July 26 at 3:27 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T08:27:01.524127-04:00.accessibility.json) |
-| [July 26 at 3:22 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T20:22:22.638200-04:00.accessibility.json) |
-| [July 25 at 6:35 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T11:35:24.362638-04:00.accessibility.json) |
-| [July 25 at 6:38 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T23:38:47.284605-04:00.accessibility.json) |
-| [July 24 at 4:59 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T09:59:31.715069-04:00.accessibility.json) |
-| [July 24 at 9:17 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T02:17:53.046037-04:00.accessibility.json) |
-| [July 23 at 6:05 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-23T11:05:25.395423-04:00.accessibility.json) |
+| [July 27 at 8:09 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T20:09:46.715641-04:00.accessibility.json) |
+| [July 27 at 9:13 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T09:13:24.451306-04:00.accessibility.json) |
+| [July 26 at 8:17 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T20:17:48.287342-04:00.accessibility.json) |
+| [July 26 at 8:27 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T08:27:01.524127-04:00.accessibility.json) |
+| [July 25 at 8:22 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T20:22:22.638200-04:00.accessibility.json) |
+| [July 25 at 11:35 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T11:35:24.362638-04:00.accessibility.json) |
+| [July 24 at 11:38 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T23:38:47.284605-04:00.accessibility.json) |
+| [July 24 at 9:59 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T09:59:31.715069-04:00.accessibility.json) |
+| [July 24 at 2:17 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T02:17:53.046037-04:00.accessibility.json) |
+| [July 23 at 11:05 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-23T11:05:25.395423-04:00.accessibility.json) |
 
 
 
@@ -442,15 +442,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 3:09 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T20:09:46.715641-04:00.lighthouse.json) |
-| [July 27 at 4:13 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T09:13:24.451306-04:00.lighthouse.json) |
-| [July 27 at 3:17 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T20:17:48.287342-04:00.lighthouse.json) |
-| [July 26 at 3:27 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T08:27:01.524127-04:00.lighthouse.json) |
-| [July 26 at 3:22 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T20:22:22.638200-04:00.lighthouse.json) |
-| [July 25 at 6:35 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T11:35:24.362638-04:00.lighthouse.json) |
-| [July 25 at 6:38 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T23:38:47.284605-04:00.lighthouse.json) |
-| [July 24 at 4:59 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T09:59:31.715069-04:00.lighthouse.json) |
-| [July 24 at 9:18 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T02:17:53.046037-04:00.lighthouse.json) |
+| [July 27 at 8:09 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T20:09:46.715641-04:00.lighthouse.json) |
+| [July 27 at 9:13 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-27T09:13:24.451306-04:00.lighthouse.json) |
+| [July 26 at 8:17 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T20:17:48.287342-04:00.lighthouse.json) |
+| [July 26 at 8:27 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-26T08:27:01.524127-04:00.lighthouse.json) |
+| [July 25 at 8:22 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T20:22:22.638200-04:00.lighthouse.json) |
+| [July 25 at 11:35 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-25T11:35:24.362638-04:00.lighthouse.json) |
+| [July 24 at 11:38 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T23:38:47.284605-04:00.lighthouse.json) |
+| [July 24 at 9:59 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T09:59:31.715069-04:00.lighthouse.json) |
+| [July 24 at 2:18 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T02:17:53.046037-04:00.lighthouse.json) |
 
 
 

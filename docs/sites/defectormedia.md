@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-28T07:09:39.280660-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-28T07:09:39.280660-04:00.jpg"
-     alt="Defector at 2022-07-28 14:09:41-04:00 local time"
+     alt="Defector at 2022-07-28 07:09:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-28T07:09:39.280660-04:00.jpg">July 28 at 2:09 PM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-28T07:09:39.280660-04:00.jpg">July 28 at 7:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T19:05:51.457019-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T19:05:51.457019-04:00.jpg"
-     alt="Defector at 2022-07-28 02:05:52-04:00 local time"
+     alt="Defector at 2022-07-27 19:05:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T19:05:51.457019-04:00.jpg">July 28 at 2:05 AM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T19:05:51.457019-04:00.jpg">July 27 at 7:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T07:06:20.865145-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T07:06:20.865145-04:00.jpg"
-     alt="Defector at 2022-07-27 14:06:22-04:00 local time"
+     alt="Defector at 2022-07-27 07:06:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T07:06:20.865145-04:00.jpg">July 27 at 2:06 PM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T07:06:20.865145-04:00.jpg">July 27 at 7:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T19:07:54.671699-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T19:07:54.671699-04:00.jpg"
-     alt="Defector at 2022-07-27 02:07:58-04:00 local time"
+     alt="Defector at 2022-07-26 19:07:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T19:07:54.671699-04:00.jpg">July 27 at 2:07 AM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T19:07:54.671699-04:00.jpg">July 26 at 7:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T07:16:06.605627-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T07:16:06.605627-04:00.jpg"
-     alt="Defector at 2022-07-26 14:16:08-04:00 local time"
+     alt="Defector at 2022-07-26 07:16:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T07:16:06.605627-04:00.jpg">July 26 at 2:16 PM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T07:16:06.605627-04:00.jpg">July 26 at 7:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T19:11:29.381905-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T19:11:29.381905-04:00.jpg"
-     alt="Defector at 2022-07-26 02:11:33-04:00 local time"
+     alt="Defector at 2022-07-25 19:11:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T19:11:29.381905-04:00.jpg">July 26 at 2:11 AM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T19:11:29.381905-04:00.jpg">July 25 at 7:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T08:00:13.488302-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T08:00:13.488302-04:00.jpg"
-     alt="Defector at 2022-07-25 15:00:17-04:00 local time"
+     alt="Defector at 2022-07-25 08:00:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T08:00:13.488302-04:00.jpg">July 25 at 3:00 PM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T08:00:13.488302-04:00.jpg">July 25 at 8:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T21:01:32.514785-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T21:01:32.514785-04:00.jpg"
-     alt="Defector at 2022-07-25 04:01:33-04:00 local time"
+     alt="Defector at 2022-07-24 21:01:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T21:01:32.514785-04:00.jpg">July 25 at 4:01 AM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T21:01:32.514785-04:00.jpg">July 24 at 9:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T07:57:29.912688-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T07:57:29.912688-04:00.jpg"
-     alt="Defector at 2022-07-24 14:57:32-04:00 local time"
+     alt="Defector at 2022-07-24 07:57:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T07:57:29.912688-04:00.jpg">July 24 at 2:57 PM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T07:57:29.912688-04:00.jpg">July 24 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T02:27:15.576068-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T02:27:15.576068-04:00.jpg"
-     alt="Defector at 2022-07-24 09:27:18-04:00 local time"
+     alt="Defector at 2022-07-24 02:27:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T02:27:15.576068-04:00.jpg">July 24 at 9:27 AM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T02:27:15.576068-04:00.jpg">July 24 at 2:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-23T09:03:20.909175-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-23T09:03:20.909175-04:00.jpg"
-     alt="Defector at 2022-07-23 16:03:23-04:00 local time"
+     alt="Defector at 2022-07-23 09:03:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-23T09:03:20.909175-04:00.jpg">July 23 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-23T09:03:20.909175-04:00.jpg">July 23 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-22T21:04:25.522500-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-22T21:04:25.522500-04:00.jpg"
-     alt="Defector at 2022-07-23 04:04:27-04:00 local time"
+     alt="Defector at 2022-07-22 21:04:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-22T21:04:25.522500-04:00.jpg">July 23 at 4:04 AM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-22T21:04:25.522500-04:00.jpg">July 22 at 9:04 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 2:09 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-28T07:09:39.280660-04:00.hyperlinks.json) |
-| [July 28 at 2:05 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T19:05:51.457019-04:00.hyperlinks.json) |
-| [July 27 at 2:06 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T07:06:20.865145-04:00.hyperlinks.json) |
-| [July 27 at 2:08 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T19:07:54.671699-04:00.hyperlinks.json) |
-| [July 26 at 2:16 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T07:16:06.605627-04:00.hyperlinks.json) |
-| [July 26 at 2:11 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T19:11:29.381905-04:00.hyperlinks.json) |
-| [July 25 at 3:00 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T08:00:13.488302-04:00.hyperlinks.json) |
-| [July 25 at 4:01 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T21:01:32.514785-04:00.hyperlinks.json) |
-| [July 24 at 2:57 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T07:57:29.912688-04:00.hyperlinks.json) |
-| [July 24 at 9:27 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T02:27:15.576068-04:00.hyperlinks.json) |
+| [July 28 at 7:09 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-28T07:09:39.280660-04:00.hyperlinks.json) |
+| [July 27 at 7:05 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T19:05:51.457019-04:00.hyperlinks.json) |
+| [July 27 at 7:06 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T07:06:20.865145-04:00.hyperlinks.json) |
+| [July 26 at 7:08 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T19:07:54.671699-04:00.hyperlinks.json) |
+| [July 26 at 7:16 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T07:16:06.605627-04:00.hyperlinks.json) |
+| [July 25 at 7:11 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T19:11:29.381905-04:00.hyperlinks.json) |
+| [July 25 at 8:00 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T08:00:13.488302-04:00.hyperlinks.json) |
+| [July 24 at 9:01 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T21:01:32.514785-04:00.hyperlinks.json) |
+| [July 24 at 7:57 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T07:57:29.912688-04:00.hyperlinks.json) |
+| [July 24 at 2:27 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T02:27:15.576068-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 2:09 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-28T07:09:39.280660-04:00.accessibility.json) |
-| [July 28 at 2:05 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T19:05:51.457019-04:00.accessibility.json) |
-| [July 27 at 2:06 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T07:06:20.865145-04:00.accessibility.json) |
-| [July 27 at 2:08 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T19:07:54.671699-04:00.accessibility.json) |
-| [July 26 at 2:16 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T07:16:06.605627-04:00.accessibility.json) |
-| [July 26 at 2:11 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T19:11:29.381905-04:00.accessibility.json) |
-| [July 25 at 3:00 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T08:00:13.488302-04:00.accessibility.json) |
-| [July 25 at 4:01 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T21:01:32.514785-04:00.accessibility.json) |
-| [July 24 at 2:57 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T07:57:29.912688-04:00.accessibility.json) |
-| [July 24 at 9:27 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T02:27:15.576068-04:00.accessibility.json) |
+| [July 28 at 7:09 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-28T07:09:39.280660-04:00.accessibility.json) |
+| [July 27 at 7:05 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T19:05:51.457019-04:00.accessibility.json) |
+| [July 27 at 7:06 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T07:06:20.865145-04:00.accessibility.json) |
+| [July 26 at 7:08 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T19:07:54.671699-04:00.accessibility.json) |
+| [July 26 at 7:16 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T07:16:06.605627-04:00.accessibility.json) |
+| [July 25 at 7:11 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T19:11:29.381905-04:00.accessibility.json) |
+| [July 25 at 8:00 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T08:00:13.488302-04:00.accessibility.json) |
+| [July 24 at 9:01 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T21:01:32.514785-04:00.accessibility.json) |
+| [July 24 at 7:57 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T07:57:29.912688-04:00.accessibility.json) |
+| [July 24 at 2:27 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T02:27:15.576068-04:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 2:09 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-28T07:09:39.280660-04:00.lighthouse.json) |
-| [July 28 at 2:05 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T19:05:51.457019-04:00.lighthouse.json) |
-| [July 27 at 2:06 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T07:06:20.865145-04:00.lighthouse.json) |
-| [July 27 at 2:08 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T19:07:54.671699-04:00.lighthouse.json) |
-| [July 26 at 2:16 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T07:16:06.605627-04:00.lighthouse.json) |
-| [July 26 at 2:11 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T19:11:29.381905-04:00.lighthouse.json) |
-| [July 25 at 3:00 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T08:00:13.488302-04:00.lighthouse.json) |
-| [July 25 at 4:01 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T21:01:32.514785-04:00.lighthouse.json) |
-| [July 24 at 2:57 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T07:57:29.912688-04:00.lighthouse.json) |
-| [July 24 at 9:27 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T02:27:15.576068-04:00.lighthouse.json) |
+| [July 28 at 7:09 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-28T07:09:39.280660-04:00.lighthouse.json) |
+| [July 27 at 7:05 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T19:05:51.457019-04:00.lighthouse.json) |
+| [July 27 at 7:06 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-27T07:06:20.865145-04:00.lighthouse.json) |
+| [July 26 at 7:08 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T19:07:54.671699-04:00.lighthouse.json) |
+| [July 26 at 7:16 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-26T07:16:06.605627-04:00.lighthouse.json) |
+| [July 25 at 7:11 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T19:11:29.381905-04:00.lighthouse.json) |
+| [July 25 at 8:00 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T08:00:13.488302-04:00.lighthouse.json) |
+| [July 24 at 9:01 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T21:01:32.514785-04:00.lighthouse.json) |
+| [July 24 at 7:57 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T07:57:29.912688-04:00.lighthouse.json) |
+| [July 24 at 2:27 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T02:27:15.576068-04:00.lighthouse.json) |
 
 
 

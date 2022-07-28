@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/propublica-2022/propublica-2022-07-27T23:43:17.206723-04:00.jpg">
   <img src="https://archive.org/download/propublica-2022/propublica-2022-07-27T23:43:17.206723-04:00.jpg"
-     alt="ProPublica at 2022-07-28 06:43:21-04:00 local time"
+     alt="ProPublica at 2022-07-27 23:43:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-27T23:43:17.206723-04:00.jpg">July 28 at 6:43 AM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-27T23:43:17.206723-04:00.jpg">July 27 at 11:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/propublica-2022/propublica-2022-07-27T11:44:27.959799-04:00.jpg">
   <img src="https://archive.org/download/propublica-2022/propublica-2022-07-27T11:44:27.959799-04:00.jpg"
-     alt="ProPublica at 2022-07-27 18:44:29-04:00 local time"
+     alt="ProPublica at 2022-07-27 11:44:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-27T11:44:27.959799-04:00.jpg">July 27 at 6:44 PM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-27T11:44:27.959799-04:00.jpg">July 27 at 11:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/propublica-2022/propublica-2022-07-26T23:51:59.048831-04:00.jpg">
   <img src="https://archive.org/download/propublica-2022/propublica-2022-07-26T23:51:59.048831-04:00.jpg"
-     alt="ProPublica at 2022-07-27 06:52:03-04:00 local time"
+     alt="ProPublica at 2022-07-26 23:52:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-26T23:51:59.048831-04:00.jpg">July 27 at 6:52 AM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-26T23:51:59.048831-04:00.jpg">July 26 at 11:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/propublica-2022/propublica-2022-07-26T11:43:15.371925-04:00.jpg">
   <img src="https://archive.org/download/propublica-2022/propublica-2022-07-26T11:43:15.371925-04:00.jpg"
-     alt="ProPublica at 2022-07-26 18:43:19-04:00 local time"
+     alt="ProPublica at 2022-07-26 11:43:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-26T11:43:15.371925-04:00.jpg">July 26 at 6:43 PM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-26T11:43:15.371925-04:00.jpg">July 26 at 11:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/propublica-2022/propublica-2022-07-25T23:55:21.964574-04:00.jpg">
   <img src="https://archive.org/download/propublica-2022/propublica-2022-07-25T23:55:21.964574-04:00.jpg"
-     alt="ProPublica at 2022-07-26 06:55:23-04:00 local time"
+     alt="ProPublica at 2022-07-25 23:55:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-25T23:55:21.964574-04:00.jpg">July 26 at 6:55 AM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-25T23:55:21.964574-04:00.jpg">July 25 at 11:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/propublica-2022/propublica-2022-07-25T11:37:56.037119-04:00.jpg">
   <img src="https://archive.org/download/propublica-2022/propublica-2022-07-25T11:37:56.037119-04:00.jpg"
-     alt="ProPublica at 2022-07-25 18:38:02-04:00 local time"
+     alt="ProPublica at 2022-07-25 11:38:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-25T11:37:56.037119-04:00.jpg">July 25 at 6:38 PM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-25T11:37:56.037119-04:00.jpg">July 25 at 11:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/propublica-2022/propublica-2022-07-24T23:40:18.472828-04:00.jpg">
   <img src="https://archive.org/download/propublica-2022/propublica-2022-07-24T23:40:18.472828-04:00.jpg"
-     alt="ProPublica at 2022-07-25 06:40:20-04:00 local time"
+     alt="ProPublica at 2022-07-24 23:40:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-24T23:40:18.472828-04:00.jpg">July 25 at 6:40 AM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-24T23:40:18.472828-04:00.jpg">July 24 at 11:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/propublica-2022/propublica-2022-07-24T10:01:21.510919-04:00.jpg">
   <img src="https://archive.org/download/propublica-2022/propublica-2022-07-24T10:01:21.510919-04:00.jpg"
-     alt="ProPublica at 2022-07-24 17:01:23-04:00 local time"
+     alt="ProPublica at 2022-07-24 10:01:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-24T10:01:21.510919-04:00.jpg">July 24 at 5:01 PM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-24T10:01:21.510919-04:00.jpg">July 24 at 10:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/propublica-2022/propublica-2022-07-24T02:20:39.441079-04:00.jpg">
   <img src="https://archive.org/download/propublica-2022/propublica-2022-07-24T02:20:39.441079-04:00.jpg"
-     alt="ProPublica at 2022-07-24 09:20:42-04:00 local time"
+     alt="ProPublica at 2022-07-24 02:20:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-24T02:20:39.441079-04:00.jpg">July 24 at 9:20 AM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-24T02:20:39.441079-04:00.jpg">July 24 at 2:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/propublica-2022/propublica-2022-07-23T11:07:24.820316-04:00.jpg">
   <img src="https://archive.org/download/propublica-2022/propublica-2022-07-23T11:07:24.820316-04:00.jpg"
-     alt="ProPublica at 2022-07-23 18:07:28-04:00 local time"
+     alt="ProPublica at 2022-07-23 11:07:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-23T11:07:24.820316-04:00.jpg">July 23 at 6:07 PM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-23T11:07:24.820316-04:00.jpg">July 23 at 11:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/propublica-2022/propublica-2022-07-22T23:36:34.754406-04:00.jpg">
   <img src="https://archive.org/download/propublica-2022/propublica-2022-07-22T23:36:34.754406-04:00.jpg"
-     alt="ProPublica at 2022-07-23 06:36:38-04:00 local time"
+     alt="ProPublica at 2022-07-22 23:36:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-22T23:36:34.754406-04:00.jpg">July 23 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-22T23:36:34.754406-04:00.jpg">July 22 at 11:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/propublica-2022/propublica-2022-07-22T11:02:18.941654-04:00.jpg">
   <img src="https://archive.org/download/propublica-2022/propublica-2022-07-22T11:02:18.941654-04:00.jpg"
-     alt="ProPublica at 2022-07-22 18:02:20-04:00 local time"
+     alt="ProPublica at 2022-07-22 11:02:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-22T11:02:18.941654-04:00.jpg">July 22 at 6:02 PM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-22T11:02:18.941654-04:00.jpg">July 22 at 11:02 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 6:43 AM](https://archive.org/download/propublica-2022/propublica-2022-07-27T23:43:17.206723-04:00.hyperlinks.json) |
-| [July 27 at 6:44 PM](https://archive.org/download/propublica-2022/propublica-2022-07-27T11:44:27.959799-04:00.hyperlinks.json) |
-| [July 27 at 6:52 AM](https://archive.org/download/propublica-2022/propublica-2022-07-26T23:51:59.048831-04:00.hyperlinks.json) |
-| [July 26 at 6:43 PM](https://archive.org/download/propublica-2022/propublica-2022-07-26T11:43:15.371925-04:00.hyperlinks.json) |
-| [July 26 at 6:55 AM](https://archive.org/download/propublica-2022/propublica-2022-07-25T23:55:21.964574-04:00.hyperlinks.json) |
-| [July 25 at 6:38 PM](https://archive.org/download/propublica-2022/propublica-2022-07-25T11:37:56.037119-04:00.hyperlinks.json) |
-| [July 25 at 6:40 AM](https://archive.org/download/propublica-2022/propublica-2022-07-24T23:40:18.472828-04:00.hyperlinks.json) |
-| [July 24 at 5:01 PM](https://archive.org/download/propublica-2022/propublica-2022-07-24T10:01:21.510919-04:00.hyperlinks.json) |
-| [July 24 at 9:20 AM](https://archive.org/download/propublica-2022/propublica-2022-07-24T02:20:39.441079-04:00.hyperlinks.json) |
-| [July 23 at 6:07 PM](https://archive.org/download/propublica-2022/propublica-2022-07-23T11:07:24.820316-04:00.hyperlinks.json) |
+| [July 27 at 11:43 PM](https://archive.org/download/propublica-2022/propublica-2022-07-27T23:43:17.206723-04:00.hyperlinks.json) |
+| [July 27 at 11:44 AM](https://archive.org/download/propublica-2022/propublica-2022-07-27T11:44:27.959799-04:00.hyperlinks.json) |
+| [July 26 at 11:52 PM](https://archive.org/download/propublica-2022/propublica-2022-07-26T23:51:59.048831-04:00.hyperlinks.json) |
+| [July 26 at 11:43 AM](https://archive.org/download/propublica-2022/propublica-2022-07-26T11:43:15.371925-04:00.hyperlinks.json) |
+| [July 25 at 11:55 PM](https://archive.org/download/propublica-2022/propublica-2022-07-25T23:55:21.964574-04:00.hyperlinks.json) |
+| [July 25 at 11:38 AM](https://archive.org/download/propublica-2022/propublica-2022-07-25T11:37:56.037119-04:00.hyperlinks.json) |
+| [July 24 at 11:40 PM](https://archive.org/download/propublica-2022/propublica-2022-07-24T23:40:18.472828-04:00.hyperlinks.json) |
+| [July 24 at 10:01 AM](https://archive.org/download/propublica-2022/propublica-2022-07-24T10:01:21.510919-04:00.hyperlinks.json) |
+| [July 24 at 2:20 AM](https://archive.org/download/propublica-2022/propublica-2022-07-24T02:20:39.441079-04:00.hyperlinks.json) |
+| [July 23 at 11:07 AM](https://archive.org/download/propublica-2022/propublica-2022-07-23T11:07:24.820316-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 6:43 AM](https://archive.org/download/propublica-2022/propublica-2022-07-27T23:43:17.206723-04:00.accessibility.json) |
-| [July 27 at 6:44 PM](https://archive.org/download/propublica-2022/propublica-2022-07-27T11:44:27.959799-04:00.accessibility.json) |
-| [July 27 at 6:52 AM](https://archive.org/download/propublica-2022/propublica-2022-07-26T23:51:59.048831-04:00.accessibility.json) |
-| [July 26 at 6:43 PM](https://archive.org/download/propublica-2022/propublica-2022-07-26T11:43:15.371925-04:00.accessibility.json) |
-| [July 26 at 6:55 AM](https://archive.org/download/propublica-2022/propublica-2022-07-25T23:55:21.964574-04:00.accessibility.json) |
-| [July 25 at 6:38 PM](https://archive.org/download/propublica-2022/propublica-2022-07-25T11:37:56.037119-04:00.accessibility.json) |
-| [July 25 at 6:40 AM](https://archive.org/download/propublica-2022/propublica-2022-07-24T23:40:18.472828-04:00.accessibility.json) |
-| [July 24 at 5:01 PM](https://archive.org/download/propublica-2022/propublica-2022-07-24T10:01:21.510919-04:00.accessibility.json) |
-| [July 24 at 9:20 AM](https://archive.org/download/propublica-2022/propublica-2022-07-24T02:20:39.441079-04:00.accessibility.json) |
-| [July 23 at 6:07 PM](https://archive.org/download/propublica-2022/propublica-2022-07-23T11:07:24.820316-04:00.accessibility.json) |
+| [July 27 at 11:43 PM](https://archive.org/download/propublica-2022/propublica-2022-07-27T23:43:17.206723-04:00.accessibility.json) |
+| [July 27 at 11:44 AM](https://archive.org/download/propublica-2022/propublica-2022-07-27T11:44:27.959799-04:00.accessibility.json) |
+| [July 26 at 11:52 PM](https://archive.org/download/propublica-2022/propublica-2022-07-26T23:51:59.048831-04:00.accessibility.json) |
+| [July 26 at 11:43 AM](https://archive.org/download/propublica-2022/propublica-2022-07-26T11:43:15.371925-04:00.accessibility.json) |
+| [July 25 at 11:55 PM](https://archive.org/download/propublica-2022/propublica-2022-07-25T23:55:21.964574-04:00.accessibility.json) |
+| [July 25 at 11:38 AM](https://archive.org/download/propublica-2022/propublica-2022-07-25T11:37:56.037119-04:00.accessibility.json) |
+| [July 24 at 11:40 PM](https://archive.org/download/propublica-2022/propublica-2022-07-24T23:40:18.472828-04:00.accessibility.json) |
+| [July 24 at 10:01 AM](https://archive.org/download/propublica-2022/propublica-2022-07-24T10:01:21.510919-04:00.accessibility.json) |
+| [July 24 at 2:20 AM](https://archive.org/download/propublica-2022/propublica-2022-07-24T02:20:39.441079-04:00.accessibility.json) |
+| [July 23 at 11:07 AM](https://archive.org/download/propublica-2022/propublica-2022-07-23T11:07:24.820316-04:00.accessibility.json) |
 
 
 
@@ -442,15 +442,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 6:43 AM](https://archive.org/download/propublica-2022/propublica-2022-07-27T23:43:17.206723-04:00.lighthouse.json) |
-| [July 27 at 6:44 PM](https://archive.org/download/propublica-2022/propublica-2022-07-27T11:44:27.959799-04:00.lighthouse.json) |
-| [July 27 at 6:52 AM](https://archive.org/download/propublica-2022/propublica-2022-07-26T23:51:59.048831-04:00.lighthouse.json) |
-| [July 26 at 6:43 PM](https://archive.org/download/propublica-2022/propublica-2022-07-26T11:43:15.371925-04:00.lighthouse.json) |
-| [July 26 at 6:55 AM](https://archive.org/download/propublica-2022/propublica-2022-07-25T23:55:21.964574-04:00.lighthouse.json) |
-| [July 25 at 6:38 PM](https://archive.org/download/propublica-2022/propublica-2022-07-25T11:37:56.037119-04:00.lighthouse.json) |
-| [July 25 at 6:40 AM](https://archive.org/download/propublica-2022/propublica-2022-07-24T23:40:18.472828-04:00.lighthouse.json) |
-| [July 24 at 5:01 PM](https://archive.org/download/propublica-2022/propublica-2022-07-24T10:01:21.510919-04:00.lighthouse.json) |
-| [July 24 at 9:20 AM](https://archive.org/download/propublica-2022/propublica-2022-07-24T02:20:39.441079-04:00.lighthouse.json) |
+| [July 27 at 11:43 PM](https://archive.org/download/propublica-2022/propublica-2022-07-27T23:43:17.206723-04:00.lighthouse.json) |
+| [July 27 at 11:44 AM](https://archive.org/download/propublica-2022/propublica-2022-07-27T11:44:27.959799-04:00.lighthouse.json) |
+| [July 26 at 11:52 PM](https://archive.org/download/propublica-2022/propublica-2022-07-26T23:51:59.048831-04:00.lighthouse.json) |
+| [July 26 at 11:43 AM](https://archive.org/download/propublica-2022/propublica-2022-07-26T11:43:15.371925-04:00.lighthouse.json) |
+| [July 25 at 11:55 PM](https://archive.org/download/propublica-2022/propublica-2022-07-25T23:55:21.964574-04:00.lighthouse.json) |
+| [July 25 at 11:38 AM](https://archive.org/download/propublica-2022/propublica-2022-07-25T11:37:56.037119-04:00.lighthouse.json) |
+| [July 24 at 11:40 PM](https://archive.org/download/propublica-2022/propublica-2022-07-24T23:40:18.472828-04:00.lighthouse.json) |
+| [July 24 at 10:01 AM](https://archive.org/download/propublica-2022/propublica-2022-07-24T10:01:21.510919-04:00.lighthouse.json) |
+| [July 24 at 2:20 AM](https://archive.org/download/propublica-2022/propublica-2022-07-24T02:20:39.441079-04:00.lighthouse.json) |
 
 
 

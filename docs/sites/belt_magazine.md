@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T21:27:54.849887-04:00.jpg">
   <img src="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T21:27:54.849887-04:00.jpg"
-     alt="Belt Magazine at 2022-07-28 04:27:56-04:00 local time"
+     alt="Belt Magazine at 2022-07-27 21:27:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T21:27:54.849887-04:00.jpg">July 28 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T21:27:54.849887-04:00.jpg">July 27 at 9:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T09:19:16.155582-04:00.jpg">
   <img src="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T09:19:16.155582-04:00.jpg"
-     alt="Belt Magazine at 2022-07-27 16:19:17-04:00 local time"
+     alt="Belt Magazine at 2022-07-27 09:19:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T09:19:16.155582-04:00.jpg">July 27 at 4:19 PM</a></p>
+ <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T09:19:16.155582-04:00.jpg">July 27 at 9:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T21:23:55.470366-04:00.jpg">
   <img src="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T21:23:55.470366-04:00.jpg"
-     alt="Belt Magazine at 2022-07-27 04:23:57-04:00 local time"
+     alt="Belt Magazine at 2022-07-26 21:23:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T21:23:55.470366-04:00.jpg">July 27 at 4:23 AM</a></p>
+ <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T21:23:55.470366-04:00.jpg">July 26 at 9:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T09:25:41.043622-04:00.jpg">
   <img src="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T09:25:41.043622-04:00.jpg"
-     alt="Belt Magazine at 2022-07-26 16:25:42-04:00 local time"
+     alt="Belt Magazine at 2022-07-26 09:25:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T09:25:41.043622-04:00.jpg">July 26 at 4:25 PM</a></p>
+ <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T09:25:41.043622-04:00.jpg">July 26 at 9:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T22:58:02.606296-04:00.jpg">
   <img src="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T22:58:02.606296-04:00.jpg"
-     alt="Belt Magazine at 2022-07-26 05:58:04-04:00 local time"
+     alt="Belt Magazine at 2022-07-25 22:58:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T22:58:02.606296-04:00.jpg">July 26 at 5:58 AM</a></p>
+ <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T22:58:02.606296-04:00.jpg">July 25 at 10:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T21:31:27.286633-04:00.jpg">
   <img src="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T21:31:27.286633-04:00.jpg"
-     alt="Belt Magazine at 2022-07-26 04:31:29-04:00 local time"
+     alt="Belt Magazine at 2022-07-25 21:31:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T21:31:27.286633-04:00.jpg">July 26 at 4:31 AM</a></p>
+ <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T21:31:27.286633-04:00.jpg">July 25 at 9:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T06:59:22.437016-04:00.jpg">
   <img src="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T06:59:22.437016-04:00.jpg"
-     alt="Belt Magazine at 2022-07-25 13:59:24-04:00 local time"
+     alt="Belt Magazine at 2022-07-25 06:59:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T06:59:22.437016-04:00.jpg">July 25 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T06:59:22.437016-04:00.jpg">July 25 at 6:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T20:49:42.741815-04:00.jpg">
   <img src="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T20:49:42.741815-04:00.jpg"
-     alt="Belt Magazine at 2022-07-25 03:49:45-04:00 local time"
+     alt="Belt Magazine at 2022-07-24 20:49:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T20:49:42.741815-04:00.jpg">July 25 at 3:49 AM</a></p>
+ <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T20:49:42.741815-04:00.jpg">July 24 at 8:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T06:58:12.296995-04:00.jpg">
   <img src="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T06:58:12.296995-04:00.jpg"
-     alt="Belt Magazine at 2022-07-24 13:58:15-04:00 local time"
+     alt="Belt Magazine at 2022-07-24 06:58:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T06:58:12.296995-04:00.jpg">July 24 at 1:58 PM</a></p>
+ <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T06:58:12.296995-04:00.jpg">July 24 at 6:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-23T19:00:22.342962-04:00.jpg">
   <img src="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-23T19:00:22.342962-04:00.jpg"
-     alt="Belt Magazine at 2022-07-24 02:00:23-04:00 local time"
+     alt="Belt Magazine at 2022-07-23 19:00:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-23T19:00:22.342962-04:00.jpg">July 24 at 2:00 AM</a></p>
+ <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-23T19:00:22.342962-04:00.jpg">July 23 at 7:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-23T08:57:05.535924-04:00.jpg">
   <img src="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-23T08:57:05.535924-04:00.jpg"
-     alt="Belt Magazine at 2022-07-23 15:57:07-04:00 local time"
+     alt="Belt Magazine at 2022-07-23 08:57:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-23T08:57:05.535924-04:00.jpg">July 23 at 3:57 PM</a></p>
+ <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-23T08:57:05.535924-04:00.jpg">July 23 at 8:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-22T20:58:42.149188-04:00.jpg">
   <img src="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-22T20:58:42.149188-04:00.jpg"
-     alt="Belt Magazine at 2022-07-23 03:58:43-04:00 local time"
+     alt="Belt Magazine at 2022-07-22 20:58:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-22T20:58:42.149188-04:00.jpg">July 23 at 3:58 AM</a></p>
+ <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-22T20:58:42.149188-04:00.jpg">July 22 at 8:58 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 4:27 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T21:27:54.849887-04:00.hyperlinks.json) |
-| [July 27 at 4:19 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T09:19:16.155582-04:00.hyperlinks.json) |
-| [July 27 at 4:24 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T21:23:55.470366-04:00.hyperlinks.json) |
-| [July 26 at 4:25 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T09:25:41.043622-04:00.hyperlinks.json) |
-| [July 26 at 5:58 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T22:58:02.606296-04:00.hyperlinks.json) |
-| [July 26 at 4:31 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T21:31:27.286633-04:00.hyperlinks.json) |
-| [July 25 at 1:59 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T06:59:22.437016-04:00.hyperlinks.json) |
-| [July 25 at 3:49 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T20:49:42.741815-04:00.hyperlinks.json) |
-| [July 24 at 1:58 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T06:58:12.296995-04:00.hyperlinks.json) |
-| [July 24 at 2:00 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-23T19:00:22.342962-04:00.hyperlinks.json) |
+| [July 27 at 9:27 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T21:27:54.849887-04:00.hyperlinks.json) |
+| [July 27 at 9:19 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T09:19:16.155582-04:00.hyperlinks.json) |
+| [July 26 at 9:24 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T21:23:55.470366-04:00.hyperlinks.json) |
+| [July 26 at 9:25 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T09:25:41.043622-04:00.hyperlinks.json) |
+| [July 25 at 10:58 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T22:58:02.606296-04:00.hyperlinks.json) |
+| [July 25 at 9:31 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T21:31:27.286633-04:00.hyperlinks.json) |
+| [July 25 at 6:59 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T06:59:22.437016-04:00.hyperlinks.json) |
+| [July 24 at 8:49 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T20:49:42.741815-04:00.hyperlinks.json) |
+| [July 24 at 6:58 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T06:58:12.296995-04:00.hyperlinks.json) |
+| [July 23 at 7:00 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-23T19:00:22.342962-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 4:27 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T21:27:54.849887-04:00.accessibility.json) |
-| [July 27 at 4:19 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T09:19:16.155582-04:00.accessibility.json) |
-| [July 27 at 4:23 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T21:23:55.470366-04:00.accessibility.json) |
-| [July 26 at 4:25 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T09:25:41.043622-04:00.accessibility.json) |
-| [July 26 at 5:58 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T22:58:02.606296-04:00.accessibility.json) |
-| [July 26 at 4:31 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T21:31:27.286633-04:00.accessibility.json) |
-| [July 25 at 1:59 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T06:59:22.437016-04:00.accessibility.json) |
-| [July 25 at 3:49 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T20:49:42.741815-04:00.accessibility.json) |
-| [July 24 at 1:58 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T06:58:12.296995-04:00.accessibility.json) |
-| [July 24 at 2:00 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-23T19:00:22.342962-04:00.accessibility.json) |
+| [July 27 at 9:27 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T21:27:54.849887-04:00.accessibility.json) |
+| [July 27 at 9:19 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T09:19:16.155582-04:00.accessibility.json) |
+| [July 26 at 9:23 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T21:23:55.470366-04:00.accessibility.json) |
+| [July 26 at 9:25 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T09:25:41.043622-04:00.accessibility.json) |
+| [July 25 at 10:58 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T22:58:02.606296-04:00.accessibility.json) |
+| [July 25 at 9:31 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T21:31:27.286633-04:00.accessibility.json) |
+| [July 25 at 6:59 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T06:59:22.437016-04:00.accessibility.json) |
+| [July 24 at 8:49 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T20:49:42.741815-04:00.accessibility.json) |
+| [July 24 at 6:58 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T06:58:12.296995-04:00.accessibility.json) |
+| [July 23 at 7:00 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-23T19:00:22.342962-04:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 4:28 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T21:27:54.849887-04:00.lighthouse.json) |
-| [July 27 at 4:19 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T09:19:16.155582-04:00.lighthouse.json) |
-| [July 27 at 4:24 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T21:23:55.470366-04:00.lighthouse.json) |
-| [July 26 at 4:25 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T09:25:41.043622-04:00.lighthouse.json) |
-| [July 26 at 5:58 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T22:58:02.606296-04:00.lighthouse.json) |
-| [July 26 at 4:31 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T21:31:27.286633-04:00.lighthouse.json) |
-| [July 25 at 1:59 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T06:59:22.437016-04:00.lighthouse.json) |
-| [July 25 at 3:49 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T20:49:42.741815-04:00.lighthouse.json) |
-| [July 24 at 1:58 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T06:58:12.296995-04:00.lighthouse.json) |
-| [July 24 at 2:00 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-23T19:00:22.342962-04:00.lighthouse.json) |
+| [July 27 at 9:28 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T21:27:54.849887-04:00.lighthouse.json) |
+| [July 27 at 9:19 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-27T09:19:16.155582-04:00.lighthouse.json) |
+| [July 26 at 9:24 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T21:23:55.470366-04:00.lighthouse.json) |
+| [July 26 at 9:25 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-26T09:25:41.043622-04:00.lighthouse.json) |
+| [July 25 at 10:58 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T22:58:02.606296-04:00.lighthouse.json) |
+| [July 25 at 9:31 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T21:31:27.286633-04:00.lighthouse.json) |
+| [July 25 at 6:59 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-25T06:59:22.437016-04:00.lighthouse.json) |
+| [July 24 at 8:49 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T20:49:42.741815-04:00.lighthouse.json) |
+| [July 24 at 6:58 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-24T06:58:12.296995-04:00.lighthouse.json) |
+| [July 23 at 7:00 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-07-23T19:00:22.342962-04:00.lighthouse.json) |
 
 
 

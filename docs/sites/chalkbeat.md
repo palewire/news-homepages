@@ -31,46 +31,46 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-28T07:07:41.871756-04:00.jpg">
   <img src="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-28T07:07:41.871756-04:00.jpg"
-     alt="Chalkbeat at 2022-07-28 14:07:44-04:00 local time"
+     alt="Chalkbeat at 2022-07-28 07:07:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-28T07:07:41.871756-04:00.jpg">July 28 at 2:07 PM</a></p>
+ <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-28T07:07:41.871756-04:00.jpg">July 28 at 7:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T19:03:48.091373-04:00.jpg">
   <img src="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T19:03:48.091373-04:00.jpg"
-     alt="Chalkbeat at 2022-07-28 02:03:49-04:00 local time"
+     alt="Chalkbeat at 2022-07-27 19:03:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T19:03:48.091373-04:00.jpg">July 28 at 2:03 AM</a></p>
+ <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T19:03:48.091373-04:00.jpg">July 27 at 7:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T07:04:31.913845-04:00.jpg">
   <img src="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T07:04:31.913845-04:00.jpg"
-     alt="Chalkbeat at 2022-07-27 14:04:33-04:00 local time"
+     alt="Chalkbeat at 2022-07-27 07:04:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T07:04:31.913845-04:00.jpg">July 27 at 2:04 PM</a></p>
+ <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T07:04:31.913845-04:00.jpg">July 27 at 7:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T19:05:23.882058-04:00.jpg">
   <img src="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T19:05:23.882058-04:00.jpg"
-     alt="Chalkbeat at 2022-07-27 02:05:25-04:00 local time"
+     alt="Chalkbeat at 2022-07-26 19:05:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T19:05:23.882058-04:00.jpg">July 27 at 2:05 AM</a></p>
+ <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T19:05:23.882058-04:00.jpg">July 26 at 7:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T07:13:43.463430-04:00.jpg">
   <img src="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T07:13:43.463430-04:00.jpg"
-     alt="Chalkbeat at 2022-07-26 14:13:51-04:00 local time"
+     alt="Chalkbeat at 2022-07-26 07:13:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T07:13:43.463430-04:00.jpg">July 26 at 2:13 PM</a></p>
+ <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T07:13:43.463430-04:00.jpg">July 26 at 7:13 AM</a></p>
 </div>
 
 </div>
@@ -85,11 +85,11 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 2:07 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-28T07:07:41.871756-04:00.hyperlinks.json) |
-| [July 28 at 2:03 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T19:03:48.091373-04:00.hyperlinks.json) |
-| [July 27 at 2:04 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T07:04:31.913845-04:00.hyperlinks.json) |
-| [July 27 at 2:05 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T19:05:23.882058-04:00.hyperlinks.json) |
-| [July 26 at 2:14 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T07:13:43.463430-04:00.hyperlinks.json) |
+| [July 28 at 7:07 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-28T07:07:41.871756-04:00.hyperlinks.json) |
+| [July 27 at 7:03 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T19:03:48.091373-04:00.hyperlinks.json) |
+| [July 27 at 7:04 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T07:04:31.913845-04:00.hyperlinks.json) |
+| [July 26 at 7:05 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T19:05:23.882058-04:00.hyperlinks.json) |
+| [July 26 at 7:14 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T07:13:43.463430-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -102,11 +102,11 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 2:07 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-28T07:07:41.871756-04:00.accessibility.json) |
-| [July 28 at 2:03 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T19:03:48.091373-04:00.accessibility.json) |
-| [July 27 at 2:04 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T07:04:31.913845-04:00.accessibility.json) |
-| [July 27 at 2:05 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T19:05:23.882058-04:00.accessibility.json) |
-| [July 26 at 2:14 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T07:13:43.463430-04:00.accessibility.json) |
+| [July 28 at 7:07 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-28T07:07:41.871756-04:00.accessibility.json) |
+| [July 27 at 7:03 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T19:03:48.091373-04:00.accessibility.json) |
+| [July 27 at 7:04 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T07:04:31.913845-04:00.accessibility.json) |
+| [July 26 at 7:05 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T19:05:23.882058-04:00.accessibility.json) |
+| [July 26 at 7:14 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T07:13:43.463430-04:00.accessibility.json) |
 
 
 
@@ -120,11 +120,11 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 2:07 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-28T07:07:41.871756-04:00.lighthouse.json) |
-| [July 28 at 2:03 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T19:03:48.091373-04:00.lighthouse.json) |
-| [July 27 at 2:04 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T07:04:31.913845-04:00.lighthouse.json) |
-| [July 27 at 2:05 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T19:05:23.882058-04:00.lighthouse.json) |
-| [July 26 at 2:14 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T07:13:43.463430-04:00.lighthouse.json) |
+| [July 28 at 7:07 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-28T07:07:41.871756-04:00.lighthouse.json) |
+| [July 27 at 7:03 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T19:03:48.091373-04:00.lighthouse.json) |
+| [July 27 at 7:04 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-27T07:04:31.913845-04:00.lighthouse.json) |
+| [July 26 at 7:05 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T19:05:23.882058-04:00.lighthouse.json) |
+| [July 26 at 7:14 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-07-26T07:13:43.463430-04:00.lighthouse.json) |
 
 
 

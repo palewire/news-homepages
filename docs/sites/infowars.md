@@ -31,109 +31,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/infowars-2022/infowars-2022-07-27T21:39:20.960503-05:00.jpg">
   <img src="https://archive.org/download/infowars-2022/infowars-2022-07-27T21:39:20.960503-05:00.jpg"
-     alt="Infowars at 2022-07-28 04:39:22-05:00 local time"
+     alt="Infowars at 2022-07-27 21:39:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-27T21:39:20.960503-05:00.jpg">July 28 at 4:39 AM</a></p>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-27T21:39:20.960503-05:00.jpg">July 27 at 9:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/infowars-2022/infowars-2022-07-27T09:31:17.553074-05:00.jpg">
   <img src="https://archive.org/download/infowars-2022/infowars-2022-07-27T09:31:17.553074-05:00.jpg"
-     alt="Infowars at 2022-07-27 16:31:19-05:00 local time"
+     alt="Infowars at 2022-07-27 09:31:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-27T09:31:17.553074-05:00.jpg">July 27 at 4:31 PM</a></p>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-27T09:31:17.553074-05:00.jpg">July 27 at 9:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/infowars-2022/infowars-2022-07-26T21:38:48.365197-05:00.jpg">
   <img src="https://archive.org/download/infowars-2022/infowars-2022-07-26T21:38:48.365197-05:00.jpg"
-     alt="Infowars at 2022-07-27 04:38:49-05:00 local time"
+     alt="Infowars at 2022-07-26 21:38:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-26T21:38:48.365197-05:00.jpg">July 27 at 4:38 AM</a></p>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-26T21:38:48.365197-05:00.jpg">July 26 at 9:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/infowars-2022/infowars-2022-07-26T13:35:32.588098-05:00.jpg">
   <img src="https://archive.org/download/infowars-2022/infowars-2022-07-26T13:35:32.588098-05:00.jpg"
-     alt="Infowars at 2022-07-26 20:35:34-05:00 local time"
+     alt="Infowars at 2022-07-26 13:35:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-26T13:35:32.588098-05:00.jpg">July 26 at 8:35 PM</a></p>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-26T13:35:32.588098-05:00.jpg">July 26 at 1:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/infowars-2022/infowars-2022-07-26T09:36:41.173712-05:00.jpg">
   <img src="https://archive.org/download/infowars-2022/infowars-2022-07-26T09:36:41.173712-05:00.jpg"
-     alt="Infowars at 2022-07-26 16:36:42-05:00 local time"
+     alt="Infowars at 2022-07-26 09:36:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-26T09:36:41.173712-05:00.jpg">July 26 at 4:36 PM</a></p>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-26T09:36:41.173712-05:00.jpg">July 26 at 9:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T21:45:11.844862-05:00.jpg">
   <img src="https://archive.org/download/infowars-2022/infowars-2022-07-25T21:45:11.844862-05:00.jpg"
-     alt="Infowars at 2022-07-26 04:45:13-05:00 local time"
+     alt="Infowars at 2022-07-25 21:45:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T21:45:11.844862-05:00.jpg">July 26 at 4:45 AM</a></p>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T21:45:11.844862-05:00.jpg">July 25 at 9:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T13:38:26.250036-05:00.jpg">
   <img src="https://archive.org/download/infowars-2022/infowars-2022-07-25T13:38:26.250036-05:00.jpg"
-     alt="Infowars at 2022-07-25 20:38:29-05:00 local time"
+     alt="Infowars at 2022-07-25 13:38:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T13:38:26.250036-05:00.jpg">July 25 at 8:38 PM</a></p>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T13:38:26.250036-05:00.jpg">July 25 at 1:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T11:41:11.621005-05:00.jpg">
   <img src="https://archive.org/download/infowars-2022/infowars-2022-07-25T11:41:11.621005-05:00.jpg"
-     alt="Infowars at 2022-07-25 18:41:13-05:00 local time"
+     alt="Infowars at 2022-07-25 11:41:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T11:41:11.621005-05:00.jpg">July 25 at 6:41 PM</a></p>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T11:41:11.621005-05:00.jpg">July 25 at 11:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T07:06:28.353666-05:00.jpg">
   <img src="https://archive.org/download/infowars-2022/infowars-2022-07-25T07:06:28.353666-05:00.jpg"
-     alt="Infowars at 2022-07-25 14:06:31-05:00 local time"
+     alt="Infowars at 2022-07-25 07:06:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T07:06:28.353666-05:00.jpg">July 25 at 2:06 PM</a></p>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T07:06:28.353666-05:00.jpg">July 25 at 7:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/infowars-2022/infowars-2022-07-24T20:11:55.437932-05:00.jpg">
   <img src="https://archive.org/download/infowars-2022/infowars-2022-07-24T20:11:55.437932-05:00.jpg"
-     alt="Infowars at 2022-07-25 03:11:57-05:00 local time"
+     alt="Infowars at 2022-07-24 20:11:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-24T20:11:55.437932-05:00.jpg">July 25 at 3:11 AM</a></p>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-24T20:11:55.437932-05:00.jpg">July 24 at 8:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/infowars-2022/infowars-2022-07-24T10:44:23.177878-05:00.jpg">
   <img src="https://archive.org/download/infowars-2022/infowars-2022-07-24T10:44:23.177878-05:00.jpg"
-     alt="Infowars at 2022-07-24 17:44:25-05:00 local time"
+     alt="Infowars at 2022-07-24 10:44:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-24T10:44:23.177878-05:00.jpg">July 24 at 5:44 PM</a></p>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-24T10:44:23.177878-05:00.jpg">July 24 at 10:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/infowars-2022/infowars-2022-07-24T07:03:30.328033-05:00.jpg">
   <img src="https://archive.org/download/infowars-2022/infowars-2022-07-24T07:03:30.328033-05:00.jpg"
-     alt="Infowars at 2022-07-24 14:03:31-05:00 local time"
+     alt="Infowars at 2022-07-24 07:03:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-24T07:03:30.328033-05:00.jpg">July 24 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-24T07:03:30.328033-05:00.jpg">July 24 at 7:03 AM</a></p>
 </div>
 
 </div>
@@ -231,16 +231,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 4:39 AM](https://archive.org/download/infowars-2022/infowars-2022-07-27T21:39:20.960503-05:00.hyperlinks.json) |
-| [July 27 at 4:31 PM](https://archive.org/download/infowars-2022/infowars-2022-07-27T09:31:17.553074-05:00.hyperlinks.json) |
-| [July 27 at 4:38 AM](https://archive.org/download/infowars-2022/infowars-2022-07-26T21:38:48.365197-05:00.hyperlinks.json) |
-| [July 26 at 8:35 PM](https://archive.org/download/infowars-2022/infowars-2022-07-26T13:35:32.588098-05:00.hyperlinks.json) |
-| [July 26 at 4:36 PM](https://archive.org/download/infowars-2022/infowars-2022-07-26T09:36:41.173712-05:00.hyperlinks.json) |
-| [July 26 at 4:45 AM](https://archive.org/download/infowars-2022/infowars-2022-07-25T21:45:11.844862-05:00.hyperlinks.json) |
-| [July 25 at 8:38 PM](https://archive.org/download/infowars-2022/infowars-2022-07-25T13:38:26.250036-05:00.hyperlinks.json) |
-| [July 25 at 6:41 PM](https://archive.org/download/infowars-2022/infowars-2022-07-25T11:41:11.621005-05:00.hyperlinks.json) |
-| [July 25 at 2:06 PM](https://archive.org/download/infowars-2022/infowars-2022-07-25T07:06:28.353666-05:00.hyperlinks.json) |
-| [July 25 at 3:11 AM](https://archive.org/download/infowars-2022/infowars-2022-07-24T20:11:55.437932-05:00.hyperlinks.json) |
+| [July 27 at 9:39 PM](https://archive.org/download/infowars-2022/infowars-2022-07-27T21:39:20.960503-05:00.hyperlinks.json) |
+| [July 27 at 9:31 AM](https://archive.org/download/infowars-2022/infowars-2022-07-27T09:31:17.553074-05:00.hyperlinks.json) |
+| [July 26 at 9:38 PM](https://archive.org/download/infowars-2022/infowars-2022-07-26T21:38:48.365197-05:00.hyperlinks.json) |
+| [July 26 at 1:35 PM](https://archive.org/download/infowars-2022/infowars-2022-07-26T13:35:32.588098-05:00.hyperlinks.json) |
+| [July 26 at 9:36 AM](https://archive.org/download/infowars-2022/infowars-2022-07-26T09:36:41.173712-05:00.hyperlinks.json) |
+| [July 25 at 9:45 PM](https://archive.org/download/infowars-2022/infowars-2022-07-25T21:45:11.844862-05:00.hyperlinks.json) |
+| [July 25 at 1:38 PM](https://archive.org/download/infowars-2022/infowars-2022-07-25T13:38:26.250036-05:00.hyperlinks.json) |
+| [July 25 at 11:41 AM](https://archive.org/download/infowars-2022/infowars-2022-07-25T11:41:11.621005-05:00.hyperlinks.json) |
+| [July 25 at 7:06 AM](https://archive.org/download/infowars-2022/infowars-2022-07-25T07:06:28.353666-05:00.hyperlinks.json) |
+| [July 24 at 8:11 PM](https://archive.org/download/infowars-2022/infowars-2022-07-24T20:11:55.437932-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -253,7 +253,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 19 at 4:14 PM](https://archive.org/download/infowars-2022/infowars-2022-07-19T09:14:13.160411-05:00.accessibility.json) |
+| [July 19 at 9:14 AM](https://archive.org/download/infowars-2022/infowars-2022-07-19T09:14:13.160411-05:00.accessibility.json) |
 
 
 
@@ -267,16 +267,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 4:39 AM](https://archive.org/download/infowars-2022/infowars-2022-07-27T21:39:20.960503-05:00.lighthouse.json) |
-| [July 27 at 4:31 PM](https://archive.org/download/infowars-2022/infowars-2022-07-27T09:31:17.553074-05:00.lighthouse.json) |
-| [July 27 at 4:38 AM](https://archive.org/download/infowars-2022/infowars-2022-07-26T21:38:48.365197-05:00.lighthouse.json) |
-| [July 26 at 8:35 PM](https://archive.org/download/infowars-2022/infowars-2022-07-26T13:35:32.588098-05:00.lighthouse.json) |
-| [July 26 at 4:36 PM](https://archive.org/download/infowars-2022/infowars-2022-07-26T09:36:41.173712-05:00.lighthouse.json) |
-| [July 26 at 4:45 AM](https://archive.org/download/infowars-2022/infowars-2022-07-25T21:45:11.844862-05:00.lighthouse.json) |
-| [July 25 at 8:38 PM](https://archive.org/download/infowars-2022/infowars-2022-07-25T13:38:26.250036-05:00.lighthouse.json) |
-| [July 25 at 6:41 PM](https://archive.org/download/infowars-2022/infowars-2022-07-25T11:41:11.621005-05:00.lighthouse.json) |
-| [July 25 at 2:06 PM](https://archive.org/download/infowars-2022/infowars-2022-07-25T07:06:28.353666-05:00.lighthouse.json) |
-| [July 25 at 3:12 AM](https://archive.org/download/infowars-2022/infowars-2022-07-24T20:11:55.437932-05:00.lighthouse.json) |
+| [July 27 at 9:39 PM](https://archive.org/download/infowars-2022/infowars-2022-07-27T21:39:20.960503-05:00.lighthouse.json) |
+| [July 27 at 9:31 AM](https://archive.org/download/infowars-2022/infowars-2022-07-27T09:31:17.553074-05:00.lighthouse.json) |
+| [July 26 at 9:38 PM](https://archive.org/download/infowars-2022/infowars-2022-07-26T21:38:48.365197-05:00.lighthouse.json) |
+| [July 26 at 1:35 PM](https://archive.org/download/infowars-2022/infowars-2022-07-26T13:35:32.588098-05:00.lighthouse.json) |
+| [July 26 at 9:36 AM](https://archive.org/download/infowars-2022/infowars-2022-07-26T09:36:41.173712-05:00.lighthouse.json) |
+| [July 25 at 9:45 PM](https://archive.org/download/infowars-2022/infowars-2022-07-25T21:45:11.844862-05:00.lighthouse.json) |
+| [July 25 at 1:38 PM](https://archive.org/download/infowars-2022/infowars-2022-07-25T13:38:26.250036-05:00.lighthouse.json) |
+| [July 25 at 11:41 AM](https://archive.org/download/infowars-2022/infowars-2022-07-25T11:41:11.621005-05:00.lighthouse.json) |
+| [July 25 at 7:06 AM](https://archive.org/download/infowars-2022/infowars-2022-07-25T07:06:28.353666-05:00.lighthouse.json) |
+| [July 24 at 8:12 PM](https://archive.org/download/infowars-2022/infowars-2022-07-24T20:11:55.437932-05:00.lighthouse.json) |
 
 
 

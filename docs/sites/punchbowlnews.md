@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T20:10:26.591955-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T20:10:26.591955-04:00.jpg"
-     alt="Punchbowl News at 2022-07-28 03:10:29-04:00 local time"
+     alt="Punchbowl News at 2022-07-27 20:10:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T20:10:26.591955-04:00.jpg">July 28 at 3:10 AM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T20:10:26.591955-04:00.jpg">July 27 at 8:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T09:14:37.460152-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T09:14:37.460152-04:00.jpg"
-     alt="Punchbowl News at 2022-07-27 16:14:38-04:00 local time"
+     alt="Punchbowl News at 2022-07-27 09:14:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T09:14:37.460152-04:00.jpg">July 27 at 4:14 PM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T09:14:37.460152-04:00.jpg">July 27 at 9:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T20:19:00.997569-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T20:19:00.997569-04:00.jpg"
-     alt="Punchbowl News at 2022-07-27 03:19:03-04:00 local time"
+     alt="Punchbowl News at 2022-07-26 20:19:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T20:19:00.997569-04:00.jpg">July 27 at 3:19 AM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T20:19:00.997569-04:00.jpg">July 26 at 8:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T08:28:23.786996-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T08:28:23.786996-04:00.jpg"
-     alt="Punchbowl News at 2022-07-26 15:28:25-04:00 local time"
+     alt="Punchbowl News at 2022-07-26 08:28:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T08:28:23.786996-04:00.jpg">July 26 at 3:28 PM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T08:28:23.786996-04:00.jpg">July 26 at 8:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T20:23:41.064674-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T20:23:41.064674-04:00.jpg"
-     alt="Punchbowl News at 2022-07-26 03:23:43-04:00 local time"
+     alt="Punchbowl News at 2022-07-25 20:23:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T20:23:41.064674-04:00.jpg">July 26 at 3:23 AM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T20:23:41.064674-04:00.jpg">July 25 at 8:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T11:39:01.105163-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T11:39:01.105163-04:00.jpg"
-     alt="Punchbowl News at 2022-07-25 18:39:02-04:00 local time"
+     alt="Punchbowl News at 2022-07-25 11:39:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T11:39:01.105163-04:00.jpg">July 25 at 6:39 PM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T11:39:01.105163-04:00.jpg">July 25 at 11:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T23:41:02.600627-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T23:41:02.600627-04:00.jpg"
-     alt="Punchbowl News at 2022-07-25 06:41:04-04:00 local time"
+     alt="Punchbowl News at 2022-07-24 23:41:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T23:41:02.600627-04:00.jpg">July 25 at 6:41 AM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T23:41:02.600627-04:00.jpg">July 24 at 11:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T10:02:15.600737-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T10:02:15.600737-04:00.jpg"
-     alt="Punchbowl News at 2022-07-24 17:02:17-04:00 local time"
+     alt="Punchbowl News at 2022-07-24 10:02:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T10:02:15.600737-04:00.jpg">July 24 at 5:02 PM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T10:02:15.600737-04:00.jpg">July 24 at 10:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T02:21:31.331110-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T02:21:31.331110-04:00.jpg"
-     alt="Punchbowl News at 2022-07-24 09:21:33-04:00 local time"
+     alt="Punchbowl News at 2022-07-24 02:21:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T02:21:31.331110-04:00.jpg">July 24 at 9:21 AM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T02:21:31.331110-04:00.jpg">July 24 at 2:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-23T11:08:26.384622-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-23T11:08:26.384622-04:00.jpg"
-     alt="Punchbowl News at 2022-07-23 18:08:29-04:00 local time"
+     alt="Punchbowl News at 2022-07-23 11:08:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-23T11:08:26.384622-04:00.jpg">July 23 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-23T11:08:26.384622-04:00.jpg">July 23 at 11:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T23:36:53.976452-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T23:36:53.976452-04:00.jpg"
-     alt="Punchbowl News at 2022-07-23 06:36:55-04:00 local time"
+     alt="Punchbowl News at 2022-07-22 23:36:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T23:36:53.976452-04:00.jpg">July 23 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T23:36:53.976452-04:00.jpg">July 22 at 11:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T11:03:13.518252-04:00.jpg">
   <img src="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T11:03:13.518252-04:00.jpg"
-     alt="Punchbowl News at 2022-07-22 18:03:15-04:00 local time"
+     alt="Punchbowl News at 2022-07-22 11:03:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T11:03:13.518252-04:00.jpg">July 22 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T11:03:13.518252-04:00.jpg">July 22 at 11:03 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 3:10 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T20:10:26.591955-04:00.hyperlinks.json) |
-| [July 27 at 4:14 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T09:14:37.460152-04:00.hyperlinks.json) |
-| [July 27 at 3:19 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T20:19:00.997569-04:00.hyperlinks.json) |
-| [July 26 at 3:28 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T08:28:23.786996-04:00.hyperlinks.json) |
-| [July 26 at 3:23 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T20:23:41.064674-04:00.hyperlinks.json) |
-| [July 25 at 6:39 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T11:39:01.105163-04:00.hyperlinks.json) |
-| [July 25 at 6:41 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T23:41:02.600627-04:00.hyperlinks.json) |
-| [July 24 at 5:02 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T10:02:15.600737-04:00.hyperlinks.json) |
-| [July 24 at 9:21 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T02:21:31.331110-04:00.hyperlinks.json) |
-| [July 23 at 6:08 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-23T11:08:26.384622-04:00.hyperlinks.json) |
+| [July 27 at 8:10 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T20:10:26.591955-04:00.hyperlinks.json) |
+| [July 27 at 9:14 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T09:14:37.460152-04:00.hyperlinks.json) |
+| [July 26 at 8:19 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T20:19:00.997569-04:00.hyperlinks.json) |
+| [July 26 at 8:28 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T08:28:23.786996-04:00.hyperlinks.json) |
+| [July 25 at 8:23 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T20:23:41.064674-04:00.hyperlinks.json) |
+| [July 25 at 11:39 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T11:39:01.105163-04:00.hyperlinks.json) |
+| [July 24 at 11:41 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T23:41:02.600627-04:00.hyperlinks.json) |
+| [July 24 at 10:02 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T10:02:15.600737-04:00.hyperlinks.json) |
+| [July 24 at 2:21 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T02:21:31.331110-04:00.hyperlinks.json) |
+| [July 23 at 11:08 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-23T11:08:26.384622-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 3:10 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T20:10:26.591955-04:00.accessibility.json) |
-| [July 27 at 4:14 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T09:14:37.460152-04:00.accessibility.json) |
-| [July 27 at 3:19 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T20:19:00.997569-04:00.accessibility.json) |
-| [July 26 at 3:28 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T08:28:23.786996-04:00.accessibility.json) |
-| [July 26 at 3:23 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T20:23:41.064674-04:00.accessibility.json) |
-| [July 25 at 6:39 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T11:39:01.105163-04:00.accessibility.json) |
-| [July 25 at 6:41 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T23:41:02.600627-04:00.accessibility.json) |
-| [July 24 at 5:02 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T10:02:15.600737-04:00.accessibility.json) |
-| [July 24 at 9:21 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T02:21:31.331110-04:00.accessibility.json) |
-| [July 23 at 6:08 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-23T11:08:26.384622-04:00.accessibility.json) |
+| [July 27 at 8:10 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T20:10:26.591955-04:00.accessibility.json) |
+| [July 27 at 9:14 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T09:14:37.460152-04:00.accessibility.json) |
+| [July 26 at 8:19 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T20:19:00.997569-04:00.accessibility.json) |
+| [July 26 at 8:28 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T08:28:23.786996-04:00.accessibility.json) |
+| [July 25 at 8:23 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T20:23:41.064674-04:00.accessibility.json) |
+| [July 25 at 11:39 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T11:39:01.105163-04:00.accessibility.json) |
+| [July 24 at 11:41 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T23:41:02.600627-04:00.accessibility.json) |
+| [July 24 at 10:02 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T10:02:15.600737-04:00.accessibility.json) |
+| [July 24 at 2:21 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T02:21:31.331110-04:00.accessibility.json) |
+| [July 23 at 11:08 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-23T11:08:26.384622-04:00.accessibility.json) |
 
 
 
@@ -442,15 +442,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 3:10 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T20:10:26.591955-04:00.lighthouse.json) |
-| [July 27 at 4:14 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T09:14:37.460152-04:00.lighthouse.json) |
-| [July 27 at 3:19 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T20:19:00.997569-04:00.lighthouse.json) |
-| [July 26 at 3:28 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T08:28:23.786996-04:00.lighthouse.json) |
-| [July 26 at 3:23 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T20:23:41.064674-04:00.lighthouse.json) |
-| [July 25 at 6:39 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T11:39:01.105163-04:00.lighthouse.json) |
-| [July 25 at 6:41 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T23:41:02.600627-04:00.lighthouse.json) |
-| [July 24 at 5:02 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T10:02:15.600737-04:00.lighthouse.json) |
-| [July 24 at 9:21 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T02:21:31.331110-04:00.lighthouse.json) |
+| [July 27 at 8:10 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T20:10:26.591955-04:00.lighthouse.json) |
+| [July 27 at 9:14 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-27T09:14:37.460152-04:00.lighthouse.json) |
+| [July 26 at 8:19 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T20:19:00.997569-04:00.lighthouse.json) |
+| [July 26 at 8:28 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-26T08:28:23.786996-04:00.lighthouse.json) |
+| [July 25 at 8:23 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T20:23:41.064674-04:00.lighthouse.json) |
+| [July 25 at 11:39 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-25T11:39:01.105163-04:00.lighthouse.json) |
+| [July 24 at 11:41 PM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T23:41:02.600627-04:00.lighthouse.json) |
+| [July 24 at 10:02 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T10:02:15.600737-04:00.lighthouse.json) |
+| [July 24 at 2:21 AM](https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T02:21:31.331110-04:00.lighthouse.json) |
 
 
 

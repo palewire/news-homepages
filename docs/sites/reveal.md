@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/reveal-2022/reveal-2022-07-27T20:44:04.078507-07:00.jpg">
   <img src="https://archive.org/download/reveal-2022/reveal-2022-07-27T20:44:04.078507-07:00.jpg"
-     alt="Reveal at 2022-07-28 03:44:05-07:00 local time"
+     alt="Reveal at 2022-07-27 20:44:05-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-27T20:44:04.078507-07:00.jpg">July 28 at 3:44 AM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-27T20:44:04.078507-07:00.jpg">July 27 at 8:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reveal-2022/reveal-2022-07-27T08:45:12.437127-07:00.jpg">
   <img src="https://archive.org/download/reveal-2022/reveal-2022-07-27T08:45:12.437127-07:00.jpg"
-     alt="Reveal at 2022-07-27 15:45:16-07:00 local time"
+     alt="Reveal at 2022-07-27 08:45:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-27T08:45:12.437127-07:00.jpg">July 27 at 3:45 PM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-27T08:45:12.437127-07:00.jpg">July 27 at 8:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reveal-2022/reveal-2022-07-26T20:52:59.060257-07:00.jpg">
   <img src="https://archive.org/download/reveal-2022/reveal-2022-07-26T20:52:59.060257-07:00.jpg"
-     alt="Reveal at 2022-07-27 03:53:02-07:00 local time"
+     alt="Reveal at 2022-07-26 20:53:02-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-26T20:52:59.060257-07:00.jpg">July 27 at 3:53 AM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-26T20:52:59.060257-07:00.jpg">July 26 at 8:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reveal-2022/reveal-2022-07-26T08:44:11.682816-07:00.jpg">
   <img src="https://archive.org/download/reveal-2022/reveal-2022-07-26T08:44:11.682816-07:00.jpg"
-     alt="Reveal at 2022-07-26 15:44:22-07:00 local time"
+     alt="Reveal at 2022-07-26 08:44:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-26T08:44:11.682816-07:00.jpg">July 26 at 3:44 PM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-26T08:44:11.682816-07:00.jpg">July 26 at 8:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reveal-2022/reveal-2022-07-25T20:55:43.513648-07:00.jpg">
   <img src="https://archive.org/download/reveal-2022/reveal-2022-07-25T20:55:43.513648-07:00.jpg"
-     alt="Reveal at 2022-07-26 03:55:48-07:00 local time"
+     alt="Reveal at 2022-07-25 20:55:48-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-25T20:55:43.513648-07:00.jpg">July 26 at 3:55 AM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-25T20:55:43.513648-07:00.jpg">July 25 at 8:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reveal-2022/reveal-2022-07-25T08:39:25.856182-07:00.jpg">
   <img src="https://archive.org/download/reveal-2022/reveal-2022-07-25T08:39:25.856182-07:00.jpg"
-     alt="Reveal at 2022-07-25 15:39:29-07:00 local time"
+     alt="Reveal at 2022-07-25 08:39:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-25T08:39:25.856182-07:00.jpg">July 25 at 3:39 PM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-25T08:39:25.856182-07:00.jpg">July 25 at 8:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reveal-2022/reveal-2022-07-24T20:41:58.859073-07:00.jpg">
   <img src="https://archive.org/download/reveal-2022/reveal-2022-07-24T20:41:58.859073-07:00.jpg"
-     alt="Reveal at 2022-07-25 03:42:02-07:00 local time"
+     alt="Reveal at 2022-07-24 20:42:02-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-24T20:41:58.859073-07:00.jpg">July 25 at 3:42 AM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-24T20:41:58.859073-07:00.jpg">July 24 at 8:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reveal-2022/reveal-2022-07-24T07:01:56.621972-07:00.jpg">
   <img src="https://archive.org/download/reveal-2022/reveal-2022-07-24T07:01:56.621972-07:00.jpg"
-     alt="Reveal at 2022-07-24 14:02:01-07:00 local time"
+     alt="Reveal at 2022-07-24 07:02:01-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-24T07:01:56.621972-07:00.jpg">July 24 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-24T07:01:56.621972-07:00.jpg">July 24 at 7:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reveal-2022/reveal-2022-07-23T23:21:23.114699-07:00.jpg">
   <img src="https://archive.org/download/reveal-2022/reveal-2022-07-23T23:21:23.114699-07:00.jpg"
-     alt="Reveal at 2022-07-24 06:21:27-07:00 local time"
+     alt="Reveal at 2022-07-23 23:21:27-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-23T23:21:23.114699-07:00.jpg">July 24 at 6:21 AM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-23T23:21:23.114699-07:00.jpg">July 23 at 11:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reveal-2022/reveal-2022-07-23T08:08:27.757733-07:00.jpg">
   <img src="https://archive.org/download/reveal-2022/reveal-2022-07-23T08:08:27.757733-07:00.jpg"
-     alt="Reveal at 2022-07-23 15:08:29-07:00 local time"
+     alt="Reveal at 2022-07-23 08:08:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-23T08:08:27.757733-07:00.jpg">July 23 at 3:08 PM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-23T08:08:27.757733-07:00.jpg">July 23 at 8:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reveal-2022/reveal-2022-07-22T20:37:55.921503-07:00.jpg">
   <img src="https://archive.org/download/reveal-2022/reveal-2022-07-22T20:37:55.921503-07:00.jpg"
-     alt="Reveal at 2022-07-23 03:37:57-07:00 local time"
+     alt="Reveal at 2022-07-22 20:37:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-22T20:37:55.921503-07:00.jpg">July 23 at 3:37 AM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-22T20:37:55.921503-07:00.jpg">July 22 at 8:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reveal-2022/reveal-2022-07-22T08:04:18.981519-07:00.jpg">
   <img src="https://archive.org/download/reveal-2022/reveal-2022-07-22T08:04:18.981519-07:00.jpg"
-     alt="Reveal at 2022-07-22 15:04:22-07:00 local time"
+     alt="Reveal at 2022-07-22 08:04:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-22T08:04:18.981519-07:00.jpg">July 22 at 3:04 PM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-22T08:04:18.981519-07:00.jpg">July 22 at 8:04 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 3:44 AM](https://archive.org/download/reveal-2022/reveal-2022-07-27T20:44:04.078507-07:00.hyperlinks.json) |
-| [July 27 at 3:45 PM](https://archive.org/download/reveal-2022/reveal-2022-07-27T08:45:12.437127-07:00.hyperlinks.json) |
-| [July 27 at 3:53 AM](https://archive.org/download/reveal-2022/reveal-2022-07-26T20:52:59.060257-07:00.hyperlinks.json) |
-| [July 26 at 3:44 PM](https://archive.org/download/reveal-2022/reveal-2022-07-26T08:44:11.682816-07:00.hyperlinks.json) |
-| [July 26 at 3:55 AM](https://archive.org/download/reveal-2022/reveal-2022-07-25T20:55:43.513648-07:00.hyperlinks.json) |
-| [July 25 at 3:39 PM](https://archive.org/download/reveal-2022/reveal-2022-07-25T08:39:25.856182-07:00.hyperlinks.json) |
-| [July 25 at 3:42 AM](https://archive.org/download/reveal-2022/reveal-2022-07-24T20:41:58.859073-07:00.hyperlinks.json) |
-| [July 24 at 2:02 PM](https://archive.org/download/reveal-2022/reveal-2022-07-24T07:01:56.621972-07:00.hyperlinks.json) |
-| [July 24 at 6:21 AM](https://archive.org/download/reveal-2022/reveal-2022-07-23T23:21:23.114699-07:00.hyperlinks.json) |
-| [July 23 at 3:08 PM](https://archive.org/download/reveal-2022/reveal-2022-07-23T08:08:27.757733-07:00.hyperlinks.json) |
+| [July 27 at 8:44 PM](https://archive.org/download/reveal-2022/reveal-2022-07-27T20:44:04.078507-07:00.hyperlinks.json) |
+| [July 27 at 8:45 AM](https://archive.org/download/reveal-2022/reveal-2022-07-27T08:45:12.437127-07:00.hyperlinks.json) |
+| [July 26 at 8:53 PM](https://archive.org/download/reveal-2022/reveal-2022-07-26T20:52:59.060257-07:00.hyperlinks.json) |
+| [July 26 at 8:44 AM](https://archive.org/download/reveal-2022/reveal-2022-07-26T08:44:11.682816-07:00.hyperlinks.json) |
+| [July 25 at 8:55 PM](https://archive.org/download/reveal-2022/reveal-2022-07-25T20:55:43.513648-07:00.hyperlinks.json) |
+| [July 25 at 8:39 AM](https://archive.org/download/reveal-2022/reveal-2022-07-25T08:39:25.856182-07:00.hyperlinks.json) |
+| [July 24 at 8:42 PM](https://archive.org/download/reveal-2022/reveal-2022-07-24T20:41:58.859073-07:00.hyperlinks.json) |
+| [July 24 at 7:02 AM](https://archive.org/download/reveal-2022/reveal-2022-07-24T07:01:56.621972-07:00.hyperlinks.json) |
+| [July 23 at 11:21 PM](https://archive.org/download/reveal-2022/reveal-2022-07-23T23:21:23.114699-07:00.hyperlinks.json) |
+| [July 23 at 8:08 AM](https://archive.org/download/reveal-2022/reveal-2022-07-23T08:08:27.757733-07:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 3:44 AM](https://archive.org/download/reveal-2022/reveal-2022-07-27T20:44:04.078507-07:00.accessibility.json) |
-| [July 27 at 3:45 PM](https://archive.org/download/reveal-2022/reveal-2022-07-27T08:45:12.437127-07:00.accessibility.json) |
-| [July 27 at 3:53 AM](https://archive.org/download/reveal-2022/reveal-2022-07-26T20:52:59.060257-07:00.accessibility.json) |
-| [July 26 at 3:44 PM](https://archive.org/download/reveal-2022/reveal-2022-07-26T08:44:11.682816-07:00.accessibility.json) |
-| [July 26 at 3:55 AM](https://archive.org/download/reveal-2022/reveal-2022-07-25T20:55:43.513648-07:00.accessibility.json) |
-| [July 25 at 3:39 PM](https://archive.org/download/reveal-2022/reveal-2022-07-25T08:39:25.856182-07:00.accessibility.json) |
-| [July 25 at 3:42 AM](https://archive.org/download/reveal-2022/reveal-2022-07-24T20:41:58.859073-07:00.accessibility.json) |
-| [July 24 at 2:02 PM](https://archive.org/download/reveal-2022/reveal-2022-07-24T07:01:56.621972-07:00.accessibility.json) |
-| [July 24 at 6:21 AM](https://archive.org/download/reveal-2022/reveal-2022-07-23T23:21:23.114699-07:00.accessibility.json) |
-| [July 23 at 3:08 PM](https://archive.org/download/reveal-2022/reveal-2022-07-23T08:08:27.757733-07:00.accessibility.json) |
+| [July 27 at 8:44 PM](https://archive.org/download/reveal-2022/reveal-2022-07-27T20:44:04.078507-07:00.accessibility.json) |
+| [July 27 at 8:45 AM](https://archive.org/download/reveal-2022/reveal-2022-07-27T08:45:12.437127-07:00.accessibility.json) |
+| [July 26 at 8:53 PM](https://archive.org/download/reveal-2022/reveal-2022-07-26T20:52:59.060257-07:00.accessibility.json) |
+| [July 26 at 8:44 AM](https://archive.org/download/reveal-2022/reveal-2022-07-26T08:44:11.682816-07:00.accessibility.json) |
+| [July 25 at 8:55 PM](https://archive.org/download/reveal-2022/reveal-2022-07-25T20:55:43.513648-07:00.accessibility.json) |
+| [July 25 at 8:39 AM](https://archive.org/download/reveal-2022/reveal-2022-07-25T08:39:25.856182-07:00.accessibility.json) |
+| [July 24 at 8:42 PM](https://archive.org/download/reveal-2022/reveal-2022-07-24T20:41:58.859073-07:00.accessibility.json) |
+| [July 24 at 7:02 AM](https://archive.org/download/reveal-2022/reveal-2022-07-24T07:01:56.621972-07:00.accessibility.json) |
+| [July 23 at 11:21 PM](https://archive.org/download/reveal-2022/reveal-2022-07-23T23:21:23.114699-07:00.accessibility.json) |
+| [July 23 at 8:08 AM](https://archive.org/download/reveal-2022/reveal-2022-07-23T08:08:27.757733-07:00.accessibility.json) |
 
 
 
@@ -442,15 +442,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 3:44 AM](https://archive.org/download/reveal-2022/reveal-2022-07-27T20:44:04.078507-07:00.lighthouse.json) |
-| [July 27 at 3:45 PM](https://archive.org/download/reveal-2022/reveal-2022-07-27T08:45:12.437127-07:00.lighthouse.json) |
-| [July 27 at 3:53 AM](https://archive.org/download/reveal-2022/reveal-2022-07-26T20:52:59.060257-07:00.lighthouse.json) |
-| [July 26 at 3:44 PM](https://archive.org/download/reveal-2022/reveal-2022-07-26T08:44:11.682816-07:00.lighthouse.json) |
-| [July 26 at 3:55 AM](https://archive.org/download/reveal-2022/reveal-2022-07-25T20:55:43.513648-07:00.lighthouse.json) |
-| [July 25 at 3:39 PM](https://archive.org/download/reveal-2022/reveal-2022-07-25T08:39:25.856182-07:00.lighthouse.json) |
-| [July 25 at 3:42 AM](https://archive.org/download/reveal-2022/reveal-2022-07-24T20:41:58.859073-07:00.lighthouse.json) |
-| [July 24 at 2:02 PM](https://archive.org/download/reveal-2022/reveal-2022-07-24T07:01:56.621972-07:00.lighthouse.json) |
-| [July 24 at 6:21 AM](https://archive.org/download/reveal-2022/reveal-2022-07-23T23:21:23.114699-07:00.lighthouse.json) |
+| [July 27 at 8:44 PM](https://archive.org/download/reveal-2022/reveal-2022-07-27T20:44:04.078507-07:00.lighthouse.json) |
+| [July 27 at 8:45 AM](https://archive.org/download/reveal-2022/reveal-2022-07-27T08:45:12.437127-07:00.lighthouse.json) |
+| [July 26 at 8:53 PM](https://archive.org/download/reveal-2022/reveal-2022-07-26T20:52:59.060257-07:00.lighthouse.json) |
+| [July 26 at 8:44 AM](https://archive.org/download/reveal-2022/reveal-2022-07-26T08:44:11.682816-07:00.lighthouse.json) |
+| [July 25 at 8:55 PM](https://archive.org/download/reveal-2022/reveal-2022-07-25T20:55:43.513648-07:00.lighthouse.json) |
+| [July 25 at 8:39 AM](https://archive.org/download/reveal-2022/reveal-2022-07-25T08:39:25.856182-07:00.lighthouse.json) |
+| [July 24 at 8:42 PM](https://archive.org/download/reveal-2022/reveal-2022-07-24T20:41:58.859073-07:00.lighthouse.json) |
+| [July 24 at 7:02 AM](https://archive.org/download/reveal-2022/reveal-2022-07-24T07:01:56.621972-07:00.lighthouse.json) |
+| [July 23 at 11:21 PM](https://archive.org/download/reveal-2022/reveal-2022-07-23T23:21:23.114699-07:00.lighthouse.json) |
 
 
 

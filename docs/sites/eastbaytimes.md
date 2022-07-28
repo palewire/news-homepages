@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-28T04:10:12.509986-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-28T04:10:12.509986-07:00.jpg"
-     alt="East Bay Times at 2022-07-28 11:10:17-07:00 local time"
+     alt="East Bay Times at 2022-07-28 04:10:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-28T04:10:12.509986-07:00.jpg">July 28 at 11:10 AM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-28T04:10:12.509986-07:00.jpg">July 28 at 4:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T16:06:42.176080-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T16:06:42.176080-07:00.jpg"
-     alt="East Bay Times at 2022-07-27 23:06:46-07:00 local time"
+     alt="East Bay Times at 2022-07-27 16:06:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T16:06:42.176080-07:00.jpg">July 27 at 11:06 PM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T16:06:42.176080-07:00.jpg">July 27 at 4:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T04:06:52.201618-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T04:06:52.201618-07:00.jpg"
-     alt="East Bay Times at 2022-07-27 11:06:57-07:00 local time"
+     alt="East Bay Times at 2022-07-27 04:06:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T04:06:52.201618-07:00.jpg">July 27 at 11:06 AM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T04:06:52.201618-07:00.jpg">July 27 at 4:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T16:08:55.356389-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T16:08:55.356389-07:00.jpg"
-     alt="East Bay Times at 2022-07-26 23:08:59-07:00 local time"
+     alt="East Bay Times at 2022-07-26 16:08:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T16:08:55.356389-07:00.jpg">July 26 at 11:08 PM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T16:08:55.356389-07:00.jpg">July 26 at 4:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T04:17:57.604254-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T04:17:57.604254-07:00.jpg"
-     alt="East Bay Times at 2022-07-26 11:18:06-07:00 local time"
+     alt="East Bay Times at 2022-07-26 04:18:06-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T04:17:57.604254-07:00.jpg">July 26 at 11:18 AM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T04:17:57.604254-07:00.jpg">July 26 at 4:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T16:13:04.988628-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T16:13:04.988628-07:00.jpg"
-     alt="East Bay Times at 2022-07-25 23:13:10-07:00 local time"
+     alt="East Bay Times at 2022-07-25 16:13:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T16:13:04.988628-07:00.jpg">July 25 at 11:13 PM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T16:13:04.988628-07:00.jpg">July 25 at 4:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T05:00:04.939190-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T05:00:04.939190-07:00.jpg"
-     alt="East Bay Times at 2022-07-25 12:00:10-07:00 local time"
+     alt="East Bay Times at 2022-07-25 05:00:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T05:00:04.939190-07:00.jpg">July 25 at 12:00 PM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T05:00:04.939190-07:00.jpg">July 25 at 5:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T18:02:24.049706-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T18:02:24.049706-07:00.jpg"
-     alt="East Bay Times at 2022-07-25 01:02:25-07:00 local time"
+     alt="East Bay Times at 2022-07-24 18:02:25-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T18:02:24.049706-07:00.jpg">July 25 at 1:02 AM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T18:02:24.049706-07:00.jpg">July 24 at 6:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T04:57:56.323231-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T04:57:56.323231-07:00.jpg"
-     alt="East Bay Times at 2022-07-24 11:58:02-07:00 local time"
+     alt="East Bay Times at 2022-07-24 04:58:02-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T04:57:56.323231-07:00.jpg">July 24 at 11:58 AM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T04:57:56.323231-07:00.jpg">July 24 at 4:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T23:27:25.901365-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T23:27:25.901365-07:00.jpg"
-     alt="East Bay Times at 2022-07-24 06:27:29-07:00 local time"
+     alt="East Bay Times at 2022-07-23 23:27:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T23:27:25.901365-07:00.jpg">July 24 at 6:27 AM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T23:27:25.901365-07:00.jpg">July 23 at 11:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T06:56:39.175381-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T06:56:39.175381-07:00.jpg"
-     alt="East Bay Times at 2022-07-23 13:56:41-07:00 local time"
+     alt="East Bay Times at 2022-07-23 06:56:41-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T06:56:39.175381-07:00.jpg">July 23 at 1:56 PM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T06:56:39.175381-07:00.jpg">July 23 at 6:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-22T19:23:44.957430-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-22T19:23:44.957430-07:00.jpg"
-     alt="East Bay Times at 2022-07-23 02:23:46-07:00 local time"
+     alt="East Bay Times at 2022-07-22 19:23:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-22T19:23:44.957430-07:00.jpg">July 23 at 2:23 AM</a></p>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-22T19:23:44.957430-07:00.jpg">July 22 at 7:23 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 11:10 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-28T04:10:12.509986-07:00.hyperlinks.json) |
-| [July 27 at 11:06 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T16:06:42.176080-07:00.hyperlinks.json) |
-| [July 27 at 11:07 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T04:06:52.201618-07:00.hyperlinks.json) |
-| [July 26 at 11:09 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T16:08:55.356389-07:00.hyperlinks.json) |
-| [July 26 at 11:18 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T04:17:57.604254-07:00.hyperlinks.json) |
-| [July 25 at 11:13 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T16:13:04.988628-07:00.hyperlinks.json) |
-| [July 25 at 12:00 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T05:00:04.939190-07:00.hyperlinks.json) |
-| [July 25 at 1:02 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T18:02:24.049706-07:00.hyperlinks.json) |
-| [July 24 at 11:58 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T04:57:56.323231-07:00.hyperlinks.json) |
-| [July 23 at 1:56 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T06:56:39.175381-07:00.hyperlinks.json) |
+| [July 28 at 4:10 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-28T04:10:12.509986-07:00.hyperlinks.json) |
+| [July 27 at 4:06 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T16:06:42.176080-07:00.hyperlinks.json) |
+| [July 27 at 4:07 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T04:06:52.201618-07:00.hyperlinks.json) |
+| [July 26 at 4:09 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T16:08:55.356389-07:00.hyperlinks.json) |
+| [July 26 at 4:18 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T04:17:57.604254-07:00.hyperlinks.json) |
+| [July 25 at 4:13 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T16:13:04.988628-07:00.hyperlinks.json) |
+| [July 25 at 5:00 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T05:00:04.939190-07:00.hyperlinks.json) |
+| [July 24 at 6:02 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T18:02:24.049706-07:00.hyperlinks.json) |
+| [July 24 at 4:58 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T04:57:56.323231-07:00.hyperlinks.json) |
+| [July 23 at 6:56 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T06:56:39.175381-07:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 11:10 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-28T04:10:12.509986-07:00.accessibility.json) |
-| [July 27 at 11:06 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T16:06:42.176080-07:00.accessibility.json) |
-| [July 27 at 11:06 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T04:06:52.201618-07:00.accessibility.json) |
-| [July 26 at 11:09 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T16:08:55.356389-07:00.accessibility.json) |
-| [July 26 at 11:18 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T04:17:57.604254-07:00.accessibility.json) |
-| [July 25 at 11:13 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T16:13:04.988628-07:00.accessibility.json) |
-| [July 25 at 12:00 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T05:00:04.939190-07:00.accessibility.json) |
-| [July 25 at 1:02 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T18:02:24.049706-07:00.accessibility.json) |
-| [July 24 at 11:58 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T04:57:56.323231-07:00.accessibility.json) |
-| [July 24 at 6:27 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T23:27:25.901365-07:00.accessibility.json) |
+| [July 28 at 4:10 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-28T04:10:12.509986-07:00.accessibility.json) |
+| [July 27 at 4:06 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T16:06:42.176080-07:00.accessibility.json) |
+| [July 27 at 4:06 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T04:06:52.201618-07:00.accessibility.json) |
+| [July 26 at 4:09 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T16:08:55.356389-07:00.accessibility.json) |
+| [July 26 at 4:18 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T04:17:57.604254-07:00.accessibility.json) |
+| [July 25 at 4:13 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T16:13:04.988628-07:00.accessibility.json) |
+| [July 25 at 5:00 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T05:00:04.939190-07:00.accessibility.json) |
+| [July 24 at 6:02 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T18:02:24.049706-07:00.accessibility.json) |
+| [July 24 at 4:58 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T04:57:56.323231-07:00.accessibility.json) |
+| [July 23 at 11:27 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T23:27:25.901365-07:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 11:10 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-28T04:10:12.509986-07:00.lighthouse.json) |
-| [July 27 at 11:06 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T16:06:42.176080-07:00.lighthouse.json) |
-| [July 27 at 11:07 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T04:06:52.201618-07:00.lighthouse.json) |
-| [July 26 at 11:09 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T16:08:55.356389-07:00.lighthouse.json) |
-| [July 26 at 11:18 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T04:17:57.604254-07:00.lighthouse.json) |
-| [July 25 at 11:13 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T16:13:04.988628-07:00.lighthouse.json) |
-| [July 25 at 12:00 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T05:00:04.939190-07:00.lighthouse.json) |
-| [July 25 at 1:02 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T18:02:24.049706-07:00.lighthouse.json) |
-| [July 24 at 11:58 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T04:57:56.323231-07:00.lighthouse.json) |
-| [July 24 at 6:27 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T23:27:25.901365-07:00.lighthouse.json) |
+| [July 28 at 4:10 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-28T04:10:12.509986-07:00.lighthouse.json) |
+| [July 27 at 4:06 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T16:06:42.176080-07:00.lighthouse.json) |
+| [July 27 at 4:07 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T04:06:52.201618-07:00.lighthouse.json) |
+| [July 26 at 4:09 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T16:08:55.356389-07:00.lighthouse.json) |
+| [July 26 at 4:18 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T04:17:57.604254-07:00.lighthouse.json) |
+| [July 25 at 4:13 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T16:13:04.988628-07:00.lighthouse.json) |
+| [July 25 at 5:00 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-25T05:00:04.939190-07:00.lighthouse.json) |
+| [July 24 at 6:02 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T18:02:24.049706-07:00.lighthouse.json) |
+| [July 24 at 4:58 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T04:57:56.323231-07:00.lighthouse.json) |
+| [July 23 at 11:27 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T23:27:25.901365-07:00.lighthouse.json) |
 
 
 

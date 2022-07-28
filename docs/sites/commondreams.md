@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-27T21:28:08.641710-04:00.jpg">
   <img src="https://archive.org/download/commondreams-2022/commondreams-2022-07-27T21:28:08.641710-04:00.jpg"
-     alt="Common Dreams at 2022-07-28 04:28:10-04:00 local time"
+     alt="Common Dreams at 2022-07-27 21:28:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-27T21:28:08.641710-04:00.jpg">July 28 at 4:28 AM</a></p>
+ <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-27T21:28:08.641710-04:00.jpg">July 27 at 9:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-27T09:20:02.654523-04:00.jpg">
   <img src="https://archive.org/download/commondreams-2022/commondreams-2022-07-27T09:20:02.654523-04:00.jpg"
-     alt="Common Dreams at 2022-07-27 16:20:05-04:00 local time"
+     alt="Common Dreams at 2022-07-27 09:20:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-27T09:20:02.654523-04:00.jpg">July 27 at 4:20 PM</a></p>
+ <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-27T09:20:02.654523-04:00.jpg">July 27 at 9:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-26T21:25:55.898940-04:00.jpg">
   <img src="https://archive.org/download/commondreams-2022/commondreams-2022-07-26T21:25:55.898940-04:00.jpg"
-     alt="Common Dreams at 2022-07-27 04:25:57-04:00 local time"
+     alt="Common Dreams at 2022-07-26 21:25:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-26T21:25:55.898940-04:00.jpg">July 27 at 4:25 AM</a></p>
+ <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-26T21:25:55.898940-04:00.jpg">July 26 at 9:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-26T14:36:14.539410-04:00.jpg">
   <img src="https://archive.org/download/commondreams-2022/commondreams-2022-07-26T14:36:14.539410-04:00.jpg"
-     alt="Common Dreams at 2022-07-26 21:36:18-04:00 local time"
+     alt="Common Dreams at 2022-07-26 14:36:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-26T14:36:14.539410-04:00.jpg">July 26 at 9:36 PM</a></p>
+ <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-26T14:36:14.539410-04:00.jpg">July 26 at 2:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-26T09:27:34.976110-04:00.jpg">
   <img src="https://archive.org/download/commondreams-2022/commondreams-2022-07-26T09:27:34.976110-04:00.jpg"
-     alt="Common Dreams at 2022-07-26 16:27:38-04:00 local time"
+     alt="Common Dreams at 2022-07-26 09:27:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-26T09:27:34.976110-04:00.jpg">July 26 at 4:27 PM</a></p>
+ <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-26T09:27:34.976110-04:00.jpg">July 26 at 9:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T22:59:15.357260-04:00.jpg">
   <img src="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T22:59:15.357260-04:00.jpg"
-     alt="Common Dreams at 2022-07-26 05:59:18-04:00 local time"
+     alt="Common Dreams at 2022-07-25 22:59:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T22:59:15.357260-04:00.jpg">July 26 at 5:59 AM</a></p>
+ <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T22:59:15.357260-04:00.jpg">July 25 at 10:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T21:32:23.587422-04:00.jpg">
   <img src="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T21:32:23.587422-04:00.jpg"
-     alt="Common Dreams at 2022-07-26 04:32:25-04:00 local time"
+     alt="Common Dreams at 2022-07-25 21:32:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T21:32:23.587422-04:00.jpg">July 26 at 4:32 AM</a></p>
+ <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T21:32:23.587422-04:00.jpg">July 25 at 9:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T14:40:03.151030-04:00.jpg">
   <img src="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T14:40:03.151030-04:00.jpg"
-     alt="Common Dreams at 2022-07-25 21:40:05-04:00 local time"
+     alt="Common Dreams at 2022-07-25 14:40:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T14:40:03.151030-04:00.jpg">July 25 at 9:40 PM</a></p>
+ <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T14:40:03.151030-04:00.jpg">July 25 at 2:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T12:36:47.895273-04:00.jpg">
   <img src="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T12:36:47.895273-04:00.jpg"
-     alt="Common Dreams at 2022-07-25 19:36:49-04:00 local time"
+     alt="Common Dreams at 2022-07-25 12:36:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T12:36:47.895273-04:00.jpg">July 25 at 7:36 PM</a></p>
+ <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T12:36:47.895273-04:00.jpg">July 25 at 12:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T07:03:52.146082-04:00.jpg">
   <img src="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T07:03:52.146082-04:00.jpg"
-     alt="Common Dreams at 2022-07-25 14:03:54-04:00 local time"
+     alt="Common Dreams at 2022-07-25 07:03:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T07:03:52.146082-04:00.jpg">July 25 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-25T07:03:52.146082-04:00.jpg">July 25 at 7:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-24T20:56:28.876506-04:00.jpg">
   <img src="https://archive.org/download/commondreams-2022/commondreams-2022-07-24T20:56:28.876506-04:00.jpg"
-     alt="Common Dreams at 2022-07-25 03:56:30-04:00 local time"
+     alt="Common Dreams at 2022-07-24 20:56:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-24T20:56:28.876506-04:00.jpg">July 25 at 3:56 AM</a></p>
+ <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-24T20:56:28.876506-04:00.jpg">July 24 at 8:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-24T11:42:16.318480-04:00.jpg">
   <img src="https://archive.org/download/commondreams-2022/commondreams-2022-07-24T11:42:16.318480-04:00.jpg"
-     alt="Common Dreams at 2022-07-24 18:42:18-04:00 local time"
+     alt="Common Dreams at 2022-07-24 11:42:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-24T11:42:16.318480-04:00.jpg">July 24 at 6:42 PM</a></p>
+ <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-07-24T11:42:16.318480-04:00.jpg">July 24 at 11:42 AM</a></p>
 </div>
 
 </div>
@@ -231,16 +231,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 4:28 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-27T21:28:08.641710-04:00.hyperlinks.json) |
-| [July 27 at 4:20 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-27T09:20:02.654523-04:00.hyperlinks.json) |
-| [July 27 at 4:26 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T21:25:55.898940-04:00.hyperlinks.json) |
-| [July 26 at 9:36 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T14:36:14.539410-04:00.hyperlinks.json) |
-| [July 26 at 4:27 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T09:27:34.976110-04:00.hyperlinks.json) |
-| [July 26 at 5:59 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T22:59:15.357260-04:00.hyperlinks.json) |
-| [July 26 at 4:32 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T21:32:23.587422-04:00.hyperlinks.json) |
-| [July 25 at 9:40 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T14:40:03.151030-04:00.hyperlinks.json) |
-| [July 25 at 7:36 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T12:36:47.895273-04:00.hyperlinks.json) |
-| [July 25 at 2:04 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T07:03:52.146082-04:00.hyperlinks.json) |
+| [July 27 at 9:28 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-27T21:28:08.641710-04:00.hyperlinks.json) |
+| [July 27 at 9:20 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-27T09:20:02.654523-04:00.hyperlinks.json) |
+| [July 26 at 9:26 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T21:25:55.898940-04:00.hyperlinks.json) |
+| [July 26 at 2:36 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T14:36:14.539410-04:00.hyperlinks.json) |
+| [July 26 at 9:27 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T09:27:34.976110-04:00.hyperlinks.json) |
+| [July 25 at 10:59 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T22:59:15.357260-04:00.hyperlinks.json) |
+| [July 25 at 9:32 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T21:32:23.587422-04:00.hyperlinks.json) |
+| [July 25 at 2:40 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T14:40:03.151030-04:00.hyperlinks.json) |
+| [July 25 at 12:36 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T12:36:47.895273-04:00.hyperlinks.json) |
+| [July 25 at 7:04 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T07:03:52.146082-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -336,16 +336,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 4:28 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-27T21:28:08.641710-04:00.accessibility.json) |
-| [July 27 at 4:20 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-27T09:20:02.654523-04:00.accessibility.json) |
-| [July 27 at 4:25 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T21:25:55.898940-04:00.accessibility.json) |
-| [July 26 at 9:36 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T14:36:14.539410-04:00.accessibility.json) |
-| [July 26 at 4:27 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T09:27:34.976110-04:00.accessibility.json) |
-| [July 26 at 5:59 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T22:59:15.357260-04:00.accessibility.json) |
-| [July 26 at 4:32 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T21:32:23.587422-04:00.accessibility.json) |
-| [July 25 at 9:40 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T14:40:03.151030-04:00.accessibility.json) |
-| [July 25 at 7:36 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T12:36:47.895273-04:00.accessibility.json) |
-| [July 25 at 2:03 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T07:03:52.146082-04:00.accessibility.json) |
+| [July 27 at 9:28 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-27T21:28:08.641710-04:00.accessibility.json) |
+| [July 27 at 9:20 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-27T09:20:02.654523-04:00.accessibility.json) |
+| [July 26 at 9:25 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T21:25:55.898940-04:00.accessibility.json) |
+| [July 26 at 2:36 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T14:36:14.539410-04:00.accessibility.json) |
+| [July 26 at 9:27 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T09:27:34.976110-04:00.accessibility.json) |
+| [July 25 at 10:59 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T22:59:15.357260-04:00.accessibility.json) |
+| [July 25 at 9:32 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T21:32:23.587422-04:00.accessibility.json) |
+| [July 25 at 2:40 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T14:40:03.151030-04:00.accessibility.json) |
+| [July 25 at 12:36 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T12:36:47.895273-04:00.accessibility.json) |
+| [July 25 at 7:03 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T07:03:52.146082-04:00.accessibility.json) |
 
 
 
@@ -359,16 +359,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 4:28 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-27T21:28:08.641710-04:00.lighthouse.json) |
-| [July 27 at 4:20 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-27T09:20:02.654523-04:00.lighthouse.json) |
-| [July 27 at 4:26 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T21:25:55.898940-04:00.lighthouse.json) |
-| [July 26 at 9:36 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T14:36:14.539410-04:00.lighthouse.json) |
-| [July 26 at 4:27 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T09:27:34.976110-04:00.lighthouse.json) |
-| [July 26 at 5:59 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T22:59:15.357260-04:00.lighthouse.json) |
-| [July 26 at 4:32 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T21:32:23.587422-04:00.lighthouse.json) |
-| [July 25 at 9:40 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T14:40:03.151030-04:00.lighthouse.json) |
-| [July 25 at 7:36 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T12:36:47.895273-04:00.lighthouse.json) |
-| [July 25 at 2:04 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T07:03:52.146082-04:00.lighthouse.json) |
+| [July 27 at 9:28 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-27T21:28:08.641710-04:00.lighthouse.json) |
+| [July 27 at 9:20 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-27T09:20:02.654523-04:00.lighthouse.json) |
+| [July 26 at 9:26 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T21:25:55.898940-04:00.lighthouse.json) |
+| [July 26 at 2:36 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T14:36:14.539410-04:00.lighthouse.json) |
+| [July 26 at 9:27 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-26T09:27:34.976110-04:00.lighthouse.json) |
+| [July 25 at 10:59 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T22:59:15.357260-04:00.lighthouse.json) |
+| [July 25 at 9:32 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T21:32:23.587422-04:00.lighthouse.json) |
+| [July 25 at 2:40 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T14:40:03.151030-04:00.lighthouse.json) |
+| [July 25 at 12:36 PM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T12:36:47.895273-04:00.lighthouse.json) |
+| [July 25 at 7:04 AM](https://archive.org/download/commondreams-2022/commondreams-2022-07-25T07:03:52.146082-04:00.lighthouse.json) |
 
 
 

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-27T23:41:38.642864-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-07-27T23:41:38.642864-04:00.jpg"
-     alt="New York Times at 2022-07-28 06:41:40-04:00 local time"
+     alt="New York Times at 2022-07-27 23:41:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-27T23:41:38.642864-04:00.jpg">July 28 at 6:41 AM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-27T23:41:38.642864-04:00.jpg">July 27 at 11:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-27T17:13:15.199005-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-07-27T17:13:15.199005-04:00.jpg"
-     alt="New York Times at 2022-07-28 00:13:17-04:00 local time"
+     alt="New York Times at 2022-07-27 17:13:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-27T17:13:15.199005-04:00.jpg">July 28 at 12:13 AM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-27T17:13:15.199005-04:00.jpg">July 27 at 5:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:59:44.417895-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:59:44.417895-04:00.jpg"
-     alt="New York Times at 2022-07-27 18:59:52-04:00 local time"
+     alt="New York Times at 2022-07-27 11:59:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:59:44.417895-04:00.jpg">July 27 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:59:44.417895-04:00.jpg">July 27 at 11:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:43:47.598511-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:43:47.598511-04:00.jpg"
-     alt="New York Times at 2022-07-27 18:44:13-04:00 local time"
+     alt="New York Times at 2022-07-27 11:44:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:43:47.598511-04:00.jpg">July 27 at 6:44 PM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:43:47.598511-04:00.jpg">July 27 at 11:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-26T23:50:45.007862-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-07-26T23:50:45.007862-04:00.jpg"
-     alt="New York Times at 2022-07-27 06:51:29-04:00 local time"
+     alt="New York Times at 2022-07-26 23:51:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-26T23:50:45.007862-04:00.jpg">July 27 at 6:51 AM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-26T23:50:45.007862-04:00.jpg">July 26 at 11:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-26T17:11:52.630462-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-07-26T17:11:52.630462-04:00.jpg"
-     alt="New York Times at 2022-07-27 00:11:55-04:00 local time"
+     alt="New York Times at 2022-07-26 17:11:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-26T17:11:52.630462-04:00.jpg">July 27 at 12:11 AM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-26T17:11:52.630462-04:00.jpg">July 26 at 5:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:58:35.521167-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:58:35.521167-04:00.jpg"
-     alt="New York Times at 2022-07-26 18:58:37-04:00 local time"
+     alt="New York Times at 2022-07-26 11:58:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:58:35.521167-04:00.jpg">July 26 at 6:58 PM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:58:35.521167-04:00.jpg">July 26 at 11:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:41:45.759952-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:41:45.759952-04:00.jpg"
-     alt="New York Times at 2022-07-26 18:41:48-04:00 local time"
+     alt="New York Times at 2022-07-26 11:41:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:41:45.759952-04:00.jpg">July 26 at 6:41 PM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:41:45.759952-04:00.jpg">July 26 at 11:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T23:53:17.713722-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T23:53:17.713722-04:00.jpg"
-     alt="New York Times at 2022-07-26 06:53:28-04:00 local time"
+     alt="New York Times at 2022-07-25 23:53:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T23:53:17.713722-04:00.jpg">July 26 at 6:53 AM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T23:53:17.713722-04:00.jpg">July 25 at 11:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T17:14:16.098405-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T17:14:16.098405-04:00.jpg"
-     alt="New York Times at 2022-07-26 00:14:18-04:00 local time"
+     alt="New York Times at 2022-07-25 17:14:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T17:14:16.098405-04:00.jpg">July 26 at 12:14 AM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T17:14:16.098405-04:00.jpg">July 25 at 5:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T11:55:55.204985-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T11:55:55.204985-04:00.jpg"
-     alt="New York Times at 2022-07-25 18:55:57-04:00 local time"
+     alt="New York Times at 2022-07-25 11:55:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T11:55:55.204985-04:00.jpg">July 25 at 6:55 PM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T11:55:55.204985-04:00.jpg">July 25 at 11:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T11:34:25.234492-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T11:34:25.234492-04:00.jpg"
-     alt="New York Times at 2022-07-25 18:34:27-04:00 local time"
+     alt="New York Times at 2022-07-25 11:34:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T11:34:25.234492-04:00.jpg">July 25 at 6:34 PM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-25T11:34:25.234492-04:00.jpg">July 25 at 11:34 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 6:41 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T23:41:38.642864-04:00.hyperlinks.json) |
-| [July 28 at 12:13 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T17:13:15.199005-04:00.hyperlinks.json) |
-| [July 27 at 6:59 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:59:44.417895-04:00.hyperlinks.json) |
-| [July 27 at 6:44 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:43:47.598511-04:00.hyperlinks.json) |
-| [July 27 at 6:51 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T23:50:45.007862-04:00.hyperlinks.json) |
-| [July 27 at 12:12 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T17:11:52.630462-04:00.hyperlinks.json) |
-| [July 26 at 6:58 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:58:35.521167-04:00.hyperlinks.json) |
-| [July 26 at 6:41 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:41:45.759952-04:00.hyperlinks.json) |
-| [July 26 at 6:53 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-25T23:53:17.713722-04:00.hyperlinks.json) |
-| [July 26 at 12:14 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-25T17:14:16.098405-04:00.hyperlinks.json) |
+| [July 27 at 11:41 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T23:41:38.642864-04:00.hyperlinks.json) |
+| [July 27 at 5:13 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T17:13:15.199005-04:00.hyperlinks.json) |
+| [July 27 at 11:59 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:59:44.417895-04:00.hyperlinks.json) |
+| [July 27 at 11:44 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:43:47.598511-04:00.hyperlinks.json) |
+| [July 26 at 11:51 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T23:50:45.007862-04:00.hyperlinks.json) |
+| [July 26 at 5:12 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T17:11:52.630462-04:00.hyperlinks.json) |
+| [July 26 at 11:58 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:58:35.521167-04:00.hyperlinks.json) |
+| [July 26 at 11:41 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:41:45.759952-04:00.hyperlinks.json) |
+| [July 25 at 11:53 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-25T23:53:17.713722-04:00.hyperlinks.json) |
+| [July 25 at 5:14 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-25T17:14:16.098405-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 6:41 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T23:41:38.642864-04:00.accessibility.json) |
-| [July 28 at 12:13 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T17:13:15.199005-04:00.accessibility.json) |
-| [July 27 at 6:59 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:59:44.417895-04:00.accessibility.json) |
-| [July 27 at 6:44 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:43:47.598511-04:00.accessibility.json) |
-| [July 27 at 6:51 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T23:50:45.007862-04:00.accessibility.json) |
-| [July 27 at 12:11 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T17:11:52.630462-04:00.accessibility.json) |
-| [July 26 at 6:58 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:58:35.521167-04:00.accessibility.json) |
-| [July 26 at 6:41 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:41:45.759952-04:00.accessibility.json) |
-| [July 26 at 6:53 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-25T23:53:17.713722-04:00.accessibility.json) |
-| [July 26 at 12:14 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-25T17:14:16.098405-04:00.accessibility.json) |
+| [July 27 at 11:41 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T23:41:38.642864-04:00.accessibility.json) |
+| [July 27 at 5:13 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T17:13:15.199005-04:00.accessibility.json) |
+| [July 27 at 11:59 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:59:44.417895-04:00.accessibility.json) |
+| [July 27 at 11:44 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:43:47.598511-04:00.accessibility.json) |
+| [July 26 at 11:51 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T23:50:45.007862-04:00.accessibility.json) |
+| [July 26 at 5:11 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T17:11:52.630462-04:00.accessibility.json) |
+| [July 26 at 11:58 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:58:35.521167-04:00.accessibility.json) |
+| [July 26 at 11:41 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:41:45.759952-04:00.accessibility.json) |
+| [July 25 at 11:53 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-25T23:53:17.713722-04:00.accessibility.json) |
+| [July 25 at 5:14 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-25T17:14:16.098405-04:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 6:41 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T23:41:38.642864-04:00.lighthouse.json) |
-| [July 28 at 12:13 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T17:13:15.199005-04:00.lighthouse.json) |
-| [July 27 at 6:59 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:59:44.417895-04:00.lighthouse.json) |
-| [July 27 at 6:44 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:43:47.598511-04:00.lighthouse.json) |
-| [July 27 at 6:51 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T23:50:45.007862-04:00.lighthouse.json) |
-| [July 27 at 12:12 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T17:11:52.630462-04:00.lighthouse.json) |
-| [July 26 at 6:58 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:58:35.521167-04:00.lighthouse.json) |
-| [July 26 at 6:41 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:41:45.759952-04:00.lighthouse.json) |
-| [July 26 at 6:53 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-25T23:53:17.713722-04:00.lighthouse.json) |
-| [July 26 at 12:14 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-25T17:14:16.098405-04:00.lighthouse.json) |
+| [July 27 at 11:41 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T23:41:38.642864-04:00.lighthouse.json) |
+| [July 27 at 5:13 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T17:13:15.199005-04:00.lighthouse.json) |
+| [July 27 at 11:59 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:59:44.417895-04:00.lighthouse.json) |
+| [July 27 at 11:44 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-27T11:43:47.598511-04:00.lighthouse.json) |
+| [July 26 at 11:51 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T23:50:45.007862-04:00.lighthouse.json) |
+| [July 26 at 5:12 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T17:11:52.630462-04:00.lighthouse.json) |
+| [July 26 at 11:58 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:58:35.521167-04:00.lighthouse.json) |
+| [July 26 at 11:41 AM](https://archive.org/download/nytimes-2022/nytimes-2022-07-26T11:41:45.759952-04:00.lighthouse.json) |
+| [July 25 at 11:53 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-25T23:53:17.713722-04:00.lighthouse.json) |
+| [July 25 at 5:14 PM](https://archive.org/download/nytimes-2022/nytimes-2022-07-25T17:14:16.098405-04:00.lighthouse.json) |
 
 
 

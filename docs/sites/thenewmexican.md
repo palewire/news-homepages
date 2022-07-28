@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T21:47:50.559944-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T21:47:50.559944-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-28 04:47:54-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-27 21:47:54-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T21:47:50.559944-06:00.jpg">July 28 at 4:47 AM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T21:47:50.559944-06:00.jpg">July 27 at 9:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T09:49:09.111152-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T09:49:09.111152-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-27 16:49:13-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-27 09:49:13-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T09:49:09.111152-06:00.jpg">July 27 at 4:49 PM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T09:49:09.111152-06:00.jpg">July 27 at 9:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T21:55:00.230683-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T21:55:00.230683-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-27 04:55:02-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-26 21:55:02-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T21:55:00.230683-06:00.jpg">July 27 at 4:55 AM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T21:55:00.230683-06:00.jpg">July 26 at 9:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T09:48:15.609833-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T09:48:15.609833-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-26 16:48:19-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-26 09:48:19-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T09:48:15.609833-06:00.jpg">July 26 at 4:48 PM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T09:48:15.609833-06:00.jpg">July 26 at 9:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T21:59:28.032646-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T21:59:28.032646-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-26 04:59:33-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-25 21:59:33-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T21:59:28.032646-06:00.jpg">July 26 at 4:59 AM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T21:59:28.032646-06:00.jpg">July 25 at 9:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T09:47:47.351149-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T09:47:47.351149-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-25 16:47:51-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-25 09:47:51-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T09:47:47.351149-06:00.jpg">July 25 at 4:47 PM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T09:47:47.351149-06:00.jpg">July 25 at 9:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T22:36:51.428252-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T22:36:51.428252-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-25 05:37:00-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-24 22:37:00-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T22:36:51.428252-06:00.jpg">July 25 at 5:37 AM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T22:36:51.428252-06:00.jpg">July 24 at 10:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T09:06:44.754730-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T09:06:44.754730-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-24 16:06:48-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-24 09:06:48-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T09:06:44.754730-06:00.jpg">July 24 at 4:06 PM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T09:06:44.754730-06:00.jpg">July 24 at 9:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T21:42:17.171671-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T21:42:17.171671-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-24 04:42:20-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-23 21:42:20-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T21:42:17.171671-06:00.jpg">July 24 at 4:42 AM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T21:42:17.171671-06:00.jpg">July 23 at 9:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T10:05:33.541768-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T10:05:33.541768-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-23 17:05:34-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-23 10:05:34-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T10:05:33.541768-06:00.jpg">July 23 at 5:05 PM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T10:05:33.541768-06:00.jpg">July 23 at 10:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-22T22:25:45.004623-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-22T22:25:45.004623-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-23 05:25:49-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-22 22:25:49-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-22T22:25:45.004623-06:00.jpg">July 23 at 5:25 AM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-22T22:25:45.004623-06:00.jpg">July 22 at 10:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-22T10:18:00.555178-06:00.jpg">
   <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-22T10:18:00.555178-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-22 17:18:05-06:00 local time"
+     alt="Santa Fe New Mexican at 2022-07-22 10:18:05-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-22T10:18:00.555178-06:00.jpg">July 22 at 5:18 PM</a></p>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-22T10:18:00.555178-06:00.jpg">July 22 at 10:18 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 4:47 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T21:47:50.559944-06:00.hyperlinks.json) |
-| [July 27 at 4:49 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T09:49:09.111152-06:00.hyperlinks.json) |
-| [July 27 at 4:55 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T21:55:00.230683-06:00.hyperlinks.json) |
-| [July 26 at 4:48 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T09:48:15.609833-06:00.hyperlinks.json) |
-| [July 26 at 4:59 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T21:59:28.032646-06:00.hyperlinks.json) |
-| [July 25 at 4:47 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T09:47:47.351149-06:00.hyperlinks.json) |
-| [July 25 at 5:37 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T22:36:51.428252-06:00.hyperlinks.json) |
-| [July 24 at 4:06 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T09:06:44.754730-06:00.hyperlinks.json) |
-| [July 24 at 4:42 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T21:42:17.171671-06:00.hyperlinks.json) |
-| [July 23 at 5:25 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-22T22:25:45.004623-06:00.hyperlinks.json) |
+| [July 27 at 9:47 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T21:47:50.559944-06:00.hyperlinks.json) |
+| [July 27 at 9:49 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T09:49:09.111152-06:00.hyperlinks.json) |
+| [July 26 at 9:55 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T21:55:00.230683-06:00.hyperlinks.json) |
+| [July 26 at 9:48 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T09:48:15.609833-06:00.hyperlinks.json) |
+| [July 25 at 9:59 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T21:59:28.032646-06:00.hyperlinks.json) |
+| [July 25 at 9:47 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T09:47:47.351149-06:00.hyperlinks.json) |
+| [July 24 at 10:37 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T22:36:51.428252-06:00.hyperlinks.json) |
+| [July 24 at 9:06 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T09:06:44.754730-06:00.hyperlinks.json) |
+| [July 23 at 9:42 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T21:42:17.171671-06:00.hyperlinks.json) |
+| [July 22 at 10:25 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-22T22:25:45.004623-06:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 4:47 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T21:47:50.559944-06:00.accessibility.json) |
-| [July 27 at 4:49 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T09:49:09.111152-06:00.accessibility.json) |
-| [July 27 at 4:55 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T21:55:00.230683-06:00.accessibility.json) |
-| [July 26 at 4:48 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T09:48:15.609833-06:00.accessibility.json) |
-| [July 26 at 4:59 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T21:59:28.032646-06:00.accessibility.json) |
-| [July 25 at 4:47 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T09:47:47.351149-06:00.accessibility.json) |
-| [July 25 at 5:37 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T22:36:51.428252-06:00.accessibility.json) |
-| [July 24 at 4:06 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T09:06:44.754730-06:00.accessibility.json) |
-| [July 24 at 4:42 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T21:42:17.171671-06:00.accessibility.json) |
-| [July 23 at 5:05 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T10:05:33.541768-06:00.accessibility.json) |
+| [July 27 at 9:47 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T21:47:50.559944-06:00.accessibility.json) |
+| [July 27 at 9:49 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T09:49:09.111152-06:00.accessibility.json) |
+| [July 26 at 9:55 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T21:55:00.230683-06:00.accessibility.json) |
+| [July 26 at 9:48 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T09:48:15.609833-06:00.accessibility.json) |
+| [July 25 at 9:59 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T21:59:28.032646-06:00.accessibility.json) |
+| [July 25 at 9:47 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T09:47:47.351149-06:00.accessibility.json) |
+| [July 24 at 10:37 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T22:36:51.428252-06:00.accessibility.json) |
+| [July 24 at 9:06 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T09:06:44.754730-06:00.accessibility.json) |
+| [July 23 at 9:42 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T21:42:17.171671-06:00.accessibility.json) |
+| [July 23 at 10:05 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T10:05:33.541768-06:00.accessibility.json) |
 
 
 
@@ -442,15 +442,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 4:48 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T21:47:50.559944-06:00.lighthouse.json) |
-| [July 27 at 4:49 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T09:49:09.111152-06:00.lighthouse.json) |
-| [July 27 at 4:55 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T21:55:00.230683-06:00.lighthouse.json) |
-| [July 26 at 4:48 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T09:48:15.609833-06:00.lighthouse.json) |
-| [July 26 at 4:59 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T21:59:28.032646-06:00.lighthouse.json) |
-| [July 25 at 4:47 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T09:47:47.351149-06:00.lighthouse.json) |
-| [July 25 at 5:37 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T22:36:51.428252-06:00.lighthouse.json) |
-| [July 24 at 4:06 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T09:06:44.754730-06:00.lighthouse.json) |
-| [July 24 at 4:42 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T21:42:17.171671-06:00.lighthouse.json) |
+| [July 27 at 9:48 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T21:47:50.559944-06:00.lighthouse.json) |
+| [July 27 at 9:49 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T09:49:09.111152-06:00.lighthouse.json) |
+| [July 26 at 9:55 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T21:55:00.230683-06:00.lighthouse.json) |
+| [July 26 at 9:48 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T09:48:15.609833-06:00.lighthouse.json) |
+| [July 25 at 9:59 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T21:59:28.032646-06:00.lighthouse.json) |
+| [July 25 at 9:47 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T09:47:47.351149-06:00.lighthouse.json) |
+| [July 24 at 10:37 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T22:36:51.428252-06:00.lighthouse.json) |
+| [July 24 at 9:06 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T09:06:44.754730-06:00.lighthouse.json) |
+| [July 23 at 9:42 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-23T21:42:17.171671-06:00.lighthouse.json) |
 
 
 

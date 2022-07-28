@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-28T07:05:37.671353-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-28T07:05:37.671353-04:00.jpg"
-     alt="Black by God at 2022-07-28 14:05:39-04:00 local time"
+     alt="Black by God at 2022-07-28 07:05:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-28T07:05:37.671353-04:00.jpg">July 28 at 2:05 PM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-28T07:05:37.671353-04:00.jpg">July 28 at 7:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T19:02:04.453048-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T19:02:04.453048-04:00.jpg"
-     alt="Black by God at 2022-07-28 02:02:06-04:00 local time"
+     alt="Black by God at 2022-07-27 19:02:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T19:02:04.453048-04:00.jpg">July 28 at 2:02 AM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T19:02:04.453048-04:00.jpg">July 27 at 7:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T07:02:31.289421-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T07:02:31.289421-04:00.jpg"
-     alt="Black by God at 2022-07-27 14:02:33-04:00 local time"
+     alt="Black by God at 2022-07-27 07:02:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T07:02:31.289421-04:00.jpg">July 27 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T07:02:31.289421-04:00.jpg">July 27 at 7:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T19:04:26.702903-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T19:04:26.702903-04:00.jpg"
-     alt="Black by God at 2022-07-27 02:04:28-04:00 local time"
+     alt="Black by God at 2022-07-26 19:04:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T19:04:26.702903-04:00.jpg">July 27 at 2:04 AM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T19:04:26.702903-04:00.jpg">July 26 at 7:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T07:12:32.028184-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T07:12:32.028184-04:00.jpg"
-     alt="Black by God at 2022-07-26 14:12:33-04:00 local time"
+     alt="Black by God at 2022-07-26 07:12:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T07:12:32.028184-04:00.jpg">July 26 at 2:12 PM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T07:12:32.028184-04:00.jpg">July 26 at 7:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T19:07:32.154312-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T19:07:32.154312-04:00.jpg"
-     alt="Black by God at 2022-07-26 02:07:34-04:00 local time"
+     alt="Black by God at 2022-07-25 19:07:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T19:07:32.154312-04:00.jpg">July 26 at 2:07 AM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T19:07:32.154312-04:00.jpg">July 25 at 7:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T06:59:59.169741-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T06:59:59.169741-04:00.jpg"
-     alt="Black by God at 2022-07-25 14:00:01-04:00 local time"
+     alt="Black by God at 2022-07-25 07:00:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T06:59:59.169741-04:00.jpg">July 25 at 2:00 PM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T06:59:59.169741-04:00.jpg">July 25 at 7:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T20:51:41.565144-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T20:51:41.565144-04:00.jpg"
-     alt="Black by God at 2022-07-25 03:51:43-04:00 local time"
+     alt="Black by God at 2022-07-24 20:51:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T20:51:41.565144-04:00.jpg">July 25 at 3:51 AM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T20:51:41.565144-04:00.jpg">July 24 at 8:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T06:58:45.034456-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T06:58:45.034456-04:00.jpg"
-     alt="Black by God at 2022-07-24 13:58:47-04:00 local time"
+     alt="Black by God at 2022-07-24 06:58:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T06:58:45.034456-04:00.jpg">July 24 at 1:58 PM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T06:58:45.034456-04:00.jpg">July 24 at 6:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T19:01:06.451619-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T19:01:06.451619-04:00.jpg"
-     alt="Black by God at 2022-07-24 02:01:07-04:00 local time"
+     alt="Black by God at 2022-07-23 19:01:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T19:01:06.451619-04:00.jpg">July 24 at 2:01 AM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T19:01:06.451619-04:00.jpg">July 23 at 7:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T08:58:30.668979-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T08:58:30.668979-04:00.jpg"
-     alt="Black by God at 2022-07-23 15:58:31-04:00 local time"
+     alt="Black by God at 2022-07-23 08:58:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T08:58:30.668979-04:00.jpg">July 23 at 3:58 PM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T08:58:30.668979-04:00.jpg">July 23 at 8:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-22T20:58:30.822799-04:00.jpg">
   <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-22T20:58:30.822799-04:00.jpg"
-     alt="Black by God at 2022-07-23 03:58:32-04:00 local time"
+     alt="Black by God at 2022-07-22 20:58:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-22T20:58:30.822799-04:00.jpg">July 23 at 3:58 AM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-22T20:58:30.822799-04:00.jpg">July 22 at 8:58 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 2:05 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-28T07:05:37.671353-04:00.hyperlinks.json) |
-| [July 28 at 2:02 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T19:02:04.453048-04:00.hyperlinks.json) |
-| [July 27 at 2:02 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T07:02:31.289421-04:00.hyperlinks.json) |
-| [July 27 at 2:04 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T19:04:26.702903-04:00.hyperlinks.json) |
-| [July 26 at 2:12 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T07:12:32.028184-04:00.hyperlinks.json) |
-| [July 26 at 2:07 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T19:07:32.154312-04:00.hyperlinks.json) |
-| [July 25 at 2:00 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T06:59:59.169741-04:00.hyperlinks.json) |
-| [July 25 at 3:51 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T20:51:41.565144-04:00.hyperlinks.json) |
-| [July 24 at 1:58 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T06:58:45.034456-04:00.hyperlinks.json) |
-| [July 24 at 2:01 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T19:01:06.451619-04:00.hyperlinks.json) |
+| [July 28 at 7:05 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-28T07:05:37.671353-04:00.hyperlinks.json) |
+| [July 27 at 7:02 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T19:02:04.453048-04:00.hyperlinks.json) |
+| [July 27 at 7:02 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T07:02:31.289421-04:00.hyperlinks.json) |
+| [July 26 at 7:04 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T19:04:26.702903-04:00.hyperlinks.json) |
+| [July 26 at 7:12 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T07:12:32.028184-04:00.hyperlinks.json) |
+| [July 25 at 7:07 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T19:07:32.154312-04:00.hyperlinks.json) |
+| [July 25 at 7:00 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T06:59:59.169741-04:00.hyperlinks.json) |
+| [July 24 at 8:51 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T20:51:41.565144-04:00.hyperlinks.json) |
+| [July 24 at 6:58 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T06:58:45.034456-04:00.hyperlinks.json) |
+| [July 23 at 7:01 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T19:01:06.451619-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 2:05 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-28T07:05:37.671353-04:00.accessibility.json) |
-| [July 28 at 2:02 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T19:02:04.453048-04:00.accessibility.json) |
-| [July 27 at 2:02 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T07:02:31.289421-04:00.accessibility.json) |
-| [July 27 at 2:04 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T19:04:26.702903-04:00.accessibility.json) |
-| [July 26 at 2:12 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T07:12:32.028184-04:00.accessibility.json) |
-| [July 26 at 2:07 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T19:07:32.154312-04:00.accessibility.json) |
-| [July 25 at 2:00 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T06:59:59.169741-04:00.accessibility.json) |
-| [July 25 at 3:51 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T20:51:41.565144-04:00.accessibility.json) |
-| [July 24 at 1:58 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T06:58:45.034456-04:00.accessibility.json) |
-| [July 24 at 2:01 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T19:01:06.451619-04:00.accessibility.json) |
+| [July 28 at 7:05 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-28T07:05:37.671353-04:00.accessibility.json) |
+| [July 27 at 7:02 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T19:02:04.453048-04:00.accessibility.json) |
+| [July 27 at 7:02 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T07:02:31.289421-04:00.accessibility.json) |
+| [July 26 at 7:04 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T19:04:26.702903-04:00.accessibility.json) |
+| [July 26 at 7:12 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T07:12:32.028184-04:00.accessibility.json) |
+| [July 25 at 7:07 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T19:07:32.154312-04:00.accessibility.json) |
+| [July 25 at 7:00 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T06:59:59.169741-04:00.accessibility.json) |
+| [July 24 at 8:51 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T20:51:41.565144-04:00.accessibility.json) |
+| [July 24 at 6:58 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T06:58:45.034456-04:00.accessibility.json) |
+| [July 23 at 7:01 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T19:01:06.451619-04:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 2:05 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-28T07:05:37.671353-04:00.lighthouse.json) |
-| [July 28 at 2:02 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T19:02:04.453048-04:00.lighthouse.json) |
-| [July 27 at 2:02 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T07:02:31.289421-04:00.lighthouse.json) |
-| [July 27 at 2:04 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T19:04:26.702903-04:00.lighthouse.json) |
-| [July 26 at 2:12 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T07:12:32.028184-04:00.lighthouse.json) |
-| [July 26 at 2:07 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T19:07:32.154312-04:00.lighthouse.json) |
-| [July 25 at 2:00 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T06:59:59.169741-04:00.lighthouse.json) |
-| [July 25 at 3:51 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T20:51:41.565144-04:00.lighthouse.json) |
-| [July 24 at 1:58 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T06:58:45.034456-04:00.lighthouse.json) |
-| [July 24 at 2:01 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T19:01:06.451619-04:00.lighthouse.json) |
+| [July 28 at 7:05 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-28T07:05:37.671353-04:00.lighthouse.json) |
+| [July 27 at 7:02 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T19:02:04.453048-04:00.lighthouse.json) |
+| [July 27 at 7:02 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-27T07:02:31.289421-04:00.lighthouse.json) |
+| [July 26 at 7:04 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T19:04:26.702903-04:00.lighthouse.json) |
+| [July 26 at 7:12 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-26T07:12:32.028184-04:00.lighthouse.json) |
+| [July 25 at 7:07 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T19:07:32.154312-04:00.lighthouse.json) |
+| [July 25 at 7:00 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T06:59:59.169741-04:00.lighthouse.json) |
+| [July 24 at 8:51 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T20:51:41.565144-04:00.lighthouse.json) |
+| [July 24 at 6:58 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T06:58:45.034456-04:00.lighthouse.json) |
+| [July 23 at 7:01 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T19:01:06.451619-04:00.lighthouse.json) |
 
 
 

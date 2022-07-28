@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T22:46:37.273510-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T22:46:37.273510-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-28 05:46:40-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-27 22:46:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T22:46:37.273510-05:00.jpg">July 28 at 5:46 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T22:46:37.273510-05:00.jpg">July 27 at 10:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T10:47:08.588665-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T10:47:08.588665-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-27 17:47:11-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-27 10:47:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T10:47:08.588665-05:00.jpg">July 27 at 5:47 PM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T10:47:08.588665-05:00.jpg">July 27 at 10:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T22:55:23.805997-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T22:55:23.805997-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-27 05:55:24-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-26 22:55:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T22:55:23.805997-05:00.jpg">July 27 at 5:55 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T22:55:23.805997-05:00.jpg">July 26 at 10:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T10:46:45.975941-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T10:46:45.975941-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-26 17:46:47-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-26 10:46:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T10:46:45.975941-05:00.jpg">July 26 at 5:46 PM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T10:46:45.975941-05:00.jpg">July 26 at 10:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T22:57:19.253224-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T22:57:19.253224-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-26 05:57:24-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-25 22:57:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T22:57:19.253224-05:00.jpg">July 26 at 5:57 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T22:57:19.253224-05:00.jpg">July 25 at 10:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T10:43:20.919573-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T10:43:20.919573-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-25 17:43:25-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-25 10:43:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T10:43:20.919573-05:00.jpg">July 25 at 5:43 PM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T10:43:20.919573-05:00.jpg">July 25 at 10:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T22:44:56.481755-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T22:44:56.481755-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-25 05:44:57-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-24 22:44:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T22:44:56.481755-05:00.jpg">July 25 at 5:44 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T22:44:56.481755-05:00.jpg">July 24 at 10:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T09:05:02.492365-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T09:05:02.492365-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-24 16:05:05-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-24 09:05:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T09:05:02.492365-05:00.jpg">July 24 at 4:05 PM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T09:05:02.492365-05:00.jpg">July 24 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T01:24:14.772357-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T01:24:14.772357-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-24 08:24:16-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-24 01:24:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T01:24:14.772357-05:00.jpg">July 24 at 8:24 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T01:24:14.772357-05:00.jpg">July 24 at 1:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-23T11:02:57.989403-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-23T11:02:57.989403-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-23 18:02:59-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-23 11:02:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-23T11:02:57.989403-05:00.jpg">July 23 at 6:02 PM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-23T11:02:57.989403-05:00.jpg">July 23 at 11:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T23:23:00.760454-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T23:23:00.760454-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-23 06:23:07-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-22 23:23:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T23:23:00.760454-05:00.jpg">July 23 at 6:23 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T23:23:00.760454-05:00.jpg">July 22 at 11:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T11:16:44.368037-05:00.jpg">
   <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T11:16:44.368037-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-07-22 18:16:47-05:00 local time"
+     alt="St. Louis Public Radio at 2022-07-22 11:16:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T11:16:44.368037-05:00.jpg">July 22 at 6:16 PM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T11:16:44.368037-05:00.jpg">July 22 at 11:16 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 5:46 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T22:46:37.273510-05:00.hyperlinks.json) |
-| [July 27 at 5:47 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T10:47:08.588665-05:00.hyperlinks.json) |
-| [July 27 at 5:55 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T22:55:23.805997-05:00.hyperlinks.json) |
-| [July 26 at 5:46 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T10:46:45.975941-05:00.hyperlinks.json) |
-| [July 26 at 5:57 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T22:57:19.253224-05:00.hyperlinks.json) |
-| [July 25 at 5:43 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T10:43:20.919573-05:00.hyperlinks.json) |
-| [July 25 at 5:45 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T22:44:56.481755-05:00.hyperlinks.json) |
-| [July 24 at 4:05 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T09:05:02.492365-05:00.hyperlinks.json) |
-| [July 24 at 8:24 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T01:24:14.772357-05:00.hyperlinks.json) |
-| [July 23 at 6:03 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-23T11:02:57.989403-05:00.hyperlinks.json) |
+| [July 27 at 10:46 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T22:46:37.273510-05:00.hyperlinks.json) |
+| [July 27 at 10:47 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T10:47:08.588665-05:00.hyperlinks.json) |
+| [July 26 at 10:55 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T22:55:23.805997-05:00.hyperlinks.json) |
+| [July 26 at 10:46 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T10:46:45.975941-05:00.hyperlinks.json) |
+| [July 25 at 10:57 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T22:57:19.253224-05:00.hyperlinks.json) |
+| [July 25 at 10:43 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T10:43:20.919573-05:00.hyperlinks.json) |
+| [July 24 at 10:45 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T22:44:56.481755-05:00.hyperlinks.json) |
+| [July 24 at 9:05 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T09:05:02.492365-05:00.hyperlinks.json) |
+| [July 24 at 1:24 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T01:24:14.772357-05:00.hyperlinks.json) |
+| [July 23 at 11:03 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-23T11:02:57.989403-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 5:46 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T22:46:37.273510-05:00.accessibility.json) |
-| [July 27 at 5:47 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T10:47:08.588665-05:00.accessibility.json) |
-| [July 27 at 5:55 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T22:55:23.805997-05:00.accessibility.json) |
-| [July 26 at 5:57 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T22:57:19.253224-05:00.accessibility.json) |
-| [July 25 at 5:43 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T10:43:20.919573-05:00.accessibility.json) |
-| [July 25 at 5:44 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T22:44:56.481755-05:00.accessibility.json) |
-| [July 24 at 4:05 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T09:05:02.492365-05:00.accessibility.json) |
-| [July 24 at 8:24 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T01:24:14.772357-05:00.accessibility.json) |
-| [July 23 at 6:03 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-23T11:02:57.989403-05:00.accessibility.json) |
-| [July 23 at 6:23 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T23:23:00.760454-05:00.accessibility.json) |
+| [July 27 at 10:46 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T22:46:37.273510-05:00.accessibility.json) |
+| [July 27 at 10:47 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T10:47:08.588665-05:00.accessibility.json) |
+| [July 26 at 10:55 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T22:55:23.805997-05:00.accessibility.json) |
+| [July 25 at 10:57 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T22:57:19.253224-05:00.accessibility.json) |
+| [July 25 at 10:43 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T10:43:20.919573-05:00.accessibility.json) |
+| [July 24 at 10:44 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T22:44:56.481755-05:00.accessibility.json) |
+| [July 24 at 9:05 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T09:05:02.492365-05:00.accessibility.json) |
+| [July 24 at 1:24 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T01:24:14.772357-05:00.accessibility.json) |
+| [July 23 at 11:03 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-23T11:02:57.989403-05:00.accessibility.json) |
+| [July 22 at 11:23 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-22T23:23:00.760454-05:00.accessibility.json) |
 
 
 
@@ -442,15 +442,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 5:46 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T22:46:37.273510-05:00.lighthouse.json) |
-| [July 27 at 5:47 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T10:47:08.588665-05:00.lighthouse.json) |
-| [July 27 at 5:55 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T22:55:23.805997-05:00.lighthouse.json) |
-| [July 26 at 5:46 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T10:46:45.975941-05:00.lighthouse.json) |
-| [July 26 at 5:57 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T22:57:19.253224-05:00.lighthouse.json) |
-| [July 25 at 5:43 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T10:43:20.919573-05:00.lighthouse.json) |
-| [July 25 at 5:45 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T22:44:56.481755-05:00.lighthouse.json) |
-| [July 24 at 4:05 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T09:05:02.492365-05:00.lighthouse.json) |
-| [July 24 at 8:24 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T01:24:14.772357-05:00.lighthouse.json) |
+| [July 27 at 10:46 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T22:46:37.273510-05:00.lighthouse.json) |
+| [July 27 at 10:47 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-27T10:47:08.588665-05:00.lighthouse.json) |
+| [July 26 at 10:55 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T22:55:23.805997-05:00.lighthouse.json) |
+| [July 26 at 10:46 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-26T10:46:45.975941-05:00.lighthouse.json) |
+| [July 25 at 10:57 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T22:57:19.253224-05:00.lighthouse.json) |
+| [July 25 at 10:43 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-25T10:43:20.919573-05:00.lighthouse.json) |
+| [July 24 at 10:45 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T22:44:56.481755-05:00.lighthouse.json) |
+| [July 24 at 9:05 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T09:05:02.492365-05:00.lighthouse.json) |
+| [July 24 at 1:24 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-07-24T01:24:14.772357-05:00.lighthouse.json) |
 
 
 
