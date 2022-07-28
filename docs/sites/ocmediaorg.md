@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-28T04:08:59.199320+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-28T04:08:59.199320+04:00.jpg"
-     alt="Open Caucasus Media at 2022-07-28 11:09:01+04:00 local time"
+     alt="Open Caucasus Media at 2022-07-28 04:09:01+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-28T04:08:59.199320+04:00.jpg">July 28 at 11:09 AM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-28T04:08:59.199320+04:00.jpg">July 28 at 4:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-27T17:13:27.063358+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-27T17:13:27.063358+04:00.jpg"
-     alt="Open Caucasus Media at 2022-07-28 00:13:29+04:00 local time"
+     alt="Open Caucasus Media at 2022-07-27 17:13:29+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-27T17:13:27.063358+04:00.jpg">July 28 at 12:13 AM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-27T17:13:27.063358+04:00.jpg">July 27 at 5:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T16:26:47.784964+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T16:26:47.784964+04:00.jpg"
-     alt="Open Caucasus Media at 2022-07-26 23:26:49+04:00 local time"
+     alt="Open Caucasus Media at 2022-07-26 16:26:49+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T16:26:47.784964+04:00.jpg">July 26 at 11:26 PM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T16:26:47.784964+04:00.jpg">July 26 at 4:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T04:22:59.269907+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T04:22:59.269907+04:00.jpg"
-     alt="Open Caucasus Media at 2022-07-26 11:23:01+04:00 local time"
+     alt="Open Caucasus Media at 2022-07-26 04:23:01+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T04:22:59.269907+04:00.jpg">July 26 at 11:23 AM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T04:22:59.269907+04:00.jpg">July 26 at 4:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T19:34:36.463453+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T19:34:36.463453+04:00.jpg"
-     alt="Open Caucasus Media at 2022-07-26 02:34:40+04:00 local time"
+     alt="Open Caucasus Media at 2022-07-25 19:34:40+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T19:34:36.463453+04:00.jpg">July 26 at 2:34 AM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T19:34:36.463453+04:00.jpg">July 25 at 7:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T07:38:42.117672+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T07:38:42.117672+04:00.jpg"
-     alt="Open Caucasus Media at 2022-07-25 14:38:43+04:00 local time"
+     alt="Open Caucasus Media at 2022-07-25 07:38:43+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T07:38:42.117672+04:00.jpg">July 25 at 2:38 PM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T07:38:42.117672+04:00.jpg">July 25 at 7:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T17:58:39.602900+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T17:58:39.602900+04:00.jpg"
-     alt="Open Caucasus Media at 2022-07-25 00:58:41+04:00 local time"
+     alt="Open Caucasus Media at 2022-07-24 17:58:41+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T17:58:39.602900+04:00.jpg">July 25 at 12:58 AM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T17:58:39.602900+04:00.jpg">July 24 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T10:17:14.787603+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T10:17:14.787603+04:00.jpg"
-     alt="Open Caucasus Media at 2022-07-24 17:17:16+04:00 local time"
+     alt="Open Caucasus Media at 2022-07-24 10:17:16+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T10:17:14.787603+04:00.jpg">July 24 at 5:17 PM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T10:17:14.787603+04:00.jpg">July 24 at 10:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-23T19:05:17.624874+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-23T19:05:17.624874+04:00.jpg"
-     alt="Open Caucasus Media at 2022-07-24 02:05:19+04:00 local time"
+     alt="Open Caucasus Media at 2022-07-23 19:05:19+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-23T19:05:17.624874+04:00.jpg">July 24 at 2:05 AM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-23T19:05:17.624874+04:00.jpg">July 23 at 7:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-23T07:34:51.378174+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-23T07:34:51.378174+04:00.jpg"
-     alt="Open Caucasus Media at 2022-07-23 14:34:53+04:00 local time"
+     alt="Open Caucasus Media at 2022-07-23 07:34:53+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-23T07:34:51.378174+04:00.jpg">July 23 at 2:34 PM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-23T07:34:51.378174+04:00.jpg">July 23 at 7:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-22T19:00:44.327198+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-22T19:00:44.327198+04:00.jpg"
-     alt="Open Caucasus Media at 2022-07-23 02:00:52+04:00 local time"
+     alt="Open Caucasus Media at 2022-07-22 19:00:52+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-22T19:00:44.327198+04:00.jpg">July 23 at 2:00 AM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-22T19:00:44.327198+04:00.jpg">July 22 at 7:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-22T07:39:52.702730+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-22T07:39:52.702730+04:00.jpg"
-     alt="Open Caucasus Media at 2022-07-22 14:39:54+04:00 local time"
+     alt="Open Caucasus Media at 2022-07-22 07:39:54+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-22T07:39:52.702730+04:00.jpg">July 22 at 2:39 PM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-22T07:39:52.702730+04:00.jpg">July 22 at 7:39 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 11:09 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-28T04:08:59.199320+04:00.hyperlinks.json) |
-| [July 28 at 12:13 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-27T17:13:27.063358+04:00.hyperlinks.json) |
-| [July 27 at 11:17 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-27T04:17:33.305599+04:00.hyperlinks.json) |
-| [July 26 at 11:26 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T16:26:47.784964+04:00.hyperlinks.json) |
-| [July 26 at 11:23 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T04:22:59.269907+04:00.hyperlinks.json) |
-| [July 26 at 2:34 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T19:34:36.463453+04:00.hyperlinks.json) |
-| [July 25 at 2:38 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T07:38:42.117672+04:00.hyperlinks.json) |
-| [July 25 at 12:58 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T17:58:39.602900+04:00.hyperlinks.json) |
-| [July 24 at 5:17 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T10:17:14.787603+04:00.hyperlinks.json) |
-| [July 24 at 2:05 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-23T19:05:17.624874+04:00.hyperlinks.json) |
+| [July 28 at 4:09 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-28T04:08:59.199320+04:00.hyperlinks.json) |
+| [July 27 at 5:13 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-27T17:13:27.063358+04:00.hyperlinks.json) |
+| [July 27 at 4:17 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-27T04:17:33.305599+04:00.hyperlinks.json) |
+| [July 26 at 4:26 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T16:26:47.784964+04:00.hyperlinks.json) |
+| [July 26 at 4:23 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T04:22:59.269907+04:00.hyperlinks.json) |
+| [July 25 at 7:34 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T19:34:36.463453+04:00.hyperlinks.json) |
+| [July 25 at 7:38 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T07:38:42.117672+04:00.hyperlinks.json) |
+| [July 24 at 5:58 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T17:58:39.602900+04:00.hyperlinks.json) |
+| [July 24 at 10:17 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T10:17:14.787603+04:00.hyperlinks.json) |
+| [July 23 at 7:05 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-23T19:05:17.624874+04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 11:09 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-28T04:08:59.199320+04:00.accessibility.json) |
-| [July 28 at 12:13 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-27T17:13:27.063358+04:00.accessibility.json) |
-| [July 27 at 11:17 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-27T04:17:33.305599+04:00.accessibility.json) |
-| [July 26 at 11:26 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T16:26:47.784964+04:00.accessibility.json) |
-| [July 26 at 11:23 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T04:22:59.269907+04:00.accessibility.json) |
-| [July 26 at 2:34 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T19:34:36.463453+04:00.accessibility.json) |
-| [July 25 at 2:38 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T07:38:42.117672+04:00.accessibility.json) |
-| [July 25 at 12:58 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T17:58:39.602900+04:00.accessibility.json) |
-| [July 24 at 5:17 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T10:17:14.787603+04:00.accessibility.json) |
-| [July 24 at 2:05 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-23T19:05:17.624874+04:00.accessibility.json) |
+| [July 28 at 4:09 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-28T04:08:59.199320+04:00.accessibility.json) |
+| [July 27 at 5:13 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-27T17:13:27.063358+04:00.accessibility.json) |
+| [July 27 at 4:17 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-27T04:17:33.305599+04:00.accessibility.json) |
+| [July 26 at 4:26 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T16:26:47.784964+04:00.accessibility.json) |
+| [July 26 at 4:23 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T04:22:59.269907+04:00.accessibility.json) |
+| [July 25 at 7:34 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T19:34:36.463453+04:00.accessibility.json) |
+| [July 25 at 7:38 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T07:38:42.117672+04:00.accessibility.json) |
+| [July 24 at 5:58 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T17:58:39.602900+04:00.accessibility.json) |
+| [July 24 at 10:17 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T10:17:14.787603+04:00.accessibility.json) |
+| [July 23 at 7:05 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-23T19:05:17.624874+04:00.accessibility.json) |
 
 
 
@@ -442,15 +442,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 11:09 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-28T04:08:59.199320+04:00.lighthouse.json) |
-| [July 28 at 12:13 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-27T17:13:27.063358+04:00.lighthouse.json) |
-| [July 27 at 11:17 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-27T04:17:33.305599+04:00.lighthouse.json) |
-| [July 26 at 11:26 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T16:26:47.784964+04:00.lighthouse.json) |
-| [July 26 at 11:23 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T04:22:59.269907+04:00.lighthouse.json) |
-| [July 26 at 2:34 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T19:34:36.463453+04:00.lighthouse.json) |
-| [July 25 at 2:38 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T07:38:42.117672+04:00.lighthouse.json) |
-| [July 25 at 12:58 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T17:58:39.602900+04:00.lighthouse.json) |
-| [July 24 at 5:17 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T10:17:14.787603+04:00.lighthouse.json) |
+| [July 28 at 4:09 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-28T04:08:59.199320+04:00.lighthouse.json) |
+| [July 27 at 5:13 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-27T17:13:27.063358+04:00.lighthouse.json) |
+| [July 27 at 4:17 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-27T04:17:33.305599+04:00.lighthouse.json) |
+| [July 26 at 4:26 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T16:26:47.784964+04:00.lighthouse.json) |
+| [July 26 at 4:23 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-26T04:22:59.269907+04:00.lighthouse.json) |
+| [July 25 at 7:34 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T19:34:36.463453+04:00.lighthouse.json) |
+| [July 25 at 7:38 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-25T07:38:42.117672+04:00.lighthouse.json) |
+| [July 24 at 5:58 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T17:58:39.602900+04:00.lighthouse.json) |
+| [July 24 at 10:17 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-07-24T10:17:14.787603+04:00.lighthouse.json) |
 
 
 

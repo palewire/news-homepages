@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-27T19:05:47.378832-05:00.jpg">
   <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-27T19:05:47.378832-05:00.jpg"
-     alt="La Jornada at 2022-07-28 02:05:58-05:00 local time"
+     alt="La Jornada at 2022-07-27 19:05:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-27T19:05:47.378832-05:00.jpg">July 28 at 2:05 AM</a></p>
+ <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-27T19:05:47.378832-05:00.jpg">July 27 at 7:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-27T08:09:20.430997-05:00.jpg">
   <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-27T08:09:20.430997-05:00.jpg"
-     alt="La Jornada at 2022-07-27 15:09:22-05:00 local time"
+     alt="La Jornada at 2022-07-27 08:09:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-27T08:09:20.430997-05:00.jpg">July 27 at 3:09 PM</a></p>
+ <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-27T08:09:20.430997-05:00.jpg">July 27 at 8:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-26T19:14:23.027940-05:00.jpg">
   <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-26T19:14:23.027940-05:00.jpg"
-     alt="La Jornada at 2022-07-27 02:14:35-05:00 local time"
+     alt="La Jornada at 2022-07-26 19:14:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-26T19:14:23.027940-05:00.jpg">July 27 at 2:14 AM</a></p>
+ <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-26T19:14:23.027940-05:00.jpg">July 26 at 7:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-26T07:22:57.049281-05:00.jpg">
   <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-26T07:22:57.049281-05:00.jpg"
-     alt="La Jornada at 2022-07-26 14:23:06-05:00 local time"
+     alt="La Jornada at 2022-07-26 07:23:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-26T07:22:57.049281-05:00.jpg">July 26 at 2:23 PM</a></p>
+ <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-26T07:22:57.049281-05:00.jpg">July 26 at 7:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-25T19:17:23.230988-05:00.jpg">
   <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-25T19:17:23.230988-05:00.jpg"
-     alt="La Jornada at 2022-07-26 02:17:37-05:00 local time"
+     alt="La Jornada at 2022-07-25 19:17:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-25T19:17:23.230988-05:00.jpg">July 26 at 2:17 AM</a></p>
+ <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-25T19:17:23.230988-05:00.jpg">July 25 at 7:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.jpg">
   <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.jpg"
-     alt="La Jornada at 2022-07-25 15:12:20-05:00 local time"
+     alt="La Jornada at 2022-07-25 08:12:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.jpg">July 25 at 3:12 PM</a></p>
+ <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.jpg">July 25 at 8:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-24T22:28:01.743571-05:00.jpg">
   <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-24T22:28:01.743571-05:00.jpg"
-     alt="La Jornada at 2022-07-25 05:28:16-05:00 local time"
+     alt="La Jornada at 2022-07-24 22:28:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-24T22:28:01.743571-05:00.jpg">July 25 at 5:28 AM</a></p>
+ <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-24T22:28:01.743571-05:00.jpg">July 24 at 10:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-24T08:01:26.513605-05:00.jpg">
   <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-24T08:01:26.513605-05:00.jpg"
-     alt="La Jornada at 2022-07-24 15:01:28-05:00 local time"
+     alt="La Jornada at 2022-07-24 08:01:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-24T08:01:26.513605-05:00.jpg">July 24 at 3:01 PM</a></p>
+ <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-24T08:01:26.513605-05:00.jpg">July 24 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-23T23:16:30.331427-05:00.jpg">
   <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-23T23:16:30.331427-05:00.jpg"
-     alt="La Jornada at 2022-07-24 06:16:40-05:00 local time"
+     alt="La Jornada at 2022-07-23 23:16:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-23T23:16:30.331427-05:00.jpg">July 24 at 6:16 AM</a></p>
+ <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-23T23:16:30.331427-05:00.jpg">July 23 at 11:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-23T09:06:17.735680-05:00.jpg">
   <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-23T09:06:17.735680-05:00.jpg"
-     alt="La Jornada at 2022-07-23 16:06:19-05:00 local time"
+     alt="La Jornada at 2022-07-23 09:06:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-23T09:06:17.735680-05:00.jpg">July 23 at 4:06 PM</a></p>
+ <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-23T09:06:17.735680-05:00.jpg">July 23 at 9:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-22T21:34:27.572547-05:00.jpg">
   <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-22T21:34:27.572547-05:00.jpg"
-     alt="La Jornada at 2022-07-23 04:34:52-05:00 local time"
+     alt="La Jornada at 2022-07-22 21:34:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-22T21:34:27.572547-05:00.jpg">July 23 at 4:34 AM</a></p>
+ <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-22T21:34:27.572547-05:00.jpg">July 22 at 9:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-22T09:07:08.506373-05:00.jpg">
   <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-22T09:07:08.506373-05:00.jpg"
-     alt="La Jornada at 2022-07-22 16:07:10-05:00 local time"
+     alt="La Jornada at 2022-07-22 09:07:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-22T09:07:08.506373-05:00.jpg">July 22 at 4:07 PM</a></p>
+ <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-22T09:07:08.506373-05:00.jpg">July 22 at 9:07 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 2:06 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T19:05:47.378832-05:00.hyperlinks.json) |
-| [July 27 at 3:09 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T08:09:20.430997-05:00.hyperlinks.json) |
-| [July 27 at 2:14 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T19:14:23.027940-05:00.hyperlinks.json) |
-| [July 26 at 2:23 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T07:22:57.049281-05:00.hyperlinks.json) |
-| [July 26 at 2:17 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T19:17:23.230988-05:00.hyperlinks.json) |
-| [July 25 at 3:12 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.hyperlinks.json) |
-| [July 25 at 5:28 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-24T22:28:01.743571-05:00.hyperlinks.json) |
-| [July 24 at 3:01 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-24T08:01:26.513605-05:00.hyperlinks.json) |
-| [July 24 at 6:16 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-23T23:16:30.331427-05:00.hyperlinks.json) |
-| [July 23 at 4:06 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-23T09:06:17.735680-05:00.hyperlinks.json) |
+| [July 27 at 7:06 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T19:05:47.378832-05:00.hyperlinks.json) |
+| [July 27 at 8:09 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T08:09:20.430997-05:00.hyperlinks.json) |
+| [July 26 at 7:14 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T19:14:23.027940-05:00.hyperlinks.json) |
+| [July 26 at 7:23 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T07:22:57.049281-05:00.hyperlinks.json) |
+| [July 25 at 7:17 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T19:17:23.230988-05:00.hyperlinks.json) |
+| [July 25 at 8:12 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.hyperlinks.json) |
+| [July 24 at 10:28 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-24T22:28:01.743571-05:00.hyperlinks.json) |
+| [July 24 at 8:01 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-24T08:01:26.513605-05:00.hyperlinks.json) |
+| [July 23 at 11:16 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-23T23:16:30.331427-05:00.hyperlinks.json) |
+| [July 23 at 9:06 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-23T09:06:17.735680-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 2:06 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T19:05:47.378832-05:00.accessibility.json) |
-| [July 27 at 3:09 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T08:09:20.430997-05:00.accessibility.json) |
-| [July 27 at 2:14 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T19:14:23.027940-05:00.accessibility.json) |
-| [July 26 at 2:23 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T07:22:57.049281-05:00.accessibility.json) |
-| [July 26 at 2:17 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T19:17:23.230988-05:00.accessibility.json) |
-| [July 25 at 3:12 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.accessibility.json) |
-| [July 25 at 5:28 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-24T22:28:01.743571-05:00.accessibility.json) |
-| [July 24 at 3:01 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-24T08:01:26.513605-05:00.accessibility.json) |
-| [July 24 at 6:16 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-23T23:16:30.331427-05:00.accessibility.json) |
-| [July 23 at 4:06 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-23T09:06:17.735680-05:00.accessibility.json) |
+| [July 27 at 7:06 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T19:05:47.378832-05:00.accessibility.json) |
+| [July 27 at 8:09 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T08:09:20.430997-05:00.accessibility.json) |
+| [July 26 at 7:14 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T19:14:23.027940-05:00.accessibility.json) |
+| [July 26 at 7:23 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T07:22:57.049281-05:00.accessibility.json) |
+| [July 25 at 7:17 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T19:17:23.230988-05:00.accessibility.json) |
+| [July 25 at 8:12 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.accessibility.json) |
+| [July 24 at 10:28 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-24T22:28:01.743571-05:00.accessibility.json) |
+| [July 24 at 8:01 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-24T08:01:26.513605-05:00.accessibility.json) |
+| [July 23 at 11:16 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-23T23:16:30.331427-05:00.accessibility.json) |
+| [July 23 at 9:06 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-23T09:06:17.735680-05:00.accessibility.json) |
 
 
 
@@ -442,15 +442,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 2:06 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T19:05:47.378832-05:00.lighthouse.json) |
-| [July 27 at 3:09 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T08:09:20.430997-05:00.lighthouse.json) |
-| [July 27 at 2:14 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T19:14:23.027940-05:00.lighthouse.json) |
-| [July 26 at 2:23 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T07:22:57.049281-05:00.lighthouse.json) |
-| [July 26 at 2:17 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T19:17:23.230988-05:00.lighthouse.json) |
-| [July 25 at 3:12 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.lighthouse.json) |
-| [July 25 at 5:28 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-24T22:28:01.743571-05:00.lighthouse.json) |
-| [July 24 at 3:01 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-24T08:01:26.513605-05:00.lighthouse.json) |
-| [July 24 at 6:16 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-23T23:16:30.331427-05:00.lighthouse.json) |
+| [July 27 at 7:06 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T19:05:47.378832-05:00.lighthouse.json) |
+| [July 27 at 8:09 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T08:09:20.430997-05:00.lighthouse.json) |
+| [July 26 at 7:14 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T19:14:23.027940-05:00.lighthouse.json) |
+| [July 26 at 7:23 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T07:22:57.049281-05:00.lighthouse.json) |
+| [July 25 at 7:17 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T19:17:23.230988-05:00.lighthouse.json) |
+| [July 25 at 8:12 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.lighthouse.json) |
+| [July 24 at 10:28 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-24T22:28:01.743571-05:00.lighthouse.json) |
+| [July 24 at 8:01 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-24T08:01:26.513605-05:00.lighthouse.json) |
+| [July 23 at 11:16 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-23T23:16:30.331427-05:00.lighthouse.json) |
 
 
 

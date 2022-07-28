@@ -31,46 +31,46 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-07-27T23:46:51.245540-04:00.jpg">
   <img src="https://archive.org/download/tb_times-2022/tb_times-2022-07-27T23:46:51.245540-04:00.jpg"
-     alt="Tampa Bay Times at 2022-07-28 06:46:52-04:00 local time"
+     alt="Tampa Bay Times at 2022-07-27 23:46:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-07-27T23:46:51.245540-04:00.jpg">July 28 at 6:46 AM</a></p>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-07-27T23:46:51.245540-04:00.jpg">July 27 at 11:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-07-27T11:47:37.537299-04:00.jpg">
   <img src="https://archive.org/download/tb_times-2022/tb_times-2022-07-27T11:47:37.537299-04:00.jpg"
-     alt="Tampa Bay Times at 2022-07-27 18:47:39-04:00 local time"
+     alt="Tampa Bay Times at 2022-07-27 11:47:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-07-27T11:47:37.537299-04:00.jpg">July 27 at 6:47 PM</a></p>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-07-27T11:47:37.537299-04:00.jpg">July 27 at 11:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-07-26T23:55:33.553625-04:00.jpg">
   <img src="https://archive.org/download/tb_times-2022/tb_times-2022-07-26T23:55:33.553625-04:00.jpg"
-     alt="Tampa Bay Times at 2022-07-27 06:55:34-04:00 local time"
+     alt="Tampa Bay Times at 2022-07-26 23:55:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-07-26T23:55:33.553625-04:00.jpg">July 27 at 6:55 AM</a></p>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-07-26T23:55:33.553625-04:00.jpg">July 26 at 11:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-07-26T11:46:31.895292-04:00.jpg">
   <img src="https://archive.org/download/tb_times-2022/tb_times-2022-07-26T11:46:31.895292-04:00.jpg"
-     alt="Tampa Bay Times at 2022-07-26 18:46:33-04:00 local time"
+     alt="Tampa Bay Times at 2022-07-26 11:46:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-07-26T11:46:31.895292-04:00.jpg">July 26 at 6:46 PM</a></p>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-07-26T11:46:31.895292-04:00.jpg">July 26 at 11:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-07-25T23:58:38.238539-04:00.jpg">
   <img src="https://archive.org/download/tb_times-2022/tb_times-2022-07-25T23:58:38.238539-04:00.jpg"
-     alt="Tampa Bay Times at 2022-07-26 06:58:43-04:00 local time"
+     alt="Tampa Bay Times at 2022-07-25 23:58:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-07-25T23:58:38.238539-04:00.jpg">July 26 at 6:58 AM</a></p>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-07-25T23:58:38.238539-04:00.jpg">July 25 at 11:58 PM</a></p>
 </div>
 
 </div>
@@ -85,11 +85,11 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 6:46 AM](https://archive.org/download/tb_times-2022/tb_times-2022-07-27T23:46:51.245540-04:00.hyperlinks.json) |
-| [July 27 at 6:47 PM](https://archive.org/download/tb_times-2022/tb_times-2022-07-27T11:47:37.537299-04:00.hyperlinks.json) |
-| [July 27 at 6:55 AM](https://archive.org/download/tb_times-2022/tb_times-2022-07-26T23:55:33.553625-04:00.hyperlinks.json) |
-| [July 26 at 6:46 PM](https://archive.org/download/tb_times-2022/tb_times-2022-07-26T11:46:31.895292-04:00.hyperlinks.json) |
-| [July 26 at 6:58 AM](https://archive.org/download/tb_times-2022/tb_times-2022-07-25T23:58:38.238539-04:00.hyperlinks.json) |
+| [July 27 at 11:46 PM](https://archive.org/download/tb_times-2022/tb_times-2022-07-27T23:46:51.245540-04:00.hyperlinks.json) |
+| [July 27 at 11:47 AM](https://archive.org/download/tb_times-2022/tb_times-2022-07-27T11:47:37.537299-04:00.hyperlinks.json) |
+| [July 26 at 11:55 PM](https://archive.org/download/tb_times-2022/tb_times-2022-07-26T23:55:33.553625-04:00.hyperlinks.json) |
+| [July 26 at 11:46 AM](https://archive.org/download/tb_times-2022/tb_times-2022-07-26T11:46:31.895292-04:00.hyperlinks.json) |
+| [July 25 at 11:58 PM](https://archive.org/download/tb_times-2022/tb_times-2022-07-25T23:58:38.238539-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -102,11 +102,11 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 6:46 AM](https://archive.org/download/tb_times-2022/tb_times-2022-07-27T23:46:51.245540-04:00.accessibility.json) |
-| [July 27 at 6:47 PM](https://archive.org/download/tb_times-2022/tb_times-2022-07-27T11:47:37.537299-04:00.accessibility.json) |
-| [July 27 at 6:55 AM](https://archive.org/download/tb_times-2022/tb_times-2022-07-26T23:55:33.553625-04:00.accessibility.json) |
-| [July 26 at 6:46 PM](https://archive.org/download/tb_times-2022/tb_times-2022-07-26T11:46:31.895292-04:00.accessibility.json) |
-| [July 26 at 6:58 AM](https://archive.org/download/tb_times-2022/tb_times-2022-07-25T23:58:38.238539-04:00.accessibility.json) |
+| [July 27 at 11:46 PM](https://archive.org/download/tb_times-2022/tb_times-2022-07-27T23:46:51.245540-04:00.accessibility.json) |
+| [July 27 at 11:47 AM](https://archive.org/download/tb_times-2022/tb_times-2022-07-27T11:47:37.537299-04:00.accessibility.json) |
+| [July 26 at 11:55 PM](https://archive.org/download/tb_times-2022/tb_times-2022-07-26T23:55:33.553625-04:00.accessibility.json) |
+| [July 26 at 11:46 AM](https://archive.org/download/tb_times-2022/tb_times-2022-07-26T11:46:31.895292-04:00.accessibility.json) |
+| [July 25 at 11:58 PM](https://archive.org/download/tb_times-2022/tb_times-2022-07-25T23:58:38.238539-04:00.accessibility.json) |
 
 
 
@@ -120,11 +120,11 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 6:46 AM](https://archive.org/download/tb_times-2022/tb_times-2022-07-27T23:46:51.245540-04:00.lighthouse.json) |
-| [July 27 at 6:47 PM](https://archive.org/download/tb_times-2022/tb_times-2022-07-27T11:47:37.537299-04:00.lighthouse.json) |
-| [July 27 at 6:55 AM](https://archive.org/download/tb_times-2022/tb_times-2022-07-26T23:55:33.553625-04:00.lighthouse.json) |
-| [July 26 at 6:46 PM](https://archive.org/download/tb_times-2022/tb_times-2022-07-26T11:46:31.895292-04:00.lighthouse.json) |
-| [July 26 at 6:58 AM](https://archive.org/download/tb_times-2022/tb_times-2022-07-25T23:58:38.238539-04:00.lighthouse.json) |
+| [July 27 at 11:46 PM](https://archive.org/download/tb_times-2022/tb_times-2022-07-27T23:46:51.245540-04:00.lighthouse.json) |
+| [July 27 at 11:47 AM](https://archive.org/download/tb_times-2022/tb_times-2022-07-27T11:47:37.537299-04:00.lighthouse.json) |
+| [July 26 at 11:55 PM](https://archive.org/download/tb_times-2022/tb_times-2022-07-26T23:55:33.553625-04:00.lighthouse.json) |
+| [July 26 at 11:46 AM](https://archive.org/download/tb_times-2022/tb_times-2022-07-26T11:46:31.895292-04:00.lighthouse.json) |
+| [July 25 at 11:58 PM](https://archive.org/download/tb_times-2022/tb_times-2022-07-25T23:58:38.238539-04:00.lighthouse.json) |
 
 
 

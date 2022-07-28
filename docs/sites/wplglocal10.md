@@ -31,19 +31,19 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T23:50:12.882454-04:00.jpg">
   <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T23:50:12.882454-04:00.jpg"
-     alt="WPLG Local 10 News at 2022-07-28 06:50:14-04:00 local time"
+     alt="WPLG Local 10 News at 2022-07-27 23:50:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T23:50:12.882454-04:00.jpg">July 28 at 6:50 AM</a></p>
+ <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T23:50:12.882454-04:00.jpg">July 27 at 11:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T11:52:13.985700-04:00.jpg">
   <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T11:52:13.985700-04:00.jpg"
-     alt="WPLG Local 10 News at 2022-07-27 18:52:19-04:00 local time"
+     alt="WPLG Local 10 News at 2022-07-27 11:52:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T11:52:13.985700-04:00.jpg">July 27 at 6:52 PM</a></p>
+ <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T11:52:13.985700-04:00.jpg">July 27 at 11:52 AM</a></p>
 </div>
 
 </div>
@@ -58,8 +58,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 6:50 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T23:50:12.882454-04:00.hyperlinks.json) |
-| [July 27 at 6:52 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T11:52:13.985700-04:00.hyperlinks.json) |
+| [July 27 at 11:50 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T23:50:12.882454-04:00.hyperlinks.json) |
+| [July 27 at 11:52 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T11:52:13.985700-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -72,8 +72,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 6:50 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T23:50:12.882454-04:00.accessibility.json) |
-| [July 27 at 6:52 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T11:52:13.985700-04:00.accessibility.json) |
+| [July 27 at 11:50 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T23:50:12.882454-04:00.accessibility.json) |
+| [July 27 at 11:52 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T11:52:13.985700-04:00.accessibility.json) |
 
 
 
@@ -87,8 +87,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 6:50 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T23:50:12.882454-04:00.lighthouse.json) |
-| [July 27 at 6:52 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T11:52:13.985700-04:00.lighthouse.json) |
+| [July 27 at 11:50 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T23:50:12.882454-04:00.lighthouse.json) |
+| [July 27 at 11:52 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-07-27T11:52:13.985700-04:00.lighthouse.json) |
 
 
 

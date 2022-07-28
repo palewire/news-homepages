@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-28T07:09:55.949452-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-28T07:09:55.949452-04:00.jpg"
-     alt="Carolina Public Press at 2022-07-28 14:09:57-04:00 local time"
+     alt="Carolina Public Press at 2022-07-28 07:09:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-28T07:09:55.949452-04:00.jpg">July 28 at 2:09 PM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-28T07:09:55.949452-04:00.jpg">July 28 at 7:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T19:05:03.606737-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T19:05:03.606737-04:00.jpg"
-     alt="Carolina Public Press at 2022-07-28 02:05:08-04:00 local time"
+     alt="Carolina Public Press at 2022-07-27 19:05:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T19:05:03.606737-04:00.jpg">July 28 at 2:05 AM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T19:05:03.606737-04:00.jpg">July 27 at 7:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T07:05:12.710552-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T07:05:12.710552-04:00.jpg"
-     alt="Carolina Public Press at 2022-07-27 14:05:17-04:00 local time"
+     alt="Carolina Public Press at 2022-07-27 07:05:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T07:05:12.710552-04:00.jpg">July 27 at 2:05 PM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T07:05:12.710552-04:00.jpg">July 27 at 7:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T19:07:54.754727-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T19:07:54.754727-04:00.jpg"
-     alt="Carolina Public Press at 2022-07-27 02:08:02-04:00 local time"
+     alt="Carolina Public Press at 2022-07-26 19:08:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T19:07:54.754727-04:00.jpg">July 27 at 2:08 AM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T19:07:54.754727-04:00.jpg">July 26 at 7:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T07:15:32.205044-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T07:15:32.205044-04:00.jpg"
-     alt="Carolina Public Press at 2022-07-26 14:15:34-04:00 local time"
+     alt="Carolina Public Press at 2022-07-26 07:15:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T07:15:32.205044-04:00.jpg">July 26 at 2:15 PM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T07:15:32.205044-04:00.jpg">July 26 at 7:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T19:11:21.605339-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T19:11:21.605339-04:00.jpg"
-     alt="Carolina Public Press at 2022-07-26 02:11:26-04:00 local time"
+     alt="Carolina Public Press at 2022-07-25 19:11:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T19:11:21.605339-04:00.jpg">July 26 at 2:11 AM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T19:11:21.605339-04:00.jpg">July 25 at 7:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T07:03:55.001846-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T07:03:55.001846-04:00.jpg"
-     alt="Carolina Public Press at 2022-07-25 14:03:56-04:00 local time"
+     alt="Carolina Public Press at 2022-07-25 07:03:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T07:03:55.001846-04:00.jpg">July 25 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T07:03:55.001846-04:00.jpg">July 25 at 7:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T20:56:36.863448-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T20:56:36.863448-04:00.jpg"
-     alt="Carolina Public Press at 2022-07-25 03:56:38-04:00 local time"
+     alt="Carolina Public Press at 2022-07-24 20:56:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T20:56:36.863448-04:00.jpg">July 25 at 3:56 AM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T20:56:36.863448-04:00.jpg">July 24 at 8:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T07:03:08.414724-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T07:03:08.414724-04:00.jpg"
-     alt="Carolina Public Press at 2022-07-24 14:03:09-04:00 local time"
+     alt="Carolina Public Press at 2022-07-24 07:03:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T07:03:08.414724-04:00.jpg">July 24 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T07:03:08.414724-04:00.jpg">July 24 at 7:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-23T19:04:23.541215-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-23T19:04:23.541215-04:00.jpg"
-     alt="Carolina Public Press at 2022-07-24 02:04:25-04:00 local time"
+     alt="Carolina Public Press at 2022-07-23 19:04:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-23T19:04:23.541215-04:00.jpg">July 24 at 2:04 AM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-23T19:04:23.541215-04:00.jpg">July 23 at 7:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-23T09:02:03.342071-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-23T09:02:03.342071-04:00.jpg"
-     alt="Carolina Public Press at 2022-07-23 16:02:05-04:00 local time"
+     alt="Carolina Public Press at 2022-07-23 09:02:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-23T09:02:03.342071-04:00.jpg">July 23 at 4:02 PM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-23T09:02:03.342071-04:00.jpg">July 23 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-22T21:02:42.656906-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-22T21:02:42.656906-04:00.jpg"
-     alt="Carolina Public Press at 2022-07-23 04:02:44-04:00 local time"
+     alt="Carolina Public Press at 2022-07-22 21:02:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-22T21:02:42.656906-04:00.jpg">July 23 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-22T21:02:42.656906-04:00.jpg">July 22 at 9:02 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 2:09 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-28T07:09:55.949452-04:00.hyperlinks.json) |
-| [July 28 at 2:05 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T19:05:03.606737-04:00.hyperlinks.json) |
-| [July 27 at 2:05 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T07:05:12.710552-04:00.hyperlinks.json) |
-| [July 27 at 2:08 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T19:07:54.754727-04:00.hyperlinks.json) |
-| [July 26 at 2:15 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T07:15:32.205044-04:00.hyperlinks.json) |
-| [July 26 at 2:11 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T19:11:21.605339-04:00.hyperlinks.json) |
-| [July 25 at 2:04 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T07:03:55.001846-04:00.hyperlinks.json) |
-| [July 25 at 3:56 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T20:56:36.863448-04:00.hyperlinks.json) |
-| [July 24 at 2:03 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T07:03:08.414724-04:00.hyperlinks.json) |
-| [July 24 at 2:04 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-23T19:04:23.541215-04:00.hyperlinks.json) |
+| [July 28 at 7:09 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-28T07:09:55.949452-04:00.hyperlinks.json) |
+| [July 27 at 7:05 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T19:05:03.606737-04:00.hyperlinks.json) |
+| [July 27 at 7:05 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T07:05:12.710552-04:00.hyperlinks.json) |
+| [July 26 at 7:08 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T19:07:54.754727-04:00.hyperlinks.json) |
+| [July 26 at 7:15 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T07:15:32.205044-04:00.hyperlinks.json) |
+| [July 25 at 7:11 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T19:11:21.605339-04:00.hyperlinks.json) |
+| [July 25 at 7:04 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T07:03:55.001846-04:00.hyperlinks.json) |
+| [July 24 at 8:56 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T20:56:36.863448-04:00.hyperlinks.json) |
+| [July 24 at 7:03 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T07:03:08.414724-04:00.hyperlinks.json) |
+| [July 23 at 7:04 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-23T19:04:23.541215-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 2:09 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-28T07:09:55.949452-04:00.accessibility.json) |
-| [July 28 at 2:05 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T19:05:03.606737-04:00.accessibility.json) |
-| [July 27 at 2:05 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T07:05:12.710552-04:00.accessibility.json) |
-| [July 27 at 2:08 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T19:07:54.754727-04:00.accessibility.json) |
-| [July 26 at 2:15 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T07:15:32.205044-04:00.accessibility.json) |
-| [July 26 at 2:11 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T19:11:21.605339-04:00.accessibility.json) |
-| [July 25 at 2:03 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T07:03:55.001846-04:00.accessibility.json) |
-| [July 25 at 3:56 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T20:56:36.863448-04:00.accessibility.json) |
-| [July 24 at 2:03 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T07:03:08.414724-04:00.accessibility.json) |
-| [July 24 at 2:04 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-23T19:04:23.541215-04:00.accessibility.json) |
+| [July 28 at 7:09 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-28T07:09:55.949452-04:00.accessibility.json) |
+| [July 27 at 7:05 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T19:05:03.606737-04:00.accessibility.json) |
+| [July 27 at 7:05 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T07:05:12.710552-04:00.accessibility.json) |
+| [July 26 at 7:08 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T19:07:54.754727-04:00.accessibility.json) |
+| [July 26 at 7:15 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T07:15:32.205044-04:00.accessibility.json) |
+| [July 25 at 7:11 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T19:11:21.605339-04:00.accessibility.json) |
+| [July 25 at 7:03 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T07:03:55.001846-04:00.accessibility.json) |
+| [July 24 at 8:56 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T20:56:36.863448-04:00.accessibility.json) |
+| [July 24 at 7:03 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T07:03:08.414724-04:00.accessibility.json) |
+| [July 23 at 7:04 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-23T19:04:23.541215-04:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 2:10 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-28T07:09:55.949452-04:00.lighthouse.json) |
-| [July 28 at 2:05 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T19:05:03.606737-04:00.lighthouse.json) |
-| [July 27 at 2:05 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T07:05:12.710552-04:00.lighthouse.json) |
-| [July 27 at 2:08 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T19:07:54.754727-04:00.lighthouse.json) |
-| [July 26 at 2:15 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T07:15:32.205044-04:00.lighthouse.json) |
-| [July 26 at 2:11 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T19:11:21.605339-04:00.lighthouse.json) |
-| [July 25 at 2:04 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T07:03:55.001846-04:00.lighthouse.json) |
-| [July 25 at 3:56 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T20:56:36.863448-04:00.lighthouse.json) |
-| [July 24 at 2:03 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T07:03:08.414724-04:00.lighthouse.json) |
-| [July 24 at 2:04 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-23T19:04:23.541215-04:00.lighthouse.json) |
+| [July 28 at 7:10 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-28T07:09:55.949452-04:00.lighthouse.json) |
+| [July 27 at 7:05 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T19:05:03.606737-04:00.lighthouse.json) |
+| [July 27 at 7:05 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-27T07:05:12.710552-04:00.lighthouse.json) |
+| [July 26 at 7:08 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T19:07:54.754727-04:00.lighthouse.json) |
+| [July 26 at 7:15 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-26T07:15:32.205044-04:00.lighthouse.json) |
+| [July 25 at 7:11 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T19:11:21.605339-04:00.lighthouse.json) |
+| [July 25 at 7:04 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-25T07:03:55.001846-04:00.lighthouse.json) |
+| [July 24 at 8:56 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T20:56:36.863448-04:00.lighthouse.json) |
+| [July 24 at 7:03 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-24T07:03:08.414724-04:00.lighthouse.json) |
+| [July 23 at 7:04 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-07-23T19:04:23.541215-04:00.lighthouse.json) |
 
 
 

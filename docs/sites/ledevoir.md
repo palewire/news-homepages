@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T22:40:17.891502-04:00.jpg">
   <img src="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T22:40:17.891502-04:00.jpg"
-     alt="Le Devoir at 2022-07-28 05:40:20-04:00 local time"
+     alt="Le Devoir at 2022-07-27 22:40:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T22:40:17.891502-04:00.jpg">July 28 at 5:40 AM</a></p>
+ <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T22:40:17.891502-04:00.jpg">July 27 at 10:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T10:33:39.642107-04:00.jpg">
   <img src="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T10:33:39.642107-04:00.jpg"
-     alt="Le Devoir at 2022-07-27 17:33:44-04:00 local time"
+     alt="Le Devoir at 2022-07-27 10:33:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T10:33:39.642107-04:00.jpg">July 27 at 5:33 PM</a></p>
+ <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T10:33:39.642107-04:00.jpg">July 27 at 10:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T22:39:55.135361-04:00.jpg">
   <img src="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T22:39:55.135361-04:00.jpg"
-     alt="Le Devoir at 2022-07-27 05:39:59-04:00 local time"
+     alt="Le Devoir at 2022-07-26 22:39:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T22:39:55.135361-04:00.jpg">July 27 at 5:39 AM</a></p>
+ <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T22:39:55.135361-04:00.jpg">July 26 at 10:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T10:38:58.910953-04:00.jpg">
   <img src="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T10:38:58.910953-04:00.jpg"
-     alt="Le Devoir at 2022-07-26 17:39:02-04:00 local time"
+     alt="Le Devoir at 2022-07-26 10:39:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T10:38:58.910953-04:00.jpg">July 26 at 5:39 PM</a></p>
+ <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T10:38:58.910953-04:00.jpg">July 26 at 10:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T22:46:00.461825-04:00.jpg">
   <img src="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T22:46:00.461825-04:00.jpg"
-     alt="Le Devoir at 2022-07-26 05:46:05-04:00 local time"
+     alt="Le Devoir at 2022-07-25 22:46:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T22:46:00.461825-04:00.jpg">July 26 at 5:46 AM</a></p>
+ <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T22:46:00.461825-04:00.jpg">July 25 at 10:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T09:12:31.993181-04:00.jpg">
   <img src="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T09:12:31.993181-04:00.jpg"
-     alt="Le Devoir at 2022-07-25 16:12:33-04:00 local time"
+     alt="Le Devoir at 2022-07-25 09:12:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T09:12:31.993181-04:00.jpg">July 25 at 4:12 PM</a></p>
+ <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T09:12:31.993181-04:00.jpg">July 25 at 9:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T23:29:05.103120-04:00.jpg">
   <img src="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T23:29:05.103120-04:00.jpg"
-     alt="Le Devoir at 2022-07-25 06:29:12-04:00 local time"
+     alt="Le Devoir at 2022-07-24 23:29:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T23:29:05.103120-04:00.jpg">July 25 at 6:29 AM</a></p>
+ <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T23:29:05.103120-04:00.jpg">July 24 at 11:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T09:01:45.581215-04:00.jpg">
   <img src="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T09:01:45.581215-04:00.jpg"
-     alt="Le Devoir at 2022-07-24 16:01:46-04:00 local time"
+     alt="Le Devoir at 2022-07-24 09:01:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T09:01:45.581215-04:00.jpg">July 24 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T09:01:45.581215-04:00.jpg">July 24 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T00:17:34.503753-04:00.jpg">
   <img src="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T00:17:34.503753-04:00.jpg"
-     alt="Le Devoir at 2022-07-24 07:17:38-04:00 local time"
+     alt="Le Devoir at 2022-07-24 00:17:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T00:17:34.503753-04:00.jpg">July 24 at 7:17 AM</a></p>
+ <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T00:17:34.503753-04:00.jpg">July 24 at 12:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-23T10:06:53.706254-04:00.jpg">
   <img src="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-23T10:06:53.706254-04:00.jpg"
-     alt="Le Devoir at 2022-07-23 17:06:57-04:00 local time"
+     alt="Le Devoir at 2022-07-23 10:06:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-23T10:06:53.706254-04:00.jpg">July 23 at 5:06 PM</a></p>
+ <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-23T10:06:53.706254-04:00.jpg">July 23 at 10:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-22T22:32:46.561755-04:00.jpg">
   <img src="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-22T22:32:46.561755-04:00.jpg"
-     alt="Le Devoir at 2022-07-23 05:32:49-04:00 local time"
+     alt="Le Devoir at 2022-07-22 22:32:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-22T22:32:46.561755-04:00.jpg">July 23 at 5:32 AM</a></p>
+ <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-22T22:32:46.561755-04:00.jpg">July 22 at 10:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-22T10:08:01.187761-04:00.jpg">
   <img src="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-22T10:08:01.187761-04:00.jpg"
-     alt="Le Devoir at 2022-07-22 17:08:07-04:00 local time"
+     alt="Le Devoir at 2022-07-22 10:08:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-22T10:08:01.187761-04:00.jpg">July 22 at 5:08 PM</a></p>
+ <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-07-22T10:08:01.187761-04:00.jpg">July 22 at 10:08 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 5:40 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T22:40:17.891502-04:00.hyperlinks.json) |
-| [July 27 at 5:33 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T10:33:39.642107-04:00.hyperlinks.json) |
-| [July 27 at 5:40 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T22:39:55.135361-04:00.hyperlinks.json) |
-| [July 26 at 5:39 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T10:38:58.910953-04:00.hyperlinks.json) |
-| [July 26 at 5:46 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T22:46:00.461825-04:00.hyperlinks.json) |
-| [July 25 at 4:12 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T09:12:31.993181-04:00.hyperlinks.json) |
-| [July 25 at 6:29 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T23:29:05.103120-04:00.hyperlinks.json) |
-| [July 24 at 4:01 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T09:01:45.581215-04:00.hyperlinks.json) |
-| [July 24 at 7:17 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T00:17:34.503753-04:00.hyperlinks.json) |
-| [July 23 at 5:07 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-23T10:06:53.706254-04:00.hyperlinks.json) |
+| [July 27 at 10:40 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T22:40:17.891502-04:00.hyperlinks.json) |
+| [July 27 at 10:33 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T10:33:39.642107-04:00.hyperlinks.json) |
+| [July 26 at 10:40 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T22:39:55.135361-04:00.hyperlinks.json) |
+| [July 26 at 10:39 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T10:38:58.910953-04:00.hyperlinks.json) |
+| [July 25 at 10:46 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T22:46:00.461825-04:00.hyperlinks.json) |
+| [July 25 at 9:12 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T09:12:31.993181-04:00.hyperlinks.json) |
+| [July 24 at 11:29 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T23:29:05.103120-04:00.hyperlinks.json) |
+| [July 24 at 9:01 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T09:01:45.581215-04:00.hyperlinks.json) |
+| [July 24 at 12:17 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T00:17:34.503753-04:00.hyperlinks.json) |
+| [July 23 at 10:07 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-23T10:06:53.706254-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 5:40 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T22:40:17.891502-04:00.accessibility.json) |
-| [July 27 at 5:33 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T10:33:39.642107-04:00.accessibility.json) |
-| [July 27 at 5:40 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T22:39:55.135361-04:00.accessibility.json) |
-| [July 26 at 5:39 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T10:38:58.910953-04:00.accessibility.json) |
-| [July 26 at 5:46 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T22:46:00.461825-04:00.accessibility.json) |
-| [July 25 at 4:12 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T09:12:31.993181-04:00.accessibility.json) |
-| [July 25 at 6:29 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T23:29:05.103120-04:00.accessibility.json) |
-| [July 24 at 4:01 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T09:01:45.581215-04:00.accessibility.json) |
-| [July 24 at 7:17 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T00:17:34.503753-04:00.accessibility.json) |
-| [July 23 at 5:07 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-23T10:06:53.706254-04:00.accessibility.json) |
+| [July 27 at 10:40 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T22:40:17.891502-04:00.accessibility.json) |
+| [July 27 at 10:33 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T10:33:39.642107-04:00.accessibility.json) |
+| [July 26 at 10:40 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T22:39:55.135361-04:00.accessibility.json) |
+| [July 26 at 10:39 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T10:38:58.910953-04:00.accessibility.json) |
+| [July 25 at 10:46 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T22:46:00.461825-04:00.accessibility.json) |
+| [July 25 at 9:12 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T09:12:31.993181-04:00.accessibility.json) |
+| [July 24 at 11:29 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T23:29:05.103120-04:00.accessibility.json) |
+| [July 24 at 9:01 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T09:01:45.581215-04:00.accessibility.json) |
+| [July 24 at 12:17 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T00:17:34.503753-04:00.accessibility.json) |
+| [July 23 at 10:07 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-23T10:06:53.706254-04:00.accessibility.json) |
 
 
 
@@ -442,15 +442,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 5:40 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T22:40:17.891502-04:00.lighthouse.json) |
-| [July 27 at 5:33 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T10:33:39.642107-04:00.lighthouse.json) |
-| [July 27 at 5:40 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T22:39:55.135361-04:00.lighthouse.json) |
-| [July 26 at 5:39 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T10:38:58.910953-04:00.lighthouse.json) |
-| [July 26 at 5:46 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T22:46:00.461825-04:00.lighthouse.json) |
-| [July 25 at 4:12 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T09:12:31.993181-04:00.lighthouse.json) |
-| [July 25 at 6:29 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T23:29:05.103120-04:00.lighthouse.json) |
-| [July 24 at 4:01 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T09:01:45.581215-04:00.lighthouse.json) |
-| [July 24 at 7:17 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T00:17:34.503753-04:00.lighthouse.json) |
+| [July 27 at 10:40 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T22:40:17.891502-04:00.lighthouse.json) |
+| [July 27 at 10:33 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-27T10:33:39.642107-04:00.lighthouse.json) |
+| [July 26 at 10:40 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T22:39:55.135361-04:00.lighthouse.json) |
+| [July 26 at 10:39 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-26T10:38:58.910953-04:00.lighthouse.json) |
+| [July 25 at 10:46 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T22:46:00.461825-04:00.lighthouse.json) |
+| [July 25 at 9:12 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-25T09:12:31.993181-04:00.lighthouse.json) |
+| [July 24 at 11:29 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T23:29:05.103120-04:00.lighthouse.json) |
+| [July 24 at 9:01 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T09:01:45.581215-04:00.lighthouse.json) |
+| [July 24 at 12:17 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-07-24T00:17:34.503753-04:00.lighthouse.json) |
 
 
 

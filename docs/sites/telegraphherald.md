@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T20:29:54.775681-05:00.jpg">
   <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T20:29:54.775681-05:00.jpg"
-     alt="Dubuque Telegraph Herald at 2022-07-28 03:29:56-05:00 local time"
+     alt="Dubuque Telegraph Herald at 2022-07-27 20:29:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T20:29:54.775681-05:00.jpg">July 28 at 3:29 AM</a></p>
+ <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T20:29:54.775681-05:00.jpg">July 27 at 8:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T11:09:02.036977-05:00.jpg">
   <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T11:09:02.036977-05:00.jpg"
-     alt="Dubuque Telegraph Herald at 2022-07-27 18:09:06-05:00 local time"
+     alt="Dubuque Telegraph Herald at 2022-07-27 11:09:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T11:09:02.036977-05:00.jpg">July 27 at 6:09 PM</a></p>
+ <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T11:09:02.036977-05:00.jpg">July 27 at 11:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T08:22:16.609797-05:00.jpg">
   <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T08:22:16.609797-05:00.jpg"
-     alt="Dubuque Telegraph Herald at 2022-07-27 15:22:17-05:00 local time"
+     alt="Dubuque Telegraph Herald at 2022-07-27 08:22:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T08:22:16.609797-05:00.jpg">July 27 at 3:22 PM</a></p>
+ <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T08:22:16.609797-05:00.jpg">July 27 at 8:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T20:28:15.840612-05:00.jpg">
   <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T20:28:15.840612-05:00.jpg"
-     alt="Dubuque Telegraph Herald at 2022-07-27 03:28:17-05:00 local time"
+     alt="Dubuque Telegraph Herald at 2022-07-26 20:28:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T20:28:15.840612-05:00.jpg">July 27 at 3:28 AM</a></p>
+ <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T20:28:15.840612-05:00.jpg">July 26 at 8:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T08:29:44.703700-05:00.jpg">
   <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T08:29:44.703700-05:00.jpg"
-     alt="Dubuque Telegraph Herald at 2022-07-26 15:29:46-05:00 local time"
+     alt="Dubuque Telegraph Herald at 2022-07-26 08:29:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T08:29:44.703700-05:00.jpg">July 26 at 3:29 PM</a></p>
+ <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T08:29:44.703700-05:00.jpg">July 26 at 8:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T21:51:32.738232-05:00.jpg">
   <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T21:51:32.738232-05:00.jpg"
-     alt="Dubuque Telegraph Herald at 2022-07-26 04:51:34-05:00 local time"
+     alt="Dubuque Telegraph Herald at 2022-07-25 21:51:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T21:51:32.738232-05:00.jpg">July 26 at 4:51 AM</a></p>
+ <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T21:51:32.738232-05:00.jpg">July 25 at 9:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T20:33:50.502884-05:00.jpg">
   <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T20:33:50.502884-05:00.jpg"
-     alt="Dubuque Telegraph Herald at 2022-07-26 03:33:52-05:00 local time"
+     alt="Dubuque Telegraph Herald at 2022-07-25 20:33:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T20:33:50.502884-05:00.jpg">July 26 at 3:33 AM</a></p>
+ <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T20:33:50.502884-05:00.jpg">July 25 at 8:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T11:39:31.220848-05:00.jpg">
   <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T11:39:31.220848-05:00.jpg"
-     alt="Dubuque Telegraph Herald at 2022-07-25 18:39:33-05:00 local time"
+     alt="Dubuque Telegraph Herald at 2022-07-25 11:39:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T11:39:31.220848-05:00.jpg">July 25 at 6:39 PM</a></p>
+ <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T11:39:31.220848-05:00.jpg">July 25 at 11:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T10:44:31.658111-05:00.jpg">
   <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T10:44:31.658111-05:00.jpg"
-     alt="Dubuque Telegraph Herald at 2022-07-25 17:44:35-05:00 local time"
+     alt="Dubuque Telegraph Herald at 2022-07-25 10:44:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T10:44:31.658111-05:00.jpg">July 25 at 5:44 PM</a></p>
+ <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T10:44:31.658111-05:00.jpg">July 25 at 10:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-24T23:34:41.214226-05:00.jpg">
   <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-24T23:34:41.214226-05:00.jpg"
-     alt="Dubuque Telegraph Herald at 2022-07-25 06:34:43-05:00 local time"
+     alt="Dubuque Telegraph Herald at 2022-07-24 23:34:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-24T23:34:41.214226-05:00.jpg">July 25 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-24T23:34:41.214226-05:00.jpg">July 24 at 11:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-24T10:04:58.905180-05:00.jpg">
   <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-24T10:04:58.905180-05:00.jpg"
-     alt="Dubuque Telegraph Herald at 2022-07-24 17:05:00-05:00 local time"
+     alt="Dubuque Telegraph Herald at 2022-07-24 10:05:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-24T10:04:58.905180-05:00.jpg">July 24 at 5:05 PM</a></p>
+ <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-24T10:04:58.905180-05:00.jpg">July 24 at 10:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-23T22:40:29.868545-05:00.jpg">
   <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-23T22:40:29.868545-05:00.jpg"
-     alt="Dubuque Telegraph Herald at 2022-07-24 05:40:37-05:00 local time"
+     alt="Dubuque Telegraph Herald at 2022-07-23 22:40:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-23T22:40:29.868545-05:00.jpg">July 24 at 5:40 AM</a></p>
+ <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-23T22:40:29.868545-05:00.jpg">July 23 at 10:40 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 3:29 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T20:29:54.775681-05:00.hyperlinks.json) |
-| [July 27 at 6:09 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T11:09:02.036977-05:00.hyperlinks.json) |
-| [July 27 at 3:22 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T08:22:16.609797-05:00.hyperlinks.json) |
-| [July 27 at 3:28 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T20:28:15.840612-05:00.hyperlinks.json) |
-| [July 26 at 3:29 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T08:29:44.703700-05:00.hyperlinks.json) |
-| [July 26 at 4:51 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T21:51:32.738232-05:00.hyperlinks.json) |
-| [July 26 at 3:33 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T20:33:50.502884-05:00.hyperlinks.json) |
-| [July 25 at 6:39 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T11:39:31.220848-05:00.hyperlinks.json) |
-| [July 25 at 5:44 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T10:44:31.658111-05:00.hyperlinks.json) |
-| [July 25 at 6:34 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-24T23:34:41.214226-05:00.hyperlinks.json) |
+| [July 27 at 8:29 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T20:29:54.775681-05:00.hyperlinks.json) |
+| [July 27 at 11:09 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T11:09:02.036977-05:00.hyperlinks.json) |
+| [July 27 at 8:22 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T08:22:16.609797-05:00.hyperlinks.json) |
+| [July 26 at 8:28 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T20:28:15.840612-05:00.hyperlinks.json) |
+| [July 26 at 8:29 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T08:29:44.703700-05:00.hyperlinks.json) |
+| [July 25 at 9:51 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T21:51:32.738232-05:00.hyperlinks.json) |
+| [July 25 at 8:33 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T20:33:50.502884-05:00.hyperlinks.json) |
+| [July 25 at 11:39 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T11:39:31.220848-05:00.hyperlinks.json) |
+| [July 25 at 10:44 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T10:44:31.658111-05:00.hyperlinks.json) |
+| [July 24 at 11:34 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-24T23:34:41.214226-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 3:29 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T20:29:54.775681-05:00.accessibility.json) |
-| [July 27 at 6:09 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T11:09:02.036977-05:00.accessibility.json) |
-| [July 27 at 3:22 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T08:22:16.609797-05:00.accessibility.json) |
-| [July 27 at 3:28 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T20:28:15.840612-05:00.accessibility.json) |
-| [July 26 at 3:29 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T08:29:44.703700-05:00.accessibility.json) |
-| [July 26 at 4:51 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T21:51:32.738232-05:00.accessibility.json) |
-| [July 26 at 3:33 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T20:33:50.502884-05:00.accessibility.json) |
-| [July 25 at 6:39 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T11:39:31.220848-05:00.accessibility.json) |
-| [July 25 at 5:44 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T10:44:31.658111-05:00.accessibility.json) |
-| [July 25 at 6:34 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-24T23:34:41.214226-05:00.accessibility.json) |
+| [July 27 at 8:29 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T20:29:54.775681-05:00.accessibility.json) |
+| [July 27 at 11:09 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T11:09:02.036977-05:00.accessibility.json) |
+| [July 27 at 8:22 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T08:22:16.609797-05:00.accessibility.json) |
+| [July 26 at 8:28 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T20:28:15.840612-05:00.accessibility.json) |
+| [July 26 at 8:29 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T08:29:44.703700-05:00.accessibility.json) |
+| [July 25 at 9:51 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T21:51:32.738232-05:00.accessibility.json) |
+| [July 25 at 8:33 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T20:33:50.502884-05:00.accessibility.json) |
+| [July 25 at 11:39 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T11:39:31.220848-05:00.accessibility.json) |
+| [July 25 at 10:44 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T10:44:31.658111-05:00.accessibility.json) |
+| [July 24 at 11:34 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-24T23:34:41.214226-05:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 3:30 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T20:29:54.775681-05:00.lighthouse.json) |
-| [July 27 at 6:09 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T11:09:02.036977-05:00.lighthouse.json) |
-| [July 27 at 3:22 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T08:22:16.609797-05:00.lighthouse.json) |
-| [July 27 at 3:28 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T20:28:15.840612-05:00.lighthouse.json) |
-| [July 26 at 3:29 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T08:29:44.703700-05:00.lighthouse.json) |
-| [July 26 at 4:51 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T21:51:32.738232-05:00.lighthouse.json) |
-| [July 26 at 3:33 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T20:33:50.502884-05:00.lighthouse.json) |
-| [July 25 at 6:39 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T11:39:31.220848-05:00.lighthouse.json) |
-| [July 25 at 5:44 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T10:44:31.658111-05:00.lighthouse.json) |
-| [July 25 at 6:34 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-24T23:34:41.214226-05:00.lighthouse.json) |
+| [July 27 at 8:30 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T20:29:54.775681-05:00.lighthouse.json) |
+| [July 27 at 11:09 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T11:09:02.036977-05:00.lighthouse.json) |
+| [July 27 at 8:22 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-27T08:22:16.609797-05:00.lighthouse.json) |
+| [July 26 at 8:28 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T20:28:15.840612-05:00.lighthouse.json) |
+| [July 26 at 8:29 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-26T08:29:44.703700-05:00.lighthouse.json) |
+| [July 25 at 9:51 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T21:51:32.738232-05:00.lighthouse.json) |
+| [July 25 at 8:33 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T20:33:50.502884-05:00.lighthouse.json) |
+| [July 25 at 11:39 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T11:39:31.220848-05:00.lighthouse.json) |
+| [July 25 at 10:44 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-25T10:44:31.658111-05:00.lighthouse.json) |
+| [July 24 at 11:34 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-07-24T23:34:41.214226-05:00.lighthouse.json) |
 
 
 

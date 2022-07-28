@@ -31,109 +31,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-27T21:33:06.114254-04:00.jpg">
   <img src="https://archive.org/download/timesherald-2022/timesherald-2022-07-27T21:33:06.114254-04:00.jpg"
-     alt="The Newnan Times-Herald at 2022-07-28 04:33:07-04:00 local time"
+     alt="The Newnan Times-Herald at 2022-07-27 21:33:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-27T21:33:06.114254-04:00.jpg">July 28 at 4:33 AM</a></p>
+ <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-27T21:33:06.114254-04:00.jpg">July 27 at 9:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-27T09:24:10.321166-04:00.jpg">
   <img src="https://archive.org/download/timesherald-2022/timesherald-2022-07-27T09:24:10.321166-04:00.jpg"
-     alt="The Newnan Times-Herald at 2022-07-27 16:24:12-04:00 local time"
+     alt="The Newnan Times-Herald at 2022-07-27 09:24:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-27T09:24:10.321166-04:00.jpg">July 27 at 4:24 PM</a></p>
+ <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-27T09:24:10.321166-04:00.jpg">July 27 at 9:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-26T21:29:31.460352-04:00.jpg">
   <img src="https://archive.org/download/timesherald-2022/timesherald-2022-07-26T21:29:31.460352-04:00.jpg"
-     alt="The Newnan Times-Herald at 2022-07-27 04:29:35-04:00 local time"
+     alt="The Newnan Times-Herald at 2022-07-26 21:29:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-26T21:29:31.460352-04:00.jpg">July 27 at 4:29 AM</a></p>
+ <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-26T21:29:31.460352-04:00.jpg">July 26 at 9:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-26T09:31:51.893468-04:00.jpg">
   <img src="https://archive.org/download/timesherald-2022/timesherald-2022-07-26T09:31:51.893468-04:00.jpg"
-     alt="The Newnan Times-Herald at 2022-07-26 16:31:53-04:00 local time"
+     alt="The Newnan Times-Herald at 2022-07-26 09:31:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-26T09:31:51.893468-04:00.jpg">July 26 at 4:31 PM</a></p>
+ <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-26T09:31:51.893468-04:00.jpg">July 26 at 9:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-25T22:52:45.771585-04:00.jpg">
   <img src="https://archive.org/download/timesherald-2022/timesherald-2022-07-25T22:52:45.771585-04:00.jpg"
-     alt="The Newnan Times-Herald at 2022-07-26 05:52:47-04:00 local time"
+     alt="The Newnan Times-Herald at 2022-07-25 22:52:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-25T22:52:45.771585-04:00.jpg">July 26 at 5:52 AM</a></p>
+ <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-25T22:52:45.771585-04:00.jpg">July 25 at 10:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-25T21:36:47.114467-04:00.jpg">
   <img src="https://archive.org/download/timesherald-2022/timesherald-2022-07-25T21:36:47.114467-04:00.jpg"
-     alt="The Newnan Times-Herald at 2022-07-26 04:36:48-04:00 local time"
+     alt="The Newnan Times-Herald at 2022-07-25 21:36:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-25T21:36:47.114467-04:00.jpg">July 26 at 4:36 AM</a></p>
+ <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-25T21:36:47.114467-04:00.jpg">July 25 at 9:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-25T11:49:37.203610-04:00.jpg">
   <img src="https://archive.org/download/timesherald-2022/timesherald-2022-07-25T11:49:37.203610-04:00.jpg"
-     alt="The Newnan Times-Herald at 2022-07-25 18:49:38-04:00 local time"
+     alt="The Newnan Times-Herald at 2022-07-25 11:49:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-25T11:49:37.203610-04:00.jpg">July 25 at 6:49 PM</a></p>
+ <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-25T11:49:37.203610-04:00.jpg">July 25 at 11:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-25T00:38:07.656790-04:00.jpg">
   <img src="https://archive.org/download/timesherald-2022/timesherald-2022-07-25T00:38:07.656790-04:00.jpg"
-     alt="The Newnan Times-Herald at 2022-07-25 07:38:09-04:00 local time"
+     alt="The Newnan Times-Herald at 2022-07-25 00:38:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-25T00:38:07.656790-04:00.jpg">July 25 at 7:38 AM</a></p>
+ <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-25T00:38:07.656790-04:00.jpg">July 25 at 12:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-24T11:08:28.632157-04:00.jpg">
   <img src="https://archive.org/download/timesherald-2022/timesherald-2022-07-24T11:08:28.632157-04:00.jpg"
-     alt="The Newnan Times-Herald at 2022-07-24 18:08:29-04:00 local time"
+     alt="The Newnan Times-Herald at 2022-07-24 11:08:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-24T11:08:28.632157-04:00.jpg">July 24 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-24T11:08:28.632157-04:00.jpg">July 24 at 11:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-23T23:43:55.017519-04:00.jpg">
   <img src="https://archive.org/download/timesherald-2022/timesherald-2022-07-23T23:43:55.017519-04:00.jpg"
-     alt="The Newnan Times-Herald at 2022-07-24 06:43:56-04:00 local time"
+     alt="The Newnan Times-Herald at 2022-07-23 23:43:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-23T23:43:55.017519-04:00.jpg">July 24 at 6:43 AM</a></p>
+ <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-23T23:43:55.017519-04:00.jpg">July 23 at 11:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-23T12:06:49.453441-04:00.jpg">
   <img src="https://archive.org/download/timesherald-2022/timesherald-2022-07-23T12:06:49.453441-04:00.jpg"
-     alt="The Newnan Times-Herald at 2022-07-23 19:06:51-04:00 local time"
+     alt="The Newnan Times-Herald at 2022-07-23 12:06:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-23T12:06:49.453441-04:00.jpg">July 23 at 7:06 PM</a></p>
+ <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-23T12:06:49.453441-04:00.jpg">July 23 at 12:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-23T00:27:03.073840-04:00.jpg">
   <img src="https://archive.org/download/timesherald-2022/timesherald-2022-07-23T00:27:03.073840-04:00.jpg"
-     alt="The Newnan Times-Herald at 2022-07-23 07:27:04-04:00 local time"
+     alt="The Newnan Times-Herald at 2022-07-23 00:27:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-23T00:27:03.073840-04:00.jpg">July 23 at 7:27 AM</a></p>
+ <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-07-23T00:27:03.073840-04:00.jpg">July 23 at 12:27 AM</a></p>
 </div>
 
 </div>
@@ -148,16 +148,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 4:33 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-27T21:33:06.114254-04:00.hyperlinks.json) |
-| [July 27 at 4:24 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-27T09:24:10.321166-04:00.hyperlinks.json) |
-| [July 27 at 4:29 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-26T21:29:31.460352-04:00.hyperlinks.json) |
-| [July 26 at 4:31 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-26T09:31:51.893468-04:00.hyperlinks.json) |
-| [July 26 at 5:52 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T22:52:45.771585-04:00.hyperlinks.json) |
-| [July 26 at 4:36 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T21:36:47.114467-04:00.hyperlinks.json) |
-| [July 25 at 6:49 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T11:49:37.203610-04:00.hyperlinks.json) |
-| [July 25 at 7:38 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T00:38:07.656790-04:00.hyperlinks.json) |
-| [July 24 at 6:08 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-24T11:08:28.632157-04:00.hyperlinks.json) |
-| [July 24 at 6:44 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-23T23:43:55.017519-04:00.hyperlinks.json) |
+| [July 27 at 9:33 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-27T21:33:06.114254-04:00.hyperlinks.json) |
+| [July 27 at 9:24 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-27T09:24:10.321166-04:00.hyperlinks.json) |
+| [July 26 at 9:29 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-26T21:29:31.460352-04:00.hyperlinks.json) |
+| [July 26 at 9:31 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-26T09:31:51.893468-04:00.hyperlinks.json) |
+| [July 25 at 10:52 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T22:52:45.771585-04:00.hyperlinks.json) |
+| [July 25 at 9:36 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T21:36:47.114467-04:00.hyperlinks.json) |
+| [July 25 at 11:49 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T11:49:37.203610-04:00.hyperlinks.json) |
+| [July 25 at 12:38 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T00:38:07.656790-04:00.hyperlinks.json) |
+| [July 24 at 11:08 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-24T11:08:28.632157-04:00.hyperlinks.json) |
+| [July 23 at 11:44 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-23T23:43:55.017519-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -170,16 +170,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 4:33 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-27T21:33:06.114254-04:00.accessibility.json) |
-| [July 27 at 4:24 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-27T09:24:10.321166-04:00.accessibility.json) |
-| [July 27 at 4:29 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-26T21:29:31.460352-04:00.accessibility.json) |
-| [July 26 at 4:31 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-26T09:31:51.893468-04:00.accessibility.json) |
-| [July 26 at 5:52 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T22:52:45.771585-04:00.accessibility.json) |
-| [July 26 at 4:36 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T21:36:47.114467-04:00.accessibility.json) |
-| [July 25 at 6:49 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T11:49:37.203610-04:00.accessibility.json) |
-| [July 25 at 7:38 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T00:38:07.656790-04:00.accessibility.json) |
-| [July 24 at 6:08 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-24T11:08:28.632157-04:00.accessibility.json) |
-| [July 24 at 6:43 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-23T23:43:55.017519-04:00.accessibility.json) |
+| [July 27 at 9:33 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-27T21:33:06.114254-04:00.accessibility.json) |
+| [July 27 at 9:24 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-27T09:24:10.321166-04:00.accessibility.json) |
+| [July 26 at 9:29 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-26T21:29:31.460352-04:00.accessibility.json) |
+| [July 26 at 9:31 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-26T09:31:51.893468-04:00.accessibility.json) |
+| [July 25 at 10:52 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T22:52:45.771585-04:00.accessibility.json) |
+| [July 25 at 9:36 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T21:36:47.114467-04:00.accessibility.json) |
+| [July 25 at 11:49 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T11:49:37.203610-04:00.accessibility.json) |
+| [July 25 at 12:38 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T00:38:07.656790-04:00.accessibility.json) |
+| [July 24 at 11:08 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-24T11:08:28.632157-04:00.accessibility.json) |
+| [July 23 at 11:43 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-23T23:43:55.017519-04:00.accessibility.json) |
 
 
 
@@ -193,16 +193,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 4:33 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-27T21:33:06.114254-04:00.lighthouse.json) |
-| [July 27 at 4:24 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-27T09:24:10.321166-04:00.lighthouse.json) |
-| [July 27 at 4:29 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-26T21:29:31.460352-04:00.lighthouse.json) |
-| [July 26 at 4:31 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-26T09:31:51.893468-04:00.lighthouse.json) |
-| [July 26 at 5:52 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T22:52:45.771585-04:00.lighthouse.json) |
-| [July 26 at 4:36 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T21:36:47.114467-04:00.lighthouse.json) |
-| [July 25 at 6:49 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T11:49:37.203610-04:00.lighthouse.json) |
-| [July 25 at 7:38 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T00:38:07.656790-04:00.lighthouse.json) |
-| [July 24 at 6:08 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-24T11:08:28.632157-04:00.lighthouse.json) |
-| [July 24 at 6:44 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-23T23:43:55.017519-04:00.lighthouse.json) |
+| [July 27 at 9:33 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-27T21:33:06.114254-04:00.lighthouse.json) |
+| [July 27 at 9:24 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-27T09:24:10.321166-04:00.lighthouse.json) |
+| [July 26 at 9:29 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-26T21:29:31.460352-04:00.lighthouse.json) |
+| [July 26 at 9:31 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-26T09:31:51.893468-04:00.lighthouse.json) |
+| [July 25 at 10:52 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T22:52:45.771585-04:00.lighthouse.json) |
+| [July 25 at 9:36 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T21:36:47.114467-04:00.lighthouse.json) |
+| [July 25 at 11:49 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T11:49:37.203610-04:00.lighthouse.json) |
+| [July 25 at 12:38 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-25T00:38:07.656790-04:00.lighthouse.json) |
+| [July 24 at 11:08 AM](https://archive.org/download/timesherald-2022/timesherald-2022-07-24T11:08:28.632157-04:00.lighthouse.json) |
+| [July 23 at 11:44 PM](https://archive.org/download/timesherald-2022/timesherald-2022-07-23T23:43:55.017519-04:00.lighthouse.json) |
 
 
 

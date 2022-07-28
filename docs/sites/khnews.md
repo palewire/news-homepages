@@ -31,46 +31,46 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/khnews-2022/khnews-2022-07-27T20:05:02.636627-04:00.jpg">
   <img src="https://archive.org/download/khnews-2022/khnews-2022-07-27T20:05:02.636627-04:00.jpg"
-     alt="Kaiser Health News at 2022-07-28 03:05:04-04:00 local time"
+     alt="Kaiser Health News at 2022-07-27 20:05:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khnews-2022/khnews-2022-07-27T20:05:02.636627-04:00.jpg">July 28 at 3:05 AM</a></p>
+ <p><a href="https://archive.org/download/khnews-2022/khnews-2022-07-27T20:05:02.636627-04:00.jpg">July 27 at 8:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khnews-2022/khnews-2022-07-27T09:08:00.740667-04:00.jpg">
   <img src="https://archive.org/download/khnews-2022/khnews-2022-07-27T09:08:00.740667-04:00.jpg"
-     alt="Kaiser Health News at 2022-07-27 16:08:03-04:00 local time"
+     alt="Kaiser Health News at 2022-07-27 09:08:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khnews-2022/khnews-2022-07-27T09:08:00.740667-04:00.jpg">July 27 at 4:08 PM</a></p>
+ <p><a href="https://archive.org/download/khnews-2022/khnews-2022-07-27T09:08:00.740667-04:00.jpg">July 27 at 9:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khnews-2022/khnews-2022-07-26T20:12:42.558110-04:00.jpg">
   <img src="https://archive.org/download/khnews-2022/khnews-2022-07-26T20:12:42.558110-04:00.jpg"
-     alt="Kaiser Health News at 2022-07-27 03:12:44-04:00 local time"
+     alt="Kaiser Health News at 2022-07-26 20:12:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khnews-2022/khnews-2022-07-26T20:12:42.558110-04:00.jpg">July 27 at 3:12 AM</a></p>
+ <p><a href="https://archive.org/download/khnews-2022/khnews-2022-07-26T20:12:42.558110-04:00.jpg">July 26 at 8:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khnews-2022/khnews-2022-07-26T08:22:32.772071-04:00.jpg">
   <img src="https://archive.org/download/khnews-2022/khnews-2022-07-26T08:22:32.772071-04:00.jpg"
-     alt="Kaiser Health News at 2022-07-26 15:22:37-04:00 local time"
+     alt="Kaiser Health News at 2022-07-26 08:22:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khnews-2022/khnews-2022-07-26T08:22:32.772071-04:00.jpg">July 26 at 3:22 PM</a></p>
+ <p><a href="https://archive.org/download/khnews-2022/khnews-2022-07-26T08:22:32.772071-04:00.jpg">July 26 at 8:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khnews-2022/khnews-2022-07-25T20:17:12.336652-04:00.jpg">
   <img src="https://archive.org/download/khnews-2022/khnews-2022-07-25T20:17:12.336652-04:00.jpg"
-     alt="Kaiser Health News at 2022-07-26 03:17:18-04:00 local time"
+     alt="Kaiser Health News at 2022-07-25 20:17:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khnews-2022/khnews-2022-07-25T20:17:12.336652-04:00.jpg">July 26 at 3:17 AM</a></p>
+ <p><a href="https://archive.org/download/khnews-2022/khnews-2022-07-25T20:17:12.336652-04:00.jpg">July 25 at 8:17 PM</a></p>
 </div>
 
 </div>
@@ -85,11 +85,11 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 3:05 AM](https://archive.org/download/khnews-2022/khnews-2022-07-27T20:05:02.636627-04:00.hyperlinks.json) |
-| [July 27 at 4:08 PM](https://archive.org/download/khnews-2022/khnews-2022-07-27T09:08:00.740667-04:00.hyperlinks.json) |
-| [July 27 at 3:12 AM](https://archive.org/download/khnews-2022/khnews-2022-07-26T20:12:42.558110-04:00.hyperlinks.json) |
-| [July 26 at 3:22 PM](https://archive.org/download/khnews-2022/khnews-2022-07-26T08:22:32.772071-04:00.hyperlinks.json) |
-| [July 26 at 3:17 AM](https://archive.org/download/khnews-2022/khnews-2022-07-25T20:17:12.336652-04:00.hyperlinks.json) |
+| [July 27 at 8:05 PM](https://archive.org/download/khnews-2022/khnews-2022-07-27T20:05:02.636627-04:00.hyperlinks.json) |
+| [July 27 at 9:08 AM](https://archive.org/download/khnews-2022/khnews-2022-07-27T09:08:00.740667-04:00.hyperlinks.json) |
+| [July 26 at 8:12 PM](https://archive.org/download/khnews-2022/khnews-2022-07-26T20:12:42.558110-04:00.hyperlinks.json) |
+| [July 26 at 8:22 AM](https://archive.org/download/khnews-2022/khnews-2022-07-26T08:22:32.772071-04:00.hyperlinks.json) |
+| [July 25 at 8:17 PM](https://archive.org/download/khnews-2022/khnews-2022-07-25T20:17:12.336652-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -102,11 +102,11 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 3:05 AM](https://archive.org/download/khnews-2022/khnews-2022-07-27T20:05:02.636627-04:00.accessibility.json) |
-| [July 27 at 4:08 PM](https://archive.org/download/khnews-2022/khnews-2022-07-27T09:08:00.740667-04:00.accessibility.json) |
-| [July 27 at 3:12 AM](https://archive.org/download/khnews-2022/khnews-2022-07-26T20:12:42.558110-04:00.accessibility.json) |
-| [July 26 at 3:22 PM](https://archive.org/download/khnews-2022/khnews-2022-07-26T08:22:32.772071-04:00.accessibility.json) |
-| [July 26 at 3:17 AM](https://archive.org/download/khnews-2022/khnews-2022-07-25T20:17:12.336652-04:00.accessibility.json) |
+| [July 27 at 8:05 PM](https://archive.org/download/khnews-2022/khnews-2022-07-27T20:05:02.636627-04:00.accessibility.json) |
+| [July 27 at 9:08 AM](https://archive.org/download/khnews-2022/khnews-2022-07-27T09:08:00.740667-04:00.accessibility.json) |
+| [July 26 at 8:12 PM](https://archive.org/download/khnews-2022/khnews-2022-07-26T20:12:42.558110-04:00.accessibility.json) |
+| [July 26 at 8:22 AM](https://archive.org/download/khnews-2022/khnews-2022-07-26T08:22:32.772071-04:00.accessibility.json) |
+| [July 25 at 8:17 PM](https://archive.org/download/khnews-2022/khnews-2022-07-25T20:17:12.336652-04:00.accessibility.json) |
 
 
 
@@ -120,11 +120,11 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 3:05 AM](https://archive.org/download/khnews-2022/khnews-2022-07-27T20:05:02.636627-04:00.lighthouse.json) |
-| [July 27 at 4:08 PM](https://archive.org/download/khnews-2022/khnews-2022-07-27T09:08:00.740667-04:00.lighthouse.json) |
-| [July 27 at 3:12 AM](https://archive.org/download/khnews-2022/khnews-2022-07-26T20:12:42.558110-04:00.lighthouse.json) |
-| [July 26 at 3:22 PM](https://archive.org/download/khnews-2022/khnews-2022-07-26T08:22:32.772071-04:00.lighthouse.json) |
-| [July 26 at 3:17 AM](https://archive.org/download/khnews-2022/khnews-2022-07-25T20:17:12.336652-04:00.lighthouse.json) |
+| [July 27 at 8:05 PM](https://archive.org/download/khnews-2022/khnews-2022-07-27T20:05:02.636627-04:00.lighthouse.json) |
+| [July 27 at 9:08 AM](https://archive.org/download/khnews-2022/khnews-2022-07-27T09:08:00.740667-04:00.lighthouse.json) |
+| [July 26 at 8:12 PM](https://archive.org/download/khnews-2022/khnews-2022-07-26T20:12:42.558110-04:00.lighthouse.json) |
+| [July 26 at 8:22 AM](https://archive.org/download/khnews-2022/khnews-2022-07-26T08:22:32.772071-04:00.lighthouse.json) |
+| [July 25 at 8:17 PM](https://archive.org/download/khnews-2022/khnews-2022-07-25T20:17:12.336652-04:00.lighthouse.json) |
 
 
 

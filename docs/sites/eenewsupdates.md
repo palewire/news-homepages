@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-28T07:10:31.713202-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-28T07:10:31.713202-04:00.jpg"
-     alt="E&E News at 2022-07-28 14:10:34-04:00 local time"
+     alt="E&E News at 2022-07-28 07:10:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-28T07:10:31.713202-04:00.jpg">July 28 at 2:10 PM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-28T07:10:31.713202-04:00.jpg">July 28 at 7:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T19:07:12.379709-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T19:07:12.379709-04:00.jpg"
-     alt="E&E News at 2022-07-28 02:07:14-04:00 local time"
+     alt="E&E News at 2022-07-27 19:07:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T19:07:12.379709-04:00.jpg">July 28 at 2:07 AM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T19:07:12.379709-04:00.jpg">July 27 at 7:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T07:06:48.342388-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T07:06:48.342388-04:00.jpg"
-     alt="E&E News at 2022-07-27 14:06:51-04:00 local time"
+     alt="E&E News at 2022-07-27 07:06:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T07:06:48.342388-04:00.jpg">July 27 at 2:06 PM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T07:06:48.342388-04:00.jpg">July 27 at 7:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T19:08:45.301445-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T19:08:45.301445-04:00.jpg"
-     alt="E&E News at 2022-07-27 02:08:47-04:00 local time"
+     alt="E&E News at 2022-07-26 19:08:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T19:08:45.301445-04:00.jpg">July 27 at 2:08 AM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T19:08:45.301445-04:00.jpg">July 26 at 7:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T07:17:31.884867-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T07:17:31.884867-04:00.jpg"
-     alt="E&E News at 2022-07-26 14:17:33-04:00 local time"
+     alt="E&E News at 2022-07-26 07:17:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T07:17:31.884867-04:00.jpg">July 26 at 2:17 PM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T07:17:31.884867-04:00.jpg">July 26 at 7:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T19:13:05.967872-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T19:13:05.967872-04:00.jpg"
-     alt="E&E News at 2022-07-26 02:13:07-04:00 local time"
+     alt="E&E News at 2022-07-25 19:13:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T19:13:05.967872-04:00.jpg">July 26 at 2:13 AM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T19:13:05.967872-04:00.jpg">July 25 at 7:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T08:00:16.998924-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T08:00:16.998924-04:00.jpg"
-     alt="E&E News at 2022-07-25 15:00:19-04:00 local time"
+     alt="E&E News at 2022-07-25 08:00:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T08:00:16.998924-04:00.jpg">July 25 at 3:00 PM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T08:00:16.998924-04:00.jpg">July 25 at 8:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T21:02:25.138615-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T21:02:25.138615-04:00.jpg"
-     alt="E&E News at 2022-07-25 04:02:26-04:00 local time"
+     alt="E&E News at 2022-07-24 21:02:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T21:02:25.138615-04:00.jpg">July 25 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T21:02:25.138615-04:00.jpg">July 24 at 9:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T07:58:07.542481-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T07:58:07.542481-04:00.jpg"
-     alt="E&E News at 2022-07-24 14:58:09-04:00 local time"
+     alt="E&E News at 2022-07-24 07:58:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T07:58:07.542481-04:00.jpg">July 24 at 2:58 PM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T07:58:07.542481-04:00.jpg">July 24 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T02:28:16.768727-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T02:28:16.768727-04:00.jpg"
-     alt="E&E News at 2022-07-24 09:28:20-04:00 local time"
+     alt="E&E News at 2022-07-24 02:28:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T02:28:16.768727-04:00.jpg">July 24 at 9:28 AM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T02:28:16.768727-04:00.jpg">July 24 at 2:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-23T09:57:42.738583-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-23T09:57:42.738583-04:00.jpg"
-     alt="E&E News at 2022-07-23 16:57:44-04:00 local time"
+     alt="E&E News at 2022-07-23 09:57:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-23T09:57:42.738583-04:00.jpg">July 23 at 4:57 PM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-23T09:57:42.738583-04:00.jpg">July 23 at 9:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-22T22:25:02.290946-04:00.jpg">
   <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-22T22:25:02.290946-04:00.jpg"
-     alt="E&E News at 2022-07-23 05:25:03-04:00 local time"
+     alt="E&E News at 2022-07-22 22:25:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-22T22:25:02.290946-04:00.jpg">July 23 at 5:25 AM</a></p>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-22T22:25:02.290946-04:00.jpg">July 22 at 10:25 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 2:10 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-28T07:10:31.713202-04:00.hyperlinks.json) |
-| [July 28 at 2:07 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T19:07:12.379709-04:00.hyperlinks.json) |
-| [July 27 at 2:06 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T07:06:48.342388-04:00.hyperlinks.json) |
-| [July 27 at 2:08 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T19:08:45.301445-04:00.hyperlinks.json) |
-| [July 26 at 2:17 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T07:17:31.884867-04:00.hyperlinks.json) |
-| [July 26 at 2:13 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T19:13:05.967872-04:00.hyperlinks.json) |
-| [July 25 at 3:00 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T08:00:16.998924-04:00.hyperlinks.json) |
-| [July 25 at 4:02 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T21:02:25.138615-04:00.hyperlinks.json) |
-| [July 24 at 2:58 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T07:58:07.542481-04:00.hyperlinks.json) |
-| [July 24 at 9:28 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T02:28:16.768727-04:00.hyperlinks.json) |
+| [July 28 at 7:10 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-28T07:10:31.713202-04:00.hyperlinks.json) |
+| [July 27 at 7:07 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T19:07:12.379709-04:00.hyperlinks.json) |
+| [July 27 at 7:06 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T07:06:48.342388-04:00.hyperlinks.json) |
+| [July 26 at 7:08 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T19:08:45.301445-04:00.hyperlinks.json) |
+| [July 26 at 7:17 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T07:17:31.884867-04:00.hyperlinks.json) |
+| [July 25 at 7:13 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T19:13:05.967872-04:00.hyperlinks.json) |
+| [July 25 at 8:00 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T08:00:16.998924-04:00.hyperlinks.json) |
+| [July 24 at 9:02 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T21:02:25.138615-04:00.hyperlinks.json) |
+| [July 24 at 7:58 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T07:58:07.542481-04:00.hyperlinks.json) |
+| [July 24 at 2:28 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T02:28:16.768727-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 2:10 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-28T07:10:31.713202-04:00.accessibility.json) |
-| [July 28 at 2:07 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T19:07:12.379709-04:00.accessibility.json) |
-| [July 27 at 2:06 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T07:06:48.342388-04:00.accessibility.json) |
-| [July 27 at 2:08 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T19:08:45.301445-04:00.accessibility.json) |
-| [July 26 at 2:17 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T07:17:31.884867-04:00.accessibility.json) |
-| [July 26 at 2:13 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T19:13:05.967872-04:00.accessibility.json) |
-| [July 25 at 3:00 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T08:00:16.998924-04:00.accessibility.json) |
-| [July 25 at 4:02 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T21:02:25.138615-04:00.accessibility.json) |
-| [July 24 at 2:58 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T07:58:07.542481-04:00.accessibility.json) |
-| [July 24 at 9:28 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T02:28:16.768727-04:00.accessibility.json) |
+| [July 28 at 7:10 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-28T07:10:31.713202-04:00.accessibility.json) |
+| [July 27 at 7:07 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T19:07:12.379709-04:00.accessibility.json) |
+| [July 27 at 7:06 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T07:06:48.342388-04:00.accessibility.json) |
+| [July 26 at 7:08 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T19:08:45.301445-04:00.accessibility.json) |
+| [July 26 at 7:17 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T07:17:31.884867-04:00.accessibility.json) |
+| [July 25 at 7:13 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T19:13:05.967872-04:00.accessibility.json) |
+| [July 25 at 8:00 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T08:00:16.998924-04:00.accessibility.json) |
+| [July 24 at 9:02 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T21:02:25.138615-04:00.accessibility.json) |
+| [July 24 at 7:58 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T07:58:07.542481-04:00.accessibility.json) |
+| [July 24 at 2:28 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T02:28:16.768727-04:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 2:10 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-28T07:10:31.713202-04:00.lighthouse.json) |
-| [July 28 at 2:07 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T19:07:12.379709-04:00.lighthouse.json) |
-| [July 27 at 2:06 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T07:06:48.342388-04:00.lighthouse.json) |
-| [July 27 at 2:08 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T19:08:45.301445-04:00.lighthouse.json) |
-| [July 26 at 2:17 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T07:17:31.884867-04:00.lighthouse.json) |
-| [July 26 at 2:13 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T19:13:05.967872-04:00.lighthouse.json) |
-| [July 25 at 3:00 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T08:00:16.998924-04:00.lighthouse.json) |
-| [July 25 at 4:02 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T21:02:25.138615-04:00.lighthouse.json) |
-| [July 24 at 2:58 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T07:58:07.542481-04:00.lighthouse.json) |
-| [July 24 at 9:28 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T02:28:16.768727-04:00.lighthouse.json) |
+| [July 28 at 7:10 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-28T07:10:31.713202-04:00.lighthouse.json) |
+| [July 27 at 7:07 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T19:07:12.379709-04:00.lighthouse.json) |
+| [July 27 at 7:06 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T07:06:48.342388-04:00.lighthouse.json) |
+| [July 26 at 7:08 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T19:08:45.301445-04:00.lighthouse.json) |
+| [July 26 at 7:17 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T07:17:31.884867-04:00.lighthouse.json) |
+| [July 25 at 7:13 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T19:13:05.967872-04:00.lighthouse.json) |
+| [July 25 at 8:00 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T08:00:16.998924-04:00.lighthouse.json) |
+| [July 24 at 9:02 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T21:02:25.138615-04:00.lighthouse.json) |
+| [July 24 at 7:58 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T07:58:07.542481-04:00.lighthouse.json) |
+| [July 24 at 2:28 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-24T02:28:16.768727-04:00.lighthouse.json) |
 
 
 

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T19:03:07.100640-05:00.jpg">
   <img src="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T19:03:07.100640-05:00.jpg"
-     alt="Houston Chronicle at 2022-07-28 02:03:12-05:00 local time"
+     alt="Houston Chronicle at 2022-07-27 19:03:12-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T19:03:07.100640-05:00.jpg">July 28 at 2:03 AM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T19:03:07.100640-05:00.jpg">July 27 at 7:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T08:06:42.531623-05:00.jpg">
   <img src="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T08:06:42.531623-05:00.jpg"
-     alt="Houston Chronicle at 2022-07-27 15:06:44-05:00 local time"
+     alt="Houston Chronicle at 2022-07-27 08:06:44-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T08:06:42.531623-05:00.jpg">July 27 at 3:06 PM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T08:06:42.531623-05:00.jpg">July 27 at 8:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T19:11:33.727450-05:00.jpg">
   <img src="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T19:11:33.727450-05:00.jpg"
-     alt="Houston Chronicle at 2022-07-27 02:11:36-05:00 local time"
+     alt="Houston Chronicle at 2022-07-26 19:11:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T19:11:33.727450-05:00.jpg">July 27 at 2:11 AM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T19:11:33.727450-05:00.jpg">July 26 at 7:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T07:19:22.408425-05:00.jpg">
   <img src="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T07:19:22.408425-05:00.jpg"
-     alt="Houston Chronicle at 2022-07-26 14:19:31-05:00 local time"
+     alt="Houston Chronicle at 2022-07-26 07:19:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T07:19:22.408425-05:00.jpg">July 26 at 2:19 PM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T07:19:22.408425-05:00.jpg">July 26 at 7:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T19:14:27.469956-05:00.jpg">
   <img src="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T19:14:27.469956-05:00.jpg"
-     alt="Houston Chronicle at 2022-07-26 02:14:31-05:00 local time"
+     alt="Houston Chronicle at 2022-07-25 19:14:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T19:14:27.469956-05:00.jpg">July 26 at 2:14 AM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T19:14:27.469956-05:00.jpg">July 25 at 7:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T07:05:27.362379-05:00.jpg">
   <img src="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T07:05:27.362379-05:00.jpg"
-     alt="Houston Chronicle at 2022-07-25 14:05:29-05:00 local time"
+     alt="Houston Chronicle at 2022-07-25 07:05:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T07:05:27.362379-05:00.jpg">July 25 at 2:05 PM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T07:05:27.362379-05:00.jpg">July 25 at 7:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T20:11:34.224176-05:00.jpg">
   <img src="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T20:11:34.224176-05:00.jpg"
-     alt="Houston Chronicle at 2022-07-25 03:11:35-05:00 local time"
+     alt="Houston Chronicle at 2022-07-24 20:11:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T20:11:34.224176-05:00.jpg">July 25 at 3:11 AM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T20:11:34.224176-05:00.jpg">July 24 at 8:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T07:02:51.643683-05:00.jpg">
   <img src="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T07:02:51.643683-05:00.jpg"
-     alt="Houston Chronicle at 2022-07-24 14:02:54-05:00 local time"
+     alt="Houston Chronicle at 2022-07-24 07:02:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T07:02:51.643683-05:00.jpg">July 24 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T07:02:51.643683-05:00.jpg">July 24 at 7:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T01:32:48.737873-05:00.jpg">
   <img src="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T01:32:48.737873-05:00.jpg"
-     alt="Houston Chronicle at 2022-07-24 08:32:50-05:00 local time"
+     alt="Houston Chronicle at 2022-07-24 01:32:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T01:32:48.737873-05:00.jpg">July 24 at 8:32 AM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T01:32:48.737873-05:00.jpg">July 24 at 1:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-23T09:01:51.037399-05:00.jpg">
   <img src="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-23T09:01:51.037399-05:00.jpg"
-     alt="Houston Chronicle at 2022-07-23 16:01:52-05:00 local time"
+     alt="Houston Chronicle at 2022-07-23 09:01:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-23T09:01:51.037399-05:00.jpg">July 23 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-23T09:01:51.037399-05:00.jpg">July 23 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-22T09:03:24.684705-05:00.jpg">
   <img src="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-22T09:03:24.684705-05:00.jpg"
-     alt="Houston Chronicle at 2022-07-22 16:03:26-05:00 local time"
+     alt="Houston Chronicle at 2022-07-22 09:03:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-22T09:03:24.684705-05:00.jpg">July 22 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-22T09:03:24.684705-05:00.jpg">July 22 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-21T09:11:18.799404-05:00.jpg">
   <img src="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-21T09:11:18.799404-05:00.jpg"
-     alt="Houston Chronicle at 2022-07-21 16:11:20-05:00 local time"
+     alt="Houston Chronicle at 2022-07-21 09:11:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-21T09:11:18.799404-05:00.jpg">July 21 at 4:11 PM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-21T09:11:18.799404-05:00.jpg">July 21 at 9:11 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 2:03 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T19:03:07.100640-05:00.hyperlinks.json) |
-| [July 27 at 3:06 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T08:06:42.531623-05:00.hyperlinks.json) |
-| [July 27 at 2:11 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T19:11:33.727450-05:00.hyperlinks.json) |
-| [July 26 at 2:20 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T07:19:22.408425-05:00.hyperlinks.json) |
-| [July 26 at 2:14 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T19:14:27.469956-05:00.hyperlinks.json) |
-| [July 25 at 2:05 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T07:05:27.362379-05:00.hyperlinks.json) |
-| [July 24 at 2:02 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T07:02:51.643683-05:00.hyperlinks.json) |
-| [July 24 at 8:32 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T01:32:48.737873-05:00.hyperlinks.json) |
-| [July 23 at 4:01 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-23T09:01:51.037399-05:00.hyperlinks.json) |
-| [July 22 at 4:03 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-22T09:03:24.684705-05:00.hyperlinks.json) |
+| [July 27 at 7:03 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T19:03:07.100640-05:00.hyperlinks.json) |
+| [July 27 at 8:06 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T08:06:42.531623-05:00.hyperlinks.json) |
+| [July 26 at 7:11 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T19:11:33.727450-05:00.hyperlinks.json) |
+| [July 26 at 7:20 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T07:19:22.408425-05:00.hyperlinks.json) |
+| [July 25 at 7:14 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T19:14:27.469956-05:00.hyperlinks.json) |
+| [July 25 at 7:05 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T07:05:27.362379-05:00.hyperlinks.json) |
+| [July 24 at 7:02 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T07:02:51.643683-05:00.hyperlinks.json) |
+| [July 24 at 1:32 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T01:32:48.737873-05:00.hyperlinks.json) |
+| [July 23 at 9:01 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-23T09:01:51.037399-05:00.hyperlinks.json) |
+| [July 22 at 9:03 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-22T09:03:24.684705-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 2:03 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T19:03:07.100640-05:00.accessibility.json) |
-| [July 27 at 3:06 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T08:06:42.531623-05:00.accessibility.json) |
-| [July 27 at 2:11 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T19:11:33.727450-05:00.accessibility.json) |
-| [July 26 at 2:19 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T07:19:22.408425-05:00.accessibility.json) |
-| [July 26 at 2:14 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T19:14:27.469956-05:00.accessibility.json) |
-| [July 25 at 2:05 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T07:05:27.362379-05:00.accessibility.json) |
-| [July 25 at 3:11 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T20:11:34.224176-05:00.accessibility.json) |
-| [July 24 at 2:02 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T07:02:51.643683-05:00.accessibility.json) |
-| [July 24 at 8:32 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T01:32:48.737873-05:00.accessibility.json) |
-| [July 23 at 4:01 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-23T09:01:51.037399-05:00.accessibility.json) |
+| [July 27 at 7:03 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T19:03:07.100640-05:00.accessibility.json) |
+| [July 27 at 8:06 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T08:06:42.531623-05:00.accessibility.json) |
+| [July 26 at 7:11 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T19:11:33.727450-05:00.accessibility.json) |
+| [July 26 at 7:19 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T07:19:22.408425-05:00.accessibility.json) |
+| [July 25 at 7:14 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T19:14:27.469956-05:00.accessibility.json) |
+| [July 25 at 7:05 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T07:05:27.362379-05:00.accessibility.json) |
+| [July 24 at 8:11 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T20:11:34.224176-05:00.accessibility.json) |
+| [July 24 at 7:02 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T07:02:51.643683-05:00.accessibility.json) |
+| [July 24 at 1:32 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T01:32:48.737873-05:00.accessibility.json) |
+| [July 23 at 9:01 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-23T09:01:51.037399-05:00.accessibility.json) |
 
 
 
@@ -442,15 +442,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 2:03 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T19:03:07.100640-05:00.lighthouse.json) |
-| [July 27 at 3:06 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T08:06:42.531623-05:00.lighthouse.json) |
-| [July 27 at 2:11 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T19:11:33.727450-05:00.lighthouse.json) |
-| [July 26 at 2:20 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T07:19:22.408425-05:00.lighthouse.json) |
-| [July 26 at 2:14 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T19:14:27.469956-05:00.lighthouse.json) |
-| [July 25 at 2:05 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T07:05:27.362379-05:00.lighthouse.json) |
-| [July 25 at 3:11 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T20:11:34.224176-05:00.lighthouse.json) |
-| [July 24 at 2:02 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T07:02:51.643683-05:00.lighthouse.json) |
-| [July 24 at 8:32 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T01:32:48.737873-05:00.lighthouse.json) |
+| [July 27 at 7:03 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T19:03:07.100640-05:00.lighthouse.json) |
+| [July 27 at 8:06 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-27T08:06:42.531623-05:00.lighthouse.json) |
+| [July 26 at 7:11 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T19:11:33.727450-05:00.lighthouse.json) |
+| [July 26 at 7:20 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-26T07:19:22.408425-05:00.lighthouse.json) |
+| [July 25 at 7:14 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T19:14:27.469956-05:00.lighthouse.json) |
+| [July 25 at 7:05 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T07:05:27.362379-05:00.lighthouse.json) |
+| [July 24 at 8:11 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T20:11:34.224176-05:00.lighthouse.json) |
+| [July 24 at 7:02 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T07:02:51.643683-05:00.lighthouse.json) |
+| [July 24 at 1:32 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T01:32:48.737873-05:00.lighthouse.json) |
 
 
 

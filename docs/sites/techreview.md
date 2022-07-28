@@ -31,64 +31,64 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/techreview-2022/techreview-2022-07-27T23:46:36.829442-04:00.jpg">
   <img src="https://archive.org/download/techreview-2022/techreview-2022-07-27T23:46:36.829442-04:00.jpg"
-     alt="MIT Technology Review at 2022-07-28 06:46:38-04:00 local time"
+     alt="MIT Technology Review at 2022-07-27 23:46:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/techreview-2022/techreview-2022-07-27T23:46:36.829442-04:00.jpg">July 28 at 6:46 AM</a></p>
+ <p><a href="https://archive.org/download/techreview-2022/techreview-2022-07-27T23:46:36.829442-04:00.jpg">July 27 at 11:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/techreview-2022/techreview-2022-07-27T11:47:34.394410-04:00.jpg">
   <img src="https://archive.org/download/techreview-2022/techreview-2022-07-27T11:47:34.394410-04:00.jpg"
-     alt="MIT Technology Review at 2022-07-27 18:47:36-04:00 local time"
+     alt="MIT Technology Review at 2022-07-27 11:47:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/techreview-2022/techreview-2022-07-27T11:47:34.394410-04:00.jpg">July 27 at 6:47 PM</a></p>
+ <p><a href="https://archive.org/download/techreview-2022/techreview-2022-07-27T11:47:34.394410-04:00.jpg">July 27 at 11:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/techreview-2022/techreview-2022-07-26T23:56:00.636945-04:00.jpg">
   <img src="https://archive.org/download/techreview-2022/techreview-2022-07-26T23:56:00.636945-04:00.jpg"
-     alt="MIT Technology Review at 2022-07-27 06:56:01-04:00 local time"
+     alt="MIT Technology Review at 2022-07-26 23:56:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/techreview-2022/techreview-2022-07-26T23:56:00.636945-04:00.jpg">July 27 at 6:56 AM</a></p>
+ <p><a href="https://archive.org/download/techreview-2022/techreview-2022-07-26T23:56:00.636945-04:00.jpg">July 26 at 11:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/techreview-2022/techreview-2022-07-26T11:46:47.515366-04:00.jpg">
   <img src="https://archive.org/download/techreview-2022/techreview-2022-07-26T11:46:47.515366-04:00.jpg"
-     alt="MIT Technology Review at 2022-07-26 18:46:49-04:00 local time"
+     alt="MIT Technology Review at 2022-07-26 11:46:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/techreview-2022/techreview-2022-07-26T11:46:47.515366-04:00.jpg">July 26 at 6:46 PM</a></p>
+ <p><a href="https://archive.org/download/techreview-2022/techreview-2022-07-26T11:46:47.515366-04:00.jpg">July 26 at 11:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/techreview-2022/techreview-2022-07-25T23:58:17.285430-04:00.jpg">
   <img src="https://archive.org/download/techreview-2022/techreview-2022-07-25T23:58:17.285430-04:00.jpg"
-     alt="MIT Technology Review at 2022-07-26 06:58:18-04:00 local time"
+     alt="MIT Technology Review at 2022-07-25 23:58:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/techreview-2022/techreview-2022-07-25T23:58:17.285430-04:00.jpg">July 26 at 6:58 AM</a></p>
+ <p><a href="https://archive.org/download/techreview-2022/techreview-2022-07-25T23:58:17.285430-04:00.jpg">July 25 at 11:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/techreview-2022/techreview-2022-07-25T11:44:38.300193-04:00.jpg">
   <img src="https://archive.org/download/techreview-2022/techreview-2022-07-25T11:44:38.300193-04:00.jpg"
-     alt="MIT Technology Review at 2022-07-25 18:44:39-04:00 local time"
+     alt="MIT Technology Review at 2022-07-25 11:44:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/techreview-2022/techreview-2022-07-25T11:44:38.300193-04:00.jpg">July 25 at 6:44 PM</a></p>
+ <p><a href="https://archive.org/download/techreview-2022/techreview-2022-07-25T11:44:38.300193-04:00.jpg">July 25 at 11:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/techreview-2022/techreview-2022-07-25T02:46:50.717534-04:00.jpg">
   <img src="https://archive.org/download/techreview-2022/techreview-2022-07-25T02:46:50.717534-04:00.jpg"
-     alt="MIT Technology Review at 2022-07-25 09:46:56-04:00 local time"
+     alt="MIT Technology Review at 2022-07-25 02:46:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/techreview-2022/techreview-2022-07-25T02:46:50.717534-04:00.jpg">July 25 at 9:46 AM</a></p>
+ <p><a href="https://archive.org/download/techreview-2022/techreview-2022-07-25T02:46:50.717534-04:00.jpg">July 25 at 2:46 AM</a></p>
 </div>
 
 </div>
@@ -103,13 +103,13 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 6:46 AM](https://archive.org/download/techreview-2022/techreview-2022-07-27T23:46:36.829442-04:00.hyperlinks.json) |
-| [July 27 at 6:47 PM](https://archive.org/download/techreview-2022/techreview-2022-07-27T11:47:34.394410-04:00.hyperlinks.json) |
-| [July 27 at 6:56 AM](https://archive.org/download/techreview-2022/techreview-2022-07-26T23:56:00.636945-04:00.hyperlinks.json) |
-| [July 26 at 6:46 PM](https://archive.org/download/techreview-2022/techreview-2022-07-26T11:46:47.515366-04:00.hyperlinks.json) |
-| [July 26 at 6:58 AM](https://archive.org/download/techreview-2022/techreview-2022-07-25T23:58:17.285430-04:00.hyperlinks.json) |
-| [July 25 at 6:44 PM](https://archive.org/download/techreview-2022/techreview-2022-07-25T11:44:38.300193-04:00.hyperlinks.json) |
-| [July 25 at 9:47 AM](https://archive.org/download/techreview-2022/techreview-2022-07-25T02:46:50.717534-04:00.hyperlinks.json) |
+| [July 27 at 11:46 PM](https://archive.org/download/techreview-2022/techreview-2022-07-27T23:46:36.829442-04:00.hyperlinks.json) |
+| [July 27 at 11:47 AM](https://archive.org/download/techreview-2022/techreview-2022-07-27T11:47:34.394410-04:00.hyperlinks.json) |
+| [July 26 at 11:56 PM](https://archive.org/download/techreview-2022/techreview-2022-07-26T23:56:00.636945-04:00.hyperlinks.json) |
+| [July 26 at 11:46 AM](https://archive.org/download/techreview-2022/techreview-2022-07-26T11:46:47.515366-04:00.hyperlinks.json) |
+| [July 25 at 11:58 PM](https://archive.org/download/techreview-2022/techreview-2022-07-25T23:58:17.285430-04:00.hyperlinks.json) |
+| [July 25 at 11:44 AM](https://archive.org/download/techreview-2022/techreview-2022-07-25T11:44:38.300193-04:00.hyperlinks.json) |
+| [July 25 at 2:47 AM](https://archive.org/download/techreview-2022/techreview-2022-07-25T02:46:50.717534-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -122,12 +122,12 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 6:46 AM](https://archive.org/download/techreview-2022/techreview-2022-07-27T23:46:36.829442-04:00.accessibility.json) |
-| [July 27 at 6:47 PM](https://archive.org/download/techreview-2022/techreview-2022-07-27T11:47:34.394410-04:00.accessibility.json) |
-| [July 27 at 6:56 AM](https://archive.org/download/techreview-2022/techreview-2022-07-26T23:56:00.636945-04:00.accessibility.json) |
-| [July 26 at 6:46 PM](https://archive.org/download/techreview-2022/techreview-2022-07-26T11:46:47.515366-04:00.accessibility.json) |
-| [July 26 at 6:58 AM](https://archive.org/download/techreview-2022/techreview-2022-07-25T23:58:17.285430-04:00.accessibility.json) |
-| [July 25 at 9:47 AM](https://archive.org/download/techreview-2022/techreview-2022-07-25T02:46:50.717534-04:00.accessibility.json) |
+| [July 27 at 11:46 PM](https://archive.org/download/techreview-2022/techreview-2022-07-27T23:46:36.829442-04:00.accessibility.json) |
+| [July 27 at 11:47 AM](https://archive.org/download/techreview-2022/techreview-2022-07-27T11:47:34.394410-04:00.accessibility.json) |
+| [July 26 at 11:56 PM](https://archive.org/download/techreview-2022/techreview-2022-07-26T23:56:00.636945-04:00.accessibility.json) |
+| [July 26 at 11:46 AM](https://archive.org/download/techreview-2022/techreview-2022-07-26T11:46:47.515366-04:00.accessibility.json) |
+| [July 25 at 11:58 PM](https://archive.org/download/techreview-2022/techreview-2022-07-25T23:58:17.285430-04:00.accessibility.json) |
+| [July 25 at 2:47 AM](https://archive.org/download/techreview-2022/techreview-2022-07-25T02:46:50.717534-04:00.accessibility.json) |
 
 
 
@@ -141,13 +141,13 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 6:46 AM](https://archive.org/download/techreview-2022/techreview-2022-07-27T23:46:36.829442-04:00.lighthouse.json) |
-| [July 27 at 6:47 PM](https://archive.org/download/techreview-2022/techreview-2022-07-27T11:47:34.394410-04:00.lighthouse.json) |
-| [July 27 at 6:56 AM](https://archive.org/download/techreview-2022/techreview-2022-07-26T23:56:00.636945-04:00.lighthouse.json) |
-| [July 26 at 6:46 PM](https://archive.org/download/techreview-2022/techreview-2022-07-26T11:46:47.515366-04:00.lighthouse.json) |
-| [July 26 at 6:58 AM](https://archive.org/download/techreview-2022/techreview-2022-07-25T23:58:17.285430-04:00.lighthouse.json) |
-| [July 25 at 6:44 PM](https://archive.org/download/techreview-2022/techreview-2022-07-25T11:44:38.300193-04:00.lighthouse.json) |
-| [July 25 at 9:47 AM](https://archive.org/download/techreview-2022/techreview-2022-07-25T02:46:50.717534-04:00.lighthouse.json) |
+| [July 27 at 11:46 PM](https://archive.org/download/techreview-2022/techreview-2022-07-27T23:46:36.829442-04:00.lighthouse.json) |
+| [July 27 at 11:47 AM](https://archive.org/download/techreview-2022/techreview-2022-07-27T11:47:34.394410-04:00.lighthouse.json) |
+| [July 26 at 11:56 PM](https://archive.org/download/techreview-2022/techreview-2022-07-26T23:56:00.636945-04:00.lighthouse.json) |
+| [July 26 at 11:46 AM](https://archive.org/download/techreview-2022/techreview-2022-07-26T11:46:47.515366-04:00.lighthouse.json) |
+| [July 25 at 11:58 PM](https://archive.org/download/techreview-2022/techreview-2022-07-25T23:58:17.285430-04:00.lighthouse.json) |
+| [July 25 at 11:44 AM](https://archive.org/download/techreview-2022/techreview-2022-07-25T11:44:38.300193-04:00.lighthouse.json) |
+| [July 25 at 2:47 AM](https://archive.org/download/techreview-2022/techreview-2022-07-25T02:46:50.717534-04:00.lighthouse.json) |
 
 
 

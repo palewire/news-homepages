@@ -31,109 +31,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T19:07:23.250555-05:00.jpg">
   <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T19:07:23.250555-05:00.jpg"
-     alt="NBC DFW at 2022-07-28 02:07:25-05:00 local time"
+     alt="NBC DFW at 2022-07-27 19:07:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T19:07:23.250555-05:00.jpg">July 28 at 2:07 AM</a></p>
+ <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T19:07:23.250555-05:00.jpg">July 27 at 7:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T08:11:03.944359-05:00.jpg">
   <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T08:11:03.944359-05:00.jpg"
-     alt="NBC DFW at 2022-07-27 15:11:05-05:00 local time"
+     alt="NBC DFW at 2022-07-27 08:11:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T08:11:03.944359-05:00.jpg">July 27 at 3:11 PM</a></p>
+ <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T08:11:03.944359-05:00.jpg">July 27 at 8:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T19:15:40.642990-05:00.jpg">
   <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T19:15:40.642990-05:00.jpg"
-     alt="NBC DFW at 2022-07-27 02:15:42-05:00 local time"
+     alt="NBC DFW at 2022-07-26 19:15:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T19:15:40.642990-05:00.jpg">July 27 at 2:15 AM</a></p>
+ <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T19:15:40.642990-05:00.jpg">July 26 at 7:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T07:25:12.858755-05:00.jpg">
   <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T07:25:12.858755-05:00.jpg"
-     alt="NBC DFW at 2022-07-26 14:25:14-05:00 local time"
+     alt="NBC DFW at 2022-07-26 07:25:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T07:25:12.858755-05:00.jpg">July 26 at 2:25 PM</a></p>
+ <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T07:25:12.858755-05:00.jpg">July 26 at 7:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T19:20:29.877977-05:00.jpg">
   <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T19:20:29.877977-05:00.jpg"
-     alt="NBC DFW at 2022-07-26 02:20:31-05:00 local time"
+     alt="NBC DFW at 2022-07-25 19:20:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T19:20:29.877977-05:00.jpg">July 26 at 2:20 AM</a></p>
+ <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T19:20:29.877977-05:00.jpg">July 25 at 7:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T08:16:19.906377-05:00.jpg">
   <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T08:16:19.906377-05:00.jpg"
-     alt="NBC DFW at 2022-07-25 15:16:21-05:00 local time"
+     alt="NBC DFW at 2022-07-25 08:16:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T08:16:19.906377-05:00.jpg">July 25 at 3:16 PM</a></p>
+ <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T08:16:19.906377-05:00.jpg">July 25 at 8:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T22:35:37.687847-05:00.jpg">
   <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T22:35:37.687847-05:00.jpg"
-     alt="NBC DFW at 2022-07-25 05:35:38-05:00 local time"
+     alt="NBC DFW at 2022-07-24 22:35:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T22:35:37.687847-05:00.jpg">July 25 at 5:35 AM</a></p>
+ <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T22:35:37.687847-05:00.jpg">July 24 at 10:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T08:04:31.829355-05:00.jpg">
   <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T08:04:31.829355-05:00.jpg"
-     alt="NBC DFW at 2022-07-24 15:04:33-05:00 local time"
+     alt="NBC DFW at 2022-07-24 08:04:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T08:04:31.829355-05:00.jpg">July 24 at 3:04 PM</a></p>
+ <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T08:04:31.829355-05:00.jpg">July 24 at 8:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T23:20:14.233039-05:00.jpg">
   <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T23:20:14.233039-05:00.jpg"
-     alt="NBC DFW at 2022-07-24 06:20:15-05:00 local time"
+     alt="NBC DFW at 2022-07-23 23:20:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T23:20:14.233039-05:00.jpg">July 24 at 6:20 AM</a></p>
+ <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T23:20:14.233039-05:00.jpg">July 23 at 11:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T10:03:10.509584-05:00.jpg">
   <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T10:03:10.509584-05:00.jpg"
-     alt="NBC DFW at 2022-07-23 17:03:11-05:00 local time"
+     alt="NBC DFW at 2022-07-23 10:03:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T10:03:10.509584-05:00.jpg">July 23 at 5:03 PM</a></p>
+ <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T10:03:10.509584-05:00.jpg">July 23 at 10:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-22T22:32:55.924155-05:00.jpg">
   <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-22T22:32:55.924155-05:00.jpg"
-     alt="NBC DFW at 2022-07-23 05:32:57-05:00 local time"
+     alt="NBC DFW at 2022-07-22 22:32:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-22T22:32:55.924155-05:00.jpg">July 23 at 5:32 AM</a></p>
+ <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-22T22:32:55.924155-05:00.jpg">July 22 at 10:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-22T09:58:41.683304-05:00.jpg">
   <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-22T09:58:41.683304-05:00.jpg"
-     alt="NBC DFW at 2022-07-22 16:58:43-05:00 local time"
+     alt="NBC DFW at 2022-07-22 09:58:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-22T09:58:41.683304-05:00.jpg">July 22 at 4:58 PM</a></p>
+ <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-22T09:58:41.683304-05:00.jpg">July 22 at 9:58 AM</a></p>
 </div>
 
 </div>
@@ -148,16 +148,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 2:07 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T19:07:23.250555-05:00.hyperlinks.json) |
-| [July 27 at 3:11 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T08:11:03.944359-05:00.hyperlinks.json) |
-| [July 27 at 2:15 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T19:15:40.642990-05:00.hyperlinks.json) |
-| [July 26 at 2:25 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T07:25:12.858755-05:00.hyperlinks.json) |
-| [July 26 at 2:20 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T19:20:29.877977-05:00.hyperlinks.json) |
-| [July 25 at 3:16 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T08:16:19.906377-05:00.hyperlinks.json) |
-| [July 25 at 5:35 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T22:35:37.687847-05:00.hyperlinks.json) |
-| [July 24 at 3:04 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T08:04:31.829355-05:00.hyperlinks.json) |
-| [July 24 at 6:20 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T23:20:14.233039-05:00.hyperlinks.json) |
-| [July 23 at 5:03 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T10:03:10.509584-05:00.hyperlinks.json) |
+| [July 27 at 7:07 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T19:07:23.250555-05:00.hyperlinks.json) |
+| [July 27 at 8:11 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T08:11:03.944359-05:00.hyperlinks.json) |
+| [July 26 at 7:15 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T19:15:40.642990-05:00.hyperlinks.json) |
+| [July 26 at 7:25 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T07:25:12.858755-05:00.hyperlinks.json) |
+| [July 25 at 7:20 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T19:20:29.877977-05:00.hyperlinks.json) |
+| [July 25 at 8:16 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T08:16:19.906377-05:00.hyperlinks.json) |
+| [July 24 at 10:35 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T22:35:37.687847-05:00.hyperlinks.json) |
+| [July 24 at 8:04 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T08:04:31.829355-05:00.hyperlinks.json) |
+| [July 23 at 11:20 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T23:20:14.233039-05:00.hyperlinks.json) |
+| [July 23 at 10:03 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T10:03:10.509584-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -170,16 +170,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 2:07 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T19:07:23.250555-05:00.accessibility.json) |
-| [July 27 at 3:11 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T08:11:03.944359-05:00.accessibility.json) |
-| [July 27 at 2:15 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T19:15:40.642990-05:00.accessibility.json) |
-| [July 26 at 2:25 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T07:25:12.858755-05:00.accessibility.json) |
-| [July 26 at 2:20 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T19:20:29.877977-05:00.accessibility.json) |
-| [July 25 at 3:16 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T08:16:19.906377-05:00.accessibility.json) |
-| [July 25 at 5:35 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T22:35:37.687847-05:00.accessibility.json) |
-| [July 24 at 3:04 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T08:04:31.829355-05:00.accessibility.json) |
-| [July 24 at 6:20 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T23:20:14.233039-05:00.accessibility.json) |
-| [July 23 at 5:03 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T10:03:10.509584-05:00.accessibility.json) |
+| [July 27 at 7:07 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T19:07:23.250555-05:00.accessibility.json) |
+| [July 27 at 8:11 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T08:11:03.944359-05:00.accessibility.json) |
+| [July 26 at 7:15 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T19:15:40.642990-05:00.accessibility.json) |
+| [July 26 at 7:25 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T07:25:12.858755-05:00.accessibility.json) |
+| [July 25 at 7:20 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T19:20:29.877977-05:00.accessibility.json) |
+| [July 25 at 8:16 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T08:16:19.906377-05:00.accessibility.json) |
+| [July 24 at 10:35 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T22:35:37.687847-05:00.accessibility.json) |
+| [July 24 at 8:04 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T08:04:31.829355-05:00.accessibility.json) |
+| [July 23 at 11:20 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T23:20:14.233039-05:00.accessibility.json) |
+| [July 23 at 10:03 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T10:03:10.509584-05:00.accessibility.json) |
 
 
 
@@ -193,15 +193,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 2:07 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T19:07:23.250555-05:00.lighthouse.json) |
-| [July 27 at 3:11 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T08:11:03.944359-05:00.lighthouse.json) |
-| [July 27 at 2:15 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T19:15:40.642990-05:00.lighthouse.json) |
-| [July 26 at 2:25 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T07:25:12.858755-05:00.lighthouse.json) |
-| [July 26 at 2:20 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T19:20:29.877977-05:00.lighthouse.json) |
-| [July 25 at 3:16 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T08:16:19.906377-05:00.lighthouse.json) |
-| [July 25 at 5:35 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T22:35:37.687847-05:00.lighthouse.json) |
-| [July 24 at 3:04 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T08:04:31.829355-05:00.lighthouse.json) |
-| [July 24 at 6:20 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T23:20:14.233039-05:00.lighthouse.json) |
+| [July 27 at 7:07 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T19:07:23.250555-05:00.lighthouse.json) |
+| [July 27 at 8:11 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T08:11:03.944359-05:00.lighthouse.json) |
+| [July 26 at 7:15 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T19:15:40.642990-05:00.lighthouse.json) |
+| [July 26 at 7:25 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T07:25:12.858755-05:00.lighthouse.json) |
+| [July 25 at 7:20 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T19:20:29.877977-05:00.lighthouse.json) |
+| [July 25 at 8:16 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T08:16:19.906377-05:00.lighthouse.json) |
+| [July 24 at 10:35 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T22:35:37.687847-05:00.lighthouse.json) |
+| [July 24 at 8:04 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T08:04:31.829355-05:00.lighthouse.json) |
+| [July 23 at 11:20 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-23T23:20:14.233039-05:00.lighthouse.json) |
 
 
 
