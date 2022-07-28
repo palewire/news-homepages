@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 90 screenshots with the Internet Archive.
+The archiving routine has saved 91 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 90 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/democracynow-2022/democracynow-2022-07-27T10:26:37.412109-04:00.jpg">
+  <img src="https://archive.org/download/democracynow-2022/democracynow-2022-07-27T10:26:37.412109-04:00.jpg"
+     alt="Democracy Now! at 2022-07-27 10:26:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/democracynow-2022/democracynow-2022-07-27T10:26:37.412109-04:00.jpg">July 27 at 10:26 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/democracynow-2022/democracynow-2022-07-26T22:34:48.048515-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/democracynow-2022/democracynow-2022-07-24T02:27:04.595843-04:00.jpg">July 24 at 2:27 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/democracynow-2022/democracynow-2022-07-23T14:12:41.969675-04:00.jpg">
-  <img src="https://archive.org/download/democracynow-2022/democracynow-2022-07-23T14:12:41.969675-04:00.jpg"
-     alt="Democracy Now! at 2022-07-23 14:12:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/democracynow-2022/democracynow-2022-07-23T14:12:41.969675-04:00.jpg">July 23 at 2:12 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 92 hyperlink lists with the Internet Archive.
+The archiving routine has saved 93 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 10:26 AM](https://archive.org/download/democracynow-2022/democracynow-2022-07-27T10:26:37.412109-04:00.hyperlinks.json) |
 | [July 26 at 10:34 PM](https://archive.org/download/democracynow-2022/democracynow-2022-07-26T22:34:48.048515-04:00.hyperlinks.json) |
 | [July 26 at 2:36 PM](https://archive.org/download/democracynow-2022/democracynow-2022-07-26T14:36:30.789792-04:00.hyperlinks.json) |
 | [July 26 at 10:32 AM](https://archive.org/download/democracynow-2022/democracynow-2022-07-26T10:32:21.647823-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 8:00 AM](https://archive.org/download/democracynow-2022/democracynow-2022-07-25T07:59:59.013401-04:00.hyperlinks.json) |
 | [July 24 at 9:00 PM](https://archive.org/download/democracynow-2022/democracynow-2022-07-24T21:00:55.331632-04:00.hyperlinks.json) |
 | [July 24 at 11:42 AM](https://archive.org/download/democracynow-2022/democracynow-2022-07-24T11:42:14.317384-04:00.hyperlinks.json) |
-| [July 24 at 7:57 AM](https://archive.org/download/democracynow-2022/democracynow-2022-07-24T07:57:18.811561-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 92 accessibility trees with the Internet Archive.
+The archiving routine has saved 93 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 10:26 AM](https://archive.org/download/democracynow-2022/democracynow-2022-07-27T10:26:37.412109-04:00.accessibility.json) |
 | [July 26 at 10:34 PM](https://archive.org/download/democracynow-2022/democracynow-2022-07-26T22:34:48.048515-04:00.accessibility.json) |
 | [July 26 at 2:36 PM](https://archive.org/download/democracynow-2022/democracynow-2022-07-26T14:36:30.789792-04:00.accessibility.json) |
 | [July 26 at 10:32 AM](https://archive.org/download/democracynow-2022/democracynow-2022-07-26T10:32:21.647823-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 8:00 AM](https://archive.org/download/democracynow-2022/democracynow-2022-07-25T07:59:59.013401-04:00.accessibility.json) |
 | [July 24 at 9:00 PM](https://archive.org/download/democracynow-2022/democracynow-2022-07-24T21:00:55.331632-04:00.accessibility.json) |
 | [July 24 at 11:42 AM](https://archive.org/download/democracynow-2022/democracynow-2022-07-24T11:42:14.317384-04:00.accessibility.json) |
-| [July 24 at 7:57 AM](https://archive.org/download/democracynow-2022/democracynow-2022-07-24T07:57:18.811561-04:00.accessibility.json) |
 
 
 

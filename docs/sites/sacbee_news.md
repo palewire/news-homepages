@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 59 screenshots with the Internet Archive.
+The archiving routine has saved 60 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 59 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-07-27T08:45:52.843334-07:00.jpg">
+  <img src="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-07-27T08:45:52.843334-07:00.jpg"
+     alt="Sacramento Bee at 2022-07-27 08:45:54-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-07-27T08:45:52.843334-07:00.jpg">July 27 at 8:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-07-26T20:53:40.969698-07:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-07-21T20:43:15.697221-07:00.jpg">July 21 at 8:43 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-07-21T08:39:45.200456-07:00.jpg">
-  <img src="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-07-21T08:39:45.200456-07:00.jpg"
-     alt="Sacramento Bee at 2022-07-21 08:39:48-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-07-21T08:39:45.200456-07:00.jpg">July 21 at 8:39 AM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 59 accessibility trees with the Internet Archive.
+The archiving routine has saved 60 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 8:45 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-07-27T08:45:52.843334-07:00.accessibility.json) |
 | [July 26 at 8:53 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-07-26T20:53:40.969698-07:00.accessibility.json) |
 | [July 26 at 8:45 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-07-26T08:44:57.917996-07:00.accessibility.json) |
 | [July 25 at 8:56 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-07-25T20:56:52.295276-07:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 11:22 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-07-23T23:22:05.054137-07:00.accessibility.json) |
 | [July 23 at 8:09 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-07-23T08:09:11.243315-07:00.accessibility.json) |
 | [July 22 at 8:38 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-07-22T20:38:39.604779-07:00.accessibility.json) |
-| [July 22 at 8:05 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-07-22T08:04:58.504846-07:00.accessibility.json) |
 
 
 

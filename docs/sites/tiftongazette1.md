@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-27T09:24:12.665668-04:00.jpg">
+  <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-27T09:24:12.665668-04:00.jpg"
+     alt="Tifton Gazette at 2022-07-27 09:24:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-27T09:24:12.665668-04:00.jpg">July 27 at 9:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-26T21:29:44.379124-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-22T12:19:04.117614-04:00.jpg">July 22 at 12:19 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-22T00:32:51.544136-04:00.jpg">
-  <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-22T00:32:51.544136-04:00.jpg"
-     alt="Tifton Gazette at 2022-07-22 00:32:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-22T00:32:51.544136-04:00.jpg">July 22 at 12:32 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 8 hyperlink lists with the Internet Archive.
+The archiving routine has saved 9 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:24 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-27T09:24:12.665668-04:00.hyperlinks.json) |
 | [July 25 at 10:53 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-25T22:53:03.055902-04:00.hyperlinks.json) |
 | [July 25 at 11:49 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-25T11:49:12.921433-04:00.hyperlinks.json) |
 | [July 25 at 12:37 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-25T00:37:39.615048-04:00.hyperlinks.json) |
@@ -160,7 +161,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 14 accessibility trees with the Internet Archive.
+The archiving routine has saved 15 accessibility trees with the Internet Archive.
 
 
 
@@ -168,6 +169,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:24 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-27T09:24:12.665668-04:00.accessibility.json) |
 | [July 26 at 9:29 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-26T21:29:44.379124-04:00.accessibility.json) |
 | [July 26 at 9:31 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-26T09:31:36.357459-04:00.accessibility.json) |
 | [July 25 at 10:53 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-25T22:53:03.055902-04:00.accessibility.json) |
@@ -177,7 +179,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 11:07 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-24T11:07:53.957716-04:00.accessibility.json) |
 | [July 23 at 11:43 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-23T23:43:19.223088-04:00.accessibility.json) |
 | [July 23 at 12:06 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-23T12:06:26.658313-04:00.accessibility.json) |
-| [July 23 at 12:27 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-23T00:27:18.642233-04:00.accessibility.json) |
 
 
 

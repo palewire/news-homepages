@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 43 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T19:08:40.875294-04:00.jpg">
+  <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T19:08:40.875294-04:00.jpg"
+     alt="Hidden City Daily at 2022-07-27 19:08:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T19:08:40.875294-04:00.jpg">July 27 at 7:08 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T07:09:28.834127-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-22T10:02:47.278112-04:00.jpg">July 22 at 10:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-21T22:22:41.847882-04:00.jpg">
-  <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-21T22:22:41.847882-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-21 22:22:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-21T22:22:41.847882-04:00.jpg">July 21 at 10:22 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 43 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:08 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T19:08:40.875294-04:00.hyperlinks.json) |
 | [July 27 at 7:09 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T07:09:28.834127-04:00.hyperlinks.json) |
 | [July 26 at 7:10 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T19:10:52.970197-04:00.hyperlinks.json) |
 | [July 26 at 8:19 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T08:18:58.072935-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 8:02 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T08:02:47.912105-04:00.hyperlinks.json) |
 | [July 24 at 2:32 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T02:32:22.221876-04:00.hyperlinks.json) |
 | [July 23 at 10:02 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-23T10:01:55.844510-04:00.hyperlinks.json) |
-| [July 22 at 10:28 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-22T22:28:25.077377-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 43 accessibility trees with the Internet Archive.
+The archiving routine has saved 44 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 7:08 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T19:08:40.875294-04:00.accessibility.json) |
 | [July 27 at 7:09 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T07:09:28.834127-04:00.accessibility.json) |
 | [July 26 at 7:10 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T19:10:52.970197-04:00.accessibility.json) |
 | [July 26 at 8:19 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T08:18:58.072935-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 8:02 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T08:02:47.912105-04:00.accessibility.json) |
 | [July 24 at 2:32 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T02:32:22.221876-04:00.accessibility.json) |
 | [July 23 at 10:01 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-23T10:01:55.844510-04:00.accessibility.json) |
-| [July 22 at 10:28 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-22T22:28:25.077377-04:00.accessibility.json) |
 
 
 

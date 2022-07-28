@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 78 screenshots with the Internet Archive.
+The archiving routine has saved 79 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 78 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-27T10:48:13.210560-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-07-27T10:48:13.210560-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-07-27 10:48:16-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-27T10:48:13.210560-05:00.jpg">July 27 at 10:48 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-26T22:55:32.095293-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-21T23:29:38.701431-05:00.jpg">July 21 at 11:29 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-21T11:53:07.663812-05:00.jpg">
-  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-07-21T11:53:07.663812-05:00.jpg"
-     alt="St. Louis Post-Dispatch at 2022-07-21 11:53:13-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-21T11:53:07.663812-05:00.jpg">July 21 at 11:53 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 62 hyperlink lists with the Internet Archive.
+The archiving routine has saved 63 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 10:48 AM](https://archive.org/download/stltoday-2022/stltoday-2022-07-27T10:48:13.210560-05:00.hyperlinks.json) |
 | [July 26 at 10:55 PM](https://archive.org/download/stltoday-2022/stltoday-2022-07-26T22:55:32.095293-05:00.hyperlinks.json) |
 | [July 25 at 10:58 PM](https://archive.org/download/stltoday-2022/stltoday-2022-07-25T22:58:04.517284-05:00.hyperlinks.json) |
 | [July 24 at 9:05 AM](https://archive.org/download/stltoday-2022/stltoday-2022-07-24T09:05:24.652016-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 11:15 AM](https://archive.org/download/stltoday-2022/stltoday-2022-07-22T11:15:31.655533-05:00.hyperlinks.json) |
 | [July 21 at 11:29 PM](https://archive.org/download/stltoday-2022/stltoday-2022-07-21T23:29:38.701431-05:00.hyperlinks.json) |
 | [July 21 at 11:53 AM](https://archive.org/download/stltoday-2022/stltoday-2022-07-21T11:53:07.663812-05:00.hyperlinks.json) |
-| [July 20 at 11:27 PM](https://archive.org/download/stltoday-2022/stltoday-2022-07-20T23:27:32.130172-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 68 accessibility trees with the Internet Archive.
+The archiving routine has saved 69 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 10:48 AM](https://archive.org/download/stltoday-2022/stltoday-2022-07-27T10:48:13.210560-05:00.accessibility.json) |
 | [July 26 at 10:55 PM](https://archive.org/download/stltoday-2022/stltoday-2022-07-26T22:55:32.095293-05:00.accessibility.json) |
 | [July 26 at 10:46 AM](https://archive.org/download/stltoday-2022/stltoday-2022-07-26T10:46:31.240648-05:00.accessibility.json) |
 | [July 25 at 10:58 PM](https://archive.org/download/stltoday-2022/stltoday-2022-07-25T22:58:04.517284-05:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 11:03 AM](https://archive.org/download/stltoday-2022/stltoday-2022-07-23T11:03:02.359125-05:00.accessibility.json) |
 | [July 22 at 11:23 PM](https://archive.org/download/stltoday-2022/stltoday-2022-07-22T23:23:02.766343-05:00.accessibility.json) |
 | [July 22 at 11:15 AM](https://archive.org/download/stltoday-2022/stltoday-2022-07-22T11:15:31.655533-05:00.accessibility.json) |
-| [July 21 at 11:29 PM](https://archive.org/download/stltoday-2022/stltoday-2022-07-21T23:29:38.701431-05:00.accessibility.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 43 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T14:25:35.739850+01:00.jpg">
+  <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T14:25:35.739850+01:00.jpg"
+     alt="Scotsman at 2022-07-27 14:25:38+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T14:25:35.739850+01:00.jpg">July 27 at 2:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T02:29:34.547927+01:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-21T05:30:05.234676+01:00.jpg">July 21 at 5:30 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-20T17:47:23.482257+01:00.jpg">
-  <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-20T17:47:23.482257+01:00.jpg"
-     alt="Scotsman at 2022-07-20 17:47:25+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-20T17:47:23.482257+01:00.jpg">July 20 at 5:47 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 37 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 2:25 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T14:25:35.739850+01:00.hyperlinks.json) |
 | [July 27 at 2:29 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T02:29:34.547927+01:00.hyperlinks.json) |
 | [July 26 at 2:31 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T14:31:15.501019+01:00.hyperlinks.json) |
 | [July 26 at 3:53 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T03:53:49.701297+01:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 4:08 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-24T16:07:57.072995+01:00.hyperlinks.json) |
 | [July 24 at 4:42 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-24T04:42:54.497690+01:00.hyperlinks.json) |
 | [July 23 at 5:06 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-23T17:06:29.982715+01:00.hyperlinks.json) |
-| [July 23 at 5:25 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-23T05:25:48.835944+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 35 accessibility trees with the Internet Archive.
+The archiving routine has saved 36 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 2:25 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T14:25:35.739850+01:00.accessibility.json) |
 | [July 27 at 2:29 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T02:29:34.547927+01:00.accessibility.json) |
 | [July 26 at 2:31 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T14:31:15.501019+01:00.accessibility.json) |
 | [July 26 at 3:53 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T03:53:49.701297+01:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 5:06 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-23T17:06:29.982715+01:00.accessibility.json) |
 | [July 23 at 5:25 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-23T05:25:48.835944+01:00.accessibility.json) |
 | [July 22 at 5:19 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-22T17:19:00.680523+01:00.accessibility.json) |
-| [July 22 at 5:32 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-22T05:32:35.531942+01:00.accessibility.json) |
 
 
 

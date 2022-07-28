@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 192 screenshots with the Internet Archive.
+The archiving routine has saved 195 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-27T19:04:10.355428-05:00.jpg">
+  <img src="https://archive.org/download/kccinews-2022/kccinews-2022-07-27T19:04:10.355428-05:00.jpg"
+     alt="KCCI at 2022-07-27 19:04:12-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-27T19:04:10.355428-05:00.jpg">July 27 at 7:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-27T11:08:43.990118-05:00.jpg">
+  <img src="https://archive.org/download/kccinews-2022/kccinews-2022-07-27T11:08:43.990118-05:00.jpg"
+     alt="KCCI at 2022-07-27 11:08:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-27T11:08:43.990118-05:00.jpg">July 27 at 11:08 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-27T08:07:54.880206-05:00.jpg">
+  <img src="https://archive.org/download/kccinews-2022/kccinews-2022-07-27T08:07:54.880206-05:00.jpg"
+     alt="KCCI at 2022-07-27 08:08:06-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-27T08:07:54.880206-05:00.jpg">July 27 at 8:08 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-26T19:11:43.410656-05:00.jpg">
   <img src="https://archive.org/download/kccinews-2022/kccinews-2022-07-26T19:11:43.410656-05:00.jpg"
      alt="KCCI at 2022-07-26 19:11:47-05:00 local time"
@@ -192,38 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-23T09:04:33.655223-05:00.jpg">July 23 at 9:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T21:30:26.601804-05:00.jpg">
-  <img src="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T21:30:26.601804-05:00.jpg"
-     alt="KCCI at 2022-07-22 21:30:27-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T21:30:26.601804-05:00.jpg">July 22 at 9:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T11:13:09.468146-05:00.jpg">
-  <img src="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T11:13:09.468146-05:00.jpg"
-     alt="KCCI at 2022-07-22 11:13:10-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T11:13:09.468146-05:00.jpg">July 22 at 11:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T09:05:18.287664-05:00.jpg">
-  <img src="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T09:05:18.287664-05:00.jpg"
-     alt="KCCI at 2022-07-22 09:05:23-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-07-22T09:05:18.287664-05:00.jpg">July 22 at 9:05 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 185 hyperlink lists with the Internet Archive.
+The archiving routine has saved 188 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:04 PM](https://archive.org/download/kccinews-2022/kccinews-2022-07-27T19:04:10.355428-05:00.hyperlinks.json) |
+| [July 27 at 11:08 AM](https://archive.org/download/kccinews-2022/kccinews-2022-07-27T11:08:43.990118-05:00.hyperlinks.json) |
+| [July 27 at 8:08 AM](https://archive.org/download/kccinews-2022/kccinews-2022-07-27T08:07:54.880206-05:00.hyperlinks.json) |
 | [July 26 at 7:11 PM](https://archive.org/download/kccinews-2022/kccinews-2022-07-26T19:11:43.410656-05:00.hyperlinks.json) |
 | [July 26 at 7:21 AM](https://archive.org/download/kccinews-2022/kccinews-2022-07-26T07:20:57.691842-05:00.hyperlinks.json) |
 | [July 25 at 7:16 PM](https://archive.org/download/kccinews-2022/kccinews-2022-07-25T19:16:16.607680-05:00.hyperlinks.json) |
@@ -321,14 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 10:24 PM](https://archive.org/download/kccinews-2022/kccinews-2022-07-24T22:24:34.608613-05:00.hyperlinks.json) |
 | [July 24 at 7:59 AM](https://archive.org/download/kccinews-2022/kccinews-2022-07-24T07:59:13.591012-05:00.hyperlinks.json) |
 | [July 23 at 11:14 PM](https://archive.org/download/kccinews-2022/kccinews-2022-07-23T23:14:07.150030-05:00.hyperlinks.json) |
-| [July 23 at 9:04 AM](https://archive.org/download/kccinews-2022/kccinews-2022-07-23T09:04:33.655223-05:00.hyperlinks.json) |
-| [July 22 at 9:30 PM](https://archive.org/download/kccinews-2022/kccinews-2022-07-22T21:30:26.601804-05:00.hyperlinks.json) |
-| [July 22 at 11:13 AM](https://archive.org/download/kccinews-2022/kccinews-2022-07-22T11:13:09.468146-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 188 accessibility trees with the Internet Archive.
+The archiving routine has saved 191 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 7:04 PM](https://archive.org/download/kccinews-2022/kccinews-2022-07-27T19:04:10.355428-05:00.accessibility.json) |
+| [July 27 at 11:08 AM](https://archive.org/download/kccinews-2022/kccinews-2022-07-27T11:08:43.990118-05:00.accessibility.json) |
+| [July 27 at 8:08 AM](https://archive.org/download/kccinews-2022/kccinews-2022-07-27T08:07:54.880206-05:00.accessibility.json) |
 | [July 26 at 7:11 PM](https://archive.org/download/kccinews-2022/kccinews-2022-07-26T19:11:43.410656-05:00.accessibility.json) |
 | [July 26 at 7:21 AM](https://archive.org/download/kccinews-2022/kccinews-2022-07-26T07:20:57.691842-05:00.accessibility.json) |
 | [July 25 at 7:16 PM](https://archive.org/download/kccinews-2022/kccinews-2022-07-25T19:16:16.607680-05:00.accessibility.json) |
@@ -426,9 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 8:09 AM](https://archive.org/download/kccinews-2022/kccinews-2022-07-25T08:09:29.463437-05:00.accessibility.json) |
 | [July 24 at 10:24 PM](https://archive.org/download/kccinews-2022/kccinews-2022-07-24T22:24:34.608613-05:00.accessibility.json) |
 | [July 24 at 7:59 AM](https://archive.org/download/kccinews-2022/kccinews-2022-07-24T07:59:13.591012-05:00.accessibility.json) |
-| [July 23 at 11:14 PM](https://archive.org/download/kccinews-2022/kccinews-2022-07-23T23:14:07.150030-05:00.accessibility.json) |
-| [July 23 at 9:04 AM](https://archive.org/download/kccinews-2022/kccinews-2022-07-23T09:04:33.655223-05:00.accessibility.json) |
-| [July 22 at 9:30 PM](https://archive.org/download/kccinews-2022/kccinews-2022-07-22T21:30:26.601804-05:00.accessibility.json) |
 
 
 

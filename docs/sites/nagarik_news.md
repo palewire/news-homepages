@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 6 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-27T20:21:26.636813+05:45.jpg">
+  <img src="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-27T20:21:26.636813+05:45.jpg"
+     alt="Nagarik News at 2022-07-27 20:21:28+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-27T20:21:26.636813+05:45.jpg">July 27 at 8:21 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-27T08:27:45.550851+05:45.jpg">
@@ -86,7 +95,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 6 hyperlink lists with the Internet Archive.
+The archiving routine has saved 7 hyperlink lists with the Internet Archive.
 
 
 
@@ -94,6 +103,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 8:21 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-27T20:21:26.636813+05:45.hyperlinks.json) |
 | [July 27 at 8:27 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-27T08:27:45.550851+05:45.hyperlinks.json) |
 | [July 26 at 8:25 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-26T20:25:53.754370+05:45.hyperlinks.json) |
 | [July 26 at 8:33 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-26T08:33:14.771961+05:45.hyperlinks.json) |
@@ -104,7 +114,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 6 accessibility trees with the Internet Archive.
+The archiving routine has saved 7 accessibility trees with the Internet Archive.
 
 
 
@@ -112,6 +122,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 8:21 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-27T20:21:26.636813+05:45.accessibility.json) |
 | [July 27 at 8:27 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-27T08:27:45.550851+05:45.accessibility.json) |
 | [July 26 at 8:25 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-26T20:25:53.754370+05:45.accessibility.json) |
 | [July 26 at 8:33 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-26T08:33:14.771961+05:45.accessibility.json) |

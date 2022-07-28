@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 35 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-27T16:21:01.302491+03:00.jpg">
+  <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-27T16:21:01.302491+03:00.jpg"
+     alt="Sputnik at 2022-07-27 16:21:03+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-27T16:21:01.302491+03:00.jpg">July 27 at 4:21 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-27T08:24:54.311986+03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-24T09:47:25.015246+03:00.jpg">July 24 at 9:47 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-24T09:24:29.481529+03:00.jpg">
-  <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-24T09:24:29.481529+03:00.jpg"
-     alt="Sputnik at 2022-07-24 09:24:35+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-24T09:24:29.481529+03:00.jpg">July 24 at 9:24 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 4:21 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-07-27T16:21:01.302491+03:00.hyperlinks.json) |
 | [July 27 at 8:24 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-07-27T08:24:54.311986+03:00.hyperlinks.json) |
 | [July 27 at 4:27 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-07-27T04:26:56.784061+03:00.hyperlinks.json) |
 | [July 26 at 4:28 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-07-26T16:28:45.873473+03:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 6:43 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-07-25T18:43:40.823587+03:00.hyperlinks.json) |
 | [July 25 at 8:23 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-07-25T08:23:03.958330+03:00.hyperlinks.json) |
 | [July 25 at 6:44 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-07-25T06:44:14.853459+03:00.hyperlinks.json) |
-| [July 24 at 5:04 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-07-24T17:04:27.925239+03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 35 accessibility trees with the Internet Archive.
+The archiving routine has saved 36 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 4:21 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-07-27T16:21:01.302491+03:00.accessibility.json) |
 | [July 27 at 8:24 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-07-27T08:24:54.311986+03:00.accessibility.json) |
 | [July 27 at 4:26 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-07-27T04:26:56.784061+03:00.accessibility.json) |
 | [July 26 at 4:28 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-07-26T16:28:45.873473+03:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 6:43 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-07-25T18:43:40.823587+03:00.accessibility.json) |
 | [July 25 at 8:23 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-07-25T08:23:03.958330+03:00.accessibility.json) |
 | [July 25 at 6:44 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-07-25T06:44:14.853459+03:00.accessibility.json) |
-| [July 24 at 5:04 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-07-24T17:04:27.925239+03:00.accessibility.json) |
 
 
 

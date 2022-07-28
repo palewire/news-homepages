@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 7 screenshots with the Internet Archive.
+The archiving routine has saved 9 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-27T22:48:14.824981+05:30.jpg">
+  <img src="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-27T22:48:14.824981+05:30.jpg"
+     alt="Times of India at 2022-07-27 22:48:16+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-27T22:48:14.824981+05:30.jpg">July 27 at 10:48 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-27T21:20:13.700848+05:30.jpg">
+  <img src="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-27T21:20:13.700848+05:30.jpg"
+     alt="Times of India at 2022-07-27 21:20:15+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-27T21:20:13.700848+05:30.jpg">July 27 at 9:20 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-27T09:27:14.895638+05:30.jpg">
@@ -95,7 +113,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 7 hyperlink lists with the Internet Archive.
+The archiving routine has saved 8 hyperlink lists with the Internet Archive.
 
 
 
@@ -103,6 +121,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 10:48 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-27T22:48:14.824981+05:30.hyperlinks.json) |
 | [July 27 at 9:27 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-27T09:27:14.895638+05:30.hyperlinks.json) |
 | [July 26 at 9:18 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-26T21:18:27.545109+05:30.hyperlinks.json) |
 | [July 26 at 9:29 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-26T09:29:39.343273+05:30.hyperlinks.json) |
@@ -114,7 +133,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 7 accessibility trees with the Internet Archive.
+The archiving routine has saved 9 accessibility trees with the Internet Archive.
 
 
 
@@ -122,6 +141,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 10:48 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-27T22:48:14.824981+05:30.accessibility.json) |
+| [July 27 at 9:20 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-27T21:20:13.700848+05:30.accessibility.json) |
 | [July 27 at 9:27 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-27T09:27:14.895638+05:30.accessibility.json) |
 | [July 26 at 9:18 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-26T21:18:27.545109+05:30.accessibility.json) |
 | [July 26 at 9:29 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-26T09:29:39.343273+05:30.accessibility.json) |

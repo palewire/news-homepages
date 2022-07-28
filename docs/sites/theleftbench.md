@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 31 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 31 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-27T09:22:51.002956-04:00.jpg">
+  <img src="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-27T09:22:51.002956-04:00.jpg"
+     alt="Left Bench at 2022-07-27 09:22:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-27T09:22:51.002956-04:00.jpg">July 27 at 9:22 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-26T21:28:41.817899-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-21T12:55:00.822409-04:00.jpg">July 21 at 12:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-21T00:29:19.978003-04:00.jpg">
-  <img src="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-21T00:29:19.978003-04:00.jpg"
-     alt="Left Bench at 2022-07-21 00:29:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-21T00:29:19.978003-04:00.jpg">July 21 at 12:29 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 33 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:22 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-27T09:22:51.002956-04:00.hyperlinks.json) |
 | [July 26 at 9:28 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-26T21:28:41.817899-04:00.hyperlinks.json) |
 | [July 26 at 9:30 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-26T09:30:43.370671-04:00.hyperlinks.json) |
 | [July 25 at 10:51 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-25T22:51:43.399088-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:06 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-24T11:06:36.663969-04:00.hyperlinks.json) |
 | [July 23 at 11:42 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-23T23:41:58.770747-04:00.hyperlinks.json) |
 | [July 23 at 12:05 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-23T12:04:56.308865-04:00.hyperlinks.json) |
-| [July 23 at 12:25 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-23T00:25:36.416826-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 33 accessibility trees with the Internet Archive.
+The archiving routine has saved 34 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:22 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-27T09:22:51.002956-04:00.accessibility.json) |
 | [July 26 at 9:28 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-26T21:28:41.817899-04:00.accessibility.json) |
 | [July 26 at 9:30 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-26T09:30:43.370671-04:00.accessibility.json) |
 | [July 25 at 10:51 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-25T22:51:43.399088-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 11:06 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-24T11:06:36.663969-04:00.accessibility.json) |
 | [July 23 at 11:42 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-23T23:41:58.770747-04:00.accessibility.json) |
 | [July 23 at 12:05 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-23T12:04:56.308865-04:00.accessibility.json) |
-| [July 23 at 12:25 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-23T00:25:36.416826-04:00.accessibility.json) |
 
 
 

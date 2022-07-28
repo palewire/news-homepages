@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 118 screenshots with the Internet Archive.
+The archiving routine has saved 120 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-27T17:07:48.445875-07:00.jpg">
+  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-27T17:07:48.445875-07:00.jpg"
+     alt="Mother Jones at 2022-07-27 17:07:49-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-27T17:07:48.445875-07:00.jpg">July 27 at 5:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-27T06:10:44.449522-07:00.jpg">
+  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-27T06:10:44.449522-07:00.jpg"
+     alt="Mother Jones at 2022-07-27 06:10:46-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-27T06:10:44.449522-07:00.jpg">July 27 at 6:10 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-26T17:14:52.928070-07:00.jpg">
   <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-26T17:14:52.928070-07:00.jpg"
      alt="Mother Jones at 2022-07-26 17:14:54-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T06:04:19.875091-07:00.jpg">July 24 at 6:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-23T21:18:56.455970-07:00.jpg">
-  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-23T21:18:56.455970-07:00.jpg"
-     alt="Mother Jones at 2022-07-23 21:19:00-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-23T21:18:56.455970-07:00.jpg">July 23 at 9:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-23T11:13:09.056616-07:00.jpg">
-  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-23T11:13:09.056616-07:00.jpg"
-     alt="Mother Jones at 2022-07-23 11:13:10-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-23T11:13:09.056616-07:00.jpg">July 23 at 11:13 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 119 hyperlink lists with the Internet Archive.
+The archiving routine has saved 121 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 5:07 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-27T17:07:48.445875-07:00.hyperlinks.json) |
+| [July 27 at 6:10 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-27T06:10:44.449522-07:00.hyperlinks.json) |
 | [July 26 at 5:14 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T17:14:52.928070-07:00.hyperlinks.json) |
 | [July 26 at 11:37 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T11:37:10.240318-07:00.hyperlinks.json) |
 | [July 26 at 5:24 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T05:24:33.612561-07:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 9:37 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T09:37:26.308466-07:00.hyperlinks.json) |
 | [July 25 at 6:15 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T06:15:05.308084-07:00.hyperlinks.json) |
 | [July 24 at 8:32 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-24T20:32:47.348368-07:00.hyperlinks.json) |
-| [July 24 at 8:42 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-24T08:42:48.686521-07:00.hyperlinks.json) |
-| [July 24 at 6:04 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-24T06:04:19.875091-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 119 accessibility trees with the Internet Archive.
+The archiving routine has saved 121 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 5:07 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-27T17:07:48.445875-07:00.accessibility.json) |
+| [July 27 at 6:10 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-27T06:10:44.449522-07:00.accessibility.json) |
 | [July 26 at 5:14 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T17:14:52.928070-07:00.accessibility.json) |
 | [July 26 at 11:37 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T11:37:10.240318-07:00.accessibility.json) |
 | [July 26 at 5:24 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T05:24:33.612561-07:00.accessibility.json) |
@@ -427,8 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 9:37 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T09:37:26.308466-07:00.accessibility.json) |
 | [July 25 at 6:15 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T06:15:05.308084-07:00.accessibility.json) |
 | [July 24 at 8:32 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-24T20:32:47.348368-07:00.accessibility.json) |
-| [July 24 at 8:42 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-24T08:42:48.686521-07:00.accessibility.json) |
-| [July 24 at 6:04 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-24T06:04:19.875091-07:00.accessibility.json) |
 
 
 

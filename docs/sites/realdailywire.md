@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 212 screenshots with the Internet Archive.
+The archiving routine has saved 213 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 212 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T11:45:51.200955-04:00.jpg">
+  <img src="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T11:45:51.200955-04:00.jpg"
+     alt="Daily Wire at 2022-07-27 11:45:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T11:45:51.200955-04:00.jpg">July 27 at 11:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T23:52:21.976676-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T02:20:17.320846-04:00.jpg">July 24 at 2:20 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-23T12:11:32.949872-04:00.jpg">
-  <img src="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-23T12:11:32.949872-04:00.jpg"
-     alt="Daily Wire at 2022-07-23 12:11:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-23T12:11:32.949872-04:00.jpg">July 23 at 12:11 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 205 hyperlink lists with the Internet Archive.
+The archiving routine has saved 206 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 11:46 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T11:45:51.200955-04:00.hyperlinks.json) |
 | [July 26 at 2:36 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T14:36:04.311679-04:00.hyperlinks.json) |
 | [July 25 at 11:55 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T23:55:42.123575-04:00.hyperlinks.json) |
 | [July 25 at 2:39 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T14:39:05.388601-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:45 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T11:45:03.762668-04:00.hyperlinks.json) |
 | [July 24 at 10:02 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T10:01:56.770252-04:00.hyperlinks.json) |
 | [July 24 at 2:20 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T02:20:17.320846-04:00.hyperlinks.json) |
-| [July 23 at 12:11 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-23T12:11:32.949872-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 206 accessibility trees with the Internet Archive.
+The archiving routine has saved 207 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 11:45 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T11:45:51.200955-04:00.accessibility.json) |
 | [July 26 at 11:52 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T23:52:21.976676-04:00.accessibility.json) |
 | [July 26 at 2:36 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T14:36:04.311679-04:00.accessibility.json) |
 | [July 26 at 11:44 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T11:44:15.413237-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 11:39 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T11:39:13.826783-04:00.accessibility.json) |
 | [July 24 at 11:41 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T23:41:23.326128-04:00.accessibility.json) |
 | [July 24 at 11:45 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T11:45:03.762668-04:00.accessibility.json) |
-| [July 24 at 10:01 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T10:01:56.770252-04:00.accessibility.json) |
 
 
 

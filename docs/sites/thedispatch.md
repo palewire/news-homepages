@@ -20,13 +20,105 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 30 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/thedispatch.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-07-27T11:48:20.440255-04:00.jpg">
+  <img src="https://archive.org/download/thedispatch-2022/thedispatch-2022-07-27T11:48:20.440255-04:00.jpg"
+     alt="Dispatch at 2022-07-27 11:48:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-07-27T11:48:20.440255-04:00.jpg">July 27 at 11:48 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-07-26T23:56:55.151966-04:00.jpg">
@@ -127,27 +219,102 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-07-23T23:41:19.342070-04:00.jpg">July 23 at 11:41 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-07-23T12:11:54.838073-04:00.jpg">
-  <img src="https://archive.org/download/thedispatch-2022/thedispatch-2022-07-23T12:11:54.838073-04:00.jpg"
-     alt="Dispatch at 2022-07-23 12:11:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-07-23T12:11:54.838073-04:00.jpg">July 23 at 12:11 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/thedispatch.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 11:48 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-07-27T11:48:20.440255-04:00.hyperlinks.json) |
 | [July 26 at 11:56 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-07-26T23:56:55.151966-04:00.hyperlinks.json) |
 | [July 26 at 2:36 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-07-26T14:36:08.337083-04:00.hyperlinks.json) |
 | [July 26 at 11:47 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-07-26T11:46:55.956402-04:00.hyperlinks.json) |
@@ -157,19 +324,102 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 11:46 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-07-25T11:46:15.286878-04:00.hyperlinks.json) |
 | [July 25 at 12:36 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-07-25T00:35:56.795060-04:00.hyperlinks.json) |
 | [July 24 at 11:45 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-07-24T11:45:14.407965-04:00.hyperlinks.json) |
-| [July 24 at 11:06 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-07-24T11:06:02.677148-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 30 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/thedispatch.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 11:48 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-07-27T11:48:20.440255-04:00.accessibility.json) |
 | [July 26 at 11:56 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-07-26T23:56:55.151966-04:00.accessibility.json) |
 | [July 26 at 2:36 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-07-26T14:36:08.337083-04:00.accessibility.json) |
 | [July 26 at 11:46 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-07-26T11:46:55.956402-04:00.accessibility.json) |
@@ -179,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 11:46 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-07-25T11:46:15.286878-04:00.accessibility.json) |
 | [July 25 at 12:36 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-07-25T00:35:56.795060-04:00.accessibility.json) |
 | [July 24 at 11:45 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-07-24T11:45:14.407965-04:00.accessibility.json) |
-| [July 24 at 11:06 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-07-24T11:06:02.677148-04:00.accessibility.json) |
 
 
 

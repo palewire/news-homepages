@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 20 screenshots with the Internet Archive.
+The archiving routine has saved 21 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/beltel-2022/beltel-2022-07-28T00:01:31.661825+01:00.jpg">
+  <img src="https://archive.org/download/beltel-2022/beltel-2022-07-28T00:01:31.661825+01:00.jpg"
+     alt="Belfast Telegraph at 2022-07-28 00:01:33+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-28T00:01:31.661825+01:00.jpg">July 28 at 12:01 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beltel-2022/beltel-2022-07-27T12:02:21.869027+01:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-22T13:57:18.645485+01:00.jpg">July 22 at 1:57 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/beltel-2022/beltel-2022-07-22T02:05:55.117461+01:00.jpg">
-  <img src="https://archive.org/download/beltel-2022/beltel-2022-07-22T02:05:55.117461+01:00.jpg"
-     alt="Belfast Telegraph at 2022-07-22 02:05:56+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-22T02:05:55.117461+01:00.jpg">July 22 at 2:05 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 20 hyperlink lists with the Internet Archive.
+The archiving routine has saved 21 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 28 at 12:01 AM](https://archive.org/download/beltel-2022/beltel-2022-07-28T00:01:31.661825+01:00.hyperlinks.json) |
 | [July 27 at 12:02 PM](https://archive.org/download/beltel-2022/beltel-2022-07-27T12:02:21.869027+01:00.hyperlinks.json) |
 | [July 27 at 12:04 AM](https://archive.org/download/beltel-2022/beltel-2022-07-27T00:03:57.184592+01:00.hyperlinks.json) |
 | [July 26 at 12:12 PM](https://archive.org/download/beltel-2022/beltel-2022-07-26T12:12:40.436328+01:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:58 AM](https://archive.org/download/beltel-2022/beltel-2022-07-24T11:58:45.742839+01:00.hyperlinks.json) |
 | [July 24 at 12:00 AM](https://archive.org/download/beltel-2022/beltel-2022-07-24T00:00:25.055322+01:00.hyperlinks.json) |
 | [July 23 at 1:57 PM](https://archive.org/download/beltel-2022/beltel-2022-07-23T13:57:09.144221+01:00.hyperlinks.json) |
-| [July 23 at 1:58 AM](https://archive.org/download/beltel-2022/beltel-2022-07-23T01:58:38.126021+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 20 accessibility trees with the Internet Archive.
+The archiving routine has saved 21 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 28 at 12:01 AM](https://archive.org/download/beltel-2022/beltel-2022-07-28T00:01:31.661825+01:00.accessibility.json) |
 | [July 27 at 12:02 PM](https://archive.org/download/beltel-2022/beltel-2022-07-27T12:02:21.869027+01:00.accessibility.json) |
 | [July 27 at 12:04 AM](https://archive.org/download/beltel-2022/beltel-2022-07-27T00:03:57.184592+01:00.accessibility.json) |
 | [July 26 at 12:12 PM](https://archive.org/download/beltel-2022/beltel-2022-07-26T12:12:40.436328+01:00.accessibility.json) |
@@ -179,7 +180,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 11:58 AM](https://archive.org/download/beltel-2022/beltel-2022-07-24T11:58:45.742839+01:00.accessibility.json) |
 | [July 24 at 12:00 AM](https://archive.org/download/beltel-2022/beltel-2022-07-24T00:00:25.055322+01:00.accessibility.json) |
 | [July 23 at 1:57 PM](https://archive.org/download/beltel-2022/beltel-2022-07-23T13:57:09.144221+01:00.accessibility.json) |
-| [July 23 at 1:58 AM](https://archive.org/download/beltel-2022/beltel-2022-07-23T01:58:38.126021+01:00.accessibility.json) |
 
 
 

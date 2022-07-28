@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 102 screenshots with the Internet Archive.
+The archiving routine has saved 103 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 102 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-27T16:25:19.376782+03:00.jpg">
+  <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-27T16:25:19.376782+03:00.jpg"
+     alt="Public Source at 2022-07-27 16:25:28+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-27T16:25:19.376782+03:00.jpg">July 27 at 4:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-27T04:28:59.403394+03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-22T19:18:53.479781+03:00.jpg">July 22 at 7:18 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-22T07:32:02.848637+03:00.jpg">
-  <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-22T07:32:02.848637+03:00.jpg"
-     alt="Public Source at 2022-07-22 07:32:06+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-22T07:32:02.848637+03:00.jpg">July 22 at 7:32 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 103 hyperlink lists with the Internet Archive.
+The archiving routine has saved 104 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 4:25 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-27T16:25:19.376782+03:00.hyperlinks.json) |
 | [July 27 at 4:29 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-27T04:28:59.403394+03:00.hyperlinks.json) |
 | [July 26 at 4:31 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-26T16:31:26.556445+03:00.hyperlinks.json) |
 | [July 26 at 5:53 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-26T05:52:55.529319+03:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 6:07 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-24T18:07:37.356398+03:00.hyperlinks.json) |
 | [July 24 at 6:42 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-24T06:42:27.741792+03:00.hyperlinks.json) |
 | [July 23 at 7:05 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-23T19:05:40.084907+03:00.hyperlinks.json) |
-| [July 23 at 7:25 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-23T07:25:46.243025+03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 103 accessibility trees with the Internet Archive.
+The archiving routine has saved 104 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 4:25 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-27T16:25:19.376782+03:00.accessibility.json) |
 | [July 27 at 4:29 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-27T04:28:59.403394+03:00.accessibility.json) |
 | [July 26 at 4:31 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-26T16:31:26.556445+03:00.accessibility.json) |
 | [July 26 at 5:52 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-26T05:52:55.529319+03:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 6:07 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-24T18:07:37.356398+03:00.accessibility.json) |
 | [July 24 at 6:42 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-24T06:42:27.741792+03:00.accessibility.json) |
 | [July 23 at 7:05 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-23T19:05:40.084907+03:00.accessibility.json) |
-| [July 23 at 7:25 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-07-23T07:25:46.243025+03:00.accessibility.json) |
 
 
 

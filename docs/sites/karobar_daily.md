@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 6 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-07-27T20:16:43.041619+05:45.jpg">
+  <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-07-27T20:16:43.041619+05:45.jpg"
+     alt="Karobar Daily at 2022-07-27 20:16:44+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-07-27T20:16:43.041619+05:45.jpg">July 27 at 8:16 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-07-27T08:23:56.279029+05:45.jpg">
@@ -86,7 +95,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 6 hyperlink lists with the Internet Archive.
+The archiving routine has saved 7 hyperlink lists with the Internet Archive.
 
 
 
@@ -94,6 +103,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 8:16 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-07-27T20:16:43.041619+05:45.hyperlinks.json) |
 | [July 27 at 8:24 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-07-27T08:23:56.279029+05:45.hyperlinks.json) |
 | [July 26 at 8:22 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-07-26T20:22:35.021981+05:45.hyperlinks.json) |
 | [July 26 at 8:29 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-07-26T08:29:36.424661+05:45.hyperlinks.json) |
@@ -104,7 +114,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 6 accessibility trees with the Internet Archive.
+The archiving routine has saved 7 accessibility trees with the Internet Archive.
 
 
 
@@ -112,6 +122,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 8:16 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-07-27T20:16:43.041619+05:45.accessibility.json) |
 | [July 27 at 8:23 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-07-27T08:23:56.279029+05:45.accessibility.json) |
 | [July 26 at 8:22 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-07-26T20:22:35.021981+05:45.accessibility.json) |
 | [July 26 at 8:29 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-07-26T08:29:36.424661+05:45.accessibility.json) |

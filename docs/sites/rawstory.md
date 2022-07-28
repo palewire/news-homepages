@@ -20,13 +20,114 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/rawstory.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rawstory-2022/rawstory-2022-07-27T20:10:43.612303-04:00.jpg">
+  <img src="https://archive.org/download/rawstory-2022/rawstory-2022-07-27T20:10:43.612303-04:00.jpg"
+     alt="Raw Story at 2022-07-27 20:10:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-07-27T20:10:43.612303-04:00.jpg">July 27 at 8:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rawstory-2022/rawstory-2022-07-27T09:14:55.855956-04:00.jpg">
+  <img src="https://archive.org/download/rawstory-2022/rawstory-2022-07-27T09:14:55.855956-04:00.jpg"
+     alt="Raw Story at 2022-07-27 09:14:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-07-27T09:14:55.855956-04:00.jpg">July 27 at 9:14 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rawstory-2022/rawstory-2022-07-26T20:18:55.633200-04:00.jpg">
@@ -118,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-07-24T10:01:35.676771-04:00.jpg">July 24 at 10:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rawstory-2022/rawstory-2022-07-24T02:20:29.953101-04:00.jpg">
-  <img src="https://archive.org/download/rawstory-2022/rawstory-2022-07-24T02:20:29.953101-04:00.jpg"
-     alt="Raw Story at 2022-07-24 02:20:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-07-24T02:20:29.953101-04:00.jpg">July 24 at 2:20 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rawstory-2022/rawstory-2022-07-23T14:13:04.889027-04:00.jpg">
-  <img src="https://archive.org/download/rawstory-2022/rawstory-2022-07-23T14:13:04.889027-04:00.jpg"
-     alt="Raw Story at 2022-07-23 14:13:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-07-23T14:13:04.889027-04:00.jpg">July 23 at 2:13 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +231,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 8:10 PM](https://archive.org/download/rawstory-2022/rawstory-2022-07-27T20:10:43.612303-04:00.hyperlinks.json) |
+| [July 27 at 9:15 AM](https://archive.org/download/rawstory-2022/rawstory-2022-07-27T09:14:55.855956-04:00.hyperlinks.json) |
 | [July 26 at 8:19 PM](https://archive.org/download/rawstory-2022/rawstory-2022-07-26T20:18:55.633200-04:00.hyperlinks.json) |
 | [July 26 at 2:37 PM](https://archive.org/download/rawstory-2022/rawstory-2022-07-26T14:37:08.878665-04:00.hyperlinks.json) |
 | [July 26 at 8:28 AM](https://archive.org/download/rawstory-2022/rawstory-2022-07-26T08:28:36.819119-04:00.hyperlinks.json) |
@@ -156,13 +241,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 12:37 PM](https://archive.org/download/rawstory-2022/rawstory-2022-07-25T12:37:17.742540-04:00.hyperlinks.json) |
 | [July 25 at 11:39 AM](https://archive.org/download/rawstory-2022/rawstory-2022-07-25T11:39:37.287665-04:00.hyperlinks.json) |
 | [July 24 at 11:41 PM](https://archive.org/download/rawstory-2022/rawstory-2022-07-24T23:41:46.761051-04:00.hyperlinks.json) |
-| [July 24 at 10:01 AM](https://archive.org/download/rawstory-2022/rawstory-2022-07-24T10:01:35.676771-04:00.hyperlinks.json) |
-| [July 23 at 2:13 PM](https://archive.org/download/rawstory-2022/rawstory-2022-07-23T14:13:04.889027-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +253,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 8:10 PM](https://archive.org/download/rawstory-2022/rawstory-2022-07-27T20:10:43.612303-04:00.accessibility.json) |
+| [July 27 at 9:14 AM](https://archive.org/download/rawstory-2022/rawstory-2022-07-27T09:14:55.855956-04:00.accessibility.json) |
 | [July 26 at 8:19 PM](https://archive.org/download/rawstory-2022/rawstory-2022-07-26T20:18:55.633200-04:00.accessibility.json) |
 | [July 26 at 2:37 PM](https://archive.org/download/rawstory-2022/rawstory-2022-07-26T14:37:08.878665-04:00.accessibility.json) |
 | [July 26 at 8:28 AM](https://archive.org/download/rawstory-2022/rawstory-2022-07-26T08:28:36.819119-04:00.accessibility.json) |
@@ -178,8 +263,6 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 12:37 PM](https://archive.org/download/rawstory-2022/rawstory-2022-07-25T12:37:17.742540-04:00.accessibility.json) |
 | [July 25 at 11:39 AM](https://archive.org/download/rawstory-2022/rawstory-2022-07-25T11:39:37.287665-04:00.accessibility.json) |
 | [July 24 at 11:41 PM](https://archive.org/download/rawstory-2022/rawstory-2022-07-24T23:41:46.761051-04:00.accessibility.json) |
-| [July 24 at 11:43 AM](https://archive.org/download/rawstory-2022/rawstory-2022-07-24T11:43:24.535196-04:00.accessibility.json) |
-| [July 24 at 10:01 AM](https://archive.org/download/rawstory-2022/rawstory-2022-07-24T10:01:35.676771-04:00.accessibility.json) |
 
 
 

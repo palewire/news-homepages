@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-27T09:35:39.001276-05:00.jpg">
+  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-27T09:35:39.001276-05:00.jpg"
+     alt="Montana Free Press at 2022-07-27 09:35:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-27T09:35:39.001276-05:00.jpg">July 27 at 9:35 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-26T21:41:56.414492-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-21T22:36:13.641296-05:00.jpg">July 21 at 10:36 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-21T10:30:58.975755-05:00.jpg">
-  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-21T10:30:58.975755-05:00.jpg"
-     alt="Montana Free Press at 2022-07-21 10:31:00-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-21T10:30:58.975755-05:00.jpg">July 21 at 10:31 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 37 hyperlink lists with the Internet Archive.
+The archiving routine has saved 38 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:35 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-27T09:35:39.001276-05:00.hyperlinks.json) |
 | [July 26 at 9:42 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-26T21:41:56.414492-05:00.hyperlinks.json) |
 | [July 26 at 9:40 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-26T09:40:42.228080-05:00.hyperlinks.json) |
 | [July 25 at 9:48 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-25T21:48:19.514579-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:19 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-23T23:18:58.390109-05:00.hyperlinks.json) |
 | [July 23 at 10:01 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-23T10:01:53.423509-05:00.hyperlinks.json) |
 | [July 22 at 10:31 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-22T22:31:49.173972-05:00.hyperlinks.json) |
-| [July 22 at 9:57 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-22T09:57:36.562439-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 37 accessibility trees with the Internet Archive.
+The archiving routine has saved 38 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:35 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-27T09:35:39.001276-05:00.accessibility.json) |
 | [July 26 at 9:41 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-26T21:41:56.414492-05:00.accessibility.json) |
 | [July 26 at 9:40 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-26T09:40:42.228080-05:00.accessibility.json) |
 | [July 25 at 9:48 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-25T21:48:19.514579-05:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 11:19 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-23T23:18:58.390109-05:00.accessibility.json) |
 | [July 23 at 10:01 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-23T10:01:53.423509-05:00.accessibility.json) |
 | [July 22 at 10:31 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-22T22:31:49.173972-05:00.accessibility.json) |
-| [July 22 at 9:57 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-07-22T09:57:36.562439-05:00.accessibility.json) |
 
 
 

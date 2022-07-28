@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 112 screenshots with the Internet Archive.
+The archiving routine has saved 113 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 112 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-27T11:49:05.951354-04:00.jpg">
+  <img src="https://archive.org/download/theintercept-2022/theintercept-2022-07-27T11:49:05.951354-04:00.jpg"
+     alt="Intercept at 2022-07-27 11:49:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-27T11:49:05.951354-04:00.jpg">July 27 at 11:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-26T23:56:11.137119-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-23T23:41:25.896376-04:00.jpg">July 23 at 11:41 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-23T14:13:53.075784-04:00.jpg">
-  <img src="https://archive.org/download/theintercept-2022/theintercept-2022-07-23T14:13:53.075784-04:00.jpg"
-     alt="Intercept at 2022-07-23 14:13:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-23T14:13:53.075784-04:00.jpg">July 23 at 2:13 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 112 hyperlink lists with the Internet Archive.
+The archiving routine has saved 113 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 11:49 AM](https://archive.org/download/theintercept-2022/theintercept-2022-07-27T11:49:05.951354-04:00.hyperlinks.json) |
 | [July 26 at 11:56 PM](https://archive.org/download/theintercept-2022/theintercept-2022-07-26T23:56:11.137119-04:00.hyperlinks.json) |
 | [July 26 at 2:37 PM](https://archive.org/download/theintercept-2022/theintercept-2022-07-26T14:37:25.169210-04:00.hyperlinks.json) |
 | [July 26 at 11:47 AM](https://archive.org/download/theintercept-2022/theintercept-2022-07-26T11:47:44.531533-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 11:47 AM](https://archive.org/download/theintercept-2022/theintercept-2022-07-25T11:47:51.525859-04:00.hyperlinks.json) |
 | [July 25 at 12:36 AM](https://archive.org/download/theintercept-2022/theintercept-2022-07-25T00:36:10.517039-04:00.hyperlinks.json) |
 | [July 24 at 11:43 AM](https://archive.org/download/theintercept-2022/theintercept-2022-07-24T11:43:44.560025-04:00.hyperlinks.json) |
-| [July 24 at 11:06 AM](https://archive.org/download/theintercept-2022/theintercept-2022-07-24T11:06:39.214324-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 112 accessibility trees with the Internet Archive.
+The archiving routine has saved 113 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 11:49 AM](https://archive.org/download/theintercept-2022/theintercept-2022-07-27T11:49:05.951354-04:00.accessibility.json) |
 | [July 26 at 11:56 PM](https://archive.org/download/theintercept-2022/theintercept-2022-07-26T23:56:11.137119-04:00.accessibility.json) |
 | [July 26 at 2:37 PM](https://archive.org/download/theintercept-2022/theintercept-2022-07-26T14:37:25.169210-04:00.accessibility.json) |
 | [July 26 at 11:47 AM](https://archive.org/download/theintercept-2022/theintercept-2022-07-26T11:47:44.531533-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 11:47 AM](https://archive.org/download/theintercept-2022/theintercept-2022-07-25T11:47:51.525859-04:00.accessibility.json) |
 | [July 25 at 12:36 AM](https://archive.org/download/theintercept-2022/theintercept-2022-07-25T00:36:10.517039-04:00.accessibility.json) |
 | [July 24 at 11:43 AM](https://archive.org/download/theintercept-2022/theintercept-2022-07-24T11:43:44.560025-04:00.accessibility.json) |
-| [July 24 at 11:06 AM](https://archive.org/download/theintercept-2022/theintercept-2022-07-24T11:06:39.214324-04:00.accessibility.json) |
 
 
 

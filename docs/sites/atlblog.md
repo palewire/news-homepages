@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-27T09:16:49.011019-04:00.jpg">
+  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-07-27T09:16:49.011019-04:00.jpg"
+     alt="Above the Law at 2022-07-27 09:16:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-27T09:16:49.011019-04:00.jpg">July 27 at 9:16 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-26T21:23:34.237227-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-24T06:56:42.771879-04:00.jpg">July 24 at 6:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-23T18:58:44.787879-04:00.jpg">
-  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-07-23T18:58:44.787879-04:00.jpg"
-     alt="Above the Law at 2022-07-23 18:58:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-07-23T18:58:44.787879-04:00.jpg">July 23 at 6:58 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:16 AM](https://archive.org/download/atlblog-2022/atlblog-2022-07-27T09:16:49.011019-04:00.hyperlinks.json) |
 | [July 26 at 9:23 PM](https://archive.org/download/atlblog-2022/atlblog-2022-07-26T21:23:34.237227-04:00.hyperlinks.json) |
 | [July 26 at 2:36 PM](https://archive.org/download/atlblog-2022/atlblog-2022-07-26T14:36:42.105603-04:00.hyperlinks.json) |
 | [July 26 at 9:24 AM](https://archive.org/download/atlblog-2022/atlblog-2022-07-26T09:24:01.466327-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 12:37 PM](https://archive.org/download/atlblog-2022/atlblog-2022-07-25T12:37:02.874132-04:00.hyperlinks.json) |
 | [July 25 at 6:57 AM](https://archive.org/download/atlblog-2022/atlblog-2022-07-25T06:57:31.163710-04:00.hyperlinks.json) |
 | [July 24 at 8:47 PM](https://archive.org/download/atlblog-2022/atlblog-2022-07-24T20:47:09.633192-04:00.hyperlinks.json) |
-| [July 24 at 11:42 AM](https://archive.org/download/atlblog-2022/atlblog-2022-07-24T11:42:21.188407-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:16 AM](https://archive.org/download/atlblog-2022/atlblog-2022-07-27T09:16:49.011019-04:00.accessibility.json) |
 | [July 26 at 9:23 PM](https://archive.org/download/atlblog-2022/atlblog-2022-07-26T21:23:34.237227-04:00.accessibility.json) |
 | [July 26 at 2:36 PM](https://archive.org/download/atlblog-2022/atlblog-2022-07-26T14:36:42.105603-04:00.accessibility.json) |
 | [July 26 at 9:24 AM](https://archive.org/download/atlblog-2022/atlblog-2022-07-26T09:24:01.466327-04:00.accessibility.json) |
@@ -179,7 +180,6 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 12:37 PM](https://archive.org/download/atlblog-2022/atlblog-2022-07-25T12:37:02.874132-04:00.accessibility.json) |
 | [July 25 at 6:57 AM](https://archive.org/download/atlblog-2022/atlblog-2022-07-25T06:57:31.163710-04:00.accessibility.json) |
 | [July 24 at 8:47 PM](https://archive.org/download/atlblog-2022/atlblog-2022-07-24T20:47:09.633192-04:00.accessibility.json) |
-| [July 24 at 11:42 AM](https://archive.org/download/atlblog-2022/atlblog-2022-07-24T11:42:21.188407-04:00.accessibility.json) |
 
 
 

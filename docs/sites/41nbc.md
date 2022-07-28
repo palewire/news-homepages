@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/41nbc-2022/41nbc-2022-07-27T18:59:39.632745-04:00.jpg">
+  <img src="https://archive.org/download/41nbc-2022/41nbc-2022-07-27T18:59:39.632745-04:00.jpg"
+     alt="41NBC / WMGT at 2022-07-27 18:59:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-07-27T18:59:39.632745-04:00.jpg">July 27 at 6:59 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/41nbc-2022/41nbc-2022-07-27T07:00:28.828387-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-07-22T08:55:07.970522-04:00.jpg">July 22 at 8:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/41nbc-2022/41nbc-2022-07-21T21:02:28.423017-04:00.jpg">
-  <img src="https://archive.org/download/41nbc-2022/41nbc-2022-07-21T21:02:28.423017-04:00.jpg"
-     alt="41NBC / WMGT at 2022-07-21 21:02:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-07-21T21:02:28.423017-04:00.jpg">July 21 at 9:02 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 13 hyperlink lists with the Internet Archive.
+The archiving routine has saved 14 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 6:59 PM](https://archive.org/download/41nbc-2022/41nbc-2022-07-27T18:59:39.632745-04:00.hyperlinks.json) |
 | [July 27 at 7:00 AM](https://archive.org/download/41nbc-2022/41nbc-2022-07-27T07:00:28.828387-04:00.hyperlinks.json) |
 | [July 26 at 7:01 PM](https://archive.org/download/41nbc-2022/41nbc-2022-07-26T19:01:43.953526-04:00.hyperlinks.json) |
 | [July 26 at 7:09 AM](https://archive.org/download/41nbc-2022/41nbc-2022-07-26T07:09:44.694070-04:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 8:54 AM](https://archive.org/download/41nbc-2022/41nbc-2022-07-23T08:53:58.950701-04:00.hyperlinks.json) |
 | [July 22 at 8:55 PM](https://archive.org/download/41nbc-2022/41nbc-2022-07-22T20:55:27.436042-04:00.hyperlinks.json) |
 | [July 22 at 8:55 AM](https://archive.org/download/41nbc-2022/41nbc-2022-07-22T08:55:07.970522-04:00.hyperlinks.json) |
-| [July 21 at 9:02 PM](https://archive.org/download/41nbc-2022/41nbc-2022-07-21T21:02:28.423017-04:00.hyperlinks.json) |
 
 
 ## Accessibility

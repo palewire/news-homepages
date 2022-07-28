@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 50 screenshots with the Internet Archive.
+The archiving routine has saved 52 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-27T20:08:57.508154-04:00.jpg">
+  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-27T20:08:57.508154-04:00.jpg"
+     alt="Daily News at 2022-07-27 20:09:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-27T20:08:57.508154-04:00.jpg">July 27 at 8:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-27T09:12:22.788878-04:00.jpg">
+  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-27T09:12:22.788878-04:00.jpg"
+     alt="Daily News at 2022-07-27 09:12:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-27T09:12:22.788878-04:00.jpg">July 27 at 9:12 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-26T20:17:02.946379-04:00.jpg">
   <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-26T20:17:02.946379-04:00.jpg"
      alt="Daily News at 2022-07-26 20:17:06-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-22T10:59:59.134296-04:00.jpg">July 22 at 11:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-21T23:38:53.349664-04:00.jpg">
-  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-21T23:38:53.349664-04:00.jpg"
-     alt="Daily News at 2022-07-21 23:38:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-21T23:38:53.349664-04:00.jpg">July 21 at 11:38 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-21T11:34:39.243913-04:00.jpg">
-  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-21T11:34:39.243913-04:00.jpg"
-     alt="Daily News at 2022-07-21 11:34:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-21T11:34:39.243913-04:00.jpg">July 21 at 11:34 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 8:09 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-27T20:08:57.508154-04:00.hyperlinks.json) |
+| [July 27 at 9:12 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-27T09:12:22.788878-04:00.hyperlinks.json) |
 | [July 26 at 8:17 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-26T20:17:02.946379-04:00.hyperlinks.json) |
 | [July 26 at 8:26 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-26T08:26:36.107553-04:00.hyperlinks.json) |
 | [July 25 at 8:21 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-25T20:21:33.515072-04:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:04 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-23T11:04:39.782077-04:00.hyperlinks.json) |
 | [July 22 at 11:34 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-22T23:34:20.852087-04:00.hyperlinks.json) |
 | [July 22 at 11:00 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-22T10:59:59.134296-04:00.hyperlinks.json) |
-| [July 21 at 11:39 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-21T23:38:53.349664-04:00.hyperlinks.json) |
-| [July 21 at 11:34 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-21T11:34:39.243913-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 49 accessibility trees with the Internet Archive.
+The archiving routine has saved 51 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 8:09 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-27T20:08:57.508154-04:00.accessibility.json) |
+| [July 27 at 9:12 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-27T09:12:22.788878-04:00.accessibility.json) |
 | [July 26 at 8:17 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-26T20:17:02.946379-04:00.accessibility.json) |
 | [July 26 at 8:26 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-26T08:26:36.107553-04:00.accessibility.json) |
 | [July 25 at 8:21 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-25T20:21:33.515072-04:00.accessibility.json) |
@@ -427,8 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 2:17 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-24T02:17:33.474103-04:00.accessibility.json) |
 | [July 23 at 11:04 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-23T11:04:39.782077-04:00.accessibility.json) |
 | [July 22 at 11:34 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-22T23:34:20.852087-04:00.accessibility.json) |
-| [July 22 at 11:00 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-22T10:59:59.134296-04:00.accessibility.json) |
-| [July 21 at 11:38 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-07-21T23:38:53.349664-04:00.accessibility.json) |
 
 
 

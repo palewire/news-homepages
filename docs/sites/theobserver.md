@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-27T11:49:23.089377-04:00.jpg">
+  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-27T11:49:23.089377-04:00.jpg"
+     alt="Charlotte Observer at 2022-07-27 11:49:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-27T11:49:23.089377-04:00.jpg">July 27 at 11:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-26T23:56:46.956527-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-22T00:32:32.988890-04:00.jpg">July 22 at 12:32 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-21T12:55:54.423150-04:00.jpg">
-  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-07-21T12:55:54.423150-04:00.jpg"
-     alt="Charlotte Observer at 2022-07-21 12:55:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-07-21T12:55:54.423150-04:00.jpg">July 21 at 12:55 PM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 37 accessibility trees with the Internet Archive.
+The archiving routine has saved 38 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 11:49 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-27T11:49:23.089377-04:00.accessibility.json) |
 | [July 26 at 11:56 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-26T23:56:46.956527-04:00.accessibility.json) |
 | [July 26 at 11:48 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-26T11:48:23.791264-04:00.accessibility.json) |
 | [July 25 at 11:59 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-25T23:59:48.233171-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 11:42 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-23T23:42:44.564226-04:00.accessibility.json) |
 | [July 23 at 12:05 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-23T12:05:34.426970-04:00.accessibility.json) |
 | [July 23 at 12:25 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-23T00:25:29.981207-04:00.accessibility.json) |
-| [July 22 at 12:18 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-22T12:18:32.611250-04:00.accessibility.json) |
 
 
 

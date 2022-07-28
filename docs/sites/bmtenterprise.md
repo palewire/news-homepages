@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 20 screenshots with the Internet Archive.
+The archiving routine has saved 21 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-27T18:02:42.946621-05:00.jpg">
+  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-27T18:02:42.946621-05:00.jpg"
+     alt="Beaumont Enterprise at 2022-07-27 18:02:45-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-27T18:02:42.946621-05:00.jpg">July 27 at 6:02 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-27T06:02:55.866031-05:00.jpg">
@@ -125,15 +134,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-21T20:07:03.870722-05:00.jpg">July 21 at 8:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-21T07:53:14.980074-05:00.jpg">
-  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-21T07:53:14.980074-05:00.jpg"
-     alt="Beaumont Enterprise at 2022-07-21 07:53:16-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-21T07:53:14.980074-05:00.jpg">July 21 at 7:53 AM</a></p>
 </div>
 
 </div>

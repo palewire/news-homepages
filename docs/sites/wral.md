@@ -223,7 +223,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 183 hyperlink lists with the Internet Archive.
+The archiving routine has saved 184 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 11:52 AM](https://archive.org/download/wral-2022/wral-2022-07-27T11:52:14.296669-04:00.hyperlinks.json) |
 | [July 26 at 11:59 PM](https://archive.org/download/wral-2022/wral-2022-07-26T23:59:07.882234-04:00.hyperlinks.json) |
 | [July 26 at 11:50 AM](https://archive.org/download/wral-2022/wral-2022-07-26T11:50:05.976003-04:00.hyperlinks.json) |
 | [July 26 at 12:02 AM](https://archive.org/download/wral-2022/wral-2022-07-26T00:01:54.977836-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 12:10 PM](https://archive.org/download/wral-2022/wral-2022-07-23T12:10:00.797338-04:00.hyperlinks.json) |
 | [July 23 at 12:29 AM](https://archive.org/download/wral-2022/wral-2022-07-23T00:29:35.073200-04:00.hyperlinks.json) |
 | [July 22 at 12:22 PM](https://archive.org/download/wral-2022/wral-2022-07-22T12:22:31.073643-04:00.hyperlinks.json) |
-| [July 22 at 12:36 AM](https://archive.org/download/wral-2022/wral-2022-07-22T00:36:18.148647-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 188 accessibility trees with the Internet Archive.
+The archiving routine has saved 189 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 11:52 AM](https://archive.org/download/wral-2022/wral-2022-07-27T11:52:14.296669-04:00.accessibility.json) |
 | [July 26 at 11:59 PM](https://archive.org/download/wral-2022/wral-2022-07-26T23:59:07.882234-04:00.accessibility.json) |
 | [July 26 at 11:50 AM](https://archive.org/download/wral-2022/wral-2022-07-26T11:50:05.976003-04:00.accessibility.json) |
 | [July 26 at 12:02 AM](https://archive.org/download/wral-2022/wral-2022-07-26T00:01:54.977836-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 11:47 PM](https://archive.org/download/wral-2022/wral-2022-07-23T23:47:12.820225-04:00.accessibility.json) |
 | [July 23 at 12:10 PM](https://archive.org/download/wral-2022/wral-2022-07-23T12:10:00.797338-04:00.accessibility.json) |
 | [July 23 at 12:29 AM](https://archive.org/download/wral-2022/wral-2022-07-23T00:29:35.073200-04:00.accessibility.json) |
-| [July 22 at 12:22 PM](https://archive.org/download/wral-2022/wral-2022-07-22T12:22:31.073643-04:00.accessibility.json) |
 
 
 

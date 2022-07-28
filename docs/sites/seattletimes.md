@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-27T08:45:37.212012-07:00.jpg">
+  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-27T08:45:37.212012-07:00.jpg"
+     alt="Seattle Times at 2022-07-27 08:45:38-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-27T08:45:37.212012-07:00.jpg">July 27 at 8:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-26T20:53:44.851688-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-21T21:28:09.399211-07:00.jpg">July 21 at 9:28 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-21T09:51:41.506018-07:00.jpg">
-  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-21T09:51:41.506018-07:00.jpg"
-     alt="Seattle Times at 2022-07-21 09:51:43-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-21T09:51:41.506018-07:00.jpg">July 21 at 9:51 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 8:45 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-27T08:45:37.212012-07:00.hyperlinks.json) |
 | [July 26 at 8:53 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-26T20:53:44.851688-07:00.hyperlinks.json) |
 | [July 26 at 8:45 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-26T08:45:12.211006-07:00.hyperlinks.json) |
 | [July 25 at 8:56 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-25T20:56:39.410272-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:23 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-23T23:23:08.417559-07:00.hyperlinks.json) |
 | [July 23 at 9:01 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-23T09:01:38.263048-07:00.hyperlinks.json) |
 | [July 22 at 9:21 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-22T21:21:48.860726-07:00.hyperlinks.json) |
-| [July 22 at 9:14 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-22T09:14:25.752819-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 8:45 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-27T08:45:37.212012-07:00.accessibility.json) |
 | [July 26 at 8:53 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-26T20:53:44.851688-07:00.accessibility.json) |
 | [July 26 at 8:45 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-26T08:45:12.211006-07:00.accessibility.json) |
 | [July 25 at 8:56 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-25T20:56:39.410272-07:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 11:23 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-23T23:23:08.417559-07:00.accessibility.json) |
 | [July 23 at 9:01 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-23T09:01:38.263048-07:00.accessibility.json) |
 | [July 22 at 9:21 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-22T21:21:48.860726-07:00.accessibility.json) |
-| [July 22 at 9:14 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-07-22T09:14:25.752819-07:00.accessibility.json) |
 
 
 

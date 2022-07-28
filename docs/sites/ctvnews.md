@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 74 screenshots with the Internet Archive.
+The archiving routine has saved 75 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 74 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-27T09:21:13.869700-04:00.jpg">
+  <img src="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-27T09:21:13.869700-04:00.jpg"
+     alt="CTV News at 2022-07-27 09:21:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-27T09:21:13.869700-04:00.jpg">July 27 at 9:21 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-26T21:26:06.106612-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-22T09:02:44.574772-04:00.jpg">July 22 at 9:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-21T21:10:15.554896-04:00.jpg">
-  <img src="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-21T21:10:15.554896-04:00.jpg"
-     alt="CTV News at 2022-07-21 21:10:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-21T21:10:15.554896-04:00.jpg">July 21 at 9:10 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 70 hyperlink lists with the Internet Archive.
+The archiving routine has saved 71 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:21 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-27T09:21:13.869700-04:00.hyperlinks.json) |
 | [July 26 at 9:26 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-26T21:26:06.106612-04:00.hyperlinks.json) |
 | [July 26 at 9:28 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-26T09:28:26.965531-04:00.hyperlinks.json) |
 | [July 25 at 11:00 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T22:59:56.908855-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 7:56 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T07:56:10.145792-04:00.hyperlinks.json) |
 | [July 24 at 2:26 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T02:25:55.478427-04:00.hyperlinks.json) |
 | [July 23 at 9:02 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-23T09:02:10.134718-04:00.hyperlinks.json) |
-| [July 22 at 9:03 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-22T21:02:56.222154-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 71 accessibility trees with the Internet Archive.
+The archiving routine has saved 72 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:21 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-27T09:21:13.869700-04:00.accessibility.json) |
 | [July 26 at 9:26 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-26T21:26:06.106612-04:00.accessibility.json) |
 | [July 26 at 9:28 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-26T09:28:26.965531-04:00.accessibility.json) |
 | [July 25 at 10:59 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T22:59:56.908855-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 7:56 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T07:56:10.145792-04:00.accessibility.json) |
 | [July 24 at 2:25 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T02:25:55.478427-04:00.accessibility.json) |
 | [July 23 at 9:02 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-23T09:02:10.134718-04:00.accessibility.json) |
-| [July 22 at 9:03 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-07-22T21:02:56.222154-04:00.accessibility.json) |
 
 
 

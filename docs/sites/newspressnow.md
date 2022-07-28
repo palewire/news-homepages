@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-27T09:36:16.782908-05:00.jpg">
+  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-27T09:36:16.782908-05:00.jpg"
+     alt="St. Joseph News Press at 2022-07-27 09:36:20-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-27T09:36:16.782908-05:00.jpg">July 27 at 9:36 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-26T21:43:10.842636-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-21T22:37:34.915733-05:00.jpg">July 21 at 10:37 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-21T10:33:07.555828-05:00.jpg">
-  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-21T10:33:07.555828-05:00.jpg"
-     alt="St. Joseph News Press at 2022-07-21 10:33:10-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-21T10:33:07.555828-05:00.jpg">July 21 at 10:33 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 18 hyperlink lists with the Internet Archive.
+The archiving routine has saved 19 hyperlink lists with the Internet Archive.
 
 
 
@@ -231,6 +231,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:36 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-27T09:36:16.782908-05:00.hyperlinks.json) |
 | [July 26 at 9:41 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-26T09:41:45.182218-05:00.hyperlinks.json) |
 | [July 25 at 9:49 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-25T21:49:03.094386-05:00.hyperlinks.json) |
 | [July 24 at 8:05 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-24T08:05:46.823612-05:00.hyperlinks.json) |
@@ -240,12 +241,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 21 at 10:37 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-21T22:37:34.915733-05:00.hyperlinks.json) |
 | [July 20 at 10:36 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-20T22:36:07.606573-05:00.hyperlinks.json) |
 | [July 20 at 11:09 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-20T11:09:41.716013-05:00.hyperlinks.json) |
-| [July 16 at 10:27 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-16T22:27:52.374747-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 23 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -253,6 +253,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:36 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-27T09:36:16.782908-05:00.accessibility.json) |
 | [July 26 at 9:43 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-26T21:43:10.842636-05:00.accessibility.json) |
 | [July 26 at 9:41 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-26T09:41:45.182218-05:00.accessibility.json) |
 | [July 24 at 10:36 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-24T22:36:42.110101-05:00.accessibility.json) |
@@ -262,7 +263,6 @@ Here are the 10 most recent accessibility trees.
 | [July 22 at 10:33 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-22T22:33:40.449540-05:00.accessibility.json) |
 | [July 22 at 9:59 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-22T09:59:05.924432-05:00.accessibility.json) |
 | [July 21 at 10:37 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-21T22:37:34.915733-05:00.accessibility.json) |
-| [July 21 at 10:33 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-21T10:33:07.555828-05:00.accessibility.json) |
 
 
 

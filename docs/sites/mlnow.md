@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-27T07:35:15.824789-07:00.jpg">
+  <img src="https://archive.org/download/mlnow-2022/mlnow-2022-07-27T07:35:15.824789-07:00.jpg"
+     alt="Mission Local at 2022-07-27 07:35:17-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-27T07:35:15.824789-07:00.jpg">July 27 at 7:35 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-26T19:41:29.983814-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-21T20:35:58.202157-07:00.jpg">July 21 at 8:36 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-21T08:34:53.131871-07:00.jpg">
-  <img src="https://archive.org/download/mlnow-2022/mlnow-2022-07-21T08:34:53.131871-07:00.jpg"
-     alt="Mission Local at 2022-07-21 08:34:55-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-07-21T08:34:53.131871-07:00.jpg">July 21 at 8:34 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:35 AM](https://archive.org/download/mlnow-2022/mlnow-2022-07-27T07:35:15.824789-07:00.hyperlinks.json) |
 | [July 26 at 7:41 PM](https://archive.org/download/mlnow-2022/mlnow-2022-07-26T19:41:29.983814-07:00.hyperlinks.json) |
 | [July 26 at 7:40 AM](https://archive.org/download/mlnow-2022/mlnow-2022-07-26T07:40:21.420145-07:00.hyperlinks.json) |
 | [July 25 at 7:47 PM](https://archive.org/download/mlnow-2022/mlnow-2022-07-25T19:47:43.857075-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:19 PM](https://archive.org/download/mlnow-2022/mlnow-2022-07-23T21:19:03.767912-07:00.hyperlinks.json) |
 | [July 23 at 8:01 AM](https://archive.org/download/mlnow-2022/mlnow-2022-07-23T08:01:42.264342-07:00.hyperlinks.json) |
 | [July 22 at 8:31 PM](https://archive.org/download/mlnow-2022/mlnow-2022-07-22T20:31:52.170309-07:00.hyperlinks.json) |
-| [July 22 at 7:57 AM](https://archive.org/download/mlnow-2022/mlnow-2022-07-22T07:57:22.112702-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 7:35 AM](https://archive.org/download/mlnow-2022/mlnow-2022-07-27T07:35:15.824789-07:00.accessibility.json) |
 | [July 26 at 7:41 PM](https://archive.org/download/mlnow-2022/mlnow-2022-07-26T19:41:29.983814-07:00.accessibility.json) |
 | [July 26 at 7:40 AM](https://archive.org/download/mlnow-2022/mlnow-2022-07-26T07:40:21.420145-07:00.accessibility.json) |
 | [July 25 at 7:47 PM](https://archive.org/download/mlnow-2022/mlnow-2022-07-25T19:47:43.857075-07:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 9:19 PM](https://archive.org/download/mlnow-2022/mlnow-2022-07-23T21:19:03.767912-07:00.accessibility.json) |
 | [July 23 at 8:01 AM](https://archive.org/download/mlnow-2022/mlnow-2022-07-23T08:01:42.264342-07:00.accessibility.json) |
 | [July 22 at 8:31 PM](https://archive.org/download/mlnow-2022/mlnow-2022-07-22T20:31:52.170309-07:00.accessibility.json) |
-| [July 22 at 7:57 AM](https://archive.org/download/mlnow-2022/mlnow-2022-07-22T07:57:22.112702-07:00.accessibility.json) |
 
 
 

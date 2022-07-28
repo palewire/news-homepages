@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 214 screenshots with the Internet Archive.
+The archiving routine has saved 215 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 214 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-07-27T16:34:00.594297+02:00.jpg">
+  <img src="https://archive.org/download/le_parisien-2022/le_parisien-2022-07-27T16:34:00.594297+02:00.jpg"
+     alt="Le Parisien at 2022-07-27 16:34:02+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-07-27T16:34:00.594297+02:00.jpg">July 27 at 4:34 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-07-27T10:13:15.795037+02:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-07-24T06:16:32.348211+02:00.jpg">July 24 at 6:16 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-07-23T16:07:17.432211+02:00.jpg">
-  <img src="https://archive.org/download/le_parisien-2022/le_parisien-2022-07-23T16:07:17.432211+02:00.jpg"
-     alt="Le Parisien at 2022-07-23 16:07:18+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-07-23T16:07:17.432211+02:00.jpg">July 23 at 4:07 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 214 hyperlink lists with the Internet Archive.
+The archiving routine has saved 215 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 4:34 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-27T16:34:00.594297+02:00.hyperlinks.json) |
 | [July 27 at 10:13 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-27T10:13:15.795037+02:00.hyperlinks.json) |
 | [July 27 at 4:40 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-27T04:39:56.344668+02:00.hyperlinks.json) |
 | [July 26 at 4:39 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-26T16:39:18.659248+02:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 10:09 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-25T10:09:08.713959+02:00.hyperlinks.json) |
 | [July 25 at 5:29 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-25T05:28:57.272428+02:00.hyperlinks.json) |
 | [July 24 at 3:01 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-24T15:01:32.860764+02:00.hyperlinks.json) |
-| [July 24 at 10:09 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-24T10:09:40.144173+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 214 accessibility trees with the Internet Archive.
+The archiving routine has saved 215 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 4:34 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-27T16:34:00.594297+02:00.accessibility.json) |
 | [July 27 at 10:13 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-27T10:13:15.795037+02:00.accessibility.json) |
 | [July 27 at 4:40 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-27T04:39:56.344668+02:00.accessibility.json) |
 | [July 26 at 4:39 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-26T16:39:18.659248+02:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 10:09 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-25T10:09:08.713959+02:00.accessibility.json) |
 | [July 25 at 5:29 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-25T05:28:57.272428+02:00.accessibility.json) |
 | [July 24 at 3:01 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-24T15:01:32.860764+02:00.accessibility.json) |
-| [July 24 at 10:09 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-07-24T10:09:40.144173+02:00.accessibility.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 38 screenshots with the Internet Archive.
+The archiving routine has saved 39 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 38 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-27T09:20:35.958928-04:00.jpg">
+  <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-27T09:20:35.958928-04:00.jpg"
+     alt="Connecticut Mirror at 2022-07-27 09:20:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-27T09:20:35.958928-04:00.jpg">July 27 at 9:20 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-26T21:26:23.024100-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-22T09:02:46.095368-04:00.jpg">July 22 at 9:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-21T21:10:37.337611-04:00.jpg">
-  <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-21T21:10:37.337611-04:00.jpg"
-     alt="Connecticut Mirror at 2022-07-21 21:10:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-07-21T21:10:37.337611-04:00.jpg">July 21 at 9:10 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 38 hyperlink lists with the Internet Archive.
+The archiving routine has saved 39 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:20 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-27T09:20:35.958928-04:00.hyperlinks.json) |
 | [July 26 at 9:26 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-26T21:26:23.024100-04:00.hyperlinks.json) |
 | [July 26 at 9:28 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-26T09:28:24.612091-04:00.hyperlinks.json) |
 | [July 25 at 11:00 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T23:00:02.141909-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 7:56 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-24T07:56:25.548737-04:00.hyperlinks.json) |
 | [July 24 at 2:25 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-24T02:25:21.440874-04:00.hyperlinks.json) |
 | [July 23 at 9:02 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-23T09:02:00.072121-04:00.hyperlinks.json) |
-| [July 22 at 9:02 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-22T21:02:46.971992-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 38 accessibility trees with the Internet Archive.
+The archiving routine has saved 39 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:20 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-27T09:20:35.958928-04:00.accessibility.json) |
 | [July 26 at 9:26 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-26T21:26:23.024100-04:00.accessibility.json) |
 | [July 26 at 9:28 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-26T09:28:24.612091-04:00.accessibility.json) |
 | [July 25 at 11:00 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-25T23:00:02.141909-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 7:56 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-24T07:56:25.548737-04:00.accessibility.json) |
 | [July 24 at 2:25 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-24T02:25:21.440874-04:00.accessibility.json) |
 | [July 23 at 9:02 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-23T09:02:00.072121-04:00.accessibility.json) |
-| [July 22 at 9:02 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-07-22T21:02:46.971992-04:00.accessibility.json) |
 
 
 

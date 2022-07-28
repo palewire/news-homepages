@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 7 screenshots with the Internet Archive.
+The archiving routine has saved 8 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-27T19:02:05.542008+05:45.jpg">
+  <img src="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-27T19:02:05.542008+05:45.jpg"
+     alt="Artha Sarokar at 2022-07-27 19:02:07+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-27T19:02:05.542008+05:45.jpg">July 27 at 7:02 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-27T07:07:44.586604+05:45.jpg">
@@ -95,7 +104,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 7 hyperlink lists with the Internet Archive.
+The archiving routine has saved 8 hyperlink lists with the Internet Archive.
 
 
 
@@ -103,6 +112,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:02 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-27T19:02:05.542008+05:45.hyperlinks.json) |
 | [July 27 at 7:07 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-27T07:07:44.586604+05:45.hyperlinks.json) |
 | [July 26 at 7:09 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T19:08:57.912079+05:45.hyperlinks.json) |
 | [July 26 at 8:40 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T08:40:27.984823+05:45.hyperlinks.json) |
@@ -114,7 +124,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 7 accessibility trees with the Internet Archive.
+The archiving routine has saved 8 accessibility trees with the Internet Archive.
 
 
 
@@ -122,6 +132,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 7:02 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-27T19:02:05.542008+05:45.accessibility.json) |
 | [July 27 at 7:07 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-27T07:07:44.586604+05:45.accessibility.json) |
 | [July 26 at 7:09 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T19:08:57.912079+05:45.accessibility.json) |
 | [July 26 at 8:40 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-26T08:40:27.984823+05:45.accessibility.json) |

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-28T01:11:59.964586+01:00.jpg">
+  <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-28T01:11:59.964586+01:00.jpg"
+     alt="National at 2022-07-28 01:12:00+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-28T01:11:59.964586+01:00.jpg">July 28 at 1:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-27T14:15:25.994488+01:00.jpg">
+  <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-27T14:15:25.994488+01:00.jpg"
+     alt="National at 2022-07-27 14:15:27+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-27T14:15:25.994488+01:00.jpg">July 27 at 2:15 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-27T01:20:00.616080+01:00.jpg">
   <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-27T01:20:00.616080+01:00.jpg"
      alt="National at 2022-07-27 01:20:05+01:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-22T16:04:52.118181+01:00.jpg">July 22 at 4:04 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-22T04:43:23.583689+01:00.jpg">
-  <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-22T04:43:23.583689+01:00.jpg"
-     alt="National at 2022-07-22 04:43:25+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-22T04:43:23.583689+01:00.jpg">July 22 at 4:43 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-21T16:40:14.229016+01:00.jpg">
-  <img src="https://archive.org/download/scotnational-2022/scotnational-2022-07-21T16:40:14.229016+01:00.jpg"
-     alt="National at 2022-07-21 16:40:16+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-21T16:40:14.229016+01:00.jpg">July 21 at 4:40 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 40 hyperlink lists with the Internet Archive.
+The archiving routine has saved 41 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 2:15 PM](https://archive.org/download/scotnational-2022/scotnational-2022-07-27T14:15:25.994488+01:00.hyperlinks.json) |
 | [July 26 at 1:29 PM](https://archive.org/download/scotnational-2022/scotnational-2022-07-26T13:29:29.948450+01:00.hyperlinks.json) |
 | [July 26 at 1:24 AM](https://archive.org/download/scotnational-2022/scotnational-2022-07-26T01:24:19.721884+01:00.hyperlinks.json) |
 | [July 25 at 4:41 PM](https://archive.org/download/scotnational-2022/scotnational-2022-07-25T16:41:14.974047+01:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 22 at 4:04 PM](https://archive.org/download/scotnational-2022/scotnational-2022-07-22T16:04:52.118181+01:00.hyperlinks.json) |
 | [July 22 at 4:43 AM](https://archive.org/download/scotnational-2022/scotnational-2022-07-22T04:43:23.583689+01:00.hyperlinks.json) |
 | [July 21 at 4:42 AM](https://archive.org/download/scotnational-2022/scotnational-2022-07-21T04:42:01.250209+01:00.hyperlinks.json) |
-| [July 20 at 5:41 PM](https://archive.org/download/scotnational-2022/scotnational-2022-07-20T17:41:15.344001+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 38 accessibility trees with the Internet Archive.
+The archiving routine has saved 40 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 28 at 1:12 AM](https://archive.org/download/scotnational-2022/scotnational-2022-07-28T01:11:59.964586+01:00.accessibility.json) |
+| [July 27 at 2:15 PM](https://archive.org/download/scotnational-2022/scotnational-2022-07-27T14:15:25.994488+01:00.accessibility.json) |
 | [July 27 at 1:20 AM](https://archive.org/download/scotnational-2022/scotnational-2022-07-27T01:20:00.616080+01:00.accessibility.json) |
 | [July 26 at 1:29 PM](https://archive.org/download/scotnational-2022/scotnational-2022-07-26T13:29:29.948450+01:00.accessibility.json) |
 | [July 26 at 1:24 AM](https://archive.org/download/scotnational-2022/scotnational-2022-07-26T01:24:19.721884+01:00.accessibility.json) |
@@ -427,8 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 7:23 AM](https://archive.org/download/scotnational-2022/scotnational-2022-07-24T07:23:02.080958+01:00.accessibility.json) |
 | [July 23 at 4:09 PM](https://archive.org/download/scotnational-2022/scotnational-2022-07-23T16:09:18.846154+01:00.accessibility.json) |
 | [July 23 at 4:39 AM](https://archive.org/download/scotnational-2022/scotnational-2022-07-23T04:39:06.872193+01:00.accessibility.json) |
-| [July 22 at 4:04 PM](https://archive.org/download/scotnational-2022/scotnational-2022-07-22T16:04:52.118181+01:00.accessibility.json) |
-| [July 22 at 4:43 AM](https://archive.org/download/scotnational-2022/scotnational-2022-07-22T04:43:23.583689+01:00.accessibility.json) |
 
 
 

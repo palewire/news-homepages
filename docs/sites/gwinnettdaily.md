@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-27T19:08:35.355743-04:00.jpg">
+  <img src="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-27T19:08:35.355743-04:00.jpg"
+     alt="Gwinnett Daily Post at 2022-07-27 19:08:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-27T19:08:35.355743-04:00.jpg">July 27 at 7:08 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-27T07:08:42.325946-04:00.jpg">
@@ -127,15 +136,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-22T10:02:49.784383-04:00.jpg">July 22 at 10:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-21T22:22:22.899198-04:00.jpg">
-  <img src="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-21T22:22:22.899198-04:00.jpg"
-     alt="Gwinnett Daily Post at 2022-07-21 22:22:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-21T22:22:22.899198-04:00.jpg">July 21 at 10:22 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
@@ -162,7 +162,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 15 accessibility trees with the Internet Archive.
+The archiving routine has saved 16 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 7:08 PM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-27T19:08:35.355743-04:00.accessibility.json) |
 | [July 27 at 7:08 AM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-27T07:08:42.325946-04:00.accessibility.json) |
 | [July 26 at 7:11 PM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-26T19:11:10.566497-04:00.accessibility.json) |
 | [July 26 at 7:19 AM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-26T07:19:13.380829-04:00.accessibility.json) |
@@ -179,7 +180,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 8:01 AM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-24T08:01:55.194905-04:00.accessibility.json) |
 | [July 24 at 2:32 AM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-24T02:32:23.806068-04:00.accessibility.json) |
 | [July 23 at 10:02 AM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-23T10:01:59.888274-04:00.accessibility.json) |
-| [July 22 at 10:27 PM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-07-22T22:27:43.198357-04:00.accessibility.json) |
 
 
 

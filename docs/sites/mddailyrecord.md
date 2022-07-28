@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 31 screenshots with the Internet Archive.
+The archiving routine has saved 33 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-27T20:06:08.117845-04:00.jpg">
+  <img src="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-27T20:06:08.117845-04:00.jpg"
+     alt="Maryland Daily Record at 2022-07-27 20:06:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-27T20:06:08.117845-04:00.jpg">July 27 at 8:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-27T09:10:56.589951-04:00.jpg">
+  <img src="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-27T09:10:56.589951-04:00.jpg"
+     alt="Maryland Daily Record at 2022-07-27 09:10:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-27T09:10:56.589951-04:00.jpg">July 27 at 9:10 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-26T20:15:10.464047-04:00.jpg">
   <img src="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-26T20:15:10.464047-04:00.jpg"
      alt="Maryland Daily Record at 2022-07-26 20:15:11-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-22T10:56:23.186598-04:00.jpg">July 22 at 10:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-21T23:35:16.951364-04:00.jpg">
-  <img src="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-21T23:35:16.951364-04:00.jpg"
-     alt="Maryland Daily Record at 2022-07-21 23:35:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-21T23:35:16.951364-04:00.jpg">July 21 at 11:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-21T11:29:42.443783-04:00.jpg">
-  <img src="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-21T11:29:42.443783-04:00.jpg"
-     alt="Maryland Daily Record at 2022-07-21 11:29:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-21T11:29:42.443783-04:00.jpg">July 21 at 11:29 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 33 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 8:06 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-27T20:06:08.117845-04:00.hyperlinks.json) |
+| [July 27 at 9:11 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-27T09:10:56.589951-04:00.hyperlinks.json) |
 | [July 26 at 8:15 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-26T20:15:10.464047-04:00.hyperlinks.json) |
 | [July 26 at 8:24 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-26T08:24:15.353100-04:00.hyperlinks.json) |
 | [July 25 at 8:18 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-25T20:18:39.750868-04:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 9:02 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-24T09:02:36.998183-04:00.hyperlinks.json) |
 | [July 24 at 12:17 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-24T00:17:40.708286-04:00.hyperlinks.json) |
 | [July 23 at 11:00 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-23T11:00:39.633571-04:00.hyperlinks.json) |
-| [July 22 at 11:30 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-22T23:30:36.192026-04:00.hyperlinks.json) |
-| [July 22 at 10:56 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-22T10:56:23.186598-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 31 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 8:06 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-27T20:06:08.117845-04:00.accessibility.json) |
+| [July 27 at 9:11 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-27T09:10:56.589951-04:00.accessibility.json) |
 | [July 26 at 8:15 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-26T20:15:10.464047-04:00.accessibility.json) |
 | [July 26 at 8:24 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-26T08:24:15.353100-04:00.accessibility.json) |
 | [July 25 at 8:18 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-25T20:18:39.750868-04:00.accessibility.json) |
@@ -427,8 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 9:02 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-24T09:02:36.998183-04:00.accessibility.json) |
 | [July 24 at 12:17 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-24T00:17:40.708286-04:00.accessibility.json) |
 | [July 23 at 11:00 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-23T11:00:39.633571-04:00.accessibility.json) |
-| [July 22 at 11:30 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-22T23:30:36.192026-04:00.accessibility.json) |
-| [July 22 at 10:56 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-07-22T10:56:23.186598-04:00.accessibility.json) |
 
 
 

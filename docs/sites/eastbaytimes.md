@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 225 screenshots with the Internet Archive.
+The archiving routine has saved 226 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 225 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T16:06:42.176080-07:00.jpg">
+  <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T16:06:42.176080-07:00.jpg"
+     alt="East Bay Times at 2022-07-27 16:06:46-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T16:06:42.176080-07:00.jpg">July 27 at 4:06 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T04:06:52.201618-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-22T06:59:36.700012-07:00.jpg">July 22 at 6:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-21T19:18:52.651560-07:00.jpg">
-  <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-21T19:18:52.651560-07:00.jpg"
-     alt="East Bay Times at 2022-07-21 19:18:53-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-21T19:18:52.651560-07:00.jpg">July 21 at 7:18 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 213 hyperlink lists with the Internet Archive.
+The archiving routine has saved 214 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 4:06 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T16:06:42.176080-07:00.hyperlinks.json) |
 | [July 27 at 4:07 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T04:06:52.201618-07:00.hyperlinks.json) |
 | [July 26 at 4:09 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T16:08:55.356389-07:00.hyperlinks.json) |
 | [July 26 at 4:18 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T04:17:57.604254-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 4:58 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T04:57:56.323231-07:00.hyperlinks.json) |
 | [July 23 at 6:56 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T06:56:39.175381-07:00.hyperlinks.json) |
 | [July 22 at 7:23 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-22T19:23:44.957430-07:00.hyperlinks.json) |
-| [July 22 at 6:59 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-22T06:59:36.700012-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 216 accessibility trees with the Internet Archive.
+The archiving routine has saved 217 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 4:06 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T16:06:42.176080-07:00.accessibility.json) |
 | [July 27 at 4:06 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-27T04:06:52.201618-07:00.accessibility.json) |
 | [July 26 at 4:09 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T16:08:55.356389-07:00.accessibility.json) |
 | [July 26 at 4:18 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-26T04:17:57.604254-07:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 4:58 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-24T04:57:56.323231-07:00.accessibility.json) |
 | [July 23 at 11:27 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T23:27:25.901365-07:00.accessibility.json) |
 | [July 23 at 6:56 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-23T06:56:39.175381-07:00.accessibility.json) |
-| [July 22 at 7:23 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-07-22T19:23:44.957430-07:00.accessibility.json) |
 
 
 

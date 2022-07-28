@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 33 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 32 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-27T09:24:31.197765-04:00.jpg">
+  <img src="https://archive.org/download/therealnews-2022/therealnews-2022-07-27T09:24:31.197765-04:00.jpg"
+     alt="Real News at 2022-07-27 09:24:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-27T09:24:31.197765-04:00.jpg">July 27 at 9:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-26T21:28:54.983065-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-22T12:18:55.602415-04:00.jpg">July 22 at 12:18 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-22T00:32:13.623897-04:00.jpg">
-  <img src="https://archive.org/download/therealnews-2022/therealnews-2022-07-22T00:32:13.623897-04:00.jpg"
-     alt="Real News at 2022-07-22 00:32:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-22T00:32:13.623897-04:00.jpg">July 22 at 12:32 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 32 hyperlink lists with the Internet Archive.
+The archiving routine has saved 33 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:24 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-27T09:24:31.197765-04:00.hyperlinks.json) |
 | [July 26 at 9:28 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-26T21:28:54.983065-04:00.hyperlinks.json) |
 | [July 26 at 9:31 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-26T09:31:16.172816-04:00.hyperlinks.json) |
 | [July 25 at 10:53 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T22:53:19.312816-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:07 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-24T11:07:24.049847-04:00.hyperlinks.json) |
 | [July 23 at 11:42 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-23T23:42:30.876941-04:00.hyperlinks.json) |
 | [July 23 at 12:06 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-23T12:06:00.303505-04:00.hyperlinks.json) |
-| [July 23 at 12:25 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-23T00:25:52.963594-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 32 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:24 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-27T09:24:31.197765-04:00.accessibility.json) |
 | [July 26 at 9:28 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-26T21:28:54.983065-04:00.accessibility.json) |
 | [July 26 at 9:31 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-26T09:31:16.172816-04:00.accessibility.json) |
 | [July 25 at 10:53 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T22:53:19.312816-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 11:07 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-24T11:07:24.049847-04:00.accessibility.json) |
 | [July 23 at 11:42 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-23T23:42:30.876941-04:00.accessibility.json) |
 | [July 23 at 12:06 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-23T12:06:00.303505-04:00.accessibility.json) |
-| [July 23 at 12:25 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-23T00:25:52.963594-04:00.accessibility.json) |
 
 
 

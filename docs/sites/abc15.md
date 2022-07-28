@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 4 screenshots with the Internet Archive.
+The archiving routine has saved 5 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abc15-2022/abc15-2022-07-27T16:00:25.213731-07:00.jpg">
+  <img src="https://archive.org/download/abc15-2022/abc15-2022-07-27T16:00:25.213731-07:00.jpg"
+     alt="ABC15 Arizona at 2022-07-27 16:00:27-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abc15-2022/abc15-2022-07-27T16:00:25.213731-07:00.jpg">July 27 at 4:00 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc15-2022/abc15-2022-07-27T04:00:34.888282-07:00.jpg">
@@ -68,7 +77,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+The archiving routine has saved 5 hyperlink lists with the Internet Archive.
 
 
 
@@ -76,6 +85,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 4:00 PM](https://archive.org/download/abc15-2022/abc15-2022-07-27T16:00:25.213731-07:00.hyperlinks.json) |
 | [July 27 at 4:00 AM](https://archive.org/download/abc15-2022/abc15-2022-07-27T04:00:34.888282-07:00.hyperlinks.json) |
 | [July 26 at 4:02 PM](https://archive.org/download/abc15-2022/abc15-2022-07-26T16:02:14.424580-07:00.hyperlinks.json) |
 | [July 26 at 4:11 AM](https://archive.org/download/abc15-2022/abc15-2022-07-26T04:11:04.098942-07:00.hyperlinks.json) |
@@ -84,7 +94,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 4 accessibility trees with the Internet Archive.
+The archiving routine has saved 5 accessibility trees with the Internet Archive.
 
 
 
@@ -92,6 +102,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 4:00 PM](https://archive.org/download/abc15-2022/abc15-2022-07-27T16:00:25.213731-07:00.accessibility.json) |
 | [July 27 at 4:00 AM](https://archive.org/download/abc15-2022/abc15-2022-07-27T04:00:34.888282-07:00.accessibility.json) |
 | [July 26 at 4:02 PM](https://archive.org/download/abc15-2022/abc15-2022-07-26T16:02:14.424580-07:00.accessibility.json) |
 | [July 26 at 4:11 AM](https://archive.org/download/abc15-2022/abc15-2022-07-26T04:11:04.098942-07:00.accessibility.json) |

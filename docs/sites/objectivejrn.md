@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 37 screenshots with the Internet Archive.
+The archiving routine has saved 38 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 37 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-27T08:42:51.311552-07:00.jpg">
+  <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-27T08:42:51.311552-07:00.jpg"
+     alt="Objective at 2022-07-27 08:42:54-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-27T08:42:51.311552-07:00.jpg">July 27 at 8:42 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-26T20:51:10.282584-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-21T20:40:06.065293-07:00.jpg">July 21 at 8:40 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-21T08:34:55.592178-07:00.jpg">
-  <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-21T08:34:55.592178-07:00.jpg"
-     alt="Objective at 2022-07-21 08:35:04-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-21T08:34:55.592178-07:00.jpg">July 21 at 8:35 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 37 hyperlink lists with the Internet Archive.
+The archiving routine has saved 38 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 8:42 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-27T08:42:51.311552-07:00.hyperlinks.json) |
 | [July 26 at 8:51 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-26T20:51:10.282584-07:00.hyperlinks.json) |
 | [July 26 at 8:41 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-26T08:41:37.344803-07:00.hyperlinks.json) |
 | [July 25 at 8:53 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-25T20:53:16.612383-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 11:17 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-23T23:17:30.007858-07:00.hyperlinks.json) |
 | [July 23 at 8:04 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-23T08:04:53.481042-07:00.hyperlinks.json) |
 | [July 22 at 8:35 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-22T20:35:00.135461-07:00.hyperlinks.json) |
-| [July 22 at 8:00 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-22T08:00:21.899322-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 37 accessibility trees with the Internet Archive.
+The archiving routine has saved 38 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 8:42 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-27T08:42:51.311552-07:00.accessibility.json) |
 | [July 26 at 8:51 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-26T20:51:10.282584-07:00.accessibility.json) |
 | [July 26 at 8:41 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-26T08:41:37.344803-07:00.accessibility.json) |
 | [July 25 at 8:53 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-25T20:53:16.612383-07:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 11:17 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-23T23:17:30.007858-07:00.accessibility.json) |
 | [July 23 at 8:04 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-23T08:04:53.481042-07:00.accessibility.json) |
 | [July 22 at 8:35 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-22T20:35:00.135461-07:00.accessibility.json) |
-| [July 22 at 8:00 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-22T08:00:21.899322-07:00.accessibility.json) |
 
 
 

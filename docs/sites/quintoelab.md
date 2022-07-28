@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 101 screenshots with the Internet Archive.
+The archiving routine has saved 102 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 101 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-07-27T10:44:18.271476-05:00.jpg">
+  <img src="https://archive.org/download/quintoelab-2022/quintoelab-2022-07-27T10:44:18.271476-05:00.jpg"
+     alt="Quinto Elemento Lab at 2022-07-27 10:44:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-07-27T10:44:18.271476-05:00.jpg">July 27 at 10:44 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-07-26T22:52:31.869354-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-07-21T22:42:04.412844-05:00.jpg">July 21 at 10:42 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-07-21T10:38:14.459018-05:00.jpg">
-  <img src="https://archive.org/download/quintoelab-2022/quintoelab-2022-07-21T10:38:14.459018-05:00.jpg"
-     alt="Quinto Elemento Lab at 2022-07-21 10:38:17-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-07-21T10:38:14.459018-05:00.jpg">July 21 at 10:38 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 102 hyperlink lists with the Internet Archive.
+The archiving routine has saved 103 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 10:44 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-07-27T10:44:18.271476-05:00.hyperlinks.json) |
 | [July 26 at 10:52 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-07-26T22:52:31.869354-05:00.hyperlinks.json) |
 | [July 26 at 10:44 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-07-26T10:44:00.661788-05:00.hyperlinks.json) |
 | [July 25 at 10:56 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-07-25T22:56:01.724398-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 1:20 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-07-24T01:20:32.006774-05:00.hyperlinks.json) |
 | [July 23 at 10:08 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-07-23T10:07:55.612884-05:00.hyperlinks.json) |
 | [July 22 at 10:37 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-07-22T22:37:23.669906-05:00.hyperlinks.json) |
-| [July 22 at 10:03 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-07-22T10:03:27.074053-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 102 accessibility trees with the Internet Archive.
+The archiving routine has saved 103 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 10:44 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-07-27T10:44:18.271476-05:00.accessibility.json) |
 | [July 26 at 10:52 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-07-26T22:52:31.869354-05:00.accessibility.json) |
 | [July 26 at 10:44 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-07-26T10:44:00.661788-05:00.accessibility.json) |
 | [July 25 at 10:56 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-07-25T22:56:01.724398-05:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 1:20 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-07-24T01:20:32.006774-05:00.accessibility.json) |
 | [July 23 at 10:08 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-07-23T10:07:55.612884-05:00.accessibility.json) |
 | [July 22 at 10:37 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-07-22T22:37:23.669906-05:00.accessibility.json) |
-| [July 22 at 10:03 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-07-22T10:03:27.074053-05:00.accessibility.json) |
 
 
 

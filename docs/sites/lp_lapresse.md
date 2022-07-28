@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 72 screenshots with the Internet Archive.
+The archiving routine has saved 73 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 72 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T10:34:26.569690-04:00.jpg">
+  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T10:34:26.569690-04:00.jpg"
+     alt="La Presse at 2022-07-27 10:34:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T10:34:26.569690-04:00.jpg">July 27 at 10:34 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T22:41:24.185876-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-21T23:34:36.031256-04:00.jpg">July 21 at 11:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-21T11:28:55.272228-04:00.jpg">
-  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-21T11:28:55.272228-04:00.jpg"
-     alt="La Presse at 2022-07-21 11:28:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-21T11:28:55.272228-04:00.jpg">July 21 at 11:28 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 72 hyperlink lists with the Internet Archive.
+The archiving routine has saved 73 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 10:34 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T10:34:26.569690-04:00.hyperlinks.json) |
 | [July 26 at 10:41 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T22:41:24.185876-04:00.hyperlinks.json) |
 | [July 26 at 10:39 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T10:39:38.726492-04:00.hyperlinks.json) |
 | [July 25 at 10:48 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T22:48:15.959110-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 12:18 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T00:17:55.175380-04:00.hyperlinks.json) |
 | [July 23 at 11:00 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-23T11:00:16.899606-04:00.hyperlinks.json) |
 | [July 22 at 11:30 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T23:30:37.420138-04:00.hyperlinks.json) |
-| [July 22 at 10:57 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T10:56:52.706452-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 71 accessibility trees with the Internet Archive.
+The archiving routine has saved 72 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 10:34 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-27T10:34:26.569690-04:00.accessibility.json) |
 | [July 26 at 10:41 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T22:41:24.185876-04:00.accessibility.json) |
 | [July 26 at 10:39 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-26T10:39:38.726492-04:00.accessibility.json) |
 | [July 25 at 10:48 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-25T22:48:15.959110-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 11:00 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-23T11:00:16.899606-04:00.accessibility.json) |
 | [July 22 at 11:30 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T23:30:37.420138-04:00.accessibility.json) |
 | [July 22 at 10:57 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T10:56:52.706452-04:00.accessibility.json) |
-| [July 21 at 11:34 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-21T23:34:36.031256-04:00.accessibility.json) |
 
 
 

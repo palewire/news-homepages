@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 58 screenshots with the Internet Archive.
+The archiving routine has saved 59 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 58 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-07-27T09:18:51.573897-04:00.jpg">
+  <img src="https://archive.org/download/billy_penn-2022/billy_penn-2022-07-27T09:18:51.573897-04:00.jpg"
+     alt="Billy Penn at 2022-07-27 09:18:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-07-27T09:18:51.573897-04:00.jpg">July 27 at 9:18 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-07-26T21:23:57.351291-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-07-22T08:58:14.472338-04:00.jpg">July 22 at 8:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-07-21T21:06:18.702972-04:00.jpg">
-  <img src="https://archive.org/download/billy_penn-2022/billy_penn-2022-07-21T21:06:18.702972-04:00.jpg"
-     alt="Billy Penn at 2022-07-21 21:06:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-07-21T21:06:18.702972-04:00.jpg">July 21 at 9:06 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 58 hyperlink lists with the Internet Archive.
+The archiving routine has saved 59 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:18 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-07-27T09:18:51.573897-04:00.hyperlinks.json) |
 | [July 26 at 9:24 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-07-26T21:23:57.351291-04:00.hyperlinks.json) |
 | [July 26 at 9:26 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-07-26T09:26:17.803885-04:00.hyperlinks.json) |
 | [July 25 at 10:58 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-07-25T22:58:50.317008-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 6:58 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-07-24T06:58:53.340966-04:00.hyperlinks.json) |
 | [July 23 at 7:00 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-07-23T19:00:38.533170-04:00.hyperlinks.json) |
 | [July 23 at 8:58 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-07-23T08:58:15.735702-04:00.hyperlinks.json) |
-| [July 22 at 8:58 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-07-22T20:58:21.376358-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 58 accessibility trees with the Internet Archive.
+The archiving routine has saved 59 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:18 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-07-27T09:18:51.573897-04:00.accessibility.json) |
 | [July 26 at 9:24 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-07-26T21:23:57.351291-04:00.accessibility.json) |
 | [July 26 at 9:26 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-07-26T09:26:17.803885-04:00.accessibility.json) |
 | [July 25 at 10:58 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-07-25T22:58:50.317008-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 6:58 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-07-24T06:58:53.340966-04:00.accessibility.json) |
 | [July 23 at 7:00 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-07-23T19:00:38.533170-04:00.accessibility.json) |
 | [July 23 at 8:58 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-07-23T08:58:15.735702-04:00.accessibility.json) |
-| [July 22 at 8:58 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-07-22T20:58:21.376358-04:00.accessibility.json) |
 
 
 

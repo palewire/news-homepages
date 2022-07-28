@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 102 screenshots with the Internet Archive.
+The archiving routine has saved 103 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 102 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sludge-2022/sludge-2022-07-27T11:47:26.200635-04:00.jpg">
+  <img src="https://archive.org/download/sludge-2022/sludge-2022-07-27T11:47:26.200635-04:00.jpg"
+     alt="Sludge at 2022-07-27 11:47:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sludge-2022/sludge-2022-07-27T11:47:26.200635-04:00.jpg">July 27 at 11:47 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sludge-2022/sludge-2022-07-26T23:54:46.828033-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sludge-2022/sludge-2022-07-22T00:28:06.493032-04:00.jpg">July 22 at 12:28 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sludge-2022/sludge-2022-07-21T12:52:04.396138-04:00.jpg">
-  <img src="https://archive.org/download/sludge-2022/sludge-2022-07-21T12:52:04.396138-04:00.jpg"
-     alt="Sludge at 2022-07-21 12:52:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sludge-2022/sludge-2022-07-21T12:52:04.396138-04:00.jpg">July 21 at 12:52 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 104 hyperlink lists with the Internet Archive.
+The archiving routine has saved 105 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 11:47 AM](https://archive.org/download/sludge-2022/sludge-2022-07-27T11:47:26.200635-04:00.hyperlinks.json) |
 | [July 26 at 11:54 PM](https://archive.org/download/sludge-2022/sludge-2022-07-26T23:54:46.828033-04:00.hyperlinks.json) |
 | [July 26 at 11:46 AM](https://archive.org/download/sludge-2022/sludge-2022-07-26T11:46:23.095388-04:00.hyperlinks.json) |
 | [July 25 at 11:57 PM](https://archive.org/download/sludge-2022/sludge-2022-07-25T23:57:16.840076-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 2:24 AM](https://archive.org/download/sludge-2022/sludge-2022-07-24T02:24:14.768161-04:00.hyperlinks.json) |
 | [July 23 at 12:02 PM](https://archive.org/download/sludge-2022/sludge-2022-07-23T12:02:20.528291-04:00.hyperlinks.json) |
 | [July 23 at 12:21 AM](https://archive.org/download/sludge-2022/sludge-2022-07-23T00:21:50.279150-04:00.hyperlinks.json) |
-| [July 22 at 12:15 PM](https://archive.org/download/sludge-2022/sludge-2022-07-22T12:15:03.639277-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 104 accessibility trees with the Internet Archive.
+The archiving routine has saved 105 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 11:47 AM](https://archive.org/download/sludge-2022/sludge-2022-07-27T11:47:26.200635-04:00.accessibility.json) |
 | [July 26 at 11:54 PM](https://archive.org/download/sludge-2022/sludge-2022-07-26T23:54:46.828033-04:00.accessibility.json) |
 | [July 26 at 11:46 AM](https://archive.org/download/sludge-2022/sludge-2022-07-26T11:46:23.095388-04:00.accessibility.json) |
 | [July 25 at 11:57 PM](https://archive.org/download/sludge-2022/sludge-2022-07-25T23:57:16.840076-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 2:24 AM](https://archive.org/download/sludge-2022/sludge-2022-07-24T02:24:14.768161-04:00.accessibility.json) |
 | [July 23 at 12:02 PM](https://archive.org/download/sludge-2022/sludge-2022-07-23T12:02:20.528291-04:00.accessibility.json) |
 | [July 23 at 12:21 AM](https://archive.org/download/sludge-2022/sludge-2022-07-23T00:21:50.279150-04:00.accessibility.json) |
-| [July 22 at 12:15 PM](https://archive.org/download/sludge-2022/sludge-2022-07-22T12:15:03.639277-04:00.accessibility.json) |
 
 
 

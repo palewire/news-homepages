@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 267 screenshots with the Internet Archive.
+The archiving routine has saved 268 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 267 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-07-27T18:52:40.393074+03:00.jpg">
+  <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-07-27T18:52:40.393074+03:00.jpg"
+     alt="ZN.UA at 2022-07-27 18:52:47+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-07-27T18:52:40.393074+03:00.jpg">July 27 at 6:52 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-07-27T07:00:11.779401+03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-07-22T07:37:55.351121+03:00.jpg">July 22 at 7:38 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-07-21T20:01:26.804918+03:00.jpg">
-  <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-07-21T20:01:26.804918+03:00.jpg"
-     alt="ZN.UA at 2022-07-21 20:01:36+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-07-21T20:01:26.804918+03:00.jpg">July 21 at 8:01 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 251 hyperlink lists with the Internet Archive.
+The archiving routine has saved 252 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 6:52 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-27T18:52:40.393074+03:00.hyperlinks.json) |
 | [July 27 at 7:00 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-27T07:00:11.779401+03:00.hyperlinks.json) |
 | [July 26 at 6:50 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-26T18:50:28.333865+03:00.hyperlinks.json) |
 | [July 26 at 7:02 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-26T07:02:38.939036+03:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 6:48 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-24T06:48:23.238305+03:00.hyperlinks.json) |
 | [July 23 at 7:11 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-23T19:11:41.046489+03:00.hyperlinks.json) |
 | [July 23 at 7:31 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-23T07:30:42.819664+03:00.hyperlinks.json) |
-| [July 22 at 7:23 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-22T19:23:12.927868+03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 253 accessibility trees with the Internet Archive.
+The archiving routine has saved 254 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 6:52 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-27T18:52:40.393074+03:00.accessibility.json) |
 | [July 27 at 7:00 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-27T07:00:11.779401+03:00.accessibility.json) |
 | [July 26 at 6:50 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-26T18:50:28.333865+03:00.accessibility.json) |
 | [July 26 at 7:02 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-26T07:02:38.939036+03:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 6:48 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-24T06:48:23.238305+03:00.accessibility.json) |
 | [July 23 at 7:11 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-23T19:11:41.046489+03:00.accessibility.json) |
 | [July 23 at 7:31 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-23T07:30:42.819664+03:00.accessibility.json) |
-| [July 22 at 7:23 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-07-22T19:23:12.927868+03:00.accessibility.json) |
 
 
 

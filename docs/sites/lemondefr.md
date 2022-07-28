@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 211 screenshots with the Internet Archive.
+The archiving routine has saved 212 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 211 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-27T16:33:37.294539+02:00.jpg">
+  <img src="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-27T16:33:37.294539+02:00.jpg"
+     alt="Le Monde at 2022-07-27 16:33:39+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-27T16:33:37.294539+02:00.jpg">July 27 at 4:33 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-27T10:13:08.244912+02:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T06:17:33.108890+02:00.jpg">July 24 at 6:17 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T17:00:21.664550+02:00.jpg">
-  <img src="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T17:00:21.664550+02:00.jpg"
-     alt="Le Monde at 2022-07-23 17:00:26+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T17:00:21.664550+02:00.jpg">July 23 at 5:00 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 212 hyperlink lists with the Internet Archive.
+The archiving routine has saved 213 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 4:33 PM](https://archive.org/download/lemondefr-2022/lemondefr-2022-07-27T16:33:37.294539+02:00.hyperlinks.json) |
 | [July 27 at 10:13 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-07-27T10:13:08.244912+02:00.hyperlinks.json) |
 | [July 27 at 4:40 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-07-27T04:40:14.356306+02:00.hyperlinks.json) |
 | [July 26 at 4:39 PM](https://archive.org/download/lemondefr-2022/lemondefr-2022-07-26T16:39:13.399639+02:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 10:09 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T10:09:19.050791+02:00.hyperlinks.json) |
 | [July 25 at 5:29 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T05:29:02.777522+02:00.hyperlinks.json) |
 | [July 24 at 3:01 PM](https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T15:01:30.501365+02:00.hyperlinks.json) |
-| [July 24 at 10:09 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T10:09:38.642350+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 212 accessibility trees with the Internet Archive.
+The archiving routine has saved 213 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 4:33 PM](https://archive.org/download/lemondefr-2022/lemondefr-2022-07-27T16:33:37.294539+02:00.accessibility.json) |
 | [July 27 at 10:13 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-07-27T10:13:08.244912+02:00.accessibility.json) |
 | [July 27 at 4:40 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-07-27T04:40:14.356306+02:00.accessibility.json) |
 | [July 26 at 4:39 PM](https://archive.org/download/lemondefr-2022/lemondefr-2022-07-26T16:39:13.399639+02:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 10:09 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T10:09:19.050791+02:00.accessibility.json) |
 | [July 25 at 5:29 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T05:29:02.777522+02:00.accessibility.json) |
 | [July 24 at 3:01 PM](https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T15:01:30.501365+02:00.accessibility.json) |
-| [July 24 at 10:09 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T10:09:38.642350+02:00.accessibility.json) |
 
 
 

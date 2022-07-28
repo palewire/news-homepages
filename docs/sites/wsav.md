@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wsav-2022/wsav-2022-07-27T09:26:58.442282-04:00.jpg">
+  <img src="https://archive.org/download/wsav-2022/wsav-2022-07-27T09:26:58.442282-04:00.jpg"
+     alt="WSAV News 3 at 2022-07-27 09:26:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wsav-2022/wsav-2022-07-27T09:26:58.442282-04:00.jpg">July 27 at 9:26 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsav-2022/wsav-2022-07-26T21:32:19.501847-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wsav-2022/wsav-2022-07-22T12:22:51.359955-04:00.jpg">July 22 at 12:22 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wsav-2022/wsav-2022-07-22T00:36:20.884998-04:00.jpg">
-  <img src="https://archive.org/download/wsav-2022/wsav-2022-07-22T00:36:20.884998-04:00.jpg"
-     alt="WSAV News 3 at 2022-07-22 00:36:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wsav-2022/wsav-2022-07-22T00:36:20.884998-04:00.jpg">July 22 at 12:36 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 15 hyperlink lists with the Internet Archive.
+The archiving routine has saved 16 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 9:27 AM](https://archive.org/download/wsav-2022/wsav-2022-07-27T09:26:58.442282-04:00.hyperlinks.json) |
 | [July 26 at 9:32 PM](https://archive.org/download/wsav-2022/wsav-2022-07-26T21:32:19.501847-04:00.hyperlinks.json) |
 | [July 26 at 9:34 AM](https://archive.org/download/wsav-2022/wsav-2022-07-26T09:34:02.780546-04:00.hyperlinks.json) |
 | [July 25 at 10:56 PM](https://archive.org/download/wsav-2022/wsav-2022-07-25T22:56:42.888306-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 11:11 AM](https://archive.org/download/wsav-2022/wsav-2022-07-24T11:11:44.559868-04:00.hyperlinks.json) |
 | [July 23 at 11:47 PM](https://archive.org/download/wsav-2022/wsav-2022-07-23T23:47:26.891611-04:00.hyperlinks.json) |
 | [July 23 at 12:10 PM](https://archive.org/download/wsav-2022/wsav-2022-07-23T12:10:09.381457-04:00.hyperlinks.json) |
-| [July 23 at 12:29 AM](https://archive.org/download/wsav-2022/wsav-2022-07-23T00:29:36.008662-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 14 accessibility trees with the Internet Archive.
+The archiving routine has saved 15 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 9:27 AM](https://archive.org/download/wsav-2022/wsav-2022-07-27T09:26:58.442282-04:00.accessibility.json) |
 | [July 26 at 9:32 PM](https://archive.org/download/wsav-2022/wsav-2022-07-26T21:32:19.501847-04:00.accessibility.json) |
 | [July 26 at 9:34 AM](https://archive.org/download/wsav-2022/wsav-2022-07-26T09:34:02.780546-04:00.accessibility.json) |
 | [July 25 at 10:56 PM](https://archive.org/download/wsav-2022/wsav-2022-07-25T22:56:42.888306-04:00.accessibility.json) |
@@ -179,7 +180,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 11:47 PM](https://archive.org/download/wsav-2022/wsav-2022-07-23T23:47:26.891611-04:00.accessibility.json) |
 | [July 23 at 12:10 PM](https://archive.org/download/wsav-2022/wsav-2022-07-23T12:10:09.381457-04:00.accessibility.json) |
 | [July 23 at 12:29 AM](https://archive.org/download/wsav-2022/wsav-2022-07-23T00:29:36.008662-04:00.accessibility.json) |
-| [July 22 at 12:22 PM](https://archive.org/download/wsav-2022/wsav-2022-07-22T12:22:51.359955-04:00.accessibility.json) |
 
 
 

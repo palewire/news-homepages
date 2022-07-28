@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 4 screenshots with the Internet Archive.
+The archiving routine has saved 5 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/restofworld-2022/restofworld-2022-07-27T11:44:55.296338-04:00.jpg">
+  <img src="https://archive.org/download/restofworld-2022/restofworld-2022-07-27T11:44:55.296338-04:00.jpg"
+     alt="Rest of World at 2022-07-27 11:44:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/restofworld-2022/restofworld-2022-07-27T11:44:55.296338-04:00.jpg">July 27 at 11:44 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/restofworld-2022/restofworld-2022-07-26T23:52:22.683187-04:00.jpg">
@@ -68,7 +77,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+The archiving routine has saved 5 hyperlink lists with the Internet Archive.
 
 
 
@@ -76,6 +85,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 11:45 AM](https://archive.org/download/restofworld-2022/restofworld-2022-07-27T11:44:55.296338-04:00.hyperlinks.json) |
 | [July 26 at 11:52 PM](https://archive.org/download/restofworld-2022/restofworld-2022-07-26T23:52:22.683187-04:00.hyperlinks.json) |
 | [July 26 at 11:44 AM](https://archive.org/download/restofworld-2022/restofworld-2022-07-26T11:44:20.659980-04:00.hyperlinks.json) |
 | [July 25 at 11:56 PM](https://archive.org/download/restofworld-2022/restofworld-2022-07-25T23:56:00.558056-04:00.hyperlinks.json) |
@@ -84,7 +94,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 4 accessibility trees with the Internet Archive.
+The archiving routine has saved 5 accessibility trees with the Internet Archive.
 
 
 
@@ -92,6 +102,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 11:44 AM](https://archive.org/download/restofworld-2022/restofworld-2022-07-27T11:44:55.296338-04:00.accessibility.json) |
 | [July 26 at 11:52 PM](https://archive.org/download/restofworld-2022/restofworld-2022-07-26T23:52:22.683187-04:00.accessibility.json) |
 | [July 26 at 11:44 AM](https://archive.org/download/restofworld-2022/restofworld-2022-07-26T11:44:20.659980-04:00.accessibility.json) |
 | [July 25 at 11:56 PM](https://archive.org/download/restofworld-2022/restofworld-2022-07-25T23:56:00.558056-04:00.accessibility.json) |

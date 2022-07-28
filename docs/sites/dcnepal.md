@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 6 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-07-27T20:12:09.670632+05:45.jpg">
+  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-07-27T20:12:09.670632+05:45.jpg"
+     alt="DC Nepal at 2022-07-27 20:12:11+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-07-27T20:12:09.670632+05:45.jpg">July 27 at 8:12 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-07-27T08:19:50.560424+05:45.jpg">
@@ -86,7 +95,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 6 hyperlink lists with the Internet Archive.
+The archiving routine has saved 7 hyperlink lists with the Internet Archive.
 
 
 
@@ -94,6 +103,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 8:12 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-07-27T20:12:09.670632+05:45.hyperlinks.json) |
 | [July 27 at 8:19 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-07-27T08:19:50.560424+05:45.hyperlinks.json) |
 | [July 26 at 8:17 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-07-26T20:16:59.791322+05:45.hyperlinks.json) |
 | [July 26 at 8:25 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-07-26T08:25:39.550436+05:45.hyperlinks.json) |
@@ -104,7 +114,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 6 accessibility trees with the Internet Archive.
+The archiving routine has saved 7 accessibility trees with the Internet Archive.
 
 
 
@@ -112,6 +122,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 8:12 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-07-27T20:12:09.670632+05:45.accessibility.json) |
 | [July 27 at 8:19 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-07-27T08:19:50.560424+05:45.accessibility.json) |
 | [July 26 at 8:17 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-07-26T20:16:59.791322+05:45.accessibility.json) |
 | [July 26 at 8:25 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-07-26T08:25:39.550436+05:45.accessibility.json) |

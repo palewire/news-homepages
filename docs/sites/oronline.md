@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 3 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oronline-2022/oronline-2022-07-27T11:43:01.904827-04:00.jpg">
+  <img src="https://archive.org/download/oronline-2022/oronline-2022-07-27T11:43:01.904827-04:00.jpg"
+     alt="Observer-Reporter at 2022-07-27 11:43:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oronline-2022/oronline-2022-07-27T11:43:01.904827-04:00.jpg">July 27 at 11:43 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oronline-2022/oronline-2022-07-26T23:50:46.566946-04:00.jpg">
@@ -59,7 +68,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 3 hyperlink lists with the Internet Archive.
+The archiving routine has saved 4 hyperlink lists with the Internet Archive.
 
 
 
@@ -67,6 +76,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 11:43 AM](https://archive.org/download/oronline-2022/oronline-2022-07-27T11:43:01.904827-04:00.hyperlinks.json) |
 | [July 26 at 11:50 PM](https://archive.org/download/oronline-2022/oronline-2022-07-26T23:50:46.566946-04:00.hyperlinks.json) |
 | [July 26 at 11:42 AM](https://archive.org/download/oronline-2022/oronline-2022-07-26T11:42:09.461207-04:00.hyperlinks.json) |
 | [July 25 at 11:54 PM](https://archive.org/download/oronline-2022/oronline-2022-07-25T23:54:02.821095-04:00.hyperlinks.json) |
@@ -74,7 +84,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 3 accessibility trees with the Internet Archive.
+The archiving routine has saved 4 accessibility trees with the Internet Archive.
 
 
 
@@ -82,6 +92,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 11:43 AM](https://archive.org/download/oronline-2022/oronline-2022-07-27T11:43:01.904827-04:00.accessibility.json) |
 | [July 26 at 11:50 PM](https://archive.org/download/oronline-2022/oronline-2022-07-26T23:50:46.566946-04:00.accessibility.json) |
 | [July 26 at 11:42 AM](https://archive.org/download/oronline-2022/oronline-2022-07-26T11:42:09.461207-04:00.accessibility.json) |
 | [July 25 at 11:54 PM](https://archive.org/download/oronline-2022/oronline-2022-07-25T23:54:02.821095-04:00.accessibility.json) |

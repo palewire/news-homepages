@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 113 screenshots with the Internet Archive.
+The archiving routine has saved 114 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 113 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-27T08:47:15.605189-07:00.jpg">
+  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-27T08:47:15.605189-07:00.jpg"
+     alt="TechCrunch at 2022-07-27 08:47:18-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-27T08:47:15.605189-07:00.jpg">July 27 at 8:47 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-26T20:55:37.729871-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-22T09:16:32.778591-07:00.jpg">July 22 at 9:16 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-21T21:29:19.450290-07:00.jpg">
-  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-21T21:29:19.450290-07:00.jpg"
-     alt="TechCrunch at 2022-07-21 21:29:21-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-07-21T21:29:19.450290-07:00.jpg">July 21 at 9:29 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 113 hyperlink lists with the Internet Archive.
+The archiving routine has saved 114 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 8:47 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-07-27T08:47:15.605189-07:00.hyperlinks.json) |
 | [July 26 at 8:55 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-07-26T20:55:37.729871-07:00.hyperlinks.json) |
 | [July 26 at 8:46 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-07-26T08:46:38.988148-07:00.hyperlinks.json) |
 | [July 25 at 8:58 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-07-25T20:58:10.825766-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 8:04 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-07-24T08:04:29.106213-07:00.hyperlinks.json) |
 | [July 23 at 8:40 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-07-23T20:39:54.656611-07:00.hyperlinks.json) |
 | [July 23 at 9:03 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-07-23T09:03:05.409496-07:00.hyperlinks.json) |
-| [July 22 at 9:23 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-07-22T21:23:08.228394-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 113 accessibility trees with the Internet Archive.
+The archiving routine has saved 114 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 8:47 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-07-27T08:47:15.605189-07:00.accessibility.json) |
 | [July 26 at 8:55 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-07-26T20:55:37.729871-07:00.accessibility.json) |
 | [July 26 at 8:46 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-07-26T08:46:38.988148-07:00.accessibility.json) |
 | [July 25 at 8:58 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-07-25T20:58:10.825766-07:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 8:04 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-07-24T08:04:29.106213-07:00.accessibility.json) |
 | [July 23 at 8:39 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-07-23T20:39:54.656611-07:00.accessibility.json) |
 | [July 23 at 9:03 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-07-23T09:03:05.409496-07:00.accessibility.json) |
-| [July 22 at 9:23 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-07-22T21:23:08.228394-07:00.accessibility.json) |
 
 
 

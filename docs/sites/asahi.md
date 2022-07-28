@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 58 screenshots with the Internet Archive.
+The archiving routine has saved 59 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 58 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/asahi-2022/asahi-2022-07-27T22:17:18.637508+09:00.jpg">
+  <img src="https://archive.org/download/asahi-2022/asahi-2022-07-27T22:17:18.637508+09:00.jpg"
+     alt="Asahi Shimbun at 2022-07-27 22:17:21+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-27T22:17:18.637508+09:00.jpg">July 27 at 10:17 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/asahi-2022/asahi-2022-07-27T11:31:13.332917+09:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-24T11:25:24.986550+09:00.jpg">July 24 at 11:25 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/asahi-2022/asahi-2022-07-24T07:59:23.583594+09:00.jpg">
-  <img src="https://archive.org/download/asahi-2022/asahi-2022-07-24T07:59:23.583594+09:00.jpg"
-     alt="Asahi Shimbun at 2022-07-24 07:59:25+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-24T07:59:23.583594+09:00.jpg">July 24 at 7:59 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 49 hyperlink lists with the Internet Archive.
+The archiving routine has saved 50 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 10:17 PM](https://archive.org/download/asahi-2022/asahi-2022-07-27T22:17:18.637508+09:00.hyperlinks.json) |
 | [July 27 at 11:31 AM](https://archive.org/download/asahi-2022/asahi-2022-07-27T11:31:13.332917+09:00.hyperlinks.json) |
 | [July 26 at 10:24 PM](https://archive.org/download/asahi-2022/asahi-2022-07-26T22:24:06.686819+09:00.hyperlinks.json) |
 | [July 26 at 11:55 AM](https://archive.org/download/asahi-2022/asahi-2022-07-26T11:55:23.301186+09:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 9:47 AM](https://archive.org/download/asahi-2022/asahi-2022-07-25T09:47:00.556716+09:00.hyperlinks.json) |
 | [July 24 at 7:56 PM](https://archive.org/download/asahi-2022/asahi-2022-07-24T19:56:24.336570+09:00.hyperlinks.json) |
 | [July 24 at 11:25 AM](https://archive.org/download/asahi-2022/asahi-2022-07-24T11:25:24.986550+09:00.hyperlinks.json) |
-| [July 24 at 7:59 AM](https://archive.org/download/asahi-2022/asahi-2022-07-24T07:59:23.583594+09:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 50 accessibility trees with the Internet Archive.
+The archiving routine has saved 51 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 10:17 PM](https://archive.org/download/asahi-2022/asahi-2022-07-27T22:17:18.637508+09:00.accessibility.json) |
 | [July 27 at 11:31 AM](https://archive.org/download/asahi-2022/asahi-2022-07-27T11:31:13.332917+09:00.accessibility.json) |
 | [July 27 at 10:22 AM](https://archive.org/download/asahi-2022/asahi-2022-07-27T10:22:51.546102+09:00.accessibility.json) |
 | [July 26 at 10:24 PM](https://archive.org/download/asahi-2022/asahi-2022-07-26T22:24:06.686819+09:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 12:36 PM](https://archive.org/download/asahi-2022/asahi-2022-07-25T12:36:02.621553+09:00.accessibility.json) |
 | [July 25 at 9:47 AM](https://archive.org/download/asahi-2022/asahi-2022-07-25T09:47:00.556716+09:00.accessibility.json) |
 | [July 24 at 7:56 PM](https://archive.org/download/asahi-2022/asahi-2022-07-24T19:56:24.336570+09:00.accessibility.json) |
-| [July 24 at 11:25 AM](https://archive.org/download/asahi-2022/asahi-2022-07-24T11:25:24.986550+09:00.accessibility.json) |
 
 
 

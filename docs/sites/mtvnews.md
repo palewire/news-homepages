@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 21 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-27T20:07:28.215173-04:00.jpg">
+  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-27T20:07:28.215173-04:00.jpg"
+     alt="MTV News at 2022-07-27 20:07:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-27T20:07:28.215173-04:00.jpg">July 27 at 8:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-27T09:10:45.642415-04:00.jpg">
+  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-27T09:10:45.642415-04:00.jpg"
+     alt="MTV News at 2022-07-27 09:10:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-27T09:10:45.642415-04:00.jpg">July 27 at 9:10 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-26T20:15:33.591940-04:00.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-22T10:57:37.659012-04:00.jpg">July 22 at 10:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-21T23:36:17.793814-04:00.jpg">
-  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-21T23:36:17.793814-04:00.jpg"
-     alt="MTV News at 2022-07-21 23:36:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-21T23:36:17.793814-04:00.jpg">July 21 at 11:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-21T11:30:58.253846-04:00.jpg">
-  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-21T11:30:58.253846-04:00.jpg"
-     alt="MTV News at 2022-07-21 11:31:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-07-21T11:30:58.253846-04:00.jpg">July 21 at 11:31 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 21 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 8:07 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-27T20:07:28.215173-04:00.hyperlinks.json) |
+| [July 27 at 9:10 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-27T09:10:45.642415-04:00.hyperlinks.json) |
 | [July 26 at 8:15 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-26T20:15:33.591940-04:00.hyperlinks.json) |
 | [July 26 at 8:25 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-26T08:24:59.242137-04:00.hyperlinks.json) |
 | [July 25 at 8:19 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-25T20:19:52.010346-04:00.hyperlinks.json) |
@@ -156,13 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 9:03 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-24T09:03:47.393746-04:00.hyperlinks.json) |
 | [July 24 at 12:19 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-24T00:19:20.566591-04:00.hyperlinks.json) |
 | [July 23 at 11:01 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-23T11:01:48.467632-04:00.hyperlinks.json) |
-| [July 22 at 11:32 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-22T23:32:33.219174-04:00.hyperlinks.json) |
-| [July 22 at 10:57 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-22T10:57:37.659012-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 19 accessibility trees with the Internet Archive.
+The archiving routine has saved 21 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 8:07 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-27T20:07:28.215173-04:00.accessibility.json) |
+| [July 27 at 9:10 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-27T09:10:45.642415-04:00.accessibility.json) |
 | [July 26 at 8:15 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-26T20:15:33.591940-04:00.accessibility.json) |
 | [July 26 at 8:25 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-26T08:24:59.242137-04:00.accessibility.json) |
 | [July 25 at 8:19 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-25T20:19:52.010346-04:00.accessibility.json) |
@@ -178,8 +180,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 9:03 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-24T09:03:47.393746-04:00.accessibility.json) |
 | [July 24 at 12:19 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-24T00:19:20.566591-04:00.accessibility.json) |
 | [July 23 at 11:01 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-23T11:01:48.467632-04:00.accessibility.json) |
-| [July 22 at 11:32 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-22T23:32:33.219174-04:00.accessibility.json) |
-| [July 22 at 10:57 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-07-22T10:57:37.659012-04:00.accessibility.json) |
 
 
 

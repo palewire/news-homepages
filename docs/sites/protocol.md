@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 61 screenshots with the Internet Archive.
+The archiving routine has saved 62 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 61 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/protocol-2022/protocol-2022-07-27T08:44:28.074049-07:00.jpg">
+  <img src="https://archive.org/download/protocol-2022/protocol-2022-07-27T08:44:28.074049-07:00.jpg"
+     alt="Protocol at 2022-07-27 08:44:33-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-27T08:44:28.074049-07:00.jpg">July 27 at 8:44 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/protocol-2022/protocol-2022-07-26T20:52:20.707740-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-22T08:03:19.754176-07:00.jpg">July 22 at 8:03 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/protocol-2022/protocol-2022-07-21T20:41:08.301927-07:00.jpg">
-  <img src="https://archive.org/download/protocol-2022/protocol-2022-07-21T20:41:08.301927-07:00.jpg"
-     alt="Protocol at 2022-07-21 20:41:11-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-21T20:41:08.301927-07:00.jpg">July 21 at 8:41 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 61 hyperlink lists with the Internet Archive.
+The archiving routine has saved 62 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 8:44 AM](https://archive.org/download/protocol-2022/protocol-2022-07-27T08:44:28.074049-07:00.hyperlinks.json) |
 | [July 26 at 8:52 PM](https://archive.org/download/protocol-2022/protocol-2022-07-26T20:52:20.707740-07:00.hyperlinks.json) |
 | [July 26 at 8:44 AM](https://archive.org/download/protocol-2022/protocol-2022-07-26T08:44:21.107698-07:00.hyperlinks.json) |
 | [July 25 at 8:55 PM](https://archive.org/download/protocol-2022/protocol-2022-07-25T20:55:27.468070-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 7:01 AM](https://archive.org/download/protocol-2022/protocol-2022-07-24T07:00:54.924876-07:00.hyperlinks.json) |
 | [July 23 at 11:20 PM](https://archive.org/download/protocol-2022/protocol-2022-07-23T23:20:16.906682-07:00.hyperlinks.json) |
 | [July 23 at 8:07 AM](https://archive.org/download/protocol-2022/protocol-2022-07-23T08:07:12.356850-07:00.hyperlinks.json) |
-| [July 22 at 8:37 PM](https://archive.org/download/protocol-2022/protocol-2022-07-22T20:36:56.985671-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 61 accessibility trees with the Internet Archive.
+The archiving routine has saved 62 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 8:44 AM](https://archive.org/download/protocol-2022/protocol-2022-07-27T08:44:28.074049-07:00.accessibility.json) |
 | [July 26 at 8:52 PM](https://archive.org/download/protocol-2022/protocol-2022-07-26T20:52:20.707740-07:00.accessibility.json) |
 | [July 26 at 8:44 AM](https://archive.org/download/protocol-2022/protocol-2022-07-26T08:44:21.107698-07:00.accessibility.json) |
 | [July 25 at 8:55 PM](https://archive.org/download/protocol-2022/protocol-2022-07-25T20:55:27.468070-07:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 7:01 AM](https://archive.org/download/protocol-2022/protocol-2022-07-24T07:00:54.924876-07:00.accessibility.json) |
 | [July 23 at 11:20 PM](https://archive.org/download/protocol-2022/protocol-2022-07-23T23:20:16.906682-07:00.accessibility.json) |
 | [July 23 at 8:07 AM](https://archive.org/download/protocol-2022/protocol-2022-07-23T08:07:12.356850-07:00.accessibility.json) |
-| [July 22 at 8:37 PM](https://archive.org/download/protocol-2022/protocol-2022-07-22T20:36:56.985671-07:00.accessibility.json) |
 
 
 

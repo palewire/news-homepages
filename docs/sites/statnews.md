@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 9 screenshots with the Internet Archive.
+The archiving routine has saved 10 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/statnews-2022/statnews-2022-07-27T11:46:58.514870-04:00.jpg">
+  <img src="https://archive.org/download/statnews-2022/statnews-2022-07-27T11:46:58.514870-04:00.jpg"
+     alt="STAT at 2022-07-27 11:47:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-07-27T11:46:58.514870-04:00.jpg">July 27 at 11:47 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statnews-2022/statnews-2022-07-26T23:55:13.392277-04:00.jpg">
@@ -113,7 +122,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 9 hyperlink lists with the Internet Archive.
+The archiving routine has saved 10 hyperlink lists with the Internet Archive.
 
 
 
@@ -121,6 +130,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 11:47 AM](https://archive.org/download/statnews-2022/statnews-2022-07-27T11:46:58.514870-04:00.hyperlinks.json) |
 | [July 26 at 11:55 PM](https://archive.org/download/statnews-2022/statnews-2022-07-26T23:55:13.392277-04:00.hyperlinks.json) |
 | [July 26 at 11:46 AM](https://archive.org/download/statnews-2022/statnews-2022-07-26T11:45:55.537730-04:00.hyperlinks.json) |
 | [July 25 at 11:57 PM](https://archive.org/download/statnews-2022/statnews-2022-07-25T23:57:13.916141-04:00.hyperlinks.json) |
@@ -134,7 +144,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 9 accessibility trees with the Internet Archive.
+The archiving routine has saved 10 accessibility trees with the Internet Archive.
 
 
 
@@ -142,6 +152,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 11:47 AM](https://archive.org/download/statnews-2022/statnews-2022-07-27T11:46:58.514870-04:00.accessibility.json) |
 | [July 26 at 11:55 PM](https://archive.org/download/statnews-2022/statnews-2022-07-26T23:55:13.392277-04:00.accessibility.json) |
 | [July 26 at 11:45 AM](https://archive.org/download/statnews-2022/statnews-2022-07-26T11:45:55.537730-04:00.accessibility.json) |
 | [July 25 at 11:57 PM](https://archive.org/download/statnews-2022/statnews-2022-07-25T23:57:13.916141-04:00.accessibility.json) |

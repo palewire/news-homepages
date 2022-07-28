@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 20 screenshots with the Internet Archive.
+The archiving routine has saved 22 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/khou-2022/khou-2022-07-27T19:04:20.326438-05:00.jpg">
+  <img src="https://archive.org/download/khou-2022/khou-2022-07-27T19:04:20.326438-05:00.jpg"
+     alt="KHOU at 2022-07-27 19:04:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/khou-2022/khou-2022-07-27T19:04:20.326438-05:00.jpg">July 27 at 7:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/khou-2022/khou-2022-07-27T08:08:16.930576-05:00.jpg">
+  <img src="https://archive.org/download/khou-2022/khou-2022-07-27T08:08:16.930576-05:00.jpg"
+     alt="KHOU at 2022-07-27 08:08:19-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/khou-2022/khou-2022-07-27T08:08:16.930576-05:00.jpg">July 27 at 8:08 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khou-2022/khou-2022-07-26T19:12:39.851316-05:00.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/khou-2022/khou-2022-07-22T09:05:45.247773-05:00.jpg">July 22 at 9:05 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/khou-2022/khou-2022-07-21T21:24:42.671338-05:00.jpg">
-  <img src="https://archive.org/download/khou-2022/khou-2022-07-21T21:24:42.671338-05:00.jpg"
-     alt="KHOU at 2022-07-21 21:24:44-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/khou-2022/khou-2022-07-21T21:24:42.671338-05:00.jpg">July 21 at 9:24 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/khou-2022/khou-2022-07-21T09:14:42.404976-05:00.jpg">
-  <img src="https://archive.org/download/khou-2022/khou-2022-07-21T09:14:42.404976-05:00.jpg"
-     alt="KHOU at 2022-07-21 09:14:44-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/khou-2022/khou-2022-07-21T09:14:42.404976-05:00.jpg">July 21 at 9:14 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 20 hyperlink lists with the Internet Archive.
+The archiving routine has saved 22 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:04 PM](https://archive.org/download/khou-2022/khou-2022-07-27T19:04:20.326438-05:00.hyperlinks.json) |
+| [July 27 at 8:08 AM](https://archive.org/download/khou-2022/khou-2022-07-27T08:08:16.930576-05:00.hyperlinks.json) |
 | [July 26 at 7:12 PM](https://archive.org/download/khou-2022/khou-2022-07-26T19:12:39.851316-05:00.hyperlinks.json) |
 | [July 26 at 7:22 AM](https://archive.org/download/khou-2022/khou-2022-07-26T07:21:54.329890-05:00.hyperlinks.json) |
 | [July 25 at 7:17 PM](https://archive.org/download/khou-2022/khou-2022-07-25T19:17:10.099262-05:00.hyperlinks.json) |
@@ -156,13 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 7:59 AM](https://archive.org/download/khou-2022/khou-2022-07-24T07:59:52.831746-05:00.hyperlinks.json) |
 | [July 23 at 11:15 PM](https://archive.org/download/khou-2022/khou-2022-07-23T23:15:04.775917-05:00.hyperlinks.json) |
 | [July 23 at 9:04 AM](https://archive.org/download/khou-2022/khou-2022-07-23T09:04:52.744417-05:00.hyperlinks.json) |
-| [July 22 at 9:30 PM](https://archive.org/download/khou-2022/khou-2022-07-22T21:30:31.698836-05:00.hyperlinks.json) |
-| [July 22 at 9:05 AM](https://archive.org/download/khou-2022/khou-2022-07-22T09:05:45.247773-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 20 accessibility trees with the Internet Archive.
+The archiving routine has saved 22 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 7:04 PM](https://archive.org/download/khou-2022/khou-2022-07-27T19:04:20.326438-05:00.accessibility.json) |
+| [July 27 at 8:08 AM](https://archive.org/download/khou-2022/khou-2022-07-27T08:08:16.930576-05:00.accessibility.json) |
 | [July 26 at 7:12 PM](https://archive.org/download/khou-2022/khou-2022-07-26T19:12:39.851316-05:00.accessibility.json) |
 | [July 26 at 7:22 AM](https://archive.org/download/khou-2022/khou-2022-07-26T07:21:54.329890-05:00.accessibility.json) |
 | [July 25 at 7:17 PM](https://archive.org/download/khou-2022/khou-2022-07-25T19:17:10.099262-05:00.accessibility.json) |
@@ -178,8 +180,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 7:59 AM](https://archive.org/download/khou-2022/khou-2022-07-24T07:59:52.831746-05:00.accessibility.json) |
 | [July 23 at 11:15 PM](https://archive.org/download/khou-2022/khou-2022-07-23T23:15:04.775917-05:00.accessibility.json) |
 | [July 23 at 9:04 AM](https://archive.org/download/khou-2022/khou-2022-07-23T09:04:52.744417-05:00.accessibility.json) |
-| [July 22 at 9:30 PM](https://archive.org/download/khou-2022/khou-2022-07-22T21:30:31.698836-05:00.accessibility.json) |
-| [July 22 at 9:05 AM](https://archive.org/download/khou-2022/khou-2022-07-22T09:05:45.247773-05:00.accessibility.json) |
 
 
 

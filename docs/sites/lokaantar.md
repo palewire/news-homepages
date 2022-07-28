@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 6 screenshots with the Internet Archive.
+The archiving routine has saved 8 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-07-28T05:51:24.592955+05:45.jpg">
+  <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-07-28T05:51:24.592955+05:45.jpg"
+     alt="Lokantar at 2022-07-28 05:51:25+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-07-28T05:51:24.592955+05:45.jpg">July 28 at 5:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-07-27T18:54:36.784330+05:45.jpg">
+  <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-07-27T18:54:36.784330+05:45.jpg"
+     alt="Lokantar at 2022-07-27 18:54:39+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-07-27T18:54:36.784330+05:45.jpg">July 27 at 6:54 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-07-27T05:59:29.202358+05:45.jpg">
@@ -86,7 +104,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 6 hyperlink lists with the Internet Archive.
+The archiving routine has saved 8 hyperlink lists with the Internet Archive.
 
 
 
@@ -94,6 +112,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 28 at 5:51 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-07-28T05:51:24.592955+05:45.hyperlinks.json) |
+| [July 27 at 6:54 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-07-27T18:54:36.784330+05:45.hyperlinks.json) |
 | [July 27 at 5:59 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-07-27T05:59:29.202358+05:45.hyperlinks.json) |
 | [July 26 at 6:09 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-07-26T18:09:36.441671+05:45.hyperlinks.json) |
 | [July 26 at 6:04 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-07-26T06:04:41.405514+05:45.hyperlinks.json) |
@@ -104,7 +124,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 6 accessibility trees with the Internet Archive.
+The archiving routine has saved 8 accessibility trees with the Internet Archive.
 
 
 
@@ -112,6 +132,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 28 at 5:51 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-07-28T05:51:24.592955+05:45.accessibility.json) |
+| [July 27 at 6:54 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-07-27T18:54:36.784330+05:45.accessibility.json) |
 | [July 27 at 5:59 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-07-27T05:59:29.202358+05:45.accessibility.json) |
 | [July 26 at 6:09 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-07-26T18:09:36.441671+05:45.accessibility.json) |
 | [July 26 at 6:04 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-07-26T06:04:41.405514+05:45.accessibility.json) |

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 20 screenshots with the Internet Archive.
+The archiving routine has saved 21 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-07-27T10:42:55.426745-05:00.jpg">
+  <img src="https://archive.org/download/ntdaily-2022/ntdaily-2022-07-27T10:42:55.426745-05:00.jpg"
+     alt="North Texas Daily at 2022-07-27 10:42:57-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-07-27T10:42:55.426745-05:00.jpg">July 27 at 10:42 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-07-26T22:50:34.456132-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-07-21T22:38:52.070565-05:00.jpg">July 21 at 10:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-07-21T10:34:22.383467-05:00.jpg">
-  <img src="https://archive.org/download/ntdaily-2022/ntdaily-2022-07-21T10:34:22.383467-05:00.jpg"
-     alt="North Texas Daily at 2022-07-21 10:34:24-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-07-21T10:34:22.383467-05:00.jpg">July 21 at 10:34 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 20 hyperlink lists with the Internet Archive.
+The archiving routine has saved 21 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 10:43 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-27T10:42:55.426745-05:00.hyperlinks.json) |
 | [July 26 at 10:50 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-26T22:50:34.456132-05:00.hyperlinks.json) |
 | [July 26 at 10:41 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-26T10:41:55.255205-05:00.hyperlinks.json) |
 | [July 25 at 10:53 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-25T22:53:02.093051-05:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 1:16 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-24T01:16:35.357297-05:00.hyperlinks.json) |
 | [July 23 at 10:04 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-23T10:04:27.994154-05:00.hyperlinks.json) |
 | [July 22 at 10:34 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-22T22:34:31.233011-05:00.hyperlinks.json) |
-| [July 22 at 10:00 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-22T10:00:00.398694-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 20 accessibility trees with the Internet Archive.
+The archiving routine has saved 21 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 10:42 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-27T10:42:55.426745-05:00.accessibility.json) |
 | [July 26 at 10:50 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-26T22:50:34.456132-05:00.accessibility.json) |
 | [July 26 at 10:41 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-26T10:41:55.255205-05:00.accessibility.json) |
 | [July 25 at 10:53 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-25T22:53:02.093051-05:00.accessibility.json) |
@@ -179,7 +180,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 1:16 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-24T01:16:35.357297-05:00.accessibility.json) |
 | [July 23 at 10:04 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-23T10:04:27.994154-05:00.accessibility.json) |
 | [July 22 at 10:34 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-22T22:34:31.233011-05:00.accessibility.json) |
-| [July 22 at 10:00 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-22T10:00:00.398694-05:00.accessibility.json) |
 
 
 

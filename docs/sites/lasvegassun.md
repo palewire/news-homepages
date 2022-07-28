@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 48 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-27T17:05:49.010922-07:00.jpg">
+  <img src="https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-27T17:05:49.010922-07:00.jpg"
+     alt="Las Vegas Sun at 2022-07-27 17:05:50-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-27T17:05:49.010922-07:00.jpg">July 27 at 5:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-27T06:09:59.611056-07:00.jpg">
+  <img src="https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-27T06:09:59.611056-07:00.jpg"
+     alt="Las Vegas Sun at 2022-07-27 06:10:00-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-27T06:09:59.611056-07:00.jpg">July 27 at 6:10 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-26T17:14:04.423412-07:00.jpg">
   <img src="https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-26T17:14:04.423412-07:00.jpg"
      alt="Las Vegas Sun at 2022-07-26 17:14:06-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-22T07:07:16.403876-07:00.jpg">July 22 at 7:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-21T19:26:07.276767-07:00.jpg">
-  <img src="https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-21T19:26:07.276767-07:00.jpg"
-     alt="Las Vegas Sun at 2022-07-21 19:26:09-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-21T19:26:07.276767-07:00.jpg">July 21 at 7:26 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-21T07:16:53.514230-07:00.jpg">
-  <img src="https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-21T07:16:53.514230-07:00.jpg"
-     alt="Las Vegas Sun at 2022-07-21 07:16:59-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-21T07:16:53.514230-07:00.jpg">July 21 at 7:16 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 48 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 5:05 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-27T17:05:49.010922-07:00.hyperlinks.json) |
+| [July 27 at 6:10 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-27T06:09:59.611056-07:00.hyperlinks.json) |
 | [July 26 at 5:14 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-26T17:14:04.423412-07:00.hyperlinks.json) |
 | [July 26 at 5:23 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-26T05:23:08.177482-07:00.hyperlinks.json) |
 | [July 25 at 5:18 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-25T17:18:07.577745-07:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 6:01 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-24T06:01:09.749466-07:00.hyperlinks.json) |
 | [July 23 at 9:16 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-23T21:16:21.231919-07:00.hyperlinks.json) |
 | [July 23 at 7:06 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-23T07:06:46.371921-07:00.hyperlinks.json) |
-| [July 22 at 7:32 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-22T19:32:07.069094-07:00.hyperlinks.json) |
-| [July 22 at 7:07 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-22T07:07:16.403876-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 48 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 5:05 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-27T17:05:49.010922-07:00.accessibility.json) |
+| [July 27 at 6:10 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-27T06:09:59.611056-07:00.accessibility.json) |
 | [July 26 at 5:14 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-26T17:14:04.423412-07:00.accessibility.json) |
 | [July 26 at 5:23 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-26T05:23:08.177482-07:00.accessibility.json) |
 | [July 25 at 5:18 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-25T17:18:07.577745-07:00.accessibility.json) |
@@ -427,8 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 6:01 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-24T06:01:09.749466-07:00.accessibility.json) |
 | [July 23 at 9:16 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-23T21:16:21.231919-07:00.accessibility.json) |
 | [July 23 at 7:06 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-23T07:06:46.371921-07:00.accessibility.json) |
-| [July 22 at 7:32 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-22T19:32:07.069094-07:00.accessibility.json) |
-| [July 22 at 7:07 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-22T07:07:16.403876-07:00.accessibility.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 138 screenshots with the Internet Archive.
+The archiving routine has saved 141 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/business-2022/business-2022-07-27T17:13:13.850889-04:00.jpg">
+  <img src="https://archive.org/download/business-2022/business-2022-07-27T17:13:13.850889-04:00.jpg"
+     alt="Bloomberg at 2022-07-27 17:13:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-27T17:13:13.850889-04:00.jpg">July 27 at 5:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/business-2022/business-2022-07-27T11:59:00.595288-04:00.jpg">
+  <img src="https://archive.org/download/business-2022/business-2022-07-27T11:59:00.595288-04:00.jpg"
+     alt="Bloomberg at 2022-07-27 11:59:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-27T11:59:00.595288-04:00.jpg">July 27 at 11:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/business-2022/business-2022-07-27T09:19:33.102564-04:00.jpg">
+  <img src="https://archive.org/download/business-2022/business-2022-07-27T09:19:33.102564-04:00.jpg"
+     alt="Bloomberg at 2022-07-27 09:19:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-27T09:19:33.102564-04:00.jpg">July 27 at 9:19 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/business-2022/business-2022-07-26T21:24:53.578387-04:00.jpg">
   <img src="https://archive.org/download/business-2022/business-2022-07-26T21:24:53.578387-04:00.jpg"
      alt="Bloomberg at 2022-07-26 21:24:56-04:00 local time"
@@ -192,38 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/business-2022/business-2022-07-25T07:01:09.117438-04:00.jpg">July 25 at 7:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/business-2022/business-2022-07-24T20:53:25.082949-04:00.jpg">
-  <img src="https://archive.org/download/business-2022/business-2022-07-24T20:53:25.082949-04:00.jpg"
-     alt="Bloomberg at 2022-07-24 20:53:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-24T20:53:25.082949-04:00.jpg">July 24 at 8:53 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/business-2022/business-2022-07-24T17:20:38.612746-04:00.jpg">
-  <img src="https://archive.org/download/business-2022/business-2022-07-24T17:20:38.612746-04:00.jpg"
-     alt="Bloomberg at 2022-07-24 17:20:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-24T17:20:38.612746-04:00.jpg">July 24 at 5:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/business-2022/business-2022-07-24T11:12:27.054785-04:00.jpg">
-  <img src="https://archive.org/download/business-2022/business-2022-07-24T11:12:27.054785-04:00.jpg"
-     alt="Bloomberg at 2022-07-24 11:12:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-24T11:12:27.054785-04:00.jpg">July 24 at 11:12 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 139 hyperlink lists with the Internet Archive.
+The archiving routine has saved 142 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 5:13 PM](https://archive.org/download/business-2022/business-2022-07-27T17:13:13.850889-04:00.hyperlinks.json) |
+| [July 27 at 11:59 AM](https://archive.org/download/business-2022/business-2022-07-27T11:59:00.595288-04:00.hyperlinks.json) |
+| [July 27 at 9:19 AM](https://archive.org/download/business-2022/business-2022-07-27T09:19:33.102564-04:00.hyperlinks.json) |
 | [July 26 at 9:25 PM](https://archive.org/download/business-2022/business-2022-07-26T21:24:53.578387-04:00.hyperlinks.json) |
 | [July 26 at 5:12 PM](https://archive.org/download/business-2022/business-2022-07-26T17:12:22.097729-04:00.hyperlinks.json) |
 | [July 26 at 11:58 AM](https://archive.org/download/business-2022/business-2022-07-26T11:58:01.381536-04:00.hyperlinks.json) |
@@ -321,14 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 10:58 PM](https://archive.org/download/business-2022/business-2022-07-25T22:58:11.192025-04:00.hyperlinks.json) |
 | [July 25 at 5:14 PM](https://archive.org/download/business-2022/business-2022-07-25T17:14:19.206230-04:00.hyperlinks.json) |
 | [July 25 at 11:54 AM](https://archive.org/download/business-2022/business-2022-07-25T11:54:30.098788-04:00.hyperlinks.json) |
-| [July 25 at 7:01 AM](https://archive.org/download/business-2022/business-2022-07-25T07:01:09.117438-04:00.hyperlinks.json) |
-| [July 24 at 5:20 PM](https://archive.org/download/business-2022/business-2022-07-24T17:20:38.612746-04:00.hyperlinks.json) |
-| [July 24 at 11:12 AM](https://archive.org/download/business-2022/business-2022-07-24T11:12:27.054785-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 141 accessibility trees with the Internet Archive.
+The archiving routine has saved 144 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 5:13 PM](https://archive.org/download/business-2022/business-2022-07-27T17:13:13.850889-04:00.accessibility.json) |
+| [July 27 at 11:59 AM](https://archive.org/download/business-2022/business-2022-07-27T11:59:00.595288-04:00.accessibility.json) |
+| [July 27 at 9:19 AM](https://archive.org/download/business-2022/business-2022-07-27T09:19:33.102564-04:00.accessibility.json) |
 | [July 26 at 9:24 PM](https://archive.org/download/business-2022/business-2022-07-26T21:24:53.578387-04:00.accessibility.json) |
 | [July 26 at 5:12 PM](https://archive.org/download/business-2022/business-2022-07-26T17:12:22.097729-04:00.accessibility.json) |
 | [July 26 at 11:58 AM](https://archive.org/download/business-2022/business-2022-07-26T11:58:01.381536-04:00.accessibility.json) |
@@ -426,9 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 10:58 PM](https://archive.org/download/business-2022/business-2022-07-25T22:58:11.192025-04:00.accessibility.json) |
 | [July 25 at 9:32 PM](https://archive.org/download/business-2022/business-2022-07-25T21:32:18.598507-04:00.accessibility.json) |
 | [July 25 at 5:14 PM](https://archive.org/download/business-2022/business-2022-07-25T17:14:19.206230-04:00.accessibility.json) |
-| [July 25 at 11:54 AM](https://archive.org/download/business-2022/business-2022-07-25T11:54:30.098788-04:00.accessibility.json) |
-| [July 25 at 7:01 AM](https://archive.org/download/business-2022/business-2022-07-25T07:01:09.117438-04:00.accessibility.json) |
-| [July 24 at 8:53 PM](https://archive.org/download/business-2022/business-2022-07-24T20:53:25.082949-04:00.accessibility.json) |
 
 
 

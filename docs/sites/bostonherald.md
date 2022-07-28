@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 0 screenshots with the Internet Archive.
+The archiving routine has saved 1 screenshots with the Internet Archive.
 
 
 
@@ -28,11 +28,20 @@ Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
 
+<div class="latest-child">
+ <a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-07-27T19:02:49.681766-04:00.jpg">
+  <img src="https://archive.org/download/bostonherald-2022/bostonherald-2022-07-27T19:02:49.681766-04:00.jpg"
+     alt="Boston Herald at 2022-07-27 19:02:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-07-27T19:02:49.681766-04:00.jpg">July 27 at 7:02 PM</a></p>
+</div>
+
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 0 hyperlink lists with the Internet Archive.
+The archiving routine has saved 1 hyperlink lists with the Internet Archive.
 
 
 
@@ -40,11 +49,12 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:03 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-07-27T19:02:49.681766-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 0 accessibility trees with the Internet Archive.
+The archiving routine has saved 1 accessibility trees with the Internet Archive.
 
 
 
@@ -52,6 +62,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 7:03 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-07-27T19:02:49.681766-04:00.accessibility.json) |
 
 
 
@@ -61,3 +72,4 @@ Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |
+|[bostonherald-2022](https://archive.org/details/bostonherald-2022)|

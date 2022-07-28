@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 57 screenshots with the Internet Archive.
+The archiving routine has saved 58 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 57 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-27T23:31:52.654843+09:00.jpg">
+  <img src="https://archive.org/download/jijicom-2022/jijicom-2022-07-27T23:31:52.654843+09:00.jpg"
+     alt="Jiji at 2022-07-27 23:31:54+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-27T23:31:52.654843+09:00.jpg">July 27 at 11:31 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-27T11:38:51.116177+09:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-24T11:25:49.195467+09:00.jpg">July 24 at 11:25 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-23T23:03:56.855090+09:00.jpg">
-  <img src="https://archive.org/download/jijicom-2022/jijicom-2022-07-23T23:03:56.855090+09:00.jpg"
-     alt="Jiji at 2022-07-23 23:03:58+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-07-23T23:03:56.855090+09:00.jpg">July 23 at 11:03 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 55 hyperlink lists with the Internet Archive.
+The archiving routine has saved 56 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 11:31 PM](https://archive.org/download/jijicom-2022/jijicom-2022-07-27T23:31:52.654843+09:00.hyperlinks.json) |
 | [July 27 at 11:38 AM](https://archive.org/download/jijicom-2022/jijicom-2022-07-27T11:38:51.116177+09:00.hyperlinks.json) |
 | [July 27 at 11:31 AM](https://archive.org/download/jijicom-2022/jijicom-2022-07-27T11:31:44.723936+09:00.hyperlinks.json) |
 | [July 26 at 11:38 PM](https://archive.org/download/jijicom-2022/jijicom-2022-07-26T23:38:02.614333+09:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 12:24 PM](https://archive.org/download/jijicom-2022/jijicom-2022-07-25T12:24:05.197918+09:00.hyperlinks.json) |
 | [July 24 at 9:58 PM](https://archive.org/download/jijicom-2022/jijicom-2022-07-24T21:58:47.373633+09:00.hyperlinks.json) |
 | [July 24 at 1:14 PM](https://archive.org/download/jijicom-2022/jijicom-2022-07-24T13:14:07.039031+09:00.hyperlinks.json) |
-| [July 24 at 11:25 AM](https://archive.org/download/jijicom-2022/jijicom-2022-07-24T11:25:49.195467+09:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 57 accessibility trees with the Internet Archive.
+The archiving routine has saved 58 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 11:31 PM](https://archive.org/download/jijicom-2022/jijicom-2022-07-27T23:31:52.654843+09:00.accessibility.json) |
 | [July 27 at 11:38 AM](https://archive.org/download/jijicom-2022/jijicom-2022-07-27T11:38:51.116177+09:00.accessibility.json) |
 | [July 27 at 11:31 AM](https://archive.org/download/jijicom-2022/jijicom-2022-07-27T11:31:44.723936+09:00.accessibility.json) |
 | [July 26 at 11:38 PM](https://archive.org/download/jijicom-2022/jijicom-2022-07-26T23:38:02.614333+09:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 12:36 PM](https://archive.org/download/jijicom-2022/jijicom-2022-07-25T12:36:03.942163+09:00.accessibility.json) |
 | [July 25 at 12:24 PM](https://archive.org/download/jijicom-2022/jijicom-2022-07-25T12:24:05.197918+09:00.accessibility.json) |
 | [July 24 at 9:58 PM](https://archive.org/download/jijicom-2022/jijicom-2022-07-24T21:58:47.373633+09:00.accessibility.json) |
-| [July 24 at 1:14 PM](https://archive.org/download/jijicom-2022/jijicom-2022-07-24T13:14:07.039031+09:00.accessibility.json) |
 
 
 

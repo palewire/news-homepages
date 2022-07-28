@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 81 screenshots with the Internet Archive.
+The archiving routine has saved 83 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/politifact-2022/politifact-2022-07-27T20:10:05.842039-04:00.jpg">
+  <img src="https://archive.org/download/politifact-2022/politifact-2022-07-27T20:10:05.842039-04:00.jpg"
+     alt="Politifact  at 2022-07-27 20:10:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-27T20:10:05.842039-04:00.jpg">July 27 at 8:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politifact-2022/politifact-2022-07-27T09:14:19.880428-04:00.jpg">
+  <img src="https://archive.org/download/politifact-2022/politifact-2022-07-27T09:14:19.880428-04:00.jpg"
+     alt="Politifact  at 2022-07-27 09:14:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-27T09:14:19.880428-04:00.jpg">July 27 at 9:14 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/politifact-2022/politifact-2022-07-26T20:18:15.281332-04:00.jpg">
   <img src="https://archive.org/download/politifact-2022/politifact-2022-07-26T20:18:15.281332-04:00.jpg"
      alt="Politifact  at 2022-07-26 20:18:17-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-22T11:02:26.307052-04:00.jpg">July 22 at 11:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/politifact-2022/politifact-2022-07-21T23:40:56.503544-04:00.jpg">
-  <img src="https://archive.org/download/politifact-2022/politifact-2022-07-21T23:40:56.503544-04:00.jpg"
-     alt="Politifact  at 2022-07-21 23:40:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-21T23:40:56.503544-04:00.jpg">July 21 at 11:40 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/politifact-2022/politifact-2022-07-21T11:37:47.352037-04:00.jpg">
-  <img src="https://archive.org/download/politifact-2022/politifact-2022-07-21T11:37:47.352037-04:00.jpg"
-     alt="Politifact  at 2022-07-21 11:37:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-21T11:37:47.352037-04:00.jpg">July 21 at 11:37 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 81 hyperlink lists with the Internet Archive.
+The archiving routine has saved 83 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 8:10 PM](https://archive.org/download/politifact-2022/politifact-2022-07-27T20:10:05.842039-04:00.hyperlinks.json) |
+| [July 27 at 9:14 AM](https://archive.org/download/politifact-2022/politifact-2022-07-27T09:14:19.880428-04:00.hyperlinks.json) |
 | [July 26 at 8:18 PM](https://archive.org/download/politifact-2022/politifact-2022-07-26T20:18:15.281332-04:00.hyperlinks.json) |
 | [July 26 at 8:28 AM](https://archive.org/download/politifact-2022/politifact-2022-07-26T08:28:07.148992-04:00.hyperlinks.json) |
 | [July 25 at 8:23 PM](https://archive.org/download/politifact-2022/politifact-2022-07-25T20:23:12.081943-04:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 10:00 AM](https://archive.org/download/politifact-2022/politifact-2022-07-24T10:00:37.626706-04:00.hyperlinks.json) |
 | [July 24 at 2:19 AM](https://archive.org/download/politifact-2022/politifact-2022-07-24T02:19:28.634488-04:00.hyperlinks.json) |
 | [July 23 at 11:06 AM](https://archive.org/download/politifact-2022/politifact-2022-07-23T11:06:53.817654-04:00.hyperlinks.json) |
-| [July 22 at 11:36 PM](https://archive.org/download/politifact-2022/politifact-2022-07-22T23:36:28.442733-04:00.hyperlinks.json) |
-| [July 22 at 11:02 AM](https://archive.org/download/politifact-2022/politifact-2022-07-22T11:02:26.307052-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 81 accessibility trees with the Internet Archive.
+The archiving routine has saved 83 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 8:10 PM](https://archive.org/download/politifact-2022/politifact-2022-07-27T20:10:05.842039-04:00.accessibility.json) |
+| [July 27 at 9:14 AM](https://archive.org/download/politifact-2022/politifact-2022-07-27T09:14:19.880428-04:00.accessibility.json) |
 | [July 26 at 8:18 PM](https://archive.org/download/politifact-2022/politifact-2022-07-26T20:18:15.281332-04:00.accessibility.json) |
 | [July 26 at 8:28 AM](https://archive.org/download/politifact-2022/politifact-2022-07-26T08:28:07.148992-04:00.accessibility.json) |
 | [July 25 at 8:23 PM](https://archive.org/download/politifact-2022/politifact-2022-07-25T20:23:12.081943-04:00.accessibility.json) |
@@ -427,8 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 10:00 AM](https://archive.org/download/politifact-2022/politifact-2022-07-24T10:00:37.626706-04:00.accessibility.json) |
 | [July 24 at 2:19 AM](https://archive.org/download/politifact-2022/politifact-2022-07-24T02:19:28.634488-04:00.accessibility.json) |
 | [July 23 at 11:06 AM](https://archive.org/download/politifact-2022/politifact-2022-07-23T11:06:53.817654-04:00.accessibility.json) |
-| [July 22 at 11:36 PM](https://archive.org/download/politifact-2022/politifact-2022-07-22T23:36:28.442733-04:00.accessibility.json) |
-| [July 22 at 11:02 AM](https://archive.org/download/politifact-2022/politifact-2022-07-22T11:02:26.307052-04:00.accessibility.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 193 screenshots with the Internet Archive.
+The archiving routine has saved 195 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-27T19:06:54.256949-05:00.jpg">
+  <img src="https://archive.org/download/minnpost-2022/minnpost-2022-07-27T19:06:54.256949-05:00.jpg"
+     alt="MinnPost at 2022-07-27 19:06:59-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-27T19:06:54.256949-05:00.jpg">July 27 at 7:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-27T08:09:54.091277-05:00.jpg">
+  <img src="https://archive.org/download/minnpost-2022/minnpost-2022-07-27T08:09:54.091277-05:00.jpg"
+     alt="MinnPost at 2022-07-27 08:09:55-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-27T08:09:54.091277-05:00.jpg">July 27 at 8:09 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-26T19:14:42.318126-05:00.jpg">
   <img src="https://archive.org/download/minnpost-2022/minnpost-2022-07-26T19:14:42.318126-05:00.jpg"
      alt="MinnPost at 2022-07-26 19:14:48-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-22T09:56:58.917025-05:00.jpg">July 22 at 9:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-21T22:35:46.279162-05:00.jpg">
-  <img src="https://archive.org/download/minnpost-2022/minnpost-2022-07-21T22:35:46.279162-05:00.jpg"
-     alt="MinnPost at 2022-07-21 22:35:54-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-21T22:35:46.279162-05:00.jpg">July 21 at 10:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-21T10:30:30.635414-05:00.jpg">
-  <img src="https://archive.org/download/minnpost-2022/minnpost-2022-07-21T10:30:30.635414-05:00.jpg"
-     alt="MinnPost at 2022-07-21 10:30:31-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-07-21T10:30:30.635414-05:00.jpg">July 21 at 10:30 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 192 hyperlink lists with the Internet Archive.
+The archiving routine has saved 194 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 7:07 PM](https://archive.org/download/minnpost-2022/minnpost-2022-07-27T19:06:54.256949-05:00.hyperlinks.json) |
+| [July 27 at 8:09 AM](https://archive.org/download/minnpost-2022/minnpost-2022-07-27T08:09:54.091277-05:00.hyperlinks.json) |
 | [July 26 at 7:14 PM](https://archive.org/download/minnpost-2022/minnpost-2022-07-26T19:14:42.318126-05:00.hyperlinks.json) |
 | [July 26 at 7:25 AM](https://archive.org/download/minnpost-2022/minnpost-2022-07-26T07:25:08.755910-05:00.hyperlinks.json) |
 | [July 25 at 7:18 PM](https://archive.org/download/minnpost-2022/minnpost-2022-07-25T19:18:38.561174-05:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 8:02 AM](https://archive.org/download/minnpost-2022/minnpost-2022-07-24T08:02:40.482299-05:00.hyperlinks.json) |
 | [July 23 at 11:19 PM](https://archive.org/download/minnpost-2022/minnpost-2022-07-23T23:19:01.978765-05:00.hyperlinks.json) |
 | [July 23 at 10:01 AM](https://archive.org/download/minnpost-2022/minnpost-2022-07-23T10:01:39.800221-05:00.hyperlinks.json) |
-| [July 22 at 10:31 PM](https://archive.org/download/minnpost-2022/minnpost-2022-07-22T22:31:28.005152-05:00.hyperlinks.json) |
-| [July 22 at 9:57 AM](https://archive.org/download/minnpost-2022/minnpost-2022-07-22T09:56:58.917025-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 193 accessibility trees with the Internet Archive.
+The archiving routine has saved 195 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 7:07 PM](https://archive.org/download/minnpost-2022/minnpost-2022-07-27T19:06:54.256949-05:00.accessibility.json) |
+| [July 27 at 8:09 AM](https://archive.org/download/minnpost-2022/minnpost-2022-07-27T08:09:54.091277-05:00.accessibility.json) |
 | [July 26 at 7:14 PM](https://archive.org/download/minnpost-2022/minnpost-2022-07-26T19:14:42.318126-05:00.accessibility.json) |
 | [July 26 at 7:25 AM](https://archive.org/download/minnpost-2022/minnpost-2022-07-26T07:25:08.755910-05:00.accessibility.json) |
 | [July 25 at 7:18 PM](https://archive.org/download/minnpost-2022/minnpost-2022-07-25T19:18:38.561174-05:00.accessibility.json) |
@@ -427,8 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 8:02 AM](https://archive.org/download/minnpost-2022/minnpost-2022-07-24T08:02:40.482299-05:00.accessibility.json) |
 | [July 23 at 11:19 PM](https://archive.org/download/minnpost-2022/minnpost-2022-07-23T23:19:01.978765-05:00.accessibility.json) |
 | [July 23 at 10:01 AM](https://archive.org/download/minnpost-2022/minnpost-2022-07-23T10:01:39.800221-05:00.accessibility.json) |
-| [July 22 at 10:31 PM](https://archive.org/download/minnpost-2022/minnpost-2022-07-22T22:31:28.005152-05:00.accessibility.json) |
-| [July 22 at 9:57 AM](https://archive.org/download/minnpost-2022/minnpost-2022-07-22T09:56:58.917025-05:00.accessibility.json) |
 
 
 

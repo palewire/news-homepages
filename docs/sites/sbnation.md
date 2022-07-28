@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 80 screenshots with the Internet Archive.
+The archiving routine has saved 82 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-27T20:12:27.368673-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-27T20:12:27.368673-04:00.jpg"
+     alt="SB Nation at 2022-07-27 20:12:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-27T20:12:27.368673-04:00.jpg">July 27 at 8:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-27T09:15:37.005178-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-27T09:15:37.005178-04:00.jpg"
+     alt="SB Nation at 2022-07-27 09:15:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-27T09:15:37.005178-04:00.jpg">July 27 at 9:15 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-26T20:19:41.307454-04:00.jpg">
   <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-26T20:19:41.307454-04:00.jpg"
      alt="SB Nation at 2022-07-26 20:19:44-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-22T11:05:09.877907-04:00.jpg">July 22 at 11:05 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-21T23:43:35.853375-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-21T23:43:35.853375-04:00.jpg"
-     alt="SB Nation at 2022-07-21 23:43:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-21T23:43:35.853375-04:00.jpg">July 21 at 11:43 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-21T11:40:22.991053-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-07-21T11:40:22.991053-04:00.jpg"
-     alt="SB Nation at 2022-07-21 11:40:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-21T11:40:22.991053-04:00.jpg">July 21 at 11:40 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 78 hyperlink lists with the Internet Archive.
+The archiving routine has saved 80 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 8:12 PM](https://archive.org/download/sbnation-2022/sbnation-2022-07-27T20:12:27.368673-04:00.hyperlinks.json) |
+| [July 27 at 9:15 AM](https://archive.org/download/sbnation-2022/sbnation-2022-07-27T09:15:37.005178-04:00.hyperlinks.json) |
 | [July 26 at 8:19 PM](https://archive.org/download/sbnation-2022/sbnation-2022-07-26T20:19:41.307454-04:00.hyperlinks.json) |
 | [July 26 at 8:29 AM](https://archive.org/download/sbnation-2022/sbnation-2022-07-26T08:29:34.296208-04:00.hyperlinks.json) |
 | [July 25 at 8:25 PM](https://archive.org/download/sbnation-2022/sbnation-2022-07-25T20:25:04.034798-04:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 10:03 AM](https://archive.org/download/sbnation-2022/sbnation-2022-07-24T10:03:11.221047-04:00.hyperlinks.json) |
 | [July 24 at 2:22 AM](https://archive.org/download/sbnation-2022/sbnation-2022-07-24T02:22:29.731017-04:00.hyperlinks.json) |
 | [July 23 at 11:09 AM](https://archive.org/download/sbnation-2022/sbnation-2022-07-23T11:09:29.346840-04:00.hyperlinks.json) |
-| [July 22 at 11:39 PM](https://archive.org/download/sbnation-2022/sbnation-2022-07-22T23:39:07.005230-04:00.hyperlinks.json) |
-| [July 22 at 11:05 AM](https://archive.org/download/sbnation-2022/sbnation-2022-07-22T11:05:09.877907-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 81 accessibility trees with the Internet Archive.
+The archiving routine has saved 83 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 8:12 PM](https://archive.org/download/sbnation-2022/sbnation-2022-07-27T20:12:27.368673-04:00.accessibility.json) |
+| [July 27 at 9:15 AM](https://archive.org/download/sbnation-2022/sbnation-2022-07-27T09:15:37.005178-04:00.accessibility.json) |
 | [July 26 at 8:19 PM](https://archive.org/download/sbnation-2022/sbnation-2022-07-26T20:19:41.307454-04:00.accessibility.json) |
 | [July 26 at 8:29 AM](https://archive.org/download/sbnation-2022/sbnation-2022-07-26T08:29:34.296208-04:00.accessibility.json) |
 | [July 25 at 8:25 PM](https://archive.org/download/sbnation-2022/sbnation-2022-07-25T20:25:04.034798-04:00.accessibility.json) |
@@ -427,8 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 10:03 AM](https://archive.org/download/sbnation-2022/sbnation-2022-07-24T10:03:11.221047-04:00.accessibility.json) |
 | [July 24 at 2:22 AM](https://archive.org/download/sbnation-2022/sbnation-2022-07-24T02:22:29.731017-04:00.accessibility.json) |
 | [July 23 at 11:09 AM](https://archive.org/download/sbnation-2022/sbnation-2022-07-23T11:09:29.346840-04:00.accessibility.json) |
-| [July 22 at 11:39 PM](https://archive.org/download/sbnation-2022/sbnation-2022-07-22T23:39:07.005230-04:00.accessibility.json) |
-| [July 22 at 11:05 AM](https://archive.org/download/sbnation-2022/sbnation-2022-07-22T11:05:09.877907-04:00.accessibility.json) |
 
 
 

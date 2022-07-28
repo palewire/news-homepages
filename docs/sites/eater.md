@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 37 screenshots with the Internet Archive.
+The archiving routine has saved 38 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 37 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eater-2022/eater-2022-07-27T10:28:26.018979-04:00.jpg">
+  <img src="https://archive.org/download/eater-2022/eater-2022-07-27T10:28:26.018979-04:00.jpg"
+     alt="Eater at 2022-07-27 10:28:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eater-2022/eater-2022-07-27T10:28:26.018979-04:00.jpg">July 27 at 10:28 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eater-2022/eater-2022-07-26T22:34:48.868407-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eater-2022/eater-2022-07-21T22:18:26.357699-04:00.jpg">July 21 at 10:18 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eater-2022/eater-2022-07-21T10:07:58.635256-04:00.jpg">
-  <img src="https://archive.org/download/eater-2022/eater-2022-07-21T10:07:58.635256-04:00.jpg"
-     alt="Eater at 2022-07-21 10:08:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eater-2022/eater-2022-07-21T10:07:58.635256-04:00.jpg">July 21 at 10:08 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 10:28 AM](https://archive.org/download/eater-2022/eater-2022-07-27T10:28:26.018979-04:00.hyperlinks.json) |
 | [July 26 at 10:34 PM](https://archive.org/download/eater-2022/eater-2022-07-26T22:34:48.868407-04:00.hyperlinks.json) |
 | [July 26 at 10:33 AM](https://archive.org/download/eater-2022/eater-2022-07-26T10:33:26.185712-04:00.hyperlinks.json) |
 | [July 25 at 10:40 PM](https://archive.org/download/eater-2022/eater-2022-07-25T22:40:26.634405-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 2:27 AM](https://archive.org/download/eater-2022/eater-2022-07-24T02:27:40.134460-04:00.hyperlinks.json) |
 | [July 23 at 9:57 AM](https://archive.org/download/eater-2022/eater-2022-07-23T09:57:42.623761-04:00.hyperlinks.json) |
 | [July 22 at 10:24 PM](https://archive.org/download/eater-2022/eater-2022-07-22T22:24:30.594224-04:00.hyperlinks.json) |
-| [July 22 at 9:59 AM](https://archive.org/download/eater-2022/eater-2022-07-22T09:59:09.079043-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 36 accessibility trees with the Internet Archive.
+The archiving routine has saved 37 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 10:28 AM](https://archive.org/download/eater-2022/eater-2022-07-27T10:28:26.018979-04:00.accessibility.json) |
 | [July 26 at 10:34 PM](https://archive.org/download/eater-2022/eater-2022-07-26T22:34:48.868407-04:00.accessibility.json) |
 | [July 26 at 10:33 AM](https://archive.org/download/eater-2022/eater-2022-07-26T10:33:26.185712-04:00.accessibility.json) |
 | [July 25 at 10:40 PM](https://archive.org/download/eater-2022/eater-2022-07-25T22:40:26.634405-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 2:27 AM](https://archive.org/download/eater-2022/eater-2022-07-24T02:27:40.134460-04:00.accessibility.json) |
 | [July 23 at 9:57 AM](https://archive.org/download/eater-2022/eater-2022-07-23T09:57:42.623761-04:00.accessibility.json) |
 | [July 22 at 9:59 AM](https://archive.org/download/eater-2022/eater-2022-07-22T09:59:09.079043-04:00.accessibility.json) |
-| [July 21 at 10:18 PM](https://archive.org/download/eater-2022/eater-2022-07-21T22:18:26.357699-04:00.accessibility.json) |
 
 
 

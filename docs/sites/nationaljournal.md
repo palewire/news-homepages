@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-27T10:36:05.458330-04:00.jpg">
+  <img src="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-27T10:36:05.458330-04:00.jpg"
+     alt="National Journal at 2022-07-27 10:36:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-27T10:36:05.458330-04:00.jpg">July 27 at 10:36 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-26T22:42:08.183419-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-21T23:36:58.548754-04:00.jpg">July 21 at 11:37 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-21T11:31:35.562760-04:00.jpg">
-  <img src="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-21T11:31:35.562760-04:00.jpg"
-     alt="National Journal at 2022-07-21 11:31:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-21T11:31:35.562760-04:00.jpg">July 21 at 11:31 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 10:36 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-27T10:36:05.458330-04:00.hyperlinks.json) |
 | [July 26 at 10:42 PM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-26T22:42:08.183419-04:00.hyperlinks.json) |
 | [July 26 at 10:41 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-26T10:41:03.807485-04:00.hyperlinks.json) |
 | [July 25 at 10:48 PM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-25T22:48:28.419991-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 12:20 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-24T00:20:07.516697-04:00.hyperlinks.json) |
 | [July 23 at 11:02 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-23T11:02:40.858549-04:00.hyperlinks.json) |
 | [July 22 at 11:32 PM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-22T23:32:32.070232-04:00.hyperlinks.json) |
-| [July 22 at 10:58 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-22T10:58:01.949724-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 10:36 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-27T10:36:05.458330-04:00.accessibility.json) |
 | [July 26 at 10:42 PM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-26T22:42:08.183419-04:00.accessibility.json) |
 | [July 26 at 10:41 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-26T10:41:03.807485-04:00.accessibility.json) |
 | [July 25 at 10:48 PM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-25T22:48:28.419991-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 12:20 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-24T00:20:07.516697-04:00.accessibility.json) |
 | [July 23 at 11:02 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-23T11:02:40.858549-04:00.accessibility.json) |
 | [July 22 at 11:32 PM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-22T23:32:32.070232-04:00.accessibility.json) |
-| [July 22 at 10:58 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-07-22T10:58:01.949724-04:00.accessibility.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 100 screenshots with the Internet Archive.
+The archiving routine has saved 102 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-28T01:06:31.233243+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-28T01:06:31.233243+01:00.jpg"
+     alt="Daily Mail at 2022-07-28 01:06:36+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-28T01:06:31.233243+01:00.jpg">July 28 at 1:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T14:09:47.944461+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T14:09:47.944461+01:00.jpg"
+     alt="Daily Mail at 2022-07-27 14:09:54+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T14:09:47.944461+01:00.jpg">July 27 at 2:09 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T10:09:02.441464+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-27T10:09:02.441464+01:00.jpg"
      alt="Daily Mail at 2022-07-27 10:09:11+01:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T05:17:38.355076+01:00.jpg">July 24 at 5:17 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T16:00:48.687110+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T16:00:48.687110+01:00.jpg"
-     alt="Daily Mail at 2022-07-23 16:00:50+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T16:00:48.687110+01:00.jpg">July 23 at 4:00 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T10:06:23.070273+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T10:06:23.070273+01:00.jpg"
-     alt="Daily Mail at 2022-07-23 10:06:30+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T10:06:23.070273+01:00.jpg">July 23 at 10:06 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 83 hyperlink lists with the Internet Archive.
+The archiving routine has saved 85 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 28 at 1:06 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-28T01:06:31.233243+01:00.hyperlinks.json) |
+| [July 27 at 2:09 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-27T14:09:47.944461+01:00.hyperlinks.json) |
 | [July 27 at 10:09 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-27T10:09:02.441464+01:00.hyperlinks.json) |
 | [July 26 at 10:08 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-26T10:08:29.132790+01:00.hyperlinks.json) |
 | [July 25 at 2:13 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-25T14:13:49.143145+01:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 24 at 2:02 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-24T14:02:32.403340+01:00.hyperlinks.json) |
 | [July 24 at 5:17 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-24T05:17:38.355076+01:00.hyperlinks.json) |
 | [July 23 at 4:00 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-23T16:00:48.687110+01:00.hyperlinks.json) |
-| [July 23 at 10:06 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-23T10:06:23.070273+01:00.hyperlinks.json) |
-| [July 23 at 4:31 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-23T04:30:56.222323+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 88 accessibility trees with the Internet Archive.
+The archiving routine has saved 90 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 28 at 1:06 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-28T01:06:31.233243+01:00.accessibility.json) |
+| [July 27 at 2:09 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-27T14:09:47.944461+01:00.accessibility.json) |
 | [July 27 at 10:09 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-27T10:09:02.441464+01:00.accessibility.json) |
 | [July 26 at 1:24 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-26T13:24:10.003573+01:00.accessibility.json) |
 | [July 26 at 10:08 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-26T10:08:29.132790+01:00.accessibility.json) |
@@ -427,8 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [July 24 at 2:02 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-24T14:02:32.403340+01:00.accessibility.json) |
 | [July 24 at 5:17 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-24T05:17:38.355076+01:00.accessibility.json) |
 | [July 23 at 4:00 PM](https://archive.org/download/mailonline-2022/mailonline-2022-07-23T16:00:48.687110+01:00.accessibility.json) |
-| [July 23 at 10:06 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-23T10:06:23.070273+01:00.accessibility.json) |
-| [July 23 at 4:31 AM](https://archive.org/download/mailonline-2022/mailonline-2022-07-23T04:30:56.222323+01:00.accessibility.json) |
 
 
 

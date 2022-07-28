@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 20 screenshots with the Internet Archive.
+The archiving routine has saved 21 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thr-2022/thr-2022-07-27T06:24:03.985938-07:00.jpg">
+  <img src="https://archive.org/download/thr-2022/thr-2022-07-27T06:24:03.985938-07:00.jpg"
+     alt="Hollywood Reporter at 2022-07-27 06:24:06-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thr-2022/thr-2022-07-27T06:24:03.985938-07:00.jpg">July 27 at 6:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thr-2022/thr-2022-07-26T18:29:22.584445-07:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thr-2022/thr-2022-07-22T09:19:36.039167-07:00.jpg">July 22 at 9:19 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thr-2022/thr-2022-07-21T21:32:08.964788-07:00.jpg">
-  <img src="https://archive.org/download/thr-2022/thr-2022-07-21T21:32:08.964788-07:00.jpg"
-     alt="Hollywood Reporter at 2022-07-21 21:32:10-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thr-2022/thr-2022-07-21T21:32:08.964788-07:00.jpg">July 21 at 9:32 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 27 at 6:24 AM](https://archive.org/download/thr-2022/thr-2022-07-27T06:24:03.985938-07:00.hyperlinks.json) |
 | [July 26 at 6:29 PM](https://archive.org/download/thr-2022/thr-2022-07-26T18:29:22.584445-07:00.hyperlinks.json) |
 | [July 26 at 6:31 AM](https://archive.org/download/thr-2022/thr-2022-07-26T06:31:20.342354-07:00.hyperlinks.json) |
 | [July 25 at 7:51 PM](https://archive.org/download/thr-2022/thr-2022-07-25T19:51:13.511151-07:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 23 at 9:06 AM](https://archive.org/download/thr-2022/thr-2022-07-23T09:06:12.590879-07:00.hyperlinks.json) |
 | [July 22 at 9:26 PM](https://archive.org/download/thr-2022/thr-2022-07-22T21:26:52.568550-07:00.hyperlinks.json) |
 | [July 22 at 9:19 AM](https://archive.org/download/thr-2022/thr-2022-07-22T09:19:36.039167-07:00.hyperlinks.json) |
-| [July 21 at 9:32 PM](https://archive.org/download/thr-2022/thr-2022-07-21T21:32:08.964788-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 19 accessibility trees with the Internet Archive.
+The archiving routine has saved 20 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 27 at 6:24 AM](https://archive.org/download/thr-2022/thr-2022-07-27T06:24:03.985938-07:00.accessibility.json) |
 | [July 26 at 6:29 PM](https://archive.org/download/thr-2022/thr-2022-07-26T18:29:22.584445-07:00.accessibility.json) |
 | [July 26 at 6:31 AM](https://archive.org/download/thr-2022/thr-2022-07-26T06:31:20.342354-07:00.accessibility.json) |
 | [July 25 at 7:51 PM](https://archive.org/download/thr-2022/thr-2022-07-25T19:51:13.511151-07:00.accessibility.json) |
@@ -179,7 +180,6 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 8:42 PM](https://archive.org/download/thr-2022/thr-2022-07-23T20:42:52.080727-07:00.accessibility.json) |
 | [July 23 at 9:06 AM](https://archive.org/download/thr-2022/thr-2022-07-23T09:06:12.590879-07:00.accessibility.json) |
 | [July 22 at 9:26 PM](https://archive.org/download/thr-2022/thr-2022-07-22T21:26:52.568550-07:00.accessibility.json) |
-| [July 22 at 9:19 AM](https://archive.org/download/thr-2022/thr-2022-07-22T09:19:36.039167-07:00.accessibility.json) |
 
 
 
