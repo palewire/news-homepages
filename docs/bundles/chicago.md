@@ -7,7 +7,7 @@ orphan: true
 
 # Chicago
 
-The most recent homepages from 20 news sites in this bundle.
+The most recent homepages from 21 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -90,6 +90,15 @@ The most recent homepages from 20 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/ciceronoticias.html">Cicero Independiente</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dailyherald.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailyherald.jpg"
+     alt="Daily Herald"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/dailyherald.html">Daily Herald</a></p>
 </div>
 
 <div class="latest-child">
@@ -215,6 +224,7 @@ The most recent homepages from 20 news sites in this bundle.
 |[Chicago Sun-Times](https://palewi.re/docs/news-homepages/sites/suntimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/suntimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/suntimes.xml)|
 |[Chicago Tribune](https://palewi.re/docs/news-homepages/sites/chicagotribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chicagotribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/chicagotribune.xml)|
 |[Cicero Independiente](https://palewi.re/docs/news-homepages/sites/ciceronoticias.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ciceronoticias.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ciceronoticias.xml)|
+|[Daily Herald](https://palewi.re/docs/news-homepages/sites/dailyherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailyherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailyherald.xml)|
 |[DePaulia](https://palewi.re/docs/news-homepages/sites/thedepaulia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedepaulia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedepaulia.xml)|
 |[Evanston RoundTable](https://palewi.re/docs/news-homepages/sites/evroundtable.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/evroundtable.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/evroundtable.xml)|
 |[Harvey World Herald](https://palewi.re/docs/news-homepages/sites/hwherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hwherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hwherald.xml)|
