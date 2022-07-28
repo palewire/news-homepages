@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 663 sites.
+The archiving routine is currently capturing 664 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -169,6 +169,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Daily Caller](https://palewi.re/docs/news-homepages/sites/dailycaller.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailycaller.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailycaller.xml)|
 |[Daily Climate](https://palewi.re/docs/news-homepages/sites/thedailyclimate.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedailyclimate.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedailyclimate.xml)|
 |[Daily Echo](https://palewi.re/docs/news-homepages/sites/dailyecho.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailyecho.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailyecho.xml)|
+|[Daily Herald](https://palewi.re/docs/news-homepages/sites/dailyherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailyherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailyherald.xml)|
 |[Daily Herald](https://palewi.re/docs/news-homepages/sites/heraldscotland.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/heraldscotland.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/heraldscotland.xml)|
 |[Daily Kos](https://palewi.re/docs/news-homepages/sites/dailykos.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailykos.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailykos.xml)|
 |[Daily Mail](https://palewi.re/docs/news-homepages/sites/mailonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mailonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mailonline.xml)|
