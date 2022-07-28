@@ -1,5 +1,5 @@
 {
-  "created": 1658967105,
+  "created": 1659010917,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/pajaropolitico-2022",
@@ -19373,21 +19373,32 @@
       "format": "JSON"
     },
     {
+      "name": "pajaropolitico-2022-07-27T19:10:22.951945-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-07-27T19:10:22.951945-05:00.jpg",
+      "mtime": "1658978677",
+      "size": "10058",
+      "md5": "6d157a9c4a311d21d64c59b0073336e3",
+      "crc32": "14ea5afb",
+      "sha1": "80a9b209b9f9c44eebd4d22bcba5763418539541"
+    },
+    {
       "name": "pajaropolitico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "55679951888750e991878757b6e6149fb3e7940f",
-      "mtime": "1658967101",
-      "size": "400616",
-      "md5": "63e58d8e33f3d6b4d12e99b10263cf76",
-      "crc32": "ca3b4a0f",
-      "sha1": "1d8ae6c1fed57f0869a84f7d44b3da50a0c64c42",
+      "btih": "9f01f29e1562849130e29406e28d0f90a186095c",
+      "mtime": "1658978735",
+      "size": "400827",
+      "md5": "dd83af104aa746907d1e542ea877b27a",
+      "crc32": "c5833a04",
+      "sha1": "82cbf5aaebf80c359ce236c656e0259f3066634d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pajaropolitico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "042a79e8f2425d765fb1b42c9caad197",
+      "md5": "e183874bed6375c0c2a00c701c8691cd",
       "summation": "md5"
     },
     {
@@ -19411,9 +19422,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1849,
-  "item_last_updated": 1658967101,
-  "item_size": 147976390,
+  "files_count": 1850,
+  "item_last_updated": 1658978735,
+  "item_size": 147986659,
   "metadata": {
     "identifier": "pajaropolitico-2022",
     "collection": [
@@ -19430,20 +19441,50 @@
     "publicdate": "2022-04-15 20:41:09",
     "addeddate": "2022-04-15 20:41:09"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "pajaropolitico-2022": [
     {
-      "task_id": 3345710156,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.animalpolitico.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_animalpolitico_com-_-2022_07_27_23_51_04.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_animalpolitico_com-_-2022_07_27_23_51_04.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.8,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.animalpolitico.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_animalpolitico_com-_-2022_07_27_23_51_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_animalpolitico_com-_-2022_07_27_23_51_28.report.json",
+      "summary": {
+        "performance": 0.11,
+        "accessibility": 0.8,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.animalpolitico.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_animalpolitico_com-_-2022_07_27_23_50_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_animalpolitico_com-_-2022_07_27_23_50_37.report.json",
+      "summary": {
+        "performance": 0.14,
+        "accessibility": 0.8,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.6
+      }
     }
   ],
-  "uniq": 845672353,
+  "server": "ia902505.us.archive.org",
+  "servers_unavailable": true,
+  "uniq": 1355102831,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

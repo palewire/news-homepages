@@ -1,5 +1,5 @@
 {
-  "created": 1658966648,
+  "created": 1658977911,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/25/items/houstonchron-2022",
@@ -2037,21 +2037,32 @@
       "format": "JSON"
     },
     {
+      "name": "houstonchron-2022-07-27T19:03:07.100640-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "houstonchron-2022-07-27T19:03:07.100640-05:00.jpg",
+      "mtime": "1658977843",
+      "size": "10649",
+      "md5": "b5a1e157826fd204fc1d416cf76ccc2f",
+      "crc32": "c6bde4e3",
+      "sha1": "8a60557d2cdd8719281141678d5e65f17e6c993f"
+    },
+    {
       "name": "houstonchron-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5aba8215a7612c7b397841935767fc7877c45b5d",
-      "mtime": "1658966641",
-      "size": "43305",
-      "md5": "08c86e71eb31c768e5e89ecc735a2e75",
-      "crc32": "a9e735d9",
-      "sha1": "0a43bd7e90ff0a20b9a3796673337c4b0d758f3c",
+      "btih": "460a84c7bc3190940c81e76d20184706cd5bb151",
+      "mtime": "1658977849",
+      "size": "43514",
+      "md5": "1c7a38c07a275b7af34d00dbd0501661",
+      "crc32": "c83f10b2",
+      "sha1": "4901c89a10e0aa2a5e37a56f0835213426d8ae2a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "houstonchron-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6b8d08526a5b3fc382edf46e820bc27c",
+      "md5": "fb518ca732fb26d64931318b6544abba",
       "summation": "md5"
     },
     {
@@ -2075,9 +2086,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 198,
-  "item_last_updated": 1658966641,
-  "item_size": 21283635,
+  "files_count": 199,
+  "item_last_updated": 1658977849,
+  "item_size": 21294493,
   "metadata": {
     "identifier": "houstonchron-2022",
     "collection": [
@@ -2094,21 +2105,10 @@
     "publicdate": "2022-07-04 21:54:16",
     "addeddate": "2022-07-04 21:54:16"
   },
-  "pending_tasks": true,
-  "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3345704825,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 996958116,
+  "server": "ia801400.us.archive.org",
+  "uniq": 1824224287,
   "workable_servers": [
+    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

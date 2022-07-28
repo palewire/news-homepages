@@ -1,5 +1,5 @@
 {
-  "created": 1658967718,
+  "created": 1659006757,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/25/items/foxla-2022",
@@ -12131,31 +12131,83 @@
       "format": "JSON"
     },
     {
+      "name": "foxla-2022-07-27T16:07:59.694615-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-07-27T16:07:59.694615-07:00.jpg",
+      "mtime": "1658974499",
+      "size": "10271",
+      "md5": "0a371bb131466b2b185f691d8e555d2c",
+      "crc32": "ebdcdb70",
+      "sha1": "8d734115429db975576765ea09c2c70c517a6e8a"
+    },
+    {
+      "name": "foxla-2022-07-28T04:11:29.139879-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659006696",
+      "size": "45232",
+      "md5": "dbf5b06c1de2bd68447ed5e998bc9f03",
+      "crc32": "80a618df",
+      "sha1": "22fb394ae56c9fb8991872829c5ba7207466351c",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-07-28T04:11:29.139879-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659006698",
+      "size": "40031",
+      "md5": "09fdd8b58c3c20ddf74f6735215bc26d",
+      "crc32": "6900a04d",
+      "sha1": "452bbfcd97b83f9e90eba1f5f89c26afd94795c3",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-07-28T04:11:29.139879-07:00.jpg",
+      "source": "original",
+      "mtime": "1659006694",
+      "size": "320238",
+      "md5": "8bd511e65c3d39880e522b25553cc33b",
+      "crc32": "61ff0993",
+      "sha1": "8a3d683a1fe245c1ae8fc39e31b54eae10796f30",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-07-28T04:11:29.139879-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659006699",
+      "size": "1447",
+      "md5": "66ba9d478f69c8524d39667698d292c9",
+      "crc32": "2fc3c7d9",
+      "sha1": "1a2960d0077cb7bc9c09430326be94c483b8a8ef",
+      "format": "JSON"
+    },
+    {
       "name": "foxla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "806535cfe99e68c08a07c6b474b0c669563fe027",
-      "mtime": "1658963340",
-      "size": "241874",
-      "md5": "80910b208680b2e18a40d26e001b5b8d",
-      "crc32": "b4b6f3a0",
-      "sha1": "56756f38d5f024a8dcb693b87bb22800184426e5",
+      "btih": "f0154cdad958fc4cfe93e5b56a1cc5ddf91880ef",
+      "mtime": "1659006751",
+      "size": "242919",
+      "md5": "bd37a272e7cd04ed725b45cc7bfe30e2",
+      "crc32": "2dbd0f2a",
+      "sha1": "90c93f9a5651164ee7a9dcb642c09bd4d9bc2d40",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "13bebd1bad6a7c9d57f977ced309e784",
+      "md5": "f7310b3e6e9b0ecf32b2b7f064b936aa",
       "summation": "md5"
     },
     {
       "name": "foxla-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658963292",
-      "size": "1318912",
-      "md5": "017c5a618a7080ccc199c929c9c1540f",
-      "crc32": "aa8da59c",
-      "sha1": "cce36999bf4ca955f0dacfdabed319251f9172b7",
+      "mtime": "1659006704",
+      "size": "1327104",
+      "md5": "4ca6c35989cb641f9aba19dedccf21bc",
+      "crc32": "46ec90b3",
+      "sha1": "ccfb5c825fcc02fe9c52f964c4a870ce3ac14dc9",
       "format": "Metadata"
     },
     {
@@ -12169,50 +12221,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1158,
-  "foxla-2022": [
-    {
-      "url": "https://www.foxla.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_foxla_com-_-2022_07_27_22_50_22.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_foxla_com-_-2022_07_27_22_50_22.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.8,
-        "best-practices": 0.67,
-        "seo": 0.91,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://www.foxla.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_foxla_com-_-2022_07_27_22_53_06.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_foxla_com-_-2022_07_27_22_53_06.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.8,
-        "best-practices": 0.67,
-        "seo": 0.91,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://www.foxla.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_foxla_com-_-2022_07_27_22_51_45.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_foxla_com-_-2022_07_27_22_51_45.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.8,
-        "best-practices": 0.67,
-        "seo": 0.91,
-        "pwa": 0.6
-      }
-    }
-  ],
-  "item_last_updated": 1658963340,
-  "item_size": 121136535,
+  "files_count": 1163,
+  "item_last_updated": 1659006751,
+  "item_size": 121562991,
   "metadata": {
     "identifier": "foxla-2022",
     "collection": [
@@ -12234,7 +12245,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345673999,
+      "task_id": 3346129456,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12242,7 +12253,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1276771831,
+  "uniq": 1205006116,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

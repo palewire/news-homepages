@@ -1,5 +1,5 @@
 {
-  "created": 1658968228,
+  "created": 1659011229,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/35/items/truthout-2022",
@@ -1406,31 +1406,83 @@
       "sha1": "d87ef82096e41d2dbf97cc5a313a36eb569c3e66"
     },
     {
+      "name": "truthout-2022-07-27T20:48:35.695300-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658980119",
+      "size": "32774",
+      "md5": "c1a6abf1bb6502962ccd25c736609dc4",
+      "crc32": "df00408d",
+      "sha1": "9937a7b0b08d11fe74cbcdf81814814001ddde5e",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-07-27T20:48:35.695300-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658980120",
+      "size": "22806",
+      "md5": "8289b80571a5262c1cf2d5bfc34df6a2",
+      "crc32": "0c796f2b",
+      "sha1": "5e0d885fd35b195475753304264517b6888620c1",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-07-27T20:48:35.695300-07:00.jpg",
+      "source": "original",
+      "mtime": "1658980117",
+      "size": "287923",
+      "md5": "9bdef4aac5add8ef2670aaaa66dd33b7",
+      "crc32": "76fdd8da",
+      "sha1": "266b321086dd5f645aa1d8f577edb71e32ccfc09",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "truthout-2022-07-27T20:48:35.695300-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658980121",
+      "size": "1432",
+      "md5": "8d4e179789db06f77b51b2f6a8800fbd",
+      "crc32": "5357856f",
+      "sha1": "41a0bd89a465ca9154cb8f78892c8827c7c916ce",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-07-27T20:48:35.695300-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "truthout-2022-07-27T20:48:35.695300-07:00.jpg",
+      "mtime": "1658990511",
+      "size": "9454",
+      "md5": "f4996bd755b69841998702b337296a9e",
+      "crc32": "404477a5",
+      "sha1": "9416e52e7b0751a4e4f99eb609677ad7f668faf1"
+    },
+    {
       "name": "truthout-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b2a51eb4f94c9db520afcd9a93672d5496a9c92d",
-      "mtime": "1658957900",
-      "size": "29626",
-      "md5": "6ca1bc5f4fb6f2347cc5f8c8e01803f0",
-      "crc32": "26208b0c",
-      "sha1": "90a96148150bf6dcc1b88efab97eeab64662c82f",
+      "btih": "fa9c522651c16d73d41c7251190e4768f216d370",
+      "mtime": "1658990556",
+      "size": "30685",
+      "md5": "1af853255b8764c7ad3115ac70c66324",
+      "crc32": "aefd7df6",
+      "sha1": "3f322afbd3cffe07033e364093b55ed898ec9f2a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "truthout-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e0f6604d3d78b83ece8bb23c14f4ab6e",
+      "md5": "367b7ed562acf9ee46160ece7f29203e",
       "summation": "md5"
     },
     {
       "name": "truthout-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658937027",
-      "size": "180224",
-      "md5": "d07c647eee7dd0fc15804356de96e0d2",
-      "crc32": "7d2a4339",
-      "sha1": "820df8db204bb825d4da39937a8405333227fe0b",
+      "mtime": "1658980125",
+      "size": "184320",
+      "md5": "292c7a15370a8d11bd314b2122762356",
+      "crc32": "deca0e27",
+      "sha1": "00cdd6658869de0639b6ca9716687b7b909d3474",
       "format": "Metadata"
     },
     {
@@ -1444,9 +1496,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 138,
-  "item_last_updated": 1658957900,
-  "item_size": 10394080,
+  "files_count": 143,
+  "item_last_updated": 1658990556,
+  "item_size": 10753624,
   "metadata": {
     "identifier": "truthout-2022",
     "collection": [
@@ -1463,51 +1515,51 @@
     "publicdate": "2022-07-17 15:59:53",
     "addeddate": "2022-07-17 15:59:53"
   },
-  "server": "ia802507.us.archive.org",
+  "server": "ia902507.us.archive.org",
   "truthout-2022": [
     {
       "url": "https://truthout.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/truthout_org-_-2022_07_27_15_21_30.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/truthout_org-_-2022_07_27_15_21_30.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/truthout_org-_-2022_07_28_03_10_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/truthout_org-_-2022_07_28_03_10_49.report.json",
       "summary": {
-        "performance": 0.51,
+        "performance": 0.59,
         "accessibility": 0.94,
         "best-practices": 1,
-        "seo": 0.98,
+        "seo": 0.97,
         "pwa": 0.8
       }
     },
     {
       "url": "https://truthout.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/truthout_org-_-2022_07_27_15_21_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/truthout_org-_-2022_07_27_15_21_44.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/truthout_org-_-2022_07_28_03_11_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/truthout_org-_-2022_07_28_03_11_01.report.json",
       "summary": {
-        "performance": 0.58,
+        "performance": 0.59,
         "accessibility": 0.94,
         "best-practices": 1,
-        "seo": 0.98,
+        "seo": 0.97,
         "pwa": 0.8
       }
     },
     {
       "url": "https://truthout.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/truthout_org-_-2022_07_27_15_21_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/truthout_org-_-2022_07_27_15_21_56.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/truthout_org-_-2022_07_28_03_10_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/truthout_org-_-2022_07_28_03_10_36.report.json",
       "summary": {
-        "performance": 0.54,
+        "performance": 0.56,
         "accessibility": 0.94,
         "best-practices": 1,
-        "seo": 0.98,
+        "seo": 0.97,
         "pwa": 0.8
       }
     }
   ],
-  "uniq": 1776662458,
+  "uniq": 417532805,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

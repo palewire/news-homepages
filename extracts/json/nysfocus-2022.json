@@ -1,5 +1,5 @@
 {
-  "created": 1658967962,
+  "created": 1658989180,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/35/items/nysfocus-2022",
@@ -1818,31 +1818,83 @@
       "sha1": "e554b81480341e5a8c65d17d00087b7a29b62d79"
     },
     {
+      "name": "nysfocus-2022-07-27T23:41:22.331909-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658979685",
+      "size": "54560",
+      "md5": "b1e1e61f42b89dce6e1bb4fad332cdd5",
+      "crc32": "815b80a8",
+      "sha1": "fb8a6a80df1dc5153a3407db117f4f07928e3ea7",
+      "format": "JSON"
+    },
+    {
+      "name": "nysfocus-2022-07-27T23:41:22.331909-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658979687",
+      "size": "46272",
+      "md5": "1835300bb96a95094f820d6309b8b131",
+      "crc32": "acbfe82b",
+      "sha1": "d4f035ae1c6584e9b996ed8bc28fa53347ea2d53",
+      "format": "JSON"
+    },
+    {
+      "name": "nysfocus-2022-07-27T23:41:22.331909-04:00.jpg",
+      "source": "original",
+      "mtime": "1658979683",
+      "size": "241684",
+      "md5": "d4e291c3e7556f2cfc4ea84cd9c3e68b",
+      "crc32": "bdc316fe",
+      "sha1": "461e2f8b2a806281e2e5b7c671a69da2b03c8253",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nysfocus-2022-07-27T23:41:22.331909-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658979688",
+      "size": "1477",
+      "md5": "a26c0c7600efb897acdb5c0ba7594d21",
+      "crc32": "64715017",
+      "sha1": "6930c905ed8cce6d2f24bb5734cf8a0eff316cb2",
+      "format": "JSON"
+    },
+    {
+      "name": "nysfocus-2022-07-27T23:41:22.331909-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nysfocus-2022-07-27T23:41:22.331909-04:00.jpg",
+      "mtime": "1658989164",
+      "size": "9289",
+      "md5": "83d4ef06988c0fd997265fb95776b332",
+      "crc32": "37c889c1",
+      "sha1": "e554b81480341e5a8c65d17d00087b7a29b62d79"
+    },
+    {
       "name": "nysfocus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "30acb725bb1fa78c5e93027de6a56e545dc8cd3a",
-      "mtime": "1658955966",
-      "size": "37857",
-      "md5": "4ea0a6c2607cc125e6d742f8a762004a",
-      "crc32": "70e97b54",
-      "sha1": "249606843c9c027347ac1778fd14a59b14b7ab93",
+      "btih": "1eba7c6d6669242f64ea904e28954c0bde454729",
+      "mtime": "1658989171",
+      "size": "38916",
+      "md5": "fa13e5ee610f6971072813e538ca4a24",
+      "crc32": "606d7311",
+      "sha1": "1de6a01a0fb5a62d2c1fb2f6ed0ba1fa3a004d73",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nysfocus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a4465c85e06197044a73f8655589d046",
+      "md5": "cac15650e5084723a26c5e38678c0b5d",
       "summation": "md5"
     },
     {
       "name": "nysfocus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658936577",
-      "size": "221184",
-      "md5": "488a772cdfed068be06474fdf214ceef",
-      "crc32": "6fe91ff1",
-      "sha1": "88a6586c841c9963369aac2744cb047bf7ac0931",
+      "mtime": "1658979692",
+      "size": "229376",
+      "md5": "c80d2a55934e3b8f046c0efc2aa9093c",
+      "crc32": "4cdc57d2",
+      "sha1": "ae7e2807eb8ac4164b875ff4972baddbc5651c87",
       "format": "Metadata"
     },
     {
@@ -1856,9 +1908,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 177,
-  "item_last_updated": 1658955966,
-  "item_size": 15013746,
+  "files_count": 182,
+  "item_last_updated": 1658989171,
+  "item_size": 15376279,
   "metadata": {
     "identifier": "nysfocus-2022",
     "collection": [
@@ -1875,51 +1927,10 @@
     "publicdate": "2022-07-09 04:00:54",
     "addeddate": "2022-07-09 04:00:54"
   },
-  "nysfocus-2022": [
-    {
-      "url": "https://www.nysfocus.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nysfocus_com-_-2022_07_27_15_11_10.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nysfocus_com-_-2022_07_27_15_11_10.report.json",
-      "summary": {
-        "performance": 0.33,
-        "accessibility": 0.85,
-        "best-practices": 0.83,
-        "seo": 0.85,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.nysfocus.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nysfocus_com-_-2022_07_27_15_11_28.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nysfocus_com-_-2022_07_27_15_11_28.report.json",
-      "summary": {
-        "performance": 0.32,
-        "accessibility": 0.85,
-        "best-practices": 0.83,
-        "seo": 0.85,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.nysfocus.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nysfocus_com-_-2022_07_27_15_10_52.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nysfocus_com-_-2022_07_27_15_10_52.report.json",
-      "summary": {
-        "performance": 0.33,
-        "accessibility": 0.85,
-        "best-practices": 0.83,
-        "seo": 0.85,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "server": "ia902503.us.archive.org",
-  "uniq": 1434541874,
+  "server": "ia802503.us.archive.org",
+  "uniq": 1503077484,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

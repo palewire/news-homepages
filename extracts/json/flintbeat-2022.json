@@ -1,5 +1,5 @@
 {
-  "created": 1658963286,
+  "created": 1659006805,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/10/items/flintbeat-2022",
@@ -4495,31 +4495,83 @@
       "format": "JSON"
     },
     {
+      "name": "flintbeat-2022-07-27T18:07:06.923857-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flintbeat-2022-07-27T18:07:06.923857-05:00.jpg",
+      "mtime": "1658974463",
+      "size": "9449",
+      "md5": "f4b98e3462f3755d246d5aa0093df32a",
+      "crc32": "906c7994",
+      "sha1": "151d930e59a9f8e879cf4b3fdcb8acb38d1e88a6"
+    },
+    {
+      "name": "flintbeat-2022-07-28T06:12:34.542292-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659006759",
+      "size": "36380",
+      "md5": "be18b7313d326bfdd485999a791e854f",
+      "crc32": "eaee351c",
+      "sha1": "b9bddadfe09929ce918c138ce0651f555c92bfe7",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-07-28T06:12:34.542292-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659006761",
+      "size": "31359",
+      "md5": "4225af5f2671d2a76b16065ad8835422",
+      "crc32": "a815ab2e",
+      "sha1": "7e844c5ff82cd58d30a57a4251d4d3c86a5d03ca",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-07-28T06:12:34.542292-05:00.jpg",
+      "source": "original",
+      "mtime": "1659006758",
+      "size": "258907",
+      "md5": "ab8acc519ab64423f0084065828e9b98",
+      "crc32": "8b2428de",
+      "sha1": "a6e246df579d0bcefb5e9f71a233b9a75997236b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flintbeat-2022-07-28T06:12:34.542292-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659006763",
+      "size": "1449",
+      "md5": "a3eea390f341bf834b94ca3d2e938320",
+      "crc32": "3963ce17",
+      "sha1": "efa02b818167e3bfd8e29e96283fe40a2337d5ef",
+      "format": "JSON"
+    },
+    {
       "name": "flintbeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "693c7e5dd26465adeaafcc7659a1668396516042",
-      "mtime": "1658963282",
-      "size": "91802",
-      "md5": "45510a1327c1c0f5c053447f0ad0bda3",
-      "crc32": "b29f814f",
-      "sha1": "f193f7c5ddefccedfc6a3a5d4935bf0804cd3820",
+      "btih": "bdddd5b54ee97f88cacc0bce26fe7b130cc4b679",
+      "mtime": "1659006803",
+      "size": "92846",
+      "md5": "5d7c41172898cf324434dd8b2a38c2e1",
+      "crc32": "27c0645f",
+      "sha1": "a38f97e317aafe1e4fe4808a7b681b09aebc1f0e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flintbeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6ce442fa4eb8c30bda50d883a8a0d090",
+      "md5": "26ce19e4edc25af49cbe9965185395e2",
       "summation": "md5"
     },
     {
       "name": "flintbeat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658963242",
-      "size": "516096",
-      "md5": "a391db4a26c56f4fd4ff1cd6667049c7",
-      "crc32": "d19d5ecf",
-      "sha1": "53d09e418eabe8f260aa17627e2e11df5755be16",
+      "mtime": "1659006766",
+      "size": "520192",
+      "md5": "1db53d85aa8eb783d64f0531cd7babcd",
+      "crc32": "5505cbe8",
+      "sha1": "936ca691b5b5165c2f813666107d5be47192b513",
       "format": "Metadata"
     },
     {
@@ -4533,9 +4585,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 432,
-  "item_last_updated": 1658963282,
-  "item_size": 32192581,
+  "files_count": 437,
+  "item_last_updated": 1659006803,
+  "item_size": 32535265,
   "metadata": {
     "identifier": "flintbeat-2022",
     "collection": [
@@ -4557,7 +4609,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345673365,
+      "task_id": 3346129928,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4565,7 +4617,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1924485396,
+  "uniq": 1881908477,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

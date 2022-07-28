@@ -1,5 +1,5 @@
 {
-  "created": 1658967095,
+  "created": 1659010938,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/26/items/pointreyeslight-2022",
@@ -3329,21 +3329,32 @@
       "format": "JSON"
     },
     {
+      "name": "pointreyeslight-2022-07-27T17:10:36.422602-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pointreyeslight-2022-07-27T17:10:36.422602-07:00.jpg",
+      "mtime": "1658978424",
+      "size": "9186",
+      "md5": "882a597a454896b953fdec4ee90a1d1c",
+      "crc32": "51175048",
+      "sha1": "8a9b67c262da9e6f38f9109b2653a7f910cb3ffe"
+    },
+    {
       "name": "pointreyeslight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "56c48b7fc1be9bc8bd75b23ae9406188c6d94a9e",
-      "mtime": "1658967091",
-      "size": "69938",
-      "md5": "57fc461e72e3465c21d0c19a0630769e",
-      "crc32": "ae04f4f3",
-      "sha1": "a3097098113d5c06420352ae4a9d0c0c5e94e15e",
+      "btih": "5b8ab185a999ca481a0475f81f218036ec0b588e",
+      "mtime": "1658978505",
+      "size": "70149",
+      "md5": "acbad4b82d458dddbf28254342eabac2",
+      "crc32": "d9e08b6a",
+      "sha1": "a6ef21765bb64acfd90114098d7e51cf1daa188f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pointreyeslight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "529ed2bda9ac275ca4e06d53d7432f96",
+      "md5": "3bbbdb9aab3feef9dc2b8675d2740679",
       "summation": "md5"
     },
     {
@@ -3367,9 +3378,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 321,
-  "item_last_updated": 1658967091,
-  "item_size": 20788407,
+  "files_count": 322,
+  "item_last_updated": 1658978505,
+  "item_size": 20797804,
   "metadata": {
     "identifier": "pointreyeslight-2022",
     "collection": [
@@ -3386,21 +3397,51 @@
     "publicdate": "2022-06-30 20:48:29",
     "addeddate": "2022-06-30 20:48:29"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "pointreyeslight-2022": [
     {
-      "task_id": 3345710032,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.ptreyeslight.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ptreyeslight_com-_-2022_07_27_23_51_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ptreyeslight_com-_-2022_07_27_23_51_56.report.json",
+      "summary": {
+        "performance": 0.39,
+        "accessibility": 0.98,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.ptreyeslight.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ptreyeslight_com-_-2022_07_27_23_52_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ptreyeslight_com-_-2022_07_27_23_52_10.report.json",
+      "summary": {
+        "performance": 0.43,
+        "accessibility": 0.98,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.ptreyeslight.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ptreyeslight_com-_-2022_07_27_23_51_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ptreyeslight_com-_-2022_07_27_23_51_43.report.json",
+      "summary": {
+        "performance": 0.44,
+        "accessibility": 0.98,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 408206046,
+  "server": "ia601408.us.archive.org",
+  "uniq": 697348228,
   "workable_servers": [
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

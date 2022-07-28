@@ -1,5 +1,5 @@
 {
-  "created": 1658963082,
+  "created": 1659006556,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/7/items/chesbayjournal-2022",
@@ -1711,31 +1711,83 @@
       "format": "JSON"
     },
     {
+      "name": "chesbayjournal-2022-07-27T19:03:52.288103-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesbayjournal-2022-07-27T19:03:52.288103-04:00.jpg",
+      "mtime": "1658974394",
+      "size": "9987",
+      "md5": "8338b7d8ec37744d40671d6ec2ec8d7a",
+      "crc32": "40a1105a",
+      "sha1": "596059c85abcad0438a448ac35978542175c3366"
+    },
+    {
+      "name": "chesbayjournal-2022-07-28T07:08:15.773550-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659006499",
+      "size": "13499",
+      "md5": "8d45a171ed83e9ea6fb030ab4a9a0bb1",
+      "crc32": "3903ef97",
+      "sha1": "f1e8edf501921d60c583fa55370ddb19cb5df22d",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-07-28T07:08:15.773550-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659006500",
+      "size": "19337",
+      "md5": "67ed22b37f2686ac9471e490b39ab843",
+      "crc32": "3dff133a",
+      "sha1": "a4c158bd92f7678057eaac415b67f9072fe67633",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-07-28T07:08:15.773550-04:00.jpg",
+      "source": "original",
+      "mtime": "1659006497",
+      "size": "380356",
+      "md5": "6854776b4e86321f0f25ee46b784531e",
+      "crc32": "7107379f",
+      "sha1": "74da58c2525d3434452fb4bd03eb9437c513e09b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesbayjournal-2022-07-28T07:08:15.773550-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659006502",
+      "size": "1495",
+      "md5": "8dcdfe5ceabeccaad2dfe52f15187899",
+      "crc32": "39324c21",
+      "sha1": "b641763b669499e8de67c1434e1ae9645cf78d4b",
+      "format": "JSON"
+    },
+    {
       "name": "chesbayjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5e3e683cdf23bfc2f7cd7a9c0219990e012c4870",
-      "mtime": "1658963078",
-      "size": "36853",
-      "md5": "4be6d066ec6d53f074a18942326beb49",
-      "crc32": "f2979127",
-      "sha1": "6edad41449bdc0afcdcad23a9fb228a8c2b9c763",
+      "btih": "f36e9ff60f820c852fcf75d20486b6ff9a6125f3",
+      "mtime": "1659006554",
+      "size": "37942",
+      "md5": "eb8519e6ab4d9ccade6268833cb1e2fe",
+      "crc32": "d6b3507f",
+      "sha1": "46c522ec3f836d0e842939338e2914cc372c562e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chesbayjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "caa52d950e1af83987d4b51bced7e1c9",
+      "md5": "3a41b6314dcb60d8f02da0f5ec3d4c40",
       "summation": "md5"
     },
     {
       "name": "chesbayjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658963043",
-      "size": "217088",
-      "md5": "5a069ac1bd645b3b7dbda68b05036124",
-      "crc32": "d404451d",
-      "sha1": "0511839a8f576e910fa78c9a895dbf8dea3c0193",
+      "mtime": "1659006518",
+      "size": "221184",
+      "md5": "162d1d3dd93c00e24a33368e1ff16bee",
+      "crc32": "c42a5db7",
+      "sha1": "a6ae4efa832d6cb260c7b57c43bd080dd9d1d63d",
       "format": "Metadata"
     },
     {
@@ -1749,9 +1801,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 167,
-  "item_last_updated": 1658963078,
-  "item_size": 15559096,
+  "files_count": 172,
+  "item_last_updated": 1659006554,
+  "item_size": 15988955,
   "metadata": {
     "identifier": "chesbayjournal-2022",
     "collection": [
@@ -1773,7 +1825,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345669988,
+      "task_id": 3346127540,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1781,7 +1833,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1030877565,
+  "uniq": 1037626800,
   "workable_servers": [
     "ia601402.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1658956558,
+  "created": 1659011247,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/4/items/usatoday-2022",
@@ -13979,31 +13979,94 @@
       "format": "JSON"
     },
     {
+      "name": "usatoday-2022-07-27T17:13:14.617489-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usatoday-2022-07-27T17:13:14.617489-04:00.jpg",
+      "mtime": "1658970829",
+      "size": "9366",
+      "md5": "96d87b953a6beb77333e1eb37242db75",
+      "crc32": "caf1d50c",
+      "sha1": "27327d825743cd5dd71557fce0f9189a22784fe7"
+    },
+    {
+      "name": "usatoday-2022-07-27T21:33:38.132568-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658972021",
+      "size": "30752",
+      "md5": "ded62dc64211e0ef452164c315949f25",
+      "crc32": "0da873ea",
+      "sha1": "4e07c6cef7ecfde2f267a9d4817278193a6b5b36",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-07-27T21:33:38.132568-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658972023",
+      "size": "36399",
+      "md5": "7e8d4fb37adc195a33808afab7b0d188",
+      "crc32": "035b7e09",
+      "sha1": "5c3b5233d7be5d03c8cfd8d02bb56eb40cb96d7c",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-07-27T21:33:38.132568-04:00.jpg",
+      "source": "original",
+      "mtime": "1658972020",
+      "size": "287431",
+      "md5": "c702c7ff840582ad86de04a9b5a9ec2e",
+      "crc32": "822a632a",
+      "sha1": "4591e69e0c1f160709da0c3f59ea06df39f67973",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "usatoday-2022-07-27T21:33:38.132568-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658972025",
+      "size": "1477",
+      "md5": "85e93baf47ba2f1263f552e2767f312f",
+      "crc32": "42eb0610",
+      "sha1": "ecc7f368c93d63a1b9f9a13635d8b032b305ba27",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-07-27T21:33:38.132568-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usatoday-2022-07-27T21:33:38.132568-04:00.jpg",
+      "mtime": "1658982256",
+      "size": "9399",
+      "md5": "10148f5fcb1fca8eb4a44a8071264d83",
+      "crc32": "470e409c",
+      "sha1": "e9c6af2d9bc8cc37e6bc91f391196ea8b642f65d"
+    },
+    {
       "name": "usatoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c9ae9955d886bb2980fed44e0ef7028078107c48",
-      "mtime": "1658956549",
-      "size": "282123",
-      "md5": "aaaa4497ff1426e2f807162df85bebda",
-      "crc32": "f45d3b4f",
-      "sha1": "4ec406ae0cf0b6c59ed1359506b5294e64550fd8",
+      "btih": "365509c19a9bc52191ebe4545a33d17b833e6971",
+      "mtime": "1658982359",
+      "size": "283386",
+      "md5": "f4f2e5c3bdaec1383b70a5da2bc74a97",
+      "crc32": "15b412ca",
+      "sha1": "de9512b7daf02975af47af611a5f9df87a88c338",
       "format": "Archive BitTorrent"
     },
     {
       "name": "usatoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fc78defe67b1ee7c9e1c03053f87dac6",
+      "md5": "76a101151138b965998779509379ae7f",
       "summation": "md5"
     },
     {
       "name": "usatoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658956531",
-      "size": "1523712",
-      "md5": "452519e21a90735c982d562ffa0d66c8",
-      "crc32": "00298061",
-      "sha1": "21bb6d867df8065944f462a485d6845318c826d5",
+      "mtime": "1658972030",
+      "size": "1531904",
+      "md5": "887e229560300fd1530cdc112fcef9bd",
+      "crc32": "f50a6ef6",
+      "sha1": "a502e9ae75bdfa703f3d254812951182ad6d9971",
       "format": "Metadata"
     },
     {
@@ -14017,9 +14080,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1334,
-  "item_last_updated": 1658956549,
-  "item_size": 136999779,
+  "files_count": 1340,
+  "item_last_updated": 1658982359,
+  "item_size": 137384058,
   "metadata": {
     "identifier": "usatoday-2022",
     "collection": [
@@ -14036,21 +14099,51 @@
     "publicdate": "2022-03-23 12:05:23",
     "addeddate": "2022-03-23 12:05:23"
   },
-  "pending_tasks": true,
   "server": "ia902501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "uniq": 310647160,
+  "usatoday-2022": [
     {
-      "task_id": 3345603275,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.usatoday.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usatoday_com-_-2022_07_28_01_16_41.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usatoday_com-_-2022_07_28_01_16_41.report.json",
+      "summary": {
+        "performance": 0.42,
+        "accessibility": 0.87,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.usatoday.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usatoday_com-_-2022_07_28_01_18_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usatoday_com-_-2022_07_28_01_18_43.report.json",
+      "summary": {
+        "performance": 0.42,
+        "accessibility": 0.87,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.usatoday.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usatoday_com-_-2022_07_28_01_17_33.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usatoday_com-_-2022_07_28_01_17_33.report.json",
+      "summary": {
+        "performance": 0.42,
+        "accessibility": 0.87,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
     }
   ],
-  "uniq": 1193739256,
   "workable_servers": [
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

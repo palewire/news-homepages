@@ -1,5 +1,5 @@
 {
-  "created": 1658968199,
+  "created": 1659011191,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/14/items/thescotsman-2022",
@@ -1804,31 +1804,83 @@
       "sha1": "cc73633cc53c8bd5b8961a989fc530b5bfd380ff"
     },
     {
+      "name": "thescotsman-2022-07-28T02:31:52.344658+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658971915",
+      "size": "72335",
+      "md5": "39db011e723cd09dc6fc2e10272c232e",
+      "crc32": "7f3e8513",
+      "sha1": "22e7de3a41138590a7dc45d74106b6bf9e102411",
+      "format": "JSON"
+    },
+    {
+      "name": "thescotsman-2022-07-28T02:31:52.344658+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658971917",
+      "size": "69808",
+      "md5": "d8dfd35f4971911ee0a17ba963e3101a",
+      "crc32": "b4101229",
+      "sha1": "ec9d26c30838e83be0adbb50062d0c39d6b9aa4e",
+      "format": "JSON"
+    },
+    {
+      "name": "thescotsman-2022-07-28T02:31:52.344658+01:00.jpg",
+      "source": "original",
+      "mtime": "1658971913",
+      "size": "192034",
+      "md5": "2727e219967db05f02e9493b47cb872d",
+      "crc32": "a9b0341c",
+      "sha1": "4d504485e334fe345d5b83319c02e24c9f2dddf2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thescotsman-2022-07-28T02:31:52.344658+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658971918",
+      "size": "1477",
+      "md5": "6052f68c13fe55a63b157861c5d49923",
+      "crc32": "4da2a0cd",
+      "sha1": "561cffe1785408e765bcb138cbb60be657359228",
+      "format": "JSON"
+    },
+    {
+      "name": "thescotsman-2022-07-28T02:31:52.344658+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thescotsman-2022-07-28T02:31:52.344658+01:00.jpg",
+      "mtime": "1658982019",
+      "size": "8652",
+      "md5": "a27119948d34a1c31d36eba00e834ee6",
+      "crc32": "993581ac",
+      "sha1": "11daa03a08425549840ba911411fca80fee9b192"
+    },
+    {
       "name": "thescotsman-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bd62e293e161dfa9a655c65d1de8f763427ded07",
-      "mtime": "1658949969",
-      "size": "37882",
-      "md5": "45472b2149953585e7c68c4c21329029",
-      "crc32": "8bf80ee6",
-      "sha1": "273bea185b90007045a77a2c00911ae16aa3a2a5",
+      "btih": "5d0020f1f1d433f65e3c5e54a7e47a403d17e97a",
+      "mtime": "1658982031",
+      "size": "38936",
+      "md5": "a3dd901e935c74ce07462a91ce11c4b8",
+      "crc32": "13a1b7e5",
+      "sha1": "2794ea81305dcf1a0d3879b117a2b3a3fba1a8f9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thescotsman-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "76df08678e61c3d0f0ef9bb66a79a3f4",
+      "md5": "c0029a24eba54cff35384801ad8133b9",
       "summation": "md5"
     },
     {
       "name": "thescotsman-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658928350",
-      "size": "212992",
-      "md5": "fe814327aaa205066c3e0170b2283bb8",
-      "crc32": "3368e22f",
-      "sha1": "c0e813266b1c7daff94e2ca579ee3e127cc36fda",
+      "mtime": "1658971922",
+      "size": "225280",
+      "md5": "f570dfb35fce522e8e6fc980d3128e41",
+      "crc32": "36cbbadd",
+      "sha1": "626183e69d3439f637045fee60938d8627926e54",
       "format": "Metadata"
     },
     {
@@ -1842,9 +1894,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 175,
-  "item_last_updated": 1658949969,
-  "item_size": 14315206,
+  "files_count": 180,
+  "item_last_updated": 1658982031,
+  "item_size": 14672854,
   "metadata": {
     "identifier": "thescotsman-2022",
     "collection": [
@@ -1861,15 +1913,15 @@
     "publicdate": "2022-07-06 21:13:25",
     "addeddate": "2022-07-06 21:13:25"
   },
-  "server": "ia601406.us.archive.org",
+  "server": "ia801406.us.archive.org",
   "thescotsman-2022": [
     {
       "url": "https://www.scotsman.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_scotsman_com-_-2022_07_27_12_52_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_scotsman_com-_-2022_07_27_12_52_38.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_scotsman_com-_-2022_07_28_01_13_47.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_scotsman_com-_-2022_07_28_01_13_47.report.json",
       "summary": {
-        "performance": 0.25,
+        "performance": 0.14,
         "accessibility": 0.85,
         "best-practices": 0.92,
         "seo": 0.83,
@@ -1879,10 +1931,10 @@
     {
       "url": "https://www.scotsman.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_scotsman_com-_-2022_07_27_12_53_57.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_scotsman_com-_-2022_07_27_12_53_57.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_scotsman_com-_-2022_07_28_01_14_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_scotsman_com-_-2022_07_28_01_14_34.report.json",
       "summary": {
-        "performance": 0.28,
+        "performance": 0.24,
         "accessibility": 0.85,
         "best-practices": 0.92,
         "seo": 0.83,
@@ -1892,10 +1944,10 @@
     {
       "url": "https://www.scotsman.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_scotsman_com-_-2022_07_27_12_53_21.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_scotsman_com-_-2022_07_27_12_53_21.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_scotsman_com-_-2022_07_28_01_15_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_scotsman_com-_-2022_07_28_01_15_10.report.json",
       "summary": {
-        "performance": 0.27,
+        "performance": 0.26,
         "accessibility": 0.85,
         "best-practices": 0.92,
         "seo": 0.83,
@@ -1903,9 +1955,9 @@
       }
     }
   ],
-  "uniq": 1670056802,
+  "uniq": 998228749,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia801406.us.archive.org",
+    "ia601406.us.archive.org"
   ]
 }

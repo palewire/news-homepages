@@ -1,5 +1,5 @@
 {
-  "created": 1658966754,
+  "created": 1659010597,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/19/items/kxan_news-2022",
@@ -1009,21 +1009,32 @@
       "format": "JSON"
     },
     {
+      "name": "kxan_news-2022-07-27T19:05:07.276943-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kxan_news-2022-07-27T19:05:07.276943-05:00.jpg",
+      "mtime": "1658977928",
+      "size": "10596",
+      "md5": "d5510c22d3f7c228463f6e78417b72e5",
+      "crc32": "1bf1cf1e",
+      "sha1": "6014d647a4f07796927dcf3f3713187147556025"
+    },
+    {
       "name": "kxan_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "41d010d748f6da0ea7fd48134a007c61e7c6cbeb",
-      "mtime": "1658966752",
-      "size": "21848",
-      "md5": "6ccbf9d9908ff2077d018de38bc27ddf",
-      "crc32": "1cc8e73b",
-      "sha1": "acfe8adbb219a0646141217356765355cd7c50bb",
+      "btih": "b893e33f466087cd8ac5503bff7b865f3df66704",
+      "mtime": "1658977942",
+      "size": "22054",
+      "md5": "71d1169e9780d14eb367b6f8f9724d08",
+      "crc32": "07d58694",
+      "sha1": "111f904874d531709c15c98f7d3f3df9a7c4596b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kxan_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b3ed85f7a255e198420debb6c3510a0a",
+      "md5": "18fa79159e485354af764d69fe0c4c7c",
       "summation": "md5"
     },
     {
@@ -1047,9 +1058,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 100,
-  "item_last_updated": 1658966752,
-  "item_size": 10080032,
+  "files_count": 101,
+  "item_last_updated": 1658977942,
+  "item_size": 10090834,
+  "kxan_news-2022": [
+    {
+      "url": "https://www.kxan.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kxan_com-_-2022_07_27_23_43_32.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kxan_com-_-2022_07_27_23_43_32.report.json",
+      "summary": {
+        "performance": 0.09,
+        "accessibility": 0.78,
+        "best-practices": 0.92,
+        "seo": 0.84,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.kxan.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kxan_com-_-2022_07_27_23_44_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kxan_com-_-2022_07_27_23_44_17.report.json",
+      "summary": {
+        "performance": 0.09,
+        "accessibility": 0.78,
+        "best-practices": 0.92,
+        "seo": 0.84,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.kxan.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kxan_com-_-2022_07_27_23_45_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kxan_com-_-2022_07_27_23_45_01.report.json",
+      "summary": {
+        "performance": 0.09,
+        "accessibility": 0.78,
+        "best-practices": 0.92,
+        "seo": 0.84,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "kxan_news-2022",
     "collection": [
@@ -1066,21 +1118,10 @@
     "publicdate": "2022-07-18 00:05:12",
     "addeddate": "2022-07-18 00:05:12"
   },
-  "pending_tasks": true,
-  "server": "ia902501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3345706596,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 382378871,
+  "server": "ia802501.us.archive.org",
+  "uniq": 1136338324,
   "workable_servers": [
+    "ia802501.us.archive.org",
     "ia902501.us.archive.org"
   ]
 }

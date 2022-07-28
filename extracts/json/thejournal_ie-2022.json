@@ -1,5 +1,5 @@
 {
-  "created": 1658957737,
+  "created": 1658990460,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/14/items/thejournal_ie-2022",
@@ -936,31 +936,83 @@
       "sha1": "bc3c8f4172e2726c59dc180b8e3ed5927661ef1b"
     },
     {
+      "name": "thejournal_ie-2022-07-28T04:47:24.049081+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658980047",
+      "size": "64691",
+      "md5": "ab7fd02b502a00c210129fa667096ade",
+      "crc32": "d931297b",
+      "sha1": "9bc1d50ffc5412da52590c8b035dc540e126f0ab",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-07-28T04:47:24.049081+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658980049",
+      "size": "61140",
+      "md5": "bf579a0d075b76e6b7e40579137c3003",
+      "crc32": "3bbecf62",
+      "sha1": "d8dd043e057747ccfc7abad52a0feb446cc82a47",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-07-28T04:47:24.049081+01:00.jpg",
+      "source": "original",
+      "mtime": "1658980046",
+      "size": "306470",
+      "md5": "abbacd093ff32c9b3a8df71e2110b9c5",
+      "crc32": "32a26c3a",
+      "sha1": "334d2782745a7068c2a2a822a24d11b96b817881",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thejournal_ie-2022-07-28T04:47:24.049081+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658980050",
+      "size": "1486",
+      "md5": "39d9f1dd1743dc0384659cc4603bbbf0",
+      "crc32": "a6b3b667",
+      "sha1": "40903cd8e5d495423505af6d9b537e0177ca408d",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-07-28T04:47:24.049081+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thejournal_ie-2022-07-28T04:47:24.049081+01:00.jpg",
+      "mtime": "1658990349",
+      "size": "9369",
+      "md5": "dacb8553c36048541056bba7ec265600",
+      "crc32": "57856327",
+      "sha1": "c763a4fac1a8ca931cd8ebbca5aab7cfa1739f7e"
+    },
+    {
       "name": "thejournal_ie-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d3085607fd5957ddef2f0251d4ac4c12ec6284d8",
-      "mtime": "1658957724",
-      "size": "20693",
-      "md5": "daece26a0da1b8ba0de229ec5906cfe3",
-      "crc32": "51f6ccd6",
-      "sha1": "feb019ca031a5756e9fcf63537cfed581c42ba46",
+      "btih": "8f9dbb5cf186c4ae6ef811f445b8ee52cb827f92",
+      "mtime": "1658990363",
+      "size": "21777",
+      "md5": "1971077ce481273ad900028ec4dec0ed",
+      "crc32": "bbf450e7",
+      "sha1": "b55e293d2259600d1893fd6b0ed9240824fc3654",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thejournal_ie-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3a59c1b1c920ed0a43ab6aa730e04d8d",
+      "md5": "01649be4f27b4a3654ecc075b86e616a",
       "summation": "md5"
     },
     {
       "name": "thejournal_ie-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658936947",
-      "size": "131072",
-      "md5": "3bef36a0913a02a4b0784562c56d0555",
-      "crc32": "5281968d",
-      "sha1": "dc1588c107fe353dddcdeb5a95da8fea18e57162",
+      "mtime": "1658980053",
+      "size": "135168",
+      "md5": "43f5fc5cce91a0ac2d0f5781b1455c2e",
+      "crc32": "80a0d0ee",
+      "sha1": "bf98c5e15485c84088cccd2813d6407f45ff1ac0",
       "format": "Metadata"
     },
     {
@@ -974,9 +1026,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 93,
-  "item_last_updated": 1658957724,
-  "item_size": 8901508,
+  "files_count": 98,
+  "item_last_updated": 1658990363,
+  "item_size": 9349844,
   "metadata": {
     "identifier": "thejournal_ie-2022",
     "collection": [
@@ -994,7 +1046,7 @@
     "addeddate": "2022-07-18 04:17:36"
   },
   "server": "ia802502.us.archive.org",
-  "uniq": 385403072,
+  "uniq": 1241357673,
   "workable_servers": [
     "ia802502.us.archive.org",
     "ia902502.us.archive.org"

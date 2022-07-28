@@ -1,5 +1,5 @@
 {
-  "created": 1658953074,
+  "created": 1659010640,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/24/items/laopinioncoruna-2022",
@@ -172,31 +172,83 @@
       "sha1": "cc0a21a0939e5c20725b1055698f886833a979a1"
     },
     {
+      "name": "laopinioncoruna-2022-07-28T04:40:30.870090+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658976033",
+      "size": "91802",
+      "md5": "25a8c73175c35d2b1670603b851bd632",
+      "crc32": "bf9655a9",
+      "sha1": "347ed82b47a1a932a7151c4c6cab5c45ca0a1e63",
+      "format": "JSON"
+    },
+    {
+      "name": "laopinioncoruna-2022-07-28T04:40:30.870090+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658976035",
+      "size": "145435",
+      "md5": "02354a36c49f3dd4a131967c0dfb22a3",
+      "crc32": "87c9ca9d",
+      "sha1": "5d83a6294c0f8830f596b4714ec4beed886500b3",
+      "format": "JSON"
+    },
+    {
+      "name": "laopinioncoruna-2022-07-28T04:40:30.870090+02:00.jpg",
+      "source": "original",
+      "mtime": "1658976032",
+      "size": "243890",
+      "md5": "fb2e23dba18b01ce7b99b5f5ea40048d",
+      "crc32": "77f3eccd",
+      "sha1": "0eb1bcf5689ed46cdc5b90692c40711f04c2bbb9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laopinioncoruna-2022-07-28T04:40:30.870090+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658976036",
+      "size": "1531",
+      "md5": "4bc8ed0a9786a69ae064979d709c139d",
+      "crc32": "ab4b7a7c",
+      "sha1": "4aa0334d4335bc4448bf1e60070ac415e3cf1299",
+      "format": "JSON"
+    },
+    {
+      "name": "laopinioncoruna-2022-07-28T04:40:30.870090+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laopinioncoruna-2022-07-28T04:40:30.870090+02:00.jpg",
+      "mtime": "1658985816",
+      "size": "9266",
+      "md5": "4d6cbf78266bd74638d7187f63600ae6",
+      "crc32": "2c8f4870",
+      "sha1": "7378467b40f5f38eb732eb8b679bede50117239a"
+    },
+    {
       "name": "laopinioncoruna-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dd2b8e48411ac7cfe1c5bfe5a6305d4123a56ba1",
-      "mtime": "1658953032",
-      "size": "4974",
-      "md5": "f251ac6e9e02fd8a9d22ce8d4d21962b",
-      "crc32": "68b18c33",
-      "sha1": "c9df3d9f453a5bb31d7226f5134f6035bf00daea",
+      "btih": "60e1a0b3cd27a3377f2dcfb27942fff2aaf52d8e",
+      "mtime": "1658985862",
+      "size": "6070",
+      "md5": "01d08db65ab0c701883a6b441f43a5ac",
+      "crc32": "88d857ad",
+      "sha1": "57a7248b1a0c2c6447ed9a0f615ef339dca4448a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "laopinioncoruna-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7b164380e8254421259d1acc7f3ef41b",
+      "md5": "2ef3ab4fa9da9a4d274b9de46dc9ccb8",
       "summation": "md5"
     },
     {
       "name": "laopinioncoruna-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658932404",
-      "size": "36864",
-      "md5": "ffd7c5a9bfe6b6141a7704464e68b2cb",
-      "crc32": "96a34ec6",
-      "sha1": "15beba545aae3eb13c592cee8c2dba6ef8d55139",
+      "mtime": "1658976040",
+      "size": "45056",
+      "md5": "10803420935c16770e4a08f53cc8b259",
+      "crc32": "b03db531",
+      "sha1": "b2806d69e57628b3d4df4a2d72268a1fdeb4ad76",
       "format": "Metadata"
     },
     {
@@ -210,9 +262,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 20,
-  "item_last_updated": 1658953032,
-  "item_size": 1607193,
+  "files_count": 25,
+  "item_last_updated": 1658985862,
+  "item_size": 2108405,
+  "laopinioncoruna-2022": [
+    {
+      "url": "https://www.laopinioncoruna.es/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_laopinioncoruna_es-_-2022_07_28_02_20_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_laopinioncoruna_es-_-2022_07_28_02_20_05.report.json",
+      "summary": {
+        "performance": 0.19,
+        "accessibility": 0.83,
+        "best-practices": 0.83,
+        "seo": 0.82,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.laopinioncoruna.es/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_laopinioncoruna_es-_-2022_07_28_02_20_30.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_laopinioncoruna_es-_-2022_07_28_02_20_30.report.json",
+      "summary": {
+        "performance": 0.27,
+        "accessibility": 0.83,
+        "best-practices": 0.83,
+        "seo": 0.82,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.laopinioncoruna.es/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_laopinioncoruna_es-_-2022_07_28_02_20_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_laopinioncoruna_es-_-2022_07_28_02_20_54.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.83,
+        "best-practices": 0.83,
+        "seo": 0.82,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "laopinioncoruna-2022",
     "collection": [
@@ -230,7 +323,7 @@
     "addeddate": "2022-07-26 14:39:41"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 309238099,
+  "uniq": 1979407650,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

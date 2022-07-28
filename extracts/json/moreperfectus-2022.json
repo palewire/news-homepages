@@ -1,5 +1,5 @@
 {
-  "created": 1658966883,
+  "created": 1659010743,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/7/items/moreperfectus-2022",
@@ -807,21 +807,32 @@
       "format": "JSON"
     },
     {
+      "name": "moreperfectus-2022-07-27T20:07:12.535087-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "moreperfectus-2022-07-27T20:07:12.535087-04:00.jpg",
+      "mtime": "1658978252",
+      "size": "10406",
+      "md5": "f07b0299da121ed880c3dc2b7ee69a77",
+      "crc32": "6b9a2ca2",
+      "sha1": "1a51e9509e41d90c0e2ad59ff1fe7f616c6b6ca5"
+    },
+    {
       "name": "moreperfectus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "58e31151197e39c8d418922d932e2f83a2b0bf5f",
-      "mtime": "1658966879",
-      "size": "18028",
-      "md5": "8d92ef9ebf31675bc58348de64cd228e",
-      "crc32": "a70f2eb3",
-      "sha1": "7d88edec2c98d4954215c67edcb54ceac94a4f31",
+      "btih": "cac52740e0667750e3cf6694e8e0a4e5e54659c7",
+      "mtime": "1658978371",
+      "size": "18238",
+      "md5": "0e7059867bd326eab27362623b4d4305",
+      "crc32": "a8a81a7c",
+      "sha1": "9411850bd5a0e90fbbc119f2f1aaa4948877d7e3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "moreperfectus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "55c5d8ef05e65708fcf925da822233b4",
+      "md5": "d0de5165e77f0c7e4685e94b902b2dad",
       "summation": "md5"
     },
     {
@@ -845,9 +856,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 81,
-  "item_last_updated": 1658966879,
-  "item_size": 5368592,
+  "files_count": 82,
+  "item_last_updated": 1658978371,
+  "item_size": 5379208,
   "metadata": {
     "identifier": "moreperfectus-2022",
     "collection": [
@@ -864,21 +875,51 @@
     "publicdate": "2022-07-23 03:32:08",
     "addeddate": "2022-07-23 03:32:08"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "moreperfectus-2022": [
     {
-      "task_id": 3345707998,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://perfectunion.us/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/perfectunion_us-_-2022_07_27_23_46_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/perfectunion_us-_-2022_07_27_23_46_11.report.json",
+      "summary": {
+        "performance": 0.42,
+        "accessibility": 0.92,
+        "best-practices": 0.75,
+        "seo": 0.93,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://perfectunion.us/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/perfectunion_us-_-2022_07_27_23_46_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/perfectunion_us-_-2022_07_27_23_46_26.report.json",
+      "summary": {
+        "performance": 0.39,
+        "accessibility": 0.92,
+        "best-practices": 0.75,
+        "seo": 0.93,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://perfectunion.us/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/perfectunion_us-_-2022_07_27_23_46_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/perfectunion_us-_-2022_07_27_23_46_39.report.json",
+      "summary": {
+        "performance": 0.45,
+        "accessibility": 0.92,
+        "best-practices": 0.75,
+        "seo": 0.93,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 1179298975,
+  "server": "ia801409.us.archive.org",
+  "uniq": 814043220,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658968084,
+  "created": 1659011060,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/15/items/shillsalmanac-2022",
@@ -245,21 +245,32 @@
       "format": "JSON"
     },
     {
+      "name": "shillsalmanac-2022-07-27T20:12:06.221246-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shillsalmanac-2022-07-27T20:12:06.221246-04:00.jpg",
+      "mtime": "1658978775",
+      "size": "9627",
+      "md5": "6514d2c55c7d3eb46d6b1482dc7c1163",
+      "crc32": "daed58b7",
+      "sha1": "e4e9da324ee18562855c1ee8dd58cd690e79ab7e"
+    },
+    {
       "name": "shillsalmanac-2022_archive.torrent",
       "source": "metadata",
-      "btih": "041f52a3299b8d7f0a7fa7adc83df8b8c8f882ef",
-      "mtime": "1658967170",
-      "size": "6408",
-      "md5": "f5983f357c5cf0f6518686fd720b1455",
-      "crc32": "37f7eef6",
-      "sha1": "fb088d3a9bbe658240a7c76579364db69a2c8d2d",
+      "btih": "476604716e38b3e74aad6e0cfad7d2564efdd116",
+      "mtime": "1658978836",
+      "size": "6617",
+      "md5": "78b56dada8b109d4ba6ce4c14e450acb",
+      "crc32": "cf60921c",
+      "sha1": "fd69de3f3d57bd9564ba4cb5e651ec67ec805a89",
       "format": "Archive BitTorrent"
     },
     {
       "name": "shillsalmanac-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "44aac7265709fe769d85f3ca3c8848a1",
+      "md5": "a65be6d14744608069c98c899b2b3a8d",
       "summation": "md5"
     },
     {
@@ -283,9 +294,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 27,
-  "item_last_updated": 1658967170,
-  "item_size": 1757523,
+  "files_count": 28,
+  "item_last_updated": 1658978836,
+  "item_size": 1767359,
   "metadata": {
     "identifier": "shillsalmanac-2022",
     "collection": [
@@ -302,9 +313,7 @@
     "publicdate": "2022-07-26 00:25:03",
     "addeddate": "2022-07-26 00:25:03"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
+  "server": "ia802500.us.archive.org",
   "shillsalmanac-2022": [
     {
       "url": "https://thealmanac.net/",
@@ -346,18 +355,9 @@
       }
     }
   ],
-  "tasks": [
-    {
-      "task_id": 3345710888,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1073569849,
+  "uniq": 370304418,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

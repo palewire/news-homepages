@@ -1,5 +1,5 @@
 {
-  "created": 1658966867,
+  "created": 1659010741,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/3/items/mo_independent-2022",
@@ -2111,21 +2111,32 @@
       "format": "JSON"
     },
     {
+      "name": "mo_independent-2022-07-27T19:06:55.548888-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mo_independent-2022-07-27T19:06:55.548888-05:00.jpg",
+      "mtime": "1658980996",
+      "size": "10230",
+      "md5": "8631928a6ba287ada204cfc0f01be878",
+      "crc32": "838c552c",
+      "sha1": "a9c3969cf90113a3ab8cda389e745d3b913c034c"
+    },
+    {
       "name": "mo_independent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dbd90655f8990c448a5ea37c908be6e0757eda46",
-      "mtime": "1658966864",
-      "size": "45060",
-      "md5": "7a396b5d7d3a75be9cf2d173c81ed963",
-      "crc32": "0d0366f7",
-      "sha1": "acbebafb2d300e48b707256aaf7bf45382c028a7",
+      "btih": "931cc9428165b544bb2798e7dc580f23cf7dabe9",
+      "mtime": "1658981107",
+      "size": "45271",
+      "md5": "f0493a361786ab402930a3a5cfe61d7e",
+      "crc32": "6418f624",
+      "sha1": "01cbb20741d5b933a9d8437a301f4a6bde360a98",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mo_independent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bd84095baefa195701fdb2b931c497fe",
+      "md5": "457e84abdf21307fff493195091f4347",
       "summation": "md5"
     },
     {
@@ -2149,9 +2160,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 205,
-  "item_last_updated": 1658966864,
-  "item_size": 17436601,
+  "files_count": 206,
+  "item_last_updated": 1658981107,
+  "item_size": 17447042,
   "metadata": {
     "identifier": "mo_independent-2022",
     "collection": [
@@ -2168,21 +2179,51 @@
     "publicdate": "2022-07-04 21:56:43",
     "addeddate": "2022-07-04 21:56:43"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "mo_independent-2022": [
     {
-      "task_id": 3345707829,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://missouriindependent.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missouriindependent_com-_-2022_07_27_23_46_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missouriindependent_com-_-2022_07_27_23_46_05.report.json",
+      "summary": {
+        "performance": 0.6,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://missouriindependent.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missouriindependent_com-_-2022_07_27_23_46_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missouriindependent_com-_-2022_07_27_23_46_17.report.json",
+      "summary": {
+        "performance": 0.71,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://missouriindependent.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missouriindependent_com-_-2022_07_27_23_46_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missouriindependent_com-_-2022_07_27_23_46_28.report.json",
+      "summary": {
+        "performance": 0.7,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 738945556,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1965804308,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

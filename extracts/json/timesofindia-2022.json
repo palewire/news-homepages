@@ -1,5 +1,5 @@
 {
-  "created": 1658959181,
+  "created": 1659011217,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/35/items/timesofindia-2022",
@@ -474,31 +474,83 @@
       "sha1": "708fe19d23f13ef16b54d5ee084d3a6cee477f40"
     },
     {
+      "name": "timesofindia-2022-07-28T09:18:11.610657+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1658980094",
+      "size": "61554",
+      "md5": "970e5c6bed0da3a81dae3d57e0010289",
+      "crc32": "3efc691e",
+      "sha1": "0783b5c5dabcc0705dd20c1d4107a4382e153b00",
+      "format": "JSON"
+    },
+    {
+      "name": "timesofindia-2022-07-28T09:18:11.610657+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658980101",
+      "size": "91346",
+      "md5": "d972f93c67eb458f8b243a1586a7e776",
+      "crc32": "540323c0",
+      "sha1": "efea949070ba1c64dfbad9e1f6d51e45aa428508",
+      "format": "JSON"
+    },
+    {
+      "name": "timesofindia-2022-07-28T09:18:11.610657+05:30.jpg",
+      "source": "original",
+      "mtime": "1658980093",
+      "size": "272173",
+      "md5": "c1c73390fc3b88f138f55a3cff58b2fd",
+      "crc32": "bb62e09b",
+      "sha1": "9bf47b8ffa29ff29a1267c8e91cf634948af6e61",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesofindia-2022-07-28T09:18:11.610657+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1658980102",
+      "size": "1503",
+      "md5": "bfde2b173f2409aa35aade6af65a8ccb",
+      "crc32": "d54a4eb3",
+      "sha1": "65d874c92ecb0bd8123cfbbc938c6e799774fac7",
+      "format": "JSON"
+    },
+    {
+      "name": "timesofindia-2022-07-28T09:18:11.610657+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesofindia-2022-07-28T09:18:11.610657+05:30.jpg",
+      "mtime": "1658990423",
+      "size": "8611",
+      "md5": "04eeb0b392ae89737a41d5d13efeb667",
+      "crc32": "f098c572",
+      "sha1": "8e52b988e80eed0eab671e68c85926afb267a26a"
+    },
+    {
       "name": "timesofindia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1d958aa0ee09fc62ff3d7c13c6ce55ae745c0670",
-      "mtime": "1658959122",
-      "size": "11119",
-      "md5": "6c590de4e5665c850a2b11bc59ee1006",
-      "crc32": "31f8fa78",
-      "sha1": "293374fb3ba89fb9f1cfa6799b27dcad6f0949ed",
+      "btih": "bcaf5e2c088dcc83e3e7cb860c5ae3ff3b7df78c",
+      "mtime": "1658990430",
+      "size": "12198",
+      "md5": "0b77911862c0ab8c33753806c6f76be3",
+      "crc32": "f9159d46",
+      "sha1": "caf1916827369d9afe97cbbd8bd5b087da93e2ee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesofindia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cb17328cdf1c5b65e562de2a72983275",
+      "md5": "cc42e1735d96699207e3a3201275fb72",
       "summation": "md5"
     },
     {
       "name": "timesofindia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658942369",
-      "size": "69632",
-      "md5": "f09c106d1c28eb5865dba09bddedf464",
-      "crc32": "5d0828d2",
-      "sha1": "46b5ae86bd79483a58c7477166fae4dd874ef52b",
+      "mtime": "1658980106",
+      "size": "73728",
+      "md5": "c33b39431ac9c9a691b3de703f9cb921",
+      "crc32": "9925b300",
+      "sha1": "a5306600f89de09153662cd463f91a91c5109a3a",
       "format": "Metadata"
     },
     {
@@ -512,9 +564,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 49,
-  "item_last_updated": 1658959122,
-  "item_size": 3883804,
+  "files_count": 54,
+  "item_last_updated": 1658990430,
+  "item_size": 4324166,
   "metadata": {
     "identifier": "timesofindia-2022",
     "collection": [
@@ -531,10 +583,51 @@
     "publicdate": "2022-07-24 03:43:40",
     "addeddate": "2022-07-24 03:43:40"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 1532584163,
+  "server": "ia801501.us.archive.org",
+  "timesofindia-2022": [
+    {
+      "url": "https://m.timesofindia.com/us",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_timesofindia_com-_us-2022_07_28_03_11_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_timesofindia_com-_us-2022_07_28_03_11_01.report.json",
+      "summary": {
+        "performance": 0.26,
+        "accessibility": 0.93,
+        "best-practices": 0.67,
+        "seo": 1,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://m.timesofindia.com/us",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_timesofindia_com-_us-2022_07_28_03_11_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_timesofindia_com-_us-2022_07_28_03_11_31.report.json",
+      "summary": {
+        "performance": 0.24,
+        "accessibility": 0.91,
+        "best-practices": 0.67,
+        "seo": 1,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://m.timesofindia.com/us",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_timesofindia_com-_us-2022_07_28_03_10_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_timesofindia_com-_us-2022_07_28_03_10_27.report.json",
+      "summary": {
+        "performance": 0.26,
+        "accessibility": 0.93,
+        "best-practices": 0.5,
+        "seo": 1,
+        "pwa": 0.6
+      }
+    }
+  ],
+  "uniq": 2029539864,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

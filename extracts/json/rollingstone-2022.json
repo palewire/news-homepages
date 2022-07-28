@@ -1,5 +1,5 @@
 {
-  "created": 1658967150,
+  "created": 1659011013,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/19/items/rollingstone-2022",
@@ -3391,21 +3391,32 @@
       "format": "JSON"
     },
     {
+      "name": "rollingstone-2022-07-27T20:11:27.194653-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollingstone-2022-07-27T20:11:27.194653-04:00.jpg",
+      "mtime": "1658978632",
+      "size": "11597",
+      "md5": "7e48d46a42422f5cb28b4d8dace52f33",
+      "crc32": "58d915ce",
+      "sha1": "8dacc5d8eaf04b0d1e49dacbabb12433748e6a9f"
+    },
+    {
       "name": "rollingstone-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b4229e358f53cee7d1a56c4eb111057947ee9b8f",
-      "mtime": "1658967144",
-      "size": "70791",
-      "md5": "23f7d4c50c1bb701924f3d7b19695474",
-      "crc32": "6ca76214",
-      "sha1": "8efea103258a85185884a0fcac6ebeb7aac05975",
+      "btih": "381246d037f9885244782669844480a3bed151cc",
+      "mtime": "1658978667",
+      "size": "71000",
+      "md5": "712118efa5664f9ddf5bfc6ae85a358b",
+      "crc32": "4a08049a",
+      "sha1": "cf2f1f1d2bb85f4b32a04f77c3848741b9af5354",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollingstone-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "426dc9b951cd35c153677ceda305c3b3",
+      "md5": "3b65a815048be801c940630943ad96df",
       "summation": "md5"
     },
     {
@@ -3429,9 +3440,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 326,
-  "item_last_updated": 1658967144,
-  "item_size": 34609736,
+  "files_count": 327,
+  "item_last_updated": 1658978667,
+  "item_size": 34621542,
   "metadata": {
     "identifier": "rollingstone-2022",
     "collection": [
@@ -3448,21 +3459,51 @@
     "publicdate": "2022-06-24 23:00:28",
     "addeddate": "2022-06-24 23:00:28"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "rollingstone-2022": [
     {
-      "task_id": 3345710663,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.rollingstone.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rollingstone_com-_-2022_07_27_23_52_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rollingstone_com-_-2022_07_27_23_52_53.report.json",
+      "summary": {
+        "performance": 0.17,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.rollingstone.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rollingstone_com-_-2022_07_27_23_54_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rollingstone_com-_-2022_07_27_23_54_21.report.json",
+      "summary": {
+        "performance": 0.19,
+        "accessibility": 0.88,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.rollingstone.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rollingstone_com-_-2022_07_27_23_55_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rollingstone_com-_-2022_07_27_23_55_43.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.88,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.7
+      }
     }
   ],
-  "uniq": 2001791418,
+  "server": "ia601500.us.archive.org",
+  "uniq": 582768140,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

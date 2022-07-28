@@ -1,5 +1,5 @@
 {
-  "created": 1658950393,
+  "created": 1659011215,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/28/items/time-2022",
@@ -3562,31 +3562,83 @@
       "sha1": "8b53f29550297dcfa01f9e55bd9b5ad857b2cb9a"
     },
     {
+      "name": "time-2022-07-27T21:32:41.537367-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658971964",
+      "size": "41554",
+      "md5": "eaff41be70a3df65ae1b9476ee896680",
+      "crc32": "a302bbf4",
+      "sha1": "144eb2cb51cce9c935f782c2267cd3a5c9d36119",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-07-27T21:32:41.537367-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658971966",
+      "size": "51167",
+      "md5": "3381117e04ff4b279637bb0099deef58",
+      "crc32": "0f041316",
+      "sha1": "46a485a85c36b60b0c1a7f1fe100426a99d6b594",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-07-27T21:32:41.537367-04:00.jpg",
+      "source": "original",
+      "mtime": "1658971962",
+      "size": "285117",
+      "md5": "1f6c29989ca3965a3ee4e7e615dcd5b6",
+      "crc32": "1568523f",
+      "sha1": "aae43dfa0e79fe2b7c3abf669aecfa1e30c31a89",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "time-2022-07-27T21:32:41.537367-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658971967",
+      "size": "1405",
+      "md5": "1e1eb27ec19ad98f099a48a4f109f2fd",
+      "crc32": "7e1381b5",
+      "sha1": "25a3d08b33a70083dbfc7d11f2973ac95cb62145",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-07-27T21:32:41.537367-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "time-2022-07-27T21:32:41.537367-04:00.jpg",
+      "mtime": "1658982123",
+      "size": "10143",
+      "md5": "3eab47dca3612ddde0457eb21fbca7be",
+      "crc32": "bcea169d",
+      "sha1": "1a9b64d2a1e40fb6b95352b438f55bf0f3c04ad3"
+    },
+    {
       "name": "time-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c220ac1f4cd7873961a5c6869397db1fa3f7bfc2",
-      "mtime": "1658950253",
-      "size": "71624",
-      "md5": "dd664214a3fe4eccdc84f89541bddd39",
-      "crc32": "408a4b68",
-      "sha1": "00cbf94ca4241b8253981234554525c58eabd4d0",
+      "btih": "289b16726d931a498bda6420d57d64c5778a9922",
+      "mtime": "1658982203",
+      "size": "72664",
+      "md5": "1e456741d072a2f0919af89bf80928d5",
+      "crc32": "833bf5b1",
+      "sha1": "280c52c842da862c8f53c70cfe32b059a5c0f6ad",
       "format": "Archive BitTorrent"
     },
     {
       "name": "time-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e0fe8b17f0000366e0d0020b14a07b24",
+      "md5": "c076c3d20a00841ff3b08130f1c79254",
       "summation": "md5"
     },
     {
       "name": "time-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658928343",
-      "size": "405504",
-      "md5": "9760798dd9d095946296ea0e148bb74a",
-      "crc32": "8d52a845",
-      "sha1": "dc999bb338b1074d0293c45e76a7d0ae361ec4c3",
+      "mtime": "1658972010",
+      "size": "413696",
+      "md5": "6497354749a8778ba2046748faa65c76",
+      "crc32": "6e867761",
+      "sha1": "8b9994e135f6a4efda108b423988219c18a6bca3",
       "format": "Metadata"
     },
     {
@@ -3600,9 +3652,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 343,
-  "item_last_updated": 1658950253,
-  "item_size": 33016157,
+  "files_count": 348,
+  "item_last_updated": 1658982203,
+  "item_size": 33414775,
   "metadata": {
     "identifier": "time-2022",
     "collection": [
@@ -3620,7 +3672,48 @@
     "addeddate": "2022-06-24 23:04:02"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 1274294308,
+  "time-2022": [
+    {
+      "url": "https://time.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/time_com-_-2022_07_28_01_14_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/time_com-_-2022_07_28_01_14_46.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.98,
+        "best-practices": 0.92,
+        "seo": 0.85,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://time.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/time_com-_-2022_07_28_01_15_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/time_com-_-2022_07_28_01_15_17.report.json",
+      "summary": {
+        "performance": 0.22,
+        "accessibility": 0.98,
+        "best-practices": null,
+        "seo": 0.85,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://time.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/time_com-_-2022_07_28_01_14_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/time_com-_-2022_07_28_01_14_11.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.98,
+        "best-practices": 0.92,
+        "seo": 0.85,
+        "pwa": 0.7
+      }
+    }
+  ],
+  "uniq": 1973479844,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

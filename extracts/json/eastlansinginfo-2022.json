@@ -1,49 +1,8 @@
 {
-  "created": 1658967637,
+  "created": 1658975774,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/11/items/eastlansinginfo-2022",
-  "eastlansinginfo-2022": [
-    {
-      "url": "https://eastlansinginfo.news/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/eastlansinginfo_news-_-2022_07_27_14_02_41.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/eastlansinginfo_news-_-2022_07_27_14_02_41.report.json",
-      "summary": {
-        "performance": 0.66,
-        "accessibility": 0.82,
-        "best-practices": 0.92,
-        "seo": 0.9,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://eastlansinginfo.news/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/eastlansinginfo_news-_-2022_07_27_14_03_05.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/eastlansinginfo_news-_-2022_07_27_14_03_05.report.json",
-      "summary": {
-        "performance": 0.7,
-        "accessibility": 0.82,
-        "best-practices": 0.92,
-        "seo": 0.9,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://eastlansinginfo.news/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/eastlansinginfo_news-_-2022_07_27_14_02_54.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/eastlansinginfo_news-_-2022_07_27_14_02_54.report.json",
-      "summary": {
-        "performance": 0.69,
-        "accessibility": 0.82,
-        "best-practices": 0.92,
-        "seo": 0.9,
-        "pwa": 0.3
-      }
-    }
-  ],
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -1733,31 +1692,72 @@
       "sha1": "d12a44cd0abd9c81f30ae9f9105b68c2c7c384b3"
     },
     {
+      "name": "eastlansinginfo-2022-07-27T22:35:26.078091-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658975730",
+      "size": "20652",
+      "md5": "9bc93f7e90d68c63a5b1d2f4de79e8d5",
+      "crc32": "2e0fc91d",
+      "sha1": "22b27b0b6881080a0a8c20891d670974085ec342",
+      "format": "JSON"
+    },
+    {
+      "name": "eastlansinginfo-2022-07-27T22:35:26.078091-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658975731",
+      "size": "13433",
+      "md5": "cf9b2c940c125fc5d4762529315c873e",
+      "crc32": "e701af00",
+      "sha1": "7481b0b704faa8b14e30a12fd555ca7993b801ac",
+      "format": "JSON"
+    },
+    {
+      "name": "eastlansinginfo-2022-07-27T22:35:26.078091-04:00.jpg",
+      "source": "original",
+      "mtime": "1658975728",
+      "size": "267923",
+      "md5": "d342a7745624597e0fa1dbaf4d75f266",
+      "crc32": "fdb06aca",
+      "sha1": "e92b8f9e6811a71996ad88e40b9599299ebf9461",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eastlansinginfo-2022-07-27T22:35:26.078091-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658975733",
+      "size": "1510",
+      "md5": "9f1628fd72af73d62fade095a9d825e0",
+      "crc32": "1f016853",
+      "sha1": "c6883e2c95bd67327b712e370acbc6e628aaca99",
+      "format": "JSON"
+    },
+    {
       "name": "eastlansinginfo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9f7ac212b8fca5f04a60f45d1e365f18175be1bd",
-      "mtime": "1658959301",
-      "size": "36453",
-      "md5": "09dd2ac4b6b508f071966c50b283e386",
-      "crc32": "a080bc5e",
-      "sha1": "315398fd90a46418ca1c83650ecc33b397c8bf54",
+      "btih": "2c526ce7fd908a2df26329bdfb6b12594a5645d5",
+      "mtime": "1658975772",
+      "size": "37316",
+      "md5": "0a928166fa04b3e150c757ac53e01fdb",
+      "crc32": "9b0bc9e5",
+      "sha1": "e18d7e554c181817f8356802a542e67b33b9a49e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eastlansinginfo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "00226f5e6b69e9568260de462a897b57",
+      "md5": "19c9f0349d4c5967fe96062fa98b28b5",
       "summation": "md5"
     },
     {
       "name": "eastlansinginfo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658932078",
-      "size": "212992",
-      "md5": "140278e00469673d06a4f3efbd5a15cf",
-      "crc32": "4308784c",
-      "sha1": "60e2c6856f4dbac4d217578ac8f710551eed05ff",
+      "mtime": "1658975738",
+      "size": "217088",
+      "md5": "05f0f2c0240b0a518fb2ff0adfaf3d0b",
+      "crc32": "d5f2aa35",
+      "sha1": "bdf518eed1ea88bbfa00b05fee5715a57c539dd2",
       "format": "Metadata"
     },
     {
@@ -1771,9 +1771,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 165,
-  "item_last_updated": 1658959301,
-  "item_size": 12162850,
+  "files_count": 169,
+  "item_last_updated": 1658975772,
+  "item_size": 12471327,
   "metadata": {
     "identifier": "eastlansinginfo-2022",
     "collection": [
@@ -1790,10 +1790,21 @@
     "publicdate": "2022-07-09 03:58:21",
     "addeddate": "2022-07-09 03:58:21"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 856710223,
+  "pending_tasks": true,
+  "server": "ia902505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3345798871,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2025362342,
   "workable_servers": [
-    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

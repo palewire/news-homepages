@@ -1,5 +1,5 @@
 {
-  "created": 1658966899,
+  "created": 1659010788,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/4/items/nbcphiladelphia-2022",
@@ -2531,21 +2531,32 @@
       "format": "JSON"
     },
     {
+      "name": "nbcphiladelphia-2022-07-27T20:07:27.346392-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcphiladelphia-2022-07-27T20:07:27.346392-04:00.jpg",
+      "mtime": "1658978314",
+      "size": "9659",
+      "md5": "3e00bc9741f16d37adfbd78c75bdd344",
+      "crc32": "d843a857",
+      "sha1": "842ffeaebe4edd29af17a2cdf81e8c4828c0dd90"
+    },
+    {
       "name": "nbcphiladelphia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9fe1efa767d4aed315414008e3137b9672306bfc",
-      "mtime": "1658966895",
-      "size": "54024",
-      "md5": "6733f3257bf2132f398a27324fd60d7c",
-      "crc32": "16a67d11",
-      "sha1": "ce35b9191ac2d818108ed3aac55e7cd3c488d197",
+      "btih": "5a14e6f70c74e471704147fee79ad097189c0c6e",
+      "mtime": "1658978319",
+      "size": "54235",
+      "md5": "e970bba054fbe5f9b40573da95ed912f",
+      "crc32": "cfadad33",
+      "sha1": "243fe0da1244ccae2f879fae36340310e4080f94",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcphiladelphia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7c53ffff84864ff8132c036dc79653cc",
+      "md5": "3815ec70ef98b7b5e6a9a296a98e74af",
       "summation": "md5"
     },
     {
@@ -2569,9 +2580,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 245,
-  "item_last_updated": 1658966895,
-  "item_size": 23508180,
+  "files_count": 246,
+  "item_last_updated": 1658978319,
+  "item_size": 23518050,
   "metadata": {
     "identifier": "nbcphiladelphia-2022",
     "collection": [
@@ -2588,21 +2599,51 @@
     "publicdate": "2022-07-03 15:52:43",
     "addeddate": "2022-07-03 15:52:43"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "nbcphiladelphia-2022": [
     {
-      "task_id": 3345708127,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.nbcphiladelphia.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcphiladelphia_com-_-2022_07_27_23_48_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcphiladelphia_com-_-2022_07_27_23_48_06.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.nbcphiladelphia.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcphiladelphia_com-_-2022_07_27_23_48_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcphiladelphia_com-_-2022_07_27_23_48_31.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.nbcphiladelphia.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcphiladelphia_com-_-2022_07_27_23_48_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcphiladelphia_com-_-2022_07_27_23_48_54.report.json",
+      "summary": {
+        "performance": 0.26,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 1152245775,
+  "server": "ia801401.us.archive.org",
+  "uniq": 162290164,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

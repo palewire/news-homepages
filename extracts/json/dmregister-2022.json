@@ -1,8 +1,49 @@
 {
-  "created": 1658963241,
+  "created": 1659010341,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/17/items/dmregister-2022",
+  "dmregister-2022": [
+    {
+      "url": "https://www.desmoinesregister.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desmoinesregister_com-_-2022_07_28_10_39_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desmoinesregister_com-_-2022_07_28_10_39_05.report.json",
+      "summary": {
+        "performance": 0.84,
+        "accessibility": 0.88,
+        "best-practices": 1,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.desmoinesregister.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desmoinesregister_com-_-2022_07_28_10_39_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desmoinesregister_com-_-2022_07_28_10_39_51.report.json",
+      "summary": {
+        "performance": 0.85,
+        "accessibility": 0.82,
+        "best-practices": 1,
+        "seo": 0.86,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.desmoinesregister.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desmoinesregister_com-_-2022_07_28_10_40_08.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desmoinesregister_com-_-2022_07_28_10_40_08.report.json",
+      "summary": {
+        "performance": 0.85,
+        "accessibility": 0.82,
+        "best-practices": 1,
+        "seo": 0.86,
+        "pwa": 0.3
+      }
+    }
+  ],
   "files": [
     {
       "name": "DMRegister-2022-03-24T22:34:29.846870-05:00.jpg",
@@ -8323,31 +8364,83 @@
       "format": "JSON"
     },
     {
+      "name": "dmregister-2022-07-27T18:06:29.079247-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dmregister-2022-07-27T18:06:29.079247-05:00.jpg",
+      "mtime": "1658974390",
+      "size": "9310",
+      "md5": "ece35bdf04e1382a1da768e659824600",
+      "crc32": "048eca4d",
+      "sha1": "8dc473ac1e1752f43ddf7e24d816e8becebb1412"
+    },
+    {
+      "name": "dmregister-2022-07-28T06:10:07.104623-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659006617",
+      "size": "22647",
+      "md5": "160c9f6f1b1f0a323620b1b238b37ef6",
+      "crc32": "6f6eb87c",
+      "sha1": "a8b6f21dffe8d89d74a219192b586f667c9aee62",
+      "format": "JSON"
+    },
+    {
+      "name": "dmregister-2022-07-28T06:10:07.104623-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659006618",
+      "size": "37908",
+      "md5": "3766ec1698acc413526916549131fbd1",
+      "crc32": "223a72f8",
+      "sha1": "94ae14cd54b4077bcfb341342ddb430207f063e4",
+      "format": "JSON"
+    },
+    {
+      "name": "dmregister-2022-07-28T06:10:07.104623-05:00.jpg",
+      "source": "original",
+      "mtime": "1659006615",
+      "size": "255874",
+      "md5": "725655cdcba3110a382a3ac32300dbc3",
+      "crc32": "61c0204f",
+      "sha1": "1a60adb0fc3dfce39dcd0ca1e402e741303104dc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dmregister-2022-07-28T06:10:07.104623-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659006620",
+      "size": "1549",
+      "md5": "6dd43d6cfc17b68623ca92b831fe6317",
+      "crc32": "672339a4",
+      "sha1": "aecee9ed432c66c9c6c9ba3ce43b900d283346b8",
+      "format": "JSON"
+    },
+    {
       "name": "dmregister-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5b40b91f11a2a10a046ca32cadbfa137a9b666d9",
-      "mtime": "1658963239",
-      "size": "169566",
-      "md5": "b4b5a1d46b7fad8a96bf2a2247a2aeee",
-      "crc32": "528f6bd4",
-      "sha1": "825908a90f4770836121af6927cb8a6c9f4c9ab1",
+      "btih": "2cf154c9b70b918154de9a60eaf06671e4288230",
+      "mtime": "1659006664",
+      "size": "170635",
+      "md5": "a7e69ec0f600989e4373d605f890212c",
+      "crc32": "af7c5c6b",
+      "sha1": "9b05d5121b8835f25ce47ca50dc7e230cf03a2c4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dmregister-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d673aec5ad20775c0a7be4e5b8600730",
+      "md5": "48955c085bd9301261802c88df41ca41",
       "summation": "md5"
     },
     {
       "name": "dmregister-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658963198",
-      "size": "925696",
-      "md5": "551d18b8f3f69183ff8d0e07f07bc7f8",
-      "crc32": "e7c9b8e3",
-      "sha1": "80892052b321c5ddfbadff995de0ac82564a700a",
+      "mtime": "1659006623",
+      "size": "929792",
+      "md5": "780c20c5b616bf0632445bef36e8b080",
+      "crc32": "367a4ce0",
+      "sha1": "239f60e5f85f25d941da1749b2b8b36b8a2d142e",
       "format": "Metadata"
     },
     {
@@ -8361,9 +8454,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 796,
-  "item_last_updated": 1658963239,
-  "item_size": 64063294,
+  "files_count": 801,
+  "item_last_updated": 1659006664,
+  "item_size": 64395747,
   "metadata": {
     "identifier": "dmregister-2022",
     "collection": [
@@ -8385,7 +8478,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345672765,
+      "task_id": 3346128486,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8393,7 +8486,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1206323558,
+  "uniq": 1538477486,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]

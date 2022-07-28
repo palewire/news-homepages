@@ -1,5 +1,5 @@
 {
-  "created": 1658967109,
+  "created": 1659010986,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/9/items/rato_pati-2022",
@@ -421,21 +421,32 @@
       "format": "JSON"
     },
     {
+      "name": "rato_pati-2022-07-28T05:55:55.320427+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rato_pati-2022-07-28T05:55:55.320427+05:45.jpg",
+      "mtime": "1658978562",
+      "size": "10342",
+      "md5": "9d0bb5187c2912364843e731f7d8b196",
+      "crc32": "22860400",
+      "sha1": "05bde500ece092b12fb5aa797a630b95ec7585cd"
+    },
+    {
       "name": "rato_pati-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59afa2afbd69b422e6aef5591ae21318c319eee8",
-      "mtime": "1658967104",
-      "size": "9942",
-      "md5": "078af9d6856a3e86b31408a6dcacb02c",
-      "crc32": "c24c5307",
-      "sha1": "236945087ae1456d11383fbed37dabfd3ac30c86",
+      "btih": "760e9edffe147d0e8e372ad53cd0b37feafa1fb6",
+      "mtime": "1658978642",
+      "size": "10148",
+      "md5": "afab6a42a1701ddd6220d677c73c32dc",
+      "crc32": "c8481020",
+      "sha1": "3a9c9a2625f3a57f3c6a9cbe335cf50058989738",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rato_pati-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "678e9844c32a30351d64a3afa6248544",
+      "md5": "42ab1c09112af481ccacb5fbb07e0c7a",
       "summation": "md5"
     },
     {
@@ -459,9 +470,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 44,
-  "item_last_updated": 1658967104,
-  "item_size": 3770146,
+  "files_count": 45,
+  "item_last_updated": 1658978642,
+  "item_size": 3780694,
   "metadata": {
     "identifier": "rato_pati-2022",
     "collection": [
@@ -478,21 +489,51 @@
     "publicdate": "2022-07-24 20:38:50",
     "addeddate": "2022-07-24 20:38:50"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "rato_pati-2022": [
     {
-      "task_id": 3345710199,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://ratopati.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ratopati_com-_-2022_07_27_23_52_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ratopati_com-_-2022_07_27_23_52_49.report.json",
+      "summary": {
+        "performance": 0.1,
+        "accessibility": 0.75,
+        "best-practices": 0.75,
+        "seo": 0.83,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://ratopati.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ratopati_com-_-2022_07_27_23_53_18.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ratopati_com-_-2022_07_27_23_53_18.report.json",
+      "summary": {
+        "performance": 0.09,
+        "accessibility": 0.75,
+        "best-practices": 0.75,
+        "seo": 0.83,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://ratopati.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ratopati_com-_-2022_07_27_23_52_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ratopati_com-_-2022_07_27_23_52_20.report.json",
+      "summary": {
+        "performance": 0.11,
+        "accessibility": 0.75,
+        "best-practices": 0.75,
+        "seo": 0.83,
+        "pwa": 0.3
+      }
     }
   ],
-  "uniq": 568230002,
+  "server": "ia601405.us.archive.org",
+  "uniq": 1044031561,
   "workable_servers": [
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

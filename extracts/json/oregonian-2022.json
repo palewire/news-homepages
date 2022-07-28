@@ -1,5 +1,5 @@
 {
-  "created": 1658967042,
+  "created": 1659010901,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/1/items/oregonian-2022",
@@ -2101,21 +2101,32 @@
       "format": "JSON"
     },
     {
+      "name": "oregonian-2022-07-27T17:09:39.637778-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-07-27T17:09:39.637778-07:00.jpg",
+      "mtime": "1658978371",
+      "size": "8243",
+      "md5": "2641d41b74a23f907747d3db04981aea",
+      "crc32": "dd9428f7",
+      "sha1": "3ae393da819ba8b42dbf4c34cad5747d7c964536"
+    },
+    {
       "name": "oregonian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "322129a62ac951d492a4def99e8a52674f49bd9d",
-      "mtime": "1658967034",
-      "size": "43700",
-      "md5": "30ed9aa51556d6fb0da2925728186ac5",
-      "crc32": "0c1fcebd",
-      "sha1": "a917193d8d3a928d307af8c6d6f1ca506e5ef37b",
+      "btih": "0e4593882308ffabb776e87c383f5ee0e5adffd2",
+      "mtime": "1658978384",
+      "size": "43905",
+      "md5": "779151e3bdbba4065c0431864e8da83c",
+      "crc32": "93021c89",
+      "sha1": "c11dd60e1523357ca3898c92c7a70ef32c66ed42",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oregonian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aebf726663647f1f0ea5c7a1b981d6fd",
+      "md5": "55cac423a9cb0caa5fc85f6a89d5024f",
       "summation": "md5"
     },
     {
@@ -2139,9 +2150,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 204,
-  "item_last_updated": 1658967034,
-  "item_size": 16119171,
+  "files_count": 205,
+  "item_last_updated": 1658978384,
+  "item_size": 16127619,
   "metadata": {
     "identifier": "oregonian-2022",
     "collection": [
@@ -2158,21 +2169,51 @@
     "publicdate": "2022-07-04 21:50:57",
     "addeddate": "2022-07-04 21:50:57"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "oregonian-2022": [
     {
-      "task_id": 3345709507,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.oregonlive.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oregonlive_com-_-2022_07_27_23_49_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oregonlive_com-_-2022_07_27_23_49_58.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.83,
+        "pwa": 0.5
+      }
+    },
+    {
+      "url": "https://www.oregonlive.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oregonlive_com-_-2022_07_27_23_50_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oregonlive_com-_-2022_07_27_23_50_43.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.83,
+        "pwa": 0.5
+      }
+    },
+    {
+      "url": "https://www.oregonlive.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oregonlive_com-_-2022_07_27_23_50_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oregonlive_com-_-2022_07_27_23_50_21.report.json",
+      "summary": {
+        "performance": 0.26,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.5
+      }
     }
   ],
-  "uniq": 14879531,
+  "server": "ia601406.us.archive.org",
+  "uniq": 737321575,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658966802,
+  "created": 1659010641,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/12/items/lasvegassun-2022",
@@ -2111,21 +2111,32 @@
       "format": "JSON"
     },
     {
+      "name": "lasvegassun-2022-07-27T17:05:49.010922-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lasvegassun-2022-07-27T17:05:49.010922-07:00.jpg",
+      "mtime": "1658977968",
+      "size": "9849",
+      "md5": "b5514ffcc2aef0a792e425199cbf9f29",
+      "crc32": "6011ee63",
+      "sha1": "f376796ac8f7bd1e9eea7d6163d7c6ae904b4c26"
+    },
+    {
       "name": "lasvegassun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "54a787608f04922e8800c58e13352e1c8d4f1d26",
-      "mtime": "1658966798",
-      "size": "44377",
-      "md5": "162ea081aedcf0a4b793e50395e8675c",
-      "crc32": "1193520d",
-      "sha1": "f49786e5a5f22a11a1d880afda48dc025fcdae9b",
+      "btih": "56b69412e3063f46203590cd66c35137fd65277e",
+      "mtime": "1658977975",
+      "size": "44584",
+      "md5": "ee00bc57dd252d4afb2f650a77211bb9",
+      "crc32": "0ae19fac",
+      "sha1": "9b6f0c83f7f7d7bdc23c7127af41e4430fbffb62",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lasvegassun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ef6f4e680af5d6a6cc38438cc2eee511",
+      "md5": "5a431d7ec53ccaa113667e69ffb81a65",
       "summation": "md5"
     },
     {
@@ -2149,9 +2160,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 205,
-  "item_last_updated": 1658966798,
-  "item_size": 18281862,
+  "files_count": 206,
+  "item_last_updated": 1658977975,
+  "item_size": 18291918,
+  "lasvegassun-2022": [
+    {
+      "url": "https://m.lasvegassun.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_lasvegassun_com-_-2022_07_27_23_43_57.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_lasvegassun_com-_-2022_07_27_23_43_57.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.8,
+        "best-practices": 0.75,
+        "seo": 0.81,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://m.lasvegassun.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_lasvegassun_com-_-2022_07_27_23_44_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_lasvegassun_com-_-2022_07_27_23_44_10.report.json",
+      "summary": {
+        "performance": 0.3,
+        "accessibility": 0.8,
+        "best-practices": 0.75,
+        "seo": 0.81,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://m.lasvegassun.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_lasvegassun_com-_-2022_07_27_23_44_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_lasvegassun_com-_-2022_07_27_23_44_23.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.8,
+        "best-practices": 0.75,
+        "seo": 0.81,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "lasvegassun-2022",
     "collection": [
@@ -2168,21 +2220,10 @@
     "publicdate": "2022-07-04 21:55:34",
     "addeddate": "2022-07-04 21:55:34"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3345707166,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 628736554,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1899246929,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658956525,
+  "created": 1659011048,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/4/items/sdut-2022",
@@ -11992,31 +11992,83 @@
       "sha1": "08a0f29f15a6e96854a5278f801ceb0f8c93db2b"
     },
     {
+      "name": "sdut-2022-07-27T20:45:45.363403-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658979955",
+      "size": "48906",
+      "md5": "c8fbe9da7d722eb82e2df51bb729f1c2",
+      "crc32": "1358e4b7",
+      "sha1": "aa7980be87c37feafe99772850ebe83d7fc4e200",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-07-27T20:45:45.363403-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658979956",
+      "size": "64703",
+      "md5": "658a9a51d968204962c07009f16a6996",
+      "crc32": "9b5b7aa5",
+      "sha1": "1173a2aab1d6e7357ce674e91f2b06a7a57d754d",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-07-27T20:45:45.363403-07:00.jpg",
+      "source": "original",
+      "mtime": "1658979953",
+      "size": "273579",
+      "md5": "dc66f349f320d7941ac383b21d6afd96",
+      "crc32": "4ac379be",
+      "sha1": "9b264aaecb44fad4d24e75ba52196f75e8ee95bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sdut-2022-07-27T20:45:45.363403-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658979958",
+      "size": "1585",
+      "md5": "bb385b1a4de68ad05223c899d4347b7f",
+      "crc32": "611c752c",
+      "sha1": "d2509dcbbe25a3690717a73b607d4dcbdc9f66e5",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-07-27T20:45:45.363403-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sdut-2022-07-27T20:45:45.363403-07:00.jpg",
+      "mtime": "1658990110",
+      "size": "8652",
+      "md5": "dd0a0ea70a22c7506be65126ec77b42e",
+      "crc32": "b6b5278a",
+      "sha1": "2b53525fe69ca758d02bc678ce5c41facbc46691"
+    },
+    {
       "name": "sdut-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5962e67c9fccd66a48c1557a9793bad78277e198",
-      "mtime": "1658956312",
-      "size": "237731",
-      "md5": "8ac9b8e2be44644b1bc94714b7bb7283",
-      "crc32": "2df76c71",
-      "sha1": "4e9cf62346109fa6a85ed0d04830ba9c90e2290a",
+      "btih": "bc9ab33037d640d8fd11642657a64ab595fa7c75",
+      "mtime": "1658990318",
+      "size": "238770",
+      "md5": "650c7b2120e43c25877b93f98944c29b",
+      "crc32": "6811c6fe",
+      "sha1": "4aa7c759a0ba6267ad14906ea59dd3d2aabaa4ab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sdut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6006abdfd7fce389c3bf21e867eed29d",
+      "md5": "75da10a964af75888f0c4e0ec645d16e",
       "summation": "md5"
     },
     {
       "name": "sdut-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658936745",
-      "size": "1306624",
-      "md5": "1bf30ab1b185cc290370fe165395bfcd",
-      "crc32": "67ee4b98",
-      "sha1": "3a50d1acef774065333e6864029a0837108f09fb",
+      "mtime": "1658979962",
+      "size": "1314816",
+      "md5": "e7ab90256371bb1b31dc22531d055a00",
+      "crc32": "23abf9ef",
+      "sha1": "05406b9e536a13552f9051a5348d074fabbd3312",
       "format": "Metadata"
     },
     {
@@ -12030,9 +12082,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1145,
-  "item_last_updated": 1658956312,
-  "item_size": 119104849,
+  "files_count": 1150,
+  "item_last_updated": 1658990318,
+  "item_size": 119511505,
   "metadata": {
     "identifier": "sdut-2022",
     "collection": [
@@ -12049,8 +12101,49 @@
     "publicdate": "2022-03-23 02:09:42",
     "addeddate": "2022-03-23 02:09:42"
   },
+  "sdut-2022": [
+    {
+      "url": "https://www.sandiegouniontribune.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_07_28_03_05_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_07_28_03_05_34.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.98,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.sandiegouniontribune.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_07_28_03_05_57.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_07_28_03_05_57.report.json",
+      "summary": {
+        "performance": 0.17,
+        "accessibility": 0.98,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.sandiegouniontribune.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_07_28_03_05_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_07_28_03_05_11.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.98,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    }
+  ],
   "server": "ia802501.us.archive.org",
-  "uniq": 646146616,
+  "uniq": 248846011,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"

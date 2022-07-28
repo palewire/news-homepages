@@ -1,5 +1,5 @@
 {
-  "created": 1658966663,
+  "created": 1659010476,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/3/items/icijorg-2022",
@@ -4923,21 +4923,32 @@
       "format": "JSON"
     },
     {
+      "name": "icijorg-2022-07-27T20:03:27.926090-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "icijorg-2022-07-27T20:03:27.926090-04:00.jpg",
+      "mtime": "1658977874",
+      "size": "11210",
+      "md5": "634589dd76908006a43b0e5cf1c67c25",
+      "crc32": "c93af0d3",
+      "sha1": "5a5b3d52f83bb6e2a77711ec9099d2af9bceea15"
+    },
+    {
       "name": "icijorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0a7e347cc6e64e26c8d2f1651765b35c50754383",
-      "mtime": "1658966661",
-      "size": "99771",
-      "md5": "31fb797c231820365bf96bdfc31fd80e",
-      "crc32": "5e44cd10",
-      "sha1": "c425d70280937703318f0a03d63b6f7e9897b199",
+      "btih": "ffae7e1f8f49e8386fc62445ebd5b8cd319e7466",
+      "mtime": "1658977880",
+      "size": "99975",
+      "md5": "f67de2b44903e166ea8fb9f7a9a2dc16",
+      "crc32": "d8416e98",
+      "sha1": "52c42a6ecaee1827ec93e2ab1c82b20112db6a91",
       "format": "Archive BitTorrent"
     },
     {
       "name": "icijorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3271e2aa4288a989f88df7f520145087",
+      "md5": "99af43d2b82e7f9713147ce9452722b3",
       "summation": "md5"
     },
     {
@@ -4961,9 +4972,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 473,
-  "item_last_updated": 1658966661,
-  "item_size": 40574640,
+  "files_count": 474,
+  "icijorg-2022": [
+    {
+      "url": "https://www.icij.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_icij_org-_-2022_07_27_23_40_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_icij_org-_-2022_07_27_23_40_49.report.json",
+      "summary": {
+        "performance": 0.24,
+        "accessibility": 0.88,
+        "best-practices": 1,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.icij.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_icij_org-_-2022_07_27_23_41_16.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_icij_org-_-2022_07_27_23_41_16.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.88,
+        "best-practices": 1,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.icij.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_icij_org-_-2022_07_27_23_41_03.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_icij_org-_-2022_07_27_23_41_03.report.json",
+      "summary": {
+        "performance": 0.24,
+        "accessibility": 0.88,
+        "best-practices": 1,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "item_last_updated": 1658977880,
+  "item_size": 40586054,
   "metadata": {
     "identifier": "icijorg-2022",
     "collection": [
@@ -4980,21 +5032,10 @@
     "publicdate": "2022-06-18 03:25:07",
     "addeddate": "2022-06-18 03:25:07"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3345705085,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 263266573,
+  "server": "ia802508.us.archive.org",
+  "uniq": 1240674778,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

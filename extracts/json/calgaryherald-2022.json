@@ -1,5 +1,5 @@
 {
-  "created": 1658949719,
+  "created": 1658981403,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/2/items/calgaryherald-2022",
@@ -3236,31 +3236,83 @@
       "sha1": "ee3aa07a525f445bc17c3d3c8ba85839f203be9b"
     },
     {
+      "name": "calgaryherald-2022-07-27T19:27:09.605965-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658971633",
+      "size": "65641",
+      "md5": "87f5b919abd5f31a61da63bf02ef784b",
+      "crc32": "b52a6275",
+      "sha1": "ac1d8e8202afe2d9568d587d53cec41906877726",
+      "format": "JSON"
+    },
+    {
+      "name": "calgaryherald-2022-07-27T19:27:09.605965-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658971635",
+      "size": "52719",
+      "md5": "7abc491216d1056a5e19f3c84cd92e21",
+      "crc32": "18395f39",
+      "sha1": "252972ddb9b341c3f45720a5e4271f84b3fdec7f",
+      "format": "JSON"
+    },
+    {
+      "name": "calgaryherald-2022-07-27T19:27:09.605965-06:00.jpg",
+      "source": "original",
+      "mtime": "1658971631",
+      "size": "315760",
+      "md5": "bc3bc1976eb81c75452a4bfea3c3b69d",
+      "crc32": "856d7db9",
+      "sha1": "56f23d751ffc4ff49abff079d4d2eb4aca1a2894",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "calgaryherald-2022-07-27T19:27:09.605965-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658971637",
+      "size": "1486",
+      "md5": "34d2b92eee7439af1deed1f9a4437d6c",
+      "crc32": "bb526b56",
+      "sha1": "389253b87ff0081b20b919919fc3e43c20e2cbef",
+      "format": "JSON"
+    },
+    {
+      "name": "calgaryherald-2022-07-27T19:27:09.605965-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "calgaryherald-2022-07-27T19:27:09.605965-06:00.jpg",
+      "mtime": "1658981379",
+      "size": "9894",
+      "md5": "66f2711bc3947fe48efaeb25b980c9a6",
+      "crc32": "130e4868",
+      "sha1": "cffd6150a80d1a05c9874f511bf1708ea46b4142"
+    },
+    {
       "name": "calgaryherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d6dc8c3f88b38b8240dab3a066fa203c43657882",
-      "mtime": "1658949710",
-      "size": "68159",
-      "md5": "3c2a2b39375a37df466ec45dfbf247da",
-      "crc32": "e02c0a10",
-      "sha1": "51754a33d9e387785097fa82b43a11a4aad74e4f",
+      "btih": "1c29a4455eba8fbdb39d7d8962c13cb91ab7d840",
+      "mtime": "1658981388",
+      "size": "69223",
+      "md5": "a03a7a2362948efe035cfa60b650b13d",
+      "crc32": "b7bbe4fc",
+      "sha1": "801d6c893d96ea73de429c0fb7aba6e998fa1d26",
       "format": "Archive BitTorrent"
     },
     {
       "name": "calgaryherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "27c5563f2324a3658b41ba44faa2e041",
+      "md5": "f9d0a28d9525ff0010c5a0e2cb67873c",
       "summation": "md5"
     },
     {
       "name": "calgaryherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658927937",
-      "size": "376832",
-      "md5": "6feed30bf9497e9c4894b6619b6bc55c",
-      "crc32": "0997a237",
-      "sha1": "7e46eb332e8b77281d75520749c63559153606b9",
+      "mtime": "1658971641",
+      "size": "380928",
+      "md5": "387a33824044df4541bce6bd8a2fd6ea",
+      "crc32": "e8565911",
+      "sha1": "b2460606a10f97e7eca3e5cb53fb386c9014f982",
       "format": "Metadata"
     },
     {
@@ -3274,9 +3326,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 312,
-  "item_last_updated": 1658949710,
-  "item_size": 33107586,
+  "files_count": 317,
+  "item_last_updated": 1658981388,
+  "item_size": 33558246,
   "metadata": {
     "identifier": "calgaryherald-2022",
     "collection": [
@@ -3293,10 +3345,10 @@
     "publicdate": "2022-06-30 22:35:41",
     "addeddate": "2022-06-30 22:35:41"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 779190921,
+  "server": "ia601405.us.archive.org",
+  "uniq": 1029722421,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658966798,
+  "created": 1659010618,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/31/items/lacrossetribune-2022",
@@ -7687,21 +7687,32 @@
       "format": "JSON"
     },
     {
+      "name": "lacrossetribune-2022-07-27T19:05:38.309509-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lacrossetribune-2022-07-27T19:05:38.309509-05:00.jpg",
+      "mtime": "1658978017",
+      "size": "12491",
+      "md5": "19eedba766e205f6d65cc3bb63058988",
+      "crc32": "3cb795ca",
+      "sha1": "38ae70079f76efce73cbe17e77901ee93f461499"
+    },
+    {
       "name": "lacrossetribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "af65cb352a9c8ce74dac752c3dc1eba0e9673cbf",
-      "mtime": "1658966793",
-      "size": "161249",
-      "md5": "9d325e8e33ee3d2b5f52ed7c3dca1126",
-      "crc32": "5b6dec67",
-      "sha1": "624dc4c13e91a88485005bcdcd89d277816a9591",
+      "btih": "895ab67f0d78c313e0f277570c146e622de50296",
+      "mtime": "1658978049",
+      "size": "161461",
+      "md5": "2129729a1b2bde5ffb6e77e9da24c8be",
+      "crc32": "04042fc0",
+      "sha1": "f475983e959864f1147a0f2477ce4459942788a4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lacrossetribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "707449141efe82fcd59f01667b4e5d75",
+      "md5": "02e0b58aead66bba89be129a622dee8d",
       "summation": "md5"
     },
     {
@@ -7725,9 +7736,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 735,
-  "item_last_updated": 1658966793,
-  "item_size": 80614051,
+  "files_count": 736,
+  "item_last_updated": 1658978049,
+  "item_size": 80626754,
+  "lacrossetribune-2022": [
+    {
+      "url": "https://lacrossetribune.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/lacrossetribune_com-_-2022_07_27_23_43_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/lacrossetribune_com-_-2022_07_27_23_43_37.report.json",
+      "summary": {
+        "performance": 0.04,
+        "accessibility": 0.81,
+        "best-practices": 0.92,
+        "seo": 0.83,
+        "pwa": 0.5
+      }
+    },
+    {
+      "url": "https://lacrossetribune.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/lacrossetribune_com-_-2022_07_27_23_44_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/lacrossetribune_com-_-2022_07_27_23_44_19.report.json",
+      "summary": {
+        "performance": 0.05,
+        "accessibility": 0.81,
+        "best-practices": 0.92,
+        "seo": 0.83,
+        "pwa": 0.5
+      }
+    },
+    {
+      "url": "https://lacrossetribune.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/lacrossetribune_com-_-2022_07_27_23_43_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/lacrossetribune_com-_-2022_07_27_23_43_59.report.json",
+      "summary": {
+        "performance": 0.04,
+        "accessibility": 0.81,
+        "best-practices": 0.92,
+        "seo": 0.83,
+        "pwa": 0.5
+      }
+    }
+  ],
   "metadata": {
     "identifier": "lacrossetribune-2022",
     "collection": [
@@ -7744,21 +7796,10 @@
     "publicdate": "2022-03-23 23:06:48",
     "addeddate": "2022-03-23 23:06:48"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3345707123,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1679762067,
+  "server": "ia802508.us.archive.org",
+  "uniq": 2146324187,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

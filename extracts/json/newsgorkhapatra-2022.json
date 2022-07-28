@@ -1,5 +1,5 @@
 {
-  "created": 1658966950,
+  "created": 1658978563,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/0/items/newsgorkhapatra-2022",
@@ -399,21 +399,32 @@
       "format": "JSON"
     },
     {
+      "name": "newsgorkhapatra-2022-07-28T05:53:24.632829+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsgorkhapatra-2022-07-28T05:53:24.632829+05:45.jpg",
+      "mtime": "1658978427",
+      "size": "10954",
+      "md5": "31eca2ef61f6615912144b08502065a9",
+      "crc32": "2e17f2d5",
+      "sha1": "2f391cc48eaf696b083cbb82d5c893a803452946"
+    },
+    {
       "name": "newsgorkhapatra-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7c8de063b190fe7a575858261a991ddb1b228148",
-      "mtime": "1658966947",
-      "size": "9777",
-      "md5": "3b5a433fa49b51c276d89cf202228ce2",
-      "crc32": "de398b94",
-      "sha1": "a7a27a238359227ad3374a19160ded9fdd1531f0",
+      "btih": "39e005bf3fba00555ab51c3a66c535e7ec459871",
+      "mtime": "1658978449",
+      "size": "9989",
+      "md5": "5f1e82fabe6da6bef41859f409af4958",
+      "crc32": "c300ab43",
+      "sha1": "cc365c3f7703bfabca476b6665adeb191a03f4e8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsgorkhapatra-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d688f37544725f49962493508ef048db",
+      "md5": "a29668da22a0c27dd95c19d96d3acbde",
       "summation": "md5"
     },
     {
@@ -437,9 +448,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 42,
-  "item_last_updated": 1658966947,
-  "item_size": 3449569,
+  "files_count": 43,
+  "item_last_updated": 1658978449,
+  "item_size": 3460735,
   "metadata": {
     "identifier": "newsgorkhapatra-2022",
     "collection": [
@@ -456,21 +467,10 @@
     "publicdate": "2022-07-24 20:39:26",
     "addeddate": "2022-07-24 20:39:26"
   },
-  "pending_tasks": true,
-  "server": "ia902501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3345708615,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 908094943,
+  "server": "ia802501.us.archive.org",
+  "uniq": 928307454,
   "workable_servers": [
+    "ia802501.us.archive.org",
     "ia902501.us.archive.org"
   ]
 }

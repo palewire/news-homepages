@@ -1,5 +1,5 @@
 {
-  "created": 1658967079,
+  "created": 1659010972,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/25/items/punchbowlnews-2022",
@@ -2111,21 +2111,32 @@
       "format": "JSON"
     },
     {
+      "name": "punchbowlnews-2022-07-27T20:10:26.591955-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "punchbowlnews-2022-07-27T20:10:26.591955-04:00.jpg",
+      "mtime": "1658978398",
+      "size": "8638",
+      "md5": "a674b15398f7babbb154e19f92f131e4",
+      "crc32": "dfa4ac8e",
+      "sha1": "8f8efb42c1b7b06ec22cffc26018e290886d811c"
+    },
+    {
       "name": "punchbowlnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1eed2b427f580e4b01b960e91d2ff1a14bb7a8df",
-      "mtime": "1658967075",
-      "size": "44503",
-      "md5": "d8a4608b8e824a4a854fe4110a81259a",
-      "crc32": "979fcf9c",
-      "sha1": "2f14618166de708d224baee8944ab2811ac6370a",
+      "btih": "6f7c5d96b767da61a70c0170e138e0204cf7652e",
+      "mtime": "1658978441",
+      "size": "44732",
+      "md5": "c38dc5cbe5e7df09b7591b4eaf21f550",
+      "crc32": "b895ee1f",
+      "sha1": "d011fc72deedfed897232a34c0b9c5968e92feac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "punchbowlnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "93391d08cfeb384da13d748cf8a6d93b",
+      "md5": "3abdaeb6805c285e453c89e16fc61bc2",
       "summation": "md5"
     },
     {
@@ -2149,9 +2160,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 205,
-  "item_last_updated": 1658967075,
-  "item_size": 11050491,
+  "files_count": 206,
+  "item_last_updated": 1658978441,
+  "item_size": 11059358,
   "metadata": {
     "identifier": "punchbowlnews-2022",
     "collection": [
@@ -2168,21 +2179,51 @@
     "publicdate": "2022-07-04 21:52:03",
     "addeddate": "2022-07-04 21:52:03"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "punchbowlnews-2022": [
     {
-      "task_id": 3345709851,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://punchbowl.news/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/punchbowl_news-_-2022_07_27_23_52_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/punchbowl_news-_-2022_07_27_23_52_01.report.json",
+      "summary": {
+        "performance": 0.24,
+        "accessibility": 0.81,
+        "best-practices": 1,
+        "seo": 0.86,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://punchbowl.news/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/punchbowl_news-_-2022_07_27_23_52_15.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/punchbowl_news-_-2022_07_27_23_52_15.report.json",
+      "summary": {
+        "performance": 0.33,
+        "accessibility": 0.81,
+        "best-practices": 1,
+        "seo": 0.86,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://punchbowl.news/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/punchbowl_news-_-2022_07_27_23_52_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/punchbowl_news-_-2022_07_27_23_52_28.report.json",
+      "summary": {
+        "performance": 0.33,
+        "accessibility": 0.81,
+        "best-practices": 1,
+        "seo": 0.86,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 1818116161,
+  "server": "ia601405.us.archive.org",
+  "uniq": 1664664467,
   "workable_servers": [
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

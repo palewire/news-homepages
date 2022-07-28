@@ -1,46 +1,5 @@
 {
-  "albany_herald-2022": [
-    {
-      "url": "https://www.albanyherald.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_albanyherald_com-_-2022_07_27_22_37_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_albanyherald_com-_-2022_07_27_22_37_55.report.json",
-      "summary": {
-        "performance": 0.16,
-        "accessibility": 0.87,
-        "best-practices": 0.92,
-        "seo": 0.7,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://www.albanyherald.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_albanyherald_com-_-2022_07_27_22_40_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_albanyherald_com-_-2022_07_27_22_40_09.report.json",
-      "summary": {
-        "performance": 0.19,
-        "accessibility": 0.87,
-        "best-practices": 0.92,
-        "seo": 0.7,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://www.albanyherald.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_albanyherald_com-_-2022_07_27_22_39_04.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_albanyherald_com-_-2022_07_27_22_39_04.report.json",
-      "summary": {
-        "performance": 0.19,
-        "accessibility": 0.87,
-        "best-practices": 0.92,
-        "seo": 0.7,
-        "pwa": 0.6
-      }
-    }
-  ],
-  "created": 1658967449,
+  "created": 1659006325,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/27/items/albany_herald-2022",
@@ -736,31 +695,73 @@
       "format": "JSON"
     },
     {
+      "name": "albany_herald-2022-07-27T19:01:01.154818-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "albany_herald-2022-07-27T19:01:01.154818-04:00.jpg",
+      "mtime": "1658974088",
+      "size": "11451",
+      "md5": "233364b22648798768a81652ef98b007",
+      "crc32": "91f059aa",
+      "sha1": "9f9e49fc29c6d8c4210745508aab93e4ab68b8d6"
+    },
+    {
+      "name": "albany_herald-2022-07-28T07:04:34.975344-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659006277",
+      "size": "63017",
+      "md5": "95ee2123b0e7c6176948539b8775c22f",
+      "crc32": "1d2163e5",
+      "sha1": "e92d76b22e0c406721ee00f575b74b0d212e5d9f",
+      "format": "JSON"
+    },
+    {
+      "name": "albany_herald-2022-07-28T07:04:34.975344-04:00.jpg",
+      "source": "original",
+      "mtime": "1659006276",
+      "size": "297058",
+      "md5": "23165be9b4b4a87473eb3250b50c3e5a",
+      "crc32": "07df5154",
+      "sha1": "1b7dd6d35122f24f8a5f2ad570f8d82101c933b7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "albany_herald-2022-07-28T07:04:34.975344-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659006279",
+      "size": "1510",
+      "md5": "b45276839422fb1744fff05bfbf2fb85",
+      "crc32": "91bd8252",
+      "sha1": "20263138b1864cc3cf2ce53657eaac12bc4e69c2",
+      "format": "JSON"
+    },
+    {
       "name": "albany_herald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5b11c4078b6aabce31bf9ec48e0b189d7dc30d8b",
-      "mtime": "1658962943",
-      "size": "15773",
-      "md5": "5f4532f826e523a8435cf0dd8db114ae",
-      "crc32": "a9c64137",
-      "sha1": "6cfb877d3bb5d69f04aa85cad073be635df6acb4",
+      "btih": "b8d9c89d012efca2201a0ebe721f8938b4cd3161",
+      "mtime": "1659006322",
+      "size": "16643",
+      "md5": "84aa3690b498a05f9a5ab237d4a1eb69",
+      "crc32": "fbeeeaf4",
+      "sha1": "4d52866ad0d477db3468c74a7ba9f2a8dec941fb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "albany_herald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7f582a1d38c4dba5e6fb242a7d4cc742",
+      "md5": "130c61ca8d2d6a2f9f8bb4e81cbbf48b",
       "summation": "md5"
     },
     {
       "name": "albany_herald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658962905",
-      "size": "98304",
-      "md5": "34f132eefb5c16924b76ad01cebe053f",
-      "crc32": "d820f905",
-      "sha1": "b6ea494d4e0afa1827b89d5ee8c2fca8d2934efa",
+      "mtime": "1659006286",
+      "size": "102400",
+      "md5": "12394f637abee586f6e8e17b242558ec",
+      "crc32": "27291834",
+      "sha1": "7fe79d4c00229b397c034ab1b29a9f3e6aae304d",
       "format": "Metadata"
     },
     {
@@ -774,9 +775,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 70,
-  "item_last_updated": 1658962943,
-  "item_size": 7278136,
+  "files_count": 74,
+  "item_last_updated": 1659006322,
+  "item_size": 7656138,
   "metadata": {
     "identifier": "albany_herald-2022",
     "collection": [
@@ -798,7 +799,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345667120,
+      "task_id": 3346125036,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -806,7 +807,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1686381330,
+  "uniq": 1698562377,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

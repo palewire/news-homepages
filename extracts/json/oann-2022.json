@@ -1,5 +1,5 @@
 {
-  "created": 1658967020,
+  "created": 1659010870,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/22/items/oann-2022",
@@ -8075,21 +8075,32 @@
       "format": "JSON"
     },
     {
+      "name": "oann-2022-07-27T20:09:12.076028-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oann-2022-07-27T20:09:12.076028-04:00.jpg",
+      "mtime": "1658978356",
+      "size": "12008",
+      "md5": "4069fe192c9a90585b8dff735545c9a0",
+      "crc32": "f8ef7b14",
+      "sha1": "c8a115d2527af0a7b14f9e0e4949c83d0b8ecad4"
+    },
+    {
       "name": "oann-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3ff3a7ff48474bf00fad9ec16664c0101f35c935",
-      "mtime": "1658967016",
-      "size": "159368",
-      "md5": "17afdbac3a124e92e754d19cc2dfea9a",
-      "crc32": "cada52b9",
-      "sha1": "339fa4a3a242737e5bd14bf1d02886b58fb8dbba",
+      "btih": "24804aadb3ce0c166d5993c85af3d3c557bca34e",
+      "mtime": "1658978378",
+      "size": "159569",
+      "md5": "1cf0d42b8307172a15cd9dba184088ec",
+      "crc32": "b084004c",
+      "sha1": "0a8b3718c32ff396bb4d452125c05fb258205238",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oann-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "19d03bd124931f97ca122ded961c2475",
+      "md5": "e08dd4c31710e0bb67dc12d506b7a0b6",
       "summation": "md5"
     },
     {
@@ -8113,9 +8124,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 769,
-  "item_last_updated": 1658967016,
-  "item_size": 72380744,
+  "files_count": 770,
+  "item_last_updated": 1658978378,
+  "item_size": 72392953,
   "metadata": {
     "identifier": "oann-2022",
     "collection": [
@@ -8132,21 +8143,51 @@
     "publicdate": "2022-03-25 18:47:20",
     "addeddate": "2022-03-25 18:47:20"
   },
-  "pending_tasks": true,
-  "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "oann-2022": [
     {
-      "task_id": 3345709290,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.oann.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oann_com-_-2022_07_27_23_51_14.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oann_com-_-2022_07_27_23_51_14.report.json",
+      "summary": {
+        "performance": 0.11,
+        "accessibility": 0.87,
+        "best-practices": 0.83,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.oann.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oann_com-_-2022_07_27_23_52_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oann_com-_-2022_07_27_23_52_07.report.json",
+      "summary": {
+        "performance": 0.12,
+        "accessibility": 0.87,
+        "best-practices": 0.83,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.oann.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oann_com-_-2022_07_27_23_51_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oann_com-_-2022_07_27_23_51_37.report.json",
+      "summary": {
+        "performance": 0.12,
+        "accessibility": 0.87,
+        "best-practices": 0.83,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 1435489795,
+  "server": "ia801507.us.archive.org",
+  "uniq": 187297321,
   "workable_servers": [
+    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

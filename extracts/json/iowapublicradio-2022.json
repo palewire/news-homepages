@@ -1,5 +1,5 @@
 {
-  "created": 1658966699,
+  "created": 1659010492,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/31/items/iowapublicradio-2022",
@@ -8311,21 +8311,32 @@
       "format": "JSON"
     },
     {
+      "name": "iowapublicradio-2022-07-27T19:03:57.936126-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "iowapublicradio-2022-07-27T19:03:57.936126-05:00.jpg",
+      "mtime": "1658977970",
+      "size": "10951",
+      "md5": "749ab4134acb13e4513a6b59d57ab49e",
+      "crc32": "398bed3e",
+      "sha1": "dfd3aa1036808ba3f33d05d0f67e9a3622531a76"
+    },
+    {
       "name": "iowapublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f310711fcb2a3d90cca1194cf363963ad42fd0fc",
-      "mtime": "1658966695",
-      "size": "174006",
-      "md5": "f652333469972b2c3cd7a64a0ccb0495",
-      "crc32": "84885cb9",
-      "sha1": "9fef4c1e971dd1963d70f7a99a6f5d0d5bdfb5a5",
+      "btih": "2ad83184be8e30a1b2c34047c2a9ccce71c6074b",
+      "mtime": "1658978088",
+      "size": "174218",
+      "md5": "ce4fd7ee13984e543e83418e2e4691d1",
+      "crc32": "14fbd2a7",
+      "sha1": "7ab846fbc2d04b916de8ee2c3fe2123867a3ee0e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "iowapublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7d86090d9f4b5c7a3054b379e8b23f1d",
+      "md5": "b2181e8185ca816003f27cee08f8e2d0",
       "summation": "md5"
     },
     {
@@ -8349,9 +8360,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 795,
-  "item_last_updated": 1658966695,
-  "item_size": 78948352,
+  "files_count": 796,
+  "iowapublicradio-2022": [
+    {
+      "url": "https://www.iowapublicradio.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_iowapublicradio_org-_-2022_07_27_23_41_14.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_iowapublicradio_org-_-2022_07_27_23_41_14.report.json",
+      "summary": {
+        "performance": 0.41,
+        "accessibility": 0.74,
+        "best-practices": 1,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.iowapublicradio.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_iowapublicradio_org-_-2022_07_27_23_41_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_iowapublicradio_org-_-2022_07_27_23_41_48.report.json",
+      "summary": {
+        "performance": 0.44,
+        "accessibility": 0.74,
+        "best-practices": 1,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.iowapublicradio.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_iowapublicradio_org-_-2022_07_27_23_41_33.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_iowapublicradio_org-_-2022_07_27_23_41_33.report.json",
+      "summary": {
+        "performance": 0.55,
+        "accessibility": 0.74,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "item_last_updated": 1658978088,
+  "item_size": 78959515,
   "metadata": {
     "identifier": "iowapublicradio-2022",
     "collection": [
@@ -8368,21 +8420,10 @@
     "publicdate": "2022-03-25 03:35:10",
     "addeddate": "2022-03-25 03:35:10"
   },
-  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3345705701,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 762164768,
+  "uniq": 2144545527,
   "workable_servers": [
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

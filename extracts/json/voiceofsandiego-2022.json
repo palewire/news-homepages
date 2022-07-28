@@ -1,5 +1,5 @@
 {
-  "created": 1658968260,
+  "created": 1659011271,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/18/items/voiceofsandiego-2022",
@@ -11806,31 +11806,72 @@
       "sha1": "9a22c6fd12e827edad2377b6d8704fbbe3d23e4d"
     },
     {
+      "name": "voiceofsandiego-2022-07-27T20:49:03.992855-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658980148",
+      "size": "20477",
+      "md5": "91a02750110842a95c61ae24ef6e5e03",
+      "crc32": "4460660f",
+      "sha1": "ecc848438e4b7a376ea03495fc2b47c39dd59523",
+      "format": "JSON"
+    },
+    {
+      "name": "voiceofsandiego-2022-07-27T20:49:03.992855-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658980150",
+      "size": "25650",
+      "md5": "deec8e7660a90ceefe3032176cdb5a75",
+      "crc32": "5ce6d91a",
+      "sha1": "b610567fdd412ed4faaa07ca1b541d8ca84b106d",
+      "format": "JSON"
+    },
+    {
+      "name": "voiceofsandiego-2022-07-27T20:49:03.992855-07:00.jpg",
+      "source": "original",
+      "mtime": "1658980146",
+      "size": "266885",
+      "md5": "705ad9bca1c584d271d1bf23f5305e4f",
+      "crc32": "d92d28f0",
+      "sha1": "3d2f8b2e87e6e4b99d770dc49bda93a124068377",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voiceofsandiego-2022-07-27T20:49:03.992855-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658980152",
+      "size": "1504",
+      "md5": "246fcb54aca0345f2cd8fa3729e01b3c",
+      "crc32": "9e616fda",
+      "sha1": "1ccfdfe3a0f87df1a8894c17b40b119b54a9bb24",
+      "format": "JSON"
+    },
+    {
       "name": "voiceofsandiego-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7219633fb9dce0abba7db5ffc02e931b91bcd351",
-      "mtime": "1658959785",
-      "size": "246254",
-      "md5": "18d64181b6ba75e204150da558db95e1",
-      "crc32": "0b4622e7",
-      "sha1": "ddfb75e3284fa0927a79785c265a84f8c6223dcf",
+      "btih": "d655afe1180a59e24d0b6c732f512f1926920e00",
+      "mtime": "1658980202",
+      "size": "247137",
+      "md5": "35dac736d9d921d4ddf1040d5b9ea4cf",
+      "crc32": "80edb492",
+      "sha1": "0e37317a0ee58ea2fd8fb2eae2b4cb57a3e29ac2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voiceofsandiego-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ecfecc6836e655af39534f27fd53d0b7",
+      "md5": "1c26064475b48947f4050f9f671750d1",
       "summation": "md5"
     },
     {
       "name": "voiceofsandiego-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658937119",
-      "size": "1310720",
-      "md5": "ad069025fcea031c56830af4f9cb0593",
-      "crc32": "090ca71b",
-      "sha1": "b4b915bdc2d10d1c3c0ee1801c7bf9bb68e10f63",
+      "mtime": "1658980157",
+      "size": "1318912",
+      "md5": "dbc1e5cd1b5b0cfeed0a16cdcafb4346",
+      "crc32": "2bcf2daf",
+      "sha1": "b181460b53711b6e98f50f5d51a3364872b3355c",
       "format": "Metadata"
     },
     {
@@ -11844,9 +11885,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1128,
-  "item_last_updated": 1658959785,
-  "item_size": 97756859,
+  "files_count": 1132,
+  "item_last_updated": 1658980202,
+  "item_size": 98080450,
   "metadata": {
     "identifier": "voiceofsandiego-2022",
     "collection": [
@@ -11863,16 +11904,28 @@
     "publicdate": "2022-03-26 02:09:17",
     "addeddate": "2022-03-26 02:09:17"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 1873881227,
+  "pending_tasks": true,
+  "server": "ia902505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3345853932,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 625657565,
   "voiceofsandiego-2022": [
     {
       "url": "https://voiceofsandiego.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voiceofsandiego_org-_-2022_07_27_15_23_08.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voiceofsandiego_org-_-2022_07_27_15_23_08.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voiceofsandiego_org-_-2022_07_28_03_11_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voiceofsandiego_org-_-2022_07_28_03_11_53.report.json",
       "summary": {
-        "performance": 0.8,
+        "performance": 0.86,
         "accessibility": 0.87,
         "best-practices": 0.92,
         "seo": 0.77,
@@ -11882,10 +11935,10 @@
     {
       "url": "https://voiceofsandiego.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voiceofsandiego_org-_-2022_07_27_15_23_32.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voiceofsandiego_org-_-2022_07_27_15_23_32.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voiceofsandiego_org-_-2022_07_28_03_12_04.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voiceofsandiego_org-_-2022_07_28_03_12_04.report.json",
       "summary": {
-        "performance": 0.84,
+        "performance": 0.85,
         "accessibility": 0.87,
         "best-practices": 0.92,
         "seo": 0.77,
@@ -11895,10 +11948,10 @@
     {
       "url": "https://voiceofsandiego.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voiceofsandiego_org-_-2022_07_27_15_23_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voiceofsandiego_org-_-2022_07_27_15_23_20.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voiceofsandiego_org-_-2022_07_28_03_11_41.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voiceofsandiego_org-_-2022_07_28_03_11_41.report.json",
       "summary": {
-        "performance": 0.83,
+        "performance": 0.85,
         "accessibility": 0.87,
         "best-practices": 0.92,
         "seo": 0.77,
@@ -11907,7 +11960,6 @@
     }
   ],
   "workable_servers": [
-    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

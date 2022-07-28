@@ -1,5 +1,5 @@
 {
-  "created": 1658966829,
+  "created": 1659010720,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/16/items/mediapart-2022",
@@ -369,31 +369,83 @@
       "format": "JSON"
     },
     {
+      "name": "mediapart-2022-07-28T02:06:16.295719+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mediapart-2022-07-28T02:06:16.295719+02:00.jpg",
+      "mtime": "1658978193",
+      "size": "8671",
+      "md5": "a40088880c86eaf043a0df1ae07155b7",
+      "crc32": "baabe92e",
+      "sha1": "c889330856f1d7634ab66bdda13ed06354553e8c"
+    },
+    {
+      "name": "mediapart-2022-07-28T10:10:27.229746+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658995829",
+      "size": "99198",
+      "md5": "5b8ffeb367f271f5bbb36a58052f4dbd",
+      "crc32": "7ae84fd1",
+      "sha1": "3099dce7214acc757fc4091bd9a5ba28e7551070",
+      "format": "JSON"
+    },
+    {
+      "name": "mediapart-2022-07-28T10:10:27.229746+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658995831",
+      "size": "43088",
+      "md5": "4a776361b7568b7c3006e231e077a92a",
+      "crc32": "81da5859",
+      "sha1": "b0eda173163e44d6237b06ffbc78d88fb559a28d",
+      "format": "JSON"
+    },
+    {
+      "name": "mediapart-2022-07-28T10:10:27.229746+02:00.jpg",
+      "source": "original",
+      "mtime": "1658995828",
+      "size": "249306",
+      "md5": "4e993713b52c4d069b9cef7a2986b50d",
+      "crc32": "aadee8ba",
+      "sha1": "dcc1b32dc2fa6c242c48c6909fffe7f78335f01e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mediapart-2022-07-28T10:10:27.229746+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658995832",
+      "size": "1477",
+      "md5": "a357cb794c9b8ff54845386129f0db3f",
+      "crc32": "5765f815",
+      "sha1": "28dcf5d09b86cc9847fcc78b5de258f32951bf3f",
+      "format": "JSON"
+    },
+    {
       "name": "mediapart-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f752df584d0b1428646bc80043e7a5013a3be79c",
-      "mtime": "1658966822",
-      "size": "8841",
-      "md5": "d2e101fa2b365731329eee19c8d6dd22",
-      "crc32": "1a812dd8",
-      "sha1": "d414e393a7d83f73032f0cfde2526129150744f5",
+      "btih": "4f2efada0a51623476186b3a4c2dc7481948d759",
+      "mtime": "1658995873",
+      "size": "9905",
+      "md5": "f1ea67dc94f68fe2ca4912ca5111ab93",
+      "crc32": "9d56c55d",
+      "sha1": "3bae67ade150b154a194e1d0df5dca552afb2e98",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mediapart-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "63e1a26b917eef04622c33c2dc77eaf6",
+      "md5": "287bb7c35f2838da9f20ebca32c5c275",
       "summation": "md5"
     },
     {
       "name": "mediapart-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658966787",
-      "size": "61440",
-      "md5": "1962559ba664006e0f566a04dbfe0677",
-      "crc32": "1d43ca59",
-      "sha1": "f76bd698030a082096bfd4972ef8e7ab656eca44",
+      "mtime": "1658995837",
+      "size": "65536",
+      "md5": "729e37451aad23a27898d031bcc85844",
+      "crc32": "c8b2de8d",
+      "sha1": "dac2bc8450b608ef991e3bf6cc5199ac61f213ba",
       "format": "Metadata"
     },
     {
@@ -407,9 +459,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 39,
-  "item_last_updated": 1658966822,
-  "item_size": 3019112,
+  "files_count": 44,
+  "item_last_updated": 1658995873,
+  "item_size": 3426012,
+  "mediapart-2022": [
+    {
+      "url": "https://www.mediapart.fr/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mediapart_fr-_-2022_07_28_08_07_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mediapart_fr-_-2022_07_28_08_07_25.report.json",
+      "summary": {
+        "performance": 0.61,
+        "accessibility": 0.98,
+        "best-practices": 0.83,
+        "seo": 0.98,
+        "pwa": 0.8
+      }
+    },
+    {
+      "url": "https://www.mediapart.fr/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mediapart_fr-_-2022_07_28_08_07_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mediapart_fr-_-2022_07_28_08_07_43.report.json",
+      "summary": {
+        "performance": 0.64,
+        "accessibility": 0.98,
+        "best-practices": 0.83,
+        "seo": 0.98,
+        "pwa": 0.8
+      }
+    },
+    {
+      "url": "https://www.mediapart.fr/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mediapart_fr-_-2022_07_28_08_08_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mediapart_fr-_-2022_07_28_08_08_00.report.json",
+      "summary": {
+        "performance": 0.65,
+        "accessibility": 0.98,
+        "best-practices": 0.83,
+        "seo": 0.98,
+        "pwa": 0.8
+      }
+    }
+  ],
   "metadata": {
     "identifier": "mediapart-2022",
     "collection": [
@@ -431,7 +524,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345707445,
+      "task_id": 3346021463,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -439,7 +532,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1250829802,
+  "uniq": 649354051,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

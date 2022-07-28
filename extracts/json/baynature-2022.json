@@ -1,5 +1,46 @@
 {
-  "created": 1658949760,
+  "baynature-2022": [
+    {
+      "url": "https://baynature.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/baynature_org-_-2022_07_28_01_05_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/baynature_org-_-2022_07_28_01_05_59.report.json",
+      "summary": {
+        "performance": 0.49,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://baynature.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/baynature_org-_-2022_07_28_01_06_14.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/baynature_org-_-2022_07_28_01_06_14.report.json",
+      "summary": {
+        "performance": 0.48,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://baynature.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/baynature_org-_-2022_07_28_01_05_44.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/baynature_org-_-2022_07_28_01_05_44.report.json",
+      "summary": {
+        "performance": 0.41,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "created": 1659010191,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/7/items/baynature-2022",
@@ -2122,31 +2163,83 @@
       "sha1": "b65f3087a2fb72162012fc7ae1615f821568db40"
     },
     {
+      "name": "baynature-2022-07-27T18:27:40.266901-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658971662",
+      "size": "13105",
+      "md5": "dd38359e0c811ab406099c96a3c927da",
+      "crc32": "bcfc20fa",
+      "sha1": "6f030b0e96fda53a90b99152956eb22fa0f7c130",
+      "format": "JSON"
+    },
+    {
+      "name": "baynature-2022-07-27T18:27:40.266901-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658971664",
+      "size": "7920",
+      "md5": "17a65eeb0218e57b912b5b3edb40e509",
+      "crc32": "8a3e8d61",
+      "sha1": "f9fb1862eb4568c43ce73003a72f8d04aa60a2de",
+      "format": "JSON"
+    },
+    {
+      "name": "baynature-2022-07-27T18:27:40.266901-07:00.jpg",
+      "source": "original",
+      "mtime": "1658971661",
+      "size": "338201",
+      "md5": "f765f4712ffbabf64a2f612553a24866",
+      "crc32": "140b6581",
+      "sha1": "06d6b85cc71c0d84c06c427690d8b3c8f681450f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baynature-2022-07-27T18:27:40.266901-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658971667",
+      "size": "1450",
+      "md5": "672a03119a7a023a82d4970c7df8a5d4",
+      "crc32": "0a245e82",
+      "sha1": "66dcd6d84a2cf42645b712ce87e7fef40e77fd50",
+      "format": "JSON"
+    },
+    {
+      "name": "baynature-2022-07-27T18:27:40.266901-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baynature-2022-07-27T18:27:40.266901-07:00.jpg",
+      "mtime": "1658981385",
+      "size": "10362",
+      "md5": "d686788a85c795fa06042c8a7889d165",
+      "crc32": "9c76c822",
+      "sha1": "b65f3087a2fb72162012fc7ae1615f821568db40"
+    },
+    {
       "name": "baynature-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b23d6335fd3220d93a8d86e7190c963870dc608f",
-      "mtime": "1658949736",
-      "size": "44163",
-      "md5": "fa1be82d71f81c89aa8e1b71f26daaa9",
-      "crc32": "66842da6",
-      "sha1": "bac95a54fc8e3be39ff7042079cbdcbe14abe651",
+      "btih": "e618bfc7302eb35c1a95f616cbbd6ebd2bb2ef43",
+      "mtime": "1658981389",
+      "size": "45227",
+      "md5": "3bac88df950c3dc2f5e66a204478c8bb",
+      "crc32": "d0f2bf5d",
+      "sha1": "061e4e9f9fba4c4224fd1b7ca33aa0c49e408cfe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baynature-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2138a15418b74289816727ec2039c522",
+      "md5": "8fc621b544f383463deee6e11e5357ed",
       "summation": "md5"
     },
     {
       "name": "baynature-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658927894",
-      "size": "253952",
-      "md5": "34a86d7e480cb416499e53ec859468bd",
-      "crc32": "04f5404d",
-      "sha1": "1a86f05f271b384a22a8232b4bc047557e4124af",
+      "mtime": "1658971671",
+      "size": "262144",
+      "md5": "bb45fbc7d5fd86092e9e577d007a6eb5",
+      "crc32": "d2f74fc7",
+      "sha1": "73fe4842b0689188669d1d5d0b29f463cf9b61f6",
       "format": "Metadata"
     },
     {
@@ -2160,9 +2253,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 206,
-  "item_last_updated": 1658949736,
-  "item_size": 17682257,
+  "files_count": 211,
+  "item_last_updated": 1658981389,
+  "item_size": 18062551,
   "metadata": {
     "identifier": "baynature-2022",
     "collection": [
@@ -2180,7 +2273,7 @@
     "addeddate": "2022-07-09 03:56:56"
   },
   "server": "ia802503.us.archive.org",
-  "uniq": 1979047753,
+  "uniq": 1798288935,
   "workable_servers": [
     "ia802503.us.archive.org",
     "ia902503.us.archive.org"

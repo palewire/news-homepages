@@ -1,5 +1,5 @@
 {
-  "created": 1658966941,
+  "created": 1658978525,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/18/items/nepalkhabar24-2022",
@@ -421,21 +421,32 @@
       "format": "JSON"
     },
     {
+      "name": "nepalkhabar24-2022-07-28T05:53:14.466023+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nepalkhabar24-2022-07-28T05:53:14.466023+05:45.jpg",
+      "mtime": "1658978344",
+      "size": "10401",
+      "md5": "544c88d00f5ddb7af970c02f6315147d",
+      "crc32": "5f9e13c0",
+      "sha1": "0a52ba5ec0062fa158a3555dbe19027a850619a1"
+    },
+    {
       "name": "nepalkhabar24-2022_archive.torrent",
       "source": "metadata",
-      "btih": "659d0df89a378e173c9c1be43342b1e8a8045f17",
-      "mtime": "1658966937",
-      "size": "10097",
-      "md5": "3207aed2188ebee53ca975bbb3696d90",
-      "crc32": "64015246",
-      "sha1": "0b49f57e5c740db7c56046b2882672af8acd1975",
+      "btih": "0d98950eaad7965b29008ba040ed2b87f588aa8b",
+      "mtime": "1658978428",
+      "size": "10307",
+      "md5": "5720b77d4c720bdfa6e09911ea209d19",
+      "crc32": "62b65c99",
+      "sha1": "1590e118238b506a767c5e24a2f3823548d40880",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nepalkhabar24-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2826b27a02dcfbd7d4a246a79e97fca8",
+      "md5": "780f156c879f628a83ad651c99a70038",
       "summation": "md5"
     },
     {
@@ -459,9 +470,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 44,
-  "item_last_updated": 1658966937,
-  "item_size": 3328481,
+  "files_count": 45,
+  "item_last_updated": 1658978428,
+  "item_size": 3339092,
   "metadata": {
     "identifier": "nepalkhabar24-2022",
     "collection": [
@@ -478,20 +489,9 @@
     "publicdate": "2022-07-24 20:38:33",
     "addeddate": "2022-07-24 20:38:33"
   },
-  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
   "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3345708533,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 150472264,
+  "uniq": 412106089,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

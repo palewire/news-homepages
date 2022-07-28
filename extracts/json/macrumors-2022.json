@@ -1,5 +1,5 @@
 {
-  "created": 1658967880,
+  "created": 1659010687,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/1/items/macrumors-2022",
@@ -349,21 +349,32 @@
       "format": "JSON"
     },
     {
+      "name": "macrumors-2022-07-27T20:06:31.264912-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "macrumors-2022-07-27T20:06:31.264912-04:00.jpg",
+      "mtime": "1658978070",
+      "size": "10270",
+      "md5": "b457a7650138cc32ba341ffd4920fb2a",
+      "crc32": "573b5d1e",
+      "sha1": "5376df393e2487bcb290f3c9c160ea095d8e01b5"
+    },
+    {
       "name": "macrumors-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5e14e45db33cfec22b00efa982655b53e211bc58",
-      "mtime": "1658966837",
-      "size": "8463",
-      "md5": "7436efbd1e26de0dbb0d908b74f2c35f",
-      "crc32": "71b6efa3",
-      "sha1": "3f12b59ea2eb22f3f9df8bafc97c57ec61c0c5e2",
+      "btih": "60d2698b25f0ea00b105e9f052d7806c889b83d1",
+      "mtime": "1658978088",
+      "size": "8669",
+      "md5": "eabf5d79058fe19a3496ff80d6637191",
+      "crc32": "01bf2e7e",
+      "sha1": "4198624e6c3712f98530507f6deabf0fb0e968a2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "macrumors-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2592535cb7982aff724b4cba38102876",
+      "md5": "78481d8318b57678285bed6d70a1fa3e",
       "summation": "md5"
     },
     {
@@ -387,9 +398,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 37,
-  "item_last_updated": 1658966837,
-  "item_size": 3850134,
+  "files_count": 38,
+  "item_last_updated": 1658978088,
+  "item_size": 3860610,
   "macrumors-2022": [
     {
       "url": "https://www.macrumors.com/",
@@ -447,21 +458,10 @@
     "publicdate": "2022-07-25 06:47:43",
     "addeddate": "2022-07-25 06:47:43"
   },
-  "pending_tasks": true,
   "server": "ia601402.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3345707567,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 314214032,
+  "uniq": 2041664133,
   "workable_servers": [
-    "ia601402.us.archive.org"
+    "ia601402.us.archive.org",
+    "ia801402.us.archive.org"
   ]
 }

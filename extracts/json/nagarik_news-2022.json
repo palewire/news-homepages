@@ -1,5 +1,5 @@
 {
-  "created": 1658953101,
+  "created": 1659010768,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/6/items/nagarik_news-2022",
@@ -380,31 +380,83 @@
       "sha1": "51ae2c80979d6d01b4a9773dc870811e49cf16a1"
     },
     {
+      "name": "nagarik_news-2022-07-28T08:27:44.083415+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1658976167",
+      "size": "152529",
+      "md5": "317f7a135d14b7cb452a0e66b1effcb8",
+      "crc32": "aa619dad",
+      "sha1": "b15f0d09524fadc265666561847de63f83a5fd71",
+      "format": "JSON"
+    },
+    {
+      "name": "nagarik_news-2022-07-28T08:27:44.083415+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658976168",
+      "size": "135928",
+      "md5": "9941216bd7f73bd20c742e3e85ac4541",
+      "crc32": "02354845",
+      "sha1": "c28ff1cf92ca76456ba436afa6e28e29c2cd2898",
+      "format": "JSON"
+    },
+    {
+      "name": "nagarik_news-2022-07-28T08:27:44.083415+05:45.jpg",
+      "source": "original",
+      "mtime": "1658976165",
+      "size": "236690",
+      "md5": "edb15b1e43a22298531a1d4dca0ccf4d",
+      "crc32": "15ca7389",
+      "sha1": "f78e4706ba107536dd0f3bb140e259331c81c507",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nagarik_news-2022-07-28T08:27:44.083415+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1658976170",
+      "size": "1603",
+      "md5": "39fae267d1b3d24132947d2918e61f67",
+      "crc32": "b4059f8b",
+      "sha1": "bed5a4a677e8ccef4d5b7fee49b4363a3d1c4679",
+      "format": "JSON"
+    },
+    {
+      "name": "nagarik_news-2022-07-28T08:27:44.083415+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nagarik_news-2022-07-28T08:27:44.083415+05:45.jpg",
+      "mtime": "1658985914",
+      "size": "8207",
+      "md5": "a51a3ce10ec1eae43fabf0b5237dd7c2",
+      "crc32": "69de5ad8",
+      "sha1": "7e820152eed8e1543a54316c96a0a1d87ffc856e"
+    },
+    {
       "name": "nagarik_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f33b0289fde12bb1b346b3f34e5a7ef53e9fa093",
-      "mtime": "1658953091",
-      "size": "9227",
-      "md5": "77c6a0048f79515a6c1d1ed3ac15aa54",
-      "crc32": "bf2f061e",
-      "sha1": "9f9be110f13ee41aa9ff8fe5271c9e352685e927",
+      "btih": "74c2b3484f3d71109c50378fe70728e6ecaff9ee",
+      "mtime": "1658985920",
+      "size": "10308",
+      "md5": "8fd9d829cd193fc3834373aa2b96c54a",
+      "crc32": "05253923",
+      "sha1": "2be279ad39045783550cab0c93b70955ea300692",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nagarik_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cff3240771dce83b87c984c0744f4caa",
+      "md5": "4c453ea579382711273c487593db9272",
       "summation": "md5"
     },
     {
       "name": "nagarik_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658932596",
-      "size": "61440",
-      "md5": "92d6e80340091baf0d2039453cfdef93",
-      "crc32": "fd5e50a4",
-      "sha1": "2316077bbb28413b3abdab25c912b939140ef1e9",
+      "mtime": "1658976175",
+      "size": "65536",
+      "md5": "114a2bb815d9df0418ede114f3f56cc1",
+      "crc32": "e5205d2c",
+      "sha1": "568c8f75c05eff715fe792781cc269c62862f8e5",
       "format": "Metadata"
     },
     {
@@ -418,9 +470,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 40,
-  "item_last_updated": 1658953091,
-  "item_size": 3715715,
+  "files_count": 45,
+  "item_last_updated": 1658985920,
+  "item_size": 4255849,
   "metadata": {
     "identifier": "nagarik_news-2022",
     "collection": [
@@ -437,8 +489,49 @@
     "publicdate": "2022-07-24 20:38:29",
     "addeddate": "2022-07-24 20:38:29"
   },
+  "nagarik_news-2022": [
+    {
+      "url": "https://nagariknews.nagariknetwork.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nagariknews_nagariknetwork_com-_-2022_07_28_02_24_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nagariknews_nagariknetwork_com-_-2022_07_28_02_24_13.report.json",
+      "summary": {
+        "performance": 0.14,
+        "accessibility": 0.55,
+        "best-practices": 0.75,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://nagariknews.nagariknetwork.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nagariknews_nagariknetwork_com-_-2022_07_28_02_25_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nagariknews_nagariknetwork_com-_-2022_07_28_02_25_05.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.55,
+        "best-practices": 0.75,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://nagariknews.nagariknetwork.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nagariknews_nagariknetwork_com-_-2022_07_28_02_25_57.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nagariknews_nagariknetwork_com-_-2022_07_28_02_25_57.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.55,
+        "best-practices": 0.75,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    }
+  ],
   "server": "ia801404.us.archive.org",
-  "uniq": 474275571,
+  "uniq": 466053242,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"

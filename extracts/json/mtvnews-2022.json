@@ -1,5 +1,5 @@
 {
-  "created": 1658966897,
+  "created": 1659010763,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/15/items/mtvnews-2022",
@@ -977,21 +977,32 @@
       "format": "JSON"
     },
     {
+      "name": "mtvnews-2022-07-27T20:07:28.215173-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtvnews-2022-07-27T20:07:28.215173-04:00.jpg",
+      "mtime": "1658978198",
+      "size": "11167",
+      "md5": "4dc9aca0febba225b8ad4161644e4652",
+      "crc32": "0d218956",
+      "sha1": "2a549014062d02489991848e4819cc3c97f4b7f5"
+    },
+    {
       "name": "mtvnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "97f14755849681c890887f9e9b80a43ce8d9279e",
-      "mtime": "1658966893",
-      "size": "20842",
-      "md5": "ba097260c9da2587b5fdd1b3f5a9eb49",
-      "crc32": "e29adcb1",
-      "sha1": "3db7e4ce0a6227f18f2dad5bcd7504b5f411b5fb",
+      "btih": "d6d053c0e294bc4575ed68cfc7c355868df7ffdb",
+      "mtime": "1658978212",
+      "size": "21046",
+      "md5": "b26aa6fb736465e685940c371278f8c7",
+      "crc32": "4cafedf1",
+      "sha1": "4b433a17007c9ababca009b38df80639387be6c8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtvnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0630527782754c2f672e2399c0619d8e",
+      "md5": "a628261b8f6093c58dafa939eeffc409",
       "summation": "md5"
     },
     {
@@ -1015,9 +1026,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 97,
-  "item_last_updated": 1658966893,
-  "item_size": 6479004,
+  "files_count": 98,
+  "item_last_updated": 1658978212,
+  "item_size": 6490375,
   "metadata": {
     "identifier": "mtvnews-2022",
     "collection": [
@@ -1034,21 +1045,51 @@
     "publicdate": "2022-07-18 03:27:44",
     "addeddate": "2022-07-18 03:27:44"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "mtvnews-2022": [
     {
-      "task_id": 3345708112,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.mtv.com/news",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mtv_com-_news-2022_07_27_23_47_04.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mtv_com-_news-2022_07_27_23_47_04.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.91,
+        "best-practices": 0.83,
+        "seo": 0.97,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.mtv.com/news",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mtv_com-_news-2022_07_27_23_47_30.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mtv_com-_news-2022_07_27_23_47_30.report.json",
+      "summary": {
+        "performance": 0.22,
+        "accessibility": 0.91,
+        "best-practices": 0.83,
+        "seo": 0.98,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.mtv.com/news",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mtv_com-_news-2022_07_27_23_46_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mtv_com-_news-2022_07_27_23_46_37.report.json",
+      "summary": {
+        "performance": 0.22,
+        "accessibility": 0.91,
+        "best-practices": 0.83,
+        "seo": 0.97,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 952666402,
+  "server": "ia601408.us.archive.org",
+  "uniq": 188766553,
   "workable_servers": [
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

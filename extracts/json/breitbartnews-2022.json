@@ -1,5 +1,5 @@
 {
-  "created": 1658963049,
+  "created": 1659006466,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/breitbartnews-2022",
@@ -9117,21 +9117,32 @@
       "format": "JSON"
     },
     {
+      "name": "breitbartnews-2022-07-27T19:03:07.431388-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "breitbartnews-2022-07-27T19:03:07.431388-04:00.jpg",
+      "mtime": "1658974255",
+      "size": "10208",
+      "md5": "b08751d74aa87d4b8456f0f9ccd865d2",
+      "crc32": "b8c4e880",
+      "sha1": "3765c722222fbc60a9319381d74b6508872a6bab"
+    },
+    {
       "name": "breitbartnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "50e6ac700eb07f6ccc57cbf27a9a5fa92a41f78d",
-      "mtime": "1658963043",
-      "size": "189343",
-      "md5": "79c6d6cdfedd405694c783793e7eab5c",
-      "crc32": "e04ad43c",
-      "sha1": "59a148d689bd1f610e5a44dc64a1623e6a094fcc",
+      "btih": "8062f3890c178fbc6231f4870d16ffd73df4fb92",
+      "mtime": "1658974292",
+      "size": "189553",
+      "md5": "5acbb2f7771e00dd3a259031802e2b74",
+      "crc32": "de471578",
+      "sha1": "a399477d11414b3053a3ae9d3aedbc563affc93c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "breitbartnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e64f15b9064da846e8c5bbfc2ab56049",
+      "md5": "dce3d605ebf0fa0be606476150edbd75",
       "summation": "md5"
     },
     {
@@ -9155,9 +9166,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 872,
-  "item_last_updated": 1658963043,
-  "item_size": 92970013,
+  "files_count": 873,
+  "item_last_updated": 1658974292,
+  "item_size": 92980431,
   "metadata": {
     "identifier": "breitbartnews-2022",
     "collection": [
@@ -9179,15 +9190,39 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345669312,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3346126671,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3346126683,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3346126700,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3346126714,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1978663749,
+  "uniq": 989073600,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

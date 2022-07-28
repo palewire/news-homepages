@@ -1,5 +1,5 @@
 {
-  "created": 1658967823,
+  "created": 1659010556,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/14/items/kerrville-2022",
@@ -958,31 +958,83 @@
       "sha1": "b967e2a3691ed1b10e192675d99f4d26707fbd11"
     },
     {
+      "name": "kerrville-2022-07-27T21:39:55.906147-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658976004",
+      "size": "84967",
+      "md5": "d7313dcf9a2f53b5d162231db4d26b53",
+      "crc32": "0e5a7ad0",
+      "sha1": "8648e8b604fd4fb4898bb41322c50b989234de5b",
+      "format": "JSON"
+    },
+    {
+      "name": "kerrville-2022-07-27T21:39:55.906147-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658976005",
+      "size": "134198",
+      "md5": "708f5432b09e28fb92123a58422ffb22",
+      "crc32": "39905bfa",
+      "sha1": "076ea3cd4bed037d78a0793673d1e798fd90e226",
+      "format": "JSON"
+    },
+    {
+      "name": "kerrville-2022-07-27T21:39:55.906147-05:00.jpg",
+      "source": "original",
+      "mtime": "1658976002",
+      "size": "317775",
+      "md5": "30e6a4facaf9b0427f645b54f3a3acf4",
+      "crc32": "2c98fde3",
+      "sha1": "3e5d36377d378b55b123e6a8ced7ede592607ed0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kerrville-2022-07-27T21:39:55.906147-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658976007",
+      "size": "1459",
+      "md5": "89d42003c50dc529b5e0527f7e02792d",
+      "crc32": "48a6230a",
+      "sha1": "2f026c583180528ff3e9fca3f690ffb72df49b24",
+      "format": "JSON"
+    },
+    {
+      "name": "kerrville-2022-07-27T21:39:55.906147-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kerrville-2022-07-27T21:39:55.906147-05:00.jpg",
+      "mtime": "1658985786",
+      "size": "9583",
+      "md5": "352da57af512621b09b49b3ad3da9bf4",
+      "crc32": "90ece199",
+      "sha1": "9cff3ac4c09f890bfbe29f51899270199c57dc9f"
+    },
+    {
       "name": "kerrville-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d54923f676939ff7b3caf0197776065fa8a2e872",
-      "mtime": "1658953113",
-      "size": "20835",
-      "md5": "99d237694c5e6822c4be57761f9c9753",
-      "crc32": "7667cc49",
-      "sha1": "49c389cdf36fac9e6a999843be890346b936561e",
+      "btih": "57133554de52032b0310a0d452586a007153f97e",
+      "mtime": "1658985795",
+      "size": "21900",
+      "md5": "d3a3bbc9628544b6ce887b39f701d3bb",
+      "crc32": "1cb65ec8",
+      "sha1": "0551399cb3556913f019d1748ee7a6072ed4342d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kerrville-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4febb455b8fdb475463caa57b87849f8",
+      "md5": "a8c762cb2bef7233cbedb739423fa5b3",
       "summation": "md5"
     },
     {
       "name": "kerrville-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658932355",
-      "size": "131072",
-      "md5": "242e806e3085d1768dfd8fc1a50b3820",
-      "crc32": "2058b366",
-      "sha1": "ab30ffebb72f223396d7958bf351090de269d49d",
+      "mtime": "1658976010",
+      "size": "139264",
+      "md5": "9efa0b69657d34c429aa8d7055c1f60f",
+      "crc32": "4a020f66",
+      "sha1": "397d8506f3ab35a41111edbe34c3d6b20128ec18",
       "format": "Metadata"
     },
     {
@@ -996,17 +1048,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 95,
-  "item_last_updated": 1658953113,
-  "item_size": 11385329,
+  "files_count": 100,
+  "item_last_updated": 1658985795,
+  "item_size": 11942568,
   "kerrville-2022": [
     {
       "url": "https://dailytimes.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailytimes_com-_-2022_07_27_14_11_07.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailytimes_com-_-2022_07_27_14_11_07.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailytimes_com-_-2022_07_28_02_19_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailytimes_com-_-2022_07_28_02_19_23.report.json",
       "summary": {
-        "performance": 0.19,
+        "performance": 0.17,
         "accessibility": 0.87,
         "best-practices": 0.92,
         "seo": 0.67,
@@ -1016,8 +1068,8 @@
     {
       "url": "https://dailytimes.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailytimes_com-_-2022_07_27_14_12_02.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailytimes_com-_-2022_07_27_14_12_02.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailytimes_com-_-2022_07_28_02_19_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailytimes_com-_-2022_07_28_02_19_54.report.json",
       "summary": {
         "performance": 0.19,
         "accessibility": 0.87,
@@ -1029,10 +1081,10 @@
     {
       "url": "https://dailytimes.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailytimes_com-_-2022_07_27_14_10_39.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailytimes_com-_-2022_07_27_14_10_39.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailytimes_com-_-2022_07_28_02_20_22.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailytimes_com-_-2022_07_28_02_20_22.report.json",
       "summary": {
-        "performance": 0.17,
+        "performance": 0.19,
         "accessibility": 0.87,
         "best-practices": 0.92,
         "seo": 0.67,
@@ -1057,7 +1109,7 @@
     "addeddate": "2022-07-18 00:04:49"
   },
   "server": "ia801402.us.archive.org",
-  "uniq": 1543695057,
+  "uniq": 2027737870,
   "workable_servers": [
     "ia801402.us.archive.org",
     "ia601402.us.archive.org"

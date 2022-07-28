@@ -1,48 +1,7 @@
 {
-  "created": 1658967620,
+  "created": 1659006647,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
-  "desert_oracle-2022": [
-    {
-      "url": "https://www.desertoracle.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desertoracle_com-_-2022_07_27_22_46_53.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desertoracle_com-_-2022_07_27_22_46_53.report.json",
-      "summary": {
-        "performance": 0.47,
-        "accessibility": 0.8,
-        "best-practices": 0.92,
-        "seo": 0.93,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.desertoracle.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desertoracle_com-_-2022_07_27_22_47_06.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desertoracle_com-_-2022_07_27_22_47_06.report.json",
-      "summary": {
-        "performance": 0.41,
-        "accessibility": 0.8,
-        "best-practices": 0.92,
-        "seo": 0.93,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.desertoracle.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desertoracle_com-_-2022_07_27_22_46_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desertoracle_com-_-2022_07_27_22_46_38.report.json",
-      "summary": {
-        "performance": 0.43,
-        "accessibility": 0.8,
-        "best-practices": 0.92,
-        "seo": 0.93,
-        "pwa": 0.3
-      }
-    }
-  ],
   "dir": "/23/items/desert_oracle-2022",
   "files": [
     {
@@ -2122,31 +2081,83 @@
       "format": "JSON"
     },
     {
+      "name": "desert_oracle-2022-07-27T16:05:58.494042-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desert_oracle-2022-07-27T16:05:58.494042-07:00.jpg",
+      "mtime": "1658974380",
+      "size": "6892",
+      "md5": "a01dc3b625b9dac8bb9bb19dc63c4b09",
+      "crc32": "f5851f3e",
+      "sha1": "c9d77f2c8c4c9669b0e1704549288a32106ab7fd"
+    },
+    {
+      "name": "desert_oracle-2022-07-28T04:09:57.565564-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659006600",
+      "size": "7019",
+      "md5": "450c6cc22bd050c1db5c931000d87e9e",
+      "crc32": "b5442e41",
+      "sha1": "0ec1a10d3c1d7c75e0ae9ca4ee4995ae550e1a32",
+      "format": "JSON"
+    },
+    {
+      "name": "desert_oracle-2022-07-28T04:09:57.565564-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659006602",
+      "size": "2698",
+      "md5": "b40e8f951b84093cdb0ce8dff831de3a",
+      "crc32": "42bc7e5f",
+      "sha1": "7fe3bc364fd5f580043290a6a5a62b73a58460b1",
+      "format": "JSON"
+    },
+    {
+      "name": "desert_oracle-2022-07-28T04:09:57.565564-07:00.jpg",
+      "source": "original",
+      "mtime": "1659006599",
+      "size": "125248",
+      "md5": "551f3495fb72e8fffb3121ddfe2279c0",
+      "crc32": "df6f7369",
+      "sha1": "0cf8a0e24ec541196eabd69f905bc58ddfc3212f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desert_oracle-2022-07-28T04:09:57.565564-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659006604",
+      "size": "1510",
+      "md5": "c0614583c432b3901c77518144c5d9cf",
+      "crc32": "ae6c3249",
+      "sha1": "966fc12007bb3a8add39aee8157bccdae07b4b21",
+      "format": "JSON"
+    },
+    {
       "name": "desert_oracle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d13956841aad932d1fcb1a8464da34c5c114ff16",
-      "mtime": "1658963203",
-      "size": "43686",
-      "md5": "5fc079d9263e2a1e71c45dba28ac8006",
-      "crc32": "562b86d2",
-      "sha1": "d4c34eaf4e8b349a27a24d719b92c5e493c91cba",
+      "btih": "c7e8a566a977eb75d714ea0ea9b1e574995140b8",
+      "mtime": "1659006645",
+      "size": "44748",
+      "md5": "ef15f21f33681bd6078a264c8e9273a0",
+      "crc32": "6a68cfeb",
+      "sha1": "ae76f4160e041affa97c1fe42a5aa76fe8601171",
       "format": "Archive BitTorrent"
     },
     {
       "name": "desert_oracle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "be34164138ee9365ef1508e55b7f0c2f",
+      "md5": "1fac47e589c0300d735bceffd73a3e46",
       "summation": "md5"
     },
     {
       "name": "desert_oracle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658963168",
-      "size": "253952",
-      "md5": "fb2b943c36a4df13f756d131a4ab9d81",
-      "crc32": "844c0386",
-      "sha1": "104e57e8ef106bb205d8fb7743062bda1d231215",
+      "mtime": "1659006609",
+      "size": "262144",
+      "md5": "6d34d9aa3ee4cd8b4295e6b624652635",
+      "crc32": "289ec427",
+      "sha1": "88e2484465484a5a6b67ee465b4b8faf8595f494",
       "format": "Metadata"
     },
     {
@@ -2160,9 +2171,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 202,
-  "item_last_updated": 1658963203,
-  "item_size": 7485352,
+  "files_count": 207,
+  "item_last_updated": 1659006645,
+  "item_size": 7637973,
   "metadata": {
     "identifier": "desert_oracle-2022",
     "collection": [
@@ -2184,7 +2195,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345671916,
+      "task_id": 3346128293,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2192,7 +2203,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 960353330,
+  "uniq": 1686836626,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

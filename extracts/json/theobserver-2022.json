@@ -1,5 +1,5 @@
 {
-  "created": 1658957851,
+  "created": 1658990395,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/35/items/theobserver-2022",
@@ -1610,31 +1610,83 @@
       "sha1": "dcd67e9107b6126e94ba74a7d1b58cb842eafb8e"
     },
     {
+      "name": "theobserver-2022-07-27T23:47:52.207092-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658980075",
+      "size": "466",
+      "md5": "e5519f3e5a25c55b31b50afa51831477",
+      "crc32": "85f3807c",
+      "sha1": "5f8dfa460bc6b2654d1cf5c45b38ffbf7e0ea453",
+      "format": "JSON"
+    },
+    {
+      "name": "theobserver-2022-07-27T23:47:52.207092-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658980077",
+      "size": "43397",
+      "md5": "139438fc1ecb0d0b3ffcb4850c575101",
+      "crc32": "7598a277",
+      "sha1": "99f342f8b41153b41cd52442cadbaa0647d3692f",
+      "format": "JSON"
+    },
+    {
+      "name": "theobserver-2022-07-27T23:47:52.207092-04:00.jpg",
+      "source": "original",
+      "mtime": "1658980074",
+      "size": "330655",
+      "md5": "8c77ecc6781f8d6d4db3e2f31107cf64",
+      "crc32": "505ec17b",
+      "sha1": "51ffa76854dbf248d1e8f99e33468804a637d340",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theobserver-2022-07-27T23:47:52.207092-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658980078",
+      "size": "1558",
+      "md5": "b2869206309c354acc720864a3c223e2",
+      "crc32": "e23fa33c",
+      "sha1": "ae169b362e28ead4c32f2e1b3929995ab3d1bd10",
+      "format": "JSON"
+    },
+    {
+      "name": "theobserver-2022-07-27T23:47:52.207092-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theobserver-2022-07-27T23:47:52.207092-04:00.jpg",
+      "mtime": "1658990350",
+      "size": "11207",
+      "md5": "bc2035703ab28fcf2ab45b02064e2c55",
+      "crc32": "8a971565",
+      "sha1": "dbfbdd7542073d8b81c1c5924960e0ff765a0314"
+    },
+    {
       "name": "theobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9fa6d329ee5020d35abca50808139646c2544333",
-      "mtime": "1658957811",
-      "size": "34013",
-      "md5": "79da50840c935bbb4ea5ccf3d271018a",
-      "crc32": "5ba3003d",
-      "sha1": "c821629f48241eed6e65f4dde54206c73efd47e8",
+      "btih": "289fd83686524fbeb59e08f03d9a801cc72d818f",
+      "mtime": "1658990373",
+      "size": "35086",
+      "md5": "69b5503d6d646a60dc2c51a75f1d1c3a",
+      "crc32": "c7ac0300",
+      "sha1": "fe0c6a1e91f45b6b4a992a0aa021d9fd927eb758",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bb4714dc49ef8a08768765125be6c13c",
+      "md5": "f700e4fdba8f5f2042bbb81ce084c096",
       "summation": "md5"
     },
     {
       "name": "theobserver-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658936976",
-      "size": "200704",
-      "md5": "cd81b220cb634227ddb85d14b91850ec",
-      "crc32": "b3860a6a",
-      "sha1": "fc0a7703c380a4e5603d353fbc47506133cb6ad6",
+      "mtime": "1658980084",
+      "size": "204800",
+      "md5": "52d80a7cbd4cd2b2457e76d2a9054710",
+      "crc32": "823e9995",
+      "sha1": "d730bf86f624d707a70b17292c01c5f6a3969d97",
       "format": "Metadata"
     },
     {
@@ -1648,9 +1700,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 157,
-  "item_last_updated": 1658957811,
-  "item_size": 12396906,
+  "files_count": 162,
+  "item_last_updated": 1658990373,
+  "item_size": 12789358,
   "metadata": {
     "identifier": "theobserver-2022",
     "collection": [
@@ -1667,10 +1719,10 @@
     "publicdate": "2022-07-10 14:53:55",
     "addeddate": "2022-07-10 14:53:55"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1192358538,
+  "server": "ia601409.us.archive.org",
+  "uniq": 288760799,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

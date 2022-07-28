@@ -1,5 +1,5 @@
 {
-  "created": 1658963145,
+  "created": 1659007246,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/35/items/theprospect-2022",
@@ -1418,31 +1418,83 @@
       "sha1": "1e96ef26b77c6385953eebd62b507334596893fb"
     },
     {
+      "name": "theprospect-2022-07-27T21:32:08.194836-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658971930",
+      "size": "26934",
+      "md5": "9f9abba37e6b22bdfb3138312965cd4d",
+      "crc32": "1fec827e",
+      "sha1": "0ca2ec9c1928433686f9e9e37c27f3d9a786ee7e",
+      "format": "JSON"
+    },
+    {
+      "name": "theprospect-2022-07-27T21:32:08.194836-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658971932",
+      "size": "18156",
+      "md5": "05ed33df4ddfee1154242be1f394549b",
+      "crc32": "b7fba4c9",
+      "sha1": "a7b96974e59747f07668aaa0207ae238ab262a64",
+      "format": "JSON"
+    },
+    {
+      "name": "theprospect-2022-07-27T21:32:08.194836-04:00.jpg",
+      "source": "original",
+      "mtime": "1658971929",
+      "size": "253548",
+      "md5": "16d920f1388dbca6187fdf4a06aba9f3",
+      "crc32": "6dc6e745",
+      "sha1": "8ece8fda6cacc243543acd1f7942928f7edf6034",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theprospect-2022-07-27T21:32:08.194836-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658971933",
+      "size": "1441",
+      "md5": "4a95ec509e4a58dbcc5bdeebf4fcfdca",
+      "crc32": "91db44bf",
+      "sha1": "9f6edd8feee9c8510a85618f85998b9fed57df14",
+      "format": "JSON"
+    },
+    {
+      "name": "theprospect-2022-07-27T21:32:08.194836-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theprospect-2022-07-27T21:32:08.194836-04:00.jpg",
+      "mtime": "1658982038",
+      "size": "9084",
+      "md5": "98a4cbad9c92b76e5c4382613398767e",
+      "crc32": "58e4e1d3",
+      "sha1": "1370c1811706b4d013793f5fe018f46af897b7c1"
+    },
+    {
       "name": "theprospect-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2d401f17a2ddfa08a891ab441e8419d94628ef0c",
-      "mtime": "1658949966",
-      "size": "30223",
-      "md5": "a5374afa493a0e198c52d48490ed0feb",
-      "crc32": "1f62b143",
-      "sha1": "a4dbc719c91c6bed68a8536fdb9ecb7b7ff9c3d1",
+      "btih": "6392b7b8146c956c19194de77222ca041e8ddfba",
+      "mtime": "1658982091",
+      "size": "31297",
+      "md5": "96cdeeb34041f1fb0843bdbb83861a4e",
+      "crc32": "a16c3c13",
+      "sha1": "b69908fe79e831491c7d71d99641a3578f7feeaa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theprospect-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "49bfd24adaa9926deb8a0a7abb3a6ffa",
+      "md5": "7354e0d77344ca2529e70753c02f4944",
       "summation": "md5"
     },
     {
       "name": "theprospect-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658928241",
-      "size": "180224",
-      "md5": "7f7e5164beab812f3628a16bad28356d",
-      "crc32": "001dd859",
-      "sha1": "3b6d34ff6267d26f3cd52aa92714214375f72fb9",
+      "mtime": "1658971939",
+      "size": "188416",
+      "md5": "4fb4b2f9d115f3e5ff075fd06fc6a607",
+      "crc32": "d5cece4f",
+      "sha1": "ae807c2e34e6894cb3c7b03e5934f55060212cf4",
       "format": "Metadata"
     },
     {
@@ -1456,9 +1508,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 139,
-  "item_last_updated": 1658949966,
-  "item_size": 10232821,
+  "files_count": 144,
+  "item_last_updated": 1658982091,
+  "item_size": 10551250,
   "metadata": {
     "identifier": "theprospect-2022",
     "collection": [
@@ -1475,10 +1527,10 @@
     "publicdate": "2022-07-17 16:00:07",
     "addeddate": "2022-07-17 16:00:07"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 458431677,
+  "server": "ia601502.us.archive.org",
+  "uniq": 1886111497,
   "workable_servers": [
-    "ia801502.us.archive.org",
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

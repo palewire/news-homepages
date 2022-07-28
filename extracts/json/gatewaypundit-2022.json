@@ -1,5 +1,5 @@
 {
-  "created": 1658967749,
+  "created": 1659004067,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/2/items/gatewaypundit-2022",
@@ -3268,31 +3268,83 @@
       "sha1": "8aa60c96a47b1dfcd1340dd3785a7a2d8df60793"
     },
     {
+      "name": "gatewaypundit-2022-07-27T21:36:33.129518-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658975802",
+      "size": "35209",
+      "md5": "8e198071fb156f4b0452c911a8f1cd6d",
+      "crc32": "34e18345",
+      "sha1": "93675fed12fd24c17619a8e442061251a15cbb45",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-07-27T21:36:33.129518-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658975804",
+      "size": "76521",
+      "md5": "7f4883ac9373149c9f6644ad9f1533b0",
+      "crc32": "8036d128",
+      "sha1": "5bb9e09576f984c1bcd5909ed167845b8983f3b1",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-07-27T21:36:33.129518-05:00.jpg",
+      "source": "original",
+      "mtime": "1658975801",
+      "size": "324295",
+      "md5": "db39bc9e4dec64f208255cb487ab60ff",
+      "crc32": "a501d69c",
+      "sha1": "72455a0171ecd1fb0c2cdf6731a813331efb606c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gatewaypundit-2022-07-27T21:36:33.129518-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658975805",
+      "size": "1549",
+      "md5": "9bcb2312bd35bd6c2c67be76ee8d4411",
+      "crc32": "19a1aee0",
+      "sha1": "74ca2ba40d0423e41568dae9793def58d50cc909",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-07-27T21:36:33.129518-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gatewaypundit-2022-07-27T21:36:33.129518-05:00.jpg",
+      "mtime": "1658985563",
+      "size": "10439",
+      "md5": "193c804c9fc182df029752f389dd6c1a",
+      "crc32": "b0c39004",
+      "sha1": "bc3ad6f2e15b53fc967b82af7e90736b0473f15f"
+    },
+    {
       "name": "gatewaypundit-2022_archive.torrent",
       "source": "metadata",
-      "btih": "98c40effc40c1549f85ec13e74772741f2eb7531",
-      "mtime": "1658952743",
-      "size": "68871",
-      "md5": "5dbd38c27b064565c9daa8a07d6eb07f",
-      "crc32": "82932aa9",
-      "sha1": "636473367db21fc9f92a5984ed9117ee5e1c03f3",
+      "btih": "0a9a58ea96e07e8165f8a2be6937110cb0d5938d",
+      "mtime": "1658985619",
+      "size": "69956",
+      "md5": "7c2cdd9e143e21b7fc1be7034b91b976",
+      "crc32": "a1dc1e76",
+      "sha1": "57ae35153c127158532fd1fe4fdaa5d3e1630333",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gatewaypundit-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d7d063ae60b3036162628ab6b39e6437",
+      "md5": "1b11e7a1a54b61940f850c00d6a1cc87",
       "summation": "md5"
     },
     {
       "name": "gatewaypundit-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658932153",
-      "size": "376832",
-      "md5": "358d4050e39c8d8af5fb091c00d16286",
-      "crc32": "dcb2d37b",
-      "sha1": "c5507aa5c3e77c847c2b49a70395c0028390a410",
+      "mtime": "1658975810",
+      "size": "389120",
+      "md5": "d57638176fa487c059a0c46ccd67babd",
+      "crc32": "d20e3c59",
+      "sha1": "f07eb3780071648725125a99f46286d5fac382e1",
       "format": "Metadata"
     },
     {
@@ -3306,50 +3358,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 315,
-  "gatewaypundit-2022": [
-    {
-      "url": "https://www.thegatewaypundit.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thegatewaypundit_com-_-2022_07_27_14_05_33.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thegatewaypundit_com-_-2022_07_27_14_05_33.report.json",
-      "summary": {
-        "performance": 0.4,
-        "accessibility": 0.87,
-        "best-practices": 0.83,
-        "seo": 0.85,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.thegatewaypundit.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thegatewaypundit_com-_-2022_07_27_14_06_15.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thegatewaypundit_com-_-2022_07_27_14_06_15.report.json",
-      "summary": {
-        "performance": 0.55,
-        "accessibility": 0.87,
-        "best-practices": 0.83,
-        "seo": 0.85,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.thegatewaypundit.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thegatewaypundit_com-_-2022_07_27_14_06_58.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thegatewaypundit_com-_-2022_07_27_14_06_58.report.json",
-      "summary": {
-        "performance": 0.56,
-        "accessibility": 0.87,
-        "best-practices": 0.83,
-        "seo": 0.85,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "item_last_updated": 1658952743,
-  "item_size": 34836907,
+  "files_count": 320,
+  "item_last_updated": 1658985619,
+  "item_size": 35298293,
   "metadata": {
     "identifier": "gatewaypundit-2022",
     "collection": [
@@ -3366,10 +3377,10 @@
     "publicdate": "2022-07-02 15:24:15",
     "addeddate": "2022-07-02 15:24:15"
   },
-  "server": "ia601500.us.archive.org",
-  "uniq": 1731439484,
+  "server": "ia801500.us.archive.org",
+  "uniq": 2031831294,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia801500.us.archive.org",
+    "ia601500.us.archive.org"
   ]
 }

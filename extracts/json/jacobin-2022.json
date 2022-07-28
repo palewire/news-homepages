@@ -1,5 +1,5 @@
 {
-  "created": 1658967790,
+  "created": 1659000167,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/35/items/jacobin-2022",
@@ -2540,31 +2540,72 @@
       "sha1": "534ba29cfb85d6dee2ab3de307b270e013b0cb64"
     },
     {
+      "name": "jacobin-2022-07-27T22:39:09.719165-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658975952",
+      "size": "21210",
+      "md5": "0eb3fbdd619891752cc67e617770267e",
+      "crc32": "fbf86efa",
+      "sha1": "5e78a2fba6b35d82468688b5441b19f66d9c896e",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-07-27T22:39:09.719165-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658975954",
+      "size": "13966",
+      "md5": "25096ea0c9de59980789c413f6e28d59",
+      "crc32": "37f28c17",
+      "sha1": "9161b394a76a01ba70bb168952450652826a9c5c",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-07-27T22:39:09.719165-04:00.jpg",
+      "source": "original",
+      "mtime": "1658975951",
+      "size": "303767",
+      "md5": "e7f42db381e63eccf7d9bceb6d3bb51f",
+      "crc32": "f0edea63",
+      "sha1": "c4e84e6c012244513851151905aca2a459662c41",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jacobin-2022-07-27T22:39:09.719165-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658975956",
+      "size": "1431",
+      "md5": "2aa1678d84ac37088d3687fffafb3bc1",
+      "crc32": "6be0041d",
+      "sha1": "fd6a1996cfe747d1024f97096951b892b170041e",
+      "format": "JSON"
+    },
+    {
       "name": "jacobin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e1c0839e1d9f21e2d512aebffa29c621ec535ddc",
-      "mtime": "1658959449",
-      "size": "52147",
-      "md5": "fe59994b012a38eddfc2415bd5314292",
-      "crc32": "1f83eda0",
-      "sha1": "51245aab5b9d3d2b849e61ef02ec776d8c7f0e49",
+      "btih": "a8a456a33c08ccfaec96b7e9e0a32bff692fe4bf",
+      "mtime": "1658975998",
+      "size": "52978",
+      "md5": "31cf54b5e99b57e53b3458c1b1832a7b",
+      "crc32": "94d7ef02",
+      "sha1": "99c52635824933c77c416d5815febce18af2a178",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jacobin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "079a35448cceaf40582c09e2d0925ac2",
+      "md5": "7eb984e992b492a2cc3f2bb8cda2f6f8",
       "summation": "md5"
     },
     {
       "name": "jacobin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658932318",
-      "size": "303104",
-      "md5": "8747c674258c612ef92957f291eb9045",
-      "crc32": "9fd6d1a2",
-      "sha1": "d1eea905e0fc114bde2c8cbee88793cc5a2410b0",
+      "mtime": "1658975961",
+      "size": "307200",
+      "md5": "5d6694017f44df83fd2a0dc3064073a7",
+      "crc32": "a13b8446",
+      "sha1": "0699ac33bd73e666c4055df7cb3eab374a77553d",
       "format": "Metadata"
     },
     {
@@ -2578,50 +2619,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 246,
-  "item_last_updated": 1658959449,
-  "item_size": 20068386,
-  "jacobin-2022": [
-    {
-      "url": "https://jacobin.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/jacobin_com-_-2022_07_27_14_09_51.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/jacobin_com-_-2022_07_27_14_09_51.report.json",
-      "summary": {
-        "performance": 0.41,
-        "accessibility": 0.78,
-        "best-practices": 0.92,
-        "seo": 0.82,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://jacobin.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/jacobin_com-_-2022_07_27_14_10_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/jacobin_com-_-2022_07_27_14_10_19.report.json",
-      "summary": {
-        "performance": 0.4,
-        "accessibility": 0.78,
-        "best-practices": 0.92,
-        "seo": 0.82,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://jacobin.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/jacobin_com-_-2022_07_27_14_10_05.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/jacobin_com-_-2022_07_27_14_10_05.report.json",
-      "summary": {
-        "performance": 0.39,
-        "accessibility": 0.78,
-        "best-practices": 0.92,
-        "seo": 0.82,
-        "pwa": 0.4
-      }
-    }
-  ],
+  "files_count": 250,
+  "item_last_updated": 1658975998,
+  "item_size": 20413687,
   "metadata": {
     "identifier": "jacobin-2022",
     "collection": [
@@ -2638,10 +2638,21 @@
     "publicdate": "2022-07-04 21:54:25",
     "addeddate": "2022-07-04 21:54:25"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 2106820352,
+  "pending_tasks": true,
+  "server": "ia902505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3345801526,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 902521009,
   "workable_servers": [
-    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

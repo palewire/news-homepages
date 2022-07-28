@@ -1,48 +1,7 @@
 {
-  "created": 1658967612,
+  "created": 1659006627,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
-  "deadspin-2022": [
-    {
-      "url": "https://deadspin.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/deadspin_com-_-2022_07_27_22_46_18.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/deadspin_com-_-2022_07_27_22_46_18.report.json",
-      "summary": {
-        "performance": 0.35,
-        "accessibility": 0.95,
-        "best-practices": 0.92,
-        "seo": 0.89,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://deadspin.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/deadspin_com-_-2022_07_27_22_47_27.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/deadspin_com-_-2022_07_27_22_47_27.report.json",
-      "summary": {
-        "performance": 0.37,
-        "accessibility": 0.89,
-        "best-practices": 0.92,
-        "seo": 0.89,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://deadspin.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/deadspin_com-_-2022_07_27_22_48_11.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/deadspin_com-_-2022_07_27_22_48_11.report.json",
-      "summary": {
-        "performance": 0.39,
-        "accessibility": 0.95,
-        "best-practices": 0.92,
-        "seo": 0.89,
-        "pwa": 0.4
-      }
-    }
-  ],
   "dir": "/33/items/deadspin-2022",
   "files": [
     {
@@ -2074,31 +2033,83 @@
       "format": "JSON"
     },
     {
+      "name": "deadspin-2022-07-27T19:05:26.557658-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deadspin-2022-07-27T19:05:26.557658-04:00.jpg",
+      "mtime": "1658974378",
+      "size": "11231",
+      "md5": "3c6307ce8ae95077222601f2f0072b98",
+      "crc32": "69363d69",
+      "sha1": "7421adbf70699b22e5dfdcab4a43149a8ec21ed1"
+    },
+    {
+      "name": "deadspin-2022-07-28T07:09:37.237695-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659006580",
+      "size": "35099",
+      "md5": "1117fcb21d7d315b75b9d619fcb997b8",
+      "crc32": "16317a27",
+      "sha1": "94f2622c8d4876100880327f64fb2372006673ff",
+      "format": "JSON"
+    },
+    {
+      "name": "deadspin-2022-07-28T07:09:37.237695-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659006581",
+      "size": "19153",
+      "md5": "b159516df5cdf4e1c1354ed1c9962bbb",
+      "crc32": "e7a83efd",
+      "sha1": "54c200650dc730cce3478b7956c761db6954e7ad",
+      "format": "JSON"
+    },
+    {
+      "name": "deadspin-2022-07-28T07:09:37.237695-04:00.jpg",
+      "source": "original",
+      "mtime": "1659006578",
+      "size": "289788",
+      "md5": "93883f67e7ae8b78c4deacc210bcd7c4",
+      "crc32": "8cbc862a",
+      "sha1": "5239f71c5ed2b7372b2f3caa07e32c368ddb266c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deadspin-2022-07-28T07:09:37.237695-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659006583",
+      "size": "1441",
+      "md5": "ce10bbbf40533eb03f65c3e2a1842912",
+      "crc32": "f0406dda",
+      "sha1": "1823fce9184d2cebcd1fead242d55bb883bc01b4",
+      "format": "JSON"
+    },
+    {
       "name": "deadspin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "540b0a003e66228ac2f382ecfb7eb24f9c76f447",
-      "mtime": "1658963172",
-      "size": "42128",
-      "md5": "9b9d7a3b9bffe0f1d7d70d50e46555e9",
-      "crc32": "3be63c4b",
-      "sha1": "4c3a4f295776a149cbc59fa7f910a63ebc2f062f",
+      "btih": "b73c9ca6b28ae5e7ce70d02b8a1b92f07a1c70ec",
+      "mtime": "1659006624",
+      "size": "43168",
+      "md5": "f7182da687f2cc013bf0927f8dcf8e47",
+      "crc32": "d6e63298",
+      "sha1": "6cdd069d7dad61795dfa5a6a9705f820ea58ca62",
       "format": "Archive BitTorrent"
     },
     {
       "name": "deadspin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cca63d61ab814f6b7a2455191390e4a1",
+      "md5": "d51bab7315673746eaebcad3af970388",
       "summation": "md5"
     },
     {
       "name": "deadspin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658963136",
-      "size": "241664",
-      "md5": "9a4fab616dc63075f94a938a3100f4d7",
-      "crc32": "6fba2c4e",
-      "sha1": "60f684550473291477eea2d6a39542704391ba06",
+      "mtime": "1659006588",
+      "size": "249856",
+      "md5": "0625fa723d64bc6d2b6a9a704e9e15ab",
+      "crc32": "e6ae4008",
+      "sha1": "d06e9bc37bade3c2dfd89b11da518baf5ff250e5",
       "format": "Metadata"
     },
     {
@@ -2112,9 +2123,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 197,
-  "item_last_updated": 1658963172,
-  "item_size": 17932091,
+  "files_count": 202,
+  "item_last_updated": 1659006624,
+  "item_size": 18298035,
   "metadata": {
     "identifier": "deadspin-2022",
     "collection": [
@@ -2136,7 +2147,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345671282,
+      "task_id": 3346128122,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2144,7 +2155,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1725308115,
+  "uniq": 775182864,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

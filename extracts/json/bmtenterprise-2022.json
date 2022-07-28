@@ -1,5 +1,5 @@
 {
-  "created": 1658963012,
+  "created": 1659006425,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/bmtenterprise-2022",
@@ -957,31 +957,83 @@
       "format": "JSON"
     },
     {
+      "name": "bmtenterprise-2022-07-27T18:02:42.946621-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bmtenterprise-2022-07-27T18:02:42.946621-05:00.jpg",
+      "mtime": "1658974355",
+      "size": "10503",
+      "md5": "330fe39049dc82903644bad7fd37fed6",
+      "crc32": "600a2421",
+      "sha1": "2402f67cf3e4ca81f21810c033afaec119dd1749"
+    },
+    {
+      "name": "bmtenterprise-2022-07-28T06:06:17.644024-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659006381",
+      "size": "57337",
+      "md5": "039b790f42a8fe32564b2bacd7a865a9",
+      "crc32": "6619e79a",
+      "sha1": "8c9ed102416a624914ab0c6289c6aa3c66ba4b70",
+      "format": "JSON"
+    },
+    {
+      "name": "bmtenterprise-2022-07-28T06:06:17.644024-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659006383",
+      "size": "64012",
+      "md5": "34e6fa177eff7cf1426378940de192ed",
+      "crc32": "2b3809fd",
+      "sha1": "6cfbfd4dfd19d37bdc357309ce0366ca00b368b4",
+      "format": "JSON"
+    },
+    {
+      "name": "bmtenterprise-2022-07-28T06:06:17.644024-05:00.jpg",
+      "source": "original",
+      "mtime": "1659006379",
+      "size": "324969",
+      "md5": "9c164ba151ed84f24cb3d92d43e84daa",
+      "crc32": "5cf0a3dd",
+      "sha1": "b8d4d4a91bc444d2210703de0ad14a55c1ffaf8b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bmtenterprise-2022-07-28T06:06:17.644024-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659006384",
+      "size": "1567",
+      "md5": "15a0c5824a8536360baebc1a85a66906",
+      "crc32": "8068ec63",
+      "sha1": "1017e84761275023041d1098a80476fc889c8b69",
+      "format": "JSON"
+    },
+    {
       "name": "bmtenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "32edca1313f47d770fb2ac172968c2f3a8c50dff",
-      "mtime": "1658963008",
-      "size": "21149",
-      "md5": "4004bdcd5978063fbde89ac5666dbbd8",
-      "crc32": "ae489587",
-      "sha1": "5ffacdf6533e390b3e4fc7418a7e579eda588a2e",
+      "btih": "2aecdd0f7d4f6aef903b64b8027a5a8b5527b2b2",
+      "mtime": "1659006422",
+      "size": "22234",
+      "md5": "66d760a0940a46c4997aaee9c79e31e8",
+      "crc32": "806cf18d",
+      "sha1": "2a22cecc4a3b7303e93beb60c52e0995e7941b09",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bmtenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c9c4dae6ff0711ecf4ce1d8da99c580f",
+      "md5": "1ba7314e75ebcdb86984f5c09c651ef9",
       "summation": "md5"
     },
     {
       "name": "bmtenterprise-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658962975",
-      "size": "135168",
-      "md5": "8ea84a2ff0ea98da8adac8f17daa1feb",
-      "crc32": "b7aede53",
-      "sha1": "04f2f86a4a71e640507fe152e8a4aa062be993c9",
+      "mtime": "1659006388",
+      "size": "139264",
+      "md5": "c2c6acf28dc02d1d17e923539cd786b3",
+      "crc32": "ecb87afe",
+      "sha1": "bc3aad3841337ffa31b9f5b02fc7423b340ede0f",
       "format": "Metadata"
     },
     {
@@ -995,9 +1047,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 95,
-  "item_last_updated": 1658963008,
-  "item_size": 9407711,
+  "files_count": 100,
+  "item_last_updated": 1659006422,
+  "item_size": 9871280,
   "metadata": {
     "identifier": "bmtenterprise-2022",
     "collection": [
@@ -1019,7 +1071,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345668532,
+      "task_id": 3346126243,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1027,7 +1079,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1495055976,
+  "uniq": 723623664,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1658966845,
+  "created": 1659010661,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/13/items/ledgerenquirer-2022",
@@ -767,21 +767,32 @@
       "format": "JSON"
     },
     {
+      "name": "ledgerenquirer-2022-07-27T20:06:39.135263-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ledgerenquirer-2022-07-27T20:06:39.135263-04:00.jpg",
+      "mtime": "1658978123",
+      "size": "8986",
+      "md5": "dee6f6d0d3e2cdc1c7a6309bcfa6367c",
+      "crc32": "e6d26d25",
+      "sha1": "b140ff776d728b55f15feba53e75a509c3e4ba39"
+    },
+    {
       "name": "ledgerenquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a637c54dac25ee816bfe4cb4e95992f7bc110bac",
-      "mtime": "1658966843",
-      "size": "17232",
-      "md5": "4123a00202ccb92234fbc35507f08825",
-      "crc32": "5a2c64e3",
-      "sha1": "432d94507360a972902f23d2aecc1e050492a6b2",
+      "btih": "a5cdaa0ab0cbace67d1d7e83a905376e56a9de9c",
+      "mtime": "1658978130",
+      "size": "17442",
+      "md5": "2735542e05bf756728ce93db2bf81e65",
+      "crc32": "e30773ea",
+      "sha1": "6a43904b11bc710bd390f39fd5d45e2200061d34",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ledgerenquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "083f2ef2590af5406e700ff96580b5b6",
+      "md5": "a2bf5085e307d4baf6c157deb4b9425c",
       "summation": "md5"
     },
     {
@@ -805,9 +816,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 77,
-  "item_last_updated": 1658966843,
-  "item_size": 5292455,
+  "files_count": 78,
+  "item_last_updated": 1658978130,
+  "item_size": 5301651,
+  "ledgerenquirer-2022": [
+    {
+      "url": "https://www.ledger-enquirer.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ledger_enquirer_com-_-2022_07_27_23_44_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ledger_enquirer_com-_-2022_07_27_23_44_28.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.85,
+        "best-practices": null,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.ledger-enquirer.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ledger_enquirer_com-_-2022_07_27_23_45_15.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ledger_enquirer_com-_-2022_07_27_23_45_15.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.85,
+        "best-practices": null,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.ledger-enquirer.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ledger_enquirer_com-_-2022_07_27_23_44_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ledger_enquirer_com-_-2022_07_27_23_44_52.report.json",
+      "summary": {
+        "performance": 0.21,
+        "accessibility": 0.85,
+        "best-practices": null,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "ledgerenquirer-2022",
     "collection": [
@@ -824,21 +876,10 @@
     "publicdate": "2022-07-20 23:31:19",
     "addeddate": "2022-07-20 23:31:19"
   },
-  "pending_tasks": true,
-  "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3345707609,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 817590348,
+  "server": "ia801503.us.archive.org",
+  "uniq": 236339694,
   "workable_servers": [
+    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658963023,
+  "created": 1659006450,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/11/items/bostonglobe-2022",
@@ -3613,31 +3613,83 @@
       "format": "JSON"
     },
     {
+      "name": "bostonglobe-2022-07-27T19:02:46.907457-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bostonglobe-2022-07-27T19:02:46.907457-04:00.jpg",
+      "mtime": "1658974384",
+      "size": "10748",
+      "md5": "d7908d220ea9f13c7954b3133ae80352",
+      "crc32": "844a6f63",
+      "sha1": "64040c56f8b4b63f5be7d84e8c2c3452a2554a83"
+    },
+    {
+      "name": "bostonglobe-2022-07-28T07:06:38.219799-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659006402",
+      "size": "45574",
+      "md5": "9a592a59190ab7d5b676d022eb90e9de",
+      "crc32": "8541e948",
+      "sha1": "4486425487e6f3058cbf88fd1fc8d8d159b3277f",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonglobe-2022-07-28T07:06:38.219799-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659006403",
+      "size": "56183",
+      "md5": "7e7a2dd93cd7c5e11981451b9202c273",
+      "crc32": "557dcc63",
+      "sha1": "179b14ce80694cd397e0ac021c65fdfe469a14c7",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonglobe-2022-07-28T07:06:38.219799-04:00.jpg",
+      "source": "original",
+      "mtime": "1659006400",
+      "size": "425427",
+      "md5": "da36dbc2629a3064e3165606a59deb36",
+      "crc32": "6b1ed32a",
+      "sha1": "a5f5e677de19b23fe290e50d91d5dae42a130208",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bostonglobe-2022-07-28T07:06:38.219799-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659006405",
+      "size": "1503",
+      "md5": "da615ddb95f5d15de0a52a4362c51551",
+      "crc32": "e35a56cd",
+      "sha1": "bcbceabae4653dfded69c5aa01011691d50e1c60",
+      "format": "JSON"
+    },
+    {
       "name": "bostonglobe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b99a6328dcdff855dd1e80ac5b9778d65d0a74e6",
-      "mtime": "1658963021",
-      "size": "75599",
-      "md5": "7a9237a6f726f1094e7583ba2d4da690",
-      "crc32": "79fd879a",
-      "sha1": "1179c7c53788e2b1addf4c6c1d0c1803ad7d2f16",
+      "btih": "756dcf2275443505ebdca05200d6acdaecf8675a",
+      "mtime": "1659006446",
+      "size": "76674",
+      "md5": "e501c254904d2a6ba360d8843d72bef4",
+      "crc32": "e09e2665",
+      "sha1": "f16cf2e92d10c4816cc024941a3f2e9bcd9dc43a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bostonglobe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5028dea03336bd75f48be4397d65fd1e",
+      "md5": "8fbc9a8fc49ad2d60b629c4a09cfec09",
       "summation": "md5"
     },
     {
       "name": "bostonglobe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658962983",
-      "size": "421888",
-      "md5": "cb2f5316e8e1298e8de5f05187540963",
-      "crc32": "626f84a0",
-      "sha1": "15dac552739c063f796aa83158e86b2758e2dd7b",
+      "mtime": "1659006409",
+      "size": "425984",
+      "md5": "22275dcfb3f22f215f315d92d6a34349",
+      "crc32": "93c26f65",
+      "sha1": "ccc000e55e0d177643f1f3bbbeb1dd9d93b10ebc",
       "format": "Metadata"
     },
     {
@@ -3651,9 +3703,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 348,
-  "item_last_updated": 1658963021,
-  "item_size": 45669304,
+  "files_count": 353,
+  "item_last_updated": 1659006446,
+  "item_size": 46213910,
   "metadata": {
     "identifier": "bostonglobe-2022",
     "collection": [
@@ -3675,7 +3727,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345668784,
+      "task_id": 3346126489,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3683,7 +3735,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 703873063,
+  "uniq": 1664948247,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]
