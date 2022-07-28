@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-28T07:05:38.876572-04:00.jpg">
   <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-28T07:05:38.876572-04:00.jpg"
-     alt="Baltimore Banner at 2022-07-28 07:05:43-04:00 local time"
+     alt="Baltimore Banner at 2022-07-28 00:05:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-28T07:05:38.876572-04:00.jpg">July 28 at 7:05 AM</a></p>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-28T07:05:38.876572-04:00.jpg">July 28 at 12:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T19:03:03.568268-04:00.jpg">
   <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T19:03:03.568268-04:00.jpg"
-     alt="Baltimore Banner at 2022-07-27 19:03:07-04:00 local time"
+     alt="Baltimore Banner at 2022-07-27 12:03:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T19:03:03.568268-04:00.jpg">July 27 at 7:03 PM</a></p>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T19:03:03.568268-04:00.jpg">July 27 at 12:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T07:03:15.797184-04:00.jpg">
   <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T07:03:15.797184-04:00.jpg"
-     alt="Baltimore Banner at 2022-07-27 07:03:16-04:00 local time"
+     alt="Baltimore Banner at 2022-07-27 00:03:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T07:03:15.797184-04:00.jpg">July 27 at 7:03 AM</a></p>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T07:03:15.797184-04:00.jpg">July 27 at 12:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T19:03:55.942538-04:00.jpg">
   <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T19:03:55.942538-04:00.jpg"
-     alt="Baltimore Banner at 2022-07-26 19:03:57-04:00 local time"
+     alt="Baltimore Banner at 2022-07-26 12:03:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T19:03:55.942538-04:00.jpg">July 26 at 7:03 PM</a></p>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T19:03:55.942538-04:00.jpg">July 26 at 12:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T07:13:09.049247-04:00.jpg">
   <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T07:13:09.049247-04:00.jpg"
-     alt="Baltimore Banner at 2022-07-26 07:13:13-04:00 local time"
+     alt="Baltimore Banner at 2022-07-26 00:13:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T07:13:09.049247-04:00.jpg">July 26 at 7:13 AM</a></p>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T07:13:09.049247-04:00.jpg">July 26 at 12:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T19:07:25.974085-04:00.jpg">
   <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T19:07:25.974085-04:00.jpg"
-     alt="Baltimore Banner at 2022-07-25 19:07:30-04:00 local time"
+     alt="Baltimore Banner at 2022-07-25 12:07:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T19:07:25.974085-04:00.jpg">July 25 at 7:07 PM</a></p>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T19:07:25.974085-04:00.jpg">July 25 at 12:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T06:59:24.194781-04:00.jpg">
   <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T06:59:24.194781-04:00.jpg"
-     alt="Baltimore Banner at 2022-07-25 06:59:25-04:00 local time"
+     alt="Baltimore Banner at 2022-07-24 23:59:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T06:59:24.194781-04:00.jpg">July 25 at 6:59 AM</a></p>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T06:59:24.194781-04:00.jpg">July 24 at 11:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T20:48:51.209241-04:00.jpg">
   <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T20:48:51.209241-04:00.jpg"
-     alt="Baltimore Banner at 2022-07-24 20:48:53-04:00 local time"
+     alt="Baltimore Banner at 2022-07-24 13:48:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T20:48:51.209241-04:00.jpg">July 24 at 8:48 PM</a></p>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T20:48:51.209241-04:00.jpg">July 24 at 1:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T06:57:51.548644-04:00.jpg">
   <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T06:57:51.548644-04:00.jpg"
-     alt="Baltimore Banner at 2022-07-24 06:57:52-04:00 local time"
+     alt="Baltimore Banner at 2022-07-23 23:57:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T06:57:51.548644-04:00.jpg">July 24 at 6:57 AM</a></p>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T06:57:51.548644-04:00.jpg">July 23 at 11:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T18:59:58.714986-04:00.jpg">
   <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T18:59:58.714986-04:00.jpg"
-     alt="Baltimore Banner at 2022-07-23 19:00:00-04:00 local time"
+     alt="Baltimore Banner at 2022-07-23 12:00:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T18:59:58.714986-04:00.jpg">July 23 at 7:00 PM</a></p>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T18:59:58.714986-04:00.jpg">July 23 at 12:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T08:56:59.959956-04:00.jpg">
   <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T08:56:59.959956-04:00.jpg"
-     alt="Baltimore Banner at 2022-07-23 08:57:01-04:00 local time"
+     alt="Baltimore Banner at 2022-07-23 01:57:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T08:56:59.959956-04:00.jpg">July 23 at 8:57 AM</a></p>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T08:56:59.959956-04:00.jpg">July 23 at 1:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-22T20:57:47.830523-04:00.jpg">
   <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-22T20:57:47.830523-04:00.jpg"
-     alt="Baltimore Banner at 2022-07-22 20:57:48-04:00 local time"
+     alt="Baltimore Banner at 2022-07-22 13:57:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-22T20:57:47.830523-04:00.jpg">July 22 at 8:57 PM</a></p>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-22T20:57:47.830523-04:00.jpg">July 22 at 1:57 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 7:05 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-28T07:05:38.876572-04:00.hyperlinks.json) |
-| [July 27 at 7:03 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T19:03:03.568268-04:00.hyperlinks.json) |
-| [July 27 at 7:03 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T07:03:15.797184-04:00.hyperlinks.json) |
-| [July 26 at 7:04 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T19:03:55.942538-04:00.hyperlinks.json) |
-| [July 26 at 7:13 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T07:13:09.049247-04:00.hyperlinks.json) |
-| [July 25 at 7:07 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T19:07:25.974085-04:00.hyperlinks.json) |
-| [July 25 at 6:59 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T06:59:24.194781-04:00.hyperlinks.json) |
-| [July 24 at 8:48 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T20:48:51.209241-04:00.hyperlinks.json) |
-| [July 24 at 6:57 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T06:57:51.548644-04:00.hyperlinks.json) |
-| [July 23 at 7:00 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T18:59:58.714986-04:00.hyperlinks.json) |
+| [July 28 at 12:05 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-28T07:05:38.876572-04:00.hyperlinks.json) |
+| [July 27 at 12:03 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T19:03:03.568268-04:00.hyperlinks.json) |
+| [July 27 at 12:03 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T07:03:15.797184-04:00.hyperlinks.json) |
+| [July 26 at 12:04 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T19:03:55.942538-04:00.hyperlinks.json) |
+| [July 26 at 12:13 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T07:13:09.049247-04:00.hyperlinks.json) |
+| [July 25 at 12:07 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T19:07:25.974085-04:00.hyperlinks.json) |
+| [July 24 at 11:59 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T06:59:24.194781-04:00.hyperlinks.json) |
+| [July 24 at 1:48 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T20:48:51.209241-04:00.hyperlinks.json) |
+| [July 23 at 11:57 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T06:57:51.548644-04:00.hyperlinks.json) |
+| [July 23 at 12:00 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T18:59:58.714986-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 7:05 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-28T07:05:38.876572-04:00.accessibility.json) |
-| [July 27 at 7:03 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T19:03:03.568268-04:00.accessibility.json) |
-| [July 27 at 7:03 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T07:03:15.797184-04:00.accessibility.json) |
-| [July 26 at 7:03 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T19:03:55.942538-04:00.accessibility.json) |
-| [July 26 at 7:13 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T07:13:09.049247-04:00.accessibility.json) |
-| [July 25 at 7:07 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T19:07:25.974085-04:00.accessibility.json) |
-| [July 25 at 6:59 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T06:59:24.194781-04:00.accessibility.json) |
-| [July 24 at 8:48 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T20:48:51.209241-04:00.accessibility.json) |
-| [July 24 at 6:57 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T06:57:51.548644-04:00.accessibility.json) |
-| [July 23 at 7:00 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T18:59:58.714986-04:00.accessibility.json) |
+| [July 28 at 12:05 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-28T07:05:38.876572-04:00.accessibility.json) |
+| [July 27 at 12:03 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T19:03:03.568268-04:00.accessibility.json) |
+| [July 27 at 12:03 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T07:03:15.797184-04:00.accessibility.json) |
+| [July 26 at 12:03 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T19:03:55.942538-04:00.accessibility.json) |
+| [July 26 at 12:13 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T07:13:09.049247-04:00.accessibility.json) |
+| [July 25 at 12:07 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T19:07:25.974085-04:00.accessibility.json) |
+| [July 24 at 11:59 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T06:59:24.194781-04:00.accessibility.json) |
+| [July 24 at 1:48 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T20:48:51.209241-04:00.accessibility.json) |
+| [July 23 at 11:57 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T06:57:51.548644-04:00.accessibility.json) |
+| [July 23 at 12:00 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T18:59:58.714986-04:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 7:05 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-28T07:05:38.876572-04:00.lighthouse.json) |
-| [July 27 at 7:03 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T19:03:03.568268-04:00.lighthouse.json) |
-| [July 27 at 7:03 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T07:03:15.797184-04:00.lighthouse.json) |
-| [July 26 at 7:04 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T19:03:55.942538-04:00.lighthouse.json) |
-| [July 26 at 7:13 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T07:13:09.049247-04:00.lighthouse.json) |
-| [July 25 at 7:07 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T19:07:25.974085-04:00.lighthouse.json) |
-| [July 25 at 6:59 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T06:59:24.194781-04:00.lighthouse.json) |
-| [July 24 at 8:48 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T20:48:51.209241-04:00.lighthouse.json) |
-| [July 24 at 6:57 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T06:57:51.548644-04:00.lighthouse.json) |
-| [July 23 at 7:00 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T18:59:58.714986-04:00.lighthouse.json) |
+| [July 28 at 12:05 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-28T07:05:38.876572-04:00.lighthouse.json) |
+| [July 27 at 12:03 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T19:03:03.568268-04:00.lighthouse.json) |
+| [July 27 at 12:03 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-27T07:03:15.797184-04:00.lighthouse.json) |
+| [July 26 at 12:04 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T19:03:55.942538-04:00.lighthouse.json) |
+| [July 26 at 12:13 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-26T07:13:09.049247-04:00.lighthouse.json) |
+| [July 25 at 12:07 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T19:07:25.974085-04:00.lighthouse.json) |
+| [July 24 at 11:59 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-25T06:59:24.194781-04:00.lighthouse.json) |
+| [July 24 at 1:48 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T20:48:51.209241-04:00.lighthouse.json) |
+| [July 23 at 11:57 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-24T06:57:51.548644-04:00.lighthouse.json) |
+| [July 23 at 12:00 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-23T18:59:58.714986-04:00.lighthouse.json) |
 
 
 

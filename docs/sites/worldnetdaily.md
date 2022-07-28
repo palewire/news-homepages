@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T23:49:57.542367-04:00.jpg">
   <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T23:49:57.542367-04:00.jpg"
-     alt="WND News at 2022-07-27 23:49:59-04:00 local time"
+     alt="WND News at 2022-07-27 16:49:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T23:49:57.542367-04:00.jpg">July 27 at 11:49 PM</a></p>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T23:49:57.542367-04:00.jpg">July 27 at 4:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T11:53:21.265641-04:00.jpg">
   <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T11:53:21.265641-04:00.jpg"
-     alt="WND News at 2022-07-27 11:53:22-04:00 local time"
+     alt="WND News at 2022-07-27 04:53:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T11:53:21.265641-04:00.jpg">July 27 at 11:53 AM</a></p>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T11:53:21.265641-04:00.jpg">July 27 at 4:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T23:59:07.932953-04:00.jpg">
   <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T23:59:07.932953-04:00.jpg"
-     alt="WND News at 2022-07-26 23:59:09-04:00 local time"
+     alt="WND News at 2022-07-26 16:59:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T23:59:07.932953-04:00.jpg">July 26 at 11:59 PM</a></p>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T23:59:07.932953-04:00.jpg">July 26 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T14:36:31.019637-04:00.jpg">
   <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T14:36:31.019637-04:00.jpg"
-     alt="WND News at 2022-07-26 14:36:32-04:00 local time"
+     alt="WND News at 2022-07-26 07:36:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T14:36:31.019637-04:00.jpg">July 26 at 2:36 PM</a></p>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T14:36:31.019637-04:00.jpg">July 26 at 7:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T11:50:20.690078-04:00.jpg">
   <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T11:50:20.690078-04:00.jpg"
-     alt="WND News at 2022-07-26 11:50:22-04:00 local time"
+     alt="WND News at 2022-07-26 04:50:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T11:50:20.690078-04:00.jpg">July 26 at 11:50 AM</a></p>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T11:50:20.690078-04:00.jpg">July 26 at 4:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T00:01:50.870694-04:00.jpg">
   <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T00:01:50.870694-04:00.jpg"
-     alt="WND News at 2022-07-26 00:01:57-04:00 local time"
+     alt="WND News at 2022-07-25 17:01:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T00:01:50.870694-04:00.jpg">July 26 at 12:01 AM</a></p>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T00:01:50.870694-04:00.jpg">July 25 at 5:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T14:39:59.039455-04:00.jpg">
   <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T14:39:59.039455-04:00.jpg"
-     alt="WND News at 2022-07-25 14:40:00-04:00 local time"
+     alt="WND News at 2022-07-25 07:40:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T14:39:59.039455-04:00.jpg">July 25 at 2:40 PM</a></p>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T14:39:59.039455-04:00.jpg">July 25 at 7:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T12:42:24.059798-04:00.jpg">
   <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T12:42:24.059798-04:00.jpg"
-     alt="WND News at 2022-07-25 12:42:25-04:00 local time"
+     alt="WND News at 2022-07-25 05:42:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T12:42:24.059798-04:00.jpg">July 25 at 12:42 PM</a></p>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T12:42:24.059798-04:00.jpg">July 25 at 5:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T11:54:21.516546-04:00.jpg">
   <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T11:54:21.516546-04:00.jpg"
-     alt="WND News at 2022-07-25 11:54:23-04:00 local time"
+     alt="WND News at 2022-07-25 04:54:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T11:54:21.516546-04:00.jpg">July 25 at 11:54 AM</a></p>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T11:54:21.516546-04:00.jpg">July 25 at 4:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T00:42:32.457689-04:00.jpg">
   <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T00:42:32.457689-04:00.jpg"
-     alt="WND News at 2022-07-25 00:42:33-04:00 local time"
+     alt="WND News at 2022-07-24 17:42:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T00:42:32.457689-04:00.jpg">July 25 at 12:42 AM</a></p>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T00:42:32.457689-04:00.jpg">July 24 at 5:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-24T11:45:26.885007-04:00.jpg">
   <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-24T11:45:26.885007-04:00.jpg"
-     alt="WND News at 2022-07-24 11:45:28-04:00 local time"
+     alt="WND News at 2022-07-24 04:45:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-24T11:45:26.885007-04:00.jpg">July 24 at 11:45 AM</a></p>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-24T11:45:26.885007-04:00.jpg">July 24 at 4:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-24T11:11:28.122037-04:00.jpg">
   <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-24T11:11:28.122037-04:00.jpg"
-     alt="WND News at 2022-07-24 11:11:30-04:00 local time"
+     alt="WND News at 2022-07-24 04:11:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-24T11:11:28.122037-04:00.jpg">July 24 at 11:11 AM</a></p>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-24T11:11:28.122037-04:00.jpg">July 24 at 4:11 AM</a></p>
 </div>
 
 </div>
@@ -231,16 +231,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 11:50 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T23:49:57.542367-04:00.hyperlinks.json) |
-| [July 27 at 11:53 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T11:53:21.265641-04:00.hyperlinks.json) |
-| [July 26 at 11:59 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T23:59:07.932953-04:00.hyperlinks.json) |
-| [July 26 at 2:36 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T14:36:31.019637-04:00.hyperlinks.json) |
-| [July 26 at 11:50 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T11:50:20.690078-04:00.hyperlinks.json) |
-| [July 26 at 12:02 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T00:01:50.870694-04:00.hyperlinks.json) |
-| [July 25 at 2:40 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T14:39:59.039455-04:00.hyperlinks.json) |
-| [July 25 at 12:42 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T12:42:24.059798-04:00.hyperlinks.json) |
-| [July 25 at 11:54 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T11:54:21.516546-04:00.hyperlinks.json) |
-| [July 25 at 12:42 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T00:42:32.457689-04:00.hyperlinks.json) |
+| [July 27 at 4:50 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T23:49:57.542367-04:00.hyperlinks.json) |
+| [July 27 at 4:53 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T11:53:21.265641-04:00.hyperlinks.json) |
+| [July 26 at 4:59 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T23:59:07.932953-04:00.hyperlinks.json) |
+| [July 26 at 7:36 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T14:36:31.019637-04:00.hyperlinks.json) |
+| [July 26 at 4:50 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T11:50:20.690078-04:00.hyperlinks.json) |
+| [July 25 at 5:02 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T00:01:50.870694-04:00.hyperlinks.json) |
+| [July 25 at 7:40 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T14:39:59.039455-04:00.hyperlinks.json) |
+| [July 25 at 5:42 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T12:42:24.059798-04:00.hyperlinks.json) |
+| [July 25 at 4:54 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T11:54:21.516546-04:00.hyperlinks.json) |
+| [July 24 at 5:42 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T00:42:32.457689-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -253,16 +253,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 11:50 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T23:49:57.542367-04:00.accessibility.json) |
-| [July 27 at 11:53 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T11:53:21.265641-04:00.accessibility.json) |
-| [July 26 at 11:59 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T23:59:07.932953-04:00.accessibility.json) |
-| [July 26 at 2:36 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T14:36:31.019637-04:00.accessibility.json) |
-| [July 26 at 11:50 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T11:50:20.690078-04:00.accessibility.json) |
-| [July 26 at 12:01 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T00:01:50.870694-04:00.accessibility.json) |
-| [July 25 at 2:40 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T14:39:59.039455-04:00.accessibility.json) |
-| [July 25 at 12:42 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T12:42:24.059798-04:00.accessibility.json) |
-| [July 25 at 11:54 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T11:54:21.516546-04:00.accessibility.json) |
-| [July 25 at 12:42 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T00:42:32.457689-04:00.accessibility.json) |
+| [July 27 at 4:50 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T23:49:57.542367-04:00.accessibility.json) |
+| [July 27 at 4:53 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T11:53:21.265641-04:00.accessibility.json) |
+| [July 26 at 4:59 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T23:59:07.932953-04:00.accessibility.json) |
+| [July 26 at 7:36 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T14:36:31.019637-04:00.accessibility.json) |
+| [July 26 at 4:50 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T11:50:20.690078-04:00.accessibility.json) |
+| [July 25 at 5:01 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T00:01:50.870694-04:00.accessibility.json) |
+| [July 25 at 7:40 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T14:39:59.039455-04:00.accessibility.json) |
+| [July 25 at 5:42 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T12:42:24.059798-04:00.accessibility.json) |
+| [July 25 at 4:54 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T11:54:21.516546-04:00.accessibility.json) |
+| [July 24 at 5:42 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T00:42:32.457689-04:00.accessibility.json) |
 
 
 
@@ -276,16 +276,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 11:50 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T23:49:57.542367-04:00.lighthouse.json) |
-| [July 27 at 11:53 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T11:53:21.265641-04:00.lighthouse.json) |
-| [July 26 at 11:59 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T23:59:07.932953-04:00.lighthouse.json) |
-| [July 26 at 2:36 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T14:36:31.019637-04:00.lighthouse.json) |
-| [July 26 at 11:50 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T11:50:20.690078-04:00.lighthouse.json) |
-| [July 26 at 12:02 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T00:01:50.870694-04:00.lighthouse.json) |
-| [July 25 at 2:40 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T14:39:59.039455-04:00.lighthouse.json) |
-| [July 25 at 12:42 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T12:42:24.059798-04:00.lighthouse.json) |
-| [July 25 at 11:54 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T11:54:21.516546-04:00.lighthouse.json) |
-| [July 25 at 12:42 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T00:42:32.457689-04:00.lighthouse.json) |
+| [July 27 at 4:50 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T23:49:57.542367-04:00.lighthouse.json) |
+| [July 27 at 4:53 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-27T11:53:21.265641-04:00.lighthouse.json) |
+| [July 26 at 4:59 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T23:59:07.932953-04:00.lighthouse.json) |
+| [July 26 at 7:36 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T14:36:31.019637-04:00.lighthouse.json) |
+| [July 26 at 4:50 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T11:50:20.690078-04:00.lighthouse.json) |
+| [July 25 at 5:02 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-26T00:01:50.870694-04:00.lighthouse.json) |
+| [July 25 at 7:40 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T14:39:59.039455-04:00.lighthouse.json) |
+| [July 25 at 5:42 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T12:42:24.059798-04:00.lighthouse.json) |
+| [July 25 at 4:54 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T11:54:21.516546-04:00.lighthouse.json) |
+| [July 24 at 5:42 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-25T00:42:32.457689-04:00.lighthouse.json) |
 
 
 

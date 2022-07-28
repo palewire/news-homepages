@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T21:27:12.267701-04:00.jpg">
   <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T21:27:12.267701-04:00.jpg"
-     alt="Capital Gazette at 2022-07-27 21:27:13-04:00 local time"
+     alt="Capital Gazette at 2022-07-27 14:27:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T21:27:12.267701-04:00.jpg">July 27 at 9:27 PM</a></p>
+ <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T21:27:12.267701-04:00.jpg">July 27 at 2:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T09:19:10.727390-04:00.jpg">
   <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T09:19:10.727390-04:00.jpg"
-     alt="Capital Gazette at 2022-07-27 09:19:12-04:00 local time"
+     alt="Capital Gazette at 2022-07-27 02:19:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T09:19:10.727390-04:00.jpg">July 27 at 9:19 AM</a></p>
+ <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T09:19:10.727390-04:00.jpg">July 27 at 2:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T21:24:53.108931-04:00.jpg">
   <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T21:24:53.108931-04:00.jpg"
-     alt="Capital Gazette at 2022-07-26 21:24:54-04:00 local time"
+     alt="Capital Gazette at 2022-07-26 14:24:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T21:24:53.108931-04:00.jpg">July 26 at 9:24 PM</a></p>
+ <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T21:24:53.108931-04:00.jpg">July 26 at 2:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T09:26:55.715698-04:00.jpg">
   <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T09:26:55.715698-04:00.jpg"
-     alt="Capital Gazette at 2022-07-26 09:27:04-04:00 local time"
+     alt="Capital Gazette at 2022-07-26 02:27:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T09:26:55.715698-04:00.jpg">July 26 at 9:27 AM</a></p>
+ <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T09:26:55.715698-04:00.jpg">July 26 at 2:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T22:57:56.265269-04:00.jpg">
   <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T22:57:56.265269-04:00.jpg"
-     alt="Capital Gazette at 2022-07-25 22:57:59-04:00 local time"
+     alt="Capital Gazette at 2022-07-25 15:57:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T22:57:56.265269-04:00.jpg">July 25 at 10:57 PM</a></p>
+ <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T22:57:56.265269-04:00.jpg">July 25 at 3:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T21:31:19.272851-04:00.jpg">
   <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T21:31:19.272851-04:00.jpg"
-     alt="Capital Gazette at 2022-07-25 21:31:21-04:00 local time"
+     alt="Capital Gazette at 2022-07-25 14:31:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T21:31:19.272851-04:00.jpg">July 25 at 9:31 PM</a></p>
+ <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T21:31:19.272851-04:00.jpg">July 25 at 2:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T07:01:12.124022-04:00.jpg">
   <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T07:01:12.124022-04:00.jpg"
-     alt="Capital Gazette at 2022-07-25 07:01:15-04:00 local time"
+     alt="Capital Gazette at 2022-07-25 00:01:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T07:01:12.124022-04:00.jpg">July 25 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T07:01:12.124022-04:00.jpg">July 25 at 12:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T20:53:00.073833-04:00.jpg">
   <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T20:53:00.073833-04:00.jpg"
-     alt="Capital Gazette at 2022-07-24 20:53:04-04:00 local time"
+     alt="Capital Gazette at 2022-07-24 13:53:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T20:53:00.073833-04:00.jpg">July 24 at 8:53 PM</a></p>
+ <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T20:53:00.073833-04:00.jpg">July 24 at 1:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T07:00:06.701071-04:00.jpg">
   <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T07:00:06.701071-04:00.jpg"
-     alt="Capital Gazette at 2022-07-24 07:00:10-04:00 local time"
+     alt="Capital Gazette at 2022-07-24 00:00:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T07:00:06.701071-04:00.jpg">July 24 at 7:00 AM</a></p>
+ <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T07:00:06.701071-04:00.jpg">July 24 at 12:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-23T19:01:53.568563-04:00.jpg">
   <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-23T19:01:53.568563-04:00.jpg"
-     alt="Capital Gazette at 2022-07-23 19:01:55-04:00 local time"
+     alt="Capital Gazette at 2022-07-23 12:01:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-23T19:01:53.568563-04:00.jpg">July 23 at 7:01 PM</a></p>
+ <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-23T19:01:53.568563-04:00.jpg">July 23 at 12:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-23T08:59:30.860851-04:00.jpg">
   <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-23T08:59:30.860851-04:00.jpg"
-     alt="Capital Gazette at 2022-07-23 08:59:31-04:00 local time"
+     alt="Capital Gazette at 2022-07-23 01:59:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-23T08:59:30.860851-04:00.jpg">July 23 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-23T08:59:30.860851-04:00.jpg">July 23 at 1:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-22T20:59:54.525587-04:00.jpg">
   <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-22T20:59:54.525587-04:00.jpg"
-     alt="Capital Gazette at 2022-07-22 20:59:56-04:00 local time"
+     alt="Capital Gazette at 2022-07-22 13:59:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-22T20:59:54.525587-04:00.jpg">July 22 at 8:59 PM</a></p>
+ <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-22T20:59:54.525587-04:00.jpg">July 22 at 1:59 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 9:27 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T21:27:12.267701-04:00.hyperlinks.json) |
-| [July 27 at 9:19 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T09:19:10.727390-04:00.hyperlinks.json) |
-| [July 26 at 9:25 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T21:24:53.108931-04:00.hyperlinks.json) |
-| [July 26 at 9:27 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T09:26:55.715698-04:00.hyperlinks.json) |
-| [July 25 at 10:58 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T22:57:56.265269-04:00.hyperlinks.json) |
-| [July 25 at 9:31 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T21:31:19.272851-04:00.hyperlinks.json) |
-| [July 25 at 7:01 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T07:01:12.124022-04:00.hyperlinks.json) |
-| [July 24 at 8:53 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T20:53:00.073833-04:00.hyperlinks.json) |
-| [July 24 at 7:00 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T07:00:06.701071-04:00.hyperlinks.json) |
-| [July 23 at 8:59 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-23T08:59:30.860851-04:00.hyperlinks.json) |
+| [July 27 at 2:27 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T21:27:12.267701-04:00.hyperlinks.json) |
+| [July 27 at 2:19 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T09:19:10.727390-04:00.hyperlinks.json) |
+| [July 26 at 2:25 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T21:24:53.108931-04:00.hyperlinks.json) |
+| [July 26 at 2:27 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T09:26:55.715698-04:00.hyperlinks.json) |
+| [July 25 at 3:58 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T22:57:56.265269-04:00.hyperlinks.json) |
+| [July 25 at 2:31 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T21:31:19.272851-04:00.hyperlinks.json) |
+| [July 25 at 12:01 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T07:01:12.124022-04:00.hyperlinks.json) |
+| [July 24 at 1:53 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T20:53:00.073833-04:00.hyperlinks.json) |
+| [July 24 at 12:00 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T07:00:06.701071-04:00.hyperlinks.json) |
+| [July 23 at 1:59 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-23T08:59:30.860851-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 9:27 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T21:27:12.267701-04:00.accessibility.json) |
-| [July 27 at 9:19 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T09:19:10.727390-04:00.accessibility.json) |
-| [July 26 at 9:24 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T21:24:53.108931-04:00.accessibility.json) |
-| [July 26 at 9:27 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T09:26:55.715698-04:00.accessibility.json) |
-| [July 25 at 10:58 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T22:57:56.265269-04:00.accessibility.json) |
-| [July 25 at 9:31 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T21:31:19.272851-04:00.accessibility.json) |
-| [July 25 at 7:01 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T07:01:12.124022-04:00.accessibility.json) |
-| [July 24 at 8:53 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T20:53:00.073833-04:00.accessibility.json) |
-| [July 24 at 7:00 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T07:00:06.701071-04:00.accessibility.json) |
-| [July 23 at 7:01 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-23T19:01:53.568563-04:00.accessibility.json) |
+| [July 27 at 2:27 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T21:27:12.267701-04:00.accessibility.json) |
+| [July 27 at 2:19 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T09:19:10.727390-04:00.accessibility.json) |
+| [July 26 at 2:24 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T21:24:53.108931-04:00.accessibility.json) |
+| [July 26 at 2:27 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T09:26:55.715698-04:00.accessibility.json) |
+| [July 25 at 3:58 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T22:57:56.265269-04:00.accessibility.json) |
+| [July 25 at 2:31 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T21:31:19.272851-04:00.accessibility.json) |
+| [July 25 at 12:01 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T07:01:12.124022-04:00.accessibility.json) |
+| [July 24 at 1:53 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T20:53:00.073833-04:00.accessibility.json) |
+| [July 24 at 12:00 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T07:00:06.701071-04:00.accessibility.json) |
+| [July 23 at 12:01 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-23T19:01:53.568563-04:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 9:27 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T21:27:12.267701-04:00.lighthouse.json) |
-| [July 27 at 9:19 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T09:19:10.727390-04:00.lighthouse.json) |
-| [July 26 at 9:25 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T21:24:53.108931-04:00.lighthouse.json) |
-| [July 26 at 9:27 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T09:26:55.715698-04:00.lighthouse.json) |
-| [July 25 at 10:58 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T22:57:56.265269-04:00.lighthouse.json) |
-| [July 25 at 9:31 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T21:31:19.272851-04:00.lighthouse.json) |
-| [July 25 at 7:01 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T07:01:12.124022-04:00.lighthouse.json) |
-| [July 24 at 8:53 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T20:53:00.073833-04:00.lighthouse.json) |
-| [July 24 at 7:00 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T07:00:06.701071-04:00.lighthouse.json) |
-| [July 23 at 7:01 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-23T19:01:53.568563-04:00.lighthouse.json) |
+| [July 27 at 2:27 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T21:27:12.267701-04:00.lighthouse.json) |
+| [July 27 at 2:19 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T09:19:10.727390-04:00.lighthouse.json) |
+| [July 26 at 2:25 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T21:24:53.108931-04:00.lighthouse.json) |
+| [July 26 at 2:27 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T09:26:55.715698-04:00.lighthouse.json) |
+| [July 25 at 3:58 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T22:57:56.265269-04:00.lighthouse.json) |
+| [July 25 at 2:31 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T21:31:19.272851-04:00.lighthouse.json) |
+| [July 25 at 12:01 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-25T07:01:12.124022-04:00.lighthouse.json) |
+| [July 24 at 1:53 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T20:53:00.073833-04:00.lighthouse.json) |
+| [July 24 at 12:00 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-24T07:00:06.701071-04:00.lighthouse.json) |
+| [July 23 at 12:01 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-23T19:01:53.568563-04:00.lighthouse.json) |
 
 
 

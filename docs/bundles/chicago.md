@@ -7,7 +7,7 @@ orphan: true
 
 # Chicago
 
-The most recent homepages from 19 news sites in this bundle.
+The most recent homepages from 20 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -174,6 +174,15 @@ The most recent homepages from 19 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/wgnnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wgnnews.jpg"
+     alt="WGN"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/wgnnews.html">WGN</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/wttw.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wttw.jpg"
      alt="WTTW"
@@ -215,4 +224,5 @@ The most recent homepages from 19 news sites in this bundle.
 |[South Side Weekly](https://palewi.re/docs/news-homepages/sites/southsideweekly.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/southsideweekly.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/southsideweekly.xml)|
 |[The TriiBE](https://palewi.re/docs/news-homepages/sites/thetriibe.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thetriibe.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thetriibe.xml)|
 |[WBEZ](https://palewi.re/docs/news-homepages/sites/wbez.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wbez.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wbez.xml)|
+|[WGN](https://palewi.re/docs/news-homepages/sites/wgnnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wgnnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wgnnews.xml)|
 |[WTTW](https://palewi.re/docs/news-homepages/sites/wttw.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wttw.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wttw.xml)|

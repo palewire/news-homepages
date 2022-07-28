@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-28T07:04:30.931730-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-28T07:04:30.931730-04:00.jpg"
-     alt="Associated Press at 2022-07-28 07:04:32-04:00 local time"
+     alt="Associated Press at 2022-07-28 00:04:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-28T07:04:30.931730-04:00.jpg">July 28 at 7:04 AM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-28T07:04:30.931730-04:00.jpg">July 28 at 12:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-27T19:00:53.023107-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-27T19:00:53.023107-04:00.jpg"
-     alt="Associated Press at 2022-07-27 19:00:56-04:00 local time"
+     alt="Associated Press at 2022-07-27 12:00:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-27T19:00:53.023107-04:00.jpg">July 27 at 7:00 PM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-27T19:00:53.023107-04:00.jpg">July 27 at 12:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-27T17:13:15.597419-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-27T17:13:15.597419-04:00.jpg"
-     alt="Associated Press at 2022-07-27 17:13:17-04:00 local time"
+     alt="Associated Press at 2022-07-27 10:13:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-27T17:13:15.597419-04:00.jpg">July 27 at 5:13 PM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-27T17:13:15.597419-04:00.jpg">July 27 at 10:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-27T11:59:05.201614-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-27T11:59:05.201614-04:00.jpg"
-     alt="Associated Press at 2022-07-27 11:59:06-04:00 local time"
+     alt="Associated Press at 2022-07-27 04:59:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-27T11:59:05.201614-04:00.jpg">July 27 at 11:59 AM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-27T11:59:05.201614-04:00.jpg">July 27 at 4:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-27T07:01:29.023849-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-27T07:01:29.023849-04:00.jpg"
-     alt="Associated Press at 2022-07-27 07:01:32-04:00 local time"
+     alt="Associated Press at 2022-07-27 00:01:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-27T07:01:29.023849-04:00.jpg">July 27 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-27T07:01:29.023849-04:00.jpg">July 27 at 12:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-26T19:02:55.772847-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-26T19:02:55.772847-04:00.jpg"
-     alt="Associated Press at 2022-07-26 19:02:57-04:00 local time"
+     alt="Associated Press at 2022-07-26 12:02:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-26T19:02:55.772847-04:00.jpg">July 26 at 7:02 PM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-26T19:02:55.772847-04:00.jpg">July 26 at 12:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-26T17:11:54.782098-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-26T17:11:54.782098-04:00.jpg"
-     alt="Associated Press at 2022-07-26 17:11:56-04:00 local time"
+     alt="Associated Press at 2022-07-26 10:11:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-26T17:11:54.782098-04:00.jpg">July 26 at 5:11 PM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-26T17:11:54.782098-04:00.jpg">July 26 at 10:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-26T11:57:54.220931-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-26T11:57:54.220931-04:00.jpg"
-     alt="Associated Press at 2022-07-26 11:57:56-04:00 local time"
+     alt="Associated Press at 2022-07-26 04:57:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-26T11:57:54.220931-04:00.jpg">July 26 at 11:57 AM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-26T11:57:54.220931-04:00.jpg">July 26 at 4:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-26T07:11:03.573660-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-26T07:11:03.573660-04:00.jpg"
-     alt="Associated Press at 2022-07-26 07:11:07-04:00 local time"
+     alt="Associated Press at 2022-07-26 00:11:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-26T07:11:03.573660-04:00.jpg">July 26 at 7:11 AM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-26T07:11:03.573660-04:00.jpg">July 26 at 12:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-25T19:05:53.243820-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-25T19:05:53.243820-04:00.jpg"
-     alt="Associated Press at 2022-07-25 19:05:55-04:00 local time"
+     alt="Associated Press at 2022-07-25 12:05:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-25T19:05:53.243820-04:00.jpg">July 25 at 7:05 PM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-25T19:05:53.243820-04:00.jpg">July 25 at 12:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-25T17:14:15.244419-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-25T17:14:15.244419-04:00.jpg"
-     alt="Associated Press at 2022-07-25 17:14:19-04:00 local time"
+     alt="Associated Press at 2022-07-25 10:14:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-25T17:14:15.244419-04:00.jpg">July 25 at 5:14 PM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-25T17:14:15.244419-04:00.jpg">July 25 at 10:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-07-25T11:54:31.251756-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-07-25T11:54:31.251756-04:00.jpg"
-     alt="Associated Press at 2022-07-25 11:54:32-04:00 local time"
+     alt="Associated Press at 2022-07-25 04:54:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-25T11:54:31.251756-04:00.jpg">July 25 at 11:54 AM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-25T11:54:31.251756-04:00.jpg">July 25 at 4:54 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 7:04 AM](https://archive.org/download/ap-2022/ap-2022-07-28T07:04:30.931730-04:00.hyperlinks.json) |
-| [July 27 at 7:00 PM](https://archive.org/download/ap-2022/ap-2022-07-27T19:00:53.023107-04:00.hyperlinks.json) |
-| [July 27 at 5:13 PM](https://archive.org/download/ap-2022/ap-2022-07-27T17:13:15.597419-04:00.hyperlinks.json) |
-| [July 27 at 11:59 AM](https://archive.org/download/ap-2022/ap-2022-07-27T11:59:05.201614-04:00.hyperlinks.json) |
-| [July 27 at 7:01 AM](https://archive.org/download/ap-2022/ap-2022-07-27T07:01:29.023849-04:00.hyperlinks.json) |
-| [July 26 at 11:57 AM](https://archive.org/download/ap-2022/ap-2022-07-26T11:57:54.220931-04:00.hyperlinks.json) |
-| [July 26 at 7:11 AM](https://archive.org/download/ap-2022/ap-2022-07-26T07:11:03.573660-04:00.hyperlinks.json) |
-| [July 25 at 7:05 PM](https://archive.org/download/ap-2022/ap-2022-07-25T19:05:53.243820-04:00.hyperlinks.json) |
-| [July 25 at 5:14 PM](https://archive.org/download/ap-2022/ap-2022-07-25T17:14:15.244419-04:00.hyperlinks.json) |
-| [July 25 at 11:54 AM](https://archive.org/download/ap-2022/ap-2022-07-25T11:54:31.251756-04:00.hyperlinks.json) |
+| [July 28 at 12:04 AM](https://archive.org/download/ap-2022/ap-2022-07-28T07:04:30.931730-04:00.hyperlinks.json) |
+| [July 27 at 12:00 PM](https://archive.org/download/ap-2022/ap-2022-07-27T19:00:53.023107-04:00.hyperlinks.json) |
+| [July 27 at 10:13 AM](https://archive.org/download/ap-2022/ap-2022-07-27T17:13:15.597419-04:00.hyperlinks.json) |
+| [July 27 at 4:59 AM](https://archive.org/download/ap-2022/ap-2022-07-27T11:59:05.201614-04:00.hyperlinks.json) |
+| [July 27 at 12:01 AM](https://archive.org/download/ap-2022/ap-2022-07-27T07:01:29.023849-04:00.hyperlinks.json) |
+| [July 26 at 4:57 AM](https://archive.org/download/ap-2022/ap-2022-07-26T11:57:54.220931-04:00.hyperlinks.json) |
+| [July 26 at 12:11 AM](https://archive.org/download/ap-2022/ap-2022-07-26T07:11:03.573660-04:00.hyperlinks.json) |
+| [July 25 at 12:05 PM](https://archive.org/download/ap-2022/ap-2022-07-25T19:05:53.243820-04:00.hyperlinks.json) |
+| [July 25 at 10:14 AM](https://archive.org/download/ap-2022/ap-2022-07-25T17:14:15.244419-04:00.hyperlinks.json) |
+| [July 25 at 4:54 AM](https://archive.org/download/ap-2022/ap-2022-07-25T11:54:31.251756-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 7:04 AM](https://archive.org/download/ap-2022/ap-2022-07-28T07:04:30.931730-04:00.accessibility.json) |
-| [July 27 at 7:00 PM](https://archive.org/download/ap-2022/ap-2022-07-27T19:00:53.023107-04:00.accessibility.json) |
-| [July 27 at 5:13 PM](https://archive.org/download/ap-2022/ap-2022-07-27T17:13:15.597419-04:00.accessibility.json) |
-| [July 27 at 11:59 AM](https://archive.org/download/ap-2022/ap-2022-07-27T11:59:05.201614-04:00.accessibility.json) |
-| [July 27 at 7:01 AM](https://archive.org/download/ap-2022/ap-2022-07-27T07:01:29.023849-04:00.accessibility.json) |
-| [July 26 at 7:02 PM](https://archive.org/download/ap-2022/ap-2022-07-26T19:02:55.772847-04:00.accessibility.json) |
-| [July 26 at 5:11 PM](https://archive.org/download/ap-2022/ap-2022-07-26T17:11:54.782098-04:00.accessibility.json) |
-| [July 26 at 11:57 AM](https://archive.org/download/ap-2022/ap-2022-07-26T11:57:54.220931-04:00.accessibility.json) |
-| [July 26 at 7:11 AM](https://archive.org/download/ap-2022/ap-2022-07-26T07:11:03.573660-04:00.accessibility.json) |
-| [July 25 at 7:05 PM](https://archive.org/download/ap-2022/ap-2022-07-25T19:05:53.243820-04:00.accessibility.json) |
+| [July 28 at 12:04 AM](https://archive.org/download/ap-2022/ap-2022-07-28T07:04:30.931730-04:00.accessibility.json) |
+| [July 27 at 12:00 PM](https://archive.org/download/ap-2022/ap-2022-07-27T19:00:53.023107-04:00.accessibility.json) |
+| [July 27 at 10:13 AM](https://archive.org/download/ap-2022/ap-2022-07-27T17:13:15.597419-04:00.accessibility.json) |
+| [July 27 at 4:59 AM](https://archive.org/download/ap-2022/ap-2022-07-27T11:59:05.201614-04:00.accessibility.json) |
+| [July 27 at 12:01 AM](https://archive.org/download/ap-2022/ap-2022-07-27T07:01:29.023849-04:00.accessibility.json) |
+| [July 26 at 12:02 PM](https://archive.org/download/ap-2022/ap-2022-07-26T19:02:55.772847-04:00.accessibility.json) |
+| [July 26 at 10:11 AM](https://archive.org/download/ap-2022/ap-2022-07-26T17:11:54.782098-04:00.accessibility.json) |
+| [July 26 at 4:57 AM](https://archive.org/download/ap-2022/ap-2022-07-26T11:57:54.220931-04:00.accessibility.json) |
+| [July 26 at 12:11 AM](https://archive.org/download/ap-2022/ap-2022-07-26T07:11:03.573660-04:00.accessibility.json) |
+| [July 25 at 12:05 PM](https://archive.org/download/ap-2022/ap-2022-07-25T19:05:53.243820-04:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 7:04 AM](https://archive.org/download/ap-2022/ap-2022-07-28T07:04:30.931730-04:00.lighthouse.json) |
-| [July 27 at 7:01 PM](https://archive.org/download/ap-2022/ap-2022-07-27T19:00:53.023107-04:00.lighthouse.json) |
-| [July 27 at 5:13 PM](https://archive.org/download/ap-2022/ap-2022-07-27T17:13:15.597419-04:00.lighthouse.json) |
-| [July 27 at 11:59 AM](https://archive.org/download/ap-2022/ap-2022-07-27T11:59:05.201614-04:00.lighthouse.json) |
-| [July 27 at 7:01 AM](https://archive.org/download/ap-2022/ap-2022-07-27T07:01:29.023849-04:00.lighthouse.json) |
-| [July 26 at 7:03 PM](https://archive.org/download/ap-2022/ap-2022-07-26T19:02:55.772847-04:00.lighthouse.json) |
-| [July 26 at 5:11 PM](https://archive.org/download/ap-2022/ap-2022-07-26T17:11:54.782098-04:00.lighthouse.json) |
-| [July 26 at 11:58 AM](https://archive.org/download/ap-2022/ap-2022-07-26T11:57:54.220931-04:00.lighthouse.json) |
-| [July 26 at 7:11 AM](https://archive.org/download/ap-2022/ap-2022-07-26T07:11:03.573660-04:00.lighthouse.json) |
-| [July 25 at 7:06 PM](https://archive.org/download/ap-2022/ap-2022-07-25T19:05:53.243820-04:00.lighthouse.json) |
+| [July 28 at 12:04 AM](https://archive.org/download/ap-2022/ap-2022-07-28T07:04:30.931730-04:00.lighthouse.json) |
+| [July 27 at 12:01 PM](https://archive.org/download/ap-2022/ap-2022-07-27T19:00:53.023107-04:00.lighthouse.json) |
+| [July 27 at 10:13 AM](https://archive.org/download/ap-2022/ap-2022-07-27T17:13:15.597419-04:00.lighthouse.json) |
+| [July 27 at 4:59 AM](https://archive.org/download/ap-2022/ap-2022-07-27T11:59:05.201614-04:00.lighthouse.json) |
+| [July 27 at 12:01 AM](https://archive.org/download/ap-2022/ap-2022-07-27T07:01:29.023849-04:00.lighthouse.json) |
+| [July 26 at 12:03 PM](https://archive.org/download/ap-2022/ap-2022-07-26T19:02:55.772847-04:00.lighthouse.json) |
+| [July 26 at 10:11 AM](https://archive.org/download/ap-2022/ap-2022-07-26T17:11:54.782098-04:00.lighthouse.json) |
+| [July 26 at 4:58 AM](https://archive.org/download/ap-2022/ap-2022-07-26T11:57:54.220931-04:00.lighthouse.json) |
+| [July 26 at 12:11 AM](https://archive.org/download/ap-2022/ap-2022-07-26T07:11:03.573660-04:00.lighthouse.json) |
+| [July 25 at 12:06 PM](https://archive.org/download/ap-2022/ap-2022-07-25T19:05:53.243820-04:00.lighthouse.json) |
 
 
 

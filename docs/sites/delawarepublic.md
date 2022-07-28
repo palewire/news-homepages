@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-28T07:09:29.835261-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-28T07:09:29.835261-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-28 07:09:31-04:00 local time"
+     alt="Delaware Public Media at 2022-07-28 00:09:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-28T07:09:29.835261-04:00.jpg">July 28 at 7:09 AM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-28T07:09:29.835261-04:00.jpg">July 28 at 12:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T19:06:15.119942-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T19:06:15.119942-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-27 19:06:16-04:00 local time"
+     alt="Delaware Public Media at 2022-07-27 12:06:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T19:06:15.119942-04:00.jpg">July 27 at 7:06 PM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T19:06:15.119942-04:00.jpg">July 27 at 12:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T07:06:19.087774-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T07:06:19.087774-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-27 07:06:26-04:00 local time"
+     alt="Delaware Public Media at 2022-07-27 00:06:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T07:06:19.087774-04:00.jpg">July 27 at 7:06 AM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T07:06:19.087774-04:00.jpg">July 27 at 12:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T19:08:10.540394-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T19:08:10.540394-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-26 19:08:11-04:00 local time"
+     alt="Delaware Public Media at 2022-07-26 12:08:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T19:08:10.540394-04:00.jpg">July 26 at 7:08 PM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T19:08:10.540394-04:00.jpg">July 26 at 12:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T07:16:30.113830-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T07:16:30.113830-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-26 07:16:31-04:00 local time"
+     alt="Delaware Public Media at 2022-07-26 00:16:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T07:16:30.113830-04:00.jpg">July 26 at 7:16 AM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T07:16:30.113830-04:00.jpg">July 26 at 12:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T19:11:51.656065-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T19:11:51.656065-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-25 19:11:54-04:00 local time"
+     alt="Delaware Public Media at 2022-07-25 12:11:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T19:11:51.656065-04:00.jpg">July 25 at 7:11 PM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T19:11:51.656065-04:00.jpg">July 25 at 12:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T08:00:21.853427-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T08:00:21.853427-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-25 08:00:23-04:00 local time"
+     alt="Delaware Public Media at 2022-07-25 01:00:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T08:00:21.853427-04:00.jpg">July 25 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T08:00:21.853427-04:00.jpg">July 25 at 1:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T21:00:19.372491-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T21:00:19.372491-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-24 21:00:20-04:00 local time"
+     alt="Delaware Public Media at 2022-07-24 14:00:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T21:00:19.372491-04:00.jpg">July 24 at 9:00 PM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T21:00:19.372491-04:00.jpg">July 24 at 2:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T07:57:20.451446-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T07:57:20.451446-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-24 07:57:22-04:00 local time"
+     alt="Delaware Public Media at 2022-07-24 00:57:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T07:57:20.451446-04:00.jpg">July 24 at 7:57 AM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T07:57:20.451446-04:00.jpg">July 24 at 12:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T02:27:29.111911-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T02:27:29.111911-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-24 02:27:30-04:00 local time"
+     alt="Delaware Public Media at 2022-07-23 19:27:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T02:27:29.111911-04:00.jpg">July 24 at 2:27 AM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T02:27:29.111911-04:00.jpg">July 23 at 7:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-23T09:03:50.839951-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-23T09:03:50.839951-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-23 09:03:51-04:00 local time"
+     alt="Delaware Public Media at 2022-07-23 02:03:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-23T09:03:50.839951-04:00.jpg">July 23 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-23T09:03:50.839951-04:00.jpg">July 23 at 2:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-22T21:04:11.476680-04:00.jpg">
   <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-22T21:04:11.476680-04:00.jpg"
-     alt="Delaware Public Media at 2022-07-22 21:04:13-04:00 local time"
+     alt="Delaware Public Media at 2022-07-22 14:04:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-22T21:04:11.476680-04:00.jpg">July 22 at 9:04 PM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-22T21:04:11.476680-04:00.jpg">July 22 at 2:04 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 7:09 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-28T07:09:29.835261-04:00.hyperlinks.json) |
-| [July 27 at 7:06 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T19:06:15.119942-04:00.hyperlinks.json) |
-| [July 27 at 7:06 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T07:06:19.087774-04:00.hyperlinks.json) |
-| [July 26 at 7:08 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T19:08:10.540394-04:00.hyperlinks.json) |
-| [July 26 at 7:16 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T07:16:30.113830-04:00.hyperlinks.json) |
-| [July 25 at 7:11 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T19:11:51.656065-04:00.hyperlinks.json) |
-| [July 25 at 8:00 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T08:00:21.853427-04:00.hyperlinks.json) |
-| [July 24 at 9:00 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T21:00:19.372491-04:00.hyperlinks.json) |
-| [July 24 at 7:57 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T07:57:20.451446-04:00.hyperlinks.json) |
-| [July 24 at 2:27 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T02:27:29.111911-04:00.hyperlinks.json) |
+| [July 28 at 12:09 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-28T07:09:29.835261-04:00.hyperlinks.json) |
+| [July 27 at 12:06 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T19:06:15.119942-04:00.hyperlinks.json) |
+| [July 27 at 12:06 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T07:06:19.087774-04:00.hyperlinks.json) |
+| [July 26 at 12:08 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T19:08:10.540394-04:00.hyperlinks.json) |
+| [July 26 at 12:16 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T07:16:30.113830-04:00.hyperlinks.json) |
+| [July 25 at 12:11 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T19:11:51.656065-04:00.hyperlinks.json) |
+| [July 25 at 1:00 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T08:00:21.853427-04:00.hyperlinks.json) |
+| [July 24 at 2:00 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T21:00:19.372491-04:00.hyperlinks.json) |
+| [July 24 at 12:57 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T07:57:20.451446-04:00.hyperlinks.json) |
+| [July 23 at 7:27 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T02:27:29.111911-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 7:09 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-28T07:09:29.835261-04:00.accessibility.json) |
-| [July 27 at 7:06 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T19:06:15.119942-04:00.accessibility.json) |
-| [July 27 at 7:06 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T07:06:19.087774-04:00.accessibility.json) |
-| [July 26 at 7:08 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T19:08:10.540394-04:00.accessibility.json) |
-| [July 26 at 7:16 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T07:16:30.113830-04:00.accessibility.json) |
-| [July 25 at 7:11 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T19:11:51.656065-04:00.accessibility.json) |
-| [July 25 at 8:00 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T08:00:21.853427-04:00.accessibility.json) |
-| [July 24 at 9:00 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T21:00:19.372491-04:00.accessibility.json) |
-| [July 24 at 7:57 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T07:57:20.451446-04:00.accessibility.json) |
-| [July 24 at 2:27 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T02:27:29.111911-04:00.accessibility.json) |
+| [July 28 at 12:09 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-28T07:09:29.835261-04:00.accessibility.json) |
+| [July 27 at 12:06 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T19:06:15.119942-04:00.accessibility.json) |
+| [July 27 at 12:06 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T07:06:19.087774-04:00.accessibility.json) |
+| [July 26 at 12:08 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T19:08:10.540394-04:00.accessibility.json) |
+| [July 26 at 12:16 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T07:16:30.113830-04:00.accessibility.json) |
+| [July 25 at 12:11 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T19:11:51.656065-04:00.accessibility.json) |
+| [July 25 at 1:00 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T08:00:21.853427-04:00.accessibility.json) |
+| [July 24 at 2:00 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T21:00:19.372491-04:00.accessibility.json) |
+| [July 24 at 12:57 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T07:57:20.451446-04:00.accessibility.json) |
+| [July 23 at 7:27 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T02:27:29.111911-04:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 7:09 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-28T07:09:29.835261-04:00.lighthouse.json) |
-| [July 27 at 7:06 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T19:06:15.119942-04:00.lighthouse.json) |
-| [July 27 at 7:06 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T07:06:19.087774-04:00.lighthouse.json) |
-| [July 26 at 7:08 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T19:08:10.540394-04:00.lighthouse.json) |
-| [July 26 at 7:16 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T07:16:30.113830-04:00.lighthouse.json) |
-| [July 25 at 7:11 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T19:11:51.656065-04:00.lighthouse.json) |
-| [July 25 at 8:00 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T08:00:21.853427-04:00.lighthouse.json) |
-| [July 24 at 9:00 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T21:00:19.372491-04:00.lighthouse.json) |
-| [July 24 at 7:57 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T07:57:20.451446-04:00.lighthouse.json) |
-| [July 24 at 2:27 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T02:27:29.111911-04:00.lighthouse.json) |
+| [July 28 at 12:09 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-28T07:09:29.835261-04:00.lighthouse.json) |
+| [July 27 at 12:06 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T19:06:15.119942-04:00.lighthouse.json) |
+| [July 27 at 12:06 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-27T07:06:19.087774-04:00.lighthouse.json) |
+| [July 26 at 12:08 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T19:08:10.540394-04:00.lighthouse.json) |
+| [July 26 at 12:16 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-26T07:16:30.113830-04:00.lighthouse.json) |
+| [July 25 at 12:11 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T19:11:51.656065-04:00.lighthouse.json) |
+| [July 25 at 1:00 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T08:00:21.853427-04:00.lighthouse.json) |
+| [July 24 at 2:00 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T21:00:19.372491-04:00.lighthouse.json) |
+| [July 24 at 12:57 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T07:57:20.451446-04:00.lighthouse.json) |
+| [July 23 at 7:27 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T02:27:29.111911-04:00.lighthouse.json) |
 
 
 

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T10:10:05.138963+02:00.jpg">
   <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T10:10:05.138963+02:00.jpg"
-     alt="Le Figaro at 2022-07-28 10:10:07+02:00 local time"
+     alt="Le Figaro at 2022-07-28 03:10:07+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T10:10:05.138963+02:00.jpg">July 28 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T10:10:05.138963+02:00.jpg">July 28 at 3:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T02:05:57.143218+02:00.jpg">
   <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T02:05:57.143218+02:00.jpg"
-     alt="Le Figaro at 2022-07-28 02:06:03+02:00 local time"
+     alt="Le Figaro at 2022-07-27 19:06:03+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T02:05:57.143218+02:00.jpg">July 28 at 2:06 AM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T02:05:57.143218+02:00.jpg">July 27 at 7:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T15:10:35.769331+02:00.jpg">
   <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T15:10:35.769331+02:00.jpg"
-     alt="Le Figaro at 2022-07-27 15:10:36+02:00 local time"
+     alt="Le Figaro at 2022-07-27 08:10:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T15:10:35.769331+02:00.jpg">July 27 at 3:10 PM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T15:10:35.769331+02:00.jpg">July 27 at 8:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T10:13:06.019453+02:00.jpg">
   <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T10:13:06.019453+02:00.jpg"
-     alt="Le Figaro at 2022-07-27 10:13:18+02:00 local time"
+     alt="Le Figaro at 2022-07-27 03:13:18+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T10:13:06.019453+02:00.jpg">July 27 at 10:13 AM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T10:13:06.019453+02:00.jpg">July 27 at 3:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T02:13:54.237170+02:00.jpg">
   <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T02:13:54.237170+02:00.jpg"
-     alt="Le Figaro at 2022-07-27 02:14:06+02:00 local time"
+     alt="Le Figaro at 2022-07-26 19:14:06+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T02:13:54.237170+02:00.jpg">July 27 at 2:14 AM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T02:13:54.237170+02:00.jpg">July 26 at 7:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T14:23:40.644313+02:00.jpg">
   <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T14:23:40.644313+02:00.jpg"
-     alt="Le Figaro at 2022-07-26 14:23:55+02:00 local time"
+     alt="Le Figaro at 2022-07-26 07:23:55+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T14:23:40.644313+02:00.jpg">July 26 at 2:23 PM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T14:23:40.644313+02:00.jpg">July 26 at 7:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T10:08:58.789531+02:00.jpg">
   <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T10:08:58.789531+02:00.jpg"
-     alt="Le Figaro at 2022-07-26 10:09:04+02:00 local time"
+     alt="Le Figaro at 2022-07-26 03:09:04+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T10:08:58.789531+02:00.jpg">July 26 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T10:08:58.789531+02:00.jpg">July 26 at 3:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T02:17:56.210117+02:00.jpg">
   <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T02:17:56.210117+02:00.jpg"
-     alt="Le Figaro at 2022-07-26 02:18:02+02:00 local time"
+     alt="Le Figaro at 2022-07-25 19:18:02+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T02:17:56.210117+02:00.jpg">July 26 at 2:18 AM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T02:17:56.210117+02:00.jpg">July 25 at 7:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T10:09:21.043722+02:00.jpg">
   <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T10:09:21.043722+02:00.jpg"
-     alt="Le Figaro at 2022-07-25 10:09:28+02:00 local time"
+     alt="Le Figaro at 2022-07-25 03:09:28+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T10:09:21.043722+02:00.jpg">July 25 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T10:09:21.043722+02:00.jpg">July 25 at 3:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T05:28:14.889547+02:00.jpg">
   <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T05:28:14.889547+02:00.jpg"
-     alt="Le Figaro at 2022-07-25 05:28:22+02:00 local time"
+     alt="Le Figaro at 2022-07-24 22:28:22+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T05:28:14.889547+02:00.jpg">July 25 at 5:28 AM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T05:28:14.889547+02:00.jpg">July 24 at 10:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-24T15:01:28.068874+02:00.jpg">
   <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-24T15:01:28.068874+02:00.jpg"
-     alt="Le Figaro at 2022-07-24 15:01:29+02:00 local time"
+     alt="Le Figaro at 2022-07-24 08:01:29+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-24T15:01:28.068874+02:00.jpg">July 24 at 3:01 PM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-24T15:01:28.068874+02:00.jpg">July 24 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-24T10:09:45.818528+02:00.jpg">
   <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-24T10:09:45.818528+02:00.jpg"
-     alt="Le Figaro at 2022-07-24 10:09:51+02:00 local time"
+     alt="Le Figaro at 2022-07-24 03:09:51+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-24T10:09:45.818528+02:00.jpg">July 24 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-24T10:09:45.818528+02:00.jpg">July 24 at 3:09 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 10:10 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T10:10:05.138963+02:00.hyperlinks.json) |
-| [July 28 at 2:06 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T02:05:57.143218+02:00.hyperlinks.json) |
-| [July 27 at 3:10 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T15:10:35.769331+02:00.hyperlinks.json) |
-| [July 27 at 10:13 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T10:13:06.019453+02:00.hyperlinks.json) |
-| [July 27 at 2:14 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T02:13:54.237170+02:00.hyperlinks.json) |
-| [July 26 at 2:23 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T14:23:40.644313+02:00.hyperlinks.json) |
-| [July 26 at 10:09 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T10:08:58.789531+02:00.hyperlinks.json) |
-| [July 26 at 2:18 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T02:17:56.210117+02:00.hyperlinks.json) |
-| [July 25 at 3:12 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T15:12:36.634010+02:00.hyperlinks.json) |
-| [July 25 at 10:09 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T10:09:21.043722+02:00.hyperlinks.json) |
+| [July 28 at 3:10 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T10:10:05.138963+02:00.hyperlinks.json) |
+| [July 27 at 7:06 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T02:05:57.143218+02:00.hyperlinks.json) |
+| [July 27 at 8:10 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T15:10:35.769331+02:00.hyperlinks.json) |
+| [July 27 at 3:13 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T10:13:06.019453+02:00.hyperlinks.json) |
+| [July 26 at 7:14 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T02:13:54.237170+02:00.hyperlinks.json) |
+| [July 26 at 7:23 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T14:23:40.644313+02:00.hyperlinks.json) |
+| [July 26 at 3:09 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T10:08:58.789531+02:00.hyperlinks.json) |
+| [July 25 at 7:18 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T02:17:56.210117+02:00.hyperlinks.json) |
+| [July 25 at 8:12 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T15:12:36.634010+02:00.hyperlinks.json) |
+| [July 25 at 3:09 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T10:09:21.043722+02:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 10:10 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T10:10:05.138963+02:00.accessibility.json) |
-| [July 28 at 2:06 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T02:05:57.143218+02:00.accessibility.json) |
-| [July 27 at 3:10 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T15:10:35.769331+02:00.accessibility.json) |
-| [July 27 at 10:13 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T10:13:06.019453+02:00.accessibility.json) |
-| [July 27 at 2:14 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T02:13:54.237170+02:00.accessibility.json) |
-| [July 26 at 2:23 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T14:23:40.644313+02:00.accessibility.json) |
-| [July 26 at 10:09 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T10:08:58.789531+02:00.accessibility.json) |
-| [July 26 at 2:18 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T02:17:56.210117+02:00.accessibility.json) |
-| [July 25 at 3:12 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T15:12:36.634010+02:00.accessibility.json) |
-| [July 25 at 10:09 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T10:09:21.043722+02:00.accessibility.json) |
+| [July 28 at 3:10 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T10:10:05.138963+02:00.accessibility.json) |
+| [July 27 at 7:06 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T02:05:57.143218+02:00.accessibility.json) |
+| [July 27 at 8:10 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T15:10:35.769331+02:00.accessibility.json) |
+| [July 27 at 3:13 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T10:13:06.019453+02:00.accessibility.json) |
+| [July 26 at 7:14 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T02:13:54.237170+02:00.accessibility.json) |
+| [July 26 at 7:23 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T14:23:40.644313+02:00.accessibility.json) |
+| [July 26 at 3:09 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T10:08:58.789531+02:00.accessibility.json) |
+| [July 25 at 7:18 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T02:17:56.210117+02:00.accessibility.json) |
+| [July 25 at 8:12 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T15:12:36.634010+02:00.accessibility.json) |
+| [July 25 at 3:09 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T10:09:21.043722+02:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 10:10 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T10:10:05.138963+02:00.lighthouse.json) |
-| [July 28 at 2:06 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T02:05:57.143218+02:00.lighthouse.json) |
-| [July 27 at 3:10 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T15:10:35.769331+02:00.lighthouse.json) |
-| [July 27 at 10:13 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T10:13:06.019453+02:00.lighthouse.json) |
-| [July 27 at 2:14 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T02:13:54.237170+02:00.lighthouse.json) |
-| [July 26 at 2:24 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T14:23:40.644313+02:00.lighthouse.json) |
-| [July 26 at 10:09 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T10:08:58.789531+02:00.lighthouse.json) |
-| [July 26 at 2:18 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T02:17:56.210117+02:00.lighthouse.json) |
-| [July 25 at 3:12 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T15:12:36.634010+02:00.lighthouse.json) |
-| [July 25 at 10:09 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T10:09:21.043722+02:00.lighthouse.json) |
+| [July 28 at 3:10 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T10:10:05.138963+02:00.lighthouse.json) |
+| [July 27 at 7:06 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-28T02:05:57.143218+02:00.lighthouse.json) |
+| [July 27 at 8:10 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T15:10:35.769331+02:00.lighthouse.json) |
+| [July 27 at 3:13 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T10:13:06.019453+02:00.lighthouse.json) |
+| [July 26 at 7:14 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-27T02:13:54.237170+02:00.lighthouse.json) |
+| [July 26 at 7:24 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T14:23:40.644313+02:00.lighthouse.json) |
+| [July 26 at 3:09 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T10:08:58.789531+02:00.lighthouse.json) |
+| [July 25 at 7:18 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-26T02:17:56.210117+02:00.lighthouse.json) |
+| [July 25 at 8:12 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T15:12:36.634010+02:00.lighthouse.json) |
+| [July 25 at 3:09 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T10:09:21.043722+02:00.lighthouse.json) |
 
 
 

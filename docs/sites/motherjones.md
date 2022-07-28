@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-27T17:07:48.445875-07:00.jpg">
   <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-27T17:07:48.445875-07:00.jpg"
-     alt="Mother Jones at 2022-07-27 17:07:49-07:00 local time"
+     alt="Mother Jones at 2022-07-27 10:07:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-27T17:07:48.445875-07:00.jpg">July 27 at 5:07 PM</a></p>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-27T17:07:48.445875-07:00.jpg">July 27 at 10:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-27T06:10:44.449522-07:00.jpg">
   <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-27T06:10:44.449522-07:00.jpg"
-     alt="Mother Jones at 2022-07-27 06:10:46-07:00 local time"
+     alt="Mother Jones at 2022-07-26 23:10:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-27T06:10:44.449522-07:00.jpg">July 27 at 6:10 AM</a></p>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-27T06:10:44.449522-07:00.jpg">July 26 at 11:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-26T17:14:52.928070-07:00.jpg">
   <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-26T17:14:52.928070-07:00.jpg"
-     alt="Mother Jones at 2022-07-26 17:14:54-07:00 local time"
+     alt="Mother Jones at 2022-07-26 10:14:54-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-26T17:14:52.928070-07:00.jpg">July 26 at 5:14 PM</a></p>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-26T17:14:52.928070-07:00.jpg">July 26 at 10:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-26T11:37:10.240318-07:00.jpg">
   <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-26T11:37:10.240318-07:00.jpg"
-     alt="Mother Jones at 2022-07-26 11:37:23-07:00 local time"
+     alt="Mother Jones at 2022-07-26 04:37:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-26T11:37:10.240318-07:00.jpg">July 26 at 11:37 AM</a></p>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-26T11:37:10.240318-07:00.jpg">July 26 at 4:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-26T05:24:33.612561-07:00.jpg">
   <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-26T05:24:33.612561-07:00.jpg"
-     alt="Mother Jones at 2022-07-26 05:24:38-07:00 local time"
+     alt="Mother Jones at 2022-07-25 22:24:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-26T05:24:33.612561-07:00.jpg">July 26 at 5:24 AM</a></p>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-26T05:24:33.612561-07:00.jpg">July 25 at 10:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-25T17:19:43.641790-07:00.jpg">
   <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-25T17:19:43.641790-07:00.jpg"
-     alt="Mother Jones at 2022-07-25 17:19:45-07:00 local time"
+     alt="Mother Jones at 2022-07-25 10:19:45-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-25T17:19:43.641790-07:00.jpg">July 25 at 5:19 PM</a></p>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-25T17:19:43.641790-07:00.jpg">July 25 at 10:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-25T11:40:33.752425-07:00.jpg">
   <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-25T11:40:33.752425-07:00.jpg"
-     alt="Mother Jones at 2022-07-25 11:40:35-07:00 local time"
+     alt="Mother Jones at 2022-07-25 04:40:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-25T11:40:33.752425-07:00.jpg">July 25 at 11:40 AM</a></p>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-25T11:40:33.752425-07:00.jpg">July 25 at 4:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-25T09:37:26.308466-07:00.jpg">
   <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-25T09:37:26.308466-07:00.jpg"
-     alt="Mother Jones at 2022-07-25 09:37:28-07:00 local time"
+     alt="Mother Jones at 2022-07-25 02:37:28-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-25T09:37:26.308466-07:00.jpg">July 25 at 9:37 AM</a></p>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-25T09:37:26.308466-07:00.jpg">July 25 at 2:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-25T06:15:05.308084-07:00.jpg">
   <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-25T06:15:05.308084-07:00.jpg"
-     alt="Mother Jones at 2022-07-25 06:15:08-07:00 local time"
+     alt="Mother Jones at 2022-07-24 23:15:08-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-25T06:15:05.308084-07:00.jpg">July 25 at 6:15 AM</a></p>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-25T06:15:05.308084-07:00.jpg">July 24 at 11:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T20:32:47.348368-07:00.jpg">
   <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T20:32:47.348368-07:00.jpg"
-     alt="Mother Jones at 2022-07-24 20:32:48-07:00 local time"
+     alt="Mother Jones at 2022-07-24 13:32:48-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T20:32:47.348368-07:00.jpg">July 24 at 8:32 PM</a></p>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T20:32:47.348368-07:00.jpg">July 24 at 1:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T08:42:48.686521-07:00.jpg">
   <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T08:42:48.686521-07:00.jpg"
-     alt="Mother Jones at 2022-07-24 08:42:50-07:00 local time"
+     alt="Mother Jones at 2022-07-24 01:42:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T08:42:48.686521-07:00.jpg">July 24 at 8:42 AM</a></p>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T08:42:48.686521-07:00.jpg">July 24 at 1:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T06:04:19.875091-07:00.jpg">
   <img src="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T06:04:19.875091-07:00.jpg"
-     alt="Mother Jones at 2022-07-24 06:04:20-07:00 local time"
+     alt="Mother Jones at 2022-07-23 23:04:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T06:04:19.875091-07:00.jpg">July 24 at 6:04 AM</a></p>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-07-24T06:04:19.875091-07:00.jpg">July 23 at 11:04 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 5:07 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-27T17:07:48.445875-07:00.hyperlinks.json) |
-| [July 27 at 6:10 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-27T06:10:44.449522-07:00.hyperlinks.json) |
-| [July 26 at 5:14 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T17:14:52.928070-07:00.hyperlinks.json) |
-| [July 26 at 11:37 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T11:37:10.240318-07:00.hyperlinks.json) |
-| [July 26 at 5:24 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T05:24:33.612561-07:00.hyperlinks.json) |
-| [July 25 at 5:19 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T17:19:43.641790-07:00.hyperlinks.json) |
-| [July 25 at 11:40 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T11:40:33.752425-07:00.hyperlinks.json) |
-| [July 25 at 9:37 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T09:37:26.308466-07:00.hyperlinks.json) |
-| [July 25 at 6:15 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T06:15:05.308084-07:00.hyperlinks.json) |
-| [July 24 at 8:32 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-24T20:32:47.348368-07:00.hyperlinks.json) |
+| [July 27 at 10:07 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-27T17:07:48.445875-07:00.hyperlinks.json) |
+| [July 26 at 11:10 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-27T06:10:44.449522-07:00.hyperlinks.json) |
+| [July 26 at 10:14 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T17:14:52.928070-07:00.hyperlinks.json) |
+| [July 26 at 4:37 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T11:37:10.240318-07:00.hyperlinks.json) |
+| [July 25 at 10:24 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T05:24:33.612561-07:00.hyperlinks.json) |
+| [July 25 at 10:19 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T17:19:43.641790-07:00.hyperlinks.json) |
+| [July 25 at 4:40 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T11:40:33.752425-07:00.hyperlinks.json) |
+| [July 25 at 2:37 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T09:37:26.308466-07:00.hyperlinks.json) |
+| [July 24 at 11:15 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T06:15:05.308084-07:00.hyperlinks.json) |
+| [July 24 at 1:32 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-24T20:32:47.348368-07:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 5:07 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-27T17:07:48.445875-07:00.accessibility.json) |
-| [July 27 at 6:10 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-27T06:10:44.449522-07:00.accessibility.json) |
-| [July 26 at 5:14 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T17:14:52.928070-07:00.accessibility.json) |
-| [July 26 at 11:37 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T11:37:10.240318-07:00.accessibility.json) |
-| [July 26 at 5:24 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T05:24:33.612561-07:00.accessibility.json) |
-| [July 25 at 5:19 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T17:19:43.641790-07:00.accessibility.json) |
-| [July 25 at 11:40 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T11:40:33.752425-07:00.accessibility.json) |
-| [July 25 at 9:37 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T09:37:26.308466-07:00.accessibility.json) |
-| [July 25 at 6:15 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T06:15:05.308084-07:00.accessibility.json) |
-| [July 24 at 8:32 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-24T20:32:47.348368-07:00.accessibility.json) |
+| [July 27 at 10:07 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-27T17:07:48.445875-07:00.accessibility.json) |
+| [July 26 at 11:10 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-27T06:10:44.449522-07:00.accessibility.json) |
+| [July 26 at 10:14 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T17:14:52.928070-07:00.accessibility.json) |
+| [July 26 at 4:37 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T11:37:10.240318-07:00.accessibility.json) |
+| [July 25 at 10:24 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T05:24:33.612561-07:00.accessibility.json) |
+| [July 25 at 10:19 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T17:19:43.641790-07:00.accessibility.json) |
+| [July 25 at 4:40 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T11:40:33.752425-07:00.accessibility.json) |
+| [July 25 at 2:37 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T09:37:26.308466-07:00.accessibility.json) |
+| [July 24 at 11:15 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T06:15:05.308084-07:00.accessibility.json) |
+| [July 24 at 1:32 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-24T20:32:47.348368-07:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 5:07 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-27T17:07:48.445875-07:00.lighthouse.json) |
-| [July 27 at 6:10 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-27T06:10:44.449522-07:00.lighthouse.json) |
-| [July 26 at 5:14 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T17:14:52.928070-07:00.lighthouse.json) |
-| [July 26 at 11:37 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T11:37:10.240318-07:00.lighthouse.json) |
-| [July 26 at 5:24 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T05:24:33.612561-07:00.lighthouse.json) |
-| [July 25 at 5:19 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T17:19:43.641790-07:00.lighthouse.json) |
-| [July 25 at 11:40 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T11:40:33.752425-07:00.lighthouse.json) |
-| [July 25 at 9:37 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T09:37:26.308466-07:00.lighthouse.json) |
-| [July 25 at 6:15 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T06:15:05.308084-07:00.lighthouse.json) |
-| [July 24 at 8:32 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-24T20:32:47.348368-07:00.lighthouse.json) |
+| [July 27 at 10:07 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-27T17:07:48.445875-07:00.lighthouse.json) |
+| [July 26 at 11:10 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-27T06:10:44.449522-07:00.lighthouse.json) |
+| [July 26 at 10:14 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T17:14:52.928070-07:00.lighthouse.json) |
+| [July 26 at 4:37 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T11:37:10.240318-07:00.lighthouse.json) |
+| [July 25 at 10:24 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-26T05:24:33.612561-07:00.lighthouse.json) |
+| [July 25 at 10:19 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T17:19:43.641790-07:00.lighthouse.json) |
+| [July 25 at 4:40 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T11:40:33.752425-07:00.lighthouse.json) |
+| [July 25 at 2:37 AM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T09:37:26.308466-07:00.lighthouse.json) |
+| [July 24 at 11:15 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-25T06:15:05.308084-07:00.lighthouse.json) |
+| [July 24 at 1:32 PM](https://archive.org/download/motherjones-2022/motherjones-2022-07-24T20:32:47.348368-07:00.lighthouse.json) |
 
 
 

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T21:28:41.237554-04:00.jpg">
   <img src="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T21:28:41.237554-04:00.jpg"
-     alt="CivicLex at 2022-07-27 21:28:42-04:00 local time"
+     alt="CivicLex at 2022-07-27 14:28:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T21:28:41.237554-04:00.jpg">July 27 at 9:28 PM</a></p>
+ <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T21:28:41.237554-04:00.jpg">July 27 at 2:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T09:19:35.556302-04:00.jpg">
   <img src="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T09:19:35.556302-04:00.jpg"
-     alt="CivicLex at 2022-07-27 09:19:37-04:00 local time"
+     alt="CivicLex at 2022-07-27 02:19:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T09:19:35.556302-04:00.jpg">July 27 at 9:19 AM</a></p>
+ <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T09:19:35.556302-04:00.jpg">July 27 at 2:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T21:25:05.270351-04:00.jpg">
   <img src="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T21:25:05.270351-04:00.jpg"
-     alt="CivicLex at 2022-07-26 21:25:06-04:00 local time"
+     alt="CivicLex at 2022-07-26 14:25:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T21:25:05.270351-04:00.jpg">July 26 at 9:25 PM</a></p>
+ <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T21:25:05.270351-04:00.jpg">July 26 at 2:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T09:28:00.094293-04:00.jpg">
   <img src="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T09:28:00.094293-04:00.jpg"
-     alt="CivicLex at 2022-07-26 09:28:01-04:00 local time"
+     alt="CivicLex at 2022-07-26 02:28:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T09:28:00.094293-04:00.jpg">July 26 at 9:28 AM</a></p>
+ <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T09:28:00.094293-04:00.jpg">July 26 at 2:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T22:59:28.148162-04:00.jpg">
   <img src="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T22:59:28.148162-04:00.jpg"
-     alt="CivicLex at 2022-07-25 22:59:29-04:00 local time"
+     alt="CivicLex at 2022-07-25 15:59:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T22:59:28.148162-04:00.jpg">July 25 at 10:59 PM</a></p>
+ <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T22:59:28.148162-04:00.jpg">July 25 at 3:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T21:32:58.945909-04:00.jpg">
   <img src="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T21:32:58.945909-04:00.jpg"
-     alt="CivicLex at 2022-07-25 21:33:00-04:00 local time"
+     alt="CivicLex at 2022-07-25 14:33:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T21:32:58.945909-04:00.jpg">July 25 at 9:33 PM</a></p>
+ <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T21:32:58.945909-04:00.jpg">July 25 at 2:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T07:02:15.279602-04:00.jpg">
   <img src="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T07:02:15.279602-04:00.jpg"
-     alt="CivicLex at 2022-07-25 07:02:17-04:00 local time"
+     alt="CivicLex at 2022-07-25 00:02:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T07:02:15.279602-04:00.jpg">July 25 at 7:02 AM</a></p>
+ <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T07:02:15.279602-04:00.jpg">July 25 at 12:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T20:55:31.641176-04:00.jpg">
   <img src="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T20:55:31.641176-04:00.jpg"
-     alt="CivicLex at 2022-07-24 20:55:32-04:00 local time"
+     alt="CivicLex at 2022-07-24 13:55:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T20:55:31.641176-04:00.jpg">July 24 at 8:55 PM</a></p>
+ <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T20:55:31.641176-04:00.jpg">July 24 at 1:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T07:01:42.729775-04:00.jpg">
   <img src="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T07:01:42.729775-04:00.jpg"
-     alt="CivicLex at 2022-07-24 07:01:44-04:00 local time"
+     alt="CivicLex at 2022-07-24 00:01:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T07:01:42.729775-04:00.jpg">July 24 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T07:01:42.729775-04:00.jpg">July 24 at 12:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-23T19:03:04.824625-04:00.jpg">
   <img src="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-23T19:03:04.824625-04:00.jpg"
-     alt="CivicLex at 2022-07-23 19:03:07-04:00 local time"
+     alt="CivicLex at 2022-07-23 12:03:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-23T19:03:04.824625-04:00.jpg">July 23 at 7:03 PM</a></p>
+ <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-23T19:03:04.824625-04:00.jpg">July 23 at 12:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-23T09:00:50.173284-04:00.jpg">
   <img src="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-23T09:00:50.173284-04:00.jpg"
-     alt="CivicLex at 2022-07-23 09:00:51-04:00 local time"
+     alt="CivicLex at 2022-07-23 02:00:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-23T09:00:50.173284-04:00.jpg">July 23 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-23T09:00:50.173284-04:00.jpg">July 23 at 2:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-22T21:01:32.382350-04:00.jpg">
   <img src="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-22T21:01:32.382350-04:00.jpg"
-     alt="CivicLex at 2022-07-22 21:01:33-04:00 local time"
+     alt="CivicLex at 2022-07-22 14:01:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-22T21:01:32.382350-04:00.jpg">July 22 at 9:01 PM</a></p>
+ <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-07-22T21:01:32.382350-04:00.jpg">July 22 at 2:01 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 9:28 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T21:28:41.237554-04:00.hyperlinks.json) |
-| [July 27 at 9:19 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T09:19:35.556302-04:00.hyperlinks.json) |
-| [July 26 at 9:25 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T21:25:05.270351-04:00.hyperlinks.json) |
-| [July 26 at 9:28 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T09:28:00.094293-04:00.hyperlinks.json) |
-| [July 25 at 10:59 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T22:59:28.148162-04:00.hyperlinks.json) |
-| [July 25 at 9:33 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T21:32:58.945909-04:00.hyperlinks.json) |
-| [July 25 at 7:02 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T07:02:15.279602-04:00.hyperlinks.json) |
-| [July 24 at 8:55 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T20:55:31.641176-04:00.hyperlinks.json) |
-| [July 24 at 7:01 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T07:01:42.729775-04:00.hyperlinks.json) |
-| [July 23 at 7:03 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-23T19:03:04.824625-04:00.hyperlinks.json) |
+| [July 27 at 2:28 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T21:28:41.237554-04:00.hyperlinks.json) |
+| [July 27 at 2:19 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T09:19:35.556302-04:00.hyperlinks.json) |
+| [July 26 at 2:25 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T21:25:05.270351-04:00.hyperlinks.json) |
+| [July 26 at 2:28 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T09:28:00.094293-04:00.hyperlinks.json) |
+| [July 25 at 3:59 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T22:59:28.148162-04:00.hyperlinks.json) |
+| [July 25 at 2:33 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T21:32:58.945909-04:00.hyperlinks.json) |
+| [July 25 at 12:02 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T07:02:15.279602-04:00.hyperlinks.json) |
+| [July 24 at 1:55 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T20:55:31.641176-04:00.hyperlinks.json) |
+| [July 24 at 12:01 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T07:01:42.729775-04:00.hyperlinks.json) |
+| [July 23 at 12:03 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-23T19:03:04.824625-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 9:28 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T21:28:41.237554-04:00.accessibility.json) |
-| [July 27 at 9:19 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T09:19:35.556302-04:00.accessibility.json) |
-| [July 26 at 9:25 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T21:25:05.270351-04:00.accessibility.json) |
-| [July 26 at 9:28 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T09:28:00.094293-04:00.accessibility.json) |
-| [July 25 at 10:59 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T22:59:28.148162-04:00.accessibility.json) |
-| [July 25 at 9:33 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T21:32:58.945909-04:00.accessibility.json) |
-| [July 25 at 7:02 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T07:02:15.279602-04:00.accessibility.json) |
-| [July 24 at 8:55 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T20:55:31.641176-04:00.accessibility.json) |
-| [July 24 at 7:01 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T07:01:42.729775-04:00.accessibility.json) |
-| [July 23 at 7:03 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-23T19:03:04.824625-04:00.accessibility.json) |
+| [July 27 at 2:28 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T21:28:41.237554-04:00.accessibility.json) |
+| [July 27 at 2:19 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T09:19:35.556302-04:00.accessibility.json) |
+| [July 26 at 2:25 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T21:25:05.270351-04:00.accessibility.json) |
+| [July 26 at 2:28 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T09:28:00.094293-04:00.accessibility.json) |
+| [July 25 at 3:59 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T22:59:28.148162-04:00.accessibility.json) |
+| [July 25 at 2:33 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T21:32:58.945909-04:00.accessibility.json) |
+| [July 25 at 12:02 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T07:02:15.279602-04:00.accessibility.json) |
+| [July 24 at 1:55 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T20:55:31.641176-04:00.accessibility.json) |
+| [July 24 at 12:01 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T07:01:42.729775-04:00.accessibility.json) |
+| [July 23 at 12:03 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-23T19:03:04.824625-04:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 9:28 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T21:28:41.237554-04:00.lighthouse.json) |
-| [July 27 at 9:19 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T09:19:35.556302-04:00.lighthouse.json) |
-| [July 26 at 9:25 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T21:25:05.270351-04:00.lighthouse.json) |
-| [July 26 at 9:28 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T09:28:00.094293-04:00.lighthouse.json) |
-| [July 25 at 10:59 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T22:59:28.148162-04:00.lighthouse.json) |
-| [July 25 at 9:33 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T21:32:58.945909-04:00.lighthouse.json) |
-| [July 25 at 7:02 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T07:02:15.279602-04:00.lighthouse.json) |
-| [July 24 at 8:55 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T20:55:31.641176-04:00.lighthouse.json) |
-| [July 24 at 7:01 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T07:01:42.729775-04:00.lighthouse.json) |
-| [July 23 at 7:03 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-23T19:03:04.824625-04:00.lighthouse.json) |
+| [July 27 at 2:28 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T21:28:41.237554-04:00.lighthouse.json) |
+| [July 27 at 2:19 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-27T09:19:35.556302-04:00.lighthouse.json) |
+| [July 26 at 2:25 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T21:25:05.270351-04:00.lighthouse.json) |
+| [July 26 at 2:28 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-26T09:28:00.094293-04:00.lighthouse.json) |
+| [July 25 at 3:59 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T22:59:28.148162-04:00.lighthouse.json) |
+| [July 25 at 2:33 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T21:32:58.945909-04:00.lighthouse.json) |
+| [July 25 at 12:02 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-25T07:02:15.279602-04:00.lighthouse.json) |
+| [July 24 at 1:55 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T20:55:31.641176-04:00.lighthouse.json) |
+| [July 24 at 12:01 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-24T07:01:42.729775-04:00.lighthouse.json) |
+| [July 23 at 12:03 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-07-23T19:03:04.824625-04:00.lighthouse.json) |
 
 
 

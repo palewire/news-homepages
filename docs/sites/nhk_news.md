@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-28T11:34:05.792276+09:00.jpg">
   <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-28T11:34:05.792276+09:00.jpg"
-     alt="NHK at 2022-07-28 11:34:09+09:00 local time"
+     alt="NHK at 2022-07-28 04:34:09+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-28T11:34:05.792276+09:00.jpg">July 28 at 11:34 AM</a></p>
+ <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-28T11:34:05.792276+09:00.jpg">July 28 at 4:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-28T09:09:12.256600+09:00.jpg">
   <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-28T09:09:12.256600+09:00.jpg"
-     alt="NHK at 2022-07-28 09:09:14+09:00 local time"
+     alt="NHK at 2022-07-28 02:09:14+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-28T09:09:12.256600+09:00.jpg">July 28 at 9:09 AM</a></p>
+ <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-28T09:09:12.256600+09:00.jpg">July 28 at 2:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T22:12:10.087099+09:00.jpg">
   <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T22:12:10.087099+09:00.jpg"
-     alt="NHK at 2022-07-27 22:12:11+09:00 local time"
+     alt="NHK at 2022-07-27 15:12:11+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T22:12:10.087099+09:00.jpg">July 27 at 10:12 PM</a></p>
+ <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T22:12:10.087099+09:00.jpg">July 27 at 3:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T11:31:48.410631+09:00.jpg">
   <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T11:31:48.410631+09:00.jpg"
-     alt="NHK at 2022-07-27 11:31:49+09:00 local time"
+     alt="NHK at 2022-07-27 04:31:49+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T11:31:48.410631+09:00.jpg">July 27 at 11:31 AM</a></p>
+ <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T11:31:48.410631+09:00.jpg">July 27 at 4:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T09:16:45.744309+09:00.jpg">
   <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T09:16:45.744309+09:00.jpg"
-     alt="NHK at 2022-07-27 09:16:48+09:00 local time"
+     alt="NHK at 2022-07-27 02:16:48+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T09:16:45.744309+09:00.jpg">July 27 at 9:16 AM</a></p>
+ <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T09:16:45.744309+09:00.jpg">July 27 at 2:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T21:26:38.123392+09:00.jpg">
   <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T21:26:38.123392+09:00.jpg"
-     alt="NHK at 2022-07-26 21:26:40+09:00 local time"
+     alt="NHK at 2022-07-26 14:26:40+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T21:26:38.123392+09:00.jpg">July 26 at 9:26 PM</a></p>
+ <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T21:26:38.123392+09:00.jpg">July 26 at 2:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T11:36:43.040415+09:00.jpg">
   <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T11:36:43.040415+09:00.jpg"
-     alt="NHK at 2022-07-26 11:36:44+09:00 local time"
+     alt="NHK at 2022-07-26 04:36:44+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T11:36:43.040415+09:00.jpg">July 26 at 11:36 AM</a></p>
+ <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T11:36:43.040415+09:00.jpg">July 26 at 4:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T09:21:07.457092+09:00.jpg">
   <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T09:21:07.457092+09:00.jpg"
-     alt="NHK at 2022-07-26 09:21:11+09:00 local time"
+     alt="NHK at 2022-07-26 02:21:11+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T09:21:07.457092+09:00.jpg">July 26 at 9:21 AM</a></p>
+ <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T09:21:07.457092+09:00.jpg">July 26 at 2:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T22:18:22.638483+09:00.jpg">
   <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T22:18:22.638483+09:00.jpg"
-     alt="NHK at 2022-07-25 22:18:23+09:00 local time"
+     alt="NHK at 2022-07-25 15:18:23+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T22:18:22.638483+09:00.jpg">July 25 at 10:18 PM</a></p>
+ <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T22:18:22.638483+09:00.jpg">July 25 at 3:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T12:36:41.296496+09:00.jpg">
   <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T12:36:41.296496+09:00.jpg"
-     alt="NHK at 2022-07-25 12:36:43+09:00 local time"
+     alt="NHK at 2022-07-25 05:36:43+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T12:36:41.296496+09:00.jpg">July 25 at 12:36 PM</a></p>
+ <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T12:36:41.296496+09:00.jpg">July 25 at 5:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T12:36:16.967290+09:00.jpg">
   <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T12:36:16.967290+09:00.jpg"
-     alt="NHK at 2022-07-25 12:36:19+09:00 local time"
+     alt="NHK at 2022-07-25 05:36:19+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T12:36:16.967290+09:00.jpg">July 25 at 12:36 PM</a></p>
+ <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T12:36:16.967290+09:00.jpg">July 25 at 5:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-24T22:05:14.946635+09:00.jpg">
   <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-24T22:05:14.946635+09:00.jpg"
-     alt="NHK at 2022-07-24 22:05:16+09:00 local time"
+     alt="NHK at 2022-07-24 15:05:16+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-24T22:05:14.946635+09:00.jpg">July 24 at 10:05 PM</a></p>
+ <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-07-24T22:05:14.946635+09:00.jpg">July 24 at 3:05 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 11:34 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-28T11:34:05.792276+09:00.hyperlinks.json) |
-| [July 28 at 9:09 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-28T09:09:12.256600+09:00.hyperlinks.json) |
-| [July 27 at 10:12 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T22:12:10.087099+09:00.hyperlinks.json) |
-| [July 27 at 11:31 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T11:31:48.410631+09:00.hyperlinks.json) |
-| [July 27 at 9:16 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T09:16:45.744309+09:00.hyperlinks.json) |
-| [July 26 at 9:26 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T21:26:38.123392+09:00.hyperlinks.json) |
-| [July 26 at 11:36 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T11:36:43.040415+09:00.hyperlinks.json) |
-| [July 26 at 9:21 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T09:21:07.457092+09:00.hyperlinks.json) |
-| [July 25 at 10:18 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T22:18:22.638483+09:00.hyperlinks.json) |
-| [July 25 at 12:36 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T12:36:41.296496+09:00.hyperlinks.json) |
+| [July 28 at 4:34 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-28T11:34:05.792276+09:00.hyperlinks.json) |
+| [July 28 at 2:09 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-28T09:09:12.256600+09:00.hyperlinks.json) |
+| [July 27 at 3:12 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T22:12:10.087099+09:00.hyperlinks.json) |
+| [July 27 at 4:31 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T11:31:48.410631+09:00.hyperlinks.json) |
+| [July 27 at 2:16 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T09:16:45.744309+09:00.hyperlinks.json) |
+| [July 26 at 2:26 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T21:26:38.123392+09:00.hyperlinks.json) |
+| [July 26 at 4:36 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T11:36:43.040415+09:00.hyperlinks.json) |
+| [July 26 at 2:21 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T09:21:07.457092+09:00.hyperlinks.json) |
+| [July 25 at 3:18 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T22:18:22.638483+09:00.hyperlinks.json) |
+| [July 25 at 5:36 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T12:36:41.296496+09:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -336,16 +336,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 11:31 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T11:31:48.410631+09:00.accessibility.json) |
-| [July 24 at 1:21 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-24T13:21:23.566474+09:00.accessibility.json) |
-| [July 21 at 10:33 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-21T10:33:13.930969+09:00.accessibility.json) |
-| [July 17 at 12:27 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-17T12:27:52.428721+09:00.accessibility.json) |
-| [July 15 at 12:29 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-15T12:29:54.786067+09:00.accessibility.json) |
-| [July 15 at 12:46 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-15T00:46:05.805094+09:00.accessibility.json) |
-| [July 14 at 10:36 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-14T10:36:04.038372+09:00.accessibility.json) |
-| [July 13 at 10:34 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-13T10:34:04.861626+09:00.accessibility.json) |
-| [July 13 at 2:45 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-13T02:45:45.195976+09:00.accessibility.json) |
-| [July 12 at 1:34 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-12T13:34:18.673280+09:00.accessibility.json) |
+| [July 27 at 4:31 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T11:31:48.410631+09:00.accessibility.json) |
+| [July 24 at 6:21 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-24T13:21:23.566474+09:00.accessibility.json) |
+| [July 21 at 3:33 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-21T10:33:13.930969+09:00.accessibility.json) |
+| [July 17 at 5:27 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-17T12:27:52.428721+09:00.accessibility.json) |
+| [July 15 at 5:29 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-15T12:29:54.786067+09:00.accessibility.json) |
+| [July 14 at 5:46 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-15T00:46:05.805094+09:00.accessibility.json) |
+| [July 14 at 3:36 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-14T10:36:04.038372+09:00.accessibility.json) |
+| [July 13 at 3:34 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-13T10:34:04.861626+09:00.accessibility.json) |
+| [July 12 at 7:45 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-13T02:45:45.195976+09:00.accessibility.json) |
+| [July 12 at 6:34 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-12T13:34:18.673280+09:00.accessibility.json) |
 
 
 
@@ -359,16 +359,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 11:34 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-28T11:34:05.792276+09:00.lighthouse.json) |
-| [July 28 at 9:09 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-28T09:09:12.256600+09:00.lighthouse.json) |
-| [July 27 at 10:12 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T22:12:10.087099+09:00.lighthouse.json) |
-| [July 27 at 11:31 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T11:31:48.410631+09:00.lighthouse.json) |
-| [July 27 at 9:16 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T09:16:45.744309+09:00.lighthouse.json) |
-| [July 26 at 9:26 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T21:26:38.123392+09:00.lighthouse.json) |
-| [July 26 at 11:36 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T11:36:43.040415+09:00.lighthouse.json) |
-| [July 26 at 9:21 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T09:21:07.457092+09:00.lighthouse.json) |
-| [July 25 at 10:18 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T22:18:22.638483+09:00.lighthouse.json) |
-| [July 25 at 12:36 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T12:36:41.296496+09:00.lighthouse.json) |
+| [July 28 at 4:34 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-28T11:34:05.792276+09:00.lighthouse.json) |
+| [July 28 at 2:09 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-28T09:09:12.256600+09:00.lighthouse.json) |
+| [July 27 at 3:12 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T22:12:10.087099+09:00.lighthouse.json) |
+| [July 27 at 4:31 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T11:31:48.410631+09:00.lighthouse.json) |
+| [July 27 at 2:16 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-27T09:16:45.744309+09:00.lighthouse.json) |
+| [July 26 at 2:26 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T21:26:38.123392+09:00.lighthouse.json) |
+| [July 26 at 4:36 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T11:36:43.040415+09:00.lighthouse.json) |
+| [July 26 at 2:21 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-26T09:21:07.457092+09:00.lighthouse.json) |
+| [July 25 at 3:18 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T22:18:22.638483+09:00.lighthouse.json) |
+| [July 25 at 5:36 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-07-25T12:36:41.296496+09:00.lighthouse.json) |
 
 
 

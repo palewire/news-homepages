@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-27T21:31:17.312552-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-07-27T21:31:17.312552-04:00.jpg"
-     alt="Real News at 2022-07-27 21:31:19-04:00 local time"
+     alt="Real News at 2022-07-27 14:31:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-27T21:31:17.312552-04:00.jpg">July 27 at 9:31 PM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-27T21:31:17.312552-04:00.jpg">July 27 at 2:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-27T09:24:31.197765-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-07-27T09:24:31.197765-04:00.jpg"
-     alt="Real News at 2022-07-27 09:24:33-04:00 local time"
+     alt="Real News at 2022-07-27 02:24:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-27T09:24:31.197765-04:00.jpg">July 27 at 9:24 AM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-27T09:24:31.197765-04:00.jpg">July 27 at 2:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-26T21:28:54.983065-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-07-26T21:28:54.983065-04:00.jpg"
-     alt="Real News at 2022-07-26 21:28:56-04:00 local time"
+     alt="Real News at 2022-07-26 14:28:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-26T21:28:54.983065-04:00.jpg">July 26 at 9:28 PM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-26T21:28:54.983065-04:00.jpg">July 26 at 2:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-26T09:31:16.172816-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-07-26T09:31:16.172816-04:00.jpg"
-     alt="Real News at 2022-07-26 09:31:17-04:00 local time"
+     alt="Real News at 2022-07-26 02:31:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-26T09:31:16.172816-04:00.jpg">July 26 at 9:31 AM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-26T09:31:16.172816-04:00.jpg">July 26 at 2:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T22:53:19.312816-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T22:53:19.312816-04:00.jpg"
-     alt="Real News at 2022-07-25 22:53:20-04:00 local time"
+     alt="Real News at 2022-07-25 15:53:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T22:53:19.312816-04:00.jpg">July 25 at 10:53 PM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T22:53:19.312816-04:00.jpg">July 25 at 3:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T21:35:56.540834-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T21:35:56.540834-04:00.jpg"
-     alt="Real News at 2022-07-25 21:35:58-04:00 local time"
+     alt="Real News at 2022-07-25 14:35:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T21:35:56.540834-04:00.jpg">July 25 at 9:35 PM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T21:35:56.540834-04:00.jpg">July 25 at 2:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T11:48:38.338964-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T11:48:38.338964-04:00.jpg"
-     alt="Real News at 2022-07-25 11:48:40-04:00 local time"
+     alt="Real News at 2022-07-25 04:48:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T11:48:38.338964-04:00.jpg">July 25 at 11:48 AM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T11:48:38.338964-04:00.jpg">July 25 at 4:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T00:37:14.265502-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T00:37:14.265502-04:00.jpg"
-     alt="Real News at 2022-07-25 00:37:15-04:00 local time"
+     alt="Real News at 2022-07-24 17:37:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T00:37:14.265502-04:00.jpg">July 25 at 12:37 AM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-25T00:37:14.265502-04:00.jpg">July 24 at 5:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-24T11:07:24.049847-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-07-24T11:07:24.049847-04:00.jpg"
-     alt="Real News at 2022-07-24 11:07:26-04:00 local time"
+     alt="Real News at 2022-07-24 04:07:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-24T11:07:24.049847-04:00.jpg">July 24 at 11:07 AM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-24T11:07:24.049847-04:00.jpg">July 24 at 4:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-23T23:42:30.876941-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-07-23T23:42:30.876941-04:00.jpg"
-     alt="Real News at 2022-07-23 23:42:33-04:00 local time"
+     alt="Real News at 2022-07-23 16:42:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-23T23:42:30.876941-04:00.jpg">July 23 at 11:42 PM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-23T23:42:30.876941-04:00.jpg">July 23 at 4:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-23T12:06:00.303505-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-07-23T12:06:00.303505-04:00.jpg"
-     alt="Real News at 2022-07-23 12:06:02-04:00 local time"
+     alt="Real News at 2022-07-23 05:06:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-23T12:06:00.303505-04:00.jpg">July 23 at 12:06 PM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-23T12:06:00.303505-04:00.jpg">July 23 at 5:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-23T00:25:52.963594-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-07-23T00:25:52.963594-04:00.jpg"
-     alt="Real News at 2022-07-23 00:25:54-04:00 local time"
+     alt="Real News at 2022-07-22 17:25:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-23T00:25:52.963594-04:00.jpg">July 23 at 12:25 AM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-07-23T00:25:52.963594-04:00.jpg">July 22 at 5:25 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 9:31 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-27T21:31:17.312552-04:00.hyperlinks.json) |
-| [July 27 at 9:24 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-27T09:24:31.197765-04:00.hyperlinks.json) |
-| [July 26 at 9:28 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-26T21:28:54.983065-04:00.hyperlinks.json) |
-| [July 26 at 9:31 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-26T09:31:16.172816-04:00.hyperlinks.json) |
-| [July 25 at 10:53 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T22:53:19.312816-04:00.hyperlinks.json) |
-| [July 25 at 9:36 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T21:35:56.540834-04:00.hyperlinks.json) |
-| [July 25 at 11:48 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T11:48:38.338964-04:00.hyperlinks.json) |
-| [July 25 at 12:37 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T00:37:14.265502-04:00.hyperlinks.json) |
-| [July 24 at 11:07 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-24T11:07:24.049847-04:00.hyperlinks.json) |
-| [July 23 at 11:42 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-23T23:42:30.876941-04:00.hyperlinks.json) |
+| [July 27 at 2:31 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-27T21:31:17.312552-04:00.hyperlinks.json) |
+| [July 27 at 2:24 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-27T09:24:31.197765-04:00.hyperlinks.json) |
+| [July 26 at 2:28 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-26T21:28:54.983065-04:00.hyperlinks.json) |
+| [July 26 at 2:31 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-26T09:31:16.172816-04:00.hyperlinks.json) |
+| [July 25 at 3:53 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T22:53:19.312816-04:00.hyperlinks.json) |
+| [July 25 at 2:36 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T21:35:56.540834-04:00.hyperlinks.json) |
+| [July 25 at 4:48 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T11:48:38.338964-04:00.hyperlinks.json) |
+| [July 24 at 5:37 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T00:37:14.265502-04:00.hyperlinks.json) |
+| [July 24 at 4:07 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-24T11:07:24.049847-04:00.hyperlinks.json) |
+| [July 23 at 4:42 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-23T23:42:30.876941-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 9:31 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-27T21:31:17.312552-04:00.accessibility.json) |
-| [July 27 at 9:24 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-27T09:24:31.197765-04:00.accessibility.json) |
-| [July 26 at 9:28 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-26T21:28:54.983065-04:00.accessibility.json) |
-| [July 26 at 9:31 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-26T09:31:16.172816-04:00.accessibility.json) |
-| [July 25 at 10:53 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T22:53:19.312816-04:00.accessibility.json) |
-| [July 25 at 9:36 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T21:35:56.540834-04:00.accessibility.json) |
-| [July 25 at 11:48 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T11:48:38.338964-04:00.accessibility.json) |
-| [July 25 at 12:37 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T00:37:14.265502-04:00.accessibility.json) |
-| [July 24 at 11:07 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-24T11:07:24.049847-04:00.accessibility.json) |
-| [July 23 at 11:42 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-23T23:42:30.876941-04:00.accessibility.json) |
+| [July 27 at 2:31 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-27T21:31:17.312552-04:00.accessibility.json) |
+| [July 27 at 2:24 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-27T09:24:31.197765-04:00.accessibility.json) |
+| [July 26 at 2:28 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-26T21:28:54.983065-04:00.accessibility.json) |
+| [July 26 at 2:31 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-26T09:31:16.172816-04:00.accessibility.json) |
+| [July 25 at 3:53 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T22:53:19.312816-04:00.accessibility.json) |
+| [July 25 at 2:36 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T21:35:56.540834-04:00.accessibility.json) |
+| [July 25 at 4:48 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T11:48:38.338964-04:00.accessibility.json) |
+| [July 24 at 5:37 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T00:37:14.265502-04:00.accessibility.json) |
+| [July 24 at 4:07 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-24T11:07:24.049847-04:00.accessibility.json) |
+| [July 23 at 4:42 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-23T23:42:30.876941-04:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 9:31 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-27T21:31:17.312552-04:00.lighthouse.json) |
-| [July 27 at 9:24 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-27T09:24:31.197765-04:00.lighthouse.json) |
-| [July 26 at 9:29 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-26T21:28:54.983065-04:00.lighthouse.json) |
-| [July 26 at 9:31 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-26T09:31:16.172816-04:00.lighthouse.json) |
-| [July 25 at 10:53 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T22:53:19.312816-04:00.lighthouse.json) |
-| [July 25 at 9:36 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T21:35:56.540834-04:00.lighthouse.json) |
-| [July 25 at 11:48 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T11:48:38.338964-04:00.lighthouse.json) |
-| [July 25 at 12:37 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T00:37:14.265502-04:00.lighthouse.json) |
-| [July 24 at 11:07 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-24T11:07:24.049847-04:00.lighthouse.json) |
-| [July 23 at 11:42 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-23T23:42:30.876941-04:00.lighthouse.json) |
+| [July 27 at 2:31 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-27T21:31:17.312552-04:00.lighthouse.json) |
+| [July 27 at 2:24 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-27T09:24:31.197765-04:00.lighthouse.json) |
+| [July 26 at 2:29 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-26T21:28:54.983065-04:00.lighthouse.json) |
+| [July 26 at 2:31 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-26T09:31:16.172816-04:00.lighthouse.json) |
+| [July 25 at 3:53 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T22:53:19.312816-04:00.lighthouse.json) |
+| [July 25 at 2:36 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T21:35:56.540834-04:00.lighthouse.json) |
+| [July 25 at 4:48 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T11:48:38.338964-04:00.lighthouse.json) |
+| [July 24 at 5:37 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-25T00:37:14.265502-04:00.lighthouse.json) |
+| [July 24 at 4:07 AM](https://archive.org/download/therealnews-2022/therealnews-2022-07-24T11:07:24.049847-04:00.lighthouse.json) |
+| [July 23 at 4:42 PM](https://archive.org/download/therealnews-2022/therealnews-2022-07-23T23:42:30.876941-04:00.lighthouse.json) |
 
 
 

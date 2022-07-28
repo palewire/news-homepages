@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-27T22:35:57.455946-04:00.jpg">
   <img src="https://archive.org/download/documentedny-2022/documentedny-2022-07-27T22:35:57.455946-04:00.jpg"
-     alt="Documented at 2022-07-27 22:35:58-04:00 local time"
+     alt="Documented at 2022-07-27 15:35:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-27T22:35:57.455946-04:00.jpg">July 27 at 10:35 PM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-27T22:35:57.455946-04:00.jpg">July 27 at 3:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-27T10:26:34.770374-04:00.jpg">
   <img src="https://archive.org/download/documentedny-2022/documentedny-2022-07-27T10:26:34.770374-04:00.jpg"
-     alt="Documented at 2022-07-27 10:26:40-04:00 local time"
+     alt="Documented at 2022-07-27 03:26:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-27T10:26:34.770374-04:00.jpg">July 27 at 10:26 AM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-27T10:26:34.770374-04:00.jpg">July 27 at 3:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-26T22:34:57.236562-04:00.jpg">
   <img src="https://archive.org/download/documentedny-2022/documentedny-2022-07-26T22:34:57.236562-04:00.jpg"
-     alt="Documented at 2022-07-26 22:35:00-04:00 local time"
+     alt="Documented at 2022-07-26 15:35:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-26T22:34:57.236562-04:00.jpg">July 26 at 10:35 PM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-26T22:34:57.236562-04:00.jpg">July 26 at 3:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-26T10:34:03.126499-04:00.jpg">
   <img src="https://archive.org/download/documentedny-2022/documentedny-2022-07-26T10:34:03.126499-04:00.jpg"
-     alt="Documented at 2022-07-26 10:34:04-04:00 local time"
+     alt="Documented at 2022-07-26 03:34:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-26T10:34:03.126499-04:00.jpg">July 26 at 10:34 AM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-26T10:34:03.126499-04:00.jpg">July 26 at 3:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-25T22:40:28.012146-04:00.jpg">
   <img src="https://archive.org/download/documentedny-2022/documentedny-2022-07-25T22:40:28.012146-04:00.jpg"
-     alt="Documented at 2022-07-25 22:40:31-04:00 local time"
+     alt="Documented at 2022-07-25 15:40:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-25T22:40:28.012146-04:00.jpg">July 25 at 10:40 PM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-25T22:40:28.012146-04:00.jpg">July 25 at 3:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-25T07:59:55.323274-04:00.jpg">
   <img src="https://archive.org/download/documentedny-2022/documentedny-2022-07-25T07:59:55.323274-04:00.jpg"
-     alt="Documented at 2022-07-25 07:59:57-04:00 local time"
+     alt="Documented at 2022-07-25 00:59:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-25T07:59:55.323274-04:00.jpg">July 25 at 7:59 AM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-25T07:59:55.323274-04:00.jpg">July 25 at 12:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-24T21:02:16.793602-04:00.jpg">
   <img src="https://archive.org/download/documentedny-2022/documentedny-2022-07-24T21:02:16.793602-04:00.jpg"
-     alt="Documented at 2022-07-24 21:02:17-04:00 local time"
+     alt="Documented at 2022-07-24 14:02:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-24T21:02:16.793602-04:00.jpg">July 24 at 9:02 PM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-24T21:02:16.793602-04:00.jpg">July 24 at 2:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-24T07:57:53.867535-04:00.jpg">
   <img src="https://archive.org/download/documentedny-2022/documentedny-2022-07-24T07:57:53.867535-04:00.jpg"
-     alt="Documented at 2022-07-24 07:57:56-04:00 local time"
+     alt="Documented at 2022-07-24 00:57:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-24T07:57:53.867535-04:00.jpg">July 24 at 7:57 AM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-24T07:57:53.867535-04:00.jpg">July 24 at 12:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-24T02:27:31.510539-04:00.jpg">
   <img src="https://archive.org/download/documentedny-2022/documentedny-2022-07-24T02:27:31.510539-04:00.jpg"
-     alt="Documented at 2022-07-24 02:27:33-04:00 local time"
+     alt="Documented at 2022-07-23 19:27:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-24T02:27:31.510539-04:00.jpg">July 24 at 2:27 AM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-24T02:27:31.510539-04:00.jpg">July 23 at 7:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-23T09:57:10.304958-04:00.jpg">
   <img src="https://archive.org/download/documentedny-2022/documentedny-2022-07-23T09:57:10.304958-04:00.jpg"
-     alt="Documented at 2022-07-23 09:57:11-04:00 local time"
+     alt="Documented at 2022-07-23 02:57:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-23T09:57:10.304958-04:00.jpg">July 23 at 9:57 AM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-23T09:57:10.304958-04:00.jpg">July 23 at 2:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-22T22:24:15.893448-04:00.jpg">
   <img src="https://archive.org/download/documentedny-2022/documentedny-2022-07-22T22:24:15.893448-04:00.jpg"
-     alt="Documented at 2022-07-22 22:24:17-04:00 local time"
+     alt="Documented at 2022-07-22 15:24:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-22T22:24:15.893448-04:00.jpg">July 22 at 10:24 PM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-22T22:24:15.893448-04:00.jpg">July 22 at 3:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-22T09:59:17.320482-04:00.jpg">
   <img src="https://archive.org/download/documentedny-2022/documentedny-2022-07-22T09:59:17.320482-04:00.jpg"
-     alt="Documented at 2022-07-22 09:59:20-04:00 local time"
+     alt="Documented at 2022-07-22 02:59:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-22T09:59:17.320482-04:00.jpg">July 22 at 9:59 AM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-22T09:59:17.320482-04:00.jpg">July 22 at 2:59 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 10:36 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-27T22:35:57.455946-04:00.hyperlinks.json) |
-| [July 27 at 10:26 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-27T10:26:34.770374-04:00.hyperlinks.json) |
-| [July 26 at 10:35 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-26T22:34:57.236562-04:00.hyperlinks.json) |
-| [July 26 at 10:34 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-26T10:34:03.126499-04:00.hyperlinks.json) |
-| [July 25 at 10:40 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-25T22:40:28.012146-04:00.hyperlinks.json) |
-| [July 25 at 8:00 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-25T07:59:55.323274-04:00.hyperlinks.json) |
-| [July 24 at 9:02 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-24T21:02:16.793602-04:00.hyperlinks.json) |
-| [July 24 at 7:57 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-24T07:57:53.867535-04:00.hyperlinks.json) |
-| [July 24 at 2:27 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-24T02:27:31.510539-04:00.hyperlinks.json) |
-| [July 23 at 9:57 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-23T09:57:10.304958-04:00.hyperlinks.json) |
+| [July 27 at 3:36 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-27T22:35:57.455946-04:00.hyperlinks.json) |
+| [July 27 at 3:26 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-27T10:26:34.770374-04:00.hyperlinks.json) |
+| [July 26 at 3:35 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-26T22:34:57.236562-04:00.hyperlinks.json) |
+| [July 26 at 3:34 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-26T10:34:03.126499-04:00.hyperlinks.json) |
+| [July 25 at 3:40 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-25T22:40:28.012146-04:00.hyperlinks.json) |
+| [July 25 at 1:00 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-25T07:59:55.323274-04:00.hyperlinks.json) |
+| [July 24 at 2:02 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-24T21:02:16.793602-04:00.hyperlinks.json) |
+| [July 24 at 12:57 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-24T07:57:53.867535-04:00.hyperlinks.json) |
+| [July 23 at 7:27 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-24T02:27:31.510539-04:00.hyperlinks.json) |
+| [July 23 at 2:57 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-23T09:57:10.304958-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 10:36 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-27T22:35:57.455946-04:00.accessibility.json) |
-| [July 27 at 10:26 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-27T10:26:34.770374-04:00.accessibility.json) |
-| [July 26 at 10:35 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-26T22:34:57.236562-04:00.accessibility.json) |
-| [July 26 at 10:34 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-26T10:34:03.126499-04:00.accessibility.json) |
-| [July 25 at 10:40 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-25T22:40:28.012146-04:00.accessibility.json) |
-| [July 25 at 7:59 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-25T07:59:55.323274-04:00.accessibility.json) |
-| [July 24 at 9:02 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-24T21:02:16.793602-04:00.accessibility.json) |
-| [July 24 at 7:57 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-24T07:57:53.867535-04:00.accessibility.json) |
-| [July 24 at 2:27 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-24T02:27:31.510539-04:00.accessibility.json) |
-| [July 23 at 9:57 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-23T09:57:10.304958-04:00.accessibility.json) |
+| [July 27 at 3:36 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-27T22:35:57.455946-04:00.accessibility.json) |
+| [July 27 at 3:26 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-27T10:26:34.770374-04:00.accessibility.json) |
+| [July 26 at 3:35 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-26T22:34:57.236562-04:00.accessibility.json) |
+| [July 26 at 3:34 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-26T10:34:03.126499-04:00.accessibility.json) |
+| [July 25 at 3:40 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-25T22:40:28.012146-04:00.accessibility.json) |
+| [July 25 at 12:59 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-25T07:59:55.323274-04:00.accessibility.json) |
+| [July 24 at 2:02 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-24T21:02:16.793602-04:00.accessibility.json) |
+| [July 24 at 12:57 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-24T07:57:53.867535-04:00.accessibility.json) |
+| [July 23 at 7:27 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-24T02:27:31.510539-04:00.accessibility.json) |
+| [July 23 at 2:57 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-23T09:57:10.304958-04:00.accessibility.json) |
 
 
 
@@ -442,15 +442,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 10:36 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-27T22:35:57.455946-04:00.lighthouse.json) |
-| [July 27 at 10:26 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-27T10:26:34.770374-04:00.lighthouse.json) |
-| [July 26 at 10:35 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-26T22:34:57.236562-04:00.lighthouse.json) |
-| [July 26 at 10:34 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-26T10:34:03.126499-04:00.lighthouse.json) |
-| [July 25 at 10:40 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-25T22:40:28.012146-04:00.lighthouse.json) |
-| [July 25 at 8:00 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-25T07:59:55.323274-04:00.lighthouse.json) |
-| [July 24 at 9:02 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-24T21:02:16.793602-04:00.lighthouse.json) |
-| [July 24 at 7:58 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-24T07:57:53.867535-04:00.lighthouse.json) |
-| [July 24 at 2:27 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-24T02:27:31.510539-04:00.lighthouse.json) |
+| [July 27 at 3:36 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-27T22:35:57.455946-04:00.lighthouse.json) |
+| [July 27 at 3:26 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-27T10:26:34.770374-04:00.lighthouse.json) |
+| [July 26 at 3:35 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-26T22:34:57.236562-04:00.lighthouse.json) |
+| [July 26 at 3:34 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-26T10:34:03.126499-04:00.lighthouse.json) |
+| [July 25 at 3:40 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-25T22:40:28.012146-04:00.lighthouse.json) |
+| [July 25 at 1:00 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-25T07:59:55.323274-04:00.lighthouse.json) |
+| [July 24 at 2:02 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-24T21:02:16.793602-04:00.lighthouse.json) |
+| [July 24 at 12:58 AM](https://archive.org/download/documentedny-2022/documentedny-2022-07-24T07:57:53.867535-04:00.lighthouse.json) |
+| [July 23 at 7:27 PM](https://archive.org/download/documentedny-2022/documentedny-2022-07-24T02:27:31.510539-04:00.lighthouse.json) |
 
 
 

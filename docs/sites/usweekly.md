@@ -31,109 +31,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-27T23:48:12.113584-04:00.jpg">
   <img src="https://archive.org/download/usweekly-2022/usweekly-2022-07-27T23:48:12.113584-04:00.jpg"
-     alt="Us Weekly at 2022-07-27 23:48:14-04:00 local time"
+     alt="Us Weekly at 2022-07-27 16:48:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-27T23:48:12.113584-04:00.jpg">July 27 at 11:48 PM</a></p>
+ <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-27T23:48:12.113584-04:00.jpg">July 27 at 4:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-27T11:49:58.296703-04:00.jpg">
   <img src="https://archive.org/download/usweekly-2022/usweekly-2022-07-27T11:49:58.296703-04:00.jpg"
-     alt="Us Weekly at 2022-07-27 11:50:00-04:00 local time"
+     alt="Us Weekly at 2022-07-27 04:50:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-27T11:49:58.296703-04:00.jpg">July 27 at 11:50 AM</a></p>
+ <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-27T11:49:58.296703-04:00.jpg">July 27 at 4:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T23:58:05.643542-04:00.jpg">
   <img src="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T23:58:05.643542-04:00.jpg"
-     alt="Us Weekly at 2022-07-26 23:58:07-04:00 local time"
+     alt="Us Weekly at 2022-07-26 16:58:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T23:58:05.643542-04:00.jpg">July 26 at 11:58 PM</a></p>
+ <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T23:58:05.643542-04:00.jpg">July 26 at 4:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T11:49:17.909822-04:00.jpg">
   <img src="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T11:49:17.909822-04:00.jpg"
-     alt="Us Weekly at 2022-07-26 11:49:19-04:00 local time"
+     alt="Us Weekly at 2022-07-26 04:49:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T11:49:17.909822-04:00.jpg">July 26 at 11:49 AM</a></p>
+ <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T11:49:17.909822-04:00.jpg">July 26 at 4:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T00:01:01.185930-04:00.jpg">
   <img src="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T00:01:01.185930-04:00.jpg"
-     alt="Us Weekly at 2022-07-26 00:01:02-04:00 local time"
+     alt="Us Weekly at 2022-07-25 17:01:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T00:01:01.185930-04:00.jpg">July 26 at 12:01 AM</a></p>
+ <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T00:01:01.185930-04:00.jpg">July 25 at 5:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-25T11:50:41.963054-04:00.jpg">
   <img src="https://archive.org/download/usweekly-2022/usweekly-2022-07-25T11:50:41.963054-04:00.jpg"
-     alt="Us Weekly at 2022-07-25 11:50:44-04:00 local time"
+     alt="Us Weekly at 2022-07-25 04:50:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-25T11:50:41.963054-04:00.jpg">July 25 at 11:50 AM</a></p>
+ <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-25T11:50:41.963054-04:00.jpg">July 25 at 4:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-25T00:39:36.407815-04:00.jpg">
   <img src="https://archive.org/download/usweekly-2022/usweekly-2022-07-25T00:39:36.407815-04:00.jpg"
-     alt="Us Weekly at 2022-07-25 00:39:38-04:00 local time"
+     alt="Us Weekly at 2022-07-24 17:39:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-25T00:39:36.407815-04:00.jpg">July 25 at 12:39 AM</a></p>
+ <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-25T00:39:36.407815-04:00.jpg">July 24 at 5:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-24T11:09:01.596881-04:00.jpg">
   <img src="https://archive.org/download/usweekly-2022/usweekly-2022-07-24T11:09:01.596881-04:00.jpg"
-     alt="Us Weekly at 2022-07-24 11:09:06-04:00 local time"
+     alt="Us Weekly at 2022-07-24 04:09:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-24T11:09:01.596881-04:00.jpg">July 24 at 11:09 AM</a></p>
+ <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-24T11:09:01.596881-04:00.jpg">July 24 at 4:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-23T23:44:51.702754-04:00.jpg">
   <img src="https://archive.org/download/usweekly-2022/usweekly-2022-07-23T23:44:51.702754-04:00.jpg"
-     alt="Us Weekly at 2022-07-23 23:44:53-04:00 local time"
+     alt="Us Weekly at 2022-07-23 16:44:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-23T23:44:51.702754-04:00.jpg">July 23 at 11:44 PM</a></p>
+ <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-23T23:44:51.702754-04:00.jpg">July 23 at 4:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-23T12:07:55.790991-04:00.jpg">
   <img src="https://archive.org/download/usweekly-2022/usweekly-2022-07-23T12:07:55.790991-04:00.jpg"
-     alt="Us Weekly at 2022-07-23 12:07:57-04:00 local time"
+     alt="Us Weekly at 2022-07-23 05:07:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-23T12:07:55.790991-04:00.jpg">July 23 at 12:07 PM</a></p>
+ <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-23T12:07:55.790991-04:00.jpg">July 23 at 5:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-23T00:28:03.485504-04:00.jpg">
   <img src="https://archive.org/download/usweekly-2022/usweekly-2022-07-23T00:28:03.485504-04:00.jpg"
-     alt="Us Weekly at 2022-07-23 00:28:05-04:00 local time"
+     alt="Us Weekly at 2022-07-22 17:28:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-23T00:28:03.485504-04:00.jpg">July 23 at 12:28 AM</a></p>
+ <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-23T00:28:03.485504-04:00.jpg">July 22 at 5:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-22T12:20:24.132849-04:00.jpg">
   <img src="https://archive.org/download/usweekly-2022/usweekly-2022-07-22T12:20:24.132849-04:00.jpg"
-     alt="Us Weekly at 2022-07-22 12:20:26-04:00 local time"
+     alt="Us Weekly at 2022-07-22 05:20:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-22T12:20:24.132849-04:00.jpg">July 22 at 12:20 PM</a></p>
+ <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-22T12:20:24.132849-04:00.jpg">July 22 at 5:20 AM</a></p>
 </div>
 
 </div>
@@ -148,16 +148,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 11:48 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-27T23:48:12.113584-04:00.hyperlinks.json) |
-| [July 27 at 11:50 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-27T11:49:58.296703-04:00.hyperlinks.json) |
-| [July 26 at 11:58 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T23:58:05.643542-04:00.hyperlinks.json) |
-| [July 26 at 11:49 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T11:49:17.909822-04:00.hyperlinks.json) |
-| [July 26 at 12:01 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T00:01:01.185930-04:00.hyperlinks.json) |
-| [July 25 at 11:50 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-25T11:50:41.963054-04:00.hyperlinks.json) |
-| [July 25 at 12:39 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-25T00:39:36.407815-04:00.hyperlinks.json) |
-| [July 23 at 11:44 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-23T23:44:51.702754-04:00.hyperlinks.json) |
-| [July 23 at 12:08 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-23T12:07:55.790991-04:00.hyperlinks.json) |
-| [July 23 at 12:28 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-23T00:28:03.485504-04:00.hyperlinks.json) |
+| [July 27 at 4:48 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-27T23:48:12.113584-04:00.hyperlinks.json) |
+| [July 27 at 4:50 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-27T11:49:58.296703-04:00.hyperlinks.json) |
+| [July 26 at 4:58 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T23:58:05.643542-04:00.hyperlinks.json) |
+| [July 26 at 4:49 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T11:49:17.909822-04:00.hyperlinks.json) |
+| [July 25 at 5:01 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T00:01:01.185930-04:00.hyperlinks.json) |
+| [July 25 at 4:50 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-25T11:50:41.963054-04:00.hyperlinks.json) |
+| [July 24 at 5:39 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-25T00:39:36.407815-04:00.hyperlinks.json) |
+| [July 23 at 4:44 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-23T23:44:51.702754-04:00.hyperlinks.json) |
+| [July 23 at 5:08 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-23T12:07:55.790991-04:00.hyperlinks.json) |
+| [July 22 at 5:28 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-23T00:28:03.485504-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -170,16 +170,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 11:48 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-27T23:48:12.113584-04:00.accessibility.json) |
-| [July 27 at 11:50 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-27T11:49:58.296703-04:00.accessibility.json) |
-| [July 26 at 11:58 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T23:58:05.643542-04:00.accessibility.json) |
-| [July 26 at 11:49 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T11:49:17.909822-04:00.accessibility.json) |
-| [July 26 at 12:01 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T00:01:01.185930-04:00.accessibility.json) |
-| [July 25 at 11:50 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-25T11:50:41.963054-04:00.accessibility.json) |
-| [July 25 at 12:39 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-25T00:39:36.407815-04:00.accessibility.json) |
-| [July 24 at 11:09 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-24T11:09:01.596881-04:00.accessibility.json) |
-| [July 23 at 11:44 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-23T23:44:51.702754-04:00.accessibility.json) |
-| [July 23 at 12:07 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-23T12:07:55.790991-04:00.accessibility.json) |
+| [July 27 at 4:48 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-27T23:48:12.113584-04:00.accessibility.json) |
+| [July 27 at 4:50 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-27T11:49:58.296703-04:00.accessibility.json) |
+| [July 26 at 4:58 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T23:58:05.643542-04:00.accessibility.json) |
+| [July 26 at 4:49 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T11:49:17.909822-04:00.accessibility.json) |
+| [July 25 at 5:01 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T00:01:01.185930-04:00.accessibility.json) |
+| [July 25 at 4:50 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-25T11:50:41.963054-04:00.accessibility.json) |
+| [July 24 at 5:39 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-25T00:39:36.407815-04:00.accessibility.json) |
+| [July 24 at 4:09 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-24T11:09:01.596881-04:00.accessibility.json) |
+| [July 23 at 4:44 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-23T23:44:51.702754-04:00.accessibility.json) |
+| [July 23 at 5:07 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-23T12:07:55.790991-04:00.accessibility.json) |
 
 
 
@@ -193,15 +193,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 11:48 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-27T23:48:12.113584-04:00.lighthouse.json) |
-| [July 27 at 11:50 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-27T11:49:58.296703-04:00.lighthouse.json) |
-| [July 26 at 11:58 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T23:58:05.643542-04:00.lighthouse.json) |
-| [July 26 at 11:49 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T11:49:17.909822-04:00.lighthouse.json) |
-| [July 26 at 12:01 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T00:01:01.185930-04:00.lighthouse.json) |
-| [July 25 at 11:50 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-25T11:50:41.963054-04:00.lighthouse.json) |
-| [July 25 at 12:39 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-25T00:39:36.407815-04:00.lighthouse.json) |
-| [July 24 at 11:09 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-24T11:09:01.596881-04:00.lighthouse.json) |
-| [July 23 at 11:44 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-23T23:44:51.702754-04:00.lighthouse.json) |
+| [July 27 at 4:48 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-27T23:48:12.113584-04:00.lighthouse.json) |
+| [July 27 at 4:50 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-27T11:49:58.296703-04:00.lighthouse.json) |
+| [July 26 at 4:58 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T23:58:05.643542-04:00.lighthouse.json) |
+| [July 26 at 4:49 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T11:49:17.909822-04:00.lighthouse.json) |
+| [July 25 at 5:01 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-26T00:01:01.185930-04:00.lighthouse.json) |
+| [July 25 at 4:50 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-25T11:50:41.963054-04:00.lighthouse.json) |
+| [July 24 at 5:39 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-25T00:39:36.407815-04:00.lighthouse.json) |
+| [July 24 at 4:09 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-24T11:09:01.596881-04:00.lighthouse.json) |
+| [July 23 at 4:44 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-23T23:44:51.702754-04:00.lighthouse.json) |
 
 
 

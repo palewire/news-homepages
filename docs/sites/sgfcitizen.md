@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T22:45:28.448417-05:00.jpg">
   <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T22:45:28.448417-05:00.jpg"
-     alt="Springfield Daily Citizen at 2022-07-27 22:45:29-05:00 local time"
+     alt="Springfield Daily Citizen at 2022-07-27 15:45:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T22:45:28.448417-05:00.jpg">July 27 at 10:45 PM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T22:45:28.448417-05:00.jpg">July 27 at 3:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T10:47:14.246354-05:00.jpg">
   <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T10:47:14.246354-05:00.jpg"
-     alt="Springfield Daily Citizen at 2022-07-27 10:47:15-05:00 local time"
+     alt="Springfield Daily Citizen at 2022-07-27 03:47:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T10:47:14.246354-05:00.jpg">July 27 at 10:47 AM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T10:47:14.246354-05:00.jpg">July 27 at 3:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T22:54:14.060776-05:00.jpg">
   <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T22:54:14.060776-05:00.jpg"
-     alt="Springfield Daily Citizen at 2022-07-26 22:54:18-05:00 local time"
+     alt="Springfield Daily Citizen at 2022-07-26 15:54:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T22:54:14.060776-05:00.jpg">July 26 at 10:54 PM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T22:54:14.060776-05:00.jpg">July 26 at 3:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T10:45:41.477922-05:00.jpg">
   <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T10:45:41.477922-05:00.jpg"
-     alt="Springfield Daily Citizen at 2022-07-26 10:45:43-05:00 local time"
+     alt="Springfield Daily Citizen at 2022-07-26 03:45:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T10:45:41.477922-05:00.jpg">July 26 at 10:45 AM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T10:45:41.477922-05:00.jpg">July 26 at 3:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T22:56:50.738263-05:00.jpg">
   <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T22:56:50.738263-05:00.jpg"
-     alt="Springfield Daily Citizen at 2022-07-25 22:56:53-05:00 local time"
+     alt="Springfield Daily Citizen at 2022-07-25 15:56:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T22:56:50.738263-05:00.jpg">July 25 at 10:56 PM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T22:56:50.738263-05:00.jpg">July 25 at 3:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T10:41:46.691358-05:00.jpg">
   <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T10:41:46.691358-05:00.jpg"
-     alt="Springfield Daily Citizen at 2022-07-25 10:41:48-05:00 local time"
+     alt="Springfield Daily Citizen at 2022-07-25 03:41:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T10:41:46.691358-05:00.jpg">July 25 at 10:41 AM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T10:41:46.691358-05:00.jpg">July 25 at 3:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T22:44:04.687440-05:00.jpg">
   <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T22:44:04.687440-05:00.jpg"
-     alt="Springfield Daily Citizen at 2022-07-24 22:44:05-05:00 local time"
+     alt="Springfield Daily Citizen at 2022-07-24 15:44:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T22:44:04.687440-05:00.jpg">July 24 at 10:44 PM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T22:44:04.687440-05:00.jpg">July 24 at 3:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T09:04:14.124155-05:00.jpg">
   <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T09:04:14.124155-05:00.jpg"
-     alt="Springfield Daily Citizen at 2022-07-24 09:04:16-05:00 local time"
+     alt="Springfield Daily Citizen at 2022-07-24 02:04:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T09:04:14.124155-05:00.jpg">July 24 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T09:04:14.124155-05:00.jpg">July 24 at 2:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T01:23:19.193729-05:00.jpg">
   <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T01:23:19.193729-05:00.jpg"
-     alt="Springfield Daily Citizen at 2022-07-24 01:23:21-05:00 local time"
+     alt="Springfield Daily Citizen at 2022-07-23 18:23:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T01:23:19.193729-05:00.jpg">July 24 at 1:23 AM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T01:23:19.193729-05:00.jpg">July 23 at 6:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-23T11:02:22.547261-05:00.jpg">
   <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-23T11:02:22.547261-05:00.jpg"
-     alt="Springfield Daily Citizen at 2022-07-23 11:02:24-05:00 local time"
+     alt="Springfield Daily Citizen at 2022-07-23 04:02:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-23T11:02:22.547261-05:00.jpg">July 23 at 11:02 AM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-23T11:02:22.547261-05:00.jpg">July 23 at 4:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-22T23:22:00.079885-05:00.jpg">
   <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-22T23:22:00.079885-05:00.jpg"
-     alt="Springfield Daily Citizen at 2022-07-22 23:22:02-05:00 local time"
+     alt="Springfield Daily Citizen at 2022-07-22 16:22:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-22T23:22:00.079885-05:00.jpg">July 22 at 11:22 PM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-22T23:22:00.079885-05:00.jpg">July 22 at 4:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-22T11:14:26.359554-05:00.jpg">
   <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-22T11:14:26.359554-05:00.jpg"
-     alt="Springfield Daily Citizen at 2022-07-22 11:14:28-05:00 local time"
+     alt="Springfield Daily Citizen at 2022-07-22 04:14:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-22T11:14:26.359554-05:00.jpg">July 22 at 11:14 AM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-22T11:14:26.359554-05:00.jpg">July 22 at 4:14 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 10:45 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T22:45:28.448417-05:00.hyperlinks.json) |
-| [July 27 at 10:47 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T10:47:14.246354-05:00.hyperlinks.json) |
-| [July 26 at 10:54 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T22:54:14.060776-05:00.hyperlinks.json) |
-| [July 26 at 10:45 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T10:45:41.477922-05:00.hyperlinks.json) |
-| [July 25 at 10:56 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T22:56:50.738263-05:00.hyperlinks.json) |
-| [July 25 at 10:41 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T10:41:46.691358-05:00.hyperlinks.json) |
-| [July 24 at 10:44 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T22:44:04.687440-05:00.hyperlinks.json) |
-| [July 24 at 9:04 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T09:04:14.124155-05:00.hyperlinks.json) |
-| [July 24 at 1:23 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T01:23:19.193729-05:00.hyperlinks.json) |
-| [July 23 at 11:02 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-23T11:02:22.547261-05:00.hyperlinks.json) |
+| [July 27 at 3:45 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T22:45:28.448417-05:00.hyperlinks.json) |
+| [July 27 at 3:47 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T10:47:14.246354-05:00.hyperlinks.json) |
+| [July 26 at 3:54 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T22:54:14.060776-05:00.hyperlinks.json) |
+| [July 26 at 3:45 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T10:45:41.477922-05:00.hyperlinks.json) |
+| [July 25 at 3:56 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T22:56:50.738263-05:00.hyperlinks.json) |
+| [July 25 at 3:41 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T10:41:46.691358-05:00.hyperlinks.json) |
+| [July 24 at 3:44 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T22:44:04.687440-05:00.hyperlinks.json) |
+| [July 24 at 2:04 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T09:04:14.124155-05:00.hyperlinks.json) |
+| [July 23 at 6:23 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T01:23:19.193729-05:00.hyperlinks.json) |
+| [July 23 at 4:02 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-23T11:02:22.547261-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 10:45 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T22:45:28.448417-05:00.accessibility.json) |
-| [July 27 at 10:47 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T10:47:14.246354-05:00.accessibility.json) |
-| [July 26 at 10:54 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T22:54:14.060776-05:00.accessibility.json) |
-| [July 26 at 10:45 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T10:45:41.477922-05:00.accessibility.json) |
-| [July 25 at 10:56 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T22:56:50.738263-05:00.accessibility.json) |
-| [July 25 at 10:41 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T10:41:46.691358-05:00.accessibility.json) |
-| [July 24 at 10:44 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T22:44:04.687440-05:00.accessibility.json) |
-| [July 24 at 9:04 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T09:04:14.124155-05:00.accessibility.json) |
-| [July 24 at 1:23 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T01:23:19.193729-05:00.accessibility.json) |
-| [July 23 at 11:02 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-23T11:02:22.547261-05:00.accessibility.json) |
+| [July 27 at 3:45 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T22:45:28.448417-05:00.accessibility.json) |
+| [July 27 at 3:47 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T10:47:14.246354-05:00.accessibility.json) |
+| [July 26 at 3:54 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T22:54:14.060776-05:00.accessibility.json) |
+| [July 26 at 3:45 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T10:45:41.477922-05:00.accessibility.json) |
+| [July 25 at 3:56 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T22:56:50.738263-05:00.accessibility.json) |
+| [July 25 at 3:41 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T10:41:46.691358-05:00.accessibility.json) |
+| [July 24 at 3:44 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T22:44:04.687440-05:00.accessibility.json) |
+| [July 24 at 2:04 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T09:04:14.124155-05:00.accessibility.json) |
+| [July 23 at 6:23 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T01:23:19.193729-05:00.accessibility.json) |
+| [July 23 at 4:02 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-23T11:02:22.547261-05:00.accessibility.json) |
 
 
 
@@ -442,15 +442,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 10:45 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T22:45:28.448417-05:00.lighthouse.json) |
-| [July 27 at 10:47 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T10:47:14.246354-05:00.lighthouse.json) |
-| [July 26 at 10:54 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T22:54:14.060776-05:00.lighthouse.json) |
-| [July 26 at 10:45 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T10:45:41.477922-05:00.lighthouse.json) |
-| [July 25 at 10:57 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T22:56:50.738263-05:00.lighthouse.json) |
-| [July 25 at 10:41 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T10:41:46.691358-05:00.lighthouse.json) |
-| [July 24 at 10:44 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T22:44:04.687440-05:00.lighthouse.json) |
-| [July 24 at 9:04 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T09:04:14.124155-05:00.lighthouse.json) |
-| [July 24 at 1:23 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T01:23:19.193729-05:00.lighthouse.json) |
+| [July 27 at 3:45 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T22:45:28.448417-05:00.lighthouse.json) |
+| [July 27 at 3:47 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-27T10:47:14.246354-05:00.lighthouse.json) |
+| [July 26 at 3:54 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T22:54:14.060776-05:00.lighthouse.json) |
+| [July 26 at 3:45 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-26T10:45:41.477922-05:00.lighthouse.json) |
+| [July 25 at 3:57 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T22:56:50.738263-05:00.lighthouse.json) |
+| [July 25 at 3:41 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-25T10:41:46.691358-05:00.lighthouse.json) |
+| [July 24 at 3:44 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T22:44:04.687440-05:00.lighthouse.json) |
+| [July 24 at 2:04 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T09:04:14.124155-05:00.lighthouse.json) |
+| [July 23 at 6:23 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T01:23:19.193729-05:00.lighthouse.json) |
 
 
 

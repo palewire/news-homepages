@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-27T21:40:02.745090-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-27T21:40:02.745090-05:00.jpg"
-     alt="KGOU at 2022-07-27 21:40:04-05:00 local time"
+     alt="KGOU at 2022-07-27 14:40:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-27T21:40:02.745090-05:00.jpg">July 27 at 9:40 PM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-27T21:40:02.745090-05:00.jpg">July 27 at 2:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-27T09:32:24.764032-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-27T09:32:24.764032-05:00.jpg"
-     alt="KGOU at 2022-07-27 09:32:27-05:00 local time"
+     alt="KGOU at 2022-07-27 02:32:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-27T09:32:24.764032-05:00.jpg">July 27 at 9:32 AM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-27T09:32:24.764032-05:00.jpg">July 27 at 2:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-26T21:39:35.184258-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-26T21:39:35.184258-05:00.jpg"
-     alt="KGOU at 2022-07-26 21:39:36-05:00 local time"
+     alt="KGOU at 2022-07-26 14:39:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-26T21:39:35.184258-05:00.jpg">July 26 at 9:39 PM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-26T21:39:35.184258-05:00.jpg">July 26 at 2:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-26T09:37:56.962122-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-26T09:37:56.962122-05:00.jpg"
-     alt="KGOU at 2022-07-26 09:37:59-05:00 local time"
+     alt="KGOU at 2022-07-26 02:37:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-26T09:37:56.962122-05:00.jpg">July 26 at 9:37 AM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-26T09:37:56.962122-05:00.jpg">July 26 at 2:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-25T21:45:15.414063-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-25T21:45:15.414063-05:00.jpg"
-     alt="KGOU at 2022-07-25 21:45:17-05:00 local time"
+     alt="KGOU at 2022-07-25 14:45:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-25T21:45:15.414063-05:00.jpg">July 25 at 9:45 PM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-25T21:45:15.414063-05:00.jpg">July 25 at 2:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-25T08:10:46.368246-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-25T08:10:46.368246-05:00.jpg"
-     alt="KGOU at 2022-07-25 08:10:48-05:00 local time"
+     alt="KGOU at 2022-07-25 01:10:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-25T08:10:46.368246-05:00.jpg">July 25 at 8:10 AM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-25T08:10:46.368246-05:00.jpg">July 25 at 1:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T22:26:16.344567-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T22:26:16.344567-05:00.jpg"
-     alt="KGOU at 2022-07-24 22:26:29-05:00 local time"
+     alt="KGOU at 2022-07-24 15:26:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T22:26:16.344567-05:00.jpg">July 24 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T22:26:16.344567-05:00.jpg">July 24 at 3:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T08:00:09.195628-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T08:00:09.195628-05:00.jpg"
-     alt="KGOU at 2022-07-24 08:00:10-05:00 local time"
+     alt="KGOU at 2022-07-24 01:00:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T08:00:09.195628-05:00.jpg">July 24 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T08:00:09.195628-05:00.jpg">July 24 at 1:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T23:15:10.028434-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T23:15:10.028434-05:00.jpg"
-     alt="KGOU at 2022-07-23 23:15:11-05:00 local time"
+     alt="KGOU at 2022-07-23 16:15:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T23:15:10.028434-05:00.jpg">July 23 at 11:15 PM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T23:15:10.028434-05:00.jpg">July 23 at 4:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T09:05:05.769916-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T09:05:05.769916-05:00.jpg"
-     alt="KGOU at 2022-07-23 09:05:07-05:00 local time"
+     alt="KGOU at 2022-07-23 02:05:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T09:05:05.769916-05:00.jpg">July 23 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T09:05:05.769916-05:00.jpg">July 23 at 2:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T21:30:38.432135-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T21:30:38.432135-05:00.jpg"
-     alt="KGOU at 2022-07-22 21:30:40-05:00 local time"
+     alt="KGOU at 2022-07-22 14:30:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T21:30:38.432135-05:00.jpg">July 22 at 9:30 PM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T21:30:38.432135-05:00.jpg">July 22 at 2:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T09:05:26.065607-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T09:05:26.065607-05:00.jpg"
-     alt="KGOU at 2022-07-22 09:05:28-05:00 local time"
+     alt="KGOU at 2022-07-22 02:05:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T09:05:26.065607-05:00.jpg">July 22 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T09:05:26.065607-05:00.jpg">July 22 at 2:05 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 9:40 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-27T21:40:02.745090-05:00.hyperlinks.json) |
-| [July 27 at 9:32 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-27T09:32:24.764032-05:00.hyperlinks.json) |
-| [July 26 at 9:39 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-26T21:39:35.184258-05:00.hyperlinks.json) |
-| [July 26 at 9:38 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-26T09:37:56.962122-05:00.hyperlinks.json) |
-| [July 25 at 9:45 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-25T21:45:15.414063-05:00.hyperlinks.json) |
-| [July 25 at 8:10 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-25T08:10:46.368246-05:00.hyperlinks.json) |
-| [July 24 at 10:26 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-24T22:26:16.344567-05:00.hyperlinks.json) |
-| [July 24 at 8:00 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-24T08:00:09.195628-05:00.hyperlinks.json) |
-| [July 23 at 11:15 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-23T23:15:10.028434-05:00.hyperlinks.json) |
-| [July 23 at 9:05 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-23T09:05:05.769916-05:00.hyperlinks.json) |
+| [July 27 at 2:40 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-27T21:40:02.745090-05:00.hyperlinks.json) |
+| [July 27 at 2:32 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-27T09:32:24.764032-05:00.hyperlinks.json) |
+| [July 26 at 2:39 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-26T21:39:35.184258-05:00.hyperlinks.json) |
+| [July 26 at 2:38 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-26T09:37:56.962122-05:00.hyperlinks.json) |
+| [July 25 at 2:45 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-25T21:45:15.414063-05:00.hyperlinks.json) |
+| [July 25 at 1:10 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-25T08:10:46.368246-05:00.hyperlinks.json) |
+| [July 24 at 3:26 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-24T22:26:16.344567-05:00.hyperlinks.json) |
+| [July 24 at 1:00 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-24T08:00:09.195628-05:00.hyperlinks.json) |
+| [July 23 at 4:15 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-23T23:15:10.028434-05:00.hyperlinks.json) |
+| [July 23 at 2:05 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-23T09:05:05.769916-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 9:40 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-27T21:40:02.745090-05:00.accessibility.json) |
-| [July 27 at 9:32 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-27T09:32:24.764032-05:00.accessibility.json) |
-| [July 26 at 9:39 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-26T21:39:35.184258-05:00.accessibility.json) |
-| [July 26 at 9:38 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-26T09:37:56.962122-05:00.accessibility.json) |
-| [July 25 at 9:45 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-25T21:45:15.414063-05:00.accessibility.json) |
-| [July 25 at 8:10 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-25T08:10:46.368246-05:00.accessibility.json) |
-| [July 24 at 10:26 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-24T22:26:16.344567-05:00.accessibility.json) |
-| [July 24 at 8:00 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-24T08:00:09.195628-05:00.accessibility.json) |
-| [July 23 at 11:15 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-23T23:15:10.028434-05:00.accessibility.json) |
-| [July 23 at 9:05 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-23T09:05:05.769916-05:00.accessibility.json) |
+| [July 27 at 2:40 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-27T21:40:02.745090-05:00.accessibility.json) |
+| [July 27 at 2:32 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-27T09:32:24.764032-05:00.accessibility.json) |
+| [July 26 at 2:39 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-26T21:39:35.184258-05:00.accessibility.json) |
+| [July 26 at 2:38 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-26T09:37:56.962122-05:00.accessibility.json) |
+| [July 25 at 2:45 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-25T21:45:15.414063-05:00.accessibility.json) |
+| [July 25 at 1:10 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-25T08:10:46.368246-05:00.accessibility.json) |
+| [July 24 at 3:26 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-24T22:26:16.344567-05:00.accessibility.json) |
+| [July 24 at 1:00 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-24T08:00:09.195628-05:00.accessibility.json) |
+| [July 23 at 4:15 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-23T23:15:10.028434-05:00.accessibility.json) |
+| [July 23 at 2:05 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-23T09:05:05.769916-05:00.accessibility.json) |
 
 
 
@@ -442,15 +442,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 9:40 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-27T21:40:02.745090-05:00.lighthouse.json) |
-| [July 27 at 9:32 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-27T09:32:24.764032-05:00.lighthouse.json) |
-| [July 26 at 9:39 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-26T21:39:35.184258-05:00.lighthouse.json) |
-| [July 26 at 9:38 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-26T09:37:56.962122-05:00.lighthouse.json) |
-| [July 25 at 9:45 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-25T21:45:15.414063-05:00.lighthouse.json) |
-| [July 25 at 8:10 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-25T08:10:46.368246-05:00.lighthouse.json) |
-| [July 24 at 10:26 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-24T22:26:16.344567-05:00.lighthouse.json) |
-| [July 24 at 8:00 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-24T08:00:09.195628-05:00.lighthouse.json) |
-| [July 23 at 11:15 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-23T23:15:10.028434-05:00.lighthouse.json) |
+| [July 27 at 2:40 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-27T21:40:02.745090-05:00.lighthouse.json) |
+| [July 27 at 2:32 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-27T09:32:24.764032-05:00.lighthouse.json) |
+| [July 26 at 2:39 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-26T21:39:35.184258-05:00.lighthouse.json) |
+| [July 26 at 2:38 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-26T09:37:56.962122-05:00.lighthouse.json) |
+| [July 25 at 2:45 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-25T21:45:15.414063-05:00.lighthouse.json) |
+| [July 25 at 1:10 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-25T08:10:46.368246-05:00.lighthouse.json) |
+| [July 24 at 3:26 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-24T22:26:16.344567-05:00.lighthouse.json) |
+| [July 24 at 1:00 AM](https://archive.org/download/kgounews-2022/kgounews-2022-07-24T08:00:09.195628-05:00.lighthouse.json) |
+| [July 23 at 4:15 PM](https://archive.org/download/kgounews-2022/kgounews-2022-07-23T23:15:10.028434-05:00.lighthouse.json) |
 
 
 

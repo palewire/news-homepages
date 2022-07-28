@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T19:05:38.309509-05:00.jpg">
   <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T19:05:38.309509-05:00.jpg"
-     alt="LaCrosse Tribune at 2022-07-27 19:05:40-05:00 local time"
+     alt="LaCrosse Tribune at 2022-07-27 12:05:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T19:05:38.309509-05:00.jpg">July 27 at 7:05 PM</a></p>
+ <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T19:05:38.309509-05:00.jpg">July 27 at 12:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T08:08:46.136371-05:00.jpg">
   <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T08:08:46.136371-05:00.jpg"
-     alt="LaCrosse Tribune at 2022-07-27 08:08:48-05:00 local time"
+     alt="LaCrosse Tribune at 2022-07-27 01:08:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T08:08:46.136371-05:00.jpg">July 27 at 8:08 AM</a></p>
+ <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T08:08:46.136371-05:00.jpg">July 27 at 1:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T19:13:39.636460-05:00.jpg">
   <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T19:13:39.636460-05:00.jpg"
-     alt="LaCrosse Tribune at 2022-07-26 19:13:43-05:00 local time"
+     alt="LaCrosse Tribune at 2022-07-26 12:13:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T19:13:39.636460-05:00.jpg">July 26 at 7:13 PM</a></p>
+ <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T19:13:39.636460-05:00.jpg">July 26 at 12:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T07:23:03.707340-05:00.jpg">
   <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T07:23:03.707340-05:00.jpg"
-     alt="LaCrosse Tribune at 2022-07-26 07:23:07-05:00 local time"
+     alt="LaCrosse Tribune at 2022-07-26 00:23:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T07:23:03.707340-05:00.jpg">July 26 at 7:23 AM</a></p>
+ <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T07:23:03.707340-05:00.jpg">July 26 at 12:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T19:18:33.758653-05:00.jpg">
   <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T19:18:33.758653-05:00.jpg"
-     alt="LaCrosse Tribune at 2022-07-25 19:18:38-05:00 local time"
+     alt="LaCrosse Tribune at 2022-07-25 12:18:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T19:18:33.758653-05:00.jpg">July 25 at 7:18 PM</a></p>
+ <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T19:18:33.758653-05:00.jpg">July 25 at 12:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T08:12:04.790876-05:00.jpg">
   <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T08:12:04.790876-05:00.jpg"
-     alt="LaCrosse Tribune at 2022-07-25 08:12:09-05:00 local time"
+     alt="LaCrosse Tribune at 2022-07-25 01:12:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T08:12:04.790876-05:00.jpg">July 25 at 8:12 AM</a></p>
+ <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T08:12:04.790876-05:00.jpg">July 25 at 1:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T22:28:30.894824-05:00.jpg">
   <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T22:28:30.894824-05:00.jpg"
-     alt="LaCrosse Tribune at 2022-07-24 22:28:32-05:00 local time"
+     alt="LaCrosse Tribune at 2022-07-24 15:28:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T22:28:30.894824-05:00.jpg">July 24 at 10:28 PM</a></p>
+ <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T22:28:30.894824-05:00.jpg">July 24 at 3:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T08:01:07.347019-05:00.jpg">
   <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T08:01:07.347019-05:00.jpg"
-     alt="LaCrosse Tribune at 2022-07-24 08:01:12-05:00 local time"
+     alt="LaCrosse Tribune at 2022-07-24 01:01:12-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T08:01:07.347019-05:00.jpg">July 24 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T08:01:07.347019-05:00.jpg">July 24 at 1:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-23T23:16:28.521953-05:00.jpg">
   <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-23T23:16:28.521953-05:00.jpg"
-     alt="LaCrosse Tribune at 2022-07-23 23:16:30-05:00 local time"
+     alt="LaCrosse Tribune at 2022-07-23 16:16:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-23T23:16:28.521953-05:00.jpg">July 23 at 11:16 PM</a></p>
+ <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-23T23:16:28.521953-05:00.jpg">July 23 at 4:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-23T09:06:32.058490-05:00.jpg">
   <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-23T09:06:32.058490-05:00.jpg"
-     alt="LaCrosse Tribune at 2022-07-23 09:06:36-05:00 local time"
+     alt="LaCrosse Tribune at 2022-07-23 02:06:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-23T09:06:32.058490-05:00.jpg">July 23 at 9:06 AM</a></p>
+ <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-23T09:06:32.058490-05:00.jpg">July 23 at 2:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-22T21:31:52.880092-05:00.jpg">
   <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-22T21:31:52.880092-05:00.jpg"
-     alt="LaCrosse Tribune at 2022-07-22 21:31:56-05:00 local time"
+     alt="LaCrosse Tribune at 2022-07-22 14:31:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-22T21:31:52.880092-05:00.jpg">July 22 at 9:31 PM</a></p>
+ <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-22T21:31:52.880092-05:00.jpg">July 22 at 2:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-22T09:06:28.545503-05:00.jpg">
   <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-22T09:06:28.545503-05:00.jpg"
-     alt="LaCrosse Tribune at 2022-07-22 09:06:30-05:00 local time"
+     alt="LaCrosse Tribune at 2022-07-22 02:06:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-22T09:06:28.545503-05:00.jpg">July 22 at 9:06 AM</a></p>
+ <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-22T09:06:28.545503-05:00.jpg">July 22 at 2:06 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 7:05 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T19:05:38.309509-05:00.hyperlinks.json) |
-| [July 27 at 8:08 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T08:08:46.136371-05:00.hyperlinks.json) |
-| [July 26 at 7:23 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T07:23:03.707340-05:00.hyperlinks.json) |
-| [July 25 at 7:18 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T19:18:33.758653-05:00.hyperlinks.json) |
-| [July 25 at 8:12 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T08:12:04.790876-05:00.hyperlinks.json) |
-| [July 24 at 10:28 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T22:28:30.894824-05:00.hyperlinks.json) |
-| [July 24 at 8:01 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T08:01:07.347019-05:00.hyperlinks.json) |
-| [July 23 at 11:16 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-23T23:16:28.521953-05:00.hyperlinks.json) |
-| [July 22 at 9:31 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-22T21:31:52.880092-05:00.hyperlinks.json) |
-| [July 22 at 9:06 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-22T09:06:28.545503-05:00.hyperlinks.json) |
+| [July 27 at 12:05 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T19:05:38.309509-05:00.hyperlinks.json) |
+| [July 27 at 1:08 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T08:08:46.136371-05:00.hyperlinks.json) |
+| [July 26 at 12:23 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T07:23:03.707340-05:00.hyperlinks.json) |
+| [July 25 at 12:18 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T19:18:33.758653-05:00.hyperlinks.json) |
+| [July 25 at 1:12 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T08:12:04.790876-05:00.hyperlinks.json) |
+| [July 24 at 3:28 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T22:28:30.894824-05:00.hyperlinks.json) |
+| [July 24 at 1:01 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T08:01:07.347019-05:00.hyperlinks.json) |
+| [July 23 at 4:16 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-23T23:16:28.521953-05:00.hyperlinks.json) |
+| [July 22 at 2:31 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-22T21:31:52.880092-05:00.hyperlinks.json) |
+| [July 22 at 2:06 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-22T09:06:28.545503-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 7:05 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T19:05:38.309509-05:00.accessibility.json) |
-| [July 27 at 8:08 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T08:08:46.136371-05:00.accessibility.json) |
-| [July 26 at 7:13 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T19:13:39.636460-05:00.accessibility.json) |
-| [July 26 at 7:23 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T07:23:03.707340-05:00.accessibility.json) |
-| [July 25 at 7:18 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T19:18:33.758653-05:00.accessibility.json) |
-| [July 24 at 10:28 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T22:28:30.894824-05:00.accessibility.json) |
-| [July 24 at 8:01 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T08:01:07.347019-05:00.accessibility.json) |
-| [July 23 at 11:16 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-23T23:16:28.521953-05:00.accessibility.json) |
-| [July 23 at 9:06 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-23T09:06:32.058490-05:00.accessibility.json) |
-| [July 22 at 9:31 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-22T21:31:52.880092-05:00.accessibility.json) |
+| [July 27 at 12:05 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T19:05:38.309509-05:00.accessibility.json) |
+| [July 27 at 1:08 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T08:08:46.136371-05:00.accessibility.json) |
+| [July 26 at 12:13 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T19:13:39.636460-05:00.accessibility.json) |
+| [July 26 at 12:23 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T07:23:03.707340-05:00.accessibility.json) |
+| [July 25 at 12:18 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T19:18:33.758653-05:00.accessibility.json) |
+| [July 24 at 3:28 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T22:28:30.894824-05:00.accessibility.json) |
+| [July 24 at 1:01 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T08:01:07.347019-05:00.accessibility.json) |
+| [July 23 at 4:16 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-23T23:16:28.521953-05:00.accessibility.json) |
+| [July 23 at 2:06 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-23T09:06:32.058490-05:00.accessibility.json) |
+| [July 22 at 2:31 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-22T21:31:52.880092-05:00.accessibility.json) |
 
 
 
@@ -442,15 +442,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 7:05 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T19:05:38.309509-05:00.lighthouse.json) |
-| [July 27 at 8:08 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T08:08:46.136371-05:00.lighthouse.json) |
-| [July 26 at 7:13 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T19:13:39.636460-05:00.lighthouse.json) |
-| [July 26 at 7:23 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T07:23:03.707340-05:00.lighthouse.json) |
-| [July 25 at 7:18 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T19:18:33.758653-05:00.lighthouse.json) |
-| [July 25 at 8:12 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T08:12:04.790876-05:00.lighthouse.json) |
-| [July 24 at 10:28 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T22:28:30.894824-05:00.lighthouse.json) |
-| [July 24 at 8:01 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T08:01:07.347019-05:00.lighthouse.json) |
-| [July 23 at 11:16 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-23T23:16:28.521953-05:00.lighthouse.json) |
+| [July 27 at 12:05 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T19:05:38.309509-05:00.lighthouse.json) |
+| [July 27 at 1:08 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-27T08:08:46.136371-05:00.lighthouse.json) |
+| [July 26 at 12:13 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T19:13:39.636460-05:00.lighthouse.json) |
+| [July 26 at 12:23 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-26T07:23:03.707340-05:00.lighthouse.json) |
+| [July 25 at 12:18 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T19:18:33.758653-05:00.lighthouse.json) |
+| [July 25 at 1:12 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-25T08:12:04.790876-05:00.lighthouse.json) |
+| [July 24 at 3:28 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T22:28:30.894824-05:00.lighthouse.json) |
+| [July 24 at 1:01 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-24T08:01:07.347019-05:00.lighthouse.json) |
+| [July 23 at 4:16 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-07-23T23:16:28.521953-05:00.lighthouse.json) |
 
 
 

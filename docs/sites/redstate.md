@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/redstate-2022/redstate-2022-07-27T20:10:54.707456-04:00.jpg">
   <img src="https://archive.org/download/redstate-2022/redstate-2022-07-27T20:10:54.707456-04:00.jpg"
-     alt="RedState at 2022-07-27 20:10:56-04:00 local time"
+     alt="RedState at 2022-07-27 13:10:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-27T20:10:54.707456-04:00.jpg">July 27 at 8:10 PM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-27T20:10:54.707456-04:00.jpg">July 27 at 1:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/redstate-2022/redstate-2022-07-27T09:14:42.075967-04:00.jpg">
   <img src="https://archive.org/download/redstate-2022/redstate-2022-07-27T09:14:42.075967-04:00.jpg"
-     alt="RedState at 2022-07-27 09:14:43-04:00 local time"
+     alt="RedState at 2022-07-27 02:14:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-27T09:14:42.075967-04:00.jpg">July 27 at 9:14 AM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-27T09:14:42.075967-04:00.jpg">July 27 at 2:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/redstate-2022/redstate-2022-07-26T20:18:46.572305-04:00.jpg">
   <img src="https://archive.org/download/redstate-2022/redstate-2022-07-26T20:18:46.572305-04:00.jpg"
-     alt="RedState at 2022-07-26 20:18:50-04:00 local time"
+     alt="RedState at 2022-07-26 13:18:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-26T20:18:46.572305-04:00.jpg">July 26 at 8:18 PM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-26T20:18:46.572305-04:00.jpg">July 26 at 1:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/redstate-2022/redstate-2022-07-26T14:36:07.879315-04:00.jpg">
   <img src="https://archive.org/download/redstate-2022/redstate-2022-07-26T14:36:07.879315-04:00.jpg"
-     alt="RedState at 2022-07-26 14:36:11-04:00 local time"
+     alt="RedState at 2022-07-26 07:36:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-26T14:36:07.879315-04:00.jpg">July 26 at 2:36 PM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-26T14:36:07.879315-04:00.jpg">July 26 at 7:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/redstate-2022/redstate-2022-07-26T08:29:02.021492-04:00.jpg">
   <img src="https://archive.org/download/redstate-2022/redstate-2022-07-26T08:29:02.021492-04:00.jpg"
-     alt="RedState at 2022-07-26 08:29:05-04:00 local time"
+     alt="RedState at 2022-07-26 01:29:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-26T08:29:02.021492-04:00.jpg">July 26 at 8:29 AM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-26T08:29:02.021492-04:00.jpg">July 26 at 1:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T20:25:03.167755-04:00.jpg">
   <img src="https://archive.org/download/redstate-2022/redstate-2022-07-25T20:25:03.167755-04:00.jpg"
-     alt="RedState at 2022-07-25 20:25:06-04:00 local time"
+     alt="RedState at 2022-07-25 13:25:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T20:25:03.167755-04:00.jpg">July 25 at 8:25 PM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T20:25:03.167755-04:00.jpg">July 25 at 1:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T14:39:13.174060-04:00.jpg">
   <img src="https://archive.org/download/redstate-2022/redstate-2022-07-25T14:39:13.174060-04:00.jpg"
-     alt="RedState at 2022-07-25 14:39:15-04:00 local time"
+     alt="RedState at 2022-07-25 07:39:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T14:39:13.174060-04:00.jpg">July 25 at 2:39 PM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T14:39:13.174060-04:00.jpg">July 25 at 7:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T12:41:18.026530-04:00.jpg">
   <img src="https://archive.org/download/redstate-2022/redstate-2022-07-25T12:41:18.026530-04:00.jpg"
-     alt="RedState at 2022-07-25 12:41:19-04:00 local time"
+     alt="RedState at 2022-07-25 05:41:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T12:41:18.026530-04:00.jpg">July 25 at 12:41 PM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T12:41:18.026530-04:00.jpg">July 25 at 5:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T11:39:25.243868-04:00.jpg">
   <img src="https://archive.org/download/redstate-2022/redstate-2022-07-25T11:39:25.243868-04:00.jpg"
-     alt="RedState at 2022-07-25 11:39:27-04:00 local time"
+     alt="RedState at 2022-07-25 04:39:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T11:39:25.243868-04:00.jpg">July 25 at 11:39 AM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-25T11:39:25.243868-04:00.jpg">July 25 at 4:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/redstate-2022/redstate-2022-07-24T23:41:24.959680-04:00.jpg">
   <img src="https://archive.org/download/redstate-2022/redstate-2022-07-24T23:41:24.959680-04:00.jpg"
-     alt="RedState at 2022-07-24 23:41:27-04:00 local time"
+     alt="RedState at 2022-07-24 16:41:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-24T23:41:24.959680-04:00.jpg">July 24 at 11:41 PM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-24T23:41:24.959680-04:00.jpg">July 24 at 4:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/redstate-2022/redstate-2022-07-24T11:44:38.412507-04:00.jpg">
   <img src="https://archive.org/download/redstate-2022/redstate-2022-07-24T11:44:38.412507-04:00.jpg"
-     alt="RedState at 2022-07-24 11:44:39-04:00 local time"
+     alt="RedState at 2022-07-24 04:44:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-24T11:44:38.412507-04:00.jpg">July 24 at 11:44 AM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-24T11:44:38.412507-04:00.jpg">July 24 at 4:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/redstate-2022/redstate-2022-07-24T10:01:36.460003-04:00.jpg">
   <img src="https://archive.org/download/redstate-2022/redstate-2022-07-24T10:01:36.460003-04:00.jpg"
-     alt="RedState at 2022-07-24 10:01:43-04:00 local time"
+     alt="RedState at 2022-07-24 03:01:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-24T10:01:36.460003-04:00.jpg">July 24 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-24T10:01:36.460003-04:00.jpg">July 24 at 3:01 AM</a></p>
 </div>
 
 </div>
@@ -231,16 +231,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 8:11 PM](https://archive.org/download/redstate-2022/redstate-2022-07-27T20:10:54.707456-04:00.hyperlinks.json) |
-| [July 27 at 9:14 AM](https://archive.org/download/redstate-2022/redstate-2022-07-27T09:14:42.075967-04:00.hyperlinks.json) |
-| [July 26 at 8:18 PM](https://archive.org/download/redstate-2022/redstate-2022-07-26T20:18:46.572305-04:00.hyperlinks.json) |
-| [July 26 at 2:36 PM](https://archive.org/download/redstate-2022/redstate-2022-07-26T14:36:07.879315-04:00.hyperlinks.json) |
-| [July 26 at 8:29 AM](https://archive.org/download/redstate-2022/redstate-2022-07-26T08:29:02.021492-04:00.hyperlinks.json) |
-| [July 25 at 8:25 PM](https://archive.org/download/redstate-2022/redstate-2022-07-25T20:25:03.167755-04:00.hyperlinks.json) |
-| [July 25 at 2:39 PM](https://archive.org/download/redstate-2022/redstate-2022-07-25T14:39:13.174060-04:00.hyperlinks.json) |
-| [July 25 at 11:39 AM](https://archive.org/download/redstate-2022/redstate-2022-07-25T11:39:25.243868-04:00.hyperlinks.json) |
-| [July 24 at 11:41 PM](https://archive.org/download/redstate-2022/redstate-2022-07-24T23:41:24.959680-04:00.hyperlinks.json) |
-| [July 24 at 11:44 AM](https://archive.org/download/redstate-2022/redstate-2022-07-24T11:44:38.412507-04:00.hyperlinks.json) |
+| [July 27 at 1:11 PM](https://archive.org/download/redstate-2022/redstate-2022-07-27T20:10:54.707456-04:00.hyperlinks.json) |
+| [July 27 at 2:14 AM](https://archive.org/download/redstate-2022/redstate-2022-07-27T09:14:42.075967-04:00.hyperlinks.json) |
+| [July 26 at 1:18 PM](https://archive.org/download/redstate-2022/redstate-2022-07-26T20:18:46.572305-04:00.hyperlinks.json) |
+| [July 26 at 7:36 AM](https://archive.org/download/redstate-2022/redstate-2022-07-26T14:36:07.879315-04:00.hyperlinks.json) |
+| [July 26 at 1:29 AM](https://archive.org/download/redstate-2022/redstate-2022-07-26T08:29:02.021492-04:00.hyperlinks.json) |
+| [July 25 at 1:25 PM](https://archive.org/download/redstate-2022/redstate-2022-07-25T20:25:03.167755-04:00.hyperlinks.json) |
+| [July 25 at 7:39 AM](https://archive.org/download/redstate-2022/redstate-2022-07-25T14:39:13.174060-04:00.hyperlinks.json) |
+| [July 25 at 4:39 AM](https://archive.org/download/redstate-2022/redstate-2022-07-25T11:39:25.243868-04:00.hyperlinks.json) |
+| [July 24 at 4:41 PM](https://archive.org/download/redstate-2022/redstate-2022-07-24T23:41:24.959680-04:00.hyperlinks.json) |
+| [July 24 at 4:44 AM](https://archive.org/download/redstate-2022/redstate-2022-07-24T11:44:38.412507-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -336,16 +336,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 8:10 PM](https://archive.org/download/redstate-2022/redstate-2022-07-27T20:10:54.707456-04:00.accessibility.json) |
-| [July 27 at 9:14 AM](https://archive.org/download/redstate-2022/redstate-2022-07-27T09:14:42.075967-04:00.accessibility.json) |
-| [July 26 at 8:18 PM](https://archive.org/download/redstate-2022/redstate-2022-07-26T20:18:46.572305-04:00.accessibility.json) |
-| [July 26 at 2:36 PM](https://archive.org/download/redstate-2022/redstate-2022-07-26T14:36:07.879315-04:00.accessibility.json) |
-| [July 26 at 8:29 AM](https://archive.org/download/redstate-2022/redstate-2022-07-26T08:29:02.021492-04:00.accessibility.json) |
-| [July 25 at 8:25 PM](https://archive.org/download/redstate-2022/redstate-2022-07-25T20:25:03.167755-04:00.accessibility.json) |
-| [July 25 at 2:39 PM](https://archive.org/download/redstate-2022/redstate-2022-07-25T14:39:13.174060-04:00.accessibility.json) |
-| [July 25 at 12:41 PM](https://archive.org/download/redstate-2022/redstate-2022-07-25T12:41:18.026530-04:00.accessibility.json) |
-| [July 25 at 11:39 AM](https://archive.org/download/redstate-2022/redstate-2022-07-25T11:39:25.243868-04:00.accessibility.json) |
-| [July 24 at 11:41 PM](https://archive.org/download/redstate-2022/redstate-2022-07-24T23:41:24.959680-04:00.accessibility.json) |
+| [July 27 at 1:10 PM](https://archive.org/download/redstate-2022/redstate-2022-07-27T20:10:54.707456-04:00.accessibility.json) |
+| [July 27 at 2:14 AM](https://archive.org/download/redstate-2022/redstate-2022-07-27T09:14:42.075967-04:00.accessibility.json) |
+| [July 26 at 1:18 PM](https://archive.org/download/redstate-2022/redstate-2022-07-26T20:18:46.572305-04:00.accessibility.json) |
+| [July 26 at 7:36 AM](https://archive.org/download/redstate-2022/redstate-2022-07-26T14:36:07.879315-04:00.accessibility.json) |
+| [July 26 at 1:29 AM](https://archive.org/download/redstate-2022/redstate-2022-07-26T08:29:02.021492-04:00.accessibility.json) |
+| [July 25 at 1:25 PM](https://archive.org/download/redstate-2022/redstate-2022-07-25T20:25:03.167755-04:00.accessibility.json) |
+| [July 25 at 7:39 AM](https://archive.org/download/redstate-2022/redstate-2022-07-25T14:39:13.174060-04:00.accessibility.json) |
+| [July 25 at 5:41 AM](https://archive.org/download/redstate-2022/redstate-2022-07-25T12:41:18.026530-04:00.accessibility.json) |
+| [July 25 at 4:39 AM](https://archive.org/download/redstate-2022/redstate-2022-07-25T11:39:25.243868-04:00.accessibility.json) |
+| [July 24 at 4:41 PM](https://archive.org/download/redstate-2022/redstate-2022-07-24T23:41:24.959680-04:00.accessibility.json) |
 
 
 
@@ -359,16 +359,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 8:11 PM](https://archive.org/download/redstate-2022/redstate-2022-07-27T20:10:54.707456-04:00.lighthouse.json) |
-| [July 27 at 9:14 AM](https://archive.org/download/redstate-2022/redstate-2022-07-27T09:14:42.075967-04:00.lighthouse.json) |
-| [July 26 at 8:18 PM](https://archive.org/download/redstate-2022/redstate-2022-07-26T20:18:46.572305-04:00.lighthouse.json) |
-| [July 26 at 2:36 PM](https://archive.org/download/redstate-2022/redstate-2022-07-26T14:36:07.879315-04:00.lighthouse.json) |
-| [July 26 at 8:29 AM](https://archive.org/download/redstate-2022/redstate-2022-07-26T08:29:02.021492-04:00.lighthouse.json) |
-| [July 25 at 8:25 PM](https://archive.org/download/redstate-2022/redstate-2022-07-25T20:25:03.167755-04:00.lighthouse.json) |
-| [July 25 at 2:39 PM](https://archive.org/download/redstate-2022/redstate-2022-07-25T14:39:13.174060-04:00.lighthouse.json) |
-| [July 25 at 12:41 PM](https://archive.org/download/redstate-2022/redstate-2022-07-25T12:41:18.026530-04:00.lighthouse.json) |
-| [July 25 at 11:39 AM](https://archive.org/download/redstate-2022/redstate-2022-07-25T11:39:25.243868-04:00.lighthouse.json) |
-| [July 24 at 11:41 PM](https://archive.org/download/redstate-2022/redstate-2022-07-24T23:41:24.959680-04:00.lighthouse.json) |
+| [July 27 at 1:11 PM](https://archive.org/download/redstate-2022/redstate-2022-07-27T20:10:54.707456-04:00.lighthouse.json) |
+| [July 27 at 2:14 AM](https://archive.org/download/redstate-2022/redstate-2022-07-27T09:14:42.075967-04:00.lighthouse.json) |
+| [July 26 at 1:18 PM](https://archive.org/download/redstate-2022/redstate-2022-07-26T20:18:46.572305-04:00.lighthouse.json) |
+| [July 26 at 7:36 AM](https://archive.org/download/redstate-2022/redstate-2022-07-26T14:36:07.879315-04:00.lighthouse.json) |
+| [July 26 at 1:29 AM](https://archive.org/download/redstate-2022/redstate-2022-07-26T08:29:02.021492-04:00.lighthouse.json) |
+| [July 25 at 1:25 PM](https://archive.org/download/redstate-2022/redstate-2022-07-25T20:25:03.167755-04:00.lighthouse.json) |
+| [July 25 at 7:39 AM](https://archive.org/download/redstate-2022/redstate-2022-07-25T14:39:13.174060-04:00.lighthouse.json) |
+| [July 25 at 5:41 AM](https://archive.org/download/redstate-2022/redstate-2022-07-25T12:41:18.026530-04:00.lighthouse.json) |
+| [July 25 at 4:39 AM](https://archive.org/download/redstate-2022/redstate-2022-07-25T11:39:25.243868-04:00.lighthouse.json) |
+| [July 24 at 4:41 PM](https://archive.org/download/redstate-2022/redstate-2022-07-24T23:41:24.959680-04:00.lighthouse.json) |
 
 
 

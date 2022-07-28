@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/foxla-2022/foxla-2022-07-28T04:11:29.139879-07:00.jpg">
   <img src="https://archive.org/download/foxla-2022/foxla-2022-07-28T04:11:29.139879-07:00.jpg"
-     alt="FOX 11 Los Angeles at 2022-07-28 04:11:34-07:00 local time"
+     alt="FOX 11 Los Angeles at 2022-07-27 21:11:34-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-28T04:11:29.139879-07:00.jpg">July 28 at 4:11 AM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-28T04:11:29.139879-07:00.jpg">July 27 at 9:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxla-2022/foxla-2022-07-27T16:07:59.694615-07:00.jpg">
   <img src="https://archive.org/download/foxla-2022/foxla-2022-07-27T16:07:59.694615-07:00.jpg"
-     alt="FOX 11 Los Angeles at 2022-07-27 16:08:04-07:00 local time"
+     alt="FOX 11 Los Angeles at 2022-07-27 09:08:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-27T16:07:59.694615-07:00.jpg">July 27 at 4:08 PM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-27T16:07:59.694615-07:00.jpg">July 27 at 9:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxla-2022/foxla-2022-07-27T04:09:25.070568-07:00.jpg">
   <img src="https://archive.org/download/foxla-2022/foxla-2022-07-27T04:09:25.070568-07:00.jpg"
-     alt="FOX 11 Los Angeles at 2022-07-27 04:09:37-07:00 local time"
+     alt="FOX 11 Los Angeles at 2022-07-26 21:09:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-27T04:09:25.070568-07:00.jpg">July 27 at 4:09 AM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-27T04:09:25.070568-07:00.jpg">July 26 at 9:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxla-2022/foxla-2022-07-26T16:09:58.100363-07:00.jpg">
   <img src="https://archive.org/download/foxla-2022/foxla-2022-07-26T16:09:58.100363-07:00.jpg"
-     alt="FOX 11 Los Angeles at 2022-07-26 16:10:10-07:00 local time"
+     alt="FOX 11 Los Angeles at 2022-07-26 09:10:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-26T16:09:58.100363-07:00.jpg">July 26 at 4:10 PM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-26T16:09:58.100363-07:00.jpg">July 26 at 9:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxla-2022/foxla-2022-07-26T11:33:46.477277-07:00.jpg">
   <img src="https://archive.org/download/foxla-2022/foxla-2022-07-26T11:33:46.477277-07:00.jpg"
-     alt="FOX 11 Los Angeles at 2022-07-26 11:33:58-07:00 local time"
+     alt="FOX 11 Los Angeles at 2022-07-26 04:33:58-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-26T11:33:46.477277-07:00.jpg">July 26 at 11:33 AM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-26T11:33:46.477277-07:00.jpg">July 26 at 4:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxla-2022/foxla-2022-07-26T04:18:55.688819-07:00.jpg">
   <img src="https://archive.org/download/foxla-2022/foxla-2022-07-26T04:18:55.688819-07:00.jpg"
-     alt="FOX 11 Los Angeles at 2022-07-26 04:18:59-07:00 local time"
+     alt="FOX 11 Los Angeles at 2022-07-25 21:18:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-26T04:18:55.688819-07:00.jpg">July 26 at 4:18 AM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-26T04:18:55.688819-07:00.jpg">July 25 at 9:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxla-2022/foxla-2022-07-25T16:14:23.628610-07:00.jpg">
   <img src="https://archive.org/download/foxla-2022/foxla-2022-07-25T16:14:23.628610-07:00.jpg"
-     alt="FOX 11 Los Angeles at 2022-07-25 16:14:30-07:00 local time"
+     alt="FOX 11 Los Angeles at 2022-07-25 09:14:30-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-25T16:14:23.628610-07:00.jpg">July 25 at 4:14 PM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-25T16:14:23.628610-07:00.jpg">July 25 at 9:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxla-2022/foxla-2022-07-25T11:13:41.059199-07:00.jpg">
   <img src="https://archive.org/download/foxla-2022/foxla-2022-07-25T11:13:41.059199-07:00.jpg"
-     alt="FOX 11 Los Angeles at 2022-07-25 11:13:43-07:00 local time"
+     alt="FOX 11 Los Angeles at 2022-07-25 04:13:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-25T11:13:41.059199-07:00.jpg">July 25 at 11:13 AM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-25T11:13:41.059199-07:00.jpg">July 25 at 4:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxla-2022/foxla-2022-07-25T05:03:10.688231-07:00.jpg">
   <img src="https://archive.org/download/foxla-2022/foxla-2022-07-25T05:03:10.688231-07:00.jpg"
-     alt="FOX 11 Los Angeles at 2022-07-25 05:03:18-07:00 local time"
+     alt="FOX 11 Los Angeles at 2022-07-24 22:03:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-25T05:03:10.688231-07:00.jpg">July 25 at 5:03 AM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-25T05:03:10.688231-07:00.jpg">July 24 at 10:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxla-2022/foxla-2022-07-24T18:05:22.234044-07:00.jpg">
   <img src="https://archive.org/download/foxla-2022/foxla-2022-07-24T18:05:22.234044-07:00.jpg"
-     alt="FOX 11 Los Angeles at 2022-07-24 18:05:24-07:00 local time"
+     alt="FOX 11 Los Angeles at 2022-07-24 11:05:24-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-24T18:05:22.234044-07:00.jpg">July 24 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-24T18:05:22.234044-07:00.jpg">July 24 at 11:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxla-2022/foxla-2022-07-24T11:20:46.043389-07:00.jpg">
   <img src="https://archive.org/download/foxla-2022/foxla-2022-07-24T11:20:46.043389-07:00.jpg"
-     alt="FOX 11 Los Angeles at 2022-07-24 11:20:50-07:00 local time"
+     alt="FOX 11 Los Angeles at 2022-07-24 04:20:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-24T11:20:46.043389-07:00.jpg">July 24 at 11:20 AM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-24T11:20:46.043389-07:00.jpg">July 24 at 4:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxla-2022/foxla-2022-07-24T04:59:55.796372-07:00.jpg">
   <img src="https://archive.org/download/foxla-2022/foxla-2022-07-24T04:59:55.796372-07:00.jpg"
-     alt="FOX 11 Los Angeles at 2022-07-24 04:59:57-07:00 local time"
+     alt="FOX 11 Los Angeles at 2022-07-23 21:59:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-24T04:59:55.796372-07:00.jpg">July 24 at 4:59 AM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-24T04:59:55.796372-07:00.jpg">July 23 at 9:59 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 4:11 AM](https://archive.org/download/foxla-2022/foxla-2022-07-28T04:11:29.139879-07:00.hyperlinks.json) |
-| [July 27 at 4:08 PM](https://archive.org/download/foxla-2022/foxla-2022-07-27T16:07:59.694615-07:00.hyperlinks.json) |
-| [July 27 at 4:09 AM](https://archive.org/download/foxla-2022/foxla-2022-07-27T04:09:25.070568-07:00.hyperlinks.json) |
-| [July 26 at 4:10 PM](https://archive.org/download/foxla-2022/foxla-2022-07-26T16:09:58.100363-07:00.hyperlinks.json) |
-| [July 26 at 11:34 AM](https://archive.org/download/foxla-2022/foxla-2022-07-26T11:33:46.477277-07:00.hyperlinks.json) |
-| [July 26 at 4:19 AM](https://archive.org/download/foxla-2022/foxla-2022-07-26T04:18:55.688819-07:00.hyperlinks.json) |
-| [July 25 at 4:14 PM](https://archive.org/download/foxla-2022/foxla-2022-07-25T16:14:23.628610-07:00.hyperlinks.json) |
-| [July 25 at 11:13 AM](https://archive.org/download/foxla-2022/foxla-2022-07-25T11:13:41.059199-07:00.hyperlinks.json) |
-| [July 25 at 5:03 AM](https://archive.org/download/foxla-2022/foxla-2022-07-25T05:03:10.688231-07:00.hyperlinks.json) |
-| [July 24 at 6:05 PM](https://archive.org/download/foxla-2022/foxla-2022-07-24T18:05:22.234044-07:00.hyperlinks.json) |
+| [July 27 at 9:11 PM](https://archive.org/download/foxla-2022/foxla-2022-07-28T04:11:29.139879-07:00.hyperlinks.json) |
+| [July 27 at 9:08 AM](https://archive.org/download/foxla-2022/foxla-2022-07-27T16:07:59.694615-07:00.hyperlinks.json) |
+| [July 26 at 9:09 PM](https://archive.org/download/foxla-2022/foxla-2022-07-27T04:09:25.070568-07:00.hyperlinks.json) |
+| [July 26 at 9:10 AM](https://archive.org/download/foxla-2022/foxla-2022-07-26T16:09:58.100363-07:00.hyperlinks.json) |
+| [July 26 at 4:34 AM](https://archive.org/download/foxla-2022/foxla-2022-07-26T11:33:46.477277-07:00.hyperlinks.json) |
+| [July 25 at 9:19 PM](https://archive.org/download/foxla-2022/foxla-2022-07-26T04:18:55.688819-07:00.hyperlinks.json) |
+| [July 25 at 9:14 AM](https://archive.org/download/foxla-2022/foxla-2022-07-25T16:14:23.628610-07:00.hyperlinks.json) |
+| [July 25 at 4:13 AM](https://archive.org/download/foxla-2022/foxla-2022-07-25T11:13:41.059199-07:00.hyperlinks.json) |
+| [July 24 at 10:03 PM](https://archive.org/download/foxla-2022/foxla-2022-07-25T05:03:10.688231-07:00.hyperlinks.json) |
+| [July 24 at 11:05 AM](https://archive.org/download/foxla-2022/foxla-2022-07-24T18:05:22.234044-07:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 4:11 AM](https://archive.org/download/foxla-2022/foxla-2022-07-28T04:11:29.139879-07:00.accessibility.json) |
-| [July 27 at 4:08 PM](https://archive.org/download/foxla-2022/foxla-2022-07-27T16:07:59.694615-07:00.accessibility.json) |
-| [July 27 at 4:09 AM](https://archive.org/download/foxla-2022/foxla-2022-07-27T04:09:25.070568-07:00.accessibility.json) |
-| [July 26 at 4:10 PM](https://archive.org/download/foxla-2022/foxla-2022-07-26T16:09:58.100363-07:00.accessibility.json) |
-| [July 26 at 11:34 AM](https://archive.org/download/foxla-2022/foxla-2022-07-26T11:33:46.477277-07:00.accessibility.json) |
-| [July 26 at 4:19 AM](https://archive.org/download/foxla-2022/foxla-2022-07-26T04:18:55.688819-07:00.accessibility.json) |
-| [July 25 at 4:14 PM](https://archive.org/download/foxla-2022/foxla-2022-07-25T16:14:23.628610-07:00.accessibility.json) |
-| [July 25 at 11:13 AM](https://archive.org/download/foxla-2022/foxla-2022-07-25T11:13:41.059199-07:00.accessibility.json) |
-| [July 25 at 5:03 AM](https://archive.org/download/foxla-2022/foxla-2022-07-25T05:03:10.688231-07:00.accessibility.json) |
-| [July 24 at 6:05 PM](https://archive.org/download/foxla-2022/foxla-2022-07-24T18:05:22.234044-07:00.accessibility.json) |
+| [July 27 at 9:11 PM](https://archive.org/download/foxla-2022/foxla-2022-07-28T04:11:29.139879-07:00.accessibility.json) |
+| [July 27 at 9:08 AM](https://archive.org/download/foxla-2022/foxla-2022-07-27T16:07:59.694615-07:00.accessibility.json) |
+| [July 26 at 9:09 PM](https://archive.org/download/foxla-2022/foxla-2022-07-27T04:09:25.070568-07:00.accessibility.json) |
+| [July 26 at 9:10 AM](https://archive.org/download/foxla-2022/foxla-2022-07-26T16:09:58.100363-07:00.accessibility.json) |
+| [July 26 at 4:34 AM](https://archive.org/download/foxla-2022/foxla-2022-07-26T11:33:46.477277-07:00.accessibility.json) |
+| [July 25 at 9:19 PM](https://archive.org/download/foxla-2022/foxla-2022-07-26T04:18:55.688819-07:00.accessibility.json) |
+| [July 25 at 9:14 AM](https://archive.org/download/foxla-2022/foxla-2022-07-25T16:14:23.628610-07:00.accessibility.json) |
+| [July 25 at 4:13 AM](https://archive.org/download/foxla-2022/foxla-2022-07-25T11:13:41.059199-07:00.accessibility.json) |
+| [July 24 at 10:03 PM](https://archive.org/download/foxla-2022/foxla-2022-07-25T05:03:10.688231-07:00.accessibility.json) |
+| [July 24 at 11:05 AM](https://archive.org/download/foxla-2022/foxla-2022-07-24T18:05:22.234044-07:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 4:11 AM](https://archive.org/download/foxla-2022/foxla-2022-07-28T04:11:29.139879-07:00.lighthouse.json) |
-| [July 27 at 4:08 PM](https://archive.org/download/foxla-2022/foxla-2022-07-27T16:07:59.694615-07:00.lighthouse.json) |
-| [July 27 at 4:09 AM](https://archive.org/download/foxla-2022/foxla-2022-07-27T04:09:25.070568-07:00.lighthouse.json) |
-| [July 26 at 4:10 PM](https://archive.org/download/foxla-2022/foxla-2022-07-26T16:09:58.100363-07:00.lighthouse.json) |
-| [July 26 at 11:34 AM](https://archive.org/download/foxla-2022/foxla-2022-07-26T11:33:46.477277-07:00.lighthouse.json) |
-| [July 26 at 4:19 AM](https://archive.org/download/foxla-2022/foxla-2022-07-26T04:18:55.688819-07:00.lighthouse.json) |
-| [July 25 at 4:14 PM](https://archive.org/download/foxla-2022/foxla-2022-07-25T16:14:23.628610-07:00.lighthouse.json) |
-| [July 25 at 11:13 AM](https://archive.org/download/foxla-2022/foxla-2022-07-25T11:13:41.059199-07:00.lighthouse.json) |
-| [July 25 at 5:03 AM](https://archive.org/download/foxla-2022/foxla-2022-07-25T05:03:10.688231-07:00.lighthouse.json) |
-| [July 24 at 6:05 PM](https://archive.org/download/foxla-2022/foxla-2022-07-24T18:05:22.234044-07:00.lighthouse.json) |
+| [July 27 at 9:11 PM](https://archive.org/download/foxla-2022/foxla-2022-07-28T04:11:29.139879-07:00.lighthouse.json) |
+| [July 27 at 9:08 AM](https://archive.org/download/foxla-2022/foxla-2022-07-27T16:07:59.694615-07:00.lighthouse.json) |
+| [July 26 at 9:09 PM](https://archive.org/download/foxla-2022/foxla-2022-07-27T04:09:25.070568-07:00.lighthouse.json) |
+| [July 26 at 9:10 AM](https://archive.org/download/foxla-2022/foxla-2022-07-26T16:09:58.100363-07:00.lighthouse.json) |
+| [July 26 at 4:34 AM](https://archive.org/download/foxla-2022/foxla-2022-07-26T11:33:46.477277-07:00.lighthouse.json) |
+| [July 25 at 9:19 PM](https://archive.org/download/foxla-2022/foxla-2022-07-26T04:18:55.688819-07:00.lighthouse.json) |
+| [July 25 at 9:14 AM](https://archive.org/download/foxla-2022/foxla-2022-07-25T16:14:23.628610-07:00.lighthouse.json) |
+| [July 25 at 4:13 AM](https://archive.org/download/foxla-2022/foxla-2022-07-25T11:13:41.059199-07:00.lighthouse.json) |
+| [July 24 at 10:03 PM](https://archive.org/download/foxla-2022/foxla-2022-07-25T05:03:10.688231-07:00.lighthouse.json) |
+| [July 24 at 11:05 AM](https://archive.org/download/foxla-2022/foxla-2022-07-24T18:05:22.234044-07:00.lighthouse.json) |
 
 
 

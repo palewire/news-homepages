@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/wsj-2022/wsj-2022-07-27T23:50:35.113712-04:00.jpg">
   <img src="https://archive.org/download/wsj-2022/wsj-2022-07-27T23:50:35.113712-04:00.jpg"
-     alt="Wall Street Journal at 2022-07-27 23:50:47-04:00 local time"
+     alt="Wall Street Journal at 2022-07-27 16:50:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-27T23:50:35.113712-04:00.jpg">July 27 at 11:50 PM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-27T23:50:35.113712-04:00.jpg">July 27 at 4:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsj-2022/wsj-2022-07-27T17:13:16.490352-04:00.jpg">
   <img src="https://archive.org/download/wsj-2022/wsj-2022-07-27T17:13:16.490352-04:00.jpg"
-     alt="Wall Street Journal at 2022-07-27 17:13:25-04:00 local time"
+     alt="Wall Street Journal at 2022-07-27 10:13:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-27T17:13:16.490352-04:00.jpg">July 27 at 5:13 PM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-27T17:13:16.490352-04:00.jpg">July 27 at 10:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsj-2022/wsj-2022-07-27T11:59:25.119876-04:00.jpg">
   <img src="https://archive.org/download/wsj-2022/wsj-2022-07-27T11:59:25.119876-04:00.jpg"
-     alt="Wall Street Journal at 2022-07-27 11:59:27-04:00 local time"
+     alt="Wall Street Journal at 2022-07-27 04:59:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-27T11:59:25.119876-04:00.jpg">July 27 at 11:59 AM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-27T11:59:25.119876-04:00.jpg">July 27 at 4:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsj-2022/wsj-2022-07-27T11:52:18.662096-04:00.jpg">
   <img src="https://archive.org/download/wsj-2022/wsj-2022-07-27T11:52:18.662096-04:00.jpg"
-     alt="Wall Street Journal at 2022-07-27 11:52:24-04:00 local time"
+     alt="Wall Street Journal at 2022-07-27 04:52:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-27T11:52:18.662096-04:00.jpg">July 27 at 11:52 AM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-27T11:52:18.662096-04:00.jpg">July 27 at 4:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsj-2022/wsj-2022-07-26T23:59:38.457607-04:00.jpg">
   <img src="https://archive.org/download/wsj-2022/wsj-2022-07-26T23:59:38.457607-04:00.jpg"
-     alt="Wall Street Journal at 2022-07-26 23:59:55-04:00 local time"
+     alt="Wall Street Journal at 2022-07-26 16:59:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-26T23:59:38.457607-04:00.jpg">July 26 at 11:59 PM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-26T23:59:38.457607-04:00.jpg">July 26 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsj-2022/wsj-2022-07-26T17:12:16.744018-04:00.jpg">
   <img src="https://archive.org/download/wsj-2022/wsj-2022-07-26T17:12:16.744018-04:00.jpg"
-     alt="Wall Street Journal at 2022-07-26 17:12:18-04:00 local time"
+     alt="Wall Street Journal at 2022-07-26 10:12:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-26T17:12:16.744018-04:00.jpg">July 26 at 5:12 PM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-26T17:12:16.744018-04:00.jpg">July 26 at 10:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsj-2022/wsj-2022-07-26T11:58:55.327368-04:00.jpg">
   <img src="https://archive.org/download/wsj-2022/wsj-2022-07-26T11:58:55.327368-04:00.jpg"
-     alt="Wall Street Journal at 2022-07-26 11:58:57-04:00 local time"
+     alt="Wall Street Journal at 2022-07-26 04:58:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-26T11:58:55.327368-04:00.jpg">July 26 at 11:58 AM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-26T11:58:55.327368-04:00.jpg">July 26 at 4:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsj-2022/wsj-2022-07-26T11:50:33.600816-04:00.jpg">
   <img src="https://archive.org/download/wsj-2022/wsj-2022-07-26T11:50:33.600816-04:00.jpg"
-     alt="Wall Street Journal at 2022-07-26 11:50:35-04:00 local time"
+     alt="Wall Street Journal at 2022-07-26 04:50:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-26T11:50:33.600816-04:00.jpg">July 26 at 11:50 AM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-26T11:50:33.600816-04:00.jpg">July 26 at 4:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsj-2022/wsj-2022-07-26T00:01:58.939239-04:00.jpg">
   <img src="https://archive.org/download/wsj-2022/wsj-2022-07-26T00:01:58.939239-04:00.jpg"
-     alt="Wall Street Journal at 2022-07-26 00:02:08-04:00 local time"
+     alt="Wall Street Journal at 2022-07-25 17:02:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-26T00:01:58.939239-04:00.jpg">July 26 at 12:02 AM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-26T00:01:58.939239-04:00.jpg">July 25 at 5:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsj-2022/wsj-2022-07-25T17:14:20.592396-04:00.jpg">
   <img src="https://archive.org/download/wsj-2022/wsj-2022-07-25T17:14:20.592396-04:00.jpg"
-     alt="Wall Street Journal at 2022-07-25 17:14:27-04:00 local time"
+     alt="Wall Street Journal at 2022-07-25 10:14:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-25T17:14:20.592396-04:00.jpg">July 25 at 5:14 PM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-25T17:14:20.592396-04:00.jpg">July 25 at 10:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsj-2022/wsj-2022-07-25T11:56:14.198294-04:00.jpg">
   <img src="https://archive.org/download/wsj-2022/wsj-2022-07-25T11:56:14.198294-04:00.jpg"
-     alt="Wall Street Journal at 2022-07-25 11:56:15-04:00 local time"
+     alt="Wall Street Journal at 2022-07-25 04:56:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-25T11:56:14.198294-04:00.jpg">July 25 at 11:56 AM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-25T11:56:14.198294-04:00.jpg">July 25 at 4:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsj-2022/wsj-2022-07-25T11:53:54.218758-04:00.jpg">
   <img src="https://archive.org/download/wsj-2022/wsj-2022-07-25T11:53:54.218758-04:00.jpg"
-     alt="Wall Street Journal at 2022-07-25 11:54:00-04:00 local time"
+     alt="Wall Street Journal at 2022-07-25 04:54:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-25T11:53:54.218758-04:00.jpg">July 25 at 11:54 AM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-25T11:53:54.218758-04:00.jpg">July 25 at 4:54 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 11:50 PM](https://archive.org/download/wsj-2022/wsj-2022-07-27T23:50:35.113712-04:00.hyperlinks.json) |
-| [July 27 at 5:13 PM](https://archive.org/download/wsj-2022/wsj-2022-07-27T17:13:16.490352-04:00.hyperlinks.json) |
-| [July 27 at 11:59 AM](https://archive.org/download/wsj-2022/wsj-2022-07-27T11:59:25.119876-04:00.hyperlinks.json) |
-| [July 27 at 11:52 AM](https://archive.org/download/wsj-2022/wsj-2022-07-27T11:52:18.662096-04:00.hyperlinks.json) |
-| [July 27 at 12:00 AM](https://archive.org/download/wsj-2022/wsj-2022-07-26T23:59:38.457607-04:00.hyperlinks.json) |
-| [July 26 at 5:12 PM](https://archive.org/download/wsj-2022/wsj-2022-07-26T17:12:16.744018-04:00.hyperlinks.json) |
-| [July 26 at 11:59 AM](https://archive.org/download/wsj-2022/wsj-2022-07-26T11:58:55.327368-04:00.hyperlinks.json) |
-| [July 26 at 11:50 AM](https://archive.org/download/wsj-2022/wsj-2022-07-26T11:50:33.600816-04:00.hyperlinks.json) |
-| [July 26 at 12:02 AM](https://archive.org/download/wsj-2022/wsj-2022-07-26T00:01:58.939239-04:00.hyperlinks.json) |
-| [July 25 at 5:14 PM](https://archive.org/download/wsj-2022/wsj-2022-07-25T17:14:20.592396-04:00.hyperlinks.json) |
+| [July 27 at 4:50 PM](https://archive.org/download/wsj-2022/wsj-2022-07-27T23:50:35.113712-04:00.hyperlinks.json) |
+| [July 27 at 10:13 AM](https://archive.org/download/wsj-2022/wsj-2022-07-27T17:13:16.490352-04:00.hyperlinks.json) |
+| [July 27 at 4:59 AM](https://archive.org/download/wsj-2022/wsj-2022-07-27T11:59:25.119876-04:00.hyperlinks.json) |
+| [July 27 at 4:52 AM](https://archive.org/download/wsj-2022/wsj-2022-07-27T11:52:18.662096-04:00.hyperlinks.json) |
+| [July 26 at 5:00 PM](https://archive.org/download/wsj-2022/wsj-2022-07-26T23:59:38.457607-04:00.hyperlinks.json) |
+| [July 26 at 10:12 AM](https://archive.org/download/wsj-2022/wsj-2022-07-26T17:12:16.744018-04:00.hyperlinks.json) |
+| [July 26 at 4:59 AM](https://archive.org/download/wsj-2022/wsj-2022-07-26T11:58:55.327368-04:00.hyperlinks.json) |
+| [July 26 at 4:50 AM](https://archive.org/download/wsj-2022/wsj-2022-07-26T11:50:33.600816-04:00.hyperlinks.json) |
+| [July 25 at 5:02 PM](https://archive.org/download/wsj-2022/wsj-2022-07-26T00:01:58.939239-04:00.hyperlinks.json) |
+| [July 25 at 10:14 AM](https://archive.org/download/wsj-2022/wsj-2022-07-25T17:14:20.592396-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 11:50 PM](https://archive.org/download/wsj-2022/wsj-2022-07-27T23:50:35.113712-04:00.accessibility.json) |
-| [July 27 at 5:13 PM](https://archive.org/download/wsj-2022/wsj-2022-07-27T17:13:16.490352-04:00.accessibility.json) |
-| [July 27 at 11:59 AM](https://archive.org/download/wsj-2022/wsj-2022-07-27T11:59:25.119876-04:00.accessibility.json) |
-| [July 27 at 11:52 AM](https://archive.org/download/wsj-2022/wsj-2022-07-27T11:52:18.662096-04:00.accessibility.json) |
-| [July 27 at 12:00 AM](https://archive.org/download/wsj-2022/wsj-2022-07-26T23:59:38.457607-04:00.accessibility.json) |
-| [July 26 at 11:59 AM](https://archive.org/download/wsj-2022/wsj-2022-07-26T11:58:55.327368-04:00.accessibility.json) |
-| [July 26 at 12:02 AM](https://archive.org/download/wsj-2022/wsj-2022-07-26T00:01:58.939239-04:00.accessibility.json) |
-| [July 25 at 5:14 PM](https://archive.org/download/wsj-2022/wsj-2022-07-25T17:14:20.592396-04:00.accessibility.json) |
-| [July 25 at 11:56 AM](https://archive.org/download/wsj-2022/wsj-2022-07-25T11:56:14.198294-04:00.accessibility.json) |
-| [July 24 at 5:47 PM](https://archive.org/download/wsj-2022/wsj-2022-07-24T17:47:43.659778-04:00.accessibility.json) |
+| [July 27 at 4:50 PM](https://archive.org/download/wsj-2022/wsj-2022-07-27T23:50:35.113712-04:00.accessibility.json) |
+| [July 27 at 10:13 AM](https://archive.org/download/wsj-2022/wsj-2022-07-27T17:13:16.490352-04:00.accessibility.json) |
+| [July 27 at 4:59 AM](https://archive.org/download/wsj-2022/wsj-2022-07-27T11:59:25.119876-04:00.accessibility.json) |
+| [July 27 at 4:52 AM](https://archive.org/download/wsj-2022/wsj-2022-07-27T11:52:18.662096-04:00.accessibility.json) |
+| [July 26 at 5:00 PM](https://archive.org/download/wsj-2022/wsj-2022-07-26T23:59:38.457607-04:00.accessibility.json) |
+| [July 26 at 4:59 AM](https://archive.org/download/wsj-2022/wsj-2022-07-26T11:58:55.327368-04:00.accessibility.json) |
+| [July 25 at 5:02 PM](https://archive.org/download/wsj-2022/wsj-2022-07-26T00:01:58.939239-04:00.accessibility.json) |
+| [July 25 at 10:14 AM](https://archive.org/download/wsj-2022/wsj-2022-07-25T17:14:20.592396-04:00.accessibility.json) |
+| [July 25 at 4:56 AM](https://archive.org/download/wsj-2022/wsj-2022-07-25T11:56:14.198294-04:00.accessibility.json) |
+| [July 24 at 10:47 AM](https://archive.org/download/wsj-2022/wsj-2022-07-24T17:47:43.659778-04:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 11:50 PM](https://archive.org/download/wsj-2022/wsj-2022-07-27T23:50:35.113712-04:00.lighthouse.json) |
-| [July 27 at 5:13 PM](https://archive.org/download/wsj-2022/wsj-2022-07-27T17:13:16.490352-04:00.lighthouse.json) |
-| [July 27 at 11:59 AM](https://archive.org/download/wsj-2022/wsj-2022-07-27T11:59:25.119876-04:00.lighthouse.json) |
-| [July 27 at 11:52 AM](https://archive.org/download/wsj-2022/wsj-2022-07-27T11:52:18.662096-04:00.lighthouse.json) |
-| [July 27 at 12:00 AM](https://archive.org/download/wsj-2022/wsj-2022-07-26T23:59:38.457607-04:00.lighthouse.json) |
-| [July 26 at 5:12 PM](https://archive.org/download/wsj-2022/wsj-2022-07-26T17:12:16.744018-04:00.lighthouse.json) |
-| [July 26 at 11:59 AM](https://archive.org/download/wsj-2022/wsj-2022-07-26T11:58:55.327368-04:00.lighthouse.json) |
-| [July 26 at 11:50 AM](https://archive.org/download/wsj-2022/wsj-2022-07-26T11:50:33.600816-04:00.lighthouse.json) |
-| [July 26 at 12:02 AM](https://archive.org/download/wsj-2022/wsj-2022-07-26T00:01:58.939239-04:00.lighthouse.json) |
-| [July 25 at 5:14 PM](https://archive.org/download/wsj-2022/wsj-2022-07-25T17:14:20.592396-04:00.lighthouse.json) |
+| [July 27 at 4:50 PM](https://archive.org/download/wsj-2022/wsj-2022-07-27T23:50:35.113712-04:00.lighthouse.json) |
+| [July 27 at 10:13 AM](https://archive.org/download/wsj-2022/wsj-2022-07-27T17:13:16.490352-04:00.lighthouse.json) |
+| [July 27 at 4:59 AM](https://archive.org/download/wsj-2022/wsj-2022-07-27T11:59:25.119876-04:00.lighthouse.json) |
+| [July 27 at 4:52 AM](https://archive.org/download/wsj-2022/wsj-2022-07-27T11:52:18.662096-04:00.lighthouse.json) |
+| [July 26 at 5:00 PM](https://archive.org/download/wsj-2022/wsj-2022-07-26T23:59:38.457607-04:00.lighthouse.json) |
+| [July 26 at 10:12 AM](https://archive.org/download/wsj-2022/wsj-2022-07-26T17:12:16.744018-04:00.lighthouse.json) |
+| [July 26 at 4:59 AM](https://archive.org/download/wsj-2022/wsj-2022-07-26T11:58:55.327368-04:00.lighthouse.json) |
+| [July 26 at 4:50 AM](https://archive.org/download/wsj-2022/wsj-2022-07-26T11:50:33.600816-04:00.lighthouse.json) |
+| [July 25 at 5:02 PM](https://archive.org/download/wsj-2022/wsj-2022-07-26T00:01:58.939239-04:00.lighthouse.json) |
+| [July 25 at 10:14 AM](https://archive.org/download/wsj-2022/wsj-2022-07-25T17:14:20.592396-04:00.lighthouse.json) |
 
 
 

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-28T05:03:59.992971-06:00.jpg">
   <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-28T05:03:59.992971-06:00.jpg"
-     alt="Albuquerque Journal at 2022-07-28 05:04:10-06:00 local time"
+     alt="Albuquerque Journal at 2022-07-27 22:04:10-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-28T05:03:59.992971-06:00.jpg">July 28 at 5:04 AM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-28T05:03:59.992971-06:00.jpg">July 27 at 10:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T17:00:16.670141-06:00.jpg">
   <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T17:00:16.670141-06:00.jpg"
-     alt="Albuquerque Journal at 2022-07-27 17:00:22-06:00 local time"
+     alt="Albuquerque Journal at 2022-07-27 10:00:22-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T17:00:16.670141-06:00.jpg">July 27 at 5:00 PM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T17:00:16.670141-06:00.jpg">July 27 at 10:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T05:01:21.478359-06:00.jpg">
   <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T05:01:21.478359-06:00.jpg"
-     alt="Albuquerque Journal at 2022-07-27 05:01:30-06:00 local time"
+     alt="Albuquerque Journal at 2022-07-26 22:01:30-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T05:01:21.478359-06:00.jpg">July 27 at 5:01 AM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T05:01:21.478359-06:00.jpg">July 26 at 10:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T17:01:55.343590-06:00.jpg">
   <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T17:01:55.343590-06:00.jpg"
-     alt="Albuquerque Journal at 2022-07-26 17:01:59-06:00 local time"
+     alt="Albuquerque Journal at 2022-07-26 10:01:59-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T17:01:55.343590-06:00.jpg">July 26 at 5:01 PM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T17:01:55.343590-06:00.jpg">July 26 at 10:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T05:11:44.994020-06:00.jpg">
   <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T05:11:44.994020-06:00.jpg"
-     alt="Albuquerque Journal at 2022-07-26 05:11:48-06:00 local time"
+     alt="Albuquerque Journal at 2022-07-25 22:11:48-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T05:11:44.994020-06:00.jpg">July 26 at 5:11 AM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T05:11:44.994020-06:00.jpg">July 25 at 10:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T17:05:51.403974-06:00.jpg">
   <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T17:05:51.403974-06:00.jpg"
-     alt="Albuquerque Journal at 2022-07-25 17:05:57-06:00 local time"
+     alt="Albuquerque Journal at 2022-07-25 10:05:57-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T17:05:51.403974-06:00.jpg">July 25 at 5:05 PM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T17:05:51.403974-06:00.jpg">July 25 at 10:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T04:56:16.169444-06:00.jpg">
   <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T04:56:16.169444-06:00.jpg"
-     alt="Albuquerque Journal at 2022-07-25 04:56:20-06:00 local time"
+     alt="Albuquerque Journal at 2022-07-24 21:56:20-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T04:56:16.169444-06:00.jpg">July 25 at 4:56 AM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T04:56:16.169444-06:00.jpg">July 24 at 9:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T18:45:18.198813-06:00.jpg">
   <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T18:45:18.198813-06:00.jpg"
-     alt="Albuquerque Journal at 2022-07-24 18:45:22-06:00 local time"
+     alt="Albuquerque Journal at 2022-07-24 11:45:22-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T18:45:18.198813-06:00.jpg">July 24 at 6:45 PM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T18:45:18.198813-06:00.jpg">July 24 at 11:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T04:54:57.019628-06:00.jpg">
   <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T04:54:57.019628-06:00.jpg"
-     alt="Albuquerque Journal at 2022-07-24 04:55:01-06:00 local time"
+     alt="Albuquerque Journal at 2022-07-23 21:55:01-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T04:54:57.019628-06:00.jpg">July 24 at 4:55 AM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T04:54:57.019628-06:00.jpg">July 23 at 9:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T16:57:56.377771-06:00.jpg">
   <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T16:57:56.377771-06:00.jpg"
-     alt="Albuquerque Journal at 2022-07-23 16:57:58-06:00 local time"
+     alt="Albuquerque Journal at 2022-07-23 09:57:58-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T16:57:56.377771-06:00.jpg">July 23 at 4:57 PM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T16:57:56.377771-06:00.jpg">July 23 at 9:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T06:54:17.746605-06:00.jpg">
   <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T06:54:17.746605-06:00.jpg"
-     alt="Albuquerque Journal at 2022-07-23 06:54:19-06:00 local time"
+     alt="Albuquerque Journal at 2022-07-22 23:54:19-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T06:54:17.746605-06:00.jpg">July 23 at 6:54 AM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T06:54:17.746605-06:00.jpg">July 22 at 11:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-22T18:56:05.851031-06:00.jpg">
   <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-22T18:56:05.851031-06:00.jpg"
-     alt="Albuquerque Journal at 2022-07-22 18:56:07-06:00 local time"
+     alt="Albuquerque Journal at 2022-07-22 11:56:07-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-22T18:56:05.851031-06:00.jpg">July 22 at 6:56 PM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-22T18:56:05.851031-06:00.jpg">July 22 at 11:56 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 5:04 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-28T05:03:59.992971-06:00.hyperlinks.json) |
-| [July 27 at 5:00 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T17:00:16.670141-06:00.hyperlinks.json) |
-| [July 27 at 5:01 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T05:01:21.478359-06:00.hyperlinks.json) |
-| [July 26 at 5:02 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T17:01:55.343590-06:00.hyperlinks.json) |
-| [July 26 at 5:11 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T05:11:44.994020-06:00.hyperlinks.json) |
-| [July 25 at 5:06 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T17:05:51.403974-06:00.hyperlinks.json) |
-| [July 25 at 4:56 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T04:56:16.169444-06:00.hyperlinks.json) |
-| [July 24 at 6:45 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T18:45:18.198813-06:00.hyperlinks.json) |
-| [July 24 at 4:55 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T04:54:57.019628-06:00.hyperlinks.json) |
-| [July 23 at 4:58 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T16:57:56.377771-06:00.hyperlinks.json) |
+| [July 27 at 10:04 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-28T05:03:59.992971-06:00.hyperlinks.json) |
+| [July 27 at 10:00 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T17:00:16.670141-06:00.hyperlinks.json) |
+| [July 26 at 10:01 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T05:01:21.478359-06:00.hyperlinks.json) |
+| [July 26 at 10:02 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T17:01:55.343590-06:00.hyperlinks.json) |
+| [July 25 at 10:11 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T05:11:44.994020-06:00.hyperlinks.json) |
+| [July 25 at 10:06 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T17:05:51.403974-06:00.hyperlinks.json) |
+| [July 24 at 9:56 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T04:56:16.169444-06:00.hyperlinks.json) |
+| [July 24 at 11:45 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T18:45:18.198813-06:00.hyperlinks.json) |
+| [July 23 at 9:55 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T04:54:57.019628-06:00.hyperlinks.json) |
+| [July 23 at 9:58 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T16:57:56.377771-06:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 5:04 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-28T05:03:59.992971-06:00.accessibility.json) |
-| [July 27 at 5:00 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T17:00:16.670141-06:00.accessibility.json) |
-| [July 27 at 5:01 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T05:01:21.478359-06:00.accessibility.json) |
-| [July 26 at 5:02 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T17:01:55.343590-06:00.accessibility.json) |
-| [July 26 at 5:11 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T05:11:44.994020-06:00.accessibility.json) |
-| [July 25 at 5:05 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T17:05:51.403974-06:00.accessibility.json) |
-| [July 25 at 4:56 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T04:56:16.169444-06:00.accessibility.json) |
-| [July 24 at 6:45 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T18:45:18.198813-06:00.accessibility.json) |
-| [July 24 at 4:55 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T04:54:57.019628-06:00.accessibility.json) |
-| [July 23 at 4:57 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T16:57:56.377771-06:00.accessibility.json) |
+| [July 27 at 10:04 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-28T05:03:59.992971-06:00.accessibility.json) |
+| [July 27 at 10:00 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T17:00:16.670141-06:00.accessibility.json) |
+| [July 26 at 10:01 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T05:01:21.478359-06:00.accessibility.json) |
+| [July 26 at 10:02 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T17:01:55.343590-06:00.accessibility.json) |
+| [July 25 at 10:11 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T05:11:44.994020-06:00.accessibility.json) |
+| [July 25 at 10:05 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T17:05:51.403974-06:00.accessibility.json) |
+| [July 24 at 9:56 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T04:56:16.169444-06:00.accessibility.json) |
+| [July 24 at 11:45 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T18:45:18.198813-06:00.accessibility.json) |
+| [July 23 at 9:55 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T04:54:57.019628-06:00.accessibility.json) |
+| [July 23 at 9:57 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T16:57:56.377771-06:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 5:04 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-28T05:03:59.992971-06:00.lighthouse.json) |
-| [July 27 at 5:00 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T17:00:16.670141-06:00.lighthouse.json) |
-| [July 27 at 5:01 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T05:01:21.478359-06:00.lighthouse.json) |
-| [July 26 at 5:02 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T17:01:55.343590-06:00.lighthouse.json) |
-| [July 26 at 5:11 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T05:11:44.994020-06:00.lighthouse.json) |
-| [July 25 at 5:06 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T17:05:51.403974-06:00.lighthouse.json) |
-| [July 25 at 4:56 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T04:56:16.169444-06:00.lighthouse.json) |
-| [July 24 at 6:45 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T18:45:18.198813-06:00.lighthouse.json) |
-| [July 24 at 4:55 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T04:54:57.019628-06:00.lighthouse.json) |
-| [July 23 at 4:58 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T16:57:56.377771-06:00.lighthouse.json) |
+| [July 27 at 10:04 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-28T05:03:59.992971-06:00.lighthouse.json) |
+| [July 27 at 10:00 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T17:00:16.670141-06:00.lighthouse.json) |
+| [July 26 at 10:01 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T05:01:21.478359-06:00.lighthouse.json) |
+| [July 26 at 10:02 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T17:01:55.343590-06:00.lighthouse.json) |
+| [July 25 at 10:11 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-26T05:11:44.994020-06:00.lighthouse.json) |
+| [July 25 at 10:06 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T17:05:51.403974-06:00.lighthouse.json) |
+| [July 24 at 9:56 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T04:56:16.169444-06:00.lighthouse.json) |
+| [July 24 at 11:45 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T18:45:18.198813-06:00.lighthouse.json) |
+| [July 23 at 9:55 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T04:54:57.019628-06:00.lighthouse.json) |
+| [July 23 at 9:58 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T16:57:56.377771-06:00.lighthouse.json) |
 
 
 

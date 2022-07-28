@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 662 sites.
+The archiving routine is currently capturing 663 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -648,6 +648,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Weather Channel](https://palewi.re/docs/news-homepages/sites/weatherchannel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/weatherchannel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/weatherchannel.xml)|
 |[Western Gazette](https://palewi.re/docs/news-homepages/sites/uwogazette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/uwogazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/uwogazette.xml)|
 |[WFAA](https://palewi.re/docs/news-homepages/sites/wfaa.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wfaa.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wfaa.xml)|
+|[WGN](https://palewi.re/docs/news-homepages/sites/wgnnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wgnnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wgnnews.xml)|
 |[WHYY](https://palewi.re/docs/news-homepages/sites/whyynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/whyynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/whyynews.xml)|
 |[Windows Central](https://palewi.re/docs/news-homepages/sites/windowscentral.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/windowscentral.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/windowscentral.xml)|
 |[Wired](https://palewi.re/docs/news-homepages/sites/wired.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wired.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wired.xml)|

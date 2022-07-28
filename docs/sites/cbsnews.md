@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-28T07:07:49.642950-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-28T07:07:49.642950-04:00.jpg"
-     alt="CBS News at 2022-07-28 07:07:59-04:00 local time"
+     alt="CBS News at 2022-07-28 00:07:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-28T07:07:49.642950-04:00.jpg">July 28 at 7:07 AM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-28T07:07:49.642950-04:00.jpg">July 28 at 12:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T19:03:48.551026-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T19:03:48.551026-04:00.jpg"
-     alt="CBS News at 2022-07-27 19:03:50-04:00 local time"
+     alt="CBS News at 2022-07-27 12:03:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T19:03:48.551026-04:00.jpg">July 27 at 7:03 PM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T19:03:48.551026-04:00.jpg">July 27 at 12:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T17:14:21.793346-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T17:14:21.793346-04:00.jpg"
-     alt="CBS News at 2022-07-27 17:14:30-04:00 local time"
+     alt="CBS News at 2022-07-27 10:14:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T17:14:21.793346-04:00.jpg">July 27 at 5:14 PM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T17:14:21.793346-04:00.jpg">July 27 at 10:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T11:58:54.835007-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T11:58:54.835007-04:00.jpg"
-     alt="CBS News at 2022-07-27 11:58:57-04:00 local time"
+     alt="CBS News at 2022-07-27 04:58:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T11:58:54.835007-04:00.jpg">July 27 at 11:58 AM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T11:58:54.835007-04:00.jpg">July 27 at 4:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T07:04:01.979339-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T07:04:01.979339-04:00.jpg"
-     alt="CBS News at 2022-07-27 07:04:09-04:00 local time"
+     alt="CBS News at 2022-07-27 00:04:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T07:04:01.979339-04:00.jpg">July 27 at 7:04 AM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T07:04:01.979339-04:00.jpg">July 27 at 12:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T19:06:06.438358-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T19:06:06.438358-04:00.jpg"
-     alt="CBS News at 2022-07-26 19:06:08-04:00 local time"
+     alt="CBS News at 2022-07-26 12:06:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T19:06:06.438358-04:00.jpg">July 26 at 7:06 PM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T19:06:06.438358-04:00.jpg">July 26 at 12:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T17:12:00.938988-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T17:12:00.938988-04:00.jpg"
-     alt="CBS News at 2022-07-26 17:12:03-04:00 local time"
+     alt="CBS News at 2022-07-26 10:12:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T17:12:00.938988-04:00.jpg">July 26 at 5:12 PM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T17:12:00.938988-04:00.jpg">July 26 at 10:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T11:58:04.018997-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T11:58:04.018997-04:00.jpg"
-     alt="CBS News at 2022-07-26 11:58:06-04:00 local time"
+     alt="CBS News at 2022-07-26 04:58:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T11:58:04.018997-04:00.jpg">July 26 at 11:58 AM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T11:58:04.018997-04:00.jpg">July 26 at 4:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T07:14:14.963422-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T07:14:14.963422-04:00.jpg"
-     alt="CBS News at 2022-07-26 07:14:37-04:00 local time"
+     alt="CBS News at 2022-07-26 00:14:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T07:14:14.963422-04:00.jpg">July 26 at 7:14 AM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T07:14:14.963422-04:00.jpg">July 26 at 12:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T19:09:50.919811-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T19:09:50.919811-04:00.jpg"
-     alt="CBS News at 2022-07-25 19:09:58-04:00 local time"
+     alt="CBS News at 2022-07-25 12:09:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T19:09:50.919811-04:00.jpg">July 25 at 7:09 PM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T19:09:50.919811-04:00.jpg">July 25 at 12:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T17:14:08.656210-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T17:14:08.656210-04:00.jpg"
-     alt="CBS News at 2022-07-25 17:14:19-04:00 local time"
+     alt="CBS News at 2022-07-25 10:14:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T17:14:08.656210-04:00.jpg">July 25 at 5:14 PM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T17:14:08.656210-04:00.jpg">July 25 at 10:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T11:55:58.222610-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T11:55:58.222610-04:00.jpg"
-     alt="CBS News at 2022-07-25 11:56:10-04:00 local time"
+     alt="CBS News at 2022-07-25 04:56:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T11:55:58.222610-04:00.jpg">July 25 at 11:56 AM</a></p>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T11:55:58.222610-04:00.jpg">July 25 at 4:56 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 7:08 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-28T07:07:49.642950-04:00.hyperlinks.json) |
-| [July 27 at 7:03 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T19:03:48.551026-04:00.hyperlinks.json) |
-| [July 27 at 5:14 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T17:14:21.793346-04:00.hyperlinks.json) |
-| [July 27 at 11:59 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T11:58:54.835007-04:00.hyperlinks.json) |
-| [July 27 at 7:04 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T07:04:01.979339-04:00.hyperlinks.json) |
-| [July 26 at 7:06 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T19:06:06.438358-04:00.hyperlinks.json) |
-| [July 26 at 5:12 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T17:12:00.938988-04:00.hyperlinks.json) |
-| [July 26 at 11:58 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T11:58:04.018997-04:00.hyperlinks.json) |
-| [July 26 at 7:14 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T07:14:14.963422-04:00.hyperlinks.json) |
-| [July 25 at 7:10 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T19:09:50.919811-04:00.hyperlinks.json) |
+| [July 28 at 12:08 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-28T07:07:49.642950-04:00.hyperlinks.json) |
+| [July 27 at 12:03 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T19:03:48.551026-04:00.hyperlinks.json) |
+| [July 27 at 10:14 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T17:14:21.793346-04:00.hyperlinks.json) |
+| [July 27 at 4:59 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T11:58:54.835007-04:00.hyperlinks.json) |
+| [July 27 at 12:04 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T07:04:01.979339-04:00.hyperlinks.json) |
+| [July 26 at 12:06 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T19:06:06.438358-04:00.hyperlinks.json) |
+| [July 26 at 10:12 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T17:12:00.938988-04:00.hyperlinks.json) |
+| [July 26 at 4:58 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T11:58:04.018997-04:00.hyperlinks.json) |
+| [July 26 at 12:14 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T07:14:14.963422-04:00.hyperlinks.json) |
+| [July 25 at 12:10 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T19:09:50.919811-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 7:08 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-28T07:07:49.642950-04:00.accessibility.json) |
-| [July 27 at 7:03 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T19:03:48.551026-04:00.accessibility.json) |
-| [July 27 at 5:14 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T17:14:21.793346-04:00.accessibility.json) |
-| [July 27 at 11:58 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T11:58:54.835007-04:00.accessibility.json) |
-| [July 27 at 7:04 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T07:04:01.979339-04:00.accessibility.json) |
-| [July 26 at 7:06 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T19:06:06.438358-04:00.accessibility.json) |
-| [July 26 at 5:12 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T17:12:00.938988-04:00.accessibility.json) |
-| [July 26 at 11:58 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T11:58:04.018997-04:00.accessibility.json) |
-| [July 26 at 7:14 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T07:14:14.963422-04:00.accessibility.json) |
-| [July 25 at 7:10 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T19:09:50.919811-04:00.accessibility.json) |
+| [July 28 at 12:08 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-28T07:07:49.642950-04:00.accessibility.json) |
+| [July 27 at 12:03 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T19:03:48.551026-04:00.accessibility.json) |
+| [July 27 at 10:14 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T17:14:21.793346-04:00.accessibility.json) |
+| [July 27 at 4:58 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T11:58:54.835007-04:00.accessibility.json) |
+| [July 27 at 12:04 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T07:04:01.979339-04:00.accessibility.json) |
+| [July 26 at 12:06 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T19:06:06.438358-04:00.accessibility.json) |
+| [July 26 at 10:12 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T17:12:00.938988-04:00.accessibility.json) |
+| [July 26 at 4:58 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T11:58:04.018997-04:00.accessibility.json) |
+| [July 26 at 12:14 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T07:14:14.963422-04:00.accessibility.json) |
+| [July 25 at 12:10 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T19:09:50.919811-04:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 7:08 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-28T07:07:49.642950-04:00.lighthouse.json) |
-| [July 27 at 7:03 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T19:03:48.551026-04:00.lighthouse.json) |
-| [July 27 at 5:14 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T17:14:21.793346-04:00.lighthouse.json) |
-| [July 27 at 11:59 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T11:58:54.835007-04:00.lighthouse.json) |
-| [July 27 at 7:04 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T07:04:01.979339-04:00.lighthouse.json) |
-| [July 26 at 7:06 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T19:06:06.438358-04:00.lighthouse.json) |
-| [July 26 at 5:12 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T17:12:00.938988-04:00.lighthouse.json) |
-| [July 26 at 11:58 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T11:58:04.018997-04:00.lighthouse.json) |
-| [July 26 at 7:14 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T07:14:14.963422-04:00.lighthouse.json) |
-| [July 25 at 7:10 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T19:09:50.919811-04:00.lighthouse.json) |
+| [July 28 at 12:08 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-28T07:07:49.642950-04:00.lighthouse.json) |
+| [July 27 at 12:03 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T19:03:48.551026-04:00.lighthouse.json) |
+| [July 27 at 10:14 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T17:14:21.793346-04:00.lighthouse.json) |
+| [July 27 at 4:59 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T11:58:54.835007-04:00.lighthouse.json) |
+| [July 27 at 12:04 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-27T07:04:01.979339-04:00.lighthouse.json) |
+| [July 26 at 12:06 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T19:06:06.438358-04:00.lighthouse.json) |
+| [July 26 at 10:12 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T17:12:00.938988-04:00.lighthouse.json) |
+| [July 26 at 4:58 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T11:58:04.018997-04:00.lighthouse.json) |
+| [July 26 at 12:14 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-26T07:14:14.963422-04:00.lighthouse.json) |
+| [July 25 at 12:10 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-07-25T19:09:50.919811-04:00.lighthouse.json) |
 
 
 

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T20:49:03.992855-07:00.jpg">
   <img src="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T20:49:03.992855-07:00.jpg"
-     alt="Voice of San Diego at 2022-07-27 20:49:06-07:00 local time"
+     alt="Voice of San Diego at 2022-07-27 13:49:06-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T20:49:03.992855-07:00.jpg">July 27 at 8:49 PM</a></p>
+ <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T20:49:03.992855-07:00.jpg">July 27 at 1:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T08:51:46.434678-07:00.jpg">
   <img src="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T08:51:46.434678-07:00.jpg"
-     alt="Voice of San Diego at 2022-07-27 08:51:49-07:00 local time"
+     alt="Voice of San Diego at 2022-07-27 01:51:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T08:51:46.434678-07:00.jpg">July 27 at 8:51 AM</a></p>
+ <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T08:51:46.434678-07:00.jpg">July 27 at 1:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T20:58:04.434379-07:00.jpg">
   <img src="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T20:58:04.434379-07:00.jpg"
-     alt="Voice of San Diego at 2022-07-26 20:58:06-07:00 local time"
+     alt="Voice of San Diego at 2022-07-26 13:58:06-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T20:58:04.434379-07:00.jpg">July 26 at 8:58 PM</a></p>
+ <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T20:58:04.434379-07:00.jpg">July 26 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T11:34:10.364270-07:00.jpg">
   <img src="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T11:34:10.364270-07:00.jpg"
-     alt="Voice of San Diego at 2022-07-26 11:34:12-07:00 local time"
+     alt="Voice of San Diego at 2022-07-26 04:34:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T11:34:10.364270-07:00.jpg">July 26 at 11:34 AM</a></p>
+ <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T11:34:10.364270-07:00.jpg">July 26 at 4:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T08:49:46.842199-07:00.jpg">
   <img src="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T08:49:46.842199-07:00.jpg"
-     alt="Voice of San Diego at 2022-07-26 08:49:48-07:00 local time"
+     alt="Voice of San Diego at 2022-07-26 01:49:48-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T08:49:46.842199-07:00.jpg">July 26 at 8:49 AM</a></p>
+ <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T08:49:46.842199-07:00.jpg">July 26 at 1:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T21:01:05.195076-07:00.jpg">
   <img src="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T21:01:05.195076-07:00.jpg"
-     alt="Voice of San Diego at 2022-07-25 21:01:17-07:00 local time"
+     alt="Voice of San Diego at 2022-07-25 14:01:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T21:01:05.195076-07:00.jpg">July 25 at 9:01 PM</a></p>
+ <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T21:01:05.195076-07:00.jpg">July 25 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T11:14:35.754183-07:00.jpg">
   <img src="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T11:14:35.754183-07:00.jpg"
-     alt="Voice of San Diego at 2022-07-25 11:14:37-07:00 local time"
+     alt="Voice of San Diego at 2022-07-25 04:14:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T11:14:35.754183-07:00.jpg">July 25 at 11:14 AM</a></p>
+ <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T11:14:35.754183-07:00.jpg">July 25 at 4:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T08:52:46.304542-07:00.jpg">
   <img src="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T08:52:46.304542-07:00.jpg"
-     alt="Voice of San Diego at 2022-07-25 08:52:48-07:00 local time"
+     alt="Voice of San Diego at 2022-07-25 01:52:48-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T08:52:46.304542-07:00.jpg">July 25 at 8:52 AM</a></p>
+ <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T08:52:46.304542-07:00.jpg">July 25 at 1:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T21:40:44.435867-07:00.jpg">
   <img src="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T21:40:44.435867-07:00.jpg"
-     alt="Voice of San Diego at 2022-07-24 21:40:45-07:00 local time"
+     alt="Voice of San Diego at 2022-07-24 14:40:45-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T21:40:44.435867-07:00.jpg">July 24 at 9:40 PM</a></p>
+ <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T21:40:44.435867-07:00.jpg">July 24 at 2:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T11:22:35.549409-07:00.jpg">
   <img src="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T11:22:35.549409-07:00.jpg"
-     alt="Voice of San Diego at 2022-07-24 11:22:44-07:00 local time"
+     alt="Voice of San Diego at 2022-07-24 04:22:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T11:22:35.549409-07:00.jpg">July 24 at 11:22 AM</a></p>
+ <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T11:22:35.549409-07:00.jpg">July 24 at 4:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T08:10:31.646252-07:00.jpg">
   <img src="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T08:10:31.646252-07:00.jpg"
-     alt="Voice of San Diego at 2022-07-24 08:10:36-07:00 local time"
+     alt="Voice of San Diego at 2022-07-24 01:10:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T08:10:31.646252-07:00.jpg">July 24 at 8:10 AM</a></p>
+ <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T08:10:31.646252-07:00.jpg">July 24 at 1:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-23T20:45:41.961386-07:00.jpg">
   <img src="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-23T20:45:41.961386-07:00.jpg"
-     alt="Voice of San Diego at 2022-07-23 20:45:48-07:00 local time"
+     alt="Voice of San Diego at 2022-07-23 13:45:48-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-23T20:45:41.961386-07:00.jpg">July 23 at 8:45 PM</a></p>
+ <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-23T20:45:41.961386-07:00.jpg">July 23 at 1:45 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 8:49 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T20:49:03.992855-07:00.hyperlinks.json) |
-| [July 27 at 8:51 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T08:51:46.434678-07:00.hyperlinks.json) |
-| [July 26 at 8:58 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T20:58:04.434379-07:00.hyperlinks.json) |
-| [July 26 at 11:34 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T11:34:10.364270-07:00.hyperlinks.json) |
-| [July 26 at 8:49 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T08:49:46.842199-07:00.hyperlinks.json) |
-| [July 25 at 9:01 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T21:01:05.195076-07:00.hyperlinks.json) |
-| [July 25 at 11:14 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T11:14:35.754183-07:00.hyperlinks.json) |
-| [July 25 at 8:52 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T08:52:46.304542-07:00.hyperlinks.json) |
-| [July 24 at 9:40 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T21:40:44.435867-07:00.hyperlinks.json) |
-| [July 24 at 11:22 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T11:22:35.549409-07:00.hyperlinks.json) |
+| [July 27 at 1:49 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T20:49:03.992855-07:00.hyperlinks.json) |
+| [July 27 at 1:51 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T08:51:46.434678-07:00.hyperlinks.json) |
+| [July 26 at 1:58 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T20:58:04.434379-07:00.hyperlinks.json) |
+| [July 26 at 4:34 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T11:34:10.364270-07:00.hyperlinks.json) |
+| [July 26 at 1:49 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T08:49:46.842199-07:00.hyperlinks.json) |
+| [July 25 at 2:01 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T21:01:05.195076-07:00.hyperlinks.json) |
+| [July 25 at 4:14 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T11:14:35.754183-07:00.hyperlinks.json) |
+| [July 25 at 1:52 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T08:52:46.304542-07:00.hyperlinks.json) |
+| [July 24 at 2:40 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T21:40:44.435867-07:00.hyperlinks.json) |
+| [July 24 at 4:22 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T11:22:35.549409-07:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 8:49 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T20:49:03.992855-07:00.accessibility.json) |
-| [July 27 at 8:51 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T08:51:46.434678-07:00.accessibility.json) |
-| [July 26 at 8:58 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T20:58:04.434379-07:00.accessibility.json) |
-| [July 26 at 11:34 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T11:34:10.364270-07:00.accessibility.json) |
-| [July 26 at 8:49 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T08:49:46.842199-07:00.accessibility.json) |
-| [July 25 at 9:01 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T21:01:05.195076-07:00.accessibility.json) |
-| [July 25 at 11:14 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T11:14:35.754183-07:00.accessibility.json) |
-| [July 25 at 8:52 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T08:52:46.304542-07:00.accessibility.json) |
-| [July 24 at 9:40 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T21:40:44.435867-07:00.accessibility.json) |
-| [July 24 at 11:22 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T11:22:35.549409-07:00.accessibility.json) |
+| [July 27 at 1:49 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T20:49:03.992855-07:00.accessibility.json) |
+| [July 27 at 1:51 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T08:51:46.434678-07:00.accessibility.json) |
+| [July 26 at 1:58 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T20:58:04.434379-07:00.accessibility.json) |
+| [July 26 at 4:34 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T11:34:10.364270-07:00.accessibility.json) |
+| [July 26 at 1:49 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T08:49:46.842199-07:00.accessibility.json) |
+| [July 25 at 2:01 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T21:01:05.195076-07:00.accessibility.json) |
+| [July 25 at 4:14 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T11:14:35.754183-07:00.accessibility.json) |
+| [July 25 at 1:52 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T08:52:46.304542-07:00.accessibility.json) |
+| [July 24 at 2:40 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T21:40:44.435867-07:00.accessibility.json) |
+| [July 24 at 4:22 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T11:22:35.549409-07:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 8:49 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T20:49:03.992855-07:00.lighthouse.json) |
-| [July 27 at 8:51 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T08:51:46.434678-07:00.lighthouse.json) |
-| [July 26 at 8:58 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T20:58:04.434379-07:00.lighthouse.json) |
-| [July 26 at 11:34 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T11:34:10.364270-07:00.lighthouse.json) |
-| [July 26 at 8:49 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T08:49:46.842199-07:00.lighthouse.json) |
-| [July 25 at 9:01 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T21:01:05.195076-07:00.lighthouse.json) |
-| [July 25 at 11:14 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T11:14:35.754183-07:00.lighthouse.json) |
-| [July 25 at 8:52 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T08:52:46.304542-07:00.lighthouse.json) |
-| [July 24 at 9:40 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T21:40:44.435867-07:00.lighthouse.json) |
-| [July 24 at 11:22 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T11:22:35.549409-07:00.lighthouse.json) |
+| [July 27 at 1:49 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T20:49:03.992855-07:00.lighthouse.json) |
+| [July 27 at 1:51 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-27T08:51:46.434678-07:00.lighthouse.json) |
+| [July 26 at 1:58 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T20:58:04.434379-07:00.lighthouse.json) |
+| [July 26 at 4:34 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T11:34:10.364270-07:00.lighthouse.json) |
+| [July 26 at 1:49 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-26T08:49:46.842199-07:00.lighthouse.json) |
+| [July 25 at 2:01 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T21:01:05.195076-07:00.lighthouse.json) |
+| [July 25 at 4:14 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T11:14:35.754183-07:00.lighthouse.json) |
+| [July 25 at 1:52 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-25T08:52:46.304542-07:00.lighthouse.json) |
+| [July 24 at 2:40 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T21:40:44.435867-07:00.lighthouse.json) |
+| [July 24 at 4:22 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-07-24T11:22:35.549409-07:00.lighthouse.json) |
 
 
 

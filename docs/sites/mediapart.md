@@ -31,73 +31,73 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-28T10:10:27.229746+02:00.jpg">
   <img src="https://archive.org/download/mediapart-2022/mediapart-2022-07-28T10:10:27.229746+02:00.jpg"
-     alt="Mediapart at 2022-07-28 10:10:28+02:00 local time"
+     alt="Mediapart at 2022-07-28 03:10:28+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-28T10:10:27.229746+02:00.jpg">July 28 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-28T10:10:27.229746+02:00.jpg">July 28 at 3:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-28T02:06:16.295719+02:00.jpg">
   <img src="https://archive.org/download/mediapart-2022/mediapart-2022-07-28T02:06:16.295719+02:00.jpg"
-     alt="Mediapart at 2022-07-28 02:06:18+02:00 local time"
+     alt="Mediapart at 2022-07-27 19:06:18+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-28T02:06:16.295719+02:00.jpg">July 28 at 2:06 AM</a></p>
+ <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-28T02:06:16.295719+02:00.jpg">July 27 at 7:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-27T15:09:57.336309+02:00.jpg">
   <img src="https://archive.org/download/mediapart-2022/mediapart-2022-07-27T15:09:57.336309+02:00.jpg"
-     alt="Mediapart at 2022-07-27 15:09:58+02:00 local time"
+     alt="Mediapart at 2022-07-27 08:09:58+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-27T15:09:57.336309+02:00.jpg">July 27 at 3:09 PM</a></p>
+ <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-27T15:09:57.336309+02:00.jpg">July 27 at 8:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-27T10:13:24.082183+02:00.jpg">
   <img src="https://archive.org/download/mediapart-2022/mediapart-2022-07-27T10:13:24.082183+02:00.jpg"
-     alt="Mediapart at 2022-07-27 10:13:26+02:00 local time"
+     alt="Mediapart at 2022-07-27 03:13:26+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-27T10:13:24.082183+02:00.jpg">July 27 at 10:13 AM</a></p>
+ <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-27T10:13:24.082183+02:00.jpg">July 27 at 3:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-27T02:14:48.634484+02:00.jpg">
   <img src="https://archive.org/download/mediapart-2022/mediapart-2022-07-27T02:14:48.634484+02:00.jpg"
-     alt="Mediapart at 2022-07-27 02:14:49+02:00 local time"
+     alt="Mediapart at 2022-07-26 19:14:49+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-27T02:14:48.634484+02:00.jpg">July 27 at 2:14 AM</a></p>
+ <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-27T02:14:48.634484+02:00.jpg">July 26 at 7:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T14:24:20.713952+02:00.jpg">
   <img src="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T14:24:20.713952+02:00.jpg"
-     alt="Mediapart at 2022-07-26 14:24:22+02:00 local time"
+     alt="Mediapart at 2022-07-26 07:24:22+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T14:24:20.713952+02:00.jpg">July 26 at 2:24 PM</a></p>
+ <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T14:24:20.713952+02:00.jpg">July 26 at 7:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T10:09:14.858679+02:00.jpg">
   <img src="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T10:09:14.858679+02:00.jpg"
-     alt="Mediapart at 2022-07-26 10:09:16+02:00 local time"
+     alt="Mediapart at 2022-07-26 03:09:16+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T10:09:14.858679+02:00.jpg">July 26 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T10:09:14.858679+02:00.jpg">July 26 at 3:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.jpg">
   <img src="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.jpg"
-     alt="Mediapart at 2022-07-26 02:19:36+02:00 local time"
+     alt="Mediapart at 2022-07-25 19:19:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.jpg">July 26 at 2:19 AM</a></p>
+ <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.jpg">July 25 at 7:19 PM</a></p>
 </div>
 
 </div>
@@ -112,14 +112,14 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 10:10 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-28T10:10:27.229746+02:00.hyperlinks.json) |
-| [July 28 at 2:06 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-28T02:06:16.295719+02:00.hyperlinks.json) |
-| [July 27 at 3:10 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T15:09:57.336309+02:00.hyperlinks.json) |
-| [July 27 at 10:13 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T10:13:24.082183+02:00.hyperlinks.json) |
-| [July 27 at 2:14 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T02:14:48.634484+02:00.hyperlinks.json) |
-| [July 26 at 2:24 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T14:24:20.713952+02:00.hyperlinks.json) |
-| [July 26 at 10:09 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T10:09:14.858679+02:00.hyperlinks.json) |
-| [July 26 at 2:19 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.hyperlinks.json) |
+| [July 28 at 3:10 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-28T10:10:27.229746+02:00.hyperlinks.json) |
+| [July 27 at 7:06 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-28T02:06:16.295719+02:00.hyperlinks.json) |
+| [July 27 at 8:10 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T15:09:57.336309+02:00.hyperlinks.json) |
+| [July 27 at 3:13 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T10:13:24.082183+02:00.hyperlinks.json) |
+| [July 26 at 7:14 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T02:14:48.634484+02:00.hyperlinks.json) |
+| [July 26 at 7:24 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T14:24:20.713952+02:00.hyperlinks.json) |
+| [July 26 at 3:09 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T10:09:14.858679+02:00.hyperlinks.json) |
+| [July 25 at 7:19 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -132,14 +132,14 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 10:10 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-28T10:10:27.229746+02:00.accessibility.json) |
-| [July 28 at 2:06 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-28T02:06:16.295719+02:00.accessibility.json) |
-| [July 27 at 3:10 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T15:09:57.336309+02:00.accessibility.json) |
-| [July 27 at 10:13 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T10:13:24.082183+02:00.accessibility.json) |
-| [July 27 at 2:14 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T02:14:48.634484+02:00.accessibility.json) |
-| [July 26 at 2:24 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T14:24:20.713952+02:00.accessibility.json) |
-| [July 26 at 10:09 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T10:09:14.858679+02:00.accessibility.json) |
-| [July 26 at 2:19 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.accessibility.json) |
+| [July 28 at 3:10 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-28T10:10:27.229746+02:00.accessibility.json) |
+| [July 27 at 7:06 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-28T02:06:16.295719+02:00.accessibility.json) |
+| [July 27 at 8:10 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T15:09:57.336309+02:00.accessibility.json) |
+| [July 27 at 3:13 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T10:13:24.082183+02:00.accessibility.json) |
+| [July 26 at 7:14 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T02:14:48.634484+02:00.accessibility.json) |
+| [July 26 at 7:24 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T14:24:20.713952+02:00.accessibility.json) |
+| [July 26 at 3:09 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T10:09:14.858679+02:00.accessibility.json) |
+| [July 25 at 7:19 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.accessibility.json) |
 
 
 
@@ -153,14 +153,14 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 10:10 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-28T10:10:27.229746+02:00.lighthouse.json) |
-| [July 28 at 2:06 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-28T02:06:16.295719+02:00.lighthouse.json) |
-| [July 27 at 3:10 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T15:09:57.336309+02:00.lighthouse.json) |
-| [July 27 at 10:13 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T10:13:24.082183+02:00.lighthouse.json) |
-| [July 27 at 2:14 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T02:14:48.634484+02:00.lighthouse.json) |
-| [July 26 at 2:24 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T14:24:20.713952+02:00.lighthouse.json) |
-| [July 26 at 10:09 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T10:09:14.858679+02:00.lighthouse.json) |
-| [July 26 at 2:19 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.lighthouse.json) |
+| [July 28 at 3:10 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-28T10:10:27.229746+02:00.lighthouse.json) |
+| [July 27 at 7:06 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-28T02:06:16.295719+02:00.lighthouse.json) |
+| [July 27 at 8:10 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T15:09:57.336309+02:00.lighthouse.json) |
+| [July 27 at 3:13 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T10:13:24.082183+02:00.lighthouse.json) |
+| [July 26 at 7:14 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-27T02:14:48.634484+02:00.lighthouse.json) |
+| [July 26 at 7:24 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T14:24:20.713952+02:00.lighthouse.json) |
+| [July 26 at 3:09 AM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T10:09:14.858679+02:00.lighthouse.json) |
+| [July 25 at 7:19 PM](https://archive.org/download/mediapart-2022/mediapart-2022-07-26T02:19:30.291049+02:00.lighthouse.json) |
 
 
 

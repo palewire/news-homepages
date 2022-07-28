@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T23:43:09.755349-04:00.jpg">
   <img src="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T23:43:09.755349-04:00.jpg"
-     alt="Daily Wire at 2022-07-27 23:43:15-04:00 local time"
+     alt="Daily Wire at 2022-07-27 16:43:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T23:43:09.755349-04:00.jpg">July 27 at 11:43 PM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T23:43:09.755349-04:00.jpg">July 27 at 4:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T11:45:51.200955-04:00.jpg">
   <img src="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T11:45:51.200955-04:00.jpg"
-     alt="Daily Wire at 2022-07-27 11:45:52-04:00 local time"
+     alt="Daily Wire at 2022-07-27 04:45:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T11:45:51.200955-04:00.jpg">July 27 at 11:45 AM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T11:45:51.200955-04:00.jpg">July 27 at 4:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T23:52:21.976676-04:00.jpg">
   <img src="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T23:52:21.976676-04:00.jpg"
-     alt="Daily Wire at 2022-07-26 23:52:26-04:00 local time"
+     alt="Daily Wire at 2022-07-26 16:52:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T23:52:21.976676-04:00.jpg">July 26 at 11:52 PM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T23:52:21.976676-04:00.jpg">July 26 at 4:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T14:36:04.311679-04:00.jpg">
   <img src="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T14:36:04.311679-04:00.jpg"
-     alt="Daily Wire at 2022-07-26 14:36:06-04:00 local time"
+     alt="Daily Wire at 2022-07-26 07:36:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T14:36:04.311679-04:00.jpg">July 26 at 2:36 PM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T14:36:04.311679-04:00.jpg">July 26 at 7:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T11:44:15.413237-04:00.jpg">
   <img src="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T11:44:15.413237-04:00.jpg"
-     alt="Daily Wire at 2022-07-26 11:44:20-04:00 local time"
+     alt="Daily Wire at 2022-07-26 04:44:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T11:44:15.413237-04:00.jpg">July 26 at 11:44 AM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T11:44:15.413237-04:00.jpg">July 26 at 4:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T23:55:42.123575-04:00.jpg">
   <img src="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T23:55:42.123575-04:00.jpg"
-     alt="Daily Wire at 2022-07-25 23:55:47-04:00 local time"
+     alt="Daily Wire at 2022-07-25 16:55:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T23:55:42.123575-04:00.jpg">July 25 at 11:55 PM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T23:55:42.123575-04:00.jpg">July 25 at 4:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T14:39:05.388601-04:00.jpg">
   <img src="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T14:39:05.388601-04:00.jpg"
-     alt="Daily Wire at 2022-07-25 14:39:06-04:00 local time"
+     alt="Daily Wire at 2022-07-25 07:39:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T14:39:05.388601-04:00.jpg">July 25 at 2:39 PM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T14:39:05.388601-04:00.jpg">July 25 at 7:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T12:41:19.671905-04:00.jpg">
   <img src="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T12:41:19.671905-04:00.jpg"
-     alt="Daily Wire at 2022-07-25 12:41:22-04:00 local time"
+     alt="Daily Wire at 2022-07-25 05:41:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T12:41:19.671905-04:00.jpg">July 25 at 12:41 PM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T12:41:19.671905-04:00.jpg">July 25 at 5:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T11:39:13.826783-04:00.jpg">
   <img src="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T11:39:13.826783-04:00.jpg"
-     alt="Daily Wire at 2022-07-25 11:39:17-04:00 local time"
+     alt="Daily Wire at 2022-07-25 04:39:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T11:39:13.826783-04:00.jpg">July 25 at 11:39 AM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T11:39:13.826783-04:00.jpg">July 25 at 4:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T23:41:23.326128-04:00.jpg">
   <img src="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T23:41:23.326128-04:00.jpg"
-     alt="Daily Wire at 2022-07-24 23:41:25-04:00 local time"
+     alt="Daily Wire at 2022-07-24 16:41:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T23:41:23.326128-04:00.jpg">July 24 at 11:41 PM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T23:41:23.326128-04:00.jpg">July 24 at 4:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T11:45:03.762668-04:00.jpg">
   <img src="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T11:45:03.762668-04:00.jpg"
-     alt="Daily Wire at 2022-07-24 11:45:04-04:00 local time"
+     alt="Daily Wire at 2022-07-24 04:45:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T11:45:03.762668-04:00.jpg">July 24 at 11:45 AM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T11:45:03.762668-04:00.jpg">July 24 at 4:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T10:01:56.770252-04:00.jpg">
   <img src="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T10:01:56.770252-04:00.jpg"
-     alt="Daily Wire at 2022-07-24 10:01:58-04:00 local time"
+     alt="Daily Wire at 2022-07-24 03:01:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T10:01:56.770252-04:00.jpg">July 24 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T10:01:56.770252-04:00.jpg">July 24 at 3:01 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 11:43 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T23:43:09.755349-04:00.hyperlinks.json) |
-| [July 27 at 11:46 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T11:45:51.200955-04:00.hyperlinks.json) |
-| [July 26 at 2:36 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T14:36:04.311679-04:00.hyperlinks.json) |
-| [July 25 at 11:55 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T23:55:42.123575-04:00.hyperlinks.json) |
-| [July 25 at 2:39 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T14:39:05.388601-04:00.hyperlinks.json) |
-| [July 25 at 12:41 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T12:41:19.671905-04:00.hyperlinks.json) |
-| [July 25 at 11:39 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T11:39:13.826783-04:00.hyperlinks.json) |
-| [July 24 at 11:41 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T23:41:23.326128-04:00.hyperlinks.json) |
-| [July 24 at 11:45 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T11:45:03.762668-04:00.hyperlinks.json) |
-| [July 24 at 10:02 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T10:01:56.770252-04:00.hyperlinks.json) |
+| [July 27 at 4:43 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T23:43:09.755349-04:00.hyperlinks.json) |
+| [July 27 at 4:46 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T11:45:51.200955-04:00.hyperlinks.json) |
+| [July 26 at 7:36 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T14:36:04.311679-04:00.hyperlinks.json) |
+| [July 25 at 4:55 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T23:55:42.123575-04:00.hyperlinks.json) |
+| [July 25 at 7:39 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T14:39:05.388601-04:00.hyperlinks.json) |
+| [July 25 at 5:41 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T12:41:19.671905-04:00.hyperlinks.json) |
+| [July 25 at 4:39 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T11:39:13.826783-04:00.hyperlinks.json) |
+| [July 24 at 4:41 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T23:41:23.326128-04:00.hyperlinks.json) |
+| [July 24 at 4:45 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T11:45:03.762668-04:00.hyperlinks.json) |
+| [July 24 at 3:02 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T10:01:56.770252-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 11:43 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T23:43:09.755349-04:00.accessibility.json) |
-| [July 27 at 11:45 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T11:45:51.200955-04:00.accessibility.json) |
-| [July 26 at 11:52 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T23:52:21.976676-04:00.accessibility.json) |
-| [July 26 at 2:36 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T14:36:04.311679-04:00.accessibility.json) |
-| [July 26 at 11:44 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T11:44:15.413237-04:00.accessibility.json) |
-| [July 25 at 11:55 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T23:55:42.123575-04:00.accessibility.json) |
-| [July 25 at 2:39 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T14:39:05.388601-04:00.accessibility.json) |
-| [July 25 at 12:41 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T12:41:19.671905-04:00.accessibility.json) |
-| [July 25 at 11:39 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T11:39:13.826783-04:00.accessibility.json) |
-| [July 24 at 11:41 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T23:41:23.326128-04:00.accessibility.json) |
+| [July 27 at 4:43 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T23:43:09.755349-04:00.accessibility.json) |
+| [July 27 at 4:45 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T11:45:51.200955-04:00.accessibility.json) |
+| [July 26 at 4:52 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T23:52:21.976676-04:00.accessibility.json) |
+| [July 26 at 7:36 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T14:36:04.311679-04:00.accessibility.json) |
+| [July 26 at 4:44 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T11:44:15.413237-04:00.accessibility.json) |
+| [July 25 at 4:55 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T23:55:42.123575-04:00.accessibility.json) |
+| [July 25 at 7:39 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T14:39:05.388601-04:00.accessibility.json) |
+| [July 25 at 5:41 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T12:41:19.671905-04:00.accessibility.json) |
+| [July 25 at 4:39 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T11:39:13.826783-04:00.accessibility.json) |
+| [July 24 at 4:41 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T23:41:23.326128-04:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 11:43 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T23:43:09.755349-04:00.lighthouse.json) |
-| [July 27 at 11:46 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T11:45:51.200955-04:00.lighthouse.json) |
-| [July 26 at 11:52 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T23:52:21.976676-04:00.lighthouse.json) |
-| [July 26 at 2:36 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T14:36:04.311679-04:00.lighthouse.json) |
-| [July 26 at 11:44 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T11:44:15.413237-04:00.lighthouse.json) |
-| [July 25 at 11:55 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T23:55:42.123575-04:00.lighthouse.json) |
-| [July 25 at 2:39 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T14:39:05.388601-04:00.lighthouse.json) |
-| [July 25 at 12:41 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T12:41:19.671905-04:00.lighthouse.json) |
-| [July 25 at 11:39 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T11:39:13.826783-04:00.lighthouse.json) |
-| [July 24 at 11:41 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T23:41:23.326128-04:00.lighthouse.json) |
+| [July 27 at 4:43 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T23:43:09.755349-04:00.lighthouse.json) |
+| [July 27 at 4:46 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-27T11:45:51.200955-04:00.lighthouse.json) |
+| [July 26 at 4:52 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T23:52:21.976676-04:00.lighthouse.json) |
+| [July 26 at 7:36 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T14:36:04.311679-04:00.lighthouse.json) |
+| [July 26 at 4:44 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-26T11:44:15.413237-04:00.lighthouse.json) |
+| [July 25 at 4:55 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T23:55:42.123575-04:00.lighthouse.json) |
+| [July 25 at 7:39 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T14:39:05.388601-04:00.lighthouse.json) |
+| [July 25 at 5:41 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T12:41:19.671905-04:00.lighthouse.json) |
+| [July 25 at 4:39 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-25T11:39:13.826783-04:00.lighthouse.json) |
+| [July 24 at 4:41 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T23:41:23.326128-04:00.lighthouse.json) |
 
 
 

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-27T21:31:09.164275-04:00.jpg">
   <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-27T21:31:09.164275-04:00.jpg"
-     alt="The City at 2022-07-27 21:31:10-04:00 local time"
+     alt="The City at 2022-07-27 14:31:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-27T21:31:09.164275-04:00.jpg">July 27 at 9:31 PM</a></p>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-27T21:31:09.164275-04:00.jpg">July 27 at 2:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-27T09:22:15.063378-04:00.jpg">
   <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-27T09:22:15.063378-04:00.jpg"
-     alt="The City at 2022-07-27 09:22:17-04:00 local time"
+     alt="The City at 2022-07-27 02:22:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-27T09:22:15.063378-04:00.jpg">July 27 at 9:22 AM</a></p>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-27T09:22:15.063378-04:00.jpg">July 27 at 2:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-26T21:28:20.133836-04:00.jpg">
   <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-26T21:28:20.133836-04:00.jpg"
-     alt="The City at 2022-07-26 21:28:21-04:00 local time"
+     alt="The City at 2022-07-26 14:28:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-26T21:28:20.133836-04:00.jpg">July 26 at 9:28 PM</a></p>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-26T21:28:20.133836-04:00.jpg">July 26 at 2:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-26T09:30:02.974657-04:00.jpg">
   <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-26T09:30:02.974657-04:00.jpg"
-     alt="The City at 2022-07-26 09:30:05-04:00 local time"
+     alt="The City at 2022-07-26 02:30:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-26T09:30:02.974657-04:00.jpg">July 26 at 9:30 AM</a></p>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-26T09:30:02.974657-04:00.jpg">July 26 at 2:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T22:50:35.199012-04:00.jpg">
   <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T22:50:35.199012-04:00.jpg"
-     alt="The City at 2022-07-25 22:50:36-04:00 local time"
+     alt="The City at 2022-07-25 15:50:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T22:50:35.199012-04:00.jpg">July 25 at 10:50 PM</a></p>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T22:50:35.199012-04:00.jpg">July 25 at 3:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T21:35:59.727492-04:00.jpg">
   <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T21:35:59.727492-04:00.jpg"
-     alt="The City at 2022-07-25 21:36:01-04:00 local time"
+     alt="The City at 2022-07-25 14:36:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T21:35:59.727492-04:00.jpg">July 25 at 9:36 PM</a></p>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T21:35:59.727492-04:00.jpg">July 25 at 2:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T11:46:52.403493-04:00.jpg">
   <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T11:46:52.403493-04:00.jpg"
-     alt="The City at 2022-07-25 11:46:55-04:00 local time"
+     alt="The City at 2022-07-25 04:46:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T11:46:52.403493-04:00.jpg">July 25 at 11:46 AM</a></p>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T11:46:52.403493-04:00.jpg">July 25 at 4:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T00:36:25.082588-04:00.jpg">
   <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T00:36:25.082588-04:00.jpg"
-     alt="The City at 2022-07-25 00:36:27-04:00 local time"
+     alt="The City at 2022-07-24 17:36:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T00:36:25.082588-04:00.jpg">July 25 at 12:36 AM</a></p>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-25T00:36:25.082588-04:00.jpg">July 24 at 5:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-24T11:05:56.038237-04:00.jpg">
   <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-24T11:05:56.038237-04:00.jpg"
-     alt="The City at 2022-07-24 11:05:57-04:00 local time"
+     alt="The City at 2022-07-24 04:05:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-24T11:05:56.038237-04:00.jpg">July 24 at 11:05 AM</a></p>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-24T11:05:56.038237-04:00.jpg">July 24 at 4:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T23:41:00.516051-04:00.jpg">
   <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T23:41:00.516051-04:00.jpg"
-     alt="The City at 2022-07-23 23:41:04-04:00 local time"
+     alt="The City at 2022-07-23 16:41:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T23:41:00.516051-04:00.jpg">July 23 at 11:41 PM</a></p>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T23:41:00.516051-04:00.jpg">July 23 at 4:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T12:04:40.827265-04:00.jpg">
   <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T12:04:40.827265-04:00.jpg"
-     alt="The City at 2022-07-23 12:04:44-04:00 local time"
+     alt="The City at 2022-07-23 05:04:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T12:04:40.827265-04:00.jpg">July 23 at 12:04 PM</a></p>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T12:04:40.827265-04:00.jpg">July 23 at 5:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T00:24:45.581926-04:00.jpg">
   <img src="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T00:24:45.581926-04:00.jpg"
-     alt="The City at 2022-07-23 00:24:48-04:00 local time"
+     alt="The City at 2022-07-22 17:24:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T00:24:45.581926-04:00.jpg">July 23 at 12:24 AM</a></p>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-07-23T00:24:45.581926-04:00.jpg">July 22 at 5:24 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 9:31 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-27T21:31:09.164275-04:00.hyperlinks.json) |
-| [July 27 at 9:22 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-27T09:22:15.063378-04:00.hyperlinks.json) |
-| [July 26 at 9:28 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-26T21:28:20.133836-04:00.hyperlinks.json) |
-| [July 26 at 9:30 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-26T09:30:02.974657-04:00.hyperlinks.json) |
-| [July 25 at 10:50 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T22:50:35.199012-04:00.hyperlinks.json) |
-| [July 25 at 9:36 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T21:35:59.727492-04:00.hyperlinks.json) |
-| [July 25 at 11:46 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T11:46:52.403493-04:00.hyperlinks.json) |
-| [July 25 at 12:36 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T00:36:25.082588-04:00.hyperlinks.json) |
-| [July 24 at 11:06 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-24T11:05:56.038237-04:00.hyperlinks.json) |
-| [July 23 at 11:41 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-23T23:41:00.516051-04:00.hyperlinks.json) |
+| [July 27 at 2:31 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-27T21:31:09.164275-04:00.hyperlinks.json) |
+| [July 27 at 2:22 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-27T09:22:15.063378-04:00.hyperlinks.json) |
+| [July 26 at 2:28 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-26T21:28:20.133836-04:00.hyperlinks.json) |
+| [July 26 at 2:30 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-26T09:30:02.974657-04:00.hyperlinks.json) |
+| [July 25 at 3:50 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T22:50:35.199012-04:00.hyperlinks.json) |
+| [July 25 at 2:36 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T21:35:59.727492-04:00.hyperlinks.json) |
+| [July 25 at 4:46 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T11:46:52.403493-04:00.hyperlinks.json) |
+| [July 24 at 5:36 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T00:36:25.082588-04:00.hyperlinks.json) |
+| [July 24 at 4:06 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-24T11:05:56.038237-04:00.hyperlinks.json) |
+| [July 23 at 4:41 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-23T23:41:00.516051-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 9:31 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-27T21:31:09.164275-04:00.accessibility.json) |
-| [July 27 at 9:22 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-27T09:22:15.063378-04:00.accessibility.json) |
-| [July 26 at 9:28 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-26T21:28:20.133836-04:00.accessibility.json) |
-| [July 26 at 9:30 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-26T09:30:02.974657-04:00.accessibility.json) |
-| [July 25 at 10:50 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T22:50:35.199012-04:00.accessibility.json) |
-| [July 25 at 9:36 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T21:35:59.727492-04:00.accessibility.json) |
-| [July 25 at 11:46 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T11:46:52.403493-04:00.accessibility.json) |
-| [July 25 at 12:36 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T00:36:25.082588-04:00.accessibility.json) |
-| [July 24 at 11:05 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-24T11:05:56.038237-04:00.accessibility.json) |
-| [July 23 at 11:41 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-23T23:41:00.516051-04:00.accessibility.json) |
+| [July 27 at 2:31 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-27T21:31:09.164275-04:00.accessibility.json) |
+| [July 27 at 2:22 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-27T09:22:15.063378-04:00.accessibility.json) |
+| [July 26 at 2:28 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-26T21:28:20.133836-04:00.accessibility.json) |
+| [July 26 at 2:30 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-26T09:30:02.974657-04:00.accessibility.json) |
+| [July 25 at 3:50 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T22:50:35.199012-04:00.accessibility.json) |
+| [July 25 at 2:36 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T21:35:59.727492-04:00.accessibility.json) |
+| [July 25 at 4:46 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T11:46:52.403493-04:00.accessibility.json) |
+| [July 24 at 5:36 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T00:36:25.082588-04:00.accessibility.json) |
+| [July 24 at 4:05 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-24T11:05:56.038237-04:00.accessibility.json) |
+| [July 23 at 4:41 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-23T23:41:00.516051-04:00.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 9:31 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-27T21:31:09.164275-04:00.lighthouse.json) |
-| [July 27 at 9:22 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-27T09:22:15.063378-04:00.lighthouse.json) |
-| [July 26 at 9:28 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-26T21:28:20.133836-04:00.lighthouse.json) |
-| [July 26 at 9:30 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-26T09:30:02.974657-04:00.lighthouse.json) |
-| [July 25 at 10:50 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T22:50:35.199012-04:00.lighthouse.json) |
-| [July 25 at 9:36 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T21:35:59.727492-04:00.lighthouse.json) |
-| [July 25 at 11:47 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T11:46:52.403493-04:00.lighthouse.json) |
-| [July 25 at 12:36 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T00:36:25.082588-04:00.lighthouse.json) |
-| [July 24 at 11:06 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-24T11:05:56.038237-04:00.lighthouse.json) |
-| [July 23 at 11:41 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-23T23:41:00.516051-04:00.lighthouse.json) |
+| [July 27 at 2:31 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-27T21:31:09.164275-04:00.lighthouse.json) |
+| [July 27 at 2:22 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-27T09:22:15.063378-04:00.lighthouse.json) |
+| [July 26 at 2:28 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-26T21:28:20.133836-04:00.lighthouse.json) |
+| [July 26 at 2:30 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-26T09:30:02.974657-04:00.lighthouse.json) |
+| [July 25 at 3:50 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T22:50:35.199012-04:00.lighthouse.json) |
+| [July 25 at 2:36 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T21:35:59.727492-04:00.lighthouse.json) |
+| [July 25 at 4:47 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T11:46:52.403493-04:00.lighthouse.json) |
+| [July 24 at 5:36 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-25T00:36:25.082588-04:00.lighthouse.json) |
+| [July 24 at 4:06 AM](https://archive.org/download/thecityny-2022/thecityny-2022-07-24T11:05:56.038237-04:00.lighthouse.json) |
+| [July 23 at 4:41 PM](https://archive.org/download/thecityny-2022/thecityny-2022-07-23T23:41:00.516051-04:00.lighthouse.json) |
 
 
 

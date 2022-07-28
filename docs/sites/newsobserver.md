@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T22:43:06.148219-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T22:43:06.148219-04:00.jpg"
-     alt="News & Observer at 2022-07-27 22:43:07-04:00 local time"
+     alt="News & Observer at 2022-07-27 15:43:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T22:43:06.148219-04:00.jpg">July 27 at 10:43 PM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T22:43:06.148219-04:00.jpg">July 27 at 3:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T10:36:20.608325-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T10:36:20.608325-04:00.jpg"
-     alt="News & Observer at 2022-07-27 10:36:23-04:00 local time"
+     alt="News & Observer at 2022-07-27 03:36:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T10:36:20.608325-04:00.jpg">July 27 at 10:36 AM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T10:36:20.608325-04:00.jpg">July 27 at 3:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T22:43:22.383910-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T22:43:22.383910-04:00.jpg"
-     alt="News & Observer at 2022-07-26 22:43:23-04:00 local time"
+     alt="News & Observer at 2022-07-26 15:43:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T22:43:22.383910-04:00.jpg">July 26 at 10:43 PM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T22:43:22.383910-04:00.jpg">July 26 at 3:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T10:41:49.860296-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T10:41:49.860296-04:00.jpg"
-     alt="News & Observer at 2022-07-26 10:41:52-04:00 local time"
+     alt="News & Observer at 2022-07-26 03:41:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T10:41:49.860296-04:00.jpg">July 26 at 10:41 AM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T10:41:49.860296-04:00.jpg">July 26 at 3:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T22:50:01.829738-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T22:50:01.829738-04:00.jpg"
-     alt="News & Observer at 2022-07-25 22:50:03-04:00 local time"
+     alt="News & Observer at 2022-07-25 15:50:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T22:50:01.829738-04:00.jpg">July 25 at 10:50 PM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T22:50:01.829738-04:00.jpg">July 25 at 3:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T09:16:49.098854-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T09:16:49.098854-04:00.jpg"
-     alt="News & Observer at 2022-07-25 09:16:50-04:00 local time"
+     alt="News & Observer at 2022-07-25 02:16:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T09:16:49.098854-04:00.jpg">July 25 at 9:16 AM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T09:16:49.098854-04:00.jpg">July 25 at 2:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T23:36:13.923626-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T23:36:13.923626-04:00.jpg"
-     alt="News & Observer at 2022-07-24 23:36:15-04:00 local time"
+     alt="News & Observer at 2022-07-24 16:36:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T23:36:13.923626-04:00.jpg">July 24 at 11:36 PM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T23:36:13.923626-04:00.jpg">July 24 at 4:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T09:05:19.949942-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T09:05:19.949942-04:00.jpg"
-     alt="News & Observer at 2022-07-24 09:05:21-04:00 local time"
+     alt="News & Observer at 2022-07-24 02:05:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T09:05:19.949942-04:00.jpg">July 24 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T09:05:19.949942-04:00.jpg">July 24 at 2:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T00:20:40.539327-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T00:20:40.539327-04:00.jpg"
-     alt="News & Observer at 2022-07-24 00:20:42-04:00 local time"
+     alt="News & Observer at 2022-07-23 17:20:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T00:20:40.539327-04:00.jpg">July 24 at 12:20 AM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T00:20:40.539327-04:00.jpg">July 23 at 5:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-23T11:03:13.015850-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-23T11:03:13.015850-04:00.jpg"
-     alt="News & Observer at 2022-07-23 11:03:14-04:00 local time"
+     alt="News & Observer at 2022-07-23 04:03:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-23T11:03:13.015850-04:00.jpg">July 23 at 11:03 AM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-23T11:03:13.015850-04:00.jpg">July 23 at 4:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T23:33:25.102247-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T23:33:25.102247-04:00.jpg"
-     alt="News & Observer at 2022-07-22 23:33:28-04:00 local time"
+     alt="News & Observer at 2022-07-22 16:33:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T23:33:25.102247-04:00.jpg">July 22 at 11:33 PM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T23:33:25.102247-04:00.jpg">July 22 at 4:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T10:59:07.502444-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T10:59:07.502444-04:00.jpg"
-     alt="News & Observer at 2022-07-22 10:59:09-04:00 local time"
+     alt="News & Observer at 2022-07-22 03:59:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T10:59:07.502444-04:00.jpg">July 22 at 10:59 AM</a></p>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T10:59:07.502444-04:00.jpg">July 22 at 3:59 AM</a></p>
 </div>
 
 </div>
@@ -231,16 +231,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 10:43 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T22:43:06.148219-04:00.hyperlinks.json) |
-| [July 27 at 10:36 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T10:36:20.608325-04:00.hyperlinks.json) |
-| [July 26 at 10:43 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T22:43:22.383910-04:00.hyperlinks.json) |
-| [July 26 at 10:41 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T10:41:49.860296-04:00.hyperlinks.json) |
-| [July 25 at 10:50 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T22:50:01.829738-04:00.hyperlinks.json) |
-| [July 24 at 12:20 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T00:20:40.539327-04:00.hyperlinks.json) |
-| [July 23 at 11:03 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-23T11:03:13.015850-04:00.hyperlinks.json) |
-| [July 22 at 11:33 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T23:33:25.102247-04:00.hyperlinks.json) |
-| [July 22 at 10:59 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T10:59:07.502444-04:00.hyperlinks.json) |
-| [July 21 at 11:38 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-21T23:38:14.991001-04:00.hyperlinks.json) |
+| [July 27 at 3:43 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T22:43:06.148219-04:00.hyperlinks.json) |
+| [July 27 at 3:36 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T10:36:20.608325-04:00.hyperlinks.json) |
+| [July 26 at 3:43 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T22:43:22.383910-04:00.hyperlinks.json) |
+| [July 26 at 3:41 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T10:41:49.860296-04:00.hyperlinks.json) |
+| [July 25 at 3:50 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T22:50:01.829738-04:00.hyperlinks.json) |
+| [July 23 at 5:20 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T00:20:40.539327-04:00.hyperlinks.json) |
+| [July 23 at 4:03 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-23T11:03:13.015850-04:00.hyperlinks.json) |
+| [July 22 at 4:33 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T23:33:25.102247-04:00.hyperlinks.json) |
+| [July 22 at 3:59 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-22T10:59:07.502444-04:00.hyperlinks.json) |
+| [July 21 at 4:38 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-21T23:38:14.991001-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -336,16 +336,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 10:43 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T22:43:06.148219-04:00.accessibility.json) |
-| [July 27 at 10:36 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T10:36:20.608325-04:00.accessibility.json) |
-| [July 26 at 10:43 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T22:43:22.383910-04:00.accessibility.json) |
-| [July 26 at 10:41 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T10:41:49.860296-04:00.accessibility.json) |
-| [July 25 at 10:50 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T22:50:01.829738-04:00.accessibility.json) |
-| [July 25 at 9:16 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T09:16:49.098854-04:00.accessibility.json) |
-| [July 24 at 11:36 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T23:36:13.923626-04:00.accessibility.json) |
-| [July 24 at 9:05 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T09:05:19.949942-04:00.accessibility.json) |
-| [July 24 at 12:20 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T00:20:40.539327-04:00.accessibility.json) |
-| [July 23 at 11:03 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-23T11:03:13.015850-04:00.accessibility.json) |
+| [July 27 at 3:43 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T22:43:06.148219-04:00.accessibility.json) |
+| [July 27 at 3:36 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T10:36:20.608325-04:00.accessibility.json) |
+| [July 26 at 3:43 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T22:43:22.383910-04:00.accessibility.json) |
+| [July 26 at 3:41 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T10:41:49.860296-04:00.accessibility.json) |
+| [July 25 at 3:50 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T22:50:01.829738-04:00.accessibility.json) |
+| [July 25 at 2:16 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T09:16:49.098854-04:00.accessibility.json) |
+| [July 24 at 4:36 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T23:36:13.923626-04:00.accessibility.json) |
+| [July 24 at 2:05 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T09:05:19.949942-04:00.accessibility.json) |
+| [July 23 at 5:20 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T00:20:40.539327-04:00.accessibility.json) |
+| [July 23 at 4:03 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-23T11:03:13.015850-04:00.accessibility.json) |
 
 
 
@@ -359,15 +359,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 10:43 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T22:43:06.148219-04:00.lighthouse.json) |
-| [July 27 at 10:36 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T10:36:20.608325-04:00.lighthouse.json) |
-| [July 26 at 10:43 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T22:43:22.383910-04:00.lighthouse.json) |
-| [July 26 at 10:41 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T10:41:49.860296-04:00.lighthouse.json) |
-| [July 25 at 10:50 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T22:50:01.829738-04:00.lighthouse.json) |
-| [July 25 at 9:16 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T09:16:49.098854-04:00.lighthouse.json) |
-| [July 24 at 11:36 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T23:36:13.923626-04:00.lighthouse.json) |
-| [July 24 at 9:05 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T09:05:19.949942-04:00.lighthouse.json) |
-| [July 24 at 12:20 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T00:20:40.539327-04:00.lighthouse.json) |
+| [July 27 at 3:43 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T22:43:06.148219-04:00.lighthouse.json) |
+| [July 27 at 3:36 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-27T10:36:20.608325-04:00.lighthouse.json) |
+| [July 26 at 3:43 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T22:43:22.383910-04:00.lighthouse.json) |
+| [July 26 at 3:41 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-26T10:41:49.860296-04:00.lighthouse.json) |
+| [July 25 at 3:50 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T22:50:01.829738-04:00.lighthouse.json) |
+| [July 25 at 2:16 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-25T09:16:49.098854-04:00.lighthouse.json) |
+| [July 24 at 4:36 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T23:36:13.923626-04:00.lighthouse.json) |
+| [July 24 at 2:05 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T09:05:19.949942-04:00.lighthouse.json) |
+| [July 23 at 5:20 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-07-24T00:20:40.539327-04:00.lighthouse.json) |
 
 
 
