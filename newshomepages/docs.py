@@ -204,36 +204,11 @@ def site_detail_screenshot_chart():
             screenshots_df.handle.str.lower() == site["handle"].lower()
         ]
 
-        # Group and count by date
-        site_by_date = (
-            site_df.groupby("date").size().rename("screenshots").reset_index()
-        )
-
-        # Calculate the seven-day rolling average
-        site_by_date["value"] = site_by_date.screenshots.rolling(7).mean()
-
-        # Cut nulls
-        site_by_date_nonulls = site_by_date[~pd.isnull(site_by_date.value)]
-
-        # Cut the most recent day, which may be incomplete
-        site_by_date_qualified = site_by_date_nonulls.head(
-            len(site_by_date_nonulls) - 1
-        )
-
-        # Trim the columns
-        site_by_date_trimmed = site_by_date_qualified[["date", "value"]]
-
-        # Format the date for JSON
-        site_by_date_trimmed["date"] = site_by_date_trimmed["date"].dt.strftime(
-            "%Y-%m-%d"
-        )
+        # Do the math
+        chart_df = _count_by_date(site_df, "screenshots")
 
         # Write it out
-        site_by_date_trimmed.to_json(
-            out_dir / f"{site['handle'].lower()}.json",
-            indent=2,
-            orient="records",
-        )
+        _write_chart_json(chart_df, out_dir / f"{site['handle'].lower()}.json")
 
 
 @cli.command()
@@ -267,34 +242,11 @@ def site_detail_hyperlink_chart():
             screenshots_df.handle.str.lower() == site["handle"].lower()
         ]
 
-        # Group and count by date
-        site_by_date = site_df.groupby("date").size().rename("hyperlinks").reset_index()
-
-        # Calculate the seven-day rolling average
-        site_by_date["value"] = site_by_date.hyperlinks.rolling(7).mean()
-
-        # Cut nulls
-        site_by_date_nonulls = site_by_date[~pd.isnull(site_by_date.value)]
-
-        # Cut the most recent day, which may be incomplete
-        site_by_date_qualified = site_by_date_nonulls.head(
-            len(site_by_date_nonulls) - 1
-        )
-
-        # Trim the columns
-        site_by_date_trimmed = site_by_date_qualified[["date", "value"]]
-
-        # Format the date for JSON
-        site_by_date_trimmed["date"] = site_by_date_trimmed["date"].dt.strftime(
-            "%Y-%m-%d"
-        )
+        # Do the math
+        chart_df = _count_by_date(site_df, "hyperlinks")
 
         # Write it out
-        site_by_date_trimmed.to_json(
-            out_dir / f"{site['handle'].lower()}.json",
-            indent=2,
-            orient="records",
-        )
+        _write_chart_json(chart_df, out_dir / f"{site['handle'].lower()}.json")
 
 
 @cli.command()
@@ -303,7 +255,7 @@ def site_detail_accessibility_chart():
     # Get all sites
     site_list = utils.get_site_list()
     print(
-        f":link: Creating accessibility chart JSON files for {len(site_list)} site detail pages"
+        f":wheelchair: Creating accessibility chart JSON files for {len(site_list)} site detail pages"
     )
 
     # Get all accessibility files
@@ -328,36 +280,77 @@ def site_detail_accessibility_chart():
             accessibility_df.handle.str.lower() == site["handle"].lower()
         ]
 
-        # Group and count by date
-        site_by_date = (
-            site_df.groupby("date").size().rename("accessibility").reset_index()
-        )
-
-        # Calculate the seven-day rolling average
-        site_by_date["value"] = site_by_date.accessibility.rolling(7).mean()
-
-        # Cut nulls
-        site_by_date_nonulls = site_by_date[~pd.isnull(site_by_date.value)]
-
-        # Cut the most recent day, which may be incomplete
-        site_by_date_qualified = site_by_date_nonulls.head(
-            len(site_by_date_nonulls) - 1
-        )
-
-        # Trim the columns
-        site_by_date_trimmed = site_by_date_qualified[["date", "value"]]
-
-        # Format the date for JSON
-        site_by_date_trimmed["date"] = site_by_date_trimmed["date"].dt.strftime(
-            "%Y-%m-%d"
-        )
+        # Do the math
+        chart_df = _count_by_date(site_df, "accessibility")
 
         # Write it out
-        site_by_date_trimmed.to_json(
-            out_dir / f"{site['handle'].lower()}.json",
-            indent=2,
-            orient="records",
-        )
+        _write_chart_json(chart_df, out_dir / f"{site['handle'].lower()}.json")
+
+
+@cli.command()
+def site_detail_lighthouse_chart():
+    """Create the JSON data file for the site detail page's lighthouse chart."""
+    # Get all sites
+    site_list = utils.get_site_list()
+    print(
+        f":abacus: Creating lighthouse chart JSON files for {len(site_list)} site detail pages"
+    )
+
+    # Get all accessibility files
+    lighthouse_df = pd.read_csv(
+        utils.EXTRACT_DIR / "csv" / "lighthouse-files.csv",
+        parse_dates=["mtime"],
+        usecols=["identifier", "handle", "file_name", "mtime"],
+    )
+    lighthouse_df["date"] = pd.to_datetime(lighthouse_df.mtime.dt.date)
+
+    # Ignore pandas warnings
+    warnings.filterwarnings("ignore")
+
+    # Make the out directory
+    out_dir = utils.DOCS_DIR / "_extra" / "charts" / "sites" / "lighthouse"
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    # Loop through all sites
+    for site in track(site_list):
+        # Get the screenshots for this site
+        site_df = lighthouse_df[
+            lighthouse_df.handle.str.lower() == site["handle"].lower()
+        ]
+
+        # Do the math
+        chart_df = _count_by_date(site_df, "lighthouse")
+
+        # Write it out
+        _write_chart_json(chart_df, out_dir / f"{site['handle'].lower()}.json")
+
+
+def _count_by_date(df, field):
+    # Group and count by date
+    by_date = df.groupby("date").size().rename(field).reset_index()
+
+    # Calculate the seven-day rolling average
+    by_date["value"] = by_date[field].rolling(7).mean()
+
+    # Cut nulls
+    nonulls = by_date[~pd.isnull(by_date.value)]
+
+    # Cut the most recent day, which may be incomplete
+    qualified = nonulls.head(len(nonulls) - 1)
+
+    # Trim the columns
+    trimmed = qualified[["date", "value"]]
+
+    # Return it back
+    return trimmed
+
+
+def _write_chart_json(df, path):
+    # Format the date for JSON
+    df["date"] = df["date"].dt.strftime("%Y-%m-%d")
+
+    # Write it out
+    df.to_json(path, indent=2, orient="records")
 
 
 if __name__ == "__main__":
