@@ -1,5 +1,5 @@
 {
-  "created": 1659047503,
+  "created": 1659098011,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/27/items/objectivejrn-2022",
@@ -1796,31 +1796,72 @@
       "sha1": "3d94c013658ed1efd23360c6317b0821c33c77d1"
     },
     {
+      "name": "objectivejrn-2022-07-28T20:46:12.410811-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659066375",
+      "size": "15009",
+      "md5": "bba17f31ce41e61a61ee7d9b2e5c3649",
+      "crc32": "5fb03ad1",
+      "sha1": "963bb6b5509e4bb1d1cfa879058f08cef6a48583",
+      "format": "JSON"
+    },
+    {
+      "name": "objectivejrn-2022-07-28T20:46:12.410811-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659066377",
+      "size": "12070",
+      "md5": "0174f3c59de3b3c080b82344aa000a78",
+      "crc32": "054626d1",
+      "sha1": "b05cb683972f32c7566b31c77335420bdd82fc63",
+      "format": "JSON"
+    },
+    {
+      "name": "objectivejrn-2022-07-28T20:46:12.410811-07:00.jpg",
+      "source": "original",
+      "mtime": "1659066374",
+      "size": "234049",
+      "md5": "0594845dbd0923978abde0ca356b831f",
+      "crc32": "a4dbf5aa",
+      "sha1": "1734a82694da2914e896753fd0f7115c617345ce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "objectivejrn-2022-07-28T20:46:12.410811-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659066378",
+      "size": "1531",
+      "md5": "0fa128830291519ba59ac1d45f6474d5",
+      "crc32": "579e7ab8",
+      "sha1": "ea56109075ef69120ca0fa799a7354b3160a2958",
+      "format": "JSON"
+    },
+    {
       "name": "objectivejrn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "82f077f25e5a1aa581b31d4df8d0c8217e1d1448",
-      "mtime": "1659047478",
-      "size": "38058",
-      "md5": "3da0b2a8e17a3e97430b38250754802e",
-      "crc32": "0c987cbd",
-      "sha1": "60819f86e6b2473ae65427e85fbdb7579e6fd921",
+      "btih": "c2b33f1455b3dc411321bdc9e4496d91dedfddee",
+      "mtime": "1659066419",
+      "size": "38909",
+      "md5": "283dcbfd68b74576184e9add4f52d855",
+      "crc32": "6e3f7e85",
+      "sha1": "2400505499ce5d73e1ee375afffaccf2c227748f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "objectivejrn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "09934ef22f412e6fe35a875a2ce5fc92",
+      "md5": "ad2745ddf61181acd38bc2830b8d8709",
       "summation": "md5"
     },
     {
       "name": "objectivejrn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659023294",
-      "size": "225280",
-      "md5": "cbf8d707e5fdc936616c7e1f6cd6f048",
-      "crc32": "3f698624",
-      "sha1": "ba5daeb08663ecfbead030ff7e8626aa14410361",
+      "mtime": "1659066383",
+      "size": "229376",
+      "md5": "d6cc4faea83b2b7df98e05b937f103c3",
+      "crc32": "968b06a4",
+      "sha1": "eec2a3c70068814fcb888846335a92853a48492f",
       "format": "Metadata"
     },
     {
@@ -1834,9 +1875,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 175,
-  "item_last_updated": 1659047478,
-  "item_size": 11767541,
+  "files_count": 179,
+  "item_last_updated": 1659066419,
+  "item_size": 12035147,
   "metadata": {
     "identifier": "objectivejrn-2022",
     "collection": [
@@ -1853,10 +1894,62 @@
     "publicdate": "2022-07-09 04:01:28",
     "addeddate": "2022-07-09 04:01:28"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 710943552,
+  "objectivejrn-2022": [
+    {
+      "url": "https://objectivejournalism.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/objectivejournalism_org-_-2022_07_29_03_24_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/objectivejournalism_org-_-2022_07_29_03_24_11.report.json",
+      "summary": {
+        "performance": 0.49,
+        "accessibility": 0.86,
+        "best-practices": 1,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://objectivejournalism.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/objectivejournalism_org-_-2022_07_29_03_24_40.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/objectivejournalism_org-_-2022_07_29_03_24_40.report.json",
+      "summary": {
+        "performance": 0.63,
+        "accessibility": 0.86,
+        "best-practices": 1,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://objectivejournalism.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/objectivejournalism_org-_-2022_07_29_03_24_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/objectivejournalism_org-_-2022_07_29_03_24_26.report.json",
+      "summary": {
+        "performance": 0.62,
+        "accessibility": 0.86,
+        "best-practices": 1,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3346822323,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 311505727,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

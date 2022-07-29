@@ -1,5 +1,5 @@
 {
-  "created": 1659054331,
+  "created": 1659097699,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/el_pais-2022",
@@ -7,10 +7,10 @@
     {
       "url": "https://elpais.com/america/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/elpais_com-_america_-2022_07_28_18_49_25.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/elpais_com-_america_-2022_07_28_18_49_25.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/elpais_com-_america_-2022_07_29_02_11_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/elpais_com-_america_-2022_07_29_02_11_28.report.json",
       "summary": {
-        "performance": 0.48,
+        "performance": 0.42,
         "accessibility": 0.91,
         "best-practices": 0.92,
         "seo": 0.98,
@@ -20,8 +20,8 @@
     {
       "url": "https://elpais.com/america/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/elpais_com-_america_-2022_07_28_18_49_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/elpais_com-_america_-2022_07_28_18_49_46.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/elpais_com-_america_-2022_07_29_02_11_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/elpais_com-_america_-2022_07_29_02_11_50.report.json",
       "summary": {
         "performance": 0.43,
         "accessibility": 0.91,
@@ -33,10 +33,10 @@
     {
       "url": "https://elpais.com/america/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/elpais_com-_america_-2022_07_28_18_50_03.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/elpais_com-_america_-2022_07_28_18_50_03.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/elpais_com-_america_-2022_07_29_02_12_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/elpais_com-_america_-2022_07_29_02_12_11.report.json",
       "summary": {
-        "performance": 0.48,
+        "performance": 0.45,
         "accessibility": 0.91,
         "best-practices": 0.92,
         "seo": 0.98,
@@ -98,31 +98,83 @@
       "format": "JSON"
     },
     {
+      "name": "el_pais-2022-07-28T20:53:23.025659+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_pais-2022-07-28T20:53:23.025659+02:00.jpg",
+      "mtime": "1659057125",
+      "size": "7591",
+      "md5": "646e2eb022e1d5dca3eb0fb5614368fd",
+      "crc32": "5cf6488f",
+      "sha1": "5c9c63c28b00719071c61f2ef0f1b0871f8432f3"
+    },
+    {
+      "name": "el_pais-2022-07-29T04:33:53.540381+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659062036",
+      "size": "60241",
+      "md5": "c0091facb07de499c46dc50201db32b4",
+      "crc32": "33af8973",
+      "sha1": "99302e5de6eef7e6b43a034b24151d1104e130b8",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-07-29T04:33:53.540381+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659062037",
+      "size": "70521",
+      "md5": "40899b844c43b5ba949e56cacf9df264",
+      "crc32": "159377a1",
+      "sha1": "f21f56de1e22d6a35265fbbf19b91905f7a80562",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-07-29T04:33:53.540381+02:00.jpg",
+      "source": "original",
+      "mtime": "1659062034",
+      "size": "218541",
+      "md5": "db0e354885b59e84475f3e4e95046b0f",
+      "crc32": "c86110a2",
+      "sha1": "63462421947381cf41c11172426f3fd09cfbaed2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_pais-2022-07-29T04:33:53.540381+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659062039",
+      "size": "1495",
+      "md5": "4e3e24b65ae3c18beb62846a7d831a95",
+      "crc32": "29426746",
+      "sha1": "97a78d85a4d993f945bfa7db30ea56bfabce88f9",
+      "format": "JSON"
+    },
+    {
       "name": "el_pais-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db38919e6c4e8d945d86fcac79ba723a42a06f63",
-      "mtime": "1659034474",
-      "size": "2448",
-      "md5": "584e0f392969ce877cdbf941e26c7211",
-      "crc32": "37eac2cd",
-      "sha1": "34b660728bb873bcfbc80ce391f46993c86898df",
+      "btih": "47a7a069ebc087e112c2cf0576b495ba2bf43abc",
+      "mtime": "1659062083",
+      "size": "3502",
+      "md5": "aebd590053c52e7b7c85f03bfb1fd8cc",
+      "crc32": "bb53f63a",
+      "sha1": "7d48bbe65ca683527ffcba9da81a90532de14caf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_pais-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c6352473c2e566b1396bea05a008f7cd",
+      "md5": "caf2f90c53b6b89c3b27d5b8aea99e88",
       "summation": "md5"
     },
     {
       "name": "el_pais-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659034438",
-      "size": "28672",
-      "md5": "64825ddd1b45da8c4823fbbc873d13d5",
-      "crc32": "87a0753a",
-      "sha1": "46b47641d9c6d040e1a8f0143627ded75dcc47eb",
+      "mtime": "1659062048",
+      "size": "32768",
+      "md5": "96f7d68337ddc0c9478633582cacecd1",
+      "crc32": "d6624a0d",
+      "sha1": "77c6c81dd1529e1091d3bc3f1c4613825218a146",
       "format": "Metadata"
     },
     {
@@ -136,9 +188,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 9,
-  "item_last_updated": 1659034474,
-  "item_size": 392675,
+  "files_count": 14,
+  "item_last_updated": 1659062083,
+  "item_size": 756214,
   "metadata": {
     "identifier": "el_pais-2022",
     "collection": [
@@ -160,7 +212,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346418407,
+      "task_id": 3346762825,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -168,7 +220,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1045777937,
+  "uniq": 1603222415,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659041564,
+  "created": 1659097866,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/7/items/larazon_es-2022",
@@ -57,31 +57,83 @@
       "format": "JSON"
     },
     {
+      "name": "larazon_es-2022-07-28T20:53:39.132518+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "larazon_es-2022-07-28T20:53:39.132518+02:00.jpg",
+      "mtime": "1659057025",
+      "size": "8520",
+      "md5": "bac142781ddf265b4ae17e7141220b60",
+      "crc32": "f1d8631f",
+      "sha1": "d9df14b89a3cb207b0c96a76c2253efcba3c7f18"
+    },
+    {
+      "name": "larazon_es-2022-07-29T04:38:50.441257+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659062332",
+      "size": "73635",
+      "md5": "165d678d358ca8e27f9d92597aff94aa",
+      "crc32": "4f98c4d3",
+      "sha1": "d7cbf214e1d6764853fa841248fedebd838266e8",
+      "format": "JSON"
+    },
+    {
+      "name": "larazon_es-2022-07-29T04:38:50.441257+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659062334",
+      "size": "82034",
+      "md5": "47ca8073745313e1e00b4e468419a454",
+      "crc32": "4ef24b4b",
+      "sha1": "35b2dd0f9a721df54317f7899cc1aff3350efd78",
+      "format": "JSON"
+    },
+    {
+      "name": "larazon_es-2022-07-29T04:38:50.441257+02:00.jpg",
+      "source": "original",
+      "mtime": "1659062331",
+      "size": "204070",
+      "md5": "82925ae0712059b5d290b1c76e537cab",
+      "crc32": "9c734411",
+      "sha1": "e24767899becaa4341dd815aa825e503c09456a2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "larazon_es-2022-07-29T04:38:50.441257+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659062336",
+      "size": "1459",
+      "md5": "5ce05585c51233a74e09f7e0f55d2bf2",
+      "crc32": "9a8218c7",
+      "sha1": "89318a9e903e4acb69addec3b7918e06b26331b6",
+      "format": "JSON"
+    },
+    {
       "name": "larazon_es-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7ed09c4ac65231a12b774e862185caf375c1ea80",
-      "mtime": "1659034504",
-      "size": "2484",
-      "md5": "9a612436ec3eebec1751f25358f1834d",
-      "crc32": "bcc6ee5a",
-      "sha1": "afdd6d95d47decf2d3bf970a29e3631b15f9afec",
+      "btih": "6670627175dfa5fd4952cee5a1dcf9688c0d86bc",
+      "mtime": "1659062375",
+      "size": "3553",
+      "md5": "58b009204875318ff30e86be39a7c5c6",
+      "crc32": "72155165",
+      "sha1": "0e9da91ac6d367aa598275d178985b0b1c0fc96b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "larazon_es-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a90cbbeb557afedb2309908d852ff914",
+      "md5": "853f7538584ba9a6a89cf34603e7fcb8",
       "summation": "md5"
     },
     {
       "name": "larazon_es-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659034470",
-      "size": "28672",
-      "md5": "ed0bc7e374364a76a360bf3f66c5ef80",
-      "crc32": "ad70915f",
-      "sha1": "063c0933740a9652f0e7ee6f8cc005bed5fc316d",
+      "mtime": "1659062341",
+      "size": "32768",
+      "md5": "6aa3872f57b7bae55dce1a016060fe1f",
+      "crc32": "3c280592",
+      "sha1": "2b4240d09a53ff8c3a9bf3b94118d3381a41b1bc",
       "format": "Metadata"
     },
     {
@@ -95,9 +147,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 9,
-  "item_last_updated": 1659034504,
-  "item_size": 430716,
+  "files_count": 14,
+  "item_last_updated": 1659062375,
+  "item_size": 805599,
+  "larazon_es-2022": [
+    {
+      "url": "https://www.larazon.es/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_larazon_es-_-2022_07_29_02_19_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_larazon_es-_-2022_07_29_02_19_13.report.json",
+      "summary": {
+        "performance": 0.28,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.99,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.larazon.es/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_larazon_es-_-2022_07_29_02_19_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_larazon_es-_-2022_07_29_02_19_54.report.json",
+      "summary": {
+        "performance": 0.35,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.99,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.larazon.es/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_larazon_es-_-2022_07_29_02_19_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_larazon_es-_-2022_07_29_02_19_34.report.json",
+      "summary": {
+        "performance": 0.35,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.99,
+        "pwa": 0.3
+      }
+    }
+  ],
   "metadata": {
     "identifier": "larazon_es-2022",
     "collection": [
@@ -119,7 +212,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346418776,
+      "task_id": 3346766757,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -127,7 +220,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 345471722,
+  "uniq": 494747839,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

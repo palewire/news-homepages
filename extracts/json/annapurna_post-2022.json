@@ -1,5 +1,5 @@
 {
-  "created": 1659049636,
+  "created": 1659092649,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/32/items/annapurna_post-2022",
@@ -431,31 +431,83 @@
       "format": "JSON"
     },
     {
+      "name": "annapurna_post-2022-07-29T04:51:23.591185+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "annapurna_post-2022-07-29T04:51:23.591185+05:45.jpg",
+      "mtime": "1659070393",
+      "size": "10474",
+      "md5": "ad5573c75a365083c00849d8466fbea3",
+      "crc32": "4184a118",
+      "sha1": "9a715b9f2c57a8b919354dae3c46a2209961b0f4"
+    },
+    {
+      "name": "annapurna_post-2022-07-29T16:48:15.646694+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659092599",
+      "size": "40743",
+      "md5": "96893234be9c53bea7eb69539224befc",
+      "crc32": "1d4fc780",
+      "sha1": "a424aa919b4207f66a7792b8d1d29744747e41bf",
+      "format": "JSON"
+    },
+    {
+      "name": "annapurna_post-2022-07-29T16:48:15.646694+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659092600",
+      "size": "17459",
+      "md5": "b53405127b8cfdfccc8758b1074a7e72",
+      "crc32": "3a9a9207",
+      "sha1": "94bccb34dc7232883da1afb20ccba28391dc0b5e",
+      "format": "JSON"
+    },
+    {
+      "name": "annapurna_post-2022-07-29T16:48:15.646694+05:45.jpg",
+      "source": "original",
+      "mtime": "1659092597",
+      "size": "222645",
+      "md5": "cfe5826c7ae28bcfc0190fc903a94b4a",
+      "crc32": "32da04c8",
+      "sha1": "a35b2e868dc682916c4ed084136245a2408b18ef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "annapurna_post-2022-07-29T16:48:15.646694+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659092602",
+      "size": "1522",
+      "md5": "c7145b4ca1f36684a034d0798a7d33e2",
+      "crc32": "2d80a27f",
+      "sha1": "2e6d4f19b0db69847ea893259c31d413c4576596",
+      "format": "JSON"
+    },
+    {
       "name": "annapurna_post-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3c0dabf120ca930f87719702d07d135a5feb705a",
-      "mtime": "1659049633",
-      "size": "10342",
-      "md5": "21c75e1f561ce78dfff39f824f909bbb",
-      "crc32": "18b1158a",
-      "sha1": "65d2e90cc35716a75ff2182fc3520d4362f3ffde",
+      "btih": "f1d71b6852539a6be456ec35a3261ab5232428eb",
+      "mtime": "1659092647",
+      "size": "11432",
+      "md5": "eba4777e9badad0f059e43e4255df45e",
+      "crc32": "82968ecd",
+      "sha1": "fc62da15711792e2150df6d7bb1b193d8d8c4dde",
       "format": "Archive BitTorrent"
     },
     {
       "name": "annapurna_post-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c27f72112cf2fe46ea2c206f3d5db2b0",
+      "md5": "1b29cbbdefa4a2364ed646903298e156",
       "summation": "md5"
     },
     {
       "name": "annapurna_post-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659049598",
-      "size": "65536",
-      "md5": "b9781e57375a65dd68209d053be13aa2",
-      "crc32": "288dbae3",
-      "sha1": "5cf61e7abb4316e840d187ac205f15ab08bd4ac2",
+      "mtime": "1659092610",
+      "size": "73728",
+      "md5": "103f645b5c791ab86332d47f29db0975",
+      "crc32": "646a26b8",
+      "sha1": "1f5e68d5f305924dce16acacf9c7dac7d16dd624",
       "format": "Metadata"
     },
     {
@@ -469,9 +521,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 45,
-  "item_last_updated": 1659049633,
-  "item_size": 2985717,
+  "files_count": 50,
+  "item_last_updated": 1659092647,
+  "item_size": 3287842,
   "metadata": {
     "identifier": "annapurna_post-2022",
     "collection": [
@@ -493,7 +545,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346588814,
+      "task_id": 3347106512,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -501,7 +553,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1202406971,
+  "uniq": 1709485517,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

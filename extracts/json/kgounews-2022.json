@@ -1,5 +1,5 @@
 {
-  "created": 1659030150,
+  "created": 1659062348,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/23/items/kgounews-2022",
@@ -1785,31 +1785,83 @@
       "format": "JSON"
     },
     {
+      "name": "kgounews-2022-07-28T10:42:53.770641-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kgounews-2022-07-28T10:42:53.770641-05:00.jpg",
+      "mtime": "1659054717",
+      "size": "10577",
+      "md5": "892959547dd7b9f0a05118474d6b6a14",
+      "crc32": "749e04f5",
+      "sha1": "3c051feb556d01fb7014e4f61fe4500b5b7f8689"
+    },
+    {
+      "name": "kgounews-2022-07-28T21:38:18.932409-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659062302",
+      "size": "20924",
+      "md5": "fb5faf78eef6a65e183fc387fd50f6f3",
+      "crc32": "6a477f71",
+      "sha1": "a0c5cd15c80a95cf96919893900c5766ea15d03a",
+      "format": "JSON"
+    },
+    {
+      "name": "kgounews-2022-07-28T21:38:18.932409-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659062303",
+      "size": "34650",
+      "md5": "201b5ce00c52d3f17b5cca42bcffd005",
+      "crc32": "cf999524",
+      "sha1": "9c1ee5086667c5a9570150e74bbfa7dbbbb84968",
+      "format": "JSON"
+    },
+    {
+      "name": "kgounews-2022-07-28T21:38:18.932409-05:00.jpg",
+      "source": "original",
+      "mtime": "1659062300",
+      "size": "253349",
+      "md5": "bee4acdbf9e6e1d541ee3a315a13f16f",
+      "crc32": "47f9d321",
+      "sha1": "e29e92b9415c67d5d138ca5c97d9948e475f3cba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kgounews-2022-07-28T21:38:18.932409-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659062305",
+      "size": "1441",
+      "md5": "d19f9f05db3513e09eea2b6f0896ba10",
+      "crc32": "b85fbe58",
+      "sha1": "d64860153381d1e2962533893ae64157dccb4427",
+      "format": "JSON"
+    },
+    {
       "name": "kgounews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "be175de5ab5d38d648c7cc62504f748693d1c281",
-      "mtime": "1659030074",
-      "size": "37198",
-      "md5": "0fcf7aa174976aa800be3a1f7ecd408b",
-      "crc32": "64c760a5",
-      "sha1": "93df36ce17f5b7ef96153576b08e0aed0103ba26",
+      "btih": "b4730f3ff67530a1d2fdbdaec740ee0b32e47f41",
+      "mtime": "1659062345",
+      "size": "38258",
+      "md5": "61714e821cdcd175be30b296f89614a0",
+      "crc32": "9435816d",
+      "sha1": "3164228cf9ab9b4e97d66d469f1ec7db3fc62cee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kgounews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "198c0b15b576383be27c68146aa5d3b3",
+      "md5": "789fbfdf075f45e9beb83a3913dcef66",
       "summation": "md5"
     },
     {
       "name": "kgounews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659030069",
-      "size": "221184",
-      "md5": "2fc6b3e4875f4880c101d9a9974d9194",
-      "crc32": "d56da379",
-      "sha1": "eaae238e70f41cbe0ddcc769da7cdd79e00cea69",
+      "mtime": "1659062309",
+      "size": "229376",
+      "md5": "671057d62263263887b7ddb1198cafbe",
+      "crc32": "6c7169cf",
+      "sha1": "09468f6002b6bf441fd7a6d5cea727286896af65",
       "format": "Metadata"
     },
     {
@@ -1823,9 +1875,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 174,
-  "item_last_updated": 1659030074,
-  "item_size": 13082453,
+  "files_count": 179,
+  "item_last_updated": 1659062345,
+  "item_size": 13412646,
   "metadata": {
     "identifier": "kgounews-2022",
     "collection": [
@@ -1847,15 +1899,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346372734,
+      "task_id": 3346766364,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1375115285,
+  "uniq": 1504870863,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

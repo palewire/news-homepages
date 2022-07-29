@@ -1,5 +1,5 @@
 {
-  "created": 1659054721,
+  "created": 1659098171,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/17/items/theatlantic-2022",
@@ -3652,31 +3652,83 @@
       "sha1": "6b37a2e3a2e2b5e48f2f68f8cb6d57f95cfcf115"
     },
     {
+      "name": "theatlantic-2022-07-28T21:26:23.993995-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659057987",
+      "size": "25171",
+      "md5": "01f5138d59846840b7b9c391410f9cbb",
+      "crc32": "5bca3f89",
+      "sha1": "7ce3157e53cb21596b8f656259167e1e7a5926c3",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-07-28T21:26:23.993995-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659057989",
+      "size": "28634",
+      "md5": "ba78e41c4bb8d9e73a2b8ee0a1a69c40",
+      "crc32": "a04709c8",
+      "sha1": "59f8355f22cd1ea56eeed980a9c847134ca7014e",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-07-28T21:26:23.993995-04:00.jpg",
+      "source": "original",
+      "mtime": "1659057986",
+      "size": "320506",
+      "md5": "7641e14793bd7bba9309f7df1fe24d7f",
+      "crc32": "bdf92732",
+      "sha1": "0b7675163c9bea9637b711cf7526d99be86cb56c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theatlantic-2022-07-28T21:26:23.993995-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659057991",
+      "size": "1504",
+      "md5": "36974b2b2f4afe4618633eb500b6fd93",
+      "crc32": "e1f56d81",
+      "sha1": "9f954425a59d1eff1e14bf2c7a7de2428b067764",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-07-28T21:26:23.993995-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theatlantic-2022-07-28T21:26:23.993995-04:00.jpg",
+      "mtime": "1659087674",
+      "size": "10238",
+      "md5": "d0ef8b90bc5dfc30f4f4495b24bcb31d",
+      "crc32": "a00f759f",
+      "sha1": "4fca13a58699c911d0703d87b4fae9ffe3630688"
+    },
+    {
       "name": "theatlantic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4ebb8acf8c420acac3007ff63c2180399adea31c",
-      "mtime": "1659036759",
-      "size": "75813",
-      "md5": "3486d72ed69b1e8c22681a3093dbeffc",
-      "crc32": "95a95ccb",
-      "sha1": "bf6017cfb1d3a84c66957fc8c7421f8d23c176ad",
+      "btih": "43e6a03fe76d89d6680dc9752211577495fa436e",
+      "mtime": "1659087679",
+      "size": "76868",
+      "md5": "7303fb3385934189086d1a6f76cae31b",
+      "crc32": "36686c00",
+      "sha1": "08d63051f920172726b2d51689bd48bd8b5eba8f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theatlantic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ead57967e672b842b53f1ccf851a65fb",
+      "md5": "c479beff2498e74698508d796dc73393",
       "summation": "md5"
     },
     {
       "name": "theatlantic-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659014737",
-      "size": "425984",
-      "md5": "fbd773a3694c43cffdca44a6a3c746b9",
-      "crc32": "3bb64a07",
-      "sha1": "3e6063a62d959405a35a9441330ea35600002e3a",
+      "mtime": "1659057994",
+      "size": "434176",
+      "md5": "9249370e6366818ce5a45d8037a36db6",
+      "crc32": "589a5977",
+      "sha1": "2cbbfd2b688e7ffdd074c12a419df332ef450bec",
       "format": "Metadata"
     },
     {
@@ -3690,9 +3742,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 352,
-  "item_last_updated": 1659036759,
-  "item_size": 29486862,
+  "files_count": 357,
+  "item_last_updated": 1659087679,
+  "item_size": 29882162,
   "metadata": {
     "identifier": "theatlantic-2022",
     "collection": [
@@ -3709,15 +3761,15 @@
     "publicdate": "2022-06-24 23:01:58",
     "addeddate": "2022-06-24 23:01:58"
   },
-  "server": "ia801407.us.archive.org",
+  "server": "ia601407.us.archive.org",
   "theatlantic-2022": [
     {
       "url": "https://www.theatlantic.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theatlantic_com-_-2022_07_28_12_53_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theatlantic_com-_-2022_07_28_12_53_09.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theatlantic_com-_-2022_07_29_01_05_16.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theatlantic_com-_-2022_07_29_01_05_16.report.json",
       "summary": {
-        "performance": 0.48,
+        "performance": 0.54,
         "accessibility": 0.96,
         "best-practices": 0.92,
         "seo": 0.98,
@@ -3727,10 +3779,10 @@
     {
       "url": "https://www.theatlantic.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theatlantic_com-_-2022_07_28_12_53_21.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theatlantic_com-_-2022_07_28_12_53_21.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theatlantic_com-_-2022_07_29_01_05_40.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theatlantic_com-_-2022_07_29_01_05_40.report.json",
       "summary": {
-        "performance": 0.48,
+        "performance": 0.49,
         "accessibility": 0.96,
         "best-practices": 0.92,
         "seo": 0.98,
@@ -3740,10 +3792,10 @@
     {
       "url": "https://www.theatlantic.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theatlantic_com-_-2022_07_28_12_52_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theatlantic_com-_-2022_07_28_12_52_56.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theatlantic_com-_-2022_07_29_01_05_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theatlantic_com-_-2022_07_29_01_05_28.report.json",
       "summary": {
-        "performance": 0.47,
+        "performance": 0.55,
         "accessibility": 0.96,
         "best-practices": 0.92,
         "seo": 0.98,
@@ -3751,9 +3803,9 @@
       }
     }
   ],
-  "uniq": 320001256,
+  "uniq": 236733510,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

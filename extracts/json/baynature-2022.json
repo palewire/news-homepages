@@ -1,5 +1,5 @@
 {
-  "created": 1659053549,
+  "created": 1659087287,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/7/items/baynature-2022",
@@ -2226,31 +2226,83 @@
       "sha1": "b65f3087a2fb72162012fc7ae1615f821568db40"
     },
     {
+      "name": "baynature-2022-07-28T18:22:38.858763-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659057763",
+      "size": "13105",
+      "md5": "dd38359e0c811ab406099c96a3c927da",
+      "crc32": "bcfc20fa",
+      "sha1": "6f030b0e96fda53a90b99152956eb22fa0f7c130",
+      "format": "JSON"
+    },
+    {
+      "name": "baynature-2022-07-28T18:22:38.858763-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659057765",
+      "size": "7920",
+      "md5": "17a65eeb0218e57b912b5b3edb40e509",
+      "crc32": "8a3e8d61",
+      "sha1": "f9fb1862eb4568c43ce73003a72f8d04aa60a2de",
+      "format": "JSON"
+    },
+    {
+      "name": "baynature-2022-07-28T18:22:38.858763-07:00.jpg",
+      "source": "original",
+      "mtime": "1659057760",
+      "size": "338201",
+      "md5": "f765f4712ffbabf64a2f612553a24866",
+      "crc32": "140b6581",
+      "sha1": "06d6b85cc71c0d84c06c427690d8b3c8f681450f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baynature-2022-07-28T18:22:38.858763-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659057767",
+      "size": "1450",
+      "md5": "51f3d54d94620cfbad69cc5f5762fd9f",
+      "crc32": "9eec1e16",
+      "sha1": "86456516e9684b16a28924ea6ef2af09fe0dfa8c",
+      "format": "JSON"
+    },
+    {
+      "name": "baynature-2022-07-28T18:22:38.858763-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baynature-2022-07-28T18:22:38.858763-07:00.jpg",
+      "mtime": "1659087036",
+      "size": "10362",
+      "md5": "d686788a85c795fa06042c8a7889d165",
+      "crc32": "9c76c822",
+      "sha1": "b65f3087a2fb72162012fc7ae1615f821568db40"
+    },
+    {
       "name": "baynature-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b5ea5ce10a72812e0d0d50b6678a306705a81a09",
-      "mtime": "1659036605",
-      "size": "46291",
-      "md5": "1302f7481ad90f75d99e25b81a070db5",
-      "crc32": "c8257267",
-      "sha1": "d609ba9164381e4e78113f961d2869d6d4e20920",
+      "btih": "b6c315114ef2916db62308f4feb5fe02556dfdfe",
+      "mtime": "1659087168",
+      "size": "47335",
+      "md5": "b0455c9220bf5b3fb9bf7d8b07146257",
+      "crc32": "3cc570ab",
+      "sha1": "55ecd89440ddaf06e4ad9fad5ad1066c789ec98a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baynature-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b8412e1a596b05a1960e7597222a6a5d",
+      "md5": "70f50120473ec7629b67957458ec22f4",
       "summation": "md5"
     },
     {
       "name": "baynature-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659014512",
-      "size": "270336",
-      "md5": "066d62adfafebf8b9bd5f641c658b42c",
-      "crc32": "54890705",
-      "sha1": "31ccb3361762d538d6339bf330c3308c93ebaeed",
+      "mtime": "1659057774",
+      "size": "274432",
+      "md5": "30a53cf75d7ae8843071eeef223b076a",
+      "crc32": "e45f2b7d",
+      "sha1": "c7dd5ffdd22a1b29f48fe6b666ac32bacc0d307e",
       "format": "Metadata"
     },
     {
@@ -2264,9 +2316,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 216,
-  "item_last_updated": 1659036605,
-  "item_size": 18442843,
+  "files_count": 221,
+  "item_last_updated": 1659087168,
+  "item_size": 18819021,
   "metadata": {
     "identifier": "baynature-2022",
     "collection": [
@@ -2283,10 +2335,10 @@
     "publicdate": "2022-07-09 03:56:56",
     "addeddate": "2022-07-09 03:56:56"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 685132445,
+  "server": "ia802503.us.archive.org",
+  "uniq": 1658082288,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

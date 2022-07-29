@@ -1,5 +1,5 @@
 {
-  "created": 1659049819,
+  "created": 1659092869,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/9/items/capitalb_atl-2022",
@@ -871,31 +871,83 @@
       "format": "JSON"
     },
     {
+      "name": "capitalb_atl-2022-07-28T19:09:32.710086-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capitalb_atl-2022-07-28T19:09:32.710086-04:00.jpg",
+      "mtime": "1659070584",
+      "size": "9914",
+      "md5": "9223e1ea668d9ce40b9fe4ea86bbc65d",
+      "crc32": "1b822cc1",
+      "sha1": "3fe7bb9bfb976146fcd943eef20b0ff1b2287a4a"
+    },
+    {
+      "name": "capitalb_atl-2022-07-29T07:06:34.125793-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659092796",
+      "size": "7402",
+      "md5": "c4d975fcc6434b277395788fc808f08f",
+      "crc32": "d0c5baf9",
+      "sha1": "f1c2d7af6e61ff9c3e6bc1dd3d8988b323c0f238",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalb_atl-2022-07-29T07:06:34.125793-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659092797",
+      "size": "8069",
+      "md5": "7d7078a8eecbaad3b398c2f82c8f63a9",
+      "crc32": "6f9e302e",
+      "sha1": "35c44f7ceda012dfe9a55ead2a7179e80d6e8de0",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalb_atl-2022-07-29T07:06:34.125793-04:00.jpg",
+      "source": "original",
+      "mtime": "1659092795",
+      "size": "312890",
+      "md5": "9c716322f96f9a9414ea4895cbbe9c6d",
+      "crc32": "3fa07fb4",
+      "sha1": "c257cef76ecd41cf59f49195d74da6db03df7804",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capitalb_atl-2022-07-29T07:06:34.125793-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659092798",
+      "size": "1540",
+      "md5": "98402ef7358a05b2f8073f71bd24f723",
+      "crc32": "97601d63",
+      "sha1": "aac7d482779a9e71bea2d0ab8492cf4e2124ee1d",
+      "format": "JSON"
+    },
+    {
       "name": "capitalb_atl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "91e354a1c54aa730f599e9d4d3e61da9239b15c3",
-      "mtime": "1659049817",
-      "size": "19212",
-      "md5": "352ad629d0cca9886e5277e56609d1ad",
-      "crc32": "f9a41b9a",
-      "sha1": "39d6b79e16eaeb7944b1060bfa5d4057e3932e73",
+      "btih": "30d7aa0ba2108182ff3e673e3346777aed5c53cb",
+      "mtime": "1659092866",
+      "size": "20269",
+      "md5": "bda4794a77b7955bd4514df23ec23c76",
+      "crc32": "5c2d94ff",
+      "sha1": "b9babd025d5a889b784e3eca2571d54c00cc27ab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capitalb_atl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a3a7f60d9a7ca3be46625cc3f52ad61d",
+      "md5": "01b47213bbd6329264f1c3a802d873e6",
       "summation": "md5"
     },
     {
       "name": "capitalb_atl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659049783",
-      "size": "126976",
-      "md5": "6f95bf0e0d1153a849bd0b1c6cf58cd0",
-      "crc32": "943a5d33",
-      "sha1": "a830c44111c4d80dd63f65f5d7aa934315c3a8f2",
+      "mtime": "1659092832",
+      "size": "131072",
+      "md5": "db73de65b1914e37f9ff1477aee2ebe8",
+      "crc32": "74df80db",
+      "sha1": "811bad89aa8d1b5094ffe7a0dadb55a4e3f3791b",
       "format": "Metadata"
     },
     {
@@ -909,9 +961,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 87,
-  "item_last_updated": 1659049817,
-  "item_size": 5847400,
+  "files_count": 92,
+  "item_last_updated": 1659092866,
+  "item_size": 6192368,
   "metadata": {
     "identifier": "capitalb_atl-2022",
     "collection": [
@@ -933,7 +985,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346591270,
+      "task_id": 3347109802,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -941,7 +993,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 350771781,
+  "uniq": 726073259,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

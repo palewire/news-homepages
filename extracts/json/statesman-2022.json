@@ -1,5 +1,5 @@
 {
-  "created": 1659048577,
+  "created": 1659066623,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/28/items/statesman-2022",
@@ -1072,31 +1072,72 @@
       "sha1": "c8943e8e416eed3b052a6806863ddb5e6d5f01c8"
     },
     {
+      "name": "statesman-2022-07-28T22:49:35.241121-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659066579",
+      "size": "22877",
+      "md5": "f5c5d667ed449024905d5e224f7a5c26",
+      "crc32": "f32278b8",
+      "sha1": "ee9a7dcb93bc32c12f44bf8c854680aa7eec7a8c",
+      "format": "JSON"
+    },
+    {
+      "name": "statesman-2022-07-28T22:49:35.241121-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659066580",
+      "size": "38107",
+      "md5": "a83f1b191b97c3e8b0c78e18b782718f",
+      "crc32": "ce4a8189",
+      "sha1": "e781ff461f442a62d8199e77befdbe288729a666",
+      "format": "JSON"
+    },
+    {
+      "name": "statesman-2022-07-28T22:49:35.241121-05:00.jpg",
+      "source": "original",
+      "mtime": "1659066577",
+      "size": "294533",
+      "md5": "5165aeb2071a39741215022af89173e4",
+      "crc32": "cc0bf8cd",
+      "sha1": "bd61e8170b0a1cece74b0ec8edcd000be554149c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statesman-2022-07-28T22:49:35.241121-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659066582",
+      "size": "1480",
+      "md5": "ef5134baeaae9303e2d11e119f45ae08",
+      "crc32": "be8ea91a",
+      "sha1": "0df115acf49010243c5c89767e4fa900c3fbb5c9",
+      "format": "JSON"
+    },
+    {
       "name": "statesman-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ad28358790ce93fcd9f163dcdde22b18b2bef0c8",
-      "mtime": "1659048530",
-      "size": "22974",
-      "md5": "de28e6badd73cfa6a9e640bbb35c181e",
-      "crc32": "1f609b4e",
-      "sha1": "9d01e39a923fff3651db2581f433add2768aa27d",
+      "btih": "0767e325640a679ffae61b2103a77539b2514b12",
+      "mtime": "1659066621",
+      "size": "23813",
+      "md5": "753cb4503d36d8d393997ad8b2e14826",
+      "crc32": "20796d13",
+      "sha1": "fb59a0f7debd8461381f068b87bdf1154aa0f4d1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "statesman-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a78975faab8e3b6a4d7b5b64ff543c36",
+      "md5": "f47e5e0ff3536a24dadd897148bdebd3",
       "summation": "md5"
     },
     {
       "name": "statesman-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659023580",
-      "size": "143360",
-      "md5": "085277b30ef0d242f10a2c7419ba1faf",
-      "crc32": "512bffe5",
-      "sha1": "1d9d8f2b7680f2f72f8fec69358cecd1f9d84214",
+      "mtime": "1659066586",
+      "size": "151552",
+      "md5": "7b122633796bb7c875d0094f0545670c",
+      "crc32": "3e73fed3",
+      "sha1": "51bbc78129d4e799b1dc35bca32020b4505bc51b",
       "format": "Metadata"
     },
     {
@@ -1110,9 +1151,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 106,
-  "item_last_updated": 1659048530,
-  "item_size": 7499589,
+  "files_count": 110,
+  "item_last_updated": 1659066621,
+  "item_size": 7865617,
   "metadata": {
     "identifier": "statesman-2022",
     "collection": [
@@ -1129,10 +1170,21 @@
     "publicdate": "2022-07-18 00:05:33",
     "addeddate": "2022-07-18 00:05:33"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 617626128,
+  "pending_tasks": true,
+  "server": "ia902502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3346825206,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1384840400,
   "workable_servers": [
-    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

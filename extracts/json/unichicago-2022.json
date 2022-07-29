@@ -1,5 +1,5 @@
 {
-  "created": 1659054806,
+  "created": 1659098264,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/9/items/unichicago-2022",
@@ -57,31 +57,73 @@
       "format": "JSON"
     },
     {
+      "name": "unichicago-2022-07-28T15:05:03.898412-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "unichicago-2022-07-28T15:05:03.898412-05:00.jpg",
+      "mtime": "1659059223",
+      "size": "9868",
+      "md5": "a81b749c590a3d03132b6d47c7a3ca49",
+      "crc32": "0b5a1ac2",
+      "sha1": "9ad65854e951a088c0cc88e8522400cf71ea13f4"
+    },
+    {
+      "name": "unichicago-2022-07-28T22:52:20.992087-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659066743",
+      "size": "16000",
+      "md5": "a433e306ebcd5f2b3936477d1005d648",
+      "crc32": "e001918f",
+      "sha1": "9d9b2c6f0ebe1b437d424303da30b48bdd0eb949",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-07-28T22:52:20.992087-05:00.jpg",
+      "source": "original",
+      "mtime": "1659066742",
+      "size": "207207",
+      "md5": "c25647df1f8fbff6f99ba323a3c42f63",
+      "crc32": "24db1896",
+      "sha1": "85527f03b93d0edc110583b80a97531c27ab4903",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "unichicago-2022-07-28T22:52:20.992087-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659066745",
+      "size": "1647",
+      "md5": "7c85718854b4d7fe78e75b483aeb7506",
+      "crc32": "68a957eb",
+      "sha1": "aa2c1bfd37fd71c9769d04acd0a6cfd6142cc1ac",
+      "format": "JSON"
+    },
+    {
       "name": "unichicago-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5c1eb50381cde0168a85a2c455a5147051f610e9",
-      "mtime": "1659038778",
-      "size": "2484",
-      "md5": "3bb12b7efa035b7aef7064c38d038cd3",
-      "crc32": "b309b0cf",
-      "sha1": "f967c3e1456f4ba33d40a824c42409abc92b340b",
+      "btih": "9d8e91dd53d70e96e94653ec25c738e1451bfecc",
+      "mtime": "1659066787",
+      "size": "3340",
+      "md5": "c30f107b8b5eb0585c995fb97091bcfd",
+      "crc32": "e302f3ba",
+      "sha1": "e2234a265113722264be4b455c768b9ed82fb591",
       "format": "Archive BitTorrent"
     },
     {
       "name": "unichicago-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9568d4b4a39b240091d9e3da47203b6b",
+      "md5": "133f8f87b5906b25ad580e82e14340cf",
       "summation": "md5"
     },
     {
       "name": "unichicago-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659038742",
-      "size": "28672",
-      "md5": "148040bbd91c6cc02bd160a5c2d48144",
-      "crc32": "9ab59084",
-      "sha1": "c3b78c9d93c806fcfa974d8d3395f43c40dac0ef",
+      "mtime": "1659066748",
+      "size": "32768",
+      "md5": "af25bf218b4d97e63dfc7512baa26adf",
+      "crc32": "2ea8148c",
+      "sha1": "22380e44bff558a1b6d64b7cb6776bfdab96ca5e",
       "format": "Metadata"
     },
     {
@@ -95,9 +137,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 9,
-  "item_last_updated": 1659038778,
-  "item_size": 342172,
+  "files_count": 13,
+  "item_last_updated": 1659066787,
+  "item_size": 581846,
   "metadata": {
     "identifier": "unichicago-2022",
     "collection": [
@@ -119,7 +161,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346473273,
+      "task_id": 3346827565,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -131,10 +173,10 @@
     {
       "url": "https://www.univision.com/local/chicago-wgbo",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_local_chicago_wgbo-2022_07_28_20_00_50.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_local_chicago_wgbo-2022_07_28_20_00_50.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_local_chicago_wgbo-2022_07_29_03_34_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_local_chicago_wgbo-2022_07_29_03_34_13.report.json",
       "summary": {
-        "performance": 0.32,
+        "performance": 0.3,
         "accessibility": 0.76,
         "best-practices": 0.83,
         "seo": 0.97,
@@ -144,10 +186,10 @@
     {
       "url": "https://www.univision.com/local/chicago-wgbo",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_local_chicago_wgbo-2022_07_28_20_01_15.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_local_chicago_wgbo-2022_07_28_20_01_15.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_local_chicago_wgbo-2022_07_29_03_35_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_local_chicago_wgbo-2022_07_29_03_35_10.report.json",
       "summary": {
-        "performance": 0.29,
+        "performance": 0.49,
         "accessibility": 0.76,
         "best-practices": 0.83,
         "seo": 0.97,
@@ -157,10 +199,10 @@
     {
       "url": "https://www.univision.com/local/chicago-wgbo",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_local_chicago_wgbo-2022_07_28_20_00_25.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_local_chicago_wgbo-2022_07_28_20_00_25.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_local_chicago_wgbo-2022_07_29_03_34_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_local_chicago_wgbo-2022_07_29_03_34_46.report.json",
       "summary": {
-        "performance": 0.26,
+        "performance": 0.35,
         "accessibility": 0.76,
         "best-practices": 0.83,
         "seo": 0.97,
@@ -168,7 +210,7 @@
       }
     }
   ],
-  "uniq": 1660618578,
+  "uniq": 1511288387,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

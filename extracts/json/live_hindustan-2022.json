@@ -1,5 +1,5 @@
 {
-  "created": 1659053712,
+  "created": 1659097206,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/26/items/live_hindustan-2022",
@@ -213,31 +213,83 @@
       "format": "JSON"
     },
     {
+      "name": "live_hindustan-2022-07-29T05:44:14.970594+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "live_hindustan-2022-07-29T05:44:14.970594+05:30.jpg",
+      "mtime": "1659075178",
+      "size": "11041",
+      "md5": "513cda641b5ca6e1569696a9b6c8a4c3",
+      "crc32": "e634300b",
+      "sha1": "2ccd55590f2cbe9a4eaffd54103a8dbbfbf8b53b"
+    },
+    {
+      "name": "live_hindustan-2022-07-29T17:47:41.917200+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1659097068",
+      "size": "116746",
+      "md5": "b1a964d5c09840ae4a115254b7f618a3",
+      "crc32": "ce4d7172",
+      "sha1": "1b7a3dc710dd5205ab725fb1f34f62cc5c2645ff",
+      "format": "JSON"
+    },
+    {
+      "name": "live_hindustan-2022-07-29T17:47:41.917200+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659097073",
+      "size": "129627",
+      "md5": "7b6ce6428639406e5e966d1c65f46cc1",
+      "crc32": "a8f9ac77",
+      "sha1": "e33f80d97d9f863d4d05a362294601bedee49bb0",
+      "format": "JSON"
+    },
+    {
+      "name": "live_hindustan-2022-07-29T17:47:41.917200+05:30.jpg",
+      "source": "original",
+      "mtime": "1659097064",
+      "size": "343512",
+      "md5": "ba6e1247d0f045d222349dd64b13b6c6",
+      "crc32": "27038c8c",
+      "sha1": "12b299a9027d0f687ad1b5d875cc1ef25fc42236",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "live_hindustan-2022-07-29T17:47:41.917200+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1659097078",
+      "size": "1521",
+      "md5": "00d66075a1ebe8b0e2ad7947dbc87d25",
+      "crc32": "cb0a3e04",
+      "sha1": "011f3826d0ca2077122b0b012eee8854cd0afe0a",
+      "format": "JSON"
+    },
+    {
       "name": "live_hindustan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "753393255a6c6436b04dec021449e875cdf77aae",
-      "mtime": "1659053709",
-      "size": "5838",
-      "md5": "79e7072a01ecb110fd900dbc1918d039",
-      "crc32": "699b2156",
-      "sha1": "dccb1d16bd7e2c8aa1c304e853d548d6ec6a7f9d",
+      "btih": "5bb85753d4ee5fa5bdc8783d9baf264d4553e3e4",
+      "mtime": "1659097195",
+      "size": "6930",
+      "md5": "e2b8807af27b2da42fd73752a9ecb53b",
+      "crc32": "a5ac7643",
+      "sha1": "f000ec1f9553f901f2216d71b807674cf9a150fc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "live_hindustan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "60f96b58577e6c157484948812523ece",
+      "md5": "2e75734363736cfab90b9bd24e918c27",
       "summation": "md5"
     },
     {
       "name": "live_hindustan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659053672",
-      "size": "45056",
-      "md5": "8274cd9226fab52cc8c2633efd935722",
-      "crc32": "c514602c",
-      "sha1": "b46edbcd2d6a9ad185c134d7aa1019b4c59429d3",
+      "mtime": "1659097138",
+      "size": "49152",
+      "md5": "1b6716f0228f77b107de62c0c1cd4f17",
+      "crc32": "7ff69aae",
+      "sha1": "4524a0af244075ce2b6a308420cfa3b752d8cb1f",
       "format": "Metadata"
     },
     {
@@ -251,9 +303,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 24,
-  "item_last_updated": 1659053709,
-  "item_size": 2490160,
+  "files_count": 29,
+  "item_last_updated": 1659097195,
+  "item_size": 3097795,
   "metadata": {
     "identifier": "live_hindustan-2022",
     "collection": [
@@ -275,7 +327,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346643022,
+      "task_id": 3347149670,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -283,7 +335,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 694795046,
+  "uniq": 169364617,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659054135,
+  "created": 1659097247,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/7/items/moreperfectus-2022",
@@ -963,31 +963,83 @@
       "format": "JSON"
     },
     {
+      "name": "moreperfectus-2022-07-28T20:15:02.833214-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "moreperfectus-2022-07-28T20:15:02.833214-04:00.jpg",
+      "mtime": "1659075364",
+      "size": "10406",
+      "md5": "f07b0299da121ed880c3dc2b7ee69a77",
+      "crc32": "6b9a2ca2",
+      "sha1": "1a51e9509e41d90c0e2ad59ff1fe7f616c6b6ca5"
+    },
+    {
+      "name": "moreperfectus-2022-07-29T08:18:55.691876-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659097173",
+      "size": "8122",
+      "md5": "d88754556dda85f2cb4a9a7abd8915b0",
+      "crc32": "461e4e10",
+      "sha1": "bafa4455044ec4ef60414ecd40f93c9dd904e574",
+      "format": "JSON"
+    },
+    {
+      "name": "moreperfectus-2022-07-29T08:18:55.691876-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659097181",
+      "size": "4369",
+      "md5": "c4966620676a9e56eca2fa92032abc50",
+      "crc32": "4e9c1484",
+      "sha1": "b83e6b7d46282042aead502652d3ebf3443c10fe",
+      "format": "JSON"
+    },
+    {
+      "name": "moreperfectus-2022-07-29T08:18:55.691876-04:00.jpg",
+      "source": "original",
+      "mtime": "1659097161",
+      "size": "314764",
+      "md5": "7b0cc90a23dac2e781fd21ef511a5c7d",
+      "crc32": "37bfa0bd",
+      "sha1": "8c2ba361ba3d9fcd15618f0f9153f3cfe56a0c12",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "moreperfectus-2022-07-29T08:18:55.691876-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659097186",
+      "size": "1468",
+      "md5": "4c3292fbcc44243a647392c7be1dcb5f",
+      "crc32": "3b50f136",
+      "sha1": "02b960883ce442c7723c7524660e36075fbb7b0e",
+      "format": "JSON"
+    },
+    {
       "name": "moreperfectus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "879382f0fa34a8d1f3aae8728d241a842dc72d25",
-      "mtime": "1659053915",
-      "size": "21260",
-      "md5": "07ba6ceed31a1a98a9b5dd129cb558a6",
-      "crc32": "5deb3216",
-      "sha1": "359189a90b68cf1c7265516a7422dad255341cf2",
+      "btih": "acbe15a5688a4199c582ddc64b284d4a9f310cd9",
+      "mtime": "1659097244",
+      "size": "22323",
+      "md5": "c36e2485fff99bf674aa558248f19ff7",
+      "crc32": "6181d6ad",
+      "sha1": "46118e6948da6b923de7c49adcf00783e6e1ee0e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "moreperfectus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fcb89fb18d6d5f1af91d4ed77bf8cd28",
+      "md5": "c12712e0bc39833bebe9f26455e7d2b2",
       "summation": "md5"
     },
     {
       "name": "moreperfectus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659053911",
-      "size": "139264",
-      "md5": "be77acdf27929e977238fc323d9c6a61",
-      "crc32": "de290df9",
-      "sha1": "9df5d994df7912ef5aa45cd683bdbf547e51a36f",
+      "mtime": "1659097209",
+      "size": "143360",
+      "md5": "5538839801e14008ecdde58cad13107c",
+      "crc32": "8b179b56",
+      "sha1": "e37dc3544caf97283f2af7d67cb9205460d58992",
       "format": "Metadata"
     },
     {
@@ -1001,9 +1053,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 96,
-  "item_last_updated": 1659053915,
-  "item_size": 6430149,
+  "files_count": 101,
+  "item_last_updated": 1659097244,
+  "item_size": 6774437,
   "metadata": {
     "identifier": "moreperfectus-2022",
     "collection": [
@@ -1025,7 +1077,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346646093,
+      "task_id": 3347149946,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1033,7 +1085,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1064356504,
+  "uniq": 322190470,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

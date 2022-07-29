@@ -1,5 +1,5 @@
 {
-  "created": 1659036652,
+  "created": 1659087046,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/31/items/arstechnica-2022",
@@ -2888,31 +2888,83 @@
       "sha1": "ce59dd1d388961c9f827715d358ad5da9a5c6d65"
     },
     {
+      "name": "arstechnica-2022-07-28T21:22:18.661359-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659057742",
+      "size": "32481",
+      "md5": "a05130a51249b919ccecf0915b785fa1",
+      "crc32": "d7d15dda",
+      "sha1": "f14afc232897f858b20eb5d920cef46d718c764e",
+      "format": "JSON"
+    },
+    {
+      "name": "arstechnica-2022-07-28T21:22:18.661359-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659057744",
+      "size": "35366",
+      "md5": "14667f5bf9b53ea4e221d5e2d746a2b3",
+      "crc32": "a2c30455",
+      "sha1": "a093dc5b1e866f5c03cc639a14d19b28793f77e7",
+      "format": "JSON"
+    },
+    {
+      "name": "arstechnica-2022-07-28T21:22:18.661359-04:00.jpg",
+      "source": "original",
+      "mtime": "1659057740",
+      "size": "335741",
+      "md5": "0e2bef0ea3c17888ac89e1da54c6e07e",
+      "crc32": "e19bdcb4",
+      "sha1": "e47beed6e5723feaef0f6269efb1c5e2b3a6dd97",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arstechnica-2022-07-28T21:22:18.661359-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659057748",
+      "size": "1467",
+      "md5": "896e768376c5d8a6e35d59cade8ab106",
+      "crc32": "9368a441",
+      "sha1": "e7537e4ec8f58b55c6a9a700054bbabab9396d33",
+      "format": "JSON"
+    },
+    {
+      "name": "arstechnica-2022-07-28T21:22:18.661359-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arstechnica-2022-07-28T21:22:18.661359-04:00.jpg",
+      "mtime": "1659086948",
+      "size": "11580",
+      "md5": "5d60cca5b278ee0e7915031dd5738809",
+      "crc32": "314f344e",
+      "sha1": "93948eb2d688ff035f0c2678eea1f584121a6d41"
+    },
+    {
       "name": "arstechnica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "55e080d94231cc9f5d3019a4b11e312e70f5937f",
-      "mtime": "1659036612",
-      "size": "60393",
-      "md5": "e52675058a259931e99fbdca855958c4",
-      "crc32": "f8b0da5c",
-      "sha1": "52e4a1bb50530e56a22a7ee1af1820749ec5e2da",
+      "btih": "574aca1062d8e53572621955ba76ca5c7c49393e",
+      "mtime": "1659086978",
+      "size": "61468",
+      "md5": "81988baddd34eb7a01ec946333a32f39",
+      "crc32": "93fac40d",
+      "sha1": "7646c8219a39cd80826e54928882164cb6992f69",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arstechnica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "901940fa6132eb8091a8a3e9769157a1",
+      "md5": "ae573d3b20fec4ea91234853c2514819",
       "summation": "md5"
     },
     {
       "name": "arstechnica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659014393",
-      "size": "344064",
-      "md5": "ccc025a945a9b1713f1193255a117a26",
-      "crc32": "50710a21",
-      "sha1": "7f773d4c740c700c1928f5630b1953dedad00a3e",
+      "mtime": "1659057754",
+      "size": "348160",
+      "md5": "88d229773431bd04c6f54bb89b3409c6",
+      "crc32": "6cd7cfe0",
+      "sha1": "35e51f4f39cde4cca87e713a8746f697cad1e850",
       "format": "Metadata"
     },
     {
@@ -2926,9 +2978,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 279,
-  "item_last_updated": 1659036612,
-  "item_size": 27710091,
+  "files_count": 284,
+  "item_last_updated": 1659086978,
+  "item_size": 28131897,
   "metadata": {
     "identifier": "arstechnica-2022",
     "collection": [
@@ -2945,10 +2997,10 @@
     "publicdate": "2022-07-04 20:17:38",
     "addeddate": "2022-07-04 20:17:38"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 589651575,
+  "server": "ia601500.us.archive.org",
+  "uniq": 1702128630,
   "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

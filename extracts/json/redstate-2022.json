@@ -1,5 +1,5 @@
 {
-  "created": 1659054417,
+  "created": 1659097518,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/28/items/redstate-2022",
@@ -1563,31 +1563,83 @@
       "format": "JSON"
     },
     {
+      "name": "redstate-2022-07-28T20:19:05.948645-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "redstate-2022-07-28T20:19:05.948645-04:00.jpg",
+      "mtime": "1659075668",
+      "size": "9595",
+      "md5": "59e14fa31d1a6c179cff556c269d7d1c",
+      "crc32": "1db32faa",
+      "sha1": "755f3c0047c30a31f6d4dfdcaa3b2f16ad71fc72"
+    },
+    {
+      "name": "redstate-2022-07-29T08:24:14.338152-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659097457",
+      "size": "31975",
+      "md5": "f9dd3439f2fb30b54d7410dd9fcfb8cd",
+      "crc32": "db8a3090",
+      "sha1": "59439e00802cab573b7773523c432e47f8f3a564",
+      "format": "JSON"
+    },
+    {
+      "name": "redstate-2022-07-29T08:24:14.338152-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659097459",
+      "size": "28355",
+      "md5": "ae3ca7803fa77915f85748bdba616d12",
+      "crc32": "59184ee8",
+      "sha1": "b2420bb1e35dd1ada018eca838b74a51b8dc1f20",
+      "format": "JSON"
+    },
+    {
+      "name": "redstate-2022-07-29T08:24:14.338152-04:00.jpg",
+      "source": "original",
+      "mtime": "1659097456",
+      "size": "266706",
+      "md5": "d6080708142502a8d8387f60b1fa99c1",
+      "crc32": "1a799067",
+      "sha1": "73095f1eb24436bd131f05103550e002db712e72",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "redstate-2022-07-29T08:24:14.338152-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659097461",
+      "size": "1441",
+      "md5": "18b13f1b623c8dad49de25f7966df51d",
+      "crc32": "740e138c",
+      "sha1": "ef62ae46f5ae7225030c76f700292c6fc5dce6d9",
+      "format": "JSON"
+    },
+    {
       "name": "redstate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8f53e43cc135d2488030db702923ce5dd0661baf",
-      "mtime": "1659054300",
-      "size": "32810",
-      "md5": "b0b3c0068653dd2ba3f3b2c3f316db37",
-      "crc32": "75dc5b68",
-      "sha1": "e125c4d2fe4a8dc12a3199f305cf95b491d1af3a",
+      "btih": "4f264b1555ee10967a1386ac1f9a4b96784a8468",
+      "mtime": "1659097514",
+      "size": "33869",
+      "md5": "e32559c7df903a4cd4ff8f5b4a79fcae",
+      "crc32": "fe571dda",
+      "sha1": "dd19e92a643ea6d1df03116eeb56962f1f86485c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "redstate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9de993a78dab3af8e3af8fa9102707d9",
+      "md5": "1da69d06e29cbe3d7356eb68dfd7d624",
       "summation": "md5"
     },
     {
       "name": "redstate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659054295",
-      "size": "200704",
-      "md5": "f1de0bfd241545046d39c980816bedd8",
-      "crc32": "cac55d5a",
-      "sha1": "2c1b5b9860da04d2df467ff0a58a0d5027c6ab62",
+      "mtime": "1659097480",
+      "size": "204800",
+      "md5": "234b63a21afc814926017cd0301c746f",
+      "crc32": "7f0b214c",
+      "sha1": "343b522d3446c6362498ceb58701a9d8a951279e",
       "format": "Metadata"
     },
     {
@@ -1601,9 +1653,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 153,
-  "item_last_updated": 1659054300,
-  "item_size": 11869812,
+  "files_count": 158,
+  "item_last_updated": 1659097514,
+  "item_size": 12213039,
   "metadata": {
     "identifier": "redstate-2022",
     "collection": [
@@ -1625,7 +1677,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346650830,
+      "task_id": 3347152246,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1633,7 +1685,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 525486183,
+  "uniq": 1362275100,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

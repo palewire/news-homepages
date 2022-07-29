@@ -1,5 +1,5 @@
 {
-  "created": 1659054271,
+  "created": 1659097520,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/15/items/scottishsun-2022",
@@ -1869,31 +1869,83 @@
       "format": "JSON"
     },
     {
+      "name": "scottishsun-2022-07-29T01:20:46.555867+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scottishsun-2022-07-29T01:20:46.555867+01:00.jpg",
+      "mtime": "1659075535",
+      "size": "10641",
+      "md5": "cf1fe2371d1d1ffb3c4168d91b6bfcdf",
+      "crc32": "908d6534",
+      "sha1": "e5b85f2588114977b565846c2e90b0e4d3a9ed57"
+    },
+    {
+      "name": "scottishsun-2022-07-29T13:24:27.151125+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659097472",
+      "size": "80495",
+      "md5": "85d1810bf25cda005631ec86d8777fc4",
+      "crc32": "5a05a0f0",
+      "sha1": "0589c87e42b1912372c8e0b70a3ccd0fea729b5c",
+      "format": "JSON"
+    },
+    {
+      "name": "scottishsun-2022-07-29T13:24:27.151125+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659097474",
+      "size": "103681",
+      "md5": "219c02a310deae23019de507feed9854",
+      "crc32": "b7f609b6",
+      "sha1": "402d72a69026bca508538a5d2f0f78429e4eeebd",
+      "format": "JSON"
+    },
+    {
+      "name": "scottishsun-2022-07-29T13:24:27.151125+01:00.jpg",
+      "source": "original",
+      "mtime": "1659097471",
+      "size": "303416",
+      "md5": "3e6911d029a5a6a9e6a1307d67852d00",
+      "crc32": "30193d50",
+      "sha1": "5b44cec30460c682438d8064f9e5d13da932aa7d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scottishsun-2022-07-29T13:24:27.151125+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659097476",
+      "size": "1549",
+      "md5": "1ab6540928c5f1dca6def31c3870d544",
+      "crc32": "245a2230",
+      "sha1": "ed02656f5acc82a416e0c8186ce18675d0948af6",
+      "format": "JSON"
+    },
+    {
       "name": "scottishsun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "436a252082d44cf217fec8ad8028d2388f1d7415",
-      "mtime": "1659054266",
-      "size": "39754",
-      "md5": "690719c3d06e83768fab7406f10c4837",
-      "crc32": "a2a03782",
-      "sha1": "7c7fcbc303b468815e0dda1cdcf17b5a67c6d1bf",
+      "btih": "2f4cce64f81d4edd3db94671328714e284be1bcf",
+      "mtime": "1659097517",
+      "size": "40830",
+      "md5": "b85f50c4ec579e679daff592cddc2301",
+      "crc32": "0d694190",
+      "sha1": "dfbf5dfd16df3284697d5012ef26634513a158b5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scottishsun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "17bf915df7fb52ea52d435beae962335",
+      "md5": "a6cea74ff9f59635f0d72f1b89d36648",
       "summation": "md5"
     },
     {
       "name": "scottishsun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659054226",
-      "size": "233472",
-      "md5": "1240ce3e9ac15a38c753172a6bd608fb",
-      "crc32": "979bb8b4",
-      "sha1": "345aacc7dee7fc643e8991a54efdac337e5704c2",
+      "mtime": "1659097480",
+      "size": "237568",
+      "md5": "2ad098a7200471ccc023c63087534b54",
+      "crc32": "ad8a70de",
+      "sha1": "54646f84e30b60c72032eead823e17111f39fb08",
       "format": "Metadata"
     },
     {
@@ -1907,9 +1959,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 182,
-  "item_last_updated": 1659054266,
-  "item_size": 20874413,
+  "files_count": 187,
+  "item_last_updated": 1659097517,
+  "item_size": 21379367,
   "metadata": {
     "identifier": "scottishsun-2022",
     "collection": [
@@ -1931,7 +1983,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346650493,
+      "task_id": 3347152271,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1939,7 +1991,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2122383612,
+  "uniq": 1546956668,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

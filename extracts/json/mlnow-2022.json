@@ -1,5 +1,5 @@
 {
-  "created": 1659054517,
+  "created": 1659097923,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/29/items/mlnow-2022",
@@ -2174,31 +2174,72 @@
       "sha1": "08bec91f6cb2404bdb1d28ef5b1d60dd2bd348e2"
     },
     {
+      "name": "mlnow-2022-07-28T19:40:35.298679-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659062438",
+      "size": "16569",
+      "md5": "b33739842a9abb6e23c41d34a51fd943",
+      "crc32": "69805936",
+      "sha1": "bebf6f12cbf787193af9cc0213c41964e2999032",
+      "format": "JSON"
+    },
+    {
+      "name": "mlnow-2022-07-28T19:40:35.298679-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659062440",
+      "size": "17141",
+      "md5": "82cabb32cc7db554829a76fb8599e731",
+      "crc32": "5e461e2c",
+      "sha1": "3dfe751c3d34c4fd1f4a4cfcbf6aa52854819d8f",
+      "format": "JSON"
+    },
+    {
+      "name": "mlnow-2022-07-28T19:40:35.298679-07:00.jpg",
+      "source": "original",
+      "mtime": "1659062437",
+      "size": "271337",
+      "md5": "6f787dc1b651068b2721bc9260722ba1",
+      "crc32": "3b2f3d3d",
+      "sha1": "e0d6c643bb55a6db038282328e1b0419b83d2821",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mlnow-2022-07-28T19:40:35.298679-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659062441",
+      "size": "1468",
+      "md5": "96c6bc02d36771ceb9b955cd34dddec6",
+      "crc32": "54ecbcab",
+      "sha1": "5199206bbc7fd1707ddeca5e9ab7cb72ca95f993",
+      "format": "JSON"
+    },
+    {
       "name": "mlnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c0a449d629046163c36d84895f8a333221fa4047",
-      "mtime": "1659047372",
-      "size": "44282",
-      "md5": "e10c963b80f141a682bc26e715bd5acc",
-      "crc32": "1aec774b",
-      "sha1": "fa9c04e557f490ccd7060975e0c77ce5e41962e4",
+      "btih": "8d8d4dcac47db363c88f5014f55652c01073bb5d",
+      "mtime": "1659062482",
+      "size": "45105",
+      "md5": "e16d99d3fbff0233dbd05ff4dca1a804",
+      "crc32": "13fc749f",
+      "sha1": "92468ce3fc6461aaa9ef75d31ebda07d7c1daebc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mlnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "377e8194f52536b5f4400c51827d9fff",
+      "md5": "78aa47cc0a3f59dcaea4afea5f7863ff",
       "summation": "md5"
     },
     {
       "name": "mlnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659023157",
-      "size": "262144",
-      "md5": "eca777ab555e4e576fe1095c5522084d",
-      "crc32": "531f258d",
-      "sha1": "33258bb67c82421e91ef9d798e3f9cf13fba2e2e",
+      "mtime": "1659062447",
+      "size": "266240",
+      "md5": "5e686b01ea77f1f1d2d7a858f6f3d28c",
+      "crc32": "ac3921e3",
+      "sha1": "122722a14f2a71dc701e14e833912158f9f76f29",
       "format": "Metadata"
     },
     {
@@ -2212,9 +2253,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 211,
-  "item_last_updated": 1659047372,
-  "item_size": 14859977,
+  "files_count": 215,
+  "item_last_updated": 1659062482,
+  "item_size": 15171411,
   "metadata": {
     "identifier": "mlnow-2022",
     "collection": [
@@ -2235,10 +2276,10 @@
     {
       "url": "https://missionlocal.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_07_28_14_25_01.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_07_28_14_25_01.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_07_29_02_22_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_07_29_02_22_53.report.json",
       "summary": {
-        "performance": 0.66,
+        "performance": 0.62,
         "accessibility": 0.94,
         "best-practices": 1,
         "seo": 0.98,
@@ -2248,10 +2289,10 @@
     {
       "url": "https://missionlocal.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_07_28_14_25_28.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_07_28_14_25_28.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_07_29_02_23_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_07_29_02_23_52.report.json",
       "summary": {
-        "performance": 0.82,
+        "performance": 0.64,
         "accessibility": 0.94,
         "best-practices": 1,
         "seo": 0.98,
@@ -2261,10 +2302,10 @@
     {
       "url": "https://missionlocal.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_07_28_14_25_16.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_07_28_14_25_16.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_07_29_02_23_24.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_07_29_02_23_24.report.json",
       "summary": {
-        "performance": 0.82,
+        "performance": 0.59,
         "accessibility": 0.94,
         "best-practices": 1,
         "seo": 0.98,
@@ -2272,10 +2313,21 @@
       }
     }
   ],
+  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "uniq": 1696749812,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3346768092,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1355371638,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia902507.us.archive.org"
   ]
 }

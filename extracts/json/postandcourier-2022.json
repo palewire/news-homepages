@@ -1,5 +1,5 @@
 {
-  "created": 1659047448,
+  "created": 1659066500,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/19/items/postandcourier-2022",
@@ -3622,31 +3622,72 @@
       "sha1": "2bc9e236e7ede116d4bf89c2f3ac4fadd46de6e8"
     },
     {
+      "name": "postandcourier-2022-07-28T23:47:20.461541-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659066444",
+      "size": "33144",
+      "md5": "7e69817fa55b5dbf9f551b807a548dad",
+      "crc32": "b728098c",
+      "sha1": "952bdb3c2184631f5168b85a17ac1589231540d3",
+      "format": "JSON"
+    },
+    {
+      "name": "postandcourier-2022-07-28T23:47:20.461541-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659066446",
+      "size": "59572",
+      "md5": "88af6ea4595615d099cbd38d95e9bf59",
+      "crc32": "7c261f71",
+      "sha1": "c816cf715187aaf5573a53a40978579a4f4909e3",
+      "format": "JSON"
+    },
+    {
+      "name": "postandcourier-2022-07-28T23:47:20.461541-04:00.jpg",
+      "source": "original",
+      "mtime": "1659066443",
+      "size": "287400",
+      "md5": "984bc2703e848dd61d60370f69b610a0",
+      "crc32": "a6910965",
+      "sha1": "9ea2906aeec86269fe5f0f4be7908bdbfe1878c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "postandcourier-2022-07-28T23:47:20.461541-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659066447",
+      "size": "1530",
+      "md5": "b4058fa35d059f4ddc6e63f313d58eca",
+      "crc32": "d967690a",
+      "sha1": "1efe17a66617917af01a880df846111d52846b76",
+      "format": "JSON"
+    },
+    {
       "name": "postandcourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6e75476aa0b6f512cada7684816c2b0fcc8350d7",
-      "mtime": "1659047430",
-      "size": "76401",
-      "md5": "036eb2d66f0d838136d4c41c00c4b0ef",
-      "crc32": "90e27378",
-      "sha1": "bbefd9c605f77cf5c59d0c55e0cc0f8be8af320e",
+      "btih": "073368a1320a8aefb7c4420eac8d69b9255918bd",
+      "mtime": "1659066496",
+      "size": "77260",
+      "md5": "1827ceb2a64fdeb39d4573e6ca73686f",
+      "crc32": "54da997c",
+      "sha1": "4cd0ffe992b87262a17a1f1be9ae4c7869e303e8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "postandcourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "398a4021721474ad3c36ca27432839c3",
+      "md5": "8ba3cbd75620750301b7e1c9b107cd8f",
       "summation": "md5"
     },
     {
       "name": "postandcourier-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659023342",
-      "size": "421888",
-      "md5": "fb62ab406ceff03baa7c514838462993",
-      "crc32": "3fc0f48f",
-      "sha1": "e962ac2f24c62b86999aab1d236026a3c355e647",
+      "mtime": "1659066455",
+      "size": "430080",
+      "md5": "d9cec2f50e70dae00f2a844f848b850d",
+      "crc32": "5ef261ea",
+      "sha1": "0f1f0933e730c8ff2a8c53bf79f85f4479cf5fde",
       "format": "Metadata"
     },
     {
@@ -3660,9 +3701,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 349,
-  "item_last_updated": 1659047430,
-  "item_size": 33729358,
+  "files_count": 353,
+  "item_last_updated": 1659066496,
+  "item_size": 34120055,
   "metadata": {
     "identifier": "postandcourier-2022",
     "collection": [
@@ -3679,10 +3720,21 @@
     "publicdate": "2022-06-24 22:59:39",
     "addeddate": "2022-06-24 22:59:39"
   },
+  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "uniq": 243197735,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3346823463,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 828442286,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659047372,
+  "created": 1659062410,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/23/items/lokpath-2022",
@@ -474,31 +474,72 @@
       "sha1": "4bf1936282ce3ea7b250187b2eaeef3a3e025996"
     },
     {
+      "name": "lokpath-2022-07-29T08:24:21.952378+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659062365",
+      "size": "59781",
+      "md5": "1021e73d0a3d202dc2634dfd4a71a895",
+      "crc32": "0164ca9a",
+      "sha1": "4eed23c1355b35f9eaacfdd4556cbb15b4987c40",
+      "format": "JSON"
+    },
+    {
+      "name": "lokpath-2022-07-29T08:24:21.952378+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659062366",
+      "size": "47909",
+      "md5": "e7950cfceae8199b811511b38c147fe4",
+      "crc32": "dca542e9",
+      "sha1": "dc9f3896fb1619e3d044b59806fb8ca6897ff72a",
+      "format": "JSON"
+    },
+    {
+      "name": "lokpath-2022-07-29T08:24:21.952378+05:45.jpg",
+      "source": "original",
+      "mtime": "1659062363",
+      "size": "223003",
+      "md5": "bc7a54826d5a9e1cb5580dc7d0beda79",
+      "crc32": "b1f67dbf",
+      "sha1": "f7b5a50d730aa085a24ca9b8e8c9d320944d2710",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lokpath-2022-07-29T08:24:21.952378+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659062368",
+      "size": "1465",
+      "md5": "f6db9e09199dd524d3e676a2fa1e2e5b",
+      "crc32": "a4a9596b",
+      "sha1": "ea94c4c3fae6f143828f1e51e3bb0f561697db40",
+      "format": "JSON"
+    },
+    {
       "name": "lokpath-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0556e27b1ee0ba9130c834ca52b2fde159a410f8",
-      "mtime": "1659047338",
-      "size": "10813",
-      "md5": "984b4988836922a79134f50a42cbe99f",
-      "crc32": "c38d05c6",
-      "sha1": "462918162d2fe906a7bb067b24fd59f46d876c2b",
+      "btih": "67ad08ba29a3d87b61e096f5c36f94c0a09d4507",
+      "mtime": "1659062408",
+      "size": "11664",
+      "md5": "19b4150a589114a8a45301fa4b12d41a",
+      "crc32": "a252e980",
+      "sha1": "8326633673b1dff3c6d3213c71bb6d0222cc4b98",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lokpath-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3e7af83c0a549a13a2b97bb05e6a2d44",
+      "md5": "7d4df678b8b669f9c5ff4f8150289b6d",
       "summation": "md5"
     },
     {
       "name": "lokpath-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659023080",
-      "size": "69632",
-      "md5": "32002a7bafece58609cb9c04046cb92d",
-      "crc32": "16bd9ab5",
-      "sha1": "56bef87232094ce5b9c6363d332f00a94fbbe7ae",
+      "mtime": "1659062373",
+      "size": "73728",
+      "md5": "a67f79baba5279323affc66d7ad2ebc3",
+      "crc32": "452ae657",
+      "sha1": "d72a1ebea16d81a41632354cb6776949683e0bee",
       "format": "Metadata"
     },
     {
@@ -512,9 +553,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 49,
-  "item_last_updated": 1659047338,
-  "item_size": 3153349,
+  "files_count": 53,
+  "item_last_updated": 1659062408,
+  "item_size": 3490454,
   "metadata": {
     "identifier": "lokpath-2022",
     "collection": [
@@ -531,10 +572,21 @@
     "publicdate": "2022-07-24 20:38:13",
     "addeddate": "2022-07-24 20:38:13"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 2070986990,
+  "pending_tasks": true,
+  "server": "ia902502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3346767221,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1678473744,
   "workable_servers": [
-    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

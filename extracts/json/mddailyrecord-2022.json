@@ -1,5 +1,5 @@
 {
-  "created": 1659053725,
+  "created": 1659097243,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/24/items/mddailyrecord-2022",
@@ -1585,31 +1585,83 @@
       "format": "JSON"
     },
     {
+      "name": "mddailyrecord-2022-07-28T20:14:22.182437-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mddailyrecord-2022-07-28T20:14:22.182437-04:00.jpg",
+      "mtime": "1659075207",
+      "size": "10367",
+      "md5": "2ddb60751cee8bea0c8c4d6a303b94e7",
+      "crc32": "3e45ebc5",
+      "sha1": "a1636aa9a9bd22e773e9da8876b1fe219fe0f2d7"
+    },
+    {
+      "name": "mddailyrecord-2022-07-29T08:18:18.663905-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659097118",
+      "size": "50720",
+      "md5": "72d4f96fd0c4db721253925bb31179a8",
+      "crc32": "b00ada0b",
+      "sha1": "5b0e1d65393b5235e522709a5a4fa0144bb58f35",
+      "format": "JSON"
+    },
+    {
+      "name": "mddailyrecord-2022-07-29T08:18:18.663905-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659097145",
+      "size": "52520",
+      "md5": "90be5b2d4c8584a95f6d9e2d715c3ae1",
+      "crc32": "b2f1a982",
+      "sha1": "767a16a1b5f499ca91a16766972a85d966fd4f71",
+      "format": "JSON"
+    },
+    {
+      "name": "mddailyrecord-2022-07-29T08:18:18.663905-04:00.jpg",
+      "source": "original",
+      "mtime": "1659097106",
+      "size": "377445",
+      "md5": "0ad35ddec32a67d8f6a0b3b1c1c66ea1",
+      "crc32": "c9e49f5b",
+      "sha1": "3b414bd20fc9cea0ddf0cab5d91e80d60b19a439",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mddailyrecord-2022-07-29T08:18:18.663905-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659097167",
+      "size": "1495",
+      "md5": "1698ed793acdeab5910d47f1d8554980",
+      "crc32": "316bd070",
+      "sha1": "3c0107707f476132d838a02fb9a66b8d6cf5515c",
+      "format": "JSON"
+    },
+    {
       "name": "mddailyrecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "18e67a99f05e8599f8fb1f44854679905803a1e4",
-      "mtime": "1659053722",
-      "size": "34014",
-      "md5": "422288415ebe837acb9b3586eb2d42b3",
-      "crc32": "906f64ef",
-      "sha1": "8ff0f1af58f209c473127ead6065e3ce81a00589",
+      "btih": "11c75a3a1672078725bdf0e8edb98c0b2de313d9",
+      "mtime": "1659097240",
+      "size": "35099",
+      "md5": "d36caeca1c6035c13203b0815cea7f2f",
+      "crc32": "4d45027a",
+      "sha1": "7083d613ca83b2a994864eb33feb9dfc2284a5e7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mddailyrecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "801bcd0f652c6b96d4f9d3b52a12d295",
+      "md5": "c328d0f0b3abb9c1570d0bda1086fe72",
       "summation": "md5"
     },
     {
       "name": "mddailyrecord-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659053683",
-      "size": "200704",
-      "md5": "37ea1ed22fb87cee82908f3e558c0c91",
-      "crc32": "315b7b89",
-      "sha1": "be3e28d453f9fa23b40cc164cf5d916ce0619030",
+      "mtime": "1659097204",
+      "size": "204800",
+      "md5": "074ad34c3d9110d3984eb90a06ee16ee",
+      "crc32": "1ac86215",
+      "sha1": "ac5bc830ec14d5f2e9849186d72d39644d2062f2",
       "format": "Metadata"
     },
     {
@@ -1623,9 +1675,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 155,
-  "item_last_updated": 1659053722,
-  "item_size": 14338374,
+  "files_count": 160,
+  "item_last_updated": 1659097240,
+  "item_size": 14836102,
   "metadata": {
     "identifier": "mddailyrecord-2022",
     "collection": [
@@ -1647,7 +1699,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346643224,
+      "task_id": 3347149915,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1655,7 +1707,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 259425758,
+  "uniq": 1716398068,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

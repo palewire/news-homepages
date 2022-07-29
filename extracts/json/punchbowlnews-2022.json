@@ -1,5 +1,5 @@
 {
-  "created": 1659054246,
+  "created": 1659097462,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/25/items/punchbowlnews-2022",
@@ -2215,31 +2215,83 @@
       "format": "JSON"
     },
     {
+      "name": "punchbowlnews-2022-07-28T20:19:04.968916-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "punchbowlnews-2022-07-28T20:19:04.968916-04:00.jpg",
+      "mtime": "1659075638",
+      "size": "8638",
+      "md5": "a674b15398f7babbb154e19f92f131e4",
+      "crc32": "dfa4ac8e",
+      "sha1": "8f8efb42c1b7b06ec22cffc26018e290886d811c"
+    },
+    {
+      "name": "punchbowlnews-2022-07-29T08:23:35.788433-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659097418",
+      "size": "15181",
+      "md5": "7a94baaad60497084b4e07b20cf36e8f",
+      "crc32": "4ef99b0e",
+      "sha1": "cba9154af5a8097f2d617f799cb1a006df212dfc",
+      "format": "JSON"
+    },
+    {
+      "name": "punchbowlnews-2022-07-29T08:23:35.788433-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659097420",
+      "size": "4734",
+      "md5": "b024b3040c1e55afea301e11bc5d3ee7",
+      "crc32": "55a9fcf2",
+      "sha1": "29a7e6847b006d262cf2b0d8efaea26647769b88",
+      "format": "JSON"
+    },
+    {
+      "name": "punchbowlnews-2022-07-29T08:23:35.788433-04:00.jpg",
+      "source": "original",
+      "mtime": "1659097417",
+      "size": "191038",
+      "md5": "6b6c58901da5aff8de8d895ce42ed215",
+      "crc32": "5ae828d7",
+      "sha1": "f37c792ad8b7de762f583ca39e2b364234bab07a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "punchbowlnews-2022-07-29T08:23:35.788433-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659097421",
+      "size": "1450",
+      "md5": "48fd8cf9661f536cf3ca21470015a8c3",
+      "crc32": "26c6f41e",
+      "sha1": "7a53b0c1e0f3626fa289c3b1a20899a67fee9ec1",
+      "format": "JSON"
+    },
+    {
       "name": "punchbowlnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a32632401324523bde4c36b42833ea236b9dcdd2",
-      "mtime": "1659054243",
-      "size": "46649",
-      "md5": "d48097983948ef25ffbdc503ccf4a56c",
-      "crc32": "93f69881",
-      "sha1": "5b1cb2ef2e6255baff8c19eb57f88462212b7ba2",
+      "btih": "fbb13d76932669d4b4e81596b1c77f87833d3b23",
+      "mtime": "1659097460",
+      "size": "47732",
+      "md5": "744fe4882f62df66277d7dbc707bb995",
+      "crc32": "8299bdd3",
+      "sha1": "247cb3f9c2d64abb6963c6780e4b0f4aee4a8a73",
       "format": "Archive BitTorrent"
     },
     {
       "name": "punchbowlnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b55fe663fac486b0d60af011bc4ed153",
+      "md5": "5720477e8deefb6342e683eece41ade6",
       "summation": "md5"
     },
     {
       "name": "punchbowlnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659054206",
-      "size": "270336",
-      "md5": "28e0b82dc503c559c692a64f2f0d909c",
-      "crc32": "f8721fef",
-      "sha1": "104312b16017581f3b85537a2971376c8676151d",
+      "mtime": "1659097425",
+      "size": "274432",
+      "md5": "d7ebe69ba5330407dcdcb9c872aa3947",
+      "crc32": "2ef2c679",
+      "sha1": "169bf8f44652783416aec45bc72eb93863ca84a6",
       "format": "Metadata"
     },
     {
@@ -2253,9 +2305,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 215,
-  "item_last_updated": 1659054243,
-  "item_size": 11507007,
+  "files_count": 220,
+  "item_last_updated": 1659097460,
+  "item_size": 11733227,
   "metadata": {
     "identifier": "punchbowlnews-2022",
     "collection": [
@@ -2277,7 +2329,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346650151,
+      "task_id": 3347151758,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2285,7 +2337,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1151904672,
+  "uniq": 418562380,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

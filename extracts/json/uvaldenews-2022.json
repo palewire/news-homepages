@@ -1,5 +1,5 @@
 {
-  "created": 1659037004,
+  "created": 1659087836,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/5/items/uvaldenews-2022",
@@ -1134,31 +1134,83 @@
       "sha1": "92d8adffa8219e240d9d5bd83ae4127d204651d4"
     },
     {
+      "name": "uvaldenews-2022-07-28T20:29:59.697646-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659058203",
+      "size": "20366",
+      "md5": "f70a7fd151020cf77ba26390579f7f82",
+      "crc32": "f96e2916",
+      "sha1": "db446c0f8e5dd126b1c4e516c1ae7b3134eb853e",
+      "format": "JSON"
+    },
+    {
+      "name": "uvaldenews-2022-07-28T20:29:59.697646-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659058204",
+      "size": "17734",
+      "md5": "1eb47609890cdc47a7b4c5953c67a0b9",
+      "crc32": "e9ed22f3",
+      "sha1": "408c0097b00c7be1a3c45c3d0675cc8b86954057",
+      "format": "JSON"
+    },
+    {
+      "name": "uvaldenews-2022-07-28T20:29:59.697646-05:00.jpg",
+      "source": "original",
+      "mtime": "1659058200",
+      "size": "197449",
+      "md5": "1d0bec74aa2828c18b098b058045b914",
+      "crc32": "6d6a8abc",
+      "sha1": "09b50ded148881d72ecc112df1196d07672c91db",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uvaldenews-2022-07-28T20:29:59.697646-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659058206",
+      "size": "1549",
+      "md5": "f120c1f1c301b6787888552f8d7c5106",
+      "crc32": "e631a9cd",
+      "sha1": "050287bf18018df519f7a5afb8fdd19559d8ae76",
+      "format": "JSON"
+    },
+    {
+      "name": "uvaldenews-2022-07-28T20:29:59.697646-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uvaldenews-2022-07-28T20:29:59.697646-05:00.jpg",
+      "mtime": "1659087791",
+      "size": "10077",
+      "md5": "8e47a23c9002c63412c261be1dd39305",
+      "crc32": "a81d1418",
+      "sha1": "92d8adffa8219e240d9d5bd83ae4127d204651d4"
+    },
+    {
       "name": "uvaldenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "509484419aabf28c4308e2cc45ceb7b730d08b90",
-      "mtime": "1659036931",
-      "size": "24311",
-      "md5": "0b9b6e234f29ab59a513ba4e50a5381f",
-      "crc32": "800eb1c0",
-      "sha1": "0226b5647b519b59df7a47a10b40959aa9efc56b",
+      "btih": "f88de96f3e4746b6a100305447f472179903e16f",
+      "mtime": "1659087820",
+      "size": "25361",
+      "md5": "61c3a8f1417e4bccabd08bba84668a97",
+      "crc32": "c3c0b711",
+      "sha1": "3494ab40f0fec5b6895524a3eab574eeab202745",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uvaldenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a06b246584765b90e929fc201e57673f",
+      "md5": "7068ef597361e1e39ab43311e9c21d60",
       "summation": "md5"
     },
     {
       "name": "uvaldenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659014903",
-      "size": "151552",
-      "md5": "3d77be1fc26651a74caca09a48ba8635",
-      "crc32": "c101f0f1",
-      "sha1": "60047411fa0c133ee1af45935fa5e0f71feb5ba8",
+      "mtime": "1659058217",
+      "size": "155648",
+      "md5": "5db1b96e53b94e8d47eee582d56fc448",
+      "crc32": "b0af0ec9",
+      "sha1": "5ccebd76bf0ae44d1aef40b9c31ecb797427c0d3",
       "format": "Metadata"
     },
     {
@@ -1172,9 +1224,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 112,
-  "item_last_updated": 1659036931,
-  "item_size": 6539975,
+  "files_count": 117,
+  "item_last_updated": 1659087820,
+  "item_size": 6792296,
   "metadata": {
     "identifier": "uvaldenews-2022",
     "collection": [
@@ -1191,10 +1243,10 @@
     "publicdate": "2022-07-18 00:05:55",
     "addeddate": "2022-07-18 00:05:55"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 778970551,
+  "server": "ia601403.us.archive.org",
+  "uniq": 1444864717,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659049984,
+  "created": 1659092951,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/23/items/desert_oracle-2022",
@@ -2185,31 +2185,83 @@
       "format": "JSON"
     },
     {
+      "name": "desert_oracle-2022-07-28T16:12:15.818665-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desert_oracle-2022-07-28T16:12:15.818665-07:00.jpg",
+      "mtime": "1659070764",
+      "size": "6892",
+      "md5": "a01dc3b625b9dac8bb9bb19dc63c4b09",
+      "crc32": "f5851f3e",
+      "sha1": "c9d77f2c8c4c9669b0e1704549288a32106ab7fd"
+    },
+    {
+      "name": "desert_oracle-2022-07-29T04:08:14.055014-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659092898",
+      "size": "7019",
+      "md5": "450c6cc22bd050c1db5c931000d87e9e",
+      "crc32": "b5442e41",
+      "sha1": "0ec1a10d3c1d7c75e0ae9ca4ee4995ae550e1a32",
+      "format": "JSON"
+    },
+    {
+      "name": "desert_oracle-2022-07-29T04:08:14.055014-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659092900",
+      "size": "2698",
+      "md5": "b40e8f951b84093cdb0ce8dff831de3a",
+      "crc32": "42bc7e5f",
+      "sha1": "7fe3bc364fd5f580043290a6a5a62b73a58460b1",
+      "format": "JSON"
+    },
+    {
+      "name": "desert_oracle-2022-07-29T04:08:14.055014-07:00.jpg",
+      "source": "original",
+      "mtime": "1659092896",
+      "size": "125248",
+      "md5": "551f3495fb72e8fffb3121ddfe2279c0",
+      "crc32": "df6f7369",
+      "sha1": "0cf8a0e24ec541196eabd69f905bc58ddfc3212f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desert_oracle-2022-07-29T04:08:14.055014-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659092903",
+      "size": "1510",
+      "md5": "4730cab33e91ce8fe67fcefcbd9e70ee",
+      "crc32": "a3e9594d",
+      "sha1": "8aab202034965804c7e84fcb436214f75f62c6f5",
+      "format": "JSON"
+    },
+    {
       "name": "desert_oracle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f1be43893a9c2455ede976f8cccdc8e4f7b75ca7",
-      "mtime": "1659049982",
-      "size": "45810",
-      "md5": "50a290534a19d3f95a6ea19ec393948b",
-      "crc32": "ef43c7af",
-      "sha1": "90726ae64015809895d3bb132f2a0b3337f748ca",
+      "btih": "f1c5d4575d8485adfe08c5b038f70ff95487c028",
+      "mtime": "1659092943",
+      "size": "46892",
+      "md5": "a4b42211facc6f5b4b3c0b55e02bcefa",
+      "crc32": "db4504e5",
+      "sha1": "c6c9c123f4be5b6ab303fe85a0ec69e83dfd018f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "desert_oracle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "de5d6b09844301ad2846d281693aafa1",
+      "md5": "8e8f57350634293a268ea50249c66d9f",
       "summation": "md5"
     },
     {
       "name": "desert_oracle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659049946",
-      "size": "266240",
-      "md5": "4fa390b344924867034b6c0f32628922",
-      "crc32": "3aab09df",
-      "sha1": "d88541ff39c4560d9963188ba0b2b1a55c892390",
+      "mtime": "1659092907",
+      "size": "270336",
+      "md5": "4852ad63cbc68f96526c83673412c5bf",
+      "crc32": "1b240f9b",
+      "sha1": "0a94ee1cd9456323165882bd2b3ed8b0d916ab13",
       "format": "Metadata"
     },
     {
@@ -2223,9 +2275,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 212,
-  "item_last_updated": 1659049982,
-  "item_size": 7786497,
+  "files_count": 217,
+  "item_last_updated": 1659092943,
+  "item_size": 7935042,
   "metadata": {
     "identifier": "desert_oracle-2022",
     "collection": [
@@ -2247,7 +2299,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346593996,
+      "task_id": 3347110670,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2255,7 +2307,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2068613300,
+  "uniq": 1425155210,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

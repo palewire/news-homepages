@@ -1,5 +1,5 @@
 {
-  "created": 1659036749,
+  "created": 1659087345,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/20/items/dagbladet-2022",
@@ -872,31 +872,83 @@
       "sha1": "cddc3a95fa43dfa56532da7c0627be3c38e32797"
     },
     {
+      "name": "dagbladet-2022-07-29T03:25:10.754228+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659057913",
+      "size": "36360",
+      "md5": "a215cde43ab2cee7cd56f233881f1105",
+      "crc32": "f62c40b4",
+      "sha1": "c99bb0e8eff2dec87153d78f0db2254420c1984e",
+      "format": "JSON"
+    },
+    {
+      "name": "dagbladet-2022-07-29T03:25:10.754228+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659057915",
+      "size": "43754",
+      "md5": "f25f90b82640efcb7035db5655f948db",
+      "crc32": "293f3197",
+      "sha1": "6e3eca443be48c37e32921a9299fcb60c5b744ee",
+      "format": "JSON"
+    },
+    {
+      "name": "dagbladet-2022-07-29T03:25:10.754228+02:00.jpg",
+      "source": "original",
+      "mtime": "1659057912",
+      "size": "226047",
+      "md5": "d8cb718e5849d961d467f7d80ab2d119",
+      "crc32": "c1fa0df5",
+      "sha1": "86908e3894f0b206848ab778132589c7f00feb7c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dagbladet-2022-07-29T03:25:10.754228+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659057918",
+      "size": "1468",
+      "md5": "736bcc8edf0505768978fb08e30227d0",
+      "crc32": "f936e5e3",
+      "sha1": "c7743a1311db6fbd283648cf4933f72d502ad813",
+      "format": "JSON"
+    },
+    {
+      "name": "dagbladet-2022-07-29T03:25:10.754228+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dagbladet-2022-07-29T03:25:10.754228+02:00.jpg",
+      "mtime": "1659087316",
+      "size": "10602",
+      "md5": "1f0b659bd9075c28f9cc225269e0ad17",
+      "crc32": "9e80a0ae",
+      "sha1": "4e428e4d7702d27a700fbe480babf1e9486b316c"
+    },
+    {
       "name": "dagbladet-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e8c7646322000686352bec6e8fe4290451373eb6",
-      "mtime": "1659036717",
-      "size": "18977",
-      "md5": "beb5b9d24e120780157ace5e5281ef36",
-      "crc32": "fb235eb0",
-      "sha1": "8540499b1539f40115ea707e81e7005dc3a4336c",
+      "btih": "3e395b40410723c9b28a2eeca328cdacdf2409fa",
+      "mtime": "1659087321",
+      "size": "20042",
+      "md5": "38c43a7363b8caa71d9e24c99b6d760a",
+      "crc32": "0ed8b7ef",
+      "sha1": "25afa7271c610991873a26b3a22fe89cfbf361f6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dagbladet-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "85efa160899500a6b4e583f295b2cf80",
+      "md5": "437fe7846acb015b4a12afce3f378fd4",
       "summation": "md5"
     },
     {
       "name": "dagbladet-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659014658",
-      "size": "118784",
-      "md5": "d0fb3b7b78635722fb2723082b1d5f9d",
-      "crc32": "75252221",
-      "sha1": "76ba676c22b09fe20c3f6c72938ee82473a90651",
+      "mtime": "1659057922",
+      "size": "131072",
+      "md5": "106bdc5ca27fef2559617cea49124cd3",
+      "crc32": "823b91c4",
+      "sha1": "d78f70fb2695bfcccb382804fc9a87ffbd5add81",
       "format": "Metadata"
     },
     {
@@ -910,9 +962,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 87,
-  "item_last_updated": 1659036717,
-  "item_size": 6243483,
+  "files_count": 92,
+  "item_last_updated": 1659087321,
+  "item_size": 6575067,
   "metadata": {
     "identifier": "dagbladet-2022",
     "collection": [
@@ -929,10 +981,10 @@
     "publicdate": "2022-07-20 11:37:19",
     "addeddate": "2022-07-20 11:37:19"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 1400471209,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1552050479,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

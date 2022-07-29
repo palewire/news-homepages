@@ -1,5 +1,5 @@
 {
-  "created": 1659050073,
+  "created": 1659093056,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/3/items/fairmediawatch-2022",
@@ -1519,31 +1519,83 @@
       "format": "JSON"
     },
     {
+      "name": "fairmediawatch-2022-07-28T19:12:54.980896-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fairmediawatch-2022-07-28T19:12:54.980896-04:00.jpg",
+      "mtime": "1659070785",
+      "size": "9702",
+      "md5": "dd6988b57c04615f1119b7acb2dfa0a1",
+      "crc32": "b55fffb8",
+      "sha1": "22c299796aca3314089be57561262c2ce3fbea9c"
+    },
+    {
+      "name": "fairmediawatch-2022-07-29T07:10:05.666864-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659093008",
+      "size": "27718",
+      "md5": "62f524103fa16c6b18072ac5f23d4b0e",
+      "crc32": "2cf53e73",
+      "sha1": "f49a89db6ce60afef6fb22de458fb97142793844",
+      "format": "JSON"
+    },
+    {
+      "name": "fairmediawatch-2022-07-29T07:10:05.666864-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659093009",
+      "size": "18393",
+      "md5": "48690f34605f8baab23e0d7b1c92206e",
+      "crc32": "bbc07286",
+      "sha1": "7db9a2735b697607b268a7dfe097886a0245e8d1",
+      "format": "JSON"
+    },
+    {
+      "name": "fairmediawatch-2022-07-29T07:10:05.666864-04:00.jpg",
+      "source": "original",
+      "mtime": "1659093006",
+      "size": "257265",
+      "md5": "e974e6e90817d0b52ce3792e8a14d938",
+      "crc32": "b551c057",
+      "sha1": "ea1438694263bb67e9e54227bab63613b6fc0654",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fairmediawatch-2022-07-29T07:10:05.666864-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659093011",
+      "size": "1405",
+      "md5": "5eb2a7904910955f7c9e4fb1b04cd648",
+      "crc32": "23a7edff",
+      "sha1": "28c3f797ae46e6010bc325f4e59dd765e808ec87",
+      "format": "JSON"
+    },
+    {
       "name": "fairmediawatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e687ba0f3728927905bc895380b5d9f962bb3928",
-      "mtime": "1659050067",
-      "size": "32837",
-      "md5": "de7d2eb3df3968091f12a45d560b4a1e",
-      "crc32": "df1e27d4",
-      "sha1": "739f11e9a777486338b09b44850e1bf2f0ab0304",
+      "btih": "5d2b9d6c261e3da19e222ad9fb2c712829985241",
+      "mtime": "1659093053",
+      "size": "33906",
+      "md5": "9b4d0ea0db4b6949e3625f1ab0f6c622",
+      "crc32": "d0d0ee8a",
+      "sha1": "0a270266d0e8de05d92ee547da6b47b12f6ec2b8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fairmediawatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "be7cec682d039eb3653fe5b56c3dc355",
+      "md5": "2b7bdc6e308a65a2fee47695fbb9547a",
       "summation": "md5"
     },
     {
       "name": "fairmediawatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659050064",
-      "size": "196608",
-      "md5": "898413a48289989fa31f96bc0c31e4ac",
-      "crc32": "cd9ea420",
-      "sha1": "57e037d76f45d7bdf98084969fb3bf0ae4f87ad1",
+      "mtime": "1659093017",
+      "size": "200704",
+      "md5": "400c56624fec2fa31526407e8451b09c",
+      "crc32": "1581ea95",
+      "sha1": "1171347af0b4387d8927e0e1a153d405d68c3ee7",
       "format": "Metadata"
     },
     {
@@ -1557,9 +1609,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 149,
-  "item_last_updated": 1659050067,
-  "item_size": 10666642,
+  "files_count": 154,
+  "item_last_updated": 1659093053,
+  "item_size": 10986290,
   "metadata": {
     "identifier": "fairmediawatch-2022",
     "collection": [
@@ -1581,7 +1633,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346595304,
+      "task_id": 3347111708,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1589,7 +1641,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 32435938,
+  "uniq": 1574525023,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

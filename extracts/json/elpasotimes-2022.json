@@ -1,8 +1,49 @@
 {
-  "created": 1659047249,
+  "created": 1659097712,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/34/items/elpasotimes-2022",
+  "elpasotimes-2022": [
+    {
+      "url": "https://www.elpasotimes.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elpasotimes_com-_-2022_07_29_02_12_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elpasotimes_com-_-2022_07_29_02_12_11.report.json",
+      "summary": {
+        "performance": 0.51,
+        "accessibility": 0.87,
+        "best-practices": 1,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.elpasotimes.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elpasotimes_com-_-2022_07_29_02_13_12.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elpasotimes_com-_-2022_07_29_02_13_12.report.json",
+      "summary": {
+        "performance": 0.54,
+        "accessibility": 0.87,
+        "best-practices": 1,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.elpasotimes.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elpasotimes_com-_-2022_07_29_02_11_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elpasotimes_com-_-2022_07_29_02_11_54.report.json",
+      "summary": {
+        "performance": 0.52,
+        "accessibility": 0.87,
+        "best-practices": 1,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    }
+  ],
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -276,31 +317,72 @@
       "sha1": "46594ecd5d20c78298a3dcb35afdb20d51a7a72b"
     },
     {
+      "name": "elpasotimes-2022-07-28T20:34:57.384925-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659062099",
+      "size": "20002",
+      "md5": "34bbc79a4a0bdc628359d93afeba6681",
+      "crc32": "a95c9eb3",
+      "sha1": "5836507ecfb13c4ece5c8e2f299d7da02aa0371c",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasotimes-2022-07-28T20:34:57.384925-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659062100",
+      "size": "29164",
+      "md5": "6b1b8f326b11ccab5dd8d927fc227b97",
+      "crc32": "de449048",
+      "sha1": "4f387735baac0840761bcebeb80d214b2de31883",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasotimes-2022-07-28T20:34:57.384925-06:00.jpg",
+      "source": "original",
+      "mtime": "1659062098",
+      "size": "271161",
+      "md5": "39b7ef4674c2fb6f18bb2fe95f49fbdb",
+      "crc32": "13320485",
+      "sha1": "01b168b79497cc0f7da4c64599c40fa53373cd91",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpasotimes-2022-07-28T20:34:57.384925-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659062102",
+      "size": "1495",
+      "md5": "56bd0a964d2e953e02e6c31ff7b348b6",
+      "crc32": "e142abae",
+      "sha1": "67d26315fae81ec0e34ef26d9344fec3253e6c3b",
+      "format": "JSON"
+    },
+    {
       "name": "elpasotimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6f0393fd62d847d1e59abae3bcff9bcd39da5ca1",
-      "mtime": "1659047209",
-      "size": "6983",
-      "md5": "b66ade352a86e99ea0507e5fb35e941d",
-      "crc32": "c20762a8",
-      "sha1": "97ea3525b201c9bab35bd7b965839b3f366f1682",
+      "btih": "cb3cc7f2ac8e732f5111f04907784e191381dae9",
+      "mtime": "1659062140",
+      "size": "7830",
+      "md5": "80947c23d9bf3c74e38fdb4c9343cf88",
+      "crc32": "a20a205c",
+      "sha1": "f823bf4731da0cc526bfa25e22c49acc30200faf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elpasotimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "106d118acb4fc74c59b34cb837916f89",
+      "md5": "90db915ab118a37918e7349cf1e6ba81",
       "summation": "md5"
     },
     {
       "name": "elpasotimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659022764",
-      "size": "49152",
-      "md5": "abf5a4f99fd0b45be0ada9f871d3a7f2",
-      "crc32": "294cb68b",
-      "sha1": "8f1f8355c0cf6b6d0b17dec155aef5e6cf55a3ed",
+      "mtime": "1659062106",
+      "size": "53248",
+      "md5": "35cca3214b53f1fcdcb5ab9c8f8ad67b",
+      "crc32": "3ff5cf6a",
+      "sha1": "f0c56a360fe34522de9ed1916983900682ea578a",
       "format": "Metadata"
     },
     {
@@ -314,9 +396,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 30,
-  "item_last_updated": 1659047209,
-  "item_size": 1722998,
+  "files_count": 34,
+  "item_last_updated": 1659062140,
+  "item_size": 2049763,
   "metadata": {
     "identifier": "elpasotimes-2022",
     "collection": [
@@ -333,10 +415,21 @@
     "publicdate": "2022-07-26 14:34:01",
     "addeddate": "2022-07-26 14:34:01"
   },
-  "server": "ia801402.us.archive.org",
-  "uniq": 450803572,
+  "pending_tasks": true,
+  "server": "ia601402.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3346763593,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1551356948,
   "workable_servers": [
-    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

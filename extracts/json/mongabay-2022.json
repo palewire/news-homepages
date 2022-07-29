@@ -1,5 +1,5 @@
 {
-  "created": 1659047368,
+  "created": 1659062548,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/5/items/mongabay-2022",
@@ -1796,31 +1796,72 @@
       "sha1": "8b319b11c1dbfd45bdd97847d80a228fb9d50f30"
     },
     {
+      "name": "mongabay-2022-07-28T19:41:38.524170-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659062501",
+      "size": "32453",
+      "md5": "9073cb50127156f2cc920ad1702c5988",
+      "crc32": "e9a1ac89",
+      "sha1": "4ac97c1ee1356ff7aa21c61aa37d6575f8da1d8e",
+      "format": "JSON"
+    },
+    {
+      "name": "mongabay-2022-07-28T19:41:38.524170-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659062503",
+      "size": "20956",
+      "md5": "7e6f94f2e37568685fb66e2262b4c7fd",
+      "crc32": "a1708f3f",
+      "sha1": "4c49ba97ce929142e555b81fffad85d2e1bea106",
+      "format": "JSON"
+    },
+    {
+      "name": "mongabay-2022-07-28T19:41:38.524170-07:00.jpg",
+      "source": "original",
+      "mtime": "1659062500",
+      "size": "331580",
+      "md5": "87a85ed4ceb04d45ec7fcaf94c50cefb",
+      "crc32": "5bc11b1d",
+      "sha1": "072f87c7de399f40cb97148da52a0c335347e55f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mongabay-2022-07-28T19:41:38.524170-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659062505",
+      "size": "1477",
+      "md5": "dfce09ac0b4069de473f7f38fc157689",
+      "crc32": "750e91d7",
+      "sha1": "61abb4fac194cbb0a2cd7679910b74464497fb8b",
+      "format": "JSON"
+    },
+    {
       "name": "mongabay-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6c1008c16be913c9f3f97f62a96d242fedb1aefb",
-      "mtime": "1659047323",
-      "size": "37539",
-      "md5": "d0db769fe9cbdc8c657ba1b9b4c52424",
-      "crc32": "4af53ad5",
-      "sha1": "bf25a16a7a60f0a9c10381d3bfe3191745807008",
+      "btih": "09b24cd5da299aae070e59f899411ca4779179f9",
+      "mtime": "1659062544",
+      "size": "38394",
+      "md5": "fa93ac94c9ae5b09cac8f74de4c6ef60",
+      "crc32": "3646ea2d",
+      "sha1": "ad7b51ca10aed33904f447ce231e72d14a66750d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mongabay-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "af37ab731f3c880a968d58eeb0ab1d93",
+      "md5": "5ecb2bf0bf2466c76641ec29fbd07428",
       "summation": "md5"
     },
     {
       "name": "mongabay-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659023156",
-      "size": "221184",
-      "md5": "629bb13a941eb1a16ef6998510ac8c2c",
-      "crc32": "4d095638",
-      "sha1": "1ed94d053826294a59f7184d5293e64c3e56b98c",
+      "mtime": "1659062509",
+      "size": "229376",
+      "md5": "98aa9ad355d822c0c84d6a08657a25b8",
+      "crc32": "4019e09a",
+      "sha1": "5003082d559192dd70ec84b414bbf5d4df47cef4",
       "format": "Metadata"
     },
     {
@@ -1834,9 +1875,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 175,
-  "item_last_updated": 1659047323,
-  "item_size": 17116362,
+  "files_count": 179,
+  "item_last_updated": 1659062544,
+  "item_size": 17511875,
   "metadata": {
     "identifier": "mongabay-2022",
     "collection": [
@@ -1853,10 +1894,21 @@
     "publicdate": "2022-07-09 04:01:07",
     "addeddate": "2022-07-09 04:01:07"
   },
+  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "uniq": 313228754,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3346768889,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 144025705,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia601503.us.archive.org"
   ]
 }

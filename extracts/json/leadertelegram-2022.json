@@ -1,5 +1,5 @@
 {
-  "created": 1659047311,
+  "created": 1659097880,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/27/items/leadertelegram-2022",
@@ -8090,31 +8090,72 @@
       "sha1": "71dd9e21a203f07abba7307e03da4aa3495f29e9"
     },
     {
+      "name": "leadertelegram-2022-07-28T21:39:21.207605-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659062364",
+      "size": "47665",
+      "md5": "d847f0a65a8b290d604241f4dd3df805",
+      "crc32": "c05c06b3",
+      "sha1": "b5a6fbbb6855c8126419f35a65d15c4938576cbb",
+      "format": "JSON"
+    },
+    {
+      "name": "leadertelegram-2022-07-28T21:39:21.207605-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659062366",
+      "size": "75774",
+      "md5": "dcdda786b2385ad05b51a7f70ac4749d",
+      "crc32": "97c31388",
+      "sha1": "b9463f5a5d522278f1de7630622787a7ae3dbd4c",
+      "format": "JSON"
+    },
+    {
+      "name": "leadertelegram-2022-07-28T21:39:21.207605-05:00.jpg",
+      "source": "original",
+      "mtime": "1659062362",
+      "size": "247049",
+      "md5": "9efc896c57c6e63099454967ed1e02ec",
+      "crc32": "2f7361cc",
+      "sha1": "d5a49467914057eb910a290c486b55630a55d285",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leadertelegram-2022-07-28T21:39:21.207605-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659062367",
+      "size": "1531",
+      "md5": "61b48e70e95441b6eb328da8d08c28bb",
+      "crc32": "df37719e",
+      "sha1": "274762e1b038b5d5cf43c63c897dc3204fc13c73",
+      "format": "JSON"
+    },
+    {
       "name": "leadertelegram-2022_archive.torrent",
       "source": "metadata",
-      "btih": "31cbc100adb620e10ae879f25d8faf2f40bd1127",
-      "mtime": "1659047285",
-      "size": "168681",
-      "md5": "437e1a49c0c3ff33b6a06dca5bf74cba",
-      "crc32": "e0f25f43",
-      "sha1": "ea2e6b9a6bbeb67b4d7bf9301f4ceff27769a7e0",
+      "btih": "eaa0e9d2651d2529a4e8e989b5dceccfaf9260b7",
+      "mtime": "1659062412",
+      "size": "169540",
+      "md5": "15a9eded52f53a9389a72b3ab59daa82",
+      "crc32": "cdceca03",
+      "sha1": "85aad7a0cfb72a60d105f87a443c67915eaead98",
       "format": "Archive BitTorrent"
     },
     {
       "name": "leadertelegram-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "266a0a68e8855ac73c6f777347c7e0a4",
+      "md5": "0085bb4e55a1f6640fb3db930fbcc351",
       "summation": "md5"
     },
     {
       "name": "leadertelegram-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659023037",
-      "size": "905216",
-      "md5": "3ec7c10e5825a6a0d593d42fd223f968",
-      "crc32": "0c5dbe35",
-      "sha1": "af9ed4b7e33e705584d97bebd5e5c2ed8a4042b4",
+      "mtime": "1659062371",
+      "size": "909312",
+      "md5": "56a24b3e33aa6a6dca1470f7dd95a76f",
+      "crc32": "61ab2437",
+      "sha1": "93d32cfb827f9a0102ae3c8831b422de024cccdc",
       "format": "Metadata"
     },
     {
@@ -8128,9 +8169,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 774,
-  "item_last_updated": 1659047285,
-  "item_size": 77845484,
+  "files_count": 778,
+  "item_last_updated": 1659062412,
+  "item_size": 78222458,
+  "leadertelegram-2022": [
+    {
+      "url": "https://www.leadertelegram.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_leadertelegram_com-_-2022_07_29_02_19_33.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_leadertelegram_com-_-2022_07_29_02_19_33.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.79,
+        "best-practices": 0.75,
+        "seo": 0.76,
+        "pwa": 0.2
+      }
+    },
+    {
+      "url": "https://www.leadertelegram.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_leadertelegram_com-_-2022_07_29_02_23_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_leadertelegram_com-_-2022_07_29_02_23_23.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.79,
+        "best-practices": 0.75,
+        "seo": 0.76,
+        "pwa": 0.2
+      }
+    },
+    {
+      "url": "https://www.leadertelegram.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_leadertelegram_com-_-2022_07_29_02_21_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_leadertelegram_com-_-2022_07_29_02_21_28.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.79,
+        "best-practices": 0.75,
+        "seo": 0.76,
+        "pwa": 0.2
+      }
+    }
+  ],
   "metadata": {
     "identifier": "leadertelegram-2022",
     "collection": [
@@ -8147,10 +8229,21 @@
     "publicdate": "2022-03-23 23:07:05",
     "addeddate": "2022-03-23 23:07:05"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 766403355,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3346767314,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2084588969,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

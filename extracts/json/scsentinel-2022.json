@@ -1,5 +1,5 @@
 {
-  "created": 1659054660,
+  "created": 1659098105,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/9/items/scsentinel-2022",
@@ -2102,31 +2102,72 @@
       "sha1": "1995e6041064d56c4ce218f0c28e5cf5bf3a4a64"
     },
     {
+      "name": "scsentinel-2022-07-28T20:48:59.182314-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659066544",
+      "size": "40171",
+      "md5": "5a5b5867dfda7c388e4241172f89f652",
+      "crc32": "71516ce1",
+      "sha1": "5ea1221b7971ba72b1b2b0aeec253e0075df6c38",
+      "format": "JSON"
+    },
+    {
+      "name": "scsentinel-2022-07-28T20:48:59.182314-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659066546",
+      "size": "50457",
+      "md5": "e892b25c2596830526e221ff3ff39904",
+      "crc32": "1f8d812d",
+      "sha1": "e5a496fd5146787b1c50cc9200fb35a20319b193",
+      "format": "JSON"
+    },
+    {
+      "name": "scsentinel-2022-07-28T20:48:59.182314-07:00.jpg",
+      "source": "original",
+      "mtime": "1659066543",
+      "size": "265655",
+      "md5": "0814af8fa29d6fd08cfc91c3a45918c0",
+      "crc32": "5b6cbfb1",
+      "sha1": "4b3aed033bfc40d12757c979e255e485b09e9f71",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scsentinel-2022-07-28T20:48:59.182314-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659066547",
+      "size": "1558",
+      "md5": "b221645ff76c94d92b47708bf4284e95",
+      "crc32": "47760550",
+      "sha1": "9df846bda6b81f5aeba18882bbf87d66d70cde4c",
+      "format": "JSON"
+    },
+    {
       "name": "scsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2e57b0721df0e9ffc9e4a8b0ba21fa26979cb0eb",
-      "mtime": "1659048653",
-      "size": "43959",
-      "md5": "a779e4106d8b3b672d652087e1b10202",
-      "crc32": "9d06e57a",
-      "sha1": "20c0c0d394b2a4b5c160bf1a4446ea93c4eedac8",
+      "btih": "c2e6e7dcfcae2fe87ddf8d63dd6f6802b73aa931",
+      "mtime": "1659066592",
+      "size": "44802",
+      "md5": "45582ef05eb6279ef5993680f3060545",
+      "crc32": "651b7e99",
+      "sha1": "908c43ddebc85dd5e777a31d2223724f1254a0aa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "963099b628cd442f47d2aefdd8d3bde9",
+      "md5": "9f250505b8d9d28b9e818d62f13a4476",
       "summation": "md5"
     },
     {
       "name": "scsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659023542",
-      "size": "253952",
-      "md5": "18d32fbd9af83b36f78a62d4fb596d41",
-      "crc32": "514b0fe7",
-      "sha1": "dd08ef25547e9c565748c679d6b4b070c895ced1",
+      "mtime": "1659066553",
+      "size": "258048",
+      "md5": "7943d71c6fa49ba14e281dec51dd8a08",
+      "crc32": "6704f3c0",
+      "sha1": "76f591fb87170189014fdc1e3e0075ab4782746e",
       "format": "Metadata"
     },
     {
@@ -2140,9 +2181,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 204,
-  "item_last_updated": 1659048653,
-  "item_size": 17424074,
+  "files_count": 208,
+  "item_last_updated": 1659066592,
+  "item_size": 17786854,
   "metadata": {
     "identifier": "scsentinel-2022",
     "collection": [
@@ -2159,15 +2200,16 @@
     "publicdate": "2022-07-09 04:02:13",
     "addeddate": "2022-07-09 04:02:13"
   },
+  "pending_tasks": true,
   "scsentinel-2022": [
     {
       "url": "https://www.santacruzsentinel.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_28_15_10_52.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_28_15_10_52.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_29_03_29_03.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_29_03_29_03.report.json",
       "summary": {
         "performance": 0.07,
-        "accessibility": 0.84,
+        "accessibility": 0.82,
         "best-practices": 0.92,
         "seo": 0.84,
         "pwa": 0.4
@@ -2176,10 +2218,10 @@
     {
       "url": "https://www.santacruzsentinel.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_28_15_11_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_28_15_11_19.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_29_03_29_40.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_29_03_29_40.report.json",
       "summary": {
-        "performance": 0.05,
+        "performance": 0.06,
         "accessibility": 0.84,
         "best-practices": 0.92,
         "seo": 0.84,
@@ -2189,8 +2231,8 @@
     {
       "url": "https://www.santacruzsentinel.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_28_15_11_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_28_15_11_44.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_29_03_28_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santacruzsentinel_com-_-2022_07_29_03_28_37.report.json",
       "summary": {
         "performance": 0.06,
         "accessibility": 0.84,
@@ -2200,10 +2242,20 @@
       }
     }
   ],
-  "server": "ia801400.us.archive.org",
-  "uniq": 457237445,
+  "server": "ia601400.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3346824902,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1612447432,
   "workable_servers": [
-    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

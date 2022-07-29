@@ -1,5 +1,5 @@
 {
-  "created": 1659047116,
+  "created": 1659097777,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/24/items/gradynewsource-2022",
@@ -328,31 +328,72 @@
       "sha1": "d0d20e967d2c73431de5d362376f85fb123b8e9c"
     },
     {
+      "name": "gradynewsource-2022-07-28T22:36:12.885967-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659062175",
+      "size": "48516",
+      "md5": "e8ad28005d3cceb5144b7395e6407e38",
+      "crc32": "a415f367",
+      "sha1": "1b54100f1298c0b71ca689c1da750fa8b31ec7bf",
+      "format": "JSON"
+    },
+    {
+      "name": "gradynewsource-2022-07-28T22:36:12.885967-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659062178",
+      "size": "42824",
+      "md5": "54934829b528605e514a043b3c035494",
+      "crc32": "590ed0e1",
+      "sha1": "cc62c450117e1f8b04e32e8733754b3fe7850043",
+      "format": "JSON"
+    },
+    {
+      "name": "gradynewsource-2022-07-28T22:36:12.885967-04:00.jpg",
+      "source": "original",
+      "mtime": "1659062174",
+      "size": "243309",
+      "md5": "8cc542a0ec3579f16d526742800d546b",
+      "crc32": "fa520f83",
+      "sha1": "ec1d1a9b3d8754ac0e0e8868c5010e7883c29f94",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gradynewsource-2022-07-28T22:36:12.885967-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659062179",
+      "size": "1525",
+      "md5": "c99350de50948e9953ceb10601ff5eea",
+      "crc32": "8ae8dad8",
+      "sha1": "f80e789186da24c6c2ab1f783e05cf9301099c8c",
+      "format": "JSON"
+    },
+    {
       "name": "gradynewsource-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f2d96b0e3a2f73214c170eb6514cfc1b78d0bd3c",
-      "mtime": "1659047101",
-      "size": "8181",
-      "md5": "9565cee5f9376c72f41866eb1a34a702",
-      "crc32": "7d5660af",
-      "sha1": "9ae576c8700cd88e16f6d651e5f2458c0e50680c",
+      "btih": "af4ad812542d2957aed5cadedb0e669dfccc5558",
+      "mtime": "1659062216",
+      "size": "9040",
+      "md5": "4d4ff0e122d7b42e412b9872aef50004",
+      "crc32": "41771391",
+      "sha1": "4a865edc8f8791ced3e98382f1b70a4a9523fa80",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gradynewsource-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2098c228dfb60e25a1f230620e9350aa",
+      "md5": "f28530d3593385642498a1e61e606525",
       "summation": "md5"
     },
     {
       "name": "gradynewsource-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659022867",
-      "size": "53248",
-      "md5": "31a1c531f167b4b9efffa0ce67f2bb98",
-      "crc32": "674cacfc",
-      "sha1": "d7132adce646af80e9c36d9a380af073b4cae5af",
+      "mtime": "1659062182",
+      "size": "61440",
+      "md5": "5488b5855745e21eed9cd0cb2cc908b0",
+      "crc32": "a68453bf",
+      "sha1": "03bba1ec7577dfeb394c0b9c08360a4eeab3dd18",
       "format": "Metadata"
     },
     {
@@ -366,9 +407,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 35,
-  "item_last_updated": 1659047101,
-  "item_size": 2227172,
+  "files_count": 39,
+  "gradynewsource-2022": [
+    {
+      "url": "https://gradynewsource.uga.edu/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/gradynewsource_uga_edu-_-2022_07_29_02_14_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/gradynewsource_uga_edu-_-2022_07_29_02_14_51.report.json",
+      "summary": {
+        "performance": 0.21,
+        "accessibility": 0.9,
+        "best-practices": 0.75,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://gradynewsource.uga.edu/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/gradynewsource_uga_edu-_-2022_07_29_02_15_40.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/gradynewsource_uga_edu-_-2022_07_29_02_15_40.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.9,
+        "best-practices": 0.75,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://gradynewsource.uga.edu/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/gradynewsource_uga_edu-_-2022_07_29_02_15_16.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/gradynewsource_uga_edu-_-2022_07_29_02_15_16.report.json",
+      "summary": {
+        "performance": 0.22,
+        "accessibility": 0.9,
+        "best-practices": 0.75,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "item_last_updated": 1659062216,
+  "item_size": 2572397,
   "metadata": {
     "identifier": "gradynewsource-2022",
     "collection": [
@@ -385,10 +467,21 @@
     "publicdate": "2022-07-26 02:43:21",
     "addeddate": "2022-07-26 02:43:21"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 986286606,
+  "pending_tasks": true,
+  "server": "ia601506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3346764636,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2101162215,
   "workable_servers": [
-    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659054410,
+  "created": 1659097782,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/16/items/hotairblog-2022",
@@ -1521,31 +1521,83 @@
       "format": "JSON"
     },
     {
+      "name": "hotairblog-2022-07-28T14:43:08.518965-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hotairblog-2022-07-28T14:43:08.518965-04:00.jpg",
+      "mtime": "1659056763",
+      "size": "9675",
+      "md5": "0a6ab9ce7ef0bba7a0c9e0d25658deb7",
+      "crc32": "dd08250b",
+      "sha1": "8854918b9dbd2da8e4d2759d4bc751806d231f48"
+    },
+    {
+      "name": "hotairblog-2022-07-28T22:37:14.452529-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659062237",
+      "size": "39135",
+      "md5": "8dcd4f64d2e24f258123fdd915365574",
+      "crc32": "ea61e0a2",
+      "sha1": "3cadfd678c2b050f50ab137c5a539d9da57e8212",
+      "format": "JSON"
+    },
+    {
+      "name": "hotairblog-2022-07-28T22:37:14.452529-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659062244",
+      "size": "30295",
+      "md5": "ece61d2f311023685a4d52ee05345ca7",
+      "crc32": "c9a11382",
+      "sha1": "d0e51bc61ccf00e1b239a2e594ecfdd257d0c66f",
+      "format": "JSON"
+    },
+    {
+      "name": "hotairblog-2022-07-28T22:37:14.452529-04:00.jpg",
+      "source": "original",
+      "mtime": "1659062236",
+      "size": "282505",
+      "md5": "efe9c7e512ec5827bc6e79c32d543e13",
+      "crc32": "677fd41a",
+      "sha1": "56d17c2c4ea7e074206617557fa522b65fe115c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hotairblog-2022-07-28T22:37:14.452529-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659062245",
+      "size": "1420",
+      "md5": "bc416fa27216c4413741b5ddc62a8a33",
+      "crc32": "a1becb25",
+      "sha1": "20a9ce86259a22bd37b7098a9ec575d11cceac75",
+      "format": "JSON"
+    },
+    {
       "name": "hotairblog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db72b1ff5cdf9553123ffcb535a1099b2335d353",
-      "mtime": "1659033904",
-      "size": "32235",
-      "md5": "e88b8d15a6cc64a28adf6d4ea1e7c6eb",
-      "crc32": "5c24a2f9",
-      "sha1": "696e3ca9a5afcd871996c50721747e791f0acb18",
+      "btih": "2ddca11489b3fd59a2a3e5832e2ede1f9976e494",
+      "mtime": "1659062283",
+      "size": "33304",
+      "md5": "1f12cd5f20c5977a3be315be5dfdd0db",
+      "crc32": "433a7643",
+      "sha1": "b9da5fc4e9ef52503834b08c648b5ab57df03110",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hotairblog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c64f72f44fb857d6257189236d96eaeb",
+      "md5": "c0dd479a6f00da5c8e21792c381ef109",
       "summation": "md5"
     },
     {
       "name": "hotairblog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659033902",
-      "size": "196608",
-      "md5": "e16a084060121334387b29e4b0592883",
-      "crc32": "faf1627f",
-      "sha1": "91117ddfcfe0fa9a5fb585b0ba9f94c8a72e5c91",
+      "mtime": "1659062248",
+      "size": "200704",
+      "md5": "5136037af95590f07101f29e084c9b4d",
+      "crc32": "25f41057",
+      "sha1": "44adaa4bedbb80916de8a507fe1ec0af69d3cc21",
       "format": "Metadata"
     },
     {
@@ -1559,15 +1611,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 149,
+  "files_count": 154,
   "hotairblog-2022": [
     {
       "url": "https://hotair.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hotair_com-_-2022_07_28_18_22_22.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hotair_com-_-2022_07_28_18_22_22.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hotair_com-_-2022_07_29_02_15_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hotair_com-_-2022_07_29_02_15_58.report.json",
       "summary": {
-        "performance": 0.31,
+        "performance": 0.34,
         "accessibility": 0.68,
         "best-practices": 0.92,
         "seo": 0.9,
@@ -1577,10 +1629,10 @@
     {
       "url": "https://hotair.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hotair_com-_-2022_07_28_18_23_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hotair_com-_-2022_07_28_18_23_19.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hotair_com-_-2022_07_29_02_16_14.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hotair_com-_-2022_07_29_02_16_14.report.json",
       "summary": {
-        "performance": 0.28,
+        "performance": 0.29,
         "accessibility": 0.68,
         "best-practices": 0.92,
         "seo": 0.9,
@@ -1590,10 +1642,10 @@
     {
       "url": "https://hotair.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hotair_com-_-2022_07_28_18_23_36.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hotair_com-_-2022_07_28_18_23_36.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hotair_com-_-2022_07_29_02_15_42.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hotair_com-_-2022_07_29_02_15_42.report.json",
       "summary": {
-        "performance": 0.4,
+        "performance": 0.27,
         "accessibility": 0.68,
         "best-practices": 0.92,
         "seo": 0.9,
@@ -1601,8 +1653,8 @@
       }
     }
   ],
-  "item_last_updated": 1659033904,
-  "item_size": 11465074,
+  "item_last_updated": 1659062283,
+  "item_size": 11833269,
   "metadata": {
     "identifier": "hotairblog-2022",
     "collection": [
@@ -1624,7 +1676,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346413074,
+      "task_id": 3346765499,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1632,7 +1684,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 966192633,
+  "uniq": 1633772971,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

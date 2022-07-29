@@ -1,5 +1,5 @@
 {
-  "created": 1659034028,
+  "created": 1659066860,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/13/items/worldnetdaily-2022",
@@ -1513,31 +1513,83 @@
       "format": "JSON"
     },
     {
+      "name": "worldnetdaily-2022-07-28T14:44:07.941331-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "worldnetdaily-2022-07-28T14:44:07.941331-04:00.jpg",
+      "mtime": "1659056848",
+      "size": "11864",
+      "md5": "8cc8c96ef5b083c788be3c920b3c7786",
+      "crc32": "e1b40f3a",
+      "sha1": "4a52f2528700bc58e6c44f76191101ed6a8f94dc"
+    },
+    {
+      "name": "worldnetdaily-2022-07-28T23:53:30.133813-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659066814",
+      "size": "21296",
+      "md5": "bb9fc7f90961f15d17fa6697cbc089eb",
+      "crc32": "5a9296b7",
+      "sha1": "fdc5a656192daccc153c8059de0a6785e348d87f",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-07-28T23:53:30.133813-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659066816",
+      "size": "45591",
+      "md5": "cbfc5dd21c1c79f55bdbeea257f16905",
+      "crc32": "4a5ae2c2",
+      "sha1": "1efc61f7c9d80a005b39668b0ab3bf4de16e7492",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-07-28T23:53:30.133813-04:00.jpg",
+      "source": "original",
+      "mtime": "1659066812",
+      "size": "351969",
+      "md5": "3912648a105416c937c6e08a9ec63c7e",
+      "crc32": "d71cab02",
+      "sha1": "748286853c1ae4fecc19e6e97beab874ab775c49",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "worldnetdaily-2022-07-28T23:53:30.133813-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659066818",
+      "size": "1432",
+      "md5": "440813e5613f6286593a525519a256ad",
+      "crc32": "05d83814",
+      "sha1": "3cd4dae9e81003c48def61425768506acfc71500",
+      "format": "JSON"
+    },
+    {
       "name": "worldnetdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "60043ff7957d23120a01db49dede3c30be4c4cde",
-      "mtime": "1659034021",
-      "size": "32627",
-      "md5": "d5b1d9042300af5f59bfe7b193823486",
-      "crc32": "22311ea9",
-      "sha1": "c0e86d505f0a53c387381c314ee342f4f1bd85bb",
+      "btih": "091a5403ef8cb1971151dcfc8d9cdd91d020b4eb",
+      "mtime": "1659066858",
+      "size": "33692",
+      "md5": "17f37125ab139ac047dd5a7ee07a7908",
+      "crc32": "568ecc55",
+      "sha1": "62e291d8783e0f0db154b22a6c8425b814586a07",
       "format": "Archive BitTorrent"
     },
     {
       "name": "worldnetdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "da99c4874eb5c6320de7ef48c327e23c",
+      "md5": "285bf847d202ba335510ca73a9a308d8",
       "summation": "md5"
     },
     {
       "name": "worldnetdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659034018",
-      "size": "192512",
-      "md5": "26f59327a7cc8eaa2c1913c8d44bce17",
-      "crc32": "ee810240",
-      "sha1": "c79b2101cf3d998c308ccfda731ad1c3bc3b138e",
+      "mtime": "1659066823",
+      "size": "196608",
+      "md5": "6aac2609ab4fe36a5a8a8f9fab5812df",
+      "crc32": "583df459",
+      "sha1": "c213dcbcc426731983dc3e45f393fbd470764456",
       "format": "Metadata"
     },
     {
@@ -1551,9 +1603,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 148,
-  "item_last_updated": 1659034021,
-  "item_size": 14713575,
+  "files_count": 153,
+  "item_last_updated": 1659066858,
+  "item_size": 15150888,
   "metadata": {
     "identifier": "worldnetdaily-2022",
     "collection": [
@@ -1575,7 +1627,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346414374,
+      "task_id": 3346828637,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1583,7 +1635,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1239913238,
+  "uniq": 1974709591,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

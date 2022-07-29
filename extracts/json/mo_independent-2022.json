@@ -1,5 +1,5 @@
 {
-  "created": 1659053795,
+  "created": 1659097247,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/3/items/mo_independent-2022",
@@ -2215,31 +2215,83 @@
       "format": "JSON"
     },
     {
+      "name": "mo_independent-2022-07-28T19:15:15.893519-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mo_independent-2022-07-28T19:15:15.893519-05:00.jpg",
+      "mtime": "1659075307",
+      "size": "10701",
+      "md5": "bd202ce3cf5fe54986fd52c0bfc103a4",
+      "crc32": "d11b26f3",
+      "sha1": "a33787437168ef82f50f1bc6e7c5b955d7c9f0c4"
+    },
+    {
+      "name": "mo_independent-2022-07-29T07:18:42.292503-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659097167",
+      "size": "15954",
+      "md5": "72f78886adc2f237108dba9c1de0aabb",
+      "crc32": "9d4bbf6c",
+      "sha1": "77fc80abc7a99c2aedda60c46549e2a48e071667",
+      "format": "JSON"
+    },
+    {
+      "name": "mo_independent-2022-07-29T07:18:42.292503-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659097178",
+      "size": "13662",
+      "md5": "1912854ef1dcea64b8b35a6b6ac0bfcd",
+      "crc32": "8138579f",
+      "sha1": "bdb6143dee0545ac7e45d3ca1c8b6e9ce552391d",
+      "format": "JSON"
+    },
+    {
+      "name": "mo_independent-2022-07-29T07:18:42.292503-05:00.jpg",
+      "source": "original",
+      "mtime": "1659097145",
+      "size": "352254",
+      "md5": "cec7bf1b24fba5136ff4ed0a75d20a2c",
+      "crc32": "f20383da",
+      "sha1": "41aeb80abc8b369696b54f7ea67469099449e8b7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mo_independent-2022-07-29T07:18:42.292503-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659097185",
+      "size": "1539",
+      "md5": "2dba0c249531bc49971d3592e1a69135",
+      "crc32": "ffd06276",
+      "sha1": "9da01e1ce2f5a6cb9a6b70ee3cd3974c9bde796e",
+      "format": "JSON"
+    },
+    {
       "name": "mo_independent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "460f9b8aa660032fbaccfeb9309e5c906474a39a",
-      "mtime": "1659053792",
-      "size": "47220",
-      "md5": "83a64b69c4f32f4500607a567b95457d",
-      "crc32": "949c8cda",
-      "sha1": "864b316fc2dce24eb0015d77458e5cd111310cd8",
+      "btih": "237b238fb43f614163cf9abe9ec93311eff1641d",
+      "mtime": "1659097242",
+      "size": "48310",
+      "md5": "e3b9b903d5a06930b776cead8fdb2b60",
+      "crc32": "5aa7e96f",
+      "sha1": "7bba4b218d7ebf8e3f99c2f24d447cd55f863adc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mo_independent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "688fc22803ddfa4bfd3a9605b3d54c36",
+      "md5": "6edb91d53e38ad87217cffbdcf46e06b",
       "summation": "md5"
     },
     {
       "name": "mo_independent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659053753",
-      "size": "270336",
-      "md5": "149f94abb2e775d74a26986d68a0499a",
-      "crc32": "94cd547f",
-      "sha1": "4af67c5643abae164438a65f8d9214eeb9c08ae1",
+      "mtime": "1659097206",
+      "size": "274432",
+      "md5": "f5b63b25dddabeba32d063274ba6f43b",
+      "crc32": "2a01132b",
+      "sha1": "6f63a44beb5765abb73f553feaa4a57a4c93c316",
       "format": "Metadata"
     },
     {
@@ -2253,9 +2305,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 215,
-  "item_last_updated": 1659053792,
-  "item_size": 18210878,
+  "files_count": 220,
+  "item_last_updated": 1659097242,
+  "item_size": 18610174,
   "metadata": {
     "identifier": "mo_independent-2022",
     "collection": [
@@ -2277,7 +2329,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346644168,
+      "task_id": 3347149955,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2285,7 +2337,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 266943980,
+  "uniq": 1229852291,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

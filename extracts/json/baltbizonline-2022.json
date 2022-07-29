@@ -1,5 +1,5 @@
 {
-  "created": 1659049646,
+  "created": 1659092675,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/4/items/baltbizonline-2022",
@@ -1511,31 +1511,83 @@
       "format": "JSON"
     },
     {
+      "name": "baltbizonline-2022-07-28T19:06:34.430430-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbizonline-2022-07-28T19:06:34.430430-04:00.jpg",
+      "mtime": "1659070402",
+      "size": "8665",
+      "md5": "3334b23f6ce634c744bff7c3c3fd9704",
+      "crc32": "94dbc397",
+      "sha1": "b4dd56943700ea316774d878507567bdea4cdd9a"
+    },
+    {
+      "name": "baltbizonline-2022-07-29T07:03:39.546870-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659092626",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-07-29T07:03:39.546870-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659092627",
+      "size": "20304",
+      "md5": "44e3d30dcbe9f1c99ad32b1ef4387be8",
+      "crc32": "09962fdd",
+      "sha1": "1fb58129cf303d59eb129d1fd8df09e3414ca053",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-07-29T07:03:39.546870-04:00.jpg",
+      "source": "original",
+      "mtime": "1659092624",
+      "size": "250417",
+      "md5": "cdee1d330b22058f2cadf20a4db2444a",
+      "crc32": "40474aeb",
+      "sha1": "08686d15ddd2f3915e731b8236bd3fc16b820346",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbizonline-2022-07-29T07:03:39.546870-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659092629",
+      "size": "1593",
+      "md5": "123dabcee7adfaa80130305622dd6767",
+      "crc32": "e2a2320e",
+      "sha1": "1897ac40426485052aa3d0db8efe48a8a5b61fc4",
+      "format": "JSON"
+    },
+    {
       "name": "baltbizonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d7fc1f6c14d5287b7e3067fee723d7f0459bef67",
-      "mtime": "1659049641",
-      "size": "32334",
-      "md5": "ed0d2db4c0dca6675db930f3469f9fb1",
-      "crc32": "13aeba68",
-      "sha1": "37020c621ea4524cb9cdb9f189d9e5d6a303c0f7",
+      "btih": "45d4211727809f9c4fb992415d2478e2cf2c6a49",
+      "mtime": "1659092672",
+      "size": "33416",
+      "md5": "b210013ff3bf960e52f4d4e3042b90e5",
+      "crc32": "a709c81b",
+      "sha1": "ade43ef4449b169fc176d9b01efe9f3b6197f2ac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltbizonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4ed233daad028897cf6c933ce7b17528",
+      "md5": "d715547e7eb56afdfd2ba0261fd93306",
       "summation": "md5"
     },
     {
       "name": "baltbizonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659049605",
-      "size": "192512",
-      "md5": "5bee9cb286a9bf27c3be930ea55f7e0e",
-      "crc32": "6830b1db",
-      "sha1": "af3750d9b80f4e3e4d68f25bfa75b96d28c5c98d",
+      "mtime": "1659092637",
+      "size": "200704",
+      "md5": "102735002f4463bb0f167deedd57fd7c",
+      "crc32": "034f95ef",
+      "sha1": "704d710775fd5abb41912abf3ce59fd8a17bfcea",
       "format": "Metadata"
     },
     {
@@ -1549,9 +1601,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 148,
-  "item_last_updated": 1659049641,
-  "item_size": 9248548,
+  "files_count": 153,
+  "item_last_updated": 1659092672,
+  "item_size": 9538941,
   "metadata": {
     "identifier": "baltbizonline-2022",
     "collection": [
@@ -1573,7 +1625,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346588942,
+      "task_id": 3347106868,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1581,7 +1633,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 65026234,
+  "uniq": 885235778,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

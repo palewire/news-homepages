@@ -1,5 +1,5 @@
 {
-  "created": 1659054459,
+  "created": 1659097846,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/8/items/kpcc-2022",
@@ -12159,31 +12159,83 @@
       "format": "JSON"
     },
     {
+      "name": "kpcc-2022-07-28T11:41:30.559469-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-07-28T11:41:30.559469-07:00.jpg",
+      "mtime": "1659056755",
+      "size": "9178",
+      "md5": "a8faed3a37eb2126dabeba5af20efc99",
+      "crc32": "db258121",
+      "sha1": "c97f803f29a9e0abe590befffaf64aa1e47833ba"
+    },
+    {
+      "name": "kpcc-2022-07-28T19:38:10.813709-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659062294",
+      "size": "20499",
+      "md5": "ab51dee5191ffbe843807cab9ad2aa92",
+      "crc32": "ee5a13c2",
+      "sha1": "5ea599931cde849e5198ac9d22a673e76a695184",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-07-28T19:38:10.813709-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659062296",
+      "size": "30203",
+      "md5": "c51a5686d9a3157c811aee4935c0d055",
+      "crc32": "8d882f3b",
+      "sha1": "69f902b714cddee58a78a4defcec2eb94df8d9aa",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-07-28T19:38:10.813709-07:00.jpg",
+      "source": "original",
+      "mtime": "1659062292",
+      "size": "253854",
+      "md5": "8e1eab783fee0a7c04c407c6b736d435",
+      "crc32": "47e1f093",
+      "sha1": "5e9588a6803c83bd2b7046c5e8bfcdd44bee0bd4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-07-28T19:38:10.813709-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659062298",
+      "size": "1423",
+      "md5": "0b65e3da22761d26e28ec597c49d4f97",
+      "crc32": "9977ba77",
+      "sha1": "b328b38f0e20e1b77c18e849ef0efe9d11896dcf",
+      "format": "JSON"
+    },
+    {
       "name": "kpcc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1cc1533d1123061a6166186fc109b8017347f116",
-      "mtime": "1659033853",
-      "size": "239957",
-      "md5": "3ad21cb3d5a242fc0f8d09e4ac42e936",
-      "crc32": "79539c69",
-      "sha1": "77889001f15420f8faecc465ae3bab701fcf83af",
+      "btih": "aa9d4d7a5c4b65e7849342a31f66452eadbc066d",
+      "mtime": "1659062349",
+      "size": "240976",
+      "md5": "428e941b958db53add477cd360a503dd",
+      "crc32": "8d205ff6",
+      "sha1": "3cafadd93aa6dc5fa0690013b1e477f8572db3b7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpcc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a0893a8dbe7254ba050f69222f51c35a",
+      "md5": "eca9aca938959c55fe2610e4b1479c0b",
       "summation": "md5"
     },
     {
       "name": "kpcc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659033840",
-      "size": "1327104",
-      "md5": "20dd8c7369474fc135d8c01d77593f3a",
-      "crc32": "a42d7a92",
-      "sha1": "3475a412927bd54e1c46d8306f1adccc0a87b98c",
+      "mtime": "1659062302",
+      "size": "1331200",
+      "md5": "6723929fd6554662e141553f02dc7db3",
+      "crc32": "b18aa8a2",
+      "sha1": "ae0d34e7cc7a9919f6d5f4103991c2fa8cc39dc7",
       "format": "Metadata"
     },
     {
@@ -12197,17 +12249,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1161,
-  "item_last_updated": 1659033853,
-  "item_size": 92032512,
+  "files_count": 1166,
+  "item_last_updated": 1659062349,
+  "item_size": 92352784,
   "kpcc-2022": [
     {
       "url": "https://www.kpcc.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcc_org-_-2022_07_28_18_08_01.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcc_org-_-2022_07_28_18_08_01.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcc_org-_-2022_07_29_02_18_47.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcc_org-_-2022_07_29_02_18_47.report.json",
       "summary": {
-        "performance": 0.28,
+        "performance": 0.21,
         "accessibility": 0.82,
         "best-practices": 1,
         "seo": 1,
@@ -12217,10 +12269,10 @@
     {
       "url": "https://www.kpcc.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcc_org-_-2022_07_28_18_08_16.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcc_org-_-2022_07_28_18_08_16.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcc_org-_-2022_07_29_02_19_03.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcc_org-_-2022_07_29_02_19_03.report.json",
       "summary": {
-        "performance": 0.27,
+        "performance": 0.33,
         "accessibility": 0.82,
         "best-practices": 1,
         "seo": 1,
@@ -12230,10 +12282,10 @@
     {
       "url": "https://www.kpcc.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcc_org-_-2022_07_28_18_08_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcc_org-_-2022_07_28_18_08_31.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcc_org-_-2022_07_29_02_19_16.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcc_org-_-2022_07_29_02_19_16.report.json",
       "summary": {
-        "performance": 0.22,
+        "performance": 0.35,
         "accessibility": 0.82,
         "best-practices": 1,
         "seo": 1,
@@ -12262,7 +12314,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346412556,
+      "task_id": 3346766444,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12270,7 +12322,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2128651688,
+  "uniq": 164545826,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

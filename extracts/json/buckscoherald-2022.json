@@ -1,5 +1,5 @@
 {
-  "created": 1659049776,
+  "created": 1659092806,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/12/items/buckscoherald-2022",
@@ -1837,31 +1837,83 @@
       "format": "JSON"
     },
     {
+      "name": "buckscoherald-2022-07-28T19:08:40.848975-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "buckscoherald-2022-07-28T19:08:40.848975-04:00.jpg",
+      "mtime": "1659070527",
+      "size": "9936",
+      "md5": "c463a85c406e2eb8b1c3f4e28257f417",
+      "crc32": "7d80eb42",
+      "sha1": "3587ddb6e65dea08e0a5104a1a6616ce8b13cf17"
+    },
+    {
+      "name": "buckscoherald-2022-07-29T07:05:53.787731-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659092758",
+      "size": "42532",
+      "md5": "ace876d21e61228530668d70fe869b8d",
+      "crc32": "f8b328cd",
+      "sha1": "51fe7d46465d579115bb8286986a5a3e725a01a0",
+      "format": "JSON"
+    },
+    {
+      "name": "buckscoherald-2022-07-29T07:05:53.787731-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659092759",
+      "size": "52297",
+      "md5": "786cf6777f5c822aefad8d6cf24ec7af",
+      "crc32": "0bb193be",
+      "sha1": "91ddd6e576c13b35fefad998925718d0cd57a0b0",
+      "format": "JSON"
+    },
+    {
+      "name": "buckscoherald-2022-07-29T07:05:53.787731-04:00.jpg",
+      "source": "original",
+      "mtime": "1659092756",
+      "size": "301292",
+      "md5": "82f239fb43f6bf858c8003c95849af53",
+      "crc32": "8570ac8f",
+      "sha1": "b7ba75afc79dc0832a8b58fa757c6f60fd42f5da",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "buckscoherald-2022-07-29T07:05:53.787731-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659092761",
+      "size": "1519",
+      "md5": "bf8ea7352fe308b35f02fbfac6bd163c",
+      "crc32": "768d2b40",
+      "sha1": "dfe22da353280345757692e578df5865e2ae1472",
+      "format": "JSON"
+    },
+    {
       "name": "buckscoherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "77748896369e8e9affc8694dd9d546e51d2afaf4",
-      "mtime": "1659049771",
-      "size": "39263",
-      "md5": "d8682ea168c0f595b515642e48feb711",
-      "crc32": "c2b20f7b",
-      "sha1": "f40c0b00346a0f3c63c5dc2b7d10aca0691d4584",
+      "btih": "425e454d2ff43bb27b469deb4a69db6dd7a95868",
+      "mtime": "1659092803",
+      "size": "40347",
+      "md5": "00c771e9a6138f573635c7a35a0ff251",
+      "crc32": "b62c0166",
+      "sha1": "7fce21d1d1b982951a49a52253e87105da901eda",
       "format": "Archive BitTorrent"
     },
     {
       "name": "buckscoherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f7536985bbeaba1d698bb473953b875a",
+      "md5": "c57271cb56eb621282c46b6c9f2c9bcf",
       "summation": "md5"
     },
     {
       "name": "buckscoherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659049736",
-      "size": "229376",
-      "md5": "146e62a7e45390386d10e6a322c0fcac",
-      "crc32": "0b35ce48",
-      "sha1": "d81bd503018baad4260cbb0dbad21604af66fe50",
+      "mtime": "1659092767",
+      "size": "233472",
+      "md5": "9ab1c65f7b6ae91e23184aaa01a4f3d9",
+      "crc32": "f8aabb16",
+      "sha1": "83fad587721ce13914587229a52b423a145e211a",
       "format": "Metadata"
     },
     {
@@ -1875,9 +1927,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 179,
-  "item_last_updated": 1659049771,
-  "item_size": 16807601,
+  "files_count": 184,
+  "item_last_updated": 1659092803,
+  "item_size": 17220357,
   "metadata": {
     "identifier": "buckscoherald-2022",
     "collection": [
@@ -1899,7 +1951,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346590656,
+      "task_id": 3347109062,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1907,7 +1959,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 43088918,
+  "uniq": 1251794039,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

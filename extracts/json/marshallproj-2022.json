@@ -1,5 +1,5 @@
 {
-  "created": 1659053732,
+  "created": 1659097252,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/16/items/marshallproj-2022",
@@ -5091,31 +5091,83 @@
       "format": "JSON"
     },
     {
+      "name": "marshallproj-2022-07-28T20:14:20.677341-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marshallproj-2022-07-28T20:14:20.677341-04:00.jpg",
+      "mtime": "1659075251",
+      "size": "8259",
+      "md5": "8dc4613c3240740274ffe087bce0563b",
+      "crc32": "57367c1d",
+      "sha1": "33a88449a42df05ceaaedb7ebd713477e9714cec"
+    },
+    {
+      "name": "marshallproj-2022-07-29T08:19:18.028914-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659097178",
+      "size": "15640",
+      "md5": "dd54d103925926a7958c403c59364294",
+      "crc32": "b6bd8caf",
+      "sha1": "92bb83754a6dd606e27bf8c4159a0693e2fea276",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-07-29T08:19:18.028914-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659097184",
+      "size": "20377",
+      "md5": "9682818ed9568ccab3ee90a9cd3117fd",
+      "crc32": "05dc4aab",
+      "sha1": "8a0f88cd9b4667d750ca58ca7a8219991858b668",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-07-29T08:19:18.028914-04:00.jpg",
+      "source": "original",
+      "mtime": "1659097168",
+      "size": "186709",
+      "md5": "f471cefd51171ab606c22c35e4c4303e",
+      "crc32": "e7f3a760",
+      "sha1": "8efab4ee4d46de8ccfeca5d234aeaab14475fba9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marshallproj-2022-07-29T08:19:18.028914-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659097189",
+      "size": "1558",
+      "md5": "ed2388bfb1d16c1510fe42e89b6327c3",
+      "crc32": "3a775054",
+      "sha1": "eda0f43a3025f06775d3432e626b19a4ff102045",
+      "format": "JSON"
+    },
+    {
       "name": "marshallproj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59ce801a7e20e80423509e5e9c6caebcbe183858",
-      "mtime": "1659053726",
-      "size": "104994",
-      "md5": "e490cbe9404072f3d285b7bec9cfe406",
-      "crc32": "c03a7c7d",
-      "sha1": "d47d1caddbec77cb01e42e82ed6ef08fb0e8d6b5",
+      "btih": "a1caab9574a6a10bdbd4a7f74b72478e5bd44bad",
+      "mtime": "1659097249",
+      "size": "106073",
+      "md5": "d75832b6e6a88d97ebceb65d774a9fbd",
+      "crc32": "fe1c37b8",
+      "sha1": "1808a7777715766ed23a08f02108c505fb13e013",
       "format": "Archive BitTorrent"
     },
     {
       "name": "marshallproj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "95b2986032fe431a7022bb0bbc6be3de",
+      "md5": "be678adfef01f8e8a3364783e2fb32d7",
       "summation": "md5"
     },
     {
       "name": "marshallproj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659053684",
-      "size": "585728",
-      "md5": "01ed759b0ace71241b7e5d2595c6f113",
-      "crc32": "b9bc1b9d",
-      "sha1": "fc9acdae04b2854774efa07b60b5fd241c6db0a9",
+      "mtime": "1659097209",
+      "size": "589824",
+      "md5": "e4fb7e1b41185d2b01b5d8103710ef15",
+      "crc32": "8f9a25b4",
+      "sha1": "d8946310980c074afb438428271f8cc799dc8564",
       "format": "Metadata"
     },
     {
@@ -5129,9 +5181,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 489,
-  "item_last_updated": 1659053726,
-  "item_size": 27807079,
+  "files_count": 494,
+  "item_last_updated": 1659097249,
+  "item_size": 28044797,
   "metadata": {
     "identifier": "marshallproj-2022",
     "collection": [
@@ -5153,7 +5205,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346643333,
+      "task_id": 3347149988,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5161,7 +5213,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1124293966,
+  "uniq": 1056779821,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

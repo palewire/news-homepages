@@ -1,5 +1,5 @@
 {
-  "created": 1659054346,
+  "created": 1659097720,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/31/items/fdrlst-2022",
@@ -7,10 +7,10 @@
     {
       "url": "https://thefederalist.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thefederalist_com-_-2022_07_28_22_52_03.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thefederalist_com-_-2022_07_28_22_52_03.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thefederalist_com-_-2022_07_29_10_50_02.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thefederalist_com-_-2022_07_29_10_50_02.report.json",
       "summary": {
-        "performance": 0.3,
+        "performance": 0.14,
         "accessibility": 0.98,
         "best-practices": 0.92,
         "seo": 1,
@@ -20,10 +20,10 @@
     {
       "url": "https://thefederalist.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thefederalist_com-_-2022_07_28_22_52_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thefederalist_com-_-2022_07_28_22_52_20.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thefederalist_com-_-2022_07_29_10_50_24.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thefederalist_com-_-2022_07_29_10_50_24.report.json",
       "summary": {
-        "performance": 0.23,
+        "performance": 0.19,
         "accessibility": 0.98,
         "best-practices": 0.92,
         "seo": 1,
@@ -33,10 +33,10 @@
     {
       "url": "https://thefederalist.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thefederalist_com-_-2022_07_28_22_52_36.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thefederalist_com-_-2022_07_28_22_52_36.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thefederalist_com-_-2022_07_29_10_50_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thefederalist_com-_-2022_07_29_10_50_46.report.json",
       "summary": {
-        "performance": 0.23,
+        "performance": 0.22,
         "accessibility": 0.98,
         "best-practices": 0.92,
         "seo": 1,
@@ -1634,31 +1634,83 @@
       "format": "JSON"
     },
     {
+      "name": "fdrlst-2022-07-28T19:13:11.945749-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fdrlst-2022-07-28T19:13:11.945749-04:00.jpg",
+      "mtime": "1659070849",
+      "size": "9658",
+      "md5": "b1348c5906754a595875cc982fdd1cf8",
+      "crc32": "8d0ea7e9",
+      "sha1": "ab29e3ff4b56e70505d76c49b4a207c55ba7a251"
+    },
+    {
+      "name": "fdrlst-2022-07-29T07:09:28.178768-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659092972",
+      "size": "30913",
+      "md5": "ced970d1ecb6d06ae63d2f0c50103f44",
+      "crc32": "f08f83ae",
+      "sha1": "b08fd4ef5b7372bc38d7a3e14bf478d3c6210cf6",
+      "format": "JSON"
+    },
+    {
+      "name": "fdrlst-2022-07-29T07:09:28.178768-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659092974",
+      "size": "42187",
+      "md5": "6c0bdde70a039b68605c5764db9e66a9",
+      "crc32": "4f656f7e",
+      "sha1": "03ff4fd9a3e25ff1088af3677a69db989aaa8300",
+      "format": "JSON"
+    },
+    {
+      "name": "fdrlst-2022-07-29T07:09:28.178768-04:00.jpg",
+      "source": "original",
+      "mtime": "1659092971",
+      "size": "218196",
+      "md5": "be59b8028d3a9ef9d2d2b885fddeb3fc",
+      "crc32": "b7267845",
+      "sha1": "f2b9db7cf162b055b9614d175d9eaef7585e962c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fdrlst-2022-07-29T07:09:28.178768-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659092976",
+      "size": "1477",
+      "md5": "5bd8fd2b9e7c59382e90d8cfedfadfe0",
+      "crc32": "0d4f1574",
+      "sha1": "75c4ce1f5e0359ead57682fa52a3fcb7c1e20cb7",
+      "format": "JSON"
+    },
+    {
       "name": "fdrlst-2022_archive.torrent",
       "source": "metadata",
-      "btih": "486ccfcf7ef646728f68a94b362353f4a28f65f2",
-      "mtime": "1659050113",
-      "size": "33049",
-      "md5": "fbca82e7fffd4e1d36a1e24bd1b37a97",
-      "crc32": "b60e7363",
-      "sha1": "1ace6eac50dd72fb410e9964d469e3f6f823ac9f",
+      "btih": "f1cae17b7001e42bede635e471d199850ed60a3c",
+      "mtime": "1659093014",
+      "size": "34098",
+      "md5": "603fa25469d29ee1438812d0ea065f6a",
+      "crc32": "c762676d",
+      "sha1": "66956d7f4640c1b2178038dec81f7526332012b4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fdrlst-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "edb8959548543156ad5924358eaa2b6e",
+      "md5": "c0cc6129af6044cbe975b0a9b2618f3c",
       "summation": "md5"
     },
     {
       "name": "fdrlst-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659050110",
-      "size": "204800",
-      "md5": "cfe8c59325da37545b6c57c58212d743",
-      "crc32": "c53962d1",
-      "sha1": "a15a2c72c323c52f52072e53facfe1c4e8d4bb75",
+      "mtime": "1659092980",
+      "size": "208896",
+      "md5": "1bd1e8a2a600e7f8b8e428f507e6ee26",
+      "crc32": "8089d279",
+      "sha1": "feab24c116755d0466f261ec7aa2337eec0c4bb0",
       "format": "Metadata"
     },
     {
@@ -1672,9 +1724,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 156,
-  "item_last_updated": 1659050113,
-  "item_size": 10824866,
+  "files_count": 161,
+  "item_last_updated": 1659093014,
+  "item_size": 11132442,
   "metadata": {
     "identifier": "fdrlst-2022",
     "collection": [
@@ -1696,7 +1748,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346595973,
+      "task_id": 3347111340,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1704,7 +1756,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1812863057,
+  "uniq": 431130431,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

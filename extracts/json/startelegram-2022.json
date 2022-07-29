@@ -1,5 +1,5 @@
 {
-  "created": 1659048538,
+  "created": 1659066634,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/12/items/startelegram-2022",
@@ -1062,31 +1062,72 @@
       "sha1": "f6f2163ea4766a5b00bba85e43cf351d0010c0cd"
     },
     {
+      "name": "startelegram-2022-07-28T22:49:47.847851-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659066590",
+      "size": "462",
+      "md5": "54f9cb6a84095ec859ec9efa237b22d8",
+      "crc32": "3ebd6346",
+      "sha1": "aac9aa5f259515d5dc1ae85fa4b34efaf2621ea7",
+      "format": "JSON"
+    },
+    {
+      "name": "startelegram-2022-07-28T22:49:47.847851-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659066591",
+      "size": "39243",
+      "md5": "917c7f67e9dcf070c6306eeae162bc09",
+      "crc32": "8e57e64d",
+      "sha1": "2db9f826b6e8be74345f49370ccede3475ec1b84",
+      "format": "JSON"
+    },
+    {
+      "name": "startelegram-2022-07-28T22:49:47.847851-05:00.jpg",
+      "source": "original",
+      "mtime": "1659066589",
+      "size": "297461",
+      "md5": "2e59483948577a0242b020ec9846cb72",
+      "crc32": "eb7efbed",
+      "sha1": "141e6d369e83f014d2b7203d248b7ee7a1e8800f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "startelegram-2022-07-28T22:49:47.847851-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659066593",
+      "size": "1516",
+      "md5": "495a44340d3074839a74ffd971c9915e",
+      "crc32": "d356142d",
+      "sha1": "2ea8d158a671b4c3fe8d9e5ac223839e76084536",
+      "format": "JSON"
+    },
+    {
       "name": "startelegram-2022_archive.torrent",
       "source": "metadata",
-      "btih": "81d88b05234cc429991789dbe40c37d90fe10c08",
-      "mtime": "1659048501",
-      "size": "23043",
-      "md5": "d9403f38a0e18f592ca358813b6ca92a",
-      "crc32": "ea3dafa9",
-      "sha1": "ff7de704a1208c5e1f782006c64cdff994becddc",
+      "btih": "a57aab4c6c6ae4288dc931a951e286a2aaf412a0",
+      "mtime": "1659066631",
+      "size": "23912",
+      "md5": "643e866d743a2a82467e4e75b6929055",
+      "crc32": "2f3cbb3a",
+      "sha1": "fb9449806a29e1cbca69bca5a5a655c0d4b43198",
       "format": "Archive BitTorrent"
     },
     {
       "name": "startelegram-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6eb1a361e03059dc941231668700025b",
+      "md5": "547ae8c6025e70b33392b788e83d69fd",
       "summation": "md5"
     },
     {
       "name": "startelegram-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659023600",
-      "size": "143360",
-      "md5": "b7ac780abea50c3f71d9c9e4abf18cf1",
-      "crc32": "ccdc27a8",
-      "sha1": "b78a359b5bafc0ad4c6b26153609034d2221ff12",
+      "mtime": "1659066596",
+      "size": "147456",
+      "md5": "6e3f9041f118df17831ba1edb69c5b49",
+      "crc32": "19c891c4",
+      "sha1": "30e9e9a485f8ff7426a3e3cba15e4e4b258545b6",
       "format": "Metadata"
     },
     {
@@ -1100,9 +1141,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 105,
-  "item_last_updated": 1659048501,
-  "item_size": 7812937,
+  "files_count": 109,
+  "item_last_updated": 1659066631,
+  "item_size": 8156584,
   "metadata": {
     "identifier": "startelegram-2022",
     "collection": [
@@ -1119,10 +1160,21 @@
     "publicdate": "2022-07-18 00:05:19",
     "addeddate": "2022-07-18 00:05:19"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 44389694,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3346825376,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 82777327,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659054284,
+  "created": 1659097672,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/33/items/spectrumnews-2022",
@@ -3727,31 +3727,83 @@
       "format": "JSON"
     },
     {
+      "name": "spectrumnews-2022-07-28T18:21:44.461235-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spectrumnews-2022-07-28T18:21:44.461235-06:00.jpg",
+      "mtime": "1659075608",
+      "size": "9303",
+      "md5": "7bff7b03a1286631aec8e16e23250e61",
+      "crc32": "d52e049b",
+      "sha1": "faa69ea3689551f4aed94a87d9c6f012486d179f"
+    },
+    {
+      "name": "spectrumnews-2022-07-29T06:26:56.927314-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659097620",
+      "size": "21210",
+      "md5": "5c5df927159be1f70ddaa67f82aae2b7",
+      "crc32": "5a4b6493",
+      "sha1": "6d9f96bfb9e9a13051eaff511a4b6caec81e3f2a",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-07-29T06:26:56.927314-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659097625",
+      "size": "29897",
+      "md5": "6410ba1ce3f117d7302d803e49c3a044",
+      "crc32": "2c3c6549",
+      "sha1": "07dfff8fab617fe58aecd34d2853a3b5a4abf7dd",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-07-29T06:26:56.927314-06:00.jpg",
+      "source": "original",
+      "mtime": "1659097618",
+      "size": "229535",
+      "md5": "9b954b19f7e6cd2e1b6bbe9c7f4dafbd",
+      "crc32": "1b89a653",
+      "sha1": "704c1c4e3363c7aa7deb3a78b38ae9552b1a0b82",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spectrumnews-2022-07-29T06:26:56.927314-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659097627",
+      "size": "1501",
+      "md5": "c10a99bec6fd5438bcf33396c22e1f0a",
+      "crc32": "aeed8604",
+      "sha1": "c6bcc7aeb3cf8c3822b8db63cc09e03aeed3c62d",
+      "format": "JSON"
+    },
+    {
       "name": "spectrumnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "181053804c52f4187b8ee249ccd3d19b2c485839",
-      "mtime": "1659054280",
-      "size": "77520",
-      "md5": "4d2e7168423a1fe098882a259bcd0433",
-      "crc32": "dd206bc0",
-      "sha1": "ebe5400a599e82dc23dfa891e31f120b91d7555e",
+      "btih": "b335c2afa09235ff4bea7ddb721d3c84456a4ca7",
+      "mtime": "1659097669",
+      "size": "78579",
+      "md5": "bd0ff438ec776c930305b7d8b5cdb94e",
+      "crc32": "b9308c60",
+      "sha1": "69979db300cd082eb13428ae62968ffb55137882",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spectrumnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "339294924f031942ee0c35fbc1182006",
+      "md5": "54a4929723f54f4685b3e970b85645bd",
       "summation": "md5"
     },
     {
       "name": "spectrumnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659054238",
-      "size": "434176",
-      "md5": "632d99377c59c82fe5f948001b91c11d",
-      "crc32": "24e3a267",
-      "sha1": "2ac54be05976137dd3010de70191c89186927fff",
+      "mtime": "1659097632",
+      "size": "438272",
+      "md5": "768f9454fcc5b3b628b4f73213ad510c",
+      "crc32": "2c96d540",
+      "sha1": "3ba535530d7cad47d4337d063b0b89d3a1f25042",
       "format": "Metadata"
     },
     {
@@ -3765,9 +3817,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 359,
-  "item_last_updated": 1659054280,
-  "item_size": 27424969,
+  "files_count": 364,
+  "item_last_updated": 1659097669,
+  "item_size": 27721570,
   "metadata": {
     "identifier": "spectrumnews-2022",
     "collection": [
@@ -3789,7 +3841,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346650625,
+      "task_id": 3347153396,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3797,7 +3849,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 602990879,
+  "uniq": 1990722721,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

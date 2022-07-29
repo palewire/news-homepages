@@ -1,5 +1,5 @@
 {
-  "created": 1659049746,
+  "created": 1659092743,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/30/items/bleacherreport-2022",
@@ -2237,31 +2237,83 @@
       "format": "JSON"
     },
     {
+      "name": "bleacherreport-2022-07-28T19:08:09.794855-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bleacherreport-2022-07-28T19:08:09.794855-04:00.jpg",
+      "mtime": "1659070501",
+      "size": "10265",
+      "md5": "1adc230f88fa7da2617e54a2c1dfe2a7",
+      "crc32": "76a68902",
+      "sha1": "e312abec80bb4f3cddde49f1eea530fc5435fcee"
+    },
+    {
+      "name": "bleacherreport-2022-07-29T07:04:52.677655-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659092696",
+      "size": "14792",
+      "md5": "8ec396bf69bed362b8b19403d95f7188",
+      "crc32": "eadae0df",
+      "sha1": "6be2e3aadf0e5aafd0aece7a027ae8eae999b1ee",
+      "format": "JSON"
+    },
+    {
+      "name": "bleacherreport-2022-07-29T07:04:52.677655-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659092698",
+      "size": "14795",
+      "md5": "0656921e2eea277ef0285507bea3e904",
+      "crc32": "0fec01f0",
+      "sha1": "89f31c35b5fc3e48b60109fb42d1302aff9e52b3",
+      "format": "JSON"
+    },
+    {
+      "name": "bleacherreport-2022-07-29T07:04:52.677655-04:00.jpg",
+      "source": "original",
+      "mtime": "1659092694",
+      "size": "206671",
+      "md5": "1b07964b0781492841d2b15b447363b8",
+      "crc32": "2ef3afd3",
+      "sha1": "b1f10e3256af65d610c2c359df8025c8aa598254",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bleacherreport-2022-07-29T07:04:52.677655-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659092699",
+      "size": "1494",
+      "md5": "1a41fce6d1d4f64fdbac6dd83d83382f",
+      "crc32": "45992984",
+      "sha1": "41ef8aa0a09eca039299e7216813bbbf812b672a",
+      "format": "JSON"
+    },
+    {
       "name": "bleacherreport-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b4667a04dfd75e840afad69abbc3468240978cf3",
-      "mtime": "1659049742",
-      "size": "47454",
-      "md5": "9cb6f89fa9c2a19f8437901c647550aa",
-      "crc32": "19b53e3f",
-      "sha1": "d397dc9fcfcdc2825aa010ac04be222dcbe6fc17",
+      "btih": "adc9f3392d2354da2b0127dbd75c4198cd0fff98",
+      "mtime": "1659092741",
+      "size": "48544",
+      "md5": "b56f581212dd67b820d5dee5aa10a5e4",
+      "crc32": "fef70697",
+      "sha1": "e6c70819ee77768d8de0eced86044a515f7b78b0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bleacherreport-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0032f110de09d1168550772154068fa1",
+      "md5": "4257862ccd7c321cf94f0837dce720ff",
       "summation": "md5"
     },
     {
       "name": "bleacherreport-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659049706",
-      "size": "270336",
-      "md5": "51c00f64b3305bcf978f32eff663033a",
-      "crc32": "b8955773",
-      "sha1": "674047b848216e1745fe40ea117e8adc6574038e",
+      "mtime": "1659092705",
+      "size": "278528",
+      "md5": "799b1ba90f62a10fa2c1d6933e65f1f8",
+      "crc32": "3a5f4af2",
+      "sha1": "b5722f99bd718d77d0de5cfcfdf5b54fc5c896a2",
       "format": "Metadata"
     },
     {
@@ -2275,9 +2327,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 217,
-  "item_last_updated": 1659049742,
-  "item_size": 13525664,
+  "files_count": 222,
+  "item_last_updated": 1659092741,
+  "item_size": 13782963,
   "metadata": {
     "identifier": "bleacherreport-2022",
     "collection": [
@@ -2299,7 +2351,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346590293,
+      "task_id": 3347108041,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2307,7 +2359,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 600683857,
+  "uniq": 2064265002,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

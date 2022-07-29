@@ -1,5 +1,5 @@
 {
-  "created": 1659048687,
+  "created": 1659066730,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/15/items/thephilacitizen-2022",
@@ -2552,31 +2552,72 @@
       "sha1": "17a37b1a24cfd6649bdc0af503787e48c92da05b"
     },
     {
+      "name": "thephilacitizen-2022-07-28T23:51:18.008183-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659066681",
+      "size": "13762",
+      "md5": "324818ffa64354223ccd078c09f04827",
+      "crc32": "a97e8569",
+      "sha1": "942a4049671d2ce50b47e82fc6ea3ac70b9fb581",
+      "format": "JSON"
+    },
+    {
+      "name": "thephilacitizen-2022-07-28T23:51:18.008183-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659066683",
+      "size": "15814",
+      "md5": "44eff0857c88772941f17d87528dc579",
+      "crc32": "30f71b85",
+      "sha1": "e82d751107950400cfc21956ab215d078c84ad02",
+      "format": "JSON"
+    },
+    {
+      "name": "thephilacitizen-2022-07-28T23:51:18.008183-04:00.jpg",
+      "source": "original",
+      "mtime": "1659066679",
+      "size": "246625",
+      "md5": "c9018aa0ce668f98770f58c2a21eac59",
+      "crc32": "0f4ef7cb",
+      "sha1": "c812b1dba2cbffd8068e8e494d0459e155ec2a6e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thephilacitizen-2022-07-28T23:51:18.008183-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659066684",
+      "size": "1566",
+      "md5": "8f95b0fdbb53599ed4a9a455c43b2953",
+      "crc32": "bd7f4164",
+      "sha1": "b4d3bb560ff69ea0ba781a5e21b3f903cfcc6a65",
+      "format": "JSON"
+    },
+    {
       "name": "thephilacitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b0ac33b20fd8edf3d2e30f06d7864bec073b1cdd",
-      "mtime": "1659048585",
-      "size": "54365",
-      "md5": "8e6e36a51026e22f17865b98ddfeef45",
-      "crc32": "5e258f0e",
-      "sha1": "21f2e77289a37db3541adb2260fd83bde9363f1d",
+      "btih": "5b53433454a00d081aef1f64acc1926b63efc44e",
+      "mtime": "1659066727",
+      "size": "55228",
+      "md5": "6e183636cbda59f551872ccfdd71cc44",
+      "crc32": "e20ebf81",
+      "sha1": "b3b10069efb3720b55b41fa0100ec1a94a646517",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thephilacitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d242ed7261aeb05c143841c7b8e4889d",
+      "md5": "b391c892862b30f07789f479095f760c",
       "summation": "md5"
     },
     {
       "name": "thephilacitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659023736",
-      "size": "307200",
-      "md5": "74aaf8fbc2ff036fdd5b11610b76b424",
-      "crc32": "c755c62d",
-      "sha1": "10512515701c0ee98f5dcdc8bae36c774a7d01ef",
+      "mtime": "1659066690",
+      "size": "311296",
+      "md5": "52fec09ed680673b82e59498f273d33d",
+      "crc32": "e7bb2408",
+      "sha1": "9fd456e662f5ce6dae885ed2c85121d41ef90a4f",
       "format": "Metadata"
     },
     {
@@ -2590,9 +2631,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 247,
-  "item_last_updated": 1659048585,
-  "item_size": 19692788,
+  "files_count": 251,
+  "item_last_updated": 1659066727,
+  "item_size": 19975514,
   "metadata": {
     "identifier": "thephilacitizen-2022",
     "collection": [
@@ -2609,10 +2650,21 @@
     "publicdate": "2022-07-03 15:52:45",
     "addeddate": "2022-07-03 15:52:45"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 1402257879,
+  "pending_tasks": true,
+  "server": "ia601504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3346826711,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 598635225,
   "workable_servers": [
-    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

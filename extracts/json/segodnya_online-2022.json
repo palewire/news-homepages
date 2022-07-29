@@ -1,5 +1,5 @@
 {
-  "created": 1659048572,
+  "created": 1659098115,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/16/items/segodnya_online-2022",
@@ -1174,31 +1174,72 @@
       "sha1": "e2beff5644afde5a134a0caa07531d4ac6e7231d"
     },
     {
+      "name": "segodnya_online-2022-07-29T06:49:27.020409+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659066571",
+      "size": "114670",
+      "md5": "19a0046014e76f11cbf7c30c9e3ee267",
+      "crc32": "31657794",
+      "sha1": "a99351afebc211ba95de042198b16b623e77a82d",
+      "format": "JSON"
+    },
+    {
+      "name": "segodnya_online-2022-07-29T06:49:27.020409+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659066572",
+      "size": "63017",
+      "md5": "26591a81c66ea84a9b269df115e35174",
+      "crc32": "c61c4d42",
+      "sha1": "d89af53de7aa03c60b1d1a61e3f7c25150821054",
+      "format": "JSON"
+    },
+    {
+      "name": "segodnya_online-2022-07-29T06:49:27.020409+03:00.jpg",
+      "source": "original",
+      "mtime": "1659066569",
+      "size": "336139",
+      "md5": "02ef4bee3075bc2aeb07a34e0623fd6e",
+      "crc32": "859b6484",
+      "sha1": "09c7631b43bf9f750d4bbb3b0fe81534bfa8f84a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "segodnya_online-2022-07-29T06:49:27.020409+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659066573",
+      "size": "1566",
+      "md5": "a2f71981b08f4dc718fd8f7910038449",
+      "crc32": "4951fcf7",
+      "sha1": "85dd0515c003b9ed46ce5da4963b873b32756468",
+      "format": "JSON"
+    },
+    {
       "name": "segodnya_online-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fe36f1fdb789f699b74dbee1dcbd6c6a26470c8e",
-      "mtime": "1659048539",
-      "size": "25675",
-      "md5": "8bdf8f3891563284b09c3508cedef349",
-      "crc32": "8d39cb8c",
-      "sha1": "96b2a01784720f8c3ebbe9172a1f264e53841e7d",
+      "btih": "7102ab4949f38349405f5fff976aa452c24546ca",
+      "mtime": "1659066612",
+      "size": "26559",
+      "md5": "3d3061c6661f78341a9b56c6f98db1f2",
+      "crc32": "8eef4047",
+      "sha1": "d3d9243306c76d0f469011ff60375a53be80ba6c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "segodnya_online-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6958bc726d427c80f2d7982a75f94a12",
+      "md5": "6b6907d0d3ee606c25122ecda0d82876",
       "summation": "md5"
     },
     {
       "name": "segodnya_online-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659023570",
-      "size": "147456",
-      "md5": "b95175211dc8672b56ec569baa5ddf00",
-      "crc32": "08b60ca3",
-      "sha1": "174065b55fb1f0664af376cda908f943d5062c06",
+      "mtime": "1659066577",
+      "size": "155648",
+      "md5": "a129fa2b746065d458cb53f3ff39dda9",
+      "crc32": "3617ba8d",
+      "sha1": "bee1d425e03f81bbb558e72f41742480819f0823",
       "format": "Metadata"
     },
     {
@@ -1212,9 +1253,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 115,
-  "item_last_updated": 1659048539,
-  "item_size": 12004602,
+  "files_count": 119,
+  "item_last_updated": 1659066612,
+  "item_size": 12529070,
   "metadata": {
     "identifier": "segodnya_online-2022",
     "collection": [
@@ -1231,10 +1272,62 @@
     "publicdate": "2022-03-23 17:49:36",
     "addeddate": "2022-03-23 17:49:36"
   },
+  "pending_tasks": true,
+  "segodnya_online-2022": [
+    {
+      "url": "https://www.segodnya.ua/allnews.html",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_segodnya_ua-_allnews_html-2022_07_29_03_29_24.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_segodnya_ua-_allnews_html-2022_07_29_03_29_24.report.json",
+      "summary": {
+        "performance": 0.17,
+        "accessibility": 0.87,
+        "best-practices": 1,
+        "seo": 0.92,
+        "pwa": 0.8
+      }
+    },
+    {
+      "url": "https://www.segodnya.ua/allnews.html",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_segodnya_ua-_allnews_html-2022_07_29_03_29_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_segodnya_ua-_allnews_html-2022_07_29_03_29_56.report.json",
+      "summary": {
+        "performance": 0.6,
+        "accessibility": 0.87,
+        "best-practices": 1,
+        "seo": 0.92,
+        "pwa": 0.8
+      }
+    },
+    {
+      "url": "https://www.segodnya.ua/allnews.html",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_segodnya_ua-_allnews_html-2022_07_29_03_30_18.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_segodnya_ua-_allnews_html-2022_07_29_03_30_18.report.json",
+      "summary": {
+        "performance": 0.38,
+        "accessibility": 0.87,
+        "best-practices": 1,
+        "seo": 0.92,
+        "pwa": 0.8
+      }
+    }
+  ],
   "server": "ia902509.us.archive.org",
-  "uniq": 1853652588,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3346825065,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1877898651,
   "workable_servers": [
-    "ia902509.us.archive.org",
-    "ia802509.us.archive.org"
+    "ia902509.us.archive.org"
   ]
 }

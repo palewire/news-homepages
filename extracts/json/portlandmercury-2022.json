@@ -1,5 +1,5 @@
 {
-  "created": 1659047521,
+  "created": 1659066467,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/10/items/portlandmercury-2022",
@@ -1704,31 +1704,62 @@
       "sha1": "0063f6177df80f454441ee1ac5ab74043dc2a2fd"
     },
     {
+      "name": "portlandmercury-2022-07-28T20:47:00.715603-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659066424",
+      "size": "21463",
+      "md5": "d5a7742adf8d017bc3f63ded48ecf5cf",
+      "crc32": "d0354987",
+      "sha1": "ffb0935a15c351532d6d2e06a2ba3aac8387fd4d",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-07-28T20:47:00.715603-07:00.jpg",
+      "source": "original",
+      "mtime": "1659066423",
+      "size": "312070",
+      "md5": "a1378c225ff1a2290c6f80d8149b1dc5",
+      "crc32": "047dcae1",
+      "sha1": "517b567c479d67fa0958150a896ec46fb760cac1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "portlandmercury-2022-07-28T20:47:00.715603-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659066426",
+      "size": "1538",
+      "md5": "ce5e1d3832fe61a2df76aaebe1a778f2",
+      "crc32": "0218552a",
+      "sha1": "db46e4c9d8bd6519ef47f5c9ace360a2516c7a11",
+      "format": "JSON"
+    },
+    {
       "name": "portlandmercury-2022_archive.torrent",
       "source": "metadata",
-      "btih": "89aab54a4f68f21834fd15653701a76416ccbb7e",
-      "mtime": "1659047466",
-      "size": "36963",
-      "md5": "3f894dba4a3f511b41a5e571449dc112",
-      "crc32": "948af6e9",
-      "sha1": "10f0435436608c3ebe27e6749b9f7fcc648abb0a",
+      "btih": "0a618358642e0f6be334dd1ec8b57a74b61155db",
+      "mtime": "1659066464",
+      "size": "37625",
+      "md5": "19358bbee232af9aacc79739bc69924b",
+      "crc32": "179cd15b",
+      "sha1": "c56c4646bd0388c3087382d5d06ad0cb46bacc30",
       "format": "Archive BitTorrent"
     },
     {
       "name": "portlandmercury-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "93975e33909a41f915bae9d25ee99e98",
+      "md5": "d5e76c58273937509fea149feb768fdc",
       "summation": "md5"
     },
     {
       "name": "portlandmercury-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659023339",
-      "size": "221184",
-      "md5": "d15356dd0dfcb5bde123f22eac17db75",
-      "crc32": "39b6f019",
-      "sha1": "4d0ec988f2dd61e0a8366c96bf1c7d34999a96a2",
+      "mtime": "1659066429",
+      "size": "225280",
+      "md5": "824e471a319a4aab52151b31938a24f5",
+      "crc32": "91984760",
+      "sha1": "cea8e391faaae6479d76d3ce78b1ab93ac1f7147",
       "format": "Metadata"
     },
     {
@@ -1742,9 +1773,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 167,
-  "item_last_updated": 1659047466,
-  "item_size": 11333400,
+  "files_count": 170,
+  "item_last_updated": 1659066464,
+  "item_size": 11673229,
   "metadata": {
     "identifier": "portlandmercury-2022",
     "collection": [
@@ -1761,10 +1792,21 @@
     "publicdate": "2022-07-04 21:51:34",
     "addeddate": "2022-07-04 21:51:34"
   },
+  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "uniq": 155632318,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3346822927,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 575879573,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }

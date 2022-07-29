@@ -1,5 +1,5 @@
 {
-  "created": 1659053862,
+  "created": 1659097335,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/0/items/newsgorkhapatra-2022",
@@ -503,31 +503,83 @@
       "format": "JSON"
     },
     {
+      "name": "newsgorkhapatra-2022-07-29T06:01:14.334551+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsgorkhapatra-2022-07-29T06:01:14.334551+05:45.jpg",
+      "mtime": "1659075392",
+      "size": "9868",
+      "md5": "0cc8793ab7880cd4a44618af7df564db",
+      "crc32": "70c30163",
+      "sha1": "46a2ff08553eeb8bea1dd91c2ab0afc48c01ec7c"
+    },
+    {
+      "name": "newsgorkhapatra-2022-07-29T18:06:22.723373+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659097286",
+      "size": "98296",
+      "md5": "50ee3f8cc6a885441a9df2e91c5922d5",
+      "crc32": "26823942",
+      "sha1": "ec66c1b29205335ad30b8f0930b0f8cebe2f01d1",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-07-29T18:06:22.723373+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659097288",
+      "size": "70504",
+      "md5": "67cfc6bd8d64837e82721fb21ce4756e",
+      "crc32": "7b3f82b1",
+      "sha1": "a03c5eaaeaeee0a2bf5b2f770b0ad2c01a1c654a",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-07-29T18:06:22.723373+05:45.jpg",
+      "source": "original",
+      "mtime": "1659097284",
+      "size": "243628",
+      "md5": "7a511ce0db3ea9b9048f82b2b4d86e7b",
+      "crc32": "cc8a32a3",
+      "sha1": "5a9b30c3cc3dd6d03910a8383f8efc0dff1a9bd3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsgorkhapatra-2022-07-29T18:06:22.723373+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659097290",
+      "size": "1519",
+      "md5": "a85672031b8a4a915483c1cc60246623",
+      "crc32": "5b3394e7",
+      "sha1": "244e9b07eb2550880209856060877c746dceb790",
+      "format": "JSON"
+    },
+    {
       "name": "newsgorkhapatra-2022_archive.torrent",
       "source": "metadata",
-      "btih": "29f5b639870b60cbb34f2818b0832c201786bb22",
-      "mtime": "1659053860",
-      "size": "11966",
-      "md5": "a7830916f10fdf9160265e7a49b78341",
-      "crc32": "de1e58a2",
-      "sha1": "aee94d2399cabf7ca45d762bc4713096a60bed88",
+      "btih": "38056d64fca9bca8fb272355a82e6925bee05ff9",
+      "mtime": "1659097332",
+      "size": "13060",
+      "md5": "0c1008aa2e68beb115c0f4dcf0556647",
+      "crc32": "a6421e66",
+      "sha1": "87df257f5ceac5b8d07ab9ff2db16e5cb6540811",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsgorkhapatra-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1d8427ab7bf1bb10a2704fb7b6210957",
+      "md5": "0c4209f0cf6999273f064729446a93e9",
       "summation": "md5"
     },
     {
       "name": "newsgorkhapatra-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659053823",
-      "size": "73728",
-      "md5": "7dfacde6c5a9274b193e315ea97658dd",
-      "crc32": "2e8e0282",
-      "sha1": "8f69128ea482f24d1794906f32212c88455acb54",
+      "mtime": "1659097298",
+      "size": "81920",
+      "md5": "e9008141385fa8e5014320aeb051cd33",
+      "crc32": "968b9313",
+      "sha1": "5e599b24ef9de8e08e6175e6040d986e653fcc2c",
       "format": "Metadata"
     },
     {
@@ -541,9 +593,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 52,
-  "item_last_updated": 1659053860,
-  "item_size": 4300780,
+  "files_count": 57,
+  "item_last_updated": 1659097332,
+  "item_size": 4733881,
   "metadata": {
     "identifier": "newsgorkhapatra-2022",
     "collection": [
@@ -565,7 +617,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346645292,
+      "task_id": 3347150742,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -573,7 +625,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 215925781,
+  "uniq": 205653332,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

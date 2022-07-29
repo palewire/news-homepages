@@ -1,5 +1,5 @@
 {
-  "created": 1659049979,
+  "created": 1659092866,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/14/items/chicagoreporter-2022",
@@ -4837,31 +4837,83 @@
       "format": "JSON"
     },
     {
+      "name": "chicagoreporter-2022-07-28T18:09:33.312475-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chicagoreporter-2022-07-28T18:09:33.312475-05:00.jpg",
+      "mtime": "1659070961",
+      "size": "8662",
+      "md5": "a54d84278a208092a435e067ac91ba5e",
+      "crc32": "5b8c6685",
+      "sha1": "05401d41cf98bf9f4fea1b1a85f72dd4e571a421"
+    },
+    {
+      "name": "chicagoreporter-2022-07-29T06:06:50.187589-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659092813",
+      "size": "18933",
+      "md5": "911dee54ba1178000e1391090142b535",
+      "crc32": "81d23ea5",
+      "sha1": "245e263dd6ec05f7d1b9c518d98fb3cd36faa02a",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagoreporter-2022-07-29T06:06:50.187589-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659092814",
+      "size": "17513",
+      "md5": "a54c503856cc9cd60bedf8fd9f01a82e",
+      "crc32": "edd85fe9",
+      "sha1": "74ff00fea509c5a5c4b4bf4e177116a555e90532",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagoreporter-2022-07-29T06:06:50.187589-05:00.jpg",
+      "source": "original",
+      "mtime": "1659092811",
+      "size": "208777",
+      "md5": "2ed1b88ce1a48b6db6c17aabf6db6940",
+      "crc32": "a7843fdf",
+      "sha1": "119a8f20af58385a1102c604d1be359b6651e8c3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chicagoreporter-2022-07-29T06:06:50.187589-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659092816",
+      "size": "1530",
+      "md5": "5fbfa6313d22753836375bc67b6c36bb",
+      "crc32": "9b2cbdbb",
+      "sha1": "a2afaae607f2f956cc78d2004835d23ceaba878e",
+      "format": "JSON"
+    },
+    {
       "name": "chicagoreporter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f748c02c7c412ec8040166b8e2441fc4aad4b0af",
-      "mtime": "1659049965",
-      "size": "101557",
-      "md5": "14f5ad55ca486faaaefa3c361bac947a",
-      "crc32": "936e90aa",
-      "sha1": "222f3a93ef91edc088908c9d127cbb09695e7e18",
+      "btih": "7fcf289a242bf04a05b93dfd9a51b7099f8742f1",
+      "mtime": "1659092863",
+      "size": "102631",
+      "md5": "9972bb8ab714c3351ec36c99c66488ba",
+      "crc32": "9f5e2aa3",
+      "sha1": "c92950018ba83d1764ff4886c3e1bdd13131e521",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chicagoreporter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "82a18aa528269f782f897adeff754f48",
+      "md5": "d9c83bf4636ed5a12a6ceb98b59ea003",
       "summation": "md5"
     },
     {
       "name": "chicagoreporter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659049958",
-      "size": "561152",
-      "md5": "870f65e0951487b4e5971e06c17dfba7",
-      "crc32": "fd065d8c",
-      "sha1": "8f61ae250b452daeb0272c51c087ef0c5beef5dc",
+      "mtime": "1659092821",
+      "size": "565248",
+      "md5": "617ee836647d8ef36a708adfe0fd4b9d",
+      "crc32": "12ef4614",
+      "sha1": "11c1161583429168caa6219550aa75489990acb6",
       "format": "Metadata"
     },
     {
@@ -4875,9 +4927,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 465,
-  "item_last_updated": 1659049965,
-  "item_size": 33394939,
+  "files_count": 470,
+  "item_last_updated": 1659092863,
+  "item_size": 33655524,
   "metadata": {
     "identifier": "chicagoreporter-2022",
     "collection": [
@@ -4899,7 +4951,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346593771,
+      "task_id": 3347109773,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4907,7 +4959,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1884187016,
+  "uniq": 847162886,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

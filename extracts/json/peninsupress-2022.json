@@ -1,5 +1,5 @@
 {
-  "created": 1659054199,
+  "created": 1659097438,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/peninsupress-2022",
@@ -3401,31 +3401,83 @@
       "format": "JSON"
     },
     {
+      "name": "peninsupress-2022-07-28T17:18:15.786646-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "peninsupress-2022-07-28T17:18:15.786646-07:00.jpg",
+      "mtime": "1659075480",
+      "size": "9060",
+      "md5": "581f2ac03be6aafcdef618fcd5ad18b0",
+      "crc32": "0dba4457",
+      "sha1": "a6c477f4577345630b10f9411af7f18128d246a3"
+    },
+    {
+      "name": "peninsupress-2022-07-29T05:23:00.467061-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659097390",
+      "size": "17873",
+      "md5": "7a3a1f96489beb3ead000549400c9e32",
+      "crc32": "ad4a7898",
+      "sha1": "75787dce8da6047870afb53e59913641bfae7cb1",
+      "format": "JSON"
+    },
+    {
+      "name": "peninsupress-2022-07-29T05:23:00.467061-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659097392",
+      "size": "18246",
+      "md5": "a98da14632892491c2f6fb1b1b2c9b87",
+      "crc32": "e7ac2ade",
+      "sha1": "fc04866b27da1bacea28977fefc0d5e7f13dea84",
+      "format": "JSON"
+    },
+    {
+      "name": "peninsupress-2022-07-29T05:23:00.467061-07:00.jpg",
+      "source": "original",
+      "mtime": "1659097383",
+      "size": "183392",
+      "md5": "410093958fa457a05059ef9671995c10",
+      "crc32": "b64420fd",
+      "sha1": "1870085b5b878d0514e36ac4f0c3c8df77aa2be7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "peninsupress-2022-07-29T05:23:00.467061-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659097394",
+      "size": "1495",
+      "md5": "1c5e28c23012a4556e29996e0b228ff6",
+      "crc32": "28078e8e",
+      "sha1": "e17d942c5a9fef228ea68e51fb39d4e124109c2c",
+      "format": "JSON"
+    },
+    {
       "name": "peninsupress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "537c6113690826eecf1f0dea6eedeb9e68402747",
-      "mtime": "1659054195",
-      "size": "70460",
-      "md5": "7706f18916a23f546f094322de72d862",
-      "crc32": "567660ad",
-      "sha1": "6ac0fc3b2c5476acf639b7cb395061a816f81240",
+      "btih": "1c3ebd0103777af39c8bb5dec89bd5cd58dbfb4d",
+      "mtime": "1659097433",
+      "size": "71519",
+      "md5": "807b3e905d98f408f0f60f9efc0a535f",
+      "crc32": "2a846936",
+      "sha1": "5d45f7c48ee17f5f9dad455362702d60cd29d649",
       "format": "Archive BitTorrent"
     },
     {
       "name": "peninsupress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a3f45c587f6c0ba44db29b31f6874c31",
+      "md5": "8d4a23e7003d9ebf19c0103943292c13",
       "summation": "md5"
     },
     {
       "name": "peninsupress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659054156",
-      "size": "397312",
-      "md5": "421e029ff1894b0d9a07528377727d3f",
-      "crc32": "5d111203",
-      "sha1": "205157b0790caede99511509072b70c15eb2950d",
+      "mtime": "1659097397",
+      "size": "405504",
+      "md5": "5b7e29dbb7a91f2aa095aed37980e8d4",
+      "crc32": "f1938bc7",
+      "sha1": "0569ebf4d8208e71dec5d5578df04cf6d56e8bf9",
       "format": "Metadata"
     },
     {
@@ -3439,9 +3491,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 328,
-  "item_last_updated": 1659054195,
-  "item_size": 15831321,
+  "files_count": 333,
+  "item_last_updated": 1659097433,
+  "item_size": 16070638,
   "metadata": {
     "identifier": "peninsupress-2022",
     "collection": [
@@ -3463,7 +3515,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346649467,
+      "task_id": 3347151562,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3471,7 +3523,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1059046865,
+  "uniq": 1513975995,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

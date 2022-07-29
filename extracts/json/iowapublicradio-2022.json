@@ -1,5 +1,5 @@
 {
-  "created": 1659053571,
+  "created": 1659096968,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/31/items/iowapublicradio-2022",
@@ -8415,31 +8415,83 @@
       "format": "JSON"
     },
     {
+      "name": "iowapublicradio-2022-07-28T19:11:45.743190-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "iowapublicradio-2022-07-28T19:11:45.743190-05:00.jpg",
+      "mtime": "1659075153",
+      "size": "10851",
+      "md5": "4c5615bd19b721127cc28721e0b456ad",
+      "crc32": "657b5b41",
+      "sha1": "bc42de37acf69ee5193aa4a42420519d27fa838f"
+    },
+    {
+      "name": "iowapublicradio-2022-07-29T07:15:03.463459-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659096908",
+      "size": "17687",
+      "md5": "e5dbb3db9209b584970ad7f3c603a9e2",
+      "crc32": "e816f678",
+      "sha1": "77ed93e290d5b07cf43ac5dc42bf362bf4aa1eb3",
+      "format": "JSON"
+    },
+    {
+      "name": "iowapublicradio-2022-07-29T07:15:03.463459-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659096909",
+      "size": "40915",
+      "md5": "f90ed6870de566d9743a52861586faca",
+      "crc32": "fefbd0dd",
+      "sha1": "b95bf699928530e7d4ac9a0e6e6f03429bc0ccf9",
+      "format": "JSON"
+    },
+    {
+      "name": "iowapublicradio-2022-07-29T07:15:03.463459-05:00.jpg",
+      "source": "original",
+      "mtime": "1659096906",
+      "size": "266778",
+      "md5": "da512d5678ff453f2a30e35f2a3c6410",
+      "crc32": "abc2b917",
+      "sha1": "e1a221e2f1d445b206b55c3eb5071638c5a539cc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "iowapublicradio-2022-07-29T07:15:03.463459-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659096911",
+      "size": "1528",
+      "md5": "77d07c11661f5dd7260fd02065e950c5",
+      "crc32": "36efbc79",
+      "sha1": "b684755f1b2a5e2d388f22e0a6bda40a3f19615e",
+      "format": "JSON"
+    },
+    {
       "name": "iowapublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aa731df81a41b2bab4d7d48941249c4860bf3001",
-      "mtime": "1659053568",
-      "size": "176176",
-      "md5": "d7883dd4f2faf6245b31e5087ce75f3e",
-      "crc32": "a16d52f8",
-      "sha1": "3eb62098546f0d67441a568882ddc7a1db582052",
+      "btih": "569d89366d0816761167bc9cbcbc605158617c90",
+      "mtime": "1659096964",
+      "size": "177271",
+      "md5": "bb8def0b968773b49086d790998bac0b",
+      "crc32": "9442a502",
+      "sha1": "1a8fef1ae0dcf70f34976fa36792c617358b4272",
       "format": "Archive BitTorrent"
     },
     {
       "name": "iowapublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d70d2cb221f97ebfdceda6bd190d2222",
+      "md5": "ec2ed4f45d1aae7f23a28078cc1c9864",
       "summation": "md5"
     },
     {
       "name": "iowapublicradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659053524",
-      "size": "946176",
-      "md5": "ad5a0d760848ec057b008483fd9a69e6",
-      "crc32": "90c5de23",
-      "sha1": "3f4a320fa0c7d399231896cd013b08654abc823b",
+      "mtime": "1659096920",
+      "size": "950272",
+      "md5": "dbf05c920813043b6290554b15a58cb1",
+      "crc32": "072e7851",
+      "sha1": "23f7be0eae97585f21a8ad50d91ebf2ab0a65827",
       "format": "Metadata"
     },
     {
@@ -8453,9 +8505,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 805,
-  "item_last_updated": 1659053568,
-  "item_size": 79650651,
+  "files_count": 810,
+  "item_last_updated": 1659096964,
+  "item_size": 79993601,
   "metadata": {
     "identifier": "iowapublicradio-2022",
     "collection": [
@@ -8477,7 +8529,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346641056,
+      "task_id": 3347148196,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8485,7 +8537,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 975939527,
+  "uniq": 191043181,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659054246,
+  "created": 1659097450,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/pulitzercenter-2022",
@@ -1837,31 +1837,83 @@
       "format": "JSON"
     },
     {
+      "name": "pulitzercenter-2022-07-28T20:19:02.281397-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pulitzercenter-2022-07-28T20:19:02.281397-04:00.jpg",
+      "mtime": "1659075486",
+      "size": "8411",
+      "md5": "2314f202a7f2a94e162a71131021ae20",
+      "crc32": "4b805104",
+      "sha1": "e3790c72329797589f88b6a41fba1d173bee283b"
+    },
+    {
+      "name": "pulitzercenter-2022-07-29T08:23:21.214464-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659097405",
+      "size": "9050",
+      "md5": "a70e874bf51776d315c7464dd32a6b90",
+      "crc32": "9ae24438",
+      "sha1": "5f559dbbf28f99d4b83f2011fcf35665df72c530",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-07-29T08:23:21.214464-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659097406",
+      "size": "16077",
+      "md5": "40e5f512a7a840880d392a9f6b87f180",
+      "crc32": "a1c23d5d",
+      "sha1": "e9b79dea653e60c9202f61bd3e7c074b55e08130",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-07-29T08:23:21.214464-04:00.jpg",
+      "source": "original",
+      "mtime": "1659097403",
+      "size": "178845",
+      "md5": "25904f085b5569d0d633e28c6fa450a8",
+      "crc32": "6c49f91b",
+      "sha1": "c3e741411fbb2b114194306e79df2d233eea36b6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pulitzercenter-2022-07-29T08:23:21.214464-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659097408",
+      "size": "1495",
+      "md5": "eaa377cf8ee6abb6155f88140a910d66",
+      "crc32": "5ddd2e49",
+      "sha1": "c386d372ffe8806a1b549ac31f831afab360e71e",
+      "format": "JSON"
+    },
+    {
       "name": "pulitzercenter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9577d754a4eb6f9a742ce806cd0645a7d7beba35",
-      "mtime": "1659054241",
-      "size": "39140",
-      "md5": "e1f9928dd95074b0a03eabd42a0c8635",
-      "crc32": "16ccef29",
-      "sha1": "780cc0274c63a0a45e37432ceb489795dc075ac7",
+      "btih": "f8787c200b91c17b4cc8d4242417b2d4efa4e528",
+      "mtime": "1659097447",
+      "size": "40208",
+      "md5": "bcdb7ad35e841fcb5fed0fec34fbaea9",
+      "crc32": "0d3157fc",
+      "sha1": "9b5dd14bd6e486dc4ba7fac0a4d983acd8d8918b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pulitzercenter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b22407ab4f0f3a19a29884ab44cdfcb",
+      "md5": "95fead899aa3b23109a626f4f4408d0a",
       "summation": "md5"
     },
     {
       "name": "pulitzercenter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659054203",
-      "size": "229376",
-      "md5": "64abc5bd4f2ffe19615db042c392cccf",
-      "crc32": "e5190ead",
-      "sha1": "d8c9e8f7d03fac1dafee49a6a05d851daf806a73",
+      "mtime": "1659097413",
+      "size": "233472",
+      "md5": "51f76e875c243ece2c2c43bfa385cdaf",
+      "crc32": "d1df9fef",
+      "sha1": "6980e632bc23dc2c5d93d1875e88cc81c38ccda0",
       "format": "Metadata"
     },
     {
@@ -1875,9 +1927,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 179,
-  "item_last_updated": 1659054241,
-  "item_size": 9598574,
+  "files_count": 184,
+  "item_last_updated": 1659097447,
+  "item_size": 9817616,
   "metadata": {
     "identifier": "pulitzercenter-2022",
     "collection": [
@@ -1899,7 +1951,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346650155,
+      "task_id": 3347151663,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1907,7 +1959,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2033862942,
+  "uniq": 1215337039,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

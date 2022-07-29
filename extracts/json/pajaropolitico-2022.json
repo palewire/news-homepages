@@ -1,5 +1,5 @@
 {
-  "created": 1659054402,
+  "created": 1659097453,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/pajaropolitico-2022",
@@ -19477,31 +19477,83 @@
       "format": "JSON"
     },
     {
+      "name": "pajaropolitico-2022-07-28T19:18:24.133620-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-07-28T19:18:24.133620-05:00.jpg",
+      "mtime": "1659075682",
+      "size": "9517",
+      "md5": "564a70a2a61847e018b52a681d84b239",
+      "crc32": "834e5638",
+      "sha1": "81e16224de67fe957f8c886fe2d4cdf7169214aa"
+    },
+    {
+      "name": "pajaropolitico-2022-07-29T07:22:55.316940-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659097379",
+      "size": "22477",
+      "md5": "63802a59247d524703c8482323c4e33f",
+      "crc32": "0a69191e",
+      "sha1": "cf1e0c7631909dda3d95386f77e3becff942baba",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-07-29T07:22:55.316940-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659097381",
+      "size": "21590",
+      "md5": "10fec6378fd327190eff1d42ef196dbb",
+      "crc32": "377da387",
+      "sha1": "8db534dc944ae202295e51ad8da9c6b5bbe4953d",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-07-29T07:22:55.316940-05:00.jpg",
+      "source": "original",
+      "mtime": "1659097377",
+      "size": "260720",
+      "md5": "3d414cbebc572879558d9b59996e93bb",
+      "crc32": "2fd85605",
+      "sha1": "324ff534dc700db160635fe06dc8ead97179d742",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pajaropolitico-2022-07-29T07:22:55.316940-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659097383",
+      "size": "1530",
+      "md5": "16daa7a4eb432647cd7af8c7a1d309f0",
+      "crc32": "bda06688",
+      "sha1": "291e4e524ff746ebea1288c964d0fc48d9265f2c",
+      "format": "JSON"
+    },
+    {
       "name": "pajaropolitico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "31b28124ad763146c696532e06da416558f082eb",
-      "mtime": "1659054323",
-      "size": "402775",
-      "md5": "5821a99d48f4e60e4b491018f87153f9",
-      "crc32": "ce4fbf27",
-      "sha1": "6771f519ae3b517fde30f42ee0463e4459c4dfc6",
+      "btih": "c980a4ca7b1ba7406fccd509a7ee67eb51d63ec3",
+      "mtime": "1659097448",
+      "size": "403864",
+      "md5": "abc854f2ce21e595f0b6df3149a4dfcb",
+      "crc32": "b829fe43",
+      "sha1": "db13ea53cb5eb1a24576c439d33a87db67275d1a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pajaropolitico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8e0d219e237f380b5e1ef7820f79c3b9",
+      "md5": "5191382b19932813c8a0f65fd6f12e0e",
       "summation": "md5"
     },
     {
       "name": "pajaropolitico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659054294",
-      "size": "2150400",
-      "md5": "8f10166f45481b69e1cadcee11548eee",
-      "crc32": "7f149b59",
-      "sha1": "23b62f098f76d55010d7748eff283afa1be3f789",
+      "mtime": "1659097388",
+      "size": "2154496",
+      "md5": "9ea6c6960661d18862b74daecefc2594",
+      "crc32": "a18ce289",
+      "sha1": "bd396e129b7157c41dd411adc6c62f9987c668d1",
       "format": "Metadata"
     },
     {
@@ -19515,9 +19567,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1859,
-  "item_last_updated": 1659054323,
-  "item_size": 148603013,
+  "files_count": 1864,
+  "item_last_updated": 1659097448,
+  "item_size": 148924032,
   "metadata": {
     "identifier": "pajaropolitico-2022",
     "collection": [
@@ -19539,7 +19591,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346651091,
+      "task_id": 3347151686,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -19547,7 +19599,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 133528869,
+  "uniq": 1170970754,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

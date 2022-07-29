@@ -3,11 +3,11 @@
     {
       "url": "https://www.aljazeera.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_aljazeera_com-_-2022_07_28_22_40_43.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_aljazeera_com-_-2022_07_28_22_40_43.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_aljazeera_com-_-2022_07_29_10_39_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_aljazeera_com-_-2022_07_29_10_39_01.report.json",
       "summary": {
-        "performance": 0.34,
-        "accessibility": 1,
+        "performance": 0.21,
+        "accessibility": 0.93,
         "best-practices": 0.92,
         "seo": 0.98,
         "pwa": 0.3
@@ -16,11 +16,11 @@
     {
       "url": "https://www.aljazeera.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_aljazeera_com-_-2022_07_28_22_40_57.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_aljazeera_com-_-2022_07_28_22_40_57.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_aljazeera_com-_-2022_07_29_10_39_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_aljazeera_com-_-2022_07_29_10_39_17.report.json",
       "summary": {
-        "performance": 0.26,
-        "accessibility": 1,
+        "performance": 0.29,
+        "accessibility": 0.93,
         "best-practices": 0.92,
         "seo": 0.98,
         "pwa": 0.3
@@ -29,18 +29,18 @@
     {
       "url": "https://www.aljazeera.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_aljazeera_com-_-2022_07_28_22_41_10.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_aljazeera_com-_-2022_07_28_22_41_10.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_aljazeera_com-_-2022_07_29_10_39_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_aljazeera_com-_-2022_07_29_10_39_31.report.json",
       "summary": {
-        "performance": 0.24,
-        "accessibility": 1,
+        "performance": 0.28,
+        "accessibility": 0.93,
         "best-practices": 0.92,
         "seo": 0.98,
         "pwa": 0.3
       }
     }
   ],
-  "created": 1659054160,
+  "created": 1659097564,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/0/items/ajenglish-2022",
@@ -3758,31 +3758,83 @@
       "format": "JSON"
     },
     {
+      "name": "ajenglish-2022-07-29T02:06:07.422143+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ajenglish-2022-07-29T02:06:07.422143+03:00.jpg",
+      "mtime": "1659070390",
+      "size": "10000",
+      "md5": "989d0c6a040e6357317e2af9698c21cb",
+      "crc32": "0435c4e0",
+      "sha1": "1b06d62cd0320e4489dbb510888cf1750d4a7f7c"
+    },
+    {
+      "name": "ajenglish-2022-07-29T14:02:05.849454+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659092531",
+      "size": "18709",
+      "md5": "be250475c3ec499f106bf8dab1ead684",
+      "crc32": "9de8ebe6",
+      "sha1": "e99eefd202c2743c2263ebb114a349d23bdab181",
+      "format": "JSON"
+    },
+    {
+      "name": "ajenglish-2022-07-29T14:02:05.849454+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659092533",
+      "size": "9909",
+      "md5": "74ee4e72dd6ac4bce1d538400efc2a45",
+      "crc32": "5fc1cb0c",
+      "sha1": "32819f55c7a6ac70f2925de8f314485ae765e8cd",
+      "format": "JSON"
+    },
+    {
+      "name": "ajenglish-2022-07-29T14:02:05.849454+03:00.jpg",
+      "source": "original",
+      "mtime": "1659092529",
+      "size": "286768",
+      "md5": "f838509d318f53af58b1898bbfed12de",
+      "crc32": "e4e9a6a0",
+      "sha1": "f36dc50746f1359655752b9f64885091e28d26de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ajenglish-2022-07-29T14:02:05.849454+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659092534",
+      "size": "1486",
+      "md5": "17f22b8c2f1eee7bed4fd023aee4fc48",
+      "crc32": "42ebb58d",
+      "sha1": "ebd7337047772ef26ac2dee46d963ab7fe76db74",
+      "format": "JSON"
+    },
+    {
       "name": "ajenglish-2022_archive.torrent",
       "source": "metadata",
-      "btih": "766de14ebfac3003cc626e454a5172d3cb65638c",
-      "mtime": "1659049617",
-      "size": "76335",
-      "md5": "d4217d3fef60b5031c20d01836441add",
-      "crc32": "692766e5",
-      "sha1": "3c9360ebf06e073e6a47c61e772fb3fdeea71864",
+      "btih": "dd4cb78f1090807ff0ac2faf088e52c993132788",
+      "mtime": "1659092576",
+      "size": "77379",
+      "md5": "efed7e0d86fa88fd231184b1dc844514",
+      "crc32": "6b5275c8",
+      "sha1": "36f7ca7ff97391816515c7f5d72783154a828976",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ajenglish-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "431355e856b01e3347176c16121d8a34",
+      "md5": "94abc1191cbbc8e7eaa87ef2caf7b5be",
       "summation": "md5"
     },
     {
       "name": "ajenglish-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659049579",
-      "size": "434176",
-      "md5": "cffdac48d1f34c312f20d908c9e38d48",
-      "crc32": "b855e437",
-      "sha1": "c7cf68f2de4912ac6d4fa41de95f530d8e382d9c",
+      "mtime": "1659092539",
+      "size": "438272",
+      "md5": "38c8fa3ed907e1a3eeee1158864bff06",
+      "crc32": "e352219a",
+      "sha1": "97b7808124f884bed4bd5ae3532bf14e2aab6d35",
       "format": "Metadata"
     },
     {
@@ -3796,9 +3848,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 358,
-  "item_last_updated": 1659049617,
-  "item_size": 29462764,
+  "files_count": 363,
+  "item_last_updated": 1659092576,
+  "item_size": 29794776,
   "metadata": {
     "identifier": "ajenglish-2022",
     "collection": [
@@ -3820,7 +3872,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346588535,
+      "task_id": 3347105143,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3828,7 +3880,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 546889243,
+  "uniq": 1814670249,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

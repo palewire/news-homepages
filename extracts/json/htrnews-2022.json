@@ -1,5 +1,5 @@
 {
-  "created": 1659047149,
+  "created": 1659097786,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/24/items/htrnews-2022",
@@ -8150,31 +8150,72 @@
       "sha1": "39ccd4aba845dfb5de2e3d63228c97d74fe89532"
     },
     {
+      "name": "htrnews-2022-07-28T21:36:40.155945-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659062214",
+      "size": "22380",
+      "md5": "784a2dd3f4ace387f4a13f5adce14f96",
+      "crc32": "49774fc2",
+      "sha1": "21e2974c6a3c7493f08a468e085206a924cb1dd1",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-07-28T21:36:40.155945-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659062216",
+      "size": "33384",
+      "md5": "85e34dc98e412c97f479a33a547f3a50",
+      "crc32": "31e3959c",
+      "sha1": "3cdb19844672f92dc8cb17cfa335e9e0fc2c5ecc",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-07-28T21:36:40.155945-05:00.jpg",
+      "source": "original",
+      "mtime": "1659062212",
+      "size": "308991",
+      "md5": "513851a14b25abe96ecc18c0f515f4a0",
+      "crc32": "a05f2c8e",
+      "sha1": "55c0087a9514fdb2fb9beb9bb4ba045157b7fa2e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-07-28T21:36:40.155945-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659062217",
+      "size": "1458",
+      "md5": "563aa0c6161afd01ad79521ec9053f4f",
+      "crc32": "bb1c138f",
+      "sha1": "18a05cddb2f9325419310f5ec63b370610e4c7c1",
+      "format": "JSON"
+    },
+    {
       "name": "htrnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "17b21d8de212ace12799510584183fd8e29a3af4",
-      "mtime": "1659047127",
-      "size": "163954",
-      "md5": "7d0b3108a4d79aaeee306dd8ade9cc1b",
-      "crc32": "1b476e54",
-      "sha1": "31ac5e631cdd5a227d335a04f6722ff396040d10",
+      "btih": "8522af0f11f1d3015f8af0eaddfedf3e42c0a970",
+      "mtime": "1659062264",
+      "size": "164805",
+      "md5": "bd771b18f1834345a9ba09db67a1c729",
+      "crc32": "c05be193",
+      "sha1": "a4a4c79202582ecd1c60b8f7e1ad76bcce00884e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "htrnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f4847b98faf6e076e3f87e18b9e9d390",
+      "md5": "bcb1050dcfec836be166679e21db0a5d",
       "summation": "md5"
     },
     {
       "name": "htrnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659022907",
-      "size": "905216",
-      "md5": "3dd70039e1ad113337db1a59850943ae",
-      "crc32": "7e2091eb",
-      "sha1": "d7bd780bbd25ad675a0147e476b4244671fe1864",
+      "mtime": "1659062222",
+      "size": "909312",
+      "md5": "76b9b8478be62f8be0fcc8a3babeed04",
+      "crc32": "d8ec2b0a",
+      "sha1": "cd58ab833bf910d3187da1155ff5b0654e65fa01",
       "format": "Metadata"
     },
     {
@@ -8188,9 +8229,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 780,
-  "item_last_updated": 1659047127,
-  "item_size": 65462619,
+  "files_count": 784,
+  "htrnews-2022": [
+    {
+      "url": "https://www.htrnews.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_htrnews_com-_-2022_07_29_02_16_12.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_htrnews_com-_-2022_07_29_02_16_12.report.json",
+      "summary": {
+        "performance": 0.83,
+        "accessibility": 0.88,
+        "best-practices": 1,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.htrnews.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_htrnews_com-_-2022_07_29_02_16_38.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_htrnews_com-_-2022_07_29_02_16_38.report.json",
+      "summary": {
+        "performance": 0.8,
+        "accessibility": 0.88,
+        "best-practices": 1,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.htrnews.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_htrnews_com-_-2022_07_29_02_15_47.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_htrnews_com-_-2022_07_29_02_15_47.report.json",
+      "summary": {
+        "performance": 0.83,
+        "accessibility": 0.88,
+        "best-practices": 1,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "item_last_updated": 1659062264,
+  "item_size": 65833779,
   "metadata": {
     "identifier": "htrnews-2022",
     "collection": [
@@ -8207,10 +8289,21 @@
     "publicdate": "2022-03-27 23:07:58",
     "addeddate": "2022-03-27 23:07:58"
   },
+  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "uniq": 2026278473,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3346765287,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1349716231,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia902504.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659054541,
+  "created": 1659097965,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/33/items/newscientist-2022",
@@ -2174,31 +2174,72 @@
       "sha1": "8eec46a1a8d2b8ec05452f76f352525639bf4591"
     },
     {
+      "name": "newscientist-2022-07-29T03:41:19.002645+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659062481",
+      "size": "17866",
+      "md5": "d73472e214ecada8b5212da4c4eff1ed",
+      "crc32": "760432f0",
+      "sha1": "8a72d5e95c9b1f24e7bc045a4efb25de191fdc28",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-07-29T03:41:19.002645+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659062483",
+      "size": "14705",
+      "md5": "7d57efa1c91cb47d3d776206d83f5c9f",
+      "crc32": "f44c4115",
+      "sha1": "d7a08ab6291686195462bdb63e0ac284f04374af",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-07-29T03:41:19.002645+01:00.jpg",
+      "source": "original",
+      "mtime": "1659062480",
+      "size": "299620",
+      "md5": "71cc18e850a5922fb04ea6debe0b7746",
+      "crc32": "7779aa70",
+      "sha1": "609ac87fd57fb4f20f14c6a7412586604c860c6e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newscientist-2022-07-29T03:41:19.002645+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659062484",
+      "size": "1513",
+      "md5": "02128f1f5e2a5e47114603e5bc1e51c6",
+      "crc32": "e7d13c6e",
+      "sha1": "594e83742add3876f025a01048b6df288b713399",
+      "format": "JSON"
+    },
+    {
       "name": "newscientist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9507ab5f1d7dd0a417c5949f3e4d5028ae399d9a",
-      "mtime": "1659047357",
-      "size": "45867",
-      "md5": "2b71b77bc6eb9aac7293410f98bbd989",
-      "crc32": "13ab510c",
-      "sha1": "4d591b0f8ef5713a42a861a6c98afb8aea794ee8",
+      "btih": "bdd41a78c9ee1aea36dfb163d5d60eab16a8e1ae",
+      "mtime": "1659062523",
+      "size": "46738",
+      "md5": "d28b2368226c180c1d1cb5ea965ce540",
+      "crc32": "06f65070",
+      "sha1": "f418e2b8269317c58ef7bb3d6e866fac5868baa3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newscientist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "61d18c992b4f3a93d7f85fdda4eeb72c",
+      "md5": "6ff818b5685c49b883603c25150375da",
       "summation": "md5"
     },
     {
       "name": "newscientist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659023191",
-      "size": "266240",
-      "md5": "4beea15d4147464199841144cebcafb4",
-      "crc32": "c9b11cd2",
-      "sha1": "911de200d1b13bc17ee52a8b643a4f4c5e19a22f",
+      "mtime": "1659062489",
+      "size": "270336",
+      "md5": "b01ff3687754aa39fffeed4e3bb2195d",
+      "crc32": "101ba502",
+      "sha1": "6d5906f6e400b69661dc1b0e2dcec535f9fedc83",
       "format": "Metadata"
     },
     {
@@ -2212,9 +2253,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 211,
-  "item_last_updated": 1659047357,
-  "item_size": 16784803,
+  "files_count": 215,
+  "item_last_updated": 1659062523,
+  "item_size": 17123474,
   "metadata": {
     "identifier": "newscientist-2022",
     "collection": [
@@ -2235,12 +2276,12 @@
     {
       "url": "https://www.newscientist.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_07_28_14_27_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_07_28_14_27_09.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_07_29_02_24_04.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_07_29_02_24_04.report.json",
       "summary": {
-        "performance": 0.31,
-        "accessibility": 0.88,
-        "best-practices": 0.92,
+        "performance": 0.32,
+        "accessibility": 0.89,
+        "best-practices": 0.83,
         "seo": 0.93,
         "pwa": 0.4
       }
@@ -2248,10 +2289,10 @@
     {
       "url": "https://www.newscientist.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_07_28_14_27_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_07_28_14_27_26.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_07_29_02_24_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_07_29_02_24_21.report.json",
       "summary": {
-        "performance": 0.3,
+        "performance": 0.42,
         "accessibility": 0.89,
         "best-practices": 0.92,
         "seo": 0.93,
@@ -2261,21 +2302,32 @@
     {
       "url": "https://www.newscientist.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_07_28_14_27_43.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_07_28_14_27_43.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_07_29_02_23_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_07_29_02_23_46.report.json",
       "summary": {
-        "performance": 0.38,
+        "performance": 0.31,
         "accessibility": 0.89,
-        "best-practices": 0.92,
+        "best-practices": 0.83,
         "seo": 0.93,
         "pwa": 0.4
       }
     }
   ],
-  "server": "ia801402.us.archive.org",
-  "uniq": 1317717967,
+  "pending_tasks": true,
+  "server": "ia601402.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3346768603,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 781772778,
   "workable_servers": [
-    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

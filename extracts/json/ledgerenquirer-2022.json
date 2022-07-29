@@ -1,5 +1,5 @@
 {
-  "created": 1659053690,
+  "created": 1659097241,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/13/items/ledgerenquirer-2022",
@@ -871,31 +871,83 @@
       "format": "JSON"
     },
     {
+      "name": "ledgerenquirer-2022-07-28T20:13:57.183034-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ledgerenquirer-2022-07-28T20:13:57.183034-04:00.jpg",
+      "mtime": "1659075177",
+      "size": "9247",
+      "md5": "f0f08f742a581f3da59863ea58167bb6",
+      "crc32": "203c7672",
+      "sha1": "62c4a3dbf01716a891899bd0cb28d1074f7d4ab9"
+    },
+    {
+      "name": "ledgerenquirer-2022-07-29T08:18:06.672600-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659097101",
+      "size": "463",
+      "md5": "bf929e698e6de0d80731a2fb1856675d",
+      "crc32": "8b7584c9",
+      "sha1": "7bba6fff1f82eb72d24ae1b75acd472efff9ac89",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-07-29T08:18:06.672600-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659097112",
+      "size": "33903",
+      "md5": "6c1d349745d8bf66fb22b5e8c12ce0cb",
+      "crc32": "eae5ce3c",
+      "sha1": "485a84a926c69693b5cc9d790823812b352b37a4",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-07-29T08:18:06.672600-04:00.jpg",
+      "source": "original",
+      "mtime": "1659097091",
+      "size": "252962",
+      "md5": "76d690563b7549054dfe505576635432",
+      "crc32": "da2d1b87",
+      "sha1": "97aee6ddafb31ba76f95b8a449d23b54dad3ac29",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ledgerenquirer-2022-07-29T08:18:06.672600-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659097134",
+      "size": "1540",
+      "md5": "dd77e80a90c93ef6d654ba0e4c496ca8",
+      "crc32": "8c6ed4de",
+      "sha1": "48b6bebdd97f956db4d9b673a5230cc91aa08bc5",
+      "format": "JSON"
+    },
+    {
       "name": "ledgerenquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6af4fd9120ea39d70eace5366d3e67c8585440ea",
-      "mtime": "1659053686",
-      "size": "19386",
-      "md5": "1fab623e5337051d2ed27493da30fa8a",
-      "crc32": "470a6e01",
-      "sha1": "7848eb832e0da7df06e50875f51d0bfc1ea88309",
+      "btih": "7bc4e95042d8a81b57e5e34a7fee0e8ade36d80d",
+      "mtime": "1659097238",
+      "size": "20453",
+      "md5": "d37a11f90a4d7b28ecf651831a42cf90",
+      "crc32": "d4087ab5",
+      "sha1": "e29b69ad858510311f2ac13e937d630e8d2b5556",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ledgerenquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8a364aec51be2cdbcee04c5efa35b4c0",
+      "md5": "91f03d4da35c6e8462ed98d46b7bc67d",
       "summation": "md5"
     },
     {
       "name": "ledgerenquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659053650",
-      "size": "126976",
-      "md5": "09f8c47b7f64a6888df1f109bd8884cd",
-      "crc32": "8eed575d",
-      "sha1": "b94c8419a715483e8a1c7e95d1675dca7b22fc8f",
+      "mtime": "1659097203",
+      "size": "131072",
+      "md5": "5a34273b39819ce33071f90db5f343e5",
+      "crc32": "d22a97b6",
+      "sha1": "02df1b33de152fe5b3d56949d3df37375c820157",
       "format": "Metadata"
     },
     {
@@ -909,9 +961,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 87,
-  "item_last_updated": 1659053686,
-  "item_size": 5895644,
+  "files_count": 92,
+  "item_last_updated": 1659097238,
+  "item_size": 6198922,
   "metadata": {
     "identifier": "ledgerenquirer-2022",
     "collection": [
@@ -933,7 +985,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346642700,
+      "task_id": 3347149895,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -941,7 +993,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 604465430,
+  "uniq": 1284347408,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

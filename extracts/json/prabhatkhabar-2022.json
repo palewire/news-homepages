@@ -1,5 +1,5 @@
 {
-  "created": 1659054618,
+  "created": 1659098038,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/19/items/prabhatkhabar-2022",
@@ -172,31 +172,72 @@
       "sha1": "a82fb3a3e54d8d75c28664772f7dbb5cc9074770"
     },
     {
+      "name": "prabhatkhabar-2022-07-29T09:17:16.642788+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1659066440",
+      "size": "120278",
+      "md5": "c3756a96bb2ec2ab554774555f59a00b",
+      "crc32": "8ce9e31b",
+      "sha1": "2d650e660a4ef8350fac3301a368413d9e90c553",
+      "format": "JSON"
+    },
+    {
+      "name": "prabhatkhabar-2022-07-29T09:17:16.642788+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659066441",
+      "size": "97579",
+      "md5": "acef8bcaa3d4a54300f1e205fb93fd38",
+      "crc32": "7b92cebd",
+      "sha1": "6a706c403c4fb4fa7d54b1abc3db9017222f822a",
+      "format": "JSON"
+    },
+    {
+      "name": "prabhatkhabar-2022-07-29T09:17:16.642788+05:30.jpg",
+      "source": "original",
+      "mtime": "1659066438",
+      "size": "286072",
+      "md5": "baaf5f274d6c403d715de806a3edfc5b",
+      "crc32": "f8b31318",
+      "sha1": "d93175b2bf77570d2f2181f01692f377dacc3b69",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prabhatkhabar-2022-07-29T09:17:16.642788+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1659066442",
+      "size": "1522",
+      "md5": "1eb28c7046cdf80fd2a5499f7c8995a1",
+      "crc32": "918984f9",
+      "sha1": "52f717729124f82f8add62181774d47b2ef0e1a8",
+      "format": "JSON"
+    },
+    {
       "name": "prabhatkhabar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "44f557faf4f35e1d48c129ff42137b8e299b074b",
-      "mtime": "1659047527",
-      "size": "4929",
-      "md5": "0701ea2665f5619b53d4be6834a466fe",
-      "crc32": "58d42c5c",
-      "sha1": "6dda0871e7e7e4a4bab5801f370aada268f515a5",
+      "btih": "a0031faa213e74c9d5d8c00df066b5e0046dce52",
+      "mtime": "1659066480",
+      "size": "5806",
+      "md5": "061db228c3284e487b5416c087cc332e",
+      "crc32": "42a22e12",
+      "sha1": "172c0d6e390ac160d3d8ab4dfee3eaf3416c4458",
       "format": "Archive BitTorrent"
     },
     {
       "name": "prabhatkhabar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "26159a600bb4e188074beb33c08f0de4",
+      "md5": "c3d732e228a04e0a5273ea0417c77fb4",
       "summation": "md5"
     },
     {
       "name": "prabhatkhabar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659023336",
-      "size": "36864",
-      "md5": "2b0743c7c367ad2f7b3d8e3f62149da0",
-      "crc32": "9c50db1b",
-      "sha1": "3ae4a90799db87342b1997df382c3b48753e889b",
+      "mtime": "1659066446",
+      "size": "45056",
+      "md5": "06cfd8bf9b1c817f3a403b7ac38de197",
+      "crc32": "6fdc7164",
+      "sha1": "cc110637843a2bff9890eba545b752557cc11c41",
       "format": "Metadata"
     },
     {
@@ -210,9 +251,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 20,
-  "item_last_updated": 1659047527,
-  "item_size": 1763985,
+  "files_count": 24,
+  "item_last_updated": 1659066480,
+  "item_size": 2278505,
   "metadata": {
     "identifier": "prabhatkhabar-2022",
     "collection": [
@@ -229,14 +270,15 @@
     "publicdate": "2022-07-27 17:18:30",
     "addeddate": "2022-07-27 17:18:30"
   },
+  "pending_tasks": true,
   "prabhatkhabar-2022": [
     {
       "url": "https://www.prabhatkhabar.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_prabhatkhabar_com-_-2022_07_28_15_07_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_prabhatkhabar_com-_-2022_07_28_15_07_38.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_prabhatkhabar_com-_-2022_07_29_03_25_35.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_prabhatkhabar_com-_-2022_07_29_03_25_35.report.json",
       "summary": {
-        "performance": 0.31,
+        "performance": 0.21,
         "accessibility": 0.74,
         "best-practices": 0.92,
         "seo": 0.84,
@@ -246,10 +288,10 @@
     {
       "url": "https://www.prabhatkhabar.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_prabhatkhabar_com-_-2022_07_28_15_08_00.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_prabhatkhabar_com-_-2022_07_28_15_08_00.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_prabhatkhabar_com-_-2022_07_29_03_25_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_prabhatkhabar_com-_-2022_07_29_03_25_56.report.json",
       "summary": {
-        "performance": 0.19,
+        "performance": 0.12,
         "accessibility": 0.74,
         "best-practices": 0.92,
         "seo": 0.84,
@@ -259,10 +301,10 @@
     {
       "url": "https://www.prabhatkhabar.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_prabhatkhabar_com-_-2022_07_28_15_07_15.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_prabhatkhabar_com-_-2022_07_28_15_07_15.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_prabhatkhabar_com-_-2022_07_29_03_26_18.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_prabhatkhabar_com-_-2022_07_29_03_26_18.report.json",
       "summary": {
-        "performance": 0.11,
+        "performance": 0.21,
         "accessibility": 0.74,
         "best-practices": 0.92,
         "seo": 0.84,
@@ -271,9 +313,19 @@
     }
   ],
   "server": "ia601503.us.archive.org",
-  "uniq": 1756373665,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3346823202,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1687386418,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia601503.us.archive.org"
   ]
 }

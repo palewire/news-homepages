@@ -1,5 +1,5 @@
 {
-  "created": 1659054492,
+  "created": 1659097616,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/18/items/southsideweekly-2022",
@@ -5707,31 +5707,83 @@
       "format": "JSON"
     },
     {
+      "name": "southsideweekly-2022-07-28T19:21:35.912716-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southsideweekly-2022-07-28T19:21:35.912716-05:00.jpg",
+      "mtime": "1659075852",
+      "size": "10859",
+      "md5": "8cd163ea3b9abea03a4afcb10c22d185",
+      "crc32": "346cb036",
+      "sha1": "c87c8c576c6bdc7d0b256dec52df0e77ade5fd7a"
+    },
+    {
+      "name": "southsideweekly-2022-07-29T07:25:46.115182-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659097563",
+      "size": "20874",
+      "md5": "3945bdf195be48f660e2d92678161de5",
+      "crc32": "9463051c",
+      "sha1": "2e15a4d2b49be333fd3c39a9dc378c24175a8c41",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-07-29T07:25:46.115182-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659097564",
+      "size": "29976",
+      "md5": "e02c9ebced90885eecfa8b7c34b927b0",
+      "crc32": "6e8e7f85",
+      "sha1": "155c9871d1422802a84e2a5be367ebde0716ab7c",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-07-29T07:25:46.115182-05:00.jpg",
+      "source": "original",
+      "mtime": "1659097557",
+      "size": "313274",
+      "md5": "b171e0753bebc71946ee1cab3333a671",
+      "crc32": "9abe46dc",
+      "sha1": "8b8e3e6890ad07e1aaa9f17f1d272af1550f39a8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southsideweekly-2022-07-29T07:25:46.115182-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659097566",
+      "size": "1504",
+      "md5": "db7d0341aa1d153e66d5f6f7b637742e",
+      "crc32": "70c612ef",
+      "sha1": "60d99d7b42b8c789635cb603f1d4119e455f0c87",
+      "format": "JSON"
+    },
+    {
       "name": "southsideweekly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9df9c27f4c9dc3adb9c217a5c709a03dd63c7a89",
-      "mtime": "1659054466",
-      "size": "120023",
-      "md5": "558b71f006d368187c530486ca10e453",
-      "crc32": "02c42682",
-      "sha1": "61c03ad2d2cfcdd6800912cd61918ac6cc1dc1ac",
+      "btih": "ca36648af4fb33f55358b0866ac6bc82978be7f9",
+      "mtime": "1659097614",
+      "size": "121098",
+      "md5": "b434e83395af43fdffc6a5b5150593bb",
+      "crc32": "3fe129f2",
+      "sha1": "4927864b74e964a69efc5e0891749b41411714e2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "southsideweekly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c5bccd3b218fe6aa47cc158ecfaf6e6e",
+      "md5": "33741a9c107b3433f1975af5d1fc0bff",
       "summation": "md5"
     },
     {
       "name": "southsideweekly-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659054454",
-      "size": "655360",
-      "md5": "fcd8c9b73c4076306421045c1fd10fe5",
-      "crc32": "843bf282",
-      "sha1": "07f4fcbefd17e3e164f4be5b495c8110bc29f69f",
+      "mtime": "1659097571",
+      "size": "659456",
+      "md5": "66f7b81a09cb955c3d5d0b26fd588f56",
+      "crc32": "0f11ee34",
+      "sha1": "a6c6e36846d5eba72518d72d3254d3edcddae793",
       "format": "Metadata"
     },
     {
@@ -5745,9 +5797,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 548,
-  "item_last_updated": 1659054466,
-  "item_size": 47367268,
+  "files_count": 553,
+  "item_last_updated": 1659097614,
+  "item_size": 47748926,
   "metadata": {
     "identifier": "southsideweekly-2022",
     "collection": [
@@ -5769,7 +5821,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346652786,
+      "task_id": 3347153007,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5777,7 +5829,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 629363835,
+  "uniq": 661016326,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

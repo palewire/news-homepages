@@ -1,5 +1,5 @@
 {
-  "created": 1659054201,
+  "created": 1659097438,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/17/items/ottumwacourier-2022",
@@ -3483,31 +3483,83 @@
       "format": "JSON"
     },
     {
+      "name": "ottumwacourier-2022-07-28T19:18:13.421419-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ottumwacourier-2022-07-28T19:18:13.421419-05:00.jpg",
+      "mtime": "1659075445",
+      "size": "9652",
+      "md5": "bd2fece799fb24b5fe9befc1eeabe634",
+      "crc32": "cf577ffa",
+      "sha1": "5f89f03b4d9ed24a0da3291bcc54eb996171d5d7"
+    },
+    {
+      "name": "ottumwacourier-2022-07-29T07:22:57.628489-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659097382",
+      "size": "50938",
+      "md5": "796941688baff62ee11f464a5c9beac5",
+      "crc32": "14dad49f",
+      "sha1": "87cf24f6a5ba1a972c212b50e43c2d389f8d82f8",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-07-29T07:22:57.628489-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659097384",
+      "size": "75131",
+      "md5": "8515c6d3942f35b0f3aacbcdcfc80814",
+      "crc32": "4f47bf0d",
+      "sha1": "685d1effa7324f5dc2254629e8c7731f2133392c",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-07-29T07:22:57.628489-05:00.jpg",
+      "source": "original",
+      "mtime": "1659097381",
+      "size": "331887",
+      "md5": "bb94dc9698d00eb4aa31340ec3907fc2",
+      "crc32": "8c75b091",
+      "sha1": "7ebcf6d8bc6f6ecd35a8e94587c63c38a4761222",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ottumwacourier-2022-07-29T07:22:57.628489-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659097385",
+      "size": "1531",
+      "md5": "3daaf9808c4a6337c8ba00677326146a",
+      "crc32": "35ea8a78",
+      "sha1": "cd0b3e76bcd2056516b15909747a7f32984a593f",
+      "format": "JSON"
+    },
+    {
       "name": "ottumwacourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "35b896957c279cc9b688e8721b2225cc6b8ed0c9",
-      "mtime": "1659054197",
-      "size": "72959",
-      "md5": "e37d761f2a224011d0d793a52433403a",
-      "crc32": "028e937a",
-      "sha1": "e0221722e3ff6deb2553e7ea454f977c88185861",
+      "btih": "d2457d153311a6998a866832d0d9899dd6fc99c3",
+      "mtime": "1659097434",
+      "size": "74048",
+      "md5": "0be6d38c808e4eb3d71a93187d8c1bde",
+      "crc32": "dfdefbf2",
+      "sha1": "369b1354be922e59e761262ea6c91a5caa7819df",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ottumwacourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2cfa7cfde22d18bf95dcb9abd6f5af26",
+      "md5": "44b8af74bbf5c6dadf8f30d52cd206be",
       "summation": "md5"
     },
     {
       "name": "ottumwacourier-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659054155",
-      "size": "380928",
-      "md5": "d41dd38ab9ce7c93c3ecf24f9a326da7",
-      "crc32": "331c5424",
-      "sha1": "d1bdf04b875ba2b9408cb23a9cc3778fc427b3f8",
+      "mtime": "1659097393",
+      "size": "389120",
+      "md5": "ea2eafa1aadb8831d7f98c6d73f4ba40",
+      "crc32": "272de1e6",
+      "sha1": "8edde2fefc7251453c25077373be8863a5dd4daf",
       "format": "Metadata"
     },
     {
@@ -3521,9 +3573,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 333,
-  "item_last_updated": 1659054197,
-  "item_size": 41283282,
+  "files_count": 338,
+  "item_last_updated": 1659097434,
+  "item_size": 41761702,
   "metadata": {
     "identifier": "ottumwacourier-2022",
     "collection": [
@@ -3545,7 +3597,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346649489,
+      "task_id": 3347151567,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3553,7 +3605,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 831685559,
+  "uniq": 1761525727,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

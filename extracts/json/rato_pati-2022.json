@@ -1,5 +1,5 @@
 {
-  "created": 1659054245,
+  "created": 1659097472,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/9/items/rato_pati-2022",
@@ -525,31 +525,73 @@
       "format": "JSON"
     },
     {
+      "name": "rato_pati-2022-07-29T06:04:10.564484+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rato_pati-2022-07-29T06:04:10.564484+05:45.jpg",
+      "mtime": "1659075501",
+      "size": "9443",
+      "md5": "72b6d38c5f50684a03bfc5e39900b7b1",
+      "crc32": "09d9314e",
+      "sha1": "8c7159ca78b07e5b40c15b8e05aa93094edb9ce1"
+    },
+    {
+      "name": "rato_pati-2022-07-29T18:08:45.580314+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659097429",
+      "size": "122361",
+      "md5": "d2e35450e7ccf5f5ba62c9a222770bfc",
+      "crc32": "f82992dc",
+      "sha1": "d12944d62bada17d6d7cc0dec2507e237a2a99fc",
+      "format": "JSON"
+    },
+    {
+      "name": "rato_pati-2022-07-29T18:08:45.580314+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659097430",
+      "size": "111349",
+      "md5": "8a57c4be2d8b270d00a6366be644e782",
+      "crc32": "077f3bff",
+      "sha1": "9b052843f7fd9841b030142b051458ca42aa9047",
+      "format": "JSON"
+    },
+    {
+      "name": "rato_pati-2022-07-29T18:08:45.580314+05:45.jpg",
+      "source": "original",
+      "mtime": "1659097427",
+      "size": "304956",
+      "md5": "14fb113d91625d4b87d42512451f5b2e",
+      "crc32": "5fe69817",
+      "sha1": "847c5e9d262a61a872d78758ff3e7abe2f404b69",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
       "name": "rato_pati-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e24c64062b0dd1df801d3f7e233bfa0066a648fc",
-      "mtime": "1659054242",
-      "size": "12056",
-      "md5": "8fc852968e84e46f3f0714d7eaec0db4",
-      "crc32": "44ed84ca",
-      "sha1": "a2f9de481fdd291221c4888d76c9ee93a2a11e4d",
+      "btih": "9e74cfdb191ca978cd97adea06c4f04cd9d6dfce",
+      "mtime": "1659097469",
+      "size": "12911",
+      "md5": "3897d7d679bb1321e989c695853240ea",
+      "crc32": "46133d6a",
+      "sha1": "79f8664b761cf61bb706a74f99823ccb24271546",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rato_pati-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d939ad94ce67c1200e03fe1a4ca2a5a8",
+      "md5": "213d47524e731a27769deff0d68209aa",
       "summation": "md5"
     },
     {
       "name": "rato_pati-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659054205",
-      "size": "77824",
-      "md5": "198260965de1bca44946a2fa051d7757",
-      "crc32": "67f41c6d",
-      "sha1": "a880a96875181f47213bef4c0b6a826e294ddc69",
+      "mtime": "1659097436",
+      "size": "81920",
+      "md5": "3234f1fed743e1bd62bfdd1b85963e90",
+      "crc32": "283a6dbd",
+      "sha1": "ced1b76c953ab70f699e48ed46bdc7a1ed5093bf",
       "format": "Metadata"
     },
     {
@@ -563,9 +605,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 54,
-  "item_last_updated": 1659054242,
-  "item_size": 4675393,
+  "files_count": 58,
+  "item_last_updated": 1659097469,
+  "item_size": 5228453,
   "metadata": {
     "identifier": "rato_pati-2022",
     "collection": [
@@ -587,7 +629,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346650146,
+      "task_id": 3347151832,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -595,7 +637,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 625313552,
+  "uniq": 441306324,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

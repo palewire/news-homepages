@@ -1,5 +1,5 @@
 {
-  "created": 1659046373,
+  "created": 1659097857,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/8/items/labornotes-2022",
@@ -921,31 +921,83 @@
       "format": "JSON"
     },
     {
+      "name": "labornotes-2022-07-28T13:45:17.756653-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "labornotes-2022-07-28T13:45:17.756653-05:00.jpg",
+      "mtime": "1659056942",
+      "size": "10368",
+      "md5": "d68069c6311f28a7784103ff2ae1764c",
+      "crc32": "7a3680e8",
+      "sha1": "d6d2dafe900b1fb66fa1b55c613a91b6b031375f"
+    },
+    {
+      "name": "labornotes-2022-07-28T21:38:35.260795-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659062318",
+      "size": "13429",
+      "md5": "ddd8b873a90af17e95ac6363f40f8564",
+      "crc32": "64e98a5a",
+      "sha1": "7c7675a9613d9eb6d800ee20d115b30cf3c096b4",
+      "format": "JSON"
+    },
+    {
+      "name": "labornotes-2022-07-28T21:38:35.260795-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659062320",
+      "size": "8031",
+      "md5": "26b655b4f7fb56e361b2ff990efbb0ba",
+      "crc32": "f90afec1",
+      "sha1": "cf1d115480a97510f6659b21c21c06f6493ce754",
+      "format": "JSON"
+    },
+    {
+      "name": "labornotes-2022-07-28T21:38:35.260795-05:00.jpg",
+      "source": "original",
+      "mtime": "1659062317",
+      "size": "281231",
+      "md5": "275988df0c834c843f7fa2c1de4922c9",
+      "crc32": "2a05e64f",
+      "sha1": "70157d5d063d33d780ba9056b2f71606b4a3f17f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "labornotes-2022-07-28T21:38:35.260795-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659062322",
+      "size": "1494",
+      "md5": "5c2561d58b21a071ddac0f91da1a6020",
+      "crc32": "d9a20b04",
+      "sha1": "74bf27bac2a17d445f7d340f600967c8d4319d4a",
+      "format": "JSON"
+    },
+    {
       "name": "labornotes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "12679d75533bf753064a47af11e9e615f6b68fc2",
-      "mtime": "1659034039",
-      "size": "20114",
-      "md5": "7b7cdd2333cc6b636860fbe3e8aa0fc2",
-      "crc32": "2320aad2",
-      "sha1": "a4f52a230759a12acb5f86d29e06fef2d24d93de",
+      "btih": "deb3d2f98bc26d6abc89ea7c512ef9c356485227",
+      "mtime": "1659062360",
+      "size": "21183",
+      "md5": "f58f66b48503c4ea1c48f131a84b98a4",
+      "crc32": "c9c76837",
+      "sha1": "e13f72d3bd4046848113e94e0fe689b8882a7929",
       "format": "Archive BitTorrent"
     },
     {
       "name": "labornotes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e06dcb39098c2486808a8f11a735edfa",
+      "md5": "90dafa8c36178cdb128ac4123285e7d8",
       "summation": "md5"
     },
     {
       "name": "labornotes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659034037",
-      "size": "135168",
-      "md5": "8c05c005f6d3a746f315bb2428be89a7",
-      "crc32": "56e8ece9",
-      "sha1": "8cf80e1258cbe4349c7b8c05810e30bb353dc917",
+      "mtime": "1659062326",
+      "size": "139264",
+      "md5": "84d3c58f651b30a719370687e775ebd1",
+      "crc32": "8688fb43",
+      "sha1": "3d3ce7be792556d32af05b8faba0f5aed1e44a43",
       "format": "Metadata"
     },
     {
@@ -959,9 +1011,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 92,
-  "item_last_updated": 1659034039,
-  "item_size": 6200615,
+  "files_count": 97,
+  "item_last_updated": 1659062360,
+  "item_size": 6520333,
+  "labornotes-2022": [
+    {
+      "url": "https://www.labornotes.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_labornotes_org-_-2022_07_29_02_18_45.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_labornotes_org-_-2022_07_29_02_18_45.report.json",
+      "summary": {
+        "performance": 0.5,
+        "accessibility": 0.76,
+        "best-practices": 0.75,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.labornotes.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_labornotes_org-_-2022_07_29_02_19_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_labornotes_org-_-2022_07_29_02_19_00.report.json",
+      "summary": {
+        "performance": 0.53,
+        "accessibility": 0.76,
+        "best-practices": 0.75,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.labornotes.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_labornotes_org-_-2022_07_29_02_19_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_labornotes_org-_-2022_07_29_02_19_13.report.json",
+      "summary": {
+        "performance": 0.53,
+        "accessibility": 0.76,
+        "best-practices": 0.75,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    }
+  ],
   "metadata": {
     "identifier": "labornotes-2022",
     "collection": [
@@ -983,7 +1076,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346414529,
+      "task_id": 3346766565,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -991,7 +1084,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2081415018,
+  "uniq": 1589450898,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

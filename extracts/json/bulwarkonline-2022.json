@@ -1,5 +1,5 @@
 {
-  "created": 1659049991,
+  "created": 1659092830,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/10/items/bulwarkonline-2022",
@@ -1541,31 +1541,83 @@
       "format": "JSON"
     },
     {
+      "name": "bulwarkonline-2022-07-28T19:09:27.297612-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bulwarkonline-2022-07-28T19:09:27.297612-04:00.jpg",
+      "mtime": "1659070834",
+      "size": "11188",
+      "md5": "0a109f796e2ecff61c8c6f62a6462372",
+      "crc32": "853b3e13",
+      "sha1": "31a4158811b785e629ddbb1dbf640022c77d651c"
+    },
+    {
+      "name": "bulwarkonline-2022-07-29T07:06:10.315035-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659092773",
+      "size": "8461",
+      "md5": "ee9f7cf780716c5004ae4416721d7267",
+      "crc32": "c6c9d7a8",
+      "sha1": "f245a6585679d4c05b1d0b05fb1171454172db78",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-07-29T07:06:10.315035-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659092774",
+      "size": "7197",
+      "md5": "87a444e194fba13cbc986fa46b8eeae4",
+      "crc32": "3f09db05",
+      "sha1": "3e3e0203f0eef99497d07bf20664396f363ca473",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-07-29T07:06:10.315035-04:00.jpg",
+      "source": "original",
+      "mtime": "1659092771",
+      "size": "278366",
+      "md5": "d2606b1189f4c7d9f315d0204aba9f84",
+      "crc32": "ab0500c5",
+      "sha1": "0b837004389a09350e4c76ea71714b6c74a40844",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bulwarkonline-2022-07-29T07:06:10.315035-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659092776",
+      "size": "1484",
+      "md5": "19b5b0e74c4897e6eaf905604ab1191c",
+      "crc32": "f5db4118",
+      "sha1": "11f3042441d4278525a7cfe50818719b8fafadb0",
+      "format": "JSON"
+    },
+    {
       "name": "bulwarkonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cef42583c5a114ff7d5f53b3d5f79e46b9a2b1a2",
-      "mtime": "1659049981",
-      "size": "33092",
-      "md5": "a37dc67ea0451e81e3a898084b1147a2",
-      "crc32": "df464107",
-      "sha1": "dc9cd1d877e629f382295d4936b5dbcb3f842af0",
+      "btih": "5cfcf80d7cfe40027dabe5efc219c971d8503b19",
+      "mtime": "1659092828",
+      "size": "34175",
+      "md5": "232e3b69c72e75aca23913878671158e",
+      "crc32": "ddbd9965",
+      "sha1": "acbd8aa61685bcdbcdb31d1afb7656a050a891d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bulwarkonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "18ad4dc7dcef9972c1213a527cf94ec3",
+      "md5": "a2b80a1c5a675292e25cbc9bf95423cb",
       "summation": "md5"
     },
     {
       "name": "bulwarkonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659049979",
-      "size": "196608",
-      "md5": "5af70728a46f39d99c1458efc55eacec",
-      "crc32": "e73bbbb3",
-      "sha1": "a2e2c056d0db791d309f2fbc16861e03b6a8863b",
+      "mtime": "1659092793",
+      "size": "204800",
+      "md5": "158bbe7110210bd30ce53681eb1aca07",
+      "crc32": "2b28d803",
+      "sha1": "2a5893cb3cde7f59a1b9818c4a4d0836dfd90702",
       "format": "Metadata"
     },
     {
@@ -1579,9 +1631,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 151,
-  "item_last_updated": 1659049981,
-  "item_size": 11388638,
+  "files_count": 156,
+  "item_last_updated": 1659092828,
+  "item_size": 11704609,
   "metadata": {
     "identifier": "bulwarkonline-2022",
     "collection": [
@@ -1603,7 +1655,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346593972,
+      "task_id": 3347109353,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1611,7 +1663,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1810794837,
+  "uniq": 1404447823,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

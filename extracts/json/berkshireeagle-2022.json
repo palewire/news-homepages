@@ -1,5 +1,5 @@
 {
-  "created": 1659049713,
+  "created": 1659092774,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/18/items/berkshireeagle-2022",
@@ -57,31 +57,73 @@
       "format": "JSON"
     },
     {
+      "name": "berkshireeagle-2022-07-28T19:07:26.002982-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkshireeagle-2022-07-28T19:07:26.002982-04:00.jpg",
+      "mtime": "1659070464",
+      "size": "9068",
+      "md5": "2d59590cc523874a9368aa9f2018c79f",
+      "crc32": "fabdfc60",
+      "sha1": "eaa5869645ce11bc3e23d92812992d1a55afc195"
+    },
+    {
+      "name": "berkshireeagle-2022-07-29T07:04:39.631372-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659092687",
+      "size": "110292",
+      "md5": "8673acff18bac2433ce8ef288b13dc29",
+      "crc32": "fa1e46c1",
+      "sha1": "991139a94a934f1455d6bbcddacb1ae249290d7c",
+      "format": "JSON"
+    },
+    {
+      "name": "berkshireeagle-2022-07-29T07:04:39.631372-04:00.jpg",
+      "source": "original",
+      "mtime": "1659092681",
+      "size": "363931",
+      "md5": "8077a6ddef08316fc5c11b6872449901",
+      "crc32": "c6d02165",
+      "sha1": "4a39154c9b74d2b133277c88dc74b22a51e54bb0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkshireeagle-2022-07-29T07:04:39.631372-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659092689",
+      "size": "1531",
+      "md5": "6c63036e623928a0f19e7b6f18f42c4b",
+      "crc32": "f5603724",
+      "sha1": "a0a1d5179f44adec76d05636d5a23f4589ab1600",
+      "format": "JSON"
+    },
+    {
       "name": "berkshireeagle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dd3c5a1b0bc03640305cb2309adcc3c134968952",
-      "mtime": "1659049710",
-      "size": "2560",
-      "md5": "c3f7405751b3edd1526531d1efb248a8",
-      "crc32": "39e5fec3",
-      "sha1": "0f4fcc28aa8d74dd70dfa6659adf8391be7275bb",
+      "btih": "ad516e66172c8320af6aa2da8d4a2f276dbd1841",
+      "mtime": "1659092773",
+      "size": "3430",
+      "md5": "175ba8bd004440edd8b0bdc741e16ddc",
+      "crc32": "6f22edd2",
+      "sha1": "c8b5cd3027f69dbe5585aa95444cdf07e93fb60d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "berkshireeagle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "327f76fa2142281e6252071a0f29a5a7",
+      "md5": "e1b69cc42b4850df522b912c4ad39503",
       "summation": "md5"
     },
     {
       "name": "berkshireeagle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659049676",
-      "size": "28672",
-      "md5": "ee4ef30320cfcde0e2e337e413685b59",
-      "crc32": "f8c7614f",
-      "sha1": "0d9b4c4e6c7a42280dac8ee7656315de3778e048",
+      "mtime": "1659092738",
+      "size": "32768",
+      "md5": "d1934d9a2da325986ec1293b81462468",
+      "crc32": "7752a8ac",
+      "sha1": "52ac217d3e42b1d07a17e0595096f5da4236cd2c",
       "format": "Metadata"
     },
     {
@@ -95,9 +137,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 9,
-  "item_last_updated": 1659049710,
-  "item_size": 586048,
+  "files_count": 13,
+  "item_last_updated": 1659092773,
+  "item_size": 1075836,
   "metadata": {
     "identifier": "berkshireeagle-2022",
     "collection": [
@@ -119,7 +161,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346589854,
+      "task_id": 3347108550,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -127,7 +169,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 172525484,
+  "uniq": 141607433,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

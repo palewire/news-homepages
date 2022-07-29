@@ -1,5 +1,5 @@
 {
-  "created": 1659048732,
+  "created": 1659098293,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/5/items/vtdigger-2022",
@@ -4516,31 +4516,72 @@
       "sha1": "994ca9c88e9cbf75ff01be7fbd1f7035f0b06b20"
     },
     {
+      "name": "vtdigger-2022-07-28T23:52:56.735788-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659066779",
+      "size": "59069",
+      "md5": "c1b1f2f9b268e2805b20effb7e117877",
+      "crc32": "26982488",
+      "sha1": "e5766d5500ebaf1dc5157639cb23abbc472bcb69",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-07-28T23:52:56.735788-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659066781",
+      "size": "58595",
+      "md5": "41a512ef9a88c576700de20667979726",
+      "crc32": "02569a0d",
+      "sha1": "9238763cfd048e5f0a5ed86076a2a2347bbcef92",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-07-28T23:52:56.735788-04:00.jpg",
+      "source": "original",
+      "mtime": "1659066778",
+      "size": "381996",
+      "md5": "e9e0baf7d1bdf7adc9878cfff1ed8b28",
+      "crc32": "f2339c17",
+      "sha1": "9c3c6157ec199fbb382e61a538bf4210a9b3d9b7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vtdigger-2022-07-28T23:52:56.735788-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659066782",
+      "size": "1441",
+      "md5": "3f5598815d8bbc615406b3c12785f7c7",
+      "crc32": "42f75cd7",
+      "sha1": "07f527338e51a87c5e75d41c4a358a29fa6a09ed",
+      "format": "JSON"
+    },
+    {
       "name": "vtdigger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3e91d9eee9b96e64f1691efd141cc6052574b1f2",
-      "mtime": "1659048709",
-      "size": "92604",
-      "md5": "75998a1fc1ae4c04fa92a04384cb85b7",
-      "crc32": "1f0f2023",
-      "sha1": "92c1fbef603f468c53bafba23b523b6d07bde3f6",
+      "btih": "537ba743f21243ac9be868b421c9ce3192399ed2",
+      "mtime": "1659066825",
+      "size": "93459",
+      "md5": "9f4f38e323c5619542ba1a1b0005b850",
+      "crc32": "df952b06",
+      "sha1": "0414045ae7ae694ead8dcbb950b1b2745732e74d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vtdigger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e52f8dce23b1dc1d21af4384852d4532",
+      "md5": "6e868976ce102d97fd0bfee464dab24e",
       "summation": "md5"
     },
     {
       "name": "vtdigger-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659023813",
-      "size": "516096",
-      "md5": "198b82847db33196188fa6df134734d6",
-      "crc32": "bd243550",
-      "sha1": "e98642d7e4f87dcdb2961bc984720e0bfd0f3a70",
+      "mtime": "1659066786",
+      "size": "524288",
+      "md5": "b60c04ea0b7210a5d1eafa87ce1da27d",
+      "crc32": "b0b1ea3b",
+      "sha1": "dbe34847c8476001ad98d52f28cd816eacfe5a13",
       "format": "Metadata"
     },
     {
@@ -4554,9 +4595,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 434,
-  "item_last_updated": 1659048709,
-  "item_size": 53723409,
+  "files_count": 438,
+  "item_last_updated": 1659066825,
+  "item_size": 54233557,
   "metadata": {
     "identifier": "vtdigger-2022",
     "collection": [
@@ -4573,10 +4614,62 @@
     "publicdate": "2022-06-19 23:29:49",
     "addeddate": "2022-06-19 23:29:49"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 1906476213,
+  "pending_tasks": true,
+  "server": "ia601507.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3346828170,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2029402033,
+  "vtdigger-2022": [
+    {
+      "url": "https://vtdigger.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/vtdigger_org-_-2022_07_29_03_36_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/vtdigger_org-_-2022_07_29_03_36_17.report.json",
+      "summary": {
+        "performance": 0.51,
+        "accessibility": 0.89,
+        "best-practices": 0.67,
+        "seo": 0.82,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://vtdigger.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/vtdigger_org-_-2022_07_29_03_36_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/vtdigger_org-_-2022_07_29_03_36_34.report.json",
+      "summary": {
+        "performance": 0.38,
+        "accessibility": 0.89,
+        "best-practices": 0.67,
+        "seo": 0.82,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://vtdigger.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/vtdigger_org-_-2022_07_29_03_36_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/vtdigger_org-_-2022_07_29_03_36_00.report.json",
+      "summary": {
+        "performance": 0.42,
+        "accessibility": 0.89,
+        "best-practices": 0.67,
+        "seo": 0.82,
+        "pwa": 0.3
+      }
+    }
+  ],
   "workable_servers": [
-    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }
