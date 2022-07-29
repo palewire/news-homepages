@@ -1,0 +1,175 @@
+{
+  "created": 1659054806,
+  "d1": "ia601504.us.archive.org",
+  "d2": "ia801504.us.archive.org",
+  "dir": "/9/items/unichicago-2022",
+  "files": [
+    {
+      "name": "__ia_thumb.jpg",
+      "source": "original",
+      "mtime": "1659038777",
+      "size": "16243",
+      "md5": "2d391391ec83f5b040ee7aeac0fbf6d0",
+      "crc32": "ed075efd",
+      "sha1": "cbf9f0819e487da09954e0444aff364496291214",
+      "format": "Item Tile",
+      "rotation": "0"
+    },
+    {
+      "name": "unichicago-2022-07-28T15:05:03.898412-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659038722",
+      "size": "23789",
+      "md5": "2b6899b30c6d22c807111ffcbacccde5",
+      "crc32": "f223340e",
+      "sha1": "e9214d0c28fcdf728fee983bbc010cd90d654aae",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-07-28T15:05:03.898412-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659038725",
+      "size": "27426",
+      "md5": "8b777106e67ce31f105c8c8861265285",
+      "crc32": "370cfecb",
+      "sha1": "891b46483df7035ccbdc6931e0a4eca87d22f490",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-07-28T15:05:03.898412-05:00.jpg",
+      "source": "original",
+      "mtime": "1659038709",
+      "size": "241293",
+      "md5": "b0281ac7247b2594481f42eaa506be51",
+      "crc32": "b8647776",
+      "sha1": "7e1d3b4a2ea9bb296e17b42be0d9573c59caecba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "unichicago-2022-07-28T15:05:03.898412-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659038728",
+      "size": "1648",
+      "md5": "fe94e50e5b8f541ac5735c7b46b6d853",
+      "crc32": "4e0f30df",
+      "sha1": "8c3027f48c64aa29fe4bb73a1e414418158c6c15",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022_archive.torrent",
+      "source": "metadata",
+      "btih": "5c1eb50381cde0168a85a2c455a5147051f610e9",
+      "mtime": "1659038778",
+      "size": "2484",
+      "md5": "3bb12b7efa035b7aef7064c38d038cd3",
+      "crc32": "b309b0cf",
+      "sha1": "f967c3e1456f4ba33d40a824c42409abc92b340b",
+      "format": "Archive BitTorrent"
+    },
+    {
+      "name": "unichicago-2022_files.xml",
+      "source": "original",
+      "format": "Metadata",
+      "md5": "9568d4b4a39b240091d9e3da47203b6b",
+      "summation": "md5"
+    },
+    {
+      "name": "unichicago-2022_meta.sqlite",
+      "source": "original",
+      "mtime": "1659038742",
+      "size": "28672",
+      "md5": "148040bbd91c6cc02bd160a5c2d48144",
+      "crc32": "9ab59084",
+      "sha1": "c3b78c9d93c806fcfa974d8d3395f43c40dac0ef",
+      "format": "Metadata"
+    },
+    {
+      "name": "unichicago-2022_meta.xml",
+      "source": "original",
+      "mtime": "1659038725",
+      "size": "617",
+      "md5": "9d10fd05e257673e818efd27be2740c5",
+      "crc32": "1b9fcc46",
+      "sha1": "c2c2cb390f6d57a4e3471da3356f210108f0e9c6",
+      "format": "Metadata"
+    }
+  ],
+  "files_count": 9,
+  "item_last_updated": 1659038778,
+  "item_size": 342172,
+  "metadata": {
+    "identifier": "unichicago-2022",
+    "collection": [
+      "news-homepages",
+      "additional_collections"
+    ],
+    "contributor": "https://homepages.news",
+    "date": "2022",
+    "mediatype": "image",
+    "publisher": "https://www.univision.com/local/chicago-wgbo",
+    "scanner": "Internet Archive Python library 3.0.2",
+    "title": "Univision Chicago homepages in 2022",
+    "uploader": "ben.welsh@gmail.com",
+    "publicdate": "2022-07-28 20:05:24",
+    "addeddate": "2022-07-28 20:05:24"
+  },
+  "pending_tasks": true,
+  "server": "ia601504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3346473273,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "unichicago-2022": [
+    {
+      "url": "https://www.univision.com/local/chicago-wgbo",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_local_chicago_wgbo-2022_07_28_20_00_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_local_chicago_wgbo-2022_07_28_20_00_50.report.json",
+      "summary": {
+        "performance": 0.32,
+        "accessibility": 0.76,
+        "best-practices": 0.83,
+        "seo": 0.97,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.univision.com/local/chicago-wgbo",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_local_chicago_wgbo-2022_07_28_20_01_15.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_local_chicago_wgbo-2022_07_28_20_01_15.report.json",
+      "summary": {
+        "performance": 0.29,
+        "accessibility": 0.76,
+        "best-practices": 0.83,
+        "seo": 0.97,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.univision.com/local/chicago-wgbo",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_local_chicago_wgbo-2022_07_28_20_00_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_local_chicago_wgbo-2022_07_28_20_00_25.report.json",
+      "summary": {
+        "performance": 0.26,
+        "accessibility": 0.76,
+        "best-practices": 0.83,
+        "seo": 0.97,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "uniq": 1660618578,
+  "workable_servers": [
+    "ia601504.us.archive.org"
+  ]
+}

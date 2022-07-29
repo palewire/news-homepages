@@ -1,5 +1,46 @@
 {
-  "created": 1658981290,
+  "axios-2022": [
+    {
+      "url": "https://www.axios.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_axios_com-_-2022_07_28_12_46_22.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_axios_com-_-2022_07_28_12_46_22.report.json",
+      "summary": {
+        "performance": 0.27,
+        "accessibility": 0.82,
+        "best-practices": 0.83,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.axios.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_axios_com-_-2022_07_28_12_46_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_axios_com-_-2022_07_28_12_46_43.report.json",
+      "summary": {
+        "performance": 0.27,
+        "accessibility": 0.82,
+        "best-practices": 0.83,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.axios.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_axios_com-_-2022_07_28_12_45_57.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_axios_com-_-2022_07_28_12_45_57.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.82,
+        "best-practices": 0.83,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "created": 1659054185,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/13/items/axios-2022",
@@ -4568,31 +4609,83 @@
       "sha1": "4e33d312153a56351d2935c9e011081361973c3d"
     },
     {
+      "name": "axios-2022-07-28T09:19:43.305669-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659014386",
+      "size": "37234",
+      "md5": "0f37df72013be372266332c65a4640a5",
+      "crc32": "b97a74f3",
+      "sha1": "ddddab02379f6c3a0931c136e5a0e9a4103988a3",
+      "format": "JSON"
+    },
+    {
+      "name": "axios-2022-07-28T09:19:43.305669-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659014388",
+      "size": "33236",
+      "md5": "7650c63f15d950bafe00df31f0661e34",
+      "crc32": "b500c5fd",
+      "sha1": "c529fa5c2a93942d99723ba2475920438d6c6b73",
+      "format": "JSON"
+    },
+    {
+      "name": "axios-2022-07-28T09:19:43.305669-04:00.jpg",
+      "source": "original",
+      "mtime": "1659014384",
+      "size": "198995",
+      "md5": "95341deee18e4cb85e139d53f57832e7",
+      "crc32": "5b9f38de",
+      "sha1": "3ecd56e8626168ee931240353056c372c87b433d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "axios-2022-07-28T09:19:43.305669-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659014390",
+      "size": "1450",
+      "md5": "826e42b73a1bc81660a0350b7dfd39ad",
+      "crc32": "dea279ef",
+      "sha1": "44f01b4bfe17ebf62813f006047786d552ac95fb",
+      "format": "JSON"
+    },
+    {
+      "name": "axios-2022-07-28T09:19:43.305669-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "axios-2022-07-28T09:19:43.305669-04:00.jpg",
+      "mtime": "1659036563",
+      "size": "8720",
+      "md5": "21eb591571e51eaad940498223eca242",
+      "crc32": "60661edb",
+      "sha1": "bc3c83aeaf5e89ef4e1a5998b9726a27161b4fe5"
+    },
+    {
       "name": "axios-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7cc7966dbce1dfc2fdb0e60c5c62d1bbd9cb6781",
-      "mtime": "1658981270",
-      "size": "91574",
-      "md5": "3cb3f492223948f99f369bd05ad28318",
-      "crc32": "3d65f4b2",
-      "sha1": "6f41dffec822c36bdb03b649f31e08a10a794ed6",
+      "btih": "92d0e546dbbd2cbb4d58aae493a1fa56bd75b0cf",
+      "mtime": "1659036569",
+      "size": "92598",
+      "md5": "bef8ce9f4409fa8e766167407f67abf3",
+      "crc32": "edabdff9",
+      "sha1": "61d2d57d86add70764838ad007dd27371d1588f0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "axios-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bd2b6bf8fa4fd668d67a16ded3b1fab0",
+      "md5": "84b6d7f9c5083a96a8df41a7da3f8273",
       "summation": "md5"
     },
     {
       "name": "axios-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658971540",
-      "size": "516096",
-      "md5": "5e6fae966d66233568a55762e6132eec",
-      "crc32": "10dc2252",
-      "sha1": "f4b91f39bc33af798244e64772118cb17c53e6bc",
+      "mtime": "1659014395",
+      "size": "520192",
+      "md5": "9718cbeaf36d3924333dfb5805087257",
+      "crc32": "a69ce6e5",
+      "sha1": "9963dcf6d100be1932a233de726742a1fba8af75",
       "format": "Metadata"
     },
     {
@@ -4606,9 +4699,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 439,
-  "item_last_updated": 1658981270,
-  "item_size": 34382628,
+  "files_count": 444,
+  "item_last_updated": 1659036569,
+  "item_size": 34667383,
   "metadata": {
     "identifier": "axios-2022",
     "collection": [
@@ -4625,10 +4718,10 @@
     "publicdate": "2022-06-19 23:22:59",
     "addeddate": "2022-06-19 23:22:59"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 914686016,
+  "server": "ia902503.us.archive.org",
+  "uniq": 852263254,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658990042,
+  "created": 1659048536,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/0/items/sternde-2022",
@@ -276,31 +276,83 @@
       "sha1": "646e6b88a606535a5ea18eee0123e52ce4a37736"
     },
     {
+      "name": "sternde-2022-07-28T17:53:50.913176+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659023633",
+      "size": "100722",
+      "md5": "f3228ea89656c62d4853fccf988dea7e",
+      "crc32": "410fa9a0",
+      "sha1": "908d388b7fcf1ce99c0a40134db248b66d05c11e",
+      "format": "JSON"
+    },
+    {
+      "name": "sternde-2022-07-28T17:53:50.913176+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659023635",
+      "size": "95804",
+      "md5": "1d2903de30c27a38754cc0465a505d73",
+      "crc32": "174e121a",
+      "sha1": "1e2ec09b2d05fe668a7b295b783e213ebf51cf4a",
+      "format": "JSON"
+    },
+    {
+      "name": "sternde-2022-07-28T17:53:50.913176+02:00.jpg",
+      "source": "original",
+      "mtime": "1659023632",
+      "size": "219567",
+      "md5": "5ca726828d9aaccc0bf7674bdbf26c3e",
+      "crc32": "2648f2dd",
+      "sha1": "0eedb7d5769482ce42dd81f4eceea2c931bda790",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sternde-2022-07-28T17:53:50.913176+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659023636",
+      "size": "1432",
+      "md5": "8815450a6489e0374b3311f1aa38d9ea",
+      "crc32": "4c0bcf50",
+      "sha1": "2b1e0a1eb34331a6d8bd10f71e4b42aa017c345a",
+      "format": "JSON"
+    },
+    {
+      "name": "sternde-2022-07-28T17:53:50.913176+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sternde-2022-07-28T17:53:50.913176+02:00.jpg",
+      "mtime": "1659048504",
+      "size": "9283",
+      "md5": "721ebb0638b11d6a061eafaea01ceccb",
+      "crc32": "5f44261e",
+      "sha1": "13295635fb06812f8d04e881612108279a73cf2e"
+    },
+    {
       "name": "sternde-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5fde1fdba2629738db63d208e9664b721219fc36",
-      "mtime": "1658990018",
-      "size": "6868",
-      "md5": "38ed73d23806a870c9278cb1fcdfc137",
-      "crc32": "1b37162e",
-      "sha1": "ad9de3e2b5b94f558555418c6812f59e67670a30",
+      "btih": "c1b313c2719badcb22fb843a75bc2b57f5f8e297",
+      "mtime": "1659048518",
+      "size": "7923",
+      "md5": "15282ffe45da2a65b1838b1fdeefcadd",
+      "crc32": "d5f957e4",
+      "sha1": "a9063fbabc86abe216f5588313aa653813ebc367",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sternde-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ee97ffb8aa1a29302544489e1adf0e58",
+      "md5": "7dd79105401e25666fc80ae0a1be0618",
       "summation": "md5"
     },
     {
       "name": "sternde-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658979965",
-      "size": "49152",
-      "md5": "e9a6c1896e9cd835399f90a325062fc3",
-      "crc32": "00cc96b8",
-      "sha1": "695dd1f828af43466ef13ab6ed89e91748ff4dc2",
+      "mtime": "1659023640",
+      "size": "53248",
+      "md5": "3060006cb110bbe88b177f77a4044de6",
+      "crc32": "84d95dfc",
+      "sha1": "1da88f57f2c38dce9eb0e59222c202380a5cd08e",
       "format": "Metadata"
     },
     {
@@ -314,9 +366,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 30,
-  "item_last_updated": 1658990018,
-  "item_size": 2201555,
+  "files_count": 35,
+  "item_last_updated": 1659048518,
+  "item_size": 2633514,
   "metadata": {
     "identifier": "sternde-2022",
     "collection": [
@@ -333,10 +385,10 @@
     "publicdate": "2022-07-26 03:57:37",
     "addeddate": "2022-07-26 03:57:37"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 1377740014,
+  "server": "ia902507.us.archive.org",
+  "uniq": 439427082,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

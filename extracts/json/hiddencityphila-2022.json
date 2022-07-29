@@ -1,5 +1,5 @@
 {
-  "created": 1659006837,
+  "created": 1659050152,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/0/items/hiddencityphila-2022",
@@ -1995,31 +1995,83 @@
       "format": "JSON"
     },
     {
+      "name": "hiddencityphila-2022-07-28T07:13:03.880167-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hiddencityphila-2022-07-28T07:13:03.880167-04:00.jpg",
+      "mtime": "1659032355",
+      "size": "9345",
+      "md5": "82277a12943553bf6fa2c2610d718813",
+      "crc32": "1faa05fe",
+      "sha1": "ee17d1cb6c020d443c619ef79b5edaf8954b4e4c"
+    },
+    {
+      "name": "hiddencityphila-2022-07-28T19:14:59.837429-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659050102",
+      "size": "9009",
+      "md5": "f3a9aaa33fbc0aa0e94a0d0b56889ecc",
+      "crc32": "fc2a0de4",
+      "sha1": "993397739bac20c6ae04ff88218a927ca0102e39",
+      "format": "JSON"
+    },
+    {
+      "name": "hiddencityphila-2022-07-28T19:14:59.837429-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659050103",
+      "size": "12380",
+      "md5": "060bf04c74829bd88c261ce9f8e2df0e",
+      "crc32": "19478839",
+      "sha1": "8f22746aa3357b509edb9e89250473501bae4d4a",
+      "format": "JSON"
+    },
+    {
+      "name": "hiddencityphila-2022-07-28T19:14:59.837429-04:00.jpg",
+      "source": "original",
+      "mtime": "1659050100",
+      "size": "264066",
+      "md5": "9bc4071d105314e7f4928c3079a1d853",
+      "crc32": "b96cc1b0",
+      "sha1": "5c844fd7e8a6b16c9ed81c9a9f6c3e62b2b4f4e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hiddencityphila-2022-07-28T19:14:59.837429-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659050105",
+      "size": "1503",
+      "md5": "3ff7fe396191ccfb0885253431888312",
+      "crc32": "6b01eeba",
+      "sha1": "6476c8646e214554941fd45debcafb9b786d66c0",
+      "format": "JSON"
+    },
+    {
       "name": "hiddencityphila-2022_archive.torrent",
       "source": "metadata",
-      "btih": "256e3caab7096b87491675e1b018f2a592ae73fb",
-      "mtime": "1659006832",
-      "size": "42687",
-      "md5": "1ed8e8f5bc23851925ffd006f1dfc567",
-      "crc32": "d1596c98",
-      "sha1": "082d8fb033c1457f2e35bdee17f3e33d7161617e",
+      "btih": "a36a4efd362b3f61bd61a41b4f9d9e44f77bd880",
+      "mtime": "1659050147",
+      "size": "43780",
+      "md5": "3540fb896278322cee4cdd9ff4f44ee7",
+      "crc32": "471945bf",
+      "sha1": "d059498e241a37b18b626820de94be35c9e958f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hiddencityphila-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c5d6bf3ab77a41794e46895382d7d023",
+      "md5": "773f67d18965fd333f4b1a7227272d24",
       "summation": "md5"
     },
     {
       "name": "hiddencityphila-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659006796",
-      "size": "245760",
-      "md5": "780ba2eb877091035152064f202c4c56",
-      "crc32": "4393a5a8",
-      "sha1": "cd732c653e9865c8ee77ffd91a86d05162260a20",
+      "mtime": "1659050109",
+      "size": "253952",
+      "md5": "39895dd214ac5760cdc66cbb279dd008",
+      "crc32": "6a6e7553",
+      "sha1": "e4aa432a1af8e0609ebfd7548f7cee4198db3256",
       "format": "Metadata"
     },
     {
@@ -2033,9 +2085,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 194,
-  "item_last_updated": 1659006832,
-  "item_size": 14132408,
+  "files_count": 199,
+  "item_last_updated": 1659050147,
+  "item_size": 14437996,
   "metadata": {
     "identifier": "hiddencityphila-2022",
     "collection": [
@@ -2057,7 +2109,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346130215,
+      "task_id": 3346596487,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2065,7 +2117,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 433819411,
+  "uniq": 629868466,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

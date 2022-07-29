@@ -1,5 +1,5 @@
 {
-  "created": 1658990271,
+  "created": 1659048706,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/23/items/theappeal-2022",
@@ -484,31 +484,83 @@
       "sha1": "331d93eab64ceee40b80d99717e5d285b9412b0a"
     },
     {
+      "name": "theappeal-2022-07-28T11:54:03.273385-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659023645",
+      "size": "37149",
+      "md5": "c391dd9d40ba60f8b18b180e14a1e979",
+      "crc32": "4c58142a",
+      "sha1": "ef80f4c6e2f7870ce244c264d18672f6c933ccb2",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-07-28T11:54:03.273385-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659023647",
+      "size": "41717",
+      "md5": "7457434dac3d6a6091d8fae3bb1390c1",
+      "crc32": "9d8a9eeb",
+      "sha1": "3fb37161cfd88f104f7dbb3061e10f237252987b",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-07-28T11:54:03.273385-04:00.jpg",
+      "source": "original",
+      "mtime": "1659023644",
+      "size": "225680",
+      "md5": "5e791a9ddcd3638e1e931b1dafd2c3c6",
+      "crc32": "c3f96820",
+      "sha1": "35aecf2a80aae917eed586f41a67e47c696d9cef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theappeal-2022-07-28T11:54:03.273385-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659023648",
+      "size": "1450",
+      "md5": "7e72b22779a67995192b6f0747246218",
+      "crc32": "a6bb573f",
+      "sha1": "658d4e1abc75ee41ec6c33c905473110424d7cb8",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-07-28T11:54:03.273385-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theappeal-2022-07-28T11:54:03.273385-04:00.jpg",
+      "mtime": "1659048601",
+      "size": "9977",
+      "md5": "8584d3c01e3f81b9e33f6a32e516300c",
+      "crc32": "a0d5f245",
+      "sha1": "331d93eab64ceee40b80d99717e5d285b9412b0a"
+    },
+    {
       "name": "theappeal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4d9275c00a41703bd2aae935586a5c53ac141c04",
-      "mtime": "1658990239",
-      "size": "11135",
-      "md5": "7cc5623298ffc3dc22a7dded6050c923",
-      "crc32": "01b98146",
-      "sha1": "f1fec0499682ccf65582c28234c466c3148eb12d",
+      "btih": "c0727abaffb17db303f66686f09954e8d8c6dc04",
+      "mtime": "1659048653",
+      "size": "12199",
+      "md5": "8f68d497fc3835d7b4f669b6fc2a0650",
+      "crc32": "60144dab",
+      "sha1": "ab2751c998b2efae82dba4dad5b541e69ce8d5fe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theappeal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d4a8ea1bba29463b3ac816ff9f6ca7f7",
+      "md5": "7f2cf3d5625515c7a403fa0c693b55fe",
       "summation": "md5"
     },
     {
       "name": "theappeal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658980038",
-      "size": "69632",
-      "md5": "cb8f6096e1da54dfac0fd7c0d59cc19e",
-      "crc32": "ae07b8a9",
-      "sha1": "d19cb936ead517b32289220b1f2e388e418501ee",
+      "mtime": "1659023693",
+      "size": "77824",
+      "md5": "476e147f3533dc6bc4d2e138d2bd34f5",
+      "crc32": "5a92195f",
+      "sha1": "5f5fefbb79dbcb4a422e9fd99d303791be6f8f66",
       "format": "Metadata"
     },
     {
@@ -522,9 +574,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 50,
-  "item_last_updated": 1658990239,
-  "item_size": 2944482,
+  "files_count": 55,
+  "item_last_updated": 1659048653,
+  "item_size": 3269711,
   "metadata": {
     "identifier": "theappeal-2022",
     "collection": [
@@ -541,10 +593,10 @@
     "publicdate": "2022-07-24 03:40:26",
     "addeddate": "2022-07-24 03:40:26"
   },
-  "server": "ia601508.us.archive.org",
-  "uniq": 1095070349,
+  "server": "ia801508.us.archive.org",
+  "uniq": 2087456759,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }

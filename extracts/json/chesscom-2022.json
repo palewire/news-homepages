@@ -3,23 +3,10 @@
     {
       "url": "https://www.chess.com/news",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_chess_com-_news-2022_07_28_01_08_02.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_chess_com-_news-2022_07_28_01_08_02.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_chess_com-_news-2022_07_28_12_48_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_chess_com-_news-2022_07_28_12_48_52.report.json",
       "summary": {
-        "performance": 0.31,
-        "accessibility": 0.91,
-        "best-practices": 0.92,
-        "seo": 0.89,
-        "pwa": 0.8
-      }
-    },
-    {
-      "url": "https://www.chess.com/news",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_chess_com-_news-2022_07_28_01_08_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_chess_com-_news-2022_07_28_01_08_56.report.json",
-      "summary": {
-        "performance": 0.27,
+        "performance": 0.33,
         "accessibility": 0.88,
         "best-practices": 0.92,
         "seo": 0.89,
@@ -28,19 +15,32 @@
     },
     {
       "url": "https://www.chess.com/news",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_chess_com-_news-2022_07_28_01_08_25.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_chess_com-_news-2022_07_28_01_08_25.report.json",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_chess_com-_news-2022_07_28_12_49_15.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_chess_com-_news-2022_07_28_12_49_15.report.json",
       "summary": {
-        "performance": 0.26,
+        "performance": 0.32,
         "accessibility": 0.91,
+        "best-practices": 0.92,
+        "seo": 0.89,
+        "pwa": 0.8
+      }
+    },
+    {
+      "url": "https://www.chess.com/news",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_chess_com-_news-2022_07_28_12_48_33.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_chess_com-_news-2022_07_28_12_48_33.report.json",
+      "summary": {
+        "performance": 0.33,
+        "accessibility": 0.88,
         "best-practices": 0.92,
         "seo": 0.89,
         "pwa": 0.8
       }
     }
   ],
-  "created": 1659010253,
+  "created": 1659054262,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/11/items/chesscom-2022",
@@ -913,31 +913,83 @@
       "sha1": "4ca7d153ed38d06190ddcf08f5260924dbbfdc39"
     },
     {
+      "name": "chesscom-2022-07-28T06:22:56.873214-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659014579",
+      "size": "28346",
+      "md5": "14f6357248224123ad285dd7e9bf026b",
+      "crc32": "a35d7437",
+      "sha1": "825baad7cadce8c9021593eddf43742e6ad225ce",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-07-28T06:22:56.873214-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659014581",
+      "size": "17594",
+      "md5": "4d3d4d2d7734f66e0c279068fc249e09",
+      "crc32": "2cfda372",
+      "sha1": "2408a6093986f103c5ba09b3c17e6f0244e0defc",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-07-28T06:22:56.873214-07:00.jpg",
+      "source": "original",
+      "mtime": "1659014578",
+      "size": "235442",
+      "md5": "a01e15a1767c52710f44b3633d6ee9b5",
+      "crc32": "5c9a2fe6",
+      "sha1": "3a95caf44ca7692b1560d266d093e73c100c34b5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-07-28T06:22:56.873214-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659014582",
+      "size": "1486",
+      "md5": "38e265cf91a07fa49a447f393d9691bb",
+      "crc32": "9a895e32",
+      "sha1": "306218755f6c26cb68376359f47885f5ca25f574",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-07-28T06:22:56.873214-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-07-28T06:22:56.873214-07:00.jpg",
+      "mtime": "1659036649",
+      "size": "9542",
+      "md5": "75c4788271610b468ce928b7f033f95b",
+      "crc32": "10493e03",
+      "sha1": "f054d495fed4e8221c479155de897abd26058fb2"
+    },
+    {
       "name": "chesscom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9cdf4e8b3b12edb91260c51e34c0b5d7700bda07",
-      "mtime": "1658981503",
-      "size": "18850",
-      "md5": "d4ee180a26908a8ef340c8578bf54a2d",
-      "crc32": "f3d45c90",
-      "sha1": "047a61a716b593104777aec02ed6c0be32a766c0",
+      "btih": "78b499800137969d9ba9ede51803fb88eec1cd49",
+      "mtime": "1659036675",
+      "size": "19889",
+      "md5": "27e40a9bad82506d3a89bb44df356949",
+      "crc32": "5d7086a4",
+      "sha1": "a103e007a36f13b0f3511d76fd9d85824dd203a5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chesscom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "94a65674c56a1aca79ce4e23404f8f2e",
+      "md5": "14958997b90d3fd045246392de751ec9",
       "summation": "md5"
     },
     {
       "name": "chesscom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658971695",
-      "size": "118784",
-      "md5": "ea57c6f954dcdcde6f7b21be998cc24d",
-      "crc32": "43aa1a91",
-      "sha1": "51c5169ab49afc656190522f72a45b97d390f8e7",
+      "mtime": "1659014587",
+      "size": "131072",
+      "md5": "50f9c3f47df1bd71a92a56c81caaad09",
+      "crc32": "9e32c97c",
+      "sha1": "29a9cc3b4ddbb02c5b4107afae9793cbabadb54e",
       "format": "Metadata"
     },
     {
@@ -951,9 +1003,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 87,
-  "item_last_updated": 1658981503,
-  "item_size": 5473810,
+  "files_count": 92,
+  "item_last_updated": 1659036675,
+  "item_size": 5779547,
   "metadata": {
     "identifier": "chesscom-2022",
     "collection": [
@@ -971,7 +1023,7 @@
     "addeddate": "2022-07-20 11:23:26"
   },
   "server": "ia902507.us.archive.org",
-  "uniq": 626460744,
+  "uniq": 1142468858,
   "workable_servers": [
     "ia902507.us.archive.org",
     "ia802507.us.archive.org"

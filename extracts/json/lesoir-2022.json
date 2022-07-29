@@ -1,5 +1,5 @@
 {
-  "created": 1659009303,
+  "created": 1659052396,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/lesoir-2022",
@@ -265,31 +265,83 @@
       "format": "JSON"
     },
     {
+      "name": "lesoir-2022-07-28T04:41:01.105232+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lesoir-2022-07-28T04:41:01.105232+02:00.jpg",
+      "mtime": "1659028774",
+      "size": "8568",
+      "md5": "0ac42a03069d3ad81db0d30ffb7db815",
+      "crc32": "1c2182b5",
+      "sha1": "c68dc349cfbe12282bcdbc2e06e16df756155521"
+    },
+    {
+      "name": "lesoir-2022-07-28T17:44:01.738359+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659023046",
+      "size": "69325",
+      "md5": "0e1bb484e6b96a72a9668f326318a9b2",
+      "crc32": "35e5134e",
+      "sha1": "e996429760ea8a09c1ca7f445641e9f3f99940c5",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-07-28T17:44:01.738359+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659023047",
+      "size": "70736",
+      "md5": "5e1133f327f473cd8a08699e7a1cea22",
+      "crc32": "4da76e79",
+      "sha1": "c8d91020c51b9046bf615cb50f19f0127c28643f",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-07-28T17:44:01.738359+02:00.jpg",
+      "source": "original",
+      "mtime": "1659023043",
+      "size": "226800",
+      "md5": "6eef957106cfa23f994cadf0f3783f61",
+      "crc32": "df4b1342",
+      "sha1": "05559020e81968a600de78dd63908223a5b68944",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lesoir-2022-07-28T17:44:01.738359+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659023049",
+      "size": "1441",
+      "md5": "ae859f9cd59e2952caf0bfa00c8f70f1",
+      "crc32": "0bca5168",
+      "sha1": "ba8ca840c1920bd834cbd48e75da093ce1f3d0d2",
+      "format": "JSON"
+    },
+    {
       "name": "lesoir-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a58581a44ab558e97664cd2c5d8dba12b636323f",
-      "mtime": "1658976103",
-      "size": "6611",
-      "md5": "ce510735da31c76293c3704a09eae076",
-      "crc32": "74f4e38c",
-      "sha1": "6f09c1dcf6b4819b67c44a01827afd2d6764d43b",
+      "btih": "a64c7348f7e68193ecb3571b757edccc6fee1654",
+      "mtime": "1659030512",
+      "size": "7661",
+      "md5": "c8e2ac3ebfd2562aa7773474f9257331",
+      "crc32": "0eb70071",
+      "sha1": "37297381a26c580c0e9ea55482d36e3ab2d350b1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lesoir-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f012752a7f8384914ec1b4f20095a859",
+      "md5": "4ebed755d52257ede8b8d87da1e1e925",
       "summation": "md5"
     },
     {
       "name": "lesoir-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658976070",
-      "size": "49152",
-      "md5": "f31093bbd841150aa5ba6f4338290eb9",
-      "crc32": "16ec56e3",
-      "sha1": "37d2a1d39afa406147bb73c1b9c70a998415ec26",
+      "mtime": "1659030510",
+      "size": "53248",
+      "md5": "5b4985a2e46f3d3508fb9a32edfd0f81",
+      "crc32": "89323866",
+      "sha1": "95a8079f286a7038f6cff6c73077773e283afd73",
       "format": "Metadata"
     },
     {
@@ -303,9 +355,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 29,
-  "item_last_updated": 1658976103,
-  "item_size": 2084550,
+  "files_count": 34,
+  "item_last_updated": 1659030512,
+  "item_size": 2466566,
   "metadata": {
     "identifier": "lesoir-2022",
     "collection": [
@@ -327,7 +379,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3345802719,
+      "task_id": 3346376373,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -335,7 +387,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1380194323,
+  "uniq": 873644031,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

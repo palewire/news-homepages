@@ -1,5 +1,5 @@
 {
-  "created": 1659006411,
+  "created": 1659049742,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/22/items/bakersfieldcali-2022",
@@ -1765,31 +1765,83 @@
       "format": "JSON"
     },
     {
+      "name": "bakersfieldcali-2022-07-28T04:05:49.858596-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bakersfieldcali-2022-07-28T04:05:49.858596-07:00.jpg",
+      "mtime": "1659031939",
+      "size": "8972",
+      "md5": "11544f143d6790bf3a3c304a59270eed",
+      "crc32": "547d364b",
+      "sha1": "e275dbc259d63be38eff46a20712826cee76f1ff"
+    },
+    {
+      "name": "bakersfieldcali-2022-07-28T16:08:01.627139-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659049691",
+      "size": "36723",
+      "md5": "f6fa837e67c9d0f60ba036f0ce41341f",
+      "crc32": "2f1038d9",
+      "sha1": "8b6dfa9105d0e8233a0a7fc5361db6ad5c2132e4",
+      "format": "JSON"
+    },
+    {
+      "name": "bakersfieldcali-2022-07-28T16:08:01.627139-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659049692",
+      "size": "69175",
+      "md5": "9768759154a283b3d86941fda3431ef9",
+      "crc32": "de1cd5a2",
+      "sha1": "590e4be38e3cb9b39f977844081080fddb480635",
+      "format": "JSON"
+    },
+    {
+      "name": "bakersfieldcali-2022-07-28T16:08:01.627139-07:00.jpg",
+      "source": "original",
+      "mtime": "1659049682",
+      "size": "261548",
+      "md5": "7001c51beb188535d7243940d096cbdb",
+      "crc32": "fc1c7509",
+      "sha1": "bb9bf482efce9e55a4993ac4e41846a83b24af73",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bakersfieldcali-2022-07-28T16:08:01.627139-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659049694",
+      "size": "1503",
+      "md5": "48e1677a6c882b356f5f34933659778e",
+      "crc32": "a5b96e11",
+      "sha1": "c28a044ff8761440d6e9f6a8d398375867ace22f",
+      "format": "JSON"
+    },
+    {
       "name": "bakersfieldcali-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ebe88ed14fdd100250682b582f995282c4d92d05",
-      "mtime": "1659006405",
-      "size": "38074",
-      "md5": "99016f5132fd40471dbde8e8b6292a9b",
-      "crc32": "5bf2b32a",
-      "sha1": "a1802120804089102aec7a7eb24b1d037777d7fa",
+      "btih": "8ec0e1492926def61da979ea0355e1682d7afa5d",
+      "mtime": "1659049735",
+      "size": "39168",
+      "md5": "a66df0a6c20567637bfd738e706da700",
+      "crc32": "6b722c8e",
+      "sha1": "6b9511a2c3259606d706afbc53481a17fa9db506",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bakersfieldcali-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "490d9b2908b381f81b1e64abcf7388fa",
+      "md5": "bdd3d9f67e79bb71deb6d1f03d4dd197",
       "summation": "md5"
     },
     {
       "name": "bakersfieldcali-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659006368",
-      "size": "221184",
-      "md5": "e41ac6c662395f27352d803dc48016b8",
-      "crc32": "929d2afb",
-      "sha1": "98f4cab40a2b6b4335bc34fd58819082d3f782cb",
+      "mtime": "1659049699",
+      "size": "225280",
+      "md5": "0ff87b0e9e27b914bda4a14f62e8362f",
+      "crc32": "f32450bf",
+      "sha1": "a53564548e3ea26493d86657a0e46ea2267b2720",
       "format": "Metadata"
     },
     {
@@ -1803,9 +1855,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 172,
-  "item_last_updated": 1659006405,
-  "item_size": 15596570,
+  "files_count": 177,
+  "item_last_updated": 1659049735,
+  "item_size": 15979681,
   "metadata": {
     "identifier": "bakersfieldcali-2022",
     "collection": [
@@ -1827,7 +1879,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346126095,
+      "task_id": 3346590247,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1835,7 +1887,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 947727775,
+  "uniq": 363546622,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

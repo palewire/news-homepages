@@ -1,5 +1,5 @@
 {
-  "created": 1658986090,
+  "created": 1659047185,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/22/items/jdemontreal-2022",
@@ -3204,31 +3204,83 @@
       "sha1": "3844cc1d8d9104fa77eb253d21fde9450ea0cc30"
     },
     {
+      "name": "jdemontreal-2022-07-28T11:42:30.841693-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659022957",
+      "size": "26886",
+      "md5": "429902eb634d1e256d7de25aca37d9ea",
+      "crc32": "526d2d9d",
+      "sha1": "f979e07294dfbc7871da471323ab235d7e4870f2",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-07-28T11:42:30.841693-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659022958",
+      "size": "42549",
+      "md5": "9aea80acada2351cfec3590e8427725a",
+      "crc32": "e3045e3f",
+      "sha1": "a837013089e5628d84a9bb8e54ed5d298f8c1455",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-07-28T11:42:30.841693-04:00.jpg",
+      "source": "original",
+      "mtime": "1659022955",
+      "size": "264759",
+      "md5": "d81660fb140e478473e22b3a8847f495",
+      "crc32": "3770034f",
+      "sha1": "e5d7d96d1ae1ea6092d5ac763d83185b3ce161f7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jdemontreal-2022-07-28T11:42:30.841693-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659022960",
+      "size": "1558",
+      "md5": "fea32c5cc291653b1ece3a72af8cc2c8",
+      "crc32": "dba868ba",
+      "sha1": "a508c0657a4db49ce2d1e5a7ce93ea57ae03b77a",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-07-28T11:42:30.841693-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jdemontreal-2022-07-28T11:42:30.841693-04:00.jpg",
+      "mtime": "1659047123",
+      "size": "10502",
+      "md5": "c70ee4b71f04edc3e8da34626c8485e6",
+      "crc32": "e4362c22",
+      "sha1": "d091eee415c1d8ebb91a459ddd3df9329987b662"
+    },
+    {
       "name": "jdemontreal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b0afc42213088fc4eacbe117106340f474ba4859",
-      "mtime": "1658985968",
-      "size": "66604",
-      "md5": "d6f5e9050425f826eb61dc19b3134d68",
-      "crc32": "b2150435",
-      "sha1": "6b9c2c478dc1fb8136aa99d450dd224fcdeebbf9",
+      "btih": "b3a8bdb6ca61896a87c5e27c98ebf0ae393b3929",
+      "mtime": "1659047153",
+      "size": "67659",
+      "md5": "6592cac03d48ca7ecebb98dd763b52b2",
+      "crc32": "a40bb3a7",
+      "sha1": "826561d671c1ae4608b69e9ae2c3fcd124e48ed8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jdemontreal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "30160657b8af1b54a36f12fad4019332",
+      "md5": "267f1ff8c4a4b4ef67aed5936ba59086",
       "summation": "md5"
     },
     {
       "name": "jdemontreal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658975992",
-      "size": "372736",
-      "md5": "bc22d4a6a818aa708dc2214b93fda252",
-      "crc32": "0e6caf27",
-      "sha1": "b7afd9e5150e03222a09a289d8bcb1da96e3083f",
+      "mtime": "1659022964",
+      "size": "376832",
+      "md5": "f98eff091cab3942b12ddfe70ca56e24",
+      "crc32": "eb5a3208",
+      "sha1": "279532273dfa61170f4143cd9cd436cad291ca72",
       "format": "Metadata"
     },
     {
@@ -3242,9 +3294,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 309,
-  "item_last_updated": 1658985968,
-  "item_size": 25406135,
+  "files_count": 314,
+  "item_last_updated": 1659047153,
+  "item_size": 25757540,
   "metadata": {
     "identifier": "jdemontreal-2022",
     "collection": [
@@ -3261,10 +3313,10 @@
     "publicdate": "2022-06-30 22:35:37",
     "addeddate": "2022-06-30 22:35:37"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 721801901,
+  "server": "ia601407.us.archive.org",
+  "uniq": 1123054672,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658985873,
+  "created": 1659047692,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/0/items/kpcwradio-2022",
@@ -1722,31 +1722,83 @@
       "sha1": "394d7c6640977b8f4540ec146f27691498376c3d"
     },
     {
+      "name": "kpcwradio-2022-07-28T09:43:37.794125-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659023024",
+      "size": "19607",
+      "md5": "de0789e65f4a23ee7cc7768cb6f9f7d8",
+      "crc32": "3a64779d",
+      "sha1": "a8614df61cfe812052a803a1efa3d623769a2c49",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-07-28T09:43:37.794125-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659023026",
+      "size": "32330",
+      "md5": "50594127ddc2f802fa31dfa0a03113c3",
+      "crc32": "b6433692",
+      "sha1": "533e28f0bdf776de3e944a5078c813692f87b1ca",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-07-28T09:43:37.794125-06:00.jpg",
+      "source": "original",
+      "mtime": "1659023023",
+      "size": "303238",
+      "md5": "8856d0f010997a5200d213319dcb8b75",
+      "crc32": "569b8b47",
+      "sha1": "0481738029633f3d856bbd0f34f587953d68475a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcwradio-2022-07-28T09:43:37.794125-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659023027",
+      "size": "1441",
+      "md5": "ae76c242d48f58913329379aafdfe201",
+      "crc32": "84db8bc5",
+      "sha1": "1481a4f9d02d1e52ea8151b4ad5090e5bcaf62d6",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-07-28T09:43:37.794125-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcwradio-2022-07-28T09:43:37.794125-06:00.jpg",
+      "mtime": "1659047467",
+      "size": "10631",
+      "md5": "dc22228b4c2158a189a58887c9c163a0",
+      "crc32": "f58dfa12",
+      "sha1": "c537aacf234a59be992b89c03c6f68e5f7bc96e1"
+    },
+    {
       "name": "kpcwradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d69c9d030f19f8a4a7594c6b78993c5ebccc675f",
-      "mtime": "1658985835",
-      "size": "36101",
-      "md5": "dc3aab2d5da5b52ec45fd808012fe963",
-      "crc32": "93be700a",
-      "sha1": "9dc7907e67de258a79bc62c4b34649ef30aa2e25",
+      "btih": "5d5b668646d0d7aa92aef3ae80a72f42bb17e7d1",
+      "mtime": "1659047596",
+      "size": "37166",
+      "md5": "6b14cb540104c24bf2ecced72c389f07",
+      "crc32": "cb57ceb5",
+      "sha1": "6073fab1044f3a5323ec23d71a21c3dac4988882",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpcwradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bc3f8406834dad39d291458096881de3",
+      "md5": "9f3e723100a4ab9b3ee5583015b22ba6",
       "summation": "md5"
     },
     {
       "name": "kpcwradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658976016",
-      "size": "212992",
-      "md5": "4250013d8aef3a37bcd6f0e642db4ea0",
-      "crc32": "e857a4af",
-      "sha1": "fd2a12e7c0dfef6052e151b5cc8a472e97cd3560",
+      "mtime": "1659023032",
+      "size": "217088",
+      "md5": "91ec790688661863ccf5df430de4bc0d",
+      "crc32": "39a23230",
+      "sha1": "a4195d17928fc53bf3484c4aac3e55eec05a4b1b",
       "format": "Metadata"
     },
     {
@@ -1760,9 +1812,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 168,
-  "item_last_updated": 1658985835,
-  "item_size": 12472561,
+  "files_count": 173,
+  "item_last_updated": 1659047596,
+  "item_size": 12844969,
   "metadata": {
     "identifier": "kpcwradio-2022",
     "collection": [
@@ -1780,7 +1832,7 @@
     "addeddate": "2022-07-09 04:00:05"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 1284610304,
+  "uniq": 1835880151,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

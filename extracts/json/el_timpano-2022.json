@@ -1,49 +1,8 @@
 {
-  "created": 1659010352,
+  "created": 1659046846,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/8/items/el_timpano-2022",
-  "el_timpano-2022": [
-    {
-      "url": "https://www.eltimpano.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eltimpano_org-_-2022_07_28_02_13_45.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eltimpano_org-_-2022_07_28_02_13_45.report.json",
-      "summary": {
-        "performance": 0.31,
-        "accessibility": 0.89,
-        "best-practices": 1,
-        "seo": 0.91,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.eltimpano.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eltimpano_org-_-2022_07_28_02_14_00.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eltimpano_org-_-2022_07_28_02_14_00.report.json",
-      "summary": {
-        "performance": 0.28,
-        "accessibility": 0.89,
-        "best-practices": 1,
-        "seo": 0.91,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.eltimpano.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eltimpano_org-_-2022_07_28_02_13_29.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eltimpano_org-_-2022_07_28_02_13_29.report.json",
-      "summary": {
-        "performance": 0.32,
-        "accessibility": 0.89,
-        "best-practices": 1,
-        "seo": 0.91,
-        "pwa": 0.3
-      }
-    }
-  ],
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -2163,31 +2122,83 @@
       "sha1": "5fb3ff780787efd7953f8c569c257c8c5ccbe6b4"
     },
     {
+      "name": "el_timpano-2022-07-28T08:37:59.735075-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659022683",
+      "size": "10786",
+      "md5": "bc342beafd4c311b9f4d5231e329475b",
+      "crc32": "c22e932b",
+      "sha1": "6b4853be6124f9d677df7fbc886370724fbb296c",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-07-28T08:37:59.735075-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659022685",
+      "size": "9135",
+      "md5": "298c250b32b2c5418862b409f23de45b",
+      "crc32": "845304a7",
+      "sha1": "7dd10da6c4b36cb9ee68027ff0f808931c73d41c",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-07-28T08:37:59.735075-07:00.jpg",
+      "source": "original",
+      "mtime": "1659022681",
+      "size": "222827",
+      "md5": "02046e7fe85ad3c8e40cee9703ce0bf2",
+      "crc32": "3e258561",
+      "sha1": "5290544999f13b3384aef6f4ca7e405ad0258445",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_timpano-2022-07-28T08:37:59.735075-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659022686",
+      "size": "1477",
+      "md5": "7a9d52a3824819200ad7f83894b9a16a",
+      "crc32": "8bde77a7",
+      "sha1": "506f602a4542b87268464c9b46d801aa570db99a",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-07-28T08:37:59.735075-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_timpano-2022-07-28T08:37:59.735075-07:00.jpg",
+      "mtime": "1659046822",
+      "size": "8425",
+      "md5": "2aaaab6878db4aeb836e5b1ebde93398",
+      "crc32": "c1f7047d",
+      "sha1": "e8fd861fc5499dd1147f51534fef2cffdfc4b317"
+    },
+    {
       "name": "el_timpano-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59171b529e9504de1e6d04814201ca9f73f5c2bd",
-      "mtime": "1658985199",
-      "size": "44139",
-      "md5": "4a3d6d0be949efac2c8d93b3c77a5ee5",
-      "crc32": "d340267f",
-      "sha1": "4da9589d028fe950fc1febf763a8c0220d556724",
+      "btih": "b0d5bd812df5f8733388f1a0b20c933bcb5d1579",
+      "mtime": "1659046832",
+      "size": "45187",
+      "md5": "f944f0dbecc0bc8ba346f4118200e7ae",
+      "crc32": "b92e5dd3",
+      "sha1": "e1902fd68dde897f92951e167ea59620d2cc062e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_timpano-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "239c8b96c9f1f2e33d9ab7121d7c8503",
+      "md5": "802015451c5c42b396bcc647a750f947",
       "summation": "md5"
     },
     {
       "name": "el_timpano-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658975728",
-      "size": "253952",
-      "md5": "2ce70f0dfbb1520152d42d079a5add87",
-      "crc32": "1a42f602",
-      "sha1": "7f14cac9ddd89a3952639832c318aab72b37fc7b",
+      "mtime": "1659022691",
+      "size": "266240",
+      "md5": "004d3bdd3979333a6f42916fc8c79e48",
+      "crc32": "fa895701",
+      "sha1": "cbca7a5dad4816151b48bdf595af204711e4b447",
       "format": "Metadata"
     },
     {
@@ -2201,9 +2212,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 206,
-  "item_last_updated": 1658985199,
-  "item_size": 12355959,
+  "files_count": 211,
+  "item_last_updated": 1659046832,
+  "item_size": 12621945,
   "metadata": {
     "identifier": "el_timpano-2022",
     "collection": [
@@ -2220,10 +2231,10 @@
     "publicdate": "2022-07-09 03:58:15",
     "addeddate": "2022-07-09 03:58:15"
   },
-  "server": "ia902509.us.archive.org",
-  "uniq": 1332442472,
+  "server": "ia802509.us.archive.org",
+  "uniq": 225009772,
   "workable_servers": [
-    "ia902509.us.archive.org",
-    "ia802509.us.archive.org"
+    "ia802509.us.archive.org",
+    "ia902509.us.archive.org"
   ]
 }

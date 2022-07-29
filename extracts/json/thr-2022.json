@@ -1,5 +1,5 @@
 {
-  "created": 1659011212,
+  "created": 1659054774,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/0/items/thr-2022",
@@ -1000,31 +1000,83 @@
       "sha1": "f1748d8c0d8aef444a4c0b07578840d4bb9b6dc6"
     },
     {
+      "name": "thr-2022-07-28T06:27:08.041929-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659014831",
+      "size": "40843",
+      "md5": "7fb11f305023461ceeb1262d6a36671f",
+      "crc32": "68cbeafa",
+      "sha1": "626eb0e7bd15dfdf92ca2e6efa458ea5d3733152",
+      "format": "JSON"
+    },
+    {
+      "name": "thr-2022-07-28T06:27:08.041929-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659014833",
+      "size": "64459",
+      "md5": "399d163edac689e7a0db0955487d4a26",
+      "crc32": "0cd17653",
+      "sha1": "e3d5c2e857a4ca09764fd5a8091a5fc331429b90",
+      "format": "JSON"
+    },
+    {
+      "name": "thr-2022-07-28T06:27:08.041929-07:00.jpg",
+      "source": "original",
+      "mtime": "1659014830",
+      "size": "375557",
+      "md5": "4d9aae33340c989c2a0871f0fcbe49d7",
+      "crc32": "8a95fe3b",
+      "sha1": "5ef6a5b10ea288cfb322e9398bb4a6b88917e6d3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thr-2022-07-28T06:27:08.041929-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659014834",
+      "size": "1558",
+      "md5": "da18355c03b9094eca1b1bfd6b6ec20d",
+      "crc32": "96fab3c4",
+      "sha1": "85e83a6f759a567b549245b2993745fe36cc98d7",
+      "format": "JSON"
+    },
+    {
+      "name": "thr-2022-07-28T06:27:08.041929-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thr-2022-07-28T06:27:08.041929-07:00.jpg",
+      "mtime": "1659036830",
+      "size": "10356",
+      "md5": "3cf468b4e558477260e9bde2daa8b091",
+      "crc32": "68feffa1",
+      "sha1": "3b4f540b3cedbda256591c00f99f60ab1278cee1"
+    },
+    {
       "name": "thr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e9c8ff206f53d020a40969bb434c1b46b66e9ab7",
-      "mtime": "1658981931",
-      "size": "20987",
-      "md5": "caa3f607f3828e820347341bf30544f7",
-      "crc32": "390f80bc",
-      "sha1": "ae9e89525ca9a90e4a642db41806a4b943aaa698",
+      "btih": "1e20591f520d94703b79313f89d847fa6b330599",
+      "mtime": "1659036978",
+      "size": "22022",
+      "md5": "fa54ded4e19b42452dd14b1a5f2972d0",
+      "crc32": "cebf9e26",
+      "sha1": "d214223a00c6a73bc2e01ef81d131dfd42211843",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1bee5b325838b6fc92627414db55c53f",
+      "md5": "42ca19d97e6ddb1f8fc1ef7ec5881eb1",
       "summation": "md5"
     },
     {
       "name": "thr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658971936",
-      "size": "126976",
-      "md5": "dacb6706224a6ed0d2956f75537354d7",
-      "crc32": "bb4313c7",
-      "sha1": "047d965aa5a90d24ce5a194bf8c95f391005e198",
+      "mtime": "1659014844",
+      "size": "143360",
+      "md5": "a0d6df04cf43d12f8dd41918a9b42a66",
+      "crc32": "337b2f44",
+      "sha1": "a1c77ad856058adc84653978f558fd4239e6bc38",
       "format": "Metadata"
     },
     {
@@ -1038,9 +1090,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 99,
-  "item_last_updated": 1658981931,
-  "item_size": 10156476,
+  "files_count": 104,
+  "item_last_updated": 1659036978,
+  "item_size": 10666668,
   "metadata": {
     "identifier": "thr-2022",
     "collection": [
@@ -1057,16 +1109,16 @@
     "publicdate": "2022-07-18 04:18:56",
     "addeddate": "2022-07-18 04:18:56"
   },
-  "server": "ia801408.us.archive.org",
+  "server": "ia601408.us.archive.org",
   "thr-2022": [
     {
       "url": "https://www.hollywoodreporter.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hollywoodreporter_com-_-2022_07_28_01_14_42.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hollywoodreporter_com-_-2022_07_28_01_14_42.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hollywoodreporter_com-_-2022_07_28_12_55_47.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hollywoodreporter_com-_-2022_07_28_12_55_47.report.json",
       "summary": {
-        "performance": 0.17,
-        "accessibility": 0.89,
+        "performance": 0.16,
+        "accessibility": 0.87,
         "best-practices": 0.83,
         "seo": 0.83,
         "pwa": 0.7
@@ -1075,11 +1127,11 @@
     {
       "url": "https://www.hollywoodreporter.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hollywoodreporter_com-_-2022_07_28_01_15_16.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hollywoodreporter_com-_-2022_07_28_01_15_16.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hollywoodreporter_com-_-2022_07_28_12_56_40.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hollywoodreporter_com-_-2022_07_28_12_56_40.report.json",
       "summary": {
-        "performance": 0.19,
-        "accessibility": 0.89,
+        "performance": 0.12,
+        "accessibility": 0.85,
         "best-practices": 0.83,
         "seo": 0.83,
         "pwa": 0.7
@@ -1088,20 +1140,20 @@
     {
       "url": "https://www.hollywoodreporter.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hollywoodreporter_com-_-2022_07_28_01_14_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hollywoodreporter_com-_-2022_07_28_01_14_09.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hollywoodreporter_com-_-2022_07_28_12_57_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hollywoodreporter_com-_-2022_07_28_12_57_39.report.json",
       "summary": {
-        "performance": 0.19,
-        "accessibility": 0.89,
+        "performance": 0.12,
+        "accessibility": 0.87,
         "best-practices": 0.83,
         "seo": 0.83,
         "pwa": 0.7
       }
     }
   ],
-  "uniq": 485459470,
+  "uniq": 501095597,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

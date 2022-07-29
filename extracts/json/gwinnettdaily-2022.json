@@ -1,5 +1,5 @@
 {
-  "created": 1659006796,
+  "created": 1659050137,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/gwinnettdaily-2022",
@@ -779,31 +779,83 @@
       "format": "JSON"
     },
     {
+      "name": "gwinnettdaily-2022-07-28T07:12:23.734406-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gwinnettdaily-2022-07-28T07:12:23.734406-04:00.jpg",
+      "mtime": "1659032406",
+      "size": "11046",
+      "md5": "cf35651957d393572113ddf233ed2cce",
+      "crc32": "e8346071",
+      "sha1": "e1127861981f1677171e0eb0e0cddc6937e40375"
+    },
+    {
+      "name": "gwinnettdaily-2022-07-28T19:14:46.368968-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659050092",
+      "size": "76431",
+      "md5": "ecdcc36ca2631fac402cf165e50d396d",
+      "crc32": "01636667",
+      "sha1": "be850daff6da7017964e016ecc4cbe963a6b9659",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-07-28T19:14:46.368968-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659050093",
+      "size": "152561",
+      "md5": "eabe5bec58323727e7c4034664d318d4",
+      "crc32": "be0c11fe",
+      "sha1": "bc656f6e6fe79e3959b7a99aafb2a5db43a6be1f",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-07-28T19:14:46.368968-04:00.jpg",
+      "source": "original",
+      "mtime": "1659050087",
+      "size": "276094",
+      "md5": "cba81fc80b10e546af790e4ee332d992",
+      "crc32": "d3ec736d",
+      "sha1": "7ca2453e23b3cff8ee2afae500998cad0eba589d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gwinnettdaily-2022-07-28T19:14:46.368968-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659050095",
+      "size": "1549",
+      "md5": "073f27edc96d16ed3c5da4da7f131fc2",
+      "crc32": "f1bcbc29",
+      "sha1": "facab575fc97adcdabd252f71e5a49bffeb0e28b",
+      "format": "JSON"
+    },
+    {
       "name": "gwinnettdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ce14d86a4d6b8c658e7ac33bab166c1b57a9ef2e",
-      "mtime": "1659006793",
-      "size": "17532",
-      "md5": "4328ed0dcd33420cad5e246d426cf79b",
-      "crc32": "015ca5db",
-      "sha1": "fd295bda911dd1c0282dd173f405af2c99b43825",
+      "btih": "dacf8cfbf88d8b88f43c2290d786e70bc3ac6576",
+      "mtime": "1659050133",
+      "size": "18618",
+      "md5": "973aa4f65f34a008d68a83f98981c46d",
+      "crc32": "1946d984",
+      "sha1": "990e6d13e8f75d3763cd6f2d5b436b0b6a13a625",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gwinnettdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "100e34966e915be58fe1d2f744f34b3a",
+      "md5": "4a494a88df17286a3c9985d2df72ca61",
       "summation": "md5"
     },
     {
       "name": "gwinnettdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659006755",
-      "size": "106496",
-      "md5": "e6c5cee064fa7e325a4ffeb5342c840a",
-      "crc32": "14aacb07",
-      "sha1": "1804a00660e10f7f5453430c66d9b9cbcd429477",
+      "mtime": "1659050098",
+      "size": "122880",
+      "md5": "b18e48971e8bc1ed4031bb25de6a3f50",
+      "crc32": "32f49fe6",
+      "sha1": "88b68963b71cfabd9a569f443cab8c902a031660",
       "format": "Metadata"
     },
     {
@@ -817,9 +869,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 78,
-  "item_last_updated": 1659006793,
-  "item_size": 8421097,
+  "files_count": 83,
+  "item_last_updated": 1659050133,
+  "item_size": 8956248,
   "metadata": {
     "identifier": "gwinnettdaily-2022",
     "collection": [
@@ -841,7 +893,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346129844,
+      "task_id": 3346596248,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -849,7 +901,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2029755403,
+  "uniq": 1385557502,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

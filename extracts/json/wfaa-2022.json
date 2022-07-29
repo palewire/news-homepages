@@ -1,5 +1,5 @@
 {
-  "created": 1659011296,
+  "created": 1659054850,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/wfaa-2022",
@@ -1030,31 +1030,83 @@
       "sha1": "444a3e3f7394d0084c99bf4b078924706a8b0559"
     },
     {
+      "name": "wfaa-2022-07-28T10:57:21.529342-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659023846",
+      "size": "6600",
+      "md5": "9905de2ee2c6e3ce35d394136758f9f7",
+      "crc32": "4444bdb5",
+      "sha1": "a79d0afc596b6f8f1bcdfa8f763174da769c9684",
+      "format": "JSON"
+    },
+    {
+      "name": "wfaa-2022-07-28T10:57:21.529342-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659023848",
+      "size": "74689",
+      "md5": "d3078903d6d71a8dab506e07273f7c95",
+      "crc32": "a45aa17f",
+      "sha1": "95b28d734ba1a268021b13d61a224529a696f990",
+      "format": "JSON"
+    },
+    {
+      "name": "wfaa-2022-07-28T10:57:21.529342-05:00.jpg",
+      "source": "original",
+      "mtime": "1659023845",
+      "size": "256484",
+      "md5": "58ea8369cb9aaf2b4392811bb1fa62b7",
+      "crc32": "b9c205cb",
+      "sha1": "8fd755a58e50e3825645b09d0272145285b5eea0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wfaa-2022-07-28T10:57:21.529342-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659023850",
+      "size": "1440",
+      "md5": "f0680897ad8d9fe66ae5a00578a40413",
+      "crc32": "4a97f5b7",
+      "sha1": "da05943c8bd09aab444af2e169118bfb5f291079",
+      "format": "JSON"
+    },
+    {
+      "name": "wfaa-2022-07-28T10:57:21.529342-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wfaa-2022-07-28T10:57:21.529342-05:00.jpg",
+      "mtime": "1659048622",
+      "size": "9430",
+      "md5": "2492c99c3e72c842f31c025cb26773ff",
+      "crc32": "66a6a08d",
+      "sha1": "0fa6a168979aa67bc81c80f36ec860425e6b256b"
+    },
+    {
       "name": "wfaa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3acfd8945c12b53249680b52047afa94f099af59",
-      "mtime": "1658990924",
-      "size": "21588",
-      "md5": "9e12cc85176328bf644f6768427aa2d0",
-      "crc32": "da978a65",
-      "sha1": "fc54fe8a19c1a06365cbcac932549e2e7752c89c",
+      "btih": "2d6116e4cdb086118038c84f661e1d3512b04a71",
+      "mtime": "1659048626",
+      "size": "22626",
+      "md5": "9d04cbd60c5ff912bceda85482bad510",
+      "crc32": "582a6767",
+      "sha1": "1bd927d47371a6904da90af903c84022ff979a0d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wfaa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c6073c3681a12404d0ace1d2ed6427a2",
+      "md5": "038f9cb8de4967cb70aa25703be620b7",
       "summation": "md5"
     },
     {
       "name": "wfaa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658980216",
-      "size": "139264",
-      "md5": "95a675365e09902e22277b220e18d045",
-      "crc32": "a038fa4b",
-      "sha1": "ad98b213f0153a5fbd0212a9502a2ec1b8ac8dcb",
+      "mtime": "1659023858",
+      "size": "147456",
+      "md5": "11cb5956d344e3638daa91d09435f0d4",
+      "crc32": "530b182c",
+      "sha1": "b5f73235d0a2b40e60d62d23158cef6ded264081",
       "format": "Metadata"
     },
     {
@@ -1068,9 +1120,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 102,
-  "item_last_updated": 1658990924,
-  "item_size": 7824474,
+  "files_count": 107,
+  "item_last_updated": 1659048626,
+  "item_size": 8182347,
   "metadata": {
     "identifier": "wfaa-2022",
     "collection": [
@@ -1088,16 +1140,16 @@
     "addeddate": "2022-07-18 00:06:04"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 421931241,
+  "uniq": 1061159961,
   "wfaa-2022": [
     {
       "url": "https://www.wfaa.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wfaa_com-_-2022_07_28_03_13_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wfaa_com-_-2022_07_28_03_13_19.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wfaa_com-_-2022_07_28_15_19_30.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wfaa_com-_-2022_07_28_15_19_30.report.json",
       "summary": {
-        "performance": 0.29,
-        "accessibility": 0.83,
+        "performance": 0.15,
+        "accessibility": 0.81,
         "best-practices": 0.83,
         "seo": 0.78,
         "pwa": 0.5
@@ -1106,11 +1158,11 @@
     {
       "url": "https://www.wfaa.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wfaa_com-_-2022_07_28_03_14_32.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wfaa_com-_-2022_07_28_03_14_32.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wfaa_com-_-2022_07_28_15_20_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wfaa_com-_-2022_07_28_15_20_49.report.json",
       "summary": {
-        "performance": 0.36,
-        "accessibility": 0.83,
+        "performance": 0.1,
+        "accessibility": 0.81,
         "best-practices": 0.83,
         "seo": 0.78,
         "pwa": 0.5
@@ -1119,12 +1171,12 @@
     {
       "url": "https://www.wfaa.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wfaa_com-_-2022_07_28_03_13_57.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wfaa_com-_-2022_07_28_03_13_57.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wfaa_com-_-2022_07_28_15_20_03.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wfaa_com-_-2022_07_28_15_20_03.report.json",
       "summary": {
-        "performance": 0.29,
-        "accessibility": 0.83,
-        "best-practices": 0.67,
+        "performance": 0.22,
+        "accessibility": 0.81,
+        "best-practices": 0.83,
         "seo": 0.78,
         "pwa": 0.5
       }

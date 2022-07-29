@@ -1,5 +1,5 @@
 {
-  "created": 1659006325,
+  "created": 1659049633,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/27/items/albany_herald-2022",
@@ -737,31 +737,83 @@
       "format": "JSON"
     },
     {
+      "name": "albany_herald-2022-07-28T07:04:34.975344-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "albany_herald-2022-07-28T07:04:34.975344-04:00.jpg",
+      "mtime": "1659031852",
+      "size": "11310",
+      "md5": "266f0962e56de6928461315e6820a88c",
+      "crc32": "2c3d5e12",
+      "sha1": "486d223c75a1668c6184d56dde2ec7de056fde70"
+    },
+    {
+      "name": "albany_herald-2022-07-28T19:05:53.719725-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659049557",
+      "size": "62967",
+      "md5": "b96b5b558104a7287b8431a1146b4ab7",
+      "crc32": "bc214d56",
+      "sha1": "cc31d110bda780d69dcc53f97acf3188c8673c80",
+      "format": "JSON"
+    },
+    {
+      "name": "albany_herald-2022-07-28T19:05:53.719725-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659049558",
+      "size": "137522",
+      "md5": "a19df541a1fca6c61144e7f35990888b",
+      "crc32": "a5364346",
+      "sha1": "42a80e58dbeb727c007202d70ccc6ad28b40a10a",
+      "format": "JSON"
+    },
+    {
+      "name": "albany_herald-2022-07-28T19:05:53.719725-04:00.jpg",
+      "source": "original",
+      "mtime": "1659049555",
+      "size": "289759",
+      "md5": "4942199caceda2ee147f0253837c4016",
+      "crc32": "05c49407",
+      "sha1": "1e02e47533eabe454db434fc2914fc9df00eae44",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "albany_herald-2022-07-28T19:05:53.719725-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659049560",
+      "size": "1510",
+      "md5": "19e2f627a898a14c0bdd27e909b99097",
+      "crc32": "58a33f0d",
+      "sha1": "3a3383f4f5505e5a2142de08aa843517c84635c0",
+      "format": "JSON"
+    },
+    {
       "name": "albany_herald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b8d9c89d012efca2201a0ebe721f8938b4cd3161",
-      "mtime": "1659006322",
-      "size": "16643",
-      "md5": "84aa3690b498a05f9a5ab237d4a1eb69",
-      "crc32": "fbeeeaf4",
-      "sha1": "4d52866ad0d477db3468c74a7ba9f2a8dec941fb",
+      "btih": "0c2cd05125c1e2c819efe76ca766ff03986bcd93",
+      "mtime": "1659049630",
+      "size": "17729",
+      "md5": "b4468a92c1edeaf196868226a890d98b",
+      "crc32": "6946e4a6",
+      "sha1": "3f90548da29cf4854a688fa57356ec5528de47ce",
       "format": "Archive BitTorrent"
     },
     {
       "name": "albany_herald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "130c61ca8d2d6a2f9f8bb4e81cbbf48b",
+      "md5": "0135f5520e004e135172370582918a42",
       "summation": "md5"
     },
     {
       "name": "albany_herald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659006286",
-      "size": "102400",
-      "md5": "12394f637abee586f6e8e17b242558ec",
-      "crc32": "27291834",
-      "sha1": "7fe79d4c00229b397c034ab1b29a9f3e6aae304d",
+      "mtime": "1659049596",
+      "size": "110592",
+      "md5": "95eedd9c3b6445e1b5be1477d4efe974",
+      "crc32": "dc3540ac",
+      "sha1": "9b2ac1a736d9673e94d062971cb9340e7aea3eb9",
       "format": "Metadata"
     },
     {
@@ -775,9 +827,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 74,
-  "item_last_updated": 1659006322,
-  "item_size": 7656138,
+  "files_count": 79,
+  "item_last_updated": 1659049630,
+  "item_size": 8168484,
   "metadata": {
     "identifier": "albany_herald-2022",
     "collection": [
@@ -799,7 +851,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346125036,
+      "task_id": 3346588755,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -807,7 +859,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1698562377,
+  "uniq": 851718554,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

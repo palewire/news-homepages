@@ -1,5 +1,5 @@
 {
-  "created": 1659006777,
+  "created": 1659050155,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/20/items/gothamist-2022",
@@ -2331,31 +2331,83 @@
       "format": "JSON"
     },
     {
+      "name": "gothamist-2022-07-28T07:12:08.720348-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gothamist-2022-07-28T07:12:08.720348-04:00.jpg",
+      "mtime": "1659032335",
+      "size": "8347",
+      "md5": "2714e592a3fa95ac2416f6d13d2d4b7a",
+      "crc32": "cd707947",
+      "sha1": "7b77815e18f56f18c862a5e33e34bd1d91fc30c8"
+    },
+    {
+      "name": "gothamist-2022-07-28T19:15:06.398468-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659050109",
+      "size": "26704",
+      "md5": "a9bf6eb3a4cc4f33d0d19aed9d00fef0",
+      "crc32": "f2968239",
+      "sha1": "cb6d690dce907acab7ae63f8cf343a809aeed650",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamist-2022-07-28T19:15:06.398468-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659050111",
+      "size": "18850",
+      "md5": "7925fba40cd52fc35201e5a8d5af3de7",
+      "crc32": "701ae9cf",
+      "sha1": "ac924d1f081cc183a50c66fe65f871c7a1cf5256",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamist-2022-07-28T19:15:06.398468-04:00.jpg",
+      "source": "original",
+      "mtime": "1659050108",
+      "size": "204815",
+      "md5": "afea51c4a9f3e7ba6b618e2f57988ff5",
+      "crc32": "6c59a09d",
+      "sha1": "e0b3ed5809b4f963bc01303f5b1f8b7d2d24d3b0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gothamist-2022-07-28T19:15:06.398468-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659050113",
+      "size": "1450",
+      "md5": "899deba2ba131fb49afd8565f5af63e1",
+      "crc32": "4ea853ea",
+      "sha1": "f67092ac42cb4f71dbc2ac2051a754683701b270",
+      "format": "JSON"
+    },
+    {
       "name": "gothamist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2ff5bf89afb6bfdc4291d8186a517d338b623157",
-      "mtime": "1659006775",
-      "size": "48231",
-      "md5": "dc943223db428d4961f8b65b5a73d42d",
-      "crc32": "88985be6",
-      "sha1": "026a18bbb5d63c30576043de309135efcbd2c979",
+      "btih": "8334dc2fbf74c98e5ad41a19a0627aa32cac3385",
+      "mtime": "1659050153",
+      "size": "49275",
+      "md5": "09cb0144f81def99e25e6e7181ce92d5",
+      "crc32": "9c3c2c3a",
+      "sha1": "e79c77a0df4bdae4cacdadbc60b695a4ca6eba7b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gothamist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "56beb149f7a8d1029b17b8694ef30b0a",
+      "md5": "049b53851b42c5e13ae3a4c278b8d3cc",
       "summation": "md5"
     },
     {
       "name": "gothamist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659006739",
-      "size": "282624",
-      "md5": "7fb490c3348ae387f919c1435c932f98",
-      "crc32": "5541b7bd",
-      "sha1": "3f38263123f3a93a9e5c6ea4c34fba4de2604226",
+      "mtime": "1659050117",
+      "size": "286720",
+      "md5": "6e5ebae229e846b5fa1175c13f1dded6",
+      "crc32": "e3b0301a",
+      "sha1": "9f68b252713d996ad45bc5df3686b995d5d70dea",
       "format": "Metadata"
     },
     {
@@ -2369,9 +2421,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 226,
-  "item_last_updated": 1659006775,
-  "item_size": 14368684,
+  "files_count": 231,
+  "item_last_updated": 1659050153,
+  "item_size": 14633990,
   "metadata": {
     "identifier": "gothamist-2022",
     "collection": [
@@ -2393,7 +2445,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346129664,
+      "task_id": 3346596525,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2401,7 +2453,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1425120002,
+  "uniq": 720756759,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]

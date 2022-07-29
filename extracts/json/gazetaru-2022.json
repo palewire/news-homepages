@@ -1,5 +1,5 @@
 {
-  "created": 1659003857,
+  "created": 1659047146,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/15/items/gazetaru-2022",
@@ -1668,31 +1668,83 @@
       "sha1": "555fe2d44321b14ad9ea197753f5e830425ef8d4"
     },
     {
+      "name": "gazetaru-2022-07-28T18:40:03.470897+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659022806",
+      "size": "68276",
+      "md5": "7ff65dd2634e741954f69b96e656d5e4",
+      "crc32": "4c879d12",
+      "sha1": "fa47d35883199f79cdd91021ebb62f725bf8759a",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-07-28T18:40:03.470897+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659022807",
+      "size": "60835",
+      "md5": "0abdd8562a78e3ae8ce42a9d045e3d97",
+      "crc32": "961c91da",
+      "sha1": "e6cf338097d6c8e1750c393b8e10778e7a9d43d5",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-07-28T18:40:03.470897+03:00.jpg",
+      "source": "original",
+      "mtime": "1659022804",
+      "size": "262723",
+      "md5": "264d58b96e06973ee964035f0b1fb9b0",
+      "crc32": "b22907a3",
+      "sha1": "f9aeb63c32cbb1c1842a8c6fe565b6ea2066e267",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gazetaru-2022-07-28T18:40:03.470897+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659022808",
+      "size": "1423",
+      "md5": "85a0acdc15ad1eedbfba64cedd59770c",
+      "crc32": "009271b8",
+      "sha1": "892b40506891ff3786e2ff1ce494a12c53919243",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-07-28T18:40:03.470897+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gazetaru-2022-07-28T18:40:03.470897+03:00.jpg",
+      "mtime": "1659047108",
+      "size": "8963",
+      "md5": "39c00ffc7ef9a7a4d79076a3bc33cad2",
+      "crc32": "4a73b340",
+      "sha1": "f407ec8761a26033435730db7a17538beff3181f"
+    },
+    {
       "name": "gazetaru-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dc462b9d286d8a6cc5971c0e26c6010a396a350c",
-      "mtime": "1659003785",
-      "size": "34956",
-      "md5": "a139d8cbe70153c5bd641840dd716391",
-      "crc32": "becc563e",
-      "sha1": "18560791b404bb2fe24033495397599a69be1949",
+      "btih": "82b39b7b682e06c5d2f8b2c414adc343c0e4175e",
+      "mtime": "1659047111",
+      "size": "36015",
+      "md5": "83230a33354a6b1ebfcb8b07d301859d",
+      "crc32": "b102df40",
+      "sha1": "ba6d389a3b1fcc8cf4130a0ce3635c65f40aa32a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gazetaru-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f78df3999ec16c3fab5c9261cc6a3198",
+      "md5": "688fe06bdaccdbed406daecb1524d4a7",
       "summation": "md5"
     },
     {
       "name": "gazetaru-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658985785",
-      "size": "208896",
-      "md5": "ed08a49a48c9e26873c0e6fddce0bc77",
-      "crc32": "94730634",
-      "sha1": "e030c296e142cbd769f0d452015c781a6fae9279",
+      "mtime": "1659022813",
+      "size": "212992",
+      "md5": "0391d15992f8b2e36e03cdd26f25fc82",
+      "crc32": "c56ec263",
+      "sha1": "64cae5b7dc9e9ff8182280e74797ee5a3d112209",
       "format": "Metadata"
     },
     {
@@ -1706,9 +1758,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 163,
-  "item_last_updated": 1659003785,
-  "item_size": 14659885,
+  "files_count": 168,
+  "item_last_updated": 1659047111,
+  "item_size": 15067260,
   "metadata": {
     "identifier": "gazetaru-2022",
     "collection": [
@@ -1725,10 +1777,10 @@
     "publicdate": "2022-07-16 20:49:01",
     "addeddate": "2022-07-16 20:49:01"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 307939044,
+  "server": "ia601400.us.archive.org",
+  "uniq": 286707827,
   "workable_servers": [
-    "ia801400.us.archive.org",
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

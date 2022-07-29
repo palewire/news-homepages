@@ -1,5 +1,5 @@
 {
-  "created": 1659006498,
+  "created": 1659049828,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/12/items/capitolnewsil-2022",
@@ -1785,31 +1785,83 @@
       "format": "JSON"
     },
     {
+      "name": "capitolnewsil-2022-07-28T06:07:20.436831-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capitolnewsil-2022-07-28T06:07:20.436831-05:00.jpg",
+      "mtime": "1659032011",
+      "size": "10048",
+      "md5": "67a548ff4072f693230657174779f0aa",
+      "crc32": "cf1456e5",
+      "sha1": "b3a66267db32bc65ebdc2862340c2b63b39c1e77"
+    },
+    {
+      "name": "capitolnewsil-2022-07-28T18:09:36.322463-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659049779",
+      "size": "9851",
+      "md5": "5d6dfb8905181af681f80414cb99f9ea",
+      "crc32": "886f375f",
+      "sha1": "bf1d799e4f72e1bc6175ebd001d35dce93f6bd57",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-07-28T18:09:36.322463-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659049780",
+      "size": "7439",
+      "md5": "8cf6dbe91b0935f3157c4e3facdfd4cc",
+      "crc32": "4ff3b235",
+      "sha1": "98340ca3cc526230ecf3909359c4b561702e3e04",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-07-28T18:09:36.322463-05:00.jpg",
+      "source": "original",
+      "mtime": "1659049777",
+      "size": "311684",
+      "md5": "35e7be7d4ac3bfa335617bae0123c203",
+      "crc32": "fb216dd7",
+      "sha1": "9e84d026cd853db0b4e609bd99067230e9078783",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capitolnewsil-2022-07-28T18:09:36.322463-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659049782",
+      "size": "1576",
+      "md5": "f9461c16c86ff38658d69ad464a314c5",
+      "crc32": "faae94ea",
+      "sha1": "a9948481d14b537786e1e65574bc4b9c3bfe5ac8",
+      "format": "JSON"
+    },
+    {
       "name": "capitolnewsil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f7be726a5d95a4b696cfdac374e97b66fa083314",
-      "mtime": "1659006489",
-      "size": "38038",
-      "md5": "621acea3986b235495d99ed299bf3907",
-      "crc32": "c9a3c691",
-      "sha1": "660d2c431ba913be2f3354bb1ae2597f695ee7ce",
+      "btih": "6e8b32c927c7f08ef6216d6970e1df058b3e5137",
+      "mtime": "1659049823",
+      "size": "39121",
+      "md5": "7f7c8a5cdc337d7e2cb6ff6b11f617c8",
+      "crc32": "80e48805",
+      "sha1": "ee80392f71179bad1b6c514c06f83901ebd6a464",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capitolnewsil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b28a490654122aeddbbf11a966dd84aa",
+      "md5": "23a4d8483104ce1a05b9e342c1c2dcc0",
       "summation": "md5"
     },
     {
       "name": "capitolnewsil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659006452",
-      "size": "225280",
-      "md5": "40d342f81fe0d715b2d6cd95cf25fd7c",
-      "crc32": "9519d867",
-      "sha1": "cb580a131992116df6ec26253ac3cf51935f0c9d",
+      "mtime": "1659049788",
+      "size": "229376",
+      "md5": "41fc6f947c905a827cd38316fa144f13",
+      "crc32": "4d571456",
+      "sha1": "0b5980fb6ad8fa419664e23330760177eb7845cc",
       "format": "Metadata"
     },
     {
@@ -1823,9 +1875,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 174,
-  "item_last_updated": 1659006489,
-  "item_size": 13469075,
+  "files_count": 179,
+  "item_last_updated": 1659049823,
+  "item_size": 13814852,
   "metadata": {
     "identifier": "capitolnewsil-2022",
     "collection": [
@@ -1847,7 +1899,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346126954,
+      "task_id": 3346591396,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1855,7 +1907,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 427791714,
+  "uniq": 244356300,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

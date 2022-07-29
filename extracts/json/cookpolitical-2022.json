@@ -1,5 +1,5 @@
 {
-  "created": 1659006625,
+  "created": 1659049911,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/0/items/cookpolitical-2022",
@@ -2205,31 +2205,83 @@
       "format": "JSON"
     },
     {
+      "name": "cookpolitical-2022-07-28T07:09:39.891684-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cookpolitical-2022-07-28T07:09:39.891684-04:00.jpg",
+      "mtime": "1659032172",
+      "size": "11585",
+      "md5": "98197ef530f683a3b96cb3e6bf2983d0",
+      "crc32": "fc3a2cdd",
+      "sha1": "fc383eed1d011715d3c119e049bbd743f7da7bde"
+    },
+    {
+      "name": "cookpolitical-2022-07-28T19:10:58.185583-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659049860",
+      "size": "11326",
+      "md5": "cdfcd188c354307ef89b49b25c990f00",
+      "crc32": "f8a63a48",
+      "sha1": "c44c894e95ca5f591a9f124421021fb26235fc2c",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-07-28T19:10:58.185583-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659049861",
+      "size": "9143",
+      "md5": "5452de4344fa353cada531b8b13488f1",
+      "crc32": "a3b11c97",
+      "sha1": "ca0e1c1c67d84047db09d8859379c318ef6bb54b",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-07-28T19:10:58.185583-04:00.jpg",
+      "source": "original",
+      "mtime": "1659049859",
+      "size": "312053",
+      "md5": "733d1e7a3e91caa73e0f2d2b4981fc76",
+      "crc32": "88c7009c",
+      "sha1": "db62e55c23a44489a9f4388800fe5aaf57af4de6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cookpolitical-2022-07-28T19:10:58.185583-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659049863",
+      "size": "1522",
+      "md5": "2698c3aa941d508c5fa0ef733564b7ba",
+      "crc32": "0fb59450",
+      "sha1": "ff5654459ba3df211e146449574fa0fa0e648fa0",
+      "format": "JSON"
+    },
+    {
       "name": "cookpolitical-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4493600f821f1b87f793481128d9ee6f689fb697",
-      "mtime": "1659006623",
-      "size": "46620",
-      "md5": "d96f07c128fae480a269f57c529b2ced",
-      "crc32": "70dff535",
-      "sha1": "5c80ccabe5c7127e95164d7942bfd8daeaf8d72c",
+      "btih": "93bebd82c6ed710e4ad8ec038f536a055ccce644",
+      "mtime": "1659049908",
+      "size": "47704",
+      "md5": "e76d132f2b3623cea32f4e9e7db09697",
+      "crc32": "03f1de72",
+      "sha1": "e7ef70026982ec524342b6936eaf94566ea68224",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cookpolitical-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "346827d7d1d244f3e68f64ed22db4dbf",
+      "md5": "02943772e4b5ffa9034c67ebcc123133",
       "summation": "md5"
     },
     {
       "name": "cookpolitical-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659006588",
-      "size": "270336",
-      "md5": "cb6947839f784b5b5738a558b16b0487",
-      "crc32": "e091f453",
-      "sha1": "52d39c2d0644122672cca35ada5c6704bec929ef",
+      "mtime": "1659049873",
+      "size": "274432",
+      "md5": "b9b060aa982eb9cd8418c5dec712fc2a",
+      "crc32": "4e46cda4",
+      "sha1": "54b346f8ec86eafbaa22fa54bf8c479d3cf45626",
       "format": "Metadata"
     },
     {
@@ -2243,9 +2295,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 214,
-  "item_last_updated": 1659006623,
-  "item_size": 15236775,
+  "files_count": 219,
+  "item_last_updated": 1659049908,
+  "item_size": 15587584,
   "metadata": {
     "identifier": "cookpolitical-2022",
     "collection": [
@@ -2267,7 +2319,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346128103,
+      "task_id": 3346592834,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2275,7 +2327,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1068555572,
+  "uniq": 1731042197,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

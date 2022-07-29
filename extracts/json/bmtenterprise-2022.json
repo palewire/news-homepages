@@ -1,5 +1,5 @@
 {
-  "created": 1659006425,
+  "created": 1659049767,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/bmtenterprise-2022",
@@ -1009,31 +1009,83 @@
       "format": "JSON"
     },
     {
+      "name": "bmtenterprise-2022-07-28T06:06:17.644024-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bmtenterprise-2022-07-28T06:06:17.644024-05:00.jpg",
+      "mtime": "1659031999",
+      "size": "10632",
+      "md5": "64a7aea7b990185fde503cee255fe936",
+      "crc32": "61080db2",
+      "sha1": "a25c376bda5e8eafaf531b8514dab60626addbb9"
+    },
+    {
+      "name": "bmtenterprise-2022-07-28T18:08:38.172365-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659049721",
+      "size": "56723",
+      "md5": "5e4d7dbbbea0d92f8d9c84f5e3578c6a",
+      "crc32": "05dfaf66",
+      "sha1": "bb6713ec5af026e30bbc1ed6cbc2ff00ce0f0f90",
+      "format": "JSON"
+    },
+    {
+      "name": "bmtenterprise-2022-07-28T18:08:38.172365-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659049722",
+      "size": "60572",
+      "md5": "e6b965415f8911701e38b2793b965878",
+      "crc32": "8386ce2d",
+      "sha1": "10c52de74bccbefe36d68747bd83f9eb30b2e6be",
+      "format": "JSON"
+    },
+    {
+      "name": "bmtenterprise-2022-07-28T18:08:38.172365-05:00.jpg",
+      "source": "original",
+      "mtime": "1659049719",
+      "size": "323833",
+      "md5": "40ed9192f23c67162585ef5a4b9118d4",
+      "crc32": "5b587264",
+      "sha1": "f23abf8a31574e1b49a5814bd1a1b018ed50447f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bmtenterprise-2022-07-28T18:08:38.172365-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659049723",
+      "size": "1567",
+      "md5": "5dcdab9e971cc7499c8e46a5b4c02d19",
+      "crc32": "288aef61",
+      "sha1": "6356c6161ea2fb58a9517dfaadfab16d9eae6fd3",
+      "format": "JSON"
+    },
+    {
       "name": "bmtenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2aecdd0f7d4f6aef903b64b8027a5a8b5527b2b2",
-      "mtime": "1659006422",
-      "size": "22234",
-      "md5": "66d760a0940a46c4997aaee9c79e31e8",
-      "crc32": "806cf18d",
-      "sha1": "2a22cecc4a3b7303e93beb60c52e0995e7941b09",
+      "btih": "d7e6da2b718433112ff7765b72ac5f197868b402",
+      "mtime": "1659049761",
+      "size": "23319",
+      "md5": "39ef02a4894238a35532d9fc56543c31",
+      "crc32": "8d9af049",
+      "sha1": "d7352bbf4bd818c965baaf490b98fda2f47e1678",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bmtenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1ba7314e75ebcdb86984f5c09c651ef9",
+      "md5": "6dd8c03910c5113d5cfbb010499da4e1",
       "summation": "md5"
     },
     {
       "name": "bmtenterprise-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659006388",
-      "size": "139264",
-      "md5": "c2c6acf28dc02d1d17e923539cd786b3",
-      "crc32": "ecb87afe",
-      "sha1": "bc3aad3841337ffa31b9f5b02fc7423b340ede0f",
+      "mtime": "1659049727",
+      "size": "143360",
+      "md5": "f6efaba293ff37e9359d202256c18829",
+      "crc32": "139843ff",
+      "sha1": "68e3ef8840ef17d327681fb601898f244e29821f",
       "format": "Metadata"
     },
     {
@@ -1047,9 +1099,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 100,
-  "item_last_updated": 1659006422,
-  "item_size": 9871280,
+  "files_count": 105,
+  "item_last_updated": 1659049761,
+  "item_size": 10329788,
   "metadata": {
     "identifier": "bmtenterprise-2022",
     "collection": [
@@ -1071,7 +1123,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346126243,
+      "task_id": 3346590550,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1079,7 +1131,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 723623664,
+  "uniq": 1806507807,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659011249,
+  "created": 1659048634,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/35/items/usweekly-2022",
@@ -968,31 +968,83 @@
       "sha1": "971b5a0cd9a796628784f247298dc05544870df7"
     },
     {
+      "name": "usweekly-2022-07-28T11:55:53.905347-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659023759",
+      "size": "19250",
+      "md5": "e7fd527c4d68b2fd7c81bace4a54797a",
+      "crc32": "56d5b31f",
+      "sha1": "7550474d46ac19e0ffbbd1b5b5234f93f45ad75b",
+      "format": "JSON"
+    },
+    {
+      "name": "usweekly-2022-07-28T11:55:53.905347-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659023761",
+      "size": "47055",
+      "md5": "c0c3f33b38d0a6cb0875e72c10c3fb4f",
+      "crc32": "b0d17bef",
+      "sha1": "b96cdadd5e949ecfc0050c30bdb235bc06ffd1e8",
+      "format": "JSON"
+    },
+    {
+      "name": "usweekly-2022-07-28T11:55:53.905347-04:00.jpg",
+      "source": "original",
+      "mtime": "1659023756",
+      "size": "261436",
+      "md5": "012dec7eacb0c57c0644ec380cd7c5b7",
+      "crc32": "633b86fa",
+      "sha1": "b40ea220b028d8ba68308cffc0a2c5d084cce833",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "usweekly-2022-07-28T11:55:53.905347-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659023762",
+      "size": "1486",
+      "md5": "516c12207af367484ddf42e79e898eab",
+      "crc32": "f4581179",
+      "sha1": "8973b48a84d22c2c389acb850371bb5ce7ff8696",
+      "format": "JSON"
+    },
+    {
+      "name": "usweekly-2022-07-28T11:55:53.905347-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usweekly-2022-07-28T11:55:53.905347-04:00.jpg",
+      "mtime": "1659048590",
+      "size": "9360",
+      "md5": "8715571b8718632834aae5395b3c9723",
+      "crc32": "e98c78fc",
+      "sha1": "88737f74ea048757f475a098e738f5118a7c4caa"
+    },
+    {
       "name": "usweekly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ef57a10bd5577b9591b45eedafb0f5c4c880a9ee",
-      "mtime": "1658990390",
-      "size": "20762",
-      "md5": "406d4ec022cfd2cc4d84d870156cdc7d",
-      "crc32": "081c9f80",
-      "sha1": "277477a8a69779778b9963a0998790c82a48b5c8",
+      "btih": "7ea35a535c6df3aca76084ef686b1d3c4e667498",
+      "mtime": "1659048608",
+      "size": "21821",
+      "md5": "03961935eb2b7c84ebf6ac882192c85c",
+      "crc32": "da44648e",
+      "sha1": "896df6e4f4941df18ecc64c2f47c5a6382da111c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "usweekly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "91683627be554bdc68bf93de43d55068",
+      "md5": "c8a3f1122966ced5ece2d6dff1b11fa5",
       "summation": "md5"
     },
     {
       "name": "usweekly-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658980102",
-      "size": "135168",
-      "md5": "b870d19fb3b0220b98119407cbc1501b",
-      "crc32": "6495b067",
-      "sha1": "e0ca3c6a34f0278e5621235002467897631a04b2",
+      "mtime": "1659023776",
+      "size": "139264",
+      "md5": "e9df5d8fd98fa7ad8c6f719eeb5633fe",
+      "crc32": "707f67a1",
+      "sha1": "38ea13c915a75f2dd4c363c44ae0f34e0083f1e4",
       "format": "Metadata"
     },
     {
@@ -1006,9 +1058,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 96,
-  "item_last_updated": 1658990390,
-  "item_size": 7203680,
+  "files_count": 101,
+  "item_last_updated": 1659048608,
+  "item_size": 7547422,
   "metadata": {
     "identifier": "usweekly-2022",
     "collection": [
@@ -1026,48 +1078,7 @@
     "addeddate": "2022-07-18 04:19:34"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 1965803390,
-  "usweekly-2022": [
-    {
-      "url": "https://www.usmagazine.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usmagazine_com-_-2022_07_28_03_11_12.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usmagazine_com-_-2022_07_28_03_11_12.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.87,
-        "best-practices": 0.83,
-        "seo": 1,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.usmagazine.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usmagazine_com-_-2022_07_28_03_12_36.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usmagazine_com-_-2022_07_28_03_12_36.report.json",
-      "summary": {
-        "performance": 0.18,
-        "accessibility": 0.91,
-        "best-practices": 0.83,
-        "seo": 1,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.usmagazine.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usmagazine_com-_-2022_07_28_03_11_58.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usmagazine_com-_-2022_07_28_03_11_58.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.91,
-        "best-practices": 0.83,
-        "seo": 1,
-        "pwa": 0.4
-      }
-    }
-  ],
+  "uniq": 1488681791,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"
