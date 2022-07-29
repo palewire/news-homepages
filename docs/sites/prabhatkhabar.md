@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
@@ -29,28 +29,37 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-28T09:12:59.172568+05:30.jpg">
-  <img src="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-28T09:12:59.172568+05:30.jpg"
-     alt="Prabhat Khabar at 2022-07-28 02:13:00+05:30 local time"
+ <a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-28T21:18:47.346437+05:30.jpg">
+  <img src="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-28T21:18:47.346437+05:30.jpg"
+     alt="Prabhat Khabar at 2022-07-28 21:18:49+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-28T09:12:59.172568+05:30.jpg">July 28 at 2:13 AM</a></p>
+ <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-28T21:18:47.346437+05:30.jpg">July 28 at 9:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-28T09:12:59.172568+05:30.jpg">
+  <img src="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-28T09:12:59.172568+05:30.jpg"
+     alt="Prabhat Khabar at 2022-07-28 09:13:00+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-28T09:12:59.172568+05:30.jpg">July 28 at 9:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-27T22:48:11.958116+05:30.jpg">
   <img src="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-27T22:48:11.958116+05:30.jpg"
-     alt="Prabhat Khabar at 2022-07-27 15:48:18+05:30 local time"
+     alt="Prabhat Khabar at 2022-07-27 22:48:18+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-27T22:48:11.958116+05:30.jpg">July 27 at 3:48 PM</a></p>
+ <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-27T22:48:11.958116+05:30.jpg">July 27 at 10:48 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 2 hyperlink lists with the Internet Archive.
+The archiving routine has saved 3 hyperlink lists with the Internet Archive.
 
 
 
@@ -58,13 +67,14 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 2:13 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-28T09:12:59.172568+05:30.hyperlinks.json) |
-| [July 27 at 3:48 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-27T22:48:11.958116+05:30.hyperlinks.json) |
+| [July 28 at 9:18 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-28T21:18:47.346437+05:30.hyperlinks.json) |
+| [July 28 at 9:13 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-28T09:12:59.172568+05:30.hyperlinks.json) |
+| [July 27 at 10:48 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-27T22:48:11.958116+05:30.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 2 accessibility trees with the Internet Archive.
+The archiving routine has saved 3 accessibility trees with the Internet Archive.
 
 
 
@@ -72,14 +82,15 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 2:13 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-28T09:12:59.172568+05:30.accessibility.json) |
-| [July 27 at 3:48 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-27T22:48:11.958116+05:30.accessibility.json) |
+| [July 28 at 9:18 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-28T21:18:47.346437+05:30.accessibility.json) |
+| [July 28 at 9:13 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-28T09:12:59.172568+05:30.accessibility.json) |
+| [July 27 at 10:48 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-27T22:48:11.958116+05:30.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 2 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 3 Lighthouse audits with the Internet Archive.
 
 
 
@@ -87,8 +98,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 2:13 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-28T09:12:59.172568+05:30.lighthouse.json) |
-| [July 27 at 3:48 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-27T22:48:11.958116+05:30.lighthouse.json) |
+| [July 28 at 9:18 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-28T21:18:47.346437+05:30.lighthouse.json) |
+| [July 28 at 9:13 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-28T09:12:59.172568+05:30.lighthouse.json) |
+| [July 27 at 10:48 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-07-27T22:48:11.958116+05:30.lighthouse.json) |
 
 
 

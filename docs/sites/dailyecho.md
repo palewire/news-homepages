@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T02:29:13.243026+01:00.jpg">
-  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T02:29:13.243026+01:00.jpg"
-     alt="Daily Echo at 2022-07-27 19:29:14+01:00 local time"
+ <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T14:23:32.257200+01:00.jpg">
+  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T14:23:32.257200+01:00.jpg"
+     alt="Daily Echo at 2022-07-28 14:23:33+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T02:29:13.243026+01:00.jpg">July 27 at 7:29 PM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T14:23:32.257200+01:00.jpg">July 28 at 2:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T02:29:13.243026+01:00.jpg">
+  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T02:29:13.243026+01:00.jpg"
+     alt="Daily Echo at 2022-07-28 02:29:14+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T02:29:13.243026+01:00.jpg">July 28 at 2:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.jpg"
-     alt="Daily Echo at 2022-07-27 07:20:41+01:00 local time"
+     alt="Daily Echo at 2022-07-27 14:20:41+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.jpg">July 27 at 7:20 AM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.jpg">July 27 at 2:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T02:26:51.055514+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T02:26:51.055514+01:00.jpg"
-     alt="Daily Echo at 2022-07-26 19:26:52+01:00 local time"
+     alt="Daily Echo at 2022-07-27 02:26:52+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T02:26:51.055514+01:00.jpg">July 26 at 7:26 PM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T02:26:51.055514+01:00.jpg">July 27 at 2:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.jpg"
-     alt="Daily Echo at 2022-07-26 08:32:46+01:00 local time"
+     alt="Daily Echo at 2022-07-26 15:32:46+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.jpg">July 26 at 8:32 AM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.jpg">July 26 at 3:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T03:40:45.095418+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T03:40:45.095418+01:00.jpg"
-     alt="Daily Echo at 2022-07-25 20:40:47+01:00 local time"
+     alt="Daily Echo at 2022-07-26 03:40:47+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T03:40:45.095418+01:00.jpg">July 25 at 8:40 PM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T03:40:45.095418+01:00.jpg">July 26 at 3:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.jpg"
-     alt="Daily Echo at 2022-07-25 05:58:31+01:00 local time"
+     alt="Daily Echo at 2022-07-25 12:58:31+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.jpg">July 25 at 5:58 AM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.jpg">July 25 at 12:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.jpg"
-     alt="Daily Echo at 2022-07-24 18:59:11+01:00 local time"
+     alt="Daily Echo at 2022-07-25 01:59:11+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.jpg">July 24 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.jpg">July 25 at 1:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.jpg"
-     alt="Daily Echo at 2022-07-24 05:56:10+01:00 local time"
+     alt="Daily Echo at 2022-07-24 12:56:10+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.jpg">July 24 at 5:56 AM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.jpg">July 24 at 12:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T07:25:42.553229+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T07:25:42.553229+01:00.jpg"
-     alt="Daily Echo at 2022-07-24 00:25:44+01:00 local time"
+     alt="Daily Echo at 2022-07-24 07:25:44+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T07:25:42.553229+01:00.jpg">July 24 at 12:25 AM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T07:25:42.553229+01:00.jpg">July 24 at 7:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T14:02:11.906283+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T14:02:11.906283+01:00.jpg"
-     alt="Daily Echo at 2022-07-23 07:02:13+01:00 local time"
+     alt="Daily Echo at 2022-07-23 14:02:13+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T14:02:11.906283+01:00.jpg">July 23 at 7:02 AM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T14:02:11.906283+01:00.jpg">July 23 at 2:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T02:03:07.669823+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T02:03:07.669823+01:00.jpg"
-     alt="Daily Echo at 2022-07-22 19:03:09+01:00 local time"
+     alt="Daily Echo at 2022-07-23 02:03:09+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T02:03:07.669823+01:00.jpg">July 22 at 7:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-22T14:03:03.004184+01:00.jpg">
-  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-22T14:03:03.004184+01:00.jpg"
-     alt="Daily Echo at 2022-07-22 07:03:04+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-22T14:03:03.004184+01:00.jpg">July 22 at 7:03 AM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T02:03:07.669823+01:00.jpg">July 23 at 2:03 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 7:29 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T02:29:13.243026+01:00.hyperlinks.json) |
-| [July 27 at 7:20 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.hyperlinks.json) |
-| [July 26 at 7:26 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T02:26:51.055514+01:00.hyperlinks.json) |
-| [July 26 at 8:32 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.hyperlinks.json) |
-| [July 25 at 5:58 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.hyperlinks.json) |
-| [July 24 at 6:59 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.hyperlinks.json) |
-| [July 24 at 5:56 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.hyperlinks.json) |
-| [July 24 at 12:25 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T07:25:42.553229+01:00.hyperlinks.json) |
-| [July 23 at 7:02 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T14:02:11.906283+01:00.hyperlinks.json) |
-| [July 22 at 7:03 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T02:03:07.669823+01:00.hyperlinks.json) |
+| [July 28 at 2:23 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T14:23:32.257200+01:00.hyperlinks.json) |
+| [July 28 at 2:29 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T02:29:13.243026+01:00.hyperlinks.json) |
+| [July 27 at 2:20 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.hyperlinks.json) |
+| [July 27 at 2:26 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T02:26:51.055514+01:00.hyperlinks.json) |
+| [July 26 at 3:32 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.hyperlinks.json) |
+| [July 25 at 12:58 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.hyperlinks.json) |
+| [July 25 at 1:59 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.hyperlinks.json) |
+| [July 24 at 12:56 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.hyperlinks.json) |
+| [July 24 at 7:25 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T07:25:42.553229+01:00.hyperlinks.json) |
+| [July 23 at 2:02 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T14:02:11.906283+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 33 accessibility trees with the Internet Archive.
+The archiving routine has saved 34 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 7:20 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.accessibility.json) |
-| [July 26 at 7:26 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T02:26:51.055514+01:00.accessibility.json) |
-| [July 26 at 8:32 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.accessibility.json) |
-| [July 25 at 8:40 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T03:40:45.095418+01:00.accessibility.json) |
-| [July 25 at 5:58 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.accessibility.json) |
-| [July 24 at 6:59 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.accessibility.json) |
-| [July 24 at 5:56 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.accessibility.json) |
-| [July 24 at 12:25 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T07:25:42.553229+01:00.accessibility.json) |
-| [July 23 at 7:02 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T14:02:11.906283+01:00.accessibility.json) |
-| [July 22 at 7:03 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T02:03:07.669823+01:00.accessibility.json) |
+| [July 28 at 2:23 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T14:23:32.257200+01:00.accessibility.json) |
+| [July 27 at 2:20 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.accessibility.json) |
+| [July 27 at 2:26 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T02:26:51.055514+01:00.accessibility.json) |
+| [July 26 at 3:32 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.accessibility.json) |
+| [July 26 at 3:40 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T03:40:45.095418+01:00.accessibility.json) |
+| [July 25 at 12:58 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.accessibility.json) |
+| [July 25 at 1:59 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.accessibility.json) |
+| [July 24 at 12:56 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.accessibility.json) |
+| [July 24 at 7:25 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T07:25:42.553229+01:00.accessibility.json) |
+| [July 23 at 2:02 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-23T14:02:11.906283+01:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,15 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 7:29 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T02:29:13.243026+01:00.lighthouse.json) |
-| [July 27 at 7:20 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.lighthouse.json) |
-| [July 26 at 7:26 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T02:26:51.055514+01:00.lighthouse.json) |
-| [July 26 at 8:32 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.lighthouse.json) |
-| [July 25 at 8:40 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T03:40:45.095418+01:00.lighthouse.json) |
-| [July 25 at 5:58 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.lighthouse.json) |
-| [July 24 at 6:59 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.lighthouse.json) |
-| [July 24 at 5:56 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.lighthouse.json) |
-| [July 24 at 12:25 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T07:25:42.553229+01:00.lighthouse.json) |
+| [July 28 at 2:23 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T14:23:32.257200+01:00.lighthouse.json) |
+| [July 28 at 2:29 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-28T02:29:13.243026+01:00.lighthouse.json) |
+| [July 27 at 2:20 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T14:20:36.094462+01:00.lighthouse.json) |
+| [July 27 at 2:26 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-27T02:26:51.055514+01:00.lighthouse.json) |
+| [July 26 at 3:32 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T15:32:45.611405+01:00.lighthouse.json) |
+| [July 26 at 3:40 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-26T03:40:45.095418+01:00.lighthouse.json) |
+| [July 25 at 12:58 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T12:58:29.392086+01:00.lighthouse.json) |
+| [July 25 at 1:59 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-25T01:59:10.740330+01:00.lighthouse.json) |
+| [July 24 at 12:56 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T12:56:07.574216+01:00.lighthouse.json) |
+| [July 24 at 7:25 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-24T07:25:42.553229+01:00.lighthouse.json) |
 
 
 

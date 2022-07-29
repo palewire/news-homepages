@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 40 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/kcur-2022/kcur-2022-07-27T21:39:36.729112-05:00.jpg">
-  <img src="https://archive.org/download/kcur-2022/kcur-2022-07-27T21:39:36.729112-05:00.jpg"
-     alt="KCUR at 2022-07-27 14:39:38-05:00 local time"
+ <a href="https://archive.org/download/kcur-2022/kcur-2022-07-28T10:42:35.581158-05:00.jpg">
+  <img src="https://archive.org/download/kcur-2022/kcur-2022-07-28T10:42:35.581158-05:00.jpg"
+     alt="KCUR at 2022-07-28 10:42:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-27T21:39:36.729112-05:00.jpg">July 27 at 2:39 PM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-28T10:42:35.581158-05:00.jpg">July 28 at 10:42 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcur-2022/kcur-2022-07-27T21:39:36.729112-05:00.jpg">
+  <img src="https://archive.org/download/kcur-2022/kcur-2022-07-27T21:39:36.729112-05:00.jpg"
+     alt="KCUR at 2022-07-27 21:39:38-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-27T21:39:36.729112-05:00.jpg">July 27 at 9:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcur-2022/kcur-2022-07-27T09:32:25.922096-05:00.jpg">
   <img src="https://archive.org/download/kcur-2022/kcur-2022-07-27T09:32:25.922096-05:00.jpg"
-     alt="KCUR at 2022-07-27 02:32:28-05:00 local time"
+     alt="KCUR at 2022-07-27 09:32:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-27T09:32:25.922096-05:00.jpg">July 27 at 2:32 AM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-27T09:32:25.922096-05:00.jpg">July 27 at 9:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcur-2022/kcur-2022-07-26T21:39:22.545364-05:00.jpg">
   <img src="https://archive.org/download/kcur-2022/kcur-2022-07-26T21:39:22.545364-05:00.jpg"
-     alt="KCUR at 2022-07-26 14:39:24-05:00 local time"
+     alt="KCUR at 2022-07-26 21:39:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-26T21:39:22.545364-05:00.jpg">July 26 at 2:39 PM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-26T21:39:22.545364-05:00.jpg">July 26 at 9:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcur-2022/kcur-2022-07-26T09:38:09.860799-05:00.jpg">
   <img src="https://archive.org/download/kcur-2022/kcur-2022-07-26T09:38:09.860799-05:00.jpg"
-     alt="KCUR at 2022-07-26 02:38:10-05:00 local time"
+     alt="KCUR at 2022-07-26 09:38:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-26T09:38:09.860799-05:00.jpg">July 26 at 2:38 AM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-26T09:38:09.860799-05:00.jpg">July 26 at 9:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcur-2022/kcur-2022-07-25T21:44:45.550281-05:00.jpg">
   <img src="https://archive.org/download/kcur-2022/kcur-2022-07-25T21:44:45.550281-05:00.jpg"
-     alt="KCUR at 2022-07-25 14:44:47-05:00 local time"
+     alt="KCUR at 2022-07-25 21:44:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-25T21:44:45.550281-05:00.jpg">July 25 at 2:44 PM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-25T21:44:45.550281-05:00.jpg">July 25 at 9:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcur-2022/kcur-2022-07-25T08:10:50.690037-05:00.jpg">
   <img src="https://archive.org/download/kcur-2022/kcur-2022-07-25T08:10:50.690037-05:00.jpg"
-     alt="KCUR at 2022-07-25 01:10:52-05:00 local time"
+     alt="KCUR at 2022-07-25 08:10:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-25T08:10:50.690037-05:00.jpg">July 25 at 1:10 AM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-25T08:10:50.690037-05:00.jpg">July 25 at 8:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcur-2022/kcur-2022-07-24T22:25:53.577372-05:00.jpg">
   <img src="https://archive.org/download/kcur-2022/kcur-2022-07-24T22:25:53.577372-05:00.jpg"
-     alt="KCUR at 2022-07-24 15:25:54-05:00 local time"
+     alt="KCUR at 2022-07-24 22:25:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-24T22:25:53.577372-05:00.jpg">July 24 at 3:25 PM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-24T22:25:53.577372-05:00.jpg">July 24 at 10:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcur-2022/kcur-2022-07-24T07:58:59.850307-05:00.jpg">
   <img src="https://archive.org/download/kcur-2022/kcur-2022-07-24T07:58:59.850307-05:00.jpg"
-     alt="KCUR at 2022-07-24 00:59:01-05:00 local time"
+     alt="KCUR at 2022-07-24 07:59:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-24T07:58:59.850307-05:00.jpg">July 24 at 12:59 AM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-24T07:58:59.850307-05:00.jpg">July 24 at 7:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcur-2022/kcur-2022-07-23T23:14:56.947085-05:00.jpg">
   <img src="https://archive.org/download/kcur-2022/kcur-2022-07-23T23:14:56.947085-05:00.jpg"
-     alt="KCUR at 2022-07-23 16:14:58-05:00 local time"
+     alt="KCUR at 2022-07-23 23:14:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-23T23:14:56.947085-05:00.jpg">July 23 at 4:14 PM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-23T23:14:56.947085-05:00.jpg">July 23 at 11:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcur-2022/kcur-2022-07-23T09:05:03.723447-05:00.jpg">
   <img src="https://archive.org/download/kcur-2022/kcur-2022-07-23T09:05:03.723447-05:00.jpg"
-     alt="KCUR at 2022-07-23 02:05:05-05:00 local time"
+     alt="KCUR at 2022-07-23 09:05:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-23T09:05:03.723447-05:00.jpg">July 23 at 2:05 AM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-23T09:05:03.723447-05:00.jpg">July 23 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcur-2022/kcur-2022-07-22T21:30:30.234951-05:00.jpg">
   <img src="https://archive.org/download/kcur-2022/kcur-2022-07-22T21:30:30.234951-05:00.jpg"
-     alt="KCUR at 2022-07-22 14:30:31-05:00 local time"
+     alt="KCUR at 2022-07-22 21:30:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-22T21:30:30.234951-05:00.jpg">July 22 at 2:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kcur-2022/kcur-2022-07-22T09:05:11.711812-05:00.jpg">
-  <img src="https://archive.org/download/kcur-2022/kcur-2022-07-22T09:05:11.711812-05:00.jpg"
-     alt="KCUR at 2022-07-22 02:05:15-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-22T09:05:11.711812-05:00.jpg">July 22 at 2:05 AM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-22T21:30:30.234951-05:00.jpg">July 22 at 9:30 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 39 hyperlink lists with the Internet Archive.
+The archiving routine has saved 40 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 2:39 PM](https://archive.org/download/kcur-2022/kcur-2022-07-27T21:39:36.729112-05:00.hyperlinks.json) |
-| [July 27 at 2:32 AM](https://archive.org/download/kcur-2022/kcur-2022-07-27T09:32:25.922096-05:00.hyperlinks.json) |
-| [July 26 at 2:39 PM](https://archive.org/download/kcur-2022/kcur-2022-07-26T21:39:22.545364-05:00.hyperlinks.json) |
-| [July 26 at 2:38 AM](https://archive.org/download/kcur-2022/kcur-2022-07-26T09:38:09.860799-05:00.hyperlinks.json) |
-| [July 25 at 2:44 PM](https://archive.org/download/kcur-2022/kcur-2022-07-25T21:44:45.550281-05:00.hyperlinks.json) |
-| [July 25 at 1:10 AM](https://archive.org/download/kcur-2022/kcur-2022-07-25T08:10:50.690037-05:00.hyperlinks.json) |
-| [July 24 at 3:25 PM](https://archive.org/download/kcur-2022/kcur-2022-07-24T22:25:53.577372-05:00.hyperlinks.json) |
-| [July 24 at 12:59 AM](https://archive.org/download/kcur-2022/kcur-2022-07-24T07:58:59.850307-05:00.hyperlinks.json) |
-| [July 23 at 4:15 PM](https://archive.org/download/kcur-2022/kcur-2022-07-23T23:14:56.947085-05:00.hyperlinks.json) |
-| [July 23 at 2:05 AM](https://archive.org/download/kcur-2022/kcur-2022-07-23T09:05:03.723447-05:00.hyperlinks.json) |
+| [July 28 at 10:42 AM](https://archive.org/download/kcur-2022/kcur-2022-07-28T10:42:35.581158-05:00.hyperlinks.json) |
+| [July 27 at 9:39 PM](https://archive.org/download/kcur-2022/kcur-2022-07-27T21:39:36.729112-05:00.hyperlinks.json) |
+| [July 27 at 9:32 AM](https://archive.org/download/kcur-2022/kcur-2022-07-27T09:32:25.922096-05:00.hyperlinks.json) |
+| [July 26 at 9:39 PM](https://archive.org/download/kcur-2022/kcur-2022-07-26T21:39:22.545364-05:00.hyperlinks.json) |
+| [July 26 at 9:38 AM](https://archive.org/download/kcur-2022/kcur-2022-07-26T09:38:09.860799-05:00.hyperlinks.json) |
+| [July 25 at 9:44 PM](https://archive.org/download/kcur-2022/kcur-2022-07-25T21:44:45.550281-05:00.hyperlinks.json) |
+| [July 25 at 8:10 AM](https://archive.org/download/kcur-2022/kcur-2022-07-25T08:10:50.690037-05:00.hyperlinks.json) |
+| [July 24 at 10:25 PM](https://archive.org/download/kcur-2022/kcur-2022-07-24T22:25:53.577372-05:00.hyperlinks.json) |
+| [July 24 at 7:59 AM](https://archive.org/download/kcur-2022/kcur-2022-07-24T07:58:59.850307-05:00.hyperlinks.json) |
+| [July 23 at 11:15 PM](https://archive.org/download/kcur-2022/kcur-2022-07-23T23:14:56.947085-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 39 accessibility trees with the Internet Archive.
+The archiving routine has saved 40 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 2:39 PM](https://archive.org/download/kcur-2022/kcur-2022-07-27T21:39:36.729112-05:00.accessibility.json) |
-| [July 27 at 2:32 AM](https://archive.org/download/kcur-2022/kcur-2022-07-27T09:32:25.922096-05:00.accessibility.json) |
-| [July 26 at 2:39 PM](https://archive.org/download/kcur-2022/kcur-2022-07-26T21:39:22.545364-05:00.accessibility.json) |
-| [July 26 at 2:38 AM](https://archive.org/download/kcur-2022/kcur-2022-07-26T09:38:09.860799-05:00.accessibility.json) |
-| [July 25 at 2:44 PM](https://archive.org/download/kcur-2022/kcur-2022-07-25T21:44:45.550281-05:00.accessibility.json) |
-| [July 25 at 1:10 AM](https://archive.org/download/kcur-2022/kcur-2022-07-25T08:10:50.690037-05:00.accessibility.json) |
-| [July 24 at 3:25 PM](https://archive.org/download/kcur-2022/kcur-2022-07-24T22:25:53.577372-05:00.accessibility.json) |
-| [July 24 at 12:59 AM](https://archive.org/download/kcur-2022/kcur-2022-07-24T07:58:59.850307-05:00.accessibility.json) |
-| [July 23 at 4:15 PM](https://archive.org/download/kcur-2022/kcur-2022-07-23T23:14:56.947085-05:00.accessibility.json) |
-| [July 23 at 2:05 AM](https://archive.org/download/kcur-2022/kcur-2022-07-23T09:05:03.723447-05:00.accessibility.json) |
+| [July 28 at 10:42 AM](https://archive.org/download/kcur-2022/kcur-2022-07-28T10:42:35.581158-05:00.accessibility.json) |
+| [July 27 at 9:39 PM](https://archive.org/download/kcur-2022/kcur-2022-07-27T21:39:36.729112-05:00.accessibility.json) |
+| [July 27 at 9:32 AM](https://archive.org/download/kcur-2022/kcur-2022-07-27T09:32:25.922096-05:00.accessibility.json) |
+| [July 26 at 9:39 PM](https://archive.org/download/kcur-2022/kcur-2022-07-26T21:39:22.545364-05:00.accessibility.json) |
+| [July 26 at 9:38 AM](https://archive.org/download/kcur-2022/kcur-2022-07-26T09:38:09.860799-05:00.accessibility.json) |
+| [July 25 at 9:44 PM](https://archive.org/download/kcur-2022/kcur-2022-07-25T21:44:45.550281-05:00.accessibility.json) |
+| [July 25 at 8:10 AM](https://archive.org/download/kcur-2022/kcur-2022-07-25T08:10:50.690037-05:00.accessibility.json) |
+| [July 24 at 10:25 PM](https://archive.org/download/kcur-2022/kcur-2022-07-24T22:25:53.577372-05:00.accessibility.json) |
+| [July 24 at 7:59 AM](https://archive.org/download/kcur-2022/kcur-2022-07-24T07:58:59.850307-05:00.accessibility.json) |
+| [July 23 at 11:15 PM](https://archive.org/download/kcur-2022/kcur-2022-07-23T23:14:56.947085-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,15 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 2:39 PM](https://archive.org/download/kcur-2022/kcur-2022-07-27T21:39:36.729112-05:00.lighthouse.json) |
-| [July 27 at 2:32 AM](https://archive.org/download/kcur-2022/kcur-2022-07-27T09:32:25.922096-05:00.lighthouse.json) |
-| [July 26 at 2:39 PM](https://archive.org/download/kcur-2022/kcur-2022-07-26T21:39:22.545364-05:00.lighthouse.json) |
-| [July 26 at 2:38 AM](https://archive.org/download/kcur-2022/kcur-2022-07-26T09:38:09.860799-05:00.lighthouse.json) |
-| [July 25 at 2:44 PM](https://archive.org/download/kcur-2022/kcur-2022-07-25T21:44:45.550281-05:00.lighthouse.json) |
-| [July 25 at 1:10 AM](https://archive.org/download/kcur-2022/kcur-2022-07-25T08:10:50.690037-05:00.lighthouse.json) |
-| [July 24 at 3:25 PM](https://archive.org/download/kcur-2022/kcur-2022-07-24T22:25:53.577372-05:00.lighthouse.json) |
-| [July 24 at 12:59 AM](https://archive.org/download/kcur-2022/kcur-2022-07-24T07:58:59.850307-05:00.lighthouse.json) |
-| [July 23 at 4:15 PM](https://archive.org/download/kcur-2022/kcur-2022-07-23T23:14:56.947085-05:00.lighthouse.json) |
+| [July 28 at 10:42 AM](https://archive.org/download/kcur-2022/kcur-2022-07-28T10:42:35.581158-05:00.lighthouse.json) |
+| [July 27 at 9:39 PM](https://archive.org/download/kcur-2022/kcur-2022-07-27T21:39:36.729112-05:00.lighthouse.json) |
+| [July 27 at 9:32 AM](https://archive.org/download/kcur-2022/kcur-2022-07-27T09:32:25.922096-05:00.lighthouse.json) |
+| [July 26 at 9:39 PM](https://archive.org/download/kcur-2022/kcur-2022-07-26T21:39:22.545364-05:00.lighthouse.json) |
+| [July 26 at 9:38 AM](https://archive.org/download/kcur-2022/kcur-2022-07-26T09:38:09.860799-05:00.lighthouse.json) |
+| [July 25 at 9:44 PM](https://archive.org/download/kcur-2022/kcur-2022-07-25T21:44:45.550281-05:00.lighthouse.json) |
+| [July 25 at 8:10 AM](https://archive.org/download/kcur-2022/kcur-2022-07-25T08:10:50.690037-05:00.lighthouse.json) |
+| [July 24 at 10:25 PM](https://archive.org/download/kcur-2022/kcur-2022-07-24T22:25:53.577372-05:00.lighthouse.json) |
+| [July 24 at 7:59 AM](https://archive.org/download/kcur-2022/kcur-2022-07-24T07:58:59.850307-05:00.lighthouse.json) |
+| [July 23 at 11:15 PM](https://archive.org/download/kcur-2022/kcur-2022-07-23T23:14:56.947085-05:00.lighthouse.json) |
 
 
 

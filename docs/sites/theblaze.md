@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 215 screenshots with the Internet Archive.
+The archiving routine has saved 217 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-27T23:47:34.200542-04:00.jpg">
-  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-07-27T23:47:34.200542-04:00.jpg"
-     alt="Blaze at 2022-07-27 16:47:38-04:00 local time"
+ <a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-28T14:43:58.759818-04:00.jpg">
+  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-07-28T14:43:58.759818-04:00.jpg"
+     alt="Blaze at 2022-07-28 14:44:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-27T23:47:34.200542-04:00.jpg">July 27 at 4:47 PM</a></p>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-28T14:43:58.759818-04:00.jpg">July 28 at 2:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-28T11:54:06.919105-04:00.jpg">
+  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-07-28T11:54:06.919105-04:00.jpg"
+     alt="Blaze at 2022-07-28 11:54:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-28T11:54:06.919105-04:00.jpg">July 28 at 11:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-27T23:47:34.200542-04:00.jpg">
+  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-07-27T23:47:34.200542-04:00.jpg"
+     alt="Blaze at 2022-07-27 23:47:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-27T23:47:34.200542-04:00.jpg">July 27 at 11:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-27T11:47:53.792277-04:00.jpg">
   <img src="https://archive.org/download/theblaze-2022/theblaze-2022-07-27T11:47:53.792277-04:00.jpg"
-     alt="Blaze at 2022-07-27 04:47:59-04:00 local time"
+     alt="Blaze at 2022-07-27 11:47:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-27T11:47:53.792277-04:00.jpg">July 27 at 4:47 AM</a></p>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-27T11:47:53.792277-04:00.jpg">July 27 at 11:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-26T23:56:04.159564-04:00.jpg">
   <img src="https://archive.org/download/theblaze-2022/theblaze-2022-07-26T23:56:04.159564-04:00.jpg"
-     alt="Blaze at 2022-07-26 16:56:06-04:00 local time"
+     alt="Blaze at 2022-07-26 23:56:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-26T23:56:04.159564-04:00.jpg">July 26 at 4:56 PM</a></p>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-26T23:56:04.159564-04:00.jpg">July 26 at 11:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-26T14:36:08.709080-04:00.jpg">
   <img src="https://archive.org/download/theblaze-2022/theblaze-2022-07-26T14:36:08.709080-04:00.jpg"
-     alt="Blaze at 2022-07-26 07:36:09-04:00 local time"
+     alt="Blaze at 2022-07-26 14:36:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-26T14:36:08.709080-04:00.jpg">July 26 at 7:36 AM</a></p>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-26T14:36:08.709080-04:00.jpg">July 26 at 2:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-26T11:46:46.716196-04:00.jpg">
   <img src="https://archive.org/download/theblaze-2022/theblaze-2022-07-26T11:46:46.716196-04:00.jpg"
-     alt="Blaze at 2022-07-26 04:46:48-04:00 local time"
+     alt="Blaze at 2022-07-26 11:46:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-26T11:46:46.716196-04:00.jpg">July 26 at 4:46 AM</a></p>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-26T11:46:46.716196-04:00.jpg">July 26 at 11:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T23:58:41.549404-04:00.jpg">
   <img src="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T23:58:41.549404-04:00.jpg"
-     alt="Blaze at 2022-07-25 16:58:43-04:00 local time"
+     alt="Blaze at 2022-07-25 23:58:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T23:58:41.549404-04:00.jpg">July 25 at 4:58 PM</a></p>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T23:58:41.549404-04:00.jpg">July 25 at 11:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T14:39:51.017040-04:00.jpg">
   <img src="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T14:39:51.017040-04:00.jpg"
-     alt="Blaze at 2022-07-25 07:39:52-04:00 local time"
+     alt="Blaze at 2022-07-25 14:39:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T14:39:51.017040-04:00.jpg">July 25 at 7:39 AM</a></p>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T14:39:51.017040-04:00.jpg">July 25 at 2:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T12:41:26.914096-04:00.jpg">
   <img src="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T12:41:26.914096-04:00.jpg"
-     alt="Blaze at 2022-07-25 05:41:28-04:00 local time"
+     alt="Blaze at 2022-07-25 12:41:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T12:41:26.914096-04:00.jpg">July 25 at 5:41 AM</a></p>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T12:41:26.914096-04:00.jpg">July 25 at 12:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T11:45:55.047643-04:00.jpg">
   <img src="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T11:45:55.047643-04:00.jpg"
-     alt="Blaze at 2022-07-25 04:45:59-04:00 local time"
+     alt="Blaze at 2022-07-25 11:45:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T11:45:55.047643-04:00.jpg">July 25 at 4:45 AM</a></p>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T11:45:55.047643-04:00.jpg">July 25 at 11:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T00:36:26.787286-04:00.jpg">
   <img src="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T00:36:26.787286-04:00.jpg"
-     alt="Blaze at 2022-07-24 17:36:28-04:00 local time"
+     alt="Blaze at 2022-07-25 00:36:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T00:36:26.787286-04:00.jpg">July 24 at 5:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-24T11:44:51.817617-04:00.jpg">
-  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-07-24T11:44:51.817617-04:00.jpg"
-     alt="Blaze at 2022-07-24 04:44:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-24T11:44:51.817617-04:00.jpg">July 24 at 4:44 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-24T11:06:19.506122-04:00.jpg">
-  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-07-24T11:06:19.506122-04:00.jpg"
-     alt="Blaze at 2022-07-24 04:06:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-24T11:06:19.506122-04:00.jpg">July 24 at 4:06 AM</a></p>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-07-25T00:36:26.787286-04:00.jpg">July 25 at 12:36 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 210 hyperlink lists with the Internet Archive.
+The archiving routine has saved 212 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 4:47 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-27T23:47:34.200542-04:00.hyperlinks.json) |
-| [July 27 at 4:48 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-27T11:47:53.792277-04:00.hyperlinks.json) |
-| [July 26 at 4:56 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-26T23:56:04.159564-04:00.hyperlinks.json) |
-| [July 26 at 7:36 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-26T14:36:08.709080-04:00.hyperlinks.json) |
-| [July 26 at 4:46 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-26T11:46:46.716196-04:00.hyperlinks.json) |
-| [July 25 at 4:58 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T23:58:41.549404-04:00.hyperlinks.json) |
-| [July 25 at 7:39 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T14:39:51.017040-04:00.hyperlinks.json) |
-| [July 25 at 5:41 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T12:41:26.914096-04:00.hyperlinks.json) |
-| [July 25 at 4:46 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T11:45:55.047643-04:00.hyperlinks.json) |
-| [July 24 at 5:36 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T00:36:26.787286-04:00.hyperlinks.json) |
+| [July 28 at 2:44 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-28T14:43:58.759818-04:00.hyperlinks.json) |
+| [July 28 at 11:54 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-28T11:54:06.919105-04:00.hyperlinks.json) |
+| [July 27 at 11:47 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-27T23:47:34.200542-04:00.hyperlinks.json) |
+| [July 27 at 11:48 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-27T11:47:53.792277-04:00.hyperlinks.json) |
+| [July 26 at 11:56 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-26T23:56:04.159564-04:00.hyperlinks.json) |
+| [July 26 at 2:36 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-26T14:36:08.709080-04:00.hyperlinks.json) |
+| [July 26 at 11:46 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-26T11:46:46.716196-04:00.hyperlinks.json) |
+| [July 25 at 11:58 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T23:58:41.549404-04:00.hyperlinks.json) |
+| [July 25 at 2:39 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T14:39:51.017040-04:00.hyperlinks.json) |
+| [July 25 at 12:41 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T12:41:26.914096-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 211 accessibility trees with the Internet Archive.
+The archiving routine has saved 213 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 4:47 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-27T23:47:34.200542-04:00.accessibility.json) |
-| [July 27 at 4:48 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-27T11:47:53.792277-04:00.accessibility.json) |
-| [July 26 at 4:56 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-26T23:56:04.159564-04:00.accessibility.json) |
-| [July 26 at 7:36 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-26T14:36:08.709080-04:00.accessibility.json) |
-| [July 26 at 4:46 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-26T11:46:46.716196-04:00.accessibility.json) |
-| [July 25 at 4:58 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T23:58:41.549404-04:00.accessibility.json) |
-| [July 25 at 7:39 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T14:39:51.017040-04:00.accessibility.json) |
-| [July 25 at 5:41 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T12:41:26.914096-04:00.accessibility.json) |
-| [July 25 at 4:46 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T11:45:55.047643-04:00.accessibility.json) |
-| [July 24 at 5:36 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T00:36:26.787286-04:00.accessibility.json) |
+| [July 28 at 2:44 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-28T14:43:58.759818-04:00.accessibility.json) |
+| [July 28 at 11:54 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-28T11:54:06.919105-04:00.accessibility.json) |
+| [July 27 at 11:47 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-27T23:47:34.200542-04:00.accessibility.json) |
+| [July 27 at 11:48 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-27T11:47:53.792277-04:00.accessibility.json) |
+| [July 26 at 11:56 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-26T23:56:04.159564-04:00.accessibility.json) |
+| [July 26 at 2:36 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-26T14:36:08.709080-04:00.accessibility.json) |
+| [July 26 at 11:46 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-26T11:46:46.716196-04:00.accessibility.json) |
+| [July 25 at 11:58 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T23:58:41.549404-04:00.accessibility.json) |
+| [July 25 at 2:39 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T14:39:51.017040-04:00.accessibility.json) |
+| [July 25 at 12:41 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T12:41:26.914096-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 4:47 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-27T23:47:34.200542-04:00.lighthouse.json) |
-| [July 27 at 4:48 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-27T11:47:53.792277-04:00.lighthouse.json) |
-| [July 26 at 4:56 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-26T23:56:04.159564-04:00.lighthouse.json) |
-| [July 26 at 7:36 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-26T14:36:08.709080-04:00.lighthouse.json) |
-| [July 26 at 4:46 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-26T11:46:46.716196-04:00.lighthouse.json) |
-| [July 25 at 4:58 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T23:58:41.549404-04:00.lighthouse.json) |
-| [July 25 at 7:39 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T14:39:51.017040-04:00.lighthouse.json) |
-| [July 25 at 5:41 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T12:41:26.914096-04:00.lighthouse.json) |
-| [July 25 at 4:46 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T11:45:55.047643-04:00.lighthouse.json) |
-| [July 24 at 5:36 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T00:36:26.787286-04:00.lighthouse.json) |
+| [July 28 at 2:44 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-28T14:43:58.759818-04:00.lighthouse.json) |
+| [July 28 at 11:54 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-28T11:54:06.919105-04:00.lighthouse.json) |
+| [July 27 at 11:47 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-27T23:47:34.200542-04:00.lighthouse.json) |
+| [July 27 at 11:48 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-27T11:47:53.792277-04:00.lighthouse.json) |
+| [July 26 at 11:56 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-26T23:56:04.159564-04:00.lighthouse.json) |
+| [July 26 at 2:36 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-26T14:36:08.709080-04:00.lighthouse.json) |
+| [July 26 at 11:46 AM](https://archive.org/download/theblaze-2022/theblaze-2022-07-26T11:46:46.716196-04:00.lighthouse.json) |
+| [July 25 at 11:58 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T23:58:41.549404-04:00.lighthouse.json) |
+| [July 25 at 2:39 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T14:39:51.017040-04:00.lighthouse.json) |
+| [July 25 at 12:41 PM](https://archive.org/download/theblaze-2022/theblaze-2022-07-25T12:41:26.914096-04:00.lighthouse.json) |
 
 
 

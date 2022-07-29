@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 40 screenshots with the Internet Archive.
+The archiving routine has saved 41 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-27T21:28:08.818957-04:00.jpg">
-  <img src="https://archive.org/download/cpipr-2022/cpipr-2022-07-27T21:28:08.818957-04:00.jpg"
-     alt="Centro de Periodismo Investigativo at 2022-07-27 14:28:10-04:00 local time"
+ <a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-28T09:23:04.086550-04:00.jpg">
+  <img src="https://archive.org/download/cpipr-2022/cpipr-2022-07-28T09:23:04.086550-04:00.jpg"
+     alt="Centro de Periodismo Investigativo at 2022-07-28 09:23:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-27T21:28:08.818957-04:00.jpg">July 27 at 2:28 PM</a></p>
+ <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-28T09:23:04.086550-04:00.jpg">July 28 at 9:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-27T21:28:08.818957-04:00.jpg">
+  <img src="https://archive.org/download/cpipr-2022/cpipr-2022-07-27T21:28:08.818957-04:00.jpg"
+     alt="Centro de Periodismo Investigativo at 2022-07-27 21:28:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-27T21:28:08.818957-04:00.jpg">July 27 at 9:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-27T09:20:04.278162-04:00.jpg">
   <img src="https://archive.org/download/cpipr-2022/cpipr-2022-07-27T09:20:04.278162-04:00.jpg"
-     alt="Centro de Periodismo Investigativo at 2022-07-27 02:20:07-04:00 local time"
+     alt="Centro de Periodismo Investigativo at 2022-07-27 09:20:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-27T09:20:04.278162-04:00.jpg">July 27 at 2:20 AM</a></p>
+ <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-27T09:20:04.278162-04:00.jpg">July 27 at 9:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-26T21:26:13.648873-04:00.jpg">
   <img src="https://archive.org/download/cpipr-2022/cpipr-2022-07-26T21:26:13.648873-04:00.jpg"
-     alt="Centro de Periodismo Investigativo at 2022-07-26 14:26:15-04:00 local time"
+     alt="Centro de Periodismo Investigativo at 2022-07-26 21:26:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-26T21:26:13.648873-04:00.jpg">July 26 at 2:26 PM</a></p>
+ <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-26T21:26:13.648873-04:00.jpg">July 26 at 9:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-26T09:28:26.562231-04:00.jpg">
   <img src="https://archive.org/download/cpipr-2022/cpipr-2022-07-26T09:28:26.562231-04:00.jpg"
-     alt="Centro de Periodismo Investigativo at 2022-07-26 02:28:27-04:00 local time"
+     alt="Centro de Periodismo Investigativo at 2022-07-26 09:28:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-26T09:28:26.562231-04:00.jpg">July 26 at 2:28 AM</a></p>
+ <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-26T09:28:26.562231-04:00.jpg">July 26 at 9:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-25T22:59:12.110950-04:00.jpg">
   <img src="https://archive.org/download/cpipr-2022/cpipr-2022-07-25T22:59:12.110950-04:00.jpg"
-     alt="Centro de Periodismo Investigativo at 2022-07-25 15:59:13-04:00 local time"
+     alt="Centro de Periodismo Investigativo at 2022-07-25 22:59:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-25T22:59:12.110950-04:00.jpg">July 25 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-25T22:59:12.110950-04:00.jpg">July 25 at 10:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-25T21:33:30.049682-04:00.jpg">
   <img src="https://archive.org/download/cpipr-2022/cpipr-2022-07-25T21:33:30.049682-04:00.jpg"
-     alt="Centro de Periodismo Investigativo at 2022-07-25 14:33:31-04:00 local time"
+     alt="Centro de Periodismo Investigativo at 2022-07-25 21:33:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-25T21:33:30.049682-04:00.jpg">July 25 at 2:33 PM</a></p>
+ <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-25T21:33:30.049682-04:00.jpg">July 25 at 9:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-25T07:03:34.655778-04:00.jpg">
   <img src="https://archive.org/download/cpipr-2022/cpipr-2022-07-25T07:03:34.655778-04:00.jpg"
-     alt="Centro de Periodismo Investigativo at 2022-07-25 00:03:36-04:00 local time"
+     alt="Centro de Periodismo Investigativo at 2022-07-25 07:03:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-25T07:03:34.655778-04:00.jpg">July 25 at 12:03 AM</a></p>
+ <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-25T07:03:34.655778-04:00.jpg">July 25 at 7:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-24T20:57:04.096280-04:00.jpg">
   <img src="https://archive.org/download/cpipr-2022/cpipr-2022-07-24T20:57:04.096280-04:00.jpg"
-     alt="Centro de Periodismo Investigativo at 2022-07-24 13:57:06-04:00 local time"
+     alt="Centro de Periodismo Investigativo at 2022-07-24 20:57:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-24T20:57:04.096280-04:00.jpg">July 24 at 1:57 PM</a></p>
+ <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-24T20:57:04.096280-04:00.jpg">July 24 at 8:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-24T07:02:53.545564-04:00.jpg">
   <img src="https://archive.org/download/cpipr-2022/cpipr-2022-07-24T07:02:53.545564-04:00.jpg"
-     alt="Centro de Periodismo Investigativo at 2022-07-24 00:02:56-04:00 local time"
+     alt="Centro de Periodismo Investigativo at 2022-07-24 07:02:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-24T07:02:53.545564-04:00.jpg">July 24 at 12:02 AM</a></p>
+ <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-24T07:02:53.545564-04:00.jpg">July 24 at 7:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-23T19:04:31.637387-04:00.jpg">
   <img src="https://archive.org/download/cpipr-2022/cpipr-2022-07-23T19:04:31.637387-04:00.jpg"
-     alt="Centro de Periodismo Investigativo at 2022-07-23 12:04:33-04:00 local time"
+     alt="Centro de Periodismo Investigativo at 2022-07-23 19:04:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-23T19:04:31.637387-04:00.jpg">July 23 at 12:04 PM</a></p>
+ <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-23T19:04:31.637387-04:00.jpg">July 23 at 7:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-23T09:02:10.023633-04:00.jpg">
   <img src="https://archive.org/download/cpipr-2022/cpipr-2022-07-23T09:02:10.023633-04:00.jpg"
-     alt="Centro de Periodismo Investigativo at 2022-07-23 02:02:11-04:00 local time"
+     alt="Centro de Periodismo Investigativo at 2022-07-23 09:02:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-23T09:02:10.023633-04:00.jpg">July 23 at 2:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-22T21:02:58.061370-04:00.jpg">
-  <img src="https://archive.org/download/cpipr-2022/cpipr-2022-07-22T21:02:58.061370-04:00.jpg"
-     alt="Centro de Periodismo Investigativo at 2022-07-22 14:02:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-22T21:02:58.061370-04:00.jpg">July 22 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-07-23T09:02:10.023633-04:00.jpg">July 23 at 9:02 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 40 hyperlink lists with the Internet Archive.
+The archiving routine has saved 41 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 2:28 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-27T21:28:08.818957-04:00.hyperlinks.json) |
-| [July 27 at 2:20 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-27T09:20:04.278162-04:00.hyperlinks.json) |
-| [July 26 at 2:26 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-26T21:26:13.648873-04:00.hyperlinks.json) |
-| [July 26 at 2:28 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-26T09:28:26.562231-04:00.hyperlinks.json) |
-| [July 25 at 3:59 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-25T22:59:12.110950-04:00.hyperlinks.json) |
-| [July 25 at 2:33 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-25T21:33:30.049682-04:00.hyperlinks.json) |
-| [July 25 at 12:03 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-25T07:03:34.655778-04:00.hyperlinks.json) |
-| [July 24 at 1:57 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-24T20:57:04.096280-04:00.hyperlinks.json) |
-| [July 24 at 12:03 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-24T07:02:53.545564-04:00.hyperlinks.json) |
-| [July 23 at 12:04 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-23T19:04:31.637387-04:00.hyperlinks.json) |
+| [July 28 at 9:23 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-28T09:23:04.086550-04:00.hyperlinks.json) |
+| [July 27 at 9:28 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-27T21:28:08.818957-04:00.hyperlinks.json) |
+| [July 27 at 9:20 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-27T09:20:04.278162-04:00.hyperlinks.json) |
+| [July 26 at 9:26 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-26T21:26:13.648873-04:00.hyperlinks.json) |
+| [July 26 at 9:28 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-26T09:28:26.562231-04:00.hyperlinks.json) |
+| [July 25 at 10:59 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-25T22:59:12.110950-04:00.hyperlinks.json) |
+| [July 25 at 9:33 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-25T21:33:30.049682-04:00.hyperlinks.json) |
+| [July 25 at 7:03 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-25T07:03:34.655778-04:00.hyperlinks.json) |
+| [July 24 at 8:57 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-24T20:57:04.096280-04:00.hyperlinks.json) |
+| [July 24 at 7:03 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-24T07:02:53.545564-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 40 accessibility trees with the Internet Archive.
+The archiving routine has saved 41 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 2:28 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-27T21:28:08.818957-04:00.accessibility.json) |
-| [July 27 at 2:20 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-27T09:20:04.278162-04:00.accessibility.json) |
-| [July 26 at 2:26 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-26T21:26:13.648873-04:00.accessibility.json) |
-| [July 26 at 2:28 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-26T09:28:26.562231-04:00.accessibility.json) |
-| [July 25 at 3:59 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-25T22:59:12.110950-04:00.accessibility.json) |
-| [July 25 at 2:33 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-25T21:33:30.049682-04:00.accessibility.json) |
-| [July 25 at 12:03 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-25T07:03:34.655778-04:00.accessibility.json) |
-| [July 24 at 1:57 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-24T20:57:04.096280-04:00.accessibility.json) |
-| [July 24 at 12:02 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-24T07:02:53.545564-04:00.accessibility.json) |
-| [July 23 at 12:04 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-23T19:04:31.637387-04:00.accessibility.json) |
+| [July 28 at 9:23 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-28T09:23:04.086550-04:00.accessibility.json) |
+| [July 27 at 9:28 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-27T21:28:08.818957-04:00.accessibility.json) |
+| [July 27 at 9:20 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-27T09:20:04.278162-04:00.accessibility.json) |
+| [July 26 at 9:26 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-26T21:26:13.648873-04:00.accessibility.json) |
+| [July 26 at 9:28 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-26T09:28:26.562231-04:00.accessibility.json) |
+| [July 25 at 10:59 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-25T22:59:12.110950-04:00.accessibility.json) |
+| [July 25 at 9:33 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-25T21:33:30.049682-04:00.accessibility.json) |
+| [July 25 at 7:03 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-25T07:03:34.655778-04:00.accessibility.json) |
+| [July 24 at 8:57 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-24T20:57:04.096280-04:00.accessibility.json) |
+| [July 24 at 7:02 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-24T07:02:53.545564-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 2:28 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-27T21:28:08.818957-04:00.lighthouse.json) |
-| [July 27 at 2:20 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-27T09:20:04.278162-04:00.lighthouse.json) |
-| [July 26 at 2:26 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-26T21:26:13.648873-04:00.lighthouse.json) |
-| [July 26 at 2:28 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-26T09:28:26.562231-04:00.lighthouse.json) |
-| [July 25 at 3:59 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-25T22:59:12.110950-04:00.lighthouse.json) |
-| [July 25 at 2:33 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-25T21:33:30.049682-04:00.lighthouse.json) |
-| [July 25 at 12:03 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-25T07:03:34.655778-04:00.lighthouse.json) |
-| [July 24 at 1:57 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-24T20:57:04.096280-04:00.lighthouse.json) |
-| [July 24 at 12:03 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-24T07:02:53.545564-04:00.lighthouse.json) |
-| [July 23 at 12:04 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-23T19:04:31.637387-04:00.lighthouse.json) |
+| [July 28 at 9:23 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-28T09:23:04.086550-04:00.lighthouse.json) |
+| [July 27 at 9:28 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-27T21:28:08.818957-04:00.lighthouse.json) |
+| [July 27 at 9:20 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-27T09:20:04.278162-04:00.lighthouse.json) |
+| [July 26 at 9:26 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-26T21:26:13.648873-04:00.lighthouse.json) |
+| [July 26 at 9:28 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-26T09:28:26.562231-04:00.lighthouse.json) |
+| [July 25 at 10:59 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-25T22:59:12.110950-04:00.lighthouse.json) |
+| [July 25 at 9:33 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-25T21:33:30.049682-04:00.lighthouse.json) |
+| [July 25 at 7:03 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-25T07:03:34.655778-04:00.lighthouse.json) |
+| [July 24 at 8:57 PM](https://archive.org/download/cpipr-2022/cpipr-2022-07-24T20:57:04.096280-04:00.lighthouse.json) |
+| [July 24 at 7:03 AM](https://archive.org/download/cpipr-2022/cpipr-2022-07-24T07:02:53.545564-04:00.lighthouse.json) |
 
 
 

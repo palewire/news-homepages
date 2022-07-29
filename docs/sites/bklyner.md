@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 105 screenshots with the Internet Archive.
+The archiving routine has saved 106 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-27T21:28:09.880715-04:00.jpg">
-  <img src="https://archive.org/download/bklyner-2022/bklyner-2022-07-27T21:28:09.880715-04:00.jpg"
-     alt="Bklyner at 2022-07-27 14:28:10-04:00 local time"
+ <a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-28T09:21:58.974014-04:00.jpg">
+  <img src="https://archive.org/download/bklyner-2022/bklyner-2022-07-28T09:21:58.974014-04:00.jpg"
+     alt="Bklyner at 2022-07-28 09:22:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-27T21:28:09.880715-04:00.jpg">July 27 at 2:28 PM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-28T09:21:58.974014-04:00.jpg">July 28 at 9:22 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-27T21:28:09.880715-04:00.jpg">
+  <img src="https://archive.org/download/bklyner-2022/bklyner-2022-07-27T21:28:09.880715-04:00.jpg"
+     alt="Bklyner at 2022-07-27 21:28:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-27T21:28:09.880715-04:00.jpg">July 27 at 9:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-27T09:18:15.495360-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-07-27T09:18:15.495360-04:00.jpg"
-     alt="Bklyner at 2022-07-27 02:18:19-04:00 local time"
+     alt="Bklyner at 2022-07-27 09:18:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-27T09:18:15.495360-04:00.jpg">July 27 at 2:18 AM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-27T09:18:15.495360-04:00.jpg">July 27 at 9:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-26T21:24:21.575880-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-07-26T21:24:21.575880-04:00.jpg"
-     alt="Bklyner at 2022-07-26 14:24:23-04:00 local time"
+     alt="Bklyner at 2022-07-26 21:24:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-26T21:24:21.575880-04:00.jpg">July 26 at 2:24 PM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-26T21:24:21.575880-04:00.jpg">July 26 at 9:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-26T09:25:32.761103-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-07-26T09:25:32.761103-04:00.jpg"
-     alt="Bklyner at 2022-07-26 02:25:34-04:00 local time"
+     alt="Bklyner at 2022-07-26 09:25:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-26T09:25:32.761103-04:00.jpg">July 26 at 2:25 AM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-26T09:25:32.761103-04:00.jpg">July 26 at 9:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-25T22:58:57.128917-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-07-25T22:58:57.128917-04:00.jpg"
-     alt="Bklyner at 2022-07-25 15:58:58-04:00 local time"
+     alt="Bklyner at 2022-07-25 22:58:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-25T22:58:57.128917-04:00.jpg">July 25 at 3:58 PM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-25T22:58:57.128917-04:00.jpg">July 25 at 10:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-25T21:32:00.743625-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-07-25T21:32:00.743625-04:00.jpg"
-     alt="Bklyner at 2022-07-25 14:32:02-04:00 local time"
+     alt="Bklyner at 2022-07-25 21:32:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-25T21:32:00.743625-04:00.jpg">July 25 at 2:32 PM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-25T21:32:00.743625-04:00.jpg">July 25 at 9:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-25T06:59:54.136689-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-07-25T06:59:54.136689-04:00.jpg"
-     alt="Bklyner at 2022-07-24 23:59:57-04:00 local time"
+     alt="Bklyner at 2022-07-25 06:59:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-25T06:59:54.136689-04:00.jpg">July 24 at 11:59 PM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-25T06:59:54.136689-04:00.jpg">July 25 at 6:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-24T20:50:32.352377-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-07-24T20:50:32.352377-04:00.jpg"
-     alt="Bklyner at 2022-07-24 13:50:36-04:00 local time"
+     alt="Bklyner at 2022-07-24 20:50:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-24T20:50:32.352377-04:00.jpg">July 24 at 1:50 PM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-24T20:50:32.352377-04:00.jpg">July 24 at 8:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-24T06:59:08.064320-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-07-24T06:59:08.064320-04:00.jpg"
-     alt="Bklyner at 2022-07-23 23:59:10-04:00 local time"
+     alt="Bklyner at 2022-07-24 06:59:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-24T06:59:08.064320-04:00.jpg">July 23 at 11:59 PM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-24T06:59:08.064320-04:00.jpg">July 24 at 6:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-23T19:01:00.418132-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-07-23T19:01:00.418132-04:00.jpg"
-     alt="Bklyner at 2022-07-23 12:01:02-04:00 local time"
+     alt="Bklyner at 2022-07-23 19:01:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-23T19:01:00.418132-04:00.jpg">July 23 at 12:01 PM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-23T19:01:00.418132-04:00.jpg">July 23 at 7:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-23T08:57:49.081895-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-07-23T08:57:49.081895-04:00.jpg"
-     alt="Bklyner at 2022-07-23 01:57:52-04:00 local time"
+     alt="Bklyner at 2022-07-23 08:57:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-23T08:57:49.081895-04:00.jpg">July 23 at 1:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-22T20:58:26.441560-04:00.jpg">
-  <img src="https://archive.org/download/bklyner-2022/bklyner-2022-07-22T20:58:26.441560-04:00.jpg"
-     alt="Bklyner at 2022-07-22 13:58:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-22T20:58:26.441560-04:00.jpg">July 22 at 1:58 PM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-07-23T08:57:49.081895-04:00.jpg">July 23 at 8:57 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 106 hyperlink lists with the Internet Archive.
+The archiving routine has saved 107 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 2:28 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-27T21:28:09.880715-04:00.hyperlinks.json) |
-| [July 27 at 2:18 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-27T09:18:15.495360-04:00.hyperlinks.json) |
-| [July 26 at 2:24 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-26T21:24:21.575880-04:00.hyperlinks.json) |
-| [July 26 at 2:25 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-26T09:25:32.761103-04:00.hyperlinks.json) |
-| [July 25 at 3:59 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-25T22:58:57.128917-04:00.hyperlinks.json) |
-| [July 25 at 2:32 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-25T21:32:00.743625-04:00.hyperlinks.json) |
-| [July 25 at 12:00 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-25T06:59:54.136689-04:00.hyperlinks.json) |
-| [July 24 at 1:50 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-24T20:50:32.352377-04:00.hyperlinks.json) |
-| [July 23 at 11:59 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-24T06:59:08.064320-04:00.hyperlinks.json) |
-| [July 23 at 12:01 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-23T19:01:00.418132-04:00.hyperlinks.json) |
+| [July 28 at 9:22 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-28T09:21:58.974014-04:00.hyperlinks.json) |
+| [July 27 at 9:28 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-27T21:28:09.880715-04:00.hyperlinks.json) |
+| [July 27 at 9:18 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-27T09:18:15.495360-04:00.hyperlinks.json) |
+| [July 26 at 9:24 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-26T21:24:21.575880-04:00.hyperlinks.json) |
+| [July 26 at 9:25 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-26T09:25:32.761103-04:00.hyperlinks.json) |
+| [July 25 at 10:59 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-25T22:58:57.128917-04:00.hyperlinks.json) |
+| [July 25 at 9:32 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-25T21:32:00.743625-04:00.hyperlinks.json) |
+| [July 25 at 7:00 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-25T06:59:54.136689-04:00.hyperlinks.json) |
+| [July 24 at 8:50 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-24T20:50:32.352377-04:00.hyperlinks.json) |
+| [July 24 at 6:59 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-24T06:59:08.064320-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 106 accessibility trees with the Internet Archive.
+The archiving routine has saved 107 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 2:28 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-27T21:28:09.880715-04:00.accessibility.json) |
-| [July 27 at 2:18 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-27T09:18:15.495360-04:00.accessibility.json) |
-| [July 26 at 2:24 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-26T21:24:21.575880-04:00.accessibility.json) |
-| [July 26 at 2:25 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-26T09:25:32.761103-04:00.accessibility.json) |
-| [July 25 at 3:59 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-25T22:58:57.128917-04:00.accessibility.json) |
-| [July 25 at 2:32 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-25T21:32:00.743625-04:00.accessibility.json) |
-| [July 24 at 11:59 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-25T06:59:54.136689-04:00.accessibility.json) |
-| [July 24 at 1:50 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-24T20:50:32.352377-04:00.accessibility.json) |
-| [July 23 at 11:59 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-24T06:59:08.064320-04:00.accessibility.json) |
-| [July 23 at 12:01 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-23T19:01:00.418132-04:00.accessibility.json) |
+| [July 28 at 9:22 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-28T09:21:58.974014-04:00.accessibility.json) |
+| [July 27 at 9:28 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-27T21:28:09.880715-04:00.accessibility.json) |
+| [July 27 at 9:18 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-27T09:18:15.495360-04:00.accessibility.json) |
+| [July 26 at 9:24 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-26T21:24:21.575880-04:00.accessibility.json) |
+| [July 26 at 9:25 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-26T09:25:32.761103-04:00.accessibility.json) |
+| [July 25 at 10:59 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-25T22:58:57.128917-04:00.accessibility.json) |
+| [July 25 at 9:32 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-25T21:32:00.743625-04:00.accessibility.json) |
+| [July 25 at 6:59 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-25T06:59:54.136689-04:00.accessibility.json) |
+| [July 24 at 8:50 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-24T20:50:32.352377-04:00.accessibility.json) |
+| [July 24 at 6:59 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-24T06:59:08.064320-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 2:28 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-27T21:28:09.880715-04:00.lighthouse.json) |
-| [July 27 at 2:18 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-27T09:18:15.495360-04:00.lighthouse.json) |
-| [July 26 at 2:24 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-26T21:24:21.575880-04:00.lighthouse.json) |
-| [July 26 at 2:25 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-26T09:25:32.761103-04:00.lighthouse.json) |
-| [July 25 at 3:59 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-25T22:58:57.128917-04:00.lighthouse.json) |
-| [July 25 at 2:32 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-25T21:32:00.743625-04:00.lighthouse.json) |
-| [July 25 at 12:00 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-25T06:59:54.136689-04:00.lighthouse.json) |
-| [July 24 at 1:50 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-24T20:50:32.352377-04:00.lighthouse.json) |
-| [July 23 at 11:59 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-24T06:59:08.064320-04:00.lighthouse.json) |
-| [July 23 at 12:01 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-23T19:01:00.418132-04:00.lighthouse.json) |
+| [July 28 at 9:22 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-28T09:21:58.974014-04:00.lighthouse.json) |
+| [July 27 at 9:28 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-27T21:28:09.880715-04:00.lighthouse.json) |
+| [July 27 at 9:18 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-27T09:18:15.495360-04:00.lighthouse.json) |
+| [July 26 at 9:24 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-26T21:24:21.575880-04:00.lighthouse.json) |
+| [July 26 at 9:25 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-26T09:25:32.761103-04:00.lighthouse.json) |
+| [July 25 at 10:59 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-25T22:58:57.128917-04:00.lighthouse.json) |
+| [July 25 at 9:32 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-25T21:32:00.743625-04:00.lighthouse.json) |
+| [July 25 at 7:00 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-25T06:59:54.136689-04:00.lighthouse.json) |
+| [July 24 at 8:50 PM](https://archive.org/download/bklyner-2022/bklyner-2022-07-24T20:50:32.352377-04:00.lighthouse.json) |
+| [July 24 at 6:59 AM](https://archive.org/download/bklyner-2022/bklyner-2022-07-24T06:59:08.064320-04:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
@@ -29,118 +29,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/kut-2022/kut-2022-07-27T19:05:00.717253-05:00.jpg">
-  <img src="https://archive.org/download/kut-2022/kut-2022-07-27T19:05:00.717253-05:00.jpg"
-     alt="KUT at 2022-07-27 12:05:03-05:00 local time"
+ <a href="https://archive.org/download/kut-2022/kut-2022-07-28T19:12:47.432209-05:00.jpg">
+  <img src="https://archive.org/download/kut-2022/kut-2022-07-28T19:12:47.432209-05:00.jpg"
+     alt="KUT at 2022-07-28 19:12:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-07-27T19:05:00.717253-05:00.jpg">July 27 at 12:05 PM</a></p>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-07-28T19:12:47.432209-05:00.jpg">July 28 at 7:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kut-2022/kut-2022-07-28T08:11:12.378163-05:00.jpg">
+  <img src="https://archive.org/download/kut-2022/kut-2022-07-28T08:11:12.378163-05:00.jpg"
+     alt="KUT at 2022-07-28 08:11:14-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-07-28T08:11:12.378163-05:00.jpg">July 28 at 8:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kut-2022/kut-2022-07-27T19:05:00.717253-05:00.jpg">
+  <img src="https://archive.org/download/kut-2022/kut-2022-07-27T19:05:00.717253-05:00.jpg"
+     alt="KUT at 2022-07-27 19:05:03-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-07-27T19:05:00.717253-05:00.jpg">July 27 at 7:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kut-2022/kut-2022-07-27T08:08:41.139711-05:00.jpg">
   <img src="https://archive.org/download/kut-2022/kut-2022-07-27T08:08:41.139711-05:00.jpg"
-     alt="KUT at 2022-07-27 01:08:42-05:00 local time"
+     alt="KUT at 2022-07-27 08:08:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-07-27T08:08:41.139711-05:00.jpg">July 27 at 1:08 AM</a></p>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-07-27T08:08:41.139711-05:00.jpg">July 27 at 8:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kut-2022/kut-2022-07-26T19:12:53.401163-05:00.jpg">
   <img src="https://archive.org/download/kut-2022/kut-2022-07-26T19:12:53.401163-05:00.jpg"
-     alt="KUT at 2022-07-26 12:12:55-05:00 local time"
+     alt="KUT at 2022-07-26 19:12:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-07-26T19:12:53.401163-05:00.jpg">July 26 at 12:12 PM</a></p>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-07-26T19:12:53.401163-05:00.jpg">July 26 at 7:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kut-2022/kut-2022-07-26T07:22:40.703527-05:00.jpg">
   <img src="https://archive.org/download/kut-2022/kut-2022-07-26T07:22:40.703527-05:00.jpg"
-     alt="KUT at 2022-07-26 00:22:43-05:00 local time"
+     alt="KUT at 2022-07-26 07:22:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-07-26T07:22:40.703527-05:00.jpg">July 26 at 12:22 AM</a></p>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-07-26T07:22:40.703527-05:00.jpg">July 26 at 7:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kut-2022/kut-2022-07-25T19:16:58.163693-05:00.jpg">
   <img src="https://archive.org/download/kut-2022/kut-2022-07-25T19:16:58.163693-05:00.jpg"
-     alt="KUT at 2022-07-25 12:17:00-05:00 local time"
+     alt="KUT at 2022-07-25 19:17:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-07-25T19:16:58.163693-05:00.jpg">July 25 at 12:17 PM</a></p>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-07-25T19:16:58.163693-05:00.jpg">July 25 at 7:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kut-2022/kut-2022-07-25T08:10:57.476873-05:00.jpg">
   <img src="https://archive.org/download/kut-2022/kut-2022-07-25T08:10:57.476873-05:00.jpg"
-     alt="KUT at 2022-07-25 01:10:58-05:00 local time"
+     alt="KUT at 2022-07-25 08:10:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-07-25T08:10:57.476873-05:00.jpg">July 25 at 1:10 AM</a></p>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-07-25T08:10:57.476873-05:00.jpg">July 25 at 8:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kut-2022/kut-2022-07-24T22:26:37.678148-05:00.jpg">
   <img src="https://archive.org/download/kut-2022/kut-2022-07-24T22:26:37.678148-05:00.jpg"
-     alt="KUT at 2022-07-24 15:26:39-05:00 local time"
+     alt="KUT at 2022-07-24 22:26:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-07-24T22:26:37.678148-05:00.jpg">July 24 at 3:26 PM</a></p>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-07-24T22:26:37.678148-05:00.jpg">July 24 at 10:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kut-2022/kut-2022-07-24T07:59:56.729704-05:00.jpg">
   <img src="https://archive.org/download/kut-2022/kut-2022-07-24T07:59:56.729704-05:00.jpg"
-     alt="KUT at 2022-07-24 00:59:58-05:00 local time"
+     alt="KUT at 2022-07-24 07:59:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-07-24T07:59:56.729704-05:00.jpg">July 24 at 12:59 AM</a></p>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-07-24T07:59:56.729704-05:00.jpg">July 24 at 7:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kut-2022/kut-2022-07-23T23:15:06.629437-05:00.jpg">
   <img src="https://archive.org/download/kut-2022/kut-2022-07-23T23:15:06.629437-05:00.jpg"
-     alt="KUT at 2022-07-23 16:15:08-05:00 local time"
+     alt="KUT at 2022-07-23 23:15:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-07-23T23:15:06.629437-05:00.jpg">July 23 at 4:15 PM</a></p>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-07-23T23:15:06.629437-05:00.jpg">July 23 at 11:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kut-2022/kut-2022-07-23T09:06:17.432110-05:00.jpg">
   <img src="https://archive.org/download/kut-2022/kut-2022-07-23T09:06:17.432110-05:00.jpg"
-     alt="KUT at 2022-07-23 02:06:19-05:00 local time"
+     alt="KUT at 2022-07-23 09:06:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-07-23T09:06:17.432110-05:00.jpg">July 23 at 2:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kut-2022/kut-2022-07-22T21:31:03.750283-05:00.jpg">
-  <img src="https://archive.org/download/kut-2022/kut-2022-07-22T21:31:03.750283-05:00.jpg"
-     alt="KUT at 2022-07-22 14:31:06-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-07-22T21:31:03.750283-05:00.jpg">July 22 at 2:31 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kut-2022/kut-2022-07-22T09:06:34.343179-05:00.jpg">
-  <img src="https://archive.org/download/kut-2022/kut-2022-07-22T09:06:34.343179-05:00.jpg"
-     alt="KUT at 2022-07-22 02:06:35-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-07-22T09:06:34.343179-05:00.jpg">July 22 at 2:06 AM</a></p>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-07-23T09:06:17.432110-05:00.jpg">July 23 at 9:06 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,21 +148,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 12:05 PM](https://archive.org/download/kut-2022/kut-2022-07-27T19:05:00.717253-05:00.hyperlinks.json) |
-| [July 27 at 1:08 AM](https://archive.org/download/kut-2022/kut-2022-07-27T08:08:41.139711-05:00.hyperlinks.json) |
-| [July 26 at 12:13 PM](https://archive.org/download/kut-2022/kut-2022-07-26T19:12:53.401163-05:00.hyperlinks.json) |
-| [July 26 at 12:22 AM](https://archive.org/download/kut-2022/kut-2022-07-26T07:22:40.703527-05:00.hyperlinks.json) |
-| [July 25 at 12:17 PM](https://archive.org/download/kut-2022/kut-2022-07-25T19:16:58.163693-05:00.hyperlinks.json) |
-| [July 25 at 1:11 AM](https://archive.org/download/kut-2022/kut-2022-07-25T08:10:57.476873-05:00.hyperlinks.json) |
-| [July 24 at 3:26 PM](https://archive.org/download/kut-2022/kut-2022-07-24T22:26:37.678148-05:00.hyperlinks.json) |
-| [July 24 at 1:00 AM](https://archive.org/download/kut-2022/kut-2022-07-24T07:59:56.729704-05:00.hyperlinks.json) |
-| [July 23 at 4:15 PM](https://archive.org/download/kut-2022/kut-2022-07-23T23:15:06.629437-05:00.hyperlinks.json) |
-| [July 23 at 2:06 AM](https://archive.org/download/kut-2022/kut-2022-07-23T09:06:17.432110-05:00.hyperlinks.json) |
+| [July 28 at 7:12 PM](https://archive.org/download/kut-2022/kut-2022-07-28T19:12:47.432209-05:00.hyperlinks.json) |
+| [July 28 at 8:11 AM](https://archive.org/download/kut-2022/kut-2022-07-28T08:11:12.378163-05:00.hyperlinks.json) |
+| [July 27 at 7:05 PM](https://archive.org/download/kut-2022/kut-2022-07-27T19:05:00.717253-05:00.hyperlinks.json) |
+| [July 27 at 8:08 AM](https://archive.org/download/kut-2022/kut-2022-07-27T08:08:41.139711-05:00.hyperlinks.json) |
+| [July 26 at 7:13 PM](https://archive.org/download/kut-2022/kut-2022-07-26T19:12:53.401163-05:00.hyperlinks.json) |
+| [July 26 at 7:22 AM](https://archive.org/download/kut-2022/kut-2022-07-26T07:22:40.703527-05:00.hyperlinks.json) |
+| [July 25 at 7:17 PM](https://archive.org/download/kut-2022/kut-2022-07-25T19:16:58.163693-05:00.hyperlinks.json) |
+| [July 25 at 8:11 AM](https://archive.org/download/kut-2022/kut-2022-07-25T08:10:57.476873-05:00.hyperlinks.json) |
+| [July 24 at 10:26 PM](https://archive.org/download/kut-2022/kut-2022-07-24T22:26:37.678148-05:00.hyperlinks.json) |
+| [July 24 at 8:00 AM](https://archive.org/download/kut-2022/kut-2022-07-24T07:59:56.729704-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 22 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -170,22 +170,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 12:05 PM](https://archive.org/download/kut-2022/kut-2022-07-27T19:05:00.717253-05:00.accessibility.json) |
-| [July 27 at 1:08 AM](https://archive.org/download/kut-2022/kut-2022-07-27T08:08:41.139711-05:00.accessibility.json) |
-| [July 26 at 12:12 PM](https://archive.org/download/kut-2022/kut-2022-07-26T19:12:53.401163-05:00.accessibility.json) |
-| [July 26 at 12:22 AM](https://archive.org/download/kut-2022/kut-2022-07-26T07:22:40.703527-05:00.accessibility.json) |
-| [July 25 at 12:17 PM](https://archive.org/download/kut-2022/kut-2022-07-25T19:16:58.163693-05:00.accessibility.json) |
-| [July 25 at 1:11 AM](https://archive.org/download/kut-2022/kut-2022-07-25T08:10:57.476873-05:00.accessibility.json) |
-| [July 24 at 3:26 PM](https://archive.org/download/kut-2022/kut-2022-07-24T22:26:37.678148-05:00.accessibility.json) |
-| [July 24 at 1:00 AM](https://archive.org/download/kut-2022/kut-2022-07-24T07:59:56.729704-05:00.accessibility.json) |
-| [July 23 at 4:15 PM](https://archive.org/download/kut-2022/kut-2022-07-23T23:15:06.629437-05:00.accessibility.json) |
-| [July 23 at 2:06 AM](https://archive.org/download/kut-2022/kut-2022-07-23T09:06:17.432110-05:00.accessibility.json) |
+| [July 28 at 7:12 PM](https://archive.org/download/kut-2022/kut-2022-07-28T19:12:47.432209-05:00.accessibility.json) |
+| [July 28 at 8:11 AM](https://archive.org/download/kut-2022/kut-2022-07-28T08:11:12.378163-05:00.accessibility.json) |
+| [July 27 at 7:05 PM](https://archive.org/download/kut-2022/kut-2022-07-27T19:05:00.717253-05:00.accessibility.json) |
+| [July 27 at 8:08 AM](https://archive.org/download/kut-2022/kut-2022-07-27T08:08:41.139711-05:00.accessibility.json) |
+| [July 26 at 7:12 PM](https://archive.org/download/kut-2022/kut-2022-07-26T19:12:53.401163-05:00.accessibility.json) |
+| [July 26 at 7:22 AM](https://archive.org/download/kut-2022/kut-2022-07-26T07:22:40.703527-05:00.accessibility.json) |
+| [July 25 at 7:17 PM](https://archive.org/download/kut-2022/kut-2022-07-25T19:16:58.163693-05:00.accessibility.json) |
+| [July 25 at 8:11 AM](https://archive.org/download/kut-2022/kut-2022-07-25T08:10:57.476873-05:00.accessibility.json) |
+| [July 24 at 10:26 PM](https://archive.org/download/kut-2022/kut-2022-07-24T22:26:37.678148-05:00.accessibility.json) |
+| [July 24 at 8:00 AM](https://archive.org/download/kut-2022/kut-2022-07-24T07:59:56.729704-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,15 +193,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 12:05 PM](https://archive.org/download/kut-2022/kut-2022-07-27T19:05:00.717253-05:00.lighthouse.json) |
-| [July 27 at 1:08 AM](https://archive.org/download/kut-2022/kut-2022-07-27T08:08:41.139711-05:00.lighthouse.json) |
-| [July 26 at 12:13 PM](https://archive.org/download/kut-2022/kut-2022-07-26T19:12:53.401163-05:00.lighthouse.json) |
-| [July 26 at 12:22 AM](https://archive.org/download/kut-2022/kut-2022-07-26T07:22:40.703527-05:00.lighthouse.json) |
-| [July 25 at 12:17 PM](https://archive.org/download/kut-2022/kut-2022-07-25T19:16:58.163693-05:00.lighthouse.json) |
-| [July 25 at 1:11 AM](https://archive.org/download/kut-2022/kut-2022-07-25T08:10:57.476873-05:00.lighthouse.json) |
-| [July 24 at 3:26 PM](https://archive.org/download/kut-2022/kut-2022-07-24T22:26:37.678148-05:00.lighthouse.json) |
-| [July 24 at 1:00 AM](https://archive.org/download/kut-2022/kut-2022-07-24T07:59:56.729704-05:00.lighthouse.json) |
-| [July 23 at 4:15 PM](https://archive.org/download/kut-2022/kut-2022-07-23T23:15:06.629437-05:00.lighthouse.json) |
+| [July 28 at 7:12 PM](https://archive.org/download/kut-2022/kut-2022-07-28T19:12:47.432209-05:00.lighthouse.json) |
+| [July 28 at 8:11 AM](https://archive.org/download/kut-2022/kut-2022-07-28T08:11:12.378163-05:00.lighthouse.json) |
+| [July 27 at 7:05 PM](https://archive.org/download/kut-2022/kut-2022-07-27T19:05:00.717253-05:00.lighthouse.json) |
+| [July 27 at 8:08 AM](https://archive.org/download/kut-2022/kut-2022-07-27T08:08:41.139711-05:00.lighthouse.json) |
+| [July 26 at 7:13 PM](https://archive.org/download/kut-2022/kut-2022-07-26T19:12:53.401163-05:00.lighthouse.json) |
+| [July 26 at 7:22 AM](https://archive.org/download/kut-2022/kut-2022-07-26T07:22:40.703527-05:00.lighthouse.json) |
+| [July 25 at 7:17 PM](https://archive.org/download/kut-2022/kut-2022-07-25T19:16:58.163693-05:00.lighthouse.json) |
+| [July 25 at 8:11 AM](https://archive.org/download/kut-2022/kut-2022-07-25T08:10:57.476873-05:00.lighthouse.json) |
+| [July 24 at 10:26 PM](https://archive.org/download/kut-2022/kut-2022-07-24T22:26:37.678148-05:00.lighthouse.json) |
+| [July 24 at 8:00 AM](https://archive.org/download/kut-2022/kut-2022-07-24T07:59:56.729704-05:00.lighthouse.json) |
 
 
 

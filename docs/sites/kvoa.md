@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 48 screenshots with the Internet Archive.
+The archiving routine has saved 50 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-27T17:04:43.749908-07:00.jpg">
-  <img src="https://archive.org/download/kvoa-2022/kvoa-2022-07-27T17:04:43.749908-07:00.jpg"
-     alt="News 4 at 2022-07-27 10:04:50-07:00 local time"
+ <a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-28T17:12:39.224072-07:00.jpg">
+  <img src="https://archive.org/download/kvoa-2022/kvoa-2022-07-28T17:12:39.224072-07:00.jpg"
+     alt="News 4 at 2022-07-28 17:12:42-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-27T17:04:43.749908-07:00.jpg">July 27 at 10:04 AM</a></p>
+ <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-28T17:12:39.224072-07:00.jpg">July 28 at 5:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-28T06:11:01.893153-07:00.jpg">
+  <img src="https://archive.org/download/kvoa-2022/kvoa-2022-07-28T06:11:01.893153-07:00.jpg"
+     alt="News 4 at 2022-07-28 06:11:03-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-28T06:11:01.893153-07:00.jpg">July 28 at 6:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-27T17:04:43.749908-07:00.jpg">
+  <img src="https://archive.org/download/kvoa-2022/kvoa-2022-07-27T17:04:43.749908-07:00.jpg"
+     alt="News 4 at 2022-07-27 17:04:50-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-27T17:04:43.749908-07:00.jpg">July 27 at 5:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-27T06:08:37.016192-07:00.jpg">
   <img src="https://archive.org/download/kvoa-2022/kvoa-2022-07-27T06:08:37.016192-07:00.jpg"
-     alt="News 4 at 2022-07-26 23:08:38-07:00 local time"
+     alt="News 4 at 2022-07-27 06:08:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-27T06:08:37.016192-07:00.jpg">July 26 at 11:08 PM</a></p>
+ <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-27T06:08:37.016192-07:00.jpg">July 27 at 6:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-26T17:13:19.195176-07:00.jpg">
   <img src="https://archive.org/download/kvoa-2022/kvoa-2022-07-26T17:13:19.195176-07:00.jpg"
-     alt="News 4 at 2022-07-26 10:13:20-07:00 local time"
+     alt="News 4 at 2022-07-26 17:13:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-26T17:13:19.195176-07:00.jpg">July 26 at 10:13 AM</a></p>
+ <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-26T17:13:19.195176-07:00.jpg">July 26 at 5:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-26T05:23:10.557039-07:00.jpg">
   <img src="https://archive.org/download/kvoa-2022/kvoa-2022-07-26T05:23:10.557039-07:00.jpg"
-     alt="News 4 at 2022-07-25 22:23:12-07:00 local time"
+     alt="News 4 at 2022-07-26 05:23:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-26T05:23:10.557039-07:00.jpg">July 25 at 10:23 PM</a></p>
+ <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-26T05:23:10.557039-07:00.jpg">July 26 at 5:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-25T17:17:04.845333-07:00.jpg">
   <img src="https://archive.org/download/kvoa-2022/kvoa-2022-07-25T17:17:04.845333-07:00.jpg"
-     alt="News 4 at 2022-07-25 10:17:07-07:00 local time"
+     alt="News 4 at 2022-07-25 17:17:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-25T17:17:04.845333-07:00.jpg">July 25 at 10:17 AM</a></p>
+ <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-25T17:17:04.845333-07:00.jpg">July 25 at 5:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-25T06:11:59.370328-07:00.jpg">
   <img src="https://archive.org/download/kvoa-2022/kvoa-2022-07-25T06:11:59.370328-07:00.jpg"
-     alt="News 4 at 2022-07-24 23:12:01-07:00 local time"
+     alt="News 4 at 2022-07-25 06:12:01-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-25T06:11:59.370328-07:00.jpg">July 24 at 11:12 PM</a></p>
+ <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-25T06:11:59.370328-07:00.jpg">July 25 at 6:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-24T20:26:52.836257-07:00.jpg">
   <img src="https://archive.org/download/kvoa-2022/kvoa-2022-07-24T20:26:52.836257-07:00.jpg"
-     alt="News 4 at 2022-07-24 13:26:55-07:00 local time"
+     alt="News 4 at 2022-07-24 20:26:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-24T20:26:52.836257-07:00.jpg">July 24 at 1:26 PM</a></p>
+ <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-24T20:26:52.836257-07:00.jpg">July 24 at 8:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-24T05:59:59.782379-07:00.jpg">
   <img src="https://archive.org/download/kvoa-2022/kvoa-2022-07-24T05:59:59.782379-07:00.jpg"
-     alt="News 4 at 2022-07-23 23:00:01-07:00 local time"
+     alt="News 4 at 2022-07-24 06:00:01-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-24T05:59:59.782379-07:00.jpg">July 23 at 11:00 PM</a></p>
+ <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-24T05:59:59.782379-07:00.jpg">July 24 at 6:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-23T21:15:21.619949-07:00.jpg">
   <img src="https://archive.org/download/kvoa-2022/kvoa-2022-07-23T21:15:21.619949-07:00.jpg"
-     alt="News 4 at 2022-07-23 14:15:23-07:00 local time"
+     alt="News 4 at 2022-07-23 21:15:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-23T21:15:21.619949-07:00.jpg">July 23 at 2:15 PM</a></p>
+ <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-23T21:15:21.619949-07:00.jpg">July 23 at 9:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-23T07:06:14.918508-07:00.jpg">
   <img src="https://archive.org/download/kvoa-2022/kvoa-2022-07-23T07:06:14.918508-07:00.jpg"
-     alt="News 4 at 2022-07-23 00:06:17-07:00 local time"
+     alt="News 4 at 2022-07-23 07:06:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-23T07:06:14.918508-07:00.jpg">July 23 at 12:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-22T19:31:44.470140-07:00.jpg">
-  <img src="https://archive.org/download/kvoa-2022/kvoa-2022-07-22T19:31:44.470140-07:00.jpg"
-     alt="News 4 at 2022-07-22 12:31:45-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-22T19:31:44.470140-07:00.jpg">July 22 at 12:31 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-22T07:06:20.586421-07:00.jpg">
-  <img src="https://archive.org/download/kvoa-2022/kvoa-2022-07-22T07:06:20.586421-07:00.jpg"
-     alt="News 4 at 2022-07-22 00:06:23-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-22T07:06:20.586421-07:00.jpg">July 22 at 12:06 AM</a></p>
+ <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-07-23T07:06:14.918508-07:00.jpg">July 23 at 7:06 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 40 hyperlink lists with the Internet Archive.
+The archiving routine has saved 42 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 10:04 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-27T17:04:43.749908-07:00.hyperlinks.json) |
-| [July 26 at 11:08 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-27T06:08:37.016192-07:00.hyperlinks.json) |
-| [July 26 at 10:13 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-26T17:13:19.195176-07:00.hyperlinks.json) |
-| [July 25 at 10:23 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-26T05:23:10.557039-07:00.hyperlinks.json) |
-| [July 25 at 10:17 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-25T17:17:04.845333-07:00.hyperlinks.json) |
-| [July 24 at 11:12 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-25T06:11:59.370328-07:00.hyperlinks.json) |
-| [July 24 at 1:26 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-24T20:26:52.836257-07:00.hyperlinks.json) |
-| [July 23 at 2:15 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-23T21:15:21.619949-07:00.hyperlinks.json) |
-| [July 23 at 12:06 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-23T07:06:14.918508-07:00.hyperlinks.json) |
-| [July 22 at 12:31 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-22T19:31:44.470140-07:00.hyperlinks.json) |
+| [July 28 at 5:12 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-28T17:12:39.224072-07:00.hyperlinks.json) |
+| [July 28 at 6:11 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-28T06:11:01.893153-07:00.hyperlinks.json) |
+| [July 27 at 5:04 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-27T17:04:43.749908-07:00.hyperlinks.json) |
+| [July 27 at 6:08 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-27T06:08:37.016192-07:00.hyperlinks.json) |
+| [July 26 at 5:13 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-26T17:13:19.195176-07:00.hyperlinks.json) |
+| [July 26 at 5:23 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-26T05:23:10.557039-07:00.hyperlinks.json) |
+| [July 25 at 5:17 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-25T17:17:04.845333-07:00.hyperlinks.json) |
+| [July 25 at 6:12 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-25T06:11:59.370328-07:00.hyperlinks.json) |
+| [July 24 at 8:26 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-24T20:26:52.836257-07:00.hyperlinks.json) |
+| [July 23 at 9:15 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-23T21:15:21.619949-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 37 accessibility trees with the Internet Archive.
+The archiving routine has saved 39 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 10:04 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-27T17:04:43.749908-07:00.accessibility.json) |
-| [July 26 at 11:08 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-27T06:08:37.016192-07:00.accessibility.json) |
-| [July 25 at 10:23 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-26T05:23:10.557039-07:00.accessibility.json) |
-| [July 25 at 10:17 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-25T17:17:04.845333-07:00.accessibility.json) |
-| [July 24 at 1:26 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-24T20:26:52.836257-07:00.accessibility.json) |
-| [July 23 at 2:15 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-23T21:15:21.619949-07:00.accessibility.json) |
-| [July 23 at 12:06 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-23T07:06:14.918508-07:00.accessibility.json) |
-| [July 22 at 12:31 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-22T19:31:44.470140-07:00.accessibility.json) |
-| [July 22 at 12:06 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-22T07:06:20.586421-07:00.accessibility.json) |
-| [July 21 at 12:25 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-21T19:25:50.658827-07:00.accessibility.json) |
+| [July 28 at 5:12 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-28T17:12:39.224072-07:00.accessibility.json) |
+| [July 28 at 6:11 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-28T06:11:01.893153-07:00.accessibility.json) |
+| [July 27 at 5:04 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-27T17:04:43.749908-07:00.accessibility.json) |
+| [July 27 at 6:08 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-27T06:08:37.016192-07:00.accessibility.json) |
+| [July 26 at 5:23 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-26T05:23:10.557039-07:00.accessibility.json) |
+| [July 25 at 5:17 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-25T17:17:04.845333-07:00.accessibility.json) |
+| [July 24 at 8:26 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-24T20:26:52.836257-07:00.accessibility.json) |
+| [July 23 at 9:15 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-23T21:15:21.619949-07:00.accessibility.json) |
+| [July 23 at 7:06 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-23T07:06:14.918508-07:00.accessibility.json) |
+| [July 22 at 7:31 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-22T19:31:44.470140-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,15 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 10:05 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-27T17:04:43.749908-07:00.lighthouse.json) |
-| [July 26 at 11:08 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-27T06:08:37.016192-07:00.lighthouse.json) |
-| [July 26 at 10:13 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-26T17:13:19.195176-07:00.lighthouse.json) |
-| [July 25 at 10:23 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-26T05:23:10.557039-07:00.lighthouse.json) |
-| [July 25 at 10:17 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-25T17:17:04.845333-07:00.lighthouse.json) |
-| [July 24 at 11:12 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-25T06:11:59.370328-07:00.lighthouse.json) |
-| [July 24 at 1:27 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-24T20:26:52.836257-07:00.lighthouse.json) |
-| [July 23 at 11:00 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-24T05:59:59.782379-07:00.lighthouse.json) |
-| [July 23 at 2:15 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-23T21:15:21.619949-07:00.lighthouse.json) |
+| [July 28 at 5:12 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-28T17:12:39.224072-07:00.lighthouse.json) |
+| [July 28 at 6:11 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-28T06:11:01.893153-07:00.lighthouse.json) |
+| [July 27 at 5:05 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-27T17:04:43.749908-07:00.lighthouse.json) |
+| [July 27 at 6:08 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-27T06:08:37.016192-07:00.lighthouse.json) |
+| [July 26 at 5:13 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-26T17:13:19.195176-07:00.lighthouse.json) |
+| [July 26 at 5:23 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-26T05:23:10.557039-07:00.lighthouse.json) |
+| [July 25 at 5:17 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-25T17:17:04.845333-07:00.lighthouse.json) |
+| [July 25 at 6:12 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-25T06:11:59.370328-07:00.lighthouse.json) |
+| [July 24 at 8:27 PM](https://archive.org/download/kvoa-2022/kvoa-2022-07-24T20:26:52.836257-07:00.lighthouse.json) |
+| [July 24 at 6:00 AM](https://archive.org/download/kvoa-2022/kvoa-2022-07-24T05:59:59.782379-07:00.lighthouse.json) |
 
 
 

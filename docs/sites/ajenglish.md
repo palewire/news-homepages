@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 85 screenshots with the Internet Archive.
+The archiving routine has saved 86 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T14:04:13.809706+03:00.jpg">
-  <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T14:04:13.809706+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-28 07:04:17+03:00 local time"
+ <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-29T02:06:07.422143+03:00.jpg">
+  <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-29T02:06:07.422143+03:00.jpg"
+     alt="Al Jazeera English at 2022-07-29 02:06:08+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T14:04:13.809706+03:00.jpg">July 28 at 7:04 AM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-29T02:06:07.422143+03:00.jpg">July 29 at 2:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T14:04:13.809706+03:00.jpg">
+  <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T14:04:13.809706+03:00.jpg"
+     alt="Al Jazeera English at 2022-07-28 14:04:17+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T14:04:13.809706+03:00.jpg">July 28 at 2:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T02:00:13.607081+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T02:00:13.607081+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-27 19:00:17+03:00 local time"
+     alt="Al Jazeera English at 2022-07-28 02:00:17+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T02:00:13.607081+03:00.jpg">July 27 at 7:00 PM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T02:00:13.607081+03:00.jpg">July 28 at 2:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T14:00:55.149455+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T14:00:55.149455+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-27 07:00:58+03:00 local time"
+     alt="Al Jazeera English at 2022-07-27 14:00:58+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T14:00:55.149455+03:00.jpg">July 27 at 7:00 AM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T14:00:55.149455+03:00.jpg">July 27 at 2:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T02:01:42.375549+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T02:01:42.375549+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-26 19:01:50+03:00 local time"
+     alt="Al Jazeera English at 2022-07-27 02:01:50+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T02:01:42.375549+03:00.jpg">July 26 at 7:01 PM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T02:01:42.375549+03:00.jpg">July 27 at 2:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T14:10:58.650113+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T14:10:58.650113+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-26 07:11:07+03:00 local time"
+     alt="Al Jazeera English at 2022-07-26 14:11:07+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T14:10:58.650113+03:00.jpg">July 26 at 7:11 AM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T14:10:58.650113+03:00.jpg">July 26 at 2:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T02:06:59.720280+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T02:06:59.720280+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-25 19:07:03+03:00 local time"
+     alt="Al Jazeera English at 2022-07-26 02:07:03+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T02:06:59.720280+03:00.jpg">July 25 at 7:07 PM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T02:06:59.720280+03:00.jpg">July 26 at 2:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T13:56:43.173087+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T13:56:43.173087+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-25 06:56:46+03:00 local time"
+     alt="Al Jazeera English at 2022-07-25 13:56:46+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T13:56:43.173087+03:00.jpg">July 25 at 6:56 AM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T13:56:43.173087+03:00.jpg">July 25 at 1:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T03:46:02.941732+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T03:46:02.941732+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-24 20:46:06+03:00 local time"
+     alt="Al Jazeera English at 2022-07-25 03:46:06+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T03:46:02.941732+03:00.jpg">July 24 at 8:46 PM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T03:46:02.941732+03:00.jpg">July 25 at 3:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T13:56:38.053565+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T13:56:38.053565+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-24 06:56:40+03:00 local time"
+     alt="Al Jazeera English at 2022-07-24 13:56:40+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T13:56:38.053565+03:00.jpg">July 24 at 6:56 AM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T13:56:38.053565+03:00.jpg">July 24 at 1:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T01:57:58.084262+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T01:57:58.084262+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-23 18:58:04+03:00 local time"
+     alt="Al Jazeera English at 2022-07-24 01:58:04+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T01:57:58.084262+03:00.jpg">July 23 at 6:58 PM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T01:57:58.084262+03:00.jpg">July 24 at 1:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T15:54:18.108788+03:00.jpg">
   <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T15:54:18.108788+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-23 08:54:19+03:00 local time"
+     alt="Al Jazeera English at 2022-07-23 15:54:19+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T15:54:18.108788+03:00.jpg">July 23 at 8:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T03:55:39.852142+03:00.jpg">
-  <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T03:55:39.852142+03:00.jpg"
-     alt="Al Jazeera English at 2022-07-22 20:55:42+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T03:55:39.852142+03:00.jpg">July 22 at 8:55 PM</a></p>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-07-23T15:54:18.108788+03:00.jpg">July 23 at 3:54 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 84 hyperlink lists with the Internet Archive.
+The archiving routine has saved 85 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 7:04 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T14:04:13.809706+03:00.hyperlinks.json) |
-| [July 27 at 7:00 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T02:00:13.607081+03:00.hyperlinks.json) |
-| [July 27 at 7:01 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T14:00:55.149455+03:00.hyperlinks.json) |
-| [July 26 at 7:01 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T02:01:42.375549+03:00.hyperlinks.json) |
-| [July 26 at 7:11 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T14:10:58.650113+03:00.hyperlinks.json) |
-| [July 25 at 7:07 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T02:06:59.720280+03:00.hyperlinks.json) |
-| [July 25 at 6:56 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T13:56:43.173087+03:00.hyperlinks.json) |
-| [July 24 at 8:46 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T03:46:02.941732+03:00.hyperlinks.json) |
-| [July 24 at 6:56 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T13:56:38.053565+03:00.hyperlinks.json) |
-| [July 23 at 6:58 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T01:57:58.084262+03:00.hyperlinks.json) |
+| [July 29 at 2:06 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-29T02:06:07.422143+03:00.hyperlinks.json) |
+| [July 28 at 2:04 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T14:04:13.809706+03:00.hyperlinks.json) |
+| [July 28 at 2:00 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T02:00:13.607081+03:00.hyperlinks.json) |
+| [July 27 at 2:01 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T14:00:55.149455+03:00.hyperlinks.json) |
+| [July 27 at 2:01 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T02:01:42.375549+03:00.hyperlinks.json) |
+| [July 26 at 2:11 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T14:10:58.650113+03:00.hyperlinks.json) |
+| [July 26 at 2:07 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T02:06:59.720280+03:00.hyperlinks.json) |
+| [July 25 at 1:56 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T13:56:43.173087+03:00.hyperlinks.json) |
+| [July 25 at 3:46 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T03:46:02.941732+03:00.hyperlinks.json) |
+| [July 24 at 1:56 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T13:56:38.053565+03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 85 accessibility trees with the Internet Archive.
+The archiving routine has saved 86 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 7:04 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T14:04:13.809706+03:00.accessibility.json) |
-| [July 27 at 7:00 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T02:00:13.607081+03:00.accessibility.json) |
-| [July 27 at 7:01 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T14:00:55.149455+03:00.accessibility.json) |
-| [July 26 at 7:01 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T02:01:42.375549+03:00.accessibility.json) |
-| [July 26 at 7:11 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T14:10:58.650113+03:00.accessibility.json) |
-| [July 25 at 7:07 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T02:06:59.720280+03:00.accessibility.json) |
-| [July 25 at 6:56 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T13:56:43.173087+03:00.accessibility.json) |
-| [July 24 at 8:46 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T03:46:02.941732+03:00.accessibility.json) |
-| [July 24 at 6:56 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T13:56:38.053565+03:00.accessibility.json) |
-| [July 23 at 6:58 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T01:57:58.084262+03:00.accessibility.json) |
+| [July 29 at 2:06 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-29T02:06:07.422143+03:00.accessibility.json) |
+| [July 28 at 2:04 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T14:04:13.809706+03:00.accessibility.json) |
+| [July 28 at 2:00 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T02:00:13.607081+03:00.accessibility.json) |
+| [July 27 at 2:01 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T14:00:55.149455+03:00.accessibility.json) |
+| [July 27 at 2:01 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T02:01:42.375549+03:00.accessibility.json) |
+| [July 26 at 2:11 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T14:10:58.650113+03:00.accessibility.json) |
+| [July 26 at 2:07 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T02:06:59.720280+03:00.accessibility.json) |
+| [July 25 at 1:56 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T13:56:43.173087+03:00.accessibility.json) |
+| [July 25 at 3:46 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T03:46:02.941732+03:00.accessibility.json) |
+| [July 24 at 1:56 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T13:56:38.053565+03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 7:04 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T14:04:13.809706+03:00.lighthouse.json) |
-| [July 27 at 7:00 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T02:00:13.607081+03:00.lighthouse.json) |
-| [July 27 at 7:01 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T14:00:55.149455+03:00.lighthouse.json) |
-| [July 26 at 7:01 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T02:01:42.375549+03:00.lighthouse.json) |
-| [July 26 at 7:11 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T14:10:58.650113+03:00.lighthouse.json) |
-| [July 25 at 7:07 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T02:06:59.720280+03:00.lighthouse.json) |
-| [July 25 at 6:56 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T13:56:43.173087+03:00.lighthouse.json) |
-| [July 24 at 8:46 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T03:46:02.941732+03:00.lighthouse.json) |
-| [July 24 at 6:56 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T13:56:38.053565+03:00.lighthouse.json) |
-| [July 23 at 6:58 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T01:57:58.084262+03:00.lighthouse.json) |
+| [July 29 at 2:06 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-29T02:06:07.422143+03:00.lighthouse.json) |
+| [July 28 at 2:04 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T14:04:13.809706+03:00.lighthouse.json) |
+| [July 28 at 2:00 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-28T02:00:13.607081+03:00.lighthouse.json) |
+| [July 27 at 2:01 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T14:00:55.149455+03:00.lighthouse.json) |
+| [July 27 at 2:01 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-27T02:01:42.375549+03:00.lighthouse.json) |
+| [July 26 at 2:11 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T14:10:58.650113+03:00.lighthouse.json) |
+| [July 26 at 2:07 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-26T02:06:59.720280+03:00.lighthouse.json) |
+| [July 25 at 1:56 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T13:56:43.173087+03:00.lighthouse.json) |
+| [July 25 at 3:46 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-25T03:46:02.941732+03:00.lighthouse.json) |
+| [July 24 at 1:56 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-07-24T13:56:38.053565+03:00.lighthouse.json) |
 
 
 

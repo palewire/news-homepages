@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 290 screenshots with the Internet Archive.
+The archiving routine has saved 292 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-27T19:40:43.581556-07:00.jpg">
-  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-27T19:40:43.581556-07:00.jpg"
-     alt="KPCC at 2022-07-27 12:40:53-07:00 local time"
+ <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-28T11:41:30.559469-07:00.jpg">
+  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-28T11:41:30.559469-07:00.jpg"
+     alt="KPCC at 2022-07-28 11:41:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-27T19:40:43.581556-07:00.jpg">July 27 at 12:40 PM</a></p>
+ <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-28T11:41:30.559469-07:00.jpg">July 28 at 11:41 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-28T08:43:42.504725-07:00.jpg">
+  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-28T08:43:42.504725-07:00.jpg"
+     alt="KPCC at 2022-07-28 08:43:46-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-28T08:43:42.504725-07:00.jpg">July 28 at 8:43 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-27T19:40:43.581556-07:00.jpg">
+  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-27T19:40:43.581556-07:00.jpg"
+     alt="KPCC at 2022-07-27 19:40:53-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-27T19:40:43.581556-07:00.jpg">July 27 at 7:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-27T07:33:59.032717-07:00.jpg">
   <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-27T07:33:59.032717-07:00.jpg"
-     alt="KPCC at 2022-07-27 00:34:09-07:00 local time"
+     alt="KPCC at 2022-07-27 07:34:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-27T07:33:59.032717-07:00.jpg">July 27 at 12:34 AM</a></p>
+ <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-27T07:33:59.032717-07:00.jpg">July 27 at 7:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-26T19:40:08.791011-07:00.jpg">
   <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-26T19:40:08.791011-07:00.jpg"
-     alt="KPCC at 2022-07-26 12:40:16-07:00 local time"
+     alt="KPCC at 2022-07-26 19:40:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-26T19:40:08.791011-07:00.jpg">July 26 at 12:40 PM</a></p>
+ <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-26T19:40:08.791011-07:00.jpg">July 26 at 7:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-26T11:33:37.116444-07:00.jpg">
   <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-26T11:33:37.116444-07:00.jpg"
-     alt="KPCC at 2022-07-26 04:33:38-07:00 local time"
+     alt="KPCC at 2022-07-26 11:33:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-26T11:33:37.116444-07:00.jpg">July 26 at 4:33 AM</a></p>
+ <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-26T11:33:37.116444-07:00.jpg">July 26 at 11:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-26T07:37:39.742064-07:00.jpg">
   <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-26T07:37:39.742064-07:00.jpg"
-     alt="KPCC at 2022-07-26 00:37:41-07:00 local time"
+     alt="KPCC at 2022-07-26 07:37:41-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-26T07:37:39.742064-07:00.jpg">July 26 at 12:37 AM</a></p>
+ <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-26T07:37:39.742064-07:00.jpg">July 26 at 7:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T19:46:07.639802-07:00.jpg">
   <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T19:46:07.639802-07:00.jpg"
-     alt="KPCC at 2022-07-25 12:46:13-07:00 local time"
+     alt="KPCC at 2022-07-25 19:46:13-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T19:46:07.639802-07:00.jpg">July 25 at 12:46 PM</a></p>
+ <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T19:46:07.639802-07:00.jpg">July 25 at 7:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T11:13:19.949635-07:00.jpg">
   <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T11:13:19.949635-07:00.jpg"
-     alt="KPCC at 2022-07-25 04:13:22-07:00 local time"
+     alt="KPCC at 2022-07-25 11:13:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T11:13:19.949635-07:00.jpg">July 25 at 4:13 AM</a></p>
+ <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T11:13:19.949635-07:00.jpg">July 25 at 11:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T06:11:49.994696-07:00.jpg">
   <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T06:11:49.994696-07:00.jpg"
-     alt="KPCC at 2022-07-24 23:11:51-07:00 local time"
+     alt="KPCC at 2022-07-25 06:11:51-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T06:11:49.994696-07:00.jpg">July 24 at 11:11 PM</a></p>
+ <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-25T06:11:49.994696-07:00.jpg">July 25 at 6:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-24T20:26:33.902745-07:00.jpg">
   <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-24T20:26:33.902745-07:00.jpg"
-     alt="KPCC at 2022-07-24 13:26:35-07:00 local time"
+     alt="KPCC at 2022-07-24 20:26:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-24T20:26:33.902745-07:00.jpg">July 24 at 1:26 PM</a></p>
+ <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-24T20:26:33.902745-07:00.jpg">July 24 at 8:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-24T11:20:47.819878-07:00.jpg">
   <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-24T11:20:47.819878-07:00.jpg"
-     alt="KPCC at 2022-07-24 04:20:53-07:00 local time"
+     alt="KPCC at 2022-07-24 11:20:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-24T11:20:47.819878-07:00.jpg">July 24 at 4:20 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-24T06:00:13.672391-07:00.jpg">
-  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-24T06:00:13.672391-07:00.jpg"
-     alt="KPCC at 2022-07-23 23:00:15-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-24T06:00:13.672391-07:00.jpg">July 23 at 11:00 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-23T21:15:15.045983-07:00.jpg">
-  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-07-23T21:15:15.045983-07:00.jpg"
-     alt="KPCC at 2022-07-23 14:15:24-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-23T21:15:15.045983-07:00.jpg">July 23 at 2:15 PM</a></p>
+ <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-07-24T11:20:47.819878-07:00.jpg">July 24 at 11:20 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 276 hyperlink lists with the Internet Archive.
+The archiving routine has saved 278 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 12:40 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-27T19:40:43.581556-07:00.hyperlinks.json) |
-| [July 27 at 12:34 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-27T07:33:59.032717-07:00.hyperlinks.json) |
-| [July 26 at 12:40 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T19:40:08.791011-07:00.hyperlinks.json) |
-| [July 26 at 4:33 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T11:33:37.116444-07:00.hyperlinks.json) |
-| [July 26 at 12:37 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T07:37:39.742064-07:00.hyperlinks.json) |
-| [July 25 at 12:46 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T19:46:07.639802-07:00.hyperlinks.json) |
-| [July 25 at 4:13 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T11:13:19.949635-07:00.hyperlinks.json) |
-| [July 24 at 11:11 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T06:11:49.994696-07:00.hyperlinks.json) |
-| [July 24 at 1:26 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-24T20:26:33.902745-07:00.hyperlinks.json) |
-| [July 24 at 4:20 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-24T11:20:47.819878-07:00.hyperlinks.json) |
+| [July 28 at 11:41 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-28T11:41:30.559469-07:00.hyperlinks.json) |
+| [July 28 at 8:43 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-28T08:43:42.504725-07:00.hyperlinks.json) |
+| [July 27 at 7:40 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-27T19:40:43.581556-07:00.hyperlinks.json) |
+| [July 27 at 7:34 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-27T07:33:59.032717-07:00.hyperlinks.json) |
+| [July 26 at 7:40 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T19:40:08.791011-07:00.hyperlinks.json) |
+| [July 26 at 11:33 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T11:33:37.116444-07:00.hyperlinks.json) |
+| [July 26 at 7:37 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T07:37:39.742064-07:00.hyperlinks.json) |
+| [July 25 at 7:46 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T19:46:07.639802-07:00.hyperlinks.json) |
+| [July 25 at 11:13 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T11:13:19.949635-07:00.hyperlinks.json) |
+| [July 25 at 6:11 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T06:11:49.994696-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 278 accessibility trees with the Internet Archive.
+The archiving routine has saved 280 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 12:40 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-27T19:40:43.581556-07:00.accessibility.json) |
-| [July 27 at 12:34 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-27T07:33:59.032717-07:00.accessibility.json) |
-| [July 26 at 12:40 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T19:40:08.791011-07:00.accessibility.json) |
-| [July 26 at 4:33 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T11:33:37.116444-07:00.accessibility.json) |
-| [July 26 at 12:37 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T07:37:39.742064-07:00.accessibility.json) |
-| [July 25 at 12:46 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T19:46:07.639802-07:00.accessibility.json) |
-| [July 25 at 4:13 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T11:13:19.949635-07:00.accessibility.json) |
-| [July 24 at 11:11 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T06:11:49.994696-07:00.accessibility.json) |
-| [July 24 at 1:26 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-24T20:26:33.902745-07:00.accessibility.json) |
-| [July 24 at 4:20 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-24T11:20:47.819878-07:00.accessibility.json) |
+| [July 28 at 11:41 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-28T11:41:30.559469-07:00.accessibility.json) |
+| [July 28 at 8:43 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-28T08:43:42.504725-07:00.accessibility.json) |
+| [July 27 at 7:40 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-27T19:40:43.581556-07:00.accessibility.json) |
+| [July 27 at 7:34 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-27T07:33:59.032717-07:00.accessibility.json) |
+| [July 26 at 7:40 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T19:40:08.791011-07:00.accessibility.json) |
+| [July 26 at 11:33 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T11:33:37.116444-07:00.accessibility.json) |
+| [July 26 at 7:37 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T07:37:39.742064-07:00.accessibility.json) |
+| [July 25 at 7:46 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T19:46:07.639802-07:00.accessibility.json) |
+| [July 25 at 11:13 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T11:13:19.949635-07:00.accessibility.json) |
+| [July 25 at 6:11 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T06:11:49.994696-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 12:40 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-27T19:40:43.581556-07:00.lighthouse.json) |
-| [July 27 at 12:34 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-27T07:33:59.032717-07:00.lighthouse.json) |
-| [July 26 at 12:40 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T19:40:08.791011-07:00.lighthouse.json) |
-| [July 26 at 4:33 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T11:33:37.116444-07:00.lighthouse.json) |
-| [July 26 at 12:37 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T07:37:39.742064-07:00.lighthouse.json) |
-| [July 25 at 12:46 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T19:46:07.639802-07:00.lighthouse.json) |
-| [July 25 at 4:13 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T11:13:19.949635-07:00.lighthouse.json) |
-| [July 24 at 11:11 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T06:11:49.994696-07:00.lighthouse.json) |
-| [July 24 at 1:26 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-24T20:26:33.902745-07:00.lighthouse.json) |
-| [July 24 at 4:21 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-24T11:20:47.819878-07:00.lighthouse.json) |
+| [July 28 at 11:41 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-28T11:41:30.559469-07:00.lighthouse.json) |
+| [July 28 at 8:43 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-28T08:43:42.504725-07:00.lighthouse.json) |
+| [July 27 at 7:40 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-27T19:40:43.581556-07:00.lighthouse.json) |
+| [July 27 at 7:34 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-27T07:33:59.032717-07:00.lighthouse.json) |
+| [July 26 at 7:40 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T19:40:08.791011-07:00.lighthouse.json) |
+| [July 26 at 11:33 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T11:33:37.116444-07:00.lighthouse.json) |
+| [July 26 at 7:37 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-26T07:37:39.742064-07:00.lighthouse.json) |
+| [July 25 at 7:46 PM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T19:46:07.639802-07:00.lighthouse.json) |
+| [July 25 at 11:13 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T11:13:19.949635-07:00.lighthouse.json) |
+| [July 25 at 6:11 AM](https://archive.org/download/kpcc-2022/kpcc-2022-07-25T06:11:49.994696-07:00.lighthouse.json) |
 
 
 

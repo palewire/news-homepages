@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 48 screenshots with the Internet Archive.
+The archiving routine has saved 50 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-27T19:05:17.219738-05:00.jpg">
-  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-27T19:05:17.219738-05:00.jpg"
-     alt="Kansas City Star at 2022-07-27 12:05:19-05:00 local time"
+ <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-28T19:12:27.056480-05:00.jpg">
+  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-28T19:12:27.056480-05:00.jpg"
+     alt="Kansas City Star at 2022-07-28 19:12:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-27T19:05:17.219738-05:00.jpg">July 27 at 12:05 PM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-28T19:12:27.056480-05:00.jpg">July 28 at 7:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-28T08:10:41.733462-05:00.jpg">
+  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-28T08:10:41.733462-05:00.jpg"
+     alt="Kansas City Star at 2022-07-28 08:10:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-28T08:10:41.733462-05:00.jpg">July 28 at 8:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-27T19:05:17.219738-05:00.jpg">
+  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-27T19:05:17.219738-05:00.jpg"
+     alt="Kansas City Star at 2022-07-27 19:05:19-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-27T19:05:17.219738-05:00.jpg">July 27 at 7:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-27T08:08:02.027222-05:00.jpg">
   <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-27T08:08:02.027222-05:00.jpg"
-     alt="Kansas City Star at 2022-07-27 01:08:05-05:00 local time"
+     alt="Kansas City Star at 2022-07-27 08:08:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-27T08:08:02.027222-05:00.jpg">July 27 at 1:08 AM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-27T08:08:02.027222-05:00.jpg">July 27 at 8:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-26T19:12:33.123995-05:00.jpg">
   <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-26T19:12:33.123995-05:00.jpg"
-     alt="Kansas City Star at 2022-07-26 12:12:35-05:00 local time"
+     alt="Kansas City Star at 2022-07-26 19:12:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-26T19:12:33.123995-05:00.jpg">July 26 at 12:12 PM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-26T19:12:33.123995-05:00.jpg">July 26 at 7:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-26T07:20:56.001393-05:00.jpg">
   <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-26T07:20:56.001393-05:00.jpg"
-     alt="Kansas City Star at 2022-07-26 00:21:08-05:00 local time"
+     alt="Kansas City Star at 2022-07-26 07:21:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-26T07:20:56.001393-05:00.jpg">July 26 at 12:21 AM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-26T07:20:56.001393-05:00.jpg">July 26 at 7:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-25T19:16:04.682027-05:00.jpg">
   <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-25T19:16:04.682027-05:00.jpg"
-     alt="Kansas City Star at 2022-07-25 12:16:07-05:00 local time"
+     alt="Kansas City Star at 2022-07-25 19:16:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-25T19:16:04.682027-05:00.jpg">July 25 at 12:16 PM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-25T19:16:04.682027-05:00.jpg">July 25 at 7:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-25T08:09:38.235694-05:00.jpg">
   <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-25T08:09:38.235694-05:00.jpg"
-     alt="Kansas City Star at 2022-07-25 01:09:39-05:00 local time"
+     alt="Kansas City Star at 2022-07-25 08:09:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-25T08:09:38.235694-05:00.jpg">July 25 at 1:09 AM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-25T08:09:38.235694-05:00.jpg">July 25 at 8:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-24T22:26:37.487377-05:00.jpg">
   <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-24T22:26:37.487377-05:00.jpg"
-     alt="Kansas City Star at 2022-07-24 15:26:38-05:00 local time"
+     alt="Kansas City Star at 2022-07-24 22:26:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-24T22:26:37.487377-05:00.jpg">July 24 at 3:26 PM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-24T22:26:37.487377-05:00.jpg">July 24 at 10:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-24T07:58:57.991673-05:00.jpg">
   <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-24T07:58:57.991673-05:00.jpg"
-     alt="Kansas City Star at 2022-07-24 00:58:59-05:00 local time"
+     alt="Kansas City Star at 2022-07-24 07:58:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-24T07:58:57.991673-05:00.jpg">July 24 at 12:58 AM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-24T07:58:57.991673-05:00.jpg">July 24 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-23T23:15:03.459342-05:00.jpg">
   <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-23T23:15:03.459342-05:00.jpg"
-     alt="Kansas City Star at 2022-07-23 16:15:06-05:00 local time"
+     alt="Kansas City Star at 2022-07-23 23:15:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-23T23:15:03.459342-05:00.jpg">July 23 at 4:15 PM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-23T23:15:03.459342-05:00.jpg">July 23 at 11:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-23T09:05:06.157207-05:00.jpg">
   <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-23T09:05:06.157207-05:00.jpg"
-     alt="Kansas City Star at 2022-07-23 02:05:08-05:00 local time"
+     alt="Kansas City Star at 2022-07-23 09:05:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-23T09:05:06.157207-05:00.jpg">July 23 at 2:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-22T21:30:42.883547-05:00.jpg">
-  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-22T21:30:42.883547-05:00.jpg"
-     alt="Kansas City Star at 2022-07-22 14:30:44-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-22T21:30:42.883547-05:00.jpg">July 22 at 2:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-22T09:05:20.016466-05:00.jpg">
-  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-07-22T09:05:20.016466-05:00.jpg"
-     alt="Kansas City Star at 2022-07-22 02:05:22-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-22T09:05:20.016466-05:00.jpg">July 22 at 2:05 AM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-23T09:05:06.157207-05:00.jpg">July 23 at 9:05 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 40 hyperlink lists with the Internet Archive.
+The archiving routine has saved 42 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 12:05 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-27T19:05:17.219738-05:00.hyperlinks.json) |
-| [July 27 at 1:08 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-27T08:08:02.027222-05:00.hyperlinks.json) |
-| [July 26 at 12:12 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-26T19:12:33.123995-05:00.hyperlinks.json) |
-| [July 26 at 12:21 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-26T07:20:56.001393-05:00.hyperlinks.json) |
-| [July 25 at 12:16 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-25T19:16:04.682027-05:00.hyperlinks.json) |
-| [July 24 at 3:26 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-24T22:26:37.487377-05:00.hyperlinks.json) |
-| [July 23 at 4:15 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-23T23:15:03.459342-05:00.hyperlinks.json) |
-| [July 23 at 2:05 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-23T09:05:06.157207-05:00.hyperlinks.json) |
-| [July 22 at 2:30 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-22T21:30:42.883547-05:00.hyperlinks.json) |
-| [July 22 at 2:05 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-22T09:05:20.016466-05:00.hyperlinks.json) |
+| [July 28 at 7:12 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-28T19:12:27.056480-05:00.hyperlinks.json) |
+| [July 28 at 8:10 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-28T08:10:41.733462-05:00.hyperlinks.json) |
+| [July 27 at 7:05 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-27T19:05:17.219738-05:00.hyperlinks.json) |
+| [July 27 at 8:08 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-27T08:08:02.027222-05:00.hyperlinks.json) |
+| [July 26 at 7:12 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-26T19:12:33.123995-05:00.hyperlinks.json) |
+| [July 26 at 7:21 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-26T07:20:56.001393-05:00.hyperlinks.json) |
+| [July 25 at 7:16 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-25T19:16:04.682027-05:00.hyperlinks.json) |
+| [July 24 at 10:26 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-24T22:26:37.487377-05:00.hyperlinks.json) |
+| [July 23 at 11:15 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-23T23:15:03.459342-05:00.hyperlinks.json) |
+| [July 23 at 9:05 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-23T09:05:06.157207-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 48 accessibility trees with the Internet Archive.
+The archiving routine has saved 50 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 12:05 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-27T19:05:17.219738-05:00.accessibility.json) |
-| [July 27 at 1:08 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-27T08:08:02.027222-05:00.accessibility.json) |
-| [July 26 at 12:12 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-26T19:12:33.123995-05:00.accessibility.json) |
-| [July 26 at 12:21 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-26T07:20:56.001393-05:00.accessibility.json) |
-| [July 25 at 12:16 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-25T19:16:04.682027-05:00.accessibility.json) |
-| [July 25 at 1:09 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-25T08:09:38.235694-05:00.accessibility.json) |
-| [July 24 at 3:26 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-24T22:26:37.487377-05:00.accessibility.json) |
-| [July 24 at 12:59 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-24T07:58:57.991673-05:00.accessibility.json) |
-| [July 23 at 4:15 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-23T23:15:03.459342-05:00.accessibility.json) |
-| [July 23 at 2:05 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-23T09:05:06.157207-05:00.accessibility.json) |
+| [July 28 at 7:12 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-28T19:12:27.056480-05:00.accessibility.json) |
+| [July 28 at 8:10 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-28T08:10:41.733462-05:00.accessibility.json) |
+| [July 27 at 7:05 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-27T19:05:17.219738-05:00.accessibility.json) |
+| [July 27 at 8:08 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-27T08:08:02.027222-05:00.accessibility.json) |
+| [July 26 at 7:12 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-26T19:12:33.123995-05:00.accessibility.json) |
+| [July 26 at 7:21 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-26T07:20:56.001393-05:00.accessibility.json) |
+| [July 25 at 7:16 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-25T19:16:04.682027-05:00.accessibility.json) |
+| [July 25 at 8:09 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-25T08:09:38.235694-05:00.accessibility.json) |
+| [July 24 at 10:26 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-24T22:26:37.487377-05:00.accessibility.json) |
+| [July 24 at 7:59 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-24T07:58:57.991673-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,15 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 12:05 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-27T19:05:17.219738-05:00.lighthouse.json) |
-| [July 27 at 1:08 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-27T08:08:02.027222-05:00.lighthouse.json) |
-| [July 26 at 12:12 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-26T19:12:33.123995-05:00.lighthouse.json) |
-| [July 26 at 12:21 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-26T07:20:56.001393-05:00.lighthouse.json) |
-| [July 25 at 12:16 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-25T19:16:04.682027-05:00.lighthouse.json) |
-| [July 25 at 1:09 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-25T08:09:38.235694-05:00.lighthouse.json) |
-| [July 24 at 3:26 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-24T22:26:37.487377-05:00.lighthouse.json) |
-| [July 24 at 12:59 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-24T07:58:57.991673-05:00.lighthouse.json) |
-| [July 23 at 4:15 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-23T23:15:03.459342-05:00.lighthouse.json) |
+| [July 28 at 7:12 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-28T19:12:27.056480-05:00.lighthouse.json) |
+| [July 28 at 8:10 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-28T08:10:41.733462-05:00.lighthouse.json) |
+| [July 27 at 7:05 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-27T19:05:17.219738-05:00.lighthouse.json) |
+| [July 27 at 8:08 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-27T08:08:02.027222-05:00.lighthouse.json) |
+| [July 26 at 7:12 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-26T19:12:33.123995-05:00.lighthouse.json) |
+| [July 26 at 7:21 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-26T07:20:56.001393-05:00.lighthouse.json) |
+| [July 25 at 7:16 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-25T19:16:04.682027-05:00.lighthouse.json) |
+| [July 25 at 8:09 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-25T08:09:38.235694-05:00.lighthouse.json) |
+| [July 24 at 10:26 PM](https://archive.org/download/kcstar-2022/kcstar-2022-07-24T22:26:37.487377-05:00.lighthouse.json) |
+| [July 24 at 7:59 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-24T07:58:57.991673-05:00.lighthouse.json) |
 
 
 

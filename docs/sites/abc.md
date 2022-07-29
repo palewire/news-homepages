@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 475 screenshots with the Internet Archive.
+The archiving routine has saved 478 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/abc-2022/abc-2022-07-28T07:03:15.297324-04:00.jpg">
-  <img src="https://archive.org/download/abc-2022/abc-2022-07-28T07:03:15.297324-04:00.jpg"
-     alt="ABC News at 2022-07-28 00:03:24-04:00 local time"
+ <a href="https://archive.org/download/abc-2022/abc-2022-07-28T19:05:07.513911-04:00.jpg">
+  <img src="https://archive.org/download/abc-2022/abc-2022-07-28T19:05:07.513911-04:00.jpg"
+     alt="ABC News at 2022-07-28 19:05:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-28T07:03:15.297324-04:00.jpg">July 28 at 12:03 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-28T19:05:07.513911-04:00.jpg">July 28 at 7:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abc-2022/abc-2022-07-28T17:14:35.970030-04:00.jpg">
+  <img src="https://archive.org/download/abc-2022/abc-2022-07-28T17:14:35.970030-04:00.jpg"
+     alt="ABC News at 2022-07-28 17:14:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-28T17:14:35.970030-04:00.jpg">July 28 at 5:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abc-2022/abc-2022-07-28T11:58:38.874930-04:00.jpg">
+  <img src="https://archive.org/download/abc-2022/abc-2022-07-28T11:58:38.874930-04:00.jpg"
+     alt="ABC News at 2022-07-28 11:58:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-28T11:58:38.874930-04:00.jpg">July 28 at 11:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abc-2022/abc-2022-07-28T07:03:15.297324-04:00.jpg">
+  <img src="https://archive.org/download/abc-2022/abc-2022-07-28T07:03:15.297324-04:00.jpg"
+     alt="ABC News at 2022-07-28 07:03:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-28T07:03:15.297324-04:00.jpg">July 28 at 7:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-27T18:59:55.797784-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-27T18:59:55.797784-04:00.jpg"
-     alt="ABC News at 2022-07-27 11:59:58-04:00 local time"
+     alt="ABC News at 2022-07-27 18:59:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-27T18:59:55.797784-04:00.jpg">July 27 at 11:59 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-27T18:59:55.797784-04:00.jpg">July 27 at 6:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-27T17:13:15.232536-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-27T17:13:15.232536-04:00.jpg"
-     alt="ABC News at 2022-07-27 10:13:17-04:00 local time"
+     alt="ABC News at 2022-07-27 17:13:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-27T17:13:15.232536-04:00.jpg">July 27 at 10:13 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-27T17:13:15.232536-04:00.jpg">July 27 at 5:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-27T11:57:52.601685-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-27T11:57:52.601685-04:00.jpg"
-     alt="ABC News at 2022-07-27 04:57:54-04:00 local time"
+     alt="ABC News at 2022-07-27 11:57:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-27T11:57:52.601685-04:00.jpg">July 27 at 4:57 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-27T11:57:52.601685-04:00.jpg">July 27 at 11:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-27T07:00:14.696305-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-27T07:00:14.696305-04:00.jpg"
-     alt="ABC News at 2022-07-27 00:00:24-04:00 local time"
+     alt="ABC News at 2022-07-27 07:00:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-27T07:00:14.696305-04:00.jpg">July 27 at 12:00 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-27T07:00:14.696305-04:00.jpg">July 27 at 7:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-26T19:01:57.902557-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-26T19:01:57.902557-04:00.jpg"
-     alt="ABC News at 2022-07-26 12:02:00-04:00 local time"
+     alt="ABC News at 2022-07-26 19:02:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-26T19:01:57.902557-04:00.jpg">July 26 at 12:02 PM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-26T19:01:57.902557-04:00.jpg">July 26 at 7:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-26T17:11:52.122416-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-26T17:11:52.122416-04:00.jpg"
-     alt="ABC News at 2022-07-26 10:11:54-04:00 local time"
+     alt="ABC News at 2022-07-26 17:11:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-26T17:11:52.122416-04:00.jpg">July 26 at 10:11 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-26T17:11:52.122416-04:00.jpg">July 26 at 5:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-26T11:58:05.986661-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-26T11:58:05.986661-04:00.jpg"
-     alt="ABC News at 2022-07-26 04:58:07-04:00 local time"
+     alt="ABC News at 2022-07-26 11:58:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-26T11:58:05.986661-04:00.jpg">July 26 at 4:58 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-26T11:58:05.986661-04:00.jpg">July 26 at 11:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc-2022/abc-2022-07-26T07:10:17.423859-04:00.jpg">
   <img src="https://archive.org/download/abc-2022/abc-2022-07-26T07:10:17.423859-04:00.jpg"
-     alt="ABC News at 2022-07-26 00:10:24-04:00 local time"
+     alt="ABC News at 2022-07-26 07:10:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-26T07:10:17.423859-04:00.jpg">July 26 at 12:10 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/abc-2022/abc-2022-07-25T19:06:21.256537-04:00.jpg">
-  <img src="https://archive.org/download/abc-2022/abc-2022-07-25T19:06:21.256537-04:00.jpg"
-     alt="ABC News at 2022-07-25 12:06:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-25T19:06:21.256537-04:00.jpg">July 25 at 12:06 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/abc-2022/abc-2022-07-25T17:14:32.831164-04:00.jpg">
-  <img src="https://archive.org/download/abc-2022/abc-2022-07-25T17:14:32.831164-04:00.jpg"
-     alt="ABC News at 2022-07-25 10:14:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-25T17:14:32.831164-04:00.jpg">July 25 at 10:14 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/abc-2022/abc-2022-07-25T11:54:47.171515-04:00.jpg">
-  <img src="https://archive.org/download/abc-2022/abc-2022-07-25T11:54:47.171515-04:00.jpg"
-     alt="ABC News at 2022-07-25 04:54:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-07-25T11:54:47.171515-04:00.jpg">July 25 at 4:54 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-07-26T07:10:17.423859-04:00.jpg">July 26 at 7:10 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 454 hyperlink lists with the Internet Archive.
+The archiving routine has saved 457 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 12:03 AM](https://archive.org/download/abc-2022/abc-2022-07-28T07:03:15.297324-04:00.hyperlinks.json) |
-| [July 27 at 12:00 PM](https://archive.org/download/abc-2022/abc-2022-07-27T18:59:55.797784-04:00.hyperlinks.json) |
-| [July 27 at 10:13 AM](https://archive.org/download/abc-2022/abc-2022-07-27T17:13:15.232536-04:00.hyperlinks.json) |
-| [July 27 at 4:57 AM](https://archive.org/download/abc-2022/abc-2022-07-27T11:57:52.601685-04:00.hyperlinks.json) |
-| [July 27 at 12:00 AM](https://archive.org/download/abc-2022/abc-2022-07-27T07:00:14.696305-04:00.hyperlinks.json) |
-| [July 26 at 12:02 PM](https://archive.org/download/abc-2022/abc-2022-07-26T19:01:57.902557-04:00.hyperlinks.json) |
-| [July 26 at 10:11 AM](https://archive.org/download/abc-2022/abc-2022-07-26T17:11:52.122416-04:00.hyperlinks.json) |
-| [July 26 at 4:58 AM](https://archive.org/download/abc-2022/abc-2022-07-26T11:58:05.986661-04:00.hyperlinks.json) |
-| [July 26 at 12:10 AM](https://archive.org/download/abc-2022/abc-2022-07-26T07:10:17.423859-04:00.hyperlinks.json) |
-| [July 25 at 12:06 PM](https://archive.org/download/abc-2022/abc-2022-07-25T19:06:21.256537-04:00.hyperlinks.json) |
+| [July 28 at 7:05 PM](https://archive.org/download/abc-2022/abc-2022-07-28T19:05:07.513911-04:00.hyperlinks.json) |
+| [July 28 at 5:14 PM](https://archive.org/download/abc-2022/abc-2022-07-28T17:14:35.970030-04:00.hyperlinks.json) |
+| [July 28 at 11:58 AM](https://archive.org/download/abc-2022/abc-2022-07-28T11:58:38.874930-04:00.hyperlinks.json) |
+| [July 28 at 7:03 AM](https://archive.org/download/abc-2022/abc-2022-07-28T07:03:15.297324-04:00.hyperlinks.json) |
+| [July 27 at 7:00 PM](https://archive.org/download/abc-2022/abc-2022-07-27T18:59:55.797784-04:00.hyperlinks.json) |
+| [July 27 at 5:13 PM](https://archive.org/download/abc-2022/abc-2022-07-27T17:13:15.232536-04:00.hyperlinks.json) |
+| [July 27 at 11:57 AM](https://archive.org/download/abc-2022/abc-2022-07-27T11:57:52.601685-04:00.hyperlinks.json) |
+| [July 27 at 7:00 AM](https://archive.org/download/abc-2022/abc-2022-07-27T07:00:14.696305-04:00.hyperlinks.json) |
+| [July 26 at 7:02 PM](https://archive.org/download/abc-2022/abc-2022-07-26T19:01:57.902557-04:00.hyperlinks.json) |
+| [July 26 at 5:11 PM](https://archive.org/download/abc-2022/abc-2022-07-26T17:11:52.122416-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 456 accessibility trees with the Internet Archive.
+The archiving routine has saved 459 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 12:03 AM](https://archive.org/download/abc-2022/abc-2022-07-28T07:03:15.297324-04:00.accessibility.json) |
-| [July 27 at 11:59 AM](https://archive.org/download/abc-2022/abc-2022-07-27T18:59:55.797784-04:00.accessibility.json) |
-| [July 27 at 10:13 AM](https://archive.org/download/abc-2022/abc-2022-07-27T17:13:15.232536-04:00.accessibility.json) |
-| [July 27 at 4:57 AM](https://archive.org/download/abc-2022/abc-2022-07-27T11:57:52.601685-04:00.accessibility.json) |
-| [July 27 at 12:00 AM](https://archive.org/download/abc-2022/abc-2022-07-27T07:00:14.696305-04:00.accessibility.json) |
-| [July 26 at 12:02 PM](https://archive.org/download/abc-2022/abc-2022-07-26T19:01:57.902557-04:00.accessibility.json) |
-| [July 26 at 10:11 AM](https://archive.org/download/abc-2022/abc-2022-07-26T17:11:52.122416-04:00.accessibility.json) |
-| [July 26 at 4:58 AM](https://archive.org/download/abc-2022/abc-2022-07-26T11:58:05.986661-04:00.accessibility.json) |
-| [July 26 at 12:10 AM](https://archive.org/download/abc-2022/abc-2022-07-26T07:10:17.423859-04:00.accessibility.json) |
-| [July 25 at 12:06 PM](https://archive.org/download/abc-2022/abc-2022-07-25T19:06:21.256537-04:00.accessibility.json) |
+| [July 28 at 7:05 PM](https://archive.org/download/abc-2022/abc-2022-07-28T19:05:07.513911-04:00.accessibility.json) |
+| [July 28 at 5:14 PM](https://archive.org/download/abc-2022/abc-2022-07-28T17:14:35.970030-04:00.accessibility.json) |
+| [July 28 at 11:58 AM](https://archive.org/download/abc-2022/abc-2022-07-28T11:58:38.874930-04:00.accessibility.json) |
+| [July 28 at 7:03 AM](https://archive.org/download/abc-2022/abc-2022-07-28T07:03:15.297324-04:00.accessibility.json) |
+| [July 27 at 6:59 PM](https://archive.org/download/abc-2022/abc-2022-07-27T18:59:55.797784-04:00.accessibility.json) |
+| [July 27 at 5:13 PM](https://archive.org/download/abc-2022/abc-2022-07-27T17:13:15.232536-04:00.accessibility.json) |
+| [July 27 at 11:57 AM](https://archive.org/download/abc-2022/abc-2022-07-27T11:57:52.601685-04:00.accessibility.json) |
+| [July 27 at 7:00 AM](https://archive.org/download/abc-2022/abc-2022-07-27T07:00:14.696305-04:00.accessibility.json) |
+| [July 26 at 7:02 PM](https://archive.org/download/abc-2022/abc-2022-07-26T19:01:57.902557-04:00.accessibility.json) |
+| [July 26 at 5:11 PM](https://archive.org/download/abc-2022/abc-2022-07-26T17:11:52.122416-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 12:03 AM](https://archive.org/download/abc-2022/abc-2022-07-28T07:03:15.297324-04:00.lighthouse.json) |
-| [July 27 at 12:00 PM](https://archive.org/download/abc-2022/abc-2022-07-27T18:59:55.797784-04:00.lighthouse.json) |
-| [July 27 at 10:13 AM](https://archive.org/download/abc-2022/abc-2022-07-27T17:13:15.232536-04:00.lighthouse.json) |
-| [July 27 at 4:57 AM](https://archive.org/download/abc-2022/abc-2022-07-27T11:57:52.601685-04:00.lighthouse.json) |
-| [July 27 at 12:00 AM](https://archive.org/download/abc-2022/abc-2022-07-27T07:00:14.696305-04:00.lighthouse.json) |
-| [July 26 at 12:02 PM](https://archive.org/download/abc-2022/abc-2022-07-26T19:01:57.902557-04:00.lighthouse.json) |
-| [July 26 at 10:12 AM](https://archive.org/download/abc-2022/abc-2022-07-26T17:11:52.122416-04:00.lighthouse.json) |
-| [July 26 at 4:58 AM](https://archive.org/download/abc-2022/abc-2022-07-26T11:58:05.986661-04:00.lighthouse.json) |
-| [July 26 at 12:10 AM](https://archive.org/download/abc-2022/abc-2022-07-26T07:10:17.423859-04:00.lighthouse.json) |
-| [July 25 at 12:06 PM](https://archive.org/download/abc-2022/abc-2022-07-25T19:06:21.256537-04:00.lighthouse.json) |
+| [July 28 at 7:05 PM](https://archive.org/download/abc-2022/abc-2022-07-28T19:05:07.513911-04:00.lighthouse.json) |
+| [July 28 at 5:14 PM](https://archive.org/download/abc-2022/abc-2022-07-28T17:14:35.970030-04:00.lighthouse.json) |
+| [July 28 at 11:58 AM](https://archive.org/download/abc-2022/abc-2022-07-28T11:58:38.874930-04:00.lighthouse.json) |
+| [July 28 at 7:03 AM](https://archive.org/download/abc-2022/abc-2022-07-28T07:03:15.297324-04:00.lighthouse.json) |
+| [July 27 at 7:00 PM](https://archive.org/download/abc-2022/abc-2022-07-27T18:59:55.797784-04:00.lighthouse.json) |
+| [July 27 at 5:13 PM](https://archive.org/download/abc-2022/abc-2022-07-27T17:13:15.232536-04:00.lighthouse.json) |
+| [July 27 at 11:57 AM](https://archive.org/download/abc-2022/abc-2022-07-27T11:57:52.601685-04:00.lighthouse.json) |
+| [July 27 at 7:00 AM](https://archive.org/download/abc-2022/abc-2022-07-27T07:00:14.696305-04:00.lighthouse.json) |
+| [July 26 at 7:02 PM](https://archive.org/download/abc-2022/abc-2022-07-26T19:01:57.902557-04:00.lighthouse.json) |
+| [July 26 at 5:12 PM](https://archive.org/download/abc-2022/abc-2022-07-26T17:11:52.122416-04:00.lighthouse.json) |
 
 
 

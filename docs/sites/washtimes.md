@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 216 screenshots with the Internet Archive.
+The archiving routine has saved 218 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-27T21:34:18.701133-04:00.jpg">
-  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-27T21:34:18.701133-04:00.jpg"
-     alt="Washington Times at 2022-07-27 14:34:20-04:00 local time"
+ <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-28T14:44:03.335159-04:00.jpg">
+  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-28T14:44:03.335159-04:00.jpg"
+     alt="Washington Times at 2022-07-28 14:44:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-27T21:34:18.701133-04:00.jpg">July 27 at 2:34 PM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-28T14:44:03.335159-04:00.jpg">July 28 at 2:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-28T09:29:18.878047-04:00.jpg">
+  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-28T09:29:18.878047-04:00.jpg"
+     alt="Washington Times at 2022-07-28 09:29:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-28T09:29:18.878047-04:00.jpg">July 28 at 9:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-27T21:34:18.701133-04:00.jpg">
+  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-27T21:34:18.701133-04:00.jpg"
+     alt="Washington Times at 2022-07-27 21:34:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-27T21:34:18.701133-04:00.jpg">July 27 at 9:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-27T09:26:19.807249-04:00.jpg">
   <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-27T09:26:19.807249-04:00.jpg"
-     alt="Washington Times at 2022-07-27 02:26:21-04:00 local time"
+     alt="Washington Times at 2022-07-27 09:26:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-27T09:26:19.807249-04:00.jpg">July 27 at 2:26 AM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-27T09:26:19.807249-04:00.jpg">July 27 at 9:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-26T21:30:50.860423-04:00.jpg">
   <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-26T21:30:50.860423-04:00.jpg"
-     alt="Washington Times at 2022-07-26 14:30:56-04:00 local time"
+     alt="Washington Times at 2022-07-26 21:30:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-26T21:30:50.860423-04:00.jpg">July 26 at 2:30 PM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-26T21:30:50.860423-04:00.jpg">July 26 at 9:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-26T14:35:59.393382-04:00.jpg">
   <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-26T14:35:59.393382-04:00.jpg"
-     alt="Washington Times at 2022-07-26 07:36:05-04:00 local time"
+     alt="Washington Times at 2022-07-26 14:36:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-26T14:35:59.393382-04:00.jpg">July 26 at 7:36 AM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-26T14:35:59.393382-04:00.jpg">July 26 at 2:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-26T09:33:09.946722-04:00.jpg">
   <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-26T09:33:09.946722-04:00.jpg"
-     alt="Washington Times at 2022-07-26 02:33:11-04:00 local time"
+     alt="Washington Times at 2022-07-26 09:33:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-26T09:33:09.946722-04:00.jpg">July 26 at 2:33 AM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-26T09:33:09.946722-04:00.jpg">July 26 at 9:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T22:55:51.065571-04:00.jpg">
   <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T22:55:51.065571-04:00.jpg"
-     alt="Washington Times at 2022-07-25 15:55:53-04:00 local time"
+     alt="Washington Times at 2022-07-25 22:55:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T22:55:51.065571-04:00.jpg">July 25 at 3:55 PM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T22:55:51.065571-04:00.jpg">July 25 at 10:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T21:38:55.091176-04:00.jpg">
   <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T21:38:55.091176-04:00.jpg"
-     alt="Washington Times at 2022-07-25 14:39:06-04:00 local time"
+     alt="Washington Times at 2022-07-25 21:39:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T21:38:55.091176-04:00.jpg">July 25 at 2:39 PM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T21:38:55.091176-04:00.jpg">July 25 at 9:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T14:39:25.163861-04:00.jpg">
   <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T14:39:25.163861-04:00.jpg"
-     alt="Washington Times at 2022-07-25 07:39:27-04:00 local time"
+     alt="Washington Times at 2022-07-25 14:39:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T14:39:25.163861-04:00.jpg">July 25 at 7:39 AM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T14:39:25.163861-04:00.jpg">July 25 at 2:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T12:42:02.156424-04:00.jpg">
   <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T12:42:02.156424-04:00.jpg"
-     alt="Washington Times at 2022-07-25 05:42:03-04:00 local time"
+     alt="Washington Times at 2022-07-25 12:42:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T12:42:02.156424-04:00.jpg">July 25 at 5:42 AM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T12:42:02.156424-04:00.jpg">July 25 at 12:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T11:53:13.053534-04:00.jpg">
   <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T11:53:13.053534-04:00.jpg"
-     alt="Washington Times at 2022-07-25 04:53:15-04:00 local time"
+     alt="Washington Times at 2022-07-25 11:53:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T11:53:13.053534-04:00.jpg">July 25 at 4:53 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T00:41:04.334981-04:00.jpg">
-  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T00:41:04.334981-04:00.jpg"
-     alt="Washington Times at 2022-07-24 17:41:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T00:41:04.334981-04:00.jpg">July 24 at 5:41 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-24T11:45:19.400786-04:00.jpg">
-  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-07-24T11:45:19.400786-04:00.jpg"
-     alt="Washington Times at 2022-07-24 04:45:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-24T11:45:19.400786-04:00.jpg">July 24 at 4:45 AM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T11:53:13.053534-04:00.jpg">July 25 at 11:53 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 212 hyperlink lists with the Internet Archive.
+The archiving routine has saved 214 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 2:34 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-27T21:34:18.701133-04:00.hyperlinks.json) |
-| [July 27 at 2:26 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-27T09:26:19.807249-04:00.hyperlinks.json) |
-| [July 26 at 2:30 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T21:30:50.860423-04:00.hyperlinks.json) |
-| [July 26 at 7:36 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T14:35:59.393382-04:00.hyperlinks.json) |
-| [July 26 at 2:33 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T09:33:09.946722-04:00.hyperlinks.json) |
-| [July 25 at 3:55 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T22:55:51.065571-04:00.hyperlinks.json) |
-| [July 25 at 2:39 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T21:38:55.091176-04:00.hyperlinks.json) |
-| [July 25 at 7:39 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T14:39:25.163861-04:00.hyperlinks.json) |
-| [July 25 at 5:42 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T12:42:02.156424-04:00.hyperlinks.json) |
-| [July 25 at 4:53 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T11:53:13.053534-04:00.hyperlinks.json) |
+| [July 28 at 2:44 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-28T14:44:03.335159-04:00.hyperlinks.json) |
+| [July 28 at 9:29 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-28T09:29:18.878047-04:00.hyperlinks.json) |
+| [July 27 at 9:34 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-27T21:34:18.701133-04:00.hyperlinks.json) |
+| [July 27 at 9:26 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-27T09:26:19.807249-04:00.hyperlinks.json) |
+| [July 26 at 9:30 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T21:30:50.860423-04:00.hyperlinks.json) |
+| [July 26 at 2:36 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T14:35:59.393382-04:00.hyperlinks.json) |
+| [July 26 at 9:33 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T09:33:09.946722-04:00.hyperlinks.json) |
+| [July 25 at 10:55 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T22:55:51.065571-04:00.hyperlinks.json) |
+| [July 25 at 9:39 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T21:38:55.091176-04:00.hyperlinks.json) |
+| [July 25 at 2:39 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T14:39:25.163861-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 212 accessibility trees with the Internet Archive.
+The archiving routine has saved 214 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 2:34 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-27T21:34:18.701133-04:00.accessibility.json) |
-| [July 27 at 2:26 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-27T09:26:19.807249-04:00.accessibility.json) |
-| [July 26 at 2:30 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T21:30:50.860423-04:00.accessibility.json) |
-| [July 26 at 7:36 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T14:35:59.393382-04:00.accessibility.json) |
-| [July 26 at 2:33 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T09:33:09.946722-04:00.accessibility.json) |
-| [July 25 at 3:55 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T22:55:51.065571-04:00.accessibility.json) |
-| [July 25 at 2:39 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T21:38:55.091176-04:00.accessibility.json) |
-| [July 25 at 7:39 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T14:39:25.163861-04:00.accessibility.json) |
-| [July 25 at 5:42 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T12:42:02.156424-04:00.accessibility.json) |
-| [July 25 at 4:53 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T11:53:13.053534-04:00.accessibility.json) |
+| [July 28 at 2:44 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-28T14:44:03.335159-04:00.accessibility.json) |
+| [July 28 at 9:29 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-28T09:29:18.878047-04:00.accessibility.json) |
+| [July 27 at 9:34 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-27T21:34:18.701133-04:00.accessibility.json) |
+| [July 27 at 9:26 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-27T09:26:19.807249-04:00.accessibility.json) |
+| [July 26 at 9:30 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T21:30:50.860423-04:00.accessibility.json) |
+| [July 26 at 2:36 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T14:35:59.393382-04:00.accessibility.json) |
+| [July 26 at 9:33 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T09:33:09.946722-04:00.accessibility.json) |
+| [July 25 at 10:55 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T22:55:51.065571-04:00.accessibility.json) |
+| [July 25 at 9:39 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T21:38:55.091176-04:00.accessibility.json) |
+| [July 25 at 2:39 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T14:39:25.163861-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 2:34 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-27T21:34:18.701133-04:00.lighthouse.json) |
-| [July 27 at 2:26 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-27T09:26:19.807249-04:00.lighthouse.json) |
-| [July 26 at 2:31 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T21:30:50.860423-04:00.lighthouse.json) |
-| [July 26 at 7:36 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T14:35:59.393382-04:00.lighthouse.json) |
-| [July 26 at 2:33 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T09:33:09.946722-04:00.lighthouse.json) |
-| [July 25 at 3:55 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T22:55:51.065571-04:00.lighthouse.json) |
-| [July 25 at 2:39 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T21:38:55.091176-04:00.lighthouse.json) |
-| [July 25 at 7:39 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T14:39:25.163861-04:00.lighthouse.json) |
-| [July 25 at 5:42 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T12:42:02.156424-04:00.lighthouse.json) |
-| [July 25 at 4:53 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T11:53:13.053534-04:00.lighthouse.json) |
+| [July 28 at 2:44 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-28T14:44:03.335159-04:00.lighthouse.json) |
+| [July 28 at 9:29 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-28T09:29:18.878047-04:00.lighthouse.json) |
+| [July 27 at 9:34 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-27T21:34:18.701133-04:00.lighthouse.json) |
+| [July 27 at 9:26 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-27T09:26:19.807249-04:00.lighthouse.json) |
+| [July 26 at 9:31 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T21:30:50.860423-04:00.lighthouse.json) |
+| [July 26 at 2:36 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T14:35:59.393382-04:00.lighthouse.json) |
+| [July 26 at 9:33 AM](https://archive.org/download/washtimes-2022/washtimes-2022-07-26T09:33:09.946722-04:00.lighthouse.json) |
+| [July 25 at 10:55 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T22:55:51.065571-04:00.lighthouse.json) |
+| [July 25 at 9:39 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T21:38:55.091176-04:00.lighthouse.json) |
+| [July 25 at 2:39 PM](https://archive.org/download/washtimes-2022/washtimes-2022-07-25T14:39:25.163861-04:00.lighthouse.json) |
 
 
 

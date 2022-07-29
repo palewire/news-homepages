@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 196 screenshots with the Internet Archive.
+The archiving routine has saved 197 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-27T21:45:35.056132-06:00.jpg">
-  <img src="https://archive.org/download/source_nm-2022/source_nm-2022-07-27T21:45:35.056132-06:00.jpg"
-     alt="Source New Mexico at 2022-07-27 14:45:39-06:00 local time"
+ <a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-28T09:52:30.656773-06:00.jpg">
+  <img src="https://archive.org/download/source_nm-2022/source_nm-2022-07-28T09:52:30.656773-06:00.jpg"
+     alt="Source New Mexico at 2022-07-28 09:52:35-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-27T21:45:35.056132-06:00.jpg">July 27 at 2:45 PM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-28T09:52:30.656773-06:00.jpg">July 28 at 9:52 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-27T21:45:35.056132-06:00.jpg">
+  <img src="https://archive.org/download/source_nm-2022/source_nm-2022-07-27T21:45:35.056132-06:00.jpg"
+     alt="Source New Mexico at 2022-07-27 21:45:39-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-27T21:45:35.056132-06:00.jpg">July 27 at 9:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-27T09:48:16.347172-06:00.jpg">
   <img src="https://archive.org/download/source_nm-2022/source_nm-2022-07-27T09:48:16.347172-06:00.jpg"
-     alt="Source New Mexico at 2022-07-27 02:48:17-06:00 local time"
+     alt="Source New Mexico at 2022-07-27 09:48:17-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-27T09:48:16.347172-06:00.jpg">July 27 at 2:48 AM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-27T09:48:16.347172-06:00.jpg">July 27 at 9:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-26T21:54:36.162706-06:00.jpg">
   <img src="https://archive.org/download/source_nm-2022/source_nm-2022-07-26T21:54:36.162706-06:00.jpg"
-     alt="Source New Mexico at 2022-07-26 14:54:38-06:00 local time"
+     alt="Source New Mexico at 2022-07-26 21:54:38-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-26T21:54:36.162706-06:00.jpg">July 26 at 2:54 PM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-26T21:54:36.162706-06:00.jpg">July 26 at 9:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-26T09:45:44.958537-06:00.jpg">
   <img src="https://archive.org/download/source_nm-2022/source_nm-2022-07-26T09:45:44.958537-06:00.jpg"
-     alt="Source New Mexico at 2022-07-26 02:45:49-06:00 local time"
+     alt="Source New Mexico at 2022-07-26 09:45:49-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-26T09:45:44.958537-06:00.jpg">July 26 at 2:45 AM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-26T09:45:44.958537-06:00.jpg">July 26 at 9:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-25T21:57:25.919837-06:00.jpg">
   <img src="https://archive.org/download/source_nm-2022/source_nm-2022-07-25T21:57:25.919837-06:00.jpg"
-     alt="Source New Mexico at 2022-07-25 14:57:29-06:00 local time"
+     alt="Source New Mexico at 2022-07-25 21:57:29-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-25T21:57:25.919837-06:00.jpg">July 25 at 2:57 PM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-25T21:57:25.919837-06:00.jpg">July 25 at 9:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-25T09:42:50.458363-06:00.jpg">
   <img src="https://archive.org/download/source_nm-2022/source_nm-2022-07-25T09:42:50.458363-06:00.jpg"
-     alt="Source New Mexico at 2022-07-25 02:42:53-06:00 local time"
+     alt="Source New Mexico at 2022-07-25 09:42:53-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-25T09:42:50.458363-06:00.jpg">July 25 at 2:42 AM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-25T09:42:50.458363-06:00.jpg">July 25 at 9:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-24T21:44:14.030476-06:00.jpg">
   <img src="https://archive.org/download/source_nm-2022/source_nm-2022-07-24T21:44:14.030476-06:00.jpg"
-     alt="Source New Mexico at 2022-07-24 14:44:15-06:00 local time"
+     alt="Source New Mexico at 2022-07-24 21:44:15-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-24T21:44:14.030476-06:00.jpg">July 24 at 2:44 PM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-24T21:44:14.030476-06:00.jpg">July 24 at 9:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-24T08:04:18.327457-06:00.jpg">
   <img src="https://archive.org/download/source_nm-2022/source_nm-2022-07-24T08:04:18.327457-06:00.jpg"
-     alt="Source New Mexico at 2022-07-24 01:04:19-06:00 local time"
+     alt="Source New Mexico at 2022-07-24 08:04:19-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-24T08:04:18.327457-06:00.jpg">July 24 at 1:04 AM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-24T08:04:18.327457-06:00.jpg">July 24 at 8:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-24T00:24:29.293077-06:00.jpg">
   <img src="https://archive.org/download/source_nm-2022/source_nm-2022-07-24T00:24:29.293077-06:00.jpg"
-     alt="Source New Mexico at 2022-07-23 17:24:33-06:00 local time"
+     alt="Source New Mexico at 2022-07-24 00:24:33-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-24T00:24:29.293077-06:00.jpg">July 23 at 5:24 PM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-24T00:24:29.293077-06:00.jpg">July 24 at 12:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-23T10:02:25.236187-06:00.jpg">
   <img src="https://archive.org/download/source_nm-2022/source_nm-2022-07-23T10:02:25.236187-06:00.jpg"
-     alt="Source New Mexico at 2022-07-23 03:02:27-06:00 local time"
+     alt="Source New Mexico at 2022-07-23 10:02:27-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-23T10:02:25.236187-06:00.jpg">July 23 at 3:02 AM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-23T10:02:25.236187-06:00.jpg">July 23 at 10:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-22T22:22:04.236403-06:00.jpg">
   <img src="https://archive.org/download/source_nm-2022/source_nm-2022-07-22T22:22:04.236403-06:00.jpg"
-     alt="Source New Mexico at 2022-07-22 15:22:08-06:00 local time"
+     alt="Source New Mexico at 2022-07-22 22:22:08-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-22T22:22:04.236403-06:00.jpg">July 22 at 3:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-22T10:16:52.118647-06:00.jpg">
-  <img src="https://archive.org/download/source_nm-2022/source_nm-2022-07-22T10:16:52.118647-06:00.jpg"
-     alt="Source New Mexico at 2022-07-22 03:16:53-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-22T10:16:52.118647-06:00.jpg">July 22 at 3:16 AM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-22T22:22:04.236403-06:00.jpg">July 22 at 10:22 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 190 hyperlink lists with the Internet Archive.
+The archiving routine has saved 191 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 2:45 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-27T21:45:35.056132-06:00.hyperlinks.json) |
-| [July 27 at 2:48 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-27T09:48:16.347172-06:00.hyperlinks.json) |
-| [July 26 at 2:54 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-26T21:54:36.162706-06:00.hyperlinks.json) |
-| [July 26 at 2:45 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-26T09:45:44.958537-06:00.hyperlinks.json) |
-| [July 25 at 2:57 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-25T21:57:25.919837-06:00.hyperlinks.json) |
-| [July 25 at 2:42 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-25T09:42:50.458363-06:00.hyperlinks.json) |
-| [July 24 at 2:44 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-24T21:44:14.030476-06:00.hyperlinks.json) |
-| [July 24 at 1:04 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-24T08:04:18.327457-06:00.hyperlinks.json) |
-| [July 23 at 5:24 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-24T00:24:29.293077-06:00.hyperlinks.json) |
-| [July 23 at 3:02 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-23T10:02:25.236187-06:00.hyperlinks.json) |
+| [July 28 at 9:52 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-28T09:52:30.656773-06:00.hyperlinks.json) |
+| [July 27 at 9:45 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-27T21:45:35.056132-06:00.hyperlinks.json) |
+| [July 27 at 9:48 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-27T09:48:16.347172-06:00.hyperlinks.json) |
+| [July 26 at 9:54 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-26T21:54:36.162706-06:00.hyperlinks.json) |
+| [July 26 at 9:45 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-26T09:45:44.958537-06:00.hyperlinks.json) |
+| [July 25 at 9:57 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-25T21:57:25.919837-06:00.hyperlinks.json) |
+| [July 25 at 9:42 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-25T09:42:50.458363-06:00.hyperlinks.json) |
+| [July 24 at 9:44 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-24T21:44:14.030476-06:00.hyperlinks.json) |
+| [July 24 at 8:04 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-24T08:04:18.327457-06:00.hyperlinks.json) |
+| [July 24 at 12:24 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-24T00:24:29.293077-06:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 190 accessibility trees with the Internet Archive.
+The archiving routine has saved 191 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 2:45 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-27T21:45:35.056132-06:00.accessibility.json) |
-| [July 27 at 2:48 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-27T09:48:16.347172-06:00.accessibility.json) |
-| [July 26 at 2:54 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-26T21:54:36.162706-06:00.accessibility.json) |
-| [July 26 at 2:45 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-26T09:45:44.958537-06:00.accessibility.json) |
-| [July 25 at 2:57 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-25T21:57:25.919837-06:00.accessibility.json) |
-| [July 25 at 2:42 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-25T09:42:50.458363-06:00.accessibility.json) |
-| [July 24 at 2:44 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-24T21:44:14.030476-06:00.accessibility.json) |
-| [July 24 at 1:04 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-24T08:04:18.327457-06:00.accessibility.json) |
-| [July 23 at 5:24 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-24T00:24:29.293077-06:00.accessibility.json) |
-| [July 23 at 3:02 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-23T10:02:25.236187-06:00.accessibility.json) |
+| [July 28 at 9:52 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-28T09:52:30.656773-06:00.accessibility.json) |
+| [July 27 at 9:45 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-27T21:45:35.056132-06:00.accessibility.json) |
+| [July 27 at 9:48 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-27T09:48:16.347172-06:00.accessibility.json) |
+| [July 26 at 9:54 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-26T21:54:36.162706-06:00.accessibility.json) |
+| [July 26 at 9:45 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-26T09:45:44.958537-06:00.accessibility.json) |
+| [July 25 at 9:57 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-25T21:57:25.919837-06:00.accessibility.json) |
+| [July 25 at 9:42 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-25T09:42:50.458363-06:00.accessibility.json) |
+| [July 24 at 9:44 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-24T21:44:14.030476-06:00.accessibility.json) |
+| [July 24 at 8:04 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-24T08:04:18.327457-06:00.accessibility.json) |
+| [July 24 at 12:24 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-24T00:24:29.293077-06:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,15 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 2:45 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-27T21:45:35.056132-06:00.lighthouse.json) |
-| [July 27 at 2:48 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-27T09:48:16.347172-06:00.lighthouse.json) |
-| [July 26 at 2:54 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-26T21:54:36.162706-06:00.lighthouse.json) |
-| [July 26 at 2:45 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-26T09:45:44.958537-06:00.lighthouse.json) |
-| [July 25 at 2:57 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-25T21:57:25.919837-06:00.lighthouse.json) |
-| [July 25 at 2:42 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-25T09:42:50.458363-06:00.lighthouse.json) |
-| [July 24 at 2:44 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-24T21:44:14.030476-06:00.lighthouse.json) |
-| [July 24 at 1:04 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-24T08:04:18.327457-06:00.lighthouse.json) |
-| [July 23 at 5:24 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-24T00:24:29.293077-06:00.lighthouse.json) |
+| [July 28 at 9:52 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-28T09:52:30.656773-06:00.lighthouse.json) |
+| [July 27 at 9:45 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-27T21:45:35.056132-06:00.lighthouse.json) |
+| [July 27 at 9:48 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-27T09:48:16.347172-06:00.lighthouse.json) |
+| [July 26 at 9:54 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-26T21:54:36.162706-06:00.lighthouse.json) |
+| [July 26 at 9:45 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-26T09:45:44.958537-06:00.lighthouse.json) |
+| [July 25 at 9:57 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-25T21:57:25.919837-06:00.lighthouse.json) |
+| [July 25 at 9:42 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-25T09:42:50.458363-06:00.lighthouse.json) |
+| [July 24 at 9:44 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-24T21:44:14.030476-06:00.lighthouse.json) |
+| [July 24 at 8:04 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-24T08:04:18.327457-06:00.lighthouse.json) |
+| [July 24 at 12:24 AM](https://archive.org/download/source_nm-2022/source_nm-2022-07-24T00:24:29.293077-06:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 105 screenshots with the Internet Archive.
+The archiving routine has saved 106 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-27T20:25:28.218171-05:00.jpg">
-  <img src="https://archive.org/download/apmreports-2022/apmreports-2022-07-27T20:25:28.218171-05:00.jpg"
-     alt="APM Reports at 2022-07-27 13:25:30-05:00 local time"
+ <a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-28T08:20:14.521339-05:00.jpg">
+  <img src="https://archive.org/download/apmreports-2022/apmreports-2022-07-28T08:20:14.521339-05:00.jpg"
+     alt="APM Reports at 2022-07-28 08:20:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-27T20:25:28.218171-05:00.jpg">July 27 at 1:25 PM</a></p>
+ <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-28T08:20:14.521339-05:00.jpg">July 28 at 8:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-27T20:25:28.218171-05:00.jpg">
+  <img src="https://archive.org/download/apmreports-2022/apmreports-2022-07-27T20:25:28.218171-05:00.jpg"
+     alt="APM Reports at 2022-07-27 20:25:30-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-27T20:25:28.218171-05:00.jpg">July 27 at 8:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-27T08:17:44.560685-05:00.jpg">
   <img src="https://archive.org/download/apmreports-2022/apmreports-2022-07-27T08:17:44.560685-05:00.jpg"
-     alt="APM Reports at 2022-07-27 01:17:46-05:00 local time"
+     alt="APM Reports at 2022-07-27 08:17:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-27T08:17:44.560685-05:00.jpg">July 27 at 1:17 AM</a></p>
+ <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-27T08:17:44.560685-05:00.jpg">July 27 at 8:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-26T20:22:52.333815-05:00.jpg">
   <img src="https://archive.org/download/apmreports-2022/apmreports-2022-07-26T20:22:52.333815-05:00.jpg"
-     alt="APM Reports at 2022-07-26 13:22:53-05:00 local time"
+     alt="APM Reports at 2022-07-26 20:22:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-26T20:22:52.333815-05:00.jpg">July 26 at 1:22 PM</a></p>
+ <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-26T20:22:52.333815-05:00.jpg">July 26 at 8:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-26T08:24:10.991096-05:00.jpg">
   <img src="https://archive.org/download/apmreports-2022/apmreports-2022-07-26T08:24:10.991096-05:00.jpg"
-     alt="APM Reports at 2022-07-26 01:24:21-05:00 local time"
+     alt="APM Reports at 2022-07-26 08:24:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-26T08:24:10.991096-05:00.jpg">July 26 at 1:24 AM</a></p>
+ <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-26T08:24:10.991096-05:00.jpg">July 26 at 8:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-25T21:55:23.122375-05:00.jpg">
   <img src="https://archive.org/download/apmreports-2022/apmreports-2022-07-25T21:55:23.122375-05:00.jpg"
-     alt="APM Reports at 2022-07-25 14:55:25-05:00 local time"
+     alt="APM Reports at 2022-07-25 21:55:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-25T21:55:23.122375-05:00.jpg">July 25 at 2:55 PM</a></p>
+ <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-25T21:55:23.122375-05:00.jpg">July 25 at 9:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-25T20:29:46.082116-05:00.jpg">
   <img src="https://archive.org/download/apmreports-2022/apmreports-2022-07-25T20:29:46.082116-05:00.jpg"
-     alt="APM Reports at 2022-07-25 13:29:51-05:00 local time"
+     alt="APM Reports at 2022-07-25 20:29:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-25T20:29:46.082116-05:00.jpg">July 25 at 1:29 PM</a></p>
+ <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-25T20:29:46.082116-05:00.jpg">July 25 at 8:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-25T05:57:30.755702-05:00.jpg">
   <img src="https://archive.org/download/apmreports-2022/apmreports-2022-07-25T05:57:30.755702-05:00.jpg"
-     alt="APM Reports at 2022-07-24 22:57:33-05:00 local time"
+     alt="APM Reports at 2022-07-25 05:57:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-25T05:57:30.755702-05:00.jpg">July 24 at 10:57 PM</a></p>
+ <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-25T05:57:30.755702-05:00.jpg">July 25 at 5:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-24T19:47:19.266568-05:00.jpg">
   <img src="https://archive.org/download/apmreports-2022/apmreports-2022-07-24T19:47:19.266568-05:00.jpg"
-     alt="APM Reports at 2022-07-24 12:47:20-05:00 local time"
+     alt="APM Reports at 2022-07-24 19:47:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-24T19:47:19.266568-05:00.jpg">July 24 at 12:47 PM</a></p>
+ <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-24T19:47:19.266568-05:00.jpg">July 24 at 7:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-24T05:56:22.983514-05:00.jpg">
   <img src="https://archive.org/download/apmreports-2022/apmreports-2022-07-24T05:56:22.983514-05:00.jpg"
-     alt="APM Reports at 2022-07-23 22:56:25-05:00 local time"
+     alt="APM Reports at 2022-07-24 05:56:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-24T05:56:22.983514-05:00.jpg">July 23 at 10:56 PM</a></p>
+ <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-24T05:56:22.983514-05:00.jpg">July 24 at 5:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-23T17:58:46.549551-05:00.jpg">
   <img src="https://archive.org/download/apmreports-2022/apmreports-2022-07-23T17:58:46.549551-05:00.jpg"
-     alt="APM Reports at 2022-07-23 10:58:48-05:00 local time"
+     alt="APM Reports at 2022-07-23 17:58:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-23T17:58:46.549551-05:00.jpg">July 23 at 10:58 AM</a></p>
+ <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-23T17:58:46.549551-05:00.jpg">July 23 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-23T07:55:33.164024-05:00.jpg">
   <img src="https://archive.org/download/apmreports-2022/apmreports-2022-07-23T07:55:33.164024-05:00.jpg"
-     alt="APM Reports at 2022-07-23 00:55:34-05:00 local time"
+     alt="APM Reports at 2022-07-23 07:55:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-23T07:55:33.164024-05:00.jpg">July 23 at 12:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-22T19:55:57.028604-05:00.jpg">
-  <img src="https://archive.org/download/apmreports-2022/apmreports-2022-07-22T19:55:57.028604-05:00.jpg"
-     alt="APM Reports at 2022-07-22 12:55:58-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-22T19:55:57.028604-05:00.jpg">July 22 at 12:55 PM</a></p>
+ <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-23T07:55:33.164024-05:00.jpg">July 23 at 7:55 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 106 hyperlink lists with the Internet Archive.
+The archiving routine has saved 107 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 1:25 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-27T20:25:28.218171-05:00.hyperlinks.json) |
-| [July 27 at 1:17 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-27T08:17:44.560685-05:00.hyperlinks.json) |
-| [July 26 at 1:22 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-26T20:22:52.333815-05:00.hyperlinks.json) |
-| [July 26 at 1:24 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-26T08:24:10.991096-05:00.hyperlinks.json) |
-| [July 25 at 2:55 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T21:55:23.122375-05:00.hyperlinks.json) |
-| [July 25 at 1:29 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T20:29:46.082116-05:00.hyperlinks.json) |
-| [July 24 at 10:57 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T05:57:30.755702-05:00.hyperlinks.json) |
-| [July 24 at 12:47 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-24T19:47:19.266568-05:00.hyperlinks.json) |
-| [July 23 at 10:56 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-24T05:56:22.983514-05:00.hyperlinks.json) |
-| [July 23 at 10:58 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-23T17:58:46.549551-05:00.hyperlinks.json) |
+| [July 28 at 8:20 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-28T08:20:14.521339-05:00.hyperlinks.json) |
+| [July 27 at 8:25 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-27T20:25:28.218171-05:00.hyperlinks.json) |
+| [July 27 at 8:17 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-27T08:17:44.560685-05:00.hyperlinks.json) |
+| [July 26 at 8:22 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-26T20:22:52.333815-05:00.hyperlinks.json) |
+| [July 26 at 8:24 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-26T08:24:10.991096-05:00.hyperlinks.json) |
+| [July 25 at 9:55 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T21:55:23.122375-05:00.hyperlinks.json) |
+| [July 25 at 8:29 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T20:29:46.082116-05:00.hyperlinks.json) |
+| [July 25 at 5:57 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T05:57:30.755702-05:00.hyperlinks.json) |
+| [July 24 at 7:47 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-24T19:47:19.266568-05:00.hyperlinks.json) |
+| [July 24 at 5:56 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-24T05:56:22.983514-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 106 accessibility trees with the Internet Archive.
+The archiving routine has saved 107 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 1:25 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-27T20:25:28.218171-05:00.accessibility.json) |
-| [July 27 at 1:17 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-27T08:17:44.560685-05:00.accessibility.json) |
-| [July 26 at 1:22 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-26T20:22:52.333815-05:00.accessibility.json) |
-| [July 26 at 1:24 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-26T08:24:10.991096-05:00.accessibility.json) |
-| [July 25 at 2:55 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T21:55:23.122375-05:00.accessibility.json) |
-| [July 25 at 1:29 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T20:29:46.082116-05:00.accessibility.json) |
-| [July 24 at 10:57 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T05:57:30.755702-05:00.accessibility.json) |
-| [July 24 at 12:47 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-24T19:47:19.266568-05:00.accessibility.json) |
-| [July 23 at 10:56 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-24T05:56:22.983514-05:00.accessibility.json) |
-| [July 23 at 10:58 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-23T17:58:46.549551-05:00.accessibility.json) |
+| [July 28 at 8:20 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-28T08:20:14.521339-05:00.accessibility.json) |
+| [July 27 at 8:25 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-27T20:25:28.218171-05:00.accessibility.json) |
+| [July 27 at 8:17 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-27T08:17:44.560685-05:00.accessibility.json) |
+| [July 26 at 8:22 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-26T20:22:52.333815-05:00.accessibility.json) |
+| [July 26 at 8:24 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-26T08:24:10.991096-05:00.accessibility.json) |
+| [July 25 at 9:55 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T21:55:23.122375-05:00.accessibility.json) |
+| [July 25 at 8:29 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T20:29:46.082116-05:00.accessibility.json) |
+| [July 25 at 5:57 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T05:57:30.755702-05:00.accessibility.json) |
+| [July 24 at 7:47 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-24T19:47:19.266568-05:00.accessibility.json) |
+| [July 24 at 5:56 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-24T05:56:22.983514-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 1:25 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-27T20:25:28.218171-05:00.lighthouse.json) |
-| [July 27 at 1:17 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-27T08:17:44.560685-05:00.lighthouse.json) |
-| [July 26 at 1:22 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-26T20:22:52.333815-05:00.lighthouse.json) |
-| [July 26 at 1:24 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-26T08:24:10.991096-05:00.lighthouse.json) |
-| [July 25 at 2:55 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T21:55:23.122375-05:00.lighthouse.json) |
-| [July 25 at 1:29 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T20:29:46.082116-05:00.lighthouse.json) |
-| [July 24 at 10:57 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T05:57:30.755702-05:00.lighthouse.json) |
-| [July 24 at 12:47 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-24T19:47:19.266568-05:00.lighthouse.json) |
-| [July 23 at 10:56 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-24T05:56:22.983514-05:00.lighthouse.json) |
-| [July 23 at 10:59 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-23T17:58:46.549551-05:00.lighthouse.json) |
+| [July 28 at 8:20 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-28T08:20:14.521339-05:00.lighthouse.json) |
+| [July 27 at 8:25 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-27T20:25:28.218171-05:00.lighthouse.json) |
+| [July 27 at 8:17 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-27T08:17:44.560685-05:00.lighthouse.json) |
+| [July 26 at 8:22 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-26T20:22:52.333815-05:00.lighthouse.json) |
+| [July 26 at 8:24 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-26T08:24:10.991096-05:00.lighthouse.json) |
+| [July 25 at 9:55 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T21:55:23.122375-05:00.lighthouse.json) |
+| [July 25 at 8:29 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T20:29:46.082116-05:00.lighthouse.json) |
+| [July 25 at 5:57 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-25T05:57:30.755702-05:00.lighthouse.json) |
+| [July 24 at 7:47 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-24T19:47:19.266568-05:00.lighthouse.json) |
+| [July 24 at 5:56 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-24T05:56:22.983514-05:00.lighthouse.json) |
 
 
 

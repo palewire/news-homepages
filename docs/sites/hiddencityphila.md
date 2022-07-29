@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-28T07:13:03.880167-04:00.jpg">
-  <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-28T07:13:03.880167-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-28 00:13:05-04:00 local time"
+ <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-28T19:14:59.837429-04:00.jpg">
+  <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-28T19:14:59.837429-04:00.jpg"
+     alt="Hidden City Daily at 2022-07-28 19:15:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-28T07:13:03.880167-04:00.jpg">July 28 at 12:13 AM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-28T19:14:59.837429-04:00.jpg">July 28 at 7:15 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-28T07:13:03.880167-04:00.jpg">
+  <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-28T07:13:03.880167-04:00.jpg"
+     alt="Hidden City Daily at 2022-07-28 07:13:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-28T07:13:03.880167-04:00.jpg">July 28 at 7:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T19:08:40.875294-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T19:08:40.875294-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-27 12:08:41-04:00 local time"
+     alt="Hidden City Daily at 2022-07-27 19:08:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T19:08:40.875294-04:00.jpg">July 27 at 12:08 PM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T19:08:40.875294-04:00.jpg">July 27 at 7:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T07:09:28.834127-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T07:09:28.834127-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-27 00:09:30-04:00 local time"
+     alt="Hidden City Daily at 2022-07-27 07:09:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T07:09:28.834127-04:00.jpg">July 27 at 12:09 AM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T07:09:28.834127-04:00.jpg">July 27 at 7:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T19:10:52.970197-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T19:10:52.970197-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-26 12:10:55-04:00 local time"
+     alt="Hidden City Daily at 2022-07-26 19:10:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T19:10:52.970197-04:00.jpg">July 26 at 12:10 PM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T19:10:52.970197-04:00.jpg">July 26 at 7:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T08:18:58.072935-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T08:18:58.072935-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-26 01:18:59-04:00 local time"
+     alt="Hidden City Daily at 2022-07-26 08:18:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T08:18:58.072935-04:00.jpg">July 26 at 1:18 AM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T08:18:58.072935-04:00.jpg">July 26 at 8:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T20:16:13.182216-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T20:16:13.182216-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-25 13:16:15-04:00 local time"
+     alt="Hidden City Daily at 2022-07-25 20:16:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T20:16:13.182216-04:00.jpg">July 25 at 1:16 PM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T20:16:13.182216-04:00.jpg">July 25 at 8:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T08:06:34.881131-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T08:06:34.881131-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-25 01:06:38-04:00 local time"
+     alt="Hidden City Daily at 2022-07-25 08:06:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T08:06:34.881131-04:00.jpg">July 25 at 1:06 AM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T08:06:34.881131-04:00.jpg">July 25 at 8:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T21:10:09.329171-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T21:10:09.329171-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-24 14:10:10-04:00 local time"
+     alt="Hidden City Daily at 2022-07-24 21:10:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T21:10:09.329171-04:00.jpg">July 24 at 2:10 PM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T21:10:09.329171-04:00.jpg">July 24 at 9:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T08:02:47.912105-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T08:02:47.912105-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-24 01:02:49-04:00 local time"
+     alt="Hidden City Daily at 2022-07-24 08:02:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T08:02:47.912105-04:00.jpg">July 24 at 1:02 AM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T08:02:47.912105-04:00.jpg">July 24 at 8:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T02:32:22.221876-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T02:32:22.221876-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-23 19:32:24-04:00 local time"
+     alt="Hidden City Daily at 2022-07-24 02:32:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T02:32:22.221876-04:00.jpg">July 23 at 7:32 PM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T02:32:22.221876-04:00.jpg">July 24 at 2:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-23T10:01:55.844510-04:00.jpg">
   <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-23T10:01:55.844510-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-23 03:01:57-04:00 local time"
+     alt="Hidden City Daily at 2022-07-23 10:01:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-23T10:01:55.844510-04:00.jpg">July 23 at 3:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-22T22:28:25.077377-04:00.jpg">
-  <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-22T22:28:25.077377-04:00.jpg"
-     alt="Hidden City Daily at 2022-07-22 15:28:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-22T22:28:25.077377-04:00.jpg">July 22 at 3:28 PM</a></p>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-23T10:01:55.844510-04:00.jpg">July 23 at 10:01 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 12:13 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-28T07:13:03.880167-04:00.hyperlinks.json) |
-| [July 27 at 12:08 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T19:08:40.875294-04:00.hyperlinks.json) |
-| [July 27 at 12:09 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T07:09:28.834127-04:00.hyperlinks.json) |
-| [July 26 at 12:10 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T19:10:52.970197-04:00.hyperlinks.json) |
-| [July 26 at 1:19 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T08:18:58.072935-04:00.hyperlinks.json) |
-| [July 25 at 1:16 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T20:16:13.182216-04:00.hyperlinks.json) |
-| [July 25 at 1:06 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T08:06:34.881131-04:00.hyperlinks.json) |
-| [July 24 at 2:10 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T21:10:09.329171-04:00.hyperlinks.json) |
-| [July 24 at 1:02 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T08:02:47.912105-04:00.hyperlinks.json) |
-| [July 23 at 7:32 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T02:32:22.221876-04:00.hyperlinks.json) |
+| [July 28 at 7:15 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-28T19:14:59.837429-04:00.hyperlinks.json) |
+| [July 28 at 7:13 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-28T07:13:03.880167-04:00.hyperlinks.json) |
+| [July 27 at 7:08 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T19:08:40.875294-04:00.hyperlinks.json) |
+| [July 27 at 7:09 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T07:09:28.834127-04:00.hyperlinks.json) |
+| [July 26 at 7:10 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T19:10:52.970197-04:00.hyperlinks.json) |
+| [July 26 at 8:19 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T08:18:58.072935-04:00.hyperlinks.json) |
+| [July 25 at 8:16 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T20:16:13.182216-04:00.hyperlinks.json) |
+| [July 25 at 8:06 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T08:06:34.881131-04:00.hyperlinks.json) |
+| [July 24 at 9:10 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T21:10:09.329171-04:00.hyperlinks.json) |
+| [July 24 at 8:02 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T08:02:47.912105-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 45 accessibility trees with the Internet Archive.
+The archiving routine has saved 46 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 12:13 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-28T07:13:03.880167-04:00.accessibility.json) |
-| [July 27 at 12:08 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T19:08:40.875294-04:00.accessibility.json) |
-| [July 27 at 12:09 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T07:09:28.834127-04:00.accessibility.json) |
-| [July 26 at 12:10 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T19:10:52.970197-04:00.accessibility.json) |
-| [July 26 at 1:19 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T08:18:58.072935-04:00.accessibility.json) |
-| [July 25 at 1:16 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T20:16:13.182216-04:00.accessibility.json) |
-| [July 25 at 1:06 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T08:06:34.881131-04:00.accessibility.json) |
-| [July 24 at 2:10 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T21:10:09.329171-04:00.accessibility.json) |
-| [July 24 at 1:02 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T08:02:47.912105-04:00.accessibility.json) |
-| [July 23 at 7:32 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T02:32:22.221876-04:00.accessibility.json) |
+| [July 28 at 7:15 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-28T19:14:59.837429-04:00.accessibility.json) |
+| [July 28 at 7:13 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-28T07:13:03.880167-04:00.accessibility.json) |
+| [July 27 at 7:08 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T19:08:40.875294-04:00.accessibility.json) |
+| [July 27 at 7:09 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T07:09:28.834127-04:00.accessibility.json) |
+| [July 26 at 7:10 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T19:10:52.970197-04:00.accessibility.json) |
+| [July 26 at 8:19 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T08:18:58.072935-04:00.accessibility.json) |
+| [July 25 at 8:16 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T20:16:13.182216-04:00.accessibility.json) |
+| [July 25 at 8:06 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T08:06:34.881131-04:00.accessibility.json) |
+| [July 24 at 9:10 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T21:10:09.329171-04:00.accessibility.json) |
+| [July 24 at 8:02 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T08:02:47.912105-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 12:13 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-28T07:13:03.880167-04:00.lighthouse.json) |
-| [July 27 at 12:08 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T19:08:40.875294-04:00.lighthouse.json) |
-| [July 27 at 12:09 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T07:09:28.834127-04:00.lighthouse.json) |
-| [July 26 at 12:11 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T19:10:52.970197-04:00.lighthouse.json) |
-| [July 26 at 1:19 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T08:18:58.072935-04:00.lighthouse.json) |
-| [July 25 at 1:16 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T20:16:13.182216-04:00.lighthouse.json) |
-| [July 25 at 1:06 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T08:06:34.881131-04:00.lighthouse.json) |
-| [July 24 at 2:10 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T21:10:09.329171-04:00.lighthouse.json) |
-| [July 24 at 1:02 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T08:02:47.912105-04:00.lighthouse.json) |
-| [July 23 at 7:32 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T02:32:22.221876-04:00.lighthouse.json) |
+| [July 28 at 7:15 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-28T19:14:59.837429-04:00.lighthouse.json) |
+| [July 28 at 7:13 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-28T07:13:03.880167-04:00.lighthouse.json) |
+| [July 27 at 7:08 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T19:08:40.875294-04:00.lighthouse.json) |
+| [July 27 at 7:09 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-27T07:09:28.834127-04:00.lighthouse.json) |
+| [July 26 at 7:11 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T19:10:52.970197-04:00.lighthouse.json) |
+| [July 26 at 8:19 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-26T08:18:58.072935-04:00.lighthouse.json) |
+| [July 25 at 8:16 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T20:16:13.182216-04:00.lighthouse.json) |
+| [July 25 at 8:06 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-25T08:06:34.881131-04:00.lighthouse.json) |
+| [July 24 at 9:10 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T21:10:09.329171-04:00.lighthouse.json) |
+| [July 24 at 8:02 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-07-24T08:02:47.912105-04:00.lighthouse.json) |
 
 
 

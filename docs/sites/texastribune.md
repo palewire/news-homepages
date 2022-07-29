@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 84 screenshots with the Internet Archive.
+The archiving routine has saved 85 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-27T20:31:36.284197-05:00.jpg">
-  <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-27T20:31:36.284197-05:00.jpg"
-     alt="Texas Tribune at 2022-07-27 13:31:38-05:00 local time"
+ <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-28T08:25:11.745943-05:00.jpg">
+  <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-28T08:25:11.745943-05:00.jpg"
+     alt="Texas Tribune at 2022-07-28 08:25:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-27T20:31:36.284197-05:00.jpg">July 27 at 1:31 PM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-28T08:25:11.745943-05:00.jpg">July 28 at 8:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-27T20:31:36.284197-05:00.jpg">
+  <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-27T20:31:36.284197-05:00.jpg"
+     alt="Texas Tribune at 2022-07-27 20:31:38-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-27T20:31:36.284197-05:00.jpg">July 27 at 8:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-27T08:22:32.989429-05:00.jpg">
   <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-27T08:22:32.989429-05:00.jpg"
-     alt="Texas Tribune at 2022-07-27 01:22:34-05:00 local time"
+     alt="Texas Tribune at 2022-07-27 08:22:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-27T08:22:32.989429-05:00.jpg">July 27 at 1:22 AM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-27T08:22:32.989429-05:00.jpg">July 27 at 8:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-26T20:28:10.929377-05:00.jpg">
   <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-26T20:28:10.929377-05:00.jpg"
-     alt="Texas Tribune at 2022-07-26 13:28:17-05:00 local time"
+     alt="Texas Tribune at 2022-07-26 20:28:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-26T20:28:10.929377-05:00.jpg">July 26 at 1:28 PM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-26T20:28:10.929377-05:00.jpg">July 26 at 8:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-26T08:29:55.105811-05:00.jpg">
   <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-26T08:29:55.105811-05:00.jpg"
-     alt="Texas Tribune at 2022-07-26 01:29:56-05:00 local time"
+     alt="Texas Tribune at 2022-07-26 08:29:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-26T08:29:55.105811-05:00.jpg">July 26 at 1:29 AM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-26T08:29:55.105811-05:00.jpg">July 26 at 8:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-25T21:51:42.756402-05:00.jpg">
   <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-25T21:51:42.756402-05:00.jpg"
-     alt="Texas Tribune at 2022-07-25 14:51:44-05:00 local time"
+     alt="Texas Tribune at 2022-07-25 21:51:44-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-25T21:51:42.756402-05:00.jpg">July 25 at 2:51 PM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-25T21:51:42.756402-05:00.jpg">July 25 at 9:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-25T20:34:24.471323-05:00.jpg">
   <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-25T20:34:24.471323-05:00.jpg"
-     alt="Texas Tribune at 2022-07-25 13:34:26-05:00 local time"
+     alt="Texas Tribune at 2022-07-25 20:34:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-25T20:34:24.471323-05:00.jpg">July 25 at 1:34 PM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-25T20:34:24.471323-05:00.jpg">July 25 at 8:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-25T10:45:02.155122-05:00.jpg">
   <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-25T10:45:02.155122-05:00.jpg"
-     alt="Texas Tribune at 2022-07-25 03:45:03-05:00 local time"
+     alt="Texas Tribune at 2022-07-25 10:45:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-25T10:45:02.155122-05:00.jpg">July 25 at 3:45 AM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-25T10:45:02.155122-05:00.jpg">July 25 at 10:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-24T23:34:43.487327-05:00.jpg">
   <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-24T23:34:43.487327-05:00.jpg"
-     alt="Texas Tribune at 2022-07-24 16:34:45-05:00 local time"
+     alt="Texas Tribune at 2022-07-24 23:34:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-24T23:34:43.487327-05:00.jpg">July 24 at 4:34 PM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-24T23:34:43.487327-05:00.jpg">July 24 at 11:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-24T10:04:43.811064-05:00.jpg">
   <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-24T10:04:43.811064-05:00.jpg"
-     alt="Texas Tribune at 2022-07-24 03:04:47-05:00 local time"
+     alt="Texas Tribune at 2022-07-24 10:04:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-24T10:04:43.811064-05:00.jpg">July 24 at 3:04 AM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-24T10:04:43.811064-05:00.jpg">July 24 at 10:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-23T22:41:29.148211-05:00.jpg">
   <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-23T22:41:29.148211-05:00.jpg"
-     alt="Texas Tribune at 2022-07-23 15:41:30-05:00 local time"
+     alt="Texas Tribune at 2022-07-23 22:41:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-23T22:41:29.148211-05:00.jpg">July 23 at 3:41 PM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-23T22:41:29.148211-05:00.jpg">July 23 at 10:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-23T11:03:52.704411-05:00.jpg">
   <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-23T11:03:52.704411-05:00.jpg"
-     alt="Texas Tribune at 2022-07-23 04:03:54-05:00 local time"
+     alt="Texas Tribune at 2022-07-23 11:03:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-23T11:03:52.704411-05:00.jpg">July 23 at 4:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-22T23:24:22.907155-05:00.jpg">
-  <img src="https://archive.org/download/texastribune-2022/texastribune-2022-07-22T23:24:22.907155-05:00.jpg"
-     alt="Texas Tribune at 2022-07-22 16:24:24-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-22T23:24:22.907155-05:00.jpg">July 22 at 4:24 PM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-23T11:03:52.704411-05:00.jpg">July 23 at 11:03 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 85 hyperlink lists with the Internet Archive.
+The archiving routine has saved 86 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 1:31 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-27T20:31:36.284197-05:00.hyperlinks.json) |
-| [July 27 at 1:22 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-27T08:22:32.989429-05:00.hyperlinks.json) |
-| [July 26 at 1:28 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-26T20:28:10.929377-05:00.hyperlinks.json) |
-| [July 26 at 1:29 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-26T08:29:55.105811-05:00.hyperlinks.json) |
-| [July 25 at 2:51 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T21:51:42.756402-05:00.hyperlinks.json) |
-| [July 25 at 1:34 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T20:34:24.471323-05:00.hyperlinks.json) |
-| [July 25 at 3:45 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T10:45:02.155122-05:00.hyperlinks.json) |
-| [July 24 at 4:34 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-24T23:34:43.487327-05:00.hyperlinks.json) |
-| [July 24 at 3:04 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-24T10:04:43.811064-05:00.hyperlinks.json) |
-| [July 23 at 3:41 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-23T22:41:29.148211-05:00.hyperlinks.json) |
+| [July 28 at 8:25 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-28T08:25:11.745943-05:00.hyperlinks.json) |
+| [July 27 at 8:31 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-27T20:31:36.284197-05:00.hyperlinks.json) |
+| [July 27 at 8:22 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-27T08:22:32.989429-05:00.hyperlinks.json) |
+| [July 26 at 8:28 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-26T20:28:10.929377-05:00.hyperlinks.json) |
+| [July 26 at 8:29 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-26T08:29:55.105811-05:00.hyperlinks.json) |
+| [July 25 at 9:51 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T21:51:42.756402-05:00.hyperlinks.json) |
+| [July 25 at 8:34 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T20:34:24.471323-05:00.hyperlinks.json) |
+| [July 25 at 10:45 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T10:45:02.155122-05:00.hyperlinks.json) |
+| [July 24 at 11:34 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-24T23:34:43.487327-05:00.hyperlinks.json) |
+| [July 24 at 10:04 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-24T10:04:43.811064-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 85 accessibility trees with the Internet Archive.
+The archiving routine has saved 86 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 1:31 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-27T20:31:36.284197-05:00.accessibility.json) |
-| [July 27 at 1:22 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-27T08:22:32.989429-05:00.accessibility.json) |
-| [July 26 at 1:28 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-26T20:28:10.929377-05:00.accessibility.json) |
-| [July 26 at 1:29 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-26T08:29:55.105811-05:00.accessibility.json) |
-| [July 25 at 2:51 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T21:51:42.756402-05:00.accessibility.json) |
-| [July 25 at 1:34 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T20:34:24.471323-05:00.accessibility.json) |
-| [July 25 at 3:45 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T10:45:02.155122-05:00.accessibility.json) |
-| [July 24 at 4:34 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-24T23:34:43.487327-05:00.accessibility.json) |
-| [July 24 at 3:04 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-24T10:04:43.811064-05:00.accessibility.json) |
-| [July 23 at 3:41 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-23T22:41:29.148211-05:00.accessibility.json) |
+| [July 28 at 8:25 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-28T08:25:11.745943-05:00.accessibility.json) |
+| [July 27 at 8:31 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-27T20:31:36.284197-05:00.accessibility.json) |
+| [July 27 at 8:22 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-27T08:22:32.989429-05:00.accessibility.json) |
+| [July 26 at 8:28 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-26T20:28:10.929377-05:00.accessibility.json) |
+| [July 26 at 8:29 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-26T08:29:55.105811-05:00.accessibility.json) |
+| [July 25 at 9:51 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T21:51:42.756402-05:00.accessibility.json) |
+| [July 25 at 8:34 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T20:34:24.471323-05:00.accessibility.json) |
+| [July 25 at 10:45 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T10:45:02.155122-05:00.accessibility.json) |
+| [July 24 at 11:34 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-24T23:34:43.487327-05:00.accessibility.json) |
+| [July 24 at 10:04 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-24T10:04:43.811064-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 1:31 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-27T20:31:36.284197-05:00.lighthouse.json) |
-| [July 27 at 1:22 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-27T08:22:32.989429-05:00.lighthouse.json) |
-| [July 26 at 1:28 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-26T20:28:10.929377-05:00.lighthouse.json) |
-| [July 26 at 1:30 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-26T08:29:55.105811-05:00.lighthouse.json) |
-| [July 25 at 2:51 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T21:51:42.756402-05:00.lighthouse.json) |
-| [July 25 at 1:34 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T20:34:24.471323-05:00.lighthouse.json) |
-| [July 25 at 3:45 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T10:45:02.155122-05:00.lighthouse.json) |
-| [July 24 at 4:34 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-24T23:34:43.487327-05:00.lighthouse.json) |
-| [July 24 at 3:04 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-24T10:04:43.811064-05:00.lighthouse.json) |
-| [July 23 at 3:41 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-23T22:41:29.148211-05:00.lighthouse.json) |
+| [July 28 at 8:25 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-28T08:25:11.745943-05:00.lighthouse.json) |
+| [July 27 at 8:31 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-27T20:31:36.284197-05:00.lighthouse.json) |
+| [July 27 at 8:22 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-27T08:22:32.989429-05:00.lighthouse.json) |
+| [July 26 at 8:28 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-26T20:28:10.929377-05:00.lighthouse.json) |
+| [July 26 at 8:30 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-26T08:29:55.105811-05:00.lighthouse.json) |
+| [July 25 at 9:51 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T21:51:42.756402-05:00.lighthouse.json) |
+| [July 25 at 8:34 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T20:34:24.471323-05:00.lighthouse.json) |
+| [July 25 at 10:45 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-25T10:45:02.155122-05:00.lighthouse.json) |
+| [July 24 at 11:34 PM](https://archive.org/download/texastribune-2022/texastribune-2022-07-24T23:34:43.487327-05:00.lighthouse.json) |
+| [July 24 at 10:04 AM](https://archive.org/download/texastribune-2022/texastribune-2022-07-24T10:04:43.811064-05:00.lighthouse.json) |
 
 
 

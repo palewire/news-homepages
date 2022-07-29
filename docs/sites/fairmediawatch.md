@@ -20,8 +20,91 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 30 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/fairmediawatch.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
@@ -29,163 +112,329 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T07:11:11.568588-04:00.jpg">
-  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T07:11:11.568588-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-07-28 00:11:13-04:00 local time"
+ <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T19:12:54.980896-04:00.jpg">
+  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T19:12:54.980896-04:00.jpg"
+     alt="Fairness and Accuracy in Reporting at 2022-07-28 19:12:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T07:11:11.568588-04:00.jpg">July 28 at 12:11 AM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T19:12:54.980896-04:00.jpg">July 28 at 7:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T14:45:38.573598-04:00.jpg">
+  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T14:45:38.573598-04:00.jpg"
+     alt="Fairness and Accuracy in Reporting at 2022-07-28 14:45:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T14:45:38.573598-04:00.jpg">July 28 at 2:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T07:11:11.568588-04:00.jpg">
+  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T07:11:11.568588-04:00.jpg"
+     alt="Fairness and Accuracy in Reporting at 2022-07-28 07:11:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T07:11:11.568588-04:00.jpg">July 28 at 7:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T19:07:00.528168-04:00.jpg">
   <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T19:07:00.528168-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-07-27 12:07:02-04:00 local time"
+     alt="Fairness and Accuracy in Reporting at 2022-07-27 19:07:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T19:07:00.528168-04:00.jpg">July 27 at 12:07 PM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T19:07:00.528168-04:00.jpg">July 27 at 7:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T07:08:44.139529-04:00.jpg">
   <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T07:08:44.139529-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-07-27 00:08:45-04:00 local time"
+     alt="Fairness and Accuracy in Reporting at 2022-07-27 07:08:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T07:08:44.139529-04:00.jpg">July 27 at 12:08 AM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T07:08:44.139529-04:00.jpg">July 27 at 7:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T19:09:43.058335-04:00.jpg">
   <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T19:09:43.058335-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-07-26 12:09:44-04:00 local time"
+     alt="Fairness and Accuracy in Reporting at 2022-07-26 19:09:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T19:09:43.058335-04:00.jpg">July 26 at 12:09 PM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T19:09:43.058335-04:00.jpg">July 26 at 7:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T14:36:39.368162-04:00.jpg">
   <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T14:36:39.368162-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-07-26 07:36:41-04:00 local time"
+     alt="Fairness and Accuracy in Reporting at 2022-07-26 14:36:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T14:36:39.368162-04:00.jpg">July 26 at 7:36 AM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T14:36:39.368162-04:00.jpg">July 26 at 2:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T07:17:44.911428-04:00.jpg">
   <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T07:17:44.911428-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-07-26 00:17:47-04:00 local time"
+     alt="Fairness and Accuracy in Reporting at 2022-07-26 07:17:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T07:17:44.911428-04:00.jpg">July 26 at 12:17 AM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T07:17:44.911428-04:00.jpg">July 26 at 7:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T19:13:53.285114-04:00.jpg">
   <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T19:13:53.285114-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-07-25 12:13:54-04:00 local time"
+     alt="Fairness and Accuracy in Reporting at 2022-07-25 19:13:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T19:13:53.285114-04:00.jpg">July 25 at 12:13 PM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T19:13:53.285114-04:00.jpg">July 25 at 7:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T14:39:48.251735-04:00.jpg">
   <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T14:39:48.251735-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-07-25 07:39:49-04:00 local time"
+     alt="Fairness and Accuracy in Reporting at 2022-07-25 14:39:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T14:39:48.251735-04:00.jpg">July 25 at 7:39 AM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T14:39:48.251735-04:00.jpg">July 25 at 2:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T12:36:49.666325-04:00.jpg">
   <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T12:36:49.666325-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-07-25 05:36:51-04:00 local time"
+     alt="Fairness and Accuracy in Reporting at 2022-07-25 12:36:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T12:36:49.666325-04:00.jpg">July 25 at 5:36 AM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T12:36:49.666325-04:00.jpg">July 25 at 12:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T08:01:48.693729-04:00.jpg">
   <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T08:01:48.693729-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-07-25 01:01:50-04:00 local time"
+     alt="Fairness and Accuracy in Reporting at 2022-07-25 08:01:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T08:01:48.693729-04:00.jpg">July 25 at 1:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-24T21:04:07.481892-04:00.jpg">
-  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-24T21:04:07.481892-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-07-24 14:04:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-24T21:04:07.481892-04:00.jpg">July 24 at 2:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-24T11:42:28.300709-04:00.jpg">
-  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-24T11:42:28.300709-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-07-24 04:42:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-24T11:42:28.300709-04:00.jpg">July 24 at 4:42 AM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T08:01:48.693729-04:00.jpg">July 25 at 8:01 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/fairmediawatch.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 28 at 12:11 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T07:11:11.568588-04:00.hyperlinks.json) |
-| [July 27 at 12:07 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T19:07:00.528168-04:00.hyperlinks.json) |
-| [July 27 at 12:08 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T07:08:44.139529-04:00.hyperlinks.json) |
-| [July 26 at 12:09 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T19:09:43.058335-04:00.hyperlinks.json) |
-| [July 26 at 7:36 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T14:36:39.368162-04:00.hyperlinks.json) |
-| [July 26 at 12:17 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T07:17:44.911428-04:00.hyperlinks.json) |
-| [July 25 at 12:13 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T19:13:53.285114-04:00.hyperlinks.json) |
-| [July 25 at 7:39 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T14:39:48.251735-04:00.hyperlinks.json) |
-| [July 25 at 5:36 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T12:36:49.666325-04:00.hyperlinks.json) |
-| [July 25 at 1:01 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T08:01:48.693729-04:00.hyperlinks.json) |
+| [July 28 at 7:13 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T19:12:54.980896-04:00.hyperlinks.json) |
+| [July 28 at 2:45 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T14:45:38.573598-04:00.hyperlinks.json) |
+| [July 28 at 7:11 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T07:11:11.568588-04:00.hyperlinks.json) |
+| [July 27 at 7:07 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T19:07:00.528168-04:00.hyperlinks.json) |
+| [July 27 at 7:08 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T07:08:44.139529-04:00.hyperlinks.json) |
+| [July 26 at 7:09 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T19:09:43.058335-04:00.hyperlinks.json) |
+| [July 26 at 2:36 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T14:36:39.368162-04:00.hyperlinks.json) |
+| [July 26 at 7:17 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T07:17:44.911428-04:00.hyperlinks.json) |
+| [July 25 at 7:13 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T19:13:53.285114-04:00.hyperlinks.json) |
+| [July 25 at 2:39 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T14:39:48.251735-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 30 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/fairmediawatch.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 28 at 12:11 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T07:11:11.568588-04:00.accessibility.json) |
-| [July 27 at 12:07 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T19:07:00.528168-04:00.accessibility.json) |
-| [July 27 at 12:08 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T07:08:44.139529-04:00.accessibility.json) |
-| [July 26 at 12:09 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T19:09:43.058335-04:00.accessibility.json) |
-| [July 26 at 7:36 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T14:36:39.368162-04:00.accessibility.json) |
-| [July 26 at 12:17 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T07:17:44.911428-04:00.accessibility.json) |
-| [July 25 at 12:13 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T19:13:53.285114-04:00.accessibility.json) |
-| [July 25 at 7:39 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T14:39:48.251735-04:00.accessibility.json) |
-| [July 25 at 5:36 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T12:36:49.666325-04:00.accessibility.json) |
-| [July 25 at 1:01 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T08:01:48.693729-04:00.accessibility.json) |
+| [July 28 at 7:13 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T19:12:54.980896-04:00.accessibility.json) |
+| [July 28 at 2:45 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T14:45:38.573598-04:00.accessibility.json) |
+| [July 28 at 7:11 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T07:11:11.568588-04:00.accessibility.json) |
+| [July 27 at 7:07 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T19:07:00.528168-04:00.accessibility.json) |
+| [July 27 at 7:08 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T07:08:44.139529-04:00.accessibility.json) |
+| [July 26 at 7:09 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T19:09:43.058335-04:00.accessibility.json) |
+| [July 26 at 2:36 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T14:36:39.368162-04:00.accessibility.json) |
+| [July 26 at 7:17 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T07:17:44.911428-04:00.accessibility.json) |
+| [July 25 at 7:13 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T19:13:53.285114-04:00.accessibility.json) |
+| [July 25 at 2:39 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T14:39:48.251735-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 28 at 12:11 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T07:11:11.568588-04:00.lighthouse.json) |
-| [July 27 at 12:07 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T19:07:00.528168-04:00.lighthouse.json) |
-| [July 27 at 12:08 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T07:08:44.139529-04:00.lighthouse.json) |
-| [July 26 at 12:09 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T19:09:43.058335-04:00.lighthouse.json) |
-| [July 26 at 7:36 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T14:36:39.368162-04:00.lighthouse.json) |
-| [July 26 at 12:17 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T07:17:44.911428-04:00.lighthouse.json) |
-| [July 25 at 12:13 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T19:13:53.285114-04:00.lighthouse.json) |
-| [July 25 at 7:39 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T14:39:48.251735-04:00.lighthouse.json) |
-| [July 25 at 5:36 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T12:36:49.666325-04:00.lighthouse.json) |
-| [July 25 at 1:01 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T08:01:48.693729-04:00.lighthouse.json) |
+| [July 28 at 7:13 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T19:12:54.980896-04:00.lighthouse.json) |
+| [July 28 at 2:45 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T14:45:38.573598-04:00.lighthouse.json) |
+| [July 28 at 7:11 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T07:11:11.568588-04:00.lighthouse.json) |
+| [July 27 at 7:07 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T19:07:00.528168-04:00.lighthouse.json) |
+| [July 27 at 7:08 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T07:08:44.139529-04:00.lighthouse.json) |
+| [July 26 at 7:09 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T19:09:43.058335-04:00.lighthouse.json) |
+| [July 26 at 2:36 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T14:36:39.368162-04:00.lighthouse.json) |
+| [July 26 at 7:17 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T07:17:44.911428-04:00.lighthouse.json) |
+| [July 25 at 7:13 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T19:13:53.285114-04:00.lighthouse.json) |
+| [July 25 at 2:39 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-25T14:39:48.251735-04:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 82 screenshots with the Internet Archive.
+The archiving routine has saved 83 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T21:42:39.029115-06:00.jpg">
-  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T21:42:39.029115-06:00.jpg"
-     alt="Prensa Grafica at 2022-07-27 14:42:44-06:00 local time"
+ <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-28T09:48:56.196953-06:00.jpg">
+  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-28T09:48:56.196953-06:00.jpg"
+     alt="Prensa Grafica at 2022-07-28 09:49:02-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T21:42:39.029115-06:00.jpg">July 27 at 2:42 PM</a></p>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-28T09:48:56.196953-06:00.jpg">July 28 at 9:49 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T21:42:39.029115-06:00.jpg">
+  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T21:42:39.029115-06:00.jpg"
+     alt="Prensa Grafica at 2022-07-27 21:42:44-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T21:42:39.029115-06:00.jpg">July 27 at 9:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T09:44:13.314161-06:00.jpg">
   <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T09:44:13.314161-06:00.jpg"
-     alt="Prensa Grafica at 2022-07-27 02:44:19-06:00 local time"
+     alt="Prensa Grafica at 2022-07-27 09:44:19-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T09:44:13.314161-06:00.jpg">July 27 at 2:44 AM</a></p>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T09:44:13.314161-06:00.jpg">July 27 at 9:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T21:52:24.962014-06:00.jpg">
   <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T21:52:24.962014-06:00.jpg"
-     alt="Prensa Grafica at 2022-07-26 14:52:27-06:00 local time"
+     alt="Prensa Grafica at 2022-07-26 21:52:27-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T21:52:24.962014-06:00.jpg">July 26 at 2:52 PM</a></p>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T21:52:24.962014-06:00.jpg">July 26 at 9:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T09:43:00.851263-06:00.jpg">
   <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T09:43:00.851263-06:00.jpg"
-     alt="Prensa Grafica at 2022-07-26 02:43:04-06:00 local time"
+     alt="Prensa Grafica at 2022-07-26 09:43:04-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T09:43:00.851263-06:00.jpg">July 26 at 2:43 AM</a></p>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T09:43:00.851263-06:00.jpg">July 26 at 9:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T21:54:47.410620-06:00.jpg">
   <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T21:54:47.410620-06:00.jpg"
-     alt="Prensa Grafica at 2022-07-25 14:54:48-06:00 local time"
+     alt="Prensa Grafica at 2022-07-25 21:54:48-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T21:54:47.410620-06:00.jpg">July 25 at 2:54 PM</a></p>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T21:54:47.410620-06:00.jpg">July 25 at 9:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T09:37:48.710102-06:00.jpg">
   <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T09:37:48.710102-06:00.jpg"
-     alt="Prensa Grafica at 2022-07-25 02:37:55-06:00 local time"
+     alt="Prensa Grafica at 2022-07-25 09:37:55-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T09:37:48.710102-06:00.jpg">July 25 at 2:37 AM</a></p>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T09:37:48.710102-06:00.jpg">July 25 at 9:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T21:40:08.788156-06:00.jpg">
   <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T21:40:08.788156-06:00.jpg"
-     alt="Prensa Grafica at 2022-07-24 14:40:15-06:00 local time"
+     alt="Prensa Grafica at 2022-07-24 21:40:15-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T21:40:08.788156-06:00.jpg">July 24 at 2:40 PM</a></p>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T21:40:08.788156-06:00.jpg">July 24 at 9:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T08:01:15.706196-06:00.jpg">
   <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T08:01:15.706196-06:00.jpg"
-     alt="Prensa Grafica at 2022-07-24 01:01:18-06:00 local time"
+     alt="Prensa Grafica at 2022-07-24 08:01:18-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T08:01:15.706196-06:00.jpg">July 24 at 1:01 AM</a></p>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T08:01:15.706196-06:00.jpg">July 24 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T00:20:11.544213-06:00.jpg">
   <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T00:20:11.544213-06:00.jpg"
-     alt="Prensa Grafica at 2022-07-23 17:20:13-06:00 local time"
+     alt="Prensa Grafica at 2022-07-24 00:20:13-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T00:20:11.544213-06:00.jpg">July 23 at 5:20 PM</a></p>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T00:20:11.544213-06:00.jpg">July 24 at 12:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-23T09:06:48.695563-06:00.jpg">
   <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-23T09:06:48.695563-06:00.jpg"
-     alt="Prensa Grafica at 2022-07-23 02:06:50-06:00 local time"
+     alt="Prensa Grafica at 2022-07-23 09:06:50-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-23T09:06:48.695563-06:00.jpg">July 23 at 2:06 AM</a></p>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-23T09:06:48.695563-06:00.jpg">July 23 at 9:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-22T21:37:00.119838-06:00.jpg">
   <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-22T21:37:00.119838-06:00.jpg"
-     alt="Prensa Grafica at 2022-07-22 14:37:01-06:00 local time"
+     alt="Prensa Grafica at 2022-07-22 21:37:01-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-22T21:37:00.119838-06:00.jpg">July 22 at 2:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-22T09:02:15.358050-06:00.jpg">
-  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-22T09:02:15.358050-06:00.jpg"
-     alt="Prensa Grafica at 2022-07-22 02:02:19-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-22T09:02:15.358050-06:00.jpg">July 22 at 2:02 AM</a></p>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-22T21:37:00.119838-06:00.jpg">July 22 at 9:37 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 80 hyperlink lists with the Internet Archive.
+The archiving routine has saved 81 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 2:42 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T21:42:39.029115-06:00.hyperlinks.json) |
-| [July 27 at 2:44 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T09:44:13.314161-06:00.hyperlinks.json) |
-| [July 26 at 2:52 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T21:52:24.962014-06:00.hyperlinks.json) |
-| [July 26 at 2:43 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T09:43:00.851263-06:00.hyperlinks.json) |
-| [July 25 at 2:54 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T21:54:47.410620-06:00.hyperlinks.json) |
-| [July 25 at 2:37 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T09:37:48.710102-06:00.hyperlinks.json) |
-| [July 24 at 2:40 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T21:40:08.788156-06:00.hyperlinks.json) |
-| [July 24 at 1:01 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T08:01:15.706196-06:00.hyperlinks.json) |
-| [July 23 at 5:20 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T00:20:11.544213-06:00.hyperlinks.json) |
-| [July 23 at 2:06 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-23T09:06:48.695563-06:00.hyperlinks.json) |
+| [July 28 at 9:49 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-28T09:48:56.196953-06:00.hyperlinks.json) |
+| [July 27 at 9:42 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T21:42:39.029115-06:00.hyperlinks.json) |
+| [July 27 at 9:44 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T09:44:13.314161-06:00.hyperlinks.json) |
+| [July 26 at 9:52 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T21:52:24.962014-06:00.hyperlinks.json) |
+| [July 26 at 9:43 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T09:43:00.851263-06:00.hyperlinks.json) |
+| [July 25 at 9:54 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T21:54:47.410620-06:00.hyperlinks.json) |
+| [July 25 at 9:37 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T09:37:48.710102-06:00.hyperlinks.json) |
+| [July 24 at 9:40 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T21:40:08.788156-06:00.hyperlinks.json) |
+| [July 24 at 8:01 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T08:01:15.706196-06:00.hyperlinks.json) |
+| [July 24 at 12:20 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T00:20:11.544213-06:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 81 accessibility trees with the Internet Archive.
+The archiving routine has saved 82 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 2:42 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T21:42:39.029115-06:00.accessibility.json) |
-| [July 26 at 2:52 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T21:52:24.962014-06:00.accessibility.json) |
-| [July 26 at 2:43 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T09:43:00.851263-06:00.accessibility.json) |
-| [July 25 at 2:54 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T21:54:47.410620-06:00.accessibility.json) |
-| [July 25 at 2:37 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T09:37:48.710102-06:00.accessibility.json) |
-| [July 24 at 2:40 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T21:40:08.788156-06:00.accessibility.json) |
-| [July 24 at 1:01 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T08:01:15.706196-06:00.accessibility.json) |
-| [July 23 at 5:20 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T00:20:11.544213-06:00.accessibility.json) |
-| [July 23 at 2:06 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-23T09:06:48.695563-06:00.accessibility.json) |
-| [July 22 at 2:37 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-22T21:37:00.119838-06:00.accessibility.json) |
+| [July 28 at 9:49 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-28T09:48:56.196953-06:00.accessibility.json) |
+| [July 27 at 9:42 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T21:42:39.029115-06:00.accessibility.json) |
+| [July 26 at 9:52 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T21:52:24.962014-06:00.accessibility.json) |
+| [July 26 at 9:43 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T09:43:00.851263-06:00.accessibility.json) |
+| [July 25 at 9:54 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T21:54:47.410620-06:00.accessibility.json) |
+| [July 25 at 9:37 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T09:37:48.710102-06:00.accessibility.json) |
+| [July 24 at 9:40 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T21:40:08.788156-06:00.accessibility.json) |
+| [July 24 at 8:01 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T08:01:15.706196-06:00.accessibility.json) |
+| [July 24 at 12:20 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T00:20:11.544213-06:00.accessibility.json) |
+| [July 23 at 9:06 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-23T09:06:48.695563-06:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,15 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 2:42 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T21:42:39.029115-06:00.lighthouse.json) |
-| [July 27 at 2:44 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T09:44:13.314161-06:00.lighthouse.json) |
-| [July 26 at 2:52 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T21:52:24.962014-06:00.lighthouse.json) |
-| [July 26 at 2:43 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T09:43:00.851263-06:00.lighthouse.json) |
-| [July 25 at 2:54 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T21:54:47.410620-06:00.lighthouse.json) |
-| [July 25 at 2:38 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T09:37:48.710102-06:00.lighthouse.json) |
-| [July 24 at 2:40 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T21:40:08.788156-06:00.lighthouse.json) |
-| [July 24 at 1:01 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T08:01:15.706196-06:00.lighthouse.json) |
-| [July 23 at 5:20 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T00:20:11.544213-06:00.lighthouse.json) |
+| [July 28 at 9:49 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-28T09:48:56.196953-06:00.lighthouse.json) |
+| [July 27 at 9:42 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T21:42:39.029115-06:00.lighthouse.json) |
+| [July 27 at 9:44 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-27T09:44:13.314161-06:00.lighthouse.json) |
+| [July 26 at 9:52 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T21:52:24.962014-06:00.lighthouse.json) |
+| [July 26 at 9:43 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-26T09:43:00.851263-06:00.lighthouse.json) |
+| [July 25 at 9:54 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T21:54:47.410620-06:00.lighthouse.json) |
+| [July 25 at 9:38 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-25T09:37:48.710102-06:00.lighthouse.json) |
+| [July 24 at 9:40 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T21:40:08.788156-06:00.lighthouse.json) |
+| [July 24 at 8:01 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T08:01:15.706196-06:00.lighthouse.json) |
+| [July 24 at 12:20 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-07-24T00:20:11.544213-06:00.lighthouse.json) |
 
 
 

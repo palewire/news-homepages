@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 78 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T23:50:41.791270-04:00.jpg">
-  <img src="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T23:50:41.791270-04:00.jpg"
-     alt="Washington Post at 2022-07-27 16:50:44-04:00 local time"
+ <a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-28T17:14:34.687277-04:00.jpg">
+  <img src="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-28T17:14:34.687277-04:00.jpg"
+     alt="Washington Post at 2022-07-28 17:14:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T23:50:41.791270-04:00.jpg">July 27 at 4:50 PM</a></p>
+ <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-28T17:14:34.687277-04:00.jpg">July 28 at 5:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-28T11:59:38.446893-04:00.jpg">
+  <img src="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-28T11:59:38.446893-04:00.jpg"
+     alt="Washington Post at 2022-07-28 11:59:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-28T11:59:38.446893-04:00.jpg">July 28 at 11:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-28T11:57:04.630093-04:00.jpg">
+  <img src="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-28T11:57:04.630093-04:00.jpg"
+     alt="Washington Post at 2022-07-28 11:57:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-28T11:57:04.630093-04:00.jpg">July 28 at 11:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T23:50:41.791270-04:00.jpg">
+  <img src="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T23:50:41.791270-04:00.jpg"
+     alt="Washington Post at 2022-07-27 23:50:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T23:50:41.791270-04:00.jpg">July 27 at 11:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T17:14:44.159009-04:00.jpg">
   <img src="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T17:14:44.159009-04:00.jpg"
-     alt="Washington Post at 2022-07-27 10:14:45-04:00 local time"
+     alt="Washington Post at 2022-07-27 17:14:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T17:14:44.159009-04:00.jpg">July 27 at 10:14 AM</a></p>
+ <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T17:14:44.159009-04:00.jpg">July 27 at 5:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T11:59:49.693553-04:00.jpg">
   <img src="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T11:59:49.693553-04:00.jpg"
-     alt="Washington Post at 2022-07-27 04:59:51-04:00 local time"
+     alt="Washington Post at 2022-07-27 11:59:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T11:59:49.693553-04:00.jpg">July 27 at 4:59 AM</a></p>
+ <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T11:59:49.693553-04:00.jpg">July 27 at 11:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T11:51:15.274311-04:00.jpg">
   <img src="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T11:51:15.274311-04:00.jpg"
-     alt="Washington Post at 2022-07-27 04:51:18-04:00 local time"
+     alt="Washington Post at 2022-07-27 11:51:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T11:51:15.274311-04:00.jpg">July 27 at 4:51 AM</a></p>
+ <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T11:51:15.274311-04:00.jpg">July 27 at 11:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T23:58:37.663848-04:00.jpg">
   <img src="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T23:58:37.663848-04:00.jpg"
-     alt="Washington Post at 2022-07-26 16:58:39-04:00 local time"
+     alt="Washington Post at 2022-07-26 23:58:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T23:58:37.663848-04:00.jpg">July 26 at 4:58 PM</a></p>
+ <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T23:58:37.663848-04:00.jpg">July 26 at 11:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T17:11:53.086984-04:00.jpg">
   <img src="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T17:11:53.086984-04:00.jpg"
-     alt="Washington Post at 2022-07-26 10:11:57-04:00 local time"
+     alt="Washington Post at 2022-07-26 17:11:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T17:11:53.086984-04:00.jpg">July 26 at 10:11 AM</a></p>
+ <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T17:11:53.086984-04:00.jpg">July 26 at 5:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T11:58:35.895581-04:00.jpg">
   <img src="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T11:58:35.895581-04:00.jpg"
-     alt="Washington Post at 2022-07-26 04:58:37-04:00 local time"
+     alt="Washington Post at 2022-07-26 11:58:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T11:58:35.895581-04:00.jpg">July 26 at 4:58 AM</a></p>
+ <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T11:58:35.895581-04:00.jpg">July 26 at 11:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T11:49:45.075540-04:00.jpg">
   <img src="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T11:49:45.075540-04:00.jpg"
-     alt="Washington Post at 2022-07-26 04:49:49-04:00 local time"
+     alt="Washington Post at 2022-07-26 11:49:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T11:49:45.075540-04:00.jpg">July 26 at 4:49 AM</a></p>
+ <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T11:49:45.075540-04:00.jpg">July 26 at 11:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T00:01:29.495996-04:00.jpg">
   <img src="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T00:01:29.495996-04:00.jpg"
-     alt="Washington Post at 2022-07-25 17:01:37-04:00 local time"
+     alt="Washington Post at 2022-07-26 00:01:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T00:01:29.495996-04:00.jpg">July 25 at 5:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-25T17:14:29.734901-04:00.jpg">
-  <img src="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-25T17:14:29.734901-04:00.jpg"
-     alt="Washington Post at 2022-07-25 10:14:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-25T17:14:29.734901-04:00.jpg">July 25 at 10:14 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-25T11:55:36.270729-04:00.jpg">
-  <img src="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-25T11:55:36.270729-04:00.jpg"
-     alt="Washington Post at 2022-07-25 04:55:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-25T11:55:36.270729-04:00.jpg">July 25 at 4:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-25T11:52:49.553911-04:00.jpg">
-  <img src="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-25T11:52:49.553911-04:00.jpg"
-     alt="Washington Post at 2022-07-25 04:52:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-25T11:52:49.553911-04:00.jpg">July 25 at 4:52 AM</a></p>
+ <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T00:01:29.495996-04:00.jpg">July 26 at 12:01 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 77 hyperlink lists with the Internet Archive.
+The archiving routine has saved 80 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 4:50 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T23:50:41.791270-04:00.hyperlinks.json) |
-| [July 27 at 10:14 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T17:14:44.159009-04:00.hyperlinks.json) |
-| [July 27 at 4:59 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T11:59:49.693553-04:00.hyperlinks.json) |
-| [July 27 at 4:51 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T11:51:15.274311-04:00.hyperlinks.json) |
-| [July 26 at 4:58 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T23:58:37.663848-04:00.hyperlinks.json) |
-| [July 26 at 10:11 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T17:11:53.086984-04:00.hyperlinks.json) |
-| [July 26 at 4:58 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T11:58:35.895581-04:00.hyperlinks.json) |
-| [July 26 at 4:49 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T11:49:45.075540-04:00.hyperlinks.json) |
-| [July 25 at 5:01 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T00:01:29.495996-04:00.hyperlinks.json) |
-| [July 25 at 10:14 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-25T17:14:29.734901-04:00.hyperlinks.json) |
+| [July 28 at 5:14 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-28T17:14:34.687277-04:00.hyperlinks.json) |
+| [July 28 at 11:59 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-28T11:59:38.446893-04:00.hyperlinks.json) |
+| [July 28 at 11:57 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-28T11:57:04.630093-04:00.hyperlinks.json) |
+| [July 27 at 11:50 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T23:50:41.791270-04:00.hyperlinks.json) |
+| [July 27 at 5:14 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T17:14:44.159009-04:00.hyperlinks.json) |
+| [July 27 at 11:59 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T11:59:49.693553-04:00.hyperlinks.json) |
+| [July 27 at 11:51 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T11:51:15.274311-04:00.hyperlinks.json) |
+| [July 26 at 11:58 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T23:58:37.663848-04:00.hyperlinks.json) |
+| [July 26 at 5:11 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T17:11:53.086984-04:00.hyperlinks.json) |
+| [July 26 at 11:58 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T11:58:35.895581-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 73 accessibility trees with the Internet Archive.
+The archiving routine has saved 76 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 4:50 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T23:50:41.791270-04:00.accessibility.json) |
-| [July 27 at 10:14 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T17:14:44.159009-04:00.accessibility.json) |
-| [July 26 at 4:58 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T11:58:35.895581-04:00.accessibility.json) |
-| [July 26 at 4:49 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T11:49:45.075540-04:00.accessibility.json) |
-| [July 25 at 5:01 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T00:01:29.495996-04:00.accessibility.json) |
-| [July 25 at 10:14 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-25T17:14:29.734901-04:00.accessibility.json) |
-| [July 25 at 4:55 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-25T11:55:36.270729-04:00.accessibility.json) |
-| [July 25 at 4:52 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-25T11:52:49.553911-04:00.accessibility.json) |
-| [July 24 at 5:41 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-25T00:41:29.983501-04:00.accessibility.json) |
-| [July 24 at 10:20 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-24T17:20:39.390302-04:00.accessibility.json) |
+| [July 28 at 5:14 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-28T17:14:34.687277-04:00.accessibility.json) |
+| [July 28 at 11:59 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-28T11:59:38.446893-04:00.accessibility.json) |
+| [July 28 at 11:57 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-28T11:57:04.630093-04:00.accessibility.json) |
+| [July 27 at 11:50 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T23:50:41.791270-04:00.accessibility.json) |
+| [July 27 at 5:14 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T17:14:44.159009-04:00.accessibility.json) |
+| [July 26 at 11:58 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T11:58:35.895581-04:00.accessibility.json) |
+| [July 26 at 11:49 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T11:49:45.075540-04:00.accessibility.json) |
+| [July 26 at 12:01 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T00:01:29.495996-04:00.accessibility.json) |
+| [July 25 at 5:14 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-25T17:14:29.734901-04:00.accessibility.json) |
+| [July 25 at 11:55 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-25T11:55:36.270729-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 4:50 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T23:50:41.791270-04:00.lighthouse.json) |
-| [July 27 at 10:14 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T17:14:44.159009-04:00.lighthouse.json) |
-| [July 27 at 4:59 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T11:59:49.693553-04:00.lighthouse.json) |
-| [July 27 at 4:51 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T11:51:15.274311-04:00.lighthouse.json) |
-| [July 26 at 4:58 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T23:58:37.663848-04:00.lighthouse.json) |
-| [July 26 at 10:12 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T17:11:53.086984-04:00.lighthouse.json) |
-| [July 26 at 4:58 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T11:58:35.895581-04:00.lighthouse.json) |
-| [July 26 at 4:49 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T11:49:45.075540-04:00.lighthouse.json) |
-| [July 25 at 5:01 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T00:01:29.495996-04:00.lighthouse.json) |
-| [July 25 at 10:14 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-25T17:14:29.734901-04:00.lighthouse.json) |
+| [July 28 at 5:14 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-28T17:14:34.687277-04:00.lighthouse.json) |
+| [July 28 at 11:59 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-28T11:59:38.446893-04:00.lighthouse.json) |
+| [July 28 at 11:57 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-28T11:57:04.630093-04:00.lighthouse.json) |
+| [July 27 at 11:50 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T23:50:41.791270-04:00.lighthouse.json) |
+| [July 27 at 5:14 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T17:14:44.159009-04:00.lighthouse.json) |
+| [July 27 at 11:59 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T11:59:49.693553-04:00.lighthouse.json) |
+| [July 27 at 11:51 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-27T11:51:15.274311-04:00.lighthouse.json) |
+| [July 26 at 11:58 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T23:58:37.663848-04:00.lighthouse.json) |
+| [July 26 at 5:12 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T17:11:53.086984-04:00.lighthouse.json) |
+| [July 26 at 11:58 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-07-26T11:58:35.895581-04:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 58 screenshots with the Internet Archive.
+The archiving routine has saved 60 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T20:10:05.686092-04:00.jpg">
-  <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T20:10:05.686092-04:00.jpg"
-     alt="Philadelphia Tribune at 2022-07-27 13:10:07-04:00 local time"
+ <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-28T20:18:11.931514-04:00.jpg">
+  <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-28T20:18:11.931514-04:00.jpg"
+     alt="Philadelphia Tribune at 2022-07-28 20:18:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T20:10:05.686092-04:00.jpg">July 27 at 1:10 PM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-28T20:18:11.931514-04:00.jpg">July 28 at 8:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-28T09:16:36.595249-04:00.jpg">
+  <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-28T09:16:36.595249-04:00.jpg"
+     alt="Philadelphia Tribune at 2022-07-28 09:16:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-28T09:16:36.595249-04:00.jpg">July 28 at 9:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T20:10:05.686092-04:00.jpg">
+  <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T20:10:05.686092-04:00.jpg"
+     alt="Philadelphia Tribune at 2022-07-27 20:10:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T20:10:05.686092-04:00.jpg">July 27 at 8:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T09:14:11.957238-04:00.jpg">
   <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T09:14:11.957238-04:00.jpg"
-     alt="Philadelphia Tribune at 2022-07-27 02:14:13-04:00 local time"
+     alt="Philadelphia Tribune at 2022-07-27 09:14:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T09:14:11.957238-04:00.jpg">July 27 at 2:14 AM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T09:14:11.957238-04:00.jpg">July 27 at 9:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T20:18:11.683280-04:00.jpg">
   <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T20:18:11.683280-04:00.jpg"
-     alt="Philadelphia Tribune at 2022-07-26 13:18:13-04:00 local time"
+     alt="Philadelphia Tribune at 2022-07-26 20:18:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T20:18:11.683280-04:00.jpg">July 26 at 1:18 PM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T20:18:11.683280-04:00.jpg">July 26 at 8:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T08:27:58.248923-04:00.jpg">
   <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T08:27:58.248923-04:00.jpg"
-     alt="Philadelphia Tribune at 2022-07-26 01:28:00-04:00 local time"
+     alt="Philadelphia Tribune at 2022-07-26 08:28:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T08:27:58.248923-04:00.jpg">July 26 at 1:28 AM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T08:27:58.248923-04:00.jpg">July 26 at 8:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T20:22:30.760251-04:00.jpg">
   <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T20:22:30.760251-04:00.jpg"
-     alt="Philadelphia Tribune at 2022-07-25 13:22:34-04:00 local time"
+     alt="Philadelphia Tribune at 2022-07-25 20:22:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T20:22:30.760251-04:00.jpg">July 25 at 1:22 PM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T20:22:30.760251-04:00.jpg">July 25 at 8:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T11:37:22.961514-04:00.jpg">
   <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T11:37:22.961514-04:00.jpg"
-     alt="Philadelphia Tribune at 2022-07-25 04:37:23-04:00 local time"
+     alt="Philadelphia Tribune at 2022-07-25 11:37:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T11:37:22.961514-04:00.jpg">July 25 at 4:37 AM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T11:37:22.961514-04:00.jpg">July 25 at 11:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T23:39:37.947170-04:00.jpg">
   <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T23:39:37.947170-04:00.jpg"
-     alt="Philadelphia Tribune at 2022-07-24 16:39:41-04:00 local time"
+     alt="Philadelphia Tribune at 2022-07-24 23:39:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T23:39:37.947170-04:00.jpg">July 24 at 4:39 PM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T23:39:37.947170-04:00.jpg">July 24 at 11:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T09:59:57.382958-04:00.jpg">
   <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T09:59:57.382958-04:00.jpg"
-     alt="Philadelphia Tribune at 2022-07-24 02:59:58-04:00 local time"
+     alt="Philadelphia Tribune at 2022-07-24 09:59:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T09:59:57.382958-04:00.jpg">July 24 at 2:59 AM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T09:59:57.382958-04:00.jpg">July 24 at 9:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T02:19:18.554197-04:00.jpg">
   <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T02:19:18.554197-04:00.jpg"
-     alt="Philadelphia Tribune at 2022-07-23 19:19:20-04:00 local time"
+     alt="Philadelphia Tribune at 2022-07-24 02:19:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T02:19:18.554197-04:00.jpg">July 23 at 7:19 PM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T02:19:18.554197-04:00.jpg">July 24 at 2:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-23T11:06:51.204446-04:00.jpg">
   <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-23T11:06:51.204446-04:00.jpg"
-     alt="Philadelphia Tribune at 2022-07-23 04:06:52-04:00 local time"
+     alt="Philadelphia Tribune at 2022-07-23 11:06:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-23T11:06:51.204446-04:00.jpg">July 23 at 4:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-22T23:35:51.005820-04:00.jpg">
-  <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-22T23:35:51.005820-04:00.jpg"
-     alt="Philadelphia Tribune at 2022-07-22 16:35:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-22T23:35:51.005820-04:00.jpg">July 22 at 4:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-22T11:01:34.098932-04:00.jpg">
-  <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-22T11:01:34.098932-04:00.jpg"
-     alt="Philadelphia Tribune at 2022-07-22 04:01:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-22T11:01:34.098932-04:00.jpg">July 22 at 4:01 AM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-23T11:06:51.204446-04:00.jpg">July 23 at 11:06 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 58 hyperlink lists with the Internet Archive.
+The archiving routine has saved 60 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 1:10 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T20:10:05.686092-04:00.hyperlinks.json) |
-| [July 27 at 2:14 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T09:14:11.957238-04:00.hyperlinks.json) |
-| [July 26 at 1:18 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T20:18:11.683280-04:00.hyperlinks.json) |
-| [July 26 at 1:28 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T08:27:58.248923-04:00.hyperlinks.json) |
-| [July 25 at 1:22 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T20:22:30.760251-04:00.hyperlinks.json) |
-| [July 25 at 4:37 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T11:37:22.961514-04:00.hyperlinks.json) |
-| [July 24 at 4:39 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T23:39:37.947170-04:00.hyperlinks.json) |
-| [July 24 at 3:00 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T09:59:57.382958-04:00.hyperlinks.json) |
-| [July 23 at 7:19 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T02:19:18.554197-04:00.hyperlinks.json) |
-| [July 23 at 4:06 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-23T11:06:51.204446-04:00.hyperlinks.json) |
+| [July 28 at 8:18 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-28T20:18:11.931514-04:00.hyperlinks.json) |
+| [July 28 at 9:16 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-28T09:16:36.595249-04:00.hyperlinks.json) |
+| [July 27 at 8:10 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T20:10:05.686092-04:00.hyperlinks.json) |
+| [July 27 at 9:14 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T09:14:11.957238-04:00.hyperlinks.json) |
+| [July 26 at 8:18 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T20:18:11.683280-04:00.hyperlinks.json) |
+| [July 26 at 8:28 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T08:27:58.248923-04:00.hyperlinks.json) |
+| [July 25 at 8:22 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T20:22:30.760251-04:00.hyperlinks.json) |
+| [July 25 at 11:37 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T11:37:22.961514-04:00.hyperlinks.json) |
+| [July 24 at 11:39 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T23:39:37.947170-04:00.hyperlinks.json) |
+| [July 24 at 10:00 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T09:59:57.382958-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 58 accessibility trees with the Internet Archive.
+The archiving routine has saved 60 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 1:10 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T20:10:05.686092-04:00.accessibility.json) |
-| [July 27 at 2:14 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T09:14:11.957238-04:00.accessibility.json) |
-| [July 26 at 1:18 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T20:18:11.683280-04:00.accessibility.json) |
-| [July 26 at 1:28 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T08:27:58.248923-04:00.accessibility.json) |
-| [July 25 at 1:22 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T20:22:30.760251-04:00.accessibility.json) |
-| [July 25 at 4:37 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T11:37:22.961514-04:00.accessibility.json) |
-| [July 24 at 4:39 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T23:39:37.947170-04:00.accessibility.json) |
-| [July 24 at 3:00 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T09:59:57.382958-04:00.accessibility.json) |
-| [July 23 at 7:19 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T02:19:18.554197-04:00.accessibility.json) |
-| [July 23 at 4:06 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-23T11:06:51.204446-04:00.accessibility.json) |
+| [July 28 at 8:18 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-28T20:18:11.931514-04:00.accessibility.json) |
+| [July 28 at 9:16 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-28T09:16:36.595249-04:00.accessibility.json) |
+| [July 27 at 8:10 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T20:10:05.686092-04:00.accessibility.json) |
+| [July 27 at 9:14 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T09:14:11.957238-04:00.accessibility.json) |
+| [July 26 at 8:18 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T20:18:11.683280-04:00.accessibility.json) |
+| [July 26 at 8:28 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T08:27:58.248923-04:00.accessibility.json) |
+| [July 25 at 8:22 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T20:22:30.760251-04:00.accessibility.json) |
+| [July 25 at 11:37 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T11:37:22.961514-04:00.accessibility.json) |
+| [July 24 at 11:39 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T23:39:37.947170-04:00.accessibility.json) |
+| [July 24 at 10:00 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T09:59:57.382958-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,15 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 1:10 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T20:10:05.686092-04:00.lighthouse.json) |
-| [July 27 at 2:14 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T09:14:11.957238-04:00.lighthouse.json) |
-| [July 26 at 1:18 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T20:18:11.683280-04:00.lighthouse.json) |
-| [July 26 at 1:28 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T08:27:58.248923-04:00.lighthouse.json) |
-| [July 25 at 1:22 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T20:22:30.760251-04:00.lighthouse.json) |
-| [July 25 at 4:37 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T11:37:22.961514-04:00.lighthouse.json) |
-| [July 24 at 4:39 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T23:39:37.947170-04:00.lighthouse.json) |
-| [July 24 at 3:00 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T09:59:57.382958-04:00.lighthouse.json) |
-| [July 23 at 7:19 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T02:19:18.554197-04:00.lighthouse.json) |
+| [July 28 at 8:18 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-28T20:18:11.931514-04:00.lighthouse.json) |
+| [July 28 at 9:16 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-28T09:16:36.595249-04:00.lighthouse.json) |
+| [July 27 at 8:10 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T20:10:05.686092-04:00.lighthouse.json) |
+| [July 27 at 9:14 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-27T09:14:11.957238-04:00.lighthouse.json) |
+| [July 26 at 8:18 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T20:18:11.683280-04:00.lighthouse.json) |
+| [July 26 at 8:28 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-26T08:27:58.248923-04:00.lighthouse.json) |
+| [July 25 at 8:22 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T20:22:30.760251-04:00.lighthouse.json) |
+| [July 25 at 11:37 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-25T11:37:22.961514-04:00.lighthouse.json) |
+| [July 24 at 11:39 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T23:39:37.947170-04:00.lighthouse.json) |
+| [July 24 at 10:00 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T09:59:57.382958-04:00.lighthouse.json) |
 
 
 

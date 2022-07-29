@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 76 screenshots with the Internet Archive.
+The archiving routine has saved 78 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T17:10:01.504198-07:00.jpg">
-  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T17:10:01.504198-07:00.jpg"
-     alt="Peninsula Press at 2022-07-27 10:10:05-07:00 local time"
+ <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-28T17:18:15.786646-07:00.jpg">
+  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-28T17:18:15.786646-07:00.jpg"
+     alt="Peninsula Press at 2022-07-28 17:18:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T17:10:01.504198-07:00.jpg">July 27 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-28T17:18:15.786646-07:00.jpg">July 28 at 5:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-28T06:17:04.021928-07:00.jpg">
+  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-28T06:17:04.021928-07:00.jpg"
+     alt="Peninsula Press at 2022-07-28 06:17:05-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-28T06:17:04.021928-07:00.jpg">July 28 at 6:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T17:10:01.504198-07:00.jpg">
+  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T17:10:01.504198-07:00.jpg"
+     alt="Peninsula Press at 2022-07-27 17:10:05-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T17:10:01.504198-07:00.jpg">July 27 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T06:13:11.680804-07:00.jpg">
   <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T06:13:11.680804-07:00.jpg"
-     alt="Peninsula Press at 2022-07-26 23:13:17-07:00 local time"
+     alt="Peninsula Press at 2022-07-27 06:13:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T06:13:11.680804-07:00.jpg">July 26 at 11:13 PM</a></p>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T06:13:11.680804-07:00.jpg">July 27 at 6:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T17:18:28.868946-07:00.jpg">
   <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T17:18:28.868946-07:00.jpg"
-     alt="Peninsula Press at 2022-07-26 10:18:31-07:00 local time"
+     alt="Peninsula Press at 2022-07-26 17:18:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T17:18:28.868946-07:00.jpg">July 26 at 10:18 AM</a></p>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T17:18:28.868946-07:00.jpg">July 26 at 5:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T05:27:52.241536-07:00.jpg">
   <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T05:27:52.241536-07:00.jpg"
-     alt="Peninsula Press at 2022-07-25 22:27:56-07:00 local time"
+     alt="Peninsula Press at 2022-07-26 05:27:56-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T05:27:52.241536-07:00.jpg">July 25 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T05:27:52.241536-07:00.jpg">July 26 at 5:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T17:22:57.258659-07:00.jpg">
   <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T17:22:57.258659-07:00.jpg"
-     alt="Peninsula Press at 2022-07-25 10:22:58-07:00 local time"
+     alt="Peninsula Press at 2022-07-25 17:22:58-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T17:22:57.258659-07:00.jpg">July 25 at 10:22 AM</a></p>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T17:22:57.258659-07:00.jpg">July 25 at 5:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T08:36:39.191165-07:00.jpg">
   <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T08:36:39.191165-07:00.jpg"
-     alt="Peninsula Press at 2022-07-25 01:36:42-07:00 local time"
+     alt="Peninsula Press at 2022-07-25 08:36:42-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T08:36:39.191165-07:00.jpg">July 25 at 1:36 AM</a></p>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T08:36:39.191165-07:00.jpg">July 25 at 8:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T20:39:09.048292-07:00.jpg">
   <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T20:39:09.048292-07:00.jpg"
-     alt="Peninsula Press at 2022-07-24 13:39:10-07:00 local time"
+     alt="Peninsula Press at 2022-07-24 20:39:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T20:39:09.048292-07:00.jpg">July 24 at 1:39 PM</a></p>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T20:39:09.048292-07:00.jpg">July 24 at 8:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T07:00:19.194933-07:00.jpg">
   <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T07:00:19.194933-07:00.jpg"
-     alt="Peninsula Press at 2022-07-24 00:00:20-07:00 local time"
+     alt="Peninsula Press at 2022-07-24 07:00:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T07:00:19.194933-07:00.jpg">July 24 at 12:00 AM</a></p>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T07:00:19.194933-07:00.jpg">July 24 at 7:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T23:19:07.765764-07:00.jpg">
   <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T23:19:07.765764-07:00.jpg"
-     alt="Peninsula Press at 2022-07-23 16:19:14-07:00 local time"
+     alt="Peninsula Press at 2022-07-23 23:19:14-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T23:19:07.765764-07:00.jpg">July 23 at 4:19 PM</a></p>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T23:19:07.765764-07:00.jpg">July 23 at 11:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T08:06:08.716103-07:00.jpg">
   <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T08:06:08.716103-07:00.jpg"
-     alt="Peninsula Press at 2022-07-23 01:06:09-07:00 local time"
+     alt="Peninsula Press at 2022-07-23 08:06:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T08:06:08.716103-07:00.jpg">July 23 at 1:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-22T20:36:18.996922-07:00.jpg">
-  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-22T20:36:18.996922-07:00.jpg"
-     alt="Peninsula Press at 2022-07-22 13:36:20-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-22T20:36:18.996922-07:00.jpg">July 22 at 1:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-22T08:01:46.716490-07:00.jpg">
-  <img src="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-22T08:01:46.716490-07:00.jpg"
-     alt="Peninsula Press at 2022-07-22 01:01:48-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-22T08:01:46.716490-07:00.jpg">July 22 at 1:01 AM</a></p>
+ <p><a href="https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T08:06:08.716103-07:00.jpg">July 23 at 8:06 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 77 hyperlink lists with the Internet Archive.
+The archiving routine has saved 79 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 10:10 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T17:10:01.504198-07:00.hyperlinks.json) |
-| [July 26 at 11:13 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T06:13:11.680804-07:00.hyperlinks.json) |
-| [July 26 at 10:18 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T17:18:28.868946-07:00.hyperlinks.json) |
-| [July 25 at 10:28 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T05:27:52.241536-07:00.hyperlinks.json) |
-| [July 25 at 10:23 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T17:22:57.258659-07:00.hyperlinks.json) |
-| [July 25 at 1:36 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T08:36:39.191165-07:00.hyperlinks.json) |
-| [July 24 at 1:39 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T20:39:09.048292-07:00.hyperlinks.json) |
-| [July 24 at 12:00 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T07:00:19.194933-07:00.hyperlinks.json) |
-| [July 23 at 4:19 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T23:19:07.765764-07:00.hyperlinks.json) |
-| [July 23 at 1:06 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T08:06:08.716103-07:00.hyperlinks.json) |
+| [July 28 at 5:18 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-28T17:18:15.786646-07:00.hyperlinks.json) |
+| [July 28 at 6:17 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-28T06:17:04.021928-07:00.hyperlinks.json) |
+| [July 27 at 5:10 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T17:10:01.504198-07:00.hyperlinks.json) |
+| [July 27 at 6:13 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T06:13:11.680804-07:00.hyperlinks.json) |
+| [July 26 at 5:18 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T17:18:28.868946-07:00.hyperlinks.json) |
+| [July 26 at 5:28 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T05:27:52.241536-07:00.hyperlinks.json) |
+| [July 25 at 5:23 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T17:22:57.258659-07:00.hyperlinks.json) |
+| [July 25 at 8:36 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T08:36:39.191165-07:00.hyperlinks.json) |
+| [July 24 at 8:39 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T20:39:09.048292-07:00.hyperlinks.json) |
+| [July 24 at 7:00 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T07:00:19.194933-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 76 accessibility trees with the Internet Archive.
+The archiving routine has saved 78 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 10:10 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T17:10:01.504198-07:00.accessibility.json) |
-| [July 26 at 11:13 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T06:13:11.680804-07:00.accessibility.json) |
-| [July 26 at 10:18 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T17:18:28.868946-07:00.accessibility.json) |
-| [July 25 at 10:27 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T05:27:52.241536-07:00.accessibility.json) |
-| [July 25 at 10:23 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T17:22:57.258659-07:00.accessibility.json) |
-| [July 25 at 1:36 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T08:36:39.191165-07:00.accessibility.json) |
-| [July 24 at 1:39 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T20:39:09.048292-07:00.accessibility.json) |
-| [July 24 at 12:00 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T07:00:19.194933-07:00.accessibility.json) |
-| [July 23 at 4:19 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T23:19:07.765764-07:00.accessibility.json) |
-| [July 23 at 1:06 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T08:06:08.716103-07:00.accessibility.json) |
+| [July 28 at 5:18 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-28T17:18:15.786646-07:00.accessibility.json) |
+| [July 28 at 6:17 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-28T06:17:04.021928-07:00.accessibility.json) |
+| [July 27 at 5:10 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T17:10:01.504198-07:00.accessibility.json) |
+| [July 27 at 6:13 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T06:13:11.680804-07:00.accessibility.json) |
+| [July 26 at 5:18 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T17:18:28.868946-07:00.accessibility.json) |
+| [July 26 at 5:27 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T05:27:52.241536-07:00.accessibility.json) |
+| [July 25 at 5:23 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T17:22:57.258659-07:00.accessibility.json) |
+| [July 25 at 8:36 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T08:36:39.191165-07:00.accessibility.json) |
+| [July 24 at 8:39 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T20:39:09.048292-07:00.accessibility.json) |
+| [July 24 at 7:00 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T07:00:19.194933-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,15 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 10:10 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T17:10:01.504198-07:00.lighthouse.json) |
-| [July 26 at 11:13 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T06:13:11.680804-07:00.lighthouse.json) |
-| [July 26 at 10:18 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T17:18:28.868946-07:00.lighthouse.json) |
-| [July 25 at 10:28 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T05:27:52.241536-07:00.lighthouse.json) |
-| [July 25 at 10:23 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T17:22:57.258659-07:00.lighthouse.json) |
-| [July 25 at 1:36 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T08:36:39.191165-07:00.lighthouse.json) |
-| [July 24 at 1:39 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T20:39:09.048292-07:00.lighthouse.json) |
-| [July 24 at 12:00 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T07:00:19.194933-07:00.lighthouse.json) |
-| [July 23 at 4:19 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-23T23:19:07.765764-07:00.lighthouse.json) |
+| [July 28 at 5:18 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-28T17:18:15.786646-07:00.lighthouse.json) |
+| [July 28 at 6:17 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-28T06:17:04.021928-07:00.lighthouse.json) |
+| [July 27 at 5:10 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T17:10:01.504198-07:00.lighthouse.json) |
+| [July 27 at 6:13 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-27T06:13:11.680804-07:00.lighthouse.json) |
+| [July 26 at 5:18 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T17:18:28.868946-07:00.lighthouse.json) |
+| [July 26 at 5:28 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-26T05:27:52.241536-07:00.lighthouse.json) |
+| [July 25 at 5:23 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T17:22:57.258659-07:00.lighthouse.json) |
+| [July 25 at 8:36 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-25T08:36:39.191165-07:00.lighthouse.json) |
+| [July 24 at 8:39 PM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T20:39:09.048292-07:00.lighthouse.json) |
+| [July 24 at 7:00 AM](https://archive.org/download/peninsupress-2022/peninsupress-2022-07-24T07:00:19.194933-07:00.lighthouse.json) |
 
 
 

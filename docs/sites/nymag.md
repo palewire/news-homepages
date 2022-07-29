@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 52 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/nymag-2022/nymag-2022-07-27T20:09:06.194374-04:00.jpg">
-  <img src="https://archive.org/download/nymag-2022/nymag-2022-07-27T20:09:06.194374-04:00.jpg"
-     alt="New York at 2022-07-27 13:09:10-04:00 local time"
+ <a href="https://archive.org/download/nymag-2022/nymag-2022-07-28T20:16:49.281518-04:00.jpg">
+  <img src="https://archive.org/download/nymag-2022/nymag-2022-07-28T20:16:49.281518-04:00.jpg"
+     alt="New York at 2022-07-28 20:16:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-27T20:09:06.194374-04:00.jpg">July 27 at 1:09 PM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-28T20:16:49.281518-04:00.jpg">July 28 at 8:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nymag-2022/nymag-2022-07-28T09:15:15.843378-04:00.jpg">
+  <img src="https://archive.org/download/nymag-2022/nymag-2022-07-28T09:15:15.843378-04:00.jpg"
+     alt="New York at 2022-07-28 09:15:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-28T09:15:15.843378-04:00.jpg">July 28 at 9:15 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nymag-2022/nymag-2022-07-27T20:09:06.194374-04:00.jpg">
+  <img src="https://archive.org/download/nymag-2022/nymag-2022-07-27T20:09:06.194374-04:00.jpg"
+     alt="New York at 2022-07-27 20:09:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-27T20:09:06.194374-04:00.jpg">July 27 at 8:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-27T09:12:42.659125-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-27T09:12:42.659125-04:00.jpg"
-     alt="New York at 2022-07-27 02:12:44-04:00 local time"
+     alt="New York at 2022-07-27 09:12:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-27T09:12:42.659125-04:00.jpg">July 27 at 2:12 AM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-27T09:12:42.659125-04:00.jpg">July 27 at 9:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-26T20:17:02.234818-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-26T20:17:02.234818-04:00.jpg"
-     alt="New York at 2022-07-26 13:17:05-04:00 local time"
+     alt="New York at 2022-07-26 20:17:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-26T20:17:02.234818-04:00.jpg">July 26 at 1:17 PM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-26T20:17:02.234818-04:00.jpg">July 26 at 8:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-26T08:26:46.639457-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-26T08:26:46.639457-04:00.jpg"
-     alt="New York at 2022-07-26 01:26:49-04:00 local time"
+     alt="New York at 2022-07-26 08:26:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-26T08:26:46.639457-04:00.jpg">July 26 at 1:26 AM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-26T08:26:46.639457-04:00.jpg">July 26 at 8:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-25T20:21:42.348356-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-25T20:21:42.348356-04:00.jpg"
-     alt="New York at 2022-07-25 13:21:44-04:00 local time"
+     alt="New York at 2022-07-25 20:21:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-25T20:21:42.348356-04:00.jpg">July 25 at 1:21 PM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-25T20:21:42.348356-04:00.jpg">July 25 at 8:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-25T11:34:43.805849-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-25T11:34:43.805849-04:00.jpg"
-     alt="New York at 2022-07-25 04:34:45-04:00 local time"
+     alt="New York at 2022-07-25 11:34:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-25T11:34:43.805849-04:00.jpg">July 25 at 4:34 AM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-25T11:34:43.805849-04:00.jpg">July 25 at 11:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T23:37:34.889450-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-24T23:37:34.889450-04:00.jpg"
-     alt="New York at 2022-07-24 16:37:36-04:00 local time"
+     alt="New York at 2022-07-24 23:37:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T23:37:34.889450-04:00.jpg">July 24 at 4:37 PM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T23:37:34.889450-04:00.jpg">July 24 at 11:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T09:58:12.166481-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-24T09:58:12.166481-04:00.jpg"
-     alt="New York at 2022-07-24 02:58:14-04:00 local time"
+     alt="New York at 2022-07-24 09:58:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T09:58:12.166481-04:00.jpg">July 24 at 2:58 AM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T09:58:12.166481-04:00.jpg">July 24 at 9:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T02:17:27.522432-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-24T02:17:27.522432-04:00.jpg"
-     alt="New York at 2022-07-23 19:17:30-04:00 local time"
+     alt="New York at 2022-07-24 02:17:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T02:17:27.522432-04:00.jpg">July 23 at 7:17 PM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T02:17:27.522432-04:00.jpg">July 24 at 2:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-07-23T11:04:44.675159-04:00.jpg">
   <img src="https://archive.org/download/nymag-2022/nymag-2022-07-23T11:04:44.675159-04:00.jpg"
-     alt="New York at 2022-07-23 04:04:46-04:00 local time"
+     alt="New York at 2022-07-23 11:04:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-23T11:04:44.675159-04:00.jpg">July 23 at 4:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nymag-2022/nymag-2022-07-22T23:34:37.529170-04:00.jpg">
-  <img src="https://archive.org/download/nymag-2022/nymag-2022-07-22T23:34:37.529170-04:00.jpg"
-     alt="New York at 2022-07-22 16:34:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-22T23:34:37.529170-04:00.jpg">July 22 at 4:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nymag-2022/nymag-2022-07-22T11:00:12.949201-04:00.jpg">
-  <img src="https://archive.org/download/nymag-2022/nymag-2022-07-22T11:00:12.949201-04:00.jpg"
-     alt="New York at 2022-07-22 04:00:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-22T11:00:12.949201-04:00.jpg">July 22 at 4:00 AM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-23T11:04:44.675159-04:00.jpg">July 23 at 11:04 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 49 hyperlink lists with the Internet Archive.
+The archiving routine has saved 51 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 1:09 PM](https://archive.org/download/nymag-2022/nymag-2022-07-27T20:09:06.194374-04:00.hyperlinks.json) |
-| [July 27 at 2:12 AM](https://archive.org/download/nymag-2022/nymag-2022-07-27T09:12:42.659125-04:00.hyperlinks.json) |
-| [July 26 at 1:17 PM](https://archive.org/download/nymag-2022/nymag-2022-07-26T20:17:02.234818-04:00.hyperlinks.json) |
-| [July 26 at 1:26 AM](https://archive.org/download/nymag-2022/nymag-2022-07-26T08:26:46.639457-04:00.hyperlinks.json) |
-| [July 25 at 1:21 PM](https://archive.org/download/nymag-2022/nymag-2022-07-25T20:21:42.348356-04:00.hyperlinks.json) |
-| [July 25 at 4:34 AM](https://archive.org/download/nymag-2022/nymag-2022-07-25T11:34:43.805849-04:00.hyperlinks.json) |
-| [July 24 at 4:37 PM](https://archive.org/download/nymag-2022/nymag-2022-07-24T23:37:34.889450-04:00.hyperlinks.json) |
-| [July 24 at 2:58 AM](https://archive.org/download/nymag-2022/nymag-2022-07-24T09:58:12.166481-04:00.hyperlinks.json) |
-| [July 23 at 7:17 PM](https://archive.org/download/nymag-2022/nymag-2022-07-24T02:17:27.522432-04:00.hyperlinks.json) |
-| [July 23 at 4:04 AM](https://archive.org/download/nymag-2022/nymag-2022-07-23T11:04:44.675159-04:00.hyperlinks.json) |
+| [July 28 at 8:17 PM](https://archive.org/download/nymag-2022/nymag-2022-07-28T20:16:49.281518-04:00.hyperlinks.json) |
+| [July 28 at 9:15 AM](https://archive.org/download/nymag-2022/nymag-2022-07-28T09:15:15.843378-04:00.hyperlinks.json) |
+| [July 27 at 8:09 PM](https://archive.org/download/nymag-2022/nymag-2022-07-27T20:09:06.194374-04:00.hyperlinks.json) |
+| [July 27 at 9:12 AM](https://archive.org/download/nymag-2022/nymag-2022-07-27T09:12:42.659125-04:00.hyperlinks.json) |
+| [July 26 at 8:17 PM](https://archive.org/download/nymag-2022/nymag-2022-07-26T20:17:02.234818-04:00.hyperlinks.json) |
+| [July 26 at 8:26 AM](https://archive.org/download/nymag-2022/nymag-2022-07-26T08:26:46.639457-04:00.hyperlinks.json) |
+| [July 25 at 8:21 PM](https://archive.org/download/nymag-2022/nymag-2022-07-25T20:21:42.348356-04:00.hyperlinks.json) |
+| [July 25 at 11:34 AM](https://archive.org/download/nymag-2022/nymag-2022-07-25T11:34:43.805849-04:00.hyperlinks.json) |
+| [July 24 at 11:37 PM](https://archive.org/download/nymag-2022/nymag-2022-07-24T23:37:34.889450-04:00.hyperlinks.json) |
+| [July 24 at 9:58 AM](https://archive.org/download/nymag-2022/nymag-2022-07-24T09:58:12.166481-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 52 accessibility trees with the Internet Archive.
+The archiving routine has saved 54 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 1:09 PM](https://archive.org/download/nymag-2022/nymag-2022-07-27T20:09:06.194374-04:00.accessibility.json) |
-| [July 27 at 2:12 AM](https://archive.org/download/nymag-2022/nymag-2022-07-27T09:12:42.659125-04:00.accessibility.json) |
-| [July 26 at 1:17 PM](https://archive.org/download/nymag-2022/nymag-2022-07-26T20:17:02.234818-04:00.accessibility.json) |
-| [July 26 at 1:26 AM](https://archive.org/download/nymag-2022/nymag-2022-07-26T08:26:46.639457-04:00.accessibility.json) |
-| [July 25 at 1:21 PM](https://archive.org/download/nymag-2022/nymag-2022-07-25T20:21:42.348356-04:00.accessibility.json) |
-| [July 25 at 4:34 AM](https://archive.org/download/nymag-2022/nymag-2022-07-25T11:34:43.805849-04:00.accessibility.json) |
-| [July 24 at 4:37 PM](https://archive.org/download/nymag-2022/nymag-2022-07-24T23:37:34.889450-04:00.accessibility.json) |
-| [July 24 at 2:58 AM](https://archive.org/download/nymag-2022/nymag-2022-07-24T09:58:12.166481-04:00.accessibility.json) |
-| [July 23 at 7:17 PM](https://archive.org/download/nymag-2022/nymag-2022-07-24T02:17:27.522432-04:00.accessibility.json) |
-| [July 23 at 4:04 AM](https://archive.org/download/nymag-2022/nymag-2022-07-23T11:04:44.675159-04:00.accessibility.json) |
+| [July 28 at 8:16 PM](https://archive.org/download/nymag-2022/nymag-2022-07-28T20:16:49.281518-04:00.accessibility.json) |
+| [July 28 at 9:15 AM](https://archive.org/download/nymag-2022/nymag-2022-07-28T09:15:15.843378-04:00.accessibility.json) |
+| [July 27 at 8:09 PM](https://archive.org/download/nymag-2022/nymag-2022-07-27T20:09:06.194374-04:00.accessibility.json) |
+| [July 27 at 9:12 AM](https://archive.org/download/nymag-2022/nymag-2022-07-27T09:12:42.659125-04:00.accessibility.json) |
+| [July 26 at 8:17 PM](https://archive.org/download/nymag-2022/nymag-2022-07-26T20:17:02.234818-04:00.accessibility.json) |
+| [July 26 at 8:26 AM](https://archive.org/download/nymag-2022/nymag-2022-07-26T08:26:46.639457-04:00.accessibility.json) |
+| [July 25 at 8:21 PM](https://archive.org/download/nymag-2022/nymag-2022-07-25T20:21:42.348356-04:00.accessibility.json) |
+| [July 25 at 11:34 AM](https://archive.org/download/nymag-2022/nymag-2022-07-25T11:34:43.805849-04:00.accessibility.json) |
+| [July 24 at 11:37 PM](https://archive.org/download/nymag-2022/nymag-2022-07-24T23:37:34.889450-04:00.accessibility.json) |
+| [July 24 at 9:58 AM](https://archive.org/download/nymag-2022/nymag-2022-07-24T09:58:12.166481-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,15 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 1:09 PM](https://archive.org/download/nymag-2022/nymag-2022-07-27T20:09:06.194374-04:00.lighthouse.json) |
-| [July 27 at 2:12 AM](https://archive.org/download/nymag-2022/nymag-2022-07-27T09:12:42.659125-04:00.lighthouse.json) |
-| [July 26 at 1:17 PM](https://archive.org/download/nymag-2022/nymag-2022-07-26T20:17:02.234818-04:00.lighthouse.json) |
-| [July 26 at 1:26 AM](https://archive.org/download/nymag-2022/nymag-2022-07-26T08:26:46.639457-04:00.lighthouse.json) |
-| [July 25 at 1:21 PM](https://archive.org/download/nymag-2022/nymag-2022-07-25T20:21:42.348356-04:00.lighthouse.json) |
-| [July 25 at 4:34 AM](https://archive.org/download/nymag-2022/nymag-2022-07-25T11:34:43.805849-04:00.lighthouse.json) |
-| [July 24 at 4:37 PM](https://archive.org/download/nymag-2022/nymag-2022-07-24T23:37:34.889450-04:00.lighthouse.json) |
-| [July 24 at 2:58 AM](https://archive.org/download/nymag-2022/nymag-2022-07-24T09:58:12.166481-04:00.lighthouse.json) |
-| [July 23 at 7:17 PM](https://archive.org/download/nymag-2022/nymag-2022-07-24T02:17:27.522432-04:00.lighthouse.json) |
+| [July 28 at 8:17 PM](https://archive.org/download/nymag-2022/nymag-2022-07-28T20:16:49.281518-04:00.lighthouse.json) |
+| [July 28 at 9:15 AM](https://archive.org/download/nymag-2022/nymag-2022-07-28T09:15:15.843378-04:00.lighthouse.json) |
+| [July 27 at 8:09 PM](https://archive.org/download/nymag-2022/nymag-2022-07-27T20:09:06.194374-04:00.lighthouse.json) |
+| [July 27 at 9:12 AM](https://archive.org/download/nymag-2022/nymag-2022-07-27T09:12:42.659125-04:00.lighthouse.json) |
+| [July 26 at 8:17 PM](https://archive.org/download/nymag-2022/nymag-2022-07-26T20:17:02.234818-04:00.lighthouse.json) |
+| [July 26 at 8:26 AM](https://archive.org/download/nymag-2022/nymag-2022-07-26T08:26:46.639457-04:00.lighthouse.json) |
+| [July 25 at 8:21 PM](https://archive.org/download/nymag-2022/nymag-2022-07-25T20:21:42.348356-04:00.lighthouse.json) |
+| [July 25 at 11:34 AM](https://archive.org/download/nymag-2022/nymag-2022-07-25T11:34:43.805849-04:00.lighthouse.json) |
+| [July 24 at 11:37 PM](https://archive.org/download/nymag-2022/nymag-2022-07-24T23:37:34.889450-04:00.lighthouse.json) |
+| [July 24 at 9:58 AM](https://archive.org/download/nymag-2022/nymag-2022-07-24T09:58:12.166481-04:00.lighthouse.json) |
 
 
 

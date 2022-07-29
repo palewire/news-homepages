@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 48 screenshots with the Internet Archive.
+The archiving routine has saved 49 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-27T23:41:19.725236-04:00.jpg">
-  <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-27T23:41:19.725236-04:00.jpg"
-     alt="New York Review of Books at 2022-07-27 16:41:21-04:00 local time"
+ <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-28T11:47:44.015427-04:00.jpg">
+  <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-28T11:47:44.015427-04:00.jpg"
+     alt="New York Review of Books at 2022-07-28 11:47:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-27T23:41:19.725236-04:00.jpg">July 27 at 4:41 PM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-28T11:47:44.015427-04:00.jpg">July 28 at 11:47 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-27T23:41:19.725236-04:00.jpg">
+  <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-27T23:41:19.725236-04:00.jpg"
+     alt="New York Review of Books at 2022-07-27 23:41:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-27T23:41:19.725236-04:00.jpg">July 27 at 11:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-27T11:42:05.982978-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-27T11:42:05.982978-04:00.jpg"
-     alt="New York Review of Books at 2022-07-27 04:42:07-04:00 local time"
+     alt="New York Review of Books at 2022-07-27 11:42:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-27T11:42:05.982978-04:00.jpg">July 27 at 4:42 AM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-27T11:42:05.982978-04:00.jpg">July 27 at 11:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-26T23:50:45.539693-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-26T23:50:45.539693-04:00.jpg"
-     alt="New York Review of Books at 2022-07-26 16:50:50-04:00 local time"
+     alt="New York Review of Books at 2022-07-26 23:50:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-26T23:50:45.539693-04:00.jpg">July 26 at 4:50 PM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-26T23:50:45.539693-04:00.jpg">July 26 at 11:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-26T11:41:24.279411-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-26T11:41:24.279411-04:00.jpg"
-     alt="New York Review of Books at 2022-07-26 04:41:26-04:00 local time"
+     alt="New York Review of Books at 2022-07-26 11:41:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-26T11:41:24.279411-04:00.jpg">July 26 at 4:41 AM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-26T11:41:24.279411-04:00.jpg">July 26 at 11:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-25T23:53:15.514526-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-25T23:53:15.514526-04:00.jpg"
-     alt="New York Review of Books at 2022-07-25 16:53:17-04:00 local time"
+     alt="New York Review of Books at 2022-07-25 23:53:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-25T23:53:15.514526-04:00.jpg">July 25 at 4:53 PM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-25T23:53:15.514526-04:00.jpg">July 25 at 11:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-25T11:34:28.016783-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-25T11:34:28.016783-04:00.jpg"
-     alt="New York Review of Books at 2022-07-25 04:34:31-04:00 local time"
+     alt="New York Review of Books at 2022-07-25 11:34:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-25T11:34:28.016783-04:00.jpg">July 25 at 4:34 AM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-25T11:34:28.016783-04:00.jpg">July 25 at 11:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T23:37:23.976000-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T23:37:23.976000-04:00.jpg"
-     alt="New York Review of Books at 2022-07-24 16:37:26-04:00 local time"
+     alt="New York Review of Books at 2022-07-24 23:37:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T23:37:23.976000-04:00.jpg">July 24 at 4:37 PM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T23:37:23.976000-04:00.jpg">July 24 at 11:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T09:59:05.032901-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T09:59:05.032901-04:00.jpg"
-     alt="New York Review of Books at 2022-07-24 02:59:05-04:00 local time"
+     alt="New York Review of Books at 2022-07-24 09:59:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T09:59:05.032901-04:00.jpg">July 24 at 2:59 AM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T09:59:05.032901-04:00.jpg">July 24 at 9:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T02:17:54.096533-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T02:17:54.096533-04:00.jpg"
-     alt="New York Review of Books at 2022-07-23 19:17:55-04:00 local time"
+     alt="New York Review of Books at 2022-07-24 02:17:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T02:17:54.096533-04:00.jpg">July 23 at 7:17 PM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-24T02:17:54.096533-04:00.jpg">July 24 at 2:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-23T11:04:26.331359-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-23T11:04:26.331359-04:00.jpg"
-     alt="New York Review of Books at 2022-07-23 04:04:28-04:00 local time"
+     alt="New York Review of Books at 2022-07-23 11:04:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-23T11:04:26.331359-04:00.jpg">July 23 at 4:04 AM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-23T11:04:26.331359-04:00.jpg">July 23 at 11:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-22T23:34:39.783356-04:00.jpg">
   <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-22T23:34:39.783356-04:00.jpg"
-     alt="New York Review of Books at 2022-07-22 16:34:43-04:00 local time"
+     alt="New York Review of Books at 2022-07-22 23:34:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-22T23:34:39.783356-04:00.jpg">July 22 at 4:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-22T11:00:37.313998-04:00.jpg">
-  <img src="https://archive.org/download/nybooks-2022/nybooks-2022-07-22T11:00:37.313998-04:00.jpg"
-     alt="New York Review of Books at 2022-07-22 04:00:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-22T11:00:37.313998-04:00.jpg">July 22 at 4:00 AM</a></p>
+ <p><a href="https://archive.org/download/nybooks-2022/nybooks-2022-07-22T23:34:39.783356-04:00.jpg">July 22 at 11:34 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 48 hyperlink lists with the Internet Archive.
+The archiving routine has saved 49 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 4:41 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-27T23:41:19.725236-04:00.hyperlinks.json) |
-| [July 27 at 4:42 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-27T11:42:05.982978-04:00.hyperlinks.json) |
-| [July 26 at 4:50 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-26T23:50:45.539693-04:00.hyperlinks.json) |
-| [July 26 at 4:41 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-26T11:41:24.279411-04:00.hyperlinks.json) |
-| [July 25 at 4:53 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-25T23:53:15.514526-04:00.hyperlinks.json) |
-| [July 25 at 4:34 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-25T11:34:28.016783-04:00.hyperlinks.json) |
-| [July 24 at 4:37 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-24T23:37:23.976000-04:00.hyperlinks.json) |
-| [July 24 at 2:59 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-24T09:59:05.032901-04:00.hyperlinks.json) |
-| [July 23 at 7:17 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-24T02:17:54.096533-04:00.hyperlinks.json) |
-| [July 23 at 4:04 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-23T11:04:26.331359-04:00.hyperlinks.json) |
+| [July 28 at 11:47 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-28T11:47:44.015427-04:00.hyperlinks.json) |
+| [July 27 at 11:41 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-27T23:41:19.725236-04:00.hyperlinks.json) |
+| [July 27 at 11:42 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-27T11:42:05.982978-04:00.hyperlinks.json) |
+| [July 26 at 11:50 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-26T23:50:45.539693-04:00.hyperlinks.json) |
+| [July 26 at 11:41 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-26T11:41:24.279411-04:00.hyperlinks.json) |
+| [July 25 at 11:53 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-25T23:53:15.514526-04:00.hyperlinks.json) |
+| [July 25 at 11:34 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-25T11:34:28.016783-04:00.hyperlinks.json) |
+| [July 24 at 11:37 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-24T23:37:23.976000-04:00.hyperlinks.json) |
+| [July 24 at 9:59 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-24T09:59:05.032901-04:00.hyperlinks.json) |
+| [July 24 at 2:17 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-24T02:17:54.096533-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 48 accessibility trees with the Internet Archive.
+The archiving routine has saved 49 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 4:41 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-27T23:41:19.725236-04:00.accessibility.json) |
-| [July 27 at 4:42 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-27T11:42:05.982978-04:00.accessibility.json) |
-| [July 26 at 4:50 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-26T23:50:45.539693-04:00.accessibility.json) |
-| [July 26 at 4:41 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-26T11:41:24.279411-04:00.accessibility.json) |
-| [July 25 at 4:53 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-25T23:53:15.514526-04:00.accessibility.json) |
-| [July 25 at 4:34 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-25T11:34:28.016783-04:00.accessibility.json) |
-| [July 24 at 4:37 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-24T23:37:23.976000-04:00.accessibility.json) |
-| [July 24 at 2:59 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-24T09:59:05.032901-04:00.accessibility.json) |
-| [July 23 at 7:17 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-24T02:17:54.096533-04:00.accessibility.json) |
-| [July 23 at 4:04 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-23T11:04:26.331359-04:00.accessibility.json) |
+| [July 28 at 11:47 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-28T11:47:44.015427-04:00.accessibility.json) |
+| [July 27 at 11:41 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-27T23:41:19.725236-04:00.accessibility.json) |
+| [July 27 at 11:42 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-27T11:42:05.982978-04:00.accessibility.json) |
+| [July 26 at 11:50 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-26T23:50:45.539693-04:00.accessibility.json) |
+| [July 26 at 11:41 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-26T11:41:24.279411-04:00.accessibility.json) |
+| [July 25 at 11:53 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-25T23:53:15.514526-04:00.accessibility.json) |
+| [July 25 at 11:34 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-25T11:34:28.016783-04:00.accessibility.json) |
+| [July 24 at 11:37 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-24T23:37:23.976000-04:00.accessibility.json) |
+| [July 24 at 9:59 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-24T09:59:05.032901-04:00.accessibility.json) |
+| [July 24 at 2:17 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-24T02:17:54.096533-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,15 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 4:41 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-27T23:41:19.725236-04:00.lighthouse.json) |
-| [July 27 at 4:42 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-27T11:42:05.982978-04:00.lighthouse.json) |
-| [July 26 at 4:50 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-26T23:50:45.539693-04:00.lighthouse.json) |
-| [July 26 at 4:41 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-26T11:41:24.279411-04:00.lighthouse.json) |
-| [July 25 at 4:53 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-25T23:53:15.514526-04:00.lighthouse.json) |
-| [July 25 at 4:34 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-25T11:34:28.016783-04:00.lighthouse.json) |
-| [July 24 at 4:37 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-24T23:37:23.976000-04:00.lighthouse.json) |
-| [July 24 at 2:59 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-24T09:59:05.032901-04:00.lighthouse.json) |
-| [July 23 at 7:18 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-24T02:17:54.096533-04:00.lighthouse.json) |
+| [July 28 at 11:47 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-28T11:47:44.015427-04:00.lighthouse.json) |
+| [July 27 at 11:41 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-27T23:41:19.725236-04:00.lighthouse.json) |
+| [July 27 at 11:42 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-27T11:42:05.982978-04:00.lighthouse.json) |
+| [July 26 at 11:50 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-26T23:50:45.539693-04:00.lighthouse.json) |
+| [July 26 at 11:41 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-26T11:41:24.279411-04:00.lighthouse.json) |
+| [July 25 at 11:53 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-25T23:53:15.514526-04:00.lighthouse.json) |
+| [July 25 at 11:34 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-25T11:34:28.016783-04:00.lighthouse.json) |
+| [July 24 at 11:37 PM](https://archive.org/download/nybooks-2022/nybooks-2022-07-24T23:37:23.976000-04:00.lighthouse.json) |
+| [July 24 at 9:59 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-24T09:59:05.032901-04:00.lighthouse.json) |
+| [July 24 at 2:18 AM](https://archive.org/download/nybooks-2022/nybooks-2022-07-24T02:17:54.096533-04:00.lighthouse.json) |
 
 
 

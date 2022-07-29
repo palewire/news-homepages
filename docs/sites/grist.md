@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 40 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/grist-2022/grist-2022-07-27T19:37:45.814992-07:00.jpg">
-  <img src="https://archive.org/download/grist-2022/grist-2022-07-27T19:37:45.814992-07:00.jpg"
-     alt="Grist at 2022-07-27 12:37:47-07:00 local time"
+ <a href="https://archive.org/download/grist-2022/grist-2022-07-28T08:41:10.356603-07:00.jpg">
+  <img src="https://archive.org/download/grist-2022/grist-2022-07-28T08:41:10.356603-07:00.jpg"
+     alt="Grist at 2022-07-28 08:41:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-27T19:37:45.814992-07:00.jpg">July 27 at 12:37 PM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-28T08:41:10.356603-07:00.jpg">July 28 at 8:41 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/grist-2022/grist-2022-07-27T19:37:45.814992-07:00.jpg">
+  <img src="https://archive.org/download/grist-2022/grist-2022-07-27T19:37:45.814992-07:00.jpg"
+     alt="Grist at 2022-07-27 19:37:47-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-27T19:37:45.814992-07:00.jpg">July 27 at 7:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-27T07:30:27.601068-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-27T07:30:27.601068-07:00.jpg"
-     alt="Grist at 2022-07-27 00:30:29-07:00 local time"
+     alt="Grist at 2022-07-27 07:30:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-27T07:30:27.601068-07:00.jpg">July 27 at 12:30 AM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-27T07:30:27.601068-07:00.jpg">July 27 at 7:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-26T19:37:56.884204-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-26T19:37:56.884204-07:00.jpg"
-     alt="Grist at 2022-07-26 12:37:57-07:00 local time"
+     alt="Grist at 2022-07-26 19:37:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-26T19:37:56.884204-07:00.jpg">July 26 at 12:37 PM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-26T19:37:56.884204-07:00.jpg">July 26 at 7:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-26T07:35:34.731169-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-26T07:35:34.731169-07:00.jpg"
-     alt="Grist at 2022-07-26 00:35:35-07:00 local time"
+     alt="Grist at 2022-07-26 07:35:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-26T07:35:34.731169-07:00.jpg">July 26 at 12:35 AM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-26T07:35:34.731169-07:00.jpg">July 26 at 7:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-25T19:43:34.712320-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-25T19:43:34.712320-07:00.jpg"
-     alt="Grist at 2022-07-25 12:43:36-07:00 local time"
+     alt="Grist at 2022-07-25 19:43:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-25T19:43:34.712320-07:00.jpg">July 25 at 12:43 PM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-25T19:43:34.712320-07:00.jpg">July 25 at 7:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-25T05:04:35.551575-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-25T05:04:35.551575-07:00.jpg"
-     alt="Grist at 2022-07-24 22:04:37-07:00 local time"
+     alt="Grist at 2022-07-25 05:04:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-25T05:04:35.551575-07:00.jpg">July 24 at 10:04 PM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-25T05:04:35.551575-07:00.jpg">July 25 at 5:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-24T18:09:17.850475-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-24T18:09:17.850475-07:00.jpg"
-     alt="Grist at 2022-07-24 11:09:19-07:00 local time"
+     alt="Grist at 2022-07-24 18:09:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-24T18:09:17.850475-07:00.jpg">July 24 at 11:09 AM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-24T18:09:17.850475-07:00.jpg">July 24 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-24T05:01:35.197623-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-24T05:01:35.197623-07:00.jpg"
-     alt="Grist at 2022-07-23 22:01:37-07:00 local time"
+     alt="Grist at 2022-07-24 05:01:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-24T05:01:35.197623-07:00.jpg">July 23 at 10:01 PM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-24T05:01:35.197623-07:00.jpg">July 24 at 5:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-23T23:32:28.232338-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-23T23:32:28.232338-07:00.jpg"
-     alt="Grist at 2022-07-23 16:32:29-07:00 local time"
+     alt="Grist at 2022-07-23 23:32:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-23T23:32:28.232338-07:00.jpg">July 23 at 4:32 PM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-23T23:32:28.232338-07:00.jpg">July 23 at 11:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-23T07:01:19.261371-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-23T07:01:19.261371-07:00.jpg"
-     alt="Grist at 2022-07-23 00:01:21-07:00 local time"
+     alt="Grist at 2022-07-23 07:01:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-23T07:01:19.261371-07:00.jpg">July 23 at 12:01 AM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-23T07:01:19.261371-07:00.jpg">July 23 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-07-22T19:27:28.561673-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-07-22T19:27:28.561673-07:00.jpg"
-     alt="Grist at 2022-07-22 12:27:30-07:00 local time"
+     alt="Grist at 2022-07-22 19:27:30-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-22T19:27:28.561673-07:00.jpg">July 22 at 12:27 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/grist-2022/grist-2022-07-22T07:02:37.044409-07:00.jpg">
-  <img src="https://archive.org/download/grist-2022/grist-2022-07-22T07:02:37.044409-07:00.jpg"
-     alt="Grist at 2022-07-22 00:02:38-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-07-22T07:02:37.044409-07:00.jpg">July 22 at 12:02 AM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-07-22T19:27:28.561673-07:00.jpg">July 22 at 7:27 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 39 hyperlink lists with the Internet Archive.
+The archiving routine has saved 40 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 12:37 PM](https://archive.org/download/grist-2022/grist-2022-07-27T19:37:45.814992-07:00.hyperlinks.json) |
-| [July 27 at 12:30 AM](https://archive.org/download/grist-2022/grist-2022-07-27T07:30:27.601068-07:00.hyperlinks.json) |
-| [July 26 at 12:38 PM](https://archive.org/download/grist-2022/grist-2022-07-26T19:37:56.884204-07:00.hyperlinks.json) |
-| [July 26 at 12:35 AM](https://archive.org/download/grist-2022/grist-2022-07-26T07:35:34.731169-07:00.hyperlinks.json) |
-| [July 25 at 12:43 PM](https://archive.org/download/grist-2022/grist-2022-07-25T19:43:34.712320-07:00.hyperlinks.json) |
-| [July 24 at 10:04 PM](https://archive.org/download/grist-2022/grist-2022-07-25T05:04:35.551575-07:00.hyperlinks.json) |
-| [July 24 at 11:09 AM](https://archive.org/download/grist-2022/grist-2022-07-24T18:09:17.850475-07:00.hyperlinks.json) |
-| [July 23 at 10:01 PM](https://archive.org/download/grist-2022/grist-2022-07-24T05:01:35.197623-07:00.hyperlinks.json) |
-| [July 23 at 4:32 PM](https://archive.org/download/grist-2022/grist-2022-07-23T23:32:28.232338-07:00.hyperlinks.json) |
-| [July 23 at 12:01 AM](https://archive.org/download/grist-2022/grist-2022-07-23T07:01:19.261371-07:00.hyperlinks.json) |
+| [July 28 at 8:41 AM](https://archive.org/download/grist-2022/grist-2022-07-28T08:41:10.356603-07:00.hyperlinks.json) |
+| [July 27 at 7:37 PM](https://archive.org/download/grist-2022/grist-2022-07-27T19:37:45.814992-07:00.hyperlinks.json) |
+| [July 27 at 7:30 AM](https://archive.org/download/grist-2022/grist-2022-07-27T07:30:27.601068-07:00.hyperlinks.json) |
+| [July 26 at 7:38 PM](https://archive.org/download/grist-2022/grist-2022-07-26T19:37:56.884204-07:00.hyperlinks.json) |
+| [July 26 at 7:35 AM](https://archive.org/download/grist-2022/grist-2022-07-26T07:35:34.731169-07:00.hyperlinks.json) |
+| [July 25 at 7:43 PM](https://archive.org/download/grist-2022/grist-2022-07-25T19:43:34.712320-07:00.hyperlinks.json) |
+| [July 25 at 5:04 AM](https://archive.org/download/grist-2022/grist-2022-07-25T05:04:35.551575-07:00.hyperlinks.json) |
+| [July 24 at 6:09 PM](https://archive.org/download/grist-2022/grist-2022-07-24T18:09:17.850475-07:00.hyperlinks.json) |
+| [July 24 at 5:01 AM](https://archive.org/download/grist-2022/grist-2022-07-24T05:01:35.197623-07:00.hyperlinks.json) |
+| [July 23 at 11:32 PM](https://archive.org/download/grist-2022/grist-2022-07-23T23:32:28.232338-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 39 accessibility trees with the Internet Archive.
+The archiving routine has saved 40 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 12:37 PM](https://archive.org/download/grist-2022/grist-2022-07-27T19:37:45.814992-07:00.accessibility.json) |
-| [July 27 at 12:30 AM](https://archive.org/download/grist-2022/grist-2022-07-27T07:30:27.601068-07:00.accessibility.json) |
-| [July 26 at 12:37 PM](https://archive.org/download/grist-2022/grist-2022-07-26T19:37:56.884204-07:00.accessibility.json) |
-| [July 26 at 12:35 AM](https://archive.org/download/grist-2022/grist-2022-07-26T07:35:34.731169-07:00.accessibility.json) |
-| [July 25 at 12:43 PM](https://archive.org/download/grist-2022/grist-2022-07-25T19:43:34.712320-07:00.accessibility.json) |
-| [July 24 at 10:04 PM](https://archive.org/download/grist-2022/grist-2022-07-25T05:04:35.551575-07:00.accessibility.json) |
-| [July 24 at 11:09 AM](https://archive.org/download/grist-2022/grist-2022-07-24T18:09:17.850475-07:00.accessibility.json) |
-| [July 23 at 10:01 PM](https://archive.org/download/grist-2022/grist-2022-07-24T05:01:35.197623-07:00.accessibility.json) |
-| [July 23 at 4:32 PM](https://archive.org/download/grist-2022/grist-2022-07-23T23:32:28.232338-07:00.accessibility.json) |
-| [July 23 at 12:01 AM](https://archive.org/download/grist-2022/grist-2022-07-23T07:01:19.261371-07:00.accessibility.json) |
+| [July 28 at 8:41 AM](https://archive.org/download/grist-2022/grist-2022-07-28T08:41:10.356603-07:00.accessibility.json) |
+| [July 27 at 7:37 PM](https://archive.org/download/grist-2022/grist-2022-07-27T19:37:45.814992-07:00.accessibility.json) |
+| [July 27 at 7:30 AM](https://archive.org/download/grist-2022/grist-2022-07-27T07:30:27.601068-07:00.accessibility.json) |
+| [July 26 at 7:37 PM](https://archive.org/download/grist-2022/grist-2022-07-26T19:37:56.884204-07:00.accessibility.json) |
+| [July 26 at 7:35 AM](https://archive.org/download/grist-2022/grist-2022-07-26T07:35:34.731169-07:00.accessibility.json) |
+| [July 25 at 7:43 PM](https://archive.org/download/grist-2022/grist-2022-07-25T19:43:34.712320-07:00.accessibility.json) |
+| [July 25 at 5:04 AM](https://archive.org/download/grist-2022/grist-2022-07-25T05:04:35.551575-07:00.accessibility.json) |
+| [July 24 at 6:09 PM](https://archive.org/download/grist-2022/grist-2022-07-24T18:09:17.850475-07:00.accessibility.json) |
+| [July 24 at 5:01 AM](https://archive.org/download/grist-2022/grist-2022-07-24T05:01:35.197623-07:00.accessibility.json) |
+| [July 23 at 11:32 PM](https://archive.org/download/grist-2022/grist-2022-07-23T23:32:28.232338-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,15 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 12:37 PM](https://archive.org/download/grist-2022/grist-2022-07-27T19:37:45.814992-07:00.lighthouse.json) |
-| [July 27 at 12:30 AM](https://archive.org/download/grist-2022/grist-2022-07-27T07:30:27.601068-07:00.lighthouse.json) |
-| [July 26 at 12:38 PM](https://archive.org/download/grist-2022/grist-2022-07-26T19:37:56.884204-07:00.lighthouse.json) |
-| [July 26 at 12:35 AM](https://archive.org/download/grist-2022/grist-2022-07-26T07:35:34.731169-07:00.lighthouse.json) |
-| [July 25 at 12:43 PM](https://archive.org/download/grist-2022/grist-2022-07-25T19:43:34.712320-07:00.lighthouse.json) |
-| [July 24 at 10:04 PM](https://archive.org/download/grist-2022/grist-2022-07-25T05:04:35.551575-07:00.lighthouse.json) |
-| [July 24 at 11:09 AM](https://archive.org/download/grist-2022/grist-2022-07-24T18:09:17.850475-07:00.lighthouse.json) |
-| [July 23 at 10:01 PM](https://archive.org/download/grist-2022/grist-2022-07-24T05:01:35.197623-07:00.lighthouse.json) |
-| [July 23 at 4:32 PM](https://archive.org/download/grist-2022/grist-2022-07-23T23:32:28.232338-07:00.lighthouse.json) |
+| [July 28 at 8:41 AM](https://archive.org/download/grist-2022/grist-2022-07-28T08:41:10.356603-07:00.lighthouse.json) |
+| [July 27 at 7:37 PM](https://archive.org/download/grist-2022/grist-2022-07-27T19:37:45.814992-07:00.lighthouse.json) |
+| [July 27 at 7:30 AM](https://archive.org/download/grist-2022/grist-2022-07-27T07:30:27.601068-07:00.lighthouse.json) |
+| [July 26 at 7:38 PM](https://archive.org/download/grist-2022/grist-2022-07-26T19:37:56.884204-07:00.lighthouse.json) |
+| [July 26 at 7:35 AM](https://archive.org/download/grist-2022/grist-2022-07-26T07:35:34.731169-07:00.lighthouse.json) |
+| [July 25 at 7:43 PM](https://archive.org/download/grist-2022/grist-2022-07-25T19:43:34.712320-07:00.lighthouse.json) |
+| [July 25 at 5:04 AM](https://archive.org/download/grist-2022/grist-2022-07-25T05:04:35.551575-07:00.lighthouse.json) |
+| [July 24 at 6:09 PM](https://archive.org/download/grist-2022/grist-2022-07-24T18:09:17.850475-07:00.lighthouse.json) |
+| [July 24 at 5:01 AM](https://archive.org/download/grist-2022/grist-2022-07-24T05:01:35.197623-07:00.lighthouse.json) |
+| [July 23 at 11:32 PM](https://archive.org/download/grist-2022/grist-2022-07-23T23:32:28.232338-07:00.lighthouse.json) |
 
 
 

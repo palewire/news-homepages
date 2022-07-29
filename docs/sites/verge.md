@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 97 screenshots with the Internet Archive.
+The archiving routine has saved 98 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/verge-2022/verge-2022-07-27T23:48:57.315009-04:00.jpg">
-  <img src="https://archive.org/download/verge-2022/verge-2022-07-27T23:48:57.315009-04:00.jpg"
-     alt="Verge at 2022-07-27 16:49:01-04:00 local time"
+ <a href="https://archive.org/download/verge-2022/verge-2022-07-28T11:56:10.322547-04:00.jpg">
+  <img src="https://archive.org/download/verge-2022/verge-2022-07-28T11:56:10.322547-04:00.jpg"
+     alt="Verge at 2022-07-28 11:56:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/verge-2022/verge-2022-07-27T23:48:57.315009-04:00.jpg">July 27 at 4:49 PM</a></p>
+ <p><a href="https://archive.org/download/verge-2022/verge-2022-07-28T11:56:10.322547-04:00.jpg">July 28 at 11:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/verge-2022/verge-2022-07-27T23:48:57.315009-04:00.jpg">
+  <img src="https://archive.org/download/verge-2022/verge-2022-07-27T23:48:57.315009-04:00.jpg"
+     alt="Verge at 2022-07-27 23:49:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/verge-2022/verge-2022-07-27T23:48:57.315009-04:00.jpg">July 27 at 11:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/verge-2022/verge-2022-07-27T11:51:20.060547-04:00.jpg">
   <img src="https://archive.org/download/verge-2022/verge-2022-07-27T11:51:20.060547-04:00.jpg"
-     alt="Verge at 2022-07-27 04:51:22-04:00 local time"
+     alt="Verge at 2022-07-27 11:51:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/verge-2022/verge-2022-07-27T11:51:20.060547-04:00.jpg">July 27 at 4:51 AM</a></p>
+ <p><a href="https://archive.org/download/verge-2022/verge-2022-07-27T11:51:20.060547-04:00.jpg">July 27 at 11:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/verge-2022/verge-2022-07-26T23:57:48.069379-04:00.jpg">
   <img src="https://archive.org/download/verge-2022/verge-2022-07-26T23:57:48.069379-04:00.jpg"
-     alt="Verge at 2022-07-26 16:57:50-04:00 local time"
+     alt="Verge at 2022-07-26 23:57:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/verge-2022/verge-2022-07-26T23:57:48.069379-04:00.jpg">July 26 at 4:57 PM</a></p>
+ <p><a href="https://archive.org/download/verge-2022/verge-2022-07-26T23:57:48.069379-04:00.jpg">July 26 at 11:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/verge-2022/verge-2022-07-26T11:49:01.123328-04:00.jpg">
   <img src="https://archive.org/download/verge-2022/verge-2022-07-26T11:49:01.123328-04:00.jpg"
-     alt="Verge at 2022-07-26 04:49:02-04:00 local time"
+     alt="Verge at 2022-07-26 11:49:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/verge-2022/verge-2022-07-26T11:49:01.123328-04:00.jpg">July 26 at 4:49 AM</a></p>
+ <p><a href="https://archive.org/download/verge-2022/verge-2022-07-26T11:49:01.123328-04:00.jpg">July 26 at 11:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/verge-2022/verge-2022-07-26T00:00:55.255051-04:00.jpg">
   <img src="https://archive.org/download/verge-2022/verge-2022-07-26T00:00:55.255051-04:00.jpg"
-     alt="Verge at 2022-07-25 17:00:56-04:00 local time"
+     alt="Verge at 2022-07-26 00:00:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/verge-2022/verge-2022-07-26T00:00:55.255051-04:00.jpg">July 25 at 5:00 PM</a></p>
+ <p><a href="https://archive.org/download/verge-2022/verge-2022-07-26T00:00:55.255051-04:00.jpg">July 26 at 12:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/verge-2022/verge-2022-07-25T11:52:12.323033-04:00.jpg">
   <img src="https://archive.org/download/verge-2022/verge-2022-07-25T11:52:12.323033-04:00.jpg"
-     alt="Verge at 2022-07-25 04:52:13-04:00 local time"
+     alt="Verge at 2022-07-25 11:52:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/verge-2022/verge-2022-07-25T11:52:12.323033-04:00.jpg">July 25 at 4:52 AM</a></p>
+ <p><a href="https://archive.org/download/verge-2022/verge-2022-07-25T11:52:12.323033-04:00.jpg">July 25 at 11:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/verge-2022/verge-2022-07-25T02:47:53.060519-04:00.jpg">
   <img src="https://archive.org/download/verge-2022/verge-2022-07-25T02:47:53.060519-04:00.jpg"
-     alt="Verge at 2022-07-24 19:47:54-04:00 local time"
+     alt="Verge at 2022-07-25 02:47:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/verge-2022/verge-2022-07-25T02:47:53.060519-04:00.jpg">July 24 at 7:47 PM</a></p>
+ <p><a href="https://archive.org/download/verge-2022/verge-2022-07-25T02:47:53.060519-04:00.jpg">July 25 at 2:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/verge-2022/verge-2022-07-25T00:39:59.757577-04:00.jpg">
   <img src="https://archive.org/download/verge-2022/verge-2022-07-25T00:39:59.757577-04:00.jpg"
-     alt="Verge at 2022-07-24 17:40:03-04:00 local time"
+     alt="Verge at 2022-07-25 00:40:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/verge-2022/verge-2022-07-25T00:39:59.757577-04:00.jpg">July 24 at 5:40 PM</a></p>
+ <p><a href="https://archive.org/download/verge-2022/verge-2022-07-25T00:39:59.757577-04:00.jpg">July 25 at 12:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/verge-2022/verge-2022-07-24T11:10:21.118584-04:00.jpg">
   <img src="https://archive.org/download/verge-2022/verge-2022-07-24T11:10:21.118584-04:00.jpg"
-     alt="Verge at 2022-07-24 04:10:23-04:00 local time"
+     alt="Verge at 2022-07-24 11:10:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/verge-2022/verge-2022-07-24T11:10:21.118584-04:00.jpg">July 24 at 4:10 AM</a></p>
+ <p><a href="https://archive.org/download/verge-2022/verge-2022-07-24T11:10:21.118584-04:00.jpg">July 24 at 11:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/verge-2022/verge-2022-07-23T23:45:49.225967-04:00.jpg">
   <img src="https://archive.org/download/verge-2022/verge-2022-07-23T23:45:49.225967-04:00.jpg"
-     alt="Verge at 2022-07-23 16:45:50-04:00 local time"
+     alt="Verge at 2022-07-23 23:45:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/verge-2022/verge-2022-07-23T23:45:49.225967-04:00.jpg">July 23 at 4:45 PM</a></p>
+ <p><a href="https://archive.org/download/verge-2022/verge-2022-07-23T23:45:49.225967-04:00.jpg">July 23 at 11:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/verge-2022/verge-2022-07-23T12:08:17.937995-04:00.jpg">
   <img src="https://archive.org/download/verge-2022/verge-2022-07-23T12:08:17.937995-04:00.jpg"
-     alt="Verge at 2022-07-23 05:08:20-04:00 local time"
+     alt="Verge at 2022-07-23 12:08:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/verge-2022/verge-2022-07-23T12:08:17.937995-04:00.jpg">July 23 at 5:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/verge-2022/verge-2022-07-23T00:28:20.104792-04:00.jpg">
-  <img src="https://archive.org/download/verge-2022/verge-2022-07-23T00:28:20.104792-04:00.jpg"
-     alt="Verge at 2022-07-22 17:28:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/verge-2022/verge-2022-07-23T00:28:20.104792-04:00.jpg">July 22 at 5:28 PM</a></p>
+ <p><a href="https://archive.org/download/verge-2022/verge-2022-07-23T12:08:17.937995-04:00.jpg">July 23 at 12:08 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 97 hyperlink lists with the Internet Archive.
+The archiving routine has saved 98 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 4:49 PM](https://archive.org/download/verge-2022/verge-2022-07-27T23:48:57.315009-04:00.hyperlinks.json) |
-| [July 27 at 4:51 AM](https://archive.org/download/verge-2022/verge-2022-07-27T11:51:20.060547-04:00.hyperlinks.json) |
-| [July 26 at 4:57 PM](https://archive.org/download/verge-2022/verge-2022-07-26T23:57:48.069379-04:00.hyperlinks.json) |
-| [July 26 at 4:49 AM](https://archive.org/download/verge-2022/verge-2022-07-26T11:49:01.123328-04:00.hyperlinks.json) |
-| [July 25 at 5:00 PM](https://archive.org/download/verge-2022/verge-2022-07-26T00:00:55.255051-04:00.hyperlinks.json) |
-| [July 25 at 4:52 AM](https://archive.org/download/verge-2022/verge-2022-07-25T11:52:12.323033-04:00.hyperlinks.json) |
-| [July 24 at 7:47 PM](https://archive.org/download/verge-2022/verge-2022-07-25T02:47:53.060519-04:00.hyperlinks.json) |
-| [July 24 at 5:40 PM](https://archive.org/download/verge-2022/verge-2022-07-25T00:39:59.757577-04:00.hyperlinks.json) |
-| [July 24 at 4:10 AM](https://archive.org/download/verge-2022/verge-2022-07-24T11:10:21.118584-04:00.hyperlinks.json) |
-| [July 23 at 4:45 PM](https://archive.org/download/verge-2022/verge-2022-07-23T23:45:49.225967-04:00.hyperlinks.json) |
+| [July 28 at 11:56 AM](https://archive.org/download/verge-2022/verge-2022-07-28T11:56:10.322547-04:00.hyperlinks.json) |
+| [July 27 at 11:49 PM](https://archive.org/download/verge-2022/verge-2022-07-27T23:48:57.315009-04:00.hyperlinks.json) |
+| [July 27 at 11:51 AM](https://archive.org/download/verge-2022/verge-2022-07-27T11:51:20.060547-04:00.hyperlinks.json) |
+| [July 26 at 11:57 PM](https://archive.org/download/verge-2022/verge-2022-07-26T23:57:48.069379-04:00.hyperlinks.json) |
+| [July 26 at 11:49 AM](https://archive.org/download/verge-2022/verge-2022-07-26T11:49:01.123328-04:00.hyperlinks.json) |
+| [July 26 at 12:00 AM](https://archive.org/download/verge-2022/verge-2022-07-26T00:00:55.255051-04:00.hyperlinks.json) |
+| [July 25 at 11:52 AM](https://archive.org/download/verge-2022/verge-2022-07-25T11:52:12.323033-04:00.hyperlinks.json) |
+| [July 25 at 2:47 AM](https://archive.org/download/verge-2022/verge-2022-07-25T02:47:53.060519-04:00.hyperlinks.json) |
+| [July 25 at 12:40 AM](https://archive.org/download/verge-2022/verge-2022-07-25T00:39:59.757577-04:00.hyperlinks.json) |
+| [July 24 at 11:10 AM](https://archive.org/download/verge-2022/verge-2022-07-24T11:10:21.118584-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 98 accessibility trees with the Internet Archive.
+The archiving routine has saved 99 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 4:49 PM](https://archive.org/download/verge-2022/verge-2022-07-27T23:48:57.315009-04:00.accessibility.json) |
-| [July 27 at 4:51 AM](https://archive.org/download/verge-2022/verge-2022-07-27T11:51:20.060547-04:00.accessibility.json) |
-| [July 26 at 4:57 PM](https://archive.org/download/verge-2022/verge-2022-07-26T23:57:48.069379-04:00.accessibility.json) |
-| [July 26 at 4:49 AM](https://archive.org/download/verge-2022/verge-2022-07-26T11:49:01.123328-04:00.accessibility.json) |
-| [July 25 at 5:00 PM](https://archive.org/download/verge-2022/verge-2022-07-26T00:00:55.255051-04:00.accessibility.json) |
-| [July 25 at 4:52 AM](https://archive.org/download/verge-2022/verge-2022-07-25T11:52:12.323033-04:00.accessibility.json) |
-| [July 24 at 7:47 PM](https://archive.org/download/verge-2022/verge-2022-07-25T02:47:53.060519-04:00.accessibility.json) |
-| [July 24 at 5:40 PM](https://archive.org/download/verge-2022/verge-2022-07-25T00:39:59.757577-04:00.accessibility.json) |
-| [July 24 at 4:10 AM](https://archive.org/download/verge-2022/verge-2022-07-24T11:10:21.118584-04:00.accessibility.json) |
-| [July 23 at 4:45 PM](https://archive.org/download/verge-2022/verge-2022-07-23T23:45:49.225967-04:00.accessibility.json) |
+| [July 28 at 11:56 AM](https://archive.org/download/verge-2022/verge-2022-07-28T11:56:10.322547-04:00.accessibility.json) |
+| [July 27 at 11:49 PM](https://archive.org/download/verge-2022/verge-2022-07-27T23:48:57.315009-04:00.accessibility.json) |
+| [July 27 at 11:51 AM](https://archive.org/download/verge-2022/verge-2022-07-27T11:51:20.060547-04:00.accessibility.json) |
+| [July 26 at 11:57 PM](https://archive.org/download/verge-2022/verge-2022-07-26T23:57:48.069379-04:00.accessibility.json) |
+| [July 26 at 11:49 AM](https://archive.org/download/verge-2022/verge-2022-07-26T11:49:01.123328-04:00.accessibility.json) |
+| [July 26 at 12:00 AM](https://archive.org/download/verge-2022/verge-2022-07-26T00:00:55.255051-04:00.accessibility.json) |
+| [July 25 at 11:52 AM](https://archive.org/download/verge-2022/verge-2022-07-25T11:52:12.323033-04:00.accessibility.json) |
+| [July 25 at 2:47 AM](https://archive.org/download/verge-2022/verge-2022-07-25T02:47:53.060519-04:00.accessibility.json) |
+| [July 25 at 12:40 AM](https://archive.org/download/verge-2022/verge-2022-07-25T00:39:59.757577-04:00.accessibility.json) |
+| [July 24 at 11:10 AM](https://archive.org/download/verge-2022/verge-2022-07-24T11:10:21.118584-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 4:49 PM](https://archive.org/download/verge-2022/verge-2022-07-27T23:48:57.315009-04:00.lighthouse.json) |
-| [July 27 at 4:51 AM](https://archive.org/download/verge-2022/verge-2022-07-27T11:51:20.060547-04:00.lighthouse.json) |
-| [July 26 at 4:57 PM](https://archive.org/download/verge-2022/verge-2022-07-26T23:57:48.069379-04:00.lighthouse.json) |
-| [July 26 at 4:49 AM](https://archive.org/download/verge-2022/verge-2022-07-26T11:49:01.123328-04:00.lighthouse.json) |
-| [July 25 at 5:01 PM](https://archive.org/download/verge-2022/verge-2022-07-26T00:00:55.255051-04:00.lighthouse.json) |
-| [July 25 at 4:52 AM](https://archive.org/download/verge-2022/verge-2022-07-25T11:52:12.323033-04:00.lighthouse.json) |
-| [July 24 at 7:47 PM](https://archive.org/download/verge-2022/verge-2022-07-25T02:47:53.060519-04:00.lighthouse.json) |
-| [July 24 at 5:40 PM](https://archive.org/download/verge-2022/verge-2022-07-25T00:39:59.757577-04:00.lighthouse.json) |
-| [July 24 at 4:10 AM](https://archive.org/download/verge-2022/verge-2022-07-24T11:10:21.118584-04:00.lighthouse.json) |
-| [July 23 at 4:45 PM](https://archive.org/download/verge-2022/verge-2022-07-23T23:45:49.225967-04:00.lighthouse.json) |
+| [July 28 at 11:56 AM](https://archive.org/download/verge-2022/verge-2022-07-28T11:56:10.322547-04:00.lighthouse.json) |
+| [July 27 at 11:49 PM](https://archive.org/download/verge-2022/verge-2022-07-27T23:48:57.315009-04:00.lighthouse.json) |
+| [July 27 at 11:51 AM](https://archive.org/download/verge-2022/verge-2022-07-27T11:51:20.060547-04:00.lighthouse.json) |
+| [July 26 at 11:57 PM](https://archive.org/download/verge-2022/verge-2022-07-26T23:57:48.069379-04:00.lighthouse.json) |
+| [July 26 at 11:49 AM](https://archive.org/download/verge-2022/verge-2022-07-26T11:49:01.123328-04:00.lighthouse.json) |
+| [July 26 at 12:01 AM](https://archive.org/download/verge-2022/verge-2022-07-26T00:00:55.255051-04:00.lighthouse.json) |
+| [July 25 at 11:52 AM](https://archive.org/download/verge-2022/verge-2022-07-25T11:52:12.323033-04:00.lighthouse.json) |
+| [July 25 at 2:47 AM](https://archive.org/download/verge-2022/verge-2022-07-25T02:47:53.060519-04:00.lighthouse.json) |
+| [July 25 at 12:40 AM](https://archive.org/download/verge-2022/verge-2022-07-25T00:39:59.757577-04:00.lighthouse.json) |
+| [July 24 at 11:10 AM](https://archive.org/download/verge-2022/verge-2022-07-24T11:10:21.118584-04:00.lighthouse.json) |
 
 
 

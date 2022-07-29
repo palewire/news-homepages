@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 224 screenshots with the Internet Archive.
+The archiving routine has saved 225 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-27T19:41:58.173952-07:00.jpg">
-  <img src="https://archive.org/download/mercnews-2022/mercnews-2022-07-27T19:41:58.173952-07:00.jpg"
-     alt="Mercury News at 2022-07-27 12:42:03-07:00 local time"
+ <a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-28T08:44:58.821985-07:00.jpg">
+  <img src="https://archive.org/download/mercnews-2022/mercnews-2022-07-28T08:44:58.821985-07:00.jpg"
+     alt="Mercury News at 2022-07-28 08:45:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-27T19:41:58.173952-07:00.jpg">July 27 at 12:42 PM</a></p>
+ <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-28T08:44:58.821985-07:00.jpg">July 28 at 8:45 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-27T19:41:58.173952-07:00.jpg">
+  <img src="https://archive.org/download/mercnews-2022/mercnews-2022-07-27T19:41:58.173952-07:00.jpg"
+     alt="Mercury News at 2022-07-27 19:42:03-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-27T19:41:58.173952-07:00.jpg">July 27 at 7:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-27T07:34:59.247105-07:00.jpg">
   <img src="https://archive.org/download/mercnews-2022/mercnews-2022-07-27T07:34:59.247105-07:00.jpg"
-     alt="Mercury News at 2022-07-27 00:35:00-07:00 local time"
+     alt="Mercury News at 2022-07-27 07:35:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-27T07:34:59.247105-07:00.jpg">July 27 at 12:35 AM</a></p>
+ <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-27T07:34:59.247105-07:00.jpg">July 27 at 7:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-26T19:41:46.938017-07:00.jpg">
   <img src="https://archive.org/download/mercnews-2022/mercnews-2022-07-26T19:41:46.938017-07:00.jpg"
-     alt="Mercury News at 2022-07-26 12:41:52-07:00 local time"
+     alt="Mercury News at 2022-07-26 19:41:52-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-26T19:41:46.938017-07:00.jpg">July 26 at 12:41 PM</a></p>
+ <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-26T19:41:46.938017-07:00.jpg">July 26 at 7:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-26T07:40:19.404774-07:00.jpg">
   <img src="https://archive.org/download/mercnews-2022/mercnews-2022-07-26T07:40:19.404774-07:00.jpg"
-     alt="Mercury News at 2022-07-26 00:40:23-07:00 local time"
+     alt="Mercury News at 2022-07-26 07:40:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-26T07:40:19.404774-07:00.jpg">July 26 at 12:40 AM</a></p>
+ <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-26T07:40:19.404774-07:00.jpg">July 26 at 7:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-25T19:48:01.074684-07:00.jpg">
   <img src="https://archive.org/download/mercnews-2022/mercnews-2022-07-25T19:48:01.074684-07:00.jpg"
-     alt="Mercury News at 2022-07-25 12:48:06-07:00 local time"
+     alt="Mercury News at 2022-07-25 19:48:06-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-25T19:48:01.074684-07:00.jpg">July 25 at 12:48 PM</a></p>
+ <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-25T19:48:01.074684-07:00.jpg">July 25 at 7:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-25T06:14:05.171882-07:00.jpg">
   <img src="https://archive.org/download/mercnews-2022/mercnews-2022-07-25T06:14:05.171882-07:00.jpg"
-     alt="Mercury News at 2022-07-24 23:14:06-07:00 local time"
+     alt="Mercury News at 2022-07-25 06:14:06-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-25T06:14:05.171882-07:00.jpg">July 24 at 11:14 PM</a></p>
+ <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-25T06:14:05.171882-07:00.jpg">July 25 at 6:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-24T20:31:38.791583-07:00.jpg">
   <img src="https://archive.org/download/mercnews-2022/mercnews-2022-07-24T20:31:38.791583-07:00.jpg"
-     alt="Mercury News at 2022-07-24 13:31:44-07:00 local time"
+     alt="Mercury News at 2022-07-24 20:31:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-24T20:31:38.791583-07:00.jpg">July 24 at 1:31 PM</a></p>
+ <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-24T20:31:38.791583-07:00.jpg">July 24 at 8:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-24T06:03:18.177880-07:00.jpg">
   <img src="https://archive.org/download/mercnews-2022/mercnews-2022-07-24T06:03:18.177880-07:00.jpg"
-     alt="Mercury News at 2022-07-23 23:03:23-07:00 local time"
+     alt="Mercury News at 2022-07-24 06:03:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-24T06:03:18.177880-07:00.jpg">July 23 at 11:03 PM</a></p>
+ <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-24T06:03:18.177880-07:00.jpg">July 24 at 6:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-23T21:19:09.245429-07:00.jpg">
   <img src="https://archive.org/download/mercnews-2022/mercnews-2022-07-23T21:19:09.245429-07:00.jpg"
-     alt="Mercury News at 2022-07-23 14:19:16-07:00 local time"
+     alt="Mercury News at 2022-07-23 21:19:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-23T21:19:09.245429-07:00.jpg">July 23 at 2:19 PM</a></p>
+ <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-23T21:19:09.245429-07:00.jpg">July 23 at 9:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-23T08:01:45.821920-07:00.jpg">
   <img src="https://archive.org/download/mercnews-2022/mercnews-2022-07-23T08:01:45.821920-07:00.jpg"
-     alt="Mercury News at 2022-07-23 01:01:51-07:00 local time"
+     alt="Mercury News at 2022-07-23 08:01:51-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-23T08:01:45.821920-07:00.jpg">July 23 at 1:01 AM</a></p>
+ <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-23T08:01:45.821920-07:00.jpg">July 23 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-22T20:32:17.549411-07:00.jpg">
   <img src="https://archive.org/download/mercnews-2022/mercnews-2022-07-22T20:32:17.549411-07:00.jpg"
-     alt="Mercury News at 2022-07-22 13:32:19-07:00 local time"
+     alt="Mercury News at 2022-07-22 20:32:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-22T20:32:17.549411-07:00.jpg">July 22 at 1:32 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-22T07:57:11.287520-07:00.jpg">
-  <img src="https://archive.org/download/mercnews-2022/mercnews-2022-07-22T07:57:11.287520-07:00.jpg"
-     alt="Mercury News at 2022-07-22 00:57:19-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-22T07:57:11.287520-07:00.jpg">July 22 at 12:57 AM</a></p>
+ <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-22T20:32:17.549411-07:00.jpg">July 22 at 8:32 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 214 hyperlink lists with the Internet Archive.
+The archiving routine has saved 215 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 12:42 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-27T19:41:58.173952-07:00.hyperlinks.json) |
-| [July 27 at 12:35 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-27T07:34:59.247105-07:00.hyperlinks.json) |
-| [July 26 at 12:41 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-26T19:41:46.938017-07:00.hyperlinks.json) |
-| [July 26 at 12:40 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-26T07:40:19.404774-07:00.hyperlinks.json) |
-| [July 25 at 12:48 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-25T19:48:01.074684-07:00.hyperlinks.json) |
-| [July 24 at 11:14 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-25T06:14:05.171882-07:00.hyperlinks.json) |
-| [July 24 at 1:31 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-24T20:31:38.791583-07:00.hyperlinks.json) |
-| [July 23 at 11:03 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-24T06:03:18.177880-07:00.hyperlinks.json) |
-| [July 23 at 2:19 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-23T21:19:09.245429-07:00.hyperlinks.json) |
-| [July 23 at 1:01 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-23T08:01:45.821920-07:00.hyperlinks.json) |
+| [July 28 at 8:45 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-28T08:44:58.821985-07:00.hyperlinks.json) |
+| [July 27 at 7:42 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-27T19:41:58.173952-07:00.hyperlinks.json) |
+| [July 27 at 7:35 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-27T07:34:59.247105-07:00.hyperlinks.json) |
+| [July 26 at 7:41 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-26T19:41:46.938017-07:00.hyperlinks.json) |
+| [July 26 at 7:40 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-26T07:40:19.404774-07:00.hyperlinks.json) |
+| [July 25 at 7:48 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-25T19:48:01.074684-07:00.hyperlinks.json) |
+| [July 25 at 6:14 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-25T06:14:05.171882-07:00.hyperlinks.json) |
+| [July 24 at 8:31 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-24T20:31:38.791583-07:00.hyperlinks.json) |
+| [July 24 at 6:03 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-24T06:03:18.177880-07:00.hyperlinks.json) |
+| [July 23 at 9:19 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-23T21:19:09.245429-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 216 accessibility trees with the Internet Archive.
+The archiving routine has saved 217 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 12:42 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-27T19:41:58.173952-07:00.accessibility.json) |
-| [July 27 at 12:35 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-27T07:34:59.247105-07:00.accessibility.json) |
-| [July 26 at 12:41 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-26T19:41:46.938017-07:00.accessibility.json) |
-| [July 26 at 12:40 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-26T07:40:19.404774-07:00.accessibility.json) |
-| [July 25 at 12:48 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-25T19:48:01.074684-07:00.accessibility.json) |
-| [July 24 at 11:14 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-25T06:14:05.171882-07:00.accessibility.json) |
-| [July 24 at 1:31 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-24T20:31:38.791583-07:00.accessibility.json) |
-| [July 23 at 11:03 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-24T06:03:18.177880-07:00.accessibility.json) |
-| [July 23 at 2:19 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-23T21:19:09.245429-07:00.accessibility.json) |
-| [July 23 at 1:01 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-23T08:01:45.821920-07:00.accessibility.json) |
+| [July 28 at 8:45 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-28T08:44:58.821985-07:00.accessibility.json) |
+| [July 27 at 7:42 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-27T19:41:58.173952-07:00.accessibility.json) |
+| [July 27 at 7:35 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-27T07:34:59.247105-07:00.accessibility.json) |
+| [July 26 at 7:41 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-26T19:41:46.938017-07:00.accessibility.json) |
+| [July 26 at 7:40 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-26T07:40:19.404774-07:00.accessibility.json) |
+| [July 25 at 7:48 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-25T19:48:01.074684-07:00.accessibility.json) |
+| [July 25 at 6:14 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-25T06:14:05.171882-07:00.accessibility.json) |
+| [July 24 at 8:31 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-24T20:31:38.791583-07:00.accessibility.json) |
+| [July 24 at 6:03 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-24T06:03:18.177880-07:00.accessibility.json) |
+| [July 23 at 9:19 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-23T21:19:09.245429-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,15 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 12:42 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-27T19:41:58.173952-07:00.lighthouse.json) |
-| [July 27 at 12:35 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-27T07:34:59.247105-07:00.lighthouse.json) |
-| [July 26 at 12:41 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-26T19:41:46.938017-07:00.lighthouse.json) |
-| [July 26 at 12:40 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-26T07:40:19.404774-07:00.lighthouse.json) |
-| [July 25 at 12:48 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-25T19:48:01.074684-07:00.lighthouse.json) |
-| [July 24 at 11:14 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-25T06:14:05.171882-07:00.lighthouse.json) |
-| [July 24 at 1:31 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-24T20:31:38.791583-07:00.lighthouse.json) |
-| [July 23 at 11:03 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-24T06:03:18.177880-07:00.lighthouse.json) |
-| [July 23 at 2:19 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-23T21:19:09.245429-07:00.lighthouse.json) |
+| [July 28 at 8:45 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-28T08:44:58.821985-07:00.lighthouse.json) |
+| [July 27 at 7:42 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-27T19:41:58.173952-07:00.lighthouse.json) |
+| [July 27 at 7:35 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-27T07:34:59.247105-07:00.lighthouse.json) |
+| [July 26 at 7:41 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-26T19:41:46.938017-07:00.lighthouse.json) |
+| [July 26 at 7:40 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-26T07:40:19.404774-07:00.lighthouse.json) |
+| [July 25 at 7:48 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-25T19:48:01.074684-07:00.lighthouse.json) |
+| [July 25 at 6:14 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-25T06:14:05.171882-07:00.lighthouse.json) |
+| [July 24 at 8:31 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-24T20:31:38.791583-07:00.lighthouse.json) |
+| [July 24 at 6:03 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-24T06:03:18.177880-07:00.lighthouse.json) |
+| [July 23 at 9:19 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-23T21:19:09.245429-07:00.lighthouse.json) |
 
 
 

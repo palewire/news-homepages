@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 270 screenshots with the Internet Archive.
+The archiving routine has saved 271 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-28T05:41:39.792693+03:00.jpg">
-  <img src="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-28T05:41:39.792693+03:00.jpg"
-     alt="Meduza at 2022-07-27 22:41:45+03:00 local time"
+ <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-28T18:45:06.063971+03:00.jpg">
+  <img src="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-28T18:45:06.063971+03:00.jpg"
+     alt="Meduza at 2022-07-28 18:45:11+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-28T05:41:39.792693+03:00.jpg">July 27 at 10:41 PM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-28T18:45:06.063971+03:00.jpg">July 28 at 6:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-28T05:41:39.792693+03:00.jpg">
+  <img src="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-28T05:41:39.792693+03:00.jpg"
+     alt="Meduza at 2022-07-28 05:41:45+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-28T05:41:39.792693+03:00.jpg">July 28 at 5:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T17:35:04.477395+03:00.jpg">
   <img src="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T17:35:04.477395+03:00.jpg"
-     alt="Meduza at 2022-07-27 10:35:08+03:00 local time"
+     alt="Meduza at 2022-07-27 17:35:08+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T17:35:04.477395+03:00.jpg">July 27 at 10:35 AM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T17:35:04.477395+03:00.jpg">July 27 at 5:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T05:41:16.916468+03:00.jpg">
   <img src="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T05:41:16.916468+03:00.jpg"
-     alt="Meduza at 2022-07-26 22:41:26+03:00 local time"
+     alt="Meduza at 2022-07-27 05:41:26+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T05:41:16.916468+03:00.jpg">July 26 at 10:41 PM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T05:41:16.916468+03:00.jpg">July 27 at 5:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T17:40:37.267349+03:00.jpg">
   <img src="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T17:40:37.267349+03:00.jpg"
-     alt="Meduza at 2022-07-26 10:40:46+03:00 local time"
+     alt="Meduza at 2022-07-26 17:40:46+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T17:40:37.267349+03:00.jpg">July 26 at 10:40 AM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T17:40:37.267349+03:00.jpg">July 26 at 5:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T05:47:29.341335+03:00.jpg">
   <img src="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T05:47:29.341335+03:00.jpg"
-     alt="Meduza at 2022-07-25 22:47:35+03:00 local time"
+     alt="Meduza at 2022-07-26 05:47:35+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T05:47:29.341335+03:00.jpg">July 25 at 10:47 PM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T05:47:29.341335+03:00.jpg">July 26 at 5:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T16:14:22.166196+03:00.jpg">
   <img src="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T16:14:22.166196+03:00.jpg"
-     alt="Meduza at 2022-07-25 09:14:24+03:00 local time"
+     alt="Meduza at 2022-07-25 16:14:24+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T16:14:22.166196+03:00.jpg">July 25 at 9:14 AM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T16:14:22.166196+03:00.jpg">July 25 at 4:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T06:31:45.839931+03:00.jpg">
   <img src="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T06:31:45.839931+03:00.jpg"
-     alt="Meduza at 2022-07-24 23:31:47+03:00 local time"
+     alt="Meduza at 2022-07-25 06:31:47+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T06:31:45.839931+03:00.jpg">July 24 at 11:31 PM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T06:31:45.839931+03:00.jpg">July 25 at 6:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T16:02:57.060679+03:00.jpg">
   <img src="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T16:02:57.060679+03:00.jpg"
-     alt="Meduza at 2022-07-24 09:02:58+03:00 local time"
+     alt="Meduza at 2022-07-24 16:02:58+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T16:02:57.060679+03:00.jpg">July 24 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T16:02:57.060679+03:00.jpg">July 24 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T07:18:37.091050+03:00.jpg">
   <img src="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T07:18:37.091050+03:00.jpg"
-     alt="Meduza at 2022-07-24 00:18:42+03:00 local time"
+     alt="Meduza at 2022-07-24 07:18:42+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T07:18:37.091050+03:00.jpg">July 24 at 12:18 AM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T07:18:37.091050+03:00.jpg">July 24 at 7:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-23T18:01:06.682876+03:00.jpg">
   <img src="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-23T18:01:06.682876+03:00.jpg"
-     alt="Meduza at 2022-07-23 11:01:08+03:00 local time"
+     alt="Meduza at 2022-07-23 18:01:08+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-23T18:01:06.682876+03:00.jpg">July 23 at 11:01 AM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-23T18:01:06.682876+03:00.jpg">July 23 at 6:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-23T06:30:25.962153+03:00.jpg">
   <img src="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-23T06:30:25.962153+03:00.jpg"
-     alt="Meduza at 2022-07-22 23:30:31+03:00 local time"
+     alt="Meduza at 2022-07-23 06:30:31+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-23T06:30:25.962153+03:00.jpg">July 22 at 11:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-22T17:56:51.140169+03:00.jpg">
-  <img src="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-22T17:56:51.140169+03:00.jpg"
-     alt="Meduza at 2022-07-22 10:56:57+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-22T17:56:51.140169+03:00.jpg">July 22 at 10:56 AM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-23T06:30:25.962153+03:00.jpg">July 23 at 6:30 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 252 hyperlink lists with the Internet Archive.
+The archiving routine has saved 253 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [July 27 at 10:41 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-28T05:41:39.792693+03:00.hyperlinks.json) |
-| [July 27 at 10:35 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T17:35:04.477395+03:00.hyperlinks.json) |
-| [July 26 at 10:41 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T05:41:16.916468+03:00.hyperlinks.json) |
-| [July 26 at 10:40 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T17:40:37.267349+03:00.hyperlinks.json) |
-| [July 25 at 10:47 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T05:47:29.341335+03:00.hyperlinks.json) |
-| [July 25 at 9:14 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T16:14:22.166196+03:00.hyperlinks.json) |
-| [July 24 at 11:31 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T06:31:45.839931+03:00.hyperlinks.json) |
-| [July 24 at 9:03 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T16:02:57.060679+03:00.hyperlinks.json) |
-| [July 24 at 12:18 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T07:18:37.091050+03:00.hyperlinks.json) |
-| [July 23 at 11:01 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-23T18:01:06.682876+03:00.hyperlinks.json) |
+| [July 28 at 6:45 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-28T18:45:06.063971+03:00.hyperlinks.json) |
+| [July 28 at 5:41 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-28T05:41:39.792693+03:00.hyperlinks.json) |
+| [July 27 at 5:35 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T17:35:04.477395+03:00.hyperlinks.json) |
+| [July 27 at 5:41 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T05:41:16.916468+03:00.hyperlinks.json) |
+| [July 26 at 5:40 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T17:40:37.267349+03:00.hyperlinks.json) |
+| [July 26 at 5:47 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T05:47:29.341335+03:00.hyperlinks.json) |
+| [July 25 at 4:14 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T16:14:22.166196+03:00.hyperlinks.json) |
+| [July 25 at 6:31 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T06:31:45.839931+03:00.hyperlinks.json) |
+| [July 24 at 4:03 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T16:02:57.060679+03:00.hyperlinks.json) |
+| [July 24 at 7:18 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T07:18:37.091050+03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 253 accessibility trees with the Internet Archive.
+The archiving routine has saved 254 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 27 at 10:41 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-28T05:41:39.792693+03:00.accessibility.json) |
-| [July 27 at 10:35 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T17:35:04.477395+03:00.accessibility.json) |
-| [July 26 at 10:41 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T05:41:16.916468+03:00.accessibility.json) |
-| [July 26 at 10:40 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T17:40:37.267349+03:00.accessibility.json) |
-| [July 25 at 10:47 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T05:47:29.341335+03:00.accessibility.json) |
-| [July 25 at 9:14 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T16:14:22.166196+03:00.accessibility.json) |
-| [July 24 at 11:31 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T06:31:45.839931+03:00.accessibility.json) |
-| [July 24 at 9:03 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T16:02:57.060679+03:00.accessibility.json) |
-| [July 24 at 12:18 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T07:18:37.091050+03:00.accessibility.json) |
-| [July 23 at 11:01 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-23T18:01:06.682876+03:00.accessibility.json) |
+| [July 28 at 6:45 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-28T18:45:06.063971+03:00.accessibility.json) |
+| [July 28 at 5:41 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-28T05:41:39.792693+03:00.accessibility.json) |
+| [July 27 at 5:35 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T17:35:04.477395+03:00.accessibility.json) |
+| [July 27 at 5:41 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T05:41:16.916468+03:00.accessibility.json) |
+| [July 26 at 5:40 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T17:40:37.267349+03:00.accessibility.json) |
+| [July 26 at 5:47 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T05:47:29.341335+03:00.accessibility.json) |
+| [July 25 at 4:14 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T16:14:22.166196+03:00.accessibility.json) |
+| [July 25 at 6:31 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T06:31:45.839931+03:00.accessibility.json) |
+| [July 24 at 4:03 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T16:02:57.060679+03:00.accessibility.json) |
+| [July 24 at 7:18 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T07:18:37.091050+03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,15 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [July 27 at 10:41 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-28T05:41:39.792693+03:00.lighthouse.json) |
-| [July 27 at 10:35 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T17:35:04.477395+03:00.lighthouse.json) |
-| [July 26 at 10:41 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T05:41:16.916468+03:00.lighthouse.json) |
-| [July 26 at 10:40 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T17:40:37.267349+03:00.lighthouse.json) |
-| [July 25 at 10:47 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T05:47:29.341335+03:00.lighthouse.json) |
-| [July 25 at 9:14 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T16:14:22.166196+03:00.lighthouse.json) |
-| [July 24 at 11:31 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T06:31:45.839931+03:00.lighthouse.json) |
-| [July 24 at 9:03 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T16:02:57.060679+03:00.lighthouse.json) |
-| [July 24 at 12:18 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T07:18:37.091050+03:00.lighthouse.json) |
+| [July 28 at 6:45 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-28T18:45:06.063971+03:00.lighthouse.json) |
+| [July 28 at 5:41 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-28T05:41:39.792693+03:00.lighthouse.json) |
+| [July 27 at 5:35 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T17:35:04.477395+03:00.lighthouse.json) |
+| [July 27 at 5:41 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-27T05:41:16.916468+03:00.lighthouse.json) |
+| [July 26 at 5:40 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T17:40:37.267349+03:00.lighthouse.json) |
+| [July 26 at 5:47 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-26T05:47:29.341335+03:00.lighthouse.json) |
+| [July 25 at 4:14 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T16:14:22.166196+03:00.lighthouse.json) |
+| [July 25 at 6:31 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T06:31:45.839931+03:00.lighthouse.json) |
+| [July 24 at 4:03 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T16:02:57.060679+03:00.lighthouse.json) |
+| [July 24 at 7:18 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T07:18:37.091050+03:00.lighthouse.json) |
 
 
 
