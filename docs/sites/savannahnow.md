@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-29T08:24:30.566743-04:00.jpg">
+  <img src="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-29T08:24:30.566743-04:00.jpg"
+     alt="Savannah Morning News at 2022-07-29 08:24:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-29T08:24:30.566743-04:00.jpg">July 29 at 8:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-28T20:20:00.419285-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T02:21:51.055716-04:00.jpg">July 24 at 2:21 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-23T11:09:21.376512-04:00.jpg">
-  <img src="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-23T11:09:21.376512-04:00.jpg"
-     alt="Savannah Morning News at 2022-07-23 11:09:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/savannahnow-2022/savannahnow-2022-07-23T11:09:21.376512-04:00.jpg">July 23 at 11:09 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 17 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 8:24 AM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-29T08:24:30.566743-04:00.hyperlinks.json) |
 | [July 28 at 8:20 PM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-28T20:20:00.419285-04:00.hyperlinks.json) |
 | [July 28 at 9:18 AM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-28T09:18:12.170259-04:00.hyperlinks.json) |
 | [July 27 at 8:12 PM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-27T20:11:53.747019-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 8:24 PM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-25T20:24:33.123786-04:00.hyperlinks.json) |
 | [July 25 at 11:41 AM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-25T11:41:01.943986-04:00.hyperlinks.json) |
 | [July 24 at 11:43 PM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T23:42:59.524638-04:00.hyperlinks.json) |
-| [July 24 at 2:21 AM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T02:21:51.055716-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 18 accessibility trees with the Internet Archive.
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 8:24 AM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-29T08:24:30.566743-04:00.accessibility.json) |
 | [July 28 at 8:20 PM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-28T20:20:00.419285-04:00.accessibility.json) |
 | [July 28 at 9:18 AM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-28T09:18:12.170259-04:00.accessibility.json) |
 | [July 27 at 8:11 PM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-27T20:11:53.747019-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 8:24 PM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-25T20:24:33.123786-04:00.accessibility.json) |
 | [July 25 at 11:41 AM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-25T11:41:01.943986-04:00.accessibility.json) |
 | [July 24 at 11:43 PM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T23:42:59.524638-04:00.accessibility.json) |
-| [July 24 at 10:02 AM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T10:02:52.375611-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 8:24 AM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-29T08:24:30.566743-04:00.lighthouse.json) |
 | [July 28 at 8:20 PM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-28T20:20:00.419285-04:00.lighthouse.json) |
 | [July 28 at 9:18 AM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-28T09:18:12.170259-04:00.lighthouse.json) |
 | [July 27 at 8:12 PM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-27T20:11:53.747019-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 8:24 PM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-25T20:24:33.123786-04:00.lighthouse.json) |
 | [July 25 at 11:41 AM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-25T11:41:01.943986-04:00.lighthouse.json) |
 | [July 24 at 11:43 PM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T23:42:59.524638-04:00.lighthouse.json) |
-| [July 24 at 10:02 AM](https://archive.org/download/savannahnow-2022/savannahnow-2022-07-24T10:02:52.375611-04:00.lighthouse.json) |
 
 
 

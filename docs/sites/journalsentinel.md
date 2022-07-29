@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 197 screenshots with the Internet Archive.
+The archiving routine has saved 198 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 197 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-28T21:37:30.673637-05:00.jpg">
+  <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-28T21:37:30.673637-05:00.jpg"
+     alt="Milwaukee Journal Sentinel at 2022-07-28 21:37:35-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-28T21:37:30.673637-05:00.jpg">July 28 at 9:37 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-28T10:42:23.264156-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-23T09:04:19.081708-05:00.jpg">July 23 at 9:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-22T21:30:09.663328-05:00.jpg">
-  <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-22T21:30:09.663328-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-07-22 21:30:11-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-22T21:30:09.663328-05:00.jpg">July 22 at 9:30 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 191 hyperlink lists with the Internet Archive.
+The archiving routine has saved 192 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 28 at 9:37 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-28T21:37:30.673637-05:00.hyperlinks.json) |
 | [July 28 at 10:42 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-28T10:42:23.264156-05:00.hyperlinks.json) |
 | [July 27 at 9:39 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-27T21:39:13.597200-05:00.hyperlinks.json) |
 | [July 27 at 9:31 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-27T09:31:40.260146-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 8:09 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-25T08:09:20.355400-05:00.hyperlinks.json) |
 | [July 24 at 10:25 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-24T22:24:57.264778-05:00.hyperlinks.json) |
 | [July 24 at 7:59 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-24T07:58:59.878911-05:00.hyperlinks.json) |
-| [July 23 at 11:13 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-23T23:13:45.053052-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 188 accessibility trees with the Internet Archive.
+The archiving routine has saved 189 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 28 at 9:37 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-28T21:37:30.673637-05:00.accessibility.json) |
 | [July 28 at 10:42 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-28T10:42:23.264156-05:00.accessibility.json) |
 | [July 27 at 9:39 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-27T21:39:13.597200-05:00.accessibility.json) |
 | [July 27 at 9:31 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-27T09:31:40.260146-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 8:09 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-25T08:09:20.355400-05:00.accessibility.json) |
 | [July 24 at 10:25 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-24T22:24:57.264778-05:00.accessibility.json) |
 | [July 24 at 7:59 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-24T07:58:59.878911-05:00.accessibility.json) |
-| [July 23 at 11:13 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-23T23:13:45.053052-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 28 at 9:37 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-28T21:37:30.673637-05:00.lighthouse.json) |
 | [July 28 at 10:42 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-28T10:42:23.264156-05:00.lighthouse.json) |
 | [July 27 at 9:39 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-27T21:39:13.597200-05:00.lighthouse.json) |
 | [July 27 at 9:31 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-27T09:31:40.260146-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 8:09 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-25T08:09:20.355400-05:00.lighthouse.json) |
 | [July 24 at 10:25 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-24T22:24:57.264778-05:00.lighthouse.json) |
 | [July 24 at 7:59 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-24T07:58:59.878911-05:00.lighthouse.json) |
-| [July 23 at 11:14 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-07-23T23:13:45.053052-05:00.lighthouse.json) |
 
 
 

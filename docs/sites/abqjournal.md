@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 197 screenshots with the Internet Archive.
+The archiving routine has saved 198 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 197 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-29T05:02:45.288595-06:00.jpg">
+  <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-29T05:02:45.288595-06:00.jpg"
+     alt="Albuquerque Journal at 2022-07-29 05:02:48-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-29T05:02:45.288595-06:00.jpg">July 29 at 5:02 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-28T17:05:28.286215-06:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T16:57:56.377771-06:00.jpg">July 23 at 4:57 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T06:54:17.746605-06:00.jpg">
-  <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T06:54:17.746605-06:00.jpg"
-     alt="Albuquerque Journal at 2022-07-23 06:54:19-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T06:54:17.746605-06:00.jpg">July 23 at 6:54 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 193 hyperlink lists with the Internet Archive.
+The archiving routine has saved 194 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 5:02 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-29T05:02:45.288595-06:00.hyperlinks.json) |
 | [July 28 at 5:05 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-28T17:05:28.286215-06:00.hyperlinks.json) |
 | [July 28 at 5:04 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-28T05:03:59.992971-06:00.hyperlinks.json) |
 | [July 27 at 5:00 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T17:00:16.670141-06:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 5:06 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T17:05:51.403974-06:00.hyperlinks.json) |
 | [July 25 at 4:56 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T04:56:16.169444-06:00.hyperlinks.json) |
 | [July 24 at 6:45 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T18:45:18.198813-06:00.hyperlinks.json) |
-| [July 24 at 4:55 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T04:54:57.019628-06:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 193 accessibility trees with the Internet Archive.
+The archiving routine has saved 194 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 5:02 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-29T05:02:45.288595-06:00.accessibility.json) |
 | [July 28 at 5:05 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-28T17:05:28.286215-06:00.accessibility.json) |
 | [July 28 at 5:04 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-28T05:03:59.992971-06:00.accessibility.json) |
 | [July 27 at 5:00 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T17:00:16.670141-06:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 5:05 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T17:05:51.403974-06:00.accessibility.json) |
 | [July 25 at 4:56 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T04:56:16.169444-06:00.accessibility.json) |
 | [July 24 at 6:45 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T18:45:18.198813-06:00.accessibility.json) |
-| [July 24 at 4:55 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T04:54:57.019628-06:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 5:02 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-29T05:02:45.288595-06:00.lighthouse.json) |
 | [July 28 at 5:05 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-28T17:05:28.286215-06:00.lighthouse.json) |
 | [July 28 at 5:04 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-28T05:03:59.992971-06:00.lighthouse.json) |
 | [July 27 at 5:00 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-27T17:00:16.670141-06:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 5:06 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T17:05:51.403974-06:00.lighthouse.json) |
 | [July 25 at 4:56 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T04:56:16.169444-06:00.lighthouse.json) |
 | [July 24 at 6:45 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T18:45:18.198813-06:00.lighthouse.json) |
-| [July 24 at 4:55 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T04:54:57.019628-06:00.lighthouse.json) |
 
 
 

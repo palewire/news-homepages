@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 40 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 39 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-28T19:38:26.090926-07:00.jpg">
+  <img src="https://archive.org/download/knprnews-2022/knprnews-2022-07-28T19:38:26.090926-07:00.jpg"
+     alt="Nevada Public Radio at 2022-07-28 19:38:27-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-28T19:38:26.090926-07:00.jpg">July 28 at 7:38 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-28T08:43:31.830634-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-22T19:31:48.569202-07:00.jpg">July 22 at 7:31 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-22T07:06:18.126310-07:00.jpg">
-  <img src="https://archive.org/download/knprnews-2022/knprnews-2022-07-22T07:06:18.126310-07:00.jpg"
-     alt="Nevada Public Radio at 2022-07-22 07:06:19-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-07-22T07:06:18.126310-07:00.jpg">July 22 at 7:06 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 40 hyperlink lists with the Internet Archive.
+The archiving routine has saved 41 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 28 at 7:38 PM](https://archive.org/download/knprnews-2022/knprnews-2022-07-28T19:38:26.090926-07:00.hyperlinks.json) |
 | [July 28 at 8:43 AM](https://archive.org/download/knprnews-2022/knprnews-2022-07-28T08:43:31.830634-07:00.hyperlinks.json) |
 | [July 27 at 7:39 PM](https://archive.org/download/knprnews-2022/knprnews-2022-07-27T19:39:48.555524-07:00.hyperlinks.json) |
 | [July 27 at 7:32 AM](https://archive.org/download/knprnews-2022/knprnews-2022-07-27T07:32:32.622015-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 6:11 AM](https://archive.org/download/knprnews-2022/knprnews-2022-07-25T06:11:01.352901-07:00.hyperlinks.json) |
 | [July 24 at 8:26 PM](https://archive.org/download/knprnews-2022/knprnews-2022-07-24T20:26:03.315880-07:00.hyperlinks.json) |
 | [July 24 at 6:00 AM](https://archive.org/download/knprnews-2022/knprnews-2022-07-24T06:00:10.668014-07:00.hyperlinks.json) |
-| [July 23 at 9:15 PM](https://archive.org/download/knprnews-2022/knprnews-2022-07-23T21:15:18.193666-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 40 accessibility trees with the Internet Archive.
+The archiving routine has saved 41 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 28 at 7:38 PM](https://archive.org/download/knprnews-2022/knprnews-2022-07-28T19:38:26.090926-07:00.accessibility.json) |
 | [July 28 at 8:43 AM](https://archive.org/download/knprnews-2022/knprnews-2022-07-28T08:43:31.830634-07:00.accessibility.json) |
 | [July 27 at 7:39 PM](https://archive.org/download/knprnews-2022/knprnews-2022-07-27T19:39:48.555524-07:00.accessibility.json) |
 | [July 27 at 7:32 AM](https://archive.org/download/knprnews-2022/knprnews-2022-07-27T07:32:32.622015-07:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 6:11 AM](https://archive.org/download/knprnews-2022/knprnews-2022-07-25T06:11:01.352901-07:00.accessibility.json) |
 | [July 24 at 8:26 PM](https://archive.org/download/knprnews-2022/knprnews-2022-07-24T20:26:03.315880-07:00.accessibility.json) |
 | [July 24 at 6:00 AM](https://archive.org/download/knprnews-2022/knprnews-2022-07-24T06:00:10.668014-07:00.accessibility.json) |
-| [July 23 at 9:15 PM](https://archive.org/download/knprnews-2022/knprnews-2022-07-23T21:15:18.193666-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 28 at 7:38 PM](https://archive.org/download/knprnews-2022/knprnews-2022-07-28T19:38:26.090926-07:00.lighthouse.json) |
 | [July 28 at 8:43 AM](https://archive.org/download/knprnews-2022/knprnews-2022-07-28T08:43:31.830634-07:00.lighthouse.json) |
 | [July 27 at 7:39 PM](https://archive.org/download/knprnews-2022/knprnews-2022-07-27T19:39:48.555524-07:00.lighthouse.json) |
 | [July 27 at 7:32 AM](https://archive.org/download/knprnews-2022/knprnews-2022-07-27T07:32:32.622015-07:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 6:11 AM](https://archive.org/download/knprnews-2022/knprnews-2022-07-25T06:11:01.352901-07:00.lighthouse.json) |
 | [July 24 at 8:26 PM](https://archive.org/download/knprnews-2022/knprnews-2022-07-24T20:26:03.315880-07:00.lighthouse.json) |
 | [July 24 at 6:00 AM](https://archive.org/download/knprnews-2022/knprnews-2022-07-24T06:00:10.668014-07:00.lighthouse.json) |
-| [July 23 at 9:15 PM](https://archive.org/download/knprnews-2022/knprnews-2022-07-23T21:15:18.193666-07:00.lighthouse.json) |
 
 
 

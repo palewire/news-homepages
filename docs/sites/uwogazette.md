@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-28T23:52:28.542179-04:00.jpg">
+  <img src="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-28T23:52:28.542179-04:00.jpg"
+     alt="Western Gazette at 2022-07-28 23:52:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-28T23:52:28.542179-04:00.jpg">July 28 at 11:52 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-07-28T11:56:05.427644-04:00.jpg">
@@ -122,7 +131,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 8 hyperlink lists with the Internet Archive.
+The archiving routine has saved 9 hyperlink lists with the Internet Archive.
 
 
 
@@ -130,6 +139,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 28 at 11:52 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-28T23:52:28.542179-04:00.hyperlinks.json) |
 | [July 28 at 11:56 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-28T11:56:05.427644-04:00.hyperlinks.json) |
 | [July 27 at 11:48 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-27T23:48:33.259173-04:00.hyperlinks.json) |
 | [July 27 at 11:51 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-27T11:51:13.480656-04:00.hyperlinks.json) |
@@ -142,7 +152,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 10 accessibility trees with the Internet Archive.
+The archiving routine has saved 11 accessibility trees with the Internet Archive.
 
 
 
@@ -150,6 +160,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 28 at 11:52 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-28T23:52:28.542179-04:00.accessibility.json) |
 | [July 28 at 11:56 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-28T11:56:05.427644-04:00.accessibility.json) |
 | [July 27 at 11:48 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-27T23:48:33.259173-04:00.accessibility.json) |
 | [July 27 at 11:51 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-27T11:51:13.480656-04:00.accessibility.json) |
@@ -159,13 +170,12 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 11:51 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T11:51:51.531982-04:00.accessibility.json) |
 | [July 25 at 12:40 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T00:40:01.428009-04:00.accessibility.json) |
 | [July 24 at 11:09 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-24T11:09:18.462751-04:00.accessibility.json) |
-| [July 23 at 11:45 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-23T23:45:19.538388-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -173,6 +183,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 28 at 11:52 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-28T23:52:28.542179-04:00.lighthouse.json) |
 | [July 28 at 11:56 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-28T11:56:05.427644-04:00.lighthouse.json) |
 | [July 27 at 11:48 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-27T23:48:33.259173-04:00.lighthouse.json) |
 | [July 27 at 11:51 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-27T11:51:13.480656-04:00.lighthouse.json) |
@@ -182,7 +193,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 11:51 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T11:51:51.531982-04:00.lighthouse.json) |
 | [July 25 at 12:40 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-25T00:40:01.428009-04:00.lighthouse.json) |
 | [July 24 at 11:09 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-24T11:09:18.462751-04:00.lighthouse.json) |
-| [July 23 at 11:45 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-07-23T23:45:19.538388-04:00.lighthouse.json) |
 
 
 

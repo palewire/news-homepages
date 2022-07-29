@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 86 screenshots with the Internet Archive.
+The archiving routine has saved 87 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 86 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-29T07:05:11.185071-04:00.jpg">
+  <img src="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-29T07:05:11.185071-04:00.jpg"
+     alt="Boston Globe at 2022-07-29 07:05:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-29T07:05:11.185071-04:00.jpg">July 29 at 7:05 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-28T19:08:22.033780-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-23T19:01:19.385635-04:00.jpg">July 23 at 7:01 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-23T08:58:37.044757-04:00.jpg">
-  <img src="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-23T08:58:37.044757-04:00.jpg"
-     alt="Boston Globe at 2022-07-23 08:58:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-23T08:58:37.044757-04:00.jpg">July 23 at 8:58 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 85 hyperlink lists with the Internet Archive.
+The archiving routine has saved 86 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 7:05 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-29T07:05:11.185071-04:00.hyperlinks.json) |
 | [July 28 at 7:08 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-28T19:08:22.033780-04:00.hyperlinks.json) |
 | [July 28 at 7:06 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-28T07:06:38.219799-04:00.hyperlinks.json) |
 | [July 27 at 7:02 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-27T19:02:46.907457-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 7:09 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-25T19:09:06.989907-04:00.hyperlinks.json) |
 | [July 25 at 7:00 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-25T07:00:31.202920-04:00.hyperlinks.json) |
 | [July 24 at 8:51 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-24T20:51:21.373472-04:00.hyperlinks.json) |
-| [July 24 at 6:59 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-24T06:59:24.661242-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 86 accessibility trees with the Internet Archive.
+The archiving routine has saved 87 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 7:05 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-29T07:05:11.185071-04:00.accessibility.json) |
 | [July 28 at 7:08 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-28T19:08:22.033780-04:00.accessibility.json) |
 | [July 28 at 7:06 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-28T07:06:38.219799-04:00.accessibility.json) |
 | [July 27 at 7:02 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-27T19:02:46.907457-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 7:09 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-25T19:09:06.989907-04:00.accessibility.json) |
 | [July 25 at 7:00 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-25T07:00:31.202920-04:00.accessibility.json) |
 | [July 24 at 8:51 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-24T20:51:21.373472-04:00.accessibility.json) |
-| [July 24 at 6:59 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-24T06:59:24.661242-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 7:05 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-29T07:05:11.185071-04:00.lighthouse.json) |
 | [July 28 at 7:08 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-28T19:08:22.033780-04:00.lighthouse.json) |
 | [July 28 at 7:06 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-28T07:06:38.219799-04:00.lighthouse.json) |
 | [July 27 at 7:02 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-27T19:02:46.907457-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 7:09 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-25T19:09:06.989907-04:00.lighthouse.json) |
 | [July 25 at 7:00 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-25T07:00:31.202920-04:00.lighthouse.json) |
 | [July 24 at 8:51 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-24T20:51:21.373472-04:00.lighthouse.json) |
-| [July 24 at 6:59 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-24T06:59:24.661242-04:00.lighthouse.json) |
 
 
 

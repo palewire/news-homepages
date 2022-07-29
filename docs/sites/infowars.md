@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 33 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 32 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/infowars-2022/infowars-2022-07-28T21:37:03.813378-05:00.jpg">
+  <img src="https://archive.org/download/infowars-2022/infowars-2022-07-28T21:37:03.813378-05:00.jpg"
+     alt="Infowars at 2022-07-28 21:37:05-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-28T21:37:03.813378-05:00.jpg">July 28 at 9:37 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/infowars-2022/infowars-2022-07-28T13:42:55.762452-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T07:06:28.353666-05:00.jpg">July 25 at 7:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/infowars-2022/infowars-2022-07-24T20:11:55.437932-05:00.jpg">
-  <img src="https://archive.org/download/infowars-2022/infowars-2022-07-24T20:11:55.437932-05:00.jpg"
-     alt="Infowars at 2022-07-24 20:11:57-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-24T20:11:55.437932-05:00.jpg">July 24 at 8:11 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 33 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 28 at 9:37 PM](https://archive.org/download/infowars-2022/infowars-2022-07-28T21:37:03.813378-05:00.hyperlinks.json) |
 | [July 28 at 1:42 PM](https://archive.org/download/infowars-2022/infowars-2022-07-28T13:42:55.762452-05:00.hyperlinks.json) |
 | [July 28 at 10:42 AM](https://archive.org/download/infowars-2022/infowars-2022-07-28T10:41:59.357366-05:00.hyperlinks.json) |
 | [July 27 at 9:39 PM](https://archive.org/download/infowars-2022/infowars-2022-07-27T21:39:20.960503-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 9:36 AM](https://archive.org/download/infowars-2022/infowars-2022-07-26T09:36:41.173712-05:00.hyperlinks.json) |
 | [July 25 at 9:45 PM](https://archive.org/download/infowars-2022/infowars-2022-07-25T21:45:11.844862-05:00.hyperlinks.json) |
 | [July 25 at 1:38 PM](https://archive.org/download/infowars-2022/infowars-2022-07-25T13:38:26.250036-05:00.hyperlinks.json) |
-| [July 25 at 11:41 AM](https://archive.org/download/infowars-2022/infowars-2022-07-25T11:41:11.621005-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -342,7 +342,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
 
 
 
@@ -350,6 +350,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 28 at 9:37 PM](https://archive.org/download/infowars-2022/infowars-2022-07-28T21:37:03.813378-05:00.lighthouse.json) |
 | [July 28 at 1:43 PM](https://archive.org/download/infowars-2022/infowars-2022-07-28T13:42:55.762452-05:00.lighthouse.json) |
 | [July 28 at 10:42 AM](https://archive.org/download/infowars-2022/infowars-2022-07-28T10:41:59.357366-05:00.lighthouse.json) |
 | [July 27 at 9:39 PM](https://archive.org/download/infowars-2022/infowars-2022-07-27T21:39:20.960503-05:00.lighthouse.json) |
@@ -359,7 +360,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 26 at 9:36 AM](https://archive.org/download/infowars-2022/infowars-2022-07-26T09:36:41.173712-05:00.lighthouse.json) |
 | [July 25 at 9:45 PM](https://archive.org/download/infowars-2022/infowars-2022-07-25T21:45:11.844862-05:00.lighthouse.json) |
 | [July 25 at 1:38 PM](https://archive.org/download/infowars-2022/infowars-2022-07-25T13:38:26.250036-05:00.lighthouse.json) |
-| [July 25 at 11:41 AM](https://archive.org/download/infowars-2022/infowars-2022-07-25T11:41:11.621005-05:00.lighthouse.json) |
 
 
 

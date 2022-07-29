@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wjbf-2022/wjbf-2022-07-28T21:30:42.206977-04:00.jpg">
+  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-07-28T21:30:42.206977-04:00.jpg"
+     alt="WJBF at 2022-07-28 21:30:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-07-28T21:30:42.206977-04:00.jpg">July 28 at 9:30 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wjbf-2022/wjbf-2022-07-28T09:29:39.952772-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-07-23T23:47:05.087568-04:00.jpg">July 23 at 11:47 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wjbf-2022/wjbf-2022-07-23T12:09:28.444626-04:00.jpg">
-  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-07-23T12:09:28.444626-04:00.jpg"
-     alt="WJBF at 2022-07-23 12:09:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-07-23T12:09:28.444626-04:00.jpg">July 23 at 12:09 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 18 hyperlink lists with the Internet Archive.
+The archiving routine has saved 19 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 28 at 9:30 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-28T21:30:42.206977-04:00.hyperlinks.json) |
 | [July 28 at 9:29 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-28T09:29:39.952772-04:00.hyperlinks.json) |
 | [July 27 at 9:34 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-27T21:34:42.111442-04:00.hyperlinks.json) |
 | [July 27 at 9:27 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-27T09:27:41.456377-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 9:39 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-25T21:39:11.885954-04:00.hyperlinks.json) |
 | [July 25 at 11:53 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-25T11:52:58.392722-04:00.hyperlinks.json) |
 | [July 25 at 12:41 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-25T00:41:45.868059-04:00.hyperlinks.json) |
-| [July 24 at 11:11 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-24T11:11:30.027081-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 18 accessibility trees with the Internet Archive.
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 28 at 9:30 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-28T21:30:42.206977-04:00.accessibility.json) |
 | [July 28 at 9:29 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-28T09:29:39.952772-04:00.accessibility.json) |
 | [July 27 at 9:34 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-27T21:34:42.111442-04:00.accessibility.json) |
 | [July 27 at 9:27 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-27T09:27:41.456377-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 9:39 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-25T21:39:11.885954-04:00.accessibility.json) |
 | [July 25 at 11:53 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-25T11:52:58.392722-04:00.accessibility.json) |
 | [July 25 at 12:41 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-25T00:41:45.868059-04:00.accessibility.json) |
-| [July 24 at 11:11 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-24T11:11:30.027081-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 28 at 9:30 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-28T21:30:42.206977-04:00.lighthouse.json) |
 | [July 28 at 9:29 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-28T09:29:39.952772-04:00.lighthouse.json) |
 | [July 27 at 9:34 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-27T21:34:42.111442-04:00.lighthouse.json) |
 | [July 27 at 9:27 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-27T09:27:41.456377-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 9:39 PM](https://archive.org/download/wjbf-2022/wjbf-2022-07-25T21:39:11.885954-04:00.lighthouse.json) |
 | [July 25 at 11:53 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-25T11:52:58.392722-04:00.lighthouse.json) |
 | [July 25 at 12:41 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-25T00:41:45.868059-04:00.lighthouse.json) |
-| [July 24 at 11:11 AM](https://archive.org/download/wjbf-2022/wjbf-2022-07-24T11:11:30.027081-04:00.lighthouse.json) |
 
 
 

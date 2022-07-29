@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-29T18:05:59.327730+05:45.jpg">
+  <img src="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-29T18:05:59.327730+05:45.jpg"
+     alt="Nepal Khabar at 2022-07-29 18:06:01+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-29T18:05:59.327730+05:45.jpg">July 29 at 6:06 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-29T06:01:43.328726+05:45.jpg">
@@ -122,7 +131,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 10 hyperlink lists with the Internet Archive.
+The archiving routine has saved 11 hyperlink lists with the Internet Archive.
 
 
 
@@ -130,6 +139,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 6:06 PM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-29T18:05:59.327730+05:45.hyperlinks.json) |
 | [July 29 at 6:01 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-29T06:01:43.328726+05:45.hyperlinks.json) |
 | [July 28 at 6:58 PM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-28T18:58:50.539201+05:45.hyperlinks.json) |
 | [July 28 at 5:53 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-28T05:53:14.466023+05:45.hyperlinks.json) |
@@ -139,12 +149,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 6:05 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-26T06:05:07.620109+05:45.hyperlinks.json) |
 | [July 25 at 7:01 PM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T19:01:39.194304+05:45.hyperlinks.json) |
 | [July 25 at 9:20 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T09:20:06.467216+05:45.hyperlinks.json) |
-| [July 25 at 2:23 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T02:23:19.209992+05:45.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 10 accessibility trees with the Internet Archive.
+The archiving routine has saved 11 accessibility trees with the Internet Archive.
 
 
 
@@ -152,6 +161,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 6:06 PM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-29T18:05:59.327730+05:45.accessibility.json) |
 | [July 29 at 6:01 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-29T06:01:43.328726+05:45.accessibility.json) |
 | [July 28 at 6:58 PM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-28T18:58:50.539201+05:45.accessibility.json) |
 | [July 28 at 5:53 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-28T05:53:14.466023+05:45.accessibility.json) |
@@ -161,13 +171,12 @@ Here are the 10 most recent accessibility trees.
 | [July 26 at 6:05 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-26T06:05:07.620109+05:45.accessibility.json) |
 | [July 25 at 7:01 PM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T19:01:39.194304+05:45.accessibility.json) |
 | [July 25 at 9:20 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T09:20:06.467216+05:45.accessibility.json) |
-| [July 25 at 2:23 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T02:23:19.209992+05:45.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -175,6 +184,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 6:06 PM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-29T18:05:59.327730+05:45.lighthouse.json) |
 | [July 29 at 6:01 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-29T06:01:43.328726+05:45.lighthouse.json) |
 | [July 28 at 6:58 PM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-28T18:58:50.539201+05:45.lighthouse.json) |
 | [July 28 at 5:53 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-28T05:53:14.466023+05:45.lighthouse.json) |
@@ -184,7 +194,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 26 at 6:05 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-26T06:05:07.620109+05:45.lighthouse.json) |
 | [July 25 at 7:01 PM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T19:01:39.194304+05:45.lighthouse.json) |
 | [July 25 at 9:20 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T09:20:06.467216+05:45.lighthouse.json) |
-| [July 25 at 2:23 AM](https://archive.org/download/nepalkhabar24-2022/nepalkhabar24-2022-07-25T02:23:19.209992+05:45.lighthouse.json) |
 
 
 

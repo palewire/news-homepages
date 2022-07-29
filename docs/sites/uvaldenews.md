@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 24 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-28T20:29:59.697646-05:00.jpg">
+  <img src="https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-28T20:29:59.697646-05:00.jpg"
+     alt="Uvalde News-Leader at 2022-07-28 20:30:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-28T20:29:59.697646-05:00.jpg">July 28 at 8:30 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-28T08:28:14.218349-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-23T22:45:29.886265-05:00.jpg">July 23 at 10:45 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-23T11:07:45.609852-05:00.jpg">
-  <img src="https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-23T11:07:45.609852-05:00.jpg"
-     alt="Uvalde News-Leader at 2022-07-23 11:07:47-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-23T11:07:45.609852-05:00.jpg">July 23 at 11:07 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 24 hyperlink lists with the Internet Archive.
+The archiving routine has saved 25 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 28 at 8:30 PM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-28T20:29:59.697646-05:00.hyperlinks.json) |
 | [July 28 at 8:28 AM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-28T08:28:14.218349-05:00.hyperlinks.json) |
 | [July 27 at 8:33 PM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-27T20:33:37.427297-05:00.hyperlinks.json) |
 | [July 27 at 8:27 AM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-27T08:26:53.888991-05:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 8:38 PM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-25T20:37:58.083165-05:00.hyperlinks.json) |
 | [July 25 at 10:51 AM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-25T10:51:19.089805-05:00.hyperlinks.json) |
 | [July 24 at 11:39 PM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-24T23:39:39.691790-05:00.hyperlinks.json) |
-| [July 24 at 10:09 AM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-24T10:09:29.584003-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 24 accessibility trees with the Internet Archive.
+The archiving routine has saved 25 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 28 at 8:30 PM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-28T20:29:59.697646-05:00.accessibility.json) |
 | [July 28 at 8:28 AM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-28T08:28:14.218349-05:00.accessibility.json) |
 | [July 27 at 8:33 PM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-27T20:33:37.427297-05:00.accessibility.json) |
 | [July 27 at 8:26 AM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-27T08:26:53.888991-05:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 8:38 PM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-25T20:37:58.083165-05:00.accessibility.json) |
 | [July 25 at 10:51 AM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-25T10:51:19.089805-05:00.accessibility.json) |
 | [July 24 at 11:39 PM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-24T23:39:39.691790-05:00.accessibility.json) |
-| [July 24 at 10:09 AM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-24T10:09:29.584003-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 28 at 8:30 PM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-28T20:29:59.697646-05:00.lighthouse.json) |
 | [July 28 at 8:28 AM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-28T08:28:14.218349-05:00.lighthouse.json) |
 | [July 27 at 8:33 PM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-27T20:33:37.427297-05:00.lighthouse.json) |
 | [July 27 at 8:27 AM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-27T08:26:53.888991-05:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 8:38 PM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-25T20:37:58.083165-05:00.lighthouse.json) |
 | [July 25 at 10:51 AM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-25T10:51:19.089805-05:00.lighthouse.json) |
 | [July 24 at 11:39 PM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-24T23:39:39.691790-05:00.lighthouse.json) |
-| [July 24 at 10:09 AM](https://archive.org/download/uvaldenews-2022/uvaldenews-2022-07-24T10:09:29.584003-05:00.lighthouse.json) |
 
 
 

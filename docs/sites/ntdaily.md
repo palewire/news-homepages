@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-07-28T22:46:07.401066-05:00.jpg">
+  <img src="https://archive.org/download/ntdaily-2022/ntdaily-2022-07-28T22:46:07.401066-05:00.jpg"
+     alt="North Texas Daily at 2022-07-28 22:46:08-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-07-28T22:46:07.401066-05:00.jpg">July 28 at 10:46 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-07-28T10:47:27.356378-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-07-23T10:04:27.994154-05:00.jpg">July 23 at 10:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-07-22T22:34:31.233011-05:00.jpg">
-  <img src="https://archive.org/download/ntdaily-2022/ntdaily-2022-07-22T22:34:31.233011-05:00.jpg"
-     alt="North Texas Daily at 2022-07-22 22:34:32-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-07-22T22:34:31.233011-05:00.jpg">July 22 at 10:34 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 23 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 28 at 10:46 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-28T22:46:07.401066-05:00.hyperlinks.json) |
 | [July 28 at 10:47 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-28T10:47:27.356378-05:00.hyperlinks.json) |
 | [July 27 at 9:44 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-27T21:44:13.336131-05:00.hyperlinks.json) |
 | [July 27 at 10:43 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-27T10:42:55.426745-05:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 10:33 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-25T10:33:51.781742-05:00.hyperlinks.json) |
 | [July 24 at 10:37 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-24T22:37:33.640016-05:00.hyperlinks.json) |
 | [July 24 at 8:58 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-24T08:58:26.218176-05:00.hyperlinks.json) |
-| [July 24 at 1:16 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-24T01:16:35.357297-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 23 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 28 at 10:46 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-28T22:46:07.401066-05:00.accessibility.json) |
 | [July 28 at 10:47 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-28T10:47:27.356378-05:00.accessibility.json) |
 | [July 27 at 9:44 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-27T21:44:13.336131-05:00.accessibility.json) |
 | [July 27 at 10:42 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-27T10:42:55.426745-05:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 10:33 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-25T10:33:51.781742-05:00.accessibility.json) |
 | [July 24 at 10:37 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-24T22:37:33.640016-05:00.accessibility.json) |
 | [July 24 at 8:58 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-24T08:58:26.218176-05:00.accessibility.json) |
-| [July 24 at 1:16 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-24T01:16:35.357297-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 28 at 10:46 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-28T22:46:07.401066-05:00.lighthouse.json) |
 | [July 28 at 10:47 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-28T10:47:27.356378-05:00.lighthouse.json) |
 | [July 27 at 9:44 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-27T21:44:13.336131-05:00.lighthouse.json) |
 | [July 27 at 10:43 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-27T10:42:55.426745-05:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 10:33 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-25T10:33:51.781742-05:00.lighthouse.json) |
 | [July 24 at 10:37 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-24T22:37:33.640016-05:00.lighthouse.json) |
 | [July 24 at 8:58 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-24T08:58:26.218176-05:00.lighthouse.json) |
-| [July 24 at 1:16 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-07-24T01:16:35.357297-05:00.lighthouse.json) |
 
 
 

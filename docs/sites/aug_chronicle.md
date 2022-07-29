@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-29T07:03:29.630854-04:00.jpg">
+  <img src="https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-29T07:03:29.630854-04:00.jpg"
+     alt="Augusta Chronicle at 2022-07-29 07:03:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-29T07:03:29.630854-04:00.jpg">July 29 at 7:03 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-28T19:07:08.173853-04:00.jpg">
@@ -127,15 +136,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-23T18:59:23.136018-04:00.jpg">July 23 at 6:59 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-23T08:55:15.392730-04:00.jpg">
-  <img src="https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-23T08:55:15.392730-04:00.jpg"
-     alt="Augusta Chronicle at 2022-07-23 08:55:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-23T08:55:15.392730-04:00.jpg">July 23 at 8:55 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
@@ -162,7 +162,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 18 accessibility trees with the Internet Archive.
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 7:03 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-29T07:03:29.630854-04:00.accessibility.json) |
 | [July 28 at 7:07 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-28T19:07:08.173853-04:00.accessibility.json) |
 | [July 28 at 7:04 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-28T07:04:40.964192-04:00.accessibility.json) |
 | [July 27 at 7:01 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-27T19:01:28.090729-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 7:06 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-25T19:06:37.285091-04:00.accessibility.json) |
 | [July 25 at 6:57 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-25T06:57:39.362720-04:00.accessibility.json) |
 | [July 24 at 8:48 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-24T20:48:16.673180-04:00.accessibility.json) |
-| [July 24 at 6:56 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-24T06:56:33.319998-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 7:03 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-29T07:03:29.630854-04:00.lighthouse.json) |
 | [July 28 at 7:07 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-28T19:07:08.173853-04:00.lighthouse.json) |
 | [July 28 at 7:04 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-28T07:04:40.964192-04:00.lighthouse.json) |
 | [July 27 at 7:01 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-27T19:01:28.090729-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 7:06 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-25T19:06:37.285091-04:00.lighthouse.json) |
 | [July 25 at 6:57 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-25T06:57:39.362720-04:00.lighthouse.json) |
 | [July 24 at 8:48 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-24T20:48:16.673180-04:00.lighthouse.json) |
-| [July 24 at 6:56 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-07-24T06:56:33.319998-04:00.lighthouse.json) |
 
 
 

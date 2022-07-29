@@ -223,7 +223,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 457 hyperlink lists with the Internet Archive.
+The archiving routine has saved 458 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 7:17 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-29T07:17:39.277386-05:00.hyperlinks.json) |
 | [July 28 at 7:14 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-28T19:14:11.556049-05:00.hyperlinks.json) |
 | [July 28 at 8:11 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-28T08:11:19.099384-05:00.hyperlinks.json) |
 | [July 27 at 7:06 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T19:05:47.378832-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 7:17 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T19:17:23.230988-05:00.hyperlinks.json) |
 | [July 25 at 8:12 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.hyperlinks.json) |
 | [July 24 at 10:28 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-24T22:28:01.743571-05:00.hyperlinks.json) |
-| [July 24 at 8:01 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-24T08:01:26.513605-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 443 accessibility trees with the Internet Archive.
+The archiving routine has saved 444 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 7:17 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-29T07:17:39.277386-05:00.accessibility.json) |
 | [July 28 at 7:14 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-28T19:14:11.556049-05:00.accessibility.json) |
 | [July 28 at 8:11 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-28T08:11:19.099384-05:00.accessibility.json) |
 | [July 27 at 7:06 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T19:05:47.378832-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 7:17 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T19:17:23.230988-05:00.accessibility.json) |
 | [July 25 at 8:12 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.accessibility.json) |
 | [July 24 at 10:28 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-24T22:28:01.743571-05:00.accessibility.json) |
-| [July 24 at 8:01 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-24T08:01:26.513605-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 7:17 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-29T07:17:39.277386-05:00.lighthouse.json) |
 | [July 28 at 7:14 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-28T19:14:11.556049-05:00.lighthouse.json) |
 | [July 28 at 8:11 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-28T08:11:19.099384-05:00.lighthouse.json) |
 | [July 27 at 7:06 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T19:05:47.378832-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 7:17 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T19:17:23.230988-05:00.lighthouse.json) |
 | [July 25 at 8:12 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.lighthouse.json) |
 | [July 24 at 10:28 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-24T22:28:01.743571-05:00.lighthouse.json) |
-| [July 24 at 8:01 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-24T08:01:26.513605-05:00.lighthouse.json) |
 
 
 

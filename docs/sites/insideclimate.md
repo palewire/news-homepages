@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 40 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 39 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-28T22:37:05.263914-04:00.jpg">
+  <img src="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-28T22:37:05.263914-04:00.jpg"
+     alt="Inside Climate News at 2022-07-28 22:37:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-28T22:37:05.263914-04:00.jpg">July 28 at 10:37 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-28T11:41:40.558431-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-23T10:03:18.583508-04:00.jpg">July 23 at 10:03 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-22T22:29:25.205869-04:00.jpg">
-  <img src="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-22T22:29:25.205869-04:00.jpg"
-     alt="Inside Climate News at 2022-07-22 22:29:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/insideclimate-2022/insideclimate-2022-07-22T22:29:25.205869-04:00.jpg">July 22 at 10:29 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 39 hyperlink lists with the Internet Archive.
+The archiving routine has saved 40 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 28 at 10:37 PM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-28T22:37:05.263914-04:00.hyperlinks.json) |
 | [July 28 at 11:41 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-28T11:41:40.558431-04:00.hyperlinks.json) |
 | [July 27 at 10:38 PM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-27T22:38:33.614205-04:00.hyperlinks.json) |
 | [July 27 at 10:32 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-27T10:32:29.361222-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 8:06 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-25T08:06:49.711524-04:00.hyperlinks.json) |
 | [July 24 at 9:12 PM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T21:12:04.386872-04:00.hyperlinks.json) |
 | [July 24 at 8:03 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T08:03:39.343524-04:00.hyperlinks.json) |
-| [July 24 at 2:33 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T02:33:38.136391-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 38 accessibility trees with the Internet Archive.
+The archiving routine has saved 39 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 28 at 10:37 PM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-28T22:37:05.263914-04:00.accessibility.json) |
 | [July 28 at 11:41 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-28T11:41:40.558431-04:00.accessibility.json) |
 | [July 27 at 10:38 PM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-27T22:38:33.614205-04:00.accessibility.json) |
 | [July 27 at 10:32 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-27T10:32:29.361222-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 8:06 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-25T08:06:49.711524-04:00.accessibility.json) |
 | [July 24 at 9:12 PM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T21:12:04.386872-04:00.accessibility.json) |
 | [July 24 at 8:03 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T08:03:39.343524-04:00.accessibility.json) |
-| [July 24 at 2:33 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T02:33:38.136391-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 28 at 10:37 PM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-28T22:37:05.263914-04:00.lighthouse.json) |
 | [July 28 at 11:41 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-28T11:41:40.558431-04:00.lighthouse.json) |
 | [July 27 at 10:38 PM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-27T22:38:33.614205-04:00.lighthouse.json) |
 | [July 27 at 10:32 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-27T10:32:29.361222-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 8:06 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-25T08:06:49.711524-04:00.lighthouse.json) |
 | [July 24 at 9:12 PM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T21:12:04.386872-04:00.lighthouse.json) |
 | [July 24 at 8:03 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T08:03:39.343524-04:00.lighthouse.json) |
-| [July 24 at 2:33 AM](https://archive.org/download/insideclimate-2022/insideclimate-2022-07-24T02:33:38.136391-04:00.lighthouse.json) |
 
 
 

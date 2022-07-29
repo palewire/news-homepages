@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 49 screenshots with the Internet Archive.
+The archiving routine has saved 50 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 49 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-28T21:29:25.001973-04:00.jpg">
+  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-28T21:29:25.001973-04:00.jpg"
+     alt="Vanity Fair at 2022-07-28 21:29:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-28T21:29:25.001973-04:00.jpg">July 28 at 9:29 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-28T09:28:16.694989-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-23T23:44:54.817033-04:00.jpg">July 23 at 11:44 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-23T12:07:56.732290-04:00.jpg">
-  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-23T12:07:56.732290-04:00.jpg"
-     alt="Vanity Fair at 2022-07-23 12:07:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-23T12:07:56.732290-04:00.jpg">July 23 at 12:07 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 49 hyperlink lists with the Internet Archive.
+The archiving routine has saved 50 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 28 at 9:29 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-28T21:29:25.001973-04:00.hyperlinks.json) |
 | [July 28 at 9:28 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-28T09:28:16.694989-04:00.hyperlinks.json) |
 | [July 27 at 9:33 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-27T21:33:38.508981-04:00.hyperlinks.json) |
 | [July 27 at 9:26 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-27T09:26:11.084781-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 9:38 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-25T21:38:03.198640-04:00.hyperlinks.json) |
 | [July 25 at 11:52 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-25T11:52:03.001278-04:00.hyperlinks.json) |
 | [July 25 at 12:39 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-25T00:39:51.794049-04:00.hyperlinks.json) |
-| [July 24 at 11:09 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-24T11:09:42.354670-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 50 accessibility trees with the Internet Archive.
+The archiving routine has saved 51 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 28 at 9:29 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-28T21:29:25.001973-04:00.accessibility.json) |
 | [July 28 at 9:28 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-28T09:28:16.694989-04:00.accessibility.json) |
 | [July 27 at 9:33 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-27T21:33:38.508981-04:00.accessibility.json) |
 | [July 27 at 9:26 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-27T09:26:11.084781-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 9:38 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-25T21:38:03.198640-04:00.accessibility.json) |
 | [July 25 at 11:52 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-25T11:52:03.001278-04:00.accessibility.json) |
 | [July 25 at 12:39 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-25T00:39:51.794049-04:00.accessibility.json) |
-| [July 24 at 11:09 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-24T11:09:42.354670-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 28 at 9:29 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-28T21:29:25.001973-04:00.lighthouse.json) |
 | [July 28 at 9:28 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-28T09:28:16.694989-04:00.lighthouse.json) |
 | [July 27 at 9:33 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-27T21:33:38.508981-04:00.lighthouse.json) |
 | [July 27 at 9:26 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-27T09:26:11.084781-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 9:38 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-25T21:38:03.198640-04:00.lighthouse.json) |
 | [July 25 at 11:52 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-25T11:52:03.001278-04:00.lighthouse.json) |
 | [July 25 at 12:39 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-25T00:39:51.794049-04:00.lighthouse.json) |
-| [July 24 at 11:09 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-24T11:09:42.354670-04:00.lighthouse.json) |
 
 
 

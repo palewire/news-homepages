@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpasotimes-2022/elpasotimes-2022-07-28T20:34:57.384925-06:00.jpg">
+  <img src="https://archive.org/download/elpasotimes-2022/elpasotimes-2022-07-28T20:34:57.384925-06:00.jpg"
+     alt="El Paso Times at 2022-07-28 20:34:58-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpasotimes-2022/elpasotimes-2022-07-28T20:34:57.384925-06:00.jpg">July 28 at 8:34 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elpasotimes-2022/elpasotimes-2022-07-28T09:38:50.647327-06:00.jpg">
@@ -77,7 +86,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
 
 
@@ -85,6 +94,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 28 at 8:35 PM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-07-28T20:34:57.384925-06:00.hyperlinks.json) |
 | [July 28 at 9:38 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-07-28T09:38:50.647327-06:00.hyperlinks.json) |
 | [July 27 at 8:35 PM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-07-27T20:35:29.637830-06:00.hyperlinks.json) |
 | [July 27 at 8:28 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-07-27T08:28:00.776634-06:00.hyperlinks.json) |
@@ -94,7 +104,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 5 accessibility trees with the Internet Archive.
+The archiving routine has saved 6 accessibility trees with the Internet Archive.
 
 
 
@@ -102,6 +112,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 28 at 8:34 PM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-07-28T20:34:57.384925-06:00.accessibility.json) |
 | [July 28 at 9:38 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-07-28T09:38:50.647327-06:00.accessibility.json) |
 | [July 27 at 8:35 PM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-07-27T20:35:29.637830-06:00.accessibility.json) |
 | [July 27 at 8:28 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-07-27T08:28:00.776634-06:00.accessibility.json) |
@@ -112,7 +123,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 5 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 6 Lighthouse audits with the Internet Archive.
 
 
 
@@ -120,6 +131,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 28 at 8:35 PM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-07-28T20:34:57.384925-06:00.lighthouse.json) |
 | [July 28 at 9:38 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-07-28T09:38:50.647327-06:00.lighthouse.json) |
 | [July 27 at 8:35 PM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-07-27T20:35:29.637830-06:00.lighthouse.json) |
 | [July 27 at 8:28 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-07-27T08:28:00.776634-06:00.lighthouse.json) |

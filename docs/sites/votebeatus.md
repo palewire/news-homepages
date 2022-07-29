@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 113 screenshots with the Internet Archive.
+The archiving routine has saved 114 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 113 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-28T21:30:22.526916-04:00.jpg">
+  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-28T21:30:22.526916-04:00.jpg"
+     alt="Votebeat at 2022-07-28 21:30:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-28T21:30:22.526916-04:00.jpg">July 28 at 9:30 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-28T09:28:39.114246-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-23T23:45:35.071322-04:00.jpg">July 23 at 11:45 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-23T12:09:15.287709-04:00.jpg">
-  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-23T12:09:15.287709-04:00.jpg"
-     alt="Votebeat at 2022-07-23 12:09:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-23T12:09:15.287709-04:00.jpg">July 23 at 12:09 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 114 hyperlink lists with the Internet Archive.
+The archiving routine has saved 115 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 28 at 9:30 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-28T21:30:22.526916-04:00.hyperlinks.json) |
 | [July 28 at 9:28 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-28T09:28:39.114246-04:00.hyperlinks.json) |
 | [July 27 at 9:34 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-27T21:33:53.093313-04:00.hyperlinks.json) |
 | [July 27 at 9:26 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-27T09:26:42.974681-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 9:38 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-25T21:38:50.401077-04:00.hyperlinks.json) |
 | [July 25 at 11:51 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-25T11:51:48.163388-04:00.hyperlinks.json) |
 | [July 25 at 12:40 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-25T00:40:47.248315-04:00.hyperlinks.json) |
-| [July 24 at 11:10 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-24T11:10:14.083373-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 114 accessibility trees with the Internet Archive.
+The archiving routine has saved 115 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 28 at 9:30 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-28T21:30:22.526916-04:00.accessibility.json) |
 | [July 28 at 9:28 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-28T09:28:39.114246-04:00.accessibility.json) |
 | [July 27 at 9:34 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-27T21:33:53.093313-04:00.accessibility.json) |
 | [July 27 at 9:26 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-27T09:26:42.974681-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 9:38 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-25T21:38:50.401077-04:00.accessibility.json) |
 | [July 25 at 11:51 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-25T11:51:48.163388-04:00.accessibility.json) |
 | [July 25 at 12:40 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-25T00:40:47.248315-04:00.accessibility.json) |
-| [July 24 at 11:10 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-24T11:10:14.083373-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 28 at 9:30 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-28T21:30:22.526916-04:00.lighthouse.json) |
 | [July 28 at 9:28 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-28T09:28:39.114246-04:00.lighthouse.json) |
 | [July 27 at 9:34 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-27T21:33:53.093313-04:00.lighthouse.json) |
 | [July 27 at 9:26 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-27T09:26:42.974681-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 9:38 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-25T21:38:50.401077-04:00.lighthouse.json) |
 | [July 25 at 11:51 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-25T11:51:48.163388-04:00.lighthouse.json) |
 | [July 25 at 12:40 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-25T00:40:47.248315-04:00.lighthouse.json) |
-| [July 24 at 11:10 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-24T11:10:14.083373-04:00.lighthouse.json) |
 
 
 

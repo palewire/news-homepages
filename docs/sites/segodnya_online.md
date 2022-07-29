@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-29T06:49:27.020409+03:00.jpg">
+  <img src="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-29T06:49:27.020409+03:00.jpg"
+     alt="Segodnya at 2022-07-29 06:49:29+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-29T06:49:27.020409+03:00.jpg">July 29 at 6:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-28T18:52:38.925308+03:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-23T19:01:39.134572+03:00.jpg">July 23 at 7:01 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-23T07:21:50.754734+03:00.jpg">
-  <img src="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-23T07:21:50.754734+03:00.jpg"
-     alt="Segodnya at 2022-07-23 07:21:52+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-23T07:21:50.754734+03:00.jpg">July 23 at 7:21 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 21 hyperlink lists with the Internet Archive.
+The archiving routine has saved 22 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 6:49 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-29T06:49:27.020409+03:00.hyperlinks.json) |
 | [July 28 at 6:52 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-28T18:52:38.925308+03:00.hyperlinks.json) |
 | [July 28 at 6:44 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-28T06:44:40.804823+03:00.hyperlinks.json) |
 | [July 27 at 6:47 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-27T18:47:20.930352+03:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 6:41 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-25T18:41:32.547774+03:00.hyperlinks.json) |
 | [July 25 at 6:43 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-25T06:43:14.938059+03:00.hyperlinks.json) |
 | [July 24 at 5:03 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-24T17:03:50.831979+03:00.hyperlinks.json) |
-| [July 24 at 9:23 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-24T09:23:41.353075+03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 21 accessibility trees with the Internet Archive.
+The archiving routine has saved 22 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 6:49 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-29T06:49:27.020409+03:00.accessibility.json) |
 | [July 28 at 6:52 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-28T18:52:38.925308+03:00.accessibility.json) |
 | [July 28 at 6:44 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-28T06:44:40.804823+03:00.accessibility.json) |
 | [July 27 at 6:47 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-27T18:47:20.930352+03:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 6:41 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-25T18:41:32.547774+03:00.accessibility.json) |
 | [July 25 at 6:43 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-25T06:43:14.938059+03:00.accessibility.json) |
 | [July 24 at 5:03 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-24T17:03:50.831979+03:00.accessibility.json) |
-| [July 24 at 9:23 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-24T09:23:41.353075+03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 6:49 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-29T06:49:27.020409+03:00.lighthouse.json) |
 | [July 28 at 6:52 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-28T18:52:38.925308+03:00.lighthouse.json) |
 | [July 28 at 6:44 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-28T06:44:40.804823+03:00.lighthouse.json) |
 | [July 27 at 6:47 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-27T18:47:20.930352+03:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 6:41 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-25T18:41:32.547774+03:00.lighthouse.json) |
 | [July 25 at 6:43 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-25T06:43:14.938059+03:00.lighthouse.json) |
 | [July 24 at 5:03 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-24T17:03:50.831979+03:00.lighthouse.json) |
-| [July 24 at 9:23 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-07-24T09:23:41.353075+03:00.lighthouse.json) |
 
 
 

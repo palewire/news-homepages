@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 1 screenshots with the Internet Archive.
+The archiving routine has saved 2 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/unichicago-2022/unichicago-2022-07-28T22:52:20.992087-05:00.jpg">
+  <img src="https://archive.org/download/unichicago-2022/unichicago-2022-07-28T22:52:20.992087-05:00.jpg"
+     alt="Univision Chicago at 2022-07-28 22:52:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/unichicago-2022/unichicago-2022-07-28T22:52:20.992087-05:00.jpg">July 28 at 10:52 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/unichicago-2022/unichicago-2022-07-28T15:05:03.898412-05:00.jpg">
@@ -54,7 +63,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 1 accessibility trees with the Internet Archive.
+The archiving routine has saved 2 accessibility trees with the Internet Archive.
 
 
 
@@ -62,13 +71,14 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 28 at 10:52 PM](https://archive.org/download/unichicago-2022/unichicago-2022-07-28T22:52:20.992087-05:00.accessibility.json) |
 | [July 28 at 3:05 PM](https://archive.org/download/unichicago-2022/unichicago-2022-07-28T15:05:03.898412-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 1 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 2 Lighthouse audits with the Internet Archive.
 
 
 
@@ -76,6 +86,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 28 at 10:52 PM](https://archive.org/download/unichicago-2022/unichicago-2022-07-28T22:52:20.992087-05:00.lighthouse.json) |
 | [July 28 at 3:05 PM](https://archive.org/download/unichicago-2022/unichicago-2022-07-28T15:05:03.898412-05:00.lighthouse.json) |
 
 
