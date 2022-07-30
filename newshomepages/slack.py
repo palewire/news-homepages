@@ -6,6 +6,7 @@ from pathlib import Path
 
 import click
 import requests
+from rich import print
 
 from . import utils
 
@@ -19,24 +20,28 @@ def cli(artifact_path: str):
     assert artifact_obj.exists()
 
     # Read in artifact from archive.org upload
-    click.echo(f"Retrieving artifact from {artifact_obj}")
+    print(f"Retrieving artifact from {artifact_obj}")
     data = json.load(open(artifact_obj))
 
     # Read in URL from archive artifact
     jpg_url = next(s for s in data if s.endswith(".jpg"))
-    click.echo(f"JPG url found: {jpg_url}")
+    print(f"JPG url found: {jpg_url}")
 
     # Verify that the URL resolves
     if not requests.get(jpg_url).ok:
         # If it doesn't, wait 60 seconds
         # The most common problem here is that the Internet Archive
         # has fully processed the file yet.
-        click.echo("URL does not exist. Waiting 180 seconds to try again.")
+        print("URL does not exist. Waiting 180 seconds to try again.")
         time.sleep(180)
         if not requests.get(jpg_url).ok:
-            # If it still fails, throw an error
-            click.echo("URL does not exist")
-            sys.exit(1)
+            # If it doesn't work, wait again
+            print("Waiting one more time ...")
+            time.sleep(180)
+            if not requests.get(jpg_url).ok:
+                # If it still fails, throw an error
+                print("URL does not exist")
+                sys.exit(1)
 
     # Parse the site data from the archive URL
     archive_dict = utils.parse_archive_url(jpg_url)
@@ -110,7 +115,7 @@ def cli(artifact_path: str):
     assert url
 
     # Post to Slack
-    click.echo(f"Posting {site['name']} to Slack")
+    print(f"Posting {site['name']} to Slack")
     r = requests.post(url, json=payload)
 
     # Make sure it went okay
@@ -118,15 +123,15 @@ def cli(artifact_path: str):
         assert r.status_code == 200
         assert r.text == "ok"
     except AssertionError as e:
-        click.echo(e)
-        click.echo("\n\n")
-        click.echo("Payload")
-        click.echo("================")
-        click.echo(json.dumps(payload, indent=4))
-        click.echo("\n\n")
-        click.echo("Response")
-        click.echo("================")
-        click.echo(r.text)
+        print(e)
+        print("\n\n")
+        print("Payload")
+        print("================")
+        print(json.dumps(payload, indent=4))
+        print("\n\n")
+        print("Response")
+        print("================")
+        print(r.text)
         sys.exit(1)
 
 

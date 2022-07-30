@@ -3,6 +3,7 @@ import time
 import typing
 
 import click
+from rich import print
 
 from . import utils
 
@@ -38,6 +39,7 @@ def bundle(slug: str):
 
 
 def _curl_url(url):
+    print(f"💾 Asking archive.org to save {url} via the Save Page Now API")
     command_list: typing.List[str] = [
         "curl",
         "-X",

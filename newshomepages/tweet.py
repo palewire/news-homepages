@@ -7,6 +7,7 @@ from pathlib import Path
 import click
 import pytz
 import twitter
+from rich import print
 from slugify import slugify
 
 from . import utils
@@ -102,7 +103,7 @@ def single(handle: str, input_dir: str):
     """Tweet a single source."""
     # Pull the source’s metadata
     data = utils.get_site(handle)
-    click.echo(f"Tweeting {data['handle']}")
+    print(f"Tweeting {data['handle']}")
 
     # Connect to Twitter
     api = get_twitter_client()
@@ -140,14 +141,14 @@ def bundle(slug: str, input_dir: str):
     """Tweet four sources as a single tweet."""
     # Pull the source metadata
     bundle = utils.get_bundle(slug)
-    click.echo(f"Tweeting {bundle['name']}")
+    print(f"Tweeting {bundle['name']}")
 
     # Set the input directory
     input_path = Path(input_dir)
 
     # Pull images from input directory
     image_paths = list(input_path.glob("*.jpg"))
-    click.echo(f"{len(image_paths)} images discovered in {input_path}")
+    print(f"{len(image_paths)} images discovered in {input_path}")
 
     # Connect to Twitter
     api = get_twitter_client()

@@ -4,6 +4,7 @@ from pathlib import Path
 import click
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
+from rich import print
 
 from . import utils
 
@@ -30,7 +31,7 @@ def cli(handle: str, output_dir: str):
 
 
 def _get_links(data: dict) -> list[dict]:
-    click.echo(f"Getting hyperlinks for {data['url']}")
+    print(f":newspaper: Getting hyperlinks for {data['url']}")
     # Start the browser
     with sync_playwright() as p:
         # Open a browser

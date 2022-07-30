@@ -5,6 +5,7 @@ from pathlib import Path
 
 import click
 from playwright.sync_api import Error, sync_playwright
+from rich import print
 
 from . import utils
 
@@ -30,7 +31,7 @@ def _screenshot(
     height: int = 1600,
 ):
     """Shoot the provided site."""
-    click.echo(f"Screenshotting {site['name']}")
+    print(f":camera: Screenshotting {site['name']}")
 
     # Set the output path
     output_path.mkdir(parents=True, exist_ok=True)
@@ -38,7 +39,7 @@ def _screenshot(
     with sync_playwright() as playwright:
         # Boot up the browser with the ad blocker plugin installed
         data_dir = tempfile.mkdtemp()
-        click.echo(f"Temporary data directory created at {data_dir}")
+        print(f"Temporary data directory created at {data_dir}")
 
         # Set the extensions path
         extensions_list = [
@@ -48,7 +49,7 @@ def _screenshot(
         extensions_str = ",".join(map(str, extensions_list))
 
         # Set the browser context
-        click.echo("Launching Chromium browser")
+        print("Launching Chromium browser")
         context = playwright.chromium.launch_persistent_context(
             data_dir,
             channel="chrome",
@@ -71,19 +72,19 @@ def _screenshot(
         )
 
         # Wait for adguard filters to load
-        click.echo("Waiting 15 seconds for AdGuard filters to load")
+        print("Waiting 15 seconds for AdGuard filters to load")
         time.sleep(15)
 
         # Create an empty tab
         page = context.new_page()
 
         # Open the page
-        click.echo(f"Opening {site['url']}")
+        print(f"Opening {site['url']}")
         page.goto(site["url"], timeout=60000)
 
         # Give it a beat
         wait_seconds = int(site["wait"] or wait) / 1000
-        click.echo(f"Waiting {wait_seconds} seconds")
+        print(f"Waiting {wait_seconds} seconds")
         time.sleep(wait_seconds)
 
         # Run common JavaScript for all sites
@@ -146,25 +147,25 @@ def _screenshot(
             styleSheet.innerText = '{target_str} {{ display: none !important; }}';
             document.head.appendChild(styleSheet);
          """
-        click.echo("Executing common JavaScript")
+        print("Executing common JavaScript")
         page.evaluate(javascript)
 
         # If there's custom javascript for this site, run it
         custom_javascript = utils.get_javascript(site["handle"])
         if custom_javascript:
-            click.echo("Executing custom JavaScript")
+            print("Executing custom JavaScript")
             try:
                 page.evaluate(custom_javascript)
             except Error as error:
                 raise click.ClickException(error.message)
 
         # Hide the scrollbars
-        click.echo("Hiding scrollbars with CSS")
+        print("Hiding scrollbars with CSS")
         css = """document.body.style.overflow = 'hidden';"""
         page.evaluate(css)
 
         # Prevent Playwright from hovering over a link and highlighting it
-        click.echo("Preventing mouse hovers")
+        print("Preventing mouse hovers")
         css = """
         const style = document.createElement("style");
         style.innerHTML = "a:hover, a:focus { color: initial; text-decoration: initial; }";
@@ -173,12 +174,12 @@ def _screenshot(
         page.evaluate(css)
 
         # Give it another beat
-        click.echo(f"Waiting {wait_seconds} seconds")
+        print(f"Waiting {wait_seconds} seconds")
         time.sleep(wait_seconds)
 
         # Take the screenshot
         file_path = str(output_path / f"{site['handle'].lower()}.jpg")
-        click.echo(f"Saving image to {file_path}")
+        print(f"Saving image to {file_path}")
         page.screenshot(
             quality=80,
             type="jpeg",

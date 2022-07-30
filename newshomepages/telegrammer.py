@@ -4,6 +4,7 @@ from pathlib import Path
 
 import click
 import pytz
+from rich import print
 from telegram import Bot
 
 from . import utils
@@ -94,7 +95,7 @@ def bundle(slug: str, input_dir: str):
 
     # Pull images from input directory
     image_paths = list(input_path.glob("*.jpg"))
-    click.echo(f"{len(image_paths)} images discovered in {input_path}")
+    print(f"{len(image_paths)} images discovered in {input_path}")
 
     # Send them out
     for image_path in image_paths:
@@ -109,11 +110,11 @@ def _post(image_path: Path, caption: str):
 
     # If it doesn't exist, quit
     if not image_path.exists():
-        click.echo("File does not exist")
+        print("File does not exist")
         return
 
     # Get the image
-    click.echo(f"Posting {image_path}")
+    print(f"Posting {image_path}")
     with open(image_path, "rb") as io:
         # Send the photo
         bot.sendPhoto("@newshomepages", io, caption=caption)

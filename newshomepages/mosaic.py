@@ -5,6 +5,7 @@ from pathlib import Path
 
 import click
 from PIL import Image, ImageOps
+from rich import print
 
 from . import utils
 
@@ -27,7 +28,7 @@ def jpg(input_dir: str, output_dir: str):
     image_paths = sorted(
         image_list, key=lambda x: utils.get_site(x.stem)["name"].lower()
     )
-    click.echo(f"{len(image_paths)} images discovered in {input_path}")
+    print(f":camera: {len(image_paths)} images discovered in {input_path}")
 
     # Set the output path
     output_path = Path(output_dir)
@@ -63,7 +64,7 @@ def jpg(input_dir: str, output_dir: str):
                 image.paste(images[idx], offset)
 
         # Save an output
-        click.echo(f"Writing mosiac {i+1} to {output_path}")
+        print(f":pencil: Writing mosiac {i+1} to {output_path}")
         image.save(output_path / f"{i+1}.jpg", "JPEG")
 
         # Write a JSON file out with the names of the images, for use in alt text, etc.
@@ -80,7 +81,7 @@ def gif(input_dir: str, output_dir: str, maximium_slides: int = 15):
     input_path = Path(input_dir)
     input_path.mkdir(parents=True, exist_ok=True)
     image_paths = list(input_path.glob("*.jpg"))
-    click.echo(f"{len(image_paths)} images discovered in {input_path}")
+    print(f":camera: {len(image_paths)} images discovered in {input_path}")
 
     # Set the output path
     output_path = Path(output_dir)
@@ -92,9 +93,7 @@ def gif(input_dir: str, output_dir: str, maximium_slides: int = 15):
 
     # Cap the slide count
     if slide_count > maximium_slides:
-        click.echo(
-            f"Capping images at {maximium_slides} to accomodate Twitter size limits"
-        )
+        print(f"Capping images at {maximium_slides} to accomodate Twitter size limits")
         slide_count = maximium_slides
 
     # Pull random images from our source list
@@ -109,7 +108,7 @@ def gif(input_dir: str, output_dir: str, maximium_slides: int = 15):
 
     slide_list = []
     for i, image_chunk in enumerate(utils.chunk(sorted_images, n * n)):
-        click.echo(f"Creating slide {i+1}")
+        print(f"Creating slide {i+1}")
 
         size = list(map(math.floor, (1200 / n, 675 / n)))
         shape = (n, n)
@@ -133,14 +132,14 @@ def gif(input_dir: str, output_dir: str, maximium_slides: int = 15):
                 idx = row * shape[1] + col
                 image.paste(images[idx], offset)
 
-        click.echo(f"Writing slide {i+1} to {output_path}")
+        print(f"Writing slide {i+1} to {output_path}")
         image.save(output_path / f"{i+1}.jpg", "JPEG")
 
         # Add to our master last
         slide_list.append(image)
 
     # Combine slides into a GIF
-    click.echo(f"Writing GIF to {output_path / 'mosaic.gif'}")
+    print(f"Writing GIF to {output_path / 'mosaic.gif'}")
     slide_list[0].save(
         output_path / "mosaic.gif",
         save_all=True,
