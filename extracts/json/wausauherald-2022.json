@@ -1,5 +1,5 @@
 {
-  "created": 1659141221,
+  "created": 1659184611,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/3/items/wausauherald-2022",
@@ -8121,31 +8121,83 @@
       "format": "JSON"
     },
     {
+      "name": "wausauherald-2022-07-29T10:59:17.322473-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wausauherald-2022-07-29T10:59:17.322473-05:00.jpg",
+      "mtime": "1659145829",
+      "size": "9441",
+      "md5": "d471bc97d830ee870bcd16e5b531e58c",
+      "crc32": "9009e8cc",
+      "sha1": "c97f30c67f1bb15ceabf9f34d44515ee9be163fa"
+    },
+    {
+      "name": "wausauherald-2022-07-29T22:58:19.046792-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659153502",
+      "size": "27077",
+      "md5": "c4d58a86ed5998215bacb432c2fa2232",
+      "crc32": "2f8d91a1",
+      "sha1": "c37e13eae2493846c84c118ebbfa872ab25b5580",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-07-29T22:58:19.046792-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659153504",
+      "size": "59107",
+      "md5": "f2ae8922eabe0ea1eb11d55bfa541396",
+      "crc32": "89244405",
+      "sha1": "20b02b975f43a128a8025316e8d81ff968f3b6ec",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-07-29T22:58:19.046792-05:00.jpg",
+      "source": "original",
+      "mtime": "1659153500",
+      "size": "270817",
+      "md5": "18c549519bc710947cb6c75702ac8b61",
+      "crc32": "3d74947a",
+      "sha1": "16e41684129341dc0535144fa989380ffa31cae8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wausauherald-2022-07-29T22:58:19.046792-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659153506",
+      "size": "1554",
+      "md5": "f50ead2abd912a23c7cb1117e603b606",
+      "crc32": "63085943",
+      "sha1": "0119d10352972f91e4ec87834f06c230d306e9ca",
+      "format": "JSON"
+    },
+    {
       "name": "wausauherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "367c27b7e5eceef2016bbf210ca37d55839f2cdc",
-      "mtime": "1659110409",
-      "size": "167262",
-      "md5": "744a05cdb3c4ea987ef77f71413305b0",
-      "crc32": "0505d973",
-      "sha1": "c5cbd14ff802131bfcd40f481cb031598100aef7",
+      "btih": "18472e42ee34ebefe6d7f48e12e98f4ef0532b6a",
+      "mtime": "1659153604",
+      "size": "168321",
+      "md5": "12b3acd89da89e7529382c44a45404fe",
+      "crc32": "9469acdd",
+      "sha1": "71327d77857d1e6c7a2dadb5d5a88346f0704275",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wausauherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6fea64b9fb8432d69a4335387bb64556",
+      "md5": "ad533f4327e7878179bcb7b8374bf1da",
       "summation": "md5"
     },
     {
       "name": "wausauherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659110367",
-      "size": "909312",
-      "md5": "9792ca82b363be3874c67c5244fe3daf",
-      "crc32": "7f5a9477",
-      "sha1": "3e1434a6e42161b4ee8b1312c7f078b94d81c321",
+      "mtime": "1659153549",
+      "size": "913408",
+      "md5": "febcb0a28edafd4bd40dfa4ac0c56b63",
+      "crc32": "b523be29",
+      "sha1": "1bc797f9f2897cbe2ceabc9903b9faf884a553f9",
       "format": "Metadata"
     },
     {
@@ -8159,9 +8211,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 777,
-  "item_last_updated": 1659110409,
-  "item_size": 65785829,
+  "files_count": 782,
+  "item_last_updated": 1659153604,
+  "item_size": 66158980,
   "metadata": {
     "identifier": "wausauherald-2022",
     "collection": [
@@ -8183,7 +8235,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347272206,
+      "task_id": 3347696451,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8191,44 +8243,44 @@
       "status": "queued"
     }
   ],
-  "uniq": 463285013,
+  "uniq": 109304868,
   "wausauherald-2022": [
     {
       "url": "https://www.wausaudailyherald.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wausaudailyherald_com-_-2022_07_29_15_39_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wausaudailyherald_com-_-2022_07_29_15_39_09.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wausaudailyherald_com-_-2022_07_30_03_37_57.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wausaudailyherald_com-_-2022_07_30_03_37_57.report.json",
       "summary": {
-        "performance": 0.82,
-        "accessibility": 0.88,
-        "best-practices": 1,
-        "seo": 0.93,
+        "performance": 0.8,
+        "accessibility": 0.87,
+        "best-practices": 0.92,
+        "seo": 0.92,
         "pwa": 0.3
       }
     },
     {
       "url": "https://www.wausaudailyherald.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wausaudailyherald_com-_-2022_07_29_15_39_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wausaudailyherald_com-_-2022_07_29_15_39_55.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wausaudailyherald_com-_-2022_07_30_03_39_08.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wausaudailyherald_com-_-2022_07_30_03_39_08.report.json",
       "summary": {
-        "performance": 0.84,
-        "accessibility": 0.88,
-        "best-practices": 1,
-        "seo": 0.93,
+        "performance": 0.79,
+        "accessibility": 0.87,
+        "best-practices": 0.92,
+        "seo": 0.92,
         "pwa": 0.3
       }
     },
     {
       "url": "https://www.wausaudailyherald.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wausaudailyherald_com-_-2022_07_29_15_38_53.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wausaudailyherald_com-_-2022_07_29_15_38_53.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wausaudailyherald_com-_-2022_07_30_03_38_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wausaudailyherald_com-_-2022_07_30_03_38_20.report.json",
       "summary": {
-        "performance": 0.84,
-        "accessibility": 0.88,
+        "performance": 0.78,
+        "accessibility": 0.87,
         "best-practices": 1,
-        "seo": 0.93,
+        "seo": 0.92,
         "pwa": 0.3
       }
     }

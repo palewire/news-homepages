@@ -1,5 +1,6 @@
 {
-  "created": 1659140050,
+  "conflict": 1659183966,
+  "created": 1659183966,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/24/items/knockdotla-2022",
@@ -12387,6 +12388,17 @@
       "format": "JSON"
     },
     {
+      "name": "knockdotla-2022-07-29T17:09:52.851818-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "knockdotla-2022-07-29T17:09:52.851818-07:00.jpg",
+      "mtime": "1659183920",
+      "size": "8744",
+      "md5": "4c22a031b231ff80a24601da840cb729",
+      "crc32": "9afee9f6",
+      "sha1": "2008f4a5d31bf05b85d1ca93e24c6b5b8ab38848"
+    },
+    {
       "name": "knockdotla-2022_archive.torrent",
       "source": "metadata",
       "btih": "fcb7deb26f3758f22a32c7872dd9b683da7b7382",
@@ -12401,7 +12413,7 @@
       "name": "knockdotla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "59e3a4e3d0769d7c80aafd774f2ebbcc",
+      "md5": "3f0d61aae58c1cf99a7e28a9013abfdc",
       "summation": "md5"
     },
     {
@@ -12425,9 +12437,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1183,
-  "item_last_updated": 1659140040,
-  "item_size": 80868086,
+  "files_count": 1184,
+  "item_last_updated": 1659183920,
+  "item_size": 80876830,
   "metadata": {
     "identifier": "knockdotla-2022",
     "collection": [
@@ -12449,15 +12461,23 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347564883,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3348014367,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3348015989,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1446007528,
+  "uniq": 817238540,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

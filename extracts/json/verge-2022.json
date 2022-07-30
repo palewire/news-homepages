@@ -1,5 +1,5 @@
 {
-  "created": 1659141195,
+  "created": 1659184564,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/28/items/verge-2022",
@@ -4345,31 +4345,83 @@
       "format": "JSON"
     },
     {
+      "name": "verge-2022-07-29T11:58:01.636308-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "verge-2022-07-29T11:58:01.636308-04:00.jpg",
+      "mtime": "1659145778",
+      "size": "12254",
+      "md5": "45101ff403f45a20fcc99cd7b49c29d6",
+      "crc32": "357ec62f",
+      "sha1": "e57478ab102c88a2e04052180a2a8eef981e99b8"
+    },
+    {
+      "name": "verge-2022-07-29T23:57:20.759752-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659153444",
+      "size": "36739",
+      "md5": "5c46ba1b023d5bc1445c0b4999d58ac1",
+      "crc32": "82b2c3e4",
+      "sha1": "f5b38b8f3e27f755d2386a203a89800c08938e37",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-07-29T23:57:20.759752-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659153445",
+      "size": "59061",
+      "md5": "0a83ef16bb9925a2b53bd5b3ea9908a3",
+      "crc32": "f4d26f05",
+      "sha1": "41f4293f9420e4cfc3d780dcc7f19f8a24583ca9",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-07-29T23:57:20.759752-04:00.jpg",
+      "source": "original",
+      "mtime": "1659153442",
+      "size": "311270",
+      "md5": "ceec2cdc81775eb22d810111ab543308",
+      "crc32": "79013e65",
+      "sha1": "b0e96917d38c1333b184527eb6918eae4c45e20d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "verge-2022-07-29T23:57:20.759752-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659153447",
+      "size": "1477",
+      "md5": "44628e2d1bca116f0c2174ae016c1f51",
+      "crc32": "3acf2b16",
+      "sha1": "47d6a71ec64da48cd6d655fc1a936c753166219e",
+      "format": "JSON"
+    },
+    {
       "name": "verge-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cf4cb334614248a0e81b93551a02c77e2e07eab7",
-      "mtime": "1659110329",
-      "size": "87782",
-      "md5": "0c94456dcb26c2e340a908c4100161a2",
-      "crc32": "b400662b",
-      "sha1": "20468549556b5b3f8b330b500650a56aaaa86d6b",
+      "btih": "0b4a318ef43d6cefb537ac1298239e21676e2dd4",
+      "mtime": "1659153488",
+      "size": "88827",
+      "md5": "24804c58ace4a23d6aff3b85d116c184",
+      "crc32": "4f1dfef5",
+      "sha1": "16782a59ed769d71d246ab5a7ee4cfd363a7f3b2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "verge-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "864446b6b00798183f16300bf9f0fb16",
+      "md5": "e684cc32723b20b9b94acaa9effa4810",
       "summation": "md5"
     },
     {
       "name": "verge-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659110292",
-      "size": "495616",
-      "md5": "5bf3dfce3457758730d807a7edcf0127",
-      "crc32": "ab9bc1f2",
-      "sha1": "8ff0cfb37bb347f8a949f4e8b814b51d6e40c4c0",
+      "mtime": "1659153450",
+      "size": "499712",
+      "md5": "7f564d62ad2ed30395f40940c4b4b46d",
+      "crc32": "0b9aee50",
+      "sha1": "090e9692599514ef92b7c832c93d938fb79dbaa8",
       "format": "Metadata"
     },
     {
@@ -4383,9 +4435,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 418,
-  "item_last_updated": 1659110329,
-  "item_size": 44400235,
+  "files_count": 423,
+  "item_last_updated": 1659153488,
+  "item_size": 44826177,
   "metadata": {
     "identifier": "verge-2022",
     "collection": [
@@ -4407,7 +4459,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347271463,
+      "task_id": 3347695550,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4415,26 +4467,13 @@
       "status": "queued"
     }
   ],
-  "uniq": 1251723557,
+  "uniq": 18064225,
   "verge-2022": [
     {
       "url": "https://www.theverge.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theverge_com-_-2022_07_29_15_37_25.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theverge_com-_-2022_07_29_15_37_25.report.json",
-      "summary": {
-        "performance": 0.16,
-        "accessibility": 0.88,
-        "best-practices": 0.83,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.theverge.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theverge_com-_-2022_07_29_15_37_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theverge_com-_-2022_07_29_15_37_55.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theverge_com-_-2022_07_30_03_35_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theverge_com-_-2022_07_30_03_35_48.report.json",
       "summary": {
         "performance": 0.15,
         "accessibility": 0.88,
@@ -4445,9 +4484,22 @@
     },
     {
       "url": "https://www.theverge.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theverge_com-_-2022_07_30_03_36_44.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theverge_com-_-2022_07_30_03_36_44.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.84,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.theverge.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theverge_com-_-2022_07_29_15_36_53.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theverge_com-_-2022_07_29_15_36_53.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theverge_com-_-2022_07_30_03_36_18.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theverge_com-_-2022_07_30_03_36_18.report.json",
       "summary": {
         "performance": 0.16,
         "accessibility": 0.88,

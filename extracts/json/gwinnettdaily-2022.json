@@ -1,5 +1,5 @@
 {
-  "created": 1659139725,
+  "created": 1659180081,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/gwinnettdaily-2022",
@@ -935,31 +935,83 @@
       "format": "JSON"
     },
     {
+      "name": "gwinnettdaily-2022-07-29T20:07:55.561822-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gwinnettdaily-2022-07-29T20:07:55.561822-04:00.jpg",
+      "mtime": "1659179994",
+      "size": "11053",
+      "md5": "2d7449effc8d8757fe5e7c22e0d0bbec",
+      "crc32": "a316c60f",
+      "sha1": "784491270cd08da2af2b817c29b27eab2e34092c"
+    },
+    {
+      "name": "gwinnettdaily-2022-07-30T07:17:28.558662-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659179852",
+      "size": "75788",
+      "md5": "97525dbb4602c8bcfcdff9174a2bfebd",
+      "crc32": "52d9a74a",
+      "sha1": "28f740bf8b2f4cf4cf7df9b91b0cea2cc5c97eec",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-07-30T07:17:28.558662-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659179853",
+      "size": "151339",
+      "md5": "3193288cdb15532d9234760b35d118a6",
+      "crc32": "47c79959",
+      "sha1": "a628389aec362f9f82fc6ca75e687b08179caf81",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-07-30T07:17:28.558662-04:00.jpg",
+      "source": "original",
+      "mtime": "1659179850",
+      "size": "281355",
+      "md5": "1faae70e7b6d8a38b615172608b37f8d",
+      "crc32": "5f4455e8",
+      "sha1": "03764462fbf7bf4b5efa28ea49ed26276b227eb5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gwinnettdaily-2022-07-30T07:17:28.558662-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659179855",
+      "size": "1555",
+      "md5": "ba6b5a074f8f9c2a9d6fa60e4818ebc1",
+      "crc32": "1ae22842",
+      "sha1": "e8d9475f8282be46a5be8fe30026e6f19ddb8629",
+      "format": "JSON"
+    },
+    {
       "name": "gwinnettdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cb8854fb0916f80bb06f756d85475dee740b7132",
-      "mtime": "1659139721",
-      "size": "20790",
-      "md5": "f3560adba4e2a86d2779b23676f91d76",
-      "crc32": "f02f1649",
-      "sha1": "afb4c312f9050c69d9b2571d757083de4831630e",
+      "btih": "6382137ced96ab3ca9a95b256c29ab8ac3adeede",
+      "mtime": "1659180075",
+      "size": "21876",
+      "md5": "f92d37873b64da3fb3b61b9538c2b26d",
+      "crc32": "4c88bf82",
+      "sha1": "5edcec46551ab339eb0f428bcbf56ffd85a46e0a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gwinnettdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "176cc8d93324fe915fa1d08f4590a779",
+      "md5": "72fa4b97dac4fb0348bb553d0eab8382",
       "summation": "md5"
     },
     {
       "name": "gwinnettdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659139687",
-      "size": "131072",
-      "md5": "74753613c1083415d638a217ed0d8761",
-      "crc32": "bd363d18",
-      "sha1": "423d6472b68fa9e5480262d1c65e53b1f3102612",
+      "mtime": "1659180073",
+      "size": "139264",
+      "md5": "4565365c6767272759dad204c72a8c57",
+      "crc32": "328f1cd3",
+      "sha1": "ad366a65d12bdc13a8b76b6942ab4482c61cdc07",
       "format": "Metadata"
     },
     {
@@ -973,9 +1025,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 93,
-  "item_last_updated": 1659139721,
-  "item_size": 10021857,
+  "files_count": 98,
+  "item_last_updated": 1659180075,
+  "item_size": 10552225,
   "metadata": {
     "identifier": "gwinnettdaily-2022",
     "collection": [
@@ -997,7 +1049,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347561924,
+      "task_id": 3347986702,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1005,7 +1057,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2129719030,
+  "uniq": 652839999,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

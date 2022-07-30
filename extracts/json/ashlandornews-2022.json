@@ -1,5 +1,5 @@
 {
-  "created": 1659139258,
+  "created": 1659179756,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/1/items/ashlandornews-2022",
@@ -1941,31 +1941,83 @@
       "format": "JSON"
     },
     {
+      "name": "ashlandornews-2022-07-29T17:00:03.973571-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ashlandornews-2022-07-29T17:00:03.973571-07:00.jpg",
+      "mtime": "1659179551",
+      "size": "9346",
+      "md5": "c9ce33b618a568778a3f830a7232afa0",
+      "crc32": "cdcbae5c",
+      "sha1": "70fb196a67bfd06c51a7269e1e476c6fc19496d8"
+    },
+    {
+      "name": "ashlandornews-2022-07-30T04:09:06.813271-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659179353",
+      "size": "22587",
+      "md5": "391202252d28ba48ec49c3dca14cf4c7",
+      "crc32": "c416519c",
+      "sha1": "e0e25386cd35dfc3cb623fba224fa0887204c204",
+      "format": "JSON"
+    },
+    {
+      "name": "ashlandornews-2022-07-30T04:09:06.813271-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659179354",
+      "size": "19876",
+      "md5": "16b13a88401227d90fb93086b7beb51d",
+      "crc32": "06981810",
+      "sha1": "be7458ab729e8386e3dac65bb80557ddeee2b417",
+      "format": "JSON"
+    },
+    {
+      "name": "ashlandornews-2022-07-30T04:09:06.813271-07:00.jpg",
+      "source": "original",
+      "mtime": "1659179351",
+      "size": "298948",
+      "md5": "cc6289db19dd5d162371529bda009864",
+      "crc32": "b2b3b879",
+      "sha1": "29ac095681faf0310268fce36044ef8e974db1b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ashlandornews-2022-07-30T04:09:06.813271-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659179356",
+      "size": "1432",
+      "md5": "afcba34d5da50496094e886139cc4e2e",
+      "crc32": "b1e497a8",
+      "sha1": "639faf419581570d3bd7f6a9807e08391da2197e",
+      "format": "JSON"
+    },
+    {
       "name": "ashlandornews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "76c8ffe0d8727a2cc8974b597cec865a01196c78",
-      "mtime": "1659139255",
-      "size": "41425",
-      "md5": "0f581847d5d9a7edb699de427862e224",
-      "crc32": "88264629",
-      "sha1": "5521f7bced5511bb0528f307904e4ad3d0949c36",
+      "btih": "77e0bc05a4e092f37a766882d5d20d65f4049463",
+      "mtime": "1659179742",
+      "size": "42509",
+      "md5": "abbe897c12ee0f5a63caf85dd16a9b26",
+      "crc32": "1d966cd2",
+      "sha1": "50c8710ff4964aefef5d2f804c3d99aff3b730c3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ashlandornews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ad9ea3a099535d013c66741b44793106",
+      "md5": "55cb20a0d5d9d93598e61b02b728437a",
       "summation": "md5"
     },
     {
       "name": "ashlandornews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659139217",
-      "size": "241664",
-      "md5": "7e172b27b88d849801f621565c381459",
-      "crc32": "7e1460ad",
-      "sha1": "b3b62186acd185b2b6395c0a69d4d47593ebc9b9",
+      "mtime": "1659179736",
+      "size": "245760",
+      "md5": "614285234d844fb66d3c1a0e4cb71b10",
+      "crc32": "0147fec0",
+      "sha1": "93276ff63557b13d68b89455547ce3c2c2a7883a",
       "format": "Metadata"
     },
     {
@@ -1979,9 +2031,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 189,
-  "item_last_updated": 1659139255,
-  "item_size": 17589059,
+  "files_count": 194,
+  "item_last_updated": 1659179742,
+  "item_size": 17946428,
   "metadata": {
     "identifier": "ashlandornews-2022",
     "collection": [
@@ -2003,7 +2055,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347553490,
+      "task_id": 3347984471,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2011,7 +2063,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 238109527,
+  "uniq": 1406940288,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

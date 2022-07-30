@@ -1,5 +1,5 @@
 {
-  "created": 1659139685,
+  "created": 1659180171,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/35/items/fox5atlanta-2022",
@@ -975,31 +975,83 @@
       "format": "JSON"
     },
     {
+      "name": "fox5atlanta-2022-07-29T20:07:08.907044-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox5atlanta-2022-07-29T20:07:08.907044-04:00.jpg",
+      "mtime": "1659179972",
+      "size": "10597",
+      "md5": "d4b7f954db6c6137dc782d10429180d5",
+      "crc32": "5fd920a1",
+      "sha1": "8f5c2b36addbe26da239126e3843c3495668e8b9"
+    },
+    {
+      "name": "fox5atlanta-2022-07-30T07:16:40.655653-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659179806",
+      "size": "46476",
+      "md5": "91f1f0cd4b5dd61591b1158de64cdee8",
+      "crc32": "37438c5f",
+      "sha1": "f523751a009f9816df01e039770f500fcdf30dec",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5atlanta-2022-07-30T07:16:40.655653-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659179808",
+      "size": "38184",
+      "md5": "f9ac7ebaf8919c1841b03c96855655a4",
+      "crc32": "a9a7d7f2",
+      "sha1": "5ee03f9ef0373a5171e423b93ebe73973a88292c",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5atlanta-2022-07-30T07:16:40.655653-04:00.jpg",
+      "source": "original",
+      "mtime": "1659179804",
+      "size": "326904",
+      "md5": "8b7a381939f292c85376c741d92356a6",
+      "crc32": "fd027b64",
+      "sha1": "206ddabb95223e6dbe8b149499d0e9e9a97153f9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox5atlanta-2022-07-30T07:16:40.655653-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659179810",
+      "size": "1503",
+      "md5": "acd982cd460946007d42f50ccf96bf91",
+      "crc32": "bef4451b",
+      "sha1": "0eded56907d0c86e2e25b1997e8e43394d3373d8",
+      "format": "JSON"
+    },
+    {
       "name": "fox5atlanta-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4e8568f165cb2a2892e4ca6359354201370283a6",
-      "mtime": "1659139681",
-      "size": "21396",
-      "md5": "c733da13080b3ef61e3617b88be5c804",
-      "crc32": "4af464c0",
-      "sha1": "c2d1496b4f2d769e4799157f5ea5294cc7b1b8a4",
+      "btih": "b6c0a9c83088c0401cf2a4ea35f94be937deb8ac",
+      "mtime": "1659180155",
+      "size": "22451",
+      "md5": "f62a8cb29556fa92a62a3c811024980d",
+      "crc32": "96aa0778",
+      "sha1": "c8204fcd5e393352b621beda0aa38e5d04510ff4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox5atlanta-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a9448d6862d634f6cb43897b9c42b611",
+      "md5": "652d49f0247061e19e4b4b39c3f1008e",
       "summation": "md5"
     },
     {
       "name": "fox5atlanta-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659139644",
-      "size": "139264",
-      "md5": "d6763d424cd6abd06c4fead5051a78c5",
-      "crc32": "9d86b47f",
-      "sha1": "791be58829e210623bf41a5f0bf8566571bf1e68",
+      "mtime": "1659180152",
+      "size": "143360",
+      "md5": "3e2d1d4e2589c0861bee0b770b859dc8",
+      "crc32": "10fa5d7a",
+      "sha1": "0d2885fcf3a1cdea6817b651aeb1392d88571bd7",
       "format": "Metadata"
     },
     {
@@ -1013,9 +1065,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 97,
-  "item_last_updated": 1659139681,
-  "item_size": 8958366,
+  "files_count": 102,
+  "item_last_updated": 1659180155,
+  "item_size": 9387181,
   "metadata": {
     "identifier": "fox5atlanta-2022",
     "collection": [
@@ -1037,7 +1089,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347561444,
+      "task_id": 3347987136,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1045,7 +1097,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1564122331,
+  "uniq": 1314602492,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

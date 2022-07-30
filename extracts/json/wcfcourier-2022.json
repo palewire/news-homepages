@@ -1,5 +1,5 @@
 {
-  "created": 1659141229,
+  "created": 1659184619,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/35/items/wcfcourier-2022",
@@ -7881,31 +7881,83 @@
       "format": "JSON"
     },
     {
+      "name": "wcfcourier-2022-07-29T11:19:24.535998-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wcfcourier-2022-07-29T11:19:24.535998-05:00.jpg",
+      "mtime": "1659146803",
+      "size": "11784",
+      "md5": "102368ba650f2f3985ca8cbbf601717a",
+      "crc32": "60994a2a",
+      "sha1": "4e53ce58eb7d5a1af0688860cfeb2a9e384f7a0b"
+    },
+    {
+      "name": "wcfcourier-2022-07-29T22:58:24.608843-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659153510",
+      "size": "26895",
+      "md5": "df16dc59f94dc0ce4a7bc821599996ee",
+      "crc32": "bb00ca55",
+      "sha1": "5625becb43adaf2acc960c41e959baa13723f99f",
+      "format": "JSON"
+    },
+    {
+      "name": "wcfcourier-2022-07-29T22:58:24.608843-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659153512",
+      "size": "81229",
+      "md5": "ccb25fadba900c732e006d4153ab1168",
+      "crc32": "883a857c",
+      "sha1": "a0cadb325c369a60736dfa56875ed838413c7724",
+      "format": "JSON"
+    },
+    {
+      "name": "wcfcourier-2022-07-29T22:58:24.608843-05:00.jpg",
+      "source": "original",
+      "mtime": "1659153507",
+      "size": "284563",
+      "md5": "82710fb486026a0bf8be9731f4ac0b10",
+      "crc32": "525fea3c",
+      "sha1": "78f2ff939638e8cdd5dc6c4f473ae4f502e4834b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wcfcourier-2022-07-29T22:58:24.608843-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659153513",
+      "size": "1459",
+      "md5": "b0d101ae0f49d093c8be4fa8e6b61d3d",
+      "crc32": "76c5c405",
+      "sha1": "78845d09be6d79b942bc438a7a17cf9ef0ed42e1",
+      "format": "JSON"
+    },
+    {
       "name": "wcfcourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "88227de1fca9941f4bfacd21cd26960e75998cde",
-      "mtime": "1659112200",
-      "size": "161177",
-      "md5": "0e9cd4d0417a601e3996020eb9d36406",
-      "crc32": "cf805783",
-      "sha1": "331ba205ee6ed0702a0191faedfeec846bb87eab",
+      "btih": "bb44048fba4543d51a0ed8f2b5bbf6f18dfd0833",
+      "mtime": "1659153560",
+      "size": "162247",
+      "md5": "aaf6bdc7a9d89b02e0c09334f549a407",
+      "crc32": "2586c42f",
+      "sha1": "2d07617c2a16942a7c625c6fc80d8f8762c9f96c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wcfcourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "64d7e7670683563b9e1b1d3d0913a726",
+      "md5": "93eecd846151a729d602bb92bce78325",
       "summation": "md5"
     },
     {
       "name": "wcfcourier-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659112192",
-      "size": "868352",
-      "md5": "380dc043feb4597e902fd3c712bf08b2",
-      "crc32": "3714d61d",
-      "sha1": "d6559be3b3bb952f76b444e95648ace392dd3221",
+      "mtime": "1659153518",
+      "size": "872448",
+      "md5": "001cbef0bceecbb2cd02ed8cc65b92d0",
+      "crc32": "d99bcbbe",
+      "sha1": "641b8d4d7434de35fefd11215f5859f21b31a337",
       "format": "Metadata"
     },
     {
@@ -7919,9 +7971,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 753,
-  "item_last_updated": 1659112200,
-  "item_size": 78692341,
+  "files_count": 758,
+  "item_last_updated": 1659153560,
+  "item_size": 79103437,
   "metadata": {
     "identifier": "wcfcourier-2022",
     "collection": [
@@ -7943,7 +7995,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347292292,
+      "task_id": 3347696048,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -7951,17 +8003,17 @@
       "status": "queued"
     }
   ],
-  "uniq": 216018269,
+  "uniq": 940697511,
   "wcfcourier-2022": [
     {
       "url": "https://wcfcourier.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_29_16_15_01.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_29_16_15_01.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_30_03_39_24.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_30_03_39_24.report.json",
       "summary": {
         "performance": 0.02,
         "accessibility": 0.81,
-        "best-practices": 0.83,
+        "best-practices": 0.92,
         "seo": 0.83,
         "pwa": 0.5
       }
@@ -7969,12 +8021,12 @@
     {
       "url": "https://wcfcourier.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_29_16_16_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_29_16_16_17.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_30_03_40_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_30_03_40_37.report.json",
       "summary": {
-        "performance": 0.03,
+        "performance": 0.02,
         "accessibility": 0.81,
-        "best-practices": 0.83,
+        "best-practices": 0.92,
         "seo": 0.83,
         "pwa": 0.5
       }
@@ -7982,12 +8034,12 @@
     {
       "url": "https://wcfcourier.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_29_16_13_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_29_16_13_44.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_30_03_37_29.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_30_03_37_29.report.json",
       "summary": {
-        "performance": 0.03,
+        "performance": 0.02,
         "accessibility": 0.81,
-        "best-practices": 0.83,
+        "best-practices": 0.92,
         "seo": 0.83,
         "pwa": 0.5
       }

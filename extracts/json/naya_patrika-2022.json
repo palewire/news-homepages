@@ -1,5 +1,5 @@
 {
-  "created": 1659140022,
+  "created": 1659184042,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/26/items/naya_patrika-2022",
@@ -629,31 +629,83 @@
       "format": "JSON"
     },
     {
+      "name": "naya_patrika-2022-07-30T05:57:53.342165+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "naya_patrika-2022-07-30T05:57:53.342165+05:45.jpg",
+      "mtime": "1659183999",
+      "size": "9369",
+      "md5": "f0ad50233c928976df30f917dce7cc74",
+      "crc32": "8213756e",
+      "sha1": "8b98c1fbee6a64f574f63f7a8024de4664e8246a"
+    },
+    {
+      "name": "naya_patrika-2022-07-30T18:09:48.741196+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659183893",
+      "size": "66518",
+      "md5": "57072d7fd79360d67add772933ce9aec",
+      "crc32": "d5495fd0",
+      "sha1": "9f9c0d61caded1a2426766661afe22fe4036999b",
+      "format": "JSON"
+    },
+    {
+      "name": "naya_patrika-2022-07-30T18:09:48.741196+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659183895",
+      "size": "74829",
+      "md5": "a9e7d194324606c712e631cdda488542",
+      "crc32": "b27ec3d2",
+      "sha1": "c01aee0610d80a168c58986f78ff2162a9924be4",
+      "format": "JSON"
+    },
+    {
+      "name": "naya_patrika-2022-07-30T18:09:48.741196+05:45.jpg",
+      "source": "original",
+      "mtime": "1659183891",
+      "size": "210606",
+      "md5": "4eaf7a1e74dbe8123968231c67827d12",
+      "crc32": "eb30b8e9",
+      "sha1": "b04be0338b362f023a2e8d7ac4d683cff5121516",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "naya_patrika-2022-07-30T18:09:48.741196+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659183896",
+      "size": "1549",
+      "md5": "8e72f6c951dd5e7cb83811a7034227da",
+      "crc32": "fa966ab1",
+      "sha1": "177151d7bbf122255744d6b9df11a8335a6b5554",
+      "format": "JSON"
+    },
+    {
       "name": "naya_patrika-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c408a0dce09b812cbb4b6bdd3f8fa8e7b838a601",
-      "mtime": "1659140019",
-      "size": "14325",
-      "md5": "6c5ab40132a4c07105e8e30edffd2060",
-      "crc32": "de2e5574",
-      "sha1": "7731389a34539aedc35febe1c4ccf29b143e50bc",
+      "btih": "aaf3c75ad3149dd9b78fdb6c5f0f9c005c2ec5fc",
+      "mtime": "1659184033",
+      "size": "15405",
+      "md5": "433152a4d158a21585f091aaf1fed269",
+      "crc32": "23493467",
+      "sha1": "1d555b5b02909d299621b75a0c48e3d114f6c544",
       "format": "Archive BitTorrent"
     },
     {
       "name": "naya_patrika-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "701cd58a494fc989a96055d7c4940ee8",
+      "md5": "abc6c4c9640720630e9c8f9098532718",
       "summation": "md5"
     },
     {
       "name": "naya_patrika-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659139984",
-      "size": "86016",
-      "md5": "6d2568730fbc7f320f1e8175175012a7",
-      "crc32": "2fb4f6ee",
-      "sha1": "18d561ae02db5588a4e2c237de10c8ae8c65a3e5",
+      "mtime": "1659184031",
+      "size": "102400",
+      "md5": "8bbfe875d195584bc2a64917409e6ae5",
+      "crc32": "ada160ea",
+      "sha1": "421982168602f8625b4a081bff0c0cd6aff54336",
       "format": "Metadata"
     },
     {
@@ -667,9 +719,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 64,
-  "item_last_updated": 1659140019,
-  "item_size": 4655625,
+  "files_count": 69,
+  "item_last_updated": 1659184033,
+  "item_size": 5035960,
   "metadata": {
     "identifier": "naya_patrika-2022",
     "collection": [
@@ -691,7 +743,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347564699,
+      "task_id": 3348016836,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -699,7 +751,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 205035516,
+  "uniq": 956835931,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

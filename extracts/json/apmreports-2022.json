@@ -1,5 +1,46 @@
 {
-  "created": 1659139364,
+  "apmreports-2022": [
+    {
+      "url": "https://www.apmreports.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_apmreports_org-_-2022_07_30_00_54_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_apmreports_org-_-2022_07_30_00_54_50.report.json",
+      "summary": {
+        "performance": 0.53,
+        "accessibility": 0.97,
+        "best-practices": 1,
+        "seo": 0.99,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.apmreports.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_apmreports_org-_-2022_07_30_00_55_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_apmreports_org-_-2022_07_30_00_55_06.report.json",
+      "summary": {
+        "performance": 0.62,
+        "accessibility": 0.97,
+        "best-practices": 1,
+        "seo": 0.99,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.apmreports.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_apmreports_org-_-2022_07_30_00_55_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_apmreports_org-_-2022_07_30_00_55_21.report.json",
+      "summary": {
+        "performance": 0.62,
+        "accessibility": 0.97,
+        "best-practices": 1,
+        "seo": 0.99,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "created": 1659183598,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/32/items/apmreports-2022",
@@ -4702,31 +4743,72 @@
       "sha1": "78540d836eac68541cef4ea17711127b14b49865"
     },
     {
+      "name": "apmreports-2022-07-29T20:17:44.416250-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659143867",
+      "size": "13690",
+      "md5": "2e9bfcfe2e77612e0a6927703d9d4f04",
+      "crc32": "0ff49d97",
+      "sha1": "0e116189136749e52b7a27565389d5b720c7c0da",
+      "format": "JSON"
+    },
+    {
+      "name": "apmreports-2022-07-29T20:17:44.416250-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659143869",
+      "size": "10979",
+      "md5": "5c680c021f54c3af6fc0095f934b797a",
+      "crc32": "a0db4c2b",
+      "sha1": "432141e08e70a4a906b96716c78773fc223676b2",
+      "format": "JSON"
+    },
+    {
+      "name": "apmreports-2022-07-29T20:17:44.416250-05:00.jpg",
+      "source": "original",
+      "mtime": "1659143866",
+      "size": "330225",
+      "md5": "5a14c1a98bd5ae6989f4d60515d1502a",
+      "crc32": "0a75e470",
+      "sha1": "f2f026596010246f1dd5303e7e01a50db7fbd302",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "apmreports-2022-07-29T20:17:44.416250-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659143870",
+      "size": "1486",
+      "md5": "0a8dcc768420496daef2f5972abb74e5",
+      "crc32": "13798879",
+      "sha1": "2ff4f4e5258f7bbd46964e48ce0a5a0e3f3338d3",
+      "format": "JSON"
+    },
+    {
       "name": "apmreports-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6e810ac16f064c8388fd79ad33c5f252dfcb8b68",
-      "mtime": "1659139221",
-      "size": "96836",
-      "md5": "2a6753de2787a73fe1c7f0ed97619996",
-      "crc32": "cdb9e69a",
-      "sha1": "bf81c965fcf9105d9290170a3e8ac950f73ecca9",
+      "btih": "7266b29348bdb6ef2f2f924b7ae70d1a18de6873",
+      "mtime": "1659143915",
+      "size": "97699",
+      "md5": "d95d881ab2cebe6f036e0c01bc1d2992",
+      "crc32": "86c5ed78",
+      "sha1": "e79a3dbbb0ef0f4980a568d26e706834b347eb04",
       "format": "Archive BitTorrent"
     },
     {
       "name": "apmreports-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "abc0f6f8ce2660c08138242bcd61d2c6",
+      "md5": "7b9554d0ef561c5616a1fc4f4b4cc94d",
       "summation": "md5"
     },
     {
       "name": "apmreports-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659101307",
-      "size": "536576",
-      "md5": "e9de25eea1f8dbec65c382c815297262",
-      "crc32": "9e9c9ddb",
-      "sha1": "e537f8a374b66b982a432695d3dcc4da3acd0804",
+      "mtime": "1659143876",
+      "size": "544768",
+      "md5": "de9b015106c307b74434f98af83f89d0",
+      "crc32": "0ef186e9",
+      "sha1": "edc98b3a62e9a47bc3d9a6f03c40921df0a29229",
       "format": "Metadata"
     },
     {
@@ -4740,9 +4822,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 452,
-  "item_last_updated": 1659139221,
-  "item_size": 39649690,
+  "files_count": 456,
+  "item_last_updated": 1659143915,
+  "item_size": 40015125,
   "metadata": {
     "identifier": "apmreports-2022",
     "collection": [
@@ -4759,10 +4841,21 @@
     "publicdate": "2022-06-19 23:22:49",
     "addeddate": "2022-06-19 23:22:49"
   },
+  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "uniq": 809374681,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3347602271,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1688791364,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia902504.us.archive.org"
   ]
 }

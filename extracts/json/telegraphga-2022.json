@@ -1,5 +1,5 @@
 {
-  "created": 1659141054,
+  "created": 1659184357,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/27/items/telegraphga-2022",
@@ -893,31 +893,83 @@
       "format": "JSON"
     },
     {
+      "name": "telegraphga-2022-07-29T11:56:38.795911-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphga-2022-07-29T11:56:38.795911-04:00.jpg",
+      "mtime": "1659145590",
+      "size": "9665",
+      "md5": "f574c477fbc1994902414540171adfa4",
+      "crc32": "656773c4",
+      "sha1": "2fb9d46892e15a70d1ad947b0e6af0faa35560c2"
+    },
+    {
+      "name": "telegraphga-2022-07-29T23:54:39.139672-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659153281",
+      "size": "454",
+      "md5": "4b9c2316e173be25c9d6b33783d38583",
+      "crc32": "6e866dd8",
+      "sha1": "12745629060cbdc361c863cb68b297d54b2c59c6",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphga-2022-07-29T23:54:39.139672-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659153283",
+      "size": "34652",
+      "md5": "937be911395c32f9ac380ec907c60971",
+      "crc32": "c49269ca",
+      "sha1": "2072e421915a79a9606cb9b94ad6e6cc291d60ba",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphga-2022-07-29T23:54:39.139672-04:00.jpg",
+      "source": "original",
+      "mtime": "1659153280",
+      "size": "272942",
+      "md5": "4907a88ef8427b146e45d1b1b492e810",
+      "crc32": "81acc353",
+      "sha1": "37419fbde0cef2e4c07acb151d3c2a21ded10c8a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphga-2022-07-29T23:54:39.139672-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659153284",
+      "size": "1450",
+      "md5": "7de09d056ed680abebaa1680b601b543",
+      "crc32": "1d4e71bf",
+      "sha1": "83f8b3ec704bbcd6c5823c41dc17273901bd32b3",
+      "format": "JSON"
+    },
+    {
       "name": "telegraphga-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5b8a9ce541eba0764b4099206a7d45603bc0ebbe",
-      "mtime": "1659110243",
-      "size": "19543",
-      "md5": "c55ffc746b37a7b7b40c94f009b601bc",
-      "crc32": "136ca8cd",
-      "sha1": "d27b8293b75ea8c65f67a20eedcaa4a81a11ce13",
+      "btih": "961c54700b0be5032ab0cdaa79c1eccb3814564a",
+      "mtime": "1659153323",
+      "size": "20595",
+      "md5": "3694894c8ea358243753f8b11842edc5",
+      "crc32": "7a42d64b",
+      "sha1": "0e40f3838e4783c9a39d8d1fe079b3df2ab80e6a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegraphga-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cafa78559adc246e6c652334a7d66d92",
+      "md5": "16af509a86d5d7dbdebb90e61fab4145",
       "summation": "md5"
     },
     {
       "name": "telegraphga-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659110208",
-      "size": "126976",
-      "md5": "ff6465abb3129cc8a32375b6bf1e49d4",
-      "crc32": "f90baa88",
-      "sha1": "b835f2cdc7420aa4291f5bb272979c05ed5bab29",
+      "mtime": "1659153289",
+      "size": "135168",
+      "md5": "8023b36af2e96f5a497a97bc94deb84f",
+      "crc32": "66d47879",
+      "sha1": "095060b4ab57f7e5e7dcf50ae8091a568b09b894",
       "format": "Metadata"
     },
     {
@@ -931,9 +983,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 89,
-  "item_last_updated": 1659110243,
-  "item_size": 6331083,
+  "files_count": 94,
+  "item_last_updated": 1659153323,
+  "item_size": 6659490,
   "metadata": {
     "identifier": "telegraphga-2022",
     "collection": [
@@ -955,7 +1007,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347270803,
+      "task_id": 3347694124,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -967,10 +1019,10 @@
     {
       "url": "https://www.macon.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macon_com-_-2022_07_29_15_33_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macon_com-_-2022_07_29_15_33_31.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macon_com-_-2022_07_30_03_32_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macon_com-_-2022_07_30_03_32_20.report.json",
       "summary": {
-        "performance": 0.15,
+        "performance": 0.13,
         "accessibility": 0.85,
         "best-practices": null,
         "seo": 0.91,
@@ -980,12 +1032,12 @@
     {
       "url": "https://www.macon.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macon_com-_-2022_07_29_15_34_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macon_com-_-2022_07_29_15_34_20.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macon_com-_-2022_07_30_03_33_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macon_com-_-2022_07_30_03_33_01.report.json",
       "summary": {
-        "performance": 0.22,
+        "performance": 0.14,
         "accessibility": 0.85,
-        "best-practices": null,
+        "best-practices": 0.75,
         "seo": 0.91,
         "pwa": 0.4
       }
@@ -993,10 +1045,10 @@
     {
       "url": "https://www.macon.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macon_com-_-2022_07_29_15_33_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macon_com-_-2022_07_29_15_33_56.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macon_com-_-2022_07_30_03_32_42.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macon_com-_-2022_07_30_03_32_42.report.json",
       "summary": {
-        "performance": 0.21,
+        "performance": 0.15,
         "accessibility": 0.85,
         "best-practices": null,
         "seo": 0.91,
@@ -1004,7 +1056,7 @@
       }
     }
   ],
-  "uniq": 1703418130,
+  "uniq": 616585171,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

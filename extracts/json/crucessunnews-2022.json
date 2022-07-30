@@ -1,5 +1,5 @@
 {
-  "created": 1659139565,
+  "created": 1659179815,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/24/items/crucessunnews-2022",
@@ -8375,31 +8375,83 @@
       "format": "JSON"
     },
     {
+      "name": "crucessunnews-2022-07-29T18:05:05.549698-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "crucessunnews-2022-07-29T18:05:05.549698-06:00.jpg",
+      "mtime": "1659179776",
+      "size": "9182",
+      "md5": "d9b04c1348c90140b29853e6b5b89e42",
+      "crc32": "a6da4490",
+      "sha1": "020b4c5e420125581b54323d6f84ddd210f89aab"
+    },
+    {
+      "name": "crucessunnews-2022-07-30T05:13:29.843653-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659179616",
+      "size": "20628",
+      "md5": "f9964648a78afc5701dba07be7bbd730",
+      "crc32": "3a2bfe65",
+      "sha1": "663973573a4fd488a4d78512d2bd942e66531f74",
+      "format": "JSON"
+    },
+    {
+      "name": "crucessunnews-2022-07-30T05:13:29.843653-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659179617",
+      "size": "31686",
+      "md5": "cd9d9b03f90a742369054c6e73d48b22",
+      "crc32": "79541ef5",
+      "sha1": "e6e82d9b3ecef02acf1ffa0ee7556709b9ae285c",
+      "format": "JSON"
+    },
+    {
+      "name": "crucessunnews-2022-07-30T05:13:29.843653-06:00.jpg",
+      "source": "original",
+      "mtime": "1659179614",
+      "size": "275406",
+      "md5": "76aa131d37fe33190a5e5d10ff458e33",
+      "crc32": "224c99c1",
+      "sha1": "2eb2fbc7b81d2608b2db7008cc8a58ee85428fe8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "crucessunnews-2022-07-30T05:13:29.843653-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659179619",
+      "size": "1495",
+      "md5": "e0e15787d611b6b87c58595f1c3b12e8",
+      "crc32": "0a4e4ea2",
+      "sha1": "a4c13d2c5ea96249a6145a6e4ba8940682493af1",
+      "format": "JSON"
+    },
+    {
       "name": "crucessunnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8cc5c5ecb47015ca9e69a455df3700aa52973d23",
-      "mtime": "1659139563",
-      "size": "172968",
-      "md5": "b77fdb9892b4511dce24819ff7f89d42",
-      "crc32": "0efe0d05",
-      "sha1": "a092aeb219c95e795624249abce35a2128cea24e",
+      "btih": "9750674338237a4931d43d48f8be5bb9fb8a45c0",
+      "mtime": "1659179806",
+      "size": "174032",
+      "md5": "23039a719575255d5253933a740338e3",
+      "crc32": "2226ff22",
+      "sha1": "98c72367429faa3a7c181fc8cb7c414de97fda17",
       "format": "Archive BitTorrent"
     },
     {
       "name": "crucessunnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9a32674c1a30075d123b5b49f66f8e7c",
+      "md5": "4e10867414ee58b7792d84cd0cead443",
       "summation": "md5"
     },
     {
       "name": "crucessunnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659139523",
-      "size": "929792",
-      "md5": "ce1bd7ebe1723ea24eb7961d24326e15",
-      "crc32": "71509eb7",
-      "sha1": "b0394f9168d5472646eaf52908caa0fc2ef7a002",
+      "mtime": "1659179798",
+      "size": "942080",
+      "md5": "f6676bf40e88592d2279d8b209767608",
+      "crc32": "482e5edb",
+      "sha1": "3efbae6f688f6aa427fce22363ce0b30174e0ba9",
       "format": "Metadata"
     },
     {
@@ -8413,9 +8465,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 801,
-  "item_last_updated": 1659139563,
-  "item_size": 62697121,
+  "files_count": 806,
+  "item_last_updated": 1659179806,
+  "item_size": 63048870,
   "metadata": {
     "identifier": "crucessunnews-2022",
     "collection": [
@@ -8437,7 +8489,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347559681,
+      "task_id": 3347984923,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8445,7 +8497,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 131781580,
+  "uniq": 1084949147,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659139814,
+  "created": 1659183753,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/8/items/jewishcurrents-2022",
@@ -1899,31 +1899,83 @@
       "format": "JSON"
     },
     {
+      "name": "jewishcurrents-2022-07-29T20:09:26.775980-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jewishcurrents-2022-07-29T20:09:26.775980-04:00.jpg",
+      "mtime": "1659183709",
+      "size": "9564",
+      "md5": "a8cdf5bf2a955ecf7448ee8915630bda",
+      "crc32": "498a6bb3",
+      "sha1": "3391c0d307589acb08da96dba976826d5bf6e2fc"
+    },
+    {
+      "name": "jewishcurrents-2022-07-30T08:20:59.423476-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659183664",
+      "size": "13436",
+      "md5": "bd5013b7566d8b08b58c5bfae989baa1",
+      "crc32": "dfe9a7ea",
+      "sha1": "9113f6fd154eeb4ff4122043951d3eed0ba9b5eb",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-07-30T08:20:59.423476-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659183666",
+      "size": "29755",
+      "md5": "853bfcb9c1ebf428f04404073d6a849a",
+      "crc32": "6b261d3c",
+      "sha1": "fbfa6a1a28f2743bac4a108149ad09beb8b38b05",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-07-30T08:20:59.423476-04:00.jpg",
+      "source": "original",
+      "mtime": "1659183662",
+      "size": "209042",
+      "md5": "15dc0077811859e2c764e7fe99f35df1",
+      "crc32": "ec4fbf6f",
+      "sha1": "da7863c6dae403ace0db9edbea6ac9f63e9c735a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jewishcurrents-2022-07-30T08:20:59.423476-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659183668",
+      "size": "1494",
+      "md5": "4f8b967ef674d681a6837c17f04d3666",
+      "crc32": "cb2601c4",
+      "sha1": "1fab53f38f00dcd873ff3aa310021b3dc85c8e68",
+      "format": "JSON"
+    },
+    {
       "name": "jewishcurrents-2022_archive.torrent",
       "source": "metadata",
-      "btih": "be32e639f8f243ca46fe3517e47ef886afa34a20",
-      "mtime": "1659139812",
-      "size": "40523",
-      "md5": "e3e05aee9bd9a7984797499584277d36",
-      "crc32": "7e889b5a",
-      "sha1": "5a7ef74defbaf178befb2255c73da8ea3779bdd3",
+      "btih": "81a3fada43c043dc4f4265fdb865ebb62b77d783",
+      "mtime": "1659183743",
+      "size": "41592",
+      "md5": "663f7365537fba193c62475d1c60f221",
+      "crc32": "b477e810",
+      "sha1": "ce2871120dad5b24866056ed9c1c866c704d636f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jewishcurrents-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a26cf6d65461106b3151748df57ec880",
+      "md5": "f14ac722ceda75ef6ed75eb0e2db27bd",
       "summation": "md5"
     },
     {
       "name": "jewishcurrents-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659139777",
-      "size": "237568",
-      "md5": "5c709c74a863ff56493aa7c6d3e64608",
-      "crc32": "c32b7aa5",
-      "sha1": "15f721733ac671d79e8049b10a65c2a626f2be05",
+      "mtime": "1659183741",
+      "size": "241664",
+      "md5": "dd46847161597a7c821d7e0a6352dce6",
+      "crc32": "ed5376d9",
+      "sha1": "20f56d86f0d8cfa99132f293f7dee45116ccea21",
       "format": "Metadata"
     },
     {
@@ -1937,9 +1989,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 185,
-  "item_last_updated": 1659139812,
-  "item_size": 11231004,
+  "files_count": 190,
+  "item_last_updated": 1659183743,
+  "item_size": 11499460,
   "metadata": {
     "identifier": "jewishcurrents-2022",
     "collection": [
@@ -1961,7 +2013,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347562946,
+      "task_id": 3348014565,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1969,7 +2021,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1760633635,
+  "uniq": 1996972261,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

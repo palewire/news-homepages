@@ -1,5 +1,6 @@
 {
-  "created": 1659140114,
+  "conflict": 1659184117,
+  "created": 1659184117,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/29/items/nymag-2022",
@@ -2457,6 +2458,17 @@
       "format": "JSON"
     },
     {
+      "name": "nymag-2022-07-29T20:14:24.557855-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nymag-2022-07-29T20:14:24.557855-04:00.jpg",
+      "mtime": "1659184092",
+      "size": "9969",
+      "md5": "d3410ee35bd473b579a0458f3c7650d9",
+      "crc32": "2d3141b4",
+      "sha1": "839826d2bebba9ac49e3f625a2fd33ec9d0b571c"
+    },
+    {
       "name": "nymag-2022_archive.torrent",
       "source": "metadata",
       "btih": "b43441507a41c9be0c6d14dcfe460c6befeea8f1",
@@ -2471,7 +2483,7 @@
       "name": "nymag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2156b95063cee6d44d946fee3191bf78",
+      "md5": "4b43d12f89647678e5ce6c2e8c7513c2",
       "summation": "md5"
     },
     {
@@ -2495,9 +2507,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 238,
-  "item_last_updated": 1659140112,
-  "item_size": 25975769,
+  "files_count": 239,
+  "item_last_updated": 1659184092,
+  "item_size": 25985738,
   "metadata": {
     "identifier": "nymag-2022",
     "collection": [
@@ -2519,15 +2531,47 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347565501,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3348016776,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348016790,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348016801,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348016815,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348017471,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1894510624,
+  "uniq": 1610504582,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

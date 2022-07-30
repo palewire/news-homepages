@@ -1,5 +1,5 @@
 {
-  "created": 1659140595,
+  "created": 1659183919,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/10/items/hwherald-2022",
@@ -2033,31 +2033,83 @@
       "format": "JSON"
     },
     {
+      "name": "hwherald-2022-07-29T11:17:17.649199-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hwherald-2022-07-29T11:17:17.649199-05:00.jpg",
+      "mtime": "1659146779",
+      "size": "9364",
+      "md5": "abaa0dbacc5e5e08ea042d8a2286d59b",
+      "crc32": "7c06eb17",
+      "sha1": "5f1a813c66c0cf139d7e4fb0667bdfb6ccc43f2c"
+    },
+    {
+      "name": "hwherald-2022-07-29T21:40:06.122838-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659148809",
+      "size": "18618",
+      "md5": "6f633309c62b3425828ef5428dd925a7",
+      "crc32": "a4fdd76e",
+      "sha1": "629190fb1dc899595159d128463f67587a12211c",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-07-29T21:40:06.122838-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659148810",
+      "size": "7326",
+      "md5": "ab7fdb412ff168045abeb9df87c3f3af",
+      "crc32": "3992223e",
+      "sha1": "c45cceba1ce416d1750adcb538f6cdae6aa30dd2",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-07-29T21:40:06.122838-05:00.jpg",
+      "source": "original",
+      "mtime": "1659148807",
+      "size": "274532",
+      "md5": "417beecdab6cad4a5c1aa6833c343082",
+      "crc32": "2fb64c66",
+      "sha1": "ee6d19c27af3bdea641fe725a14cfdb0017e5396",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hwherald-2022-07-29T21:40:06.122838-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659148812",
+      "size": "1459",
+      "md5": "53839d2c04f2fc331b1308ebbc2734d8",
+      "crc32": "0dcccd10",
+      "sha1": "f9719d14aea52d2b4bd40a4ea028aba71a122b1d",
+      "format": "JSON"
+    },
+    {
       "name": "hwherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "092011f42bb5b27ad2211e037b483797193c6a8a",
-      "mtime": "1659112139",
-      "size": "42140",
-      "md5": "23d6656170719339f1d40a9065ae6261",
-      "crc32": "8d1244ba",
-      "sha1": "e4b4c5b244164c0eb6e509c59913e2c88e18897f",
+      "btih": "1d2c4cd926881d650685212cf4e1b72e2983026d",
+      "mtime": "1659148854",
+      "size": "43198",
+      "md5": "9ecce906e2b694effda5302bca39e988",
+      "crc32": "5951f569",
+      "sha1": "60bbcba2d4e40b2c3808516e0046822ac4f241ac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hwherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4feacfdba2260135ef116c76d03158bf",
+      "md5": "0de1658c398f62a49b4a59af08aba692",
       "summation": "md5"
     },
     {
       "name": "hwherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659112137",
-      "size": "249856",
-      "md5": "76d1407c59d332a4fa6cce880fa33a7c",
-      "crc32": "71286ec6",
-      "sha1": "187699dce9a4657c196dc2a8ef64863f51df5525",
+      "mtime": "1659148817",
+      "size": "258048",
+      "md5": "12648c08293bc270992b7f13ebe0bd82",
+      "crc32": "742a9c64",
+      "sha1": "1a3941352ce59587db621290d74492b0672e233b",
       "format": "Metadata"
     },
     {
@@ -2071,15 +2123,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 198,
+  "files_count": 203,
   "hwherald-2022": [
     {
       "url": "https://harveyworld.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harveyworld_org-_-2022_07_29_16_04_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harveyworld_org-_-2022_07_29_16_04_31.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harveyworld_org-_-2022_07_30_02_16_29.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harveyworld_org-_-2022_07_30_02_16_29.report.json",
       "summary": {
-        "performance": 0.85,
+        "performance": 0.67,
         "accessibility": 0.95,
         "best-practices": 1,
         "seo": 0.82,
@@ -2089,10 +2141,10 @@
     {
       "url": "https://harveyworld.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harveyworld_org-_-2022_07_29_16_04_42.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harveyworld_org-_-2022_07_29_16_04_42.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harveyworld_org-_-2022_07_30_02_16_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harveyworld_org-_-2022_07_30_02_16_54.report.json",
       "summary": {
-        "performance": 0.91,
+        "performance": 0.89,
         "accessibility": 0.95,
         "best-practices": 1,
         "seo": 0.82,
@@ -2102,10 +2154,10 @@
     {
       "url": "https://harveyworld.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harveyworld_org-_-2022_07_29_16_04_54.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harveyworld_org-_-2022_07_29_16_04_54.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harveyworld_org-_-2022_07_30_02_16_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harveyworld_org-_-2022_07_30_02_16_43.report.json",
       "summary": {
-        "performance": 0.93,
+        "performance": 0.88,
         "accessibility": 0.95,
         "best-practices": 1,
         "seo": 0.82,
@@ -2113,8 +2165,8 @@
       }
     }
   ],
-  "item_last_updated": 1659112139,
-  "item_size": 13546500,
+  "item_last_updated": 1659148854,
+  "item_size": 13867049,
   "metadata": {
     "identifier": "hwherald-2022",
     "collection": [
@@ -2136,7 +2188,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347291890,
+      "task_id": 3347653192,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2144,7 +2196,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 196473761,
+  "uniq": 212425206,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

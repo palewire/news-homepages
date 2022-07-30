@@ -1,5 +1,5 @@
 {
-  "created": 1659119881,
+  "created": 1659153642,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/19/items/zerohedge-2022",
@@ -1695,31 +1695,83 @@
       "format": "JSON"
     },
     {
+      "name": "zerohedge-2022-07-29T14:36:03.504555-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohedge-2022-07-29T14:36:03.504555-04:00.jpg",
+      "mtime": "1659153269",
+      "size": "9295",
+      "md5": "8642ed548baa37926a41588c90721607",
+      "crc32": "65b59f2c",
+      "sha1": "6338e43c79d125a41cccbba566b4190c0d497e3d"
+    },
+    {
+      "name": "zerohedge-2022-07-29T23:59:54.745476-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659153596",
+      "size": "34651",
+      "md5": "ed841bdb00bb550592b430406b8439a7",
+      "crc32": "3421f8c9",
+      "sha1": "6d0e2806cc9493f07b529a31d89eafaa23c1ac4d",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-07-29T23:59:54.745476-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659153598",
+      "size": "22170",
+      "md5": "f0136dd0485681f28e47ff19775112c6",
+      "crc32": "d0145237",
+      "sha1": "b2198f316caeb8b85cca6ba047cafd63d9aac0b5",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-07-29T23:59:54.745476-04:00.jpg",
+      "source": "original",
+      "mtime": "1659153595",
+      "size": "280655",
+      "md5": "b4933599b95c9f543aea43e85e51d181",
+      "crc32": "19b67956",
+      "sha1": "dbbab4b168fa3fc0820bff92153d8aa88516b971",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohedge-2022-07-29T23:59:54.745476-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659153599",
+      "size": "1482",
+      "md5": "1c2a97f1b0ed96e1b1af154ec2d081b0",
+      "crc32": "40bfdb78",
+      "sha1": "ab330d93762cb00f8b65ae57ade22e3697d76aaa",
+      "format": "JSON"
+    },
+    {
       "name": "zerohedge-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5ca4fe5ae6469fd88fd75196bfa386b0c4f07293",
-      "mtime": "1659119873",
-      "size": "35679",
-      "md5": "556b01826ad466cb899b4d5975b777b9",
-      "crc32": "9b70be30",
-      "sha1": "b54dfd27f8c62f1deef09df3daa3eb1767318a3d",
+      "btih": "25ab998a4f3fdc6daec29d848ebfd1f62e1ed844",
+      "mtime": "1659153639",
+      "size": "36743",
+      "md5": "2ed40531d39bd7be6f1f2164ee1d8357",
+      "crc32": "ba212684",
+      "sha1": "7d264229e33a572450ace68841d41250df308e21",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zerohedge-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "213049704ac2901015af6bc82f3284ee",
+      "md5": "848eb29d9df3a9771e4157180871d263",
       "summation": "md5"
     },
     {
       "name": "zerohedge-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659119871",
-      "size": "217088",
-      "md5": "c4fbc5c2f3b42e08ff05fdb97c720fd0",
-      "crc32": "cab3fc8c",
-      "sha1": "437a3d255bcc5a95cc5b0c6c38be3120efe6be58",
+      "mtime": "1659153604",
+      "size": "225280",
+      "md5": "917bc33cb2891e2ba2eb799377bc4605",
+      "crc32": "1c41d145",
+      "sha1": "367105cf9bf09a6f38c1096d43547f14689a762f",
       "format": "Metadata"
     },
     {
@@ -1733,9 +1785,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 166,
-  "item_last_updated": 1659119873,
-  "item_size": 11836198,
+  "files_count": 171,
+  "item_last_updated": 1659153639,
+  "item_size": 12193707,
   "metadata": {
     "identifier": "zerohedge-2022",
     "collection": [
@@ -1757,7 +1809,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347364801,
+      "task_id": 3347697080,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1765,7 +1817,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 652163634,
+  "uniq": 1265702308,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

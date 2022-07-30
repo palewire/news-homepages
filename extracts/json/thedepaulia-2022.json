@@ -1,5 +1,5 @@
 {
-  "created": 1659141081,
+  "created": 1659144265,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/30/items/thedepaulia-2022",
@@ -733,31 +733,83 @@
       "format": "JSON"
     },
     {
+      "name": "thedepaulia-2022-07-29T11:17:51.102885-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedepaulia-2022-07-29T11:17:51.102885-05:00.jpg",
+      "mtime": "1659144231",
+      "size": "9848",
+      "md5": "c4c2070f165c286d65864c56182eb3b4",
+      "crc32": "301b5053",
+      "sha1": "a0c379295db04dffd338f77f1f849d56e339ffce"
+    },
+    {
+      "name": "thedepaulia-2022-07-29T20:23:10.602389-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659144193",
+      "size": "27699",
+      "md5": "66ac5ef68f57468997ccf425c2850f17",
+      "crc32": "61f9a495",
+      "sha1": "d9c6b620e38afab11c05ddc26c340eed9894ec93",
+      "format": "JSON"
+    },
+    {
+      "name": "thedepaulia-2022-07-29T20:23:10.602389-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659144195",
+      "size": "92564",
+      "md5": "8953cc0a00f6a8a3db1bfdd26c109c24",
+      "crc32": "60c6afaf",
+      "sha1": "108fd2d4f52e417c64ab96fb1b9be72a93cd790e",
+      "format": "JSON"
+    },
+    {
+      "name": "thedepaulia-2022-07-29T20:23:10.602389-05:00.jpg",
+      "source": "original",
+      "mtime": "1659144192",
+      "size": "281003",
+      "md5": "b2174cad97b1b8b62bed98f9a6811bef",
+      "crc32": "530430f7",
+      "sha1": "45fc7bd1c571b2d82d19de5db1dc41de8be12f94",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedepaulia-2022-07-29T20:23:10.602389-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659144196",
+      "size": "1485",
+      "md5": "43f50e439fb7b78b6490cc12f3968431",
+      "crc32": "87f984bb",
+      "sha1": "543f806e064fba8377c9d511df441f8040f57fc9",
+      "format": "JSON"
+    },
+    {
       "name": "thedepaulia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "12cf2dffc13d3bcb7bbc35c3564cdfcefe173988",
-      "mtime": "1659111714",
-      "size": "16424",
-      "md5": "8270010fe1492b2e4ff0b00575fb67a5",
-      "crc32": "d159d62f",
-      "sha1": "41a1eb2dc24888d0d79599a6e92e5929ce3a30b6",
+      "btih": "1879b889e3019952e1d6fd72929c90c1a6ae9c59",
+      "mtime": "1659144259",
+      "size": "17498",
+      "md5": "9469a96943ada3c5a84505ed061a4304",
+      "crc32": "89a9d0ef",
+      "sha1": "d4a293f369ab04b9950abe7f461c19c8675cb8b9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedepaulia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "407507701948786539d2fa3aade0905b",
+      "md5": "d8ffa1620ed6be49f9d4bcd1bf130c80",
       "summation": "md5"
     },
     {
       "name": "thedepaulia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659111712",
-      "size": "106496",
-      "md5": "0072123d0dda0e7cfa951f48697fb8cd",
-      "crc32": "222badf5",
-      "sha1": "0f1827268c24d6ae0c6c40de26936e2cbdfb3a58",
+      "mtime": "1659144257",
+      "size": "110592",
+      "md5": "7e289e03424020bed79e2781ff43d51d",
+      "crc32": "c027ec28",
+      "sha1": "99d5d1be9c8e90cd0751fc0647a49c142ec07432",
       "format": "Metadata"
     },
     {
@@ -771,9 +823,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 74,
-  "item_last_updated": 1659111714,
-  "item_size": 5989350,
+  "files_count": 79,
+  "item_last_updated": 1659144259,
+  "item_size": 6407119,
   "metadata": {
     "identifier": "thedepaulia-2022",
     "collection": [
@@ -795,7 +847,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347289179,
+      "task_id": 3347606148,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -803,48 +855,7 @@
       "status": "queued"
     }
   ],
-  "thedepaulia-2022": [
-    {
-      "url": "https://depauliaonline.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/depauliaonline_com-_-2022_07_29_16_05_54.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/depauliaonline_com-_-2022_07_29_16_05_54.report.json",
-      "summary": {
-        "performance": 0.39,
-        "accessibility": 0.77,
-        "best-practices": 0.83,
-        "seo": 1,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://depauliaonline.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/depauliaonline_com-_-2022_07_29_16_06_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/depauliaonline_com-_-2022_07_29_16_06_20.report.json",
-      "summary": {
-        "performance": 0.41,
-        "accessibility": 0.77,
-        "best-practices": 0.83,
-        "seo": 1,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://depauliaonline.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/depauliaonline_com-_-2022_07_29_16_05_27.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/depauliaonline_com-_-2022_07_29_16_05_27.report.json",
-      "summary": {
-        "performance": 0.37,
-        "accessibility": 0.77,
-        "best-practices": 0.83,
-        "seo": 1,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "uniq": 1669719754,
+  "uniq": 127771198,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

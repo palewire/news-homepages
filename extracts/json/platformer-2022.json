@@ -1,5 +1,5 @@
 {
-  "created": 1659109950,
+  "created": 1659153073,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/platformer-2022",
@@ -525,31 +525,83 @@
       "format": "JSON"
     },
     {
+      "name": "platformer-2022-07-29T08:51:40.205059-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "platformer-2022-07-29T08:51:40.205059-07:00.jpg",
+      "mtime": "1659145346",
+      "size": "6417",
+      "md5": "616f5128fccfb87d047f03f52816424a",
+      "crc32": "84e6cc92",
+      "sha1": "b7788c311cf60e25f137b57b2db032bff0c3b34c"
+    },
+    {
+      "name": "platformer-2022-07-29T20:50:26.268008-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659153029",
+      "size": "16616",
+      "md5": "f79af5d9826c0a1a12328aa758a04bb1",
+      "crc32": "d54ccd1a",
+      "sha1": "d0c0e6c35cc717ab406ef66bf6975946ac2934f8",
+      "format": "JSON"
+    },
+    {
+      "name": "platformer-2022-07-29T20:50:26.268008-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659153031",
+      "size": "12835",
+      "md5": "7e90685c8915fdf7614934bb14a26da5",
+      "crc32": "5cb8e5db",
+      "sha1": "bc33140f70b7a99490a10d07586e6de3ff7ff09d",
+      "format": "JSON"
+    },
+    {
+      "name": "platformer-2022-07-29T20:50:26.268008-07:00.jpg",
+      "source": "original",
+      "mtime": "1659153028",
+      "size": "84816",
+      "md5": "af52f63c5abd2e521b285d7c0794b933",
+      "crc32": "199e25d3",
+      "sha1": "a4e07a13853e123a6004333fa9f5a16f249d4ccb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "platformer-2022-07-29T20:50:26.268008-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659153032",
+      "size": "1495",
+      "md5": "abb46a774c225e7419593bb93b4540e5",
+      "crc32": "5d67db1c",
+      "sha1": "46d383b93dafbd88afabf37dad19862624a0528b",
+      "format": "JSON"
+    },
+    {
       "name": "platformer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7a8c9dd7c2522f8b5e1620b192ea2ff4ddb3ce23",
-      "mtime": "1659109947",
-      "size": "11957",
-      "md5": "b6c27b8f2ff14172be82dc8d2b1a20e7",
-      "crc32": "f22ee713",
-      "sha1": "04a108e5e0e97f1b7c5b4ef4224e15813ba6995a",
+      "btih": "2f6a51d9a06081609621f7c68ebad04ba3632541",
+      "mtime": "1659153071",
+      "size": "13005",
+      "md5": "725f78caece9720370615fc898179087",
+      "crc32": "f889f9e7",
+      "sha1": "0d84401cb4b8974219a2dd916e75227f36472d11",
       "format": "Archive BitTorrent"
     },
     {
       "name": "platformer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "582e2f525a38c2bab7b44a5039bc56f1",
+      "md5": "a5b9e864997684c7f59cedc0915745de",
       "summation": "md5"
     },
     {
       "name": "platformer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659109909",
-      "size": "77824",
-      "md5": "e0094c07515a9da347d415904c2eb51e",
-      "crc32": "3284751f",
-      "sha1": "f3dc70d103a98e281ec77dde1cbde1001962cb4c",
+      "mtime": "1659153037",
+      "size": "81920",
+      "md5": "d8c8ece1e143703aa1926993e0c728d4",
+      "crc32": "18f92b3e",
+      "sha1": "ced41d050c001885f6e72e8e07e1469d4cef2172",
       "format": "Metadata"
     },
     {
@@ -563,9 +615,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 54,
-  "item_last_updated": 1659109947,
-  "item_size": 1309235,
+  "files_count": 59,
+  "item_last_updated": 1659153071,
+  "item_size": 1436558,
   "metadata": {
     "identifier": "platformer-2022",
     "collection": [
@@ -587,7 +639,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347268619,
+      "task_id": 3347692007,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -595,7 +647,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 453608992,
+  "uniq": 1702024012,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

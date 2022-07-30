@@ -1,5 +1,5 @@
 {
-  "created": 1659119912,
+  "created": 1659153568,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/13/items/worldnetdaily-2022",
@@ -1669,31 +1669,83 @@
       "format": "JSON"
     },
     {
+      "name": "worldnetdaily-2022-07-29T14:35:19.327282-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "worldnetdaily-2022-07-29T14:35:19.327282-04:00.jpg",
+      "mtime": "1659153272",
+      "size": "11929",
+      "md5": "a02b355c7066f0a5cd017dab9092d040",
+      "crc32": "a575ecb5",
+      "sha1": "b49cc4a6f3ca0fe6ea7e48b9b67c73a0ea72f52d"
+    },
+    {
+      "name": "worldnetdaily-2022-07-29T23:58:39.408668-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659153522",
+      "size": "23821",
+      "md5": "e8d243482253fc2577fac98abe313edf",
+      "crc32": "c78d0f9b",
+      "sha1": "8fd2bf4fd88a65bbdcbc9f64247e2e70ef9c0555",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-07-29T23:58:39.408668-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659153523",
+      "size": "50376",
+      "md5": "7f92570a4b2e1af131767a63f86eb5dc",
+      "crc32": "f17b8cf0",
+      "sha1": "6d08d006107ee2993eaca3b02d37eba677187619",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-07-29T23:58:39.408668-04:00.jpg",
+      "source": "original",
+      "mtime": "1659153520",
+      "size": "322558",
+      "md5": "e697d3bc730c382d74bfb82adf2f220f",
+      "crc32": "eb8df520",
+      "sha1": "c9e335b497800c2fd33bc86167102c0986816fe0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "worldnetdaily-2022-07-29T23:58:39.408668-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659153525",
+      "size": "1432",
+      "md5": "79a8eaabb91254079d278d8339ff0116",
+      "crc32": "a2d285c1",
+      "sha1": "fffe39e2b00b1be917af4e5112e3d391311a88ca",
+      "format": "JSON"
+    },
+    {
       "name": "worldnetdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "98eddf8ca7e12fca957c9265b42ad762a9582b9a",
-      "mtime": "1659119900",
-      "size": "35862",
-      "md5": "fe18de2dee13eb47c0ce4361930d34b2",
-      "crc32": "7bca551c",
-      "sha1": "00e0672a3b8db346e90adee808a3a4224ee8871a",
+      "btih": "dedaf26dd4ce03546225897d15a8b6aea1319aba",
+      "mtime": "1659153566",
+      "size": "36947",
+      "md5": "89d6cde1d6fd5c4915debab893f150b8",
+      "crc32": "60fcd9d6",
+      "sha1": "fb0ec2697855b3ef1b256fdf16d48b3eded0d205",
       "format": "Archive BitTorrent"
     },
     {
       "name": "worldnetdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cb10226c6ca4372b55514f60894fa791",
+      "md5": "d0e78a43be1f925a6833a785b73701bf",
       "summation": "md5"
     },
     {
       "name": "worldnetdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659119897",
-      "size": "208896",
-      "md5": "fe5ee985f1f4bb060501222fe84f8c16",
-      "crc32": "656f0895",
-      "sha1": "cedb293a41f13df059f736d4e023a8617b8bd23e",
+      "mtime": "1659153530",
+      "size": "217088",
+      "md5": "db973efe2eac97cc461d85ba53a40f2c",
+      "crc32": "dd0fc75e",
+      "sha1": "c630bdeb9dd23495815a40c9ac13ba4c786fa162",
       "format": "Metadata"
     },
     {
@@ -1707,9 +1759,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 163,
-  "item_last_updated": 1659119900,
-  "item_size": 15991747,
+  "files_count": 168,
+  "item_last_updated": 1659153566,
+  "item_size": 16411140,
   "metadata": {
     "identifier": "worldnetdaily-2022",
     "collection": [
@@ -1731,7 +1783,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347365026,
+      "task_id": 3347696067,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1739,7 +1791,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1083588412,
+  "uniq": 327482493,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

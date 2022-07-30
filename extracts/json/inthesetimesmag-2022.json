@@ -1,5 +1,5 @@
 {
-  "created": 1659140606,
+  "created": 1659149043,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/5/items/inthesetimesmag-2022",
@@ -2463,31 +2463,83 @@
       "format": "JSON"
     },
     {
+      "name": "inthesetimesmag-2022-07-29T13:36:10.431520-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "inthesetimesmag-2022-07-29T13:36:10.431520-05:00.jpg",
+      "mtime": "1659148941",
+      "size": "10028",
+      "md5": "e0c40d506a3b124a06ffcde45a7355ab",
+      "crc32": "582b93f0",
+      "sha1": "7418b37d8e096ab9901ca0ef12f081d445511466"
+    },
+    {
+      "name": "inthesetimesmag-2022-07-29T21:41:27.385010-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659148890",
+      "size": "11453",
+      "md5": "e0dee85da5b4b5c0cd7161b21ea37478",
+      "crc32": "7b6b619c",
+      "sha1": "2a44bf85106f6e56aa1e2108edac01fe61d1a66c",
+      "format": "JSON"
+    },
+    {
+      "name": "inthesetimesmag-2022-07-29T21:41:27.385010-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659148891",
+      "size": "10545",
+      "md5": "9d125f08e575ca981a8f9b8ade776163",
+      "crc32": "189854f1",
+      "sha1": "85847829a42e57eab006204e686876c291af816e",
+      "format": "JSON"
+    },
+    {
+      "name": "inthesetimesmag-2022-07-29T21:41:27.385010-05:00.jpg",
+      "source": "original",
+      "mtime": "1659148888",
+      "size": "252935",
+      "md5": "a44593709f2be4810c34833c1f2ed016",
+      "crc32": "0ec69a25",
+      "sha1": "8aa2bce7613510e5f74bf90f7165f5a8f6bd981d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "inthesetimesmag-2022-07-29T21:41:27.385010-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659148893",
+      "size": "1475",
+      "md5": "bf8c41bfb73fb04f2aecaa769cef4b79",
+      "crc32": "9ab72c34",
+      "sha1": "cc35ea4fe2ac9cc4b726ba1dda0be5adf6078a31",
+      "format": "JSON"
+    },
+    {
       "name": "inthesetimesmag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aaf11547438f324948193c1c6c06bb5916a341ba",
-      "mtime": "1659119822",
-      "size": "52475",
-      "md5": "75c783505f11327344d9f953ffc03120",
-      "crc32": "1cc241ce",
-      "sha1": "59249b41755de9a77b161d6c6f026d408b37a99a",
+      "btih": "880d813d6f9a3d49b8685393ad3b4cf3f56bfa5c",
+      "mtime": "1659149036",
+      "size": "53570",
+      "md5": "70971fd6d919aa53e9345c3f2f05d578",
+      "crc32": "d5089efb",
+      "sha1": "df5fe44dc07c0f4647f44bde99ad6c254718202d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "inthesetimesmag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c0781322def7434587b2a9c0b00400c1",
+      "md5": "f854f5fc94ec4790bd69cec73f4107d7",
       "summation": "md5"
     },
     {
       "name": "inthesetimesmag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659119818",
-      "size": "303104",
-      "md5": "d560528cfd86404d076ec3ce27fd4615",
-      "crc32": "a68cc123",
-      "sha1": "83b2e70563f960511989b0b66fc8f51dd5bd1cf3",
+      "mtime": "1659149033",
+      "size": "307200",
+      "md5": "2e0e9e07188fe457e84ab1efd6d6a4a8",
+      "crc32": "a49aacb6",
+      "sha1": "6b596b317782845ea3668f75b2829371c0b8e06e",
       "format": "Metadata"
     },
     {
@@ -2501,50 +2553,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 239,
-  "inthesetimesmag-2022": [
-    {
-      "url": "https://inthesetimes.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/inthesetimes_com-_-2022_07_29_18_28_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/inthesetimes_com-_-2022_07_29_18_28_46.report.json",
-      "summary": {
-        "performance": 0.69,
-        "accessibility": 0.96,
-        "best-practices": 0.92,
-        "seo": 0.89,
-        "pwa": 0.8
-      }
-    },
-    {
-      "url": "https://inthesetimes.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/inthesetimes_com-_-2022_07_29_18_29_08.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/inthesetimes_com-_-2022_07_29_18_29_08.report.json",
-      "summary": {
-        "performance": 0.71,
-        "accessibility": 0.96,
-        "best-practices": 0.92,
-        "seo": 0.89,
-        "pwa": 0.8
-      }
-    },
-    {
-      "url": "https://inthesetimes.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/inthesetimes_com-_-2022_07_29_18_28_57.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/inthesetimes_com-_-2022_07_29_18_28_57.report.json",
-      "summary": {
-        "performance": 0.67,
-        "accessibility": 0.96,
-        "best-practices": 0.92,
-        "seo": 0.89,
-        "pwa": 0.8
-      }
-    }
-  ],
-  "item_last_updated": 1659119822,
-  "item_size": 15678783,
+  "files_count": 244,
+  "item_last_updated": 1659149036,
+  "item_size": 15970410,
   "metadata": {
     "identifier": "inthesetimesmag-2022",
     "collection": [
@@ -2566,7 +2577,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347364361,
+      "task_id": 3347655247,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2574,7 +2585,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1082401194,
+  "uniq": 661056606,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

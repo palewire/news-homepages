@@ -1,8 +1,8 @@
 {
-  "created": 1659139584,
-  "d1": "ia601402.us.archive.org",
-  "d2": "ia801402.us.archive.org",
-  "dir": "/3/items/spokesmanreview-2022",
+  "created": 1659170054,
+  "d1": "ia601404.us.archive.org",
+  "d2": "ia801404.us.archive.org",
+  "dir": "/9/items/spokesmanreview-2022",
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -2330,31 +2330,72 @@
       "sha1": "71b84b8a25a895a75bb0af2eaf6bd06ce0867b32"
     },
     {
+      "name": "spokesmanreview-2022-07-29T18:21:17.109856-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659144080",
+      "size": "1028",
+      "md5": "0dfdd56a27643e15bf6265587adb8b5d",
+      "crc32": "a73bfdc9",
+      "sha1": "14fae1c1534c2c0a63b4aade400fec3bb12bb3a0",
+      "format": "JSON"
+    },
+    {
+      "name": "spokesmanreview-2022-07-29T18:21:17.109856-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659144081",
+      "size": "50602",
+      "md5": "593740b7602bc18e5b12ba08c88fef26",
+      "crc32": "678aafcc",
+      "sha1": "afc596f18ae5de873ca25c95b4f58e651223d206",
+      "format": "JSON"
+    },
+    {
+      "name": "spokesmanreview-2022-07-29T18:21:17.109856-07:00.jpg",
+      "source": "original",
+      "mtime": "1659144078",
+      "size": "310089",
+      "md5": "b546b397c2e813dd94113819cba5abaf",
+      "crc32": "2a05806a",
+      "sha1": "16395438cc323460595a35e6bc425c209f4136e1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spokesmanreview-2022-07-29T18:21:17.109856-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659144083",
+      "size": "1486",
+      "md5": "058cd2ba813df6453e0b3c8b56d347bd",
+      "crc32": "e151ceff",
+      "sha1": "ce24366446f06dd274567077882290614867e0c0",
+      "format": "JSON"
+    },
+    {
       "name": "spokesmanreview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bdd3199ba92e481a73ca0130a027ef3095b64758",
-      "mtime": "1659139549",
-      "size": "49761",
-      "md5": "c49583b042090a7e4c577eff4144e616",
-      "crc32": "ae377b46",
-      "sha1": "7f5c28ac6b86dbc2b350f3dbdce6a888ced55441",
+      "btih": "136264bee71b36e9e0e21b12b08a5ac3e08f3bad",
+      "mtime": "1659144127",
+      "size": "50643",
+      "md5": "cbd19de53183dec3d8577f2f5edce03d",
+      "crc32": "1569e4a0",
+      "sha1": "abb26494293dd4451256c2bd4c7c84607307adba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spokesmanreview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "39c1d02ba2931e6875d9bfd5e385d5fb",
+      "md5": "d06b04a28ca63f5b0ab664bee076b17c",
       "summation": "md5"
     },
     {
       "name": "spokesmanreview-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659101567",
-      "size": "282624",
-      "md5": "c857ead0fc926077b42fa0684572d45b",
-      "crc32": "fe4af34a",
-      "sha1": "38d6c42434f1d2aab3a5e35fa1ddac9338fff514",
+      "mtime": "1659144090",
+      "size": "286720",
+      "md5": "8ad6adff9386750d569e3472cd9e3298",
+      "crc32": "0f1a7a04",
+      "sha1": "9ad92cdda5bf06a297d9521a6e6ee2ff92376aba",
       "format": "Metadata"
     },
     {
@@ -2368,9 +2409,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 226,
-  "item_last_updated": 1659139549,
-  "item_size": 19880478,
+  "files_count": 230,
+  "item_last_updated": 1659144127,
+  "item_size": 20248661,
   "metadata": {
     "identifier": "spokesmanreview-2022",
     "collection": [
@@ -2387,10 +2428,21 @@
     "publicdate": "2022-07-04 21:45:27",
     "addeddate": "2022-07-04 21:45:27"
   },
-  "server": "ia601402.us.archive.org",
-  "uniq": 1784409658,
+  "pending_tasks": true,
+  "server": "ia601404.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3347604606,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1138366045,
   "workable_servers": [
-    "ia601402.us.archive.org",
-    "ia801402.us.archive.org"
+    "ia601404.us.archive.org"
   ]
 }

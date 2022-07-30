@@ -1,5 +1,5 @@
 {
-  "created": 1659140952,
+  "created": 1659184242,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/17/items/qctimes-2022",
@@ -8015,31 +8015,83 @@
       "format": "JSON"
     },
     {
+      "name": "qctimes-2022-07-29T11:19:41.262765-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qctimes-2022-07-29T11:19:41.262765-05:00.jpg",
+      "mtime": "1659146862",
+      "size": "12092",
+      "md5": "c98b53e5844507295df7d9eb057d95de",
+      "crc32": "f5e0bc24",
+      "sha1": "54de0e3afe4d850fa6a0ee71f660243be0f71f76"
+    },
+    {
+      "name": "qctimes-2022-07-29T22:50:58.869048-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659153062",
+      "size": "28263",
+      "md5": "1ee57dd575a13652e1905d5a8fb6bf97",
+      "crc32": "d3db8198",
+      "sha1": "2ab9e1c5f80b8934d9bef54f15d2af78065de78d",
+      "format": "JSON"
+    },
+    {
+      "name": "qctimes-2022-07-29T22:50:58.869048-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659153065",
+      "size": "80249",
+      "md5": "32993f1476b1742f388998885b5ae03d",
+      "crc32": "97930b00",
+      "sha1": "f63cf976ffe4b80293a0fe8b43a88d8726cab43e",
+      "format": "JSON"
+    },
+    {
+      "name": "qctimes-2022-07-29T22:50:58.869048-05:00.jpg",
+      "source": "original",
+      "mtime": "1659153060",
+      "size": "295923",
+      "md5": "3c65249b2a3fb307865d71fcba05a734",
+      "crc32": "c7e53cc2",
+      "sha1": "6a84939fea118d531681bc9484ddf75884000d8b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qctimes-2022-07-29T22:50:58.869048-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659153066",
+      "size": "1432",
+      "md5": "373b9e879d86af8f45254aa96289c4c5",
+      "crc32": "f07b8fd9",
+      "sha1": "00f9afabcf5b5fe855fd536163b44f40eb64169c",
+      "format": "JSON"
+    },
+    {
       "name": "qctimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e1debbd2f44cd39f7fbe3bf5ab4218e9952655f5",
-      "mtime": "1659112234",
-      "size": "161663",
-      "md5": "f6eda1e2f6c5f236ed393674b42c560e",
-      "crc32": "03c55621",
-      "sha1": "fe72d9f004d37c9611f3c900d3f8e40eafecf1e5",
+      "btih": "bc0529357aea4ecec8ad2f8c8c46e7c7463cdbea",
+      "mtime": "1659153117",
+      "size": "162718",
+      "md5": "a1325f51e338e4b26a84996fef819e1c",
+      "crc32": "96dff591",
+      "sha1": "34dd45069cbef5516ca9abfdfd8bff9046e8ba74",
       "format": "Archive BitTorrent"
     },
     {
       "name": "qctimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e1b0eb4420f856491b036e01c8e44f9f",
+      "md5": "aa98048975920084e139a80f0751627c",
       "summation": "md5"
     },
     {
       "name": "qctimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659112225",
-      "size": "880640",
-      "md5": "0d230b81c1b349dd15e89b700dc05859",
-      "crc32": "06fb17c6",
-      "sha1": "c315669af1ac03ec0518968dc0ce9b4de057af48",
+      "mtime": "1659153075",
+      "size": "888832",
+      "md5": "6d96a6539064849c32983449c8e28df9",
+      "crc32": "7a356a3d",
+      "sha1": "c5b8e0f25016c22b6f798896f5553cc44f8adee9",
       "format": "Metadata"
     },
     {
@@ -8053,9 +8105,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 766,
-  "item_last_updated": 1659112234,
-  "item_size": 79641046,
+  "files_count": 771,
+  "item_last_updated": 1659153117,
+  "item_size": 80068252,
   "metadata": {
     "identifier": "qctimes-2022",
     "collection": [
@@ -8077,8 +8129,8 @@
     {
       "url": "https://qctimes.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qctimes_com-_-2022_07_29_16_13_40.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qctimes_com-_-2022_07_29_16_13_40.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qctimes_com-_-2022_07_30_03_26_40.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qctimes_com-_-2022_07_30_03_26_40.report.json",
       "summary": {
         "performance": 0.03,
         "accessibility": 0.81,
@@ -8090,10 +8142,10 @@
     {
       "url": "https://qctimes.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qctimes_com-_-2022_07_29_16_15_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qctimes_com-_-2022_07_29_16_15_09.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qctimes_com-_-2022_07_30_03_29_03.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qctimes_com-_-2022_07_30_03_29_03.report.json",
       "summary": {
-        "performance": 0.05,
+        "performance": 0.04,
         "accessibility": 0.81,
         "best-practices": 0.83,
         "seo": 0.83,
@@ -8103,10 +8155,10 @@
     {
       "url": "https://qctimes.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qctimes_com-_-2022_07_29_16_14_48.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qctimes_com-_-2022_07_29_16_14_48.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qctimes_com-_-2022_07_30_03_27_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qctimes_com-_-2022_07_30_03_27_50.report.json",
       "summary": {
-        "performance": 0.05,
+        "performance": 0.03,
         "accessibility": 0.81,
         "best-practices": 0.83,
         "seo": 0.83,
@@ -8118,7 +8170,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347292539,
+      "task_id": 3347692444,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8126,7 +8178,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1041240970,
+  "uniq": 1126153856,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

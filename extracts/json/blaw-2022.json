@@ -1,5 +1,46 @@
 {
-  "created": 1659139371,
+  "blaw-2022": [
+    {
+      "url": "https://news.bloomberglaw.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_bloomberglaw_com-_-2022_07_30_10_45_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_bloomberglaw_com-_-2022_07_30_10_45_52.report.json",
+      "summary": {
+        "performance": 0.26,
+        "accessibility": 0.74,
+        "best-practices": 0.83,
+        "seo": 0.83,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://news.bloomberglaw.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_bloomberglaw_com-_-2022_07_30_10_47_32.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_bloomberglaw_com-_-2022_07_30_10_47_32.report.json",
+      "summary": {
+        "performance": 0.3,
+        "accessibility": 0.74,
+        "best-practices": 0.83,
+        "seo": 0.83,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://news.bloomberglaw.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_bloomberglaw_com-_-2022_07_30_10_49_12.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news_bloomberglaw_com-_-2022_07_30_10_49_12.report.json",
+      "summary": {
+        "performance": 0.33,
+        "accessibility": 0.74,
+        "best-practices": 0.83,
+        "seo": 0.83,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "created": 1659183665,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/7/items/blaw-2022",
@@ -473,31 +514,83 @@
       "format": "JSON"
     },
     {
+      "name": "blaw-2022-07-29T20:02:03.989890-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blaw-2022-07-29T20:02:03.989890-04:00.jpg",
+      "mtime": "1659179529",
+      "size": "9525",
+      "md5": "0d38cc7760253a936060b997153f1abd",
+      "crc32": "34e424fe",
+      "sha1": "bac1ead820ccc8942d52e58f9da6bc576640ee2a"
+    },
+    {
+      "name": "blaw-2022-07-30T07:10:38.567437-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659179441",
+      "size": "17349",
+      "md5": "7cebd6b598990416a0b65431e97341ca",
+      "crc32": "05d08f9d",
+      "sha1": "4d818be9dbe66ce4fc09069899b21e154cdfb8be",
+      "format": "JSON"
+    },
+    {
+      "name": "blaw-2022-07-30T07:10:38.567437-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659179443",
+      "size": "24700",
+      "md5": "8d8e47a6cf27d68f99e11fc0852fed40",
+      "crc32": "47960d46",
+      "sha1": "0f8d74b027392f0f8c5b9e78b967d233b244ca85",
+      "format": "JSON"
+    },
+    {
+      "name": "blaw-2022-07-30T07:10:38.567437-04:00.jpg",
+      "source": "original",
+      "mtime": "1659179440",
+      "size": "294184",
+      "md5": "916a827725114c04ebe21e8c9884794e",
+      "crc32": "8daad943",
+      "sha1": "212d76816839e93a94f4a0aaf5e2f4b83214fcb4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blaw-2022-07-30T07:10:38.567437-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659179445",
+      "size": "1521",
+      "md5": "839046dc76b6d25d8cbd8ddec6564a5e",
+      "crc32": "07d67e2b",
+      "sha1": "05ecf16e3a47a918a102424bbac95abbf3d4b4a9",
+      "format": "JSON"
+    },
+    {
       "name": "blaw-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e873b91fea2c2827c23afceba3d39c3fdead61fa",
-      "mtime": "1659139369",
-      "size": "10677",
-      "md5": "6cae6c835dfb7b4b851120ae3efdac83",
-      "crc32": "72157bd5",
-      "sha1": "dc2f0558615554c23c08e85536965eb72e1731b4",
+      "btih": "e5ba6f23a6352cee15caad528a18051657df46b9",
+      "mtime": "1659179563",
+      "size": "11696",
+      "md5": "6c4cd7c1d7e7d9fb8e85df8511d60a3e",
+      "crc32": "4b3a4fd2",
+      "sha1": "4a35f42aea18de4c6e94a78a8521b579fd7c3bb2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blaw-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a83618bbab0cc998135e065021d58794",
+      "md5": "7beea7789017b672a3be382071681822",
       "summation": "md5"
     },
     {
       "name": "blaw-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659139335",
-      "size": "69632",
-      "md5": "c3f3afe361de6cd3a4ab03835f62deb2",
-      "crc32": "36bad427",
-      "sha1": "f177f596bce61421641c81f4b93bdd92e6a13f9a",
+      "mtime": "1659179561",
+      "size": "77824",
+      "md5": "f90955a8bd9eab1432644e903dba823e",
+      "crc32": "17787ff5",
+      "sha1": "88f812a45d9a5fa826d434ef38d29d69dcfa3e7f",
       "format": "Metadata"
     },
     {
@@ -511,9 +604,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 49,
-  "item_last_updated": 1659139369,
-  "item_size": 3211105,
+  "files_count": 54,
+  "item_last_updated": 1659179563,
+  "item_size": 3567595,
   "metadata": {
     "identifier": "blaw-2022",
     "collection": [
@@ -535,7 +628,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347555952,
+      "task_id": 3347982861,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -543,7 +636,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 980052014,
+  "uniq": 668853817,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

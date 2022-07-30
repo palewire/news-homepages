@@ -1,5 +1,5 @@
 {
-  "created": 1659140705,
+  "created": 1659184020,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/0/items/laist-2022",
@@ -12273,31 +12273,83 @@
       "format": "JSON"
     },
     {
+      "name": "laist-2022-07-29T11:32:52.929897-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laist-2022-07-29T11:32:52.929897-07:00.jpg",
+      "mtime": "1659149043",
+      "size": "9944",
+      "md5": "dadf01a255641ec3fc0d4ea1f0df5065",
+      "crc32": "2542bdb7",
+      "sha1": "6ebdc3a275041947f8d239cbeb35bc75eb4ebe1b"
+    },
+    {
+      "name": "laist-2022-07-29T19:43:25.416201-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659149008",
+      "size": "31574",
+      "md5": "6f11f550afa7f20fb72208b733e2b64a",
+      "crc32": "580b40d1",
+      "sha1": "269cd60af522cc18e8aec539f5e4d8ecf71b32d0",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-07-29T19:43:25.416201-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659149010",
+      "size": "35418",
+      "md5": "39fc115021c9ac1ba96e7181242e70b6",
+      "crc32": "34a1ac03",
+      "sha1": "c9f41afbc4721c0bdbf82e0f2156ad8e8d65ac4c",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-07-29T19:43:25.416201-07:00.jpg",
+      "source": "original",
+      "mtime": "1659149006",
+      "size": "268326",
+      "md5": "9e0864520ff135ede8796126ce0d3f63",
+      "crc32": "57ad079b",
+      "sha1": "245460206bbe40de9b7f4a0e9b0faa98ee774576",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laist-2022-07-29T19:43:25.416201-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659149011",
+      "size": "1404",
+      "md5": "6842bca0bdb809a47900f626613540b3",
+      "crc32": "229aae10",
+      "sha1": "d055a54fafe1d84357431aa541f68cb8651fcb0b",
+      "format": "JSON"
+    },
+    {
       "name": "laist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e0c86ebd8f231243da21e392393dbf762c5fd71c",
-      "mtime": "1659119656",
-      "size": "244314",
-      "md5": "ef07f8ced0bb46a84e0b3c5fb4a6e258",
-      "crc32": "4f7481df",
-      "sha1": "6602e6edfc7cad0f3b4a74e924de19b1a73c280a",
+      "btih": "d4f9bc538689d31357e3ea58e119f35dc40688e9",
+      "mtime": "1659149092",
+      "size": "245358",
+      "md5": "ec06d42184997bb33fe2487691adceba",
+      "crc32": "5ca719f3",
+      "sha1": "77f20c7355f9c6b49de23a3e61758903fa5c32f2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "laist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "328a8dc4fbba89c34ae2829022e07d9a",
+      "md5": "7e45171bc3ded361f359f7a8b6871a9f",
       "summation": "md5"
     },
     {
       "name": "laist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659119642",
-      "size": "1339392",
-      "md5": "2a60e14ae0f5d54864af53ef6ae2cc83",
-      "crc32": "fb073cef",
-      "sha1": "d9fc881d3105f651e2284722c25b934a7e78cb2c",
+      "mtime": "1659149071",
+      "size": "1343488",
+      "md5": "f0a707a2e55326eae1388616b167a2ec",
+      "crc32": "bf68695e",
+      "sha1": "73e8131a2d71ce4e72b3355206dd4a5cd5a527cc",
       "format": "Metadata"
     },
     {
@@ -12311,17 +12363,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1172,
-  "item_last_updated": 1659119656,
-  "item_size": 109478502,
+  "files_count": 1177,
+  "item_last_updated": 1659149092,
+  "item_size": 109830308,
   "laist-2022": [
     {
       "url": "https://laist.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/laist_com-_-2022_07_29_18_09_24.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/laist_com-_-2022_07_29_18_09_24.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/laist_com-_-2022_07_30_02_19_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/laist_com-_-2022_07_30_02_19_58.report.json",
       "summary": {
-        "performance": 0.24,
+        "performance": 0.27,
         "accessibility": 0.92,
         "best-practices": 1,
         "seo": 0.92,
@@ -12331,10 +12383,10 @@
     {
       "url": "https://laist.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/laist_com-_-2022_07_29_18_09_42.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/laist_com-_-2022_07_29_18_09_42.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/laist_com-_-2022_07_30_02_20_18.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/laist_com-_-2022_07_30_02_20_18.report.json",
       "summary": {
-        "performance": 0.33,
+        "performance": 0.31,
         "accessibility": 0.92,
         "best-practices": 1,
         "seo": 0.92,
@@ -12344,10 +12396,10 @@
     {
       "url": "https://laist.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/laist_com-_-2022_07_29_18_09_04.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/laist_com-_-2022_07_29_18_09_04.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/laist_com-_-2022_07_30_02_20_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/laist_com-_-2022_07_30_02_20_34.report.json",
       "summary": {
-        "performance": 0.25,
+        "performance": 0.3,
         "accessibility": 0.92,
         "best-practices": 1,
         "seo": 0.92,
@@ -12376,7 +12428,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347362968,
+      "task_id": 3347655879,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12384,7 +12436,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1062090478,
+  "uniq": 553388732,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

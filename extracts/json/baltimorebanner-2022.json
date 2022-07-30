@@ -1,5 +1,5 @@
 {
-  "created": 1659139243,
+  "created": 1659179499,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/3/items/baltimorebanner-2022",
@@ -5175,31 +5175,83 @@
       "format": "JSON"
     },
     {
+      "name": "baltimorebanner-2022-07-29T19:59:50.059372-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimorebanner-2022-07-29T19:59:50.059372-04:00.jpg",
+      "mtime": "1659179462",
+      "size": "9373",
+      "md5": "a4bf173a17f4769c625d9ad8d00f4606",
+      "crc32": "82cb70af",
+      "sha1": "7878856f3bea4add3ebd825dbc97149916a4cb1b"
+    },
+    {
+      "name": "baltimorebanner-2022-07-30T07:10:13.361994-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659179419",
+      "size": "35160",
+      "md5": "851b3fbaa0e2c2e445ac0d1961f58f6b",
+      "crc32": "4e36c4f1",
+      "sha1": "3139a469de8a1839b72ef4a66d1dbac4836ccb1c",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-07-30T07:10:13.361994-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659179421",
+      "size": "29007",
+      "md5": "ec22450d8e6ed7594f5bdf94c9714505",
+      "crc32": "07187733",
+      "sha1": "4b83989251d2544a8daf18016a4b1e795c36c6fd",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-07-30T07:10:13.361994-04:00.jpg",
+      "source": "original",
+      "mtime": "1659179418",
+      "size": "294505",
+      "md5": "de71c6b95a539a9f2c007631b5ac9447",
+      "crc32": "47d11ca4",
+      "sha1": "39bf7e334e11cde7d12e478d363ca0e9cc0dc126",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimorebanner-2022-07-30T07:10:13.361994-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659179423",
+      "size": "1567",
+      "md5": "493153101c00681f6823cf9455bb5d6a",
+      "crc32": "2e29d114",
+      "sha1": "5f53142aabb88efd2de88084961dcce67f2a8edd",
+      "format": "JSON"
+    },
+    {
       "name": "baltimorebanner-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f3d89928301654390d02885b8fa795b9501f8eed",
-      "mtime": "1659139240",
-      "size": "108559",
-      "md5": "d1c9e8c72648bed6584fbdc0195b198b",
-      "crc32": "250380f1",
-      "sha1": "066bf7bd2b89ced51caa3780525b49320438a8fe",
+      "btih": "bf584a35a7d8fe8d85c9b5672dfb33b522fe8dc4",
+      "mtime": "1659179491",
+      "size": "109653",
+      "md5": "7bdd3e9b75679a42fb7ecd1a6cf6650a",
+      "crc32": "205edbf5",
+      "sha1": "adc5f11daa3c29080f515dedb007082db04f17c7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimorebanner-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f4d5435b0029f54657687c02cb146d25",
+      "md5": "4f64c64289fc7f5361945035f7da1225",
       "summation": "md5"
     },
     {
       "name": "baltimorebanner-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659139199",
-      "size": "593920",
-      "md5": "549743f00d6486b91065ef12eec8a984",
-      "crc32": "1e7c2c2a",
-      "sha1": "9a488918a16b92c8073c6ad0b051e5044af0559b",
+      "mtime": "1659179486",
+      "size": "598016",
+      "md5": "afdbf08760b257f40f8b16fb328f5a70",
+      "crc32": "9fb916fe",
+      "sha1": "7334fdb61c075a9f3676d7e9368f17e4c46c325f",
       "format": "Metadata"
     },
     {
@@ -5213,9 +5265,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 497,
-  "item_last_updated": 1659139240,
-  "item_size": 37812034,
+  "files_count": 502,
+  "item_last_updated": 1659179491,
+  "item_size": 38186836,
   "metadata": {
     "identifier": "baltimorebanner-2022",
     "collection": [
@@ -5237,7 +5289,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347553167,
+      "task_id": 3347982246,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5245,7 +5297,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1406616965,
+  "uniq": 1991603949,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

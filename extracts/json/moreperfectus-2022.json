@@ -1,5 +1,5 @@
 {
-  "created": 1659140055,
+  "created": 1659184032,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/7/items/moreperfectus-2022",
@@ -1119,31 +1119,83 @@
       "format": "JSON"
     },
     {
+      "name": "moreperfectus-2022-07-29T20:12:34.535492-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "moreperfectus-2022-07-29T20:12:34.535492-04:00.jpg",
+      "mtime": "1659183982",
+      "size": "10406",
+      "md5": "f07b0299da121ed880c3dc2b7ee69a77",
+      "crc32": "6b9a2ca2",
+      "sha1": "1a51e9509e41d90c0e2ad59ff1fe7f616c6b6ca5"
+    },
+    {
+      "name": "moreperfectus-2022-07-30T08:25:14.337015-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659183918",
+      "size": "8122",
+      "md5": "d88754556dda85f2cb4a9a7abd8915b0",
+      "crc32": "461e4e10",
+      "sha1": "bafa4455044ec4ef60414ecd40f93c9dd904e574",
+      "format": "JSON"
+    },
+    {
+      "name": "moreperfectus-2022-07-30T08:25:14.337015-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659183919",
+      "size": "4369",
+      "md5": "c4966620676a9e56eca2fa92032abc50",
+      "crc32": "4e9c1484",
+      "sha1": "b83e6b7d46282042aead502652d3ebf3443c10fe",
+      "format": "JSON"
+    },
+    {
+      "name": "moreperfectus-2022-07-30T08:25:14.337015-04:00.jpg",
+      "source": "original",
+      "mtime": "1659183916",
+      "size": "314764",
+      "md5": "7b0cc90a23dac2e781fd21ef511a5c7d",
+      "crc32": "37bfa0bd",
+      "sha1": "8c2ba361ba3d9fcd15618f0f9153f3cfe56a0c12",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "moreperfectus-2022-07-30T08:25:14.337015-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659183921",
+      "size": "1466",
+      "md5": "b355fd454f115224dae732ac1968e7cc",
+      "crc32": "3b1cf149",
+      "sha1": "5a632c631377af4ed91f4fd496185b706df5c4b8",
+      "format": "JSON"
+    },
+    {
       "name": "moreperfectus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "30eb90f53fee6df5e49f838cd0d9227ed4add137",
-      "mtime": "1659140046",
-      "size": "24489",
-      "md5": "c1583f92e86c7129888402de2a0a2c6a",
-      "crc32": "bb01cb2d",
-      "sha1": "13f4e15b54f69003b8ea42d9b81873584f09c6a0",
+      "btih": "1a48bc0e7fdc29e8e73cb4c06a5bd6dfcee1c5bd",
+      "mtime": "1659184024",
+      "size": "25552",
+      "md5": "c810d11aacfb10a548581b4582bdb5ba",
+      "crc32": "fdcb8a89",
+      "sha1": "6a3c8c69d4ccbbdf499ef0ba71e781b67c975381",
       "format": "Archive BitTorrent"
     },
     {
       "name": "moreperfectus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "848ec9725a92259aec804ec228424aff",
+      "md5": "77c79ab3df0a354364e606c2d3a4bd9c",
       "summation": "md5"
     },
     {
       "name": "moreperfectus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659140043",
-      "size": "155648",
-      "md5": "41278a0184f900317921fcfd19c82f7b",
-      "crc32": "bde9fdfa",
-      "sha1": "f308791e0cbf20c0529045d17fa56d16446e30a2",
+      "mtime": "1659184022",
+      "size": "159744",
+      "md5": "39d07f4db077b9181ff0b22e2ac714a7",
+      "crc32": "038793f8",
+      "sha1": "3a986f7111285b83c34b0ab758e37e3378983de6",
       "format": "Metadata"
     },
     {
@@ -1157,9 +1209,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 111,
-  "item_last_updated": 1659140046,
-  "item_size": 7467148,
+  "files_count": 116,
+  "item_last_updated": 1659184024,
+  "item_size": 7811434,
   "metadata": {
     "identifier": "moreperfectus-2022",
     "collection": [
@@ -1181,7 +1233,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347564918,
+      "task_id": 3348016771,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1189,7 +1241,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1421425996,
+  "uniq": 85001219,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

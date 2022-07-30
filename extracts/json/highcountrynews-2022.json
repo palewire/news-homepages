@@ -1,5 +1,5 @@
 {
-  "created": 1659140576,
+  "created": 1659183904,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/20/items/highcountrynews-2022",
@@ -1825,31 +1825,83 @@
       "format": "JSON"
     },
     {
+      "name": "highcountrynews-2022-07-29T08:39:32.058611-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "highcountrynews-2022-07-29T08:39:32.058611-06:00.jpg",
+      "mtime": "1659141692",
+      "size": "10634",
+      "md5": "c4116133bef3e2f53a51cb204756cdd8",
+      "crc32": "7fe898ab",
+      "sha1": "981dadc0af5746d34d4daee5ca5bae0320e8c18a"
+    },
+    {
+      "name": "highcountrynews-2022-07-29T20:39:56.881399-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659148800",
+      "size": "44463",
+      "md5": "ed12c5ee56384d78cac692ed357da6a2",
+      "crc32": "2967bc88",
+      "sha1": "4ecf8cd40c731873d070f47c9104e76a1930fe4e",
+      "format": "JSON"
+    },
+    {
+      "name": "highcountrynews-2022-07-29T20:39:56.881399-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659148802",
+      "size": "30133",
+      "md5": "bbc7708eb244240efee31ffda3f90d98",
+      "crc32": "bc98313d",
+      "sha1": "65c7abc2c65c73ee8f357dd2b9159de9332cebe4",
+      "format": "JSON"
+    },
+    {
+      "name": "highcountrynews-2022-07-29T20:39:56.881399-06:00.jpg",
+      "source": "original",
+      "mtime": "1659148798",
+      "size": "335447",
+      "md5": "d106006dcae32c36a1ad9c40d712c6ed",
+      "crc32": "068dd225",
+      "sha1": "bb22c15b849075883d3666b61c422e8d8f209100",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "highcountrynews-2022-07-29T20:39:56.881399-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659148803",
+      "size": "1432",
+      "md5": "dcd5d3eeae56c0f633ef25a259da995b",
+      "crc32": "65f95984",
+      "sha1": "38d991531a090029463ef741ff0c509ed7e8bbeb",
+      "format": "JSON"
+    },
+    {
       "name": "highcountrynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6c0bac960b4fd3022c15408d3ef1e9e20e863636",
-      "mtime": "1659105616",
-      "size": "39482",
-      "md5": "3dbc5187e5e0b141682e3ae0e4f4935d",
-      "crc32": "3009dd95",
-      "sha1": "97d692b0d8dc1936d9bc569a62300be45c9443e9",
+      "btih": "9d06e2cde27b9dbb933a3bdc10badccf842c3f1e",
+      "mtime": "1659148844",
+      "size": "40577",
+      "md5": "be5fb159a572d6161150a36dbd58c7df",
+      "crc32": "326f67b3",
+      "sha1": "21aeab02bd36deb4d817bb13fabdabe2e3d8e2c6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "highcountrynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8802c2bc60ffbc1df40da4346d80e068",
+      "md5": "c4721ee472630ef80362f210948a7251",
       "summation": "md5"
     },
     {
       "name": "highcountrynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659105581",
-      "size": "229376",
-      "md5": "9f323feb43d928bfa4f0ce41a5ceeb6e",
-      "crc32": "db66c7bd",
-      "sha1": "4ca8d832ba2c8d8385c2d8f39406c98f399f1646",
+      "mtime": "1659148808",
+      "size": "233472",
+      "md5": "cfda69ee3796a3d1b877a6bf42d442ba",
+      "crc32": "572ea77e",
+      "sha1": "1bf6e7ec10b4b5a37969ee0c25cbe8356497b68b",
       "format": "Metadata"
     },
     {
@@ -1863,15 +1915,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 178,
+  "files_count": 183,
   "highcountrynews-2022": [
     {
       "url": "https://www.hcn.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hcn_org-_-2022_07_29_14_16_00.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hcn_org-_-2022_07_29_14_16_00.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hcn_org-_-2022_07_30_02_16_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hcn_org-_-2022_07_30_02_16_26.report.json",
       "summary": {
-        "performance": 0.39,
+        "performance": 0.24,
         "accessibility": 0.72,
         "best-practices": 0.92,
         "seo": 0.84,
@@ -1881,10 +1933,10 @@
     {
       "url": "https://www.hcn.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hcn_org-_-2022_07_29_14_16_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hcn_org-_-2022_07_29_14_16_17.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hcn_org-_-2022_07_30_02_16_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hcn_org-_-2022_07_30_02_16_43.report.json",
       "summary": {
-        "performance": 0.37,
+        "performance": 0.38,
         "accessibility": 0.72,
         "best-practices": 0.92,
         "seo": 0.84,
@@ -1894,10 +1946,10 @@
     {
       "url": "https://www.hcn.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hcn_org-_-2022_07_29_14_15_42.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hcn_org-_-2022_07_29_14_15_42.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hcn_org-_-2022_07_30_02_16_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hcn_org-_-2022_07_30_02_16_59.report.json",
       "summary": {
-        "performance": 0.33,
+        "performance": 0.36,
         "accessibility": 0.72,
         "best-practices": 0.92,
         "seo": 0.84,
@@ -1905,8 +1957,8 @@
       }
     }
   ],
-  "item_last_updated": 1659105616,
-  "item_size": 17219766,
+  "item_last_updated": 1659148844,
+  "item_size": 17647066,
   "metadata": {
     "identifier": "highcountrynews-2022",
     "collection": [
@@ -1928,7 +1980,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347228830,
+      "task_id": 3347653115,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1936,7 +1988,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1998337591,
+  "uniq": 1628390670,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

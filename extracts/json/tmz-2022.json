@@ -1,5 +1,5 @@
 {
-  "created": 1659139808,
+  "created": 1659184496,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/tmz-2022",
@@ -1186,31 +1186,72 @@
       "sha1": "1cff119dd4a12aa9aa2d7c251d141a5fcb50ac9a"
     },
     {
+      "name": "tmz-2022-07-29T18:24:22.124766-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659144265",
+      "size": "80819",
+      "md5": "c2c092817034769f7089f4834a74aba0",
+      "crc32": "9fc2665c",
+      "sha1": "934b9924391cf35df9f86f03258ee86929a4c35d",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-07-29T18:24:22.124766-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659144267",
+      "size": "69335",
+      "md5": "20f13483b3e7439972d4f0149a59c986",
+      "crc32": "e20a36e8",
+      "sha1": "56f3fd236bb377a6f872e0c2266651cdd6e31100",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-07-29T18:24:22.124766-07:00.jpg",
+      "source": "original",
+      "mtime": "1659144264",
+      "size": "286250",
+      "md5": "8b02d6dc423ee1c8e4a1de26b3028f08",
+      "crc32": "5d9addb5",
+      "sha1": "b99d8241500dc338437baab6ff5c1d013f1656cc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tmz-2022-07-29T18:24:22.124766-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659144268",
+      "size": "1429",
+      "md5": "7e61910d641bdfaabd831681dde34303",
+      "crc32": "346beed1",
+      "sha1": "52b5f799bcef2e5dee7faa8c8e88d4c8ae106170",
+      "format": "JSON"
+    },
+    {
       "name": "tmz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ba50ef1560b385861e01e50b8da2c0a7c86d12e9",
-      "mtime": "1659139748",
-      "size": "24669",
-      "md5": "8758088495ecbbc190956de542adedf7",
-      "crc32": "030d644f",
-      "sha1": "cabc7bdce1d9501e399d5bb99413da27aa6b2f58",
+      "btih": "158f644963f1b62323c132f8dba9de9028c05945",
+      "mtime": "1659144311",
+      "size": "25504",
+      "md5": "667ee0b318890e729f2cda62702428f7",
+      "crc32": "91ac4621",
+      "sha1": "53bc01f76bcb66697003ddfbc65d813cfdfb4427",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tmz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "14e5f167d65663280bf6d82dce0b5c7c",
+      "md5": "e946180c0a4e1559a8b48157ad6f3fe2",
       "summation": "md5"
     },
     {
       "name": "tmz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659101750",
-      "size": "155648",
-      "md5": "4a89fef0c3f162795334e1e8f1ac50f3",
-      "crc32": "1f08bae4",
-      "sha1": "a593c461e5d65ff4665ee307a5200acb34c675b0",
+      "mtime": "1659144275",
+      "size": "163840",
+      "md5": "be41a77e369d99ac9dc367a6399845b5",
+      "crc32": "63307d7c",
+      "sha1": "65c9bb665f553789a85c4b1e06fdf8ecac626f14",
       "format": "Metadata"
     },
     {
@@ -1224,9 +1265,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 117,
-  "item_last_updated": 1659139748,
-  "item_size": 10423976,
+  "files_count": 121,
+  "item_last_updated": 1659144311,
+  "item_size": 10870836,
   "metadata": {
     "identifier": "tmz-2022",
     "collection": [
@@ -1243,10 +1284,62 @@
     "publicdate": "2022-07-18 04:19:31",
     "addeddate": "2022-07-18 04:19:31"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1206325016,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3347606709,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "tmz-2022": [
+    {
+      "url": "https://www.tmz.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tmz_com-_-2022_07_30_01_05_16.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tmz_com-_-2022_07_30_01_05_16.report.json",
+      "summary": {
+        "performance": 0.19,
+        "accessibility": 0.8,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.tmz.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tmz_com-_-2022_07_30_01_05_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tmz_com-_-2022_07_30_01_05_37.report.json",
+      "summary": {
+        "performance": 0.19,
+        "accessibility": 0.8,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.tmz.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tmz_com-_-2022_07_30_01_04_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tmz_com-_-2022_07_30_01_04_56.report.json",
+      "summary": {
+        "performance": 0.19,
+        "accessibility": 0.8,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "uniq": 1152806790,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

@@ -1,5 +1,6 @@
 {
-  "created": 1659140195,
+  "conflict": 1659184152,
+  "created": 1659184152,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/26/items/pointreyeslight-2022",
@@ -3537,6 +3538,12 @@
       "format": "JSON"
     },
     {
+      "name": "pointreyeslight-2022-07-29T17:15:38.548130-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pointreyeslight-2022-07-29T17:15:38.548130-07:00.jpg"
+    },
+    {
       "name": "pointreyeslight-2022_archive.torrent",
       "source": "metadata",
       "btih": "aa88925a595e88dc10095d53c46fb2a8800f46d0",
@@ -3575,7 +3582,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 341,
+  "files_count": 342,
   "item_last_updated": 1659140191,
   "item_size": 21896338,
   "metadata": {
@@ -3602,12 +3609,44 @@
       "task_id": 3347566252,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3348017213,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348017230,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348017241,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348017256,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 495451734,
+  "uniq": 56486550,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

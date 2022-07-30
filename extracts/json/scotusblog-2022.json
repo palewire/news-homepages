@@ -1,5 +1,6 @@
 {
-  "created": 1659140335,
+  "conflict": 1659184285,
+  "created": 1659184285,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/5/items/scotusblog-2022",
@@ -3703,6 +3704,17 @@
       "format": "JSON"
     },
     {
+      "name": "scotusblog-2022-07-29T20:17:39.830319-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scotusblog-2022-07-29T20:17:39.830319-04:00.jpg",
+      "mtime": "1659184274",
+      "size": "10118",
+      "md5": "0300447d8aeec30ca23abd9e7454f1f1",
+      "crc32": "87000c3a",
+      "sha1": "455cd3d3d48424be2f3bb1020d28442d6c1172b4"
+    },
+    {
       "name": "scotusblog-2022_archive.torrent",
       "source": "metadata",
       "btih": "9d98f59360be72b23fe397e71dfba7522b004195",
@@ -3717,7 +3729,7 @@
       "name": "scotusblog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "90ec8ef0dba94f621838486dea6aabf0",
+      "md5": "765771eac389364ee5e3ac360ad3a320",
       "summation": "md5"
     },
     {
@@ -3741,9 +3753,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 357,
-  "item_last_updated": 1659140331,
-  "item_size": 33969605,
+  "files_count": 358,
+  "item_last_updated": 1659184274,
+  "item_size": 33979723,
   "metadata": {
     "identifier": "scotusblog-2022",
     "collection": [
@@ -3768,12 +3780,52 @@
       "task_id": 3347567271,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3348018577,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348018605,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348018622,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348018633,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348018960,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1968723655,
+  "uniq": 571400629,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

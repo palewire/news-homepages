@@ -1,5 +1,5 @@
 {
-  "created": 1659119880,
+  "created": 1659184190,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/19/items/ocregister-2022",
@@ -12283,31 +12283,83 @@
       "format": "JSON"
     },
     {
+      "name": "ocregister-2022-07-29T11:33:26.971552-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocregister-2022-07-29T11:33:26.971552-07:00.jpg",
+      "mtime": "1659153088",
+      "size": "9271",
+      "md5": "9246b285e451ac2841e37e2a7f49ec9c",
+      "crc32": "c6af05f8",
+      "sha1": "c4b645baaf2052162a0f72241ec3eaca40370f3a"
+    },
+    {
+      "name": "ocregister-2022-07-29T20:49:37.202472-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659152986",
+      "size": "38411",
+      "md5": "c2807002cd2901d8cfc0c9c5ccd50c74",
+      "crc32": "2a66952e",
+      "sha1": "924acf73d2f4bd433bb039c6d6d04ba435be45d7",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-07-29T20:49:37.202472-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659152988",
+      "size": "47510",
+      "md5": "930daeb1c46b1da8d21681873e2da0fe",
+      "crc32": "182cb8fc",
+      "sha1": "ee1dc6201ed50a3e855f2f55bff29f401ec07d2e",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-07-29T20:49:37.202472-07:00.jpg",
+      "source": "original",
+      "mtime": "1659152984",
+      "size": "272571",
+      "md5": "eefd573f0fb4eb276d5079a790ba08b7",
+      "crc32": "98abe8cf",
+      "sha1": "8a0dbb6696c6c16cee48ce5eb429309a06f8e077",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocregister-2022-07-29T20:49:37.202472-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659152989",
+      "size": "1495",
+      "md5": "aaf1337cc2dca216352d939535cc63d6",
+      "crc32": "0bb032bd",
+      "sha1": "c41a8fa90917f6feaa8d1bab1e76d6a5416376a0",
+      "format": "JSON"
+    },
+    {
       "name": "ocregister-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ce0178e381d9ed0d4c83c85542553a52d4a1084b",
-      "mtime": "1659119871",
-      "size": "250915",
-      "md5": "3e77fad3f88b5f4e7e348014642d1b4c",
-      "crc32": "7063851a",
-      "sha1": "289ffb42a1937c0428f9775d87d5d623024ff6aa",
+      "btih": "9807bae850980652e0c242bd5c0854421a1e43cc",
+      "mtime": "1659153180",
+      "size": "251984",
+      "md5": "f5428edff3781d763f9574e376a9068a",
+      "crc32": "28fc682c",
+      "sha1": "630b7be2f3733e1673736ec07d8fe1a1627d8241",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ocregister-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "307e3c4aabe62347b6e631be69062132",
+      "md5": "022095009220140eb0548064120090e8",
       "summation": "md5"
     },
     {
       "name": "ocregister-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659119852",
-      "size": "1351680",
-      "md5": "b1aca8f292687bcd1737503d6f9340d0",
-      "crc32": "b0522000",
-      "sha1": "dd7b74c48b79694e2ff87c2990ada242a75cc790",
+      "mtime": "1659153165",
+      "size": "1359872",
+      "md5": "999fa8c769f7fb6790857e191b694463",
+      "crc32": "b73091ce",
+      "sha1": "865d7e699c577919492bfb05fca86e42ae6b4147",
       "format": "Metadata"
     },
     {
@@ -12321,9 +12373,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1173,
-  "item_last_updated": 1659119871,
-  "item_size": 130048261,
+  "files_count": 1178,
+  "item_last_updated": 1659153180,
+  "item_size": 130426780,
   "metadata": {
     "identifier": "ocregister-2022",
     "collection": [
@@ -12340,12 +12392,53 @@
     "publicdate": "2022-03-23 02:09:14",
     "addeddate": "2022-03-23 02:09:14"
   },
+  "ocregister-2022": [
+    {
+      "url": "https://www.ocregister.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ocregister_com-_-2022_07_30_03_23_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ocregister_com-_-2022_07_30_03_23_31.report.json",
+      "summary": {
+        "performance": 0.06,
+        "accessibility": 0.84,
+        "best-practices": 0.92,
+        "seo": 0.84,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.ocregister.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ocregister_com-_-2022_07_30_03_24_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ocregister_com-_-2022_07_30_03_24_31.report.json",
+      "summary": {
+        "performance": 0.06,
+        "accessibility": 0.84,
+        "best-practices": 0.92,
+        "seo": 0.84,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.ocregister.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ocregister_com-_-2022_07_30_03_24_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ocregister_com-_-2022_07_30_03_24_01.report.json",
+      "summary": {
+        "performance": 0.06,
+        "accessibility": 0.84,
+        "best-practices": 0.92,
+        "seo": 0.84,
+        "pwa": 0.4
+      }
+    }
+  ],
   "pending_tasks": true,
   "server": "ia902502.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347364802,
+      "task_id": 3347693042,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12353,7 +12446,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1059686306,
+  "uniq": 1882467305,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659110006,
+  "created": 1659165629,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/publicintegrity-2022",
@@ -5079,31 +5079,83 @@
       "format": "JSON"
     },
     {
+      "name": "publicintegrity-2022-07-29T11:52:26.986165-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicintegrity-2022-07-29T11:52:26.986165-04:00.jpg",
+      "mtime": "1659145370",
+      "size": "9852",
+      "md5": "9c3c3e7e051aa658835d2333ba1ad09f",
+      "crc32": "58087464",
+      "sha1": "dc53c0ac117fa3f6ad3c1e38b544f73bddf1e7ae"
+    },
+    {
+      "name": "publicintegrity-2022-07-29T23:51:09.189432-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659153074",
+      "size": "20942",
+      "md5": "8a49aaadadcf7f17f6a1daf463cfb276",
+      "crc32": "8ebf44f7",
+      "sha1": "4f3cb3e117ac221f856f44311e16413d332ee43e",
+      "format": "JSON"
+    },
+    {
+      "name": "publicintegrity-2022-07-29T23:51:09.189432-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659153075",
+      "size": "24929",
+      "md5": "f38338ebf227d64fe0354521e516df4f",
+      "crc32": "b8dd6ff0",
+      "sha1": "0dcfc92e5f7030dd64de27c8841e26d523a20c4f",
+      "format": "JSON"
+    },
+    {
+      "name": "publicintegrity-2022-07-29T23:51:09.189432-04:00.jpg",
+      "source": "original",
+      "mtime": "1659153072",
+      "size": "282370",
+      "md5": "6f3457372851387a9a913371895c3366",
+      "crc32": "0da4e4f9",
+      "sha1": "91d457635661c0c16675f5dbf12213780d539021",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "publicintegrity-2022-07-29T23:51:09.189432-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659153077",
+      "size": "1495",
+      "md5": "1402be04549d7e48e3b27ac6e2b61a5b",
+      "crc32": "29628ee8",
+      "sha1": "6c12cdd256e88ec934fe031416b208d5e638c69e",
+      "format": "JSON"
+    },
+    {
       "name": "publicintegrity-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c0bd4a08de5ec24970c56ab0a081b74d10c410b2",
-      "mtime": "1659110001",
-      "size": "106914",
-      "md5": "548e4f2abae3e219bb961d1fc069f230",
-      "crc32": "15496d23",
-      "sha1": "fb8f3697908e9b1d22209f38851d7561c72cd04e",
+      "btih": "f7166adc9d7b377be2e410214ef93aa15428b33f",
+      "mtime": "1659153133",
+      "size": "108008",
+      "md5": "4303168e989d62ff3f0455031996bb35",
+      "crc32": "9c8b5c49",
+      "sha1": "3a673b548f3ace221ac3cc6fec297c9f1877b28a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "publicintegrity-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1e9729ce5636b889a03493132bdffa18",
+      "md5": "3e6ad875a0af5d30a2902998f4a68f0e",
       "summation": "md5"
     },
     {
       "name": "publicintegrity-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659109961",
-      "size": "585728",
-      "md5": "438c6c7bcbbed99ef2b617d045eef879",
-      "crc32": "981010e9",
-      "sha1": "39500771210be283963953abd964c60d48902bf3",
+      "mtime": "1659153095",
+      "size": "589824",
+      "md5": "a67957efcc67f2f0ec47cc180bc9ddd3",
+      "crc32": "dbad7eac",
+      "sha1": "3ac202a12fc29dd1c58018b95e6b9fcfff1654ed",
       "format": "Metadata"
     },
     {
@@ -5117,9 +5169,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 488,
-  "item_last_updated": 1659110001,
-  "item_size": 42919443,
+  "files_count": 493,
+  "item_last_updated": 1659153133,
+  "item_size": 43264221,
   "metadata": {
     "identifier": "publicintegrity-2022",
     "collection": [
@@ -5141,7 +5193,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347269074,
+      "task_id": 3347692608,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5149,7 +5201,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 496811466,
+  "uniq": 289450000,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

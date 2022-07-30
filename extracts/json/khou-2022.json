@@ -1,5 +1,6 @@
 {
-  "created": 1659139852,
+  "conflict": 1659183953,
+  "created": 1659183953,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/31/items/khou-2022",
@@ -1217,6 +1218,17 @@
       "format": "JSON"
     },
     {
+      "name": "khou-2022-07-29T19:09:57.870312-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "khou-2022-07-29T19:09:57.870312-05:00.jpg",
+      "mtime": "1659183946",
+      "size": "9458",
+      "md5": "a6909895c5d26a49e16b118f64f7dbb3",
+      "crc32": "f8076d15",
+      "sha1": "2a1abbf65f6129cadc115a108b4b44ef560fd10b"
+    },
+    {
       "name": "khou-2022_archive.torrent",
       "source": "metadata",
       "btih": "730731efa3328f6e0897402f8fec3a6ee3f01fbb",
@@ -1231,7 +1243,7 @@
       "name": "khou-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0c6f881d028289c55f923eddcdfabdc6",
+      "md5": "8bb4febd16b768a1c92338aa32e66ca3",
       "summation": "md5"
     },
     {
@@ -1255,9 +1267,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 120,
-  "item_last_updated": 1659139845,
-  "item_size": 9515043,
+  "files_count": 121,
+  "item_last_updated": 1659183946,
+  "item_size": 9524501,
   "metadata": {
     "identifier": "khou-2022",
     "collection": [
@@ -1282,12 +1294,52 @@
       "task_id": 3347563245,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3348014492,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348014502,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348014514,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348014526,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348016175,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1420887196,
+  "uniq": 1560112105,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

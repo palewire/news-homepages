@@ -1,5 +1,5 @@
 {
-  "created": 1659139341,
+  "created": 1659179519,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/9/items/avlwatchdog-2022",
@@ -2045,31 +2045,83 @@
       "format": "JSON"
     },
     {
+      "name": "avlwatchdog-2022-07-29T20:00:58.627619-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "avlwatchdog-2022-07-29T20:00:58.627619-04:00.jpg",
+      "mtime": "1659179490",
+      "size": "9966",
+      "md5": "7b6687715622e30c3d950df00526dfce",
+      "crc32": "16dd8726",
+      "sha1": "351e8e0aa390dcbe01473dcf22a38bea8db3ccd2"
+    },
+    {
+      "name": "avlwatchdog-2022-07-30T07:10:21.127357-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659179426",
+      "size": "54896",
+      "md5": "621bfbafe176b7a5d02205b78a1f5a9a",
+      "crc32": "0134f4ed",
+      "sha1": "890a871a360170217c42ca9968b8f297f4553889",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-07-30T07:10:21.127357-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659179427",
+      "size": "19301",
+      "md5": "3c968230256927fede286493d18d0101",
+      "crc32": "d414eba7",
+      "sha1": "082ca80b579bd7f167b371658ab94d3ba96c6b40",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-07-30T07:10:21.127357-04:00.jpg",
+      "source": "original",
+      "mtime": "1659179424",
+      "size": "315624",
+      "md5": "c2fd436e870e7dfd3ada60863e8d44a3",
+      "crc32": "64bd045f",
+      "sha1": "3a064f145b40262faf0d718a7df1657ba9d61c7e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "avlwatchdog-2022-07-30T07:10:21.127357-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659179429",
+      "size": "1468",
+      "md5": "d24a3f706e2609d090f2f4463ad76b3f",
+      "crc32": "68d7d620",
+      "sha1": "aa71b82ea8079ba278d390a0958c6bffd2baeb23",
+      "format": "JSON"
+    },
+    {
       "name": "avlwatchdog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6fcd175dbc8165838fa8a1a8c90756e09cf44b77",
-      "mtime": "1659139339",
-      "size": "43252",
-      "md5": "bb00ce4efcb4a49b0e3e3f4e0662b536",
-      "crc32": "c2af1481",
-      "sha1": "8fdf49de17c4c07119e50ed85561bc3f1e5a9935",
+      "btih": "546fae7c8ee616b8db98d2a98d148f8004e0d48c",
+      "mtime": "1659179513",
+      "size": "44326",
+      "md5": "33a3ff94e44d127efebf8c0193db4d7d",
+      "crc32": "ef172557",
+      "sha1": "356220885150fe5039386f0f7934d9f0055d6fa7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "avlwatchdog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8c41ab6b46529369da347ea3dbd073d7",
+      "md5": "ef735f978225852c87f3673c64f2b6e9",
       "summation": "md5"
     },
     {
       "name": "avlwatchdog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659139303",
-      "size": "249856",
-      "md5": "95bbf74dd855d0a4f40eb4cf72e9fd2b",
-      "crc32": "625beabd",
-      "sha1": "2296760358614253bbdecd523495d206b66bf7e1",
+      "mtime": "1659179511",
+      "size": "262144",
+      "md5": "9cd4cf60a6ca588b7342dafea1e04c88",
+      "crc32": "b62e4686",
+      "sha1": "936f30a3b0cb08ce1c3b97a0d93be896b0da353d",
       "format": "Metadata"
     },
     {
@@ -2083,9 +2135,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 199,
-  "item_last_updated": 1659139339,
-  "item_size": 19046427,
+  "files_count": 204,
+  "item_last_updated": 1659179513,
+  "item_size": 19461044,
   "metadata": {
     "identifier": "avlwatchdog-2022",
     "collection": [
@@ -2107,7 +2159,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347555339,
+      "task_id": 3347982439,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2115,7 +2167,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1023814445,
+  "uniq": 961062710,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]

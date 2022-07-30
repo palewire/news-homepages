@@ -1,5 +1,5 @@
 {
-  "created": 1659139672,
+  "created": 1659180079,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/21/items/fortunemagazine-2022",
@@ -4481,31 +4481,83 @@
       "format": "JSON"
     },
     {
+      "name": "fortunemagazine-2022-07-29T20:06:34.720696-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-07-29T20:06:34.720696-04:00.jpg",
+      "mtime": "1659179949",
+      "size": "8809",
+      "md5": "040310de8dc094c160153b4303e6e24b",
+      "crc32": "d05495a6",
+      "sha1": "058a82e7e6ece79aa45cdb4f2e2df9c51f89972d"
+    },
+    {
+      "name": "fortunemagazine-2022-07-30T07:16:11.659429-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659179774",
+      "size": "71206",
+      "md5": "88d433033dfbfb8c3e02145858cf08bd",
+      "crc32": "5b89baac",
+      "sha1": "961040121b46c0ee5448af42c4dab75713d2d625",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-07-30T07:16:11.659429-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659179776",
+      "size": "53878",
+      "md5": "4eaa05b472ed8d2e1ee5234d956f4432",
+      "crc32": "25345fbf",
+      "sha1": "cf21ef8d824c7735eef3b8e83efd4318477ccf09",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-07-30T07:16:11.659429-04:00.jpg",
+      "source": "original",
+      "mtime": "1659179773",
+      "size": "257124",
+      "md5": "5f7f8ea8e83ef95c1f0f9a64c3bd7e08",
+      "crc32": "243ba884",
+      "sha1": "b25e20e0246f624cca40b469ce22718fb02f0adf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-07-30T07:16:11.659429-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659179777",
+      "size": "1423",
+      "md5": "2f6926461a6ebd4d9b54f4cecc8904de",
+      "crc32": "5f8cba0b",
+      "sha1": "3f77bf81af83c3f7f1c6c8657b03e83337dc71b4",
+      "format": "JSON"
+    },
+    {
       "name": "fortunemagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d490d56e088503f8dfb97aa469eb13d2dcb99687",
-      "mtime": "1659139665",
-      "size": "94738",
-      "md5": "721a5ad76e86a7bf54c97933efb065eb",
-      "crc32": "c714a0eb",
-      "sha1": "953757c5639ea0af65e5b19554f4485488533aeb",
+      "btih": "9ae9fc92362d8a4ca541b3e76b094bda74137c1c",
+      "mtime": "1659180071",
+      "size": "95832",
+      "md5": "8027543948fb446e408834a19aadc887",
+      "crc32": "a07872ff",
+      "sha1": "d31726a41432a3f8f32038dc4bc1a254d4162b19",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fortunemagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7190af2d84198ea3edffd74d9d0ccc58",
+      "md5": "03c3bdda292a801ad0bace0a6537ef49",
       "summation": "md5"
     },
     {
       "name": "fortunemagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659139615",
-      "size": "516096",
-      "md5": "5cf42a035b621f1fbf2cf7ca6e8fe458",
-      "crc32": "6dbe21a1",
-      "sha1": "a3ec401fa15969823d3ed555581500e055112272",
+      "mtime": "1659180063",
+      "size": "524288",
+      "md5": "e65a0ead3f75f4e356308400ade31475",
+      "crc32": "28573473",
+      "sha1": "96da7ddbf2b3eddf65af89ba6d4a3b95b9545f29",
       "format": "Metadata"
     },
     {
@@ -4519,9 +4571,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 431,
-  "item_last_updated": 1659139665,
-  "item_size": 45672198,
+  "files_count": 436,
+  "item_last_updated": 1659180071,
+  "item_size": 46073924,
   "metadata": {
     "identifier": "fortunemagazine-2022",
     "collection": [
@@ -4543,7 +4595,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347561252,
+      "task_id": 3347986686,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4551,7 +4603,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 855120757,
+  "uniq": 597214109,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

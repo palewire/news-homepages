@@ -1,5 +1,5 @@
 {
-  "created": 1659140071,
+  "created": 1659184018,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/35/items/littlevillage-2022",
@@ -4217,31 +4217,83 @@
       "format": "JSON"
     },
     {
+      "name": "littlevillage-2022-07-29T19:11:18.751158-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "littlevillage-2022-07-29T19:11:18.751158-05:00.jpg",
+      "mtime": "1659183939",
+      "size": "9492",
+      "md5": "97901cebd295303b23f2936b2e492033",
+      "crc32": "cfd8f009",
+      "sha1": "e8b3393cfae5f05b95673158e096c36a10c814e1"
+    },
+    {
+      "name": "littlevillage-2022-07-30T07:23:38.844303-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659183827",
+      "size": "30584",
+      "md5": "66f75584a136dc36fd586c210442091b",
+      "crc32": "f10dd3db",
+      "sha1": "20350d250b55bcdc5ec2439a2fd5267a6664aa1a",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-07-30T07:23:38.844303-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659183829",
+      "size": "38822",
+      "md5": "4051c18dafe73e3e274bcea8e0ea6c48",
+      "crc32": "c0d74123",
+      "sha1": "9d3ed35cea9964f74c77fd26aa6c81b0ae371132",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-07-30T07:23:38.844303-05:00.jpg",
+      "source": "original",
+      "mtime": "1659183820",
+      "size": "309584",
+      "md5": "02f769596558c3b4fc709b8df117c623",
+      "crc32": "7d1fc25c",
+      "sha1": "d9341fb232821f067e3b32da2b30332f742af113",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "littlevillage-2022-07-30T07:23:38.844303-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659183830",
+      "size": "1510",
+      "md5": "1c0a7efe3126525d025fc5d8fba5903a",
+      "crc32": "8d2ab51e",
+      "sha1": "b1c636865276b105aa1d73798909337d3afd3f42",
+      "format": "JSON"
+    },
+    {
       "name": "littlevillage-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eed767354477e535706690386945ee78687d4073",
-      "mtime": "1659140059",
-      "size": "88284",
-      "md5": "f4c1192d60b7a133f9c48e9605fd4484",
-      "crc32": "03db9efb",
-      "sha1": "9de1bd54c5747e9521dd7b6112ba95010c023f7d",
+      "btih": "fc45b84ddc278af6a9803f731139ad59133f7ef5",
+      "mtime": "1659184008",
+      "size": "89348",
+      "md5": "262a775259167a464bbe152681cfe3dd",
+      "crc32": "337bdfd2",
+      "sha1": "9643f75521ba23bcb30758627b40860b10f8b710",
       "format": "Archive BitTorrent"
     },
     {
       "name": "littlevillage-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "28c98989742ee147c052ffcac67f0604",
+      "md5": "74e9f09fd264d96d52f8837bd8610942",
       "summation": "md5"
     },
     {
       "name": "littlevillage-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659140054",
-      "size": "491520",
-      "md5": "dc1d40b0dec9aca200925dffd2713af5",
-      "crc32": "8a8a30d3",
-      "sha1": "08288056904ee394e7deb954c357dd47ec242ec5",
+      "mtime": "1659184003",
+      "size": "499712",
+      "md5": "5b680d83cd7306da2b5006fdcc5c52c9",
+      "crc32": "3aa963d9",
+      "sha1": "8678d015e1d22076757daa96f2928a0067d0e1f8",
       "format": "Metadata"
     },
     {
@@ -4255,9 +4307,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 406,
-  "item_last_updated": 1659140059,
-  "item_size": 37891639,
+  "files_count": 411,
+  "item_last_updated": 1659184008,
+  "item_size": 38290887,
   "metadata": {
     "identifier": "littlevillage-2022",
     "collection": [
@@ -4279,7 +4331,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347565093,
+      "task_id": 3348016635,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4287,7 +4339,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 658528651,
+  "uniq": 498455682,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

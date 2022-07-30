@@ -1,5 +1,6 @@
 {
-  "created": 1659140301,
+  "conflict": 1659184296,
+  "created": 1659184296,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/15/items/shillsalmanac-2022",
@@ -443,6 +444,17 @@
       "format": "JSON"
     },
     {
+      "name": "shillsalmanac-2022-07-29T20:17:36.337384-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shillsalmanac-2022-07-29T20:17:36.337384-04:00.jpg",
+      "mtime": "1659184255",
+      "size": "9145",
+      "md5": "170742d1be124b5ed1fb4015ad75a696",
+      "crc32": "dec079da",
+      "sha1": "ef4c9117ae4e67c6461b853255824abae058829b"
+    },
+    {
       "name": "shillsalmanac-2022_archive.torrent",
       "source": "metadata",
       "btih": "be1a67e65ecae52b657bd0ca8ee9c21c80f1ebc1",
@@ -457,7 +469,7 @@
       "name": "shillsalmanac-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "abdf292e9bb0f5aba793bd18862dd867",
+      "md5": "098ef8be2647db65f361d8211aaf6538",
       "summation": "md5"
     },
     {
@@ -481,9 +493,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 46,
-  "item_last_updated": 1659140299,
-  "item_size": 3063284,
+  "files_count": 47,
+  "item_last_updated": 1659184255,
+  "item_size": 3072429,
   "metadata": {
     "identifier": "shillsalmanac-2022",
     "collection": [
@@ -508,12 +520,52 @@
       "task_id": 3347567066,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3348018272,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348018285,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348018304,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348018315,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348019095,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1990483040,
+  "uniq": 567847101,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659139749,
+  "created": 1659144174,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/7/items/texasmonthly-2022",
@@ -2362,31 +2362,72 @@
       "sha1": "4c3066dc6426a9a0e480bf7fb75c7f4664bf3600"
     },
     {
+      "name": "texasmonthly-2022-07-29T20:21:58.178017-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659144121",
+      "size": "57352",
+      "md5": "7bb51c4f044156cce060ffc771841d49",
+      "crc32": "57d7fec4",
+      "sha1": "2405c5fff740338250f37f20c3e21ae132be0c13",
+      "format": "JSON"
+    },
+    {
+      "name": "texasmonthly-2022-07-29T20:21:58.178017-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659144126",
+      "size": "61715",
+      "md5": "38bd182e8612ef1d92784eba9be0ca7d",
+      "crc32": "db3a3c9c",
+      "sha1": "4e869b8cdc6a840d9158ce0988fdc8adbc1a9f63",
+      "format": "JSON"
+    },
+    {
+      "name": "texasmonthly-2022-07-29T20:21:58.178017-05:00.jpg",
+      "source": "original",
+      "mtime": "1659144119",
+      "size": "322884",
+      "md5": "0f74585edf4c0084e132d4f06f8b761a",
+      "crc32": "2a470058",
+      "sha1": "2448658352cec3d2a44a8ca168ee80cfab7e6cc7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "texasmonthly-2022-07-29T20:21:58.178017-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659144128",
+      "size": "1510",
+      "md5": "05959c703ff81a3f682ddd85eeabb6cd",
+      "crc32": "d864a176",
+      "sha1": "3f74ca97b629d4acda5909526440ad003649cfb2",
+      "format": "JSON"
+    },
+    {
       "name": "texasmonthly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "91e06a0daeb4f3ada12350f5ba372b9b256f5b84",
-      "mtime": "1659139666",
-      "size": "49914",
-      "md5": "0dc119e8883eebd83fdde2c8dc75e5fe",
-      "crc32": "42407405",
-      "sha1": "9e0205f39d353cfbe6530b6ea44b51bf3efa19f8",
+      "btih": "070a02ddce03415cc9b7ec68e33011b1d78bd5ec",
+      "mtime": "1659144172",
+      "size": "50785",
+      "md5": "55f961f0ed9b783dda6139957e1b766d",
+      "crc32": "f7d41272",
+      "sha1": "b1753298097bca6d7a83e8961fcb9919d10a86c9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texasmonthly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "20938d734b65db6c28edad8710febef5",
+      "md5": "73af5abba3228086655d29e0ab490330",
       "summation": "md5"
     },
     {
       "name": "texasmonthly-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659101633",
-      "size": "282624",
-      "md5": "daa853cd82f8c151e54c8d681026907c",
-      "crc32": "801cac64",
-      "sha1": "8e22c4caf93b8f607e8565d1e0c2cd5c7b1ce9a8",
+      "mtime": "1659144132",
+      "size": "290816",
+      "md5": "afb8c72769a0afb80aedf95d2c9c7743",
+      "crc32": "7fb67245",
+      "sha1": "d788ed9a8bbf60767e3611f14d318f1f4b78f82a",
       "format": "Metadata"
     },
     {
@@ -2400,9 +2441,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 229,
-  "item_last_updated": 1659139666,
-  "item_size": 22981532,
+  "files_count": 233,
+  "item_last_updated": 1659144172,
+  "item_size": 23434056,
   "metadata": {
     "identifier": "texasmonthly-2022",
     "collection": [
@@ -2419,10 +2460,21 @@
     "publicdate": "2022-07-04 21:45:38",
     "addeddate": "2022-07-04 21:45:38"
   },
-  "server": "ia802509.us.archive.org",
-  "uniq": 931543907,
+  "pending_tasks": true,
+  "server": "ia902509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3347605102,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1878007769,
   "workable_servers": [
-    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }

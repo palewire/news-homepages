@@ -1,5 +1,5 @@
 {
-  "created": 1659139658,
+  "created": 1659179997,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/12/items/flphoenixnews-2022",
@@ -4691,31 +4691,83 @@
       "format": "JSON"
     },
     {
+      "name": "flphoenixnews-2022-07-29T20:06:47.891006-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flphoenixnews-2022-07-29T20:06:47.891006-04:00.jpg",
+      "mtime": "1659179940",
+      "size": "10132",
+      "md5": "a74931f291544dcf504767865940e9c8",
+      "crc32": "1a48c423",
+      "sha1": "fba3cdc6f3276e63961e74895aaff7849685979b"
+    },
+    {
+      "name": "flphoenixnews-2022-07-30T07:16:37.613929-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659179800",
+      "size": "16342",
+      "md5": "205ad79ae6edc6bda6f2a9cc9430aace",
+      "crc32": "fd923406",
+      "sha1": "11f8459e335dc044721443fb3108a3896e2c3d06",
+      "format": "JSON"
+    },
+    {
+      "name": "flphoenixnews-2022-07-30T07:16:37.613929-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659179801",
+      "size": "13902",
+      "md5": "9aa53a0ef61b762d0137915ecb65c832",
+      "crc32": "81f2a4c6",
+      "sha1": "95bf2656ed13fc09422a9edfc58ada3ad733ab80",
+      "format": "JSON"
+    },
+    {
+      "name": "flphoenixnews-2022-07-30T07:16:37.613929-04:00.jpg",
+      "source": "original",
+      "mtime": "1659179798",
+      "size": "320070",
+      "md5": "fdf72c52fe284365c3476be6bed561cb",
+      "crc32": "c5085255",
+      "sha1": "aca9dd73cd475fe479e0a2704b7e230fabb8fc03",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flphoenixnews-2022-07-30T07:16:37.613929-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659179804",
+      "size": "1495",
+      "md5": "e902bca0f2b3619ac6284731d342fe9e",
+      "crc32": "6afd3a55",
+      "sha1": "0498afa36806c4c67d1e07a75b2f94e06a724f3b",
+      "format": "JSON"
+    },
+    {
       "name": "flphoenixnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cf0966f0e47a1421c2b515bc63570263deb4e0e6",
-      "mtime": "1659139654",
-      "size": "97985",
-      "md5": "cff4422585e2b3b6529fa52e66454985",
-      "crc32": "4efed7a9",
-      "sha1": "0b79f8dce04fb8cc872c39333e3dcaa6e2b8efb6",
+      "btih": "2293701e87a9e646c4e164cfac478d5c31c66a27",
+      "mtime": "1659179988",
+      "size": "99070",
+      "md5": "bd5dc9767b4dfe9e26c74e29e78e2bd0",
+      "crc32": "4230bddd",
+      "sha1": "8ff624d0f019e2b2743913cbab7e897cf68cf7ff",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flphoenixnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "01eed135d6be82c321e0547a4b5283b6",
+      "md5": "60e88e661b6e77ffe4ea1e8d4dc80508",
       "summation": "md5"
     },
     {
       "name": "flphoenixnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659139617",
-      "size": "536576",
-      "md5": "e49ea9e5a516f1eb8317a14b5317509e",
-      "crc32": "6bd8a0c2",
-      "sha1": "b53ec042f5ed0d3d24a0e2ffd2b394af61b4f43c",
+      "mtime": "1659179984",
+      "size": "544768",
+      "md5": "d4490c1512c3aa3e7823ab3546892f84",
+      "crc32": "43dd68f4",
+      "sha1": "8c9594b0f784a8ab508e630a18c719cb1f096e64",
       "format": "Metadata"
     },
     {
@@ -4729,9 +4781,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 451,
-  "item_last_updated": 1659139654,
-  "item_size": 39812102,
+  "files_count": 456,
+  "item_last_updated": 1659179988,
+  "item_size": 40183320,
   "metadata": {
     "identifier": "flphoenixnews-2022",
     "collection": [
@@ -4753,7 +4805,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347561055,
+      "task_id": 3347986204,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4761,7 +4813,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 140372670,
+  "uniq": 1763834023,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

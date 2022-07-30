@@ -1,5 +1,6 @@
 {
-  "created": 1659139989,
+  "conflict": 1659183931,
+  "created": 1659183931,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/27/items/kccinews-2022",
@@ -8455,6 +8456,17 @@
       "format": "JSON"
     },
     {
+      "name": "kccinews-2022-07-29T19:09:57.815004-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kccinews-2022-07-29T19:09:57.815004-05:00.jpg",
+      "mtime": "1659183924",
+      "size": "10123",
+      "md5": "094008a844eee8eb3633be1253ca296d",
+      "crc32": "847bcec9",
+      "sha1": "53dd24cb95e1f0796f903d8f08375cbfb7c62898"
+    },
+    {
       "name": "kccinews-2022_archive.torrent",
       "source": "metadata",
       "btih": "e7ecb260faf0ddf7af28ffe7864902114ec59ec1",
@@ -8469,7 +8481,7 @@
       "name": "kccinews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "79a34f7665e764190e34f71027ac3f3e",
+      "md5": "d3d50f126778069e87cd00ba141d7c10",
       "summation": "md5"
     },
     {
@@ -8493,9 +8505,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 809,
-  "item_last_updated": 1659139982,
-  "item_size": 73543940,
+  "files_count": 810,
+  "item_last_updated": 1659183924,
+  "item_size": 73554063,
   "metadata": {
     "identifier": "kccinews-2022",
     "collection": [
@@ -8520,12 +8532,52 @@
       "task_id": 3347564395,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3348014145,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348014159,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348014170,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348014188,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348015977,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 599920827,
+  "uniq": 513051804,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

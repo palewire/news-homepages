@@ -1,5 +1,5 @@
 {
-  "created": 1659119904,
+  "created": 1659162478,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/7/items/commondreams-2022",
@@ -1739,31 +1739,83 @@
       "format": "JSON"
     },
     {
+      "name": "commondreams-2022-07-29T14:36:06.707920-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "commondreams-2022-07-29T14:36:06.707920-04:00.jpg",
+      "mtime": "1659144206",
+      "size": "11221",
+      "md5": "ef3aac00748a99d14f6da3315f6b44e3",
+      "crc32": "d6cf4b7d",
+      "sha1": "cc0d0aaf9d055768c3ab9ffb1bc67ee3d7126207"
+    },
+    {
+      "name": "commondreams-2022-07-29T21:21:52.175878-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659144118",
+      "size": "42563",
+      "md5": "8512235f63cb3b8fa5b38e41ec19e9f1",
+      "crc32": "05543412",
+      "sha1": "ee8253875430e74caeb7d9a680ffa94edb9db39f",
+      "format": "JSON"
+    },
+    {
+      "name": "commondreams-2022-07-29T21:21:52.175878-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659144120",
+      "size": "31278",
+      "md5": "2e393dfbf84671dce24c64e928114145",
+      "crc32": "8a82cce2",
+      "sha1": "1d74be65cf77e8189161e0dbe9218c5ee38e9a57",
+      "format": "JSON"
+    },
+    {
+      "name": "commondreams-2022-07-29T21:21:52.175878-04:00.jpg",
+      "source": "original",
+      "mtime": "1659144117",
+      "size": "323693",
+      "md5": "c4ff3e7041a3b9ff5e76ff7debdc6544",
+      "crc32": "8ae00ceb",
+      "sha1": "3091d488406580ff266c4f637271eb125eb8d4ba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "commondreams-2022-07-29T21:21:52.175878-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659144121",
+      "size": "1512",
+      "md5": "fb95984376c7a3895fa2f5e5c5dfef2c",
+      "crc32": "a7a1bb8d",
+      "sha1": "c57a3da8dd3ae42da73fdcca617d658c8d84de21",
+      "format": "JSON"
+    },
+    {
       "name": "commondreams-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f9954ede82c764a6db85e08c6db350ae5790a743",
-      "mtime": "1659119893",
-      "size": "37204",
-      "md5": "354857ce7fcffe758919d1f047b137d2",
-      "crc32": "d9102349",
-      "sha1": "6bee9e76f5a7bce54fd180180cc3af820652caad",
+      "btih": "88458ff78ccffec36f799f698bc55abca2c146a4",
+      "mtime": "1659144398",
+      "size": "38264",
+      "md5": "cb15580bc5aa52400c431749395296ae",
+      "crc32": "77067d5f",
+      "sha1": "abb424f9df9045a23699be0768559b614b3837b7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "commondreams-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ac9d1f807a50194a19b0c010f8d0b65c",
+      "md5": "26f0fc2a64c63dfaea936e0464b9409c",
       "summation": "md5"
     },
     {
       "name": "commondreams-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659119891",
-      "size": "221184",
-      "md5": "7dea26bc7ea438e119803ffbb216f7fe",
-      "crc32": "e9911d9c",
-      "sha1": "6fc3b7a5a5081305f8087e37b75eab309b7c8fdc",
+      "mtime": "1659144396",
+      "size": "229376",
+      "md5": "13aa45c3a16b4a0441876837d9d57edd",
+      "crc32": "89862477",
+      "sha1": "252c60677c0f0a7ccb070ac45c15db75e9799f19",
       "format": "Metadata"
     },
     {
@@ -1777,9 +1829,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 170,
-  "item_last_updated": 1659119893,
-  "item_size": 15853450,
+  "files_count": 175,
+  "item_last_updated": 1659144398,
+  "item_size": 16272969,
   "metadata": {
     "identifier": "commondreams-2022",
     "collection": [
@@ -1801,7 +1853,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347364989,
+      "task_id": 3347607660,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1809,7 +1861,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 3996384,
+  "uniq": 727789196,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

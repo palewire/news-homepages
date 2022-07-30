@@ -1,5 +1,5 @@
 {
-  "created": 1659110059,
+  "created": 1659153186,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/24/items/reviewjournal-2022",
@@ -2257,31 +2257,83 @@
       "format": "JSON"
     },
     {
+      "name": "reviewjournal-2022-07-29T08:53:28.443096-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reviewjournal-2022-07-29T08:53:28.443096-07:00.jpg",
+      "mtime": "1659145399",
+      "size": "10321",
+      "md5": "6176f40384339f66433d29fb63af8cc7",
+      "crc32": "c19debff",
+      "sha1": "dcf809d528591c4026300ca8c27f311b1d49e012"
+    },
+    {
+      "name": "reviewjournal-2022-07-29T20:52:17.391035-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659153140",
+      "size": "58197",
+      "md5": "79f5ae3b6eb88432d7b33fd917cb9437",
+      "crc32": "d79fc268",
+      "sha1": "b585fefc684c201b6f880bcbf670f2b98bd39b39",
+      "format": "JSON"
+    },
+    {
+      "name": "reviewjournal-2022-07-29T20:52:17.391035-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659153142",
+      "size": "55477",
+      "md5": "94a32047e0177bcecb419db14a14f755",
+      "crc32": "444ffb07",
+      "sha1": "1506522acacad04abdd94c28e6d312c59a9d55fd",
+      "format": "JSON"
+    },
+    {
+      "name": "reviewjournal-2022-07-29T20:52:17.391035-07:00.jpg",
+      "source": "original",
+      "mtime": "1659153138",
+      "size": "296100",
+      "md5": "74db31bda5a51ff484996620bf0f033c",
+      "crc32": "4ce25637",
+      "sha1": "2eac260388816e61ee199201b098e05092a7dcc0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reviewjournal-2022-07-29T20:52:17.391035-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659153144",
+      "size": "1522",
+      "md5": "d8977361e3b55db2aaf692ed6d3e2536",
+      "crc32": "db823e91",
+      "sha1": "ed09db96a0fbec4d172aec6ca95a374df4a841c1",
+      "format": "JSON"
+    },
+    {
       "name": "reviewjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e1315e2634c0f83d3afe3d9d4437a8d783b2de6c",
-      "mtime": "1659110053",
-      "size": "47946",
-      "md5": "841df80899a33ced95ea156f062a08dd",
-      "crc32": "84499d3a",
-      "sha1": "70b2c58c7cb60720b6ec84bc6d607d527464265a",
+      "btih": "131c37a2afa636529db0d98c817886ca3c0b401f",
+      "mtime": "1659153183",
+      "size": "49011",
+      "md5": "d3e8114e05aa1abba2c3af894924843c",
+      "crc32": "5e541969",
+      "sha1": "f85dd69f75ce4feb89f1c406880d9b5c162a2952",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reviewjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "02150e08d5c71e950dce738317eac252",
+      "md5": "784658cad0ecc884e52f12a03cb58bad",
       "summation": "md5"
     },
     {
       "name": "reviewjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659110018",
-      "size": "274432",
-      "md5": "2944e600af6a21b53e5539551012ea2c",
-      "crc32": "f08b5146",
-      "sha1": "394ddf280b10773a4e968c9323c6a439cb3e3391",
+      "mtime": "1659153147",
+      "size": "278528",
+      "md5": "9253186f2c6b4019aaa945f468c5f713",
+      "crc32": "2dd9aca5",
+      "sha1": "2d38776638d78653fb01fabc6e87acbef12ee831",
       "format": "Metadata"
     },
     {
@@ -2295,9 +2347,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 219,
-  "item_last_updated": 1659110053,
-  "item_size": 21077285,
+  "files_count": 224,
+  "item_last_updated": 1659153183,
+  "item_size": 21504063,
   "metadata": {
     "identifier": "reviewjournal-2022",
     "collection": [
@@ -2319,7 +2371,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347269409,
+      "task_id": 3347693031,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2327,7 +2379,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1079556926,
+  "uniq": 203429412,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

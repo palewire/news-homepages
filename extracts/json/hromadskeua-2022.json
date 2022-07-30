@@ -1,5 +1,5 @@
 {
-  "created": 1659139743,
+  "created": 1659180132,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/17/items/hromadskeua-2022",
@@ -11301,31 +11301,83 @@
       "format": "JSON"
     },
     {
+      "name": "hromadskeua-2022-07-30T03:07:58.231166+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hromadskeua-2022-07-30T03:07:58.231166+03:00.jpg",
+      "mtime": "1659180078",
+      "size": "9407",
+      "md5": "d3cbfa489dcabb15c97a0738b173fb84",
+      "crc32": "2911630a",
+      "sha1": "8880f039f11dd34bce3f4eba2451eddb5821d1ff"
+    },
+    {
+      "name": "hromadskeua-2022-07-30T14:17:54.241820+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659179880",
+      "size": "28173",
+      "md5": "dfad03b47091081ab017024ee89d1042",
+      "crc32": "32285fa4",
+      "sha1": "c80a0f55c1188164c67123e62bfff3022dde65d6",
+      "format": "JSON"
+    },
+    {
+      "name": "hromadskeua-2022-07-30T14:17:54.241820+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659179882",
+      "size": "22256",
+      "md5": "7fb0bc3bfc2f5c0c75c4bd897e4db4b0",
+      "crc32": "d5c9eac9",
+      "sha1": "1d1f77dc783800964c1de86737f50e61bedb439d",
+      "format": "JSON"
+    },
+    {
+      "name": "hromadskeua-2022-07-30T14:17:54.241820+03:00.jpg",
+      "source": "original",
+      "mtime": "1659179879",
+      "size": "308902",
+      "md5": "705f16709f99db97bb70b79a4efa1bf7",
+      "crc32": "19f0bb7a",
+      "sha1": "2821b304c22f0f55474a90dfa050381676582144",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hromadskeua-2022-07-30T14:17:54.241820+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659179884",
+      "size": "1432",
+      "md5": "b0043a6076737c0c4ca104a80d5a5ce4",
+      "crc32": "fce62492",
+      "sha1": "68c63cb23c538ecab17369bb06707c51c2f849d9",
+      "format": "JSON"
+    },
+    {
       "name": "hromadskeua-2022_archive.torrent",
       "source": "metadata",
-      "btih": "667fa0afc35804ce55752edeeab8aa7e28643550",
-      "mtime": "1659139740",
-      "size": "231362",
-      "md5": "881c45a566b8eb6f01bf488d85cb22f5",
-      "crc32": "ad715745",
-      "sha1": "2ab8deb4f3a88323c2b0c5169792a2c1433c3e22",
+      "btih": "d42d5f3a0f071d99d4e7e4bfb08fc857fbf18d3c",
+      "mtime": "1659180125",
+      "size": "232416",
+      "md5": "fb401bab9a19f64797ada29a44402b3e",
+      "crc32": "daea7874",
+      "sha1": "d91762c895fe07e1d3d00ce76ae413527589e309",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hromadskeua-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fc61c135aec7cfa38da32ac491c6721e",
+      "md5": "bebd0f91f87d9080b66961a84c594561",
       "summation": "md5"
     },
     {
       "name": "hromadskeua-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659139695",
-      "size": "1241088",
-      "md5": "51132c6fbbbac06e706a2fea60824845",
-      "crc32": "a6178489",
-      "sha1": "52eb2dd3f2685a78d694eaf86047178314bf8371",
+      "mtime": "1659180112",
+      "size": "1245184",
+      "md5": "dbbeeeb788808ba5dd202420e5b2da0e",
+      "crc32": "439bf0c8",
+      "sha1": "67afd0fd45461fc40a9ae67c49728df49185bf30",
       "format": "Metadata"
     },
     {
@@ -11339,9 +11391,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1079,
-  "item_last_updated": 1659139740,
-  "item_size": 104059954,
+  "files_count": 1084,
+  "item_last_updated": 1659180125,
+  "item_size": 104435274,
   "metadata": {
     "identifier": "hromadskeua-2022",
     "collection": [
@@ -11363,7 +11415,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347562144,
+      "task_id": 3347986966,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11371,7 +11423,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 959352709,
+  "uniq": 393122171,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

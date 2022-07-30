@@ -1,5 +1,46 @@
 {
-  "created": 1659139697,
+  "clarionledger-2022": [
+    {
+      "url": "https://www.clarionledger.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_clarionledger_com-_-2022_07_30_00_58_29.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_clarionledger_com-_-2022_07_30_00_58_29.report.json",
+      "summary": {
+        "performance": 0.46,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.clarionledger.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_clarionledger_com-_-2022_07_30_00_59_32.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_clarionledger_com-_-2022_07_30_00_59_32.report.json",
+      "summary": {
+        "performance": 0.41,
+        "accessibility": 0.89,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.clarionledger.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_clarionledger_com-_-2022_07_30_00_59_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_clarionledger_com-_-2022_07_30_00_59_53.report.json",
+      "summary": {
+        "performance": 0.46,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "created": 1659183735,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/30/items/clarionledger-2022",
@@ -3790,31 +3831,72 @@
       "sha1": "af7cb19d097c75cd4b5d5f5a9b6da394cf5c421a"
     },
     {
+      "name": "clarionledger-2022-07-29T21:20:46.603989-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659144050",
+      "size": "21434",
+      "md5": "f34c29a0b9f712b3d11bb6068dbc891b",
+      "crc32": "6c78d915",
+      "sha1": "ef5a6cc4337be65ac0c184657e5bbeee2a6d04c7",
+      "format": "JSON"
+    },
+    {
+      "name": "clarionledger-2022-07-29T21:20:46.603989-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659144051",
+      "size": "29189",
+      "md5": "c42a0663cf649b77013653e53471d970",
+      "crc32": "09c45283",
+      "sha1": "665fab66f9a9b9eadfd6cca3cc359e94005909c3",
+      "format": "JSON"
+    },
+    {
+      "name": "clarionledger-2022-07-29T21:20:46.603989-04:00.jpg",
+      "source": "original",
+      "mtime": "1659144049",
+      "size": "254360",
+      "md5": "fd822de1f0884371197361c2e022337d",
+      "crc32": "58aaf393",
+      "sha1": "4cca5f1f7679400b2a7d57719bb77886520829f5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "clarionledger-2022-07-29T21:20:46.603989-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659144052",
+      "size": "1522",
+      "md5": "8f9c623c8dcb12cc8678b98e2ceebe4c",
+      "crc32": "05aa3891",
+      "sha1": "324f9c0d65e853ae7ebac339de9a9888945214c5",
+      "format": "JSON"
+    },
+    {
       "name": "clarionledger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a252366fa0b885209a596f4715a11c7b68d1ced5",
-      "mtime": "1659139600",
-      "size": "79193",
-      "md5": "e606b9d28b74aa6cf2fc2081cd891ff4",
-      "crc32": "e7f62c32",
-      "sha1": "706bbc358cabe247474acdc675653f42d488124d",
+      "btih": "695b485a4bb0f1eff69761e10f850e3549c2c526",
+      "mtime": "1659144114",
+      "size": "80068",
+      "md5": "5f7b07d297652880c7e9ff5678016854",
+      "crc32": "f8b83630",
+      "sha1": "fb2b375acf0e8221a0dfce164bcf780545057a74",
       "format": "Archive BitTorrent"
     },
     {
       "name": "clarionledger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dfd6b8ac59fe043d289ca6e4b67a6750",
+      "md5": "f9964cfbc39898a500d7f4e88de563f3",
       "summation": "md5"
     },
     {
       "name": "clarionledger-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659101497",
-      "size": "438272",
-      "md5": "e545ee74dd78f0111f33e0ec0b37dd13",
-      "crc32": "0fe4f6c8",
-      "sha1": "63f9b40252d8bed49da5764f8194dfdf70974944",
+      "mtime": "1659144073",
+      "size": "446464",
+      "md5": "75d1aabb1293cd3d49a5c1cac8d2c6c2",
+      "crc32": "8b6c6f58",
+      "sha1": "1c22809ec715f98b48d1df7ca70af51391b6e419",
       "format": "Metadata"
     },
     {
@@ -3828,9 +3910,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 365,
-  "item_last_updated": 1659139600,
-  "item_size": 28880268,
+  "files_count": 369,
+  "item_last_updated": 1659144114,
+  "item_size": 29195840,
   "metadata": {
     "identifier": "clarionledger-2022",
     "collection": [
@@ -3847,10 +3929,21 @@
     "publicdate": "2022-06-24 22:53:49",
     "addeddate": "2022-06-24 22:53:49"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1277209278,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3347604425,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1681600157,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

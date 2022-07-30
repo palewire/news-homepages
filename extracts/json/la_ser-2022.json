@@ -1,5 +1,5 @@
 {
-  "created": 1659139925,
+  "created": 1659183863,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/30/items/la_ser-2022",
@@ -525,31 +525,83 @@
       "format": "JSON"
     },
     {
+      "name": "la_ser-2022-07-30T02:11:14.410232+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "la_ser-2022-07-30T02:11:14.410232+02:00.jpg",
+      "mtime": "1659183820",
+      "size": "8054",
+      "md5": "63b01707df8142c599997e57b08264c1",
+      "crc32": "c0caa085",
+      "sha1": "c1b111b9cfc855637164c3776363f8a63f21f9e7"
+    },
+    {
+      "name": "la_ser-2022-07-30T14:22:45.919197+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659183770",
+      "size": "46055",
+      "md5": "4cf741992f4c202dbd2001e190309c8f",
+      "crc32": "4afd7cee",
+      "sha1": "055af692a298be9902e332fbd5b47c7e989a8b89",
+      "format": "JSON"
+    },
+    {
+      "name": "la_ser-2022-07-30T14:22:45.919197+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659183772",
+      "size": "61227",
+      "md5": "7e4048ad204e84b6945e7229dd468291",
+      "crc32": "93c7b9fd",
+      "sha1": "44dd2468bb8591eaa24f0c70253b7221bcc01e93",
+      "format": "JSON"
+    },
+    {
+      "name": "la_ser-2022-07-30T14:22:45.919197+02:00.jpg",
+      "source": "original",
+      "mtime": "1659183767",
+      "size": "190754",
+      "md5": "89a8c815aed5de400b5a4813cd2cabf2",
+      "crc32": "5956522e",
+      "sha1": "1fafc9cd7c2d0966bca4f09bdd181a4d7c08a464",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "la_ser-2022-07-30T14:22:45.919197+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659183773",
+      "size": "1450",
+      "md5": "bd9b433afe8f19ddd920989578f08c57",
+      "crc32": "059135be",
+      "sha1": "96b0da0548fc49cf053e01f58351cb5bcfd36894",
+      "format": "JSON"
+    },
+    {
       "name": "la_ser-2022_archive.torrent",
       "source": "metadata",
-      "btih": "20984e4823ac5cf0bb8bac86c4690df995083a80",
-      "mtime": "1659139921",
-      "size": "11797",
-      "md5": "427b15bff851008c54bb188cc085f587",
-      "crc32": "3caeeaea",
-      "sha1": "4071f6c3145c928c43a6508959a3ea44a1dab306",
+      "btih": "990b8e2e22b335a2660a7c7c9a1b648ca7b4fba2",
+      "mtime": "1659183855",
+      "size": "12846",
+      "md5": "25220db226610a7137a268625f3d5fef",
+      "crc32": "a2542c2f",
+      "sha1": "5a30a87237be755f6a84e69c8976b031f4d9eac2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "la_ser-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b76ee695e6ea15f708a01efb6fd38c9e",
+      "md5": "85a69aa6f2781bed55c0e0e30b9a67be",
       "summation": "md5"
     },
     {
       "name": "la_ser-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659139887",
-      "size": "77824",
-      "md5": "72de8ffada4e10ebbf18945a01f5eddb",
-      "crc32": "127d5fdc",
-      "sha1": "751f826eb5dce7f8eab4d296f29b66ce3d6061d6",
+      "mtime": "1659183853",
+      "size": "81920",
+      "md5": "e3616a585295c409f64bfe1b1661fc0e",
+      "crc32": "925fa163",
+      "sha1": "c0ee1d5f076ebf6fcea480e53b8f97e90c97dd17",
       "format": "Metadata"
     },
     {
@@ -563,9 +615,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 54,
-  "item_last_updated": 1659139921,
-  "item_size": 2991137,
+  "files_count": 59,
+  "item_last_updated": 1659183855,
+  "item_size": 3303822,
   "metadata": {
     "identifier": "la_ser-2022",
     "collection": [
@@ -587,7 +639,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347563852,
+      "task_id": 3348015424,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -595,7 +647,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 629445250,
+  "uniq": 1124809630,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

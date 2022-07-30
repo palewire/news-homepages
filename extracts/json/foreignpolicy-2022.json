@@ -1,5 +1,5 @@
 {
-  "created": 1659139647,
+  "created": 1659179894,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/22/items/foreignpolicy-2022",
@@ -4631,31 +4631,83 @@
       "format": "JSON"
     },
     {
+      "name": "foreignpolicy-2022-07-29T20:06:23.908461-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-07-29T20:06:23.908461-04:00.jpg",
+      "mtime": "1659179851",
+      "size": "10455",
+      "md5": "2fb6551a090dfa3b8ebd146e7f790f6c",
+      "crc32": "2e5e4563",
+      "sha1": "02c62413acfe2a38aa87ee85094abd5dc24fb373"
+    },
+    {
+      "name": "foreignpolicy-2022-07-30T07:16:20.770204-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659179793",
+      "size": "56292",
+      "md5": "243f98abc9f3dff7dbff4ba58b4b7f12",
+      "crc32": "93ff1f29",
+      "sha1": "281ad2c12bc0cd1ee30c7331db0d1bc524ffaf79",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-07-30T07:16:20.770204-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659179794",
+      "size": "41288",
+      "md5": "b1c4e0aeb5f62308e66505ef271ac120",
+      "crc32": "6ebec9ff",
+      "sha1": "4d2f8e2eb5ce3034e4628e92a6332a38eca5ee91",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-07-30T07:16:20.770204-04:00.jpg",
+      "source": "original",
+      "mtime": "1659179791",
+      "size": "386771",
+      "md5": "cfe3a2990074e6b555112b5f6d5a9081",
+      "crc32": "e31e0415",
+      "sha1": "91ac40546050f000dd8282dbafdf13c0e76fa296",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foreignpolicy-2022-07-30T07:16:20.770204-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659179796",
+      "size": "1486",
+      "md5": "6575933ca674f6a43676e34aa8c2bed6",
+      "crc32": "cc1caf82",
+      "sha1": "ffe0cfd9b116206b2064f78c82988e4593b12e5c",
+      "format": "JSON"
+    },
+    {
       "name": "foreignpolicy-2022_archive.torrent",
       "source": "metadata",
-      "btih": "72de90ee9fc7f9468e498133115ded1bde8c983c",
-      "mtime": "1659139643",
-      "size": "97067",
-      "md5": "089edca79fd97f42e8aeb98075a70e14",
-      "crc32": "3399735e",
-      "sha1": "685a7d7295741ab17e19b8197fee927ca0712b7c",
+      "btih": "36eaa8f100a6061e7d5c184bd7420d49e68e2fac",
+      "mtime": "1659179886",
+      "size": "98152",
+      "md5": "b8349373da03b876feecab2d942b131b",
+      "crc32": "f07ba458",
+      "sha1": "ed2ebe9a44b268b4715634aa96c6f5d4cbb5f453",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foreignpolicy-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7307e55856a5a84fde088c3db12382ef",
+      "md5": "3b64902c817d3db28cb458194f13512a",
       "summation": "md5"
     },
     {
       "name": "foreignpolicy-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659139602",
-      "size": "528384",
-      "md5": "8d182fd3c8c2f5b88499ff0d7f62498f",
-      "crc32": "f826f674",
-      "sha1": "b854a296fc2979af0eeb909edc632649963e07ef",
+      "mtime": "1659179883",
+      "size": "536576",
+      "md5": "a965db41cccfaa58012e16f6292b568c",
+      "crc32": "d5bdbd3f",
+      "sha1": "9075378d6c5dd6f88b9104453c38fe49bdbd5618",
       "format": "Metadata"
     },
     {
@@ -4669,9 +4721,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 445,
-  "item_last_updated": 1659139643,
-  "item_size": 49604885,
+  "files_count": 450,
+  "item_last_updated": 1659179886,
+  "item_size": 50110454,
   "metadata": {
     "identifier": "foreignpolicy-2022",
     "collection": [
@@ -4693,7 +4745,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347560908,
+      "task_id": 3347985493,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4701,7 +4753,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 240414249,
+  "uniq": 1861419018,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

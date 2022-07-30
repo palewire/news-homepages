@@ -1,5 +1,6 @@
 {
-  "created": 1659140189,
+  "conflict": 1659184152,
+  "created": 1659184152,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/22/items/phillyinquirer-2022",
@@ -2625,6 +2626,12 @@
       "format": "JSON"
     },
     {
+      "name": "phillyinquirer-2022-07-29T20:15:39.353457-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "phillyinquirer-2022-07-29T20:15:39.353457-04:00.jpg"
+    },
+    {
       "name": "phillyinquirer-2022_archive.torrent",
       "source": "metadata",
       "btih": "8773c08226f476b5b07072b751dbe5ee53d44d0f",
@@ -2663,7 +2670,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 254,
+  "files_count": 255,
   "item_last_updated": 1659140187,
   "item_size": 22759027,
   "metadata": {
@@ -2690,12 +2697,44 @@
       "task_id": 3347566209,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3348017146,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348017157,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348017172,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348017185,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 2037728095,
+  "uniq": 1144363136,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

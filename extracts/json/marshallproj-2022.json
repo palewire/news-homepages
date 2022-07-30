@@ -1,5 +1,6 @@
 {
-  "created": 1659139970,
+  "conflict": 1659184053,
+  "created": 1659184053,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/16/items/marshallproj-2022",
@@ -5195,6 +5196,12 @@
       "format": "JSON"
     },
     {
+      "name": "marshallproj-2022-07-29T20:11:46.527838-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marshallproj-2022-07-29T20:11:46.527838-04:00.jpg"
+    },
+    {
       "name": "marshallproj-2022_archive.torrent",
       "source": "metadata",
       "btih": "6640dec9e8b2b5f7b15e8dd5bcc9d02ffc28cf78",
@@ -5233,7 +5240,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 499,
+  "files_count": 500,
   "item_last_updated": 1659139968,
   "item_size": 28282533,
   "metadata": {
@@ -5260,12 +5267,44 @@
       "task_id": 3347564280,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3348015517,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348015537,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348015550,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348015560,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1317647688,
+  "uniq": 68124257,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

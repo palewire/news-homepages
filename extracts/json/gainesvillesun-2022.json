@@ -1,5 +1,5 @@
 {
-  "created": 1659139715,
+  "created": 1659179935,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/34/items/gainesvillesun-2022",
@@ -923,31 +923,83 @@
       "format": "JSON"
     },
     {
+      "name": "gainesvillesun-2022-07-29T20:07:47.393506-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-07-29T20:07:47.393506-04:00.jpg",
+      "mtime": "1659179897",
+      "size": "9350",
+      "md5": "95e392c0093e2287c8aeea1acb181e46",
+      "crc32": "c4d421b8",
+      "sha1": "466654ec31f18e21a7c3d3561463fe190ff4e6e0"
+    },
+    {
+      "name": "gainesvillesun-2022-07-30T07:17:48.381970-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659179872",
+      "size": "21805",
+      "md5": "ab8a5bb244cd1421ce40d3d07e75772c",
+      "crc32": "042c6c1d",
+      "sha1": "bac7cb4d29219ffb107324b58ccbc865c0dd60a6",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-07-30T07:17:48.381970-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659179874",
+      "size": "28988",
+      "md5": "f5b088824fe798009aafee4ff9e05408",
+      "crc32": "314f21a2",
+      "sha1": "653f5d602dec1e52c16f87f9517d4824d5028cdb",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-07-30T07:17:48.381970-04:00.jpg",
+      "source": "original",
+      "mtime": "1659179871",
+      "size": "252575",
+      "md5": "a17a5135867c042346dfda4923cb5579",
+      "crc32": "b39bc068",
+      "sha1": "950644cdf695e511d62cab8f960edf004f41a1be",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-07-30T07:17:48.381970-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659179875",
+      "size": "1501",
+      "md5": "0ec15d5e28f12c04b960d317693511e9",
+      "crc32": "57603e47",
+      "sha1": "535d7f0a593f52040ec35ddf3460bc9da1fd6aab",
+      "format": "JSON"
+    },
+    {
       "name": "gainesvillesun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b7d9d8dc09c9d96f7e809f289e7212e539ade9c2",
-      "mtime": "1659139713",
-      "size": "20507",
-      "md5": "5a52059d5d2043d39c5d409fffe7c2e9",
-      "crc32": "e217aafc",
-      "sha1": "d2e45737d48b1f7e0566c52d7a7e272a5169bdd0",
+      "btih": "e18a8b40f7587f64b36f4cb5579ceeac5e53e25e",
+      "mtime": "1659179922",
+      "size": "21596",
+      "md5": "a6deb6266b1b4ce741211239639f3956",
+      "crc32": "f3d561dc",
+      "sha1": "d8d44b7f53c87ddbfbe52c632699b65e30c7427f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gainesvillesun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "73a437322d5614f7c950c4a18961209d",
+      "md5": "facd56545aa88c55cf32746be49e3e2d",
       "summation": "md5"
     },
     {
       "name": "gainesvillesun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659139678",
-      "size": "131072",
-      "md5": "984954bd5ca52572863ef0156205046c",
-      "crc32": "ee81c2e2",
-      "sha1": "2b44e9e9bfec95fe873c47253d5b9cc3f3a83c71",
+      "mtime": "1659179916",
+      "size": "139264",
+      "md5": "72e4dc46de455ba4dd769bc67b2d0554",
+      "crc32": "8fd233be",
+      "sha1": "e55e79ca69b1229d25fe5dc88e3411335121743c",
       "format": "Metadata"
     },
     {
@@ -961,9 +1013,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 92,
-  "item_last_updated": 1659139713,
-  "item_size": 6523501,
+  "files_count": 97,
+  "item_last_updated": 1659179922,
+  "item_size": 6847001,
   "metadata": {
     "identifier": "gainesvillesun-2022",
     "collection": [
@@ -985,7 +1037,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347561808,
+      "task_id": 3347985760,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -993,7 +1045,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2121052188,
+  "uniq": 1113003813,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

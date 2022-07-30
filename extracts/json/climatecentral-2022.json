@@ -1,5 +1,5 @@
 {
-  "created": 1659139462,
+  "created": 1659179820,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/13/items/climatecentral-2022",
@@ -733,31 +733,83 @@
       "format": "JSON"
     },
     {
+      "name": "climatecentral-2022-07-29T20:03:30.656017-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "climatecentral-2022-07-29T20:03:30.656017-04:00.jpg",
+      "mtime": "1659179746",
+      "size": "8464",
+      "md5": "1ea704d681328ce1e53a02e3120f1b98",
+      "crc32": "04172dd6",
+      "sha1": "12d2b07c85666b45e0cb7a6864121118e8b2f36d"
+    },
+    {
+      "name": "climatecentral-2022-07-30T07:13:50.130587-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659179634",
+      "size": "10598",
+      "md5": "00ddf87c9db06325ee62e482cea26ccd",
+      "crc32": "ed3353cb",
+      "sha1": "5c19481a8b9d18c268b07cea61c3e3753ee3136b",
+      "format": "JSON"
+    },
+    {
+      "name": "climatecentral-2022-07-30T07:13:50.130587-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659179636",
+      "size": "9519",
+      "md5": "db93dc8adeb909cc63f76054c0ac1cc7",
+      "crc32": "05e58ac2",
+      "sha1": "987708eabeb6eef1c3d55c8c178167fdd87a0fc4",
+      "format": "JSON"
+    },
+    {
+      "name": "climatecentral-2022-07-30T07:13:50.130587-04:00.jpg",
+      "source": "original",
+      "mtime": "1659179632",
+      "size": "193435",
+      "md5": "2e0c72002822e6011264c57bfca26bd8",
+      "crc32": "2c621404",
+      "sha1": "cc68aaed46ea78e11c12a463edbf7f080412d652",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "climatecentral-2022-07-30T07:13:50.130587-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659179637",
+      "size": "1522",
+      "md5": "1ca70439b2ebfdc24a2b7ddb68441dc6",
+      "crc32": "e6162549",
+      "sha1": "c8be0cfadfbcb27fb5d127430a0d87e3ef8312a2",
+      "format": "JSON"
+    },
+    {
       "name": "climatecentral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7567aa5276cfd66c85746ad61a67e1d5b4b50ea0",
-      "mtime": "1659139458",
-      "size": "16548",
-      "md5": "7935b7af210c30906071768c0d7f9682",
-      "crc32": "0f7f0a5d",
-      "sha1": "f20d901c212644672cc1fe826d3d2a0e4bf16642",
+      "btih": "f4124a448e35e3893b42c2e27c0e8407c17f01dc",
+      "mtime": "1659179813",
+      "size": "17616",
+      "md5": "1ba949a47f92fe4dbcded5e213a5678b",
+      "crc32": "215c9a60",
+      "sha1": "231712ea13093c6ae119023a6c1b4b5c207004d2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "climatecentral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "42ceb7220600664e6b30a276a790430f",
+      "md5": "a41e0b37e52e828dd6771538cf70a122",
       "summation": "md5"
     },
     {
       "name": "climatecentral-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659139422",
-      "size": "106496",
-      "md5": "0daaadcb65f6f5ecf0b9c26fc4aa49a1",
-      "crc32": "d3611a07",
-      "sha1": "499b6acbc55860e23da76de25ddad76717c5f1ec",
+      "mtime": "1659179811",
+      "size": "118784",
+      "md5": "04c2f69c858a34e6b010962470761477",
+      "crc32": "ac16cd03",
+      "sha1": "1b2a7d2a67fe47eedbb9649060d8687f9d31db14",
       "format": "Metadata"
     },
     {
@@ -771,9 +823,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 74,
-  "item_last_updated": 1659139458,
-  "item_size": 3266520,
+  "files_count": 79,
+  "item_last_updated": 1659179813,
+  "item_size": 3503414,
   "metadata": {
     "identifier": "climatecentral-2022",
     "collection": [
@@ -795,7 +847,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347557892,
+      "task_id": 3347984976,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -803,7 +855,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1407741617,
+  "uniq": 912883723,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659139949,
+  "created": 1659184525,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/19/items/ujyaalo-2022",
@@ -630,31 +630,72 @@
       "sha1": "cf58783a370f9f7ef3f5f58b4a2a5d02a8d59b49"
     },
     {
+      "name": "ujyaalo-2022-07-30T07:09:54.658170+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659144298",
+      "size": "90973",
+      "md5": "19493bf8b4f3e113b720cc30da2f999e",
+      "crc32": "de7ec537",
+      "sha1": "e4fcbfd7d08ebc9a7af3a99291d5cc3faa966ed0",
+      "format": "JSON"
+    },
+    {
+      "name": "ujyaalo-2022-07-30T07:09:54.658170+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659144299",
+      "size": "68799",
+      "md5": "0a7dac37e1b526e87fa9ea6b3b6e8ca4",
+      "crc32": "ffcc2894",
+      "sha1": "bb9481c3206a82a5a3e2b37c773a0be2da79fb32",
+      "format": "JSON"
+    },
+    {
+      "name": "ujyaalo-2022-07-30T07:09:54.658170+05:45.jpg",
+      "source": "original",
+      "mtime": "1659144296",
+      "size": "291480",
+      "md5": "e275df365ac41c0a9003a221c1370778",
+      "crc32": "ad096f84",
+      "sha1": "54145e38c1e4c75778dc4c0789ebee0ccfd790a4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ujyaalo-2022-07-30T07:09:54.658170+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659144301",
+      "size": "1486",
+      "md5": "25e0dc278c01f24bb26cda30f58112b4",
+      "crc32": "34650add",
+      "sha1": "73fb7588b801b910c0ca467faca880a4a252712c",
+      "format": "JSON"
+    },
+    {
       "name": "ujyaalo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "29b8786b9321f663886d184bab664be6d9529446",
-      "mtime": "1659139922",
-      "size": "14020",
-      "md5": "d03681eadeb4934621b8fb3afb01c5e2",
-      "crc32": "c8baa40e",
-      "sha1": "bd05e29900a970d6a0a9f059b7941aca684e10ea",
+      "btih": "881df514911cc715011439ede33a5360b30def11",
+      "mtime": "1659144348",
+      "size": "14871",
+      "md5": "b59390b8768b0bac77d6e1514b71dac1",
+      "crc32": "9c9f18c2",
+      "sha1": "b60203064daa76037a5d5395bdbbc166e7d3129a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ujyaalo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "781356ff5cb6ca4c3ae0d956c7799380",
+      "md5": "83c9526c93c55d7bd49df19e9250c045",
       "summation": "md5"
     },
     {
       "name": "ujyaalo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659101807",
-      "size": "86016",
-      "md5": "0e7441a64baf1d76298818b2c6517eee",
-      "crc32": "a1cf8a30",
-      "sha1": "7cef8dedefce7a23934fc262672033368913423a",
+      "mtime": "1659144308",
+      "size": "90112",
+      "md5": "b9b8676a1a1442db26ac5579cea36f65",
+      "crc32": "157753f0",
+      "sha1": "871156bc9f985b25387946b7173bc62b2d2b28b3",
       "format": "Metadata"
     },
     {
@@ -668,9 +709,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 64,
-  "item_last_updated": 1659139922,
-  "item_size": 5339588,
+  "files_count": 68,
+  "item_last_updated": 1659144348,
+  "item_size": 5797273,
   "metadata": {
     "identifier": "ujyaalo-2022",
     "collection": [
@@ -687,10 +728,62 @@
     "publicdate": "2022-07-24 20:39:52",
     "addeddate": "2022-07-24 20:39:52"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 932570163,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3347607134,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "ujyaalo-2022": [
+    {
+      "url": "https://ujyaaloonline.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ujyaaloonline_com-_-2022_07_30_01_05_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ujyaaloonline_com-_-2022_07_30_01_05_50.report.json",
+      "summary": {
+        "performance": 0.06,
+        "accessibility": 0.75,
+        "best-practices": 0.75,
+        "seo": 0.91,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://ujyaaloonline.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ujyaaloonline_com-_-2022_07_30_01_06_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ujyaaloonline_com-_-2022_07_30_01_06_25.report.json",
+      "summary": {
+        "performance": 0.05,
+        "accessibility": 0.75,
+        "best-practices": 0.75,
+        "seo": 0.91,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://ujyaaloonline.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ujyaaloonline_com-_-2022_07_30_01_06_57.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ujyaaloonline_com-_-2022_07_30_01_06_57.report.json",
+      "summary": {
+        "performance": 0.08,
+        "accessibility": 0.75,
+        "best-practices": 0.75,
+        "seo": 0.91,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "uniq": 698457327,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

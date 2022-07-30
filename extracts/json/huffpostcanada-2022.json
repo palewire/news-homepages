@@ -1,5 +1,5 @@
 {
-  "created": 1659139798,
+  "created": 1659183733,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/22/items/huffpostcanada-2022",
@@ -661,31 +661,83 @@
       "format": "JSON"
     },
     {
+      "name": "huffpostcanada-2022-07-29T20:09:13.280741-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpostcanada-2022-07-29T20:09:13.280741-04:00.jpg",
+      "mtime": "1659183681",
+      "size": "10090",
+      "md5": "48d1c31b260b173c7a783d417ef4f167",
+      "crc32": "fe2b719b",
+      "sha1": "66bb4ff13e275fe2dc2a78ed9669b9bbeb8b1f75"
+    },
+    {
+      "name": "huffpostcanada-2022-07-30T08:19:52.646398-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659183596",
+      "size": "34742",
+      "md5": "eea4c32e25899437c46b3ad2ba0d58e3",
+      "crc32": "c6a7981f",
+      "sha1": "6b537ba1fc1f2a0209a80ec209f274eb12de4758",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpostcanada-2022-07-30T08:19:52.646398-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659183598",
+      "size": "61078",
+      "md5": "1a523de1ec2cee4bd4254c437495877a",
+      "crc32": "aa798e5c",
+      "sha1": "18f64a9311181519ecfb9bd93c1cdd8736ca8dc3",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpostcanada-2022-07-30T08:19:52.646398-04:00.jpg",
+      "source": "original",
+      "mtime": "1659183595",
+      "size": "262234",
+      "md5": "54d73bde38abf451fde5fe3227366434",
+      "crc32": "b78170cc",
+      "sha1": "cc416743cd94eeeaf862cecc2d668661fcf25867",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "huffpostcanada-2022-07-30T08:19:52.646398-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659183600",
+      "size": "1477",
+      "md5": "b9f6739bc2afe3a29c0771f26052a72a",
+      "crc32": "e5c5f1cb",
+      "sha1": "b30363456b126f87b8d314f062e90df63bd2b42c",
+      "format": "JSON"
+    },
+    {
       "name": "huffpostcanada-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4316995738579107eb8b428932d8addf801e80cb",
-      "mtime": "1659139796",
-      "size": "15105",
-      "md5": "451744f60f6a9a0b64b55fb5978e93bd",
-      "crc32": "15cf9c67",
-      "sha1": "dfdb9a39941a1138b70e068bf3aae2ee8a8472e5",
+      "btih": "8d0855bbab851ad5c8fe527b0e426d95cdda7048",
+      "mtime": "1659183717",
+      "size": "16196",
+      "md5": "bfecd00116838fc912311b4cfcf014c5",
+      "crc32": "62b8ac01",
+      "sha1": "3ed6e677fe1e62090683572bcf3610369cbab7fc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "huffpostcanada-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "78964e945de2d779dc54b5312ed817e4",
+      "md5": "af774ff8c2d94aca8bf09617ed1bd36b",
       "summation": "md5"
     },
     {
       "name": "huffpostcanada-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659139762",
-      "size": "98304",
-      "md5": "aba9f36b4e3e6032fa6d80f84a306198",
-      "crc32": "5a66d954",
-      "sha1": "8abf6c58d8f64c2a28f3c640c1deb5cea4b487e6",
+      "mtime": "1659183715",
+      "size": "102400",
+      "md5": "d6bfe0fd8e81dcedb54a1ec4b314d7c9",
+      "crc32": "a3deb45a",
+      "sha1": "66bdd6ea955f544c38a857b7727b177365b3083b",
       "format": "Metadata"
     },
     {
@@ -699,9 +751,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 67,
-  "item_last_updated": 1659139796,
-  "item_size": 4480168,
+  "files_count": 72,
+  "item_last_updated": 1659183717,
+  "item_size": 4854976,
   "metadata": {
     "identifier": "huffpostcanada-2022",
     "collection": [
@@ -723,7 +775,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347562768,
+      "task_id": 3348014425,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -731,7 +783,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1652314067,
+  "uniq": 1092376959,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]
