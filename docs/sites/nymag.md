@@ -14,7 +14,7 @@ orphan: true
 | Site           | [https://nymag.com/](https://nymag.com/)                                                                                                                 |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nymag.xml)                                                              |
 | Twitter handle | [@NYMag](https://www.twitter.com/NYMag)                                                                                  |
-| Location       | New York                                                                                                                              |
+| Location       | New York City                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        | <a href="../bundles/new-york-city.html">New York City</a>  |
 

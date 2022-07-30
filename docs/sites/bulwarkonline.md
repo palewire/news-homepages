@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-30T07:11:53.512226-04:00.jpg">
+  <img src="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-30T07:11:53.512226-04:00.jpg"
+     alt="Bulwark at 2022-07-30 07:11:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-30T07:11:53.512226-04:00.jpg">July 30 at 7:11 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-29T20:02:43.617445-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-26T07:13:43.169388-04:00.jpg">July 26 at 7:13 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-25T19:08:55.906179-04:00.jpg">
-  <img src="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-25T19:08:55.906179-04:00.jpg"
-     alt="Bulwark at 2022-07-25 19:08:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-25T19:08:55.906179-04:00.jpg">July 25 at 7:08 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 37 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 7:11 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-30T07:11:53.512226-04:00.hyperlinks.json) |
 | [July 29 at 8:02 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-29T20:02:43.617445-04:00.hyperlinks.json) |
 | [July 29 at 2:34 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-29T14:34:11.807119-04:00.hyperlinks.json) |
 | [July 29 at 7:06 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-29T07:06:10.315035-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 27 at 7:03 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-27T19:03:16.889744-04:00.hyperlinks.json) |
 | [July 27 at 7:03 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-27T07:03:39.912270-04:00.hyperlinks.json) |
 | [July 26 at 7:05 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-26T19:05:23.387011-04:00.hyperlinks.json) |
-| [July 26 at 2:34 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-26T14:34:55.511921-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 36 accessibility trees with the Internet Archive.
+The archiving routine has saved 37 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 7:11 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-30T07:11:53.512226-04:00.accessibility.json) |
 | [July 29 at 8:02 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-29T20:02:43.617445-04:00.accessibility.json) |
 | [July 29 at 2:34 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-29T14:34:11.807119-04:00.accessibility.json) |
 | [July 29 at 7:06 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-29T07:06:10.315035-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 27 at 7:03 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-27T19:03:16.889744-04:00.accessibility.json) |
 | [July 27 at 7:03 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-27T07:03:39.912270-04:00.accessibility.json) |
 | [July 26 at 7:05 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-26T19:05:23.387011-04:00.accessibility.json) |
-| [July 26 at 2:34 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-26T14:34:55.511921-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 7:12 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-30T07:11:53.512226-04:00.lighthouse.json) |
 | [July 29 at 8:02 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-29T20:02:43.617445-04:00.lighthouse.json) |
 | [July 29 at 2:34 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-29T14:34:11.807119-04:00.lighthouse.json) |
 | [July 29 at 7:06 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-29T07:06:10.315035-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 7:03 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-27T19:03:16.889744-04:00.lighthouse.json) |
 | [July 27 at 7:03 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-27T07:03:39.912270-04:00.lighthouse.json) |
 | [July 26 at 7:05 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-26T19:05:23.387011-04:00.lighthouse.json) |
-| [July 26 at 2:35 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-07-26T14:34:55.511921-04:00.lighthouse.json) |
 
 
 

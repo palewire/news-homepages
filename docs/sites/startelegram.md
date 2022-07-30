@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 25 screenshots with the Internet Archive.
+The archiving routine has saved 26 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/startelegram-2022/startelegram-2022-07-29T22:53:31.053400-05:00.jpg">
+  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-07-29T22:53:31.053400-05:00.jpg"
+     alt="Fort Worth Star-Telegram at 2022-07-29 22:53:32-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-07-29T22:53:31.053400-05:00.jpg">July 29 at 10:53 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startelegram-2022/startelegram-2022-07-29T10:55:07.630943-05:00.jpg">
@@ -127,15 +136,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-07-24T09:05:06.494535-05:00.jpg">July 24 at 9:05 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/startelegram-2022/startelegram-2022-07-24T01:24:02.994760-05:00.jpg">
-  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-07-24T01:24:02.994760-05:00.jpg"
-     alt="Fort Worth Star-Telegram at 2022-07-24 01:24:05-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-07-24T01:24:02.994760-05:00.jpg">July 24 at 1:24 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
@@ -162,7 +162,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 25 accessibility trees with the Internet Archive.
+The archiving routine has saved 26 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 10:53 PM](https://archive.org/download/startelegram-2022/startelegram-2022-07-29T22:53:31.053400-05:00.accessibility.json) |
 | [July 29 at 10:55 AM](https://archive.org/download/startelegram-2022/startelegram-2022-07-29T10:55:07.630943-05:00.accessibility.json) |
 | [July 28 at 10:49 PM](https://archive.org/download/startelegram-2022/startelegram-2022-07-28T22:49:47.847851-05:00.accessibility.json) |
 | [July 28 at 10:53 AM](https://archive.org/download/startelegram-2022/startelegram-2022-07-28T10:53:12.795613-05:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 26 at 10:46 AM](https://archive.org/download/startelegram-2022/startelegram-2022-07-26T10:46:16.313762-05:00.accessibility.json) |
 | [July 25 at 10:57 PM](https://archive.org/download/startelegram-2022/startelegram-2022-07-25T22:57:38.644109-05:00.accessibility.json) |
 | [July 25 at 10:43 AM](https://archive.org/download/startelegram-2022/startelegram-2022-07-25T10:43:12.724737-05:00.accessibility.json) |
-| [July 24 at 10:44 PM](https://archive.org/download/startelegram-2022/startelegram-2022-07-24T22:44:10.608671-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 10:53 PM](https://archive.org/download/startelegram-2022/startelegram-2022-07-29T22:53:31.053400-05:00.lighthouse.json) |
 | [July 29 at 10:55 AM](https://archive.org/download/startelegram-2022/startelegram-2022-07-29T10:55:07.630943-05:00.lighthouse.json) |
 | [July 28 at 10:49 PM](https://archive.org/download/startelegram-2022/startelegram-2022-07-28T22:49:47.847851-05:00.lighthouse.json) |
 | [July 28 at 10:53 AM](https://archive.org/download/startelegram-2022/startelegram-2022-07-28T10:53:12.795613-05:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 26 at 10:46 AM](https://archive.org/download/startelegram-2022/startelegram-2022-07-26T10:46:16.313762-05:00.lighthouse.json) |
 | [July 25 at 10:57 PM](https://archive.org/download/startelegram-2022/startelegram-2022-07-25T22:57:38.644109-05:00.lighthouse.json) |
 | [July 25 at 10:43 AM](https://archive.org/download/startelegram-2022/startelegram-2022-07-25T10:43:12.724737-05:00.lighthouse.json) |
-| [July 24 at 10:44 PM](https://archive.org/download/startelegram-2022/startelegram-2022-07-24T22:44:10.608671-05:00.lighthouse.json) |
 
 
 

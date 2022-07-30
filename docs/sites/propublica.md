@@ -14,13 +14,13 @@ orphan: true
 | Site           | [https://www.propublica.org/](https://www.propublica.org/)                                                                                                                 |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/propublica.xml)                                                              |
 | Twitter handle | [@propublica](https://www.twitter.com/propublica)                                                                                  |
-| Location       | New York                                                                                                                              |
+| Location       | New York City                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        |  |
 
 ## Screenshots
 
-The archiving routine has saved 118 screenshots with the Internet Archive.
+The archiving routine has saved 119 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 118 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/propublica-2022/propublica-2022-07-29T23:51:11.870196-04:00.jpg">
+  <img src="https://archive.org/download/propublica-2022/propublica-2022-07-29T23:51:11.870196-04:00.jpg"
+     alt="ProPublica at 2022-07-29 23:51:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-29T23:51:11.870196-04:00.jpg">July 29 at 11:51 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/propublica-2022/propublica-2022-07-29T11:52:35.302820-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-24T10:01:21.510919-04:00.jpg">July 24 at 10:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/propublica-2022/propublica-2022-07-24T02:20:39.441079-04:00.jpg">
-  <img src="https://archive.org/download/propublica-2022/propublica-2022-07-24T02:20:39.441079-04:00.jpg"
-     alt="ProPublica at 2022-07-24 02:20:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-24T02:20:39.441079-04:00.jpg">July 24 at 2:20 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 120 hyperlink lists with the Internet Archive.
+The archiving routine has saved 121 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 11:51 PM](https://archive.org/download/propublica-2022/propublica-2022-07-29T23:51:11.870196-04:00.hyperlinks.json) |
 | [July 29 at 11:52 AM](https://archive.org/download/propublica-2022/propublica-2022-07-29T11:52:35.302820-04:00.hyperlinks.json) |
 | [July 28 at 11:47 PM](https://archive.org/download/propublica-2022/propublica-2022-07-28T23:47:47.013007-04:00.hyperlinks.json) |
 | [July 28 at 11:49 AM](https://archive.org/download/propublica-2022/propublica-2022-07-28T11:49:40.853513-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 11:43 AM](https://archive.org/download/propublica-2022/propublica-2022-07-26T11:43:15.371925-04:00.hyperlinks.json) |
 | [July 25 at 11:55 PM](https://archive.org/download/propublica-2022/propublica-2022-07-25T23:55:21.964574-04:00.hyperlinks.json) |
 | [July 25 at 11:38 AM](https://archive.org/download/propublica-2022/propublica-2022-07-25T11:37:56.037119-04:00.hyperlinks.json) |
-| [July 24 at 11:40 PM](https://archive.org/download/propublica-2022/propublica-2022-07-24T23:40:18.472828-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 119 accessibility trees with the Internet Archive.
+The archiving routine has saved 120 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 11:51 PM](https://archive.org/download/propublica-2022/propublica-2022-07-29T23:51:11.870196-04:00.accessibility.json) |
 | [July 29 at 11:52 AM](https://archive.org/download/propublica-2022/propublica-2022-07-29T11:52:35.302820-04:00.accessibility.json) |
 | [July 28 at 11:47 PM](https://archive.org/download/propublica-2022/propublica-2022-07-28T23:47:47.013007-04:00.accessibility.json) |
 | [July 28 at 11:49 AM](https://archive.org/download/propublica-2022/propublica-2022-07-28T11:49:40.853513-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 26 at 11:43 AM](https://archive.org/download/propublica-2022/propublica-2022-07-26T11:43:15.371925-04:00.accessibility.json) |
 | [July 25 at 11:55 PM](https://archive.org/download/propublica-2022/propublica-2022-07-25T23:55:21.964574-04:00.accessibility.json) |
 | [July 25 at 11:38 AM](https://archive.org/download/propublica-2022/propublica-2022-07-25T11:37:56.037119-04:00.accessibility.json) |
-| [July 24 at 11:40 PM](https://archive.org/download/propublica-2022/propublica-2022-07-24T23:40:18.472828-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 11:51 PM](https://archive.org/download/propublica-2022/propublica-2022-07-29T23:51:11.870196-04:00.lighthouse.json) |
 | [July 29 at 11:52 AM](https://archive.org/download/propublica-2022/propublica-2022-07-29T11:52:35.302820-04:00.lighthouse.json) |
 | [July 28 at 11:47 PM](https://archive.org/download/propublica-2022/propublica-2022-07-28T23:47:47.013007-04:00.lighthouse.json) |
 | [July 28 at 11:49 AM](https://archive.org/download/propublica-2022/propublica-2022-07-28T11:49:40.853513-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 26 at 11:43 AM](https://archive.org/download/propublica-2022/propublica-2022-07-26T11:43:15.371925-04:00.lighthouse.json) |
 | [July 25 at 11:55 PM](https://archive.org/download/propublica-2022/propublica-2022-07-25T23:55:21.964574-04:00.lighthouse.json) |
 | [July 25 at 11:38 AM](https://archive.org/download/propublica-2022/propublica-2022-07-25T11:37:56.037119-04:00.lighthouse.json) |
-| [July 24 at 11:40 PM](https://archive.org/download/propublica-2022/propublica-2022-07-24T23:40:18.472828-04:00.lighthouse.json) |
 
 
 

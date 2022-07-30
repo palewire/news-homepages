@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 222 screenshots with the Internet Archive.
+The archiving routine has saved 223 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 222 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-30T07:13:12.898844-04:00.jpg">
+  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-30T07:13:12.898844-04:00.jpg"
+     alt="Bongino Report at 2022-07-30 07:13:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-30T07:13:12.898844-04:00.jpg">July 30 at 7:13 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-29T20:02:01.792276-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-26T07:13:18.159452-04:00.jpg">July 26 at 7:13 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T19:09:15.762986-04:00.jpg">
-  <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T19:09:15.762986-04:00.jpg"
-     alt="Bongino Report at 2022-07-25 19:09:17-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-25T19:09:15.762986-04:00.jpg">July 25 at 7:09 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 219 hyperlink lists with the Internet Archive.
+The archiving routine has saved 220 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 7:13 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-30T07:13:12.898844-04:00.hyperlinks.json) |
 | [July 29 at 8:02 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-29T20:02:01.792276-04:00.hyperlinks.json) |
 | [July 29 at 2:34 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-29T14:34:06.796578-04:00.hyperlinks.json) |
 | [July 29 at 7:05 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-29T07:05:10.271457-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 27 at 7:02 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-27T19:02:36.321281-04:00.hyperlinks.json) |
 | [July 27 at 7:03 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-27T07:03:22.580221-04:00.hyperlinks.json) |
 | [July 26 at 7:05 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-26T19:05:07.651562-04:00.hyperlinks.json) |
-| [July 26 at 2:35 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-26T14:34:49.519358-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 219 accessibility trees with the Internet Archive.
+The archiving routine has saved 220 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 7:13 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-30T07:13:12.898844-04:00.accessibility.json) |
 | [July 29 at 8:02 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-29T20:02:01.792276-04:00.accessibility.json) |
 | [July 29 at 2:34 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-29T14:34:06.796578-04:00.accessibility.json) |
 | [July 29 at 7:05 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-29T07:05:10.271457-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 27 at 7:02 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-27T19:02:36.321281-04:00.accessibility.json) |
 | [July 27 at 7:03 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-27T07:03:22.580221-04:00.accessibility.json) |
 | [July 26 at 7:05 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-26T19:05:07.651562-04:00.accessibility.json) |
-| [July 26 at 2:34 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-26T14:34:49.519358-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 7:13 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-30T07:13:12.898844-04:00.lighthouse.json) |
 | [July 29 at 8:02 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-29T20:02:01.792276-04:00.lighthouse.json) |
 | [July 29 at 2:34 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-29T14:34:06.796578-04:00.lighthouse.json) |
 | [July 29 at 7:05 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-29T07:05:10.271457-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 7:02 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-27T19:02:36.321281-04:00.lighthouse.json) |
 | [July 27 at 7:03 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-27T07:03:22.580221-04:00.lighthouse.json) |
 | [July 26 at 7:05 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-26T19:05:07.651562-04:00.lighthouse.json) |
-| [July 26 at 2:35 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-07-26T14:34:49.519358-04:00.lighthouse.json) |
 
 
 

@@ -86,7 +86,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 6 hyperlink lists with the Internet Archive.
+The archiving routine has saved 7 hyperlink lists with the Internet Archive.
 
 
 
@@ -94,6 +94,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 5:50 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-30T17:50:21.362056+05:30.hyperlinks.json) |
 | [July 30 at 5:39 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-30T05:38:55.541628+05:30.hyperlinks.json) |
 | [July 29 at 5:44 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-29T17:44:50.321732+05:30.hyperlinks.json) |
 | [July 29 at 5:41 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-29T05:41:36.398514+05:30.hyperlinks.json) |
@@ -104,7 +105,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 6 accessibility trees with the Internet Archive.
+The archiving routine has saved 7 accessibility trees with the Internet Archive.
 
 
 
@@ -112,6 +113,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 5:50 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-30T17:50:21.362056+05:30.accessibility.json) |
 | [July 30 at 5:38 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-30T05:38:55.541628+05:30.accessibility.json) |
 | [July 29 at 5:44 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-29T17:44:50.321732+05:30.accessibility.json) |
 | [July 29 at 5:41 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-29T05:41:36.398514+05:30.accessibility.json) |
@@ -123,7 +125,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 6 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 7 Lighthouse audits with the Internet Archive.
 
 
 
@@ -131,6 +133,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 5:50 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-30T17:50:21.362056+05:30.lighthouse.json) |
 | [July 30 at 5:39 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-30T05:38:55.541628+05:30.lighthouse.json) |
 | [July 29 at 5:44 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-29T17:44:50.321732+05:30.lighthouse.json) |
 | [July 29 at 5:41 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-29T05:41:36.398514+05:30.lighthouse.json) |

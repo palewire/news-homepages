@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 25 screenshots with the Internet Archive.
+The archiving routine has saved 26 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thewrap-2022/thewrap-2022-07-29T18:23:42.921337-07:00.jpg">
+  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-07-29T18:23:42.921337-07:00.jpg"
+     alt="Wrap at 2022-07-29 18:23:46-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-07-29T18:23:42.921337-07:00.jpg">July 29 at 6:23 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thewrap-2022/thewrap-2022-07-29T06:35:08.735239-07:00.jpg">
@@ -127,15 +136,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-07-24T21:37:35.510400-07:00.jpg">July 24 at 9:37 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thewrap-2022/thewrap-2022-07-24T08:07:54.439383-07:00.jpg">
-  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-07-24T08:07:54.439383-07:00.jpg"
-     alt="Wrap at 2022-07-24 08:07:56-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-07-24T08:07:54.439383-07:00.jpg">July 24 at 8:07 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
@@ -162,7 +162,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 25 accessibility trees with the Internet Archive.
+The archiving routine has saved 26 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 6:23 PM](https://archive.org/download/thewrap-2022/thewrap-2022-07-29T18:23:42.921337-07:00.accessibility.json) |
 | [July 29 at 6:35 AM](https://archive.org/download/thewrap-2022/thewrap-2022-07-29T06:35:08.735239-07:00.accessibility.json) |
 | [July 28 at 6:28 PM](https://archive.org/download/thewrap-2022/thewrap-2022-07-28T18:28:21.447052-07:00.accessibility.json) |
 | [July 28 at 6:27 AM](https://archive.org/download/thewrap-2022/thewrap-2022-07-28T06:27:17.119021-07:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 26 at 6:31 AM](https://archive.org/download/thewrap-2022/thewrap-2022-07-26T06:31:16.233890-07:00.accessibility.json) |
 | [July 25 at 7:53 PM](https://archive.org/download/thewrap-2022/thewrap-2022-07-25T19:53:19.299121-07:00.accessibility.json) |
 | [July 25 at 6:36 PM](https://archive.org/download/thewrap-2022/thewrap-2022-07-25T18:36:43.605444-07:00.accessibility.json) |
-| [July 25 at 8:48 AM](https://archive.org/download/thewrap-2022/thewrap-2022-07-25T08:48:55.623499-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 6:23 PM](https://archive.org/download/thewrap-2022/thewrap-2022-07-29T18:23:42.921337-07:00.lighthouse.json) |
 | [July 29 at 6:35 AM](https://archive.org/download/thewrap-2022/thewrap-2022-07-29T06:35:08.735239-07:00.lighthouse.json) |
 | [July 28 at 6:28 PM](https://archive.org/download/thewrap-2022/thewrap-2022-07-28T18:28:21.447052-07:00.lighthouse.json) |
 | [July 28 at 6:27 AM](https://archive.org/download/thewrap-2022/thewrap-2022-07-28T06:27:17.119021-07:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 26 at 6:31 AM](https://archive.org/download/thewrap-2022/thewrap-2022-07-26T06:31:16.233890-07:00.lighthouse.json) |
 | [July 25 at 7:53 PM](https://archive.org/download/thewrap-2022/thewrap-2022-07-25T19:53:19.299121-07:00.lighthouse.json) |
 | [July 25 at 6:36 PM](https://archive.org/download/thewrap-2022/thewrap-2022-07-25T18:36:43.605444-07:00.lighthouse.json) |
-| [July 25 at 8:49 AM](https://archive.org/download/thewrap-2022/thewrap-2022-07-25T08:48:55.623499-07:00.lighthouse.json) |
 
 
 

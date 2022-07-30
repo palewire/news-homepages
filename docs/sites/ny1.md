@@ -14,7 +14,7 @@ orphan: true
 | Site           | [https://www.ny1.com/](https://www.ny1.com/)                                                                                                                 |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ny1.xml)                                                              |
 | Twitter handle | [@NY1](https://www.twitter.com/NY1)                                                                                  |
-| Location       | New York                                                                                                                              |
+| Location       | New York City                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        | <a href="../bundles/new-york-city.html">New York City</a>  |
 

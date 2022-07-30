@@ -14,7 +14,7 @@ orphan: true
 | Site           | [https://www.nydailynews.com/](https://www.nydailynews.com/)                                                                                                                 |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nydailynews.xml)                                                              |
 | Twitter handle | [@NYDailyNews](https://www.twitter.com/NYDailyNews)                                                                                  |
-| Location       | New York                                                                                                                              |
+| Location       | New York City                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        | <a href="../bundles/new-york-city.html">New York City</a>  |
 

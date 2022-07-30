@@ -14,13 +14,13 @@ orphan: true
 | Site           | [https://www.vice.com/en/section/news](https://www.vice.com/en/section/news)                                                                                                                 |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/vicenews.xml)                                                              |
 | Twitter handle | [@VICENews](https://www.twitter.com/VICENews)                                                                                  |
-| Location       | New York                                                                                                                              |
+| Location       | New York City                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        |  |
 
 ## Screenshots
 
-The archiving routine has saved 107 screenshots with the Internet Archive.
+The archiving routine has saved 108 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 107 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-29T21:25:53.464777-04:00.jpg">
+  <img src="https://archive.org/download/vicenews-2022/vicenews-2022-07-29T21:25:53.464777-04:00.jpg"
+     alt="Vice News at 2022-07-29 21:25:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-29T21:25:53.464777-04:00.jpg">July 29 at 9:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-29T09:36:36.510656-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-25T00:39:56.188672-04:00.jpg">July 25 at 12:40 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-24T11:10:25.054205-04:00.jpg">
-  <img src="https://archive.org/download/vicenews-2022/vicenews-2022-07-24T11:10:25.054205-04:00.jpg"
-     alt="Vice News at 2022-07-24 11:10:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-07-24T11:10:25.054205-04:00.jpg">July 24 at 11:10 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 108 hyperlink lists with the Internet Archive.
+The archiving routine has saved 109 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 9:25 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-29T21:25:53.464777-04:00.hyperlinks.json) |
 | [July 29 at 9:36 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-29T09:36:36.510656-04:00.hyperlinks.json) |
 | [July 28 at 9:29 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-28T21:29:49.743197-04:00.hyperlinks.json) |
 | [July 28 at 9:28 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-28T09:28:38.088166-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 9:33 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-26T09:32:56.022571-04:00.hyperlinks.json) |
 | [July 25 at 10:54 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-25T22:54:06.948366-04:00.hyperlinks.json) |
 | [July 25 at 9:38 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-25T21:38:05.093593-04:00.hyperlinks.json) |
-| [July 25 at 11:52 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-25T11:52:08.101767-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 108 accessibility trees with the Internet Archive.
+The archiving routine has saved 109 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 9:25 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-29T21:25:53.464777-04:00.accessibility.json) |
 | [July 29 at 9:36 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-29T09:36:36.510656-04:00.accessibility.json) |
 | [July 28 at 9:29 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-28T21:29:49.743197-04:00.accessibility.json) |
 | [July 28 at 9:28 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-28T09:28:38.088166-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 26 at 9:32 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-26T09:32:56.022571-04:00.accessibility.json) |
 | [July 25 at 10:54 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-25T22:54:06.948366-04:00.accessibility.json) |
 | [July 25 at 9:38 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-25T21:38:05.093593-04:00.accessibility.json) |
-| [July 25 at 11:52 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-25T11:52:08.101767-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 9:25 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-29T21:25:53.464777-04:00.lighthouse.json) |
 | [July 29 at 9:36 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-29T09:36:36.510656-04:00.lighthouse.json) |
 | [July 28 at 9:30 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-28T21:29:49.743197-04:00.lighthouse.json) |
 | [July 28 at 9:28 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-28T09:28:38.088166-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 26 at 9:33 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-26T09:32:56.022571-04:00.lighthouse.json) |
 | [July 25 at 10:54 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-25T22:54:06.948366-04:00.lighthouse.json) |
 | [July 25 at 9:38 PM](https://archive.org/download/vicenews-2022/vicenews-2022-07-25T21:38:05.093593-04:00.lighthouse.json) |
-| [July 25 at 11:52 AM](https://archive.org/download/vicenews-2022/vicenews-2022-07-25T11:52:08.101767-04:00.lighthouse.json) |
 
 
 

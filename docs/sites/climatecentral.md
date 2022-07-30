@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 15 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-30T07:13:50.130587-04:00.jpg">
+  <img src="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-30T07:13:50.130587-04:00.jpg"
+     alt="Climate Central at 2022-07-30 07:13:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-30T07:13:50.130587-04:00.jpg">July 30 at 7:13 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-29T20:03:30.656017-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-24T07:01:44.096044-04:00.jpg">July 24 at 7:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-23T19:04:02.811399-04:00.jpg">
-  <img src="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-23T19:04:02.811399-04:00.jpg"
-     alt="Climate Central at 2022-07-23 19:04:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-23T19:04:02.811399-04:00.jpg">July 23 at 7:04 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 14 hyperlink lists with the Internet Archive.
+The archiving routine has saved 15 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 7:13 AM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-30T07:13:50.130587-04:00.hyperlinks.json) |
 | [July 29 at 8:03 PM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-29T20:03:30.656017-04:00.hyperlinks.json) |
 | [July 29 at 7:07 AM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-29T07:07:12.863829-04:00.hyperlinks.json) |
 | [July 28 at 7:11 PM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-28T19:11:06.185695-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 7:06 PM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-26T19:06:28.232843-04:00.hyperlinks.json) |
 | [July 25 at 7:10 PM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-25T19:10:33.821151-04:00.hyperlinks.json) |
 | [July 25 at 7:02 AM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-25T07:02:54.076645-04:00.hyperlinks.json) |
-| [July 24 at 8:55 PM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-24T20:55:49.154866-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 15 accessibility trees with the Internet Archive.
+The archiving routine has saved 16 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 7:13 AM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-30T07:13:50.130587-04:00.accessibility.json) |
 | [July 29 at 8:03 PM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-29T20:03:30.656017-04:00.accessibility.json) |
 | [July 29 at 7:07 AM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-29T07:07:12.863829-04:00.accessibility.json) |
 | [July 28 at 7:11 PM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-28T19:11:06.185695-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 26 at 7:06 PM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-26T19:06:28.232843-04:00.accessibility.json) |
 | [July 26 at 7:14 AM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-26T07:14:54.780481-04:00.accessibility.json) |
 | [July 25 at 7:10 PM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-25T19:10:33.821151-04:00.accessibility.json) |
-| [July 25 at 7:02 AM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-25T07:02:54.076645-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 7:13 AM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-30T07:13:50.130587-04:00.lighthouse.json) |
 | [July 29 at 8:03 PM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-29T20:03:30.656017-04:00.lighthouse.json) |
 | [July 29 at 7:07 AM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-29T07:07:12.863829-04:00.lighthouse.json) |
 | [July 28 at 7:11 PM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-28T19:11:06.185695-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 26 at 7:06 PM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-26T19:06:28.232843-04:00.lighthouse.json) |
 | [July 26 at 7:14 AM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-26T07:14:54.780481-04:00.lighthouse.json) |
 | [July 25 at 7:10 PM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-25T19:10:33.821151-04:00.lighthouse.json) |
-| [July 25 at 7:03 AM](https://archive.org/download/climatecentral-2022/climatecentral-2022-07-25T07:02:54.076645-04:00.lighthouse.json) |
 
 
 
