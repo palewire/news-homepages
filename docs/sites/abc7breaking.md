@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 26 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-29T19:17:27.427495-06:00.jpg">
+  <img src="https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-29T19:17:27.427495-06:00.jpg"
+     alt="KVIA at 2022-07-29 19:17:29-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-29T19:17:27.427495-06:00.jpg">July 29 at 7:17 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-29T07:27:53.963911-06:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-24T19:46:01.897559-05:00.jpg">July 24 at 6:46 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-24T05:55:32.485303-05:00.jpg">
-  <img src="https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-24T05:55:32.485303-05:00.jpg"
-     alt="KVIA at 2022-07-24 04:55:34-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-24T05:55:32.485303-05:00.jpg">July 24 at 4:55 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 7:17 PM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-29T19:17:27.427495-06:00.hyperlinks.json) |
 | [July 29 at 7:27 AM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-29T07:27:53.963911-06:00.hyperlinks.json) |
 | [July 28 at 7:21 PM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-28T19:21:04.028261-06:00.hyperlinks.json) |
 | [July 28 at 7:19 AM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-28T07:19:51.580256-06:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 7:23 AM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-26T07:23:40.744255-06:00.hyperlinks.json) |
 | [July 25 at 8:55 PM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-25T21:55:14.276672-05:00.hyperlinks.json) |
 | [July 25 at 7:30 PM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-25T20:30:52.929818-05:00.hyperlinks.json) |
-| [July 25 at 4:56 AM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-25T05:56:28.599455-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 26 accessibility trees with the Internet Archive.
+The archiving routine has saved 27 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 7:17 PM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-29T19:17:27.427495-06:00.accessibility.json) |
 | [July 29 at 7:27 AM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-29T07:27:53.963911-06:00.accessibility.json) |
 | [July 28 at 7:21 PM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-28T19:21:04.028261-06:00.accessibility.json) |
 | [July 28 at 7:19 AM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-28T07:19:51.580256-06:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 26 at 7:23 AM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-26T07:23:40.744255-06:00.accessibility.json) |
 | [July 25 at 8:55 PM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-25T21:55:14.276672-05:00.accessibility.json) |
 | [July 25 at 7:30 PM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-25T20:30:52.929818-05:00.accessibility.json) |
-| [July 25 at 4:56 AM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-25T05:56:28.599455-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 7:17 PM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-29T19:17:27.427495-06:00.lighthouse.json) |
 | [July 29 at 7:28 AM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-29T07:27:53.963911-06:00.lighthouse.json) |
 | [July 28 at 7:21 PM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-28T19:21:04.028261-06:00.lighthouse.json) |
 | [July 28 at 7:19 AM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-28T07:19:51.580256-06:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 26 at 7:23 AM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-26T07:23:40.744255-06:00.lighthouse.json) |
 | [July 25 at 8:55 PM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-25T21:55:14.276672-05:00.lighthouse.json) |
 | [July 25 at 7:31 PM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-25T20:30:52.929818-05:00.lighthouse.json) |
-| [July 25 at 4:56 AM](https://archive.org/download/abc7breaking-2022/abc7breaking-2022-07-25T05:56:28.599455-05:00.lighthouse.json) |
 
 
 

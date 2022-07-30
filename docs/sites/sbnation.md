@@ -14,7 +14,7 @@ orphan: true
 | Site           | [https://www.sbnation.com/](https://www.sbnation.com/)                                                                                                                 |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/sbnation.xml)                                                              |
 | Twitter handle | [@SBNation](https://www.twitter.com/SBNation)                                                                                  |
-| Location       | New York                                                                                                                              |
+| Location       | New York City                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        | <a href="../bundles/sports.html">Sports</a>  |
 

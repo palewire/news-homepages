@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-29T21:23:12.035441-04:00.jpg">
+  <img src="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-29T21:23:12.035441-04:00.jpg"
+     alt="Left Bench at 2022-07-29 21:23:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-29T21:23:12.035441-04:00.jpg">July 29 at 9:23 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-29T09:34:46.154852-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-23T23:41:58.770747-04:00.jpg">July 23 at 11:42 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-23T12:04:56.308865-04:00.jpg">
-  <img src="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-23T12:04:56.308865-04:00.jpg"
-     alt="Left Bench at 2022-07-23 12:04:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theleftbench-2022/theleftbench-2022-07-23T12:04:56.308865-04:00.jpg">July 23 at 12:04 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 38 hyperlink lists with the Internet Archive.
+The archiving routine has saved 39 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 9:23 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-29T21:23:12.035441-04:00.hyperlinks.json) |
 | [July 29 at 9:34 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-29T09:34:46.154852-04:00.hyperlinks.json) |
 | [July 28 at 9:27 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-28T21:27:36.387066-04:00.hyperlinks.json) |
 | [July 28 at 9:26 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-28T09:26:12.530225-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 9:30 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-26T09:30:43.370671-04:00.hyperlinks.json) |
 | [July 25 at 10:51 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-25T22:51:43.399088-04:00.hyperlinks.json) |
 | [July 25 at 9:35 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-25T21:35:22.232382-04:00.hyperlinks.json) |
-| [July 25 at 11:47 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-25T11:47:29.945232-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 38 accessibility trees with the Internet Archive.
+The archiving routine has saved 39 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 9:23 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-29T21:23:12.035441-04:00.accessibility.json) |
 | [July 29 at 9:34 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-29T09:34:46.154852-04:00.accessibility.json) |
 | [July 28 at 9:27 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-28T21:27:36.387066-04:00.accessibility.json) |
 | [July 28 at 9:26 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-28T09:26:12.530225-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 26 at 9:30 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-26T09:30:43.370671-04:00.accessibility.json) |
 | [July 25 at 10:51 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-25T22:51:43.399088-04:00.accessibility.json) |
 | [July 25 at 9:35 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-25T21:35:22.232382-04:00.accessibility.json) |
-| [July 25 at 11:47 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-25T11:47:29.945232-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 9:23 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-29T21:23:12.035441-04:00.lighthouse.json) |
 | [July 29 at 9:34 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-29T09:34:46.154852-04:00.lighthouse.json) |
 | [July 28 at 9:27 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-28T21:27:36.387066-04:00.lighthouse.json) |
 | [July 28 at 9:26 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-28T09:26:12.530225-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 26 at 9:30 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-26T09:30:43.370671-04:00.lighthouse.json) |
 | [July 25 at 10:51 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-25T22:51:43.399088-04:00.lighthouse.json) |
 | [July 25 at 9:35 PM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-25T21:35:22.232382-04:00.lighthouse.json) |
-| [July 25 at 11:47 AM](https://archive.org/download/theleftbench-2022/theleftbench-2022-07-25T11:47:29.945232-04:00.lighthouse.json) |
 
 
 

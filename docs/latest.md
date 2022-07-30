@@ -215,6 +215,15 @@ The most recent homepages captured from 678 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/albany_herald.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/albany_herald.jpg"
+     alt="Albany Herald"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/albany_herald.html">Albany Herald</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/abqbizfirst.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abqbizfirst.jpg"
      alt="Albuquerque Business First"
@@ -5126,15 +5135,6 @@ The most recent homepages captured from 678 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/thahakhabar.html">Thaha Khabar</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/albany_herald.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/albany_herald.jpg"
-     alt="The Albany Herald"
-     loading="lazy">
- </a>
- <p><a href="./sites/albany_herald.html">The Albany Herald</a></p>
 </div>
 
 <div class="latest-child">

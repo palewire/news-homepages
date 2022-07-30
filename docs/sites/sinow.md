@@ -14,7 +14,7 @@ orphan: true
 | Site           | [https://www.si.com/](https://www.si.com/)                                                                                                                 |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/sinow.xml)                                                              |
 | Twitter handle | [@SInow](https://www.twitter.com/SInow)                                                                                  |
-| Location       | New York                                                                                                                              |
+| Location       | New York City                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        | <a href="../bundles/sports.html">Sports</a>  |
 

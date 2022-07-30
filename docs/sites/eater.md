@@ -14,13 +14,13 @@ orphan: true
 | Site           | [https://www.eater.com/](https://www.eater.com/)                                                                                                                 |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/eater.xml)                                                              |
 | Twitter handle | [@eater](https://www.twitter.com/eater)                                                                                  |
-| Location       | New York                                                                                                                              |
+| Location       | New York City                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        |  |
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eater-2022/eater-2022-07-29T22:37:11.334460-04:00.jpg">
+  <img src="https://archive.org/download/eater-2022/eater-2022-07-29T22:37:11.334460-04:00.jpg"
+     alt="Eater at 2022-07-29 22:37:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eater-2022/eater-2022-07-29T22:37:11.334460-04:00.jpg">July 29 at 10:37 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eater-2022/eater-2022-07-29T10:36:02.627695-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eater-2022/eater-2022-07-24T07:57:25.214646-04:00.jpg">July 24 at 7:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eater-2022/eater-2022-07-24T02:27:40.134460-04:00.jpg">
-  <img src="https://archive.org/download/eater-2022/eater-2022-07-24T02:27:40.134460-04:00.jpg"
-     alt="Eater at 2022-07-24 02:27:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eater-2022/eater-2022-07-24T02:27:40.134460-04:00.jpg">July 24 at 2:27 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 40 hyperlink lists with the Internet Archive.
+The archiving routine has saved 41 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 10:37 PM](https://archive.org/download/eater-2022/eater-2022-07-29T22:37:11.334460-04:00.hyperlinks.json) |
 | [July 29 at 10:36 AM](https://archive.org/download/eater-2022/eater-2022-07-29T10:36:02.627695-04:00.hyperlinks.json) |
 | [July 28 at 10:34 PM](https://archive.org/download/eater-2022/eater-2022-07-28T22:33:58.016489-04:00.hyperlinks.json) |
 | [July 28 at 11:38 AM](https://archive.org/download/eater-2022/eater-2022-07-28T11:38:32.514514-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 10:33 AM](https://archive.org/download/eater-2022/eater-2022-07-26T10:33:26.185712-04:00.hyperlinks.json) |
 | [July 25 at 10:40 PM](https://archive.org/download/eater-2022/eater-2022-07-25T22:40:26.634405-04:00.hyperlinks.json) |
 | [July 25 at 8:00 AM](https://archive.org/download/eater-2022/eater-2022-07-25T08:00:04.131308-04:00.hyperlinks.json) |
-| [July 24 at 9:02 PM](https://archive.org/download/eater-2022/eater-2022-07-24T21:02:09.181592-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 41 accessibility trees with the Internet Archive.
+The archiving routine has saved 42 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 10:37 PM](https://archive.org/download/eater-2022/eater-2022-07-29T22:37:11.334460-04:00.accessibility.json) |
 | [July 29 at 10:36 AM](https://archive.org/download/eater-2022/eater-2022-07-29T10:36:02.627695-04:00.accessibility.json) |
 | [July 28 at 10:34 PM](https://archive.org/download/eater-2022/eater-2022-07-28T22:33:58.016489-04:00.accessibility.json) |
 | [July 28 at 11:38 AM](https://archive.org/download/eater-2022/eater-2022-07-28T11:38:32.514514-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 26 at 10:33 AM](https://archive.org/download/eater-2022/eater-2022-07-26T10:33:26.185712-04:00.accessibility.json) |
 | [July 25 at 10:40 PM](https://archive.org/download/eater-2022/eater-2022-07-25T22:40:26.634405-04:00.accessibility.json) |
 | [July 25 at 8:00 AM](https://archive.org/download/eater-2022/eater-2022-07-25T08:00:04.131308-04:00.accessibility.json) |
-| [July 24 at 9:02 PM](https://archive.org/download/eater-2022/eater-2022-07-24T21:02:09.181592-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 10:37 PM](https://archive.org/download/eater-2022/eater-2022-07-29T22:37:11.334460-04:00.lighthouse.json) |
 | [July 29 at 10:36 AM](https://archive.org/download/eater-2022/eater-2022-07-29T10:36:02.627695-04:00.lighthouse.json) |
 | [July 28 at 10:34 PM](https://archive.org/download/eater-2022/eater-2022-07-28T22:33:58.016489-04:00.lighthouse.json) |
 | [July 28 at 11:38 AM](https://archive.org/download/eater-2022/eater-2022-07-28T11:38:32.514514-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 26 at 10:33 AM](https://archive.org/download/eater-2022/eater-2022-07-26T10:33:26.185712-04:00.lighthouse.json) |
 | [July 25 at 10:40 PM](https://archive.org/download/eater-2022/eater-2022-07-25T22:40:26.634405-04:00.lighthouse.json) |
 | [July 25 at 8:00 AM](https://archive.org/download/eater-2022/eater-2022-07-25T08:00:04.131308-04:00.lighthouse.json) |
-| [July 24 at 9:02 PM](https://archive.org/download/eater-2022/eater-2022-07-24T21:02:09.181592-04:00.lighthouse.json) |
 
 
 

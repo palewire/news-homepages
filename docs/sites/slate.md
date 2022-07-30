@@ -14,7 +14,7 @@ orphan: true
 | Site           | [https://slate.com/](https://slate.com/)                                                                                                                 |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/slate.xml)                                                              |
 | Twitter handle | [@Slate](https://www.twitter.com/Slate)                                                                                  |
-| Location       | New York                                                                                                                              |
+| Location       | New York City                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        | <a href="../bundles/us-left-wing.html">U.S. left wing</a>  |
 

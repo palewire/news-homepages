@@ -5,9 +5,9 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# The Albany Herald
+# Albany Herald
 
-![The Albany Herald](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/albany_herald.jpg)
+![Albany Herald](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/albany_herald.jpg)
 
 | Attribute      | Value                                                                                                                                            |
 | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
@@ -29,9 +29,18 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-30T07:08:59.141413-04:00.jpg">
+  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-30T07:08:59.141413-04:00.jpg"
+     alt="Albany Herald at 2022-07-30 07:09:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-30T07:08:59.141413-04:00.jpg">July 30 at 7:09 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-29T19:59:25.322896-04:00.jpg">
   <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-29T19:59:25.322896-04:00.jpg"
-     alt="The Albany Herald at 2022-07-29 19:59:26-04:00 local time"
+     alt="Albany Herald at 2022-07-29 19:59:26-04:00 local time"
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-29T19:59:25.322896-04:00.jpg">July 29 at 7:59 PM</a></p>
@@ -40,7 +49,7 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-29T07:02:43.007973-04:00.jpg">
   <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-29T07:02:43.007973-04:00.jpg"
-     alt="The Albany Herald at 2022-07-29 07:02:44-04:00 local time"
+     alt="Albany Herald at 2022-07-29 07:02:44-04:00 local time"
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-29T07:02:43.007973-04:00.jpg">July 29 at 7:02 AM</a></p>
@@ -49,7 +58,7 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-28T19:05:53.719725-04:00.jpg">
   <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-28T19:05:53.719725-04:00.jpg"
-     alt="The Albany Herald at 2022-07-28 19:05:55-04:00 local time"
+     alt="Albany Herald at 2022-07-28 19:05:55-04:00 local time"
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-28T19:05:53.719725-04:00.jpg">July 28 at 7:05 PM</a></p>
@@ -58,7 +67,7 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-28T07:04:34.975344-04:00.jpg">
   <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-28T07:04:34.975344-04:00.jpg"
-     alt="The Albany Herald at 2022-07-28 07:04:36-04:00 local time"
+     alt="Albany Herald at 2022-07-28 07:04:36-04:00 local time"
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-28T07:04:34.975344-04:00.jpg">July 28 at 7:04 AM</a></p>
@@ -67,7 +76,7 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-27T19:01:01.154818-04:00.jpg">
   <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-27T19:01:01.154818-04:00.jpg"
-     alt="The Albany Herald at 2022-07-27 19:01:03-04:00 local time"
+     alt="Albany Herald at 2022-07-27 19:01:03-04:00 local time"
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-27T19:01:01.154818-04:00.jpg">July 27 at 7:01 PM</a></p>
@@ -76,7 +85,7 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-27T07:00:49.012854-04:00.jpg">
   <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-27T07:00:49.012854-04:00.jpg"
-     alt="The Albany Herald at 2022-07-27 07:00:50-04:00 local time"
+     alt="Albany Herald at 2022-07-27 07:00:50-04:00 local time"
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-27T07:00:49.012854-04:00.jpg">July 27 at 7:00 AM</a></p>
@@ -85,7 +94,7 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-26T19:02:00.007261-04:00.jpg">
   <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-26T19:02:00.007261-04:00.jpg"
-     alt="The Albany Herald at 2022-07-26 19:02:02-04:00 local time"
+     alt="Albany Herald at 2022-07-26 19:02:02-04:00 local time"
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-26T19:02:00.007261-04:00.jpg">July 26 at 7:02 PM</a></p>
@@ -94,7 +103,7 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-26T07:11:04.820415-04:00.jpg">
   <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-26T07:11:04.820415-04:00.jpg"
-     alt="The Albany Herald at 2022-07-26 07:11:07-04:00 local time"
+     alt="Albany Herald at 2022-07-26 07:11:07-04:00 local time"
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-26T07:11:04.820415-04:00.jpg">July 26 at 7:11 AM</a></p>
@@ -103,7 +112,7 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-25T19:06:03.403363-04:00.jpg">
   <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-25T19:06:03.403363-04:00.jpg"
-     alt="The Albany Herald at 2022-07-25 19:06:04-04:00 local time"
+     alt="Albany Herald at 2022-07-25 19:06:04-04:00 local time"
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-25T19:06:03.403363-04:00.jpg">July 25 at 7:06 PM</a></p>
@@ -112,7 +121,7 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-24T20:45:40.712315-04:00.jpg">
   <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-24T20:45:40.712315-04:00.jpg"
-     alt="The Albany Herald at 2022-07-24 20:45:42-04:00 local time"
+     alt="Albany Herald at 2022-07-24 20:45:42-04:00 local time"
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-24T20:45:40.712315-04:00.jpg">July 24 at 8:45 PM</a></p>
@@ -121,26 +130,17 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-24T06:56:21.090343-04:00.jpg">
   <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-24T06:56:21.090343-04:00.jpg"
-     alt="The Albany Herald at 2022-07-24 06:56:22-04:00 local time"
+     alt="Albany Herald at 2022-07-24 06:56:22-04:00 local time"
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-24T06:56:21.090343-04:00.jpg">July 24 at 6:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-23T18:57:39.375972-04:00.jpg">
-  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-23T18:57:39.375972-04:00.jpg"
-     alt="The Albany Herald at 2022-07-23 18:57:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-23T18:57:39.375972-04:00.jpg">July 23 at 6:57 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 14 hyperlink lists with the Internet Archive.
+The archiving routine has saved 15 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 7:09 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-30T07:08:59.141413-04:00.hyperlinks.json) |
 | [July 29 at 7:59 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-29T19:59:25.322896-04:00.hyperlinks.json) |
 | [July 29 at 7:02 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-29T07:02:43.007973-04:00.hyperlinks.json) |
 | [July 28 at 7:05 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-28T19:05:53.719725-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 6:56 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-25T06:56:34.852381-04:00.hyperlinks.json) |
 | [July 24 at 8:45 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-24T20:45:40.712315-04:00.hyperlinks.json) |
 | [July 23 at 6:57 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-23T18:57:39.375972-04:00.hyperlinks.json) |
-| [July 22 at 8:55 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-22T20:55:54.444305-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 20 accessibility trees with the Internet Archive.
+The archiving routine has saved 21 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 7:09 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-30T07:08:59.141413-04:00.accessibility.json) |
 | [July 29 at 7:59 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-29T19:59:25.322896-04:00.accessibility.json) |
 | [July 29 at 7:02 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-29T07:02:43.007973-04:00.accessibility.json) |
 | [July 28 at 7:05 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-28T19:05:53.719725-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 26 at 7:02 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-26T19:02:00.007261-04:00.accessibility.json) |
 | [July 26 at 7:11 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-26T07:11:04.820415-04:00.accessibility.json) |
 | [July 25 at 7:06 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-25T19:06:03.403363-04:00.accessibility.json) |
-| [July 25 at 6:56 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-25T06:56:34.852381-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 7:09 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-30T07:08:59.141413-04:00.lighthouse.json) |
 | [July 29 at 7:59 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-29T19:59:25.322896-04:00.lighthouse.json) |
 | [July 29 at 7:02 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-29T07:02:43.007973-04:00.lighthouse.json) |
 | [July 28 at 7:06 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-28T19:05:53.719725-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 26 at 7:02 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-26T19:02:00.007261-04:00.lighthouse.json) |
 | [July 26 at 7:11 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-26T07:11:04.820415-04:00.lighthouse.json) |
 | [July 25 at 7:06 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-25T19:06:03.403363-04:00.lighthouse.json) |
-| [July 25 at 6:56 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-07-25T06:56:34.852381-04:00.lighthouse.json) |
 
 
 

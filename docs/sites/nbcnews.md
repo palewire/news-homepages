@@ -14,7 +14,7 @@ orphan: true
 | Site           | [https://www.nbcnews.com/](https://www.nbcnews.com/)                                                                                                                 |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcnews.xml)                                                              |
 | Twitter handle | [@NBCNews](https://www.twitter.com/NBCNews)                                                                                  |
-| Location       | New York                                                                                                                              |
+| Location       | New York City                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        | <a href="../bundles/us-national.html">U.S. national news</a>  |
 

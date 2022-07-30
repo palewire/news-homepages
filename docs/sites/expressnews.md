@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 53 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 53 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-30T06:16:11.305242-05:00.jpg">
+  <img src="https://archive.org/download/expressnews-2022/expressnews-2022-07-30T06:16:11.305242-05:00.jpg"
+     alt="San Antonio Express-News at 2022-07-30 06:16:14-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-30T06:16:11.305242-05:00.jpg">July 30 at 6:16 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-29T19:06:30.967550-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-24T20:04:23.548076-05:00.jpg">July 24 at 8:04 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-24T06:59:14.064015-05:00.jpg">
-  <img src="https://archive.org/download/expressnews-2022/expressnews-2022-07-24T06:59:14.064015-05:00.jpg"
-     alt="San Antonio Express-News at 2022-07-24 06:59:16-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-24T06:59:14.064015-05:00.jpg">July 24 at 6:59 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 53 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 6:16 AM](https://archive.org/download/expressnews-2022/expressnews-2022-07-30T06:16:11.305242-05:00.hyperlinks.json) |
 | [July 29 at 7:06 PM](https://archive.org/download/expressnews-2022/expressnews-2022-07-29T19:06:30.967550-05:00.hyperlinks.json) |
 | [July 29 at 6:09 AM](https://archive.org/download/expressnews-2022/expressnews-2022-07-29T06:09:18.643883-05:00.hyperlinks.json) |
 | [July 28 at 6:13 PM](https://archive.org/download/expressnews-2022/expressnews-2022-07-28T18:13:38.976571-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 6:08 PM](https://archive.org/download/expressnews-2022/expressnews-2022-07-26T18:08:53.190628-05:00.hyperlinks.json) |
 | [July 26 at 6:17 AM](https://archive.org/download/expressnews-2022/expressnews-2022-07-26T06:17:52.193790-05:00.hyperlinks.json) |
 | [July 25 at 6:13 PM](https://archive.org/download/expressnews-2022/expressnews-2022-07-25T18:12:53.862225-05:00.hyperlinks.json) |
-| [July 25 at 7:01 AM](https://archive.org/download/expressnews-2022/expressnews-2022-07-25T07:01:31.108518-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 53 accessibility trees with the Internet Archive.
+The archiving routine has saved 54 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 6:16 AM](https://archive.org/download/expressnews-2022/expressnews-2022-07-30T06:16:11.305242-05:00.accessibility.json) |
 | [July 29 at 7:06 PM](https://archive.org/download/expressnews-2022/expressnews-2022-07-29T19:06:30.967550-05:00.accessibility.json) |
 | [July 29 at 6:09 AM](https://archive.org/download/expressnews-2022/expressnews-2022-07-29T06:09:18.643883-05:00.accessibility.json) |
 | [July 28 at 6:13 PM](https://archive.org/download/expressnews-2022/expressnews-2022-07-28T18:13:38.976571-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 26 at 6:08 PM](https://archive.org/download/expressnews-2022/expressnews-2022-07-26T18:08:53.190628-05:00.accessibility.json) |
 | [July 26 at 6:17 AM](https://archive.org/download/expressnews-2022/expressnews-2022-07-26T06:17:52.193790-05:00.accessibility.json) |
 | [July 25 at 6:13 PM](https://archive.org/download/expressnews-2022/expressnews-2022-07-25T18:12:53.862225-05:00.accessibility.json) |
-| [July 25 at 7:01 AM](https://archive.org/download/expressnews-2022/expressnews-2022-07-25T07:01:31.108518-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 6:16 AM](https://archive.org/download/expressnews-2022/expressnews-2022-07-30T06:16:11.305242-05:00.lighthouse.json) |
 | [July 29 at 7:06 PM](https://archive.org/download/expressnews-2022/expressnews-2022-07-29T19:06:30.967550-05:00.lighthouse.json) |
 | [July 29 at 6:09 AM](https://archive.org/download/expressnews-2022/expressnews-2022-07-29T06:09:18.643883-05:00.lighthouse.json) |
 | [July 28 at 6:13 PM](https://archive.org/download/expressnews-2022/expressnews-2022-07-28T18:13:38.976571-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 26 at 6:08 PM](https://archive.org/download/expressnews-2022/expressnews-2022-07-26T18:08:53.190628-05:00.lighthouse.json) |
 | [July 26 at 6:17 AM](https://archive.org/download/expressnews-2022/expressnews-2022-07-26T06:17:52.193790-05:00.lighthouse.json) |
 | [July 25 at 6:13 PM](https://archive.org/download/expressnews-2022/expressnews-2022-07-25T18:12:53.862225-05:00.lighthouse.json) |
-| [July 25 at 7:01 AM](https://archive.org/download/expressnews-2022/expressnews-2022-07-25T07:01:31.108518-05:00.lighthouse.json) |
 
 
 

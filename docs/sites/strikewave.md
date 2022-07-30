@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 21 screenshots with the Internet Archive.
+The archiving routine has saved 22 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/strikewave-2022/strikewave-2022-07-29T23:54:19.358923-04:00.jpg">
+  <img src="https://archive.org/download/strikewave-2022/strikewave-2022-07-29T23:54:19.358923-04:00.jpg"
+     alt="Strikewave at 2022-07-29 23:54:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/strikewave-2022/strikewave-2022-07-29T23:54:19.358923-04:00.jpg">July 29 at 11:54 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/strikewave-2022/strikewave-2022-07-29T14:37:11.841390-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/strikewave-2022/strikewave-2022-07-25T23:58:19.259515-04:00.jpg">July 25 at 11:58 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/strikewave-2022/strikewave-2022-07-25T14:40:49.444506-04:00.jpg">
-  <img src="https://archive.org/download/strikewave-2022/strikewave-2022-07-25T14:40:49.444506-04:00.jpg"
-     alt="Strikewave at 2022-07-25 14:40:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/strikewave-2022/strikewave-2022-07-25T14:40:49.444506-04:00.jpg">July 25 at 2:40 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 21 hyperlink lists with the Internet Archive.
+The archiving routine has saved 22 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 11:54 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-29T23:54:19.358923-04:00.hyperlinks.json) |
 | [July 29 at 2:37 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-29T14:37:11.841390-04:00.hyperlinks.json) |
 | [July 29 at 11:56 AM](https://archive.org/download/strikewave-2022/strikewave-2022-07-29T11:55:57.911969-04:00.hyperlinks.json) |
 | [July 28 at 11:49 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-28T23:49:48.861066-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 27 at 11:47 AM](https://archive.org/download/strikewave-2022/strikewave-2022-07-27T11:47:44.289988-04:00.hyperlinks.json) |
 | [July 26 at 11:55 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-26T23:55:06.171763-04:00.hyperlinks.json) |
 | [July 26 at 2:37 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-26T14:37:38.984063-04:00.hyperlinks.json) |
-| [July 26 at 11:46 AM](https://archive.org/download/strikewave-2022/strikewave-2022-07-26T11:46:11.280546-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 21 accessibility trees with the Internet Archive.
+The archiving routine has saved 22 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 11:54 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-29T23:54:19.358923-04:00.accessibility.json) |
 | [July 29 at 2:37 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-29T14:37:11.841390-04:00.accessibility.json) |
 | [July 29 at 11:56 AM](https://archive.org/download/strikewave-2022/strikewave-2022-07-29T11:55:57.911969-04:00.accessibility.json) |
 | [July 28 at 11:49 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-28T23:49:48.861066-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 27 at 11:47 AM](https://archive.org/download/strikewave-2022/strikewave-2022-07-27T11:47:44.289988-04:00.accessibility.json) |
 | [July 26 at 11:55 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-26T23:55:06.171763-04:00.accessibility.json) |
 | [July 26 at 2:37 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-26T14:37:38.984063-04:00.accessibility.json) |
-| [July 26 at 11:46 AM](https://archive.org/download/strikewave-2022/strikewave-2022-07-26T11:46:11.280546-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 11:54 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-29T23:54:19.358923-04:00.lighthouse.json) |
 | [July 29 at 2:37 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-29T14:37:11.841390-04:00.lighthouse.json) |
 | [July 29 at 11:56 AM](https://archive.org/download/strikewave-2022/strikewave-2022-07-29T11:55:57.911969-04:00.lighthouse.json) |
 | [July 28 at 11:49 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-28T23:49:48.861066-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 11:47 AM](https://archive.org/download/strikewave-2022/strikewave-2022-07-27T11:47:44.289988-04:00.lighthouse.json) |
 | [July 26 at 11:55 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-26T23:55:06.171763-04:00.lighthouse.json) |
 | [July 26 at 2:37 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-26T14:37:38.984063-04:00.lighthouse.json) |
-| [July 26 at 11:46 AM](https://archive.org/download/strikewave-2022/strikewave-2022-07-26T11:46:11.280546-04:00.lighthouse.json) |
 
 
 

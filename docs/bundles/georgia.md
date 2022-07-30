@@ -39,6 +39,15 @@ The most recent homepages from 36 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/albany_herald.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/albany_herald.jpg"
+     alt="Albany Herald"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/albany_herald.html">Albany Herald</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/onlineathens.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/onlineathens.jpg"
      alt="Athens Banner-Herald"
@@ -180,15 +189,6 @@ The most recent homepages from 36 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/savannahnow.html">Savannah Morning News</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/albany_herald.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/albany_herald.jpg"
-     alt="The Albany Herald"
-     loading="lazy">
- </a>
- <p><a href="../sites/albany_herald.html">The Albany Herald</a></p>
 </div>
 
 <div class="latest-child">
@@ -353,6 +353,7 @@ The most recent homepages from 36 news sites in this bundle.
 |[11Alive News](https://palewi.re/docs/news-homepages/sites/11alivenews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/11alivenews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/11alivenews.xml)|
 |[13WMAZ News](https://palewi.re/docs/news-homepages/sites/13wmaznews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/13wmaznews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/13wmaznews.xml)|
 |[41NBC / WMGT](https://palewi.re/docs/news-homepages/sites/41nbc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/41nbc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/41nbc.xml)|
+|[Albany Herald](https://palewi.re/docs/news-homepages/sites/albany_herald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/albany_herald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/albany_herald.xml)|
 |[Athens Banner-Herald](https://palewi.re/docs/news-homepages/sites/onlineathens.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/onlineathens.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/onlineathens.xml)|
 |[Atlanta Civic Circle](https://palewi.re/docs/news-homepages/sites/atlciviccircle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/atlciviccircle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/atlciviccircle.xml)|
 |[Atlanta Journal-Constitution](https://palewi.re/docs/news-homepages/sites/ajc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ajc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ajc.xml)|
@@ -369,7 +370,6 @@ The most recent homepages from 36 news sites in this bundle.
 |[News 12 NBC 26](https://palewi.re/docs/news-homepages/sites/wrdw_wagt.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wrdw_wagt.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wrdw_wagt.xml)|
 |[Rome News-Tribune](https://palewi.re/docs/news-homepages/sites/romenewstribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/romenewstribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/romenewstribune.xml)|
 |[Savannah Morning News](https://palewi.re/docs/news-homepages/sites/savannahnow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/savannahnow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/savannahnow.xml)|
-|[The Albany Herald](https://palewi.re/docs/news-homepages/sites/albany_herald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/albany_herald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/albany_herald.xml)|
 |[The Brunswick News](https://palewi.re/docs/news-homepages/sites/brunswick_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/brunswick_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/brunswick_news.xml)|
 |[The LaGrange Daily News](https://palewi.re/docs/news-homepages/sites/lagrangenews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lagrangenews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lagrangenews.xml)|
 |[The Ledger-Enquirer](https://palewi.re/docs/news-homepages/sites/ledgerenquirer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ledgerenquirer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ledgerenquirer.xml)|

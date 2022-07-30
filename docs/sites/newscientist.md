@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 51 screenshots with the Internet Archive.
+The archiving routine has saved 52 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 51 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-30T03:45:37.651748+01:00.jpg">
+  <img src="https://archive.org/download/newscientist-2022/newscientist-2022-07-30T03:45:37.651748+01:00.jpg"
+     alt="New Scientist at 2022-07-30 03:45:40+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-30T03:45:37.651748+01:00.jpg">July 30 at 3:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-29T15:45:12.120757+01:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-24T14:05:02.828735+01:00.jpg">July 24 at 2:05 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-24T05:20:38.354978+01:00.jpg">
-  <img src="https://archive.org/download/newscientist-2022/newscientist-2022-07-24T05:20:38.354978+01:00.jpg"
-     alt="New Scientist at 2022-07-24 05:20:40+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-24T05:20:38.354978+01:00.jpg">July 24 at 5:20 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 51 hyperlink lists with the Internet Archive.
+The archiving routine has saved 52 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 3:45 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-30T03:45:37.651748+01:00.hyperlinks.json) |
 | [July 29 at 3:45 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-29T15:45:12.120757+01:00.hyperlinks.json) |
 | [July 29 at 3:41 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-29T03:41:19.002645+01:00.hyperlinks.json) |
 | [July 28 at 4:46 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-28T16:46:13.462133+01:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 3:41 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-26T15:41:29.597949+01:00.hyperlinks.json) |
 | [July 26 at 3:49 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-26T03:48:55.158276+01:00.hyperlinks.json) |
 | [July 25 at 2:16 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-25T14:16:36.615614+01:00.hyperlinks.json) |
-| [July 25 at 4:35 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-25T04:35:39.892925+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 51 accessibility trees with the Internet Archive.
+The archiving routine has saved 52 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 3:45 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-30T03:45:37.651748+01:00.accessibility.json) |
 | [July 29 at 3:45 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-29T15:45:12.120757+01:00.accessibility.json) |
 | [July 29 at 3:41 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-29T03:41:19.002645+01:00.accessibility.json) |
 | [July 28 at 4:46 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-28T16:46:13.462133+01:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 26 at 3:41 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-26T15:41:29.597949+01:00.accessibility.json) |
 | [July 26 at 3:49 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-26T03:48:55.158276+01:00.accessibility.json) |
 | [July 25 at 2:16 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-25T14:16:36.615614+01:00.accessibility.json) |
-| [July 25 at 4:35 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-25T04:35:39.892925+01:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 3:45 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-30T03:45:37.651748+01:00.lighthouse.json) |
 | [July 29 at 3:45 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-29T15:45:12.120757+01:00.lighthouse.json) |
 | [July 29 at 3:41 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-29T03:41:19.002645+01:00.lighthouse.json) |
 | [July 28 at 4:46 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-28T16:46:13.462133+01:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 26 at 3:41 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-26T15:41:29.597949+01:00.lighthouse.json) |
 | [July 26 at 3:49 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-26T03:48:55.158276+01:00.lighthouse.json) |
 | [July 25 at 2:16 PM](https://archive.org/download/newscientist-2022/newscientist-2022-07-25T14:16:36.615614+01:00.lighthouse.json) |
-| [July 25 at 4:35 AM](https://archive.org/download/newscientist-2022/newscientist-2022-07-25T04:35:39.892925+01:00.lighthouse.json) |
 
 
 
