@@ -16,7 +16,7 @@ orphan: true
 | Twitter handle | [@FLPhoenixNews](https://www.twitter.com/FLPhoenixNews)                                                                                  |
 | Location       | Tallahassee                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
-| Bundles        |  |
+| Bundles        | <a href="../bundles/florida.html">Florida</a>  |
 
 ## Screenshots
 

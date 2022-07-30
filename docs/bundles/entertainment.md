@@ -7,7 +7,7 @@ orphan: true
 
 # Entertainment
 
-The most recent homepages from 10 news sites in this bundle.
+The most recent homepages from 13 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -18,6 +18,15 @@ The most recent homepages from 10 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/deadline.html">Deadline</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/enews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/enews.jpg"
+     alt="E!"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/enews.html">E!</a></p>
 </div>
 
 <div class="latest-child">
@@ -54,6 +63,24 @@ The most recent homepages from 10 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/okayplayer.html">okayplayer</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/people.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/people.jpg"
+     alt="People"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/people.html">People</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/ringer.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ringer.jpg"
+     alt="Ringer"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/ringer.html">Ringer</a></p>
 </div>
 
 <div class="latest-child">
@@ -117,10 +144,13 @@ The most recent homepages from 10 news sites in this bundle.
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
 |[Deadline](https://palewi.re/docs/news-homepages/sites/deadline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/deadline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/deadline.xml)|
+|[E!](https://palewi.re/docs/news-homepages/sites/enews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/enews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/enews.xml)|
 |[Fandom](https://palewi.re/docs/news-homepages/sites/getfandom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/getfandom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/getfandom.xml)|
 |[Hollywood Reporter](https://palewi.re/docs/news-homepages/sites/thr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thr.xml)|
 |[MTV News](https://palewi.re/docs/news-homepages/sites/mtvnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mtvnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mtvnews.xml)|
 |[okayplayer](https://palewi.re/docs/news-homepages/sites/okayplayer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/okayplayer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/okayplayer.xml)|
+|[People](https://palewi.re/docs/news-homepages/sites/people.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/people.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/people.xml)|
+|[Ringer](https://palewi.re/docs/news-homepages/sites/ringer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ringer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ringer.xml)|
 |[Rolling Stone](https://palewi.re/docs/news-homepages/sites/rollingstone.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rollingstone.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rollingstone.xml)|
 |[TMZ](https://palewi.re/docs/news-homepages/sites/tmz.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tmz.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tmz.xml)|
 |[Us Weekly](https://palewi.re/docs/news-homepages/sites/usweekly.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/usweekly.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/usweekly.xml)|

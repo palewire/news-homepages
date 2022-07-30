@@ -16,7 +16,7 @@ orphan: true
 | Twitter handle | [@flatwaterfreep](https://www.twitter.com/flatwaterfreep)                                                                                  |
 | Location       | Omaha                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
-| Bundles        |  |
+| Bundles        | <a href="../bundles/nebraska.html">Nebraska</a>  |
 
 ## Screenshots
 

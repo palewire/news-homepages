@@ -7,7 +7,7 @@ orphan: true
 
 # Student
 
-The most recent homepages from 6 news sites in this bundle.
+The most recent homepages from 7 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -18,6 +18,15 @@ The most recent homepages from 6 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/thealligator.html">Alligator</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dailyneb.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailyneb.jpg"
+     alt="Daily Nebraskan"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/dailyneb.html">Daily Nebraskan</a></p>
 </div>
 
 <div class="latest-child">
@@ -81,6 +90,7 @@ The most recent homepages from 6 news sites in this bundle.
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
 |[Alligator](https://palewi.re/docs/news-homepages/sites/thealligator.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thealligator.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thealligator.xml)|
+|[Daily Nebraskan](https://palewi.re/docs/news-homepages/sites/dailyneb.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailyneb.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailyneb.xml)|
 |[Daily Penn](https://palewi.re/docs/news-homepages/sites/dailypenn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailypenn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailypenn.xml)|
 |[DePaulia](https://palewi.re/docs/news-homepages/sites/thedepaulia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedepaulia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedepaulia.xml)|
 |[Grady Newsource](https://palewi.re/docs/news-homepages/sites/gradynewsource.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gradynewsource.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gradynewsource.xml)|

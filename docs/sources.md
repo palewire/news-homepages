@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 678 sites.
+The archiving routine is currently capturing 684 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -18,6 +18,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[19th](https://palewi.re/docs/news-homepages/sites/19thnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/19thnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/19thnews.xml)|
 |[20 Minutes](https://palewi.re/docs/news-homepages/sites/20minutes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/20minutes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/20minutes.xml)|
 |[41NBC / WMGT](https://palewi.re/docs/news-homepages/sites/41nbc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/41nbc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/41nbc.xml)|
+|[6 News WOWT](https://palewi.re/docs/news-homepages/sites/wowt6news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wowt6news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wowt6news.xml)|
 |[6abc](https://palewi.re/docs/news-homepages/sites/6abc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/6abc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/6abc.xml)|
 |[74th](https://palewi.re/docs/news-homepages/sites/the74.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/the74.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/the74.xml)|
 |[9to5Mac](https://palewi.re/docs/news-homepages/sites/9to5mac.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/9to5mac.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/9to5mac.xml)|
@@ -178,6 +179,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Daily Kos](https://palewi.re/docs/news-homepages/sites/dailykos.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailykos.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailykos.xml)|
 |[Daily Mail](https://palewi.re/docs/news-homepages/sites/mailonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mailonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mailonline.xml)|
 |[Daily Mirror](https://palewi.re/docs/news-homepages/sites/dailymirror.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailymirror.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailymirror.xml)|
+|[Daily Nebraskan](https://palewi.re/docs/news-homepages/sites/dailyneb.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailyneb.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailyneb.xml)|
 |[Daily News](https://palewi.re/docs/news-homepages/sites/nydailynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nydailynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nydailynews.xml)|
 |[Daily Penn](https://palewi.re/docs/news-homepages/sites/dailypenn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailypenn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailypenn.xml)|
 |[Daily Record](https://palewi.re/docs/news-homepages/sites/daily_record.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/daily_record.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/daily_record.xml)|
@@ -328,9 +330,11 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[KCRW](https://palewi.re/docs/news-homepages/sites/kcrw.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcrw.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kcrw.xml)|
 |[KCUR](https://palewi.re/docs/news-homepages/sites/kcur.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcur.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kcur.xml)|
 |[Kerrville Daily Times](https://palewi.re/docs/news-homepages/sites/kerrville.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kerrville.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kerrville.xml)|
+|[KETV NewsWatch 7](https://palewi.re/docs/news-homepages/sites/ketv.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ketv.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ketv.xml)|
 |[KGOU](https://palewi.re/docs/news-homepages/sites/kgounews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kgounews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kgounews.xml)|
 |[KHOU](https://palewi.re/docs/news-homepages/sites/khou.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/khou.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/khou.xml)|
 |[KING5](https://palewi.re/docs/news-homepages/sites/king5seattle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/king5seattle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/king5seattle.xml)|
+|[KMTV 3 News Now](https://palewi.re/docs/news-homepages/sites/3newsnowomaha.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/3newsnowomaha.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/3newsnowomaha.xml)|
 |[Knock.LA](https://palewi.re/docs/news-homepages/sites/knockdotla.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/knockdotla.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/knockdotla.xml)|
 |[KOMU](https://palewi.re/docs/news-homepages/sites/komunews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/komunews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/komunews.xml)|
 |[KPBS](https://palewi.re/docs/news-homepages/sites/kpbs.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kpbs.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kpbs.xml)|
@@ -371,6 +375,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Lens](https://palewi.re/docs/news-homepages/sites/thelensnola.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thelensnola.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thelensnola.xml)|
 |[Lenta.ru](https://palewi.re/docs/news-homepages/sites/lentaruofficial.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lentaruofficial.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lentaruofficial.xml)|
 |[Libération](https://palewi.re/docs/news-homepages/sites/libe.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/libe.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/libe.xml)|
+|[Lincoln Journal Star](https://palewi.re/docs/news-homepages/sites/journalstarnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/journalstarnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/journalstarnews.xml)|
 |[Little Village](https://palewi.re/docs/news-homepages/sites/littlevillage.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/littlevillage.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/littlevillage.xml)|
 |[Local News Matters](https://palewi.re/docs/news-homepages/sites/bcn_foundation.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bcn_foundation.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bcn_foundation.xml)|
 |[Lokantar](https://palewi.re/docs/news-homepages/sites/lokaantar.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lokaantar.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lokaantar.xml)|
@@ -459,6 +464,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[okayplayer](https://palewi.re/docs/news-homepages/sites/okayplayer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/okayplayer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/okayplayer.xml)|
 |[Oklahoma Watch](https://palewi.re/docs/news-homepages/sites/oklahomawatch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oklahomawatch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oklahomawatch.xml)|
 |[Oklahoman](https://palewi.re/docs/news-homepages/sites/theoklahoman_.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theoklahoman_.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theoklahoman_.xml)|
+|[Omaha World Herald](https://palewi.re/docs/news-homepages/sites/owhnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/owhnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/owhnews.xml)|
 |[One America News Network](https://palewi.re/docs/news-homepages/sites/oann.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oann.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oann.xml)|
 |[Onion](https://palewi.re/docs/news-homepages/sites/theonion.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theonion.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theonion.xml)|
 |[Online Khabar](https://palewi.re/docs/news-homepages/sites/online_khabar.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/online_khabar.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/online_khabar.xml)|
