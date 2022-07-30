@@ -4,6 +4,7 @@ from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse
 
+import pandas as pd
 import pytz
 
 # Set paths for key files
@@ -15,6 +16,7 @@ EXTENSIONS_PATH = THIS_DIR / "extensions"
 EXTRACT_DIR = THIS_DIR.parent / "extracts"
 NOTEBOOKS_DIR = THIS_DIR.parent / "notebooks"
 DOCS_DIR = THIS_DIR.parent / "docs"
+ANALYSIS_DIR = THIS_DIR.parent / "_analysis"
 
 
 def parse_archive_url(url):
@@ -23,9 +25,7 @@ def parse_archive_url(url):
     path_list = o.path.split("/")
     identifier = path_list[-2]
     handle = identifier[:-5]
-    time_string = time_string = (
-        path_list[-1].replace(f"{handle}-", "").replace(".jpg", "")
-    )
+    time_string = time_string = path_list[-1].replace(f"{handle}-", "").split(".")[0]
     timestamp = datetime.fromisoformat(time_string)
     return dict(identifier=identifier, handle=handle, timestamp=timestamp)
 
@@ -171,6 +171,29 @@ def get_hyperlink_list() -> typing.List[typing.Dict[str, typing.Any]]:
 
     # Return it
     return sorted_list
+
+
+def get_hyperlink_df() -> pd.DataFrame:
+    """Get the full list of hyperlink files from our extracts.
+
+    Returns a DataFrame.
+    """
+    df = pd.read_csv(
+        EXTRACT_DIR / "csv" / "hyperlink-files.csv",
+        parse_dates=["mtime"],
+        usecols=[
+            "identifier",
+            "handle",
+            "file_name",
+            "url",
+            "mtime",
+            "size",
+            "md5",
+            "sha1",
+        ],
+    )
+    df["date"] = pd.to_datetime(df.mtime.dt.date)
+    return df.sort_values("mtime", ascending=True)
 
 
 def get_lighthouse_list() -> typing.List[typing.Dict[str, typing.Any]]:

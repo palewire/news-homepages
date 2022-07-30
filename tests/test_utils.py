@@ -25,3 +25,13 @@ def test_javascript():
 def test_numoji():
     """Test numoji util."""
     assert utils.numoji("1") == "1️⃣"
+
+
+def test_url_parse():
+    """Test the URL parser."""
+    utils.parse_archive_url(
+        "https://archive.org/download/100reporters-2022/100reporters-2022-07-08T23:55:17.494439-04:00.hyperlinks.json"
+    )
+    utils.parse_archive_url(
+        "https://archive.org/download/appalachia100-2022/appalachia100-2022-07-29T19:59:50.561493-04:00.jpg"
+    )
