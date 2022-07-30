@@ -1,5 +1,5 @@
 {
-  "created": 1659097920,
+  "created": 1659140795,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/16/items/mercnews-2022",
@@ -9427,31 +9427,83 @@
       "format": "JSON"
     },
     {
+      "name": "mercnews-2022-07-28T19:40:26.433050-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-07-28T19:40:26.433050-07:00.jpg",
+      "mtime": "1659099486",
+      "size": "9425",
+      "md5": "8abc3d08112c87a9775723516f374326",
+      "crc32": "77e49558",
+      "sha1": "6738b4303bacec9133b69fd698e32221b248a87b"
+    },
+    {
+      "name": "mercnews-2022-07-29T07:43:49.902456-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659105840",
+      "size": "42308",
+      "md5": "ef1fb94793c1d8f82b162a5d6dd72c41",
+      "crc32": "65de8b2b",
+      "sha1": "8209a212b929990db0e9848f673a9f395c7093ad",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-07-29T07:43:49.902456-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659105842",
+      "size": "49394",
+      "md5": "1d8b87c0f6aedc62a10b1f6d7fd77301",
+      "crc32": "be088110",
+      "sha1": "1079aab7a6880e5dc97c3932e6baf4eb342aac1c",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-07-29T07:43:49.902456-07:00.jpg",
+      "source": "original",
+      "mtime": "1659105838",
+      "size": "300393",
+      "md5": "bf2091fd868528182e40f80aca25ca12",
+      "crc32": "21a63e73",
+      "sha1": "8a3a3f46bb5dc44093a1289e36bf9ec75d78e89e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-07-29T07:43:49.902456-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659105843",
+      "size": "1504",
+      "md5": "6282806831e596dc6f0b4ccdf84c7b43",
+      "crc32": "c0f45a96",
+      "sha1": "b3cd6f63211ad42dad4a3bf3b0639c8a7bc597a7",
+      "format": "JSON"
+    },
+    {
       "name": "mercnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "68fe80587745a835160fbc6c79f271d0139d81d6",
-      "mtime": "1659062478",
-      "size": "190805",
-      "md5": "556c2ea6e0c9bfce6578a6a849802215",
-      "crc32": "ab1ad28a",
-      "sha1": "0b48ec0f5feb4330c59086df8dc5bdfa403e84bf",
+      "btih": "7563ce4f237e6dcbaeab5c59e9fee7298115c440",
+      "mtime": "1659105891",
+      "size": "191864",
+      "md5": "dbf7acd9533ec538eee026ff88b35983",
+      "crc32": "4a797c1b",
+      "sha1": "3f953a42615e9ed28bbf2c89423919f2b15e5378",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mercnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "32a2413999a253aafde925118e982f53",
+      "md5": "ee1d5ca9cdf142be5f6fe1aac20495dc",
       "summation": "md5"
     },
     {
       "name": "mercnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659062436",
-      "size": "1040384",
-      "md5": "311096f113084cde22d137ca067cda67",
-      "crc32": "ce83c904",
-      "sha1": "849e2f094f2096bbd89da80dd650ea6eca8ddfa0",
+      "mtime": "1659105848",
+      "size": "1044480",
+      "md5": "6827462805963db40ee36c4eeb296f7e",
+      "crc32": "09094c31",
+      "sha1": "ebd7b1f7050b594e123b9d65e98473a0f7cf1aae",
       "format": "Metadata"
     },
     {
@@ -9465,18 +9517,18 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 901,
-  "item_last_updated": 1659062478,
-  "item_size": 91081979,
+  "files_count": 906,
+  "item_last_updated": 1659105891,
+  "item_size": 91490158,
   "mercnews-2022": [
     {
       "url": "https://www.mercurynews.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mercurynews_com-_-2022_07_29_02_21_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mercurynews_com-_-2022_07_29_02_21_38.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mercurynews_com-_-2022_07_29_14_23_16.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mercurynews_com-_-2022_07_29_14_23_16.report.json",
       "summary": {
         "performance": 0.15,
-        "accessibility": 0.86,
+        "accessibility": 0.85,
         "best-practices": 0.92,
         "seo": 0.84,
         "pwa": 0.4
@@ -9485,11 +9537,11 @@
     {
       "url": "https://www.mercurynews.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mercurynews_com-_-2022_07_29_02_22_10.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mercurynews_com-_-2022_07_29_02_22_10.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mercurynews_com-_-2022_07_29_14_24_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mercurynews_com-_-2022_07_29_14_24_27.report.json",
       "summary": {
         "performance": 0.15,
-        "accessibility": 0.86,
+        "accessibility": 0.85,
         "best-practices": 0.92,
         "seo": 0.84,
         "pwa": 0.4
@@ -9498,11 +9550,11 @@
     {
       "url": "https://www.mercurynews.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mercurynews_com-_-2022_07_29_02_22_39.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mercurynews_com-_-2022_07_29_02_22_39.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mercurynews_com-_-2022_07_29_14_23_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mercurynews_com-_-2022_07_29_14_23_56.report.json",
       "summary": {
         "performance": 0.15,
-        "accessibility": 0.86,
+        "accessibility": 0.85,
         "best-practices": 0.92,
         "seo": 0.84,
         "pwa": 0.4
@@ -9530,7 +9582,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346768059,
+      "task_id": 3347231838,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9538,7 +9590,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1441900950,
+  "uniq": 764898881,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

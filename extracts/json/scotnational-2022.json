@@ -1,5 +1,5 @@
 {
-  "created": 1659097521,
+  "created": 1659140285,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/6/items/scotnational-2022",
@@ -2051,31 +2051,83 @@
       "format": "JSON"
     },
     {
+      "name": "scotnational-2022-07-29T13:24:31.831019+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scotnational-2022-07-29T13:24:31.831019+01:00.jpg",
+      "mtime": "1659136520",
+      "size": "9724",
+      "md5": "331cf1871b76b32ebf499b51dc196f62",
+      "crc32": "7ad88aa2",
+      "sha1": "ad2d51659de5fce67f6b9a5abbc8a2e144220e1b"
+    },
+    {
+      "name": "scotnational-2022-07-30T01:16:54.717771+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659140220",
+      "size": "29597",
+      "md5": "b54bc98c3ff7c6675fcd4578fd099cee",
+      "crc32": "e04a42e0",
+      "sha1": "6b6a59eccd9b973bcf4261d7b154d5eeca558f7e",
+      "format": "JSON"
+    },
+    {
+      "name": "scotnational-2022-07-30T01:16:54.717771+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659140222",
+      "size": "51001",
+      "md5": "cca48516552dd89e91ed7362bca4d1b3",
+      "crc32": "0a832ebf",
+      "sha1": "38a7c60415026cdd796ffe302d5b67df78dd4ae8",
+      "format": "JSON"
+    },
+    {
+      "name": "scotnational-2022-07-30T01:16:54.717771+01:00.jpg",
+      "source": "original",
+      "mtime": "1659140216",
+      "size": "264848",
+      "md5": "081f02dbc4609b2f3d0069e317e17d38",
+      "crc32": "0cec7043",
+      "sha1": "dadf9d16a2019e7b37b849c2b7ee8de958b61e5f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scotnational-2022-07-30T01:16:54.717771+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659140224",
+      "size": "1512",
+      "md5": "bd9f2f184327c5e3bcf0e72f476ae046",
+      "crc32": "9e81cae6",
+      "sha1": "9b8a487585cfe0da825e30e60007a849e0b5e3d9",
+      "format": "JSON"
+    },
+    {
       "name": "scotnational-2022_archive.torrent",
       "source": "metadata",
-      "btih": "517fadf24675f13ed20f1f6395cd5bca35ecb248",
-      "mtime": "1659097518",
-      "size": "43232",
-      "md5": "561fd5e22ce52768d54932783a9c1650",
-      "crc32": "9d6ffe54",
-      "sha1": "26ace6c76498a3a63124396ec26c4e579e47c5b9",
+      "btih": "59c7efa7f404cb6d38fe4604f6fea0e1f8179beb",
+      "mtime": "1659140274",
+      "size": "44311",
+      "md5": "77aa30e298e9f32fdd20f7f89f7f2332",
+      "crc32": "92e1c024",
+      "sha1": "e81bfaea10f6daf852df3b49df6e226b4c7888bd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scotnational-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d0bc8113d7665dc718ba245ae7950b7c",
+      "md5": "5b47acb247b99921ef9341d66540dd23",
       "summation": "md5"
     },
     {
       "name": "scotnational-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659097483",
-      "size": "245760",
-      "md5": "796bb7e436b516fc61364769f7be14e0",
-      "crc32": "74490f5a",
-      "sha1": "ffee8c26ec8b6bd68a2d653c459f3f1a7f8c79b8",
+      "mtime": "1659140232",
+      "size": "253952",
+      "md5": "b566f2261726a738b69641a4664ae210",
+      "crc32": "1e764a17",
+      "sha1": "d6343119216d54c429ff9262bd3a6625866d64b4",
       "format": "Metadata"
     },
     {
@@ -2089,9 +2141,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 199,
-  "item_last_updated": 1659097518,
-  "item_size": 16140593,
+  "files_count": 204,
+  "item_last_updated": 1659140274,
+  "item_size": 16506546,
   "metadata": {
     "identifier": "scotnational-2022",
     "collection": [
@@ -2113,7 +2165,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347152277,
+      "task_id": 3347566953,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2121,7 +2173,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 765453213,
+  "uniq": 1180420164,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

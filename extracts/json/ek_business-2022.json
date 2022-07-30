@@ -1,5 +1,5 @@
 {
-  "created": 1659097698,
+  "created": 1659140452,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/4/items/ek_business-2022",
@@ -7,10 +7,10 @@
     {
       "url": "https://ekantipur.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_29_02_11_18.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_29_02_11_18.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_29_14_10_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_29_14_10_46.report.json",
       "summary": {
-        "performance": 0.42,
+        "performance": 0.4,
         "accessibility": 0.76,
         "best-practices": 0.75,
         "seo": 0.85,
@@ -20,10 +20,10 @@
     {
       "url": "https://ekantipur.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_29_02_11_33.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_29_02_11_33.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_29_14_11_15.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_29_14_11_15.report.json",
       "summary": {
-        "performance": 0.6,
+        "performance": 0.44,
         "accessibility": 0.76,
         "best-practices": 0.75,
         "seo": 0.85,
@@ -33,10 +33,10 @@
     {
       "url": "https://ekantipur.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_29_02_11_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_29_02_11_47.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_29_14_11_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_29_14_11_01.report.json",
       "summary": {
-        "performance": 0.58,
+        "performance": 0.34,
         "accessibility": 0.76,
         "best-practices": 0.75,
         "seo": 0.85,
@@ -566,31 +566,83 @@
       "format": "JSON"
     },
     {
+      "name": "ek_business-2022-07-29T08:18:37.934771+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ek_business-2022-07-29T08:18:37.934771+05:45.jpg",
+      "mtime": "1659098543",
+      "size": "10129",
+      "md5": "b214f7fb410d7e453bfa651be7ce317c",
+      "crc32": "c96248c3",
+      "sha1": "e633fd98f8a006950471e54d273dbaf35b4d316b"
+    },
+    {
+      "name": "ek_business-2022-07-29T20:21:06.082192+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659105370",
+      "size": "132859",
+      "md5": "5c318f4c30849be3cf7a3181597a6706",
+      "crc32": "700d4c09",
+      "sha1": "93e8b2dbdec86f9bb97fd6bf51b78e8d303c9da0",
+      "format": "JSON"
+    },
+    {
+      "name": "ek_business-2022-07-29T20:21:06.082192+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659105372",
+      "size": "91054",
+      "md5": "4c6b9c1e5be5b3370e69371de5ccd864",
+      "crc32": "43a94bcb",
+      "sha1": "047be8d0ac94282e8cc4d3db834ea452fccf4ccc",
+      "format": "JSON"
+    },
+    {
+      "name": "ek_business-2022-07-29T20:21:06.082192+05:45.jpg",
+      "source": "original",
+      "mtime": "1659105369",
+      "size": "312376",
+      "md5": "75ed37c5dd6510105a20109bdcb6cc6c",
+      "crc32": "cdafad46",
+      "sha1": "4c4fc302e0e0cb3794724a4e537a4fdf84da565b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ek_business-2022-07-29T20:21:06.082192+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659105373",
+      "size": "1449",
+      "md5": "b156714818c32aa9055edd1bb73a60ee",
+      "crc32": "489fdaa1",
+      "sha1": "bc14b977b95e5fc3ff681f0c81adf715285e08e6",
+      "format": "JSON"
+    },
+    {
       "name": "ek_business-2022_archive.torrent",
       "source": "metadata",
-      "btih": "27437ffd50094acd60d41cacb0c6f36fe6c320fe",
-      "mtime": "1659062062",
-      "size": "12199",
-      "md5": "0669b5c4b26e600b1ea62dd056427c27",
-      "crc32": "a42f8ffb",
-      "sha1": "f79a4767aac8c8f063bd237887732ccc504e3dca",
+      "btih": "ed14247b3cc60450c5aef34a24bd60ae60d82b31",
+      "mtime": "1659105412",
+      "size": "13275",
+      "md5": "12629159615e41b6e9688427e435a093",
+      "crc32": "2c65534e",
+      "sha1": "cc44b1a748092d396c461fe77e6b6eddae98b11d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ek_business-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "793658c460a44c82caa3c73e48c5b605",
+      "md5": "7356bdfb9d155e12f6904b189de3722e",
       "summation": "md5"
     },
     {
       "name": "ek_business-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659062028",
-      "size": "77824",
-      "md5": "e1fc0ff10e45b93ad30630f550aca689",
-      "crc32": "359ffeac",
-      "sha1": "8848bf3b83eea6791985429ed7630547efbc3d01",
+      "mtime": "1659105377",
+      "size": "81920",
+      "md5": "015e53df1fb8834f5e7877d304419f12",
+      "crc32": "2bd45b9d",
+      "sha1": "e1b1255546e759b5933726488b0aa78af7e5d43d",
       "format": "Metadata"
     },
     {
@@ -604,9 +656,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 54,
-  "item_last_updated": 1659062062,
-  "item_size": 5578460,
+  "files_count": 59,
+  "item_last_updated": 1659105412,
+  "item_size": 6131499,
   "metadata": {
     "identifier": "ek_business-2022",
     "collection": [
@@ -628,7 +680,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346762550,
+      "task_id": 3347226846,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -636,7 +688,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 199971459,
+  "uniq": 1449681074,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

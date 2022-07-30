@@ -1,5 +1,5 @@
 {
-  "created": 1659092806,
+  "created": 1659139389,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/12/items/buckscoherald-2022",
@@ -1889,31 +1889,83 @@
       "format": "JSON"
     },
     {
+      "name": "buckscoherald-2022-07-29T07:05:53.787731-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "buckscoherald-2022-07-29T07:05:53.787731-04:00.jpg",
+      "mtime": "1659134067",
+      "size": "9946",
+      "md5": "2a712735886ffce7faed6c383ba1245a",
+      "crc32": "38e4b464",
+      "sha1": "5742948116e4e837b322a8086e99f95a206be280"
+    },
+    {
+      "name": "buckscoherald-2022-07-29T20:02:17.447652-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659139340",
+      "size": "42583",
+      "md5": "51833d79927a0e767719edbabf4aeed1",
+      "crc32": "14e941d0",
+      "sha1": "220803e3d3f53b03347dff53735ab3c51ee18427",
+      "format": "JSON"
+    },
+    {
+      "name": "buckscoherald-2022-07-29T20:02:17.447652-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659139341",
+      "size": "52313",
+      "md5": "bd00dfd8a5ae03097faf309ec2dae09f",
+      "crc32": "0feaa631",
+      "sha1": "3aa6246a1bd1a7d14e05fd5b172f4a8b352864d8",
+      "format": "JSON"
+    },
+    {
+      "name": "buckscoherald-2022-07-29T20:02:17.447652-04:00.jpg",
+      "source": "original",
+      "mtime": "1659139338",
+      "size": "301292",
+      "md5": "82f239fb43f6bf858c8003c95849af53",
+      "crc32": "8570ac8f",
+      "sha1": "b7ba75afc79dc0832a8b58fa757c6f60fd42f5da",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "buckscoherald-2022-07-29T20:02:17.447652-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659139343",
+      "size": "1518",
+      "md5": "625f44e8a9e7f945f637e54f7f9c7119",
+      "crc32": "cfcbf411",
+      "sha1": "58b7253ea7baf8dd470a73574413b2e1251ed21e",
+      "format": "JSON"
+    },
+    {
       "name": "buckscoherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "425e454d2ff43bb27b469deb4a69db6dd7a95868",
-      "mtime": "1659092803",
-      "size": "40347",
-      "md5": "00c771e9a6138f573635c7a35a0ff251",
-      "crc32": "b62c0166",
-      "sha1": "7fce21d1d1b982951a49a52253e87105da901eda",
+      "btih": "339f0609b278c062649e160668856326090cec05",
+      "mtime": "1659139385",
+      "size": "41431",
+      "md5": "6eda7060d41deffefe6bb0ba64d2c1e7",
+      "crc32": "c8351b5e",
+      "sha1": "1ac9bfcbc0d84b2d66d885603c82a6b5ebb9b3d5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "buckscoherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c57271cb56eb621282c46b6c9f2c9bcf",
+      "md5": "f9b26edd86249bc3c80aacdfe4825d65",
       "summation": "md5"
     },
     {
       "name": "buckscoherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659092767",
-      "size": "233472",
-      "md5": "9ab1c65f7b6ae91e23184aaa01a4f3d9",
-      "crc32": "f8aabb16",
-      "sha1": "83fad587721ce13914587229a52b423a145e211a",
+      "mtime": "1659139350",
+      "size": "241664",
+      "md5": "efeea9bd5dbe9777f6fb40f5438231d8",
+      "crc32": "1f9afd76",
+      "sha1": "da685683564720bfa1df443a75f9b06c93fcfc1b",
       "format": "Metadata"
     },
     {
@@ -1927,9 +1979,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 184,
-  "item_last_updated": 1659092803,
-  "item_size": 17220357,
+  "files_count": 189,
+  "item_last_updated": 1659139385,
+  "item_size": 17637285,
   "metadata": {
     "identifier": "buckscoherald-2022",
     "collection": [
@@ -1951,7 +2003,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347109062,
+      "task_id": 3347556349,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1959,7 +2011,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1251794039,
+  "uniq": 1051401224,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

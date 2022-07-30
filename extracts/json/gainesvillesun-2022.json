@@ -1,5 +1,5 @@
 {
-  "created": 1659093142,
+  "created": 1659139715,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/34/items/gainesvillesun-2022",
@@ -871,31 +871,83 @@
       "format": "JSON"
     },
     {
+      "name": "gainesvillesun-2022-07-29T07:11:33.222739-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-07-29T07:11:33.222739-04:00.jpg",
+      "mtime": "1659134279",
+      "size": "9345",
+      "md5": "84049e5a2f863f4f1b503085eeae0e1c",
+      "crc32": "0a80e90e",
+      "sha1": "61230a78d0b2f1ce6122101130d0d61f558afc01"
+    },
+    {
+      "name": "gainesvillesun-2022-07-29T20:07:47.393506-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659139670",
+      "size": "21691",
+      "md5": "efb30ccae566d26106021a84e39bbce3",
+      "crc32": "98cec23d",
+      "sha1": "4dec70f23e63867d8b956e61106d06c6f69f0046",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-07-29T20:07:47.393506-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659139672",
+      "size": "37919",
+      "md5": "d697f4d0bb8d18f882039362cc2ea188",
+      "crc32": "64764569",
+      "sha1": "3cad30a65a61e07f74aca6b6da9e8cde02fde999",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-07-29T20:07:47.393506-04:00.jpg",
+      "source": "original",
+      "mtime": "1659139669",
+      "size": "252923",
+      "md5": "0ab4042665b37e9fab982d533d8fdddc",
+      "crc32": "23fda3e7",
+      "sha1": "a7f434fb41a25df3c1735e7d59e11d38306ff125",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-07-29T20:07:47.393506-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659139673",
+      "size": "1495",
+      "md5": "554ed7e8ec5afa972dbf6c48b4e733ab",
+      "crc32": "d44ed24c",
+      "sha1": "ec01d2689052594127a0a4065bc2b68fd9e2d3cd",
+      "format": "JSON"
+    },
+    {
       "name": "gainesvillesun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d09ccf49b8dfda17fa45562f484ae9f1146300e4",
-      "mtime": "1659093140",
-      "size": "19418",
-      "md5": "1a2acd56cfaf71760d6479e978866017",
-      "crc32": "0bce81b3",
-      "sha1": "ab4cbe3a2d6eb54c688618a9da0cc149a65e7bc7",
+      "btih": "b7d9d8dc09c9d96f7e809f289e7212e539ade9c2",
+      "mtime": "1659139713",
+      "size": "20507",
+      "md5": "5a52059d5d2043d39c5d409fffe7c2e9",
+      "crc32": "e217aafc",
+      "sha1": "d2e45737d48b1f7e0566c52d7a7e272a5169bdd0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gainesvillesun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "de5cff76429f43942ce2741ab8faa695",
+      "md5": "73a437322d5614f7c950c4a18961209d",
       "summation": "md5"
     },
     {
       "name": "gainesvillesun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659093105",
-      "size": "126976",
-      "md5": "f7f2f7e5dd34ee07a7fd89d62042704e",
-      "crc32": "3db828f7",
-      "sha1": "b20fbb4907a320d67dfa44d918a785d9489a7256",
+      "mtime": "1659139678",
+      "size": "131072",
+      "md5": "984954bd5ca52572863ef0156205046c",
+      "crc32": "ee81c2e2",
+      "sha1": "2b44e9e9bfec95fe873c47253d5b9cc3f3a83c71",
       "format": "Metadata"
     },
     {
@@ -909,9 +961,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 87,
-  "item_last_updated": 1659093140,
-  "item_size": 6194943,
+  "files_count": 92,
+  "item_last_updated": 1659139713,
+  "item_size": 6523501,
   "metadata": {
     "identifier": "gainesvillesun-2022",
     "collection": [
@@ -933,7 +985,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347112745,
+      "task_id": 3347561808,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -941,7 +993,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 995789812,
+  "uniq": 2121052188,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

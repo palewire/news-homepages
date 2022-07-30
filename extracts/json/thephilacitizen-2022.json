@@ -1,5 +1,5 @@
 {
-  "created": 1659066730,
+  "created": 1659110311,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/15/items/thephilacitizen-2022",
@@ -2593,31 +2593,83 @@
       "format": "JSON"
     },
     {
+      "name": "thephilacitizen-2022-07-28T23:51:18.008183-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thephilacitizen-2022-07-28T23:51:18.008183-04:00.jpg",
+      "mtime": "1659108623",
+      "size": "10954",
+      "md5": "1fdf0052cc7cfde43820e323759f63e0",
+      "crc32": "7ac9d3b5",
+      "sha1": "b154a88c446517ff4c77c8f9f4b80d3148978ddd"
+    },
+    {
+      "name": "thephilacitizen-2022-07-29T11:57:36.373977-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659110259",
+      "size": "13753",
+      "md5": "89e263d2434f8c7663390e2dbb96d0ee",
+      "crc32": "234dd34c",
+      "sha1": "d1864cbeed748896288982adb7cc765f3f5c0b42",
+      "format": "JSON"
+    },
+    {
+      "name": "thephilacitizen-2022-07-29T11:57:36.373977-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659110260",
+      "size": "15805",
+      "md5": "9832e674ba586303899b91298abf5f8a",
+      "crc32": "27c6e41e",
+      "sha1": "ac76804d86a57f68e137ab95c78dec41b0512cf2",
+      "format": "JSON"
+    },
+    {
+      "name": "thephilacitizen-2022-07-29T11:57:36.373977-04:00.jpg",
+      "source": "original",
+      "mtime": "1659110257",
+      "size": "222988",
+      "md5": "46d006998c923b30ec4f05d2c7f2f6eb",
+      "crc32": "9bf9cb7a",
+      "sha1": "272c8c5f2a97f96b9a3da4e91d77ef56dc591da3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thephilacitizen-2022-07-29T11:57:36.373977-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659110262",
+      "size": "1566",
+      "md5": "ba41b4bfd896e205e110a96458675c8d",
+      "crc32": "c8e24808",
+      "sha1": "0500d13846d02508cfaac40084d301b44e4e5349",
+      "format": "JSON"
+    },
+    {
       "name": "thephilacitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5b53433454a00d081aef1f64acc1926b63efc44e",
-      "mtime": "1659066727",
-      "size": "55228",
-      "md5": "6e183636cbda59f551872ccfdd71cc44",
-      "crc32": "e20ebf81",
-      "sha1": "b3b10069efb3720b55b41fa0100ec1a94a646517",
+      "btih": "42fac4360e503915c7b4b4be96254dfa32a2ae52",
+      "mtime": "1659110306",
+      "size": "56323",
+      "md5": "3512a83a7b7d7eb5031603369e492c50",
+      "crc32": "6d698292",
+      "sha1": "7eea60ecc7a12b479d5e549a1efe7ac860728d33",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thephilacitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b391c892862b30f07789f479095f760c",
+      "md5": "2a59a55cc35c66e2ccd1f2c9c9aa8166",
       "summation": "md5"
     },
     {
       "name": "thephilacitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659066690",
-      "size": "311296",
-      "md5": "52fec09ed680673b82e59498f273d33d",
-      "crc32": "e7bb2408",
-      "sha1": "9fd456e662f5ce6dae885ed2c85121d41ef90a4f",
+      "mtime": "1659110269",
+      "size": "315392",
+      "md5": "29018b2e3d854dc8a59f4392914cd6a7",
+      "crc32": "d3549bc6",
+      "sha1": "07dfdae667085f3676b68daadc2d27c5363c7d4b",
       "format": "Metadata"
     },
     {
@@ -2631,9 +2683,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 251,
-  "item_last_updated": 1659066727,
-  "item_size": 19975514,
+  "files_count": 256,
+  "item_last_updated": 1659110306,
+  "item_size": 20245771,
   "metadata": {
     "identifier": "thephilacitizen-2022",
     "collection": [
@@ -2655,7 +2707,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346826711,
+      "task_id": 3347271287,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2663,7 +2715,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 598635225,
+  "uniq": 1312868751,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

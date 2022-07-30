@@ -1,5 +1,5 @@
 {
-  "created": 1659098085,
+  "created": 1659110026,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/17/items/restofworld-2022",
@@ -421,31 +421,83 @@
       "format": "JSON"
     },
     {
+      "name": "restofworld-2022-07-28T23:47:41.973128-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "restofworld-2022-07-28T23:47:41.973128-04:00.jpg",
+      "mtime": "1659108401",
+      "size": "10166",
+      "md5": "97255b273b7743d7475c7742be7148d4",
+      "crc32": "943d2d6d",
+      "sha1": "952d986da69a32980f563233cebdc7ada61b4d2a"
+    },
+    {
+      "name": "restofworld-2022-07-29T11:52:57.264703-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659109980",
+      "size": "33257",
+      "md5": "d15299a068b491b2e3ad1cd8c73aec12",
+      "crc32": "af6af9d3",
+      "sha1": "f5fbbaab5f2d30bc35b9be85e10cc3b42757568e",
+      "format": "JSON"
+    },
+    {
+      "name": "restofworld-2022-07-29T11:52:57.264703-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659109982",
+      "size": "32042",
+      "md5": "d724a87c3acaa56ee2150451920eda99",
+      "crc32": "f82984c2",
+      "sha1": "3ca8c3304f29a102743dfc5ca193cf9ecf0a5e72",
+      "format": "JSON"
+    },
+    {
+      "name": "restofworld-2022-07-29T11:52:57.264703-04:00.jpg",
+      "source": "original",
+      "mtime": "1659109979",
+      "size": "322427",
+      "md5": "d2df2d6e78c37886418595179bb541a9",
+      "crc32": "f9482472",
+      "sha1": "c46c3fd10252caf368951c5dd8e5f8d33eed5edd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "restofworld-2022-07-29T11:52:57.264703-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659109984",
+      "size": "1459",
+      "md5": "a915cdc5ea1b027cabe71fc89a4cb5cc",
+      "crc32": "2dbf22ee",
+      "sha1": "66690b0ab77e4a36ed38326738257a70e7013af1",
+      "format": "JSON"
+    },
+    {
       "name": "restofworld-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0f051d9e10a90ab4174769a6a924f6d0c3b0bddc",
-      "mtime": "1659066507",
-      "size": "10006",
-      "md5": "149d92bc1e9a1beec80ac767af146c5e",
-      "crc32": "76a7e0d4",
-      "sha1": "d1373611899dec30eb936d1f7b55b7dba220b538",
+      "btih": "29f3903f5251383b0adbe9e612e671aee6701ad0",
+      "mtime": "1659110024",
+      "size": "11081",
+      "md5": "c53e2ebb16530a328385f0e057c20af0",
+      "crc32": "deed4e3d",
+      "sha1": "d8643a11290a3235325e731184c8a82a4bdb497f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "restofworld-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "847a5f8b1068c67b78f5177640c97679",
+      "md5": "ebcff5410f57721f3c3ac8dd532076f9",
       "summation": "md5"
     },
     {
       "name": "restofworld-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659066472",
-      "size": "65536",
-      "md5": "b49b2e48bd6244c42a72822600ba9193",
-      "crc32": "42b588a2",
-      "sha1": "32dba032bc572f92d1294b5ce58c15e4a42c9216",
+      "mtime": "1659109989",
+      "size": "69632",
+      "md5": "9210f51e044e0959fa345a0cbd94495a",
+      "crc32": "9cf16518",
+      "sha1": "ab2f22713f0f1ea8f9a00d6955e3014c25229b69",
       "format": "Metadata"
     },
     {
@@ -459,9 +511,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 44,
-  "item_last_updated": 1659066507,
-  "item_size": 3353295,
+  "files_count": 49,
+  "item_last_updated": 1659110024,
+  "item_size": 3757817,
   "metadata": {
     "identifier": "restofworld-2022",
     "collection": [
@@ -479,52 +531,11 @@
     "addeddate": "2022-07-25 15:39:47"
   },
   "pending_tasks": true,
-  "restofworld-2022": [
-    {
-      "url": "https://restofworld.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/restofworld_org-_-2022_07_29_03_27_43.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/restofworld_org-_-2022_07_29_03_27_43.report.json",
-      "summary": {
-        "performance": 0.85,
-        "accessibility": 0.96,
-        "best-practices": 1,
-        "seo": 0.97,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://restofworld.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/restofworld_org-_-2022_07_29_03_27_57.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/restofworld_org-_-2022_07_29_03_27_57.report.json",
-      "summary": {
-        "performance": 0.83,
-        "accessibility": 0.96,
-        "best-practices": 1,
-        "seo": 0.97,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://restofworld.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/restofworld_org-_-2022_07_29_03_27_30.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/restofworld_org-_-2022_07_29_03_27_30.report.json",
-      "summary": {
-        "performance": 0.72,
-        "accessibility": 0.96,
-        "best-practices": 1,
-        "seo": 0.97,
-        "pwa": 0.4
-      }
-    }
-  ],
   "server": "ia601400.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346823669,
+      "task_id": 3347269214,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -532,7 +543,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 297103897,
+  "uniq": 603922173,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

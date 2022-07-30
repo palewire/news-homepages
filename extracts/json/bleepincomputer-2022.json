@@ -1,5 +1,5 @@
 {
-  "created": 1659092781,
+  "created": 1659139340,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/15/items/bleepincomputer-2022",
@@ -525,31 +525,83 @@
       "format": "JSON"
     },
     {
+      "name": "bleepincomputer-2022-07-29T07:05:11.730722-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bleepincomputer-2022-07-29T07:05:11.730722-04:00.jpg",
+      "mtime": "1659134145",
+      "size": "9933",
+      "md5": "907ffd393137d3588ade67eb9e9d9657",
+      "crc32": "d23160a7",
+      "sha1": "1b46f83b9a18efb34a00f1d14fcdb53c0ab323ef"
+    },
+    {
+      "name": "bleepincomputer-2022-07-29T20:01:30.026220-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659139293",
+      "size": "30412",
+      "md5": "166525f18e162502ac814694b342fa83",
+      "crc32": "65290d9b",
+      "sha1": "ec7710352688e56309151ee64aede109b0219aa1",
+      "format": "JSON"
+    },
+    {
+      "name": "bleepincomputer-2022-07-29T20:01:30.026220-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659139295",
+      "size": "31645",
+      "md5": "61fb7e1a7eca1684850d93270945091e",
+      "crc32": "3360f465",
+      "sha1": "effbb34de2dd37925fbfccc3f429f8f8e003b089",
+      "format": "JSON"
+    },
+    {
+      "name": "bleepincomputer-2022-07-29T20:01:30.026220-04:00.jpg",
+      "source": "original",
+      "mtime": "1659139291",
+      "size": "285579",
+      "md5": "dd48c677c18eda18b8bc7064381c5a59",
+      "crc32": "371692a2",
+      "sha1": "9aa3aa5b30ee472a1d9d783bd5785b20a1c5bbfb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bleepincomputer-2022-07-29T20:01:30.026220-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659139297",
+      "size": "1537",
+      "md5": "125f5f1f6e888dc917f9509754b7c735",
+      "crc32": "db0515c4",
+      "sha1": "1346bf1a009a475f9ca69ffa6fc92081b13422e0",
+      "format": "JSON"
+    },
+    {
       "name": "bleepincomputer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5c307cbe0346383476d8508d1baebb424c988ed5",
-      "mtime": "1659092777",
-      "size": "12347",
-      "md5": "28e45733a367c0fc83d172dc1efed44d",
-      "crc32": "52b4083f",
-      "sha1": "f71170f07204d7b5f6d0343beaf8c9801764ead8",
+      "btih": "d4eee2850cc3e75ac5645e82859d5263cbeb63b2",
+      "mtime": "1659139336",
+      "size": "13441",
+      "md5": "2765e258927f10caa9a0d1ca5eb78036",
+      "crc32": "9b7f73e7",
+      "sha1": "8dfe2e7313b5008a8415aa4d11416844e5226d4b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bleepincomputer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e082fd5f72a4c54c1e541dcf6be998fe",
+      "md5": "344761a101570b7fc87a914d4a86de8c",
       "summation": "md5"
     },
     {
       "name": "bleepincomputer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659092743",
-      "size": "77824",
-      "md5": "ee8d0117df16095b2a2b298536c1dfb2",
-      "crc32": "3a59d804",
-      "sha1": "30cd8301afa831ba01afb9f51bbec4e0aa6c0c2e",
+      "mtime": "1659139301",
+      "size": "81920",
+      "md5": "f2bb32cbf71e6d078599135953d535cf",
+      "crc32": "507c6d17",
+      "sha1": "3e1828fa2616334b3558c6518170ef1c93b49667",
       "format": "Metadata"
     },
     {
@@ -563,9 +615,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 54,
-  "item_last_updated": 1659092777,
-  "item_size": 3604123,
+  "files_count": 59,
+  "item_last_updated": 1659139336,
+  "item_size": 3968419,
   "metadata": {
     "identifier": "bleepincomputer-2022",
     "collection": [
@@ -587,7 +639,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347108659,
+      "task_id": 3347555310,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -595,7 +647,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 263045828,
+  "uniq": 795324205,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

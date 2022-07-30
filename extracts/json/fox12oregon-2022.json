@@ -1,5 +1,5 @@
 {
-  "created": 1659062128,
+  "created": 1659105488,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/35/items/fox12oregon-2022",
@@ -2215,31 +2215,83 @@
       "format": "JSON"
     },
     {
+      "name": "fox12oregon-2022-07-28T19:34:34.302441-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox12oregon-2022-07-28T19:34:34.302441-07:00.jpg",
+      "mtime": "1659098759",
+      "size": "11424",
+      "md5": "7333501a84e92e577109dcfcbbc0b89c",
+      "crc32": "fbdab4db",
+      "sha1": "81b6b4cb6a4721b026493f61e64ed7986f16c10a"
+    },
+    {
+      "name": "fox12oregon-2022-07-29T07:37:06.556525-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659105430",
+      "size": "36694",
+      "md5": "04ce14f45e57a1c8fc1dce3e41ba4b8e",
+      "crc32": "4c01e7f2",
+      "sha1": "a8ede997d08b1134c5d491f23701e0f78b5272e5",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-07-29T07:37:06.556525-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659105431",
+      "size": "23489",
+      "md5": "d6f84d5da4a08572d76a0139c2eef221",
+      "crc32": "5b31866e",
+      "sha1": "865897e9095d697c34f58e9639e6cc213fd36018",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-07-29T07:37:06.556525-07:00.jpg",
+      "source": "original",
+      "mtime": "1659105428",
+      "size": "391541",
+      "md5": "c2e2f0ae0fcde23075dabc37fe5f3e84",
+      "crc32": "f854db9d",
+      "sha1": "08c09ce566bc8d2f3f5e9306a8249f0255b0acc4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-07-29T07:37:06.556525-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659105433",
+      "size": "1441",
+      "md5": "f48e995a5ff6d5ec1cb53cf21f2bd3ec",
+      "crc32": "614f4532",
+      "sha1": "b66d9f0e3e553a5deab6fd2803c787654b428839",
+      "format": "JSON"
+    },
+    {
       "name": "fox12oregon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9ab7252b63aeadbd9b579dff83fbb762b1bcd102",
-      "mtime": "1659062124",
-      "size": "46730",
-      "md5": "9eeeffe5cac1f392efd303ac2460727b",
-      "crc32": "8ff71954",
-      "sha1": "bc17f8f79ee65f44f006654ac7ef2a54c96f1b34",
+      "btih": "dce54cac119d35d033f6a2fed3f9ebb7ec7c542e",
+      "mtime": "1659105484",
+      "size": "47805",
+      "md5": "ec904c8a924bb212ba79cda7c378fdc8",
+      "crc32": "c383c1ac",
+      "sha1": "f2c7b48fdbe32fce6362d4f07abc88df31f6f810",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox12oregon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2b94af147d916d95e40b310121760edf",
+      "md5": "6fd11b7924d9ab1d85f7492a952b8249",
       "summation": "md5"
     },
     {
       "name": "fox12oregon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659062087",
-      "size": "270336",
-      "md5": "4783e3d77a4b0cb5d1ab6e9e36e9fb86",
-      "crc32": "1f40aebc",
-      "sha1": "b320faafd77804975495c5464829c743514f915b",
+      "mtime": "1659105440",
+      "size": "274432",
+      "md5": "49d674b45f84702c0d5787d9aeddc1e7",
+      "crc32": "959d8209",
+      "sha1": "04bfee5700b21b18af1a39160bd3eae65a6c3e35",
       "format": "Metadata"
     },
     {
@@ -2253,9 +2305,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 215,
-  "item_last_updated": 1659062124,
-  "item_size": 22449443,
+  "files_count": 220,
+  "item_last_updated": 1659105484,
+  "item_size": 22919203,
   "metadata": {
     "identifier": "fox12oregon-2022",
     "collection": [
@@ -2277,7 +2329,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346763379,
+      "task_id": 3347227542,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2285,7 +2337,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1605077544,
+  "uniq": 992810406,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

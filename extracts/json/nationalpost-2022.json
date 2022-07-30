@@ -1,5 +1,5 @@
 {
-  "created": 1659062509,
+  "created": 1659140845,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/9/items/nationalpost-2022",
@@ -4365,31 +4365,83 @@
       "format": "JSON"
     },
     {
+      "name": "nationalpost-2022-07-28T22:40:49.595796-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nationalpost-2022-07-28T22:40:49.595796-04:00.jpg",
+      "mtime": "1659099501",
+      "size": "10379",
+      "md5": "0a1d1142b11340bf172ac857d3cac7a3",
+      "crc32": "9a591ac6",
+      "sha1": "4ccc51d19b60ec38408342ff028e3eb032b71d4c"
+    },
+    {
+      "name": "nationalpost-2022-07-29T10:44:41.292874-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659105885",
+      "size": "74828",
+      "md5": "69d6f304730fc4ac7e96f2ea92dbfa9c",
+      "crc32": "9bb92e6e",
+      "sha1": "bf279086f9df0edc0bd9837dec9f5252fb0eaabc",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-07-29T10:44:41.292874-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659105891",
+      "size": "51237",
+      "md5": "8b29992e7f9401218204d758e8f5af4e",
+      "crc32": "e6176e89",
+      "sha1": "48e625db38ca885a534eaf7cc4347d0ffc563a0f",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-07-29T10:44:41.292874-04:00.jpg",
+      "source": "original",
+      "mtime": "1659105883",
+      "size": "329361",
+      "md5": "2f844d5458d98ed9aaa5f16711115399",
+      "crc32": "9c6e0f4e",
+      "sha1": "135450bbc8565ba62b0d5723a371e62c52391777",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nationalpost-2022-07-29T10:44:41.292874-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659105892",
+      "size": "1476",
+      "md5": "a25ceeaa8546ddbb9b0d84e8c2ba3784",
+      "crc32": "9850e4c8",
+      "sha1": "4c7386e1d6962c7a250e483881c9a236525e3e6e",
+      "format": "JSON"
+    },
+    {
       "name": "nationalpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "25558994ebec504ef075501cf9ff54fe9870b694",
-      "mtime": "1659062505",
-      "size": "91125",
-      "md5": "69516c26cb37af4e9422f493df906214",
-      "crc32": "c99ea0eb",
-      "sha1": "49fd9cb5661091ae312f220bfad07d2565e66c08",
+      "btih": "048e69c0f4113fb589f62ef148e5d5f4965c484e",
+      "mtime": "1659105935",
+      "size": "92205",
+      "md5": "baf8fee62ec88e38bd0a54f582d12b1c",
+      "crc32": "4922159e",
+      "sha1": "42e42bbb9b7527c5c518361658099a6200f85c10",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nationalpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e77dc1b6bf7f22ced0dbb1b492049792",
+      "md5": "e3ed90b52cf30832f4d8458c3e37cc7b",
       "summation": "md5"
     },
     {
       "name": "nationalpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659062468",
-      "size": "507904",
-      "md5": "adb6403261cd2fcf4d5f19d49b8c73d0",
-      "crc32": "fc16c5ad",
-      "sha1": "a7da5d1550954dc54d945bd10f942b24fe165528",
+      "mtime": "1659105897",
+      "size": "512000",
+      "md5": "c8f84f725fd7dd21843c5812efe50579",
+      "crc32": "baa9f68c",
+      "sha1": "68ed94c9241f006d6e3da19a9a5131eebeda8d4a",
       "format": "Metadata"
     },
     {
@@ -4403,9 +4455,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 420,
-  "item_last_updated": 1659062505,
-  "item_size": 44281197,
+  "files_count": 425,
+  "item_last_updated": 1659105935,
+  "item_size": 44753654,
   "metadata": {
     "identifier": "nationalpost-2022",
     "collection": [
@@ -4422,12 +4474,53 @@
     "publicdate": "2022-06-24 22:58:25",
     "addeddate": "2022-06-24 22:58:25"
   },
+  "nationalpost-2022": [
+    {
+      "url": "https://nationalpost.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nationalpost_com-_-2022_07_29_14_24_44.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nationalpost_com-_-2022_07_29_14_24_44.report.json",
+      "summary": {
+        "performance": 0.2,
+        "accessibility": 0.91,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://nationalpost.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nationalpost_com-_-2022_07_29_14_25_08.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nationalpost_com-_-2022_07_29_14_25_08.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.91,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://nationalpost.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nationalpost_com-_-2022_07_29_14_24_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nationalpost_com-_-2022_07_29_14_24_17.report.json",
+      "summary": {
+        "performance": 0.21,
+        "accessibility": 0.91,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    }
+  ],
   "pending_tasks": true,
   "server": "ia601507.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346768398,
+      "task_id": 3347232189,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4435,7 +4528,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 859682790,
+  "uniq": 576303394,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

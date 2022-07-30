@@ -1,5 +1,5 @@
 {
-  "created": 1659088048,
+  "created": 1659139674,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/1/items/timesherald-2022",
@@ -934,31 +934,83 @@
       "sha1": "afbf54862166c183a9816604afa28bd057b415a8"
     },
     {
+      "name": "timesherald-2022-07-29T09:35:18.465512-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659101721",
+      "size": "35725",
+      "md5": "1e48d64acd950cc9f71ee13d1cb0e507",
+      "crc32": "daa08f64",
+      "sha1": "4337c3e5338fff99311828ecfaa2e7bb5800ea49",
+      "format": "JSON"
+    },
+    {
+      "name": "timesherald-2022-07-29T09:35:18.465512-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659101722",
+      "size": "25896",
+      "md5": "0651b1775122f5be1404a5ab8e082ade",
+      "crc32": "e889f893",
+      "sha1": "b27d9364faa6467a3118b64a87579554625da781",
+      "format": "JSON"
+    },
+    {
+      "name": "timesherald-2022-07-29T09:35:18.465512-04:00.jpg",
+      "source": "original",
+      "mtime": "1659101719",
+      "size": "258717",
+      "md5": "a40e90434756f217aa002eab8420e1e1",
+      "crc32": "8a9100cf",
+      "sha1": "80a3858e9a7242efcaece051913f44bb90de0b55",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesherald-2022-07-29T09:35:18.465512-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659101724",
+      "size": "1477",
+      "md5": "77f11c0e4e23efe888b9c00b9507fb9d",
+      "crc32": "d24801ca",
+      "sha1": "94630f9f3b2b63ac4ff9309d6519c1d7f6032ea0",
+      "format": "JSON"
+    },
+    {
+      "name": "timesherald-2022-07-29T09:35:18.465512-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesherald-2022-07-29T09:35:18.465512-04:00.jpg",
+      "mtime": "1659139621",
+      "size": "8659",
+      "md5": "f477aedd966ed80b492c1b1a954558f7",
+      "crc32": "2212fb2b",
+      "sha1": "788432c64cad99460f60c22f495452a8c3b09862"
+    },
+    {
       "name": "timesherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "20a03e59bf8cd286b2e68d35fa67b2bf285fb3cd",
-      "mtime": "1659087942",
-      "size": "20386",
-      "md5": "1196fbcef17add186035f90ee4241e58",
-      "crc32": "c605e7b6",
-      "sha1": "80332ae9246e0d5438e1b134db5310242d75b8e6",
+      "btih": "bf6e91fb90d81e8e4cc27f3691cda159a538834c",
+      "mtime": "1659139648",
+      "size": "21460",
+      "md5": "7eade1245bc7716ca1d72f5a3a4907e6",
+      "crc32": "38eb6f94",
+      "sha1": "f27cec1215cf66af49f44ecb10b3ecfa36e7e41e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "344c19dae32dd3f9cb47c653fa0880fb",
+      "md5": "46ac55792473d65ef38718bb594af7da",
       "summation": "md5"
     },
     {
       "name": "timesherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659058136",
-      "size": "131072",
-      "md5": "1321731a13d265cab97f3d72d961aad6",
-      "crc32": "7ad5c9cf",
-      "sha1": "b07406de81ea403bd465e5f14bba6d8a8cb9bcb3",
+      "mtime": "1659101728",
+      "size": "139264",
+      "md5": "795106d14fa3f72116a1cd02922beb56",
+      "crc32": "1f710f9a",
+      "sha1": "718a914252e8c68f0eef7901550819911cb9b0c6",
       "format": "Metadata"
     },
     {
@@ -972,9 +1024,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 93,
-  "item_last_updated": 1659087942,
-  "item_size": 5756993,
+  "files_count": 98,
+  "item_last_updated": 1659139648,
+  "item_size": 6096733,
   "metadata": {
     "identifier": "timesherald-2022",
     "collection": [
@@ -991,10 +1043,10 @@
     "publicdate": "2022-07-20 23:31:58",
     "addeddate": "2022-07-20 23:31:58"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 806623999,
+  "server": "ia801407.us.archive.org",
+  "uniq": 563628531,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

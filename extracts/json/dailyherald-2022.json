@@ -1,15 +1,15 @@
 {
-  "created": 1659097661,
+  "created": 1659140407,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dailyherald-2022": [
     {
       "url": "https://www.dailyherald.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailyherald_com-_-2022_07_29_01_03_49.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailyherald_com-_-2022_07_29_01_03_49.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailyherald_com-_-2022_07_29_16_04_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailyherald_com-_-2022_07_29_16_04_17.report.json",
       "summary": {
-        "performance": 0.21,
+        "performance": 0.2,
         "accessibility": 0.92,
         "best-practices": 0.75,
         "seo": 0.91,
@@ -19,10 +19,10 @@
     {
       "url": "https://www.dailyherald.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailyherald_com-_-2022_07_29_01_04_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailyherald_com-_-2022_07_29_01_04_17.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailyherald_com-_-2022_07_29_16_05_16.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailyherald_com-_-2022_07_29_16_05_16.report.json",
       "summary": {
-        "performance": 0.3,
+        "performance": 0.2,
         "accessibility": 0.92,
         "best-practices": 0.75,
         "seo": 0.91,
@@ -32,10 +32,10 @@
     {
       "url": "https://www.dailyherald.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailyherald_com-_-2022_07_29_01_03_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailyherald_com-_-2022_07_29_01_03_20.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailyherald_com-_-2022_07_29_16_04_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailyherald_com-_-2022_07_29_16_04_48.report.json",
       "summary": {
-        "performance": 0.29,
+        "performance": 0.34,
         "accessibility": 0.92,
         "best-practices": 0.75,
         "seo": 0.91,
@@ -161,31 +161,124 @@
       "sha1": "be6beb2537530f675245c64866e4b52db6e3fabf"
     },
     {
+      "name": "dailyherald-2022-07-29T08:32:54.135424-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659101576",
+      "size": "50121",
+      "md5": "8ed705809168be2767d9021f49d00862",
+      "crc32": "426d501a",
+      "sha1": "d3da7a6293e5e472f2c767677c7b002abeb4fc20",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyherald-2022-07-29T08:32:54.135424-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659101578",
+      "size": "44559",
+      "md5": "de8f8d0ceb31b67366d6f01093d9380d",
+      "crc32": "81fa1d1c",
+      "sha1": "e9effbe80c1d3156d41877cd9e88f3266d1a6c58",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyherald-2022-07-29T08:32:54.135424-05:00.jpg",
+      "source": "original",
+      "mtime": "1659101575",
+      "size": "346956",
+      "md5": "986a113a9e83c07ca363f47b0d93307d",
+      "crc32": "254c2a61",
+      "sha1": "ff077ae96ebeb7f95c439984d66627fb652bbe6e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailyherald-2022-07-29T08:32:54.135424-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659101579",
+      "size": "1503",
+      "md5": "3004eaf464b54462f8fa88853008ae58",
+      "crc32": "3ac0344d",
+      "sha1": "723ad2fda728dd75bba7a461894ce97a395a6765",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyherald-2022-07-29T08:32:54.135424-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailyherald-2022-07-29T08:32:54.135424-05:00.jpg",
+      "mtime": "1659111547",
+      "size": "10773",
+      "md5": "6965d29902a7fb8621d3e4337e4212e3",
+      "crc32": "7ad98071",
+      "sha1": "bb399093034676f6d534da2f9bfd97dd28a0e958"
+    },
+    {
+      "name": "dailyherald-2022-07-29T11:17:24.525960-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659111447",
+      "size": "52606",
+      "md5": "b47a9736a35b9b4bc87d84be147e341c",
+      "crc32": "f782be2e",
+      "sha1": "fe95f44a9f16729eb2c401161c7145a8cd3720d1",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyherald-2022-07-29T11:17:24.525960-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659111448",
+      "size": "45136",
+      "md5": "d30ac07eabc7b343b1ff90efce8f3511",
+      "crc32": "f43b8ae8",
+      "sha1": "29138684dfcb024e3c5e801f167e2ab17d47933e",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyherald-2022-07-29T11:17:24.525960-05:00.jpg",
+      "source": "original",
+      "mtime": "1659111445",
+      "size": "353308",
+      "md5": "da470e2e779560908531da048bd1b43c",
+      "crc32": "49fdd9ba",
+      "sha1": "3113382196a04759906e4ac7dde40ffe3ddc2df7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailyherald-2022-07-29T11:17:24.525960-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659111450",
+      "size": "1502",
+      "md5": "67a12f013bcb7b967c78f4efcd2e05d2",
+      "crc32": "9184b04b",
+      "sha1": "cf17994b5ff486d4a4a892355f2fb5f760a5e2ea",
+      "format": "JSON"
+    },
+    {
       "name": "dailyherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d2055dad9f9c95480500f7d4d1180549fc21863d",
-      "mtime": "1659087393",
-      "size": "3780",
-      "md5": "e12dbf3860afbb74db5b42582aef1c77",
-      "crc32": "deadc9e2",
-      "sha1": "067629a8ecbf49589d61a991ac3d1d6d58160709",
+      "btih": "8675441e09b2a65c5580d475be6f985d6e500eba",
+      "mtime": "1659111583",
+      "size": "5722",
+      "md5": "f635cf23720edc337251982d8e29d581",
+      "crc32": "7cbab358",
+      "sha1": "2f6177740054b3fbc08f56d87e5471bb972e0a82",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailyherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e3b161dfafc83cf4ee5d06c11a2a8a6d",
+      "md5": "c2707b1785efadc26c260352f9df4889",
       "summation": "md5"
     },
     {
       "name": "dailyherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659058028",
-      "size": "32768",
-      "md5": "3efae265b10164cbb875ab0802bde210",
-      "crc32": "a37956f4",
-      "sha1": "28520a5dbd16b89a885e7cf5b028d82137398111",
+      "mtime": "1659111581",
+      "size": "45056",
+      "md5": "1780de33c108f798d02eedff2a94ce39",
+      "crc32": "3f0a25bb",
+      "sha1": "b1f9fc1fc70bc5ca941593fa7c3ed716dac844b8",
       "format": "Metadata"
     },
     {
@@ -199,9 +292,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 15,
-  "item_last_updated": 1659087393,
-  "item_size": 1023973,
+  "files_count": 24,
+  "item_last_updated": 1659111583,
+  "item_size": 1944667,
   "metadata": {
     "identifier": "dailyherald-2022",
     "collection": [
@@ -218,10 +311,21 @@
     "publicdate": "2022-07-28 20:04:21",
     "addeddate": "2022-07-28 20:04:21"
   },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "uniq": 700462569,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3347288300,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1491691091,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }

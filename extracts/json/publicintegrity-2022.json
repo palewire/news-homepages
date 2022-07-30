@@ -1,5 +1,5 @@
 {
-  "created": 1659098062,
+  "created": 1659110006,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/publicintegrity-2022",
@@ -5027,31 +5027,83 @@
       "format": "JSON"
     },
     {
+      "name": "publicintegrity-2022-07-28T23:47:13.303768-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicintegrity-2022-07-28T23:47:13.303768-04:00.jpg",
+      "mtime": "1659108361",
+      "size": "9944",
+      "md5": "dadde75f78b3e22fc8e09971c1cb1da1",
+      "crc32": "7e9ca769",
+      "sha1": "038c2bffc26212ddaa414cd7e6131429d25c8773"
+    },
+    {
+      "name": "publicintegrity-2022-07-29T11:52:26.986165-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659109950",
+      "size": "20968",
+      "md5": "127d6293892228d95f75ccfc86701f3f",
+      "crc32": "cb626667",
+      "sha1": "68b5c7912c23300966d79fe4ce0a518723d6b74a",
+      "format": "JSON"
+    },
+    {
+      "name": "publicintegrity-2022-07-29T11:52:26.986165-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659109952",
+      "size": "24929",
+      "md5": "f38338ebf227d64fe0354521e516df4f",
+      "crc32": "b8dd6ff0",
+      "sha1": "0dcfc92e5f7030dd64de27c8841e26d523a20c4f",
+      "format": "JSON"
+    },
+    {
+      "name": "publicintegrity-2022-07-29T11:52:26.986165-04:00.jpg",
+      "source": "original",
+      "mtime": "1659109948",
+      "size": "286005",
+      "md5": "945f9ca15d4aee7db53bca8528bdb450",
+      "crc32": "897fb4e1",
+      "sha1": "522eb636e36a71b62c025d5b292be3018d67777d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "publicintegrity-2022-07-29T11:52:26.986165-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659109953",
+      "size": "1492",
+      "md5": "7f9e0006f0498647887fd83872fe472f",
+      "crc32": "6e382d51",
+      "sha1": "c30649bee6c716e7e7cb23cd7f1dcbe4073b1617",
+      "format": "JSON"
+    },
+    {
       "name": "publicintegrity-2022_archive.torrent",
       "source": "metadata",
-      "btih": "305fde7f1aa768dce80af73c607e941389b38ae0",
-      "mtime": "1659066483",
-      "size": "105820",
-      "md5": "a0543119b48baee187bbc8b9c3b22491",
-      "crc32": "65370e17",
-      "sha1": "a804b293aaa0831700eb153a3b0d69541239f159",
+      "btih": "c0bd4a08de5ec24970c56ab0a081b74d10c410b2",
+      "mtime": "1659110001",
+      "size": "106914",
+      "md5": "548e4f2abae3e219bb961d1fc069f230",
+      "crc32": "15496d23",
+      "sha1": "fb8f3697908e9b1d22209f38851d7561c72cd04e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "publicintegrity-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4b03b6c3cf1f4c7a6a3d0153d27ffb35",
+      "md5": "1e9729ce5636b889a03493132bdffa18",
       "summation": "md5"
     },
     {
       "name": "publicintegrity-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659066445",
-      "size": "577536",
-      "md5": "b25dd75621e12a5e9e8863454e7a8f1e",
-      "crc32": "7515164f",
-      "sha1": "95a71596eec4b4c50d98e5624ff2d273026bb0de",
+      "mtime": "1659109961",
+      "size": "585728",
+      "md5": "438c6c7bcbbed99ef2b617d045eef879",
+      "crc32": "981010e9",
+      "sha1": "39500771210be283963953abd964c60d48902bf3",
       "format": "Metadata"
     },
     {
@@ -5065,9 +5117,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 483,
-  "item_last_updated": 1659066483,
-  "item_size": 42566819,
+  "files_count": 488,
+  "item_last_updated": 1659110001,
+  "item_size": 42919443,
   "metadata": {
     "identifier": "publicintegrity-2022",
     "collection": [
@@ -5085,52 +5137,11 @@
     "addeddate": "2022-06-18 03:27:11"
   },
   "pending_tasks": true,
-  "publicintegrity-2022": [
-    {
-      "url": "https://publicintegrity.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/publicintegrity_org-_-2022_07_29_03_26_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/publicintegrity_org-_-2022_07_29_03_26_26.report.json",
-      "summary": {
-        "performance": 0.75,
-        "accessibility": 0.81,
-        "best-practices": 1,
-        "seo": 0.97,
-        "pwa": 0.8
-      }
-    },
-    {
-      "url": "https://publicintegrity.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/publicintegrity_org-_-2022_07_29_03_26_40.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/publicintegrity_org-_-2022_07_29_03_26_40.report.json",
-      "summary": {
-        "performance": 0.71,
-        "accessibility": 0.81,
-        "best-practices": 1,
-        "seo": 0.97,
-        "pwa": 0.8
-      }
-    },
-    {
-      "url": "https://publicintegrity.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/publicintegrity_org-_-2022_07_29_03_26_13.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/publicintegrity_org-_-2022_07_29_03_26_13.report.json",
-      "summary": {
-        "performance": 0.71,
-        "accessibility": 0.81,
-        "best-practices": 1,
-        "seo": 0.97,
-        "pwa": 0.8
-      }
-    }
-  ],
   "server": "ia601407.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346823272,
+      "task_id": 3347269074,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5138,7 +5149,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2141933014,
+  "uniq": 496811466,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

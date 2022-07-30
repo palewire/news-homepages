@@ -1,5 +1,5 @@
 {
-  "created": 1659093082,
+  "created": 1659139725,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/gwinnettdaily-2022",
@@ -883,31 +883,83 @@
       "format": "JSON"
     },
     {
+      "name": "gwinnettdaily-2022-07-29T07:10:33.652611-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gwinnettdaily-2022-07-29T07:10:33.652611-04:00.jpg",
+      "mtime": "1659134332",
+      "size": "11266",
+      "md5": "e14ec8a1d73e5511bfec8b8bda57c9d6",
+      "crc32": "a37a7096",
+      "sha1": "9c56f0b2051ea365adc5c1388225c8938bd81021"
+    },
+    {
+      "name": "gwinnettdaily-2022-07-29T20:07:55.561822-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659139679",
+      "size": "75607",
+      "md5": "16f98c2deb1dedb02fec8d69a49b8032",
+      "crc32": "c56efba3",
+      "sha1": "8cb4c0d3bf306b392d193aa50922299872f5a6a8",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-07-29T20:07:55.561822-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659139681",
+      "size": "153248",
+      "md5": "dd61a3c0df9092ecbd2c2fd2b492c909",
+      "crc32": "0759756f",
+      "sha1": "85ed1c4119519290846e7d35f304ad9e0961667d",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-07-29T20:07:55.561822-04:00.jpg",
+      "source": "original",
+      "mtime": "1659139678",
+      "size": "286968",
+      "md5": "33dacec8ef9efb704a9fd4d7cc44b36d",
+      "crc32": "759221c3",
+      "sha1": "6e3f0ad0c003bd5200bd2a9a8a32bc58f3cb6b8b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gwinnettdaily-2022-07-29T20:07:55.561822-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659139682",
+      "size": "1555",
+      "md5": "94251b6e5242915f16d324f60cd46418",
+      "crc32": "7c189b92",
+      "sha1": "218ae98d422c664190baa98a332ea2690b1968e4",
+      "format": "JSON"
+    },
+    {
       "name": "gwinnettdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9bb8415fbc99775c4df41d2f6ff4250ed953ade5",
-      "mtime": "1659093080",
-      "size": "19704",
-      "md5": "116443413cce85472c0abeeaa5f80a80",
-      "crc32": "f418cef6",
-      "sha1": "8eaf170e00976f41b34e2650fd1a4624bcbfc6a1",
+      "btih": "cb8854fb0916f80bb06f756d85475dee740b7132",
+      "mtime": "1659139721",
+      "size": "20790",
+      "md5": "f3560adba4e2a86d2779b23676f91d76",
+      "crc32": "f02f1649",
+      "sha1": "afb4c312f9050c69d9b2571d757083de4831630e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gwinnettdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6aa9d6c8e6a57bcb84278fc211080b78",
+      "md5": "176cc8d93324fe915fa1d08f4590a779",
       "summation": "md5"
     },
     {
       "name": "gwinnettdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659093046",
-      "size": "126976",
-      "md5": "2499f739d83879bccf6adc066a5afe24",
-      "crc32": "97d05dc7",
-      "sha1": "951c6a00abddb08b5507f9a6a008a5982bae3ad0",
+      "mtime": "1659139687",
+      "size": "131072",
+      "md5": "74753613c1083415d638a217ed0d8761",
+      "crc32": "bd363d18",
+      "sha1": "423d6472b68fa9e5480262d1c65e53b1f3102612",
       "format": "Metadata"
     },
     {
@@ -921,9 +973,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 88,
-  "item_last_updated": 1659093080,
-  "item_size": 9488031,
+  "files_count": 93,
+  "item_last_updated": 1659139721,
+  "item_size": 10021857,
   "metadata": {
     "identifier": "gwinnettdaily-2022",
     "collection": [
@@ -945,7 +997,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347111957,
+      "task_id": 3347561924,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -953,7 +1005,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1199736021,
+  "uniq": 2129719030,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

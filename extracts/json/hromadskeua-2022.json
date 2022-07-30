@@ -1,5 +1,5 @@
 {
-  "created": 1659093148,
+  "created": 1659139743,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/17/items/hromadskeua-2022",
@@ -11249,31 +11249,83 @@
       "format": "JSON"
     },
     {
+      "name": "hromadskeua-2022-07-29T14:11:26.625716+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hromadskeua-2022-07-29T14:11:26.625716+03:00.jpg",
+      "mtime": "1659134306",
+      "size": "9637",
+      "md5": "7f5062c4c48fe250dcf3dcf5fe5f7bfd",
+      "crc32": "525792fc",
+      "sha1": "c4d44813722b0f910b7254f77da57519f3a4308a"
+    },
+    {
+      "name": "hromadskeua-2022-07-30T03:07:58.231166+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659139681",
+      "size": "27600",
+      "md5": "6485f4f7fad725fbeddb41f03be58196",
+      "crc32": "e80342e9",
+      "sha1": "488f6bb121f70a160778b10fa7e3663101e00019",
+      "format": "JSON"
+    },
+    {
+      "name": "hromadskeua-2022-07-30T03:07:58.231166+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659139683",
+      "size": "22720",
+      "md5": "9b1494eb0b6b3883e7920abe5bd5bcbf",
+      "crc32": "9bbc310f",
+      "sha1": "0aa21ba1d06d121b73fbc0c27f49a92f87dc30d9",
+      "format": "JSON"
+    },
+    {
+      "name": "hromadskeua-2022-07-30T03:07:58.231166+03:00.jpg",
+      "source": "original",
+      "mtime": "1659139679",
+      "size": "325804",
+      "md5": "2ee6e1bd6eef31bcf28980f4f555c375",
+      "crc32": "779f705a",
+      "sha1": "7f43b275a81fe8f06a2c15b545a0bbf41458f5e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hromadskeua-2022-07-30T03:07:58.231166+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659139686",
+      "size": "1431",
+      "md5": "d56655e23d215f9aed7c46152a999564",
+      "crc32": "8d63ff96",
+      "sha1": "69834e26e6b466d2904b0004595d477554641cd0",
+      "format": "JSON"
+    },
+    {
       "name": "hromadskeua-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4a6ed2708dd23ea0a98dd5fdc4fe317420122792",
-      "mtime": "1659093144",
-      "size": "230288",
-      "md5": "fc83f3d878f2099d84bb54ecd0068aa5",
-      "crc32": "45e38072",
-      "sha1": "94def1a5c0d5d04a6a011711d17898cd5a1d0669",
+      "btih": "667fa0afc35804ce55752edeeab8aa7e28643550",
+      "mtime": "1659139740",
+      "size": "231362",
+      "md5": "881c45a566b8eb6f01bf488d85cb22f5",
+      "crc32": "ad715745",
+      "sha1": "2ab8deb4f3a88323c2b0c5169792a2c1433c3e22",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hromadskeua-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "20ffab19f454652046f1807c6af495e6",
+      "md5": "fc61c135aec7cfa38da32ac491c6721e",
       "summation": "md5"
     },
     {
       "name": "hromadskeua-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659093099",
-      "size": "1232896",
-      "md5": "df453c9c057e5f7a631fa12bec0bbb4e",
-      "crc32": "21472547",
-      "sha1": "d5110949e552f12ee00e7b82595f8ef8083599ca",
+      "mtime": "1659139695",
+      "size": "1241088",
+      "md5": "51132c6fbbbac06e706a2fea60824845",
+      "crc32": "a6178489",
+      "sha1": "52eb2dd3f2685a78d694eaf86047178314bf8371",
       "format": "Metadata"
     },
     {
@@ -11287,9 +11339,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1074,
-  "item_last_updated": 1659093144,
-  "item_size": 103663496,
+  "files_count": 1079,
+  "item_last_updated": 1659139740,
+  "item_size": 104059954,
   "metadata": {
     "identifier": "hromadskeua-2022",
     "collection": [
@@ -11311,7 +11363,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347112844,
+      "task_id": 3347562144,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11319,7 +11371,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2124535984,
+  "uniq": 959352709,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

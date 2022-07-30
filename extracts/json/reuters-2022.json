@@ -1,5 +1,5 @@
 {
-  "created": 1659097526,
+  "created": 1659140253,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/1/items/reuters-2022",
@@ -3677,31 +3677,83 @@
       "format": "JSON"
     },
     {
+      "name": "reuters-2022-07-29T08:24:24.338788-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-07-29T08:24:24.338788-04:00.jpg",
+      "mtime": "1659136591",
+      "size": "8282",
+      "md5": "e3a13d6fa993b3a3a839605c130dc864",
+      "crc32": "9430c102",
+      "sha1": "9d5d599362638206d9836ccd106e98524751a462"
+    },
+    {
+      "name": "reuters-2022-07-29T20:16:30.817255-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659140195",
+      "size": "38460",
+      "md5": "f389bc9a25861332c1407e2e3ef1160f",
+      "crc32": "498c9655",
+      "sha1": "4e6ea661b9f570ae661e7fe2215555cad5245cfb",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-07-29T20:16:30.817255-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659140197",
+      "size": "28262",
+      "md5": "0dcf100b8052c3ce9ba78036a4eed4fa",
+      "crc32": "90ba0869",
+      "sha1": "0e161a81aa114ba0ac2fe8788a1b697a172d1c8b",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-07-29T20:16:30.817255-04:00.jpg",
+      "source": "original",
+      "mtime": "1659140193",
+      "size": "233722",
+      "md5": "c5560e44100cc2b1e910a5242e07e7da",
+      "crc32": "dc038510",
+      "sha1": "eaee556cde51ef8ff7b619a69e0966d8f5f68569",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-07-29T20:16:30.817255-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659140199",
+      "size": "1468",
+      "md5": "a64dfbaea1223e60fa3f802ba0e17e3e",
+      "crc32": "6cbf1baf",
+      "sha1": "62faa0df8338923b5fe64d300f25b72896f9e2b0",
+      "format": "JSON"
+    },
+    {
       "name": "reuters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3da28380fa7b216fd0b602f038301fa3983286f8",
-      "mtime": "1659097523",
-      "size": "74606",
-      "md5": "5cfca1bf0f7bda8e843a23e6a69b6830",
-      "crc32": "5fd712c9",
-      "sha1": "6524c45a054d8bc9311ceb478b12a79c5a01acc8",
+      "btih": "0e1ddf17ae9ecad90ba7e87ef4887d0988d4d9d9",
+      "mtime": "1659140247",
+      "size": "75640",
+      "md5": "9c4f183a360405388e6d4c2e81a15d33",
+      "crc32": "fa61e7c4",
+      "sha1": "84712897cc75f11e6b6b9ca9fcfa86de936787dc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reuters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8706206cb71b90e746135ddeaac0dfda",
+      "md5": "5df1bb9a1607b8321aff54e14dec30a0",
       "summation": "md5"
     },
     {
       "name": "reuters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659097483",
-      "size": "421888",
-      "md5": "49612d5093be94389d9122bce6536623",
-      "crc32": "c59243e7",
-      "sha1": "ffff6007d0d8a3c71a4e7c279dff30e12734bc46",
+      "mtime": "1659140207",
+      "size": "430080",
+      "md5": "d346af4f58a4f5b9e589cb7eef4fcd03",
+      "crc32": "086c9678",
+      "sha1": "9d7e0efa16f7a6adf0493714386ba997726d0ba7",
       "format": "Metadata"
     },
     {
@@ -3715,9 +3767,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 354,
-  "item_last_updated": 1659097523,
-  "item_size": 26378067,
+  "files_count": 359,
+  "item_last_updated": 1659140247,
+  "item_size": 26697487,
   "metadata": {
     "identifier": "reuters-2022",
     "collection": [
@@ -3739,7 +3791,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347152306,
+      "task_id": 3347566710,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3747,7 +3799,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 857152367,
+  "uniq": 435577799,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659093010,
+  "created": 1659139625,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/eenewsupdates-2022",
@@ -2309,31 +2309,83 @@
       "format": "JSON"
     },
     {
+      "name": "eenewsupdates-2022-07-29T07:09:19.810599-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eenewsupdates-2022-07-29T07:09:19.810599-04:00.jpg",
+      "mtime": "1659134396",
+      "size": "10137",
+      "md5": "718b9b29d2f6ad1ac1b154da4d78ad2c",
+      "crc32": "9156ccaa",
+      "sha1": "a6385dc610b30067e1f7bd99a2051dca8026efec"
+    },
+    {
+      "name": "eenewsupdates-2022-07-29T20:06:19.016375-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659139581",
+      "size": "16470",
+      "md5": "48e8dbd0289a23f2c9332313e2bed17c",
+      "crc32": "482803b1",
+      "sha1": "51987289f9be7dc1345f051aa470c1fe1beea33d",
+      "format": "JSON"
+    },
+    {
+      "name": "eenewsupdates-2022-07-29T20:06:19.016375-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659139583",
+      "size": "11461",
+      "md5": "ba64a4801df27d85491329c71332237b",
+      "crc32": "35c1c6e9",
+      "sha1": "ee76ea68d92f754fac14edebf208e55d713053a5",
+      "format": "JSON"
+    },
+    {
+      "name": "eenewsupdates-2022-07-29T20:06:19.016375-04:00.jpg",
+      "source": "original",
+      "mtime": "1659139580",
+      "size": "234558",
+      "md5": "f8e6d6e1156a1e4ae1e7791f71b23039",
+      "crc32": "449d2daf",
+      "sha1": "6bc33b02912362d4af629986c232a3e2c9e1ac81",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eenewsupdates-2022-07-29T20:06:19.016375-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659139584",
+      "size": "1452",
+      "md5": "112dd7b0d50e4e4c4c4288148c3d7e01",
+      "crc32": "80f73711",
+      "sha1": "cfa1ccaebca71ca347569eba9b9ab3c438e1c725",
+      "format": "JSON"
+    },
+    {
       "name": "eenewsupdates-2022_archive.torrent",
       "source": "metadata",
-      "btih": "23c9ed8324ddca53dbfe8cc15a408c651467454a",
-      "mtime": "1659093007",
-      "size": "48843",
-      "md5": "0dfbef1d8670cde81e540aa843f8f63f",
-      "crc32": "031a5815",
-      "sha1": "e8f34ff65d380c8aaa531f711f0acf928239e3d1",
+      "btih": "2c1ca9b2934642af8cc303e6e01b524a705764d3",
+      "mtime": "1659139623",
+      "size": "49928",
+      "md5": "e404f91dfa28fb6292cf2fbb8a11feb7",
+      "crc32": "db14be80",
+      "sha1": "355558753bb3a5c11c90f2f2deba13789146a5f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eenewsupdates-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bb1de0dee3ef35104b6d395858a2ae17",
+      "md5": "8775c0397baf4f7b00fb9e88946e6021",
       "summation": "md5"
     },
     {
       "name": "eenewsupdates-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659092972",
-      "size": "278528",
-      "md5": "7cf050ea3ce14346fb292885800e6c32",
-      "crc32": "2dfad975",
-      "sha1": "c3d22e05de0379ee24170dfbbeed9f55eb2ca023",
+      "mtime": "1659139588",
+      "size": "286720",
+      "md5": "83585b71ad7cd5ad4ba4d6837c291192",
+      "crc32": "02599d28",
+      "sha1": "d7f1150336c70f46fe4973f1f20ed05b9fc89735",
       "format": "Metadata"
     },
     {
@@ -2347,9 +2399,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 224,
-  "item_last_updated": 1659093007,
-  "item_size": 16689826,
+  "files_count": 229,
+  "item_last_updated": 1659139623,
+  "item_size": 16973181,
   "metadata": {
     "identifier": "eenewsupdates-2022",
     "collection": [
@@ -2371,7 +2423,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347111268,
+      "task_id": 3347560588,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2379,7 +2431,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1366032300,
+  "uniq": 764385775,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

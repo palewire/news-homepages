@@ -1,5 +1,5 @@
 {
-  "created": 1659097521,
+  "created": 1659140257,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/19/items/rollingstone-2022",
@@ -3537,31 +3537,83 @@
       "format": "JSON"
     },
     {
+      "name": "rollingstone-2022-07-29T08:24:06.211724-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollingstone-2022-07-29T08:24:06.211724-04:00.jpg",
+      "mtime": "1659136591",
+      "size": "11642",
+      "md5": "ac58ec94d39fc76f86b2f6e0a939d1c0",
+      "crc32": "7af83438",
+      "sha1": "bb09eceb5bbaa4e300d4305d6d0d6b2d5086e8d7"
+    },
+    {
+      "name": "rollingstone-2022-07-29T20:16:42.857034-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659140207",
+      "size": "25763",
+      "md5": "a015c23d5251ccebbe6de14e376bd591",
+      "crc32": "223595fc",
+      "sha1": "4d9e2c2185252a88253649702491b9417c2661c4",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-07-29T20:16:42.857034-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659140209",
+      "size": "53782",
+      "md5": "59e24d8d811c66f456ca41c0c199b0d2",
+      "crc32": "f58ce4fa",
+      "sha1": "22d3c2772769c076545fa78e20542bf09dfcab0a",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-07-29T20:16:42.857034-04:00.jpg",
+      "source": "original",
+      "mtime": "1659140205",
+      "size": "333087",
+      "md5": "5711b2d2e7b4fd79c4170a1fb14d70ce",
+      "crc32": "65cbc53e",
+      "sha1": "d4c9798ca66f714822fa6a4ca87183d0d2fab9cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rollingstone-2022-07-29T20:16:42.857034-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659140211",
+      "size": "1513",
+      "md5": "91b458a6a1c4c420a84a6111bbc1a98d",
+      "crc32": "6ca7e7de",
+      "sha1": "300a12ac79d9af60a684eab26df6918475aff881",
+      "format": "JSON"
+    },
+    {
       "name": "rollingstone-2022_archive.torrent",
       "source": "metadata",
-      "btih": "412ba8c8f69c7d34585460a6c90d0962453af096",
-      "mtime": "1659097511",
-      "size": "73816",
-      "md5": "cb257e9671c50d98cf8418dfb694388e",
-      "crc32": "112afa83",
-      "sha1": "e7f4c7f0e18e7314a0065d6759d9568e9189bf06",
+      "btih": "7b1a621c4d00c3c5b8b26614b155c6484b9428b4",
+      "mtime": "1659140253",
+      "size": "74896",
+      "md5": "cdc2fa6666bce86b5835897c7c12e6c3",
+      "crc32": "7ef6a496",
+      "sha1": "54f6f30335321d75c434b78dc8cf3810fbb90f7d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollingstone-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dbd710a993d0ce5ec54d1ccde715704e",
+      "md5": "a54802cc094e14e4d14aa8167fb3bc05",
       "summation": "md5"
     },
     {
       "name": "rollingstone-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659097468",
-      "size": "405504",
-      "md5": "b8cae527e9202413ef8bcf38ff98721c",
-      "crc32": "737a7510",
-      "sha1": "0eac7a05a6b16715b3b21c180bf2296fbba37c7e",
+      "mtime": "1659140216",
+      "size": "409600",
+      "md5": "e8f6534b233c18fdb0feae5028b7d0ea",
+      "crc32": "1288916d",
+      "sha1": "43e6de1875ac753d4c2449bcbc5824984ad75446",
       "format": "Metadata"
     },
     {
@@ -3575,9 +3627,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 340,
-  "item_last_updated": 1659097511,
-  "item_size": 35850454,
+  "files_count": 345,
+  "item_last_updated": 1659140253,
+  "item_size": 36281417,
   "metadata": {
     "identifier": "rollingstone-2022",
     "collection": [
@@ -3599,7 +3651,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347152278,
+      "task_id": 3347566739,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3607,7 +3659,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 42541090,
+  "uniq": 1260377124,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

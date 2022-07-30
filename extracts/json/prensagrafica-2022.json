@@ -1,5 +1,5 @@
 {
-  "created": 1659066493,
+  "created": 1659140931,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/25/items/prensagrafica-2022",
@@ -3613,31 +3613,83 @@
       "format": "JSON"
     },
     {
+      "name": "prensagrafica-2022-07-28T21:47:21.680936-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prensagrafica-2022-07-28T21:47:21.680936-06:00.jpg",
+      "mtime": "1659108445",
+      "size": "12412",
+      "md5": "62a0ee10c2a893fab70da1d05a31d730",
+      "crc32": "cd4ee65e",
+      "sha1": "f7fa0f8ad75495d96b0bbb730fa41e33eb29cada"
+    },
+    {
+      "name": "prensagrafica-2022-07-29T09:52:18.370683-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659109942",
+      "size": "69667",
+      "md5": "5d8fa6b08e464682c8125a99311376f0",
+      "crc32": "65a5631e",
+      "sha1": "3a8087475a120f8cf9ed132afc31fd7aa95c6ad3",
+      "format": "JSON"
+    },
+    {
+      "name": "prensagrafica-2022-07-29T09:52:18.370683-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659109947",
+      "size": "53601",
+      "md5": "c83f45ac972524ff7ed2340a288aad52",
+      "crc32": "12b1f2c1",
+      "sha1": "a8bf5ad0d8a02cee9ee40c8ec992aa4246438ab5",
+      "format": "JSON"
+    },
+    {
+      "name": "prensagrafica-2022-07-29T09:52:18.370683-06:00.jpg",
+      "source": "original",
+      "mtime": "1659109940",
+      "size": "338799",
+      "md5": "fdc3f0d83baf537b4308ee56446e24aa",
+      "crc32": "02b490c3",
+      "sha1": "9834d9b4b27af32541d753e1761cd595297fb0b6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prensagrafica-2022-07-29T09:52:18.370683-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659109949",
+      "size": "1537",
+      "md5": "a3d11401c418a1dc22dad1ed88c32c39",
+      "crc32": "dc348673",
+      "sha1": "e0fcd6fa9e0b046a19e74c8cc0f611f8c5bab301",
+      "format": "JSON"
+    },
+    {
       "name": "prensagrafica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f02c61bc6b981aaea62c63baef503b6bbdfac8fb",
-      "mtime": "1659066488",
-      "size": "76058",
-      "md5": "f98089ad05360b1b2216de4c7a2f720b",
-      "crc32": "404529e7",
-      "sha1": "5a11cf91910ecbaa77b2d88d876f447a173305b9",
+      "btih": "8a92422b30a5543c50f305b57c76e4450f29fbeb",
+      "mtime": "1659109992",
+      "size": "77143",
+      "md5": "b6b1b8d43a80b50fe470877fe8ea7d41",
+      "crc32": "b98d119e",
+      "sha1": "bfffa77ef67bb157ef6bd9eea845b6198c235b9b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "prensagrafica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6675e3f81a9d7dbcde6a80fde4eaa705",
+      "md5": "9b27e3e297c5c88ba260c5ca98b2b286",
       "summation": "md5"
     },
     {
       "name": "prensagrafica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659066451",
-      "size": "421888",
-      "md5": "101366bb2037283c474d4db2fb7912fc",
-      "crc32": "71c58bc7",
-      "sha1": "9590c8155f9d8005d8af87dcf77f97b6113541ff",
+      "mtime": "1659109953",
+      "size": "425984",
+      "md5": "610ad1c4f57d79de6dba7eaeceab0805",
+      "crc32": "b083268d",
+      "sha1": "d5dc3662f390b1d1dd67ab7959ef993e813b630f",
       "format": "Metadata"
     },
     {
@@ -3651,9 +3703,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 348,
-  "item_last_updated": 1659066488,
-  "item_size": 39103719,
+  "files_count": 353,
+  "item_last_updated": 1659109992,
+  "item_size": 39584916,
   "metadata": {
     "identifier": "prensagrafica-2022",
     "collection": [
@@ -3671,11 +3723,52 @@
     "addeddate": "2022-06-24 22:59:26"
   },
   "pending_tasks": true,
+  "prensagrafica-2022": [
+    {
+      "url": "https://www.laprensagrafica.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_laprensagrafica_com-_-2022_07_29_15_28_33.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_laprensagrafica_com-_-2022_07_29_15_28_33.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.7,
+        "best-practices": 0.58,
+        "seo": 0.86,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.laprensagrafica.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_laprensagrafica_com-_-2022_07_29_15_29_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_laprensagrafica_com-_-2022_07_29_15_29_11.report.json",
+      "summary": {
+        "performance": 0.34,
+        "accessibility": 0.7,
+        "best-practices": 0.58,
+        "seo": 0.86,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.laprensagrafica.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_laprensagrafica_com-_-2022_07_29_15_28_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_laprensagrafica_com-_-2022_07_29_15_28_06.report.json",
+      "summary": {
+        "performance": 0.28,
+        "accessibility": 0.7,
+        "best-practices": 0.58,
+        "seo": 0.86,
+        "pwa": 0.6
+      }
+    }
+  ],
   "server": "ia902505.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346823366,
+      "task_id": 3347268977,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3683,7 +3776,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 261740702,
+  "uniq": 1342093786,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659098248,
+  "created": 1659110327,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/24/items/torrentfreak-2022",
@@ -473,31 +473,83 @@
       "format": "JSON"
     },
     {
+      "name": "torrentfreak-2022-07-28T20:51:27.402599-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "torrentfreak-2022-07-28T20:51:27.402599-07:00.jpg",
+      "mtime": "1659108701",
+      "size": "9836",
+      "md5": "780ff384ecdda5a198e433effe5b70a6",
+      "crc32": "ac103526",
+      "sha1": "07f051183f22a8e6a6ad7306aaf356f95ac6527b"
+    },
+    {
+      "name": "torrentfreak-2022-07-29T08:57:56.974991-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659110279",
+      "size": "7244",
+      "md5": "83f0883c8c1c841bc4355e4c60acc6f7",
+      "crc32": "ae429a10",
+      "sha1": "a50683c73bd48a1b475b79ffba83a7c362820845",
+      "format": "JSON"
+    },
+    {
+      "name": "torrentfreak-2022-07-29T08:57:56.974991-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659110281",
+      "size": "8706",
+      "md5": "cb2a582ea142ac24a6023e49c8557b99",
+      "crc32": "6d088ed8",
+      "sha1": "e6922b0d44188a36a2054684131f63f2652d727d",
+      "format": "JSON"
+    },
+    {
+      "name": "torrentfreak-2022-07-29T08:57:56.974991-07:00.jpg",
+      "source": "original",
+      "mtime": "1659110278",
+      "size": "273716",
+      "md5": "a1624cd3b0c5a2f39ebefa506b932c78",
+      "crc32": "025ac8b5",
+      "sha1": "bf92cce5c9ea22955f60138bbf4baa6fd041b085",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "torrentfreak-2022-07-29T08:57:56.974991-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659110282",
+      "size": "1468",
+      "md5": "0d7ff290ff4728921f1bfb91198c561d",
+      "crc32": "1fc855a3",
+      "sha1": "0082caee95bae1bb998e009c48e77c96d914218a",
+      "format": "JSON"
+    },
+    {
       "name": "torrentfreak-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4f15cdd1a7b0dd9838e793eb4c471b2ad061aacf",
-      "mtime": "1659066732",
-      "size": "11069",
-      "md5": "99c0ed38d69d6b57bbd9dbc4d1120e49",
-      "crc32": "deb49de0",
-      "sha1": "3ebf0aeb9418e650a37406b61af26d1f7f872430",
+      "btih": "6a3750b042181d444b9caab3672d9ef5d9502db4",
+      "mtime": "1659110325",
+      "size": "12146",
+      "md5": "afa022fa5cffeeecaa51a5e2f4f5cb17",
+      "crc32": "2604dfae",
+      "sha1": "b0faa0607cbc8d8d49a884e2418eb8bc5c1d7030",
       "format": "Archive BitTorrent"
     },
     {
       "name": "torrentfreak-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "58ae8268add8d2522fac3d2ccfbadf31",
+      "md5": "3d624a749e6a9ca69fa526f62b450846",
       "summation": "md5"
     },
     {
       "name": "torrentfreak-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659066697",
-      "size": "69632",
-      "md5": "dce9c0a4d9df15fd6b5aa296b1282cd0",
-      "crc32": "e2633683",
-      "sha1": "147011b6007d98fefbbc1a865211e7b106878d5d",
+      "mtime": "1659110291",
+      "size": "77824",
+      "md5": "2656aefea4473ccd2f49228435c53fbd",
+      "crc32": "5a821ab7",
+      "sha1": "491ed16f58939d2f625105233707183893832bee",
       "format": "Metadata"
     },
     {
@@ -511,9 +563,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 49,
-  "item_last_updated": 1659066732,
-  "item_size": 2847718,
+  "files_count": 54,
+  "item_last_updated": 1659110325,
+  "item_size": 3157957,
   "metadata": {
     "identifier": "torrentfreak-2022",
     "collection": [
@@ -535,7 +587,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346826769,
+      "task_id": 3347271424,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -543,48 +595,7 @@
       "status": "queued"
     }
   ],
-  "torrentfreak-2022": [
-    {
-      "url": "https://torrentfreak.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/torrentfreak_com-_-2022_07_29_03_34_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/torrentfreak_com-_-2022_07_29_03_34_20.report.json",
-      "summary": {
-        "performance": 0.91,
-        "accessibility": 0.69,
-        "best-practices": 1,
-        "seo": 0.93,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://torrentfreak.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/torrentfreak_com-_-2022_07_29_03_34_32.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/torrentfreak_com-_-2022_07_29_03_34_32.report.json",
-      "summary": {
-        "performance": 0.87,
-        "accessibility": 0.69,
-        "best-practices": 1,
-        "seo": 0.93,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://torrentfreak.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/torrentfreak_com-_-2022_07_29_03_34_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/torrentfreak_com-_-2022_07_29_03_34_44.report.json",
-      "summary": {
-        "performance": 0.86,
-        "accessibility": 0.69,
-        "best-practices": 1,
-        "seo": 0.93,
-        "pwa": 0.7
-      }
-    }
-  ],
-  "uniq": 1337671339,
+  "uniq": 1484569017,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

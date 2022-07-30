@@ -1,5 +1,5 @@
 {
-  "created": 1659093114,
+  "created": 1659139723,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/hellgateny-2022",
@@ -2435,31 +2435,83 @@
       "format": "JSON"
     },
     {
+      "name": "hellgateny-2022-07-29T07:11:02.071626-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hellgateny-2022-07-29T07:11:02.071626-04:00.jpg",
+      "mtime": "1659134477",
+      "size": "8624",
+      "md5": "1cf05b8497cc2238e936488bd7ea034c",
+      "crc32": "16b81fcf",
+      "sha1": "aa61aef869682cb1ef687bc31cf60dc94b63ecde"
+    },
+    {
+      "name": "hellgateny-2022-07-29T20:07:48.467681-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659139671",
+      "size": "16442",
+      "md5": "81743c5dddeecb41096c56cdb25e4f72",
+      "crc32": "7622310f",
+      "sha1": "8d680103f3c22b9ae6a5dbcbf85cb9523d070f0f",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-07-29T20:07:48.467681-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659139673",
+      "size": "15241",
+      "md5": "8f06dacbf92ea1e9eda76e536c48f7ac",
+      "crc32": "0eb6893c",
+      "sha1": "284c265a9ba1a54a60352bf547d0afbd696ef1dd",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-07-29T20:07:48.467681-04:00.jpg",
+      "source": "original",
+      "mtime": "1659139670",
+      "size": "228869",
+      "md5": "c8b74d0ecea68a7e01124866ca7013d6",
+      "crc32": "d33f41ff",
+      "sha1": "a87e890f50b6687981d0ca21c843bb650eb8bd77",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hellgateny-2022-07-29T20:07:48.467681-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659139674",
+      "size": "1468",
+      "md5": "3bb5398e1f430bdf6ce68c07b1a17d69",
+      "crc32": "1824a4d8",
+      "sha1": "edfe2d87e85cd7f96c14abc333449620c8b1bb61",
+      "format": "JSON"
+    },
+    {
       "name": "hellgateny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4bfa1704c8857f00de01f23fb09bada6fd1b6da8",
-      "mtime": "1659093111",
-      "size": "50469",
-      "md5": "02706d104e68b7723c27104f58870b5e",
-      "crc32": "2329cc00",
-      "sha1": "9d7cf8b8db1682c7cf344c1320c8e8eaecd14ac4",
+      "btih": "03f743873c339207801a72951204c4da67f3408c",
+      "mtime": "1659139718",
+      "size": "51538",
+      "md5": "c9c5b0f5e47ebbf5e385697d44facd28",
+      "crc32": "a53bee1e",
+      "sha1": "1d095157b327432ccfc11ac170a73d4a699a9602",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hellgateny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "588b1d5100688b7845a72ef87f979281",
+      "md5": "7b63aa76051d7e421751101e224b0545",
       "summation": "md5"
     },
     {
       "name": "hellgateny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659093076",
-      "size": "290816",
-      "md5": "b376ca804610aabf5808d5b21920bef2",
-      "crc32": "4623386c",
-      "sha1": "cc5f237b224f28137f85241d209e12818193e5a0",
+      "mtime": "1659139679",
+      "size": "299008",
+      "md5": "c49372dd8996063a9a883bffc7e06d0e",
+      "crc32": "7f3b74bc",
+      "sha1": "1b89306d9a0d3b1305dad123edf4ff35d879de89",
       "format": "Metadata"
     },
     {
@@ -2473,9 +2525,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 236,
-  "item_last_updated": 1659093111,
-  "item_size": 14152672,
+  "files_count": 241,
+  "item_last_updated": 1659139718,
+  "item_size": 14432577,
   "metadata": {
     "identifier": "hellgateny-2022",
     "collection": [
@@ -2497,7 +2549,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347112331,
+      "task_id": 3347561911,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2505,7 +2557,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2062077757,
+  "uniq": 1294661283,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

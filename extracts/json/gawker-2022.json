@@ -1,5 +1,5 @@
 {
-  "created": 1659097756,
+  "created": 1659140541,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/15/items/gawker-2022",
@@ -2215,31 +2215,83 @@
       "format": "JSON"
     },
     {
+      "name": "gawker-2022-07-28T22:35:53.943889-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-07-28T22:35:53.943889-04:00.jpg",
+      "mtime": "1659098960",
+      "size": "11319",
+      "md5": "17ba1ac805baaef712d46a0653894f86",
+      "crc32": "ac7a2032",
+      "sha1": "4788e9510190da0704d102e7ac6f4e8b2c5b59c4"
+    },
+    {
+      "name": "gawker-2022-07-29T10:38:30.751863-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659105513",
+      "size": "8738",
+      "md5": "9fc3b7499251da9d7b27032ad5edc6fe",
+      "crc32": "a705c7d4",
+      "sha1": "42f20b9de17b2875675987fa50040d51d52a2f4f",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-07-29T10:38:30.751863-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659105515",
+      "size": "10803",
+      "md5": "16e7f7245fc1a63928882b976b2e4f1e",
+      "crc32": "2b679607",
+      "sha1": "0235a6c35d56deb3c9082016c88db31756ab99e0",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-07-29T10:38:30.751863-04:00.jpg",
+      "source": "original",
+      "mtime": "1659105512",
+      "size": "326944",
+      "md5": "83ac4129a58bc3c23eea8377f950513d",
+      "crc32": "0e95e890",
+      "sha1": "1e39b6593380cb0aa3a7c4d767b6ccd5a1313394",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-07-29T10:38:30.751863-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659105516",
+      "size": "1441",
+      "md5": "130e115a227440e379c93e14f68576ae",
+      "crc32": "768181ef",
+      "sha1": "9b3758c1238d3ab4e457f5764aa0d044cb42960f",
+      "format": "JSON"
+    },
+    {
       "name": "gawker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ee4b0145a0950f95d87beb08d2792ef6445dbcb7",
-      "mtime": "1659062199",
-      "size": "45345",
-      "md5": "68e47861452420d95d2e38b0b76f8f8e",
-      "crc32": "255c2a47",
-      "sha1": "249a99528d07a8def5f7e5a3cadc5c361c64b79f",
+      "btih": "a847383025e83dcbebd8211f1e57d54e3e5b0c30",
+      "mtime": "1659105557",
+      "size": "46394",
+      "md5": "98552afa800ea6632a39f7b4461208ca",
+      "crc32": "b8565c70",
+      "sha1": "cd9b95243d154326794f69aa477aeef2138fc616",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gawker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2f5e2b7ea0821b9e28fe9f3dd8146fdc",
+      "md5": "eaf5d92242e108fda9ec925a91de922f",
       "summation": "md5"
     },
     {
       "name": "gawker-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659062163",
-      "size": "266240",
-      "md5": "1faa622f41e13e0903b3cd01c4547e68",
-      "crc32": "96a55aea",
-      "sha1": "db50625f755ff32561996701f09237e9aa6f0322",
+      "mtime": "1659105522",
+      "size": "274432",
+      "md5": "24265682701416f0b8e8e1926ca95d66",
+      "crc32": "84e6cc04",
+      "sha1": "65fd03e020be2ef37044929aa6082e1062063065",
       "format": "Metadata"
     },
     {
@@ -2253,15 +2305,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 215,
+  "files_count": 220,
   "gawker-2022": [
     {
       "url": "https://www.gawker.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gawker_com-_-2022_07_29_02_13_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gawker_com-_-2022_07_29_02_13_44.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gawker_com-_-2022_07_29_14_13_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gawker_com-_-2022_07_29_14_13_58.report.json",
       "summary": {
-        "performance": 0.55,
+        "performance": 0.44,
         "accessibility": 0.98,
         "best-practices": 1,
         "seo": 1,
@@ -2271,10 +2323,10 @@
     {
       "url": "https://www.gawker.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gawker_com-_-2022_07_29_02_13_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gawker_com-_-2022_07_29_02_13_56.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gawker_com-_-2022_07_29_14_14_24.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gawker_com-_-2022_07_29_14_14_24.report.json",
       "summary": {
-        "performance": 0.69,
+        "performance": 0.73,
         "accessibility": 0.98,
         "best-practices": 1,
         "seo": 1,
@@ -2284,10 +2336,10 @@
     {
       "url": "https://www.gawker.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gawker_com-_-2022_07_29_02_14_08.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gawker_com-_-2022_07_29_02_14_08.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gawker_com-_-2022_07_29_14_14_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gawker_com-_-2022_07_29_14_14_11.report.json",
       "summary": {
-        "performance": 0.58,
+        "performance": 0.63,
         "accessibility": 0.98,
         "best-practices": 1,
         "seo": 1,
@@ -2295,8 +2347,8 @@
       }
     }
   ],
-  "item_last_updated": 1659062199,
-  "item_size": 15953034,
+  "item_last_updated": 1659105557,
+  "item_size": 16321520,
   "metadata": {
     "identifier": "gawker-2022",
     "collection": [
@@ -2318,7 +2370,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346764386,
+      "task_id": 3347228261,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2326,7 +2378,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 924276696,
+  "uniq": 940080663,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659097711,
+  "created": 1659140456,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/29/items/elmundoes-2022",
@@ -7,10 +7,10 @@
     {
       "url": "https://www.elmundo.es/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elmundo_es-_-2022_07_29_02_11_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elmundo_es-_-2022_07_29_02_11_26.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elmundo_es-_-2022_07_29_14_12_24.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elmundo_es-_-2022_07_29_14_12_24.report.json",
       "summary": {
-        "performance": 0.29,
+        "performance": 0.3,
         "accessibility": 0.98,
         "best-practices": 0.83,
         "seo": 0.92,
@@ -20,10 +20,10 @@
     {
       "url": "https://www.elmundo.es/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elmundo_es-_-2022_07_29_02_11_42.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elmundo_es-_-2022_07_29_02_11_42.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elmundo_es-_-2022_07_29_14_12_40.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elmundo_es-_-2022_07_29_14_12_40.report.json",
       "summary": {
-        "performance": 0.32,
+        "performance": 0.27,
         "accessibility": 0.98,
         "best-practices": 0.83,
         "seo": 0.92,
@@ -33,10 +33,10 @@
     {
       "url": "https://www.elmundo.es/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elmundo_es-_-2022_07_29_02_11_59.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elmundo_es-_-2022_07_29_02_11_59.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elmundo_es-_-2022_07_29_14_11_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elmundo_es-_-2022_07_29_14_11_52.report.json",
       "summary": {
-        "performance": 0.31,
+        "performance": 0.26,
         "accessibility": 0.98,
         "best-practices": 0.83,
         "seo": 0.92,
@@ -150,31 +150,83 @@
       "format": "JSON"
     },
     {
+      "name": "elmundoes-2022-07-29T04:34:27.561302+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elmundoes-2022-07-29T04:34:27.561302+02:00.jpg",
+      "mtime": "1659098645",
+      "size": "9246",
+      "md5": "4bfc36f2154ccee6509e5f02ecfcd2d0",
+      "crc32": "ff45210f",
+      "sha1": "12e833ddde6e49fe26c0631889b434d34d6ea584"
+    },
+    {
+      "name": "elmundoes-2022-07-29T16:37:34.620063+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659105459",
+      "size": "34312",
+      "md5": "e55f730c70ceb8d9b0e9b5e75e739cb9",
+      "crc32": "07d03905",
+      "sha1": "820ab60bf6e17363fbc40d7631fe7e183ddd8c99",
+      "format": "JSON"
+    },
+    {
+      "name": "elmundoes-2022-07-29T16:37:34.620063+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659105460",
+      "size": "46945",
+      "md5": "d75f05ed34e939d95c889f61a1b87427",
+      "crc32": "65196ca5",
+      "sha1": "6226e518be9953c12d366603e68bba319c6c0f6a",
+      "format": "JSON"
+    },
+    {
+      "name": "elmundoes-2022-07-29T16:37:34.620063+02:00.jpg",
+      "source": "original",
+      "mtime": "1659105457",
+      "size": "287975",
+      "md5": "e1b87f563494073a214ae0fb0cac92bb",
+      "crc32": "3a421480",
+      "sha1": "118ae434e1806bcdb4b9f3a376cfe0598cbe68c9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elmundoes-2022-07-29T16:37:34.620063+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659105461",
+      "size": "1458",
+      "md5": "fb687b2590e031f7669e5b174df91bb8",
+      "crc32": "fbe0ac0d",
+      "sha1": "04a292f9cc824174e265d871b1e1dadb6a46fae2",
+      "format": "JSON"
+    },
+    {
       "name": "elmundoes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f32435a5494d19812d651e39f8e6559599fe1de1",
-      "mtime": "1659062113",
-      "size": "3538",
-      "md5": "8f31ee5d95efd7002caf930ecd99155f",
-      "crc32": "119843eb",
-      "sha1": "715563aa484136fe9310c1a9bfa8b650685e211e",
+      "btih": "23bf5dad63912fc68a4f0703521c6ecea5cda26b",
+      "mtime": "1659105501",
+      "size": "4602",
+      "md5": "3c4c723a347bcc09f606d01e73b21b1d",
+      "crc32": "7c16b437",
+      "sha1": "07c4f85b82a33507383528d7e2206f501eed8e02",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elmundoes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7159341dbc0d6efc20432d3c8fa2a73e",
+      "md5": "df9865843054701ebd90e65f7901b636",
       "summation": "md5"
     },
     {
       "name": "elmundoes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659062079",
-      "size": "32768",
-      "md5": "497bba76a485dd9d6a2fc563bc1b4499",
-      "crc32": "d7470fe7",
-      "sha1": "9d77b53d5a52dba5fe5a41b1ae6b1a5ab0e6eaea",
+      "mtime": "1659105467",
+      "size": "36864",
+      "md5": "06e38b68781fb2883fd3b2c2f6969024",
+      "crc32": "82e3f894",
+      "sha1": "6366a9e84eb580611c3df8d2db6f7d356ae4c19b",
       "format": "Metadata"
     },
     {
@@ -188,9 +240,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 14,
-  "item_last_updated": 1659062113,
-  "item_size": 829447,
+  "files_count": 19,
+  "item_last_updated": 1659105501,
+  "item_size": 1214543,
   "metadata": {
     "identifier": "elmundoes-2022",
     "collection": [
@@ -212,7 +264,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346763231,
+      "task_id": 3347227705,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -220,7 +272,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1986041408,
+  "uniq": 2130855618,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

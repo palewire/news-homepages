@@ -1,5 +1,5 @@
 {
-  "created": 1659097244,
+  "created": 1659139955,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/24/items/marfaradio-2022",
@@ -1165,31 +1165,83 @@
       "format": "JSON"
     },
     {
+      "name": "marfaradio-2022-07-29T07:18:21.935790-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marfaradio-2022-07-29T07:18:21.935790-05:00.jpg",
+      "mtime": "1659136278",
+      "size": "8727",
+      "md5": "434de83d19eb319816c1a8449656619c",
+      "crc32": "e4924f8e",
+      "sha1": "c83fca6b99a79ec2906fe85a32583f52386e0ad6"
+    },
+    {
+      "name": "marfaradio-2022-07-29T19:11:41.595129-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659139904",
+      "size": "25814",
+      "md5": "9e26f0c78dcc0b6f2828f20c0a6e8749",
+      "crc32": "46d2e57f",
+      "sha1": "7b01776d7c511b2dabf26a27789e441d8d708207",
+      "format": "JSON"
+    },
+    {
+      "name": "marfaradio-2022-07-29T19:11:41.595129-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659139911",
+      "size": "23875",
+      "md5": "6e38938450e4ebd863a17355fbee049d",
+      "crc32": "6b2ff052",
+      "sha1": "9a8bcec47cbbf55b524640e886d7affb238d0525",
+      "format": "JSON"
+    },
+    {
+      "name": "marfaradio-2022-07-29T19:11:41.595129-05:00.jpg",
+      "source": "original",
+      "mtime": "1659139903",
+      "size": "245876",
+      "md5": "9f72905665046e7a7de4c4b301286a96",
+      "crc32": "e995e786",
+      "sha1": "299dd01a91c66d948a6e67a3b00192e17cbaee75",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marfaradio-2022-07-29T19:11:41.595129-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659139913",
+      "size": "1513",
+      "md5": "ec937878b26524ff7fefdd77a2b2dda4",
+      "crc32": "32873d4c",
+      "sha1": "227a7a019259086434ff9b58a6bf68bcbb36810a",
+      "format": "JSON"
+    },
+    {
       "name": "marfaradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59bfd4182a1f698ec4feda4dea9b48e729668405",
-      "mtime": "1659097242",
-      "size": "24993",
-      "md5": "291460b3f92078d56d726a97f6b4673b",
-      "crc32": "f642aef8",
-      "sha1": "38a27cf8d571295a4a259e6181096d93edc4d17d",
+      "btih": "d061094f4a5756e9c3b33cae7526261f04e2819e",
+      "mtime": "1659139951",
+      "size": "26042",
+      "md5": "eaac1ef2085e22520e1e2efe68544526",
+      "crc32": "c3ced6c0",
+      "sha1": "16167a87924afbff1b952bd408e12661192e6bc5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "marfaradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1717ea4620a70c697f3c75672e93ec24",
+      "md5": "e54e96e9a72263dfd9a1e47fe7e6feeb",
       "summation": "md5"
     },
     {
       "name": "marfaradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659097205",
-      "size": "155648",
-      "md5": "35bb4ef82c45da7b85f592257108ff37",
-      "crc32": "494fe79f",
-      "sha1": "24fdebdfb2b39e5aea247f36ef6b8c8242640291",
+      "mtime": "1659139917",
+      "size": "159744",
+      "md5": "2c5f260aae231da4b6f2965fb9c80608",
+      "crc32": "7721f681",
+      "sha1": "bfaf5bac5ec4f2231f7014ebea16df8c135f7424",
       "format": "Metadata"
     },
     {
@@ -1203,9 +1255,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 115,
-  "item_last_updated": 1659097242,
-  "item_size": 8050103,
+  "files_count": 120,
+  "item_last_updated": 1659139951,
+  "item_size": 8361053,
   "metadata": {
     "identifier": "marfaradio-2022",
     "collection": [
@@ -1227,7 +1279,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347149924,
+      "task_id": 3347564117,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1235,7 +1287,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 108528506,
+  "uniq": 1662548196,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

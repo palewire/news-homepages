@@ -1,5 +1,5 @@
 {
-  "created": 1659072372,
+  "created": 1659105885,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/lentaruofficial-2022",
@@ -1813,31 +1813,83 @@
       "format": "JSON"
     },
     {
+      "name": "lentaruofficial-2022-07-29T08:24:10.340213+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lentaruofficial-2022-07-29T08:24:10.340213+03:00.jpg",
+      "mtime": "1659105847",
+      "size": "8906",
+      "md5": "7edb89510eedfa0e2bdb0b970a6281c4",
+      "crc32": "7231f770",
+      "sha1": "f133ef557d423db349e36de59b0b2ae5da5d421b"
+    },
+    {
+      "name": "lentaruofficial-2022-07-29T17:43:14.009777+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659105796",
+      "size": "79473",
+      "md5": "c05c8848e30f1853e6fcceaf9246175d",
+      "crc32": "9f8f233e",
+      "sha1": "d4e405eebb269eb86a6abb697ae5f62517512331",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-07-29T17:43:14.009777+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659105798",
+      "size": "75000",
+      "md5": "59b9c5f98056eabd202da5bea8d57c48",
+      "crc32": "4dfbba90",
+      "sha1": "159b88f249aaacc6d95e632e3b66a4be4979b4bd",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-07-29T17:43:14.009777+03:00.jpg",
+      "source": "original",
+      "mtime": "1659105795",
+      "size": "308969",
+      "md5": "8a8793f80f8b972f76576f0584e68a8a",
+      "crc32": "fd941879",
+      "sha1": "b5ee3592ca8f4c4fe8a992f314d154f5f34ac29c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lentaruofficial-2022-07-29T17:43:14.009777+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659105799",
+      "size": "1417",
+      "md5": "96326cc23f737d2f687310b7ec761566",
+      "crc32": "557543e3",
+      "sha1": "0353b68827f0c9d870ad5bbda69de5f4decb8640",
+      "format": "JSON"
+    },
+    {
       "name": "lentaruofficial-2022_archive.torrent",
       "source": "metadata",
-      "btih": "faec29f2f93bfff7a67f7ab9f3eb6d3e0a80f679",
-      "mtime": "1659072365",
-      "size": "39229",
-      "md5": "3916d4803dd496a75cb70aa103722cd7",
-      "crc32": "94d835f5",
-      "sha1": "5167ba7eb2251609ed4d992e4a93aae8d068c1d7",
+      "btih": "b450146d41f51185f0eb960e9566249c48ec6c7c",
+      "mtime": "1659105878",
+      "size": "40323",
+      "md5": "1fdef62e14071f3a0bdd4c69947643a1",
+      "crc32": "b7369e1e",
+      "sha1": "5db5a5c0cb6a9d96790af8e45e42d497a8fefc0c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lentaruofficial-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "790e4bdf81e518bf3584da5dc5d2cb4c",
+      "md5": "71497e7126a51f243412d71880063397",
       "summation": "md5"
     },
     {
       "name": "lentaruofficial-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659072362",
-      "size": "229376",
-      "md5": "672de0f00a4880e31d74a926eaf3a8e7",
-      "crc32": "cca7f96d",
-      "sha1": "ac3017467dfb4eaef536341207ac9267fcb7d99f",
+      "mtime": "1659105876",
+      "size": "233472",
+      "md5": "f3e27b9d63944f099b17f5fd68958ebd",
+      "crc32": "ae8d44ae",
+      "sha1": "35329332cb3f4608f8bb873a925716faa569dfb6",
       "format": "Metadata"
     },
     {
@@ -1851,9 +1903,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 177,
-  "item_last_updated": 1659072365,
-  "item_size": 17255787,
+  "files_count": 182,
+  "item_last_updated": 1659105878,
+  "item_size": 17734742,
   "metadata": {
     "identifier": "lentaruofficial-2022",
     "collection": [
@@ -1875,7 +1927,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346897173,
+      "task_id": 3347231727,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1883,7 +1935,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 833040102,
+  "uniq": 1578858463,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659062410,
+  "created": 1659140768,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/23/items/lokpath-2022",
@@ -515,31 +515,83 @@
       "format": "JSON"
     },
     {
+      "name": "lokpath-2022-07-29T08:24:21.952378+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lokpath-2022-07-29T08:24:21.952378+05:45.jpg",
+      "mtime": "1659099312",
+      "size": "9835",
+      "md5": "643dd8bdf8efddb822c2411ae1db3f5f",
+      "crc32": "eb6e0d71",
+      "sha1": "762eaceae4a9560d13ebd0f5eec6973ec8430955"
+    },
+    {
+      "name": "lokpath-2022-07-29T20:27:38.987452+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659105762",
+      "size": "60660",
+      "md5": "6361927406d4447b14fed8f472c412b8",
+      "crc32": "9ccc51f5",
+      "sha1": "c6bf9f4976f7309f2073344f65343136fbd11481",
+      "format": "JSON"
+    },
+    {
+      "name": "lokpath-2022-07-29T20:27:38.987452+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659105763",
+      "size": "48915",
+      "md5": "9b638d9c0a1265d062d2e707f41bb574",
+      "crc32": "38faf3a7",
+      "sha1": "5ed52c7654e27bc9f57c081c8136a8fd153efba8",
+      "format": "JSON"
+    },
+    {
+      "name": "lokpath-2022-07-29T20:27:38.987452+05:45.jpg",
+      "source": "original",
+      "mtime": "1659105760",
+      "size": "268450",
+      "md5": "e70f3ee6ce1d72fe77256c06d2da89f5",
+      "crc32": "2b4e20bb",
+      "sha1": "f88bdbd5b980ec9e73ea46c09089eec392194e65",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lokpath-2022-07-29T20:27:38.987452+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659105765",
+      "size": "1468",
+      "md5": "0f2455677f9ac9b79bde4ab3d82550fc",
+      "crc32": "9f891410",
+      "sha1": "c06fdf3f6030a10411e3969a4896fe47560e07fc",
+      "format": "JSON"
+    },
+    {
       "name": "lokpath-2022_archive.torrent",
       "source": "metadata",
-      "btih": "67ad08ba29a3d87b61e096f5c36f94c0a09d4507",
-      "mtime": "1659062408",
-      "size": "11664",
-      "md5": "19b4150a589114a8a45301fa4b12d41a",
-      "crc32": "a252e980",
-      "sha1": "8326633673b1dff3c6d3213c71bb6d0222cc4b98",
+      "btih": "c63750b17e6a996fd6e4a6779103d94acd4d0c51",
+      "mtime": "1659105806",
+      "size": "12718",
+      "md5": "ca13eab9dd17e883e15ade0459596b3d",
+      "crc32": "e7a54dd7",
+      "sha1": "a12d1dc435cb8bd869c3769167b8540c1dc599ed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lokpath-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7d4df678b8b669f9c5ff4f8150289b6d",
+      "md5": "318569bce688b2a811d17d459ccb6946",
       "summation": "md5"
     },
     {
       "name": "lokpath-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659062373",
-      "size": "73728",
-      "md5": "a67f79baba5279323affc66d7ad2ebc3",
-      "crc32": "452ae657",
-      "sha1": "d72a1ebea16d81a41632354cb6776949683e0bee",
+      "mtime": "1659105770",
+      "size": "81920",
+      "md5": "d92e738dfdbc4e9ad38be8e3ff5b40f4",
+      "crc32": "ec8b65de",
+      "sha1": "3aab22e2f74fba23b5e4c1f583fc2b3e63e9c7b4",
       "format": "Metadata"
     },
     {
@@ -553,9 +605,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 53,
-  "item_last_updated": 1659062408,
-  "item_size": 3490454,
+  "files_count": 58,
+  "item_last_updated": 1659105806,
+  "item_size": 3889028,
+  "lokpath-2022": [
+    {
+      "url": "https://www.lokpath.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lokpath_com-_-2022_07_29_14_21_15.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lokpath_com-_-2022_07_29_14_21_15.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.58,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.lokpath.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lokpath_com-_-2022_07_29_14_21_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lokpath_com-_-2022_07_29_14_21_43.report.json",
+      "summary": {
+        "performance": 0.14,
+        "accessibility": 0.58,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.lokpath.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lokpath_com-_-2022_07_29_14_22_08.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lokpath_com-_-2022_07_29_14_22_08.report.json",
+      "summary": {
+        "performance": 0.17,
+        "accessibility": 0.58,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "lokpath-2022",
     "collection": [
@@ -577,7 +670,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346767221,
+      "task_id": 3347230758,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -585,7 +678,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1678473744,
+  "uniq": 1759960825,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

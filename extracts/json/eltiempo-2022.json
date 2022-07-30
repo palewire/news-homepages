@@ -1,5 +1,5 @@
 {
-  "created": 1659093012,
+  "created": 1659139605,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/15/items/eltiempo-2022",
@@ -3679,31 +3679,83 @@
       "format": "JSON"
     },
     {
+      "name": "eltiempo-2022-07-29T06:09:04.032218-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eltiempo-2022-07-29T06:09:04.032218-05:00.jpg",
+      "mtime": "1659134333",
+      "size": "10142",
+      "md5": "1a6ddd70d60b2b8c750bad4584ce90f1",
+      "crc32": "cd09b917",
+      "sha1": "21693533c96902d4b7410ecb0a2016fe32a6f05a"
+    },
+    {
+      "name": "eltiempo-2022-07-29T19:05:41.219176-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659139545",
+      "size": "45103",
+      "md5": "19dd9d6804d8772346c46d047c822921",
+      "crc32": "227fe0f5",
+      "sha1": "7222271c2b3c9f513f6a08fb18d33635c93fb72e",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-07-29T19:05:41.219176-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659139547",
+      "size": "69369",
+      "md5": "70b13712670bc5fd8297111168c99c1c",
+      "crc32": "22e8da20",
+      "sha1": "f8fe7654a0e4ee3894cfeb347ddc098c9c9c493e",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-07-29T19:05:41.219176-05:00.jpg",
+      "source": "original",
+      "mtime": "1659139543",
+      "size": "285855",
+      "md5": "743ce62df6e1cc928125ac2334bfa280",
+      "crc32": "4f6cccf1",
+      "sha1": "5c89637aed35e85a36d555a74abe893c40db2473",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eltiempo-2022-07-29T19:05:41.219176-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659139550",
+      "size": "1477",
+      "md5": "222d04cf9d1282cbd8b068e5e482fdd1",
+      "crc32": "74174c86",
+      "sha1": "db849d04d7183f1db5615af4ed68e4c81853095f",
+      "format": "JSON"
+    },
+    {
       "name": "eltiempo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b67f901b3b04aceb65d5ac7727b869fe1cd7b030",
-      "mtime": "1659093010",
-      "size": "75292",
-      "md5": "557e16a76cbc4ebacb579d27ec5b939f",
-      "crc32": "0c2f5901",
-      "sha1": "aa8d0126741016da2dc2b8f5bf135a7fb889a627",
+      "btih": "dd47b8b8dfe01f522d42f9718fefa7435d63dd32",
+      "mtime": "1659139602",
+      "size": "76352",
+      "md5": "93ea98815f4fdb572ef08df07a33d74c",
+      "crc32": "9395885c",
+      "sha1": "d3b05d1e3c68476f7a40270c3c25038d95718cf0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eltiempo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c9dae6bdea27954770dfa5ef569990cf",
+      "md5": "adebd7e601ec00f9755132527de8a5d6",
       "summation": "md5"
     },
     {
       "name": "eltiempo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659092965",
-      "size": "421888",
-      "md5": "5f2fddd6250655ad3471646465a36ee4",
-      "crc32": "90953eb2",
-      "sha1": "1ce50da2e97e21091923e936c64d41515cdb1b78",
+      "mtime": "1659139558",
+      "size": "425984",
+      "md5": "b4911a720390a009541f83769df47f1a",
+      "crc32": "6901e4b1",
+      "sha1": "6ade6a03bfa6916a666c15011a4863264650ebf7",
       "format": "Metadata"
     },
     {
@@ -3717,9 +3769,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 354,
-  "item_last_updated": 1659093010,
-  "item_size": 35152862,
+  "files_count": 359,
+  "item_last_updated": 1659139602,
+  "item_size": 35569964,
   "metadata": {
     "identifier": "eltiempo-2022",
     "collection": [
@@ -3741,7 +3793,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347111281,
+      "task_id": 3347560263,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3749,7 +3801,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 230779,
+  "uniq": 84982821,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]

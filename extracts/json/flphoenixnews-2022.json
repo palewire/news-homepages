@@ -1,5 +1,5 @@
 {
-  "created": 1659093051,
+  "created": 1659139658,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/12/items/flphoenixnews-2022",
@@ -4639,31 +4639,83 @@
       "format": "JSON"
     },
     {
+      "name": "flphoenixnews-2022-07-29T07:09:49.971054-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flphoenixnews-2022-07-29T07:09:49.971054-04:00.jpg",
+      "mtime": "1659134253",
+      "size": "10074",
+      "md5": "9d76231378acc4469f1e153f220ad832",
+      "crc32": "d5ebef10",
+      "sha1": "074d9caffb85a82b18a34efd5bdc1fe967b73bfc"
+    },
+    {
+      "name": "flphoenixnews-2022-07-29T20:06:47.891006-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659139611",
+      "size": "16214",
+      "md5": "abfa6c3a5f4fd0ec5c3f7e7e00b89cc9",
+      "crc32": "ea252bff",
+      "sha1": "556532bc200cc4786b927e83f84cde4b37a35cd2",
+      "format": "JSON"
+    },
+    {
+      "name": "flphoenixnews-2022-07-29T20:06:47.891006-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659139613",
+      "size": "13786",
+      "md5": "484bc7e104a7c484ff8cc302dfbd20af",
+      "crc32": "926b7b18",
+      "sha1": "ba5d43b3ff64f595255b66f85d3e50331d43fd40",
+      "format": "JSON"
+    },
+    {
+      "name": "flphoenixnews-2022-07-29T20:06:47.891006-04:00.jpg",
+      "source": "original",
+      "mtime": "1659139609",
+      "size": "345796",
+      "md5": "8cc315c3a0a2af24e51c9fc97da0ea2b",
+      "crc32": "95c6c7a7",
+      "sha1": "bdfe493bb9b74d78f1e8ad11f70b494c76051ad6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flphoenixnews-2022-07-29T20:06:47.891006-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659139614",
+      "size": "1495",
+      "md5": "e665c209213ff1e423a96704888dcbef",
+      "crc32": "7f09d729",
+      "sha1": "537ea794795cb09edbb36ca43856c124b3303fec",
+      "format": "JSON"
+    },
+    {
       "name": "flphoenixnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1e62ca99aae1b844bdaf9c5f4509280ad1462ec4",
-      "mtime": "1659093047",
-      "size": "96920",
-      "md5": "3e740b86336a59c2a6b442d1b53280ae",
-      "crc32": "392af346",
-      "sha1": "3489c459e30fe3ef3138c036c91b7c295c330bbf",
+      "btih": "cf0966f0e47a1421c2b515bc63570263deb4e0e6",
+      "mtime": "1659139654",
+      "size": "97985",
+      "md5": "cff4422585e2b3b6529fa52e66454985",
+      "crc32": "4efed7a9",
+      "sha1": "0b79f8dce04fb8cc872c39333e3dcaa6e2b8efb6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flphoenixnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ec73f4dfcda2fcc63130e190f3f2de0c",
+      "md5": "01eed135d6be82c321e0547a4b5283b6",
       "summation": "md5"
     },
     {
       "name": "flphoenixnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659093005",
-      "size": "532480",
-      "md5": "dfc496fe8bc30881e3af9fdcebf100b2",
-      "crc32": "580f5ade",
-      "sha1": "57946dee454108c0796aa28dab3e40b2265d30c7",
+      "mtime": "1659139617",
+      "size": "536576",
+      "md5": "e49ea9e5a516f1eb8317a14b5317509e",
+      "crc32": "6bd8a0c2",
+      "sha1": "b53ec042f5ed0d3d24a0e2ffd2b394af61b4f43c",
       "format": "Metadata"
     },
     {
@@ -4677,9 +4729,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 446,
-  "item_last_updated": 1659093047,
-  "item_size": 39419576,
+  "files_count": 451,
+  "item_last_updated": 1659139654,
+  "item_size": 39812102,
   "metadata": {
     "identifier": "flphoenixnews-2022",
     "collection": [
@@ -4701,7 +4753,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347111660,
+      "task_id": 3347561055,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4709,7 +4761,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 398442700,
+  "uniq": 140372670,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

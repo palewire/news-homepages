@@ -1,5 +1,5 @@
 {
-  "created": 1659092575,
+  "created": 1659139242,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/22/items/appalachia100-2022",
@@ -1889,31 +1889,83 @@
       "format": "JSON"
     },
     {
+      "name": "appalachia100-2022-07-29T07:01:55.349321-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-07-29T07:01:55.349321-04:00.jpg",
+      "mtime": "1659133883",
+      "size": "9942",
+      "md5": "212391c2fdb8a4ee030b7992c85a83f4",
+      "crc32": "51a8ef34",
+      "sha1": "f23ff8f7ed95803fa7aaab6e16ae2c256f03c17a"
+    },
+    {
+      "name": "appalachia100-2022-07-29T19:59:50.561493-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659139193",
+      "size": "1200",
+      "md5": "96bd7bd1d9c928a68a1c75778ab46b28",
+      "crc32": "2cd3397a",
+      "sha1": "5d09c43eb4ff99126b4a6769f1927d7b0e56803d",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-07-29T19:59:50.561493-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659139195",
+      "size": "43514",
+      "md5": "22a2a0b0be6cffbe8d060a4bbda6b6da",
+      "crc32": "d17fa2fe",
+      "sha1": "9001c53048b10fedf87152f39053bfb2a3c2fef1",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-07-29T19:59:50.561493-04:00.jpg",
+      "source": "original",
+      "mtime": "1659139192",
+      "size": "314056",
+      "md5": "c1cefe48a696c48a902ea4dd70fc1c4c",
+      "crc32": "5a8fa405",
+      "sha1": "66a9da384d313ba9ce4b6a21d337bc0ae5907b92",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-07-29T19:59:50.561493-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659139197",
+      "size": "1575",
+      "md5": "c498b7f889e5862fb559255a8a3a4218",
+      "crc32": "ee8e2842",
+      "sha1": "e2db8d6a41ac683b715c65b97f03cfbb88845450",
+      "format": "JSON"
+    },
+    {
       "name": "appalachia100-2022_archive.torrent",
       "source": "metadata",
-      "btih": "87809ff1bb48682dd82118f80f6f383a459bdb5c",
-      "mtime": "1659092571",
-      "size": "40210",
-      "md5": "5a72a980806bcf23d19ce68abe3e7469",
-      "crc32": "09f6f922",
-      "sha1": "9188de94f79a28ada6a53ef398554608aed1fbab",
+      "btih": "2645ad30652e012b7ef9f94225f79f8666acd814",
+      "mtime": "1659139237",
+      "size": "41293",
+      "md5": "d307f4c6abba7c4e69853a1ffb768ec6",
+      "crc32": "b35a7aaf",
+      "sha1": "774a07330f24779f0cf1020456228f9fe1122e47",
       "format": "Archive BitTorrent"
     },
     {
       "name": "appalachia100-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "021ba5201e1f9f443f2924ecb2d6d579",
+      "md5": "d095121f76c0ab4839c7ca535cc54af6",
       "summation": "md5"
     },
     {
       "name": "appalachia100-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659092534",
-      "size": "233472",
-      "md5": "048da6ba38fb1dc5202c27d5cc7df2a2",
-      "crc32": "b941d8f0",
-      "sha1": "6524c1d242a1fe98ccea5150cd5118c80725dfd7",
+      "mtime": "1659139201",
+      "size": "241664",
+      "md5": "4f182e45a4856c53368b338a23e5fcb1",
+      "crc32": "24529bd1",
+      "sha1": "683a7ddcfd5fd02d5bf865938d2eea63f33282e1",
       "format": "Metadata"
     },
     {
@@ -1927,9 +1979,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 184,
-  "item_last_updated": 1659092571,
-  "item_size": 15476903,
+  "files_count": 189,
+  "item_last_updated": 1659139237,
+  "item_size": 15856465,
   "metadata": {
     "identifier": "appalachia100-2022",
     "collection": [
@@ -1951,7 +2003,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347105036,
+      "task_id": 3347553146,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1959,7 +2011,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2076446695,
+  "uniq": 830918443,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

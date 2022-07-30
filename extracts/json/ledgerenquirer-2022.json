@@ -1,5 +1,5 @@
 {
-  "created": 1659097241,
+  "created": 1659139930,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/13/items/ledgerenquirer-2022",
@@ -923,31 +923,83 @@
       "format": "JSON"
     },
     {
+      "name": "ledgerenquirer-2022-07-29T08:18:06.672600-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ledgerenquirer-2022-07-29T08:18:06.672600-04:00.jpg",
+      "mtime": "1659136248",
+      "size": "9348",
+      "md5": "92d5cd81ea658b0d3810bc629fe0e766",
+      "crc32": "9292a935",
+      "sha1": "011c0f3d784cf11b5c602e83de24c3a551422c7e"
+    },
+    {
+      "name": "ledgerenquirer-2022-07-29T20:11:22.757023-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659139886",
+      "size": "464",
+      "md5": "ae27089b72fd5842ee9f1889353c3c0a",
+      "crc32": "c43a212e",
+      "sha1": "9057bfabe00b55ec7317a9493ef1c28b9a77e2ae",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-07-29T20:11:22.757023-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659139888",
+      "size": "34939",
+      "md5": "0c12831085b247279738c7bee3f7b70c",
+      "crc32": "2cd17498",
+      "sha1": "d1450a73bc6e0dbdad7afaf507df7a63fa4974a5",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-07-29T20:11:22.757023-04:00.jpg",
+      "source": "original",
+      "mtime": "1659139884",
+      "size": "242349",
+      "md5": "e8a2861dbf4e3fd8388584029b35a037",
+      "crc32": "1d9b858a",
+      "sha1": "ce6b316ed86752402d10e82053a2e798ffba00fb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ledgerenquirer-2022-07-29T20:11:22.757023-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659139889",
+      "size": "1540",
+      "md5": "152c492b2dd02fa6652e25b8c01a2b83",
+      "crc32": "17c7f797",
+      "sha1": "175ebfb050e990d424dc4150a96af97f3ca774e5",
+      "format": "JSON"
+    },
+    {
       "name": "ledgerenquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7bc4e95042d8a81b57e5e34a7fee0e8ade36d80d",
-      "mtime": "1659097238",
-      "size": "20453",
-      "md5": "d37a11f90a4d7b28ecf651831a42cf90",
-      "crc32": "d4087ab5",
-      "sha1": "e29b69ad858510311f2ac13e937d630e8d2b5556",
+      "btih": "6e9a1990e1c62f21dcd6c4745b2b8d3cc925b7aa",
+      "mtime": "1659139928",
+      "size": "21540",
+      "md5": "6a3ec90465cf4a57bef1933ca8fb8b54",
+      "crc32": "f01fba92",
+      "sha1": "72fc37e3d823eba7ca89eb39510a143789b27a47",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ledgerenquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "91f03d4da35c6e8462ed98d46b7bc67d",
+      "md5": "e5ac49fca4a5d4bf80e9ed722d88a74b",
       "summation": "md5"
     },
     {
       "name": "ledgerenquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659097203",
-      "size": "131072",
-      "md5": "5a34273b39819ce33071f90db5f343e5",
-      "crc32": "d22a97b6",
-      "sha1": "02df1b33de152fe5b3d56949d3df37375c820157",
+      "mtime": "1659139894",
+      "size": "139264",
+      "md5": "62c3ea7ef6133200f8b6bdb038afebc1",
+      "crc32": "7a8d2ef1",
+      "sha1": "68d5e1919495bc0c5299a46fdfd94d9a0873c5db",
       "format": "Metadata"
     },
     {
@@ -961,9 +1013,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 92,
-  "item_last_updated": 1659097238,
-  "item_size": 6198922,
+  "files_count": 97,
+  "item_last_updated": 1659139928,
+  "item_size": 6496841,
   "metadata": {
     "identifier": "ledgerenquirer-2022",
     "collection": [
@@ -985,7 +1037,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347149895,
+      "task_id": 3347563896,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -993,7 +1045,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1284347408,
+  "uniq": 1221859396,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

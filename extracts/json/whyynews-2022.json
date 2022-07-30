@@ -1,5 +1,5 @@
 {
-  "created": 1659087831,
+  "created": 1659139915,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/24/items/whyynews-2022",
@@ -2698,31 +2698,83 @@
       "sha1": "336861e461d29cf542d8d0ad98984ab1b23698dc"
     },
     {
+      "name": "whyynews-2022-07-29T09:36:52.677738-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659101818",
+      "size": "30108",
+      "md5": "20e4a40429e2547ecada6e1ceb871898",
+      "crc32": "423e0a46",
+      "sha1": "dc76b23ab39e9536af26f9096b33952406d0a406",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-07-29T09:36:52.677738-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659101819",
+      "size": "28212",
+      "md5": "27c155b8d943fafd4589eee9c823147d",
+      "crc32": "735527a4",
+      "sha1": "ed6d00c4062b99f1fdcdfd77a2b99a4d4862a2cb",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-07-29T09:36:52.677738-04:00.jpg",
+      "source": "original",
+      "mtime": "1659101816",
+      "size": "224539",
+      "md5": "ba743c48becd18d5de67c234abe785c6",
+      "crc32": "7e911d13",
+      "sha1": "63303d43b6bffd98cf56433e961d965f28d2397b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "whyynews-2022-07-29T09:36:52.677738-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659101821",
+      "size": "1440",
+      "md5": "4da4278725bd78f781493f635017111f",
+      "crc32": "6dac3d17",
+      "sha1": "df0233fec32ac58314d40a3020a5bc27e2890daf",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-07-29T09:36:52.677738-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "whyynews-2022-07-29T09:36:52.677738-04:00.jpg",
+      "mtime": "1659139838",
+      "size": "10030",
+      "md5": "45a1ffcc03c86b639372525ce113213b",
+      "crc32": "c5761941",
+      "sha1": "9f8b0a19eabe04f1a1c40832ffa33290ce5494fb"
+    },
+    {
       "name": "whyynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8478298203d00d8b564d14d4adb4931585e1ca42",
-      "mtime": "1659087814",
-      "size": "55401",
-      "md5": "5e820b4e8999868cb5b8d39f748fd0a8",
-      "crc32": "cbeceda6",
-      "sha1": "9d004367410953cc33356408797af63c390b184d",
+      "btih": "2911bd9267a4e5f97b177b6491f30db647cb48ff",
+      "mtime": "1659139871",
+      "size": "56461",
+      "md5": "86907b13b08bc9aa2716f7b56badd4bf",
+      "crc32": "06f6df81",
+      "sha1": "6961f227fbf362b928ccf34cb39a35b302011867",
       "format": "Archive BitTorrent"
     },
     {
       "name": "whyynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bb7bafe24ca54cb422e5b7ad6d176e5e",
+      "md5": "39bc6cfa7f2cb7440e8e6495e76ff6fd",
       "summation": "md5"
     },
     {
       "name": "whyynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659058218",
-      "size": "315392",
-      "md5": "10de1d7eb672a596f3936c7e8f31eda4",
-      "crc32": "7520708a",
-      "sha1": "4a4fe72e4d7e70a6c82d9c638cbda0d317102478",
+      "mtime": "1659101825",
+      "size": "323584",
+      "md5": "66cf85e6b7f8453987860d56ba2a76ce",
+      "crc32": "45be0ef1",
+      "sha1": "a7eb82f292c9d42561341705ac759e588a6ac36f",
       "format": "Metadata"
     },
     {
@@ -2736,9 +2788,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 261,
-  "item_last_updated": 1659087814,
-  "item_size": 18206389,
+  "files_count": 266,
+  "item_last_updated": 1659139871,
+  "item_size": 18509970,
   "metadata": {
     "identifier": "whyynews-2022",
     "collection": [
@@ -2755,10 +2807,10 @@
     "publicdate": "2022-07-03 15:52:45",
     "addeddate": "2022-07-03 15:52:45"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 1743090767,
+  "server": "ia902508.us.archive.org",
+  "uniq": 1230085899,
   "workable_servers": [
-    "ia802508.us.archive.org",
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

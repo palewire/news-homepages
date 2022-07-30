@@ -1,5 +1,5 @@
 {
-  "created": 1659097555,
+  "created": 1659140289,
   "d1": "ia601002.us.archive.org",
   "d2": "ia801002.us.archive.org",
   "dir": "/3/items/sahanjournal-2022",
@@ -8409,31 +8409,83 @@
       "format": "JSON"
     },
     {
+      "name": "sahanjournal-2022-07-29T07:24:48.340332-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sahanjournal-2022-07-29T07:24:48.340332-05:00.jpg",
+      "mtime": "1659136590",
+      "size": "10707",
+      "md5": "1125bf52a02bbe8634a44d4231dbb149",
+      "crc32": "0d565c96",
+      "sha1": "74e82021c35c5b020d25087121f1c87d1c51544b"
+    },
+    {
+      "name": "sahanjournal-2022-07-29T19:16:55.041580-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659140221",
+      "size": "31891",
+      "md5": "784ad0dd55322386b2f6e05a323b3db4",
+      "crc32": "11c1ff08",
+      "sha1": "923023f88509ece76e3aad655b5dd1da6de4eba9",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-07-29T19:16:55.041580-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659140223",
+      "size": "29627",
+      "md5": "5e2f68b3f9c65b2ce8d5a68df61678e8",
+      "crc32": "e3465363",
+      "sha1": "8d24b7c857428c139cbdcf0e5f76bae957480371",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-07-29T19:16:55.041580-05:00.jpg",
+      "source": "original",
+      "mtime": "1659140218",
+      "size": "311646",
+      "md5": "f259919cab1ea24b439493cf61693966",
+      "crc32": "e394479b",
+      "sha1": "1e5183030426fb54bc7fc302c2376bebbf258d72",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sahanjournal-2022-07-29T19:16:55.041580-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659140225",
+      "size": "1468",
+      "md5": "612d5c3836474f3858739739813df670",
+      "crc32": "72f18006",
+      "sha1": "c0dc97f27530c6437caf8e34512357a876f6d0bc",
+      "format": "JSON"
+    },
+    {
       "name": "sahanjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "95767c057468f8f0c57c8e9ba8d4482dfd776f10",
-      "mtime": "1659097552",
-      "size": "173598",
-      "md5": "b620c5daa4accb22682b523c89a75052",
-      "crc32": "fbcdcb45",
-      "sha1": "80b65d882d71378626d9764615bd9e570924e8a2",
+      "btih": "93be1583c2decb6f25bae7592e84ce5df7ee09be",
+      "mtime": "1659140284",
+      "size": "174678",
+      "md5": "1d4e8d4db1f28e39dfbde603a56de2cc",
+      "crc32": "c41fe2fb",
+      "sha1": "09e03840295a8e7bbbb17add4e144c8c5c0072a7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sahanjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2daa833f149742122c8a52a0cceb1f91",
+      "md5": "55b040bc7789263ad2fe3dc02e089969",
       "summation": "md5"
     },
     {
       "name": "sahanjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659097507",
-      "size": "946176",
-      "md5": "6eaa55fbc9122423d2b98af2f41a5b97",
-      "crc32": "5affd263",
-      "sha1": "c0cdc5faec444fbc19ca1b5b80b858597c05de63",
+      "mtime": "1659140229",
+      "size": "950272",
+      "md5": "3c15404e8637525b8642da9ca7602be5",
+      "crc32": "081910a8",
+      "sha1": "9c47b4eb2b10b0eb62600d502f27b69a8a38a631",
       "format": "Metadata"
     },
     {
@@ -8447,9 +8499,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 805,
-  "item_last_updated": 1659097552,
-  "item_size": 71395692,
+  "files_count": 810,
+  "item_last_updated": 1659140284,
+  "item_size": 71786207,
   "metadata": {
     "identifier": "sahanjournal-2022",
     "collection": [
@@ -8471,7 +8523,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347152521,
+      "task_id": 3347566987,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8479,7 +8531,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 839542838,
+  "uniq": 383803620,
   "workable_servers": [
     "ia601002.us.archive.org"
   ]

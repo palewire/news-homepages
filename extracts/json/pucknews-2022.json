@@ -1,5 +1,5 @@
 {
-  "created": 1659097459,
+  "created": 1659140269,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/10/items/pucknews-2022",
@@ -4955,31 +4955,83 @@
       "format": "JSON"
     },
     {
+      "name": "pucknews-2022-07-29T08:23:18.957820-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pucknews-2022-07-29T08:23:18.957820-04:00.jpg",
+      "mtime": "1659136493",
+      "size": "7277",
+      "md5": "7a44e9b9386caa0d042184589cb936d7",
+      "crc32": "9ddd302e",
+      "sha1": "b0ba62cd6cb3992d699cd0c3e86356c833eeecb1"
+    },
+    {
+      "name": "pucknews-2022-07-29T20:16:55.727464-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659140219",
+      "size": "15328",
+      "md5": "431d65e7e403b3e9c69886c81d33471c",
+      "crc32": "57088ff6",
+      "sha1": "ab85974db0cc8a5971e61f8a01333861e51532a8",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-07-29T20:16:55.727464-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659140221",
+      "size": "12215",
+      "md5": "b0aa0ec7db70b3da6fbd3848690a20a7",
+      "crc32": "d2a8f53a",
+      "sha1": "4d00e9593564a127835c5bea16c12a4021d6ceab",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-07-29T20:16:55.727464-04:00.jpg",
+      "source": "original",
+      "mtime": "1659140217",
+      "size": "149959",
+      "md5": "8225b9137e98dff803ce606ae4ff6c29",
+      "crc32": "db43e417",
+      "sha1": "5f171e34bf0f89853379c6f7103ddb702109517f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pucknews-2022-07-29T20:16:55.727464-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659140223",
+      "size": "1414",
+      "md5": "4b59346f10396660910f520645c50cd6",
+      "crc32": "436263b6",
+      "sha1": "0f314105c7cbc1089ae0100e53e67627ff4144fb",
+      "format": "JSON"
+    },
+    {
       "name": "pucknews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aeee1dbaa3cccbf5e8799e432d0d96bbaba12f19",
-      "mtime": "1659097456",
-      "size": "100199",
-      "md5": "1208e137b17bedaaa0786cdb60da3796",
-      "crc32": "f9836f94",
-      "sha1": "2f71d3ef346792177ef65c6ad2cbeaa3d84ce04e",
+      "btih": "15445afeb1723c0f4f0406b09796d3835ac8a7d0",
+      "mtime": "1659140267",
+      "size": "101238",
+      "md5": "50ed4337c5e6a8b70ae843605b3f0b5c",
+      "crc32": "0c01d8ed",
+      "sha1": "afb775fe9931d9c16b334b082093d81e488224ba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pucknews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0a73b0a32d62231dff53a328bced1637",
+      "md5": "131c2aa36f631ad4234304cd85089418",
       "summation": "md5"
     },
     {
       "name": "pucknews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659097413",
-      "size": "561152",
-      "md5": "8536197c6e33d8d27f5497620a0fb3f8",
-      "crc32": "72ddc366",
-      "sha1": "23517b3ca8bf594977ffe9333fabc49b4ee84c5b",
+      "mtime": "1659140227",
+      "size": "569344",
+      "md5": "cf7aa6a9d28785422677f7b89ce176a8",
+      "crc32": "c60fb2db",
+      "sha1": "73b0d9ae68a6193609af9df4ae4c2cf0a3680072",
       "format": "Metadata"
     },
     {
@@ -4993,9 +5045,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 476,
-  "item_last_updated": 1659097456,
-  "item_size": 24341314,
+  "files_count": 481,
+  "item_last_updated": 1659140267,
+  "item_size": 24536738,
   "metadata": {
     "identifier": "pucknews-2022",
     "collection": [
@@ -5017,7 +5069,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347151730,
+      "task_id": 3347566831,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5025,7 +5077,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1011205968,
+  "uniq": 71244430,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

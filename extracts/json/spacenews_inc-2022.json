@@ -1,5 +1,5 @@
 {
-  "created": 1659097571,
+  "created": 1659140329,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/31/items/spacenews_inc-2022",
@@ -369,31 +369,83 @@
       "format": "JSON"
     },
     {
+      "name": "spacenews_inc-2022-07-29T08:25:21.757122-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spacenews_inc-2022-07-29T08:25:21.757122-04:00.jpg",
+      "mtime": "1659136729",
+      "size": "10272",
+      "md5": "27840bc49216fc2b5354e3ec20331c77",
+      "crc32": "20dce163",
+      "sha1": "7af946589a8e91e0a362fcb5cf8041a3fddcfe5e"
+    },
+    {
+      "name": "spacenews_inc-2022-07-29T20:17:59.386980-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659140282",
+      "size": "15074",
+      "md5": "9074e46c3e245ff7d3941875ebade92d",
+      "crc32": "0355ed47",
+      "sha1": "09c029925502f3a1716b7fb609acfaa4db25502f",
+      "format": "JSON"
+    },
+    {
+      "name": "spacenews_inc-2022-07-29T20:17:59.386980-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659140284",
+      "size": "16239",
+      "md5": "b69a04424c417ddc0d9308d0054a3748",
+      "crc32": "187aaaf8",
+      "sha1": "f47b284ed53e3c85235028c3e779626952224def",
+      "format": "JSON"
+    },
+    {
+      "name": "spacenews_inc-2022-07-29T20:17:59.386980-04:00.jpg",
+      "source": "original",
+      "mtime": "1659140281",
+      "size": "255650",
+      "md5": "32b13e4d266ed5557e1cd46d369e9635",
+      "crc32": "376f4a6c",
+      "sha1": "e0a679957a7e53d72b868aef0d85f3a9647910ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spacenews_inc-2022-07-29T20:17:59.386980-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659140286",
+      "size": "1449",
+      "md5": "6cc94f9c1314e7ce87f218b9ecc61e69",
+      "crc32": "471598be",
+      "sha1": "3c7b2ebc4ee90bcfab8eb661c0fead97feb6d844",
+      "format": "JSON"
+    },
+    {
       "name": "spacenews_inc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cdc9802c58dd1ee591fdb11293aa0c71098d9536",
-      "mtime": "1659097567",
-      "size": "8997",
-      "md5": "64432dad7b89d11c1d55d480e0e72294",
-      "crc32": "be6ba8fc",
-      "sha1": "0e0634dced71ccc690a26dd4a4e891aff0dc8a7d",
+      "btih": "5ddd9710125dda9b758000af49c4054ed1ede391",
+      "mtime": "1659140327",
+      "size": "10082",
+      "md5": "5d1f6916426ab56909b1e17de8355861",
+      "crc32": "0c4cf975",
+      "sha1": "eacccf2a69e0ed345306d9cb27b07eb5164f72a9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spacenews_inc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "496c1a63f92b1f5026a1d6bca30a7f62",
+      "md5": "2d5e2b7099417a3c58b6d446ef0f76c8",
       "summation": "md5"
     },
     {
       "name": "spacenews_inc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659097533",
-      "size": "61440",
-      "md5": "10238e03f516fa853db6b4f442b7b69a",
-      "crc32": "5e163b80",
-      "sha1": "9c0b9ee095d9f2292b32e773b5d333bc572a91fd",
+      "mtime": "1659140293",
+      "size": "65536",
+      "md5": "6d7d61faf51d70d9bdcda2afac43ad42",
+      "crc32": "24e892a5",
+      "sha1": "8cff607bb6425af318e699fc518c764745a5294f",
       "format": "Metadata"
     },
     {
@@ -407,9 +459,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 39,
-  "item_last_updated": 1659097567,
-  "item_size": 2496052,
+  "files_count": 44,
+  "item_last_updated": 1659140327,
+  "item_size": 2799917,
   "metadata": {
     "identifier": "spacenews_inc-2022",
     "collection": [
@@ -431,7 +483,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347152643,
+      "task_id": 3347567229,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -439,7 +491,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 188135638,
+  "uniq": 388919416,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

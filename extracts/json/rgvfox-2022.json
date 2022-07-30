@@ -1,5 +1,5 @@
 {
-  "created": 1659066536,
+  "created": 1659140975,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/22/items/rgvfox-2022",
@@ -1123,31 +1123,83 @@
       "format": "JSON"
     },
     {
+      "name": "rgvfox-2022-07-28T22:48:06.868218-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rgvfox-2022-07-28T22:48:06.868218-05:00.jpg",
+      "mtime": "1659108471",
+      "size": "9643",
+      "md5": "cf8f8020e438afda4d75c4e9939a3b51",
+      "crc32": "562d53e3",
+      "sha1": "d55f189c77e792ebd5176915f2539d99374584c4"
+    },
+    {
+      "name": "rgvfox-2022-07-29T10:53:38.557440-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659110021",
+      "size": "10830",
+      "md5": "e4e4e25c896cd9078ee91f2002660467",
+      "crc32": "0acd1994",
+      "sha1": "e9b12a12f39c22e1d9a60407b3ac696d15555424",
+      "format": "JSON"
+    },
+    {
+      "name": "rgvfox-2022-07-29T10:53:38.557440-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659110023",
+      "size": "14484",
+      "md5": "54469108c51d4d998d7807d697e6a3ac",
+      "crc32": "246bdcb2",
+      "sha1": "61f0d11b71ecf217a048a3fd16a02622f485fddf",
+      "format": "JSON"
+    },
+    {
+      "name": "rgvfox-2022-07-29T10:53:38.557440-05:00.jpg",
+      "source": "original",
+      "mtime": "1659110020",
+      "size": "214615",
+      "md5": "ca5c04bf0e4d042e09908f30625f5b2c",
+      "crc32": "89372bae",
+      "sha1": "22d79dd0420d9b84b5672dcd7fa72dda01044f77",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rgvfox-2022-07-29T10:53:38.557440-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659110024",
+      "size": "1522",
+      "md5": "609641ad00880cd4e0899620fec05772",
+      "crc32": "e46a7efb",
+      "sha1": "0caf588877b8e3ffdb4b9c21f56dacd46571584e",
+      "format": "JSON"
+    },
+    {
       "name": "rgvfox-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f132454bd85f777a73dff690108c9ae666c938f0",
-      "mtime": "1659066534",
-      "size": "23620",
-      "md5": "73e64438b97006cca5fd80957b450a44",
-      "crc32": "cca79a32",
-      "sha1": "0a7027500106d9c011e3b0090c34efacd17df652",
+      "btih": "ab20d96ea203bf9ecfe0df58b0636fbe17f7258a",
+      "mtime": "1659110063",
+      "size": "24669",
+      "md5": "af87b41efe5cc94dfa6644d12cd74423",
+      "crc32": "bdd156a0",
+      "sha1": "e9bf9826654419a38809c255ea5f7025baf3d4b8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rgvfox-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4b040e9bbb827b2bc2497b8e5d8f9530",
+      "md5": "406a4d2e15bf32afa7f3b6b5d5f462a7",
       "summation": "md5"
     },
     {
       "name": "rgvfox-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659066500",
-      "size": "151552",
-      "md5": "70adf3ef0fb7014ceb7b4ed5a169bbaf",
-      "crc32": "ed504e33",
-      "sha1": "2c8fb61dad1e38a4da1d4f8d9a80d26539c2578d",
+      "mtime": "1659110028",
+      "size": "155648",
+      "md5": "7ba81616fa57298089fafb9440ad24c2",
+      "crc32": "118ce9a0",
+      "sha1": "50622bd2335e550b2602715c8958bdcd825d28fc",
       "format": "Metadata"
     },
     {
@@ -1161,9 +1213,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 111,
-  "item_last_updated": 1659066534,
-  "item_size": 6180863,
+  "files_count": 116,
+  "item_last_updated": 1659110063,
+  "item_size": 6437102,
   "metadata": {
     "identifier": "rgvfox-2022",
     "collection": [
@@ -1181,11 +1233,52 @@
     "addeddate": "2022-07-18 00:05:25"
   },
   "pending_tasks": true,
+  "rgvfox-2022": [
+    {
+      "url": "https://foxnewssouthtexas.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/foxnewssouthtexas_com-_-2022_07_29_15_29_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/foxnewssouthtexas_com-_-2022_07_29_15_29_37.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.81,
+        "best-practices": 0.92,
+        "seo": 0.76,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://foxnewssouthtexas.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/foxnewssouthtexas_com-_-2022_07_29_15_29_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/foxnewssouthtexas_com-_-2022_07_29_15_29_58.report.json",
+      "summary": {
+        "performance": 0.36,
+        "accessibility": 0.81,
+        "best-practices": 0.92,
+        "seo": 0.76,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://foxnewssouthtexas.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/foxnewssouthtexas_com-_-2022_07_29_15_30_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/foxnewssouthtexas_com-_-2022_07_29_15_30_17.report.json",
+      "summary": {
+        "performance": 0.31,
+        "accessibility": 0.81,
+        "best-practices": 0.92,
+        "seo": 0.76,
+        "pwa": 0.4
+      }
+    }
+  ],
   "server": "ia601403.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3346823963,
+      "task_id": 3347269496,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1193,7 +1286,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1350482407,
+  "uniq": 1502872488,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

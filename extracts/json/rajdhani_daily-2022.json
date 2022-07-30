@@ -1,5 +1,5 @@
 {
-  "created": 1659097499,
+  "created": 1659140237,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/34/items/rajdhani_daily-2022",
@@ -577,31 +577,83 @@
       "format": "JSON"
     },
     {
+      "name": "rajdhani_daily-2022-07-29T18:09:12.443646+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rajdhani_daily-2022-07-29T18:09:12.443646+05:45.jpg",
+      "mtime": "1659136544",
+      "size": "10511",
+      "md5": "45feb8525ea0e24ca95a750459740f04",
+      "crc32": "140c0d95",
+      "sha1": "ff896ac682edb1ead4e0a5c4453ef059fcdbeb95"
+    },
+    {
+      "name": "rajdhani_daily-2022-07-30T06:01:23.711935+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659140187",
+      "size": "86919",
+      "md5": "735e6780e2e0b2476d7e67180bb51279",
+      "crc32": "c95d30a1",
+      "sha1": "ec372354db481498c82c8a2cdefb9b52340acd08",
+      "format": "JSON"
+    },
+    {
+      "name": "rajdhani_daily-2022-07-30T06:01:23.711935+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659140192",
+      "size": "47471",
+      "md5": "f597a072ed5e677583f5b22e39bf194c",
+      "crc32": "7e0bf3de",
+      "sha1": "66f8ed02b2ee44fe39a90864e1cf8440b08ed82e",
+      "format": "JSON"
+    },
+    {
+      "name": "rajdhani_daily-2022-07-30T06:01:23.711935+05:45.jpg",
+      "source": "original",
+      "mtime": "1659140185",
+      "size": "186337",
+      "md5": "5edf2578e394dc11d96ab1a99b1f1cbf",
+      "crc32": "b49a056c",
+      "sha1": "4963d86df2e1ac04f97048c3a44a6a55bed4b011",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rajdhani_daily-2022-07-30T06:01:23.711935+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659140194",
+      "size": "1485",
+      "md5": "fb89f0ea9e367c2acbb6f8eb885bcd18",
+      "crc32": "b309510a",
+      "sha1": "1a7764a58470f409dd6aa48552536528e8bef207",
+      "format": "JSON"
+    },
+    {
       "name": "rajdhani_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f4bb19ea76e3aed1e144f7a56277483e198f535b",
-      "mtime": "1659097496",
-      "size": "13394",
-      "md5": "de40065dd4292c25bd0e56d98f8207ba",
-      "crc32": "8e5df5dc",
-      "sha1": "5fb63d8895a5df78f76aeb5a9c999832414aafdb",
+      "btih": "cb5db12d145bd0a4dc211977d6afd69cab1512e2",
+      "mtime": "1659140233",
+      "size": "14464",
+      "md5": "b98e159a179c0fddd4b643b3eff9192a",
+      "crc32": "4edec459",
+      "sha1": "5a04715862e0929a57b46ab07b1370eedf6269b9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rajdhani_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "978cca02a9300bed54f8949f801ed4a0",
+      "md5": "47193d5b29f80bb58dfc450add5f502c",
       "summation": "md5"
     },
     {
       "name": "rajdhani_daily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659097462",
-      "size": "81920",
-      "md5": "387ed09844a79dccf351acb0ecab9768",
-      "crc32": "cab7ee3b",
-      "sha1": "45ae1a8c4d1801bf7a966c6a6f7a3eb517971f63",
+      "mtime": "1659140197",
+      "size": "86016",
+      "md5": "506b5c28bfbbbbcfb12aa4883ad7740f",
+      "crc32": "205a6239",
+      "sha1": "5ce6cfccd517373b0ffd369f3cd95837e3183c49",
       "format": "Metadata"
     },
     {
@@ -615,9 +667,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 59,
-  "item_last_updated": 1659097496,
-  "item_size": 4248729,
+  "files_count": 64,
+  "item_last_updated": 1659140233,
+  "item_size": 4586618,
   "metadata": {
     "identifier": "rajdhani_daily-2022",
     "collection": [
@@ -639,7 +691,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347152108,
+      "task_id": 3347566595,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -647,7 +699,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2145366445,
+  "uniq": 620788089,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

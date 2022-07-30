@@ -1,5 +1,5 @@
 {
-  "created": 1659092777,
+  "created": 1659139361,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/25/items/boingboing-2022",
@@ -3321,31 +3321,83 @@
       "format": "JSON"
     },
     {
+      "name": "boingboing-2022-07-29T04:05:19.135966-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "boingboing-2022-07-29T04:05:19.135966-07:00.jpg",
+      "mtime": "1659134148",
+      "size": "8157",
+      "md5": "ecfbf4be3054ce56d2406ce320804c9a",
+      "crc32": "7979d04b",
+      "sha1": "3ccf036adcecf518c4408cb7afda24d947b9a36f"
+    },
+    {
+      "name": "boingboing-2022-07-29T17:01:52.213757-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659139315",
+      "size": "17102",
+      "md5": "5648c393c4d68ba68749e87ae77dd08c",
+      "crc32": "d214ee51",
+      "sha1": "5a09121818f858dbc096acfaa062e97411c7c9d9",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-07-29T17:01:52.213757-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659139317",
+      "size": "24034",
+      "md5": "abf5ce67aa8e35a1ee479e89ef9001c1",
+      "crc32": "277e4548",
+      "sha1": "fad7527ccc7590d41e7e599674adcf8be6cb10ad",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-07-29T17:01:52.213757-07:00.jpg",
+      "source": "original",
+      "mtime": "1659139314",
+      "size": "183782",
+      "md5": "c1f5d5a59aaff8320d834822490e00da",
+      "crc32": "4ddaf402",
+      "sha1": "ba95d858a7a8162a0fca3fa520210681bac8173d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "boingboing-2022-07-29T17:01:52.213757-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659139319",
+      "size": "1459",
+      "md5": "64f6e7d5a4001a0fc1f0042dbc5900a0",
+      "crc32": "31626951",
+      "sha1": "c0474d719e1a39a31f78191dbd614201f32fbfb4",
+      "format": "JSON"
+    },
+    {
       "name": "boingboing-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7d914deabd0ce5436d4fb1ff4c924f7f2b7bc489",
-      "mtime": "1659092769",
-      "size": "67648",
-      "md5": "6a54e2d00b3b79335c1d867d2f28dc6b",
-      "crc32": "5fbfe961",
-      "sha1": "43b9c57c728fd2c5750b494fb23e94634bbb869d",
+      "btih": "04d3777bb07468ccf70512285b6c661286b5ad01",
+      "mtime": "1659139358",
+      "size": "68717",
+      "md5": "f00f856e5a8aab9a35c1e8a9b22a551b",
+      "crc32": "4a9fe0db",
+      "sha1": "1b1bb2eda20591f0ba18e2ca13f4d54d49ebcb7d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "boingboing-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "183140eae182b26b064b6b3e7abf6bdd",
+      "md5": "4e4fcd13de28d3d3c329d2f461a1be01",
       "summation": "md5"
     },
     {
       "name": "boingboing-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659092733",
-      "size": "368640",
-      "md5": "04aabd6594e8edb74d776b7152a01bbe",
-      "crc32": "3c3e123e",
-      "sha1": "e889f8d2a358a2b9aa9b40359d06ee58846c4798",
+      "mtime": "1659139323",
+      "size": "372736",
+      "md5": "69563b1990d8668ecc36a1914c1f081e",
+      "crc32": "d419a023",
+      "sha1": "80f336972d2d082118737bab8330d8f794a83f20",
       "format": "Metadata"
     },
     {
@@ -3359,9 +3411,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 318,
-  "item_last_updated": 1659092769,
-  "item_size": 19905617,
+  "files_count": 323,
+  "item_last_updated": 1659139358,
+  "item_size": 20145316,
   "metadata": {
     "identifier": "boingboing-2022",
     "collection": [
@@ -3383,7 +3435,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347108604,
+      "task_id": 3347555726,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3391,7 +3443,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 493319455,
+  "uniq": 1492561384,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

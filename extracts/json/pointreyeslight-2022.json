@@ -1,5 +1,5 @@
 {
-  "created": 1659097446,
+  "created": 1659140195,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/26/items/pointreyeslight-2022",
@@ -3485,31 +3485,83 @@
       "format": "JSON"
     },
     {
+      "name": "pointreyeslight-2022-07-29T05:23:13.559354-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pointreyeslight-2022-07-29T05:23:13.559354-07:00.jpg",
+      "mtime": "1659136468",
+      "size": "9186",
+      "md5": "882a597a454896b953fdec4ee90a1d1c",
+      "crc32": "51175048",
+      "sha1": "8a9b67c262da9e6f38f9109b2653a7f910cb3ffe"
+    },
+    {
+      "name": "pointreyeslight-2022-07-29T17:15:38.548130-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659140142",
+      "size": "1131",
+      "md5": "036d30151edc4071514bc7301caa3f49",
+      "crc32": "83271494",
+      "sha1": "a45f38d76da1c2d5523df836080f10fc81e75e1e",
+      "format": "JSON"
+    },
+    {
+      "name": "pointreyeslight-2022-07-29T17:15:38.548130-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659140143",
+      "size": "5738",
+      "md5": "902a78cbf34941eb687ca88485dc3d81",
+      "crc32": "73d88250",
+      "sha1": "246e3d4fa1c5e70618182eda66637d4d9fe1aebd",
+      "format": "JSON"
+    },
+    {
+      "name": "pointreyeslight-2022-07-29T17:15:38.548130-07:00.jpg",
+      "source": "original",
+      "mtime": "1659140140",
+      "size": "251289",
+      "md5": "23767eaa193262661761aa7f42ecc5f9",
+      "crc32": "c2c8a7af",
+      "sha1": "4d19687d48f36b97806a0f2afcf60a463d67039f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pointreyeslight-2022-07-29T17:15:38.548130-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659140145",
+      "size": "1511",
+      "md5": "f8ab07c99ac7e0ef95326ce7a7fda8be",
+      "crc32": "48d6bc24",
+      "sha1": "37eb2c9597db18c78a3fb683baf403b644ec051f",
+      "format": "JSON"
+    },
+    {
       "name": "pointreyeslight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "562233f0df41580ecc02575d58d4219e9f441da7",
-      "mtime": "1659097442",
-      "size": "73192",
-      "md5": "8a656ed4306e2df2ab37560cc215224e",
-      "crc32": "8f8bf141",
-      "sha1": "b20c8acd4810ec7bcd00f0d8aa19bdd818b6021d",
+      "btih": "aa88925a595e88dc10095d53c46fb2a8800f46d0",
+      "mtime": "1659140191",
+      "size": "74264",
+      "md5": "85839aedfac0a7dbc4fadd84d513285e",
+      "crc32": "1d525b85",
+      "sha1": "b293a7cf81813d30775a7af05c894d2d589b3ada",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pointreyeslight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77ad1f232bd32923502408d124fb962e",
+      "md5": "b18f40cdbb8740efcf74afc1b7d9ea5e",
       "summation": "md5"
     },
     {
       "name": "pointreyeslight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659097406",
-      "size": "409600",
-      "md5": "8107a208caa5437facb29b58cec217e2",
-      "crc32": "8a0176d5",
-      "sha1": "45c6ce07d20ec5de57fed70e2c4fe8d5e9511b81",
+      "mtime": "1659140153",
+      "size": "417792",
+      "md5": "8f2c8f7fe07f339f38b6e28880d70571",
+      "crc32": "982e81e4",
+      "sha1": "57992c820eff3083d1d202875c633b04790aa904",
       "format": "Metadata"
     },
     {
@@ -3523,9 +3575,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 336,
-  "item_last_updated": 1659097442,
-  "item_size": 21618219,
+  "files_count": 341,
+  "item_last_updated": 1659140191,
+  "item_size": 21896338,
   "metadata": {
     "identifier": "pointreyeslight-2022",
     "collection": [
@@ -3547,7 +3599,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347151628,
+      "task_id": 3347566252,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3555,7 +3607,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 134220668,
+  "uniq": 495451734,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

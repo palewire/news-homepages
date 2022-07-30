@@ -1,5 +1,5 @@
 {
-  "created": 1659092883,
+  "created": 1659139462,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/13/items/climatecentral-2022",
@@ -681,31 +681,83 @@
       "format": "JSON"
     },
     {
+      "name": "climatecentral-2022-07-29T07:07:12.863829-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "climatecentral-2022-07-29T07:07:12.863829-04:00.jpg",
+      "mtime": "1659134238",
+      "size": "8464",
+      "md5": "1ea704d681328ce1e53a02e3120f1b98",
+      "crc32": "04172dd6",
+      "sha1": "12d2b07c85666b45e0cb7a6864121118e8b2f36d"
+    },
+    {
+      "name": "climatecentral-2022-07-29T20:03:30.656017-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659139413",
+      "size": "10598",
+      "md5": "00ddf87c9db06325ee62e482cea26ccd",
+      "crc32": "ed3353cb",
+      "sha1": "5c19481a8b9d18c268b07cea61c3e3753ee3136b",
+      "format": "JSON"
+    },
+    {
+      "name": "climatecentral-2022-07-29T20:03:30.656017-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659139415",
+      "size": "9519",
+      "md5": "db93dc8adeb909cc63f76054c0ac1cc7",
+      "crc32": "05e58ac2",
+      "sha1": "987708eabeb6eef1c3d55c8c178167fdd87a0fc4",
+      "format": "JSON"
+    },
+    {
+      "name": "climatecentral-2022-07-29T20:03:30.656017-04:00.jpg",
+      "source": "original",
+      "mtime": "1659139412",
+      "size": "193435",
+      "md5": "2e0c72002822e6011264c57bfca26bd8",
+      "crc32": "2c621404",
+      "sha1": "cc68aaed46ea78e11c12a463edbf7f080412d652",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "climatecentral-2022-07-29T20:03:30.656017-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659139417",
+      "size": "1521",
+      "md5": "452609b161a1e74ffbc58c7f48c01f4b",
+      "crc32": "99f708bb",
+      "sha1": "35c740be2a35c36ec0d33431a404c5def62ebed6",
+      "format": "JSON"
+    },
+    {
       "name": "climatecentral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dff40acdbbf3bf25a6ac46c844c8a59bc5f2e607",
-      "mtime": "1659092879",
-      "size": "15460",
-      "md5": "e6098c6215bb7f8ee8726557ed9a26ac",
-      "crc32": "05efd9c8",
-      "sha1": "2b7614f7f1a51a09de38c4751a677af09264ad83",
+      "btih": "7567aa5276cfd66c85746ad61a67e1d5b4b50ea0",
+      "mtime": "1659139458",
+      "size": "16548",
+      "md5": "7935b7af210c30906071768c0d7f9682",
+      "crc32": "0f7f0a5d",
+      "sha1": "f20d901c212644672cc1fe826d3d2a0e4bf16642",
       "format": "Archive BitTorrent"
     },
     {
       "name": "climatecentral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "89424a40cd3e0169a8ef32249c30bbb2",
+      "md5": "42ceb7220600664e6b30a276a790430f",
       "summation": "md5"
     },
     {
       "name": "climatecentral-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659092845",
-      "size": "102400",
-      "md5": "288113e1331120244974b13ee34e76a8",
-      "crc32": "5c4af01f",
-      "sha1": "e91552bc7efec75c43274e93588f580953fbc201",
+      "mtime": "1659139422",
+      "size": "106496",
+      "md5": "0daaadcb65f6f5ecf0b9c26fc4aa49a1",
+      "crc32": "d3611a07",
+      "sha1": "499b6acbc55860e23da76de25ddad76717c5f1ec",
       "format": "Metadata"
     },
     {
@@ -719,9 +771,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 69,
-  "item_last_updated": 1659092879,
-  "item_size": 3037799,
+  "files_count": 74,
+  "item_last_updated": 1659139458,
+  "item_size": 3266520,
   "metadata": {
     "identifier": "climatecentral-2022",
     "collection": [
@@ -743,7 +795,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347109958,
+      "task_id": 3347557892,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -751,7 +803,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2006004663,
+  "uniq": 1407741617,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]
