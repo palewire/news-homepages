@@ -140,6 +140,7 @@ def _screenshot(
             ".mc-modal",  # Newsletter popup
             ".mc-modal-bg",
             ".blockNavigation",
+            ".ab-iam-root",
         ]
         target_str = ",".join(target_list)
         javascript = f"""
