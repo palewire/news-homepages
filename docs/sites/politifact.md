@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 86 screenshots with the Internet Archive.
+The archiving routine has saved 87 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 86 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politifact-2022/politifact-2022-07-29T20:16:46.685615-04:00.jpg">
+  <img src="https://archive.org/download/politifact-2022/politifact-2022-07-29T20:16:46.685615-04:00.jpg"
+     alt="Politifact  at 2022-07-29 20:16:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-29T20:16:46.685615-04:00.jpg">July 29 at 8:16 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politifact-2022/politifact-2022-07-29T08:23:09.044712-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-24T10:00:37.626706-04:00.jpg">July 24 at 10:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/politifact-2022/politifact-2022-07-24T02:19:28.634488-04:00.jpg">
-  <img src="https://archive.org/download/politifact-2022/politifact-2022-07-24T02:19:28.634488-04:00.jpg"
-     alt="Politifact  at 2022-07-24 02:19:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/politifact-2022/politifact-2022-07-24T02:19:28.634488-04:00.jpg">July 24 at 2:19 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 86 hyperlink lists with the Internet Archive.
+The archiving routine has saved 87 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 8:16 PM](https://archive.org/download/politifact-2022/politifact-2022-07-29T20:16:46.685615-04:00.hyperlinks.json) |
 | [July 29 at 8:23 AM](https://archive.org/download/politifact-2022/politifact-2022-07-29T08:23:09.044712-04:00.hyperlinks.json) |
 | [July 28 at 8:18 PM](https://archive.org/download/politifact-2022/politifact-2022-07-28T20:18:35.875710-04:00.hyperlinks.json) |
 | [July 28 at 9:16 AM](https://archive.org/download/politifact-2022/politifact-2022-07-28T09:16:45.054701-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 8:28 AM](https://archive.org/download/politifact-2022/politifact-2022-07-26T08:28:07.148992-04:00.hyperlinks.json) |
 | [July 25 at 8:23 PM](https://archive.org/download/politifact-2022/politifact-2022-07-25T20:23:12.081943-04:00.hyperlinks.json) |
 | [July 25 at 11:37 AM](https://archive.org/download/politifact-2022/politifact-2022-07-25T11:37:01.020508-04:00.hyperlinks.json) |
-| [July 24 at 11:39 PM](https://archive.org/download/politifact-2022/politifact-2022-07-24T23:39:48.598723-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 86 accessibility trees with the Internet Archive.
+The archiving routine has saved 87 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 8:16 PM](https://archive.org/download/politifact-2022/politifact-2022-07-29T20:16:46.685615-04:00.accessibility.json) |
 | [July 29 at 8:23 AM](https://archive.org/download/politifact-2022/politifact-2022-07-29T08:23:09.044712-04:00.accessibility.json) |
 | [July 28 at 8:18 PM](https://archive.org/download/politifact-2022/politifact-2022-07-28T20:18:35.875710-04:00.accessibility.json) |
 | [July 28 at 9:16 AM](https://archive.org/download/politifact-2022/politifact-2022-07-28T09:16:45.054701-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 26 at 8:28 AM](https://archive.org/download/politifact-2022/politifact-2022-07-26T08:28:07.148992-04:00.accessibility.json) |
 | [July 25 at 8:23 PM](https://archive.org/download/politifact-2022/politifact-2022-07-25T20:23:12.081943-04:00.accessibility.json) |
 | [July 25 at 11:37 AM](https://archive.org/download/politifact-2022/politifact-2022-07-25T11:37:01.020508-04:00.accessibility.json) |
-| [July 24 at 11:39 PM](https://archive.org/download/politifact-2022/politifact-2022-07-24T23:39:48.598723-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 8:16 PM](https://archive.org/download/politifact-2022/politifact-2022-07-29T20:16:46.685615-04:00.lighthouse.json) |
 | [July 29 at 8:23 AM](https://archive.org/download/politifact-2022/politifact-2022-07-29T08:23:09.044712-04:00.lighthouse.json) |
 | [July 28 at 8:18 PM](https://archive.org/download/politifact-2022/politifact-2022-07-28T20:18:35.875710-04:00.lighthouse.json) |
 | [July 28 at 9:16 AM](https://archive.org/download/politifact-2022/politifact-2022-07-28T09:16:45.054701-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 26 at 8:28 AM](https://archive.org/download/politifact-2022/politifact-2022-07-26T08:28:07.148992-04:00.lighthouse.json) |
 | [July 25 at 8:23 PM](https://archive.org/download/politifact-2022/politifact-2022-07-25T20:23:12.081943-04:00.lighthouse.json) |
 | [July 25 at 11:37 AM](https://archive.org/download/politifact-2022/politifact-2022-07-25T11:37:01.020508-04:00.lighthouse.json) |
-| [July 24 at 11:39 PM](https://archive.org/download/politifact-2022/politifact-2022-07-24T23:39:48.598723-04:00.lighthouse.json) |
 
 
 

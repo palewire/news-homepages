@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 110 screenshots with the Internet Archive.
+The archiving routine has saved 112 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-29T11:17:39.837361-05:00.jpg">
+  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-29T11:17:39.837361-05:00.jpg"
+     alt="Pitchfork at 2022-07-29 11:17:45-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-29T11:17:39.837361-05:00.jpg">July 29 at 11:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-29T10:51:19.466406-05:00.jpg">
+  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-29T10:51:19.466406-05:00.jpg"
+     alt="Pitchfork at 2022-07-29 10:51:24-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-29T10:51:19.466406-05:00.jpg">July 29 at 10:51 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-28T22:46:27.477187-05:00.jpg">
   <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-28T22:46:27.477187-05:00.jpg"
      alt="Pitchfork at 2022-07-28 22:46:28-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-26T10:43:09.493717-05:00.jpg">July 26 at 10:43 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-25T22:54:00.738584-05:00.jpg">
-  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-25T22:54:00.738584-05:00.jpg"
-     alt="Pitchfork at 2022-07-25 22:54:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-25T22:54:00.738584-05:00.jpg">July 25 at 10:54 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-25T11:36:06.788591-05:00.jpg">
-  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-25T11:36:06.788591-05:00.jpg"
-     alt="Pitchfork at 2022-07-25 11:36:08-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-25T11:36:06.788591-05:00.jpg">July 25 at 11:36 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 103 hyperlink lists with the Internet Archive.
+The archiving routine has saved 105 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 11:17 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-29T11:17:39.837361-05:00.hyperlinks.json) |
+| [July 29 at 10:51 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-29T10:51:19.466406-05:00.hyperlinks.json) |
 | [July 28 at 10:46 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-28T22:46:27.477187-05:00.hyperlinks.json) |
 | [July 28 at 3:04 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-28T15:03:58.774064-05:00.hyperlinks.json) |
 | [July 28 at 11:12 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-28T11:12:12.089060-05:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 27 at 11:11 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-27T11:11:01.115395-05:00.hyperlinks.json) |
 | [July 27 at 10:43 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-27T10:43:45.623934-05:00.hyperlinks.json) |
 | [July 26 at 10:51 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-26T22:51:10.631489-05:00.hyperlinks.json) |
-| [July 26 at 11:00 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-26T11:00:00.161510-05:00.hyperlinks.json) |
-| [July 26 at 10:43 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-26T10:43:09.493717-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 109 accessibility trees with the Internet Archive.
+The archiving routine has saved 111 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 11:17 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-29T11:17:39.837361-05:00.accessibility.json) |
+| [July 29 at 10:51 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-29T10:51:19.466406-05:00.accessibility.json) |
 | [July 28 at 10:46 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-28T22:46:27.477187-05:00.accessibility.json) |
 | [July 28 at 3:04 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-28T15:03:58.774064-05:00.accessibility.json) |
 | [July 28 at 11:12 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-28T11:12:12.089060-05:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 27 at 11:11 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-27T11:11:01.115395-05:00.accessibility.json) |
 | [July 27 at 10:43 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-27T10:43:45.623934-05:00.accessibility.json) |
 | [July 26 at 10:51 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-26T22:51:10.631489-05:00.accessibility.json) |
-| [July 26 at 11:00 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-26T11:00:00.161510-05:00.accessibility.json) |
-| [July 26 at 10:43 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-26T10:43:09.493717-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 11:17 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-29T11:17:39.837361-05:00.lighthouse.json) |
+| [July 29 at 10:51 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-29T10:51:19.466406-05:00.lighthouse.json) |
 | [July 28 at 10:46 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-28T22:46:27.477187-05:00.lighthouse.json) |
 | [July 28 at 3:04 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-28T15:03:58.774064-05:00.lighthouse.json) |
 | [July 28 at 11:12 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-28T11:12:12.089060-05:00.lighthouse.json) |
@@ -450,8 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 11:11 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-27T11:11:01.115395-05:00.lighthouse.json) |
 | [July 27 at 10:43 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-27T10:43:45.623934-05:00.lighthouse.json) |
 | [July 26 at 10:51 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-26T22:51:10.631489-05:00.lighthouse.json) |
-| [July 26 at 11:00 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-26T11:00:00.161510-05:00.lighthouse.json) |
-| [July 26 at 10:43 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-26T10:43:09.493717-05:00.lighthouse.json) |
 
 
 

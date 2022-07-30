@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 82 screenshots with the Internet Archive.
+The archiving routine has saved 83 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 82 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mcall-2022/mcall-2022-07-29T10:43:38.628094-04:00.jpg">
+  <img src="https://archive.org/download/mcall-2022/mcall-2022-07-29T10:43:38.628094-04:00.jpg"
+     alt="The Morning Call at 2022-07-29 10:43:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-29T10:43:38.628094-04:00.jpg">July 29 at 10:43 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mcall-2022/mcall-2022-07-28T22:39:33.508834-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-24T00:18:15.040852-04:00.jpg">July 24 at 12:18 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mcall-2022/mcall-2022-07-23T11:00:37.500185-04:00.jpg">
-  <img src="https://archive.org/download/mcall-2022/mcall-2022-07-23T11:00:37.500185-04:00.jpg"
-     alt="The Morning Call at 2022-07-23 11:00:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mcall-2022/mcall-2022-07-23T11:00:37.500185-04:00.jpg">July 23 at 11:00 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 82 hyperlink lists with the Internet Archive.
+The archiving routine has saved 83 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 10:43 AM](https://archive.org/download/mcall-2022/mcall-2022-07-29T10:43:38.628094-04:00.hyperlinks.json) |
 | [July 28 at 10:39 PM](https://archive.org/download/mcall-2022/mcall-2022-07-28T22:39:33.508834-04:00.hyperlinks.json) |
 | [July 28 at 11:44 AM](https://archive.org/download/mcall-2022/mcall-2022-07-28T11:44:40.451500-04:00.hyperlinks.json) |
 | [July 27 at 10:42 PM](https://archive.org/download/mcall-2022/mcall-2022-07-27T22:42:13.147585-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 10:48 PM](https://archive.org/download/mcall-2022/mcall-2022-07-25T22:48:03.727790-04:00.hyperlinks.json) |
 | [July 25 at 9:14 AM](https://archive.org/download/mcall-2022/mcall-2022-07-25T09:13:57.202554-04:00.hyperlinks.json) |
 | [July 24 at 11:31 PM](https://archive.org/download/mcall-2022/mcall-2022-07-24T23:31:02.958405-04:00.hyperlinks.json) |
-| [July 24 at 9:02 AM](https://archive.org/download/mcall-2022/mcall-2022-07-24T09:02:33.751123-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 85 accessibility trees with the Internet Archive.
+The archiving routine has saved 86 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 10:43 AM](https://archive.org/download/mcall-2022/mcall-2022-07-29T10:43:38.628094-04:00.accessibility.json) |
 | [July 28 at 10:39 PM](https://archive.org/download/mcall-2022/mcall-2022-07-28T22:39:33.508834-04:00.accessibility.json) |
 | [July 28 at 11:44 AM](https://archive.org/download/mcall-2022/mcall-2022-07-28T11:44:40.451500-04:00.accessibility.json) |
 | [July 27 at 10:42 PM](https://archive.org/download/mcall-2022/mcall-2022-07-27T22:42:13.147585-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 10:48 PM](https://archive.org/download/mcall-2022/mcall-2022-07-25T22:48:03.727790-04:00.accessibility.json) |
 | [July 25 at 9:14 AM](https://archive.org/download/mcall-2022/mcall-2022-07-25T09:13:57.202554-04:00.accessibility.json) |
 | [July 24 at 11:31 PM](https://archive.org/download/mcall-2022/mcall-2022-07-24T23:31:02.958405-04:00.accessibility.json) |
-| [July 24 at 9:02 AM](https://archive.org/download/mcall-2022/mcall-2022-07-24T09:02:33.751123-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 10:43 AM](https://archive.org/download/mcall-2022/mcall-2022-07-29T10:43:38.628094-04:00.lighthouse.json) |
 | [July 28 at 10:39 PM](https://archive.org/download/mcall-2022/mcall-2022-07-28T22:39:33.508834-04:00.lighthouse.json) |
 | [July 28 at 11:44 AM](https://archive.org/download/mcall-2022/mcall-2022-07-28T11:44:40.451500-04:00.lighthouse.json) |
 | [July 27 at 10:42 PM](https://archive.org/download/mcall-2022/mcall-2022-07-27T22:42:13.147585-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 10:48 PM](https://archive.org/download/mcall-2022/mcall-2022-07-25T22:48:03.727790-04:00.lighthouse.json) |
 | [July 25 at 9:14 AM](https://archive.org/download/mcall-2022/mcall-2022-07-25T09:13:57.202554-04:00.lighthouse.json) |
 | [July 24 at 11:31 PM](https://archive.org/download/mcall-2022/mcall-2022-07-24T23:31:02.958405-04:00.lighthouse.json) |
-| [July 24 at 9:02 AM](https://archive.org/download/mcall-2022/mcall-2022-07-24T09:02:33.751123-04:00.lighthouse.json) |
 
 
 

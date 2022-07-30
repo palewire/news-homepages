@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 24 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tmz-2022/tmz-2022-07-29T06:35:41.213086-07:00.jpg">
+  <img src="https://archive.org/download/tmz-2022/tmz-2022-07-29T06:35:41.213086-07:00.jpg"
+     alt="TMZ at 2022-07-29 06:35:42-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-29T06:35:41.213086-07:00.jpg">July 29 at 6:35 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tmz-2022/tmz-2022-07-28T18:29:04.808449-07:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-24T08:08:28.661597-07:00.jpg">July 24 at 8:08 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tmz-2022/tmz-2022-07-23T20:43:47.200318-07:00.jpg">
-  <img src="https://archive.org/download/tmz-2022/tmz-2022-07-23T20:43:47.200318-07:00.jpg"
-     alt="TMZ at 2022-07-23 20:43:49-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tmz-2022/tmz-2022-07-23T20:43:47.200318-07:00.jpg">July 23 at 8:43 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 23 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 6:35 AM](https://archive.org/download/tmz-2022/tmz-2022-07-29T06:35:41.213086-07:00.hyperlinks.json) |
 | [July 28 at 6:29 PM](https://archive.org/download/tmz-2022/tmz-2022-07-28T18:29:04.808449-07:00.hyperlinks.json) |
 | [July 28 at 6:27 AM](https://archive.org/download/tmz-2022/tmz-2022-07-28T06:27:45.480914-07:00.hyperlinks.json) |
 | [July 27 at 6:33 PM](https://archive.org/download/tmz-2022/tmz-2022-07-27T18:33:18.358267-07:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 7:51 PM](https://archive.org/download/tmz-2022/tmz-2022-07-25T19:51:02.503512-07:00.hyperlinks.json) |
 | [July 25 at 6:36 PM](https://archive.org/download/tmz-2022/tmz-2022-07-25T18:36:29.457181-07:00.hyperlinks.json) |
 | [July 25 at 8:49 AM](https://archive.org/download/tmz-2022/tmz-2022-07-25T08:49:40.297498-07:00.hyperlinks.json) |
-| [July 24 at 9:39 PM](https://archive.org/download/tmz-2022/tmz-2022-07-24T21:38:56.813877-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 24 accessibility trees with the Internet Archive.
+The archiving routine has saved 25 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 6:35 AM](https://archive.org/download/tmz-2022/tmz-2022-07-29T06:35:41.213086-07:00.accessibility.json) |
 | [July 28 at 6:29 PM](https://archive.org/download/tmz-2022/tmz-2022-07-28T18:29:04.808449-07:00.accessibility.json) |
 | [July 28 at 6:27 AM](https://archive.org/download/tmz-2022/tmz-2022-07-28T06:27:45.480914-07:00.accessibility.json) |
 | [July 27 at 6:33 PM](https://archive.org/download/tmz-2022/tmz-2022-07-27T18:33:18.358267-07:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 7:51 PM](https://archive.org/download/tmz-2022/tmz-2022-07-25T19:51:02.503512-07:00.accessibility.json) |
 | [July 25 at 6:36 PM](https://archive.org/download/tmz-2022/tmz-2022-07-25T18:36:29.457181-07:00.accessibility.json) |
 | [July 25 at 8:49 AM](https://archive.org/download/tmz-2022/tmz-2022-07-25T08:49:40.297498-07:00.accessibility.json) |
-| [July 24 at 9:39 PM](https://archive.org/download/tmz-2022/tmz-2022-07-24T21:38:56.813877-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 6:35 AM](https://archive.org/download/tmz-2022/tmz-2022-07-29T06:35:41.213086-07:00.lighthouse.json) |
 | [July 28 at 6:29 PM](https://archive.org/download/tmz-2022/tmz-2022-07-28T18:29:04.808449-07:00.lighthouse.json) |
 | [July 28 at 6:27 AM](https://archive.org/download/tmz-2022/tmz-2022-07-28T06:27:45.480914-07:00.lighthouse.json) |
 | [July 27 at 6:33 PM](https://archive.org/download/tmz-2022/tmz-2022-07-27T18:33:18.358267-07:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 7:51 PM](https://archive.org/download/tmz-2022/tmz-2022-07-25T19:51:02.503512-07:00.lighthouse.json) |
 | [July 25 at 6:36 PM](https://archive.org/download/tmz-2022/tmz-2022-07-25T18:36:29.457181-07:00.lighthouse.json) |
 | [July 25 at 8:49 AM](https://archive.org/download/tmz-2022/tmz-2022-07-25T08:49:40.297498-07:00.lighthouse.json) |
-| [July 24 at 9:39 PM](https://archive.org/download/tmz-2022/tmz-2022-07-24T21:38:56.813877-07:00.lighthouse.json) |
 
 
 

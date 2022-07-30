@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 50 screenshots with the Internet Archive.
+The archiving routine has saved 51 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 50 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-29T07:37:06.556525-07:00.jpg">
+  <img src="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-29T07:37:06.556525-07:00.jpg"
+     alt="Fox 12 Oregon at 2022-07-29 07:37:08-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-29T07:37:06.556525-07:00.jpg">July 29 at 7:37 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-28T19:34:34.302441-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-23T23:29:47.431876-07:00.jpg">July 23 at 11:29 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-23T06:59:14.005681-07:00.jpg">
-  <img src="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-23T06:59:14.005681-07:00.jpg"
-     alt="Fox 12 Oregon at 2022-07-23 06:59:15-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-23T06:59:14.005681-07:00.jpg">July 23 at 6:59 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 50 hyperlink lists with the Internet Archive.
+The archiving routine has saved 51 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 7:37 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-29T07:37:06.556525-07:00.hyperlinks.json) |
 | [July 28 at 7:34 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-28T19:34:34.302441-07:00.hyperlinks.json) |
 | [July 28 at 8:40 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-28T08:39:54.958446-07:00.hyperlinks.json) |
 | [July 27 at 7:36 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-27T19:36:16.016355-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 7:41 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-25T19:41:54.590417-07:00.hyperlinks.json) |
 | [July 25 at 5:02 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-25T05:02:31.897081-07:00.hyperlinks.json) |
 | [July 24 at 6:05 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-24T18:05:42.247332-07:00.hyperlinks.json) |
-| [July 24 at 5:00 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-24T05:00:25.793131-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 50 accessibility trees with the Internet Archive.
+The archiving routine has saved 51 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 7:37 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-29T07:37:06.556525-07:00.accessibility.json) |
 | [July 28 at 7:34 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-28T19:34:34.302441-07:00.accessibility.json) |
 | [July 28 at 8:40 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-28T08:39:54.958446-07:00.accessibility.json) |
 | [July 27 at 7:36 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-27T19:36:16.016355-07:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 25 at 7:41 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-25T19:41:54.590417-07:00.accessibility.json) |
 | [July 25 at 5:02 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-25T05:02:31.897081-07:00.accessibility.json) |
 | [July 24 at 6:05 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-24T18:05:42.247332-07:00.accessibility.json) |
-| [July 24 at 5:00 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-24T05:00:25.793131-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 7:37 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-29T07:37:06.556525-07:00.lighthouse.json) |
 | [July 28 at 7:34 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-28T19:34:34.302441-07:00.lighthouse.json) |
 | [July 28 at 8:40 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-28T08:39:54.958446-07:00.lighthouse.json) |
 | [July 27 at 7:36 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-27T19:36:16.016355-07:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 7:42 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-25T19:41:54.590417-07:00.lighthouse.json) |
 | [July 25 at 5:02 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-25T05:02:31.897081-07:00.lighthouse.json) |
 | [July 24 at 6:05 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-24T18:05:42.247332-07:00.lighthouse.json) |
-| [July 24 at 5:00 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-07-24T05:00:25.793131-07:00.lighthouse.json) |
 
 
 

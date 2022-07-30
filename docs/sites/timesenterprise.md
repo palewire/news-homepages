@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-29T11:57:56.631037-04:00.jpg">
+  <img src="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-29T11:57:56.631037-04:00.jpg"
+     alt="The Times-Enterprise at 2022-07-29 11:57:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-29T11:57:56.631037-04:00.jpg">July 29 at 11:57 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-28T23:51:20.351961-04:00.jpg">
@@ -127,15 +136,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-23T23:43:38.577212-04:00.jpg">July 23 at 11:43 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-23T12:06:31.052799-04:00.jpg">
-  <img src="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-23T12:06:31.052799-04:00.jpg"
-     alt="The Times-Enterprise at 2022-07-23 12:06:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-23T12:06:31.052799-04:00.jpg">July 23 at 12:06 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
@@ -162,7 +162,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 13 accessibility trees with the Internet Archive.
+The archiving routine has saved 14 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 11:57 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-29T11:57:56.631037-04:00.accessibility.json) |
 | [July 28 at 11:51 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-28T23:51:20.351961-04:00.accessibility.json) |
 | [July 28 at 11:55 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-28T11:55:33.421344-04:00.accessibility.json) |
 | [July 25 at 11:59 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-25T23:59:35.632328-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 23 at 11:43 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-23T23:43:38.577212-04:00.accessibility.json) |
 | [July 23 at 12:06 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-23T12:06:31.052799-04:00.accessibility.json) |
 | [July 23 at 12:26 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-23T00:26:53.693927-04:00.accessibility.json) |
-| [July 22 at 12:33 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-22T00:32:59.461296-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 11:58 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-29T11:57:56.631037-04:00.lighthouse.json) |
 | [July 28 at 11:51 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-28T23:51:20.351961-04:00.lighthouse.json) |
 | [July 28 at 11:55 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-28T11:55:33.421344-04:00.lighthouse.json) |
 | [July 27 at 11:48 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-27T23:48:35.644418-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 11:59 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-25T23:59:35.632328-04:00.lighthouse.json) |
 | [July 25 at 11:49 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-25T11:49:00.229084-04:00.lighthouse.json) |
 | [July 25 at 12:38 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-25T00:38:22.317084-04:00.lighthouse.json) |
-| [July 24 at 11:08 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-07-24T11:08:12.192293-04:00.lighthouse.json) |
 
 
 

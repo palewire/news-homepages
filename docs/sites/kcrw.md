@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kcrw-2022/kcrw-2022-07-29T11:32:50.372571-07:00.jpg">
+  <img src="https://archive.org/download/kcrw-2022/kcrw-2022-07-29T11:32:50.372571-07:00.jpg"
+     alt="KCRW at 2022-07-29 11:32:52-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcrw-2022/kcrw-2022-07-29T11:32:50.372571-07:00.jpg">July 29 at 11:32 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcrw-2022/kcrw-2022-07-29T07:40:56.365192-07:00.jpg">
+  <img src="https://archive.org/download/kcrw-2022/kcrw-2022-07-29T07:40:56.365192-07:00.jpg"
+     alt="KCRW at 2022-07-29 07:40:58-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcrw-2022/kcrw-2022-07-29T07:40:56.365192-07:00.jpg">July 29 at 7:40 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kcrw-2022/kcrw-2022-07-28T19:37:56.840066-07:00.jpg">
   <img src="https://archive.org/download/kcrw-2022/kcrw-2022-07-28T19:37:56.840066-07:00.jpg"
      alt="KCRW at 2022-07-28 19:37:58-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kcrw-2022/kcrw-2022-07-25T11:13:37.675282-07:00.jpg">July 25 at 11:13 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kcrw-2022/kcrw-2022-07-25T06:10:00.191116-07:00.jpg">
-  <img src="https://archive.org/download/kcrw-2022/kcrw-2022-07-25T06:10:00.191116-07:00.jpg"
-     alt="KCRW at 2022-07-25 06:10:02-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcrw-2022/kcrw-2022-07-25T06:10:00.191116-07:00.jpg">July 25 at 6:10 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kcrw-2022/kcrw-2022-07-24T20:24:45.070526-07:00.jpg">
-  <img src="https://archive.org/download/kcrw-2022/kcrw-2022-07-24T20:24:45.070526-07:00.jpg"
-     alt="KCRW at 2022-07-24 20:24:46-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcrw-2022/kcrw-2022-07-24T20:24:45.070526-07:00.jpg">July 24 at 8:24 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 33 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 11:32 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-29T11:32:50.372571-07:00.hyperlinks.json) |
+| [July 29 at 7:41 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-29T07:40:56.365192-07:00.hyperlinks.json) |
 | [July 28 at 7:38 PM](https://archive.org/download/kcrw-2022/kcrw-2022-07-28T19:37:56.840066-07:00.hyperlinks.json) |
 | [July 28 at 11:41 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-28T11:41:16.956597-07:00.hyperlinks.json) |
 | [July 28 at 8:43 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-28T08:43:08.725065-07:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 7:39 PM](https://archive.org/download/kcrw-2022/kcrw-2022-07-26T19:38:56.398328-07:00.hyperlinks.json) |
 | [July 26 at 11:32 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-26T11:32:27.851784-07:00.hyperlinks.json) |
 | [July 26 at 7:38 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-26T07:38:13.665335-07:00.hyperlinks.json) |
-| [July 25 at 7:44 PM](https://archive.org/download/kcrw-2022/kcrw-2022-07-25T19:44:52.769602-07:00.hyperlinks.json) |
-| [July 25 at 11:13 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-25T11:13:37.675282-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 33 accessibility trees with the Internet Archive.
+The archiving routine has saved 35 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 11:32 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-29T11:32:50.372571-07:00.accessibility.json) |
+| [July 29 at 7:41 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-29T07:40:56.365192-07:00.accessibility.json) |
 | [July 28 at 7:38 PM](https://archive.org/download/kcrw-2022/kcrw-2022-07-28T19:37:56.840066-07:00.accessibility.json) |
 | [July 28 at 11:41 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-28T11:41:16.956597-07:00.accessibility.json) |
 | [July 28 at 8:43 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-28T08:43:08.725065-07:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 26 at 7:38 PM](https://archive.org/download/kcrw-2022/kcrw-2022-07-26T19:38:56.398328-07:00.accessibility.json) |
 | [July 26 at 11:32 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-26T11:32:27.851784-07:00.accessibility.json) |
 | [July 26 at 7:38 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-26T07:38:13.665335-07:00.accessibility.json) |
-| [July 25 at 7:44 PM](https://archive.org/download/kcrw-2022/kcrw-2022-07-25T19:44:52.769602-07:00.accessibility.json) |
-| [July 25 at 11:13 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-25T11:13:37.675282-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 11:32 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-29T11:32:50.372571-07:00.lighthouse.json) |
+| [July 29 at 7:41 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-29T07:40:56.365192-07:00.lighthouse.json) |
 | [July 28 at 7:38 PM](https://archive.org/download/kcrw-2022/kcrw-2022-07-28T19:37:56.840066-07:00.lighthouse.json) |
 | [July 28 at 11:41 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-28T11:41:16.956597-07:00.lighthouse.json) |
 | [July 28 at 8:43 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-28T08:43:08.725065-07:00.lighthouse.json) |
@@ -450,8 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 26 at 7:39 PM](https://archive.org/download/kcrw-2022/kcrw-2022-07-26T19:38:56.398328-07:00.lighthouse.json) |
 | [July 26 at 11:32 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-26T11:32:27.851784-07:00.lighthouse.json) |
 | [July 26 at 7:38 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-26T07:38:13.665335-07:00.lighthouse.json) |
-| [July 25 at 7:45 PM](https://archive.org/download/kcrw-2022/kcrw-2022-07-25T19:44:52.769602-07:00.lighthouse.json) |
-| [July 25 at 11:13 AM](https://archive.org/download/kcrw-2022/kcrw-2022-07-25T11:13:37.675282-07:00.lighthouse.json) |
 
 
 

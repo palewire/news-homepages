@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 11 screenshots with the Internet Archive.
+The archiving routine has saved 12 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-29T19:21:38.324851+05:45.jpg">
+  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-29T19:21:38.324851+05:45.jpg"
+     alt="Ujyaalo at 2022-07-29 19:21:39+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-29T19:21:38.324851+05:45.jpg">July 29 at 7:21 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-29T07:13:56.912123+05:45.jpg">
@@ -131,7 +140,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 11 hyperlink lists with the Internet Archive.
+The archiving routine has saved 12 hyperlink lists with the Internet Archive.
 
 
 
@@ -139,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 7:21 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-29T19:21:38.324851+05:45.hyperlinks.json) |
 | [July 29 at 7:14 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-29T07:13:56.912123+05:45.hyperlinks.json) |
 | [July 28 at 7:12 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-28T19:12:44.690115+05:45.hyperlinks.json) |
 | [July 28 at 7:18 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-28T07:18:22.031804+05:45.hyperlinks.json) |
@@ -148,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 8:38 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-26T08:38:43.584704+05:45.hyperlinks.json) |
 | [July 26 at 7:22 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-26T07:22:51.485724+05:45.hyperlinks.json) |
 | [July 25 at 9:35 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T21:35:38.406010+05:45.hyperlinks.json) |
-| [July 25 at 10:24 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T10:24:42.529571+05:45.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 11 accessibility trees with the Internet Archive.
+The archiving routine has saved 12 accessibility trees with the Internet Archive.
 
 
 
@@ -161,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 7:21 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-29T19:21:38.324851+05:45.accessibility.json) |
 | [July 29 at 7:14 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-29T07:13:56.912123+05:45.accessibility.json) |
 | [July 28 at 7:12 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-28T19:12:44.690115+05:45.accessibility.json) |
 | [July 28 at 7:18 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-28T07:18:22.031804+05:45.accessibility.json) |
@@ -170,7 +180,6 @@ Here are the 10 most recent accessibility trees.
 | [July 26 at 8:38 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-26T08:38:43.584704+05:45.accessibility.json) |
 | [July 26 at 7:22 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-26T07:22:51.485724+05:45.accessibility.json) |
 | [July 25 at 9:35 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T21:35:38.406010+05:45.accessibility.json) |
-| [July 25 at 10:24 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-07-25T10:24:42.529571+05:45.accessibility.json) |
 
 
 

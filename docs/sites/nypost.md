@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 54 screenshots with the Internet Archive.
+The archiving routine has saved 55 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 54 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nypost-2022/nypost-2022-07-29T11:50:34.948593-04:00.jpg">
+  <img src="https://archive.org/download/nypost-2022/nypost-2022-07-29T11:50:34.948593-04:00.jpg"
+     alt="New York Post at 2022-07-29 11:50:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-29T11:50:34.948593-04:00.jpg">July 29 at 11:50 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nypost-2022/nypost-2022-07-28T23:45:58.950921-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-24T02:17:50.996647-04:00.jpg">July 24 at 2:17 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nypost-2022/nypost-2022-07-23T11:04:36.449391-04:00.jpg">
-  <img src="https://archive.org/download/nypost-2022/nypost-2022-07-23T11:04:36.449391-04:00.jpg"
-     alt="New York Post at 2022-07-23 11:04:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-07-23T11:04:36.449391-04:00.jpg">July 23 at 11:04 AM</a></p>
 </div>
 
 </div>
@@ -434,7 +434,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 11:50 AM](https://archive.org/download/nypost-2022/nypost-2022-07-29T11:50:34.948593-04:00.lighthouse.json) |
 | [July 28 at 11:46 PM](https://archive.org/download/nypost-2022/nypost-2022-07-28T23:45:58.950921-04:00.lighthouse.json) |
 | [July 28 at 11:48 AM](https://archive.org/download/nypost-2022/nypost-2022-07-28T11:48:32.017851-04:00.lighthouse.json) |
 | [July 27 at 11:41 PM](https://archive.org/download/nypost-2022/nypost-2022-07-27T23:41:37.838641-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 25 at 11:53 PM](https://archive.org/download/nypost-2022/nypost-2022-07-25T23:53:30.588837-04:00.lighthouse.json) |
 | [July 25 at 11:34 AM](https://archive.org/download/nypost-2022/nypost-2022-07-25T11:34:41.013253-04:00.lighthouse.json) |
 | [July 24 at 11:37 PM](https://archive.org/download/nypost-2022/nypost-2022-07-24T23:37:37.711518-04:00.lighthouse.json) |
-| [July 24 at 9:58 AM](https://archive.org/download/nypost-2022/nypost-2022-07-24T09:58:16.955454-04:00.lighthouse.json) |
 
 
 

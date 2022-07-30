@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 7 screenshots with the Internet Archive.
+The archiving routine has saved 8 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-07-29T18:00:05.937858+02:00.jpg">
+  <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-07-29T18:00:05.937858+02:00.jpg"
+     alt="Zeit at 2022-07-29 18:00:07+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-07-29T18:00:05.937858+02:00.jpg">July 29 at 6:00 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-07-29T05:54:43.028186+02:00.jpg">
@@ -95,7 +104,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 7 hyperlink lists with the Internet Archive.
+The archiving routine has saved 8 hyperlink lists with the Internet Archive.
 
 
 
@@ -103,6 +112,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 6:00 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-29T18:00:05.937858+02:00.hyperlinks.json) |
 | [July 29 at 5:54 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-29T05:54:43.028186+02:00.hyperlinks.json) |
 | [July 28 at 5:57 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-28T17:57:54.835832+02:00.hyperlinks.json) |
 | [July 28 at 5:51 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-28T05:51:11.279183+02:00.hyperlinks.json) |
@@ -114,7 +124,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 7 accessibility trees with the Internet Archive.
+The archiving routine has saved 8 accessibility trees with the Internet Archive.
 
 
 
@@ -122,6 +132,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 6:00 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-29T18:00:05.937858+02:00.accessibility.json) |
 | [July 29 at 5:54 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-29T05:54:43.028186+02:00.accessibility.json) |
 | [July 28 at 5:57 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-28T17:57:54.835832+02:00.accessibility.json) |
 | [July 28 at 5:51 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-28T05:51:11.279183+02:00.accessibility.json) |
@@ -134,7 +145,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 7 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 8 Lighthouse audits with the Internet Archive.
 
 
 
@@ -142,6 +153,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 6:00 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-29T18:00:05.937858+02:00.lighthouse.json) |
 | [July 29 at 5:54 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-29T05:54:43.028186+02:00.lighthouse.json) |
 | [July 28 at 5:58 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-28T17:57:54.835832+02:00.lighthouse.json) |
 | [July 28 at 5:51 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-07-28T05:51:11.279183+02:00.lighthouse.json) |

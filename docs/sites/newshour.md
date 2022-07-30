@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 147 screenshots with the Internet Archive.
+The archiving routine has saved 150 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/newshour-2022/newshour-2022-07-29T20:13:56.089519-04:00.jpg">
+  <img src="https://archive.org/download/newshour-2022/newshour-2022-07-29T20:13:56.089519-04:00.jpg"
+     alt="PBS News Hour at 2022-07-29 20:13:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-07-29T20:13:56.089519-04:00.jpg">July 29 at 8:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newshour-2022/newshour-2022-07-29T17:13:44.198831-04:00.jpg">
+  <img src="https://archive.org/download/newshour-2022/newshour-2022-07-29T17:13:44.198831-04:00.jpg"
+     alt="PBS News Hour at 2022-07-29 17:13:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-07-29T17:13:44.198831-04:00.jpg">July 29 at 5:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newshour-2022/newshour-2022-07-29T11:49:53.809817-04:00.jpg">
+  <img src="https://archive.org/download/newshour-2022/newshour-2022-07-29T11:49:53.809817-04:00.jpg"
+     alt="PBS News Hour at 2022-07-29 11:50:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-07-29T11:49:53.809817-04:00.jpg">July 29 at 11:50 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/newshour-2022/newshour-2022-07-29T08:21:00.367234-04:00.jpg">
   <img src="https://archive.org/download/newshour-2022/newshour-2022-07-29T08:21:00.367234-04:00.jpg"
      alt="PBS News Hour at 2022-07-29 08:21:09-04:00 local time"
@@ -192,38 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newshour-2022/newshour-2022-07-27T09:12:13.488801-04:00.jpg">July 27 at 9:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newshour-2022/newshour-2022-07-26T20:17:10.507180-04:00.jpg">
-  <img src="https://archive.org/download/newshour-2022/newshour-2022-07-26T20:17:10.507180-04:00.jpg"
-     alt="PBS News Hour at 2022-07-26 20:17:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-07-26T20:17:10.507180-04:00.jpg">July 26 at 8:17 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newshour-2022/newshour-2022-07-26T17:11:57.878192-04:00.jpg">
-  <img src="https://archive.org/download/newshour-2022/newshour-2022-07-26T17:11:57.878192-04:00.jpg"
-     alt="PBS News Hour at 2022-07-26 17:12:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-07-26T17:11:57.878192-04:00.jpg">July 26 at 5:12 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newshour-2022/newshour-2022-07-26T11:58:36.186122-04:00.jpg">
-  <img src="https://archive.org/download/newshour-2022/newshour-2022-07-26T11:58:36.186122-04:00.jpg"
-     alt="PBS News Hour at 2022-07-26 11:58:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-07-26T11:58:36.186122-04:00.jpg">July 26 at 11:58 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 150 hyperlink lists with the Internet Archive.
+The archiving routine has saved 153 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 29 at 8:14 PM](https://archive.org/download/newshour-2022/newshour-2022-07-29T20:13:56.089519-04:00.hyperlinks.json) |
+| [July 29 at 5:13 PM](https://archive.org/download/newshour-2022/newshour-2022-07-29T17:13:44.198831-04:00.hyperlinks.json) |
+| [July 29 at 11:50 AM](https://archive.org/download/newshour-2022/newshour-2022-07-29T11:49:53.809817-04:00.hyperlinks.json) |
 | [July 29 at 8:21 AM](https://archive.org/download/newshour-2022/newshour-2022-07-29T08:21:00.367234-04:00.hyperlinks.json) |
 | [July 28 at 8:16 PM](https://archive.org/download/newshour-2022/newshour-2022-07-28T20:16:22.929336-04:00.hyperlinks.json) |
 | [July 28 at 5:14 PM](https://archive.org/download/newshour-2022/newshour-2022-07-28T17:14:34.625393-04:00.hyperlinks.json) |
@@ -321,14 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 9:14 AM](https://archive.org/download/newshour-2022/newshour-2022-07-28T09:14:14.292134-04:00.hyperlinks.json) |
 | [July 27 at 8:08 PM](https://archive.org/download/newshour-2022/newshour-2022-07-27T20:08:04.604178-04:00.hyperlinks.json) |
 | [July 27 at 5:13 PM](https://archive.org/download/newshour-2022/newshour-2022-07-27T17:13:17.287100-04:00.hyperlinks.json) |
-| [July 27 at 11:59 AM](https://archive.org/download/newshour-2022/newshour-2022-07-27T11:59:30.203144-04:00.hyperlinks.json) |
-| [July 27 at 9:12 AM](https://archive.org/download/newshour-2022/newshour-2022-07-27T09:12:13.488801-04:00.hyperlinks.json) |
-| [July 26 at 8:17 PM](https://archive.org/download/newshour-2022/newshour-2022-07-26T20:17:10.507180-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 150 accessibility trees with the Internet Archive.
+The archiving routine has saved 153 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 29 at 8:13 PM](https://archive.org/download/newshour-2022/newshour-2022-07-29T20:13:56.089519-04:00.accessibility.json) |
+| [July 29 at 5:13 PM](https://archive.org/download/newshour-2022/newshour-2022-07-29T17:13:44.198831-04:00.accessibility.json) |
+| [July 29 at 11:50 AM](https://archive.org/download/newshour-2022/newshour-2022-07-29T11:49:53.809817-04:00.accessibility.json) |
 | [July 29 at 8:21 AM](https://archive.org/download/newshour-2022/newshour-2022-07-29T08:21:00.367234-04:00.accessibility.json) |
 | [July 28 at 8:16 PM](https://archive.org/download/newshour-2022/newshour-2022-07-28T20:16:22.929336-04:00.accessibility.json) |
 | [July 28 at 5:14 PM](https://archive.org/download/newshour-2022/newshour-2022-07-28T17:14:34.625393-04:00.accessibility.json) |
@@ -426,15 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 9:14 AM](https://archive.org/download/newshour-2022/newshour-2022-07-28T09:14:14.292134-04:00.accessibility.json) |
 | [July 27 at 8:08 PM](https://archive.org/download/newshour-2022/newshour-2022-07-27T20:08:04.604178-04:00.accessibility.json) |
 | [July 27 at 5:13 PM](https://archive.org/download/newshour-2022/newshour-2022-07-27T17:13:17.287100-04:00.accessibility.json) |
-| [July 27 at 11:59 AM](https://archive.org/download/newshour-2022/newshour-2022-07-27T11:59:30.203144-04:00.accessibility.json) |
-| [July 27 at 9:12 AM](https://archive.org/download/newshour-2022/newshour-2022-07-27T09:12:13.488801-04:00.accessibility.json) |
-| [July 26 at 8:17 PM](https://archive.org/download/newshour-2022/newshour-2022-07-26T20:17:10.507180-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 29 at 8:14 PM](https://archive.org/download/newshour-2022/newshour-2022-07-29T20:13:56.089519-04:00.lighthouse.json) |
+| [July 29 at 5:13 PM](https://archive.org/download/newshour-2022/newshour-2022-07-29T17:13:44.198831-04:00.lighthouse.json) |
+| [July 29 at 11:50 AM](https://archive.org/download/newshour-2022/newshour-2022-07-29T11:49:53.809817-04:00.lighthouse.json) |
 | [July 29 at 8:21 AM](https://archive.org/download/newshour-2022/newshour-2022-07-29T08:21:00.367234-04:00.lighthouse.json) |
 | [July 28 at 8:16 PM](https://archive.org/download/newshour-2022/newshour-2022-07-28T20:16:22.929336-04:00.lighthouse.json) |
 | [July 28 at 5:14 PM](https://archive.org/download/newshour-2022/newshour-2022-07-28T17:14:34.625393-04:00.lighthouse.json) |
@@ -449,9 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 9:14 AM](https://archive.org/download/newshour-2022/newshour-2022-07-28T09:14:14.292134-04:00.lighthouse.json) |
 | [July 27 at 8:08 PM](https://archive.org/download/newshour-2022/newshour-2022-07-27T20:08:04.604178-04:00.lighthouse.json) |
 | [July 27 at 5:13 PM](https://archive.org/download/newshour-2022/newshour-2022-07-27T17:13:17.287100-04:00.lighthouse.json) |
-| [July 27 at 11:59 AM](https://archive.org/download/newshour-2022/newshour-2022-07-27T11:59:30.203144-04:00.lighthouse.json) |
-| [July 27 at 9:12 AM](https://archive.org/download/newshour-2022/newshour-2022-07-27T09:12:13.488801-04:00.lighthouse.json) |
-| [July 26 at 8:17 PM](https://archive.org/download/newshour-2022/newshour-2022-07-26T20:17:10.507180-04:00.lighthouse.json) |
 
 
 
