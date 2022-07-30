@@ -131,6 +131,14 @@ def get_accessibility_list() -> typing.List[typing.Dict[str, typing.Any]]:
     return sorted_list
 
 
+def get_accessibility_df() -> pd.DataFrame:
+    """Get the full list of accessibility files from our extracts.
+
+    Returns a DataFrame.
+    """
+    return _get_extract_files_df("accessibility-files.csv")
+
+
 def get_screenshot_list() -> typing.List[typing.Dict[str, typing.Any]]:
     """Get the full list of screenshots from our extracts.
 
@@ -178,22 +186,7 @@ def get_hyperlink_df() -> pd.DataFrame:
 
     Returns a DataFrame.
     """
-    df = pd.read_csv(
-        EXTRACT_DIR / "csv" / "hyperlink-files.csv",
-        parse_dates=["mtime"],
-        usecols=[
-            "identifier",
-            "handle",
-            "file_name",
-            "url",
-            "mtime",
-            "size",
-            "md5",
-            "sha1",
-        ],
-    )
-    df["date"] = pd.to_datetime(df.mtime.dt.date)
-    return df.sort_values("mtime", ascending=True)
+    return _get_extract_files_df("hyperlink-files.csv")
 
 
 def get_lighthouse_list() -> typing.List[typing.Dict[str, typing.Any]]:
@@ -222,8 +215,12 @@ def get_lighthouse_df() -> pd.DataFrame:
 
     Returns a DataFrame.
     """
+    return _get_extract_files_df("lighthouse-files.csv")
+
+
+def _get_extract_files_df(name) -> pd.DataFrame:
     df = pd.read_csv(
-        EXTRACT_DIR / "csv" / "lighthouse-files.csv",
+        EXTRACT_DIR / "csv" / name,
         parse_dates=["mtime"],
         usecols=[
             "identifier",
