@@ -139,6 +139,7 @@ def _screenshot(
             ".adunit-googleadmanager",  # Google ad
             ".mc-modal",  # Newsletter popup
             ".mc-modal-bg",
+            ".blockNavigation",
         ]
         target_str = ",".join(target_list)
         javascript = f"""
