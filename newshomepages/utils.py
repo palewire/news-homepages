@@ -217,6 +217,29 @@ def get_lighthouse_list() -> typing.List[typing.Dict[str, typing.Any]]:
     return sorted_list
 
 
+def get_lighthouse_df() -> pd.DataFrame:
+    """Get the full list of Lighthouse files from our extracts.
+
+    Returns a DataFrame.
+    """
+    df = pd.read_csv(
+        EXTRACT_DIR / "csv" / "lighthouse-files.csv",
+        parse_dates=["mtime"],
+        usecols=[
+            "identifier",
+            "handle",
+            "file_name",
+            "url",
+            "mtime",
+            "size",
+            "md5",
+            "sha1",
+        ],
+    )
+    df["date"] = pd.to_datetime(df.mtime.dt.date)
+    return df.sort_values("mtime", ascending=True)
+
+
 def get_screenshots_by_site(site: typing.Dict) -> typing.List[typing.Dict]:
     """Get the list of screenshots for the provided site.
 
