@@ -16,7 +16,7 @@ orphan: true
 | Twitter handle | [@people](https://www.twitter.com/people)                                                                                  |
 | Location       | New York City                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
-| Bundles        |  |
+| Bundles        | <a href="../bundles/entertainment.html">Entertainment</a>  |
 
 ## Screenshots
 

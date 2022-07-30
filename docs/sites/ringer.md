@@ -16,7 +16,7 @@ orphan: true
 | Twitter handle | [@ringer](https://www.twitter.com/ringer)                                                                                  |
 | Location       | Los Angeles                                                                                                                              |
 | Timezone       | America/Los_Angeles                                                                                                                              |
-| Bundles        |  |
+| Bundles        | <a href="../bundles/entertainment.html">Entertainment</a>  |
 
 ## Screenshots
 

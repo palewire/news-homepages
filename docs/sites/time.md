@@ -16,7 +16,7 @@ orphan: true
 | Twitter handle | [@TIME](https://www.twitter.com/TIME)                                                                                  |
 | Location       | New York City                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
-| Bundles        |  |
+| Bundles        | <a href="../bundles/us-national.html">U.S. national news</a>  |
 
 ## Screenshots
 

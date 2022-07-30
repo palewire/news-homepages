@@ -16,7 +16,7 @@ orphan: true
 | Twitter handle | [@BINJreports](https://www.twitter.com/BINJreports)                                                                                  |
 | Location       | Somerville                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
-| Bundles        |  |
+| Bundles        | <a href="../bundles/massachusetts.html">Massachusetts</a>  |
 
 ## Screenshots
 

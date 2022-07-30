@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 678 news sites.
+The most recent homepages captured from 684 news sites.
 
 <div class="latest-parent">
 
@@ -86,6 +86,15 @@ The most recent homepages captured from 678 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/41nbc.html">41NBC / WMGT</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/wowt6news.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wowt6news.jpg"
+     alt="6 News WOWT"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/wowt6news.html">6 News WOWT</a></p>
 </div>
 
 <div class="latest-child">
@@ -1529,6 +1538,15 @@ The most recent homepages captured from 678 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dailyneb.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailyneb.jpg"
+     alt="Daily Nebraskan"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/dailyneb.html">Daily Nebraskan</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/nydailynews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nydailynews.jpg"
      alt="Daily News"
@@ -2879,6 +2897,15 @@ The most recent homepages captured from 678 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/ketv.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ketv.jpg"
+     alt="KETV NewsWatch 7"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/ketv.html">KETV NewsWatch 7</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/kgounews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kgounews.jpg"
      alt="KGOU"
@@ -2903,6 +2930,15 @@ The most recent homepages captured from 678 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/king5seattle.html">KING5</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/3newsnowomaha.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/3newsnowomaha.jpg"
+     alt="KMTV 3 News Now"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/3newsnowomaha.html">KMTV 3 News Now</a></p>
 </div>
 
 <div class="latest-child">
@@ -3263,6 +3299,15 @@ The most recent homepages captured from 678 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/libe.html">Libération</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/journalstarnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/journalstarnews.jpg"
+     alt="Lincoln Journal Star"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/journalstarnews.html">Lincoln Journal Star</a></p>
 </div>
 
 <div class="latest-child">
@@ -4055,6 +4100,15 @@ The most recent homepages captured from 678 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/theoklahoman_.html">Oklahoman</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/owhnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/owhnews.jpg"
+     alt="Omaha World Herald"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/owhnews.html">Omaha World Herald</a></p>
 </div>
 
 <div class="latest-child">
