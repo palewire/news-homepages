@@ -37,7 +37,7 @@ def cli(artifact_path: str):
         if not requests.get(jpg_url).ok:
             # If it doesn't work, wait again
             print("Waiting one more time ...")
-            time.sleep(180)
+            time.sleep(180 * 2)
             if not requests.get(jpg_url).ok:
                 # If it still fails, throw an error
                 print("URL does not exist")
