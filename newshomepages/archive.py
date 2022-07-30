@@ -7,6 +7,7 @@ from pathlib import Path
 import click
 import internetarchive
 import pytz
+from rich import print
 
 from . import utils
 
@@ -56,7 +57,7 @@ def _upload(data: dict, input_dir: str):
 
     # If there are no file, squawk but move on
     if not file_dict:
-        click.echo(f"No files found for {handle}")
+        print(f"No files found for {handle}")
         return
 
     # Get secrets
