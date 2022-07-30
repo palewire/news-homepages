@@ -17,7 +17,7 @@ runs:
   steps:
     - id: download
       name: Download Internet Archive metadata
-      run: pipenv run python -m newshomepages.extract download;
+      run: pipenv run python -m newshomepages.extract download-items;
       shell: bash
       env:
         IA_ACCESS_KEY: ${{ inputs.access-key }}

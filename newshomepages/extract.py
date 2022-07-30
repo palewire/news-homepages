@@ -26,7 +26,7 @@ def cli():
 
 @cli.command()
 @click.option("-y", "--year", "year", default=CURRENT_YEAR)
-def download(year: str):
+def download_items(year: str):
     """Download the full list of Internet Archive items as JSON."""
     print(
         f"Extracting {year} metadata for the Internet Archive collection {IA_COLLECTION}"
