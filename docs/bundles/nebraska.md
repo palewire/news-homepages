@@ -7,7 +7,7 @@ orphan: true
 
 # Nebraska
 
-The most recent homepages from 7 news sites in this bundle.
+The most recent homepages from 9 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -66,6 +66,24 @@ The most recent homepages from 7 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/nebpublicmedia.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nebpublicmedia.jpg"
+     alt="Nebraska Public Media"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/nebpublicmedia.html">Nebraska Public Media</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/newschannelne.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newschannelne.jpg"
+     alt="News Channel Nebraska"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/newschannelne.html">News Channel Nebraska</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/owhnews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/owhnews.jpg"
      alt="Omaha World Herald"
@@ -95,4 +113,6 @@ The most recent homepages from 7 news sites in this bundle.
 |[KETV NewsWatch 7](https://palewi.re/docs/news-homepages/sites/ketv.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ketv.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ketv.xml)|
 |[KMTV 3 News Now](https://palewi.re/docs/news-homepages/sites/3newsnowomaha.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/3newsnowomaha.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/3newsnowomaha.xml)|
 |[Lincoln Journal Star](https://palewi.re/docs/news-homepages/sites/journalstarnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/journalstarnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/journalstarnews.xml)|
+|[Nebraska Public Media](https://palewi.re/docs/news-homepages/sites/nebpublicmedia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nebpublicmedia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nebpublicmedia.xml)|
+|[News Channel Nebraska](https://palewi.re/docs/news-homepages/sites/newschannelne.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newschannelne.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newschannelne.xml)|
 |[Omaha World Herald](https://palewi.re/docs/news-homepages/sites/owhnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/owhnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/owhnews.xml)|

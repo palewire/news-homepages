@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 684 news sites.
+The most recent homepages captured from 686 news sites.
 
 <div class="latest-parent">
 
@@ -3797,6 +3797,15 @@ The most recent homepages captured from 684 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/nebpublicmedia.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nebpublicmedia.jpg"
+     alt="Nebraska Public Media"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/nebpublicmedia.html">Nebraska Public Media</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/nepalkhabar24.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nepalkhabar24.jpg"
      alt="Nepal Khabar"
@@ -3938,6 +3947,15 @@ The most recent homepages captured from 684 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/kvoa.html">News 4</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/newschannelne.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newschannelne.jpg"
+     alt="News Channel Nebraska"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/newschannelne.html">News Channel Nebraska</a></p>
 </div>
 
 <div class="latest-child">

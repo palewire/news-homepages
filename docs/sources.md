@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 684 sites.
+The archiving routine is currently capturing 686 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -430,6 +430,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[NBC DFW](https://palewi.re/docs/news-homepages/sites/nbcdfw.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcdfw.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcdfw.xml)|
 |[NBC News](https://palewi.re/docs/news-homepages/sites/nbcnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcnews.xml)|
 |[NBC10 Philadelphia](https://palewi.re/docs/news-homepages/sites/nbcphiladelphia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcphiladelphia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcphiladelphia.xml)|
+|[Nebraska Public Media](https://palewi.re/docs/news-homepages/sites/nebpublicmedia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nebpublicmedia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nebpublicmedia.xml)|
 |[Nepal Khabar](https://palewi.re/docs/news-homepages/sites/nepalkhabar24.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nepalkhabar24.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nepalkhabar24.xml)|
 |[Nepal Samacharpatra](https://palewi.re/docs/news-homepages/sites/enewsofnepal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/enewsofnepal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/enewsofnepal.xml)|
 |[Nettavisen](https://palewi.re/docs/news-homepages/sites/nettavisen.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nettavisen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nettavisen.xml)|
@@ -446,6 +447,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[News & Observer](https://palewi.re/docs/news-homepages/sites/newsobserver.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsobserver.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newsobserver.xml)|
 |[News 12 NBC 26](https://palewi.re/docs/news-homepages/sites/wrdw_wagt.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wrdw_wagt.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wrdw_wagt.xml)|
 |[News 4](https://palewi.re/docs/news-homepages/sites/kvoa.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kvoa.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kvoa.xml)|
+|[News Channel Nebraska](https://palewi.re/docs/news-homepages/sites/newschannelne.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newschannelne.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newschannelne.xml)|
 |[News12NJ](https://palewi.re/docs/news-homepages/sites/news12nj.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/news12nj.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/news12nj.xml)|
 |[Newsday](https://palewi.re/docs/news-homepages/sites/newsday.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsday.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newsday.xml)|
 |[Newsmax](https://palewi.re/docs/news-homepages/sites/newsmax.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsmax.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newsmax.xml)|
