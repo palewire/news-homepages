@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 37 screenshots with the Internet Archive.
+The archiving routine has saved 38 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 37 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-30T19:13:23.600802-04:00.jpg">
+  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-30T19:13:23.600802-04:00.jpg"
+     alt="Baltimore Magazine at 2022-07-30 19:13:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-30T19:13:23.600802-04:00.jpg">July 30 at 7:13 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-30T07:10:19.514150-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-25T06:58:44.002922-04:00.jpg">July 25 at 6:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-24T20:49:03.266553-04:00.jpg">
-  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-24T20:49:03.266553-04:00.jpg"
-     alt="Baltimore Magazine at 2022-07-24 20:49:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-24T20:49:03.266553-04:00.jpg">July 24 at 8:49 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 37 hyperlink lists with the Internet Archive.
+The archiving routine has saved 38 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 7:13 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-30T19:13:23.600802-04:00.hyperlinks.json) |
 | [July 30 at 7:10 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-30T07:10:19.514150-04:00.hyperlinks.json) |
 | [July 29 at 8:01 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-29T20:01:19.791102-04:00.hyperlinks.json) |
 | [July 29 at 7:04 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-29T07:04:32.151917-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 27 at 7:02 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-27T07:02:14.005532-04:00.hyperlinks.json) |
 | [July 26 at 7:04 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-26T19:04:12.309816-04:00.hyperlinks.json) |
 | [July 26 at 7:12 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-26T07:12:25.498078-04:00.hyperlinks.json) |
-| [July 25 at 7:08 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-25T19:08:34.417869-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 37 accessibility trees with the Internet Archive.
+The archiving routine has saved 38 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 7:13 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-30T19:13:23.600802-04:00.accessibility.json) |
 | [July 30 at 7:10 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-30T07:10:19.514150-04:00.accessibility.json) |
 | [July 29 at 8:01 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-29T20:01:19.791102-04:00.accessibility.json) |
 | [July 29 at 7:04 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-29T07:04:32.151917-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 27 at 7:02 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-27T07:02:14.005532-04:00.accessibility.json) |
 | [July 26 at 7:04 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-26T19:04:12.309816-04:00.accessibility.json) |
 | [July 26 at 7:12 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-26T07:12:25.498078-04:00.accessibility.json) |
-| [July 25 at 7:08 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-25T19:08:34.417869-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 7:13 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-30T19:13:23.600802-04:00.lighthouse.json) |
 | [July 30 at 7:10 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-30T07:10:19.514150-04:00.lighthouse.json) |
 | [July 29 at 8:01 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-29T20:01:19.791102-04:00.lighthouse.json) |
 | [July 29 at 7:04 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-29T07:04:32.151917-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 7:02 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-27T07:02:14.005532-04:00.lighthouse.json) |
 | [July 26 at 7:04 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-26T19:04:12.309816-04:00.lighthouse.json) |
 | [July 26 at 7:12 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-26T07:12:25.498078-04:00.lighthouse.json) |
-| [July 25 at 7:08 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-07-25T19:08:34.417869-04:00.lighthouse.json) |
 
 
 

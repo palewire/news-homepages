@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 57 screenshots with the Internet Archive.
+The archiving routine has saved 58 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 57 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-30T19:19:33.065650-04:00.jpg">
+  <img src="https://archive.org/download/gothamist-2022/gothamist-2022-07-30T19:19:33.065650-04:00.jpg"
+     alt="Gothamist at 2022-07-30 19:19:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-30T19:19:33.065650-04:00.jpg">July 30 at 7:19 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-30T07:18:28.221488-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-25T08:04:41.633713-04:00.jpg">July 25 at 8:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-24T21:09:12.176315-04:00.jpg">
-  <img src="https://archive.org/download/gothamist-2022/gothamist-2022-07-24T21:09:12.176315-04:00.jpg"
-     alt="Gothamist at 2022-07-24 21:09:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-07-24T21:09:12.176315-04:00.jpg">July 24 at 9:09 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 57 hyperlink lists with the Internet Archive.
+The archiving routine has saved 58 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 7:19 PM](https://archive.org/download/gothamist-2022/gothamist-2022-07-30T19:19:33.065650-04:00.hyperlinks.json) |
 | [July 30 at 7:18 AM](https://archive.org/download/gothamist-2022/gothamist-2022-07-30T07:18:28.221488-04:00.hyperlinks.json) |
 | [July 29 at 8:08 PM](https://archive.org/download/gothamist-2022/gothamist-2022-07-29T20:08:09.366064-04:00.hyperlinks.json) |
 | [July 29 at 7:11 AM](https://archive.org/download/gothamist-2022/gothamist-2022-07-29T07:11:35.645674-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 27 at 7:08 AM](https://archive.org/download/gothamist-2022/gothamist-2022-07-27T07:08:55.234849-04:00.hyperlinks.json) |
 | [July 26 at 7:10 PM](https://archive.org/download/gothamist-2022/gothamist-2022-07-26T19:10:28.438144-04:00.hyperlinks.json) |
 | [July 26 at 7:19 AM](https://archive.org/download/gothamist-2022/gothamist-2022-07-26T07:19:28.129876-04:00.hyperlinks.json) |
-| [July 25 at 7:16 PM](https://archive.org/download/gothamist-2022/gothamist-2022-07-25T19:16:00.371760-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 57 accessibility trees with the Internet Archive.
+The archiving routine has saved 58 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 7:19 PM](https://archive.org/download/gothamist-2022/gothamist-2022-07-30T19:19:33.065650-04:00.accessibility.json) |
 | [July 30 at 7:18 AM](https://archive.org/download/gothamist-2022/gothamist-2022-07-30T07:18:28.221488-04:00.accessibility.json) |
 | [July 29 at 8:08 PM](https://archive.org/download/gothamist-2022/gothamist-2022-07-29T20:08:09.366064-04:00.accessibility.json) |
 | [July 29 at 7:11 AM](https://archive.org/download/gothamist-2022/gothamist-2022-07-29T07:11:35.645674-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 27 at 7:08 AM](https://archive.org/download/gothamist-2022/gothamist-2022-07-27T07:08:55.234849-04:00.accessibility.json) |
 | [July 26 at 7:10 PM](https://archive.org/download/gothamist-2022/gothamist-2022-07-26T19:10:28.438144-04:00.accessibility.json) |
 | [July 26 at 7:19 AM](https://archive.org/download/gothamist-2022/gothamist-2022-07-26T07:19:28.129876-04:00.accessibility.json) |
-| [July 25 at 7:16 PM](https://archive.org/download/gothamist-2022/gothamist-2022-07-25T19:16:00.371760-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 7:19 PM](https://archive.org/download/gothamist-2022/gothamist-2022-07-30T19:19:33.065650-04:00.lighthouse.json) |
 | [July 30 at 7:18 AM](https://archive.org/download/gothamist-2022/gothamist-2022-07-30T07:18:28.221488-04:00.lighthouse.json) |
 | [July 29 at 8:08 PM](https://archive.org/download/gothamist-2022/gothamist-2022-07-29T20:08:09.366064-04:00.lighthouse.json) |
 | [July 29 at 7:11 AM](https://archive.org/download/gothamist-2022/gothamist-2022-07-29T07:11:35.645674-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 7:09 AM](https://archive.org/download/gothamist-2022/gothamist-2022-07-27T07:08:55.234849-04:00.lighthouse.json) |
 | [July 26 at 7:10 PM](https://archive.org/download/gothamist-2022/gothamist-2022-07-26T19:10:28.438144-04:00.lighthouse.json) |
 | [July 26 at 7:19 AM](https://archive.org/download/gothamist-2022/gothamist-2022-07-26T07:19:28.129876-04:00.lighthouse.json) |
-| [July 25 at 7:16 PM](https://archive.org/download/gothamist-2022/gothamist-2022-07-25T19:16:00.371760-04:00.lighthouse.json) |
 
 
 

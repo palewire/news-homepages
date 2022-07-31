@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-30T19:29:18.766131-05:00.jpg">
+  <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-30T19:29:18.766131-05:00.jpg"
+     alt="NBC DFW at 2022-07-30 19:29:20-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-30T19:29:18.766131-05:00.jpg">July 30 at 7:29 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-30T07:24:55.411801-05:00.jpg">
@@ -127,15 +136,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T08:16:19.906377-05:00.jpg">July 25 at 8:16 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T22:35:37.687847-05:00.jpg">
-  <img src="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T22:35:37.687847-05:00.jpg"
-     alt="NBC DFW at 2022-07-24 22:35:38-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-24T22:35:37.687847-05:00.jpg">July 24 at 10:35 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
@@ -162,7 +162,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 7:29 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-30T19:29:18.766131-05:00.accessibility.json) |
 | [July 30 at 7:24 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-30T07:24:55.411801-05:00.accessibility.json) |
 | [July 29 at 7:12 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-29T19:12:36.994362-05:00.accessibility.json) |
 | [July 29 at 7:20 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-29T07:20:22.164485-05:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 27 at 8:11 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T08:11:03.944359-05:00.accessibility.json) |
 | [July 26 at 7:15 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T19:15:40.642990-05:00.accessibility.json) |
 | [July 26 at 7:25 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T07:25:12.858755-05:00.accessibility.json) |
-| [July 25 at 7:20 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T19:20:29.877977-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 7:29 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-30T19:29:18.766131-05:00.lighthouse.json) |
 | [July 30 at 7:25 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-30T07:24:55.411801-05:00.lighthouse.json) |
 | [July 29 at 7:12 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-29T19:12:36.994362-05:00.lighthouse.json) |
 | [July 29 at 7:20 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-29T07:20:22.164485-05:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 8:11 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-27T08:11:03.944359-05:00.lighthouse.json) |
 | [July 26 at 7:15 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T19:15:40.642990-05:00.lighthouse.json) |
 | [July 26 at 7:25 AM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-26T07:25:12.858755-05:00.lighthouse.json) |
-| [July 25 at 7:20 PM](https://archive.org/download/nbcdfw-2022/nbcdfw-2022-07-25T19:20:29.877977-05:00.lighthouse.json) |
 
 
 

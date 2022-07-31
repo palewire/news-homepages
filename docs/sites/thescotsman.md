@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 49 screenshots with the Internet Archive.
+The archiving routine has saved 50 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 49 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-30T14:37:01.193674+01:00.jpg">
+  <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-30T14:37:01.193674+01:00.jpg"
+     alt="Scotsman at 2022-07-30 14:37:02+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-30T14:37:01.193674+01:00.jpg">July 30 at 2:37 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-30T02:23:33.092310+01:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T16:48:10.301022+01:00.jpg">July 25 at 4:48 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T05:37:15.371317+01:00.jpg">
-  <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T05:37:15.371317+01:00.jpg"
-     alt="Scotsman at 2022-07-25 05:37:18+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T05:37:15.371317+01:00.jpg">July 25 at 5:37 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 41 hyperlink lists with the Internet Archive.
+The archiving routine has saved 42 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 2:37 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-30T14:37:01.193674+01:00.hyperlinks.json) |
 | [July 30 at 2:23 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-30T02:23:33.092310+01:00.hyperlinks.json) |
 | [July 29 at 2:35 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-29T14:35:02.388694+01:00.hyperlinks.json) |
 | [July 29 at 2:27 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-29T02:27:50.169728+01:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 2:31 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T14:31:15.501019+01:00.hyperlinks.json) |
 | [July 26 at 3:53 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T03:53:49.701297+01:00.hyperlinks.json) |
 | [July 26 at 2:36 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T02:36:34.045336+01:00.hyperlinks.json) |
-| [July 25 at 4:48 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T16:48:10.301022+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 40 accessibility trees with the Internet Archive.
+The archiving routine has saved 41 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 2:37 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-30T14:37:01.193674+01:00.accessibility.json) |
 | [July 29 at 2:35 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-29T14:35:02.388694+01:00.accessibility.json) |
 | [July 29 at 2:27 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-29T02:27:50.169728+01:00.accessibility.json) |
 | [July 28 at 2:26 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-28T14:26:54.068663+01:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 26 at 2:31 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T14:31:15.501019+01:00.accessibility.json) |
 | [July 26 at 3:53 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T03:53:49.701297+01:00.accessibility.json) |
 | [July 26 at 2:36 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T02:36:34.045336+01:00.accessibility.json) |
-| [July 25 at 4:48 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-25T16:48:10.301022+01:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 2:37 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-30T14:37:01.193674+01:00.lighthouse.json) |
 | [July 30 at 2:23 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-30T02:23:33.092310+01:00.lighthouse.json) |
 | [July 29 at 2:35 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-29T14:35:02.388694+01:00.lighthouse.json) |
 | [July 29 at 2:27 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-29T02:27:50.169728+01:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 2:29 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-27T02:29:34.547927+01:00.lighthouse.json) |
 | [July 26 at 2:31 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T14:31:15.501019+01:00.lighthouse.json) |
 | [July 26 at 3:54 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T03:53:49.701297+01:00.lighthouse.json) |
-| [July 26 at 2:36 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-07-26T02:36:34.045336+01:00.lighthouse.json) |
 
 
 

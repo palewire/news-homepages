@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 38 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/infowars-2022/infowars-2022-07-30T13:41:45.806358-05:00.jpg">
+  <img src="https://archive.org/download/infowars-2022/infowars-2022-07-30T13:41:45.806358-05:00.jpg"
+     alt="Infowars at 2022-07-30 13:41:48-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-30T13:41:45.806358-05:00.jpg">July 30 at 1:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/infowars-2022/infowars-2022-07-30T10:41:30.895812-05:00.jpg">
+  <img src="https://archive.org/download/infowars-2022/infowars-2022-07-30T10:41:30.895812-05:00.jpg"
+     alt="Infowars at 2022-07-30 10:41:33-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-30T10:41:30.895812-05:00.jpg">July 30 at 10:41 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/infowars-2022/infowars-2022-07-29T21:41:27.397557-05:00.jpg">
   <img src="https://archive.org/download/infowars-2022/infowars-2022-07-29T21:41:27.397557-05:00.jpg"
      alt="Infowars at 2022-07-29 21:41:29-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-26T13:35:32.588098-05:00.jpg">July 26 at 1:35 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/infowars-2022/infowars-2022-07-26T09:36:41.173712-05:00.jpg">
-  <img src="https://archive.org/download/infowars-2022/infowars-2022-07-26T09:36:41.173712-05:00.jpg"
-     alt="Infowars at 2022-07-26 09:36:42-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-26T09:36:41.173712-05:00.jpg">July 26 at 9:36 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T21:45:11.844862-05:00.jpg">
-  <img src="https://archive.org/download/infowars-2022/infowars-2022-07-25T21:45:11.844862-05:00.jpg"
-     alt="Infowars at 2022-07-25 21:45:13-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-07-25T21:45:11.844862-05:00.jpg">July 25 at 9:45 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 37 hyperlink lists with the Internet Archive.
+The archiving routine has saved 39 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 1:41 PM](https://archive.org/download/infowars-2022/infowars-2022-07-30T13:41:45.806358-05:00.hyperlinks.json) |
+| [July 30 at 10:41 AM](https://archive.org/download/infowars-2022/infowars-2022-07-30T10:41:30.895812-05:00.hyperlinks.json) |
 | [July 29 at 9:41 PM](https://archive.org/download/infowars-2022/infowars-2022-07-29T21:41:27.397557-05:00.hyperlinks.json) |
 | [July 29 at 1:35 PM](https://archive.org/download/infowars-2022/infowars-2022-07-29T13:35:05.460853-05:00.hyperlinks.json) |
 | [July 29 at 9:40 AM](https://archive.org/download/infowars-2022/infowars-2022-07-29T09:40:14.873024-05:00.hyperlinks.json) |
@@ -322,8 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 10:42 AM](https://archive.org/download/infowars-2022/infowars-2022-07-28T10:41:59.357366-05:00.hyperlinks.json) |
 | [July 27 at 9:39 PM](https://archive.org/download/infowars-2022/infowars-2022-07-27T21:39:20.960503-05:00.hyperlinks.json) |
 | [July 27 at 9:31 AM](https://archive.org/download/infowars-2022/infowars-2022-07-27T09:31:17.553074-05:00.hyperlinks.json) |
-| [July 26 at 9:38 PM](https://archive.org/download/infowars-2022/infowars-2022-07-26T21:38:48.365197-05:00.hyperlinks.json) |
-| [July 26 at 1:35 PM](https://archive.org/download/infowars-2022/infowars-2022-07-26T13:35:32.588098-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -342,7 +342,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -350,6 +350,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 1:41 PM](https://archive.org/download/infowars-2022/infowars-2022-07-30T13:41:45.806358-05:00.lighthouse.json) |
+| [July 30 at 10:41 AM](https://archive.org/download/infowars-2022/infowars-2022-07-30T10:41:30.895812-05:00.lighthouse.json) |
 | [July 29 at 9:41 PM](https://archive.org/download/infowars-2022/infowars-2022-07-29T21:41:27.397557-05:00.lighthouse.json) |
 | [July 29 at 1:35 PM](https://archive.org/download/infowars-2022/infowars-2022-07-29T13:35:05.460853-05:00.lighthouse.json) |
 | [July 29 at 9:40 AM](https://archive.org/download/infowars-2022/infowars-2022-07-29T09:40:14.873024-05:00.lighthouse.json) |
@@ -358,8 +360,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 10:42 AM](https://archive.org/download/infowars-2022/infowars-2022-07-28T10:41:59.357366-05:00.lighthouse.json) |
 | [July 27 at 9:39 PM](https://archive.org/download/infowars-2022/infowars-2022-07-27T21:39:20.960503-05:00.lighthouse.json) |
 | [July 27 at 9:31 AM](https://archive.org/download/infowars-2022/infowars-2022-07-27T09:31:17.553074-05:00.lighthouse.json) |
-| [July 26 at 9:38 PM](https://archive.org/download/infowars-2022/infowars-2022-07-26T21:38:48.365197-05:00.lighthouse.json) |
-| [July 26 at 1:35 PM](https://archive.org/download/infowars-2022/infowars-2022-07-26T13:35:32.588098-05:00.lighthouse.json) |
 
 
 

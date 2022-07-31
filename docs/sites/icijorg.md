@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 118 screenshots with the Internet Archive.
+The archiving routine has saved 120 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/icijorg-2022/icijorg-2022-07-30T20:24:48.603317-04:00.jpg">
+  <img src="https://archive.org/download/icijorg-2022/icijorg-2022-07-30T20:24:48.603317-04:00.jpg"
+     alt="ICIJ at 2022-07-30 20:24:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-07-30T20:24:48.603317-04:00.jpg">July 30 at 8:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/icijorg-2022/icijorg-2022-07-30T08:19:44.193937-04:00.jpg">
+  <img src="https://archive.org/download/icijorg-2022/icijorg-2022-07-30T08:19:44.193937-04:00.jpg"
+     alt="ICIJ at 2022-07-30 08:19:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-07-30T08:19:44.193937-04:00.jpg">July 30 at 8:19 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/icijorg-2022/icijorg-2022-07-29T20:08:27.870192-04:00.jpg">
   <img src="https://archive.org/download/icijorg-2022/icijorg-2022-07-29T20:08:27.870192-04:00.jpg"
      alt="ICIJ at 2022-07-29 20:08:32-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-07-25T08:06:10.508340-04:00.jpg">July 25 at 8:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/icijorg-2022/icijorg-2022-07-24T21:11:51.056044-04:00.jpg">
-  <img src="https://archive.org/download/icijorg-2022/icijorg-2022-07-24T21:11:51.056044-04:00.jpg"
-     alt="ICIJ at 2022-07-24 21:11:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-07-24T21:11:51.056044-04:00.jpg">July 24 at 9:11 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/icijorg-2022/icijorg-2022-07-24T08:02:35.870084-04:00.jpg">
-  <img src="https://archive.org/download/icijorg-2022/icijorg-2022-07-24T08:02:35.870084-04:00.jpg"
-     alt="ICIJ at 2022-07-24 08:02:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-07-24T08:02:35.870084-04:00.jpg">July 24 at 8:02 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 120 hyperlink lists with the Internet Archive.
+The archiving routine has saved 122 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 8:24 PM](https://archive.org/download/icijorg-2022/icijorg-2022-07-30T20:24:48.603317-04:00.hyperlinks.json) |
+| [July 30 at 8:19 AM](https://archive.org/download/icijorg-2022/icijorg-2022-07-30T08:19:44.193937-04:00.hyperlinks.json) |
 | [July 29 at 8:08 PM](https://archive.org/download/icijorg-2022/icijorg-2022-07-29T20:08:27.870192-04:00.hyperlinks.json) |
 | [July 29 at 8:14 AM](https://archive.org/download/icijorg-2022/icijorg-2022-07-29T08:14:50.131873-04:00.hyperlinks.json) |
 | [July 28 at 8:11 PM](https://archive.org/download/icijorg-2022/icijorg-2022-07-28T20:11:39.954716-04:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 27 at 9:06 AM](https://archive.org/download/icijorg-2022/icijorg-2022-07-27T09:06:50.895219-04:00.hyperlinks.json) |
 | [July 26 at 8:12 PM](https://archive.org/download/icijorg-2022/icijorg-2022-07-26T20:12:00.761785-04:00.hyperlinks.json) |
 | [July 26 at 8:19 AM](https://archive.org/download/icijorg-2022/icijorg-2022-07-26T08:19:12.657225-04:00.hyperlinks.json) |
-| [July 25 at 8:15 PM](https://archive.org/download/icijorg-2022/icijorg-2022-07-25T20:15:35.036156-04:00.hyperlinks.json) |
-| [July 25 at 8:06 AM](https://archive.org/download/icijorg-2022/icijorg-2022-07-25T08:06:10.508340-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 120 accessibility trees with the Internet Archive.
+The archiving routine has saved 122 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 8:24 PM](https://archive.org/download/icijorg-2022/icijorg-2022-07-30T20:24:48.603317-04:00.accessibility.json) |
+| [July 30 at 8:19 AM](https://archive.org/download/icijorg-2022/icijorg-2022-07-30T08:19:44.193937-04:00.accessibility.json) |
 | [July 29 at 8:08 PM](https://archive.org/download/icijorg-2022/icijorg-2022-07-29T20:08:27.870192-04:00.accessibility.json) |
 | [July 29 at 8:14 AM](https://archive.org/download/icijorg-2022/icijorg-2022-07-29T08:14:50.131873-04:00.accessibility.json) |
 | [July 28 at 8:11 PM](https://archive.org/download/icijorg-2022/icijorg-2022-07-28T20:11:39.954716-04:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 27 at 9:06 AM](https://archive.org/download/icijorg-2022/icijorg-2022-07-27T09:06:50.895219-04:00.accessibility.json) |
 | [July 26 at 8:12 PM](https://archive.org/download/icijorg-2022/icijorg-2022-07-26T20:12:00.761785-04:00.accessibility.json) |
 | [July 26 at 8:19 AM](https://archive.org/download/icijorg-2022/icijorg-2022-07-26T08:19:12.657225-04:00.accessibility.json) |
-| [July 25 at 8:15 PM](https://archive.org/download/icijorg-2022/icijorg-2022-07-25T20:15:35.036156-04:00.accessibility.json) |
-| [July 25 at 8:06 AM](https://archive.org/download/icijorg-2022/icijorg-2022-07-25T08:06:10.508340-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 8:24 PM](https://archive.org/download/icijorg-2022/icijorg-2022-07-30T20:24:48.603317-04:00.lighthouse.json) |
+| [July 30 at 8:19 AM](https://archive.org/download/icijorg-2022/icijorg-2022-07-30T08:19:44.193937-04:00.lighthouse.json) |
 | [July 29 at 8:08 PM](https://archive.org/download/icijorg-2022/icijorg-2022-07-29T20:08:27.870192-04:00.lighthouse.json) |
 | [July 29 at 8:15 AM](https://archive.org/download/icijorg-2022/icijorg-2022-07-29T08:14:50.131873-04:00.lighthouse.json) |
 | [July 28 at 8:11 PM](https://archive.org/download/icijorg-2022/icijorg-2022-07-28T20:11:39.954716-04:00.lighthouse.json) |
@@ -450,8 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 9:06 AM](https://archive.org/download/icijorg-2022/icijorg-2022-07-27T09:06:50.895219-04:00.lighthouse.json) |
 | [July 26 at 8:12 PM](https://archive.org/download/icijorg-2022/icijorg-2022-07-26T20:12:00.761785-04:00.lighthouse.json) |
 | [July 26 at 8:20 AM](https://archive.org/download/icijorg-2022/icijorg-2022-07-26T08:19:12.657225-04:00.lighthouse.json) |
-| [July 25 at 8:15 PM](https://archive.org/download/icijorg-2022/icijorg-2022-07-25T20:15:35.036156-04:00.lighthouse.json) |
-| [July 25 at 8:06 AM](https://archive.org/download/icijorg-2022/icijorg-2022-07-25T08:06:10.508340-04:00.lighthouse.json) |
 
 
 

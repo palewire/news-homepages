@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 12 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-30T21:38:52.455046+05:45.jpg">
+  <img src="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-30T21:38:52.455046+05:45.jpg"
+     alt="OSNepal at 2022-07-30 21:38:54+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-30T21:38:52.455046+05:45.jpg">July 30 at 9:38 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-30T09:34:28.208147+05:45.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T09:23:33.488950+05:45.jpg">July 25 at 9:23 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T02:23:40.333371+05:45.jpg">
-  <img src="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T02:23:40.333371+05:45.jpg"
-     alt="OSNepal at 2022-07-25 02:23:46+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T02:23:40.333371+05:45.jpg">July 25 at 2:23 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 12 hyperlink lists with the Internet Archive.
+The archiving routine has saved 13 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 9:38 PM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-30T21:38:52.455046+05:45.hyperlinks.json) |
 | [July 30 at 9:34 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-30T09:34:28.208147+05:45.hyperlinks.json) |
 | [July 29 at 9:36 PM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-29T21:36:40.505467+05:45.hyperlinks.json) |
 | [July 29 at 9:31 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-29T09:31:11.309768+05:45.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 27 at 9:35 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-27T09:35:45.431064+05:45.hyperlinks.json) |
 | [July 26 at 9:27 PM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-26T21:27:39.092651+05:45.hyperlinks.json) |
 | [July 26 at 9:39 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-26T09:39:04.508893+05:45.hyperlinks.json) |
-| [July 25 at 9:21 PM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T21:21:07.457877+05:45.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 12 accessibility trees with the Internet Archive.
+The archiving routine has saved 13 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 9:38 PM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-30T21:38:52.455046+05:45.accessibility.json) |
 | [July 30 at 9:34 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-30T09:34:28.208147+05:45.accessibility.json) |
 | [July 29 at 9:36 PM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-29T21:36:40.505467+05:45.accessibility.json) |
 | [July 29 at 9:31 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-29T09:31:11.309768+05:45.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 27 at 9:35 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-27T09:35:45.431064+05:45.accessibility.json) |
 | [July 26 at 9:27 PM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-26T21:27:39.092651+05:45.accessibility.json) |
 | [July 26 at 9:39 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-26T09:39:04.508893+05:45.accessibility.json) |
-| [July 25 at 9:21 PM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T21:21:07.457877+05:45.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 9:38 PM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-30T21:38:52.455046+05:45.lighthouse.json) |
 | [July 30 at 9:34 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-30T09:34:28.208147+05:45.lighthouse.json) |
 | [July 29 at 9:36 PM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-29T21:36:40.505467+05:45.lighthouse.json) |
 | [July 29 at 9:31 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-29T09:31:11.309768+05:45.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 9:35 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-27T09:35:45.431064+05:45.lighthouse.json) |
 | [July 26 at 9:27 PM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-26T21:27:39.092651+05:45.lighthouse.json) |
 | [July 26 at 9:39 AM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-26T09:39:04.508893+05:45.lighthouse.json) |
-| [July 25 at 9:21 PM](https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T21:21:07.457877+05:45.lighthouse.json) |
 
 
 

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 26 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-07-30T10:56:05.318944-05:00.jpg">
+  <img src="https://archive.org/download/rgvfox-2022/rgvfox-2022-07-30T10:56:05.318944-05:00.jpg"
+     alt="Fox South Texas at 2022-07-30 10:56:06-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-07-30T10:56:05.318944-05:00.jpg">July 30 at 10:56 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-07-29T22:52:36.250329-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-07-24T22:41:51.207945-05:00.jpg">July 24 at 10:41 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-07-24T09:02:06.101399-05:00.jpg">
-  <img src="https://archive.org/download/rgvfox-2022/rgvfox-2022-07-24T09:02:06.101399-05:00.jpg"
-     alt="Fox South Texas at 2022-07-24 09:02:07-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-07-24T09:02:06.101399-05:00.jpg">July 24 at 9:02 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 10:56 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-30T10:56:05.318944-05:00.hyperlinks.json) |
 | [July 29 at 10:52 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-29T22:52:36.250329-05:00.hyperlinks.json) |
 | [July 29 at 10:53 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-29T10:53:38.557440-05:00.hyperlinks.json) |
 | [July 28 at 10:48 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-28T22:48:06.868218-05:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 10:53 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-26T22:53:12.965747-05:00.hyperlinks.json) |
 | [July 26 at 10:44 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-26T10:44:15.674919-05:00.hyperlinks.json) |
 | [July 25 at 10:55 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-25T22:55:43.082419-05:00.hyperlinks.json) |
-| [July 25 at 10:40 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-25T10:40:16.770325-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 26 accessibility trees with the Internet Archive.
+The archiving routine has saved 27 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 10:56 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-30T10:56:05.318944-05:00.accessibility.json) |
 | [July 29 at 10:52 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-29T22:52:36.250329-05:00.accessibility.json) |
 | [July 29 at 10:53 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-29T10:53:38.557440-05:00.accessibility.json) |
 | [July 28 at 10:48 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-28T22:48:06.868218-05:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 26 at 10:53 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-26T22:53:12.965747-05:00.accessibility.json) |
 | [July 26 at 10:44 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-26T10:44:15.674919-05:00.accessibility.json) |
 | [July 25 at 10:55 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-25T22:55:43.082419-05:00.accessibility.json) |
-| [July 25 at 10:40 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-25T10:40:16.770325-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 10:56 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-30T10:56:05.318944-05:00.lighthouse.json) |
 | [July 29 at 10:52 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-29T22:52:36.250329-05:00.lighthouse.json) |
 | [July 29 at 10:53 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-29T10:53:38.557440-05:00.lighthouse.json) |
 | [July 28 at 10:48 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-28T22:48:06.868218-05:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 26 at 10:53 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-26T22:53:12.965747-05:00.lighthouse.json) |
 | [July 26 at 10:44 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-26T10:44:15.674919-05:00.lighthouse.json) |
 | [July 25 at 10:55 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-25T22:55:43.082419-05:00.lighthouse.json) |
-| [July 25 at 10:40 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-07-25T10:40:16.770325-05:00.lighthouse.json) |
 
 
 

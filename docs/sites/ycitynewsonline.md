@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-30T09:39:12.859302-04:00.jpg">
+  <img src="https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-30T09:39:12.859302-04:00.jpg"
+     alt="Y-City News at 2022-07-30 09:39:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-30T09:39:12.859302-04:00.jpg">July 30 at 9:39 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-29T21:26:43.270843-04:00.jpg">
@@ -122,7 +131,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 10 hyperlink lists with the Internet Archive.
+The archiving routine has saved 11 hyperlink lists with the Internet Archive.
 
 
 
@@ -130,6 +139,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 9:39 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-30T09:39:12.859302-04:00.hyperlinks.json) |
 | [July 29 at 9:26 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-29T21:26:43.270843-04:00.hyperlinks.json) |
 | [July 29 at 9:37 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-29T09:37:47.625947-04:00.hyperlinks.json) |
 | [July 28 at 9:31 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-28T21:31:05.270884-04:00.hyperlinks.json) |
@@ -139,12 +149,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 9:32 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-26T21:32:29.185646-04:00.hyperlinks.json) |
 | [July 26 at 9:34 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-26T09:34:29.274846-04:00.hyperlinks.json) |
 | [July 25 at 10:56 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-25T22:56:31.570147-04:00.hyperlinks.json) |
-| [July 25 at 9:40 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-25T21:40:14.256624-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 10 accessibility trees with the Internet Archive.
+The archiving routine has saved 11 accessibility trees with the Internet Archive.
 
 
 
@@ -152,6 +161,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 9:39 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-30T09:39:12.859302-04:00.accessibility.json) |
 | [July 29 at 9:26 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-29T21:26:43.270843-04:00.accessibility.json) |
 | [July 29 at 9:37 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-29T09:37:47.625947-04:00.accessibility.json) |
 | [July 28 at 9:31 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-28T21:31:05.270884-04:00.accessibility.json) |
@@ -161,13 +171,12 @@ Here are the 10 most recent accessibility trees.
 | [July 26 at 9:32 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-26T21:32:29.185646-04:00.accessibility.json) |
 | [July 26 at 9:34 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-26T09:34:29.274846-04:00.accessibility.json) |
 | [July 25 at 10:56 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-25T22:56:31.570147-04:00.accessibility.json) |
-| [July 25 at 9:40 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-25T21:40:14.256624-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -175,6 +184,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 9:39 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-30T09:39:12.859302-04:00.lighthouse.json) |
 | [July 29 at 9:26 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-29T21:26:43.270843-04:00.lighthouse.json) |
 | [July 29 at 9:37 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-29T09:37:47.625947-04:00.lighthouse.json) |
 | [July 28 at 9:31 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-28T21:31:05.270884-04:00.lighthouse.json) |
@@ -184,7 +194,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 26 at 9:32 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-26T21:32:29.185646-04:00.lighthouse.json) |
 | [July 26 at 9:34 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-26T09:34:29.274846-04:00.lighthouse.json) |
 | [July 25 at 10:56 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-25T22:56:31.570147-04:00.lighthouse.json) |
-| [July 25 at 9:40 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-25T21:40:14.256624-04:00.lighthouse.json) |
 
 
 

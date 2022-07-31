@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 21 screenshots with the Internet Archive.
+The archiving routine has saved 22 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-30T09:36:28.370297-04:00.jpg">
+  <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-30T09:36:28.370297-04:00.jpg"
+     alt="Tifton Gazette at 2022-07-30 09:36:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-30T09:36:28.370297-04:00.jpg">July 30 at 9:36 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-29T21:24:05.674888-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-25T11:49:12.921433-04:00.jpg">July 25 at 11:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-25T00:37:39.615048-04:00.jpg">
-  <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-25T00:37:39.615048-04:00.jpg"
-     alt="Tifton Gazette at 2022-07-25 00:37:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-25T00:37:39.615048-04:00.jpg">July 25 at 12:37 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 12 hyperlink lists with the Internet Archive.
+The archiving routine has saved 13 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 9:36 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-30T09:36:28.370297-04:00.hyperlinks.json) |
 | [July 29 at 9:35 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-29T09:35:44.266421-04:00.hyperlinks.json) |
 | [July 28 at 9:27 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-28T09:27:00.036395-04:00.hyperlinks.json) |
 | [July 27 at 9:32 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-27T21:32:48.861993-04:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 12:37 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-25T00:37:39.615048-04:00.hyperlinks.json) |
 | [July 23 at 12:06 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-23T12:06:26.658313-04:00.hyperlinks.json) |
 | [July 23 at 12:27 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-23T00:27:18.642233-04:00.hyperlinks.json) |
-| [July 22 at 12:19 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-22T12:19:04.117614-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -185,7 +185,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 9:36 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-30T09:36:28.370297-04:00.lighthouse.json) |
 | [July 29 at 9:24 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-29T21:24:05.674888-04:00.lighthouse.json) |
 | [July 29 at 9:35 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-29T09:35:44.266421-04:00.lighthouse.json) |
 | [July 28 at 9:28 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-28T21:27:59.149414-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 26 at 9:29 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-26T21:29:44.379124-04:00.lighthouse.json) |
 | [July 26 at 9:31 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-26T09:31:36.357459-04:00.lighthouse.json) |
 | [July 25 at 10:53 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-25T22:53:03.055902-04:00.lighthouse.json) |
-| [July 25 at 9:36 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-07-25T21:36:29.006324-04:00.lighthouse.json) |
 
 
 

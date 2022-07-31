@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 21 screenshots with the Internet Archive.
+The archiving routine has saved 22 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-30T19:10:02.363128-04:00.jpg">
+  <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-30T19:10:02.363128-04:00.jpg"
+     alt="13WMAZ News at 2022-07-30 19:10:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-30T19:10:02.363128-04:00.jpg">July 30 at 7:10 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-30T07:07:38.199880-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-25T06:55:46.329289-04:00.jpg">July 25 at 6:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-24T20:44:34.208971-04:00.jpg">
-  <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-24T20:44:34.208971-04:00.jpg"
-     alt="13WMAZ News at 2022-07-24 20:44:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-24T20:44:34.208971-04:00.jpg">July 24 at 8:44 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 20 hyperlink lists with the Internet Archive.
+The archiving routine has saved 21 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 7:10 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-30T19:10:02.363128-04:00.hyperlinks.json) |
 | [July 30 at 7:07 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-30T07:07:38.199880-04:00.hyperlinks.json) |
 | [July 29 at 7:58 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-29T19:58:34.007998-04:00.hyperlinks.json) |
 | [July 29 at 7:02 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-29T07:02:03.992057-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 27 at 7:00 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-27T07:00:28.938527-04:00.hyperlinks.json) |
 | [July 26 at 7:01 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-26T19:01:38.685069-04:00.hyperlinks.json) |
 | [July 26 at 7:09 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-26T07:09:22.769224-04:00.hyperlinks.json) |
-| [July 25 at 7:05 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-25T19:05:05.108774-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 21 accessibility trees with the Internet Archive.
+The archiving routine has saved 22 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 7:10 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-30T19:10:02.363128-04:00.accessibility.json) |
 | [July 30 at 7:07 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-30T07:07:38.199880-04:00.accessibility.json) |
 | [July 29 at 7:58 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-29T19:58:34.007998-04:00.accessibility.json) |
 | [July 29 at 7:02 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-29T07:02:03.992057-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 27 at 7:00 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-27T07:00:28.938527-04:00.accessibility.json) |
 | [July 26 at 7:01 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-26T19:01:38.685069-04:00.accessibility.json) |
 | [July 26 at 7:09 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-26T07:09:22.769224-04:00.accessibility.json) |
-| [July 25 at 7:05 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-25T19:05:05.108774-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 7:10 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-30T19:10:02.363128-04:00.lighthouse.json) |
 | [July 30 at 7:07 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-30T07:07:38.199880-04:00.lighthouse.json) |
 | [July 29 at 7:58 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-29T19:58:34.007998-04:00.lighthouse.json) |
 | [July 29 at 7:02 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-29T07:02:03.992057-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 7:00 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-27T07:00:28.938527-04:00.lighthouse.json) |
 | [July 26 at 7:01 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-26T19:01:38.685069-04:00.lighthouse.json) |
 | [July 26 at 7:09 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-26T07:09:22.769224-04:00.lighthouse.json) |
-| [July 25 at 7:05 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-25T19:05:05.108774-04:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 150 screenshots with the Internet Archive.
+The archiving routine has saved 153 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/business-2022/business-2022-07-30T17:12:26.592151-04:00.jpg">
+  <img src="https://archive.org/download/business-2022/business-2022-07-30T17:12:26.592151-04:00.jpg"
+     alt="Bloomberg at 2022-07-30 17:12:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-30T17:12:26.592151-04:00.jpg">July 30 at 5:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/business-2022/business-2022-07-30T12:12:44.012991-04:00.jpg">
+  <img src="https://archive.org/download/business-2022/business-2022-07-30T12:12:44.012991-04:00.jpg"
+     alt="Bloomberg at 2022-07-30 12:12:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-30T12:12:44.012991-04:00.jpg">July 30 at 12:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/business-2022/business-2022-07-30T09:32:47.013640-04:00.jpg">
+  <img src="https://archive.org/download/business-2022/business-2022-07-30T09:32:47.013640-04:00.jpg"
+     alt="Bloomberg at 2022-07-30 09:32:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-30T09:32:47.013640-04:00.jpg">July 30 at 9:32 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/business-2022/business-2022-07-29T21:19:23.150847-04:00.jpg">
   <img src="https://archive.org/download/business-2022/business-2022-07-29T21:19:23.150847-04:00.jpg"
      alt="Bloomberg at 2022-07-29 21:19:24-04:00 local time"
@@ -192,38 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/business-2022/business-2022-07-27T21:27:00.645935-04:00.jpg">July 27 at 9:27 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/business-2022/business-2022-07-27T17:13:13.850889-04:00.jpg">
-  <img src="https://archive.org/download/business-2022/business-2022-07-27T17:13:13.850889-04:00.jpg"
-     alt="Bloomberg at 2022-07-27 17:13:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-27T17:13:13.850889-04:00.jpg">July 27 at 5:13 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/business-2022/business-2022-07-27T11:59:00.595288-04:00.jpg">
-  <img src="https://archive.org/download/business-2022/business-2022-07-27T11:59:00.595288-04:00.jpg"
-     alt="Bloomberg at 2022-07-27 11:59:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-27T11:59:00.595288-04:00.jpg">July 27 at 11:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/business-2022/business-2022-07-27T09:19:33.102564-04:00.jpg">
-  <img src="https://archive.org/download/business-2022/business-2022-07-27T09:19:33.102564-04:00.jpg"
-     alt="Bloomberg at 2022-07-27 09:19:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-27T09:19:33.102564-04:00.jpg">July 27 at 9:19 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 151 hyperlink lists with the Internet Archive.
+The archiving routine has saved 154 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 5:12 PM](https://archive.org/download/business-2022/business-2022-07-30T17:12:26.592151-04:00.hyperlinks.json) |
+| [July 30 at 12:12 PM](https://archive.org/download/business-2022/business-2022-07-30T12:12:44.012991-04:00.hyperlinks.json) |
+| [July 30 at 9:32 AM](https://archive.org/download/business-2022/business-2022-07-30T09:32:47.013640-04:00.hyperlinks.json) |
 | [July 29 at 9:19 PM](https://archive.org/download/business-2022/business-2022-07-29T21:19:23.150847-04:00.hyperlinks.json) |
 | [July 29 at 5:14 PM](https://archive.org/download/business-2022/business-2022-07-29T17:14:12.686309-04:00.hyperlinks.json) |
 | [July 29 at 11:49 AM](https://archive.org/download/business-2022/business-2022-07-29T11:49:07.363703-04:00.hyperlinks.json) |
@@ -321,14 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 9:23 PM](https://archive.org/download/business-2022/business-2022-07-28T21:23:50.969365-04:00.hyperlinks.json) |
 | [July 28 at 5:14 PM](https://archive.org/download/business-2022/business-2022-07-28T17:14:30.142278-04:00.hyperlinks.json) |
 | [July 28 at 11:58 AM](https://archive.org/download/business-2022/business-2022-07-28T11:58:04.370273-04:00.hyperlinks.json) |
-| [July 28 at 9:22 AM](https://archive.org/download/business-2022/business-2022-07-28T09:21:54.951218-04:00.hyperlinks.json) |
-| [July 27 at 9:27 PM](https://archive.org/download/business-2022/business-2022-07-27T21:27:00.645935-04:00.hyperlinks.json) |
-| [July 27 at 5:13 PM](https://archive.org/download/business-2022/business-2022-07-27T17:13:13.850889-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 153 accessibility trees with the Internet Archive.
+The archiving routine has saved 156 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 5:12 PM](https://archive.org/download/business-2022/business-2022-07-30T17:12:26.592151-04:00.accessibility.json) |
+| [July 30 at 12:12 PM](https://archive.org/download/business-2022/business-2022-07-30T12:12:44.012991-04:00.accessibility.json) |
+| [July 30 at 9:32 AM](https://archive.org/download/business-2022/business-2022-07-30T09:32:47.013640-04:00.accessibility.json) |
 | [July 29 at 9:19 PM](https://archive.org/download/business-2022/business-2022-07-29T21:19:23.150847-04:00.accessibility.json) |
 | [July 29 at 5:14 PM](https://archive.org/download/business-2022/business-2022-07-29T17:14:12.686309-04:00.accessibility.json) |
 | [July 29 at 11:49 AM](https://archive.org/download/business-2022/business-2022-07-29T11:49:07.363703-04:00.accessibility.json) |
@@ -426,15 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 9:23 PM](https://archive.org/download/business-2022/business-2022-07-28T21:23:50.969365-04:00.accessibility.json) |
 | [July 28 at 5:14 PM](https://archive.org/download/business-2022/business-2022-07-28T17:14:30.142278-04:00.accessibility.json) |
 | [July 28 at 11:58 AM](https://archive.org/download/business-2022/business-2022-07-28T11:58:04.370273-04:00.accessibility.json) |
-| [July 28 at 9:22 AM](https://archive.org/download/business-2022/business-2022-07-28T09:21:54.951218-04:00.accessibility.json) |
-| [July 27 at 9:27 PM](https://archive.org/download/business-2022/business-2022-07-27T21:27:00.645935-04:00.accessibility.json) |
-| [July 27 at 5:13 PM](https://archive.org/download/business-2022/business-2022-07-27T17:13:13.850889-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 5:12 PM](https://archive.org/download/business-2022/business-2022-07-30T17:12:26.592151-04:00.lighthouse.json) |
+| [July 30 at 12:12 PM](https://archive.org/download/business-2022/business-2022-07-30T12:12:44.012991-04:00.lighthouse.json) |
+| [July 30 at 9:32 AM](https://archive.org/download/business-2022/business-2022-07-30T09:32:47.013640-04:00.lighthouse.json) |
 | [July 29 at 9:19 PM](https://archive.org/download/business-2022/business-2022-07-29T21:19:23.150847-04:00.lighthouse.json) |
 | [July 29 at 5:14 PM](https://archive.org/download/business-2022/business-2022-07-29T17:14:12.686309-04:00.lighthouse.json) |
 | [July 29 at 11:49 AM](https://archive.org/download/business-2022/business-2022-07-29T11:49:07.363703-04:00.lighthouse.json) |
@@ -449,9 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 9:23 PM](https://archive.org/download/business-2022/business-2022-07-28T21:23:50.969365-04:00.lighthouse.json) |
 | [July 28 at 5:14 PM](https://archive.org/download/business-2022/business-2022-07-28T17:14:30.142278-04:00.lighthouse.json) |
 | [July 28 at 11:58 AM](https://archive.org/download/business-2022/business-2022-07-28T11:58:04.370273-04:00.lighthouse.json) |
-| [July 28 at 9:22 AM](https://archive.org/download/business-2022/business-2022-07-28T09:21:54.951218-04:00.lighthouse.json) |
-| [July 27 at 9:27 PM](https://archive.org/download/business-2022/business-2022-07-27T21:27:00.645935-04:00.lighthouse.json) |
-| [July 27 at 5:13 PM](https://archive.org/download/business-2022/business-2022-07-27T17:13:13.850889-04:00.lighthouse.json) |
 
 
 

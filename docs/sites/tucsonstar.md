@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 50 screenshots with the Internet Archive.
+The archiving routine has saved 51 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 50 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-30T06:37:21.299833-07:00.jpg">
+  <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-30T06:37:21.299833-07:00.jpg"
+     alt="Arizona Daily Star at 2022-07-30 06:37:23-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-30T06:37:21.299833-07:00.jpg">July 30 at 6:37 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-29T18:24:13.634549-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-24T21:38:36.974202-07:00.jpg">July 24 at 9:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-24T08:08:58.137384-07:00.jpg">
-  <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-24T08:08:58.137384-07:00.jpg"
-     alt="Arizona Daily Star at 2022-07-24 08:09:00-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-24T08:08:58.137384-07:00.jpg">July 24 at 8:09 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 49 hyperlink lists with the Internet Archive.
+The archiving routine has saved 50 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 6:37 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-30T06:37:21.299833-07:00.hyperlinks.json) |
 | [July 29 at 6:24 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-29T18:24:13.634549-07:00.hyperlinks.json) |
 | [July 29 at 6:35 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-29T06:35:33.106070-07:00.hyperlinks.json) |
 | [July 28 at 6:29 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-28T18:29:06.751272-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 26 at 6:30 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-26T18:29:56.094462-07:00.hyperlinks.json) |
 | [July 26 at 6:34 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-26T06:34:00.261983-07:00.hyperlinks.json) |
 | [July 25 at 7:53 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-25T19:53:27.328653-07:00.hyperlinks.json) |
-| [July 25 at 6:37 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-25T18:37:02.728792-07:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -434,7 +434,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 6:37 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-30T06:37:21.299833-07:00.lighthouse.json) |
 | [July 29 at 6:24 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-29T18:24:13.634549-07:00.lighthouse.json) |
 | [July 29 at 6:35 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-29T06:35:33.106070-07:00.lighthouse.json) |
 | [July 28 at 6:29 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-28T18:29:06.751272-07:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 26 at 6:30 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-26T18:29:56.094462-07:00.lighthouse.json) |
 | [July 26 at 6:34 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-26T06:34:00.261983-07:00.lighthouse.json) |
 | [July 25 at 7:53 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-25T19:53:27.328653-07:00.lighthouse.json) |
-| [July 25 at 6:37 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-25T18:37:02.728792-07:00.lighthouse.json) |
 
 
 

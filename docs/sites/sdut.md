@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 295 screenshots with the Internet Archive.
+The archiving routine has saved 297 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sdut-2022/sdut-2022-07-30T11:38:27.940837-07:00.jpg">
+  <img src="https://archive.org/download/sdut-2022/sdut-2022-07-30T11:38:27.940837-07:00.jpg"
+     alt="San Diego Union Tribune at 2022-07-30 11:38:29-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-30T11:38:27.940837-07:00.jpg">July 30 at 11:38 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sdut-2022/sdut-2022-07-30T08:57:23.044814-07:00.jpg">
+  <img src="https://archive.org/download/sdut-2022/sdut-2022-07-30T08:57:23.044814-07:00.jpg"
+     alt="San Diego Union Tribune at 2022-07-30 08:57:29-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-30T08:57:23.044814-07:00.jpg">July 30 at 8:57 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sdut-2022/sdut-2022-07-29T20:52:27.618708-07:00.jpg">
   <img src="https://archive.org/download/sdut-2022/sdut-2022-07-29T20:52:27.618708-07:00.jpg"
      alt="San Diego Union Tribune at 2022-07-29 20:52:29-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-26T11:34:15.189175-07:00.jpg">July 26 at 11:34 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sdut-2022/sdut-2022-07-26T08:45:12.518513-07:00.jpg">
-  <img src="https://archive.org/download/sdut-2022/sdut-2022-07-26T08:45:12.518513-07:00.jpg"
-     alt="San Diego Union Tribune at 2022-07-26 08:45:24-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-26T08:45:12.518513-07:00.jpg">July 26 at 8:45 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sdut-2022/sdut-2022-07-25T20:57:20.613581-07:00.jpg">
-  <img src="https://archive.org/download/sdut-2022/sdut-2022-07-25T20:57:20.613581-07:00.jpg"
-     alt="San Diego Union Tribune at 2022-07-25 20:57:26-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-25T20:57:20.613581-07:00.jpg">July 25 at 8:57 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 282 hyperlink lists with the Internet Archive.
+The archiving routine has saved 284 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 11:38 AM](https://archive.org/download/sdut-2022/sdut-2022-07-30T11:38:27.940837-07:00.hyperlinks.json) |
+| [July 30 at 8:57 AM](https://archive.org/download/sdut-2022/sdut-2022-07-30T08:57:23.044814-07:00.hyperlinks.json) |
 | [July 29 at 8:52 PM](https://archive.org/download/sdut-2022/sdut-2022-07-29T20:52:27.618708-07:00.hyperlinks.json) |
 | [July 29 at 11:33 AM](https://archive.org/download/sdut-2022/sdut-2022-07-29T11:33:27.122746-07:00.hyperlinks.json) |
 | [July 29 at 8:54 AM](https://archive.org/download/sdut-2022/sdut-2022-07-29T08:54:11.891644-07:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 8:51 AM](https://archive.org/download/sdut-2022/sdut-2022-07-28T08:51:21.130711-07:00.hyperlinks.json) |
 | [July 27 at 8:45 PM](https://archive.org/download/sdut-2022/sdut-2022-07-27T20:45:45.363403-07:00.hyperlinks.json) |
 | [July 27 at 8:45 AM](https://archive.org/download/sdut-2022/sdut-2022-07-27T08:45:28.205542-07:00.hyperlinks.json) |
-| [July 26 at 8:53 PM](https://archive.org/download/sdut-2022/sdut-2022-07-26T20:53:36.691175-07:00.hyperlinks.json) |
-| [July 26 at 11:34 AM](https://archive.org/download/sdut-2022/sdut-2022-07-26T11:34:15.189175-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 284 accessibility trees with the Internet Archive.
+The archiving routine has saved 286 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 11:38 AM](https://archive.org/download/sdut-2022/sdut-2022-07-30T11:38:27.940837-07:00.accessibility.json) |
+| [July 30 at 8:57 AM](https://archive.org/download/sdut-2022/sdut-2022-07-30T08:57:23.044814-07:00.accessibility.json) |
 | [July 29 at 8:52 PM](https://archive.org/download/sdut-2022/sdut-2022-07-29T20:52:27.618708-07:00.accessibility.json) |
 | [July 29 at 11:33 AM](https://archive.org/download/sdut-2022/sdut-2022-07-29T11:33:27.122746-07:00.accessibility.json) |
 | [July 29 at 8:54 AM](https://archive.org/download/sdut-2022/sdut-2022-07-29T08:54:11.891644-07:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 8:51 AM](https://archive.org/download/sdut-2022/sdut-2022-07-28T08:51:21.130711-07:00.accessibility.json) |
 | [July 27 at 8:45 PM](https://archive.org/download/sdut-2022/sdut-2022-07-27T20:45:45.363403-07:00.accessibility.json) |
 | [July 27 at 8:45 AM](https://archive.org/download/sdut-2022/sdut-2022-07-27T08:45:28.205542-07:00.accessibility.json) |
-| [July 26 at 8:53 PM](https://archive.org/download/sdut-2022/sdut-2022-07-26T20:53:36.691175-07:00.accessibility.json) |
-| [July 26 at 11:34 AM](https://archive.org/download/sdut-2022/sdut-2022-07-26T11:34:15.189175-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 11:38 AM](https://archive.org/download/sdut-2022/sdut-2022-07-30T11:38:27.940837-07:00.lighthouse.json) |
+| [July 30 at 8:57 AM](https://archive.org/download/sdut-2022/sdut-2022-07-30T08:57:23.044814-07:00.lighthouse.json) |
 | [July 29 at 8:52 PM](https://archive.org/download/sdut-2022/sdut-2022-07-29T20:52:27.618708-07:00.lighthouse.json) |
 | [July 29 at 11:33 AM](https://archive.org/download/sdut-2022/sdut-2022-07-29T11:33:27.122746-07:00.lighthouse.json) |
 | [July 29 at 8:54 AM](https://archive.org/download/sdut-2022/sdut-2022-07-29T08:54:11.891644-07:00.lighthouse.json) |
@@ -450,8 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 8:51 AM](https://archive.org/download/sdut-2022/sdut-2022-07-28T08:51:21.130711-07:00.lighthouse.json) |
 | [July 27 at 8:45 PM](https://archive.org/download/sdut-2022/sdut-2022-07-27T20:45:45.363403-07:00.lighthouse.json) |
 | [July 27 at 8:45 AM](https://archive.org/download/sdut-2022/sdut-2022-07-27T08:45:28.205542-07:00.lighthouse.json) |
-| [July 26 at 8:53 PM](https://archive.org/download/sdut-2022/sdut-2022-07-26T20:53:36.691175-07:00.lighthouse.json) |
-| [July 26 at 11:34 AM](https://archive.org/download/sdut-2022/sdut-2022-07-26T11:34:15.189175-07:00.lighthouse.json) |
 
 
 
