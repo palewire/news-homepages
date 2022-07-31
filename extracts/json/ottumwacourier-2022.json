@@ -1,5 +1,5 @@
 {
-  "created": 1659227591,
+  "created": 1659269973,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/17/items/ottumwacourier-2022",
@@ -3733,21 +3733,32 @@
       "format": "JSON"
     },
     {
+      "name": "ottumwacourier-2022-07-30T19:32:20.299671-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ottumwacourier-2022-07-30T19:32:20.299671-05:00.jpg",
+      "mtime": "1659256929",
+      "size": "9602",
+      "md5": "944d7fe3347fb43692bcf38af63c6645",
+      "crc32": "3814976b",
+      "sha1": "a5fba3c0a638e0e0fc4a474c699ca120a1b2201b"
+    },
+    {
       "name": "ottumwacourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c3b975ec20abff84131e16573b65afb8dd6e2d4d",
-      "mtime": "1659227588",
-      "size": "78168",
-      "md5": "3cc133a0cd4d25d535534cbc5157331b",
-      "crc32": "169a5540",
-      "sha1": "057fa2aa2212a1809a21be67aa715e5193b8dd51",
+      "btih": "c3e97b50f7faec042524af7dfeddc570f8853174",
+      "mtime": "1659256938",
+      "size": "78378",
+      "md5": "8ab8b68a903bb60a848532fbdc120647",
+      "crc32": "a0bb616b",
+      "sha1": "e2ff11a52e9c2f20b22c7580a5bff08e0d718440",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ottumwacourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b00a4bbcba61c3c6640280179fd277ae",
+      "md5": "a6e33a74b670076b1143960392d7879e",
       "summation": "md5"
     },
     {
@@ -3771,9 +3782,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 357,
-  "item_last_updated": 1659227588,
-  "item_size": 43578951,
+  "files_count": 358,
+  "item_last_updated": 1659256938,
+  "item_size": 43588763,
   "metadata": {
     "identifier": "ottumwacourier-2022",
     "collection": [
@@ -3790,21 +3801,51 @@
     "publicdate": "2022-06-24 22:59:27",
     "addeddate": "2022-06-24 22:59:27"
   },
-  "pending_tasks": true,
-  "server": "ia902501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "ottumwacourier-2022": [
     {
-      "task_id": 3348395144,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.ottumwacourier.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ottumwacourier_com-_-2022_07_31_00_09_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ottumwacourier_com-_-2022_07_31_00_09_01.report.json",
+      "summary": {
+        "performance": 0.09,
+        "accessibility": 0.72,
+        "best-practices": 0.83,
+        "seo": 0.76,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.ottumwacourier.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ottumwacourier_com-_-2022_07_31_00_09_35.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ottumwacourier_com-_-2022_07_31_00_09_35.report.json",
+      "summary": {
+        "performance": 0.11,
+        "accessibility": 0.72,
+        "best-practices": 0.83,
+        "seo": 0.76,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.ottumwacourier.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ottumwacourier_com-_-2022_07_31_00_10_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ottumwacourier_com-_-2022_07_31_00_10_07.report.json",
+      "summary": {
+        "performance": 0.11,
+        "accessibility": 0.72,
+        "best-practices": 0.83,
+        "seo": 0.76,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 838575388,
+  "server": "ia902501.us.archive.org",
+  "uniq": 1348634526,
   "workable_servers": [
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

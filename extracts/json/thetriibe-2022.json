@@ -1,5 +1,5 @@
 {
-  "created": 1659197918,
+  "created": 1659260750,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/3/items/thetriibe-2022",
@@ -5956,31 +5956,83 @@
       "format": "JSON"
     },
     {
+      "name": "thetriibe-2022-07-30T21:48:36.204755-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659235720",
+      "size": "8900",
+      "md5": "7cb35264bc97912ff545ca27e4e1a26a",
+      "crc32": "ca70ae90",
+      "sha1": "2dae6a2c8ebd2627044837510f9bc6f87230b8b5",
+      "format": "JSON"
+    },
+    {
+      "name": "thetriibe-2022-07-30T21:48:36.204755-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659235722",
+      "size": "7634",
+      "md5": "d16056b698b86500eed6ff84de58e19b",
+      "crc32": "d3b6acef",
+      "sha1": "13e0c3ca2d7d15b9364d3694a01bd921f3884ae2",
+      "format": "JSON"
+    },
+    {
+      "name": "thetriibe-2022-07-30T21:48:36.204755-05:00.jpg",
+      "source": "original",
+      "mtime": "1659235718",
+      "size": "371081",
+      "md5": "2d9869c6ec333897e4c49a7b0a1b4d12",
+      "crc32": "ef013d33",
+      "sha1": "4d1a0fa74346f0d2dc0f61a09a1c56f7f0d637cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetriibe-2022-07-30T21:48:36.204755-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659235724",
+      "size": "1450",
+      "md5": "3c0eade16da72655456607e2d47c9612",
+      "crc32": "c1107056",
+      "sha1": "8c07d50898a55ab1d37d98d641691dee161a3ff9",
+      "format": "JSON"
+    },
+    {
+      "name": "thetriibe-2022-07-30T21:48:36.204755-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetriibe-2022-07-30T21:48:36.204755-05:00.jpg",
+      "mtime": "1659260686",
+      "size": "11742",
+      "md5": "bf8b7ddc6a7143f1cf555e7c51428328",
+      "crc32": "6e690bfb",
+      "sha1": "c93865a0b1ae0a48f90fed55f068a4e4bb0d2d40"
+    },
+    {
       "name": "thetriibe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "56ce4310430d0b4668474e42ef15e873dda41105",
-      "mtime": "1659197908",
-      "size": "121291",
-      "md5": "24319de6484110a0228af4267d7f5627",
-      "crc32": "c8d7b63c",
-      "sha1": "d724d14124c88589a34ad92b64e5feec2ca405b6",
+      "btih": "275e91af7f16ef15381c42946497c03bac2425cd",
+      "mtime": "1659260692",
+      "size": "122354",
+      "md5": "cd57454099eb600051bb82d5fac625be",
+      "crc32": "de4299d3",
+      "sha1": "824d51563a94cec6570b2d39d4442ccc1d071060",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetriibe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0d262004da80a5af9b95809fa51163bd",
+      "md5": "9cb3045f4d7c3e328ac99453319f839f",
       "summation": "md5"
     },
     {
       "name": "thetriibe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659197902",
-      "size": "679936",
-      "md5": "5760ec56ac4fbb8cfcc93e891cdf536f",
-      "crc32": "34817b48",
-      "sha1": "105fc9f7a68adf55381bead07c1aa70f709f4b31",
+      "mtime": "1659235799",
+      "size": "688128",
+      "md5": "2ad63f919512e2a7e6a43472a9269f5c",
+      "crc32": "a1df6358",
+      "sha1": "c02e727847004d120f35e9162465d3ddc1404cf1",
       "format": "Metadata"
     },
     {
@@ -5994,9 +6046,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 572,
-  "item_last_updated": 1659197908,
-  "item_size": 45356306,
+  "files_count": 577,
+  "item_last_updated": 1659260692,
+  "item_size": 45766368,
   "metadata": {
     "identifier": "thetriibe-2022",
     "collection": [
@@ -6013,21 +6065,10 @@
     "publicdate": "2022-06-19 23:29:01",
     "addeddate": "2022-06-19 23:29:01"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348144735,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2045544671,
+  "server": "ia801508.us.archive.org",
+  "uniq": 447744095,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

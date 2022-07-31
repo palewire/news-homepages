@@ -1,46 +1,5 @@
 {
-  "btno-2022": [
-    {
-      "url": "https://www.bt.no/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bt_no-_-2022_07_30_13_07_52.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bt_no-_-2022_07_30_13_07_52.report.json",
-      "summary": {
-        "performance": 0.37,
-        "accessibility": 0.87,
-        "best-practices": 0.92,
-        "seo": 0.92,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.bt.no/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bt_no-_-2022_07_30_13_08_12.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bt_no-_-2022_07_30_13_08_12.report.json",
-      "summary": {
-        "performance": 0.68,
-        "accessibility": 0.9,
-        "best-practices": 0.92,
-        "seo": 0.9,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.bt.no/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bt_no-_-2022_07_30_13_08_30.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bt_no-_-2022_07_30_13_08_30.report.json",
-      "summary": {
-        "performance": 0.63,
-        "accessibility": 0.89,
-        "best-practices": 0.92,
-        "seo": 0.92,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "created": 1659227159,
+  "created": 1659260711,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/3/items/btno-2022",
@@ -1162,31 +1121,94 @@
       "format": "JSON"
     },
     {
+      "name": "btno-2022-07-30T15:32:43.267358+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "btno-2022-07-30T15:32:43.267358+02:00.jpg",
+      "mtime": "1659227996",
+      "size": "10474",
+      "md5": "7e80f2c8e9e7e4c2e9ff0ba5a3c4bfa4",
+      "crc32": "8306cba7",
+      "sha1": "c687f797967cf85779a9b5df96f6849f3c9bc38e"
+    },
+    {
+      "name": "btno-2022-07-31T04:44:33.040395+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659235475",
+      "size": "28581",
+      "md5": "d71705f1a4efba231ce2a857a50f0f3d",
+      "crc32": "5e81d9a4",
+      "sha1": "5fb408d63036b9469aa0389360d5a3a8fd49f5bd",
+      "format": "JSON"
+    },
+    {
+      "name": "btno-2022-07-31T04:44:33.040395+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659235476",
+      "size": "44395",
+      "md5": "fa42ab2b552a05a24d4892364aaf1baf",
+      "crc32": "d971ae4f",
+      "sha1": "9e3fb7458f89ff1a99320e7eba79a6b441ea0d26",
+      "format": "JSON"
+    },
+    {
+      "name": "btno-2022-07-31T04:44:33.040395+02:00.jpg",
+      "source": "original",
+      "mtime": "1659235473",
+      "size": "252128",
+      "md5": "538c4f26710b0c6f16fcf80d20c2e1b2",
+      "crc32": "a4611057",
+      "sha1": "18549f49682229399ff58993d09971345168829a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "btno-2022-07-31T04:44:33.040395+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659235477",
+      "size": "1414",
+      "md5": "a0bb23e9bdbe181966361ae30717e26e",
+      "crc32": "7878fdde",
+      "sha1": "cbfe1a35157b22d14bf47ab6c2558f937950918a",
+      "format": "JSON"
+    },
+    {
+      "name": "btno-2022-07-31T04:44:33.040395+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "btno-2022-07-31T04:44:33.040395+02:00.jpg",
+      "mtime": "1659260597",
+      "size": "10477",
+      "md5": "1e4950a8a02ec772b4d43d312c4dda52",
+      "crc32": "d57a7ff2",
+      "sha1": "5d00d887e91663775fe14b650648aef78ef2cba5"
+    },
+    {
       "name": "btno-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a72255e482ead3313b5ee589237d2b1717c342d4",
-      "mtime": "1659188017",
-      "size": "23484",
-      "md5": "f6d69540a691f1af503bc4cc63899f54",
-      "crc32": "1a48757d",
-      "sha1": "a4cbfda598cdf6d74ce8c2a4c909b7732188014a",
+      "btih": "898e0e40c841a26ce7b1d73e81da54a0c93ea8e4",
+      "mtime": "1659260666",
+      "size": "24725",
+      "md5": "6397540904b21ce3ac491ac7c1728d70",
+      "crc32": "faeb45cd",
+      "sha1": "d68c335361df74bdc2980da13a9c77a9ab5177ec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "btno-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "936f68846a0836255d1d771d4fd4d371",
+      "md5": "3a4c6a2e3d5c0488b824e4dbbfe12b61",
       "summation": "md5"
     },
     {
       "name": "btno-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659188015",
-      "size": "151552",
-      "md5": "8d4bdd766444c22abf48d3ab035c7d24",
-      "crc32": "09cc3940",
-      "sha1": "007cd2d875e8e5fe20950ca48c1aa8297d8966d7",
+      "mtime": "1659235481",
+      "size": "159744",
+      "md5": "6b5ee919b4207a75df13251f9f6f7374",
+      "crc32": "12e7b0ed",
+      "sha1": "ba5c4b0e53d9639a8014711a215a9ca3da6de50c",
       "format": "Metadata"
     },
     {
@@ -1200,9 +1222,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 111,
-  "item_last_updated": 1659188017,
-  "item_size": 8397010,
+  "files_count": 117,
+  "item_last_updated": 1659260666,
+  "item_size": 8753912,
   "metadata": {
     "identifier": "btno-2022",
     "collection": [
@@ -1219,21 +1241,10 @@
     "publicdate": "2022-07-20 11:37:33",
     "addeddate": "2022-07-20 11:37:33"
   },
-  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348053775,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 472843075,
+  "uniq": 1627038941,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

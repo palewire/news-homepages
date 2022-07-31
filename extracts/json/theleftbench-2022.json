@@ -1,5 +1,5 @@
 {
-  "created": 1659227964,
+  "created": 1659270168,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/26/items/theleftbench-2022",
@@ -1791,21 +1791,32 @@
       "format": "JSON"
     },
     {
+      "name": "theleftbench-2022-07-30T09:36:06.011444-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theleftbench-2022-07-30T09:36:06.011444-04:00.jpg",
+      "mtime": "1659228241",
+      "size": "10124",
+      "md5": "1d3e1552146318e76aaa8043e9a2d6a9",
+      "crc32": "38aa482b",
+      "sha1": "62e76f3cb0cf071615a65038cfca3ac906205cf2"
+    },
+    {
       "name": "theleftbench-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f9b9692d2772ff23838df545c725962e3d2007de",
-      "mtime": "1659188240",
-      "size": "38299",
-      "md5": "f68f58a70a96879eb5334cadfd29cd6c",
-      "crc32": "1317bbeb",
-      "sha1": "95a0d3550a79cc72a1e3bbb66d6ab0c731ff9132",
+      "btih": "b50666ff1cbd48e362652fba4cc576b77301b353",
+      "mtime": "1659228267",
+      "size": "38508",
+      "md5": "37e45c157344a772e320028f3a477cac",
+      "crc32": "9f9d8124",
+      "sha1": "c0d8a1a3e20b65a33ae416c586f16ed3c82bec48",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theleftbench-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dd0ac27d53b251bf938d4e31ea44c251",
+      "md5": "e92c0060995ae8cda67d0baff4e7b472",
       "summation": "md5"
     },
     {
@@ -1829,9 +1840,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 175,
-  "item_last_updated": 1659188240,
-  "item_size": 16741298,
+  "files_count": 176,
+  "item_last_updated": 1659228267,
+  "item_size": 16751631,
   "metadata": {
     "identifier": "theleftbench-2022",
     "collection": [
@@ -1848,19 +1859,7 @@
     "publicdate": "2022-07-12 20:46:28",
     "addeddate": "2022-07-12 20:46:28"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348055814,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
+  "server": "ia801401.us.archive.org",
   "theleftbench-2022": [
     {
       "url": "https://theleftbench.com/",
@@ -1902,8 +1901,9 @@
       }
     }
   ],
-  "uniq": 1808678803,
+  "uniq": 1045899086,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

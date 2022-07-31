@@ -1,5 +1,5 @@
 {
-  "created": 1659223183,
+  "created": 1659269644,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/5/items/florida_bulldog-2022",
@@ -2045,31 +2045,83 @@
       "format": "JSON"
     },
     {
+      "name": "florida_bulldog-2022-07-30T19:18:48.776143-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "florida_bulldog-2022-07-30T19:18:48.776143-04:00.jpg",
+      "mtime": "1659254151",
+      "size": "10465",
+      "md5": "3575d0cd2a599ecf78500d21ed22278d",
+      "crc32": "6d307010",
+      "sha1": "3bb31b8ed43f2f1d4fcc4e45d5000109c18922c0"
+    },
+    {
+      "name": "florida_bulldog-2022-07-31T07:13:06.588200-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659265989",
+      "size": "34037",
+      "md5": "057546c4c12b69623b73faa825e23612",
+      "crc32": "53f8a6b4",
+      "sha1": "499d2676cf1c61df05c60c5678a31813bf00c055",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_bulldog-2022-07-31T07:13:06.588200-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659265991",
+      "size": "18403",
+      "md5": "f6cde41d69aa8b350bb1a21106c2dd45",
+      "crc32": "2dbae778",
+      "sha1": "32acbdd5520aa360fcadd5f08512cfa786ffc258",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_bulldog-2022-07-31T07:13:06.588200-04:00.jpg",
+      "source": "original",
+      "mtime": "1659265988",
+      "size": "271878",
+      "md5": "131fae112519e642a12e34d904641447",
+      "crc32": "c4a12f59",
+      "sha1": "3fd1c74af934aac6acfe321e30499ede1044beda",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "florida_bulldog-2022-07-31T07:13:06.588200-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659265992",
+      "size": "1528",
+      "md5": "9c198dfc3438d65a176e139c27da9bd7",
+      "crc32": "04a40e98",
+      "sha1": "8b482a934160aa867df34a4e8e4ee34e05d6c166",
+      "format": "JSON"
+    },
+    {
       "name": "florida_bulldog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8f19938692ae3b4af67d2968cb7b68f9bd99ffef",
-      "mtime": "1659223180",
-      "size": "43849",
-      "md5": "e47e6ffdfbe475f6b83a1d1388b1b0b6",
-      "crc32": "dbf33016",
-      "sha1": "7e86a2cd82582f87c2928f0ca4e530d481ffb3c2",
+      "btih": "331544b2c159be7772820b65ecf6a71696abcc27",
+      "mtime": "1659266030",
+      "size": "44944",
+      "md5": "0e2d348130a56c749dc56a6908773e02",
+      "crc32": "715d6d02",
+      "sha1": "4b88a10bdaa331ec23362ad05c304a03d169b14d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "florida_bulldog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4078c3da6edc386597ea522ba8b2a0ee",
+      "md5": "cc8240e82a998a6730859411ecab0b64",
       "summation": "md5"
     },
     {
       "name": "florida_bulldog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659223145",
-      "size": "253952",
-      "md5": "ed99eec85531b8e18b169d04e4b93981",
-      "crc32": "144d3819",
-      "sha1": "4ba5c52b64cd9e7e9598423a72a9be88eec47053",
+      "mtime": "1659265995",
+      "size": "262144",
+      "md5": "7ab6272418ba0136e3b08adc73f8388e",
+      "crc32": "61ae57c3",
+      "sha1": "57ea8ad76b3ebe54795995d1cdd600b2b8979f97",
       "format": "Metadata"
     },
     {
@@ -2083,9 +2135,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 199,
-  "item_last_updated": 1659223180,
-  "item_size": 14716019,
+  "files_count": 204,
+  "florida_bulldog-2022": [
+    {
+      "url": "https://www.floridabulldog.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_floridabulldog_org-_-2022_07_31_10_53_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_floridabulldog_org-_-2022_07_31_10_53_05.report.json",
+      "summary": {
+        "performance": 0.35,
+        "accessibility": 0.7,
+        "best-practices": 0.92,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.floridabulldog.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_floridabulldog_org-_-2022_07_31_10_53_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_floridabulldog_org-_-2022_07_31_10_53_34.report.json",
+      "summary": {
+        "performance": 0.41,
+        "accessibility": 0.7,
+        "best-practices": 0.92,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.floridabulldog.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_floridabulldog_org-_-2022_07_31_10_53_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_floridabulldog_org-_-2022_07_31_10_53_20.report.json",
+      "summary": {
+        "performance": 0.43,
+        "accessibility": 0.7,
+        "best-practices": 0.92,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "item_last_updated": 1659266030,
+  "item_size": 15061617,
   "metadata": {
     "identifier": "florida_bulldog-2022",
     "collection": [
@@ -2107,7 +2200,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348364360,
+      "task_id": 3348713348,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2115,7 +2208,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1883458271,
+  "uniq": 466299620,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

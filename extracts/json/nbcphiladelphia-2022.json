@@ -1,5 +1,5 @@
 {
-  "created": 1659227483,
+  "created": 1659256875,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/4/items/nbcphiladelphia-2022",
@@ -2843,21 +2843,32 @@
       "format": "JSON"
     },
     {
+      "name": "nbcphiladelphia-2022-07-30T20:30:34.509634-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcphiladelphia-2022-07-30T20:30:34.509634-04:00.jpg",
+      "mtime": "1659256842",
+      "size": "9903",
+      "md5": "e05e072648a08b3f708b596c6d304f60",
+      "crc32": "a9fcceb1",
+      "sha1": "6d12c815fd6e19da9cdba779e4044217e089f3ec"
+    },
+    {
       "name": "nbcphiladelphia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "204b89d8bff678c3b544082fe57e538a7674362c",
-      "mtime": "1659227480",
-      "size": "60570",
-      "md5": "f4a2691ab42e84d5e37c94e93e678429",
-      "crc32": "9e539055",
-      "sha1": "e4109110073076393132fad04570f4c4ae5231f0",
+      "btih": "d806d546a6d95324adf4c47630ecf234a033ba2f",
+      "mtime": "1659256850",
+      "size": "60781",
+      "md5": "5b5b69794fb79573203c5dcf91c5f96e",
+      "crc32": "7d16766b",
+      "sha1": "a65722632a32a67eae1acf61e4c6c6f5b058f45e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcphiladelphia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "314f2bfc7f3f74e1e68ac606112e0192",
+      "md5": "ece682cf0c79c40e8af9b479842b3820",
       "summation": "md5"
     },
     {
@@ -2881,9 +2892,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 275,
-  "item_last_updated": 1659227480,
-  "item_size": 25999541,
+  "files_count": 276,
+  "item_last_updated": 1659256850,
+  "item_size": 26009655,
   "metadata": {
     "identifier": "nbcphiladelphia-2022",
     "collection": [
@@ -2900,21 +2911,10 @@
     "publicdate": "2022-07-03 15:52:43",
     "addeddate": "2022-07-03 15:52:43"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348394074,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1922376179,
+  "server": "ia801401.us.archive.org",
+  "uniq": 245160888,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

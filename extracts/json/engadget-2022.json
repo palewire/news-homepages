@@ -1,5 +1,5 @@
 {
-  "created": 1659195567,
+  "created": 1659265862,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/15/items/engadget-2022",
@@ -3053,31 +3053,94 @@
       "format": "JSON"
     },
     {
+      "name": "engadget-2022-07-30T08:38:03.560608-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "engadget-2022-07-30T08:38:03.560608-07:00.jpg",
+      "mtime": "1659234010",
+      "size": "9941",
+      "md5": "d18c1184a75b131dcac09b7a731b70b4",
+      "crc32": "d9f86a90",
+      "sha1": "b14f526809b5e2365e357bb756df14109e9d042c"
+    },
+    {
+      "name": "engadget-2022-07-30T19:55:26.893334-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659236129",
+      "size": "26481",
+      "md5": "d63528389498ea49e9a112efe673d93e",
+      "crc32": "393de1e1",
+      "sha1": "823724eb8e1aea3b5a4ea493a7e1681258b82ad5",
+      "format": "JSON"
+    },
+    {
+      "name": "engadget-2022-07-30T19:55:26.893334-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659236130",
+      "size": "22097",
+      "md5": "8257bb37b396e91882d07f5f85f29af2",
+      "crc32": "84899dd4",
+      "sha1": "686e86cf3572e46843fcc3f642214f8f1dd5ee2b",
+      "format": "JSON"
+    },
+    {
+      "name": "engadget-2022-07-30T19:55:26.893334-07:00.jpg",
+      "source": "original",
+      "mtime": "1659236128",
+      "size": "240722",
+      "md5": "e5598cdfe022d642c662e5b6ca1a76e1",
+      "crc32": "e0bc2a2b",
+      "sha1": "cd02ff27af6e6176e8de40445a83b6640b089956",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "engadget-2022-07-30T19:55:26.893334-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659236132",
+      "size": "1477",
+      "md5": "6f1c6a03188622d7fbeba5464df2d2b9",
+      "crc32": "53f8b843",
+      "sha1": "51f4588f1757d40a06422465481cc06057e1aa55",
+      "format": "JSON"
+    },
+    {
+      "name": "engadget-2022-07-30T19:55:26.893334-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "engadget-2022-07-30T19:55:26.893334-07:00.jpg",
+      "mtime": "1659260848",
+      "size": "10010",
+      "md5": "1efa9be335e9e07b3931eebaee618924",
+      "crc32": "10c54191",
+      "sha1": "0d342f346d150fc350df1bff60e8087f1be7db5c"
+    },
+    {
       "name": "engadget-2022_archive.torrent",
       "source": "metadata",
-      "btih": "932eee5e71450fb51e3c1a3cccb524627b107c15",
-      "mtime": "1659195559",
-      "size": "62570",
-      "md5": "a59627e3eb8383df870196fef9cc2417",
-      "crc32": "ea4b18ca",
-      "sha1": "68fbb4614ddae63a91678a50b44e81cc624775ff",
+      "btih": "6a87d8acbd997262f455364042461bf79c1c8199",
+      "mtime": "1659260853",
+      "size": "63834",
+      "md5": "200380b73ca73ad293c9e327f069e72b",
+      "crc32": "6e44b2c6",
+      "sha1": "79226456311c78a777e902b888d29520fca00c2e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "engadget-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3ddc5ee21d3a16b9386a97eeb050cc5a",
+      "md5": "43427aa9beef4b9da86c72af79a2f9fe",
       "summation": "md5"
     },
     {
       "name": "engadget-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659195555",
-      "size": "360448",
-      "md5": "bc5c35be2fd90b1131d620dbf3287504",
-      "crc32": "6174025f",
-      "sha1": "c094347ae3b254d489d0dc3a93b620c5f0781412",
+      "mtime": "1659236135",
+      "size": "368640",
+      "md5": "dc9d8bb6ca8bf978fe082c133acd99b5",
+      "crc32": "7655bed8",
+      "sha1": "b1034a796b3e422f7c93faea825eb5def1838bd5",
       "format": "Metadata"
     },
     {
@@ -3091,9 +3154,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 295,
-  "item_last_updated": 1659195559,
-  "item_size": 21026770,
+  "files_count": 301,
+  "item_last_updated": 1659260853,
+  "item_size": 21346954,
   "metadata": {
     "identifier": "engadget-2022",
     "collection": [
@@ -3110,21 +3173,10 @@
     "publicdate": "2022-07-04 20:17:31",
     "addeddate": "2022-07-04 20:17:31"
   },
-  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348118352,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1078138851,
+  "uniq": 1546390778,
   "workable_servers": [
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

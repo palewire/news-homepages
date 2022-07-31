@@ -1,5 +1,5 @@
 {
-  "created": 1659227773,
+  "created": 1659263880,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/17/items/restofworld-2022",
@@ -577,31 +577,94 @@
       "format": "JSON"
     },
     {
+      "name": "restofworld-2022-07-30T11:56:40.734538-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "restofworld-2022-07-30T11:56:40.734538-04:00.jpg",
+      "mtime": "1659235014",
+      "size": "10092",
+      "md5": "c71eac35e55036e07e61ad3a8c8101d0",
+      "crc32": "f0522301",
+      "sha1": "256227b55252539deccfa82b00a78a1e777be482"
+    },
+    {
+      "name": "restofworld-2022-07-31T00:06:07.161002-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659240370",
+      "size": "33233",
+      "md5": "6fac5ce1bcebb5d97ac8205d41b7d7b4",
+      "crc32": "da97d29e",
+      "sha1": "86b00997fe97ee4ee0cb917cb9a98d06423424a7",
+      "format": "JSON"
+    },
+    {
+      "name": "restofworld-2022-07-31T00:06:07.161002-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659240371",
+      "size": "31985",
+      "md5": "28d26473956e7557c2d7efaae0c62b91",
+      "crc32": "1f700816",
+      "sha1": "d5c1cb00572f969324ae84480c5cf69ba0b6c83c",
+      "format": "JSON"
+    },
+    {
+      "name": "restofworld-2022-07-31T00:06:07.161002-04:00.jpg",
+      "source": "original",
+      "mtime": "1659240368",
+      "size": "320887",
+      "md5": "66ca42bea1d56ca6aab4af19d382598d",
+      "crc32": "d8a3fcda",
+      "sha1": "387f8f1845865e76d1d3580c44ddf0570c3aa544",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "restofworld-2022-07-31T00:06:07.161002-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659240372",
+      "size": "1459",
+      "md5": "c08c339cf496eca70dadc5cb10425a59",
+      "crc32": "01ed6432",
+      "sha1": "d84eca95528ca4a3a47741fb861a7ac23525d3ac",
+      "format": "JSON"
+    },
+    {
+      "name": "restofworld-2022-07-31T00:06:07.161002-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "restofworld-2022-07-31T00:06:07.161002-04:00.jpg",
+      "mtime": "1659263829",
+      "size": "10030",
+      "md5": "257f12a571e399ddfc6be72e60e446a1",
+      "crc32": "45c73139",
+      "sha1": "d1f557b009dc6e1ed6ba7f52ca4ae6582828d671"
+    },
+    {
       "name": "restofworld-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9d3c5fd24a1dfdf70dbed58283a771e2718ca305",
-      "mtime": "1659196682",
-      "size": "13211",
-      "md5": "803aa311c7c617132feed45d695eac44",
-      "crc32": "ed632cc9",
-      "sha1": "8ea391ae7a1bed5e98056f5560a7656ca2b6829e",
+      "btih": "1831fe5d9cecf2bfe13f969595b2fa842c9bb3bb",
+      "mtime": "1659263833",
+      "size": "14494",
+      "md5": "5a086d95cbee1704fa12b06b676a3441",
+      "crc32": "5235ad00",
+      "sha1": "76259f7dadb0701aa3ffe9742259951fce1c6600",
       "format": "Archive BitTorrent"
     },
     {
       "name": "restofworld-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8db07e0b3279ffc728a625a0b113a49c",
+      "md5": "98ebc197a9135f21e76aa44a1a4b3a58",
       "summation": "md5"
     },
     {
       "name": "restofworld-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659196680",
-      "size": "81920",
-      "md5": "9d30ff36b1a027e4844f85ed4da9df0b",
-      "crc32": "d14f0471",
-      "sha1": "cc06c48aa9ad0538d73f7fda00e2b46f3e621168",
+      "mtime": "1659240376",
+      "size": "86016",
+      "md5": "acbe1b939d176c556ce1ceb4b497dc01",
+      "crc32": "85ef8a3b",
+      "sha1": "3b9ec99b7ea41a0e0c7271e705dd396b3f4a8b2f",
       "format": "Metadata"
     },
     {
@@ -615,9 +678,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 59,
-  "item_last_updated": 1659196682,
-  "item_size": 4579078,
+  "files_count": 65,
+  "item_last_updated": 1659263833,
+  "item_size": 4992143,
   "metadata": {
     "identifier": "restofworld-2022",
     "collection": [
@@ -634,62 +697,10 @@
     "publicdate": "2022-07-25 15:39:47",
     "addeddate": "2022-07-25 15:39:47"
   },
-  "pending_tasks": true,
-  "restofworld-2022": [
-    {
-      "url": "https://restofworld.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/restofworld_org-_-2022_07_30_15_23_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/restofworld_org-_-2022_07_30_15_23_31.report.json",
-      "summary": {
-        "performance": 0.83,
-        "accessibility": 0.96,
-        "best-practices": 1,
-        "seo": 0.97,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://restofworld.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/restofworld_org-_-2022_07_30_15_23_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/restofworld_org-_-2022_07_30_15_23_56.report.json",
-      "summary": {
-        "performance": 0.66,
-        "accessibility": 0.96,
-        "best-practices": 1,
-        "seo": 0.97,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://restofworld.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/restofworld_org-_-2022_07_30_15_23_43.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/restofworld_org-_-2022_07_30_15_23_43.report.json",
-      "summary": {
-        "performance": 0.86,
-        "accessibility": 0.96,
-        "best-practices": 1,
-        "seo": 0.97,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348127718,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1977154061,
+  "server": "ia801400.us.archive.org",
+  "uniq": 811973482,
   "workable_servers": [
+    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

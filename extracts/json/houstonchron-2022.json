@@ -1,5 +1,5 @@
 {
-  "created": 1659223338,
+  "created": 1659266119,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/25/items/houstonchron-2022",
@@ -2339,31 +2339,83 @@
       "format": "JSON"
     },
     {
+      "name": "houstonchron-2022-07-30T18:20:21.294600-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "houstonchron-2022-07-30T18:20:21.294600-05:00.jpg",
+      "mtime": "1659254363",
+      "size": "10636",
+      "md5": "f9831aad582c993131a5d0af6c63fc6b",
+      "crc32": "36d1123f",
+      "sha1": "86cc038ff4c2c2a570418971bfdad57dc6dad5e2"
+    },
+    {
+      "name": "houstonchron-2022-07-31T06:14:30.834926-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659266073",
+      "size": "66434",
+      "md5": "7b32cbe28c4f271197ae6bdeaa56b612",
+      "crc32": "a4f1df85",
+      "sha1": "502249991d7e0dbcedfd8a653ceec64d005787d1",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-07-31T06:14:30.834926-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659266075",
+      "size": "80485",
+      "md5": "1c778d7729876c33c36c944dddec4bc3",
+      "crc32": "db5661a1",
+      "sha1": "fad1105ce8519bc91982a81c5ab6ecfe3bb7f554",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-07-31T06:14:30.834926-05:00.jpg",
+      "source": "original",
+      "mtime": "1659266072",
+      "size": "328386",
+      "md5": "9d9f2db5d48b6242c51c31c95cd5fc5f",
+      "crc32": "8445f483",
+      "sha1": "ce978130c050d9b352cc6f5b28343995b34e5570",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "houstonchron-2022-07-31T06:14:30.834926-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659266076",
+      "size": "1549",
+      "md5": "5f58ad712374d1bad21d8a7ecfc29641",
+      "crc32": "ffc2cb1c",
+      "sha1": "e3218a45050dd8e14539088c4168549dc4dd9c84",
+      "format": "JSON"
+    },
+    {
       "name": "houstonchron-2022_archive.torrent",
       "source": "metadata",
-      "btih": "89b0d17b4ccc9eec0bafcb6cdb18bbfd071a1747",
-      "mtime": "1659223330",
-      "size": "49550",
-      "md5": "7ddc3dbd6e21b2456fd6377cc9354900",
-      "crc32": "01b5dd99",
-      "sha1": "0328731910392dd26aacccf5a262086981bde379",
+      "btih": "79bf3b3bf775a4c3bc5badfcddd118207fc703e8",
+      "mtime": "1659266117",
+      "size": "50630",
+      "md5": "1c0ba6a5ab46df970c54f8406deb8b7a",
+      "crc32": "24d34c67",
+      "sha1": "a74847adafeae2b22272fe92a159ef4f44a9fc9d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "houstonchron-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d472809a0c5b36c7a853cec3e6e11642",
+      "md5": "b1b4bbc7c57d27a0f946da028ef8447b",
       "summation": "md5"
     },
     {
       "name": "houstonchron-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659223327",
-      "size": "282624",
-      "md5": "817fea94252b16aa3688638e7efef570",
-      "crc32": "d72f2082",
-      "sha1": "270b5fb3de753ecf871e12ae33388ef80ddfd1db",
+      "mtime": "1659266081",
+      "size": "290816",
+      "md5": "8329cd7bd9e7e875bcee7082706aff6a",
+      "crc32": "50971fc8",
+      "sha1": "cf0af105700323ac6060dc245c82d157a1fe43d7",
       "format": "Metadata"
     },
     {
@@ -2377,9 +2429,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 227,
-  "item_last_updated": 1659223330,
-  "item_size": 24142922,
+  "files_count": 232,
+  "item_last_updated": 1659266117,
+  "item_size": 24639684,
   "metadata": {
     "identifier": "houstonchron-2022",
     "collection": [
@@ -2401,7 +2453,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348365261,
+      "task_id": 3348713899,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2409,7 +2461,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 81507623,
+  "uniq": 533884066,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

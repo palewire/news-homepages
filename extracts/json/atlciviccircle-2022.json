@@ -1,46 +1,5 @@
 {
-  "atlciviccircle-2022": [
-    {
-      "url": "https://atlantaciviccircle.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlantaciviccircle_org-_-2022_07_30_13_06_06.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlantaciviccircle_org-_-2022_07_30_13_06_06.report.json",
-      "summary": {
-        "performance": 0.89,
-        "accessibility": 0.83,
-        "best-practices": 1,
-        "seo": 0.83,
-        "pwa": 0.8
-      }
-    },
-    {
-      "url": "https://atlantaciviccircle.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlantaciviccircle_org-_-2022_07_30_13_06_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlantaciviccircle_org-_-2022_07_30_13_06_17.report.json",
-      "summary": {
-        "performance": 0.83,
-        "accessibility": 0.89,
-        "best-practices": 1,
-        "seo": 0.9,
-        "pwa": 0.8
-      }
-    },
-    {
-      "url": "https://atlantaciviccircle.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlantaciviccircle_org-_-2022_07_30_13_05_52.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlantaciviccircle_org-_-2022_07_30_13_05_52.report.json",
-      "summary": {
-        "performance": 0.59,
-        "accessibility": 0.89,
-        "best-practices": 1,
-        "seo": 0.9,
-        "pwa": 0.8
-      }
-    }
-  ],
-  "created": 1659227099,
+  "created": 1659260589,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/21/items/atlciviccircle-2022",
@@ -2128,31 +2087,94 @@
       "format": "JSON"
     },
     {
+      "name": "atlciviccircle-2022-07-30T09:31:11.853201-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlciviccircle-2022-07-30T09:31:11.853201-04:00.jpg",
+      "mtime": "1659227920",
+      "size": "10460",
+      "md5": "aad5924016caa4d458258c3ea4553681",
+      "crc32": "3552b786",
+      "sha1": "c3c4389337c4cd2c98d8236c750d26f84e6e1352"
+    },
+    {
+      "name": "atlciviccircle-2022-07-30T22:43:22.881413-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659235405",
+      "size": "14425",
+      "md5": "042c19cff930f83c4c15364a5b999aca",
+      "crc32": "bfeabcf9",
+      "sha1": "b63aaccddda7a9f11c53937ffca817b9a5a7a3ac",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-07-30T22:43:22.881413-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659235407",
+      "size": "15025",
+      "md5": "ab21e02d40f143a86a19fd8715b8f3d5",
+      "crc32": "1186bbf8",
+      "sha1": "2f3733f574e8378b2ab0b4765b20bde6acb940ba",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-07-30T22:43:22.881413-04:00.jpg",
+      "source": "original",
+      "mtime": "1659235404",
+      "size": "269309",
+      "md5": "2fa19318b76e6e977279a3f50dac3601",
+      "crc32": "3dc629f9",
+      "sha1": "13f47879dd24d28e6730f19b2b0b62c5d0ce66c3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlciviccircle-2022-07-30T22:43:22.881413-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659235408",
+      "size": "1519",
+      "md5": "14269e1c20de9e25d71e9ebecade5e64",
+      "crc32": "11e9ccbe",
+      "sha1": "232b7346249f50604d4143065abcbabd083167d6",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-07-30T22:43:22.881413-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlciviccircle-2022-07-30T22:43:22.881413-04:00.jpg",
+      "mtime": "1659260557",
+      "size": "10460",
+      "md5": "aad5924016caa4d458258c3ea4553681",
+      "crc32": "3552b786",
+      "sha1": "c3c4389337c4cd2c98d8236c750d26f84e6e1352"
+    },
+    {
       "name": "atlciviccircle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e568c539582e39220bf3835d1e12d736ab9a2979",
-      "mtime": "1659187965",
-      "size": "44553",
-      "md5": "f508fa2aea9000abc43841975e30ac24",
-      "crc32": "4bac49f0",
-      "sha1": "da07f5302f2b460c9a7f45ac0d59123ce1377ffb",
+      "btih": "6d4534a8a64bf1f5b1e9e31a0bcc1ba52d503e5a",
+      "mtime": "1659260565",
+      "size": "45854",
+      "md5": "5cb4931b532eba0957fef8242e84aff0",
+      "crc32": "b900c606",
+      "sha1": "e4fe26cdc6ff3327d8e750ea8e581d7145a05a5d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "atlciviccircle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ce11fe2b1a8b4817f743d949e540a6b1",
+      "md5": "0594645ef7c76a4a87837e5261f5c3a9",
       "summation": "md5"
     },
     {
       "name": "atlciviccircle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659187961",
-      "size": "258048",
-      "md5": "a32f195ec15d2516af982e17c128f3f1",
-      "crc32": "370bd448",
-      "sha1": "769e7c3a268665dd72744cfba381fed37d7829d9",
+      "mtime": "1659235413",
+      "size": "266240",
+      "md5": "914243ab0063d6527a6f5bbd76b185a9",
+      "crc32": "7dcfce38",
+      "sha1": "26e32a87dfa3a5144adc73808ec3427752cf5ba0",
       "format": "Metadata"
     },
     {
@@ -2166,9 +2188,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 203,
-  "item_last_updated": 1659187965,
-  "item_size": 15069694,
+  "files_count": 209,
+  "item_last_updated": 1659260565,
+  "item_size": 15400385,
   "metadata": {
     "identifier": "atlciviccircle-2022",
     "collection": [
@@ -2185,21 +2207,10 @@
     "publicdate": "2022-07-09 03:55:48",
     "addeddate": "2022-07-09 03:55:48"
   },
-  "pending_tasks": true,
-  "server": "ia902501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348053200,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1235033460,
+  "server": "ia802501.us.archive.org",
+  "uniq": 1650077067,
   "workable_servers": [
+    "ia802501.us.archive.org",
     "ia902501.us.archive.org"
   ]
 }

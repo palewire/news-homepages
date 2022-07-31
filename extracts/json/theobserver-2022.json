@@ -1,5 +1,5 @@
 {
-  "created": 1659227986,
+  "created": 1659270175,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/35/items/theobserver-2022",
@@ -1911,31 +1911,94 @@
       "format": "JSON"
     },
     {
+      "name": "theobserver-2022-07-30T12:00:04.882609-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theobserver-2022-07-30T12:00:04.882609-04:00.jpg",
+      "mtime": "1659235318",
+      "size": "9723",
+      "md5": "7177b933565939c929f618dbfca3f586",
+      "crc32": "a5d8153d",
+      "sha1": "45c8691d5af076e0807a2ac8566d44a71d2e0002"
+    },
+    {
+      "name": "theobserver-2022-07-31T00:09:51.981800-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659240595",
+      "size": "466",
+      "md5": "0a5cf552b1af074689890fac5fc0d6b7",
+      "crc32": "3d6c29dc",
+      "sha1": "1495213db3d776c7445551455d1e6f47c72cc874",
+      "format": "JSON"
+    },
+    {
+      "name": "theobserver-2022-07-31T00:09:51.981800-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659240596",
+      "size": "40510",
+      "md5": "458906452bd566ef3731ecec28b61e2b",
+      "crc32": "c285d250",
+      "sha1": "d8ea190e20dd205222d742fbd6a610840ce72e99",
+      "format": "JSON"
+    },
+    {
+      "name": "theobserver-2022-07-31T00:09:51.981800-04:00.jpg",
+      "source": "original",
+      "mtime": "1659240594",
+      "size": "256950",
+      "md5": "164d35c2285c95469153c5a9d7d752d9",
+      "crc32": "5b0445c8",
+      "sha1": "1d994d7a72a4c306d1b0856ceef97da60578e6e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theobserver-2022-07-31T00:09:51.981800-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659240598",
+      "size": "1555",
+      "md5": "e2752ceafe2a83a4b4326d159d7895ab",
+      "crc32": "7306116b",
+      "sha1": "95cd5670036d009316f9badb3f52455d61bb6e36",
+      "format": "JSON"
+    },
+    {
+      "name": "theobserver-2022-07-31T00:09:51.981800-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theobserver-2022-07-31T00:09:51.981800-04:00.jpg",
+      "mtime": "1659263953",
+      "size": "9545",
+      "md5": "6a8e676d1be67a15f5b539e7a363e7e3",
+      "crc32": "fe189b73",
+      "sha1": "dae16c6c77daa0eb497acc020d86c9ceee9fedb7"
+    },
+    {
       "name": "theobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6ddaa1d46e5e95a7e01aefa306a8aa81c4622efd",
-      "mtime": "1659196879",
-      "size": "40201",
-      "md5": "d7c0c9e7638591e5093aac070a5eff18",
-      "crc32": "bb7af78c",
-      "sha1": "22267ac439ff23a4bff8238e72381b9203a2d279",
+      "btih": "cb4fb2bf954941ff25975098d8b1120555564ef1",
+      "mtime": "1659263979",
+      "size": "41480",
+      "md5": "7c38c2543b42b38e6a4bffc507e48599",
+      "crc32": "fbe4e444",
+      "sha1": "482aa38d282dcab789b6a4e16699d5636292d69e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9de7fe2b29165c5f396de3cc239fba0a",
+      "md5": "a71e0c5248f1af6c0ba3e61f4c92bc7d",
       "summation": "md5"
     },
     {
       "name": "theobserver-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659196876",
-      "size": "237568",
-      "md5": "ee7592eb3b3db4ece0ba4b4ea058b553",
-      "crc32": "6e2467e9",
-      "sha1": "03cd56b28c95efbec2c293a264cb698b9e7f9e68",
+      "mtime": "1659240604",
+      "size": "241664",
+      "md5": "f8faf5acc9c7a99d5af52d845c9e110c",
+      "crc32": "ad594d43",
+      "sha1": "267a78e119ae44d0fc0840a5a0307dff8a13d8fb",
       "format": "Metadata"
     },
     {
@@ -1949,9 +2012,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 186,
-  "item_last_updated": 1659196879,
-  "item_size": 14627507,
+  "files_count": 192,
+  "item_last_updated": 1659263979,
+  "item_size": 14951631,
   "metadata": {
     "identifier": "theobserver-2022",
     "collection": [
@@ -1968,62 +2031,51 @@
     "publicdate": "2022-07-10 14:53:55",
     "addeddate": "2022-07-10 14:53:55"
   },
-  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348130083,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
   "theobserver-2022": [
     {
       "url": "https://www.charlotteobserver.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_charlotteobserver_com-_-2022_07_30_15_29_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_charlotteobserver_com-_-2022_07_30_15_29_56.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_charlotteobserver_com-_-2022_07_31_03_48_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_charlotteobserver_com-_-2022_07_31_03_48_55.report.json",
       "summary": {
-        "performance": 0.18,
+        "performance": 0.17,
         "accessibility": 0.78,
-        "best-practices": 0.75,
-        "seo": 0.76,
+        "best-practices": null,
+        "seo": 0.75,
         "pwa": 0.4
       }
     },
     {
       "url": "https://www.charlotteobserver.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_charlotteobserver_com-_-2022_07_30_15_30_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_charlotteobserver_com-_-2022_07_30_15_30_20.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_charlotteobserver_com-_-2022_07_31_03_49_47.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_charlotteobserver_com-_-2022_07_31_03_49_47.report.json",
       "summary": {
-        "performance": 0.12,
-        "accessibility": 0.78,
-        "best-practices": null,
-        "seo": 0.76,
+        "performance": 0.14,
+        "accessibility": 1,
+        "best-practices": 0.75,
+        "seo": 0.83,
         "pwa": 0.4
       }
     },
     {
       "url": "https://www.charlotteobserver.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_charlotteobserver_com-_-2022_07_30_15_30_43.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_charlotteobserver_com-_-2022_07_30_15_30_43.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_charlotteobserver_com-_-2022_07_31_03_49_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_charlotteobserver_com-_-2022_07_31_03_49_23.report.json",
       "summary": {
         "performance": 0.16,
-        "accessibility": 1,
+        "accessibility": 0.78,
         "best-practices": null,
-        "seo": 0.83,
+        "seo": 0.75,
         "pwa": 0.4
       }
     }
   ],
-  "uniq": 479306680,
+  "uniq": 661378454,
   "workable_servers": [
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

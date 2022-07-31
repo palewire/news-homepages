@@ -1,5 +1,5 @@
 {
-  "created": 1659227624,
+  "created": 1659256982,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/peninsupress-2022",
@@ -3609,21 +3609,32 @@
       "format": "JSON"
     },
     {
+      "name": "peninsupress-2022-07-30T17:32:45.386115-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "peninsupress-2022-07-30T17:32:45.386115-07:00.jpg",
+      "mtime": "1659256936",
+      "size": "9060",
+      "md5": "581f2ac03be6aafcdef618fcd5ad18b0",
+      "crc32": "0dba4457",
+      "sha1": "a6c477f4577345630b10f9411af7f18128d246a3"
+    },
+    {
       "name": "peninsupress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a739471ad61e7e28906e5fcdf4fbc3251288af51",
-      "mtime": "1659227619",
-      "size": "74715",
-      "md5": "0780ba1075c71cceb5a1f8bf30d5b168",
-      "crc32": "da2e04e8",
-      "sha1": "acfa5fab1c2ed65e03f85b0578c2c16e484d4af7",
+      "btih": "936bc5d706b9342d8dc337867eaecf339317d04d",
+      "mtime": "1659256953",
+      "size": "74923",
+      "md5": "c2ea438b1714b8073541d4a10069e650",
+      "crc32": "0381a517",
+      "sha1": "f515dbc2185e5d58f8d3bc0461422e199bda27a9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "peninsupress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d2c9071e18e2856dbf9db817e71411d1",
+      "md5": "9137162b0b7cc6305806e11ec1485c93",
       "summation": "md5"
     },
     {
@@ -3647,9 +3658,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 348,
-  "item_last_updated": 1659227619,
-  "item_size": 16769650,
+  "files_count": 349,
+  "item_last_updated": 1659256953,
+  "item_size": 16778918,
   "metadata": {
     "identifier": "peninsupress-2022",
     "collection": [
@@ -3666,21 +3677,10 @@
     "publicdate": "2022-06-30 20:48:32",
     "addeddate": "2022-06-30 20:48:32"
   },
-  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348395397,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1722036902,
+  "uniq": 1194290534,
   "workable_servers": [
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

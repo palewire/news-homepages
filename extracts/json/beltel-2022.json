@@ -3,10 +3,10 @@
     {
       "url": "https://m.belfasttelegraph.co.uk/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_belfasttelegraph_co_uk-_-2022_07_30_22_47_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_belfasttelegraph_co_uk-_-2022_07_30_22_47_38.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_belfasttelegraph_co_uk-_-2022_07_31_10_44_32.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_belfasttelegraph_co_uk-_-2022_07_31_10_44_32.report.json",
       "summary": {
-        "performance": 0.25,
+        "performance": 0.24,
         "accessibility": 0.87,
         "best-practices": 0.75,
         "seo": 0.92,
@@ -16,8 +16,8 @@
     {
       "url": "https://m.belfasttelegraph.co.uk/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_belfasttelegraph_co_uk-_-2022_07_30_22_47_58.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_belfasttelegraph_co_uk-_-2022_07_30_22_47_58.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_belfasttelegraph_co_uk-_-2022_07_31_10_45_04.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_belfasttelegraph_co_uk-_-2022_07_31_10_45_04.report.json",
       "summary": {
         "performance": 0.31,
         "accessibility": 0.87,
@@ -29,10 +29,10 @@
     {
       "url": "https://m.belfasttelegraph.co.uk/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_belfasttelegraph_co_uk-_-2022_07_30_22_48_16.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_belfasttelegraph_co_uk-_-2022_07_30_22_48_16.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_belfasttelegraph_co_uk-_-2022_07_31_10_44_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_belfasttelegraph_co_uk-_-2022_07_31_10_44_49.report.json",
       "summary": {
-        "performance": 0.31,
+        "performance": 0.3,
         "accessibility": 0.87,
         "best-practices": 0.75,
         "seo": 0.92,
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "created": 1659227135,
+  "created": 1659269495,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/28/items/beltel-2022",
@@ -1330,31 +1330,83 @@
       "format": "JSON"
     },
     {
+      "name": "beltel-2022-07-31T00:13:28.894085+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "beltel-2022-07-31T00:13:28.894085+01:00.jpg",
+      "mtime": "1659254022",
+      "size": "9210",
+      "md5": "d9dcbedec0aec1912eafed8afc8c48fd",
+      "crc32": "849e5514",
+      "sha1": "74a96e54066b43a5bbd3296d11a48e93edc07ace"
+    },
+    {
+      "name": "beltel-2022-07-31T12:07:28.996517+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659265652",
+      "size": "39682",
+      "md5": "ce787fb6bb63bde8f367265548c978b2",
+      "crc32": "20d5c2d1",
+      "sha1": "804c6780f66f367d2e737f8cf8f70a475d722204",
+      "format": "JSON"
+    },
+    {
+      "name": "beltel-2022-07-31T12:07:28.996517+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659265653",
+      "size": "89722",
+      "md5": "582dca76ca4169fe6460e06019040da3",
+      "crc32": "f0c68ba5",
+      "sha1": "64ddc4d4ab4fc1ed05f0554426f7079da8269593",
+      "format": "JSON"
+    },
+    {
+      "name": "beltel-2022-07-31T12:07:28.996517+01:00.jpg",
+      "source": "original",
+      "mtime": "1659265651",
+      "size": "257761",
+      "md5": "e44edf8d00b5b99822cf0802f305de8e",
+      "crc32": "591b4878",
+      "sha1": "9830b858220cdf60adfb773e6fcaafd3c3d9f5b0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "beltel-2022-07-31T12:07:28.996517+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659265655",
+      "size": "1548",
+      "md5": "c8fb8c957c0494617338a543d9612d18",
+      "crc32": "ef348070",
+      "sha1": "d855d816fa4de0285a37c78491f16719b2c44b73",
+      "format": "JSON"
+    },
+    {
       "name": "beltel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8f6baca67fcaf9abc2ec33f0aac2f95f9ede52fa",
-      "mtime": "1659223040",
-      "size": "27095",
-      "md5": "a7ca345819374eecfdd03d6e9892af6f",
-      "crc32": "40777310",
-      "sha1": "035a86c140e1141c73a39365477707f84cfbf458",
+      "btih": "ab67de0983af745d40e7e2da66db22c7272f4540",
+      "mtime": "1659265693",
+      "size": "28124",
+      "md5": "5ea0a631ba4b6377f73eaf7bc7627422",
+      "crc32": "47026f86",
+      "sha1": "ee76badc4225a7e0993766a371f2a03aa610d71d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "beltel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "db04e2103d6b58761d6f7444779a36e1",
+      "md5": "959e65a14985347bab1ad3a497becba1",
       "summation": "md5"
     },
     {
       "name": "beltel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659223038",
-      "size": "167936",
-      "md5": "94c9b4700fe9236e6ddaafc291e44da5",
-      "crc32": "0ae3a51b",
-      "sha1": "f7e6bc927acbb248a176b5c7c2b2693040d2339b",
+      "mtime": "1659265659",
+      "size": "176128",
+      "md5": "47a35e274d8b93b1da15429492aaf9fc",
+      "crc32": "488a7492",
+      "sha1": "3996768de059d5740229bd0201a355487266067b",
       "format": "Metadata"
     },
     {
@@ -1368,9 +1420,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 127,
-  "item_last_updated": 1659223040,
-  "item_size": 10579337,
+  "files_count": 132,
+  "item_last_updated": 1659265693,
+  "item_size": 10986481,
   "metadata": {
     "identifier": "beltel-2022",
     "collection": [
@@ -1392,7 +1444,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348363428,
+      "task_id": 3348710478,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1400,7 +1452,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 264928843,
+  "uniq": 864698030,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

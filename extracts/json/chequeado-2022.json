@@ -1,5 +1,5 @@
 {
-  "created": 1659223021,
+  "created": 1659265834,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/29/items/chequeado-2022",
@@ -4787,31 +4787,73 @@
       "format": "JSON"
     },
     {
+      "name": "chequeado-2022-07-30T20:14:59.578047-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chequeado-2022-07-30T20:14:59.578047-03:00.jpg",
+      "mtime": "1659254105",
+      "size": "10297",
+      "md5": "baa5f231d4b2df11a5b52c83b2e1a403",
+      "crc32": "09cce575",
+      "sha1": "4d57a5b60a26bd25e15c775b45e2bcf2bdf3dbe6"
+    },
+    {
+      "name": "chequeado-2022-07-31T08:09:43.685010-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659265786",
+      "size": "1899",
+      "md5": "65a7238f7ba2c36f699cb375eea3769b",
+      "crc32": "25e319d4",
+      "sha1": "502350f63170cae67919c7a42f53a79107ced478",
+      "format": "JSON"
+    },
+    {
+      "name": "chequeado-2022-07-31T08:09:43.685010-03:00.jpg",
+      "source": "original",
+      "mtime": "1659265784",
+      "size": "295780",
+      "md5": "1f6687587279714641ac85827e8ddc20",
+      "crc32": "65c497ad",
+      "sha1": "49876a1673230c2da3e08c4b4704a9756f8cbb04",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chequeado-2022-07-31T08:09:43.685010-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659265787",
+      "size": "1444",
+      "md5": "e668ee9b05d55b5d74b3fcd38791e35c",
+      "crc32": "3847dcca",
+      "sha1": "62b75ed945e6d29869da94d81cb0fd1960d9cc19",
+      "format": "JSON"
+    },
+    {
       "name": "chequeado-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c7ae14ef01522e46bdfad7a2be00857831d49b07",
-      "mtime": "1659223012",
-      "size": "97755",
-      "md5": "e7db96879a3f9b9bde374cf04c7fa128",
-      "crc32": "8f04637b",
-      "sha1": "edb7cbf76336d9c0612aacdf6d343f7d48ef2d27",
+      "btih": "9bf63faf901a3e0924fde78becd3b39be0aa4bfe",
+      "mtime": "1659265831",
+      "size": "98607",
+      "md5": "9e2478f0c52c7af94bead3041f60334d",
+      "crc32": "07e065cd",
+      "sha1": "26ee57cd0f0e9c72a19676e72166c168a6e5ee8f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chequeado-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "da7d2beb51afa01af08093a4a624ed35",
+      "md5": "524d04122ede008e6e9c647f67cc53ad",
       "summation": "md5"
     },
     {
       "name": "chequeado-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659223007",
-      "size": "544768",
-      "md5": "c64fde5aa2f16940740938c380888f3d",
-      "crc32": "65bb944b",
-      "sha1": "75fa90f8ce365d756cb587a57679d72f38546948",
+      "mtime": "1659265792",
+      "size": "548864",
+      "md5": "a9e67d595bc60cae14407cdbc57b046e",
+      "crc32": "bf79ba6d",
+      "sha1": "1d41d16d0fb67f1c2ccf6f5704d25d9ea020b377",
       "format": "Metadata"
     },
     {
@@ -4825,9 +4867,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 460,
-  "item_last_updated": 1659223012,
-  "item_size": 34959453,
+  "files_count": 464,
+  "item_last_updated": 1659265831,
+  "item_size": 35273821,
   "metadata": {
     "identifier": "chequeado-2022",
     "collection": [
@@ -4849,7 +4891,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348363246,
+      "task_id": 3348711768,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4857,7 +4899,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 133715376,
+  "uniq": 1749216980,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]

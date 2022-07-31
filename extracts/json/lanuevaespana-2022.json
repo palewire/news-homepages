@@ -1,5 +1,5 @@
 {
-  "created": 1659227525,
+  "created": 1659260981,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/3/items/lanuevaespana-2022",
@@ -265,31 +265,94 @@
       "format": "JSON"
     },
     {
+      "name": "lanuevaespana-2022-07-30T17:42:35.940428+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lanuevaespana-2022-07-30T17:42:35.940428+02:00.jpg",
+      "mtime": "1659234270",
+      "size": "9768",
+      "md5": "164c2335e2366d284eb9c5e17018534e",
+      "crc32": "5a23883b",
+      "sha1": "5fdba4813fd48d34fc855146e21caf615deae8bb"
+    },
+    {
+      "name": "lanuevaespana-2022-07-31T04:59:07.607077+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659236350",
+      "size": "132525",
+      "md5": "1ad0359310e71cd598030da88b12bf87",
+      "crc32": "741891a2",
+      "sha1": "a86930ff35a16083f89b3550a953a297a1715abf",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-07-31T04:59:07.607077+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659236352",
+      "size": "196731",
+      "md5": "ca70528a08aa9da877b34f38d1e94ec7",
+      "crc32": "872ef59e",
+      "sha1": "dc16cfc216d67fe769c8708a8f93fef0fdbc68c9",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-07-31T04:59:07.607077+02:00.jpg",
+      "source": "original",
+      "mtime": "1659236349",
+      "size": "294626",
+      "md5": "65cc83b1550bbcc4cfe9c3d8e6ae9401",
+      "crc32": "89d16e44",
+      "sha1": "2b42dd504c087420f27d5b8de1236907d592db0e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lanuevaespana-2022-07-31T04:59:07.607077+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659236354",
+      "size": "1423",
+      "md5": "209ff7cde8ea9fde827ea180b5e2b563",
+      "crc32": "28f56846",
+      "sha1": "70cfb12c6ce647180106e5104761e013e574ddc5",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-07-31T04:59:07.607077+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lanuevaespana-2022-07-31T04:59:07.607077+02:00.jpg",
+      "mtime": "1659260959",
+      "size": "10091",
+      "md5": "1c0feaadaa9ffb008565f4357242f21a",
+      "crc32": "739c511b",
+      "sha1": "9206d2d806e25d3f1cf9e9886f40cda1355590c4"
+    },
+    {
       "name": "lanuevaespana-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c5501bdfdb40d2a3710965634a7cc34a6f57b6e0",
-      "mtime": "1659195831",
-      "size": "6911",
-      "md5": "edb00cc8f2f4dd2d96eec553a8eeab4a",
-      "crc32": "73959529",
-      "sha1": "86d97c5e8c0ee206c2a3ecd18d71441aa49d40df",
+      "btih": "b742f0c5b583011dba48652b3fd075f98f5114c1",
+      "mtime": "1659260966",
+      "size": "8207",
+      "md5": "a8bc3f117b48dd512c658e28ef48cea2",
+      "crc32": "04b43e57",
+      "sha1": "def4c636000a61144743cf2001e01db0e1cbb5bd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lanuevaespana-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f46dad9d39b273474a723670e794c2b4",
+      "md5": "ffac0c00de57f28a04eace2033c41892",
       "summation": "md5"
     },
     {
       "name": "lanuevaespana-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659195829",
-      "size": "49152",
-      "md5": "947916b973f031e208a6c3c002abb5b9",
-      "crc32": "698bb08e",
-      "sha1": "a480beb0fbf7afe194d9b44d57648380233bdd52",
+      "mtime": "1659236357",
+      "size": "53248",
+      "md5": "d4123e2f1ece049ee783b277cd1a84f2",
+      "crc32": "5f5b5cd6",
+      "sha1": "6aa7e81cb19969c84da26b19df311e160a1b9ea7",
       "format": "Metadata"
     },
     {
@@ -303,50 +366,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 29,
-  "item_last_updated": 1659195831,
-  "item_size": 3258990,
-  "lanuevaespana-2022": [
-    {
-      "url": "https://www.lne.es/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_07_30_14_29_28.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_07_30_14_29_28.report.json",
-      "summary": {
-        "performance": 0.27,
-        "accessibility": 0.83,
-        "best-practices": 0.83,
-        "seo": 0.91,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.lne.es/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_07_30_14_30_00.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_07_30_14_30_00.report.json",
-      "summary": {
-        "performance": 0.35,
-        "accessibility": 0.83,
-        "best-practices": 0.83,
-        "seo": 0.91,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.lne.es/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_07_30_14_30_30.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_07_30_14_30_30.report.json",
-      "summary": {
-        "performance": 0.37,
-        "accessibility": 0.83,
-        "best-practices": 0.83,
-        "seo": 0.91,
-        "pwa": 0.4
-      }
-    }
-  ],
+  "files_count": 35,
+  "item_last_updated": 1659260966,
+  "item_size": 3909546,
   "metadata": {
     "identifier": "lanuevaespana-2022",
     "collection": [
@@ -363,21 +385,10 @@
     "publicdate": "2022-07-28 18:53:55",
     "addeddate": "2022-07-28 18:53:55"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348120973,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 574619047,
+  "server": "ia801500.us.archive.org",
+  "uniq": 1770970619,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659196929,
+  "created": 1659270039,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/3/items/reveal-2022",
@@ -4679,31 +4679,94 @@
       "format": "JSON"
     },
     {
+      "name": "reveal-2022-07-30T08:56:36.314466-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-07-30T08:56:36.314466-07:00.jpg",
+      "mtime": "1659235223",
+      "size": "9779",
+      "md5": "070273018d64f5f6e38c0b16257ff3e9",
+      "crc32": "4aac5674",
+      "sha1": "e9fba2cc54de20397d9f05492bd89c61e50852c9"
+    },
+    {
+      "name": "reveal-2022-07-30T21:06:14.475314-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659240376",
+      "size": "15369",
+      "md5": "7d25df8fb7983a967d15300c9c385130",
+      "crc32": "21b1da2f",
+      "sha1": "f454a7eda5079e9a99564094aea618f13c397f8b",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-07-30T21:06:14.475314-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659240378",
+      "size": "24973",
+      "md5": "8ac419d2a12958d054fac3ad881aef11",
+      "crc32": "b2a67b55",
+      "sha1": "4e74145283f1534daae95f728de4d74ba2789239",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-07-30T21:06:14.475314-07:00.jpg",
+      "source": "original",
+      "mtime": "1659240375",
+      "size": "222870",
+      "md5": "ede906a1fa770fc16aae97a4f1efb567",
+      "crc32": "3b108a04",
+      "sha1": "45ef533f507bfe6567fd7c670dd14fc3cb7107cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-07-30T21:06:14.475314-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659240379",
+      "size": "1458",
+      "md5": "dfa354ad0ca0ebb9272e73260f1c7191",
+      "crc32": "81afb432",
+      "sha1": "48dbd9e61d510b5704c06db922c26e1eded8b161",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-07-30T21:06:14.475314-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-07-30T21:06:14.475314-07:00.jpg",
+      "mtime": "1659263815",
+      "size": "9779",
+      "md5": "070273018d64f5f6e38c0b16257ff3e9",
+      "crc32": "4aac5674",
+      "sha1": "e9fba2cc54de20397d9f05492bd89c61e50852c9"
+    },
+    {
       "name": "reveal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d59dac4dc4cf271ea6e7fd5c9ec2a1e719d5341b",
-      "mtime": "1659196917",
-      "size": "94226",
-      "md5": "89d6e55278effd39116d4cbdd4ec98bf",
-      "crc32": "4ef37c73",
-      "sha1": "081da516a30611657a1e13d716479e262eb9188e",
+      "btih": "35ca8e8a894187024c227e6d9f169957486e2ea5",
+      "mtime": "1659263899",
+      "size": "95457",
+      "md5": "9058abc2cc90ce47ace2d15aa53f2e29",
+      "crc32": "b571d7d3",
+      "sha1": "fa416f9d40c257c616e849b9c271ae4f550ba42a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reveal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b822010313a7f8aa356ae05d43f95888",
+      "md5": "a4faf34d81c5927f6b0f3dc5fa2ac2f8",
       "summation": "md5"
     },
     {
       "name": "reveal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659196911",
-      "size": "536576",
-      "md5": "842640daf9a3fb10d48a561f2174e094",
-      "crc32": "eda0403a",
-      "sha1": "bdd0d3634ad1e4ed54181aace2c5766ea9cb4095",
+      "mtime": "1659240387",
+      "size": "544768",
+      "md5": "b32301c02f18eda8f57c062d0344d132",
+      "crc32": "1b9eaef8",
+      "sha1": "dd82b4026e79afd0839e7502aa8a12d052ba4358",
       "format": "Metadata"
     },
     {
@@ -4717,9 +4780,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 450,
-  "item_last_updated": 1659196917,
-  "item_size": 31723865,
+  "files_count": 456,
+  "item_last_updated": 1659263899,
+  "item_size": 32017516,
   "metadata": {
     "identifier": "reveal-2022",
     "collection": [
@@ -4736,21 +4799,51 @@
     "publicdate": "2022-06-19 23:28:01",
     "addeddate": "2022-06-19 23:28:01"
   },
-  "pending_tasks": true,
-  "server": "ia902501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "reveal-2022": [
     {
-      "task_id": 3348130999,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://revealnews.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/revealnews_org-_-2022_07_31_03_42_33.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/revealnews_org-_-2022_07_31_03_42_33.report.json",
+      "summary": {
+        "performance": 0.45,
+        "accessibility": 0.82,
+        "best-practices": 0.92,
+        "seo": 0.98,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://revealnews.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/revealnews_org-_-2022_07_31_03_42_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/revealnews_org-_-2022_07_31_03_42_46.report.json",
+      "summary": {
+        "performance": 0.8,
+        "accessibility": 0.82,
+        "best-practices": 0.92,
+        "seo": 0.98,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://revealnews.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/revealnews_org-_-2022_07_31_03_42_57.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/revealnews_org-_-2022_07_31_03_42_57.report.json",
+      "summary": {
+        "performance": 0.78,
+        "accessibility": 0.82,
+        "best-practices": 0.92,
+        "seo": 0.98,
+        "pwa": 0.9
+      }
     }
   ],
-  "uniq": 196994665,
+  "server": "ia902501.us.archive.org",
+  "uniq": 1710188490,
   "workable_servers": [
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

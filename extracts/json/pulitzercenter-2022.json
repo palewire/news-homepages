@@ -1,5 +1,5 @@
 {
-  "created": 1659227607,
+  "created": 1659257068,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/pulitzercenter-2022",
@@ -2045,21 +2045,32 @@
       "format": "JSON"
     },
     {
+      "name": "pulitzercenter-2022-07-30T20:32:38.755340-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pulitzercenter-2022-07-30T20:32:38.755340-04:00.jpg",
+      "mtime": "1659257020",
+      "size": "9258",
+      "md5": "7830190e05366e85f7c568ad9010258e",
+      "crc32": "c1c1596a",
+      "sha1": "1da12d4c8a45b44f8c41b661eec7b5ab14e036fc"
+    },
+    {
       "name": "pulitzercenter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d2c9779abe7dfa50c6b52fad1a291b2ac1f31207",
-      "mtime": "1659227605",
-      "size": "43452",
-      "md5": "b40e62914d38812865d6ae0fcf0978a8",
-      "crc32": "f918d9a4",
-      "sha1": "5f52e48b69d1b158250f7cc170269242c543fbe7",
+      "btih": "80d2b17ff84fb01a6ae4c31d2c5a03d55797c3a5",
+      "mtime": "1659257024",
+      "size": "43662",
+      "md5": "edcf45e086a7d989b6094aa3042020af",
+      "crc32": "5f850f42",
+      "sha1": "70e69294154c2d4e34e3dc9b38f6d781a6e8a7aa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pulitzercenter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2359effee65dad7d17a3b3d7570fde84",
+      "md5": "399a385302b19f2f9075b2bab2cecb99",
       "summation": "md5"
     },
     {
@@ -2083,9 +2094,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 199,
-  "item_last_updated": 1659227605,
-  "item_size": 10645573,
+  "files_count": 200,
+  "item_last_updated": 1659257024,
+  "item_size": 10655041,
   "metadata": {
     "identifier": "pulitzercenter-2022",
     "collection": [
@@ -2102,21 +2113,10 @@
     "publicdate": "2022-07-09 04:01:52",
     "addeddate": "2022-07-09 04:01:52"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348395265,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1600481424,
+  "server": "ia801408.us.archive.org",
+  "uniq": 1873748569,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

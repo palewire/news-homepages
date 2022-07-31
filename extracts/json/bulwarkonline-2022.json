@@ -1,5 +1,5 @@
 {
-  "created": 1659223013,
+  "created": 1659265788,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/10/items/bulwarkonline-2022",
@@ -1853,31 +1853,83 @@
       "format": "JSON"
     },
     {
+      "name": "bulwarkonline-2022-07-30T19:15:18.920123-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bulwarkonline-2022-07-30T19:15:18.920123-04:00.jpg",
+      "mtime": "1659254019",
+      "size": "10871",
+      "md5": "79aa208681f3764b3e1d44c8ce1faa16",
+      "crc32": "c6c75dbc",
+      "sha1": "91f61a2fa9687d77edc44551c206edefb4900aa4"
+    },
+    {
+      "name": "bulwarkonline-2022-07-31T07:09:01.871767-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659265744",
+      "size": "8471",
+      "md5": "350febf49dddef1537bd38ff5e1281f4",
+      "crc32": "a8951a84",
+      "sha1": "4fb63ab39ea18fd9e23b54011df59d0cc6878aa8",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-07-31T07:09:01.871767-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659265746",
+      "size": "7239",
+      "md5": "73233de0df5dfa5f543037ed4ab5673a",
+      "crc32": "96d9a750",
+      "sha1": "5f9c905679bc98d6ad4de1779d93e30abf781fb7",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-07-31T07:09:01.871767-04:00.jpg",
+      "source": "original",
+      "mtime": "1659265743",
+      "size": "243986",
+      "md5": "9c38decc27c40b779492efe409106512",
+      "crc32": "5683107a",
+      "sha1": "9310eb5c5015215925aa798d5b6b0b8d3a86d6df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bulwarkonline-2022-07-31T07:09:01.871767-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659265747",
+      "size": "1486",
+      "md5": "7c19b36eb2489fb0d0da9e1a7ba8ed22",
+      "crc32": "6feeedc7",
+      "sha1": "92cbce993e72f7bdc32fa6ed6284631e42100fb1",
+      "format": "JSON"
+    },
+    {
       "name": "bulwarkonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "44293ae1aae241d436fbaf224ee8950c851fa700",
-      "mtime": "1659223006",
-      "size": "39550",
-      "md5": "fe478d5fc8c443ccb982227f9099c11e",
-      "crc32": "734e84c3",
-      "sha1": "979a1aa7cf1fb4ca6896c6398e1e3475da7205cb",
+      "btih": "0189777fe593ee6ca9c9ccba335090997f6abe5e",
+      "mtime": "1659265785",
+      "size": "40613",
+      "md5": "8de35a6e2d000a735b10fc5f06125eab",
+      "crc32": "4fa3d976",
+      "sha1": "47e896797ee7371e3823802780d47d772706bd9c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bulwarkonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9898ff4ffe00d868c54ba40b93a3d048",
+      "md5": "382908e90de5941279ca456ab9685662",
       "summation": "md5"
     },
     {
       "name": "bulwarkonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659223004",
-      "size": "233472",
-      "md5": "3eb3f6c00715494a84f69cae98d97315",
-      "crc32": "4db02a83",
-      "sha1": "962a72f6cd3be99d3cc93e8bc760a2c8b76c3dd8",
+      "mtime": "1659265751",
+      "size": "241664",
+      "md5": "13a71a96abb54dbd92be6fd551cd128b",
+      "crc32": "d660796c",
+      "sha1": "953ec0e19c45417f586b658417a7f1e3cb6f4adf",
       "format": "Metadata"
     },
     {
@@ -1891,9 +1943,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 181,
-  "item_last_updated": 1659223006,
-  "item_size": 13166601,
+  "files_count": 186,
+  "item_last_updated": 1659265785,
+  "item_size": 13447909,
   "metadata": {
     "identifier": "bulwarkonline-2022",
     "collection": [
@@ -1915,7 +1967,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348363193,
+      "task_id": 3348711322,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1923,7 +1975,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 665917853,
+  "uniq": 723577629,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

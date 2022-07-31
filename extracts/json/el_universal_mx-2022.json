@@ -1,5 +1,5 @@
 {
-  "created": 1659223221,
+  "created": 1659266022,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/el_universal_mx-2022",
@@ -19769,31 +19769,83 @@
       "format": "JSON"
     },
     {
+      "name": "el_universal_mx-2022-07-30T18:18:03.191217-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_universal_mx-2022-07-30T18:18:03.191217-05:00.jpg",
+      "mtime": "1659254285",
+      "size": "10081",
+      "md5": "43aacc9117c961efc0e1a4b11f2eaec6",
+      "crc32": "d448e97d",
+      "sha1": "bb7fd5d8903b4e3919c61f9059caa1a327da0337"
+    },
+    {
+      "name": "el_universal_mx-2022-07-31T06:12:02.014251-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659265938",
+      "size": "49368",
+      "md5": "2be7e45793ddaa289efa8ec99bc74de2",
+      "crc32": "d013f623",
+      "sha1": "29f64ddbc763b0bef29a6a1e566872b4581e2470",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-07-31T06:12:02.014251-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659265940",
+      "size": "53818",
+      "md5": "80c59f6378baba3cb493bf085f29608a",
+      "crc32": "36cfe1b3",
+      "sha1": "83c81eafeaa620f8048011e9d1d8750105571adf",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-07-31T06:12:02.014251-05:00.jpg",
+      "source": "original",
+      "mtime": "1659265935",
+      "size": "335930",
+      "md5": "cc14694c1d534daf9f6162cf9bc04cd4",
+      "crc32": "a028e345",
+      "sha1": "f17cf0436d4b87d44933cc4d8f825a7280306425",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_universal_mx-2022-07-31T06:12:02.014251-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659265942",
+      "size": "1581",
+      "md5": "d9dd49941fdc79edfa8e9ce0bf3b3909",
+      "crc32": "1321ff55",
+      "sha1": "c19fec7ebf7a0e87ff4d6ecc0dd02d6d9ed8641d",
+      "format": "JSON"
+    },
+    {
       "name": "el_universal_mx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c874c97bf79ba93417c1e3e8304cb310b5b81eb1",
-      "mtime": "1659223211",
-      "size": "412872",
-      "md5": "34e35355c884fcbc162c566ef65bc249",
-      "crc32": "696cacd9",
-      "sha1": "913aecf04d463a57d4e4bf4ce35ca7632792a24a",
+      "btih": "31d028d87d8924da987e7190f918a09eec7db79e",
+      "mtime": "1659266013",
+      "size": "413967",
+      "md5": "6625bea80299a5103b67989f60b228a0",
+      "crc32": "5791a6e7",
+      "sha1": "768a8f3c70e09fd76f1b7db1b93a173f5b650fac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_universal_mx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "069c653e6c59689e41b4dbb2edf48988",
+      "md5": "8ca4bdb62380d4bd4e1c562d45f30035",
       "summation": "md5"
     },
     {
       "name": "el_universal_mx-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659223178",
-      "size": "2187264",
-      "md5": "14bd8b1e0bf0aab664c98f69d06d651e",
-      "crc32": "b436df37",
-      "sha1": "8a8f4a5cf97cd0488d50520dc392b420b51604f3",
+      "mtime": "1659265946",
+      "size": "2195456",
+      "md5": "6a21a33833b7f3df6eff6559ab8aee1c",
+      "crc32": "41e0e5a4",
+      "sha1": "81f6147b805e234d869138e1755e5c4ef962ef0a",
       "format": "Metadata"
     },
     {
@@ -19807,9 +19859,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1887,
-  "item_last_updated": 1659223211,
-  "item_size": 198317566,
+  "files_count": 1892,
+  "item_last_updated": 1659266013,
+  "item_size": 198777631,
   "metadata": {
     "identifier": "el_universal_mx-2022",
     "collection": [
@@ -19831,7 +19883,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348364556,
+      "task_id": 3348713249,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -19839,7 +19891,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 51313267,
+  "uniq": 2082493602,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

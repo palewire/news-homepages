@@ -1,5 +1,5 @@
 {
-  "created": 1659227892,
+  "created": 1659270107,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/3/items/suntimes-2022",
@@ -5033,31 +5033,94 @@
       "format": "JSON"
     },
     {
+      "name": "suntimes-2022-07-30T11:17:08.656585-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "suntimes-2022-07-30T11:17:08.656585-05:00.jpg",
+      "mtime": "1659235826",
+      "size": "10186",
+      "md5": "3c43f3e7b8196f763b36355e46c4bcfd",
+      "crc32": "7412b0e1",
+      "sha1": "59947cf39e900894522a37466ad40ad96e0ef5c1"
+    },
+    {
+      "name": "suntimes-2022-07-30T21:47:43.786967-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659235667",
+      "size": "39502",
+      "md5": "e0c20a38883d4493fbfbfdac023e5909",
+      "crc32": "47639c21",
+      "sha1": "b6a2f1d84bc8611c5a40df73b0188ea6087385bd",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-07-30T21:47:43.786967-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659235668",
+      "size": "59988",
+      "md5": "87f292a749709334eb5cc23e01688e35",
+      "crc32": "e9e285fd",
+      "sha1": "349cc5158da5f8f6516bf9f012c16dc92c99214c",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-07-30T21:47:43.786967-05:00.jpg",
+      "source": "original",
+      "mtime": "1659235665",
+      "size": "241537",
+      "md5": "2a73f378568cabdd9092a7afbd4a7026",
+      "crc32": "cce19eab",
+      "sha1": "5d7afee6139466c638be80d2e3e2363ba2b26b99",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "suntimes-2022-07-30T21:47:43.786967-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659235670",
+      "size": "1513",
+      "md5": "c6cc8453bf73aa8d5f5b94bf3d68a514",
+      "crc32": "c582e9af",
+      "sha1": "e38adaf583220f528e0f8aa61ed90b64bdeea7b3",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-07-30T21:47:43.786967-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "suntimes-2022-07-30T21:47:43.786967-05:00.jpg",
+      "mtime": "1659260937",
+      "size": "10356",
+      "md5": "e8c73744e3cf61827c38a7da9d8f2d43",
+      "crc32": "50c08b3c",
+      "sha1": "16dc548ca9116669fa92d40233fae4aea05da1f1"
+    },
+    {
       "name": "suntimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2630c09d030e39110b6b778d6d8e654d46f19ae1",
-      "mtime": "1659197898",
-      "size": "102536",
-      "md5": "221a294dafa7c634d22d16db8dfe940c",
-      "crc32": "d237b433",
-      "sha1": "ad77b9fc84010d77fc317281e60d4aa0779af71c",
+      "btih": "ca3ad3fef11e93e55f7a370956a96677a4f13a3c",
+      "mtime": "1659260945",
+      "size": "103801",
+      "md5": "f9cd7e55b52c6a9b5cc79b1d0459cb22",
+      "crc32": "29ce244c",
+      "sha1": "28e14bd789860b3ff19136979c364256001a547b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "suntimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "833acff9edc8a036e84c9106b2a62ded",
+      "md5": "d3bb0f027c7e274805cd97a38c467b6b",
       "summation": "md5"
     },
     {
       "name": "suntimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659197886",
-      "size": "573440",
-      "md5": "c8ad0348291f3809c034dbf24fc18876",
-      "crc32": "e9acac39",
-      "sha1": "29225e584d5e77e577accdae880c4f119d723873",
+      "mtime": "1659236048",
+      "size": "581632",
+      "md5": "ea6728695f8340a21fc13d5481dd4374",
+      "crc32": "a5641acc",
+      "sha1": "07b69b1f268cb5039ae467ef0b8df59624c133c5",
       "format": "Metadata"
     },
     {
@@ -5071,9 +5134,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 484,
-  "item_last_updated": 1659197898,
-  "item_size": 40845202,
+  "files_count": 490,
+  "item_last_updated": 1659260945,
+  "item_size": 41217741,
   "metadata": {
     "identifier": "suntimes-2022",
     "collection": [
@@ -5090,17 +5153,15 @@
     "publicdate": "2022-06-24 23:02:19",
     "addeddate": "2022-06-24 23:02:19"
   },
-  "pending_tasks": true,
-  "server": "ia902503.us.archive.org",
-  "servers_unavailable": true,
+  "server": "ia802503.us.archive.org",
   "suntimes-2022": [
     {
       "url": "https://chicago.suntimes.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chicago_suntimes_com-_-2022_07_30_16_11_27.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chicago_suntimes_com-_-2022_07_30_16_11_27.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chicago_suntimes_com-_-2022_07_31_01_28_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chicago_suntimes_com-_-2022_07_31_01_28_43.report.json",
       "summary": {
-        "performance": 0.14,
+        "performance": 0.23,
         "accessibility": 0.89,
         "best-practices": 0.92,
         "seo": 0.75,
@@ -5110,10 +5171,10 @@
     {
       "url": "https://chicago.suntimes.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chicago_suntimes_com-_-2022_07_30_16_11_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chicago_suntimes_com-_-2022_07_30_16_11_46.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chicago_suntimes_com-_-2022_07_31_01_29_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chicago_suntimes_com-_-2022_07_31_01_29_01.report.json",
       "summary": {
-        "performance": 0.24,
+        "performance": 0.23,
         "accessibility": 0.89,
         "best-practices": 0.92,
         "seo": 0.75,
@@ -5123,10 +5184,10 @@
     {
       "url": "https://chicago.suntimes.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chicago_suntimes_com-_-2022_07_30_16_12_02.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chicago_suntimes_com-_-2022_07_30_16_12_02.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chicago_suntimes_com-_-2022_07_31_01_28_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chicago_suntimes_com-_-2022_07_31_01_28_25.report.json",
       "summary": {
-        "performance": 0.22,
+        "performance": 0.21,
         "accessibility": 0.89,
         "best-practices": 0.92,
         "seo": 0.75,
@@ -5134,18 +5195,9 @@
       }
     }
   ],
-  "tasks": [
-    {
-      "task_id": 3348144667,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1529590466,
+  "uniq": 2080620232,
   "workable_servers": [
+    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }

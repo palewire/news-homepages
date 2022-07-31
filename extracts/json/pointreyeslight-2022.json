@@ -1,5 +1,5 @@
 {
-  "created": 1659227671,
+  "created": 1659256990,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/26/items/pointreyeslight-2022",
@@ -3641,21 +3641,32 @@
       "format": "JSON"
     },
     {
+      "name": "pointreyeslight-2022-07-30T17:33:40.727342-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pointreyeslight-2022-07-30T17:33:40.727342-07:00.jpg",
+      "mtime": "1659256960",
+      "size": "9186",
+      "md5": "882a597a454896b953fdec4ee90a1d1c",
+      "crc32": "51175048",
+      "sha1": "8a9b67c262da9e6f38f9109b2653a7f910cb3ffe"
+    },
+    {
       "name": "pointreyeslight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "80bd5b123548bf7a207bb226958e054bc6d32bb5",
-      "mtime": "1659227668",
-      "size": "76428",
-      "md5": "54ea67564985adb2203a9a7d32ca81b5",
-      "crc32": "0789c7b1",
-      "sha1": "7827680e855a55b1acf3691ee462d8c0caf475d5",
+      "btih": "592791b835abf7080aee480fce98e2786d9f8ee6",
+      "mtime": "1659256968",
+      "size": "76639",
+      "md5": "1da0cb3786d8988c960563133f686f9a",
+      "crc32": "d0f6f129",
+      "sha1": "bb7da4cf894194589633b7c43d5506c6fd4ac97a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pointreyeslight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c8f367519581c62b1c6d70665d9c87ec",
+      "md5": "0bf3588f63cb113ace7f71ac083e1a8a",
       "summation": "md5"
     },
     {
@@ -3679,9 +3690,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 351,
-  "item_last_updated": 1659227668,
-  "item_size": 22440879,
+  "files_count": 352,
+  "item_last_updated": 1659256968,
+  "item_size": 22450276,
   "metadata": {
     "identifier": "pointreyeslight-2022",
     "collection": [
@@ -3698,21 +3709,10 @@
     "publicdate": "2022-06-30 20:48:29",
     "addeddate": "2022-06-30 20:48:29"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348395756,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1440496497,
+  "server": "ia801408.us.archive.org",
+  "uniq": 354635786,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659227492,
+  "created": 1659269761,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/0/items/kpcwradio-2022",
@@ -1971,31 +1971,94 @@
       "format": "JSON"
     },
     {
+      "name": "kpcwradio-2022-07-30T09:43:09.267959-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcwradio-2022-07-30T09:43:09.267959-06:00.jpg",
+      "mtime": "1659234358",
+      "size": "10427",
+      "md5": "b15ac718d2821773b3f0b877030f429b",
+      "crc32": "aad73626",
+      "sha1": "e1d0dce7bbe893f0de1c418b47e41f396d402137"
+    },
+    {
+      "name": "kpcwradio-2022-07-30T20:59:33.550615-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659236375",
+      "size": "20194",
+      "md5": "a1281952f59faa1015aa854418051c95",
+      "crc32": "b11202cf",
+      "sha1": "4a59c1b5438f57d6e89275cc1d323288bc4aa459",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-07-30T20:59:33.550615-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659236377",
+      "size": "33416",
+      "md5": "f5a35e31c8a3bb1f1b2f60618e973f42",
+      "crc32": "fc7a095a",
+      "sha1": "261076c5f242b4502994378dffdd976979f93b08",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-07-30T20:59:33.550615-06:00.jpg",
+      "source": "original",
+      "mtime": "1659236374",
+      "size": "277503",
+      "md5": "b9444491336f94ecf64488e37fe846c9",
+      "crc32": "1aed8979",
+      "sha1": "493029a184acbc094bdebc9305c3c01a5dfbd63d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcwradio-2022-07-30T20:59:33.550615-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659236378",
+      "size": "1441",
+      "md5": "c0d8666931394ab973ef30c360c90a1d",
+      "crc32": "5732ff71",
+      "sha1": "049be295470e1eaedebfab4db9d5224a4130c349",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-07-30T20:59:33.550615-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcwradio-2022-07-30T20:59:33.550615-06:00.jpg",
+      "mtime": "1659260972",
+      "size": "10426",
+      "md5": "02c318117998214fe2f54ef76e0c2839",
+      "crc32": "4be8e695",
+      "sha1": "7765a964858db3efd5cc7b4d3a13095248044a2a"
+    },
+    {
       "name": "kpcwradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a9a8c24b84c4d978f126c1d13f18f8e509b2734e",
-      "mtime": "1659195873",
-      "size": "41200",
-      "md5": "f05a8bf66e2d653c7024a7047c5b371a",
-      "crc32": "d201b713",
-      "sha1": "b4981f524ad2476d77fc474e284a5be613afd99b",
+      "btih": "f7b8fdae6303a02cf042bbf1b84531240ebeafcc",
+      "mtime": "1659260979",
+      "size": "42451",
+      "md5": "584b18634502d8c0951fd07586cb268e",
+      "crc32": "47a0fa1c",
+      "sha1": "bf43420d3066810ef7419c3dc4713d8272b9b76c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpcwradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8bfce839562424364be4bb923c20fd40",
+      "md5": "6297a67d0e9c8e8826082e8490dac026",
       "summation": "md5"
     },
     {
       "name": "kpcwradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659195870",
-      "size": "245760",
-      "md5": "0b063292c6cc4804fb96db6f0fc910b3",
-      "crc32": "f4226a84",
-      "sha1": "924cd3ecf70b563983ae07828f67dc272222099e",
+      "mtime": "1659236383",
+      "size": "249856",
+      "md5": "4dd9b82b019450617d74c36a4f2ecf3d",
+      "crc32": "1f0deb1f",
+      "sha1": "cb72a9552d97ac5ef73df08dcd7cefbdc0e2c3f6",
       "format": "Metadata"
     },
     {
@@ -2009,17 +2072,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 192,
-  "item_last_updated": 1659195873,
-  "item_size": 14282474,
+  "files_count": 198,
+  "item_last_updated": 1659260979,
+  "item_size": 14641228,
   "kpcwradio-2022": [
     {
       "url": "https://www.kpcw.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcw_org-_-2022_07_30_14_29_07.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcw_org-_-2022_07_30_14_29_07.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcw_org-_-2022_07_31_02_27_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcw_org-_-2022_07_31_02_27_51.report.json",
       "summary": {
-        "performance": 0.38,
+        "performance": 0.31,
         "accessibility": 0.97,
         "best-practices": 0.92,
         "seo": 0.98,
@@ -2029,10 +2092,10 @@
     {
       "url": "https://www.kpcw.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcw_org-_-2022_07_30_14_29_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcw_org-_-2022_07_30_14_29_26.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcw_org-_-2022_07_31_02_28_08.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcw_org-_-2022_07_31_02_28_08.report.json",
       "summary": {
-        "performance": 0.46,
+        "performance": 0.43,
         "accessibility": 0.97,
         "best-practices": 0.92,
         "seo": 0.98,
@@ -2042,10 +2105,10 @@
     {
       "url": "https://www.kpcw.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcw_org-_-2022_07_30_14_29_42.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcw_org-_-2022_07_30_14_29_42.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcw_org-_-2022_07_31_02_28_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcw_org-_-2022_07_31_02_28_23.report.json",
       "summary": {
-        "performance": 0.48,
+        "performance": 0.54,
         "accessibility": 0.97,
         "best-practices": 0.92,
         "seo": 0.98,
@@ -2069,21 +2132,10 @@
     "publicdate": "2022-07-09 04:00:05",
     "addeddate": "2022-07-09 04:00:05"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348121381,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1967941142,
+  "server": "ia801500.us.archive.org",
+  "uniq": 2015517577,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

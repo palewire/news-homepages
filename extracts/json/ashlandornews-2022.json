@@ -1,5 +1,5 @@
 {
-  "created": 1659223021,
+  "created": 1659265635,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/1/items/ashlandornews-2022",
@@ -2045,31 +2045,83 @@
       "format": "JSON"
     },
     {
+      "name": "ashlandornews-2022-07-30T16:11:58.940105-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ashlandornews-2022-07-30T16:11:58.940105-07:00.jpg",
+      "mtime": "1659254162",
+      "size": "8887",
+      "md5": "1bb79cebf7c3e46b8b0d249db11d1d02",
+      "crc32": "536ae700",
+      "sha1": "dfef3df8f621151558b3aeae64b4cc933701d1f7"
+    },
+    {
+      "name": "ashlandornews-2022-07-31T04:06:24.484180-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659265589",
+      "size": "23157",
+      "md5": "230e9c87826f609670421d1315380148",
+      "crc32": "ce9035ae",
+      "sha1": "a591d893238da2b1a3409b843a6687aa9ffa4fd1",
+      "format": "JSON"
+    },
+    {
+      "name": "ashlandornews-2022-07-31T04:06:24.484180-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659265591",
+      "size": "19897",
+      "md5": "8ef0ed3ad6c3265a16c2cc13e3ca3d49",
+      "crc32": "ad6d44dc",
+      "sha1": "39907cd7844332a61a30a9abe81941347f1c01c6",
+      "format": "JSON"
+    },
+    {
+      "name": "ashlandornews-2022-07-31T04:06:24.484180-07:00.jpg",
+      "source": "original",
+      "mtime": "1659265587",
+      "size": "329509",
+      "md5": "b8d1080ce6e86db52431c5bce9ed374f",
+      "crc32": "a0b8d915",
+      "sha1": "771101dece057d3da2fa61371b0705b38305bdbc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ashlandornews-2022-07-31T04:06:24.484180-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659265592",
+      "size": "1441",
+      "md5": "afe9a471bff30d29b82d2be4ef503dd6",
+      "crc32": "cd6ad5e0",
+      "sha1": "02cb1091af82c907b108922b12c55b9e3cdd8e89",
+      "format": "JSON"
+    },
+    {
       "name": "ashlandornews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d7d67cc7d56aac7b9f7bda6e47fa179a7600df92",
-      "mtime": "1659223015",
-      "size": "43573",
-      "md5": "699b058c66f1239435b8ccc819c4d8fa",
-      "crc32": "31224934",
-      "sha1": "252f942d6ce945124f053d78a7bf301b3a5c9a92",
+      "btih": "6de6a3ffc9a4cf804ed319f7823a6a5524a3b73e",
+      "mtime": "1659265632",
+      "size": "44657",
+      "md5": "6d3a6a597f0ba6fbe60481a30e11ab92",
+      "crc32": "1dfb4ff8",
+      "sha1": "d1762c84267dd3b69acd593fe181102cca8454d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ashlandornews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "04c8245cef0f63a02b9217d15c280873",
+      "md5": "3ba391350a8d49c34db2a08432c05ba0",
       "summation": "md5"
     },
     {
       "name": "ashlandornews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659223011",
-      "size": "253952",
-      "md5": "85fab2ee4b0f179e01bc777a4a055a29",
-      "crc32": "0109d648",
-      "sha1": "5d59d6e0733b6b7402873a61012db81a2ed2be21",
+      "mtime": "1659265597",
+      "size": "262144",
+      "md5": "a67de00101922204978926967154b5d2",
+      "crc32": "af6a96b2",
+      "sha1": "fd6114d4b8f08ebdccf3409e695a290e4257c0e7",
       "format": "Metadata"
     },
     {
@@ -2083,9 +2135,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 199,
-  "item_last_updated": 1659223015,
-  "item_size": 18339011,
+  "files_count": 204,
+  "item_last_updated": 1659265632,
+  "item_size": 18731178,
   "metadata": {
     "identifier": "ashlandornews-2022",
     "collection": [
@@ -2107,7 +2159,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348363253,
+      "task_id": 3348709960,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2115,7 +2167,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1700837217,
+  "uniq": 2049419065,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

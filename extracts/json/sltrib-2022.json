@@ -1,5 +1,5 @@
 {
-  "created": 1659227833,
+  "created": 1659270082,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/21/items/sltrib-2022",
@@ -1891,31 +1891,84 @@
       "format": "JSON"
     },
     {
+      "name": "sltrib-2022-07-30T09:57:48.009273-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltrib-2022-07-30T09:57:48.009273-06:00.jpg",
+      "mtime": "1659235171",
+      "size": "9698",
+      "md5": "0c1f42ddb916f413d04ab70016c56a77",
+      "crc32": "6bc40915",
+      "sha1": "091bc87c92fd17ebaf97311dbdc9dec685b0483c"
+    },
+    {
+      "name": "sltrib-2022-07-30T22:08:03.877456-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659240486",
+      "size": "22171",
+      "md5": "a699676f450cf2f4d7c17b2e21373efe",
+      "crc32": "cba2c37a",
+      "sha1": "859a900601e7fabb5c130386519cd31fec33ed17",
+      "format": "JSON"
+    },
+    {
+      "name": "sltrib-2022-07-30T22:08:03.877456-06:00.jpg",
+      "source": "original",
+      "mtime": "1659240485",
+      "size": "300528",
+      "md5": "f45607ec2f31ba12afa8fc39f8114e27",
+      "crc32": "1d11ede7",
+      "sha1": "4912e07a4f06a2ee277faac1da57bea0953bb481",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltrib-2022-07-30T22:08:03.877456-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659240487",
+      "size": "1459",
+      "md5": "c7340094e2290c2671b64cde9adf91bf",
+      "crc32": "b52c7026",
+      "sha1": "5f670e4ce230d74059f6a59e7afe175e5ae318c5",
+      "format": "JSON"
+    },
+    {
+      "name": "sltrib-2022-07-30T22:08:03.877456-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltrib-2022-07-30T22:08:03.877456-06:00.jpg",
+      "mtime": "1659263901",
+      "size": "9778",
+      "md5": "b76ac1659ad0be9796368bd3ff1e7150",
+      "crc32": "2a207ed0",
+      "sha1": "b7d251cf862b54f47aa73ce58325f87bcd5694cc"
+    },
+    {
       "name": "sltrib-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c31142b9d41e659f8f5cb7fafbcb999a6054b3bc",
-      "mtime": "1659196735",
-      "size": "38947",
-      "md5": "c57863d72e1b81095688b4758d123a3d",
-      "crc32": "c4960727",
-      "sha1": "11b76dc008762a3544498e818f73c2b13f2a4a0a",
+      "btih": "42c954176f26f5cc03dd782558873357df2fcd8b",
+      "mtime": "1659263905",
+      "size": "39989",
+      "md5": "1de6fd4ebaa42cccd2f3dcd91fb57adc",
+      "crc32": "a6429496",
+      "sha1": "8f6d4cb73e22b83c45db64bd590b9ac8676e491b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sltrib-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "267daa29b6708e6e437aea8704c07db7",
+      "md5": "b9271b18aaf897f3dab63f8287eb4876",
       "summation": "md5"
     },
     {
       "name": "sltrib-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659196731",
-      "size": "229376",
-      "md5": "e107b415450b159d361c4a6d2a095dd2",
-      "crc32": "a3506a6e",
-      "sha1": "fab2122cbd6504e5a0a152a01873d4078cd8c31f",
+      "mtime": "1659240493",
+      "size": "237568",
+      "md5": "df6fbaed0776211aadd0b02e2c0f16ec",
+      "crc32": "e34b6af2",
+      "sha1": "dc0d3000a2d4140cf3ee23f592f895c3adbcc01b",
       "format": "Metadata"
     },
     {
@@ -1929,9 +1982,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 184,
-  "item_last_updated": 1659196735,
-  "item_size": 15581563,
+  "files_count": 189,
+  "item_last_updated": 1659263905,
+  "item_size": 15934431,
   "metadata": {
     "identifier": "sltrib-2022",
     "collection": [
@@ -1948,17 +2001,15 @@
     "publicdate": "2022-07-09 04:03:05",
     "addeddate": "2022-07-09 04:03:05"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
   "sltrib-2022": [
     {
       "url": "https://www.sltrib.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sltrib_com-_-2022_07_30_15_25_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sltrib_com-_-2022_07_30_15_25_55.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sltrib_com-_-2022_07_31_03_45_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sltrib_com-_-2022_07_31_03_45_07.report.json",
       "summary": {
-        "performance": 0.07,
+        "performance": 0.08,
         "accessibility": 0.87,
         "best-practices": 0.67,
         "seo": 0.84,
@@ -1968,11 +2019,11 @@
     {
       "url": "https://www.sltrib.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sltrib_com-_-2022_07_30_15_27_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sltrib_com-_-2022_07_30_15_27_23.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sltrib_com-_-2022_07_31_03_46_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sltrib_com-_-2022_07_31_03_46_48.report.json",
       "summary": {
-        "performance": 0.1,
-        "accessibility": 0.87,
+        "performance": 0.08,
+        "accessibility": 0.85,
         "best-practices": 0.67,
         "seo": 0.84,
         "pwa": 0.8
@@ -1981,29 +2032,20 @@
     {
       "url": "https://www.sltrib.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sltrib_com-_-2022_07_30_15_28_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sltrib_com-_-2022_07_30_15_28_23.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sltrib_com-_-2022_07_31_03_45_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sltrib_com-_-2022_07_31_03_45_56.report.json",
       "summary": {
-        "performance": 0.08,
+        "performance": 0.17,
         "accessibility": 0.87,
-        "best-practices": 0.58,
+        "best-practices": 0.67,
         "seo": 0.84,
         "pwa": 0.8
       }
     }
   ],
-  "tasks": [
-    {
-      "task_id": 3348128094,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 411386504,
+  "uniq": 1022570432,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

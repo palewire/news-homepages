@@ -1,5 +1,5 @@
 {
-  "created": 1659227409,
+  "created": 1659269885,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/18/items/nbcdfw-2022",
@@ -1321,21 +1321,32 @@
       "format": "JSON"
     },
     {
+      "name": "nbcdfw-2022-07-30T19:29:18.766131-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcdfw-2022-07-30T19:29:18.766131-05:00.jpg",
+      "mtime": "1659256801",
+      "size": "9975",
+      "md5": "92af3338e66fd7ab14fc105afd26d051",
+      "crc32": "a4653b3c",
+      "sha1": "87a01723e16e1a5bada96adf00f9d461b65d7235"
+    },
+    {
       "name": "nbcdfw-2022_archive.torrent",
       "source": "metadata",
-      "btih": "77e39bef63e9b4a1e7ff264d39ae6b4cbcb6d59e",
-      "mtime": "1659227406",
-      "size": "27710",
-      "md5": "2009fd10e3b4e767b21b3c69fd1ceaf6",
-      "crc32": "457bca3e",
-      "sha1": "732eb22870f62ed28355a81da08fc914ae4cbfd3",
+      "btih": "9dbdd075cd951297bfd352f92b54a6d0ca0993ec",
+      "mtime": "1659256814",
+      "size": "27932",
+      "md5": "77b77e74aa29a9bf273e63bf06350946",
+      "crc32": "ed41d630",
+      "sha1": "3631cd7ed23c09541fd7b40c7913ceaf40826872",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcdfw-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9ad8328114204f8304f6c56df6c8154a",
+      "md5": "57c9b108b84677aced14a94aff984888",
       "summation": "md5"
     },
     {
@@ -1359,9 +1370,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 130,
-  "item_last_updated": 1659227406,
-  "item_size": 11036341,
+  "files_count": 131,
+  "item_last_updated": 1659256814,
+  "item_size": 11046538,
   "metadata": {
     "identifier": "nbcdfw-2022",
     "collection": [
@@ -1378,21 +1389,51 @@
     "publicdate": "2022-07-18 00:05:13",
     "addeddate": "2022-07-18 00:05:13"
   },
-  "pending_tasks": true,
-  "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "nbcdfw-2022": [
     {
-      "task_id": 3348393614,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.nbcdfw.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcdfw_com-_-2022_07_31_00_04_41.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcdfw_com-_-2022_07_31_00_04_41.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.nbcdfw.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcdfw_com-_-2022_07_31_00_05_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcdfw_com-_-2022_07_31_00_05_09.report.json",
+      "summary": {
+        "performance": 0.2,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.nbcdfw.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcdfw_com-_-2022_07_31_00_05_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcdfw_com-_-2022_07_31_00_05_34.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 1714388481,
+  "server": "ia801404.us.archive.org",
+  "uniq": 1962865346,
   "workable_servers": [
+    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

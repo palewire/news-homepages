@@ -1,5 +1,5 @@
 {
-  "created": 1659223164,
+  "created": 1659265804,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/13/items/chalkbeat-2022",
@@ -525,31 +525,83 @@
       "format": "JSON"
     },
     {
+      "name": "chalkbeat-2022-07-30T19:14:55.543233-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chalkbeat-2022-07-30T19:14:55.543233-04:00.jpg",
+      "mtime": "1659254091",
+      "size": "9004",
+      "md5": "e6c5c47ff9d5adf71f81857c9e10837c",
+      "crc32": "bc007e31",
+      "sha1": "71b955d6d6f97f6fed71675a1a9bc4b5766de742"
+    },
+    {
+      "name": "chalkbeat-2022-07-31T07:09:14.919698-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659265758",
+      "size": "46852",
+      "md5": "00749780270886bf6f3323f6561a53ae",
+      "crc32": "ef209948",
+      "sha1": "2caf50138c49c79a3054d247273488b5a5ea4746",
+      "format": "JSON"
+    },
+    {
+      "name": "chalkbeat-2022-07-31T07:09:14.919698-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659265759",
+      "size": "55864",
+      "md5": "3d1f34d4ce2e7d507b480305bb07201e",
+      "crc32": "b171ca35",
+      "sha1": "60625372b94b0220919cab1794d14d7cf8273713",
+      "format": "JSON"
+    },
+    {
+      "name": "chalkbeat-2022-07-31T07:09:14.919698-04:00.jpg",
+      "source": "original",
+      "mtime": "1659265756",
+      "size": "196576",
+      "md5": "7d9fb29a475dd3c1ac72d7269e29131a",
+      "crc32": "1fc8f06b",
+      "sha1": "1eed1a02065527e39c444dc0dd36d999117622de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chalkbeat-2022-07-31T07:09:14.919698-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659265760",
+      "size": "1471",
+      "md5": "6bfd4d7fd01fc4a35a7b11b0fc94a35b",
+      "crc32": "4549bfc5",
+      "sha1": "342e7b25dde2e3eab04b9c919f328c5a5a3e9abc",
+      "format": "JSON"
+    },
+    {
       "name": "chalkbeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5eab716166df95ca0bace068a4fa780604d69e19",
-      "mtime": "1659223155",
-      "size": "11991",
-      "md5": "28df7d7d176d7f0f9b6eb887f0094a1d",
-      "crc32": "08823b32",
-      "sha1": "2419ed9c7b68612e9fa3b6d177041ceff748b736",
+      "btih": "41a097b123abd16713dc18675cba08d221ad5369",
+      "mtime": "1659265798",
+      "size": "13055",
+      "md5": "f501f19578af9793f93453fb08bbc539",
+      "crc32": "de7d2eef",
+      "sha1": "5907c7ce6796b20b18b0a329f218ddbcbb53a94f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chalkbeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "163e794a4199e9c3475ae90e768e4fcc",
+      "md5": "6e2bcf5a10f12c29661dedf60a3684db",
       "summation": "md5"
     },
     {
       "name": "chalkbeat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659223152",
-      "size": "77824",
-      "md5": "8acbb9d56679ef2a6232259c4149d2f0",
-      "crc32": "67340a66",
-      "sha1": "5a2cef5e4b738026a08b3446e1c2b63663ab512a",
+      "mtime": "1659265764",
+      "size": "81920",
+      "md5": "c16d51d9614b20e523bc40de8079d4da",
+      "crc32": "07f60cf0",
+      "sha1": "c8acda81f3347a38729ec4dbc72c44f304b91958",
       "format": "Metadata"
     },
     {
@@ -563,9 +615,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 54,
-  "item_last_updated": 1659223155,
-  "item_size": 3522880,
+  "files_count": 59,
+  "item_last_updated": 1659265798,
+  "item_size": 3837807,
   "metadata": {
     "identifier": "chalkbeat-2022",
     "collection": [
@@ -587,7 +639,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348364196,
+      "task_id": 3348711482,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -595,7 +647,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 562230143,
+  "uniq": 82319064,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

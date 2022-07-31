@@ -1,5 +1,5 @@
 {
-  "created": 1659227643,
+  "created": 1659270001,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/21/items/postcrescent-2022",
@@ -8311,21 +8311,32 @@
       "format": "JSON"
     },
     {
+      "name": "postcrescent-2022-07-30T19:32:57.477040-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "postcrescent-2022-07-30T19:32:57.477040-05:00.jpg",
+      "mtime": "1659256976",
+      "size": "9130",
+      "md5": "a95a6799ccb100ce66e0ed27e036fb7a",
+      "crc32": "d37f917f",
+      "sha1": "aa08f7236088a9ce70f45ae2c3d2305a286f01dd"
+    },
+    {
       "name": "postcrescent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4f44a2989c31591cd895af9c2ff8abb40e595869",
-      "mtime": "1659227636",
-      "size": "171084",
-      "md5": "f90627be9de96e9708716d3a61444856",
-      "crc32": "2e919111",
-      "sha1": "b2791ecb2fe2f09b7cc80c3a5db2622d6bc71153",
+      "btih": "31242dde88bc1c96e0fc88978974172cc34ff592",
+      "mtime": "1659256985",
+      "size": "171292",
+      "md5": "fa5273e1111479cf314e9940c95bf2c1",
+      "crc32": "648c27ce",
+      "sha1": "b470421e33191106e7db853cd657d635e70ad51a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "postcrescent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f6071364726e69da649ef6b8aad0c790",
+      "md5": "29f2ea7a77caffd3e2fcbb73f11888a3",
       "summation": "md5"
     },
     {
@@ -8349,9 +8360,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 795,
-  "item_last_updated": 1659227636,
-  "item_size": 67257629,
+  "files_count": 796,
+  "item_last_updated": 1659256985,
+  "item_size": 67266967,
   "metadata": {
     "identifier": "postcrescent-2022",
     "collection": [
@@ -8368,21 +8379,51 @@
     "publicdate": "2022-03-23 23:07:18",
     "addeddate": "2022-03-23 23:07:18"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "postcrescent-2022": [
     {
-      "task_id": 3348395558,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.postcrescent.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_postcrescent_com-_-2022_07_31_00_10_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_postcrescent_com-_-2022_07_31_00_10_06.report.json",
+      "summary": {
+        "performance": 0.79,
+        "accessibility": 0.88,
+        "best-practices": 1,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.postcrescent.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_postcrescent_com-_-2022_07_31_00_10_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_postcrescent_com-_-2022_07_31_00_10_51.report.json",
+      "summary": {
+        "performance": 0.88,
+        "accessibility": 0.88,
+        "best-practices": 1,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.postcrescent.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_postcrescent_com-_-2022_07_31_00_11_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_postcrescent_com-_-2022_07_31_00_11_43.report.json",
+      "summary": {
+        "performance": 0.86,
+        "accessibility": 0.88,
+        "best-practices": 1,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
     }
   ],
-  "uniq": 538679131,
+  "server": "ia902505.us.archive.org",
+  "uniq": 1676667636,
   "workable_servers": [
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

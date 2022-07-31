@@ -1,5 +1,46 @@
 {
-  "created": 1659223085,
+  "buckscoherald-2022": [
+    {
+      "url": "https://buckscountyherald.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/buckscountyherald_com-_-2022_07_31_10_46_44.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/buckscountyherald_com-_-2022_07_31_10_46_44.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.62,
+        "best-practices": 0.83,
+        "seo": 0.7,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://buckscountyherald.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/buckscountyherald_com-_-2022_07_31_10_47_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/buckscountyherald_com-_-2022_07_31_10_47_10.report.json",
+      "summary": {
+        "performance": 0.53,
+        "accessibility": 0.62,
+        "best-practices": 0.83,
+        "seo": 0.7,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://buckscountyherald.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/buckscountyherald_com-_-2022_07_31_10_47_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/buckscountyherald_com-_-2022_07_31_10_47_31.report.json",
+      "summary": {
+        "performance": 0.47,
+        "accessibility": 0.62,
+        "best-practices": 0.83,
+        "seo": 0.7,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "created": 1659269516,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/12/items/buckscoherald-2022",
@@ -2045,31 +2086,83 @@
       "format": "JSON"
     },
     {
+      "name": "buckscoherald-2022-07-30T19:14:56.518899-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "buckscoherald-2022-07-30T19:14:56.518899-04:00.jpg",
+      "mtime": "1659254169",
+      "size": "9943",
+      "md5": "89828c17497b53a7d518934a03c062b7",
+      "crc32": "de792e1d",
+      "sha1": "24d6783c726816c0e8cdd72a8c553d51ebcf77af"
+    },
+    {
+      "name": "buckscoherald-2022-07-31T07:08:48.237035-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659265731",
+      "size": "42551",
+      "md5": "164470149b104657f9bf4b668d7f4e61",
+      "crc32": "a6c7ac54",
+      "sha1": "d9945e492a8572f8c331b89f0e79cf0671c4afa3",
+      "format": "JSON"
+    },
+    {
+      "name": "buckscoherald-2022-07-31T07:08:48.237035-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659265733",
+      "size": "52411",
+      "md5": "d0958b627f13046085eee68dcf725808",
+      "crc32": "988f5807",
+      "sha1": "97a797ab0934fc2cac7cb4ffb5fffec31e0b2976",
+      "format": "JSON"
+    },
+    {
+      "name": "buckscoherald-2022-07-31T07:08:48.237035-04:00.jpg",
+      "source": "original",
+      "mtime": "1659265729",
+      "size": "301204",
+      "md5": "c4c3b43da62617ec1fd8b3db2557decb",
+      "crc32": "63c65c0d",
+      "sha1": "daf1ec6fd2a38757bd1fc11b97a48ff9a7b7736f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "buckscoherald-2022-07-31T07:08:48.237035-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659265734",
+      "size": "1519",
+      "md5": "ad6c515c9e6f933642a33ebaa1cf0d30",
+      "crc32": "52b43950",
+      "sha1": "9b70da264e40081f06704c2d34ef7e55d85e7a0a",
+      "format": "JSON"
+    },
+    {
       "name": "buckscoherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "484e7def213d6ee8718848380d4a963ce615176a",
-      "mtime": "1659223077",
-      "size": "43599",
-      "md5": "7b51c1b90bb05948e599dbd4c67a5b00",
-      "crc32": "f6b308e4",
-      "sha1": "83dd2d1d462aeee68e51556620d51ae6001022e1",
+      "btih": "2f3d044b741becb82e67564e4a675290f9a54df1",
+      "mtime": "1659265776",
+      "size": "44663",
+      "md5": "c573b4b815ee26362560429f39c2b673",
+      "crc32": "6d41a9a8",
+      "sha1": "9077faa31871f0f8712994e6b0ee35453271f274",
       "format": "Archive BitTorrent"
     },
     {
       "name": "buckscoherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8269786c71fb1be3403f3fd08fcf7f23",
+      "md5": "c9f50572428b8a24a10c90b0049adf40",
       "summation": "md5"
     },
     {
       "name": "buckscoherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659223074",
-      "size": "253952",
-      "md5": "0848b1dda4720383102aed21bf926f8f",
-      "crc32": "82ca45e0",
-      "sha1": "05e6a5ae923dd4ac5a5dd506290967869dbaabb2",
+      "mtime": "1659265739",
+      "size": "262144",
+      "md5": "fdaf36972fa4be794dccc4d6613dc050",
+      "crc32": "dc57fc98",
+      "sha1": "cea4a69501bc202a9ae753599f90276681c275df",
       "format": "Metadata"
     },
     {
@@ -2083,9 +2176,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 199,
-  "item_last_updated": 1659223077,
-  "item_size": 18467789,
+  "files_count": 204,
+  "item_last_updated": 1659265776,
+  "item_size": 18884673,
   "metadata": {
     "identifier": "buckscoherald-2022",
     "collection": [
@@ -2107,7 +2200,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348363691,
+      "task_id": 3348711251,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2115,7 +2208,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2027110695,
+  "uniq": 967852585,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

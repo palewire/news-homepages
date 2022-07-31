@@ -1,5 +1,5 @@
 {
-  "created": 1659227642,
+  "created": 1659256972,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/25/items/punchbowlnews-2022",
@@ -2423,21 +2423,32 @@
       "format": "JSON"
     },
     {
+      "name": "punchbowlnews-2022-07-30T20:33:12.221008-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "punchbowlnews-2022-07-30T20:33:12.221008-04:00.jpg",
+      "mtime": "1659256944",
+      "size": "8638",
+      "md5": "a674b15398f7babbb154e19f92f131e4",
+      "crc32": "dfa4ac8e",
+      "sha1": "8f8efb42c1b7b06ec22cffc26018e290886d811c"
+    },
+    {
       "name": "punchbowlnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "28d08718cbee324df48d57f2ff79041c0302bb89",
-      "mtime": "1659227638",
-      "size": "50941",
-      "md5": "7726ace687183452ea8db3691724a676",
-      "crc32": "45323dcc",
-      "sha1": "4d1719cf4b47f839c399f763826deb65619dacad",
+      "btih": "21a38be8a602c04876f8ff27c2a8e0d6f47ba829",
+      "mtime": "1659256949",
+      "size": "51150",
+      "md5": "1e88d0220a57482284b54d0a0b0865cb",
+      "crc32": "cd81a7cb",
+      "sha1": "9588d29ff55ec06cf2bf178b2f1af113a83384e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "punchbowlnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a79d45000a4f41fca6e7ccc7ce8764c6",
+      "md5": "d787c3474731a088bd60d9882494c1e6",
       "summation": "md5"
     },
     {
@@ -2461,9 +2472,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 235,
-  "item_last_updated": 1659227638,
-  "item_size": 12415943,
+  "files_count": 236,
+  "item_last_updated": 1659256949,
+  "item_size": 12424790,
   "metadata": {
     "identifier": "punchbowlnews-2022",
     "collection": [
@@ -2480,21 +2491,10 @@
     "publicdate": "2022-07-04 21:52:03",
     "addeddate": "2022-07-04 21:52:03"
   },
-  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348395554,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1753295840,
+  "uniq": 2046308130,
   "workable_servers": [
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

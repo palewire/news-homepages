@@ -1,5 +1,5 @@
 {
-  "created": 1659227747,
+  "created": 1659257120,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/15/items/scottishsun-2022",
@@ -2077,21 +2077,32 @@
       "format": "JSON"
     },
     {
+      "name": "scottishsun-2022-07-31T01:34:40.822955+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scottishsun-2022-07-31T01:34:40.822955+01:00.jpg",
+      "mtime": "1659257033",
+      "size": "10576",
+      "md5": "90140692baf6ee8e1478c9fce1f90078",
+      "crc32": "b55ed677",
+      "sha1": "5156003df922fdd2e12d86c68fb8afb2fe13ebc5"
+    },
+    {
       "name": "scottishsun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e4714b95a7f120c43ffd9ebb5cdd7241e6239691",
-      "mtime": "1659227744",
-      "size": "44057",
-      "md5": "dca388845eaac11b368f1bb269c449c7",
-      "crc32": "b9d894da",
-      "sha1": "4b3ff2e630b9373af4802a3fa8a35ff651840eb0",
+      "btih": "a5a7987af10b90edae37794f98397c3f7982010b",
+      "mtime": "1659257056",
+      "size": "44265",
+      "md5": "a79809022ba6ab2b0280a064612acbcd",
+      "crc32": "75ab842c",
+      "sha1": "1f111dfe313e8043033e6db5be967b0c82fca828",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scottishsun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b0656481b038f3848c430ded77f203e7",
+      "md5": "feb031fc464aba734655df4752ce1240",
       "summation": "md5"
     },
     {
@@ -2115,9 +2126,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 202,
-  "item_last_updated": 1659227744,
-  "item_size": 22920063,
+  "files_count": 203,
+  "item_last_updated": 1659257056,
+  "item_size": 22930847,
   "metadata": {
     "identifier": "scottishsun-2022",
     "collection": [
@@ -2134,21 +2145,10 @@
     "publicdate": "2022-07-10 15:44:24",
     "addeddate": "2022-07-10 15:44:24"
   },
-  "pending_tasks": true,
-  "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348396145,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2003163618,
+  "server": "ia801509.us.archive.org",
+  "uniq": 746433708,
   "workable_servers": [
+    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

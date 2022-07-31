@@ -1,5 +1,5 @@
 {
-  "created": 1659223316,
+  "created": 1659266002,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/25/items/fivethirtyeight-2022",
@@ -4795,31 +4795,73 @@
       "format": "JSON"
     },
     {
+      "name": "fivethirtyeight-2022-07-30T19:19:12.218270-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fivethirtyeight-2022-07-30T19:19:12.218270-04:00.jpg",
+      "mtime": "1659254184",
+      "size": "8655",
+      "md5": "ba5493dd4514b3d24bf9636e14573c20",
+      "crc32": "3b035307",
+      "sha1": "52dbd872d8bc3bd801cac494ff31c33ce124bbf7"
+    },
+    {
+      "name": "fivethirtyeight-2022-07-31T07:12:25.822555-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659265949",
+      "size": "19996",
+      "md5": "d8c10854006ff66efac9b46e40e5c6e3",
+      "crc32": "7afcea78",
+      "sha1": "3df94b9324e74a72c31fa2cac8d61ce9adddcaa9",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-07-31T07:12:25.822555-04:00.jpg",
+      "source": "original",
+      "mtime": "1659265947",
+      "size": "245993",
+      "md5": "2f6e0a08c8b47467103adea9c12e12d8",
+      "crc32": "cacf2af1",
+      "sha1": "efba0c8bbdae75378e0b85700dfbf5ddacacf5e7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fivethirtyeight-2022-07-31T07:12:25.822555-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659265951",
+      "size": "1504",
+      "md5": "bbe477538ceca35c73d7e1da667b5f9f",
+      "crc32": "0122630e",
+      "sha1": "c311bc2c88c336db1d560ba32aaea6d8b9fe2c78",
+      "format": "JSON"
+    },
+    {
       "name": "fivethirtyeight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "753cb56fcee182605315a97335842aa6c81c28a1",
-      "mtime": "1659223301",
-      "size": "100745",
-      "md5": "0f41b4555224f5c28ddc0fab40bc201e",
-      "crc32": "250c6109",
-      "sha1": "eefaabee6bd5835305f752e566991e0e0be8a31b",
+      "btih": "fd599566011d3e5dd2e1073e5c5ff91a60a56da9",
+      "mtime": "1659265997",
+      "size": "101618",
+      "md5": "1a5ebe0b47b1948e64413aefac6916e8",
+      "crc32": "2d1c5b58",
+      "sha1": "581fa926b913c6909c814058a9fb8fcda353b76a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fivethirtyeight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a1bf63d284345f3ae67b6f1775e6ca02",
+      "md5": "eb5ba2b09031dbd999ba3951a8efd1c8",
       "summation": "md5"
     },
     {
       "name": "fivethirtyeight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659223293",
-      "size": "557056",
-      "md5": "2e832a7a61a260fa7519323a6759e024",
-      "crc32": "da451b6c",
-      "sha1": "0b7a7d58c27b3a407aa8984e26c57e8db3111daf",
+      "mtime": "1659265955",
+      "size": "561152",
+      "md5": "021f3fa9b79e07cb807f10e04435aabe",
+      "crc32": "3530b94f",
+      "sha1": "8ddb3115cd37659ffc86cff395050d52767a61e1",
       "format": "Metadata"
     },
     {
@@ -4833,9 +4875,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 461,
-  "item_last_updated": 1659223301,
-  "item_size": 34616226,
+  "files_count": 465,
+  "item_last_updated": 1659265997,
+  "item_size": 34897343,
   "metadata": {
     "identifier": "fivethirtyeight-2022",
     "collection": [
@@ -4857,7 +4899,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348365118,
+      "task_id": 3348713071,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4865,7 +4907,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1435000188,
+  "uniq": 1850226295,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

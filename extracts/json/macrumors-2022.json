@@ -1,5 +1,5 @@
 {
-  "created": 1659227298,
+  "created": 1659269834,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/26/items/macrumors-2022",
@@ -651,21 +651,32 @@
       "format": "JSON"
     },
     {
+      "name": "macrumors-2022-07-30T20:27:31.700224-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "macrumors-2022-07-30T20:27:31.700224-04:00.jpg",
+      "mtime": "1659256711",
+      "size": "10477",
+      "md5": "ab4556cc5130a813c938dac3ae580e66",
+      "crc32": "fea76205",
+      "sha1": "8dc5c6c8132329c7b8497d966c64264ce9cfbd05"
+    },
+    {
       "name": "macrumors-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fc466596985608510f1103e190247a63a5be15a2",
-      "mtime": "1659227297",
-      "size": "14653",
-      "md5": "55c027e9b81aab8eb75f430696cd544b",
-      "crc32": "9af4f6b2",
-      "sha1": "398781dd4d09146c8a4293e3853e6ccafd31da99",
+      "btih": "6b7d5a6c4d58334d1b29bcc46dca61883ce89730",
+      "mtime": "1659256720",
+      "size": "14859",
+      "md5": "70d5f88040f6c20a60c726c61e875690",
+      "crc32": "1d284e52",
+      "sha1": "ffe3733bd4c17346e1ed51a92da12d2746a81eda",
       "format": "Archive BitTorrent"
     },
     {
       "name": "macrumors-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bdf44c7d4fc588963d27240ad9ee6259",
+      "md5": "a315febd21b8ab2d2aff3418f690eedc",
       "summation": "md5"
     },
     {
@@ -689,9 +700,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 66,
-  "item_last_updated": 1659227297,
-  "item_size": 7172029,
+  "files_count": 67,
+  "item_last_updated": 1659256720,
+  "item_size": 7182712,
+  "macrumors-2022": [
+    {
+      "url": "https://www.macrumors.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macrumors_com-_-2022_07_31_00_02_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macrumors_com-_-2022_07_31_00_02_54.report.json",
+      "summary": {
+        "performance": 0.36,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.macrumors.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macrumors_com-_-2022_07_31_00_03_40.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macrumors_com-_-2022_07_31_00_03_40.report.json",
+      "summary": {
+        "performance": 0.45,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.macrumors.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macrumors_com-_-2022_07_31_00_04_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macrumors_com-_-2022_07_31_00_04_28.report.json",
+      "summary": {
+        "performance": 0.45,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "macrumors-2022",
     "collection": [
@@ -708,21 +760,10 @@
     "publicdate": "2022-07-25 06:47:43",
     "addeddate": "2022-07-25 06:47:43"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348392991,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 438976099,
+  "server": "ia801501.us.archive.org",
+  "uniq": 659180096,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659227713,
+  "created": 1659256997,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/19/items/rollingstone-2022",
@@ -3693,21 +3693,32 @@
       "format": "JSON"
     },
     {
+      "name": "rollingstone-2022-07-30T20:34:22.552721-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollingstone-2022-07-30T20:34:22.552721-04:00.jpg",
+      "mtime": "1659256974",
+      "size": "11840",
+      "md5": "8d1745ad0fdeffb084b88268115d765b",
+      "crc32": "47a5dfeb",
+      "sha1": "fc61b1ac825e4dbd45d221cd084e8de83b022a5f"
+    },
+    {
       "name": "rollingstone-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c1e79d0681d55d8f11daf889ecdb2f2ed69a56eb",
-      "mtime": "1659227711",
-      "size": "77036",
-      "md5": "ff499f0d97d265c11314f3ece7da4b68",
-      "crc32": "b36b0902",
-      "sha1": "851587fd75e1bed21232d59c78b9214f34d30945",
+      "btih": "d5ba2e2579710b1ed85bab5803b32d999856f4a5",
+      "mtime": "1659256985",
+      "size": "77245",
+      "md5": "3609b910c6311f99f9ee6714577c512a",
+      "crc32": "c3438202",
+      "sha1": "f11e2db93264361a86e125e39b95f556dd6186d5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollingstone-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "233ca713e280b3c216cae3e1a234f571",
+      "md5": "bbc25001cd9a41c194567595855ca5fb",
       "summation": "md5"
     },
     {
@@ -3731,9 +3742,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 355,
-  "item_last_updated": 1659227711,
-  "item_size": 37177141,
+  "files_count": 356,
+  "item_last_updated": 1659256985,
+  "item_size": 37189190,
   "metadata": {
     "identifier": "rollingstone-2022",
     "collection": [
@@ -3750,21 +3761,10 @@
     "publicdate": "2022-06-24 23:00:28",
     "addeddate": "2022-06-24 23:00:28"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348395993,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2105795547,
+  "server": "ia801500.us.archive.org",
+  "uniq": 2090280515,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659227286,
+  "created": 1659256842,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/13/items/ledgerenquirer-2022",
@@ -1079,21 +1079,32 @@
       "format": "JSON"
     },
     {
+      "name": "ledgerenquirer-2022-07-30T20:27:17.338147-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ledgerenquirer-2022-07-30T20:27:17.338147-04:00.jpg",
+      "mtime": "1659256699",
+      "size": "9472",
+      "md5": "8dbcacff3ada096d07005d256e32736e",
+      "crc32": "8a1a4dd5",
+      "sha1": "e02310ff230a2a0e92186926a2d0fea6ef4245eb"
+    },
+    {
       "name": "ledgerenquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a871d1175d49af281ce7909640fbf865f06b9fe2",
-      "mtime": "1659227284",
-      "size": "23694",
-      "md5": "24c3b41719c57737846655735de46c71",
-      "crc32": "fa83bdc7",
-      "sha1": "776cf5ba1ec7409a1fd9783fdb44c00044ff1324",
+      "btih": "b0db6bb69c4e0a79f1b3ccb2d6a96848bac0e061",
+      "mtime": "1659256775",
+      "size": "23904",
+      "md5": "dfcdd7276057d1821bc8529f8824b01f",
+      "crc32": "652ef016",
+      "sha1": "98b4bbebbb05b2eb500b6aa02f0956e817664419",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ledgerenquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "42a26900cbadb756c4b76485351d8896",
+      "md5": "1fcf4b893dda5af644acfe65b00ef524",
       "summation": "md5"
     },
     {
@@ -1117,9 +1128,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 107,
-  "item_last_updated": 1659227284,
-  "item_size": 7121755,
+  "files_count": 108,
+  "item_last_updated": 1659256775,
+  "item_size": 7131437,
   "metadata": {
     "identifier": "ledgerenquirer-2022",
     "collection": [
@@ -1136,21 +1147,10 @@
     "publicdate": "2022-07-20 23:31:19",
     "addeddate": "2022-07-20 23:31:19"
   },
-  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348392930,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1214851471,
+  "uniq": 2071393746,
   "workable_servers": [
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

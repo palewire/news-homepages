@@ -1,5 +1,5 @@
 {
-  "created": 1659227733,
+  "created": 1659257022,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/15/items/shillsalmanac-2022",
@@ -547,21 +547,32 @@
       "format": "JSON"
     },
     {
+      "name": "shillsalmanac-2022-07-30T20:34:47.808997-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shillsalmanac-2022-07-30T20:34:47.808997-04:00.jpg",
+      "mtime": "1659256997",
+      "size": "8978",
+      "md5": "16ee167844932477129b835afedc7bcf",
+      "crc32": "b1941baf",
+      "sha1": "1f186f128d08e8f63562d917374f3e568adcedc3"
+    },
+    {
       "name": "shillsalmanac-2022_archive.torrent",
       "source": "metadata",
-      "btih": "40fa131ff0c1e17f92f7ce4c07799eca65b4342c",
-      "mtime": "1659227731",
-      "size": "12657",
-      "md5": "c366bb391c83020e36644d36cc2011f8",
-      "crc32": "56e4c211",
-      "sha1": "1be9e81fc5edb5973daeccd704a0e44683f49cb4",
+      "btih": "7d610d9f8ef061ad6b23647ed809ae7c9f6c43b4",
+      "mtime": "1659257002",
+      "size": "12866",
+      "md5": "ef943da1d050e7f1f3d425e4b504bad9",
+      "crc32": "21792dc2",
+      "sha1": "d74cb200aa5d51b03ad58044f04a2caf6f5968d8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "shillsalmanac-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c68954eb53198fe38f12204dcf20674f",
+      "md5": "28b9035250183ac8ff2a9dc34996e832",
       "summation": "md5"
     },
     {
@@ -585,9 +596,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 56,
-  "item_last_updated": 1659227731,
-  "item_size": 3711588,
+  "files_count": 57,
+  "item_last_updated": 1659257002,
+  "item_size": 3720775,
   "metadata": {
     "identifier": "shillsalmanac-2022",
     "collection": [
@@ -604,21 +615,10 @@
     "publicdate": "2022-07-26 00:25:03",
     "addeddate": "2022-07-26 00:25:03"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348396089,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1704704606,
+  "server": "ia802500.us.archive.org",
+  "uniq": 1828352303,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

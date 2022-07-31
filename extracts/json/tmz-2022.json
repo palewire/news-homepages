@@ -1,5 +1,5 @@
 {
-  "created": 1659227273,
+  "created": 1659270194,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/tmz-2022",
@@ -1279,31 +1279,94 @@
       "format": "JSON"
     },
     {
+      "name": "tmz-2022-07-30T06:37:24.405522-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tmz-2022-07-30T06:37:24.405522-07:00.jpg",
+      "mtime": "1659228349",
+      "size": "10238",
+      "md5": "ea7079738b8cea2702aac0619052ca29",
+      "crc32": "b2060f84",
+      "sha1": "063375631134dad83da8f69cd7b9ccb40a99e517"
+    },
+    {
+      "name": "tmz-2022-07-30T19:50:47.872624-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659235852",
+      "size": "81026",
+      "md5": "c3633c20d9fb0dadb64956b5a39cd546",
+      "crc32": "efcd885a",
+      "sha1": "520ffc946cf06ddd5484c0cc0fff1dc8ad3d215b",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-07-30T19:50:47.872624-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659235853",
+      "size": "59435",
+      "md5": "7afd3385f5fee0369b118f3179feb4ff",
+      "crc32": "de63c36a",
+      "sha1": "b4508e5d1fd112300359d3bc2ead234b7e783321",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-07-30T19:50:47.872624-07:00.jpg",
+      "source": "original",
+      "mtime": "1659235850",
+      "size": "250462",
+      "md5": "f9c2fb9426a5fdabcb42823c14b7c005",
+      "crc32": "7bd9d755",
+      "sha1": "587088baab79566a25206a47ad07fca85f50f32b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tmz-2022-07-30T19:50:47.872624-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659235855",
+      "size": "1429",
+      "md5": "ca0e56c28a5afbb8e6fa24b09a57d377",
+      "crc32": "49606280",
+      "sha1": "bef3b85928dc623b4b6281c628512bfc4ff1e46d",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-07-30T19:50:47.872624-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tmz-2022-07-30T19:50:47.872624-07:00.jpg",
+      "mtime": "1659260742",
+      "size": "10394",
+      "md5": "a261f12bd689e462e227859007d96a0a",
+      "crc32": "c793ae59",
+      "sha1": "1bc544b3b048ef680c63cf206a7c14b46cd7588a"
+    },
+    {
       "name": "tmz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5d0bacaefa1acdaeef42c95d7f76f835bcc8de4d",
-      "mtime": "1659188319",
-      "size": "26539",
-      "md5": "7ae49cd77423c7498b1d3e9be1b3a0c1",
-      "crc32": "911e5fc1",
-      "sha1": "923b468b8a2f43dfcc84f7de90bc0507f1cc26d0",
+      "btih": "3c99f4847010d8c9e4cb1c6285c49ab26c9a7bb3",
+      "mtime": "1659260813",
+      "size": "27774",
+      "md5": "bd3c8fd885b40439ccb7fa4e145ef82d",
+      "crc32": "8fc0f62f",
+      "sha1": "ba8a22f73f6a4fd69287fabb4deda7e417fdc287",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tmz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4ea1974998e273894ff3b37711dba827",
+      "md5": "fd2e5390999343a9b967df9ba0670083",
       "summation": "md5"
     },
     {
       "name": "tmz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659188316",
-      "size": "167936",
-      "md5": "ea9f06655350dbe89f1035c534e45c98",
-      "crc32": "0ae2c142",
-      "sha1": "58570ba13e2b42a73204e5c1372addafc6867a28",
+      "mtime": "1659235858",
+      "size": "172032",
+      "md5": "ee230b554bca90fe6f7e322150c4bb51",
+      "crc32": "abf26905",
+      "sha1": "2832caa5f287a460144aba74f535f70af284786c",
       "format": "Metadata"
     },
     {
@@ -1317,9 +1380,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 126,
-  "item_last_updated": 1659188319,
-  "item_size": 11296931,
+  "files_count": 132,
+  "item_last_updated": 1659260813,
+  "item_size": 11715246,
   "metadata": {
     "identifier": "tmz-2022",
     "collection": [
@@ -1336,21 +1399,51 @@
     "publicdate": "2022-07-18 04:19:31",
     "addeddate": "2022-07-18 04:19:31"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "server": "ia801408.us.archive.org",
+  "tmz-2022": [
     {
-      "task_id": 3348056390,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.tmz.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tmz_com-_-2022_07_31_01_33_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tmz_com-_-2022_07_31_01_33_26.report.json",
+      "summary": {
+        "performance": 0.14,
+        "accessibility": 0.8,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.tmz.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tmz_com-_-2022_07_31_01_33_45.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tmz_com-_-2022_07_31_01_33_45.report.json",
+      "summary": {
+        "performance": 0.19,
+        "accessibility": 0.8,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.tmz.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tmz_com-_-2022_07_31_01_33_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tmz_com-_-2022_07_31_01_33_06.report.json",
+      "summary": {
+        "performance": 0.19,
+        "accessibility": 0.8,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 2035329424,
+  "uniq": 348341009,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

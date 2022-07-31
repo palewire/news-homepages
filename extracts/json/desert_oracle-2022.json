@@ -1,5 +1,5 @@
 {
-  "created": 1659223131,
+  "created": 1659265948,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/23/items/desert_oracle-2022",
@@ -2393,31 +2393,83 @@
       "format": "JSON"
     },
     {
+      "name": "desert_oracle-2022-07-30T16:17:16.532637-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desert_oracle-2022-07-30T16:17:16.532637-07:00.jpg",
+      "mtime": "1659254069",
+      "size": "6892",
+      "md5": "a01dc3b625b9dac8bb9bb19dc63c4b09",
+      "crc32": "f5851f3e",
+      "sha1": "c9d77f2c8c4c9669b0e1704549288a32106ab7fd"
+    },
+    {
+      "name": "desert_oracle-2022-07-31T04:11:42.375334-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659265904",
+      "size": "7019",
+      "md5": "450c6cc22bd050c1db5c931000d87e9e",
+      "crc32": "b5442e41",
+      "sha1": "0ec1a10d3c1d7c75e0ae9ca4ee4995ae550e1a32",
+      "format": "JSON"
+    },
+    {
+      "name": "desert_oracle-2022-07-31T04:11:42.375334-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659265905",
+      "size": "2698",
+      "md5": "b40e8f951b84093cdb0ce8dff831de3a",
+      "crc32": "42bc7e5f",
+      "sha1": "7fe3bc364fd5f580043290a6a5a62b73a58460b1",
+      "format": "JSON"
+    },
+    {
+      "name": "desert_oracle-2022-07-31T04:11:42.375334-07:00.jpg",
+      "source": "original",
+      "mtime": "1659265903",
+      "size": "125248",
+      "md5": "551f3495fb72e8fffb3121ddfe2279c0",
+      "crc32": "df6f7369",
+      "sha1": "0cf8a0e24ec541196eabd69f905bc58ddfc3212f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desert_oracle-2022-07-31T04:11:42.375334-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659265906",
+      "size": "1510",
+      "md5": "29f1246364fdaca4bd813fa1283eeb34",
+      "crc32": "5d2c06f7",
+      "sha1": "2d762c793a23d154febc752c6956029f291b8db8",
+      "format": "JSON"
+    },
+    {
       "name": "desert_oracle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ff160babcb01da34f37763386097c506c8c6424b",
-      "mtime": "1659223124",
-      "size": "50078",
-      "md5": "11573e7fbaedd55b3623c4756e80eb26",
-      "crc32": "9552b525",
-      "sha1": "07d475d684e71163fefbd53e800e30d4e1ca7375",
+      "btih": "3cd87ef4e6fd6bcf8113822dd6bbe5bbe31d3b81",
+      "mtime": "1659265945",
+      "size": "51160",
+      "md5": "1f474a3e636d5cdd1bab513a2ace1edb",
+      "crc32": "db5bf890",
+      "sha1": "40645675c22c478aea72a487285a1f728b916ccd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "desert_oracle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e481b51594b88dd958bdb00632a4f573",
+      "md5": "c5125f018f29351a4dfce7456fd50c72",
       "summation": "md5"
     },
     {
       "name": "desert_oracle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659223122",
-      "size": "286720",
-      "md5": "f910a7ba1d06635ad106d18e89c1f509",
-      "crc32": "5e042db1",
-      "sha1": "c87bdbbbe1c51de1800e1dee194336e519b10c94",
+      "mtime": "1659265910",
+      "size": "294912",
+      "md5": "66d45cf98045db356c3cb37c2750377c",
+      "crc32": "7716a9b4",
+      "sha1": "5956cffb678641d92b44c4f54b5f494db5251fa0",
       "format": "Metadata"
     },
     {
@@ -2431,9 +2483,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 232,
-  "item_last_updated": 1659223124,
-  "item_size": 8384712,
+  "files_count": 237,
+  "item_last_updated": 1659265945,
+  "item_size": 8537353,
   "metadata": {
     "identifier": "desert_oracle-2022",
     "collection": [
@@ -2455,7 +2507,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348364021,
+      "task_id": 3348712676,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2463,7 +2515,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 405585729,
+  "uniq": 1227909304,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

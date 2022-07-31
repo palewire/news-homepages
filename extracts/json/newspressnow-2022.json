@@ -1,5 +1,5 @@
 {
-  "created": 1659227665,
+  "created": 1659261226,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/19/items/newspressnow-2022",
@@ -1821,31 +1821,84 @@
       "format": "JSON"
     },
     {
+      "name": "newspressnow-2022-07-30T10:45:37.807004-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newspressnow-2022-07-30T10:45:37.807004-05:00.jpg",
+      "mtime": "1659234624",
+      "size": "11128",
+      "md5": "1c980f7189edaf4cc3c5b0e55a021af2",
+      "crc32": "b9f18578",
+      "sha1": "fde431249c3f04edd21a28bd636da6b1ec9f23ae"
+    },
+    {
+      "name": "newspressnow-2022-07-30T22:03:30.512891-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659236613",
+      "size": "28835",
+      "md5": "7924e8494fa2ef9b3818c742863b42d3",
+      "crc32": "d4cf1ffc",
+      "sha1": "dba846e9eee09c6b02cf8ede643b6aae0aa0d999",
+      "format": "JSON"
+    },
+    {
+      "name": "newspressnow-2022-07-30T22:03:30.512891-05:00.jpg",
+      "source": "original",
+      "mtime": "1659236611",
+      "size": "369921",
+      "md5": "816c5c5b6fe669e8458aca6bbf916ecf",
+      "crc32": "ac6b0be1",
+      "sha1": "97fb0eedb11c6c38153350e90d3f2cdcfd05e76e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newspressnow-2022-07-30T22:03:30.512891-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659236614",
+      "size": "1513",
+      "md5": "10cfaad1cd4cf3bd2aa20615579a5433",
+      "crc32": "64bc6b73",
+      "sha1": "d925ca10f4d6c632c5c44882f17af6ecbb7e3ea5",
+      "format": "JSON"
+    },
+    {
+      "name": "newspressnow-2022-07-30T22:03:30.512891-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newspressnow-2022-07-30T22:03:30.512891-05:00.jpg",
+      "mtime": "1659261158",
+      "size": "11091",
+      "md5": "48e96b765c85b044662e79a843045d94",
+      "crc32": "742408dc",
+      "sha1": "5a6a2279b06a2cb3d030ec75e0414749fa6ff713"
+    },
+    {
       "name": "newspressnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cb127cf50cb61180c059673ac347dda023f47245",
-      "mtime": "1659196037",
-      "size": "38185",
-      "md5": "80824e6cdec4e263124f5556b07ae4fe",
-      "crc32": "16e195af",
-      "sha1": "39da5ccc0823a655cedaed9d4d5043b572775757",
+      "btih": "72b229009eeb94d3864d2cdc1f33b65ac3a49a33",
+      "mtime": "1659261193",
+      "size": "39259",
+      "md5": "cda6781cfc0b792ec9eb459c2f3a73b1",
+      "crc32": "6fa194a4",
+      "sha1": "27a8d56b1aacc490bb1448085002c399b60e8fda",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newspressnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a881394e79044a77f760196c3875f1e9",
+      "md5": "a65f44203de00a0a54e266556a9b9b2c",
       "summation": "md5"
     },
     {
       "name": "newspressnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659196035",
-      "size": "204800",
-      "md5": "454941e266159602fbc912b597cfdd7d",
-      "crc32": "81a452d2",
-      "sha1": "65edcfe3b4da3916e49ee1bd7a7469741174c55b",
+      "mtime": "1659236618",
+      "size": "208896",
+      "md5": "30d198ed5bf299ecf7369cec1fa4e8c6",
+      "crc32": "16f8942f",
+      "sha1": "cfb891460af7edacfa27c0a51a54ba274c9f07cb",
       "format": "Metadata"
     },
     {
@@ -1859,9 +1912,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 175,
-  "item_last_updated": 1659196037,
-  "item_size": 21393781,
+  "files_count": 180,
+  "item_last_updated": 1659261193,
+  "item_size": 21821439,
   "metadata": {
     "identifier": "newspressnow-2022",
     "collection": [
@@ -1878,62 +1931,10 @@
     "publicdate": "2022-07-04 21:49:25",
     "addeddate": "2022-07-04 21:49:25"
   },
-  "newspressnow-2022": [
-    {
-      "url": "https://www.newspressnow.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newspressnow_com-_-2022_07_30_14_36_15.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newspressnow_com-_-2022_07_30_14_36_15.report.json",
-      "summary": {
-        "performance": 0.14,
-        "accessibility": 0.94,
-        "best-practices": 0.75,
-        "seo": 0.84,
-        "pwa": 0.2
-      }
-    },
-    {
-      "url": "https://www.newspressnow.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newspressnow_com-_-2022_07_30_14_37_12.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newspressnow_com-_-2022_07_30_14_37_12.report.json",
-      "summary": {
-        "performance": 0.16,
-        "accessibility": 0.94,
-        "best-practices": 0.75,
-        "seo": 0.84,
-        "pwa": 0.2
-      }
-    },
-    {
-      "url": "https://www.newspressnow.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newspressnow_com-_-2022_07_30_14_34_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newspressnow_com-_-2022_07_30_14_34_44.report.json",
-      "summary": {
-        "performance": 0.1,
-        "accessibility": 0.94,
-        "best-practices": 0.75,
-        "seo": 0.84,
-        "pwa": 0.2
-      }
-    }
-  ],
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348122665,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 977660961,
+  "server": "ia801500.us.archive.org",
+  "uniq": 1482885291,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

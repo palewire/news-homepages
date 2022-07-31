@@ -1,5 +1,5 @@
 {
-  "created": 1659206935,
+  "created": 1659261012,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/16/items/hotairblog-2022",
@@ -1833,31 +1833,94 @@
       "format": "JSON"
     },
     {
+      "name": "hotairblog-2022-07-30T14:41:50.064633-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hotairblog-2022-07-30T14:41:50.064633-04:00.jpg",
+      "mtime": "1659236279",
+      "size": "9517",
+      "md5": "7a4b47ff61374f05825914e1d3b85292",
+      "crc32": "f81dc7e5",
+      "sha1": "8306d4ced58eda04444a49ead0038ed2aa5355af"
+    },
+    {
+      "name": "hotairblog-2022-07-30T22:57:25.923582-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659236249",
+      "size": "38748",
+      "md5": "249d09f068d8595c26273dad5186cc07",
+      "crc32": "9751c178",
+      "sha1": "fcef7dc4626b9a9297bf703269126175fff95485",
+      "format": "JSON"
+    },
+    {
+      "name": "hotairblog-2022-07-30T22:57:25.923582-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659236250",
+      "size": "30133",
+      "md5": "e2c11dafec3636ebfc9d8ff45f1bf1f3",
+      "crc32": "291a193e",
+      "sha1": "8566a0e40db48c46eb9dd8847a9b94ccd190f781",
+      "format": "JSON"
+    },
+    {
+      "name": "hotairblog-2022-07-30T22:57:25.923582-04:00.jpg",
+      "source": "original",
+      "mtime": "1659236247",
+      "size": "261174",
+      "md5": "3296c251821bc1a33d721938823f1d11",
+      "crc32": "225b995c",
+      "sha1": "796e7735b79aa0a2a1cdcc56ed8a95e54d803004",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hotairblog-2022-07-30T22:57:25.923582-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659236252",
+      "size": "1420",
+      "md5": "1d37d4332769225af4560c09730d848d",
+      "crc32": "9378dba7",
+      "sha1": "feba93d6bb79327cc68dfe9e502b28f037c7344c",
+      "format": "JSON"
+    },
+    {
+      "name": "hotairblog-2022-07-30T22:57:25.923582-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hotairblog-2022-07-30T22:57:25.923582-04:00.jpg",
+      "mtime": "1659260971",
+      "size": "9794",
+      "md5": "5b459bb70f848adb23431b234fcd79b4",
+      "crc32": "634f910f",
+      "sha1": "561329a9bbfb64c82a1887639ba7913019cea7b1"
+    },
+    {
       "name": "hotairblog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "72103bcfc0f3205a849cd4a5877b52c6dc55b8e4",
-      "mtime": "1659206926",
-      "size": "38629",
-      "md5": "f06eab3103be1d33366b35847eb4ef7c",
-      "crc32": "dbe37cee",
-      "sha1": "81a4d3c64f2595f7a532f469f348d14c81befca6",
+      "btih": "b45ca1015821b51fdeec9acb7c944a241541112f",
+      "mtime": "1659260977",
+      "size": "39884",
+      "md5": "af9fca2d91e0d66f844120c0c4fb439f",
+      "crc32": "2245141f",
+      "sha1": "25758e62572c53d5b7cf97e0b719035d93ea751d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hotairblog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c32a79ccabb49126647301743a858aab",
+      "md5": "3b78ba08c8bd636ae603afe77310f0b7",
       "summation": "md5"
     },
     {
       "name": "hotairblog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659206921",
-      "size": "233472",
-      "md5": "81bcba7cfcc01ab80fad2c5af02ccebc",
-      "crc32": "e9309de5",
-      "sha1": "46328eae94f6925a3c3c4bb0caa705f2d92af7fa",
+      "mtime": "1659236310",
+      "size": "237568",
+      "md5": "c10a645a3cbab159616d72cfca0f2572",
+      "crc32": "a9bf22a9",
+      "sha1": "4a36dcbef35298d07dba4361f2ca2a77a16c1428",
       "format": "Metadata"
     },
     {
@@ -1871,9 +1934,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 179,
-  "item_last_updated": 1659206926,
-  "item_size": 13685278,
+  "files_count": 185,
+  "item_last_updated": 1659260977,
+  "item_size": 14041415,
   "metadata": {
     "identifier": "hotairblog-2022",
     "collection": [
@@ -1890,21 +1953,10 @@
     "publicdate": "2022-07-17 15:03:29",
     "addeddate": "2022-07-17 15:03:29"
   },
-  "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348226300,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1286807894,
+  "server": "ia801506.us.archive.org",
+  "uniq": 1113750846,
   "workable_servers": [
+    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

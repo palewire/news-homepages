@@ -1,28 +1,15 @@
 {
-  "created": 1659227243,
+  "created": 1659269578,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dainikbhaskar-2022": [
     {
       "url": "https://www.bhaskar.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bhaskar_com-_-2022_07_30_22_53_45.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bhaskar_com-_-2022_07_30_22_53_45.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bhaskar_com-_-2022_07_31_10_50_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bhaskar_com-_-2022_07_31_10_50_31.report.json",
       "summary": {
-        "performance": 0.43,
-        "accessibility": 0.91,
-        "best-practices": 0.92,
-        "seo": 1,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.bhaskar.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bhaskar_com-_-2022_07_30_22_53_59.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bhaskar_com-_-2022_07_30_22_53_59.report.json",
-      "summary": {
-        "performance": 0.59,
+        "performance": 0.47,
         "accessibility": 0.89,
         "best-practices": 0.92,
         "seo": 1,
@@ -31,12 +18,25 @@
     },
     {
       "url": "https://www.bhaskar.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bhaskar_com-_-2022_07_31_10_50_45.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bhaskar_com-_-2022_07_31_10_50_45.report.json",
+      "summary": {
+        "performance": 0.4,
+        "accessibility": 0.91,
+        "best-practices": 0.92,
+        "seo": 1,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.bhaskar.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bhaskar_com-_-2022_07_30_22_53_30.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bhaskar_com-_-2022_07_30_22_53_30.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bhaskar_com-_-2022_07_31_10_50_15.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bhaskar_com-_-2022_07_31_10_50_15.report.json",
       "summary": {
         "performance": 0.31,
-        "accessibility": 0.91,
+        "accessibility": 0.89,
         "best-practices": 0.92,
         "seo": 1,
         "pwa": 0.3
@@ -462,31 +462,83 @@
       "format": "JSON"
     },
     {
+      "name": "dainikbhaskar-2022-07-31T04:46:42.211748+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dainikbhaskar-2022-07-31T04:46:42.211748+05:30.jpg",
+      "mtime": "1659254459",
+      "size": "9340",
+      "md5": "7ba0f4b5115213b904502120475b62ad",
+      "crc32": "f8ff071e",
+      "sha1": "6a6430472b9a2594ef888dcc8222505ecbe5ad45"
+    },
+    {
+      "name": "dainikbhaskar-2022-07-31T16:40:50.215073+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1659265853",
+      "size": "54412",
+      "md5": "a5aa02e9d0f84a58e8b0b8a79a88df2b",
+      "crc32": "edabd247",
+      "sha1": "e787d19064abc6590bf5167ae0b54c78e711d4b7",
+      "format": "JSON"
+    },
+    {
+      "name": "dainikbhaskar-2022-07-31T16:40:50.215073+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659265855",
+      "size": "37947",
+      "md5": "230adae74818076b531d0cfc0881fd38",
+      "crc32": "8405b3f3",
+      "sha1": "01c013ed2b7d24939d37cd55775c5e1db2b8301c",
+      "format": "JSON"
+    },
+    {
+      "name": "dainikbhaskar-2022-07-31T16:40:50.215073+05:30.jpg",
+      "source": "original",
+      "mtime": "1659265851",
+      "size": "241719",
+      "md5": "1836c696827d274be3b95f8bd633eb4a",
+      "crc32": "e57538e5",
+      "sha1": "b2663acddcd4f26489a1a244e5f1a9da7e0513f6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dainikbhaskar-2022-07-31T16:40:50.215073+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1659265856",
+      "size": "1458",
+      "md5": "76a75804c41f1a428d040a50c77d3e3e",
+      "crc32": "86f388ea",
+      "sha1": "4509eb81c9c637952e46645b2792193a53d71689",
+      "format": "JSON"
+    },
+    {
       "name": "dainikbhaskar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "47fff35b7e5a84c3ed9c5053bfd1899f1ca8e802",
-      "mtime": "1659223494",
-      "size": "10072",
-      "md5": "d64358aa10ea068bfced6e70351726cf",
-      "crc32": "57c03861",
-      "sha1": "d53c779ff26c6726126b39c44559987f6841ed77",
+      "btih": "9e27302bedd05f9fa433548f07e13d3da6027809",
+      "mtime": "1659265899",
+      "size": "11156",
+      "md5": "0d1791502a41529d326743aecf574b33",
+      "crc32": "376e0fc2",
+      "sha1": "6a6b130a943f9feaee69a57e30a43e87070843ea",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dainikbhaskar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "25cd573dc67e90979b16877a5db4828b",
+      "md5": "2038e7fc80161c8a288b111bcd32d737",
       "summation": "md5"
     },
     {
       "name": "dainikbhaskar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659223491",
-      "size": "65536",
-      "md5": "5ed29d1d1769bc2d55f8cbc6e278ba25",
-      "crc32": "6b9285d1",
-      "sha1": "bcf97b4787239ff3e8e2a0d18eedc552a222af97",
+      "mtime": "1659265861",
+      "size": "69632",
+      "md5": "fca953a003aa0cfa814a20e9ceb433c4",
+      "crc32": "3a26dda2",
+      "sha1": "a7a317366ec2610d6f06e7dc97dbe8f26a10991e",
       "format": "Metadata"
     },
     {
@@ -500,9 +552,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 44,
-  "item_last_updated": 1659223494,
-  "item_size": 2819822,
+  "files_count": 49,
+  "item_last_updated": 1659265899,
+  "item_size": 3169878,
   "metadata": {
     "identifier": "dainikbhaskar-2022",
     "collection": [
@@ -524,7 +576,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348366057,
+      "task_id": 3348712288,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -532,7 +584,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1376890991,
+  "uniq": 729831251,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659228032,
+  "created": 1659260777,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/0/items/thr-2022",
@@ -1249,31 +1249,94 @@
       "format": "JSON"
     },
     {
+      "name": "thr-2022-07-30T06:36:45.897455-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thr-2022-07-30T06:36:45.897455-07:00.jpg",
+      "mtime": "1659228255",
+      "size": "9416",
+      "md5": "df3db9becce7f8764c4bf3d1217fe2b2",
+      "crc32": "c6dfa5ea",
+      "sha1": "dafec1296cb5356be17d1b4faa26f1e139bc4a93"
+    },
+    {
+      "name": "thr-2022-07-30T19:49:56.353829-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659235800",
+      "size": "41076",
+      "md5": "806d04b90b0f622fc971132a21c606c0",
+      "crc32": "2874df86",
+      "sha1": "1617a3d4d4433bf4e74cbed286bd757d8fe20649",
+      "format": "JSON"
+    },
+    {
+      "name": "thr-2022-07-30T19:49:56.353829-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659235801",
+      "size": "60476",
+      "md5": "9184e21ce100488120cc36c19e8fc0ad",
+      "crc32": "29bc4983",
+      "sha1": "bcbe7ccd8f966b2405cc8debb9c295c0da534053",
+      "format": "JSON"
+    },
+    {
+      "name": "thr-2022-07-30T19:49:56.353829-07:00.jpg",
+      "source": "original",
+      "mtime": "1659235798",
+      "size": "371627",
+      "md5": "12d6db4f73bcc8ab3eccf79f6cbb76c9",
+      "crc32": "a2943d6f",
+      "sha1": "c812dfcb315d124cea558c6195f45d565693205d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thr-2022-07-30T19:49:56.353829-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659235802",
+      "size": "1558",
+      "md5": "9e93d5c22c62451f58715028e149c907",
+      "crc32": "9ef638dd",
+      "sha1": "1984c15c42c7736671c4ea1e8c6acee298daafd0",
+      "format": "JSON"
+    },
+    {
+      "name": "thr-2022-07-30T19:49:56.353829-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thr-2022-07-30T19:49:56.353829-07:00.jpg",
+      "mtime": "1659260719",
+      "size": "10086",
+      "md5": "5d382bf15e76e1ee8d28710e8c0d84d4",
+      "crc32": "996f64c3",
+      "sha1": "59a4bfb8c74bef0eeceeb4d6d1a2feeea84dcbef"
+    },
+    {
       "name": "thr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "98317d67839bffa02b0812f8a3dc117a0b01e9ed",
-      "mtime": "1659188308",
-      "size": "25942",
-      "md5": "25d854c49f6c3e16f941aa7ebb993c93",
-      "crc32": "891fc36d",
-      "sha1": "6638c7af3f694a9858572815b11870be4f2b9ef4",
+      "btih": "dc57307ca86ca3378a16b0c4e8180187d0543228",
+      "mtime": "1659260748",
+      "size": "27176",
+      "md5": "1bb0952d2ca219e96322d3c30f750858",
+      "crc32": "75bf5e8b",
+      "sha1": "d35f7d3796395c5280a80ed3db16cfecf030cdbf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "019f8693543726ae858d3e7d64c565d5",
+      "md5": "a4b1e149ef7f912da7109e9606da2cdc",
       "summation": "md5"
     },
     {
       "name": "thr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659188306",
-      "size": "163840",
-      "md5": "9e774a97df0fef44a82f143865cd7cbe",
-      "crc32": "0ed9870e",
-      "sha1": "d1ee13676bf91b81db08b558dfef2bc021bea7d9",
+      "mtime": "1659235808",
+      "size": "167936",
+      "md5": "a9721806dcfb04e2dbddf14fbb32c6e3",
+      "crc32": "b6b122ed",
+      "sha1": "5a32320b142551a417657526d56626ceaeac6af4",
       "format": "Metadata"
     },
     {
@@ -1287,9 +1350,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 123,
-  "item_last_updated": 1659188308,
-  "item_size": 12555286,
+  "files_count": 129,
+  "item_last_updated": 1659260748,
+  "item_size": 13054855,
   "metadata": {
     "identifier": "thr-2022",
     "collection": [
@@ -1306,62 +1369,10 @@
     "publicdate": "2022-07-18 04:18:56",
     "addeddate": "2022-07-18 04:18:56"
   },
-  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348056309,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "thr-2022": [
-    {
-      "url": "https://www.hollywoodreporter.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hollywoodreporter_com-_-2022_07_30_13_15_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hollywoodreporter_com-_-2022_07_30_13_15_56.report.json",
-      "summary": {
-        "performance": 0.12,
-        "accessibility": 0.87,
-        "best-practices": 0.83,
-        "seo": 0.83,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://www.hollywoodreporter.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hollywoodreporter_com-_-2022_07_30_13_16_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hollywoodreporter_com-_-2022_07_30_13_16_47.report.json",
-      "summary": {
-        "performance": 0.24,
-        "accessibility": 0.89,
-        "best-practices": 0.83,
-        "seo": 0.83,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://www.hollywoodreporter.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hollywoodreporter_com-_-2022_07_30_13_18_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_hollywoodreporter_com-_-2022_07_30_13_18_17.report.json",
-      "summary": {
-        "performance": 0.24,
-        "accessibility": 0.87,
-        "best-practices": 0.83,
-        "seo": 0.83,
-        "pwa": 0.7
-      }
-    }
-  ],
-  "uniq": 1090727270,
+  "uniq": 2112075087,
   "workable_servers": [
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

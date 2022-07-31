@@ -1,5 +1,5 @@
 {
-  "created": 1659222938,
+  "created": 1659265662,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/25/items/baltimoremag-2022",
@@ -1751,31 +1751,83 @@
       "format": "JSON"
     },
     {
+      "name": "baltimoremag-2022-07-30T19:13:23.600802-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimoremag-2022-07-30T19:13:23.600802-04:00.jpg",
+      "mtime": "1659253978",
+      "size": "9460",
+      "md5": "249f40ffbdc185a6885135ae05e5beae",
+      "crc32": "3a122983",
+      "sha1": "786aaa928656ffe819196b463eda39d164cc9c4c"
+    },
+    {
+      "name": "baltimoremag-2022-07-31T07:06:43.833237-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659265607",
+      "size": "45405",
+      "md5": "c52bfe749a49e2dea10f486bba67fa62",
+      "crc32": "5a89f46d",
+      "sha1": "e9cae86c1e06562a8be986ab693768a87afac4bd",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoremag-2022-07-31T07:06:43.833237-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659265609",
+      "size": "54516",
+      "md5": "2931ed392776a013a2f1f22dc0f8cc47",
+      "crc32": "e765ac91",
+      "sha1": "34298023db345535140537b5227fba227db81a65",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoremag-2022-07-31T07:06:43.833237-04:00.jpg",
+      "source": "original",
+      "mtime": "1659265605",
+      "size": "282208",
+      "md5": "9713cb528f44f7fd1bbae27919c7c780",
+      "crc32": "05494769",
+      "sha1": "9c35a757c5ce914953fd69f0d114da4e09465881",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimoremag-2022-07-31T07:06:43.833237-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659265610",
+      "size": "1555",
+      "md5": "ff61a347ec7b067e78f1e46bae3601ff",
+      "crc32": "d94cd2dd",
+      "sha1": "4ff7686318e838387e0ddfa9848d5f752e4a1bbb",
+      "format": "JSON"
+    },
+    {
       "name": "baltimoremag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "714d709906a3ad0f5a28473d2c140a96128f3dbf",
-      "mtime": "1659222930",
-      "size": "37318",
-      "md5": "b2b17d36b0897dbe1ebeb77eae4ae918",
-      "crc32": "eaec7ebe",
-      "sha1": "4caf605c20fa0a570b63eca31ddf18d6ca1d4b02",
+      "btih": "0b3b12f1e7b7f73eec680939889374f6fd6840d2",
+      "mtime": "1659265659",
+      "size": "38397",
+      "md5": "d71621fa5985e998b1d117d284c636cb",
+      "crc32": "df183250",
+      "sha1": "156024b8b072c744850f81989bb7fb1e5e01c3c0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimoremag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9d8c89c8f782af197d38a06dca1d9741",
+      "md5": "23113e637db071b5639b715fe64df881",
       "summation": "md5"
     },
     {
       "name": "baltimoremag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659222920",
-      "size": "221184",
-      "md5": "8832d6f8be7b0dfe6871b4ca0e840d27",
-      "crc32": "00c6c061",
-      "sha1": "bdb086e662fb530088139e2e6a66e32ba818a580",
+      "mtime": "1659265620",
+      "size": "229376",
+      "md5": "57e08a4401568eb51cf25f6e980ba529",
+      "crc32": "cbb44a8d",
+      "sha1": "510d4db3ac112f72391fe57e71537e57905272f6",
       "format": "Metadata"
     },
     {
@@ -1789,9 +1841,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 171,
-  "item_last_updated": 1659222930,
-  "item_size": 14525184,
+  "files_count": 176,
+  "item_last_updated": 1659265659,
+  "item_size": 14927599,
   "metadata": {
     "identifier": "baltimoremag-2022",
     "collection": [
@@ -1813,7 +1865,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348362650,
+      "task_id": 3348710177,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1821,7 +1873,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 346169544,
+  "uniq": 573481804,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

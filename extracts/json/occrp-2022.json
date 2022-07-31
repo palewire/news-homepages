@@ -1,5 +1,5 @@
 {
-  "created": 1659227684,
+  "created": 1659263680,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/32/items/occrp-2022",
@@ -733,31 +733,94 @@
       "format": "JSON"
     },
     {
+      "name": "occrp-2022-07-30T17:53:23.468686+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "occrp-2022-07-30T17:53:23.468686+02:00.jpg",
+      "mtime": "1659234888",
+      "size": "7107",
+      "md5": "848abb4f74038d93e58d67763706bcc2",
+      "crc32": "927378c7",
+      "sha1": "706e6aba640c5995e726ab3242b37b3e003edde0"
+    },
+    {
+      "name": "occrp-2022-07-31T06:03:35.336037+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659240220",
+      "size": "18754",
+      "md5": "75b08bca8cf6bce39e302ae8740237a0",
+      "crc32": "4971b2e5",
+      "sha1": "3a61c1d809e7a2258e655316c0a6a02b6055ff9a",
+      "format": "JSON"
+    },
+    {
+      "name": "occrp-2022-07-31T06:03:35.336037+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659240222",
+      "size": "24364",
+      "md5": "3749019ec617a8de3e9f3ece96898c97",
+      "crc32": "5b8afe2f",
+      "sha1": "de75e1e7acc81556b1dc49b50f10276999b65997",
+      "format": "JSON"
+    },
+    {
+      "name": "occrp-2022-07-31T06:03:35.336037+02:00.jpg",
+      "source": "original",
+      "mtime": "1659240218",
+      "size": "137769",
+      "md5": "fc24957d5f550a16bcdb678c05003ae8",
+      "crc32": "6852398d",
+      "sha1": "bad83f5944153b0563d1cfbc5ad616f5c9f37bdb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "occrp-2022-07-31T06:03:35.336037+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659240223",
+      "size": "1477",
+      "md5": "952cfc58ec85df9e077441f872b1a508",
+      "crc32": "c0f56487",
+      "sha1": "196c6a509049700660abd16f68c61067f44cc8ef",
+      "format": "JSON"
+    },
+    {
+      "name": "occrp-2022-07-31T06:03:35.336037+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "occrp-2022-07-31T06:03:35.336037+02:00.jpg",
+      "mtime": "1659263645",
+      "size": "7097",
+      "md5": "bda8caf328a93e99798b0242fac544ed",
+      "crc32": "e670b039",
+      "sha1": "6b6a2f9a51c8206bae84bc59e0e9ee4f88790962"
+    },
+    {
       "name": "occrp-2022_archive.torrent",
       "source": "metadata",
-      "btih": "23f800a52bf5d88e0bfcf5332ee3f33f9f493fcc",
-      "mtime": "1659196519",
-      "size": "15834",
-      "md5": "931f4b3d2e4c5cdb2ccbfaf5ec3ac9fb",
-      "crc32": "71ba549f",
-      "sha1": "371ccad71be6cffaa285e435952b3e5f41c28bee",
+      "btih": "fc3439ef82ffbaba858b2eebe37256a8912889c3",
+      "mtime": "1659263658",
+      "size": "17060",
+      "md5": "abdcebf62734b957cd27b020eeb01d2a",
+      "crc32": "51aae530",
+      "sha1": "67c1f39e9fc7448114ed21a893511e2b296412dc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "occrp-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "190fed0ecf131c9eb207d0c6a86e0699",
+      "md5": "ada0f7022b2886ba2dfe57aebf3e2101",
       "summation": "md5"
     },
     {
       "name": "occrp-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659196517",
-      "size": "98304",
-      "md5": "71d6a9247eb6fada0f204aece7873a67",
-      "crc32": "8eb55aa9",
-      "sha1": "599b95dab6a3bad3a044181723dc6846bd900e04",
+      "mtime": "1659240229",
+      "size": "110592",
+      "md5": "211d755537612f97219d824cc79ccdee",
+      "crc32": "bf78acbd",
+      "sha1": "ee10e68d6669ba6714f01caf2304297ac18ee7d8",
       "format": "Metadata"
     },
     {
@@ -771,9 +834,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 74,
-  "item_last_updated": 1659196519,
-  "item_size": 2836013,
+  "files_count": 80,
+  "item_last_updated": 1659263658,
+  "item_size": 3046095,
   "metadata": {
     "identifier": "occrp-2022",
     "collection": [
@@ -790,62 +853,10 @@
     "publicdate": "2022-07-24 06:18:03",
     "addeddate": "2022-07-24 06:18:03"
   },
-  "occrp-2022": [
-    {
-      "url": "https://www.occrp.org/en/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_occrp_org-_en_-2022_07_30_15_20_21.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_occrp_org-_en_-2022_07_30_15_20_21.report.json",
-      "summary": {
-        "performance": 0.56,
-        "accessibility": 0.86,
-        "best-practices": 0.92,
-        "seo": 0.84,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.occrp.org/en/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_occrp_org-_en_-2022_07_30_15_20_41.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_occrp_org-_en_-2022_07_30_15_20_41.report.json",
-      "summary": {
-        "performance": 0.56,
-        "accessibility": 0.86,
-        "best-practices": 0.92,
-        "seo": 0.84,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.occrp.org/en/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_occrp_org-_en_-2022_07_30_15_19_59.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_occrp_org-_en_-2022_07_30_15_19_59.report.json",
-      "summary": {
-        "performance": 0.56,
-        "accessibility": 0.86,
-        "best-practices": 0.92,
-        "seo": 0.84,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348126530,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1880624113,
+  "server": "ia802508.us.archive.org",
+  "uniq": 129922240,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

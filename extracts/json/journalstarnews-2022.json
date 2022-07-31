@@ -1,5 +1,5 @@
 {
-  "created": 1659227266,
+  "created": 1659269738,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/3/items/journalstarnews-2022",
@@ -151,21 +151,32 @@
       "format": "JSON"
     },
     {
+      "name": "journalstarnews-2022-07-30T19:26:00.671124-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "journalstarnews-2022-07-30T19:26:00.671124-05:00.jpg",
+      "mtime": "1659256684",
+      "size": "12427",
+      "md5": "6e54224794b848c828e9c2e7fed4cac7",
+      "crc32": "0a9bf959",
+      "sha1": "632ccf0082668b12c648aa2491dec4d75477de5d"
+    },
+    {
       "name": "journalstarnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bdd699a9ee5eb209177f02942e21f6fe1d14efcc",
-      "mtime": "1659227255",
-      "size": "4518",
-      "md5": "0ae2e7c3a590a10168292712f1de8488",
-      "crc32": "891992fe",
-      "sha1": "8b0f8a01ed70a7e41a429724708a0e16ad578017",
+      "btih": "9982ec8917881b20d62c32c52a8f31faedfcfaad",
+      "mtime": "1659256687",
+      "size": "4730",
+      "md5": "9be228afe7d03221d1632bc5dceee8ed",
+      "crc32": "15cd1e8a",
+      "sha1": "ac007c945f6bc3e0b4a60d49873c85400cef5492",
       "format": "Archive BitTorrent"
     },
     {
       "name": "journalstarnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bcbe5619b6bfdc7896b2727f5ef8c7db",
+      "md5": "30720f03208ffc0d69f71f82543cf74e",
       "summation": "md5"
     },
     {
@@ -189,9 +200,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 18,
-  "item_last_updated": 1659227255,
-  "item_size": 1344441,
+  "files_count": 19,
+  "item_last_updated": 1659256687,
+  "item_size": 1357080,
+  "journalstarnews-2022": [
+    {
+      "url": "https://journalstar.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/journalstar_com-_-2022_07_30_23_57_30.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/journalstar_com-_-2022_07_30_23_57_30.report.json",
+      "summary": {
+        "performance": 0.02,
+        "accessibility": 0.81,
+        "best-practices": 0.83,
+        "seo": 0.83,
+        "pwa": 0.5
+      }
+    },
+    {
+      "url": "https://journalstar.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/journalstar_com-_-2022_07_30_23_58_42.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/journalstar_com-_-2022_07_30_23_58_42.report.json",
+      "summary": {
+        "performance": 0.02,
+        "accessibility": 0.81,
+        "best-practices": 0.83,
+        "seo": 0.83,
+        "pwa": 0.5
+      }
+    },
+    {
+      "url": "https://journalstar.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/journalstar_com-_-2022_07_30_23_59_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/journalstar_com-_-2022_07_30_23_59_48.report.json",
+      "summary": {
+        "performance": 0.02,
+        "accessibility": 0.81,
+        "best-practices": 0.83,
+        "seo": 0.83,
+        "pwa": 0.5
+      }
+    }
+  ],
   "metadata": {
     "identifier": "journalstarnews-2022",
     "collection": [
@@ -208,21 +260,10 @@
     "publicdate": "2022-07-30 16:33:39",
     "addeddate": "2022-07-30 16:33:39"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348392764,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 624668970,
+  "server": "ia801401.us.archive.org",
+  "uniq": 495310538,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

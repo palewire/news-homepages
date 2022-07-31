@@ -1,5 +1,5 @@
 {
-  "created": 1659227549,
+  "created": 1659269966,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/9/items/orcapchronicle-2022",
@@ -2423,21 +2423,32 @@
       "format": "JSON"
     },
     {
+      "name": "orcapchronicle-2022-07-30T17:31:41.819346-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "orcapchronicle-2022-07-30T17:31:41.819346-07:00.jpg",
+      "mtime": "1659256908",
+      "size": "10138",
+      "md5": "aefcf2ca5ae780b191408f284bb26979",
+      "crc32": "f2817c02",
+      "sha1": "bb1a18905aed01cccfb9334686816658aa2f3663"
+    },
+    {
       "name": "orcapchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "961205e0d4f99373e33fb3ad6b1c7c3f18a7ce25",
-      "mtime": "1659227546",
-      "size": "51554",
-      "md5": "0a3bd33d0132b05c120943ccad499408",
-      "crc32": "47f85ecb",
-      "sha1": "9e80efbacc9ead85ca451f67c48ed4ac647ce69f",
+      "btih": "4e0c00b27f14f78ea8700b07b62a0adedccf5e32",
+      "mtime": "1659256915",
+      "size": "51765",
+      "md5": "59cbbd8d77a50be826ac4fc37f9093a0",
+      "crc32": "ecc3f249",
+      "sha1": "65232c086b475a4fb8d598d13501fe4143721d4d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "orcapchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "be61cda7732264b1a8e76d16100d6f48",
+      "md5": "e04c031e8d6687fe872295f5219d17b7",
       "summation": "md5"
     },
     {
@@ -2461,9 +2472,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 235,
-  "item_last_updated": 1659227546,
-  "item_size": 19503746,
+  "files_count": 236,
+  "item_last_updated": 1659256915,
+  "item_size": 19514095,
   "metadata": {
     "identifier": "orcapchronicle-2022",
     "collection": [
@@ -2480,21 +2491,51 @@
     "publicdate": "2022-07-04 21:50:22",
     "addeddate": "2022-07-04 21:50:22"
   },
-  "pending_tasks": true,
-  "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "orcapchronicle-2022": [
     {
-      "task_id": 3348394729,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://oregoncapitalchronicle.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oregoncapitalchronicle_com-_-2022_07_31_00_08_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oregoncapitalchronicle_com-_-2022_07_31_00_08_37.report.json",
+      "summary": {
+        "performance": 0.69,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://oregoncapitalchronicle.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oregoncapitalchronicle_com-_-2022_07_31_00_09_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oregoncapitalchronicle_com-_-2022_07_31_00_09_00.report.json",
+      "summary": {
+        "performance": 0.7,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://oregoncapitalchronicle.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oregoncapitalchronicle_com-_-2022_07_31_00_08_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oregoncapitalchronicle_com-_-2022_07_31_00_08_48.report.json",
+      "summary": {
+        "performance": 0.71,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 1903527300,
+  "server": "ia601400.us.archive.org",
+  "uniq": 653995616,
   "workable_servers": [
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

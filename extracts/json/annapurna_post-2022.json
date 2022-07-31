@@ -1,5 +1,46 @@
 {
-  "created": 1659222826,
+  "annapurna_post-2022": [
+    {
+      "url": "https://www.annapurnapost.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_annapurnapost_com-_-2022_07_31_10_41_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_annapurnapost_com-_-2022_07_31_10_41_46.report.json",
+      "summary": {
+        "performance": 0.24,
+        "accessibility": 0.66,
+        "best-practices": 0.67,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.annapurnapost.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_annapurnapost_com-_-2022_07_31_10_42_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_annapurnapost_com-_-2022_07_31_10_42_51.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.66,
+        "best-practices": 0.67,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.annapurnapost.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_annapurnapost_com-_-2022_07_31_10_42_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_annapurnapost_com-_-2022_07_31_10_42_17.report.json",
+      "summary": {
+        "performance": 0.33,
+        "accessibility": 0.66,
+        "best-practices": 0.67,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "created": 1659269460,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/32/items/annapurna_post-2022",
@@ -639,31 +680,83 @@
       "format": "JSON"
     },
     {
+      "name": "annapurna_post-2022-07-31T04:57:18.825560+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "annapurna_post-2022-07-31T04:57:18.825560+05:45.jpg",
+      "mtime": "1659253942",
+      "size": "9919",
+      "md5": "c0ae3855b61d72b8ac52c3b133f43ad1",
+      "crc32": "3be46c39",
+      "sha1": "69f970264de41496c003cfffba0d8ba39ae5634e"
+    },
+    {
+      "name": "annapurna_post-2022-07-31T16:51:48.074757+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659265610",
+      "size": "36472",
+      "md5": "fb453a45ccbc3319fba063a28f12c0b5",
+      "crc32": "d0f28aa6",
+      "sha1": "18b1a27e9be4c1a007b655f4450fcab6ef5ac933",
+      "format": "JSON"
+    },
+    {
+      "name": "annapurna_post-2022-07-31T16:51:48.074757+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659265612",
+      "size": "18387",
+      "md5": "e08749d3dbb2618e38d5e16b654f9391",
+      "crc32": "41f63a71",
+      "sha1": "a75d76b0a7ff5854d6ae81be811f5a1bfca20146",
+      "format": "JSON"
+    },
+    {
+      "name": "annapurna_post-2022-07-31T16:51:48.074757+05:45.jpg",
+      "source": "original",
+      "mtime": "1659265609",
+      "size": "235173",
+      "md5": "21fdfa5dd5fedac3dd3a29777f026888",
+      "crc32": "6da9c1fc",
+      "sha1": "277708c6f707e08eb09d97317dacb08efb3fcd3f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "annapurna_post-2022-07-31T16:51:48.074757+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659265614",
+      "size": "1522",
+      "md5": "1a45ef0de3f577b0e8e792ac98e3e826",
+      "crc32": "a6f4d403",
+      "sha1": "c67637fbd158eaf027e3e699a5ac8516916d3c07",
+      "format": "JSON"
+    },
+    {
       "name": "annapurna_post-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e32dd73120a23cd2ca94a3ab198bf83dca9b7abb",
-      "mtime": "1659222816",
-      "size": "14680",
-      "md5": "91618e16d4b321443f6ffaf4dd494ea6",
-      "crc32": "240330d9",
-      "sha1": "620f17e99af7b159aba6ed8941c4f36c4764ef85",
+      "btih": "7c9a57d25ba6049c11e4ea9d34d968af1a8169ba",
+      "mtime": "1659265655",
+      "size": "15750",
+      "md5": "efbefe13a0ffab25e73c3d44c8a7922c",
+      "crc32": "438f114e",
+      "sha1": "1526819931131eef53ee1329ec70aa1a1bfe6974",
       "format": "Archive BitTorrent"
     },
     {
       "name": "annapurna_post-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0be57e4a5a3a6c80e38fd79321bf0308",
+      "md5": "2bda7fa43a353cad279ef383b3ccde87",
       "summation": "md5"
     },
     {
       "name": "annapurna_post-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659222813",
-      "size": "90112",
-      "md5": "083d677ecb99a0c044f96891b634dd18",
-      "crc32": "ff896a43",
-      "sha1": "a4c6d01c6148cad579153c2b0f903dc3dc3f1868",
+      "mtime": "1659265620",
+      "size": "102400",
+      "md5": "2845cf77234b997fa5a486876aed4357",
+      "crc32": "64551a9f",
+      "sha1": "6fda1ebb2d2389b7fede227b92d81e227a4a560f",
       "format": "Metadata"
     },
     {
@@ -677,9 +770,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 65,
-  "item_last_updated": 1659222816,
-  "item_size": 4417648,
+  "files_count": 70,
+  "item_last_updated": 1659265655,
+  "item_size": 4732479,
   "metadata": {
     "identifier": "annapurna_post-2022",
     "collection": [
@@ -701,7 +794,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348361816,
+      "task_id": 3348710143,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -709,7 +802,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 902542632,
+  "uniq": 1384981697,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

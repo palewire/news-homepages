@@ -1,5 +1,5 @@
 {
-  "created": 1659223185,
+  "created": 1659266005,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/eastbaytimes-2022",
@@ -9689,31 +9689,83 @@
       "format": "JSON"
     },
     {
+      "name": "eastbaytimes-2022-07-30T16:18:20.978073-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eastbaytimes-2022-07-30T16:18:20.978073-07:00.jpg",
+      "mtime": "1659254365",
+      "size": "9719",
+      "md5": "c290542a5fb65e61c495f542d9d0ee7c",
+      "crc32": "99063291",
+      "sha1": "220c7f1b2dea5424a111a99193b7f53062316166"
+    },
+    {
+      "name": "eastbaytimes-2022-07-31T04:12:23.767368-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659265951",
+      "size": "39054",
+      "md5": "a27ddc6cdc1d2c27dfecc7ea891aab7a",
+      "crc32": "2ed7b1ce",
+      "sha1": "9e22b1b7b78860ab969a8ec8a7b6fd82e91728e5",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-07-31T04:12:23.767368-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659265953",
+      "size": "62502",
+      "md5": "998c31a8a2cc019c5792b810f886023f",
+      "crc32": "1502df18",
+      "sha1": "6d75b3dbf8a4934cbe106958baf463601a93e68e",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-07-31T04:12:23.767368-07:00.jpg",
+      "source": "original",
+      "mtime": "1659265949",
+      "size": "285499",
+      "md5": "d483625c49366ca319966ea45d4875eb",
+      "crc32": "d9e3b405",
+      "sha1": "5f0aae322c8bbda16e17cef51bd8b9b73906c0fb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eastbaytimes-2022-07-31T04:12:23.767368-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659265954",
+      "size": "1513",
+      "md5": "78e32b5ebcd059995b68b63e3637b1fe",
+      "crc32": "9fdc0ba6",
+      "sha1": "66ce423911802f7aafddddb7b5b1d289431019a8",
+      "format": "JSON"
+    },
+    {
       "name": "eastbaytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "315acbd9e543c384e897415069dfa7e240ca82f9",
-      "mtime": "1659223175",
-      "size": "199780",
-      "md5": "3b574b15c1c7197427e8992f24f2bfff",
-      "crc32": "276b27ea",
-      "sha1": "903ce69d65c60d86571c687f60ac69f9de26d9bd",
+      "btih": "72ec56460c9908bfca88b328569d733abe47b700",
+      "mtime": "1659266001",
+      "size": "200839",
+      "md5": "79074eae449800d4c0cb84cdd11c7bf3",
+      "crc32": "9821e9b1",
+      "sha1": "948c8e36de9a4304ae98081d18c04681fac6ec39",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eastbaytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d533db5d89cb723e6fbe6cd39076a9de",
+      "md5": "bfcba41c0038c742141bd46cf52d11a5",
       "summation": "md5"
     },
     {
       "name": "eastbaytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659223166",
-      "size": "1073152",
-      "md5": "e0e882385017626de936ed24159b3c77",
-      "crc32": "eb3404b5",
-      "sha1": "302a0ebd0a950dd755cd4795b3a76d0e2fd838e2",
+      "mtime": "1659265959",
+      "size": "1081344",
+      "md5": "f16e9d15e2a07d2b01a1cb42c4ed19a6",
+      "crc32": "df32f948",
+      "sha1": "f7fdca48d3ba1fde5f60ca26ccf110d4902cf0f1",
       "format": "Metadata"
     },
     {
@@ -9727,9 +9779,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 926,
-  "item_last_updated": 1659223175,
-  "item_size": 93009622,
+  "files_count": 931,
+  "item_last_updated": 1659266001,
+  "item_size": 93417160,
   "metadata": {
     "identifier": "eastbaytimes-2022",
     "collection": [
@@ -9751,7 +9803,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348364333,
+      "task_id": 3348713103,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9759,7 +9811,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 270155322,
+  "uniq": 1724665203,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

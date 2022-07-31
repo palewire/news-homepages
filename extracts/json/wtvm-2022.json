@@ -1,5 +1,5 @@
 {
-  "created": 1659221377,
+  "created": 1659270267,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/18/items/wtvm-2022",
@@ -1079,31 +1079,94 @@
       "format": "JSON"
     },
     {
+      "name": "wtvm-2022-07-30T09:39:14.818936-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wtvm-2022-07-30T09:39:14.818936-04:00.jpg",
+      "mtime": "1659228367",
+      "size": "11235",
+      "md5": "43ba2d4abf613205255a8ea6604d3f9b",
+      "crc32": "b9750d30",
+      "sha1": "a9f6e768444a76fb040857a40c76fbe93ee2778d"
+    },
+    {
+      "name": "wtvm-2022-07-30T22:52:02.288007-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659235926",
+      "size": "36517",
+      "md5": "c3ec2b6af0227ce69deb75c97b0b0f73",
+      "crc32": "1019634b",
+      "sha1": "9d12755f21528e77b035e4e3576145d6f8b9e891",
+      "format": "JSON"
+    },
+    {
+      "name": "wtvm-2022-07-30T22:52:02.288007-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659235927",
+      "size": "25304",
+      "md5": "ca392a8a883973b82442b8d874b3f646",
+      "crc32": "5bcce261",
+      "sha1": "6a9dd54a977f80a0944fc6166080fc7b0b1c5c95",
+      "format": "JSON"
+    },
+    {
+      "name": "wtvm-2022-07-30T22:52:02.288007-04:00.jpg",
+      "source": "original",
+      "mtime": "1659235924",
+      "size": "353573",
+      "md5": "855e80ebec357e5d5f7a72f4d9ebeba5",
+      "crc32": "bfe551b7",
+      "sha1": "4e610910601a2451414dcf5b208cae38e0d211e9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wtvm-2022-07-30T22:52:02.288007-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659235929",
+      "size": "1440",
+      "md5": "62cbc7f36834b2f1aaad1dd10266ce1b",
+      "crc32": "d0cc3eac",
+      "sha1": "a10fdc07d9c06aa564f6e674f15c8f0640de9b1b",
+      "format": "JSON"
+    },
+    {
+      "name": "wtvm-2022-07-30T22:52:02.288007-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wtvm-2022-07-30T22:52:02.288007-04:00.jpg",
+      "mtime": "1659260774",
+      "size": "10726",
+      "md5": "625973a7da90ac9d0660686f40a98434",
+      "crc32": "d5eb18d5",
+      "sha1": "c9a7eb35ab85d84337b570452894bbab39a0a100"
+    },
+    {
       "name": "wtvm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ddd78723634846e9cfd266f04a3c91c2f26b009b",
-      "mtime": "1659188403",
-      "size": "22747",
-      "md5": "1d45b6106de1de7212bbcb581c108c02",
-      "crc32": "3deb1fae",
-      "sha1": "09e82b54234172222dbf14731c845eb6a330c322",
+      "btih": "be6819dc3b38174e03c2d85405b001b8c4f08b5c",
+      "mtime": "1659260798",
+      "size": "23988",
+      "md5": "415902fe9b04d65e7fe2f6408e5ee293",
+      "crc32": "9a6d6803",
+      "sha1": "259655c5b29c666587f35b8b069dbedfad8cc4c9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wtvm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "041decee21e0fe2b360792eb3ea76926",
+      "md5": "1c73550ae93f4117bdcc9703651ee2b8",
       "summation": "md5"
     },
     {
       "name": "wtvm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659188400",
-      "size": "147456",
-      "md5": "3841177f98856378502cb31b7062e907",
-      "crc32": "2f7181ef",
-      "sha1": "c3a92fe8f04dd7d69653bc2aa2bf8b31bcbc4f25",
+      "mtime": "1659235934",
+      "size": "155648",
+      "md5": "9ee0865450ca7881587e81ab7a027096",
+      "crc32": "e1382902",
+      "sha1": "047d5b48af7fc81f7725758a6b0cfb238c109dc9",
       "format": "Metadata"
     },
     {
@@ -1117,9 +1180,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 107,
-  "item_last_updated": 1659188403,
-  "item_size": 9797142,
+  "files_count": 113,
+  "item_last_updated": 1659260798,
+  "item_size": 10245370,
   "metadata": {
     "identifier": "wtvm-2022",
     "collection": [
@@ -1136,21 +1199,51 @@
     "publicdate": "2022-07-20 23:32:24",
     "addeddate": "2022-07-20 23:32:24"
   },
-  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348057074,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1761658607,
+  "uniq": 1481637700,
   "workable_servers": [
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
+  ],
+  "wtvm-2022": [
+    {
+      "url": "https://www.wtvm.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtvm_com-_-2022_07_31_01_37_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtvm_com-_-2022_07_31_01_37_39.report.json",
+      "summary": {
+        "performance": 0.3,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.wtvm.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtvm_com-_-2022_07_31_01_39_14.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtvm_com-_-2022_07_31_01_39_14.report.json",
+      "summary": {
+        "performance": 0.27,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.wtvm.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtvm_com-_-2022_07_31_01_38_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtvm_com-_-2022_07_31_01_38_49.report.json",
+      "summary": {
+        "performance": 0.26,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.3
+      }
+    }
   ]
 }

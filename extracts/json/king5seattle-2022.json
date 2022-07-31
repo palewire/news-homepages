@@ -1,5 +1,5 @@
 {
-  "created": 1659227206,
+  "created": 1659269753,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/8/items/king5seattle-2022",
@@ -2413,21 +2413,32 @@
       "format": "JSON"
     },
     {
+      "name": "king5seattle-2022-07-30T17:25:51.970829-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "king5seattle-2022-07-30T17:25:51.970829-07:00.jpg",
+      "mtime": "1659256640",
+      "size": "9369",
+      "md5": "688d67d4e4d5f3064848a3140ef40543",
+      "crc32": "eb9b5613",
+      "sha1": "4b09f421378e4e73b7b50564ff528f7b001c3972"
+    },
+    {
       "name": "king5seattle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d0cf8c723c9ac93592b47a0b6eb0403a0c157003",
-      "mtime": "1659227204",
-      "size": "50743",
-      "md5": "d16f12b8f29180f985b25c783cc95e76",
-      "crc32": "8170d0be",
-      "sha1": "62ba8cc1bfa7c78eec769e29edd5b482fdb58940",
+      "btih": "d0d862bf85243f655a839bd0703a6c9685d2b486",
+      "mtime": "1659256647",
+      "size": "50951",
+      "md5": "b06f0788e1365a0135011f6839135a7d",
+      "crc32": "9b9bb7c7",
+      "sha1": "d6e2998b44eef95559297b337a431811c0633d42",
       "format": "Archive BitTorrent"
     },
     {
       "name": "king5seattle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "40c046e92f5b634f51de9952b3ed4b71",
+      "md5": "b262686453e9578d251278f9558d7b0d",
       "summation": "md5"
     },
     {
@@ -2451,9 +2462,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 234,
-  "item_last_updated": 1659227204,
-  "item_size": 19046497,
+  "files_count": 235,
+  "item_last_updated": 1659256647,
+  "item_size": 19056074,
+  "king5seattle-2022": [
+    {
+      "url": "https://www.king5.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_king5_com-_-2022_07_30_23_58_35.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_king5_com-_-2022_07_30_23_58_35.report.json",
+      "summary": {
+        "performance": 0.22,
+        "accessibility": 0.8,
+        "best-practices": 0.83,
+        "seo": 0.78,
+        "pwa": 0.5
+      }
+    },
+    {
+      "url": "https://www.king5.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_king5_com-_-2022_07_30_23_59_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_king5_com-_-2022_07_30_23_59_49.report.json",
+      "summary": {
+        "performance": 0.27,
+        "accessibility": 0.8,
+        "best-practices": 0.83,
+        "seo": 0.78,
+        "pwa": 0.5
+      }
+    },
+    {
+      "url": "https://www.king5.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_king5_com-_-2022_07_30_23_59_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_king5_com-_-2022_07_30_23_59_13.report.json",
+      "summary": {
+        "performance": 0.34,
+        "accessibility": 0.8,
+        "best-practices": 0.83,
+        "seo": 0.78,
+        "pwa": 0.5
+      }
+    }
+  ],
   "metadata": {
     "identifier": "king5seattle-2022",
     "collection": [
@@ -2470,21 +2522,10 @@
     "publicdate": "2022-07-04 21:55:32",
     "addeddate": "2022-07-04 21:55:32"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348392398,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 760568308,
+  "server": "ia802505.us.archive.org",
+  "uniq": 1361646087,
   "workable_servers": [
+    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

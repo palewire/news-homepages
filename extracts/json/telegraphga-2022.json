@@ -1,5 +1,5 @@
 {
-  "created": 1659227906,
+  "created": 1659263895,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/27/items/telegraphga-2022",
@@ -987,31 +987,84 @@
       "format": "JSON"
     },
     {
+      "name": "telegraphga-2022-07-30T11:58:55.857463-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphga-2022-07-30T11:58:55.857463-04:00.jpg",
+      "mtime": "1659235285",
+      "size": "9383",
+      "md5": "593d66d9e8194067cbd2bd7ba0bf3456",
+      "crc32": "3ea1d5ab",
+      "sha1": "62d734a623586604ebebdd79295917e24570fdd5"
+    },
+    {
+      "name": "telegraphga-2022-07-31T00:09:00.296704-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659240543",
+      "size": "454",
+      "md5": "80ef47544ec6d1762d44e23394f13f9e",
+      "crc32": "fa209e84",
+      "sha1": "d5fc39802b7330df0d6bdd62e0000a5162f3c7da",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphga-2022-07-31T00:09:00.296704-04:00.jpg",
+      "source": "original",
+      "mtime": "1659240541",
+      "size": "272867",
+      "md5": "c759fb1c04c2354e41df2189f736b339",
+      "crc32": "f697721c",
+      "sha1": "7bb3b67210fccaf1b50fa81b324fc4eb037a1166",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphga-2022-07-31T00:09:00.296704-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659240544",
+      "size": "1449",
+      "md5": "d96bd8b358695a876f38c9db78b15422",
+      "crc32": "c92b9481",
+      "sha1": "31f94326ce5eae040dab214eebd5bf29855927b3",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphga-2022-07-31T00:09:00.296704-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphga-2022-07-31T00:09:00.296704-04:00.jpg",
+      "mtime": "1659263871",
+      "size": "9387",
+      "md5": "f9e53f116ab52121e0bc1c015a4db55f",
+      "crc32": "5b2ed235",
+      "sha1": "ae42f9773c680035a05f867663d5651302fc2049"
+    },
+    {
       "name": "telegraphga-2022_archive.torrent",
       "source": "metadata",
-      "btih": "835d28b07e577877373b81590535a69921ae092c",
-      "mtime": "1659196949",
-      "size": "21453",
-      "md5": "98e30848f7c356c8f8c22a28d560f094",
-      "crc32": "6ad687b2",
-      "sha1": "4c857d3d1ecceb19a15dfb2f695d14400ac8e4e4",
+      "btih": "6a0c59a3ea886f16fe2bd1fb476fc778de131c05",
+      "mtime": "1659263882",
+      "size": "22498",
+      "md5": "6311619a58961e448baa672ace4dd19a",
+      "crc32": "bcb705dc",
+      "sha1": "6436290fcbe64cc4b742ef32baccc14b17daa8bb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegraphga-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "124b5ec3ef627e0046b8d158d0ff0875",
+      "md5": "bb92bf9e16b313d9cf56415200632b4d",
       "summation": "md5"
     },
     {
       "name": "telegraphga-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659196946",
-      "size": "139264",
-      "md5": "96933313e386fd7dc15bde9fad2fb0d5",
-      "crc32": "ec098fd1",
-      "sha1": "661755ccc231effe1a97fba9846cd2477ba3eade",
+      "mtime": "1659240548",
+      "size": "143360",
+      "md5": "4ce3dbaa94d56082ae90c4f189d848dc",
+      "crc32": "71ce2a69",
+      "sha1": "a3bcb54fb0f41b5ae2272aff7965b951ea8dc1c1",
       "format": "Metadata"
     },
     {
@@ -1025,9 +1078,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 98,
-  "item_last_updated": 1659196949,
-  "item_size": 6948797,
+  "files_count": 103,
+  "item_last_updated": 1659263882,
+  "item_size": 7247478,
   "metadata": {
     "identifier": "telegraphga-2022",
     "collection": [
@@ -1044,62 +1097,10 @@
     "publicdate": "2022-07-20 23:31:10",
     "addeddate": "2022-07-20 23:31:10"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348131623,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "telegraphga-2022": [
-    {
-      "url": "https://www.macon.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macon_com-_-2022_07_30_15_28_04.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macon_com-_-2022_07_30_15_28_04.report.json",
-      "summary": {
-        "performance": 0.05,
-        "accessibility": 0.85,
-        "best-practices": 0.75,
-        "seo": 0.91,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.macon.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macon_com-_-2022_07_30_15_28_54.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macon_com-_-2022_07_30_15_28_54.report.json",
-      "summary": {
-        "performance": 0.1,
-        "accessibility": 0.85,
-        "best-practices": null,
-        "seo": 0.91,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.macon.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macon_com-_-2022_07_30_15_28_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macon_com-_-2022_07_30_15_28_31.report.json",
-      "summary": {
-        "performance": 0.1,
-        "accessibility": 0.85,
-        "best-practices": null,
-        "seo": 0.91,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "uniq": 1117883017,
+  "server": "ia802502.us.archive.org",
+  "uniq": 1537971800,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659227754,
+  "created": 1659257478,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/10/items/searchlightnm-2022",
@@ -4827,21 +4827,32 @@
       "format": "JSON"
     },
     {
+      "name": "searchlightnm-2022-07-30T18:34:46.363366-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "searchlightnm-2022-07-30T18:34:46.363366-06:00.jpg",
+      "mtime": "1659257333",
+      "size": "10255",
+      "md5": "6df2231f46b0f346181a7c0b966e0f61",
+      "crc32": "618a1bd2",
+      "sha1": "79e36c6a18608144525937a5bdabf8066545f2d6"
+    },
+    {
       "name": "searchlightnm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9bf94505f896cd4807f18fff3f93bc0064d2c2db",
-      "mtime": "1659227750",
-      "size": "100899",
-      "md5": "e25a3668d91905903cd06e2331a9c8e1",
-      "crc32": "e9993d34",
-      "sha1": "fc30b737ba24b1293329c5b7f9773748e28c9a8c",
+      "btih": "b1f225a2ae2ffad4063bda9ca347148c5e584486",
+      "mtime": "1659257363",
+      "size": "101109",
+      "md5": "3c508d199f399b2dc0a578e8b55dab26",
+      "crc32": "7b40100c",
+      "sha1": "6fc506496858679711cd21b1ec1910cf9736a998",
       "format": "Archive BitTorrent"
     },
     {
       "name": "searchlightnm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bb9867175e1bc59f97f68a284731a07c",
+      "md5": "f7c863fd4e213321e9f0087189b62d94",
       "summation": "md5"
     },
     {
@@ -4865,9 +4876,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 464,
-  "item_last_updated": 1659227750,
-  "item_size": 43904314,
+  "files_count": 465,
+  "item_last_updated": 1659257363,
+  "item_size": 43914779,
   "metadata": {
     "identifier": "searchlightnm-2022",
     "collection": [
@@ -4884,21 +4895,10 @@
     "publicdate": "2022-06-19 23:28:31",
     "addeddate": "2022-06-19 23:28:31"
   },
-  "pending_tasks": true,
   "server": "ia902501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348396189,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 850833803,
+  "uniq": 1801096668,
   "workable_servers": [
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659227435,
+  "created": 1659260915,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/10/items/hwherald-2022",
@@ -2189,31 +2189,94 @@
       "format": "JSON"
     },
     {
+      "name": "hwherald-2022-07-30T11:15:55.741020-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hwherald-2022-07-30T11:15:55.741020-05:00.jpg",
+      "mtime": "1659235757",
+      "size": "9364",
+      "md5": "abaa0dbacc5e5e08ea042d8a2286d59b",
+      "crc32": "7c06eb17",
+      "sha1": "5f1a813c66c0cf139d7e4fb0667bdfb6ccc43f2c"
+    },
+    {
+      "name": "hwherald-2022-07-30T21:57:39.216052-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659236262",
+      "size": "18618",
+      "md5": "6f633309c62b3425828ef5428dd925a7",
+      "crc32": "a4fdd76e",
+      "sha1": "629190fb1dc899595159d128463f67587a12211c",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-07-30T21:57:39.216052-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659236263",
+      "size": "7326",
+      "md5": "ab7fdb412ff168045abeb9df87c3f3af",
+      "crc32": "3992223e",
+      "sha1": "c45cceba1ce416d1750adcb538f6cdae6aa30dd2",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-07-30T21:57:39.216052-05:00.jpg",
+      "source": "original",
+      "mtime": "1659236260",
+      "size": "274532",
+      "md5": "417beecdab6cad4a5c1aa6833c343082",
+      "crc32": "2fb64c66",
+      "sha1": "ee6d19c27af3bdea641fe725a14cfdb0017e5396",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hwherald-2022-07-30T21:57:39.216052-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659236265",
+      "size": "1459",
+      "md5": "aba15c72f7a00b37abdbdb8599be25c5",
+      "crc32": "a7ed3d4a",
+      "sha1": "9aa30e8765fc429b53ff57e3bade258c23c4cd8a",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-07-30T21:57:39.216052-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hwherald-2022-07-30T21:57:39.216052-05:00.jpg",
+      "mtime": "1659260899",
+      "size": "9364",
+      "md5": "abaa0dbacc5e5e08ea042d8a2286d59b",
+      "crc32": "7c06eb17",
+      "sha1": "5f1a813c66c0cf139d7e4fb0667bdfb6ccc43f2c"
+    },
+    {
       "name": "hwherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dbb7c9d4c26435af020a320e3eb50ebbffcc7b90",
-      "mtime": "1659197874",
-      "size": "45294",
-      "md5": "7f26e89d738c4057e531cf9715729560",
-      "crc32": "b3b0fe8d",
-      "sha1": "b4590dff36a64382adc44b5d4946e63b9df53088",
+      "btih": "0497ef623062ef32a8ba1a6244016fdb06ec888b",
+      "mtime": "1659260905",
+      "size": "46556",
+      "md5": "b638472f47ff782c82f4fd4f35bd7c0c",
+      "crc32": "7d330ae9",
+      "sha1": "f2cc9c2e6f3147084dba92c6047c8c7214258819",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hwherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6e1d7c4b47e841a1b81a90694f79f1dd",
+      "md5": "dfdef65bf8a5b5a36305178fa5fe5386",
       "summation": "md5"
     },
     {
       "name": "hwherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659197871",
-      "size": "270336",
-      "md5": "9c90cf3c7799ffdd9891615b042e1ed7",
-      "crc32": "510a9e20",
-      "sha1": "7b83c05d21ca7671d8402d3ecc08d9425207315e",
+      "mtime": "1659236268",
+      "size": "278528",
+      "md5": "331ed4574dc080b649ef90c029abea48",
+      "crc32": "42c0d409",
+      "sha1": "2b62066f122aadc5d2428956f2d58ff6d1c67930",
       "format": "Metadata"
     },
     {
@@ -2227,50 +2290,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 213,
-  "hwherald-2022": [
-    {
-      "url": "https://harveyworld.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harveyworld_org-_-2022_07_30_16_11_54.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harveyworld_org-_-2022_07_30_16_11_54.report.json",
-      "summary": {
-        "performance": 0.68,
-        "accessibility": 0.95,
-        "best-practices": 1,
-        "seo": 0.82,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://harveyworld.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harveyworld_org-_-2022_07_30_16_12_07.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harveyworld_org-_-2022_07_30_16_12_07.report.json",
-      "summary": {
-        "performance": 0.93,
-        "accessibility": 0.95,
-        "best-practices": 1,
-        "seo": 0.82,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://harveyworld.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harveyworld_org-_-2022_07_30_16_12_18.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harveyworld_org-_-2022_07_30_16_12_18.report.json",
-      "summary": {
-        "performance": 0.94,
-        "accessibility": 0.95,
-        "best-practices": 1,
-        "seo": 0.82,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "item_last_updated": 1659197874,
-  "item_size": 14504031,
+  "files_count": 219,
+  "item_last_updated": 1659260905,
+  "item_size": 14834148,
   "metadata": {
     "identifier": "hwherald-2022",
     "collection": [
@@ -2287,21 +2309,10 @@
     "publicdate": "2022-07-10 15:42:19",
     "addeddate": "2022-07-10 15:42:19"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348144497,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1030951786,
+  "server": "ia801408.us.archive.org",
+  "uniq": 2139241968,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

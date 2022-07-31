@@ -1,6 +1,5 @@
 {
-  "conflict": 1659227672,
-  "created": 1659227672,
+  "created": 1659269936,
   "d1": "ia601002.us.archive.org",
   "d2": "ia801002.us.archive.org",
   "dir": "/8/items/nro-2022",
@@ -9230,21 +9229,32 @@
       "format": "JSON"
     },
     {
+      "name": "nro-2022-07-30T20:31:38.150866-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nro-2022-07-30T20:31:38.150866-04:00.jpg",
+      "mtime": "1659256983",
+      "size": "9801",
+      "md5": "4a78d095dcd8e94c1763c9890dd2cbf8",
+      "crc32": "99f84aaa",
+      "sha1": "ce52c18ade3a3e0b324e2ff0c8a91795e530df7b"
+    },
+    {
       "name": "nro-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4d612e0bd1651bcbc769a3c83527c9a79253bb3e",
-      "mtime": "1659227664",
-      "size": "182847",
-      "md5": "15a0e0258d375a968b5dc28c2776ea00",
-      "crc32": "9b1095a9",
-      "sha1": "6744cfe2b8eca26cd8efdce9120eb9b9b92fb88f",
+      "btih": "87d210c482b853aa67d2662ccee9d9e208165659",
+      "mtime": "1659257006",
+      "size": "183046",
+      "md5": "b004bdf7f6e33b3aac2102344159270a",
+      "crc32": "41fcd042",
+      "sha1": "9c6b979f262f550a1fc42deda2384cb6844515e5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nro-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d694e856d6d1428aa0c000ebae14cb53",
+      "md5": "e81b04a55f735dde59a5e93e320d90d5",
       "summation": "md5"
     },
     {
@@ -9268,9 +9278,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 882,
-  "item_last_updated": 1659227664,
-  "item_size": 98701363,
+  "files_count": 883,
+  "item_last_updated": 1659257006,
+  "item_size": 98711363,
   "metadata": {
     "identifier": "nro-2022",
     "collection": [
@@ -9287,29 +9297,51 @@
     "publicdate": "2022-03-25 18:26:53",
     "addeddate": "2022-03-25 18:26:53"
   },
-  "pending_tasks": true,
-  "server": "ia601002.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "nro-2022": [
     {
-      "task_id": 3348395428,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "url": "https://www.nationalreview.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalreview_com-_-2022_07_31_00_06_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalreview_com-_-2022_07_31_00_06_43.report.json",
+      "summary": {
+        "performance": 0.17,
+        "accessibility": 0.68,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
     },
     {
-      "task_id": 3348395743,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.nationalreview.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalreview_com-_-2022_07_31_00_07_57.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalreview_com-_-2022_07_31_00_07_57.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.68,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.nationalreview.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalreview_com-_-2022_07_31_00_07_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalreview_com-_-2022_07_31_00_07_23.report.json",
+      "summary": {
+        "performance": 0.19,
+        "accessibility": 0.68,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 937065154,
+  "server": "ia601002.us.archive.org",
+  "uniq": 330047097,
   "workable_servers": [
-    "ia601002.us.archive.org"
+    "ia601002.us.archive.org",
+    "ia801002.us.archive.org"
   ]
 }

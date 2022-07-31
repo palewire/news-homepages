@@ -1,5 +1,5 @@
 {
-  "created": 1659195933,
+  "created": 1659261112,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/10/items/mcgilldaily-2022",
@@ -577,31 +577,94 @@
       "format": "JSON"
     },
     {
+      "name": "mcgilldaily-2022-07-30T11:44:22.052779-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mcgilldaily-2022-07-30T11:44:22.052779-04:00.jpg",
+      "mtime": "1659234557",
+      "size": "9336",
+      "md5": "4d047856ccfec7b680a2a4e73d7fd9d6",
+      "crc32": "8d7fc9fb",
+      "sha1": "35202f04191a09421061eaa34aec68c6b1c9f80d"
+    },
+    {
+      "name": "mcgilldaily-2022-07-30T23:01:46.878653-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659236509",
+      "size": "15161",
+      "md5": "c4c323ac7895b6d575e1ad393f6a4a92",
+      "crc32": "d50a58a3",
+      "sha1": "4b780faac9847865bc7b47e00ac8ce76c98d00ce",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-07-30T23:01:46.878653-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659236511",
+      "size": "13965",
+      "md5": "7d73c1b4e4cb2c304d23a5056e969109",
+      "crc32": "ece0c476",
+      "sha1": "b5e5a08c6d1b03667f72c073df08b0e6bfac5728",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-07-30T23:01:46.878653-04:00.jpg",
+      "source": "original",
+      "mtime": "1659236508",
+      "size": "253615",
+      "md5": "97cc585a02fe5007d6ea631fe972f997",
+      "crc32": "38d4bdde",
+      "sha1": "ab2c9546c0c2632e9d9bfc90585c189c48b0a938",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mcgilldaily-2022-07-30T23:01:46.878653-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659236513",
+      "size": "1495",
+      "md5": "4d28a6f82f727779d279c9405b63a0bc",
+      "crc32": "1a5d965d",
+      "sha1": "daf480994025abaca309ee8f1ea8cff026695b63",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-07-30T23:01:46.878653-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mcgilldaily-2022-07-30T23:01:46.878653-04:00.jpg",
+      "mtime": "1659261056",
+      "size": "9453",
+      "md5": "2c4510b93c76872eb066b70ecb293b97",
+      "crc32": "c7ea7cf9",
+      "sha1": "a10b563ef790528a03108f692d2734dfe8625f4b"
+    },
+    {
       "name": "mcgilldaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e3db32c91ba6198e87e7e960dd672f8172a236a5",
-      "mtime": "1659195925",
-      "size": "13161",
-      "md5": "e8d2599826d556933b0429ab9d5a4f4c",
-      "crc32": "b9c26517",
-      "sha1": "24f6e8e1d74bef3a68dfe18db9f810209be808cc",
+      "btih": "05be70ab342651aa57269f41f31c3b666c2d11eb",
+      "mtime": "1659261067",
+      "size": "14422",
+      "md5": "2d41454272d5393daaf8a49cdd690c15",
+      "crc32": "4ef25c68",
+      "sha1": "7b7b0e9d387539e41adecea958b14cdbc3e9a3e8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mcgilldaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6c262ed338615a5e944c7309b8f82fc4",
+      "md5": "5f95d81491f59c86c647ae6d95547cac",
       "summation": "md5"
     },
     {
       "name": "mcgilldaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659195923",
-      "size": "81920",
-      "md5": "b985ae9decbce1f9e790b58959196c49",
-      "crc32": "d20076af",
-      "sha1": "5859a528bfab06377b3ece7b463484c574a78b49",
+      "mtime": "1659236518",
+      "size": "86016",
+      "md5": "18610ebc99831a0d8207bab6448055b8",
+      "crc32": "37ef98f0",
+      "sha1": "ec2b0b726a11b0d8620bf07cf8db51c49d462d7e",
       "format": "Metadata"
     },
     {
@@ -615,9 +678,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 59,
-  "item_last_updated": 1659195925,
-  "item_size": 3292584,
+  "files_count": 65,
+  "item_last_updated": 1659261067,
+  "item_size": 3600966,
   "metadata": {
     "identifier": "mcgilldaily-2022",
     "collection": [
@@ -634,21 +697,10 @@
     "publicdate": "2022-07-25 21:24:37",
     "addeddate": "2022-07-25 21:24:37"
   },
-  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348121768,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1364632214,
+  "uniq": 1166112653,
   "workable_servers": [
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

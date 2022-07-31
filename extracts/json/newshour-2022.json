@@ -1,5 +1,5 @@
 {
-  "created": 1659227575,
+  "created": 1659269905,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/newshour-2022",
@@ -6833,21 +6833,32 @@
       "format": "JSON"
     },
     {
+      "name": "newshour-2022-07-30T20:30:27.421735-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-07-30T20:30:27.421735-04:00.jpg",
+      "mtime": "1659257020",
+      "size": "10871",
+      "md5": "16ae107b750fa96cc133b85f8ba8a218",
+      "crc32": "864c556c",
+      "sha1": "6d146c92099b15c3d76febe3ffafc1c6e5d3d640"
+    },
+    {
       "name": "newshour-2022_archive.torrent",
       "source": "metadata",
-      "btih": "601f5c92066d0f46ff9134fb3c3c063f048a02c3",
-      "mtime": "1659227568",
-      "size": "139151",
-      "md5": "5b148ef1233720f9111b5557d50bc696",
-      "crc32": "261e1017",
-      "sha1": "160c079d01a94a5f81b654367c890c6f54674b21",
+      "btih": "77f9cca1ba46e957dc5254cf6e6681e3f251dd53",
+      "mtime": "1659257027",
+      "size": "139356",
+      "md5": "089e3d5648dcd6e108fc990ad77ab2e5",
+      "crc32": "66d6466b",
+      "sha1": "1d78f42549d2e2d526a34d47aad27d721d39af1d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newshour-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d4bd81fe3d0c08efb91c6edd42b41eb9",
+      "md5": "5d853769fc1f16cb6636a96cf5e5d574",
       "summation": "md5"
     },
     {
@@ -6871,9 +6882,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 656,
-  "item_last_updated": 1659227568,
-  "item_size": 61928908,
+  "files_count": 657,
+  "item_last_updated": 1659257027,
+  "item_size": 61939984,
   "metadata": {
     "identifier": "newshour-2022",
     "collection": [
@@ -6890,21 +6901,51 @@
     "publicdate": "2022-06-24 22:58:21",
     "addeddate": "2022-06-24 22:58:21"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "newshour-2022": [
     {
-      "task_id": 3348394941,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.pbs.org/newshour/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_pbs_org-_newshour_-2022_07_31_00_06_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_pbs_org-_newshour_-2022_07_31_00_06_48.report.json",
+      "summary": {
+        "performance": 0.35,
+        "accessibility": 0.96,
+        "best-practices": 0.67,
+        "seo": 0.84,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.pbs.org/newshour/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_pbs_org-_newshour_-2022_07_31_00_07_08.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_pbs_org-_newshour_-2022_07_31_00_07_08.report.json",
+      "summary": {
+        "performance": 0.34,
+        "accessibility": 0.96,
+        "best-practices": 0.67,
+        "seo": 0.84,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.pbs.org/newshour/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_pbs_org-_newshour_-2022_07_31_00_06_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_pbs_org-_newshour_-2022_07_31_00_06_28.report.json",
+      "summary": {
+        "performance": 0.31,
+        "accessibility": 0.96,
+        "best-practices": 0.67,
+        "seo": 0.84,
+        "pwa": 0.7
+      }
     }
   ],
-  "uniq": 1578556515,
+  "server": "ia802505.us.archive.org",
+  "uniq": 1531370625,
   "workable_servers": [
+    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659227419,
+  "created": 1659269705,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/33/items/huffpost-2022",
@@ -6261,21 +6261,32 @@
       "format": "JSON"
     },
     {
+      "name": "huffpost-2022-07-30T20:24:25.914917-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpost-2022-07-30T20:24:25.914917-04:00.jpg",
+      "mtime": "1659256842",
+      "size": "9588",
+      "md5": "244cdd4b918fae6233f1fe41dc66a139",
+      "crc32": "f2abb8e7",
+      "sha1": "f764288812f00f26415222c7d1fa39d315ff4d00"
+    },
+    {
       "name": "huffpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f0a18eb88213a71b065311bb56e4a7e63aa9066a",
-      "mtime": "1659227394",
-      "size": "127090",
-      "md5": "ed8a0fc32d4303831b1b244f44a8397e",
-      "crc32": "c579de99",
-      "sha1": "8413dee1307029ab7e9d28fbe7428b0b3020d1b0",
+      "btih": "8e8972b25581f02d3d35b55c3bd3a85237986ef1",
+      "mtime": "1659256919",
+      "size": "127294",
+      "md5": "8a3e59639357f9edac706ee60b8ed694",
+      "crc32": "a8e4cbf3",
+      "sha1": "9aa2220ba484ebb14aad04eacce294ac76f7a9c4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "huffpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7988d52887f5eadef3ddf524266f4215",
+      "md5": "52d048caab954ae969a79c02d02edd5c",
       "summation": "md5"
     },
     {
@@ -6299,9 +6310,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 601,
-  "item_last_updated": 1659227394,
-  "item_size": 47163257,
+  "files_count": 602,
+  "huffpost-2022": [
+    {
+      "url": "https://www.huffpost.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_huffpost_com-_-2022_07_30_23_56_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_huffpost_com-_-2022_07_30_23_56_01.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.92,
+        "best-practices": 0.75,
+        "seo": 0.98,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.huffpost.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_huffpost_com-_-2022_07_30_23_56_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_huffpost_com-_-2022_07_30_23_56_23.report.json",
+      "summary": {
+        "performance": 0.24,
+        "accessibility": 0.92,
+        "best-practices": 0.67,
+        "seo": 0.98,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.huffpost.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_huffpost_com-_-2022_07_30_23_55_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_huffpost_com-_-2022_07_30_23_55_34.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.92,
+        "best-practices": 0.67,
+        "seo": 0.98,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "item_last_updated": 1659256919,
+  "item_size": 47173049,
   "metadata": {
     "identifier": "huffpost-2022",
     "collection": [
@@ -6318,21 +6370,10 @@
     "publicdate": "2022-06-24 22:56:52",
     "addeddate": "2022-06-24 22:56:52"
   },
-  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348393648,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1330537537,
+  "uniq": 1791355872,
   "workable_servers": [
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

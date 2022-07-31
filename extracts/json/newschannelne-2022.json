@@ -1,5 +1,5 @@
 {
-  "created": 1659227492,
+  "created": 1659269899,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/16/items/newschannelne-2022",
@@ -109,21 +109,32 @@
       "format": "JSON"
     },
     {
+      "name": "newschannelne-2022-07-30T19:30:01.144582-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newschannelne-2022-07-30T19:30:01.144582-05:00.jpg",
+      "mtime": "1659256848",
+      "size": "9485",
+      "md5": "bac4a15ed6e3460b8c987eb3a9c8c546",
+      "crc32": "61bcf693",
+      "sha1": "ffd3c09bb75d9c1dec7ab6686d62bcc390f0607a"
+    },
+    {
       "name": "newschannelne-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8f743ae05f0934e7f0c2a1fc7b91aaab3fe290f0",
-      "mtime": "1659227486",
-      "size": "3610",
-      "md5": "3c9b2d6eec69c99f6192dc9638b90283",
-      "crc32": "357bfadf",
-      "sha1": "befc7ea5627b8d7df3cbed12d387e37919aa73c4",
+      "btih": "0e66d065b0e506585b5150b035ea5e2ab53b6c0b",
+      "mtime": "1659256866",
+      "size": "3819",
+      "md5": "94442c201f603d202ddc222d551c78e4",
+      "crc32": "5d5eac50",
+      "sha1": "80088a7afc263bca792a99d29b27d430dc5e4dd9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newschannelne-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e15b8796e33c3d95fec808edddc93605",
+      "md5": "459b57d7cf9c24ac18266c0321f00ad8",
       "summation": "md5"
     },
     {
@@ -147,9 +158,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 14,
-  "item_last_updated": 1659227486,
-  "item_size": 648269,
+  "files_count": 15,
+  "item_last_updated": 1659256866,
+  "item_size": 657963,
   "metadata": {
     "identifier": "newschannelne-2022",
     "collection": [
@@ -166,21 +177,51 @@
     "publicdate": "2022-07-30 19:35:12",
     "addeddate": "2022-07-30 19:35:12"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "newschannelne-2022": [
     {
-      "task_id": 3348394123,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://metro.newschannelnebraska.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/metro_newschannelnebraska_com-_-2022_07_31_00_05_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/metro_newschannelnebraska_com-_-2022_07_31_00_05_09.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.84,
+        "best-practices": 0.67,
+        "seo": 0.77,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://metro.newschannelnebraska.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/metro_newschannelnebraska_com-_-2022_07_31_00_05_35.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/metro_newschannelnebraska_com-_-2022_07_31_00_05_35.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.84,
+        "best-practices": 0.67,
+        "seo": 0.77,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://metro.newschannelnebraska.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/metro_newschannelnebraska_com-_-2022_07_31_00_06_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/metro_newschannelnebraska_com-_-2022_07_31_00_06_00.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.84,
+        "best-practices": 0.67,
+        "seo": 0.77,
+        "pwa": 0.3
+      }
     }
   ],
-  "uniq": 467583700,
+  "server": "ia801401.us.archive.org",
+  "uniq": 148668757,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

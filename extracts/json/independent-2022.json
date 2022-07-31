@@ -1,5 +1,5 @@
 {
-  "created": 1659227129,
+  "created": 1659258685,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/20/items/independent-2022",
@@ -13381,31 +13381,83 @@
       "format": "JSON"
     },
     {
+      "name": "independent-2022-07-31T01:24:05.868120+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "independent-2022-07-31T01:24:05.868120+01:00.jpg",
+      "mtime": "1659256727",
+      "size": "9406",
+      "md5": "0b1718f94ad799c4e1e472e8aecc1a5e",
+      "crc32": "211672c8",
+      "sha1": "698af1bc24d3b98e9bb2e4cc239afb0f52a62b41"
+    },
+    {
+      "name": "independent-2022-07-31T10:10:01.943872+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659258605",
+      "size": "45727",
+      "md5": "e8e5a2cbcd6161834e0dbb2e57b26a49",
+      "crc32": "71e2ce13",
+      "sha1": "77c278ef5a1e0c836d1bb549883b6d324e5de981",
+      "format": "JSON"
+    },
+    {
+      "name": "independent-2022-07-31T10:10:01.943872+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659258607",
+      "size": "51295",
+      "md5": "212b254d22fdd6eebc515ba7117c2582",
+      "crc32": "318a305b",
+      "sha1": "0a63f101c7e9aca43f0be04de18d34dc0cea5331",
+      "format": "JSON"
+    },
+    {
+      "name": "independent-2022-07-31T10:10:01.943872+01:00.jpg",
+      "source": "original",
+      "mtime": "1659258603",
+      "size": "282625",
+      "md5": "7ee6312d9f9f850138a82114783da598",
+      "crc32": "3be7ba7a",
+      "sha1": "e8262d1038900ef444f04ad33d47e0c2c3b86f68",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "independent-2022-07-31T10:10:01.943872+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659258609",
+      "size": "1582",
+      "md5": "e143edb61673051be5d72355270abd8f",
+      "crc32": "521a6a7f",
+      "sha1": "8936c123db15f50d104630fbc3909666ababd36d",
+      "format": "JSON"
+    },
+    {
       "name": "independent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "81a1141b4dab3861da194ccbbb479fc25df9703a",
-      "mtime": "1659227122",
-      "size": "274284",
-      "md5": "b29873c992ea779afa1e0e9992334d9c",
-      "crc32": "6ef0b2af",
-      "sha1": "aa59497be89d79b03e0704c3ff73fcc7a36882f0",
+      "btih": "d6621bbc6480c18370453f93081cdbd33b0b009c",
+      "mtime": "1659258680",
+      "size": "275358",
+      "md5": "974927e28539b1131ba4470c7ab924fb",
+      "crc32": "5031ac47",
+      "sha1": "9f0e82d92a54a6b1477fb8226783b00029c77a37",
       "format": "Archive BitTorrent"
     },
     {
       "name": "independent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5f78f479372205b1d98979d0956aed00",
+      "md5": "01511b2a587ad050df182c7c1e5e0533",
       "summation": "md5"
     },
     {
       "name": "independent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659227062",
-      "size": "1474560",
-      "md5": "f703912a328392e392b9c6d189311a1d",
-      "crc32": "46983f84",
-      "sha1": "0085f271a480ac181c5efba35c02c571f1e7b5a3",
+      "mtime": "1659258620",
+      "size": "1478656",
+      "md5": "a33e62442b632712c1d00078c92ebcba",
+      "crc32": "2649d403",
+      "sha1": "4309ed665ab9d59eab8bb31cb683c9baeea6aa87",
       "format": "Metadata"
     },
     {
@@ -13419,9 +13471,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1278,
-  "item_last_updated": 1659227122,
-  "item_size": 127905464,
+  "files_count": 1283,
+  "item_last_updated": 1659258680,
+  "item_size": 128301269,
   "metadata": {
     "identifier": "independent-2022",
     "collection": [
@@ -13443,7 +13495,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348391841,
+      "task_id": 3348659856,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13451,7 +13503,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2140964579,
+  "uniq": 1401502956,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

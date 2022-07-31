@@ -1,5 +1,5 @@
 {
-  "created": 1659227384,
+  "created": 1659261009,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/26/items/gigharbornow-2022",
@@ -1993,31 +1993,94 @@
       "format": "JSON"
     },
     {
+      "name": "gigharbornow-2022-07-30T08:39:51.018521-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gigharbornow-2022-07-30T08:39:51.018521-07:00.jpg",
+      "mtime": "1659234175",
+      "size": "7353",
+      "md5": "cee453f0763271a42afd93845169ab06",
+      "crc32": "4adefedb",
+      "sha1": "0207cfd46924704e82954a984560106ae836f189"
+    },
+    {
+      "name": "gigharbornow-2022-07-30T19:57:22.309862-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659236246",
+      "size": "25393",
+      "md5": "5bd62c1515e61c243978123deef511bc",
+      "crc32": "94db9c01",
+      "sha1": "7486117f31d2b3ae98dbed1bb462e4b06026a381",
+      "format": "JSON"
+    },
+    {
+      "name": "gigharbornow-2022-07-30T19:57:22.309862-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659236247",
+      "size": "28303",
+      "md5": "daecc12d520200a45f2f37ed8ad6de9d",
+      "crc32": "8ca12911",
+      "sha1": "4f65cfe1c8be6aaff39e23f18509665ece95ba1e",
+      "format": "JSON"
+    },
+    {
+      "name": "gigharbornow-2022-07-30T19:57:22.309862-07:00.jpg",
+      "source": "original",
+      "mtime": "1659236244",
+      "size": "117069",
+      "md5": "19b987382b89f48cce516110a167cc00",
+      "crc32": "65fb0c7e",
+      "sha1": "0486e16b3ef98b33c57818e46e3ff02933ef6ffa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gigharbornow-2022-07-30T19:57:22.309862-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659236249",
+      "size": "1513",
+      "md5": "e16c96f7e3946dc239dbbe596d7e5ee9",
+      "crc32": "33681b89",
+      "sha1": "54b8a6a9e77d1704705b4e37bd6944238c46e471",
+      "format": "JSON"
+    },
+    {
+      "name": "gigharbornow-2022-07-30T19:57:22.309862-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gigharbornow-2022-07-30T19:57:22.309862-07:00.jpg",
+      "mtime": "1659260920",
+      "size": "7353",
+      "md5": "cee453f0763271a42afd93845169ab06",
+      "crc32": "4adefedb",
+      "sha1": "0207cfd46924704e82954a984560106ae836f189"
+    },
+    {
       "name": "gigharbornow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fa2d6fb08b18636ffaa32c43c540bc597fe8b97d",
-      "mtime": "1659195753",
-      "size": "42061",
-      "md5": "b57eb3c561e5c0b1446ba93dd8395ee2",
-      "crc32": "109513bd",
-      "sha1": "56f18ae86c7d0c658ba33b45924902f35dac940e",
+      "btih": "4cbfee238dfc323559e88d355ab2f9c1407cbb85",
+      "mtime": "1659260953",
+      "size": "43328",
+      "md5": "e718d5c8761a00c0c803e701b06a17b9",
+      "crc32": "d30df757",
+      "sha1": "010a5b82b17e49a51ac0b468d0df6db92b6a0659",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gigharbornow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e193b9a2b42d84df4f1cef7cdb8536b3",
+      "md5": "619df41d83fff3148283f65e278cd97e",
       "summation": "md5"
     },
     {
       "name": "gigharbornow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659195750",
-      "size": "245760",
-      "md5": "cb65903d2803470ea9d1bd605637ed9d",
-      "crc32": "b861c98f",
-      "sha1": "cee4cf5b778271d94cb97302977544b97596bb52",
+      "mtime": "1659236253",
+      "size": "249856",
+      "md5": "6c2d559161b1134914ab33566911f912",
+      "crc32": "085f83eb",
+      "sha1": "05d350bea26754845ec9e6fb6b46590163ffe926",
       "format": "Metadata"
     },
     {
@@ -2031,50 +2094,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 194,
-  "gigharbornow-2022": [
-    {
-      "url": "https://www.gigharbornow.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gigharbornow_org-_-2022_07_30_14_24_10.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gigharbornow_org-_-2022_07_30_14_24_10.report.json",
-      "summary": {
-        "performance": 0.81,
-        "accessibility": 0.73,
-        "best-practices": 0.92,
-        "seo": 0.84,
-        "pwa": 0.9
-      }
-    },
-    {
-      "url": "https://www.gigharbornow.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gigharbornow_org-_-2022_07_30_14_24_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gigharbornow_org-_-2022_07_30_14_24_23.report.json",
-      "summary": {
-        "performance": 0.96,
-        "accessibility": 0.73,
-        "best-practices": 0.92,
-        "seo": 0.84,
-        "pwa": 0.9
-      }
-    },
-    {
-      "url": "https://www.gigharbornow.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gigharbornow_org-_-2022_07_30_14_24_35.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gigharbornow_org-_-2022_07_30_14_24_35.report.json",
-      "summary": {
-        "performance": 0.96,
-        "accessibility": 0.73,
-        "best-practices": 0.92,
-        "seo": 0.84,
-        "pwa": 0.9
-      }
-    }
-  ],
-  "item_last_updated": 1659195753,
-  "item_size": 11224393,
+  "files_count": 200,
+  "item_last_updated": 1659260953,
+  "item_size": 11416740,
   "metadata": {
     "identifier": "gigharbornow-2022",
     "collection": [
@@ -2091,21 +2113,10 @@
     "publicdate": "2022-07-09 03:58:50",
     "addeddate": "2022-07-09 03:58:50"
   },
-  "pending_tasks": true,
   "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348120204,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1709627584,
+  "uniq": 1059561411,
   "workable_servers": [
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

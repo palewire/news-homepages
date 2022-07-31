@@ -1,5 +1,5 @@
 {
-  "created": 1659196651,
+  "created": 1659263875,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/publicintegrity-2022",
@@ -5183,31 +5183,94 @@
       "format": "JSON"
     },
     {
+      "name": "publicintegrity-2022-07-30T11:55:29.918203-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicintegrity-2022-07-30T11:55:29.918203-04:00.jpg",
+      "mtime": "1659234981",
+      "size": "9848",
+      "md5": "6b8e98c8669f54000781f0fd7106ec65",
+      "crc32": "6ba86f84",
+      "sha1": "5c6d6a7d1b85d549694df40ec1dfe3bc881e4570"
+    },
+    {
+      "name": "publicintegrity-2022-07-31T00:05:35.275304-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659240338",
+      "size": "20968",
+      "md5": "127d6293892228d95f75ccfc86701f3f",
+      "crc32": "cb626667",
+      "sha1": "68b5c7912c23300966d79fe4ce0a518723d6b74a",
+      "format": "JSON"
+    },
+    {
+      "name": "publicintegrity-2022-07-31T00:05:35.275304-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659240340",
+      "size": "24929",
+      "md5": "f38338ebf227d64fe0354521e516df4f",
+      "crc32": "b8dd6ff0",
+      "sha1": "0dcfc92e5f7030dd64de27c8841e26d523a20c4f",
+      "format": "JSON"
+    },
+    {
+      "name": "publicintegrity-2022-07-31T00:05:35.275304-04:00.jpg",
+      "source": "original",
+      "mtime": "1659240336",
+      "size": "283181",
+      "md5": "dcca406ecc1dbf0295caf4b8326d1260",
+      "crc32": "b8730d7e",
+      "sha1": "e5c76ddcfeedbe0ba1529edf21d6a6fc49d56ab2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "publicintegrity-2022-07-31T00:05:35.275304-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659240341",
+      "size": "1495",
+      "md5": "4084668ec06f59ca78463fbcdfe4f399",
+      "crc32": "f65b957d",
+      "sha1": "8370d4329b39c52ec39719c71f83913fc3fde552",
+      "format": "JSON"
+    },
+    {
+      "name": "publicintegrity-2022-07-31T00:05:35.275304-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicintegrity-2022-07-31T00:05:35.275304-04:00.jpg",
+      "mtime": "1659263797",
+      "size": "9858",
+      "md5": "1f62cd6f2b6a09dbd86695e22c484759",
+      "crc32": "74dfde0c",
+      "sha1": "cddb9f8bebd3d5e3ea094574ef17fe54f36a6df2"
+    },
+    {
       "name": "publicintegrity-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4e6dc6cb419334e37c5512a15e8b807a7d927760",
-      "mtime": "1659196638",
-      "size": "109082",
-      "md5": "0cb24f03e85d6ceaebff5aa81322fdad",
-      "crc32": "23c62f75",
-      "sha1": "38af64db0a20e7811f89172a36ea5d91b09b7cfb",
+      "btih": "25fee4d4506c20fbaac84ca3e0969a7975a7b233",
+      "mtime": "1659263820",
+      "size": "110387",
+      "md5": "7056770235b39c3ff85e420f68979e92",
+      "crc32": "73838e3a",
+      "sha1": "7251e2a03884288b8c3e922c26c56b77e2a30d99",
       "format": "Archive BitTorrent"
     },
     {
       "name": "publicintegrity-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2f9668aa95a9342e2f004ac0d1c8e053",
+      "md5": "3353c57b597f9fe1aab247e5788a57b9",
       "summation": "md5"
     },
     {
       "name": "publicintegrity-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659196632",
-      "size": "593920",
-      "md5": "99e9d3c6d048c306797f14550434fcd4",
-      "crc32": "30e61a5a",
-      "sha1": "fa7676d5285c6eac0cf19b421d2e7decee826956",
+      "mtime": "1659240349",
+      "size": "602112",
+      "md5": "ec66f99c017d849d834de9e5146c836e",
+      "crc32": "0725ebb1",
+      "sha1": "c8d937ebc088e73c5e8be10c2744351b42dda380",
       "format": "Metadata"
     },
     {
@@ -5221,9 +5284,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 498,
-  "item_last_updated": 1659196638,
-  "item_size": 43608940,
+  "files_count": 504,
+  "item_last_updated": 1659263820,
+  "item_size": 43968716,
   "metadata": {
     "identifier": "publicintegrity-2022",
     "collection": [
@@ -5240,21 +5303,10 @@
     "publicdate": "2022-06-18 03:27:11",
     "addeddate": "2022-06-18 03:27:11"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348127388,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 707876003,
+  "server": "ia801407.us.archive.org",
+  "uniq": 950848854,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

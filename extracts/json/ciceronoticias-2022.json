@@ -1,5 +1,5 @@
 {
-  "created": 1659223220,
+  "created": 1659265816,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/20/items/ciceronoticias-2022",
@@ -2597,31 +2597,83 @@
       "format": "JSON"
     },
     {
+      "name": "ciceronoticias-2022-07-30T18:14:58.782174-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ciceronoticias-2022-07-30T18:14:58.782174-05:00.jpg",
+      "mtime": "1659254175",
+      "size": "7473",
+      "md5": "d0fa28b1eb80257160105d7701797ebb",
+      "crc32": "fc304fae",
+      "sha1": "7c56bcec52c32d7de36a820f180aa9c58568a829"
+    },
+    {
+      "name": "ciceronoticias-2022-07-31T06:09:21.411424-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659265764",
+      "size": "70759",
+      "md5": "43ba9bdd02d02ff9d029546630ade787",
+      "crc32": "9674a056",
+      "sha1": "3089b67cef813460f0e927fa762704be884d325b",
+      "format": "JSON"
+    },
+    {
+      "name": "ciceronoticias-2022-07-31T06:09:21.411424-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659265766",
+      "size": "64686",
+      "md5": "09d1a01be83b47b47c53e3a2b6dd5b63",
+      "crc32": "de773cf0",
+      "sha1": "350707f4dc49b82c615b83492c558eb432c1abb3",
+      "format": "JSON"
+    },
+    {
+      "name": "ciceronoticias-2022-07-31T06:09:21.411424-05:00.jpg",
+      "source": "original",
+      "mtime": "1659265763",
+      "size": "170473",
+      "md5": "6661c69809df67a07da2b861cb12a4f2",
+      "crc32": "28de0ec3",
+      "sha1": "11744bda45d0387eada10cf06da4a31312744cc1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ciceronoticias-2022-07-31T06:09:21.411424-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659265768",
+      "size": "1564",
+      "md5": "95622d8f3eaaa75aa961231a690ce346",
+      "crc32": "aa5b199b",
+      "sha1": "5de0d42b149df360863e1a47c2e7cf1ea50020c1",
+      "format": "JSON"
+    },
+    {
       "name": "ciceronoticias-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8f31b8767727a96aa8fde923f25ca3fbf24edc4f",
-      "mtime": "1659223208",
-      "size": "55107",
-      "md5": "f21219770ef3e29ed6b535d4d2fb4aaa",
-      "crc32": "b00faea0",
-      "sha1": "7364f3d1e30951a7716cf41bdbcea7c2d58a8378",
+      "btih": "58efea0ede0c423c5d9e301aa3683329d6a37a25",
+      "mtime": "1659265812",
+      "size": "56176",
+      "md5": "18a4fa802c786ce2ce607c25cb4822ac",
+      "crc32": "10c5c947",
+      "sha1": "f0e7cb3b09d85aaa14025758207bb15e61b64c0f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ciceronoticias-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d6b1e3c7b33d40e82f2820b99bed9bf8",
+      "md5": "658108c71ccf1a10456a4ce261e43317",
       "summation": "md5"
     },
     {
       "name": "ciceronoticias-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659223204",
-      "size": "315392",
-      "md5": "d50e013f391f0e596e569a84f432f5b0",
-      "crc32": "4c315e5e",
-      "sha1": "ed332ad69255d29ca623990933ac7fe9d2666942",
+      "mtime": "1659265773",
+      "size": "323584",
+      "md5": "d5aa24390d2268e3bdeec4665bacc685",
+      "crc32": "eada061a",
+      "sha1": "dae10133b1badcbf75b53ff243963d7392eaa355",
       "format": "Metadata"
     },
     {
@@ -2635,9 +2687,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 252,
-  "item_last_updated": 1659223208,
-  "item_size": 17996103,
+  "files_count": 257,
+  "item_last_updated": 1659265812,
+  "item_size": 18320319,
   "metadata": {
     "identifier": "ciceronoticias-2022",
     "collection": [
@@ -2659,7 +2711,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348364537,
+      "task_id": 3348711631,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2667,7 +2719,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 74615924,
+  "uniq": 2002266657,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

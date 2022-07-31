@@ -1,5 +1,5 @@
 {
-  "created": 1659223239,
+  "created": 1659266326,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/breitbartnews-2022",
@@ -9585,31 +9585,83 @@
       "format": "JSON"
     },
     {
+      "name": "breitbartnews-2022-07-30T19:14:27.960963-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "breitbartnews-2022-07-30T19:14:27.960963-04:00.jpg",
+      "mtime": "1659254256",
+      "size": "10275",
+      "md5": "6f6cc372a68e54add98b8584f5c5b8bd",
+      "crc32": "7b74b637",
+      "sha1": "bb4ec4801ad3343111b7e7d85f28e4b92c63d4fe"
+    },
+    {
+      "name": "breitbartnews-2022-07-31T07:08:31.313715-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659265717",
+      "size": "73902",
+      "md5": "b8161aa198dd5b4a8dbfa15ad20252d1",
+      "crc32": "9a791fdd",
+      "sha1": "e0e47d29c469e058ba6e8f4b413a31411b45c128",
+      "format": "JSON"
+    },
+    {
+      "name": "breitbartnews-2022-07-31T07:08:31.313715-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659265719",
+      "size": "77704",
+      "md5": "6802e383cb22127c2d46b6775bd9f923",
+      "crc32": "a223d6d4",
+      "sha1": "f14bcad8ded02a645b9e4e845048dbfb1cd13656",
+      "format": "JSON"
+    },
+    {
+      "name": "breitbartnews-2022-07-31T07:08:31.313715-04:00.jpg",
+      "source": "original",
+      "mtime": "1659265716",
+      "size": "328625",
+      "md5": "739633ab0ddb8f10eba195241dd88e58",
+      "crc32": "2b9e1294",
+      "sha1": "2139019410d22640b2892404a0bb5afd4ba0bc99",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "breitbartnews-2022-07-31T07:08:31.313715-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659265721",
+      "size": "1485",
+      "md5": "09f6187d6b8394c51de43568f4d1c8fd",
+      "crc32": "b588343d",
+      "sha1": "986d0be17b4121708e8819895414799a85e8b8fd",
+      "format": "JSON"
+    },
+    {
       "name": "breitbartnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7b95a103ff574934541770f4d2ae8ec10778cc90",
-      "mtime": "1659223228",
-      "size": "199085",
-      "md5": "26f3a3772c74cce8f925f338be88d842",
-      "crc32": "ef80fd18",
-      "sha1": "4284b3a97f7d477d910daa79a0aab4ad30332e80",
+      "btih": "00da1f128d52d190d1d2836abb17b4cb26cd9d07",
+      "mtime": "1659266187",
+      "size": "200170",
+      "md5": "da4f514c87a15f23e60f040362665efc",
+      "crc32": "091d89bd",
+      "sha1": "5d29d8ffdcfa53869999a0639ee7eb60e4f7f93d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "breitbartnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "508ba49d9bc6a27b750cbfcd8d7835b6",
+      "md5": "211e618bd83c76375cc23c4c9bae962b",
       "summation": "md5"
     },
     {
       "name": "breitbartnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659223186",
-      "size": "1073152",
-      "md5": "9587595f06635596f6c9205ec1630e62",
-      "crc32": "e5207ca7",
-      "sha1": "c383de85818b2aa4f63b5699e2eb93d88ff99b31",
+      "mtime": "1659265728",
+      "size": "1077248",
+      "md5": "94622e8cc64ea512c67912ab3b7d7a22",
+      "crc32": "40f06d46",
+      "sha1": "5d8e4c82ecf68791bef6fb2da83c974cc86386b5",
       "format": "Metadata"
     },
     {
@@ -9623,9 +9675,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 917,
-  "item_last_updated": 1659223228,
-  "item_size": 96863828,
+  "files_count": 922,
+  "item_last_updated": 1659266187,
+  "item_size": 97361000,
   "metadata": {
     "identifier": "breitbartnews-2022",
     "collection": [
@@ -9647,7 +9699,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348364679,
+      "task_id": 3348715326,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9655,7 +9707,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 35542792,
+  "uniq": 2107890273,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]
