@@ -1,5 +1,5 @@
 {
-  "created": 1659184207,
+  "created": 1659227708,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/0/items/people-2022",
@@ -2189,31 +2189,83 @@
       "format": "JSON"
     },
     {
+      "name": "people-2022-07-29T23:49:26.638349-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "people-2022-07-29T23:49:26.638349-04:00.jpg",
+      "mtime": "1659196563",
+      "size": "10005",
+      "md5": "3a1832d3fbae85ec050b582b14935c71",
+      "crc32": "88905ef0",
+      "sha1": "a3008f1cfcb4c72911570e4882eac4415baa13aa"
+    },
+    {
+      "name": "people-2022-07-30T11:54:17.979198-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659196462",
+      "size": "34794",
+      "md5": "e4539c48d1151833e149d5de3c19492d",
+      "crc32": "77e3b9a7",
+      "sha1": "09b2d63e56b29c39bca527eb31f216100e67de01",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-07-30T11:54:17.979198-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659196463",
+      "size": "58650",
+      "md5": "7414b1cf27cfdd261bcecaaeda02c670",
+      "crc32": "9c7ed475",
+      "sha1": "90e37d61d46287feae715f289d51ced3abf5988b",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-07-30T11:54:17.979198-04:00.jpg",
+      "source": "original",
+      "mtime": "1659196460",
+      "size": "305747",
+      "md5": "e513f90a918218362c86f6af6877740b",
+      "crc32": "7e474a1d",
+      "sha1": "84d1b4a0b93828e61e2ba78b8424f6e14cff387d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "people-2022-07-30T11:54:17.979198-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659196465",
+      "size": "1420",
+      "md5": "d779f561764537feae28c80c2e3853ba",
+      "crc32": "6ccc3765",
+      "sha1": "35f2cecf7f3c05eb90bc9c27c36c1c5df03d0d0e",
+      "format": "JSON"
+    },
+    {
       "name": "people-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a66a163667eef9c2fe9ff4d0041a6f36b950af0f",
-      "mtime": "1659153016",
-      "size": "44932",
-      "md5": "809e4e6c8393f297f973693366703591",
-      "crc32": "16121df1",
-      "sha1": "465ecabd283966dd4fc07399dceaa96421e7599e",
+      "btih": "32ffb02b81b9595c64ce34feb1b3597960220bb4",
+      "mtime": "1659196656",
+      "size": "45982",
+      "md5": "c300c72e219131ce78aaa252a5e61ce3",
+      "crc32": "edeef1c3",
+      "sha1": "d5d5ece47a2c416ba546c74597aba8f7ae021a2e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "people-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77430fea59bdddda4f54d0488837074d",
+      "md5": "aea3958edef57fc231bd14ef80e23151",
       "summation": "md5"
     },
     {
       "name": "people-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659152979",
-      "size": "258048",
-      "md5": "421c226afcbb4f23db7232f1c5fb5db6",
-      "crc32": "4ce423c3",
-      "sha1": "606cc78ef1a45535da757cf8fb72002de3fc3c42",
+      "mtime": "1659196652",
+      "size": "266240",
+      "md5": "4870e8f005c2dd88fc4f26e706680a7b",
+      "crc32": "b94c9609",
+      "sha1": "d2ab4d1812a93bfd1bfc8ca29a58d7b19e822d39",
       "format": "Metadata"
     },
     {
@@ -2227,9 +2279,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 212,
-  "item_last_updated": 1659153016,
-  "item_size": 21823782,
+  "files_count": 217,
+  "item_last_updated": 1659196656,
+  "item_size": 22243640,
   "metadata": {
     "identifier": "people-2022",
     "collection": [
@@ -2251,10 +2303,10 @@
     {
       "url": "https://people.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/people_com-_-2022_07_30_03_24_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/people_com-_-2022_07_30_03_24_38.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/people_com-_-2022_07_30_15_21_33.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/people_com-_-2022_07_30_15_21_33.report.json",
       "summary": {
-        "performance": 0.36,
+        "performance": 0.35,
         "accessibility": 0.9,
         "best-practices": 0.92,
         "seo": 0.79,
@@ -2264,10 +2316,10 @@
     {
       "url": "https://people.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/people_com-_-2022_07_30_03_25_35.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/people_com-_-2022_07_30_03_25_35.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/people_com-_-2022_07_30_15_22_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/people_com-_-2022_07_30_15_22_06.report.json",
       "summary": {
-        "performance": 0.36,
+        "performance": 0.35,
         "accessibility": 0.9,
         "best-practices": 0.92,
         "seo": 0.79,
@@ -2277,12 +2329,12 @@
     {
       "url": "https://people.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/people_com-_-2022_07_30_03_25_07.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/people_com-_-2022_07_30_03_25_07.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/people_com-_-2022_07_30_15_20_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/people_com-_-2022_07_30_15_20_06.report.json",
       "summary": {
-        "performance": 0.36,
+        "performance": 0.37,
         "accessibility": 0.9,
-        "best-practices": 0.92,
+        "best-practices": null,
         "seo": 0.79,
         "pwa": 0.9
       }
@@ -2292,7 +2344,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347691501,
+      "task_id": 3348127533,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2300,7 +2352,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 92501078,
+  "uniq": 55096269,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

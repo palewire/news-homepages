@@ -3,10 +3,10 @@
     {
       "url": "https://www.commonsense.news/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_07_30_00_56_25.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_07_30_00_56_25.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_07_30_18_29_38.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_07_30_18_29_38.report.json",
       "summary": {
-        "performance": 0.3,
+        "performance": 0.45,
         "accessibility": 0.71,
         "best-practices": 1,
         "seo": 0.84,
@@ -16,8 +16,8 @@
     {
       "url": "https://www.commonsense.news/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_07_30_00_56_53.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_07_30_00_56_53.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_07_30_18_29_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_07_30_18_29_53.report.json",
       "summary": {
         "performance": 0.51,
         "accessibility": 0.71,
@@ -29,10 +29,10 @@
     {
       "url": "https://www.commonsense.news/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_07_30_00_56_40.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_07_30_00_56_40.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_07_30_18_30_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_07_30_18_30_07.report.json",
       "summary": {
-        "performance": 0.56,
+        "performance": 0.48,
         "accessibility": 0.71,
         "best-practices": 1,
         "seo": 0.84,
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "created": 1659183634,
+  "created": 1659227115,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/27/items/bariweiss-2022",
@@ -1842,31 +1842,135 @@
       "format": "JSON"
     },
     {
+      "name": "bariweiss-2022-07-29T18:18:33.057939-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bariweiss-2022-07-29T18:18:33.057939-07:00.jpg",
+      "mtime": "1659188138",
+      "size": "8714",
+      "md5": "9bbf7ee99bb8ba254e1f7cf8eac23d36",
+      "crc32": "de7dc636",
+      "sha1": "3ca0d04476713c3229bc762aa44c75b956644f7e"
+    },
+    {
+      "name": "bariweiss-2022-07-30T06:31:46.098318-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659187909",
+      "size": "14765",
+      "md5": "50fde60b4cfe35743416fc341b21d0ad",
+      "crc32": "3698f2fe",
+      "sha1": "09ec9124a92bc56e30bf68e6602f6a9c0b82dbc2",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-07-30T06:31:46.098318-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659187910",
+      "size": "14031",
+      "md5": "9770cd4d2ed737b2bbf80bc5257a5ed7",
+      "crc32": "8f0f5c44",
+      "sha1": "5eb73f179253ec37f53b80a72f88229e21918e8d",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-07-30T06:31:46.098318-07:00.jpg",
+      "source": "original",
+      "mtime": "1659187908",
+      "size": "282611",
+      "md5": "291a07d142942032fe376445d50cf9fd",
+      "crc32": "366fbb09",
+      "sha1": "8a11e8ba9b6a002e42302453901c9b19f09e1e80",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bariweiss-2022-07-30T06:31:46.098318-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659187911",
+      "size": "1504",
+      "md5": "ef6031a6ad96d664175db64a6ae68e79",
+      "crc32": "b4659d03",
+      "sha1": "1b18253d647cd2d466417ee4f0fe6c55e8a9e2ed",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-07-30T06:31:46.098318-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bariweiss-2022-07-30T06:31:46.098318-07:00.jpg",
+      "mtime": "1659206553",
+      "size": "8897",
+      "md5": "9bad27759094022113d6b529368c4167",
+      "crc32": "24eaaf2c",
+      "sha1": "2d61487f910c2dc3bc417ac0cc1a812b8c488c38"
+    },
+    {
+      "name": "bariweiss-2022-07-30T11:41:32.802721-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659206497",
+      "size": "14766",
+      "md5": "2e1e2a962d6a409fa7e6574ead8200f3",
+      "crc32": "54aeef84",
+      "sha1": "2adf1d810aeda7ea7dc4a337ebab0129de9f76ec",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-07-30T11:41:32.802721-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659206499",
+      "size": "14032",
+      "md5": "d264e86bc6b78e4bf1a0f74a3148181d",
+      "crc32": "a9a71036",
+      "sha1": "6bbaa6c4cff0eb98b3c76b2ebf9946022b93cb6c",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-07-30T11:41:32.802721-07:00.jpg",
+      "source": "original",
+      "mtime": "1659206495",
+      "size": "282615",
+      "md5": "1351645df4200fef45d8338951626d66",
+      "crc32": "fefcba03",
+      "sha1": "2d418fb3ec750922565d8ae39c1ec822b5d3fc9c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bariweiss-2022-07-30T11:41:32.802721-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659206500",
+      "size": "1504",
+      "md5": "6b528889bc158df3bc97db4675f7c6a3",
+      "crc32": "2aa5c2ca",
+      "sha1": "c692d68aed993536a3388e6058a6b51326eaf217",
+      "format": "JSON"
+    },
+    {
       "name": "bariweiss-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eee16bda116cc4ad41a9cc2d1fbbb921e7d764c1",
-      "mtime": "1659143994",
-      "size": "37746",
-      "md5": "170ab1cf9480aec8ae792c2326f277fd",
-      "crc32": "47b98b42",
-      "sha1": "8bb556db38aafa8a16c12bee8fdd9b1b5119e2d1",
+      "btih": "d17d395855273eeedc151bb1473a225bb66b6e30",
+      "mtime": "1659206583",
+      "size": "39854",
+      "md5": "d1bebc626e3155965301f5641de9e62b",
+      "crc32": "ca40a175",
+      "sha1": "2315b8cc34486faa1348ff53b2e09a971b8443b4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bariweiss-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "46199330e18274dd94f940301dac1c4b",
+      "md5": "42d6e239d32740d0e6cf7d85a58e4082",
       "summation": "md5"
     },
     {
       "name": "bariweiss-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659143991",
-      "size": "229376",
-      "md5": "a2d959fdfc95f0d990924385c03a354f",
-      "crc32": "ac65535a",
-      "sha1": "c1b60f5ca48d0d49536fec5e139d3b5f35c2b35c",
+      "mtime": "1659206580",
+      "size": "241664",
+      "md5": "3615bd7e6485540a48526bedc77c59cc",
+      "crc32": "b4e42a95",
+      "sha1": "a527e53f65de79c46ffcff99d45f7bc99711bd99",
       "format": "Metadata"
     },
     {
@@ -1880,9 +1984,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 176,
-  "item_last_updated": 1659143994,
-  "item_size": 11635559,
+  "files_count": 186,
+  "item_last_updated": 1659206583,
+  "item_size": 12293394,
   "metadata": {
     "identifier": "bariweiss-2022",
     "collection": [
@@ -1904,7 +2008,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347603166,
+      "task_id": 3348223636,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1912,7 +2016,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1298404461,
+  "uniq": 432409375,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

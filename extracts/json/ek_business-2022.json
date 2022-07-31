@@ -1,5 +1,5 @@
 {
-  "created": 1659183809,
+  "created": 1659227292,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/4/items/ek_business-2022",
@@ -7,10 +7,10 @@
     {
       "url": "https://ekantipur.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_30_02_12_04.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_30_02_12_04.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_30_14_20_30.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_30_14_20_30.report.json",
       "summary": {
-        "performance": 0.42,
+        "performance": 0.5,
         "accessibility": 0.76,
         "best-practices": 0.75,
         "seo": 0.85,
@@ -20,10 +20,10 @@
     {
       "url": "https://ekantipur.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_30_02_12_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_30_02_12_17.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_30_14_20_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_30_14_20_46.report.json",
       "summary": {
-        "performance": 0.47,
+        "performance": 0.56,
         "accessibility": 0.76,
         "best-practices": 0.75,
         "seo": 0.85,
@@ -33,10 +33,10 @@
     {
       "url": "https://ekantipur.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_30_02_11_49.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_30_02_11_49.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_30_14_21_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_07_30_14_21_01.report.json",
       "summary": {
-        "performance": 0.33,
+        "performance": 0.53,
         "accessibility": 0.76,
         "best-practices": 0.75,
         "seo": 0.85,
@@ -670,31 +670,83 @@
       "format": "JSON"
     },
     {
+      "name": "ek_business-2022-07-30T08:22:12.310534+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ek_business-2022-07-30T08:22:12.310534+05:45.jpg",
+      "mtime": "1659195503",
+      "size": "9532",
+      "md5": "46b912d9fc8f34e3c002ceb26aaec8f3",
+      "crc32": "78f336d2",
+      "sha1": "630771f2a49e9de50f3042b873e4d0c508b218e3"
+    },
+    {
+      "name": "ek_business-2022-07-30T21:22:44.751919+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659195468",
+      "size": "133887",
+      "md5": "f2b67a7dd6835758b99f3a4602562f99",
+      "crc32": "02f29c02",
+      "sha1": "58010c9177c571d26685555d3a4606d3095da13e",
+      "format": "JSON"
+    },
+    {
+      "name": "ek_business-2022-07-30T21:22:44.751919+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659195469",
+      "size": "89264",
+      "md5": "c959c2fb2844a7a6288b96bea6b3052d",
+      "crc32": "8077c3b3",
+      "sha1": "2982a2156a49b291c54e211e717a0afa1a3dc5a6",
+      "format": "JSON"
+    },
+    {
+      "name": "ek_business-2022-07-30T21:22:44.751919+05:45.jpg",
+      "source": "original",
+      "mtime": "1659195466",
+      "size": "257751",
+      "md5": "aa975dab7ef696a41eab6c671d32bc2b",
+      "crc32": "007c0077",
+      "sha1": "2d453407c4b0913ecb9c753946b49ab39e7741c4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ek_business-2022-07-30T21:22:44.751919+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659195471",
+      "size": "1449",
+      "md5": "05e9bee65b9bf67ed25abe3beee42b52",
+      "crc32": "4d98b88d",
+      "sha1": "f3f796560093efca964047b67f1c7b6bf2b12d65",
+      "format": "JSON"
+    },
+    {
       "name": "ek_business-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a89c8dc25f9f7826e6192fd42913484be220eb9c",
-      "mtime": "1659148676",
-      "size": "14351",
-      "md5": "1820129ef4bb23bed8f26a21781cda09",
-      "crc32": "da7a1dfe",
-      "sha1": "1870c7d4fd2b0ab9d6d124a21f5b0096dd01c31d",
+      "btih": "b019a00f04cb2a695a4e37b5809e43e427dd32e8",
+      "mtime": "1659195528",
+      "size": "15427",
+      "md5": "12bfdf858b6ebf5172ecf02e5d91c070",
+      "crc32": "eff7585b",
+      "sha1": "5a05e472e35a00e2e4551f698f1895f42410ef07",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ek_business-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "48cc2e573ab83211ad5f668b390209e8",
+      "md5": "7620613f4185a050b1b83161ea4e3359",
       "summation": "md5"
     },
     {
       "name": "ek_business-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659148642",
-      "size": "86016",
-      "md5": "27a2c48df006c9472a8c8b9d4e77d3dc",
-      "crc32": "b2194e77",
-      "sha1": "dda877ae74ed6705a321b2529fe62e90fd53a190",
+      "mtime": "1659195526",
+      "size": "102400",
+      "md5": "60704b5c980c1648ffd9fa8ccfbce8b5",
+      "crc32": "8764032e",
+      "sha1": "17e1fdb7c9164565db97449f307f825377f43bcf",
       "format": "Metadata"
     },
     {
@@ -708,9 +760,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 64,
-  "item_last_updated": 1659148676,
-  "item_size": 6602962,
+  "files_count": 69,
+  "item_last_updated": 1659195528,
+  "item_size": 7112305,
   "metadata": {
     "identifier": "ek_business-2022",
     "collection": [
@@ -732,7 +784,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347651900,
+      "task_id": 3348118068,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -740,7 +792,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1833431578,
+  "uniq": 1073080760,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

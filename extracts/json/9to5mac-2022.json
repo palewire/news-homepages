@@ -1,5 +1,5 @@
 {
-  "created": 1659179396,
+  "created": 1659222677,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/34/items/9to5mac-2022",
@@ -618,31 +618,83 @@
       "format": "JSON"
     },
     {
+      "name": "9to5mac-2022-07-30T04:09:19.466732-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "9to5mac-2022-07-30T04:09:19.466732-07:00.jpg",
+      "mtime": "1659222646",
+      "size": "9109",
+      "md5": "1f4e8426e9cc667cf10c583b970fd5e3",
+      "crc32": "d36832fb",
+      "sha1": "41516522fa35da7ed770b852353031f154506d94"
+    },
+    {
+      "name": "9to5mac-2022-07-30T16:10:13.920112-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659222617",
+      "size": "70294",
+      "md5": "6b21a52e096ba3d3270a9436ad797ece",
+      "crc32": "2b7ae11b",
+      "sha1": "631957608ac85d074805b91bae584695350a85ec",
+      "format": "JSON"
+    },
+    {
+      "name": "9to5mac-2022-07-30T16:10:13.920112-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659222618",
+      "size": "61976",
+      "md5": "9662824ad283cf12960606ff5bd50c3d",
+      "crc32": "45fd85ca",
+      "sha1": "6f2233589d5e2c0ac764dfe3f3178c74c5326402",
+      "format": "JSON"
+    },
+    {
+      "name": "9to5mac-2022-07-30T16:10:13.920112-07:00.jpg",
+      "source": "original",
+      "mtime": "1659222615",
+      "size": "235581",
+      "md5": "376089b6eddbfe32b3cd49a721682156",
+      "crc32": "0bbe4ba8",
+      "sha1": "593cc0cd4abd0696f9bb08400f5358a73b837f06",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "9to5mac-2022-07-30T16:10:13.920112-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659222620",
+      "size": "1432",
+      "md5": "9c39d9a413a4af46b00078edd3769f3c",
+      "crc32": "73907a1a",
+      "sha1": "8d93840fba456b8ca10184e406fadef492d65e88",
+      "format": "JSON"
+    },
+    {
       "name": "9to5mac-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5fb45f77533185154a6c146c45c142b636d061b7",
-      "mtime": "1659179390",
-      "size": "13983",
-      "md5": "7ac3416c5048d306dce93038df8acec7",
-      "crc32": "e5895bab",
-      "sha1": "693249cee0a92358f474f0d337321b015f3340e8",
+      "btih": "c36d7bacb86e200b36c18f6086cae0c97baa0720",
+      "mtime": "1659222672",
+      "size": "15037",
+      "md5": "67d2091b05c0d5856e6c2fe4ee89bf48",
+      "crc32": "1bfce5d9",
+      "sha1": "24fec3dd00faa0aa24dd78eb6db28d0ecb064d88",
       "format": "Archive BitTorrent"
     },
     {
       "name": "9to5mac-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "163af1af5e084d83df248af7710f2e5c",
+      "md5": "9e717a5b9295bbc7763b076b1ab0b754",
       "summation": "md5"
     },
     {
       "name": "9to5mac-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659179387",
-      "size": "86016",
-      "md5": "12a96a56570fc0ce60cef88111e155fe",
-      "crc32": "a1e819ec",
-      "sha1": "4b79620389f9e2fa59cfc378cac64206d1eeebbd",
+      "mtime": "1659222670",
+      "size": "94208",
+      "md5": "6cb4a97ced65c51c2435b0b9e25a5a58",
+      "crc32": "19e4bcd9",
+      "sha1": "18a4cb8c2b4afe976e51310d244579f669271bdf",
       "format": "Metadata"
     },
     {
@@ -667,9 +719,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 64,
-  "item_last_updated": 1659179390,
-  "item_size": 4466309,
+  "files_count": 69,
+  "item_last_updated": 1659222672,
+  "item_size": 4853947,
   "metadata": {
     "identifier": "9to5mac-2022",
     "collection": [
@@ -691,7 +743,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347981585,
+      "task_id": 3348360618,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -699,7 +751,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1406884411,
+  "uniq": 530824576,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659184619,
+  "created": 1659228117,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/35/items/wcfcourier-2022",
@@ -7933,31 +7933,83 @@
       "format": "JSON"
     },
     {
+      "name": "wcfcourier-2022-07-29T22:58:24.608843-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wcfcourier-2022-07-29T22:58:24.608843-05:00.jpg",
+      "mtime": "1659196980",
+      "size": "12035",
+      "md5": "186155b67b7d6c9f7461d44839ce9dae",
+      "crc32": "16206953",
+      "sha1": "d26dcca54f469b58b27efe28594d333114feb85b"
+    },
+    {
+      "name": "wcfcourier-2022-07-30T11:02:02.940682-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659196930",
+      "size": "26119",
+      "md5": "c1fbf56b2da3e68872c8cef339ff5700",
+      "crc32": "3e16e756",
+      "sha1": "47ad144e96d8b130c8733a72c15bb5118f1e9488",
+      "format": "JSON"
+    },
+    {
+      "name": "wcfcourier-2022-07-30T11:02:02.940682-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659196931",
+      "size": "78359",
+      "md5": "33e18fddc9ad1a9f58d2cd3086b3ead0",
+      "crc32": "ca2ed0d2",
+      "sha1": "8d376fc7abb3e722d384c1ccbe70e366d90f7ea8",
+      "format": "JSON"
+    },
+    {
+      "name": "wcfcourier-2022-07-30T11:02:02.940682-05:00.jpg",
+      "source": "original",
+      "mtime": "1659196928",
+      "size": "301028",
+      "md5": "4591d0a2ae3ac5b3ea53dc62d9fef29d",
+      "crc32": "60d35396",
+      "sha1": "064d25da1e7112ba9de30bc8daf504d706e38cdc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wcfcourier-2022-07-30T11:02:02.940682-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659196933",
+      "size": "1459",
+      "md5": "34fb047f806fd979d0ec380bd84912f3",
+      "crc32": "64c5ff67",
+      "sha1": "ed7915cbad1e8c0d0cc3fe32f2ee17585c37b50e",
+      "format": "JSON"
+    },
+    {
       "name": "wcfcourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bb44048fba4543d51a0ed8f2b5bbf6f18dfd0833",
-      "mtime": "1659153560",
-      "size": "162247",
-      "md5": "aaf6bdc7a9d89b02e0c09334f549a407",
-      "crc32": "2586c42f",
-      "sha1": "2d07617c2a16942a7c625c6fc80d8f8762c9f96c",
+      "btih": "5931ca5af6a556c15583c7ac0566b948508e8975",
+      "mtime": "1659197024",
+      "size": "163317",
+      "md5": "f3d9292bb79b5181253357de1b68ee52",
+      "crc32": "35b18bad",
+      "sha1": "460d80a3f21bb683de788d775ee4d8d2cc8ca35b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wcfcourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "93eecd846151a729d602bb92bce78325",
+      "md5": "6897dec87cbc8e368860ec9c4e904f3a",
       "summation": "md5"
     },
     {
       "name": "wcfcourier-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659153518",
-      "size": "872448",
-      "md5": "001cbef0bceecbb2cd02ed8cc65b92d0",
-      "crc32": "d99bcbbe",
-      "sha1": "641b8d4d7434de35fefd11215f5859f21b31a337",
+      "mtime": "1659197016",
+      "size": "876544",
+      "md5": "7242937fd941130593480a0863620149",
+      "crc32": "aef1171e",
+      "sha1": "e4516f7365f4b9ead7e82e92e360b0f5bfc1c462",
       "format": "Metadata"
     },
     {
@@ -7971,9 +8023,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 758,
-  "item_last_updated": 1659153560,
-  "item_size": 79103437,
+  "files_count": 763,
+  "item_last_updated": 1659197024,
+  "item_size": 79527603,
   "metadata": {
     "identifier": "wcfcourier-2022",
     "collection": [
@@ -7995,7 +8047,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347696048,
+      "task_id": 3348133286,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8003,13 +8055,13 @@
       "status": "queued"
     }
   ],
-  "uniq": 940697511,
+  "uniq": 404779513,
   "wcfcourier-2022": [
     {
       "url": "https://wcfcourier.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_30_03_39_24.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_30_03_39_24.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_30_15_33_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_30_15_33_34.report.json",
       "summary": {
         "performance": 0.02,
         "accessibility": 0.81,
@@ -8021,10 +8073,10 @@
     {
       "url": "https://wcfcourier.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_30_03_40_37.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_30_03_40_37.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_30_15_35_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_30_15_35_58.report.json",
       "summary": {
-        "performance": 0.02,
+        "performance": 0.03,
         "accessibility": 0.81,
         "best-practices": 0.92,
         "seo": 0.83,
@@ -8034,8 +8086,8 @@
     {
       "url": "https://wcfcourier.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_30_03_37_29.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_30_03_37_29.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_30_15_34_47.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wcfcourier_com-_-2022_07_30_15_34_47.report.json",
       "summary": {
         "performance": 0.02,
         "accessibility": 0.81,

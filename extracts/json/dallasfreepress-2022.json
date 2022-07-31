@@ -1,5 +1,5 @@
 {
-  "created": 1659148660,
+  "created": 1659195701,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/15/items/dallasfreepress-2022",
@@ -1983,31 +1983,83 @@
       "format": "JSON"
     },
     {
+      "name": "dallasfreepress-2022-07-29T21:36:49.855725-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasfreepress-2022-07-29T21:36:49.855725-05:00.jpg",
+      "mtime": "1659195493",
+      "size": "9493",
+      "md5": "2e140bfd1449f8600d26174bad660edb",
+      "crc32": "898d748a",
+      "sha1": "675807a89a5b1e5cae41c7ab1e9389526080b4fa"
+    },
+    {
+      "name": "dallasfreepress-2022-07-30T10:36:55.849952-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659195419",
+      "size": "11532",
+      "md5": "c70c140f8d3a0745124b6c58c644a2f2",
+      "crc32": "a7ef898b",
+      "sha1": "564089c2a3b36796e4fbbd3b896ab823d07bcd97",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-07-30T10:36:55.849952-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659195420",
+      "size": "5551",
+      "md5": "18790e0bd302b58dd7a6f15d0ce3114f",
+      "crc32": "fe7f3944",
+      "sha1": "a794c945b738735aa1bcb828a7cf7615ed03215b",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-07-30T10:36:55.849952-05:00.jpg",
+      "source": "original",
+      "mtime": "1659195417",
+      "size": "264403",
+      "md5": "edf44785434f97996905c48ba3109e39",
+      "crc32": "087f8ccb",
+      "sha1": "b828af95f547d51d585a455e69ce14dcc4892798",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasfreepress-2022-07-30T10:36:55.849952-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659195422",
+      "size": "1494",
+      "md5": "ab46f62216e4902cf611a28b68625599",
+      "crc32": "546efaa6",
+      "sha1": "83ed8faf8c45b515d18e33c3b951f7610ed94842",
+      "format": "JSON"
+    },
+    {
       "name": "dallasfreepress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "af56bba98879b7bd0caecfb10ba143ab0b770806",
-      "mtime": "1659148657",
-      "size": "42443",
-      "md5": "23be4c1c002cafea4a2adca38b6c8fb8",
-      "crc32": "5cadeb10",
-      "sha1": "cf73a2661e68ac1f2f072567f3ab7178ada259de",
+      "btih": "3ad2993db0cfcfd3ad274f3803309b75560709b1",
+      "mtime": "1659195681",
+      "size": "43516",
+      "md5": "0550af4abbe77acbe30bf980ebd00265",
+      "crc32": "a65296e5",
+      "sha1": "34ed4ea838ba63082eb25db52b80530076f94b78",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasfreepress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5e6d7162762efaf694439762b9aabf91",
+      "md5": "64ea4f80dcd749b3753f6b87050edfd2",
       "summation": "md5"
     },
     {
       "name": "dallasfreepress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659148621",
-      "size": "245760",
-      "md5": "e48f2ba74e5ab1b7d5c64e9cf0445bd7",
-      "crc32": "76add69c",
-      "sha1": "78ff9311dbbbe80f5f1f1e685aadf1896abdb79c",
+      "mtime": "1659195677",
+      "size": "253952",
+      "md5": "215f472b26125943839041d9c826ca97",
+      "crc32": "4c7074c8",
+      "sha1": "234efada07a58d18a3d1e2e492a8710e09c64e58",
       "format": "Metadata"
     },
     {
@@ -2021,9 +2073,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 193,
-  "item_last_updated": 1659148657,
-  "item_size": 12830991,
+  "files_count": 198,
+  "item_last_updated": 1659195681,
+  "item_size": 13132729,
   "metadata": {
     "identifier": "dallasfreepress-2022",
     "collection": [
@@ -2045,7 +2097,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347651765,
+      "task_id": 3348119508,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2053,7 +2105,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 614212120,
+  "uniq": 1904049688,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

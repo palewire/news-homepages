@@ -1,5 +1,5 @@
 {
-  "created": 1659144193,
+  "created": 1659224437,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/31/items/theathletic-2022",
@@ -985,31 +985,83 @@
       "format": "JSON"
     },
     {
+      "name": "theathletic-2022-07-29T21:22:19.682297-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theathletic-2022-07-29T21:22:19.682297-04:00.jpg",
+      "mtime": "1659188347",
+      "size": "9462",
+      "md5": "87f8e641bed2d6b34a424f5fd7ea7fd9",
+      "crc32": "2fb53a46",
+      "sha1": "0ecf53ff44214401f85e0b06bcff6ac783f7e9db"
+    },
+    {
+      "name": "theathletic-2022-07-30T09:35:37.633229-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659188140",
+      "size": "42556",
+      "md5": "8d7c17afd2e783fc170adc947fbe5188",
+      "crc32": "5ca5ae14",
+      "sha1": "835f5022f08edc5dce78b11426a211cb4a6e4f10",
+      "format": "JSON"
+    },
+    {
+      "name": "theathletic-2022-07-30T09:35:37.633229-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659188141",
+      "size": "37442",
+      "md5": "953cf7124b3ccad891e2bec3fb3633c1",
+      "crc32": "0290bbdd",
+      "sha1": "6b65bd48c3190083caf934d11055790bb9cc953d",
+      "format": "JSON"
+    },
+    {
+      "name": "theathletic-2022-07-30T09:35:37.633229-04:00.jpg",
+      "source": "original",
+      "mtime": "1659188138",
+      "size": "228602",
+      "md5": "92b1b72d09fc557eee31d5c71de0388b",
+      "crc32": "80ebc8bb",
+      "sha1": "defed5c6802de0bcb6692ef1c2318bbc4386b003",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theathletic-2022-07-30T09:35:37.633229-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659188143",
+      "size": "1459",
+      "md5": "0a8b25b0daca287e5fdd6e7acad6985a",
+      "crc32": "19247299",
+      "sha1": "843a253812b610fe384a4d50e3707d2679f77dac",
+      "format": "JSON"
+    },
+    {
       "name": "theathletic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b8f7b8be18150ffff95418e48d59e77c40a254bc",
-      "mtime": "1659144189",
-      "size": "21513",
-      "md5": "e657a5ecb3a2bbaf421e8f7d4223ed56",
-      "crc32": "4d5f4d5a",
-      "sha1": "354bff2a70610bf7c50c985bce30e8509faedaf0",
+      "btih": "b06ee665e1bcc3e081365fcd284cbf2a733f826b",
+      "mtime": "1659188401",
+      "size": "22567",
+      "md5": "d2baa1d2651757639c906a1b2fd0df6d",
+      "crc32": "9e888926",
+      "sha1": "f6ab0a363a51b7c178f64a3cbb4727c3f86fe88f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theathletic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "31494706bcd34be916d448743d67a4e4",
+      "md5": "2cb339de0c5417ee8210c4253e9335d1",
       "summation": "md5"
     },
     {
       "name": "theathletic-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659144150",
-      "size": "139264",
-      "md5": "6fba260fd5009d32bbef092017a12152",
-      "crc32": "60d77d38",
-      "sha1": "a1c38ab12f4d7c942a3f8854258bfdfc7009952e",
+      "mtime": "1659188399",
+      "size": "143360",
+      "md5": "819fcffe0df18cfd7ffcc3efc5ac671a",
+      "crc32": "6c1c8c72",
+      "sha1": "9f52edfce7b406b944147e86fedfb3d357606bb8",
       "format": "Metadata"
     },
     {
@@ -1023,9 +1075,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 98,
-  "item_last_updated": 1659144189,
-  "item_size": 6860094,
+  "files_count": 103,
+  "item_last_updated": 1659188401,
+  "item_size": 7184765,
   "metadata": {
     "identifier": "theathletic-2022",
     "collection": [
@@ -1047,7 +1099,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347605319,
+      "task_id": 3348057058,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1055,7 +1107,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 582736668,
+  "uniq": 336037796,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

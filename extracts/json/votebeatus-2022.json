@@ -1,5 +1,5 @@
 {
-  "created": 1659184584,
+  "created": 1659228097,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/5/items/votebeatus-2022",
@@ -5037,31 +5037,83 @@
       "format": "JSON"
     },
     {
+      "name": "votebeatus-2022-07-29T21:25:39.133849-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "votebeatus-2022-07-29T21:25:39.133849-04:00.jpg",
+      "mtime": "1659188471",
+      "size": "9300",
+      "md5": "b3078343cda43054dfebf4c6dd8313a7",
+      "crc32": "6f6423d5",
+      "sha1": "90d7b89429ab6016ecce4e9e30eecabb939f730a"
+    },
+    {
+      "name": "votebeatus-2022-07-30T09:37:55.572103-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659188282",
+      "size": "45637",
+      "md5": "3d866b418714321b912fa098807fb141",
+      "crc32": "0d303104",
+      "sha1": "5bad55801c7fb44e90148b9028537d81a56df4d4",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-07-30T09:37:55.572103-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659188284",
+      "size": "56095",
+      "md5": "bc017ef630b0bce8b58c0b094acf4070",
+      "crc32": "b15596b3",
+      "sha1": "19d6cdc5cf5c9261de783d30e59abd235a5e8244",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-07-30T09:37:55.572103-04:00.jpg",
+      "source": "original",
+      "mtime": "1659188280",
+      "size": "233300",
+      "md5": "ef027e1a1782c5a69430438fecf7bfae",
+      "crc32": "4f7fe828",
+      "sha1": "1fe85cddcd0aabc101446b3c7d9f1423105f34e2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "votebeatus-2022-07-30T09:37:55.572103-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659188285",
+      "size": "1465",
+      "md5": "a9f0f7ea953c8a828510b485e657d883",
+      "crc32": "e67c3091",
+      "sha1": "beabb902a7df2a1eed630eb44690751ba459f756",
+      "format": "JSON"
+    },
+    {
       "name": "votebeatus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "08143350215abb00d330fdec6a1e7145ca1f0329",
-      "mtime": "1659144397",
-      "size": "103427",
-      "md5": "54de37dc4de0a9069833acea0e46cfc7",
-      "crc32": "66794eb5",
-      "sha1": "1805fa2412a24446e0350353b39325665cd56be2",
+      "btih": "268626976542cf0764a168a327a25661faceafb5",
+      "mtime": "1659188567",
+      "size": "104496",
+      "md5": "f868cb2a2758cc4a152935b20446c3d2",
+      "crc32": "a7f374b8",
+      "sha1": "fdd2ac3c3ea91ec72639fc0b8e2ca6575b472862",
       "format": "Archive BitTorrent"
     },
     {
       "name": "votebeatus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "30e20aa3427f476520956df1cdd9b455",
+      "md5": "0ab82a52358a7ba67732c62efdb9ba7e",
       "summation": "md5"
     },
     {
       "name": "votebeatus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659144354",
-      "size": "581632",
-      "md5": "fa3dc506c9e0484bbdd29d6908b48839",
-      "crc32": "bc4157f2",
-      "sha1": "18c316616dc50b818839c13601dd4ed60abae5ea",
+      "mtime": "1659188562",
+      "size": "585728",
+      "md5": "ef09161dbf31c95390b7e4bba532aff0",
+      "crc32": "039a96fa",
+      "sha1": "aa2a47f05f2ead42782483f6e0a4b30e24500dcc",
       "format": "Metadata"
     },
     {
@@ -5075,9 +5127,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 484,
-  "item_last_updated": 1659144397,
-  "item_size": 39628328,
+  "files_count": 489,
+  "item_last_updated": 1659188567,
+  "item_size": 39979290,
   "metadata": {
     "identifier": "votebeatus-2022",
     "collection": [
@@ -5099,7 +5151,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347607607,
+      "task_id": 3348058388,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5107,15 +5159,15 @@
       "status": "queued"
     }
   ],
-  "uniq": 1990265798,
+  "uniq": 1536179154,
   "votebeatus-2022": [
     {
       "url": "https://www.votebeat.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_votebeat_org-_-2022_07_30_01_07_02.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_votebeat_org-_-2022_07_30_01_07_02.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_votebeat_org-_-2022_07_30_13_18_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_votebeat_org-_-2022_07_30_13_18_34.report.json",
       "summary": {
-        "performance": 0.34,
+        "performance": 0.27,
         "accessibility": 0.9,
         "best-practices": 1,
         "seo": 0.98,
@@ -5125,10 +5177,10 @@
     {
       "url": "https://www.votebeat.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_votebeat_org-_-2022_07_30_01_07_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_votebeat_org-_-2022_07_30_01_07_20.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_votebeat_org-_-2022_07_30_13_18_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_votebeat_org-_-2022_07_30_13_18_51.report.json",
       "summary": {
-        "performance": 0.41,
+        "performance": 0.54,
         "accessibility": 0.9,
         "best-practices": 1,
         "seo": 0.98,
@@ -5138,10 +5190,10 @@
     {
       "url": "https://www.votebeat.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_votebeat_org-_-2022_07_30_01_07_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_votebeat_org-_-2022_07_30_01_07_38.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_votebeat_org-_-2022_07_30_13_19_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_votebeat_org-_-2022_07_30_13_19_07.report.json",
       "summary": {
-        "performance": 0.37,
+        "performance": 0.47,
         "accessibility": 0.9,
         "best-practices": 1,
         "seo": 0.98,

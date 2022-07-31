@@ -3,10 +3,10 @@
     {
       "url": "https://www.apmreports.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_apmreports_org-_-2022_07_30_00_54_50.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_apmreports_org-_-2022_07_30_00_54_50.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_apmreports_org-_-2022_07_30_13_05_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_apmreports_org-_-2022_07_30_13_05_52.report.json",
       "summary": {
-        "performance": 0.53,
+        "performance": 0.46,
         "accessibility": 0.97,
         "best-practices": 1,
         "seo": 0.99,
@@ -16,10 +16,10 @@
     {
       "url": "https://www.apmreports.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_apmreports_org-_-2022_07_30_00_55_06.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_apmreports_org-_-2022_07_30_00_55_06.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_apmreports_org-_-2022_07_30_13_06_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_apmreports_org-_-2022_07_30_13_06_07.report.json",
       "summary": {
-        "performance": 0.62,
+        "performance": 0.63,
         "accessibility": 0.97,
         "best-practices": 1,
         "seo": 0.99,
@@ -29,10 +29,10 @@
     {
       "url": "https://www.apmreports.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_apmreports_org-_-2022_07_30_00_55_21.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_apmreports_org-_-2022_07_30_00_55_21.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_apmreports_org-_-2022_07_30_13_06_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_apmreports_org-_-2022_07_30_13_06_21.report.json",
       "summary": {
-        "performance": 0.62,
+        "performance": 0.57,
         "accessibility": 0.97,
         "best-practices": 1,
         "seo": 0.99,
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "created": 1659183598,
+  "created": 1659227092,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/32/items/apmreports-2022",
@@ -4784,31 +4784,83 @@
       "format": "JSON"
     },
     {
+      "name": "apmreports-2022-07-29T20:17:44.416250-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "apmreports-2022-07-29T20:17:44.416250-05:00.jpg",
+      "mtime": "1659187846",
+      "size": "11013",
+      "md5": "b6c17ae7d7c48f70b3108edb5e826368",
+      "crc32": "5b7ace75",
+      "sha1": "595d25a9b61e3589f32843d6d1caaf3cd7834e0f"
+    },
+    {
+      "name": "apmreports-2022-07-30T08:30:17.843428-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659187821",
+      "size": "13690",
+      "md5": "2e9bfcfe2e77612e0a6927703d9d4f04",
+      "crc32": "0ff49d97",
+      "sha1": "0e116189136749e52b7a27565389d5b720c7c0da",
+      "format": "JSON"
+    },
+    {
+      "name": "apmreports-2022-07-30T08:30:17.843428-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659187823",
+      "size": "10979",
+      "md5": "5c680c021f54c3af6fc0095f934b797a",
+      "crc32": "a0db4c2b",
+      "sha1": "432141e08e70a4a906b96716c78773fc223676b2",
+      "format": "JSON"
+    },
+    {
+      "name": "apmreports-2022-07-30T08:30:17.843428-05:00.jpg",
+      "source": "original",
+      "mtime": "1659187819",
+      "size": "323393",
+      "md5": "0062b34060794baf8fb92aa47e72df0c",
+      "crc32": "628b8cd7",
+      "sha1": "cb243b89b5719e7a46b6ecf6c6b3325b6e5ed32f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "apmreports-2022-07-30T08:30:17.843428-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659187824",
+      "size": "1486",
+      "md5": "a24b41e29ccade30b07d558693375c33",
+      "crc32": "0e879056",
+      "sha1": "5b2200d4507934e95c57743a42a1fb36bad3c0f6",
+      "format": "JSON"
+    },
+    {
       "name": "apmreports-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7266b29348bdb6ef2f2f924b7ae70d1a18de6873",
-      "mtime": "1659143915",
-      "size": "97699",
-      "md5": "d95d881ab2cebe6f036e0c01bc1d2992",
-      "crc32": "86c5ed78",
-      "sha1": "e79a3dbbb0ef0f4980a568d26e706834b347eb04",
+      "btih": "1effca220985ba3c690a736c615a8f5bab5ccfa9",
+      "mtime": "1659187874",
+      "size": "98749",
+      "md5": "c86b7cd8f559c6c3e7023629fb0b5048",
+      "crc32": "ba36850e",
+      "sha1": "7d05ce56be18c49aa26c2d74e7d24fa1ec9067c7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "apmreports-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7b9554d0ef561c5616a1fc4f4b4cc94d",
+      "md5": "3112308950bbb484b0605e2c70d05e04",
       "summation": "md5"
     },
     {
       "name": "apmreports-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659143876",
-      "size": "544768",
-      "md5": "de9b015106c307b74434f98af83f89d0",
-      "crc32": "0ef186e9",
-      "sha1": "edc98b3a62e9a47bc3d9a6f03c40921df0a29229",
+      "mtime": "1659187869",
+      "size": "548864",
+      "md5": "fb4a9a5cf6c034b5b67df6c2c5120c32",
+      "crc32": "96e5b0b4",
+      "sha1": "b017a97994d2115a7d9353c6c90bed9c01cc9ed9",
       "format": "Metadata"
     },
     {
@@ -4822,9 +4874,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 456,
-  "item_last_updated": 1659143915,
-  "item_size": 40015125,
+  "files_count": 461,
+  "item_last_updated": 1659187874,
+  "item_size": 40380832,
   "metadata": {
     "identifier": "apmreports-2022",
     "collection": [
@@ -4846,7 +4898,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347602271,
+      "task_id": 3348052054,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4854,7 +4906,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1688791364,
+  "uniq": 1921744655,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

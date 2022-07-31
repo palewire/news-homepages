@@ -1,5 +1,5 @@
 {
-  "created": 1659183864,
+  "created": 1659227356,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/15/items/frednewspost-2022",
@@ -8599,31 +8599,83 @@
       "format": "JSON"
     },
     {
+      "name": "frednewspost-2022-07-29T22:38:24.110353-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "frednewspost-2022-07-29T22:38:24.110353-04:00.jpg",
+      "mtime": "1659195714",
+      "size": "9625",
+      "md5": "ee09b1f750dbfc87e3faaafeff461297",
+      "crc32": "bdf84b9b",
+      "sha1": "b8f2b11805fd00546d5ff8670acb6bde3b576c23"
+    },
+    {
+      "name": "frednewspost-2022-07-30T11:39:23.381001-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659195570",
+      "size": "40803",
+      "md5": "04b629a85834baeee2537a5bbd066603",
+      "crc32": "a96c752e",
+      "sha1": "7eb383d5ed0a0e0ce3c55d9d79e68a729646169b",
+      "format": "JSON"
+    },
+    {
+      "name": "frednewspost-2022-07-30T11:39:23.381001-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659195571",
+      "size": "94579",
+      "md5": "0b3ca5df386c7c77dbb758b548177462",
+      "crc32": "572e7637",
+      "sha1": "0239dba60de9afc6bdec67626505cbdd05789101",
+      "format": "JSON"
+    },
+    {
+      "name": "frednewspost-2022-07-30T11:39:23.381001-04:00.jpg",
+      "source": "original",
+      "mtime": "1659195569",
+      "size": "323837",
+      "md5": "cc202dd38b15d73a2d96ca27400a6546",
+      "crc32": "1ffce130",
+      "sha1": "2d8df45d417eae6bdecf1d04d46cd1863b71e67f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "frednewspost-2022-07-30T11:39:23.381001-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659195573",
+      "size": "1557",
+      "md5": "9c0854ff4fd5e73db888fc8ab5d18cf7",
+      "crc32": "fc042f7a",
+      "sha1": "f929886049f3f99c3bb984cefdfd14f921018eec",
+      "format": "JSON"
+    },
+    {
       "name": "frednewspost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a122dac58c551ae6d6d9397a68e02f59b0b6b5ee",
-      "mtime": "1659148758",
-      "size": "178225",
-      "md5": "033fa107b0ffc522a3f78cd10e56530d",
-      "crc32": "580fe263",
-      "sha1": "0174108e39a1b7c94aaec73bb6aa4d413ed990c8",
+      "btih": "420e5a2e4337229ea5f415fab5e54bb44cf3f8ea",
+      "mtime": "1659195788",
+      "size": "179284",
+      "md5": "be2c3be69cf97d086baceb4a58447971",
+      "crc32": "5d6c0566",
+      "sha1": "52e0ab0949c2597e6061c12fd9476ff7b5817c78",
       "format": "Archive BitTorrent"
     },
     {
       "name": "frednewspost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "85859e827cdc0c47bb5049f2a5785bb0",
+      "md5": "116d9d0f3bd6b73582ca4888aed12065",
       "summation": "md5"
     },
     {
       "name": "frednewspost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659148716",
-      "size": "962560",
-      "md5": "9197dd8001ec4823351bce1ab7f1b93c",
-      "crc32": "58f77298",
-      "sha1": "91700809e1caefefeda7bd3d62748c8b038e7e9d",
+      "mtime": "1659195779",
+      "size": "966656",
+      "md5": "94665a3429d42d6a365e8b47d4103c96",
+      "crc32": "f0f77c75",
+      "sha1": "d27499f5bbe9454273612203182bc9f642530583",
       "format": "Metadata"
     },
     {
@@ -8637,17 +8689,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 823,
+  "files_count": 828,
   "frednewspost-2022": [
     {
       "url": "https://www.fredericknewspost.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fredericknewspost_com-_-2022_07_30_02_13_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fredericknewspost_com-_-2022_07_30_02_13_38.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fredericknewspost_com-_-2022_07_30_14_22_44.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fredericknewspost_com-_-2022_07_30_14_22_44.report.json",
       "summary": {
-        "performance": 0.2,
+        "performance": 0.19,
         "accessibility": 0.93,
-        "best-practices": 0.83,
+        "best-practices": 0.75,
         "seo": 0.83,
         "pwa": 0.2
       }
@@ -8655,12 +8707,12 @@
     {
       "url": "https://www.fredericknewspost.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fredericknewspost_com-_-2022_07_30_02_17_15.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fredericknewspost_com-_-2022_07_30_02_17_15.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fredericknewspost_com-_-2022_07_30_14_24_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fredericknewspost_com-_-2022_07_30_14_24_31.report.json",
       "summary": {
         "performance": 0.2,
         "accessibility": 0.93,
-        "best-practices": 0.83,
+        "best-practices": 0.75,
         "seo": 0.83,
         "pwa": 0.2
       }
@@ -8668,19 +8720,19 @@
     {
       "url": "https://www.fredericknewspost.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fredericknewspost_com-_-2022_07_30_02_15_27.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fredericknewspost_com-_-2022_07_30_02_15_27.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fredericknewspost_com-_-2022_07_30_14_26_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fredericknewspost_com-_-2022_07_30_14_26_19.report.json",
       "summary": {
-        "performance": 0.2,
+        "performance": 0.21,
         "accessibility": 0.93,
-        "best-practices": 0.83,
+        "best-practices": 0.75,
         "seo": 0.83,
         "pwa": 0.2
       }
     }
   ],
-  "item_last_updated": 1659148758,
-  "item_size": 97203829,
+  "item_last_updated": 1659195788,
+  "item_size": 97679385,
   "metadata": {
     "identifier": "frednewspost-2022",
     "collection": [
@@ -8702,7 +8754,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347652521,
+      "task_id": 3348120540,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8710,7 +8762,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 243661456,
+  "uniq": 1204589301,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

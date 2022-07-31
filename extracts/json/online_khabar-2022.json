@@ -1,5 +1,5 @@
 {
-  "created": 1659184149,
+  "created": 1659227550,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/23/items/online_khabar-2022",
@@ -681,31 +681,83 @@
       "format": "JSON"
     },
     {
+      "name": "online_khabar-2022-07-30T18:12:46.678931+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "online_khabar-2022-07-30T18:12:46.678931+05:45.jpg",
+      "mtime": "1659225484",
+      "size": "9822",
+      "md5": "fb5b5af1592410b4d78899fb89c4f250",
+      "crc32": "7c8321a6",
+      "sha1": "70d9a116777d8979f56d10486df71ac68ceccf26"
+    },
+    {
+      "name": "online_khabar-2022-07-31T06:16:43.666548+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659227506",
+      "size": "91478",
+      "md5": "5506af308b7913f47e2548b13df37b57",
+      "crc32": "2899611a",
+      "sha1": "03de5d9bcfc3558b72bf003e421bbe189680d42f",
+      "format": "JSON"
+    },
+    {
+      "name": "online_khabar-2022-07-31T06:16:43.666548+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659227508",
+      "size": "83786",
+      "md5": "1af14d000b6f37b5a49e3c65e75ece11",
+      "crc32": "9c3888d7",
+      "sha1": "0f94912957074f5d93898b6c26e90771db0dc4da",
+      "format": "JSON"
+    },
+    {
+      "name": "online_khabar-2022-07-31T06:16:43.666548+05:45.jpg",
+      "source": "original",
+      "mtime": "1659227505",
+      "size": "285017",
+      "md5": "fb0d1691b675b6bb1dd62f823c821e9f",
+      "crc32": "a4af8c75",
+      "sha1": "34a746bb30cfb87df8024485476c51ce4a26c976",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "online_khabar-2022-07-31T06:16:43.666548+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659227509",
+      "size": "1512",
+      "md5": "55319c6856a8ee30e2ddf2524cca5711",
+      "crc32": "a8a7bfb5",
+      "sha1": "68b19d16bff170c0aca65b42e1244f2f6e7df20d",
+      "format": "JSON"
+    },
+    {
       "name": "online_khabar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "79e28750b5d6a764cd4d742cc2efae9015acae69",
-      "mtime": "1659184139",
-      "size": "15539",
-      "md5": "1ac81d95e3b3430838f4ed4155bdbdee",
-      "crc32": "dcce359b",
-      "sha1": "a0bd1b86174272765445561d6180a654bf5145d2",
+      "btih": "dc69fbdd689a1ca7f91752b7ee269e0ba3a685ba",
+      "mtime": "1659227547",
+      "size": "16623",
+      "md5": "8123afa945608423b4d1e8f70c69991f",
+      "crc32": "130096bd",
+      "sha1": "3da9950c2e4af99fc1661a315314bda7c0eec93f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "online_khabar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cf8320c56053a79c48fab8eb4c461eb0",
+      "md5": "159436648e0935ed312f6bfb91d87e01",
       "summation": "md5"
     },
     {
       "name": "online_khabar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659184137",
-      "size": "102400",
-      "md5": "bcd9800498624ec77b186be41c6e9616",
-      "crc32": "60ed1c9c",
-      "sha1": "1d953960ff966f9d635248b93b45100925edefab",
+      "mtime": "1659227514",
+      "size": "106496",
+      "md5": "b33b146177d99fb6f763876fa68f1b8d",
+      "crc32": "e2aa8c82",
+      "sha1": "51c165752815759900b5e2427b806f888cf8c7bc",
       "format": "Metadata"
     },
     {
@@ -719,9 +771,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 69,
-  "item_last_updated": 1659184139,
-  "item_size": 5924845,
+  "files_count": 74,
+  "item_last_updated": 1659227547,
+  "item_size": 6401640,
   "metadata": {
     "identifier": "online_khabar-2022",
     "collection": [
@@ -743,7 +795,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348017664,
+      "task_id": 3348394738,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -751,7 +803,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1740419575,
+  "uniq": 1811661121,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]

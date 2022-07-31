@@ -1,5 +1,5 @@
 {
-  "created": 1659153183,
+  "created": 1659196858,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/29/items/ringer-2022",
@@ -4639,31 +4639,83 @@
       "format": "JSON"
     },
     {
+      "name": "ringer-2022-07-29T20:52:09.425826-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ringer-2022-07-29T20:52:09.425826-07:00.jpg",
+      "mtime": "1659196721",
+      "size": "10712",
+      "md5": "d758792fb8b2e3445b0dfbc6145996be",
+      "crc32": "79359458",
+      "sha1": "9fafac791ce2ff802e00b96b388ac14ae6d02bb0"
+    },
+    {
+      "name": "ringer-2022-07-30T08:56:09.870263-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659196573",
+      "size": "47749",
+      "md5": "6110f3bb5a1a892005310f484a3412f7",
+      "crc32": "cecb6e87",
+      "sha1": "37010ccf49c7cd0ddc9511ac10d171e12ea94fb1",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-07-30T08:56:09.870263-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659196575",
+      "size": "59830",
+      "md5": "2e15431f21103ce773b864637ebd31d3",
+      "crc32": "c8cb9b7f",
+      "sha1": "15f64278add500b2ed7db13b17a4f237961be04c",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-07-30T08:56:09.870263-07:00.jpg",
+      "source": "original",
+      "mtime": "1659196571",
+      "size": "319808",
+      "md5": "135b8bb550725843ad2af47ba96cc272",
+      "crc32": "03726bdd",
+      "sha1": "4849225a42e01e55ae472a05b0884a361ea3bc72",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ringer-2022-07-30T08:56:09.870263-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659196577",
+      "size": "1486",
+      "md5": "ccb74a11c09222efe4eb37964bd18bdb",
+      "crc32": "80940c56",
+      "sha1": "c8424dca2db22cc7254cf35caf5bead1e745c449",
+      "format": "JSON"
+    },
+    {
       "name": "ringer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f9f19ad5286f6f51e0d3d8247810bd5f7214017d",
-      "mtime": "1659153179",
-      "size": "94068",
-      "md5": "2d48419d6a2394469bb4c966b9981cb7",
-      "crc32": "036875d4",
-      "sha1": "c4992eac7c64415c66fe67a0470c2409148b5101",
+      "btih": "a264f4a0b79ad66016125d7a2ba95fbbc1cb3978",
+      "mtime": "1659196848",
+      "size": "95118",
+      "md5": "8440807338abe14c2c8e331ce2e846d4",
+      "crc32": "a341b147",
+      "sha1": "0858030f75fc52f2259f7dcdd7aee3f6d688f090",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ringer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "455fccae3c39aabf846b72b4121872f1",
+      "md5": "3c8ba553fa28fc43527f6687adf182c4",
       "summation": "md5"
     },
     {
       "name": "ringer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659153141",
-      "size": "532480",
-      "md5": "8289905716eace08f3d2f35dd5cf8a05",
-      "crc32": "424a97e1",
-      "sha1": "bc9c25d7099da7d85245acfe232b9c791ace9ecf",
+      "mtime": "1659196842",
+      "size": "536576",
+      "md5": "19eeeb05dd02bb6d1a1f5a48c7708e8c",
+      "crc32": "86edaf8c",
+      "sha1": "5ec20ac140de87b363d35468544e8f1e0ace1742",
       "format": "Metadata"
     },
     {
@@ -4677,9 +4729,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 446,
-  "item_last_updated": 1659153179,
-  "item_size": 47366630,
+  "files_count": 451,
+  "item_last_updated": 1659196848,
+  "item_size": 47811361,
   "metadata": {
     "identifier": "ringer-2022",
     "collection": [
@@ -4701,7 +4753,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347693008,
+      "task_id": 3348129431,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4709,7 +4761,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2054216705,
+  "uniq": 2134141713,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659179649,
+  "created": 1659222984,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/10/items/brunswick_news-2022",
@@ -1017,31 +1017,83 @@
       "format": "JSON"
     },
     {
+      "name": "brunswick_news-2022-07-30T07:12:11.905735-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brunswick_news-2022-07-30T07:12:11.905735-04:00.jpg",
+      "mtime": "1659222928",
+      "size": "8810",
+      "md5": "1f02b7e43f0f95d4e17c7783e01ae4b0",
+      "crc32": "6fda7259",
+      "sha1": "3256773b99e51c466ec92e9b741a218dd31e48ee"
+    },
+    {
+      "name": "brunswick_news-2022-07-30T19:14:21.093301-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659222864",
+      "size": "25851",
+      "md5": "7953453426707eb02a1b2406800100c3",
+      "crc32": "c1805b3d",
+      "sha1": "9b38f51a19d173cce4e6092f0ee5d876bee8d32e",
+      "format": "JSON"
+    },
+    {
+      "name": "brunswick_news-2022-07-30T19:14:21.093301-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659222865",
+      "size": "73861",
+      "md5": "d08c6da6ba5b1a2a9c420735ea185c38",
+      "crc32": "ab22736c",
+      "sha1": "1e3370c45820c8bf57432fc8553960c4383bd96b",
+      "format": "JSON"
+    },
+    {
+      "name": "brunswick_news-2022-07-30T19:14:21.093301-04:00.jpg",
+      "source": "original",
+      "mtime": "1659222862",
+      "size": "279257",
+      "md5": "dedd7632942c306f68697bfe821629f0",
+      "crc32": "5c70ea22",
+      "sha1": "e34f2e3175fc5912db9079380400caf0acb92bdb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brunswick_news-2022-07-30T19:14:21.093301-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659222867",
+      "size": "1513",
+      "md5": "94bb8e4ae8cb7abf8e41ab0acb785f86",
+      "crc32": "30fe1494",
+      "sha1": "e2ed605c3ff595f994eb3f0bf5981cdb06706892",
+      "format": "JSON"
+    },
+    {
       "name": "brunswick_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "19a75ede163d8ab56edeb7cf63d506156b3ce98e",
-      "mtime": "1659179637",
-      "size": "22489",
-      "md5": "8e799b15ece21d4c7b63fa2617a15e23",
-      "crc32": "f1f883f6",
-      "sha1": "96a284412005b5b9291c61bde79ab5921687d01f",
+      "btih": "8591be6633ac257dfc933251654b09b22efb1632",
+      "mtime": "1659222978",
+      "size": "23578",
+      "md5": "fcf50b82946360233c09265c01d18a18",
+      "crc32": "b5ffdae4",
+      "sha1": "b652d654db8c8aba0f6c9e0d8e73dc1224f9b62f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brunswick_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "af9182102ea1ad620a4d7cd90a2c8b96",
+      "md5": "1d295965ca0810d2de3efe474a3c8a1a",
       "summation": "md5"
     },
     {
       "name": "brunswick_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659179635",
-      "size": "143360",
-      "md5": "d1ce2184a2df18a8cb2836bea4dec09f",
-      "crc32": "a072f2e4",
-      "sha1": "fc3ccbbdd6ed6d6cba1b78cf363072c684b27f4b",
+      "mtime": "1659222975",
+      "size": "147456",
+      "md5": "f02066775950b0652272db447755c81b",
+      "crc32": "da025425",
+      "sha1": "ee9681c676c61607295f68fea0a6a0f5d157a191",
       "format": "Metadata"
     },
     {
@@ -1055,9 +1107,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 101,
-  "item_last_updated": 1659179637,
-  "item_size": 8388728,
+  "files_count": 106,
+  "item_last_updated": 1659222978,
+  "item_size": 8783205,
   "metadata": {
     "identifier": "brunswick_news-2022",
     "collection": [
@@ -1079,7 +1131,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347983461,
+      "task_id": 3348362956,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1087,7 +1139,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1039075438,
+  "uniq": 816776953,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

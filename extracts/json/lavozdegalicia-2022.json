@@ -1,5 +1,5 @@
 {
-  "created": 1659149030,
+  "created": 1659196130,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/13/items/lavozdegalicia-2022",
@@ -213,31 +213,83 @@
       "format": "JSON"
     },
     {
+      "name": "lavozdegalicia-2022-07-30T04:42:59.903982+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lavozdegalicia-2022-07-30T04:42:59.903982+02:00.jpg",
+      "mtime": "1659195991",
+      "size": "6958",
+      "md5": "ccf427986a7be241c020287ddeaf3613",
+      "crc32": "44a8e6b9",
+      "sha1": "d6351fd46b2c4088d27546de5f1418763ed71edd"
+    },
+    {
+      "name": "lavozdegalicia-2022-07-30T17:42:49.581792+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659195772",
+      "size": "70894",
+      "md5": "5c3c4665acb3f8ae05534145d264a326",
+      "crc32": "0a9e73da",
+      "sha1": "826072298aa47a29f060bf97a0a3a11bf7fa0c09",
+      "format": "JSON"
+    },
+    {
+      "name": "lavozdegalicia-2022-07-30T17:42:49.581792+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659195774",
+      "size": "76855",
+      "md5": "736555edf5d0a00fe0b681ac6f7e12cd",
+      "crc32": "7b84c746",
+      "sha1": "01a893f0c00858253b645426952befbae372e143",
+      "format": "JSON"
+    },
+    {
+      "name": "lavozdegalicia-2022-07-30T17:42:49.581792+02:00.jpg",
+      "source": "original",
+      "mtime": "1659195771",
+      "size": "171702",
+      "md5": "8660a29da85dac5c4abc6310a53a7cfa",
+      "crc32": "2ff907e3",
+      "sha1": "c288dd0769fed1ca131a5bdb4fddbb2edc9bd7d7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lavozdegalicia-2022-07-30T17:42:49.581792+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659195776",
+      "size": "1521",
+      "md5": "b7159fe1f15fb68ee5653ff285b3aa24",
+      "crc32": "52f08973",
+      "sha1": "502594d33fb477065f75e9fccfbaff83dbc0dfc0",
+      "format": "JSON"
+    },
+    {
       "name": "lavozdegalicia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ae0d756c063aa5091e17b734f14b3279d0883ce9",
-      "mtime": "1659149025",
-      "size": "5785",
-      "md5": "661325f096a6a5b11fcfa7bd403fa4e6",
-      "crc32": "d05984e6",
-      "sha1": "961e73e2edda6e60a00f90549d0c6672538140f0",
+      "btih": "f1eea82e664ee4ff55833270a1f93ef1999c0258",
+      "mtime": "1659196112",
+      "size": "6874",
+      "md5": "f0fe8fe3fc968e531a403edb35c760d7",
+      "crc32": "b57a53a4",
+      "sha1": "4802fa3174b8725bdea81719df03708562d4e09a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lavozdegalicia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "149f55a4d4cbce03636518784ed36446",
+      "md5": "40c7012f1c4c85ddf80e0963096e9bdb",
       "summation": "md5"
     },
     {
       "name": "lavozdegalicia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659148990",
-      "size": "45056",
-      "md5": "10171ddf84fa06885c47ae8acbd18729",
-      "crc32": "04c88a65",
-      "sha1": "878ccc3785a94af859d4988bc60eedc1bdadcd7f",
+      "mtime": "1659196109",
+      "size": "49152",
+      "md5": "4cd6b14a48686b382f85ca4aa1cd4f71",
+      "crc32": "a0973fd4",
+      "sha1": "4d4a36dd952e6066e131ad724a9d2b207c0a945f",
       "format": "Metadata"
     },
     {
@@ -251,9 +303,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 24,
-  "item_last_updated": 1659149025,
-  "item_size": 1426289,
+  "files_count": 29,
+  "item_last_updated": 1659196112,
+  "item_size": 1759404,
   "metadata": {
     "identifier": "lavozdegalicia-2022",
     "collection": [
@@ -275,7 +327,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347654965,
+      "task_id": 3348123203,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -283,7 +335,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 530982804,
+  "uniq": 544192519,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

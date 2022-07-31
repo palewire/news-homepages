@@ -1,5 +1,5 @@
 {
-  "created": 1659179575,
+  "created": 1659222818,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/28/items/aldiadallas-2022",
@@ -525,31 +525,83 @@
       "format": "JSON"
     },
     {
+      "name": "aldiadallas-2022-07-30T06:09:02.844692-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aldiadallas-2022-07-30T06:09:02.844692-05:00.jpg",
+      "mtime": "1659222771",
+      "size": "8766",
+      "md5": "746dfb82afa6ee1059a906b7e57aae10",
+      "crc32": "6f6291b5",
+      "sha1": "2a98c354b347368705d509d20f8fa9b3ad614362"
+    },
+    {
+      "name": "aldiadallas-2022-07-30T18:12:16.762087-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659222740",
+      "size": "26460",
+      "md5": "c9e69523bc89c8236d7eb159589fa66b",
+      "crc32": "59b9da35",
+      "sha1": "9ed7db73749479989158416763b26df5d59394ed",
+      "format": "JSON"
+    },
+    {
+      "name": "aldiadallas-2022-07-30T18:12:16.762087-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659222741",
+      "size": "25849",
+      "md5": "c9b2e4ac40b2ad0a0723ed60790d58b6",
+      "crc32": "4d87eabd",
+      "sha1": "d00f4037f76c48348ec7ed02f1bfb022f4c1f181",
+      "format": "JSON"
+    },
+    {
+      "name": "aldiadallas-2022-07-30T18:12:16.762087-05:00.jpg",
+      "source": "original",
+      "mtime": "1659222738",
+      "size": "259221",
+      "md5": "667921f6f205794195912b885191efca",
+      "crc32": "d4a1d1d7",
+      "sha1": "71292a7701134ab8d61bc5c241b4aa53db6f8f58",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aldiadallas-2022-07-30T18:12:16.762087-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659222743",
+      "size": "1630",
+      "md5": "4094bcbd5f7ce0ec6a9484a9167888be",
+      "crc32": "6bef169e",
+      "sha1": "163fcf204ee1139ff60cbab946b5b1f962c2805c",
+      "format": "JSON"
+    },
+    {
       "name": "aldiadallas-2022_archive.torrent",
       "source": "metadata",
-      "btih": "79a529bf224df7a711cecfd3c1f9c7b30c75c9b7",
-      "mtime": "1659179559",
-      "size": "12107",
-      "md5": "dbbf27d580db8a66a27ec52f5e69bb84",
-      "crc32": "60992194",
-      "sha1": "edc5d4efe0df23cd389b8198499d7bfb713c9175",
+      "btih": "9aa3dcd102be30e02e8539dfc5e26fd139d11fc4",
+      "mtime": "1659222808",
+      "size": "13161",
+      "md5": "a4d62d40d145b7ed1549071da6762a25",
+      "crc32": "d47de974",
+      "sha1": "034df635fb00877dd21c0306d283713d7715571a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aldiadallas-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f7e99c3a2f567c97310ac90f2041d31b",
+      "md5": "296e7647470021ffd0dfee478f9267f0",
       "summation": "md5"
     },
     {
       "name": "aldiadallas-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659179557",
-      "size": "77824",
-      "md5": "06ae0511724e0d1f2a236eeafa850a12",
-      "crc32": "940a7c46",
-      "sha1": "d69b6c92026fc4d4484b09b0ca3d79f1017c09c9",
+      "mtime": "1659222806",
+      "size": "81920",
+      "md5": "0273722dd1e35cee87d6f41d5c3a0bd6",
+      "crc32": "81f10d05",
+      "sha1": "638f77cdc7682653132eef4459b785d674038f0b",
       "format": "Metadata"
     },
     {
@@ -563,9 +615,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 54,
-  "item_last_updated": 1659179559,
-  "item_size": 3331584,
+  "files_count": 59,
+  "item_last_updated": 1659222808,
+  "item_size": 3658660,
   "metadata": {
     "identifier": "aldiadallas-2022",
     "collection": [
@@ -587,7 +639,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347982838,
+      "task_id": 3348361754,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -595,7 +647,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 941177781,
+  "uniq": 644105,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

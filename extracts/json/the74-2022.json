@@ -1,5 +1,5 @@
 {
-  "created": 1659184373,
+  "created": 1659227917,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/35/items/the74-2022",
@@ -1917,31 +1917,83 @@
       "format": "JSON"
     },
     {
+      "name": "the74-2022-07-29T21:22:07.206395-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the74-2022-07-29T21:22:07.206395-04:00.jpg",
+      "mtime": "1659188449",
+      "size": "9913",
+      "md5": "b4264b8d5310584a9c2e54948d13318f",
+      "crc32": "44898c3f",
+      "sha1": "e981637b8f3537edd2e40a9f5f67af8cc6a71af6"
+    },
+    {
+      "name": "the74-2022-07-30T09:35:39.904639-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659188142",
+      "size": "30867",
+      "md5": "69af1e6bbdbec4d1a778a3af9685120c",
+      "crc32": "4e81f5a1",
+      "sha1": "9f9b6133e4332d1343afaa0f6ec0bbb4ef04a506",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-07-30T09:35:39.904639-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659188144",
+      "size": "69220",
+      "md5": "9b7643c26ab760b5dd2823a99ad1a8cd",
+      "crc32": "78c0ce7d",
+      "sha1": "beaefa0fb8c670e8e885bd30269e20eac4c0cd7f",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-07-30T09:35:39.904639-04:00.jpg",
+      "source": "original",
+      "mtime": "1659188141",
+      "size": "254467",
+      "md5": "fe25436303d1b770e71805b5b9ec72a7",
+      "crc32": "563bbdc0",
+      "sha1": "584b9f9dc8329c96bb8f3181f943fc189f8a0c30",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the74-2022-07-30T09:35:39.904639-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659188146",
+      "size": "1501",
+      "md5": "7de1752de4741bbbd1c448319aab8610",
+      "crc32": "10545b46",
+      "sha1": "f519a5fd935495900d519b954d92cd624847bccd",
+      "format": "JSON"
+    },
+    {
       "name": "the74-2022_archive.torrent",
       "source": "metadata",
-      "btih": "65680a01a47c4caa862474e507161d4a1f975d61",
-      "mtime": "1659144183",
-      "size": "39448",
-      "md5": "3354ef2ec1b453c7b0bbf5ff682612a8",
-      "crc32": "60d0944e",
-      "sha1": "f0705f576736044198fce764424baf4a2ac32626",
+      "btih": "3bc923c5d960c290aba3327a32007e7ba254e4cf",
+      "mtime": "1659188514",
+      "size": "40472",
+      "md5": "f8697827e6c58b628083a48366ad2970",
+      "crc32": "5525681c",
+      "sha1": "9e0386b824dffa9358bf3aa81e687400c8771fb9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "the74-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "85f0854ef071e0dfb9b15dafaaee8356",
+      "md5": "3bba191d6909b6d3b9939ed4c71f99bd",
       "summation": "md5"
     },
     {
       "name": "the74-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659144146",
-      "size": "241664",
-      "md5": "be0c8dd2b2efad7528587c8cd06997f6",
-      "crc32": "22b1fb88",
-      "sha1": "d5445877b7819f8273af22f6ec306c94d2114f71",
+      "mtime": "1659188511",
+      "size": "245760",
+      "md5": "3ebdc2ee8461486d707e208337b00f89",
+      "crc32": "51b24b20",
+      "sha1": "15a3a4c2469b872d78b4a3fd4531671382f021d8",
       "format": "Metadata"
     },
     {
@@ -1955,9 +2007,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 187,
-  "item_last_updated": 1659144183,
-  "item_size": 15805405,
+  "files_count": 192,
+  "item_last_updated": 1659188514,
+  "item_size": 16176493,
   "metadata": {
     "identifier": "the74-2022",
     "collection": [
@@ -1979,7 +2031,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347605231,
+      "task_id": 3348057931,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1991,10 +2043,10 @@
     {
       "url": "https://www.the74million.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_the74million_org-_-2022_07_30_01_01_40.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_the74million_org-_-2022_07_30_01_01_40.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_the74million_org-_-2022_07_30_13_13_04.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_the74million_org-_-2022_07_30_13_13_04.report.json",
       "summary": {
-        "performance": 0.6,
+        "performance": 0.44,
         "accessibility": 0.8,
         "best-practices": 1,
         "seo": 0.93,
@@ -2004,10 +2056,10 @@
     {
       "url": "https://www.the74million.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_the74million_org-_-2022_07_30_01_01_57.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_the74million_org-_-2022_07_30_01_01_57.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_the74million_org-_-2022_07_30_13_13_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_the74million_org-_-2022_07_30_13_13_43.report.json",
       "summary": {
-        "performance": 0.62,
+        "performance": 0.57,
         "accessibility": 0.8,
         "best-practices": 1,
         "seo": 0.93,
@@ -2017,10 +2069,10 @@
     {
       "url": "https://www.the74million.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_the74million_org-_-2022_07_30_01_02_14.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_the74million_org-_-2022_07_30_01_02_14.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_the74million_org-_-2022_07_30_13_13_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_the74million_org-_-2022_07_30_13_13_25.report.json",
       "summary": {
-        "performance": 0.63,
+        "performance": 0.55,
         "accessibility": 0.8,
         "best-practices": 1,
         "seo": 0.93,
@@ -2028,7 +2080,7 @@
       }
     }
   ],
-  "uniq": 1836977094,
+  "uniq": 2130872259,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

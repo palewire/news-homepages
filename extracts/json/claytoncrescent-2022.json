@@ -1,5 +1,5 @@
 {
-  "created": 1659179975,
+  "created": 1659223094,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/14/items/claytoncrescent-2022",
@@ -1993,31 +1993,83 @@
       "format": "JSON"
     },
     {
+      "name": "claytoncrescent-2022-07-30T07:14:03.475768-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "claytoncrescent-2022-07-30T07:14:03.475768-04:00.jpg",
+      "mtime": "1659222988",
+      "size": "10085",
+      "md5": "6f4c1e30beb94f686f02e4d949447d0a",
+      "crc32": "83c03e96",
+      "sha1": "076386a6799827a468c86c77cc39b8dc5852d606"
+    },
+    {
+      "name": "claytoncrescent-2022-07-30T19:15:46.432043-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659222953",
+      "size": "26208",
+      "md5": "b41cd48897b4a4f36a9229abe713ea6f",
+      "crc32": "112028c4",
+      "sha1": "33c2b7bd6076ede6f5fc635a2e540de093798e3f",
+      "format": "JSON"
+    },
+    {
+      "name": "claytoncrescent-2022-07-30T19:15:46.432043-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659222955",
+      "size": "41869",
+      "md5": "9a59b1ddeba151f83d6bd01b54aba9eb",
+      "crc32": "f440c38b",
+      "sha1": "f7dc1556870bbbd7f35ed9f908031b5294505733",
+      "format": "JSON"
+    },
+    {
+      "name": "claytoncrescent-2022-07-30T19:15:46.432043-04:00.jpg",
+      "source": "original",
+      "mtime": "1659222952",
+      "size": "235048",
+      "md5": "360c15a1bcf4e447a43f1678ae095e12",
+      "crc32": "641acc32",
+      "sha1": "5851eb85a7041588be8402760b986aed8bff4c76",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "claytoncrescent-2022-07-30T19:15:46.432043-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659222956",
+      "size": "1493",
+      "md5": "5557237dae2607422dadcca67ca0d594",
+      "crc32": "358c1418",
+      "sha1": "32334cd3945eff3c7f78bc9b8696a8cd73b91223",
+      "format": "JSON"
+    },
+    {
       "name": "claytoncrescent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4130b6a678521c262799d771b0a51752b3bb7564",
-      "mtime": "1659179965",
-      "size": "42815",
-      "md5": "828b06391256a515cabadcd534b48e54",
-      "crc32": "8cc8111b",
-      "sha1": "95797fb590d66beb4f9d898275fccd30dbdb186f",
+      "btih": "da6d6fd426d4110b6e3cb20ad9f8100c9c23d707",
+      "mtime": "1659223085",
+      "size": "43890",
+      "md5": "ddd84aeda87ef6b644a51fb5bd90b9d8",
+      "crc32": "97d0fb60",
+      "sha1": "bb21568a6d8ccd636ef035c39e6ecec4f6f96d4b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "claytoncrescent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3b34bce03318996d5079364b7ef23b04",
+      "md5": "ede2950d0996b801bfd38ec09b61ee43",
       "summation": "md5"
     },
     {
       "name": "claytoncrescent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659179963",
-      "size": "245760",
-      "md5": "88f58c0337c1f346ee8f2cc0117bba88",
-      "crc32": "e3c7dc3a",
-      "sha1": "5841d1facf9136997ed09bef8f134aa0e98c440d",
+      "mtime": "1659223080",
+      "size": "253952",
+      "md5": "fb8733dd3e6a9e6e7ab340ffd86c8367",
+      "crc32": "31825b74",
+      "sha1": "9c8b41f3443323fde61a071bde408d1ed4f99468",
       "format": "Metadata"
     },
     {
@@ -2031,9 +2083,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 194,
-  "item_last_updated": 1659179965,
-  "item_size": 14752454,
+  "files_count": 199,
+  "item_last_updated": 1659223085,
+  "item_size": 15076424,
   "metadata": {
     "identifier": "claytoncrescent-2022",
     "collection": [
@@ -2055,7 +2107,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347986050,
+      "task_id": 3348363774,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2063,7 +2115,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 256485751,
+  "uniq": 603356603,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

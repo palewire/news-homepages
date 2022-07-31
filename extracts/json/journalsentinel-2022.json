@@ -1,5 +1,5 @@
 {
-  "created": 1659183960,
+  "created": 1659210820,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/8/items/journalsentinel-2022",
@@ -8385,31 +8385,83 @@
       "format": "JSON"
     },
     {
+      "name": "journalsentinel-2022-07-29T21:41:35.409541-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "journalsentinel-2022-07-29T21:41:35.409541-05:00.jpg",
+      "mtime": "1659195882",
+      "size": "9024",
+      "md5": "84f21f62e7b2a2d151580f100b791bf0",
+      "crc32": "70dea0eb",
+      "sha1": "d2f4b8bb412f6390304f4c05882853cb2cd4d43e"
+    },
+    {
+      "name": "journalsentinel-2022-07-30T10:41:40.758420-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659195704",
+      "size": "23063",
+      "md5": "87f7a5fa317355b2580c705b44130346",
+      "crc32": "27aa5bee",
+      "sha1": "1f02e7ce14727765959dd524d478f1520e264c21",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-07-30T10:41:40.758420-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659195706",
+      "size": "33986",
+      "md5": "e1b241eace87bd78c3b271396115c6ed",
+      "crc32": "020692bf",
+      "sha1": "041e193a840ba659632d37d93ceb31d2b817dc5a",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-07-30T10:41:40.758420-05:00.jpg",
+      "source": "original",
+      "mtime": "1659195703",
+      "size": "246077",
+      "md5": "ffc3c52a5a61f8d257659ebab3e7d9b7",
+      "crc32": "088afaf8",
+      "sha1": "9fdd8eedcb3fb9b828aa5e4b55c91e54c7805893",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "journalsentinel-2022-07-30T10:41:40.758420-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659195708",
+      "size": "1468",
+      "md5": "39646e6b575297c4ec77f77d5e82ef96",
+      "crc32": "9f1e6540",
+      "sha1": "a0e9d3fbaf5ba381a5afb1b191053c93933aa57c",
+      "format": "JSON"
+    },
+    {
       "name": "journalsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5002ca40e1e344b6f7765ef27c5ab49d27e12722",
-      "mtime": "1659148951",
-      "size": "175024",
-      "md5": "9e38603eae7583ec1557fd1339161170",
-      "crc32": "5ca4e84d",
-      "sha1": "4cf71287bfa147eedebfab890a77b453d09e48aa",
+      "btih": "3243b47ba22e2e8b079abf2dad41921e12663659",
+      "mtime": "1659195931",
+      "size": "176098",
+      "md5": "d2891feb8213d4a411551934417c18f1",
+      "crc32": "82d4c5c4",
+      "sha1": "15b85ec94f5729fdbc7e20712d0de8130a764d14",
       "format": "Archive BitTorrent"
     },
     {
       "name": "journalsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0b26cbf8dc759ea90eac35b06a4796ad",
+      "md5": "58b5439a6a0f8dcdd1b2b87261f74d4c",
       "summation": "md5"
     },
     {
       "name": "journalsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659148907",
-      "size": "937984",
-      "md5": "99c60c6cfd60c787eac7083236fbd427",
-      "crc32": "ad5537db",
-      "sha1": "5aa7e4e99049d60295f7f0ffa82caa7351198bed",
+      "mtime": "1659195921",
+      "size": "946176",
+      "md5": "7c7cdf3e3476131d9f7b18ace82a0d7e",
+      "crc32": "cd4129fe",
+      "sha1": "9ec2c938079f2da2f12b87d311d61198293c41f7",
       "format": "Metadata"
     },
     {
@@ -8423,50 +8475,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 802,
-  "item_last_updated": 1659148951,
-  "item_size": 68370503,
-  "journalsentinel-2022": [
-    {
-      "url": "https://www.jsonline.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_07_30_02_19_24.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_07_30_02_19_24.report.json",
-      "summary": {
-        "performance": 0.48,
-        "accessibility": 0.88,
-        "best-practices": 1,
-        "seo": 0.93,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.jsonline.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_07_30_02_19_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_07_30_02_19_44.report.json",
-      "summary": {
-        "performance": 0.37,
-        "accessibility": 0.88,
-        "best-practices": 1,
-        "seo": 0.93,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.jsonline.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_07_30_02_18_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_07_30_02_18_19.report.json",
-      "summary": {
-        "performance": 0.44,
-        "accessibility": 0.88,
-        "best-practices": 1,
-        "seo": 0.93,
-        "pwa": 0.3
-      }
-    }
-  ],
+  "files_count": 807,
+  "item_last_updated": 1659195931,
+  "item_size": 68693387,
   "metadata": {
     "identifier": "journalsentinel-2022",
     "collection": [
@@ -8488,7 +8499,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347654164,
+      "task_id": 3348121829,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8496,7 +8507,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 912668823,
+  "uniq": 1637588209,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

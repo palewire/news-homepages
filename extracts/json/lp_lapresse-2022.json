@@ -1,5 +1,5 @@
 {
-  "created": 1659184055,
+  "created": 1659227587,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/25/items/lp_lapresse-2022",
@@ -3401,31 +3401,83 @@
       "format": "JSON"
     },
     {
+      "name": "lp_lapresse-2022-07-29T22:44:25.200303-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lp_lapresse-2022-07-29T22:44:25.200303-04:00.jpg",
+      "mtime": "1659195937",
+      "size": "10243",
+      "md5": "dca865a93a96c6933eabf0d8ab8ea770",
+      "crc32": "3bb09e5f",
+      "sha1": "8b3739a80a97c604a87cda82ef279554d56a0197"
+    },
+    {
+      "name": "lp_lapresse-2022-07-30T11:43:59.545266-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659195843",
+      "size": "89096",
+      "md5": "4f14e1c43928e252b06534ff9dc5cefd",
+      "crc32": "656c21a8",
+      "sha1": "58e17d2d4b854d394fdb48f867c38fb31e5f31a0",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-07-30T11:43:59.545266-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659195844",
+      "size": "149546",
+      "md5": "10602f881698c8041c6a5167096da454",
+      "crc32": "82526790",
+      "sha1": "e58d09157ec29bbb3e43b34f75bf5bf9eabdb0e4",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-07-30T11:43:59.545266-04:00.jpg",
+      "source": "original",
+      "mtime": "1659195841",
+      "size": "251544",
+      "md5": "f37fb225ec323a77297a7cb3e549042b",
+      "crc32": "190b34ec",
+      "sha1": "e8e383d57014c183d73858778101389ef64e3e55",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lp_lapresse-2022-07-30T11:43:59.545266-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659195845",
+      "size": "1468",
+      "md5": "9677f99b2e57ee5a740d89789f2c3013",
+      "crc32": "eaae1f06",
+      "sha1": "f85c4d82eaf45f6bbbceb5d367a1e395fabae0d2",
+      "format": "JSON"
+    },
+    {
       "name": "lp_lapresse-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5323afaf0e7375a3ce46bc33a7fcda6c1c3cdb7c",
-      "mtime": "1659149112",
-      "size": "71281",
-      "md5": "f417dc9e520d469916f4d6aae176e42c",
-      "crc32": "1c223941",
-      "sha1": "9d7f1efc2525ea3c78338e9e923ad5ebf72844b5",
+      "btih": "145934b6bcbd9a0e8d5712cef8e4071a162dc6aa",
+      "mtime": "1659195971",
+      "size": "72357",
+      "md5": "a8b07b22e0c13f3fc5bd066aa5b4e808",
+      "crc32": "53d6a440",
+      "sha1": "6a68345cd1f2e016952c7d0ea6c460c21dd9db3d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lp_lapresse-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9965bb10e18ec8ea97e56ca7bbe831ba",
+      "md5": "f9fa03b802cff5bf343d41d613920db9",
       "summation": "md5"
     },
     {
       "name": "lp_lapresse-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659149076",
-      "size": "397312",
-      "md5": "58e001423576a92119779404ed3f998e",
-      "crc32": "da0eeba4",
-      "sha1": "843d94bc72ae5ff0051dde26994961c62652efd3",
+      "mtime": "1659195967",
+      "size": "405504",
+      "md5": "f9cc3fea9df35c0795c30793219436e4",
+      "crc32": "c9af8730",
+      "sha1": "866c75af6cd09e99d92cb4299794abae9544f3a3",
       "format": "Metadata"
     },
     {
@@ -3439,19 +3491,19 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 328,
-  "item_last_updated": 1659149112,
-  "item_size": 41015181,
+  "files_count": 333,
+  "item_last_updated": 1659195971,
+  "item_size": 41526346,
   "lp_lapresse-2022": [
     {
       "url": "https://www.lapresse.ca/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lapresse_ca-_-2022_07_30_02_22_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lapresse_ca-_-2022_07_30_02_22_23.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lapresse_ca-_-2022_07_30_14_30_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lapresse_ca-_-2022_07_30_14_30_58.report.json",
       "summary": {
-        "performance": 0.23,
+        "performance": 0.21,
         "accessibility": 0.73,
-        "best-practices": 0.75,
+        "best-practices": 0.83,
         "seo": 0.98,
         "pwa": 0.6
       }
@@ -3459,10 +3511,10 @@
     {
       "url": "https://www.lapresse.ca/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lapresse_ca-_-2022_07_30_02_22_54.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lapresse_ca-_-2022_07_30_02_22_54.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lapresse_ca-_-2022_07_30_14_32_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lapresse_ca-_-2022_07_30_14_32_01.report.json",
       "summary": {
-        "performance": 0.3,
+        "performance": 0.33,
         "accessibility": 0.73,
         "best-practices": 0.75,
         "seo": 0.98,
@@ -3472,12 +3524,12 @@
     {
       "url": "https://www.lapresse.ca/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lapresse_ca-_-2022_07_30_02_21_59.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lapresse_ca-_-2022_07_30_02_21_59.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lapresse_ca-_-2022_07_30_14_32_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lapresse_ca-_-2022_07_30_14_32_21.report.json",
       "summary": {
-        "performance": 0.25,
+        "performance": 0.28,
         "accessibility": 0.73,
-        "best-practices": 0.75,
+        "best-practices": 0.83,
         "seo": 0.98,
         "pwa": 0.6
       }
@@ -3504,7 +3556,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347655946,
+      "task_id": 3348122183,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3512,7 +3564,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1114025882,
+  "uniq": 917686531,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

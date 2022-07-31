@@ -1,5 +1,5 @@
 {
-  "created": 1659179947,
+  "created": 1659223185,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/eastbaytimes-2022",
@@ -9637,31 +9637,83 @@
       "format": "JSON"
     },
     {
+      "name": "eastbaytimes-2022-07-30T04:14:54.624563-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eastbaytimes-2022-07-30T04:14:54.624563-07:00.jpg",
+      "mtime": "1659223138",
+      "size": "10015",
+      "md5": "ac58df0debe395dcee61c42cd1904e2b",
+      "crc32": "b33319bf",
+      "sha1": "c8b540b76075723479774a4523ef3c36cb03e44e"
+    },
+    {
+      "name": "eastbaytimes-2022-07-30T16:18:20.978073-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659223108",
+      "size": "37885",
+      "md5": "f146221af38ababfaae93dacd2354912",
+      "crc32": "ca8ab682",
+      "sha1": "3b7ef5530690428b621f6e540cbd06d828686013",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-07-30T16:18:20.978073-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659223110",
+      "size": "53468",
+      "md5": "4072c5d7c3fbb73861f05b5cbf1de501",
+      "crc32": "b45f19a0",
+      "sha1": "a6e9ab87ee6e10a49ff35211ce51c466fe1e78f4",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-07-30T16:18:20.978073-07:00.jpg",
+      "source": "original",
+      "mtime": "1659223107",
+      "size": "313719",
+      "md5": "a1a042a458428f7664c18cd09dd9aa16",
+      "crc32": "1a2968dc",
+      "sha1": "12abff4acbd903b2a978307579e8c0288ea01e68",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eastbaytimes-2022-07-30T16:18:20.978073-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659223111",
+      "size": "1513",
+      "md5": "9a1c2dd4d7bc62a169659292737ae94c",
+      "crc32": "fc8958be",
+      "sha1": "b0a667297d8f2ad0b3600b55b68be705afd9298b",
+      "format": "JSON"
+    },
+    {
       "name": "eastbaytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e05dfed285e849281bb211db4cf1c1e83148615b",
-      "mtime": "1659179937",
-      "size": "198700",
-      "md5": "7dc50e31f968ecc6674ed9396b1cac82",
-      "crc32": "0c061e9b",
-      "sha1": "3bd8e6dbf51dae409ec281e22a83625e81b05e38",
+      "btih": "315acbd9e543c384e897415069dfa7e240ca82f9",
+      "mtime": "1659223175",
+      "size": "199780",
+      "md5": "3b574b15c1c7197427e8992f24f2bfff",
+      "crc32": "276b27ea",
+      "sha1": "903ce69d65c60d86571c687f60ac69f9de26d9bd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eastbaytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "efacc2095bc77883343193fb2f03a17a",
+      "md5": "d533db5d89cb723e6fbe6cd39076a9de",
       "summation": "md5"
     },
     {
       "name": "eastbaytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659179926",
-      "size": "1069056",
-      "md5": "f967d7f599a58ad07a75cd0a4813aaa4",
-      "crc32": "14602401",
-      "sha1": "8e8f41314fa7e4d60c1fa7bede8a4abc61a67273",
+      "mtime": "1659223166",
+      "size": "1073152",
+      "md5": "e0e882385017626de936ed24159b3c77",
+      "crc32": "eb3404b5",
+      "sha1": "302a0ebd0a950dd755cd4795b3a76d0e2fd838e2",
       "format": "Metadata"
     },
     {
@@ -9675,9 +9727,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 921,
-  "item_last_updated": 1659179937,
-  "item_size": 92587846,
+  "files_count": 926,
+  "item_last_updated": 1659223175,
+  "item_size": 93009622,
   "metadata": {
     "identifier": "eastbaytimes-2022",
     "collection": [
@@ -9699,7 +9751,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347985838,
+      "task_id": 3348364333,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9707,7 +9759,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1154976999,
+  "uniq": 270155322,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

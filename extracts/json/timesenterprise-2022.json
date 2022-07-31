@@ -1,5 +1,5 @@
 {
-  "created": 1659184491,
+  "created": 1659196901,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/1/items/timesenterprise-2022",
@@ -875,31 +875,73 @@
       "format": "JSON"
     },
     {
+      "name": "timesenterprise-2022-07-29T23:55:49.359814-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesenterprise-2022-07-29T23:55:49.359814-04:00.jpg",
+      "mtime": "1659196856",
+      "size": "9296",
+      "md5": "16d94cbe8fcbbfca52dfa04a4818b2ca",
+      "crc32": "d25af051",
+      "sha1": "2da7783292071e46d365b99bc598a768b9a8a664"
+    },
+    {
+      "name": "timesenterprise-2022-07-30T12:00:26.119927-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659196829",
+      "size": "78346",
+      "md5": "9a846d85317f91d6918796e6d678c31c",
+      "crc32": "7f95f581",
+      "sha1": "46edb4aaa203a20346ef74934ecf1db3f977ae95",
+      "format": "JSON"
+    },
+    {
+      "name": "timesenterprise-2022-07-30T12:00:26.119927-04:00.jpg",
+      "source": "original",
+      "mtime": "1659196827",
+      "size": "326176",
+      "md5": "3857a8454e96bd9fe0cf08ff0cd3c652",
+      "crc32": "a52b6e49",
+      "sha1": "7acbbae419e646322b961d6815d4574c0655e77b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesenterprise-2022-07-30T12:00:26.119927-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659196830",
+      "size": "1540",
+      "md5": "bb8e459c42d67e3640367ccc0d813579",
+      "crc32": "50c5b3e6",
+      "sha1": "ad4990f1ead938710887a35c5cd7e4e358d0c48b",
+      "format": "JSON"
+    },
+    {
       "name": "timesenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7e6b0401b4d5e7c7f1debaa0f81be609bd071997",
-      "mtime": "1659153396",
-      "size": "19563",
-      "md5": "5a97ef3143cc5020481f0e133af14802",
-      "crc32": "38366825",
-      "sha1": "ddd20dc455d1ebd85b0abf45a69b9c935d233e07",
+      "btih": "dbbc132d156355d49d03351c75a2683d3a0c9fed",
+      "mtime": "1659196885",
+      "size": "20436",
+      "md5": "2b44d6f1d6ee1d82f388eff86f817d35",
+      "crc32": "db415f99",
+      "sha1": "c750d1dc5affdd48a865c178cd7921be6d45160e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2590bcdf0f16e69519e268c6e93a44ee",
+      "md5": "d1f584972345ac7e399357e76e086cd5",
       "summation": "md5"
     },
     {
       "name": "timesenterprise-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659153361",
-      "size": "122880",
-      "md5": "b7aa64e0adc19198e160fb37153a2dfc",
-      "crc32": "638e2eef",
-      "sha1": "555b4a4cd1781deada8caa1e1da682cf224cb9af",
+      "mtime": "1659196883",
+      "size": "126976",
+      "md5": "1f0babab87fd6492174a6fd2c556d1cc",
+      "crc32": "562001f9",
+      "sha1": "9fc1f456dbbc371ac94a16db7a633d8d4a1e42db",
       "format": "Metadata"
     },
     {
@@ -913,9 +955,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 87,
-  "item_last_updated": 1659153396,
-  "item_size": 8567726,
+  "files_count": 91,
+  "item_last_updated": 1659196885,
+  "item_size": 8988053,
   "metadata": {
     "identifier": "timesenterprise-2022",
     "collection": [
@@ -937,7 +979,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347694735,
+      "task_id": 3348130203,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -945,48 +987,7 @@
       "status": "queued"
     }
   ],
-  "timesenterprise-2022": [
-    {
-      "url": "https://www.timesenterprise.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_30_03_35_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_30_03_35_31.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.72,
-        "best-practices": 0.83,
-        "seo": 0.76,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.timesenterprise.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_30_03_36_13.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_30_03_36_13.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.72,
-        "best-practices": 0.67,
-        "seo": 0.76,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.timesenterprise.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_30_03_34_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_timesenterprise_com-_-2022_07_30_03_34_47.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.72,
-        "best-practices": 0.83,
-        "seo": 0.76,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "uniq": 692645,
+  "uniq": 527737131,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

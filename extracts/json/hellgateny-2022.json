@@ -1,5 +1,5 @@
 {
-  "created": 1659180089,
+  "created": 1659227416,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/hellgateny-2022",
@@ -2539,31 +2539,83 @@
       "format": "JSON"
     },
     {
+      "name": "hellgateny-2022-07-30T07:17:43.629876-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hellgateny-2022-07-30T07:17:43.629876-04:00.jpg",
+      "mtime": "1659223252",
+      "size": "9054",
+      "md5": "b414fdd20d6362025e2bf949bb42faa6",
+      "crc32": "03a175ff",
+      "sha1": "13a7c226b98838b7f5e1470558a0c02b65303042"
+    },
+    {
+      "name": "hellgateny-2022-07-30T19:20:25.715687-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659223230",
+      "size": "16516",
+      "md5": "4c2fe9dc6fb98aa02be1a87d896be4eb",
+      "crc32": "2aa09267",
+      "sha1": "b3b87e0c70a94962fb2045b85855545e500f5f3a",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-07-30T19:20:25.715687-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659223232",
+      "size": "15289",
+      "md5": "9ab3e5102a933b11b1dd0c0d0f7be0dc",
+      "crc32": "302dcec1",
+      "sha1": "b911c592dabbd046faf7719b633f0682bd12ed27",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-07-30T19:20:25.715687-04:00.jpg",
+      "source": "original",
+      "mtime": "1659223229",
+      "size": "221905",
+      "md5": "9963e506bf00abf54d211446f0ee7508",
+      "crc32": "71a6be3c",
+      "sha1": "ba0c5c8e60793804072cfa1340eac23232b2341b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hellgateny-2022-07-30T19:20:25.715687-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659223233",
+      "size": "1467",
+      "md5": "6d267d379234e8adf2b80483cec234ce",
+      "crc32": "5301c0c8",
+      "sha1": "da2914ec6dbaa2414a3d15391ded07357ffdd889",
+      "format": "JSON"
+    },
+    {
       "name": "hellgateny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0006083f8fd3d40872ea105a97c0c119f82ea2df",
-      "mtime": "1659180084",
-      "size": "52587",
-      "md5": "d3849659e907b58bad62c49c8b5327fd",
-      "crc32": "ff844df9",
-      "sha1": "1457ce9a3ef0ebb5b914a63ac27b06564d90c8b9",
+      "btih": "9cc3df99fc737c97ada39dad297d0e42d10d9db9",
+      "mtime": "1659223282",
+      "size": "53656",
+      "md5": "c8e57b8ac47fde2bdb80eaf4dc52e610",
+      "crc32": "e6c2f375",
+      "sha1": "61fd2c491021faf279a7d32bbd1801207c5825ed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hellgateny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "098caead74a6f6739bfdbb0a5799ff8d",
+      "md5": "4cfef7bbab77b3e61676d57ec1c5d209",
       "summation": "md5"
     },
     {
       "name": "hellgateny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659180081",
-      "size": "303104",
-      "md5": "ca3fba26a3b11f1249b2f75049a269d4",
-      "crc32": "b4dade32",
-      "sha1": "4339f6483fb4bc764c6afbafbfe1092c38896972",
+      "mtime": "1659223279",
+      "size": "307200",
+      "md5": "0582904ca4462031717d89b4db3d9eb8",
+      "crc32": "3b0363ed",
+      "sha1": "37f226e6f53690166792d8cd041e6fdf972cfe83",
       "format": "Metadata"
     },
     {
@@ -2577,9 +2629,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 246,
-  "item_last_updated": 1659180084,
-  "item_size": 14708787,
+  "files_count": 251,
+  "hellgateny-2022": [
+    {
+      "url": "https://hellgatenyc.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hellgatenyc_com-_-2022_07_30_22_59_40.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hellgatenyc_com-_-2022_07_30_22_59_40.report.json",
+      "summary": {
+        "performance": 0.45,
+        "accessibility": 0.98,
+        "best-practices": 0.92,
+        "seo": 0.89,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://hellgatenyc.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hellgatenyc_com-_-2022_07_30_22_59_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hellgatenyc_com-_-2022_07_30_22_59_56.report.json",
+      "summary": {
+        "performance": 0.5,
+        "accessibility": 0.98,
+        "best-practices": 0.92,
+        "seo": 0.89,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://hellgatenyc.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hellgatenyc_com-_-2022_07_30_23_00_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hellgatenyc_com-_-2022_07_30_23_00_10.report.json",
+      "summary": {
+        "performance": 0.51,
+        "accessibility": 0.98,
+        "best-practices": 0.92,
+        "seo": 0.89,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "item_last_updated": 1659223282,
+  "item_size": 14978183,
   "metadata": {
     "identifier": "hellgateny-2022",
     "collection": [
@@ -2601,7 +2694,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347986751,
+      "task_id": 3348364988,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2609,7 +2702,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1377730084,
+  "uniq": 1801134723,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

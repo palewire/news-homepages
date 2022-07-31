@@ -1,5 +1,5 @@
 {
-  "created": 1659144174,
+  "created": 1659188184,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/7/items/texasmonthly-2022",
@@ -2403,31 +2403,83 @@
       "format": "JSON"
     },
     {
+      "name": "texasmonthly-2022-07-29T20:21:58.178017-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "texasmonthly-2022-07-29T20:21:58.178017-05:00.jpg",
+      "mtime": "1659188146",
+      "size": "10325",
+      "md5": "42b17b504c7bd9fa899e9a19c2a1beb2",
+      "crc32": "768350f4",
+      "sha1": "26f716dcebf1d7b3a4192a9516089648bb8d3680"
+    },
+    {
+      "name": "texasmonthly-2022-07-30T08:34:59.222308-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659188102",
+      "size": "56969",
+      "md5": "ea1e219ad0117ae53b704108700e3fa7",
+      "crc32": "47934a49",
+      "sha1": "f87eb5e98b42005239d7a2e2d19d90214eef00f7",
+      "format": "JSON"
+    },
+    {
+      "name": "texasmonthly-2022-07-30T08:34:59.222308-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659188104",
+      "size": "61690",
+      "md5": "04f7d2f4bf4937c6240badfb6c9a6c50",
+      "crc32": "5e829272",
+      "sha1": "3c9ebad1e826712e3c49c7bb3fa9804a05e2f84c",
+      "format": "JSON"
+    },
+    {
+      "name": "texasmonthly-2022-07-30T08:34:59.222308-05:00.jpg",
+      "source": "original",
+      "mtime": "1659188101",
+      "size": "323049",
+      "md5": "50bdbdae96ba2295b82c0881e9416c3f",
+      "crc32": "1caca56a",
+      "sha1": "3943b73d8d27563ed745edc56f0230624bd0c68a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "texasmonthly-2022-07-30T08:34:59.222308-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659188106",
+      "size": "1510",
+      "md5": "f2e4b30d5f737afac427cde2c02f04fc",
+      "crc32": "66c0671d",
+      "sha1": "1461f1155dcdbb381fab125d41bf382b8f7659af",
+      "format": "JSON"
+    },
+    {
       "name": "texasmonthly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "070a02ddce03415cc9b7ec68e33011b1d78bd5ec",
-      "mtime": "1659144172",
-      "size": "50785",
-      "md5": "55f961f0ed9b783dda6139957e1b766d",
-      "crc32": "f7d41272",
-      "sha1": "b1753298097bca6d7a83e8961fcb9919d10a86c9",
+      "btih": "b4a53f9f4f4c24ba704d4499b2e799222ad2c519",
+      "mtime": "1659188177",
+      "size": "51865",
+      "md5": "8c59eaac5c48343b7b549255f1b54530",
+      "crc32": "b9662424",
+      "sha1": "8eb5dd08152394af9ac320650addab0dd0a24ce7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texasmonthly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "73af5abba3228086655d29e0ab490330",
+      "md5": "b46e6f3d8bd13f21f71e3c18414b6fe6",
       "summation": "md5"
     },
     {
       "name": "texasmonthly-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659144132",
-      "size": "290816",
-      "md5": "afb8c72769a0afb80aedf95d2c9c7743",
-      "crc32": "7fb67245",
-      "sha1": "d788ed9a8bbf60767e3611f14d318f1f4b78f82a",
+      "mtime": "1659188174",
+      "size": "294912",
+      "md5": "0936ec0acd6ef3f864d609645b2da3d1",
+      "crc32": "6b1bdc95",
+      "sha1": "33c1fa19e7309d613a5d6b473398bc4e26eae2a2",
       "format": "Metadata"
     },
     {
@@ -2441,9 +2493,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 233,
-  "item_last_updated": 1659144172,
-  "item_size": 23434056,
+  "files_count": 238,
+  "item_last_updated": 1659188177,
+  "item_size": 23892775,
   "metadata": {
     "identifier": "texasmonthly-2022",
     "collection": [
@@ -2465,7 +2517,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347605102,
+      "task_id": 3348055289,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2473,7 +2525,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1878007769,
+  "uniq": 833912551,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]

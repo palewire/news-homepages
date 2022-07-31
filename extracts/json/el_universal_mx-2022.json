@@ -1,5 +1,5 @@
 {
-  "created": 1659180012,
+  "created": 1659223221,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/el_universal_mx-2022",
@@ -19717,31 +19717,83 @@
       "format": "JSON"
     },
     {
+      "name": "el_universal_mx-2022-07-30T06:15:51.164441-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_universal_mx-2022-07-30T06:15:51.164441-05:00.jpg",
+      "mtime": "1659223150",
+      "size": "9838",
+      "md5": "e925170d5c4d5c53f21bc0c7bb501d3b",
+      "crc32": "2d0b720d",
+      "sha1": "79995d23712365ea70529c2a6da95c34dc946aaa"
+    },
+    {
+      "name": "el_universal_mx-2022-07-30T18:18:03.191217-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659223096",
+      "size": "51156",
+      "md5": "3e06821a37f4c2f72319feadfb8002bd",
+      "crc32": "5f4e9294",
+      "sha1": "526910fbd44b53ff8ef62a6ca04843eac363c135",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-07-30T18:18:03.191217-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659223098",
+      "size": "55318",
+      "md5": "f313696ab97fd0aafdfb2d7e42d3bd5e",
+      "crc32": "092a035a",
+      "sha1": "41081a919563567a01c90bed07a39c238d82dd7c",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-07-30T18:18:03.191217-05:00.jpg",
+      "source": "original",
+      "mtime": "1659223095",
+      "size": "313984",
+      "md5": "935e501df802ae100b69098c0a38b9fb",
+      "crc32": "ad3ad215",
+      "sha1": "4ebb80cb74e78f610a7693359a3ef162949d321c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_universal_mx-2022-07-30T18:18:03.191217-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659223100",
+      "size": "1582",
+      "md5": "6750ecc98b7a571a9530606f565d511e",
+      "crc32": "462ffcd1",
+      "sha1": "24412213926ecdacd9593a136c42a4983d2a708e",
+      "format": "JSON"
+    },
+    {
       "name": "el_universal_mx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e7e7fe3a16a8c0400f104eb78233af69b868c28b",
-      "mtime": "1659179998",
-      "size": "411778",
-      "md5": "b74bba466e502302a0331cfa7b99dffb",
-      "crc32": "402c2352",
-      "sha1": "688dde1de80359091c3e8403503b69f0727f2a78",
+      "btih": "c874c97bf79ba93417c1e3e8304cb310b5b81eb1",
+      "mtime": "1659223211",
+      "size": "412872",
+      "md5": "34e35355c884fcbc162c566ef65bc249",
+      "crc32": "696cacd9",
+      "sha1": "913aecf04d463a57d4e4bf4ce35ca7632792a24a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_universal_mx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "742c1a4737fe4b2fc25a2df501de7be9",
+      "md5": "069c653e6c59689e41b4dbb2edf48988",
       "summation": "md5"
     },
     {
       "name": "el_universal_mx-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659179966",
-      "size": "2183168",
-      "md5": "2992198cd7159065631033714aa2be44",
-      "crc32": "f82eb56b",
-      "sha1": "821e428adf4f5ef64c5d70cbe41a7fa2b6c792fb",
+      "mtime": "1659223178",
+      "size": "2187264",
+      "md5": "14bd8b1e0bf0aab664c98f69d06d651e",
+      "crc32": "b436df37",
+      "sha1": "8a8f4a5cf97cd0488d50520dc392b420b51604f3",
       "format": "Metadata"
     },
     {
@@ -19755,9 +19807,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1882,
-  "item_last_updated": 1659179998,
-  "item_size": 197880498,
+  "files_count": 1887,
+  "item_last_updated": 1659223211,
+  "item_size": 198317566,
   "metadata": {
     "identifier": "el_universal_mx-2022",
     "collection": [
@@ -19779,7 +19831,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347986286,
+      "task_id": 3348364556,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -19787,7 +19839,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2137573208,
+  "uniq": 51313267,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

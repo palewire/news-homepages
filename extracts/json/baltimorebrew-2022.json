@@ -1,5 +1,5 @@
 {
-  "created": 1659179678,
+  "created": 1659223195,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/15/items/baltimorebrew-2022",
@@ -1699,31 +1699,83 @@
       "format": "JSON"
     },
     {
+      "name": "baltimorebrew-2022-07-30T07:10:35.203819-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimorebrew-2022-07-30T07:10:35.203819-04:00.jpg",
+      "mtime": "1659223025",
+      "size": "9531",
+      "md5": "8592bf79da43ccd39f5f377665e39a00",
+      "crc32": "600aca69",
+      "sha1": "9c5f8945550f351df15b4e91247cfe6a70737fad"
+    },
+    {
+      "name": "baltimorebrew-2022-07-30T19:13:03.368878-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659222787",
+      "size": "18658",
+      "md5": "b9f9415478615f271fb7cc3ef0848f1f",
+      "crc32": "4be779f7",
+      "sha1": "902f4dd00747a23d5817f69ded638b29d1cb130a",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebrew-2022-07-30T19:13:03.368878-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659222788",
+      "size": "15723",
+      "md5": "b4228d78b81236cb504dd8bbd53e46e0",
+      "crc32": "83fd36a0",
+      "sha1": "c5db9d7c9e1ffa621a3cbdfdce4a873ce5dff797",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebrew-2022-07-30T19:13:03.368878-04:00.jpg",
+      "source": "original",
+      "mtime": "1659222785",
+      "size": "306824",
+      "md5": "215d8e7fac35dddf4a8e4b78d6135008",
+      "crc32": "a8bbedf4",
+      "sha1": "599283aafc146761a6b73255ee242508f049bef0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimorebrew-2022-07-30T19:13:03.368878-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659222789",
+      "size": "1522",
+      "md5": "75976927e49e67ce5b628bd93c9468d1",
+      "crc32": "5163fd84",
+      "sha1": "0e89d5e14333e8054d99107c351eb5ded6061093",
+      "format": "JSON"
+    },
+    {
       "name": "baltimorebrew-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3241487ee3eaefe73ebbb7d43fbf1b7e7ec4abc6",
-      "mtime": "1659179669",
-      "size": "36322",
-      "md5": "b4c59d265d5abae9ccf770a0f38096aa",
-      "crc32": "2e89089e",
-      "sha1": "d1c6dba63b39e9cc901424ba0557a394b01ac863",
+      "btih": "5431e8d8f86a9fa467728bc0e1c467e86300a909",
+      "mtime": "1659223188",
+      "size": "37406",
+      "md5": "901a9d4beeb75209771da8c532c76af0",
+      "crc32": "25ec96a1",
+      "sha1": "508025042daf4ad524320e54cbb702c289cfbb12",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimorebrew-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "57ccc18d857e33c777b5ad7990398282",
+      "md5": "fdf78cd34269ed98c9a00e940a877614",
       "summation": "md5"
     },
     {
       "name": "baltimorebrew-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659179666",
-      "size": "217088",
-      "md5": "86ee2fabf51be09e3e5d280459553aee",
-      "crc32": "fbdf7d1b",
-      "sha1": "ca7ace68ca7cd4e036dc45c9e962d29c4de7a8f0",
+      "mtime": "1659223185",
+      "size": "221184",
+      "md5": "8c96a0056a49566593a620c5115121b0",
+      "crc32": "d63f81dc",
+      "sha1": "757627d81de31c5f0b87b9ee66282b2b597b0ce7",
       "format": "Metadata"
     },
     {
@@ -1737,9 +1789,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 166,
-  "item_last_updated": 1659179669,
-  "item_size": 11949602,
+  "files_count": 171,
+  "item_last_updated": 1659223188,
+  "item_size": 12307040,
   "metadata": {
     "identifier": "baltimorebrew-2022",
     "collection": [
@@ -1761,7 +1813,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347983699,
+      "task_id": 3348364402,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1769,7 +1821,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1224922844,
+  "uniq": 1106860568,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659183855,
+  "created": 1659227332,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/35/items/fox12oregon-2022",
@@ -2319,31 +2319,83 @@
       "format": "JSON"
     },
     {
+      "name": "fox12oregon-2022-07-29T19:38:38.967605-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox12oregon-2022-07-29T19:38:38.967605-07:00.jpg",
+      "mtime": "1659195587",
+      "size": "11238",
+      "md5": "e99fdf58037e2eb588034b1667794a8a",
+      "crc32": "f301531c",
+      "sha1": "f16aabf184b75964bd0f84b075dcd6143d8a6f7d"
+    },
+    {
+      "name": "fox12oregon-2022-07-30T08:38:39.480209-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659195524",
+      "size": "37511",
+      "md5": "2be08ae05ca6b0b2d911df51d02063cf",
+      "crc32": "d72ba479",
+      "sha1": "628519c770c23475f8bdeaafed5728b39c65219b",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-07-30T08:38:39.480209-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659195525",
+      "size": "21801",
+      "md5": "c68c089d8d92c3ad7acb40b0361a7f46",
+      "crc32": "b682741d",
+      "sha1": "3780a8de8c2d8837bcbb86aacde6fe19f663f7a5",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-07-30T08:38:39.480209-07:00.jpg",
+      "source": "original",
+      "mtime": "1659195522",
+      "size": "374205",
+      "md5": "58239221f24ecbbfd2d516bed698db85",
+      "crc32": "1b14d61d",
+      "sha1": "02f01e7441171ea1134e68302ce595784a5b7b0f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-07-30T08:38:39.480209-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659195527",
+      "size": "1440",
+      "md5": "f4b9c4c9bc690b889145eefb341837d3",
+      "crc32": "2eccfa9a",
+      "sha1": "77533187b1d9118c219a93147c592de620b7d308",
+      "format": "JSON"
+    },
+    {
       "name": "fox12oregon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7b36004b147ec1a67b0888d20e09f5efb14d31aa",
-      "mtime": "1659148767",
-      "size": "48880",
-      "md5": "d8142d65caf072d53f417f699bf6c968",
-      "crc32": "7a3bd750",
-      "sha1": "afa7626992b5e33bca88f01b0f42bc51bfa2ebd7",
+      "btih": "de87b4a048d7657caf764f2aaf3b13aa7377ed6a",
+      "mtime": "1659195635",
+      "size": "49955",
+      "md5": "31b313246e473e28cf8a0f952e523618",
+      "crc32": "88a7fda7",
+      "sha1": "0ca637a72686b7539927d0ad318c25cc0fc362df",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox12oregon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "99f0cbc19b2e9d551098cb19ca8e0a60",
+      "md5": "5afadd6082204903db460017824f57b0",
       "summation": "md5"
     },
     {
       "name": "fox12oregon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659148731",
-      "size": "282624",
-      "md5": "71b868b00603a35b4feb90d4c7615ac8",
-      "crc32": "2c7c270e",
-      "sha1": "770b2b477e949ad99d9d3065843e5316a13fdc36",
+      "mtime": "1659195633",
+      "size": "286720",
+      "md5": "0f6ca8ca273e001e451ba0a0afd5c0dd",
+      "crc32": "fdb9a38f",
+      "sha1": "223e6f423ac45e7116370937597f93e71ea3c032",
       "format": "Metadata"
     },
     {
@@ -2357,15 +2409,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 225,
+  "files_count": 230,
   "fox12oregon-2022": [
     {
       "url": "https://www.kptv.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kptv_com-_-2022_07_30_02_13_37.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kptv_com-_-2022_07_30_02_13_37.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kptv_com-_-2022_07_30_14_23_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kptv_com-_-2022_07_30_14_23_05.report.json",
       "summary": {
-        "performance": 0.2,
+        "performance": 0.26,
         "accessibility": 0.85,
         "best-practices": 0.92,
         "seo": 0.91,
@@ -2375,10 +2427,10 @@
     {
       "url": "https://www.kptv.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kptv_com-_-2022_07_30_02_14_02.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kptv_com-_-2022_07_30_02_14_02.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kptv_com-_-2022_07_30_14_24_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kptv_com-_-2022_07_30_14_24_01.report.json",
       "summary": {
-        "performance": 0.25,
+        "performance": 0.3,
         "accessibility": 0.85,
         "best-practices": 0.92,
         "seo": 0.91,
@@ -2388,10 +2440,10 @@
     {
       "url": "https://www.kptv.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kptv_com-_-2022_07_30_02_14_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kptv_com-_-2022_07_30_02_14_23.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kptv_com-_-2022_07_30_14_22_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kptv_com-_-2022_07_30_14_22_09.report.json",
       "summary": {
-        "performance": 0.24,
+        "performance": 0.27,
         "accessibility": 0.85,
         "best-practices": 0.92,
         "seo": 0.91,
@@ -2399,8 +2451,8 @@
       }
     }
   ],
-  "item_last_updated": 1659148767,
-  "item_size": 23372240,
+  "item_last_updated": 1659195635,
+  "item_size": 23823606,
   "metadata": {
     "identifier": "fox12oregon-2022",
     "collection": [
@@ -2422,7 +2474,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347652574,
+      "task_id": 3348119045,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2430,7 +2482,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 279650871,
+  "uniq": 1788544124,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

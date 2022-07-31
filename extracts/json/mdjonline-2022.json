@@ -1,5 +1,5 @@
 {
-  "created": 1659184067,
+  "created": 1659227606,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/mdjonline-2022",
@@ -943,31 +943,83 @@
       "format": "JSON"
     },
     {
+      "name": "mdjonline-2022-07-29T22:44:21.951355-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mdjonline-2022-07-29T22:44:21.951355-04:00.jpg",
+      "mtime": "1659195880",
+      "size": "11265",
+      "md5": "11cd9f26ed5e451507f46727f8255c06",
+      "crc32": "44636365",
+      "sha1": "a553420594f684ef42ed1234e2d2074ef508d530"
+    },
+    {
+      "name": "mdjonline-2022-07-30T11:44:00.750758-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659195844",
+      "size": "48454",
+      "md5": "c1f86d524b6ce6eedf4162c998b1dcb7",
+      "crc32": "fb861ce7",
+      "sha1": "d744b277759d8813a2bd64a5a353b50b437698c7",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-07-30T11:44:00.750758-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659195846",
+      "size": "56575",
+      "md5": "8a80fa471acbb759414deb6de4cc466b",
+      "crc32": "4ae00697",
+      "sha1": "dfb2f14675ef9dab710bc55bd7471e88607a0a14",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-07-30T11:44:00.750758-04:00.jpg",
+      "source": "original",
+      "mtime": "1659195843",
+      "size": "367685",
+      "md5": "f044d450f54bba61d54ec2b843eb23fa",
+      "crc32": "cb338ca3",
+      "sha1": "284bebbb1b067a18c105a1c5bee17099eeeb5ad2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mdjonline-2022-07-30T11:44:00.750758-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659195847",
+      "size": "1486",
+      "md5": "98607538522ca130c71789a2d333eaae",
+      "crc32": "5b50920a",
+      "sha1": "962c0d0535a230032ec2fb5e8d27a4b58fe15018",
+      "format": "JSON"
+    },
+    {
       "name": "mdjonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "58b6bfc889c1b08b42b09343fb9e03a66256b651",
-      "mtime": "1659149106",
-      "size": "20552",
-      "md5": "055672b4e863ce4771412f2f09ebb762",
-      "crc32": "99577d96",
-      "sha1": "51436e7caa635d05923eadea516dd834c0ddaa91",
+      "btih": "6732cf9480e5e3a27a601412f03f37412c1e7359",
+      "mtime": "1659195941",
+      "size": "21617",
+      "md5": "ad2f809608b4574a8e6e8a0ecad4a2a7",
+      "crc32": "2c43587b",
+      "sha1": "08432d5f37f549d5997a60da0a0aa2b57f77593c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mdjonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "779d148577bbfb65c04fa570d9d12e93",
+      "md5": "52ddd5991c66a3b433a29de4c8387914",
       "summation": "md5"
     },
     {
       "name": "mdjonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659149072",
-      "size": "135168",
-      "md5": "3e45798f87e1c4334a489b088ff6f8ad",
-      "crc32": "c56dcc96",
-      "sha1": "63e074f281df78de12b3340b13b86546c1df050d",
+      "mtime": "1659195940",
+      "size": "139264",
+      "md5": "12a7f37af81bb37bb4bea013e3844c3d",
+      "crc32": "4ef9aa09",
+      "sha1": "1a485c0c91d76acc47ba158c75eb928666c922cc",
       "format": "Metadata"
     },
     {
@@ -981,17 +1033,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 94,
-  "item_last_updated": 1659149106,
-  "item_size": 8690675,
+  "files_count": 99,
+  "item_last_updated": 1659195941,
+  "item_size": 9181301,
   "mdjonline-2022": [
     {
       "url": "https://www.mdjonline.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_07_30_02_22_50.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_07_30_02_22_50.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_07_30_14_32_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_07_30_14_32_13.report.json",
       "summary": {
-        "performance": 0.18,
+        "performance": 0.17,
         "accessibility": 0.78,
         "best-practices": 0.58,
         "seo": 0.92,
@@ -1001,10 +1053,10 @@
     {
       "url": "https://www.mdjonline.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_07_30_02_25_27.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_07_30_02_25_27.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_07_30_14_33_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_07_30_14_33_13.report.json",
       "summary": {
-        "performance": 0.19,
+        "performance": 0.22,
         "accessibility": 0.78,
         "best-practices": 0.58,
         "seo": 0.92,
@@ -1014,10 +1066,10 @@
     {
       "url": "https://www.mdjonline.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_07_30_02_24_08.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_07_30_02_24_08.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_07_30_14_32_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_07_30_14_32_46.report.json",
       "summary": {
-        "performance": 0.18,
+        "performance": 0.19,
         "accessibility": 0.78,
         "best-practices": 0.58,
         "seo": 0.92,
@@ -1046,7 +1098,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347655908,
+      "task_id": 3348121952,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1054,7 +1106,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 504905897,
+  "uniq": 688313033,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

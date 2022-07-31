@@ -1,5 +1,5 @@
 {
-  "created": 1659184647,
+  "created": 1659228141,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/32/items/wral-2022",
@@ -8277,31 +8277,83 @@
       "format": "JSON"
     },
     {
+      "name": "wral-2022-07-29T23:58:57.747317-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wral-2022-07-29T23:58:57.747317-04:00.jpg",
+      "mtime": "1659197110",
+      "size": "9416",
+      "md5": "1069fb1dbdbc0f6028056ccbc90e326d",
+      "crc32": "f4825e6b",
+      "sha1": "0c38b21391b5526c34163f3547897451651133e4"
+    },
+    {
+      "name": "wral-2022-07-30T12:02:57.622427-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659196984",
+      "size": "42694",
+      "md5": "d28b24be0ef8208336b13d3e3c207933",
+      "crc32": "f11b3f69",
+      "sha1": "66c0c9adcb76deed4e87d2b2eebf76705c9ceff1",
+      "format": "JSON"
+    },
+    {
+      "name": "wral-2022-07-30T12:02:57.622427-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659196985",
+      "size": "94864",
+      "md5": "3ff1ff13ed92a93b262df7c72d75119b",
+      "crc32": "567e55c0",
+      "sha1": "fb352c5ba308a9a74464ad0a8caac7352c5804f9",
+      "format": "JSON"
+    },
+    {
+      "name": "wral-2022-07-30T12:02:57.622427-04:00.jpg",
+      "source": "original",
+      "mtime": "1659196982",
+      "size": "298166",
+      "md5": "95fc9fecf489e2203ea5810dd72a85f2",
+      "crc32": "6689e265",
+      "sha1": "e988c3c7c3ad4eb57e8e862ae0600521be93d528",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wral-2022-07-30T12:02:57.622427-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659196987",
+      "size": "1441",
+      "md5": "20ea7c19236a937c19c7f2f6352d3524",
+      "crc32": "4c7e9cd0",
+      "sha1": "8de9162c2cd4287c54ab75a4fe4b702dffa852bd",
+      "format": "JSON"
+    },
+    {
       "name": "wral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2db28afe75e5c6c679620adadc8fcbfca0236831",
-      "mtime": "1659153593",
-      "size": "164758",
-      "md5": "949857f7ce988fd390a64c7fd7be9c8c",
-      "crc32": "a2b78459",
-      "sha1": "68e3287a459eaa1ec9700292dbeb61a55189b3f4",
+      "btih": "cd447b1e317af25732261397208527f0ede54986",
+      "mtime": "1659197313",
+      "size": "165797",
+      "md5": "2de5bfd8e1d680e57ef49fbc2c41fcc7",
+      "crc32": "980a4139",
+      "sha1": "3ef8aff7662884fc700cb839566a96038fe0a1ee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e466546af013b60ce9ee2dadbfa0f3d2",
+      "md5": "95330c1d82d72e1e73ed0250280c0c40",
       "summation": "md5"
     },
     {
       "name": "wral-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659153553",
-      "size": "913408",
-      "md5": "9a2ae178dd269e1a889818f2f3122760",
-      "crc32": "8c159253",
-      "sha1": "c905468902e423f12c3870f65308cc3a112bf115",
+      "mtime": "1659197301",
+      "size": "921600",
+      "md5": "63a749d8a2defde91f8d29d955a9a773",
+      "crc32": "0a078e75",
+      "sha1": "530020212de01b50e9ec66612c4f3f55d5e91e93",
       "format": "Metadata"
     },
     {
@@ -8315,9 +8367,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 792,
-  "item_last_updated": 1659153593,
-  "item_size": 84546884,
+  "files_count": 797,
+  "item_last_updated": 1659197313,
+  "item_size": 85002696,
   "metadata": {
     "identifier": "wral-2022",
     "collection": [
@@ -8339,7 +8391,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347696286,
+      "task_id": 3348138933,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8347,7 +8399,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 747735459,
+  "uniq": 1667774774,
   "workable_servers": [
     "ia601505.us.archive.org"
   ],
@@ -8355,8 +8407,8 @@
     {
       "url": "https://www.wral.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wral_com-_-2022_07_30_03_38_16.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wral_com-_-2022_07_30_03_38_16.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wral_com-_-2022_07_30_15_34_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wral_com-_-2022_07_30_15_34_25.report.json",
       "summary": {
         "performance": 0.18,
         "accessibility": 0.88,
@@ -8368,10 +8420,10 @@
     {
       "url": "https://www.wral.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wral_com-_-2022_07_30_03_39_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wral_com-_-2022_07_30_03_39_09.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wral_com-_-2022_07_30_15_34_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wral_com-_-2022_07_30_15_34_50.report.json",
       "summary": {
-        "performance": 0.24,
+        "performance": 0.22,
         "accessibility": 0.88,
         "best-practices": 0.67,
         "seo": 0.84,
@@ -8381,10 +8433,10 @@
     {
       "url": "https://www.wral.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wral_com-_-2022_07_30_03_38_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wral_com-_-2022_07_30_03_38_44.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wral_com-_-2022_07_30_15_34_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wral_com-_-2022_07_30_15_34_01.report.json",
       "summary": {
-        "performance": 0.24,
+        "performance": 0.21,
         "accessibility": 0.88,
         "best-practices": 0.67,
         "seo": 0.84,

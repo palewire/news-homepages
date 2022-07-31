@@ -1,5 +1,5 @@
 {
-  "created": 1659184459,
+  "created": 1659227996,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/8/items/theonion-2022",
@@ -5979,31 +5979,73 @@
       "format": "JSON"
     },
     {
+      "name": "theonion-2022-07-29T20:23:02.173494-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theonion-2022-07-29T20:23:02.173494-05:00.jpg",
+      "mtime": "1659188200",
+      "size": "10797",
+      "md5": "8d70606e401670f19640d2e7f8ac8358",
+      "crc32": "7be7293c",
+      "sha1": "4ad11eec34a9fb5454816bb6b6b82e1b8ceb0afe"
+    },
+    {
+      "name": "theonion-2022-07-30T08:36:07.219282-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659188174",
+      "size": "17599",
+      "md5": "c041873da7f376f27482eef6f7711694",
+      "crc32": "b0290713",
+      "sha1": "cfd19646ca34947a87aa30635b919812023964a2",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-07-30T08:36:07.219282-05:00.jpg",
+      "source": "original",
+      "mtime": "1659188172",
+      "size": "293086",
+      "md5": "bd3dd846c0bc4c259c3add69731518a5",
+      "crc32": "c0dcb724",
+      "sha1": "69d0442ceeb41d8d7583d9ed74a34fdf11e670b5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theonion-2022-07-30T08:36:07.219282-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659188175",
+      "size": "1474",
+      "md5": "4ed91061f72dee2e886e1dad698d0fa0",
+      "crc32": "97a5a45a",
+      "sha1": "76271a3422ef1f312f81c9b45c9f6f79ec8f3eb8",
+      "format": "JSON"
+    },
+    {
       "name": "theonion-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d388627c84f575bd11d72ede1bcd730ee1041501",
-      "mtime": "1659144230",
-      "size": "121027",
-      "md5": "8d4e5a1ff50bb5722544e5e68c2b637e",
-      "crc32": "d4fd018a",
-      "sha1": "c8341649b01d555936cf40a1446ba47a66015058",
+      "btih": "34ba3708e1f695b58c4568d4599acdaaa7d21c22",
+      "mtime": "1659188232",
+      "size": "121873",
+      "md5": "fe7ea1f2f142ff80393480356e00385b",
+      "crc32": "d4ed1444",
+      "sha1": "87b28d2f0c8af848d20734924ff972ef15f1b7f2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theonion-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a789458254b672e2c69c699da921474a",
+      "md5": "9ef80874ba7604f686d86804b8277150",
       "summation": "md5"
     },
     {
       "name": "theonion-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659144191",
-      "size": "659456",
-      "md5": "5bc1d3b34865e1ef74a709635fa69906",
-      "crc32": "408ee5d8",
-      "sha1": "fbde78f31dbc28430aeeefe13ddda7d0a265b5b8",
+      "mtime": "1659188226",
+      "size": "663552",
+      "md5": "6b5aced2ccc9b5e83c848d0648432b32",
+      "crc32": "932a1f29",
+      "sha1": "c46bd57f4d9da9eae359e0ddb7b23c645456fd9a",
       "format": "Metadata"
     },
     {
@@ -6017,9 +6059,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 572,
-  "item_last_updated": 1659144230,
-  "item_size": 50419585,
+  "files_count": 576,
+  "item_last_updated": 1659188232,
+  "item_size": 50747483,
   "metadata": {
     "identifier": "theonion-2022",
     "collection": [
@@ -6041,7 +6083,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347605851,
+      "task_id": 3348055736,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -6053,12 +6095,12 @@
     {
       "url": "https://www.theonion.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theonion_com-_-2022_07_30_01_03_18.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theonion_com-_-2022_07_30_01_03_18.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theonion_com-_-2022_07_30_13_14_32.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theonion_com-_-2022_07_30_13_14_32.report.json",
       "summary": {
-        "performance": 0.31,
-        "accessibility": 0.89,
-        "best-practices": 0.75,
+        "performance": 0.25,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
         "seo": 0.9,
         "pwa": 0.4
       }
@@ -6066,12 +6108,12 @@
     {
       "url": "https://www.theonion.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theonion_com-_-2022_07_30_01_04_33.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theonion_com-_-2022_07_30_01_04_33.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theonion_com-_-2022_07_30_13_16_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theonion_com-_-2022_07_30_13_16_51.report.json",
       "summary": {
-        "performance": 0.29,
-        "accessibility": 0.95,
-        "best-practices": 0.75,
+        "performance": 0.31,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
         "seo": 0.9,
         "pwa": 0.4
       }
@@ -6079,18 +6121,18 @@
     {
       "url": "https://www.theonion.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theonion_com-_-2022_07_30_01_03_58.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theonion_com-_-2022_07_30_01_03_58.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theonion_com-_-2022_07_30_13_15_40.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theonion_com-_-2022_07_30_13_15_40.report.json",
       "summary": {
-        "performance": 0.31,
-        "accessibility": 0.89,
-        "best-practices": 0.75,
+        "performance": 0.32,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
         "seo": 0.9,
         "pwa": 0.4
       }
     }
   ],
-  "uniq": 1170598481,
+  "uniq": 1755716799,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

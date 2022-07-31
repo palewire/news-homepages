@@ -1,5 +1,5 @@
 {
-  "created": 1659184632,
+  "created": 1659228126,
   "d1": "ia902902.us.archive.org",
   "d2": "ia802902.us.archive.org",
   "dir": "/0/items/wistatejournal-2022",
@@ -7801,31 +7801,83 @@
       "format": "JSON"
     },
     {
+      "name": "wistatejournal-2022-07-29T20:26:22.740469-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-07-29T20:26:22.740469-05:00.jpg",
+      "mtime": "1659188362",
+      "size": "12403",
+      "md5": "4542b931be9e3c9a8ddf86315da755c9",
+      "crc32": "bd8adf99",
+      "sha1": "8e5dab8a4101cd5e510ef629563859e34ab2b40c"
+    },
+    {
+      "name": "wistatejournal-2022-07-30T08:38:53.401528-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659188337",
+      "size": "25245",
+      "md5": "41551712a8e33fbdfcd11e0f1490f8ab",
+      "crc32": "e188795d",
+      "sha1": "d5def2e1097a391a96d2163f59247aadbedf64bd",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-07-30T08:38:53.401528-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659188339",
+      "size": "70117",
+      "md5": "6cecba22469ad4edc524c9dec2af7c25",
+      "crc32": "18dcb1a7",
+      "sha1": "b45d856f2df82599246d37d6b87abda05b07c2a0",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-07-30T08:38:53.401528-05:00.jpg",
+      "source": "original",
+      "mtime": "1659188335",
+      "size": "329152",
+      "md5": "d23a506d6e09cbb80dfbe3395c6c0524",
+      "crc32": "41233517",
+      "sha1": "604ff50ec5d850a82f452699b2d8a72210830564",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-07-30T08:38:53.401528-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659188341",
+      "size": "1468",
+      "md5": "2bf030c7163a792c8937afdaf93b19b4",
+      "crc32": "f45595ab",
+      "sha1": "b56ef8e503ad1a391b70198f3eec2840e4f501c5",
+      "format": "JSON"
+    },
+    {
       "name": "wistatejournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6bce8155e311e83030a5bd4e7aeecd5217be7c16",
-      "mtime": "1659144435",
-      "size": "162918",
-      "md5": "80d8faf9c1ca79b23189c77a09924820",
-      "crc32": "7c7388b6",
-      "sha1": "6113ba0cc7f8fb37cdf24c62c3682281b21e79b0",
+      "btih": "d0a76959226490c33b6aaf083ac0f0cc5108159a",
+      "mtime": "1659188394",
+      "size": "164008",
+      "md5": "e51b087b3364a1771aad6c38935c5f7a",
+      "crc32": "c70feabb",
+      "sha1": "b1dcc232252aa20ad0812aa6fae87c18f890af5d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wistatejournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4ef0618379d2f180518446ea557deece",
+      "md5": "c5cb0d42109b8dcc0c2b3aef9e168e03",
       "summation": "md5"
     },
     {
       "name": "wistatejournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659144394",
-      "size": "868352",
-      "md5": "8744125a59d93f96b82192574f2436b4",
-      "crc32": "ffd31fd2",
-      "sha1": "df38c7bcb288b8755fc7571b54c36b796d2f3a17",
+      "mtime": "1659188386",
+      "size": "876544",
+      "md5": "e8606f1b36392d6a18adec09aa2faa6f",
+      "crc32": "eb6587a1",
+      "sha1": "dc3fb81a8acabcf6e86b065adcf61e0bb9c501ea",
       "format": "Metadata"
     },
     {
@@ -7839,9 +7891,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 746,
-  "item_last_updated": 1659144435,
-  "item_size": 82090162,
+  "files_count": 751,
+  "item_last_updated": 1659188394,
+  "item_size": 82537829,
   "metadata": {
     "identifier": "wistatejournal-2022",
     "collection": [
@@ -7863,7 +7915,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347608034,
+      "task_id": 3348057019,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -7871,13 +7923,26 @@
       "status": "queued"
     }
   ],
-  "uniq": 1293578144,
+  "uniq": 877416717,
   "wistatejournal-2022": [
     {
       "url": "https://madison.com/wsj/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_30_01_08_07.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_30_01_08_07.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_30_13_19_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_30_13_19_11.report.json",
+      "summary": {
+        "performance": 0.02,
+        "accessibility": 0.81,
+        "best-practices": 0.92,
+        "seo": 0.83,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://madison.com/wsj/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_30_13_19_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_30_13_19_36.report.json",
       "summary": {
         "performance": 0.04,
         "accessibility": 0.81,
@@ -7888,24 +7953,11 @@
     },
     {
       "url": "https://madison.com/wsj/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_30_01_09_11.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_30_01_09_11.report.json",
-      "summary": {
-        "performance": 0.03,
-        "accessibility": 0.81,
-        "best-practices": 0.92,
-        "seo": 0.83,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://madison.com/wsj/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_30_01_09_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_30_01_09_46.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_30_13_19_57.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/madison_com-_wsj_-2022_07_30_13_19_57.report.json",
       "summary": {
-        "performance": 0.03,
+        "performance": 0.04,
         "accessibility": 0.81,
         "best-practices": 0.92,
         "seo": 0.83,

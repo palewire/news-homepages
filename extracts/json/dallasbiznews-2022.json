@@ -1,5 +1,5 @@
 {
-  "created": 1659179869,
+  "created": 1659223034,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/15/items/dallasbiznews-2022",
@@ -1225,31 +1225,83 @@
       "format": "JSON"
     },
     {
+      "name": "dallasbiznews-2022-07-30T06:14:38.255662-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasbiznews-2022-07-30T06:14:38.255662-05:00.jpg",
+      "mtime": "1659223004",
+      "size": "8344",
+      "md5": "d2ac8b464558ab233f061fa6b3eccc93",
+      "crc32": "c6aa8e5c",
+      "sha1": "e35b7a15d5bf5ef7a89e1ca329a50a0d03d29979"
+    },
+    {
+      "name": "dallasbiznews-2022-07-30T18:16:27.029788-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659222990",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasbiznews-2022-07-30T18:16:27.029788-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659222992",
+      "size": "20352",
+      "md5": "e2474278a17ea486cdddbb1b9da77e82",
+      "crc32": "db9f6c17",
+      "sha1": "75d2e8d0d54caf7c8b116ddbb4fbfa36d7512dd4",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasbiznews-2022-07-30T18:16:27.029788-05:00.jpg",
+      "source": "original",
+      "mtime": "1659222989",
+      "size": "221769",
+      "md5": "1c0a62fb82c704e609a2590d008a6e5e",
+      "crc32": "aa35c72d",
+      "sha1": "b7cdb2f4b0edc53a65b689a5cc874e1a53ededf2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasbiznews-2022-07-30T18:16:27.029788-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659222993",
+      "size": "1564",
+      "md5": "61c89ec48bd6c453521af1f02ff9504a",
+      "crc32": "d78b67b7",
+      "sha1": "a6167ba4ad3eeae967c2f03ec485d70a9fe5ac21",
+      "format": "JSON"
+    },
+    {
       "name": "dallasbiznews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4cfc002064413e1b957f26fdeb71e696fe3ac9a7",
-      "mtime": "1659179858",
-      "size": "26559",
-      "md5": "493593bc19bb17d6852e37cbb493b00e",
-      "crc32": "4cf4e401",
-      "sha1": "15e5fa3e268f0c41d4ba8b6c5362fc20114b9dc2",
+      "btih": "78fa3273823f26f98559ef5666c24c389df4b64f",
+      "mtime": "1659223029",
+      "size": "27641",
+      "md5": "711ee07a782de173a4c082a97da70079",
+      "crc32": "005daa73",
+      "sha1": "56a5f7a0e5b263ad242d71360d04f8af8175391e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasbiznews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7d0115fc60ad760e57d1fb9d7aa27526",
+      "md5": "5f9ab6f3c64c011f6fb610a642815286",
       "summation": "md5"
     },
     {
       "name": "dallasbiznews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659179855",
-      "size": "163840",
-      "md5": "ec5d9f06dc2ca59c88b2106e011af554",
-      "crc32": "da83db08",
-      "sha1": "588f7cef92aa6859a70c455f896b95fa7da8b8a3",
+      "mtime": "1659223027",
+      "size": "167936",
+      "md5": "7dd2f48a660e9fc1b0c1e138a3c8a259",
+      "crc32": "9891c5e7",
+      "sha1": "71faabff5d9fe3c7e2f31053f4e56fea87ae1edc",
       "format": "Metadata"
     },
     {
@@ -1263,9 +1315,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 121,
-  "item_last_updated": 1659179858,
-  "item_size": 7189219,
+  "files_count": 126,
+  "item_last_updated": 1659223029,
+  "item_size": 7446566,
   "metadata": {
     "identifier": "dallasbiznews-2022",
     "collection": [
@@ -1287,7 +1339,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347985322,
+      "task_id": 3348363347,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1295,7 +1347,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 257679473,
+  "uniq": 399953341,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

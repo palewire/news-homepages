@@ -1,5 +1,5 @@
 {
-  "created": 1659184120,
+  "created": 1659227549,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/9/items/orcapchronicle-2022",
@@ -2371,31 +2371,83 @@
       "format": "JSON"
     },
     {
+      "name": "orcapchronicle-2022-07-30T05:27:31.454885-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "orcapchronicle-2022-07-30T05:27:31.454885-07:00.jpg",
+      "mtime": "1659225499",
+      "size": "10138",
+      "md5": "aefcf2ca5ae780b191408f284bb26979",
+      "crc32": "f2817c02",
+      "sha1": "bb1a18905aed01cccfb9334686816658aa2f3663"
+    },
+    {
+      "name": "orcapchronicle-2022-07-30T17:31:41.819346-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659227504",
+      "size": "15495",
+      "md5": "002a642886269dfda5cee85b281ba6f8",
+      "crc32": "53242d68",
+      "sha1": "298ff7394d61ff51187531be5856c8f257c080d7",
+      "format": "JSON"
+    },
+    {
+      "name": "orcapchronicle-2022-07-30T17:31:41.819346-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659227506",
+      "size": "13233",
+      "md5": "16a94dcbaab483a01084a0205787e40c",
+      "crc32": "412fa64a",
+      "sha1": "91cf7bee3a9b99e3921e02db3a166ea61bdea5b0",
+      "format": "JSON"
+    },
+    {
+      "name": "orcapchronicle-2022-07-30T17:31:41.819346-07:00.jpg",
+      "source": "original",
+      "mtime": "1659227503",
+      "size": "273358",
+      "md5": "86f2614c995e1e19bc261ffc08aac9bd",
+      "crc32": "bc14366f",
+      "sha1": "21cc00da075e85b63765d083cbf6bd98031cf945",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "orcapchronicle-2022-07-30T17:31:41.819346-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659227507",
+      "size": "1566",
+      "md5": "7bda9d3dce2e6d93523a998b227b5ca0",
+      "crc32": "5cd14e63",
+      "sha1": "189b5ab14d5277741bdedfdc69ea173c66fad1b2",
+      "format": "JSON"
+    },
+    {
       "name": "orcapchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "baafd978d9326b1ed14ed2868c5018804319b9af",
-      "mtime": "1659184113",
-      "size": "50464",
-      "md5": "8e471fbecfb666e12e13fea4cce930af",
-      "crc32": "6700909f",
-      "sha1": "8ad498a9e7e77b39e0916ac1ede68e3e767148b0",
+      "btih": "961205e0d4f99373e33fb3ad6b1c7c3f18a7ce25",
+      "mtime": "1659227546",
+      "size": "51554",
+      "md5": "0a3bd33d0132b05c120943ccad499408",
+      "crc32": "47f85ecb",
+      "sha1": "9e80efbacc9ead85ca451f67c48ed4ac647ce69f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "orcapchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a36fad50504b339caf8fd83d0914628f",
+      "md5": "be61cda7732264b1a8e76d16100d6f48",
       "summation": "md5"
     },
     {
       "name": "orcapchronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659184109",
-      "size": "286720",
-      "md5": "5e0ea4415a34aacada9630ea39033450",
-      "crc32": "c18bfcae",
-      "sha1": "efa35b853972e9cc4226dfac76a1d4ba1a3f2c9a",
+      "mtime": "1659227511",
+      "size": "290816",
+      "md5": "2e198a030ab71c9db93f8a78dd9ac9d5",
+      "crc32": "57edd3ef",
+      "sha1": "179127e002e77b5ae7407ca37f28e7511c334722",
       "format": "Metadata"
     },
     {
@@ -2409,9 +2461,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 230,
-  "item_last_updated": 1659184113,
-  "item_size": 19184770,
+  "files_count": 235,
+  "item_last_updated": 1659227546,
+  "item_size": 19503746,
   "metadata": {
     "identifier": "orcapchronicle-2022",
     "collection": [
@@ -2433,7 +2485,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348017468,
+      "task_id": 3348394729,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2441,7 +2493,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 688784998,
+  "uniq": 1903527300,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

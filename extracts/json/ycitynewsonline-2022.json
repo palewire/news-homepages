@@ -1,5 +1,5 @@
 {
-  "created": 1659184659,
+  "created": 1659228153,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/17/items/ycitynewsonline-2022",
@@ -525,31 +525,83 @@
       "format": "JSON"
     },
     {
+      "name": "ycitynewsonline-2022-07-29T21:26:43.270843-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ycitynewsonline-2022-07-29T21:26:43.270843-04:00.jpg",
+      "mtime": "1659188644",
+      "size": "8701",
+      "md5": "cea41d1d5673da6df170db4afae4766f",
+      "crc32": "ec30d332",
+      "sha1": "fddb4407efd0dd33019a37a1168d00b44651c756"
+    },
+    {
+      "name": "ycitynewsonline-2022-07-30T09:39:12.859302-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659188356",
+      "size": "10242",
+      "md5": "2fab9444e2184e68da6e053fb95486cd",
+      "crc32": "a9803b32",
+      "sha1": "b4ff0647be01fcec63ec53b52263b9d97219526f",
+      "format": "JSON"
+    },
+    {
+      "name": "ycitynewsonline-2022-07-30T09:39:12.859302-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659188357",
+      "size": "11463",
+      "md5": "e53841fce811d5139a1298b8e29b9a94",
+      "crc32": "a0363e3e",
+      "sha1": "767a29bfe4cb10733f67a84c36b8faeaa0688929",
+      "format": "JSON"
+    },
+    {
+      "name": "ycitynewsonline-2022-07-30T09:39:12.859302-04:00.jpg",
+      "source": "original",
+      "mtime": "1659188354",
+      "size": "232541",
+      "md5": "b1dec349028d85a11235aa7c6356f0ba",
+      "crc32": "1b8d6c69",
+      "sha1": "1adc7504c0748a8911a38c770f857ad71d4273df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ycitynewsonline-2022-07-30T09:39:12.859302-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659188359",
+      "size": "1450",
+      "md5": "9d8932a59e9c5e5b056b357f32bb870a",
+      "crc32": "a8a4608b",
+      "sha1": "35e99a52fabb4acdb23ad0c511508e951932ddc7",
+      "format": "JSON"
+    },
+    {
       "name": "ycitynewsonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7583bc2d4a2948dbc26077da68513665dfe50653",
-      "mtime": "1659144446",
-      "size": "12319",
-      "md5": "c5a4a4915c2bd2bb8b1f3396b9a4cb8d",
-      "crc32": "013c2ddb",
-      "sha1": "0d8d8f40483cbfb1dd96a23ba9bccabdc99de074",
+      "btih": "20b6e6ae8cad44bfcafb240ac5334cc294fa324e",
+      "mtime": "1659188686",
+      "size": "13393",
+      "md5": "d566872bfee3270f101f62841b9442c7",
+      "crc32": "9199bae4",
+      "sha1": "60490597fbd899549420810d4543beb105aafa31",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ycitynewsonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a24535dfa1aa0ff956f83b4da56f1f14",
+      "md5": "04d41e480b67e5311664a9d8925dcfd7",
       "summation": "md5"
     },
     {
       "name": "ycitynewsonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659144412",
-      "size": "77824",
-      "md5": "79f3be2efffffd906efc5622ef1955b9",
-      "crc32": "089d9bb8",
-      "sha1": "27c018ba4a4b6e36d613cfa0626c52a2d2aa047e",
+      "mtime": "1659188684",
+      "size": "81920",
+      "md5": "856b092477e6d9a310456f0943582b02",
+      "crc32": "5c0492b9",
+      "sha1": "6c7b4c86ee001ae8d567447751c5f2dbdc3601c0",
       "format": "Metadata"
     },
     {
@@ -563,9 +615,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 54,
-  "item_last_updated": 1659144446,
-  "item_size": 2696228,
+  "files_count": 59,
+  "item_last_updated": 1659188686,
+  "item_size": 2965795,
   "metadata": {
     "identifier": "ycitynewsonline-2022",
     "collection": [
@@ -587,7 +639,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347608121,
+      "task_id": 3348059507,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -595,7 +647,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1050747411,
+  "uniq": 924302002,
   "workable_servers": [
     "ia601403.us.archive.org"
   ],
@@ -603,10 +655,10 @@
     {
       "url": "https://ycitynews.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ycitynews_com-_-2022_07_30_01_08_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ycitynews_com-_-2022_07_30_01_08_56.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ycitynews_com-_-2022_07_30_13_20_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ycitynews_com-_-2022_07_30_13_20_36.report.json",
       "summary": {
-        "performance": 0.5,
+        "performance": 0.47,
         "accessibility": 0.74,
         "best-practices": 0.92,
         "seo": 0.98,
@@ -616,10 +668,10 @@
     {
       "url": "https://ycitynews.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ycitynews_com-_-2022_07_30_01_09_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ycitynews_com-_-2022_07_30_01_09_19.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ycitynews_com-_-2022_07_30_13_20_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ycitynews_com-_-2022_07_30_13_20_48.report.json",
       "summary": {
-        "performance": 0.51,
+        "performance": 0.52,
         "accessibility": 0.74,
         "best-practices": 0.92,
         "seo": 0.98,
@@ -629,10 +681,10 @@
     {
       "url": "https://ycitynews.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ycitynews_com-_-2022_07_30_01_09_07.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ycitynews_com-_-2022_07_30_01_09_07.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ycitynews_com-_-2022_07_30_13_21_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ycitynews_com-_-2022_07_30_13_21_00.report.json",
       "summary": {
-        "performance": 0.5,
+        "performance": 0.57,
         "accessibility": 0.74,
         "best-practices": 0.92,
         "seo": 0.98,

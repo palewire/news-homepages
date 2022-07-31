@@ -1,5 +1,5 @@
 {
-  "created": 1659153396,
+  "created": 1659196923,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/14/items/thejournal_ie-2022",
@@ -1185,31 +1185,83 @@
       "format": "JSON"
     },
     {
+      "name": "thejournal_ie-2022-07-30T04:55:31.733217+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thejournal_ie-2022-07-30T04:55:31.733217+01:00.jpg",
+      "mtime": "1659196832",
+      "size": "9430",
+      "md5": "42ed4f5961f27dc22ad87bfb60613bc6",
+      "crc32": "b1e81adf",
+      "sha1": "f019df2c9c7972da93560a705ebe70f0ed19d393"
+    },
+    {
+      "name": "thejournal_ie-2022-07-30T16:59:47.478382+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659196792",
+      "size": "66089",
+      "md5": "bf4f114e6fe54e41637ee12f6081ae52",
+      "crc32": "bdf15c2c",
+      "sha1": "8476474e82a697529a11f5bb6b7ef5621262e843",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-07-30T16:59:47.478382+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659196793",
+      "size": "63674",
+      "md5": "471ff36b31953c1196b415d995bbedec",
+      "crc32": "813eff1e",
+      "sha1": "bb7848b589638949e7a211e64e0b144160d360b8",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-07-30T16:59:47.478382+01:00.jpg",
+      "source": "original",
+      "mtime": "1659196790",
+      "size": "347839",
+      "md5": "1a1c20da3ffafae8d8ceb4349f6abd4a",
+      "crc32": "658055cc",
+      "sha1": "e7c4bda1529c7185deb30b32fbbd858c13021bb5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thejournal_ie-2022-07-30T16:59:47.478382+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659196795",
+      "size": "1485",
+      "md5": "efc5f01bce937abad85d9765bafba00e",
+      "crc32": "7285c0a0",
+      "sha1": "4de7c1af21a2e6219b2695a391bf67237f2455bb",
+      "format": "JSON"
+    },
+    {
       "name": "thejournal_ie-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3ec3475d7a1263f0f66b8ddf773ae4da76ab65cc",
-      "mtime": "1659153386",
-      "size": "25904",
-      "md5": "54456d0d22ba5b703b106aba10fdf810",
-      "crc32": "46533b56",
-      "sha1": "c78cc4fa22c2183bf10699a87b26ade4e26a329a",
+      "btih": "5cbaefac91a2f6ac2ee4fe83cdd54b2df8d681eb",
+      "mtime": "1659196901",
+      "size": "26988",
+      "md5": "23e05476c2a1db93280a8dfd8a315bed",
+      "crc32": "96481f52",
+      "sha1": "00e02f03849d2f84ea842511c0f2098c7134d2b6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thejournal_ie-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e17a34d4b34c5e477d0787f86d114aab",
+      "md5": "25b282a4ff7e99c932e34e29945a5bf1",
       "summation": "md5"
     },
     {
       "name": "thejournal_ie-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659153348",
-      "size": "159744",
-      "md5": "51cef7df5ffd6c6c03bcabad3c7a14e3",
-      "crc32": "31449581",
-      "sha1": "46f9956c0917b290dc24c0669333d50b58a53ee4",
+      "mtime": "1659196895",
+      "size": "163840",
+      "md5": "c23656523a798d8bc419c7c9f4878d2f",
+      "crc32": "d238af5e",
+      "sha1": "3ba1f106357608681270b50c66a351c9940db29e",
       "format": "Metadata"
     },
     {
@@ -1223,9 +1275,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 117,
-  "item_last_updated": 1659153386,
-  "item_size": 11187921,
+  "files_count": 122,
+  "item_last_updated": 1659196901,
+  "item_size": 11681618,
   "metadata": {
     "identifier": "thejournal_ie-2022",
     "collection": [
@@ -1247,7 +1299,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347694705,
+      "task_id": 3348130780,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1255,7 +1307,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2067325907,
+  "uniq": 1658912179,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

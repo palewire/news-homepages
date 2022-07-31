@@ -1,5 +1,5 @@
 {
-  "created": 1659179415,
+  "created": 1659222826,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/32/items/annapurna_post-2022",
@@ -587,31 +587,83 @@
       "format": "JSON"
     },
     {
+      "name": "annapurna_post-2022-07-30T16:53:40.020972+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "annapurna_post-2022-07-30T16:53:40.020972+05:45.jpg",
+      "mtime": "1659222785",
+      "size": "9843",
+      "md5": "9d23efab24a5b8cca2fbf1a55c14cf7c",
+      "crc32": "e27e2201",
+      "sha1": "59036568fd135a7f4d5d736636488f1108706849"
+    },
+    {
+      "name": "annapurna_post-2022-07-31T04:57:18.825560+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659222742",
+      "size": "48549",
+      "md5": "e258c9ea558aa393af0edad1672acc5b",
+      "crc32": "09a3bf9a",
+      "sha1": "3a439a82cf31fc2fbbc1fb9b1b23134e545316f3",
+      "format": "JSON"
+    },
+    {
+      "name": "annapurna_post-2022-07-31T04:57:18.825560+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659222743",
+      "size": "16903",
+      "md5": "bee9aac5c152438b075c560e3fc470e0",
+      "crc32": "92d20025",
+      "sha1": "58f234103a3ef4710a9f7066cec7f7547dc868cf",
+      "format": "JSON"
+    },
+    {
+      "name": "annapurna_post-2022-07-31T04:57:18.825560+05:45.jpg",
+      "source": "original",
+      "mtime": "1659222741",
+      "size": "271973",
+      "md5": "866ef0b342cc0b1629ca388cd9a7856f",
+      "crc32": "573497ee",
+      "sha1": "2fd097d93ddb7a79de434a59210a0f37be9e2b61",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "annapurna_post-2022-07-31T04:57:18.825560+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659222745",
+      "size": "1522",
+      "md5": "8eba8bc7f2937eb6516ed8bea4e3d218",
+      "crc32": "665b1494",
+      "sha1": "265f192c3d09693078be55246c122571183e1769",
+      "format": "JSON"
+    },
+    {
       "name": "annapurna_post-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c300abd7ad6071bd73efa59260d8aa3dc873d418",
-      "mtime": "1659179408",
-      "size": "13591",
-      "md5": "040d2edd43cc3c47eb7f3918ecf3b4e3",
-      "crc32": "897d667c",
-      "sha1": "059dcea50313b31d298d07a5cfe83569b069ec8b",
+      "btih": "e32dd73120a23cd2ca94a3ab198bf83dca9b7abb",
+      "mtime": "1659222816",
+      "size": "14680",
+      "md5": "91618e16d4b321443f6ffaf4dd494ea6",
+      "crc32": "240330d9",
+      "sha1": "620f17e99af7b159aba6ed8941c4f36c4764ef85",
       "format": "Archive BitTorrent"
     },
     {
       "name": "annapurna_post-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "112a6194bb5bf2f9ae4217e64c662cb1",
+      "md5": "0be57e4a5a3a6c80e38fd79321bf0308",
       "summation": "md5"
     },
     {
       "name": "annapurna_post-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659179406",
-      "size": "81920",
-      "md5": "004b7273567c026c566ab2c9e552f248",
-      "crc32": "85208254",
-      "sha1": "daeaacd0b62e69dc750e4d4dfb0c80e16aed062d",
+      "mtime": "1659222813",
+      "size": "90112",
+      "md5": "083d677ecb99a0c044f96891b634dd18",
+      "crc32": "ff896a43",
+      "sha1": "a4c6d01c6148cad579153c2b0f903dc3dc3f1868",
       "format": "Metadata"
     },
     {
@@ -625,9 +677,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 60,
-  "item_last_updated": 1659179408,
-  "item_size": 4059577,
+  "files_count": 65,
+  "item_last_updated": 1659222816,
+  "item_size": 4417648,
   "metadata": {
     "identifier": "annapurna_post-2022",
     "collection": [
@@ -649,7 +701,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347981716,
+      "task_id": 3348361816,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -657,7 +709,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1415837991,
+  "uniq": 902542632,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

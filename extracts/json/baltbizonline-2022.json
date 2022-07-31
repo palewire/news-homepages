@@ -1,5 +1,5 @@
 {
-  "created": 1659179457,
+  "created": 1659222867,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/4/items/baltbizonline-2022",
@@ -1667,31 +1667,83 @@
       "format": "JSON"
     },
     {
+      "name": "baltbizonline-2022-07-30T07:10:06.605575-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbizonline-2022-07-30T07:10:06.605575-04:00.jpg",
+      "mtime": "1659222795",
+      "size": "8693",
+      "md5": "421b86b79977bc52b0d44bf8bb8acab8",
+      "crc32": "eee37305",
+      "sha1": "b6066f2cb0e546f59efed46ca33143f3ed27806a"
+    },
+    {
+      "name": "baltbizonline-2022-07-30T19:12:12.676209-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659222736",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-07-30T19:12:12.676209-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659222738",
+      "size": "20283",
+      "md5": "62a360b4f662d60cdadc0c219a38b303",
+      "crc32": "7a2d29b2",
+      "sha1": "5dd38a8cd85c6e3b0bfe7440fd61778d87411a46",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-07-30T19:12:12.676209-04:00.jpg",
+      "source": "original",
+      "mtime": "1659222735",
+      "size": "245109",
+      "md5": "c203d2de89af600708849e1e9fc59916",
+      "crc32": "eb352cc0",
+      "sha1": "08b27817ef63c90f70d358a9ff293d6d8d21fb32",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbizonline-2022-07-30T19:12:12.676209-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659222739",
+      "size": "1593",
+      "md5": "a798fc053c35b8f651cfdff46890c757",
+      "crc32": "686da494",
+      "sha1": "3ca8f45f663998b3bdfc7943cbc14e461065f02e",
+      "format": "JSON"
+    },
+    {
       "name": "baltbizonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c9f5e772db4b93f3dd4b25eb2f43f92d6734ac63",
-      "mtime": "1659179448",
-      "size": "35560",
-      "md5": "ada7ffecc6f3f8cc0357cc32a7a98bb9",
-      "crc32": "6579b235",
-      "sha1": "6d52f15c4e0fecbc01732a0c078cc2a425e5bc6b",
+      "btih": "44e687d8ccfbed2a865fd40b318ba41b398a291b",
+      "mtime": "1659222859",
+      "size": "36622",
+      "md5": "5fa073c29d8c457f37bddfa4e0d45de9",
+      "crc32": "2f868f58",
+      "sha1": "337e32d9c3c3ff9a5a9c38afd715bc564543f50f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltbizonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e211c2235f502115bc7b439da2655796",
+      "md5": "77a2988c6164cc031aef026d621fc6ee",
       "summation": "md5"
     },
     {
       "name": "baltbizonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659179446",
-      "size": "212992",
-      "md5": "9ac422420f9ff535eb97ce8694307c48",
-      "crc32": "4d08560c",
-      "sha1": "c060e9dca985a1c6e277e2b84d84368a0f634f9c",
+      "mtime": "1659222856",
+      "size": "221184",
+      "md5": "fa012d6db3309611f99a42b8a50f7e3c",
+      "crc32": "5c16b86a",
+      "sha1": "542e6957578b78f453c325848e6eaf3a92384725",
       "format": "Metadata"
     },
     {
@@ -1705,9 +1757,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 163,
-  "item_last_updated": 1659179448,
-  "item_size": 10118161,
+  "files_count": 168,
+  "item_last_updated": 1659222859,
+  "item_size": 10403233,
   "metadata": {
     "identifier": "baltbizonline-2022",
     "collection": [
@@ -1729,7 +1781,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347982007,
+      "task_id": 3348362112,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1737,7 +1789,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1394697884,
+  "uniq": 535653811,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

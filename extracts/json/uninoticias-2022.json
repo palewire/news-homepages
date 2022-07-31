@@ -1,5 +1,5 @@
 {
-  "created": 1659184531,
+  "created": 1659228069,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/16/items/uninoticias-2022",
@@ -525,31 +525,73 @@
       "format": "JSON"
     },
     {
+      "name": "uninoticias-2022-07-29T21:24:51.894627-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uninoticias-2022-07-29T21:24:51.894627-04:00.jpg",
+      "mtime": "1659188433",
+      "size": "10892",
+      "md5": "fa8aa433ac0351e71f5e0da15ca87d5c",
+      "crc32": "0806cab7",
+      "sha1": "0103172d1b17707c5ae9f4e1079eae0ddb9ab581"
+    },
+    {
+      "name": "uninoticias-2022-07-30T09:38:03.448780-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659188285",
+      "size": "23825",
+      "md5": "489fcb14faafea9f872a712f2d5fe1d9",
+      "crc32": "fc6ac5ed",
+      "sha1": "91e6b7df6517307ea62bb4512868e6e6196eecb3",
+      "format": "JSON"
+    },
+    {
+      "name": "uninoticias-2022-07-30T09:38:03.448780-04:00.jpg",
+      "source": "original",
+      "mtime": "1659188284",
+      "size": "298867",
+      "md5": "fcce5f53a1f8120f0ed74262c9709295",
+      "crc32": "419f19e7",
+      "sha1": "1c0e661f45d011fcd1f8e0609f0aa4798ec5ad1f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uninoticias-2022-07-30T09:38:03.448780-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659188287",
+      "size": "1555",
+      "md5": "a1e3cc9b6b8e4651ee03355f81516531",
+      "crc32": "88b7b9a4",
+      "sha1": "1965cf2ab6f71eff92268fd9315725462d3218d9",
+      "format": "JSON"
+    },
+    {
       "name": "uninoticias-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7513b960ef357df78325261faa921678351a6517",
-      "mtime": "1659144336",
-      "size": "12116",
-      "md5": "d737d7990caa88f46c1d99e1120257c2",
-      "crc32": "87324658",
-      "sha1": "6cfd603fcbad3484f884496ad069c1995d6dba52",
+      "btih": "4450432a6d24fcd13559c6da16b03196c8606864",
+      "mtime": "1659188513",
+      "size": "12954",
+      "md5": "b1c905e2699cbdb80115dfde6367a6d5",
+      "crc32": "ea744767",
+      "sha1": "f693559682cb56889ed1c1971db5a5ce4e6bb438",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uninoticias-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1364e734e95fead31f3647d7272b4f1a",
+      "md5": "cb305960aa9c48bdcbbb5b48b1f3e984",
       "summation": "md5"
     },
     {
       "name": "uninoticias-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659144301",
-      "size": "77824",
-      "md5": "617e8707338aac1a1e0b3cb5be1e0b17",
-      "crc32": "0f80eb19",
-      "sha1": "c835b1fc645ed64680232aff02416d4357dd2489",
+      "mtime": "1659188512",
+      "size": "81920",
+      "md5": "e38abbff2f8b5e8f437d31ec1f066c04",
+      "crc32": "a7c56b33",
+      "sha1": "3325e58da38043d9f091a74cb216088c9a98f9a2",
       "format": "Metadata"
     },
     {
@@ -563,9 +605,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 54,
-  "item_last_updated": 1659144336,
-  "item_size": 3204522,
+  "files_count": 58,
+  "item_last_updated": 1659188513,
+  "item_size": 3544595,
   "metadata": {
     "identifier": "uninoticias-2022",
     "collection": [
@@ -587,7 +629,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347606950,
+      "task_id": 3348057924,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -599,10 +641,10 @@
     {
       "url": "https://www.univision.com/noticias",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_07_30_01_06_04.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_07_30_01_06_04.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_07_30_13_17_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_07_30_13_17_13.report.json",
       "summary": {
-        "performance": 0.25,
+        "performance": 0.31,
         "accessibility": 0.75,
         "best-practices": 0.83,
         "seo": 0.9,
@@ -612,10 +654,10 @@
     {
       "url": "https://www.univision.com/noticias",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_07_30_01_06_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_07_30_01_06_56.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_07_30_13_18_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_07_30_13_18_06.report.json",
       "summary": {
-        "performance": 0.32,
+        "performance": 0.48,
         "accessibility": 0.75,
         "best-practices": 0.83,
         "seo": 0.9,
@@ -625,10 +667,10 @@
     {
       "url": "https://www.univision.com/noticias",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_07_30_01_06_30.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_07_30_01_06_30.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_07_30_13_17_42.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_07_30_13_17_42.report.json",
       "summary": {
-        "performance": 0.27,
+        "performance": 0.46,
         "accessibility": 0.75,
         "best-practices": 0.83,
         "seo": 0.9,
@@ -636,7 +678,7 @@
       }
     }
   ],
-  "uniq": 609598412,
+  "uniq": 349196300,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]

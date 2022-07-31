@@ -1,5 +1,5 @@
 {
-  "created": 1659179892,
+  "created": 1659223086,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/35/items/comissourian-2022",
@@ -2363,31 +2363,83 @@
       "format": "JSON"
     },
     {
+      "name": "comissourian-2022-07-30T06:13:15.983827-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-07-30T06:13:15.983827-05:00.jpg",
+      "mtime": "1659223048",
+      "size": "9801",
+      "md5": "8d5a96b76ca59b3194d79f1c134dbfa9",
+      "crc32": "8d45c471",
+      "sha1": "ed0f2e2bf165c4f6ba6c2e99921b82fd670752b4"
+    },
+    {
+      "name": "comissourian-2022-07-30T18:16:19.399218-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659222982",
+      "size": "31483",
+      "md5": "7469e4ab3bbaa516a4e244a83499e4ad",
+      "crc32": "0f28e38e",
+      "sha1": "14b6cbe16e4296c9709be60693f951a96fb6b6df",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-07-30T18:16:19.399218-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659222984",
+      "size": "46453",
+      "md5": "8e85d883b9a8ac6ebbc4d22ec9318c53",
+      "crc32": "4ac9349d",
+      "sha1": "fdcd774d65d35e9e3784511da7f5c85c374dbe60",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-07-30T18:16:19.399218-05:00.jpg",
+      "source": "original",
+      "mtime": "1659222981",
+      "size": "341938",
+      "md5": "7a59723b6828ad3bd4b37f7c44d5f6f3",
+      "crc32": "8907a009",
+      "sha1": "cc8dc70bb38c096a1d725addd2e09213b7494f88",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "comissourian-2022-07-30T18:16:19.399218-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659222985",
+      "size": "1567",
+      "md5": "4c2b3e722aeb31b79340c5834447f901",
+      "crc32": "c26c97e8",
+      "sha1": "2829014bd444c83dcbdf53661206da4c24651138",
+      "format": "JSON"
+    },
+    {
       "name": "comissourian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3aca81a78f31bb43c2489120da877488015ba2de",
-      "mtime": "1659179887",
-      "size": "49877",
-      "md5": "765a6a1caa2b464804dc6c9447b8f8b4",
-      "crc32": "9332f31f",
-      "sha1": "1df9925ec69d7b1e4dcac7bfc682d0e8b614f31a",
+      "btih": "d8e4cea1f14518ebc12e07cd27a159926980e6d7",
+      "mtime": "1659223080",
+      "size": "50956",
+      "md5": "24ef64b03a1ee6ad04ae9c1ec5e7299d",
+      "crc32": "9a5a8ca2",
+      "sha1": "c53947051f2fb23a764be2c21b7f1d726b440187",
       "format": "Archive BitTorrent"
     },
     {
       "name": "comissourian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ac43e1a52a28b2c892b7a50927484b7a",
+      "md5": "eae523d37a4a3a8fe223245895e9d962",
       "summation": "md5"
     },
     {
       "name": "comissourian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659179884",
-      "size": "282624",
-      "md5": "edbabd0d79bda8783d67bfed6078490d",
-      "crc32": "b9b60e5f",
-      "sha1": "f93756c6d9e11b75c23cc7daf33700bb65f7dfa8",
+      "mtime": "1659223076",
+      "size": "290816",
+      "md5": "2878c1f3623291d08db0479065abf93f",
+      "crc32": "bc43a67a",
+      "sha1": "b5d93371d18eb9f0d4b378d75588141e4429443a",
       "format": "Metadata"
     },
     {
@@ -2401,9 +2453,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 229,
-  "item_last_updated": 1659179887,
-  "item_size": 23498912,
+  "files_count": 234,
+  "item_last_updated": 1659223080,
+  "item_size": 23939425,
   "metadata": {
     "identifier": "comissourian-2022",
     "collection": [
@@ -2425,7 +2477,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347985497,
+      "task_id": 3348363708,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2433,7 +2485,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 308770126,
+  "uniq": 877858485,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

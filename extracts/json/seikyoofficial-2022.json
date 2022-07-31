@@ -1,5 +1,5 @@
 {
-  "created": 1659153401,
+  "created": 1659227813,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/9/items/seikyoofficial-2022",
@@ -2977,31 +2977,83 @@
       "format": "JSON"
     },
     {
+      "name": "seikyoofficial-2022-07-30T12:53:37.752671+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "seikyoofficial-2022-07-30T12:53:37.752671+09:00.jpg",
+      "mtime": "1659196762",
+      "size": "9807",
+      "md5": "306980b38d07698eca59359e9175e17a",
+      "crc32": "2371fabd",
+      "sha1": "6e11a8c7e55281315862449fdf6bbf614ae5fe93"
+    },
+    {
+      "name": "seikyoofficial-2022-07-31T00:58:01.899722+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659196684",
+      "size": "24198",
+      "md5": "46025e7cda05973df4009ebf129d0a60",
+      "crc32": "145389b4",
+      "sha1": "14b6c620ea8e560fb609c8f7834d85660273f705",
+      "format": "JSON"
+    },
+    {
+      "name": "seikyoofficial-2022-07-31T00:58:01.899722+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659196686",
+      "size": "33403",
+      "md5": "56848eb1b7fdbba1981a5d9ff5e76e39",
+      "crc32": "573a411c",
+      "sha1": "b71526db1af2864a73c7b3e5c7e63fb5fc83d9e5",
+      "format": "JSON"
+    },
+    {
+      "name": "seikyoofficial-2022-07-31T00:58:01.899722+09:00.jpg",
+      "source": "original",
+      "mtime": "1659196683",
+      "size": "301475",
+      "md5": "42b8152d6b2f5d02fdd734b2c73d794f",
+      "crc32": "f215c60d",
+      "sha1": "935e1c7c24b92ea7ad02c9f00fef4b9a99284972",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "seikyoofficial-2022-07-31T00:58:01.899722+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659196687",
+      "size": "1513",
+      "md5": "a0a04aed3dbcc7acb8a6c127db3d723a",
+      "crc32": "63391ed8",
+      "sha1": "681ae1b2ecdbe4bb6f0df338a938f3e7b7312c44",
+      "format": "JSON"
+    },
+    {
       "name": "seikyoofficial-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7c3a6f2e21e174788de2ca4364f80758e78ba688",
-      "mtime": "1659153387",
-      "size": "62967",
-      "md5": "26c77dc5064c202226a0a168741df831",
-      "crc32": "377e48d9",
-      "sha1": "3a5d2b421306f62112c69de1fb7e8bb22db0f8c2",
+      "btih": "7628f2fed30c6ffcd7cb4db7931dc5ef69b2696d",
+      "mtime": "1659196824",
+      "size": "64036",
+      "md5": "e9ec170ce9231b4e892e20514bf14252",
+      "crc32": "10acfd70",
+      "sha1": "601812f4ce578799b0eb933f3bd3767de58c7f17",
       "format": "Archive BitTorrent"
     },
     {
       "name": "seikyoofficial-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "75973e9f7c0c8eb87048b900a47e1e6e",
+      "md5": "04e8f7430eb0e0bb9a3b335e5bef979c",
       "summation": "md5"
     },
     {
       "name": "seikyoofficial-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659153372",
-      "size": "356352",
-      "md5": "5ff2b41e3974fc4ae34eb239409765c1",
-      "crc32": "10a6405f",
-      "sha1": "11d0152589f4c18c719766f79ff4274f196ba93c",
+      "mtime": "1659196818",
+      "size": "360448",
+      "md5": "5db87bab943495494ad5fc628c583d09",
+      "crc32": "9360505b",
+      "sha1": "ee056b421cbb8083b5542436c7cd04af4844966b",
       "format": "Metadata"
     },
     {
@@ -3015,9 +3067,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 288,
-  "item_last_updated": 1659153387,
-  "item_size": 23251807,
+  "files_count": 293,
+  "item_last_updated": 1659196824,
+  "item_size": 23627368,
   "metadata": {
     "identifier": "seikyoofficial-2022",
     "collection": [
@@ -3035,11 +3087,52 @@
     "addeddate": "2022-07-09 02:39:13"
   },
   "pending_tasks": true,
+  "seikyoofficial-2022": [
+    {
+      "url": "https://www.seikyoonline.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_seikyoonline_com-_-2022_07_30_15_25_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_seikyoonline_com-_-2022_07_30_15_25_49.report.json",
+      "summary": {
+        "performance": 0.46,
+        "accessibility": 0.56,
+        "best-practices": 0.92,
+        "seo": 0.83,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.seikyoonline.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_seikyoonline_com-_-2022_07_30_15_26_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_seikyoonline_com-_-2022_07_30_15_26_27.report.json",
+      "summary": {
+        "performance": 0.33,
+        "accessibility": 0.56,
+        "best-practices": 0.92,
+        "seo": 0.83,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.seikyoonline.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_seikyoonline_com-_-2022_07_30_15_26_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_seikyoonline_com-_-2022_07_30_15_26_11.report.json",
+      "summary": {
+        "performance": 0.45,
+        "accessibility": 0.56,
+        "best-practices": 0.92,
+        "seo": 0.83,
+        "pwa": 0.4
+      }
+    }
+  ],
   "server": "ia902502.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347694709,
+      "task_id": 3348129016,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3047,7 +3140,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1954756163,
+  "uniq": 1569793092,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

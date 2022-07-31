@@ -1,5 +1,5 @@
 {
-  "created": 1659179828,
+  "created": 1659223085,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/12/items/buckscoherald-2022",
@@ -1993,31 +1993,83 @@
       "format": "JSON"
     },
     {
+      "name": "buckscoherald-2022-07-30T07:11:41.869822-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "buckscoherald-2022-07-30T07:11:41.869822-04:00.jpg",
+      "mtime": "1659222962",
+      "size": "9943",
+      "md5": "89828c17497b53a7d518934a03c062b7",
+      "crc32": "de792e1d",
+      "sha1": "24d6783c726816c0e8cdd72a8c553d51ebcf77af"
+    },
+    {
+      "name": "buckscoherald-2022-07-30T19:14:56.518899-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659222901",
+      "size": "42590",
+      "md5": "334f2b116e4cc82185acf1f76a8d5aaf",
+      "crc32": "177dd185",
+      "sha1": "6a79b76c2d619c083a49882aea3c8dda641b8d9b",
+      "format": "JSON"
+    },
+    {
+      "name": "buckscoherald-2022-07-30T19:14:56.518899-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659222902",
+      "size": "52431",
+      "md5": "b8d1c5d53044c7f917142f309b17f3cf",
+      "crc32": "e4395a26",
+      "sha1": "005f5253d72185f17b8beff7ed47d930dde14a8f",
+      "format": "JSON"
+    },
+    {
+      "name": "buckscoherald-2022-07-30T19:14:56.518899-04:00.jpg",
+      "source": "original",
+      "mtime": "1659222899",
+      "size": "301468",
+      "md5": "421a6ea5e89d17ad7e3d1a1d24539e94",
+      "crc32": "0c7519fd",
+      "sha1": "8bc80ece4bebbbbbf87160d58d46c229c32ca664",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "buckscoherald-2022-07-30T19:14:56.518899-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659222904",
+      "size": "1519",
+      "md5": "391bdd35951a69d902578a4dad1fc7b6",
+      "crc32": "26f8e0d5",
+      "sha1": "d2805afb4ea24501a0021bd8ad5ed1b53d675b67",
+      "format": "JSON"
+    },
+    {
       "name": "buckscoherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cdd67a0e71024866d0305a75ea05612b03a03d11",
-      "mtime": "1659179822",
-      "size": "42515",
-      "md5": "66f10efb6764f334ad2b4d1951e17d1d",
-      "crc32": "fbc1d9cd",
-      "sha1": "a3676b265e83a0daa5d7f9725b0c5c38ff885d7f",
+      "btih": "484e7def213d6ee8718848380d4a963ce615176a",
+      "mtime": "1659223077",
+      "size": "43599",
+      "md5": "7b51c1b90bb05948e599dbd4c67a5b00",
+      "crc32": "f6b308e4",
+      "sha1": "83dd2d1d462aeee68e51556620d51ae6001022e1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "buckscoherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ecd4fba36f04d564cc50d063a464b5bd",
+      "md5": "8269786c71fb1be3403f3fd08fcf7f23",
       "summation": "md5"
     },
     {
       "name": "buckscoherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659179819",
-      "size": "245760",
-      "md5": "f5e14ea1cfade8761f350a1a3a328b31",
-      "crc32": "96303dab",
-      "sha1": "b969d8bc6bba117bd27999dc07a91de48fcd11b8",
+      "mtime": "1659223074",
+      "size": "253952",
+      "md5": "0848b1dda4720383102aed21bf926f8f",
+      "crc32": "82ca45e0",
+      "sha1": "05e6a5ae923dd4ac5a5dd506290967869dbaabb2",
       "format": "Metadata"
     },
     {
@@ -2031,9 +2083,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 194,
-  "item_last_updated": 1659179822,
-  "item_size": 18050562,
+  "files_count": 199,
+  "item_last_updated": 1659223077,
+  "item_size": 18467789,
   "metadata": {
     "identifier": "buckscoherald-2022",
     "collection": [
@@ -2055,7 +2107,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347985037,
+      "task_id": 3348363691,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2063,7 +2115,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 568599941,
+  "uniq": 2027110695,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

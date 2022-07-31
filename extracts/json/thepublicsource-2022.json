@@ -1,5 +1,5 @@
 {
-  "created": 1659184463,
+  "created": 1659228003,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/16/items/thepublicsource-2022",
@@ -4701,31 +4701,83 @@
       "format": "JSON"
     },
     {
+      "name": "thepublicsource-2022-07-30T04:23:04.507497+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thepublicsource-2022-07-30T04:23:04.507497+03:00.jpg",
+      "mtime": "1659188242",
+      "size": "10052",
+      "md5": "515a1b38536f33b9b4e6161d4ef4aecb",
+      "crc32": "32906145",
+      "sha1": "c385657b9803ea3974604c5b8b2d7d014ad8642f"
+    },
+    {
+      "name": "thepublicsource-2022-07-30T16:36:56.724431+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659188219",
+      "size": "28238",
+      "md5": "67e61181b698ad39981a4fe4b71d7de7",
+      "crc32": "0bdc944a",
+      "sha1": "bcd21c20bc77fed5c0c80589bac3528c6d0eadf6",
+      "format": "JSON"
+    },
+    {
+      "name": "thepublicsource-2022-07-30T16:36:56.724431+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659188221",
+      "size": "13096",
+      "md5": "a055b5f7ab101f2594b91d762030b3cc",
+      "crc32": "b1e7fa93",
+      "sha1": "4f479c52138827a2ad0b07f20d09bb4174734563",
+      "format": "JSON"
+    },
+    {
+      "name": "thepublicsource-2022-07-30T16:36:56.724431+03:00.jpg",
+      "source": "original",
+      "mtime": "1659188218",
+      "size": "277314",
+      "md5": "24549332a991fb476f251651fbd3c1bf",
+      "crc32": "f58c88ba",
+      "sha1": "17d4dd29cfcbc3e3f7f288b06e998cf4558ccfaf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thepublicsource-2022-07-30T16:36:56.724431+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659188222",
+      "size": "1492",
+      "md5": "143e2168fa1d1bb6ac5a21fd8abe5d1d",
+      "crc32": "402cccdf",
+      "sha1": "8c7ec7c71bb47aae8a693bdfdb1b5f4cad8250b4",
+      "format": "JSON"
+    },
+    {
       "name": "thepublicsource-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f9c35c213556ec5fc0c920f42efc498b831d7b74",
-      "mtime": "1659144233",
-      "size": "99001",
-      "md5": "38dc91785efbc4f3e6c4c264578201cc",
-      "crc32": "21d170f1",
-      "sha1": "fab2b21ebc686094611168d6a0dc01b27644d5fb",
+      "btih": "0b00d88c0991f2bb562a5c5b0e2da1c2fae20601",
+      "mtime": "1659188274",
+      "size": "100076",
+      "md5": "f513932b733a151c5e1936f2e04e9463",
+      "crc32": "07e39603",
+      "sha1": "80a27841e684bd3501a84afcda8d972f86d8dc8e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thepublicsource-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "353b5041ed25ff1bf55fd55c6cf52fd3",
+      "md5": "ffd77b5927cc253a358217fb35b8f911",
       "summation": "md5"
     },
     {
       "name": "thepublicsource-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659144196",
-      "size": "548864",
-      "md5": "89ab8c79097a9da4905589c5b1d8875d",
-      "crc32": "a4b3e05c",
-      "sha1": "84ba30e2b136edc141a926907f43ff6b3b54de8f",
+      "mtime": "1659188270",
+      "size": "552960",
+      "md5": "74db80b5704b29bba256913661969291",
+      "crc32": "e32a7bd7",
+      "sha1": "2400c64b27e81383e46b86cc19812c340f6db2c6",
       "format": "Metadata"
     },
     {
@@ -4739,9 +4791,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 452,
-  "item_last_updated": 1659144233,
-  "item_size": 36305299,
+  "files_count": 457,
+  "item_last_updated": 1659188274,
+  "item_size": 36640662,
   "metadata": {
     "identifier": "thepublicsource-2022",
     "collection": [
@@ -4763,7 +4815,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347605885,
+      "task_id": 3348056080,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4775,10 +4827,10 @@
     {
       "url": "https://thepublicsource.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thepublicsource_org-_-2022_07_30_01_03_43.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thepublicsource_org-_-2022_07_30_01_03_43.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thepublicsource_org-_-2022_07_30_13_14_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thepublicsource_org-_-2022_07_30_13_14_37.report.json",
       "summary": {
-        "performance": 0.69,
+        "performance": 0.52,
         "accessibility": 0.9,
         "best-practices": 1,
         "seo": 0.89,
@@ -4788,10 +4840,10 @@
     {
       "url": "https://thepublicsource.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thepublicsource_org-_-2022_07_30_01_04_02.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thepublicsource_org-_-2022_07_30_01_04_02.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thepublicsource_org-_-2022_07_30_13_15_14.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thepublicsource_org-_-2022_07_30_13_15_14.report.json",
       "summary": {
-        "performance": 0.7,
+        "performance": 0.63,
         "accessibility": 0.9,
         "best-practices": 1,
         "seo": 0.89,
@@ -4801,10 +4853,10 @@
     {
       "url": "https://thepublicsource.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thepublicsource_org-_-2022_07_30_01_03_25.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thepublicsource_org-_-2022_07_30_01_03_25.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thepublicsource_org-_-2022_07_30_13_14_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thepublicsource_org-_-2022_07_30_13_14_56.report.json",
       "summary": {
-        "performance": 0.69,
+        "performance": 0.71,
         "accessibility": 0.9,
         "best-practices": 1,
         "seo": 0.89,
@@ -4812,7 +4864,7 @@
       }
     }
   ],
-  "uniq": 665241691,
+  "uniq": 1526207947,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

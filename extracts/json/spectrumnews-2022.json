@@ -1,5 +1,5 @@
 {
-  "created": 1659184309,
+  "created": 1659225866,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/33/items/spectrumnews-2022",
@@ -3883,21 +3883,32 @@
       "format": "JSON"
     },
     {
+      "name": "spectrumnews-2022-07-30T06:30:16.819246-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spectrumnews-2022-07-30T06:30:16.819246-06:00.jpg",
+      "mtime": "1659225727",
+      "size": "9325",
+      "md5": "782a84e307531c7575b7f1ad2f85cf97",
+      "crc32": "c7b79984",
+      "sha1": "94158b1f76273684c3c0a6f913efac4c111b6931"
+    },
+    {
       "name": "spectrumnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a446d033dc1acf464cbc9883558156793e26b4c2",
-      "mtime": "1659184302",
-      "size": "80717",
-      "md5": "17c2ba839b379211b31ebd27d7a952c5",
-      "crc32": "598f419f",
-      "sha1": "68b25638abed7c3fb08414962c7643f69f8f490c",
+      "btih": "68f1e236aac2b753f286c5f3723842d58dea3c13",
+      "mtime": "1659225788",
+      "size": "80925",
+      "md5": "f55b25465548e9cbe3a73c1a37ad5ecb",
+      "crc32": "cb9e8310",
+      "sha1": "897828d306de92d3cc144ac08b040df2f1c80220",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spectrumnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a5156b314bb7a970e11875acf00bccbf",
+      "md5": "4389ab2b800fd39760a32e80bdc29e10",
       "summation": "md5"
     },
     {
@@ -3921,9 +3932,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 374,
-  "item_last_updated": 1659184302,
-  "item_size": 28337697,
+  "files_count": 375,
+  "item_last_updated": 1659225788,
+  "item_size": 28347230,
   "metadata": {
     "identifier": "spectrumnews-2022",
     "collection": [
@@ -3940,21 +3951,10 @@
     "publicdate": "2022-06-24 23:02:15",
     "addeddate": "2022-06-24 23:02:15"
   },
-  "pending_tasks": true,
-  "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348019153,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1880445803,
+  "server": "ia802507.us.archive.org",
+  "uniq": 2081805241,
   "workable_servers": [
+    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }

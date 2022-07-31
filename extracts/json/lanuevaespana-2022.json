@@ -1,5 +1,5 @@
 {
-  "created": 1659184022,
+  "created": 1659227525,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/3/items/lanuevaespana-2022",
@@ -213,31 +213,83 @@
       "format": "JSON"
     },
     {
+      "name": "lanuevaespana-2022-07-30T04:43:05.927386+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lanuevaespana-2022-07-30T04:43:05.927386+02:00.jpg",
+      "mtime": "1659195787",
+      "size": "9755",
+      "md5": "525b747505b4539128bdda7e9ade6ef7",
+      "crc32": "a53b369d",
+      "sha1": "eba726d31e7e253503cc51fb96ec96b3caebb67c"
+    },
+    {
+      "name": "lanuevaespana-2022-07-30T17:42:35.940428+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659195760",
+      "size": "132771",
+      "md5": "39de5ef4cd15bde61b02320cb802dbdb",
+      "crc32": "3720138c",
+      "sha1": "2a9594ed4c6071f74a233d43449b6718d6a12ddd",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-07-30T17:42:35.940428+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659195761",
+      "size": "195846",
+      "md5": "cd228f39cf032bc7a70d2e9464b36edc",
+      "crc32": "92e750ba",
+      "sha1": "dc1e6506a414813a23f60aad6b04ec9a2c8f83ee",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-07-30T17:42:35.940428+02:00.jpg",
+      "source": "original",
+      "mtime": "1659195758",
+      "size": "301503",
+      "md5": "f59c063af2eeea55e5ba37e27daf4e2a",
+      "crc32": "770e04a7",
+      "sha1": "a2190f2f958f1b788d439b3d2e871109a7bd2154",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lanuevaespana-2022-07-30T17:42:35.940428+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659195763",
+      "size": "1423",
+      "md5": "4d5be733095f60b78eef41bfdab9dff0",
+      "crc32": "6c1cf3d8",
+      "sha1": "3eb5d82afdd758e93748394eeed7a8fd2475ad70",
+      "format": "JSON"
+    },
+    {
       "name": "lanuevaespana-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db0e5f2f21a00cf93e7067d1d6e583f8de2b2958",
-      "mtime": "1659149028",
-      "size": "5805",
-      "md5": "f448b762f3dfb3558464e695ddbf554c",
-      "crc32": "d4fa69ee",
-      "sha1": "b6ccf958aac92bb051c58a3e4dee30e4ce0f0502",
+      "btih": "c5501bdfdb40d2a3710965634a7cc34a6f57b6e0",
+      "mtime": "1659195831",
+      "size": "6911",
+      "md5": "edb00cc8f2f4dd2d96eec553a8eeab4a",
+      "crc32": "73959529",
+      "sha1": "86d97c5e8c0ee206c2a3ecd18d71441aa49d40df",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lanuevaespana-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ffe70a678f7d2b885c5ba6cee8838d3b",
+      "md5": "f46dad9d39b273474a723670e794c2b4",
       "summation": "md5"
     },
     {
       "name": "lanuevaespana-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659148994",
-      "size": "45056",
-      "md5": "6e4266cdff5c2f225455f29ad5f0a239",
-      "crc32": "933a7e3f",
-      "sha1": "791097130b1b8a148d60dc388433442f08caa178",
+      "mtime": "1659195829",
+      "size": "49152",
+      "md5": "947916b973f031e208a6c3c002abb5b9",
+      "crc32": "698bb08e",
+      "sha1": "a480beb0fbf7afe194d9b44d57648380233bdd52",
       "format": "Metadata"
     },
     {
@@ -251,17 +303,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 24,
-  "item_last_updated": 1659149028,
-  "item_size": 2612490,
+  "files_count": 29,
+  "item_last_updated": 1659195831,
+  "item_size": 3258990,
   "lanuevaespana-2022": [
     {
       "url": "https://www.lne.es/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_07_30_02_20_24.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_07_30_02_20_24.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_07_30_14_29_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_07_30_14_29_28.report.json",
       "summary": {
-        "performance": 0.33,
+        "performance": 0.27,
         "accessibility": 0.83,
         "best-practices": 0.83,
         "seo": 0.91,
@@ -271,10 +323,10 @@
     {
       "url": "https://www.lne.es/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_07_30_02_20_50.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_07_30_02_20_50.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_07_30_14_30_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_07_30_14_30_00.report.json",
       "summary": {
-        "performance": 0.34,
+        "performance": 0.35,
         "accessibility": 0.83,
         "best-practices": 0.83,
         "seo": 0.91,
@@ -284,10 +336,10 @@
     {
       "url": "https://www.lne.es/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_07_30_02_21_14.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_07_30_02_21_14.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_07_30_14_30_30.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_07_30_14_30_30.report.json",
       "summary": {
-        "performance": 0.33,
+        "performance": 0.37,
         "accessibility": 0.83,
         "best-practices": 0.83,
         "seo": 0.91,
@@ -316,7 +368,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347654968,
+      "task_id": 3348120973,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -324,7 +376,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1765323998,
+  "uniq": 574619047,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

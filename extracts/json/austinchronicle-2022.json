@@ -1,5 +1,5 @@
 {
-  "created": 1659179507,
+  "created": 1659222847,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/2/items/austinchronicle-2022",
@@ -1279,31 +1279,83 @@
       "format": "JSON"
     },
     {
+      "name": "austinchronicle-2022-07-30T06:10:28.776607-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinchronicle-2022-07-30T06:10:28.776607-05:00.jpg",
+      "mtime": "1659222794",
+      "size": "10449",
+      "md5": "e33723a020aaab9f9dfd32526fda0038",
+      "crc32": "c47a1535",
+      "sha1": "b879cc665a4791550787ec0043dbdedb64fa0726"
+    },
+    {
+      "name": "austinchronicle-2022-07-30T18:12:18.423921-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659222742",
+      "size": "25029",
+      "md5": "f656da0db738365bed0bbf6891aa96e3",
+      "crc32": "8d82660c",
+      "sha1": "c7eab528a56705d58d55c6c7c624295fe84d0b99",
+      "format": "JSON"
+    },
+    {
+      "name": "austinchronicle-2022-07-30T18:12:18.423921-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659222743",
+      "size": "23846",
+      "md5": "7184b2efa292e9170bfbc1388a2aaf5b",
+      "crc32": "131071e4",
+      "sha1": "9204e06929fe6ebcaed65ac3ef7c5c056e897cea",
+      "format": "JSON"
+    },
+    {
+      "name": "austinchronicle-2022-07-30T18:12:18.423921-05:00.jpg",
+      "source": "original",
+      "mtime": "1659222741",
+      "size": "332129",
+      "md5": "b706f2ba8f567c44f4e5ac31b9455661",
+      "crc32": "1995cb79",
+      "sha1": "44d9c366f39a98b79186e347992132ea936e4fad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "austinchronicle-2022-07-30T18:12:18.423921-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659222745",
+      "size": "1537",
+      "md5": "0524ab2771c49803dd4d9668641d9b2a",
+      "crc32": "97a00d8b",
+      "sha1": "881afaa9db5bf14ab5a6aa48846a87b97e1657a9",
+      "format": "JSON"
+    },
+    {
       "name": "austinchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "688389d8718aadf3235a4f3549b3d76402834b4e",
-      "mtime": "1659179500",
-      "size": "28076",
-      "md5": "d4159bd96d04f4d109e2e36d9d15e7d8",
-      "crc32": "431c53cb",
-      "sha1": "3d8949ecd5b26c47297578177cb592ee34083e93",
+      "btih": "fa89965871b6df04c8f506ce238bd6ea43f13c0a",
+      "mtime": "1659222837",
+      "size": "29171",
+      "md5": "5de7c991e6915e28eb791ddda7e21309",
+      "crc32": "0af4b648",
+      "sha1": "f3d050c4f1841bc99367c765e036a7f2dd5831b1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "austinchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1fd3495e857a185b09aa58382038dc5b",
+      "md5": "009e029c260e2c3c576cf023e3b99647",
       "summation": "md5"
     },
     {
       "name": "austinchronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659179498",
-      "size": "167936",
-      "md5": "ec21a12cbe95ec2946c32fc1579055de",
-      "crc32": "3dd94d3d",
-      "sha1": "0d2066ce97e4b4ae6ca86111104685bc08893dba",
+      "mtime": "1659222835",
+      "size": "176128",
+      "md5": "c7ed13dc271f11c263c569e214ffce09",
+      "crc32": "7fd775af",
+      "sha1": "7b7efdff239e82d69111e85d46963c9def6ee602",
       "format": "Metadata"
     },
     {
@@ -1317,9 +1369,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 126,
-  "item_last_updated": 1659179500,
-  "item_size": 10974961,
+  "files_count": 131,
+  "item_last_updated": 1659222837,
+  "item_size": 11377238,
   "metadata": {
     "identifier": "austinchronicle-2022",
     "collection": [
@@ -1341,7 +1393,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347982314,
+      "task_id": 3348361966,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1349,7 +1401,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 187314366,
+  "uniq": 346898777,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

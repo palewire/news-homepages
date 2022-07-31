@@ -1,5 +1,5 @@
 {
-  "created": 1659183969,
+  "created": 1659195860,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/26/items/kcur-2022",
@@ -1941,31 +1941,83 @@
       "format": "JSON"
     },
     {
+      "name": "kcur-2022-07-29T21:41:46.058900-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcur-2022-07-29T21:41:46.058900-05:00.jpg",
+      "mtime": "1659195776",
+      "size": "10952",
+      "md5": "2ee90c1eb0c1d71c8dc1421b509c63b9",
+      "crc32": "cc8737c4",
+      "sha1": "0aac004a6674ac232b2bb6fcd31bba3d9e6e760d"
+    },
+    {
+      "name": "kcur-2022-07-30T10:42:01.595193-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659195725",
+      "size": "21519",
+      "md5": "63ca3fdc7cdca2b82f1d4498890e3790",
+      "crc32": "7cb9641b",
+      "sha1": "0ce742e01a812f3818dfdcbae90ede75cf37f7a9",
+      "format": "JSON"
+    },
+    {
+      "name": "kcur-2022-07-30T10:42:01.595193-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659195727",
+      "size": "37218",
+      "md5": "9a01f3495672e21b1cdf2eacb2a8d757",
+      "crc32": "04a6b7e0",
+      "sha1": "1369dba7dcd8e4ad5d69c59453c027cf26165809",
+      "format": "JSON"
+    },
+    {
+      "name": "kcur-2022-07-30T10:42:01.595193-05:00.jpg",
+      "source": "original",
+      "mtime": "1659195723",
+      "size": "309780",
+      "md5": "efd65025b37d4eafa6b381dd81651a4e",
+      "crc32": "c7f35c9d",
+      "sha1": "7b5f381b57216a7ab72870ecef61ca488c274d51",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcur-2022-07-30T10:42:01.595193-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659195728",
+      "size": "1440",
+      "md5": "230f32c60ced4bf6faa451040a5e396f",
+      "crc32": "ea5f56bd",
+      "sha1": "b4705d734ae67827470555c13ffb1a51d2d76ff4",
+      "format": "JSON"
+    },
+    {
       "name": "kcur-2022_archive.torrent",
       "source": "metadata",
-      "btih": "af57334b578bd8b9250158145d097ba53fc7e4ac",
-      "mtime": "1659148953",
-      "size": "39649",
-      "md5": "6d6ea17be4b15d238f82021981068246",
-      "crc32": "50fe87ee",
-      "sha1": "ad81c0bae42cbd0499bf8ea99fb53e04645272a9",
+      "btih": "961aab74f1934d7c50c7fefb9d59b8ab1672acfe",
+      "mtime": "1659195847",
+      "size": "40689",
+      "md5": "2c4012efcaa29d61ae7e7735d13662d2",
+      "crc32": "d5247f18",
+      "sha1": "d03a2cff84b7f40dc2812c6a374ba1ea5a717079",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcur-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6c2d13aa4d38fe182f350c2927b5aa75",
+      "md5": "f2abc08b24cae6c28b36d940e14835e4",
       "summation": "md5"
     },
     {
       "name": "kcur-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659148918",
-      "size": "237568",
-      "md5": "6b97718b613eb3dfdcb877b721c4b0a3",
-      "crc32": "c42b5918",
-      "sha1": "335a69be91240bbb30e1fc59bf05012d23f04578",
+      "mtime": "1659195845",
+      "size": "245760",
+      "md5": "9de4e1185d06fb9261518933e7956d61",
+      "crc32": "a987a8f5",
+      "sha1": "32282f23fc43d22bfd2bbc4b6212ceeeaf3ac7bd",
       "format": "Metadata"
     },
     {
@@ -1979,50 +2031,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 189,
-  "item_last_updated": 1659148953,
-  "item_size": 15602803,
-  "kcur-2022": [
-    {
-      "url": "https://www.kcur.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcur_org-_-2022_07_30_02_18_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcur_org-_-2022_07_30_02_18_23.report.json",
-      "summary": {
-        "performance": 0.26,
-        "accessibility": 0.94,
-        "best-practices": 0.92,
-        "seo": 0.98,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.kcur.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcur_org-_-2022_07_30_02_18_52.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcur_org-_-2022_07_30_02_18_52.report.json",
-      "summary": {
-        "performance": 0.52,
-        "accessibility": 0.94,
-        "best-practices": 0.92,
-        "seo": 0.98,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.kcur.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcur_org-_-2022_07_30_02_18_39.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcur_org-_-2022_07_30_02_18_39.report.json",
-      "summary": {
-        "performance": 0.43,
-        "accessibility": 0.94,
-        "best-practices": 0.92,
-        "seo": 0.98,
-        "pwa": 0.4
-      }
-    }
-  ],
+  "files_count": 194,
+  "item_last_updated": 1659195847,
+  "item_size": 15992944,
   "metadata": {
     "identifier": "kcur-2022",
     "collection": [
@@ -2044,7 +2055,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347654184,
+      "task_id": 3348121153,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2052,7 +2063,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1216433526,
+  "uniq": 1361799761,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

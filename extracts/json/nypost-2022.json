@@ -1,5 +1,5 @@
 {
-  "created": 1659184143,
+  "created": 1659227680,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/16/items/nypost-2022",
@@ -2167,31 +2167,83 @@
       "format": "JSON"
     },
     {
+      "name": "nypost-2022-07-29T23:49:35.441894-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nypost-2022-07-29T23:49:35.441894-04:00.jpg",
+      "mtime": "1659196674",
+      "size": "11833",
+      "md5": "58d4920c8b842b9ebc152181354a45f8",
+      "crc32": "bab7a41f",
+      "sha1": "1067c304082095eb2b44526bb3859085ea6b7a87"
+    },
+    {
+      "name": "nypost-2022-07-30T11:53:55.102496-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659196439",
+      "size": "59936",
+      "md5": "ed458e57ea04e627586ac8a5a59f023e",
+      "crc32": "dd54c77a",
+      "sha1": "b5d53d1a8f9b1b08b410cf9812a686478bd661bd",
+      "format": "JSON"
+    },
+    {
+      "name": "nypost-2022-07-30T11:53:55.102496-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659196440",
+      "size": "63096",
+      "md5": "a47dbfd083d50115a5a662fecf0a18c7",
+      "crc32": "b0d8b8e0",
+      "sha1": "e68c054c4e5d91a0495f4580861aa15bfee3eda9",
+      "format": "JSON"
+    },
+    {
+      "name": "nypost-2022-07-30T11:53:55.102496-04:00.jpg",
+      "source": "original",
+      "mtime": "1659196437",
+      "size": "340737",
+      "md5": "27d8258800f504efacb23c10abb16f5b",
+      "crc32": "b4208446",
+      "sha1": "0dabc765ed04d1f1f7b652165be3265a5991d39c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nypost-2022-07-30T11:53:55.102496-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659196441",
+      "size": "1420",
+      "md5": "9b3cf0a0870dc3e48a62507039018cf9",
+      "crc32": "ed8987e8",
+      "sha1": "9aa269aa85a1b604babdf7e32f964b9992c58c0c",
+      "format": "JSON"
+    },
+    {
       "name": "nypost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d8af76241aa57403e999e4561844b58cc29c771d",
-      "mtime": "1659153024",
-      "size": "44370",
-      "md5": "cad0131b9546b9a1edb6e7f3441c275d",
-      "crc32": "0fd2c59a",
-      "sha1": "e50bec940f527ed4506e71a313de0348c3f773c7",
+      "btih": "92c12ca27a723e99cb5f136b86b81974d425f0bc",
+      "mtime": "1659196868",
+      "size": "45421",
+      "md5": "bfb6bc00ebaa4811b11f416dde3d34f5",
+      "crc32": "57307da7",
+      "sha1": "ab1af02e91df82ff99965bd146eb54835955ad89",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nypost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ce206f7ead0f00e01406a0b0f1c2f819",
+      "md5": "597a9b2ef88e2bd88c9e830c6291b0a1",
       "summation": "md5"
     },
     {
       "name": "nypost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659152988",
-      "size": "249856",
-      "md5": "d294e4d556044da9671ab27057656e0c",
-      "crc32": "a8830f57",
-      "sha1": "40618318c1b28908d3ad55b48d0b00e77082d794",
+      "mtime": "1659196863",
+      "size": "253952",
+      "md5": "13465f7481483757921439db972a460d",
+      "crc32": "d4c64633",
+      "sha1": "a2b3b2e3d624f7f71c6d55e65fc29a1aacabe32a",
       "format": "Metadata"
     },
     {
@@ -2205,9 +2257,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 209,
-  "item_last_updated": 1659153024,
-  "item_size": 25262276,
+  "files_count": 214,
+  "item_last_updated": 1659196868,
+  "item_size": 25744445,
   "metadata": {
     "identifier": "nypost-2022",
     "collection": [
@@ -2228,12 +2280,12 @@
     {
       "url": "https://nypost.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nypost_com-_-2022_07_30_03_23_10.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nypost_com-_-2022_07_30_03_23_10.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nypost_com-_-2022_07_30_15_19_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nypost_com-_-2022_07_30_15_19_21.report.json",
       "summary": {
-        "performance": 0.22,
-        "accessibility": 0.92,
-        "best-practices": 0.75,
+        "performance": 0.21,
+        "accessibility": 0.9,
+        "best-practices": 0.92,
         "seo": 0.92,
         "pwa": 0.6
       }
@@ -2241,12 +2293,12 @@
     {
       "url": "https://nypost.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nypost_com-_-2022_07_30_03_25_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nypost_com-_-2022_07_30_03_25_26.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nypost_com-_-2022_07_30_15_21_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nypost_com-_-2022_07_30_15_21_48.report.json",
       "summary": {
-        "performance": 0.28,
-        "accessibility": 0.92,
-        "best-practices": 0.92,
+        "performance": 0.23,
+        "accessibility": 0.9,
+        "best-practices": 0.75,
         "seo": 0.92,
         "pwa": 0.6
       }
@@ -2254,12 +2306,12 @@
     {
       "url": "https://nypost.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nypost_com-_-2022_07_30_03_24_18.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nypost_com-_-2022_07_30_03_24_18.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nypost_com-_-2022_07_30_15_20_33.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nypost_com-_-2022_07_30_15_20_33.report.json",
       "summary": {
-        "performance": 0.21,
-        "accessibility": 0.92,
-        "best-practices": 0.92,
+        "performance": 0.23,
+        "accessibility": 0.9,
+        "best-practices": 0.75,
         "seo": 0.92,
         "pwa": 0.6
       }
@@ -2270,7 +2322,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347691600,
+      "task_id": 3348129826,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2278,7 +2330,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1217369309,
+  "uniq": 255339767,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

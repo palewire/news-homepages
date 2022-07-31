@@ -3,8 +3,8 @@
     {
       "url": "https://abc7news.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_07_30_00_54_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_07_30_00_54_55.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_07_30_13_05_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_07_30_13_05_09.report.json",
       "summary": {
         "performance": 0.23,
         "accessibility": 0.56,
@@ -16,8 +16,8 @@
     {
       "url": "https://abc7news.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_07_30_00_55_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_07_30_00_55_46.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_07_30_13_05_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_07_30_13_05_53.report.json",
       "summary": {
         "performance": 0.23,
         "accessibility": 0.56,
@@ -29,10 +29,10 @@
     {
       "url": "https://abc7news.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_07_30_00_56_33.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_07_30_00_56_33.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_07_30_13_06_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_07_30_13_06_36.report.json",
       "summary": {
-        "performance": 0.25,
+        "performance": 0.24,
         "accessibility": 0.56,
         "best-practices": 0.75,
         "seo": 0.84,
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "created": 1659183579,
+  "created": 1659227080,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/0/items/abc7newsbayarea-2022",
@@ -566,31 +566,83 @@
       "format": "JSON"
     },
     {
+      "name": "abc7newsbayarea-2022-07-29T18:17:30.259391-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abc7newsbayarea-2022-07-29T18:17:30.259391-07:00.jpg",
+      "mtime": "1659187877",
+      "size": "10384",
+      "md5": "5b896011e9aae44143e243ae6a3db435",
+      "crc32": "921bcdd2",
+      "sha1": "7d06e5a04cc780770b6181ec1384692aa3a3ade6"
+    },
+    {
+      "name": "abc7newsbayarea-2022-07-30T06:30:18.602183-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659187821",
+      "size": "28604",
+      "md5": "5535c23e741c5e391996ef3a375d82ab",
+      "crc32": "4e22d00b",
+      "sha1": "765e86854d399ada77e707a44a6982264e8f0d6d",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7newsbayarea-2022-07-30T06:30:18.602183-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659187822",
+      "size": "28511",
+      "md5": "f21b8853af84262a843ac38d47afef89",
+      "crc32": "f58cffd1",
+      "sha1": "2011b0365e258241e83963843bf17cccf82b3e39",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7newsbayarea-2022-07-30T06:30:18.602183-07:00.jpg",
+      "source": "original",
+      "mtime": "1659187819",
+      "size": "328261",
+      "md5": "dee0c65207764cc58c4b89e96f014f45",
+      "crc32": "11614cb0",
+      "sha1": "138b78756372b71dcfc343924601c4f920ed659e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abc7newsbayarea-2022-07-30T06:30:18.602183-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659187824",
+      "size": "1441",
+      "md5": "0b627c4475fac6e9c1765ce19d0fa06a",
+      "crc32": "1dbbbf64",
+      "sha1": "f5cac4277b81c717b0ecc53ae517882a917120a4",
+      "format": "JSON"
+    },
+    {
       "name": "abc7newsbayarea-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fee7ee537e89cc90f0bdbe3974a6d540583708a4",
-      "mtime": "1659143894",
-      "size": "12365",
-      "md5": "d3a63c655225b84dde00e5fa827ebaa0",
-      "crc32": "b5c3cbaa",
-      "sha1": "986b49f572a963e0d73e1ea326bdda6689eaa09f",
+      "btih": "c57ca0990f07ee9f27ec2e1ba36e6d819262e335",
+      "mtime": "1659187910",
+      "size": "13460",
+      "md5": "2f96335d4f508f40d2e39fec37906134",
+      "crc32": "30ebc158",
+      "sha1": "17921b84e17ba5146a3de17a3d4a474ec823ff2d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abc7newsbayarea-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f344f0f69ecd3f95e04b2b7067692ef8",
+      "md5": "c29fbe7d11ddeb1ce27aadf8944595c6",
       "summation": "md5"
     },
     {
       "name": "abc7newsbayarea-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659143860",
-      "size": "77824",
-      "md5": "cec49328a2fa8fd9dbea3a1b770ad57d",
-      "crc32": "8a058ffd",
-      "sha1": "ab0b111941c988831188109cbce7635374c0e210",
+      "mtime": "1659187908",
+      "size": "81920",
+      "md5": "1d90480c15567c0f66afc37963af1faa",
+      "crc32": "fd6c35f9",
+      "sha1": "7b0f314e4d851a7e330e459e6b46b5e95cbb3c2c",
       "format": "Metadata"
     },
     {
@@ -604,9 +656,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 54,
-  "item_last_updated": 1659143894,
-  "item_size": 4084224,
+  "files_count": 59,
+  "item_last_updated": 1659187910,
+  "item_size": 4486616,
   "metadata": {
     "identifier": "abc7newsbayarea-2022",
     "collection": [
@@ -628,7 +680,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347602060,
+      "task_id": 3348052524,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -636,7 +688,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1676260623,
+  "uniq": 1081907558,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

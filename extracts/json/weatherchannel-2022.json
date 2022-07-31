@@ -1,5 +1,5 @@
 {
-  "created": 1659153555,
+  "created": 1659224390,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/18/items/weatherchannel-2022",
@@ -421,31 +421,83 @@
       "format": "JSON"
     },
     {
+      "name": "weatherchannel-2022-07-29T23:58:29.084562-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weatherchannel-2022-07-29T23:58:29.084562-04:00.jpg",
+      "mtime": "1659197016",
+      "size": "10607",
+      "md5": "8b30336d950a8c92ac6c0a5c2e36f414",
+      "crc32": "03fb30fd",
+      "sha1": "267ee8c1ec2b224ed9d5e59fce828fc210018fb5"
+    },
+    {
+      "name": "weatherchannel-2022-07-30T12:02:26.054042-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659196950",
+      "size": "9770",
+      "md5": "b71318468fa1645c0a4b0446ca71c708",
+      "crc32": "3a2882a5",
+      "sha1": "edd306d2c74a9aedf4e14294b3897577d27efeee",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-07-30T12:02:26.054042-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659196952",
+      "size": "20714",
+      "md5": "7aefcae1bdcb58e3c1be14b2b90697e0",
+      "crc32": "4648a61a",
+      "sha1": "cebae394cb71f67e09b8d309c2a69bc9de500282",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-07-30T12:02:26.054042-04:00.jpg",
+      "source": "original",
+      "mtime": "1659196947",
+      "size": "278048",
+      "md5": "745ee6459fe5aff7f26c1050a4d60a40",
+      "crc32": "d6190693",
+      "sha1": "4b98522a36c4aab474cf3f79998d97d555455c5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weatherchannel-2022-07-30T12:02:26.054042-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659196953",
+      "size": "1432",
+      "md5": "7129c974a2f6df2567e864bed57d24a3",
+      "crc32": "9b55548b",
+      "sha1": "a267bd4b6de197d077d88d4ba0fbd4ea3a695d9c",
+      "format": "JSON"
+    },
+    {
       "name": "weatherchannel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ebc4ad464ee9001848d500845280cdcda2887a6c",
-      "mtime": "1659153553",
-      "size": "10121",
-      "md5": "fd00e6ac2cb9568982caa76b30e14fa1",
-      "crc32": "c9465549",
-      "sha1": "d2aba71bb816be731a5ac9fdf47b0d717e0c18bc",
+      "btih": "c84b903d34ef310e0302307cde846a8c0aba36ba",
+      "mtime": "1659197065",
+      "size": "11190",
+      "md5": "5a260a7dc29d0c43d21f20dedfc62982",
+      "crc32": "c655ae58",
+      "sha1": "458ab75e2057003e646c150b57a688d6b7efde1f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "weatherchannel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f850f7d8036e74e34cca5a6cab52be5d",
+      "md5": "d958f079bb0965ce4d8b9d9a54dc9281",
       "summation": "md5"
     },
     {
       "name": "weatherchannel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659153519",
-      "size": "65536",
-      "md5": "2605d5079d1f758d19175c93973abd2b",
-      "crc32": "78a57cee",
-      "sha1": "63f90be62af2c7d108fba4dfeac766fb84ebb9a0",
+      "mtime": "1659197062",
+      "size": "69632",
+      "md5": "8151e848b8d2437cb633e1a42389c493",
+      "crc32": "75a5b169",
+      "sha1": "c43506382ce9352086d592af609acf6edbfdef46",
       "format": "Metadata"
     },
     {
@@ -459,9 +511,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 44,
-  "item_last_updated": 1659153553,
-  "item_size": 2805545,
+  "files_count": 49,
+  "item_last_updated": 1659197065,
+  "item_size": 3131281,
   "metadata": {
     "identifier": "weatherchannel-2022",
     "collection": [
@@ -483,7 +535,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347695994,
+      "task_id": 3348134106,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -491,7 +543,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 522908396,
+  "uniq": 1344054490,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

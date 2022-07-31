@@ -1,5 +1,5 @@
 {
-  "created": 1659184546,
+  "created": 1659196974,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/20/items/uwogazette-2022",
@@ -651,31 +651,83 @@
       "format": "JSON"
     },
     {
+      "name": "uwogazette-2022-07-29T23:57:31.844309-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uwogazette-2022-07-29T23:57:31.844309-04:00.jpg",
+      "mtime": "1659196923",
+      "size": "9332",
+      "md5": "25a9e3795c0fa9991e327935695bf742",
+      "crc32": "5008ba1a",
+      "sha1": "ddbf104c9f09050532a9bfcd9aacfbbc80596016"
+    },
+    {
+      "name": "uwogazette-2022-07-30T12:01:13.313129-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659196878",
+      "size": "23709",
+      "md5": "0bff5dac86135c25b86ca5204dabec02",
+      "crc32": "6136039d",
+      "sha1": "d1a01025a93f332b135bfae7d7191d80a64250bf",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-07-30T12:01:13.313129-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659196880",
+      "size": "26937",
+      "md5": "b6dc701c4841770114c2f1f0238092a2",
+      "crc32": "ece3a303",
+      "sha1": "895a26ea6927cc5aed53945acaeaa765a49221d4",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-07-30T12:01:13.313129-04:00.jpg",
+      "source": "original",
+      "mtime": "1659196876",
+      "size": "284534",
+      "md5": "cc39495e7a261417829367c4abe430d1",
+      "crc32": "c58e87bb",
+      "sha1": "f92a6552d90778f18963b5ecfb282b30825945d2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uwogazette-2022-07-30T12:01:13.313129-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659196882",
+      "size": "1486",
+      "md5": "35e0c2e8441fd6ef8c350a4584c0e369",
+      "crc32": "adbca705",
+      "sha1": "7e0f2bb2392edff9e343db315050959b7540b2f1",
+      "format": "JSON"
+    },
+    {
       "name": "uwogazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0627fa3e1b9044c6dbed7540cc55a420948f9a4c",
-      "mtime": "1659153498",
-      "size": "14594",
-      "md5": "fdfbd6d786d30fb671d1efd7cd64abec",
-      "crc32": "55198551",
-      "sha1": "bee25acdfd5358e48cbdd76acd2e559481716622",
+      "btih": "0fdc72aeee1e8eb79a7703ce274b68f0ccbd5c5b",
+      "mtime": "1659196964",
+      "size": "15664",
+      "md5": "de4b0afab315b32dc96890718a54c5eb",
+      "crc32": "f895a832",
+      "sha1": "325e7ca7528d3b17049e190b5a28746ceff2be7d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uwogazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6b4f3d1303862592d5a0ae38db8099b9",
+      "md5": "39446a36fb75a037f3037e2e6734e41f",
       "summation": "md5"
     },
     {
       "name": "uwogazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659153463",
-      "size": "90112",
-      "md5": "23fad964be94bfa9380a7a952c3a86ce",
-      "crc32": "54cf9e24",
-      "sha1": "91e605076bbdb957914f78bfd9bab068076a2db3",
+      "mtime": "1659196960",
+      "size": "102400",
+      "md5": "80901a4f7fbaa974fd519f318906d049",
+      "crc32": "57e53187",
+      "sha1": "a46eb2a838d72516e6e9d74f3ed86022e9ec5bce",
       "format": "Metadata"
     },
     {
@@ -689,9 +741,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 66,
-  "item_last_updated": 1659153498,
-  "item_size": 4519804,
+  "files_count": 71,
+  "item_last_updated": 1659196964,
+  "item_size": 4879160,
   "metadata": {
     "identifier": "uwogazette-2022",
     "collection": [
@@ -713,7 +765,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347695590,
+      "task_id": 3348132071,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -721,48 +773,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2087201206,
-  "uwogazette-2022": [
-    {
-      "url": "https://westerngazette.ca/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/westerngazette_ca-_-2022_07_30_03_35_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/westerngazette_ca-_-2022_07_30_03_35_46.report.json",
-      "summary": {
-        "performance": 0.06,
-        "accessibility": 0.87,
-        "best-practices": 0.75,
-        "seo": 0.91,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://westerngazette.ca/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/westerngazette_ca-_-2022_07_30_03_36_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/westerngazette_ca-_-2022_07_30_03_36_20.report.json",
-      "summary": {
-        "performance": 0.08,
-        "accessibility": 0.87,
-        "best-practices": 0.75,
-        "seo": 0.91,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://westerngazette.ca/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/westerngazette_ca-_-2022_07_30_03_35_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/westerngazette_ca-_-2022_07_30_03_35_09.report.json",
-      "summary": {
-        "performance": 0.07,
-        "accessibility": 0.87,
-        "best-practices": 0.75,
-        "seo": 0.91,
-        "pwa": 0.3
-      }
-    }
-  ],
+  "uniq": 158919698,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

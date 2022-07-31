@@ -1,5 +1,5 @@
 {
-  "created": 1659179503,
+  "created": 1659223124,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/0/items/ajenglish-2022",
@@ -3873,31 +3873,73 @@
       "format": "JSON"
     },
     {
+      "name": "ajenglish-2022-07-30T14:09:17.513971+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ajenglish-2022-07-30T14:09:17.513971+03:00.jpg",
+      "mtime": "1659222951",
+      "size": "9686",
+      "md5": "1a642da19ffc5b7471fc2287270979d4",
+      "crc32": "5e1e00e2",
+      "sha1": "2256778375f0b10f166a4da3d5c103ad507696e7"
+    },
+    {
+      "name": "ajenglish-2022-07-31T02:12:13.859504+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659222740",
+      "size": "15794",
+      "md5": "5cc28ed19bb77e9d9b264a76db61389e",
+      "crc32": "a11b5178",
+      "sha1": "29b2d8d7e3d8578cfbe018583e77abe5c76c6f30",
+      "format": "JSON"
+    },
+    {
+      "name": "ajenglish-2022-07-31T02:12:13.859504+03:00.jpg",
+      "source": "original",
+      "mtime": "1659222737",
+      "size": "262818",
+      "md5": "2eb5c2973acfd72c74f981273a06b442",
+      "crc32": "3b7b8c12",
+      "sha1": "217f42e5f61c519b6f9fd3f8142d6014ff72cf27",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ajenglish-2022-07-31T02:12:13.859504+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659222741",
+      "size": "1477",
+      "md5": "1d2a55e25b4f4f7cc3e9dc13b7b519e4",
+      "crc32": "895bab3d",
+      "sha1": "01e42edefe90c8a8dd3fd66d46f144eaa281c9f2",
+      "format": "JSON"
+    },
+    {
       "name": "ajenglish-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7dcd49e897645e035eefee7e737d8f5f3bf399c3",
-      "mtime": "1659179495",
-      "size": "79487",
-      "md5": "6c4850259d56ffbd0462cf67ffabfa93",
-      "crc32": "3c571893",
-      "sha1": "ada5a7719523884c1ba2066df6bbcf14ff6fba14",
+      "btih": "695dcd8884246f41c8360e125f43d2c1df36a75d",
+      "mtime": "1659223115",
+      "size": "80339",
+      "md5": "ca32497e7975363d75e67e92016edb0d",
+      "crc32": "48e08381",
+      "sha1": "050f13d40d2d27380a50c2b6918c25b011755dce",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ajenglish-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8a9dab60c6a74d4bb4bbe25ed190bf10",
+      "md5": "9f2d8a0512e5c29c3165159520051c3f",
       "summation": "md5"
     },
     {
       "name": "ajenglish-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659179491",
-      "size": "450560",
-      "md5": "47f18e036ebf2d6e56578508b542ab35",
-      "crc32": "51e13fe2",
-      "sha1": "d9b336edbdd792840f61963ad1765b338ff7d9dd",
+      "mtime": "1659223110",
+      "size": "454656",
+      "md5": "5df079a58c6c379bf7eeb3f81ef8edf6",
+      "crc32": "b0cad691",
+      "sha1": "5a97dd956740e409772102a98693650ad0c3cd3b",
       "format": "Metadata"
     },
     {
@@ -3911,9 +3953,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 373,
-  "item_last_updated": 1659179495,
-  "item_size": 30449786,
+  "files_count": 377,
+  "item_last_updated": 1659223115,
+  "item_size": 30744509,
   "metadata": {
     "identifier": "ajenglish-2022",
     "collection": [
@@ -3935,7 +3977,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347982271,
+      "task_id": 3348363971,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3943,7 +3985,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1613120635,
+  "uniq": 1035155095,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

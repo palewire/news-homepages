@@ -1,5 +1,5 @@
 {
-  "created": 1659180089,
+  "created": 1659223316,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/25/items/fivethirtyeight-2022",
@@ -4743,31 +4743,83 @@
       "format": "JSON"
     },
     {
+      "name": "fivethirtyeight-2022-07-30T07:16:29.429191-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fivethirtyeight-2022-07-30T07:16:29.429191-04:00.jpg",
+      "mtime": "1659223233",
+      "size": "8658",
+      "md5": "6a1007875f4dedb5c1ad227948776632",
+      "crc32": "6cc3132e",
+      "sha1": "e5a0e50712ba2fdc4030b9dadec9c9f573f4de59"
+    },
+    {
+      "name": "fivethirtyeight-2022-07-30T19:19:12.218270-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659223164",
+      "size": "18975",
+      "md5": "e57cdd78d34cdbbf3a79d9023aa097fa",
+      "crc32": "be68ec8e",
+      "sha1": "6615ff2f2664193dd08597e9e234321c4c9e197b",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-07-30T19:19:12.218270-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659223166",
+      "size": "20083",
+      "md5": "9828c58f314688b00002c2d393d1b763",
+      "crc32": "2cfc0162",
+      "sha1": "560920e8086ee61cbc5bf7410512db795beaab24",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-07-30T19:19:12.218270-04:00.jpg",
+      "source": "original",
+      "mtime": "1659223163",
+      "size": "233861",
+      "md5": "1d1a3f0d587587dd6b02d1759c033296",
+      "crc32": "3b646235",
+      "sha1": "8d079623b3676d88cfc8d5d8ec9711de4e79c62a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fivethirtyeight-2022-07-30T19:19:12.218270-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659223167",
+      "size": "1504",
+      "md5": "4e2087adc0056b1b1f44fb640393a0b8",
+      "crc32": "8a3efe85",
+      "sha1": "93af03873ded0ada3eb34b5650053f8a84f5f0bf",
+      "format": "JSON"
+    },
+    {
       "name": "fivethirtyeight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fccc324b290656c8e7c51cf24663d84e4a0aa83f",
-      "mtime": "1659180081",
-      "size": "99671",
-      "md5": "13ce882afcdb718605eafd562527eb3c",
-      "crc32": "31a0df62",
-      "sha1": "f7316598d521be62153c007fb17bc3338b58feeb",
+      "btih": "753cb56fcee182605315a97335842aa6c81c28a1",
+      "mtime": "1659223301",
+      "size": "100745",
+      "md5": "0f41b4555224f5c28ddc0fab40bc201e",
+      "crc32": "250c6109",
+      "sha1": "eefaabee6bd5835305f752e566991e0e0be8a31b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fivethirtyeight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6e6359a31fad12ce5327bf5b3e30d7db",
+      "md5": "a1bf63d284345f3ae67b6f1775e6ca02",
       "summation": "md5"
     },
     {
       "name": "fivethirtyeight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659180075",
-      "size": "552960",
-      "md5": "f4c80ac06bd9de42d377c63713120edf",
-      "crc32": "3d505fd2",
-      "sha1": "097b827085048fa17c544bf0c6ea9fbac4563446",
+      "mtime": "1659223293",
+      "size": "557056",
+      "md5": "2e832a7a61a260fa7519323a6759e024",
+      "crc32": "da451b6c",
+      "sha1": "0b7a7d58c27b3a407aa8984e26c57e8db3111daf",
       "format": "Metadata"
     },
     {
@@ -4781,9 +4833,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 456,
-  "item_last_updated": 1659180081,
-  "item_size": 34327975,
+  "files_count": 461,
+  "item_last_updated": 1659223301,
+  "item_size": 34616226,
   "metadata": {
     "identifier": "fivethirtyeight-2022",
     "collection": [
@@ -4805,7 +4857,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347986743,
+      "task_id": 3348365118,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4813,7 +4865,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1174491971,
+  "uniq": 1435000188,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

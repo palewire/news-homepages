@@ -1,5 +1,5 @@
 {
-  "created": 1659180171,
+  "created": 1659227333,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/35/items/fox5atlanta-2022",
@@ -1027,31 +1027,83 @@
       "format": "JSON"
     },
     {
+      "name": "fox5atlanta-2022-07-30T07:16:40.655653-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox5atlanta-2022-07-30T07:16:40.655653-04:00.jpg",
+      "mtime": "1659223241",
+      "size": "10530",
+      "md5": "3f5b2f42023bebcec6d43a4386bf2479",
+      "crc32": "8788dfe3",
+      "sha1": "cfb15361ba2ae4e351a0b34bc6ccd2842712e448"
+    },
+    {
+      "name": "fox5atlanta-2022-07-30T19:19:42.498161-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659223186",
+      "size": "46103",
+      "md5": "22b285f1ffe455217c1aedc9e4521154",
+      "crc32": "8205e4bb",
+      "sha1": "d93cefccb001cc6d670ce55e5843bd0a0d343a99",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5atlanta-2022-07-30T19:19:42.498161-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659223187",
+      "size": "38012",
+      "md5": "2baa35c73f4a56e47fde94079fd6f1ab",
+      "crc32": "deef0499",
+      "sha1": "60021427e4b7c7dce2e590e26c565645e53b93b1",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5atlanta-2022-07-30T19:19:42.498161-04:00.jpg",
+      "source": "original",
+      "mtime": "1659223184",
+      "size": "347222",
+      "md5": "fc9672ec6804e0dc8662608367befd5d",
+      "crc32": "7d01af52",
+      "sha1": "eeaa1198177589f49135220460ee3de2fee8ade4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox5atlanta-2022-07-30T19:19:42.498161-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659223189",
+      "size": "1503",
+      "md5": "633e9c8efcedfe16b411afeabd817bf4",
+      "crc32": "07151457",
+      "sha1": "dae4649b54a5543c02bd101494ff5cab68289bdd",
+      "format": "JSON"
+    },
+    {
       "name": "fox5atlanta-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b6c0a9c83088c0401cf2a4ea35f94be937deb8ac",
-      "mtime": "1659180155",
-      "size": "22451",
-      "md5": "f62a8cb29556fa92a62a3c811024980d",
-      "crc32": "96aa0778",
-      "sha1": "c8204fcd5e393352b621beda0aa38e5d04510ff4",
+      "btih": "a965446f7a2b36703dcc283b48491476199fc499",
+      "mtime": "1659223309",
+      "size": "23526",
+      "md5": "747dbe582578b0aab4f8dabf711a700b",
+      "crc32": "c7e09ae3",
+      "sha1": "5cda6a5d78b4c186232c6b98a1630ca4395ca802",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox5atlanta-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "652d49f0247061e19e4b4b39c3f1008e",
+      "md5": "bcdf296a3fb76da36469eca97d47d34d",
       "summation": "md5"
     },
     {
       "name": "fox5atlanta-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659180152",
-      "size": "143360",
-      "md5": "3e2d1d4e2589c0861bee0b770b859dc8",
-      "crc32": "10fa5d7a",
-      "sha1": "0d2885fcf3a1cdea6817b651aeb1392d88571bd7",
+      "mtime": "1659223307",
+      "size": "147456",
+      "md5": "f1fc70da5fc8abc0a47a761ac6be4b47",
+      "crc32": "11509ce1",
+      "sha1": "2b9d332553d6cff698b1961b44ce42a38dad3786",
       "format": "Metadata"
     },
     {
@@ -1065,9 +1117,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 102,
-  "item_last_updated": 1659180155,
-  "item_size": 9387181,
+  "files_count": 107,
+  "fox5atlanta-2022": [
+    {
+      "url": "https://www.fox5atlanta.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fox5atlanta_com-_-2022_07_30_22_57_45.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fox5atlanta_com-_-2022_07_30_22_57_45.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.79,
+        "best-practices": 0.67,
+        "seo": 0.91,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.fox5atlanta.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fox5atlanta_com-_-2022_07_30_22_58_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fox5atlanta_com-_-2022_07_30_22_58_26.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.79,
+        "best-practices": 0.67,
+        "seo": 0.91,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.fox5atlanta.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fox5atlanta_com-_-2022_07_30_22_59_38.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fox5atlanta_com-_-2022_07_30_22_59_38.report.json",
+      "summary": {
+        "performance": 0.17,
+        "accessibility": 0.8,
+        "best-practices": 0.67,
+        "seo": 0.91,
+        "pwa": 0.6
+      }
+    }
+  ],
+  "item_last_updated": 1659223309,
+  "item_size": 9835722,
   "metadata": {
     "identifier": "fox5atlanta-2022",
     "collection": [
@@ -1089,7 +1182,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347987136,
+      "task_id": 3348365143,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1097,7 +1190,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1314602492,
+  "uniq": 412915863,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

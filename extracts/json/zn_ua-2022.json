@@ -1,5 +1,5 @@
 {
-  "created": 1659184671,
+  "created": 1659228164,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/16/items/zn_ua-2022",
@@ -11301,31 +11301,83 @@
       "format": "JSON"
     },
     {
+      "name": "zn_ua-2022-07-30T06:59:39.890490+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zn_ua-2022-07-30T06:59:39.890490+03:00.jpg",
+      "mtime": "1659197050",
+      "size": "9587",
+      "md5": "8c809d2bcf141c626b8a12e9b11ea9ae",
+      "crc32": "4bd80bfb",
+      "sha1": "fea787b0c76f1973bc47c8587c690c792484fb44"
+    },
+    {
+      "name": "zn_ua-2022-07-30T19:02:42.288276+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659196973",
+      "size": "119245",
+      "md5": "4e0d469980e132947fdb64dd2eb36a22",
+      "crc32": "4bc391b5",
+      "sha1": "34ab76d7f0c63c154baa40f54a14613a0c8cce48",
+      "format": "JSON"
+    },
+    {
+      "name": "zn_ua-2022-07-30T19:02:42.288276+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659196975",
+      "size": "116742",
+      "md5": "bed1b95007d50095dc884a5edf9ce9eb",
+      "crc32": "1b1603d9",
+      "sha1": "642e958fc78697f7b8043c1cfaeb3fd87c75a514",
+      "format": "JSON"
+    },
+    {
+      "name": "zn_ua-2022-07-30T19:02:42.288276+03:00.jpg",
+      "source": "original",
+      "mtime": "1659196971",
+      "size": "298643",
+      "md5": "4708d19b570d2346322f2af3edebf8cc",
+      "crc32": "84c1b137",
+      "sha1": "f371e9c7986148d316a74836bc6584e7bd8cfeda",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zn_ua-2022-07-30T19:02:42.288276+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659196977",
+      "size": "1378",
+      "md5": "024e465b453e8ea3ee64243fdbf19b89",
+      "crc32": "4eef975f",
+      "sha1": "078ef963d14374d0375a9e289c398f090156c50d",
+      "format": "JSON"
+    },
+    {
       "name": "zn_ua-2022_archive.torrent",
       "source": "metadata",
-      "btih": "773a3a4168eff1e916a9aebdba97e22fb4f0f200",
-      "mtime": "1659153644",
-      "size": "226630",
-      "md5": "84850c0cd19122e1ad4e55ce663713cc",
-      "crc32": "16af3ed2",
-      "sha1": "d1d9ba6d88d54e33cd09753477d4525404cc63f4",
+      "btih": "47f70c61c8a7a428259142abc857d5d395066565",
+      "mtime": "1659197102",
+      "size": "227676",
+      "md5": "f64112570b48585fe3211b24dafcbddb",
+      "crc32": "8abaac45",
+      "sha1": "f55820b13c44f25534aeced343283b89148374d3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zn_ua-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3592b7a7c21406e65a2b86cabdb70689",
+      "md5": "f8a4fa665c07e69d3b04f69c4e6e8149",
       "summation": "md5"
     },
     {
       "name": "zn_ua-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659153599",
-      "size": "1232896",
-      "md5": "bd4ef701aaef01ccb8b348ebd74d87e4",
-      "crc32": "d811b754",
-      "sha1": "a73cd2ac339090eb6a6159b907c2edad91278251",
+      "mtime": "1659197088",
+      "size": "1236992",
+      "md5": "cbf4b41a33276456f0374d6cc5223417",
+      "crc32": "12129f72",
+      "sha1": "40d702ba52ca5c46304585a8a617dcde3cc034c6",
       "format": "Metadata"
     },
     {
@@ -11339,9 +11391,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1079,
-  "item_last_updated": 1659153644,
-  "item_size": 138180154,
+  "files_count": 1084,
+  "item_last_updated": 1659197102,
+  "item_size": 138730891,
   "metadata": {
     "identifier": "zn_ua-2022",
     "collection": [
@@ -11363,7 +11415,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347697158,
+      "task_id": 3348134813,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11371,7 +11423,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1660831775,
+  "uniq": 827221659,
   "workable_servers": [
     "ia902509.us.archive.org"
   ],
@@ -11379,10 +11431,10 @@
     {
       "url": "https://zn.ua/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/zn_ua-_-2022_07_30_03_40_15.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/zn_ua-_-2022_07_30_03_40_15.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/zn_ua-_-2022_07_30_15_35_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/zn_ua-_-2022_07_30_15_35_46.report.json",
       "summary": {
-        "performance": 0.24,
+        "performance": 0.14,
         "accessibility": 0.66,
         "best-practices": 0.92,
         "seo": 0.91,
@@ -11392,10 +11444,10 @@
     {
       "url": "https://zn.ua/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/zn_ua-_-2022_07_30_03_40_41.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/zn_ua-_-2022_07_30_03_40_41.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/zn_ua-_-2022_07_30_15_36_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/zn_ua-_-2022_07_30_15_36_10.report.json",
       "summary": {
-        "performance": 0.38,
+        "performance": 0.26,
         "accessibility": 0.66,
         "best-practices": 0.92,
         "seo": 0.91,
@@ -11405,10 +11457,10 @@
     {
       "url": "https://zn.ua/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/zn_ua-_-2022_07_30_03_41_02.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/zn_ua-_-2022_07_30_03_41_02.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/zn_ua-_-2022_07_30_15_36_33.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/zn_ua-_-2022_07_30_15_36_33.report.json",
       "summary": {
-        "performance": 0.34,
+        "performance": 0.26,
         "accessibility": 0.66,
         "best-practices": 0.92,
         "seo": 0.91,

@@ -1,5 +1,5 @@
 {
-  "created": 1659183814,
+  "created": 1659227294,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/8/items/el_timpano-2022",
@@ -7,10 +7,10 @@
     {
       "url": "https://www.eltimpano.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eltimpano_org-_-2022_07_30_02_12_18.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eltimpano_org-_-2022_07_30_02_12_18.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eltimpano_org-_-2022_07_30_14_21_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eltimpano_org-_-2022_07_30_14_21_07.report.json",
       "summary": {
-        "performance": 0.15,
+        "performance": 0.32,
         "accessibility": 0.89,
         "best-practices": 1,
         "seo": 0.91,
@@ -20,10 +20,10 @@
     {
       "url": "https://www.eltimpano.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eltimpano_org-_-2022_07_30_02_12_33.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eltimpano_org-_-2022_07_30_02_12_33.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eltimpano_org-_-2022_07_30_14_21_22.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eltimpano_org-_-2022_07_30_14_21_22.report.json",
       "summary": {
-        "performance": 0.37,
+        "performance": 0.34,
         "accessibility": 0.89,
         "best-practices": 1,
         "seo": 0.91,
@@ -33,10 +33,10 @@
     {
       "url": "https://www.eltimpano.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eltimpano_org-_-2022_07_30_02_12_48.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eltimpano_org-_-2022_07_30_02_12_48.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eltimpano_org-_-2022_07_30_14_21_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_eltimpano_org-_-2022_07_30_14_21_36.report.json",
       "summary": {
-        "performance": 0.33,
+        "performance": 0.37,
         "accessibility": 0.89,
         "best-practices": 1,
         "seo": 0.91,
@@ -2360,31 +2360,83 @@
       "format": "JSON"
     },
     {
+      "name": "el_timpano-2022-07-29T19:37:10.448173-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_timpano-2022-07-29T19:37:10.448173-07:00.jpg",
+      "mtime": "1659195538",
+      "size": "8436",
+      "md5": "606214fa777d3670b2fd1ceb08ce6f12",
+      "crc32": "e5e8586c",
+      "sha1": "304bccf65c811292677e0af210cecbed21e72ad4"
+    },
+    {
+      "name": "el_timpano-2022-07-30T08:37:54.914221-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659195478",
+      "size": "10786",
+      "md5": "bc342beafd4c311b9f4d5231e329475b",
+      "crc32": "c22e932b",
+      "sha1": "6b4853be6124f9d677df7fbc886370724fbb296c",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-07-30T08:37:54.914221-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659195480",
+      "size": "9135",
+      "md5": "298c250b32b2c5418862b409f23de45b",
+      "crc32": "845304a7",
+      "sha1": "7dd10da6c4b36cb9ee68027ff0f808931c73d41c",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-07-30T08:37:54.914221-07:00.jpg",
+      "source": "original",
+      "mtime": "1659195476",
+      "size": "219620",
+      "md5": "d7d6a585ff53ceb833946c8b3d49cebe",
+      "crc32": "f3aa7d08",
+      "sha1": "eb6228124fc870f63834b1a2b4cd6d1135047c77",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_timpano-2022-07-30T08:37:54.914221-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659195481",
+      "size": "1477",
+      "md5": "4f36b55084b3c2cadff02096fbd72a19",
+      "crc32": "f623a569",
+      "sha1": "f3db9b4e9ebfd9af7220f1316f02b11de8252661",
+      "format": "JSON"
+    },
+    {
       "name": "el_timpano-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5d1c4d6977b0ffec8c748f3f9ff5ce2226cbf5b1",
-      "mtime": "1659148678",
-      "size": "48165",
-      "md5": "7b723415615088c529cef7d2a7977bf6",
-      "crc32": "04edaadc",
-      "sha1": "8dafd9b5478184a00ef7b508c79cd7c4845c6060",
+      "btih": "336a43990c324633c2dd84359696f65b58d9b00f",
+      "mtime": "1659195566",
+      "size": "49213",
+      "md5": "0d0ad5fcaa0d9e1d8ece801bc8d6c8b8",
+      "crc32": "1dd5c1fc",
+      "sha1": "799f729f3df17fd1902a502e0cee30252bddef30",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_timpano-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "26dffa063597ed7de28c14d09cc0774c",
+      "md5": "1f678d1e66ffd32b8c6ee1dd9b018d34",
       "summation": "md5"
     },
     {
       "name": "el_timpano-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659148642",
-      "size": "282624",
-      "md5": "16a2a806e21b3e4d80dcc3fd64ea2d3c",
-      "crc32": "f8208f96",
-      "sha1": "cea8a6ba5d3a5c0d6db2fd46c462951530de1c2a",
+      "mtime": "1659195564",
+      "size": "286720",
+      "md5": "cbd1eb6bfd578d9ac255b44d6fde394b",
+      "crc32": "c4d34f4f",
+      "sha1": "c24fce986644170aa5344c4013c0579e336ae579",
       "format": "Metadata"
     },
     {
@@ -2398,9 +2450,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 225,
-  "item_last_updated": 1659148678,
-  "item_size": 13393572,
+  "files_count": 230,
+  "item_last_updated": 1659195566,
+  "item_size": 13648170,
   "metadata": {
     "identifier": "el_timpano-2022",
     "collection": [
@@ -2422,7 +2474,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347651921,
+      "task_id": 3348118426,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2430,7 +2482,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1831602786,
+  "uniq": 1649017577,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]

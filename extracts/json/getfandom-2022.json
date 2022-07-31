@@ -1,5 +1,5 @@
 {
-  "created": 1659148838,
+  "created": 1659195896,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/35/items/getfandom-2022",
@@ -1185,31 +1185,83 @@
       "format": "JSON"
     },
     {
+      "name": "getfandom-2022-07-29T19:39:52.054728-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "getfandom-2022-07-29T19:39:52.054728-07:00.jpg",
+      "mtime": "1659195763",
+      "size": "10296",
+      "md5": "1308bf11bc35d46ad25981aa9865624f",
+      "crc32": "5e1e64db",
+      "sha1": "e4b2ba1c8607685f3566c56a739ae4c03985f645"
+    },
+    {
+      "name": "getfandom-2022-07-30T08:39:22.759730-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659195566",
+      "size": "14733",
+      "md5": "d717a3a3ea2472e17241e65704d0b1d6",
+      "crc32": "46aa875d",
+      "sha1": "523127b0f43bfef16fc2b91bfa097d046287b838",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-07-30T08:39:22.759730-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659195568",
+      "size": "23179",
+      "md5": "87000762debe5060f6579f25860df5f9",
+      "crc32": "59eb94dd",
+      "sha1": "a86838f9623eb1cf50993e1ee935375ed5c81c20",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-07-30T08:39:22.759730-07:00.jpg",
+      "source": "original",
+      "mtime": "1659195564",
+      "size": "269624",
+      "md5": "d75c04fec8a1ff55b5bcc870135bc349",
+      "crc32": "eca7d616",
+      "sha1": "6c39ff987608764c95a8cead937519b7ac08daef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "getfandom-2022-07-30T08:39:22.759730-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659195570",
+      "size": "1459",
+      "md5": "676b625b36afc191c59ee854f6d60222",
+      "crc32": "73cdb3c6",
+      "sha1": "a191690ede0290c216a2fe7e243e0c7d10e91be5",
+      "format": "JSON"
+    },
+    {
       "name": "getfandom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "01b8d8649dfadc7d9a7d0219d68c1bf61d3baae2",
-      "mtime": "1659148835",
-      "size": "25364",
-      "md5": "de73d4ec246d6541a5ff194bca0d9168",
-      "crc32": "f3ba3b53",
-      "sha1": "17bb00ae31e1ecc8a1961772b65eed99bd414a27",
+      "btih": "cd531708d2dc9aa777e0e52383c326ef9cc34f0a",
+      "mtime": "1659195891",
+      "size": "26409",
+      "md5": "8341327bde6496298eceb44591b5812c",
+      "crc32": "e0bfc3a2",
+      "sha1": "9cb51fe9c3e918358be69a64970063dfbe9de8dc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "getfandom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b1baea0f1f8d6082f9159371d167d95",
+      "md5": "9bd39f25185a7f3a5144f3c8260dbc9d",
       "summation": "md5"
     },
     {
       "name": "getfandom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659148801",
-      "size": "159744",
-      "md5": "ab541fcc3c888637ef0b8105b16ae1c6",
-      "crc32": "53d10239",
-      "sha1": "6e767f5911c2aed2ad893a5eeadadaa919495e77",
+      "mtime": "1659195889",
+      "size": "163840",
+      "md5": "676e99025fa6796d3e30e9478d4bcbc6",
+      "crc32": "44f96e1f",
+      "sha1": "363cf1bf09cc3569a0450d30fcbe7bb70056c5f2",
       "format": "Metadata"
     },
     {
@@ -1223,9 +1275,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 117,
-  "item_last_updated": 1659148835,
-  "item_size": 8950125,
+  "files_count": 122,
+  "item_last_updated": 1659195891,
+  "item_size": 9274557,
   "metadata": {
     "identifier": "getfandom-2022",
     "collection": [
@@ -1247,7 +1299,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347653068,
+      "task_id": 3348121522,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1255,7 +1307,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 550708639,
+  "uniq": 2070959393,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

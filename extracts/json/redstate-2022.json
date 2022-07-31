@@ -1,5 +1,6 @@
 {
-  "created": 1659184162,
+  "conflict": 1659227743,
+  "created": 1659227743,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/28/items/redstate-2022",
@@ -1709,31 +1710,146 @@
       "format": "JSON"
     },
     {
+      "name": "redstate-2022-07-29T20:16:53.657029-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "redstate-2022-07-29T20:16:53.657029-04:00.jpg",
+      "mtime": "1659184325",
+      "size": "10265",
+      "md5": "1f77fbd69b11f5ece7a077b7f11f76de",
+      "crc32": "942682f1",
+      "sha1": "1c7dbd54e75340f1fbd5ab0bc76cb68809abf18f"
+    },
+    {
+      "name": "redstate-2022-07-30T08:29:21.726447-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659184164",
+      "size": "33250",
+      "md5": "11ea9a250de14e57b8ea46cf60b9bdcb",
+      "crc32": "caa2ccc9",
+      "sha1": "f40489cc26dda91f728b0540104b21f8868ccd33",
+      "format": "JSON"
+    },
+    {
+      "name": "redstate-2022-07-30T08:29:21.726447-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659184165",
+      "size": "29141",
+      "md5": "79968766fb234dd3f8dfd92736c953de",
+      "crc32": "fc148c3b",
+      "sha1": "c3cea18718f23f87690c15cc6438edc3a5da8c82",
+      "format": "JSON"
+    },
+    {
+      "name": "redstate-2022-07-30T08:29:21.726447-04:00.jpg",
+      "source": "original",
+      "mtime": "1659184163",
+      "size": "286294",
+      "md5": "0a2e3c469ef96759def5cc976b1ce5df",
+      "crc32": "0790c15a",
+      "sha1": "b1cbc39f22ef9be38bd538e36d36c8271b96ce78",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "redstate-2022-07-30T08:29:21.726447-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659184167",
+      "size": "1441",
+      "md5": "ccb1799926d37281b408c834390bfda7",
+      "crc32": "ec34eb45",
+      "sha1": "18664ec2d514512679930d4fab8c11d26916b5ff",
+      "format": "JSON"
+    },
+    {
+      "name": "redstate-2022-07-30T08:29:21.726447-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "redstate-2022-07-30T08:29:21.726447-04:00.jpg",
+      "mtime": "1659206644",
+      "size": "10462",
+      "md5": "0b551fee37ea12b702749d8486b91340",
+      "crc32": "59aa63b0",
+      "sha1": "54243b58796e7eaf528d4976b65b02acba714d51"
+    },
+    {
+      "name": "redstate-2022-07-30T14:42:58.797090-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659206582",
+      "size": "33314",
+      "md5": "40a6b125d020e896d44553fb1316e8d8",
+      "crc32": "eb6d5ee9",
+      "sha1": "e0f37ccf88147bc4a74d1a479bcb66ea22e04579",
+      "format": "JSON"
+    },
+    {
+      "name": "redstate-2022-07-30T14:42:58.797090-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659206584",
+      "size": "29217",
+      "md5": "3191f942d63e780d74cff8e2b50764e6",
+      "crc32": "8fbec30e",
+      "sha1": "ada49dcd8ce8344f8e3c1fe7d1ca5a7efb1e32e6",
+      "format": "JSON"
+    },
+    {
+      "name": "redstate-2022-07-30T14:42:58.797090-04:00.jpg",
+      "source": "original",
+      "mtime": "1659206580",
+      "size": "283895",
+      "md5": "13e56991cd4d1027458e52b52470bb04",
+      "crc32": "1c5a9f24",
+      "sha1": "e57aa4144b9f0e217670bb461ed70c5be89b90f8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "redstate-2022-07-30T14:42:58.797090-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659206585",
+      "size": "1440",
+      "md5": "b0c4a146ea39cbbb6a1caec2b215f010",
+      "crc32": "0c6c2abc",
+      "sha1": "cfe6bb99ccedadc8380ce06399e935f8cc68b8e7",
+      "format": "JSON"
+    },
+    {
+      "name": "redstate-2022-07-30T14:42:58.797090-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "redstate-2022-07-30T14:42:58.797090-04:00.jpg",
+      "mtime": "1659227736",
+      "size": "10206",
+      "md5": "eaa1f14aa40f17423d16fe3c6138ebce",
+      "crc32": "98870e30",
+      "sha1": "8a807155222c0431d883d7f4cdc5b489a88f6664"
+    },
+    {
       "name": "redstate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f7f9aa40ebe3964118f04c738425ae46431eed3d",
-      "mtime": "1659140354",
-      "size": "35758",
-      "md5": "ec6d2ad670bdc489632ef240a80d72dc",
-      "crc32": "b95a1f99",
-      "sha1": "451ca14666fc63c9bc5b1cabae9727da21c29db9",
+      "btih": "89f32a1606c1f02789a36f487f7781c960068fdb",
+      "mtime": "1659206783",
+      "size": "37858",
+      "md5": "bff04853d5c933bdd8134663b3d8bf39",
+      "crc32": "04e4e91e",
+      "sha1": "a7ad3cafbb7ee65988784c3fbcaabcdc71608c23",
       "format": "Archive BitTorrent"
     },
     {
       "name": "redstate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5a4d815bd64063d67932d0a5dfed0671",
+      "md5": "adcb2115860ff6f5d80cfe20411562fc",
       "summation": "md5"
     },
     {
       "name": "redstate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659140352",
-      "size": "212992",
-      "md5": "6335e24b454d801de0abc11a948e2892",
-      "crc32": "db8a87b6",
-      "sha1": "37c7b578068aaa8e9ddb9e187a9287395112214c",
+      "mtime": "1659206781",
+      "size": "229376",
+      "md5": "f3a714b38f3c9a26c23b53e5a2d74ad4",
+      "crc32": "8d62130b",
+      "sha1": "46831a61f9845ddd9f74188e9dd3d7c6ab508c64",
       "format": "Metadata"
     },
     {
@@ -1747,9 +1863,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 167,
-  "item_last_updated": 1659140354,
-  "item_size": 12917596,
+  "files_count": 178,
+  "item_last_updated": 1659227736,
+  "item_size": 13665005,
   "metadata": {
     "identifier": "redstate-2022",
     "collection": [
@@ -1771,7 +1887,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347567393,
+      "task_id": 3348225271,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -1779,7 +1895,7 @@
       "status": "running"
     },
     {
-      "task_id": 3348017831,
+      "task_id": 3348395408,
       "cmd": "archive.php",
       "priority": -5,
       "wait_admin": 0,
@@ -1787,7 +1903,7 @@
       "status": "queued"
     },
     {
-      "task_id": 3348017845,
+      "task_id": 3348395429,
       "cmd": "archive.php",
       "priority": -5,
       "wait_admin": 0,
@@ -1795,7 +1911,7 @@
       "status": "queued"
     },
     {
-      "task_id": 3348017862,
+      "task_id": 3348395440,
       "cmd": "archive.php",
       "priority": -5,
       "wait_admin": 0,
@@ -1803,15 +1919,23 @@
       "status": "queued"
     },
     {
-      "task_id": 3348017871,
+      "task_id": 3348395457,
       "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348396128,
+      "cmd": "bup.php",
       "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1540891511,
+  "uniq": 1278276175,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

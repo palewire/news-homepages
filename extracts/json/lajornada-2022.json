@@ -1,5 +1,5 @@
 {
-  "created": 1659183913,
+  "created": 1659226335,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/19/items/lajornada-2022",
@@ -19105,6 +19105,12 @@
       "format": "JSON"
     },
     {
+      "name": "lajornada-2022-07-30T07:22:30.889522-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lajornada-2022-07-30T07:22:30.889522-05:00.jpg"
+    },
+    {
       "name": "lajornada-2022_archive.torrent",
       "source": "metadata",
       "btih": "aa909627b4f979e5f18affb231f502202d4435ef",
@@ -19143,7 +19149,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1824,
+  "files_count": 1825,
   "item_last_updated": 1659183896,
   "item_size": 198629891,
   "metadata": {
@@ -19170,12 +19176,44 @@
       "task_id": 3348015757,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3348392853,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348392865,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348392879,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3348392890,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1855242371,
+  "uniq": 1605270244,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

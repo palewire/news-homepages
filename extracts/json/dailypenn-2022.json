@@ -1,15 +1,15 @@
 {
-  "created": 1659183765,
+  "created": 1659227240,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dailypenn-2022": [
     {
       "url": "https://www.thedp.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_07_30_02_10_53.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_07_30_02_10_53.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_07_30_14_19_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_07_30_14_19_39.report.json",
       "summary": {
-        "performance": 0.19,
+        "performance": 0.3,
         "accessibility": 0.77,
         "best-practices": 0.83,
         "seo": 0.77,
@@ -19,10 +19,10 @@
     {
       "url": "https://www.thedp.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_07_30_02_11_24.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_07_30_02_11_24.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_07_30_14_19_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_07_30_14_19_59.report.json",
       "summary": {
-        "performance": 0.24,
+        "performance": 0.25,
         "accessibility": 0.77,
         "best-practices": 0.83,
         "seo": 0.77,
@@ -32,10 +32,10 @@
     {
       "url": "https://www.thedp.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_07_30_02_11_54.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_07_30_02_11_54.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_07_30_14_19_18.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_07_30_14_19_18.report.json",
       "summary": {
-        "performance": 0.18,
+        "performance": 0.2,
         "accessibility": 0.77,
         "best-practices": 0.83,
         "seo": 0.77,
@@ -514,31 +514,83 @@
       "format": "JSON"
     },
     {
+      "name": "dailypenn-2022-07-29T22:37:06.878299-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailypenn-2022-07-29T22:37:06.878299-04:00.jpg",
+      "mtime": "1659195406",
+      "size": "9258",
+      "md5": "35cb8153d7639285946beadfc0ec2afb",
+      "crc32": "ccb4df3f",
+      "sha1": "71cada4e5fb331489fb3357f42d3ea74cfca0173"
+    },
+    {
+      "name": "dailypenn-2022-07-30T11:35:55.971064-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659195359",
+      "size": "26662",
+      "md5": "4e0ae62dae1e30f32ab1bffbc80ec718",
+      "crc32": "2fd4225f",
+      "sha1": "0a53b5b99bcc509159c849533eeb6cd67212285d",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-07-30T11:35:55.971064-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659195361",
+      "size": "24697",
+      "md5": "052acc26de169e858d3d265612ef0d2e",
+      "crc32": "a5956bae",
+      "sha1": "22dba56b0a297425d1ea73e2652cefa60c57b4ae",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-07-30T11:35:55.971064-04:00.jpg",
+      "source": "original",
+      "mtime": "1659195357",
+      "size": "312361",
+      "md5": "0cb40c3a154e8a9657bae891b10f664c",
+      "crc32": "068ece17",
+      "sha1": "476d3675896e519e5e0c38f64783b3dcc718aca7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailypenn-2022-07-30T11:35:55.971064-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659195362",
+      "size": "1448",
+      "md5": "65f95bcfcdc2c5ef9d573cf12981d48a",
+      "crc32": "a55efb56",
+      "sha1": "e8146a5980771763286ec0ea185175ec2c22b91d",
+      "format": "JSON"
+    },
+    {
       "name": "dailypenn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "655ff1375098b2f32dd643bea78b2a6bd5fe0a02",
-      "mtime": "1659148669",
-      "size": "10944",
-      "md5": "f5f7a5d702c62632d5d2111859568210",
-      "crc32": "dc7b6ef4",
-      "sha1": "420441f2354f1a7ab3d9a349a947a82a198939bf",
+      "btih": "d169f8ea4a383285c63bd7e49d362f44998f543b",
+      "mtime": "1659195453",
+      "size": "12008",
+      "md5": "64fb18a2456b177b70504a70f149f617",
+      "crc32": "13397291",
+      "sha1": "af9e6787e535934bb675e59b416f96dcac312af8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailypenn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f2aba3a9b9e9dbafe1ba5676861724d6",
+      "md5": "204ccd0c72c2b30df986e289e5b51809",
       "summation": "md5"
     },
     {
       "name": "dailypenn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659148635",
-      "size": "69632",
-      "md5": "9fd1e71bdf93f7326ea1778ddf1fbe8b",
-      "crc32": "33a73269",
-      "sha1": "e0b4f895d1a103e8e241d6e103a8b1a86aee6078",
+      "mtime": "1659195451",
+      "size": "77824",
+      "md5": "59adbac9f0b2c62f539b6b0ba7975870",
+      "crc32": "ee8b4457",
+      "sha1": "75c6a3aa6a4b755ec1375ab87af8b5a7bd4b4d3d",
       "format": "Metadata"
     },
     {
@@ -552,9 +604,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 49,
-  "item_last_updated": 1659148669,
-  "item_size": 3449941,
+  "files_count": 54,
+  "item_last_updated": 1659195453,
+  "item_size": 3833623,
   "metadata": {
     "identifier": "dailypenn-2022",
     "collection": [
@@ -576,7 +628,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347651843,
+      "task_id": 3348117467,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -584,7 +636,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1061292539,
+  "uniq": 125499956,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

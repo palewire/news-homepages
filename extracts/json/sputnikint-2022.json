@@ -1,5 +1,5 @@
 {
-  "created": 1659158456,
+  "created": 1659227856,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/26/items/sputnikint-2022",
@@ -2063,31 +2063,83 @@
       "format": "JSON"
     },
     {
+      "name": "sputnikint-2022-07-30T08:17:30.487857+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sputnikint-2022-07-30T08:17:30.487857+03:00.jpg",
+      "mtime": "1659188099",
+      "size": "12119",
+      "md5": "cc069fefd7ef90033134f77f0d64268f",
+      "crc32": "60cc7e8d",
+      "sha1": "145524ec4515978555b86282b0418e089f1ad087"
+    },
+    {
+      "name": "sputnikint-2022-07-30T16:34:22.983356+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659188066",
+      "size": "54307",
+      "md5": "017bc61d709d89577409bfc9b0e00fdf",
+      "crc32": "ce1d0781",
+      "sha1": "b81cdf65dccb1c58e5f4f5e73835f8ff86938b77",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-07-30T16:34:22.983356+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659188067",
+      "size": "38725",
+      "md5": "0576f49de2f3940c7dace036667400e5",
+      "crc32": "cd4dd3da",
+      "sha1": "cdebff4ad30323972c1daaa160e17397d0668640",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-07-30T16:34:22.983356+03:00.jpg",
+      "source": "original",
+      "mtime": "1659188064",
+      "size": "394511",
+      "md5": "abd91602d3791f2f0245bee90173d250",
+      "crc32": "a7ba24b1",
+      "sha1": "2efff31f5e58a11ea9ac74077c3993e1dc6bb405",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sputnikint-2022-07-30T16:34:22.983356+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659188069",
+      "size": "1468",
+      "md5": "1d3001b8611e627287a99699243d4c98",
+      "crc32": "f1c16528",
+      "sha1": "fd57d1d5d8f5faec7c9750963b8e74e144cea0ef",
+      "format": "JSON"
+    },
+    {
       "name": "sputnikint-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3d5edcbc38240d079a8b6e17604f8d53d1f0fd9d",
-      "mtime": "1659158443",
-      "size": "43500",
-      "md5": "243bad1c841fecec31402d2cc6bc617e",
-      "crc32": "3f734efd",
-      "sha1": "23def930910b02c57c49b56a9640f810b8238283",
+      "btih": "dd20b1041a94583e3aa662d57e397ec5740de7cf",
+      "mtime": "1659188134",
+      "size": "44570",
+      "md5": "51ed73d8f0a2efb96db135e09d922d59",
+      "crc32": "cf84ab6b",
+      "sha1": "24d7a66881f21e17e53f572ad5abd9e3a85b0d19",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sputnikint-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d2a78ce71eaac2af31e44f4c5b47c240",
+      "md5": "0d7a3264bf46ffc3b574257af6985fc6",
       "summation": "md5"
     },
     {
       "name": "sputnikint-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659158435",
-      "size": "253952",
-      "md5": "35e5dbb2979612c3c835439a1e6090b1",
-      "crc32": "e6a5f1e4",
-      "sha1": "77908975ade497955feeaf62e030c1d29a19de53",
+      "mtime": "1659188131",
+      "size": "266240",
+      "md5": "0aeec06a609702c8136ac929bcd4d768",
+      "crc32": "7a6253d1",
+      "sha1": "4f1e3cdf809e1d0a5809c4b1fcb9b4edf2464812",
       "format": "Metadata"
     },
     {
@@ -2101,9 +2153,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 201,
-  "item_last_updated": 1659158443,
-  "item_size": 19844784,
+  "files_count": 206,
+  "item_last_updated": 1659188134,
+  "item_size": 20359272,
   "metadata": {
     "identifier": "sputnikint-2022",
     "collection": [
@@ -2123,9 +2175,50 @@
   "pending_tasks": true,
   "server": "ia601502.us.archive.org",
   "servers_unavailable": true,
+  "sputnikint-2022": [
+    {
+      "url": "https://sputniknews.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sputniknews_com-_-2022_07_30_13_11_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sputniknews_com-_-2022_07_30_13_11_50.report.json",
+      "summary": {
+        "performance": 0.21,
+        "accessibility": 0.57,
+        "best-practices": 0.75,
+        "seo": 0.84,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://sputniknews.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sputniknews_com-_-2022_07_30_13_12_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sputniknews_com-_-2022_07_30_13_12_11.report.json",
+      "summary": {
+        "performance": 0.26,
+        "accessibility": 0.57,
+        "best-practices": 0.75,
+        "seo": 0.84,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://sputniknews.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sputniknews_com-_-2022_07_30_13_12_29.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sputniknews_com-_-2022_07_30_13_12_29.report.json",
+      "summary": {
+        "performance": 0.27,
+        "accessibility": 0.57,
+        "best-practices": 0.75,
+        "seo": 0.84,
+        "pwa": 0.7
+      }
+    }
+  ],
   "tasks": [
     {
-      "task_id": 3347751270,
+      "task_id": 3348054969,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2133,7 +2226,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1212063585,
+  "uniq": 974712805,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659184119,
+  "created": 1659227523,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/2/items/nhk_news-2022",
@@ -2579,31 +2579,73 @@
       "format": "JSON"
     },
     {
+      "name": "nhk_news-2022-07-30T21:26:22.504342+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nhk_news-2022-07-30T21:26:22.504342+09:00.jpg",
+      "mtime": "1659225503",
+      "size": "9510",
+      "md5": "3f16c731a1aae14fb94bcdce0613562b",
+      "crc32": "3d6ffe46",
+      "sha1": "3a5f4c9e4d9d462039281383e4ebaf1d2f7be46f"
+    },
+    {
+      "name": "nhk_news-2022-07-31T09:31:14.895020+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659227477",
+      "size": "16529",
+      "md5": "fdc658275dd4b5a1665d43f4fa2c350d",
+      "crc32": "c4b50849",
+      "sha1": "27e6779e67a8cf91777bb458c5ead57fb089b31d",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-07-31T09:31:14.895020+09:00.jpg",
+      "source": "original",
+      "mtime": "1659227476",
+      "size": "279772",
+      "md5": "5381b4b83144bc35e235cb2381a65ce5",
+      "crc32": "47d36730",
+      "sha1": "1b710ed6104bd27cd7327f184b7fedc16d2f6522",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nhk_news-2022-07-31T09:31:14.895020+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659227479",
+      "size": "1504",
+      "md5": "92d51853ece29720a1bee5a4246344b1",
+      "crc32": "834b2ca4",
+      "sha1": "66b953695f90d1645222faad24dcc5e45db7462c",
+      "format": "JSON"
+    },
+    {
       "name": "nhk_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3f42f65645f30f700c9ed901401b622ed8329eb2",
-      "mtime": "1659184109",
-      "size": "52545",
-      "md5": "fccadb16e4465b253a636f3913de3bcc",
-      "crc32": "ad9cd2ec",
-      "sha1": "b303e66a00ed13c22eb6626616e0779378318e36",
+      "btih": "f2df4e990e831fdc4246fd61dbf09cc80ef0e139",
+      "mtime": "1659227522",
+      "size": "53390",
+      "md5": "73a6ec7569d3273f19c7f864c64b6951",
+      "crc32": "6f7d5a05",
+      "sha1": "a87f14889c723d65de22ccd29211fcc153297be0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nhk_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3fa4e5557ead4632807f78d8620d7752",
+      "md5": "c028c4f6c47089310a632a7aa6ac6171",
       "summation": "md5"
     },
     {
       "name": "nhk_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659184106",
-      "size": "290816",
-      "md5": "ff9adf6097c420d67c12dbfcc48d71fa",
-      "crc32": "aab85769",
-      "sha1": "d556694dd5aa98009d8b548837cc13a4f6f64ec5",
+      "mtime": "1659227486",
+      "size": "294912",
+      "md5": "81408f94e04603d5696e42b38d66a70b",
+      "crc32": "6f1c0a29",
+      "sha1": "712e9f30b576eae902c748ccb39c278938c523ee",
       "format": "Metadata"
     },
     {
@@ -2617,9 +2659,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 248,
-  "item_last_updated": 1659184109,
-  "item_size": 21399120,
+  "files_count": 252,
+  "item_last_updated": 1659227522,
+  "item_size": 21711376,
   "metadata": {
     "identifier": "nhk_news-2022",
     "collection": [
@@ -2641,7 +2683,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3348017428,
+      "task_id": 3348394477,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2649,7 +2691,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1941829290,
+  "uniq": 1645030032,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

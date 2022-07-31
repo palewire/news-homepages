@@ -1,5 +1,5 @@
 {
-  "created": 1659179126,
+  "created": 1659227964,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/26/items/theleftbench-2022",
@@ -1739,31 +1739,83 @@
       "format": "JSON"
     },
     {
+      "name": "theleftbench-2022-07-29T21:23:12.035441-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theleftbench-2022-07-29T21:23:12.035441-04:00.jpg",
+      "mtime": "1659188207",
+      "size": "10124",
+      "md5": "1d3e1552146318e76aaa8043e9a2d6a9",
+      "crc32": "38aa482b",
+      "sha1": "62e76f3cb0cf071615a65038cfca3ac906205cf2"
+    },
+    {
+      "name": "theleftbench-2022-07-30T09:36:06.011444-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659188169",
+      "size": "61376",
+      "md5": "4cb22b6b110ebcbe55cac1b9d8366b9e",
+      "crc32": "a9ee2916",
+      "sha1": "2b77c34cec25c766929c431bbc95ee0819b03e60",
+      "format": "JSON"
+    },
+    {
+      "name": "theleftbench-2022-07-30T09:36:06.011444-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659188170",
+      "size": "42911",
+      "md5": "f4d018d5e1914a059afe67867ecd77a4",
+      "crc32": "ee5cea29",
+      "sha1": "961ec6f044e4941fc2e636ffd83717c1573cce7a",
+      "format": "JSON"
+    },
+    {
+      "name": "theleftbench-2022-07-30T09:36:06.011444-04:00.jpg",
+      "source": "original",
+      "mtime": "1659188167",
+      "size": "312821",
+      "md5": "42dd86e06e08567c210766ad7c6a8ec8",
+      "crc32": "a0dc6384",
+      "sha1": "c3cca0911baa92fee0faaca79fd0e0047af763d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theleftbench-2022-07-30T09:36:06.011444-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659188172",
+      "size": "1477",
+      "md5": "24aa279a59e03847704a78c1c7427cb9",
+      "crc32": "39d86782",
+      "sha1": "9f41d9ecce373df1c8fc01ee68b08a9add1f1ce1",
+      "format": "JSON"
+    },
+    {
       "name": "theleftbench-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dd490d6a3fa17d8d1da80ee282cffb77c462df85",
-      "mtime": "1659144242",
-      "size": "37239",
-      "md5": "157c1cc9d932fa4e5421053eecbac0d2",
-      "crc32": "549d69a0",
-      "sha1": "2fda132796da4c3597a94e6d366ccf04d969e3bd",
+      "btih": "f9b9692d2772ff23838df545c725962e3d2007de",
+      "mtime": "1659188240",
+      "size": "38299",
+      "md5": "f68f58a70a96879eb5334cadfd29cd6c",
+      "crc32": "1317bbeb",
+      "sha1": "95a0d3550a79cc72a1e3bbb66d6ab0c731ff9132",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theleftbench-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a06a4136baeb99e589358bab09714cd7",
+      "md5": "dd0ac27d53b251bf938d4e31ea44c251",
       "summation": "md5"
     },
     {
       "name": "theleftbench-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659144205",
-      "size": "221184",
-      "md5": "a4ad37c71c5a21c3f4de472b8b776669",
-      "crc32": "5f210187",
-      "sha1": "74152368f238e42d7bd98a05f8aedbaf2958d3d6",
+      "mtime": "1659188236",
+      "size": "229376",
+      "md5": "e2adb4b4a0df365760e51575bc1c2379",
+      "crc32": "391a9360",
+      "sha1": "56e1ded276881164c217aaa70b8d48dd94fe0e75",
       "format": "Metadata"
     },
     {
@@ -1777,9 +1829,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 170,
-  "item_last_updated": 1659144242,
-  "item_size": 16303337,
+  "files_count": 175,
+  "item_last_updated": 1659188240,
+  "item_size": 16741298,
   "metadata": {
     "identifier": "theleftbench-2022",
     "collection": [
@@ -1801,7 +1853,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3347605968,
+      "task_id": 3348055814,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1809,7 +1861,48 @@
       "status": "queued"
     }
   ],
-  "uniq": 1773188453,
+  "theleftbench-2022": [
+    {
+      "url": "https://theleftbench.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/theleftbench_com-_-2022_07_30_13_14_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/theleftbench_com-_-2022_07_30_13_14_00.report.json",
+      "summary": {
+        "performance": 0.62,
+        "accessibility": 0.95,
+        "best-practices": 0.83,
+        "seo": 0.83,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://theleftbench.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/theleftbench_com-_-2022_07_30_13_14_14.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/theleftbench_com-_-2022_07_30_13_14_14.report.json",
+      "summary": {
+        "performance": 0.71,
+        "accessibility": 0.95,
+        "best-practices": 0.83,
+        "seo": 0.83,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://theleftbench.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/theleftbench_com-_-2022_07_30_13_14_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/theleftbench_com-_-2022_07_30_13_14_26.report.json",
+      "summary": {
+        "performance": 0.69,
+        "accessibility": 0.95,
+        "best-practices": 0.83,
+        "seo": 0.83,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "uniq": 1808678803,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]
