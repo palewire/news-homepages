@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-30T21:03:32.784616-07:00.jpg">
+  <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-30T21:03:32.784616-07:00.jpg"
+     alt="Objective at 2022-07-30 21:03:34-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-30T21:03:32.784616-07:00.jpg">July 30 at 9:03 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-30T08:53:12.947696-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-25T08:34:46.866063-07:00.jpg">July 25 at 8:34 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-24T20:38:27.118104-07:00.jpg">
-  <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-24T20:38:27.118104-07:00.jpg"
-     alt="Objective at 2022-07-24 20:38:29-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-24T20:38:27.118104-07:00.jpg">July 24 at 8:38 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 9:03 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-30T21:03:32.784616-07:00.hyperlinks.json) |
 | [July 30 at 8:53 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-30T08:53:12.947696-07:00.hyperlinks.json) |
 | [July 29 at 8:49 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-29T20:49:46.715956-07:00.hyperlinks.json) |
 | [July 29 at 8:51 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-29T08:51:15.797198-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 27 at 8:42 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-27T08:42:51.311552-07:00.hyperlinks.json) |
 | [July 26 at 8:51 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-26T20:51:10.282584-07:00.hyperlinks.json) |
 | [July 26 at 8:41 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-26T08:41:37.344803-07:00.hyperlinks.json) |
-| [July 25 at 8:53 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-25T20:53:16.612383-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 44 accessibility trees with the Internet Archive.
+The archiving routine has saved 45 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 9:03 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-30T21:03:32.784616-07:00.accessibility.json) |
 | [July 30 at 8:53 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-30T08:53:12.947696-07:00.accessibility.json) |
 | [July 29 at 8:49 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-29T20:49:46.715956-07:00.accessibility.json) |
 | [July 29 at 8:51 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-29T08:51:15.797198-07:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 27 at 8:42 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-27T08:42:51.311552-07:00.accessibility.json) |
 | [July 26 at 8:51 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-26T20:51:10.282584-07:00.accessibility.json) |
 | [July 26 at 8:41 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-26T08:41:37.344803-07:00.accessibility.json) |
-| [July 25 at 8:53 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-25T20:53:16.612383-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 9:03 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-30T21:03:32.784616-07:00.lighthouse.json) |
 | [July 30 at 8:53 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-30T08:53:12.947696-07:00.lighthouse.json) |
 | [July 29 at 8:49 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-29T20:49:46.715956-07:00.lighthouse.json) |
 | [July 29 at 8:51 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-29T08:51:15.797198-07:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 8:42 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-27T08:42:51.311552-07:00.lighthouse.json) |
 | [July 26 at 8:51 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-26T20:51:10.282584-07:00.lighthouse.json) |
 | [July 26 at 8:41 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-26T08:41:37.344803-07:00.lighthouse.json) |
-| [July 25 at 8:53 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-25T20:53:16.612383-07:00.lighthouse.json) |
 
 
 

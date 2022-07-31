@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 206 screenshots with the Internet Archive.
+The archiving routine has saved 207 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 206 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dmregister-2022/dmregister-2022-07-31T06:11:51.403307-05:00.jpg">
+  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-07-31T06:11:51.403307-05:00.jpg"
+     alt="Des Moines Register at 2022-07-31 06:11:56-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-07-31T06:11:51.403307-05:00.jpg">July 31 at 6:11 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dmregister-2022/dmregister-2022-07-30T18:18:35.848538-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-07-26T18:08:20.127158-05:00.jpg">July 26 at 6:08 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dmregister-2022/dmregister-2022-07-26T06:16:54.053061-05:00.jpg">
-  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-07-26T06:16:54.053061-05:00.jpg"
-     alt="Des Moines Register at 2022-07-26 06:17:00-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-07-26T06:16:54.053061-05:00.jpg">July 26 at 6:17 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 198 hyperlink lists with the Internet Archive.
+The archiving routine has saved 199 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 6:12 AM](https://archive.org/download/dmregister-2022/dmregister-2022-07-31T06:11:51.403307-05:00.hyperlinks.json) |
 | [July 30 at 6:18 PM](https://archive.org/download/dmregister-2022/dmregister-2022-07-30T18:18:35.848538-05:00.hyperlinks.json) |
 | [July 30 at 6:15 AM](https://archive.org/download/dmregister-2022/dmregister-2022-07-30T06:15:17.094871-05:00.hyperlinks.json) |
 | [July 29 at 7:05 PM](https://archive.org/download/dmregister-2022/dmregister-2022-07-29T19:05:10.489319-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 6:10 AM](https://archive.org/download/dmregister-2022/dmregister-2022-07-28T06:10:07.104623-05:00.hyperlinks.json) |
 | [July 27 at 6:06 PM](https://archive.org/download/dmregister-2022/dmregister-2022-07-27T18:06:29.079247-05:00.hyperlinks.json) |
 | [July 27 at 11:08 AM](https://archive.org/download/dmregister-2022/dmregister-2022-07-27T11:08:16.929360-05:00.hyperlinks.json) |
-| [July 27 at 6:06 AM](https://archive.org/download/dmregister-2022/dmregister-2022-07-27T06:06:21.313158-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 199 accessibility trees with the Internet Archive.
+The archiving routine has saved 200 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 6:11 AM](https://archive.org/download/dmregister-2022/dmregister-2022-07-31T06:11:51.403307-05:00.accessibility.json) |
 | [July 30 at 6:18 PM](https://archive.org/download/dmregister-2022/dmregister-2022-07-30T18:18:35.848538-05:00.accessibility.json) |
 | [July 30 at 6:15 AM](https://archive.org/download/dmregister-2022/dmregister-2022-07-30T06:15:17.094871-05:00.accessibility.json) |
 | [July 29 at 7:05 PM](https://archive.org/download/dmregister-2022/dmregister-2022-07-29T19:05:10.489319-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 6:10 AM](https://archive.org/download/dmregister-2022/dmregister-2022-07-28T06:10:07.104623-05:00.accessibility.json) |
 | [July 27 at 6:06 PM](https://archive.org/download/dmregister-2022/dmregister-2022-07-27T18:06:29.079247-05:00.accessibility.json) |
 | [July 27 at 11:08 AM](https://archive.org/download/dmregister-2022/dmregister-2022-07-27T11:08:16.929360-05:00.accessibility.json) |
-| [July 27 at 6:06 AM](https://archive.org/download/dmregister-2022/dmregister-2022-07-27T06:06:21.313158-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 6:12 AM](https://archive.org/download/dmregister-2022/dmregister-2022-07-31T06:11:51.403307-05:00.lighthouse.json) |
 | [July 30 at 6:18 PM](https://archive.org/download/dmregister-2022/dmregister-2022-07-30T18:18:35.848538-05:00.lighthouse.json) |
 | [July 30 at 6:15 AM](https://archive.org/download/dmregister-2022/dmregister-2022-07-30T06:15:17.094871-05:00.lighthouse.json) |
 | [July 29 at 7:05 PM](https://archive.org/download/dmregister-2022/dmregister-2022-07-29T19:05:10.489319-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 6:10 AM](https://archive.org/download/dmregister-2022/dmregister-2022-07-28T06:10:07.104623-05:00.lighthouse.json) |
 | [July 27 at 6:06 PM](https://archive.org/download/dmregister-2022/dmregister-2022-07-27T18:06:29.079247-05:00.lighthouse.json) |
 | [July 27 at 11:08 AM](https://archive.org/download/dmregister-2022/dmregister-2022-07-27T11:08:16.929360-05:00.lighthouse.json) |
-| [July 27 at 6:06 AM](https://archive.org/download/dmregister-2022/dmregister-2022-07-27T06:06:21.313158-05:00.lighthouse.json) |
 
 
 

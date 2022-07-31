@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 7 screenshots with the Internet Archive.
+The archiving routine has saved 8 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-07-30T21:53:53.566762-05:00.jpg">
+  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-07-30T21:53:53.566762-05:00.jpg"
+     alt="Daily Herald at 2022-07-30 21:53:54-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-07-30T21:53:53.566762-05:00.jpg">July 30 at 9:53 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-07-30T11:15:49.332654-05:00.jpg">
@@ -95,7 +104,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 7 hyperlink lists with the Internet Archive.
+The archiving routine has saved 8 hyperlink lists with the Internet Archive.
 
 
 
@@ -103,6 +112,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 9:53 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-07-30T21:53:53.566762-05:00.hyperlinks.json) |
 | [July 30 at 11:15 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-07-30T11:15:49.332654-05:00.hyperlinks.json) |
 | [July 30 at 8:34 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-07-30T08:33:59.560138-05:00.hyperlinks.json) |
 | [July 29 at 8:21 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-07-29T20:21:19.287194-05:00.hyperlinks.json) |
@@ -114,7 +124,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 7 accessibility trees with the Internet Archive.
+The archiving routine has saved 8 accessibility trees with the Internet Archive.
 
 
 
@@ -122,6 +132,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 9:53 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-07-30T21:53:53.566762-05:00.accessibility.json) |
 | [July 30 at 11:15 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-07-30T11:15:49.332654-05:00.accessibility.json) |
 | [July 30 at 8:34 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-07-30T08:33:59.560138-05:00.accessibility.json) |
 | [July 29 at 8:21 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-07-29T20:21:19.287194-05:00.accessibility.json) |
@@ -134,7 +145,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 7 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 8 Lighthouse audits with the Internet Archive.
 
 
 
@@ -142,6 +153,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 9:53 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-07-30T21:53:53.566762-05:00.lighthouse.json) |
 | [July 30 at 11:15 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-07-30T11:15:49.332654-05:00.lighthouse.json) |
 | [July 30 at 8:34 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-07-30T08:33:59.560138-05:00.lighthouse.json) |
 | [July 29 at 8:21 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-07-29T20:21:19.287194-05:00.lighthouse.json) |

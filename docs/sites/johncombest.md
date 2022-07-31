@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 53 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 53 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-30T21:58:52.399854-05:00.jpg">
+  <img src="https://archive.org/download/johncombest-2022/johncombest-2022-07-30T21:58:52.399854-05:00.jpg"
+     alt="John Combest at 2022-07-30 21:58:53-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-30T21:58:52.399854-05:00.jpg">July 30 at 9:58 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-30T10:41:20.423320-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-25T08:09:37.017584-05:00.jpg">July 25 at 8:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-24T22:23:38.542020-05:00.jpg">
-  <img src="https://archive.org/download/johncombest-2022/johncombest-2022-07-24T22:23:38.542020-05:00.jpg"
-     alt="John Combest at 2022-07-24 22:23:45-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-24T22:23:38.542020-05:00.jpg">July 24 at 10:23 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 53 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 9:58 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-30T21:58:52.399854-05:00.hyperlinks.json) |
 | [July 30 at 10:41 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-30T10:41:20.423320-05:00.hyperlinks.json) |
 | [July 29 at 9:41 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-29T21:41:19.168214-05:00.hyperlinks.json) |
 | [July 29 at 9:41 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-29T09:41:24.706060-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 27 at 9:31 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-27T09:31:44.450072-05:00.hyperlinks.json) |
 | [July 26 at 9:39 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-26T21:38:53.644569-05:00.hyperlinks.json) |
 | [July 26 at 9:36 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-26T09:36:51.343718-05:00.hyperlinks.json) |
-| [July 25 at 9:44 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-25T21:44:36.749707-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 53 accessibility trees with the Internet Archive.
+The archiving routine has saved 54 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 9:58 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-30T21:58:52.399854-05:00.accessibility.json) |
 | [July 30 at 10:41 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-30T10:41:20.423320-05:00.accessibility.json) |
 | [July 29 at 9:41 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-29T21:41:19.168214-05:00.accessibility.json) |
 | [July 29 at 9:41 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-29T09:41:24.706060-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 27 at 9:31 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-27T09:31:44.450072-05:00.accessibility.json) |
 | [July 26 at 9:39 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-26T21:38:53.644569-05:00.accessibility.json) |
 | [July 26 at 9:36 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-26T09:36:51.343718-05:00.accessibility.json) |
-| [July 25 at 9:44 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-25T21:44:36.749707-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 9:58 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-30T21:58:52.399854-05:00.lighthouse.json) |
 | [July 30 at 10:41 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-30T10:41:20.423320-05:00.lighthouse.json) |
 | [July 29 at 9:41 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-29T21:41:19.168214-05:00.lighthouse.json) |
 | [July 29 at 9:41 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-29T09:41:24.706060-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 9:31 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-27T09:31:44.450072-05:00.lighthouse.json) |
 | [July 26 at 9:39 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-26T21:38:53.644569-05:00.lighthouse.json) |
 | [July 26 at 9:36 AM](https://archive.org/download/johncombest-2022/johncombest-2022-07-26T09:36:51.343718-05:00.lighthouse.json) |
-| [July 25 at 9:44 PM](https://archive.org/download/johncombest-2022/johncombest-2022-07-25T21:44:36.749707-05:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 38 screenshots with the Internet Archive.
+The archiving routine has saved 39 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 38 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-31T07:12:21.875234-04:00.jpg">
+  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-31T07:12:21.875234-04:00.jpg"
+     alt="Fairness and Accuracy in Reporting at 2022-07-31 07:12:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-31T07:12:21.875234-04:00.jpg">July 31 at 7:12 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-30T19:18:45.056216-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T07:08:44.139529-04:00.jpg">July 27 at 7:08 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T19:09:43.058335-04:00.jpg">
-  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T19:09:43.058335-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-07-26 19:09:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-26T19:09:43.058335-04:00.jpg">July 26 at 7:09 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 38 hyperlink lists with the Internet Archive.
+The archiving routine has saved 39 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 7:12 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-31T07:12:21.875234-04:00.hyperlinks.json) |
 | [July 30 at 7:18 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-30T19:18:45.056216-04:00.hyperlinks.json) |
 | [July 30 at 2:39 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-30T14:39:39.091084-04:00.hyperlinks.json) |
 | [July 30 at 7:16 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-30T07:16:16.981998-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 7:13 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T19:12:54.980896-04:00.hyperlinks.json) |
 | [July 28 at 2:45 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T14:45:38.573598-04:00.hyperlinks.json) |
 | [July 28 at 7:11 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T07:11:11.568588-04:00.hyperlinks.json) |
-| [July 27 at 7:07 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T19:07:00.528168-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 38 accessibility trees with the Internet Archive.
+The archiving routine has saved 39 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 7:12 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-31T07:12:21.875234-04:00.accessibility.json) |
 | [July 30 at 7:18 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-30T19:18:45.056216-04:00.accessibility.json) |
 | [July 30 at 2:39 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-30T14:39:39.091084-04:00.accessibility.json) |
 | [July 30 at 7:16 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-30T07:16:16.981998-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 7:13 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T19:12:54.980896-04:00.accessibility.json) |
 | [July 28 at 2:45 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T14:45:38.573598-04:00.accessibility.json) |
 | [July 28 at 7:11 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T07:11:11.568588-04:00.accessibility.json) |
-| [July 27 at 7:07 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T19:07:00.528168-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 7:12 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-31T07:12:21.875234-04:00.lighthouse.json) |
 | [July 30 at 7:18 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-30T19:18:45.056216-04:00.lighthouse.json) |
 | [July 30 at 2:39 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-30T14:39:39.091084-04:00.lighthouse.json) |
 | [July 30 at 7:16 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-30T07:16:16.981998-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 7:13 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T19:12:54.980896-04:00.lighthouse.json) |
 | [July 28 at 2:45 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T14:45:38.573598-04:00.lighthouse.json) |
 | [July 28 at 7:11 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-28T07:11:11.568588-04:00.lighthouse.json) |
-| [July 27 at 7:07 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-07-27T19:07:00.528168-04:00.lighthouse.json) |
 
 
 

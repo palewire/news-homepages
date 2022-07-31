@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 8 screenshots with the Internet Archive.
+The archiving routine has saved 9 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-07-30T22:47:56.714832-04:00.jpg">
+  <img src="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-07-30T22:47:56.714832-04:00.jpg"
+     alt="Buffalo News at 2022-07-30 22:47:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-07-30T22:47:56.714832-04:00.jpg">July 30 at 10:47 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-07-29T21:22:36.011428-04:00.jpg">
@@ -124,7 +133,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 9 accessibility trees with the Internet Archive.
+The archiving routine has saved 10 accessibility trees with the Internet Archive.
 
 
 
@@ -132,6 +141,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 10:47 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-07-30T22:47:56.714832-04:00.accessibility.json) |
 | [July 30 at 9:35 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-07-30T09:35:31.147806-04:00.accessibility.json) |
 | [July 29 at 9:22 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-07-29T21:22:36.011428-04:00.accessibility.json) |
 | [July 29 at 9:33 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-07-29T09:33:54.043838-04:00.accessibility.json) |
@@ -146,7 +156,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 8 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
 
 
 
@@ -154,6 +164,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 10:48 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-07-30T22:47:56.714832-04:00.lighthouse.json) |
 | [July 30 at 9:35 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-07-30T09:35:31.147806-04:00.lighthouse.json) |
 | [July 29 at 9:22 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-07-29T21:22:36.011428-04:00.lighthouse.json) |
 | [July 29 at 9:34 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-07-29T09:33:54.043838-04:00.lighthouse.json) |

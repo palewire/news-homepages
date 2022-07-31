@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 324 screenshots with the Internet Archive.
+The archiving routine has saved 326 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thesun-2022/thesun-2022-07-31T10:10:16.370695+01:00.jpg">
+  <img src="https://archive.org/download/thesun-2022/thesun-2022-07-31T10:10:16.370695+01:00.jpg"
+     alt="The Sun at 2022-07-31 10:10:26+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thesun-2022/thesun-2022-07-31T10:10:16.370695+01:00.jpg">July 31 at 10:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thesun-2022/thesun-2022-07-31T03:48:36.752517+01:00.jpg">
+  <img src="https://archive.org/download/thesun-2022/thesun-2022-07-31T03:48:36.752517+01:00.jpg"
+     alt="The Sun at 2022-07-31 03:48:56+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thesun-2022/thesun-2022-07-31T03:48:36.752517+01:00.jpg">July 31 at 3:48 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thesun-2022/thesun-2022-07-30T14:36:33.394874+01:00.jpg">
   <img src="https://archive.org/download/thesun-2022/thesun-2022-07-30T14:36:33.394874+01:00.jpg"
      alt="The Sun at 2022-07-30 14:36:35+01:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thesun-2022/thesun-2022-07-27T14:24:34.998711+01:00.jpg">July 27 at 2:24 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thesun-2022/thesun-2022-07-27T10:09:06.899458+01:00.jpg">
-  <img src="https://archive.org/download/thesun-2022/thesun-2022-07-27T10:09:06.899458+01:00.jpg"
-     alt="The Sun at 2022-07-27 10:09:14+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thesun-2022/thesun-2022-07-27T10:09:06.899458+01:00.jpg">July 27 at 10:09 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thesun-2022/thesun-2022-07-27T02:29:30.952473+01:00.jpg">
-  <img src="https://archive.org/download/thesun-2022/thesun-2022-07-27T02:29:30.952473+01:00.jpg"
-     alt="The Sun at 2022-07-27 02:29:32+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thesun-2022/thesun-2022-07-27T02:29:30.952473+01:00.jpg">July 27 at 2:29 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 307 hyperlink lists with the Internet Archive.
+The archiving routine has saved 309 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 10:10 AM](https://archive.org/download/thesun-2022/thesun-2022-07-31T10:10:16.370695+01:00.hyperlinks.json) |
+| [July 31 at 3:49 AM](https://archive.org/download/thesun-2022/thesun-2022-07-31T03:48:36.752517+01:00.hyperlinks.json) |
 | [July 30 at 2:36 PM](https://archive.org/download/thesun-2022/thesun-2022-07-30T14:36:33.394874+01:00.hyperlinks.json) |
 | [July 30 at 10:09 AM](https://archive.org/download/thesun-2022/thesun-2022-07-30T10:09:08.930840+01:00.hyperlinks.json) |
 | [July 30 at 2:23 AM](https://archive.org/download/thesun-2022/thesun-2022-07-30T02:23:39.600176+01:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 2:27 AM](https://archive.org/download/thesun-2022/thesun-2022-07-29T02:27:42.763517+01:00.hyperlinks.json) |
 | [July 28 at 2:27 PM](https://archive.org/download/thesun-2022/thesun-2022-07-28T14:27:02.622958+01:00.hyperlinks.json) |
 | [July 28 at 10:11 AM](https://archive.org/download/thesun-2022/thesun-2022-07-28T10:11:13.098423+01:00.hyperlinks.json) |
-| [July 28 at 2:32 AM](https://archive.org/download/thesun-2022/thesun-2022-07-28T02:32:44.400988+01:00.hyperlinks.json) |
-| [July 27 at 2:24 PM](https://archive.org/download/thesun-2022/thesun-2022-07-27T14:24:34.998711+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 311 accessibility trees with the Internet Archive.
+The archiving routine has saved 313 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 10:10 AM](https://archive.org/download/thesun-2022/thesun-2022-07-31T10:10:16.370695+01:00.accessibility.json) |
+| [July 31 at 3:48 AM](https://archive.org/download/thesun-2022/thesun-2022-07-31T03:48:36.752517+01:00.accessibility.json) |
 | [July 30 at 2:36 PM](https://archive.org/download/thesun-2022/thesun-2022-07-30T14:36:33.394874+01:00.accessibility.json) |
 | [July 30 at 10:09 AM](https://archive.org/download/thesun-2022/thesun-2022-07-30T10:09:08.930840+01:00.accessibility.json) |
 | [July 30 at 2:23 AM](https://archive.org/download/thesun-2022/thesun-2022-07-30T02:23:39.600176+01:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 2:27 AM](https://archive.org/download/thesun-2022/thesun-2022-07-29T02:27:42.763517+01:00.accessibility.json) |
 | [July 28 at 2:27 PM](https://archive.org/download/thesun-2022/thesun-2022-07-28T14:27:02.622958+01:00.accessibility.json) |
 | [July 28 at 10:11 AM](https://archive.org/download/thesun-2022/thesun-2022-07-28T10:11:13.098423+01:00.accessibility.json) |
-| [July 28 at 2:32 AM](https://archive.org/download/thesun-2022/thesun-2022-07-28T02:32:44.400988+01:00.accessibility.json) |
-| [July 27 at 2:24 PM](https://archive.org/download/thesun-2022/thesun-2022-07-27T14:24:34.998711+01:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 10:10 AM](https://archive.org/download/thesun-2022/thesun-2022-07-31T10:10:16.370695+01:00.lighthouse.json) |
+| [July 31 at 3:49 AM](https://archive.org/download/thesun-2022/thesun-2022-07-31T03:48:36.752517+01:00.lighthouse.json) |
 | [July 30 at 2:36 PM](https://archive.org/download/thesun-2022/thesun-2022-07-30T14:36:33.394874+01:00.lighthouse.json) |
 | [July 30 at 10:09 AM](https://archive.org/download/thesun-2022/thesun-2022-07-30T10:09:08.930840+01:00.lighthouse.json) |
 | [July 30 at 2:23 AM](https://archive.org/download/thesun-2022/thesun-2022-07-30T02:23:39.600176+01:00.lighthouse.json) |
@@ -450,8 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 2:27 AM](https://archive.org/download/thesun-2022/thesun-2022-07-29T02:27:42.763517+01:00.lighthouse.json) |
 | [July 28 at 2:27 PM](https://archive.org/download/thesun-2022/thesun-2022-07-28T14:27:02.622958+01:00.lighthouse.json) |
 | [July 28 at 10:11 AM](https://archive.org/download/thesun-2022/thesun-2022-07-28T10:11:13.098423+01:00.lighthouse.json) |
-| [July 28 at 2:32 AM](https://archive.org/download/thesun-2022/thesun-2022-07-28T02:32:44.400988+01:00.lighthouse.json) |
-| [July 27 at 2:24 PM](https://archive.org/download/thesun-2022/thesun-2022-07-27T14:24:34.998711+01:00.lighthouse.json) |
 
 
 

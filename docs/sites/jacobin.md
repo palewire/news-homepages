@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 66 screenshots with the Internet Archive.
+The archiving routine has saved 67 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 66 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-30T22:58:00.639112-04:00.jpg">
+  <img src="https://archive.org/download/jacobin-2022/jacobin-2022-07-30T22:58:00.639112-04:00.jpg"
+     alt="Jacobin at 2022-07-30 22:58:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-30T22:58:00.639112-04:00.jpg">July 30 at 10:58 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-30T14:40:12.057475-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-26T22:38:56.981274-04:00.jpg">July 26 at 10:39 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-26T14:36:34.510054-04:00.jpg">
-  <img src="https://archive.org/download/jacobin-2022/jacobin-2022-07-26T14:36:34.510054-04:00.jpg"
-     alt="Jacobin at 2022-07-26 14:36:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-07-26T14:36:34.510054-04:00.jpg">July 26 at 2:36 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 66 hyperlink lists with the Internet Archive.
+The archiving routine has saved 67 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 10:58 PM](https://archive.org/download/jacobin-2022/jacobin-2022-07-30T22:58:00.639112-04:00.hyperlinks.json) |
 | [July 30 at 2:40 PM](https://archive.org/download/jacobin-2022/jacobin-2022-07-30T14:40:12.057475-04:00.hyperlinks.json) |
 | [July 30 at 11:41 AM](https://archive.org/download/jacobin-2022/jacobin-2022-07-30T11:41:26.253791-04:00.hyperlinks.json) |
 | [July 29 at 10:41 PM](https://archive.org/download/jacobin-2022/jacobin-2022-07-29T22:41:30.288600-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 2:45 PM](https://archive.org/download/jacobin-2022/jacobin-2022-07-28T14:45:50.307990-04:00.hyperlinks.json) |
 | [July 28 at 11:42 AM](https://archive.org/download/jacobin-2022/jacobin-2022-07-28T11:42:28.241907-04:00.hyperlinks.json) |
 | [July 27 at 10:39 PM](https://archive.org/download/jacobin-2022/jacobin-2022-07-27T22:39:09.719165-04:00.hyperlinks.json) |
-| [July 27 at 10:31 AM](https://archive.org/download/jacobin-2022/jacobin-2022-07-27T10:31:40.269868-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 66 accessibility trees with the Internet Archive.
+The archiving routine has saved 67 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 10:58 PM](https://archive.org/download/jacobin-2022/jacobin-2022-07-30T22:58:00.639112-04:00.accessibility.json) |
 | [July 30 at 2:40 PM](https://archive.org/download/jacobin-2022/jacobin-2022-07-30T14:40:12.057475-04:00.accessibility.json) |
 | [July 30 at 11:41 AM](https://archive.org/download/jacobin-2022/jacobin-2022-07-30T11:41:26.253791-04:00.accessibility.json) |
 | [July 29 at 10:41 PM](https://archive.org/download/jacobin-2022/jacobin-2022-07-29T22:41:30.288600-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 2:45 PM](https://archive.org/download/jacobin-2022/jacobin-2022-07-28T14:45:50.307990-04:00.accessibility.json) |
 | [July 28 at 11:42 AM](https://archive.org/download/jacobin-2022/jacobin-2022-07-28T11:42:28.241907-04:00.accessibility.json) |
 | [July 27 at 10:39 PM](https://archive.org/download/jacobin-2022/jacobin-2022-07-27T22:39:09.719165-04:00.accessibility.json) |
-| [July 27 at 10:31 AM](https://archive.org/download/jacobin-2022/jacobin-2022-07-27T10:31:40.269868-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 10:58 PM](https://archive.org/download/jacobin-2022/jacobin-2022-07-30T22:58:00.639112-04:00.lighthouse.json) |
 | [July 30 at 2:40 PM](https://archive.org/download/jacobin-2022/jacobin-2022-07-30T14:40:12.057475-04:00.lighthouse.json) |
 | [July 30 at 11:41 AM](https://archive.org/download/jacobin-2022/jacobin-2022-07-30T11:41:26.253791-04:00.lighthouse.json) |
 | [July 29 at 10:41 PM](https://archive.org/download/jacobin-2022/jacobin-2022-07-29T22:41:30.288600-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 2:45 PM](https://archive.org/download/jacobin-2022/jacobin-2022-07-28T14:45:50.307990-04:00.lighthouse.json) |
 | [July 28 at 11:42 AM](https://archive.org/download/jacobin-2022/jacobin-2022-07-28T11:42:28.241907-04:00.lighthouse.json) |
 | [July 27 at 10:39 PM](https://archive.org/download/jacobin-2022/jacobin-2022-07-27T22:39:09.719165-04:00.lighthouse.json) |
-| [July 27 at 10:31 AM](https://archive.org/download/jacobin-2022/jacobin-2022-07-27T10:31:40.269868-04:00.lighthouse.json) |
 
 
 

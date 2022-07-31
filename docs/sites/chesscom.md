@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chesscom-2022/chesscom-2022-07-30T19:45:24.787313-07:00.jpg">
+  <img src="https://archive.org/download/chesscom-2022/chesscom-2022-07-30T19:45:24.787313-07:00.jpg"
+     alt="Chess.com at 2022-07-30 19:45:27-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chesscom-2022/chesscom-2022-07-30T19:45:24.787313-07:00.jpg">July 30 at 7:45 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesscom-2022/chesscom-2022-07-30T06:32:46.775422-07:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chesscom-2022/chesscom-2022-07-25T18:31:26.754479-07:00.jpg">July 25 at 6:31 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chesscom-2022/chesscom-2022-07-25T04:02:26.130940-07:00.jpg">
-  <img src="https://archive.org/download/chesscom-2022/chesscom-2022-07-25T04:02:26.130940-07:00.jpg"
-     alt="Chess.com at 2022-07-25 04:02:27-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chesscom-2022/chesscom-2022-07-25T04:02:26.130940-07:00.jpg">July 25 at 4:02 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 23 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 7:45 PM](https://archive.org/download/chesscom-2022/chesscom-2022-07-30T19:45:24.787313-07:00.hyperlinks.json) |
 | [July 30 at 6:32 AM](https://archive.org/download/chesscom-2022/chesscom-2022-07-30T06:32:46.775422-07:00.hyperlinks.json) |
 | [July 29 at 6:19 PM](https://archive.org/download/chesscom-2022/chesscom-2022-07-29T18:19:45.970137-07:00.hyperlinks.json) |
 | [July 29 at 6:31 AM](https://archive.org/download/chesscom-2022/chesscom-2022-07-29T06:31:38.928524-07:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 27 at 6:19 AM](https://archive.org/download/chesscom-2022/chesscom-2022-07-27T06:19:18.566541-07:00.hyperlinks.json) |
 | [July 26 at 6:25 PM](https://archive.org/download/chesscom-2022/chesscom-2022-07-26T18:25:36.523053-07:00.hyperlinks.json) |
 | [July 26 at 6:27 AM](https://archive.org/download/chesscom-2022/chesscom-2022-07-26T06:27:06.562877-07:00.hyperlinks.json) |
-| [July 25 at 7:58 PM](https://archive.org/download/chesscom-2022/chesscom-2022-07-25T19:58:15.530440-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 23 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 7:45 PM](https://archive.org/download/chesscom-2022/chesscom-2022-07-30T19:45:24.787313-07:00.accessibility.json) |
 | [July 30 at 6:32 AM](https://archive.org/download/chesscom-2022/chesscom-2022-07-30T06:32:46.775422-07:00.accessibility.json) |
 | [July 29 at 6:19 PM](https://archive.org/download/chesscom-2022/chesscom-2022-07-29T18:19:45.970137-07:00.accessibility.json) |
 | [July 29 at 6:31 AM](https://archive.org/download/chesscom-2022/chesscom-2022-07-29T06:31:38.928524-07:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 27 at 6:19 AM](https://archive.org/download/chesscom-2022/chesscom-2022-07-27T06:19:18.566541-07:00.accessibility.json) |
 | [July 26 at 6:25 PM](https://archive.org/download/chesscom-2022/chesscom-2022-07-26T18:25:36.523053-07:00.accessibility.json) |
 | [July 26 at 6:27 AM](https://archive.org/download/chesscom-2022/chesscom-2022-07-26T06:27:06.562877-07:00.accessibility.json) |
-| [July 25 at 7:58 PM](https://archive.org/download/chesscom-2022/chesscom-2022-07-25T19:58:15.530440-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 7:45 PM](https://archive.org/download/chesscom-2022/chesscom-2022-07-30T19:45:24.787313-07:00.lighthouse.json) |
 | [July 30 at 6:32 AM](https://archive.org/download/chesscom-2022/chesscom-2022-07-30T06:32:46.775422-07:00.lighthouse.json) |
 | [July 29 at 6:19 PM](https://archive.org/download/chesscom-2022/chesscom-2022-07-29T18:19:45.970137-07:00.lighthouse.json) |
 | [July 29 at 6:31 AM](https://archive.org/download/chesscom-2022/chesscom-2022-07-29T06:31:38.928524-07:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 6:19 AM](https://archive.org/download/chesscom-2022/chesscom-2022-07-27T06:19:18.566541-07:00.lighthouse.json) |
 | [July 26 at 6:25 PM](https://archive.org/download/chesscom-2022/chesscom-2022-07-26T18:25:36.523053-07:00.lighthouse.json) |
 | [July 26 at 6:27 AM](https://archive.org/download/chesscom-2022/chesscom-2022-07-26T06:27:06.562877-07:00.lighthouse.json) |
-| [July 25 at 7:58 PM](https://archive.org/download/chesscom-2022/chesscom-2022-07-25T19:58:15.530440-07:00.lighthouse.json) |
 
 
 

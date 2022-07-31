@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 23 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wsav-2022/wsav-2022-07-30T22:52:30.624392-04:00.jpg">
+  <img src="https://archive.org/download/wsav-2022/wsav-2022-07-30T22:52:30.624392-04:00.jpg"
+     alt="WSAV News 3 at 2022-07-30 22:52:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wsav-2022/wsav-2022-07-30T22:52:30.624392-04:00.jpg">July 30 at 10:52 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsav-2022/wsav-2022-07-30T09:39:09.979790-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wsav-2022/wsav-2022-07-25T21:39:28.545415-04:00.jpg">July 25 at 9:39 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wsav-2022/wsav-2022-07-25T11:53:51.705974-04:00.jpg">
-  <img src="https://archive.org/download/wsav-2022/wsav-2022-07-25T11:53:51.705974-04:00.jpg"
-     alt="WSAV News 3 at 2022-07-25 11:53:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wsav-2022/wsav-2022-07-25T11:53:51.705974-04:00.jpg">July 25 at 11:53 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 10:52 PM](https://archive.org/download/wsav-2022/wsav-2022-07-30T22:52:30.624392-04:00.hyperlinks.json) |
 | [July 30 at 9:39 AM](https://archive.org/download/wsav-2022/wsav-2022-07-30T09:39:09.979790-04:00.hyperlinks.json) |
 | [July 29 at 9:26 PM](https://archive.org/download/wsav-2022/wsav-2022-07-29T21:26:27.562939-04:00.hyperlinks.json) |
 | [July 29 at 9:38 AM](https://archive.org/download/wsav-2022/wsav-2022-07-29T09:38:03.231666-04:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 27 at 9:27 AM](https://archive.org/download/wsav-2022/wsav-2022-07-27T09:26:58.442282-04:00.hyperlinks.json) |
 | [July 26 at 9:32 PM](https://archive.org/download/wsav-2022/wsav-2022-07-26T21:32:19.501847-04:00.hyperlinks.json) |
 | [July 26 at 9:34 AM](https://archive.org/download/wsav-2022/wsav-2022-07-26T09:34:02.780546-04:00.hyperlinks.json) |
-| [July 25 at 10:56 PM](https://archive.org/download/wsav-2022/wsav-2022-07-25T22:56:42.888306-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -185,7 +185,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 10:52 PM](https://archive.org/download/wsav-2022/wsav-2022-07-30T22:52:30.624392-04:00.lighthouse.json) |
 | [July 30 at 9:39 AM](https://archive.org/download/wsav-2022/wsav-2022-07-30T09:39:09.979790-04:00.lighthouse.json) |
 | [July 29 at 9:26 PM](https://archive.org/download/wsav-2022/wsav-2022-07-29T21:26:27.562939-04:00.lighthouse.json) |
 | [July 29 at 9:38 AM](https://archive.org/download/wsav-2022/wsav-2022-07-29T09:38:03.231666-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 9:27 AM](https://archive.org/download/wsav-2022/wsav-2022-07-27T09:26:58.442282-04:00.lighthouse.json) |
 | [July 26 at 9:32 PM](https://archive.org/download/wsav-2022/wsav-2022-07-26T21:32:19.501847-04:00.lighthouse.json) |
 | [July 26 at 9:34 AM](https://archive.org/download/wsav-2022/wsav-2022-07-26T09:34:02.780546-04:00.lighthouse.json) |
-| [July 25 at 10:56 PM](https://archive.org/download/wsav-2022/wsav-2022-07-25T22:56:42.888306-04:00.lighthouse.json) |
 
 
 

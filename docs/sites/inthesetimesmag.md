@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 57 screenshots with the Internet Archive.
+The archiving routine has saved 58 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 57 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-30T21:58:16.955351-05:00.jpg">
+  <img src="https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-30T21:58:16.955351-05:00.jpg"
+     alt="In These Times  at 2022-07-30 21:58:17-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-30T21:58:16.955351-05:00.jpg">July 30 at 9:58 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-30T13:39:30.992476-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-26T21:38:45.640420-05:00.jpg">July 26 at 9:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-26T13:36:24.438183-05:00.jpg">
-  <img src="https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-26T13:36:24.438183-05:00.jpg"
-     alt="In These Times  at 2022-07-26 13:36:25-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-26T13:36:24.438183-05:00.jpg">July 26 at 1:36 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 57 hyperlink lists with the Internet Archive.
+The archiving routine has saved 58 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 9:58 PM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-30T21:58:16.955351-05:00.hyperlinks.json) |
 | [July 30 at 1:39 PM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-30T13:39:30.992476-05:00.hyperlinks.json) |
 | [July 30 at 10:41 AM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-30T10:41:20.639904-05:00.hyperlinks.json) |
 | [July 29 at 9:41 PM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-29T21:41:27.385010-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 1:44 PM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-28T13:44:43.608887-05:00.hyperlinks.json) |
 | [July 28 at 10:42 AM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-28T10:42:09.483050-05:00.hyperlinks.json) |
 | [July 27 at 9:39 PM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-27T21:39:30.018652-05:00.hyperlinks.json) |
-| [July 27 at 9:31 AM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-27T09:31:27.576229-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 57 accessibility trees with the Internet Archive.
+The archiving routine has saved 58 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 9:58 PM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-30T21:58:16.955351-05:00.accessibility.json) |
 | [July 30 at 1:39 PM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-30T13:39:30.992476-05:00.accessibility.json) |
 | [July 30 at 10:41 AM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-30T10:41:20.639904-05:00.accessibility.json) |
 | [July 29 at 9:41 PM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-29T21:41:27.385010-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 1:44 PM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-28T13:44:43.608887-05:00.accessibility.json) |
 | [July 28 at 10:42 AM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-28T10:42:09.483050-05:00.accessibility.json) |
 | [July 27 at 9:39 PM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-27T21:39:30.018652-05:00.accessibility.json) |
-| [July 27 at 9:31 AM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-27T09:31:27.576229-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 9:58 PM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-30T21:58:16.955351-05:00.lighthouse.json) |
 | [July 30 at 1:39 PM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-30T13:39:30.992476-05:00.lighthouse.json) |
 | [July 30 at 10:41 AM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-30T10:41:20.639904-05:00.lighthouse.json) |
 | [July 29 at 9:41 PM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-29T21:41:27.385010-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 1:44 PM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-28T13:44:43.608887-05:00.lighthouse.json) |
 | [July 28 at 10:42 AM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-28T10:42:09.483050-05:00.lighthouse.json) |
 | [July 27 at 9:39 PM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-27T21:39:30.018652-05:00.lighthouse.json) |
-| [July 27 at 9:31 AM](https://archive.org/download/inthesetimesmag-2022/inthesetimesmag-2022-07-27T09:31:27.576229-05:00.lighthouse.json) |
 
 
 

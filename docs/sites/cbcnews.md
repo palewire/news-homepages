@@ -223,7 +223,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 70 hyperlink lists with the Internet Archive.
+The archiving routine has saved 71 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 30 at 10:44 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-30T22:44:10.076404-04:00.hyperlinks.json) |
 | [July 30 at 9:33 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-30T09:33:02.030816-04:00.hyperlinks.json) |
 | [July 29 at 9:19 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-29T21:19:27.928685-04:00.hyperlinks.json) |
 | [July 29 at 9:31 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-29T09:31:22.328036-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 27 at 9:19 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-27T09:19:05.087203-04:00.hyperlinks.json) |
 | [July 26 at 9:25 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-26T21:25:40.848239-04:00.hyperlinks.json) |
 | [July 26 at 9:26 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-26T09:26:44.050669-04:00.hyperlinks.json) |
-| [July 25 at 10:58 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-25T22:58:03.775854-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 75 accessibility trees with the Internet Archive.
+The archiving routine has saved 76 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 30 at 10:44 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-30T22:44:10.076404-04:00.accessibility.json) |
 | [July 30 at 9:33 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-30T09:33:02.030816-04:00.accessibility.json) |
 | [July 29 at 9:19 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-29T21:19:27.928685-04:00.accessibility.json) |
 | [July 29 at 9:31 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-29T09:31:22.328036-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 27 at 9:19 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-27T09:19:05.087203-04:00.accessibility.json) |
 | [July 26 at 9:25 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-26T21:25:40.848239-04:00.accessibility.json) |
 | [July 26 at 9:26 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-26T09:26:44.050669-04:00.accessibility.json) |
-| [July 25 at 10:58 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-25T22:58:03.775854-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 30 at 10:44 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-30T22:44:10.076404-04:00.lighthouse.json) |
 | [July 30 at 9:33 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-30T09:33:02.030816-04:00.lighthouse.json) |
 | [July 29 at 9:19 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-29T21:19:27.928685-04:00.lighthouse.json) |
 | [July 29 at 9:31 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-29T09:31:22.328036-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 9:19 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-27T09:19:05.087203-04:00.lighthouse.json) |
 | [July 26 at 9:25 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-26T21:25:40.848239-04:00.lighthouse.json) |
 | [July 26 at 9:26 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-26T09:26:44.050669-04:00.lighthouse.json) |
-| [July 25 at 10:58 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-07-25T22:58:03.775854-04:00.lighthouse.json) |
 
 
 
