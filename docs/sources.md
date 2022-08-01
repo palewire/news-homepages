@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 698 sites.
+The archiving routine is currently capturing 699 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -690,6 +690,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[WKYT](https://palewi.re/docs/news-homepages/sites/wkyt.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wkyt.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wkyt.xml)|
 |[WND News](https://palewi.re/docs/news-homepages/sites/worldnetdaily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/worldnetdaily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/worldnetdaily.xml)|
 |[WNYC](https://palewi.re/docs/news-homepages/sites/wnyc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wnyc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wnyc.xml)|
+|[WNYT NewsChannel 13](https://palewi.re/docs/news-homepages/sites/wnyt.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wnyt.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wnyt.xml)|
 |[WPLG Local 10 News](https://palewi.re/docs/news-homepages/sites/wplglocal10.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wplglocal10.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wplglocal10.xml)|
 |[WRAL](https://palewi.re/docs/news-homepages/sites/wral.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wral.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wral.xml)|
 |[Wrap](https://palewi.re/docs/news-homepages/sites/thewrap.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thewrap.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thewrap.xml)|
