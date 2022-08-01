@@ -1,5 +1,5 @@
 {
-  "created": 1659265895,
+  "created": 1659313025,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/3/items/daily_record-2022",
@@ -2423,31 +2423,94 @@
       "format": "JSON"
     },
     {
+      "name": "daily_record-2022-07-31T12:10:46.254268+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "daily_record-2022-07-31T12:10:46.254268+01:00.jpg",
+      "mtime": "1659276013",
+      "size": "7825",
+      "md5": "d3978e052c9f364cc22014ab6c8faa50",
+      "crc32": "1aec7256",
+      "sha1": "db544cf616699929285184d6314fcd4af821e93d"
+    },
+    {
+      "name": "daily_record-2022-08-01T01:11:30.037429+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659312694",
+      "size": "89031",
+      "md5": "64c6105b8b4370e56b6dc4e20ebc3c3f",
+      "crc32": "331be467",
+      "sha1": "b4e369d263a1f91488325f0522e1b43232c8e3aa",
+      "format": "JSON"
+    },
+    {
+      "name": "daily_record-2022-08-01T01:11:30.037429+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659312696",
+      "size": "154818",
+      "md5": "8dd573775810520314884b46b550b82c",
+      "crc32": "6d6f3989",
+      "sha1": "8ba19a2ae090bd06948470bd2d15b4fc3bf064f2",
+      "format": "JSON"
+    },
+    {
+      "name": "daily_record-2022-08-01T01:11:30.037429+01:00.jpg",
+      "source": "original",
+      "mtime": "1659312693",
+      "size": "180703",
+      "md5": "c9f676414d5e4236f850cc4d44d88683",
+      "crc32": "210bd26c",
+      "sha1": "afcb1246584df19f135422b7486a665eba246d8a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "daily_record-2022-08-01T01:11:30.037429+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659312697",
+      "size": "1522",
+      "md5": "b59775f3faa68138fe4d6bc5f38149e4",
+      "crc32": "4b2d40fe",
+      "sha1": "026d06f874222a7fddf8fc9b9ffbed0d7914be08",
+      "format": "JSON"
+    },
+    {
+      "name": "daily_record-2022-08-01T01:11:30.037429+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "daily_record-2022-08-01T01:11:30.037429+01:00.jpg",
+      "mtime": "1659312980",
+      "size": "7887",
+      "md5": "5395c82c57c38645a4dd78587db1984d",
+      "crc32": "b1cb1d46",
+      "sha1": "c21f5490b4ae4c34af462848495d46029c6fe320"
+    },
+    {
       "name": "daily_record-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5261dc286f8ebc969750103dc51c0f9d6801f26a",
-      "mtime": "1659265892",
-      "size": "51318",
-      "md5": "817a225a6c99082ec125c28a6c6437c9",
-      "crc32": "9f80e60f",
-      "sha1": "064a53e483eb49db246815e3bdd4867ae27acef7",
+      "btih": "26604d347b1e772d3b8916516890d99550d56a4e",
+      "mtime": "1659312989",
+      "size": "52607",
+      "md5": "f3ffbf4c717f5a1d71f501a88a1790fb",
+      "crc32": "f0155331",
+      "sha1": "ae29a9108ef0432e85f34361be0bc7ccba1a0a8a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "daily_record-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d03f93d5c3dac6115442cbba3e36eb0d",
+      "md5": "717df4666d575ab490940db6b9a02c5c",
       "summation": "md5"
     },
     {
       "name": "daily_record-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659265857",
-      "size": "290816",
-      "md5": "6dc9d6ff15dde31a101a8ce360a928e0",
-      "crc32": "a02e5353",
-      "sha1": "8993dc0f179cdb73b5c4e41f2a210c4d319c8f69",
+      "mtime": "1659312701",
+      "size": "299008",
+      "md5": "f7563c13ea49f5e71f2ab33406988e8b",
+      "crc32": "3938c2ab",
+      "sha1": "66b7b447d9a5df936bd1bcf93abb3858482f3a6a",
       "format": "Metadata"
     },
     {
@@ -2461,9 +2524,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 235,
-  "item_last_updated": 1659265892,
-  "item_size": 25453239,
+  "files_count": 241,
+  "item_last_updated": 1659312989,
+  "item_size": 25904506,
   "metadata": {
     "identifier": "daily_record-2022",
     "collection": [
@@ -2480,21 +2543,10 @@
     "publicdate": "2022-07-06 21:13:20",
     "addeddate": "2022-07-06 21:13:20"
   },
-  "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348712245,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1763695856,
+  "server": "ia801506.us.archive.org",
+  "uniq": 573207430,
   "workable_servers": [
+    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659263952,
+  "created": 1659288991,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/15/items/vancouversun-2022",
@@ -3516,31 +3516,83 @@
       "sha1": "910f325699cd33384730725c9b43b111c9d81067"
     },
     {
+      "name": "vancouversun-2022-07-31T08:58:49.404598-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659283134",
+      "size": "73883",
+      "md5": "76f3670ba116646c62b3a54ebf9be5de",
+      "crc32": "2fbdb7da",
+      "sha1": "26d1e188873dc341e9f4502bbb2c9b00afb296f0",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-07-31T08:58:49.404598-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659283135",
+      "size": "60906",
+      "md5": "ff8ebd68b23a070f6fe6f859bd8e28af",
+      "crc32": "ee8e2fa4",
+      "sha1": "6c1f3b438203d4916b9ae2cca420803b7d3496a8",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-07-31T08:58:49.404598-07:00.jpg",
+      "source": "original",
+      "mtime": "1659283133",
+      "size": "316235",
+      "md5": "fa239a21556612884b20d13dd591a8d4",
+      "crc32": "6bf03d57",
+      "sha1": "ec34e84852e7ee4da46e3d3cc9a6b0bd0330d22e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vancouversun-2022-07-31T08:58:49.404598-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659283137",
+      "size": "1477",
+      "md5": "7570b37537e93fd35fc18962f740a2b8",
+      "crc32": "ccc44685",
+      "sha1": "57ae1a5f67589e08617d739faaa23e406e5f7d47",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-07-31T08:58:49.404598-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vancouversun-2022-07-31T08:58:49.404598-07:00.jpg",
+      "mtime": "1659288893",
+      "size": "10052",
+      "md5": "e33adba46240cdbb378c6f7d38cb47d4",
+      "crc32": "f0696f02",
+      "sha1": "52df4df92420146b4c5df234640372c999ed64fa"
+    },
+    {
       "name": "vancouversun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "329ed58fb13455883fd76cfbed6d737f3aafb1a3",
-      "mtime": "1659263933",
-      "size": "73712",
-      "md5": "ace9e3163e4dab92df55aedde04911f9",
-      "crc32": "122e396a",
-      "sha1": "65f0bb4f98e6b8a6e48f0c5d380a3124670c64c2",
+      "btih": "d2cd10edcdc8c0597a8d86063c145d0ed9d08296",
+      "mtime": "1659288898",
+      "size": "74792",
+      "md5": "3a76d96c1299c834bfe55fff47746111",
+      "crc32": "8468a380",
+      "sha1": "cdd5bff513db0176d97d6a6ac54934c0a5d1c8b4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vancouversun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1c2ce09a3a541805aca7467a05a63f2d",
+      "md5": "cc0758916792105b8b4f13eab3d88d4c",
       "summation": "md5"
     },
     {
       "name": "vancouversun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659240700",
-      "size": "413696",
-      "md5": "d697cfa7d2be742569ea3ac7be856070",
-      "crc32": "15a28048",
-      "sha1": "44e4dbf358cd5c96b3333bdfb64a7e8c851541e7",
+      "mtime": "1659283140",
+      "size": "417792",
+      "md5": "8c088d3d08586ab4260c6f7b939f9a1e",
+      "crc32": "64c2cce0",
+      "sha1": "7c9ac44a32acaf13822e223959d1a3b70d2ad38e",
       "format": "Metadata"
     },
     {
@@ -3554,9 +3606,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 339,
-  "item_last_updated": 1659263933,
-  "item_size": 36992258,
+  "files_count": 344,
+  "item_last_updated": 1659288898,
+  "item_size": 37459987,
   "metadata": {
     "identifier": "vancouversun-2022",
     "collection": [
@@ -3573,10 +3625,10 @@
     "publicdate": "2022-06-30 22:36:07",
     "addeddate": "2022-06-30 22:36:07"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 740362679,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1734363512,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659265662,
+  "created": 1659313209,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/25/items/baltimoremag-2022",
@@ -1803,31 +1803,94 @@
       "format": "JSON"
     },
     {
+      "name": "baltimoremag-2022-07-31T07:06:43.833237-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimoremag-2022-07-31T07:06:43.833237-04:00.jpg",
+      "mtime": "1659275800",
+      "size": "9206",
+      "md5": "f543e4fa6874cdd0635d77c605128ff1",
+      "crc32": "b3af1c63",
+      "sha1": "2b97f585a03e5df870659a174a00cd34e98108ce"
+    },
+    {
+      "name": "baltimoremag-2022-07-31T20:08:19.998747-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659312503",
+      "size": "46171",
+      "md5": "419f7e547a7615b7dfc6aa29765f8b70",
+      "crc32": "b9a8171a",
+      "sha1": "71d5d2d6508583adc498fe179ae8f69972cf56c5",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoremag-2022-07-31T20:08:19.998747-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659312505",
+      "size": "52448",
+      "md5": "c9337ad325818b594a8c74288e59d608",
+      "crc32": "2e5f553d",
+      "sha1": "d9277491edbc290bec2859171bbde8953dba1802",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoremag-2022-07-31T20:08:19.998747-04:00.jpg",
+      "source": "original",
+      "mtime": "1659312501",
+      "size": "295740",
+      "md5": "8aa3f2531b292e52aa41aabd035a8c32",
+      "crc32": "2076bd61",
+      "sha1": "b469e79f2300ceaf1f9efd1396bee1ab4be2ad69",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimoremag-2022-07-31T20:08:19.998747-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659312507",
+      "size": "1555",
+      "md5": "ffcf13b696a347634099aaa346f850a7",
+      "crc32": "77700146",
+      "sha1": "07766fbedf7b6077779575a355b66cd3f5f962ce",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoremag-2022-07-31T20:08:19.998747-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimoremag-2022-07-31T20:08:19.998747-04:00.jpg",
+      "mtime": "1659313121",
+      "size": "9939",
+      "md5": "40e9765d8f5775566b1469fdf27caff4",
+      "crc32": "6a7b72c2",
+      "sha1": "f664d63db048f241f2ac15df0eb1cd6e3a5ec447"
+    },
+    {
       "name": "baltimoremag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b3b12f1e7b7f73eec680939889374f6fd6840d2",
-      "mtime": "1659265659",
-      "size": "38397",
-      "md5": "d71621fa5985e998b1d117d284c636cb",
-      "crc32": "df183250",
-      "sha1": "156024b8b072c744850f81989bb7fb1e5e01c3c0",
+      "btih": "1fc69aae0513c472905c5340f8187bd215a6f65c",
+      "mtime": "1659313130",
+      "size": "39684",
+      "md5": "c343c81db8f53d47527173359f049e84",
+      "crc32": "970ba141",
+      "sha1": "0da079c98913df1c702e1f8ac0e648172266b60a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimoremag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "23113e637db071b5639b715fe64df881",
+      "md5": "9beadd1ab6d8fffd6e2cbe059be9c05c",
       "summation": "md5"
     },
     {
       "name": "baltimoremag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659265620",
-      "size": "229376",
-      "md5": "57e08a4401568eb51cf25f6e980ba529",
-      "crc32": "cbb44a8d",
-      "sha1": "510d4db3ac112f72391fe57e71537e57905272f6",
+      "mtime": "1659312540",
+      "size": "233472",
+      "md5": "a98c811400661a2daec2a1de587049d3",
+      "crc32": "e9193be9",
+      "sha1": "fafef07a1b5ee3884a700cb8b655fd5fe9affce7",
       "format": "Metadata"
     },
     {
@@ -1841,9 +1904,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 176,
-  "item_last_updated": 1659265659,
-  "item_size": 14927599,
+  "files_count": 182,
+  "item_last_updated": 1659313130,
+  "item_size": 15348041,
   "metadata": {
     "identifier": "baltimoremag-2022",
     "collection": [
@@ -1860,21 +1923,10 @@
     "publicdate": "2022-07-13 02:24:46",
     "addeddate": "2022-07-13 02:24:46"
   },
-  "pending_tasks": true,
   "server": "ia902503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348710177,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 573481804,
+  "uniq": 1369931219,
   "workable_servers": [
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

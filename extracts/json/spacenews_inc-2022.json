@@ -1,5 +1,5 @@
 {
-  "created": 1659260470,
+  "created": 1659302435,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/31/items/spacenews_inc-2022",
@@ -536,31 +536,83 @@
       "sha1": "db4ad727507bde17c68bcb213fd018aa66d91428"
     },
     {
+      "name": "spacenews_inc-2022-07-31T09:30:58.502194-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659274262",
+      "size": "15086",
+      "md5": "3aceb6b642233b1157a8efd00e9014a2",
+      "crc32": "be84eb95",
+      "sha1": "2ef3789a08ca471b19a2c3281bb28cd874d188cf",
+      "format": "JSON"
+    },
+    {
+      "name": "spacenews_inc-2022-07-31T09:30:58.502194-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659274263",
+      "size": "16117",
+      "md5": "53002422b7bc4eea16c326e377d50d10",
+      "crc32": "b1268eea",
+      "sha1": "9be68b1685f1006d064a388d19a3f038d9a1238a",
+      "format": "JSON"
+    },
+    {
+      "name": "spacenews_inc-2022-07-31T09:30:58.502194-04:00.jpg",
+      "source": "original",
+      "mtime": "1659274260",
+      "size": "252474",
+      "md5": "b97d9888f504a2a50d5810731171d535",
+      "crc32": "81474256",
+      "sha1": "e47d536a3ec0c2a1b5facd3f0bd6b3adaf254e99",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spacenews_inc-2022-07-31T09:30:58.502194-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659274266",
+      "size": "1450",
+      "md5": "4e0f63d485dc40637070c1f4425a8572",
+      "crc32": "78b413b3",
+      "sha1": "4093f8b9b62fd4a94c0fabe1a3767e12ca726434",
+      "format": "JSON"
+    },
+    {
+      "name": "spacenews_inc-2022-07-31T09:30:58.502194-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spacenews_inc-2022-07-31T09:30:58.502194-04:00.jpg",
+      "mtime": "1659280027",
+      "size": "9939",
+      "md5": "28d8b5f646d8baf91f20fe50273f577a",
+      "crc32": "5d86e5af",
+      "sha1": "db4ad727507bde17c68bcb213fd018aa66d91428"
+    },
+    {
       "name": "spacenews_inc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "663bc8dd77292447ee681d141c1aa3160d902d1b",
-      "mtime": "1659260462",
-      "size": "12439",
-      "md5": "8170ac347ebf4ac279f8d8805da44b9b",
-      "crc32": "76524c56",
-      "sha1": "64bd95579b8b3959a17a9645df35c57d38f05ab2",
+      "btih": "1e8e9ca062d34670d9622fdd16aef9d108eb2d28",
+      "mtime": "1659280075",
+      "size": "13523",
+      "md5": "8b5a56821fdcf28895314352b7fbf3c5",
+      "crc32": "e6ad39b0",
+      "sha1": "29e8c73fa855d898a7154354cd96fe630acea6a0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spacenews_inc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b170439cd8cc1af4d224d2cdaa4dc4bd",
+      "md5": "0778133b0e1b10a2be0a54f83e5b7209",
       "summation": "md5"
     },
     {
       "name": "spacenews_inc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659235447",
-      "size": "77824",
-      "md5": "514f0e669fcc44c332d69bbf76a71738",
-      "crc32": "07d79bd9",
-      "sha1": "c0564faa5a70a80f5253425d8be2dededb0eaf84",
+      "mtime": "1659274268",
+      "size": "81920",
+      "md5": "dc6014b432c12b66e422caa5cd293d03",
+      "crc32": "169643c8",
+      "sha1": "76af226b7d7c152e405dbe304b11ca9ef18cf83c",
       "format": "Metadata"
     },
     {
@@ -574,9 +626,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 55,
-  "item_last_updated": 1659260462,
-  "item_size": 3418403,
+  "files_count": 60,
+  "item_last_updated": 1659280075,
+  "item_size": 3718649,
   "metadata": {
     "identifier": "spacenews_inc-2022",
     "collection": [
@@ -593,10 +645,10 @@
     "publicdate": "2022-07-26 13:28:35",
     "addeddate": "2022-07-26 13:28:35"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1868236564,
+  "server": "ia601406.us.archive.org",
+  "uniq": 1481418438,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

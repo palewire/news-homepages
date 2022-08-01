@@ -1,5 +1,5 @@
 {
-  "created": 1659261115,
+  "created": 1659313868,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/25/items/lp_lapresse-2022",
@@ -3516,31 +3516,83 @@
       "sha1": "ace8da0ff043c14d9ca37d10baf8d6b3aee2f32a"
     },
     {
+      "name": "lp_lapresse-2022-07-31T10:40:47.885424-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659278451",
+      "size": "87137",
+      "md5": "8a58f407a85d1bf2587d9b1dba33d5b5",
+      "crc32": "60cee21c",
+      "sha1": "3fb39e076373a495e83fbd0390b42103954702b2",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-07-31T10:40:47.885424-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659278452",
+      "size": "147995",
+      "md5": "66b4c0246515125fb94e9c72230c6f21",
+      "crc32": "07345ff1",
+      "sha1": "ebbced858943df176da70a5c6268d26a0631738e",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-07-31T10:40:47.885424-04:00.jpg",
+      "source": "original",
+      "mtime": "1659278449",
+      "size": "241586",
+      "md5": "e85aa8380f82ee0a2e14ca3c1d3d0826",
+      "crc32": "51b33949",
+      "sha1": "bd23cb3d6c635e360fb51437ba254299474447f3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lp_lapresse-2022-07-31T10:40:47.885424-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659278453",
+      "size": "1468",
+      "md5": "5164261513803ff6be8b9f7da83e2d43",
+      "crc32": "2a0280c4",
+      "sha1": "3c963b0766c31ba6274c7c94648d913a591121f4",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-07-31T10:40:47.885424-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lp_lapresse-2022-07-31T10:40:47.885424-04:00.jpg",
+      "mtime": "1659282357",
+      "size": "9712",
+      "md5": "da6f1ed474f11491f172328273334fc5",
+      "crc32": "6221f71d",
+      "sha1": "c5506c1caad2b14147d70267f8973b1adba662fc"
+    },
+    {
       "name": "lp_lapresse-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4eec92afc4d6d86eb8cb674f762f48a9f2a2caa7",
-      "mtime": "1659261092",
-      "size": "73641",
-      "md5": "9a5b299aee1c0b3aef8928cfefc2147d",
-      "crc32": "236068c6",
-      "sha1": "9c3adefc43daa2d904669e9d314853beac0b7e4a",
+      "btih": "478ea677dc7ab4ae4b960c9cf453b6261fae66c8",
+      "mtime": "1659282397",
+      "size": "74716",
+      "md5": "de0793a6a09d07eceae9e01d6ee258ea",
+      "crc32": "22b410e8",
+      "sha1": "c213409487c8b1c7a471f960f831dc20f42ae095",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lp_lapresse-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "76d3af26075991074f424eb48d0eee94",
+      "md5": "71c0827ebf9d1d25ce19989c98b3d718",
       "summation": "md5"
     },
     {
       "name": "lp_lapresse-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659236426",
-      "size": "409600",
-      "md5": "0bf5760b25690ce5707a89552a9586ec",
-      "crc32": "ee04ce2b",
-      "sha1": "774e8efd2b8abe1750e27523fa90ba8a0d00153b",
+      "mtime": "1659278457",
+      "size": "417792",
+      "md5": "1b77dc6baf8575e5862806efcf5ddecd",
+      "crc32": "0c072fb2",
+      "sha1": "6fe52fb241edd46f8f133b48e197f5d10c4001c2",
       "format": "Metadata"
     },
     {
@@ -3554,9 +3606,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 339,
-  "item_last_updated": 1659261092,
-  "item_size": 42076532,
+  "files_count": 344,
+  "item_last_updated": 1659282397,
+  "item_size": 42573697,
+  "lp_lapresse-2022": [
+    {
+      "url": "https://www.lapresse.ca/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lapresse_ca-_-2022_07_31_14_21_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lapresse_ca-_-2022_07_31_14_21_05.report.json",
+      "summary": {
+        "performance": 0.22,
+        "accessibility": 0.73,
+        "best-practices": 0.75,
+        "seo": 0.98,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.lapresse.ca/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lapresse_ca-_-2022_07_31_14_21_45.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lapresse_ca-_-2022_07_31_14_21_45.report.json",
+      "summary": {
+        "performance": 0.36,
+        "accessibility": 0.73,
+        "best-practices": 0.75,
+        "seo": 0.98,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.lapresse.ca/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lapresse_ca-_-2022_07_31_14_21_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lapresse_ca-_-2022_07_31_14_21_26.report.json",
+      "summary": {
+        "performance": 0.29,
+        "accessibility": 0.73,
+        "best-practices": 0.75,
+        "seo": 0.98,
+        "pwa": 0.6
+      }
+    }
+  ],
   "metadata": {
     "identifier": "lp_lapresse-2022",
     "collection": [
@@ -3574,7 +3667,7 @@
     "addeddate": "2022-06-30 22:35:44"
   },
   "server": "ia802500.us.archive.org",
-  "uniq": 1362986640,
+  "uniq": 966798229,
   "workable_servers": [
     "ia802500.us.archive.org",
     "ia902500.us.archive.org"

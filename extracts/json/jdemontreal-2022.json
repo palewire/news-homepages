@@ -1,5 +1,5 @@
 {
-  "created": 1659260991,
+  "created": 1659313779,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/22/items/jdemontreal-2022",
@@ -3516,31 +3516,61 @@
       "sha1": "4e4b37f6d08e8412780bbc109610cdac1b759f04"
     },
     {
+      "name": "jdemontreal-2022-07-31T10:38:58.846959-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659278340",
+      "size": "25063",
+      "md5": "dc92a6671258de37154b1699b430e462",
+      "crc32": "ebe074ef",
+      "sha1": "999ddfe65cdb406d472ab62e92ca54140e52b083",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-07-31T10:38:58.846959-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659278341",
+      "size": "40594",
+      "md5": "9efc6c1eb7208350c2c6f79d6688578a",
+      "crc32": "f3d333d9",
+      "sha1": "06f278dd072290b74d6a4613e14888ef6c960b1f",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-07-31T10:38:58.846959-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659278342",
+      "size": "1558",
+      "md5": "942f5bda4ddd975d6a7228ab4e4d8d19",
+      "crc32": "b34e7024",
+      "sha1": "b45ea643c2a206d5efdcab11c841858cc0888051",
+      "format": "JSON"
+    },
+    {
       "name": "jdemontreal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1d769ed3bf3e505096ff9e5bd7db4db64a99a244",
-      "mtime": "1659260958",
-      "size": "73014",
-      "md5": "e186b007609742010f23b745aaf81448",
-      "crc32": "1933e9f7",
-      "sha1": "0ad446d0caedd795d038c2075e3b2e3c6139a05b",
+      "btih": "8867228cd67aa421b1bd4796dd1af4cd67aaaadd",
+      "mtime": "1659278381",
+      "size": "73658",
+      "md5": "85a7ac8f6197669428c4492d8279f78e",
+      "crc32": "3a192881",
+      "sha1": "c92fbc183e1fe40fef68aae1382869a00c48ea58",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jdemontreal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0371f1149a725bd6ee2b02a50d378b25",
+      "md5": "e6485ba9037bb0015b5b56c0526f752e",
       "summation": "md5"
     },
     {
       "name": "jdemontreal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659236284",
-      "size": "409600",
-      "md5": "9d2ad6576361870d6976b715babb56d5",
-      "crc32": "da986a6e",
-      "sha1": "7e65709a15352d8f24720daaabd9254d87f6cd41",
+      "mtime": "1659278345",
+      "size": "417792",
+      "md5": "ee038be1ebb69ad162a74c32835f9880",
+      "crc32": "955999f9",
+      "sha1": "b7c07934721ffa546e9a2ee7e231a3f42666c30a",
       "format": "Metadata"
     },
     {
@@ -3554,9 +3584,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 339,
-  "item_last_updated": 1659260958,
-  "item_size": 27468231,
+  "files_count": 342,
+  "item_last_updated": 1659278381,
+  "item_size": 27544282,
+  "jdemontreal-2022": [
+    {
+      "url": "https://www.journaldemontreal.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_journaldemontreal_com-_-2022_07_31_14_17_33.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_journaldemontreal_com-_-2022_07_31_14_17_33.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.46,
+        "best-practices": 0.67,
+        "seo": 0.83,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.journaldemontreal.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_journaldemontreal_com-_-2022_07_31_14_17_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_journaldemontreal_com-_-2022_07_31_14_17_59.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.46,
+        "best-practices": 0.67,
+        "seo": 0.83,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.journaldemontreal.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_journaldemontreal_com-_-2022_07_31_14_17_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_journaldemontreal_com-_-2022_07_31_14_17_09.report.json",
+      "summary": {
+        "performance": 0.14,
+        "accessibility": 0.46,
+        "best-practices": 0.67,
+        "seo": 0.83,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "jdemontreal-2022",
     "collection": [
@@ -3574,7 +3645,7 @@
     "addeddate": "2022-06-30 22:35:37"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 810127838,
+  "uniq": 1319769294,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

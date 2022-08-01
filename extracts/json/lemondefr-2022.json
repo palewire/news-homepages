@@ -1,5 +1,5 @@
 {
-  "created": 1659255434,
+  "created": 1659313859,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/lemondefr-2022",
@@ -9621,31 +9621,94 @@
       "format": "JSON"
     },
     {
+      "name": "lemondefr-2022-07-31T10:12:05.780638+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lemondefr-2022-07-31T10:12:05.780638+02:00.jpg",
+      "mtime": "1659270682",
+      "size": "9039",
+      "md5": "c0f9f2a1f65b636419f2c71beacf8f74",
+      "crc32": "e34f8481",
+      "sha1": "55507f4222b44f008a461f47d86e57ea9de80c23"
+    },
+    {
+      "name": "lemondefr-2022-07-31T16:40:06.123121+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659278409",
+      "size": "30722",
+      "md5": "9506955914ed5d00347a7ed912cb8f0a",
+      "crc32": "b5fb3283",
+      "sha1": "4b133d304819be68987a7d600453544b0f85eebf",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-07-31T16:40:06.123121+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659278411",
+      "size": "45800",
+      "md5": "03f39517bbe38cdf19d8b3667f1bee5a",
+      "crc32": "ab5ecdc0",
+      "sha1": "f99c78bc69772ae6148ee42c0a6611b9382fac8d",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-07-31T16:40:06.123121+02:00.jpg",
+      "source": "original",
+      "mtime": "1659278408",
+      "size": "281684",
+      "md5": "14cb9a5fb03024c4feb4b8d9ee795b98",
+      "crc32": "9dc4844c",
+      "sha1": "a3ce12eea223d9a32ae747648a1f470e8c8aa856",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lemondefr-2022-07-31T16:40:06.123121+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659278413",
+      "size": "1450",
+      "md5": "76dbe68aad13db40d569fc54cef40a64",
+      "crc32": "7833871b",
+      "sha1": "58798780ff9e4e8f3b4db1dc159edfe434c817c5",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-07-31T16:40:06.123121+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lemondefr-2022-07-31T16:40:06.123121+02:00.jpg",
+      "mtime": "1659282386",
+      "size": "8875",
+      "md5": "911df0803be0867a85c0e92120e8f5d1",
+      "crc32": "d7cc1998",
+      "sha1": "67de2b722b08c0f611fb79e0caaa380509f9fbc2"
+    },
+    {
       "name": "lemondefr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b65f0385427b1dadce8d5b417fc55f86eb0b0833",
-      "mtime": "1659255424",
-      "size": "195571",
-      "md5": "88ac4ce79080bbcc4191d43b8bd42087",
-      "crc32": "d7598c50",
-      "sha1": "cfc26609106a791f4880f7c0483cd0547162c8ad",
+      "btih": "2aba7b733bf2d4c6877147fc344257b8acc7179f",
+      "mtime": "1659282421",
+      "size": "196840",
+      "md5": "c83541e3a111c946f34c4576b2904815",
+      "crc32": "7dfea8ab",
+      "sha1": "e5c65f0be31f48f2d283dc2e4f639735e88d2206",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lemondefr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "579e26d926d6deab50322f85ff2eb6e3",
+      "md5": "a5c3edf5dc89bd92078c132c75f69a3b",
       "summation": "md5"
     },
     {
       "name": "lemondefr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659255412",
-      "size": "1077248",
-      "md5": "c46d1159ac864f7ca7469436570eaca7",
-      "crc32": "96afbf57",
-      "sha1": "7bd055c519508da1830a170c227597f4afee2dbb",
+      "mtime": "1659278423",
+      "size": "1081344",
+      "md5": "bdeb35cefcace27b1b4ec008d437846b",
+      "crc32": "0bc6d89d",
+      "sha1": "cd7742c0d77052df1b7b4aebb1b66e16cc37a693",
       "format": "Metadata"
     },
     {
@@ -9659,9 +9722,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 921,
-  "item_last_updated": 1659255424,
-  "item_size": 81777484,
+  "files_count": 927,
+  "item_last_updated": 1659282421,
+  "item_size": 82160419,
+  "lemondefr-2022": [
+    {
+      "url": "https://www.lemonde.fr/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lemonde_fr-_-2022_07_31_14_19_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lemonde_fr-_-2022_07_31_14_19_56.report.json",
+      "summary": {
+        "performance": 0.77,
+        "accessibility": 0.94,
+        "best-practices": 1,
+        "seo": 0.99,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://www.lemonde.fr/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lemonde_fr-_-2022_07_31_14_20_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lemonde_fr-_-2022_07_31_14_20_13.report.json",
+      "summary": {
+        "performance": 0.77,
+        "accessibility": 0.94,
+        "best-practices": 1,
+        "seo": 0.98,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://www.lemonde.fr/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lemonde_fr-_-2022_07_31_14_20_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lemonde_fr-_-2022_07_31_14_20_27.report.json",
+      "summary": {
+        "performance": 0.78,
+        "accessibility": 0.94,
+        "best-practices": 1,
+        "seo": 0.98,
+        "pwa": 0.9
+      }
+    }
+  ],
   "metadata": {
     "identifier": "lemondefr-2022",
     "collection": [
@@ -9678,21 +9782,10 @@
     "publicdate": "2022-04-09 13:41:01",
     "addeddate": "2022-04-09 13:41:01"
   },
-  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348635289,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1537118078,
+  "uniq": 1215255530,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

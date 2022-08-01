@@ -1,5 +1,5 @@
 {
-  "created": 1659263940,
+  "created": 1659314141,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/23/items/thenewmexican-2022",
@@ -8348,31 +8348,73 @@
       "sha1": "c0f4cb33e26e15b0ae87f6823210e4be85a8c587"
     },
     {
+      "name": "thenewmexican-2022-07-31T09:57:31.338419-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659283056",
+      "size": "29737",
+      "md5": "d284fe21031ec99b529f7766fc237888",
+      "crc32": "f9afa2c8",
+      "sha1": "6faa25ce02d21b198aff5c4d2c1c1dfbeb310977",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewmexican-2022-07-31T09:57:31.338419-06:00.jpg",
+      "source": "original",
+      "mtime": "1659283054",
+      "size": "320862",
+      "md5": "ab666c730546815c9bf48a688a62748f",
+      "crc32": "3957378b",
+      "sha1": "7fc4a297b0715b8d78a35ca8bc2f2bb2f84bc522",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thenewmexican-2022-07-31T09:57:31.338419-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659283057",
+      "size": "1558",
+      "md5": "70eb6e037296f569e57b927e4f50af0a",
+      "crc32": "75c469bd",
+      "sha1": "5da00a03d5ca50cafd8e9f51817a1a5686023dc8",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewmexican-2022-07-31T09:57:31.338419-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenewmexican-2022-07-31T09:57:31.338419-06:00.jpg",
+      "mtime": "1659285130",
+      "size": "9003",
+      "md5": "53c03314aa99dc7e379d610f45d7ebaa",
+      "crc32": "88351ecf",
+      "sha1": "9f6d69896e3cc23a6bd4bc8eaec2c59b74deeb91"
+    },
+    {
       "name": "thenewmexican-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a9392fcbb9c0169e571d24544463e16cb7acd09e",
-      "mtime": "1659263897",
-      "size": "172992",
-      "md5": "5727e0a57be732cc3d6c492949324d7e",
-      "crc32": "8402e52f",
-      "sha1": "a9e2fb2b0c4608dd529f8e2a69a32adb3a16b2c5",
+      "btih": "5d01e4e10f5c26f96fd3f71176288433c3512abe",
+      "mtime": "1659285143",
+      "size": "173860",
+      "md5": "5c2df96b5d1a2dd7bba38e827adaf512",
+      "crc32": "710df96e",
+      "sha1": "9ffc29d3297489063a72f9e99ab9d4f204fca828",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thenewmexican-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0017d13a1e9ba2a2d970372073a76c41",
+      "md5": "4c7951759642c42970834feee4b1e524",
       "summation": "md5"
     },
     {
       "name": "thenewmexican-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659240597",
-      "size": "925696",
-      "md5": "c0099ed1e159ec4e41c99944d8cc8887",
-      "crc32": "cb96eb55",
-      "sha1": "2944e2fbfb9b18da7a36c3289377ae861d3dc1c8",
+      "mtime": "1659283060",
+      "size": "929792",
+      "md5": "29456a3cf4d85f5614e02da8b8a52f05",
+      "crc32": "fd6cda17",
+      "sha1": "5cec3180c5fb51787ad658ce519518d6392bfc92",
       "format": "Metadata"
     },
     {
@@ -8386,9 +8428,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 798,
-  "item_last_updated": 1659263897,
-  "item_size": 81190729,
+  "files_count": 802,
+  "item_last_updated": 1659285143,
+  "item_size": 81556853,
   "metadata": {
     "identifier": "thenewmexican-2022",
     "collection": [
@@ -8405,10 +8447,51 @@
     "publicdate": "2022-03-25 03:48:42",
     "addeddate": "2022-03-25 03:48:42"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 1878812971,
+  "server": "ia802501.us.archive.org",
+  "thenewmexican-2022": [
+    {
+      "url": "https://www.santafenewmexican.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santafenewmexican_com-_-2022_07_31_15_34_03.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santafenewmexican_com-_-2022_07_31_15_34_03.report.json",
+      "summary": {
+        "performance": 0.13,
+        "accessibility": 0.69,
+        "best-practices": 0.83,
+        "seo": 0.84,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.santafenewmexican.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santafenewmexican_com-_-2022_07_31_15_34_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santafenewmexican_com-_-2022_07_31_15_34_27.report.json",
+      "summary": {
+        "performance": 0.13,
+        "accessibility": 0.69,
+        "best-practices": 0.83,
+        "seo": 0.84,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.santafenewmexican.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santafenewmexican_com-_-2022_07_31_15_33_38.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santafenewmexican_com-_-2022_07_31_15_33_38.report.json",
+      "summary": {
+        "performance": 0.13,
+        "accessibility": 0.69,
+        "best-practices": 0.83,
+        "seo": 0.84,
+        "pwa": 0.6
+      }
+    }
+  ],
+  "uniq": 1360536473,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }

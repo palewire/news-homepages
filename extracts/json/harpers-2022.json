@@ -1,5 +1,5 @@
 {
-  "created": 1659269691,
+  "created": 1659313273,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/31/items/harpers-2022",
@@ -3869,31 +3869,94 @@
       "format": "JSON"
     },
     {
+      "name": "harpers-2022-07-31T07:14:04.741506-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "harpers-2022-07-31T07:14:04.741506-04:00.jpg",
+      "mtime": "1659276015",
+      "size": "9021",
+      "md5": "214eab992fae26ec1e8b229bc545ff23",
+      "crc32": "98ffcd6a",
+      "sha1": "5b8a0bae23ac8ae024f09f241e3ccee0c1a47ba3"
+    },
+    {
+      "name": "harpers-2022-07-31T20:15:18.901928-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659312929",
+      "size": "19205",
+      "md5": "38fa24d60046350da5099c36f43045ba",
+      "crc32": "aca83428",
+      "sha1": "b7113890217ff152871805361492e67ef5e72453",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-07-31T20:15:18.901928-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659312931",
+      "size": "130763",
+      "md5": "157063e31274ca8895c8d73f7081e517",
+      "crc32": "c9e4fd36",
+      "sha1": "34003b55862c8a23349e227f3d2bfdab8a6151f2",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-07-31T20:15:18.901928-04:00.jpg",
+      "source": "original",
+      "mtime": "1659312928",
+      "size": "273642",
+      "md5": "b061f413c5422e27bb96ad75282ebf78",
+      "crc32": "50221082",
+      "sha1": "faf777630e411e60d6411c7f76cfd8efa922d1ad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "harpers-2022-07-31T20:15:18.901928-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659312933",
+      "size": "1429",
+      "md5": "3eb5882b68f71bf467caa2479cd87535",
+      "crc32": "333a08bf",
+      "sha1": "a8b5ff7d761b76e395aa6eb50a9f259787015212",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-07-31T20:15:18.901928-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "harpers-2022-07-31T20:15:18.901928-04:00.jpg",
+      "mtime": "1659313218",
+      "size": "9021",
+      "md5": "214eab992fae26ec1e8b229bc545ff23",
+      "crc32": "98ffcd6a",
+      "sha1": "5b8a0bae23ac8ae024f09f241e3ccee0c1a47ba3"
+    },
+    {
       "name": "harpers-2022_archive.torrent",
       "source": "metadata",
-      "btih": "34a0993a6a848b747c52c25b9ee30d40a6964677",
-      "mtime": "1659266103",
-      "size": "78878",
-      "md5": "a95f0f5a3890b170f7c48eca933dae4d",
-      "crc32": "83fe3ac1",
-      "sha1": "57c0223c1878fe86c622f8401740f2e706b93b35",
+      "btih": "8750fe1c476717793f3be862fafa6e834370bbce",
+      "mtime": "1659313247",
+      "size": "80136",
+      "md5": "279eabdc1a486eccb4cb817a6d2c507d",
+      "crc32": "a0323ad3",
+      "sha1": "30280b0d4ef7f109461138287c581ca52a17e0f0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "harpers-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5b56c4cc492377e86e548a9f27db421f",
+      "md5": "0ce866f0bfa411190dfd4a87223345e5",
       "summation": "md5"
     },
     {
       "name": "harpers-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659266062",
-      "size": "450560",
-      "md5": "1c062914cf235cae6064787d4f0278a9",
-      "crc32": "c9aaaa50",
-      "sha1": "97b74220dd826574346132b223bca1d2b3533ef2",
+      "mtime": "1659312937",
+      "size": "458752",
+      "md5": "8876b9357456087db6e9c65c0b068e6b",
+      "crc32": "24c71b34",
+      "sha1": "7bdac5490772188195de32fbba1a5c613e47713e",
       "format": "Metadata"
     },
     {
@@ -3907,50 +3970,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 373,
-  "harpers-2022": [
-    {
-      "url": "https://harpers.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harpers_org-_-2022_07_31_10_55_01.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harpers_org-_-2022_07_31_10_55_01.report.json",
-      "summary": {
-        "performance": 0.32,
-        "accessibility": 0.75,
-        "best-practices": 0.83,
-        "seo": 0.9,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://harpers.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harpers_org-_-2022_07_31_10_55_33.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harpers_org-_-2022_07_31_10_55_33.report.json",
-      "summary": {
-        "performance": 0.36,
-        "accessibility": 0.75,
-        "best-practices": 0.83,
-        "seo": 0.9,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://harpers.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harpers_org-_-2022_07_31_10_55_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harpers_org-_-2022_07_31_10_55_17.report.json",
-      "summary": {
-        "performance": 0.32,
-        "accessibility": 0.75,
-        "best-practices": 0.83,
-        "seo": 0.9,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "item_last_updated": 1659266103,
-  "item_size": 37099642,
+  "files_count": 379,
+  "item_last_updated": 1659313247,
+  "item_size": 37552173,
   "metadata": {
     "identifier": "harpers-2022",
     "collection": [
@@ -3967,21 +3989,10 @@
     "publicdate": "2022-06-24 22:56:16",
     "addeddate": "2022-06-24 22:56:16"
   },
-  "pending_tasks": true,
-  "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348713862,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1240873992,
+  "server": "ia801502.us.archive.org",
+  "uniq": 1258619146,
   "workable_servers": [
+    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

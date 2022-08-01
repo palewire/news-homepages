@@ -1,5 +1,5 @@
 {
-  "created": 1659265004,
+  "created": 1659282309,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/7/items/izvestia_ru-2022",
@@ -2024,31 +2024,83 @@
       "sha1": "088245e688388675f7b0a4a589dc0590dc298b29"
     },
     {
+      "name": "izvestia_ru-2022-07-31T17:38:36.073680+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659278319",
+      "size": "133556",
+      "md5": "c753b51f6cbf2988fba2595baf3ee78d",
+      "crc32": "dc900e4d",
+      "sha1": "237dd53469eced4d5a788191103e2f2e58316e60",
+      "format": "JSON"
+    },
+    {
+      "name": "izvestia_ru-2022-07-31T17:38:36.073680+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659278321",
+      "size": "182955",
+      "md5": "58a7eab0c700b361d70195e90b616e22",
+      "crc32": "382005c3",
+      "sha1": "cad06634ec0ed9fc7106c0b8ee9921f73c952da5",
+      "format": "JSON"
+    },
+    {
+      "name": "izvestia_ru-2022-07-31T17:38:36.073680+03:00.jpg",
+      "source": "original",
+      "mtime": "1659278317",
+      "size": "347698",
+      "md5": "243b95bce91ecebd57c19a0802145c90",
+      "crc32": "a998807f",
+      "sha1": "6a24f75bc7bb75919137198916e5515829e34392",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "izvestia_ru-2022-07-31T17:38:36.073680+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659278323",
+      "size": "1371",
+      "md5": "0d3006d7e7ad9c30a516c6fbadda5a45",
+      "crc32": "9f1b1b6f",
+      "sha1": "3fde2343545c319b2a7bf15a9b28c6aa79347d27",
+      "format": "JSON"
+    },
+    {
+      "name": "izvestia_ru-2022-07-31T17:38:36.073680+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "izvestia_ru-2022-07-31T17:38:36.073680+03:00.jpg",
+      "mtime": "1659282281",
+      "size": "10797",
+      "md5": "e05d161981cfcd4cb6ce5143cd9f4611",
+      "crc32": "1112ba7d",
+      "sha1": "2da90f117faac4c9df1e8d4ad45e0fb7d5040526"
+    },
+    {
       "name": "izvestia_ru-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bfacddb2c694eded200e6f6c414963b95d9c29f2",
-      "mtime": "1659264988",
-      "size": "42890",
-      "md5": "030212bb72b2157af054981e39c0a229",
-      "crc32": "2cf808d7",
-      "sha1": "04b7b7d5ad6e50d870a83b7809c69eb3d192cf94",
+      "btih": "f28916645936faf7dc64a19e58c12d2bec2b7dfa",
+      "mtime": "1659282287",
+      "size": "43967",
+      "md5": "ead64e274d44346b1f2a7a8f97424244",
+      "crc32": "f39d870a",
+      "sha1": "57cb5b097415754c56a07316fe969ec1739b50b8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "izvestia_ru-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c7ad7da60d734a5d5cd95a6ce4220c2b",
+      "md5": "f3ff362140898055a3c0f19592f1c64c",
       "summation": "md5"
     },
     {
       "name": "izvestia_ru-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659244596",
-      "size": "249856",
-      "md5": "a6d8f5855f97cd5f95bf0cb35799b323",
-      "crc32": "d9b71158",
-      "sha1": "059db3ed5af34697a1a45579f3801ebe9adc55ce",
+      "mtime": "1659278326",
+      "size": "253952",
+      "md5": "56b744b0c7116bd8ba0c09aad60e369b",
+      "crc32": "6eb94ed2",
+      "sha1": "0478b2d8ae883cea0c8ebd7fc473964f04637840",
       "format": "Metadata"
     },
     {
@@ -2062,9 +2114,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 197,
-  "item_last_updated": 1659264988,
-  "item_size": 20637783,
+  "files_count": 202,
+  "item_last_updated": 1659282287,
+  "item_size": 21319333,
   "metadata": {
     "identifier": "izvestia_ru-2022",
     "collection": [
@@ -2081,10 +2133,10 @@
     "publicdate": "2022-07-16 20:48:55",
     "addeddate": "2022-07-16 20:48:55"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1508141537,
+  "server": "ia601508.us.archive.org",
+  "uniq": 703129501,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

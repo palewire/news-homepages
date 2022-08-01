@@ -1,5 +1,5 @@
 {
-  "created": 1659265849,
+  "created": 1659312746,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/14/items/claytoncrescent-2022",
@@ -2097,31 +2097,94 @@
       "format": "JSON"
     },
     {
+      "name": "claytoncrescent-2022-07-31T07:09:53.280485-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "claytoncrescent-2022-07-31T07:09:53.280485-04:00.jpg",
+      "mtime": "1659275873",
+      "size": "10032",
+      "md5": "6b21c92b55bf8eb43b8487df787cca49",
+      "crc32": "85e4e654",
+      "sha1": "f5bdfa64145f4885a8d84889f27c672d6611bfff"
+    },
+    {
+      "name": "claytoncrescent-2022-07-31T20:10:37.735799-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659312643",
+      "size": "26228",
+      "md5": "eed646df76434d4ca85ffc5eb6766a3a",
+      "crc32": "e555f1bb",
+      "sha1": "ff03452d2d49919032a73c4c2a624b31265c33b5",
+      "format": "JSON"
+    },
+    {
+      "name": "claytoncrescent-2022-07-31T20:10:37.735799-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659312644",
+      "size": "42060",
+      "md5": "d375b5d6cc9ee3ef02b9264cf538de67",
+      "crc32": "bf530bc4",
+      "sha1": "7f531e0b5047a959d7f266b921499f8c44336485",
+      "format": "JSON"
+    },
+    {
+      "name": "claytoncrescent-2022-07-31T20:10:37.735799-04:00.jpg",
+      "source": "original",
+      "mtime": "1659312641",
+      "size": "254266",
+      "md5": "1251debc24b98f30fefbbfbb70f04f59",
+      "crc32": "2d5a181c",
+      "sha1": "ac91b2129baa9390b44034cd3954ad493cf901bc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "claytoncrescent-2022-07-31T20:10:37.735799-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659312646",
+      "size": "1497",
+      "md5": "e976b45dffbf0d52c22ce9da36483623",
+      "crc32": "887101cb",
+      "sha1": "88af88ebe1932cb2b54eb15108761cd0be3786b0",
+      "format": "JSON"
+    },
+    {
+      "name": "claytoncrescent-2022-07-31T20:10:37.735799-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "claytoncrescent-2022-07-31T20:10:37.735799-04:00.jpg",
+      "mtime": "1659312727",
+      "size": "10310",
+      "md5": "8d57ec8aa7c75b1ed45bcc7f3b07be48",
+      "crc32": "8cbb2b35",
+      "sha1": "59d72d3122ec3bc21bae3f54d0f6d1d7df029ad0"
+    },
+    {
       "name": "claytoncrescent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "91aa40f8900e6266a1685fe3dd3190d58d06d10b",
-      "mtime": "1659265846",
-      "size": "44985",
-      "md5": "f6aec55d54fdaec8b8de91e6520ba664",
-      "crc32": "fec739d3",
-      "sha1": "47b7e1666bf1e41fe6347cb296bb4aae10631b4d",
+      "btih": "d1d28d5a835d49224525da31d9fa4a62e8034fcd",
+      "mtime": "1659312733",
+      "size": "46272",
+      "md5": "fbc1fa0f1b5b3623b98d6b5370170721",
+      "crc32": "df597a9e",
+      "sha1": "87fcfb7c0394bd07d4e4f0bf811206136f72126a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "claytoncrescent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7cd0ad393a4ca43cab1b6b2c2d09d933",
+      "md5": "d194027b80f362e04bb6ca9e44563c97",
       "summation": "md5"
     },
     {
       "name": "claytoncrescent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659265808",
-      "size": "262144",
-      "md5": "49c5d141a23a0a1020d35f2c1837b920",
-      "crc32": "4d4ce2a3",
-      "sha1": "d7c95dadb9e862bb9ce49123da9eafde51763e93",
+      "mtime": "1659312650",
+      "size": "266240",
+      "md5": "254ec99b25064d5029b7f75ccef2729f",
+      "crc32": "935c739a",
+      "sha1": "21b72d4ff727431f2ca03ff8aa758582660350b9",
       "format": "Metadata"
     },
     {
@@ -2135,9 +2198,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 204,
-  "item_last_updated": 1659265846,
-  "item_size": 15398803,
+  "files_count": 210,
+  "item_last_updated": 1659312733,
+  "item_size": 15748579,
   "metadata": {
     "identifier": "claytoncrescent-2022",
     "collection": [
@@ -2154,21 +2217,10 @@
     "publicdate": "2022-07-09 03:56:58",
     "addeddate": "2022-07-09 03:56:58"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348711884,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2079347821,
+  "server": "ia801501.us.archive.org",
+  "uniq": 876469981,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

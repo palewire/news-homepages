@@ -1,5 +1,5 @@
 {
-  "created": 1659258896,
+  "created": 1659314157,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/16/items/thesun-2022",
@@ -13637,31 +13637,94 @@
       "format": "JSON"
     },
     {
+      "name": "thesun-2022-07-31T10:10:16.370695+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thesun-2022-07-31T10:10:16.370695+01:00.jpg",
+      "mtime": "1659272153",
+      "size": "11158",
+      "md5": "bc5d3c616cc39c89d7ca248655e71c0f",
+      "crc32": "e7709928",
+      "sha1": "cbd16dde907eca13204a6ec2d36c52ea5184f6b0"
+    },
+    {
+      "name": "thesun-2022-07-31T14:33:24.091796+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659274407",
+      "size": "92234",
+      "md5": "09c1a7188ea13388aa3817d1f1d9431f",
+      "crc32": "f7fd9b37",
+      "sha1": "0f6dd9d60958de4f4a851bf594c5c9d4ba7f0ece",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-07-31T14:33:24.091796+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659274409",
+      "size": "110295",
+      "md5": "f0c1df2f33494c6b569c1da071820d48",
+      "crc32": "103203f3",
+      "sha1": "57e4337b9449ee88cac198aa72facc49fe37f727",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-07-31T14:33:24.091796+01:00.jpg",
+      "source": "original",
+      "mtime": "1659274405",
+      "size": "337767",
+      "md5": "d49a9a518572e42f3bd845e430452476",
+      "crc32": "35f4f49d",
+      "sha1": "31bf10469c79ed3652509d607dfebcc68f88906d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thesun-2022-07-31T14:33:24.091796+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659274410",
+      "size": "1477",
+      "md5": "9ee0e9432699921fbecbd71cd6371c4c",
+      "crc32": "8a02d4d8",
+      "sha1": "db49e9b69594da22c44404e626b8ac4e8a9149b5",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-07-31T14:33:24.091796+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thesun-2022-07-31T14:33:24.091796+01:00.jpg",
+      "mtime": "1659280423",
+      "size": "11290",
+      "md5": "a643a167cf41d257fbfbadcd3ba34f35",
+      "crc32": "5f50f1f9",
+      "sha1": "11d324bfbc6514b246274a52e6ae4f6b88f4e0ed"
+    },
+    {
       "name": "thesun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "717c76a5b86998b7061af3bf3a7033866650bee3",
-      "mtime": "1659258885",
-      "size": "274869",
-      "md5": "2e844eb256ff5c4e84437f744792f9ff",
-      "crc32": "2acbb98a",
-      "sha1": "8071e8eebdb8f4edefaa9e45ba6fe39715e5271b",
+      "btih": "3f86bf99dbd0626696854ab496feff482b7db9c5",
+      "mtime": "1659280528",
+      "size": "276123",
+      "md5": "2b1eadec3f741fc9e0a538950ae5dfff",
+      "crc32": "215f10fe",
+      "sha1": "9f46d725da25a00c32f7d0d7e4b0e7030e6a4e31",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thesun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cb73c100db859d675c14ebe78a9aa74f",
+      "md5": "91f7146475a813fc4cae34a3d3acb4ba",
       "summation": "md5"
     },
     {
       "name": "thesun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659258865",
-      "size": "1486848",
-      "md5": "2fbe84c2de77dc6c19284c4693c86362",
-      "crc32": "fb19b4db",
-      "sha1": "90e01e91dee4152bb44838872528abba4947a961",
+      "mtime": "1659274417",
+      "size": "1495040",
+      "md5": "a46b614de8ecb936b46b2b43c325deba",
+      "crc32": "50c45357",
+      "sha1": "e2388a2aeec00ddf14afc852ed057d34dfae0b8d",
       "format": "Metadata"
     },
     {
@@ -13675,9 +13738,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1302,
-  "item_last_updated": 1659258885,
-  "item_size": 170805353,
+  "files_count": 1308,
+  "item_last_updated": 1659280528,
+  "item_size": 171379020,
   "metadata": {
     "identifier": "thesun-2022",
     "collection": [
@@ -13694,21 +13757,51 @@
     "publicdate": "2022-03-23 08:04:03",
     "addeddate": "2022-03-23 08:04:03"
   },
-  "pending_tasks": true,
   "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "thesun-2022": [
     {
-      "task_id": 3348661180,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.thesun.co.uk/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thesun_co_uk-_-2022_07_31_13_08_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thesun_co_uk-_-2022_07_31_13_08_23.report.json",
+      "summary": {
+        "performance": 0.42,
+        "accessibility": 0.78,
+        "best-practices": 0.83,
+        "seo": 0.97,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.thesun.co.uk/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thesun_co_uk-_-2022_07_31_13_09_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thesun_co_uk-_-2022_07_31_13_09_26.report.json",
+      "summary": {
+        "performance": 0.43,
+        "accessibility": 0.78,
+        "best-practices": 0.83,
+        "seo": 0.97,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.thesun.co.uk/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thesun_co_uk-_-2022_07_31_13_08_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thesun_co_uk-_-2022_07_31_13_08_55.report.json",
+      "summary": {
+        "performance": 0.41,
+        "accessibility": 0.78,
+        "best-practices": 0.83,
+        "seo": 0.97,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 591198514,
+  "uniq": 150699073,
   "workable_servers": [
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

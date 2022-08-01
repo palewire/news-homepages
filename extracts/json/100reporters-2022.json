@@ -1,5 +1,5 @@
 {
-  "created": 1659265570,
+  "created": 1659312452,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/18/items/100reporters-2022",
@@ -2054,31 +2054,94 @@
       "format": "JSON"
     },
     {
+      "name": "100reporters-2022-07-31T07:05:01.380119-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "100reporters-2022-07-31T07:05:01.380119-04:00.jpg",
+      "mtime": "1659275746",
+      "size": "10718",
+      "md5": "236f617b2d73430411ab601eec8aeb0d",
+      "crc32": "e23e89ce",
+      "sha1": "0a5cb2da1e69ccdd771348bd4f7fc1b1007895e8"
+    },
+    {
+      "name": "100reporters-2022-07-31T20:04:07.568102-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659312250",
+      "size": "21097",
+      "md5": "ebd25abed136b128d04e69608d09454d",
+      "crc32": "1fc5dce5",
+      "sha1": "60806ec335c5ddf0ba2d229f99c57a37fc7d4357",
+      "format": "JSON"
+    },
+    {
+      "name": "100reporters-2022-07-31T20:04:07.568102-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659312251",
+      "size": "19916",
+      "md5": "a9d7adbdb543a2af7d3270e95fef05b2",
+      "crc32": "59dda342",
+      "sha1": "388ef051f5074911825c932ba1e5bda7c88b76ac",
+      "format": "JSON"
+    },
+    {
+      "name": "100reporters-2022-07-31T20:04:07.568102-04:00.jpg",
+      "source": "original",
+      "mtime": "1659312248",
+      "size": "307447",
+      "md5": "55e870ef144879a74e3873e70d120a71",
+      "crc32": "abdb6669",
+      "sha1": "141d198a631e7b70d988795998e118f2649a1d75",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "100reporters-2022-07-31T20:04:07.568102-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659312253",
+      "size": "1405",
+      "md5": "8548cb919514eb4f6613456d8be62b10",
+      "crc32": "0e9aeb41",
+      "sha1": "df0e354991567a6388aeef5c78a75a4217512483",
+      "format": "JSON"
+    },
+    {
+      "name": "100reporters-2022-07-31T20:04:07.568102-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "100reporters-2022-07-31T20:04:07.568102-04:00.jpg",
+      "mtime": "1659312435",
+      "size": "10718",
+      "md5": "236f617b2d73430411ab601eec8aeb0d",
+      "crc32": "e23e89ce",
+      "sha1": "0a5cb2da1e69ccdd771348bd4f7fc1b1007895e8"
+    },
+    {
       "name": "100reporters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "709f957c84e828411d59d405b5855ef8025d0a04",
-      "mtime": "1659265567",
-      "size": "43787",
-      "md5": "3ca4d566d80ae60c9da89f4096f2eeac",
-      "crc32": "00e81e78",
-      "sha1": "de772d9e20cadac86e410a509c5e2d22f6131b43",
+      "btih": "f55611314253a3a92757a3f7fec648e8b274fcbc",
+      "mtime": "1659312439",
+      "size": "45076",
+      "md5": "77a38baa48013cb9a6e1924799249a4b",
+      "crc32": "4fc8907d",
+      "sha1": "3960885aeb92eaf1f1ba503213f0a518c1b1294f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "100reporters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7bd67bb289845cde4d8937a33a8f7ad1",
+      "md5": "47beda64fe614894a050562f0926582f",
       "summation": "md5"
     },
     {
       "name": "100reporters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659265531",
-      "size": "253952",
-      "md5": "0a657856f52a50d7e312481ab91bd3da",
-      "crc32": "428cf8e3",
-      "sha1": "0d8c9a0746931626ceab37bd0e3dd91dab11f489",
+      "mtime": "1659312258",
+      "size": "262144",
+      "md5": "9a624cc384d39d231f209b0a92744d9f",
+      "crc32": "85a2eb67",
+      "sha1": "8faeaed0b3b492217e4d1ccbce21feb340c6d4fb",
       "format": "Metadata"
     },
     {
@@ -2103,9 +2166,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 201,
-  "item_last_updated": 1659265567,
-  "item_size": 16589178,
+  "files_count": 207,
+  "item_last_updated": 1659312439,
+  "item_size": 16969960,
   "metadata": {
     "identifier": "100reporters-2022",
     "collection": [
@@ -2122,21 +2185,10 @@
     "publicdate": "2022-07-09 03:55:34",
     "addeddate": "2022-07-09 03:55:34"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348709087,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1432238364,
+  "server": "ia802500.us.archive.org",
+  "uniq": 592681079,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

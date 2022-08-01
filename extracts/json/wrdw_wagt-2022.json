@@ -1,5 +1,5 @@
 {
-  "created": 1659270258,
+  "created": 1659314285,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/27/items/wrdw_wagt-2022",
@@ -1142,31 +1142,83 @@
       "sha1": "b2c2bb45b8d3897b3a58d9681cb4f1d5e5366a1b"
     },
     {
+      "name": "wrdw_wagt-2022-07-31T09:36:52.597849-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659274616",
+      "size": "34035",
+      "md5": "b1169dd032ed7ad7288035d6c4f8b1f3",
+      "crc32": "eca1a582",
+      "sha1": "3c210a27d7ed44d40fd59c5f87c0d7d1a7eb40ae",
+      "format": "JSON"
+    },
+    {
+      "name": "wrdw_wagt-2022-07-31T09:36:52.597849-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659274617",
+      "size": "19436",
+      "md5": "eb2f2c009d9dfaaa39940bf4ff3a0664",
+      "crc32": "98746d91",
+      "sha1": "9a3e81b7c1e11a96ff5c912e17163c2107eb727f",
+      "format": "JSON"
+    },
+    {
+      "name": "wrdw_wagt-2022-07-31T09:36:52.597849-04:00.jpg",
+      "source": "original",
+      "mtime": "1659274614",
+      "size": "341113",
+      "md5": "a629336c64a9371408187297c6c33f38",
+      "crc32": "abd78bde",
+      "sha1": "aebbc99777a4e261e7c0b0a446ac849a3ceb7110",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wrdw_wagt-2022-07-31T09:36:52.597849-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659274619",
+      "size": "1441",
+      "md5": "107ebce5606384a70cd3972b07910fd1",
+      "crc32": "5cfd77c2",
+      "sha1": "3a5209684edce48c6bcd055bbf34f874bbe500c4",
+      "format": "JSON"
+    },
+    {
+      "name": "wrdw_wagt-2022-07-31T09:36:52.597849-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wrdw_wagt-2022-07-31T09:36:52.597849-04:00.jpg",
+      "mtime": "1659280214",
+      "size": "10685",
+      "md5": "eea0b0d243090ff08afddd726bf2f6eb",
+      "crc32": "812d9bc2",
+      "sha1": "5f2e931553f0569dff046a3f918afb8700c2853f"
+    },
+    {
       "name": "wrdw_wagt-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dfa01fc761461f1f899dd74eff08d28afd69c6a0",
-      "mtime": "1659260832",
-      "size": "24555",
-      "md5": "9f61398a22dc014b190b08fefe3a7ea5",
-      "crc32": "a718bfef",
-      "sha1": "b54c723dcbee462d367bf7d32627a5c086accbb5",
+      "btih": "f9c9bd92ac3db3aecd3aa35c6bdeaf63b34a68f9",
+      "mtime": "1659280218",
+      "size": "25620",
+      "md5": "dc26574e8c3976c74c110007bf466d9e",
+      "crc32": "93cdc5b9",
+      "sha1": "92ec530f4dc6b20f6a6bc12e589d07d1ab9cd785",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wrdw_wagt-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2afcfa33291ddfe8fd249a4f7ef9a4cb",
+      "md5": "5f5b9dc9cca1fd050d4ef95dcb00ed2b",
       "summation": "md5"
     },
     {
       "name": "wrdw_wagt-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659235953",
-      "size": "155648",
-      "md5": "c24872bd7c129d84f48d9162accdc9f3",
-      "crc32": "ea2f4035",
-      "sha1": "3495571448eeae136d38002d7c38e1140be1396f",
+      "mtime": "1659274622",
+      "size": "159744",
+      "md5": "dd8ede7724bb8f933c02a8883c55b77b",
+      "crc32": "97797a93",
+      "sha1": "9fd4bd7f38cef4189ce64c60607bc8de24dd7d31",
       "format": "Metadata"
     },
     {
@@ -1180,9 +1232,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 113,
-  "item_last_updated": 1659260832,
-  "item_size": 9665851,
+  "files_count": 118,
+  "item_last_updated": 1659280218,
+  "item_size": 10077722,
   "metadata": {
     "identifier": "wrdw_wagt-2022",
     "collection": [
@@ -1200,7 +1252,7 @@
     "addeddate": "2022-07-20 23:32:25"
   },
   "server": "ia801507.us.archive.org",
-  "uniq": 1632674289,
+  "uniq": 2042999691,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"
@@ -1209,11 +1261,11 @@
     {
       "url": "https://www.wrdw.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wrdw_com-_-2022_07_31_01_38_53.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wrdw_com-_-2022_07_31_01_38_53.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wrdw_com-_-2022_07_31_13_13_42.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wrdw_com-_-2022_07_31_13_13_42.report.json",
       "summary": {
-        "performance": 0.24,
-        "accessibility": 0.85,
+        "performance": 0.27,
+        "accessibility": 0.84,
         "best-practices": 0.83,
         "seo": 0.91,
         "pwa": 0.3
@@ -1222,10 +1274,10 @@
     {
       "url": "https://www.wrdw.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wrdw_com-_-2022_07_31_01_39_58.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wrdw_com-_-2022_07_31_01_39_58.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wrdw_com-_-2022_07_31_13_14_24.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wrdw_com-_-2022_07_31_13_14_24.report.json",
       "summary": {
-        "performance": 0.24,
+        "performance": 0.28,
         "accessibility": 0.84,
         "best-practices": 0.83,
         "seo": 0.91,
@@ -1235,10 +1287,10 @@
     {
       "url": "https://www.wrdw.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wrdw_com-_-2022_07_31_01_37_48.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wrdw_com-_-2022_07_31_01_37_48.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wrdw_com-_-2022_07_31_13_14_04.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wrdw_com-_-2022_07_31_13_14_04.report.json",
       "summary": {
-        "performance": 0.25,
+        "performance": 0.29,
         "accessibility": 0.84,
         "best-practices": 0.83,
         "seo": 0.91,

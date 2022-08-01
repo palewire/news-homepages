@@ -1,5 +1,5 @@
 {
-  "created": 1659270185,
+  "created": 1659280104,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/11/items/thevdt-2022",
@@ -1092,31 +1092,83 @@
       "sha1": "0bcc3ff00bcbf30e8a7bbdff30216daeb02ab3ff"
     },
     {
+      "name": "thevdt-2022-07-31T09:34:01.612921-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659274444",
+      "size": "56571",
+      "md5": "c1c33c96b489c1eedb0958b497d1bf2c",
+      "crc32": "382c125d",
+      "sha1": "546f6d639dfaf20b2fd7cf0c04b518a310e5097b",
+      "format": "JSON"
+    },
+    {
+      "name": "thevdt-2022-07-31T09:34:01.612921-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659274445",
+      "size": "70864",
+      "md5": "b82d66c16d4105a61882b883c222c3d9",
+      "crc32": "83e32c86",
+      "sha1": "5b01d00bee633f068a72adefe0ebc7f13a1a7ab0",
+      "format": "JSON"
+    },
+    {
+      "name": "thevdt-2022-07-31T09:34:01.612921-04:00.jpg",
+      "source": "original",
+      "mtime": "1659274442",
+      "size": "271935",
+      "md5": "f1d2ad2cff966b9f1514eb1b8404f28b",
+      "crc32": "28c4bc26",
+      "sha1": "ba90bdb7c1cda6f26bad1569ea55b3e1e50a7285",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thevdt-2022-07-31T09:34:01.612921-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659274447",
+      "size": "1567",
+      "md5": "108b18c8d8e5fdedd98d7fa0664ca238",
+      "crc32": "f5366aa1",
+      "sha1": "fec1f7b52a47bdd2392fcbacb96bee84fbc41248",
+      "format": "JSON"
+    },
+    {
+      "name": "thevdt-2022-07-31T09:34:01.612921-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thevdt-2022-07-31T09:34:01.612921-04:00.jpg",
+      "mtime": "1659280089",
+      "size": "8938",
+      "md5": "a869bac65634e3f6871e2e50d84b837a",
+      "crc32": "400ba3c0",
+      "sha1": "7de47bd07825fe65c0c2832ac29aab049e6e577e"
+    },
+    {
       "name": "thevdt-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1f3e1449dd7cad5356aca2273f572f376c271bce",
-      "mtime": "1659260753",
-      "size": "23090",
-      "md5": "a5448706434ab2d92cc40061556fb48a",
-      "crc32": "3f836b7b",
-      "sha1": "cf08e08b04658bc7cdfb8903ee3df512f7129daa",
+      "btih": "f17fd30134b8147264eb4447b62a9154a4c385e3",
+      "mtime": "1659280093",
+      "size": "24139",
+      "md5": "0df3ac1af32d772fe3e470a49794d6ef",
+      "crc32": "7966848b",
+      "sha1": "65dd47b95c519e5d819bd43e94f3ab84b170ac33",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thevdt-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1743f9e6c5249863d9280de66e355d71",
+      "md5": "4707c433780e0722adf8c5dd61fe46a9",
       "summation": "md5"
     },
     {
       "name": "thevdt-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659235748",
-      "size": "147456",
-      "md5": "283ebcae8786e9d95a895dd41b3df60b",
-      "crc32": "44ba1089",
-      "sha1": "86e2e4cebd0ca8d7fa390ca49b8dec9c2025e5e8",
+      "mtime": "1659274450",
+      "size": "151552",
+      "md5": "02c82a490064e1de8ea9a9f45d8a6507",
+      "crc32": "1c150310",
+      "sha1": "957a6ea248f351f220fc835cac4eb1419c42edb3",
       "format": "Metadata"
     },
     {
@@ -1130,9 +1182,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 108,
-  "item_last_updated": 1659260753,
-  "item_size": 8763406,
+  "files_count": 113,
+  "item_last_updated": 1659280093,
+  "item_size": 9178426,
   "metadata": {
     "identifier": "thevdt-2022",
     "collection": [
@@ -1150,48 +1202,7 @@
     "addeddate": "2022-07-20 23:31:50"
   },
   "server": "ia601506.us.archive.org",
-  "thevdt-2022": [
-    {
-      "url": "https://www.valdostadailytimes.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_valdostadailytimes_com-_-2022_07_31_01_31_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_valdostadailytimes_com-_-2022_07_31_01_31_38.report.json",
-      "summary": {
-        "performance": 0.18,
-        "accessibility": 0.71,
-        "best-practices": 0.58,
-        "seo": 0.76,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.valdostadailytimes.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_valdostadailytimes_com-_-2022_07_31_01_33_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_valdostadailytimes_com-_-2022_07_31_01_33_17.report.json",
-      "summary": {
-        "performance": 0.19,
-        "accessibility": 0.71,
-        "best-practices": 0.58,
-        "seo": 0.76,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.valdostadailytimes.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_valdostadailytimes_com-_-2022_07_31_01_32_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_valdostadailytimes_com-_-2022_07_31_01_32_38.report.json",
-      "summary": {
-        "performance": 0.18,
-        "accessibility": 0.71,
-        "best-practices": 0.58,
-        "seo": 0.76,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "uniq": 1372939894,
+  "uniq": 658612788,
   "workable_servers": [
     "ia601506.us.archive.org",
     "ia801506.us.archive.org"

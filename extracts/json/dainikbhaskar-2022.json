@@ -1,48 +1,7 @@
 {
-  "created": 1659269578,
+  "created": 1659313017,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
-  "dainikbhaskar-2022": [
-    {
-      "url": "https://www.bhaskar.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bhaskar_com-_-2022_07_31_10_50_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bhaskar_com-_-2022_07_31_10_50_31.report.json",
-      "summary": {
-        "performance": 0.47,
-        "accessibility": 0.89,
-        "best-practices": 0.92,
-        "seo": 1,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.bhaskar.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bhaskar_com-_-2022_07_31_10_50_45.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bhaskar_com-_-2022_07_31_10_50_45.report.json",
-      "summary": {
-        "performance": 0.4,
-        "accessibility": 0.91,
-        "best-practices": 0.92,
-        "seo": 1,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.bhaskar.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bhaskar_com-_-2022_07_31_10_50_15.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bhaskar_com-_-2022_07_31_10_50_15.report.json",
-      "summary": {
-        "performance": 0.31,
-        "accessibility": 0.89,
-        "best-practices": 0.92,
-        "seo": 1,
-        "pwa": 0.3
-      }
-    }
-  ],
   "dir": "/3/items/dainikbhaskar-2022",
   "files": [
     {
@@ -514,31 +473,94 @@
       "format": "JSON"
     },
     {
+      "name": "dainikbhaskar-2022-07-31T16:40:50.215073+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dainikbhaskar-2022-07-31T16:40:50.215073+05:30.jpg",
+      "mtime": "1659275889",
+      "size": "9233",
+      "md5": "939e7c9b0bef5f8bf4414b696dbb0bb1",
+      "crc32": "e3164b94",
+      "sha1": "5c84d51270776109e4a16e457ed8189ae61094e1"
+    },
+    {
+      "name": "dainikbhaskar-2022-08-01T05:41:39.089711+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1659312703",
+      "size": "31013",
+      "md5": "996cd79d4bd595eafb6413fd33782281",
+      "crc32": "7eb56d37",
+      "sha1": "ff7ba8bedf3262546c2424b1bf7872a14296defc",
+      "format": "JSON"
+    },
+    {
+      "name": "dainikbhaskar-2022-08-01T05:41:39.089711+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659312705",
+      "size": "22106",
+      "md5": "6c7fe056281a313eb0da3410ff8f987b",
+      "crc32": "6572c68e",
+      "sha1": "de198ebe8709ea9fd46fcd61825d5b90a3fbbfc9",
+      "format": "JSON"
+    },
+    {
+      "name": "dainikbhaskar-2022-08-01T05:41:39.089711+05:30.jpg",
+      "source": "original",
+      "mtime": "1659312701",
+      "size": "244157",
+      "md5": "beed9376d69e832b487627baec2d370a",
+      "crc32": "b5abe74e",
+      "sha1": "bab625411d1b44ac00bb34990ae75b35add112a8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dainikbhaskar-2022-08-01T05:41:39.089711+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1659312707",
+      "size": "1459",
+      "md5": "c965926e531ad3b94ac53b8b10d83123",
+      "crc32": "4a1ec234",
+      "sha1": "bb3e9a56c2ece5599401eb9ed8a1b2f063443998",
+      "format": "JSON"
+    },
+    {
+      "name": "dainikbhaskar-2022-08-01T05:41:39.089711+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dainikbhaskar-2022-08-01T05:41:39.089711+05:30.jpg",
+      "mtime": "1659312962",
+      "size": "9360",
+      "md5": "0529a0091ab85ca31a2230671084b6fc",
+      "crc32": "1e72b369",
+      "sha1": "8e292faa8a2edc390ef15e68c5a95f82a6d344ea"
+    },
+    {
       "name": "dainikbhaskar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e27302bedd05f9fa433548f07e13d3da6027809",
-      "mtime": "1659265899",
-      "size": "11156",
-      "md5": "0d1791502a41529d326743aecf574b33",
-      "crc32": "376e0fc2",
-      "sha1": "6a6b130a943f9feaee69a57e30a43e87070843ea",
+      "btih": "0c96d680537f606de36bcbd242f369b1e8bb001b",
+      "mtime": "1659312970",
+      "size": "12429",
+      "md5": "9345d9a47cb175a83ef5109bd04bf98c",
+      "crc32": "b1b6d63c",
+      "sha1": "1a9b6eb1b1b4053a624e3688f5f35f528f825be7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dainikbhaskar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2038e7fc80161c8a288b111bcd32d737",
+      "md5": "f7883611144036e2d6d5a14eab6add40",
       "summation": "md5"
     },
     {
       "name": "dainikbhaskar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659265861",
-      "size": "69632",
-      "md5": "fca953a003aa0cfa814a20e9ceb433c4",
-      "crc32": "3a26dda2",
-      "sha1": "a7a317366ec2610d6f06e7dc97dbe8f26a10991e",
+      "mtime": "1659312710",
+      "size": "77824",
+      "md5": "7b3976bba87f639b03efa5d31ca515b9",
+      "crc32": "427b5f18",
+      "sha1": "b5d176b996390c91a03b8105a4b57011da710043",
       "format": "Metadata"
     },
     {
@@ -552,9 +574,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 49,
-  "item_last_updated": 1659265899,
-  "item_size": 3169878,
+  "files_count": 55,
+  "item_last_updated": 1659312970,
+  "item_size": 3496671,
   "metadata": {
     "identifier": "dainikbhaskar-2022",
     "collection": [
@@ -571,21 +593,10 @@
     "publicdate": "2022-07-27 17:18:58",
     "addeddate": "2022-07-27 17:18:58"
   },
-  "pending_tasks": true,
-  "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348712288,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 729831251,
+  "server": "ia801404.us.archive.org",
+  "uniq": 1340796272,
   "workable_servers": [
+    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

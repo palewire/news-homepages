@@ -1,5 +1,5 @@
 {
-  "created": 1659263943,
+  "created": 1659314258,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/18/items/weatherchannel-2022",
@@ -536,31 +536,83 @@
       "sha1": "ce7f556cd6f48b95f3b3f8a73b5912b6492c48f0"
     },
     {
+      "name": "weatherchannel-2022-07-31T12:00:06.076737-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659283210",
+      "size": "9692",
+      "md5": "50c4047caacc8109c460f1f08fb380b5",
+      "crc32": "4ba7e1f8",
+      "sha1": "fd73ffe498af7b562ef88aa5daee9bd40791769c",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-07-31T12:00:06.076737-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659283211",
+      "size": "20624",
+      "md5": "76f94e06e830b82125c7e6b096511000",
+      "crc32": "12eea9d7",
+      "sha1": "51114ac3a08c98380e73b52c525ed5ac29596dcd",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-07-31T12:00:06.076737-04:00.jpg",
+      "source": "original",
+      "mtime": "1659283208",
+      "size": "282738",
+      "md5": "18dec67e383f88866f00111beafa8f83",
+      "crc32": "78a586e5",
+      "sha1": "dfe016242bbf8ba7c54cee6a1b005b0c5a9697bc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weatherchannel-2022-07-31T12:00:06.076737-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659283213",
+      "size": "1432",
+      "md5": "d6fa4d270bc828199bb429c1472d8d6d",
+      "crc32": "3d45fb9d",
+      "sha1": "bc4ee6cfdd5756b2a91b6b209138b7980e1d7901",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-07-31T12:00:06.076737-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weatherchannel-2022-07-31T12:00:06.076737-04:00.jpg",
+      "mtime": "1659285159",
+      "size": "10457",
+      "md5": "e7682c6185bf41dad431cd8f57aa9c9f",
+      "crc32": "30a21b22",
+      "sha1": "651b50e85f143f007f69dde868c1374bc0526a4c"
+    },
+    {
       "name": "weatherchannel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "70f2e4ca42ededf928efb8528c4420a32fc1f7f8",
-      "mtime": "1659263923",
-      "size": "12490",
-      "md5": "e4f5bb219cdf0cfc2e087acac25a5f65",
-      "crc32": "21922b1a",
-      "sha1": "33b1586d1e5dddefe9fa1a9e11ef22fbd0782040",
+      "btih": "cb65a6f6c032fc660c5d6d2dc8201e63f12c7b05",
+      "mtime": "1659285205",
+      "size": "13579",
+      "md5": "b8323a662722774c9983ec2af5cd131a",
+      "crc32": "5699fb13",
+      "sha1": "fbb0bc1791bd1b425295f1571327ff8220ef0595",
       "format": "Archive BitTorrent"
     },
     {
       "name": "weatherchannel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bceeec407492ad60a5751b26356cfbb0",
+      "md5": "353f60b77f28673618eb0565f3b01b94",
       "summation": "md5"
     },
     {
       "name": "weatherchannel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659240735",
-      "size": "77824",
-      "md5": "06b8ced771574ec86aab224783cc8fa5",
-      "crc32": "9609695d",
-      "sha1": "34bb30e1e14401bc2b5b69c8d18a747369ec481c",
+      "mtime": "1659283215",
+      "size": "81920",
+      "md5": "aab70086d22ef8cef5e9d57e64ebd297",
+      "crc32": "5b299ef0",
+      "sha1": "90465b2e49e0102bcacb861ca0a30e9ed606d389",
       "format": "Metadata"
     },
     {
@@ -574,9 +626,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 55,
-  "item_last_updated": 1659263923,
-  "item_size": 3487944,
+  "files_count": 60,
+  "item_last_updated": 1659285205,
+  "item_size": 3818072,
   "metadata": {
     "identifier": "weatherchannel-2022",
     "collection": [
@@ -593,10 +645,51 @@
     "publicdate": "2022-07-26 15:49:58",
     "addeddate": "2022-07-26 15:49:58"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 1861736895,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1294949396,
+  "weatherchannel-2022": [
+    {
+      "url": "https://weather.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/weather_com-_-2022_07_31_15_37_33.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/weather_com-_-2022_07_31_15_37_33.report.json",
+      "summary": {
+        "performance": 0.19,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.86,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://weather.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/weather_com-_-2022_07_31_15_37_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/weather_com-_-2022_07_31_15_37_59.report.json",
+      "summary": {
+        "performance": 0.19,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.86,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://weather.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/weather_com-_-2022_07_31_15_38_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/weather_com-_-2022_07_31_15_38_25.report.json",
+      "summary": {
+        "performance": 0.19,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.86,
+        "pwa": 0.7
+      }
+    }
+  ],
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

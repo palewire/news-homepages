@@ -1,5 +1,5 @@
 {
-  "created": 1659270207,
+  "created": 1659314190,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/34/items/tucsonstar-2022",
@@ -2350,31 +2350,83 @@
       "sha1": "c84abacd283a17318dc70da97508ecb9140d103f"
     },
     {
+      "name": "tucsonstar-2022-07-31T06:33:54.491155-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659274437",
+      "size": "26336",
+      "md5": "4f2ea6e8360b524bb971417ee08da096",
+      "crc32": "df201fb3",
+      "sha1": "cff4e0e79decde9da33e6de3b6b0485f4aadf71f",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-07-31T06:33:54.491155-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659274438",
+      "size": "74047",
+      "md5": "5591edaff0a2eb79c8dbc60767a9ae16",
+      "crc32": "7cb21baf",
+      "sha1": "27b55feb48ac217c113e01b06d01fb5d4f61ee84",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-07-31T06:33:54.491155-07:00.jpg",
+      "source": "original",
+      "mtime": "1659274435",
+      "size": "325939",
+      "md5": "ec7b5267257242204d90d5ac5726031f",
+      "crc32": "18db4d26",
+      "sha1": "3a0229aafb40056feba1a844df262e0fe9d4e002",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tucsonstar-2022-07-31T06:33:54.491155-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659274440",
+      "size": "1420",
+      "md5": "34cbd1df64a7b3b771715e2def65f3dd",
+      "crc32": "abba648e",
+      "sha1": "29424ec02aa6ff2d7fcd61d96ee7a27579fbc5da",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-07-31T06:33:54.491155-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tucsonstar-2022-07-31T06:33:54.491155-07:00.jpg",
+      "mtime": "1659280083",
+      "size": "12569",
+      "md5": "e2556175956657e5d3605458025574ee",
+      "crc32": "e719ab21",
+      "sha1": "f794708b65ccc74933cedbcb97113c2ca576013c"
+    },
+    {
       "name": "tucsonstar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bfc0f2375f67b1c1c55453e5d508ba8711e34569",
-      "mtime": "1659260656",
-      "size": "49261",
-      "md5": "5b27010c5a93c4a9a61bb50adb55dbe2",
-      "crc32": "7707c8a1",
-      "sha1": "082544c9b3d04df562310da1507c0dabfea4e2cb",
+      "btih": "bbe3eccd52327ef78b060ea2055d04da750d65c1",
+      "mtime": "1659280095",
+      "size": "50331",
+      "md5": "07e18025fce19ba632987e29cbac7a08",
+      "crc32": "08820193",
+      "sha1": "502b6342b59bf6c18b2e2d39c04b33f857ea37af",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tucsonstar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e295c009aca67b987871121254282a29",
+      "md5": "f150b458a4506badd317fae7c4599b1b",
       "summation": "md5"
     },
     {
       "name": "tucsonstar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659235792",
-      "size": "282624",
-      "md5": "e236fb1c54b180fd726547020d31714e",
-      "crc32": "3dd317f3",
-      "sha1": "36e8c9b8934a9ac03b2895c7657bdf5cfa2f5551",
+      "mtime": "1659274443",
+      "size": "290816",
+      "md5": "fabe2f2f7070eac3a36965aa18cf33f8",
+      "crc32": "5553e040",
+      "sha1": "77c75d3f8a5edac594577aff3849a305a4a36453",
       "format": "Metadata"
     },
     {
@@ -2388,9 +2440,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 228,
-  "item_last_updated": 1659260656,
-  "item_size": 22905931,
+  "files_count": 233,
+  "item_last_updated": 1659280095,
+  "item_size": 23355504,
   "metadata": {
     "identifier": "tucsonstar-2022",
     "collection": [
@@ -2412,10 +2464,10 @@
     {
       "url": "https://tucson.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tucson_com-_-2022_07_31_01_33_34.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tucson_com-_-2022_07_31_01_33_34.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tucson_com-_-2022_07_31_13_10_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tucson_com-_-2022_07_31_13_10_36.report.json",
       "summary": {
-        "performance": 0.03,
+        "performance": 0.04,
         "accessibility": 0.81,
         "best-practices": 0.92,
         "seo": 0.83,
@@ -2425,12 +2477,12 @@
     {
       "url": "https://tucson.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tucson_com-_-2022_07_31_01_33_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tucson_com-_-2022_07_31_01_33_55.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tucson_com-_-2022_07_31_13_10_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tucson_com-_-2022_07_31_13_10_56.report.json",
       "summary": {
         "performance": 0.04,
         "accessibility": 0.81,
-        "best-practices": 0.92,
+        "best-practices": 1,
         "seo": 0.83,
         "pwa": 0.6
       }
@@ -2438,8 +2490,8 @@
     {
       "url": "https://tucson.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tucson_com-_-2022_07_31_01_34_16.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tucson_com-_-2022_07_31_01_34_16.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tucson_com-_-2022_07_31_13_10_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tucson_com-_-2022_07_31_13_10_13.report.json",
       "summary": {
         "performance": 0.04,
         "accessibility": 0.81,
@@ -2449,7 +2501,7 @@
       }
     }
   ],
-  "uniq": 1168868021,
+  "uniq": 719366396,
   "workable_servers": [
     "ia601403.us.archive.org",
     "ia801403.us.archive.org"
