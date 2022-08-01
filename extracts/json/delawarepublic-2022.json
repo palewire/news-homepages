@@ -1,5 +1,5 @@
 {
-  "created": 1659265919,
+  "created": 1659312910,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/delawarepublic-2022",
@@ -2097,31 +2097,94 @@
       "format": "JSON"
     },
     {
+      "name": "delawarepublic-2022-07-31T07:11:09.424851-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "delawarepublic-2022-07-31T07:11:09.424851-04:00.jpg",
+      "mtime": "1659275862",
+      "size": "9855",
+      "md5": "f2664061096fd209ace541e665240fae",
+      "crc32": "b706839c",
+      "sha1": "2332b801c183984e075cfb7f98d56bd588850ac4"
+    },
+    {
+      "name": "delawarepublic-2022-07-31T20:12:10.117866-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659312733",
+      "size": "17186",
+      "md5": "8a9b0ae504e449bb81b60414baecc3de",
+      "crc32": "1e604016",
+      "sha1": "45c2719e480db0371ae267174c5fdbcf7310b3fd",
+      "format": "JSON"
+    },
+    {
+      "name": "delawarepublic-2022-07-31T20:12:10.117866-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659312735",
+      "size": "23109",
+      "md5": "1e1312cf4cba705052ef009d0250f5a4",
+      "crc32": "000ccdcf",
+      "sha1": "5ca45aaa9928ab3295cd855089fd6df7dcaf8d0b",
+      "format": "JSON"
+    },
+    {
+      "name": "delawarepublic-2022-07-31T20:12:10.117866-04:00.jpg",
+      "source": "original",
+      "mtime": "1659312731",
+      "size": "247341",
+      "md5": "46666af5c29b9de3ee028a1e077186bf",
+      "crc32": "049b163f",
+      "sha1": "e86391ee6afab7e2f3242ba2ceabcb532f9d91a1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "delawarepublic-2022-07-31T20:12:10.117866-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659312737",
+      "size": "1513",
+      "md5": "83f9c57c5b5a1cc7196ece0286126066",
+      "crc32": "b99d9df2",
+      "sha1": "462da40656b45dafba850845fb7486b5038ad76b",
+      "format": "JSON"
+    },
+    {
+      "name": "delawarepublic-2022-07-31T20:12:10.117866-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "delawarepublic-2022-07-31T20:12:10.117866-04:00.jpg",
+      "mtime": "1659312890",
+      "size": "9857",
+      "md5": "e0736b8689e07d9d348b51805eb81805",
+      "crc32": "ee3ed928",
+      "sha1": "a54204336396beb5958b0fcae4d87ee558fc4af8"
+    },
+    {
       "name": "delawarepublic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5686a8509885f196aca916464a4bee638c274425",
-      "mtime": "1659265915",
-      "size": "44778",
-      "md5": "64cd54203f0e0887fbbb7a65cb3d0492",
-      "crc32": "fa7b12b4",
-      "sha1": "2319d53fc9fbbd8156530de60930e86ced86b82a",
+      "btih": "08e327fc42e756ebc2e14b9364fb17101f84e427",
+      "mtime": "1659312896",
+      "size": "46057",
+      "md5": "3b545c9034df7215e7c1795c70a06e06",
+      "crc32": "0dd21a4e",
+      "sha1": "3caf119beedcd614475d912342cde0e90c5aa04f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "delawarepublic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ac65bf172b2ee7fce2d127e0ada7dbb4",
+      "md5": "2a8440076b3f8df0aa8faf454d836692",
       "summation": "md5"
     },
     {
       "name": "delawarepublic-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659265880",
-      "size": "262144",
-      "md5": "78137e53a7d90235105446d10e3c3035",
-      "crc32": "a3d3b565",
-      "sha1": "2f3c3967e7de894022bd02f1ae7cefb6c9ca1be4",
+      "mtime": "1659312739",
+      "size": "266240",
+      "md5": "2a340766c60466555f3f41d606af90fd",
+      "crc32": "ae0c2b54",
+      "sha1": "fe8289bdcb722322b430f50dda1de2548f097a53",
       "format": "Metadata"
     },
     {
@@ -2135,9 +2198,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 204,
-  "item_last_updated": 1659265915,
-  "item_size": 15397882,
+  "files_count": 210,
+  "item_last_updated": 1659312896,
+  "item_size": 15712118,
   "metadata": {
     "identifier": "delawarepublic-2022",
     "collection": [
@@ -2154,21 +2217,10 @@
     "publicdate": "2022-07-09 03:58:05",
     "addeddate": "2022-07-09 03:58:05"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348712426,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 67120020,
+  "server": "ia801500.us.archive.org",
+  "uniq": 284100648,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

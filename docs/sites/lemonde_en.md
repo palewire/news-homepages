@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 225 screenshots with the Internet Archive.
+The archiving routine has saved 227 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-08-01T02:19:13.030143+02:00.jpg">
+  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-08-01T02:19:13.030143+02:00.jpg"
+     alt="Le Monde in English at 2022-08-01 02:19:19+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-08-01T02:19:13.030143+02:00.jpg">August 1 at 2:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-31T15:18:58.874164+02:00.jpg">
+  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-31T15:18:58.874164+02:00.jpg"
+     alt="Le Monde in English at 2022-07-31 15:19:00+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-31T15:18:58.874164+02:00.jpg">July 31 at 3:19 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-31T10:12:07.144789+02:00.jpg">
   <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-31T10:12:07.144789+02:00.jpg"
      alt="Le Monde in English at 2022-07-31 10:12:13+02:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-28T10:10:32.093383+02:00.jpg">July 28 at 10:10 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-28T02:05:57.663377+02:00.jpg">
-  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-28T02:05:57.663377+02:00.jpg"
-     alt="Le Monde in English at 2022-07-28 02:06:01+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-28T02:05:57.663377+02:00.jpg">July 28 at 2:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-27T15:10:15.212067+02:00.jpg">
-  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-27T15:10:15.212067+02:00.jpg"
-     alt="Le Monde in English at 2022-07-27 15:10:20+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-27T15:10:15.212067+02:00.jpg">July 27 at 3:10 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 225 hyperlink lists with the Internet Archive.
+The archiving routine has saved 227 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 2:19 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-08-01T02:19:13.030143+02:00.hyperlinks.json) |
+| [July 31 at 3:19 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-31T15:18:58.874164+02:00.hyperlinks.json) |
 | [July 31 at 10:12 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-31T10:12:07.144789+02:00.hyperlinks.json) |
 | [July 31 at 2:27 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-31T02:27:23.160163+02:00.hyperlinks.json) |
 | [July 30 at 2:24 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-30T14:23:37.498976+02:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 2:18 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-29T14:18:01.930478+02:00.hyperlinks.json) |
 | [July 29 at 10:10 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-29T10:09:49.361963+02:00.hyperlinks.json) |
 | [July 29 at 2:14 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-29T02:14:02.926722+02:00.hyperlinks.json) |
-| [July 28 at 3:12 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-28T15:11:58.333298+02:00.hyperlinks.json) |
-| [July 28 at 10:10 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-28T10:10:32.093383+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 225 accessibility trees with the Internet Archive.
+The archiving routine has saved 227 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 2:19 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-08-01T02:19:13.030143+02:00.accessibility.json) |
+| [July 31 at 3:19 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-31T15:18:58.874164+02:00.accessibility.json) |
 | [July 31 at 10:12 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-31T10:12:07.144789+02:00.accessibility.json) |
 | [July 31 at 2:27 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-31T02:27:23.160163+02:00.accessibility.json) |
 | [July 30 at 2:23 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-30T14:23:37.498976+02:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 2:18 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-29T14:18:01.930478+02:00.accessibility.json) |
 | [July 29 at 10:09 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-29T10:09:49.361963+02:00.accessibility.json) |
 | [July 29 at 2:14 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-29T02:14:02.926722+02:00.accessibility.json) |
-| [July 28 at 3:12 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-28T15:11:58.333298+02:00.accessibility.json) |
-| [July 28 at 10:10 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-28T10:10:32.093383+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 2:19 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-08-01T02:19:13.030143+02:00.lighthouse.json) |
+| [July 31 at 3:19 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-31T15:18:58.874164+02:00.lighthouse.json) |
 | [July 31 at 10:12 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-31T10:12:07.144789+02:00.lighthouse.json) |
 | [July 31 at 2:27 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-31T02:27:23.160163+02:00.lighthouse.json) |
 | [July 30 at 2:24 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-30T14:23:37.498976+02:00.lighthouse.json) |
@@ -450,8 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 2:18 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-29T14:18:01.930478+02:00.lighthouse.json) |
 | [July 29 at 10:10 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-29T10:09:49.361963+02:00.lighthouse.json) |
 | [July 29 at 2:14 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-29T02:14:02.926722+02:00.lighthouse.json) |
-| [July 28 at 3:12 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-28T15:11:58.333298+02:00.lighthouse.json) |
-| [July 28 at 10:10 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-07-28T10:10:32.093383+02:00.lighthouse.json) |
 
 
 

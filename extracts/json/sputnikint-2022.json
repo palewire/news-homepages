@@ -1,5 +1,5 @@
 {
-  "created": 1659265254,
+  "created": 1659280272,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/26/items/sputnikint-2022",
@@ -2230,31 +2230,83 @@
       "sha1": "f4bd804d81d40a284dac0e7f204754384c2ca3b8"
     },
     {
+      "name": "sputnikint-2022-07-31T16:31:10.044841+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659274273",
+      "size": "52796",
+      "md5": "4503e01d472eb5c9a9fecd16c1cf14ba",
+      "crc32": "48b056f8",
+      "sha1": "b6f9b67c2e54ed5bb7d470bbf9245b75979add02",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-07-31T16:31:10.044841+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659274274",
+      "size": "38748",
+      "md5": "f069a942a2abdbaa73d258d93715656e",
+      "crc32": "948e2929",
+      "sha1": "f527678856f906448ea2147c7c6cb4a4ae004565",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-07-31T16:31:10.044841+03:00.jpg",
+      "source": "original",
+      "mtime": "1659274271",
+      "size": "358810",
+      "md5": "d70cfd38e01b13fd8b2e0ebd3c06ea14",
+      "crc32": "63787555",
+      "sha1": "74d6991a9a74bdf226270bf110a37a4386d52de0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sputnikint-2022-07-31T16:31:10.044841+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659274276",
+      "size": "1468",
+      "md5": "619747efce3cdebd25d9bf973f408134",
+      "crc32": "6793139f",
+      "sha1": "98360825434a7ba5abba43a8460c8a31f1ccf7b3",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-07-31T16:31:10.044841+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sputnikint-2022-07-31T16:31:10.044841+03:00.jpg",
+      "mtime": "1659280053",
+      "size": "11826",
+      "md5": "dc32a2bfa537776310a85c4bf9605e62",
+      "crc32": "4e98ec26",
+      "sha1": "5424d730c38dffbd328e2bd5ef740d3fa2f1d42c"
+    },
+    {
       "name": "sputnikint-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f8ce7831ba952858827b05b52a410c97d3b68228",
-      "mtime": "1659265195",
-      "size": "46917",
-      "md5": "50fa4e60b601445c67ca5dfd0274f384",
-      "crc32": "5c0a0af9",
-      "sha1": "d9a54e7b794899c67189c89a2b6ac3398531514e",
+      "btih": "4f3d66255f666919ff6141e22baa2c1374d943fa",
+      "mtime": "1659280138",
+      "size": "47987",
+      "md5": "64f75a98b235679cae7a5d6d170afd7f",
+      "crc32": "9cf699c7",
+      "sha1": "75dfb4970125f9826b905a4404a5d9043a51fbc0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sputnikint-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "003c6c9e205ae655ef82ca711a623528",
+      "md5": "0a7590bf66762cea5cde777a97179348",
       "summation": "md5"
     },
     {
       "name": "sputnikint-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659244786",
-      "size": "274432",
-      "md5": "afdd9fc4f4074ca3eb28340e4cd141eb",
-      "crc32": "1ba67166",
-      "sha1": "cdb7c42904c5a9e041df940fb45d94c8e90d288f",
+      "mtime": "1659274279",
+      "size": "282624",
+      "md5": "4d922b972c9539776124009b78044d0d",
+      "crc32": "9ade2cda",
+      "sha1": "cec431029933cba4270a79adb1ba0656e45f4768",
       "format": "Metadata"
     },
     {
@@ -2268,9 +2320,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 217,
-  "item_last_updated": 1659265195,
-  "item_size": 21275250,
+  "files_count": 222,
+  "item_last_updated": 1659280138,
+  "item_size": 21748160,
   "metadata": {
     "identifier": "sputnikint-2022",
     "collection": [
@@ -2287,10 +2339,10 @@
     "publicdate": "2022-07-16 20:31:44",
     "addeddate": "2022-07-16 20:31:44"
   },
-  "server": "ia601502.us.archive.org",
-  "uniq": 2059535711,
+  "server": "ia801502.us.archive.org",
+  "uniq": 1546093129,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }

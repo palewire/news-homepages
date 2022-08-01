@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 451 screenshots with the Internet Archive.
+The archiving routine has saved 453 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-31T19:19:17.574783-05:00.jpg">
+  <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-31T19:19:17.574783-05:00.jpg"
+     alt="La Jornada at 2022-07-31 19:19:26-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-31T19:19:17.574783-05:00.jpg">July 31 at 7:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-31T08:17:37.489845-05:00.jpg">
+  <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-31T08:17:37.489845-05:00.jpg"
+     alt="La Jornada at 2022-07-31 08:17:39-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-31T08:17:37.489845-05:00.jpg">July 31 at 8:17 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-30T19:27:53.486400-05:00.jpg">
   <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-30T19:27:53.486400-05:00.jpg"
      alt="La Jornada at 2022-07-30 19:27:54-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-25T19:17:23.230988-05:00.jpg">July 25 at 7:17 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.jpg">
-  <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.jpg"
-     alt="La Jornada at 2022-07-25 08:12:20-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-25T08:12:18.939065-05:00.jpg">July 25 at 8:12 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-24T22:28:01.743571-05:00.jpg">
-  <img src="https://archive.org/download/lajornada-2022/lajornada-2022-07-24T22:28:01.743571-05:00.jpg"
-     alt="La Jornada at 2022-07-24 22:28:16-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-07-24T22:28:01.743571-05:00.jpg">July 24 at 10:28 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 461 hyperlink lists with the Internet Archive.
+The archiving routine has saved 463 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 7:19 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-31T19:19:17.574783-05:00.hyperlinks.json) |
+| [July 31 at 8:17 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-31T08:17:37.489845-05:00.hyperlinks.json) |
 | [July 30 at 7:27 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-30T19:27:53.486400-05:00.hyperlinks.json) |
 | [July 30 at 7:22 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-30T07:22:30.889522-05:00.hyperlinks.json) |
 | [July 29 at 7:11 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-29T19:10:57.520045-05:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 8:11 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-28T08:11:19.099384-05:00.hyperlinks.json) |
 | [July 27 at 7:06 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T19:05:47.378832-05:00.hyperlinks.json) |
 | [July 27 at 8:09 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T08:09:20.430997-05:00.hyperlinks.json) |
-| [July 26 at 7:14 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T19:14:23.027940-05:00.hyperlinks.json) |
-| [July 26 at 7:23 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T07:22:57.049281-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 447 accessibility trees with the Internet Archive.
+The archiving routine has saved 449 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 7:19 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-31T19:19:17.574783-05:00.accessibility.json) |
+| [July 31 at 8:17 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-31T08:17:37.489845-05:00.accessibility.json) |
 | [July 30 at 7:27 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-30T19:27:53.486400-05:00.accessibility.json) |
 | [July 30 at 7:22 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-30T07:22:30.889522-05:00.accessibility.json) |
 | [July 29 at 7:11 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-29T19:10:57.520045-05:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 8:11 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-28T08:11:19.099384-05:00.accessibility.json) |
 | [July 27 at 7:06 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T19:05:47.378832-05:00.accessibility.json) |
 | [July 27 at 8:09 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T08:09:20.430997-05:00.accessibility.json) |
-| [July 26 at 7:14 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T19:14:23.027940-05:00.accessibility.json) |
-| [July 26 at 7:23 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T07:22:57.049281-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 7:19 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-31T19:19:17.574783-05:00.lighthouse.json) |
+| [July 31 at 8:17 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-31T08:17:37.489845-05:00.lighthouse.json) |
 | [July 30 at 7:27 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-30T19:27:53.486400-05:00.lighthouse.json) |
 | [July 30 at 7:23 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-30T07:22:30.889522-05:00.lighthouse.json) |
 | [July 29 at 7:11 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-29T19:10:57.520045-05:00.lighthouse.json) |
@@ -450,8 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 8:11 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-28T08:11:19.099384-05:00.lighthouse.json) |
 | [July 27 at 7:06 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T19:05:47.378832-05:00.lighthouse.json) |
 | [July 27 at 8:09 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-27T08:09:20.430997-05:00.lighthouse.json) |
-| [July 26 at 7:14 PM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T19:14:23.027940-05:00.lighthouse.json) |
-| [July 26 at 7:23 AM](https://archive.org/download/lajornada-2022/lajornada-2022-07-26T07:22:57.049281-05:00.lighthouse.json) |
 
 
 

@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-08-01T06:05:53.689595+05:45.jpg">
+  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-08-01T06:05:53.689595+05:45.jpg"
+     alt="Naya Patrika at 2022-08-01 06:05:56+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-08-01T06:05:53.689595+05:45.jpg">August 1 at 6:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-31T19:05:12.918326+05:45.jpg">
+  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-31T19:05:12.918326+05:45.jpg"
+     alt="Naya Patrika at 2022-07-31 19:05:13+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-31T19:05:12.918326+05:45.jpg">July 31 at 7:05 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-31T06:13:40.529693+05:45.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-26T18:10:24.061439+05:45.jpg">July 26 at 6:10 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-26T06:05:25.221593+05:45.jpg">
-  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-26T06:05:25.221593+05:45.jpg"
-     alt="Naya Patrika at 2022-07-26 06:05:27+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-26T06:05:25.221593+05:45.jpg">July 26 at 6:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-25T19:01:25.162939+05:45.jpg">
-  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-25T19:01:25.162939+05:45.jpg"
-     alt="Naya Patrika at 2022-07-25 19:01:26+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-25T19:01:25.162939+05:45.jpg">July 25 at 7:01 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 14 hyperlink lists with the Internet Archive.
+The archiving routine has saved 16 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 6:05 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-08-01T06:05:53.689595+05:45.hyperlinks.json) |
+| [July 31 at 7:05 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-31T19:05:12.918326+05:45.hyperlinks.json) |
 | [July 31 at 6:13 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-31T06:13:40.529693+05:45.hyperlinks.json) |
 | [July 30 at 6:09 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-30T18:09:48.741196+05:45.hyperlinks.json) |
 | [July 30 at 5:57 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-30T05:57:53.342165+05:45.hyperlinks.json) |
@@ -156,13 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 6:58 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-28T18:58:50.713974+05:45.hyperlinks.json) |
 | [July 28 at 5:52 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-28T05:52:39.959608+05:45.hyperlinks.json) |
 | [July 27 at 6:56 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-27T18:56:48.151067+05:45.hyperlinks.json) |
-| [July 27 at 6:00 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-27T06:00:24.041308+05:45.hyperlinks.json) |
-| [July 26 at 6:10 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-26T18:10:24.061439+05:45.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 14 accessibility trees with the Internet Archive.
+The archiving routine has saved 16 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 6:05 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-08-01T06:05:53.689595+05:45.accessibility.json) |
+| [July 31 at 7:05 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-31T19:05:12.918326+05:45.accessibility.json) |
 | [July 31 at 6:13 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-31T06:13:40.529693+05:45.accessibility.json) |
 | [July 30 at 6:09 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-30T18:09:48.741196+05:45.accessibility.json) |
 | [July 30 at 5:57 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-30T05:57:53.342165+05:45.accessibility.json) |
@@ -178,14 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 6:58 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-28T18:58:50.713974+05:45.accessibility.json) |
 | [July 28 at 5:52 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-28T05:52:39.959608+05:45.accessibility.json) |
 | [July 27 at 6:56 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-27T18:56:48.151067+05:45.accessibility.json) |
-| [July 27 at 6:00 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-27T06:00:24.041308+05:45.accessibility.json) |
-| [July 26 at 6:10 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-26T18:10:24.061439+05:45.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 6:06 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-08-01T06:05:53.689595+05:45.lighthouse.json) |
+| [July 31 at 7:05 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-31T19:05:12.918326+05:45.lighthouse.json) |
 | [July 31 at 6:13 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-31T06:13:40.529693+05:45.lighthouse.json) |
 | [July 30 at 6:09 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-30T18:09:48.741196+05:45.lighthouse.json) |
 | [July 30 at 5:57 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-30T05:57:53.342165+05:45.lighthouse.json) |
@@ -201,8 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 6:58 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-28T18:58:50.713974+05:45.lighthouse.json) |
 | [July 28 at 5:52 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-28T05:52:39.959608+05:45.lighthouse.json) |
 | [July 27 at 6:56 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-27T18:56:48.151067+05:45.lighthouse.json) |
-| [July 27 at 6:00 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-27T06:00:24.041308+05:45.lighthouse.json) |
-| [July 26 at 6:10 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-07-26T18:10:24.061439+05:45.lighthouse.json) |
 
 
 

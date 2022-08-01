@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbs46-2022/cbs46-2022-07-31T09:29:47.513052-04:00.jpg">
+  <img src="https://archive.org/download/cbs46-2022/cbs46-2022-07-31T09:29:47.513052-04:00.jpg"
+     alt="CBS46 at 2022-07-31 09:29:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-07-31T09:29:47.513052-04:00.jpg">July 31 at 9:29 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbs46-2022/cbs46-2022-07-30T22:44:34.340816-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-07-25T22:58:26.338934-04:00.jpg">July 25 at 10:58 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cbs46-2022/cbs46-2022-07-25T21:31:30.444205-04:00.jpg">
-  <img src="https://archive.org/download/cbs46-2022/cbs46-2022-07-25T21:31:30.444205-04:00.jpg"
-     alt="CBS46 at 2022-07-25 21:31:32-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-07-25T21:31:30.444205-04:00.jpg">July 25 at 9:31 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 23 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 9:29 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-31T09:29:47.513052-04:00.hyperlinks.json) |
 | [July 30 at 10:44 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-30T22:44:34.340816-04:00.hyperlinks.json) |
 | [July 30 at 9:32 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-30T09:32:30.786580-04:00.hyperlinks.json) |
 | [July 29 at 9:20 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-29T21:20:27.209026-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 27 at 9:27 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-27T21:26:57.830694-04:00.hyperlinks.json) |
 | [July 27 at 9:19 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-27T09:19:23.026220-04:00.hyperlinks.json) |
 | [July 26 at 9:25 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-26T21:25:03.966567-04:00.hyperlinks.json) |
-| [July 26 at 9:27 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-26T09:27:32.202902-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 23 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 9:29 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-31T09:29:47.513052-04:00.accessibility.json) |
 | [July 30 at 10:44 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-30T22:44:34.340816-04:00.accessibility.json) |
 | [July 30 at 9:32 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-30T09:32:30.786580-04:00.accessibility.json) |
 | [July 29 at 9:20 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-29T21:20:27.209026-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 27 at 9:27 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-27T21:26:57.830694-04:00.accessibility.json) |
 | [July 27 at 9:19 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-27T09:19:23.026220-04:00.accessibility.json) |
 | [July 26 at 9:25 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-26T21:25:03.966567-04:00.accessibility.json) |
-| [July 26 at 9:27 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-26T09:27:32.202902-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 9:29 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-31T09:29:47.513052-04:00.lighthouse.json) |
 | [July 30 at 10:44 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-30T22:44:34.340816-04:00.lighthouse.json) |
 | [July 30 at 9:32 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-30T09:32:30.786580-04:00.lighthouse.json) |
 | [July 29 at 9:20 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-29T21:20:27.209026-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 9:27 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-27T21:26:57.830694-04:00.lighthouse.json) |
 | [July 27 at 9:19 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-27T09:19:23.026220-04:00.lighthouse.json) |
 | [July 26 at 9:25 PM](https://archive.org/download/cbs46-2022/cbs46-2022-07-26T21:25:03.966567-04:00.lighthouse.json) |
-| [July 26 at 9:27 AM](https://archive.org/download/cbs46-2022/cbs46-2022-07-26T09:27:32.202902-04:00.lighthouse.json) |
 
 
 

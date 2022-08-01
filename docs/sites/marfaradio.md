@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-31T19:19:32.537605-05:00.jpg">
+  <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-31T19:19:32.537605-05:00.jpg"
+     alt="Marfa Public Radio at 2022-07-31 19:19:34-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-31T19:19:32.537605-05:00.jpg">July 31 at 7:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-31T08:18:59.452387-05:00.jpg">
+  <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-31T08:18:59.452387-05:00.jpg"
+     alt="Marfa Public Radio at 2022-07-31 08:19:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-31T08:18:59.452387-05:00.jpg">July 31 at 8:19 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-30T19:28:42.067943-05:00.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-26T07:23:53.879328-05:00.jpg">July 26 at 7:23 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T19:19:47.464264-05:00.jpg">
-  <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T19:19:47.464264-05:00.jpg"
-     alt="Marfa Public Radio at 2022-07-25 19:19:49-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T19:19:47.464264-05:00.jpg">July 25 at 7:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T08:14:05.429898-05:00.jpg">
-  <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T08:14:05.429898-05:00.jpg"
-     alt="Marfa Public Radio at 2022-07-25 08:14:06-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-25T08:14:05.429898-05:00.jpg">July 25 at 8:14 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 7:19 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-31T19:19:32.537605-05:00.hyperlinks.json) |
+| [July 31 at 8:19 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-31T08:18:59.452387-05:00.hyperlinks.json) |
 | [July 30 at 7:28 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-30T19:28:42.067943-05:00.hyperlinks.json) |
 | [July 30 at 7:24 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-30T07:24:32.334885-05:00.hyperlinks.json) |
 | [July 29 at 7:11 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-29T19:11:41.595129-05:00.hyperlinks.json) |
@@ -156,13 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 8:12 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-28T08:12:47.675661-05:00.hyperlinks.json) |
 | [July 27 at 7:06 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-27T19:06:15.401670-05:00.hyperlinks.json) |
 | [July 27 at 8:09 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-27T08:09:44.415514-05:00.hyperlinks.json) |
-| [July 26 at 7:14 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-26T19:14:21.924334-05:00.hyperlinks.json) |
-| [July 26 at 7:24 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-26T07:23:53.879328-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 29 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 7:19 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-31T19:19:32.537605-05:00.accessibility.json) |
+| [July 31 at 8:19 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-31T08:18:59.452387-05:00.accessibility.json) |
 | [July 30 at 7:28 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-30T19:28:42.067943-05:00.accessibility.json) |
 | [July 30 at 7:24 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-30T07:24:32.334885-05:00.accessibility.json) |
 | [July 29 at 7:11 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-29T19:11:41.595129-05:00.accessibility.json) |
@@ -178,14 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 8:12 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-28T08:12:47.675661-05:00.accessibility.json) |
 | [July 27 at 7:06 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-27T19:06:15.401670-05:00.accessibility.json) |
 | [July 27 at 8:09 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-27T08:09:44.415514-05:00.accessibility.json) |
-| [July 26 at 7:14 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-26T19:14:21.924334-05:00.accessibility.json) |
-| [July 26 at 7:23 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-26T07:23:53.879328-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 7:19 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-31T19:19:32.537605-05:00.lighthouse.json) |
+| [July 31 at 8:19 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-31T08:18:59.452387-05:00.lighthouse.json) |
 | [July 30 at 7:28 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-30T19:28:42.067943-05:00.lighthouse.json) |
 | [July 30 at 7:24 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-30T07:24:32.334885-05:00.lighthouse.json) |
 | [July 29 at 7:11 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-29T19:11:41.595129-05:00.lighthouse.json) |
@@ -201,8 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 8:12 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-28T08:12:47.675661-05:00.lighthouse.json) |
 | [July 27 at 7:06 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-27T19:06:15.401670-05:00.lighthouse.json) |
 | [July 27 at 8:09 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-27T08:09:44.415514-05:00.lighthouse.json) |
-| [July 26 at 7:14 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-26T19:14:21.924334-05:00.lighthouse.json) |
-| [July 26 at 7:24 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-26T07:23:53.879328-05:00.lighthouse.json) |
 
 
 

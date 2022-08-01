@@ -1,5 +1,5 @@
 {
-  "created": 1659260761,
+  "created": 1659314176,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/1/items/timesherald-2022",
@@ -1142,31 +1142,83 @@
       "sha1": "5e72f760bb848a8dc49da368d97260841165a4aa"
     },
     {
+      "name": "timesherald-2022-07-31T09:34:06.413755-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659274449",
+      "size": "35263",
+      "md5": "b25108548e22354d32f8804aa0fd070a",
+      "crc32": "687681be",
+      "sha1": "008cc303641d602364e574a4279ba0c9b95a0d43",
+      "format": "JSON"
+    },
+    {
+      "name": "timesherald-2022-07-31T09:34:06.413755-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659274450",
+      "size": "26220",
+      "md5": "ab1836f0a203bb4b694c0626d774dfbb",
+      "crc32": "324b190b",
+      "sha1": "997bb868cc237022d9a2277bdb31af7e08c390f6",
+      "format": "JSON"
+    },
+    {
+      "name": "timesherald-2022-07-31T09:34:06.413755-04:00.jpg",
+      "source": "original",
+      "mtime": "1659274447",
+      "size": "259317",
+      "md5": "0329df610ba1706b79b68caefc1b52f1",
+      "crc32": "5f500a53",
+      "sha1": "e129ad3c0209c784c11cd0b4f6137bd2654897c3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesherald-2022-07-31T09:34:06.413755-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659274451",
+      "size": "1476",
+      "md5": "f8cde598b5575e0ec8361840b73d881a",
+      "crc32": "37655479",
+      "sha1": "a68f0413fed256d7681da236691c3ec45142ca93",
+      "format": "JSON"
+    },
+    {
+      "name": "timesherald-2022-07-31T09:34:06.413755-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesherald-2022-07-31T09:34:06.413755-04:00.jpg",
+      "mtime": "1659280120",
+      "size": "8541",
+      "md5": "cd966cef82437223e7125f2d99e2afd4",
+      "crc32": "c74c40e0",
+      "sha1": "9c722ce0b8784f39e38b70652dd9590144dc7535"
+    },
+    {
       "name": "timesherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bcd2db3113bcf55e84c1dfeea8eebf3e334e7117",
-      "mtime": "1659260690",
-      "size": "24662",
-      "md5": "8b63a7994a73352f0bbf370025b251dd",
-      "crc32": "d2e712fb",
-      "sha1": "31f38cf63dd2a4387586f14271bd45e408fba129",
+      "btih": "9a1dc96fc6a2da7be264bfec1d5a9de8d8dc7f5e",
+      "mtime": "1659280124",
+      "size": "25736",
+      "md5": "15e6fa0dfe676182572df863f347e69f",
+      "crc32": "08478b58",
+      "sha1": "2e74b5a5f7488c0a26801a4f77308f507600cd14",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4beb0ca1584b57f07c67fda1ca735429",
+      "md5": "cd0bd94b1418f1ec5b7b0803f2af4f98",
       "summation": "md5"
     },
     {
       "name": "timesherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659235798",
-      "size": "155648",
-      "md5": "cbbfc752564919ca55d9f481b400241d",
-      "crc32": "ef693724",
-      "sha1": "e39c976cd75ad8a44f2f2c74cae75515286c94ef",
+      "mtime": "1659274456",
+      "size": "159744",
+      "md5": "4889367863d61c0d7a14842c9ab4eb56",
+      "crc32": "21b57731",
+      "sha1": "ae472ddf0271b051d885ba843c31a21ca45dda2e",
       "format": "Metadata"
     },
     {
@@ -1180,9 +1232,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 113,
-  "item_last_updated": 1659260690,
-  "item_size": 7109623,
+  "files_count": 118,
+  "item_last_updated": 1659280124,
+  "item_size": 7445610,
   "metadata": {
     "identifier": "timesherald-2022",
     "collection": [
@@ -1200,7 +1252,48 @@
     "addeddate": "2022-07-20 23:31:58"
   },
   "server": "ia601407.us.archive.org",
-  "uniq": 82336895,
+  "timesherald-2022": [
+    {
+      "url": "https://times-herald.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/times_herald_com-_-2022_07_31_13_09_47.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/times_herald_com-_-2022_07_31_13_09_47.report.json",
+      "summary": {
+        "performance": 0.21,
+        "accessibility": 0.65,
+        "best-practices": 0.83,
+        "seo": 0.74,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://times-herald.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/times_herald_com-_-2022_07_31_13_10_32.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/times_herald_com-_-2022_07_31_13_10_32.report.json",
+      "summary": {
+        "performance": 0.2,
+        "accessibility": 0.65,
+        "best-practices": 0.75,
+        "seo": 0.74,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://times-herald.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/times_herald_com-_-2022_07_31_13_10_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/times_herald_com-_-2022_07_31_13_10_13.report.json",
+      "summary": {
+        "performance": 0.22,
+        "accessibility": 0.65,
+        "best-practices": 0.75,
+        "seo": 0.74,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "uniq": 1371165486,
   "workable_servers": [
     "ia601407.us.archive.org",
     "ia801407.us.archive.org"

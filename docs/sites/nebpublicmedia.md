@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-07-31T19:20:55.651166-05:00.jpg">
+  <img src="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-07-31T19:20:55.651166-05:00.jpg"
+     alt="Nebraska Public Media at 2022-07-31 19:20:57-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-07-31T19:20:55.651166-05:00.jpg">July 31 at 7:20 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-07-31T08:20:00.000634-05:00.jpg">
+  <img src="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-07-31T08:20:00.000634-05:00.jpg"
+     alt="Nebraska Public Media at 2022-07-31 08:20:02-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-07-31T08:20:00.000634-05:00.jpg">July 31 at 8:20 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-07-30T19:30:04.760348-05:00.jpg">
@@ -50,7 +68,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 2 hyperlink lists with the Internet Archive.
+The archiving routine has saved 4 hyperlink lists with the Internet Archive.
 
 
 
@@ -58,13 +76,15 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 7:21 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-07-31T19:20:55.651166-05:00.hyperlinks.json) |
+| [July 31 at 8:20 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-07-31T08:20:00.000634-05:00.hyperlinks.json) |
 | [July 30 at 7:30 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-07-30T19:30:04.760348-05:00.hyperlinks.json) |
 | [July 30 at 2:35 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-07-30T14:34:51.525464-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 2 accessibility trees with the Internet Archive.
+The archiving routine has saved 4 accessibility trees with the Internet Archive.
 
 
 
@@ -72,6 +92,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 7:20 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-07-31T19:20:55.651166-05:00.accessibility.json) |
+| [July 31 at 8:20 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-07-31T08:20:00.000634-05:00.accessibility.json) |
 | [July 30 at 7:30 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-07-30T19:30:04.760348-05:00.accessibility.json) |
 | [July 30 at 2:35 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-07-30T14:34:51.525464-05:00.accessibility.json) |
 
@@ -79,7 +101,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 2 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 4 Lighthouse audits with the Internet Archive.
 
 
 
@@ -87,6 +109,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 7:21 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-07-31T19:20:55.651166-05:00.lighthouse.json) |
+| [July 31 at 8:20 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-07-31T08:20:00.000634-05:00.lighthouse.json) |
 | [July 30 at 7:30 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-07-30T19:30:04.760348-05:00.lighthouse.json) |
 | [July 30 at 2:35 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-07-30T14:34:51.525464-05:00.lighthouse.json) |
 

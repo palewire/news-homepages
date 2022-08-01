@@ -3,8 +3,21 @@
     {
       "url": "https://www.columbiamissourian.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_columbiamissourian_com-_-2022_07_31_10_49_07.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_columbiamissourian_com-_-2022_07_31_10_49_07.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_columbiamissourian_com-_-2022_07_31_22_56_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_columbiamissourian_com-_-2022_07_31_22_56_50.report.json",
+      "summary": {
+        "performance": 0.17,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.columbiamissourian.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_columbiamissourian_com-_-2022_07_31_22_58_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_columbiamissourian_com-_-2022_07_31_22_58_01.report.json",
       "summary": {
         "performance": 0.16,
         "accessibility": 0.96,
@@ -15,32 +28,19 @@
     },
     {
       "url": "https://www.columbiamissourian.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_columbiamissourian_com-_-2022_07_31_10_50_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_columbiamissourian_com-_-2022_07_31_10_50_20.report.json",
-      "summary": {
-        "performance": 0.2,
-        "accessibility": 0.96,
-        "best-practices": 0.83,
-        "seo": 0.91,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.columbiamissourian.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_columbiamissourian_com-_-2022_07_31_10_51_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_columbiamissourian_com-_-2022_07_31_10_51_26.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_columbiamissourian_com-_-2022_07_31_22_55_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_columbiamissourian_com-_-2022_07_31_22_55_36.report.json",
       "summary": {
-        "performance": 0.22,
+        "performance": 0.16,
         "accessibility": 0.96,
-        "best-practices": 0.83,
+        "best-practices": 0.92,
         "seo": 0.91,
         "pwa": 0.3
       }
     }
   ],
-  "created": 1659269553,
+  "created": 1659313651,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/35/items/comissourian-2022",
@@ -2508,31 +2508,94 @@
       "format": "JSON"
     },
     {
+      "name": "comissourian-2022-07-31T06:09:57.799698-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-07-31T06:09:57.799698-05:00.jpg",
+      "mtime": "1659275861",
+      "size": "9206",
+      "md5": "8ffc4b7c62a5fb307fd7f2158d561250",
+      "crc32": "47ff1a94",
+      "sha1": "992e8df963e0ab29784ea5319da788ceb2cf4155"
+    },
+    {
+      "name": "comissourian-2022-07-31T19:11:24.624168-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659312688",
+      "size": "30817",
+      "md5": "5c79c7239230825bdbd79588d361af13",
+      "crc32": "3fb74cdc",
+      "sha1": "54f9dcfab8525355bea3118ed9ecefc52d9135c3",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-07-31T19:11:24.624168-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659312689",
+      "size": "45094",
+      "md5": "38f493d268da3ca114d568ab772f76ff",
+      "crc32": "41d835e3",
+      "sha1": "103e21159f2dc480f2c32624dcb9f7186e26eb66",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-07-31T19:11:24.624168-05:00.jpg",
+      "source": "original",
+      "mtime": "1659312687",
+      "size": "348187",
+      "md5": "471bbc1e6176c045d6cf86339dd58afa",
+      "crc32": "136d730b",
+      "sha1": "3ab84ac6fce9335e776c38d0cd48f50cb298014b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "comissourian-2022-07-31T19:11:24.624168-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659312691",
+      "size": "1567",
+      "md5": "39b98c859f3a5f0882ab24f7e02890cb",
+      "crc32": "0cf2353c",
+      "sha1": "922842139866a8177e6e704794dcad437e3d0ad6",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-07-31T19:11:24.624168-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-07-31T19:11:24.624168-05:00.jpg",
+      "mtime": "1659312936",
+      "size": "9681",
+      "md5": "8e557c48ca083b4a506cf45937d70a24",
+      "crc32": "d8c66f0d",
+      "sha1": "28d44425dd3459745f8b75bf5437a77d0bacd80b"
+    },
+    {
       "name": "comissourian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d2c639834f825494979c90a20909207a834dd3eb",
-      "mtime": "1659265844",
-      "size": "52035",
-      "md5": "491509cf2ed7940caff0b28bfba8f2bc",
-      "crc32": "dc15fc1e",
-      "sha1": "8222cb4579875f025e102169c270e173ec962dde",
+      "btih": "03dd76ae5cd6fbee9c11dd05ce296aba8ab2751d",
+      "mtime": "1659312953",
+      "size": "53322",
+      "md5": "1d8cfc3949805809922be1ec743eaf20",
+      "crc32": "64101f5d",
+      "sha1": "619767a391745eb7938005903fe2e93e629fdb15",
       "format": "Archive BitTorrent"
     },
     {
       "name": "comissourian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a64ec5bd0dedc7e4dd4c63528d31be99",
+      "md5": "d6b676c29f6b7a09a683103872ee3290",
       "summation": "md5"
     },
     {
       "name": "comissourian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659265808",
-      "size": "294912",
-      "md5": "68e5c51543d8e3ea4d27065b65287e3e",
-      "crc32": "53f1c7c2",
-      "sha1": "2468fd8c54857172c519dd9f1aab903a0a5a09fb",
+      "mtime": "1659312695",
+      "size": "299008",
+      "md5": "21d7303c589922095701ab105b4cb6ee",
+      "crc32": "40ae7b9d",
+      "sha1": "36137adc14c68a53fb735f36a834c2b653d6943b",
       "format": "Metadata"
     },
     {
@@ -2546,9 +2609,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 239,
-  "item_last_updated": 1659265844,
-  "item_size": 24359322,
+  "files_count": 245,
+  "item_last_updated": 1659312953,
+  "item_size": 24809257,
   "metadata": {
     "identifier": "comissourian-2022",
     "collection": [
@@ -2565,21 +2628,10 @@
     "publicdate": "2022-07-04 20:47:01",
     "addeddate": "2022-07-04 20:47:01"
   },
-  "pending_tasks": true,
   "server": "ia902501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3348711879,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 958116901,
+  "uniq": 1657083524,
   "workable_servers": [
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

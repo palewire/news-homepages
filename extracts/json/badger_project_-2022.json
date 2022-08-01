@@ -1,5 +1,46 @@
 {
-  "created": 1659260526,
+  "badger_project_-2022": [
+    {
+      "url": "https://thebadgerproject.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thebadgerproject_org-_-2022_07_31_12_58_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thebadgerproject_org-_-2022_07_31_12_58_51.report.json",
+      "summary": {
+        "performance": 0.44,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.89,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://thebadgerproject.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thebadgerproject_org-_-2022_07_31_12_59_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thebadgerproject_org-_-2022_07_31_12_59_09.report.json",
+      "summary": {
+        "performance": 0.51,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.89,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://thebadgerproject.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thebadgerproject_org-_-2022_07_31_12_59_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thebadgerproject_org-_-2022_07_31_12_59_27.report.json",
+      "summary": {
+        "performance": 0.45,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.89,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "created": 1659313597,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/9/items/badger_project_-2022",
@@ -2108,31 +2149,83 @@
       "sha1": "1f071b55ba718b26e5dfe478418b8240c6c66b17"
     },
     {
+      "name": "badger_project_-2022-07-31T08:28:20.193394-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659274104",
+      "size": "103",
+      "md5": "b4f3f851079d78e56bd25a069e93be0d",
+      "crc32": "0294a5d1",
+      "sha1": "1260950839b50d7166ce550a94de08942d1e6402",
+      "format": "JSON"
+    },
+    {
+      "name": "badger_project_-2022-07-31T08:28:20.193394-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659274106",
+      "size": "25651",
+      "md5": "3b1d4320c9b966b4bb2cd26a6e8a7291",
+      "crc32": "5a973098",
+      "sha1": "5a98de8e17d635b93bbbfea9d5f9bf539d1f950f",
+      "format": "JSON"
+    },
+    {
+      "name": "badger_project_-2022-07-31T08:28:20.193394-05:00.jpg",
+      "source": "original",
+      "mtime": "1659274102",
+      "size": "316595",
+      "md5": "f43bdef423ffca7658a92db054b9afa3",
+      "crc32": "5211121a",
+      "sha1": "d25e33f38a5c7c8b2dd6af99bf19491ed2d2113c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "badger_project_-2022-07-31T08:28:20.193394-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659274107",
+      "size": "1513",
+      "md5": "340bb81dbf545572bc3a9b1c2a1e8b33",
+      "crc32": "0e438347",
+      "sha1": "3e82f57414611566d1f34209e87cfed50c0789a7",
+      "format": "JSON"
+    },
+    {
+      "name": "badger_project_-2022-07-31T08:28:20.193394-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "badger_project_-2022-07-31T08:28:20.193394-05:00.jpg",
+      "mtime": "1659280086",
+      "size": "9267",
+      "md5": "3629611a0749c42aa8bb851e3955bee1",
+      "crc32": "ec29f9f2",
+      "sha1": "da0b6c9c99f6237c2c338f7c63002259c7bf535f"
+    },
+    {
       "name": "badger_project_-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2856e10660fac3fa4a873180facf7db359393b99",
-      "mtime": "1659260498",
-      "size": "45150",
-      "md5": "932e5ce772aca45eb9969ee9b29f7993",
-      "crc32": "77ed6091",
-      "sha1": "df85b02b6ade3c1b2b6b1a591c49891edd054d7a",
+      "btih": "d4e868d8e404af0e284e7370844889e0bb41a23b",
+      "mtime": "1659280211",
+      "size": "46242",
+      "md5": "a8e9693e5ef3daca2e0fe1c5134424ee",
+      "crc32": "bcae232e",
+      "sha1": "a966e1c46c74ccc727a3722a9905982235816b22",
       "format": "Archive BitTorrent"
     },
     {
       "name": "badger_project_-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3cde90c865505c41a96d44f585f23f5f",
+      "md5": "b12446c4c9d827c3aef8d7f0109d9fdd",
       "summation": "md5"
     },
     {
       "name": "badger_project_-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659235372",
-      "size": "262144",
-      "md5": "3b4f1a04944a7bfb1400750764a2ae87",
-      "crc32": "1bdf4356",
-      "sha1": "5e5ffc89bf3b6ac90cea91eef3d717501f325b48",
+      "mtime": "1659274111",
+      "size": "266240",
+      "md5": "7bde0b78b0a79cf003700196782686bc",
+      "crc32": "7394fafe",
+      "sha1": "2abf5efc081c7ea5167188edc2321f29faf06ac4",
       "format": "Metadata"
     },
     {
@@ -2146,9 +2239,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 205,
-  "item_last_updated": 1659260498,
-  "item_size": 17012591,
+  "files_count": 210,
+  "item_last_updated": 1659280211,
+  "item_size": 17370908,
   "metadata": {
     "identifier": "badger_project_-2022",
     "collection": [
@@ -2166,7 +2259,7 @@
     "addeddate": "2022-07-09 03:56:20"
   },
   "server": "ia601503.us.archive.org",
-  "uniq": 1651440602,
+  "uniq": 1262968418,
   "workable_servers": [
     "ia601503.us.archive.org",
     "ia801503.us.archive.org"

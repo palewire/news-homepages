@@ -1,5 +1,5 @@
 {
-  "created": 1659263765,
+  "created": 1659285011,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/9/items/scsentinel-2022",
@@ -2362,31 +2362,83 @@
       "sha1": "b6048fc48f628b833ac727e430f6a18611bfbd1d"
     },
     {
+      "name": "scsentinel-2022-07-31T08:55:57.628133-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659282960",
+      "size": "38852",
+      "md5": "ed2cece04f77f63e61b0c3abb8c1cd37",
+      "crc32": "ad3dcb6a",
+      "sha1": "e030917036c72bbe6b9d55cf75f8c525d1b1f73c",
+      "format": "JSON"
+    },
+    {
+      "name": "scsentinel-2022-07-31T08:55:57.628133-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659282961",
+      "size": "44353",
+      "md5": "0eb3112db196e93ea9370dc8f8dd495a",
+      "crc32": "7dc18b59",
+      "sha1": "bf7aef8959f382bb64b88f354be988080bc06a05",
+      "format": "JSON"
+    },
+    {
+      "name": "scsentinel-2022-07-31T08:55:57.628133-07:00.jpg",
+      "source": "original",
+      "mtime": "1659282958",
+      "size": "259438",
+      "md5": "48b1a21d121d89fc7e316076fcf4121d",
+      "crc32": "29121c77",
+      "sha1": "0268ff15cfa7d71d253ae4940a95b5137376fb92",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scsentinel-2022-07-31T08:55:57.628133-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659282962",
+      "size": "1558",
+      "md5": "a98b5d0916b3f9ceda09b29d4750c1af",
+      "crc32": "b4f6358e",
+      "sha1": "46a079acc8c3dfd7d8259ae35eaeab1ee30293e4",
+      "format": "JSON"
+    },
+    {
+      "name": "scsentinel-2022-07-31T08:55:57.628133-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scsentinel-2022-07-31T08:55:57.628133-07:00.jpg",
+      "mtime": "1659284969",
+      "size": "9522",
+      "md5": "941a5be83ba65f24289b535fa5e41e25",
+      "crc32": "a143ad9f",
+      "sha1": "f736d22d172bf57576d9344aef911176e8a491bc"
+    },
+    {
       "name": "scsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5f07f5a89a36e53d025400ad4ee62de5fab80564",
-      "mtime": "1659263753",
-      "size": "49264",
-      "md5": "c260062b78c645d4a774262a71ae6dda",
-      "crc32": "f97b982c",
-      "sha1": "125bc30660c390cc2163e8dc3228a5dca78812d6",
+      "btih": "168e17feef2d28f37b64f1da8a7b279b3ac5bc8a",
+      "mtime": "1659284987",
+      "size": "50333",
+      "md5": "1f70d038e0d153cd8c545a3703438a8c",
+      "crc32": "d6051afe",
+      "sha1": "92ce5c35df44f2d59df97e48617108a0d4d32f55",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cf02a20fbff4ac0e5cc365a7b7e7969f",
+      "md5": "3ee2bdd0008b52651e59719fafe0d884",
       "summation": "md5"
     },
     {
       "name": "scsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659240402",
-      "size": "282624",
-      "md5": "cced07f0f2e204ed3939bf2b21559c98",
-      "crc32": "9b15232f",
-      "sha1": "9ab5decc8e656192e9cf3ab6c799baafc7835091",
+      "mtime": "1659282967",
+      "size": "290816",
+      "md5": "86302e3ed885c87a54801237d040c6f1",
+      "crc32": "ea5d3bd3",
+      "sha1": "c80ab1504750d0788155d6d535e0bacec5c68c96",
       "format": "Metadata"
     },
     {
@@ -2400,9 +2452,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 229,
-  "item_last_updated": 1659263753,
-  "item_size": 19266922,
+  "files_count": 234,
+  "item_last_updated": 1659284987,
+  "item_size": 19629906,
   "metadata": {
     "identifier": "scsentinel-2022",
     "collection": [
@@ -2419,10 +2471,10 @@
     "publicdate": "2022-07-09 04:02:13",
     "addeddate": "2022-07-09 04:02:13"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 1567036102,
+  "server": "ia801400.us.archive.org",
+  "uniq": 226915463,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

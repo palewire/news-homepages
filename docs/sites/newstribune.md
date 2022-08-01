@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 54 screenshots with the Internet Archive.
+The archiving routine has saved 56 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-31T19:21:56.012467-05:00.jpg">
+  <img src="https://archive.org/download/newstribune-2022/newstribune-2022-07-31T19:21:56.012467-05:00.jpg"
+     alt="Jefferson City News Tribune at 2022-07-31 19:21:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-31T19:21:56.012467-05:00.jpg">July 31 at 7:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-31T08:20:58.038118-05:00.jpg">
+  <img src="https://archive.org/download/newstribune-2022/newstribune-2022-07-31T08:20:58.038118-05:00.jpg"
+     alt="Jefferson City News Tribune at 2022-07-31 08:20:59-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-31T08:20:58.038118-05:00.jpg">July 31 at 8:20 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-30T19:30:56.927595-05:00.jpg">
   <img src="https://archive.org/download/newstribune-2022/newstribune-2022-07-30T19:30:56.927595-05:00.jpg"
      alt="Jefferson City News Tribune at 2022-07-30 19:30:58-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-26T07:26:39.786833-05:00.jpg">July 26 at 7:26 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-25T19:21:52.610171-05:00.jpg">
-  <img src="https://archive.org/download/newstribune-2022/newstribune-2022-07-25T19:21:52.610171-05:00.jpg"
-     alt="Jefferson City News Tribune at 2022-07-25 19:21:54-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-25T19:21:52.610171-05:00.jpg">July 25 at 7:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-25T08:17:14.005238-05:00.jpg">
-  <img src="https://archive.org/download/newstribune-2022/newstribune-2022-07-25T08:17:14.005238-05:00.jpg"
-     alt="Jefferson City News Tribune at 2022-07-25 08:17:16-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-25T08:17:14.005238-05:00.jpg">July 25 at 8:17 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 52 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 7:22 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-31T19:21:56.012467-05:00.hyperlinks.json) |
+| [July 31 at 8:21 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-31T08:20:58.038118-05:00.hyperlinks.json) |
 | [July 30 at 7:31 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-30T19:30:56.927595-05:00.hyperlinks.json) |
 | [July 30 at 7:26 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-30T07:26:32.224071-05:00.hyperlinks.json) |
 | [July 29 at 7:14 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-29T19:13:56.601854-05:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 8:15 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-28T08:15:17.950477-05:00.hyperlinks.json) |
 | [July 27 at 7:08 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-27T19:08:14.422605-05:00.hyperlinks.json) |
 | [July 27 at 8:12 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-27T08:11:59.892677-05:00.hyperlinks.json) |
-| [July 26 at 7:16 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-26T19:16:45.372136-05:00.hyperlinks.json) |
-| [July 26 at 7:26 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-26T07:26:39.786833-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 54 accessibility trees with the Internet Archive.
+The archiving routine has saved 56 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 7:22 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-31T19:21:56.012467-05:00.accessibility.json) |
+| [July 31 at 8:21 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-31T08:20:58.038118-05:00.accessibility.json) |
 | [July 30 at 7:31 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-30T19:30:56.927595-05:00.accessibility.json) |
 | [July 30 at 7:26 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-30T07:26:32.224071-05:00.accessibility.json) |
 | [July 29 at 7:13 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-29T19:13:56.601854-05:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 8:15 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-28T08:15:17.950477-05:00.accessibility.json) |
 | [July 27 at 7:08 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-27T19:08:14.422605-05:00.accessibility.json) |
 | [July 27 at 8:12 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-27T08:11:59.892677-05:00.accessibility.json) |
-| [July 26 at 7:16 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-26T19:16:45.372136-05:00.accessibility.json) |
-| [July 26 at 7:26 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-26T07:26:39.786833-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 7:22 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-31T19:21:56.012467-05:00.lighthouse.json) |
+| [July 31 at 8:21 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-31T08:20:58.038118-05:00.lighthouse.json) |
 | [July 30 at 7:31 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-30T19:30:56.927595-05:00.lighthouse.json) |
 | [July 30 at 7:26 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-30T07:26:32.224071-05:00.lighthouse.json) |
 | [July 29 at 7:14 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-29T19:13:56.601854-05:00.lighthouse.json) |
@@ -450,8 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 8:15 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-28T08:15:17.950477-05:00.lighthouse.json) |
 | [July 27 at 7:08 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-27T19:08:14.422605-05:00.lighthouse.json) |
 | [July 27 at 8:12 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-27T08:11:59.892677-05:00.lighthouse.json) |
-| [July 26 at 7:16 PM](https://archive.org/download/newstribune-2022/newstribune-2022-07-26T19:16:45.372136-05:00.lighthouse.json) |
-| [July 26 at 7:26 AM](https://archive.org/download/newstribune-2022/newstribune-2022-07-26T07:26:39.786833-05:00.lighthouse.json) |
 
 
 

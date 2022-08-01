@@ -1,5 +1,5 @@
 {
-  "created": 1659261211,
+  "created": 1659282531,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/27/items/mwtnews-2022",
@@ -1270,31 +1270,83 @@
       "sha1": "892f6bc21224f9dd8e223d17c3dceda97ad83034"
     },
     {
+      "name": "mwtnews-2022-07-31T09:44:19.010544-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659278661",
+      "size": "57338",
+      "md5": "fe1351062fd6518337710540d306b101",
+      "crc32": "63c41b09",
+      "sha1": "744ccb2118db9346938d4c572b5a80ba64aeefde",
+      "format": "JSON"
+    },
+    {
+      "name": "mwtnews-2022-07-31T09:44:19.010544-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659278663",
+      "size": "70700",
+      "md5": "62ca5e00b847e5409686626ee1f5a946",
+      "crc32": "57e4f4ca",
+      "sha1": "6b36d73e795004c54976e840c3466c5649fb4906",
+      "format": "JSON"
+    },
+    {
+      "name": "mwtnews-2022-07-31T09:44:19.010544-05:00.jpg",
+      "source": "original",
+      "mtime": "1659278660",
+      "size": "311184",
+      "md5": "be8385cb0e7ffa551c4b520ce867d8f3",
+      "crc32": "d42802f5",
+      "sha1": "e795bd86e4d7a3433e400656c87ac1f59489e1ea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mwtnews-2022-07-31T09:44:19.010544-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659278664",
+      "size": "1429",
+      "md5": "3fcdfdfd3a1163ddb1621997f6b74ced",
+      "crc32": "ac092cfb",
+      "sha1": "48fd50a26c74e20f1e80730a0ff66175ce5f99bb",
+      "format": "JSON"
+    },
+    {
+      "name": "mwtnews-2022-07-31T09:44:19.010544-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mwtnews-2022-07-31T09:44:19.010544-05:00.jpg",
+      "mtime": "1659282494",
+      "size": "10105",
+      "md5": "7bac141051187b16ed4a8d7d8def0689",
+      "crc32": "5df8e7f4",
+      "sha1": "4995a7e1e554f9ac299f38399bd37210fbce0f77"
+    },
+    {
       "name": "mwtnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ecf0763d1b9a5527c3b61d30658a8aa959e8c37a",
-      "mtime": "1659261142",
-      "size": "26867",
-      "md5": "80fa37cd7eea8b2ccc53cf4fd74615dc",
-      "crc32": "9999d132",
-      "sha1": "6daaf01b73363dc762b5fed1d55cf4f50b8b6dc6",
+      "btih": "c834ba766029ec3573e26f6008e58f9e074b0678",
+      "mtime": "1659282505",
+      "size": "27902",
+      "md5": "39ddb7e834ec936bd54b99fbc605d11e",
+      "crc32": "34b9641a",
+      "sha1": "2b411622c40dbf013827565c29e6ed5c2f0337df",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mwtnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "507e7d4c1e4b68d32145b38fed2666f7",
+      "md5": "207d310662b273c3c205fc7db17316ed",
       "summation": "md5"
     },
     {
       "name": "mwtnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659236526",
-      "size": "163840",
-      "md5": "5a09e54f8b91c237731b1db5c2e4be1a",
-      "crc32": "e6faf5ce",
-      "sha1": "0b3b02c9c3c25df94054a372439665be787f7573",
+      "mtime": "1659278667",
+      "size": "172032",
+      "md5": "07d18beb8e0d6f94d0f6b20a831e3ed5",
+      "crc32": "4622549d",
+      "sha1": "190558bb7ab77c60fc59fb0ef3ad9f2698770c7b",
       "format": "Metadata"
     },
     {
@@ -1308,9 +1360,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 125,
-  "item_last_updated": 1659261142,
-  "item_size": 12095557,
+  "files_count": 130,
+  "item_last_updated": 1659282505,
+  "item_size": 12555540,
   "metadata": {
     "identifier": "mwtnews-2022",
     "collection": [
@@ -1327,10 +1379,10 @@
     "publicdate": "2022-07-18 00:04:52",
     "addeddate": "2022-07-18 00:04:52"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 58026356,
+  "server": "ia801505.us.archive.org",
+  "uniq": 764878421,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

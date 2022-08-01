@@ -1,5 +1,5 @@
 {
-  "created": 1659269749,
+  "created": 1659313809,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/23/items/kgounews-2022",
@@ -2056,31 +2056,83 @@
       "sha1": "882ac358dd692820f649f49ea70c474306a0bb5d"
     },
     {
+      "name": "kgounews-2022-07-31T09:38:55.839296-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659278341",
+      "size": "21966",
+      "md5": "922c48a51fdf9a6259f635ecc85bfc23",
+      "crc32": "d450f93a",
+      "sha1": "db4e032ea3b938df92d807f9d93e8528ddf65c1b",
+      "format": "JSON"
+    },
+    {
+      "name": "kgounews-2022-07-31T09:38:55.839296-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659278343",
+      "size": "37207",
+      "md5": "3dbb90150c5150015b8b9ab0a6751603",
+      "crc32": "14041837",
+      "sha1": "e98a09284fb07133376024371f5e186d6cb72338",
+      "format": "JSON"
+    },
+    {
+      "name": "kgounews-2022-07-31T09:38:55.839296-05:00.jpg",
+      "source": "original",
+      "mtime": "1659278340",
+      "size": "276308",
+      "md5": "cfdecda024309c2bfd3df30443b1df22",
+      "crc32": "884f0c76",
+      "sha1": "854003067cb384e7de06f07bb78c4884d1301dea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kgounews-2022-07-31T09:38:55.839296-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659278345",
+      "size": "1441",
+      "md5": "61db50b6d90265688f85e613fe4f2821",
+      "crc32": "0772bde4",
+      "sha1": "4a8e4a896d79b4b47d612ae106c2ed95d1d89fff",
+      "format": "JSON"
+    },
+    {
+      "name": "kgounews-2022-07-31T09:38:55.839296-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kgounews-2022-07-31T09:38:55.839296-05:00.jpg",
+      "mtime": "1659282270",
+      "size": "10978",
+      "md5": "99096226cd8cff81669b5c859ec14258",
+      "crc32": "6b0dc0b6",
+      "sha1": "7745ae415aa5f3fb08350b39dab3a79597bbd1fc"
+    },
+    {
       "name": "kgounews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d817e7ee6630ce0bd74e5aeef55b26848c3cd1f6",
-      "mtime": "1659260975",
-      "size": "42683",
-      "md5": "4bd56119ed2cff471c02ff356a074fd9",
-      "crc32": "7c818323",
-      "sha1": "2b1edf4fbd81104ee98dbd79715dbcfc51211171",
+      "btih": "08a843f49c50444db3e21b0b25e59675aa8b959f",
+      "mtime": "1659282280",
+      "size": "43723",
+      "md5": "e96ab887520fb353d158b420782d508d",
+      "crc32": "ff6e00c3",
+      "sha1": "fc2f298167553ef8f64c6bc37d24fb90b17d47db",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kgounews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1e0fbf12d0134ae4b2a341bbb857115c",
+      "md5": "3e2d1da706782cb6ce013aadf630592b",
       "summation": "md5"
     },
     {
       "name": "kgounews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659236337",
-      "size": "249856",
-      "md5": "a458677517712ab383652863b136dd92",
-      "crc32": "48b13a36",
-      "sha1": "6d3a520c4d5896b368f98a9c5061fcf4aa53c566",
+      "mtime": "1659278348",
+      "size": "258048",
+      "md5": "686fcc4ac2d5626519be34e5b94bd322",
+      "crc32": "f44df57f",
+      "sha1": "0733fde131fe44606297066ae5f721a0523c8f29",
       "format": "Metadata"
     },
     {
@@ -2094,46 +2146,46 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 200,
-  "item_last_updated": 1659260975,
-  "item_size": 14815296,
+  "files_count": 205,
+  "item_last_updated": 1659282280,
+  "item_size": 15172428,
   "kgounews-2022": [
     {
       "url": "https://www.kgou.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kgou_org-_-2022_07_31_02_27_22.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kgou_org-_-2022_07_31_02_27_22.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kgou_org-_-2022_07_31_14_17_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kgou_org-_-2022_07_31_14_17_52.report.json",
       "summary": {
-        "performance": 0.41,
+        "performance": 0.48,
         "accessibility": 0.98,
         "best-practices": 0.92,
-        "seo": 0.99,
+        "seo": 0.98,
         "pwa": 0.4
       }
     },
     {
       "url": "https://www.kgou.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kgou_org-_-2022_07_31_02_27_39.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kgou_org-_-2022_07_31_02_27_39.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kgou_org-_-2022_07_31_14_18_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kgou_org-_-2022_07_31_14_18_06.report.json",
       "summary": {
-        "performance": 0.58,
+        "performance": 0.53,
         "accessibility": 0.98,
         "best-practices": 0.92,
-        "seo": 0.99,
+        "seo": 0.98,
         "pwa": 0.4
       }
     },
     {
       "url": "https://www.kgou.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kgou_org-_-2022_07_31_02_27_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kgou_org-_-2022_07_31_02_27_55.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kgou_org-_-2022_07_31_14_18_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kgou_org-_-2022_07_31_14_18_21.report.json",
       "summary": {
-        "performance": 0.59,
+        "performance": 0.64,
         "accessibility": 0.98,
         "best-practices": 0.92,
-        "seo": 0.99,
+        "seo": 0.98,
         "pwa": 0.4
       }
     }
@@ -2155,7 +2207,7 @@
     "addeddate": "2022-07-09 04:00:02"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 431803841,
+  "uniq": 602026127,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

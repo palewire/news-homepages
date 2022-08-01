@@ -1,5 +1,5 @@
 {
-  "created": 1659260995,
+  "created": 1659313739,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/35/items/getfandom-2022",
@@ -1300,31 +1300,83 @@
       "sha1": "6d6f627c32e676853be2f3ef11886a163287760e"
     },
     {
+      "name": "getfandom-2022-07-31T07:36:30.472415-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659278193",
+      "size": "14735",
+      "md5": "bb966584b3535ea9fd506ce4ea076991",
+      "crc32": "af38b12e",
+      "sha1": "8be5b7d7557b7ffafec91b51843dcd250b50323f",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-07-31T07:36:30.472415-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659278195",
+      "size": "23181",
+      "md5": "f6807426006bd6ddcb6dd0e6486f181b",
+      "crc32": "bf658be7",
+      "sha1": "e38ae1ebfa8428e21c3a22e7a7e38b3ca743c46f",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-07-31T07:36:30.472415-07:00.jpg",
+      "source": "original",
+      "mtime": "1659278192",
+      "size": "269746",
+      "md5": "798d89b1a3f3ed94f4520cb04d7fa67c",
+      "crc32": "9eb09702",
+      "sha1": "3e7b9d3d23ae36e067fa40ddb243632088c73692",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "getfandom-2022-07-31T07:36:30.472415-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659278197",
+      "size": "1458",
+      "md5": "b4d7fad4dc16e3d28c90bf550ccfe055",
+      "crc32": "c3552d66",
+      "sha1": "91deb60a2209297e60a97afe1dd8c6c59d0234dc",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-07-31T07:36:30.472415-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "getfandom-2022-07-31T07:36:30.472415-07:00.jpg",
+      "mtime": "1659282295",
+      "size": "10291",
+      "md5": "44684e2f22f55edb7473bc9836ecb80b",
+      "crc32": "3a4ecf53",
+      "sha1": "6d6f627c32e676853be2f3ef11886a163287760e"
+    },
+    {
       "name": "getfandom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "17d2e7f9c1cfe71a1a52e60a995d1e71fa9421f7",
-      "mtime": "1659260972",
-      "size": "27680",
-      "md5": "39ae842209abc10258eb9823091ce76a",
-      "crc32": "7e86061c",
-      "sha1": "2aa69d36260a73d256ff45e1cea1a1dee7966a4d",
+      "btih": "799919b488ceb1f34e5eb0e932985334c0d154c3",
+      "mtime": "1659282412",
+      "size": "28725",
+      "md5": "526189453c64a4c15e096de4ef1a714c",
+      "crc32": "a176ebc5",
+      "sha1": "faff153d12644341dc733d6eec6d29f846b2f567",
       "format": "Archive BitTorrent"
     },
     {
       "name": "getfandom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "94b9854efb9af0aeaf5191da696c6eb4",
+      "md5": "34ba9f3a4a80ceecde6b48dd65039b7f",
       "summation": "md5"
     },
     {
       "name": "getfandom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659236220",
-      "size": "167936",
-      "md5": "d8fb5e5648e75eceb4d712fd365038a0",
-      "crc32": "0a5a690c",
-      "sha1": "da858dcb6c98fc5cdffb02a4f7c88ee72be2d206",
+      "mtime": "1659278200",
+      "size": "176128",
+      "md5": "f0654e9a7d564d9bc6447941190aaff6",
+      "crc32": "b779c272",
+      "sha1": "0387d666fba31288ad64811d6fec1a2730daf3a8",
       "format": "Metadata"
     },
     {
@@ -1338,9 +1390,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 128,
-  "item_last_updated": 1659260972,
-  "item_size": 9609622,
+  "files_count": 133,
+  "getfandom-2022": [
+    {
+      "url": "https://www.fandom.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fandom_com-_-2022_07_31_14_14_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fandom_com-_-2022_07_31_14_14_10.report.json",
+      "summary": {
+        "performance": 0.45,
+        "accessibility": 0.87,
+        "best-practices": 0.58,
+        "seo": 0.91,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.fandom.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fandom_com-_-2022_07_31_14_14_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fandom_com-_-2022_07_31_14_14_28.report.json",
+      "summary": {
+        "performance": 0.3,
+        "accessibility": 0.87,
+        "best-practices": 0.67,
+        "seo": 0.91,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.fandom.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fandom_com-_-2022_07_31_14_13_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fandom_com-_-2022_07_31_14_13_52.report.json",
+      "summary": {
+        "performance": 0.32,
+        "accessibility": 0.87,
+        "best-practices": 0.58,
+        "seo": 0.91,
+        "pwa": 0.7
+      }
+    }
+  ],
+  "item_last_updated": 1659282412,
+  "item_size": 9938270,
   "metadata": {
     "identifier": "getfandom-2022",
     "collection": [
@@ -1358,7 +1451,7 @@
     "addeddate": "2022-07-18 02:22:01"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 1788435128,
+  "uniq": 254348038,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

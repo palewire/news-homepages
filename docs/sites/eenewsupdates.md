@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 56 screenshots with the Internet Archive.
+The archiving routine has saved 57 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 56 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-31T20:13:12.915837-04:00.jpg">
+  <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-31T20:13:12.915837-04:00.jpg"
+     alt="E&E News at 2022-07-31 20:13:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-31T20:13:12.915837-04:00.jpg">July 31 at 8:13 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-31T07:12:02.604589-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T07:17:31.884867-04:00.jpg">July 26 at 7:17 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T19:13:05.967872-04:00.jpg">
-  <img src="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T19:13:05.967872-04:00.jpg"
-     alt="E&E News at 2022-07-25 19:13:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-25T19:13:05.967872-04:00.jpg">July 25 at 7:13 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 56 hyperlink lists with the Internet Archive.
+The archiving routine has saved 57 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 8:13 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-31T20:13:12.915837-04:00.hyperlinks.json) |
 | [July 31 at 7:12 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-31T07:12:02.604589-04:00.hyperlinks.json) |
 | [July 30 at 7:18 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-30T19:18:22.319556-04:00.hyperlinks.json) |
 | [July 30 at 7:15 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-30T07:15:34.079636-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 7:10 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-28T07:10:31.713202-04:00.hyperlinks.json) |
 | [July 27 at 7:07 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T19:07:12.379709-04:00.hyperlinks.json) |
 | [July 27 at 7:06 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T07:06:48.342388-04:00.hyperlinks.json) |
-| [July 26 at 7:08 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T19:08:45.301445-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 56 accessibility trees with the Internet Archive.
+The archiving routine has saved 57 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 8:13 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-31T20:13:12.915837-04:00.accessibility.json) |
 | [July 31 at 7:12 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-31T07:12:02.604589-04:00.accessibility.json) |
 | [July 30 at 7:18 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-30T19:18:22.319556-04:00.accessibility.json) |
 | [July 30 at 7:15 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-30T07:15:34.079636-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 7:10 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-28T07:10:31.713202-04:00.accessibility.json) |
 | [July 27 at 7:07 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T19:07:12.379709-04:00.accessibility.json) |
 | [July 27 at 7:06 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T07:06:48.342388-04:00.accessibility.json) |
-| [July 26 at 7:08 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T19:08:45.301445-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 8:13 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-31T20:13:12.915837-04:00.lighthouse.json) |
 | [July 31 at 7:12 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-31T07:12:02.604589-04:00.lighthouse.json) |
 | [July 30 at 7:18 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-30T19:18:22.319556-04:00.lighthouse.json) |
 | [July 30 at 7:15 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-30T07:15:34.079636-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 7:10 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-28T07:10:31.713202-04:00.lighthouse.json) |
 | [July 27 at 7:07 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T19:07:12.379709-04:00.lighthouse.json) |
 | [July 27 at 7:06 AM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-27T07:06:48.342388-04:00.lighthouse.json) |
-| [July 26 at 7:08 PM](https://archive.org/download/eenewsupdates-2022/eenewsupdates-2022-07-26T19:08:45.301445-04:00.lighthouse.json) |
 
 
 
