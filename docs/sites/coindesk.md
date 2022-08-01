@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-01T07:14:47.016411-04:00.jpg">
+  <img src="https://archive.org/download/coindesk-2022/coindesk-2022-08-01T07:14:47.016411-04:00.jpg"
+     alt="CoinDesk at 2022-08-01 07:14:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-01T07:14:47.016411-04:00.jpg">August 1 at 7:14 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-31T20:11:27.851812-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-26T19:07:35.637498-04:00.jpg">July 26 at 7:07 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-26T07:14:58.511540-04:00.jpg">
-  <img src="https://archive.org/download/coindesk-2022/coindesk-2022-07-26T07:14:58.511540-04:00.jpg"
-     alt="CoinDesk at 2022-07-26 07:15:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-26T07:14:58.511540-04:00.jpg">July 26 at 7:15 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 15 hyperlink lists with the Internet Archive.
+The archiving routine has saved 16 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 7:14 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-01T07:14:47.016411-04:00.hyperlinks.json) |
 | [July 31 at 8:11 PM](https://archive.org/download/coindesk-2022/coindesk-2022-07-31T20:11:27.851812-04:00.hyperlinks.json) |
 | [July 31 at 7:10 AM](https://archive.org/download/coindesk-2022/coindesk-2022-07-31T07:10:09.198118-04:00.hyperlinks.json) |
 | [July 30 at 7:16 PM](https://archive.org/download/coindesk-2022/coindesk-2022-07-30T19:16:22.839084-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 7:11 PM](https://archive.org/download/coindesk-2022/coindesk-2022-07-28T19:11:48.786010-04:00.hyperlinks.json) |
 | [July 28 at 7:09 AM](https://archive.org/download/coindesk-2022/coindesk-2022-07-28T07:09:13.172581-04:00.hyperlinks.json) |
 | [July 27 at 7:04 PM](https://archive.org/download/coindesk-2022/coindesk-2022-07-27T19:04:52.824891-04:00.hyperlinks.json) |
-| [July 27 at 7:05 AM](https://archive.org/download/coindesk-2022/coindesk-2022-07-27T07:05:30.823050-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 15 accessibility trees with the Internet Archive.
+The archiving routine has saved 16 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 7:14 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-01T07:14:47.016411-04:00.accessibility.json) |
 | [July 31 at 8:11 PM](https://archive.org/download/coindesk-2022/coindesk-2022-07-31T20:11:27.851812-04:00.accessibility.json) |
 | [July 31 at 7:10 AM](https://archive.org/download/coindesk-2022/coindesk-2022-07-31T07:10:09.198118-04:00.accessibility.json) |
 | [July 30 at 7:16 PM](https://archive.org/download/coindesk-2022/coindesk-2022-07-30T19:16:22.839084-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 7:11 PM](https://archive.org/download/coindesk-2022/coindesk-2022-07-28T19:11:48.786010-04:00.accessibility.json) |
 | [July 28 at 7:09 AM](https://archive.org/download/coindesk-2022/coindesk-2022-07-28T07:09:13.172581-04:00.accessibility.json) |
 | [July 27 at 7:04 PM](https://archive.org/download/coindesk-2022/coindesk-2022-07-27T19:04:52.824891-04:00.accessibility.json) |
-| [July 27 at 7:05 AM](https://archive.org/download/coindesk-2022/coindesk-2022-07-27T07:05:30.823050-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 7:14 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-01T07:14:47.016411-04:00.lighthouse.json) |
 | [July 31 at 8:11 PM](https://archive.org/download/coindesk-2022/coindesk-2022-07-31T20:11:27.851812-04:00.lighthouse.json) |
 | [July 31 at 7:10 AM](https://archive.org/download/coindesk-2022/coindesk-2022-07-31T07:10:09.198118-04:00.lighthouse.json) |
 | [July 30 at 7:16 PM](https://archive.org/download/coindesk-2022/coindesk-2022-07-30T19:16:22.839084-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 7:11 PM](https://archive.org/download/coindesk-2022/coindesk-2022-07-28T19:11:48.786010-04:00.lighthouse.json) |
 | [July 28 at 7:09 AM](https://archive.org/download/coindesk-2022/coindesk-2022-07-28T07:09:13.172581-04:00.lighthouse.json) |
 | [July 27 at 7:04 PM](https://archive.org/download/coindesk-2022/coindesk-2022-07-27T19:04:52.824891-04:00.lighthouse.json) |
-| [July 27 at 7:05 AM](https://archive.org/download/coindesk-2022/coindesk-2022-07-27T07:05:30.823050-04:00.lighthouse.json) |
 
 
 

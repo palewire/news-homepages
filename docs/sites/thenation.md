@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 70 screenshots with the Internet Archive.
+The archiving routine has saved 71 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 70 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thenation-2022/thenation-2022-07-31T21:28:03.210879-04:00.jpg">
+  <img src="https://archive.org/download/thenation-2022/thenation-2022-07-31T21:28:03.210879-04:00.jpg"
+     alt="The Nation at 2022-07-31 21:28:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-31T21:28:03.210879-04:00.jpg">July 31 at 9:28 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenation-2022/thenation-2022-07-31T14:38:00.289084-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-28T09:26:05.929149-04:00.jpg">July 28 at 9:26 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thenation-2022/thenation-2022-07-27T21:31:29.967094-04:00.jpg">
-  <img src="https://archive.org/download/thenation-2022/thenation-2022-07-27T21:31:29.967094-04:00.jpg"
-     alt="The Nation at 2022-07-27 21:31:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-27T21:31:29.967094-04:00.jpg">July 27 at 9:31 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 70 hyperlink lists with the Internet Archive.
+The archiving routine has saved 71 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 9:28 PM](https://archive.org/download/thenation-2022/thenation-2022-07-31T21:28:03.210879-04:00.hyperlinks.json) |
 | [July 31 at 2:38 PM](https://archive.org/download/thenation-2022/thenation-2022-07-31T14:38:00.289084-04:00.hyperlinks.json) |
 | [July 31 at 9:32 AM](https://archive.org/download/thenation-2022/thenation-2022-07-31T09:32:20.035689-04:00.hyperlinks.json) |
 | [July 30 at 10:48 PM](https://archive.org/download/thenation-2022/thenation-2022-07-30T22:48:22.082998-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 2:37 PM](https://archive.org/download/thenation-2022/thenation-2022-07-29T14:37:13.297664-04:00.hyperlinks.json) |
 | [July 29 at 9:34 AM](https://archive.org/download/thenation-2022/thenation-2022-07-29T09:34:15.686678-04:00.hyperlinks.json) |
 | [July 28 at 9:27 PM](https://archive.org/download/thenation-2022/thenation-2022-07-28T21:27:45.203127-04:00.hyperlinks.json) |
-| [July 28 at 2:45 PM](https://archive.org/download/thenation-2022/thenation-2022-07-28T14:45:08.635545-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 70 accessibility trees with the Internet Archive.
+The archiving routine has saved 71 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 9:28 PM](https://archive.org/download/thenation-2022/thenation-2022-07-31T21:28:03.210879-04:00.accessibility.json) |
 | [July 31 at 2:38 PM](https://archive.org/download/thenation-2022/thenation-2022-07-31T14:38:00.289084-04:00.accessibility.json) |
 | [July 31 at 9:32 AM](https://archive.org/download/thenation-2022/thenation-2022-07-31T09:32:20.035689-04:00.accessibility.json) |
 | [July 30 at 10:48 PM](https://archive.org/download/thenation-2022/thenation-2022-07-30T22:48:22.082998-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 2:37 PM](https://archive.org/download/thenation-2022/thenation-2022-07-29T14:37:13.297664-04:00.accessibility.json) |
 | [July 29 at 9:34 AM](https://archive.org/download/thenation-2022/thenation-2022-07-29T09:34:15.686678-04:00.accessibility.json) |
 | [July 28 at 9:27 PM](https://archive.org/download/thenation-2022/thenation-2022-07-28T21:27:45.203127-04:00.accessibility.json) |
-| [July 28 at 2:45 PM](https://archive.org/download/thenation-2022/thenation-2022-07-28T14:45:08.635545-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 9:28 PM](https://archive.org/download/thenation-2022/thenation-2022-07-31T21:28:03.210879-04:00.lighthouse.json) |
 | [July 31 at 2:38 PM](https://archive.org/download/thenation-2022/thenation-2022-07-31T14:38:00.289084-04:00.lighthouse.json) |
 | [July 31 at 9:32 AM](https://archive.org/download/thenation-2022/thenation-2022-07-31T09:32:20.035689-04:00.lighthouse.json) |
 | [July 30 at 10:48 PM](https://archive.org/download/thenation-2022/thenation-2022-07-30T22:48:22.082998-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 2:37 PM](https://archive.org/download/thenation-2022/thenation-2022-07-29T14:37:13.297664-04:00.lighthouse.json) |
 | [July 29 at 9:34 AM](https://archive.org/download/thenation-2022/thenation-2022-07-29T09:34:15.686678-04:00.lighthouse.json) |
 | [July 28 at 9:27 PM](https://archive.org/download/thenation-2022/thenation-2022-07-28T21:27:45.203127-04:00.lighthouse.json) |
-| [July 28 at 2:45 PM](https://archive.org/download/thenation-2022/thenation-2022-07-28T14:45:08.635545-04:00.lighthouse.json) |
 
 
 

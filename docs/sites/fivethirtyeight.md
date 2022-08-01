@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 112 screenshots with the Internet Archive.
+The archiving routine has saved 113 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 112 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-01T07:17:20.839776-04:00.jpg">
+  <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-01T07:17:20.839776-04:00.jpg"
+     alt="FiveThirtyEight at 2022-08-01 07:17:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-01T07:17:20.839776-04:00.jpg">August 1 at 7:17 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-31T20:13:24.025158-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-26T19:09:17.670811-04:00.jpg">July 26 at 7:09 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-26T07:17:58.903789-04:00.jpg">
-  <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-26T07:17:58.903789-04:00.jpg"
-     alt="FiveThirtyEight at 2022-07-26 07:18:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-26T07:17:58.903789-04:00.jpg">July 26 at 7:18 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 113 hyperlink lists with the Internet Archive.
+The archiving routine has saved 114 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 7:17 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-01T07:17:20.839776-04:00.hyperlinks.json) |
 | [July 31 at 8:13 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-31T20:13:24.025158-04:00.hyperlinks.json) |
 | [July 31 at 7:12 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-31T07:12:25.822555-04:00.hyperlinks.json) |
 | [July 30 at 7:19 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-30T19:19:12.218270-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 7:13 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-28T19:13:21.700720-04:00.hyperlinks.json) |
 | [July 28 at 7:11 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-28T07:11:10.398167-04:00.hyperlinks.json) |
 | [July 27 at 7:07 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-27T19:07:50.321968-04:00.hyperlinks.json) |
-| [July 27 at 7:07 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-27T07:07:26.812356-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 112 accessibility trees with the Internet Archive.
+The archiving routine has saved 113 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 7:17 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-01T07:17:20.839776-04:00.accessibility.json) |
 | [July 31 at 8:13 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-31T20:13:24.025158-04:00.accessibility.json) |
 | [July 30 at 7:19 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-30T19:19:12.218270-04:00.accessibility.json) |
 | [July 30 at 7:16 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-30T07:16:29.429191-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 7:11 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-28T07:11:10.398167-04:00.accessibility.json) |
 | [July 27 at 7:07 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-27T19:07:50.321968-04:00.accessibility.json) |
 | [July 27 at 7:07 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-27T07:07:26.812356-04:00.accessibility.json) |
-| [July 26 at 7:09 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-26T19:09:17.670811-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 7:17 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-01T07:17:20.839776-04:00.lighthouse.json) |
 | [July 31 at 8:13 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-31T20:13:24.025158-04:00.lighthouse.json) |
 | [July 31 at 7:12 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-31T07:12:25.822555-04:00.lighthouse.json) |
 | [July 30 at 7:19 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-30T19:19:12.218270-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 7:13 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-28T19:13:21.700720-04:00.lighthouse.json) |
 | [July 28 at 7:11 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-28T07:11:10.398167-04:00.lighthouse.json) |
 | [July 27 at 7:07 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-27T19:07:50.321968-04:00.lighthouse.json) |
-| [July 27 at 7:07 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-07-27T07:07:26.812356-04:00.lighthouse.json) |
 
 
 

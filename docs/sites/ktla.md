@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 273 screenshots with the Internet Archive.
+The archiving routine has saved 274 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 273 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ktla-2022/ktla-2022-08-01T05:22:04.803882-07:00.jpg">
+  <img src="https://archive.org/download/ktla-2022/ktla-2022-08-01T05:22:04.803882-07:00.jpg"
+     alt="KTLA at 2022-08-01 05:22:12-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ktla-2022/ktla-2022-08-01T05:22:04.803882-07:00.jpg">August 1 at 5:22 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ktla-2022/ktla-2022-07-31T17:18:03.827752-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ktla-2022/ktla-2022-07-28T11:41:44.994766-07:00.jpg">July 28 at 11:41 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ktla-2022/ktla-2022-07-28T06:11:26.120249-07:00.jpg">
-  <img src="https://archive.org/download/ktla-2022/ktla-2022-07-28T06:11:26.120249-07:00.jpg"
-     alt="KTLA at 2022-07-28 06:11:38-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ktla-2022/ktla-2022-07-28T06:11:26.120249-07:00.jpg">July 28 at 6:11 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 270 hyperlink lists with the Internet Archive.
+The archiving routine has saved 271 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 5:22 AM](https://archive.org/download/ktla-2022/ktla-2022-08-01T05:22:04.803882-07:00.hyperlinks.json) |
 | [July 31 at 11:35 AM](https://archive.org/download/ktla-2022/ktla-2022-07-31T11:35:47.427167-07:00.hyperlinks.json) |
 | [July 31 at 6:17 AM](https://archive.org/download/ktla-2022/ktla-2022-07-31T06:17:07.519031-07:00.hyperlinks.json) |
 | [July 30 at 5:25 PM](https://archive.org/download/ktla-2022/ktla-2022-07-30T17:25:46.603951-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 11:33 AM](https://archive.org/download/ktla-2022/ktla-2022-07-29T11:33:15.624844-07:00.hyperlinks.json) |
 | [July 29 at 5:17 AM](https://archive.org/download/ktla-2022/ktla-2022-07-29T05:16:47.326653-07:00.hyperlinks.json) |
 | [July 28 at 5:13 PM](https://archive.org/download/ktla-2022/ktla-2022-07-28T17:13:19.562220-07:00.hyperlinks.json) |
-| [July 28 at 11:41 AM](https://archive.org/download/ktla-2022/ktla-2022-07-28T11:41:44.994766-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 273 accessibility trees with the Internet Archive.
+The archiving routine has saved 274 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 5:22 AM](https://archive.org/download/ktla-2022/ktla-2022-08-01T05:22:04.803882-07:00.accessibility.json) |
 | [July 31 at 5:18 PM](https://archive.org/download/ktla-2022/ktla-2022-07-31T17:18:03.827752-07:00.accessibility.json) |
 | [July 31 at 11:35 AM](https://archive.org/download/ktla-2022/ktla-2022-07-31T11:35:47.427167-07:00.accessibility.json) |
 | [July 31 at 6:17 AM](https://archive.org/download/ktla-2022/ktla-2022-07-31T06:17:07.519031-07:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 5:10 PM](https://archive.org/download/ktla-2022/ktla-2022-07-29T17:10:16.952328-07:00.accessibility.json) |
 | [July 29 at 11:33 AM](https://archive.org/download/ktla-2022/ktla-2022-07-29T11:33:15.624844-07:00.accessibility.json) |
 | [July 29 at 5:17 AM](https://archive.org/download/ktla-2022/ktla-2022-07-29T05:16:47.326653-07:00.accessibility.json) |
-| [July 28 at 5:13 PM](https://archive.org/download/ktla-2022/ktla-2022-07-28T17:13:19.562220-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 5:22 AM](https://archive.org/download/ktla-2022/ktla-2022-08-01T05:22:04.803882-07:00.lighthouse.json) |
 | [July 31 at 5:18 PM](https://archive.org/download/ktla-2022/ktla-2022-07-31T17:18:03.827752-07:00.lighthouse.json) |
 | [July 31 at 11:36 AM](https://archive.org/download/ktla-2022/ktla-2022-07-31T11:35:47.427167-07:00.lighthouse.json) |
 | [July 31 at 6:17 AM](https://archive.org/download/ktla-2022/ktla-2022-07-31T06:17:07.519031-07:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 5:10 PM](https://archive.org/download/ktla-2022/ktla-2022-07-29T17:10:16.952328-07:00.lighthouse.json) |
 | [July 29 at 11:33 AM](https://archive.org/download/ktla-2022/ktla-2022-07-29T11:33:15.624844-07:00.lighthouse.json) |
 | [July 29 at 5:17 AM](https://archive.org/download/ktla-2022/ktla-2022-07-29T05:16:47.326653-07:00.lighthouse.json) |
-| [July 28 at 5:13 PM](https://archive.org/download/ktla-2022/ktla-2022-07-28T17:13:19.562220-07:00.lighthouse.json) |
 
 
 

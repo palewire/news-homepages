@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 47 screenshots with the Internet Archive.
+The archiving routine has saved 48 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 47 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-01T06:10:15.582238-05:00.jpg">
+  <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-01T06:10:15.582238-05:00.jpg"
+     alt="Arkansas Nonprofit News Network at 2022-08-01 06:10:17-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-01T06:10:15.582238-05:00.jpg">August 1 at 6:10 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-31T19:06:16.815150-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-26T18:03:30.995936-05:00.jpg">July 26 at 6:03 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-26T06:10:59.593004-05:00.jpg">
-  <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-26T06:10:59.593004-05:00.jpg"
-     alt="Arkansas Nonprofit News Network at 2022-07-26 06:11:01-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-26T06:10:59.593004-05:00.jpg">July 26 at 6:11 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 47 hyperlink lists with the Internet Archive.
+The archiving routine has saved 48 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 6:10 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-01T06:10:15.582238-05:00.hyperlinks.json) |
 | [July 31 at 7:06 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-31T19:06:16.815150-05:00.hyperlinks.json) |
 | [July 31 at 6:07 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-31T06:07:04.906028-05:00.hyperlinks.json) |
 | [July 30 at 6:12 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-30T18:12:43.394822-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 6:06 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-28T18:06:47.392586-05:00.hyperlinks.json) |
 | [July 28 at 6:04 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-28T06:04:22.940255-05:00.hyperlinks.json) |
 | [July 27 at 6:01 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-27T18:01:00.482339-05:00.hyperlinks.json) |
-| [July 27 at 6:01 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-27T06:01:46.651180-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 47 accessibility trees with the Internet Archive.
+The archiving routine has saved 48 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 6:10 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-01T06:10:15.582238-05:00.accessibility.json) |
 | [July 31 at 7:06 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-31T19:06:16.815150-05:00.accessibility.json) |
 | [July 31 at 6:07 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-31T06:07:04.906028-05:00.accessibility.json) |
 | [July 30 at 6:12 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-30T18:12:43.394822-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 6:06 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-28T18:06:47.392586-05:00.accessibility.json) |
 | [July 28 at 6:04 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-28T06:04:22.940255-05:00.accessibility.json) |
 | [July 27 at 6:01 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-27T18:01:00.482339-05:00.accessibility.json) |
-| [July 27 at 6:01 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-27T06:01:46.651180-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 6:10 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-01T06:10:15.582238-05:00.lighthouse.json) |
 | [July 31 at 7:06 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-31T19:06:16.815150-05:00.lighthouse.json) |
 | [July 31 at 6:07 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-31T06:07:04.906028-05:00.lighthouse.json) |
 | [July 30 at 6:12 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-30T18:12:43.394822-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 6:06 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-28T18:06:47.392586-05:00.lighthouse.json) |
 | [July 28 at 6:04 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-28T06:04:22.940255-05:00.lighthouse.json) |
 | [July 27 at 6:01 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-27T18:01:00.482339-05:00.lighthouse.json) |
-| [July 27 at 6:01 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-27T06:01:46.651180-05:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 85 screenshots with the Internet Archive.
+The archiving routine has saved 86 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 85 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-31T21:41:07.305221-05:00.jpg">
+  <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-31T21:41:07.305221-05:00.jpg"
+     alt="NBC Chicago at 2022-07-31 21:41:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-31T21:41:07.305221-05:00.jpg">July 31 at 9:41 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-31T11:01:33.948509-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-28T11:11:52.187257-05:00.jpg">July 28 at 11:11 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-28T10:46:30.615131-05:00.jpg">
-  <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-28T10:46:30.615131-05:00.jpg"
-     alt="NBC Chicago at 2022-07-28 10:46:34-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-28T10:46:30.615131-05:00.jpg">July 28 at 10:46 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 84 hyperlink lists with the Internet Archive.
+The archiving routine has saved 85 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 9:41 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-31T21:41:07.305221-05:00.hyperlinks.json) |
 | [July 31 at 11:01 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-31T11:01:33.948509-05:00.hyperlinks.json) |
 | [July 31 at 9:42 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-31T09:42:36.301856-05:00.hyperlinks.json) |
 | [July 30 at 10:02 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-30T22:02:28.622065-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 11:17 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-29T11:17:48.159141-05:00.hyperlinks.json) |
 | [July 29 at 9:45 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-29T09:45:09.923069-05:00.hyperlinks.json) |
 | [July 28 at 9:41 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-28T21:41:35.065378-05:00.hyperlinks.json) |
-| [July 28 at 3:04 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-28T15:03:53.166935-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 85 accessibility trees with the Internet Archive.
+The archiving routine has saved 86 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 9:41 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-31T21:41:07.305221-05:00.accessibility.json) |
 | [July 31 at 11:01 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-31T11:01:33.948509-05:00.accessibility.json) |
 | [July 31 at 9:42 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-31T09:42:36.301856-05:00.accessibility.json) |
 | [July 30 at 10:02 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-30T22:02:28.622065-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 11:17 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-29T11:17:48.159141-05:00.accessibility.json) |
 | [July 29 at 9:45 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-29T09:45:09.923069-05:00.accessibility.json) |
 | [July 28 at 9:41 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-28T21:41:35.065378-05:00.accessibility.json) |
-| [July 28 at 3:03 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-28T15:03:53.166935-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 9:41 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-31T21:41:07.305221-05:00.lighthouse.json) |
 | [July 31 at 11:01 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-31T11:01:33.948509-05:00.lighthouse.json) |
 | [July 31 at 9:42 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-31T09:42:36.301856-05:00.lighthouse.json) |
 | [July 30 at 10:02 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-30T22:02:28.622065-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 11:17 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-29T11:17:48.159141-05:00.lighthouse.json) |
 | [July 29 at 9:45 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-29T09:45:09.923069-05:00.lighthouse.json) |
 | [July 28 at 9:41 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-28T21:41:35.065378-05:00.lighthouse.json) |
-| [July 28 at 3:04 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-07-28T15:03:53.166935-05:00.lighthouse.json) |
 
 
 

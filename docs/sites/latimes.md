@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 522 screenshots with the Internet Archive.
+The archiving routine has saved 524 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/latimes-2022/latimes-2022-07-31T19:39:28.670459-07:00.jpg">
+  <img src="https://archive.org/download/latimes-2022/latimes-2022-07-31T19:39:28.670459-07:00.jpg"
+     alt="Los Angeles Times at 2022-07-31 19:39:30-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-31T19:39:28.670459-07:00.jpg">July 31 at 7:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/latimes-2022/latimes-2022-07-31T18:35:29.492331-07:00.jpg">
+  <img src="https://archive.org/download/latimes-2022/latimes-2022-07-31T18:35:29.492331-07:00.jpg"
+     alt="Los Angeles Times at 2022-07-31 18:35:31-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-31T18:35:29.492331-07:00.jpg">July 31 at 6:35 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-07-31T12:04:34.908862-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-07-31T12:04:34.908862-07:00.jpg"
      alt="Los Angeles Times at 2022-07-31 12:04:37-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-30T07:34:46.296278-07:00.jpg">July 30 at 7:34 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/latimes-2022/latimes-2022-07-29T19:42:57.492295-07:00.jpg">
-  <img src="https://archive.org/download/latimes-2022/latimes-2022-07-29T19:42:57.492295-07:00.jpg"
-     alt="Los Angeles Times at 2022-07-29 19:42:59-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-29T19:42:57.492295-07:00.jpg">July 29 at 7:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/latimes-2022/latimes-2022-07-29T19:35:28.952147-07:00.jpg">
-  <img src="https://archive.org/download/latimes-2022/latimes-2022-07-29T19:35:28.952147-07:00.jpg"
-     alt="Los Angeles Times at 2022-07-29 19:35:30-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-07-29T19:35:28.952147-07:00.jpg">July 29 at 7:35 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 484 hyperlink lists with the Internet Archive.
+The archiving routine has saved 486 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 7:39 PM](https://archive.org/download/latimes-2022/latimes-2022-07-31T19:39:28.670459-07:00.hyperlinks.json) |
+| [July 31 at 6:35 PM](https://archive.org/download/latimes-2022/latimes-2022-07-31T18:35:29.492331-07:00.hyperlinks.json) |
 | [July 31 at 12:04 PM](https://archive.org/download/latimes-2022/latimes-2022-07-31T12:04:34.908862-07:00.hyperlinks.json) |
 | [July 31 at 7:40 AM](https://archive.org/download/latimes-2022/latimes-2022-07-31T07:40:00.872833-07:00.hyperlinks.json) |
 | [July 31 at 7:32 AM](https://archive.org/download/latimes-2022/latimes-2022-07-31T07:32:51.756861-07:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 30 at 12:04 PM](https://archive.org/download/latimes-2022/latimes-2022-07-30T12:04:28.049686-07:00.hyperlinks.json) |
 | [July 30 at 11:38 AM](https://archive.org/download/latimes-2022/latimes-2022-07-30T11:38:13.546763-07:00.hyperlinks.json) |
 | [July 30 at 8:42 AM](https://archive.org/download/latimes-2022/latimes-2022-07-30T08:42:47.546323-07:00.hyperlinks.json) |
-| [July 30 at 7:34 AM](https://archive.org/download/latimes-2022/latimes-2022-07-30T07:34:46.296278-07:00.hyperlinks.json) |
-| [July 29 at 7:43 PM](https://archive.org/download/latimes-2022/latimes-2022-07-29T19:42:57.492295-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 492 accessibility trees with the Internet Archive.
+The archiving routine has saved 494 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 7:39 PM](https://archive.org/download/latimes-2022/latimes-2022-07-31T19:39:28.670459-07:00.accessibility.json) |
+| [July 31 at 6:35 PM](https://archive.org/download/latimes-2022/latimes-2022-07-31T18:35:29.492331-07:00.accessibility.json) |
 | [July 31 at 12:04 PM](https://archive.org/download/latimes-2022/latimes-2022-07-31T12:04:34.908862-07:00.accessibility.json) |
 | [July 31 at 11:35 AM](https://archive.org/download/latimes-2022/latimes-2022-07-31T11:35:35.121306-07:00.accessibility.json) |
 | [July 31 at 7:40 AM](https://archive.org/download/latimes-2022/latimes-2022-07-31T07:40:00.872833-07:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 7:41 PM](https://archive.org/download/latimes-2022/latimes-2022-07-30T19:41:15.016987-07:00.accessibility.json) |
 | [July 30 at 12:04 PM](https://archive.org/download/latimes-2022/latimes-2022-07-30T12:04:28.049686-07:00.accessibility.json) |
 | [July 30 at 11:38 AM](https://archive.org/download/latimes-2022/latimes-2022-07-30T11:38:13.546763-07:00.accessibility.json) |
-| [July 30 at 8:42 AM](https://archive.org/download/latimes-2022/latimes-2022-07-30T08:42:47.546323-07:00.accessibility.json) |
-| [July 30 at 7:34 AM](https://archive.org/download/latimes-2022/latimes-2022-07-30T07:34:46.296278-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 7:39 PM](https://archive.org/download/latimes-2022/latimes-2022-07-31T19:39:28.670459-07:00.lighthouse.json) |
+| [July 31 at 6:35 PM](https://archive.org/download/latimes-2022/latimes-2022-07-31T18:35:29.492331-07:00.lighthouse.json) |
 | [July 31 at 12:04 PM](https://archive.org/download/latimes-2022/latimes-2022-07-31T12:04:34.908862-07:00.lighthouse.json) |
 | [July 31 at 11:35 AM](https://archive.org/download/latimes-2022/latimes-2022-07-31T11:35:35.121306-07:00.lighthouse.json) |
 | [July 31 at 7:40 AM](https://archive.org/download/latimes-2022/latimes-2022-07-31T07:40:00.872833-07:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 7:41 PM](https://archive.org/download/latimes-2022/latimes-2022-07-30T19:41:15.016987-07:00.lighthouse.json) |
 | [July 30 at 12:04 PM](https://archive.org/download/latimes-2022/latimes-2022-07-30T12:04:28.049686-07:00.lighthouse.json) |
 | [July 30 at 11:38 AM](https://archive.org/download/latimes-2022/latimes-2022-07-30T11:38:13.546763-07:00.lighthouse.json) |
-| [July 30 at 8:42 AM](https://archive.org/download/latimes-2022/latimes-2022-07-30T08:42:47.546323-07:00.lighthouse.json) |
-| [July 30 at 7:34 AM](https://archive.org/download/latimes-2022/latimes-2022-07-30T07:34:46.296278-07:00.lighthouse.json) |
 
 
 

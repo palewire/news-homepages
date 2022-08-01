@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-01T13:26:03.009307+01:00.jpg">
+  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-08-01T13:26:03.009307+01:00.jpg"
+     alt="Belfast News Letter at 2022-08-01 13:26:06+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-01T13:26:03.009307+01:00.jpg">August 1 at 1:26 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-01T01:21:19.149724+01:00.jpg">
@@ -127,15 +136,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-27T01:16:37.681262+01:00.jpg">July 27 at 1:16 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-26T13:25:33.154028+01:00.jpg">
-  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-07-26T13:25:33.154028+01:00.jpg"
-     alt="Belfast News Letter at 2022-07-26 13:25:35+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-26T13:25:33.154028+01:00.jpg">July 26 at 1:25 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
@@ -162,7 +162,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 25 accessibility trees with the Internet Archive.
+The archiving routine has saved 26 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 1:26 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-01T13:26:03.009307+01:00.accessibility.json) |
 | [August 1 at 1:21 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-01T01:21:19.149724+01:00.accessibility.json) |
 | [July 31 at 2:21 PM](https://archive.org/download/news_letter-2022/news_letter-2022-07-31T14:21:46.997612+01:00.accessibility.json) |
 | [July 31 at 1:30 AM](https://archive.org/download/news_letter-2022/news_letter-2022-07-31T01:29:58.937926+01:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 2:14 PM](https://archive.org/download/news_letter-2022/news_letter-2022-07-28T14:14:10.060972+01:00.accessibility.json) |
 | [July 28 at 1:07 AM](https://archive.org/download/news_letter-2022/news_letter-2022-07-28T01:07:42.620194+01:00.accessibility.json) |
 | [July 27 at 2:12 PM](https://archive.org/download/news_letter-2022/news_letter-2022-07-27T14:12:49.613459+01:00.accessibility.json) |
-| [July 27 at 1:16 AM](https://archive.org/download/news_letter-2022/news_letter-2022-07-27T01:16:37.681262+01:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 1:26 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-01T13:26:03.009307+01:00.lighthouse.json) |
 | [August 1 at 1:21 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-01T01:21:19.149724+01:00.lighthouse.json) |
 | [July 31 at 2:21 PM](https://archive.org/download/news_letter-2022/news_letter-2022-07-31T14:21:46.997612+01:00.lighthouse.json) |
 | [July 31 at 1:30 AM](https://archive.org/download/news_letter-2022/news_letter-2022-07-31T01:29:58.937926+01:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 1:15 AM](https://archive.org/download/news_letter-2022/news_letter-2022-07-29T01:15:47.394326+01:00.lighthouse.json) |
 | [July 28 at 2:14 PM](https://archive.org/download/news_letter-2022/news_letter-2022-07-28T14:14:10.060972+01:00.lighthouse.json) |
 | [July 28 at 1:07 AM](https://archive.org/download/news_letter-2022/news_letter-2022-07-28T01:07:42.620194+01:00.lighthouse.json) |
-| [July 27 at 2:12 PM](https://archive.org/download/news_letter-2022/news_letter-2022-07-27T14:12:49.613459+01:00.lighthouse.json) |
 
 
 

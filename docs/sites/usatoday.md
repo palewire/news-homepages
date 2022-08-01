@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 353 screenshots with the Internet Archive.
+The archiving routine has saved 354 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 353 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-31T21:29:23.150491-04:00.jpg">
+  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-07-31T21:29:23.150491-04:00.jpg"
+     alt="USA Today at 2022-07-31 21:29:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-31T21:29:23.150491-04:00.jpg">July 31 at 9:29 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-31T17:11:47.418848-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-29T09:36:31.441878-04:00.jpg">July 29 at 9:36 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-28T21:29:07.145925-04:00.jpg">
-  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-07-28T21:29:07.145925-04:00.jpg"
-     alt="USA Today at 2022-07-28 21:29:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-28T21:29:07.145925-04:00.jpg">July 28 at 9:29 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 336 hyperlink lists with the Internet Archive.
+The archiving routine has saved 337 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 9:29 PM](https://archive.org/download/usatoday-2022/usatoday-2022-07-31T21:29:23.150491-04:00.hyperlinks.json) |
 | [July 31 at 5:11 PM](https://archive.org/download/usatoday-2022/usatoday-2022-07-31T17:11:47.418848-04:00.hyperlinks.json) |
 | [July 31 at 9:34 AM](https://archive.org/download/usatoday-2022/usatoday-2022-07-31T09:34:49.532468-04:00.hyperlinks.json) |
 | [July 31 at 9:25 AM](https://archive.org/download/usatoday-2022/usatoday-2022-07-31T09:25:48.314576-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 30 at 9:37 AM](https://archive.org/download/usatoday-2022/usatoday-2022-07-30T09:37:47.868566-04:00.hyperlinks.json) |
 | [July 29 at 9:25 PM](https://archive.org/download/usatoday-2022/usatoday-2022-07-29T21:25:26.688320-04:00.hyperlinks.json) |
 | [July 29 at 5:13 PM](https://archive.org/download/usatoday-2022/usatoday-2022-07-29T17:13:48.457297-04:00.hyperlinks.json) |
-| [July 29 at 11:50 AM](https://archive.org/download/usatoday-2022/usatoday-2022-07-29T11:50:01.830994-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 334 accessibility trees with the Internet Archive.
+The archiving routine has saved 335 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 9:29 PM](https://archive.org/download/usatoday-2022/usatoday-2022-07-31T21:29:23.150491-04:00.accessibility.json) |
 | [July 31 at 5:11 PM](https://archive.org/download/usatoday-2022/usatoday-2022-07-31T17:11:47.418848-04:00.accessibility.json) |
 | [July 31 at 9:34 AM](https://archive.org/download/usatoday-2022/usatoday-2022-07-31T09:34:49.532468-04:00.accessibility.json) |
 | [July 31 at 9:25 AM](https://archive.org/download/usatoday-2022/usatoday-2022-07-31T09:25:48.314576-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 9:37 AM](https://archive.org/download/usatoday-2022/usatoday-2022-07-30T09:37:47.868566-04:00.accessibility.json) |
 | [July 29 at 9:25 PM](https://archive.org/download/usatoday-2022/usatoday-2022-07-29T21:25:26.688320-04:00.accessibility.json) |
 | [July 29 at 5:13 PM](https://archive.org/download/usatoday-2022/usatoday-2022-07-29T17:13:48.457297-04:00.accessibility.json) |
-| [July 29 at 11:50 AM](https://archive.org/download/usatoday-2022/usatoday-2022-07-29T11:50:01.830994-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 9:29 PM](https://archive.org/download/usatoday-2022/usatoday-2022-07-31T21:29:23.150491-04:00.lighthouse.json) |
 | [July 31 at 5:11 PM](https://archive.org/download/usatoday-2022/usatoday-2022-07-31T17:11:47.418848-04:00.lighthouse.json) |
 | [July 31 at 9:34 AM](https://archive.org/download/usatoday-2022/usatoday-2022-07-31T09:34:49.532468-04:00.lighthouse.json) |
 | [July 31 at 9:25 AM](https://archive.org/download/usatoday-2022/usatoday-2022-07-31T09:25:48.314576-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 9:37 AM](https://archive.org/download/usatoday-2022/usatoday-2022-07-30T09:37:47.868566-04:00.lighthouse.json) |
 | [July 29 at 9:25 PM](https://archive.org/download/usatoday-2022/usatoday-2022-07-29T21:25:26.688320-04:00.lighthouse.json) |
 | [July 29 at 5:13 PM](https://archive.org/download/usatoday-2022/usatoday-2022-07-29T17:13:48.457297-04:00.lighthouse.json) |
-| [July 29 at 11:50 AM](https://archive.org/download/usatoday-2022/usatoday-2022-07-29T11:50:01.830994-04:00.lighthouse.json) |
 
 
 

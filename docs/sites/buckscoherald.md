@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 47 screenshots with the Internet Archive.
+The archiving routine has saved 48 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 47 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-01T07:13:00.094097-04:00.jpg">
+  <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-01T07:13:00.094097-04:00.jpg"
+     alt="Bucks County Herald at 2022-08-01 07:13:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-01T07:13:00.094097-04:00.jpg">August 1 at 7:13 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-31T20:09:28.584392-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-26T19:05:33.082177-04:00.jpg">July 26 at 7:05 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-26T07:13:40.084987-04:00.jpg">
-  <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-26T07:13:40.084987-04:00.jpg"
-     alt="Bucks County Herald at 2022-07-26 07:13:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-26T07:13:40.084987-04:00.jpg">July 26 at 7:13 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 47 hyperlink lists with the Internet Archive.
+The archiving routine has saved 48 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 7:13 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-01T07:13:00.094097-04:00.hyperlinks.json) |
 | [July 31 at 8:09 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-31T20:09:28.584392-04:00.hyperlinks.json) |
 | [July 31 at 7:08 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-31T07:08:48.237035-04:00.hyperlinks.json) |
 | [July 30 at 7:15 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-30T19:14:56.518899-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 7:08 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-28T19:08:40.848975-04:00.hyperlinks.json) |
 | [July 28 at 7:07 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-28T07:07:18.722099-04:00.hyperlinks.json) |
 | [July 27 at 7:04 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-27T19:04:29.079273-04:00.hyperlinks.json) |
-| [July 27 at 7:04 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-27T07:04:10.749014-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 47 accessibility trees with the Internet Archive.
+The archiving routine has saved 48 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 7:13 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-01T07:13:00.094097-04:00.accessibility.json) |
 | [July 31 at 8:09 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-31T20:09:28.584392-04:00.accessibility.json) |
 | [July 31 at 7:08 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-31T07:08:48.237035-04:00.accessibility.json) |
 | [July 30 at 7:15 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-30T19:14:56.518899-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 7:08 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-28T19:08:40.848975-04:00.accessibility.json) |
 | [July 28 at 7:07 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-28T07:07:18.722099-04:00.accessibility.json) |
 | [July 27 at 7:04 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-27T19:04:29.079273-04:00.accessibility.json) |
-| [July 27 at 7:04 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-27T07:04:10.749014-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 7:13 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-01T07:13:00.094097-04:00.lighthouse.json) |
 | [July 31 at 8:09 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-31T20:09:28.584392-04:00.lighthouse.json) |
 | [July 31 at 7:08 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-31T07:08:48.237035-04:00.lighthouse.json) |
 | [July 30 at 7:15 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-30T19:14:56.518899-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 7:08 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-28T19:08:40.848975-04:00.lighthouse.json) |
 | [July 28 at 7:07 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-28T07:07:18.722099-04:00.lighthouse.json) |
 | [July 27 at 7:04 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-27T19:04:29.079273-04:00.lighthouse.json) |
-| [July 27 at 7:04 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-07-27T07:04:10.749014-04:00.lighthouse.json) |
 
 
 

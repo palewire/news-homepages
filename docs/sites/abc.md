@@ -223,7 +223,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 469 hyperlink lists with the Internet Archive.
+The archiving routine has saved 470 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 7:08 AM](https://archive.org/download/abc-2022/abc-2022-08-01T07:08:29.369396-04:00.hyperlinks.json) |
 | [July 31 at 8:05 PM](https://archive.org/download/abc-2022/abc-2022-07-31T20:05:22.130711-04:00.hyperlinks.json) |
 | [July 31 at 5:12 PM](https://archive.org/download/abc-2022/abc-2022-07-31T17:12:02.997845-04:00.hyperlinks.json) |
 | [July 31 at 9:25 AM](https://archive.org/download/abc-2022/abc-2022-07-31T09:25:17.910735-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 30 at 12:12 PM](https://archive.org/download/abc-2022/abc-2022-07-30T12:12:53.218968-04:00.hyperlinks.json) |
 | [July 30 at 7:08 AM](https://archive.org/download/abc-2022/abc-2022-07-30T07:08:43.343100-04:00.hyperlinks.json) |
 | [July 29 at 7:59 PM](https://archive.org/download/abc-2022/abc-2022-07-29T19:59:24.160655-04:00.hyperlinks.json) |
-| [July 29 at 5:14 PM](https://archive.org/download/abc-2022/abc-2022-07-29T17:14:17.760779-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 471 accessibility trees with the Internet Archive.
+The archiving routine has saved 472 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 7:08 AM](https://archive.org/download/abc-2022/abc-2022-08-01T07:08:29.369396-04:00.accessibility.json) |
 | [July 31 at 8:05 PM](https://archive.org/download/abc-2022/abc-2022-07-31T20:05:22.130711-04:00.accessibility.json) |
 | [July 31 at 5:12 PM](https://archive.org/download/abc-2022/abc-2022-07-31T17:12:02.997845-04:00.accessibility.json) |
 | [July 31 at 9:25 AM](https://archive.org/download/abc-2022/abc-2022-07-31T09:25:17.910735-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 12:12 PM](https://archive.org/download/abc-2022/abc-2022-07-30T12:12:53.218968-04:00.accessibility.json) |
 | [July 30 at 7:08 AM](https://archive.org/download/abc-2022/abc-2022-07-30T07:08:43.343100-04:00.accessibility.json) |
 | [July 29 at 7:59 PM](https://archive.org/download/abc-2022/abc-2022-07-29T19:59:24.160655-04:00.accessibility.json) |
-| [July 29 at 5:14 PM](https://archive.org/download/abc-2022/abc-2022-07-29T17:14:17.760779-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 7:08 AM](https://archive.org/download/abc-2022/abc-2022-08-01T07:08:29.369396-04:00.lighthouse.json) |
 | [July 31 at 8:05 PM](https://archive.org/download/abc-2022/abc-2022-07-31T20:05:22.130711-04:00.lighthouse.json) |
 | [July 31 at 5:12 PM](https://archive.org/download/abc-2022/abc-2022-07-31T17:12:02.997845-04:00.lighthouse.json) |
 | [July 31 at 9:25 AM](https://archive.org/download/abc-2022/abc-2022-07-31T09:25:17.910735-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 12:13 PM](https://archive.org/download/abc-2022/abc-2022-07-30T12:12:53.218968-04:00.lighthouse.json) |
 | [July 30 at 7:08 AM](https://archive.org/download/abc-2022/abc-2022-07-30T07:08:43.343100-04:00.lighthouse.json) |
 | [July 29 at 7:59 PM](https://archive.org/download/abc-2022/abc-2022-07-29T19:59:24.160655-04:00.lighthouse.json) |
-| [July 29 at 5:14 PM](https://archive.org/download/abc-2022/abc-2022-07-29T17:14:17.760779-04:00.lighthouse.json) |
 
 
 

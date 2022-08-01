@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-01T09:31:19.757405+05:30.jpg">
+  <img src="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-01T09:31:19.757405+05:30.jpg"
+     alt="Times of India at 2022-08-01 09:31:21+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-01T09:31:19.757405+05:30.jpg">August 1 at 9:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-31T21:28:52.735016+05:30.jpg">
@@ -127,15 +136,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-27T09:27:14.895638+05:30.jpg">July 27 at 9:27 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-26T21:18:27.545109+05:30.jpg">
-  <img src="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-26T21:18:27.545109+05:30.jpg"
-     alt="Times of India at 2022-07-26 21:18:28+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-26T21:18:27.545109+05:30.jpg">July 26 at 9:18 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
@@ -162,7 +162,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 18 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 9:31 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-01T09:31:19.757405+05:30.accessibility.json) |
 | [July 31 at 9:28 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-31T21:28:52.735016+05:30.accessibility.json) |
 | [July 31 at 9:40 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-31T09:40:47.884579+05:30.accessibility.json) |
 | [July 30 at 9:30 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-30T21:30:22.614197+05:30.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 9:25 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-28T21:25:30.543128+05:30.accessibility.json) |
 | [July 28 at 9:18 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-28T09:18:11.610657+05:30.accessibility.json) |
 | [July 27 at 10:48 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-27T22:48:14.824981+05:30.accessibility.json) |
-| [July 27 at 9:20 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-27T21:20:13.700848+05:30.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 9:31 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-01T09:31:19.757405+05:30.lighthouse.json) |
 | [July 31 at 9:28 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-31T21:28:52.735016+05:30.lighthouse.json) |
 | [July 31 at 9:40 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-31T09:40:47.884579+05:30.lighthouse.json) |
 | [July 30 at 9:30 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-30T21:30:22.614197+05:30.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 9:25 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-28T21:25:30.543128+05:30.lighthouse.json) |
 | [July 28 at 9:18 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-28T09:18:11.610657+05:30.lighthouse.json) |
 | [July 27 at 10:48 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-27T22:48:14.824981+05:30.lighthouse.json) |
-| [July 27 at 9:20 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-07-27T21:20:13.700848+05:30.lighthouse.json) |
 
 
 

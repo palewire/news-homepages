@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 12 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-31T23:56:17.951810-04:00.jpg">
+  <img src="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-31T23:56:17.951810-04:00.jpg"
+     alt="Pittsburgh Post-Gazette at 2022-07-31 23:56:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-31T23:56:17.951810-04:00.jpg">July 31 at 11:56 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-31T11:52:50.720288-04:00.jpg">
@@ -127,15 +136,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-26T11:42:51.878644-04:00.jpg">July 26 at 11:42 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-25T23:54:13.205305-04:00.jpg">
-  <img src="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-25T23:54:13.205305-04:00.jpg"
-     alt="Pittsburgh Post-Gazette at 2022-07-25 23:54:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-25T23:54:13.205305-04:00.jpg">July 25 at 11:54 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
@@ -162,7 +162,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 12 accessibility trees with the Internet Archive.
+The archiving routine has saved 13 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 11:56 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-31T23:56:17.951810-04:00.accessibility.json) |
 | [July 31 at 11:52 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-31T11:52:50.720288-04:00.accessibility.json) |
 | [July 31 at 12:04 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-31T00:04:17.358197-04:00.accessibility.json) |
 | [July 30 at 11:54 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-30T11:54:12.362031-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 11:49 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-28T11:49:24.461927-04:00.accessibility.json) |
 | [July 27 at 11:42 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-27T23:42:10.980840-04:00.accessibility.json) |
 | [July 27 at 11:44 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-27T11:44:18.122471-04:00.accessibility.json) |
-| [July 26 at 11:50 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-26T23:50:42.520489-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 11:56 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-31T23:56:17.951810-04:00.lighthouse.json) |
 | [July 31 at 11:52 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-31T11:52:50.720288-04:00.lighthouse.json) |
 | [July 31 at 12:04 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-31T00:04:17.358197-04:00.lighthouse.json) |
 | [July 30 at 11:54 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-30T11:54:12.362031-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 11:49 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-28T11:49:24.461927-04:00.lighthouse.json) |
 | [July 27 at 11:42 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-27T23:42:10.980840-04:00.lighthouse.json) |
 | [July 27 at 11:44 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-27T11:44:18.122471-04:00.lighthouse.json) |
-| [July 26 at 11:50 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-07-26T23:50:42.520489-04:00.lighthouse.json) |
 
 
 

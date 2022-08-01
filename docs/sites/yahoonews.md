@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 158 screenshots with the Internet Archive.
+The archiving routine has saved 159 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 158 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-31T21:31:15.799664-04:00.jpg">
+  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-31T21:31:15.799664-04:00.jpg"
+     alt="Yahoo! News at 2022-07-31 21:31:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-31T21:31:15.799664-04:00.jpg">July 31 at 9:31 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-31T17:11:49.662533-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-29T09:37:41.826659-04:00.jpg">July 29 at 9:37 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-28T21:30:57.510303-04:00.jpg">
-  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-28T21:30:57.510303-04:00.jpg"
-     alt="Yahoo! News at 2022-07-28 21:31:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-07-28T21:30:57.510303-04:00.jpg">July 28 at 9:31 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 159 hyperlink lists with the Internet Archive.
+The archiving routine has saved 160 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 9:31 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-31T21:31:15.799664-04:00.hyperlinks.json) |
 | [July 31 at 5:11 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-31T17:11:49.662533-04:00.hyperlinks.json) |
 | [July 31 at 9:36 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-31T09:36:23.883290-04:00.hyperlinks.json) |
 | [July 31 at 9:25 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-31T09:25:40.088606-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 30 at 9:39 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-30T09:39:29.831289-04:00.hyperlinks.json) |
 | [July 29 at 9:27 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-29T21:26:59.478680-04:00.hyperlinks.json) |
 | [July 29 at 5:13 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-29T17:13:43.500184-04:00.hyperlinks.json) |
-| [July 29 at 11:51 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-29T11:51:17.137090-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 161 accessibility trees with the Internet Archive.
+The archiving routine has saved 162 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 9:31 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-31T21:31:15.799664-04:00.accessibility.json) |
 | [July 31 at 5:11 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-31T17:11:49.662533-04:00.accessibility.json) |
 | [July 31 at 9:36 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-31T09:36:23.883290-04:00.accessibility.json) |
 | [July 31 at 9:25 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-31T09:25:40.088606-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 9:39 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-30T09:39:29.831289-04:00.accessibility.json) |
 | [July 29 at 9:27 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-29T21:26:59.478680-04:00.accessibility.json) |
 | [July 29 at 5:13 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-29T17:13:43.500184-04:00.accessibility.json) |
-| [July 29 at 11:51 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-29T11:51:17.137090-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 9:31 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-31T21:31:15.799664-04:00.lighthouse.json) |
 | [July 31 at 5:11 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-31T17:11:49.662533-04:00.lighthouse.json) |
 | [July 31 at 9:36 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-31T09:36:23.883290-04:00.lighthouse.json) |
 | [July 31 at 9:25 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-31T09:25:40.088606-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 9:39 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-30T09:39:29.831289-04:00.lighthouse.json) |
 | [July 29 at 9:27 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-29T21:26:59.478680-04:00.lighthouse.json) |
 | [July 29 at 5:13 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-29T17:13:43.500184-04:00.lighthouse.json) |
-| [July 29 at 11:51 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-07-29T11:51:17.137090-04:00.lighthouse.json) |
 
 
 
