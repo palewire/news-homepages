@@ -1,5 +1,5 @@
 {
-  "created": 1659314242,
+  "created": 1659357253,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/23/items/washtimes-2022",
@@ -9720,31 +9720,83 @@
       "sha1": "0cce01a3e59e3d295616c2719a4a2625f9ce1f0b"
     },
     {
+      "name": "washtimes-2022-07-31T21:30:35.034326-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659317444",
+      "size": "100527",
+      "md5": "37dffb1cd3c5dc4675ccae66d9943306",
+      "crc32": "3c629ae4",
+      "sha1": "54fc5d9fe9998c72929169df87fad0324ee4d2dd",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-07-31T21:30:35.034326-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659317445",
+      "size": "62771",
+      "md5": "abd35b7fc3926c65e7edb862106360f6",
+      "crc32": "717705f5",
+      "sha1": "e7acac7c61855d57e2aa194db969e11a2b6dea6a",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-07-31T21:30:35.034326-04:00.jpg",
+      "source": "original",
+      "mtime": "1659317442",
+      "size": "383821",
+      "md5": "d467b0c718712d0b862453c84902fa5c",
+      "crc32": "372de522",
+      "sha1": "709ec34a4b673ad86addbb840a0ae46b44e1afd3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "washtimes-2022-07-31T21:30:35.034326-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659317447",
+      "size": "1520",
+      "md5": "62c03c84bb45113d94316c94d3966471",
+      "crc32": "ac994736",
+      "sha1": "ba3172a44206de2c24d194a4a737f8cd49ef64b4",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-07-31T21:30:35.034326-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "washtimes-2022-07-31T21:30:35.034326-04:00.jpg",
+      "mtime": "1659317689",
+      "size": "11082",
+      "md5": "fe38308be1135cd69a0b607a5a84fcd2",
+      "crc32": "b4d6a145",
+      "sha1": "349222c7815bd22a79eb431831e6fc5431c52653"
+    },
+    {
       "name": "washtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d1274d75d4f9736fc5bd665955937de4f5ce7223",
-      "mtime": "1659293470",
-      "size": "199082",
-      "md5": "bbaf59ed0f8e2cef0faf7ec8cf22586b",
-      "crc32": "d94c5132",
-      "sha1": "f301ea8b63e6f997cd3a3cbe0c6c633237d2671f",
+      "btih": "4d977de4231efbbd74f157c0e1c01973c080ee59",
+      "mtime": "1659317736",
+      "size": "200148",
+      "md5": "a653ebc0bf5278c3685f6e0d49e0a88f",
+      "crc32": "abe34465",
+      "sha1": "9800fc6c23360216fbd0822e32df7cb6376a6b58",
       "format": "Archive BitTorrent"
     },
     {
       "name": "washtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "756ec96633f0c044b22191048df73263",
+      "md5": "cb3a4f1bd9d336eef30ad584e1766eee",
       "summation": "md5"
     },
     {
       "name": "washtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659292824",
-      "size": "1081344",
-      "md5": "37d35e9384f1dabae2b131c5cbe43c01",
-      "crc32": "56df7791",
-      "sha1": "8ccf8e8a928c0516b46deed519a359f8be6782d4",
+      "mtime": "1659317459",
+      "size": "1085440",
+      "md5": "2945fce27377c4366015d64f45b4da6d",
+      "crc32": "3087b4ba",
+      "sha1": "88dbb8c8d7d2608639dd5c5010e05dde53c9cd74",
       "format": "Metadata"
     },
     {
@@ -9758,9 +9810,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 930,
-  "item_last_updated": 1659293470,
-  "item_size": 118877596,
+  "files_count": 935,
+  "item_last_updated": 1659317736,
+  "item_size": 119442479,
   "metadata": {
     "identifier": "washtimes-2022",
     "collection": [
@@ -9777,16 +9829,16 @@
     "publicdate": "2022-03-25 18:45:19",
     "addeddate": "2022-03-25 18:45:19"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 1381521583,
+  "server": "ia902505.us.archive.org",
+  "uniq": 1845165908,
   "washtimes-2022": [
     {
       "url": "https://m.washingtontimes.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_washingtontimes_com-_-2022_07_31_18_32_52.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_washingtontimes_com-_-2022_07_31_18_32_52.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_washingtontimes_com-_-2022_08_01_01_12_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_washingtontimes_com-_-2022_08_01_01_12_31.report.json",
       "summary": {
-        "performance": 0.34,
+        "performance": 0.3,
         "accessibility": 0.83,
         "best-practices": 0.83,
         "seo": 0.93,
@@ -9796,10 +9848,10 @@
     {
       "url": "https://m.washingtontimes.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_washingtontimes_com-_-2022_07_31_18_33_27.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_washingtontimes_com-_-2022_07_31_18_33_27.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_washingtontimes_com-_-2022_08_01_01_13_02.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_washingtontimes_com-_-2022_08_01_01_13_02.report.json",
       "summary": {
-        "performance": 0.31,
+        "performance": 0.41,
         "accessibility": 0.83,
         "best-practices": 0.83,
         "seo": 0.93,
@@ -9809,10 +9861,10 @@
     {
       "url": "https://m.washingtontimes.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_washingtontimes_com-_-2022_07_31_18_33_10.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_washingtontimes_com-_-2022_07_31_18_33_10.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_washingtontimes_com-_-2022_08_01_01_12_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_washingtontimes_com-_-2022_08_01_01_12_48.report.json",
       "summary": {
-        "performance": 0.43,
+        "performance": 0.5,
         "accessibility": 0.83,
         "best-practices": 0.83,
         "seo": 0.93,
@@ -9821,7 +9873,7 @@
     }
   ],
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

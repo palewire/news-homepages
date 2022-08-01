@@ -1,5 +1,5 @@
 {
-  "created": 1659313544,
+  "created": 1659356719,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/16/items/marshallproj-2022",
@@ -5414,31 +5414,72 @@
       "sha1": "26b73d258fb0b80eaf285b6fc11f1b3766faf316"
     },
     {
+      "name": "marshallproj-2022-08-01T08:24:16.910101-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659356663",
+      "size": "15602",
+      "md5": "d73d40613e1cb9a822710c172ad29369",
+      "crc32": "3817409d",
+      "sha1": "791df36f500cc8599e6350cc44c4049f7b992be6",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-08-01T08:24:16.910101-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659356665",
+      "size": "20271",
+      "md5": "29bbc1812a71fcd3328cd66e69871add",
+      "crc32": "6d1f9b22",
+      "sha1": "4366ac236e0411bfb6644401a945ccb262f49725",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-08-01T08:24:16.910101-04:00.jpg",
+      "source": "original",
+      "mtime": "1659356662",
+      "size": "199091",
+      "md5": "eeb6cd947202273be951a81d5d535f33",
+      "crc32": "cba36c25",
+      "sha1": "030ca2035852678c55b55ab764c2461dc458fc2f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marshallproj-2022-08-01T08:24:16.910101-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659356667",
+      "size": "1558",
+      "md5": "d14b21fb8b0abaaa64a9ab9cf7eef5f6",
+      "crc32": "d2ac8cc7",
+      "sha1": "8909f1554c867655fec2aedff0a22b5fd24d644e",
+      "format": "JSON"
+    },
+    {
       "name": "marshallproj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "78a71ce1e0a3391bb0484f925a49008b29d49aa1",
-      "mtime": "1659313494",
-      "size": "111616",
-      "md5": "94b91ed77346c827a1a4a721b05c1e30",
-      "crc32": "77613796",
-      "sha1": "b0d50c7b0fa0b4c1abe2faef943587eacffdc7e9",
+      "btih": "0ad17a97761689a6689f540e1908974010a7f716",
+      "mtime": "1659356712",
+      "size": "112487",
+      "md5": "e82c0c45cf9ea39d35a39182a726b0ef",
+      "crc32": "55b14a20",
+      "sha1": "7552641d8a853e90b9e7083fd02d50d8ace13d9b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "marshallproj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "88e02ba766f8187a1ac104a7cf0cb3c0",
+      "md5": "fc27cf9738ed3077ffe7651cd42ff5c5",
       "summation": "md5"
     },
     {
       "name": "marshallproj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659313204",
-      "size": "618496",
-      "md5": "5f9fc17e72d48291057417692ff2b0d6",
-      "crc32": "fa83e65d",
-      "sha1": "dbc669d6a8b1f174dda1432645d06efbb17e1ff0",
+      "mtime": "1659356670",
+      "size": "622592",
+      "md5": "1726005b6780e472b5ebeeb1da4b32bc",
+      "crc32": "d06e5c0e",
+      "sha1": "f3b9d2b0c260a765333f3ab786758c297953feaa",
       "format": "Metadata"
     },
     {
@@ -5452,9 +5493,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 520,
-  "item_last_updated": 1659313494,
-  "item_size": 29288253,
+  "files_count": 524,
+  "item_last_updated": 1659356712,
+  "item_size": 29529742,
   "metadata": {
     "identifier": "marshallproj-2022",
     "collection": [
@@ -5471,10 +5512,21 @@
     "publicdate": "2022-06-17 17:22:20",
     "addeddate": "2022-06-17 17:22:20"
   },
+  "pending_tasks": true,
   "server": "ia902503.us.archive.org",
-  "uniq": 1769872421,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3349628614,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 678482734,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia902503.us.archive.org"
   ]
 }

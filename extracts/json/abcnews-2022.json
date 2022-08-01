@@ -1,5 +1,46 @@
 {
-  "created": 1659279873,
+  "abcnews-2022": [
+    {
+      "url": "https://www.abc.net.au/news/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_abc_net_au-_news_-2022_08_01_00_59_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_abc_net_au-_news_-2022_08_01_00_59_56.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.abc.net.au/news/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_abc_net_au-_news_-2022_08_01_01_00_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_abc_net_au-_news_-2022_08_01_01_00_19.report.json",
+      "summary": {
+        "performance": 0.27,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.abc.net.au/news/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_abc_net_au-_news_-2022_08_01_01_00_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_abc_net_au-_news_-2022_08_01_01_00_39.report.json",
+      "summary": {
+        "performance": 0.27,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "created": 1659356387,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/29/items/abcnews-2022",
@@ -588,31 +629,83 @@
       "sha1": "9d2132cb44cfc9d0eedd9e55a21c40a5266c26a1"
     },
     {
+      "name": "abcnews-2022-08-01T11:22:36.143716+10:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659316959",
+      "size": "57987",
+      "md5": "5975b6ddb63a76de1bffea7354659ecb",
+      "crc32": "10ce6cb3",
+      "sha1": "906d603e5a79e7ad7c67d3d1a729c1c9bc5e3bba",
+      "format": "JSON"
+    },
+    {
+      "name": "abcnews-2022-08-01T11:22:36.143716+10:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659316960",
+      "size": "41281",
+      "md5": "4619f3961ad53c9c661c25f24ad6191e",
+      "crc32": "8c84322f",
+      "sha1": "4e50ec8899bde862d3989046335f72106d19a4a1",
+      "format": "JSON"
+    },
+    {
+      "name": "abcnews-2022-08-01T11:22:36.143716+10:00.jpg",
+      "source": "original",
+      "mtime": "1659316957",
+      "size": "337779",
+      "md5": "5621bf51d4424f44bb6f61a07837f40e",
+      "crc32": "0e62b3ae",
+      "sha1": "4eed1458adcd5d0f5126d9cff6121c731f815140",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abcnews-2022-08-01T11:22:36.143716+10:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659316962",
+      "size": "1504",
+      "md5": "37b7e9b587d0dedaa61003c94fd0cf71",
+      "crc32": "f91ed6a5",
+      "sha1": "e45d7894a74ee955a396c32d0e119c07f6d78a96",
+      "format": "JSON"
+    },
+    {
+      "name": "abcnews-2022-08-01T11:22:36.143716+10:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abcnews-2022-08-01T11:22:36.143716+10:00.jpg",
+      "mtime": "1659317021",
+      "size": "10313",
+      "md5": "02bc6a7593ad243cfa65e4c5046cd0e3",
+      "crc32": "1ccb160f",
+      "sha1": "80a74e3808532fab6af8dbf87bb7acd0530db692"
+    },
+    {
       "name": "abcnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8e935494480ce65cea2af68447a8d84fdfff1f13",
-      "mtime": "1659279862",
-      "size": "13202",
-      "md5": "61bdc7ebf9a2863b536701ea9a224a85",
-      "crc32": "ca2705b9",
-      "sha1": "188ff42935890ed25263432d71d2b04269968797",
+      "btih": "7e2dda5023ac857531c24bb6edecf8835a8cfc14",
+      "mtime": "1659317034",
+      "size": "14257",
+      "md5": "a7a5928f90da6089ae909f65adb0cad1",
+      "crc32": "48eee716",
+      "sha1": "ef6d1a355626221d9a7295342444c5a4ab040b79",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abcnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0f59a9f739957dfeba96d6ef9ca624ac",
+      "md5": "d658965fd1489fa15d2db49aac81ca41",
       "summation": "md5"
     },
     {
       "name": "abcnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659274030",
-      "size": "81920",
-      "md5": "f25a50cf7fc837c75a343aec3cf7a0d8",
-      "crc32": "73ace73f",
-      "sha1": "f85d96e149fb6035e97274dba41f5ba5ae8edba9",
+      "mtime": "1659316965",
+      "size": "86016",
+      "md5": "a30208bbde688d1e3c27897c33c70167",
+      "crc32": "05ca93b5",
+      "sha1": "c7ff9eb74cd1779b4902d2b59a1e3b8da391519a",
       "format": "Metadata"
     },
     {
@@ -626,9 +719,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 60,
-  "item_last_updated": 1659279862,
-  "item_size": 5357734,
+  "files_count": 65,
+  "item_last_updated": 1659317034,
+  "item_size": 5811749,
   "metadata": {
     "identifier": "abcnews-2022",
     "collection": [
@@ -645,10 +738,10 @@
     "publicdate": "2022-07-26 13:24:06",
     "addeddate": "2022-07-26 13:24:06"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 1173727277,
+  "server": "ia902500.us.archive.org",
+  "uniq": 1815810910,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

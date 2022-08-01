@@ -1,5 +1,5 @@
 {
-  "created": 1659312505,
+  "created": 1659352252,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/5/items/austinvida-2022",
@@ -2076,31 +2076,72 @@
       "sha1": "93de1a52a63e5e9c9ddb457608ac5a9bf416804c"
     },
     {
+      "name": "austinvida-2022-08-01T06:10:00.826801-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659352206",
+      "size": "18627",
+      "md5": "c330d1fcfb94ba85f886196352740bba",
+      "crc32": "2b44cddd",
+      "sha1": "31b95419200a38dae0ca31d30c719ddb8497766f",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-08-01T06:10:00.826801-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659352208",
+      "size": "4772",
+      "md5": "4da2426629da7d6860c771bcedb4253e",
+      "crc32": "8f025d60",
+      "sha1": "2b56cae95628a674d4860267fda8e3119f409120",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-08-01T06:10:00.826801-05:00.jpg",
+      "source": "original",
+      "mtime": "1659352204",
+      "size": "319102",
+      "md5": "5946529a8f520c657bde3fa1f1b8426f",
+      "crc32": "8624ebaa",
+      "sha1": "ce926f6f0f24d405336a21c07dbc5ee67a22fe8f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "austinvida-2022-08-01T06:10:00.826801-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659352209",
+      "size": "1483",
+      "md5": "06444b6e43205b13ecbe161c99a72935",
+      "crc32": "e42d0a6b",
+      "sha1": "6d5b28d23bec79810ef51179cdb8607409e92dab",
+      "format": "JSON"
+    },
+    {
       "name": "austinvida-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cdd3df5bf9efadd9d41dd288ad04ba0568a8195c",
-      "mtime": "1659312492",
-      "size": "43447",
-      "md5": "62074cc2191ba8a0f80ddee164527334",
-      "crc32": "392f7002",
-      "sha1": "1d55e0b9277eb3ee06159ae28132e00ece13c880",
+      "btih": "ba5e4df12da2b6701876af5906e15cbc882f8462",
+      "mtime": "1659352249",
+      "size": "44289",
+      "md5": "966b99e396afa66e0f07bb2cd9b4df1a",
+      "crc32": "b96af2ed",
+      "sha1": "6b7bc29ee222e78223bc6647e0d4ed4993c7c99c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "austinvida-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9a3ba3d9e239831cdb2e38117c0e4ab6",
+      "md5": "239c23ee6355a21aea55441309bece03",
       "summation": "md5"
     },
     {
       "name": "austinvida-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659312414",
-      "size": "253952",
-      "md5": "962c4f90f45bc06d1c24692194dbdd62",
-      "crc32": "b10ce979",
-      "sha1": "3ebf9384366b9f62c4e3e1bdc83e2906add40bb8",
+      "mtime": "1659352214",
+      "size": "262144",
+      "md5": "9626cee4369116a4e7dc786c0c53a7e1",
+      "crc32": "822af9fd",
+      "sha1": "f909238a5791654a525f59bd0d85354eac4cf01a",
       "format": "Metadata"
     },
     {
@@ -2114,9 +2155,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 202,
-  "item_last_updated": 1659312492,
-  "item_size": 15342356,
+  "files_count": 206,
+  "item_last_updated": 1659352249,
+  "item_size": 15695374,
   "metadata": {
     "identifier": "austinvida-2022",
     "collection": [
@@ -2133,10 +2174,21 @@
     "publicdate": "2022-07-10 15:39:44",
     "addeddate": "2022-07-10 15:39:44"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 1365677544,
+  "pending_tasks": true,
+  "server": "ia601500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3349588356,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1322931638,
   "workable_servers": [
-    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

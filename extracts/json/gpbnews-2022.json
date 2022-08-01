@@ -1,5 +1,5 @@
 {
-  "created": 1659313743,
+  "created": 1659356695,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/20/items/gpbnews-2022",
@@ -1142,31 +1142,83 @@
       "sha1": "22277ff24c5dbfe71b9c712a870ea49c0a72006d"
     },
     {
+      "name": "gpbnews-2022-07-31T22:36:02.075106-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659321365",
+      "size": "41669",
+      "md5": "b8f23a844d5783482b1cfcf956b154d7",
+      "crc32": "ce520e54",
+      "sha1": "575590096878bffdfec8d27f9f9fdc7e8b17edd8",
+      "format": "JSON"
+    },
+    {
+      "name": "gpbnews-2022-07-31T22:36:02.075106-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659321367",
+      "size": "34668",
+      "md5": "0ad624ce2ba904e18654662fd13eeb0d",
+      "crc32": "dd746442",
+      "sha1": "8564d784319b409409ae30d651fe58c180395b77",
+      "format": "JSON"
+    },
+    {
+      "name": "gpbnews-2022-07-31T22:36:02.075106-04:00.jpg",
+      "source": "original",
+      "mtime": "1659321363",
+      "size": "194653",
+      "md5": "b569c5f38cf8e0b5df2f847ad18f76ad",
+      "crc32": "ad1a8b7f",
+      "sha1": "0f4278873a52d494499f8f4a1bc093d4834e574e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gpbnews-2022-07-31T22:36:02.075106-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659321369",
+      "size": "1459",
+      "md5": "b0161ca7c2a2b73083cc8441d1e05934",
+      "crc32": "c0f1a11c",
+      "sha1": "2817b6750bcd2f6f4dc473fd79ccabb7cc02623f",
+      "format": "JSON"
+    },
+    {
+      "name": "gpbnews-2022-07-31T22:36:02.075106-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gpbnews-2022-07-31T22:36:02.075106-04:00.jpg",
+      "mtime": "1659321567",
+      "size": "9679",
+      "md5": "1dae09b298e2c18ffa2b23817ceec3cb",
+      "crc32": "e456c5db",
+      "sha1": "b9dc46900dc6bf6ca53aebafca3d8c78eb2cc555"
+    },
+    {
       "name": "gpbnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cb8d1ed533b17aefae1e34a5c72a5920cb332ac6",
-      "mtime": "1659282304",
-      "size": "24210",
-      "md5": "bf7175a1f8a7256255bff344fc52cede",
-      "crc32": "1503f4de",
-      "sha1": "adf92e2f57aed633484b209d8e3a7824b9be894e",
+      "btih": "2f322a712e119304607330e4e40bb985a5721a13",
+      "mtime": "1659321585",
+      "size": "25244",
+      "md5": "9120ee76cf3cd45c4f5c0d05e293832b",
+      "crc32": "94245586",
+      "sha1": "dfb69d473dd12d33f1c493bd70fee9cccebc5468",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gpbnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ac2c99451fa1bada64fe7ebf28860382",
+      "md5": "9d8103fe1ab30624090306dd455524ed",
       "summation": "md5"
     },
     {
       "name": "gpbnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659278278",
-      "size": "155648",
-      "md5": "87a2f168353962761f6dac9f1abdd245",
-      "crc32": "152dffc7",
-      "sha1": "0eb287ef1149c6694815fea9c203dad13ea740b9",
+      "mtime": "1659321373",
+      "size": "159744",
+      "md5": "7b25505331d07c2c20ad7062db21e659",
+      "crc32": "b01f540b",
+      "sha1": "cd0b8b6361fad110ff6c1c4601d9ecbbc80dd6e7",
       "format": "Metadata"
     },
     {
@@ -1180,15 +1232,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 113,
+  "files_count": 118,
   "gpbnews-2022": [
     {
       "url": "https://www.gpb.org/news",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gpb_org-_news-2022_07_31_14_14_14.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gpb_org-_news-2022_07_31_14_14_14.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gpb_org-_news-2022_08_01_02_15_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gpb_org-_news-2022_08_01_02_15_06.report.json",
       "summary": {
-        "performance": 0.27,
+        "performance": 0.19,
         "accessibility": 0.89,
         "best-practices": 1,
         "seo": 0.77,
@@ -1198,10 +1250,10 @@
     {
       "url": "https://www.gpb.org/news",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gpb_org-_news-2022_07_31_14_14_54.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gpb_org-_news-2022_07_31_14_14_54.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gpb_org-_news-2022_08_01_02_15_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gpb_org-_news-2022_08_01_02_15_49.report.json",
       "summary": {
-        "performance": 0.39,
+        "performance": 0.37,
         "accessibility": 0.89,
         "best-practices": 1,
         "seo": 0.77,
@@ -1211,10 +1263,10 @@
     {
       "url": "https://www.gpb.org/news",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gpb_org-_news-2022_07_31_14_14_35.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gpb_org-_news-2022_07_31_14_14_35.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gpb_org-_news-2022_08_01_02_15_30.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gpb_org-_news-2022_08_01_02_15_30.report.json",
       "summary": {
-        "performance": 0.39,
+        "performance": 0.35,
         "accessibility": 0.89,
         "best-practices": 1,
         "seo": 0.77,
@@ -1222,8 +1274,8 @@
       }
     }
   ],
-  "item_last_updated": 1659282304,
-  "item_size": 6999572,
+  "item_last_updated": 1659321585,
+  "item_size": 7286830,
   "metadata": {
     "identifier": "gpbnews-2022",
     "collection": [
@@ -1241,7 +1293,7 @@
     "addeddate": "2022-07-20 23:31:18"
   },
   "server": "ia902501.us.archive.org",
-  "uniq": 745475013,
+  "uniq": 885827337,
   "workable_servers": [
     "ia902501.us.archive.org",
     "ia802501.us.archive.org"

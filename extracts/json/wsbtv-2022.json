@@ -1,5 +1,5 @@
 {
-  "created": 1659285411,
+  "created": 1659357312,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/27/items/wsbtv-2022",
@@ -1080,31 +1080,83 @@
       "sha1": "20832a5740ad7ac3ec880808b459e17ddf6dac47"
     },
     {
+      "name": "wsbtv-2022-08-01T00:03:20.017951-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659326606",
+      "size": "21046",
+      "md5": "6bf48467e552e16eeb4d0bdd7f2dbd09",
+      "crc32": "266ffb7a",
+      "sha1": "d578bfb5538b39e1af54d8b0a5151ee699db404c",
+      "format": "JSON"
+    },
+    {
+      "name": "wsbtv-2022-08-01T00:03:20.017951-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659326608",
+      "size": "20521",
+      "md5": "129a383a0d29c8195f7c2e813d193e11",
+      "crc32": "67abee0a",
+      "sha1": "1cfa731b02b139ff9b4f7bd91eb99073db6d9d99",
+      "format": "JSON"
+    },
+    {
+      "name": "wsbtv-2022-08-01T00:03:20.017951-04:00.jpg",
+      "source": "original",
+      "mtime": "1659326602",
+      "size": "284668",
+      "md5": "29ffc827437721174f31f12d475562b0",
+      "crc32": "798ed9ad",
+      "sha1": "730e1178cb822a8fb8832c2b4d7c2a56466de6e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wsbtv-2022-08-01T00:03:20.017951-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659326609",
+      "size": "1449",
+      "md5": "ab2d6e315e1631daeb24d66418d90749",
+      "crc32": "4c9e9873",
+      "sha1": "3b950d88460cafa9887af7e68781a4606b650f9a",
+      "format": "JSON"
+    },
+    {
+      "name": "wsbtv-2022-08-01T00:03:20.017951-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wsbtv-2022-08-01T00:03:20.017951-04:00.jpg",
+      "mtime": "1659326855",
+      "size": "10993",
+      "md5": "09d2e7fdb5b5c03204829d6bac997caf",
+      "crc32": "4d29c58c",
+      "sha1": "175dfbbd517ad88d1d6a80f4ead448a73aa8b8b4"
+    },
+    {
       "name": "wsbtv-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4f6a8e541ee55e8fc6e5455ead45e2ff3b829ad3",
-      "mtime": "1659285244",
-      "size": "22770",
-      "md5": "79d21971b35e8563f3457f0025051532",
-      "crc32": "e54efac3",
-      "sha1": "15295766bf515d7fdcecd51461c5ec64a702a1a2",
+      "btih": "ab52167e39ecc6b4760d25eb9ced445cef1ad393",
+      "mtime": "1659326861",
+      "size": "23815",
+      "md5": "32f6709dd28a27dff500a509f6f8e99a",
+      "crc32": "f8f214bc",
+      "sha1": "1e4122f9f6a41e83a2002f1259ecbf700f999cb6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wsbtv-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "55f3b5c4327c41feb4316edb5fd73e39",
+      "md5": "497f5fc0a7ba93fc7105310f61f5f225",
       "summation": "md5"
     },
     {
       "name": "wsbtv-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659283239",
-      "size": "147456",
-      "md5": "738f68f4e1a5e193b80179e4f3c765b2",
-      "crc32": "9185fdf1",
-      "sha1": "06169f9e2fab2028017c7fc44cca0a12de38a1d1",
+      "mtime": "1659326612",
+      "size": "151552",
+      "md5": "b5dc4c962b461dc83fbe3b49e5f56263",
+      "crc32": "33346e4d",
+      "sha1": "89732012c0e3e48978155f7679315f52445f2861",
       "format": "Metadata"
     },
     {
@@ -1118,9 +1170,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 107,
-  "item_last_updated": 1659285244,
-  "item_size": 7771739,
+  "files_count": 112,
+  "item_last_updated": 1659326861,
+  "item_size": 8115557,
   "metadata": {
     "identifier": "wsbtv-2022",
     "collection": [
@@ -1137,10 +1189,51 @@
     "publicdate": "2022-07-20 23:32:36",
     "addeddate": "2022-07-20 23:32:36"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1890302575,
+  "server": "ia601508.us.archive.org",
+  "uniq": 77827128,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
+  ],
+  "wsbtv-2022": [
+    {
+      "url": "https://www.wsbtv.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsbtv_com-_-2022_08_01_03_50_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsbtv_com-_-2022_08_01_03_50_36.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.72,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.wsbtv.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsbtv_com-_-2022_08_01_03_51_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsbtv_com-_-2022_08_01_03_51_07.report.json",
+      "summary": {
+        "performance": 0.22,
+        "accessibility": 0.77,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.wsbtv.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsbtv_com-_-2022_08_01_03_52_33.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsbtv_com-_-2022_08_01_03_52_33.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.7,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    }
   ]
 }

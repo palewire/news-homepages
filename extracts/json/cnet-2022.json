@@ -1,5 +1,5 @@
 {
-  "created": 1659312795,
+  "created": 1659352507,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/33/items/cnet-2022",
@@ -3200,31 +3200,72 @@
       "sha1": "dc5ac047235caa8d7b21a758e0cfd38a7089a46f"
     },
     {
+      "name": "cnet-2022-08-01T04:14:09.490961-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659352454",
+      "size": "26986",
+      "md5": "ead904a160e53326fdb3b04b4f9b01e9",
+      "crc32": "8833ca23",
+      "sha1": "b8a497bce6a768765ac9f33b7b38ae1b97a50ac4",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-08-01T04:14:09.490961-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659352456",
+      "size": "25238",
+      "md5": "c4f2af95484e7070e5105ee61c8113e3",
+      "crc32": "ad2e4b1f",
+      "sha1": "8bd76a6d8ed41ab061100f5e4e2cc65552850539",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-08-01T04:14:09.490961-07:00.jpg",
+      "source": "original",
+      "mtime": "1659352453",
+      "size": "199703",
+      "md5": "07052dff4dfc15ae41f4fd9cebbeccc1",
+      "crc32": "92d38c0f",
+      "sha1": "764e41fe6dab0ee0681649a2f8f19fe4ae619543",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cnet-2022-08-01T04:14:09.490961-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659352458",
+      "size": "1438",
+      "md5": "c2372f6e1e39f46c57050fb9c2dcf070",
+      "crc32": "53adcabe",
+      "sha1": "8e825efc7982aad9fd0a11fe5e89963817c67a64",
+      "format": "JSON"
+    },
+    {
       "name": "cnet-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0edadf50990a4f4b571a1a79037ddecc9cd8926f",
-      "mtime": "1659312771",
-      "size": "64180",
-      "md5": "8cb279d8bd266fbef474cc57b8723e9d",
-      "crc32": "aae8f506",
-      "sha1": "af921bf8a11727f5fff63c7f542d9c7248e84c3f",
+      "btih": "1d8a9874724a918a8790c3defb87270c78de2c8d",
+      "mtime": "1659352503",
+      "size": "65019",
+      "md5": "e175c7a30ebb6ed9be5b1148ce634a02",
+      "crc32": "258cef80",
+      "sha1": "d4c791e8a35afb60095c77d8c7b43fa2cad82c0e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnet-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2cfe1af77e4ed84c7a7be01499bf147c",
+      "md5": "063a8c5a9ed04f4306bf80e7098221b4",
       "summation": "md5"
     },
     {
       "name": "cnet-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659312671",
-      "size": "376832",
-      "md5": "3adf901dface4ba7289df0196624d8ec",
-      "crc32": "98ba5183",
-      "sha1": "145a7db42a0e09ec42782254a89d7ea5520627a6",
+      "mtime": "1659352462",
+      "size": "380928",
+      "md5": "3df3639d606f2ea21b31c95428ef1f88",
+      "crc32": "4d26c09a",
+      "sha1": "ca66a6087e443519b2e03b27c2f69c545a406775",
       "format": "Metadata"
     },
     {
@@ -3238,9 +3279,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 309,
-  "item_last_updated": 1659312771,
-  "item_size": 20339768,
+  "files_count": 313,
+  "item_last_updated": 1659352503,
+  "item_size": 20598068,
   "metadata": {
     "identifier": "cnet-2022",
     "collection": [
@@ -3257,10 +3298,21 @@
     "publicdate": "2022-07-04 20:17:32",
     "addeddate": "2022-07-04 20:17:32"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 561165314,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3349591312,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 624949531,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

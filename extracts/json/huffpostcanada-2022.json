@@ -1,5 +1,5 @@
 {
-  "created": 1659313224,
+  "created": 1659352761,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/22/items/huffpostcanada-2022",
@@ -880,31 +880,72 @@
       "sha1": "76ca9fe204a3a9a719ec9cf4394b5f758709982f"
     },
     {
+      "name": "huffpostcanada-2022-08-01T07:18:30.715023-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659352714",
+      "size": "34633",
+      "md5": "eacbbbbc9aa434537fccf707996a709e",
+      "crc32": "62bfed47",
+      "sha1": "47d75354f60a52a8f98dee39d15a5f6f9d91ca97",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpostcanada-2022-08-01T07:18:30.715023-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659352717",
+      "size": "60808",
+      "md5": "c1af3a26e794bd28fd96edd4eff0d298",
+      "crc32": "613287b2",
+      "sha1": "e4f3ea78901a72ae79f8182d09045cd28980be32",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpostcanada-2022-08-01T07:18:30.715023-04:00.jpg",
+      "source": "original",
+      "mtime": "1659352713",
+      "size": "217817",
+      "md5": "74d2fa61eb3b67c99e638c3115b573ca",
+      "crc32": "9e7a0f4d",
+      "sha1": "626be7f5a74c8a6e70646f5b6ec18926b05e20e1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "huffpostcanada-2022-08-01T07:18:30.715023-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659352718",
+      "size": "1477",
+      "md5": "23d76c57e46175ea4343942840f8932d",
+      "crc32": "37516f14",
+      "sha1": "23a07de85b5c9325ae13b886f52b476584a55eba",
+      "format": "JSON"
+    },
+    {
       "name": "huffpostcanada-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a49f085e1061897093bc8f29874c16f080e8b8fd",
-      "mtime": "1659313179",
-      "size": "19656",
-      "md5": "3b3941905247fceba6d4e39056f36627",
-      "crc32": "3a247750",
-      "sha1": "5480c02f819a2cf8ef953da4a6fdfe6c38db411c",
+      "btih": "59c15c59d76a2b4bae17b4c1f7c2641e0c687425",
+      "mtime": "1659352757",
+      "size": "20515",
+      "md5": "15d95e40a64da58185d9812fc265eebf",
+      "crc32": "20d70069",
+      "sha1": "954d81563432cb9db9b9b50f1b8eb0251ee99bac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "huffpostcanada-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a64125215b05f06c091a00ea26f5c010",
+      "md5": "64305296655c05b076f440ffc9d2154b",
       "summation": "md5"
     },
     {
       "name": "huffpostcanada-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659313006",
-      "size": "126976",
-      "md5": "4932dd8ba52210ff951c36b93b12de8d",
-      "crc32": "e0715c13",
-      "sha1": "10f2ede190b946c20e04ae2dc785c651a384ed67",
+      "mtime": "1659352722",
+      "size": "135168",
+      "md5": "19cfb22a02fdcdd73dec3b322f45a5f3",
+      "crc32": "326fb4f9",
+      "sha1": "bb89cb945b9e5b4f1b337626c65208e25c55518a",
       "format": "Metadata"
     },
     {
@@ -918,9 +959,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 88,
-  "item_last_updated": 1659313179,
-  "item_size": 5902101,
+  "files_count": 92,
+  "item_last_updated": 1659352757,
+  "item_size": 6225887,
   "metadata": {
     "identifier": "huffpostcanada-2022",
     "collection": [
@@ -937,10 +978,21 @@
     "publicdate": "2022-07-24 06:33:07",
     "addeddate": "2022-07-24 06:33:07"
   },
-  "server": "ia802501.us.archive.org",
-  "uniq": 1492834448,
+  "pending_tasks": true,
+  "server": "ia902501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3349593661,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1617001091,
   "workable_servers": [
-    "ia802501.us.archive.org",
     "ia902501.us.archive.org"
   ]
 }

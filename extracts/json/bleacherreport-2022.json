@@ -1,5 +1,5 @@
 {
-  "created": 1659312795,
+  "created": 1659352344,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/30/items/bleacherreport-2022",
@@ -2560,31 +2560,72 @@
       "sha1": "8854a1a64f0fc25f657b1437dab619e3907a611d"
     },
     {
+      "name": "bleacherreport-2022-08-01T07:11:32.257591-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659352296",
+      "size": "14840",
+      "md5": "54cdeb43c1c4638369501d79941fefb4",
+      "crc32": "c1a8c3af",
+      "sha1": "8600652662bfc0138611bec06af47778530570a8",
+      "format": "JSON"
+    },
+    {
+      "name": "bleacherreport-2022-08-01T07:11:32.257591-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659352298",
+      "size": "14942",
+      "md5": "c8918d030b57077a29b05064d6a06314",
+      "crc32": "97a4a96d",
+      "sha1": "dfebab3f48635d923ea2091a4846a802c488891a",
+      "format": "JSON"
+    },
+    {
+      "name": "bleacherreport-2022-08-01T07:11:32.257591-04:00.jpg",
+      "source": "original",
+      "mtime": "1659352294",
+      "size": "202379",
+      "md5": "91befac6ceabe38c1259bd7aca3ca098",
+      "crc32": "2b946bec",
+      "sha1": "05fe4396212bbbc500e8860b4fec2e61f44c6ff1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bleacherreport-2022-08-01T07:11:32.257591-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659352300",
+      "size": "1494",
+      "md5": "a78048a542bc926b7afda23096790bf3",
+      "crc32": "317326c7",
+      "sha1": "89c51bf72ff039ac5fb84feb14bc5ba9c8b14a34",
+      "format": "JSON"
+    },
+    {
       "name": "bleacherreport-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d9e8ce779a7723a97bc3634fe485052ca95cd925",
-      "mtime": "1659312731",
-      "size": "54145",
-      "md5": "9e2112199ba785119d8617f3c756141b",
-      "crc32": "4d080b1a",
-      "sha1": "694580f498f45f6c906be9ca000e221914fea460",
+      "btih": "354b9578d42b292e3ca319bd61e4b2a3e3e02f35",
+      "mtime": "1659352339",
+      "size": "55024",
+      "md5": "8989cfa1bb972fbc09160f8c9b910627",
+      "crc32": "50989c95",
+      "sha1": "85376dccc9b9f83d4d659dfcc5ee2b791e883103",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bleacherreport-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "21abd7e96826bf70cffdb3026153d902",
+      "md5": "1cf4cddadebaf792d2c4cda886353166",
       "summation": "md5"
     },
     {
       "name": "bleacherreport-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659312561",
-      "size": "307200",
-      "md5": "ba2b5d977609aada3a5a7ae24d8cf556",
-      "crc32": "24efd8db",
-      "sha1": "ddad8e816f4774181d09a18e81adf4d43f278f75",
+      "mtime": "1659352303",
+      "size": "315392",
+      "md5": "f3563a794901ef3d5d78556e8e40f770",
+      "crc32": "b96174de",
+      "sha1": "f960e92ffe36d512975049112c7af22316414314",
       "format": "Metadata"
     },
     {
@@ -2598,9 +2639,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 248,
-  "item_last_updated": 1659312731,
-  "item_size": 15167717,
+  "files_count": 252,
+  "item_last_updated": 1659352339,
+  "item_size": 15410443,
   "metadata": {
     "identifier": "bleacherreport-2022",
     "collection": [
@@ -2617,10 +2658,21 @@
     "publicdate": "2022-07-04 20:45:29",
     "addeddate": "2022-07-04 20:45:29"
   },
+  "pending_tasks": true,
   "server": "ia902506.us.archive.org",
-  "uniq": 1612706549,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3349589353,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 447043945,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia902506.us.archive.org"
   ]
 }

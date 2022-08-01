@@ -1,5 +1,5 @@
 {
-  "created": 1659313476,
+  "created": 1659356406,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/27/items/jagrannews-2022",
@@ -514,31 +514,72 @@
       "sha1": "dc1740f3e363183da231ae830c6099d2e4386ae0"
     },
     {
+      "name": "jagrannews-2022-08-01T17:49:14.524136+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1659356358",
+      "size": "129814",
+      "md5": "76869951cb7439aff3e5d614fa368e54",
+      "crc32": "b9595c14",
+      "sha1": "8d37377b3edde1e183cc31973527e13b9de1ead4",
+      "format": "JSON"
+    },
+    {
+      "name": "jagrannews-2022-08-01T17:49:14.524136+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659356361",
+      "size": "125347",
+      "md5": "3ef4b30eefff36660660e96ef0287700",
+      "crc32": "1c599e45",
+      "sha1": "218f3d859329714b1715ee116e22626e0a85490d",
+      "format": "JSON"
+    },
+    {
+      "name": "jagrannews-2022-08-01T17:49:14.524136+05:30.jpg",
+      "source": "original",
+      "mtime": "1659356357",
+      "size": "253174",
+      "md5": "18ffba523715b6ea8e2eceec5ef373cc",
+      "crc32": "352aefac",
+      "sha1": "cbd394a0e0f10df774a24af7b883389a732eea04",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jagrannews-2022-08-01T17:49:14.524136+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1659356363",
+      "size": "1441",
+      "md5": "3366be8701c5e53261655c606d3789e5",
+      "crc32": "7ab773af",
+      "sha1": "ef598a9e372c3393659ae74dc7936cee23021310",
+      "format": "JSON"
+    },
+    {
       "name": "jagrannews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "83f6e626cb953c2bb7e70686bb704577fe2884c7",
-      "mtime": "1659313390",
-      "size": "11947",
-      "md5": "404f4ca91a3bbed5949bff4d28357d5e",
-      "crc32": "54d48731",
-      "sha1": "357b016105a984233f960515a14e7a9d583853fc",
+      "btih": "fa83f3ca5d6f7631d3947b427f3ce3652230b72b",
+      "mtime": "1659356403",
+      "size": "12812",
+      "md5": "f7566719a238cbf75c0f2184225b86fb",
+      "crc32": "5b051ec7",
+      "sha1": "0afcc67ef1e5aa487eefc1e3e58e097a14217eb8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jagrannews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "99456e3d3a448f64175f8cdc24f7e5e3",
+      "md5": "da116f48d64e31f9000d00602261a8f3",
       "summation": "md5"
     },
     {
       "name": "jagrannews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659313000",
-      "size": "73728",
-      "md5": "bf7b7284a8dc5cbe6eb7b98b8b7f9f21",
-      "crc32": "759fe3a3",
-      "sha1": "5cecf54cd45ecb0263a5160a2e5e8f81c55fa4a0",
+      "mtime": "1659356367",
+      "size": "81920",
+      "md5": "6b7ebb701da729c28fc2b3ea338a9b88",
+      "crc32": "33168f71",
+      "sha1": "01d6782fa3fd28ac12390ce890ae9e79217c86df",
       "format": "Metadata"
     },
     {
@@ -552,9 +593,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 53,
-  "item_last_updated": 1659313390,
-  "item_size": 5312647,
+  "files_count": 57,
+  "item_last_updated": 1659356403,
+  "item_size": 5831480,
   "metadata": {
     "identifier": "jagrannews-2022",
     "collection": [
@@ -571,10 +612,21 @@
     "publicdate": "2022-07-27 17:18:37",
     "addeddate": "2022-07-27 17:18:37"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 838818407,
+  "pending_tasks": true,
+  "server": "ia902503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3349626268,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2101527365,
   "workable_servers": [
-    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }

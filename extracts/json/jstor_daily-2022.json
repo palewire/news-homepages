@@ -1,5 +1,5 @@
 {
-  "created": 1659313304,
+  "created": 1659356552,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/18/items/jstor_daily-2022",
@@ -692,31 +692,72 @@
       "sha1": "91574a41ac997ca8cd76ef248ce998cefb75938a"
     },
     {
+      "name": "jstor_daily-2022-08-01T08:21:40.715291-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659356509",
+      "size": "30843",
+      "md5": "b3cbeec037e0632ee6751e297b90b584",
+      "crc32": "4f493eae",
+      "sha1": "785c9b703410fcdf99165d754834427a05fcfeb1",
+      "format": "JSON"
+    },
+    {
+      "name": "jstor_daily-2022-08-01T08:21:40.715291-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659356511",
+      "size": "20948",
+      "md5": "a8ad33abdeb7960175caadadff20ec7c",
+      "crc32": "39ce8ff4",
+      "sha1": "242c6093b28368989c9556cff5f561d18719ce48",
+      "format": "JSON"
+    },
+    {
+      "name": "jstor_daily-2022-08-01T08:21:40.715291-04:00.jpg",
+      "source": "original",
+      "mtime": "1659356508",
+      "size": "320676",
+      "md5": "37519058329882b354802bee80ea6e03",
+      "crc32": "02e414b0",
+      "sha1": "eb0bd4803b9acf887e69f3ae62becacc1bccbdbc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jstor_daily-2022-08-01T08:21:40.715291-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659356513",
+      "size": "1455",
+      "md5": "28c4384fcf112b0a3101369cb744918d",
+      "crc32": "55e22ea6",
+      "sha1": "412542a015dcf2bafd0b709dc28b7085a318d737",
+      "format": "JSON"
+    },
+    {
       "name": "jstor_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db51def883a84e6e125fa168e49d3af4de2b5c7a",
-      "mtime": "1659313217",
-      "size": "15570",
-      "md5": "09bbd82c569cd3e15557616fa34b88d1",
-      "crc32": "8f59e6db",
-      "sha1": "10b695b561c488120e5194b1896347ab4bd435a9",
+      "btih": "13ba52b5f3ca6c7dce98b454ad3b65c0d84e490f",
+      "mtime": "1659356549",
+      "size": "16437",
+      "md5": "6c9158d917f8a47f4291ae3ed3a097e0",
+      "crc32": "b9407c40",
+      "sha1": "915a1867be23a3cda8d841838cc4d9988d330b86",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jstor_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5ec89f4bc5c844e40cc417da80357c6d",
+      "md5": "81417c0897c97276a087c187b7b2eada",
       "summation": "md5"
     },
     {
       "name": "jstor_daily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659313067",
-      "size": "102400",
-      "md5": "94ca234263ece0407aeba3bc258f1845",
-      "crc32": "d04a2194",
-      "sha1": "342b4ba9147ad63411b26aaef0d072e6a0a8876f",
+      "mtime": "1659356515",
+      "size": "106496",
+      "md5": "ce64b731d0ccea95016f0fadee7149e1",
+      "crc32": "b12d6f8c",
+      "sha1": "d18c26e904603b21935a96d5b043362bfc66f49f",
       "format": "Metadata"
     },
     {
@@ -730,9 +771,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 70,
-  "item_last_updated": 1659313217,
-  "item_size": 5421356,
+  "files_count": 74,
+  "item_last_updated": 1659356549,
+  "item_size": 5800241,
   "metadata": {
     "identifier": "jstor_daily-2022",
     "collection": [
@@ -749,10 +790,21 @@
     "publicdate": "2022-07-26 00:15:53",
     "addeddate": "2022-07-26 00:15:53"
   },
+  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "uniq": 1795642609,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3349627367,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 596587983,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia902505.us.archive.org"
   ]
 }

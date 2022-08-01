@@ -1,5 +1,5 @@
 {
-  "created": 1659313895,
+  "created": 1659322173,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/5/items/mongabay-2022",
@@ -2108,31 +2108,83 @@
       "sha1": "e7319db3e02478a15c77440d38bd12bb93c324de"
     },
     {
+      "name": "mongabay-2022-07-31T19:40:54.110258-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659321656",
+      "size": "31886",
+      "md5": "c6551849c41e52385acdc3f61a2b2d34",
+      "crc32": "6025846a",
+      "sha1": "0b9041e6bfd3b76d5dca4f797d395a920374e6e7",
+      "format": "JSON"
+    },
+    {
+      "name": "mongabay-2022-07-31T19:40:54.110258-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659321658",
+      "size": "21186",
+      "md5": "880ab9fc1d688a7b176bfb17dd048e03",
+      "crc32": "532dfcee",
+      "sha1": "f15ec8058f9d7f49df4e389bcfe050893f362d45",
+      "format": "JSON"
+    },
+    {
+      "name": "mongabay-2022-07-31T19:40:54.110258-07:00.jpg",
+      "source": "original",
+      "mtime": "1659321655",
+      "size": "379965",
+      "md5": "55064fee583b71e67ea06e38dec3ec6f",
+      "crc32": "b0e3c914",
+      "sha1": "a9fcf67236d0bd502ee588f31eb7b93c2644d1ad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mongabay-2022-07-31T19:40:54.110258-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659321659",
+      "size": "1476",
+      "md5": "e09f83a2941cd2611174ab02001746cc",
+      "crc32": "c84abc0a",
+      "sha1": "723637510cf1d94c7901d10107c5e5d784cb9366",
+      "format": "JSON"
+    },
+    {
+      "name": "mongabay-2022-07-31T19:40:54.110258-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mongabay-2022-07-31T19:40:54.110258-07:00.jpg",
+      "mtime": "1659321900",
+      "size": "10175",
+      "md5": "735f7dbc4f52566aadee4cc4bfc60042",
+      "crc32": "b61ffa6f",
+      "sha1": "e7319db3e02478a15c77440d38bd12bb93c324de"
+    },
+    {
       "name": "mongabay-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eba37d2f9d2ae8f44b8aa384f8d27471f8f5cf1f",
-      "mtime": "1659282480",
-      "size": "43878",
-      "md5": "5dddb8d538372428f13fbace63713f4b",
-      "crc32": "1b5a856d",
-      "sha1": "a84695e81b43401728e9417fc5d2ddf176731d10",
+      "btih": "cf2d2edea8413669861afb0ef6c905ea752bb460",
+      "mtime": "1659322016",
+      "size": "44938",
+      "md5": "a73ac959951f36be9d4caf3024691b6d",
+      "crc32": "0ad52b92",
+      "sha1": "bcdd3d33db08700d55643b07bcfbea7a1d278120",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mongabay-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b498cd367c027c99cd71465b3a799630",
+      "md5": "50984154258c08f6570a2fa4ee535159",
       "summation": "md5"
     },
     {
       "name": "mongabay-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659278526",
-      "size": "258048",
-      "md5": "572af28a2a7426d32430ccabf09fb548",
-      "crc32": "861e4af0",
-      "sha1": "34cef7eeea816741dedbab1bcbb19180038bb388",
+      "mtime": "1659321666",
+      "size": "262144",
+      "md5": "1e9be2c168cd1301fc981dc0db1bcbf4",
+      "crc32": "dc3bfc79",
+      "sha1": "b01711821d3aee060932fa0eede13c390bf38191",
       "format": "Metadata"
     },
     {
@@ -2146,9 +2198,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 205,
-  "item_last_updated": 1659282480,
-  "item_size": 19780601,
+  "files_count": 210,
+  "item_last_updated": 1659322016,
+  "item_size": 20230445,
   "metadata": {
     "identifier": "mongabay-2022",
     "collection": [
@@ -2165,51 +2217,10 @@
     "publicdate": "2022-07-09 04:01:07",
     "addeddate": "2022-07-09 04:01:07"
   },
-  "mongabay-2022": [
-    {
-      "url": "https://www.mongabay.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mongabay_com-_-2022_07_31_14_23_10.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mongabay_com-_-2022_07_31_14_23_10.report.json",
-      "summary": {
-        "performance": 0.33,
-        "accessibility": 0.73,
-        "best-practices": 0.75,
-        "seo": 0.84,
-        "pwa": 0.8
-      }
-    },
-    {
-      "url": "https://www.mongabay.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mongabay_com-_-2022_07_31_14_23_30.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mongabay_com-_-2022_07_31_14_23_30.report.json",
-      "summary": {
-        "performance": 0.52,
-        "accessibility": 0.73,
-        "best-practices": 0.75,
-        "seo": 0.84,
-        "pwa": 0.8
-      }
-    },
-    {
-      "url": "https://www.mongabay.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mongabay_com-_-2022_07_31_14_23_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mongabay_com-_-2022_07_31_14_23_47.report.json",
-      "summary": {
-        "performance": 0.46,
-        "accessibility": 0.73,
-        "best-practices": 0.75,
-        "seo": 0.84,
-        "pwa": 0.8
-      }
-    }
-  ],
-  "server": "ia601503.us.archive.org",
-  "uniq": 940301927,
+  "server": "ia801503.us.archive.org",
+  "uniq": 471737942,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia801503.us.archive.org",
+    "ia601503.us.archive.org"
   ]
 }

@@ -1,5 +1,6 @@
 {
-  "created": 1659313717,
+  "conflict": 1659356928,
+  "created": 1659356928,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/22/items/phillyinquirer-2022",
@@ -2891,10 +2892,21 @@
     "publicdate": "2022-07-03 15:52:44",
     "addeddate": "2022-07-03 15:52:44"
   },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "uniq": 129970833,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3349630198,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 2999321,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }

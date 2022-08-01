@@ -3,10 +3,10 @@
     {
       "url": "https://atlantaciviccircle.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlantaciviccircle_org-_-2022_07_31_12_59_52.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlantaciviccircle_org-_-2022_07_31_12_59_52.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlantaciviccircle_org-_-2022_08_01_01_01_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlantaciviccircle_org-_-2022_08_01_01_01_05.report.json",
       "summary": {
-        "performance": 0.89,
+        "performance": 0.79,
         "accessibility": 0.89,
         "best-practices": 1,
         "seo": 0.9,
@@ -16,23 +16,23 @@
     {
       "url": "https://atlantaciviccircle.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlantaciviccircle_org-_-2022_07_31_13_00_16.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlantaciviccircle_org-_-2022_07_31_13_00_16.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlantaciviccircle_org-_-2022_08_01_01_01_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlantaciviccircle_org-_-2022_08_01_01_01_19.report.json",
       "summary": {
-        "performance": 0.85,
-        "accessibility": 0.83,
+        "performance": 0.78,
+        "accessibility": 0.89,
         "best-practices": 1,
-        "seo": 0.83,
+        "seo": 0.9,
         "pwa": 0.8
       }
     },
     {
       "url": "https://atlantaciviccircle.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlantaciviccircle_org-_-2022_07_31_13_00_05.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlantaciviccircle_org-_-2022_07_31_13_00_05.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlantaciviccircle_org-_-2022_08_01_01_00_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlantaciviccircle_org-_-2022_08_01_01_00_50.report.json",
       "summary": {
-        "performance": 0.86,
+        "performance": 0.76,
         "accessibility": 0.89,
         "best-practices": 1,
         "seo": 0.9,
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "created": 1659313588,
+  "created": 1659356430,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/21/items/atlciviccircle-2022",
@@ -2243,31 +2243,83 @@
       "sha1": "c3c4389337c4cd2c98d8236c750d26f84e6e1352"
     },
     {
+      "name": "atlciviccircle-2022-07-31T21:23:12.631710-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659316997",
+      "size": "14425",
+      "md5": "042c19cff930f83c4c15364a5b999aca",
+      "crc32": "bfeabcf9",
+      "sha1": "b63aaccddda7a9f11c53937ffca817b9a5a7a3ac",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-07-31T21:23:12.631710-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659316999",
+      "size": "15025",
+      "md5": "ab21e02d40f143a86a19fd8715b8f3d5",
+      "crc32": "1186bbf8",
+      "sha1": "2f3733f574e8378b2ab0b4765b20bde6acb940ba",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-07-31T21:23:12.631710-04:00.jpg",
+      "source": "original",
+      "mtime": "1659316995",
+      "size": "269309",
+      "md5": "2fa19318b76e6e977279a3f50dac3601",
+      "crc32": "3dc629f9",
+      "sha1": "13f47879dd24d28e6730f19b2b0b62c5d0ce66c3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlciviccircle-2022-07-31T21:23:12.631710-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659317000",
+      "size": "1519",
+      "md5": "dc7ba8c818a70f139473a087db6a596e",
+      "crc32": "77f78264",
+      "sha1": "4becc82b170223554d18470628df49bfd92c9c1e",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-07-31T21:23:12.631710-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlciviccircle-2022-07-31T21:23:12.631710-04:00.jpg",
+      "mtime": "1659317154",
+      "size": "10460",
+      "md5": "aad5924016caa4d458258c3ea4553681",
+      "crc32": "3552b786",
+      "sha1": "c3c4389337c4cd2c98d8236c750d26f84e6e1352"
+    },
+    {
       "name": "atlciviccircle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4decff8033d5a18168e399e0027ddf7556681aa8",
-      "mtime": "1659279967",
-      "size": "46924",
-      "md5": "f99ef9b014bb8955e8481fa36193ba8d",
-      "crc32": "c4049995",
-      "sha1": "0a3342cb6400897bfe227da8d90470264b414f80",
+      "btih": "9ff568d3f2b1b8d0e6e7d8c024655955ecf4bdfb",
+      "mtime": "1659317187",
+      "size": "48014",
+      "md5": "016fb25bab02f7f1b6493ac64e9a1530",
+      "crc32": "3821c94d",
+      "sha1": "8c69233cfa38ad194f70b719e5a609c5816b15d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "atlciviccircle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9c67e8dd94d5bb7136debf4c617bb17d",
+      "md5": "1cf3f3544785bcb729203be58d80f0d0",
       "summation": "md5"
     },
     {
       "name": "atlciviccircle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659274130",
-      "size": "270336",
-      "md5": "5cdccc30b6da5446b0a16dd3ae53409b",
-      "crc32": "2f6d5a6c",
-      "sha1": "55044bd0e0102d7b94238d44870bbc4d1b26369c",
+      "mtime": "1659317005",
+      "size": "274432",
+      "md5": "930b947c8edd34dcd94e9d9cc8a4278c",
+      "crc32": "245d2f06",
+      "sha1": "8a802fc4cd535bcb4a97327c5599588655a0b746",
       "format": "Metadata"
     },
     {
@@ -2281,9 +2333,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 214,
-  "item_last_updated": 1659279967,
-  "item_size": 15716290,
+  "files_count": 219,
+  "item_last_updated": 1659317187,
+  "item_size": 16032214,
   "metadata": {
     "identifier": "atlciviccircle-2022",
     "collection": [
@@ -2300,10 +2352,10 @@
     "publicdate": "2022-07-09 03:55:48",
     "addeddate": "2022-07-09 03:55:48"
   },
-  "server": "ia802501.us.archive.org",
-  "uniq": 224206511,
+  "server": "ia902501.us.archive.org",
+  "uniq": 1111594996,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659313004,
+  "created": 1659352504,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/0/items/cookpolitical-2022",
@@ -2580,31 +2580,72 @@
       "sha1": "76f1dfef23b4d4c9240b0f113d4f528e3d7e4235"
     },
     {
+      "name": "cookpolitical-2022-08-01T07:14:10.720266-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659352457",
+      "size": "11278",
+      "md5": "e49106dd5cfd3e91917620b823261900",
+      "crc32": "799f3a02",
+      "sha1": "ee9bf5be1223f793766aced3560ef8523d8e9e8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-08-01T07:14:10.720266-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659352458",
+      "size": "8856",
+      "md5": "afa1ff3672f1e6611a827170291b1e62",
+      "crc32": "54333fc4",
+      "sha1": "6c0bceab14fd76a717b63683900e6309f4b82c6a",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-08-01T07:14:10.720266-04:00.jpg",
+      "source": "original",
+      "mtime": "1659352455",
+      "size": "298763",
+      "md5": "09b98152f446610f2e14e63082ef6eea",
+      "crc32": "7c3bdd22",
+      "sha1": "5e0c000110f62eeda134e79ee3e645159027fd1b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cookpolitical-2022-08-01T07:14:10.720266-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659352460",
+      "size": "1521",
+      "md5": "9d0208cf6be327a3903fedb046c61c2b",
+      "crc32": "41daf3e1",
+      "sha1": "3b9b00d8a406cbf9a1a37ef6b29e4f21edc10b0b",
+      "format": "JSON"
+    },
+    {
       "name": "cookpolitical-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a02957ebe45bf4c306da8328427de1664e759a9f",
-      "mtime": "1659312937",
-      "size": "54378",
-      "md5": "401c924ca69af20bf5caad7c74c11cf9",
-      "crc32": "5f6fa79a",
-      "sha1": "bc606d4550b2f50ea78d9ffc1e5456d9d9970665",
+      "btih": "d1409611a0a02e9e01141b5339904f74e72846aa",
+      "mtime": "1659352500",
+      "size": "55252",
+      "md5": "f1addfb3ceb3ec82a62e256647e23701",
+      "crc32": "a67f3496",
+      "sha1": "6cd7c5c3f3e18b1a57db0dae20cda1837a54cfc7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cookpolitical-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0e57128ffe62ec627ca2ba54777f46d3",
+      "md5": "f7d5695b2b5b644ac61d91892a34b991",
       "summation": "md5"
     },
     {
       "name": "cookpolitical-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659312674",
-      "size": "311296",
-      "md5": "b08decf9e341efa493fb4d23a9865ee4",
-      "crc32": "44e5abeb",
-      "sha1": "6c84495f88663cd6443879fc0cee0ded864f8169",
+      "mtime": "1659352464",
+      "size": "315392",
+      "md5": "c70f60aa83f78160ec11719c3b182891",
+      "crc32": "9d098204",
+      "sha1": "b6338eb1c4803c4c4e681c1c8bf5d324d862bcac",
       "format": "Metadata"
     },
     {
@@ -2618,9 +2659,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 250,
-  "item_last_updated": 1659312937,
-  "item_size": 17586663,
+  "files_count": 254,
+  "item_last_updated": 1659352500,
+  "item_size": 17912051,
   "metadata": {
     "identifier": "cookpolitical-2022",
     "collection": [
@@ -2637,10 +2678,21 @@
     "publicdate": "2022-07-04 20:47:01",
     "addeddate": "2022-07-04 20:47:01"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "uniq": 1552283807,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3349591266,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1762661857,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia601506.us.archive.org"
   ]
 }

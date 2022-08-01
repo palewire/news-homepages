@@ -1,5 +1,5 @@
 {
-  "created": 1659293033,
+  "created": 1659353885,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/22/items/voxdotcom-2022",
@@ -4988,31 +4988,83 @@
       "sha1": "f4d59e99438695af4f3ba1327381d7e130f834f2"
     },
     {
+      "name": "voxdotcom-2022-08-01T00:03:01.695513-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659326584",
+      "size": "40845",
+      "md5": "4a9f0ba02954adb0ea9251ae58e7f81f",
+      "crc32": "17d7fddd",
+      "sha1": "998f801bc8b7a541c3ab5dd016c9095ae7cf7dff",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-08-01T00:03:01.695513-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659326586",
+      "size": "50546",
+      "md5": "08ded3989d7bd8781a2b0226b63c0729",
+      "crc32": "a5e7c657",
+      "sha1": "bb029c26c9145d8b34c99b11b000cf773ece4962",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-08-01T00:03:01.695513-04:00.jpg",
+      "source": "original",
+      "mtime": "1659326582",
+      "size": "228643",
+      "md5": "e3b27ae90ec89a64c29418cd68723317",
+      "crc32": "ff3a2397",
+      "sha1": "be0ddc1f20029d032b8a7ddc674b2d44de36ad6c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voxdotcom-2022-08-01T00:03:01.695513-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659326588",
+      "size": "1429",
+      "md5": "0abf3d37d0b727c267e917774a17a575",
+      "crc32": "9c66e3fc",
+      "sha1": "a2b22d07e1ca708fbd0ea7893ccb506d6f407419",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-08-01T00:03:01.695513-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voxdotcom-2022-08-01T00:03:01.695513-04:00.jpg",
+      "mtime": "1659326924",
+      "size": "8758",
+      "md5": "a2391f24818396ae59ec67fb33631649",
+      "crc32": "3d0f6d64",
+      "sha1": "26ea63c439aecfdaf4c7f2ba32408043e7ca3a07"
+    },
+    {
       "name": "voxdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "68e4f4ea2ac7f4cba736c5c59bc53218bff1eada",
-      "mtime": "1659293002",
-      "size": "102117",
-      "md5": "1f535916b9134a5a108a25f4ca0a43f7",
-      "crc32": "814e4bf2",
-      "sha1": "a6188e4a761f603ad3a371c9a2cf18a03ac47c99",
+      "btih": "3e12893956b1367d79d75009929339bc3d30856c",
+      "mtime": "1659326955",
+      "size": "103181",
+      "md5": "0b0f77cb7e8d4fa32d8b031ade27b970",
+      "crc32": "e869610a",
+      "sha1": "ab11fe447730a173629a6eb1992bcf2bec7cd6b7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voxdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "11b86615bde5934962e908a48b2fd9ab",
+      "md5": "ec532892ee528bd64cfaaba376cd87e8",
       "summation": "md5"
     },
     {
       "name": "voxdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659292688",
-      "size": "573440",
-      "md5": "5d45bff769ce7b4e9a63dcc8ba947f5e",
-      "crc32": "c1d1d20f",
-      "sha1": "daef096942d7d7e88319ad8df3c61d643d0fbff2",
+      "mtime": "1659326593",
+      "size": "585728",
+      "md5": "de161570229986505c7ccf32d9f6ef99",
+      "crc32": "8b064012",
+      "sha1": "7f55262d070517f197d06bb8ab6f61c605ea4af8",
       "format": "Metadata"
     },
     {
@@ -5026,9 +5078,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 480,
-  "item_last_updated": 1659293002,
-  "item_size": 38848182,
+  "files_count": 485,
+  "item_last_updated": 1659326955,
+  "item_size": 39191755,
   "metadata": {
     "identifier": "voxdotcom-2022",
     "collection": [
@@ -5045,10 +5097,10 @@
     "publicdate": "2022-06-19 23:29:34",
     "addeddate": "2022-06-19 23:29:34"
   },
-  "server": "ia601506.us.archive.org",
-  "uniq": 1821173641,
+  "server": "ia801506.us.archive.org",
+  "uniq": 2091535484,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia801506.us.archive.org",
+    "ia601506.us.archive.org"
   ]
 }

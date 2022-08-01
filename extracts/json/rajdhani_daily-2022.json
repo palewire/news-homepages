@@ -1,6 +1,6 @@
 {
-  "conflict": 1659313899,
-  "created": 1659313899,
+  "conflict": 1659356982,
+  "created": 1659356982,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/34/items/rajdhani_daily-2022",
@@ -841,24 +841,29 @@
       "name": "rajdhani_daily-2022-08-01T06:09:21.238270+05:45_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "rajdhani_daily-2022-08-01T06:09:21.238270+05:45.jpg"
+      "original": "rajdhani_daily-2022-08-01T06:09:21.238270+05:45.jpg",
+      "mtime": "1659313895",
+      "size": "9742",
+      "md5": "fed7f352d48be47183d9bb829fe76b3c",
+      "crc32": "432c3ca1",
+      "sha1": "dfdb59174e649fab7de970f1dcd0c1fa2575b671"
     },
     {
       "name": "rajdhani_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ea68131308201757fd815c77141bd4c9bee7cdb9",
-      "mtime": "1659313506",
-      "size": "18802",
-      "md5": "657497501828cbb41c4bdb5034587034",
-      "crc32": "84790e05",
-      "sha1": "c46656cebfc6cc0e5a01e712d4af6dfb9bfad2ed",
+      "btih": "f539bf2f7f6f717cac2590bb1d193621d2e3e5fd",
+      "mtime": "1659314032",
+      "size": "19012",
+      "md5": "07f68f09b74c118de4a417fa52782653",
+      "crc32": "93fdde32",
+      "sha1": "2cd1d71f6f95730a89d343ad879ff6f83733b784",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rajdhani_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2f278b34709da12bda49f67b2f7c07b3",
+      "md5": "1cd38ae94ea19c6e64d448e32dc97ae3",
       "summation": "md5"
     },
     {
@@ -883,8 +888,8 @@
     }
   ],
   "files_count": 85,
-  "item_last_updated": 1659313506,
-  "item_size": 6128592,
+  "item_last_updated": 1659314032,
+  "item_size": 6138544,
   "metadata": {
     "identifier": "rajdhani_daily-2022",
     "collection": [
@@ -906,15 +911,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3349156091,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3349630591,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 1979966747,
+  "uniq": 1367043268,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

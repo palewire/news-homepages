@@ -1,5 +1,5 @@
 {
-  "created": 1659314181,
+  "created": 1659357188,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/tpm-2022",
@@ -2476,31 +2476,83 @@
       "sha1": "4e12622ab42dde9b174c6ef15a81538ca51809f7"
     },
     {
+      "name": "tpm-2022-08-01T00:01:47.457243-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659326510",
+      "size": "34250",
+      "md5": "26682885cfaabb24c5d16416ece0672d",
+      "crc32": "0599563f",
+      "sha1": "807cff8f27a0651d51ccba7026b2108fa159f13e",
+      "format": "JSON"
+    },
+    {
+      "name": "tpm-2022-08-01T00:01:47.457243-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659326511",
+      "size": "19508",
+      "md5": "fee77f245294a48ecca75d6685310ffc",
+      "crc32": "abcf244a",
+      "sha1": "89ec2b8fc1b46869981bbd2b953eeac16e920f6e",
+      "format": "JSON"
+    },
+    {
+      "name": "tpm-2022-08-01T00:01:47.457243-04:00.jpg",
+      "source": "original",
+      "mtime": "1659326508",
+      "size": "308400",
+      "md5": "c7464bee3b52c6138f4b310199654f90",
+      "crc32": "f4430ec0",
+      "sha1": "3697259ab08357952edf8f938ff6c77200c458b3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tpm-2022-08-01T00:01:47.457243-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659326512",
+      "size": "1525",
+      "md5": "d5734502db7484f6f70ea50c5d54a20c",
+      "crc32": "fde25d9f",
+      "sha1": "bf040563bb9a99e5a64056952d35d45553636773",
+      "format": "JSON"
+    },
+    {
+      "name": "tpm-2022-08-01T00:01:47.457243-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tpm-2022-08-01T00:01:47.457243-04:00.jpg",
+      "mtime": "1659327004",
+      "size": "9970",
+      "md5": "8768f238f431edc2c076f6e1e7901ebb",
+      "crc32": "e77b4878",
+      "sha1": "1915c666528f1476cf56846894bc4e383385cf92"
+    },
+    {
       "name": "tpm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8c457ac6f5f33cdccc3c0b28ca2609d78cfa2646",
-      "mtime": "1659285141",
-      "size": "49991",
-      "md5": "670b6e395e79375d74dc498a2f039f7c",
-      "crc32": "63118e2c",
-      "sha1": "4302e10c320960383bce13311aef08cf89cc12a4",
+      "btih": "6a48c347b03560bc5aa79fb5ed4b05bba33202aa",
+      "mtime": "1659327012",
+      "size": "51025",
+      "md5": "5e5b846305b9d25368df009751191795",
+      "crc32": "c2caa0a8",
+      "sha1": "0c29627eb60f233c0fd343508ea1847d50c837b3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tpm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0d73249e9db248b1a9fdfc8b6da400a3",
+      "md5": "38b9e9bce190715585bd7af7e03dce50",
       "summation": "md5"
     },
     {
       "name": "tpm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659283162",
-      "size": "294912",
-      "md5": "43d71902abba3d19e900723a6dccc795",
-      "crc32": "8b656eda",
-      "sha1": "bb631f602dc71a9d8239bd66adc7a3ca27878d94",
+      "mtime": "1659326517",
+      "size": "303104",
+      "md5": "1f7a4b530e1c79981b190631f57e87b3",
+      "crc32": "2acc13c0",
+      "sha1": "6e58baa32a629fcf88ec1defe331a494bb3f941b",
       "format": "Metadata"
     },
     {
@@ -2514,9 +2566,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 240,
-  "item_last_updated": 1659285141,
-  "item_size": 22035105,
+  "files_count": 245,
+  "item_last_updated": 1659327012,
+  "item_size": 22417984,
   "metadata": {
     "identifier": "tpm-2022",
     "collection": [
@@ -2533,13 +2585,26 @@
     "publicdate": "2022-07-04 21:46:53",
     "addeddate": "2022-07-04 21:46:53"
   },
-  "server": "ia802505.us.archive.org",
+  "server": "ia902505.us.archive.org",
   "tpm-2022": [
     {
       "url": "https://talkingpointsmemo.com/?",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/talkingpointsmemo_com-_-2022_07_31_15_34_27.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/talkingpointsmemo_com-_-2022_07_31_15_34_27.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/talkingpointsmemo_com-_-2022_08_01_03_46_57.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/talkingpointsmemo_com-_-2022_08_01_03_46_57.report.json",
+      "summary": {
+        "performance": 0.05,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://talkingpointsmemo.com/?",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/talkingpointsmemo_com-_-2022_08_01_03_47_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/talkingpointsmemo_com-_-2022_08_01_03_47_43.report.json",
       "summary": {
         "performance": 0.09,
         "accessibility": 0.88,
@@ -2550,24 +2615,11 @@
     },
     {
       "url": "https://talkingpointsmemo.com/?",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/talkingpointsmemo_com-_-2022_07_31_15_34_49.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/talkingpointsmemo_com-_-2022_07_31_15_34_49.report.json",
-      "summary": {
-        "performance": 0.1,
-        "accessibility": 0.88,
-        "best-practices": 0.92,
-        "seo": 0.84,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://talkingpointsmemo.com/?",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/talkingpointsmemo_com-_-2022_07_31_15_35_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/talkingpointsmemo_com-_-2022_07_31_15_35_09.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/talkingpointsmemo_com-_-2022_08_01_03_47_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/talkingpointsmemo_com-_-2022_08_01_03_47_23.report.json",
       "summary": {
-        "performance": 0.1,
+        "performance": 0.09,
         "accessibility": 0.88,
         "best-practices": 0.92,
         "seo": 0.84,
@@ -2575,9 +2627,9 @@
       }
     }
   ],
-  "uniq": 2090981196,
+  "uniq": 1406891047,
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

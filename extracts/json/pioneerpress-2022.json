@@ -1,5 +1,6 @@
 {
-  "created": 1659313865,
+  "conflict": 1659356948,
+  "created": 1659356948,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/2/items/pioneerpress-2022",
@@ -8759,10 +8760,21 @@
     "publicdate": "2022-04-01 22:43:00",
     "addeddate": "2022-04-01 22:43:00"
   },
+  "pending_tasks": true,
   "server": "ia902508.us.archive.org",
-  "uniq": 676283443,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3349630305,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 335233362,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia902508.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659313273,
+  "created": 1659356708,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/31/items/harpers-2022",
@@ -3932,31 +3932,72 @@
       "sha1": "5b8a0bae23ac8ae024f09f241e3ccee0c1a47ba3"
     },
     {
+      "name": "harpers-2022-08-01T07:18:23.232104-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659352709",
+      "size": "64",
+      "md5": "7ecae99616d4d650954f4199e487a165",
+      "crc32": "8ba0f891",
+      "sha1": "e37f0c3aa8a3683c0eca8b3652bb286e169a298d",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-08-01T07:18:23.232104-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659352710",
+      "size": "130766",
+      "md5": "1de614b03fc8e64352446005d727bf96",
+      "crc32": "3433e98b",
+      "sha1": "007721a77ececa445adec958143ca6ca876f32f8",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-08-01T07:18:23.232104-04:00.jpg",
+      "source": "original",
+      "mtime": "1659352707",
+      "size": "273642",
+      "md5": "b061f413c5422e27bb96ad75282ebf78",
+      "crc32": "50221082",
+      "sha1": "faf777630e411e60d6411c7f76cfd8efa922d1ad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "harpers-2022-08-01T07:18:23.232104-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659352711",
+      "size": "1428",
+      "md5": "c012f087a66cbd598d13b47886d237e4",
+      "crc32": "a550ad18",
+      "sha1": "788bdf9f49cc8e73d8da9b9ef28b34ea92606ff7",
+      "format": "JSON"
+    },
+    {
       "name": "harpers-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8750fe1c476717793f3be862fafa6e834370bbce",
-      "mtime": "1659313247",
-      "size": "80136",
-      "md5": "279eabdc1a486eccb4cb817a6d2c507d",
-      "crc32": "a0323ad3",
-      "sha1": "30280b0d4ef7f109461138287c581ca52a17e0f0",
+      "btih": "7581a2c065686d0fe407e856ee8f542d9f7e4d4a",
+      "mtime": "1659352765",
+      "size": "80985",
+      "md5": "1dccbe02124ab0262fc5bdb56e15bbca",
+      "crc32": "942e8a56",
+      "sha1": "da6788d581fca20ce3a0b07fd35ec11589dfe8f7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "harpers-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0ce866f0bfa411190dfd4a87223345e5",
+      "md5": "6d7e5ce85ac68cae5c6c7347f8620724",
       "summation": "md5"
     },
     {
       "name": "harpers-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659312937",
-      "size": "458752",
-      "md5": "8876b9357456087db6e9c65c0b068e6b",
-      "crc32": "24c71b34",
-      "sha1": "7bdac5490772188195de32fbba1a5c613e47713e",
+      "mtime": "1659352723",
+      "size": "462848",
+      "md5": "9d58e85c60dfdede7934ab09326a5601",
+      "crc32": "29b7b152",
+      "sha1": "228aec33010cc250e620a4b8547249d9a610d4e1",
       "format": "Metadata"
     },
     {
@@ -3970,9 +4011,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 379,
-  "item_last_updated": 1659313247,
-  "item_size": 37552173,
+  "files_count": 383,
+  "harpers-2022": [
+    {
+      "url": "https://harpers.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harpers_org-_-2022_08_01_10_22_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harpers_org-_-2022_08_01_10_22_05.report.json",
+      "summary": {
+        "performance": 0.2,
+        "accessibility": 0.75,
+        "best-practices": 0.75,
+        "seo": 0.9,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://harpers.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harpers_org-_-2022_08_01_10_22_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harpers_org-_-2022_08_01_10_22_43.report.json",
+      "summary": {
+        "performance": 0.35,
+        "accessibility": 0.75,
+        "best-practices": 0.75,
+        "seo": 0.9,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://harpers.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harpers_org-_-2022_08_01_10_22_24.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/harpers_org-_-2022_08_01_10_22_24.report.json",
+      "summary": {
+        "performance": 0.24,
+        "accessibility": 0.75,
+        "best-practices": 0.75,
+        "seo": 0.9,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "item_last_updated": 1659352765,
+  "item_size": 37963018,
   "metadata": {
     "identifier": "harpers-2022",
     "collection": [
@@ -3989,10 +4071,21 @@
     "publicdate": "2022-06-24 22:56:16",
     "addeddate": "2022-06-24 22:56:16"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 1258619146,
+  "pending_tasks": true,
+  "server": "ia601502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3349593730,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1603243120,
   "workable_servers": [
-    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

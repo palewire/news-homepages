@@ -1,5 +1,5 @@
 {
-  "created": 1659313227,
+  "created": 1659356466,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/30/items/indiancountry-2022",
@@ -2118,31 +2118,72 @@
       "sha1": "627beefe07a252bcdaab4efa4ef140d269ab0209"
     },
     {
+      "name": "indiancountry-2022-08-01T05:20:10.808103-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659356416",
+      "size": "19459",
+      "md5": "85ca869e7d8cae84bbe69ae1e6c395d3",
+      "crc32": "6cdd9a94",
+      "sha1": "4ceb38aaca1359f935deff79effde76b114ccc6a",
+      "format": "JSON"
+    },
+    {
+      "name": "indiancountry-2022-08-01T05:20:10.808103-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659356418",
+      "size": "16862",
+      "md5": "bb85541fbf25d2c066ed2b35e4cc77ad",
+      "crc32": "1502354c",
+      "sha1": "1a199d9d41f3de3bcbe06b6bd125f64e6e9b65a7",
+      "format": "JSON"
+    },
+    {
+      "name": "indiancountry-2022-08-01T05:20:10.808103-07:00.jpg",
+      "source": "original",
+      "mtime": "1659356414",
+      "size": "246692",
+      "md5": "9dabc57355951ac9f683650a66919370",
+      "crc32": "711574f4",
+      "sha1": "f00aec102bd006eb99e59fc8dbd058667f6d9a6e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "indiancountry-2022-08-01T05:20:10.808103-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659356420",
+      "size": "1521",
+      "md5": "174824b29ec26d7d889227bdf8100d77",
+      "crc32": "48088fb9",
+      "sha1": "1cde6340d82fbdfcb0459f11633ae9c1b0a06769",
+      "format": "JSON"
+    },
+    {
       "name": "indiancountry-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4b00aa32708eef1eb83dae3532c4e6afb93249b0",
-      "mtime": "1659313181",
-      "size": "44902",
-      "md5": "4a0bdeb739a25c2414a135a9e50816f2",
-      "crc32": "988222e3",
-      "sha1": "b4dfca54069d72768df165b471f73ba629d78728",
+      "btih": "9715a199ba98ee18bc0e4d00981539bf3f18d36f",
+      "mtime": "1659356463",
+      "size": "45757",
+      "md5": "24bc1c5bc715f592635a92d4798015a1",
+      "crc32": "02fa89ea",
+      "sha1": "73718eec51512429266079c1acd9d0f7a10b899f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "indiancountry-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7d87c037798f79ebecd28d1a1766a04d",
+      "md5": "518c156681c330f3ed7622770e4539f1",
       "summation": "md5"
     },
     {
       "name": "indiancountry-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659313008",
-      "size": "262144",
-      "md5": "44acdcccf4a7167a7f3dde110a6717b8",
-      "crc32": "70e3679b",
-      "sha1": "893173e1361cf66a1be652608d3b2616350a6255",
+      "mtime": "1659356427",
+      "size": "266240",
+      "md5": "2ecab334410db55a3dc0ddef564eaa59",
+      "crc32": "1a566ba3",
+      "sha1": "182bcff4f6384787dd69271dacfa99969c13e4bc",
       "format": "Metadata"
     },
     {
@@ -2156,9 +2197,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 206,
-  "item_last_updated": 1659313181,
-  "item_size": 13733028,
+  "files_count": 210,
+  "item_last_updated": 1659356463,
+  "item_size": 14022513,
   "metadata": {
     "identifier": "indiancountry-2022",
     "collection": [
@@ -2175,10 +2216,21 @@
     "publicdate": "2022-07-09 03:59:22",
     "addeddate": "2022-07-09 03:59:22"
   },
+  "pending_tasks": true,
   "server": "ia902501.us.archive.org",
-  "uniq": 672797579,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3349626713,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 680806194,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia902501.us.archive.org"
   ]
 }

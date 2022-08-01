@@ -1,5 +1,5 @@
 {
-  "created": 1659313416,
+  "created": 1659356695,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/26/items/live_hindustan-2022",
@@ -536,31 +536,72 @@
       "sha1": "62cf00f44ef3153dd2355d2307c5982da9a758ca"
     },
     {
+      "name": "live_hindustan-2022-08-01T17:54:07.805514+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1659356652",
+      "size": "118983",
+      "md5": "9647e874312124504d02576d28c4759b",
+      "crc32": "b4444374",
+      "sha1": "2f55ee3af7eb6a000f71cc255cdb0a1dfb6815ef",
+      "format": "JSON"
+    },
+    {
+      "name": "live_hindustan-2022-08-01T17:54:07.805514+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659356653",
+      "size": "130219",
+      "md5": "e214d063342543cffdc8c77c180fa78b",
+      "crc32": "d3d62401",
+      "sha1": "62408e9753f4a58f2d8f14d6c6e667c29aed8a40",
+      "format": "JSON"
+    },
+    {
+      "name": "live_hindustan-2022-08-01T17:54:07.805514+05:30.jpg",
+      "source": "original",
+      "mtime": "1659356650",
+      "size": "356726",
+      "md5": "850ba665e7adb9c4fe16e02913439263",
+      "crc32": "ba247e9f",
+      "sha1": "36046cb9b3af5324b42414dccda6ac076d315ae7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "live_hindustan-2022-08-01T17:54:07.805514+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1659356655",
+      "size": "1522",
+      "md5": "651a13131efbe105696290dc578e7443",
+      "crc32": "21836d5a",
+      "sha1": "998136ddfa3f5bc36ad5a2d5d350a829a804e8f7",
+      "format": "JSON"
+    },
+    {
       "name": "live_hindustan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a73235d3647e2a97a23ffdb3d5025119b00aa44",
-      "mtime": "1659313386",
-      "size": "12621",
-      "md5": "b69a13237fe64c218ba6183b6dd551bc",
-      "crc32": "d77693f4",
-      "sha1": "35bc13fea2dc66be6afab19142e738a1e45365c5",
+      "btih": "f4bc13ae02c76277ad1e04a3b68a182579686c91",
+      "mtime": "1659356693",
+      "size": "13502",
+      "md5": "019f4a1daf44141af039e2963090b610",
+      "crc32": "a26f3f7e",
+      "sha1": "3cb02339cc82ee53a63b9ed312cea2f178dcb7c2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "live_hindustan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4d091e94d514330df10cbaea110a4846",
+      "md5": "da12fb96a9dc6d0b476f1ac91e809c7d",
       "summation": "md5"
     },
     {
       "name": "live_hindustan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659313218",
-      "size": "77824",
-      "md5": "c2ca8a22b2663970104a93ae5708faa4",
-      "crc32": "e9671ce0",
-      "sha1": "752c271e041e429d8be975c04730e2baf2121656",
+      "mtime": "1659356658",
+      "size": "81920",
+      "md5": "f27392e107c0e62291ed93a3b8a7ab20",
+      "crc32": "659ed12b",
+      "sha1": "8a697c44f123514c9bdec2f916d07a9b85bf64d3",
       "format": "Metadata"
     },
     {
@@ -574,9 +615,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 55,
-  "item_last_updated": 1659313386,
-  "item_size": 6178541,
+  "files_count": 59,
+  "item_last_updated": 1659356693,
+  "item_size": 6790968,
   "metadata": {
     "identifier": "live_hindustan-2022",
     "collection": [
@@ -593,10 +634,21 @@
     "publicdate": "2022-07-27 17:18:19",
     "addeddate": "2022-07-27 17:18:19"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 686257190,
+  "pending_tasks": true,
+  "server": "ia902503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3349628423,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 888001114,
   "workable_servers": [
-    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }

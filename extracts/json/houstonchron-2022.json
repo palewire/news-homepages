@@ -1,5 +1,5 @@
 {
-  "created": 1659313210,
+  "created": 1659352804,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/25/items/houstonchron-2022",
@@ -2454,31 +2454,61 @@
       "sha1": "8df435666d8652dcb8ab53c73f74c14818b1f653"
     },
     {
+      "name": "houstonchron-2022-08-01T06:19:16.878645-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659352758",
+      "size": "63140",
+      "md5": "faad294aef4804b0e1cadbb8ab3ecc2b",
+      "crc32": "a42ae8d3",
+      "sha1": "118fbec642ffaa203c49a8c3ddac763c4e7daa5a",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-08-01T06:19:16.878645-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659352759",
+      "size": "78422",
+      "md5": "7681f076e336cb8e8afdb75e92a48465",
+      "crc32": "de39c24a",
+      "sha1": "3c40837c29e8f5b743b34d097d9cb6fbce2a6cce",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-08-01T06:19:16.878645-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659352761",
+      "size": "1549",
+      "md5": "2aa9dec49a87b4c1be9b4242098b7576",
+      "crc32": "e8522629",
+      "sha1": "c26f3530cc83e1b792b84cfa7a6e7af7f5ed0fc9",
+      "format": "JSON"
+    },
+    {
       "name": "houstonchron-2022_archive.torrent",
       "source": "metadata",
-      "btih": "85241eb03e1f73be1f4071818dbf7d8ed4ddaf2e",
-      "mtime": "1659313177",
-      "size": "51919",
-      "md5": "f581de83d0bf6cc74f9170b08d2d0c0d",
-      "crc32": "23fdb425",
-      "sha1": "6ca71692804957987ca1fc2ccca3b228416d8894",
+      "btih": "ec0d11b5847501d08190fa07093c5c12fcee293b",
+      "mtime": "1659352800",
+      "size": "52586",
+      "md5": "a30ebfdd7abbb1eed3e043a28038a06f",
+      "crc32": "6591dd6b",
+      "sha1": "fe62de8d002511b98090ebb732ec3c4d47ec5f86",
       "format": "Archive BitTorrent"
     },
     {
       "name": "houstonchron-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1afc859249c1fb1dd7f2227d324b6601",
+      "md5": "06358119febd23a6da36ebb27a4afaac",
       "summation": "md5"
     },
     {
       "name": "houstonchron-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659312951",
-      "size": "294912",
-      "md5": "d7a5caa21ccb07e910bca9422e727b27",
-      "crc32": "eb98d1ef",
-      "sha1": "39c85b1938e1a390736321957939d7fb22299800",
+      "mtime": "1659352764",
+      "size": "299008",
+      "md5": "f4f64aa1bb3cd14d44d0b0f4e023cc12",
+      "crc32": "7ff31341",
+      "sha1": "258ca395053ff4a4e2839aa38c0b1bb62fce37c0",
       "format": "Metadata"
     },
     {
@@ -2492,9 +2522,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 238,
-  "item_last_updated": 1659313177,
-  "item_size": 25126394,
+  "files_count": 241,
+  "item_last_updated": 1659352800,
+  "item_size": 25274268,
   "metadata": {
     "identifier": "houstonchron-2022",
     "collection": [
@@ -2511,10 +2541,21 @@
     "publicdate": "2022-07-04 21:54:16",
     "addeddate": "2022-07-04 21:54:16"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 1995363451,
+  "pending_tasks": true,
+  "server": "ia601400.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3349593978,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1408942340,
   "workable_servers": [
-    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

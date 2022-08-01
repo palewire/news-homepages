@@ -1,5 +1,5 @@
 {
-  "created": 1659314201,
+  "created": 1659357213,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/5/items/uvaldenews-2022",
@@ -1446,31 +1446,83 @@
       "sha1": "235cbf361a7ca766130027c2c949aee9713f2711"
     },
     {
+      "name": "uvaldenews-2022-07-31T20:30:02.752177-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659317406",
+      "size": "20481",
+      "md5": "54cfb9ba2a555f9d3d7f580e344ecc8f",
+      "crc32": "86eb6e88",
+      "sha1": "a903500dd544f8d0f955cc656223ea7303ef7940",
+      "format": "JSON"
+    },
+    {
+      "name": "uvaldenews-2022-07-31T20:30:02.752177-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659317407",
+      "size": "17631",
+      "md5": "e707297a6cd93b6af8c5089f2da43321",
+      "crc32": "19ae2321",
+      "sha1": "ae7c2fb5cc4af92fa60a7f79fd8d648e864be7a9",
+      "format": "JSON"
+    },
+    {
+      "name": "uvaldenews-2022-07-31T20:30:02.752177-05:00.jpg",
+      "source": "original",
+      "mtime": "1659317404",
+      "size": "217673",
+      "md5": "1cc29393aeabb6dfbaa4c48096cc2ced",
+      "crc32": "54905ad8",
+      "sha1": "cb3746bddecfd3e73177f36a7ddb5718ca2d1d80",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uvaldenews-2022-07-31T20:30:02.752177-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659317409",
+      "size": "1549",
+      "md5": "5fb0a8a0ff0c6efa7549ee7584201aee",
+      "crc32": "babadeef",
+      "sha1": "aae98715a7d2bb54e6378b6a752e02aaa53d7bcd",
+      "format": "JSON"
+    },
+    {
+      "name": "uvaldenews-2022-07-31T20:30:02.752177-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uvaldenews-2022-07-31T20:30:02.752177-05:00.jpg",
+      "mtime": "1659317689",
+      "size": "10269",
+      "md5": "a45d54a49fb97b54dffe2335d47c3144",
+      "crc32": "63592462",
+      "sha1": "235cbf361a7ca766130027c2c949aee9713f2711"
+    },
+    {
       "name": "uvaldenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fa73cff2de6e7203ea232523c4114cfcec6446b0",
-      "mtime": "1659280139",
-      "size": "30671",
-      "md5": "26a01373c965be472fd22641fb8b5cca",
-      "crc32": "88086d3e",
-      "sha1": "1e6491eea501bdfb1d3651ce9ee9231828f671ec",
+      "btih": "19e83202dda98c9b280dfed73a1a8f99d02f4673",
+      "mtime": "1659317806",
+      "size": "31721",
+      "md5": "3d50a6cf417764d6740de6cc878da1f1",
+      "crc32": "4380a814",
+      "sha1": "f8ad2f921d588b157d2852608e846aad9c80bdda",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uvaldenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6d3d8c80ba4585874a7c7b762132b1b1",
+      "md5": "f75c93ce7ce69f381d8f347af4c0ade3",
       "summation": "md5"
     },
     {
       "name": "uvaldenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659274487",
-      "size": "188416",
-      "md5": "a12ab274b3a7b113010aac29a405c811",
-      "crc32": "a52bf13f",
-      "sha1": "5109935ef5f3f0bf19813c8705fdf8eb95625194",
+      "mtime": "1659317411",
+      "size": "192512",
+      "md5": "97547ab8faa9f16228671803b238a97e",
+      "crc32": "aa533016",
+      "sha1": "44ca585db2459ef4da957e3108a7d7265c7b83bb",
       "format": "Metadata"
     },
     {
@@ -1484,9 +1536,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 142,
-  "item_last_updated": 1659280139,
-  "item_size": 8086373,
+  "files_count": 147,
+  "item_last_updated": 1659317806,
+  "item_size": 8359122,
   "metadata": {
     "identifier": "uvaldenews-2022",
     "collection": [
@@ -1503,16 +1555,16 @@
     "publicdate": "2022-07-18 00:05:55",
     "addeddate": "2022-07-18 00:05:55"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 56520370,
+  "server": "ia601403.us.archive.org",
+  "uniq": 1397580109,
   "uvaldenews-2022": [
     {
       "url": "https://www.uvaldeleadernews.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_uvaldeleadernews_com-_-2022_07_31_13_11_50.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_uvaldeleadernews_com-_-2022_07_31_13_11_50.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_uvaldeleadernews_com-_-2022_08_01_01_12_04.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_uvaldeleadernews_com-_-2022_08_01_01_12_04.report.json",
       "summary": {
-        "performance": 0.24,
+        "performance": 0.16,
         "accessibility": 0.85,
         "best-practices": 0.67,
         "seo": 0.77,
@@ -1522,10 +1574,10 @@
     {
       "url": "https://www.uvaldeleadernews.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_uvaldeleadernews_com-_-2022_07_31_13_13_22.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_uvaldeleadernews_com-_-2022_07_31_13_13_22.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_uvaldeleadernews_com-_-2022_08_01_01_13_16.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_uvaldeleadernews_com-_-2022_08_01_01_13_16.report.json",
       "summary": {
-        "performance": 0.29,
+        "performance": 0.21,
         "accessibility": 0.85,
         "best-practices": 0.67,
         "seo": 0.77,
@@ -1535,10 +1587,10 @@
     {
       "url": "https://www.uvaldeleadernews.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_uvaldeleadernews_com-_-2022_07_31_13_12_53.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_uvaldeleadernews_com-_-2022_07_31_13_12_53.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_uvaldeleadernews_com-_-2022_08_01_01_12_41.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_uvaldeleadernews_com-_-2022_08_01_01_12_41.report.json",
       "summary": {
-        "performance": 0.24,
+        "performance": 0.18,
         "accessibility": 0.85,
         "best-practices": 0.67,
         "seo": 0.77,
@@ -1547,7 +1599,7 @@
     }
   ],
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

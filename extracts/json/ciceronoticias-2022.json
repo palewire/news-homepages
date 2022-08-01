@@ -1,5 +1,5 @@
 {
-  "created": 1659312733,
+  "created": 1659355527,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/20/items/ciceronoticias-2022",
@@ -2764,31 +2764,72 @@
       "sha1": "7c56bcec52c32d7de36a820f180aa9c58568a829"
     },
     {
+      "name": "ciceronoticias-2022-08-01T06:13:47.340665-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659352441",
+      "size": "70759",
+      "md5": "43ba9bdd02d02ff9d029546630ade787",
+      "crc32": "9674a056",
+      "sha1": "3089b67cef813460f0e927fa762704be884d325b",
+      "format": "JSON"
+    },
+    {
+      "name": "ciceronoticias-2022-08-01T06:13:47.340665-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659352443",
+      "size": "64686",
+      "md5": "09d1a01be83b47b47c53e3a2b6dd5b63",
+      "crc32": "de773cf0",
+      "sha1": "350707f4dc49b82c615b83492c558eb432c1abb3",
+      "format": "JSON"
+    },
+    {
+      "name": "ciceronoticias-2022-08-01T06:13:47.340665-05:00.jpg",
+      "source": "original",
+      "mtime": "1659352434",
+      "size": "170473",
+      "md5": "6661c69809df67a07da2b861cb12a4f2",
+      "crc32": "28de0ec3",
+      "sha1": "11744bda45d0387eada10cf06da4a31312744cc1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ciceronoticias-2022-08-01T06:13:47.340665-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659352444",
+      "size": "1563",
+      "md5": "7d1c14dfddf8380d97745097a53323af",
+      "crc32": "5429b6fb",
+      "sha1": "7a394cf17104cba645f102d0449cb2b4deb55bcc",
+      "format": "JSON"
+    },
+    {
       "name": "ciceronoticias-2022_archive.torrent",
       "source": "metadata",
-      "btih": "695385ee06d06fabb51d40f5f349a86c11be85ae",
-      "mtime": "1659312723",
-      "size": "58564",
-      "md5": "f793c50078dd220090b1eaa627844aba",
-      "crc32": "c239f895",
-      "sha1": "8366bd8646b8ada4b28c51860059264328be8384",
+      "btih": "fd289fb84c57d35b42ca645de9068bae51129042",
+      "mtime": "1659352484",
+      "size": "59423",
+      "md5": "36b567dadbb663998a762ea4e5811460",
+      "crc32": "8e83b491",
+      "sha1": "c91171c551858e7e058b273d101431be7ca86be6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ciceronoticias-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b37b2b8839836648918a26213b61f7c1",
+      "md5": "77c8519fdf3759b5598b40f2fe006a27",
       "summation": "md5"
     },
     {
       "name": "ciceronoticias-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659312635",
-      "size": "335872",
-      "md5": "360bb59e24eb9e48196119aaf9ee00c6",
-      "crc32": "40950761",
-      "sha1": "353249926edf8ccfdf8feef369d655a7809c0fc0",
+      "mtime": "1659352448",
+      "size": "344064",
+      "md5": "a451ca875d74df58df520d95a84427cb",
+      "crc32": "c9a28916",
+      "sha1": "864fb04a26272ce5bd20ac7f3195be4eb68127f7",
       "format": "Metadata"
     },
     {
@@ -2802,9 +2843,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 268,
-  "item_last_updated": 1659312723,
-  "item_size": 18972377,
+  "files_count": 272,
+  "item_last_updated": 1659352484,
+  "item_size": 19288909,
   "metadata": {
     "identifier": "ciceronoticias-2022",
     "collection": [
@@ -2821,10 +2862,21 @@
     "publicdate": "2022-07-09 03:57:19",
     "addeddate": "2022-07-09 03:57:19"
   },
+  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "uniq": 1848587190,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3349591115,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 708324320,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia902505.us.archive.org"
   ]
 }

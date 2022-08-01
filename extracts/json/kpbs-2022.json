@@ -1,5 +1,5 @@
 {
-  "created": 1659313817,
+  "created": 1659356785,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/6/items/kpbs-2022",
@@ -12604,31 +12604,83 @@
       "sha1": "23d03dd944f4cc392ec9ae4be2470909ba42145f"
     },
     {
+      "name": "kpbs-2022-07-31T19:38:29.529871-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659321512",
+      "size": "35089",
+      "md5": "0bb98d9343795e06997cd5768a478881",
+      "crc32": "610e33de",
+      "sha1": "dbb2167ff92d51da4c2bc67a7a6dd06c54ebb4c6",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-07-31T19:38:29.529871-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659321514",
+      "size": "45572",
+      "md5": "b0d8ab35dae3b23b9bdfdd543a4227d5",
+      "crc32": "264ef985",
+      "sha1": "171ac273f9d9cb29ef0907c82433d697967f06d5",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-07-31T19:38:29.529871-07:00.jpg",
+      "source": "original",
+      "mtime": "1659321510",
+      "size": "267752",
+      "md5": "7b4b1addbfdcb5dd9776d9768c7992cb",
+      "crc32": "a8120c51",
+      "sha1": "14fcdae8756d97627ab20559024f5fce0769668f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-07-31T19:38:29.529871-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659321517",
+      "size": "1432",
+      "md5": "5a633e9d6d4a16335cff07f75f34167b",
+      "crc32": "273ac271",
+      "sha1": "df5d6e34ed1255aa8ce12e50a4a153b025a491c6",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-07-31T19:38:29.529871-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-07-31T19:38:29.529871-07:00.jpg",
+      "mtime": "1659321724",
+      "size": "10143",
+      "md5": "b40599286e9f86414fe57e337f0f1c8c",
+      "crc32": "bdc7e287",
+      "sha1": "df8e1432ed93cd7bc4a940e14660a635791bfc31"
+    },
+    {
       "name": "kpbs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0ae45b2f244f33aa964973ff4cfac30b7d1dd31f",
-      "mtime": "1659292789",
-      "size": "249787",
-      "md5": "a614f910a847eddfbc7d0735f5a5d53f",
-      "crc32": "e390d82b",
-      "sha1": "0f3ea9390771bbc853e9d4f79780e0e67b117506",
+      "btih": "355500be8d94d6fb693ed41250f3b47fe8d44d30",
+      "mtime": "1659321778",
+      "size": "250807",
+      "md5": "06bcf93df116ed6192f476b83e81fcb1",
+      "crc32": "60373ff1",
+      "sha1": "b769d5c94a3af5d65a587d5fb1203c097289561c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpbs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8407415532273253997be023882391a9",
+      "md5": "6f0b92bbf21b177b7f73077abd6e8ed0",
       "summation": "md5"
     },
     {
       "name": "kpbs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659292533",
-      "size": "1376256",
-      "md5": "6329de0a3ddc43784b074b2fa546be7d",
-      "crc32": "4a824e20",
-      "sha1": "83f8c3d37587cc6bc80edb77174a9ebf50200fcf",
+      "mtime": "1659321521",
+      "size": "1384448",
+      "md5": "833f499381df9eb5f23bac1e57341206",
+      "crc32": "32a225fb",
+      "sha1": "d4da732442296a408334b3a5cfe73f0fdeb5172a",
       "format": "Metadata"
     },
     {
@@ -12642,17 +12694,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1204,
-  "item_last_updated": 1659292789,
-  "item_size": 117201841,
+  "files_count": 1209,
+  "item_last_updated": 1659321778,
+  "item_size": 117571041,
   "kpbs-2022": [
     {
       "url": "https://www.kpbs.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_07_31_18_05_58.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_07_31_18_05_58.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_08_01_02_18_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_08_01_02_18_36.report.json",
       "summary": {
-        "performance": 0.32,
+        "performance": 0.48,
         "accessibility": 1,
         "best-practices": 0.92,
         "seo": 0.92,
@@ -12662,10 +12714,10 @@
     {
       "url": "https://www.kpbs.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_07_31_18_06_15.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_07_31_18_06_15.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_08_01_02_19_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_08_01_02_19_09.report.json",
       "summary": {
-        "performance": 0.5,
+        "performance": 0.51,
         "accessibility": 1,
         "best-practices": 0.92,
         "seo": 0.92,
@@ -12675,8 +12727,8 @@
     {
       "url": "https://www.kpbs.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_07_31_18_06_32.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_07_31_18_06_32.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_08_01_02_18_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpbs_org-_-2022_08_01_02_18_54.report.json",
       "summary": {
         "performance": 0.51,
         "accessibility": 1,
@@ -12703,7 +12755,7 @@
     "addeddate": "2022-03-24 02:06:19"
   },
   "server": "ia802500.us.archive.org",
-  "uniq": 774163190,
+  "uniq": 205039360,
   "workable_servers": [
     "ia802500.us.archive.org",
     "ia902500.us.archive.org"

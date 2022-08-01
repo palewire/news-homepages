@@ -1,5 +1,5 @@
 {
-  "created": 1659314191,
+  "created": 1659357197,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/8/items/tylerpaper-2022",
@@ -1426,31 +1426,73 @@
       "sha1": "6280a02bbf51ea7790f0da3b8b6e94b4784159bb"
     },
     {
+      "name": "tylerpaper-2022-07-31T20:29:03.798147-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659317347",
+      "size": "49246",
+      "md5": "eaee880afe248ee6915a7f5551194b84",
+      "crc32": "19937d12",
+      "sha1": "31b61610bb546349d3c6ea16ef82753fcb8bdc3e",
+      "format": "JSON"
+    },
+    {
+      "name": "tylerpaper-2022-07-31T20:29:03.798147-05:00.jpg",
+      "source": "original",
+      "mtime": "1659317345",
+      "size": "301842",
+      "md5": "60c1b41204b55ac3d4080662930f7579",
+      "crc32": "c068a36b",
+      "sha1": "c61cff17121397573ab878ee576aaa45360db89b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tylerpaper-2022-07-31T20:29:03.798147-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659317349",
+      "size": "1459",
+      "md5": "20086f9cf17db84d36d5533531df6484",
+      "crc32": "c1700793",
+      "sha1": "10ae62bcf0f8cb4e3d43f18a4a0e69c869d95759",
+      "format": "JSON"
+    },
+    {
+      "name": "tylerpaper-2022-07-31T20:29:03.798147-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tylerpaper-2022-07-31T20:29:03.798147-05:00.jpg",
+      "mtime": "1659317482",
+      "size": "10367",
+      "md5": "7f5a4188f79edfe17fd0c1c2cd5cb349",
+      "crc32": "e60b0a3f",
+      "sha1": "22f57e9629ae77db4c0ed4c5d2528aa28c67f37b"
+    },
+    {
       "name": "tylerpaper-2022_archive.torrent",
       "source": "metadata",
-      "btih": "63c4a1b3eabd0b3804e5fcf2b91a00fca72ce5e9",
-      "mtime": "1659280182",
-      "size": "30420",
-      "md5": "e15a13662b2515121f2f669111ee3dbf",
-      "crc32": "a5deef3e",
-      "sha1": "1582d310f6804a15bae200b468543ae32336c785",
+      "btih": "344f61cbbe9dbafc88290f74396aeceda1ab0a6a",
+      "mtime": "1659317490",
+      "size": "31274",
+      "md5": "1f7d501488bfbb27f6174bb8cade086f",
+      "crc32": "a56a1a41",
+      "sha1": "253425c9b1674ff56b8f6fbeab352e2cd9f3037a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tylerpaper-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dc14b02d41c1e093a3b0820294b52592",
+      "md5": "5549d4bd2427e1843ef7aa956ac06a05",
       "summation": "md5"
     },
     {
       "name": "tylerpaper-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659274476",
-      "size": "184320",
-      "md5": "89c3557873eecaa1b3271a9ee4ea2480",
-      "crc32": "9cfc05f8",
-      "sha1": "600dfd8d2a7c841a0350e4be1db059ce9ca2769e",
+      "mtime": "1659317352",
+      "size": "188416",
+      "md5": "d703263a6667843bbc5cc20030b76b9b",
+      "crc32": "ce9d226e",
+      "sha1": "5d5c0f8b4f5f5fa55c1f0e14afdd42b0c1323942",
       "format": "Metadata"
     },
     {
@@ -1464,9 +1506,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 140,
-  "item_last_updated": 1659280182,
-  "item_size": 12275920,
+  "files_count": 144,
+  "item_last_updated": 1659317490,
+  "item_size": 12643784,
   "metadata": {
     "identifier": "tylerpaper-2022",
     "collection": [
@@ -1483,15 +1525,15 @@
     "publicdate": "2022-07-18 00:06:00",
     "addeddate": "2022-07-18 00:06:00"
   },
-  "server": "ia801509.us.archive.org",
+  "server": "ia601509.us.archive.org",
   "tylerpaper-2022": [
     {
       "url": "https://tylerpaper.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tylerpaper_com-_-2022_07_31_13_10_24.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tylerpaper_com-_-2022_07_31_13_10_24.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tylerpaper_com-_-2022_08_01_01_10_42.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tylerpaper_com-_-2022_08_01_01_10_42.report.json",
       "summary": {
-        "performance": 0.09,
+        "performance": 0.05,
         "accessibility": 0.87,
         "best-practices": 0.75,
         "seo": 0.76,
@@ -1501,10 +1543,10 @@
     {
       "url": "https://tylerpaper.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tylerpaper_com-_-2022_07_31_13_11_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tylerpaper_com-_-2022_07_31_13_11_31.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tylerpaper_com-_-2022_08_01_01_13_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tylerpaper_com-_-2022_08_01_01_13_07.report.json",
       "summary": {
-        "performance": 0.11,
+        "performance": 0.06,
         "accessibility": 0.87,
         "best-practices": 0.75,
         "seo": 0.76,
@@ -1514,10 +1556,10 @@
     {
       "url": "https://tylerpaper.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tylerpaper_com-_-2022_07_31_13_12_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tylerpaper_com-_-2022_07_31_13_12_38.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tylerpaper_com-_-2022_08_01_01_12_38.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tylerpaper_com-_-2022_08_01_01_12_38.report.json",
       "summary": {
-        "performance": 0.1,
+        "performance": 0.05,
         "accessibility": 0.87,
         "best-practices": 0.75,
         "seo": 0.76,
@@ -1525,9 +1567,9 @@
       }
     }
   ],
-  "uniq": 526313686,
+  "uniq": 84026615,
   "workable_servers": [
-    "ia801509.us.archive.org",
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

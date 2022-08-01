@@ -1,46 +1,5 @@
 {
-  "bariweiss-2022": [
-    {
-      "url": "https://www.commonsense.news/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_07_31_18_30_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_07_31_18_30_20.report.json",
-      "summary": {
-        "performance": 0.44,
-        "accessibility": 0.71,
-        "best-practices": 1,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.commonsense.news/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_07_31_18_30_32.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_07_31_18_30_32.report.json",
-      "summary": {
-        "performance": 0.55,
-        "accessibility": 0.71,
-        "best-practices": 1,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.commonsense.news/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_07_31_18_30_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_07_31_18_30_44.report.json",
-      "summary": {
-        "performance": 0.48,
-        "accessibility": 0.71,
-        "best-practices": 1,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "created": 1659313602,
+  "created": 1659317211,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/27/items/bariweiss-2022",
@@ -2113,31 +2072,83 @@
       "sha1": "f00c7a146b106b26ab9423ac90d048e5fab3db8d"
     },
     {
+      "name": "bariweiss-2022-07-31T18:23:49.383490-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659317033",
+      "size": "14660",
+      "md5": "2fbb97c1e195193b89be2430d3842a0a",
+      "crc32": "02765c23",
+      "sha1": "f99146e63dfc5575a765d7a8375c918f25d0d31b",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-07-31T18:23:49.383490-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659317035",
+      "size": "13882",
+      "md5": "83b1a65004c428611f02e3830ac264d7",
+      "crc32": "9f825547",
+      "sha1": "4ab957d55e3ccd308c113e92c9fda2a764844b81",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-07-31T18:23:49.383490-07:00.jpg",
+      "source": "original",
+      "mtime": "1659317031",
+      "size": "257604",
+      "md5": "92f4bce1f5dd67ecd6f826ae554c7923",
+      "crc32": "913c5bc4",
+      "sha1": "056013c3f0f3c689ef97093f12f124e32a802ff9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bariweiss-2022-07-31T18:23:49.383490-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659317036",
+      "size": "1504",
+      "md5": "085c0d8956a9d0363984db871ed5192c",
+      "crc32": "48676421",
+      "sha1": "54d116f5308960cc3108767645746dd34df26e88",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-07-31T18:23:49.383490-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bariweiss-2022-07-31T18:23:49.383490-07:00.jpg",
+      "mtime": "1659317177",
+      "size": "8798",
+      "md5": "73b41b638bcfcfbc15186557917175c6",
+      "crc32": "03a463dc",
+      "sha1": "58aef84c137564b4db35a61e9ec924bc5bdd4643"
+    },
+    {
       "name": "bariweiss-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ee2158dc4f5d0955f75e5e7714e2c64074d90e51",
-      "mtime": "1659293000",
-      "size": "43231",
-      "md5": "af2c6db2a1852d00a8da77516ee5c4ad",
-      "crc32": "66bf37cc",
-      "sha1": "fbd50647b38139812a3e5848b603135a8d1066e1",
+      "btih": "4a08668c88316f5501613a4268913aa46c0b6f6f",
+      "mtime": "1659317189",
+      "size": "44275",
+      "md5": "1f222a5447da51503955e22634fa9eda",
+      "crc32": "f5d7b7a0",
+      "sha1": "52f03c0ac46fce4325c0a0ae0561d73b02bf433f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bariweiss-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e16e263a574eefb6bab4b914ad3ee960",
+      "md5": "9e627243e8692f4a85de2d6a26b7784f",
       "summation": "md5"
     },
     {
       "name": "bariweiss-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659292700",
-      "size": "258048",
-      "md5": "9ede6c2250b326f886ebd265e611464f",
-      "crc32": "44e11a9d",
-      "sha1": "b293af1ebf5faab14bdbe434c539396837a9146a",
+      "mtime": "1659317040",
+      "size": "266240",
+      "md5": "5cd41033e31cc049b1afb0738f262c74",
+      "crc32": "b63d3447",
+      "sha1": "1fe5d104ecb39810df150bbcd560145ffd513d16",
       "format": "Metadata"
     },
     {
@@ -2151,9 +2162,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 202,
-  "item_last_updated": 1659293000,
-  "item_size": 13237055,
+  "files_count": 207,
+  "item_last_updated": 1659317189,
+  "item_size": 13542739,
   "metadata": {
     "identifier": "bariweiss-2022",
     "collection": [
@@ -2170,10 +2181,10 @@
     "publicdate": "2022-07-17 15:03:06",
     "addeddate": "2022-07-17 15:03:06"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 940175740,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1186195877,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

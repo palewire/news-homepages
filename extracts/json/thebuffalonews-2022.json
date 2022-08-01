@@ -1,5 +1,5 @@
 {
-  "created": 1659314113,
+  "created": 1659357114,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/11/items/thebuffalonews-2022",
@@ -536,31 +536,83 @@
       "sha1": "c92ce99d0ad16b7e0907d7c3238871caba0d7485"
     },
     {
+      "name": "thebuffalonews-2022-07-31T21:27:47.125066-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659317270",
+      "size": "30334",
+      "md5": "02de61a40184ac0c8a8775493c5a5b0f",
+      "crc32": "cda9c5a7",
+      "sha1": "62deb6278c1a9e141219fd1284929f103c636129",
+      "format": "JSON"
+    },
+    {
+      "name": "thebuffalonews-2022-07-31T21:27:47.125066-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659317271",
+      "size": "78453",
+      "md5": "f23915db85d4c84078bce02d31328ccd",
+      "crc32": "830ac132",
+      "sha1": "f3ddde830839bc2b0f53b76205afaa574603c7be",
+      "format": "JSON"
+    },
+    {
+      "name": "thebuffalonews-2022-07-31T21:27:47.125066-04:00.jpg",
+      "source": "original",
+      "mtime": "1659317268",
+      "size": "310693",
+      "md5": "5c2d371848ebd9de083b02a5dab5d5b7",
+      "crc32": "17aad009",
+      "sha1": "b35b0628b9797ac3d2ae487c07f44f185ae3ce41",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thebuffalonews-2022-07-31T21:27:47.125066-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659317273",
+      "size": "1468",
+      "md5": "0f748158d55506ea43f3471bab3c247e",
+      "crc32": "86da6a0e",
+      "sha1": "80cdc43ff4c66bd84ab3ffb8812d7dcbc6c7c7ab",
+      "format": "JSON"
+    },
+    {
+      "name": "thebuffalonews-2022-07-31T21:27:47.125066-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thebuffalonews-2022-07-31T21:27:47.125066-04:00.jpg",
+      "mtime": "1659317478",
+      "size": "12322",
+      "md5": "a54fc5946d8a7fc668b1a52c73f16606",
+      "crc32": "3dc13e3e",
+      "sha1": "66909a8641d640e0e6ecf79e073a0b3239aca208"
+    },
+    {
       "name": "thebuffalonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "19fca61e7f66c920f8aaf64f4f375924cc722fe5",
-      "mtime": "1659280285",
-      "size": "12544",
-      "md5": "57a4b07e0f10a32dbbc05766e0d93052",
-      "crc32": "060c5167",
-      "sha1": "34facaa658b554a5f80ad6cfe55b49c97354b37f",
+      "btih": "78514a1e383a2262baf63da7ff3845659b2261c7",
+      "mtime": "1659317483",
+      "size": "13634",
+      "md5": "0d944fb3414ecd6dcd217386ee3ad363",
+      "crc32": "2012f2d1",
+      "sha1": "531fd6396771dd1f6d10188f8ad36a481249e84d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thebuffalonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9648511c1ab5dad2a98b3495bd7f2626",
+      "md5": "bb692d3d221064d9d82f11f386fa193b",
       "summation": "md5"
     },
     {
       "name": "thebuffalonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659274359",
-      "size": "77824",
-      "md5": "536d8d3023256f8d60469d8ce201cdaf",
-      "crc32": "63447ebd",
-      "sha1": "32d9db969499bc73e88d705999510fd5591f0a0f",
+      "mtime": "1659317276",
+      "size": "81920",
+      "md5": "11faf40a6cc5fe88cc16806d74a5475d",
+      "crc32": "e0979f8c",
+      "sha1": "675917b30f01436df35b874e6fce00a6dc9e1c15",
       "format": "Metadata"
     },
     {
@@ -574,9 +626,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 55,
-  "item_last_updated": 1659280285,
-  "item_size": 4389346,
+  "files_count": 60,
+  "item_last_updated": 1659317483,
+  "item_size": 4827802,
   "metadata": {
     "identifier": "thebuffalonews-2022",
     "collection": [
@@ -598,8 +650,34 @@
     {
       "url": "https://buffalonews.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/buffalonews_com-_-2022_07_31_13_07_14.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/buffalonews_com-_-2022_07_31_13_07_14.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/buffalonews_com-_-2022_08_01_01_07_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/buffalonews_com-_-2022_08_01_01_07_31.report.json",
+      "summary": {
+        "performance": 0.02,
+        "accessibility": 0.81,
+        "best-practices": 0.92,
+        "seo": 0.77,
+        "pwa": 0.5
+      }
+    },
+    {
+      "url": "https://buffalonews.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/buffalonews_com-_-2022_08_01_01_08_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/buffalonews_com-_-2022_08_01_01_08_05.report.json",
+      "summary": {
+        "performance": 0.04,
+        "accessibility": 0.81,
+        "best-practices": 0.92,
+        "seo": 0.77,
+        "pwa": 0.5
+      }
+    },
+    {
+      "url": "https://buffalonews.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/buffalonews_com-_-2022_08_01_01_09_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/buffalonews_com-_-2022_08_01_01_09_10.report.json",
       "summary": {
         "performance": 0.02,
         "accessibility": 0.81,
@@ -607,35 +685,9 @@
         "seo": 0.84,
         "pwa": 0.5
       }
-    },
-    {
-      "url": "https://buffalonews.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/buffalonews_com-_-2022_07_31_13_08_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/buffalonews_com-_-2022_07_31_13_08_19.report.json",
-      "summary": {
-        "performance": 0.03,
-        "accessibility": 0.81,
-        "best-practices": 0.92,
-        "seo": 0.84,
-        "pwa": 0.5
-      }
-    },
-    {
-      "url": "https://buffalonews.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/buffalonews_com-_-2022_07_31_13_07_49.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/buffalonews_com-_-2022_07_31_13_07_49.report.json",
-      "summary": {
-        "performance": 0.03,
-        "accessibility": 0.81,
-        "best-practices": 0.92,
-        "seo": 0.84,
-        "pwa": 0.5
-      }
     }
   ],
-  "uniq": 1485028961,
+  "uniq": 1294611981,
   "workable_servers": [
     "ia802504.us.archive.org",
     "ia902504.us.archive.org"

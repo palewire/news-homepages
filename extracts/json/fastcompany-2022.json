@@ -1,8 +1,49 @@
 {
-  "created": 1659282104,
+  "created": 1659356616,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/fastcompany-2022",
+  "fastcompany-2022": [
+    {
+      "url": "https://www.fastcompany.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fastcompany_com-_-2022_08_01_02_12_45.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fastcompany_com-_-2022_08_01_02_12_45.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.fastcompany.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fastcompany_com-_-2022_08_01_02_13_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fastcompany_com-_-2022_08_01_02_13_25.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.fastcompany.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fastcompany_com-_-2022_08_01_02_14_12.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fastcompany_com-_-2022_08_01_02_14_12.report.json",
+      "summary": {
+        "performance": 0.17,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.7
+      }
+    }
+  ],
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -2448,31 +2489,83 @@
       "sha1": "11d637e86774f665f99164b99ec0dab338d4b2be"
     },
     {
+      "name": "fastcompany-2022-07-31T22:34:39.904600-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659321282",
+      "size": "33667",
+      "md5": "45ff45478d7afc7a53c383ad12aadc05",
+      "crc32": "728f63c0",
+      "sha1": "8cebed18240aeacda542d4f2e702819686f0b5b0",
+      "format": "JSON"
+    },
+    {
+      "name": "fastcompany-2022-07-31T22:34:39.904600-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659321284",
+      "size": "43369",
+      "md5": "f861db3b3d943df1ae4ab09e1b27a2d6",
+      "crc32": "8cbe289b",
+      "sha1": "5fcefc507c678561d4c744f85ce0047006233302",
+      "format": "JSON"
+    },
+    {
+      "name": "fastcompany-2022-07-31T22:34:39.904600-04:00.jpg",
+      "source": "original",
+      "mtime": "1659321281",
+      "size": "617612",
+      "md5": "ba090849ebb1af5545dffdd4ff9fee3e",
+      "crc32": "14fe9279",
+      "sha1": "2ea1bcd50c902b487b0ef1c793a418f7867961fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fastcompany-2022-07-31T22:34:39.904600-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659321285",
+      "size": "1504",
+      "md5": "c4a56d5a270051818a60e7ec68f3fc55",
+      "crc32": "f1c4353e",
+      "sha1": "d9ee4471c3006a79342425bad22084097bc1840f",
+      "format": "JSON"
+    },
+    {
+      "name": "fastcompany-2022-07-31T22:34:39.904600-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fastcompany-2022-07-31T22:34:39.904600-04:00.jpg",
+      "mtime": "1659321730",
+      "size": "12982",
+      "md5": "015934d0b2e657239d72887f94d15aca",
+      "crc32": "9629f01d",
+      "sha1": "c35d66dae8a6f288c15f290bea2ac9832d06f21a"
+    },
+    {
       "name": "fastcompany-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bbe1a483f4b0989a629ffbc1920455089ffccd79",
-      "mtime": "1659282081",
-      "size": "51482",
-      "md5": "1683a5f49b12bae15b51ef8274334996",
-      "crc32": "f886c8e8",
-      "sha1": "2251e0a0bbf61b401cc200b6983df11fd926929d",
+      "btih": "2e5675903574e8360501361a4f5cddee922bd5fc",
+      "mtime": "1659321737",
+      "size": "52557",
+      "md5": "08b524ec8b2b21e4d400af6308d59770",
+      "crc32": "5c4da5dd",
+      "sha1": "7f99d223d3977aa1ecbfd40eadf793fd714599c3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fastcompany-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "afddf80b9e440d8b465cff64d032bcca",
+      "md5": "14cd6b462f034dacaa793f24736b1107",
       "summation": "md5"
     },
     {
       "name": "fastcompany-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659278108",
-      "size": "290816",
-      "md5": "a8ffc882d492822d769147c6a150f2ec",
-      "crc32": "d297e40e",
-      "sha1": "008d3d246b4225cb8a9061d171947762ac836f1b",
+      "mtime": "1659321290",
+      "size": "294912",
+      "md5": "b54b90de9b2f30ab19508fa3e9e12f84",
+      "crc32": "e48bc67f",
+      "sha1": "3cae83daabd459fa5b63f5f9a8258fe3dc04803f",
       "format": "Metadata"
     },
     {
@@ -2486,9 +2579,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 237,
-  "item_last_updated": 1659282081,
-  "item_size": 26911945,
+  "files_count": 242,
+  "item_last_updated": 1659321737,
+  "item_size": 27626250,
   "metadata": {
     "identifier": "fastcompany-2022",
     "collection": [
@@ -2506,7 +2599,7 @@
     "addeddate": "2022-07-04 20:48:13"
   },
   "server": "ia801505.us.archive.org",
-  "uniq": 39720444,
+  "uniq": 110801085,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"

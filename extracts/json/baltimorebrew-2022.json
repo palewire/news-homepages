@@ -1,5 +1,5 @@
 {
-  "created": 1659312620,
+  "created": 1659352334,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/15/items/baltimorebrew-2022",
@@ -1866,31 +1866,72 @@
       "sha1": "57aff7d3b27e0240dfe0e33799b5e37b72227533"
     },
     {
+      "name": "baltimorebrew-2022-08-01T07:11:24.642646-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659352288",
+      "size": "18488",
+      "md5": "167f98dbf68624b57fa84b923666c92c",
+      "crc32": "8ae6c55e",
+      "sha1": "5e4a4f938bd3c94396043d6c7be859d0bbccf625",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebrew-2022-08-01T07:11:24.642646-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659352290",
+      "size": "15469",
+      "md5": "9ff0b59213e8814cb803df21f53dfe36",
+      "crc32": "a8b261f9",
+      "sha1": "7a75cb373d9ef917eb1a32687027dd5e67044905",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebrew-2022-08-01T07:11:24.642646-04:00.jpg",
+      "source": "original",
+      "mtime": "1659352286",
+      "size": "303241",
+      "md5": "084c422170f3158f0b85a9ec0085c23e",
+      "crc32": "c8be2666",
+      "sha1": "bd471024fc4638b5bd6ecf2707c561e13378eb8f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimorebrew-2022-08-01T07:11:24.642646-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659352291",
+      "size": "1522",
+      "md5": "b6174c6ada7ebc05e4a3796cf389b5c0",
+      "crc32": "cb1eb4fc",
+      "sha1": "6a3ba0ac468d4edd0764f970351a4b00bb0d2065",
+      "format": "JSON"
+    },
+    {
       "name": "baltimorebrew-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ea57f5eafa469f05e369c93e86678bf1380cf275",
-      "mtime": "1659312602",
-      "size": "39763",
-      "md5": "5d440af6fa3354fe29b300231b5715b2",
-      "crc32": "f8d071dc",
-      "sha1": "a369e10b8e2673b0b147155afbc71d3e8f2ed138",
+      "btih": "25f8418882c6d4545604fdbf6db06551b7c2a58f",
+      "mtime": "1659352330",
+      "size": "40638",
+      "md5": "a5ffdaeea0b88ffaebf0fbe912c41e8e",
+      "crc32": "4aa2812b",
+      "sha1": "67fcc92f2939955d2da22830c8eeaeb8d24654b8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimorebrew-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fb90e45218e36045f07057f70e8d4ac1",
+      "md5": "c63476ded7b5adff13a5eb438d0ff5c4",
       "summation": "md5"
     },
     {
       "name": "baltimorebrew-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659312438",
-      "size": "233472",
-      "md5": "9c4a8fcfe5a0765513f0a728ae18bd02",
-      "crc32": "339c86da",
-      "sha1": "94d8086694c64e0815a3ac8774404dff1b99edc2",
+      "mtime": "1659352294",
+      "size": "237568",
+      "md5": "2d40d5c9b1eb7f19eaf9ba858d201562",
+      "crc32": "c9c6c7ec",
+      "sha1": "00db33f8b0e6ad769904cc26f62297777bdf9e00",
       "format": "Metadata"
     },
     {
@@ -1904,9 +1945,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 182,
-  "item_last_updated": 1659312602,
-  "item_size": 13028636,
+  "files_count": 186,
+  "item_last_updated": 1659352330,
+  "item_size": 13372327,
   "metadata": {
     "identifier": "baltimorebrew-2022",
     "collection": [
@@ -1923,10 +1964,21 @@
     "publicdate": "2022-07-13 02:24:41",
     "addeddate": "2022-07-13 02:24:41"
   },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "uniq": 1125800834,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3349589207,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 604287165,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }

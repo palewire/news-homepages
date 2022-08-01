@@ -1,5 +1,5 @@
 {
-  "created": 1659314033,
+  "created": 1659357020,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/7/items/salon-2022",
@@ -1936,31 +1936,83 @@
       "sha1": "1c4ac4997b302518f4745237cc92fd926cabe1c8"
     },
     {
+      "name": "salon-2022-07-31T23:57:21.220208-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659326244",
+      "size": "14387",
+      "md5": "bf2ca420a68eef5e1d936830ecf48371",
+      "crc32": "228f47ed",
+      "sha1": "1ad3e97d548b0d3b313101f37bba810112d106e1",
+      "format": "JSON"
+    },
+    {
+      "name": "salon-2022-07-31T23:57:21.220208-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659326246",
+      "size": "45545",
+      "md5": "9b2b5c8bcf2c1cc1a509d8c340daa13b",
+      "crc32": "6b3cf042",
+      "sha1": "233f9e326b9b19e5035bf69db8bb1ed3642171e3",
+      "format": "JSON"
+    },
+    {
+      "name": "salon-2022-07-31T23:57:21.220208-04:00.jpg",
+      "source": "original",
+      "mtime": "1659326243",
+      "size": "350890",
+      "md5": "b66abc51e783d55747ff38aa9e3f7b89",
+      "crc32": "01cc7211",
+      "sha1": "ce12e98ed375d4534923bfe14c18b9f77bc02f78",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salon-2022-07-31T23:57:21.220208-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659326248",
+      "size": "1450",
+      "md5": "82b2c495cbd81e2d023e6c0b9d0549e7",
+      "crc32": "82d3f065",
+      "sha1": "38158a40374da55f9d42e5af8e89b3d9ac2c06ef",
+      "format": "JSON"
+    },
+    {
+      "name": "salon-2022-07-31T23:57:21.220208-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salon-2022-07-31T23:57:21.220208-04:00.jpg",
+      "mtime": "1659326506",
+      "size": "10727",
+      "md5": "2a581719e943b79047bc54252dfc24f2",
+      "crc32": "615cb2f0",
+      "sha1": "d5be73ec6bc65edea195a954d516036a4d119a21"
+    },
+    {
       "name": "salon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "94662f6552aa1a079929b7a98a91f07d65209a6c",
-      "mtime": "1659292964",
-      "size": "39868",
-      "md5": "d60ecb3aa2174fe657ab7f8c14d95117",
-      "crc32": "55a7d114",
-      "sha1": "b7f8caee5e21d9b7775ca4b91561265aec6525c0",
+      "btih": "efbc045efbba30c3784607892f6b60b80daeaa64",
+      "mtime": "1659326514",
+      "size": "40913",
+      "md5": "5d3f1702f0763b301fbf6e5ca3193a18",
+      "crc32": "ebf48276",
+      "sha1": "d9e9fffd728601db8e25137adafef83b2a531f14",
       "format": "Archive BitTorrent"
     },
     {
       "name": "salon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "958ff05bf39484be9aabadb5b382d753",
+      "md5": "7d7b29274587d6ad556a42a9f2997fbd",
       "summation": "md5"
     },
     {
       "name": "salon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659292670",
-      "size": "241664",
-      "md5": "25aeb981bbf7c79dc3bd0aeb760a0e98",
-      "crc32": "aba68aa2",
-      "sha1": "cf68aaa63d7d10b29bf33bf18cc348dbbc24edfc",
+      "mtime": "1659326251",
+      "size": "249856",
+      "md5": "d44572d151873952bcbb9ac9743d30d1",
+      "crc32": "4be9b01a",
+      "sha1": "fc1f1b963ec22a613a77a16f7281aeb13b7b63c4",
       "format": "Metadata"
     },
     {
@@ -1974,9 +2026,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 189,
-  "item_last_updated": 1659292964,
-  "item_size": 15546879,
+  "files_count": 194,
+  "item_last_updated": 1659326514,
+  "item_size": 15979115,
   "metadata": {
     "identifier": "salon-2022",
     "collection": [
@@ -1997,11 +2049,11 @@
     {
       "url": "https://www.salon.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_salon_com-_-2022_07_31_18_21_29.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_salon_com-_-2022_07_31_18_21_29.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_salon_com-_-2022_08_01_03_41_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_salon_com-_-2022_08_01_03_41_21.report.json",
       "summary": {
-        "performance": 0.41,
-        "accessibility": 0.83,
+        "performance": 0.37,
+        "accessibility": 0.85,
         "best-practices": 0.83,
         "seo": 0.92,
         "pwa": 0.4
@@ -2010,11 +2062,11 @@
     {
       "url": "https://www.salon.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_salon_com-_-2022_07_31_18_22_12.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_salon_com-_-2022_07_31_18_22_12.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_salon_com-_-2022_08_01_03_41_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_salon_com-_-2022_08_01_03_41_39.report.json",
       "summary": {
-        "performance": 0.46,
-        "accessibility": 0.83,
+        "performance": 0.43,
+        "accessibility": 0.85,
         "best-practices": 0.83,
         "seo": 0.92,
         "pwa": 0.4
@@ -2023,11 +2075,11 @@
     {
       "url": "https://www.salon.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_salon_com-_-2022_07_31_18_21_51.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_salon_com-_-2022_07_31_18_21_51.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_salon_com-_-2022_08_01_03_41_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_salon_com-_-2022_08_01_03_41_00.report.json",
       "summary": {
-        "performance": 0.45,
-        "accessibility": 0.83,
+        "performance": 0.44,
+        "accessibility": 0.85,
         "best-practices": 0.83,
         "seo": 0.92,
         "pwa": 0.4
@@ -2035,7 +2087,7 @@
     }
   ],
   "server": "ia802501.us.archive.org",
-  "uniq": 2098017322,
+  "uniq": 1462723777,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"

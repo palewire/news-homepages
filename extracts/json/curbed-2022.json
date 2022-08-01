@@ -1,46 +1,5 @@
 {
-  "created": 1659313661,
-  "curbed-2022": [
-    {
-      "url": "https://www.curbed.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_curbed_com-_-2022_07_31_13_04_33.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_curbed_com-_-2022_07_31_13_04_33.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.93,
-        "best-practices": 0.92,
-        "seo": 1,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.curbed.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_curbed_com-_-2022_07_31_13_05_02.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_curbed_com-_-2022_07_31_13_05_02.report.json",
-      "summary": {
-        "performance": 0.18,
-        "accessibility": 0.93,
-        "best-practices": 0.92,
-        "seo": 1,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.curbed.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_curbed_com-_-2022_07_31_13_05_41.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_curbed_com-_-2022_07_31_13_05_41.report.json",
-      "summary": {
-        "performance": 0.21,
-        "accessibility": 0.93,
-        "best-practices": 0.92,
-        "seo": 1,
-        "pwa": 0.4
-      }
-    }
-  ],
+  "created": 1659317256,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/24/items/curbed-2022",
@@ -2201,31 +2160,83 @@
       "sha1": "63a498a6812c936b5bb47f4f0802f951c1be9669"
     },
     {
+      "name": "curbed-2022-07-31T21:25:55.091319-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659317157",
+      "size": "19787",
+      "md5": "30f96f21c8a4ba1b745e3777a6dec331",
+      "crc32": "f0a74b02",
+      "sha1": "4ff704b94f5b2b2f9f1651e6d4c6e1784025d58e",
+      "format": "JSON"
+    },
+    {
+      "name": "curbed-2022-07-31T21:25:55.091319-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659317159",
+      "size": "15689",
+      "md5": "c4eb8fffc0f61e187da26df17b53b0e0",
+      "crc32": "eeaee8a2",
+      "sha1": "4fa9941d9a5d78486353e702d7cd9aeca7905680",
+      "format": "JSON"
+    },
+    {
+      "name": "curbed-2022-07-31T21:25:55.091319-04:00.jpg",
+      "source": "original",
+      "mtime": "1659317156",
+      "size": "197403",
+      "md5": "5a7c03b4aa45205d8ce25db9577c83a1",
+      "crc32": "1e46c4af",
+      "sha1": "51f1fb2cba098897bde637e79da8657e3dadfb5c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "curbed-2022-07-31T21:25:55.091319-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659317160",
+      "size": "1449",
+      "md5": "0f852abb5468adbcb43f928592e52f02",
+      "crc32": "e99b804c",
+      "sha1": "ac39949affec6bfe5647e13d1ac0e73684e7f52c",
+      "format": "JSON"
+    },
+    {
+      "name": "curbed-2022-07-31T21:25:55.091319-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "curbed-2022-07-31T21:25:55.091319-04:00.jpg",
+      "mtime": "1659317231",
+      "size": "9098",
+      "md5": "10d320d23973e64c48c26df911ee9843",
+      "crc32": "b6c2868d",
+      "sha1": "d98cd8c7bbce6d501750a6fda826c38e3f6054bd"
+    },
+    {
       "name": "curbed-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5df486353b63d7d392ba9aab45293605e764cdb4",
-      "mtime": "1659280107",
-      "size": "44233",
-      "md5": "39353476934925ae15e82871dbdbb9bf",
-      "crc32": "82f58dc0",
-      "sha1": "d8877a8849fbd53d29d739d4e015935a8469542c",
+      "btih": "5c2eeeaa4c1ba00e8479e937c7330a103b56bf62",
+      "mtime": "1659317238",
+      "size": "45282",
+      "md5": "7f732c385ffb247cb5549ef1ebac089d",
+      "crc32": "0fc7b27e",
+      "sha1": "1fa9c7673c211cb7cff508177e33ef2a4e1c58fb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "curbed-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "61e7997f4b736c80be96824ccf8abd49",
+      "md5": "9d3313e434d205b77e5950e96634dced",
       "summation": "md5"
     },
     {
       "name": "curbed-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659274261",
-      "size": "262144",
-      "md5": "1a33463004248c5a19a4993247845635",
-      "crc32": "5b970fd4",
-      "sha1": "d4517b71bcd48cad162e8f4684a26e6c15f9598e",
+      "mtime": "1659317164",
+      "size": "266240",
+      "md5": "241dd515a57764fe48b77366762736af",
+      "crc32": "95e026e9",
+      "sha1": "a4abef0be9f5c2847b098da1e2b67d5b340170ff",
       "format": "Metadata"
     },
     {
@@ -2239,9 +2250,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 210,
-  "item_last_updated": 1659280107,
-  "item_size": 13485835,
+  "files_count": 215,
+  "item_last_updated": 1659317238,
+  "item_size": 13734406,
   "metadata": {
     "identifier": "curbed-2022",
     "collection": [
@@ -2259,7 +2270,7 @@
     "addeddate": "2022-07-09 03:58:05"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 477933668,
+  "uniq": 752080530,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

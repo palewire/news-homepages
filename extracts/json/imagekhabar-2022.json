@@ -1,5 +1,5 @@
 {
-  "created": 1659313762,
+  "created": 1659356739,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/35/items/imagekhabar-2022",
@@ -796,31 +796,83 @@
       "sha1": "e2d2d2443caa84b1216b25d665a1598ca9889eb7"
     },
     {
+      "name": "imagekhabar-2022-08-01T08:21:43.806232+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659321406",
+      "size": "60612",
+      "md5": "306aa95bda20c1672add57ab68e0d46f",
+      "crc32": "63258eab",
+      "sha1": "d758a923f682fb0ee8f943091d23bb1dc4e79261",
+      "format": "JSON"
+    },
+    {
+      "name": "imagekhabar-2022-08-01T08:21:43.806232+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659321408",
+      "size": "67397",
+      "md5": "60196a39fe1d2c47e6b52d7cab590981",
+      "crc32": "7fea3a21",
+      "sha1": "1a18aced82bfe6e11f5b47ef43eea106ebb2a5f3",
+      "format": "JSON"
+    },
+    {
+      "name": "imagekhabar-2022-08-01T08:21:43.806232+05:45.jpg",
+      "source": "original",
+      "mtime": "1659321405",
+      "size": "239100",
+      "md5": "7c06fad6fb5c4f4e942e8bd1374ce5ae",
+      "crc32": "e432c833",
+      "sha1": "e2b629519e60830d5738cbce58aa5835d633f0f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "imagekhabar-2022-08-01T08:21:43.806232+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659321409",
+      "size": "1504",
+      "md5": "12079cf849139d1094a28f9b36d7e0f7",
+      "crc32": "6707e1fc",
+      "sha1": "6eb2ed27509e837228904651832128fbfbd2290a",
+      "format": "JSON"
+    },
+    {
+      "name": "imagekhabar-2022-08-01T08:21:43.806232+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "imagekhabar-2022-08-01T08:21:43.806232+05:45.jpg",
+      "mtime": "1659321521",
+      "size": "10110",
+      "md5": "a6b65c93e72f902027f0adcba7a60ddb",
+      "crc32": "389cfb6c",
+      "sha1": "b993012f714ed3e7a2673f363c29bbf83dafdac1"
+    },
+    {
       "name": "imagekhabar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "526e0a5dd5bc9469cf589bac778640d0d778fa96",
-      "mtime": "1659282218",
-      "size": "17690",
-      "md5": "402ac9a0e34ac781da4b68db4b7377bd",
-      "crc32": "0371f372",
-      "sha1": "9c79dee96a89eee9323bca656b5e9d9da435a35e",
+      "btih": "8b7fa08440f477ccd88394fa73f40cf1e30ea20f",
+      "mtime": "1659321527",
+      "size": "18745",
+      "md5": "bfa20bf32481afcde7a67aef0ab549c6",
+      "crc32": "f3740654",
+      "sha1": "371c212bfba24fa10e32c397ac24014013989907",
       "format": "Archive BitTorrent"
     },
     {
       "name": "imagekhabar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c15f9d3d3eb481427510c3dccf3ace13",
+      "md5": "ef67d4c8ff8dc18a596e68933b5e104f",
       "summation": "md5"
     },
     {
       "name": "imagekhabar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659278262",
-      "size": "110592",
-      "md5": "64c79b1967b0a0bdf31cf3eb0efd9394",
-      "crc32": "612ee65a",
-      "sha1": "9f8893990ad26f776c982f636e38ae9bdd7bddaf",
+      "mtime": "1659321412",
+      "size": "126976",
+      "md5": "fb8408347153774599c9d5b494384edf",
+      "crc32": "8b71900e",
+      "sha1": "cd09b7f7adc3c504dd940c10eb9d0e83f26d4ed1",
       "format": "Metadata"
     },
     {
@@ -834,15 +886,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 80,
+  "files_count": 85,
   "imagekhabar-2022": [
     {
       "url": "https://www.imagekhabar.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_imagekhabar_com-_-2022_07_31_14_16_05.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_imagekhabar_com-_-2022_07_31_14_16_05.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_imagekhabar_com-_-2022_08_01_02_16_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_imagekhabar_com-_-2022_08_01_02_16_52.report.json",
       "summary": {
-        "performance": 0.23,
+        "performance": 0.16,
         "accessibility": 0.77,
         "best-practices": 0.67,
         "seo": 0.85,
@@ -852,10 +904,10 @@
     {
       "url": "https://www.imagekhabar.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_imagekhabar_com-_-2022_07_31_14_16_36.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_imagekhabar_com-_-2022_07_31_14_16_36.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_imagekhabar_com-_-2022_08_01_02_17_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_imagekhabar_com-_-2022_08_01_02_17_23.report.json",
       "summary": {
-        "performance": 0.23,
+        "performance": 0.19,
         "accessibility": 0.77,
         "best-practices": 0.67,
         "seo": 0.85,
@@ -865,10 +917,10 @@
     {
       "url": "https://www.imagekhabar.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_imagekhabar_com-_-2022_07_31_14_17_04.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_imagekhabar_com-_-2022_07_31_14_17_04.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_imagekhabar_com-_-2022_08_01_02_17_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_imagekhabar_com-_-2022_08_01_02_17_53.report.json",
       "summary": {
-        "performance": 0.28,
+        "performance": 0.21,
         "accessibility": 0.77,
         "best-practices": 0.67,
         "seo": 0.85,
@@ -876,8 +928,8 @@
       }
     }
   ],
-  "item_last_updated": 1659282218,
-  "item_size": 5830938,
+  "item_last_updated": 1659321527,
+  "item_size": 6227100,
   "metadata": {
     "identifier": "imagekhabar-2022",
     "collection": [
@@ -895,7 +947,7 @@
     "addeddate": "2022-07-24 20:37:41"
   },
   "server": "ia801405.us.archive.org",
-  "uniq": 1199636270,
+  "uniq": 925028812,
   "workable_servers": [
     "ia801405.us.archive.org",
     "ia601405.us.archive.org"

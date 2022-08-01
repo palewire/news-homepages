@@ -3,8 +3,8 @@
     {
       "url": "https://abc7news.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_07_31_12_58_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_07_31_12_58_47.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_08_01_01_00_45.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_08_01_01_00_45.report.json",
       "summary": {
         "performance": 0.23,
         "accessibility": 0.56,
@@ -16,8 +16,8 @@
     {
       "url": "https://abc7news.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_07_31_12_59_43.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_07_31_12_59_43.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_08_01_01_01_35.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_08_01_01_01_35.report.json",
       "summary": {
         "performance": 0.23,
         "accessibility": 0.56,
@@ -29,8 +29,8 @@
     {
       "url": "https://abc7news.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_07_31_13_00_45.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_07_31_13_00_45.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_08_01_00_59_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/abc7news_com-_-2022_08_01_00_59_50.report.json",
       "summary": {
         "performance": 0.23,
         "accessibility": 0.56,
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "created": 1659313569,
+  "created": 1659356385,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/0/items/abc7newsbayarea-2022",
@@ -733,31 +733,83 @@
       "sha1": "c75b0aee048a512e2e3834428fcab4304ae321d1"
     },
     {
+      "name": "abc7newsbayarea-2022-07-31T18:22:31.225948-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659316954",
+      "size": "28534",
+      "md5": "09662f76424f45146d4a6f8535cbe312",
+      "crc32": "9e165669",
+      "sha1": "d9f34da773e4581e926e1b44afb50a25c67ba687",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7newsbayarea-2022-07-31T18:22:31.225948-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659316956",
+      "size": "28370",
+      "md5": "ac6f17f33026d7b281ca2756c2eb317f",
+      "crc32": "b74a19ac",
+      "sha1": "71f34aec25af007cb9ac1792122634512079ed94",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7newsbayarea-2022-07-31T18:22:31.225948-07:00.jpg",
+      "source": "original",
+      "mtime": "1659316952",
+      "size": "357784",
+      "md5": "23581c04d99a292249d9952045432fbf",
+      "crc32": "d92c8561",
+      "sha1": "0daf605cfc7e20ae4982ed907c34304dd49635e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abc7newsbayarea-2022-07-31T18:22:31.225948-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659316957",
+      "size": "1441",
+      "md5": "429dbce443fdde2d7dcdfcc40ece910c",
+      "crc32": "19a9c83f",
+      "sha1": "0822593485c93e6e6b524d526316fac171d8e019",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7newsbayarea-2022-07-31T18:22:31.225948-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abc7newsbayarea-2022-07-31T18:22:31.225948-07:00.jpg",
+      "mtime": "1659317029",
+      "size": "10533",
+      "md5": "df6831bc3b3e85f50939020eadb8fa7f",
+      "crc32": "95707070",
+      "sha1": "d772938b6a05d2436d6524778c7024e04a33e6e7"
+    },
+    {
       "name": "abc7newsbayarea-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9dd9e98ab45c27fcdb7bb840ef6fc4706d014c81",
-      "mtime": "1659280143",
-      "size": "15863",
-      "md5": "65716e862fe4192d8867a8e12d2efbed",
-      "crc32": "579dc94e",
-      "sha1": "b59d0bb0b107c7e9654cd36afa506aee9db3c975",
+      "btih": "ff36ef67db0b9c9f9bbdbdcae8fd93a8b15aa2c7",
+      "mtime": "1659317079",
+      "size": "16938",
+      "md5": "0d510d8ae7ae2e63186d1f7f03abf3b2",
+      "crc32": "b6c0a0aa",
+      "sha1": "36b5f1d4249d763142cc4ee2cdf2a5c03b795c1a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abc7newsbayarea-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b7036db214f3dfc9701b024280e0368f",
+      "md5": "e2d48336543780fcf35ea37330cf2b5e",
       "summation": "md5"
     },
     {
       "name": "abc7newsbayarea-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659274048",
-      "size": "102400",
-      "md5": "c7f1a13e183b4038be9df1b4a5882ad1",
-      "crc32": "eb10b8c0",
-      "sha1": "eabd0c4577b7c244416a941fbcb77f5963d7d33b",
+      "mtime": "1659316961",
+      "size": "106496",
+      "md5": "f8c3ba4265b345cd284d24582e8d17c4",
+      "crc32": "f89d3fef",
+      "sha1": "05f7caf0e3ecc57e307ca399a0315a3d78cf7973",
       "format": "Metadata"
     },
     {
@@ -771,9 +823,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 70,
-  "item_last_updated": 1659280143,
-  "item_size": 5345344,
+  "files_count": 75,
+  "item_last_updated": 1659317079,
+  "item_size": 5777177,
   "metadata": {
     "identifier": "abc7newsbayarea-2022",
     "collection": [
@@ -790,10 +842,10 @@
     "publicdate": "2022-07-26 01:30:06",
     "addeddate": "2022-07-26 01:30:06"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 877643661,
+  "server": "ia801403.us.archive.org",
+  "uniq": 1267720618,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ]
 }

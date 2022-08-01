@@ -1,5 +1,5 @@
 {
-  "created": 1659314164,
+  "created": 1659357167,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/22/items/thetimes-2022",
@@ -13732,31 +13732,135 @@
       "sha1": "338fada093148ea02cf1ae5295c5ffde349a132a"
     },
     {
+      "name": "thetimes-2022-08-01T02:28:16.157611+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659317304",
+      "size": "44104",
+      "md5": "8c90ee7aa9e0af6c5cf88f00801541a9",
+      "crc32": "63282fb9",
+      "sha1": "47de2163dcd76c5c108a66a4bd361216da430b0e",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimes-2022-08-01T02:28:16.157611+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659317306",
+      "size": "103314",
+      "md5": "f8acc5c7dcc4123aa3c27d6c875a8288",
+      "crc32": "830998df",
+      "sha1": "5e05418526cb08cbef9a829390b4d6f372e36f39",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimes-2022-08-01T02:28:16.157611+01:00.jpg",
+      "source": "original",
+      "mtime": "1659317302",
+      "size": "336504",
+      "md5": "d2c9b4467a8dee730086e0f97b277c5e",
+      "crc32": "931f0db3",
+      "sha1": "863d945defc9fef5bf9e23b138a6e5c2a47e65ee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetimes-2022-08-01T02:28:16.157611+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659317307",
+      "size": "1495",
+      "md5": "3309b6ec3f45419f40eecb2eab97bbee",
+      "crc32": "7c1e2696",
+      "sha1": "68677b66d3f7bf4289dd94404e38b351c788f932",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimes-2022-08-01T02:28:16.157611+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetimes-2022-08-01T02:28:16.157611+01:00.jpg",
+      "mtime": "1659317688",
+      "size": "10144",
+      "md5": "9e4e7b55bfb155d10db1e56df3510e30",
+      "crc32": "c9707b7d",
+      "sha1": "51d3c572b1fd186063fd0cd02a56b1626f69750d"
+    },
+    {
+      "name": "thetimes-2022-08-01T10:09:59.715922+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659345011",
+      "size": "44717",
+      "md5": "2e2a18f322d8462c9f563218916980c6",
+      "crc32": "f2b8d9f8",
+      "sha1": "d07e14b538d38b6f41f37d4fd32cd17628529f6f",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimes-2022-08-01T10:09:59.715922+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659345012",
+      "size": "105758",
+      "md5": "e352b1e68bfa92b87cf5d91771a73aca",
+      "crc32": "cba17a8d",
+      "sha1": "688e72783d52044ff645d669b470cb5db1d53961",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimes-2022-08-01T10:09:59.715922+01:00.jpg",
+      "source": "original",
+      "mtime": "1659345009",
+      "size": "326993",
+      "md5": "bb4e02a4cdab9cf39dbc80e391a80f64",
+      "crc32": "c52ecdf4",
+      "sha1": "dc848028db1fe26b3fae636885ea9e2e01b7e8d2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetimes-2022-08-01T10:09:59.715922+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659345014",
+      "size": "1495",
+      "md5": "76064ffbbbc4f0fe1c1a8b3b8e94ef8a",
+      "crc32": "37bef20a",
+      "sha1": "b710c9efb0941ec4dae37f2fe0172147dbf4ad21",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimes-2022-08-01T10:09:59.715922+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetimes-2022-08-01T10:09:59.715922+01:00.jpg",
+      "mtime": "1659346804",
+      "size": "10192",
+      "md5": "e818a2a4214b96b3d93b61ced8ef1481",
+      "crc32": "98011473",
+      "sha1": "49434509ea38bd61659c49b65ca45840ceab5e14"
+    },
+    {
       "name": "thetimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "53f0248f465d56f4b1fb796c1b8ef90db9c41f69",
-      "mtime": "1659280408",
-      "size": "278790",
-      "md5": "9bdaf89866943a2cd60806637ea544ec",
-      "crc32": "e388eb7e",
-      "sha1": "011bf235059104949ffc93025d6de4c15b5aa9be",
+      "btih": "d766e89e57d7e21b52eb4c1b3b8ccec8f1bdf0bb",
+      "mtime": "1659346850",
+      "size": "280912",
+      "md5": "9bbc6d2ca716fa859b34db8ae7058380",
+      "crc32": "d8e196e9",
+      "sha1": "030fd601d3273ffc995406937c90d2b74f6ea7e8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9879504f60f9401f6d436cc420e6c450",
+      "md5": "8bafaa34636e035032647e2f8102e5f6",
       "summation": "md5"
     },
     {
       "name": "thetimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659274416",
-      "size": "1503232",
-      "md5": "df53b37748b619f222c7d0da080ab60a",
-      "crc32": "009e364a",
-      "sha1": "8bc4bd85f5ad8b477b8854b272a62d47dd05cd90",
+      "mtime": "1659345028",
+      "size": "1515520",
+      "md5": "cdfa8b3b21d01bb4e9d06642bb657841",
+      "crc32": "3524459f",
+      "sha1": "15a65c9abe12870e21975ebbc9c716da026e8b1d",
       "format": "Metadata"
     },
     {
@@ -13770,9 +13874,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1311,
-  "item_last_updated": 1659280408,
-  "item_size": 159423381,
+  "files_count": 1321,
+  "item_last_updated": 1659346850,
+  "item_size": 160422507,
   "metadata": {
     "identifier": "thetimes-2022",
     "collection": [
@@ -13789,51 +13893,51 @@
     "publicdate": "2022-03-23 08:04:21",
     "addeddate": "2022-03-23 08:04:21"
   },
-  "server": "ia902508.us.archive.org",
+  "server": "ia802508.us.archive.org",
   "thetimes-2022": [
     {
       "url": "https://www.thetimes.co.uk/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thetimes_co_uk-_-2022_07_31_13_08_34.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thetimes_co_uk-_-2022_07_31_13_08_34.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thetimes_co_uk-_-2022_08_01_09_03_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thetimes_co_uk-_-2022_08_01_09_03_43.report.json",
       "summary": {
-        "performance": 0.07,
-        "accessibility": 0.86,
+        "performance": 0.04,
+        "accessibility": 0.87,
         "best-practices": 0.92,
-        "seo": 0.86,
+        "seo": 0.79,
         "pwa": 0.4
       }
     },
     {
       "url": "https://www.thetimes.co.uk/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thetimes_co_uk-_-2022_07_31_13_09_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thetimes_co_uk-_-2022_07_31_13_09_19.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thetimes_co_uk-_-2022_08_01_09_04_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thetimes_co_uk-_-2022_08_01_09_04_20.report.json",
       "summary": {
-        "performance": 0.08,
-        "accessibility": 0.86,
+        "performance": 0.25,
+        "accessibility": 0.87,
         "best-practices": 0.92,
-        "seo": 0.86,
+        "seo": 0.79,
         "pwa": 0.4
       }
     },
     {
       "url": "https://www.thetimes.co.uk/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thetimes_co_uk-_-2022_07_31_13_10_00.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thetimes_co_uk-_-2022_07_31_13_10_00.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thetimes_co_uk-_-2022_08_01_09_03_08.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thetimes_co_uk-_-2022_08_01_09_03_08.report.json",
       "summary": {
-        "performance": 0.1,
-        "accessibility": 0.86,
+        "performance": 0.12,
+        "accessibility": 0.87,
         "best-practices": 0.92,
-        "seo": 0.86,
+        "seo": 0.79,
         "pwa": 0.4
       }
     }
   ],
-  "uniq": 32586689,
+  "uniq": 340340211,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia802508.us.archive.org",
+    "ia902508.us.archive.org"
   ]
 }

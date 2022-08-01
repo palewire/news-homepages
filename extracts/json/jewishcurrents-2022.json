@@ -1,5 +1,5 @@
 {
-  "created": 1659313250,
+  "created": 1659356423,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/8/items/jewishcurrents-2022",
@@ -2118,31 +2118,72 @@
       "sha1": "3391c0d307589acb08da96dba976826d5bf6e2fc"
     },
     {
+      "name": "jewishcurrents-2022-08-01T08:19:29.520672-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659356374",
+      "size": "13470",
+      "md5": "79adc921d11a7fb10e50b8ded1e1da5e",
+      "crc32": "3285a59c",
+      "sha1": "77f64d01b023cadac5dfb0fb5273dc2b159622b3",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-08-01T08:19:29.520672-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659356376",
+      "size": "29834",
+      "md5": "8d6ff1682e32e5671d76041b18b82b08",
+      "crc32": "3b377040",
+      "sha1": "5e6663bbdb595de47e2a3664ce3c8e1e77b5c817",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-08-01T08:19:29.520672-04:00.jpg",
+      "source": "original",
+      "mtime": "1659356372",
+      "size": "211571",
+      "md5": "c2ac04ff7c25c1e4cffb402545bcdef0",
+      "crc32": "4d75df4a",
+      "sha1": "d015df121d2158f984c691fb3942ebe983afde44",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jewishcurrents-2022-08-01T08:19:29.520672-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659356378",
+      "size": "1494",
+      "md5": "b11f1db87b3b34a1285345c32ae7721f",
+      "crc32": "283326cd",
+      "sha1": "50aaeb2d32e4bb6229293e8e787e9f64ef1d2838",
+      "format": "JSON"
+    },
+    {
       "name": "jewishcurrents-2022_archive.torrent",
       "source": "metadata",
-      "btih": "47601da823049bac02b8a9fb1fc2575bf5354093",
-      "mtime": "1659313209",
-      "size": "45049",
-      "md5": "3e3f97b7b0077eb198627ba410e209b2",
-      "crc32": "908aae48",
-      "sha1": "e649450319d39b9997c2569fcd8b7409f8f431d8",
+      "btih": "821a95d87f4cd0aeaa0af74f866e2c4d66c802ac",
+      "mtime": "1659356419",
+      "size": "45908",
+      "md5": "5e4ff0782f0ca1a0137f4b38d2ec974f",
+      "crc32": "215c15fb",
+      "sha1": "c491bd56a22c5de817759ab1bc05fae7b49e6dfa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jewishcurrents-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "675afe28a882544f91c7440de0f66f13",
+      "md5": "82d463df69009729d0b1bdb5809913f0",
       "summation": "md5"
     },
     {
       "name": "jewishcurrents-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659313022",
-      "size": "262144",
-      "md5": "2048b91360e1d30bf7785a1a91203916",
-      "crc32": "8fdc96f5",
-      "sha1": "7f363a03c2f5b4e8bef237cf2203ca12a3ce46e3",
+      "mtime": "1659356383",
+      "size": "266240",
+      "md5": "88d95020c0604f7dcb3b53e7252aeb2f",
+      "crc32": "edd78a2b",
+      "sha1": "40158605e0e9cd1f58afd30d451f0bf1fc97fa10",
       "format": "Metadata"
     },
     {
@@ -2156,9 +2197,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 206,
-  "item_last_updated": 1659313209,
-  "item_size": 12330678,
+  "files_count": 210,
+  "item_last_updated": 1659356419,
+  "item_size": 12592002,
   "metadata": {
     "identifier": "jewishcurrents-2022",
     "collection": [
@@ -2175,10 +2216,21 @@
     "publicdate": "2022-07-09 03:59:40",
     "addeddate": "2022-07-09 03:59:40"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1506676568,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3349626444,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1194522247,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }
