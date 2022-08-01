@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 24 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chess24com-2022/chess24com-2022-07-31T15:29:49.823151+02:00.jpg">
+  <img src="https://archive.org/download/chess24com-2022/chess24com-2022-07-31T15:29:49.823151+02:00.jpg"
+     alt="chess24 at 2022-07-31 15:29:51+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chess24com-2022/chess24com-2022-07-31T15:29:49.823151+02:00.jpg">July 31 at 3:29 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chess24com-2022/chess24com-2022-07-31T04:45:21.621578+02:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chess24com-2022/chess24com-2022-07-26T04:59:05.938043+02:00.jpg">July 26 at 4:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chess24com-2022/chess24com-2022-07-26T03:31:35.097090+02:00.jpg">
-  <img src="https://archive.org/download/chess24com-2022/chess24com-2022-07-26T03:31:35.097090+02:00.jpg"
-     alt="chess24 at 2022-07-26 03:31:37+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chess24com-2022/chess24com-2022-07-26T03:31:35.097090+02:00.jpg">July 26 at 3:31 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 24 hyperlink lists with the Internet Archive.
+The archiving routine has saved 25 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 3:29 PM](https://archive.org/download/chess24com-2022/chess24com-2022-07-31T15:29:49.823151+02:00.hyperlinks.json) |
 | [July 31 at 4:45 AM](https://archive.org/download/chess24com-2022/chess24com-2022-07-31T04:45:21.621578+02:00.hyperlinks.json) |
 | [July 30 at 3:32 PM](https://archive.org/download/chess24com-2022/chess24com-2022-07-30T15:32:41.711879+02:00.hyperlinks.json) |
 | [July 30 at 3:20 AM](https://archive.org/download/chess24com-2022/chess24com-2022-07-30T03:19:57.555652+02:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 3:28 AM](https://archive.org/download/chess24com-2022/chess24com-2022-07-28T03:28:38.248171+02:00.hyperlinks.json) |
 | [July 27 at 3:19 PM](https://archive.org/download/chess24com-2022/chess24com-2022-07-27T15:19:07.288176+02:00.hyperlinks.json) |
 | [July 27 at 3:25 AM](https://archive.org/download/chess24com-2022/chess24com-2022-07-27T03:25:13.932390+02:00.hyperlinks.json) |
-| [July 26 at 3:26 PM](https://archive.org/download/chess24com-2022/chess24com-2022-07-26T15:26:48.157138+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 24 accessibility trees with the Internet Archive.
+The archiving routine has saved 25 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 3:29 PM](https://archive.org/download/chess24com-2022/chess24com-2022-07-31T15:29:49.823151+02:00.accessibility.json) |
 | [July 31 at 4:45 AM](https://archive.org/download/chess24com-2022/chess24com-2022-07-31T04:45:21.621578+02:00.accessibility.json) |
 | [July 30 at 3:32 PM](https://archive.org/download/chess24com-2022/chess24com-2022-07-30T15:32:41.711879+02:00.accessibility.json) |
 | [July 30 at 3:20 AM](https://archive.org/download/chess24com-2022/chess24com-2022-07-30T03:19:57.555652+02:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 3:28 AM](https://archive.org/download/chess24com-2022/chess24com-2022-07-28T03:28:38.248171+02:00.accessibility.json) |
 | [July 27 at 3:19 PM](https://archive.org/download/chess24com-2022/chess24com-2022-07-27T15:19:07.288176+02:00.accessibility.json) |
 | [July 27 at 3:25 AM](https://archive.org/download/chess24com-2022/chess24com-2022-07-27T03:25:13.932390+02:00.accessibility.json) |
-| [July 26 at 3:26 PM](https://archive.org/download/chess24com-2022/chess24com-2022-07-26T15:26:48.157138+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 3:29 PM](https://archive.org/download/chess24com-2022/chess24com-2022-07-31T15:29:49.823151+02:00.lighthouse.json) |
 | [July 31 at 4:45 AM](https://archive.org/download/chess24com-2022/chess24com-2022-07-31T04:45:21.621578+02:00.lighthouse.json) |
 | [July 30 at 3:32 PM](https://archive.org/download/chess24com-2022/chess24com-2022-07-30T15:32:41.711879+02:00.lighthouse.json) |
 | [July 30 at 3:20 AM](https://archive.org/download/chess24com-2022/chess24com-2022-07-30T03:19:57.555652+02:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 3:28 AM](https://archive.org/download/chess24com-2022/chess24com-2022-07-28T03:28:38.248171+02:00.lighthouse.json) |
 | [July 27 at 3:19 PM](https://archive.org/download/chess24com-2022/chess24com-2022-07-27T15:19:07.288176+02:00.lighthouse.json) |
 | [July 27 at 3:25 AM](https://archive.org/download/chess24com-2022/chess24com-2022-07-27T03:25:13.932390+02:00.lighthouse.json) |
-| [July 26 at 3:26 PM](https://archive.org/download/chess24com-2022/chess24com-2022-07-26T15:26:48.157138+02:00.lighthouse.json) |
 
 
 

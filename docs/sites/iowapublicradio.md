@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 205 screenshots with the Internet Archive.
+The archiving routine has saved 207 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-31T19:17:00.137010-05:00.jpg">
+  <img src="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-31T19:17:00.137010-05:00.jpg"
+     alt="Iowa Public Radio at 2022-07-31 19:17:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-31T19:17:00.137010-05:00.jpg">July 31 at 7:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-31T08:15:55.928770-05:00.jpg">
+  <img src="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-31T08:15:55.928770-05:00.jpg"
+     alt="Iowa Public Radio at 2022-07-31 08:15:57-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-31T08:15:55.928770-05:00.jpg">July 31 at 8:15 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-30T19:24:02.680880-05:00.jpg">
   <img src="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-30T19:24:02.680880-05:00.jpg"
      alt="Iowa Public Radio at 2022-07-30 19:24:04-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-27T08:07:03.455139-05:00.jpg">July 27 at 8:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-26T19:12:08.099014-05:00.jpg">
-  <img src="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-26T19:12:08.099014-05:00.jpg"
-     alt="Iowa Public Radio at 2022-07-26 19:12:11-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-26T19:12:08.099014-05:00.jpg">July 26 at 7:12 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-26T07:19:35.490643-05:00.jpg">
-  <img src="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-26T07:19:35.490643-05:00.jpg"
-     alt="Iowa Public Radio at 2022-07-26 07:19:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-26T07:19:35.490643-05:00.jpg">July 26 at 7:19 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 199 hyperlink lists with the Internet Archive.
+The archiving routine has saved 201 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 7:17 PM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-31T19:17:00.137010-05:00.hyperlinks.json) |
+| [July 31 at 8:16 AM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-31T08:15:55.928770-05:00.hyperlinks.json) |
 | [July 30 at 7:24 PM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-30T19:24:02.680880-05:00.hyperlinks.json) |
 | [July 30 at 7:20 AM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-30T07:19:53.643851-05:00.hyperlinks.json) |
 | [July 29 at 7:08 PM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-29T19:08:45.832105-05:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 7:11 PM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-28T19:11:45.743190-05:00.hyperlinks.json) |
 | [July 28 at 8:09 AM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-28T08:09:45.156182-05:00.hyperlinks.json) |
 | [July 27 at 7:04 PM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-27T19:03:57.936126-05:00.hyperlinks.json) |
-| [July 27 at 11:08 AM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-27T11:08:46.339502-05:00.hyperlinks.json) |
-| [July 27 at 8:07 AM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-27T08:07:03.455139-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 199 accessibility trees with the Internet Archive.
+The archiving routine has saved 201 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 7:17 PM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-31T19:17:00.137010-05:00.accessibility.json) |
+| [July 31 at 8:15 AM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-31T08:15:55.928770-05:00.accessibility.json) |
 | [July 30 at 7:24 PM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-30T19:24:02.680880-05:00.accessibility.json) |
 | [July 30 at 7:19 AM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-30T07:19:53.643851-05:00.accessibility.json) |
 | [July 29 at 7:08 PM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-29T19:08:45.832105-05:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 7:11 PM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-28T19:11:45.743190-05:00.accessibility.json) |
 | [July 28 at 8:09 AM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-28T08:09:45.156182-05:00.accessibility.json) |
 | [July 27 at 7:04 PM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-27T19:03:57.936126-05:00.accessibility.json) |
-| [July 27 at 11:08 AM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-27T11:08:46.339502-05:00.accessibility.json) |
-| [July 27 at 8:07 AM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-27T08:07:03.455139-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 7:17 PM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-31T19:17:00.137010-05:00.lighthouse.json) |
+| [July 31 at 8:16 AM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-31T08:15:55.928770-05:00.lighthouse.json) |
 | [July 30 at 7:24 PM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-30T19:24:02.680880-05:00.lighthouse.json) |
 | [July 30 at 7:20 AM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-30T07:19:53.643851-05:00.lighthouse.json) |
 | [July 29 at 7:08 PM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-29T19:08:45.832105-05:00.lighthouse.json) |
@@ -450,8 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 7:11 PM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-28T19:11:45.743190-05:00.lighthouse.json) |
 | [July 28 at 8:09 AM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-28T08:09:45.156182-05:00.lighthouse.json) |
 | [July 27 at 7:04 PM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-27T19:03:57.936126-05:00.lighthouse.json) |
-| [July 27 at 11:08 AM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-27T11:08:46.339502-05:00.lighthouse.json) |
-| [July 27 at 8:07 AM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-07-27T08:07:03.455139-05:00.lighthouse.json) |
 
 
 

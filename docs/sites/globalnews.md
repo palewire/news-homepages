@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 80 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 80 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-31T10:36:54.400326-04:00.jpg">
+  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-07-31T10:36:54.400326-04:00.jpg"
+     alt="Global News at 2022-07-31 10:37:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-31T10:36:54.400326-04:00.jpg">July 31 at 10:37 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-30T22:56:54.998626-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-25T22:43:05.700850-04:00.jpg">July 25 at 10:43 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-25T08:04:24.195762-04:00.jpg">
-  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-07-25T08:04:24.195762-04:00.jpg"
-     alt="Global News at 2022-07-25 08:04:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-25T08:04:24.195762-04:00.jpg">July 25 at 8:04 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 71 hyperlink lists with the Internet Archive.
+The archiving routine has saved 72 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 10:37 AM](https://archive.org/download/globalnews-2022/globalnews-2022-07-31T10:36:54.400326-04:00.hyperlinks.json) |
 | [July 30 at 10:56 PM](https://archive.org/download/globalnews-2022/globalnews-2022-07-30T22:56:54.998626-04:00.hyperlinks.json) |
 | [July 30 at 11:40 AM](https://archive.org/download/globalnews-2022/globalnews-2022-07-30T11:39:58.195914-04:00.hyperlinks.json) |
 | [July 29 at 10:39 PM](https://archive.org/download/globalnews-2022/globalnews-2022-07-29T22:39:10.471246-04:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 27 at 10:37 PM](https://archive.org/download/globalnews-2022/globalnews-2022-07-27T22:37:42.251142-04:00.hyperlinks.json) |
 | [July 26 at 10:37 PM](https://archive.org/download/globalnews-2022/globalnews-2022-07-26T22:37:15.960876-04:00.hyperlinks.json) |
 | [July 26 at 10:36 AM](https://archive.org/download/globalnews-2022/globalnews-2022-07-26T10:36:51.165542-04:00.hyperlinks.json) |
-| [July 25 at 10:43 PM](https://archive.org/download/globalnews-2022/globalnews-2022-07-25T22:43:05.700850-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -434,7 +434,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 10:37 AM](https://archive.org/download/globalnews-2022/globalnews-2022-07-31T10:36:54.400326-04:00.lighthouse.json) |
 | [July 30 at 10:56 PM](https://archive.org/download/globalnews-2022/globalnews-2022-07-30T22:56:54.998626-04:00.lighthouse.json) |
 | [July 30 at 11:40 AM](https://archive.org/download/globalnews-2022/globalnews-2022-07-30T11:39:58.195914-04:00.lighthouse.json) |
 | [July 29 at 10:39 PM](https://archive.org/download/globalnews-2022/globalnews-2022-07-29T22:39:10.471246-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 10:37 PM](https://archive.org/download/globalnews-2022/globalnews-2022-07-27T22:37:42.251142-04:00.lighthouse.json) |
 | [July 27 at 10:29 AM](https://archive.org/download/globalnews-2022/globalnews-2022-07-27T10:29:44.290642-04:00.lighthouse.json) |
 | [July 26 at 10:37 PM](https://archive.org/download/globalnews-2022/globalnews-2022-07-26T22:37:15.960876-04:00.lighthouse.json) |
-| [July 26 at 10:36 AM](https://archive.org/download/globalnews-2022/globalnews-2022-07-26T10:36:51.165542-04:00.lighthouse.json) |
 
 
 

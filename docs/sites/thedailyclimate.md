@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-31T07:32:29.864532-06:00.jpg">
+  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-31T07:32:29.864532-06:00.jpg"
+     alt="Daily Climate at 2022-07-31 07:32:31-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-31T07:32:29.864532-06:00.jpg">July 31 at 7:32 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-30T20:48:05.529319-06:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-25T20:51:27.351654-06:00.jpg">July 25 at 8:51 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-25T19:36:03.282182-06:00.jpg">
-  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-25T19:36:03.282182-06:00.jpg"
-     alt="Daily Climate at 2022-07-25 19:36:04-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-25T19:36:03.282182-06:00.jpg">July 25 at 7:36 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 18 hyperlink lists with the Internet Archive.
+The archiving routine has saved 19 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 7:32 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-31T07:32:29.864532-06:00.hyperlinks.json) |
 | [July 30 at 8:48 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-30T20:48:05.529319-06:00.hyperlinks.json) |
 | [July 30 at 7:35 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-30T07:35:18.623095-06:00.hyperlinks.json) |
 | [July 29 at 7:23 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-29T19:22:56.264480-06:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 27 at 7:31 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-27T19:30:57.425352-06:00.hyperlinks.json) |
 | [July 27 at 7:22 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-27T07:22:35.006950-06:00.hyperlinks.json) |
 | [July 26 at 7:28 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-26T19:28:20.438376-06:00.hyperlinks.json) |
-| [July 26 at 7:30 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-26T07:30:27.160284-06:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 18 accessibility trees with the Internet Archive.
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 7:32 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-31T07:32:29.864532-06:00.accessibility.json) |
 | [July 30 at 8:48 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-30T20:48:05.529319-06:00.accessibility.json) |
 | [July 30 at 7:35 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-30T07:35:18.623095-06:00.accessibility.json) |
 | [July 29 at 7:23 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-29T19:22:56.264480-06:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 27 at 7:31 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-27T19:30:57.425352-06:00.accessibility.json) |
 | [July 27 at 7:22 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-27T07:22:35.006950-06:00.accessibility.json) |
 | [July 26 at 7:28 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-26T19:28:20.438376-06:00.accessibility.json) |
-| [July 26 at 7:30 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-26T07:30:27.160284-06:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 7:32 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-31T07:32:29.864532-06:00.lighthouse.json) |
 | [July 30 at 8:48 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-30T20:48:05.529319-06:00.lighthouse.json) |
 | [July 30 at 7:35 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-30T07:35:18.623095-06:00.lighthouse.json) |
 | [July 29 at 7:23 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-29T19:22:56.264480-06:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 7:31 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-27T19:30:57.425352-06:00.lighthouse.json) |
 | [July 27 at 7:22 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-27T07:22:35.006950-06:00.lighthouse.json) |
 | [July 26 at 7:28 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-26T19:28:20.438376-06:00.lighthouse.json) |
-| [July 26 at 7:30 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-26T07:30:27.160284-06:00.lighthouse.json) |
 
 
 

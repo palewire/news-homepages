@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 225 screenshots with the Internet Archive.
+The archiving routine has saved 226 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 225 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-31T16:36:30.768298+02:00.jpg">
+  <img src="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-31T16:36:30.768298+02:00.jpg"
+     alt="franceinfo at 2022-07-31 16:36:32+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-31T16:36:30.768298+02:00.jpg">July 31 at 4:36 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-31T10:12:05.930559+02:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-28T04:36:28.582146+02:00.jpg">July 28 at 4:36 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-27T16:29:04.778371+02:00.jpg">
-  <img src="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-27T16:29:04.778371+02:00.jpg"
-     alt="franceinfo at 2022-07-27 16:29:18+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-27T16:29:04.778371+02:00.jpg">July 27 at 4:29 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 225 hyperlink lists with the Internet Archive.
+The archiving routine has saved 226 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 4:36 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-31T16:36:30.768298+02:00.hyperlinks.json) |
 | [July 31 at 10:12 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-31T10:12:05.930559+02:00.hyperlinks.json) |
 | [July 31 at 4:55 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-31T04:55:30.990791+02:00.hyperlinks.json) |
 | [July 30 at 5:39 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-30T17:39:11.281620+02:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 10:10 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-29T10:10:45.162389+02:00.hyperlinks.json) |
 | [July 29 at 4:35 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-29T04:35:06.540747+02:00.hyperlinks.json) |
 | [July 28 at 5:39 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-28T17:39:45.874893+02:00.hyperlinks.json) |
-| [July 28 at 10:10 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-28T10:10:49.862299+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 224 accessibility trees with the Internet Archive.
+The archiving routine has saved 225 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 4:36 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-31T16:36:30.768298+02:00.accessibility.json) |
 | [July 31 at 10:12 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-31T10:12:05.930559+02:00.accessibility.json) |
 | [July 31 at 4:55 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-31T04:55:30.990791+02:00.accessibility.json) |
 | [July 30 at 5:39 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-30T17:39:11.281620+02:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 10:10 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-29T10:10:45.162389+02:00.accessibility.json) |
 | [July 29 at 4:35 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-29T04:35:06.540747+02:00.accessibility.json) |
 | [July 28 at 5:39 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-28T17:39:45.874893+02:00.accessibility.json) |
-| [July 28 at 10:10 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-28T10:10:49.862299+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 4:36 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-31T16:36:30.768298+02:00.lighthouse.json) |
 | [July 31 at 10:12 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-31T10:12:05.930559+02:00.lighthouse.json) |
 | [July 31 at 4:55 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-31T04:55:30.990791+02:00.lighthouse.json) |
 | [July 30 at 5:39 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-30T17:39:11.281620+02:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 10:11 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-29T10:10:45.162389+02:00.lighthouse.json) |
 | [July 29 at 4:35 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-29T04:35:06.540747+02:00.lighthouse.json) |
 | [July 28 at 5:39 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-28T17:39:45.874893+02:00.lighthouse.json) |
-| [July 28 at 10:10 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-07-28T10:10:49.862299+02:00.lighthouse.json) |
 
 
 

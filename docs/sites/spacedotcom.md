@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 12 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-31T20:25:45.076913-04:00.jpg">
+  <img src="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-31T20:25:45.076913-04:00.jpg"
+     alt="Space.com at 2022-07-31 20:25:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-31T20:25:45.076913-04:00.jpg">July 31 at 8:25 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-31T09:25:01.969188-04:00.jpg">
+  <img src="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-31T09:25:01.969188-04:00.jpg"
+     alt="Space.com at 2022-07-31 09:25:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-31T09:25:01.969188-04:00.jpg">July 31 at 9:25 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-30T20:35:26.223943-04:00.jpg">
@@ -122,7 +140,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 9 hyperlink lists with the Internet Archive.
+The archiving routine has saved 11 hyperlink lists with the Internet Archive.
 
 
 
@@ -130,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 8:25 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-31T20:25:45.076913-04:00.hyperlinks.json) |
+| [July 31 at 9:25 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-31T09:25:01.969188-04:00.hyperlinks.json) |
 | [July 30 at 8:35 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-30T20:35:26.223943-04:00.hyperlinks.json) |
 | [July 30 at 8:31 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-30T08:31:16.853757-04:00.hyperlinks.json) |
 | [July 29 at 8:17 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-29T20:17:48.356362-04:00.hyperlinks.json) |
@@ -138,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 9:18 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-28T09:18:51.115989-04:00.hyperlinks.json) |
 | [July 27 at 8:12 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-27T20:12:09.229256-04:00.hyperlinks.json) |
 | [July 27 at 9:16 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-27T09:16:10.859151-04:00.hyperlinks.json) |
-| [July 26 at 8:30 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-26T08:29:54.855109-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 8 accessibility trees with the Internet Archive.
+The archiving routine has saved 10 accessibility trees with the Internet Archive.
 
 
 
@@ -151,6 +170,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 8:25 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-31T20:25:45.076913-04:00.accessibility.json) |
+| [July 31 at 9:25 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-31T09:25:01.969188-04:00.accessibility.json) |
 | [July 30 at 8:35 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-30T20:35:26.223943-04:00.accessibility.json) |
 | [July 30 at 8:31 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-30T08:31:16.853757-04:00.accessibility.json) |
 | [July 29 at 8:17 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-29T20:17:48.356362-04:00.accessibility.json) |
@@ -164,7 +185,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 6 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 7 Lighthouse audits with the Internet Archive.
 
 
 
@@ -172,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 8:25 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-31T20:25:45.076913-04:00.lighthouse.json) |
 | [July 30 at 8:35 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-30T20:35:26.223943-04:00.lighthouse.json) |
 | [July 30 at 8:31 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-30T08:31:16.853757-04:00.lighthouse.json) |
 | [July 29 at 8:17 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-07-29T20:17:48.356362-04:00.lighthouse.json) |

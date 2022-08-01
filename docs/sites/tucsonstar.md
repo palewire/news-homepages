@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 52 screenshots with the Internet Archive.
+The archiving routine has saved 53 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 52 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-31T06:33:54.491155-07:00.jpg">
+  <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-31T06:33:54.491155-07:00.jpg"
+     alt="Arizona Daily Star at 2022-07-31 06:33:55-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-31T06:33:54.491155-07:00.jpg">July 31 at 6:33 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-30T19:49:40.224071-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-25T18:37:02.728792-07:00.jpg">July 25 at 6:37 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-25T08:51:40.000392-07:00.jpg">
-  <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-25T08:51:40.000392-07:00.jpg"
-     alt="Arizona Daily Star at 2022-07-25 08:51:41-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-25T08:51:40.000392-07:00.jpg">July 25 at 8:51 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 51 hyperlink lists with the Internet Archive.
+The archiving routine has saved 52 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [July 31 at 6:33 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-31T06:33:54.491155-07:00.hyperlinks.json) |
 | [July 30 at 7:49 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-30T19:49:40.224071-07:00.hyperlinks.json) |
 | [July 30 at 6:37 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-30T06:37:21.299833-07:00.hyperlinks.json) |
 | [July 29 at 6:24 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-29T18:24:13.634549-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 27 at 6:32 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-27T18:32:51.015855-07:00.hyperlinks.json) |
 | [July 27 at 6:24 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-27T06:24:45.608952-07:00.hyperlinks.json) |
 | [July 26 at 6:30 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-26T18:29:56.094462-07:00.hyperlinks.json) |
-| [July 26 at 6:34 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-26T06:34:00.261983-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 52 accessibility trees with the Internet Archive.
+The archiving routine has saved 53 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [July 31 at 6:33 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-31T06:33:54.491155-07:00.accessibility.json) |
 | [July 30 at 7:49 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-30T19:49:40.224071-07:00.accessibility.json) |
 | [July 29 at 6:24 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-29T18:24:13.634549-07:00.accessibility.json) |
 | [July 29 at 6:35 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-29T06:35:33.106070-07:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 27 at 6:24 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-27T06:24:45.608952-07:00.accessibility.json) |
 | [July 26 at 6:29 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-26T18:29:56.094462-07:00.accessibility.json) |
 | [July 26 at 6:34 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-26T06:34:00.261983-07:00.accessibility.json) |
-| [July 25 at 7:53 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-25T19:53:27.328653-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [July 31 at 6:34 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-31T06:33:54.491155-07:00.lighthouse.json) |
 | [July 30 at 7:49 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-30T19:49:40.224071-07:00.lighthouse.json) |
 | [July 30 at 6:37 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-30T06:37:21.299833-07:00.lighthouse.json) |
 | [July 29 at 6:24 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-29T18:24:13.634549-07:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 27 at 6:32 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-27T18:32:51.015855-07:00.lighthouse.json) |
 | [July 27 at 6:24 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-27T06:24:45.608952-07:00.lighthouse.json) |
 | [July 26 at 6:30 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-26T18:29:56.094462-07:00.lighthouse.json) |
-| [July 26 at 6:34 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-26T06:34:00.261983-07:00.lighthouse.json) |
 
 
 
